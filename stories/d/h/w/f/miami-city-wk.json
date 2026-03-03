@@ -1,0 +1,163 @@
+{
+  "id": "miami-city-wk",
+  "source": "wikipedia",
+  "sourceId": "30616",
+  "title": "Miami: The City Where Latin America Meets America",
+  "slug": "miami-city",
+  "summary": "The Florida metropolis that's more Latin American than American in character - where Cuban exiles built a city within a city, where Art Deco hotels line South Beach, and where the sea is rising faster than the politicians admit.",
+  "content": {
+    "intro": "Miami is the only major American city founded by a woman - Julia Tuttle convinced Henry Flagler to extend his railroad south by sending him orange blossoms during a freeze that killed crops everywhere else. The city that emerged in 1896 was a tropical outpost; the city that exists today is the unofficial capital of Latin America, where Spanish is heard more often than English in many neighborhoods, where Cuban exiles recreated Havana after 1959, and where the cultural gravity pulls south rather than north. Miami isn't quite America and isn't quite Latin America - it's something in between, tropical and transactional, beautiful and troubled, sinking slowly as the sea rises.",
+    "sections": [
+      {
+        "title": "The Cubans",
+        "body": "After Castro's revolution, Cuban exiles began arriving in Miami - first the elites fleeing nationalization, then the broader middle class, then waves that continued for decades. Little Havana on Calle Ocho became a community in exile, preserving Cuban culture while waiting to return. The return never came; the community became permanent. Cuban Americans built businesses, entered politics, and shaped Miami's character indelibly. The political conservatism of the exile community made Miami's Cuban neighborhoods different from other Latino enclaves - fiercely anti-communist, Republican-leaning, culturally distinctive. Miami is where Cuban America lives."
+      },
+      {
+        "title": "Art Deco",
+        "body": "South Beach's Art Deco Historic District contains the largest collection of Art Deco architecture in the world - over 800 buildings from the 1930s and 1940s preserved in pastel colors along Ocean Drive and Collins Avenue. The hotels were designed for middle-class tourists seeking sun; the depression-era construction was cheap but stylish. By the 1970s, the neighborhood was decayed and dangerous; gay activists and preservationists began the restoration that transformed South Beach into fashion destination. The architecture remains: geometric forms, porthole windows, neon signage, the optimistic modernism of an era when Miami seemed like the future."
+      },
+      {
+        "title": "The Water",
+        "body": "Miami is among the most vulnerable cities in America to sea level rise. The land is flat limestone; the water table is high; storm surge can overwhelm the coast. King tides already flood streets in Miami Beach several times yearly; the flooding is worsening. The city is spending hundreds of millions on pumps and raised roads, but the underlying problem - sea level rising faster than defenses can be built - has no solution that doesn't involve retreat. Real estate prices remain high; construction continues on barrier islands; the contradiction between market confidence and physical reality defines Miami's future."
+      },
+      {
+        "title": "The Money",
+        "body": "Miami is a banking center for Latin America, a condo market for international buyers, and a tax haven for those fleeing higher-tax states. The money that flows through the city has historically included questionable sources - drug money in the 1980s, money laundering that continues today. The luxury towers rising on the coast are partly marketed to overseas buyers seeking to park capital in stable American real estate. The economy is real estate, tourism, international trade, and services for wealthy Latin Americans who want access to American banking, shopping, and healthcare without leaving the Spanish-speaking world."
+      },
+      {
+        "title": "Visiting Miami",
+        "body": "Miami is served by Miami International Airport, a major hub for Latin American travel. South Beach concentrates Art Deco architecture, restaurants, and nightlife; the beach itself is beautiful and crowded. Little Havana on Calle Ocho offers Cuban food, dominoes players in Máximo Gómez Park, and the Calle Ocho Walk of Fame. Wynwood is the arts district, its walls covered in murals. The Pérez Art Museum Miami occupies a stunning waterfront building. Vizcaya Museum and Gardens preserves a Gilded Age estate. The weather is tropical year-round; summer is hot and humid with afternoon thunderstorms. The experience is unlike anywhere else in the continental United States - a city where America and Latin America have merged into something new."
+      }
+    ],
+    "flightContext": "Located at 25.76°N, 80.19°W on Biscayne Bay at the southeastern tip of the Florida peninsula. From altitude, Miami appears as urban development pressed against the water - the barrier islands of Miami Beach visible offshore, the Everglades marking the western boundary, Biscayne Bay separating mainland from beach. The Port of Miami handles cruise ships; the downtown skyline rises from the waterfront. The flatness is apparent - no hills anywhere, the land barely above sea level. What appears from altitude as a tropical coastal city is America's gateway to Latin America - culturally distinct, physically vulnerable, thriving on the edge of multiple worlds."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 25.7617,
+      "lng": -80.1918
+    },
+    "geohash": "dhwfx"
+  },
+  "categories": [
+    "florida",
+    "miami",
+    "city",
+    "cuban",
+    "art-deco"
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-12T00:00:00Z",
+    "wordCount": 855,
+    "readTime": 5,
+    "firstPublished": "2026-01-12T00:00:00Z",
+    "storyNumber": 557
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Miami - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Miami",
+      "accessedAt": "2026-01-17",
+      "claimsVerified": [
+        "Founded by Julia Tuttle 1896",
+        "Over 800 Art Deco buildings",
+        "Among most vulnerable to sea level rise"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 3,
+    "strongOpinions": [
+      "The City Where Latin America Meets America",
+      "The sea is rising faster than the politicians admit"
+    ]
+  },
+  "locationWikipediaPath": "d/h/w/f/miami-wp",
+  "locationWikivoyagePath": "d/h/w/f/miami-wk",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "corkscrew-swamp-sanctuary-wp",
+      "title": "Corkscrew Swamp Sanctuary",
+      "tile": "dhty",
+      "coordinates": {
+        "lat": 26.375555555555557,
+        "lng": -81.60416666666666
+      },
+      "distanceKm": 84.4
+    },
+    "n": {
+      "id": "mar-a-lago-wp",
+      "title": "Mar-a-Lago",
+      "tile": "dhxp",
+      "coordinates": {
+        "lat": 26.676944444444445,
+        "lng": -80.03694444444444
+      },
+      "distanceKm": 79.2
+    },
+    "ne": {
+      "id": "flight-19-wp",
+      "title": "Flight 19",
+      "tile": "djpu",
+      "coordinates": {
+        "lat": 29,
+        "lng": -79
+      },
+      "distanceKm": 341.2
+    },
+    "w": {
+      "id": "dade-collier-training-and-transition-airport-wp",
+      "title": "Dade-Collier Training and Transition Airport",
+      "tile": "dhw7",
+      "coordinates": {
+        "lat": 25.861666666666668,
+        "lng": -80.89694444444446
+      },
+      "distanceKm": 12.8
+    },
+    "e": {
+      "id": "h-l-hunley-wp",
+      "title": "H. L. Hunley",
+      "tile": "djz6",
+      "coordinates": {
+        "lat": 32.733333333333334,
+        "lng": -79.76666666666667
+      },
+      "distanceKm": 776.3
+    },
+    "sw": {
+      "id": "everglades-river-grass-wk",
+      "title": "The Everglades: The River of Grass That Almost Died",
+      "tile": "dhw2",
+      "coordinates": {
+        "lat": 25.35,
+        "lng": -80.93
+      },
+      "distanceKm": 16.9
+    },
+    "s": {
+      "id": "elliott-key-wp",
+      "title": "Elliott Key",
+      "tile": "dhwb",
+      "coordinates": {
+        "lat": 25.443055555555556,
+        "lng": -80.19722222222222
+      },
+      "distanceKm": 14.4
+    },
+    "se": {
+      "id": "batalla-de-santa-clara-wp",
+      "title": "Batalla de Santa Clara",
+      "tile": "dhp2",
+      "coordinates": {
+        "lat": 22.616666666666667,
+        "lng": -79.68333333333334
+      },
+      "distanceKm": 319.5
+    }
+  },
+  "keywords": [
+    "miami",
+    "miami-city"
+  ]
+}

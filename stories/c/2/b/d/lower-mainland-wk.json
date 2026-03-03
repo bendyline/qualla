@@ -1,0 +1,157 @@
+{
+  "id": "lower-mainland-wk",
+  "source": "wikipedia",
+  "sourceId": "20394",
+  "title": "Lower Mainland",
+  "slug": "lower-mainland",
+  "summary": "Home to Greater Vancouver and stretching from the Sunshine Coast to the American border, the Lower Mainland encompasses Canada's largest metropolitan area west of Toronto.",
+  "content": {
+    "intro": "The term means different things to different people. Ask a Vancouverite and they might gesture vaguely eastward, indicating everything from the Fraser Valley farms to the ski slopes of Whistler. Officially, the Lower Mainland stretches from the Sunshine Coast in the north to the American border in the south, from Vancouver's glass towers to the small town of Hope where three highways converge at the Fraser Canyon's mouth. This is British Columbia's population center, home to Greater Vancouver, the largest metropolitan area west of Toronto, and to landscapes ranging from urban cores to agricultural valleys to wilderness playgrounds. More than half of British Columbia's residents live within this region, yet a short drive from any downtown can deliver you to mountains, beaches, or farms where the twentieth century seems like a rumor.",
+    "sections": [
+      {
+        "title": "Greater Vancouver",
+        "body": "At the region's heart lies Greater Vancouver, a metropolitan area of over 2.6 million people anchored by Vancouver itself but extending through a constellation of municipalities. Burnaby and New Westminster occupy the geographic center. Richmond spreads across islands in the Fraser River delta, home to Vancouver International Airport and to Asian communities rivaling those of Hong Kong in authenticity. Surrey has grown into British Columbia's second-largest city, its diversity reflected in one of North America's largest South Asian populations. The SkyTrain rapid transit system connects much of this urban web, while ferries and bridges tie in the more distant reaches. For visitors, this metropolitan complexity offers everything from world-class dining to shopping to cultural institutions, all backed by mountain and ocean vistas."
+      },
+      {
+        "title": "The Fraser Valley",
+        "body": "East of Vancouver, the Fraser River flows through a broad valley that has become the region's agricultural heartland. Family farms dot the landscape, their roadside stands selling fresh produce in season. Award-winning wineries have established themselves around Langley, drawing visitors for tastings and tours. Mission's Catholic heritage is preserved at a working mission open for tours. And at the valley's eastern end, Hope serves as both gateway and crossroads: Highway 1 arrives from the Trans-Canada route through the Rocky Mountains, Highway 3 connects to the Crowsnest Pass, and Highway 5 descends from the Coquihalla. The Fraser Valley offers a counterpoint to Vancouver's urban intensity, a place where agriculture and small-town life persist within sight of the mountains."
+      },
+      {
+        "title": "Sea to Sky Country",
+        "body": "North of Vancouver, Highway 99 climbs through some of British Columbia's most spectacular scenery. This is the Sea to Sky Highway, threading past Squamish where rock climbers scale the granite face of the Stawamus Chief, and ascending to Whistler, the largest ski resort in North America. But Whistler offers year-round attractions: mountain biking on trails that have hosted world championships, hiking through alpine meadows, and a village designed for pedestrians rather than cars. The Peak 2 Peak Gondola spans the gap between Whistler and Blackcomb mountains, offering views that justify the engineering marvel. Even in summer, snow lingers on the highest slopes, and glaciers feed streams that tumble toward the sea."
+      },
+      {
+        "title": "The Sunshine Coast",
+        "body": "Accessible only by ferry or floatplane, the Sunshine Coast earns its name through geography: the mountains of Vancouver Island block much of the wet weather that drenches the mainland, creating a pocket of relative dryness along this stretch of coastline. Gibsons and Sechelt anchor the lower coast, their galleries and restaurants catering to day-trippers and weekenders from Vancouver. Powell River serves as the upper coast's hub, offering ferry connections to Vancouver Island and gateway access to Princess Louisa Inlet, one of British Columbia's most spectacular natural destinations. A 64-kilometer fjord ends in the inlet, a place reachable only by boat or floatplane, where waterfalls cascade from cliffs and wilderness feels absolute."
+      }
+    ],
+    "flightContext": "The Lower Mainland extends roughly from 49.0N to 50.0N and from 121.5W to 124.0W, encompassing British Columbia's southwestern corner. Vancouver International Airport (CYVR) serves as the region's primary air gateway, with Abbotsford Airport (CYXX) handling budget carriers. Floatplane services connect Vancouver to the Sunshine Coast, Victoria, and Whistler. From altitude, the region displays the contrast between urbanized areas clustering around the Fraser River delta and the mountain wilderness rising immediately to the north."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 49.66,
+      "lng": -122.91
+    },
+    "geohash": "c2bde"
+  },
+  "categories": [
+    "regions",
+    "pacific-northwest",
+    "cities",
+    "mountains",
+    "agriculture"
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-21T00:00:00Z",
+    "wordCount": 750,
+    "readTime": 4,
+    "firstPublished": "2026-01-21T00:00:00Z",
+    "storyNumber": 1247
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Lower Mainland - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lower_Mainland",
+      "accessedAt": "2026-01-22",
+      "claimsVerified": [
+        "Greater Vancouver 2.6 million",
+        "Whistler ski resort",
+        "Fraser Valley agriculture",
+        "Sunshine Coast geography"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": [
+      "twentieth century seems like a rumor"
+    ]
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "alert-bay-wk",
+      "title": "Alert Bay",
+      "tile": "c0vx",
+      "coordinates": {
+        "lat": 50.5856,
+        "lng": -126.9319
+      },
+      "distanceKm": 261.8
+    },
+    "n": {
+      "id": "whistler-olympic-wk",
+      "title": "Whistler: The Olympic Village That Became World's Best",
+      "tile": "c2bt",
+      "coordinates": {
+        "lat": 50.1163,
+        "lng": -122.9574
+      },
+      "distanceKm": 22.5
+    },
+    "ne": {
+      "id": "silver-star-wk",
+      "title": "Silver Star",
+      "tile": "c2gq",
+      "coordinates": {
+        "lat": 50.3597,
+        "lng": -119.058
+      },
+      "distanceKm": 239.1
+    },
+    "w": {
+      "id": "galiano-island-wk",
+      "title": "Galiano Island",
+      "tile": "c28n",
+      "coordinates": {
+        "lat": 48.9167,
+        "lng": -123.4167
+      },
+      "distanceKm": 82.5
+    },
+    "e": {
+      "id": "sumas-wk",
+      "title": "Sumas",
+      "tile": "c29n",
+      "coordinates": {
+        "lat": 48.997222222222,
+        "lng": -122.26555555556
+      },
+      "distanceKm": 73.7
+    },
+    "sw": {
+      "id": "nanaimo-bathtub-race-wk",
+      "title": "The Nanaimo Bathtub Race: When a City Got Weird",
+      "tile": "c0xz",
+      "coordinates": {
+        "lat": 49.17,
+        "lng": -123.94
+      },
+      "distanceKm": 46.5
+    },
+    "s": {
+      "id": "capilano-suspension-bridge-wk",
+      "title": "Capilano Suspension Bridge",
+      "tile": "c2b2",
+      "coordinates": {
+        "lat": 49.3429,
+        "lng": -123.1149
+      },
+      "distanceKm": 18.6
+    },
+    "se": {
+      "id": "fraser-valley-wk",
+      "title": "Fraser Valley",
+      "tile": "c2c0",
+      "coordinates": {
+        "lat": 49.24,
+        "lng": -122.092
+      },
+      "distanceKm": 25.1
+    }
+  },
+  "keywords": [
+    "lower-mainland"
+  ],
+  "locationWikipediaPath": "c/2/8/z/lower-mainland-wp"
+}

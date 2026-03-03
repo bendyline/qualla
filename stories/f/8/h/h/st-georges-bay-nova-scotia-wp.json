@@ -1,0 +1,142 @@
+{
+  "id": "st-georges-bay-nova-scotia-wp",
+  "title": "St. Georges Bay",
+  "summary": "A Canadian bay where the Gulf of St. Lawrence meets one of North America's busiest coastal shipping routes.",
+  "content": {
+    "intro": "Between the Nova Scotia peninsula and Cape Breton Island, St. Georges Bay opens wide to the Gulf of St. Lawrence. This is not merely a scenic coastal feature but a vital junction in the maritime geography of eastern Canada. At its southern end lies the Strait of Canso, one of only three outlets from the Gulf, and a shipping route busy enough to warrant its own vessel traffic service called Canso Traffic.",
+    "sections": [
+      {
+        "title": "Geography of the Bay",
+        "body": "St. Georges Bay stretches roughly 20 kilometers at its mouth, bounded by Cape George on the west and Black Point on the east. The western shore runs approximately 35 kilometers from Cape George south to Antigonish Harbour. The southern shore extends another 40 kilometers from Antigonish through to the Strait of Canso. Within the bay, Port Hood Island and Henry Island break the open water. Communities with names like Ballantynes Cove, Judique, and Havre Boucher dot the shoreline, their histories intertwined with the sea."
+      },
+      {
+        "title": "Gateway to the Gulf",
+        "body": "The Strait of Canso at the bay's southern end carries considerable maritime traffic. The Canso Canal allows vessels to pass between the Gulf of St. Lawrence and the Atlantic without sailing around Cape Breton Island. The Canadian Coast Guard maintains strict vessel traffic management here, with defined sea lanes marked on nautical charts. For ships transiting the Gulf, St. Georges Bay is often the last or first open water they encounter."
+      },
+      {
+        "title": "Maritime Communities",
+        "body": "The bay's shoreline belongs to two counties, Antigonish and Inverness, and their communities reflect the region's Scottish heritage. Antigonish hosts one of North America's oldest Highland Games. Fishing villages like Port Hood preserve traditions that stretch back generations. The bay itself sustains both commercial fishing and recreational boating, its waters colder than most visitors expect this far south of the Arctic."
+      }
+    ],
+    "flightContext": "St. Georges Bay is visible as a large open body of water between mainland Nova Scotia and Cape Breton Island. The town of Antigonish lies at the bay's southern end near the entrance to its harbour. The Canso Causeway crosses the Strait of Canso at the bay's southeastern corner. Nearest airports: JA Douglas McCurdy Sydney Airport (CYQY) 60nm northeast, Halifax Stanfield International (CYHZ) 140nm southwest."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 45.75,
+      "lng": -61.75
+    },
+    "geohash": "f8hh6"
+  },
+  "categories": [
+    "Nova Scotia",
+    "Bays of Canada",
+    "Maritime shipping routes"
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-22T00:00:00Z",
+    "wordCount": 380,
+    "readTime": 2,
+    "firstPublished": "2026-01-22T00:00:00Z",
+    "storyNumber": 1430
+  },
+  "locationWikipediaPath": "f/8/h/h/st-georges-bay-nova-scotia-wp",
+  "sources": [
+    {
+      "type": "verification",
+      "title": "St. Georges Bay - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/St._Georges_Bay,_Nova_Scotia",
+      "accessedAt": "2026-01-22",
+      "claimsVerified": [
+        "Bay between Nova Scotia and Cape Breton Island",
+        "Strait of Canso at southern end",
+        "Communities of Antigonish, Port Hood along shoreline"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "magnetic-hill-illusion-wk",
+      "title": "Magnetic Hill: Canada's Gravity-Defying Road",
+      "tile": "f81y",
+      "coordinates": {
+        "lat": 46.0976,
+        "lng": -64.8769
+      },
+      "distanceKm": 204.5
+    },
+    "n": {
+      "id": "acadia-wk",
+      "title": "Acadia National Park",
+      "tile": "f83n",
+      "coordinates": {
+        "lat": 47.617,
+        "lng": -65.767
+      },
+      "distanceKm": 354.8
+    },
+    "ne": {
+      "id": "aurora-iceland-wk",
+      "title": "The Northern Lights: The Sky Show That Vikings Thought Was Bridge to the Gods",
+      "tile": "ge2k",
+      "coordinates": {
+        "lat": 64,
+        "lng": -22
+      },
+      "distanceKm": 3113
+    },
+    "w": {
+      "id": "trans-canada-highway-wk",
+      "title": "Trans-Canada Highway",
+      "tile": "f84k",
+      "coordinates": {
+        "lat": 45.8347,
+        "lng": -64.2133
+      },
+      "distanceKm": 154.1
+    },
+    "e": {
+      "id": "titanic-sinking-wk",
+      "title": "The Sinking of the Titanic: The Unsinkable Ship That Sank",
+      "tile": "dzkm",
+      "coordinates": {
+        "lat": 41.726,
+        "lng": -49.948
+      },
+      "distanceKm": 1007.1
+    },
+    "sw": {
+      "id": "halifax-explosion-wk",
+      "title": "Halifax: The Largest Man-Made Explosion Before Hiroshima",
+      "tile": "dxfy",
+      "coordinates": {
+        "lat": 44.6488,
+        "lng": -63.5752
+      },
+      "distanceKm": 144.1
+    },
+    "s": {
+      "id": "halifax-city-wk",
+      "title": "Halifax: The Maritime City Where the Titanic Dead Were Brought Ashore",
+      "tile": "dxfy",
+      "coordinates": {
+        "lat": 44.6488,
+        "lng": -63.5752
+      },
+      "distanceKm": 176.7
+    },
+    "se": {
+      "id": "titanic-wreck-wk",
+      "title": "Titanic Wreck Site: Where the Unsinkable Ship Rests",
+      "tile": "dzkm",
+      "coordinates": {
+        "lat": 41.7325,
+        "lng": -49.9469
+      },
+      "distanceKm": 995.9
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "id": "kharan-desert-wp",
+  "source": "wikipedia",
+  "sourceId": "7401397",
+  "title": "Kharan Desert",
+  "slug": "kharan-desert",
+  "summary": "A grey-brown expanse in southwestern Pakistan where Alexander the Great nearly lost his army retracing the steps of Cyrus the Great, and where, in 1998, Pakistan detonated its second nuclear device beneath the sand.",
+  "content": {
+    "intro": "Alexander the Great had conquered his way across an empire, but the Kharan Desert nearly conquered him. In the fourth century BC, after defeating King Porus and crossing the Indus Valley through the Khyber Pass, Alexander chose to march his army home through the region the ancients called Gedrosia. It was an act of deliberate hubris -- Cyrus the Great had once crossed this same desert, and Alexander intended to match the feat. The grey-brown sand that stretches across southwestern Pakistan's Balochistan province offered no water, no shade, and no mercy. Soldiers died in numbers that rivaled his bloodiest battles. Twenty-three centuries later, the Kharan Desert found a new place in history when Pakistan chose its barren emptiness as the site of a nuclear test.",
+    "sections": [
+      {
+        "title": "A Proving Ground for Empires",
+        "body": "Alexander entered the Indus Valley through the Khyber Pass, but he did not leave by the same route. After his campaigns in the subcontinent, he sent his fleet under Nearchus to sail the coast while he led his army overland through Gedrosia -- the ancient name for this region of Balochistan. The march was catastrophic. Heat, thirst, and exhaustion killed thousands. The historical sources differ on whether Alexander was driven by strategic necessity or by the desire to outdo Cyrus, but the result was the same: one of history's greatest military leaders was humbled by a landscape that offered nothing but sand and sun. The desert that nearly destroyed a Macedonian army remains essentially unchanged -- dry, flat, and hostile to human ambition."
+      },
+      {
+        "title": "The Day the Desert Shook",
+        "body": "On May 30, 1998, the Kharan Desert entered the nuclear age. Pakistan conducted its second nuclear test, code-named Chagai-II, beneath the sands here, just two days after conducting its first tests at the Chagai Hills to the north. The tests were a response to India's nuclear tests earlier that month, and they made Pakistan the seventh nation to demonstrate nuclear weapons capability. The choice of the Kharan Desert was practical: its remoteness and sparse population made it suitable for underground testing. The land, unfit for agriculture due to minimal irrigation, had served as grazing territory for scattered communities. After the test, the desert added another layer to its identity -- a place where the ambitions of empires, ancient and modern, have been tested against the indifferent earth."
+      },
+      {
+        "title": "Life at the Margins",
+        "body": "Despite its forbidding reputation, the Kharan Desert is not empty. Scattered communities practice agriculture and farming at its margins, drawing what water they can from seasonal streams and sparse groundwater. The terrain is mainly dry, grey-brown sand stretching toward distant mountain ranges that frame the Balochistan plateau. The desert occupies the Kharan District, one of the largest and most sparsely populated administrative divisions in Pakistan. Life here moves at the pace of the seasons and the availability of water -- a rhythm essentially unchanged since the earliest human settlements appeared in the region thousands of years ago. The same qualities that make the desert inhospitable -- its emptiness, its silence, its distance from everything -- are what have drawn empires to cross it and nations to test their most powerful weapons beneath it."
+      }
+    ],
+    "flightContext": "Located at approximately 28.01N, 64.34E in Balochistan, Pakistan. The Kharan Desert is a vast, flat expanse of grey-brown sand and scattered mountain ranges. Nearest airport is Dalbandin Airport (OPDB) to the northwest. The terrain is featureless at altitude, with occasional dry riverbeds visible. Best viewed at 5,000-10,000 feet AGL. The Chagai Hills nuclear test site is to the north-northwest."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 28.01361111111111,
+      "lng": 64.34416666666667
+    },
+    "geohash": "tkvz2"
+  },
+  "categories": [
+    "desert",
+    "nuclear-history",
+    "ancient-history",
+    "geography"
+  ],
+  "meta": {
+    "lastUpdated": "2026-02-28T00:00:00Z",
+    "wordCount": 620,
+    "readTime": 3,
+    "firstPublished": "2026-02-28T00:00:00Z",
+    "storyNumber": 6002
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Chagai-II - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chagai-II",
+      "accessedAt": "2026-03-01",
+      "claimsVerified": [
+        "Chagai-II test date: May 30, 1998",
+        "Test conducted in the Kharan Desert, Balochistan",
+        "Two days after Chagai-I (May 28, 1998)",
+        "Pakistan became seventh nation to test nuclear weapons"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Indian campaign of Alexander the Great - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Indian_campaign_of_Alexander_the_Great",
+      "accessedAt": "2026-03-01",
+      "claimsVerified": [
+        "Alexander's army entered via the Khyber Pass (main army under Hephaestion)",
+        "Alexander defeated King Porus at the Battle of the Hydaspes",
+        "Return march through Gedrosia (Makran/Balochistan) was catastrophic",
+        "Nearchus led the fleet while Alexander marched overland"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "List of states with nuclear weapons - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_states_with_nuclear_weapons",
+      "accessedAt": "2026-03-01",
+      "claimsVerified": [
+        "Pakistan is the seventh nation to test nuclear weapons (after US, Russia, UK, France, China, India)"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "siege-of-herat-1221-wp",
+      "title": "Siege of Herat (1221)",
+      "tile": "tqh5",
+      "coordinates": {
+        "lat": 34.333333,
+        "lng": 62.2
+      },
+      "distanceKm": 691.8
+    },
+    "n": {
+      "id": "minaret-of-jam-wp",
+      "title": "Minaret of Jam",
+      "tile": "tqjg",
+      "coordinates": {
+        "lat": 34.396386,
+        "lng": 64.515888
+      },
+      "distanceKm": 677.8
+    },
+    "ne": {
+      "id": "band-e-amir-national-park-wk",
+      "title": "Band-e Amir National Park",
+      "tile": "tqpy",
+      "coordinates": {
+        "lat": 34.839722222222,
+        "lng": 67.230833333333
+      },
+      "distanceKm": 756.1
+    },
+    "w": {
+      "id": "2009-pishin-bombing-wp",
+      "title": "2009 Pishin Bombing",
+      "tile": "tkeu",
+      "coordinates": {
+        "lat": 26.086944,
+        "lng": 61.760278
+      },
+      "distanceKm": 309.1
+    },
+    "e": {
+      "id": "shamsi-airfield-wp",
+      "title": "Shamsi Airfield",
+      "tile": "tkyq",
+      "coordinates": {
+        "lat": 27.85,
+        "lng": 65.166666666667
+      },
+      "distanceKm": 24.3
+    },
+    "sw": {
+      "id": "sassi-punnu-fort-wp",
+      "title": "Sassi Punnu Fort",
+      "tile": "tksu",
+      "coordinates": {
+        "lat": 26.034,
+        "lng": 63.013
+      },
+      "distanceKm": 216.1
+    },
+    "s": {
+      "id": "2024-iranian-missile-strikes-in-pakistan-wp",
+      "title": "2024 Iranian Missile Strikes in Pakistan",
+      "tile": "tkvd",
+      "coordinates": {
+        "lat": 27.166666666666668,
+        "lng": 64.26666666666667
+      },
+      "distanceKm": 71.7
+    },
+    "se": {
+      "id": "2013-balochistan-earthquakes-wp",
+      "title": "2013 Balochistan Earthquakes",
+      "tile": "tky9",
+      "coordinates": {
+        "lat": 27,
+        "lng": 65.514
+      },
+      "distanceKm": 98
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "tortugas-pueblo-wp",
+  "patch": {
+    "media": {
+      "hero": {
+        "path": "_m/9/t/s/p/tortugas-pueblo-wp/hero.png",
+        "filename": "Usa edcp relief location map.png",
+        "caption": "Relief location map of the USA (without Hawaii and Alaska).\nEquiDistantConicProjection :\nCentral  parallel :\n\n* N: 37.0° N\n\nCentral meridian :\n\n* E: 96.0° W\n\nStandard parallels:\n\n* 1: 32.0° N\n* 2: 42.0° N\n\nMade with Natural Earth. Free vector and raster map data @ naturalearthdata.com.\nFormulas for x and y:\n\nx = 50.0 + 124.03149777329222 * ((1.9694462586094064-({{{2}}}* pi / 180))\n      * sin(0.6010514667026994 * ({{{3}}} + 96) * pi / 180))\ny = 50.0 + 1.6155950752393982 * 124.03149777329222 * 0.02613325650382181\n      - 1.6155950752393982  * 124.03149777329222 *\n     (1.3236744353715044  - (1.9694462586094064-({{{2}}}* pi / 180)) \n      * cos(0.6010514667026994 * ({{{3}}} + 96) * pi / 180))",
+        "alt": "Relief location map of the USA (without Hawaii and Alaska).\nEquiDistantConicProjection :\nCentral  parallel :\n\n* N: 37.0° N\n\nCentral meridian :\n\n* E: 96.0° W\n\nStandard parallels:\n\n* 1: 32.0° N\n* 2: 42.0° N\n\nMade with Natural Earth. Free vector and raster map data @ naturalearthdata.com.\nFormulas for x and y:\n\nx = 50.0 + 124.03149777329222 * ((1.9694462586094064-({{{2}}}* pi / 180))\n      * sin(0.6010514667026994 * ({{{3}}} + 96) * pi / 180))\ny = 50.0 + 1.6155950752393982 * 124.03149777329222 * 0.02613325650382181\n      - 1.6155950752393982  * 124.03149777329222 *\n     (1.3236744353715044  - (1.9694462586094064-({{{2}}}* pi / 180)) \n      * cos(0.6010514667026994 * ({{{3}}} + 96) * pi / 180))",
+        "width": 1181,
+        "height": 731,
+        "mimeType": "image/png",
+        "license": "CC BY-SA 3.0",
+        "artist": "Uwe Dedering",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Usa_edcp_relief_location_map.png",
+        "sourceType": "core",
+        "sourceArticleId": "tortugas-pueblo-wp",
+        "sourceGeohash4": "9tsp",
+        "accessedAt": "2026-02-07T07:31:00.621Z",
+        "smallPath": "_m/9/t/s/p/tortugas-pueblo-wp/hero-small.jpg"
+      },
+      "narration": [
+        "_m/9/t/s/p/tortugas-pueblo-wp/9tsp-tortugas-pueblo-flight-context.mp3",
+        "_m/9/t/s/p/tortugas-pueblo-wp/9tsp-tortugas-pueblo-intro.mp3",
+        "_m/9/t/s/p/tortugas-pueblo-wp/9tsp-tortugas-pueblo-the-pueblos-that-walked-south.mp3",
+        "_m/9/t/s/p/tortugas-pueblo-wp/9tsp-tortugas-pueblo-a-new-home-on-la-isla.mp3",
+        "_m/9/t/s/p/tortugas-pueblo-wp/9tsp-tortugas-pueblo-the-fiesta-of-our-lady-of-guadalupe.mp3",
+        "_m/9/t/s/p/tortugas-pueblo-wp/9tsp-tortugas-pueblo-survival-without-recognition.mp3"
+      ]
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "shamsi-airfield-wp",
+  "source": "wikipedia",
+  "sourceId": "21614614",
+  "title": "Shamsi Airfield",
+  "slug": "shamsi-airfield",
+  "summary": "A desert airstrip leased to Emirati sheikhs for hunting rare birds became the CIA's secret drone base in Pakistan's war on terror -- until a friendly-fire incident shut it down.",
+  "content": {
+    "intro": "In February 2009, The Times of London published Google Earth imagery from 2006 showing Predator drones parked outside a hangar at the end of a runway in the Balochistan desert. The Pakistani government initially denied that the airfield was being used for US military or covert operations. It was called Shamsi -- Arabic for 'solar' -- a name given by the Emirati sheikhs who had originally leased it for falconry. But by 2009, the hunting birds had long been replaced by armed unmanned aircraft.",
+    "sections": [
+      {
+        "title": "Falcons Before Drones",
+        "body": "The story of Shamsi Airfield begins with bustards. In 1992, the Government of Pakistan leased the disused Bhandari Airstrip to the United Arab Emirates for game hunting, specifically falconry targeting the rare bustard birds of Balochistan. Members of UAE royal families flew in to hunt, and the Emirati sheikhs invested in upgrading the remote strip into a jet-capable airfield, renaming it Shamsi. The airfield sits in a barren desert valley between two ridges of the Central Makran Range, about 200 miles southwest of Quetta and 248 miles northwest of Gwadar. The nearest settlement, the village of Washuk, lies 21 miles to the northwest. It was, by design, in the middle of nowhere."
+      },
+      {
+        "title": "The CIA Moves In",
+        "body": "After September 11, 2001, the United States requested access to the airfield. With the approval of President Pervez Musharraf, the UAE sub-leased Shamsi to the Americans on October 20, 2001. The CIA and US Air Force jointly developed it into a military airfield for surveillance and drone operations targeting militants in Pakistan's Federally Administered Tribal Areas. The private military contractor Blackwater was reportedly hired to arm the drones with missiles. US Senator Dianne Feinstein publicly confirmed the CIA was basing drone aircraft in Pakistan, though Pakistani officials continued to deny it until the evidence became overwhelming. By 2009, a senior Pakistani military official told The New York Times that drone operations had been moved across the border to Afghanistan."
+      },
+      {
+        "title": "The Salala Incident",
+        "body": "On November 26, 2011, US-led NATO forces attacked two Pakistani border check posts just 2.5 kilometres inside Pakistani territory, killing 24 Pakistani soldiers. The attack, known as the Salala Incident, triggered a diplomatic rupture. Pakistan ordered the United States to vacate Shamsi within 15 days, closed the NATO supply lines through its territory, and rejected an American offer of compensation for the dead soldiers. Although drone operations from Shamsi had actually ceased in April 2011, the US had continued using the airfield for emergency landings and logistical support. The order to leave was absolute."
+      },
+      {
+        "title": "Thirty Sorties Out",
+        "body": "The evacuation was swift and methodical. The first US military aircraft arrived at Shamsi on December 4, 2011, to begin removing personnel and equipment. Seven aircraft, including C-17 Globemaster transports, landed over the following week, completing the pullout in 30 sorties. Some equipment was destroyed on-site rather than flown out. On December 9, soldiers of Pakistan's Frontier Constabulary arrived at Washuk to position themselves for takeover. All roads were sealed. On December 11, Pakistan Army soldiers and a Mi-17 helicopter were photographed at the vacated base -- the image officially released by Pakistan's military public relations directorate and published by The Telegraph in London. The airstrip that had served three masters -- Emirati hunters, American intelligence, and Pakistani sovereignty -- was empty. On July 3, 2012, Secretary of State Hillary Clinton formally apologized for the Salala attack, and Pakistan reopened the NATO supply routes."
+      }
+    ],
+    "flightContext": "Shamsi Airfield is located at approximately 27.85N, 65.17E in Washuk District, Balochistan province. The airfield sits in a desert valley between ridges of the Central Makran Range, roughly 200 miles southwest of Quetta and 248 miles northwest of Gwadar. The nearest significant airports are Quetta International (ICAO: OPQT) and Gwadar International (ICAO: OPGD). From altitude, the single runway is visible as a pale line in the brown desert terrain, surrounded by minimal infrastructure."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 27.85,
+      "lng": 65.166666666667
+    },
+    "geohash": "tkyq6"
+  },
+  "categories": [
+    "military",
+    "drone warfare",
+    "pakistan",
+    "intelligence"
+  ],
+  "meta": {
+    "lastUpdated": "2026-02-28T00:00:00Z",
+    "wordCount": 690,
+    "readTime": 4,
+    "firstPublished": "2026-02-28T00:00:00Z",
+    "storyNumber": 6096
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Shamsi Airfield - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shamsi_Airfield",
+      "accessedAt": "2026-03-01",
+      "claimsVerified": [
+        "UAE leased airstrip from Pakistan in 1992 for falconry/bustard hunting",
+        "Sub-leased to United States on October 20, 2001 with Musharraf approval",
+        "Airfield 200 miles SW of Quetta, 248 miles NW of Gwadar",
+        "Village of Washuk lies 21 miles to the northwest (airfield is SE of Washuk)",
+        "Blackwater reported to have armed drones with missiles",
+        "Drone operations from Shamsi ceased April 2011",
+        "Salala incident November 26, 2011; 24 Pakistani soldiers killed",
+        "US ordered to vacate within 15 days after Salala",
+        "Evacuation completed December 11, 2011 in 30 sorties with C-17s",
+        "Hillary Clinton apologized July 3, 2012; NATO supply routes reopened"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "2011 NATO attack in Pakistan - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2011_NATO_attack_in_Pakistan",
+      "accessedAt": "2026-03-01",
+      "claimsVerified": [
+        "Salala incident date: November 26, 2011",
+        "24 Pakistani soldiers killed at two border checkposts",
+        "Checkposts inside Pakistani territory (up to 2.5 km)",
+        "Pakistan closed NATO supply lines following incident"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "minaret-of-jam-wp",
+      "title": "Minaret of Jam",
+      "tile": "tqjg",
+      "coordinates": {
+        "lat": 34.396386,
+        "lng": 64.515888
+      },
+      "distanceKm": 697.5
+    },
+    "n": {
+      "id": "siege-of-herat-1221-wp",
+      "title": "Siege of Herat (1221)",
+      "tile": "tqh5",
+      "coordinates": {
+        "lat": 34.333333,
+        "lng": 62.2
+      },
+      "distanceKm": 747.4
+    },
+    "ne": {
+      "id": "band-e-amir-national-park-wk",
+      "title": "Band-e Amir National Park",
+      "tile": "tqpy",
+      "coordinates": {
+        "lat": 34.839722222222,
+        "lng": 67.230833333333
+      },
+      "distanceKm": 759.8
+    },
+    "w": {
+      "id": "kharan-desert-wp",
+      "title": "Kharan Desert",
+      "tile": "tkvz",
+      "coordinates": {
+        "lat": 28.01361111111111,
+        "lng": 64.34416666666667
+      },
+      "distanceKm": 37.7
+    },
+    "e": {
+      "id": "sohr-damb-wp",
+      "title": "Sohr Damb",
+      "tile": "tkzj",
+      "coordinates": {
+        "lat": 27.68888889,
+        "lng": 66.30833333
+      },
+      "distanceKm": 58.9
+    },
+    "sw": {
+      "id": "2024-iranian-missile-strikes-in-pakistan-wp",
+      "title": "2024 Iranian Missile Strikes in Pakistan",
+      "tile": "tkvd",
+      "coordinates": {
+        "lat": 27.166666666666668,
+        "lng": 64.26666666666667
+      },
+      "distanceKm": 63.4
+    },
+    "s": {
+      "id": "2013-balochistan-earthquakes-wp",
+      "title": "2013 Balochistan Earthquakes",
+      "tile": "tky9",
+      "coordinates": {
+        "lat": 27,
+        "lng": 65.514
+      },
+      "distanceKm": 72.7
+    },
+    "se": {
+      "id": "nindowari-wp",
+      "title": "Nindowari",
+      "tile": "tkz3",
+      "coordinates": {
+        "lat": 27,
+        "lng": 66.5
+      },
+      "distanceKm": 100.1
+    }
+  }
+}

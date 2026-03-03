@@ -1,0 +1,152 @@
+{
+  "id": "laki-eruption-wk",
+  "source": "wikipedia",
+  "sourceId": "43924",
+  "title": "The Laki Eruption: The Volcano That Changed World History",
+  "slug": "laki-eruption",
+  "summary": "Where an Icelandic volcanic eruption in 1783 killed a quarter of Iceland's population, caused crop failures across Europe, contributed to the French Revolution, and changed global climate for years.",
+  "content": {
+    "intro": "On June 8, 1783, the earth split open in Iceland. The Laki volcanic fissure began an eight-month eruption that produced 14 cubic kilometers of lava - enough to bury Manhattan 800 feet deep. The lava was devastating, but the real killer was the gas. Laki released 120 million tons of sulfur dioxide, creating a toxic haze that spread across Europe. In Iceland, a quarter of the population died. In Britain, thousands died from respiratory illness. Crops failed across the Northern Hemisphere. Some historians argue the resulting famine helped spark the French Revolution. A single eruption in a remote island nation changed the course of world history.",
+    "sections": [
+      {
+        "title": "The Fissure",
+        "body": "Laki wasn't a single volcano - it was a 27-kilometer fissure that opened in southern Iceland, spewing lava from 130 craters along its length. Over eight months, the eruption produced one of the largest lava flows in recorded history. Rivers of molten rock covered 600 square kilometers.\n\nBut the lava, which flowed mostly through uninhabited areas, wasn't the primary threat. The real danger came from above. The eruption released massive quantities of volcanic gases - sulfur dioxide, hydrogen fluoride, and carbon dioxide - that rose into the atmosphere and spread across the Northern Hemisphere."
+      },
+      {
+        "title": "The Haze",
+        "body": "By July 1783, a blue haze had spread across Europe. The sulfurous fog blocked sunlight and created vivid red sunsets. Benjamin Franklin, serving as American ambassador to France, noted the unusual conditions and correctly theorized they might be volcanic in origin.\n\nThe haze was more than unpleasant - it was lethal. In Britain alone, an estimated 23,000 people died from respiratory illness in summer 1783. The fog irritated lungs and concentrated near the ground on calm days. People reported difficulty breathing, eye irritation, and the smell of sulfur everywhere."
+      },
+      {
+        "title": "The Famine",
+        "body": "In Iceland, the consequences were catastrophic. Volcanic gases poisoned the grass. Livestock that ate the contaminated vegetation died - 80% of sheep, 50% of cattle and horses. Without livestock, Icelanders starved. The resulting famine, known as the Móðuharðindin ('Mist Hardships'), killed about 10,000 people - a quarter of the population.\n\nThe island was nearly abandoned. Danish authorities considered evacuating the entire surviving population to Denmark. Iceland's existence as a nation hung by a thread. The survivors persevered, but the Laki eruption marked the darkest chapter in Icelandic history."
+      },
+      {
+        "title": "The Climate",
+        "body": "The sulfur dioxide Laki released formed sulfuric acid droplets in the stratosphere, reflecting sunlight and cooling the Northern Hemisphere. Europe experienced one of its coldest winters in 1783-1784. The following summer brought severe drought.\n\nThe climate disruption may have extended far beyond Europe. Some researchers link Laki's emissions to the failure of the Nile floods in 1783 and 1784, which caused famine in Egypt and influenced Japanese rice harvests. A volcanic eruption in Iceland touched lives across the globe."
+      },
+      {
+        "title": "The Revolution",
+        "body": "The crop failures of 1783-1784 contributed to food shortages across Europe. In France, bread prices rose sharply. The rural poor suffered most. When Louis XVI called the Estates-General in 1789, grievances about bread and taxation combined with Enlightenment ideals to spark revolution.\n\nHistorians debate how much Laki contributed to the French Revolution - many factors were at work. But the volcanic winter of 1783 certainly worsened conditions for French peasants in the years before 1789. An Icelandic fissure may have helped topple a monarchy. Laki demonstrated that volcanic eruptions don't respect borders - their consequences can reshape civilizations."
+      }
+    ],
+    "flightContext": "The Laki fissure (64.07N, 18.23W) lies in southern Iceland, northeast of Vík. Reykjavík Keflavík Airport (BIKF) is 280km west. The fissure and its 130 craters are visible from the air as a dark line across the landscape. The area is remote highland terrain. Weather is subarctic - cold, windy, with frequent precipitation."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 64.0667,
+      "lng": -18.2333
+    },
+    "geohash": "ge7h3nfzt"
+  },
+  "categories": [
+    "volcano",
+    "famine",
+    "iceland",
+    "climate",
+    "revolution",
+    "quirky-history"
+  ],
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Laki - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Laki",
+      "accessedAt": "2026-01-15",
+      "claimsVerified": [
+        "June 1783",
+        "quarter of Iceland died",
+        "caused European haze"
+      ]
+    }
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-15T00:00:00Z",
+    "wordCount": 900,
+    "readTime": 5,
+    "firstPublished": "2026-01-15T00:00:00Z",
+    "storyNumber": 1025
+  },
+  "editorial": {
+    "spiciness": 3,
+    "strongOpinions": [
+      "The Volcano That Changed World History",
+      "A single eruption in a remote island nation changed the course of world history"
+    ]
+  },
+  "locationWikipediaPath": "g/e/7/h/laki-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "inuvik-wk",
+      "title": "Inuvik",
+      "tile": "ch0u",
+      "coordinates": {
+        "lat": 68.3607,
+        "lng": -133.723
+      },
+      "distanceKm": 4407.4
+    },
+    "n": {
+      "id": "north-iceland-wk",
+      "title": "North Iceland",
+      "tile": "geej",
+      "coordinates": {
+        "lat": 65.61068,
+        "lng": -18.04504
+      },
+      "distanceKm": 141.8
+    },
+    "w": {
+      "id": "reykjavik-wk",
+      "title": "Reykjavik",
+      "tile": "ge2k",
+      "coordinates": {
+        "lat": 64.1466,
+        "lng": -21.9426
+      },
+      "distanceKm": 160.9
+    },
+    "e": {
+      "id": "aberdeen-wk",
+      "title": "Aberdeen",
+      "tile": "gfnm",
+      "coordinates": {
+        "lat": 57.1526,
+        "lng": -2.11
+      },
+      "distanceKm": 1136.7
+    },
+    "sw": {
+      "id": "s-o-miguel-wk",
+      "title": "Sao Miguel",
+      "tile": "eqty",
+      "coordinates": {
+        "lat": 37.7667,
+        "lng": -25.4667
+      },
+      "distanceKm": 2931.5
+    },
+    "s": {
+      "id": "west-highland-way-wk",
+      "title": "West Highland Way",
+      "tile": "gfh8",
+      "coordinates": {
+        "lat": 56.2935,
+        "lng": -4.6962
+      },
+      "distanceKm": 1114.7
+    },
+    "se": {
+      "id": "flannan-isles-wk",
+      "title": "The Flannan Isles Mystery: The Lighthouse Keepers Who Vanished",
+      "tile": "gf6e",
+      "coordinates": {
+        "lat": 58.2886,
+        "lng": -7.5872
+      },
+      "distanceKm": 814.2
+    }
+  },
+  "keywords": [
+    "laki-eruption"
+  ]
+}

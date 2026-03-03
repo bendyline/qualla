@@ -1,0 +1,187 @@
+{
+  "id": "silverado-fire-wp",
+  "source": "wikipedia",
+  "sourceId": "65684822",
+  "title": "Silverado Fire",
+  "slug": "silverado-fire",
+  "summary": "A wind-driven October 2020 wildfire that evacuated 90,000 residents and left two firefighters critically burned in what investigators suspect was a lashing wire contacting power lines.",
+  "content": {
+    "intro": "At 6:47 in the morning on October 26, 2020, two firefighters were doing their job when flames trapped them during what may have been a failed backburning attempt. One suffered burns on 65 percent of his body, the other on 50 percent. Six more firefighters from the same crew escaped with singed hair and eyebrows. Within hours, over 90,000 Orange County residents would be ordered to evacuate as the Silverado Fire raced across terrain that had not burned significantly in 13 years. Santa Ana winds gusting through the canyons drove the flames from Silverado Canyon Road toward Irvine's suburban communities, following nearly the same path as the 2007 Santiago Fire.",
+    "sections": [
+      {
+        "title": "The Devil Winds",
+        "body": "Santa Ana winds, those hot dry gusts that funnel through Southern California's mountain passes each autumn, created the conditions for catastrophe. The fire ignited near the intersection of Santiago Canyon Road and Silverado Canyon Road, then exploded southward from Loma Ridge toward the Orchard Hills, Northwood, and Portola Springs communities of Irvine. It continued southeast through Limestone Canyon toward Foothill Ranch and Lake Forest. The Orange County Fire Authority and Cal Fire issued mandatory evacuation orders, and California State Route 241 temporarily closed. Within two days, the community had raised over $215,000 through online crowdsourcing to help the critically burned firefighters with their medical expenses."
+      },
+      {
+        "title": "The Suspected Cause",
+        "body": "Southern California Edison officials reported to the California Public Utilities Commission their suspicion that a lashing wire from one of T-Mobile's telecommunication lines may have contacted one of Edison's electric lines, sparking the blaze. The exact cause remains under investigation, but Orange County later filed lawsuits against both Southern California Edison and T-Mobile. SCE was fined $2.4 million in connection with the fire. The incident highlighted the ongoing tension between California's aging infrastructure and the wildfire-prone landscape it traverses, where a single wire touching another can set thousands of acres ablaze."
+      },
+      {
+        "title": "What the Fire Consumed",
+        "body": "By the time authorities announced 100 percent containment on November 7, 2020, the Silverado Fire had burned 13,390 acres, destroying one structure and two minor structures while damaging five others. Among the losses was a 6.1-acre restoration area along Agua Chinon Creek near Limestone Canyon Regional Park. Scientists had spent five years returning that land to its native state; the fire destroyed the seed farm facility used for the project and burned vegetation in what officials described as a checkerboard pattern of damage. Yet not all consequences were destructive, the burn scar would prove valuable just a month later."
+      },
+      {
+        "title": "Fire Begets Fire Prevention",
+        "body": "In December 2020, the Bond Fire ignited in the same region. The fresh burn scar from the Silverado Fire helped stop the Bond Fire's spread, demonstrating the complex relationship between wildfires and the landscape they transform. But January 2021 brought another consequence: winter rains falling on burned hillsides triggered mudflows near both fire scars. Roads were blocked near the Bond Fire scar, though the Silverado burn area avoided structural damage. The cycle of fire, rain, and mud is now written into these hills, a pattern that will repeat as Southern California's fire seasons grow longer and more intense."
+      }
+    ],
+    "flightContext": "Located at 33.74N, 117.73W in southern Orange County, California, northeast of Irvine. The burn scar spans from Silverado Canyon southeast through Limestone Canyon toward Foothill Ranch and Lake Forest. Visible terrain changes from fire and subsequent regrowth may be apparent from 2,000-4,000 feet AGL. John Wayne Airport (KSNA) lies 10nm to the southwest. Fullerton Municipal (KFUL) is 15nm northwest. The terrain is mountainous with variable winds; exercise caution in Santa Ana wind conditions."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 33.737957,
+      "lng": -117.730187
+    },
+    "geohash": "9murb"
+  },
+  "categories": [
+    "Wildfires in Orange County, California",
+    "2020 California wildfires",
+    "October 2020 in the United States",
+    "2020s in Orange County, California"
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-22T00:00:00Z",
+    "wordCount": 655,
+    "readTime": 4,
+    "firstPublished": "2026-01-22T00:00:00Z",
+    "storyNumber": 1427
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Silverado Fire - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Silverado_Fire",
+      "accessedAt": "2026-01-22",
+      "claimsVerified": [
+        "Fire started October 26, 2020 at 6:47 AM",
+        "Burned 13,390 acres",
+        "100% containment November 7, 2020",
+        "Two firefighters critically burned (65% and 50%)"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Orange County Register - Silverado Fire",
+      "url": "https://www.ocregister.com/2020/10/26/vegetation-fire-erupts-in-canyon-hills-of-silverado-in-east-orange-county/",
+      "accessedAt": "2026-01-22",
+      "claimsVerified": [
+        "90,000 residents evacuated",
+        "Over $215,000 raised via crowdsourcing",
+        "Firefighters Dylan Van Iwaarden and Phi Le injured"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "LAist - Orange County Sues SCE and T-Mobile",
+      "url": "https://laist.com/news/orange-county-sues-southern-california-edison-and-t-mobile-over-silverado-and-coastal-fires",
+      "accessedAt": "2026-01-22",
+      "claimsVerified": [
+        "SCE reported lashing wire from T-Mobile may have caused fire",
+        "SCE fined $2.4 million by CPUC"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Bond Fire - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bond_Fire",
+      "accessedAt": "2026-01-22",
+      "claimsVerified": [
+        "Bond Fire in December 2020",
+        "Silverado burn scar helped stop Bond Fire spread"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": [
+      "what may have been a failed backburning attempt",
+      "ongoing tension between California's aging infrastructure and wildfire-prone landscape"
+    ]
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "sleepy-lagoon-murder-wp",
+      "title": "Sleepy Lagoon Murder",
+      "tile": "9q5c",
+      "coordinates": {
+        "lat": 33.995583333333336,
+        "lng": -118.17297222222223
+      },
+      "distanceKm": 8.9
+    },
+    "n": {
+      "id": "san-bernardino-train-disaster-wp",
+      "title": "San Bernardino Train Disaster",
+      "tile": "9qhd",
+      "coordinates": {
+        "lat": 34.1375,
+        "lng": -117.34416666666667
+      },
+      "distanceKm": 33.2
+    },
+    "ne": {
+      "id": "pioneertown-california-wp",
+      "title": "Pioneertown, California",
+      "tile": "9qj4",
+      "coordinates": {
+        "lat": 34.154444444444444,
+        "lng": -116.49861111111112
+      },
+      "distanceKm": 58.5
+    },
+    "w": {
+      "id": "thums-islands-wp",
+      "title": "THUMS Islands",
+      "tile": "9mgz",
+      "coordinates": {
+        "lat": 33.74079,
+        "lng": -118.16257
+      },
+      "distanceKm": 9.4
+    },
+    "e": {
+      "id": "cranston-fire-wp",
+      "title": "Cranston Fire",
+      "tile": "9muz",
+      "coordinates": {
+        "lat": 33.72,
+        "lng": -116.8
+      },
+      "distanceKm": 25.8
+    },
+    "sw": {
+      "id": "catalina-casino-wp",
+      "title": "Catalina Casino",
+      "tile": "9mgv",
+      "coordinates": {
+        "lat": 33.34887,
+        "lng": -118.32601
+      },
+      "distanceKm": 19.5
+    },
+    "s": {
+      "id": "antique-gas-and-steam-engine-museum-wp",
+      "title": "Antique Gas and Steam Engine Museum",
+      "tile": "9mut",
+      "coordinates": {
+        "lat": 33.229744,
+        "lng": -117.255855
+      },
+      "distanceKm": 36.9
+    },
+    "se": {
+      "id": "pauma-massacre-wp",
+      "title": "Pauma Massacre",
+      "tile": "9mvj",
+      "coordinates": {
+        "lat": 33.282,
+        "lng": -116.6336
+      },
+      "distanceKm": 42.6
+    }
+  },
+  "keywords": [
+    "silverado-fire"
+  ]
+}

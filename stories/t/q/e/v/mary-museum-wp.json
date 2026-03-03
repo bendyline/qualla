@@ -1,0 +1,170 @@
+{
+  "id": "mary-museum-wp",
+  "source": "wikipedia",
+  "sourceId": "40056731",
+  "title": "Mary Museum",
+  "slug": "mary-museum",
+  "summary": "A gleaming white marble museum in the heart of Turkmenistan's fourth-largest city, housing forty thousand artifacts that trace civilization from the ancient Silk Road oasis of Margu to the modern nation.",
+  "content": {
+    "intro": "An ivory casket decorated with mosaic, dating from the second millennium BC, sits in a glass case under fluorescent light. It was excavated from the sands of ancient Margu by the Greek-Russian archaeologist Victor Sarianidi and donated to this museum, where it became the collection's most celebrated object. The Mary Museum stands in the center of a city that has reinvented itself repeatedly over millennia, and the casket is just one of forty thousand reasons to step inside.",
+    "sections": [
+      {
+        "title": "From Revolution to Renewal",
+        "body": "The museum began modestly in 1968 as the Mary Historical and Revolutionary Museum, a Soviet-era institution tasked with documenting the region's role in the Bolshevik transformation of Central Asia. Its first exhibition did not open until 1974. For decades, the collection grew quietly within older quarters, accumulating artifacts that told a story far older and more complex than any revolutionary narrative. By the 2000s, the city of Mary was undergoing a dramatic rebuilding campaign. A new airport terminal, a spherical library, the Gurbanguly Hajji Mosque, and a gleaming museum all rose from the flat desert landscape. In 2010, the Turkish construction company Sedas Insaat completed the new museum building at a cost of eighteen million dollars, positioning it near the mosque and the city library as part of Mary's cultural core."
+      },
+      {
+        "title": "White Marble and Six Halls",
+        "body": "The building itself makes a statement. Two stories of white marble and granite house six exhibition halls, a conference room, conservation laboratories, and storage facilities for the vast collection. The central and lateral facades give the structure a formal symmetry that echoes the monumental architecture favored across modern Turkmenistan. Inside, the halls move visitors through time and geography. Turkmen carpets with their distinctive geometric guls hang alongside ancient weapons. Oriental miniatures share wall space with tapestries. Traditional clothing, silverware, and musical instruments fill cases, each object a point of connection to the daily life of people who lived along one of history's most important trade corridors."
+      },
+      {
+        "title": "Echoes of Margu",
+        "body": "The archaeological collection anchors the museum's identity. Most of these finds come from the ancient site of Margu, the Bronze Age civilization that flourished in what is now the Murghab River delta. Ceramics, sculptures, and drawings recovered from the surrounding desert document a society that traded with Mesopotamia and the Indus Valley. Victor Sarianidi, who spent decades excavating sites across this region, contributed key pieces to the collection, including the ivory casket that draws visitors from across Turkmenistan. The artifacts span thousands of years, from the earliest settlements to the medieval period when Merv, the great Silk Road city thirty kilometers away, was one of the largest cities in the world before the Mongol devastation of the thirteenth century."
+      },
+      {
+        "title": "A Living Record",
+        "body": "Beyond archaeology, the museum documents the natural world and modern history of Mary Province. Specimens representing the region's flora and fauna share space with manuscripts and administrative documents that chart the area's passage through Russian imperial control, Soviet collectivization, and Turkmen independence. The collection captures the texture of a region where cotton fields irrigated by the Karakum Canal meet the edges of one of the world's great deserts. Mary was declared a cultural capital of the Commonwealth of Independent States in 2012, and the museum serves as the city's memory, holding the evidence of every era that left its mark on this oasis."
+      },
+      {
+        "title": "The Oasis City's Window",
+        "body": "Mary sits on the Murgab River in the Karakum Desert, a city of roughly 167,000 people built thirty kilometers from the ruins of ancient Merv. The museum offers visitors, few as they are in one of the world's most restricted countries, a compressed encounter with the layers of civilization that accumulated here over five thousand years. From Bronze Age ivory to Soviet-era documents, from Turkmen carpets to desert wildlife specimens, the collection argues that this patch of irrigated desert has always mattered more than its isolation might suggest."
+      }
+    ],
+    "flightContext": "Located at 37.585N, 61.854E in central Turkmenistan. The museum sits in the urban core of Mary, identifiable from altitude by the city's grid layout along the Murgab River in the Karakum Desert. Nearest airport is Mary Airport (UTAM). The white marble building is near the Gurbanguly Hajji Mosque. Recommended viewing altitude: 3,000-5,000 feet for city detail. The surrounding landscape is flat irrigated farmland transitioning to desert."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 37.58528,
+      "lng": 61.85444
+    },
+    "geohash": "tqevz"
+  },
+  "categories": [
+    "museums",
+    "history",
+    "archaeology",
+    "central-asia",
+    "turkmenistan"
+  ],
+  "meta": {
+    "lastUpdated": "2026-02-28T00:00:00Z",
+    "wordCount": 720,
+    "readTime": 4,
+    "firstPublished": "2026-02-28T00:00:00Z",
+    "storyNumber": 6024
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Mary Museum - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mary_Museum",
+      "accessedAt": "2026-03-01",
+      "claimsVerified": [
+        "Museum founded 1968 as Mary Historical and Revolutionary Museum confirmed",
+        "First exhibition opened 1974 confirmed",
+        "New building completed 2010 by Turkish company Sedas Insaat confirmed",
+        "Building cost $18 million confirmed",
+        "Six exhibition halls confirmed",
+        "Collection of approximately 40,000 artifacts confirmed",
+        "Victor Sarianidi excavated sites and donated ivory casket to museum confirmed",
+        "Ivory casket from Gonur Depe, second millennium BC confirmed",
+        "Mary declared CIS Cultural Capital 2012 confirmed"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Mary History Museum - Advantour",
+      "url": "https://www.advantour.com/turkmenistan/mary/history-museum.htm",
+      "accessedAt": "2026-03-01",
+      "claimsVerified": [
+        "Building faced with white marble on central and lateral facades confirmed",
+        "Collection includes carpets, miniatures, tapestries, ceramics, sculptures, weapons, musical instruments confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "central-asian-southern-desert-wp",
+      "title": "Central Asian Southern Desert",
+      "tile": "tqft",
+      "coordinates": {
+        "lat": 39,
+        "lng": 60
+      },
+      "distanceKm": 168.6
+    },
+    "n": {
+      "id": "bactria-margiana-archaeological-complex-wp",
+      "title": "Bactria-Margiana Archaeological Complex",
+      "tile": "tqts",
+      "coordinates": {
+        "lat": 38.233333333333,
+        "lng": 61.45
+      },
+      "distanceKm": 53.6
+    },
+    "ne": {
+      "id": "iron-gate-central-asia-wp",
+      "title": "Iron Gate",
+      "tile": "tqz9",
+      "coordinates": {
+        "lat": 38.2216,
+        "lng": 66.9068
+      },
+      "distanceKm": 412.8
+    },
+    "w": {
+      "id": "tomb-of-ferdowsi-wp",
+      "title": "Tomb of Ferdowsi: A Nation's Debt to Its Poet",
+      "tile": "tq6r",
+      "coordinates": {
+        "lat": 36.486130555555555,
+        "lng": 59.517538888888886
+      },
+      "distanceKm": 187.2
+    },
+    "e": {
+      "id": "dasht-i-leili-massacre-wp",
+      "title": "Dasht-i-Leili Massacre",
+      "tile": "tqw8",
+      "coordinates": {
+        "lat": 36.65671389,
+        "lng": 65.70575278
+      },
+      "distanceKm": 323.5
+    },
+    "sw": {
+      "id": "gonbad-kabud-mosque-wp",
+      "title": "Gonbad Kabud Mosque: Eight Centuries Under a Blue Dome",
+      "tile": "tqdd",
+      "coordinates": {
+        "lat": 36.99461111111111,
+        "lng": 59.76997222222222
+      },
+      "distanceKm": 127.9
+    },
+    "s": {
+      "id": "khorasan-wk",
+      "title": "Khorasan: Where the Sun Rises",
+      "tile": "tqkh",
+      "coordinates": {
+        "lat": 36,
+        "lng": 62
+      },
+      "distanceKm": 143.3
+    },
+    "se": {
+      "id": "battle-of-andkhud-wp",
+      "title": "Battle of Andkhud",
+      "tile": "tqw6",
+      "coordinates": {
+        "lat": 36.953043,
+        "lng": 65.125258
+      },
+      "distanceKm": 259.4
+    }
+  }
+}

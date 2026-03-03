@@ -1,0 +1,168 @@
+{
+  "id": "indus-river-wp",
+  "source": "wikipedia",
+  "sourceId": "15490",
+  "title": "Indus River",
+  "slug": "indus-river",
+  "summary": "One of Asia's great civilizational arteries, the Indus River rises near Mount Kailash in Tibet and travels over 3,000 kilometers through Pakistan before reaching the Arabian Sea.",
+  "content": {
+    "intro": "Somewhere near the sacred Mount Kailash in western Tibet, a spring emerges from the earth and begins a journey of over 3,000 kilometers. By the time it reaches the Arabian Sea near Karachi, this water has carved through the Himalayas, sustained one of humanity's earliest civilizations, fed the breadbasket of Pakistan, and shaped the political boundaries of South Asia. The Indus is not just a river. It gave its name to India, to Hinduism, and to the subcontinent itself.",
+    "sections": [
+      {
+        "title": "Born from Collision",
+        "body": "The Indus begins its life along the Indus-Yarlung suture zone, the geological scar where the Indian tectonic plate slammed into the Eurasian plate roughly 50 million years ago. Fed by glaciers from the Himalayan, Karakoram, and Hindu Kush ranges, the river gathers tributaries as it drops from the Tibetan Plateau through Ladakh. At the Nanga Parbat massif, one of the world's highest peaks at over 8,000 meters, the Indus bends sharply and plunges south through some of the deepest gorges on earth. The five rivers of Punjab -- the Chenab, Jhelum, Ravi, Beas, and Sutlej -- join it from the east, while the Kabul, Gilgit, and Shyok rivers feed it from the west and north. Together, they drain an area exceeding one million square kilometers."
+      },
+      {
+        "title": "Cradle of Cities",
+        "body": "Around 3300 BCE, the Indus Valley Civilization emerged along this river's banks. At its height, it covered parts of modern Pakistan and northwestern India, with major urban centers at Mohenjo-daro and Harappa. These cities had sophisticated drainage systems, standardized weights, and planned street grids at a time when much of the world lived in scattered settlements. The civilization's decline around 1900 BCE may have been driven in part by shifts in the Indus and its tributaries. The river has been reshaping human life ever since -- Alexander the Great sailed down it in 326 BCE, Mughal emperors built empires beside it, and the 1960 Indus Waters Treaty between India and Pakistan divided its flow in one of the Cold War era's most consequential water agreements."
+      },
+      {
+        "title": "Pakistan's Lifeline",
+        "body": "Today, the Indus irrigates the largest contiguous irrigation system in the world. The river and its tributaries water the agricultural heartland of Pakistan, feeding cotton, wheat, and rice crops that sustain roughly 200 million people. Major dams and barrages -- Tarbela, Mangla, Guddu, Sukkur -- regulate its flow, generating hydroelectric power and channeling water through thousands of kilometers of canals. The Sukkur Barrage alone, completed in 1932, transformed the economy of Sindh province. But this control comes with consequences. Upstream diversions have starved the Indus delta of the sediment and freshwater it needs, shrinking mangrove forests and allowing saltwater intrusion that threatens coastal communities."
+      },
+      {
+        "title": "A Delta in Retreat",
+        "body": "Where the Indus meets the Arabian Sea, a vast delta once spread across thousands of square kilometers of creeks, mudflats, and mangrove forests. The Indus River dolphin, a nearly blind freshwater species found nowhere else, still navigates its murky waters. But the delta is shrinking. Reduced water flows from upstream barrages, combined with rising sea levels, have transformed once-fertile land into salt-crusted flats. Fishing communities that sustained themselves for centuries now struggle with saltwater contamination of their wells. The mangroves that once buffered the coast against cyclones are thinning. Climate change projections suggest the river's glacial sources in the Himalayas will initially increase flow as ice melts, then decline sharply in coming decades -- a reckoning for a civilization built on meltwater."
+      }
+    ],
+    "flightContext": "The Indus delta is visible at approximately 24.0°N, 67.5°E. From altitude, the braided channels of the delta fan outward into the Arabian Sea. Nearby airports include Karachi's Jinnah International Airport (OPKC) to the northeast. The river's course can be traced northward across Pakistan's flat agricultural plains. Best viewed in clear weather; haze from agricultural burning may reduce visibility during harvest season."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 24,
+      "lng": 67.5
+    },
+    "geohash": "tkrb"
+  },
+  "categories": [
+    "rivers",
+    "geography",
+    "history",
+    "civilization",
+    "environment"
+  ],
+  "meta": {
+    "lastUpdated": "2026-02-28T00:00:00Z",
+    "wordCount": 680,
+    "readTime": 4,
+    "firstPublished": "2026-02-28T00:00:00Z",
+    "storyNumber": 5982
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Indus River - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Indus_River",
+      "accessedAt": "2026-02-28",
+      "claimsVerified": [
+        "Length over 3,000 km confirmed (modern figure is 3,180 km)",
+        "Originates near Mount Kailash in Tibet confirmed",
+        "Drainage area exceeding one million square kilometers confirmed (approx. 1,120,000 km2)",
+        "Indus Valley Civilization emerged around 3300 BCE confirmed",
+        "Civilization decline around 1900 BCE confirmed",
+        "Alexander the Great sailed down the Indus in 326 BCE confirmed",
+        "Indus Waters Treaty signed in 1960 confirmed",
+        "Sukkur Barrage completed in 1932 confirmed",
+        "Indus River dolphin described as nearly blind freshwater species confirmed",
+        "Five tributaries of Punjab (Chenab, Jhelum, Ravi, Beas, Sutlej) confirmed",
+        "No factual errors found requiring correction"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Indus Waters Treaty - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Indus_Waters_Treaty",
+      "accessedAt": "2026-02-28",
+      "claimsVerified": [
+        "1960 Indus Waters Treaty between India and Pakistan confirmed",
+        "Treaty described as consequential water agreement confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "karachi-nuclear-power-complex-wp",
+      "title": "Karachi Nuclear Power Complex",
+      "tile": "tkrm",
+      "coordinates": {
+        "lat": 24.845,
+        "lng": 66.787778
+      },
+      "distanceKm": 65.3
+    },
+    "n": {
+      "id": "indus-river-delta-arabian-sea-mangroves-wp",
+      "title": "Indus River Delta-Arabian Sea Mangroves",
+      "tile": "tkru",
+      "coordinates": {
+        "lat": 24.65,
+        "lng": 67.30103
+      },
+      "distanceKm": 43.7
+    },
+    "ne": {
+      "id": "jodhpur-wk",
+      "title": "Jodhpur",
+      "tile": "tsev",
+      "coordinates": {
+        "lat": 26.2389,
+        "lng": 73.0243
+      },
+      "distanceKm": 564.9
+    },
+    "w": {
+      "id": "gadani-ship-breaking-yard-wp",
+      "title": "Gadani Ship Breaking Yard",
+      "tile": "tkrq",
+      "coordinates": {
+        "lat": 25.06361111,
+        "lng": 66.71138889
+      },
+      "distanceKm": 119.2
+    },
+    "e": {
+      "id": "udaipur-wk",
+      "title": "Udaipur",
+      "tile": "tsk7",
+      "coordinates": {
+        "lat": 24.5854,
+        "lng": 73.7125
+      },
+      "distanceKm": 597.6
+    },
+    "sw": {
+      "id": "ras-al-hadd-wp",
+      "title": "Ras al Hadd",
+      "tile": "tk48",
+      "coordinates": {
+        "lat": 22.517,
+        "lng": 59.767
+      },
+      "distanceKm": 731.3
+    },
+    "s": {
+      "id": "sur-oman-wp",
+      "title": "Sur, Oman",
+      "tile": "tk42",
+      "coordinates": {
+        "lat": 22.566666666667,
+        "lng": 59.528888888889
+      },
+      "distanceKm": 807.3
+    },
+    "se": {
+      "id": "bhopal-disaster-wk",
+      "title": "The Bhopal Disaster: The Night a Pesticide Plant Killed a City",
+      "tile": "tsph",
+      "coordinates": {
+        "lat": 23.2814,
+        "lng": 77.4106
+      },
+      "distanceKm": 975.8
+    }
+  }
+}

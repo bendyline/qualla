@@ -1,0 +1,162 @@
+{
+  "id": "tenerife-disaster-wk",
+  "source": "wikipedia",
+  "sourceId": "43803",
+  "title": "The Tenerife Airport Disaster: 583 Dead in Aviation's Darkest Day",
+  "slug": "tenerife-disaster",
+  "summary": "Where two Boeing 747s collided on a foggy runway in the Canary Islands in 1977, killing 583 people in the deadliest accident in aviation history - caused by a cascade of miscommunications and impatience.",
+  "content": {
+    "intro": "On March 27, 1977, two Boeing 747 jumbo jets collided on the runway at Los Rodeos Airport on Tenerife, Canary Islands. KLM Flight 4805 was accelerating for takeoff. Pan Am Flight 1736 was taxiing across the same runway in thick fog. Neither crew could see the other. The KLM pilot had begun his takeoff without clearance, believing he had been authorized. The collision killed 583 people - everyone on the KLM aircraft and all but 61 on the Pan Am. It remains the deadliest accident in aviation history, a catastrophe caused by a perfect storm of fog, miscommunication, and fatal impatience.",
+    "sections": [
+      {
+        "title": "The Diversion",
+        "body": "Neither aircraft was supposed to be at Tenerife. Both were bound for Gran Canaria Airport when a terrorist bomb exploded in the terminal there. All flights were diverted to the smaller Los Rodeos Airport on Tenerife. The airport was suddenly overwhelmed with aircraft it wasn't designed to handle.\n\nKLM Flight 4805, originating from Amsterdam, carried 234 passengers. Pan Am Flight 1736, originating from Los Angeles, carried 380. Both waited for hours on the crowded tarmac while Gran Canaria was secured. The KLM captain, Jacob Veldhuyzen van Zanten, grew increasingly anxious - his crew was approaching their duty time limits."
+      },
+      {
+        "title": "The Fog",
+        "body": "As the afternoon wore on, fog rolled into Los Rodeos. Visibility dropped to 300 meters - below minimums for takeoff, but forecast to lift. When Gran Canaria reopened, both aircraft prepared to leave. But the taxiways were blocked by other diverted aircraft. The only way to reach the runway's takeoff position was to taxi down the runway itself.\n\nKLM was cleared to taxi down the runway, make a 180-degree turn at the end, and await takeoff clearance. Pan Am was told to taxi down the same runway behind KLM and exit at taxiway C3. Neither crew could see the other in the fog."
+      },
+      {
+        "title": "The Confusion",
+        "body": "At the end of the runway, KLM completed its turn and faced the fog-shrouded strip. Captain van Zanten advanced the throttles. His co-pilot reminded him they hadn't received takeoff clearance. Van Zanten pulled back the throttles, but his impatience was evident. He called the tower for clearance.\n\nThe tower's response was ambiguous: 'OK... Stand by for takeoff... I will call you.' In some accounts, the controller said 'KLM 4805, you are cleared...' before being interrupted. Van Zanten interpreted the message as takeoff clearance. It wasn't. Pan Am was still on the runway. KLM began its takeoff roll."
+      },
+      {
+        "title": "The Collision",
+        "body": "The Pan Am crew heard KLM announce it was taking off. They immediately radioed, 'We're still taxiing down the runway!' The controller radioed Pan Am to report when clear. These transmissions overlapped, creating a squeal of interference that blocked both messages from KLM's cockpit.\n\nThe KLM 747 was traveling at 160 mph when its crew finally saw Pan Am ahead. They pulled back on the controls, trying to lift off early. The Pan Am crew, seeing the KLM aircraft emerge from the fog, tried to turn off the runway. It was too late. KLM's landing gear and engines struck Pan Am's fuselage. Both aircraft erupted in flames."
+      },
+      {
+        "title": "The Legacy",
+        "body": "583 people died - 583 in one instant on a foggy afternoon. All 234 on KLM were killed. 326 of the 380 on Pan Am died. It remains the deadliest accident in aviation history.\n\nThe disaster revolutionized aviation safety. Cockpit procedures were standardized globally. 'Sterile cockpit' rules reduced distractions during critical phases. Communication protocols were revised to prevent ambiguity. The term 'takeoff' was reserved for actual takeoff clearance. Ground radar was mandated at major airports. Captain van Zanten, ironically KLM's chief flight instructor and a safety expert, became a cautionary tale about the dangers of authority and impatience."
+      }
+    ],
+    "flightContext": "The Tenerife disaster occurred at Los Rodeos Airport (GCXO), now called Tenerife North Airport, on Tenerife in the Canary Islands. The airport sits at 633m elevation and is frequently affected by fog. Tenerife South Airport (GCTS) handles most tourist traffic. The runway where the collision occurred is still in use. A memorial commemorates the victims."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 28.4827,
+      "lng": -16.3415
+    },
+    "geohash": "eth6h1h7z"
+  },
+  "categories": [
+    "aviation",
+    "disaster",
+    "deadliest",
+    "canary-islands",
+    "communication",
+    "quirky-history"
+  ],
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Tenerife Airport Disaster - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tenerife_airport_disaster",
+      "accessedAt": "2026-01-15",
+      "claimsVerified": [
+        "March 27 1977",
+        "583 dead",
+        "deadliest aviation accident"
+      ]
+    }
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-15T00:00:00Z",
+    "wordCount": 900,
+    "readTime": 5,
+    "firstPublished": "2026-01-15T00:00:00Z",
+    "storyNumber": 1139
+  },
+  "editorial": {
+    "spiciness": 3,
+    "strongOpinions": [
+      "583 Dead in Aviation's Darkest Day",
+      "A catastrophe caused by a perfect storm of fog, miscommunication, and fatal impatience"
+    ]
+  },
+  "locationWikipediaPath": "e/t/h/6/tenerife-airport-disaster-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "s-o-miguel-wk",
+      "title": "Sao Miguel",
+      "tile": "eqty",
+      "coordinates": {
+        "lat": 37.7667,
+        "lng": -25.4667
+      },
+      "distanceKm": 1273.6
+    },
+    "n": {
+      "id": "a-t-benhaddou-wk",
+      "title": "Ait Benhaddou",
+      "tile": "evdb",
+      "coordinates": {
+        "lat": 31.05,
+        "lng": -7.133333
+      },
+      "distanceKm": 921.3
+    },
+    "ne": {
+      "id": "costa-teguise-wk",
+      "title": "Costa Teguise",
+      "tile": "etnk",
+      "coordinates": {
+        "lat": 29,
+        "lng": -13.5
+      },
+      "distanceKm": 226.6
+    },
+    "w": {
+      "id": "titanic-sinking-wk",
+      "title": "The Sinking of the Titanic: The Unsinkable Ship That Sank",
+      "tile": "dzkm",
+      "coordinates": {
+        "lat": 41.726,
+        "lng": -49.948
+      },
+      "distanceKm": 3316.7
+    },
+    "e": {
+      "id": "marrakech-wk",
+      "title": "Marrakech",
+      "tile": "evd7",
+      "coordinates": {
+        "lat": 31.6295,
+        "lng": -7.9811
+      },
+      "distanceKm": 827.3
+    },
+    "sw": {
+      "id": "dakar-wk",
+      "title": "Dakar",
+      "tile": "edee",
+      "coordinates": {
+        "lat": 14.6937,
+        "lng": -17.4441
+      },
+      "distanceKm": 1514.2
+    },
+    "s": {
+      "id": "accra-wk",
+      "title": "Accra",
+      "tile": "ebzz",
+      "coordinates": {
+        "lat": 5.6037,
+        "lng": -0.187
+      },
+      "distanceKm": 3045.1
+    },
+    "se": {
+      "id": "abidjan-wk",
+      "title": "Abidjan",
+      "tile": "ebvn",
+      "coordinates": {
+        "lat": 5.3167,
+        "lng": -4.0333
+      },
+      "distanceKm": 2842.2
+    }
+  },
+  "keywords": [
+    "tenerife-disaster"
+  ]
+}

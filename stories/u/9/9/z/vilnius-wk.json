@@ -1,0 +1,163 @@
+{
+  "id": "vilnius-wk",
+  "source": "wikipedia",
+  "sourceId": "33234",
+  "title": "Vilnius",
+  "slug": "vilnius",
+  "summary": "Where Baroque churches fill Eastern Europe's largest old town, where Jewish history was both brilliant and tragic, where Lithuania's capital hides surprising depths.",
+  "content": {
+    "intro": "Vilnius is the Baroque city that history forgot and tourists are discovering, Lithuania's capital of 580,000 whose old town is Eastern Europe's largest and whose Jewish heritage was Europe's most tragic. The city that was Polish-Lithuanian Commonwealth's capital, that held Europe's largest Jewish community before the Holocaust destroyed it, that Soviet rule then obscured - Vilnius is emerging from layers of history with its Baroque churches and cobblestones intact.",
+    "sections": [
+      {
+        "title": "The Old Town",
+        "body": "Vilnius's old town is Eastern Europe's largest, the UNESCO-protected area where Baroque churches appear at every turn and where narrow streets reveal centuries of construction. The old town that reflects Vilnius's complicated history - the Catholic churches, the Orthodox cathedral, the synagogue that survived, the communist-era absences.\n\nThe old town rewards wandering, the exploration that planning cannot improve upon. The old town is what makes Vilnius worth the journey, the atmosphere that larger capitals have lost."
+      },
+      {
+        "title": "The Baroque Churches",
+        "body": "The Baroque churches are what Vilnius displays most abundantly, the Counter-Reformation architecture that Catholic Poland-Lithuania built to demonstrate faith's triumph. The Church of St. Peter and St. Paul whose interior is Baroque's excess, the Vilnius Cathedral whose classical facade belies Baroque interior - the churches are what Vilnius has more of than seems possible.\n\nThe churches represent the era when Vilnius was capital of the Polish-Lithuanian Commonwealth, the power that built what tourism now visits. The churches are history made architectural."
+      },
+      {
+        "title": "The Jewish History",
+        "body": "Vilnius was Jerusalem of Lithuania, the city where Jewish scholarship flourished for centuries before the Holocaust destroyed 95% of the community in two years. The Vilna Gaon whose learning made the city famous, the ghetto where Nazis confined the community, the forest of Paneriai where they murdered over 70,000 - the Jewish history is what Vilnius must reckon with.\n\nThe Jewish history is absence that presence cannot replace, the community that shaped Vilnius and that genocide erased. The history requires acknowledgment even as tourism emphasizes Baroque beauty."
+      },
+      {
+        "title": "Uzupis",
+        "body": "Uzupis is the neighborhood that declared itself independent as April Fools' joke that became identity, the artistic quarter whose constitution guarantees every cat the right to be a cat and everyone the right to be happy. The bohemian neighborhood that gentrification has found, the creativity that independence enabled.\n\nUzupis represents post-Soviet Vilnius, the playfulness that freedom permits, the neighborhood that artists claimed before galleries came. Uzupis is what Vilnius's quirky charm includes."
+      },
+      {
+        "title": "The Gediminas Tower",
+        "body": "Gediminas Tower is Vilnius's symbol, the remaining fragment of the Upper Castle where Lithuanian rulers governed and where the flag that symbolized independence flew even under Soviet rule. The tower that provides the views that every visitor seeks, the symbol that represents Lithuania's continuous existence.\n\nThe tower connects present to medieval past, the Grand Duchy of Lithuania that was once Europe's largest state. The tower is Lithuania's monument to its own history."
+      }
+    ],
+    "flightContext": "Vilnius (54.69N, 25.28E) lies at the confluence of the Neris and Vilnia rivers in southeastern Lithuania. Vilnius Airport (EYVI/VNO) is located 5km south with one runway 02/20 (2,515m). The old town spreads along the Neris River with Baroque church spires prominent. Gediminas Tower on its hill is the dominant landmark. The city is green with parks and forest. Weather is continental - cold winters, warm summers. Snow common December-March. The old town is compact and visible from above."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 54.6872,
+      "lng": 25.2797
+    },
+    "geohash": "u99zp7805"
+  },
+  "categories": [
+    "lithuania",
+    "baroque",
+    "jewish-history",
+    "unesco",
+    "baltic",
+    "old-town"
+  ],
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Vilnius - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vilnius",
+      "accessedAt": "2026-01-15",
+      "claimsVerified": [
+        "580,000 population",
+        "largest old town in Eastern Europe",
+        "Vilna Gaon"
+      ]
+    }
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-15T00:00:00Z",
+    "wordCount": 1000,
+    "readTime": 5,
+    "firstPublished": "2026-01-15T00:00:00Z",
+    "storyNumber": 1166
+  },
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": [
+      "Where Jewish history was both brilliant and tragic",
+      "95% of the community destroyed in two years"
+    ]
+  },
+  "locationWikipediaPath": "u/9/9/z/vilnius-wp",
+  "locationWikivoyagePath": "u/9/9/z/vilnius-wk",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "riga-wk",
+      "title": "Riga",
+      "tile": "ud15",
+      "coordinates": {
+        "lat": 56.9496,
+        "lng": 24.1052
+      },
+      "distanceKm": 216.9
+    },
+    "n": {
+      "id": "kuldiga-castle-wp",
+      "title": "Kuldiga Castle",
+      "tile": "u6ps",
+      "coordinates": {
+        "lat": 56.96896944444445,
+        "lng": 21.976455555555553
+      },
+      "distanceKm": 292.5
+    },
+    "ne": {
+      "id": "st-petersburg-wk",
+      "title": "St. Petersburg",
+      "tile": "udts",
+      "coordinates": {
+        "lat": 59.9343,
+        "lng": 30.3351
+      },
+      "distanceKm": 613.4
+    },
+    "w": {
+      "id": "grobi-a-castle-wp",
+      "title": "Grobina Castle",
+      "tile": "u6p1",
+      "coordinates": {
+        "lat": 56.534166666666664,
+        "lng": 21.162499999999998
+      },
+      "distanceKm": 293
+    },
+    "e": {
+      "id": "chernobyl-elephant-foot-wk",
+      "title": "The Elephant's Foot: The Most Dangerous Object on Earth",
+      "tile": "u9jk",
+      "coordinates": {
+        "lat": 51.3894,
+        "lng": 30.0989
+      },
+      "distanceKm": 477.2
+    },
+    "sw": {
+      "id": "gdansk-wk",
+      "title": "Gdansk",
+      "tile": "u3tm",
+      "coordinates": {
+        "lat": 54.352,
+        "lng": 18.6466
+      },
+      "distanceKm": 386
+    },
+    "s": {
+      "id": "krakow-wk",
+      "title": "Krakow",
+      "tile": "u2yh",
+      "coordinates": {
+        "lat": 50.0647,
+        "lng": 19.945
+      },
+      "distanceKm": 605.6
+    },
+    "se": {
+      "id": "pripyat-abandoned-wk",
+      "title": "Pripyat: The City That Died Overnight",
+      "tile": "u9jk",
+      "coordinates": {
+        "lat": 51.4045,
+        "lng": 30.0542
+      },
+      "distanceKm": 451.9
+    }
+  },
+  "keywords": [
+    "vilnius"
+  ]
+}

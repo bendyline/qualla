@@ -1,0 +1,163 @@
+{
+  "id": "atlanta-city-wk",
+  "source": "wikipedia",
+  "sourceId": "30615",
+  "title": "Atlanta: The City Too Busy to Hate, Too Spread Out to Walk",
+  "slug": "atlanta-city",
+  "summary": "The Georgia capital that rose from Sherman's ashes to become the capital of the New South - where Coca-Cola was invented, where Delta built a hub, and where the civil rights movement found both leadership and resistance.",
+  "content": {
+    "intro": "General William Sherman burned Atlanta in November 1864, destroying railroads, warehouses, and anything of military value before his March to the Sea. The city that rebuilt was determined to be something other than Old South: commercial, progressive, forward-looking. The slogan 'The City Too Busy to Hate' emerged during the civil rights era, when Atlanta's business leaders calculated that racial violence was bad for commerce. The calculation wasn't idealistic - it was pragmatic - but it worked. Martin Luther King Jr. was born here; the movement's headquarters were here; the first major Southern city to elect a Black mayor was here. Atlanta became capital of the New South by deciding that money mattered more than monuments.",
+    "sections": [
+      {
+        "title": "The Burning",
+        "body": "Sherman's troops destroyed Atlanta methodically in November 1864: railroad facilities, factories, warehouses, anything that supported the Confederate war effort. Roughly 40% of the city was burned; the population fled before the flames. The destruction was military strategy, but it became mythology - the burning of Atlanta in 'Gone with the Wind' shaped how Americans imagine the event. The city that emerged from the ashes was consciously modern, its railroad connections rebuilt, its ambitions commercial rather than agricultural. The Confederacy died at Atlanta; the New South began there."
+      },
+      {
+        "title": "Coca-Cola",
+        "body": "John Pemberton invented Coca-Cola in Atlanta in 1886, a patent medicine syrup that became the world's most recognizable brand. Asa Candler bought the formula and built the company; Robert Woodruff made it global. The World of Coca-Cola museum downtown celebrates the brand's history without irony. The company's headquarters remain in Atlanta, employing thousands and shaping the city's self-image. Coca-Cola is Atlanta's most successful export - a beverage invented in a pharmacy that became cultural ambassador, sold in more countries than the United Nations has members."
+      },
+      {
+        "title": "The Civil Rights Movement",
+        "body": "Martin Luther King Jr. was born in Sweet Auburn, raised at Ebenezer Baptist Church, educated at Morehouse College - all within Atlanta. The Southern Christian Leadership Conference was headquartered here. The movement's leaders strategized in Atlanta's Black business district, planned campaigns, organized protests. Yet Atlanta was no utopia: segregation was enforced, neighborhoods were divided, the airport was whites-only until 1961. The city's business leaders eventually embraced desegregation - not from moral conviction but from economic calculation. The approach worked: Atlanta hosted the 1996 Olympics while other Southern cities remained entangled in their past."
+      },
+      {
+        "title": "The Airport",
+        "body": "Hartsfield-Jackson Atlanta International Airport is the busiest in the world by passenger traffic - over 90 million passengers annually pass through, making Atlanta a transfer point for flights that don't otherwise involve Georgia. Delta Air Lines' hub operations drive the volume; connecting passengers never leave the terminal. The airport anchors the regional economy, employing 63,000 directly and enabling the conventions, headquarters, and commerce that justify Atlanta's status. The city exists as it does because the airport made it accessible; the airport thrives because the city made it necessary."
+      },
+      {
+        "title": "Visiting Atlanta",
+        "body": "Atlanta sprawls across 134 square miles without a coherent public transit system - MARTA serves some areas, but driving is often necessary. The Martin Luther King Jr. National Historical Park preserves his birth home, Ebenezer Baptist Church, and the King Center. The National Center for Civil and Human Rights is downtown. The World of Coca-Cola offers brand immersion. The Georgia Aquarium is among the world's largest. The High Museum of Art anchors the Woodruff Arts Center. Buckhead offers upscale shopping; Little Five Points provides alternative culture. The BeltLine, a rail-trail conversion, increasingly connects neighborhoods. The experience rewards intentional navigation - Atlanta's attractions are excellent but scattered."
+      }
+    ],
+    "flightContext": "Located at 33.75°N, 84.39°W in the foothills of the Appalachians in north-central Georgia. From altitude, Atlanta appears as sprawling metropolitan development - no natural harbor or river to explain its location, just the railroad junction that made it necessary. Hartsfield-Jackson Airport, the world's busiest, dominates the southern metropolitan area. The downtown skyline clusters in a relatively small area; highways radiate outward. What appears from altitude as low-density suburban sprawl is the capital of the New South - the city that burned in 1864 and rebuilt itself as commercial center, civil rights landmark, and the airport through which half the South seems to pass."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 33.749,
+      "lng": -84.388
+    },
+    "geohash": "djgzzxyd1"
+  },
+  "categories": [
+    "georgia",
+    "atlanta",
+    "city",
+    "civil-rights",
+    "coca-cola"
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-12T00:00:00Z",
+    "wordCount": 855,
+    "readTime": 5,
+    "firstPublished": "2026-01-12T00:00:00Z",
+    "storyNumber": 152
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Atlanta - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Atlanta",
+      "accessedAt": "2026-01-17",
+      "claimsVerified": [
+        "Sherman burned November 1864",
+        "Coca-Cola invented 1886",
+        "Busiest airport 90+ million passengers"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 3,
+    "strongOpinions": [
+      "The City Too Busy to Hate, Too Spread Out to Walk",
+      "The calculation wasn't idealistic - it was pragmatic - but it worked"
+    ]
+  },
+  "locationWikipediaPath": "d/n/5/b/atlanta-wp",
+  "locationWikivoyagePath": "d/j/g/z/atlanta-downtown-wk",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "tri-state-crematory-scandal-wp",
+      "title": "Tri-State Crematory Scandal",
+      "tile": "dn5m",
+      "coordinates": {
+        "lat": 34.77433333333333,
+        "lng": -85.2505
+      },
+      "distanceKm": 95.7
+    },
+    "n": {
+      "id": "great-locomotive-chase-wp",
+      "title": "Great Locomotive Chase",
+      "tile": "dn5c",
+      "coordinates": {
+        "lat": 34.02333333333333,
+        "lng": -84.61527777777778
+      },
+      "distanceKm": 12.4
+    },
+    "ne": {
+      "id": "tree-that-owns-itself-wp",
+      "title": "Tree That Owns Itself",
+      "tile": "dnh9",
+      "coordinates": {
+        "lat": 33.954779,
+        "lng": -83.382325
+      },
+      "distanceKm": 59.2
+    },
+    "w": {
+      "id": "coldwater-covered-bridge-wp",
+      "title": "Coldwater Covered Bridge",
+      "tile": "djfz",
+      "coordinates": {
+        "lat": 33.60749166666667,
+        "lng": -85.81659166666667
+      },
+      "distanceKm": 68.6
+    },
+    "e": {
+      "id": "jarrell-plantation-wp",
+      "title": "Jarrell Plantation",
+      "tile": "djuk",
+      "coordinates": {
+        "lat": 33.051944,
+        "lng": -83.725
+      },
+      "distanceKm": 73.3
+    },
+    "sw": {
+      "id": "battle-of-horseshoe-bend-wp",
+      "title": "Battle of Horseshoe Bend",
+      "tile": "djg5",
+      "coordinates": {
+        "lat": 32.98222222222223,
+        "lng": -85.73527777777778
+      },
+      "distanceKm": 76.7
+    },
+    "s": {
+      "id": "chris-benoit-double-murder-and-suicide-wp",
+      "title": "Chris Benoit Double-Murder and Suicide",
+      "tile": "djgv",
+      "coordinates": {
+        "lat": 33.39345,
+        "lng": -84.520699
+      },
+      "distanceKm": 2.8
+    },
+    "se": {
+      "id": "indian-springs-state-park-wp",
+      "title": "Indian Springs State Park",
+      "tile": "djum",
+      "coordinates": {
+        "lat": 33.243889,
+        "lng": -83.931111
+      },
+      "distanceKm": 19.2
+    }
+  },
+  "keywords": [
+    "atlanta",
+    "atlanta-city"
+  ]
+}

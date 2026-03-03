@@ -1,0 +1,186 @@
+{
+  "id": "santa-barbara-island-wp",
+  "source": "wikipedia",
+  "sourceId": "416130",
+  "title": "Santa Barbara Island",
+  "slug": "santa-barbara-island",
+  "summary": "The smallest and most isolated of California's Channel Islands, Santa Barbara Island rises from volcanic rock to tell a 4,000-year story of human presence, maritime signals, and protected marine life.",
+  "content": {
+    "intro": "The Tongva people called it Tchunashngna. Spanish explorer Sebastian Vizcaino, sighting it on December 4, 1602, named it for the saint whose feast day it was. Today, Santa Barbara Island sits alone in the Pacific, nearly forty miles from the nearest mainland coast, the smallest and most remote of California's Channel Islands. On clear winter days, it appears as a backlit silhouette at sunset, barely visible from the Palos Verdes Peninsula. For most of the year, it might as well not exist at all.",
+    "sections": [
+      {
+        "title": "A Volcanic Outpost",
+        "body": "Santa Barbara Island covers barely one square mile, rising from Miocene-era volcanic basalt interbedded with ancient marine sediments. Its steep, wave-cut cliffs mark it as one of the younger Channel Islands, geologically speaking. At least six marine terraces step up from the shoreline, evidence of the island's repeated tectonic uplift and subsidence over millions of years. Geologists call this porpoising, an apt term for an island that seems to bob at the edge of continental waters. At the northeast shore, Arch Point displays a natural sea arch carved by waves exploiting fault-weakened rock. Signal Hill, the island's highest point, rises to 634 feet above sea level. Two named offshore rocks accompany the island: Sutil Island off the southwest end and Shag Rock to the north."
+      },
+      {
+        "title": "The Voyagers' Refuge",
+        "body": "Archaeological sites dating back 4,000 years document human presence on Santa Barbara Island, though the Chumash and Tongva peoples likely used it as a temporary stopover rather than a permanent home. The island sat along maritime routes connecting the mainland to the larger Channel Islands, offering shelter and resources to canoe voyagers crossing the open channel. What drew them here across miles of unpredictable ocean? Perhaps seals, shellfish, or simply a waypoint on longer journeys. The island kept its secrets as waves eroded evidence of ancient camps and middens."
+      },
+      {
+        "title": "Beacons and Lookouts",
+        "body": "In 1928, the United States Lighthouse Board erected a beacon on the island's northwest side, adding a second on the southwest corner in 1934. That same year, the steam-schooner California spent a week anchored offshore, processing blue, fin, and sperm whales caught by two steam-driven whale catchers. The Coast Guard eventually took over the beacons, replacing the northwest tower with a solar-powered steel structure in 1980. During World War II, the Navy built a Coastal Lookout Station that operated from 1942 to 1946, watching for Japanese submarines and aircraft. In the 1960s, they returned briefly for a photo-tracking station before abandoning the island to the seabirds and sea lions."
+      },
+      {
+        "title": "Protected Waters",
+        "body": "Today, Santa Barbara Island lies within Channel Islands National Park, the only one of the four southern Channel Islands included in the park alongside all four northern islands. Its marine ecosystem falls under the protection of the Channel Islands National Marine Sanctuary. Despite its administrative ties to distant Santa Barbara County rather than closer Los Angeles or Ventura counties, the island remains uninhabited. Island Packers ferry service provides public access for visitors willing to make the journey. The island rewards them with nesting seabirds, pinnipeds hauled out on rocky shores, and the rare experience of standing on a place that most Californians will never see except as a distant smudge on the horizon."
+      }
+    ],
+    "flightContext": "Santa Barbara Island appears as a small, isolated landmass at coordinates 33.48N, 119.04W, approximately 38 nautical miles from the Palos Verdes Peninsula. The island is visible from cruising altitude on clear days as a distinct dark shape against the Pacific. No airports exist on the island. The nearest facilities are at Catalina Airport (KAVX), approximately 25 nautical miles to the east, or mainland airports at Long Beach (KLGB) and Los Angeles International (KLAX). Signal Hill at 634 feet is the highest point."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 33.47698888888889,
+      "lng": -119.03772222222221
+    },
+    "geohash": "9mgq7"
+  },
+  "categories": [
+    "Channel Islands National Park",
+    "Channel Islands of California",
+    "Islands of Southern California",
+    "Islands of the Channel Islands of California",
+    "Islands of Santa Barbara County, California",
+    "Miocene volcanism",
+    "Volcanism of California",
+    "Uninhabited islands of California"
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-22T00:00:00Z",
+    "wordCount": 620,
+    "readTime": 3,
+    "firstPublished": "2026-01-22T00:00:00Z",
+    "storyNumber": 1424
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Santa Barbara Island - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Santa_Barbara_Island",
+      "accessedAt": "2026-01-22",
+      "claimsVerified": [
+        "Smallest Channel Island at ~1 square mile",
+        "Vizcaino named it December 4, 1602",
+        "Miocene-era volcanic basalt"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "National Park Service - Signal Peak",
+      "url": "https://www.nps.gov/places/000/signal-peak.htm",
+      "accessedAt": "2026-01-22",
+      "claimsVerified": [
+        "Signal Hill elevation 634 feet"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "4000 Years of Human Occupation on Santa Barbara Island",
+      "url": "https://escholarship.org/content/qt7d76h6d1/qt7d76h6d1_noSplash_100534f550981df191eb059f3194f822.pdf",
+      "accessedAt": "2026-01-22",
+      "claimsVerified": [
+        "Archaeological sites dating back 4,000 years",
+        "Used as stopover during inter-island travel"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "National Park Service - Navigational Light",
+      "url": "https://www.nps.gov/places/000/navigational-light.htm",
+      "accessedAt": "2026-01-22",
+      "claimsVerified": [
+        "Lighthouse Board beacon 1928",
+        "Second beacon 1934",
+        "Coast Guard replaced tower with solar-powered steel structure 1980"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "santa-barbara-wk",
+      "title": "Santa Barbara: The American Riviera",
+      "tile": "9q4g",
+      "coordinates": {
+        "lat": 34.4208,
+        "lng": -119.6982
+      },
+      "distanceKm": 76.2
+    },
+    "n": {
+      "id": "channel-islands-wilderness-wk",
+      "title": "Channel Islands: The California That Cars Never Reached",
+      "tile": "9q51",
+      "coordinates": {
+        "lat": 34.0069,
+        "lng": -119.4009
+      },
+      "distanceKm": 46.5
+    },
+    "ne": {
+      "id": "watts-towers-wk",
+      "title": "The Watts Towers",
+      "tile": "9q5c",
+      "coordinates": {
+        "lat": 33.9388,
+        "lng": -118.2413
+      },
+      "distanceKm": 30.2
+    },
+    "w": {
+      "id": "san-nicolas-island-wp",
+      "title": "San Nicolas Island",
+      "tile": "9mfv",
+      "coordinates": {
+        "lat": 33.26416666666667,
+        "lng": -119.53888888888889
+      },
+      "distanceKm": 24.7
+    },
+    "e": {
+      "id": "catalina-airport-wp",
+      "title": "Catalina Airport",
+      "tile": "9mgy",
+      "coordinates": {
+        "lat": 33.405,
+        "lng": -118.41583333333334
+      },
+      "distanceKm": 10.7
+    },
+    "sw": {
+      "id": "uss-agerholm-wp",
+      "title": "USS Agerholm",
+      "tile": "9mff",
+      "coordinates": {
+        "lat": 32.75,
+        "lng": -119.53333333333333
+      },
+      "distanceKm": 52.6
+    },
+    "s": {
+      "id": "naval-auxiliary-landing-field-san-clemente-island-wp",
+      "title": "Naval Auxiliary Landing Field San Clemente Island",
+      "tile": "9mge",
+      "coordinates": {
+        "lat": 33.022777777777776,
+        "lng": -118.5886111111111
+      },
+      "distanceKm": 44.6
+    },
+    "se": {
+      "id": "la-jolla-historical-society-wp",
+      "title": "La Jolla Historical Society",
+      "tile": "9mud",
+      "coordinates": {
+        "lat": 32.845,
+        "lng": -117.27722222222222
+      },
+      "distanceKm": 119.4
+    }
+  },
+  "keywords": [
+    "santa-barbara-island"
+  ]
+}

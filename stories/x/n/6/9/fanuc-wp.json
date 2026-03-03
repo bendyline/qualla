@@ -1,0 +1,177 @@
+{
+  "id": "fanuc-wp",
+  "source": "wikipedia",
+  "sourceId": "1430758",
+  "title": "FANUC",
+  "slug": "fanuc",
+  "summary": "Hidden in a forest at the foot of Mount Fuji, the secretive FANUC corporation builds the yellow robots that assemble much of the modern world, commanding 65% of the global CNC market from a campus where everything -- buildings, machines, uniforms -- is painted the same shade of yellow.",
+  "content": {
+    "intro": "Everything is yellow. The buildings are yellow. The robots are yellow. The hallways, the machinery, the company trucks -- all painted the same distinctive shade. In the village of Oshino at the foot of Mount Fuji, spread across 1.78 million square meters of forest in Yamanashi Prefecture, FANUC operates what analysts call the most automated factories on Earth. Visitors are rare. The press is discouraged. Roughly 2,000 engineers live on campus in company dormitories, and outsiders have compared the atmosphere to a cult. Yet this reclusive company quietly controls 65 percent of the global market for computer numerical control systems, the brains that tell factory machines how to cut, drill, mill, and shape. If you have ever used a product assembled by a robot, there is a strong chance FANUC built that robot.",
+    "sections": [
+      {
+        "title": "Punched Cards to World Domination",
+        "body": "FANUC stands for Fuji Automatic Numerical Control, and its story begins in 1955 when Fujitsu tapped a young engineer named Seiuemon Inaba to lead a new subsidiary dedicated to numerical control technology. The work was primitive: instructions encoded on punched cards or magnetic tape, sent to motors that guided lathes and milling machines. Inaba and a team of 500 spent heavily on research, and within three years they shipped Fujitsu's first numerical-control machine to Makino Milling Machine Co. In 1972, the division spun off as FANUC Ltd., and the real conquest began. Computer numerical control, driven by G-code programming, was the next frontier. At the time, the ten largest CNC companies in the world were all American. By 1982, FANUC had captured half the global CNC market. The American dominance was over."
+      },
+      {
+        "title": "Fewer Parts, More Power",
+        "body": "FANUC adopted a German engineering slogan as its guiding philosophy: Weniger Teile, meaning fewer parts. Machines with fewer components are cheaper to produce, easier for robots to assemble, more reliable, and less expensive to maintain. The principle drove everything from product design to factory layout. The company's three business units -- FA (Factory Automation), ROBOT, and ROBOMACHINE -- all flow from this philosophy. The FA group builds the servomotors and controllers that power CNC machines in over 100 countries. The ROBOT group integrates those same components into industrial robotic arms. And ROBOMACHINE produces finished machines: ROBODRILL machining centers, ROBOSHOT injection molding machines, and ROBOCUT electrical discharge machines. The result is a vertically integrated empire where FANUC robots build FANUC components that go into FANUC machines."
+      },
+      {
+        "title": "Robots Building Robots",
+        "body": "The Oshino campus is where the philosophy reaches its logical extreme. FANUC's 33 production centers in Japan are among the most automated manufacturing facilities in existence, producing up to 6,000 robots per month. Its closest competitor, ABB, produces roughly half that number. The factories are dispersed through a forested campus that includes machining, pressing, die casting, and painting facilities, all humming with minimal human oversight. In 1982, FANUC entered a joint venture with General Motors to market robots in the United States, forming GMFanuc Robotics Corporation from a Detroit office with 70 staff. A 1986 partnership with General Electric created GE Fanuc Automation, taking over GE's CNC plant in Charlottesville, Virginia. Today, FANUC has over 240 joint ventures and subsidiaries across 46 countries. Its robots weld Tesla chassis, assemble Panasonic televisions, and paint automobile bodies worldwide."
+      },
+      {
+        "title": "The Yellow Kingdom at Fuji's Feet",
+        "body": "FANUC is listed on the Tokyo Stock Exchange and sits in both the Nikkei 225 and TOPIX 100 indices, yet it operates with a secrecy more typical of a defense contractor than a publicly traded manufacturer. The Oshino campus, nestled in forests with Mount Fuji visible from every angle, functions as a self-contained world. Engineers relocate there when they join the company. The yellow color scheme is not decorative; it is institutional identity, applied with the same precision the company brings to micron-level machining tolerances. From the air, the campus appears as clusters of bright yellow rooftops scattered through dark green forest, an unlikely factory town in one of Japan's most scenic landscapes. The company that taught the world's machines to think remains, in many ways, invisible to the world those machines built."
+      }
+    ],
+    "flightContext": "Located at 35.45N, 138.84E in Oshino village, Yamanashi Prefecture, at the northern foot of Mount Fuji. The FANUC campus is identifiable from the air by its distinctive bright yellow buildings scattered through dense forest. Mount Fuji rises dramatically to the south. The Fuji Five Lakes region surrounds the area. Nearest airports include RJAH (Ibaraki) approximately 180 km northeast and RJTT (Tokyo Haneda) approximately 100 km east. Best viewed at 3,000-5,000 feet AGL where the yellow rooftops contrast against the surrounding forest."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 35.445499999999996,
+      "lng": 138.84280555555557
+    },
+    "geohash": "xn69x"
+  },
+  "categories": [
+    "industry",
+    "robotics",
+    "technology",
+    "manufacturing"
+  ],
+  "meta": {
+    "lastUpdated": "2026-02-16T00:00:00Z",
+    "wordCount": 780,
+    "readTime": 4,
+    "firstPublished": "2026-02-16T00:00:00Z",
+    "storyNumber": 3720
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "title": "Wikipedia - FANUC",
+      "url": "https://en.wikipedia.org/wiki/FANUC",
+      "accessedAt": "2026-01-01",
+      "author": "Wikipedia"
+    },
+    {
+      "type": "verification",
+      "title": "FANUC Corporation - Outline (Official)",
+      "url": "https://www.fanuc.co.jp/en/profile/outline.html",
+      "accessedAt": "2026-02-20",
+      "claimsVerified": [
+        "Headquarters location at Oshino-mura, Yamanashi Prefecture confirmed (no relocation)",
+        "Campus spans 1.78 million square meters confirmed",
+        "Company founded as Fujitsu subsidiary in 1955 confirmed",
+        "Spun off as FANUC Ltd in 1972 confirmed",
+        "Listed on Tokyo Stock Exchange, included in Nikkei 225 and TOPIX 100 confirmed",
+        "Three business units FA, ROBOT, ROBOMACHINE confirmed",
+        "Operations in over 100 countries confirmed"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Morningstar - High CNC Penetration Supports Fanuc's Economic Moat",
+      "url": "https://www.morningstar.com/company-reports/1354960-high-cnc-penetration-supports-fanucs-economic-moat-the-widest-among-factory-automation-names",
+      "accessedAt": "2026-02-20",
+      "claimsVerified": [
+        "65% global CNC market share figure cited in Wikipedia; some analyst sources suggest 50% is more current — flag as possibly dated",
+        "FANUC remains global CNC market leader confirmed",
+        "1982 joint venture with General Motors forming GMFanuc Robotics Corporation confirmed",
+        "1986 GE Fanuc Automation partnership confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 4,
+    "strongOpinions": [
+      "Campus atmosphere compared to 'a cult' — loaded characterization attributed to unnamed analysts/outsiders",
+      "Described as operating with 'secrecy more typical of a defense contractor'",
+      "Engineers described as living in company dormitories, framing an isolation narrative",
+      "65% CNC market share claim: Wikipedia-sourced figure; current analyst estimates range 50-65% depending on market definition — treat as approximate"
+    ]
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "takat-castle-wp",
+      "title": "Takatō Castle",
+      "tile": "xn65",
+      "coordinates": {
+        "lat": 35.8332,
+        "lng": 138.0625
+      },
+      "distanceKm": 19
+    },
+    "n": {
+      "id": "k-gaku-ji-wp",
+      "title": "Kogaku-ji",
+      "tile": "xn6e",
+      "coordinates": {
+        "lat": 35.71116666666667,
+        "lng": 138.72261111111112
+      },
+      "distanceKm": 4.2
+    },
+    "ne": {
+      "id": "takiyama-castle-tokyo-wp",
+      "title": "Takiyama Castle: The Fortress That Fooled 20,000 Soldiers",
+      "tile": "xn75",
+      "coordinates": {
+        "lat": 35.70196111111112,
+        "lng": 139.32829166666667
+      },
+      "distanceKm": 10.1
+    },
+    "w": {
+      "id": "minami-alps-national-park-wp",
+      "title": "Minami Alps National Park",
+      "tile": "xn61",
+      "coordinates": {
+        "lat": 35.46416666666667,
+        "lng": 138.15694444444446
+      },
+      "distanceKm": 5
+    },
+    "e": {
+      "id": "elizabeth-saunders-home-wp",
+      "title": "Elizabeth Saunders Home: The Mother of Two Thousand Children",
+      "tile": "xn70",
+      "coordinates": {
+        "lat": 35.30888888888889,
+        "lng": 139.31419444444447
+      },
+      "distanceKm": 15.1
+    },
+    "sw": {
+      "id": "sakuma-dam-wp",
+      "title": "Sakuma Dam",
+      "tile": "xn1z",
+      "coordinates": {
+        "lat": 35.099444444444444,
+        "lng": 137.79416666666665
+      },
+      "distanceKm": 34.2
+    },
+    "s": {
+      "id": "numazu-castle-wp",
+      "title": "Numazu Castle",
+      "tile": "xn4z",
+      "coordinates": {
+        "lat": 35.09885833333333,
+        "lng": 138.86735833333333
+      },
+      "distanceKm": 17.2
+    },
+    "se": {
+      "id": "sakitama-kofun-cluster-wp",
+      "title": "Sakitama Kofun Cluster",
+      "tile": "xn5p",
+      "coordinates": {
+        "lat": 35.12833333333333,
+        "lng": 139.47666666666666
+      },
+      "distanceKm": 23.7
+    }
+  }
+}

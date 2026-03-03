@@ -1,0 +1,161 @@
+{
+  "id": "chilo-island-wk",
+  "source": "wikipedia",
+  "sourceId": "7318",
+  "title": "Chiloe Island",
+  "slug": "chilo-island",
+  "summary": "An island of wooden churches, ghost ships, and forest spirits where Mapuche mythology blends with Spanish Catholicism to create one of South America's most enchanted landscapes.",
+  "content": {
+    "intro": "When the Mapuche rebellion cut Spanish Chile in two, the island of Chiloe became an isolated outpost, connected to Lima by a single ship that arrived once yearly. Pirates prowled these waters. Ships wrecked crossing the Cape limped into harbor. Harsh winters pressed down on the colonists. From this isolation emerged something remarkable: a culture where Catholic saints share the pantheon with forest demons and sea spirits, where 16 wooden churches earned UNESCO World Heritage status, and where the Caleuche, a ghost ship carrying the souls of the drowned, still sails through local legend. Chiloe is not just a place but a state of mind, an island where the mystical feels as real as the rain.",
+    "sections": [
+      {
+        "title": "Spirits of Forest and Sea",
+        "body": "The Pincoya dances on the beaches, a fair-haired beauty whose movements toward the shore foretell abundant fishing. The Trauco and Fiura stalk the dense forests, grotesque figures who seduce the unwary despite their ghastly appearances. The Caleuche appears on foggy nights, a luminous ghost ship crewed by the drowned, visible only to those with the sight. Most disturbing is the Invunche, a creature whose origins speak to the island's darker folklore: a baby whose orifices were sewn shut by the warlocks of the Recta Provincia, forced to hop on one leg through eternity as a guardian of witches' caves. These spirits coexist easily with the Virgin Mary in the Chilote imagination."
+      },
+      {
+        "title": "Temples of Wood and Faith",
+        "body": "The Jesuit missionaries who converted Chiloe left behind something extraordinary: a collection of wooden churches built without a single nail, using construction techniques borrowed from shipwrights. Sixteen of these structures now carry UNESCO World Heritage designation, scattered across the main island and its archipelago neighbors. The church at Castro rises in neo-Gothic splendor, its yellow and purple facade brightening the rainiest days. At Dalcahue and Quinchao, simpler structures speak to centuries of faith maintained at the edge of the known world. The churches stand as monuments to isolation, built by communities who knew the next ship from civilization might not come for months."
+      },
+      {
+        "title": "Island of Abundance",
+        "body": "Chiloe's waters teem with life, making seafood the foundation of local cuisine. The famous curanto layers shellfish, meat, and vegetables in a pit lined with hot stones and covered with nalca leaves, steaming for hours into a feast. In Dalcahue's market, the cocinerias serve empanadas stuffed with the morning's catch. The salmon industry has made the island a commercial powerhouse, though the traditional gathering of mariscos continues as it has for centuries. Warning: the bivalves here can harbor a toxic algae with potentially lethal effects, making it essential to buy only from authorized sources."
+      },
+      {
+        "title": "Getting to the Edge",
+        "body": "The Canal de Chacao separates Chiloe from the mainland, a 25-minute ferry crossing from Pargua that deposits vehicles and passengers at the northern tip of the island. From Santiago, buses cover the 1,016-kilometer journey in 14 hours, tickets including the ferry fare. In Castro, the island's main city, colorful palafitos, houses built on stilts over the water, line the waterfront. The local bus system reaches most towns, while hitchhiking remains easier here than elsewhere in Chile. The best months run from December through March, the southern summer when rains ease and the spirits, perhaps, rest."
+      },
+      {
+        "title": "Into the Wild",
+        "body": "Chiloe National Park protects the island's western coast, where Valdivian temperate rainforest meets the Pacific. Trails wind through dense stands of alerce and tepual, emerging onto beaches where penguins gather in colonies. At Cucao, visitors dig for razorclams in the surf and walk the tepual boardwalk through ancient wetland forest. Charter yachts offer access to the smaller islands of the archipelago, each with its own wooden church and fishing village. The navegado, warm wine spiced with oranges and cinnamon, takes the chill off after a day in the mist, while chicha de manzana, local apple cider, flows at every celebration."
+      }
+    ],
+    "flightContext": "Located at 42.67S, 73.99W off Chile's Pacific coast. Nearest major airport is El Tepual International (SCTE) at Puerto Montt, 90km northeast on the mainland. Chiloe has a small regional airport with limited service. From the air, the island appears as a large green mass separated from the mainland by the Canal de Chacao, with the Chiloe Archipelago scattered to the east and the Pacific Ocean to the west."
+  },
+  "location": {
+    "coordinates": {
+      "lat": -42.67,
+      "lng": -73.99
+    },
+    "geohash": "627mk"
+  },
+  "categories": [
+    "island",
+    "cultural-heritage",
+    "unesco",
+    "mythology",
+    "chile"
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-21T00:00:00Z",
+    "wordCount": 780,
+    "readTime": 4,
+    "firstPublished": "2026-01-21T00:00:00Z",
+    "storyNumber": 1219
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Churches of Chiloé - UNESCO",
+      "url": "https://whc.unesco.org/en/list/971/",
+      "accessedAt": "2026-01-22",
+      "claimsVerified": [
+        "16 UNESCO World Heritage churches",
+        "Jesuit missionary tradition",
+        "Wooden construction without nails"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 3,
+    "strongOpinions": [
+      "Chiloe is not just a place but a state of mind",
+      "These spirits coexist easily with the Virgin Mary in the Chilote imagination"
+    ]
+  },
+  "locationWikipediaPath": "6/2/7/m/chiloe-island-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "nazca-lines-wk",
+      "title": "The Nazca Lines: Art Made for the Sky",
+      "tile": "6m6s",
+      "coordinates": {
+        "lat": -14.735,
+        "lng": -75.13
+      },
+      "distanceKm": 3072.7
+    },
+    "n": {
+      "id": "villa-la-angostura-wk",
+      "title": "Villa la Angostura",
+      "tile": "62tp",
+      "coordinates": {
+        "lat": -40.7833,
+        "lng": -71.6667
+      },
+      "distanceKm": 262
+    },
+    "ne": {
+      "id": "nahuel-huapi-national-park-wk",
+      "title": "Nahuel Huapi National Park",
+      "tile": "62tn",
+      "coordinates": {
+        "lat": -41,
+        "lng": -71.5
+      },
+      "distanceKm": 223.4
+    },
+    "w": {
+      "id": "lima-wk",
+      "title": "Lima",
+      "tile": "6mc5",
+      "coordinates": {
+        "lat": -12.0464,
+        "lng": -77.0428
+      },
+      "distanceKm": 3409
+    },
+    "e": {
+      "id": "san-carlos-de-bariloche-wk",
+      "title": "San Carlos de Bariloche",
+      "tile": "62tm",
+      "coordinates": {
+        "lat": -41.15,
+        "lng": -71.3
+      },
+      "distanceKm": 243.8
+    },
+    "sw": {
+      "id": "west-antarctica-wk",
+      "title": "West Antarctica",
+      "tile": "1cby",
+      "coordinates": {
+        "lat": -79,
+        "lng": -100
+      },
+      "distanceKm": 4159.8
+    },
+    "s": {
+      "id": "laguna-san-rafael-national-park-wk",
+      "title": "Laguna San Rafael National Park",
+      "tile": "4rek",
+      "coordinates": {
+        "lat": -47,
+        "lng": -74
+      },
+      "distanceKm": 456.9
+    },
+    "se": {
+      "id": "cueva-de-las-manos-wk",
+      "title": "Cueva de las Manos",
+      "tile": "4rte",
+      "coordinates": {
+        "lat": -47.15,
+        "lng": -70.66667
+      },
+      "distanceKm": 522.5
+    }
+  },
+  "keywords": [
+    "chilo-island"
+  ]
+}

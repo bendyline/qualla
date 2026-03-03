@@ -1,0 +1,163 @@
+{
+  "id": "krakow-wk",
+  "source": "wikipedia",
+  "sourceId": "17234",
+  "title": "Krakow",
+  "slug": "krakow",
+  "summary": "Where Poland's royal capital survived the wars that destroyed Warsaw, where the Main Square is Europe's largest, where history lives in every stone.",
+  "content": {
+    "intro": "Krakow is Poland's soul, the former capital of 780,000 that the wars which destroyed Warsaw somehow spared, leaving Europe's largest medieval square and centuries of architecture intact. The city where Polish kings were crowned and buried at Wawel, where Copernicus studied and Karol Wojtyla became priest before becoming pope - Krakow is what Polish history looks like when bombs didn't fall. The Main Square where life concentrates, the Jewish quarter that the Holocaust emptied and tourism has revived - Krakow is Poland's most visited city for reasons that walking its streets makes obvious.",
+    "sections": [
+      {
+        "title": "The Main Square",
+        "body": "The Main Square is medieval Europe's largest, the 200-meter expanse where the Cloth Hall runs down the center and St. Mary's Basilica rises at the corner. The square that has served as market since the 13th century, that cafe terraces now fill, that tourists photograph from every angle - the square is Krakow's heart and its defining feature.\n\nThe square provides the life that cities need, the gathering space that medieval planning created and modern life uses. The square is why Krakow is destination; the destination is earned."
+      },
+      {
+        "title": "Wawel",
+        "body": "Wawel is the hill where Poland was ruled, the castle and cathedral complex where kings governed and were crowned and were buried. The Wawel that symbolizes Polish statehood, that the dragon legend made mythic, that tourists climb daily - Wawel is what Polish history concentrates.\n\nWawel is pilgrimage for Poles and attraction for visitors, the architecture that power built, the cathedral that faith maintained. Wawel is Krakow's historical anchor; the anchor holds despite centuries."
+      },
+      {
+        "title": "Kazimierz",
+        "body": "Kazimierz is Krakow's former Jewish quarter, the neighborhood that was European Jewish culture's center before the Holocaust destroyed the community. The synagogues that still stand, the cemetery that still exists, the streets that Schindler's List filmed - Kazimierz is memory and revival, the neighborhood that artists and tourists have reoccupied.\n\nKazimierz represents what was lost - the Jewish Krakow that thrived for five centuries, the community that the nearby camps exterminated. Kazimierz is revival on top of tragedy, the complexity that honest tourism requires acknowledging."
+      },
+      {
+        "title": "The University",
+        "body": "The Jagiellonian University is Central Europe's oldest, the institution where Copernicus studied astronomy before revolutionizing it. The university that has educated Poland's leaders and thinkers for over six centuries, that gives Krakow its youthful population and intellectual character.\n\nThe university shapes Krakow's character, the students who fill the bars and the scholarship that fills the libraries. The university is why Krakow feels alive despite its museums."
+      },
+      {
+        "title": "The Survival",
+        "body": "Krakow's survival is what makes it remarkable, the city that the Nazis made their General Government capital and therefore didn't destroy. The survival that was accidental, that Germans fled before destroying, that leaves Krakow intact when Warsaw required rebuilding entirely.\n\nThe survival created modern Krakow's tourism economy, the authentic architecture that reconstruction cannot equal. The survival was luck; the luck has been generous."
+      }
+    ],
+    "flightContext": "Krakow (50.06N, 19.94E) lies on the Vistula River in southern Poland at the foot of the Carpathian Mountains. Krakow John Paul II Airport (EPKK/KRK) is located 11km west with one runway 07/25 (2,550m). The old town with its distinctive Main Square is visible. Wawel Castle sits on a hill at the Vistula bend. The Nowa Huta communist-era district is to the east. The Tatra Mountains are visible to the south on clear days. Weather is continental - cold winters, warm summers. Fog possible in river valleys."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 50.0647,
+      "lng": 19.945
+    },
+    "geohash": "u2yhm"
+  },
+  "categories": [
+    "poland",
+    "royal-capital",
+    "main-square",
+    "wawel",
+    "jewish-history",
+    "unesco"
+  ],
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Krakow - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kraków",
+      "accessedAt": "2026-01-15",
+      "claimsVerified": [
+        "780,000 population",
+        "largest medieval square",
+        "Jagiellonian oldest in Central Europe"
+      ]
+    }
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-15T00:00:00Z",
+    "wordCount": 1000,
+    "readTime": 5,
+    "firstPublished": "2026-01-15T00:00:00Z",
+    "storyNumber": 1024
+  },
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": [
+      "Where Poland's royal capital survived the wars that destroyed Warsaw",
+      "Kazimierz is revival on top of tragedy"
+    ]
+  },
+  "locationWikivoyagePath": "u/2/y/h/krakow-wk",
+  "locationWikipediaPath": "u/2/y/h/krakow-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "gdansk-wk",
+      "title": "Gdansk",
+      "tile": "u3tm",
+      "coordinates": {
+        "lat": 54.352,
+        "lng": 18.6466
+      },
+      "distanceKm": 455.9
+    },
+    "n": {
+      "id": "berlin-wk",
+      "title": "Berlin",
+      "tile": "u33d",
+      "coordinates": {
+        "lat": 52.51794,
+        "lng": 13.38873
+      },
+      "distanceKm": 513.6
+    },
+    "ne": {
+      "id": "vilnius-wk",
+      "title": "Vilnius",
+      "tile": "u99z",
+      "coordinates": {
+        "lat": 54.6872,
+        "lng": 25.2797
+      },
+      "distanceKm": 591.7
+    },
+    "w": {
+      "id": "auschwitz-wk",
+      "title": "Auschwitz: The Site of Industrialized Murder",
+      "tile": "u2vs",
+      "coordinates": {
+        "lat": 50.0343,
+        "lng": 19.1962
+      },
+      "distanceKm": 10.3
+    },
+    "e": {
+      "id": "pripyat-abandoned-wk",
+      "title": "Pripyat: The City That Died Overnight",
+      "tile": "u9jk",
+      "coordinates": {
+        "lat": 51.4045,
+        "lng": 30.0542
+      },
+      "distanceKm": 697.4
+    },
+    "sw": {
+      "id": "budapest-wk",
+      "title": "Budapest",
+      "tile": "u2mw",
+      "coordinates": {
+        "lat": 47.4979,
+        "lng": 19.0402
+      },
+      "distanceKm": 250.9
+    },
+    "s": {
+      "id": "vienna-wk",
+      "title": "Vienna",
+      "tile": "u2ed",
+      "coordinates": {
+        "lat": 48.208,
+        "lng": 16.373
+      },
+      "distanceKm": 306.8
+    },
+    "se": {
+      "id": "karansebes-wk",
+      "title": "The Battle of Karansebes: When an Army Defeated Itself",
+      "tile": "u2pf",
+      "coordinates": {
+        "lat": 45.4167,
+        "lng": 22.2167
+      },
+      "distanceKm": 500.5
+    }
+  },
+  "keywords": [
+    "krakow"
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": "new-york-city-wk",
+  "source": "wikipedia",
+  "sourceId": "30611",
+  "title": "New York City: The Capital of Everything Except America",
+  "slug": "new-york-city",
+  "summary": "The five-borough metropolis that was bought for beads and became the world's capital - where Ellis Island processed millions, where Wall Street crashed civilization, and where 8 million people living atop each other created a culture unlike anywhere else on Earth.",
+  "content": {
+    "intro": "New York City isn't the capital of anything officially - not even New York State. But it's the capital of everything unofficially: finance, media, fashion, art, theater, and the American idea of urban possibility. The Dutch bought Manhattan from the Lenape for trade goods worth about $1,000 in today's money - possibly the greatest real estate bargain in history, though the Lenape may not have understood they were 'selling' land in the European sense. The island that was farms became the island of skyscrapers; the harbor that received millions of immigrants became the port that ships the world. Eight million people live in 302 square miles, pressed together in a density that creates friction, energy, and something that exists nowhere else.",
+    "sections": [
+      {
+        "title": "The Boroughs",
+        "body": "New York City is five boroughs stitched together in 1898: Manhattan, Brooklyn, Queens, the Bronx, and Staten Island. Manhattan is the dense vertical core, 23 square miles of real estate worth more per acre than anywhere on Earth. Brooklyn was an independent city until consolidation; its population would make it America's fourth-largest city on its own. Queens is the most ethnically diverse urban area in the world, with residents from every nation. The Bronx is the only borough attached to the mainland. Staten Island voted against joining and has considered secession since. The combination creates a city of cities, each borough a world unto itself."
+      },
+      {
+        "title": "Ellis Island",
+        "body": "Between 1892 and 1954, Ellis Island processed roughly 12 million immigrants entering the United States - about 40% of all Americans can trace ancestry through this one small island in New York Harbor. The procedure was typically brief: medical inspection, legal inspection, registration. Those who passed entered America; those who failed faced detention or deportation. The inspectors sometimes simplified names, though the story that they routinely changed them is largely myth. The island closed when immigration law changed; it reopened as a museum in 1990. The experience of arrival - seeing the Statue of Liberty, entering the Great Hall, becoming American - shaped the nation's self-image."
+      },
+      {
+        "title": "The Subway",
+        "body": "New York's subway system opened in 1904 and now carries over 3 million passengers daily on 472 stations - more than any other system in the Western Hemisphere. The trains run 24 hours, making New York one of the few cities where getting anywhere at 3 AM is still possible. The system is also crumbling: infrastructure designed for 1904 ridership struggles with 21st-century demands. Delays are endemic; flooding is common; the stations are hot in summer and cold in winter. Yet the subway makes the city work - without mass transit, the density that defines New York would be impossible. The system is simultaneously marvel and disaster."
+      },
+      {
+        "title": "The Culture",
+        "body": "Broadway theaters, world-class museums, Madison Square Garden, Lincoln Center, Carnegie Hall - New York's cultural infrastructure exists because the money and audience density support it. The Metropolitan Museum of Art holds 2 million objects. The New York Public Library's main branch is one of the largest in the world. The jazz clubs, comedy clubs, off-Broadway theaters, and galleries provide pathways for artists seeking audiences. The culture is also street level: the buskers in the subway, the food carts on every corner, the languages you hear walking a single block. New York's culture is both institution and chaos."
+      },
+      {
+        "title": "Visiting New York City",
+        "body": "New York is served by three major airports: JFK, LaGuardia, and Newark. Manhattan's attractions concentrate in midtown (Times Square, Empire State Building, Rockefeller Center) and downtown (9/11 Memorial, Statue of Liberty). Central Park offers 843 acres of green in the island's heart. The Metropolitan Museum, MoMA, and Guggenheim anchor Museum Mile. Broadway theaters cluster in midtown; downtown and Brooklyn offer alternatives. The subway goes everywhere; taxis supplement. Hotels range from luxury to hostel; prices are always high. The experience is sensory overload by design - a city that demands attention and rarely disappoints those who pay it."
+      }
+    ],
+    "flightContext": "Located at 40.71°N, 74.01°W at the mouth of the Hudson River. From altitude, New York appears as a dense archipelago - Manhattan's grid unmistakable, the Central Park rectangle visible as green within the gray, Brooklyn and Queens spreading across Long Island, the Bronx connected to the mainland. The Statue of Liberty stands in the harbor; Ellis Island sits nearby. The bridges connecting the boroughs trace lines across the rivers. Three airports ring the metropolitan area. What appears from altitude as an impossibly dense urban concentration is exactly that - 8 million people in 302 square miles, the most important city in the Western Hemisphere."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "geohash": "dr5ru"
+  },
+  "categories": [
+    "new-york",
+    "nyc",
+    "city",
+    "manhattan",
+    "ellis-island"
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-12T00:00:00Z",
+    "wordCount": 855,
+    "readTime": 5,
+    "firstPublished": "2026-01-12T00:00:00Z",
+    "storyNumber": 613
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "New York City - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/New_York_City",
+      "accessedAt": "2026-01-17",
+      "claimsVerified": [
+        "Five boroughs consolidated 1898",
+        "8 million population",
+        "302 square miles"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": [
+      "The Capital of Everything Except America",
+      "The system is simultaneously marvel and disaster"
+    ]
+  },
+  "locationWikipediaPath": "d/r/5/r/climate-of-new-york-city-wp",
+  "locationWikivoyagePath": "d/r/5/r/new-york-city-wk",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "woodstock-wp",
+      "title": "Woodstock: Three Days That Became a Generation",
+      "tile": "dr6v",
+      "coordinates": {
+        "lat": 41.7,
+        "lng": -74.88
+      },
+      "distanceKm": 87.6
+    },
+    "n": {
+      "id": "sleepy-hollow-headless-wk",
+      "title": "Sleepy Hollow: Where the Headless Horseman Still Rides",
+      "tile": "dr73",
+      "coordinates": {
+        "lat": 41.0904,
+        "lng": -73.8587
+      },
+      "distanceKm": 19.2
+    },
+    "ne": {
+      "id": "new-haven-city-wk",
+      "title": "New Haven: The Yale Town Where Pizza Became Apizza",
+      "tile": "drk4",
+      "coordinates": {
+        "lat": 41.3083,
+        "lng": -72.9279
+      },
+      "distanceKm": 60.3
+    },
+    "w": {
+      "id": "george-washington-s-crossing-of-the-delaware-river-wp",
+      "title": "George Washington's Crossing of the Delaware River",
+      "tile": "dr4v",
+      "coordinates": {
+        "lat": 40.3,
+        "lng": -74.87333333333332
+      },
+      "distanceKm": 52.4
+    },
+    "e": {
+      "id": "wardenclyffe-tower-wp",
+      "title": "Wardenclyffe Tower",
+      "tile": "drk0",
+      "coordinates": {
+        "lat": 40.94758333333333,
+        "lng": -72.89819444444446
+      },
+      "distanceKm": 56.3
+    },
+    "sw": {
+      "id": "lindbergh-kidnapping-wp",
+      "title": "Lindbergh Kidnapping",
+      "tile": "dr4v",
+      "coordinates": {
+        "lat": 40.424,
+        "lng": -74.7677
+      },
+      "distanceKm": 20
+    },
+    "s": {
+      "id": "ss-morro-castle-wk",
+      "title": "The Burning of the Morro Castle: Murder, Fire, and a Ship That Beached Itself at a Resort",
+      "tile": "dr5k",
+      "coordinates": {
+        "lat": 40.2206,
+        "lng": -74.0122
+      },
+      "distanceKm": 23.3
+    },
+    "se": {
+      "id": "uss-atik-wp",
+      "title": "USS Atik",
+      "tile": "dqq4",
+      "coordinates": {
+        "lat": 35.63333333333333,
+        "lng": -70.23333333333333
+      },
+      "distanceKm": 604.1
+    }
+  },
+  "keywords": [
+    "new-york",
+    "new-york-city"
+  ]
+}

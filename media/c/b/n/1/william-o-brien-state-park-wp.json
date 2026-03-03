@@ -1,0 +1,52 @@
+{
+  "id": "william-o-brien-state-park-wp",
+  "patch": {
+    "media": {
+      "hero": {
+        "path": "_m/c/b/n/1/william-o-brien-state-park-wp/hero.jpg",
+        "filename": "Williamobrien.jpg",
+        "caption": "William O'Brien State Park, Minnesota",
+        "alt": "William O'Brien State Park, Minnesota",
+        "width": 599,
+        "height": 800,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 2.5",
+        "artist": "Greg Seitz (The.dharma.bum at English Wikipedia)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Williamobrien.jpg",
+        "sourceType": "core",
+        "sourceArticleId": "william-o-brien-state-park-wp",
+        "sourceGeohash4": "cbn1",
+        "accessedAt": "2026-02-07T15:40:21.152Z",
+        "smallPath": "_m/c/b/n/1/william-o-brien-state-park-wp/hero-small.jpg"
+      },
+      "images": [
+        {
+          "path": "_m/c/b/n/1/william-o-brien-state-park-wp/relief-location-map-us.png",
+          "filename": "Usa edcp relief location map.png",
+          "caption": "Relief location map of the USA (without Hawaii and Alaska).\nEquiDistantConicProjection :\nCentral  parallel :\n\n* N: 37.0° N\n\nCentral meridian :\n\n* E: 96.0° W\n\nStandard parallels:\n\n* 1: 32.0° N\n* 2: 42.0° N\n\nMade with Natural Earth. Free vector and raster map data @ naturalearthdata.com.\nFormulas for x and y:\n\nx = 50.0 + 124.03149777329222 * ((1.9694462586094064-({{{2}}}* pi / 180))\n      * sin(0.6010514667026994 * ({{{3}}} + 96) * pi / 180))\ny = 50.0 + 1.6155950752393982 * 124.03149777329222 * 0.02613325650382181\n      - 1.6155950752393982  * 124.03149777329222 *\n     (1.3236744353715044  - (1.9694462586094064-({{{2}}}* pi / 180)) \n      * cos(0.6010514667026994 * ({{{3}}} + 96) * pi / 180))",
+          "alt": "Relief location map of the USA (without Hawaii and Alaska).\nEquiDistantConicProjection :\nCentral  parallel :\n\n* N: 37.0° N\n\nCentral meridian :\n\n* E: 96.0° W\n\nStandard parallels:\n\n* 1: 32.0° N\n* 2: 42.0° N\n\nMade with Natural Earth. Free vector and raster map data @ naturalearthdata.com.\nFormulas for x and y:\n\nx = 50.0 + 124.03149777329222 * ((1.9694462586094064-({{{2}}}* pi / 180))\n      * sin(0.6010514667026994 * ({{{3}}} + 96) * pi / 180))\ny = 50.0 + 1.6155950752393982 * 124.03149777329222 * 0.02613325650382181\n      - 1.6155950752393982  * 124.03149777329222 *\n     (1.3236744353715044  - (1.9694462586094064-({{{2}}}* pi / 180)) \n      * cos(0.6010514667026994 * ({{{3}}} + 96) * pi / 180))",
+          "width": 1181,
+          "height": 731,
+          "mimeType": "image/png",
+          "license": "CC BY-SA 3.0",
+          "artist": "Uwe Dedering",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Usa_edcp_relief_location_map.png",
+          "sourceType": "core",
+          "sourceArticleId": "william-o-brien-state-park-wp",
+          "sourceGeohash4": "cbn1",
+          "accessedAt": "2026-02-07T15:40:21.152Z",
+          "smallPath": "_m/c/b/n/1/william-o-brien-state-park-wp/relief-location-map-us-small.png"
+        }
+      ],
+      "narration": [
+        "_m/c/b/n/1/william-o-brien-state-park-wp/cbn1-william-obrien-state-park-flight-context.mp3",
+        "_m/c/b/n/1/william-o-brien-state-park-wp/cbn1-william-obrien-state-park-intro.mp3",
+        "_m/c/b/n/1/william-o-brien-state-park-wp/cbn1-william-obrien-state-park-before-the-pines-fell.mp3",
+        "_m/c/b/n/1/william-o-brien-state-park-wp/cbn1-william-obrien-state-park-a-gift-from-alice.mp3",
+        "_m/c/b/n/1/william-o-brien-state-park-wp/cbn1-william-obrien-state-park-rolling-moraines-and-oak-savanna.mp3",
+        "_m/c/b/n/1/william-o-brien-state-park-wp/cbn1-william-obrien-state-park-wings-along-the-river.mp3",
+        "_m/c/b/n/1/william-o-brien-state-park-wp/cbn1-william-obrien-state-park-slow-water-on-the-st-croix.mp3"
+      ]
+    }
+  }
+}

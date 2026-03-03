@@ -1,0 +1,155 @@
+{
+  "id": "snoqualmie-valley-wk",
+  "source": "wikipedia",
+  "sourceId": "209577",
+  "title": "Snoqualmie Valley",
+  "slug": "snoqualmie-valley",
+  "summary": "The rural valley where David Lynch filmed Twin Peaks and small towns preserve an agricultural heritage just thirty miles from downtown Seattle.",
+  "content": {
+    "intro": "The Snoqualmie River winds through a valley that time seems to have treated gently, its course marked by small towns with names like Carnation, Duvall, and Fall City. Just thirty miles from Seattle's glass towers, dairy farms spread across the valley floor, their pastoral landscapes providing the backdrop for David Lynch's surreal television drama Twin Peaks. The show captured something real about this place - the way mist hangs in the trees, the way mountains rise suddenly from flat farmland, the way a place can feel isolated despite its proximity to a major city. The Snoqualmie Valley is that kind of place.",
+    "sections": [
+      {
+        "title": "The Dairy Valley",
+        "body": "Before Seattle sprawled eastward, the Snoqualmie Valley was dairy country, its flat bottomland and reliable rainfall ideal for the pastures that fed herds of Holsteins and Jerseys. Carnation takes its name from the condensed milk company that operated here, processing the valley's production into a product that could be shipped worldwide. The farming heritage persists, though the economics have shifted - organic operations, specialty producers, and hobby farms have joined or replaced the industrial dairy.\n\nThe landscape retains its agricultural character. Driving the valley roads means passing barns and silos, farm stands selling seasonal produce, fields where cattle graze against mountain backdrops. Development pressure from Seattle is constant, but zoning has preserved much of the farmland, maintaining the visual character that makes the valley feel like an escape from the metropolitan area that surrounds it on three sides."
+      },
+      {
+        "title": "Twin Peaks Country",
+        "body": "When David Lynch needed a location for his mysterious Pacific Northwest town, he found it here. The Snoqualmie Falls lodge became the Great Northern Hotel; the Mar-T Cafe in North Bend served as the Double R Diner; the surrounding forests provided the haunted Douglas firs where owls were not what they seemed. The show aired in 1990 and 1991, returned in 2017, and continues to draw fans who seek out filming locations throughout the valley.\n\nThe connection runs deeper than set dressing. Lynch found in the Snoqualmie Valley a genuine atmosphere - the mix of everyday Americana and underlying strangeness that defined his vision. The valley can feel that way, especially in morning fog or evening twilight. The mountains loom close; the forests are deep and dark; the small-town surfaces cover depths that outsiders never quite reach. It's a landscape that rewards both literal and imaginative exploration."
+      },
+      {
+        "title": "The Waterfalls",
+        "body": "Snoqualmie Falls drops 268 feet, a cataract nearly a hundred feet higher than Niagara. The falls powered a hydroelectric plant beginning in 1899, one of the first underground power stations in the world, but their fame precedes and transcends the engineering. The Snoqualmie people considered the falls sacred, a place where mists rising from the plunge pool carried prayers to the creator. Today over 1.5 million visitors annually crowd the observation deck.\n\nThe falls are the valley's signature attraction, but other waterfalls reward those who venture farther. The Snoqualmie River's tributaries drop through cascades accessible by trail; the drive toward Snoqualmie Pass reveals viewpoints overlooking multiple falls. Water defines this landscape - the river, the rainfall, the mist that rises from the forests and settles in the valley on cool mornings. It's a wet, green place, the forests dripping even when rain isn't falling."
+      },
+      {
+        "title": "Valley Towns",
+        "body": "Carnation, Duvall, and Fall City anchor the northern valley, each maintaining distinct character despite their small populations. Carnation grew around the milk processing plant; Duvall has cultivated an artsy, small-town atmosphere; Fall City clusters near the confluence where the Snoqualmie and Raging Rivers meet. Together they form a constellation of communities connected by two-lane roads that wind along the river.\n\nSouth of the valley proper, Snoqualmie and North Bend offer larger commercial centers. North Bend has embraced its Twin Peaks connection, the show's imagery adorning businesses along the main strip. Snoqualmie preserves railroad heritage, the Northwest Railway Museum operating vintage trains along tracks that once hauled timber from the mountains. The communities share a valley but not identical identities, each maintaining the independence that small-town life requires."
+      }
+    ],
+    "flightContext": "Located at 47.68N, 121.94W in King County, Washington, approximately 30 miles east of Seattle. The Snoqualmie Valley is clearly visible as a flat agricultural corridor surrounded by forested foothills. The Snoqualmie River winds through the valley; Snoqualmie Falls is visible as a break in the river near the town of Snoqualmie. Interstate 90 passes along the southern edge; Highway 203 runs north-south through the valley. The Cascade foothills rise to the east; the valley opens to the Puget Sound lowlands to the west. Seattle's eastern suburbs are visible to the northwest."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 47.67677,
+      "lng": -121.93854
+    },
+    "geohash": "c23r1"
+  },
+  "categories": [
+    "valley",
+    "washington",
+    "rural",
+    "twin-peaks",
+    "agricultural"
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Snoqualmie Falls - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Snoqualmie_Falls",
+      "accessedAt": "2026-01-16",
+      "claimsVerified": [
+        "268 feet height",
+        "1899 underground power station",
+        "1.5 million annual visitors"
+      ]
+    }
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-10T00:00:00Z",
+    "wordCount": 720,
+    "readTime": 4,
+    "firstPublished": "2026-01-10T00:00:00Z",
+    "storyNumber": 77
+  },
+  "locationWikivoyagePath": "c/2/3/q/snoqualmie-valley-wk",
+  "locationWikipediaPath": "c/2/3/q/snoqualmie-valley-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "whidbey-island-wk",
+      "title": "Whidbey Island",
+      "tile": "c28c",
+      "coordinates": {
+        "lat": 48.136,
+        "lng": -122.582
+      },
+      "distanceKm": 24.2
+    },
+    "n": {
+      "id": "camano-island-wk",
+      "title": "Camano Island",
+      "tile": "c28f",
+      "coordinates": {
+        "lat": 48.182333333333,
+        "lng": -122.50444444444
+      },
+      "distanceKm": 55.5
+    },
+    "ne": {
+      "id": "north-cascades-national-park-wk",
+      "title": "North Cascades National Park",
+      "tile": "c2d5",
+      "coordinates": {
+        "lat": 48.483,
+        "lng": -120.911
+      },
+      "distanceKm": 61.7
+    },
+    "w": {
+      "id": "edmonds-wk",
+      "title": "Edmonds",
+      "tile": "c22z",
+      "coordinates": {
+        "lat": 47.807869,
+        "lng": -122.360133
+      },
+      "distanceKm": 9.3
+    },
+    "e": {
+      "id": "leavenworth-washington-wk",
+      "title": "Leavenworth (Washington)",
+      "tile": "c26n",
+      "coordinates": {
+        "lat": 47.596,
+        "lng": -120.665
+      },
+      "distanceKm": 48.9
+    },
+    "sw": {
+      "id": "vashon-island-wk",
+      "title": "Vashon Island",
+      "tile": "c22v",
+      "coordinates": {
+        "lat": 47.4161,
+        "lng": -122.468
+      },
+      "distanceKm": 10.6
+    },
+    "s": {
+      "id": "naches-trail-wp",
+      "title": "Naches Trail",
+      "tile": "c23e",
+      "coordinates": {
+        "lat": 47.10419,
+        "lng": -121.46894
+      },
+      "distanceKm": 47.5
+    },
+    "se": {
+      "id": "cle-elum-wk",
+      "title": "Cle Elum",
+      "tile": "c23u",
+      "coordinates": {
+        "lat": 47.21841667,
+        "lng": -120.9629111
+      },
+      "distanceKm": 36.5
+    }
+  },
+  "keywords": [
+    "snoqualmie-valley"
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "id": "dutch-windmill-golden-gate-park-wp",
+  "title": "Dutch Windmill",
+  "summary": "A century-old windmill that once pumped water to transform San Francisco's sand dunes into one of the world's great urban parks.",
+  "content": {
+    "intro": "At the western edge of Golden Gate Park, where the Pacific fog rolls in across Ocean Beach, a Dutch-style windmill stands with its great sails reaching toward the sky. Built in 1903, this weathered landmark once served a practical purpose that seems almost magical today: pumping the groundwater that transformed barren sand dunes into the thousand-acre urban oasis that now surrounds it.",
+    "sections": [
+      {
+        "title": "Turning Sand into Paradise",
+        "body": "In the 1870s and 1880s, Golden Gate Park was planted on sand dunes that required constant irrigation to sustain any plant life. The Spring Valley Water Company charged exorbitant rates for the water needed to green this ambitious project. In 1902, the Park Commission found an ingenious solution: build windmills to pump free groundwater from beneath the dunes. The Dutch Mill was completed a year later, its great sails pumping thousands of gallons per hour to nurture the growing forest of trees and gardens."
+      },
+      {
+        "title": "Decline and Restoration",
+        "body": "Electric pumps made the windmill obsolete by 1913, and without purpose, the structure fell into disrepair. By the 1950s, it stood in ruins, its sails long gone and its tower crumbling. The resurrection began in 1964 when Eleanor Rossi Crabtree, daughter of former San Francisco mayor Angelo Rossi, led a citizens' commission to restore both windmills. The Dutch Mill was finally returned to working condition in 1981, placed on the San Francisco Designated Landmark list that same year."
+      },
+      {
+        "title": "The Queen's Garden",
+        "body": "Today the Queen Wilhelmina Tulip Garden blooms at the windmill's base, planted each spring with thousands of colorful tulips. The restored mill stands as a monument to San Francisco's determination to create beauty in unlikely places. Its neighbor, the Murphy Windmill to the south, tells the same story of ambition, decay, and rebirth that characterizes so much of this city by the bay."
+      }
+    ],
+    "flightContext": "The Dutch Windmill stands at the northwest corner of Golden Gate Park, near Ocean Beach. From the air, look for the distinctive cruciform sail structure against the dark green of the park's western edge. The Pacific Ocean stretches endlessly to the west. The Cliff House and Sutro Baths ruins are visible to the north. Nearest airports: San Francisco International (KSFO) 11nm south, Oakland International (KOAK) 13nm east."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 37.770732,
+      "lng": -122.509403
+    },
+    "geohash": "9q8yu"
+  },
+  "categories": [
+    "Golden Gate Park",
+    "Windmills",
+    "San Francisco landmarks"
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-11T00:00:00Z",
+    "wordCount": 380,
+    "readTime": 2,
+    "firstPublished": "2026-01-11T00:00:00Z",
+    "storyNumber": 101
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Dutch Windmill Golden Gate Park - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dutch_Windmill_(Golden_Gate_Park)",
+      "accessedAt": "2026-01-12",
+      "claimsVerified": [
+        "completed 1903",
+        "electric pumps 1913",
+        "restored 1981"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "KQED - Golden Gate Park Windmills",
+      "url": "https://www.kqed.org/news/11915313/golden-gate-parks-windmills-were-essential-then-abandoned-for-decades",
+      "accessedAt": "2026-01-12",
+      "claimsVerified": [
+        "Eleanor Rossi Crabtree restoration effort",
+        "sand dunes irrigation"
+      ]
+    }
+  ],
+  "locationWikipediaPath": "9/q/8/y/dutch-windmill-golden-gate-park-wp",
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "fort-ross-wk",
+      "title": "Fort Ross",
+      "tile": "9qb7",
+      "coordinates": {
+        "lat": 38.5143,
+        "lng": -123.2427
+      },
+      "distanceKm": 63
+    },
+    "n": {
+      "id": "rancho-petaluma-adobe-wp",
+      "title": "Rancho Petaluma Adobe",
+      "tile": "9qbc",
+      "coordinates": {
+        "lat": 38.25547,
+        "lng": -122.58451
+      },
+      "distanceKm": 32.4
+    },
+    "ne": {
+      "id": "california-state-railroad-museum-wp",
+      "title": "California State Railroad Museum",
+      "tile": "9qce",
+      "coordinates": {
+        "lat": 38.584722222222226,
+        "lng": -121.50444444444445
+      },
+      "distanceKm": 80.6
+    },
+    "w": {
+      "id": "asbill-massacre-wp",
+      "title": "The Asbill Massacre",
+      "tile": "9r06",
+      "coordinates": {
+        "lat": 39.7784,
+        "lng": -123.2286
+      },
+      "distanceKm": 231.1
+    },
+    "e": {
+      "id": "niles-canyon-railway-wp",
+      "title": "Niles Canyon Railway",
+      "tile": "9q9m",
+      "coordinates": {
+        "lat": 37.59388888888889,
+        "lng": -121.88972222222223
+      },
+      "distanceKm": 15.3
+    },
+    "sw": {
+      "id": "mauna-kea-wk",
+      "title": "Mauna Kea: The Mountain Taller Than Everest",
+      "tile": "8e92",
+      "coordinates": {
+        "lat": 19.8207,
+        "lng": -155.468
+      },
+      "distanceKm": 3692.9
+    },
+    "s": {
+      "id": "stanford-prison-experiment-wp",
+      "title": "Stanford Prison Experiment",
+      "tile": "9q9h",
+      "coordinates": {
+        "lat": 37.4286304,
+        "lng": -122.1729957
+      },
+      "distanceKm": 30.6
+    },
+    "se": {
+      "id": "winchester-mystery-house-wk",
+      "title": "Winchester Mystery House",
+      "tile": "9q9k",
+      "coordinates": {
+        "lat": 37.3184,
+        "lng": -121.9511
+      },
+      "distanceKm": 14.2
+    }
+  }
+}

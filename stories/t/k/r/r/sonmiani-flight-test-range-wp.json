@@ -1,0 +1,159 @@
+{
+  "id": "sonmiani-flight-test-range-wp",
+  "source": "wikipedia",
+  "sourceId": "1445219",
+  "title": "Sonmiani Flight Test Range",
+  "slug": "sonmiani-flight-test-range",
+  "summary": "Pakistan's only rocket launch facility began in 1961 as a NASA-assisted civilian space program and has since transformed into a military missile test range on the Balochistan coast.",
+  "content": {
+    "intro": "On June 7, 1962, a Nike-Cajun sounding rocket lifted off from a beach in Balochistan and climbed into the sky above the Arabian Sea. It was the first rocket ever launched from Pakistani soil, part of a program called Rehbar-I, and the facility it departed from -- the Sonmiani Flight Test Range -- owed its existence to an unlikely partnership between Pakistan's fledgling space agency and NASA. That partnership did not last. The rockets still fly from Sonmiani, but their purpose has changed.",
+    "sections": [
+      {
+        "title": "An American Beginning",
+        "body": "The Space and Upper Atmosphere Research Commission, known as SUPARCO, was established in 1961 as Pakistan's national space agency. That same year, with crucial technical assistance and equipment from NASA, the Sonmiani Rocket Range was set up on a stretch of coastal flat near Sonmiani Beach, approximately 50 kilometers west of Karachi. The location was chosen for its access to open sea -- failed launches would fall harmlessly into the Arabian Sea rather than onto populated land. The facility's first major achievement came when the Rehbar-I sounding rocket, a Nike-Cajun combination supplied by the Americans, successfully launched on June 7, 1962, making Pakistan only the third country in Asia, after Japan and Israel, to conduct a rocket launch."
+      },
+      {
+        "title": "From Sounding Rockets to Missile Tests",
+        "body": "SUPARCO's early years focused on civilian atmospheric research. Sounding rockets carried instruments to measure cosmic rays, atmospheric composition, and weather patterns. But the facility's mission shifted over the decades. As Pakistan's military programs expanded, the Flight Test Range transitioned from purely scientific launches to weapons testing. Today, the range spans 200 hectares and serves primarily as a missile test site. The Pakistan Air Force conducts live-fire demonstrations and training exercises in the area. The specifics of what launches from Sonmiani are classified, but the range's role in Pakistan's defense infrastructure is well documented. It remains the only rocket launch facility operated by SUPARCO."
+      },
+      {
+        "title": "A Coastline of Contrasts",
+        "body": "The Flight Test Range sits on the same stretch of Balochistan coastline as fishing villages, the Gadani Ship Breaking Yard, and the ecologically sensitive Sonmiani Bay. Fishermen cast nets within kilometers of where rockets arc over the water. The bay itself hosts rare dolphin species and connects to the Miani Hor lagoon, a Ramsar Wetland. The military presence coexists uneasily with these civilian and ecological neighbors. Launch windows require coastal evacuations. Spent rocket components occasionally wash ashore. Yet the isolation that makes the coast suitable for weapons testing is the same quality that has preserved some of its natural character -- the restricted zones around the range have inadvertently limited coastal development that might otherwise have destroyed the remaining mangrove habitat."
+      }
+    ],
+    "flightContext": "Located at 25.20°N, 66.75°E on the Balochistan coast. The range is a restricted military area -- check NOTAMs before flight planning. From altitude, the flat coastal terrain and cleared launch areas are visible against the backdrop of arid Balochistan hills. Jinnah International Airport (OPKC) in Karachi is approximately 50 km to the southeast. The Arabian Sea provides the downrange area for launches."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 25.2,
+      "lng": 66.75
+    },
+    "geohash": "tkrrq"
+  },
+  "categories": [
+    "military",
+    "space",
+    "history",
+    "technology"
+  ],
+  "meta": {
+    "lastUpdated": "2026-02-28T00:00:00Z",
+    "wordCount": 610,
+    "readTime": 3,
+    "firstPublished": "2026-02-28T00:00:00Z",
+    "storyNumber": 6121
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Sonmiani Flight Test Range - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sonmiani_Flight_Test_Range",
+      "accessedAt": "2026-02-28",
+      "claimsVerified": [
+        "SUPARCO established in 1961, range set up same year",
+        "Range located approximately 50 km west of Karachi on Balochistan coast",
+        "Rehbar-I launched June 7, 1962 using Nike-Cajun rocket supplied by NASA",
+        "Pakistan was third country in Asia to conduct a rocket launch, after Japan and Israel",
+        "Range spans 200 hectares",
+        "Only rocket launch facility operated by SUPARCO"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Rehbar (rocket family) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rehbar_(rocket_family)",
+      "accessedAt": "2026-02-28",
+      "claimsVerified": [
+        "Rehbar-I was a two-stage solid-propellant Nike-Cajun combination",
+        "Launch time confirmed as June 7, 1962",
+        "Pakistan 10th country in world and 3rd in Asia to conduct a rocket launch"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "hingol-national-park-wp",
+      "title": "Hingol National Park",
+      "tile": "tkw9",
+      "coordinates": {
+        "lat": 25.6,
+        "lng": 65.66666667
+      },
+      "distanceKm": 44.6
+    },
+    "n": {
+      "id": "makran-coastal-highway-wp",
+      "title": "Makran Coastal Highway",
+      "tile": "tkx6",
+      "coordinates": {
+        "lat": 25.67611111,
+        "lng": 66.60916667
+      },
+      "distanceKm": 20.9
+    },
+    "ne": {
+      "id": "kirthar-mountains-wp",
+      "title": "Kirthar Mountains",
+      "tile": "tkzc",
+      "coordinates": {
+        "lat": 27,
+        "lng": 67.15555556
+      },
+      "distanceKm": 168.1
+    },
+    "w": {
+      "id": "hingol-mud-volcanoes-wp",
+      "title": "Hingol Mud Volcanoes",
+      "tile": "tkwb",
+      "coordinates": {
+        "lat": 25.44527777777778,
+        "lng": 65.86555555555555
+      },
+      "distanceKm": 33.6
+    },
+    "e": {
+      "id": "pakistan-international-airlines-flight-8303-wp",
+      "title": "Pakistan International Airlines Flight 8303",
+      "tile": "tkrv",
+      "coordinates": {
+        "lat": 24.911694444444443,
+        "lng": 67.18861111111111
+      },
+      "distanceKm": 35
+    },
+    "sw": {
+      "id": "ras-al-hadd-wp",
+      "title": "Ras al Hadd",
+      "tile": "tk48",
+      "coordinates": {
+        "lat": 22.517,
+        "lng": 59.767
+      },
+      "distanceKm": 698.8
+    },
+    "s": {
+      "id": "karachi-nuclear-power-complex-wp",
+      "title": "Karachi Nuclear Power Complex",
+      "tile": "tkrm",
+      "coordinates": {
+        "lat": 24.845,
+        "lng": 66.787778
+      },
+      "distanceKm": 21.2
+    },
+    "se": {
+      "id": "2014-jinnah-international-airport-attack-wp",
+      "title": "2014 Jinnah International Airport Attack",
+      "tile": "tkrv",
+      "coordinates": {
+        "lat": 24.90666667,
+        "lng": 67.16083333
+      },
+      "distanceKm": 6.2
+    }
+  }
+}

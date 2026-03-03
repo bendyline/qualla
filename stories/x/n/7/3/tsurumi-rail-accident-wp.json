@@ -1,0 +1,161 @@
+{
+  "id": "tsurumi-rail-accident-wp",
+  "source": "wikipedia",
+  "sourceId": "1797568",
+  "title": "Tsurumi Rail Accident: Seconds Between Two Trains",
+  "slug": "tsurumi-rail-accident",
+  "summary": "On November 9, 1963, the 43rd wagon of a freight train derailed on the Tokaido Main Line in Yokohama, and within seconds two packed passenger trains slammed into the wreckage and each other -- killing 162 people in Japan's second-deadliest rail disaster.",
+  "content": {
+    "intro": "It was the 43rd wagon. A single freight car -- a WaRa 1 type -- running somewhere in the middle of a long train hauled by an electric locomotive on the Tokaido Main Line. On the evening of November 9, 1963, between Tsurumi and Shin-Koyasu stations in Yokohama, that car jumped the rails. The two wagons behind it overturned, spilling across the adjacent passenger line. What happened next took only seconds. A twelve-carriage passenger train bound for Tokyo struck the wreckage at speed. Its front three carriages derailed and slammed sideways into a second twelve-carriage train passing in the opposite direction toward Kurihama. One hundred and sixty-two people died. One hundred and twenty more were injured. It remains, more than sixty years later, the second-deadliest train crash in Japanese history.",
+    "sections": [
+      {
+        "title": "The Chain Reaction",
+        "body": "The physics of the accident were merciless in their speed. The freight train was traveling at 60 kilometers per hour -- well within the speed limit for the section of track. When the 43rd wagon left the rails, the two wagons immediately behind it toppled onto the up passenger line, creating an obstruction that the Tokyo-bound passenger train had no time to avoid. The electric multiple unit slammed into the derailed freight cars and its front three carriages -- KuHa 76039, MoHa 70079, and KuMoHa 50006 -- were thrown off the tracks. Those derailed carriages careened into the fourth and fifth cars of the down-line passenger train to Kurihama, which was passing at that exact moment on the adjacent track. The collision compressed carriages into each other, trapping passengers in crushed steel. Rescue workers arriving at the scene found a tangle of destroyed rolling stock spanning multiple tracks, with the dead and injured caught between trains that had, moments before, been carrying commuters through an ordinary evening."
+      },
+      {
+        "title": "The Five-Year Investigation",
+        "body": "The initial inquiry by Japanese National Railways found nothing obviously wrong. The freight train's speed was legal. The track appeared sound. The rolling stock had no evident defects. The cause of that single wagon's derailment remained a mystery. It took five years of dedicated research to find an answer. From 1967 to 1972, the Railway Technical Research Institute conducted experiments on a specially prepared test track at Karikachi Pass in Hokkaido, using an abandoned section of the Nemuro Main Line between Shintoku and Niinai. Researchers ran identical rails and identical rolling stock through controlled conditions, systematically varying each factor. The verdict, when it finally came, pointed to no single failure but a lethal combination: the wheelset design of the freight car, the cross-sectional profile and wear patterns of the rail, and subtle irregularities in the track geometry had conspired together to throw the wagon off the rails at that particular point, at that particular speed, on that particular evening."
+      },
+      {
+        "title": "Rewriting the Rules of Inspection",
+        "body": "The Tsurumi disaster's most lasting consequence was invisible to passengers but fundamental to their safety. Before the accident, Japanese rail inspectors examined tracks using static methods -- measuring gauge, alignment, and surface condition at rest. The Karikachi Pass experiments proved that the interaction between moving wheels and rail was dynamic, dependent on forces that static measurement could not capture. As a direct result, Japanese National Railways replaced its old inspection regime with new track inspection cars that measured rail conditions dynamically, under the loads and speeds of actual operation. These rolling laboratories collected continuous data as they moved, detecting the subtle combination of wear, geometry, and stress that had gone unnoticed before Tsurumi. The shift from static to dynamic inspection became a cornerstone of Japanese rail safety practice and influenced track maintenance programs worldwide."
+      },
+      {
+        "title": "What the Tracks Remember",
+        "body": "The stretch of the Tokaido Main Line between Tsurumi and Shin-Koyasu still carries some of the heaviest commuter traffic in the world. Trains pass through the section every few minutes during rush hour, most passengers unaware of what happened here in 1963. The accident occurred just thirteen days before the assassination of President Kennedy -- an event that dominated global headlines and overshadowed the Yokohama disaster in international memory. Within Japan, the Tsurumi accident sits alongside a handful of defining rail disasters -- including the Hachiko Line derailment, which remains the country's deadliest -- that shaped a national commitment to railway safety so thorough that Japan's rail system became the global standard. The 43rd wagon's derailment killed 162 people. The investigation it triggered may have saved many thousands more."
+      }
+    ],
+    "flightContext": "Coordinates: 35.49°N, 139.66°E, on the Tokaido Main Line in Yokohama's Tsurumi Ward. The accident site lies between Tsurumi Station and Shin-Koyasu Station along a dense rail corridor running roughly north-south through Yokohama's industrial waterfront. From the air, the Tokaido Main Line is identifiable as one of several parallel rail lines running through the built-up coastal plain between Tokyo and Yokohama. Best viewed at 2,000-3,000 feet AGL. Nearby airports: Tokyo Haneda (RJTT) approximately 8 nm north-northeast. The Tsurumi River, from which the area takes its name, is visible running eastward to Tokyo Bay just north of the accident site."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 35.49252777777778,
+      "lng": 139.66294444444446
+    },
+    "geohash": "xn73f"
+  },
+  "categories": [
+    "disaster",
+    "railway",
+    "japan",
+    "yokohama",
+    "transportation-history"
+  ],
+  "meta": {
+    "lastUpdated": "2026-02-16T00:00:00Z",
+    "wordCount": 780,
+    "readTime": 4,
+    "firstPublished": "2026-02-16T00:00:00Z",
+    "storyNumber": 4320
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "title": "Tsurumi rail accident - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tsurumi_rail_accident",
+      "accessedAt": "2026-01-01"
+    },
+    {
+      "type": "verification",
+      "title": "Tsurumi rail accident - Wikipedia (verified)",
+      "url": "https://en.wikipedia.org/wiki/Tsurumi_rail_accident",
+      "accessedAt": "2026-02-21",
+      "claimsVerified": [
+        "Date: November 9, 1963 confirmed",
+        "Location: between Tsurumi and Shin-Koyasu stations on Tokaido Main Line, Yokohama",
+        "Death toll: 162 people killed (one source says 161; story's 162 matches Wikipedia primary)",
+        "120 injured confirmed",
+        "43rd wagon was type WaRa 1 freight car, confirmed",
+        "Two 12-carriage passenger trains involved confirmed",
+        "Second-deadliest train crash in Japanese history (after Hachiko Line derailment) confirmed",
+        "Hachiko Line derailment is Japan's deadliest (not 'Hachiko Line derailment' - story correctly names it)"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "nippara-cave-wp",
+      "title": "Nippara Cave: Tokyo's Paleozoic Underworld",
+      "tile": "xn6g",
+      "coordinates": {
+        "lat": 35.852611,
+        "lng": 139.040444
+      },
+      "distanceKm": 24.7
+    },
+    "n": {
+      "id": "fukiage-palace-wp",
+      "title": "Fukiage Palace: The Emperor's Hidden Home",
+      "tile": "xn77",
+      "coordinates": {
+        "lat": 35.6843027,
+        "lng": 139.748441
+      },
+      "distanceKm": 0.2
+    },
+    "ne": {
+      "id": "narita-san-wp",
+      "title": "Narita-san",
+      "tile": "xn7g",
+      "coordinates": {
+        "lat": 35.78608,
+        "lng": 140.31831
+      },
+      "distanceKm": 12.1
+    },
+    "w": {
+      "id": "tanzawa-mountains-wp",
+      "title": "Tanzawa Mountains",
+      "tile": "xn6c",
+      "coordinates": {
+        "lat": 35.486666666666665,
+        "lng": 139.13888888888889
+      },
+      "distanceKm": 10.4
+    },
+    "e": {
+      "id": "shibayama-kofun-cluster-wp",
+      "title": "Shibayama Kofun Cluster",
+      "tile": "xn7f",
+      "coordinates": {
+        "lat": 35.68083333333333,
+        "lng": 140.41777777777776
+      },
+      "distanceKm": 31.8
+    },
+    "sw": {
+      "id": "koa-kannon-wp",
+      "title": "Koa Kannon",
+      "tile": "xn4z",
+      "coordinates": {
+        "lat": 35.118611111111115,
+        "lng": 139.09222222222223
+      },
+      "distanceKm": 12.2
+    },
+    "s": {
+      "id": "fukuryu-wp",
+      "title": "Fukuryu",
+      "tile": "xn5r",
+      "coordinates": {
+        "lat": 35.1,
+        "lng": 139.71666666666667
+      },
+      "distanceKm": 6.8
+    },
+    "se": {
+      "id": "tatsuta-maru-wp",
+      "title": "Tatsuta Maru",
+      "tile": "xn5v",
+      "coordinates": {
+        "lat": 34.75,
+        "lng": 140.41666666666666
+      },
+      "distanceKm": 47
+    }
+  }
+}

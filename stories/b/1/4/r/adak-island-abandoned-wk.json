@@ -1,0 +1,131 @@
+{
+  "id": "adak-island-abandoned-wk",
+  "source": "wikipedia",
+  "sourceId": "30269",
+  "title": "Adak: The Navy Base America Left to Rot",
+  "slug": "adak-island-abandoned",
+  "summary": "The Aleutian island where 6,000 Americans lived during the Cold War - now population 170, with abandoned bowling alleys, empty McDonald's, and a swimming pool filling with rainwater while the wind never stops.",
+  "content": {
+    "intro": "The U.S. Navy built a city on Adak Island, then walked away. At its peak, Naval Air Facility Adak housed 6,000 people in one of the most remote postings on Earth - closer to Russia than to Anchorage, battered by constant wind and horizontal rain. The base had McDonald's, Baskin-Robbins, a movie theater, a bowling alley, everything necessary to pretend you weren't at the end of the world. The Cold War ended in 1991; the base closed in 1997; the population dropped from thousands to dozens. The buildings still stand, empty and rotting, the McDonald's sign still readable, the bowling lanes still intact, a perfectly preserved American suburb slowly dissolving in the Aleutian weather.",
+    "sections": [
+      {
+        "title": "The Military City",
+        "body": "Adak became militarily significant in World War II - the Japanese occupation of nearby Attu and Kiska made the Aleutians a war zone. The U.S. built an airfield on Adak to support operations. After the war, the base expanded for the Cold War: submarine surveillance, long-range patrol aircraft, intelligence gathering on Soviet activity. Adak's location - western Aleutians, halfway between Alaska and Russia - made it strategically valuable despite being logistically nightmarish. The Navy built a complete town: housing for families, schools for children, recreation for morale, everything shipped 1,200 miles from Anchorage."
+      },
+      {
+        "title": "The Life",
+        "body": "Living on Adak meant accepting isolation. The weather was perpetual assault: wind averaging 35 mph, rain more than 200 days per year, fog that appeared without warning and stayed for weeks. The landscape was treeless tundra, beautiful in a stark way, hostile to human comfort. Yet people made lives here - raised children, formed communities, bowled and ate McDonald's and watched movies and forgot temporarily that they were at the edge of nowhere. Tours lasted two years; some people volunteered for more. The isolation created bonds that peacetime bases couldn't match."
+      },
+      {
+        "title": "The Abandonment",
+        "body": "The Soviet Union collapsed in 1991, and Adak's strategic importance collapsed with it. Budget cuts and base realignment hit remote installations first; by 1997, the Navy was gone. The departure was swift and incomplete - some buildings were mothballed, others simply locked. Equipment remained; housing stood empty; the McDonald's closed but wasn't demolished. The infrastructure that supported 6,000 people was handed to the Aleut Corporation, an Alaska Native regional corporation, with vague hopes for commercial development. Those hopes didn't materialize. The population dropped to 170 and stayed there."
+      },
+      {
+        "title": "The Ruins",
+        "body": "Adak today is a haunted suburb. The housing areas still have street signs and house numbers, but the houses are empty, windows broken by wind, roofs collapsing under snow. The McDonald's is a pilgrimage site for explorers of abandonment - the golden arches faded but legible, the interior stripped but recognizable. The bowling alley's lanes are still visible; the swimming pool collects rainwater. Nature is reclaiming what the Navy built - mold, rust, and the relentless Aleutian wind dismantling what looked permanent. The few remaining residents cluster near the airport, which still serves as a refueling stop."
+      },
+      {
+        "title": "Visiting Adak Island",
+        "body": "Adak is accessible by Alaska Airlines flights from Anchorage (approximately weekly service). The town has a small hotel and limited services; bring supplies. A rental car is necessary - the former base is spread across the island. Exploring abandoned military buildings is technically trespassing but commonly tolerated; buildings are unstable and hazardous. The landscape is stunning: volcanic peaks, wildlife including eagles and caribou, no trees anywhere. The Alaska Maritime National Wildlife Refuge covers much of the island; permits may be required for certain areas. Weather is severe year-round; waterproof everything. Adak is for people who want to see what America looks like when America leaves."
+      }
+    ],
+    "flightContext": "Located at 51.88°N, 176.64°W in the western Aleutian Islands. From altitude, Adak Island appears as a volcanic mass rising from the Bering Sea, connected to neighboring islands by low-lying land. The abandoned naval station is visible on the eastern side - a grid of roads, abandoned buildings, and a runway that still operates for civilian flights. The contrast between military infrastructure and untouched tundra is stark. No trees are visible anywhere. The weather is usually some form of gray. This is among the most remote inhabited places in America, and the ruins of the military city are visible evidence of why that remoteness ends most human ambitions."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 51.88,
+      "lng": -176.64
+    },
+    "geohash": "b14rhkqwv"
+  },
+  "categories": [
+    "alaska",
+    "abandoned",
+    "military",
+    "aleutian",
+    "cold-war"
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-12T00:00:00Z",
+    "wordCount": 855,
+    "readTime": 5,
+    "firstPublished": "2026-01-12T00:00:00Z",
+    "storyNumber": 110
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Adak, Alaska - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adak,_Alaska",
+      "accessedAt": "2026-01-17",
+      "claimsVerified": [
+        "Naval Air Facility closed 1997",
+        "peak population 6000",
+        "current population 170"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 3,
+    "strongOpinions": [
+      "The Navy Base America Left to Rot",
+      "Adak is for people who want to see what America looks like when America leaves"
+    ]
+  },
+  "locationWikipediaPath": "b/1/4/r/adak-alaska-wp",
+  "directionalNeighbors": {
+    "n": {
+      "id": "attu-island-forgotten-battle-wk",
+      "title": "Attu Island: America's Forgotten Arctic Battle",
+      "tile": "zc7h",
+      "coordinates": {
+        "lat": 52.85,
+        "lng": 173.18
+      },
+      "distanceKm": 690.4
+    },
+    "ne": {
+      "id": "st-paul-island-pribilofs-wk",
+      "title": "St. Paul Island: Alaska's Fur Seal Capital",
+      "tile": "b4nu",
+      "coordinates": {
+        "lat": 57.11,
+        "lng": -170.27
+      },
+      "distanceKm": 662.4
+    },
+    "e": {
+      "id": "unalaska-dutch-harbor-wk",
+      "title": "Dutch Harbor: Where the Deadliest Catch Comes Home",
+      "tile": "b39d",
+      "coordinates": {
+        "lat": 53.89,
+        "lng": -166.54
+      },
+      "distanceKm": 678
+    },
+    "s": {
+      "id": "japanese-submarine-i-400-wp",
+      "title": "I-400: The Submarine That Carried Airplanes",
+      "tile": "xnvg",
+      "coordinates": {
+        "lat": 38.666666666666664,
+        "lng": 143.2
+      },
+      "distanceKm": 3408.2
+    },
+    "se": {
+      "id": "alert-bay-wk",
+      "title": "Alert Bay",
+      "tile": "c0vx",
+      "coordinates": {
+        "lat": 50.5856,
+        "lng": -126.9319
+      },
+      "distanceKm": 3369.6
+    }
+  },
+  "keywords": [
+    "adak-island-abandoned"
+  ]
+}

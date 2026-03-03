@@ -1,0 +1,155 @@
+{
+  "id": "vancouver-washington-wk",
+  "source": "wikipedia",
+  "sourceId": "37644",
+  "title": "Vancouver",
+  "slug": "vancouver-washington",
+  "summary": "The 'other Vancouver' where the Hudson's Bay Company established its Pacific Northwest headquarters and the Columbia River separates Washington from Oregon.",
+  "content": {
+    "intro": "Two Vancouvers exist on the Pacific coast, and this is the older one - named by the British for Captain George Vancouver a quarter-century before the Canadian city took the same name. Fort Vancouver rose here in 1824, the Hudson's Bay Company establishing its Pacific Northwest headquarters on the north bank of the Columbia River. Today a city of 190,000 spreads across the Washington side of the river, separated from Portland by two bridges but integrated into the same metropolitan economy. It's a city that lives in its larger neighbor's shadow while maintaining a history and identity that predates Oregon statehood.",
+    "sections": [
+      {
+        "title": "The Original Fort",
+        "body": "Fort Vancouver was the hub of the fur trade empire that stretched from Alaska to California, the Hudson's Bay Company's operations center for a territory larger than most European nations. Chief Factor John McLoughlin ruled from here, his influence shaping the region's development even as American settlers began arriving along the Oregon Trail. When those settlers needed supplies, McLoughlin often provided them - a generosity that may have hastened British withdrawal from the region.\n\nThe National Park Service maintains Fort Vancouver National Historic Site, the stockade and buildings reconstructed on their original locations. The site includes the Hudson's Bay Company's fur warehouse, the chief factor's house, and the bakery that produced hardtack for the brigades heading into the wilderness. Officers Row, a line of Victorian houses built for the U.S. Army after it took over the site, stands nearby. The layers of history accumulate - fur trade, military, and the civilian city that eventually surrounded both."
+      },
+      {
+        "title": "Portland's Partner",
+        "body": "The relationship between Vancouver and Portland defies simple description. Separated by a state line that runs down the center of the Columbia River, the cities share a metropolitan economy while maintaining distinct governments and tax structures. Washington has no income tax; Oregon has no sales tax. The arbitrage opportunities shape where people live and shop, creating flows across the bridges that neither city could sustain alone.\n\nVancouver has grown into Washington's fourth-largest city, its population exceeding all Oregon cities except Portland itself. But the perception lags the reality - many still think of Vancouver as Portland's bedroom community, a place to live without paying Oregon income tax. The downtown has developed its own character, the waterfront transformed from industrial use to public space, but the Columbia River remains a psychological as much as physical barrier. Vancouver struggles for recognition even as its population and economy grow."
+      },
+      {
+        "title": "The Columbia Crossing",
+        "body": "Two bridges cross the Columbia between Vancouver and Portland, and both carry more traffic than they were designed for. The Interstate Bridge, carrying I-5, dates from 1917 and 1958 in its two spans. The Glenn Jackson Bridge, carrying I-205, opened in 1982. Proposals to replace or supplement the Interstate Bridge have generated decades of debate, the question entangled with broader disagreements about transit, tolling, and regional growth.\n\nThe crossing bottleneck shapes daily life for the thousands who commute between cities. Rush hours stretch for hours; accidents on either bridge ripple through the entire metropolitan area. Yet the river also provides recreation - the Vancouver waterfront has been transformed into a public park, and boat launches provide access to the Columbia and its tributaries. The river that divides the cities also defines them, the water that Lewis and Clark followed to the Pacific still central to the region's identity."
+      },
+      {
+        "title": "Beyond the Shadow",
+        "body": "Vancouver has begun developing attractions that stand independent of Portland. The waterfront development has brought restaurants, hotels, and a convention center to the Columbia's edge. Clark College and Washington State University Vancouver provide higher education without crossing state lines. The Pearson Air Museum preserves aviation history at one of the oldest operating airfields in the country.\n\nThe city's eastward expansion has been dramatic, new subdivisions spreading toward Camas and Washougal, where paper mills once defined the economy. Mount St. Helens looms to the north, the volcano's 1980 eruption within memory for many residents. The Columbia River Gorge begins just east of the city, Highway 14 following the Washington shore through scenery that rivals anything on the Oregon side. Vancouver may always play second fiddle to its neighbor, but the music it makes is increasingly its own."
+      }
+    ],
+    "flightContext": "Located at 45.63N, 122.60W on the north bank of the Columbia River, directly across from Portland, Oregon. Downtown Vancouver is visible along the waterfront; Fort Vancouver National Historic Site is east of downtown. Two bridges cross the Columbia to Portland: the Interstate Bridge (I-5) and Glenn Jackson Bridge (I-205). Portland International Airport (KPDX) is actually closer to Vancouver than to most of Portland. Highway 14 follows the Columbia east toward the Gorge. Mount St. Helens is visible to the north on clear days. The city extends east toward Camas and the Cascade foothills."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 45.6336111111,
+      "lng": -122.602777778
+    },
+    "geohash": "c20gd"
+  },
+  "categories": [
+    "city",
+    "washington",
+    "portland-metro",
+    "columbia-river",
+    "historic"
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Vancouver, Washington - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vancouver,_Washington",
+      "accessedAt": "2026-01-16",
+      "claimsVerified": [
+        "Fort Vancouver 1824",
+        "population 190,000",
+        "Washington's fourth-largest city"
+      ]
+    }
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-10T00:00:00Z",
+    "wordCount": 750,
+    "readTime": 4,
+    "firstPublished": "2026-01-10T00:00:00Z",
+    "storyNumber": 90
+  },
+  "locationWikipediaPath": "c/2/0/g/vancouver-public-schools-wp",
+  "locationWikivoyagePath": "c/2/0/g/vancouver-washington-wk",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "astoria-end-of-trail-wk",
+      "title": "Astoria: Where Lewis and Clark Finally Saw the Pacific",
+      "tile": "c0py",
+      "coordinates": {
+        "lat": 46.1879,
+        "lng": -123.8313
+      },
+      "distanceKm": 69.6
+    },
+    "n": {
+      "id": "mount-st-helens-eruption-wk",
+      "title": "Mount St. Helens: The Mountain That Blew Its Top",
+      "tile": "c21n",
+      "coordinates": {
+        "lat": 46.1912,
+        "lng": -122.1944
+      },
+      "distanceKm": 42.8
+    },
+    "ne": {
+      "id": "cascade-range-wp",
+      "title": "Cascade Range",
+      "tile": "c236",
+      "coordinates": {
+        "lat": 46.8528267,
+        "lng": -121.7604408
+      },
+      "distanceKm": 109.7
+    },
+    "w": {
+      "id": "forest-grove-wk",
+      "title": "Forest Grove",
+      "tile": "c206",
+      "coordinates": {
+        "lat": 45.51972,
+        "lng": -123.11056
+      },
+      "distanceKm": 11.7
+    },
+    "e": {
+      "id": "stevenson-wk",
+      "title": "Stevenson",
+      "tile": "c217",
+      "coordinates": {
+        "lat": 45.696111,
+        "lng": -121.888333
+      },
+      "distanceKm": 12.1
+    },
+    "sw": {
+      "id": "mcminnville-oregon-wk",
+      "title": "McMinnville",
+      "tile": "c203",
+      "coordinates": {
+        "lat": 45.211667,
+        "lng": -123.197222
+      },
+      "distanceKm": 19.5
+    },
+    "s": {
+      "id": "newberg-wk",
+      "title": "Newberg",
+      "tile": "c209",
+      "coordinates": {
+        "lat": 45.305,
+        "lng": -122.967222
+      },
+      "distanceKm": 35.4
+    },
+    "se": {
+      "id": "government-camp-wk",
+      "title": "Government Camp",
+      "tile": "c213",
+      "coordinates": {
+        "lat": 45.304167,
+        "lng": -121.756667
+      },
+      "distanceKm": 19.2
+    }
+  },
+  "keywords": [
+    "vancouver-washington"
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "boston-city-wk",
+  "source": "wikipedia",
+  "sourceId": "30612",
+  "title": "Boston: The City Built on Landfill and Revolution",
+  "slug": "boston-city",
+  "summary": "The Massachusetts capital where the Revolution began and the Big Dig buried an expressway - where half the city is artificial land, where Harvard and MIT shaped American education, and where the accent remains defiantly incomprehensible.",
+  "content": {
+    "intro": "Boston was a peninsula when the Puritans arrived in 1630 - the Shawmut Peninsula, connected to the mainland by a narrow neck that flooded at high tide. The city that exists today is largely artificial: the Back Bay neighborhood sits on fill dumped over 40 years beginning in 1857; the Seaport District is built on waterfront landfill; about a third of modern Boston is land that didn't exist at founding. The city that pioneered American independence continues to resist convention: driving here is notoriously confusing, the accent is impenetrable to outsiders, and the sports fans are among America's most devoted and difficult. Boston is old enough to be historic and stubborn enough to stay that way.",
+    "sections": [
+      {
+        "title": "The Revolution",
+        "body": "Boston was the crucible of American independence. The Stamp Act riots, the Boston Massacre, the Tea Party - the provocations that led to revolution concentrated here. Samuel Adams and Paul Revere organized resistance; British occupation radicalized the populace; the shots at Lexington and Concord, just west of the city, began the war. The Freedom Trail, a red line painted on the sidewalk, connects 16 sites from the Revolution - the Old North Church where the lanterns were hung, the Old South Meeting House where the Tea Party was organized, Faneuil Hall where the Sons of Liberty gathered. Boston's identity remains revolutionary, at least in its own mind."
+      },
+      {
+        "title": "The Big Dig",
+        "body": "The Central Artery/Tunnel Project - the 'Big Dig' - was the most expensive highway project in American history when completed in 2007, costing roughly $24 billion (originally budgeted at $2.8 billion). The project buried an elevated expressway that divided downtown from the waterfront, creating the Rose Kennedy Greenway atop the tunnel. The construction took 15 years and produced countless delays, cost overruns, and scandals. A ceiling tile collapse killed a woman in 2006. Yet the result transformed the city: downtown reconnected to the harbor, the expressway's blight eliminated, the surface streets finally coherent. The Big Dig is both cautionary tale and urban planning success."
+      },
+      {
+        "title": "The Universities",
+        "body": "Harvard University, founded in 1636, is America's oldest. MIT, founded in 1861, is among the world's most influential engineering schools. Boston University, Northeastern, Tufts, Boston College - the metropolitan area contains more than 35 colleges and universities with over 250,000 students. The concentration shapes the city: the population turns over each September, the restaurants and bars cater to young tastes, the economy draws on academic research, and the housing market absorbs student demand. Boston is a college town that happens to be a major city, or a major city that happens to contain more universities than most states."
+      },
+      {
+        "title": "The Sports",
+        "body": "Boston sports fans are notoriously passionate and historically tortured - until recently. The Red Sox ended their 86-year World Series drought in 2004, attributed to lifting the 'Curse of the Bambino' (from selling Babe Ruth to the Yankees). The Patriots became a dynasty, winning six Super Bowls. The Celtics and Bruins added championships. The city that wallowed in lovable-loser status became champion central, and the fans - somehow - became even more insufferable. The sports bars remain packed; the arguments continue; the accent makes every complaint sound like a declaration of war."
+      },
+      {
+        "title": "Visiting Boston",
+        "body": "Boston is compact and walkable - the Freedom Trail covers 2.5 miles through downtown. The North End is Boston's Italian neighborhood, its restaurants famous for old-school red sauce. Beacon Hill's brick rowhouses and gaslit streets preserve 19th-century ambiance. The Back Bay's brownstones and boutiques line Commonwealth Avenue's grand boulevard. Harvard and MIT in Cambridge are accessible by subway (the 'T'). Fenway Park, among baseball's oldest stadiums, hosts tours and games. The New England Aquarium anchors the waterfront. Logan Airport is actually in Boston, not a distant suburb. The experience rewards walking - the city reveals itself at pedestrian pace, its history compressed into neighborhoods you can cross in an afternoon."
+      }
+    ],
+    "flightContext": "Located at 42.36°N, 71.06°W on Massachusetts Bay. From altitude, Boston's artificial geography is visible - the Back Bay's grid contrasting with downtown's colonial tangle, the original peninsula barely recognizable beneath landfill expansion. The Charles River separates Boston from Cambridge, where Harvard and MIT are visible. Logan Airport extends into the harbor on artificial land. The Big Dig's buried highway isn't visible, replaced by the surface greenway. What appears from altitude as a compact coastal city is both the birthplace of American independence and an ongoing experiment in urban reinvention - a third of its land manufactured, its history everywhere you walk."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 42.3601,
+      "lng": -71.0589
+    },
+    "geohash": "drt2z"
+  },
+  "categories": [
+    "massachusetts",
+    "boston",
+    "city",
+    "revolution",
+    "big-dig"
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-12T00:00:00Z",
+    "wordCount": 855,
+    "readTime": 5,
+    "firstPublished": "2026-01-12T00:00:00Z",
+    "storyNumber": 199
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Boston - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boston",
+      "accessedAt": "2026-01-17",
+      "claimsVerified": [
+        "Puritans arrived 1630",
+        "Big Dig completed 2007 cost $24 billion",
+        "Harvard founded 1636"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": [
+      "The City Built on Landfill and Revolution",
+      "The Big Dig is both cautionary tale and urban planning success"
+    ]
+  },
+  "locationWikipediaPath": "d/r/t/2/boston-wp",
+  "locationWikivoyagePath": "d/r/t/2/boston-wk",
+  "duplicates": [
+    "boston-freedom-trail-wk",
+    "freedom-trail-wk"
+  ],
+  "directionalNeighbors": {
+    "nw": {
+      "id": "hoosac-tunnel-wp",
+      "title": "Hoosac Tunnel",
+      "tile": "drs4",
+      "coordinates": {
+        "lat": 42.675,
+        "lng": -73.04527777777777
+      },
+      "distanceKm": 109.6
+    },
+    "n": {
+      "id": "lowell-mills-wk",
+      "title": "Lowell Mills",
+      "tile": "drt6",
+      "coordinates": {
+        "lat": 42.6334,
+        "lng": -71.3162
+      },
+      "distanceKm": 14.6
+    },
+    "ne": {
+      "id": "portland-maine-wk",
+      "title": "Portland, Maine: The Working Waterfront That Became Foodie Heaven",
+      "tile": "dry0",
+      "coordinates": {
+        "lat": 43.6591,
+        "lng": -70.2568
+      },
+      "distanceKm": 128.9
+    },
+    "w": {
+      "id": "worcester-city-wk",
+      "title": "Worcester: The Second City That Nobody Visits",
+      "tile": "drsb",
+      "coordinates": {
+        "lat": 42.2626,
+        "lng": -71.8023
+      },
+      "distanceKm": 7
+    },
+    "e": {
+      "id": "plymouth-rock-pilgrims-wk",
+      "title": "Plymouth Rock: America's Most Disappointing Landmark",
+      "tile": "drmy",
+      "coordinates": {
+        "lat": 41.9584,
+        "lng": -70.662
+      },
+      "distanceKm": 35.2
+    },
+    "sw": {
+      "id": "mystic-seaport-whaling-wk",
+      "title": "Mystic Seaport: America's Last Whaling Ship",
+      "tile": "drkg",
+      "coordinates": {
+        "lat": 41.361,
+        "lng": -71.9643
+      },
+      "distanceKm": 75.2
+    },
+    "s": {
+      "id": "slater-mill-wp",
+      "title": "Slater Mill",
+      "tile": "drmn",
+      "coordinates": {
+        "lat": 41.8775,
+        "lng": -71.3825
+      },
+      "distanceKm": 21.7
+    },
+    "se": {
+      "id": "plymouth-rock-disappointment-wk",
+      "title": "Plymouth Rock: America's Most Underwhelming Monument",
+      "tile": "drmy",
+      "coordinates": {
+        "lat": 41.96,
+        "lng": -70.66
+      },
+      "distanceKm": 5.8
+    }
+  },
+  "keywords": [
+    "boston",
+    "boston-city"
+  ]
+}

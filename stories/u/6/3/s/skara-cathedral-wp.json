@@ -1,0 +1,170 @@
+{
+  "id": "skara-cathedral-wp",
+  "source": "wikipedia",
+  "sourceId": "2496610",
+  "title": "Skara Cathedral",
+  "slug": "skara-cathedral",
+  "summary": "Sweden's oldest cathedral seat, where a millennium of Christian worship meets Gothic spires and 37 stained glass windows that took three decades to complete.",
+  "content": {
+    "intro": "Beneath the twin Gothic spires of Skara Cathedral lies a secret that waited eight centuries to be discovered. In 1949, workers uncovered a medieval crypt buried since the 1200s, complete with an ancient grave and remnants of a 10th-century church. This discovery confirmed what historians long suspected: Skara is not merely old by Swedish standards, it is where Swedish Christianity took root, making this cathedral the spiritual heart of a nation still finding its faith when these first stones were laid.",
+    "sections": [
+      {
+        "title": "A Thousand Years of Stone and Faith",
+        "body": "The Diocese of Skara traces its origins to the 10th century, when missionaries first brought Christianity to the Götaland region. The current cathedral evolved through centuries of construction, destruction, and reinvention. The choir dates to the early 13th century, the transept and nave followed a hundred years later. Fire, war, and changing architectural tastes reshaped the building repeatedly. In the 1760s, builders added a baroque southern facade. Then came architect Helgo Zettervall's dramatic restoration between 1886 and 1894, which gave the previously flat-topped towers their current pointed Gothic spires, creating the silhouette that defines Skara's skyline today."
+      },
+      {
+        "title": "Windows of Light",
+        "body": "The 37 stained glass windows that illuminate Skara Cathedral represent one artist's life work. Bo Beskow, working with glazier Gustav Ringström, began the project in 1945 and continued until 1976, spending over three decades translating biblical scenes and Swedish saints into mosaics of colored light. The windows depict mostly biblical motifs, but two Swedish saints receive special honor: Bridget of Sweden, the medieval mystic who founded her own religious order, and Helena of Skövde, a 12th-century noblewoman martyred and later canonized. None of the original medieval windows survived the centuries of damage and restoration."
+      },
+      {
+        "title": "Voices from the Towers",
+        "body": "Four bells hang in Skara Cathedral's twin western towers, each carrying its own history. The northern tower houses the great bell, cast in 1725 and enlarged in 1785, its deep voice calling the faithful across the town. Three smaller bells occupy the southern tower, creating the full peal that has marked services, celebrations, and sorrows for nearly three centuries. The towers themselves reach skyward, their Gothic spires a 19th-century addition that transformed a modest medieval profile into something grander."
+      },
+      {
+        "title": "The Hidden Crypt",
+        "body": "For over seven hundred years, stones concealed Skara Cathedral's oldest secret. The medieval crypt, buried sometime in the 13th century, lay forgotten beneath the cathedral floor until its rediscovery in 1949. Inside, archaeologists found a grave containing a skeleton, resting in what proved to be the 10th-century heart of the original structure. Radiocarbon dating of other burials suggests Christian worship at this site may have begun even earlier, with the oldest remains dating to sometime between 780 and 970 AD. Visitors today can descend into this subterranean chamber and stand where Christianity first established itself in this part of Sweden."
+      },
+      {
+        "title": "Approaching Skara",
+        "body": "The twin Gothic spires of Skara Cathedral rise above the flat agricultural plain of Västergötland, creating a vertical accent visible for miles. The town of Skara itself sits on Sweden's ancient religious and cultural crossroads, once home to both the country's first bishop and its earliest centers of learning. From the air, the cathedral dominates the small town center, its pale stone and dark spires providing clear visual reference. The surrounding countryside of farms and forests spreads in all directions, offering easy navigation toward this thousand-year-old spiritual landmark."
+      }
+    ],
+    "flightContext": "Located at 58.386°N, 13.439°E in the town of Skara, Västergötland. The twin Gothic spires are the dominant vertical feature in the otherwise flat landscape. Nearest significant airport is Trollhättan-Vänersborg (ESGT), approximately 55km southwest. Lake Hornborgasjön lies about 15km southeast and serves as an excellent visual navigation reference. Best visibility of the cathedral from the south or west approaches."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 58.38638888888889,
+      "lng": 13.439166666666667
+    },
+    "geohash": "u63s1"
+  },
+  "categories": [
+    "Lutheran cathedrals in Sweden",
+    "Gothic architecture in Sweden",
+    "Roman Catholic cathedrals in pre-Reformation Sweden",
+    "Churches in Västra Götaland County",
+    "Churches in the Diocese of Skara",
+    "Skara"
+  ],
+  "meta": {
+    "lastUpdated": "2026-02-03T00:00:00Z",
+    "wordCount": 680,
+    "readTime": 4,
+    "firstPublished": "2026-02-03T00:00:00Z",
+    "storyNumber": 2095
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - Skara Cathedral",
+      "url": "https://en.wikipedia.org/wiki/Skara_Cathedral",
+      "accessedAt": "2026-02-03",
+      "claimsVerified": [
+        "Diocese of Skara oldest in Sweden dating to 10th century",
+        "Medieval crypt discovered 1949 (some sources say 1948)",
+        "Bo Beskow stained glass windows 1945-1976 with Gustav Ringström",
+        "37 stained glass windows",
+        "Helgo Zettervall restoration 1886-1894 added Gothic spires"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Svenska Kyrkan - Skara Cathedral",
+      "url": "https://www.svenskakyrkan.se/skara/skara-cathedral",
+      "accessedAt": "2026-02-03",
+      "claimsVerified": [
+        "Bridget of Sweden and Helena of Skövde depicted in windows",
+        "Crypt within oldest 10th century part of cathedral"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "battle-of-prestebakke-wp",
+      "title": "Battle of Prestebakke",
+      "tile": "u62p",
+      "coordinates": {
+        "lat": 58.99166666666667,
+        "lng": 11.536111111111111
+      },
+      "distanceKm": 90.2
+    },
+    "n": {
+      "id": "v-rmland-wp",
+      "title": "Värmland",
+      "tile": "u697",
+      "coordinates": {
+        "lat": 59.75,
+        "lng": 13.25
+      },
+      "distanceKm": 116.7
+    },
+    "ne": {
+      "id": "lundsbergs-boarding-school-wp",
+      "title": "Lundsbergs Boarding School",
+      "tile": "u6d4",
+      "coordinates": {
+        "lat": 59.4982,
+        "lng": 14.1627
+      },
+      "distanceKm": 87.7
+    },
+    "w": {
+      "id": "trollh-tte-canal-wp",
+      "title": "Trollhätte Canal",
+      "tile": "u62u",
+      "coordinates": {
+        "lat": 58.387404,
+        "lng": 12.31592
+      },
+      "distanceKm": 40.8
+    },
+    "e": {
+      "id": "karlsborg-fortress-wp",
+      "title": "Karlsborg Fortress",
+      "tile": "u66k",
+      "coordinates": {
+        "lat": 58.53194444444444,
+        "lng": 14.530555555555557
+      },
+      "distanceKm": 28.8
+    },
+    "sw": {
+      "id": "hedared-stave-church-wp",
+      "title": "Hedared Stave Church",
+      "tile": "u630",
+      "coordinates": {
+        "lat": 57.80888888888889,
+        "lng": 12.746388888888887
+      },
+      "distanceKm": 44.4
+    },
+    "s": {
+      "id": "light-railway-of-the-ryttaren-peat-factory-wp",
+      "title": "Light Railway of the Ryttaren Peat Factory",
+      "tile": "u63f",
+      "coordinates": {
+        "lat": 58.020556,
+        "lng": 13.736667
+      },
+      "distanceKm": 21.7
+    },
+    "se": {
+      "id": "malexander-murders-wp",
+      "title": "Malexander Murders",
+      "tile": "u66f",
+      "coordinates": {
+        "lat": 58.0339,
+        "lng": 15.28879
+      },
+      "distanceKm": 73.9
+    }
+  },
+  "keywords": [
+    "skara-cathedral"
+  ]
+}

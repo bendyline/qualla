@@ -1,0 +1,163 @@
+{
+  "id": "aden-wk",
+  "source": "wikipedia",
+  "sourceId": "231",
+  "title": "Aden",
+  "slug": "aden",
+  "summary": "Where Marco Polo witnessed the transfer of Eastern treasures and the British built an empire's coaling station, this ancient port city guards the entrance to the Red Sea.",
+  "content": {
+    "intro": "The afternoon sun beats down on Crater, the old quarter of Aden nestled within the caldera of an extinct volcano. Narrow streets wind past merchants selling scarves and spices much as their ancestors did when Marco Polo described this harbor as a hub of commerce, the place where goods from the East were transferred to smaller vessels bound up the Red Sea toward Alexandria and Christendom. Seven centuries later, Aden still occupies the same strategic point at the southern tip of the Arabian Peninsula, where the Gulf of Aden meets one of the world's most critical maritime chokepoints. The city's architecture tells its layered history: traditional Arabic buildings stand alongside structures from the British protectorate era, while the Shamsan Mountains rise dramatically behind the old town. The heat is relentless, the climate unforgivingly arid, but the fresh fish markets and fruit juice bars offer sustenance, and the beaches of Gold Mohur and Elephant Bay reward those who venture beyond the city center.",
+    "sections": [
+      {
+        "title": "Crossroads of Ancient Trade",
+        "body": "Long before oil transformed the Arabian Peninsula, Aden thrived on the movement of goods between East and West. The Maritime Silk Road brought ships laden with spices, textiles, and precious materials to this natural harbor, where the volcanic crater provided shelter from monsoon winds. Marco Polo, visiting in the thirteenth century, documented a bustling port where merchants grew wealthy transferring cargo to smaller boats capable of navigating the Red Sea. At one point, Aden controlled a small empire that extended across the water to the African coast. The British recognized this strategic value, establishing a protectorate in the nineteenth century that would endure until Yemen's tumultuous path to reunification in 1990. The old Hotel Univers in the Tawahi district, where the poet Arthur Rimbaud lived during his African trading years, stands as a monument to the expatriates who passed through seeking fortune."
+      },
+      {
+        "title": "A City Divided and Reunited",
+        "body": "Aden's modern history reflects Yemen's broader struggles. As capital of South Yemen from independence until reunification in 1990, the city experienced Soviet influence that brought surprising social changes: head scarves were banned, women pursued university degrees in numbers uncommon elsewhere in the region. The reunification brought the conservative tribal forces of the North, and those freedoms have gradually receded. Today, the scarves have returned to the streets, though Aden retains more nightlife than anywhere else in Yemen, with belly dancing performances at hotels like the Sheraton drawing audiences of locals and visitors alike. A sizeable Somali refugee population adds another layer to the city's complex demographic tapestry. Travel here requires awareness of security conditions detailed in official warnings, but for those who come, Aden offers a window into Arabia's deep past and complicated present."
+      },
+      {
+        "title": "Pleasures of the Port",
+        "body": "Despite its challenges, Aden rewards the curious traveler. The Crater district offers shopping for beautiful scarves, abayas, perfumes, and the spices that have passed through this port for millennia. Fresh fish defines the local cuisine, from the breakfast staple of foul beans and khobez bread to elaborate preparations of tuna and king fish served with colored rice. Zurbian, a fragrant mixture of lamb and rice, represents the Yemeni culinary tradition at its finest. In the evenings, shawarma vendors set up along the streets while fruit juice bars offer refreshment from the heat. The beaches remain Aden's great attraction: swimming, snorkeling, and sport fishing for tuna and sharks are all possible along this coast. Mountain climbs offer panoramic views of the city, though visitors must carry abundant water and watch for military zones. The lagoons host migratory birds that connect this hot corner of Arabia to the wider natural world."
+      }
+    ],
+    "flightContext": "Located at 12.78N, 45.02E on the Gulf of Aden at Yemen's southern coast. The city sits in and around the crater of an extinct volcano, with the Shamsan Mountains forming a dramatic backdrop. Elevation ranges from sea level to approximately 550m at the crater rim. Aden International Airport (OYAA) serves the city. The harbor is one of the world's great natural anchorages, controlling access to the Bab el-Mandeb Strait and Red Sea. The cityscape features distinct districts including Crater (the old town within the volcanic caldera), Tawahi (Steamer Point), Ma'alla, and Sirah."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 12.783333333333,
+      "lng": 45.016666666667
+    },
+    "geohash": "t4208"
+  },
+  "categories": [
+    "port-city",
+    "historical-site",
+    "coastal"
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-22T00:00:00Z",
+    "wordCount": 700,
+    "readTime": 4,
+    "firstPublished": "2026-01-22T00:00:00Z",
+    "storyNumber": 1302
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Arthur Rimbaud in Africa - Saudi Aramco World",
+      "url": "https://archive.aramcoworld.com/issue/200105/arthur.rimbaud.coffee.trader.htm",
+      "accessedAt": "2026-01-22",
+      "claimsVerified": [
+        "Rimbaud arrived in Aden 1880",
+        "Worked as coffee trader",
+        "Spent decade in Yemen/Ethiopia region"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "History of Aden - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aden",
+      "accessedAt": "2026-01-22",
+      "claimsVerified": [
+        "Marco Polo described Aden as trade hub",
+        "British protectorate era",
+        "Capital of South Yemen until 1990 reunification"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": [
+      "ancient port city guards the entrance to the Red Sea",
+      "the heat is relentless",
+      "Arabia's deep past and complicated present"
+    ]
+  },
+  "locationWikipediaPath": "t/4/2/0/aden-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "luxor-wk",
+      "title": "Luxor",
+      "tile": "ssx4",
+      "coordinates": {
+        "lat": 25.6872,
+        "lng": 32.6396
+      },
+      "distanceKm": 1888.3
+    },
+    "n": {
+      "id": "bahla-fort-wp",
+      "title": "Bahla Fort",
+      "tile": "tk0d",
+      "coordinates": {
+        "lat": 22.9644,
+        "lng": 57.3007
+      },
+      "distanceKm": 1692.4
+    },
+    "ne": {
+      "id": "abu-dhabi-wk",
+      "title": "Abu Dhabi",
+      "tile": "thqe",
+      "coordinates": {
+        "lat": 24.4667,
+        "lng": 54.3667
+      },
+      "distanceKm": 1565.8
+    },
+    "w": {
+      "id": "nairobi-wk",
+      "title": "Nairobi",
+      "tile": "kzf0",
+      "coordinates": {
+        "lat": -1.2921,
+        "lng": 36.8219
+      },
+      "distanceKm": 1783.8
+    },
+    "e": {
+      "id": "archaeological-sites-of-bat-al-khutm-and-al-ayn-wp",
+      "title": "Archaeological Sites of Bat, Al-Khutm and Al-Ayn",
+      "tile": "tk0k",
+      "coordinates": {
+        "lat": 23.27,
+        "lng": 56.745
+      },
+      "distanceKm": 1651.6
+    },
+    "sw": {
+      "id": "aberdare-national-park-wk",
+      "title": "Aberdare National Park",
+      "tile": "kzfj",
+      "coordinates": {
+        "lat": -0.38,
+        "lng": 36.699167
+      },
+      "distanceKm": 1677.6
+    },
+    "s": {
+      "id": "kilimanjaro-wk",
+      "title": "Kilimanjaro: The Snows That Hemingway Wrote About Are Disappearing",
+      "tile": "kz6w",
+      "coordinates": {
+        "lat": -3.0674,
+        "lng": 37.3556
+      },
+      "distanceKm": 1932.7
+    },
+    "se": {
+      "id": "pondicherry-wk",
+      "title": "Pondicherry",
+      "tile": "tf0g",
+      "coordinates": {
+        "lat": 11.9139,
+        "lng": 79.8145
+      },
+      "distanceKm": 3705.4
+    }
+  },
+  "keywords": [
+    "aden"
+  ]
+}

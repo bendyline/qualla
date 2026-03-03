@@ -1,0 +1,155 @@
+{
+  "id": "government-camp-wk",
+  "source": "wikipedia",
+  "sourceId": "13090",
+  "title": "Government Camp",
+  "slug": "government-camp",
+  "summary": "Mount Hood's alpine village where ski lifts run through September and the Oregon Trail once forced emigrants to abandon their wagons in the snow.",
+  "content": {
+    "intro": "The name comes from an 1849 disaster. A mounted cavalry division, crossing the Cascades late in the season, found their route blocked by snow too deep for wagons. They abandoned their equipment and draft animals, struggling through on foot to the Willamette Valley. The site where government property was left became 'government camp' to subsequent emigrants, and the name stuck. Today this tiny community on Mount Hood's shoulder is Oregon's alpine village, surrounded by four ski areas including Timberline, which operates lifts through September on the glacier above - the longest ski season in North America.",
+    "sections": [
+      {
+        "title": "Year-Round Skiing",
+        "body": "Timberline Lodge sits above Government Camp on Mount Hood's southern flank, its historic WPA-built lodge one of the most recognizable structures in the Pacific Northwest. But the real attraction is the Palmer Glacier above, where ski lifts operate into September - summer skiing that draws racers, snowboarders, and anyone willing to make the early-morning drive from Portland for turns in August.\n\nFour ski areas surround Government Camp. Mount Hood Meadows, on the mountain's east side, offers the most terrain for traditional resort skiing. Ski Bowl, closest to town, claims to be America's largest night skiing operation. Summit provides a smaller, family-focused option. Together they make Government Camp a multi-resort destination, the variety of terrain and aspects ensuring something is open regardless of conditions or time of year."
+      },
+      {
+        "title": "Oregon Trail Terminus",
+        "body": "The Barlow Road brought Oregon Trail emigrants over the Cascades when the Columbia River route proved too dangerous or expensive. The road climbed from the east, crested near modern-day Government Camp, and descended through old-growth forest to the Willamette Valley. It was brutal - steep, rocky, prone to snowfall that caught late-season travelers. But it worked, delivering thousands of wagons to the promised land that lay beyond the mountains.\n\nThe Government Camp cultural museum and an interpretive center kiosk tell this history, explaining how the first settlers crossed terrain that today's highway traverses in an hour. The Barlow Road itself still exists in segments, sections of the original wagon route preserved as hiking trails that connect to the network covering Mount Hood's slopes. The past is never far away in Government Camp - the mountain that creates the skiing also created the barrier that shaped Oregon's settlement."
+      },
+      {
+        "title": "Alpine Village Life",
+        "body": "Government Camp is small - perhaps 200 year-round residents, swelling to thousands on winter weekends. The village strings along a loop road off Highway 26, its businesses oriented toward snow sports: ski shops, rental operations, restaurants and bars that fill after the lifts close. Walking is the primary transportation in town; a shuttle connects to Ski Bowl and Timberline during the season.\n\nThe elevation is around 4,000 feet - high enough for reliable snow, low enough for year-round access. Portland is an hour west, close enough for day trips and after-work runs. The proximity to the city makes Government Camp feel like Portland's backyard, the mountain escape that requires no planning and minimal commitment. Summer brings hikers, the Pacific Crest Trail passing through on its way from Mexico to Canada, the network of trails connecting to loops that circle the entire mountain."
+      },
+      {
+        "title": "The Mountain Above",
+        "body": "Mount Hood rises another 7,000 feet above Government Camp, its glaciated summit visible from Portland on clear days. The mountain is the state's highest point, the most-climbed glaciated peak in North America, a dormant volcano that last erupted in the 1780s. The climbing route from Timberline Lodge is non-technical but demanding, the early-morning starts necessary to cross the upper snowfields before afternoon sun loosens the icefall.\n\nFor non-climbers, the trails offer access to the mountain's shoulders and forests. The Timberline Trail circles Mount Hood at the tree line, forty miles of alpine travel connecting viewpoints and wilderness campsites. Shorter trails loop through meadows that explode with wildflowers in summer, past waterfalls fed by melting snow, into old-growth forests that survived the logging that cleared much of the lower slopes. The mountain dominates Government Camp visually and economically, its snows and forests the reason the village exists."
+      }
+    ],
+    "flightContext": "Located at 45.30N, 121.76W on the southern shoulder of Mount Hood in Oregon's Cascade Range. The village is visible along the loop road south of Highway 26. Timberline Lodge and the ski area are visible above the village on Mount Hood's slopes. Mount Hood's summit (11,250 feet) rises to the north. The Palmer Glacier is visible above Timberline. Ski Bowl is west of the village; Mount Hood Meadows is to the east on the mountain's far side. Highway 26 runs past the village toward Portland (60 miles west). The terrain is alpine forest transitioning to glaciated volcano."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 45.304167,
+      "lng": -121.756667
+    },
+    "geohash": "c213t"
+  },
+  "categories": [
+    "village",
+    "oregon",
+    "mount-hood",
+    "skiing",
+    "alpine"
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Government Camp, Oregon - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Government_Camp,_Oregon",
+      "accessedAt": "2026-01-16",
+      "claimsVerified": [
+        "1849 name origin",
+        "Timberline summer skiing",
+        "four ski areas"
+      ]
+    }
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-10T00:00:00Z",
+    "wordCount": 720,
+    "readTime": 4,
+    "firstPublished": "2026-01-10T00:00:00Z",
+    "storyNumber": 38
+  },
+  "locationWikivoyagePath": "c/2/1/3/government-camp-wk",
+  "locationWikipediaPath": "c/2/1/3/barlow-pass-oregon-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "washougal-wk",
+      "title": "Washougal",
+      "tile": "c20g",
+      "coordinates": {
+        "lat": 45.581944444444,
+        "lng": -122.34805555556
+      },
+      "distanceKm": 6.1
+    },
+    "n": {
+      "id": "stevenson-wk",
+      "title": "Stevenson",
+      "tile": "c217",
+      "coordinates": {
+        "lat": 45.696111,
+        "lng": -121.888333
+      },
+      "distanceKm": 19.6
+    },
+    "ne": {
+      "id": "pacific-northwest-wk",
+      "title": "Pacific Northwest",
+      "tile": "c24k",
+      "coordinates": {
+        "lat": 45.8288,
+        "lng": -120.3223
+      },
+      "distanceKm": 82.2
+    },
+    "w": {
+      "id": "boring-wk",
+      "title": "Boring",
+      "tile": "c20f",
+      "coordinates": {
+        "lat": 45.43,
+        "lng": -122.373611
+      },
+      "distanceKm": 18.6
+    },
+    "e": {
+      "id": "john-day-fossil-beds-national-monument-wp",
+      "title": "John Day Fossil Beds National Monument",
+      "tile": "9rfv",
+      "coordinates": {
+        "lat": 44.549199,
+        "lng": -119.628104
+      },
+      "distanceKm": 153
+    },
+    "sw": {
+      "id": "eugene-wk",
+      "title": "Eugene: Tracktown USA and the Hippie Mecca",
+      "tile": "9rb6",
+      "coordinates": {
+        "lat": 44.051944,
+        "lng": -123.086667
+      },
+      "distanceKm": 120.8
+    },
+    "s": {
+      "id": "warm-springs-indian-reservation-wp",
+      "title": "Warm Springs Indian Reservation",
+      "tile": "9rcx",
+      "coordinates": {
+        "lat": 44.87,
+        "lng": -121.4538888888889
+      },
+      "distanceKm": 32
+    },
+    "se": {
+      "id": "crooked-river-railroad-bridge-wp",
+      "title": "Crooked River Railroad Bridge",
+      "tile": "9rcu",
+      "coordinates": {
+        "lat": 44.3911,
+        "lng": -121.1962
+      },
+      "distanceKm": 68.1
+    }
+  },
+  "keywords": [
+    "government-camp"
+  ]
+}

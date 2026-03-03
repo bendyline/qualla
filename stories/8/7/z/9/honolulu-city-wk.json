@@ -1,0 +1,173 @@
+{
+  "id": "honolulu-city-wk",
+  "source": "wikipedia",
+  "sourceId": "30657",
+  "title": "Honolulu: The Pacific Capital Where Paradise Has Traffic Jams",
+  "slug": "honolulu-city",
+  "summary": "The Hawaiian capital where Waikiki's towers crowd the shore - where Pearl Harbor changed history, where the price of paradise includes $8 milk and $1 million condos, and where East meets West in every aspect of life.",
+  "content": {
+    "intro": "Honolulu is the most isolated major city on Earth - 2,400 miles from the nearest continent, farther from a mainland than any capital except Reykjavik. The isolation creates everything distinctive about it: the expense of importing everything, the cultural fusion of Pacific and Asian and American influences, the sense of living at the edge of the world. The city of 350,000 (metro area of 1 million) occupies the narrow coastal plain between the Ko'olau Mountains and the Pacific, squeezed into limited space, among the most expensive real estate in America. Paradise has traffic jams and homeless encampments and the same problems as everywhere else, just with better weather and worse grocery prices.",
+    "sections": [
+      {
+        "title": "Pearl Harbor",
+        "body": "On December 7, 1941, Japanese aircraft attacked the Pacific Fleet at Pearl Harbor, killing 2,403 Americans and drawing the United States into World War II. The attack lasted less than two hours; the consequences lasted decades. The USS Arizona still lies where it sank, a memorial built above it, 1.7 million visitors annually paying respects. The other ships - Oklahoma, Nevada, California - were raised and returned to service. Pearl Harbor remains an active naval base; the memorial remains Hawaii's most visited attraction. The attack that FDR called 'a date which will live in infamy' defines Honolulu's relationship to the mainland."
+      },
+      {
+        "title": "Waikiki",
+        "body": "Waikiki was once a swamp that Hawaiian royalty used for fishing and farming. American entrepreneurs drained it, built hotels, and created the tourist destination that funded Hawaii's economy. The beach is now lined with high-rise hotels and condos, the waves crowded with surf lessons, the streets packed with visitors from Japan and America. The beach itself is partially artificial - sand imported from other Hawaiian beaches to replace what ocean currents removed. Waikiki generates billions in tourism revenue and represents everything critics hate about Hawaiian development. The original Hawaiian Waikiki no longer exists; the tourist version thrives."
+      },
+      {
+        "title": "The Cost",
+        "body": "Honolulu regularly ranks as America's most expensive city - a gallon of milk costs $8, a modest house costs $1 million, gas costs $5. The expense stems from isolation: nearly everything must be shipped 2,400 miles. The Jones Act requires goods shipped between American ports to use American-flagged, American-crewed ships, adding costs that mainland cities don't face. The result is that local families often live multiple generations under one roof, teachers and nurses commute from distant suburbs, and the homeless population is disproportionately local. Paradise is for those who can afford it; everyone else struggles."
+      },
+      {
+        "title": "The Culture",
+        "body": "Honolulu's culture is genuinely multicultural - Japanese, Chinese, Filipino, Hawaiian, Portuguese, and mainland American influences blended over generations. The local 'pidgin' dialect mixes English with Hawaiian and Asian language influences; the plate lunch combines rice, macaroni salad, and protein in a style that defies mainland categories. The lua'u is tourist-ified but based on real Hawaiian tradition; the lei greeting is genuinely warm. Asian influence is pervasive - Honolulu is effectively America's Asian city, where sushi is ordinary and dim sum is breakfast. The culture that emerged from plantation-era mixing is unique to Hawaii."
+      },
+      {
+        "title": "Visiting Honolulu",
+        "body": "Honolulu is served by Daniel K. Inouye International Airport (HNL). Pearl Harbor requires advance reservations; the boat to the Arizona Memorial books out days ahead. Waikiki is crowded but central; hotels elsewhere offer more peace at higher prices. Diamond Head provides the classic Honolulu hike; the crater trail is steep but short. The Bishop Museum covers Hawaiian history and culture thoroughly. For beaches, North Shore offers big waves in winter; Hanauma Bay offers snorkeling. The Polynesian Cultural Center on the North Shore is tourist-oriented but educational. The weather is eternal summer; trade winds keep it comfortable. Avoid Golden Week and Japanese holidays when prices spike."
+      }
+    ],
+    "flightContext": "Located at 21.31°N, 157.86°W on the southern coast of Oahu. From altitude, Honolulu appears as urban development squeezed between mountains and sea - Waikiki's towers visible along the curved beach, Diamond Head crater distinctive at the eastern end. Pearl Harbor's naval installations are visible to the west. The isolation is apparent: 2,400 miles of Pacific Ocean separate Hawaii from the nearest continent. What appears from altitude as a tropical city is America's Pacific capital - where Pearl Harbor changed history, where East meets West in every street, and where paradise costs more than anywhere else."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 21.3069,
+      "lng": -157.8583
+    },
+    "geohash": "87z9m"
+  },
+  "categories": [
+    "hawaii",
+    "honolulu",
+    "city",
+    "pearl-harbor",
+    "pacific"
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-12T00:00:00Z",
+    "wordCount": 855,
+    "readTime": 5,
+    "firstPublished": "2026-01-12T00:00:00Z",
+    "storyNumber": 440
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Pearl Harbor Attack - History.com",
+      "url": "https://www.history.com/articles/pearl-harbor",
+      "accessedAt": "2026-01-12",
+      "claimsVerified": [
+        "December 7 1941",
+        "2403 Americans killed",
+        "USS Arizona memorial"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Attack on Pearl Harbor - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor",
+      "accessedAt": "2026-01-12",
+      "claimsVerified": [
+        "2335 service members and 68 civilians killed",
+        "FDR declaration of war"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": [
+      "Paradise has traffic jams",
+      "Paradise is for those who can afford it; everyone else struggles"
+    ]
+  },
+  "locationWikipediaPath": "8/7/z/9/honolulu-sailor-s-home-wp",
+  "locationWikivoyagePath": "8/7/z/9/honolulu-wk",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "unalaska-dutch-harbor-wk",
+      "title": "Dutch Harbor: Where the Deadliest Catch Comes Home",
+      "tile": "b39d",
+      "coordinates": {
+        "lat": 53.89,
+        "lng": -166.54
+      },
+      "distanceKm": 3651
+    },
+    "n": {
+      "id": "adak-island-abandoned-wk",
+      "title": "Adak: The Navy Base America Left to Rot",
+      "tile": "b14r",
+      "coordinates": {
+        "lat": 51.88,
+        "lng": -176.64
+      },
+      "distanceKm": 3726.7
+    },
+    "ne": {
+      "id": "farallones-islands-wildlife-wk",
+      "title": "The Farallon Islands: California's Forbidden Rock",
+      "tile": "9q8w",
+      "coordinates": {
+        "lat": 37.7,
+        "lng": -123
+      },
+      "distanceKm": 3752.3
+    },
+    "w": {
+      "id": "st-paul-island-pribilofs-wk",
+      "title": "St. Paul Island: Alaska's Fur Seal Capital",
+      "tile": "b4nu",
+      "coordinates": {
+        "lat": 57.11,
+        "lng": -170.27
+      },
+      "distanceKm": 4089
+    },
+    "e": {
+      "id": "kalaupapa-national-historical-park-wk",
+      "title": "Kalaupapa National Historical Park",
+      "tile": "8eb2",
+      "coordinates": {
+        "lat": 21.1778,
+        "lng": -156.96
+      },
+      "distanceKm": 59.4
+    },
+    "sw": {
+      "id": "samoa-wk",
+      "title": "Samoa",
+      "tile": "2jt9",
+      "coordinates": {
+        "lat": -13.759,
+        "lng": -172.098
+      },
+      "distanceKm": 4148.1
+    },
+    "s": {
+      "id": "mauna-kea-astronomy-wk",
+      "title": "Mauna Kea: Where Sacred Mountain Meets the Stars",
+      "tile": "8e92",
+      "coordinates": {
+        "lat": 19.8207,
+        "lng": -155.468
+      },
+      "distanceKm": 301.9
+    },
+    "se": {
+      "id": "mauna-kea-wk",
+      "title": "Mauna Kea: The Mountain Taller Than Everest",
+      "tile": "8e92",
+      "coordinates": {
+        "lat": 19.8207,
+        "lng": -155.468
+      },
+      "distanceKm": 254.7
+    }
+  },
+  "keywords": [
+    "honolulu",
+    "honolulu-city"
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": "alexandria-in-orietai-wp",
+  "source": "wikipedia",
+  "sourceId": "39737639",
+  "title": "Alexandria in Orietai",
+  "slug": "alexandria-in-orietai",
+  "summary": "One of seventy cities Alexander the Great founded or renamed during his conquests, this lost settlement in Balochistan was meant to control the spice trade between India and Kandahar -- but its exact location has never been found.",
+  "content": {
+    "intro": "Alexander the Great founded cities the way other conquerors raised flags -- compulsively, strategically, and across an almost incomprehensible span of territory. By the time his army reached the coast of what is now Balochistan in the autumn of 325 BC, he had already established or renamed more than seventy settlements stretching from Egypt to the Hindu Kush. Alexandria in Orietai was one more pin in that map, a garrison town planted among the Oritae people near the Arabian Sea, where the Indus trade routes met the overland passes to Kandahar.",
+    "sections": [
+      {
+        "title": "The Autumn of 325 BC",
+        "body": "The founding came at a moment of logistical necessity. Alexander had separated from his admiral Nearchus, who was sailing the fleet along the coast, and was marching his army overland through the deserts and mountains of southern Balochistan -- a march that would become one of the most brutal episodes of his entire campaign. He needed supply points. The sources agree that a settlement was built near Rhambacia, the largest town of the Oritae, and that Alexander left his trusted companions Hephaestion and Leonnatus to oversee its fortification. The core settlers were retired cavalry from Arachosia, the region around modern Kandahar -- soldiers who had earned their discharge and would anchor a Greek-speaking colony on this remote coast."
+      },
+      {
+        "title": "An Emporium for Spice and Bdellium",
+        "body": "Alexander almost certainly intended the new town to be an emporium, a commercial hub controlling the Indian spice trade through the mountain passes connecting the coast to Kandahar. The region had resources worth controlling. Four centuries later, the Roman-era Periplus of the Erythraean Sea described this stretch of coast as yielding 'much wheat, wine, rice and dates,' with the coastal areas producing bdellium, a resinous gum valued in the ancient world for incense and medicine. Positioning a garrison town here would have given Alexander's empire a foothold on the trade flowing between India, Persia, and the Arabian Sea."
+      },
+      {
+        "title": "The Search for the Lost City",
+        "body": "No one has definitively found Alexandria in Orietai. The archaeologist Aurel Stein proposed a location near modern Bela, Pakistan, and this remains the most widely accepted candidate. The ancient historian Diodorus, however, placed the city on the coast, though millennia of geological change may have altered the coastline beyond recognition. The classicist W.W. Tarn went further, arguing that no city was ever successfully established here at all, pointing to the absence of Greek artifacts in the area. The debate illustrates a fundamental problem with Alexander's city-building: many of his foundations were little more than military camps left behind by a conquering army that never returned. Whether Alexandria in Orietai thrived, shrank, or was simply abandoned after its founder's death in 323 BC remains an open question."
+      },
+      {
+        "title": "Ghost on the Map",
+        "body": "Alexander died less than two years after founding this settlement, and his empire fragmented almost immediately. The fate of Alexandria in Orietai vanishes from the historical record. It may have been absorbed by local populations, eroded by the elements, or buried beneath later construction. Today, the Balochistan coast where it likely stood is a dry, sparsely inhabited landscape of fishing villages and rocky shoreline, changed by two millennia of tectonic activity, silting, and coastal erosion. Somewhere beneath this terrain -- or perhaps washed entirely away -- lie the foundations of a Greek garrison built to control trade routes that no longer exist, in service of an empire that survived its founder by barely a generation."
+      }
+    ],
+    "flightContext": "The probable location of Alexandria in Orietai is near modern Bela, Pakistan, at approximately 27.50N, 67.50E in Balochistan province near the coast of the Arabian Sea. From altitude, the terrain is arid and flat near the coast, rising to low hills inland. The area lies between Karachi (ICAO: OPKC, approximately 200 km southeast) and Gwadar (ICAO: OPGD, approximately 400 km to the west). No visible ruins have been confirmed from the air."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 27.5,
+      "lng": 67.5
+    },
+    "geohash": "tkzur"
+  },
+  "categories": [
+    "ancient history",
+    "alexander the great",
+    "lost city",
+    "pakistan"
+  ],
+  "meta": {
+    "lastUpdated": "2026-02-28T00:00:00Z",
+    "wordCount": 660,
+    "readTime": 4,
+    "firstPublished": "2026-02-28T00:00:00Z",
+    "storyNumber": 5874
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Alexandria in Orietai - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alexandria_in_Orietai",
+      "accessedAt": "2026-03-01",
+      "claimsVerified": [
+        "Founding in autumn 325 BC confirmed",
+        "Hephaestion and Leonnatus left to oversee fortification confirmed",
+        "Located near Rhambacia, largest town of the Oritae confirmed",
+        "Core settlers were retired Arachosian (Kandahar-region) cavalry confirmed",
+        "Aurel Stein proposed location near modern Bela, Pakistan confirmed",
+        "W.W. Tarn skeptical no city was built due to lack of Greek artifacts confirmed",
+        "Periplus of the Erythraean Sea reference to bdellium and grain confirmed",
+        "Alexander died 323 BC (less than two years after founding) confirmed",
+        "Seventy-plus cities figure attributed to Plutarch, contested by modern scholars — article uses sourced Plutarch figure"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "List of cities founded by Alexander the Great - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_cities_founded_by_Alexander_the_Great",
+      "accessedAt": "2026-03-01",
+      "claimsVerified": [
+        "Seventy-city figure from Plutarch; modern consensus is approximately 20-30 genuine foundations — article attribution to Plutarch is defensible"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "shamsi-airfield-wp",
+      "title": "Shamsi Airfield",
+      "tile": "tkyq",
+      "coordinates": {
+        "lat": 27.85,
+        "lng": 65.166666666667
+      },
+      "distanceKm": 160.6
+    },
+    "n": {
+      "id": "kharan-desert-wp",
+      "title": "Kharan Desert",
+      "tile": "tkvz",
+      "coordinates": {
+        "lat": 28.01361111111111,
+        "lng": 64.34416666666667
+      },
+      "distanceKm": 294.1
+    },
+    "ne": {
+      "id": "lhasa-wk",
+      "title": "Lhasa",
+      "tile": "wj2b",
+      "coordinates": {
+        "lat": 29.65,
+        "lng": 91.1
+      },
+      "distanceKm": 2273
+    },
+    "w": {
+      "id": "sohr-damb-wp",
+      "title": "Sohr Damb",
+      "tile": "tkzj",
+      "coordinates": {
+        "lat": 27.68888889,
+        "lng": 66.30833333
+      },
+      "distanceKm": 52.1
+    },
+    "e": {
+      "id": "udaipur-wk",
+      "title": "Udaipur",
+      "tile": "tsk7",
+      "coordinates": {
+        "lat": 24.5854,
+        "lng": 73.7125
+      },
+      "distanceKm": 669.6
+    },
+    "sw": {
+      "id": "nindowari-wp",
+      "title": "Nindowari",
+      "tile": "tkz3",
+      "coordinates": {
+        "lat": 27,
+        "lng": 66.5
+      },
+      "distanceKm": 40.2
+    },
+    "s": {
+      "id": "kirthar-mountains-wp",
+      "title": "Kirthar Mountains",
+      "tile": "tkzc",
+      "coordinates": {
+        "lat": 27,
+        "lng": 67.15555556
+      },
+      "distanceKm": 32.1
+    },
+    "se": {
+      "id": "jodhpur-wk",
+      "title": "Jodhpur",
+      "tile": "tsev",
+      "coordinates": {
+        "lat": 26.2389,
+        "lng": 73.0243
+      },
+      "distanceKm": 525.7
+    }
+  }
+}

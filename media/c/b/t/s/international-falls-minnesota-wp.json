@@ -1,0 +1,51 @@
+{
+  "id": "international-falls-minnesota-wp",
+  "patch": {
+    "media": {
+      "hero": {
+        "path": "_m/c/b/t/s/international-falls-minnesota-wp/hero.jpg",
+        "filename": "International Falls, Minnesota 1.jpg",
+        "caption": "International Falls, Minnesota",
+        "alt": "International Falls, Minnesota",
+        "width": 800,
+        "height": 531,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 2.0",
+        "artist": "Andrew Filer from Seattle (ex-Minneapolis)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:International_Falls,_Minnesota_1.jpg",
+        "sourceType": "core",
+        "sourceArticleId": "international-falls-minnesota-wp",
+        "sourceGeohash4": "cbts",
+        "accessedAt": "2026-02-07T16:03:45.318Z",
+        "smallPath": "_m/c/b/t/s/international-falls-minnesota-wp/hero-small.jpg"
+      },
+      "images": [
+        {
+          "path": "_m/c/b/t/s/international-falls-minnesota-wp/relief-location-map-us.png",
+          "filename": "Usa edcp relief location map.png",
+          "caption": "Relief location map of the USA (without Hawaii and Alaska).\nEquiDistantConicProjection :\nCentral  parallel :\n\n* N: 37.0° N\n\nCentral meridian :\n\n* E: 96.0° W\n\nStandard parallels:\n\n* 1: 32.0° N\n* 2: 42.0° N\n\nMade with Natural Earth. Free vector and raster map data @ naturalearthdata.com.\nFormulas for x and y:\n\nx = 50.0 + 124.03149777329222 * ((1.9694462586094064-({{{2}}}* pi / 180))\n      * sin(0.6010514667026994 * ({{{3}}} + 96) * pi / 180))\ny = 50.0 + 1.6155950752393982 * 124.03149777329222 * 0.02613325650382181\n      - 1.6155950752393982  * 124.03149777329222 *\n     (1.3236744353715044  - (1.9694462586094064-({{{2}}}* pi / 180)) \n      * cos(0.6010514667026994 * ({{{3}}} + 96) * pi / 180))",
+          "alt": "Relief location map of the USA (without Hawaii and Alaska).\nEquiDistantConicProjection :\nCentral  parallel :\n\n* N: 37.0° N\n\nCentral meridian :\n\n* E: 96.0° W\n\nStandard parallels:\n\n* 1: 32.0° N\n* 2: 42.0° N\n\nMade with Natural Earth. Free vector and raster map data @ naturalearthdata.com.\nFormulas for x and y:\n\nx = 50.0 + 124.03149777329222 * ((1.9694462586094064-({{{2}}}* pi / 180))\n      * sin(0.6010514667026994 * ({{{3}}} + 96) * pi / 180))\ny = 50.0 + 1.6155950752393982 * 124.03149777329222 * 0.02613325650382181\n      - 1.6155950752393982  * 124.03149777329222 *\n     (1.3236744353715044  - (1.9694462586094064-({{{2}}}* pi / 180)) \n      * cos(0.6010514667026994 * ({{{3}}} + 96) * pi / 180))",
+          "width": 1181,
+          "height": 731,
+          "mimeType": "image/png",
+          "license": "CC BY-SA 3.0",
+          "artist": "Uwe Dedering",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Usa_edcp_relief_location_map.png",
+          "sourceType": "core",
+          "sourceArticleId": "international-falls-minnesota-wp",
+          "sourceGeohash4": "cbts",
+          "accessedAt": "2026-02-07T16:03:45.318Z",
+          "smallPath": "_m/c/b/t/s/international-falls-minnesota-wp/relief-location-map-us-small.png"
+        }
+      ],
+      "narration": [
+        "_m/c/b/t/s/international-falls-minnesota-wp/cbts-international-falls-minnesota-flight-context.mp3",
+        "_m/c/b/t/s/international-falls-minnesota-wp/cbts-international-falls-minnesota-intro.mp3",
+        "_m/c/b/t/s/international-falls-minnesota-wp/cbts-international-falls-minnesota-a-mill-town-on-the-border.mp3",
+        "_m/c/b/t/s/international-falls-minnesota-wp/cbts-international-falls-minnesota-bronko-and-the-hockey-factory.mp3",
+        "_m/c/b/t/s/international-falls-minnesota-wp/cbts-international-falls-minnesota-frostbite-falls-and-the-cultural-imagination.mp3",
+        "_m/c/b/t/s/international-falls-minnesota-wp/cbts-international-falls-minnesota-where-two-nations-meet.mp3"
+      ]
+    }
+  }
+}

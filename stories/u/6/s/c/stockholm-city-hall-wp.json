@@ -1,0 +1,181 @@
+{
+  "id": "stockholm-city-hall-wp",
+  "source": "wikipedia",
+  "sourceId": "363665",
+  "title": "Stockholm City Hall",
+  "slug": "stockholm-city-hall",
+  "summary": "The red-brick masterpiece where Nobel laureates dine beneath eighteen million golden mosaic tiles and the Three Crowns of Sweden crown a tower visible across the city.",
+  "content": {
+    "intro": "The Blue Hall contains no blue. This is the first surprise Stockholm City Hall offers visitors, and it sets the tone for a building that consistently defies expectations. Architect Ragnar Östberg originally planned to cover the walls with blue glazed tiles, but as construction progressed, he fell in love with the warm red of the eight million bricks rising from the shore of Lake Mälaren. He abandoned the blue tiles but kept the name, creating a hall where Nobel Prize banquets unfold each December beneath walls the color of Swedish autumn.",
+    "sections": [
+      {
+        "title": "Twelve Years of Bricks",
+        "body": "The city council selected this site in 1907, where the old Eldkvarn mill once stood on the eastern tip of Kungsholmen island. An architectural competition followed, pitting the designs of Sweden's finest against each other. Östberg won the commission, though not before incorporating elements from rival Carl Westman's proposal, including the distinctive tower. What began in 1911 would not finish until 1923, as Östberg continually refined his vision during construction. Paul Toll of the famous Kreuger & Toll firm designed the foundations, and nearly eight million dark red 'munktegel'—monks' bricks, traditionally used for monasteries—arrived from the Lina brickworks in Södertälje. The inauguration on June 23, 1923, was believed to mark the 400th anniversary of Gustav Vasa's triumphal entry into Stockholm, though calendar conversions later revealed the actual anniversary fell on July 4th."
+      },
+      {
+        "title": "Where Worlds Blend",
+        "body": "Stockholm City Hall exemplifies the National Romantic style, yet it draws freely from across Europe and centuries. The massive brick walls evoke Northern European fortresses, while turrets adorned with golden starlets and decorated balconies channel Venetian Gothic whimsy. The juxtaposition of architecture and water—the building rises directly from Riddarfjärden's edge, facing the islands of Riddarholmen and Södermalm—captures Stockholm's essential character as a city built across fourteen islands. Wooden masts and statues punctuate the roofline, giving the municipal headquarters the romance of a harbor fortress."
+      },
+      {
+        "title": "Eighteen Million Tiles",
+        "body": "Above the Blue Hall lies the Golden Hall, its walls covered with more than eighteen million mosaic tiles depicting scenes from Swedish history. The Berlin firm of Puhl & Wagner executed the mosaics after nine years of negotiations, transforming the room into a glittering cave of legend and national pride. At the center sits the Mälardrottningen, the Lake Queen, an embodiment of Stockholm herself. On December 10th each year, Nobel laureates ascend from the Blue Hall banquet to dance in this golden space, surrounded by Byzantine splendor that would suit an emperor's palace. The organ that fills the Blue Hall during these ceremonies contains 10,270 pipes, making it the largest in Scandinavia."
+      },
+      {
+        "title": "The Tower and the Crowns",
+        "body": "Rising 106 meters above the waterline, the tower commands Stockholm's skyline. Visitors can ascend via elevator or climb 365 steps—one for each day of the year—to reach the observation deck crowned by the Three Crowns, Sweden's national symbol. At the tower's base, a gold-plated cenotaph honors Birger Jarl, the 13th-century statesman who founded Stockholm. The surrounding Stadshusparken shelters sculptures by Carl Eldh celebrating Swedish artists August Strindberg, Gustaf Fröding, and Ernst Josephson. A pillar topped with Engelbrekt Engelbrektsson faces Riddarholmen, honoring the 15th-century rebel leader. Even Roxette filmed their 1991 music video 'Fading Like a Flower' here, adding pop history to the layers of Swedish memory embedded in these red brick walls."
+      }
+    ],
+    "flightContext": "Located at 59.3275°N, 18.055°E on Kungsholmen island's eastern tip. The distinctive tower topped with Three Crowns is visible from considerable distance. The building sits at the water's edge where Riddarfjärden meets the city center. Best viewed from 2,000-3,000 feet AGL. Nearby airports: Stockholm Bromma (ESSB) 3nm west, Stockholm Arlanda (ESSA) 22nm north."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 59.3275,
+      "lng": 18.055
+    },
+    "geohash": "u6scd"
+  },
+  "categories": [
+    "Buildings and structures in Stockholm",
+    "City and town halls in Sweden",
+    "1923 establishments in Sweden",
+    "Government buildings completed in 1923",
+    "Nobel Prize",
+    "National Romantic architecture in Sweden",
+    "Art Nouveau architecture in Stockholm",
+    "Art Nouveau government buildings",
+    "Office buildings in Sweden",
+    "Ragnar Östberg buildings"
+  ],
+  "meta": {
+    "lastUpdated": "2026-02-03T00:00:00Z",
+    "wordCount": 750,
+    "readTime": 4,
+    "firstPublished": "2026-02-03T00:00:00Z",
+    "storyNumber": 2102
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - Stockholm City Hall",
+      "url": "https://en.wikipedia.org/wiki/Stockholm_City_Hall",
+      "accessedAt": "2026-02-03",
+      "claimsVerified": [
+        "designed by Ragnar Östberg",
+        "inaugurated June 23 1923",
+        "tower 106 meters high",
+        "eight million bricks",
+        "Blue Hall originally planned for blue tiles"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Wikipedia - Blue Hall",
+      "url": "https://en.wikipedia.org/wiki/Blue_Hall",
+      "accessedAt": "2026-02-03",
+      "claimsVerified": [
+        "Nobel Banquet held in Blue Hall",
+        "organ has 10270 pipes largest in Scandinavia"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Wikipedia - Nobel Banquet",
+      "url": "https://en.wikipedia.org/wiki/Nobel_Banquet",
+      "accessedAt": "2026-02-03",
+      "claimsVerified": [
+        "banquet held December 10 annually",
+        "Golden Hall has 18 million mosaic tiles",
+        "dancing in Golden Hall after dinner"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "bj-rklinge-runestones-wp",
+      "title": "Bjorklinge Runestones",
+      "tile": "u6sm",
+      "coordinates": {
+        "lat": 60.0269,
+        "lng": 17.5524
+      },
+      "distanceKm": 48.6
+    },
+    "n": {
+      "id": "orkesta-runestones-wp",
+      "title": "Orkesta Runestones",
+      "tile": "u6sg",
+      "coordinates": {
+        "lat": 59.6,
+        "lng": 18.116666666666667
+      },
+      "distanceKm": 1.3
+    },
+    "ne": {
+      "id": "land-wp",
+      "title": "Åland Islands",
+      "tile": "u6wj",
+      "coordinates": {
+        "lat": 60.11666666666667,
+        "lng": 19.9
+      },
+      "distanceKm": 91.9
+    },
+    "w": {
+      "id": "gripsholm-castle-wp",
+      "title": "Gripsholm Castle",
+      "tile": "u6s1",
+      "coordinates": {
+        "lat": 59.25611111111111,
+        "lng": 17.219166666666666
+      },
+      "distanceKm": 21.8
+    },
+    "e": {
+      "id": "stockholm-archipelago-wp",
+      "title": "Stockholm Archipelago",
+      "tile": "u6t3",
+      "coordinates": {
+        "lat": 59.38778,
+        "lng": 18.73581
+      },
+      "distanceKm": 9
+    },
+    "sw": {
+      "id": "get-railroad-disaster-wp",
+      "title": "Geta Railroad Disaster",
+      "tile": "u67t",
+      "coordinates": {
+        "lat": 58.665277777777774,
+        "lng": 16.253333333333334
+      },
+      "distanceKm": 88
+    },
+    "s": {
+      "id": "siege-of-stegeborg-1543-wp",
+      "title": "Siege of Stegeborg (1543)",
+      "tile": "u67u",
+      "coordinates": {
+        "lat": 58.44166666666666,
+        "lng": 16.598333333333333
+      },
+      "distanceKm": 111
+    },
+    "se": {
+      "id": "l-rbro-church-wp",
+      "title": "Larbro Church",
+      "tile": "u6m2",
+      "coordinates": {
+        "lat": 57.7872,
+        "lng": 18.7936
+      },
+      "distanceKm": 142.1
+    }
+  },
+  "keywords": [
+    "stockholm-city-hall"
+  ]
+}

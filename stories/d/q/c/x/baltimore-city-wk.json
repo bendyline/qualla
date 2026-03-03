@@ -1,0 +1,166 @@
+{
+  "id": "baltimore-city-wk",
+  "source": "wikipedia",
+  "sourceId": "30623",
+  "title": "Baltimore: The Charm City Where the Star-Spangled Banner Survived Dawn",
+  "slug": "baltimore-city",
+  "summary": "The Maryland port city that inspired the national anthem and perfected the crab cake - where Fort McHenry flew a flag through bombardment, where Edgar Allan Poe died mysteriously, and where The Wire told uncomfortable truths.",
+  "content": {
+    "intro": "Francis Scott Key watched the British bombardment of Fort McHenry through the night of September 13, 1814, wondering whether the fort had fallen. At dawn, he saw the American flag still flying - the moment that inspired 'The Star-Spangled Banner.' Baltimore was worth fighting for then and struggles to prove it still is now. The city that was once America's second-largest has lost half its population since 1950, hemorrhaging residents to suburbs and other states. Yet the charm persists: the Inner Harbor's revitalization, the row houses with marble steps, the crab cakes and Old Bay seasoning, the culture that produced Babe Ruth, Billie Holiday, and a HBO series that taught America about urban America's hardest neighborhoods.",
+    "sections": [
+      {
+        "title": "The Fort",
+        "body": "Fort McHenry guarded Baltimore Harbor when the British attacked in September 1814, part of the campaign that burned Washington. The bombardment lasted 25 hours; the British fired perhaps 1,800 shells. Key, detained on a British ship during the battle, couldn't see through the smoke and darkness whether the fort still held. At dawn, the garrison raised an enormous flag - 30 by 42 feet, made specifically to be visible - and Key began writing the poem that became the national anthem. The fort is now a national monument; the original flag is at the Smithsonian. Baltimore was the city that didn't fall, the flag the symbol of survival."
+      },
+      {
+        "title": "Edgar Allan Poe",
+        "body": "Edgar Allan Poe was found semiconscious in a Baltimore gutter in October 1849, wearing clothes that weren't his, unable to explain where he'd been. He died four days later, never recovering enough to tell what happened. The mystery has never been solved: theories include alcohol poisoning, rabies, cooping (a form of voter fraud involving kidnapping), and more. Poe had lived in Baltimore earlier, writing some of his famous works here; he's buried in Westminster Hall Burying Ground. The mystery of his death fits the mysteries he wrote: something terrible happened, the truth is unknowable, and Baltimore keeps the secret."
+      },
+      {
+        "title": "The Wire",
+        "body": "'The Wire,' David Simon's HBO series that ran from 2002 to 2008, portrayed Baltimore with uncomfortable accuracy: the drug trade, the police, the docks, the schools, the newspapers, the politics. The show found national critical acclaim while depicting a city in crisis - abandoned row houses, open-air drug markets, institutions failing the people they served. Baltimore residents had mixed feelings: the portrayal was true, but truth isn't always welcome. The show became how America understood urban decline; whether it helped or hurt Baltimore's image depends on whether you value honesty over marketing."
+      },
+      {
+        "title": "The Crabs",
+        "body": "Maryland blue crabs define Baltimore eating. The crabs are steamed with Old Bay seasoning, dumped on brown paper, and picked apart with wooden mallets - a communal, messy, entirely satisfying experience. The crab cake - backfin meat, minimal filler - is Baltimore's contribution to American cuisine. The Chesapeake Bay provided the crabs; the culture provided the preparation. The crab population has declined as the bay's health has deteriorated, making the experience both more precious and more expensive. Faidley's in Lexington Market serves what many consider the definitive crab cake; the argument is ongoing and welcome."
+      },
+      {
+        "title": "Visiting Baltimore",
+        "body": "Baltimore is served by Baltimore-Washington International Airport and is accessible by Amtrak from Washington (40 minutes) and points north. The Inner Harbor concentrates tourist attractions: the National Aquarium, historic ships, the Maryland Science Center. Fort McHenry is across the harbor, accessible by water taxi or car. Fells Point offers cobblestone streets and waterfront bars. The Walters Art Museum and Baltimore Museum of Art are free. Lexington Market, operating since 1782, serves crab cakes and local food. The marble steps on row houses throughout the city are a distinctive architectural feature. The experience rewards those who venture beyond the Inner Harbor - the neighborhoods reveal a city more interesting than its difficulties suggest."
+      }
+    ],
+    "flightContext": "Located at 39.29°N, 76.61°W on the Patapsco River where it meets the Chesapeake Bay. From altitude, Baltimore appears as a port city wrapped around a protected inner harbor - the waterfront development visible around the basin, Fort McHenry occupying a peninsula guarding the harbor entrance. The row house neighborhoods extend in all directions, their uniform rooflines visible from above. The shipping facilities mark Baltimore's continued role as East Coast port. What appears from altitude as a mid-sized coastal city is where the national anthem was written - where a flag survived bombardment, where Poe died in mystery, and where The Wire showed America truths it didn't want to see."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 39.2904,
+      "lng": -76.6122
+    },
+    "geohash": "dqcx88sen"
+  },
+  "categories": [
+    "maryland",
+    "baltimore",
+    "city",
+    "fort-mchenry",
+    "crabs"
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-12T00:00:00Z",
+    "wordCount": 855,
+    "readTime": 5,
+    "firstPublished": "2026-01-12T00:00:00Z",
+    "storyNumber": 165
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Baltimore - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Baltimore",
+      "accessedAt": "2026-01-17",
+      "claimsVerified": [
+        "Fort McHenry September 13, 1814",
+        "Poe died October 7, 1849",
+        "The Wire 2002-2008"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": [
+      "The Charm City Where the Star-Spangled Banner Survived Dawn",
+      "The Wire showed America truths it didn't want to see"
+    ]
+  },
+  "locationWikipediaPath": "d/q/c/x/baltimore-wp",
+  "locationWikivoyagePath": "d/q/c/x/baltimore-wk",
+  "duplicates": [
+    "baltimore-wk"
+  ],
+  "directionalNeighbors": {
+    "nw": {
+      "id": "gettysburg-turning-point-wk",
+      "title": "Gettysburg: The Three Days That Decided the War",
+      "tile": "dr14",
+      "coordinates": {
+        "lat": 39.8107,
+        "lng": -77.2293
+      },
+      "distanceKm": 35.3
+    },
+    "n": {
+      "id": "three-mile-island-accident-wk",
+      "title": "Three Mile Island: The Accident That Stopped Nuclear America",
+      "tile": "dr1k",
+      "coordinates": {
+        "lat": 40.1531,
+        "lng": -76.7255
+      },
+      "distanceKm": 70.6
+    },
+    "ne": {
+      "id": "fort-delaware-wp",
+      "title": "Fort Delaware: The Island Prison Where 33,000 Confederates Waited Out the War",
+      "tile": "dr43",
+      "coordinates": {
+        "lat": 39.59,
+        "lng": -75.57194444444444
+      },
+      "distanceKm": 31.6
+    },
+    "w": {
+      "id": "murders-of-katherine-and-sheila-lyon-wp",
+      "title": "Murders of Katherine and Sheila Lyon",
+      "tile": "dqcn",
+      "coordinates": {
+        "lat": 39.0367,
+        "lng": -77.0551
+      },
+      "distanceKm": 28.4
+    },
+    "e": {
+      "id": "bombay-hook-national-wildlife-refuge-wp",
+      "title": "Bombay Hook National Wildlife Refuge",
+      "tile": "dqfr",
+      "coordinates": {
+        "lat": 39.259473,
+        "lng": -75.474358
+      },
+      "distanceKm": 40
+    },
+    "sw": {
+      "id": "june-2009-washington-metro-train-collision-wp",
+      "title": "June 2009 Washington Metro Train Collision",
+      "tile": "dqcj",
+      "coordinates": {
+        "lat": 38.96027777777778,
+        "lng": -77.00583333333333
+      },
+      "distanceKm": 7.1
+    },
+    "s": {
+      "id": "annapolis-wk",
+      "title": "Annapolis: The Sailing Capital Where Congress Once Met",
+      "tile": "dqct",
+      "coordinates": {
+        "lat": 38.9784,
+        "lng": -76.4922
+      },
+      "distanceKm": 5.5
+    },
+    "se": {
+      "id": "punkin-chunkin-wp",
+      "title": "Punkin Chunkin",
+      "tile": "dqfk",
+      "coordinates": {
+        "lat": 38.72222222222222,
+        "lng": -75.53555555555555
+      },
+      "distanceKm": 48.3
+    }
+  },
+  "keywords": [
+    "baltimore",
+    "baltimore-city"
+  ]
+}

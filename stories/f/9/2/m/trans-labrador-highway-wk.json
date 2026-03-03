@@ -1,0 +1,161 @@
+{
+  "id": "trans-labrador-highway-wk",
+  "source": "wikipedia",
+  "sourceId": "142133",
+  "title": "Trans-Labrador Highway",
+  "slug": "trans-labrador-highway",
+  "summary": "Over 1,200 kilometers of sub-Arctic highway threading through one of North America's last true wildernesses, where road signs warn of 410 kilometers between services.",
+  "content": {
+    "intro": "The sign is matter-of-fact: \"Driver alert. Next services 410 km. Check fuel.\" Your phone lost signal an hour ago. The gas station attendant in Port Hope Simpson asked if you had a satellite phone. (You do—the Newfoundland government loans them free to highway travelers, which tells you something.) The Trans-Labrador Highway runs 1,200 kilometers through boreal forest, tundra, and coastline where moose outnumber humans by a considerable margin. It's not a scenic drive in the leisurely sense. It's the kind of road where preparation matters and the northern lights show up 240 nights a year.",
+    "sections": [
+      {
+        "title": "The Last Frontier Road",
+        "body": "Until 2009, you couldn't drive across Labrador—the communities survived by coastal ferry. Route 500 now connects Labrador City near the Quebec border to Happy Valley-Goose Bay, and Route 510 continues south to Red Bay and the ferry to Newfoundland. The paving was only finished in 2022 on some sections. Churchill Falls lies 250 kilometers from Labrador City with nothing in between except spruce trees and the occasional caribou. The town exists because of the hydroelectric dam—600 people, one hotel, one restaurant, no auto repair. Break down here and you're looking at a 220-kilometer tow to Labrador City."
+      },
+      {
+        "title": "History at the Edge",
+        "body": "Red Bay is a UNESCO World Heritage Site, which sounds improbable until you learn that Basque whalers ran a major operation here in the 1500s—at its peak, the largest whaling port in the world. A recovered chalupa sits in the local museum. The Maritime Archaic Burial Mound at L'Anse Amour dates back 7,500 years, the oldest known funeral monument in the Americas. The Point Amour lighthouse, built in the 1850s, still stands 109 feet tall. These are real archaeological sites, not reconstructions, and you might be the only visitor that day."
+      },
+      {
+        "title": "Driving Realities",
+        "body": "Fill your tank at every opportunity—some stretches have no fuel for 400 kilometers. Carry a full-size spare, tools, and enough supplies to wait out a multi-day breakdown. Cell service doesn't exist for most of the route; even 911 won't work. The loaner satellite phones are available at hotels in Wabush, Churchill Falls, Goose Bay, and a few other spots. In summer, blackflies can be genuinely awful. In winter, temperatures hit -30°C and storms can close the road for a week. Most car rental companies won't let you take their vehicles on unpaved sections. There's one independent in Forteau that will."
+      },
+      {
+        "title": "The Communities",
+        "body": "The towns along the highway are small and self-reliant. Cartwright (population under 500) lost its hotel to fire in 2013 and hasn't rebuilt—there are cabins available, but book ahead. Port Hope Simpson has the only repair facilities for 400 kilometers. Battle Harbour, reachable by boat from Mary's Harbour, is a restored fishing town abandoned in the 1960s. The boat runs once daily, so you can't do it as a day trip. These aren't tourist destinations in the usual sense—they're communities that exist because people choose to live at the edge of the map."
+      },
+      {
+        "title": "The Drive",
+        "body": "Fourteen hours from Labrador City to Forteau, assuming nothing goes wrong. Spruce forest, exposed rock, lakes with no names, the occasional moose standing in the road looking unimpressed. Icebergs drift past the coast in early summer—actual icebergs, calved from Greenland glaciers. The aurora borealis is visible most of the year. Stop at a pullout somewhere in the middle and you'll hear nothing. No traffic, no aircraft, no background hum. Just wind. The ferry to Newfoundland leaves from Blanc-Sablon, just across the Quebec border—ninety minutes to St. Barbe, and you're back in the connected world."
+      }
+    ],
+    "flightContext": "The highway corridor runs roughly 52-53°N between 57-67°W. Key airports: Wabush (YWK) near Labrador City, Goose Bay (YYR) with long runways from its transatlantic refueling days, and Blanc-Sablon (YBX) at the south end. Much of the route has no radar coverage. Terrain is generally low but weather changes fast. Emergency services extremely limited. Goose Bay remains a reasonable diversion point; beyond that, plan carefully."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.95,
+      "lng": -66.9
+    },
+    "geohash": "f92mj"
+  },
+  "categories": [
+    "road-trip",
+    "wilderness",
+    "sub-arctic",
+    "adventure"
+  ],
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Trans-Labrador Highway - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Trans-Labrador_Highway",
+      "accessedAt": "2026-01-15",
+      "claimsVerified": [
+        "1,200km length",
+        "paving completed 2022",
+        "Red Bay UNESCO site"
+      ]
+    }
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-10T00:00:00Z",
+    "wordCount": 700,
+    "readTime": 4,
+    "firstPublished": "2026-01-10T00:00:00Z",
+    "storyNumber": 88
+  },
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": [
+      "Where road signs warn of 410 kilometers between services",
+      "These aren't tourist destinations - they're communities that exist because people choose to live at the edge of the map"
+    ]
+  },
+  "locationWikivoyagePath": "f/9/6/z/trans-labrador-highway-wk",
+  "locationWikipediaPath": "f/9/2/m/division-no-10-newfoundland-and-labrador-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "churchill-polar-bears-wk",
+      "title": "Churchill: Polar Bear Capital",
+      "tile": "cfmn",
+      "coordinates": {
+        "lat": 58.7684,
+        "lng": -94.165
+      },
+      "distanceKm": 1752.6
+    },
+    "n": {
+      "id": "flin-flon-scifi-wk",
+      "title": "Flin Flon: The Mining Town Named After a Science Fiction Character",
+      "tile": "c9xx",
+      "coordinates": {
+        "lat": 54.7679,
+        "lng": -101.8783
+      },
+      "distanceKm": 2263
+    },
+    "ne": {
+      "id": "aurora-iceland-wk",
+      "title": "The Northern Lights: The Sky Show That Vikings Thought Was Bridge to the Gods",
+      "tile": "ge2k",
+      "coordinates": {
+        "lat": 64,
+        "lng": -22
+      },
+      "distanceKm": 2762.2
+    },
+    "w": {
+      "id": "saguenay-fjord-national-park-wp",
+      "title": "Saguenay Fjord National Park",
+      "tile": "f2w4",
+      "coordinates": {
+        "lat": 48.275653,
+        "lng": -70.263462
+      },
+      "distanceKm": 560
+    },
+    "e": {
+      "id": "magnetic-hill-illusion-wk",
+      "title": "Magnetic Hill: Canada's Gravity-Defying Road",
+      "tile": "f81y",
+      "coordinates": {
+        "lat": 46.0976,
+        "lng": -64.8769
+      },
+      "distanceKm": 775.5
+    },
+    "sw": {
+      "id": "cap-trinit-wp",
+      "title": "Cap Trinite",
+      "tile": "f2tf",
+      "coordinates": {
+        "lat": 48.316,
+        "lng": -70.333
+      },
+      "distanceKm": 530.4
+    },
+    "s": {
+      "id": "tadoussac-wk",
+      "title": "Tadoussac",
+      "tile": "f2w3",
+      "coordinates": {
+        "lat": 48.1431,
+        "lng": -69.7192
+      },
+      "distanceKm": 546.2
+    },
+    "se": {
+      "id": "acadia-wk",
+      "title": "Acadia National Park",
+      "tile": "f83n",
+      "coordinates": {
+        "lat": 47.617,
+        "lng": -65.767
+      },
+      "distanceKm": 571.1
+    }
+  },
+  "keywords": [
+    "trans-labrador-highway"
+  ]
+}

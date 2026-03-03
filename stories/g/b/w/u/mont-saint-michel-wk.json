@@ -1,0 +1,163 @@
+{
+  "id": "mont-saint-michel-wk",
+  "source": "wikipedia",
+  "sourceId": "43988",
+  "title": "Mont Saint-Michel: The Abbey That Becomes an Island Twice a Day",
+  "slug": "mont-saint-michel",
+  "summary": "Where medieval monks built an abbey on a tidal island off the Normandy coast - surrounded by quicksand and water that rises 46 feet in hours, it was never conquered despite surviving the Hundred Years' War.",
+  "content": {
+    "intro": "Mont Saint-Michel rises from the sea like a vision. A granite island topped by a Gothic abbey, surrounded by the fastest tides in Europe - water that advances 'at the speed of a galloping horse' and rises 46 feet in hours. Medieval pilgrims crossed the treacherous tidal flats, risking quicksand and sudden drowning, to reach this holy site. The abbey withstood sieges during the Hundred Years' War when all of Normandy fell to the English. Today, it's France's most iconic medieval site, a UNESCO World Heritage treasure visited by 3 million people annually, still surrounded by tides that make it an island twice a day.",
+    "sections": [
+      {
+        "title": "The Vision",
+        "body": "According to legend, the Archangel Michael appeared to the Bishop of Avranches in 708 AD, commanding him to build a church on the rocky island in the bay. When the bishop hesitated, the angel burned a hole in his skull with his finger. The bishop obeyed.\n\nThe island - then called Mont Tombe - had been a refuge and sacred site since prehistoric times. The bishop's small church grew over centuries into a Benedictine abbey, expanded by successive abbots until the Gothic spire reached 500 feet above sea level. Each generation built on the foundations of the last."
+      },
+      {
+        "title": "The Tides",
+        "body": "The bay of Mont Saint-Michel experiences the highest tidal range in continental Europe - up to 46 feet between low and high water. At low tide, the island is surrounded by miles of sand flats. At high tide, it becomes completely isolated. The water rises rapidly, covering the sands in minutes.\n\nHistorically, pilgrims crossed at low tide, guided by locals who knew the safe paths. Quicksand trapped the unwary. Rising tides drowned those who lingered. Hundreds died over the centuries. The dangers only increased the abbey's mystique - reaching Mont Saint-Michel was itself an act of faith."
+      },
+      {
+        "title": "The Fortress",
+        "body": "During the Hundred Years' War (1337-1453), English armies conquered all of Normandy - except Mont Saint-Michel. The combination of tides, fortifications, and determined defenders made the island impregnable. English forces besieged it repeatedly and failed every time.\n\nThe 119-year siege (actually a series of blockades and assaults) made Mont Saint-Michel a symbol of French resistance. A small garrison of knights held out against overwhelming force. The Virgin Mary was credited with the defense - soldiers reported seeing her on the ramparts during attacks. When Normandy was liberated, Mont Saint-Michel had never fallen."
+      },
+      {
+        "title": "The Prison",
+        "body": "After the French Revolution, the abbey was converted to a prison. For 70 years, political prisoners were held in cells carved from medieval walls. Writers Victor Hugo and Guy de Maupassant campaigned for its restoration, calling the prison 'a toad in a reliquary.'\n\nThe prison closed in 1863. Restoration began immediately and continues today. The medieval abbey church, cloisters, and refectory were recovered from their prison modifications. The Gothic architecture, built to glorify God, emerged from its ignoble interlude."
+      },
+      {
+        "title": "The Island",
+        "body": "A causeway built in 1879 connected Mont Saint-Michel to the mainland, causing sediment to accumulate and the bay to silt up. The island was becoming a peninsula. In 2014, a new bridge was completed, allowing tides to flow freely around the mount for the first time in over a century.\n\nToday, 3 million visitors annually walk the narrow medieval streets, climb to the abbey, and watch the tides transform the landscape. At high water, Mont Saint-Michel floats on the sea like a dream. At low tide, the sand flats stretch to the horizon. The archangel's command, delivered 1,300 years ago, created something that still takes the breath away."
+      }
+    ],
+    "flightContext": "Mont Saint-Michel (48.64N, 1.51W) lies in the bay between Normandy and Brittany in northwestern France. Rennes Airport (LFRN) is 75km south. Dinard Airport (LFRD) is 50km west. The island is unmistakable from the air - a conical rock crowned by an abbey, surrounded by vast tidal flats at low tide or water at high tide. The new pedestrian bridge connects to the mainland. Weather is maritime - mild and wet, with frequent fog."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 48.6361,
+      "lng": -1.5114
+    },
+    "geohash": "gbwuttgmv"
+  },
+  "categories": [
+    "abbey",
+    "france",
+    "tidal",
+    "medieval",
+    "normandy",
+    "quirky-history"
+  ],
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Mont Saint-Michel - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mont_Saint-Michel",
+      "accessedAt": "2026-01-15",
+      "claimsVerified": [
+        "46 foot tides",
+        "never conquered",
+        "3 million visitors"
+      ]
+    }
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-15T00:00:00Z",
+    "wordCount": 850,
+    "readTime": 5,
+    "firstPublished": "2026-01-15T00:00:00Z",
+    "storyNumber": 1058
+  },
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": [
+      "The Abbey That Becomes an Island Twice a Day",
+      "The archangel's command, delivered 1,300 years ago, created something that still takes the breath away"
+    ]
+  },
+  "locationWikipediaPath": "g/b/w/u/mont-saint-michel-wp",
+  "locationWikivoyagePath": "g/b/w/u/mont-saint-michel-wk",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "channel-islands-wk",
+      "title": "Channel Islands",
+      "tile": "gby2",
+      "coordinates": {
+        "lat": 49.3359,
+        "lng": -2.3346
+      },
+      "distanceKm": 54.6
+    },
+    "n": {
+      "id": "guernsey-wk",
+      "title": "Guernsey",
+      "tile": "gby1",
+      "coordinates": {
+        "lat": 49.45,
+        "lng": -2.55
+      },
+      "distanceKm": 95.7
+    },
+    "ne": {
+      "id": "d-day-beaches-wk",
+      "title": "D-Day: The Longest Day",
+      "tile": "gbzb",
+      "coordinates": {
+        "lat": 49.24209,
+        "lng": -0.27375
+      },
+      "distanceKm": 70.5
+    },
+    "w": {
+      "id": "fishguard-wk",
+      "title": "The Battle of Fishguard: The Last Invasion of Britain",
+      "tile": "gchr",
+      "coordinates": {
+        "lat": 51.9944,
+        "lng": -4.98
+      },
+      "distanceKm": 428.6
+    },
+    "e": {
+      "id": "versailles-wk",
+      "title": "Versailles: The Palace That Bankrupted France",
+      "tile": "u09t",
+      "coordinates": {
+        "lat": 48.8049,
+        "lng": 2.1204
+      },
+      "distanceKm": 234.1
+    },
+    "sw": {
+      "id": "bilbao-wk",
+      "title": "Bilbao",
+      "tile": "ezty",
+      "coordinates": {
+        "lat": 43.263,
+        "lng": -2.935
+      },
+      "distanceKm": 568.1
+    },
+    "s": {
+      "id": "lascaux-cave-wk",
+      "title": "Lascaux Cave: The Sistine Chapel of Prehistory",
+      "tile": "u00b",
+      "coordinates": {
+        "lat": 45.0545,
+        "lng": 1.1683
+      },
+      "distanceKm": 421.2
+    },
+    "se": {
+      "id": "bordeaux-wk",
+      "title": "Bordeaux",
+      "tile": "ezzx",
+      "coordinates": {
+        "lat": 44.8378,
+        "lng": -0.5792
+      },
+      "distanceKm": 391.1
+    }
+  },
+  "keywords": [
+    "mont-saint-michel"
+  ]
+}

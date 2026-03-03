@@ -1,0 +1,200 @@
+{
+  "id": "san-bernardino-train-disaster-wp",
+  "source": "wikipedia",
+  "sourceId": "5769634",
+  "title": "San Bernardino Train Disaster",
+  "slug": "san-bernardino-train-disaster",
+  "summary": "A cascade of small errors turned 69 hopper cars of trona into a 110-mph runaway that destroyed a neighborhood, and then a damaged pipeline turned the same street into an inferno thirteen days later.",
+  "content": {
+    "intro": "The clerk in Mojave looked at the paperwork for 69 hopper cars and wrote down 60 tons each. The actual load was 100 tons per car. That single clerical error, compounded by a dead locomotive, malfunctioning dynamic brakes, and a catastrophic miscommunication, would send a Southern Pacific freight train screaming through a residential neighborhood at 110 miles per hour on May 12, 1989. The posted speed limit on the elevated curve at Duffy Street was 35 mph. Thirteen days later, a petroleum pipeline damaged during cleanup would rupture and set the same street ablaze for seven hours. Two disasters, one location, six deaths, and a complete rewriting of railroad safety protocols.",
+    "sections": [
+      {
+        "title": "The Weight Nobody Knew",
+        "body": "Lake Minerals had contracted to ship 6,900 tons of trona - a mineral used in glass manufacturing - from the Mojave Desert to the Port of Los Angeles for export to Colombia. The mining company turned in paperwork without filling in weights, assuming the railroad would know that 100-ton hopper cars filled to capacity weighed 100 tons. Clerk Thomas Blair, eyeballing the load, estimated 60 tons per car based on how 100 tons of coal looked. The train's official weight became 6,151 tons. Its actual weight was 8,900 tons. Engineer Frank Holland, conductor Everett Crown, and brakeman Allan Riess picked up their three-unit locomotive set at Mojave at 9 p.m. on May 11. When the lead unit wouldn't start, they grabbed a replacement from another consist and set out for Cajon Pass."
+      },
+      {
+        "title": "Brakes That Weren't",
+        "body": "Dynamic brakes work by converting a locomotive's electric motors into generators, using the train's momentum to create resistance. On a 2.2 percent downgrade, one working dynamic brake can control about 1,700 tons at optimal speed. The train needed the equivalent of six functional locomotives to handle 8,900 tons safely. On paper, they had six. In reality, only two worked. The second locomotive was dead-in-tow - no dynamic brakes. The third locomotive's event recorder later showed it produced no braking current, though its cooling fans made sounds that fooled the crew into thinking it was functional. The fourth locomotive's brakes worked sporadically. Of the two helper units on the rear, one also had no dynamic brakes. The helper engineer knew his unit was compromised but never told the head-end crew."
+      },
+      {
+        "title": "110 Miles Per Hour",
+        "body": "When the train crested Cajon Pass at Hiland and started down the western slope, engineer Holland immediately felt something wrong. The train was gathering speed faster than his inputs could control. He applied air brakes and maxed out his dynamic brakes, then radioed the helper engineer for assistance. The helper engineer, Lawrence Hill, made an emergency brake application - a last-ditch measure that, under federal regulations of the time, automatically disabled all dynamic braking on the train. Now the only stopping power came from air brakes, which work by pressing metal shoes against wheel treads. Air brakes generate tremendous heat at high speed. By the time the train reached Duffy Street, the wheels had expanded so much from heat that they were separating from their axles. The NTSB would observe this twelve hours later. The train hit the 35-mph curve at 110 mph."
+      },
+      {
+        "title": "Duffy Street",
+        "body": "The lead locomotives and several freight cars catapulted off the elevated track bed into the residential neighborhood below. Seven houses were demolished. Conductor Crown was crushed in the nose of unit SP 8278. Brakeman Riess died in the cab of SP 7549. Ten-year-old Jason Thompson and seven-year-old Tyson White were killed when a train car destroyed their home. Engineer Holland, still in his seat, suffered cracked ribs and a punctured lung but crawled from his wrecked locomotive. All 69 hopper cars were destroyed. Four of the six locomotives were damaged beyond repair and scrapped on site. Trona - white, powdery, and everywhere - coated the wreckage and the neighborhood. Cleanup crews marked the location of a buried petroleum pipeline with stakes."
+      },
+      {
+        "title": "Thirteen Days Later",
+        "body": "On May 25, 1989, at 8:05 a.m., shortly after a train passed through the restored track, the 14-inch Calnev Pipeline ruptured at the exact curve where the derailment had occurred. Earth-moving equipment during cleanup had damaged the line. Gasoline showered the neighborhood and ignited. Flames shot 300 feet into the air and burned for nearly seven hours. The fire killed two more people, destroyed eleven additional houses and 21 cars. Five of the destroyed homes sat directly across from houses demolished in the derailment; one was the only home on the track side of Duffy Street that had survived the crash. Total property damage reached $14.3 million. Southern Pacific subsequently required clerks to assume maximum weight for any car without documented weight. The Federal Railroad Administration reversed its mandate that dynamic braking must disable during emergency stops. Duffy Street's south side was rezoned as open space. The railroad, now operated by Union Pacific, still runs trains over that curve."
+      }
+    ],
+    "flightContext": "Located at 34.14N, 117.34W in San Bernardino, California, at the base of Cajon Pass where the BNSF and Union Pacific railroads descend from the summit. The accident site is northeast of where Interstate 210 crosses Lytle Creek wash. The curve where the derailment occurred remains an active rail line. Nearest airports include San Bernardino International (KSBD) 5nm south and Ontario International (KONT) 12nm west. The 2.2% grade descending from Cajon Pass makes this one of the most challenging freight rail corridors in the western United States."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 34.1375,
+      "lng": -117.34416666666667
+    },
+    "geohash": "9qhd1"
+  },
+  "categories": [
+    "disaster",
+    "railroad-accident",
+    "california",
+    "industrial-accident",
+    "cajon-pass"
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-23T00:00:00Z",
+    "wordCount": 837,
+    "readTime": 4,
+    "firstPublished": "2026-01-23T00:00:00Z",
+    "storyNumber": 1609
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "San Bernardino train disaster - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/San_Bernardino_train_disaster",
+      "accessedAt": "2026-01-24",
+      "claimsVerified": [
+        "May 12, 1989 derailment date",
+        "69 hopper cars of trona",
+        "110 mph speed at 35 mph curve",
+        "Crew: Frank Holland (engineer), Everett Crown (conductor), Allan Riess (brakeman)",
+        "Deaths: Crown, Riess, Jason Thompson (10), Tyson White (7)",
+        "Seven houses demolished",
+        "Official weight 6,151 tons vs actual 8,900 tons"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "NTSB Railroad Accident Report RAR-90-02",
+      "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/RAR9002.pdf",
+      "accessedAt": "2026-01-24",
+      "claimsVerified": [
+        "2.2% grade at Cajon Pass",
+        "Dynamic brakes disabled by emergency application",
+        "Clerk Thomas Blair estimated weights",
+        "14-inch Calnev Pipeline"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "UPI Archives - Pipeline Explosion Report",
+      "url": "https://www.upi.com/Archives/1989/05/25/3-killed-in-pipeline-explosion-at-train-derailment-site/7515612072000/",
+      "accessedAt": "2026-01-24",
+      "claimsVerified": [
+        "May 25, 1989 pipeline rupture (13 days later)",
+        "Pipeline ruptured at 8:05 a.m.",
+        "Fire burned for nearly 7 hours",
+        "Flames 300 feet high"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Medium - San Bernardino Disaster Analysis",
+      "url": "https://mx-schroeder.medium.com/opening-a-gate-to-hell-the-1989-san-bernardino-usa-derailment-pipeline-fire-4e9ad22fcb07",
+      "accessedAt": "2026-01-24",
+      "claimsVerified": [
+        "Two additional deaths in pipeline fire",
+        "11 more houses destroyed",
+        "21 cars destroyed",
+        "$14.3 million total damage",
+        "Duffy Street south side rezoned as open space"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": [],
+    "factCheckNotes": "All major facts verified. Date May 12, 1989 confirmed. Crew names and ages verified: Frank Holland (33, engineer), Everett Crown (35, conductor), Allan Riess (43, brakeman). Crown and Riess died in derailment along with Jason Thompson (10) and Tyson White (7). Weight miscalculation confirmed: clerk estimated 6,151 tons, actual 8,900 tons. Train reached 110 mph on 35 mph curve. Pipeline rupture May 25, 1989 at 8:05 a.m. confirmed. Fire burned ~7 hours with 300-foot flames. Two more deaths in pipeline fire, 11 more houses destroyed. Total damage $14.3 million. FRA rule change about dynamic brakes confirmed. Note: Article says trona for Colombia export - could not independently verify Colombia as destination, but trona use in glass manufacturing confirmed.",
+    "reviewedAt": "2026-01-24"
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "edwards-air-force-base-wp",
+      "title": "Edwards Air Force Base",
+      "tile": "9qhn",
+      "coordinates": {
+        "lat": 34.90555555555555,
+        "lng": -117.88361111111112
+      },
+      "distanceKm": 51.3
+    },
+    "n": {
+      "id": "calico-ghost-town-wk",
+      "title": "Calico: The Ghost Town Walter Knott Saved",
+      "tile": "9qhy",
+      "coordinates": {
+        "lat": 34.9453,
+        "lng": -116.8675
+      },
+      "distanceKm": 64.8
+    },
+    "ne": {
+      "id": "amboy-crater-volcano-wk",
+      "title": "Amboy Crater: The Perfect Volcano Hiding on Route 66",
+      "tile": "9qjs",
+      "coordinates": {
+        "lat": 34.5581,
+        "lng": -115.7882
+      },
+      "distanceKm": 86.1
+    },
+    "w": {
+      "id": "mount-lowe-railway-wp",
+      "title": "Mount Lowe Railway",
+      "tile": "9qh4",
+      "coordinates": {
+        "lat": 34.211111111111116,
+        "lng": -118.12055555555555
+      },
+      "distanceKm": 32
+    },
+    "e": {
+      "id": "pioneertown-california-wp",
+      "title": "Pioneertown, California",
+      "tile": "9qj4",
+      "coordinates": {
+        "lat": 34.154444444444444,
+        "lng": -116.49861111111112
+      },
+      "distanceKm": 20.6
+    },
+    "sw": {
+      "id": "disneyland-railroad-wp",
+      "title": "Disneyland Railroad",
+      "tile": "9qh0",
+      "coordinates": {
+        "lat": 33.8099,
+        "lng": -117.919
+      },
+      "distanceKm": 18.6
+    },
+    "s": {
+      "id": "bell-canyon-wp",
+      "title": "Bell Canyon",
+      "tile": "9mur",
+      "coordinates": {
+        "lat": 33.66416666666667,
+        "lng": -117.47277777777778
+      },
+      "distanceKm": 35.8
+    },
+    "se": {
+      "id": "palm-springs-oasis-wk",
+      "title": "Palm Springs: The Desert Oasis of Midcentury Dreams",
+      "tile": "9qj0",
+      "coordinates": {
+        "lat": 33.8303,
+        "lng": -116.5453
+      },
+      "distanceKm": 19.2
+    }
+  },
+  "keywords": [
+    "san-bernardino-train-disaster"
+  ]
+}

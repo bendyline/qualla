@@ -1,0 +1,156 @@
+{
+  "id": "edmonds-wk",
+  "source": "wikivoyage",
+  "sourceId": "10625",
+  "title": "Edmonds",
+  "slug": "edmonds",
+  "summary": "The Puget Sound ferry town charming enough for Rick Steves - where ferries depart for the Kitsap Peninsula, trains roll through on their way to everywhere, and a walkable downtown faces the water that defines Pacific Northwest life.",
+  "content": {
+    "intro": "Rick Steves could live anywhere. The travel guru who taught America to pack light and explore Europe has built his empire from this small waterfront city north of Seattle, and there's a reason he stayed. Edmonds is what Puget Sound towns looked like before tech money homogenized them - a walkable downtown facing the water, ferries churning toward the Kitsap Peninsula, Amtrak trains pausing at a station steps from the beach. The city of 40,000 manages to feel like a seaside village, its main street lined with galleries and cafes rather than chain stores, its parks offering views across the Sound to the Olympic Mountains.",
+    "sections": [
+      {
+        "title": "The Ferry Town",
+        "body": "The Edmonds-Kingston ferry runs every 30 minutes in peak hours, carrying commuters and tourists between Puget Sound's eastern and western shores. The crossing takes about 30 minutes, time enough to step outside on the car deck and watch the mountains materialize from the marine haze - the Olympics to the west, the Cascades to the east, with the city's modest skyline receding behind. The ferry dock sits at the end of Main Street, anchoring the town's orientation toward water. Everything flows toward this connection point: restaurants cluster within walking distance, the train station sits adjacent, the beach parks spread along the shoreline. Edmonds exists because of transportation, first the Great Northern Railway, now the ferries and trains that make it a viable commuter suburb with small-town character."
+      },
+      {
+        "title": "Underwater Treasures",
+        "body": "The cold waters of Puget Sound don't invite casual swimming, but divers have discovered something remarkable off Edmonds: the Underwater Park, one of the best shore dives in Washington. Artificial reefs, sunken structures, and the natural bottom topography combine to create a marine sanctuary where divers can encounter giant Pacific octopus, wolf eels, and schools of rockfish. The diving isn't for everyone - visibility varies, currents can be tricky, and the water temperature rarely exceeds 50 degrees. But for those willing to don drysuits, the marine life rivals anything in warmer seas. It's a fitting metaphor for Edmonds itself: beneath the charming surface, something unexpected."
+      },
+      {
+        "title": "Main Street Character",
+        "body": "Downtown Edmonds feels like what urban planners dream about - a genuine main street that survived the mall era, where local businesses thrive in storefronts that face the water. Galleries show regional artists. Bookstores remain viable. Restaurants range from white-tablecloth to casual waterfront. The city deliberately preserved this character, blocking big-box stores and fast-food chains from the core while investing in streetscapes and public spaces. Rick Steves' travel empire operates from an office here, his tours departing for Europe and his philosophy of thoughtful travel embodied in his hometown. Whether Edmonds shaped Steves or Steves shaped Edmonds is an open question, but they seem well suited to each other."
+      },
+      {
+        "title": "The Sound Connection",
+        "body": "Puget Sound defines everything about Edmonds - the weather, the views, the transportation, the character. The city is one of the few Seattle-area business districts that actually faces the water, rather than building up behind a seawall or industrial waterfront. The result is a constant awareness of the Sound's moods: gray winter days when fog erases the Olympics, summer evenings when the mountains turn pink at sunset, the ferry horns that punctuate the hours. Three major transportation corridors converge here - the ferries, the trains, and I-5 running just east of town. It's a crossroads dressed as a village, a commuter node that remembers to look at the view."
+      }
+    ],
+    "flightContext": "Located at 47.81°N, 122.36°W on the eastern shore of Puget Sound, between Seattle and Everett. The ferry terminal is prominent from altitude, with ferries visible on the Kingston crossing. Amtrak's Cascades and Empire Builder routes pass through Edmonds station. The town occupies a narrow strip between the Sound and the bluffs rising to the east. Paine Field (KPAE) in Everett lies 7nm north; Boeing Field (KBFI) is 15nm south. The Olympics form the western horizon; the Cascades including Mount Baker are visible to the east and north. Typical marine weather patterns with fog common in morning hours."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 47.807869,
+      "lng": -122.360133
+    },
+    "geohash": "c22zz"
+  },
+  "categories": [
+    "washington",
+    "puget-sound",
+    "ferry",
+    "small-town",
+    "waterfront"
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-22T00:00:00Z",
+    "wordCount": 680,
+    "readTime": 4,
+    "firstPublished": "2026-01-22T00:00:00Z",
+    "storyNumber": 1358
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Rick Steves Europe - Edmonds",
+      "url": "https://www.ricksteves.com/about-us/how-to-find-us",
+      "accessedAt": "2026-01-22",
+      "claimsVerified": [
+        "Rick Steves headquarters in Edmonds since 1976",
+        "Edmonds-Kingston ferry",
+        "Underwater Park diving"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": [
+      "what Puget Sound towns looked like before tech money homogenized them"
+    ]
+  },
+  "locationWikipediaPath": "c/2/2/z/edmonds-washington-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "victoria-city-wk",
+      "title": "Victoria: The British Columbia Capital More British Than Britain",
+      "tile": "c287",
+      "coordinates": {
+        "lat": 48.4284,
+        "lng": -123.3656
+      },
+      "distanceKm": 54.3
+    },
+    "n": {
+      "id": "whidbey-island-wk",
+      "title": "Whidbey Island",
+      "tile": "c28c",
+      "coordinates": {
+        "lat": 48.136,
+        "lng": -122.582
+      },
+      "distanceKm": 17.1
+    },
+    "ne": {
+      "id": "mount-baker-wk",
+      "title": "Mount Baker",
+      "tile": "c29m",
+      "coordinates": {
+        "lat": 48.777,
+        "lng": -121.813
+      },
+      "distanceKm": 88.7
+    },
+    "w": {
+      "id": "hurricane-ridge-wp",
+      "title": "Hurricane Ridge",
+      "tile": "c282",
+      "coordinates": {
+        "lat": 47.924456,
+        "lng": -123.3519333
+      },
+      "distanceKm": 31.8
+    },
+    "e": {
+      "id": "snoqualmie-valley-wk",
+      "title": "Snoqualmie Valley",
+      "tile": "c23r",
+      "coordinates": {
+        "lat": 47.67677,
+        "lng": -121.93854
+      },
+      "distanceKm": 6.7
+    },
+    "sw": {
+      "id": "astoria-end-of-trail-wk",
+      "title": "Astoria: Where Lewis and Clark Finally Saw the Pacific",
+      "tile": "c0py",
+      "coordinates": {
+        "lat": 46.1879,
+        "lng": -123.8313
+      },
+      "distanceKm": 153.6
+    },
+    "s": {
+      "id": "vashon-island-wk",
+      "title": "Vashon Island",
+      "tile": "c22v",
+      "coordinates": {
+        "lat": 47.4161,
+        "lng": -122.468
+      },
+      "distanceKm": 6.3
+    },
+    "se": {
+      "id": "naches-trail-wp",
+      "title": "Naches Trail",
+      "tile": "c23e",
+      "coordinates": {
+        "lat": 47.10419,
+        "lng": -121.46894
+      },
+      "distanceKm": 56
+    }
+  },
+  "keywords": [
+    "edmonds"
+  ]
+}

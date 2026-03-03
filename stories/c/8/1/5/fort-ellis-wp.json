@@ -1,0 +1,176 @@
+{
+  "id": "fort-ellis-wp",
+  "source": "wikipedia",
+  "sourceId": "12636362",
+  "title": "Fort Ellis",
+  "slug": "fort-ellis",
+  "summary": "A frontier outpost that guarded settlers, launched Yellowstone expeditions, and shaped the destiny of Bozeman before vanishing into farmland and university grounds.",
+  "content": {
+    "intro": "The name honors a man who never set foot in Montana. Colonel Augustus van Horne Ellis fell at Gettysburg in 1863, and four years later, soldiers in the Gallatin Valley would salute his memory each morning as they raised the flag over a rough collection of log buildings three miles east of Bozeman. Fort Ellis stood at a crossroads of frontier ambition: to its west, settlers carved farms from the valley floor; to its south, the geysers and hot springs of a wilderness that would soon become America's first national park waited to be mapped and protected.",
+    "sections": [
+      {
+        "title": "Gateway to the Unknown",
+        "body": "Fort Ellis became the staging ground for some of the most consequential expeditions of the American West. In 1870, Lieutenant Gustavus C. Doane led five cavalrymen to escort the Washburn-Langford-Doane Expedition into the Yellowstone wilderness. Their reports of geysers, hot springs, and canyon grandeur would help convince Congress to protect the area as a national park two years later. Doane returned repeatedly, guiding expeditions in 1871 and 1875, and even attempting an ill-fated Snake River exploration in 1876. Photographer W.H. Jackson worked from the fort's base camp, capturing images that brought the wonders of Yellowstone to Americans who would never see them firsthand."
+      },
+      {
+        "title": "Warriors and Conflict",
+        "body": "The fort's garrison played grim roles in the Indian Wars. In January 1870, Major Eugene M. Baker led Second Cavalry troops from these grounds against the Piegan Blackfeet, an operation that culminated in the Marias Massacre along the Marias River. Six years later, Colonel John Gibbon departed with 400 men of the Montana Column during the Great Sioux War of 1876-77. These same troops participated in the Nez Perce War of 1877. Five troops of the 2nd Cavalry Regiment and companies from the 7th Infantry Regiment rotated through the garrison, their presence a constant reminder of the violent collision between expanding settlement and indigenous nations."
+      },
+      {
+        "title": "Uneasy Neighbors",
+        "body": "The relationship between Fort Ellis and Bozeman proved complicated. Soldiers brought federal payroll dollars that the town's merchants eagerly pursued, yet the garrison also brought conflict. On December 11 and 14, 1867, troops from the 13th Infantry destroyed buildings in town that were illegally selling alcohol to soldiers. Throughout its nineteen-year existence, the fort's records document criminal behavior and fierce competition for army contracts. Settlers depended on military protection but chafed under military authority, a tension common to frontier garrisons across the West."
+      },
+      {
+        "title": "The Land Reclaimed",
+        "body": "When the Northern Pacific Railroad reached Bozeman in 1883, the fort's strategic importance evaporated. Locals petitioned to open its 26,000 acres of prime agricultural land to private settlement. Generals Sherman and Sheridan, under pressure to reduce costs, agreed. Fort Ellis closed on August 2, 1886. The Montana Militia used the parade ground for a time, and Bozeman citizens gradually salvaged the buildings for lumber. By August 1924, the Commanding Officer's two-story quarters still stood among scattered remnants. Today, the land belongs to Montana State University, which maintains the fort's archives and drawings as a window into the frontier past that shaped this valley."
+      }
+    ],
+    "flightContext": "Located at 45.654N, 110.976W, approximately 3 miles east of downtown Bozeman. The former fort site is now part of Montana State University agricultural research lands. Look for the distinctive layout of the Gallatin Valley with the Bridger Range to the north and the Spanish Peaks to the south. Nearest airports: Bozeman Yellowstone International (KBZN) 8 miles northwest. Best viewed at 3,000-5,000 feet AGL for valley context."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 45.654444,
+      "lng": -110.976389
+    },
+    "geohash": "c815d"
+  },
+  "categories": [
+    "Forts in Montana",
+    "Indian Wars",
+    "Yellowstone History",
+    "Historical Sites"
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-26T00:00:00Z",
+    "wordCount": 687,
+    "readTime": 4,
+    "firstPublished": "2026-01-26T00:00:00Z",
+    "storyNumber": 1683
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - Fort Ellis",
+      "url": "https://en.wikipedia.org/wiki/Fort_Ellis",
+      "accessedAt": "2026-01-26",
+      "claimsVerified": [
+        "Fort established August 27, 1867",
+        "Named for Colonel Augustus van Horne Ellis killed at Gettysburg 1863",
+        "Fort closed August 2, 1886",
+        "Northern Pacific Railroad reached Bozeman in 1883",
+        "26,000 acres military reservation"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Wikipedia - Washburn-Langford-Doane Expedition",
+      "url": "https://en.wikipedia.org/wiki/Washburn%E2%80%93Langford%E2%80%93Doane_Expedition",
+      "accessedAt": "2026-01-26",
+      "claimsVerified": [
+        "1870 expedition departed from Fort Ellis",
+        "Lieutenant Gustavus C. Doane led cavalry escort",
+        "Expedition helped lead to Yellowstone National Park creation 1872"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Wikipedia - Marias Massacre",
+      "url": "https://en.wikipedia.org/wiki/Marias_Massacre",
+      "accessedAt": "2026-01-26",
+      "claimsVerified": [
+        "January 1870 massacre led by Major Eugene M. Baker",
+        "Troops departed from Fort Ellis",
+        "Attack on Piegan Blackfeet"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "butte-wk",
+      "title": "Butte",
+      "tile": "c2pv",
+      "coordinates": {
+        "lat": 46.00173,
+        "lng": -112.52094
+      },
+      "distanceKm": 84.3
+    },
+    "n": {
+      "id": "cook-folsom-peterson-expedition-wp",
+      "title": "Cook-Folsom-Peterson Expedition",
+      "tile": "c82c",
+      "coordinates": {
+        "lat": 46.59722222222222,
+        "lng": -111.4238888888889
+      },
+      "distanceKm": 88.8
+    },
+    "ne": {
+      "id": "crazy-mountains-wp",
+      "title": "Crazy Mountains",
+      "tile": "c81t",
+      "coordinates": {
+        "lat": 46.01777777777777,
+        "lng": -110.27666666666667
+      },
+      "distanceKm": 17.8
+    },
+    "w": {
+      "id": "cathedral-of-saint-helena-wp",
+      "title": "Cathedral of Saint Helena",
+      "tile": "c823",
+      "coordinates": {
+        "lat": 46.59014722222222,
+        "lng": -112.03254166666666
+      },
+      "distanceKm": 117.5
+    },
+    "e": {
+      "id": "red-lodge-montana-wp",
+      "title": "Red Lodge, Montana",
+      "tile": "c843",
+      "coordinates": {
+        "lat": 45.19333333333333,
+        "lng": -109.24861111111112
+      },
+      "distanceKm": 100.7
+    },
+    "sw": {
+      "id": "battle-of-camas-creek-wp",
+      "title": "Battle of Camas Creek",
+      "tile": "9xbk",
+      "coordinates": {
+        "lat": 44.35305555555556,
+        "lng": -111.885
+      },
+      "distanceKm": 116.3
+    },
+    "s": {
+      "id": "chico-hot-springs-wp",
+      "title": "Chico Hot Springs",
+      "tile": "c813",
+      "coordinates": {
+        "lat": 45.33777777777778,
+        "lng": -110.69222222222223
+      },
+      "distanceKm": 17.7
+    },
+    "se": {
+      "id": "beartooth-mountains-wp",
+      "title": "Beartooth Mountains",
+      "tile": "c81b",
+      "coordinates": {
+        "lat": 45.163333333333334,
+        "lng": -109.80722222222222
+      },
+      "distanceKm": 50.2
+    }
+  },
+  "keywords": [
+    "fort-ellis"
+  ]
+}

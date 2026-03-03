@@ -1,0 +1,168 @@
+{
+  "id": "sakuma-dam-wp",
+  "source": "wikipedia",
+  "sourceId": "19579284",
+  "title": "Sakuma Dam",
+  "slug": "sakuma-dam",
+  "summary": "A colossal concrete dam on the Tenryu River that was the tallest in Japan when completed in 1956, and houses a frequency converter bridging the country's split electrical grid.",
+  "content": {
+    "intro": "Japan runs on two incompatible power grids. West of the Itoigawa-Shizuoka line, electricity hums at 60 Hz. East of it, 50 Hz. This peculiarity dates back to the 1890s, when different regions imported generators from different countries, and the nation has never fully reconciled the difference. One of the critical points where east meets west is a concrete gravity dam wedged into a steep V-shaped gorge on the Tenryu River in central Honshu. Sakuma Dam stands 155.5 meters tall, a hollow-core wall of concrete that was the tallest dam in Japan when it was completed in 1956. But what makes it truly unusual is what sits one kilometer to its south: an HVDC frequency converter station that has been translating between Japan's two electrical languages since 1965.",
+    "sections": [
+      {
+        "title": "A River Harnessed",
+        "body": "The Meiji government recognized the Tenryu River's hydroelectric potential at the dawn of the twentieth century. The river ran fast and full through mountainous terrain, its upper reaches carved into steep valleys with abundant rainfall and sparse population. Yet investment initially flowed to the Oi River instead. It was not until the Taisho period that private entrepreneur Fukuzawa Momosuke founded the first power company on the Tenryu, building a string of dams upstream in Nagano Prefecture. The Yasuoka Dam arrived in 1935, the Iwakura Dam in 1938. The Hiraoka Dam started the same year but stalled when World War II intervened, not reaching completion until 1951. Each of these projects inched downstream, but the river's full potential in Shizuoka Prefecture remained untapped."
+      },
+      {
+        "title": "Postwar Ambition in Concrete",
+        "body": "After the war, American occupation authorities dissolved Japan's nationalized power monopoly, splitting it into regional companies. Chubu Electric Power inherited the upstream dams in Nagano, but the Shizuoka stretch fell to the newly created Electric Power Development Company. Armed with plans dating back to 1921 and partly funded by United Nations foreign aid loans, the company broke ground in 1952. The main contractor, Hazama Corporation, exploited the site's steep V-shaped canyon walls to build a hollow-core concrete gravity dam with central spillways. Construction proceeded at remarkable speed, completed in just four years. The reservoir's filling required relocating 240 households containing 296 families, and several stations of the Iida Line railway had to be moved as the water rose. Emperor Hirohito and Empress Kojun attended the official opening ceremonies on October 28, 1957, an event significant enough to merit a commemorative postage stamp."
+      },
+      {
+        "title": "Where East Meets West",
+        "body": "The frequency converter station installed one kilometer south of Sakuma Dam in 1965 addresses one of the strangest legacies in electrical engineering. When Japan electrified in the late nineteenth century, Tokyo imported 50 Hz generators from Germany while Osaka chose 60 Hz equipment from the United States. The divide persisted, and today the two halves of Japan still operate on incompatible frequencies. The Sakuma HVDC back-to-back station was rated at 300 MW with an operating voltage of plus or minus 125 kV, connecting the 275 kV grids on each side. It initially used mercury arc valves manufactured by ASEA. In 1993, the station was upgraded to light-triggered thyristors, installed in the same valve hall that once housed the mercury arc equipment. Each of the two inverters uses 84 thyristors to convert between frequencies, making Sakuma one of just a handful of points where power can flow between eastern and western Japan."
+      },
+      {
+        "title": "Canyon and Canoe",
+        "body": "The reservoir behind Sakuma Dam has become a popular destination for canoeing and camping, drawing visitors from nearby Hamamatsu. The surrounding area belongs to the Tenryu-Okumikawa Quasi-National Park, a landscape of forested mountain ridges and narrow gorges that feels remote despite its relative proximity to the Tokaido corridor. The dam itself feeds both the Sakuma Hydroelectric Power Station, rated at 350,000 kW, and serves as the lower reservoir for the Shin-Toyone Hydroelectric Power Station, rated at 1,200,000 kW. Together, these facilities represent one of the most productive hydroelectric complexes in Japan. The Tenryu River continues downstream through increasingly gentle terrain before emptying into the Pacific at Hamamatsu, a journey from wild mountain gorge to coastal plain that traces the full arc of a river put to work."
+      }
+    ],
+    "flightContext": "Located at 35.099N, 137.794E on the border of Aichi and Shizuoka Prefectures in mountainous central Honshu. The dam sits in a deep V-shaped gorge on the Tenryu River, visible from altitude as a dramatic concrete wall across a narrow canyon with a long reservoir stretching upstream. The surrounding terrain is heavily forested mountain ridges within the Tenryu-Okumikawa Quasi-National Park. Nearest airports include Chubu Centrair International (RJGG) about 100 km to the west and Shizuoka Airport (RJNS) about 70 km to the south. Best viewed at 5,000-8,000 feet AGL to appreciate the gorge topography and the reservoir's serpentine shape."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 35.099444444444444,
+      "lng": 137.79416666666665
+    },
+    "geohash": "xn1zx"
+  },
+  "categories": [
+    "Gravity dams",
+    "Dams in Shizuoka Prefecture",
+    "Hydroelectric power stations in Japan",
+    "Dams in Aichi Prefecture",
+    "engineering",
+    "infrastructure",
+    "history"
+  ],
+  "meta": {
+    "lastUpdated": "2026-02-16T00:00:00Z",
+    "wordCount": 780,
+    "readTime": 4,
+    "firstPublished": "2026-02-16T00:00:00Z",
+    "storyNumber": 4138
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Sakuma Dam - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sakuma_Dam",
+      "accessedAt": "2026-02-20",
+      "claimsVerified": [
+        "155.5 meters height confirmed",
+        "completed 1956 confirmed",
+        "hollow-core concrete gravity dam confirmed",
+        "Hazama Corporation as main contractor confirmed",
+        "Emperor Hirohito opening Oct 28 1957 plausible"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Milestone-Proposal: Sakuma Frequency Converter Station, 1965 - IEEE Milestones Wiki",
+      "url": "https://ieeemilestones.ethw.org/Milestone-Proposal:Sakuma_Frequency_Converter_Station,_1965",
+      "accessedAt": "2026-02-20",
+      "claimsVerified": [
+        "300 MW rating confirmed",
+        "plus or minus 125 kV operating voltage confirmed",
+        "commissioned in 1965 confirmed",
+        "mercury arc valves by ASEA confirmed",
+        "upgraded to thyristors in 1993 confirmed",
+        "western Japan 60 Hz / eastern Japan 50 Hz split confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "meiji-mura-wp",
+      "title": "Meiji-mura: The Village That Rescued an Era",
+      "tile": "xn33",
+      "coordinates": {
+        "lat": 35.340601,
+        "lng": 136.988732
+      },
+      "distanceKm": 11
+    },
+    "n": {
+      "id": "mount-ena-wp",
+      "title": "Mount Ena: Where the Sun Goddess Was Born",
+      "tile": "xn3c",
+      "coordinates": {
+        "lat": 35.44305555555555,
+        "lng": 137.59694444444446
+      },
+      "distanceKm": 12.9
+    },
+    "ne": {
+      "id": "kuon-ji-wp",
+      "title": "Kuon-ji",
+      "tile": "xn63",
+      "coordinates": {
+        "lat": 35.38192222222222,
+        "lng": 138.42484166666665
+      },
+      "distanceKm": 24.3
+    },
+    "w": {
+      "id": "chiry-juku-wp",
+      "title": "Station Thirty-Nine: Where Horses Met the Highway",
+      "tile": "xn1r",
+      "coordinates": {
+        "lat": 35.008,
+        "lng": 137.041
+      },
+      "distanceKm": 9.2
+    },
+    "e": {
+      "id": "ikawa-dam-wp",
+      "title": "Ikawa Dam",
+      "tile": "xn62",
+      "coordinates": {
+        "lat": 35.21055555555556,
+        "lng": 138.2227777777778
+      },
+      "distanceKm": 16.7
+    },
+    "sw": {
+      "id": "ise-bay-wp",
+      "title": "Ise Bay",
+      "tile": "xn1j",
+      "coordinates": {
+        "lat": 34.75,
+        "lng": 136.75
+      },
+      "distanceKm": 33.4
+    },
+    "s": {
+      "id": "lake-hamana-wp",
+      "title": "Lake Hamana",
+      "tile": "xn1v",
+      "coordinates": {
+        "lat": 34.74111111111111,
+        "lng": 137.56972222222223
+      },
+      "distanceKm": 9.3
+    },
+    "se": {
+      "id": "2009-shizuoka-earthquake-wp",
+      "title": "2009 Shizuoka Earthquake",
+      "tile": "xn4m",
+      "coordinates": {
+        "lat": 34.778,
+        "lng": 138.276
+      },
+      "distanceKm": 10.6
+    }
+  }
+}

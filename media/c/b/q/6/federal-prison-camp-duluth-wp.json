@@ -1,0 +1,32 @@
+{
+  "id": "federal-prison-camp-duluth-wp",
+  "patch": {
+    "media": {
+      "hero": {
+        "path": "_m/c/b/q/6/federal-prison-camp-duluth-wp/hero.png",
+        "filename": "Usa edcp relief location map.png",
+        "caption": "Relief location map of the USA (without Hawaii and Alaska).\nEquiDistantConicProjection :\nCentral  parallel :\n\n* N: 37.0° N\n\nCentral meridian :\n\n* E: 96.0° W\n\nStandard parallels:\n\n* 1: 32.0° N\n* 2: 42.0° N\n\nMade with Natural Earth. Free vector and raster map data @ naturalearthdata.com.\nFormulas for x and y:\n\nx = 50.0 + 124.03149777329222 * ((1.9694462586094064-({{{2}}}* pi / 180))\n      * sin(0.6010514667026994 * ({{{3}}} + 96) * pi / 180))\ny = 50.0 + 1.6155950752393982 * 124.03149777329222 * 0.02613325650382181\n      - 1.6155950752393982  * 124.03149777329222 *\n     (1.3236744353715044  - (1.9694462586094064-({{{2}}}* pi / 180)) \n      * cos(0.6010514667026994 * ({{{3}}} + 96) * pi / 180))",
+        "alt": "Relief location map of the USA (without Hawaii and Alaska).\nEquiDistantConicProjection :\nCentral  parallel :\n\n* N: 37.0° N\n\nCentral meridian :\n\n* E: 96.0° W\n\nStandard parallels:\n\n* 1: 32.0° N\n* 2: 42.0° N\n\nMade with Natural Earth. Free vector and raster map data @ naturalearthdata.com.\nFormulas for x and y:\n\nx = 50.0 + 124.03149777329222 * ((1.9694462586094064-({{{2}}}* pi / 180))\n      * sin(0.6010514667026994 * ({{{3}}} + 96) * pi / 180))\ny = 50.0 + 1.6155950752393982 * 124.03149777329222 * 0.02613325650382181\n      - 1.6155950752393982  * 124.03149777329222 *\n     (1.3236744353715044  - (1.9694462586094064-({{{2}}}* pi / 180)) \n      * cos(0.6010514667026994 * ({{{3}}} + 96) * pi / 180))",
+        "width": 1181,
+        "height": 731,
+        "mimeType": "image/png",
+        "license": "CC BY-SA 3.0",
+        "artist": "Uwe Dedering",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Usa_edcp_relief_location_map.png",
+        "sourceType": "core",
+        "sourceArticleId": "federal-prison-camp-duluth-wp",
+        "sourceGeohash4": "cbq6",
+        "accessedAt": "2026-02-07T15:43:09.679Z",
+        "smallPath": "_m/c/b/q/6/federal-prison-camp-duluth-wp/hero-small.jpg"
+      },
+      "narration": [
+        "_m/c/b/q/6/federal-prison-camp-duluth-wp/cbq6-federal-prison-camp-duluth-flight-context.mp3",
+        "_m/c/b/q/6/federal-prison-camp-duluth-wp/cbq6-federal-prison-camp-duluth-intro.mp3",
+        "_m/c/b/q/6/federal-prison-camp-duluth-wp/cbq6-federal-prison-camp-duluth-from-interceptors-to-inmates.mp3",
+        "_m/c/b/q/6/federal-prison-camp-duluth-wp/cbq6-federal-prison-camp-duluth-country-club-behind-razor-wire.mp3",
+        "_m/c/b/q/6/federal-prison-camp-duluth-wp/cbq6-federal-prison-camp-duluth-aging-infrastructure-on-the-lakeshore.mp3",
+        "_m/c/b/q/6/federal-prison-camp-duluth-wp/cbq6-federal-prison-camp-duluth-a-view-of-the-planes.mp3"
+      ]
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "id": "bainbridge-island-wk",
+  "source": "wikipedia",
+  "sourceId": "2351",
+  "title": "Bainbridge Island",
+  "slug": "bainbridge-island",
+  "summary": "A 35-minute ferry ride from Seattle to an island of rolling hills, artists' studios, and the gentle rhythm of life lived between boats.",
+  "content": {
+    "intro": "The ferry pulls away from downtown Seattle, the city skyline receding behind as the M/V Wenatchee - or Tacoma, or Spokane, whichever vessel is running today - churns across Elliott Bay. Thirty-five minutes later, you step off in Winslow and into a different world. Bainbridge Island sits close enough to Seattle for daily commuting yet feels genuinely removed, a place where the ferry schedule still shapes the day's rhythm and where eagles outnumber stoplights. The island was a poets' commune in the 1970s and 1980s, when artists, musicians, and writers retreated here seeking inspiration in the quiet. That creative spirit persists, visible in galleries, coffeehouses, and the improv troupe that performs at the local arts center.",
+    "sections": [
+      {
+        "title": "The Ferry Commute",
+        "body": "No bridge connects Bainbridge Island to the mainland - only the ferries that run throughout the day between the island and Seattle's downtown terminal. This maritime commute has become iconic, the stuff of tourism brochures and lifestyle articles, but for residents it's simply the way to work.\n\nThe boats themselves are floating communities. Regular commuters claim favorite seats, recognize fellow travelers, read or work or simply watch the water slip past. On clear mornings, Mount Rainier rises above the southern horizon. On cloudy days, the city emerges from mist like a developing photograph. Either way, the crossing offers a decompression that no highway can match - a forced pause between the intensity of the city and the calm of the island."
+      },
+      {
+        "title": "Winslow and Beyond",
+        "body": "The ferry docks at the island's eastern shore, where the village of Winslow clusters around the terminal. A short walk brings you to the town center - restaurants, galleries, a bookstore, coffee shops where regulars linger over cups, and the kind of small-town retail that thrives when competition is a ferry ride away.\n\nBeyond Winslow, the island spreads across 28 square miles of rolling terrain. Roads wind past farms, forests, and waterfront estates. Battle Point Park offers baseball fields and open meadows. The Bloedel Reserve provides 150 acres of gardens and forest preserves, a legacy of lumber wealth turned to horticultural beauty. In summer, bicyclists take over the ferry, arriving for the annual Chilly Hilly ride or simply to explore the quiet roads."
+      },
+      {
+        "title": "Water on All Sides",
+        "body": "Island life means water everywhere. Sea kayakers launch from public beaches to explore the intricate coastline, paddling past harbor seals hauled out on rocks and great blue herons fishing the shallows. The island's many bays and inlets create miles of protected paddling, suitable for beginners and experts alike.\n\nFort Ward State Park, on the island's southern tip, has been named to the Great Audubon Birding Trail, one of the few sites in the region to earn the designation. The park sits along a major migration flyway, drawing birders who track the seasonal arrivals and departures of species traveling between Alaska and Patagonia. Underwater, the cold waters of Puget Sound harbor giant Pacific octopus, colorful anemones, and the other creatures that make this region a world-class destination for cold-water diving."
+      },
+      {
+        "title": "The Weight of History",
+        "body": "Bainbridge Island carries a darker history that many visitors never learn. In 1942, residents of Japanese descent were among the first in the nation to be forcibly removed under Executive Order 9066. The Japanese American Exclusion Memorial, located where the ferry once departed carrying 227 islanders to internment camps, ensures this history isn't forgotten.\n\nBefore European settlement, the Suquamish people used these waters for fishing and gathering. Chief Seattle - for whom the city across the water is named - was born on nearby Blake Island, visible from Bainbridge's shores. The island's Salish name has been lost, but the waters remain, connecting past and present across the same currents that carried cedar canoes and now carry ferries painted green and white."
+      }
+    ],
+    "flightContext": "Located at 47.65N, 122.53W in Puget Sound, directly west of downtown Seattle. The island is clearly visible from altitude, roughly 10 miles long and 5 miles wide, separated from Seattle by about 8 miles of water. Look for the Washington State Ferry routes crossing Elliott Bay - the ferries are large, distinctive vessels making regular crossings. The Agate Pass Bridge connects the island's northern tip to the Kitsap Peninsula. Eagle Harbor indents the eastern shore near the ferry terminal at Winslow. Seattle-Tacoma International Airport (KSEA) is approximately 20 miles to the southeast."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 47.65429,
+      "lng": -122.53498
+    },
+    "geohash": "c22z5"
+  },
+  "categories": [
+    "island",
+    "washington",
+    "ferry",
+    "kayaking",
+    "seattle-area"
+  ],
+  "editorial": {
+    "spiciness": 3,
+    "strongOpinions": [
+      "Bainbridge Island carries a darker history that many visitors never learn"
+    ]
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Bainbridge Island - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bainbridge_Island,_Washington",
+      "accessedAt": "2026-01-16",
+      "claimsVerified": [
+        "35-minute ferry",
+        "1942 Japanese internment",
+        "227 islanders removed"
+      ]
+    }
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-10T00:00:00Z",
+    "wordCount": 720,
+    "readTime": 4,
+    "firstPublished": "2026-01-10T00:00:00Z",
+    "storyNumber": 9
+  },
+  "locationWikipediaPath": "c/2/2/z/rolling-bay-bainbridge-island-washington-wp",
+  "locationWikivoyagePath": "c/2/2/z/bainbridge-island-wk",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "victoria-city-wk",
+      "title": "Victoria: The British Columbia Capital More British Than Britain",
+      "tile": "c287",
+      "coordinates": {
+        "lat": 48.4284,
+        "lng": -123.3656
+      },
+      "distanceKm": 54.3
+    },
+    "n": {
+      "id": "whidbey-island-wk",
+      "title": "Whidbey Island",
+      "tile": "c28c",
+      "coordinates": {
+        "lat": 48.136,
+        "lng": -122.582
+      },
+      "distanceKm": 17.1
+    },
+    "ne": {
+      "id": "mount-baker-wk",
+      "title": "Mount Baker",
+      "tile": "c29m",
+      "coordinates": {
+        "lat": 48.777,
+        "lng": -121.813
+      },
+      "distanceKm": 88.7
+    },
+    "w": {
+      "id": "hurricane-ridge-wp",
+      "title": "Hurricane Ridge",
+      "tile": "c282",
+      "coordinates": {
+        "lat": 47.924456,
+        "lng": -123.3519333
+      },
+      "distanceKm": 31.8
+    },
+    "e": {
+      "id": "snoqualmie-valley-wk",
+      "title": "Snoqualmie Valley",
+      "tile": "c23r",
+      "coordinates": {
+        "lat": 47.67677,
+        "lng": -121.93854
+      },
+      "distanceKm": 6.7
+    },
+    "sw": {
+      "id": "astoria-end-of-trail-wk",
+      "title": "Astoria: Where Lewis and Clark Finally Saw the Pacific",
+      "tile": "c0py",
+      "coordinates": {
+        "lat": 46.1879,
+        "lng": -123.8313
+      },
+      "distanceKm": 153.6
+    },
+    "s": {
+      "id": "vashon-island-wk",
+      "title": "Vashon Island",
+      "tile": "c22v",
+      "coordinates": {
+        "lat": 47.4161,
+        "lng": -122.468
+      },
+      "distanceKm": 6.3
+    },
+    "se": {
+      "id": "naches-trail-wp",
+      "title": "Naches Trail",
+      "tile": "c23e",
+      "coordinates": {
+        "lat": 47.10419,
+        "lng": -121.46894
+      },
+      "distanceKm": 56
+    }
+  },
+  "keywords": [
+    "bainbridge-island"
+  ]
+}

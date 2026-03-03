@@ -1,0 +1,154 @@
+{
+  "id": "gig-harbor-wk",
+  "source": "wikipedia",
+  "sourceId": "12702",
+  "title": "Gig Harbor",
+  "slug": "gig-harbor",
+  "summary": "A postcard-perfect harbor town where Scandinavian fishing heritage meets Mount Rainier views and the Tacoma Narrows Bridge delivers visitors to a hidden corner of Puget Sound.",
+  "content": {
+    "intro": "The harbor curves inward like a sheltering arm, boats bobbing at their moorings, and beyond them - on clear days - Mount Rainier rises in white majesty. This is Gig Harbor, a fishing village turned getaway destination on the Kitsap Peninsula, just across the Tacoma Narrows Bridge from Tacoma. Scandinavian and Croatian immigrants built this town around its namesake harbor, establishing the nautical traditions that persist in the pleasure craft that now outnumber the fishing boats. Today specialty shops, galleries, and waterfront restaurants draw visitors who arrive by bridge, by bus, or by boat, seeking the small-town charm that feels increasingly rare in the urbanizing Pacific Northwest.",
+    "sections": [
+      {
+        "title": "Across the Narrows",
+        "body": "The Tacoma Narrows Bridge delivers visitors to Gig Harbor in dramatic fashion. The current span replaced 'Galloping Gertie,' the original bridge whose spectacular 1940 collapse became one of the most famous engineering failures in history - footage of the bridge twisting in the wind before falling into the Sound remains standard viewing in physics classrooms. The replacement bridges (a second span was added in 2007) are more stable if less photogenic, and the first four exits after crossing lead to various parts of Gig Harbor.\n\nThe bridge makes the town a practical day trip from Tacoma and the Seattle metro area, close enough for an afternoon of wandering the waterfront yet far enough to feel like an escape. The drive from Seattle takes about an hour, less from Tacoma, and the payoff is a harbor town that has managed to retain its character despite its accessibility."
+      },
+      {
+        "title": "Fishing Village Roots",
+        "body": "Scandinavian and Croatian immigrants settled Gig Harbor in the late 19th century, drawn by the protected waters and abundant fishing. Their heritage persists in the town's maritime character - the working waterfront, the boat-building traditions, the relationship between town and water that defines daily life. Commercial fishing has declined, but the culture it created remains.\n\nThe harbor itself is the heart of everything. Boats moor at the marinas and along private docks. The Shoreline Restaurant and Tides Tavern offer floats for patrons arriving by water. Kayakers launch from public access points to explore the inlet and the broader waters of Puget Sound. The town's shops and galleries cluster around the waterfront, accessible on foot to anyone who can find parking - which can be a challenge on summer weekends."
+      },
+      {
+        "title": "Cold Water Adventures",
+        "body": "Gig Harbor has become a destination for sea kayaking, with miles of Kitsap Peninsula coastline to explore. Thick forests line the shores, interspersed with harbor towns where paddlers can land for supplies or a meal. The cold, clean waters support the shellfish that have fed residents for millennia - public beaches allow harvesting with proper permits, continuing traditions that predate European settlement.\n\nScuba diving draws enthusiasts to the nutrient-rich waters, where visibility may be limited but marine life abounds. Giant Pacific octopus, wolf eels, and colorful invertebrates reward divers willing to handle the cold. The same waters that challenged the fishing crews now offer recreation for those equipped with the right gear and training."
+      },
+      {
+        "title": "Gateway to the Peninsula",
+        "body": "Gig Harbor sits at the southern gateway to both the Kitsap Peninsula and, beyond it, the Olympic Peninsula. State Route 16 continues north toward Bremerton and the Hood Canal Bridge; by water, boaters can reach destinations throughout Puget Sound. Fox Island lies 6.8 nautical miles away; Seattle's Shilshole Bay Marina is 24 nautical miles distant.\n\nCloser to town, Kopachuck State Park offers camping and moorage on the Key Peninsula to the west. The view of Mount Rainier from the harbor provides a constant reminder of the volcanic forces that shaped this landscape. And the bridge arcing back toward Tacoma reminds visitors that this escape, however complete it feels, remains within easy reach of the city."
+      }
+    ],
+    "flightContext": "Located at 47.33N, 122.59W on the Kitsap Peninsula, immediately west of the Tacoma Narrows Bridge. The harbor is a distinctive curved inlet clearly visible from altitude, with boats moored throughout. Look for the twin spans of the Tacoma Narrows Bridge connecting to Tacoma to the east. Mount Rainier dominates the southeastern horizon on clear days. Tacoma Narrows Airport (KTIW) is a general aviation field just south of downtown. Seattle-Tacoma International Airport (KSEA) is approximately 25 miles northeast. The Key Peninsula extends to the southwest; Fox Island is visible to the south."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 47.3269,
+      "lng": -122.5863
+    },
+    "geohash": "c22v4"
+  },
+  "categories": [
+    "town",
+    "washington",
+    "harbor",
+    "boating",
+    "fishing-village"
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Gig Harbor, Washington - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gig_Harbor,_Washington",
+      "accessedAt": "2026-01-16",
+      "claimsVerified": [
+        "Tacoma Narrows Bridge 1940 collapse",
+        "Scandinavian heritage"
+      ]
+    }
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-10T00:00:00Z",
+    "wordCount": 740,
+    "readTime": 4,
+    "firstPublished": "2026-01-10T00:00:00Z",
+    "storyNumber": 35
+  },
+  "locationWikipediaPath": "c/2/2/v/gig-harbor-washington-wp",
+  "locationWikivoyagePath": "c/2/2/v/gig-harbor-wk",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "hurricane-ridge-wp",
+      "title": "Hurricane Ridge",
+      "tile": "c282",
+      "coordinates": {
+        "lat": 47.924456,
+        "lng": -123.3519333
+      },
+      "distanceKm": 39.3
+    },
+    "n": {
+      "id": "bainbridge-island-wk",
+      "title": "Bainbridge Island",
+      "tile": "c22z",
+      "coordinates": {
+        "lat": 47.65429,
+        "lng": -122.53498
+      },
+      "distanceKm": 2.3
+    },
+    "ne": {
+      "id": "snoqualmie-valley-wk",
+      "title": "Snoqualmie Valley",
+      "tile": "c23r",
+      "coordinates": {
+        "lat": 47.67677,
+        "lng": -121.93854
+      },
+      "distanceKm": 6
+    },
+    "w": {
+      "id": "olympic-peninsula-wk",
+      "title": "Olympic Peninsula",
+      "tile": "c22p",
+      "coordinates": {
+        "lat": 47.802,
+        "lng": -123.604
+      },
+      "distanceKm": 63.4
+    },
+    "e": {
+      "id": "north-bend-washington-wk",
+      "title": "North Bend, Washington",
+      "tile": "c23q",
+      "coordinates": {
+        "lat": 47.493889,
+        "lng": -121.786111
+      },
+      "distanceKm": 20.5
+    },
+    "sw": {
+      "id": "astoria-end-of-trail-wk",
+      "title": "Astoria: Where Lewis and Clark Finally Saw the Pacific",
+      "tile": "c0py",
+      "coordinates": {
+        "lat": 46.1879,
+        "lng": -123.8313
+      },
+      "distanceKm": 118.7
+    },
+    "s": {
+      "id": "olympia-washington-wk",
+      "title": "Olympia (Washington)",
+      "tile": "c22e",
+      "coordinates": {
+        "lat": 47.042,
+        "lng": -122.893
+      },
+      "distanceKm": 29.3
+    },
+    "se": {
+      "id": "cascade-range-wp",
+      "title": "Cascade Range",
+      "tile": "c236",
+      "coordinates": {
+        "lat": 46.8528267,
+        "lng": -121.7604408
+      },
+      "distanceKm": 33.5
+    }
+  },
+  "keywords": [
+    "gig-harbor"
+  ]
+}

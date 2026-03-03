@@ -1,0 +1,163 @@
+{
+  "id": "lisbon-earthquake-wk",
+  "source": "wikipedia",
+  "sourceId": "43502",
+  "title": "The Lisbon Earthquake: The Disaster That Made Philosophers Question God",
+  "slug": "lisbon-earthquake",
+  "summary": "Where a magnitude 8.5 earthquake struck on All Saints' Day 1755, destroying churches filled with worshippers, killing 60,000 people, and forcing Europe to rethink divine providence.",
+  "content": {
+    "intro": "At 9:40 AM on November 1, 1755 - All Saints' Day - the most devout people in one of Europe's most devout cities were in church. Then the earthquake struck. Magnitude 8.5, the most powerful ever to hit Western Europe. Churches collapsed on congregations. Fires broke out from overturned candles. Survivors fled to the harbor, where a tsunami swept them away. In one morning, Lisbon was destroyed and 60,000 people were dead. Europe's philosophers were left to explain why God had chosen to destroy a city on a holy day, in churches, while its faithful prayed. For many, the answer was that God hadn't chosen anything. The Age of Enlightenment had found its defining catastrophe.",
+    "sections": [
+      {
+        "title": "The Morning",
+        "body": "November 1 was All Saints' Day - one of the holiest days in the Catholic calendar. The churches of Lisbon, a deeply religious city and capital of a global empire, were packed with worshippers. Candles burned on every altar. Incense filled the air. The faithful were at prayer.\n\nAt 9:40 AM, the ground began to shake. The tremors lasted between three and six minutes - accounts vary. Churches, built of heavy stone, collapsed inward on their congregations. The hundreds of candles, knocked from their holders, ignited the wreckage. People who escaped the collapse found themselves trapped in flames."
+      },
+      {
+        "title": "The Fires",
+        "body": "The earthquake sparked fires throughout the city. In the narrow medieval streets, flames jumped from building to building. The fires merged into a single conflagration that burned for five days. What the earthquake had left standing, the fire consumed.\n\nSurvivors fled toward open spaces - the squares, the gardens, the harbor. But even the harbor offered no safety. Forty minutes after the earthquake, the first of three tsunamis struck. Waves up to 20 feet high swept up the Tagus River, drowning thousands who had gathered on the quays."
+      },
+      {
+        "title": "The Scale",
+        "body": "The destruction was almost total. An estimated 85% of Lisbon's buildings were destroyed. The royal palace, the libraries, the archives, the opera house - all gone. The earthquake, fires, and tsunami killed an estimated 30,000 to 60,000 people in a city of 200,000.\n\nThe disaster was felt across Europe and North Africa. Tsunamis struck the coasts of Morocco and Spain. The earthquake was felt in Hamburg, 1,500 miles away. Church bells rang in Finland from the vibrations. It was the most powerful natural disaster in recorded European history."
+      },
+      {
+        "title": "The Question",
+        "body": "The timing of the disaster forced uncomfortable questions. Why had God destroyed churches on All Saints' Day? Why had the devout been killed at prayer while the brothels of the Alfama district - built on solid rock - survived? The traditional answer - that disasters were divine punishment for sin - seemed inadequate.\n\nVoltaire wrote a poem attacking religious optimism - the idea that 'all is for the best in the best of possible worlds.' His novel 'Candide,' published in 1759, was partly inspired by Lisbon. Philosophers across Europe debated the meaning of a disaster that seemed to mock the faithful. The Lisbon earthquake became a turning point in the development of secular thought."
+      },
+      {
+        "title": "The Rebuilding",
+        "body": "The Marquis of Pombal, Portugal's prime minister, organized the response with ruthless efficiency. When asked what should be done, he allegedly replied, 'Bury the dead and feed the living.' He prevented looting by erecting gallows throughout the city. He organized firefighting, food distribution, and reconstruction.\n\nPombal rebuilt Lisbon along rational, Enlightenment lines - a grid of wide streets designed to resist earthquakes and allow firefighting. The 'Pombaline' buildings used an innovative anti-seismic wooden frame. The rebuilt Lisbon became a model of urban planning. The city that had questioned God rose again through human reason and engineering."
+      }
+    ],
+    "flightContext": "Lisbon (38.72N, 9.14W) lies on the north bank of the Tagus River where it empties into the Atlantic. Lisbon Portela Airport (LPPT) is 7km northeast. The earthquake zone was the Baixa (downtown), which was completely rebuilt. The Alfama district, which survived, retains its medieval layout. The rebuilt grid is visible from the air. Weather is Mediterranean - mild year-round with winter rain."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 38.7223,
+      "lng": -9.1393
+    },
+    "geohash": "eycs210vw"
+  },
+  "categories": [
+    "earthquake",
+    "tsunami",
+    "disaster",
+    "portugal",
+    "philosophy",
+    "quirky-history"
+  ],
+  "sources": [
+    {
+      "type": "verification",
+      "title": "1755 Lisbon Earthquake - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1755_Lisbon_earthquake",
+      "accessedAt": "2026-01-15",
+      "claimsVerified": [
+        "November 1 1755",
+        "magnitude 8.5",
+        "30,000-60,000 dead"
+      ]
+    }
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-15T00:00:00Z",
+    "wordCount": 900,
+    "readTime": 5,
+    "firstPublished": "2026-01-15T00:00:00Z",
+    "storyNumber": 1031
+  },
+  "editorial": {
+    "spiciness": 3,
+    "strongOpinions": [
+      "The Disaster That Made Philosophers Question God",
+      "The Age of Enlightenment had found its defining catastrophe"
+    ]
+  },
+  "locationWikipediaPath": "e/y/c/s/convent-of-the-incarnation-lisbon-wp",
+  "locationWikivoyagePath": "e/y/c/s/lisbon-wk",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "achill-island-wk",
+      "title": "Achill Island",
+      "tile": "gc8f",
+      "coordinates": {
+        "lat": 53.9589,
+        "lng": -10.0389
+      },
+      "distanceKm": 1661.3
+    },
+    "n": {
+      "id": "fatima-miracle-wk",
+      "title": "The Miracle of the Sun: When 70,000 People Saw the Sky Dance",
+      "tile": "ez1c",
+      "coordinates": {
+        "lat": 39.6299,
+        "lng": -8.6742
+      },
+      "distanceKm": 71.9
+    },
+    "ne": {
+      "id": "madrid-wk",
+      "title": "Madrid",
+      "tile": "ezjm",
+      "coordinates": {
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "distanceKm": 433.4
+    },
+    "w": {
+      "id": "tenerife-disaster-wk",
+      "title": "The Tenerife Airport Disaster: 583 Dead in Aviation's Darkest Day",
+      "tile": "eth6",
+      "coordinates": {
+        "lat": 28.4827,
+        "lng": -16.3415
+      },
+      "distanceKm": 1305.9
+    },
+    "e": {
+      "id": "seville-province-wk",
+      "title": "Seville Province",
+      "tile": "eysj",
+      "coordinates": {
+        "lat": 37.5,
+        "lng": -5.5
+      },
+      "distanceKm": 292.6
+    },
+    "sw": {
+      "id": "costa-teguise-wk",
+      "title": "Costa Teguise",
+      "tile": "etnk",
+      "coordinates": {
+        "lat": 29,
+        "lng": -13.5
+      },
+      "distanceKm": 1118.7
+    },
+    "s": {
+      "id": "tangier-wk",
+      "title": "Tangier",
+      "tile": "ey7g",
+      "coordinates": {
+        "lat": 35.7673,
+        "lng": -5.7998
+      },
+      "distanceKm": 413.2
+    },
+    "se": {
+      "id": "seville-wk",
+      "title": "Seville",
+      "tile": "eyes",
+      "coordinates": {
+        "lat": 37.3891,
+        "lng": -5.9845
+      },
+      "distanceKm": 247.8
+    }
+  },
+  "keywords": [
+    "lisbon-earthquake"
+  ]
+}

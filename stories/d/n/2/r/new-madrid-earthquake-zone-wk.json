@@ -1,0 +1,161 @@
+{
+  "id": "new-madrid-earthquake-zone-wk",
+  "source": "wikipedia",
+  "sourceId": "30287",
+  "title": "New Madrid: America's Sleeping Earthquake Monster",
+  "slug": "new-madrid-earthquake-zone",
+  "summary": "The Missouri fault that produced the largest earthquakes in recorded American history - three in 1811-12 that rang church bells in Boston, made the Mississippi run backward, and created Reelfoot Lake, all in a region that's forgotten it's dangerous.",
+  "content": {
+    "intro": "In the winter of 1811-12, the strongest earthquakes in American history struck a region that Americans have convinced themselves is earthquake-free. The New Madrid Seismic Zone rumbled three times in two months, producing magnitude 7-8 earthquakes that rang church bells in Boston, toppled chimneys in Cincinnati, and temporarily reversed the flow of the Mississippi River. A 15-mile stretch of riverbank collapsed, creating Reelfoot Lake. The land rose and fell like ocean swells. If these earthquakes happened today, they would devastate Memphis, St. Louis, and everything in between. Seismologists say they will happen again. The region keeps building as if they won't.",
+    "sections": [
+      {
+        "title": "The Earthquakes",
+        "body": "The New Madrid sequence began December 16, 1811, with a magnitude estimated at 7.5. Aftershocks continued for months. A second major earthquake struck January 23, 1812 (magnitude 7.3). The largest hit February 7, 1812 - perhaps magnitude 7.9, the largest earthquake in the continental United States in recorded history. Eyewitness accounts describe the ground rolling in visible waves, sulfurous gas erupting from fissures, and sand blows where pressurized groundwater exploded through the surface. The Mississippi River ran backward for several hours as earthquake-displaced land blocked its flow."
+      },
+      {
+        "title": "The Zone",
+        "body": "The New Madrid Seismic Zone is an ancient rift system buried under the Mississippi River valley - a failed continental split that occurred 500 million years ago. The rift left weakened crust that concentrates stress from distant plate boundaries. Small earthquakes occur frequently; hundreds are recorded annually. The zone extends from northeast Arkansas through southeast Missouri to southern Illinois, encompassing Memphis and threatening St. Louis. Unlike California faults, the New Madrid zone has no surface expression - the danger is invisible, buried beneath river sediments."
+      },
+      {
+        "title": "The Risk",
+        "body": "USGS estimates give the New Madrid zone a 25-40% chance of producing a magnitude 6.0+ earthquake in the next 50 years. The probability of a repeat of 1811-12 is lower but not negligible. The consequences would be catastrophic: Memphis is built on the loose sediments that amplify shaking; the city's infrastructure predates seismic building codes; gas pipelines and bridges cross the zone. Estimates suggest a major earthquake could cause 86,000 casualties and $300 billion in damage. The region has largely ignored these projections, building hospitals and schools without seismic reinforcement."
+      },
+      {
+        "title": "The Denial",
+        "body": "California earthquakes dominate American consciousness; the Midwest seems solid. This perception is dangerous. The 1811-12 earthquakes were felt across nearly a million square miles - ten times the felt area of the 1906 San Francisco earthquake. The Midwest's geology amplifies and transmits shaking; the region's unreinforced masonry buildings are extremely vulnerable. Insurance coverage is rare. Emergency planning is inadequate. The New Madrid fault sleeps, but it's not dead. When it wakes, the region will be unprepared."
+      },
+      {
+        "title": "Visiting the New Madrid Seismic Zone",
+        "body": "The New Madrid Seismic Zone has few visible features - the fault is buried too deep. The town of New Madrid, Missouri, has a historical museum interpreting the 1811-12 earthquakes. Reelfoot Lake State Park in Tennessee occupies the lake created by the earthquakes - 18,000 acres of cypress swamp and wildlife habitat. The lake's flooded forest is eerie and beautiful. Sand blows from the earthquakes are occasionally visible in plowed fields. The Big Oak Tree State Park preserves bottomland forest that survived the earthquakes. Memphis has excellent music but minimal earthquake preparedness. St. Louis is slightly outside the highest-risk zone. The danger is invisible; the history is interpretable only through museums and landscape features."
+      }
+    ],
+    "flightContext": "Located at 36.50°N, 89.50°W in the Mississippi River valley between Missouri, Arkansas, and Tennessee. From altitude, the seismic zone is invisible - flat agricultural land along the river, with no surface expression of the buried fault. Memphis is visible to the south; St. Louis to the north. The Mississippi River meanders through its floodplain, hiding the fault that could disrupt it. Reelfoot Lake is visible in northwest Tennessee - a landscape feature created by earthquake. The terrain looks peaceful and stable. It isn't."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 36.5,
+      "lng": -89.5
+    },
+    "geohash": "dn2reks5f"
+  },
+  "categories": [
+    "missouri",
+    "earthquake",
+    "seismology",
+    "history",
+    "hazard"
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-12T00:00:00Z",
+    "wordCount": 855,
+    "readTime": 5,
+    "firstPublished": "2026-01-12T00:00:00Z",
+    "storyNumber": 608
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "New Madrid Seismic Zone - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/New_Madrid_Seismic_Zone",
+      "accessedAt": "2026-01-17",
+      "claimsVerified": [
+        "1811-12 earthquakes magnitude 7-8",
+        "Mississippi ran backward",
+        "Reelfoot Lake created"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 3,
+    "strongOpinions": [
+      "America's Sleeping Earthquake Monster",
+      "The region keeps building as if they won't"
+    ]
+  },
+  "locationWikipediaPath": "d/n/2/r/national-register-of-historic-places-listings-in-new-madrid-county-missouri-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "fort-davidson-wp",
+      "title": "Fort Davidson",
+      "tile": "9yxw",
+      "coordinates": {
+        "lat": 37.61972222222222,
+        "lng": -90.64
+      },
+      "distanceKm": 113.2
+    },
+    "n": {
+      "id": "battle-of-belmont-wp",
+      "title": "Battle of Belmont",
+      "tile": "dn89",
+      "coordinates": {
+        "lat": 36.7657,
+        "lng": -89.124
+      },
+      "distanceKm": 31.2
+    },
+    "ne": {
+      "id": "land-between-lakes-wk",
+      "title": "Land Between the Lakes and the Drowned Towns",
+      "tile": "dn93",
+      "coordinates": {
+        "lat": 36.83,
+        "lng": -88.08
+      },
+      "distanceKm": 77.7
+    },
+    "w": {
+      "id": "battle-of-fort-davidson-wp",
+      "title": "Battle of Fort Davidson",
+      "tile": "9yxw",
+      "coordinates": {
+        "lat": 37.6194,
+        "lng": -90.6415
+      },
+      "distanceKm": 139.4
+    },
+    "e": {
+      "id": "land-between-lakes-moonshine-wk",
+      "title": "Land Between the Lakes: Where the Government Drowned America",
+      "tile": "dn93",
+      "coordinates": {
+        "lat": 36.83,
+        "lng": -88.07
+      },
+      "distanceKm": 87.5
+    },
+    "sw": {
+      "id": "sultana-disaster-wk",
+      "title": "The Sultana Disaster: 1,800 Dead in America's Forgotten Maritime Tragedy",
+      "tile": "9yrb",
+      "coordinates": {
+        "lat": 35.2717,
+        "lng": -90.03
+      },
+      "distanceKm": 104.5
+    },
+    "s": {
+      "id": "battle-of-fort-pillow-wp",
+      "title": "Battle of Fort Pillow",
+      "tile": "dn24",
+      "coordinates": {
+        "lat": 35.6324,
+        "lng": -89.8487
+      },
+      "distanceKm": 72.7
+    },
+    "se": {
+      "id": "pinson-mounds-wp",
+      "title": "Pinson Mounds",
+      "tile": "dn2c",
+      "coordinates": {
+        "lat": 35.49777777777778,
+        "lng": -88.6825
+      },
+      "distanceKm": 82.8
+    }
+  },
+  "keywords": [
+    "new-madrid-earthquake-zone"
+  ]
+}

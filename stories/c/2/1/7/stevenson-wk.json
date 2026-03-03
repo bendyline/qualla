@@ -1,0 +1,154 @@
+{
+  "id": "stevenson-wk",
+  "source": "wikipedia",
+  "sourceId": "34134",
+  "title": "Stevenson",
+  "slug": "stevenson",
+  "summary": "The county seat of Skamania where Beacon Rock rises from the Columbia and the Bridge of the Gods crosses to Oregon.",
+  "content": {
+    "intro": "Beacon Rock rises 848 feet straight up from the Columbia River, its volcanic bulk so distinctive that Lewis and Clark noted it in their journals - the explorers recognized it as a signal that they had nearly reached tidewater, the Pacific not far beyond. The town of Stevenson sits nearby, county seat of Skamania County and a gateway to the Washington side of the Columbia River Gorge. This is where the Bridge of the Gods crosses to Cascade Locks on the Oregon shore, where Highway 14 winds through scenery that rivals the more famous Historic Columbia River Highway on the opposite bank, where hikers and hot springs seekers find a quieter alternative to the tourist crowds across the water.",
+    "sections": [
+      {
+        "title": "The Rock",
+        "body": "Beacon Rock is the core of an ancient volcano, the softer outer rock eroded away over millennia to leave this basalt monolith standing alone beside the river. A trail built by Henry Biddle in 1916 - 52 switchbacks with handrails bolted to the cliff - climbs to the summit, offering views up and down the Gorge that reward the effort. The rock was nearly dynamited for jetty stone before the state acquired it; today it anchors a state park that includes additional trails through the forest beyond.\n\nThe rock's prominence made it a navigation landmark for centuries. Native peoples knew it; Lewis and Clark recognized it; steamboat captains used it to gauge their progress upriver. At 848 feet, it's the second-largest monolith in North America after the Rock of Gibraltar (though that comparison requires some definitional generosity). The climb takes about thirty minutes; the views from the top take longer to absorb."
+      },
+      {
+        "title": "The Bridge",
+        "body": "The Bridge of the Gods crosses the Columbia at the spot where, according to Klickitat legend, a natural rock bridge once connected the shores before it collapsed. The current bridge is steel and tolled, a 1926 structure that serves as one of the few Columbia crossings between Portland and Hood River. The Pacific Crest Trail crosses here, through-hikers from Mexico to Canada briefly descending to river level before climbing back into the mountains.\n\nCascade Locks sits on the Oregon side, its name from the navigational locks that once bypassed the Cascade Rapids before Bonneville Dam drowned them. The two towns share a crossing and a tourism economy, visitors playing both sides of the river. From Stevenson, the bridge provides access to Interstate 84 and the faster route to Portland; from Cascade Locks, it offers the scenic Highway 14 and the Washington-side attractions."
+      },
+      {
+        "title": "The Washington Shore",
+        "body": "Highway 14 follows the Columbia's north bank through the Gorge, a route less traveled than Oregon's Historic Columbia River Highway but no less scenic. The road runs closer to river level in places, the basalt cliffs rising directly above, the views across to Oregon's waterfalls visible from different angles. Multnomah Falls, the second-tallest year-round waterfall in the nation, is fifteen minutes from Stevenson - on the opposite shore, but visible from viewpoints on this side.\n\nThe Washington side offers its own attractions. Hot springs dot the hills above Stevenson, some developed with facilities, others requiring hikes to reach. Hiking trails climb into the Gifford Pinchot National Forest, connecting to networks that extend toward Mount St. Helens and beyond. The smaller crowds are part of the appeal - Oregon's Gorge attractions can feel overrun on summer weekends, while the Washington side retains some of the solitude that the landscape deserves."
+      },
+      {
+        "title": "Gorge Gateway",
+        "body": "Stevenson serves as the practical center of Skamania County, its services concentrated along Highway 14 where the road passes through town. The population is small - under 2,000 - but the county seat functions provide services for the surrounding rural area. The Columbia Gorge Interpretive Center tells the natural and human history of the canyon, from the geological forces that carved it to the tribes who fished its waters to the dam-builders who transformed it.\n\nThe drive from Portland takes forty-five minutes, the route following Interstate 84 east and crossing the Bridge of the Gods. From Seattle, three and a half hours of Interstate and highway driving deliver travelers to a landscape utterly different from Puget Sound's forested shores. The Gorge is dramatic in a different register - vertical, wind-scoured, the river visible below, the cliffs rising above. Stevenson sits at the heart of it, small enough to feel integrated rather than intrusive, a town that lives with the landscape rather than despite it."
+      }
+    ],
+    "flightContext": "Located at 45.70N, 121.89W on the Washington shore of the Columbia River Gorge. Beacon Rock is clearly visible as a distinctive monolith rising from the river west of town. The Bridge of the Gods crosses to Cascade Locks on the Oregon side. Highway 14 runs through town along the Columbia; Interstate 84 is visible on the Oregon shore. Bonneville Dam is visible downstream to the west. The forested slopes of the Gifford Pinchot National Forest rise to the north. Portland is 45 miles west; Mount Hood is visible to the south."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 45.696111,
+      "lng": -121.888333
+    },
+    "geohash": "c217f"
+  },
+  "categories": [
+    "city",
+    "washington",
+    "columbia-river-gorge",
+    "scenic",
+    "outdoor-recreation"
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Beacon Rock - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Beacon_Rock",
+      "accessedAt": "2026-01-16",
+      "claimsVerified": [
+        "848 feet",
+        "Henry Biddle trail 1916"
+      ]
+    }
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-10T00:00:00Z",
+    "wordCount": 730,
+    "readTime": 4,
+    "firstPublished": "2026-01-10T00:00:00Z",
+    "storyNumber": 80
+  },
+  "locationWikipediaPath": "c/2/1/7/stevenson-washington-wp",
+  "locationWikivoyagePath": "c/2/1/7/stevenson-wk",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "astoria-end-of-trail-wk",
+      "title": "Astoria: Where Lewis and Clark Finally Saw the Pacific",
+      "tile": "c0py",
+      "coordinates": {
+        "lat": 46.1879,
+        "lng": -123.8313
+      },
+      "distanceKm": 119.9
+    },
+    "n": {
+      "id": "mount-st-helens-wk",
+      "title": "Mount St. Helens",
+      "tile": "c21n",
+      "coordinates": {
+        "lat": 46.191,
+        "lng": -122.18
+      },
+      "distanceKm": 44.6
+    },
+    "ne": {
+      "id": "ellensburg-wk",
+      "title": "Ellensburg",
+      "tile": "c267",
+      "coordinates": {
+        "lat": 46.997064,
+        "lng": -120.545119
+      },
+      "distanceKm": 136.8
+    },
+    "w": {
+      "id": "washougal-wk",
+      "title": "Washougal",
+      "tile": "c20g",
+      "coordinates": {
+        "lat": 45.581944444444,
+        "lng": -122.34805555556
+      },
+      "distanceKm": 3.7
+    },
+    "e": {
+      "id": "pacific-northwest-wk",
+      "title": "Pacific Northwest",
+      "tile": "c24k",
+      "coordinates": {
+        "lat": 45.8288,
+        "lng": -120.3223
+      },
+      "distanceKm": 78.7
+    },
+    "sw": {
+      "id": "newberg-wk",
+      "title": "Newberg",
+      "tile": "c209",
+      "coordinates": {
+        "lat": 45.305,
+        "lng": -122.967222
+      },
+      "distanceKm": 49
+    },
+    "s": {
+      "id": "government-camp-wk",
+      "title": "Government Camp",
+      "tile": "c213",
+      "coordinates": {
+        "lat": 45.304167,
+        "lng": -121.756667
+      },
+      "distanceKm": 7
+    },
+    "se": {
+      "id": "crooked-river-railroad-bridge-wp",
+      "title": "Crooked River Railroad Bridge",
+      "tile": "9rcu",
+      "coordinates": {
+        "lat": 44.3911,
+        "lng": -121.1962
+      },
+      "distanceKm": 107
+    }
+  },
+  "keywords": [
+    "stevenson"
+  ]
+}

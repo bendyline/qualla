@@ -1,0 +1,151 @@
+{
+  "id": "attu-island-forgotten-battle-wk",
+  "source": "wikipedia",
+  "sourceId": "30254",
+  "title": "Attu Island: America's Forgotten Arctic Battle",
+  "slug": "attu-island-forgotten-battle",
+  "summary": "The Alaska island where American and Japanese soldiers fought the only WWII land battle on American soil - 19 days of combat in Arctic fog so thick men shot at shadows, ending in a mass banzai charge that killed nearly everyone.",
+  "content": {
+    "intro": "In May 1943, American soldiers stormed the beaches of Attu Island in the Aleutian chain - the only land battle of World War II fought on American soil. The Japanese had occupied the island since June 1942, the first foreign occupation of American territory since the War of 1812. The battle to retake it lasted 19 days. The weather was the third combatant: dense fog, freezing rain, and temperatures that killed as surely as bullets. When it ended, 549 Americans were dead and 2,350 Japanese - almost the entire garrison. The survivors on the Japanese side numbered 28. The battle was over, the island was recaptured, and America promptly forgot it happened. Attu remains the westernmost point of the United States, accessible only by boat or floatplane, populated only by ghosts.",
+    "sections": [
+      {
+        "title": "The Occupation",
+        "body": "Japan invaded the Aleutian Islands in June 1942, partly as a diversion for the Midway attack, partly to establish a northern defensive perimeter. They captured Attu and Kiska, the only American territory occupied by foreign forces since 1812. Attu's 42 Aleut residents were shipped to Japan as prisoners; half died in captivity. The occupation shocked America - foreign troops on American soil - but military planners debated for nearly a year about how to respond. The Aleutians were remote, the weather was terrible, and resources were needed elsewhere. Finally, in spring 1943, the decision came: retake Attu first, then Kiska."
+      },
+      {
+        "title": "The Battle",
+        "body": "American forces expected a quick victory. They landed 11,000 troops against 2,900 Japanese defenders and gave themselves three days. It took nineteen. The terrain was impossible - treeless tundra rising to jagged peaks, covered in fog so thick that units lost contact yards apart. Japanese positions were entrenched on the high ground; Americans advanced uphill into machine gun fire they couldn't see until the muzzle flash. Frostbite claimed more casualties than bullets in the first days. Artillery couldn't find targets in the fog. Supply lines collapsed. The three-day operation stretched to three weeks of brutal, close-quarters combat."
+      },
+      {
+        "title": "The Charge",
+        "body": "On May 29, 1943, the remaining Japanese soldiers - about 1,000 men - launched a final banzai charge. It was the largest of the war. They overran American positions, captured artillery, and pushed toward the rear areas before being stopped by cooks, engineers, and anyone who could hold a rifle. By dawn, nearly all the attackers were dead - many by their own grenades when the charge failed. Twenty-eight Japanese survived to become prisoners. American losses in the charge alone exceeded 500 killed and wounded. The battle was over, but its intensity per capita made it one of the deadliest of the Pacific War."
+      },
+      {
+        "title": "The Aftermath",
+        "body": "Attu's lessons were applied to the planned invasion of Kiska - more troops, better cold-weather gear, longer timelines. But when American and Canadian forces landed on Kiska in August 1943, they found the island empty. The Japanese had evacuated 5,000 men under cover of fog without the Americans knowing. The Aleutian campaign was over. Attu became a military installation, then was abandoned after the war. The Aleut residents never returned - their village was destroyed, their people scattered. Today Attu is the westernmost point of the United States, empty of permanent residents, filled with rusting military debris and unmarked graves."
+      },
+      {
+        "title": "Visiting Attu Island",
+        "body": "Attu Island is extremely difficult to visit. There are no commercial flights, no ferry service, and no permanent population. The U.S. Fish and Wildlife Service manages the island as part of the Alaska Maritime National Wildlife Refuge; a permit is required for visits. Rare expedition cruises stop at Attu, and charter vessels occasionally bring visitors. The old military infrastructure is rusting into the tundra. Japanese and American military cemeteries mark the battlefields. The Aleut village of Chichagof Harbor is gone. Weather is brutal year-round - fog, wind, rain. Those who make the journey find a haunted landscape: beautiful, remote, and still marked by the violence that America forgot."
+      }
+    ],
+    "flightContext": "Located at 52.85°N, 173.18°E at the western end of the Aleutian chain - technically the westernmost point in the United States, across the International Date Line. From altitude, Attu appears as a mountainous island surrounded by the Bering Sea and North Pacific, often shrouded in fog. Military infrastructure from WWII is visible: abandoned runways, building foundations, defensive positions on the ridgelines. The terrain is treeless tundra rising to snow-capped peaks. No settlements are visible because there are none. The island looks empty, which it is - except for the ghosts of those who fought here in 1943."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.85,
+      "lng": 173.18
+    },
+    "geohash": "zc7hsv1cd"
+  },
+  "categories": [
+    "alaska",
+    "wwii",
+    "battle",
+    "aleutian",
+    "military"
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-12T00:00:00Z",
+    "wordCount": 855,
+    "readTime": 5,
+    "firstPublished": "2026-01-12T00:00:00Z",
+    "storyNumber": 155
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Battle of Attu - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Attu",
+      "accessedAt": "2026-01-17",
+      "claimsVerified": [
+        "May 1943",
+        "only WWII land battle on American soil",
+        "549 American dead 2350 Japanese dead"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 4,
+    "strongOpinions": [
+      "America's Forgotten Arctic Battle",
+      "The only land battle of World War II fought on American soil"
+    ]
+  },
+  "locationWikipediaPath": "z/c/7/h/battle-of-attu-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "unalaska-dutch-harbor-wk",
+      "title": "Dutch Harbor: Where the Deadliest Catch Comes Home",
+      "tile": "b39d",
+      "coordinates": {
+        "lat": 53.89,
+        "lng": -166.54
+      },
+      "distanceKm": 1376.9
+    },
+    "n": {
+      "id": "st-paul-island-pribilofs-wk",
+      "title": "St. Paul Island: Alaska's Fur Seal Capital",
+      "tile": "b4nu",
+      "coordinates": {
+        "lat": 57.11,
+        "lng": -170.27
+      },
+      "distanceKm": 1142.5
+    },
+    "w": {
+      "id": "nome-iditarod-finish-wk",
+      "title": "Nome and the Iditarod Finish",
+      "tile": "b76q",
+      "coordinates": {
+        "lat": 64.5,
+        "lng": -165.4
+      },
+      "distanceKm": 1799.2
+    },
+    "e": {
+      "id": "auckland-wk",
+      "title": "Auckland",
+      "tile": "rckq",
+      "coordinates": {
+        "lat": -36.8509,
+        "lng": 174.7645
+      },
+      "distanceKm": 9971.8
+    },
+    "sw": {
+      "id": "japanese-submarine-i-400-wp",
+      "title": "I-400: The Submarine That Carried Airplanes",
+      "tile": "xnvg",
+      "coordinates": {
+        "lat": 38.666666666666664,
+        "lng": 143.2
+      },
+      "distanceKm": 2730.6
+    },
+    "s": {
+      "id": "adak-island-abandoned-wk",
+      "title": "Adak: The Navy Base America Left to Rot",
+      "tile": "b14r",
+      "coordinates": {
+        "lat": 51.88,
+        "lng": -176.64
+      },
+      "distanceKm": 699.4
+    },
+    "se": {
+      "id": "fiji-wk",
+      "title": "Fiji",
+      "tile": "ruy9",
+      "coordinates": {
+        "lat": -18,
+        "lng": 178
+      },
+      "distanceKm": 7856.9
+    }
+  },
+  "keywords": [
+    "attu-island-forgotten-battle"
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": "yogyakarta-wk",
+  "source": "wikipedia",
+  "sourceId": "34567",
+  "title": "Yogyakarta",
+  "slug": "yogyakarta",
+  "summary": "Java's cultural capital still answers to a sultan. Borobudur rises nearby, traditional arts thrive in workshops and theaters, and Indonesia keeps its soul in Yogyakarta.",
+  "content": {
+    "intro": "In a nation of 270 million people, one city of 420,000 remains Java's cultural capital. Yogyakarta is where a sultan still rules the kraton and where batik, gamelan, and shadow puppets continue as living tradition rather than museum display. An hour's drive reaches Borobudur and Prambanan, monumental temples left by Buddhism and Hinduism before Islam transformed Java. Indonesian culture is not merely preserved here. It is practiced.",
+    "sections": [
+      {
+        "title": "The Kraton",
+        "body": "At Yogyakarta's center stands the Kraton, a walled compound where the sultan whose ancestors founded the city still performs ceremonial duties. Part museum, part functioning palace, part symbol of Javanese culture, it is what the entire city organizes itself around. Walk through its gates and the modern street noise fades into something older.\n\nModern Indonesia has accommodated this traditional power. The republic granted the sultanate special regional status, allowing an ancient institution to persist within a democratic framework. Java's cultural heart still beats inside these walls."
+      },
+      {
+        "title": "Borobudur",
+        "body": "An hour from Yogyakarta, the world's largest Buddhist structure rises from the Kedu Plain. Borobudur dates to the 9th century. Pilgrims climb its terraces through stone reliefs teaching Buddhist philosophy, ascending toward the bell-shaped stupas above - especially stunning when sunrise illuminates them. No other monument in Indonesia draws as many visitors.\n\nThis single site is what makes Yogyakarta a gateway. Every visitor makes the excursion. As Buddhism's greatest architectural achievement, Borobudur pulls millions to central Java each year."
+      },
+      {
+        "title": "Prambanan",
+        "body": "Seventeen kilometers east of Yogyakarta, Prambanan's towering spires rival Borobudur in ambition and craftsmanship. Hindu Javanese kings built this 9th-century complex before Islam arrived on the island. Intricate stonework across its temples tells the Hindu epics, and restoration continues after earthquake damage scarred the site. Here is the physical proof: Java was Hindu before it was Muslim.\n\nBorobudur needs Prambanan, and Prambanan needs Borobudur. Hindu balances Buddhist, and together the two complexes reveal parallel developments in Java's layered history. The partnership enriches both."
+      },
+      {
+        "title": "The Arts",
+        "body": "What makes Yogyakarta a cultural capital? Its living arts. Workshops produce batik by hand. Performances feature the shimmering bronze of gamelan orchestras. All-night wayang shows bring shadow puppets to life against backlit screens. None of this is heritage performed for tourists - it is tradition maintained because Javanese culture demands it.\n\nOther Indonesian cities have let modernization standardize them. Yogyakarta refused. Its arts remain its identity, and that identity is unmistakably Javanese."
+      },
+      {
+        "title": "Malioboro Street",
+        "body": "Running north from the kraton, Malioboro Street is Yogyakarta's main commercial artery. Shops and markets concentrate along its length, and the city's commercial life pulses through it day and night. Tourists walk, vendors call out, becak drivers wait for fares. This is Yogyakarta's public face.\n\nCommerce and culture meet here on Malioboro's sidewalks. Busy, crowded, and essential to the city's economy, the street gives Yogyakarta a gathering place where visitors and residents share the same pavement."
+      }
+    ],
+    "flightContext": "Yogyakarta (7.79S, 110.36E) lies on the southern slope of Mount Merapi in central Java. Adisucipto International Airport (WARJ/JOG) sits 9km east with one runway 09/27 (2,200m), while a new airport (YIA) operates 40km to the southwest. To the north, Mount Merapi volcano (2,930m) dominates the skyline - one of the world's most active volcanoes. The kraton complex occupies the city center, and Borobudur lies 40km northwest. Expect tropical weather: wet season runs November through April, dry season May through October. Volcanic hazards from Merapi remain an ongoing concern."
+  },
+  "location": {
+    "coordinates": {
+      "lat": -7.7956,
+      "lng": 110.3695
+    },
+    "geohash": "qqw7xsbe7"
+  },
+  "categories": [
+    "indonesia",
+    "java",
+    "borobudur",
+    "prambanan",
+    "batik",
+    "cultural-capital"
+  ],
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Yogyakarta - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yogyakarta",
+      "accessedAt": "2026-01-15",
+      "claimsVerified": [
+        "420,000 population",
+        "sultan still rules",
+        "Borobudur 9th century"
+      ]
+    }
+  ],
+  "meta": {
+    "lastUpdated": "2026-01-15T00:00:00Z",
+    "wordCount": 1000,
+    "readTime": 5,
+    "firstPublished": "2026-01-15T00:00:00Z",
+    "storyNumber": 1173
+  },
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": [
+      "Where Java's cultural heart beats around a sultan's palace",
+      "Where Indonesia keeps its soul"
+    ]
+  },
+  "locationWikipediaPath": "q/q/w/e/yogyakarta-wp",
+  "locationWikivoyagePath": "q/q/w/e/yogyakarta-wk",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "jakarta-wk",
+      "title": "Jakarta",
+      "tile": "qqgu",
+      "coordinates": {
+        "lat": -6.2088,
+        "lng": 106.8456
+      },
+      "distanceKm": 347.8
+    },
+    "n": {
+      "id": "krakatoa-eruption-wk",
+      "title": "Krakatoa: The Eruption Heard Around the World",
+      "tile": "qqfv",
+      "coordinates": {
+        "lat": -6.102,
+        "lng": 105.423
+      },
+      "distanceKm": 553.3
+    },
+    "ne": {
+      "id": "surabaya-wk",
+      "title": "Surabaya",
+      "tile": "qw8n",
+      "coordinates": {
+        "lat": -7.2504,
+        "lng": 112.7688
+      },
+      "distanceKm": 226.1
+    },
+    "w": {
+      "id": "anak-krakatau-wk",
+      "title": "Anak Krakatau: The Child That Keeps Growing",
+      "tile": "qqfv",
+      "coordinates": {
+        "lat": -6.1021,
+        "lng": 105.423
+      },
+      "distanceKm": 508.1
+    },
+    "e": {
+      "id": "tambora-wk",
+      "title": "The Eruption of Tambora: The Year Without a Summer",
+      "tile": "qwec",
+      "coordinates": {
+        "lat": -8.25,
+        "lng": 118
+      },
+      "distanceKm": 800.5
+    },
+    "sw": {
+      "id": "chatham-islands-wk",
+      "title": "Chatham Islands",
+      "tile": "204t",
+      "coordinates": {
+        "lat": -44,
+        "lng": -176.4
+      },
+      "distanceKm": 8099.3
+    },
+    "s": {
+      "id": "perth-wk",
+      "title": "Perth",
+      "tile": "qd66",
+      "coordinates": {
+        "lat": -31.9523,
+        "lng": 115.8613
+      },
+      "distanceKm": 2717.3
+    },
+    "se": {
+      "id": "ubud-wk",
+      "title": "Ubud",
+      "tile": "qw3z",
+      "coordinates": {
+        "lat": -8.5069,
+        "lng": 115.2625
+      },
+      "distanceKm": 499.6
+    }
+  },
+  "keywords": [
+    "yogyakarta"
+  ]
+}
