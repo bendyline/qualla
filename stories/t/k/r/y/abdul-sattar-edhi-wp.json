@@ -134,14 +134,14 @@
       "distanceKm": 8.8
     },
     "e": {
-      "id": "jaipur-wk",
-      "title": "Jaipur",
-      "tile": "tsvc",
+      "id": "dwarkadhish-temple-wp",
+      "title": "Dwarkadhish Temple",
+      "tile": "tecn",
       "coordinates": {
-        "lat": 26.9124,
-        "lng": 75.7873
+        "lat": 22.237886111111,
+        "lng": 68.967561111111
       },
-      "distanceKm": 819.7
+      "distanceKm": 332.6
     },
     "sw": {
       "id": "ras-al-hadd-wp",
@@ -164,14 +164,15 @@
       "distanceKm": 1.3
     },
     "se": {
-      "id": "udaipur-wk",
-      "title": "Udaipur",
-      "tile": "tsk7",
+      "id": "dwarka-wp",
+      "title": "Dwarka",
+      "tile": "tecn",
       "coordinates": {
-        "lat": 24.5854,
-        "lng": 73.7125
+        "lat": 22.240277777778,
+        "lng": 68.968611111111
       },
-      "distanceKm": 592.5
+      "distanceKm": 305
     }
-  }
+  },
+  "locationWikipediaPath": "t/k/r/y/abdul-sattar-edhi-wp"
 }

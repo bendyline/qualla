@@ -141,14 +141,14 @@
       "distanceKm": 32.7
     },
     "sw": {
-      "id": "karnak-temple-wk",
-      "title": "Karnak: The Temple Built by 30 Pharaohs Over 2,000 Years",
-      "tile": "ssx4",
+      "id": "wadi-rum-wp",
+      "title": "Wadi Rum",
+      "tile": "sv30",
       "coordinates": {
-        "lat": 25.7188,
-        "lng": 32.6573
+        "lat": 29.5765,
+        "lng": 35.419928
       },
-      "distanceKm": 1428.2
+      "distanceKm": 1061
     },
     "s": {
       "id": "battle-of-73-easting-wp",
@@ -170,5 +170,6 @@
       },
       "distanceKm": 42.7
     }
-  }
+  },
+  "locationWikipediaPath": "t/j/3/7/battle-of-medina-ridge-wp"
 }

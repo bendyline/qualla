@@ -3,12 +3,12 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/c/2/8/b/puget-sound-wk/c28b-puget-sound-intro.mp3",
-        "_m/c/2/8/b/puget-sound-wk/c28b-puget-sound-creatures-of-the-deep.mp3",
         "_m/c/2/8/b/puget-sound-wk/c28b-puget-sound-flight-context.mp3",
-        "_m/c/2/8/b/puget-sound-wk/c28b-puget-sound-island-hopping.mp3",
+        "_m/c/2/8/b/puget-sound-wk/c28b-puget-sound-intro.mp3",
+        "_m/c/2/8/b/puget-sound-wk/c28b-puget-sound-the-mosquito-fleets-legacy.mp3",
         "_m/c/2/8/b/puget-sound-wk/c28b-puget-sound-mountains-and-water.mp3",
-        "_m/c/2/8/b/puget-sound-wk/c28b-puget-sound-the-mosquito-fleets-legacy.mp3"
+        "_m/c/2/8/b/puget-sound-wk/c28b-puget-sound-creatures-of-the-deep.mp3",
+        "_m/c/2/8/b/puget-sound-wk/c28b-puget-sound-island-hopping.mp3"
       ],
       "hero": {
         "path": "_m/tpc/pu/ge/t-/so/puget-sound/puget-sound-from-space-needle-.jpg",
@@ -37,7 +37,9 @@
           "Self-published work",
           "Taken with Canon EOS 300D",
           "Views from the Space Needle"
-        ]
+        ],
+        "mediumPath": "_m/c/2/8/b/puget-sound-wk/hero-medium.webp",
+        "smallPath": "_m/c/2/8/b/puget-sound-wk/hero-small.webp"
       },
       "images": [
         {
@@ -91,8 +93,8 @@
             "Taken with Nikon Coolpix 8700",
             "U.S. Route 2 in Washington (state)"
           ],
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/photograph-sign-indica-small.jpg",
-          "mediumPath": "_m/c/2/8/b/puget-sound-wk/photograph-sign-indica-medium.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/photograph-sign-indica-small.webp",
+          "mediumPath": "_m/c/2/8/b/puget-sound-wk/photograph-sign-indica-medium.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/downtown-snoqualmie-wa-01.jpg",
@@ -139,7 +141,7 @@
             "Media missing infobox template",
             "Paine Field"
           ],
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/pae-map-small.png"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/pae-map-small.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/gig-harbor.jpg",
@@ -197,8 +199,8 @@
           "sourceArticleId": "puget-sound-wk",
           "sourceGeohash4": "c28b",
           "accessedAt": "2026-02-22T02:01:00.729Z",
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/en-deception-pass-brid-small.jpg",
-          "mediumPath": "_m/c/2/8/b/puget-sound-wk/en-deception-pass-brid-medium.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/en-deception-pass-brid-small.webp",
+          "mediumPath": "_m/c/2/8/b/puget-sound-wk/en-deception-pass-brid-medium.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/aerial-view-of-bainbridge-isla.jpg",
@@ -279,7 +281,7 @@
           "sourceArticleId": "puget-sound-wk",
           "sourceGeohash4": "c28b",
           "accessedAt": "2026-02-22T02:01:00.729Z",
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/mount-rainier-sunset-w-small.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/mount-rainier-sunset-w-small.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/ferry-arriving-vashon.jpg",
@@ -313,7 +315,7 @@
           "sourceArticleId": "puget-sound-wk",
           "sourceGeohash4": "c28b",
           "accessedAt": "2026-02-22T02:01:00.729Z",
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/sea-plane-leaving-san-small.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/sea-plane-leaving-san-small.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/related-sibling-king-county-metro-6944-at-univ.jpg",
@@ -346,8 +348,8 @@
           "sourceArticleId": "puget-sound-wk",
           "sourceGeohash4": "c28b",
           "accessedAt": "2026-02-22T02:01:00.729Z",
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/ebey-s-ferry-house-small.jpg",
-          "mediumPath": "_m/c/2/8/b/puget-sound-wk/ebey-s-ferry-house-medium.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/ebey-s-ferry-house-small.webp",
+          "mediumPath": "_m/c/2/8/b/puget-sound-wk/ebey-s-ferry-house-medium.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/related-sibling-ferry-mv-wenatchee-and-mount-p.jpg",
@@ -398,7 +400,7 @@
           "sourceArticleId": "puget-sound-wk",
           "sourceGeohash4": "c28b",
           "accessedAt": "2026-02-22T02:01:00.729Z",
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/puget-sound-region-sta-small.png"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/puget-sound-region-sta-small.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/tacoma-washington-aerial-june-.jpg",
@@ -475,7 +477,7 @@
             "Self-published work",
             "Taken with Nikon Coolpix 5700"
           ],
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/bnsf-scenic-subdivision-from-c-small.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/bnsf-scenic-subdivision-from-c-small.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/argus-a-y-p-ed-page-49.jpg",
@@ -504,8 +506,8 @@
             "Waders (footwear)",
             "Washington (state) in the 1900s"
           ],
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/argus-a-y-p-ed-page-49-small.jpg",
-          "mediumPath": "_m/c/2/8/b/puget-sound-wk/argus-a-y-p-ed-page-49-medium.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/argus-a-y-p-ed-page-49-small.webp",
+          "mediumPath": "_m/c/2/8/b/puget-sound-wk/argus-a-y-p-ed-page-49-medium.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/aerial-view-of-discovery-park-.jpg",
@@ -536,8 +538,8 @@
             "Taken with Canon PowerShot A590 IS",
             "West Point (Seattle)"
           ],
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/aerial-view-of-discovery-park--small.jpg",
-          "mediumPath": "_m/c/2/8/b/puget-sound-wk/aerial-view-of-discovery-park--medium.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/aerial-view-of-discovery-park--small.webp",
+          "mediumPath": "_m/c/2/8/b/puget-sound-wk/aerial-view-of-discovery-park--medium.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/bloedel-reserve-25.jpg",
@@ -564,8 +566,8 @@
             "Self-published work",
             "Taken with Nikon D5000"
           ],
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/bloedel-reserve-25-small.jpg",
-          "mediumPath": "_m/c/2/8/b/puget-sound-wk/bloedel-reserve-25-medium.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/bloedel-reserve-25-small.webp",
+          "mediumPath": "_m/c/2/8/b/puget-sound-wk/bloedel-reserve-25-medium.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/n-p-railway-tacoma-wash-terr-s.jpg",
@@ -581,8 +583,8 @@
           "sourceArticleId": "puget-sound-wk",
           "sourceGeohash4": "c28b",
           "accessedAt": "2026-02-22T02:01:00.729Z",
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/n-p-railway-tacoma-wash-terr-s-small.jpg",
-          "mediumPath": "_m/c/2/8/b/puget-sound-wk/n-p-railway-tacoma-wash-terr-s-medium.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/n-p-railway-tacoma-wash-terr-s-small.webp",
+          "mediumPath": "_m/c/2/8/b/puget-sound-wk/n-p-railway-tacoma-wash-terr-s-medium.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/a-dense-hemlock-and-western-re.jpg",
@@ -598,7 +600,7 @@
           "sourceArticleId": "puget-sound-wk",
           "sourceGeohash4": "c28b",
           "accessedAt": "2026-02-22T02:01:00.729Z",
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/a-dense-hemlock-and-western-re-small.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/a-dense-hemlock-and-western-re-small.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/august-sunset-from-chuckanut-d.jpg",
@@ -615,7 +617,7 @@
           "sourceArticleId": "puget-sound-wk",
           "sourceGeohash4": "c28b",
           "accessedAt": "2026-02-22T02:01:00.729Z",
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/august-sunset-from-chuckanut-d-small.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/august-sunset-from-chuckanut-d-small.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/according-to-the-regional-epa-.jpg",
@@ -631,8 +633,8 @@
           "sourceArticleId": "puget-sound-wk",
           "sourceGeohash4": "c28b",
           "accessedAt": "2026-02-22T02:01:00.729Z",
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/according-to-the-regional-epa--small.jpg",
-          "mediumPath": "_m/c/2/8/b/puget-sound-wk/according-to-the-regional-epa--medium.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/according-to-the-regional-epa--small.webp",
+          "mediumPath": "_m/c/2/8/b/puget-sound-wk/according-to-the-regional-epa--medium.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/aerial-view-of-prison-nara-299.jpg",
@@ -649,8 +651,8 @@
           "sourceArticleId": "puget-sound-wk",
           "sourceGeohash4": "c28b",
           "accessedAt": "2026-02-22T02:01:00.729Z",
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/aerial-view-of-prison-nara-299-small.jpg",
-          "mediumPath": "_m/c/2/8/b/puget-sound-wk/aerial-view-of-prison-nara-299-medium.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/aerial-view-of-prison-nara-299-small.webp",
+          "mediumPath": "_m/c/2/8/b/puget-sound-wk/aerial-view-of-prison-nara-299-medium.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/aerial-of-west-queen-anne-seat.jpg",
@@ -667,7 +669,7 @@
           "sourceArticleId": "puget-sound-wk",
           "sourceGeohash4": "c28b",
           "accessedAt": "2026-02-22T02:01:00.729Z",
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/aerial-of-west-queen-anne-seat-small.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/aerial-of-west-queen-anne-seat-small.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/alki-beach-pano-01a.jpg",
@@ -684,8 +686,8 @@
           "sourceArticleId": "puget-sound-wk",
           "sourceGeohash4": "c28b",
           "accessedAt": "2026-02-22T02:01:00.729Z",
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/alki-beach-pano-01a-small.jpg",
-          "mediumPath": "_m/c/2/8/b/puget-sound-wk/alki-beach-pano-01a-medium.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/alki-beach-pano-01a-small.webp",
+          "mediumPath": "_m/c/2/8/b/puget-sound-wk/alki-beach-pano-01a-medium.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/boston-harbor-and-marina-bosto.jpg",
@@ -702,8 +704,8 @@
           "sourceArticleId": "puget-sound-wk",
           "sourceGeohash4": "c28b",
           "accessedAt": "2026-02-22T02:01:00.729Z",
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/boston-harbor-and-marina-bosto-small.jpg",
-          "mediumPath": "_m/c/2/8/b/puget-sound-wk/boston-harbor-and-marina-bosto-medium.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/boston-harbor-and-marina-bosto-small.webp",
+          "mediumPath": "_m/c/2/8/b/puget-sound-wk/boston-harbor-and-marina-bosto-medium.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/anderson-point-county-park-bea.jpg",
@@ -720,7 +722,7 @@
           "sourceArticleId": "puget-sound-wk",
           "sourceGeohash4": "c28b",
           "accessedAt": "2026-02-22T02:01:00.729Z",
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/anderson-point-county-park-bea-small.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/anderson-point-county-park-bea-small.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/boston-harbor-marina-boston-ha.jpg",
@@ -737,8 +739,8 @@
           "sourceArticleId": "puget-sound-wk",
           "sourceGeohash4": "c28b",
           "accessedAt": "2026-02-22T02:01:00.729Z",
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/boston-harbor-marina-boston-ha-small.jpg",
-          "mediumPath": "_m/c/2/8/b/puget-sound-wk/boston-harbor-marina-boston-ha-medium.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/boston-harbor-marina-boston-ha-small.webp",
+          "mediumPath": "_m/c/2/8/b/puget-sound-wk/boston-harbor-marina-boston-ha-medium.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/airborne-over-seattle-flickr-b.jpg",
@@ -755,7 +757,7 @@
           "sourceArticleId": "puget-sound-wk",
           "sourceGeohash4": "c28b",
           "accessedAt": "2026-02-22T02:01:00.729Z",
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/airborne-over-seattle-flickr-b-small.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/airborne-over-seattle-flickr-b-small.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/blake-island-in-puget-sound.jpg",
@@ -790,7 +792,7 @@
           "sourceArticleId": "puget-sound-wk",
           "sourceGeohash4": "c28b",
           "accessedAt": "2026-02-22T02:01:00.729Z",
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/american-gasoline-co-plant-at--small.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/american-gasoline-co-plant-at--small.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/anti-nuclear-bumper-sticker-19.jpg",
@@ -807,8 +809,8 @@
           "sourceArticleId": "puget-sound-wk",
           "sourceGeohash4": "c28b",
           "accessedAt": "2026-02-22T02:01:00.729Z",
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/anti-nuclear-bumper-sticker-19-small.jpg",
-          "mediumPath": "_m/c/2/8/b/puget-sound-wk/anti-nuclear-bumper-sticker-19-medium.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/anti-nuclear-bumper-sticker-19-small.webp",
+          "mediumPath": "_m/c/2/8/b/puget-sound-wk/anti-nuclear-bumper-sticker-19-medium.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/afternoon-view-5225744113.jpg",
@@ -825,8 +827,8 @@
           "sourceArticleId": "puget-sound-wk",
           "sourceGeohash4": "c28b",
           "accessedAt": "2026-02-22T02:01:00.729Z",
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/afternoon-view-5225744113-small.jpg",
-          "mediumPath": "_m/c/2/8/b/puget-sound-wk/afternoon-view-5225744113-medium.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/afternoon-view-5225744113-small.webp",
+          "mediumPath": "_m/c/2/8/b/puget-sound-wk/afternoon-view-5225744113-medium.webp"
         },
         {
           "path": "_m/c/2/8/b/puget-sound-wk/anderson-island-and-puget-soun.jpg",
@@ -843,8 +845,8 @@
           "sourceArticleId": "puget-sound-wk",
           "sourceGeohash4": "c28b",
           "accessedAt": "2026-02-22T02:01:00.729Z",
-          "smallPath": "_m/c/2/8/b/puget-sound-wk/anderson-island-and-puget-soun-small.jpg",
-          "mediumPath": "_m/c/2/8/b/puget-sound-wk/anderson-island-and-puget-soun-medium.jpg"
+          "smallPath": "_m/c/2/8/b/puget-sound-wk/anderson-island-and-puget-soun-small.webp",
+          "mediumPath": "_m/c/2/8/b/puget-sound-wk/anderson-island-and-puget-soun-medium.webp"
         },
         {
           "path": "_m/tpc/pu/ge/t-/so/puget-sound/edward-s-curtis-collection-peo.jpg",
@@ -1139,7 +1141,8 @@
             "Water transport on Puget Sound"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/8/b/puget-sound-wk/c28b-puget-sound-combined.mp3"
     }
   }
 }

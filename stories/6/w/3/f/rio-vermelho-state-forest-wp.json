@@ -1,0 +1,156 @@
+{
+  "id": "rio-vermelho-state-forest-wp",
+  "source": "wikipedia",
+  "sourceId": "52142304",
+  "title": "Rio Vermelho State Forest",
+  "slug": "rio-vermelho-state-forest",
+  "summary": "A 190,000-hectare state forest in Rondonia that became a pawn in one of Brazil's most tangled conservation battles -- traded between governments, invaded by squatters, and partially drowned by a hydroelectric dam.",
+  "content": {
+    "intro": "On paper, the Rio Vermelho State Forest was created in 1990 as two parcels of protected Amazon rainforest totaling roughly 190,000 hectares in the Brazilian state of Rondonia. On the ground, the story has been considerably messier. No management plan was ever written. The land was never properly demarcated. The federal government, which still owns the underlying property, never formally transferred it to the state. And over the following decades, the forest became entangled in a saga of squatters, dam builders, cattle ranchers, and competing government agencies that reads less like conservation policy and more like a land-tenure thriller.",
+    "sections": [
+      {
+        "title": "A Forest Divided at Birth",
+        "body": "The Rio Vermelho State Forest arrived in two pieces. Parcel \"A\" was established with 38,680 hectares and parcel \"B\" with 152,000 hectares. Neither received the demarcation or management infrastructure that Brazilian conservation law requires. Part of Parcel A was eventually absorbed into the Serra dos Tres Irmaos Ecological Station. Parcel B was supposed to become a pilot project for sustainable forest management under the World Bank's PLANAFLORO program, but only 31,570 hectares were demarcated in 1995 to receive funding. By 1996, portions of the remaining area had been folded into the Mujica Nava Ecological Station, and a large section had simply been converted to agricultural zones. The forest existed as a legal designation without the physical reality to back it up -- lines on a map over land that was being cleared, farmed, and grazed."
+      },
+      {
+        "title": "The Dam Deal",
+        "body": "Everything changed in 2009 when the Jirau hydroelectric dam project needed Rondonia's cooperation. The state government held leverage: it could block environmental licensing for the dam, which would flood between 400 and 1,000 hectares of Rio Vermelho forest. A grand bargain took shape. In exchange for dropping its objections to Jirau, the state would transfer the Rio Vermelho A and B forests, along with the Serra dos Tres Irmaos and Mujica Nava ecological stations -- roughly 180,000 hectares total -- to the federal Chico Mendes Institute for Biodiversity Conservation (ICMBio). Simultaneously, the 272,000-hectare Bom Futuro National Forest, which had been overrun by squatters, loggers, and land speculators since 2000, would be restructured into three parts: a protection area, a state forest, and a federal reserve."
+      },
+      {
+        "title": "Legal Whiplash",
+        "body": "Federal law 12,249 of 2010 made the restructuring official and incorporated the Rio Vermelho forests into the expanded Mapinguari National Park -- adding roughly 180,900 hectares while carving out the area that the Jirau Dam reservoir would flood. But legal challenges arrived immediately. The Federal Public Ministry argued that the Bom Futuro restructuring was purely political, rewarding illegal occupation rather than enforcing conservation law. In July 2013, the Attorney General challenged the law itself as unconstitutional. Then in February 2014, the Rondonia state legislature attempted to revoke the Rio Vermelho State Forest, along with the Rio Madeira Environmental Protection Area and the Rio Madeira B State Forest. Traditional populations who depended on these forests opposed the revocations; loggers, ranchers, and farmers supported them."
+      },
+      {
+        "title": "The Forest That Would Not Stay Dead",
+        "body": "An injunction from the state prosecutor in April 2014 suspended the legislative decrees revoking the protected areas. The case wound through the courts of Rondonia until May 2016, when the tribunal upheld the prosecutor's decision and restored the protections for the Rio Madeira areas and the Rio Vermelho forest. The forest's status remains contested terrain -- caught between federal and state jurisdiction, between conservation mandates and development pressures, between the legal protections written into Brazilian law and the economic forces that make those protections difficult to enforce. None of the state sustainable yield forests around the Jirau and Santo Antonio dams have management plans, and deforestation rates in Rondonia's protected areas remain high. The Rio Vermelho State Forest endures, but its survival is a matter of ongoing litigation rather than settled policy."
+      }
+    ],
+    "flightContext": "The Rio Vermelho State Forest is located at approximately 9.45S, 65.00W in the state of Rondonia, Brazil. The area lies south of the Madeira River and east of Porto Velho. The Jirau Dam reservoir is visible to the north. From 15,000 feet, the contrast between intact forest cover and deforested agricultural patches is stark -- the classic Rondonia fishbone deforestation pattern is visible from orbit. Porto Velho (SBPV) is the nearest major airport, roughly 150 km to the north."
+  },
+  "location": {
+    "coordinates": {
+      "lat": -9.453476,
+      "lng": -64.998816
+    },
+    "geohash": "6w3f0"
+  },
+  "categories": [
+    "conservation",
+    "deforestation",
+    "amazon",
+    "hydroelectric",
+    "brazil"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-06T00:00:00Z",
+    "wordCount": 730,
+    "readTime": 4,
+    "firstPublished": "2026-03-06T00:00:00Z",
+    "storyNumber": 6581
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Rio Vermelho State Forest - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rio_Vermelho_State_Forest",
+      "accessedAt": "2026-03-06",
+      "claimsVerified": [
+        "Forest created in 1990 as two parcels confirmed",
+        "Parcel A 38,680 hectares, Parcel B 152,000 hectares confirmed",
+        "Federal law 12,249 of 2010 incorporated forests into Mapinguari National Park confirmed",
+        "Jirau Dam flooded 400-1,000 hectares of Rio Vermelho forest confirmed",
+        "Transfer of approximately 180,000 hectares to ICMBio confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 3,
+    "strongOpinions": [
+      "reads less like conservation policy and more like a land-tenure thriller",
+      "The forest existed as a legal designation without the physical reality to back it up"
+    ]
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "medio-purus-extractive-reserve-wp",
+      "title": "Medio Purus Extractive Reserve",
+      "tile": "6w9j",
+      "coordinates": {
+        "lat": -7.45,
+        "lng": -65.91194167
+      },
+      "distanceKm": 196.5
+    },
+    "n": {
+      "id": "serra-dos-tres-irmaos-ecological-station-wp",
+      "title": "Serra dos Três Irmãos Ecological Station",
+      "tile": "6w3u",
+      "coordinates": {
+        "lat": -9.121,
+        "lng": -64.797
+      },
+      "distanceKm": 7.6
+    },
+    "ne": {
+      "id": "rio-madeira-hvdc-system-wp",
+      "title": "Rio Madeira HVDC System",
+      "tile": "6w6t",
+      "coordinates": {
+        "lat": -8.914722222222222,
+        "lng": -63.9575
+      },
+      "distanceKm": 48.6
+    },
+    "w": {
+      "id": "cachuela-esperanza-wp",
+      "title": "Cachuela Esperanza",
+      "tile": "6w1k",
+      "coordinates": {
+        "lat": -10.536666666667,
+        "lng": -65.597222222222
+      },
+      "distanceKm": 127.9
+    },
+    "e": {
+      "id": "bom-futuro-national-forest-wp",
+      "title": "Bom Futuro National Forest",
+      "tile": "6w6d",
+      "coordinates": {
+        "lat": -9.437438,
+        "lng": -63.836414
+      },
+      "distanceKm": 54.9
+    },
+    "sw": {
+      "id": "madeira-river-wp",
+      "title": "Madeira River",
+      "tile": "6w1k",
+      "coordinates": {
+        "lat": -10.37605,
+        "lng": -65.391682
+      },
+      "distanceKm": 78.7
+    },
+    "s": {
+      "id": "beni-river-wp",
+      "title": "Beni River",
+      "tile": "6w1s",
+      "coordinates": {
+        "lat": -10.3821,
+        "lng": -65.3903
+      },
+      "distanceKm": 98.2
+    },
+    "se": {
+      "id": "jaci-parana-extractive-reserve-wp",
+      "title": "Jaci Paraná Extractive Reserve",
+      "tile": "6w62",
+      "coordinates": {
+        "lat": -9.779774,
+        "lng": -64.208827
+      },
+      "distanceKm": 18.7
+    }
+  },
+  "locationWikipediaPath": "6/w/3/f/rio-vermelho-state-forest-wp"
+}

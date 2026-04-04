@@ -84,14 +84,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "gobekli-tepe-wk",
-      "title": "Göbekli Tepe: The Temple Built Before Agriculture",
-      "tile": "syee",
+      "id": "dura-europos-church-wp",
+      "title": "Dura-Europos Church",
+      "tile": "syhv",
       "coordinates": {
-        "lat": 37.2233,
-        "lng": 38.9224
+        "lat": 34.745829,
+        "lng": 40.727958
       },
-      "distanceKm": 618.4
+      "distanceKm": 390.8
     },
     "n": {
       "id": "paikuli-inscription-wp",
@@ -114,14 +114,14 @@
       "distanceKm": 65.7
     },
     "w": {
-      "id": "tbilisi-wk",
-      "title": "Tbilisi",
-      "tile": "szrv",
+      "id": "armenian-genocide-memorial-church-der-zor-wp",
+      "title": "Armenian Genocide Memorial Church, Der Zor",
+      "tile": "syk8",
       "coordinates": {
-        "lat": 41.6934,
-        "lng": 44.8015
+        "lat": 35.2019,
+        "lng": 40.083
       },
-      "distanceKm": 815
+      "distanceKm": 458.5
     },
     "e": {
       "id": "kermanshah-wk",
@@ -134,14 +134,14 @@
       "distanceKm": 93.2
     },
     "sw": {
-      "id": "beirut-wk",
-      "title": "Beirut",
-      "tile": "sy12",
+      "id": "baalbek-wp",
+      "title": "Baalbek",
+      "tile": "sy19",
       "coordinates": {
-        "lat": 33.886944444444,
-        "lng": 35.513055555556
+        "lat": 34.006111,
+        "lng": 36.208611
       },
-      "distanceKm": 874.6
+      "distanceKm": 809.7
     },
     "s": {
       "id": "choga-mami-wp",
@@ -163,5 +163,6 @@
       },
       "distanceKm": 54.8
     }
-  }
+  },
+  "locationWikipediaPath": "t/n/0/7/alwand-bridge-wp"
 }

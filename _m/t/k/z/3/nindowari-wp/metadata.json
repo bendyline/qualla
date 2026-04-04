@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "nindowari-wp",
     "sourceGeohash4": "tkz3",
-    "mediumPath": "_m/t/k/z/3/nindowari-wp/hero-medium.jpg",
-    "smallPath": "_m/t/k/z/3/nindowari-wp/hero-small.jpg"
+    "mediumPath": "_m/t/k/z/3/nindowari-wp/hero-medium.webp",
+    "smallPath": "_m/t/k/z/3/nindowari-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Rhyton, zebu. Kulli culture. Musée Guimet .jpg",
@@ -64,5 +64,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T11:29:09.910Z"
+  "narration": {
+    "files": [
+      "tkz3-nindowari-flight-context.mp3",
+      "tkz3-nindowari-intro.mp3",
+      "tkz3-nindowari-at-the-edge-of-the-indus-world.mp3",
+      "tkz3-nindowari-the-kulli-connection.mp3",
+      "tkz3-nindowari-river-trade-and-distance.mp3",
+      "tkz3-nindowari-a-mound-with-questions.mp3"
+    ],
+    "durations": {
+      "tkz3-nindowari-flight-context.mp3": 48.119625,
+      "tkz3-nindowari-intro.mp3": 40.0940833,
+      "tkz3-nindowari-at-the-edge-of-the-indus-world.mp3": 53.0934166,
+      "tkz3-nindowari-the-kulli-connection.mp3": 51.5975416,
+      "tkz3-nindowari-river-trade-and-distance.mp3": 56.8618333,
+      "tkz3-nindowari-a-mound-with-questions.mp3": 44.2216666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

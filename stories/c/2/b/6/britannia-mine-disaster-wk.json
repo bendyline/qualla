@@ -75,14 +75,14 @@
   "locationWikipediaPath": "c/2/b/6/britannia-mines-concentrator-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "alert-bay-wk",
-      "title": "Alert Bay",
-      "tile": "c0vx",
+      "id": "malibu-hydro-wp",
+      "title": "Malibu Hydro",
+      "tile": "c0zv",
       "coordinates": {
-        "lat": 50.5856,
-        "lng": -126.9319
+        "lat": 50.1444,
+        "lng": -123.878
       },
-      "distanceKm": 237.9
+      "distanceKm": 26.4
     },
     "n": {
       "id": "whistler-wk",
@@ -105,14 +105,14 @@
       "distanceKm": 49.4
     },
     "w": {
-      "id": "vancouver-island-wk",
-      "title": "Vancouver Island",
-      "tile": "c0yc",
+      "id": "sechelt-inlet-wp",
+      "title": "Sechelt Inlet",
+      "tile": "c0zf",
       "coordinates": {
-        "lat": 49.5,
-        "lng": -125.5
+        "lat": 49.6333,
+        "lng": -123.842
       },
-      "distanceKm": 127.4
+      "distanceKm": 7.2
     },
     "e": {
       "id": "golden-ears-provincial-park-wk",
@@ -125,14 +125,14 @@
       "distanceKm": 27.7
     },
     "sw": {
-      "id": "nanaimo-bathtub-race-wk",
-      "title": "The Nanaimo Bathtub Race: When a City Got Weird",
-      "tile": "c0xz",
+      "id": "canadian-forces-maritime-experimental-and-test-ranges-wp",
+      "title": "Canadian Forces Maritime Experimental and Test Ranges",
+      "tile": "c0zb",
       "coordinates": {
-        "lat": 49.17,
-        "lng": -123.94
+        "lat": 49.30235,
+        "lng": -123.98423
       },
-      "distanceKm": 28.5
+      "distanceKm": 19.8
     },
     "s": {
       "id": "north-shore-british-columbia-wk",

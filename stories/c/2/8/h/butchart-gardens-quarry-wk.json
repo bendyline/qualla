@@ -75,14 +75,14 @@
   "locationWikipediaPath": "c/2/8/h/butchart-gardens-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "vancouver-island-wk",
-      "title": "Vancouver Island",
-      "tile": "c0yc",
+      "id": "englishman-river-falls-provincial-park-wp",
+      "title": "Englishman River Falls Provincial Park",
+      "tile": "c0z8",
       "coordinates": {
-        "lat": 49.5,
-        "lng": -125.5
+        "lat": 49.2475,
+        "lng": -124.352
       },
-      "distanceKm": 123.6
+      "distanceKm": 46.1
     },
     "n": {
       "id": "galiano-island-wk",
@@ -105,14 +105,14 @@
       "distanceKm": 58.9
     },
     "w": {
-      "id": "alert-bay-wk",
-      "title": "Alert Bay",
-      "tile": "c0vx",
+      "id": "san-juan-spruce-wp",
+      "title": "San Juan Spruce",
+      "tile": "c0xs",
       "coordinates": {
-        "lat": 50.5856,
-        "lng": -126.9319
+        "lat": 48.58792,
+        "lng": -124.18663
       },
-      "distanceKm": 300.3
+      "distanceKm": 6.5
     },
     "e": {
       "id": "san-juan-islands-wk",
@@ -125,34 +125,34 @@
       "distanceKm": 7.4
     },
     "sw": {
-      "id": "kalaupapa-national-historical-park-wk",
-      "title": "Kalaupapa National Historical Park",
-      "tile": "8eb2",
+      "id": "kolponomos-wp",
+      "title": "Kolponomos",
+      "tile": "c0xd",
       "coordinates": {
-        "lat": 21.1778,
-        "lng": -156.96
+        "lat": 48.3,
+        "lng": -124.2
       },
-      "distanceKm": 4199
+      "distanceKm": 8.5
     },
     "s": {
-      "id": "olympic-national-park-wp",
-      "title": "Olympic National Park",
-      "tile": "c280",
+      "id": "strait-of-juan-de-fuca-wp",
+      "title": "Strait of Juan de Fuca",
+      "tile": "c0xf",
       "coordinates": {
-        "lat": 47.97,
-        "lng": -123.5
+        "lat": 48.33291,
+        "lng": -124.00265
       },
-      "distanceKm": 41.5
+      "distanceKm": 31.7
     },
     "se": {
-      "id": "port-townsend-wk",
-      "title": "Port Townsend",
-      "tile": "c289",
+      "id": "smith-island-washington-wp",
+      "title": "Smith Island (Washington)",
+      "tile": "c28d",
       "coordinates": {
-        "lat": 48.117,
-        "lng": -122.76
+        "lat": 48.318988,
+        "lng": -122.8418419
       },
-      "distanceKm": 32.6
+      "distanceKm": 15.3
     }
   },
   "keywords": [

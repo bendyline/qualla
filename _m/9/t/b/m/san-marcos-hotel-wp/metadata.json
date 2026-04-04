@@ -26,7 +26,7 @@
     "sourceType": "core",
     "sourceArticleId": "san-marcos-hotel-wp",
     "sourceGeohash4": "9tbm",
-    "smallPath": "_m/9/t/b/m/san-marcos-hotel-wp/hero-small.jpg"
+    "smallPath": "_m/9/t/b/m/san-marcos-hotel-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Chandler-San Marcos Hotel.jpg",
@@ -107,7 +107,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "san-marcos-hotel-wp",
-      "sourceGeohash4": "9tbm"
+      "sourceGeohash4": "9tbm",
+      "mediumPath": "_m/9/t/b/m/san-marcos-hotel-wp/the-san-marcos-hotel-medium.webp",
+      "smallPath": "_m/9/t/b/m/san-marcos-hotel-wp/the-san-marcos-hotel-small.webp"
     },
     {
       "filename": "Fountains in the Courtyard to the San Marcos Hotel.JPG",
@@ -135,7 +137,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "san-marcos-hotel-wp",
-      "sourceGeohash4": "9tbm"
+      "sourceGeohash4": "9tbm",
+      "mediumPath": "_m/9/t/b/m/san-marcos-hotel-wp/fountains-in-the-courtyard-to--medium.webp",
+      "smallPath": "_m/9/t/b/m/san-marcos-hotel-wp/fountains-in-the-courtyard-to--small.webp"
     },
     {
       "filename": "Plaque describing the historical significance of the San Marcos Hotel.JPG",
@@ -165,7 +169,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "san-marcos-hotel-wp",
-      "sourceGeohash4": "9tbm"
+      "sourceGeohash4": "9tbm",
+      "mediumPath": "_m/9/t/b/m/san-marcos-hotel-wp/plaque-describing-the-historic-medium.webp",
+      "smallPath": "_m/9/t/b/m/san-marcos-hotel-wp/plaque-describing-the-historic-small.webp"
     },
     {
       "filename": "The San Marcos Hotel Front.JPG",
@@ -193,7 +199,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "san-marcos-hotel-wp",
-      "sourceGeohash4": "9tbm"
+      "sourceGeohash4": "9tbm",
+      "mediumPath": "_m/9/t/b/m/san-marcos-hotel-wp/the-san-marcos-hotel-front-medium.webp",
+      "smallPath": "_m/9/t/b/m/san-marcos-hotel-wp/the-san-marcos-hotel-front-small.webp"
     },
     {
       "filename": "Chandler-Building-San Marcos Hotel-1913.jpg",
@@ -210,7 +218,9 @@
       "dateCreated": "2019-09-02",
       "sourceType": "commons-category",
       "sourceArticleId": "san-marcos-hotel-wp",
-      "sourceGeohash4": "9tbm"
+      "sourceGeohash4": "9tbm",
+      "mediumPath": "_m/9/t/b/m/san-marcos-hotel-wp/chandler-building-san-marcos-h-medium.webp",
+      "smallPath": "_m/9/t/b/m/san-marcos-hotel-wp/chandler-building-san-marcos-h-small.webp"
     }
   ],
   "galleryPaths": [
@@ -221,7 +231,6 @@
     "_m/9/t/b/m/san-marcos-hotel-wp/the-san-marcos-hotel-front.jpg",
     "_m/9/t/b/m/san-marcos-hotel-wp/chandler-building-san-marcos-h.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:01:00.083Z",
   "narration": {
     "files": [
       "9tbm-san-marcos-hotel-flight-context.mp3",
@@ -239,8 +248,7 @@
       "9tbm-san-marcos-hotel-hollywoods-desert-hideaway.mp3": 55.092375,
       "9tbm-san-marcos-hotel-surviving-the-decades.mp3": 52.5102083
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-07T22:55:09.506Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:01:01.731Z"
 }

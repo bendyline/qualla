@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/t/u/d/white-sands-wk/9trr-white-sands-intro.mp3",
-        "_m/9/t/u/d/white-sands-wk/9trr-white-sands-flight-context.mp3",
-        "_m/9/t/u/d/white-sands-wk/9trr-white-sands-the-adaptation.mp3",
-        "_m/9/t/u/d/white-sands-wk/9trr-white-sands-the-formation.mp3",
-        "_m/9/t/u/d/white-sands-wk/9trr-white-sands-the-military.mp3",
-        "_m/9/t/u/d/white-sands-wk/9trr-white-sands-the-park.mp3",
-        "_m/9/t/u/d/white-sands-wk/9trr-white-sands-visiting-white-sands.mp3"
+        "_m/9/t/u/d/white-sands-wk/9tud-white-sands-flight-context.mp3",
+        "_m/9/t/u/d/white-sands-wk/9tud-white-sands-intro.mp3",
+        "_m/9/t/u/d/white-sands-wk/9tud-white-sands-the-formation.mp3",
+        "_m/9/t/u/d/white-sands-wk/9tud-white-sands-the-adaptation.mp3",
+        "_m/9/t/u/d/white-sands-wk/9tud-white-sands-the-military.mp3",
+        "_m/9/t/u/d/white-sands-wk/9tud-white-sands-the-park.mp3",
+        "_m/9/t/u/d/white-sands-wk/9tud-white-sands-visiting-white-sands.mp3"
       ],
       "hero": {
         "path": "_m/9/t/u/d/white-sands-wk/hero.jpg",
@@ -33,9 +33,10 @@
           "Self-published work",
           "Taken with Fujifilm FinePix A340"
         ],
-        "mediumPath": "_m/9/t/u/d/white-sands-wk/hero-medium.jpg",
-        "smallPath": "_m/9/t/u/d/white-sands-wk/hero-small.jpg"
-      }
+        "mediumPath": "_m/9/t/u/d/white-sands-wk/hero-medium.webp",
+        "smallPath": "_m/9/t/u/d/white-sands-wk/hero-small.webp"
+      },
+      "combinedNarration": "_m/9/t/u/d/white-sands-wk/9tud-white-sands-combined.mp3"
     }
   }
 }

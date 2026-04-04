@@ -27,8 +27,8 @@
     "sourceType": "core",
     "sourceArticleId": "schwartz-s-wp",
     "sourceGeohash4": "f25d",
-    "mediumPath": "_m/f/2/5/d/schwartz-s-wp/hero-medium.jpg",
-    "smallPath": "_m/f/2/5/d/schwartz-s-wp/hero-small.jpg"
+    "mediumPath": "_m/f/2/5/d/schwartz-s-wp/hero-medium.webp",
+    "smallPath": "_m/f/2/5/d/schwartz-s-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Schwartz smoked meat montreal.JPG",
@@ -112,8 +112,8 @@
       "sourceType": "core",
       "sourceArticleId": "schwartz-s-wp",
       "sourceGeohash4": "f25d",
-      "mediumPath": "_m/f/2/5/d/schwartz-s-wp/series-4-pictures-schw-medium.jpg",
-      "smallPath": "_m/f/2/5/d/schwartz-s-wp/series-4-pictures-schw-small.jpg"
+      "mediumPath": "_m/f/2/5/d/schwartz-s-wp/series-4-pictures-schw-medium.webp",
+      "smallPath": "_m/f/2/5/d/schwartz-s-wp/series-4-pictures-schw-small.webp"
     },
     {
       "filename": "Montréal-blank.png",
@@ -172,7 +172,7 @@
       "sourceType": "core",
       "sourceArticleId": "schwartz-s-wp",
       "sourceGeohash4": "f25d",
-      "smallPath": "_m/f/2/5/d/schwartz-s-wp/lineup-outside-schwart-small.jpg"
+      "smallPath": "_m/f/2/5/d/schwartz-s-wp/lineup-outside-schwart-small.webp"
     },
     {
       "filename": "Fries @ Schwartz's Deli @ Le Plateau @ Montréal (30506699496).jpg",
@@ -200,8 +200,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "schwartz-s-wp",
       "sourceGeohash4": "f25d",
-      "mediumPath": "_m/f/2/5/d/schwartz-s-wp/fries-schwartz-s-deli-le-plate-medium.jpg",
-      "smallPath": "_m/f/2/5/d/schwartz-s-wp/fries-schwartz-s-deli-le-plate-small.jpg"
+      "mediumPath": "_m/f/2/5/d/schwartz-s-wp/fries-schwartz-s-deli-le-plate-medium.webp",
+      "smallPath": "_m/f/2/5/d/schwartz-s-wp/fries-schwartz-s-deli-le-plate-small.webp"
     }
   ],
   "galleryPaths": [
@@ -211,6 +211,24 @@
     "_m/f/2/5/d/schwartz-s-wp/lineup-outside-schwart.jpg",
     "_m/f/2/5/d/schwartz-s-wp/fries-schwartz-s-deli-le-plate.jpg"
   ],
-  "fetchedAt": "2026-02-28T13:43:23.250Z",
-  "updatedAt": "2026-02-28T13:43:38.061Z"
+  "updatedAt": "2026-02-28T13:43:38.061Z",
+  "narration": {
+    "files": [
+      "f25d-schwartzs-flight-context.mp3",
+      "f25d-schwartzs-intro.mp3",
+      "f25d-schwartzs-the-spice-that-launched-a-seasoning.mp3",
+      "f25d-schwartzs-a-founder-a-violinist-and-a-caretaker.mp3",
+      "f25d-schwartzs-the-language-wars-of-smoked-meat.mp3",
+      "f25d-schwartzs-last-deli-standing.mp3"
+    ],
+    "durations": {
+      "f25d-schwartzs-flight-context.mp3": 55.5061666,
+      "f25d-schwartzs-intro.mp3": 55.927375,
+      "f25d-schwartzs-the-spice-that-launched-a-seasoning.mp3": 69.2631666,
+      "f25d-schwartzs-a-founder-a-violinist-and-a-caretaker.mp3": 65.2619166,
+      "f25d-schwartzs-the-language-wars-of-smoked-meat.mp3": 71.8949583,
+      "f25d-schwartzs-last-deli-standing.mp3": 78.3482083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

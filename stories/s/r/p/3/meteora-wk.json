@@ -111,26 +111,46 @@
   "locationWikivoyagePath": "s/r/p/3/meteora-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "albanian-riviera-wk",
-      "title": "Albanian Riviera",
-      "tile": "srn5",
+      "id": "vikos-gorge-wp",
+      "title": "Vikos Gorge",
+      "tile": "srne",
       "coordinates": {
-        "lat": 40.073,
-        "lng": 19.764
+        "lat": 39.928889,
+        "lng": 20.740833
       },
-      "distanceKm": 114.9
+      "distanceKm": 30.2
     },
     "n": {
-      "id": "kor-ula-wk",
-      "title": "Korcula: Marco Polo's Island in the Dalmatian Adriatic",
-      "tile": "srsh",
+      "id": "vergina-wp",
+      "title": "Vergina",
+      "tile": "srpy",
       "coordinates": {
-        "lat": 42.95,
-        "lng": 17.1167
+        "lat": 40.487222222222,
+        "lng": 22.315555555556
       },
-      "distanceKm": 505.7
+      "distanceKm": 87.8
     },
     "ne": {
+      "id": "mount-olympus-wp",
+      "title": "Mount Olympus",
+      "tile": "srpu",
+      "coordinates": {
+        "lat": 40.083333333333336,
+        "lng": 22.35
+      },
+      "distanceKm": 26.5
+    },
+    "w": {
+      "id": "dodona-wp",
+      "title": "Dodona",
+      "tile": "srnb",
+      "coordinates": {
+        "lat": 39.546389,
+        "lng": 20.787778
+      },
+      "distanceKm": 28.2
+    },
+    "e": {
       "id": "thessaloniki-wk",
       "title": "Thessaloniki",
       "tile": "sx0r",
@@ -138,27 +158,7 @@
         "lat": 40.6401,
         "lng": 22.9444
       },
-      "distanceKm": 106.3
-    },
-    "w": {
-      "id": "dubrovnik-wk",
-      "title": "Dubrovnik",
-      "tile": "srsf",
-      "coordinates": {
-        "lat": 42.6507,
-        "lng": 18.0944
-      },
-      "distanceKm": 418.6
-    },
-    "e": {
-      "id": "acropolis-wk",
-      "title": "The Acropolis: Where Western Civilization Built Its Greatest Temple",
-      "tile": "swbb",
-      "coordinates": {
-        "lat": 37.9715,
-        "lng": 23.7267
-      },
-      "distanceKm": 230.4
+      "distanceKm": 130.3
     },
     "sw": {
       "id": "black-death-arrival-wk",

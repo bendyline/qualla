@@ -30,7 +30,7 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-qala-i-jangi-wp",
     "sourceGeohash4": "tqx8",
-    "smallPath": "_m/t/q/x/8/battle-of-qala-i-jangi-wp/hero-small.jpg"
+    "smallPath": "_m/t/q/x/8/battle-of-qala-i-jangi-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Mike Spann Memorial.JPG",
@@ -65,5 +65,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T17:53:33.944Z"
+  "narration": {
+    "files": [
+      "tqx8-battle-of-qala-i-jangi-flight-context.mp3",
+      "tqx8-battle-of-qala-i-jangi-intro.mp3",
+      "tqx8-battle-of-qala-i-jangi-a-fortress-full-of-fighters.mp3",
+      "tqx8-battle-of-qala-i-jangi-two-hours-to-chaos.mp3",
+      "tqx8-battle-of-qala-i-jangi-six-days-of-fire.mp3",
+      "tqx8-battle-of-qala-i-jangi-honors-and-hard-questions.mp3"
+    ],
+    "durations": {
+      "tqx8-battle-of-qala-i-jangi-flight-context.mp3": 42.7605,
+      "tqx8-battle-of-qala-i-jangi-intro.mp3": 49.8596666,
+      "tqx8-battle-of-qala-i-jangi-a-fortress-full-of-fighters.mp3": 61.1712083,
+      "tqx8-battle-of-qala-i-jangi-two-hours-to-chaos.mp3": 63.138875,
+      "tqx8-battle-of-qala-i-jangi-six-days-of-fire.mp3": 80.5565416,
+      "tqx8-battle-of-qala-i-jangi-honors-and-hard-questions.mp3": 69.3235833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

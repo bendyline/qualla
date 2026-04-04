@@ -1,0 +1,164 @@
+{
+  "id": "osum-canyon-wp",
+  "source": "wikipedia",
+  "sourceId": "18981150",
+  "title": "Osum Canyon",
+  "slug": "osum-canyon",
+  "summary": "A 26-kilometer gorge carved over millions of years through southern Albania, where spring snowmelt turns Class II rapids into a corridor of waterfalls and eroded rock formations with names like the Cathedral and the Demon's Door.",
+  "content": {
+    "intro": "The locals call one formation the Demon's Door. Another they named the Eye. A third they call the Cathedral, which is perhaps the most honest name of all, because standing inside the Osum Canyon with limestone walls rising on both sides and waterfalls thundering from ledges overhead, the feeling is unmistakably reverent. This 26-kilometer gorge near the town of Corovode in southern Albania is not the deepest canyon in Europe or the longest, but it may be among the most atmospheric, a place where geology, water, and legend have been collaborating for two to three million years.",
+    "sections": [
+      {
+        "title": "Born Underground",
+        "body": "The prevailing theory holds that the Osum River once flowed entirely underground, carving passages through the limestone before the rock above gradually collapsed and eroded away, exposing the channel to open sky. What remains is a gorge that sits at roughly 450 meters of altitude and narrows in six distinct sections to as little as 1.5 meters across at the riverbed, widening to 35 meters at the top of the walls. The canyon's formation, estimated at two to three million years, left behind a labyrinth of underground passages and unexplored caves that riddle the limestone along its full length. Erosion has pockmarked the cavern walls into honeycombed surfaces and sculpted small caves into the slopes, creating the distinctive rock chain formations that geologists consider among the rarest found in Albanian gorges."
+      },
+      {
+        "title": "A River for Every Season",
+        "body": "Spring transforms the Osum Canyon. Snowmelt from the surrounding mountains raises the water level high enough to make the full 26-kilometer length navigable, and rafters can run the entire gorge on Class II rapids that require no prior whitewater experience. Waterfalls that spend the dry months as trickles or bare rock faces become roaring cascades, pouring from the canyon rim as boats pass below. By late summer the character shifts entirely. The water drops, exposing pools and side streams ideal for swimming, and hikers replace rafters on paths that wind along the canyon's edges. The ecosystem along those edges is unusual in its own right: Mediterranean bushes like heath and briar maintain year-round green cover on both sides of the gorge, sheltering a rich community of flora and fauna that thrives in the canyon's sheltered microclimate."
+      },
+      {
+        "title": "Stories in Stone",
+        "body": "The formations that locals have named -- the Cathedral, the Eye, the Demon's Door -- are products of the same erosive forces that built the canyon itself, but they carry a weight that geology alone does not explain. The inhabitants of the surrounding villages have attached legends to the gorge for generations: the tale of Mulliri i Babait, the story of Vrima e Nuses, the legend of Saint Abaz Ali. These are not tourist inventions but oral traditions passed between families in the villages whose streams feed into the Osum from both sides of the gorge, tumbling down through the rock chain to join the river below. The canyon's walls, pockmarked and sculpted by millions of years of water, look ancient enough to justify any story. Walking along the rim or floating through the narrows, visitors encounter a landscape that invites narrative -- every twist in the rock suggests a face, a doorway, a cathedral nave carved by something more deliberate than rain."
+      },
+      {
+        "title": "The Wider Current",
+        "body": "The Osum does not end at the canyon. Downstream it flows through Berat, the UNESCO World Heritage city known as the City of a Thousand Windows, where it separates the Mangalem and Gorica quarters and reflects the tiered Ottoman-era houses climbing the hillside. The canyon and the city are connected by the same water, and visitors to either place feel the presence of the other. Upstream from Corovode, the river's tributaries drain the slopes near Tomorr National Park, linking the canyon to another of Albania's natural landmarks. Rafting outfitters in the region run trips through the gorge during the spring high-water season, and the surrounding area has become a growing destination for adventure tourism in a country still revealing its landscapes to the wider world."
+      }
+    ],
+    "flightContext": "Located at 40.47N, 20.26E in the Skrapar District of southern Albania, near the town of Corovode. The canyon is a dramatic linear feature visible from altitude, running roughly north-south through limestone terrain. Mount Tomorr (2,416 m) rises to the west as a prominent visual reference. Nearest major airport is Tirana International Airport Nene Tereza (LATI), approximately 120 km to the northwest. Best viewed at 4,000-6,000 ft AGL to appreciate the narrow gorge and its six constriction points. The canyon connects downstream to the Osum River valley leading to Berat."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 40.47,
+      "lng": 20.255
+    },
+    "geohash": "srnqh"
+  },
+  "categories": [
+    "canyons",
+    "natural-landmarks",
+    "adventure-tourism",
+    "geology"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-23T00:00:00Z",
+    "wordCount": 730,
+    "readTime": 4,
+    "firstPublished": "2026-03-23T00:00:00Z",
+    "storyNumber": 11679
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Osum Canyon - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Osum_Canyon",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "26-kilometer length confirmed",
+        "canyon formation estimated at 2-3 million years",
+        "Class II rapids in spring",
+        "width narrows to 1.5 meters at riverbed",
+        "widening to 35 meters at top of walls",
+        "Cathedral, Eye, and Demon's Door formations confirmed",
+        "canyon connects to Berat UNESCO city downstream"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Osumi Canyon - Official Albania Tourism Website",
+      "url": "https://akt.gov.al/en/natyre/kanioni-i-osumit/",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "location near Corovode in Skrapar District confirmed",
+        "Mediterranean vegetation (heath, briar) on canyon edges confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "s/r/n/q/osum-canyon-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "sveti-stefan-wk",
+      "title": "Sveti Stefan",
+      "tile": "srt2",
+      "coordinates": {
+        "lat": 42.25611,
+        "lng": 18.89139
+      },
+      "distanceKm": 176.9
+    },
+    "n": {
+      "id": "ohrid-wk",
+      "title": "Ohrid",
+      "tile": "srqc",
+      "coordinates": {
+        "lat": 41.116944,
+        "lng": 20.801944
+      },
+      "distanceKm": 61.8
+    },
+    "ne": {
+      "id": "church-of-saint-sophia-ohrid-wp",
+      "title": "Church of Saint Sophia, Ohrid",
+      "tile": "srqc",
+      "coordinates": {
+        "lat": 41.11194,
+        "lng": 20.79389
+      },
+      "distanceKm": 37
+    },
+    "w": {
+      "id": "apollonia-illyria-wp",
+      "title": "Apollonia (Illyria)",
+      "tile": "srjz",
+      "coordinates": {
+        "lat": 40.721672,
+        "lng": 19.472658
+      },
+      "distanceKm": 29
+    },
+    "e": {
+      "id": "meteora-wk",
+      "title": "Meteora: The Monasteries Built on Impossible Pillars",
+      "tile": "srp3",
+      "coordinates": {
+        "lat": 39.7217,
+        "lng": 21.6306
+      },
+      "distanceKm": 116.4
+    },
+    "sw": {
+      "id": "llogara-national-park-wk",
+      "title": "Llogara National Park",
+      "tile": "srju",
+      "coordinates": {
+        "lat": 40.21639,
+        "lng": 19.57028
+      },
+      "distanceKm": 10.8
+    },
+    "s": {
+      "id": "vjosa-wild-river-national-park-wp",
+      "title": "Vjosa Wild River National Park",
+      "tile": "srns",
+      "coordinates": {
+        "lat": 40.12416666666667,
+        "lng": 20.4325
+      },
+      "distanceKm": 23.5
+    },
+    "se": {
+      "id": "dodona-wp",
+      "title": "Dodona",
+      "tile": "srnb",
+      "coordinates": {
+        "lat": 39.546389,
+        "lng": 20.787778
+      },
+      "distanceKm": 78.8
+    }
+  }
+}

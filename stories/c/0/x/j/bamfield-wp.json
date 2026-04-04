@@ -1,0 +1,160 @@
+{
+  "id": "bamfield-wp",
+  "source": "wikipedia",
+  "sourceId": "649097",
+  "title": "Bamfield",
+  "slug": "bamfield",
+  "summary": "A village of 179 people on Vancouver Island's Barkley Sound whose history spans Indigenous habitation, a global telegraph hub, and the gateway to one of the world's great hiking trails.",
+  "content": {
+    "intro": "Even the name is a mistake. The village was supposed to be called Banfield, after William Eddy Banfield, the first government agent of the area. Whether the Huu-ay-aht pronunciation shifted the spelling or a postal clerk simply made an error, the misspelled name stuck. Bamfield has been accumulating unlikely stories ever since -- submarine telegraph cables, Japanese naval bombardment, the world's first motor lifeboat, and a reinvention as a research outpost that keeps this community of 179 people on the map.",
+    "sections": [
+      {
+        "title": "The Red Line Lands",
+        "body": "In 1902, Bamfield became an improbable junction in global communications. The Pacific Cable Board built a station here as the western terminus of the All Red Line, a submarine telegraph cable that connected the British Empire exclusively through territories it controlled -- colored red on maps of the era. The cable ran from Bamfield to Fanning Island, a speck of coral 1,600 kilometers south of Hawaii, then onward to Fiji, New Zealand, and Australia. For decades, dots and dashes carrying news, commerce, and imperial administration passed through this rain-soaked inlet on Vancouver Island's outer coast. During World War II, an Imperial Japanese Navy submarine shelled the cable station from nearby Barkley Sound, inflicting little damage but prompting the Canadian government to garrison troops in the village for the duration of the war."
+      },
+      {
+        "title": "Where the Trail Begins",
+        "body": "Bamfield sits at the northern terminus of the West Coast Trail, a 75-kilometer route carved through old-growth forest in 1907 to save the lives of shipwreck survivors along the treacherous coast nicknamed the Graveyard of the Pacific. The trail runs south to Port Renfrew through some of the most rugged terrain in British Columbia. Canada's first Pacific Coast lifesaving station was established at Bamfield that same year, equipped in 1908 with a 36-foot motor lifeboat -- the world's first purpose-built vessel of its kind, designed to US Lifesaving Service specifications by the Electric Launch Company of Bayonne, New Jersey. The Canadian Coast Guard still operates from Bamfield, now hosting the Rigid Hull Inflatable Operator Training School."
+      },
+      {
+        "title": "From Cannery to Classroom",
+        "body": "Commercial fishing sustained Bamfield through the mid-1980s, but the village's economic anchor shifted when five western Canadian universities converted the old cable station into the Bamfield Marine Sciences Centre in 1972. The concrete building that once relayed telegraphs now hosts marine biology courses, research labs, and field programs that attract hundreds of researchers and thousands of students annually. It is the largest employer in town. Sport fishing lodges pursuing salmon and halibut have filled another niche, along with ocean kayaking outfitters catering to visitors drawn by the Pacific Rim National Park. The community remains split by Bamfield Inlet -- east side and west side, connected by boardwalk and boat, each with its own character."
+      },
+      {
+        "title": "The Inlet's Quiet Persistence",
+        "body": "Bamfield's oceanic climate means rain, fog, and mild temperatures year-round. The Huu-ay-aht people, part of the Nuu-chah-nulth nation, populated this coast long before Europeans arrived to fish and string telegraph cables. Most Huu-ay-aht now live in the neighboring village of Anacla, about five kilometers away, though their connection to the surrounding land and waters remains central to the region's identity. Bamfield is not easy to reach -- the road from Port Alberni is gravel for much of its length, and many visitors arrive by boat or floatplane. That remoteness is the point. It is what preserved the marine ecosystems that researchers now study, what kept the old-growth forests standing long enough to become a national park, and what gives the village its particular quality of feeling both at the edge of the world and somehow connected to all of it."
+      }
+    ],
+    "flightContext": "Bamfield sits on Barkley Sound at 48.83°N, 125.14°W on Vancouver Island's west coast. The village straddles Bamfield Inlet. Visible from 2,000-3,000 feet as a small cluster of structures on both sides of the inlet. Nearest airport: Port Alberni (CBS8). Floatplane access common. Expect frequent marine fog and overcast conditions. Barkley Sound provides dramatic aerial scenery with its many islands and inlets."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 48.830277777778,
+      "lng": -125.1375
+    },
+    "geohash": "c0xjb"
+  },
+  "categories": [
+    "community",
+    "history",
+    "telecommunications",
+    "maritime",
+    "coastal",
+    "indigenous-culture"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-21T00:00:00Z",
+    "wordCount": 700,
+    "readTime": 4,
+    "firstPublished": "2026-03-21T00:00:00Z",
+    "storyNumber": 10775
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Bamfield, British Columbia - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bamfield,_British_Columbia",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "Name origin from William Eddy Banfield confirmed",
+        "All Red Line 1902 landing confirmed",
+        "Cable ran to Fanning Island 1,600 km south of Hawaii confirmed",
+        "WWII Japanese submarine shelling confirmed",
+        "BMSC conversion 1972 confirmed",
+        "First Pacific Coast lifesaving station 1907 confirmed",
+        "36-foot motor lifeboat 1908 confirmed as world's first purpose-built motor lifeboat",
+        "Electric Launch Company of Bayonne NJ confirmed",
+        "Huu-ay-aht people now live in Anacla confirmed",
+        "75-km West Coast Trail northern terminus at Bamfield confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "c/0/x/j/bamfield-wp",
+  "locationWikivoyagePath": "c/0/x/j/bamfield-wk",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "long-beach-british-columbia-wp",
+      "title": "Long Beach",
+      "tile": "c0wx",
+      "coordinates": {
+        "lat": 49.0656,
+        "lng": -125.7605
+      },
+      "distanceKm": 18.6
+    },
+    "n": {
+      "id": "fossli-provincial-park-wp",
+      "title": "Fossli Provincial Park",
+      "tile": "c0z0",
+      "coordinates": {
+        "lat": 49.25,
+        "lng": -124.95
+      },
+      "distanceKm": 23.1
+    },
+    "ne": {
+      "id": "englishman-river-falls-provincial-park-wp",
+      "title": "Englishman River Falls Provincial Park",
+      "tile": "c0z8",
+      "coordinates": {
+        "lat": 49.2475,
+        "lng": -124.352
+      },
+      "distanceKm": 23.9
+    },
+    "w": {
+      "id": "rogue-wave-wp",
+      "title": "Rogue Wave",
+      "tile": "c0ww",
+      "coordinates": {
+        "lat": 48.84,
+        "lng": -125.6
+      },
+      "distanceKm": 9.5
+    },
+    "e": {
+      "id": "harris-creek-sitka-spruce-wp",
+      "title": "Harris Creek Sitka Spruce",
+      "tile": "c0xs",
+      "coordinates": {
+        "lat": 48.679211111111,
+        "lng": -124.21418055556
+      },
+      "distanceKm": 20.8
+    },
+    "sw": {
+      "id": "ss-coast-trader-wp",
+      "title": "SS Coast Trader",
+      "tile": "c0wd",
+      "coordinates": {
+        "lat": 48.31666666666667,
+        "lng": -125.66666666666667
+      },
+      "distanceKm": 25
+    },
+    "s": {
+      "id": "ss-pacific-1850-wp",
+      "title": "SS Pacific (1850)",
+      "tile": "c0x5",
+      "coordinates": {
+        "lat": 48.383117,
+        "lng": -125.001361
+      },
+      "distanceKm": 14.8
+    },
+    "se": {
+      "id": "juan-de-fuca-provincial-park-wp",
+      "title": "Juan de Fuca Provincial Park",
+      "tile": "c0xe",
+      "coordinates": {
+        "lat": 48.4833,
+        "lng": -124.283
+      },
+      "distanceKm": 13
+    }
+  }
+}

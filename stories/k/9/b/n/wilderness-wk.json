@@ -1,0 +1,151 @@
+{
+  "id": "wilderness-wk",
+  "source": "wikipedia",
+  "sourceId": "39318",
+  "title": "Wilderness",
+  "slug": "wilderness",
+  "summary": "A Garden Route village where lakes, lagoons, and the Indian Ocean meet beneath the Outeniqua Mountains, and where an abandoned railway bridge became more famous than the train it carried.",
+  "content": {
+    "intro": "From the air, the river valley looks exactly like Africa. Not metaphorically -- literally. The Kaaimans River and its tributaries carve a shape into the landscape that mirrors the outline of the continent, and a viewpoint above Wilderness called the Map of Africa lets you see the resemblance from the ground. It is the kind of coincidence that feels deliberate, as if the landscape wanted to remind visitors where they are: on the southern coast of South Africa, in a village whose name promises exactly what it delivers.",
+    "sections": [
+      {
+        "title": "Between the Mountains and the Waves",
+        "body": "Wilderness sits in the heart of the Garden Route, cradled between the Outeniqua Mountains to the north and the Indian Ocean to the south. The Kaaimans River marks its western boundary, the Goukama Nature Reserve its eastern edge. Between these borders, a chain of freshwater lakes and lagoons -- the Wilderness Lakes system -- threads through indigenous forest and fynbos, connected by the Serpentine, a winding waterway that links Island Lake to the Touw River. The Touw itself flows through the Wilderness section of the Garden Route National Park, where hiking trails lead to waterfalls hidden in forested gorges. The village proper is small, strung along the N2 highway, with the beach just a short walk beneath the railway tracks."
+      },
+      {
+        "title": "The Bridge That Outlived Its Train",
+        "body": "The Kaaimans River Bridge may be the most photographed railway bridge in the world, and it no longer carries trains. The Outeniqua Choo-Tjoe, a steam train that ran between George and Knysna, crossed this arched stone bridge on its journey through some of the most dramatic coastal scenery in southern Africa. Heavy floods in 2006 damaged sections of the track, and the service was suspended, then permanently closed in 2010. The bridge remains, framing the river mouth and the ocean beyond in an image that appears on postcards, calendars, and television advertisements. Walkers now use the abandoned tracks, following the old route along the coast from Wilderness Beach. Classic Rail has been working to restore service on the line, but for now, the bridge stands as a monument to what was once South Africa's last scheduled steam train."
+      },
+      {
+        "title": "Wings Over the Valley",
+        "body": "Paragliders launch from the ridge above the Map of Africa viewpoint, riding thermals that rise where the Outeniqua foothills meet the warmer coastal air. On a good day, they hang above the valley for hours, tracing the serpentine curves of the river below. The Kaaimans River Pass, connecting Wilderness to George, winds through the same terrain at a more cautious pace -- the speed limit is 60 kilometers per hour, and permanent speed cameras enforce it for good reason. The pass is steep, narrow, and treacherous when wet. But the views from Dolphin Point, halfway up the pass, compensate for the careful driving: the coastline stretches in both directions, and dolphins are frequently visible in the surf below."
+      },
+      {
+        "title": "Feathers and Stillness",
+        "body": "Wilderness draws birders the way its thermals draw paragliders. The lakes, wetlands, and forests support populations of pygmy kingfisher, giant kingfisher, Knysna turaco (locally called a lourie), woodpeckers, and multiple species of sunbird. Bird hides are scattered through the national park section, positioned along the waterways where patience is rewarded with sightings of species that favor the dense riparian vegetation. The village itself maintains a quieter character than its Garden Route neighbors. There is no real nightlife -- drinks are available at the restaurants, and bands sometimes play on weekends, but the default evening soundtrack is wind, surf, and the calls of birds settling into the forest canopy. Craft markets run weekly and monthly, and the local artisan community sells work ranging from ceramics to textiles. It is a place calibrated for slowing down."
+      }
+    ],
+    "flightContext": "Wilderness is at 33.99S, 22.58E on the Garden Route coast. The village sits between the Outeniqua Mountains and the Indian Ocean along the N2 highway. Nearest airport: George (FAGG), approximately 15 km west. The Kaaimans River Bridge and Map of Africa valley are distinctive visual landmarks. Approach along the coast from either direction for dramatic views of the lakes system and mountain backdrop. Recommended altitude: 2,000-3,000 ft AGL for views of the lagoon system and railway bridge. Watch for paraglider activity above the Map of Africa viewpoint."
+  },
+  "location": {
+    "coordinates": {
+      "lat": -33.994896,
+      "lng": 22.580659
+    },
+    "geohash": "k9bn9"
+  },
+  "categories": [
+    "coastal",
+    "garden-route",
+    "nature"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-09T00:00:00Z",
+    "wordCount": 710,
+    "readTime": 4,
+    "firstPublished": "2026-03-09T00:00:00Z",
+    "storyNumber": 7644
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Outeniqua Choo Tjoe - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Outeniqua_Choo_Tjoe",
+      "accessedAt": "2026-03-12",
+      "claimsVerified": [
+        "Floods in 2006 damaged track confirmed",
+        "Service permanently closed 2010 confirmed",
+        "Classic Rail working to restore service confirmed",
+        "Kaaimans River Bridge most photographed railway bridge claim noted"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "cape-fold-belt-wp",
+      "title": "Cape Fold Belt",
+      "tile": "k6p9",
+      "coordinates": {
+        "lat": -33.4,
+        "lng": 22
+      },
+      "distanceKm": 41.3
+    },
+    "n": {
+      "id": "meiringspoort-wp",
+      "title": "Meiringspoort",
+      "tile": "kd01",
+      "coordinates": {
+        "lat": -33.4163,
+        "lng": 22.5497
+      },
+      "distanceKm": 38.9
+    },
+    "ne": {
+      "id": "camdeboo-national-park-wk",
+      "title": "Camdeboo National Park",
+      "tile": "kd32",
+      "coordinates": {
+        "lat": -32.25,
+        "lng": 24.5
+      },
+      "distanceKm": 206
+    },
+    "w": {
+      "id": "garden-route-wk",
+      "title": "Garden Route",
+      "tile": "k3zw",
+      "coordinates": {
+        "lat": -34.01,
+        "lng": 22.01
+      },
+      "distanceKm": 12.8
+    },
+    "e": {
+      "id": "garden-route-national-park-wp",
+      "title": "Garden Route National Park",
+      "tile": "k9bw",
+      "coordinates": {
+        "lat": -34,
+        "lng": 23.25
+      },
+      "distanceKm": 4.6
+    },
+    "sw": {
+      "id": "stilbaai-tidal-fish-traps-wp",
+      "title": "Stilbaai Tidal Fish Traps",
+      "tile": "k3zh",
+      "coordinates": {
+        "lat": -34.39779,
+        "lng": 21.412075
+      },
+      "distanceKm": 68.9
+    },
+    "s": {
+      "id": "blombos-cave-wp",
+      "title": "Blombos Cave",
+      "tile": "k3zh",
+      "coordinates": {
+        "lat": -34.414444444444,
+        "lng": 21.2225
+      },
+      "distanceKm": 134.3
+    },
+    "se": {
+      "id": "venpet-venoil-collision-wp",
+      "title": "Venpet-Venoil Collision",
+      "tile": "k9ch",
+      "coordinates": {
+        "lat": -34.4333,
+        "lng": 24.0667
+      },
+      "distanceKm": 81.1
+    }
+  },
+  "locationWikipediaPath": "k/9/b/n/wilderness-national-park-wp",
+  "locationWikivoyagePath": "k/9/b/n/wilderness-wk"
+}

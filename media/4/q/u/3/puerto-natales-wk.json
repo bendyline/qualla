@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/4/q/u/3/puerto-natales-wk/4qu3-puerto-natales-intro.mp3",
-        "_m/4/q/u/3/puerto-natales-wk/4qu3-puerto-natales-chilote-soul.mp3",
         "_m/4/q/u/3/puerto-natales-wk/4qu3-puerto-natales-flight-context.mp3",
-        "_m/4/q/u/3/puerto-natales-wk/4qu3-puerto-natales-gateway-to-the-glaciers.mp3",
+        "_m/4/q/u/3/puerto-natales-wk/4qu3-puerto-natales-intro.mp3",
         "_m/4/q/u/3/puerto-natales-wk/4qu3-puerto-natales-last-hope-sound.mp3",
+        "_m/4/q/u/3/puerto-natales-wk/4qu3-puerto-natales-trekkers-town.mp3",
         "_m/4/q/u/3/puerto-natales-wk/4qu3-puerto-natales-the-milod-n-cave.mp3",
-        "_m/4/q/u/3/puerto-natales-wk/4qu3-puerto-natales-trekkers-town.mp3"
+        "_m/4/q/u/3/puerto-natales-wk/4qu3-puerto-natales-gateway-to-the-glaciers.mp3",
+        "_m/4/q/u/3/puerto-natales-wk/4qu3-puerto-natales-chilote-soul.mp3"
       ],
       "hero": {
         "path": "_m/4/q/u/3/puerto-natales-wk/gletscherfahrt3.jpg",
@@ -26,8 +26,8 @@
         "sourceArticleId": "puerto-natales-wk",
         "sourceGeohash4": "4qu3",
         "accessedAt": "2026-02-21T20:06:03.221Z",
-        "smallPath": "_m/4/q/u/3/puerto-natales-wk/gletscherfahrt3-small.jpg",
-        "mediumPath": "_m/4/q/u/3/puerto-natales-wk/gletscherfahrt3-medium.jpg"
+        "smallPath": "_m/4/q/u/3/puerto-natales-wk/hero-small.webp",
+        "mediumPath": "_m/4/q/u/3/puerto-natales-wk/hero-medium.webp"
       },
       "images": [
         {
@@ -54,7 +54,7 @@
             "Puerto Natales",
             "Self-published work"
           ],
-          "smallPath": "_m/4/q/u/3/puerto-natales-wk/comuna-natales-small.png"
+          "smallPath": "_m/4/q/u/3/puerto-natales-wk/comuna-natales-small.webp"
         },
         {
           "path": "_m/4/q/u/3/puerto-natales-wk/amadeo-i-navimag.jpg",
@@ -81,7 +81,7 @@
             "Seno Última Esperanza",
             "Taken with Canon PowerShot G9"
           ],
-          "smallPath": "_m/4/q/u/3/puerto-natales-wk/amadeo-i-navimag-small.jpg"
+          "smallPath": "_m/4/q/u/3/puerto-natales-wk/amadeo-i-navimag-small.webp"
         },
         {
           "path": "_m/4/q/u/3/puerto-natales-wk/fox-puerto-natales-patagonia-c.jpg",
@@ -107,8 +107,8 @@
             "Side views of canids",
             "Taken with Nikon D300"
           ],
-          "smallPath": "_m/4/q/u/3/puerto-natales-wk/fox-puerto-natales-patagonia-c-small.jpg",
-          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/fox-puerto-natales-patagonia-c-medium.jpg"
+          "smallPath": "_m/4/q/u/3/puerto-natales-wk/fox-puerto-natales-patagonia-c-small.webp",
+          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/fox-puerto-natales-patagonia-c-medium.webp"
         },
         {
           "path": "_m/4/q/u/3/puerto-natales-wk/2007-12-20-mv-evangelistas-pue.jpg",
@@ -133,8 +133,8 @@
             "Seno Última Esperanza",
             "Taken with Fujifilm FinePix A900"
           ],
-          "smallPath": "_m/4/q/u/3/puerto-natales-wk/2007-12-20-mv-evangelistas-pue-small.jpg",
-          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/2007-12-20-mv-evangelistas-pue-medium.jpg"
+          "smallPath": "_m/4/q/u/3/puerto-natales-wk/2007-12-20-mv-evangelistas-pue-small.webp",
+          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/2007-12-20-mv-evangelistas-pue-medium.webp"
         },
         {
           "path": "_m/4/q/u/3/puerto-natales-wk/2007-12-21-english-narrows-pat.jpg",
@@ -161,8 +161,8 @@
             "Straits of Chile",
             "Taken with Fujifilm FinePix A900"
           ],
-          "smallPath": "_m/4/q/u/3/puerto-natales-wk/2007-12-21-english-narrows-pat-small.jpg",
-          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/2007-12-21-english-narrows-pat-medium.jpg"
+          "smallPath": "_m/4/q/u/3/puerto-natales-wk/2007-12-21-english-narrows-pat-small.webp",
+          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/2007-12-21-english-narrows-pat-medium.webp"
         },
         {
           "path": "_m/4/q/u/3/puerto-natales-wk/cormorant-in-puerto-natales-55.jpg",
@@ -191,7 +191,7 @@
             "Seno Última Esperanza",
             "Taken with Canon EOS 5D Mark II"
           ],
-          "smallPath": "_m/4/q/u/3/puerto-natales-wk/cormorant-in-puerto-natales-55-small.jpg"
+          "smallPath": "_m/4/q/u/3/puerto-natales-wk/cormorant-in-puerto-natales-55-small.webp"
         },
         {
           "path": "_m/4/q/u/3/puerto-natales-wk/cormorant-in-puerto-natales-55-1.jpg",
@@ -212,7 +212,7 @@
             "CC-BY-SA-2.0",
             "Files with coordinates missing SDC location of creation"
           ],
-          "smallPath": "_m/4/q/u/3/puerto-natales-wk/cormorant-in-puerto-natales-55-1-small.jpg"
+          "smallPath": "_m/4/q/u/3/puerto-natales-wk/cormorant-in-puerto-natales-55-1-small.webp"
         },
         {
           "path": "_m/4/q/u/3/puerto-natales-wk/cormorant-in-puerto-natales-54.jpg",
@@ -229,8 +229,8 @@
           "sourceArticleId": "puerto-natales-wk",
           "sourceGeohash4": "4qu3",
           "accessedAt": "2026-02-21T20:06:03.221Z",
-          "smallPath": "_m/4/q/u/3/puerto-natales-wk/cormorant-in-puerto-natales-54-small.jpg",
-          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/cormorant-in-puerto-natales-54-medium.jpg"
+          "smallPath": "_m/4/q/u/3/puerto-natales-wk/cormorant-in-puerto-natales-54-small.webp",
+          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/cormorant-in-puerto-natales-54-medium.webp"
         },
         {
           "path": "_m/4/q/u/3/puerto-natales-wk/cormorant-in-puerto-natales-54-1.jpg",
@@ -247,8 +247,8 @@
           "sourceArticleId": "puerto-natales-wk",
           "sourceGeohash4": "4qu3",
           "accessedAt": "2026-02-21T20:06:03.221Z",
-          "smallPath": "_m/4/q/u/3/puerto-natales-wk/cormorant-in-puerto-natales-54-1-small.jpg",
-          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/cormorant-in-puerto-natales-54-1-medium.jpg"
+          "smallPath": "_m/4/q/u/3/puerto-natales-wk/cormorant-in-puerto-natales-54-1-small.webp",
+          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/cormorant-in-puerto-natales-54-1-medium.webp"
         },
         {
           "path": "_m/4/q/u/3/puerto-natales-wk/gas-stop-5463456911.jpg",
@@ -265,8 +265,8 @@
           "sourceArticleId": "puerto-natales-wk",
           "sourceGeohash4": "4qu3",
           "accessedAt": "2026-02-21T20:06:03.221Z",
-          "smallPath": "_m/4/q/u/3/puerto-natales-wk/gas-stop-5463456911-small.jpg",
-          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/gas-stop-5463456911-medium.jpg"
+          "smallPath": "_m/4/q/u/3/puerto-natales-wk/gas-stop-5463456911-small.webp",
+          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/gas-stop-5463456911-medium.webp"
         },
         {
           "path": "_m/4/q/u/3/puerto-natales-wk/anas-sibilatrix-puerto-natales.jpg",
@@ -283,7 +283,7 @@
           "sourceArticleId": "puerto-natales-wk",
           "sourceGeohash4": "4qu3",
           "accessedAt": "2026-02-21T20:06:03.221Z",
-          "smallPath": "_m/4/q/u/3/puerto-natales-wk/anas-sibilatrix-puerto-natales-small.jpg"
+          "smallPath": "_m/4/q/u/3/puerto-natales-wk/anas-sibilatrix-puerto-natales-small.webp"
         },
         {
           "path": "_m/4/q/u/3/puerto-natales-wk/explorador-y-difusor-de-la-pat.jpg",
@@ -300,8 +300,8 @@
           "sourceArticleId": "puerto-natales-wk",
           "sourceGeohash4": "4qu3",
           "accessedAt": "2026-02-21T20:06:03.221Z",
-          "smallPath": "_m/4/q/u/3/puerto-natales-wk/explorador-y-difusor-de-la-pat-small.jpg",
-          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/explorador-y-difusor-de-la-pat-medium.jpg"
+          "smallPath": "_m/4/q/u/3/puerto-natales-wk/explorador-y-difusor-de-la-pat-small.webp",
+          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/explorador-y-difusor-de-la-pat-medium.webp"
         },
         {
           "path": "_m/4/q/u/3/puerto-natales-wk/fiordo-de-puerto-natales.jpg",
@@ -318,8 +318,8 @@
           "sourceArticleId": "puerto-natales-wk",
           "sourceGeohash4": "4qu3",
           "accessedAt": "2026-02-21T20:06:03.221Z",
-          "smallPath": "_m/4/q/u/3/puerto-natales-wk/fiordo-de-puerto-natales-small.jpg",
-          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/fiordo-de-puerto-natales-medium.jpg"
+          "smallPath": "_m/4/q/u/3/puerto-natales-wk/fiordo-de-puerto-natales-small.webp",
+          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/fiordo-de-puerto-natales-medium.webp"
         },
         {
           "path": "_m/4/q/u/3/puerto-natales-wk/costanera-puerto-natales.jpg",
@@ -336,8 +336,8 @@
           "sourceArticleId": "puerto-natales-wk",
           "sourceGeohash4": "4qu3",
           "accessedAt": "2026-02-21T20:06:03.221Z",
-          "smallPath": "_m/4/q/u/3/puerto-natales-wk/costanera-puerto-natales-small.jpg",
-          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/costanera-puerto-natales-medium.jpg"
+          "smallPath": "_m/4/q/u/3/puerto-natales-wk/costanera-puerto-natales-small.webp",
+          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/costanera-puerto-natales-medium.webp"
         },
         {
           "path": "_m/4/q/u/3/puerto-natales-wk/hero.jpg",
@@ -365,8 +365,8 @@
             "Photos by Rémi Jouan",
             "Self-published work"
           ],
-          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/hero-medium.jpg",
-          "smallPath": "_m/4/q/u/3/puerto-natales-wk/hero-small.jpg"
+          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/gletscherfahrt3-medium.webp",
+          "smallPath": "_m/4/q/u/3/puerto-natales-wk/gletscherfahrt3-small.webp"
         },
         {
           "path": "_m/4/q/u/3/puerto-natales-wk/gletscherfahrt1.jpg",
@@ -383,8 +383,8 @@
           "sourceArticleId": "puerto-natales-wk",
           "sourceGeohash4": "4qu3",
           "accessedAt": "2026-02-21T20:06:03.221Z",
-          "smallPath": "_m/4/q/u/3/puerto-natales-wk/gletscherfahrt1-small.jpg",
-          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/gletscherfahrt1-medium.jpg"
+          "smallPath": "_m/4/q/u/3/puerto-natales-wk/gletscherfahrt1-small.webp",
+          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/gletscherfahrt1-medium.webp"
         },
         {
           "path": "_m/4/q/u/3/puerto-natales-wk/bandurria-austral-en-puerto-bo.jpg",
@@ -401,8 +401,8 @@
           "sourceArticleId": "puerto-natales-wk",
           "sourceGeohash4": "4qu3",
           "accessedAt": "2026-02-21T20:06:03.221Z",
-          "smallPath": "_m/4/q/u/3/puerto-natales-wk/bandurria-austral-en-puerto-bo-small.jpg",
-          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/bandurria-austral-en-puerto-bo-medium.jpg"
+          "smallPath": "_m/4/q/u/3/puerto-natales-wk/bandurria-austral-en-puerto-bo-small.webp",
+          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/bandurria-austral-en-puerto-bo-medium.webp"
         },
         {
           "path": "_m/4/q/u/3/puerto-natales-wk/chile-2015-11-13-23371743123.jpg",
@@ -419,8 +419,8 @@
           "sourceArticleId": "puerto-natales-wk",
           "sourceGeohash4": "4qu3",
           "accessedAt": "2026-02-21T20:06:03.221Z",
-          "smallPath": "_m/4/q/u/3/puerto-natales-wk/chile-2015-11-13-23371743123-small.jpg",
-          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/chile-2015-11-13-23371743123-medium.jpg"
+          "smallPath": "_m/4/q/u/3/puerto-natales-wk/chile-2015-11-13-23371743123-small.webp",
+          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/chile-2015-11-13-23371743123-medium.webp"
         },
         {
           "path": "_m/4/q/u/3/puerto-natales-wk/chile-2015-11-13-23702809910.jpg",
@@ -437,8 +437,8 @@
           "sourceArticleId": "puerto-natales-wk",
           "sourceGeohash4": "4qu3",
           "accessedAt": "2026-02-21T20:06:03.221Z",
-          "smallPath": "_m/4/q/u/3/puerto-natales-wk/chile-2015-11-13-23702809910-small.jpg",
-          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/chile-2015-11-13-23702809910-medium.jpg"
+          "smallPath": "_m/4/q/u/3/puerto-natales-wk/chile-2015-11-13-23702809910-small.webp",
+          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/chile-2015-11-13-23702809910-medium.webp"
         },
         {
           "path": "_m/4/q/u/3/puerto-natales-wk/chile-2015-11-13-23370274254.jpg",
@@ -455,8 +455,8 @@
           "sourceArticleId": "puerto-natales-wk",
           "sourceGeohash4": "4qu3",
           "accessedAt": "2026-02-21T20:06:03.221Z",
-          "smallPath": "_m/4/q/u/3/puerto-natales-wk/chile-2015-11-13-23370274254-small.jpg",
-          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/chile-2015-11-13-23370274254-medium.jpg"
+          "smallPath": "_m/4/q/u/3/puerto-natales-wk/chile-2015-11-13-23370274254-small.webp",
+          "mediumPath": "_m/4/q/u/3/puerto-natales-wk/chile-2015-11-13-23370274254-medium.webp"
         },
         {
           "path": "_m/tpc/pu/er/to/-n/puerto-natales/placa-a-juan-ladrillero-1.jpg",
@@ -625,7 +625,8 @@
             "Iglesia de María Auxiliadora, Puerto Natales"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/4/q/u/3/puerto-natales-wk/4qu3-puerto-natales-combined.mp3"
     }
   }
 }

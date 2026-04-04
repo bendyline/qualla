@@ -28,7 +28,7 @@
           "PD US",
           "Russian iron boiler jacketing"
         ],
-        "smallPath": "_m/f/0/5/8/boyne-city-railroad-wp/hero-small.jpg"
+        "smallPath": "_m/f/0/5/8/boyne-city-railroad-wp/hero-small.webp"
       },
       "images": [
         {
@@ -56,7 +56,7 @@
             "Postcards with the other side in the page history",
             "Steam locomotives of the United States"
           ],
-          "smallPath": "_m/f/0/5/8/boyne-city-railroad-wp/postcard-photo-boyne-c-small.jpg"
+          "smallPath": "_m/f/0/5/8/boyne-city-railroad-wp/postcard-photo-boyne-c-small.webp"
         },
         {
           "path": "_m/f/0/5/8/boyne-city-railroad-wp/boyne_city_railroad-ro.jpg",
@@ -81,7 +81,7 @@
             "PD US",
             "Uploaded with MTC!"
           ],
-          "smallPath": "_m/f/0/5/8/boyne-city-railroad-wp/boyne_city_railroad-ro-small.jpg"
+          "smallPath": "_m/f/0/5/8/boyne-city-railroad-wp/boyne_city_railroad-ro-small.webp"
         },
         {
           "path": "_m/f/0/5/8/boyne-city-railroad-wp/boyne-city-railroad-building.jpg",
@@ -106,9 +106,19 @@
             "Michigan State Historic Sites in Charlevoix County, Michigan",
             "Self-published work"
           ],
-          "smallPath": "_m/f/0/5/8/boyne-city-railroad-wp/boyne-city-railroad-building-small.jpg"
+          "smallPath": "_m/f/0/5/8/boyne-city-railroad-wp/boyne-city-railroad-building-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/f/0/5/8/boyne-city-railroad-wp/f058-boyne-city-railroad-flight-context.mp3",
+        "_m/f/0/5/8/boyne-city-railroad-wp/f058-boyne-city-railroad-intro.mp3",
+        "_m/f/0/5/8/boyne-city-railroad-wp/f058-boyne-city-railroad-whites-empire-on-the-dock.mp3",
+        "_m/f/0/5/8/boyne-city-railroad-wp/f058-boyne-city-railroad-gaylord-alpena-and-the-receiver.mp3",
+        "_m/f/0/5/8/boyne-city-railroad-wp/f058-boyne-city-railroad-the-immigrant-trap.mp3",
+        "_m/f/0/5/8/boyne-city-railroad-wp/f058-boyne-city-railroad-the-short-line-and-its-ghosts.mp3",
+        "_m/f/0/5/8/boyne-city-railroad-wp/f058-boyne-city-railroad-survivors-scattered-across-america.mp3"
+      ],
+      "combinedNarration": "_m/f/0/5/8/boyne-city-railroad-wp/f058-boyne-city-railroad-combined.mp3"
     }
   }
 }

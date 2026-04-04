@@ -98,34 +98,34 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "terney-wk",
+      "title": "Terney",
+      "tile": "z010",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 45.033333,
+        "lng": 136.6
       },
-      "distanceKm": 1548.9
+      "distanceKm": 722.8
     },
     "n": {
-      "id": "tangshan-earthquake-wk",
-      "title": "The Tangshan Earthquake: The Deadliest Quake of the 20th Century",
-      "tile": "wxh1",
+      "id": "wakkanai-wk",
+      "title": "Wakkanai",
+      "tile": "z0hd",
       "coordinates": {
-        "lat": 39.6292,
-        "lng": 118.1742
+        "lat": 45.415638888888886,
+        "lng": 141.67308333333332
       },
-      "distanceKm": 2023.3
+      "distanceKm": 652.3
     },
     "ne": {
-      "id": "attu-island-forgotten-battle-wk",
-      "title": "Attu Island: America's Forgotten Arctic Battle",
-      "tile": "zc7h",
+      "id": "iturup-wp",
+      "title": "Iturup",
+      "tile": "z20b",
       "coordinates": {
-        "lat": 52.85,
-        "lng": 173.18
+        "lat": 45.033333,
+        "lng": 147.616667
       },
-      "distanceKm": 2761.6
+      "distanceKm": 745.9
     },
     "w": {
       "id": "isawa-castle-wp",
@@ -138,14 +138,14 @@
       "distanceKm": 20.5
     },
     "e": {
-      "id": "great-barrier-reef-deeper-wk",
-      "title": "The Great Barrier Reef: The Living Structure Visible from Space - Now Dying",
-      "tile": "rkb9",
+      "id": "sakhalin-railway-wp",
+      "title": "Sakhalin Railway",
+      "tile": "z0m9",
       "coordinates": {
-        "lat": -18,
-        "lng": 147
+        "lat": 46.6195,
+        "lng": 142.76757
       },
-      "distanceKm": 6388.1
+      "distanceKm": 815.9
     },
     "sw": {
       "id": "geibikei-wp",
@@ -177,5 +177,7 @@
       },
       "distanceKm": 81.1
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/u/z/kamaishi-recovery-memorial-stadium-wp",
+  "locationWikivoyagePath": "x/n/u/z/kamaishi-wk"
 }

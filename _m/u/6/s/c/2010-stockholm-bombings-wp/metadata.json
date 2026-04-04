@@ -32,8 +32,8 @@
     "sourceType": "core",
     "sourceArticleId": "2010-stockholm-bombings-wp",
     "sourceGeohash4": "u6sc",
-    "smallPath": "_m/u/6/s/c/2010-stockholm-bombings-wp/hero-small.jpg",
-    "mediumPath": "_m/u/6/s/c/2010-stockholm-bombings-wp/hero-medium.jpg"
+    "smallPath": "_m/u/6/s/c/2010-stockholm-bombings-wp/hero-small.webp",
+    "mediumPath": "_m/u/6/s/c/2010-stockholm-bombings-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Bombdåden i Stockholm 2010a.jpg",
@@ -100,7 +100,7 @@
       "sourceType": "core",
       "sourceArticleId": "2010-stockholm-bombings-wp",
       "sourceGeohash4": "u6sc",
-      "smallPath": "_m/u/6/s/c/2010-stockholm-bombings-wp/police-shutting-off-dr-small.jpg"
+      "smallPath": "_m/u/6/s/c/2010-stockholm-bombings-wp/police-shutting-off-dr-small.webp"
     },
     {
       "filename": "Bombdåden i Stockholm 2010b.jpg",
@@ -126,7 +126,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "2010-stockholm-bombings-wp",
-      "sourceGeohash4": "u6sc"
+      "sourceGeohash4": "u6sc",
+      "mediumPath": "_m/u/6/s/c/2010-stockholm-bombings-wp/bombdaden-i-stockholm-2010b-medium.webp",
+      "smallPath": "_m/u/6/s/c/2010-stockholm-bombings-wp/bombdaden-i-stockholm-2010b-small.webp"
     },
     {
       "filename": "2010 Stockholm bombings map EN.gif",
@@ -177,7 +179,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "2010-stockholm-bombings-wp",
-      "sourceGeohash4": "u6sc"
+      "sourceGeohash4": "u6sc",
+      "mediumPath": "_m/u/6/s/c/2010-stockholm-bombings-wp/bombdaden-i-stockholm-2010x-medium.webp",
+      "smallPath": "_m/u/6/s/c/2010-stockholm-bombings-wp/bombdaden-i-stockholm-2010x-small.webp"
     },
     {
       "filename": "2010 Stockholm bombings map SE.png",
@@ -194,7 +198,8 @@
       "dateCreated": "2010-12-16 22:17",
       "sourceType": "commons-category",
       "sourceArticleId": "2010-stockholm-bombings-wp",
-      "sourceGeohash4": "u6sc"
+      "sourceGeohash4": "u6sc",
+      "smallPath": "_m/u/6/s/c/2010-stockholm-bombings-wp/2010-stockholm-bombings-map-se-small.webp"
     }
   ],
   "galleryPaths": [
@@ -204,7 +209,6 @@
     "_m/u/6/s/c/2010-stockholm-bombings-wp/bombdaden-i-stockholm-2010x.jpg",
     "_m/u/6/s/c/2010-stockholm-bombings-wp/2010-stockholm-bombings-map-se.png"
   ],
-  "fetchedAt": "2026-02-22T14:51:48.366Z",
   "updatedAt": "2026-02-22T14:51:49.054Z",
   "narration": {
     "files": [
@@ -223,7 +227,6 @@
       "u6sc-2010-stockholm-bombings-warnings-unheeded.mp3": 54.3505416,
       "u6sc-2010-stockholm-bombings-a-nation-responds.mp3": 51.0363333
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T19:09:44.615Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

@@ -26,7 +26,7 @@
           "OpenStreetMap maps of Ontario",
           "Self-published work"
         ],
-        "smallPath": "_m/f/0/p/x/cfb-north-bay-wp/hero-small.jpg"
+        "smallPath": "_m/f/0/p/x/cfb-north-bay-wp/hero-small.webp"
       },
       "images": [
         {
@@ -55,7 +55,7 @@
             "Squadrons of the Royal Canadian Air Force",
             "Witches riding on brooms"
           ],
-          "smallPath": "_m/f/0/p/x/cfb-north-bay-wp/squadron-shoulder-patc-small.jpg"
+          "smallPath": "_m/f/0/p/x/cfb-north-bay-wp/squadron-shoulder-patc-small.webp"
         },
         {
           "path": "_m/f/0/p/x/cfb-north-bay-wp/cfb-entrance.jpg",
@@ -77,7 +77,7 @@
             "North American Aerospace Defense Command",
             "PD-user"
           ],
-          "smallPath": "_m/f/0/p/x/cfb-north-bay-wp/cfb-entrance-small.jpg"
+          "smallPath": "_m/f/0/p/x/cfb-north-bay-wp/cfb-entrance-small.webp"
         },
         {
           "path": "_m/f/0/p/x/cfb-north-bay-wp/cf-101-voodoo.jpg",
@@ -101,9 +101,19 @@
             "McDonnell CF-101 Voodoo",
             "PD-user"
           ],
-          "smallPath": "_m/f/0/p/x/cfb-north-bay-wp/cf-101-voodoo-small.jpg"
+          "smallPath": "_m/f/0/p/x/cfb-north-bay-wp/cf-101-voodoo-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/f/0/p/x/cfb-north-bay-wp/f0px-cfb-north-bay-flight-context.mp3",
+        "_m/f/0/p/x/cfb-north-bay-wp/f0px-cfb-north-bay-intro.mp3",
+        "_m/f/0/p/x/cfb-north-bay-wp/f0px-cfb-north-bay-a-flying-boat-over-main-street.mp3",
+        "_m/f/0/p/x/cfb-north-bay-wp/f0px-cfb-north-bay-ferrying-bombers-across-the-atlantic.mp3",
+        "_m/f/0/p/x/cfb-north-bay-wp/f0px-cfb-north-bay-into-the-mountain.mp3",
+        "_m/f/0/p/x/cfb-north-bay-wp/f0px-cfb-north-bay-the-squadron-that-stole-radars.mp3",
+        "_m/f/0/p/x/cfb-north-bay-wp/f0px-cfb-north-bay-eyes-on-the-sky-and-beyond.mp3"
+      ],
+      "combinedNarration": "_m/f/0/p/x/cfb-north-bay-wp/f0px-cfb-north-bay-combined.mp3"
     }
   }
 }

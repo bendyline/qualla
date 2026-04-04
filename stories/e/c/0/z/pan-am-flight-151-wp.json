@@ -1,0 +1,159 @@
+{
+  "id": "pan-am-flight-151-wp",
+  "source": "wikipedia",
+  "sourceId": "8715074",
+  "title": "Pan Am Flight 151",
+  "slug": "pan-am-flight-151",
+  "summary": "A Lockheed Constellation flying from Johannesburg to New York struck a Liberian hillside in 1951 after its crew descended below minimum altitude, guided by a beacon signal corrupted by interference from 1,500 miles away.",
+  "content": {
+    "intro": "It took more than a day for anyone to reach the wreckage. On June 22, 1951, Pan Am Flight 151 vanished from radio contact during a pre-dawn approach to Monrovia's Robertsfield Airport. Aerial search teams scoured the Liberian interior without success. Then, at half past two the following afternoon, a foot messenger arrived from the village of Sanoyie with the news: a large aircraft had struck the side of a hill several miles from the village, and everyone aboard was dead.",
+    "sections": [
+      {
+        "title": "Johannesburg to New York, by Way of Everywhere",
+        "body": "The flight was a product of its era -- the early days of intercontinental air travel, when crossing the globe meant hopping from city to city in propeller-driven aircraft that could not yet span oceans in a single leap. Pan Am Flight 151 departed Johannesburg bound for New York, routing through Accra in the Gold Coast (now Ghana) and then onward to Monrovia, Liberia. The aircraft was a Lockheed L-049 Constellation named Clipper Great Republic, registration N88846 -- one of the graceful triple-tailed propliners that had come to symbolize the postwar aviation age. It carried 31 passengers and a crew of nine, crossing the West African night at altitudes where the terrain below was invisible."
+      },
+      {
+        "title": "Two Beacons, One Fatal Confusion",
+        "body": "At 3:01 in the morning, the flight crew radioed the Robertsfield tower with a troubling report: the radio beacon at Dakar, Senegal -- more than 1,500 miles to the northwest -- was interfering with the Robertsfield beacon they were using to navigate their approach. Fourteen minutes later, the tower transmitted a weather update to the pilots. No further contact was ever received. The crew had been navigating by non-directional beacons, the standard instrument approach technology of 1951, and the interference had corrupted the one signal they depended on to know where they were. Without reliable position information, the captain descended below his en route minimum altitude. At 1,050 feet, the Constellation struck a hillside in Bong County."
+      },
+      {
+        "title": "A Messenger on Foot",
+        "body": "The crash site lay in remote interior Liberia, far from roads and communication infrastructure. Aerial search teams launched at dawn on June 22 but could not locate the wreckage in the dense tropical vegetation. It was not until the afternoon of June 23 that a foot messenger from Sanoyie -- a village several miles from the impact site -- walked out of the interior to report what a hunting party had found. The wreckage of the Constellation lay about four miles southwest of Sanoyie and roughly 45 miles north-northeast of Robertsfield Airport. All forty people aboard had perished. In an age when satellite tracking and emergency locator transmitters did not yet exist, the gap between a crash and its discovery could be measured in days and in footsteps."
+      },
+      {
+        "title": "What the Wreckage Revealed",
+        "body": "Investigators from the Civil Aeronautics Board reached the crash site and found no mechanical malfunction. The aircraft had carried enough fuel for another eight hours of flight. Its weight and payload distribution were within allowable limits, and the weather at Robertsfield had been above approach minimums. Everything about the aircraft had been functioning properly -- except for the navigational signal the crew was depending on. The investigation concluded that the probable cause was the captain's decision to descend below his en route minimum altitude without positive identification of the flight's position. In response, the frequency of the Robertsfield beacon was changed to create greater separation from the Dakar signal. It was a fix that came forty lives too late, but one that would prevent the same fatal confusion from claiming another aircraft over the dark Liberian hills."
+      }
+    ],
+    "flightContext": "The crash site is located at approximately 6.98N, 10.03W in the interior hills of Bong County, Liberia, at an elevation of approximately 1,050 feet. The terrain in this area consists of rolling forested hills that are difficult to distinguish from cruising altitude, particularly at night. Roberts International Airport (GLRB) lies approximately 45 miles to the south-southwest. The area remains remote and heavily forested. From the air at moderate altitude, the landscape appears as an unbroken canopy of tropical vegetation over undulating terrain -- precisely the kind of terrain that was invisible to pilots navigating by beacon in 1951."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 6.9775,
+      "lng": -10.0258
+    },
+    "geohash": "ec0ze"
+  },
+  "categories": [
+    "1951 in Liberia",
+    "Aviation accidents and incidents in 1951",
+    "Aviation accidents and incidents in Liberia",
+    "Airliner accidents and incidents caused by pilot error",
+    "Aviation accidents and incidents involving controlled flight into terrain",
+    "Accidents and incidents involving the Lockheed Constellation",
+    "Pan Am accidents and incidents",
+    "Bong County",
+    "June 1951 in Africa"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-06T00:00:00Z",
+    "wordCount": 730,
+    "readTime": 4,
+    "firstPublished": "2026-03-06T00:00:00Z",
+    "storyNumber": 6544
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - Pan Am Flight 151",
+      "url": "https://en.wikipedia.org/wiki/Pan_Am_Flight_151",
+      "accessedAt": "2026-03-06",
+      "claimsVerified": [
+        "31 passengers and 9 crew (40 total aboard) all perished",
+        "Lockheed L-049 Constellation registration N88846 named Clipper Great Republic",
+        "Crashed June 22 1951 near village of Sanoyie in Bong County Liberia",
+        "Wreckage ~4 miles southwest of Sanoyie, ~45 miles north-northeast of Roberts Field",
+        "Cause: captain descended below en route minimum altitude without positive position fix",
+        "Dakar beacon interference with Robertsfield beacon confirmed",
+        "Robertsfield beacon frequency subsequently changed after investigation"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "gola-rainforest-national-park-wp",
+      "title": "Gola Rainforest National Park",
+      "tile": "ec24",
+      "coordinates": {
+        "lat": 7.5,
+        "lng": -10.983333333333333
+      },
+      "distanceKm": 58.1
+    },
+    "n": {
+      "id": "mount-richard-molard-wp",
+      "title": "Mount Richard-Molard: The Peak That Changed Its Name for a Dead Geographer",
+      "tile": "ec65",
+      "coordinates": {
+        "lat": 7.622588194444445,
+        "lng": -8.408058694444444
+      },
+      "distanceKm": 183.6
+    },
+    "ne": {
+      "id": "cavalla-river-wp",
+      "title": "Cavalla River",
+      "tile": "ec3g",
+      "coordinates": {
+        "lat": 7.5881,
+        "lng": -8.5007
+      },
+      "distanceKm": 117.3
+    },
+    "w": {
+      "id": "hotel-africa-wp",
+      "title": "Hotel Africa",
+      "tile": "ec0k",
+      "coordinates": {
+        "lat": 6.4025,
+        "lng": -10.81083333
+      },
+      "distanceKm": 66.8
+    },
+    "e": {
+      "id": "nimba-range-wp",
+      "title": "Nimba Range",
+      "tile": "ec3g",
+      "coordinates": {
+        "lat": 7.56666667,
+        "lng": -8.46666667
+      },
+      "distanceKm": 132.7
+    },
+    "sw": {
+      "id": "mount-coffee-hydropower-project-wp",
+      "title": "Mount Coffee Hydropower Project",
+      "tile": "ec0m",
+      "coordinates": {
+        "lat": 6.51027778,
+        "lng": -10.65111111
+      },
+      "distanceKm": 22.1
+    },
+    "s": {
+      "id": "roberts-international-airport-wp",
+      "title": "Roberts International Airport",
+      "tile": "ec0e",
+      "coordinates": {
+        "lat": 6.233889,
+        "lng": -10.362222
+      },
+      "distanceKm": 62.4
+    },
+    "se": {
+      "id": "tai-national-park-wp",
+      "title": "Tai National Park",
+      "tile": "ec4b",
+      "coordinates": {
+        "lat": 5.75,
+        "lng": -7.15
+      },
+      "distanceKm": 278.8
+    }
+  },
+  "locationWikipediaPath": "e/c/0/z/pan-am-flight-151-wp"
+}

@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "el-paso-wk",
     "sourceGeohash4": "9tsk",
-    "smallPath": "_m/9/t/s/k/el-paso-wk/hero-small.jpg",
-    "mediumPath": "_m/9/t/s/k/el-paso-wk/hero-medium.jpg"
+    "smallPath": "_m/9/t/s/k/el-paso-wk/hero-small.webp",
+    "mediumPath": "_m/9/t/s/k/el-paso-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "El Paso Skyline2.jpg",
@@ -76,8 +76,8 @@
       "sourceType": "core",
       "sourceArticleId": "el-paso-wk",
       "sourceGeohash4": "9tsk",
-      "smallPath": "_m/9/t/s/k/el-paso-wk/abrams-tank-crew-2nd-b-small.jpg",
-      "mediumPath": "_m/9/t/s/k/el-paso-wk/abrams-tank-crew-2nd-b-medium.jpg"
+      "smallPath": "_m/9/t/s/k/el-paso-wk/abrams-tank-crew-2nd-b-small.webp",
+      "mediumPath": "_m/9/t/s/k/el-paso-wk/abrams-tank-crew-2nd-b-medium.webp"
     },
     {
       "filename": "Chamaesyce albomarginata 2.jpg",
@@ -110,7 +110,7 @@
       "sourceType": "core",
       "sourceArticleId": "el-paso-wk",
       "sourceGeohash4": "9tsk",
-      "smallPath": "_m/9/t/s/k/el-paso-wk/chamaesyce-albomargina-small.jpg"
+      "smallPath": "_m/9/t/s/k/el-paso-wk/chamaesyce-albomargina-small.webp"
     },
     {
       "filename": "Rio Bravo night.jpg",
@@ -135,7 +135,7 @@
       "sourceType": "core",
       "sourceArticleId": "el-paso-wk",
       "sourceGeohash4": "9tsk",
-      "smallPath": "_m/9/t/s/k/el-paso-wk/vista-nocturna-del-rio-small.jpg"
+      "smallPath": "_m/9/t/s/k/el-paso-wk/vista-nocturna-del-rio-small.webp"
     },
     {
       "filename": "UTEP5.JPG",
@@ -307,8 +307,8 @@
       "sourceType": "core",
       "sourceArticleId": "el-paso-wk",
       "sourceGeohash4": "9tsk",
-      "smallPath": "_m/9/t/s/k/el-paso-wk/union-depot-el-paso-te-small.jpg",
-      "mediumPath": "_m/9/t/s/k/el-paso-wk/union-depot-el-paso-te-medium.jpg"
+      "smallPath": "_m/9/t/s/k/el-paso-wk/union-depot-el-paso-te-small.webp",
+      "mediumPath": "_m/9/t/s/k/el-paso-wk/union-depot-el-paso-te-medium.webp"
     },
     {
       "filename": "Concordia cemetery sign.jpg",
@@ -328,8 +328,8 @@
       "sourceType": "core",
       "sourceArticleId": "el-paso-wk",
       "sourceGeohash4": "9tsk",
-      "smallPath": "_m/9/t/s/k/el-paso-wk/map-sign-concordia-cem-small.jpg",
-      "mediumPath": "_m/9/t/s/k/el-paso-wk/map-sign-concordia-cem-medium.jpg"
+      "smallPath": "_m/9/t/s/k/el-paso-wk/map-sign-concordia-cem-small.webp",
+      "mediumPath": "_m/9/t/s/k/el-paso-wk/map-sign-concordia-cem-medium.webp"
     },
     {
       "filename": "Bienvenidos a El Paso.jpg",
@@ -349,7 +349,7 @@
       "sourceType": "core",
       "sourceArticleId": "el-paso-wk",
       "sourceGeohash4": "9tsk",
-      "smallPath": "_m/9/t/s/k/el-paso-wk/el-paso-international-small.jpg"
+      "smallPath": "_m/9/t/s/k/el-paso-wk/el-paso-international-small.webp"
     },
     {
       "filename": "El Paso Mountains Wilderness (49863593047).jpg",
@@ -375,7 +375,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "el-paso-wk",
-      "sourceGeohash4": "9tsk"
+      "sourceGeohash4": "9tsk",
+      "mediumPath": "_m/9/t/s/k/el-paso-wk/el-paso-mountains-wilderness-4-medium.webp",
+      "smallPath": "_m/9/t/s/k/el-paso-wk/el-paso-mountains-wilderness-4-small.webp"
     }
   ],
   "galleryPaths": [
@@ -393,7 +395,6 @@
     "_m/9/t/s/k/el-paso-wk/el-paso-international.jpg",
     "_m/9/t/s/k/el-paso-wk/el-paso-mountains-wilderness-4.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:21:38.775Z",
   "updatedAt": "2026-02-21T22:21:39.332Z",
   "narration": {
     "files": [
@@ -414,7 +415,6 @@
       "9tsk-el-paso-the-sun-city-at-the-pass-of-the-north-the-margarita-was-born-here.mp3": 46.248,
       "9tsk-el-paso-the-sun-city-at-the-pass-of-the-north-utep-and-the-bhutanese-architecture.mp3": 53.088
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:56.721Z"
+    "voice": "unknown"
   }
 }

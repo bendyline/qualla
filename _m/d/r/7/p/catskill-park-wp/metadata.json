@@ -18,7 +18,7 @@
     "sourceType": "core",
     "sourceArticleId": "catskill-park-wp",
     "sourceGeohash4": "dr7p",
-    "smallPath": "_m/d/r/7/p/catskill-park-wp/hero-small.jpg"
+    "smallPath": "_m/d/r/7/p/catskill-park-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "North-South Lake.jpg",
@@ -94,7 +94,7 @@
       "sourceType": "core",
       "sourceArticleId": "catskill-park-wp",
       "sourceGeohash4": "dr7p",
-      "smallPath": "_m/d/r/7/p/catskill-park-wp/photographed-daniel-ca-small.jpg"
+      "smallPath": "_m/d/r/7/p/catskill-park-wp/photographed-daniel-ca-small.webp"
     },
     {
       "filename": "Central Catskills from Twin south summit.jpg",
@@ -127,8 +127,8 @@
       "sourceType": "core",
       "sourceArticleId": "catskill-park-wp",
       "sourceGeohash4": "dr7p",
-      "mediumPath": "_m/d/r/7/p/catskill-park-wp/photographed-daniel-ca-1-medium.jpg",
-      "smallPath": "_m/d/r/7/p/catskill-park-wp/photographed-daniel-ca-1-small.jpg"
+      "mediumPath": "_m/d/r/7/p/catskill-park-wp/photographed-daniel-ca-1-medium.webp",
+      "smallPath": "_m/d/r/7/p/catskill-park-wp/photographed-daniel-ca-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -136,5 +136,25 @@
     "_m/d/r/7/p/catskill-park-wp/photographed-daniel-ca.jpg",
     "_m/d/r/7/p/catskill-park-wp/photographed-daniel-ca-1.jpg"
   ],
-  "fetchedAt": "2026-02-28T08:06:01.754Z"
+  "narration": {
+    "files": [
+      "dr7p-catskill-park-flight-context.mp3",
+      "dr7p-catskill-park-intro.mp3",
+      "dr7p-catskill-park-inside-the-blue-line.mp3",
+      "dr7p-catskill-park-water-for-eight-million.mp3",
+      "dr7p-catskill-park-from-borscht-belt-to-forever-wild.mp3",
+      "dr7p-catskill-park-the-wild-mountains.mp3",
+      "dr7p-catskill-park-the-view-from-above.mp3"
+    ],
+    "durations": {
+      "dr7p-catskill-park-flight-context.mp3": 46.8335,
+      "dr7p-catskill-park-intro.mp3": 66.403,
+      "dr7p-catskill-park-inside-the-blue-line.mp3": 58.2504583,
+      "dr7p-catskill-park-water-for-eight-million.mp3": 55.2815833,
+      "dr7p-catskill-park-from-borscht-belt-to-forever-wild.mp3": 65.2100416,
+      "dr7p-catskill-park-the-wild-mountains.mp3": 63.048375,
+      "dr7p-catskill-park-the-view-from-above.mp3": 59.79825
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

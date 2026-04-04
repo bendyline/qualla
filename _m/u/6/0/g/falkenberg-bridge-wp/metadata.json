@@ -31,7 +31,7 @@
     "sourceType": "core",
     "sourceArticleId": "falkenberg-bridge-wp",
     "sourceGeohash4": "u60g",
-    "smallPath": "_m/u/6/0/g/falkenberg-bridge-wp/hero-small.jpg"
+    "smallPath": "_m/u/6/0/g/falkenberg-bridge-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Tullbron, Falkenberg.JPG",
@@ -94,7 +94,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "falkenberg-bridge-wp",
-      "sourceGeohash4": "u60g"
+      "sourceGeohash4": "u60g",
+      "mediumPath": "_m/u/6/0/g/falkenberg-bridge-wp/tullbron2-falkenberg-medium.webp",
+      "smallPath": "_m/u/6/0/g/falkenberg-bridge-wp/tullbron2-falkenberg-small.webp"
     },
     {
       "filename": "Falkenberg Tullbron.JPG",
@@ -120,7 +122,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "falkenberg-bridge-wp",
-      "sourceGeohash4": "u60g"
+      "sourceGeohash4": "u60g",
+      "mediumPath": "_m/u/6/0/g/falkenberg-bridge-wp/falkenberg-tullbron-medium.webp",
+      "smallPath": "_m/u/6/0/g/falkenberg-bridge-wp/falkenberg-tullbron-small.webp"
     },
     {
       "filename": "Tullbron och Grand Hotell, Falkenberg, ca 1950.jpg",
@@ -149,7 +153,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "falkenberg-bridge-wp",
-      "sourceGeohash4": "u60g"
+      "sourceGeohash4": "u60g",
+      "smallPath": "_m/u/6/0/g/falkenberg-bridge-wp/tullbron-och-grand-hotell-falk-small.webp"
     },
     {
       "filename": "Falkenberg - KMB - 16001000331024.jpg",
@@ -169,7 +174,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "falkenberg-bridge-wp",
-      "sourceGeohash4": "u60g"
+      "sourceGeohash4": "u60g",
+      "smallPath": "_m/u/6/0/g/falkenberg-bridge-wp/falkenberg-kmb-16001000331024-small.webp"
     },
     {
       "filename": "0496Falkenberg tullbron.jpg",
@@ -186,7 +192,9 @@
       "dateCreated": "2008-05-29 09:42:47",
       "sourceType": "commons-category",
       "sourceArticleId": "falkenberg-bridge-wp",
-      "sourceGeohash4": "u60g"
+      "sourceGeohash4": "u60g",
+      "mediumPath": "_m/u/6/0/g/falkenberg-bridge-wp/0496falkenberg-tullbron-medium.webp",
+      "smallPath": "_m/u/6/0/g/falkenberg-bridge-wp/0496falkenberg-tullbron-small.webp"
     },
     {
       "filename": "Falkenberg - Nordiska museet - NMAx.0068566.tif",
@@ -203,7 +211,9 @@
       "dateCreated": "1902<div style=\"display: none;\">date QS:P571,+1902-00-00T00:00:00Z/9</div>",
       "sourceType": "commons-category",
       "sourceArticleId": "falkenberg-bridge-wp",
-      "sourceGeohash4": "u60g"
+      "sourceGeohash4": "u60g",
+      "mediumPath": "_m/u/6/0/g/falkenberg-bridge-wp/falkenberg-nordiska-museet-nma-medium.webp",
+      "smallPath": "_m/u/6/0/g/falkenberg-bridge-wp/falkenberg-nordiska-museet-nma-small.webp"
     },
     {
       "filename": "Falkenberg - Nordiska museet - NMAx.0068567.tif",
@@ -220,7 +230,9 @@
       "dateCreated": "1902<div style=\"display: none;\">date QS:P571,+1902-00-00T00:00:00Z/9</div>",
       "sourceType": "commons-category",
       "sourceArticleId": "falkenberg-bridge-wp",
-      "sourceGeohash4": "u60g"
+      "sourceGeohash4": "u60g",
+      "mediumPath": "_m/u/6/0/g/falkenberg-bridge-wp/falkenberg-nordiska-museet-nma-1-medium.webp",
+      "smallPath": "_m/u/6/0/g/falkenberg-bridge-wp/falkenberg-nordiska-museet-nma-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -232,7 +244,6 @@
     "_m/u/6/0/g/falkenberg-bridge-wp/falkenberg-nordiska-museet-nma.jpg",
     "_m/u/6/0/g/falkenberg-bridge-wp/falkenberg-nordiska-museet-nma-1.jpg"
   ],
-  "fetchedAt": "2026-02-22T14:26:26.356Z",
   "updatedAt": "2026-02-22T14:26:28.448Z",
   "narration": {
     "files": [
@@ -251,7 +262,6 @@
       "u60g-falkenberg-bridge-a-bridge-worth-fighting-over.mp3": 59.8144583,
       "u60g-falkenberg-bridge-echoes-of-older-crossings.mp3": 48.8634166
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T14:22:10.324Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

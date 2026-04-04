@@ -3,12 +3,12 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/c/2/3/n/seattle-wk/c23n-seattle-intro.mp3",
-        "_m/c/2/3/n/seattle-wk/c23n-seattle-coffee-culture.mp3",
         "_m/c/2/3/n/seattle-wk/c23n-seattle-flight-context.mp3",
-        "_m/c/2/3/n/seattle-wk/c23n-seattle-space-age-icons.mp3",
-        "_m/c/2/3/n/seattle-wk/c23n-seattle-tech-titan.mp3",
+        "_m/c/2/3/n/seattle-wk/c23n-seattle-intro.mp3",
         "_m/c/2/3/n/seattle-wk/c23n-seattle-the-pike-place-soul.mp3",
+        "_m/c/2/3/n/seattle-wk/c23n-seattle-space-age-icons.mp3",
+        "_m/c/2/3/n/seattle-wk/c23n-seattle-coffee-culture.mp3",
+        "_m/c/2/3/n/seattle-wk/c23n-seattle-tech-titan.mp3",
         "_m/c/2/3/n/seattle-wk/c23n-seattle-the-water-city.mp3"
       ],
       "hero": {
@@ -25,7 +25,9 @@
         "sourceType": "sibling",
         "sourceArticleId": "seattle-city-wk",
         "sourceGeohash4": "c23n",
-        "accessedAt": "2026-02-22T01:57:59.528Z"
+        "accessedAt": "2026-02-22T01:57:59.528Z",
+        "mediumPath": "_m/c/2/3/n/seattle-wk/hero-medium.webp",
+        "smallPath": "_m/c/2/3/n/seattle-wk/hero-small.webp"
       },
       "images": [
         {
@@ -55,7 +57,7 @@
             "Unidentified Washington State Ferries vessels",
             "Vashon Island, Washington"
           ],
-          "smallPath": "_m/c/2/3/n/seattle-wk/near-view-vashon-ferry-small.jpg"
+          "smallPath": "_m/c/2/3/n/seattle-wk/near-view-vashon-ferry-small.webp"
         },
         {
           "path": "_m/c/2/3/n/seattle-wk/view-king-street-stati.jpg",
@@ -81,7 +83,7 @@
             "National Register of Historic Places with known IDs",
             "Taken with HP PhotoSmart R717"
           ],
-          "smallPath": "_m/c/2/3/n/seattle-wk/view-king-street-stati-small.jpg"
+          "smallPath": "_m/c/2/3/n/seattle-wk/view-king-street-stati-small.webp"
         },
         {
           "path": "_m/c/2/3/n/seattle-wk/university-washington.jpg",
@@ -130,7 +132,7 @@
             "Tacoma (ship, 1997)",
             "Views of Seattle from Elliott Bay"
           ],
-          "smallPath": "_m/c/2/3/n/seattle-wk/downtown-seattle-washi-small.jpg"
+          "smallPath": "_m/c/2/3/n/seattle-wk/downtown-seattle-washi-small.webp"
         },
         {
           "path": "_m/c/2/3/n/seattle-wk/r-class-sloop-pirate-m.jpg",
@@ -160,8 +162,8 @@
             "Self-published work",
             "Taken with Nikon Coolpix P2"
           ],
-          "smallPath": "_m/c/2/3/n/seattle-wk/r-class-sloop-pirate-m-small.jpg",
-          "mediumPath": "_m/c/2/3/n/seattle-wk/r-class-sloop-pirate-m-medium.jpg"
+          "smallPath": "_m/c/2/3/n/seattle-wk/r-class-sloop-pirate-m-small.webp",
+          "mediumPath": "_m/c/2/3/n/seattle-wk/r-class-sloop-pirate-m-medium.webp"
         },
         {
           "path": "_m/c/2/3/n/seattle-wk/chapel-st-ignatius-sea.jpg",
@@ -186,8 +188,8 @@
             "Quality images",
             "Quality images missing SDC depicts"
           ],
-          "smallPath": "_m/c/2/3/n/seattle-wk/chapel-st-ignatius-sea-small.jpg",
-          "mediumPath": "_m/c/2/3/n/seattle-wk/chapel-st-ignatius-sea-medium.jpg"
+          "smallPath": "_m/c/2/3/n/seattle-wk/chapel-st-ignatius-sea-small.webp",
+          "mediumPath": "_m/c/2/3/n/seattle-wk/chapel-st-ignatius-sea-medium.webp"
         },
         {
           "path": "_m/c/2/3/n/seattle-wk/seattle-s-new-chinatow.jpg",
@@ -238,8 +240,8 @@
           "sourceArticleId": "seattle-wk",
           "sourceGeohash4": "c23n",
           "accessedAt": "2026-02-22T01:57:59.528Z",
-          "smallPath": "_m/c/2/3/n/seattle-wk/pure-food-fish-pike-pl-small.jpg",
-          "mediumPath": "_m/c/2/3/n/seattle-wk/pure-food-fish-pike-pl-medium.jpg"
+          "smallPath": "_m/c/2/3/n/seattle-wk/pure-food-fish-pike-pl-small.webp",
+          "mediumPath": "_m/c/2/3/n/seattle-wk/pure-food-fish-pike-pl-medium.webp"
         },
         {
           "path": "_m/c/2/3/n/seattle-wk/seafair-indian-days-po.jpg",
@@ -256,8 +258,8 @@
           "sourceArticleId": "seattle-wk",
           "sourceGeohash4": "c23n",
           "accessedAt": "2026-02-22T01:57:59.528Z",
-          "smallPath": "_m/c/2/3/n/seattle-wk/seafair-indian-days-po-small.jpg",
-          "mediumPath": "_m/c/2/3/n/seattle-wk/seafair-indian-days-po-medium.jpg"
+          "smallPath": "_m/c/2/3/n/seattle-wk/seafair-indian-days-po-small.webp",
+          "mediumPath": "_m/c/2/3/n/seattle-wk/seafair-indian-days-po-medium.webp"
         },
         {
           "path": "_m/c/2/3/n/seattle-wk/kitsap-transit-bus-bre.jpg",
@@ -292,8 +294,8 @@
           "sourceArticleId": "seattle-wk",
           "sourceGeohash4": "c23n",
           "accessedAt": "2026-02-22T01:57:59.528Z",
-          "smallPath": "_m/c/2/3/n/seattle-wk/south-lake-union-downt-small.jpg",
-          "mediumPath": "_m/c/2/3/n/seattle-wk/south-lake-union-downt-medium.jpg"
+          "smallPath": "_m/c/2/3/n/seattle-wk/south-lake-union-downt-small.webp",
+          "mediumPath": "_m/c/2/3/n/seattle-wk/south-lake-union-downt-medium.webp"
         },
         {
           "path": "_m/c/2/3/n/seattle-wk/king-county-elliot-bay.jpg",
@@ -376,8 +378,8 @@
           "sourceArticleId": "seattle-wk",
           "sourceGeohash4": "c23n",
           "accessedAt": "2026-02-22T01:57:59.528Z",
-          "smallPath": "_m/c/2/3/n/seattle-wk/seattle-king-county-me-small.jpg",
-          "mediumPath": "_m/c/2/3/n/seattle-wk/seattle-king-county-me-medium.jpg"
+          "smallPath": "_m/c/2/3/n/seattle-wk/seattle-king-county-me-small.webp",
+          "mediumPath": "_m/c/2/3/n/seattle-wk/seattle-king-county-me-medium.webp"
         },
         {
           "path": "_m/c/2/3/n/seattle-wk/seattle001-victoria-cl.jpg",
@@ -394,8 +396,8 @@
           "sourceArticleId": "seattle-wk",
           "sourceGeohash4": "c23n",
           "accessedAt": "2026-02-22T01:57:59.528Z",
-          "smallPath": "_m/c/2/3/n/seattle-wk/seattle001-victoria-cl-small.jpg",
-          "mediumPath": "_m/c/2/3/n/seattle-wk/seattle001-victoria-cl-medium.jpg"
+          "smallPath": "_m/c/2/3/n/seattle-wk/seattle001-victoria-cl-small.webp",
+          "mediumPath": "_m/c/2/3/n/seattle-wk/seattle001-victoria-cl-medium.webp"
         },
         {
           "path": "_m/c/2/3/n/seattle-wk/luminata-celebration-a.jpg",
@@ -412,8 +414,8 @@
           "sourceArticleId": "seattle-wk",
           "sourceGeohash4": "c23n",
           "accessedAt": "2026-02-22T01:57:59.528Z",
-          "smallPath": "_m/c/2/3/n/seattle-wk/luminata-celebration-a-small.jpg",
-          "mediumPath": "_m/c/2/3/n/seattle-wk/luminata-celebration-a-medium.jpg"
+          "smallPath": "_m/c/2/3/n/seattle-wk/luminata-celebration-a-small.webp",
+          "mediumPath": "_m/c/2/3/n/seattle-wk/luminata-celebration-a-medium.webp"
         },
         {
           "path": "_m/c/2/3/n/seattle-wk/related-sibling-ferry-mv-wenatchee-and-mount-p.jpg",
@@ -1500,7 +1502,8 @@
           "sourceGeohash4": "tpc/_ho/se/at/tl",
           "accessedAt": "2026-02-22T01:57:59.528Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/3/n/seattle-wk/c23n-seattle-combined.mp3"
     }
   }
 }

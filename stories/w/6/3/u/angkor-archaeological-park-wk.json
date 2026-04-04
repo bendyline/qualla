@@ -87,87 +87,90 @@
   "locationWikivoyagePath": "w/6/3/u/angkor-archaeological-park-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "vientiane-wk",
-      "title": "Vientiane",
-      "tile": "w70y",
+      "id": "2014-thai-coup-d-etat-wp",
+      "title": "2014 Thai Coup d'Etat",
+      "tile": "w4rz",
       "coordinates": {
-        "lat": 17.9757,
-        "lng": 102.6331
+        "lat": 14,
+        "lng": 101
       },
-      "distanceKm": 480.5
+      "distanceKm": 256.7
     },
     "n": {
-      "id": "hanoi-wk",
-      "title": "Hanoi",
-      "tile": "w7er",
+      "id": "wat-tham-krabok-wp",
+      "title": "Wat Tham Krabok",
+      "tile": "w4xe",
       "coordinates": {
-        "lat": 21.0285,
-        "lng": 105.8542
+        "lat": 14.714166666667,
+        "lng": 100.79166666667
       },
-      "distanceKm": 840
+      "distanceKm": 351.8
     },
     "ne": {
-      "id": "hoi-an-wk",
-      "title": "Hoi An",
-      "tile": "w6v4",
+      "id": "don-det-don-khon-railway-wp",
+      "title": "Don Det-Don Khon Railway",
+      "tile": "w67r",
       "coordinates": {
-        "lat": 15.8801,
-        "lng": 108.338
+        "lat": 13.96201926838882,
+        "lng": 105.92187815832672
       },
-      "distanceKm": 485.9
+      "distanceKm": 165.2
     },
     "w": {
-      "id": "yangon-wk",
-      "title": "Yangon",
-      "tile": "w4ur",
+      "id": "scam-centers-in-cambodia-wp",
+      "title": "Scam Centers in Cambodia",
+      "tile": "w62v",
       "coordinates": {
-        "lat": 16.8661,
-        "lng": 96.1951
+        "lat": 13.65,
+        "lng": 102.567
       },
-      "distanceKm": 857.6
+      "distanceKm": 88.6
     },
     "e": {
-      "id": "hong-kong-wk",
-      "title": "Hong Kong",
-      "tile": "wecn",
+      "id": "democratic-kampuchea-wp",
+      "title": "Democratic Kampuchea",
+      "tile": "w65j",
       "coordinates": {
-        "lat": 22.27,
-        "lng": 114.17
+        "lat": 12.25,
+        "lng": 105.6
       },
-      "distanceKm": 1423.2
+      "distanceKm": 185.1
     },
     "sw": {
-      "id": "north-sentinel-island-wk",
-      "title": "North Sentinel Island: Earth's Last Uncontacted People",
-      "tile": "w419",
+      "id": "killing-caves-of-phnom-sampeau-wp",
+      "title": "Killing Caves of Phnom Sampeau",
+      "tile": "w636",
       "coordinates": {
-        "lat": 11.55,
-        "lng": 92.24
+        "lat": 13.020833333333334,
+        "lng": 103.09777777777778
       },
-      "distanceKm": 1221.2
+      "distanceKm": 33.6
     },
     "s": {
-      "id": "singapore-wk",
-      "title": "Singapore",
-      "tile": "w21z",
+      "id": "battle-of-pailin-wp",
+      "title": "Battle of Pailin",
+      "tile": "w62c",
       "coordinates": {
-        "lat": 1.29,
-        "lng": 103.82
+        "lat": 12.854444444444445,
+        "lng": 102.60638888888889
       },
-      "distanceKm": 1322.5
+      "distanceKm": 143.5
     },
     "se": {
-      "id": "krakatoa-eruption-wk",
-      "title": "Krakatoa: The Eruption Heard Around the World",
-      "tile": "qqfv",
+      "id": "cambodian-genocide-wp",
+      "title": "Cambodian Genocide",
+      "tile": "w65j",
       "coordinates": {
-        "lat": -6.102,
-        "lng": 105.423
+        "lat": 12.25,
+        "lng": 105.6
       },
-      "distanceKm": 2147.4
+      "distanceKm": 165.3
     }
   },
   "keywords": [
     "angkor-archaeological-park"
+  ],
+  "duplicates": [
+    "angkor-wp"
   ]
 }

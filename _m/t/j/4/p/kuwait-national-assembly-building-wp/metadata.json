@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "kuwait-national-assembly-building-wp",
     "sourceGeohash4": "tj4p",
-    "mediumPath": "_m/t/j/4/p/kuwait-national-assembly-building-wp/hero-medium.jpg",
-    "smallPath": "_m/t/j/4/p/kuwait-national-assembly-building-wp/hero-small.jpg"
+    "mediumPath": "_m/t/j/4/p/kuwait-national-assembly-building-wp/hero-medium.webp",
+    "smallPath": "_m/t/j/4/p/kuwait-national-assembly-building-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "കുവെത്ത് നാഷനൽ അസംബ്ലി.JPG",
@@ -84,8 +84,8 @@
       "sourceType": "core",
       "sourceArticleId": "kuwait-national-assembly-building-wp",
       "sourceGeohash4": "tj4p",
-      "mediumPath": "_m/t/j/4/p/kuwait-national-assembly-building-wp/photo-monument-iran-id-medium.jpg",
-      "smallPath": "_m/t/j/4/p/kuwait-national-assembly-building-wp/photo-monument-iran-id-small.jpg"
+      "mediumPath": "_m/t/j/4/p/kuwait-national-assembly-building-wp/photo-monument-iran-id-medium.webp",
+      "smallPath": "_m/t/j/4/p/kuwait-national-assembly-building-wp/photo-monument-iran-id-small.webp"
     },
     {
       "filename": "صورة جوية لمبنى مجلس الامة.jpg",
@@ -164,8 +164,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "kuwait-national-assembly-building-wp",
       "sourceGeohash4": "tj4p",
-      "mediumPath": "_m/t/j/4/p/kuwait-national-assembly-building-wp/secretary-blinken-tours-the-ku-1-medium.jpg",
-      "smallPath": "_m/t/j/4/p/kuwait-national-assembly-building-wp/secretary-blinken-tours-the-ku-1-small.jpg"
+      "mediumPath": "_m/t/j/4/p/kuwait-national-assembly-building-wp/secretary-blinken-tours-the-ku-1-medium.webp",
+      "smallPath": "_m/t/j/4/p/kuwait-national-assembly-building-wp/secretary-blinken-tours-the-ku-1-small.webp"
     },
     {
       "filename": "Kuwait City Arabian Gulf Street 10.jpg",
@@ -183,8 +183,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "kuwait-national-assembly-building-wp",
       "sourceGeohash4": "tj4p",
-      "mediumPath": "_m/t/j/4/p/kuwait-national-assembly-building-wp/kuwait-city-arabian-gulf-stree-medium.jpg",
-      "smallPath": "_m/t/j/4/p/kuwait-national-assembly-building-wp/kuwait-city-arabian-gulf-stree-small.jpg"
+      "mediumPath": "_m/t/j/4/p/kuwait-national-assembly-building-wp/kuwait-city-arabian-gulf-stree-medium.webp",
+      "smallPath": "_m/t/j/4/p/kuwait-national-assembly-building-wp/kuwait-city-arabian-gulf-stree-small.webp"
     }
   ],
   "galleryPaths": [
@@ -194,6 +194,24 @@
     "_m/t/j/4/p/kuwait-national-assembly-building-wp/secretary-blinken-tours-the-ku-1.jpg",
     "_m/t/j/4/p/kuwait-national-assembly-building-wp/kuwait-city-arabian-gulf-stree.jpg"
   ],
-  "fetchedAt": "2026-03-01T07:13:36.604Z",
-  "updatedAt": "2026-03-01T07:13:56.890Z"
+  "updatedAt": "2026-03-01T07:13:56.890Z",
+  "narration": {
+    "files": [
+      "tj4p-kuwait-national-assembly-building-flight-context.mp3",
+      "tj4p-kuwait-national-assembly-building-intro.mp3",
+      "tj4p-kuwait-national-assembly-building-a-souk-for-democracy.mp3",
+      "tj4p-kuwait-national-assembly-building-fabric-cast-in-concrete.mp3",
+      "tj4p-kuwait-national-assembly-building-where-the-ocean-meets-the-building.mp3",
+      "tj4p-kuwait-national-assembly-building-burned-and-rebuilt.mp3"
+    ],
+    "durations": {
+      "tj4p-kuwait-national-assembly-building-flight-context.mp3": 44.7102083,
+      "tj4p-kuwait-national-assembly-building-intro.mp3": 41.5539166,
+      "tj4p-kuwait-national-assembly-building-a-souk-for-democracy.mp3": 54.3572083,
+      "tj4p-kuwait-national-assembly-building-fabric-cast-in-concrete.mp3": 66.0843333,
+      "tj4p-kuwait-national-assembly-building-where-the-ocean-meets-the-building.mp3": 59.4841666,
+      "tj4p-kuwait-national-assembly-building-burned-and-rebuilt.mp3": 68.747375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

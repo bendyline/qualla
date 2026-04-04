@@ -1,0 +1,158 @@
+{
+  "id": "pyhasalmi-mine-wp",
+  "source": "wikipedia",
+  "sourceId": "13726971",
+  "title": "Pyhäsalmi Mine",
+  "slug": "pyhasalmi-mine",
+  "summary": "Europe's deepest base metal mine, a 1,444-meter-deep Finnish copper and zinc operation that is reinventing itself as a subterranean laboratory, film set, insect farm, and energy storage facility.",
+  "content": {
+    "intro": "Fourteen hundred meters below the forests of central Finland, there is a sauna. It is the deepest sauna in the world, heated in tunnels carved through rock that formed nearly two billion years ago. The sauna belongs to the Pyhäsalmi Mine in Pyhäjärvi, a zinc and copper operation that burrowed into the Earth for sixty years starting in 1962 and reached 1,444 meters, making it the deepest base metal mine in Europe. But the most remarkable thing about Pyhäsalmi is not how deep it goes. It is what happens down there after the miners leave.",
+    "sections": [
+      {
+        "title": "From a Farmer's Well to Europe's Depths",
+        "body": "The mine exists because a local farmer dug a well in 1958 and struck something unusual: gossan ore, the oxidized cap of a massive sulfide deposit. He sent a sample to Outokumpu Corporation, and the geological survey that followed revealed a rich volcanogenic massive sulfide deposit loaded with zinc and copper. Mining began on March 1, 1962, initially as an open-cast pit. By 1967, operations moved underground. The pit closed entirely in 1975, and the mine has descended steadily ever since. The Olli Shaft reached 730 meters in 1985. New ore was found deeper, and a depth of 1,050 meters was achieved by 1996. The Timo Shaft, completed in 2001, pushed operations to their current depth. Outokumpu sold the mine to Inmet Mining in 2002; First Quantum Minerals, a Canadian corporation, acquired it in 2013."
+      },
+      {
+        "title": "A Second Life Underground",
+        "body": "As the ore body neared exhaustion, the town of Pyhäjärvi and the University of Oulu launched Callio, a project to transform the mine into something entirely new. The ambitions are wide-ranging. The Callio Lab hosts a physics laboratory studying cosmic rays and neutrino interactions at 1,430 meters depth, where the rock overhead provides a natural shield against background radiation. The mine hosted the world's deepest concert when Finnish metal band Agonizer performed at 1,271 meters. An 11-kilometer spiral access tunnel has been used for uphill running races and cycling competitions, with temperatures above 23 degrees Celsius and humidity reaching 100 percent. Film crews have descended to 660 meters to build sets in abandoned storage tunnels for the sci-fi series White Wall."
+      },
+      {
+        "title": "Growing Food Where Sunlight Cannot Reach",
+        "body": "Some of Callio's most inventive projects sound like science fiction. At 660 meters underground, the Natural Resources Institute of Finland grew hops using hydroponic technology, testing whether year-round production in controlled conditions could replace seasonal outdoor harvests. If it works, Finnish breweries might source hops from beneath their own soil rather than importing them. Other crops tested include potato, woad, and common nettle. Even more striking is the insect farm built at 1,430 meters in July 2019, piloting underground cricket production in conditions that mirror the pressurized lava tubes theorized on Mars. The project explicitly frames the mine's tunnels as a testing ground for technologies that could sustain life in space habitats."
+      },
+      {
+        "title": "Power from the Deep",
+        "body": "In late 2022, the European Union approved 26.3 million euros for a pumped hydroelectric energy storage facility inside the mine, a 530-megawatt-hour system designed to store renewable energy by pumping water between underground chambers at different depths. The concept is elegant: excess electricity from wind or solar pushes water upward; when power is needed, gravity pulls it back down through turbines. The mine's extreme depth makes it uniquely suited for this kind of storage, and the project represents one of the first attempts to repurpose a depleted mine as a component of the renewable energy grid. The Pyhäsalmi Mine may have begun as a hole in the ground dug for copper and zinc, but it is ending as something far more ambitious: a prototype for what exhausted mines everywhere might become."
+      }
+    ],
+    "flightContext": "Located at 63.66°N, 26.03°E in Pyhäjärvi, central Finland. The mine's above-ground facilities, including the mill, hoisting towers, and waste pools, are visible from altitude amid boreal forest. Nearest airports: Kokkola-Pietarsaari Airport (EFKK) approximately 120 km west, Kuopio Airport (EFKU) approximately 150 km southeast. Recommended viewing altitude: 3,000-8,000 ft for mine complex detail."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 63.66111111,
+      "lng": 26.03472222
+    },
+    "geohash": "ue6d0"
+  },
+  "categories": [
+    "mining",
+    "science",
+    "industry",
+    "finland"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-27T00:00:00Z",
+    "wordCount": 740,
+    "readTime": 4,
+    "firstPublished": "2026-03-27T00:00:00Z",
+    "storyNumber": 13872
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - Pyhäsalmi Mine",
+      "url": "https://en.wikipedia.org/wiki/Pyh%C3%A4salmi_Mine",
+      "accessedAt": "2026-03-28",
+      "claimsVerified": [
+        "Mine discovered 1958 when farmer dug well and struck gossan ore",
+        "Mining began March 1, 1962 as open-cast pit",
+        "Underground operations began 1967; open-cast closed 1975",
+        "Olli Shaft reached 730 meters in 1985; depth of 1,050 meters by 1996",
+        "Timo Shaft completed 2001, pushing to current depth",
+        "Outokumpu sold to Inmet Mining in 2002; First Quantum acquired in 2013",
+        "Mine decommissioned August 2022 (not actively mining)",
+        "Corrected: removed 'active' from 'deepest active base metal mine' - mine was decommissioned in 2022",
+        "Callio Lab project launched to transform mine after ore exhaustion",
+        "EU approved 26.3 million euros for pumped hydroelectric storage in 2022",
+        "530-megawatt-hour pumped hydro system confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "u/e/6/d/pyhasalmi-mine-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "hanhikivi-nuclear-power-plant-wp",
+      "title": "Hanhikivi Nuclear Power Plant",
+      "tile": "ue3r",
+      "coordinates": {
+        "lat": 64.53055556,
+        "lng": 24.26388889
+      },
+      "distanceKm": 90.9
+    },
+    "n": {
+      "id": "grand-duchy-of-finland-wp",
+      "title": "Grand Duchy of Finland",
+      "tile": "ue6k",
+      "coordinates": {
+        "lat": 64,
+        "lng": 26
+      },
+      "distanceKm": 9.5
+    },
+    "ne": {
+      "id": "kajaani-castle-wp",
+      "title": "Kajaani Castle",
+      "tile": "ue7t",
+      "coordinates": {
+        "lat": 64.229143,
+        "lng": 27.732859
+      },
+      "distanceKm": 56.3
+    },
+    "w": {
+      "id": "battle-of-siikajoki-wp",
+      "title": "Battle of Siikajoki",
+      "tile": "ue98",
+      "coordinates": {
+        "lat": 64.83333333,
+        "lng": 24.73333333
+      },
+      "distanceKm": 131.6
+    },
+    "e": {
+      "id": "battle-of-koljonvirta-wp",
+      "title": "Battle of Koljonvirta",
+      "tile": "ue73",
+      "coordinates": {
+        "lat": 63.58861111,
+        "lng": 27.16416667
+      },
+      "distanceKm": 26.4
+    },
+    "sw": {
+      "id": "lake-lappajarvi-wp",
+      "title": "Lake Lappajarvi",
+      "tile": "ue0z",
+      "coordinates": {
+        "lat": 63.1351067,
+        "lng": 23.6423597
+      },
+      "distanceKm": 107.2
+    },
+    "s": {
+      "id": "konginkangas-bus-disaster-wp",
+      "title": "Konginkangas Bus Disaster",
+      "tile": "ue4m",
+      "coordinates": {
+        "lat": 62.77833333,
+        "lng": 25.78194444
+      },
+      "distanceKm": 78.2
+    },
+    "se": {
+      "id": "1978-finnish-air-force-dc-3-crash-wp",
+      "title": "1978 Finnish Air Force DC-3 Crash",
+      "tile": "ue5y",
+      "coordinates": {
+        "lat": 63.01,
+        "lng": 27.82
+      },
+      "distanceKm": 74.2
+    }
+  }
+}

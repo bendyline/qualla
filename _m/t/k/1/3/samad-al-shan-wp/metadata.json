@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "samad-al-shan-wp",
     "sourceGeohash4": "tk13",
-    "mediumPath": "_m/t/k/1/3/samad-al-shan-wp/hero-medium.jpg",
-    "smallPath": "_m/t/k/1/3/samad-al-shan-wp/hero-small.jpg"
+    "mediumPath": "_m/t/k/1/3/samad-al-shan-wp/hero-medium.webp",
+    "smallPath": "_m/t/k/1/3/samad-al-shan-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "S100803 grave.tif",
@@ -76,7 +76,7 @@
       "sourceType": "core",
       "sourceArticleId": "samad-al-shan-wp",
       "sourceGeohash4": "tk13",
-      "smallPath": "_m/t/k/1/3/samad-al-shan-wp/samad-late-iron-age-gr-small.jpg"
+      "smallPath": "_m/t/k/1/3/samad-al-shan-wp/samad-late-iron-age-gr-small.webp"
     },
     {
       "filename": "Stone vessels samad lia.jpg",
@@ -101,8 +101,8 @@
       "sourceType": "core",
       "sourceArticleId": "samad-al-shan-wp",
       "sourceGeohash4": "tk13",
-      "mediumPath": "_m/t/k/1/3/samad-al-shan-wp/stone-vessels-samad-la-medium.jpg",
-      "smallPath": "_m/t/k/1/3/samad-al-shan-wp/stone-vessels-samad-la-small.jpg"
+      "mediumPath": "_m/t/k/1/3/samad-al-shan-wp/stone-vessels-samad-la-medium.webp",
+      "smallPath": "_m/t/k/1/3/samad-al-shan-wp/stone-vessels-samad-la-small.webp"
     },
     {
       "filename": "Samad plan bw Kopie.tif",
@@ -129,8 +129,8 @@
       "sourceType": "core",
       "sourceArticleId": "samad-al-shan-wp",
       "sourceGeohash4": "tk13",
-      "mediumPath": "_m/t/k/1/3/samad-al-shan-wp/plan-archaeological-si-medium.jpg",
-      "smallPath": "_m/t/k/1/3/samad-al-shan-wp/plan-archaeological-si-small.jpg"
+      "mediumPath": "_m/t/k/1/3/samad-al-shan-wp/plan-archaeological-si-medium.webp",
+      "smallPath": "_m/t/k/1/3/samad-al-shan-wp/plan-archaeological-si-small.webp"
     },
     {
       "filename": "S10~03.jpg",
@@ -156,8 +156,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "samad-al-shan-wp",
       "sourceGeohash4": "tk13",
-      "mediumPath": "_m/t/k/1/3/samad-al-shan-wp/s10-03-medium.jpg",
-      "smallPath": "_m/t/k/1/3/samad-al-shan-wp/s10-03-small.jpg"
+      "mediumPath": "_m/t/k/1/3/samad-al-shan-wp/s10-03-medium.webp",
+      "smallPath": "_m/t/k/1/3/samad-al-shan-wp/s10-03-small.webp"
     }
   ],
   "galleryPaths": [
@@ -166,6 +166,24 @@
     "_m/t/k/1/3/samad-al-shan-wp/plan-archaeological-si.jpg",
     "_m/t/k/1/3/samad-al-shan-wp/s10-03.jpg"
   ],
-  "fetchedAt": "2026-03-01T09:43:07.088Z",
-  "updatedAt": "2026-03-01T09:43:08.356Z"
+  "updatedAt": "2026-03-01T09:43:08.356Z",
+  "narration": {
+    "files": [
+      "tk13-samad-al-shan-flight-context.mp3",
+      "tk13-samad-al-shan-intro.mp3",
+      "tk13-samad-al-shan-the-type-site.mp3",
+      "tk13-samad-al-shan-what-the-graves-say.mp3",
+      "tk13-samad-al-shan-neither-persian-colony-nor-bedouin-camp.mp3",
+      "tk13-samad-al-shan-reading-bones-in-the-desert.mp3"
+    ],
+    "durations": {
+      "tk13-samad-al-shan-flight-context.mp3": 33.5244166,
+      "tk13-samad-al-shan-intro.mp3": 47.1409583,
+      "tk13-samad-al-shan-the-type-site.mp3": 56.2675416,
+      "tk13-samad-al-shan-what-the-graves-say.mp3": 60.0090416,
+      "tk13-samad-al-shan-neither-persian-colony-nor-bedouin-camp.mp3": 64.3707083,
+      "tk13-samad-al-shan-reading-bones-in-the-desert.mp3": 64.4514166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

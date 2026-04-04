@@ -25,7 +25,7 @@
     "sourceType": "core",
     "sourceArticleId": "2009-pishin-bombing-wp",
     "sourceGeohash4": "tkeu",
-    "smallPath": "_m/t/k/e/u/2009-pishin-bombing-wp/hero-small.jpg"
+    "smallPath": "_m/t/k/e/u/2009-pishin-bombing-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "IranSistanBaluchistan.png",
@@ -55,5 +55,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T10:31:40.230Z"
+  "narration": {
+    "files": [
+      "tkeu-2009-pishin-bombing-flight-context.mp3",
+      "tkeu-2009-pishin-bombing-intro.mp3",
+      "tkeu-2009-pishin-bombing-the-attack.mp3",
+      "tkeu-2009-pishin-bombing-the-blame-spreads.mp3",
+      "tkeu-2009-pishin-bombing-a-borderland-under-siege.mp3",
+      "tkeu-2009-pishin-bombing-consequences-and-capture.mp3"
+    ],
+    "durations": {
+      "tkeu-2009-pishin-bombing-flight-context.mp3": 39.0224166,
+      "tkeu-2009-pishin-bombing-intro.mp3": 45.2487916,
+      "tkeu-2009-pishin-bombing-the-attack.mp3": 49.456,
+      "tkeu-2009-pishin-bombing-the-blame-spreads.mp3": 60.9360416,
+      "tkeu-2009-pishin-bombing-a-borderland-under-siege.mp3": 64.1140833,
+      "tkeu-2009-pishin-bombing-consequences-and-capture.mp3": 62.412125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

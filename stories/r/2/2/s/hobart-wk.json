@@ -138,26 +138,16 @@
       "distanceKm": 571.9
     },
     "e": {
-      "id": "west-coast-new-zealand-wk",
-      "title": "West Coast (New Zealand)",
-      "tile": "rb2v",
+      "id": "doubtful-sound-wk",
+      "title": "Doubtful Sound",
+      "tile": "pxyv",
       "coordinates": {
-        "lat": -42.7,
-        "lng": 170
+        "lat": -45.37,
+        "lng": 167.02
       },
-      "distanceKm": 1819.1
+      "distanceKm": 1568.7
     },
     "sw": {
-      "id": "west-antarctica-wk",
-      "title": "West Antarctica",
-      "tile": "1cby",
-      "coordinates": {
-        "lat": -79,
-        "lng": -100
-      },
-      "distanceKm": 5788
-    },
-    "s": {
       "id": "chatham-islands-wk",
       "title": "Chatham Islands",
       "tile": "204t",
@@ -165,17 +155,27 @@
         "lat": -44,
         "lng": -176.4
       },
-      "distanceKm": 2917.8
+      "distanceKm": 2959.2
+    },
+    "s": {
+      "id": "lake-hauroko-wp",
+      "title": "Lake Hauroko",
+      "tile": "pxyf",
+      "coordinates": {
+        "lat": -45.958,
+        "lng": 167.305
+      },
+      "distanceKm": 1627.2
     },
     "se": {
-      "id": "queenstown-new-zealand-wk",
-      "title": "Queenstown",
-      "tile": "pxzz",
+      "id": "2003-fiordland-earthquake-wp",
+      "title": "2003 Fiordland Earthquake",
+      "tile": "pxyx",
       "coordinates": {
-        "lat": -45.031,
-        "lng": 168.662
+        "lat": -45.13,
+        "lng": 166.93
       },
-      "distanceKm": 1688.1
+      "distanceKm": 1552.3
     }
   },
   "keywords": [

@@ -25,8 +25,8 @@
     "sourceType": "core",
     "sourceArticleId": "anacortes-wk",
     "sourceGeohash4": "c28g",
-    "smallPath": "_m/c/2/8/g/anacortes-wk/hero-small.jpg",
-    "mediumPath": "_m/c/2/8/g/anacortes-wk/hero-medium.jpg"
+    "smallPath": "_m/c/2/8/g/anacortes-wk/hero-small.webp",
+    "mediumPath": "_m/c/2/8/g/anacortes-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Anacortes WA WV Banner.jpg",
@@ -80,34 +80,32 @@
       "sourceType": "core",
       "sourceArticleId": "anacortes-wk",
       "sourceGeohash4": "c28g",
-      "smallPath": "_m/c/2/8/g/anacortes-wk/race-day-off-skyline-m-small.jpg"
+      "smallPath": "_m/c/2/8/g/anacortes-wk/race-day-off-skyline-m-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/c/2/8/g/anacortes-wk/race-day-off-skyline-m.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:01:46.107Z",
   "updatedAt": "2026-01-29T12:48:23.432Z",
   "narration": {
     "files": [
-      "c28g-anacortes-ferry-town.mp3",
-      "c28g-anacortes-fidalgo-island.mp3",
       "c28g-anacortes-flight-context.mp3",
-      "c28g-anacortes-gateway-adventures.mp3",
-      "c28g-anacortes-historic-downtown.mp3",
       "c28g-anacortes-intro.mp3",
-      "c28g-anacortes-the-working-waterfront.mp3"
+      "c28g-anacortes-ferry-town.mp3",
+      "c28g-anacortes-the-working-waterfront.mp3",
+      "c28g-anacortes-fidalgo-island.mp3",
+      "c28g-anacortes-historic-downtown.mp3",
+      "c28g-anacortes-gateway-adventures.mp3"
     ],
     "durations": {
-      "c28g-anacortes-ferry-town.mp3": 56.208,
-      "c28g-anacortes-fidalgo-island.mp3": 62.064,
-      "c28g-anacortes-flight-context.mp3": 54.552,
-      "c28g-anacortes-gateway-adventures.mp3": 60.408,
-      "c28g-anacortes-historic-downtown.mp3": 62.928,
-      "c28g-anacortes-intro.mp3": 48,
-      "c28g-anacortes-the-working-waterfront.mp3": 57.12
+      "c28g-anacortes-flight-context.mp3": 61.0142916,
+      "c28g-anacortes-intro.mp3": 47.305,
+      "c28g-anacortes-ferry-town.mp3": 56.7477083,
+      "c28g-anacortes-the-working-waterfront.mp3": 54.7639166,
+      "c28g-anacortes-fidalgo-island.mp3": 62.3569583,
+      "c28g-anacortes-historic-downtown.mp3": 64.6375833,
+      "c28g-anacortes-gateway-adventures.mp3": 60.3862083
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:57.385Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

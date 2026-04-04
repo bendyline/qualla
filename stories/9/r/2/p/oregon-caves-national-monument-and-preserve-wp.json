@@ -108,14 +108,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "vancouver-island-wk",
-      "title": "Vancouver Island",
-      "tile": "c0yc",
+      "id": "ss-camden-wp",
+      "title": "SS Camden",
+      "tile": "c0r6",
       "coordinates": {
-        "lat": 49.5,
-        "lng": -125.5
+        "lat": 46.7772,
+        "lng": -124.5208
       },
-      "distanceKm": 800.9
+      "distanceKm": 491.9
     },
     "n": {
       "id": "savage-rapids-dam-wp",
@@ -138,14 +138,14 @@
       "distanceKm": 91.6
     },
     "w": {
-      "id": "alert-bay-wk",
-      "title": "Alert Bay",
-      "tile": "c0vx",
+      "id": "westport-washington-wp",
+      "title": "Westport, Washington",
+      "tile": "c0rd",
       "coordinates": {
-        "lat": 50.5856,
-        "lng": -126.9319
+        "lat": 46.890833333333,
+        "lng": -124.11
       },
-      "distanceKm": 968.1
+      "distanceKm": 532.8
     },
     "e": {
       "id": "mount-ashland-ski-area-wp",
@@ -158,14 +158,14 @@
       "distanceKm": 27.3
     },
     "sw": {
-      "id": "mauna-kea-wk",
-      "title": "Mauna Kea: The Mountain Taller Than Everest",
-      "tile": "8e92",
+      "id": "red-sand-beach-wp",
+      "title": "Red Sand Beach",
+      "tile": "8e9n",
       "coordinates": {
-        "lat": 19.8207,
-        "lng": -155.468
+        "lat": 20.7522,
+        "lng": -155.982
       },
-      "distanceKm": 3830.3
+      "distanceKm": 3792.9
     },
     "s": {
       "id": "fort-jones-california-wp",
@@ -190,5 +190,7 @@
   },
   "keywords": [
     "oregon-caves-national-monument-and-preserve"
-  ]
+  ],
+  "locationWikipediaPath": "9/r/2/p/oregon-caves-national-monument-and-preserve-wp",
+  "locationWikivoyagePath": "9/r/2/p/oregon-caves-national-monument-wk"
 }

@@ -26,8 +26,8 @@
     "sourceType": "core",
     "sourceArticleId": "roy-bean-wp",
     "sourceGeohash4": "9v0q",
-    "smallPath": "_m/9/v/0/q/roy-bean-wp/hero-small.jpg",
-    "mediumPath": "_m/9/v/0/q/roy-bean-wp/hero-medium.jpg"
+    "smallPath": "_m/9/v/0/q/roy-bean-wp/hero-small.webp",
+    "mediumPath": "_m/9/v/0/q/roy-bean-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Roy bean opera house.jpg",
@@ -80,8 +80,8 @@
       "sourceType": "core",
       "sourceArticleId": "roy-bean-wp",
       "sourceGeohash4": "9v0q",
-      "smallPath": "_m/9/v/0/q/roy-bean-wp/judge-roy-bean-s-jerse-small.jpg",
-      "mediumPath": "_m/9/v/0/q/roy-bean-wp/judge-roy-bean-s-jerse-medium.jpg"
+      "smallPath": "_m/9/v/0/q/roy-bean-wp/judge-roy-bean-s-jerse-small.webp",
+      "mediumPath": "_m/9/v/0/q/roy-bean-wp/judge-roy-bean-s-jerse-medium.webp"
     },
     {
       "filename": "BeanSign small.JPG",
@@ -109,7 +109,7 @@
       "sourceType": "core",
       "sourceArticleId": "roy-bean-wp",
       "sourceGeohash4": "9v0q",
-      "smallPath": "_m/9/v/0/q/roy-bean-wp/historical-marker-judg-small.jpg"
+      "smallPath": "_m/9/v/0/q/roy-bean-wp/historical-marker-judg-small.webp"
     },
     {
       "filename": "Judge Roy Scream.jpg",
@@ -137,7 +137,7 @@
       "sourceType": "core",
       "sourceArticleId": "roy-bean-wp",
       "sourceGeohash4": "9v0q",
-      "smallPath": "_m/9/v/0/q/roy-bean-wp/sadly-only-ride-we-cou-small.jpg"
+      "smallPath": "_m/9/v/0/q/roy-bean-wp/sadly-only-ride-we-cou-small.webp"
     },
     {
       "filename": "Replica of Judge Bean at the bar, Del Rio, TX Picture 1791.jpg",
@@ -163,7 +163,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "roy-bean-wp",
-      "sourceGeohash4": "9v0q"
+      "sourceGeohash4": "9v0q",
+      "mediumPath": "_m/9/v/0/q/roy-bean-wp/replica-of-judge-bean-at-the-b-medium.webp",
+      "smallPath": "_m/9/v/0/q/roy-bean-wp/replica-of-judge-bean-at-the-b-small.webp"
     },
     {
       "filename": "Judge Roy Bean's Opera House.jpg",
@@ -190,7 +192,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "roy-bean-wp",
-      "sourceGeohash4": "9v0q"
+      "sourceGeohash4": "9v0q",
+      "mediumPath": "_m/9/v/0/q/roy-bean-wp/judge-roy-bean-s-opera-house-medium.webp",
+      "smallPath": "_m/9/v/0/q/roy-bean-wp/judge-roy-bean-s-opera-house-small.webp"
     },
     {
       "filename": "Roy Bean grave, Del Rio, TX DSCN0890.JPG",
@@ -215,7 +219,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "roy-bean-wp",
-      "sourceGeohash4": "9v0q"
+      "sourceGeohash4": "9v0q",
+      "mediumPath": "_m/9/v/0/q/roy-bean-wp/roy-bean-grave-del-rio-tx-dscn-medium.webp",
+      "smallPath": "_m/9/v/0/q/roy-bean-wp/roy-bean-grave-del-rio-tx-dscn-small.webp"
     },
     {
       "filename": "Sam Bean grave in De, Rio, TX DSCN0891.JPG",
@@ -240,7 +246,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "roy-bean-wp",
-      "sourceGeohash4": "9v0q"
+      "sourceGeohash4": "9v0q",
+      "mediumPath": "_m/9/v/0/q/roy-bean-wp/sam-bean-grave-in-de-rio-tx-ds-medium.webp",
+      "smallPath": "_m/9/v/0/q/roy-bean-wp/sam-bean-grave-in-de-rio-tx-ds-small.webp"
     }
   ],
   "galleryPaths": [
@@ -252,7 +260,6 @@
     "_m/9/v/0/q/roy-bean-wp/roy-bean-grave-del-rio-tx-dscn.jpg",
     "_m/9/v/0/q/roy-bean-wp/sam-bean-grave-in-de-rio-tx-ds.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:32:13.783Z",
   "narration": {
     "files": [
       "9v0q-roy-bean-flight-context.mp3",
@@ -270,8 +277,7 @@
       "9v0q-roy-bean-flagging-down-a-railroad-baron.mp3": 45.6655416,
       "9v0q-roy-bean-the-legend-that-outlived-the-man.mp3": 61.840125
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T05:01:27.815Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:32:14.517Z"
 }

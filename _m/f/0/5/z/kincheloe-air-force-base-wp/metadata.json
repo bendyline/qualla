@@ -22,7 +22,7 @@
     "sourceType": "core",
     "sourceArticleId": "kincheloe-air-force-base-wp",
     "sourceGeohash4": "f05z",
-    "smallPath": "_m/f/0/5/z/kincheloe-air-force-base-wp/hero-small.jpg"
+    "smallPath": "_m/f/0/5/z/kincheloe-air-force-base-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "CIM-10 Bomarc missile battery.jpg",
@@ -120,7 +120,7 @@
       "sourceType": "core",
       "sourceArticleId": "kincheloe-air-force-base-wp",
       "sourceGeohash4": "f05z",
-      "smallPath": "_m/f/0/5/z/kincheloe-air-force-base-wp/438th-fighter-intercep-small.jpg"
+      "smallPath": "_m/f/0/5/z/kincheloe-air-force-base-wp/438th-fighter-intercep-small.webp"
     }
   ],
   "galleryPaths": [
@@ -128,5 +128,25 @@
     "_m/f/0/1/z/k-i-sawyer-air-force-base-wp/boeing-b-52h-140-bw-sn.jpg",
     "_m/f/0/5/z/kincheloe-air-force-base-wp/438th-fighter-intercep.jpg"
   ],
-  "fetchedAt": "2026-02-28T10:34:04.984Z"
+  "narration": {
+    "files": [
+      "f05z-kincheloe-air-force-base-flight-context.mp3",
+      "f05z-kincheloe-air-force-base-intro.mp3",
+      "f05z-kincheloe-air-force-base-a-pilots-name-a-nations-edge.mp3",
+      "f05z-kincheloe-air-force-base-born-to-guard-the-locks.mp3",
+      "f05z-kincheloe-air-force-base-interceptors-over-superior.mp3",
+      "f05z-kincheloe-air-force-base-bombers-on-the-alert-pad.mp3",
+      "f05z-kincheloe-air-force-base-what-the-base-became.mp3"
+    ],
+    "durations": {
+      "f05z-kincheloe-air-force-base-flight-context.mp3": 53.21625,
+      "f05z-kincheloe-air-force-base-intro.mp3": 45.3505,
+      "f05z-kincheloe-air-force-base-a-pilots-name-a-nations-edge.mp3": 55.7447083,
+      "f05z-kincheloe-air-force-base-born-to-guard-the-locks.mp3": 63.026,
+      "f05z-kincheloe-air-force-base-interceptors-over-superior.mp3": 77.33475,
+      "f05z-kincheloe-air-force-base-bombers-on-the-alert-pad.mp3": 69.5677916,
+      "f05z-kincheloe-air-force-base-what-the-base-became.mp3": 62.4604583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

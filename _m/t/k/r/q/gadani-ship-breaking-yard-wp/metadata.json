@@ -32,8 +32,8 @@
     "sourceType": "core",
     "sourceArticleId": "gadani-ship-breaking-yard-wp",
     "sourceGeohash4": "tkrq",
-    "mediumPath": "_m/t/k/r/q/gadani-ship-breaking-yard-wp/hero-medium.jpg",
-    "smallPath": "_m/t/k/r/q/gadani-ship-breaking-yard-wp/hero-small.jpg"
+    "mediumPath": "_m/t/k/r/q/gadani-ship-breaking-yard-wp/hero-medium.webp",
+    "smallPath": "_m/t/k/r/q/gadani-ship-breaking-yard-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Gadani ship breaking (2016).jpg",
@@ -128,5 +128,23 @@
     "_m/t/k/r/q/gadani-ship-breaking-yard-wp/example-commercial-was.jpg",
     "_m/6/x/m/q/amazon-rainforest-wk/aegopodium-podagraria.jpg"
   ],
-  "fetchedAt": "2026-03-01T10:39:27.541Z"
+  "narration": {
+    "files": [
+      "tkrq-gadani-ship-breaking-yard-flight-context.mp3",
+      "tkrq-gadani-ship-breaking-yard-intro.mp3",
+      "tkrq-gadani-ship-breaking-yard-the-biggest-yard-on-earth.mp3",
+      "tkrq-gadani-ship-breaking-yard-decline-and-the-long-slide.mp3",
+      "tkrq-gadani-ship-breaking-yard-the-human-cost-of-steel.mp3",
+      "tkrq-gadani-ship-breaking-yard-where-ships-go-to-die.mp3"
+    ],
+    "durations": {
+      "tkrq-gadani-ship-breaking-yard-flight-context.mp3": 39.5535833,
+      "tkrq-gadani-ship-breaking-yard-intro.mp3": 33.7891666,
+      "tkrq-gadani-ship-breaking-yard-the-biggest-yard-on-earth.mp3": 47.8102916,
+      "tkrq-gadani-ship-breaking-yard-decline-and-the-long-slide.mp3": 47.61575,
+      "tkrq-gadani-ship-breaking-yard-the-human-cost-of-steel.mp3": 64.8914583,
+      "tkrq-gadani-ship-breaking-yard-where-ships-go-to-die.mp3": 54.3814166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

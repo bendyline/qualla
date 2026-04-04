@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-wilson-s-creek-wp",
     "sourceGeohash4": "9yte",
-    "smallPath": "_m/9/y/t/e/battle-of-wilson-s-creek-wp/hero-small.jpg",
-    "mediumPath": "_m/9/y/t/e/battle-of-wilson-s-creek-wp/hero-medium.jpg"
+    "smallPath": "_m/9/y/t/e/battle-of-wilson-s-creek-wp/hero-small.webp",
+    "mediumPath": "_m/9/y/t/e/battle-of-wilson-s-creek-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "House of the Ray family at Wilson's Creek National Battlefield in SW Missouri.jpg",
@@ -68,8 +68,8 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-wilson-s-creek-wp",
       "sourceGeohash4": "9yte",
-      "smallPath": "_m/9/y/t/e/battle-of-wilson-s-creek-wp/battle-wilson-s-creek-small.jpg",
-      "mediumPath": "_m/9/y/t/e/battle-of-wilson-s-creek-wp/battle-wilson-s-creek-medium.jpg"
+      "smallPath": "_m/9/y/t/e/battle-of-wilson-s-creek-wp/battle-wilson-s-creek-small.webp",
+      "mediumPath": "_m/9/y/t/e/battle-of-wilson-s-creek-wp/battle-wilson-s-creek-medium.webp"
     },
     {
       "filename": "'Capt. Nathl. Lyon, U.S.A.'-cropped.jpg",
@@ -88,7 +88,7 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-wilson-s-creek-wp",
       "sourceGeohash4": "9yte",
-      "smallPath": "_m/9/y/t/e/battle-of-wilson-s-creek-wp/capt-nathl-lyon-u-s-na-small.jpg"
+      "smallPath": "_m/9/y/t/e/battle-of-wilson-s-creek-wp/capt-nathl-lyon-u-s-na-small.webp"
     },
     {
       "filename": "Wilson's Creek charge of 1st Iowa.jpg",
@@ -113,7 +113,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-wilson-s-creek-wp",
-      "sourceGeohash4": "9yte"
+      "sourceGeohash4": "9yte",
+      "mediumPath": "_m/9/y/t/e/battle-of-wilson-s-creek-wp/wilson-s-creek-charge-of-1st-i-medium.webp",
+      "smallPath": "_m/9/y/t/e/battle-of-wilson-s-creek-wp/wilson-s-creek-charge-of-1st-i-small.webp"
     },
     {
       "filename": "Gen. Lyon's charge at Wilson's Creek.png",
@@ -134,7 +136,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-wilson-s-creek-wp",
-      "sourceGeohash4": "9yte"
+      "sourceGeohash4": "9yte",
+      "smallPath": "_m/9/y/t/e/battle-of-wilson-s-creek-wp/gen-lyon-s-charge-at-wilson-s--small.webp"
     },
     {
       "filename": "Elkanah Greer, Marshall, Texas Historical Marker (7206430408).jpg",
@@ -179,7 +182,8 @@
       "dateCreated": "2011-04-07",
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-wilson-s-creek-wp",
-      "sourceGeohash4": "9yte"
+      "sourceGeohash4": "9yte",
+      "smallPath": "_m/9/y/t/e/battle-of-wilson-s-creek-wp/wilson-s-creek-battlefield-mis-small.webp"
     },
     {
       "filename": "Battle at Wilson's Creek, near Springfield, Mo.- Frank Leslie's Illustrated Newspaper.jpg",
@@ -195,7 +199,9 @@
       "dateCreated": "24 August 1846<div style=\"display: none;\">date QS:P571,+1846-08-24T00:00:00Z/11</div>",
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-wilson-s-creek-wp",
-      "sourceGeohash4": "9yte"
+      "sourceGeohash4": "9yte",
+      "mediumPath": "_m/9/y/t/e/battle-of-wilson-s-creek-wp/battle-at-wilson-s-creek-near--medium.webp",
+      "smallPath": "_m/9/y/t/e/battle-of-wilson-s-creek-wp/battle-at-wilson-s-creek-near--small.webp"
     },
     {
       "filename": "Wilson's Creek charge of 1st Iowa (rotate).jpg",
@@ -211,7 +217,9 @@
       "dateCreated": "1861-08-31",
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-wilson-s-creek-wp",
-      "sourceGeohash4": "9yte"
+      "sourceGeohash4": "9yte",
+      "mediumPath": "_m/9/y/t/e/battle-of-wilson-s-creek-wp/wilson-s-creek-charge-of-1st-i-1-medium.webp",
+      "smallPath": "_m/9/y/t/e/battle-of-wilson-s-creek-wp/wilson-s-creek-charge-of-1st-i-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -224,7 +232,6 @@
     "_m/9/y/t/e/battle-of-wilson-s-creek-wp/battle-at-wilson-s-creek-near-.jpg",
     "_m/9/y/t/e/battle-of-wilson-s-creek-wp/wilson-s-creek-charge-of-1st-i-1.jpg"
   ],
-  "fetchedAt": "2026-02-22T01:14:58.118Z",
   "narration": {
     "files": [
       "9yte-battle-of-wilsons-creek-flight-context.mp3",
@@ -244,8 +251,7 @@
       "9yte-battle-of-wilsons-creek-death-on-bloody-hill.mp3": 72.829,
       "9yte-battle-of-wilsons-creek-bloody-hill-preserved.mp3": 60.8517916
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T01:57:29.291Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T01:15:04.422Z"
 }

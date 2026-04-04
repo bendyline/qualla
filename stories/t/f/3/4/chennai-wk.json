@@ -77,34 +77,34 @@
   "locationWikivoyagePath": "t/f/3/4/chennai-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "hyderabad-wk",
-      "title": "Hyderabad",
+      "id": "falaknuma-palace-wp",
+      "title": "Falaknuma Palace",
       "tile": "tepf",
       "coordinates": {
-        "lat": 17.385,
-        "lng": 78.4867
+        "lat": 17.330955,
+        "lng": 78.467504
       },
-      "distanceKm": 469.4
+      "distanceKm": 464.3
     },
     "n": {
-      "id": "goa-wk",
-      "title": "Goa",
-      "tile": "tdu2",
+      "id": "khammam-fort-wp",
+      "title": "Khammam Fort",
+      "tile": "tg0f",
       "coordinates": {
-        "lat": 15.4909,
-        "lng": 73.8278
+        "lat": 17.245012,
+        "lng": 80.146736
       },
-      "distanceKm": 739.4
+      "distanceKm": 432.5
     },
     "ne": {
-      "id": "kolkata-wk",
-      "title": "Kolkata",
-      "tile": "tunb",
+      "id": "godavari-arch-bridge-wp",
+      "title": "Godavari Arch Bridge",
+      "tile": "tg40",
       "coordinates": {
-        "lat": 22.5726,
-        "lng": 88.3639
+        "lat": 17.01222222,
+        "lng": 81.75277778
       },
-      "distanceKm": 1295.3
+      "distanceKm": 417.3
     },
     "w": {
       "id": "bangalore-wk",
@@ -117,24 +117,24 @@
       "distanceKm": 239.8
     },
     "e": {
-      "id": "kathmandu-wk",
-      "title": "Kathmandu",
-      "tile": "tuut",
+      "id": "musunuri-nayakas-wp",
+      "title": "Musunuri Nayakas",
+      "tile": "tg1d",
       "coordinates": {
-        "lat": 27.7172,
-        "lng": 85.324
+        "lat": 17.3,
+        "lng": 81
       },
-      "distanceKm": 1690.6
+      "distanceKm": 467.7
     },
     "sw": {
-      "id": "aden-wk",
-      "title": "Aden",
-      "tile": "t420",
+      "id": "brihadisvara-temple-gangaikonda-cholapuram-wp",
+      "title": "Brihadisvara Temple, Gangaikonda Cholapuram",
+      "tile": "tcbr",
       "coordinates": {
-        "lat": 12.783333333333,
-        "lng": 45.016666666667
+        "lat": 11.206306,
+        "lng": 79.448447
       },
-      "distanceKm": 3769.1
+      "distanceKm": 184.9
     },
     "s": {
       "id": "pondicherry-wk",
@@ -147,14 +147,14 @@
       "distanceKm": 116.5
     },
     "se": {
-      "id": "north-sentinel-island-wk",
-      "title": "North Sentinel Island: Earth's Last Uncontacted People",
-      "tile": "w419",
+      "id": "koneswaram-temple-wp",
+      "title": "Koneswaram Temple",
+      "tile": "tc9b",
       "coordinates": {
-        "lat": 11.55,
-        "lng": 92.24
+        "lat": 8.5825,
+        "lng": 81.24555556
       },
-      "distanceKm": 1245
+      "distanceKm": 474.4
     }
   },
   "keywords": [

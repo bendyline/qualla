@@ -18,8 +18,8 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-st-louis-wp",
     "sourceGeohash4": "9yzg",
-    "smallPath": "_m/9/y/z/g/battle-of-st-louis-wp/hero-small.jpg",
-    "mediumPath": "_m/9/y/z/g/battle-of-st-louis-wp/hero-medium.jpg"
+    "smallPath": "_m/9/y/z/g/battle-of-st-louis-wp/hero-small.webp",
+    "mediumPath": "_m/9/y/z/g/battle-of-st-louis-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Ft San Carlos 2018-08-01 354.jpg",
@@ -68,7 +68,7 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-st-louis-wp",
       "sourceGeohash4": "9yzg",
-      "smallPath": "_m/9/y/z/g/battle-of-st-louis-wp/world-1897-british-pos-small.jpg"
+      "smallPath": "_m/9/y/z/g/battle-of-st-louis-wp/world-1897-british-pos-small.webp"
     },
     {
       "filename": "St-louis-attack.jpg",
@@ -105,8 +105,8 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-st-louis-wp",
       "sourceGeohash4": "9yzg",
-      "smallPath": "_m/9/y/z/g/battle-of-st-louis-wp/lunette-painting-oscar-small.jpg",
-      "mediumPath": "_m/9/y/z/g/battle-of-st-louis-wp/lunette-painting-oscar-medium.jpg"
+      "smallPath": "_m/9/y/z/g/battle-of-st-louis-wp/lunette-painting-oscar-small.webp",
+      "mediumPath": "_m/9/y/z/g/battle-of-st-louis-wp/lunette-painting-oscar-medium.webp"
     },
     {
       "filename": "Ft San Carlos 2018-08-01 391.jpg",
@@ -126,8 +126,8 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-st-louis-wp",
       "sourceGeohash4": "9yzg",
-      "smallPath": "_m/9/y/z/g/battle-of-st-louis-wp/sons-revolution-tablet-small.jpg",
-      "mediumPath": "_m/9/y/z/g/battle-of-st-louis-wp/sons-revolution-tablet-medium.jpg"
+      "smallPath": "_m/9/y/z/g/battle-of-st-louis-wp/sons-revolution-tablet-small.webp",
+      "mediumPath": "_m/9/y/z/g/battle-of-st-louis-wp/sons-revolution-tablet-medium.webp"
     },
     {
       "filename": "Ft San Carlos 2018-08-01 355.jpg",
@@ -148,7 +148,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-st-louis-wp",
-      "sourceGeohash4": "9yzg"
+      "sourceGeohash4": "9yzg",
+      "mediumPath": "_m/9/y/z/g/battle-of-st-louis-wp/ft-san-carlos-2018-08-01-355-medium.webp",
+      "smallPath": "_m/9/y/z/g/battle-of-st-louis-wp/ft-san-carlos-2018-08-01-355-small.webp"
     }
   ],
   "galleryPaths": [
@@ -157,7 +159,6 @@
     "_m/9/y/z/g/battle-of-st-louis-wp/sons-revolution-tablet.jpg",
     "_m/9/y/z/g/battle-of-st-louis-wp/ft-san-carlos-2018-08-01-355.jpg"
   ],
-  "fetchedAt": "2026-02-22T01:29:40.676Z",
   "updatedAt": "2026-02-22T01:29:41.167Z",
   "narration": {
     "files": [
@@ -176,7 +177,6 @@
       "9yzg-battle-of-st-louis-cannons-and-treachery.mp3": 64.8194583,
       "9yzg-battle-of-st-louis-the-aftermath-on-the-river.mp3": 73.0965416
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T04:25:06.714Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

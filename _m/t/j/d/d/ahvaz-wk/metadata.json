@@ -27,8 +27,8 @@
     "sourceType": "core",
     "sourceArticleId": "ahvaz-wk",
     "sourceGeohash4": "tjdd",
-    "mediumPath": "_m/t/j/d/d/ahvaz-wk/hero-medium.jpg",
-    "smallPath": "_m/t/j/d/d/ahvaz-wk/hero-small.jpg"
+    "mediumPath": "_m/t/j/d/d/ahvaz-wk/hero-medium.webp",
+    "smallPath": "_m/t/j/d/d/ahvaz-wk/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Iran - Khuzestan - Ahvaz - White Bridge & Karoon River.jpg",
@@ -84,8 +84,8 @@
       "sourceType": "core",
       "sourceArticleId": "ahvaz-wk",
       "sourceGeohash4": "tjdd",
-      "mediumPath": "_m/t/j/d/d/ahvaz-wk/ahvaz-wikivoyage-banne-medium.jpg",
-      "smallPath": "_m/t/j/d/d/ahvaz-wk/ahvaz-wikivoyage-banne-small.jpg"
+      "mediumPath": "_m/t/j/d/d/ahvaz-wk/ahvaz-wikivoyage-banne-medium.webp",
+      "smallPath": "_m/t/j/d/d/ahvaz-wk/ahvaz-wikivoyage-banne-small.webp"
     },
     {
       "filename": "Ahvaz.png",
@@ -102,7 +102,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "ahvaz-wk",
       "sourceGeohash4": "tjdd",
-      "smallPath": "_m/t/j/d/d/ahvaz-wk/ahvaz-small.png"
+      "smallPath": "_m/t/j/d/d/ahvaz-wk/ahvaz-small.webp"
     },
     {
       "filename": "Ahvaz-Atisha-2584.png",
@@ -120,7 +120,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "ahvaz-wk",
       "sourceGeohash4": "tjdd",
-      "smallPath": "_m/t/j/d/d/ahvaz-wk/ahvaz-atisha-2584-small.png"
+      "smallPath": "_m/t/j/d/d/ahvaz-wk/ahvaz-atisha-2584-small.webp"
     }
   ],
   "galleryPaths": [
@@ -128,6 +128,26 @@
     "_m/t/j/d/d/ahvaz-wk/ahvaz.png",
     "_m/t/j/d/d/ahvaz-wk/ahvaz-atisha-2584.png"
   ],
-  "fetchedAt": "2026-03-01T06:24:41.019Z",
-  "updatedAt": "2026-03-01T06:25:06.819Z"
+  "updatedAt": "2026-03-01T06:25:06.819Z",
+  "narration": {
+    "files": [
+      "tjdd-ahvaz-flight-context.mp3",
+      "tjdd-ahvaz-intro.mp3",
+      "tjdd-ahvaz-where-scholars-once-gathered.mp3",
+      "tjdd-ahvaz-the-river-that-divides-and-defines.mp3",
+      "tjdd-ahvaz-crude-awakening.mp3",
+      "tjdd-ahvaz-living-in-the-furnace.mp3",
+      "tjdd-ahvaz-between-two-worlds.mp3"
+    ],
+    "durations": {
+      "tjdd-ahvaz-flight-context.mp3": 43.53525,
+      "tjdd-ahvaz-intro.mp3": 40.36625,
+      "tjdd-ahvaz-where-scholars-once-gathered.mp3": 58.7307083,
+      "tjdd-ahvaz-the-river-that-divides-and-defines.mp3": 54.48225,
+      "tjdd-ahvaz-crude-awakening.mp3": 53.6366666,
+      "tjdd-ahvaz-living-in-the-furnace.mp3": 68.8331666,
+      "tjdd-ahvaz-between-two-worlds.mp3": 54.744
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

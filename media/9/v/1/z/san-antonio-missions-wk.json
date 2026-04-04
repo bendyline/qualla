@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/v/1/z/san-antonio-missions-wk/9v45-san-antonio-missions-the-churches-that-built-texas-intro.mp3",
-        "_m/9/v/1/z/san-antonio-missions-wk/9v45-san-antonio-missions-the-churches-that-built-texas-flight-context.mp3",
-        "_m/9/v/1/z/san-antonio-missions-wk/9v45-san-antonio-missions-the-churches-that-built-texas-the-alamo.mp3",
-        "_m/9/v/1/z/san-antonio-missions-wk/9v45-san-antonio-missions-the-churches-that-built-texas-the-architecture.mp3",
-        "_m/9/v/1/z/san-antonio-missions-wk/9v45-san-antonio-missions-the-churches-that-built-texas-the-living.mp3",
-        "_m/9/v/1/z/san-antonio-missions-wk/9v45-san-antonio-missions-the-churches-that-built-texas-the-system.mp3",
-        "_m/9/v/1/z/san-antonio-missions-wk/9v45-san-antonio-missions-the-churches-that-built-texas-visiting-san-antonio-missions.mp3"
+        "_m/9/v/1/z/san-antonio-missions-wk/9v1z-san-antonio-missions-the-churches-that-built-texas-flight-context.mp3",
+        "_m/9/v/1/z/san-antonio-missions-wk/9v1z-san-antonio-missions-the-churches-that-built-texas-intro.mp3",
+        "_m/9/v/1/z/san-antonio-missions-wk/9v1z-san-antonio-missions-the-churches-that-built-texas-the-system.mp3",
+        "_m/9/v/1/z/san-antonio-missions-wk/9v1z-san-antonio-missions-the-churches-that-built-texas-the-architecture.mp3",
+        "_m/9/v/1/z/san-antonio-missions-wk/9v1z-san-antonio-missions-the-churches-that-built-texas-the-alamo.mp3",
+        "_m/9/v/1/z/san-antonio-missions-wk/9v1z-san-antonio-missions-the-churches-that-built-texas-the-living.mp3",
+        "_m/9/v/1/z/san-antonio-missions-wk/9v1z-san-antonio-missions-the-churches-that-built-texas-visiting-san-antonio-missions.mp3"
       ],
       "hero": {
         "path": "_m/9/v/1/z/san-antonio-wk/picture-san-antonio-in.jpg",
@@ -33,7 +33,9 @@
           "License migration redundant",
           "San Antonio International Airport",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/9/v/1/z/san-antonio-missions-wk/hero-medium.webp",
+        "smallPath": "_m/9/v/1/z/san-antonio-missions-wk/hero-small.webp"
       },
       "images": [
         {
@@ -58,8 +60,8 @@
             "Taken with Nikon D80",
             "Weston Centre (San Antonio)"
           ],
-          "smallPath": "_m/9/v/1/z/san-antonio-missions-wk/westoncentersantx-small.jpg",
-          "mediumPath": "_m/9/v/1/z/san-antonio-missions-wk/westoncentersantx-medium.jpg"
+          "smallPath": "_m/9/v/1/z/san-antonio-missions-wk/westoncentersantx-small.webp",
+          "mediumPath": "_m/9/v/1/z/san-antonio-missions-wk/westoncentersantx-medium.webp"
         },
         {
           "path": "_m/9/v/1/z/san-antonio-missions-wk/weston-centre-interior-clock.jpg",
@@ -89,7 +91,7 @@
             "Weston Centre (San Antonio)",
             "Windows in San Antonio, Texas"
           ],
-          "smallPath": "_m/9/v/1/z/san-antonio-missions-wk/weston-centre-interior-clock-small.jpg"
+          "smallPath": "_m/9/v/1/z/san-antonio-missions-wk/weston-centre-interior-clock-small.webp"
         },
         {
           "path": "_m/9/v/1/z/san-antonio-missions-wk/weston-centre-sa-atrium.jpg",
@@ -115,7 +117,7 @@
             "Taken with Nikon Coolpix 3100",
             "Weston Centre (San Antonio)"
           ],
-          "smallPath": "_m/9/v/1/z/san-antonio-missions-wk/weston-centre-sa-atrium-small.jpg"
+          "smallPath": "_m/9/v/1/z/san-antonio-missions-wk/weston-centre-sa-atrium-small.webp"
         },
         {
           "path": "_m/9/v/1/z/san-antonio-wk/institute-texan-cultur.jpg",
@@ -646,7 +648,8 @@
           "sourceGeohash4": "9v1z",
           "accessedAt": "2026-02-21T22:35:02.382Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/v/1/z/san-antonio-missions-wk/9v1z-san-antonio-missions-combined.mp3"
     }
   }
 }

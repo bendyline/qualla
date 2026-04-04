@@ -31,7 +31,7 @@
           "PD-scan (PD-old-70-expired)",
           "Quebec in art"
         ],
-        "smallPath": "_m/f/2/5/g/battle-of-saint-charles-wp/hero-small.jpg"
+        "smallPath": "_m/f/2/5/g/battle-of-saint-charles-wp/hero-small.webp"
       },
       "images": [
         {
@@ -57,7 +57,7 @@
             "PD-1996",
             "PD Old"
           ],
-          "smallPath": "_m/f/2/5/g/battle-of-saint-charles-wp/battle-of-saint-charles-small.jpg"
+          "smallPath": "_m/f/2/5/g/battle-of-saint-charles-wp/battle-of-saint-charles-small.webp"
         },
         {
           "path": "_m/f/2/5/g/battle-of-saint-charles-wp/attack-on-st-charles.jpg",
@@ -74,9 +74,19 @@
           "sourceArticleId": "battle-of-saint-charles-wp",
           "sourceGeohash4": "f25g",
           "accessedAt": "2026-02-28T14:03:46.181Z",
-          "smallPath": "_m/f/2/5/g/battle-of-saint-charles-wp/attack-on-st-charles-small.jpg"
+          "smallPath": "_m/f/2/5/g/battle-of-saint-charles-wp/attack-on-st-charles-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/f/2/5/g/battle-of-saint-charles-wp/f25g-battle-of-saint-charles-flight-context.mp3",
+        "_m/f/2/5/g/battle-of-saint-charles-wp/f25g-battle-of-saint-charles-intro.mp3",
+        "_m/f/2/5/g/battle-of-saint-charles-wp/f25g-battle-of-saint-charles-the-seigneuries-and-the-simmering.mp3",
+        "_m/f/2/5/g/battle-of-saint-charles-wp/f25g-battle-of-saint-charles-a-fortified-camp-on-frozen-ground.mp3",
+        "_m/f/2/5/g/battle-of-saint-charles-wp/f25g-battle-of-saint-charles-wetheralls-march-north.mp3",
+        "_m/f/2/5/g/battle-of-saint-charles-wp/f25g-battle-of-saint-charles-two-hours-at-the-breastworks.mp3",
+        "_m/f/2/5/g/battle-of-saint-charles-wp/f25g-battle-of-saint-charles-the-fires-after.mp3"
+      ],
+      "combinedNarration": "_m/f/2/5/g/battle-of-saint-charles-wp/f25g-battle-of-saint-charles-combined.mp3"
     }
   }
 }

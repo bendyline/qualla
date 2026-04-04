@@ -166,14 +166,14 @@
       "distanceKm": 300.2
     },
     "s": {
-      "id": "battle-of-guerrero-wp",
-      "title": "Battle of Guerrero",
-      "tile": "9t5d",
+      "id": "gulf-of-california-wp",
+      "title": "Gulf of California",
+      "tile": "9sbr",
       "coordinates": {
-        "lat": 28.547777777777778,
-        "lng": -107.48555555555555
+        "lat": 28,
+        "lng": -112
       },
-      "distanceKm": 437
+      "distanceKm": 361.6
     },
     "se": {
       "id": "dolores-mine-wp",
@@ -188,5 +188,6 @@
   },
   "keywords": [
     "battle-of-ambos-nogales"
-  ]
+  ],
+  "locationWikipediaPath": "9/t/9/4/battle-of-ambos-nogales-wp"
 }

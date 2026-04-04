@@ -113,14 +113,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "cotswolds-wk",
-      "title": "Cotswolds",
-      "tile": "gcnw",
+      "id": "crowland-abbey-wp",
+      "title": "Crowland Abbey",
+      "tile": "gcrg",
       "coordinates": {
-        "lat": 51.761,
-        "lng": -1.888
+        "lat": 52.67639,
+        "lng": -0.16528
       },
-      "distanceKm": 372.3
+      "distanceKm": 274.3
     },
     "n": {
       "id": "1976-schiedam-train-accident-wp",
@@ -195,5 +195,6 @@
   },
   "keywords": [
     "battle-of-the-scheldt"
-  ]
+  ],
+  "locationWikipediaPath": "u/1/4/u/battle-of-the-scheldt-1574-wp"
 }

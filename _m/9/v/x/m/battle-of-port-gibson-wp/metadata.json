@@ -23,7 +23,7 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-port-gibson-wp",
     "sourceGeohash4": "9vxm",
-    "smallPath": "_m/9/v/x/m/battle-of-port-gibson-wp/hero-small.jpg"
+    "smallPath": "_m/9/v/x/m/battle-of-port-gibson-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Port Gibson Battlefield Mississippi.jpg",
@@ -77,7 +77,7 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-port-gibson-wp",
       "sourceGeohash4": "9vxm",
-      "smallPath": "_m/9/v/x/m/battle-of-port-gibson-wp/major-general-john-ale-small.jpg"
+      "smallPath": "_m/9/v/x/m/battle-of-port-gibson-wp/major-general-john-ale-small.webp"
     },
     {
       "filename": "33rd Illinois Volunteer Infantry Monument at Vicksburg.jpg",
@@ -108,7 +108,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-port-gibson-wp",
-      "sourceGeohash4": "9vxm"
+      "sourceGeohash4": "9vxm",
+      "smallPath": "_m/9/v/x/m/battle-of-port-gibson-wp/33rd-illinois-volunteer-infant-small.webp"
     },
     {
       "filename": "Grindstone Ford Battle of Port Gibson Vicksburg Campaign 1863 Bayou Pierre Mississippi photographed circa 1938.jpg",
@@ -130,7 +131,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-port-gibson-wp",
-      "sourceGeohash4": "9vxm"
+      "sourceGeohash4": "9vxm",
+      "smallPath": "_m/9/v/x/m/battle-of-port-gibson-wp/grindstone-ford-battle-of-port-small.webp"
     }
   ],
   "galleryPaths": [
@@ -138,7 +140,6 @@
     "_m/9/v/x/m/battle-of-port-gibson-wp/33rd-illinois-volunteer-infant.jpg",
     "_m/9/v/x/m/battle-of-port-gibson-wp/grindstone-ford-battle-of-port.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:26:04.445Z",
   "narration": {
     "files": [
       "9vxm-battle-of-port-gibson-flight-context.mp3",
@@ -156,8 +157,7 @@
       "9vxm-battle-of-port-gibson-ridges-ravines-and-two-roads.mp3": 69.6635833,
       "9vxm-battle-of-port-gibson-the-door-swings-open.mp3": 79.966125
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T12:32:44.291Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T23:26:05.546Z"
 }

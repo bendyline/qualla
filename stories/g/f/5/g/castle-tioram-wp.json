@@ -1,0 +1,152 @@
+{
+  "id": "castle-tioram-wp",
+  "source": "wikipedia",
+  "sourceId": "2314291",
+  "title": "Castle Tioram",
+  "slug": "castle-tioram",
+  "summary": "A Clanranald fortress on a tidal island in Loch Moidart that can only be reached on foot at low tide -- torched by its own chief in 1715 to keep it from Hanoverian hands.",
+  "content": {
+    "intro": "Twice a day, the sea reclaims Castle Tioram. The fortress sits on Eilean Tioram, a tidal island in Loch Moidart, and when the water rises, the rocky causeway connecting it to the mainland disappears beneath the surface. At low tide, you can walk across. At high tide, the castle stands alone, surrounded by water, exactly as its Gaelic name promises: Caisteal Tioram means \"dry castle,\" a name that only applies for half the tidal cycle. The irony is deliberate. For centuries, this was the seat of Clanranald, one of the most powerful branches of Clan Donald, and its position -- hidden from the open sea yet commanding access to Loch Shiel -- made it one of the most strategically cunning fortifications in the western Highlands.",
+    "sections": [
+      {
+        "title": "Somerled's Shadow",
+        "body": "Castle Tioram may date to the time of Somerled, the 12th-century Norse-Gaelic warrior who carved out a maritime domain across the western seaboard, though some historians place its construction in the 13th or 14th century. The island fortress was originally a stronghold of Clann Ruaidhri, and tradition preserved in the 17th-century Sleat History attributes the castle's construction to Aine Nic Ruaidhri, granddaughter of Ailean mac Ruaidhri, whose daughter Cairistiona's charter provides the earliest written record of Eilean Tioram. Whatever its precise origins, the castle passed to the Clanranald branch of Clan Donald and served as their principal seat for centuries. Located approximately 80 kilometres west of Fort William, north of the village of Acharacle, it controlled the approach to Loch Shiel while remaining invisible from the open sea -- a fortress designed not to intimidate passing ships but to ambush them."
+      },
+      {
+        "title": "Jacobites and Flames",
+        "body": "Castle Tioram endured the same convulsions that shook every Highland stronghold during the 17th and 18th centuries. Around 1692, Government forces seized the castle after the Clanranald chief, Allan Macdonald, joined the exiled Jacobite court in France despite having previously sworn allegiance to William III and Mary II. A government garrison occupied the fortress until 1715, when Allan recaptured it during the Jacobite rising. What happened next became the defining act of Castle Tioram's history. Rather than risk the castle falling back into Hanoverian hands if the rising failed, Allan ordered it torched. The fires gutted the interior and the castle has been unoccupied ever since, though scattered accounts suggest it was used to store firearms brought ashore from the Du Teillay during the 1745 uprising. Lady Grange, the famously kidnapped wife of an Edinburgh judge, also mentioned the castle in her account of her captivity in the Highlands."
+      },
+      {
+        "title": "A Ruin That Will Not Yield",
+        "body": "More than three centuries after Allan's fire, Castle Tioram remains a ruin -- but a remarkably stubborn one. In 1997, the new owners, Anta Estates, proposed a restoration that would have created a clan museum, domestic apartments, and public access. Highland Council granted planning permission, but Historic Scotland refused the separate Scheduled Monument Consent required, and a public inquiry upheld that refusal. A Dangerous Buildings Order closed the castle to the public in 1998 after engineers found the structure \"inherently strong\" but warned that without major consolidation, significant collapse was likely within a decade. A section of the northwest curtain wall did collapse in 2000 and was repaired by the owners. A 2014 condition report found no further significant deterioration. Today, Eilean Tioram remains one of 17 tidal islands accessible on foot from the Scottish mainland. Visitors can walk the causeway at low tide and circle the exterior, but the interior is closed. The castle appeared in the opening aerial montage of Highlander: The Series, a cameo that captured something true about the place: even in ruin, Castle Tioram refuses to disappear."
+      }
+    ],
+    "flightContext": "Castle Tioram sits at 56.785N, 5.829W on the tidal island Eilean Tioram in Loch Moidart, approximately 80 km west of Fort William and north of the village of Acharacle. The castle is visible from the air on its small island, with the tidal causeway connecting it to the mainland visible at low tide. Nearest airfield is Oban Airport (EGEO), approximately 40 nm south-southwest. Loch Shiel extends inland to the east, and the Ardnamurchan peninsula lies to the west."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 56.7845521819366,
+      "lng": -5.82907190392948
+    },
+    "geohash": "gf5g5"
+  },
+  "categories": [
+    "castles",
+    "clans",
+    "history",
+    "tidal-islands"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 650,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 9264
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Castle Tioram - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Castle_Tioram",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Tidal island Eilean Tioram in Loch Moidart confirmed",
+        "Caisteal Tioram meaning 'dry castle' confirmed",
+        "Principal seat of Clanranald branch of Clan Donald confirmed",
+        "Government forces seized castle around 1692 after Allan Macdonald joined Jacobite court confirmed",
+        "Allan recaptured and torched castle during 1715 rising to prevent Hanoverian capture confirmed",
+        "Castle unoccupied since 1715 confirmed",
+        "Firearms from Du Teillay (1745) possibly stored there confirmed",
+        "Dangerous Buildings Order 1998, northwest curtain wall collapsed 2000 and repaired confirmed",
+        "Eilean Tioram is one of 17 tidal islands accessible on foot from Scottish mainland confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "g/f/5/g/castle-tioram-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "talisker-distillery-wp",
+      "title": "Talisker distillery",
+      "tile": "gf5m",
+      "coordinates": {
+        "lat": 57.302777777778,
+        "lng": -6.3561111111111
+      },
+      "distanceKm": 19.4
+    },
+    "n": {
+      "id": "high-pasture-cave-wp",
+      "title": "High Pasture Cave",
+      "tile": "gf5t",
+      "coordinates": {
+        "lat": 57.211,
+        "lng": -6.016
+      },
+      "distanceKm": 15.9
+    },
+    "ne": {
+      "id": "fort-augustus-abbey-wp",
+      "title": "Fort Augustus Abbey",
+      "tile": "gfht",
+      "coordinates": {
+        "lat": 57.14,
+        "lng": -4.68
+      },
+      "distanceKm": 35.8
+    },
+    "w": {
+      "id": "canna-scotland-wp",
+      "title": "Canna, Scotland",
+      "tile": "gf5k",
+      "coordinates": {
+        "lat": 57.0579,
+        "lng": -6.54564
+      },
+      "distanceKm": 25.2
+    },
+    "e": {
+      "id": "west-highland-museum-wp",
+      "title": "West Highland Museum",
+      "tile": "gfh7",
+      "coordinates": {
+        "lat": 56.8177,
+        "lng": -5.1111
+      },
+      "distanceKm": 11.2
+    },
+    "sw": {
+      "id": "staffa-wk",
+      "title": "Staffa",
+      "tile": "gf53",
+      "coordinates": {
+        "lat": 56.436111,
+        "lng": -6.340278
+      },
+      "distanceKm": 18.4
+    },
+    "s": {
+      "id": "ardtornish-castle-wp",
+      "title": "Ardtornish Castle",
+      "tile": "gf5c",
+      "coordinates": {
+        "lat": 56.519167,
+        "lng": -5.753889
+      },
+      "distanceKm": 9.6
+    },
+    "se": {
+      "id": "battle-of-the-pass-of-brander-wp",
+      "title": "Battle of the Pass of Brander",
+      "tile": "gfh2",
+      "coordinates": {
+        "lat": 56.41305556,
+        "lng": -5.18027778
+      },
+      "distanceKm": 21.7
+    }
+  }
+}

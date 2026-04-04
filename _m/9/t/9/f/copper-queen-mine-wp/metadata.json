@@ -26,8 +26,8 @@
     "sourceType": "core",
     "sourceArticleId": "copper-queen-mine-wp",
     "sourceGeohash4": "9t9f",
-    "smallPath": "_m/9/t/9/f/copper-queen-mine-wp/hero-small.jpg",
-    "mediumPath": "_m/9/t/9/f/copper-queen-mine-wp/hero-medium.jpg"
+    "smallPath": "_m/9/t/9/f/copper-queen-mine-wp/hero-small.webp",
+    "mediumPath": "_m/9/t/9/f/copper-queen-mine-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "CopperQueenMineTour.jpg",
@@ -86,8 +86,8 @@
       "sourceType": "core",
       "sourceArticleId": "copper-queen-mine-wp",
       "sourceGeohash4": "9t9f",
-      "smallPath": "_m/9/t/9/f/copper-queen-mine-wp/amethyst-locality-mun-small.jpg",
-      "mediumPath": "_m/9/t/9/f/copper-queen-mine-wp/amethyst-locality-mun-medium.jpg"
+      "smallPath": "_m/9/t/9/f/copper-queen-mine-wp/amethyst-locality-mun-small.webp",
+      "mediumPath": "_m/9/t/9/f/copper-queen-mine-wp/amethyst-locality-mun-medium.webp"
     },
     {
       "filename": "Azurite + Malachite, Copper Queen, NMNH.jpg",
@@ -116,8 +116,8 @@
       "sourceType": "core",
       "sourceArticleId": "copper-queen-mine-wp",
       "sourceGeohash4": "9t9f",
-      "smallPath": "_m/9/t/9/f/copper-queen-mine-wp/azurite-malachite-copp-small.jpg",
-      "mediumPath": "_m/9/t/9/f/copper-queen-mine-wp/azurite-malachite-copp-medium.jpg"
+      "smallPath": "_m/9/t/9/f/copper-queen-mine-wp/azurite-malachite-copp-small.webp",
+      "mediumPath": "_m/9/t/9/f/copper-queen-mine-wp/azurite-malachite-copp-medium.webp"
     },
     {
       "filename": "Améthystre sceptre2.jpg",
@@ -137,8 +137,8 @@
       "sourceType": "core",
       "sourceArticleId": "copper-queen-mine-wp",
       "sourceGeohash4": "9t9f",
-      "smallPath": "_m/9/t/9/f/copper-queen-mine-wp/amethyst-locality-mun-1-small.jpg",
-      "mediumPath": "_m/9/t/9/f/copper-queen-mine-wp/amethyst-locality-mun-1-medium.jpg"
+      "smallPath": "_m/9/t/9/f/copper-queen-mine-wp/amethyst-locality-mun-1-small.webp",
+      "mediumPath": "_m/9/t/9/f/copper-queen-mine-wp/amethyst-locality-mun-1-medium.webp"
     },
     {
       "filename": "Azurite with Malachite - National Museum of Natural History - Washington, D.C..jpg",
@@ -155,7 +155,9 @@
       "dateCreated": "2009-04-19 16:47",
       "sourceType": "commons-category",
       "sourceArticleId": "copper-queen-mine-wp",
-      "sourceGeohash4": "9t9f"
+      "sourceGeohash4": "9t9f",
+      "mediumPath": "_m/9/t/9/f/copper-queen-mine-wp/azurite-with-malachite-nationa-medium.webp",
+      "smallPath": "_m/9/t/9/f/copper-queen-mine-wp/azurite-with-malachite-nationa-small.webp"
     },
     {
       "filename": "Bisbee-Mine-Tour (3134334734).jpg",
@@ -172,7 +174,8 @@
       "dateCreated": "2005-07-05 11:22",
       "sourceType": "commons-category",
       "sourceArticleId": "copper-queen-mine-wp",
-      "sourceGeohash4": "9t9f"
+      "sourceGeohash4": "9t9f",
+      "smallPath": "_m/9/t/9/f/copper-queen-mine-wp/bisbee-mine-tour-3134334734-small.webp"
     },
     {
       "filename": "Bisbee 1989 14.jpg",
@@ -189,7 +192,8 @@
       "dateCreated": "1989-09",
       "sourceType": "commons-category",
       "sourceArticleId": "copper-queen-mine-wp",
-      "sourceGeohash4": "9t9f"
+      "sourceGeohash4": "9t9f",
+      "smallPath": "_m/9/t/9/f/copper-queen-mine-wp/bisbee-1989-14-small.webp"
     },
     {
       "filename": "Bisbee 1989 15.jpg",
@@ -206,7 +210,8 @@
       "dateCreated": "1989-09",
       "sourceType": "commons-category",
       "sourceArticleId": "copper-queen-mine-wp",
-      "sourceGeohash4": "9t9f"
+      "sourceGeohash4": "9t9f",
+      "smallPath": "_m/9/t/9/f/copper-queen-mine-wp/bisbee-1989-15-small.webp"
     },
     {
       "filename": "Copper Queen Branch.jpg",
@@ -223,7 +228,8 @@
       "dateCreated": "2024-03-23 07:27:31",
       "sourceType": "commons-category",
       "sourceArticleId": "copper-queen-mine-wp",
-      "sourceGeohash4": "9t9f"
+      "sourceGeohash4": "9t9f",
+      "smallPath": "_m/9/t/9/f/copper-queen-mine-wp/copper-queen-branch-small.webp"
     }
   ],
   "galleryPaths": [
@@ -236,7 +242,6 @@
     "_m/9/t/9/f/copper-queen-mine-wp/bisbee-1989-15.jpg",
     "_m/9/t/9/f/copper-queen-mine-wp/copper-queen-branch.jpg"
   ],
-  "fetchedAt": "2026-02-21T21:51:19.963Z",
   "narration": {
     "files": [
       "9t9f-copper-queen-mine-flight-context.mp3",
@@ -256,8 +261,7 @@
       "9t9f-copper-queen-mine-the-bisbee-deportation.mp3": 54.4953333,
       "9t9f-copper-queen-mine-from-pit-to-heritage.mp3": 57.6960416
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-07T21:10:45.279Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T21:51:49.426Z"
 }

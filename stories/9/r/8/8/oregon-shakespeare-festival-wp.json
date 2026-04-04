@@ -113,14 +113,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "northern-oregon-coast-wk",
-      "title": "Northern Oregon Coast",
-      "tile": "c205",
+      "id": "pixieland-oregon-wp",
+      "title": "Pixieland",
+      "tile": "c0pb",
       "coordinates": {
-        "lat": 45.89,
-        "lng": -123.96
+        "lat": 45.0205,
+        "lng": -123.965
       },
-      "distanceKm": 375.3
+      "distanceKm": 279.6
     },
     "n": {
       "id": "crater-lake-national-park-wp",
@@ -195,5 +195,6 @@
   },
   "keywords": [
     "oregon-shakespeare-festival"
-  ]
+  ],
+  "locationWikipediaPath": "9/r/8/8/oregon-shakespeare-festival-wp"
 }

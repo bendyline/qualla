@@ -68,54 +68,54 @@
   "locationWikipediaPath": "9/f/b/z/acapulco-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "guadalajara-city-wk",
-      "title": "Guadalajara: Where Tequila, Mariachi, and the Mexican Soul Originate",
-      "tile": "9ewt",
+      "id": "zihuatanejo-wp",
+      "title": "Zihuatanejo",
+      "tile": "9epu",
       "coordinates": {
-        "lat": 20.6597,
-        "lng": -103.3496
+        "lat": 17.64344,
+        "lng": -101.55212
       },
-      "distanceKm": 498
+      "distanceKm": 125.4
     },
     "n": {
-      "id": "mexico-city-wk",
-      "title": "Mexico City: The Aztec Capital Rebuilt in Spanish and Slowly Sinking",
-      "tile": "9g3w",
+      "id": "taxco-wp",
+      "title": "Taxco",
+      "tile": "9g31",
       "coordinates": {
-        "lat": 19.4326,
-        "lng": -99.1332
+        "lat": 18.55462,
+        "lng": -99.60592
       },
-      "distanceKm": 280.9
+      "distanceKm": 172.9
     },
     "ne": {
-      "id": "puebla-city-wk",
-      "title": "Puebla: The Cinco de Mayo City in the Shadow of Volcanoes",
-      "tile": "9g6h",
+      "id": "siege-of-cuautla-wp",
+      "title": "Siege of Cuautla",
+      "tile": "9g3e",
       "coordinates": {
-        "lat": 19.0414,
-        "lng": -98.2063
+        "lat": 18.812222222222,
+        "lng": -98.955833333333
       },
-      "distanceKm": 259.8
+      "distanceKm": 203.9
     },
     "w": {
-      "id": "roy-bean-wp",
-      "title": "Roy Bean",
-      "tile": "9v0q",
+      "id": "patzcuaro-wp",
+      "title": "Pátzcuaro",
+      "tile": "9erx",
       "coordinates": {
-        "lat": 29.3517,
-        "lng": -100.898
+        "lat": 19.516388888889,
+        "lng": -101.60972222222
       },
-      "distanceKm": 1397.6
+      "distanceKm": 323.6
     },
     "e": {
-      "id": "oaxaca-city-wk",
-      "title": "Oaxaca: The Cultural Capital Where Mezcal and Mole Meet",
-      "tile": "9g50",
+      "id": "xochistlahuaca-wp",
+      "title": "Xochistlahuaca: The Plain of Flowers Where Amuzgo Women Weave the World",
+      "tile": "9ffp",
       "coordinates": {
-        "lat": 17.05,
-        "lng": -96.7167
+        "lat": 16.791388888889,
+        "lng": -98.241944444444
       },
-      "distanceKm": 296.7
+      "distanceKm": 133.1
     },
     "sw": {
       "id": "easter-island-collapse-wk",
@@ -128,24 +128,24 @@
       "distanceKm": 4944.2
     },
     "s": {
-      "id": "juan-castro-blanco-national-park-wk",
-      "title": "Juan Castro Blanco National Park",
-      "tile": "d1u4",
+      "id": "tututepec-wp",
+      "title": "Tututepec: The Mixtec Empire on the Pacific Shore",
+      "tile": "9ffe",
       "coordinates": {
-        "lat": 10.28,
-        "lng": -84.33
+        "lat": 16.1167,
+        "lng": -97.6
       },
-      "distanceKm": 1832.4
+      "distanceKm": 262.1
     },
     "se": {
-      "id": "antigua-guatemala-wk",
-      "title": "Antigua Guatemala",
-      "tile": "9fx6",
+      "id": "lagunas-de-chacahua-national-park-wk",
+      "title": "Lagunas de Chacahua: The Lagoons at the End of the Road",
+      "tile": "9ffd",
       "coordinates": {
-        "lat": 14.567,
-        "lng": -90.733
+        "lat": 15.96710278,
+        "lng": -97.68683056
       },
-      "distanceKm": 963.1
+      "distanceKm": 202.4
     }
   },
   "keywords": [

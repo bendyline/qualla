@@ -30,8 +30,8 @@
     "sourceType": "core",
     "sourceArticleId": "gohardasht-prison-wp",
     "sourceGeohash4": "tnkk",
-    "mediumPath": "_m/t/n/k/k/gohardasht-prison-wp/hero-medium.jpg",
-    "smallPath": "_m/t/n/k/k/gohardasht-prison-wp/hero-small.jpg"
+    "mediumPath": "_m/t/n/k/k/gohardasht-prison-wp/hero-medium.webp",
+    "smallPath": "_m/t/n/k/k/gohardasht-prison-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "2072.GohardashtPrison.Karaj.jpg",
@@ -66,5 +66,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T16:08:13.330Z"
+  "narration": {
+    "files": [
+      "tnkk-gohardasht-prison-flight-context.mp3",
+      "tnkk-gohardasht-prison-intro.mp3",
+      "tnkk-gohardasht-prison-after-the-revolution.mp3",
+      "tnkk-gohardasht-prison-summer-of-1988.mp3",
+      "tnkk-gohardasht-prison-suffering-behind-walls.mp3",
+      "tnkk-gohardasht-prison-names-and-silences.mp3"
+    ],
+    "durations": {
+      "tnkk-gohardasht-prison-flight-context.mp3": 46.9194166,
+      "tnkk-gohardasht-prison-intro.mp3": 41.3910833,
+      "tnkk-gohardasht-prison-after-the-revolution.mp3": 54.0974583,
+      "tnkk-gohardasht-prison-summer-of-1988.mp3": 50.7747916,
+      "tnkk-gohardasht-prison-suffering-behind-walls.mp3": 63.1220833,
+      "tnkk-gohardasht-prison-names-and-silences.mp3": 66.1485416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -27,8 +27,8 @@
     "sourceType": "core",
     "sourceArticleId": "idarado-mine-wp",
     "sourceGeohash4": "9wer",
-    "smallPath": "_m/9/w/e/r/idarado-mine-wp/hero-small.jpg",
-    "mediumPath": "_m/9/w/e/r/idarado-mine-wp/hero-medium.jpg"
+    "smallPath": "_m/9/w/e/r/idarado-mine-wp/hero-small.webp",
+    "mediumPath": "_m/9/w/e/r/idarado-mine-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Idaradoslag.JPG",
@@ -87,8 +87,8 @@
       "sourceType": "core",
       "sourceArticleId": "idarado-mine-wp",
       "sourceGeohash4": "9wer",
-      "smallPath": "_m/9/w/e/r/idarado-mine-wp/idarado-mine-trestle-small.jpg",
-      "mediumPath": "_m/9/w/e/r/idarado-mine-wp/idarado-mine-trestle-medium.jpg"
+      "smallPath": "_m/9/w/e/r/idarado-mine-wp/idarado-mine-trestle-small.webp",
+      "mediumPath": "_m/9/w/e/r/idarado-mine-wp/idarado-mine-trestle-medium.webp"
     },
     {
       "filename": "Red Mountain Trestle Frame.jpg",
@@ -105,7 +105,9 @@
       "dateCreated": "Taken on 20 September 2022, 14:40:39",
       "sourceType": "commons-category",
       "sourceArticleId": "idarado-mine-wp",
-      "sourceGeohash4": "9wer"
+      "sourceGeohash4": "9wer",
+      "mediumPath": "_m/9/w/e/r/idarado-mine-wp/red-mountain-trestle-frame-medium.webp",
+      "smallPath": "_m/9/w/e/r/idarado-mine-wp/red-mountain-trestle-frame-small.webp"
     },
     {
       "filename": "Throw Over Trestle.jpg",
@@ -122,7 +124,9 @@
       "dateCreated": "Taken on 20 September 2022, 14:38:45",
       "sourceType": "commons-category",
       "sourceArticleId": "idarado-mine-wp",
-      "sourceGeohash4": "9wer"
+      "sourceGeohash4": "9wer",
+      "mediumPath": "_m/9/w/e/r/idarado-mine-wp/throw-over-trestle-medium.webp",
+      "smallPath": "_m/9/w/e/r/idarado-mine-wp/throw-over-trestle-small.webp"
     }
   ],
   "galleryPaths": [
@@ -130,7 +134,6 @@
     "_m/9/w/e/r/idarado-mine-wp/red-mountain-trestle-frame.jpg",
     "_m/9/w/e/r/idarado-mine-wp/throw-over-trestle.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:48:53.735Z",
   "narration": {
     "files": [
       "9wer-idarado-mine-flight-context.mp3",
@@ -148,8 +151,7 @@
       "9wer-idarado-mine-through-the-mountain.mp3": 72.644625,
       "9wer-idarado-mine-boom-bust-and-80-000-pounds-of-dynamite.mp3": 85.2486666
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T17:41:02.591Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T23:49:00.285Z"
 }

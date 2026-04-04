@@ -85,14 +85,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "terney-wk",
+      "title": "Terney",
+      "tile": "z010",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 45.033333,
+        "lng": 136.6
       },
-      "distanceKm": 1528
+      "distanceKm": 742.1
     },
     "n": {
       "id": "tono-wk",
@@ -105,14 +105,14 @@
       "distanceKm": 14.5
     },
     "ne": {
-      "id": "attu-island-forgotten-battle-wk",
-      "title": "Attu Island: America's Forgotten Arctic Battle",
-      "tile": "zc7h",
+      "id": "uss-wahoo-ss-238-wp",
+      "title": "USS Wahoo (SS-238)",
+      "tile": "z0jh",
       "coordinates": {
-        "lat": 52.85,
-        "lng": 173.18
+        "lat": 45.8065,
+        "lng": 142.0605
       },
-      "distanceKm": 2810.3
+      "distanceKm": 734.7
     },
     "w": {
       "id": "hosokura-mine-wp",
@@ -164,5 +164,6 @@
       },
       "distanceKm": 48.8
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/u/t/takata-matsubara-wp"
 }

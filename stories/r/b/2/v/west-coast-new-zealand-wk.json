@@ -87,64 +87,74 @@
       "distanceKm": 1848.8
     },
     "n": {
-      "id": "auckland-wk",
-      "title": "Auckland",
-      "tile": "rckq",
+      "id": "pancake-rocks-and-blowholes-wp",
+      "title": "Pancake Rocks and Blowholes",
+      "tile": "rb9b",
       "coordinates": {
-        "lat": -36.8509,
-        "lng": 174.7645
+        "lat": -42.117,
+        "lng": 171.327
       },
-      "distanceKm": 737
+      "distanceKm": 114.2
     },
     "ne": {
-      "id": "abel-tasman-national-park-wk",
-      "title": "Abel Tasman National Park",
-      "tile": "rbdz",
+      "id": "croesus-track-wp",
+      "title": "Croesus Track",
+      "tile": "rb3z",
       "coordinates": {
-        "lat": -40.833333,
-        "lng": 172.9
+        "lat": -42.2592,
+        "lng": 171.3629
       },
-      "distanceKm": 261.7
+      "distanceKm": 71.3
     },
     "w": {
-      "id": "hobart-wk",
-      "title": "Hobart",
-      "tile": "r22s",
+      "id": "gorge-river-wp",
+      "title": "Gorge River",
+      "tile": "r8ps",
       "coordinates": {
-        "lat": -42.8509,
-        "lng": 147.291
+        "lat": -44.1833,
+        "lng": 168.1953
       },
-      "distanceKm": 1804.9
+      "distanceKm": 200.7
     },
     "e": {
-      "id": "wellington-wk",
-      "title": "Wellington",
-      "tile": "rbsm",
+      "id": "hokitika-wk",
+      "title": "Hokitika",
+      "tile": "rb3s",
       "coordinates": {
-        "lat": -41.2866,
-        "lng": 174.7756
+        "lat": -42.716666666667,
+        "lng": 170.96666666667
       },
-      "distanceKm": 383
+      "distanceKm": 38.8
     },
     "sw": {
-      "id": "queenstown-new-zealand-wk",
-      "title": "Queenstown",
-      "tile": "pxzz",
+      "id": "mount-aspiring-national-park-wk",
+      "title": "Mount Aspiring National Park",
+      "tile": "r8pg",
       "coordinates": {
-        "lat": -45.031,
-        "lng": 168.662
+        "lat": -44.382777777778,
+        "lng": 168.73277777778
       },
-      "distanceKm": 246.3
+      "distanceKm": 175.8
     },
     "s": {
-      "id": "chatham-islands-wk",
-      "title": "Chatham Islands",
-      "tile": "204t",
+      "id": "lake-matheson-wp",
+      "title": "Lake Matheson",
+      "tile": "rb2b",
       "coordinates": {
-        "lat": -44,
-        "lng": -176.4
+        "lat": -43.438,
+        "lng": 169.963
       },
-      "distanceKm": 1105.1
+      "distanceKm": 60.9
+    },
+    "se": {
+      "id": "hokitika-gorge-wp",
+      "title": "Hokitika Gorge",
+      "tile": "rb3e",
+      "coordinates": {
+        "lat": -42.955527,
+        "lng": 171.018891
+      },
+      "distanceKm": 42.2
     }
   },
   "keywords": [

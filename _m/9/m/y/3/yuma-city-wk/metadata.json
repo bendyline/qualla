@@ -11,7 +11,6 @@
       "9my3-yuma-the-sunniest-city-on-earth-where-outlaws-beca-visiting-yuma.mp3"
     ],
     "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-21T05:23:49.803Z",
     "durations": {
       "9my3-yuma-the-sunniest-city-on-earth-where-outlaws-beca-flight-context.mp3": 52.152,
       "9my3-yuma-the-sunniest-city-on-earth-where-outlaws-beca-intro.mp3": 64.728,
@@ -22,7 +21,6 @@
       "9my3-yuma-the-sunniest-city-on-earth-where-outlaws-beca-visiting-yuma.mp3": 60.528
     }
   },
-  "fetchedAt": "2026-02-21T20:37:31.528Z",
   "hero": {
     "filename": "YRMC Hospital Tower.jpg",
     "title": "File:YRMC Hospital Tower.jpg",
@@ -46,8 +44,8 @@
     "sourceType": "core",
     "sourceArticleId": "yuma-city-wk",
     "sourceGeohash4": "9my3",
-    "smallPath": "_m/9/m/y/3/yuma-city-wk/hero-small.jpg",
-    "mediumPath": "_m/9/m/y/3/yuma-city-wk/hero-medium.jpg"
+    "smallPath": "_m/9/m/y/3/yuma-city-wk/hero-small.webp",
+    "mediumPath": "_m/9/m/y/3/yuma-city-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "YRMC Hospital Tower.jpg",
@@ -97,8 +95,8 @@
       "sourceType": "core",
       "sourceArticleId": "yuma-city-wk",
       "sourceGeohash4": "9my3",
-      "smallPath": "_m/9/m/y/3/yuma-city-wk/main-entrance-yuma-reg-small.jpg",
-      "mediumPath": "_m/9/m/y/3/yuma-city-wk/main-entrance-yuma-reg-medium.jpg"
+      "smallPath": "_m/9/m/y/3/yuma-city-wk/main-entrance-yuma-reg-small.webp",
+      "mediumPath": "_m/9/m/y/3/yuma-city-wk/main-entrance-yuma-reg-medium.webp"
     },
     {
       "filename": "YRMC Cancer Center.jpg",
@@ -123,8 +121,8 @@
       "sourceType": "core",
       "sourceArticleId": "yuma-city-wk",
       "sourceGeohash4": "9my3",
-      "smallPath": "_m/9/m/y/3/yuma-city-wk/cancer-center-yuma-reg-small.jpg",
-      "mediumPath": "_m/9/m/y/3/yuma-city-wk/cancer-center-yuma-reg-medium.jpg"
+      "smallPath": "_m/9/m/y/3/yuma-city-wk/cancer-center-yuma-reg-small.webp",
+      "mediumPath": "_m/9/m/y/3/yuma-city-wk/cancer-center-yuma-reg-medium.webp"
     },
     {
       "filename": "Yuma Regional Medical Center.jpg",
@@ -146,7 +144,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "yuma-city-wk",
-      "sourceGeohash4": "9my3"
+      "sourceGeohash4": "9my3",
+      "mediumPath": "_m/9/m/y/3/yuma-city-wk/yuma-regional-medical-center-medium.webp",
+      "smallPath": "_m/9/m/y/3/yuma-city-wk/yuma-regional-medical-center-small.webp"
     },
     {
       "filename": "YRMC Cancer Center (Close-up).jpg",
@@ -168,7 +168,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "yuma-city-wk",
-      "sourceGeohash4": "9my3"
+      "sourceGeohash4": "9my3",
+      "mediumPath": "_m/9/m/y/3/yuma-city-wk/yrmc-cancer-center-close-up-medium.webp",
+      "smallPath": "_m/9/m/y/3/yuma-city-wk/yrmc-cancer-center-close-up-small.webp"
     }
   ],
   "galleryPaths": [

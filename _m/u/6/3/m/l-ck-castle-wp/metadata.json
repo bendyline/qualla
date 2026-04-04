@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "l-ck-castle-wp",
     "sourceGeohash4": "u63m",
-    "smallPath": "_m/u/6/3/m/l-ck-castle-wp/hero-small.jpg",
-    "mediumPath": "_m/u/6/3/m/l-ck-castle-wp/hero-medium.jpg"
+    "smallPath": "_m/u/6/3/m/l-ck-castle-wp/hero-small.webp",
+    "mediumPath": "_m/u/6/3/m/l-ck-castle-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Läckö slott - IMG 0758.jpg",
@@ -88,8 +88,8 @@
       "sourceType": "core",
       "sourceArticleId": "l-ck-castle-wp",
       "sourceGeohash4": "u63m",
-      "smallPath": "_m/u/6/3/m/l-ck-castle-wp/lacko-slott-kungssalen-small.jpg",
-      "mediumPath": "_m/u/6/3/m/l-ck-castle-wp/lacko-slott-kungssalen-medium.jpg"
+      "smallPath": "_m/u/6/3/m/l-ck-castle-wp/lacko-slott-kungssalen-small.webp",
+      "mediumPath": "_m/u/6/3/m/l-ck-castle-wp/lacko-slott-kungssalen-medium.webp"
     },
     {
       "filename": "0283Läckö slott.jpg",
@@ -123,15 +123,14 @@
       "sourceType": "core",
       "sourceArticleId": "l-ck-castle-wp",
       "sourceGeohash4": "u63m",
-      "smallPath": "_m/u/6/3/m/l-ck-castle-wp/lacko-kungsgard-och-sl-small.jpg",
-      "mediumPath": "_m/u/6/3/m/l-ck-castle-wp/lacko-kungsgard-och-sl-medium.jpg"
+      "smallPath": "_m/u/6/3/m/l-ck-castle-wp/lacko-kungsgard-och-sl-small.webp",
+      "mediumPath": "_m/u/6/3/m/l-ck-castle-wp/lacko-kungsgard-och-sl-medium.webp"
     }
   ],
   "galleryPaths": [
     "_m/u/6/3/m/l-ck-castle-wp/lacko-slott-kungssalen.jpg",
     "_m/u/6/3/m/l-ck-castle-wp/lacko-kungsgard-och-sl.jpg"
   ],
-  "fetchedAt": "2026-02-22T14:34:12.239Z",
   "updatedAt": "2026-02-07T16:50:34.473Z",
   "narration": {
     "files": [
@@ -152,7 +151,6 @@
       "u63m-l-ck-castle-opera-under-the-stars.mp3": 39.9785833,
       "u63m-l-ck-castle-wings-over-v-nern.mp3": 43.3886666
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T15:41:22.563Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

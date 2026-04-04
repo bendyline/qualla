@@ -77,84 +77,84 @@
   "locationWikipediaPath": "g/f/h/8/ardlui-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "flannan-isles-wk",
-      "title": "The Flannan Isles Mystery: The Lighthouse Keepers Who Vanished",
-      "tile": "gf6e",
+      "id": "glenfinnan-monument-wp",
+      "title": "Glenfinnan Monument",
+      "tile": "gfh5",
       "coordinates": {
-        "lat": 58.2886,
-        "lng": -7.5872
+        "lat": 56.869166666666665,
+        "lng": -5.436944444444444
       },
-      "distanceKm": 233.1
+      "distanceKm": 31.4
     },
     "n": {
-      "id": "bergen-wk",
-      "title": "Bergen",
-      "tile": "u4ez",
+      "id": "glen-coe-wp",
+      "title": "Glen Coe",
+      "tile": "gfh6",
       "coordinates": {
-        "lat": 60.3913,
-        "lng": 5.3221
+        "lat": 56.66777777777778,
+        "lng": -4.986666666666666
       },
-      "distanceKm": 719.8
+      "distanceKm": 16.5
     },
     "ne": {
-      "id": "aberdeen-wk",
-      "title": "Aberdeen",
-      "tile": "gfnm",
+      "id": "croft-moraig-stone-circle-wp",
+      "title": "Croft Moraig Stone Circle",
+      "tile": "gfj4",
       "coordinates": {
-        "lat": 57.1526,
-        "lng": -2.11
+        "lat": 56.60176,
+        "lng": -3.960222
       },
-      "distanceKm": 142
+      "distanceKm": 15.8
     },
     "w": {
-      "id": "achill-island-wk",
-      "title": "Achill Island",
-      "tile": "gc8f",
+      "id": "ardchattan-priory-wp",
+      "title": "Ardchattan Priory",
+      "tile": "gfh1",
       "coordinates": {
-        "lat": 53.9589,
-        "lng": -10.0389
+        "lat": 56.4629,
+        "lng": -5.29414
       },
-      "distanceKm": 401.9
+      "distanceKm": 14
     },
     "e": {
-      "id": "cotswolds-wk",
-      "title": "Cotswolds",
-      "tile": "gcnw",
+      "id": "drummond-castle-wp",
+      "title": "Drummond Castle",
+      "tile": "gfj0",
       "coordinates": {
-        "lat": 51.761,
-        "lng": -1.888
+        "lat": 56.3409,
+        "lng": -3.87055
       },
-      "distanceKm": 531.1
+      "distanceKm": 21.5
     },
     "sw": {
-      "id": "dublin-wk",
-      "title": "Dublin",
-      "tile": "gc7x",
+      "id": "ardbeg-distillery-wp",
+      "title": "Ardbeg Distillery",
+      "tile": "gcgs",
       "coordinates": {
-        "lat": 53.3411,
-        "lng": -6.2633
+        "lat": 55.6405,
+        "lng": -6.10833
       },
-      "distanceKm": 310.5
+      "distanceKm": 71
     },
     "s": {
-      "id": "pennine-way-wk",
-      "title": "Pennine Way",
-      "tile": "gcw8",
+      "id": "dumbarton-castle-wp",
+      "title": "Dumbarton Castle",
+      "tile": "gcuy",
       "coordinates": {
-        "lat": 53.491,
-        "lng": -1.891
+        "lat": 55.9365,
+        "lng": -4.5614
       },
-      "distanceKm": 340.6
+      "distanceKm": 19.1
     },
     "se": {
-      "id": "edinburgh-wk",
-      "title": "Edinburgh",
-      "tile": "gcvw",
+      "id": "falkirk-wheel-wp",
+      "title": "Falkirk Wheel",
+      "tile": "gcvq",
       "coordinates": {
-        "lat": 55.953056,
-        "lng": -3.188889
+        "lat": 56.00028,
+        "lng": -3.84167
       },
-      "distanceKm": 65.4
+      "distanceKm": 24.8
     }
   },
   "keywords": [

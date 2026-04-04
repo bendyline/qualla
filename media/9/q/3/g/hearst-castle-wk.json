@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/q/3/g/hearst-castle-wk/9q3y-hearst-castle-intro.mp3",
-        "_m/9/q/3/g/hearst-castle-wk/9q3y-hearst-castle-flight-context.mp3",
-        "_m/9/q/3/g/hearst-castle-wk/9q3y-hearst-castle-the-builder.mp3",
-        "_m/9/q/3/g/hearst-castle-wk/9q3y-hearst-castle-the-construction.mp3",
-        "_m/9/q/3/g/hearst-castle-wk/9q3y-hearst-castle-the-parties.mp3",
-        "_m/9/q/3/g/hearst-castle-wk/9q3y-hearst-castle-the-zoo.mp3",
-        "_m/9/q/3/g/hearst-castle-wk/9q3y-hearst-castle-visiting-hearst-castle.mp3"
+        "_m/9/q/3/g/hearst-castle-wk/9q3g-hearst-castle-flight-context.mp3",
+        "_m/9/q/3/g/hearst-castle-wk/9q3g-hearst-castle-intro.mp3",
+        "_m/9/q/3/g/hearst-castle-wk/9q3g-hearst-castle-the-builder.mp3",
+        "_m/9/q/3/g/hearst-castle-wk/9q3g-hearst-castle-the-construction.mp3",
+        "_m/9/q/3/g/hearst-castle-wk/9q3g-hearst-castle-the-parties.mp3",
+        "_m/9/q/3/g/hearst-castle-wk/9q3g-hearst-castle-the-zoo.mp3",
+        "_m/9/q/3/g/hearst-castle-wk/9q3g-hearst-castle-visiting-hearst-castle.mp3"
       ],
       "hero": {
         "path": "_m/tpc/he/ar/st/-c/hearst-castle/neptune-pool-hearst-castle-556.jpg",
@@ -36,7 +36,9 @@
           "Neptune Pool (Hearst Castle)",
           "Photographs taken on 2005-09-03",
           "Taken with Pentax Optio S50"
-        ]
+        ],
+        "mediumPath": "_m/9/q/3/g/hearst-castle-wk/hero-medium.webp",
+        "smallPath": "_m/9/q/3/g/hearst-castle-wk/hero-small.webp"
       },
       "images": [
         {
@@ -88,8 +90,8 @@
             "Uploaded with derivativeFX",
             "Views of Hearst Castle From Visitor Center"
           ],
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/view-hearst-castle-sou-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/view-hearst-castle-sou-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/view-hearst-castle-sou-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/view-hearst-castle-sou-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/entry-terrace-wellhead.jpg",
@@ -131,7 +133,7 @@
             "WLM 2012 United States nominated",
             "WLM 2012 United States reviewed"
           ],
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/entry-terrace-wellhead-small.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/entry-terrace-wellhead-small.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/photo-place-building-l.jpg",
@@ -148,8 +150,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/photo-place-building-l-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/photo-place-building-l-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/photo-place-building-l-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/photo-place-building-l-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/spectacular-sunset-gra.jpg",
@@ -166,7 +168,7 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/spectacular-sunset-gra-small.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/spectacular-sunset-gra-small.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/courtyard-patio-garden.jpg",
@@ -183,8 +185,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/courtyard-patio-garden-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/courtyard-patio-garden-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/courtyard-patio-garden-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/courtyard-patio-garden-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/ronda-santa-maria-de-l.jpg",
@@ -201,8 +203,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/ronda-santa-maria-de-l-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/ronda-santa-maria-de-l-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/ronda-santa-maria-de-l-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/ronda-santa-maria-de-l-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/room-hearst-castle-cal.jpg",
@@ -219,8 +221,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/room-hearst-castle-cal-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/room-hearst-castle-cal-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/room-hearst-castle-cal-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/room-hearst-castle-cal-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/hearst-castle-night.jpg",
@@ -237,8 +239,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/hearst-castle-night-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/hearst-castle-night-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/hearst-castle-night-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/hearst-castle-night-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/another-room-hearst-ca.jpg",
@@ -255,8 +257,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/another-room-hearst-ca-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/another-room-hearst-ca-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/another-room-hearst-ca-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/another-room-hearst-ca-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/interior-view-hearst-c.jpg",
@@ -273,8 +275,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/interior-view-hearst-c-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/interior-view-hearst-c-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/interior-view-hearst-c-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/interior-view-hearst-c-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/interior-view-hearst-c-1.jpg",
@@ -291,8 +293,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/interior-view-hearst-c-1-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/interior-view-hearst-c-1-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/interior-view-hearst-c-1-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/interior-view-hearst-c-1-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/artwork-inside-hearst.jpg",
@@ -309,8 +311,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/artwork-inside-hearst-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/artwork-inside-hearst-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/artwork-inside-hearst-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/artwork-inside-hearst-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/grounds-hearst-castle.jpg",
@@ -327,8 +329,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/grounds-hearst-castle-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/grounds-hearst-castle-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/grounds-hearst-castle-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/grounds-hearst-castle-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/sculpture-hearst-castl.jpg",
@@ -345,8 +347,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/sculpture-hearst-castl-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/sculpture-hearst-castl-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/sculpture-hearst-castl-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/sculpture-hearst-castl-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/interior-view-main-lib.jpg",
@@ -363,8 +365,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/interior-view-main-lib-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/interior-view-main-lib-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/interior-view-main-lib-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/interior-view-main-lib-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/gothic-study-casa-gran.jpg",
@@ -381,8 +383,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/gothic-study-casa-gran-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/gothic-study-casa-gran-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/gothic-study-casa-gran-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/gothic-study-casa-gran-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/image-place-building-l.jpg",
@@ -399,8 +401,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/image-place-building-l-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/image-place-building-l-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/image-place-building-l-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/image-place-building-l-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/mission-san-miguel-one.jpg",
@@ -417,8 +419,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/mission-san-miguel-one-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/mission-san-miguel-one-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/mission-san-miguel-one-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/mission-san-miguel-one-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/bonaparte-ante-la-esfi.jpg",
@@ -434,8 +436,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/bonaparte-ante-la-esfi-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/bonaparte-ante-la-esfi-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/bonaparte-ante-la-esfi-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/bonaparte-ante-la-esfi-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/doge-suite-inspired-or.jpg",
@@ -452,8 +454,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/doge-suite-inspired-or-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/doge-suite-inspired-or-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/doge-suite-inspired-or-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/doge-suite-inspired-or-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/cottage.jpg",
@@ -470,8 +472,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/cottage-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/cottage-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/cottage-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/cottage-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/california-jolon-nara-23934405.jpg",
@@ -492,8 +494,8 @@
             "Artworks without Wikidata item",
             "Hearst Castle"
           ],
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/california-jolon-nara-23934405-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/california-jolon-nara-23934405-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/california-jolon-nara-23934405-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/california-jolon-nara-23934405-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/california-sam-simeon-nara-239.jpg",
@@ -509,8 +511,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/california-sam-simeon-nara-239-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/california-sam-simeon-nara-239-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/california-sam-simeon-nara-239-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/california-sam-simeon-nara-239-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/california-sam-simeon-nara-239-1.jpg",
@@ -526,8 +528,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/california-sam-simeon-nara-239-1-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/california-sam-simeon-nara-239-1-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/california-sam-simeon-nara-239-1-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/california-sam-simeon-nara-239-1-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/arecaceae-in-california-207628.jpg",
@@ -544,8 +546,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/arecaceae-in-california-207628-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/arecaceae-in-california-207628-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/arecaceae-in-california-207628-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/arecaceae-in-california-207628-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/arecaceae-in-california-207628-1.jpg",
@@ -562,8 +564,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/arecaceae-in-california-207628-1-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/arecaceae-in-california-207628-1-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/arecaceae-in-california-207628-1-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/arecaceae-in-california-207628-1-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/cimg0280-207628791.jpg",
@@ -580,8 +582,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/cimg0280-207628791-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/cimg0280-207628791-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/cimg0280-207628791-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/cimg0280-207628791-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/cimg0279-207628693.jpg",
@@ -598,8 +600,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/cimg0279-207628693-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/cimg0279-207628693-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/cimg0279-207628693-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/cimg0279-207628693-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/cimg0281-207628891.jpg",
@@ -616,8 +618,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/cimg0281-207628891-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/cimg0281-207628891-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/cimg0281-207628891-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/cimg0281-207628891-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/cimg0282-207629026.jpg",
@@ -634,8 +636,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/cimg0282-207629026-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/cimg0282-207629026-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/cimg0282-207629026-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/cimg0282-207629026-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/cimg0283-207629138.jpg",
@@ -652,8 +654,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/cimg0283-207629138-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/cimg0283-207629138-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/cimg0283-207629138-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/cimg0283-207629138-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/cimg0278-207628529.jpg",
@@ -670,8 +672,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/cimg0278-207628529-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/cimg0278-207628529-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/cimg0278-207628529-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/cimg0278-207628529-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/dsc-7403-6571199599.jpg",
@@ -688,8 +690,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7403-6571199599-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7403-6571199599-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7403-6571199599-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7403-6571199599-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/dsc-7399-6571183155.jpg",
@@ -706,8 +708,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7399-6571183155-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7399-6571183155-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7399-6571183155-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7399-6571183155-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/dsc-7402-6571193425.jpg",
@@ -724,8 +726,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7402-6571193425-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7402-6571193425-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7402-6571193425-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7402-6571193425-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/dsc-7405-6571203719.jpg",
@@ -742,8 +744,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7405-6571203719-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7405-6571203719-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7405-6571203719-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7405-6571203719-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/dsc-7407-6571206915.jpg",
@@ -760,8 +762,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7407-6571206915-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7407-6571206915-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7407-6571206915-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7407-6571206915-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/dsc-7406-6571205497.jpg",
@@ -778,8 +780,8 @@
           "sourceArticleId": "hearst-castle-wk",
           "sourceGeohash4": "9q3g",
           "accessedAt": "2026-02-21T20:38:31.420Z",
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7406-6571205497-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7406-6571205497-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7406-6571205497-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7406-6571205497-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/dsc-7413-6571214825.jpg",
@@ -802,8 +804,8 @@
             "Flickr images reviewed by FlickreviewR 2",
             "Hearst Castle"
           ],
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7413-6571214825-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7413-6571214825-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7413-6571214825-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7413-6571214825-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/dsc-7414-6571219533.jpg",
@@ -828,8 +830,8 @@
             "Flickr images reviewed by FlickreviewR 2",
             "Hearst Castle"
           ],
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7414-6571219533-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7414-6571219533-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7414-6571219533-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7414-6571219533-medium.webp"
         },
         {
           "path": "_m/9/q/3/g/hearst-castle-wk/dsc-7421-6571225895.jpg",
@@ -852,8 +854,8 @@
             "Flickr images reviewed by FlickreviewR 2",
             "Hearst Castle"
           ],
-          "smallPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7421-6571225895-small.jpg",
-          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7421-6571225895-medium.jpg"
+          "smallPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7421-6571225895-small.webp",
+          "mediumPath": "_m/9/q/3/g/hearst-castle-wk/dsc-7421-6571225895-medium.webp"
         },
         {
           "path": "_m/tpc/he/ar/st/-c/hearst-castle/hearst-castle-casa-grande1.jpg",
@@ -957,7 +959,8 @@
             "Shops in San Luis Obispo County, California"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/q/3/g/hearst-castle-wk/9q3g-hearst-castle-combined.mp3"
     }
   }
 }

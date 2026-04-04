@@ -3,11 +3,11 @@
   "patch": {
     "media": {
       "narration": [
+        "_m/c/2/n/z/hamilton-montana-wk/c2nz-hamilton-flight-context.mp3",
         "_m/c/2/n/z/hamilton-montana-wk/c2nz-hamilton-intro.mp3",
         "_m/c/2/n/z/hamilton-montana-wk/c2nz-hamilton-copper-kings-legacy.mp3",
-        "_m/c/2/n/z/hamilton-montana-wk/c2nz-hamilton-flight-context.mp3",
-        "_m/c/2/n/z/hamilton-montana-wk/c2nz-hamilton-gateway-to-the-wilderness.mp3",
         "_m/c/2/n/z/hamilton-montana-wk/c2nz-hamilton-the-bitterroot-valley.mp3",
+        "_m/c/2/n/z/hamilton-montana-wk/c2nz-hamilton-gateway-to-the-wilderness.mp3",
         "_m/c/2/n/z/hamilton-montana-wk/c2nz-hamilton-valley-life.mp3"
       ],
       "hero": {
@@ -33,7 +33,9 @@
           "National Register of Historic Places missing SDC depicts",
           "National Register of Historic Places missing SDC location of creation",
           "National Register of Historic Places with known IDs"
-        ]
+        ],
+        "mediumPath": "_m/c/2/n/z/hamilton-montana-wk/hero-medium.webp",
+        "smallPath": "_m/c/2/n/z/hamilton-montana-wk/hero-small.webp"
       },
       "images": [
         {
@@ -68,7 +70,7 @@
             "Uploaded via Campaign:wlm-us",
             "Wiki Loves Monuments 2017 in the United States unreviewed"
           ],
-          "smallPath": "_m/c/2/n/z/hamilton-montana-wk/ravalli-county-courtho-small.jpg"
+          "smallPath": "_m/c/2/n/z/hamilton-montana-wk/ravalli-county-courtho-small.webp"
         },
         {
           "path": "_m/c/2/n/z/hamilton-montana-wk/hero.jpg",
@@ -100,7 +102,8 @@
           "mediumPath": "_m/c/2/n/z/hamilton-montana-wk/hero-medium.jpg",
           "smallPath": "_m/c/2/n/z/hamilton-montana-wk/hero-small.jpg"
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/n/z/hamilton-montana-wk/c2nz-hamilton-montana-combined.mp3"
     }
   }
 }

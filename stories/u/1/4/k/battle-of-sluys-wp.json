@@ -111,14 +111,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "cotswolds-wk",
-      "title": "Cotswolds",
-      "tile": "gcnw",
+      "id": "peterborough-cathedral-wp",
+      "title": "Peterborough Cathedral",
+      "tile": "gcrg",
       "coordinates": {
-        "lat": 51.761,
-        "lng": -1.888
+        "lat": 52.5724,
+        "lng": -0.2384
       },
-      "distanceKm": 323.9
+      "distanceKm": 230.7
     },
     "n": {
       "id": "rotterdam-wk",
@@ -141,14 +141,14 @@
       "distanceKm": 45.6
     },
     "w": {
-      "id": "kent-wk",
-      "title": "Kent",
-      "tile": "u10e",
+      "id": "dover-castle-wp",
+      "title": "Dover Castle",
+      "tile": "u10f",
       "coordinates": {
-        "lat": 51.19,
-        "lng": 0.73
+        "lat": 51.128268,
+        "lng": 1.3235035
       },
-      "distanceKm": 146.9
+      "distanceKm": 108.4
     },
     "e": {
       "id": "battle-of-the-scheldt-wp",
@@ -161,14 +161,14 @@
       "distanceKm": 20.8
     },
     "sw": {
-      "id": "paris-wk",
-      "title": "Paris",
-      "tile": "u09t",
+      "id": "le-paradis-massacre-wp",
+      "title": "Le Paradis Massacre",
+      "tile": "u0cz",
       "coordinates": {
-        "lat": 48.856,
-        "lng": 2.351
+        "lat": 50.5948,
+        "lng": 2.6477
       },
-      "distanceKm": 257.5
+      "distanceKm": 63.1
     },
     "s": {
       "id": "1933-imperial-airways-ruysselede-crash-wp",
@@ -193,5 +193,6 @@
   },
   "keywords": [
     "battle-of-sluys"
-  ]
+  ],
+  "locationWikipediaPath": "u/1/4/k/battle-of-sluys-wp"
 }

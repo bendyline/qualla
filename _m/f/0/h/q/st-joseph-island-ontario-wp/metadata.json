@@ -22,8 +22,8 @@
     "sourceType": "core",
     "sourceArticleId": "st-joseph-island-ontario-wp",
     "sourceGeohash4": "f0hq",
-    "mediumPath": "_m/f/0/h/q/st-joseph-island-ontario-wp/hero-medium.jpg",
-    "smallPath": "_m/f/0/h/q/st-joseph-island-ontario-wp/hero-small.jpg"
+    "mediumPath": "_m/f/0/h/q/st-joseph-island-ontario-wp/hero-medium.webp",
+    "smallPath": "_m/f/0/h/q/st-joseph-island-ontario-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "St.Joseph Island.Bridge.panorama.jpg",
@@ -95,7 +95,7 @@
       "sourceType": "core",
       "sourceArticleId": "st-joseph-island-ontario-wp",
       "sourceGeohash4": "f0hq",
-      "smallPath": "_m/f/0/h/q/st-joseph-island-ontario-wp/glacial-lakes-small.jpg"
+      "smallPath": "_m/f/0/h/q/st-joseph-island-ontario-wp/glacial-lakes-small.webp"
     },
     {
       "filename": "Ontario Immigration Poster.jpg",
@@ -127,7 +127,7 @@
       "sourceType": "core",
       "sourceArticleId": "st-joseph-island-ontario-wp",
       "sourceGeohash4": "f0hq",
-      "smallPath": "_m/f/0/h/q/st-joseph-island-ontario-wp/poster-advertising-imm-small.jpg"
+      "smallPath": "_m/f/0/h/q/st-joseph-island-ontario-wp/poster-advertising-imm-small.webp"
     },
     {
       "filename": "St Joseph Island Bridge.jpg",
@@ -155,7 +155,7 @@
       "sourceType": "core",
       "sourceArticleId": "st-joseph-island-ontario-wp",
       "sourceGeohash4": "f0hq",
-      "smallPath": "_m/f/0/h/q/st-joseph-island-ontario-wp/bridge-st-joseph-islan-small.jpg"
+      "smallPath": "_m/f/0/h/q/st-joseph-island-ontario-wp/bridge-st-joseph-islan-small.webp"
     },
     {
       "filename": "Sample of jasper conglomerate or \"St. Joseph Island puddingstone\".JPG",
@@ -175,8 +175,8 @@
       "sourceType": "core",
       "sourceArticleId": "st-joseph-island-ontario-wp",
       "sourceGeohash4": "f0hq",
-      "mediumPath": "_m/f/0/h/q/st-joseph-island-ontario-wp/sample-jasper-conglome-medium.jpg",
-      "smallPath": "_m/f/0/h/q/st-joseph-island-ontario-wp/sample-jasper-conglome-small.jpg"
+      "mediumPath": "_m/f/0/h/q/st-joseph-island-ontario-wp/sample-jasper-conglome-medium.webp",
+      "smallPath": "_m/f/0/h/q/st-joseph-island-ontario-wp/sample-jasper-conglome-small.webp"
     },
     {
       "filename": "Algomarine St. Joseph Island (Ontario).jpg",
@@ -214,7 +214,7 @@
       "sourceType": "core",
       "sourceArticleId": "st-joseph-island-ontario-wp",
       "sourceGeohash4": "f0hq",
-      "smallPath": "_m/f/0/h/q/st-joseph-island-ontario-wp/photo-taken-internatio-small.jpg"
+      "smallPath": "_m/f/0/h/q/st-joseph-island-ontario-wp/photo-taken-internatio-small.webp"
     },
     {
       "filename": "St. Joseph Island detail 1783 Abel Buell map.JPG",
@@ -234,7 +234,7 @@
       "sourceType": "core",
       "sourceArticleId": "st-joseph-island-ontario-wp",
       "sourceGeohash4": "f0hq",
-      "smallPath": "_m/f/0/h/q/st-joseph-island-ontario-wp/photograph-detail-abel-small.jpg"
+      "smallPath": "_m/f/0/h/q/st-joseph-island-ontario-wp/photograph-detail-abel-small.webp"
     },
     {
       "filename": "Sault Ste Marie, Ontario and Michigan.JPG",
@@ -295,7 +295,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "st-joseph-island-ontario-wp",
       "sourceGeohash4": "f0hq",
-      "smallPath": "_m/f/0/h/q/st-joseph-island-ontario-wp/st-joseph-island-ontario-canad-small.jpg"
+      "smallPath": "_m/f/0/h/q/st-joseph-island-ontario-wp/st-joseph-island-ontario-canad-small.webp"
     }
   ],
   "galleryPaths": [
@@ -309,6 +309,24 @@
     "_m/f/0/h/p/neebish-island-wp/sault-ste-marie-ontario-and-mi.jpg",
     "_m/f/0/h/q/st-joseph-island-ontario-wp/st-joseph-island-ontario-canad.jpg"
   ],
-  "fetchedAt": "2026-02-28T11:03:26.564Z",
-  "updatedAt": "2026-02-28T11:03:28.333Z"
+  "updatedAt": "2026-02-28T11:03:28.333Z",
+  "narration": {
+    "files": [
+      "f0hq-st-joseph-island-flight-context.mp3",
+      "f0hq-st-joseph-island-intro.mp3",
+      "f0hq-st-joseph-island-place-of-the-hardwood-trees.mp3",
+      "f0hq-st-joseph-island-a-fort-at-the-edge-of-empire.mp3",
+      "f0hq-st-joseph-island-syrup-settlers-and-a-famous-architect.mp3",
+      "f0hq-st-joseph-island-the-bridge-and-beyond.mp3"
+    ],
+    "durations": {
+      "f0hq-st-joseph-island-flight-context.mp3": 58.357,
+      "f0hq-st-joseph-island-intro.mp3": 46.3462083,
+      "f0hq-st-joseph-island-place-of-the-hardwood-trees.mp3": 58.3409583,
+      "f0hq-st-joseph-island-a-fort-at-the-edge-of-empire.mp3": 71.621625,
+      "f0hq-st-joseph-island-syrup-settlers-and-a-famous-architect.mp3": 72.1254583,
+      "f0hq-st-joseph-island-the-bridge-and-beyond.mp3": 78.91125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

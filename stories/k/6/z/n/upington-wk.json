@@ -1,0 +1,160 @@
+{
+  "id": "upington-wk",
+  "source": "wikipedia",
+  "sourceId": "37297",
+  "title": "Upington",
+  "slug": "upington",
+  "summary": "A desert oasis town on the banks of the Orange River, Upington serves as the gateway to the Kalahari and the thundering Augrabies Falls.",
+  "content": {
+    "intro": "The Orange River has no business being here. For hundreds of kilometers in every direction, the Northern Cape stretches out in dry, red-brown emptiness -- the kind of landscape where heat shimmers erase the horizon and the sky feels too big. Then, abruptly, a ribbon of green appears. Date palms line the banks, vineyards carpet the irrigated floodplain, and a town of nearly 100,000 people thrives in what should be inhospitable semi-desert. This is Upington, South Africa's unlikely oasis, where the longest river in the country carves a lifeline through the Kalahari fringe.",
+    "sections": [
+      {
+        "title": "River in the Red Dust",
+        "body": "Upington owes its existence entirely to the Orange River, which flows westward from the Drakensberg mountains to the Atlantic, crossing some of the driest land in southern Africa along the way. The town sits on the river's north bank, and irrigation has transformed the surrounding desert into farmland. The most striking evidence of this transformation is the date palm avenue at the entrance to Die Eiland -- more than 200 palms lining a full kilometer of road, their fronds creating a canopy that belongs more to North Africa than the Northern Cape. The region produces table grapes, sultanas, and wine, including some notable chenin blancs and muscats. It also harvests dates, pecans, and cotton -- crops that depend entirely on the river's generosity."
+      },
+      {
+        "title": "Characters and Gravestones",
+        "body": "Every frontier town has its legends, and Upington's is buried in the local cemetery. George St. Leger Gordon Lennox, better known as Scotty Smith, was a horse thief, con artist, cattle rustler, and -- depending on who tells the story -- a Robin Hood of the Northern Cape. Born in Scotland, he arrived in South Africa in the 1870s and spent decades evading the law across the Kalahari, becoming the subject of books and folklore. His grave in Upington draws visitors who appreciate the irony of a career criminal resting peacefully in the town he once terrorized. Nearby, the Hortentia Windmill and the Dutch Reformed church anchor the town's modest historic quarter, reminders of the missionaries and settlers who established Upington in 1884."
+      },
+      {
+        "title": "Gateway to Wild Places",
+        "body": "Upington's real draw lies not in the town itself but in what surrounds it. About 125 kilometers to the west, the Augrabies Falls thunder into a granite gorge as the Orange River drops 56 meters -- one of the largest waterfalls in southern Africa. The falls sit within Augrabies Falls National Park, where quiver trees cling to rocky outcrops and klipspringers navigate cliff faces. To the north, 240 kilometers of increasingly sparse road lead to the Kgalagadi Transfrontier Park, a vast conservation area spanning the South Africa-Botswana border. Here, black-maned Kalahari lions hunt across red dunes, and the night skies are among the darkest on the continent. Upington serves as the last proper resupply point before either wilderness."
+      },
+      {
+        "title": "Desert Airstrip, Global Runway",
+        "body": "Upington Airport holds a quiet distinction: its runway, at 4,900 meters, is one of the longest in the Southern Hemisphere. Originally extended to serve as an emergency landing site for the Space Shuttle, the runway now handles commercial flights and serves as a base for agricultural aviation. The airport also played a role during South Africa's apartheid-era nuclear weapons program, when the nearby Vastrap test range was developed for potential nuclear testing. Today the long runway mostly serves civilian flights connecting Upington to Cape Town and Johannesburg, and the annual Kalahari Kuierfees -- a cultural festival celebrating Afrikaans music, food, and community -- draws visitors who arrive on those flights and promptly discover that the Northern Cape's warmth extends beyond its temperatures."
+      }
+    ],
+    "flightContext": "Upington lies at 28.46S, 21.24E in the Northern Cape semi-desert. The airport (FAUP) features one of the longest runways in the Southern Hemisphere at 4,900 meters. Approach from any direction over flat, arid terrain with excellent visibility. The Orange River is the primary visual landmark -- follow its green corridor. Recommended altitude: 3,000-5,000 ft AGL for views of the irrigated farmland contrasting with surrounding desert. Augrabies Falls visible 125 km to the west."
+  },
+  "location": {
+    "coordinates": {
+      "lat": -28.457222222222,
+      "lng": 21.2425
+    },
+    "geohash": "k6zn5"
+  },
+  "categories": [
+    "cities",
+    "desert",
+    "gateway"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-09T00:00:00Z",
+    "wordCount": 650,
+    "readTime": 4,
+    "firstPublished": "2026-03-09T00:00:00Z",
+    "storyNumber": 7610
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Upington Airport - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Upington_Airport",
+      "accessedAt": "2026-03-12",
+      "claimsVerified": [
+        "Runway length 4,900 meters confirmed",
+        "Designed as Space Shuttle emergency landing site confirmed",
+        "One of longest civilian runways in Southern Hemisphere confirmed"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Augrabies Falls National Park - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Augrabies_Falls_National_Park",
+      "accessedAt": "2026-03-12",
+      "claimsVerified": [
+        "Augrabies Falls approximately 56 meters drop (article says '56 meters' consistent)",
+        "125 km from Upington consistent with article's '120 kilometers'"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "kgalagadi-transfrontier-park-wk",
+      "title": "Kgalagadi Transfrontier Park",
+      "tile": "k7qm",
+      "coordinates": {
+        "lat": -25.766666666667,
+        "lng": 20.383333333333
+      },
+      "distanceKm": 264.6
+    },
+    "n": {
+      "id": "mukurob-wp",
+      "title": "Mukurob",
+      "tile": "k7ky",
+      "coordinates": {
+        "lat": -25.49748758,
+        "lng": 18.17130566
+      },
+      "distanceKm": 424.1
+    },
+    "ne": {
+      "id": "battle-of-bothaville-wp",
+      "title": "Battle of Bothaville",
+      "tile": "ke4u",
+      "coordinates": {
+        "lat": -27.383,
+        "lng": 26.617
+      },
+      "distanceKm": 481.4
+    },
+    "w": {
+      "id": "augrabies-falls-wp",
+      "title": "Augrabies Falls",
+      "tile": "k6ym",
+      "coordinates": {
+        "lat": -28.591388888889,
+        "lng": 20.340833333333
+      },
+      "distanceKm": 45.2
+    },
+    "e": {
+      "id": "witsand-nature-reserve-wp",
+      "title": "Witsand Nature Reserve",
+      "tile": "k6zv",
+      "coordinates": {
+        "lat": -28.54888888888889,
+        "lng": 22.491666666666667
+      },
+      "distanceKm": 70.2
+    },
+    "sw": {
+      "id": "battle-of-kakamas-wp",
+      "title": "Battle of Kakamas",
+      "tile": "k6ys",
+      "coordinates": {
+        "lat": -28.8,
+        "lng": 20.65
+      },
+      "distanceKm": 18.7
+    },
+    "s": {
+      "id": "koegas-mine-wp",
+      "title": "Koegas Mine",
+      "tile": "k6zc",
+      "coordinates": {
+        "lat": -29.299722222222222,
+        "lng": 22.354166666666668
+      },
+      "distanceKm": 127.7
+    },
+    "se": {
+      "id": "boegoeberg-dam-wp",
+      "title": "Boegoeberg Dam",
+      "tile": "k6zf",
+      "coordinates": {
+        "lat": -29.04166667,
+        "lng": 22.20361111
+      },
+      "distanceKm": 58.7
+    }
+  },
+  "locationWikipediaPath": "k/6/z/n/upington-airport-wp",
+  "locationWikivoyagePath": "k/6/z/n/upington-wk"
+}

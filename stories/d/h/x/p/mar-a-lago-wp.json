@@ -117,14 +117,14 @@
       "distanceKm": 11.7
     },
     "ne": {
-      "id": "flight-19-wp",
-      "title": "Flight 19",
-      "tile": "djpu",
+      "id": "uss-comfort-ah-3-wp",
+      "title": "USS Comfort (AH-3)",
+      "tile": "dkb5",
       "coordinates": {
-        "lat": 29,
-        "lng": -79
+        "lat": 27.366666666666667,
+        "lng": -78.68333333333334
       },
-      "distanceKm": 238.3
+      "distanceKm": 92.5
     },
     "w": {
       "id": "valujet-flight-592-wp",
@@ -137,14 +137,14 @@
       "distanceKm": 79.8
     },
     "e": {
-      "id": "joshua-slocum-wp",
-      "title": "Joshua Slocum",
-      "tile": "djzs",
+      "id": "grand-bahama-aux-af-airport-wp",
+      "title": "Grand Bahama Aux AF Airport",
+      "tile": "dk8r",
       "coordinates": {
-        "lat": 33.06333333333333,
-        "lng": -79.34527777777777
+        "lat": 26.633333,
+        "lng": -78.366667
       },
-      "distanceKm": 715.3
+      "distanceKm": 108
     },
     "sw": {
       "id": "draining-and-development-of-the-everglades-wp",
@@ -167,14 +167,15 @@
       "distanceKm": 43.9
     },
     "se": {
-      "id": "bermuda-triangle-mystery-wk",
-      "title": "Bermuda Triangle: The Mystery That Wasn't There",
-      "tile": "dkmw",
+      "id": "great-stirrup-cay-wp",
+      "title": "Great Stirrup Cay",
+      "tile": "dk8d",
       "coordinates": {
-        "lat": 25,
-        "lng": -71
+        "lat": 25.833333333333,
+        "lng": -77.9
       },
-      "distanceKm": 860.4
+      "distanceKm": 166.1
     }
-  }
+  },
+  "locationWikipediaPath": "d/h/x/p/mar-a-lago-wp"
 }

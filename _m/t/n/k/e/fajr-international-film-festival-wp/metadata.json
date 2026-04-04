@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "fajr-international-film-festival-wp",
     "sourceGeohash4": "tnke",
-    "mediumPath": "_m/t/n/k/e/fajr-international-film-festival-wp/hero-medium.jpg",
-    "smallPath": "_m/t/n/k/e/fajr-international-film-festival-wp/hero-small.jpg"
+    "mediumPath": "_m/t/n/k/e/fajr-international-film-festival-wp/hero-medium.webp",
+    "smallPath": "_m/t/n/k/e/fajr-international-film-festival-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Bize, Matias 01.jpg",
@@ -76,8 +76,8 @@
       "sourceType": "core",
       "sourceArticleId": "fajr-international-film-festival-wp",
       "sourceGeohash4": "tnke",
-      "mediumPath": "_m/t/n/k/e/fajr-international-film-festival-wp/ariel-escalante-meza-w-medium.jpg",
-      "smallPath": "_m/t/n/k/e/fajr-international-film-festival-wp/ariel-escalante-meza-w-small.jpg"
+      "mediumPath": "_m/t/n/k/e/fajr-international-film-festival-wp/ariel-escalante-meza-w-medium.webp",
+      "smallPath": "_m/t/n/k/e/fajr-international-film-festival-wp/ariel-escalante-meza-w-small.webp"
     },
     {
       "filename": "Darin J. Sallam on FilmJordan.jpg",
@@ -103,7 +103,7 @@
       "sourceType": "core",
       "sourceArticleId": "fajr-international-film-festival-wp",
       "sourceGeohash4": "tnke",
-      "smallPath": "_m/t/n/k/e/fajr-international-film-festival-wp/jordanian-filmmaker-da-small.jpg"
+      "smallPath": "_m/t/n/k/e/fajr-international-film-festival-wp/jordanian-filmmaker-da-small.webp"
     },
     {
       "filename": "STUDIO WITH BEHROUZ SEBT RASOUL.jpg",
@@ -128,8 +128,8 @@
       "sourceType": "core",
       "sourceArticleId": "fajr-international-film-festival-wp",
       "sourceGeohash4": "tnke",
-      "mediumPath": "_m/t/n/k/e/fajr-international-film-festival-wp/director-studio-medium.jpg",
-      "smallPath": "_m/t/n/k/e/fajr-international-film-festival-wp/director-studio-small.jpg"
+      "mediumPath": "_m/t/n/k/e/fajr-international-film-festival-wp/director-studio-medium.webp",
+      "smallPath": "_m/t/n/k/e/fajr-international-film-festival-wp/director-studio-small.webp"
     },
     {
       "filename": "Fajr international film festival.jpg",
@@ -147,7 +147,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "fajr-international-film-festival-wp",
       "sourceGeohash4": "tnke",
-      "smallPath": "_m/t/n/k/e/fajr-international-film-festival-wp/fajr-international-film-festiv-small.jpg"
+      "smallPath": "_m/t/n/k/e/fajr-international-film-festival-wp/fajr-international-film-festiv-small.webp"
     },
     {
       "filename": "Maniya azizi in 43th fajr festival.jpg",
@@ -165,7 +165,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "fajr-international-film-festival-wp",
       "sourceGeohash4": "tnke",
-      "smallPath": "_m/t/n/k/e/fajr-international-film-festival-wp/maniya-azizi-in-43th-fajr-fest-small.jpg"
+      "smallPath": "_m/t/n/k/e/fajr-international-film-festival-wp/maniya-azizi-in-43th-fajr-fest-small.webp"
     }
   ],
   "galleryPaths": [
@@ -175,6 +175,24 @@
     "_m/t/n/k/e/fajr-international-film-festival-wp/fajr-international-film-festiv.jpg",
     "_m/t/n/k/e/fajr-international-film-festival-wp/maniya-azizi-in-43th-fajr-fest.jpg"
   ],
-  "fetchedAt": "2026-03-01T15:26:30.009Z",
-  "updatedAt": "2026-03-01T15:26:38.693Z"
+  "updatedAt": "2026-03-01T15:26:38.693Z",
+  "narration": {
+    "files": [
+      "tnke-fajr-international-film-festival-flight-context.mp3",
+      "tnke-fajr-international-film-festival-intro.mp3",
+      "tnke-fajr-international-film-festival-the-simurghs-shadow.mp3",
+      "tnke-fajr-international-film-festival-cinema-under-conditions.mp3",
+      "tnke-fajr-international-film-festival-boycotts-and-borders.mp3",
+      "tnke-fajr-international-film-festival-two-festivals-then-one.mp3"
+    ],
+    "durations": {
+      "tnke-fajr-international-film-festival-flight-context.mp3": 42.6323333,
+      "tnke-fajr-international-film-festival-intro.mp3": 46.505,
+      "tnke-fajr-international-film-festival-the-simurghs-shadow.mp3": 53.696875,
+      "tnke-fajr-international-film-festival-cinema-under-conditions.mp3": 49.562,
+      "tnke-fajr-international-film-festival-boycotts-and-borders.mp3": 54.721625,
+      "tnke-fajr-international-film-festival-two-festivals-then-one.mp3": 55.5365
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

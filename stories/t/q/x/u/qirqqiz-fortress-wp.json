@@ -54,14 +54,34 @@
       "title": "Qirqqiz Fortress - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Qirqqiz_Fortress",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Samanid 9th century construction confirmed", "53x55 meter rectangular structure with 54 rooms confirmed", "central courtyard 11.5 meters square confirmed", "mud-brick walls 2-2.5 meters deep confirmed", "1926 Museum of Oriental Culture expedition confirmed", "V. Zgura palace or fortress description confirmed", "Zgura comparison to Harun al-Rashid Khigarka fortress near Froth River confirmed", "1927 Zasipkin excavation confirmed", "Zasipkin khanqah identification confirmed", "Masson 1936 expedition dating to 6th-7th century confirmed", "Pugachenkova remote palace theory confirmed", "1940 Veymarn caravanserai theory confirmed", "coins dating 12th-15th centuries found in fire debris confirmed", "fortress rebuilt multiple times 9th-15th centuries confirmed"]
+      "claimsVerified": [
+        "Samanid 9th century construction confirmed",
+        "53x55 meter rectangular structure with 54 rooms confirmed",
+        "central courtyard 11.5 meters square confirmed",
+        "mud-brick walls 2-2.5 meters deep confirmed",
+        "1926 Museum of Oriental Culture expedition confirmed",
+        "V. Zgura palace or fortress description confirmed",
+        "Zgura comparison to Harun al-Rashid Khigarka fortress near Froth River confirmed",
+        "1927 Zasipkin excavation confirmed",
+        "Zasipkin khanqah identification confirmed",
+        "Masson 1936 expedition dating to 6th-7th century confirmed",
+        "Pugachenkova remote palace theory confirmed",
+        "1940 Veymarn caravanserai theory confirmed",
+        "coins dating 12th-15th centuries found in fire debris confirmed",
+        "fortress rebuilt multiple times 9th-15th centuries confirmed"
+      ]
     },
     {
       "type": "verification",
       "title": "Kirk Kiz Fortress - Uzbek Travel",
       "url": "https://uzbek-travel.com/about-uzbekistan/monuments/kirk-kiz-fortress/",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["forty girls meaning confirmed", "educational function classrooms bathhouse toilets confirmed", "Samanid dynasty connection confirmed", "folk epic about forty talented girls confirmed"]
+      "claimsVerified": [
+        "forty girls meaning confirmed",
+        "educational function classrooms bathhouse toilets confirmed",
+        "Samanid dynasty connection confirmed",
+        "folk epic about forty talented girls confirmed"
+      ]
     }
   ],
   "editorial": {
@@ -90,14 +110,14 @@
       "distanceKm": 22.5
     },
     "ne": {
-      "id": "baotou-wk",
-      "title": "Baotou",
-      "tile": "wrnp",
+      "id": "yaghnob-valley-wp",
+      "title": "Yaghnob Valley",
+      "tile": "twcp",
       "coordinates": {
-        "lat": 40.656,
-        "lng": 109.834
+        "lat": 39.2,
+        "lng": 69
       },
-      "distanceKm": 3602.2
+      "distanceKm": 202.5
     },
     "w": {
       "id": "battle-of-andkhud-wp",
@@ -110,14 +130,14 @@
       "distanceKm": 154.7
     },
     "e": {
-      "id": "jaipur-wk",
-      "title": "Jaipur",
-      "tile": "tsvc",
+      "id": "1982-salang-tunnel-fire-wp",
+      "title": "1982 Salang Tunnel Fire",
+      "tile": "tw30",
       "coordinates": {
-        "lat": 26.9124,
-        "lng": 75.7873
+        "lat": 35.32219722,
+        "lng": 69.02686667
       },
-      "distanceKm": 1379.4
+      "distanceKm": 249.2
     },
     "sw": {
       "id": "dasht-i-leili-massacre-wp",
@@ -140,14 +160,15 @@
       "distanceKm": 46.4
     },
     "se": {
-      "id": "jodhpur-wk",
-      "title": "Jodhpur",
-      "tile": "tsev",
+      "id": "battle-of-kunduz-2015-wp",
+      "title": "Battle of Kunduz (2015)",
+      "tile": "tw8b",
       "coordinates": {
-        "lat": 26.2389,
-        "lng": 73.0243
+        "lat": 36.733333333333,
+        "lng": 68.866666666667
       },
-      "distanceKm": 1301.5
+      "distanceKm": 98.6
     }
-  }
+  },
+  "locationWikipediaPath": "t/q/x/u/qirqqiz-fortress-wp"
 }

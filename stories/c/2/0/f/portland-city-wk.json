@@ -76,14 +76,14 @@
   "locationWikivoyagePath": "c/2/0/f/portland-oregon-southwest-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "northern-oregon-coast-wk",
-      "title": "Northern Oregon Coast",
-      "tile": "c205",
+      "id": "oswald-west-state-park-wp",
+      "title": "Oswald West State Park",
+      "tile": "c0pu",
       "coordinates": {
-        "lat": 45.89,
+        "lat": 45.7698,
         "lng": -123.96
       },
-      "distanceKm": 73.8
+      "distanceKm": 71.3
     },
     "n": {
       "id": "mount-st-helens-eruption-wk",
@@ -126,14 +126,14 @@
       "distanceKm": 23.8
     },
     "sw": {
-      "id": "eugene-wk",
-      "title": "Eugene: Tracktown USA and the Hippie Mecca",
-      "tile": "9rb6",
+      "id": "nestucca-bay-national-wildlife-refuge-wp",
+      "title": "Nestucca Bay National Wildlife Refuge",
+      "tile": "c0pb",
       "coordinates": {
-        "lat": 44.051944,
-        "lng": -123.086667
+        "lat": 45.1725,
+        "lng": -123.947
       },
-      "distanceKm": 125
+      "distanceKm": 70.6
     },
     "s": {
       "id": "belknap-crater-wp",

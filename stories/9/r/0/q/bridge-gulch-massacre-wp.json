@@ -100,14 +100,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "northern-oregon-coast-wk",
-      "title": "Northern Oregon Coast",
-      "tile": "c205",
+      "id": "pixieland-oregon-wp",
+      "title": "Pixieland",
+      "tile": "c0pb",
       "coordinates": {
-        "lat": 45.89,
-        "lng": -123.96
+        "lat": 45.0205,
+        "lng": -123.965
       },
-      "distanceKm": 568.3
+      "distanceKm": 471.7
     },
     "n": {
       "id": "trinity-alps-wilderness-wp",
@@ -130,14 +130,14 @@
       "distanceKm": 81.9
     },
     "w": {
-      "id": "astoria-end-of-trail-wk",
-      "title": "Astoria: Where Lewis and Clark Finally Saw the Pacific",
-      "tile": "c0py",
+      "id": "neskowin-ghost-forest-wp",
+      "title": "Neskowin Ghost Forest",
+      "tile": "c0pb",
       "coordinates": {
-        "lat": 46.1879,
-        "lng": -123.8313
+        "lat": 45.09773,
+        "lng": -123.98917
       },
-      "distanceKm": 630.5
+      "distanceKm": 509.7
     },
     "e": {
       "id": "tower-house-historic-district-wp",
@@ -150,14 +150,14 @@
       "distanceKm": 17
     },
     "sw": {
-      "id": "mauna-kea-wk",
-      "title": "Mauna Kea: The Mountain Taller Than Everest",
-      "tile": "8e92",
+      "id": "red-sand-beach-wp",
+      "title": "Red Sand Beach",
+      "tile": "8e9n",
       "coordinates": {
-        "lat": 19.8207,
-        "lng": -155.468
+        "lat": 20.7522,
+        "lng": -155.982
       },
-      "distanceKm": 3771.4
+      "distanceKm": 3739.3
     },
     "s": {
       "id": "yolla-bolly-middle-eel-wilderness-wp",
@@ -182,5 +182,6 @@
   },
   "keywords": [
     "bridge-gulch-massacre"
-  ]
+  ],
+  "locationWikipediaPath": "9/r/0/q/bridge-gulch-massacre-wp"
 }

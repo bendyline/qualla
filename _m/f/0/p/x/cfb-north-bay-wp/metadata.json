@@ -27,7 +27,7 @@
     "sourceType": "core",
     "sourceArticleId": "cfb-north-bay-wp",
     "sourceGeohash4": "f0px",
-    "smallPath": "_m/f/0/p/x/cfb-north-bay-wp/hero-small.jpg"
+    "smallPath": "_m/f/0/p/x/cfb-north-bay-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "North Bay Airport and CFB North Bay map.png",
@@ -87,7 +87,7 @@
       "sourceType": "core",
       "sourceArticleId": "cfb-north-bay-wp",
       "sourceGeohash4": "f0px",
-      "smallPath": "_m/f/0/p/x/cfb-north-bay-wp/squadron-shoulder-patc-small.jpg"
+      "smallPath": "_m/f/0/p/x/cfb-north-bay-wp/squadron-shoulder-patc-small.webp"
     },
     {
       "filename": "CFB Entrance.JPG",
@@ -109,7 +109,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "cfb-north-bay-wp",
       "sourceGeohash4": "f0px",
-      "smallPath": "_m/f/0/p/x/cfb-north-bay-wp/cfb-entrance-small.jpg"
+      "smallPath": "_m/f/0/p/x/cfb-north-bay-wp/cfb-entrance-small.webp"
     },
     {
       "filename": "CF 101 Voodoo.JPG",
@@ -133,7 +133,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "cfb-north-bay-wp",
       "sourceGeohash4": "f0px",
-      "smallPath": "_m/f/0/p/x/cfb-north-bay-wp/cf-101-voodoo-small.jpg"
+      "smallPath": "_m/f/0/p/x/cfb-north-bay-wp/cf-101-voodoo-small.webp"
     }
   ],
   "galleryPaths": [
@@ -141,6 +141,26 @@
     "_m/f/0/p/x/cfb-north-bay-wp/cfb-entrance.jpg",
     "_m/f/0/p/x/cfb-north-bay-wp/cf-101-voodoo.jpg"
   ],
-  "fetchedAt": "2026-02-28T11:24:44.186Z",
-  "updatedAt": "2026-02-28T11:24:45.877Z"
+  "updatedAt": "2026-02-28T11:24:45.877Z",
+  "narration": {
+    "files": [
+      "f0px-cfb-north-bay-flight-context.mp3",
+      "f0px-cfb-north-bay-intro.mp3",
+      "f0px-cfb-north-bay-a-flying-boat-over-main-street.mp3",
+      "f0px-cfb-north-bay-ferrying-bombers-across-the-atlantic.mp3",
+      "f0px-cfb-north-bay-into-the-mountain.mp3",
+      "f0px-cfb-north-bay-the-squadron-that-stole-radars.mp3",
+      "f0px-cfb-north-bay-eyes-on-the-sky-and-beyond.mp3"
+    ],
+    "durations": {
+      "f0px-cfb-north-bay-flight-context.mp3": 54.2942916,
+      "f0px-cfb-north-bay-intro.mp3": 57.9373333,
+      "f0px-cfb-north-bay-a-flying-boat-over-main-street.mp3": 87.4565416,
+      "f0px-cfb-north-bay-ferrying-bombers-across-the-atlantic.mp3": 91.6849166,
+      "f0px-cfb-north-bay-into-the-mountain.mp3": 91.8652083,
+      "f0px-cfb-north-bay-the-squadron-that-stole-radars.mp3": 89.6042083,
+      "f0px-cfb-north-bay-eyes-on-the-sky-and-beyond.mp3": 84.147625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

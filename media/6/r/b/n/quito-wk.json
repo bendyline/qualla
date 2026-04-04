@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/6/r/b/n/quito-wk/66ru-quito-intro.mp3",
-        "_m/6/r/b/n/quito-wk/66ru-quito-flight-context.mp3",
-        "_m/6/r/b/n/quito-wk/66ru-quito-the-colonial-center.mp3",
-        "_m/6/r/b/n/quito-wk/66ru-quito-the-elevation.mp3",
-        "_m/6/r/b/n/quito-wk/66ru-quito-the-mariscal.mp3",
-        "_m/6/r/b/n/quito-wk/66ru-quito-the-middle-of-the-world.mp3",
-        "_m/6/r/b/n/quito-wk/66ru-quito-the-volcanoes.mp3"
+        "_m/6/r/b/n/quito-wk/6rbn-quito-flight-context.mp3",
+        "_m/6/r/b/n/quito-wk/6rbn-quito-intro.mp3",
+        "_m/6/r/b/n/quito-wk/6rbn-quito-the-colonial-center.mp3",
+        "_m/6/r/b/n/quito-wk/6rbn-quito-the-volcanoes.mp3",
+        "_m/6/r/b/n/quito-wk/6rbn-quito-the-middle-of-the-world.mp3",
+        "_m/6/r/b/n/quito-wk/6rbn-quito-the-mariscal.mp3",
+        "_m/6/r/b/n/quito-wk/6rbn-quito-the-elevation.mp3"
       ],
       "hero": {
         "path": "_m/6/r/b/n/quito-wp/basilica-del-voto-nacional-qui.jpg",
@@ -30,7 +30,9 @@
           "Basílica del Voto Nacional",
           "CC-BY-SA-3.0",
           "Taken with Canon EOS 30D"
-        ]
+        ],
+        "mediumPath": "_m/6/r/b/n/quito-wk/hero-medium.webp",
+        "smallPath": "_m/6/r/b/n/quito-wk/hero-small.webp"
       },
       "images": [
         {
@@ -55,8 +57,8 @@
             "Iglesia de la Compañía (Quito)",
             "Taken with Canon EOS 30D"
           ],
-          "smallPath": "_m/6/r/b/n/quito-wk/church-society-jesus-l-small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/church-society-jesus-l-medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/church-society-jesus-l-small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/church-society-jesus-l-medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/edificio-de-los-espejo.jpg",
@@ -79,8 +81,8 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FP1"
           ],
-          "smallPath": "_m/6/r/b/n/quito-wk/edificio-de-los-espejo-small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/edificio-de-los-espejo-medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/edificio-de-los-espejo-small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/edificio-de-los-espejo-medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/taxi-ecuatoriano-quito.jpg",
@@ -108,8 +110,8 @@
             "Streets in the Historic Center of Quito",
             "Taken with Pentax Optio W20"
           ],
-          "smallPath": "_m/6/r/b/n/quito-wk/taxi-ecuatoriano-quito-small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/taxi-ecuatoriano-quito-medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/taxi-ecuatoriano-quito-small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/taxi-ecuatoriano-quito-medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/mitad-del-mundo-monume.jpg",
@@ -126,7 +128,7 @@
           "sourceArticleId": "quito-wk",
           "sourceGeohash4": "6rbn",
           "accessedAt": "2026-02-21T20:12:51.324Z",
-          "smallPath": "_m/6/r/b/n/quito-wk/mitad-del-mundo-monume-small.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/mitad-del-mundo-monume-small.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/plaza-grande-plaza-gra.jpg",
@@ -143,7 +145,7 @@
           "sourceArticleId": "quito-wk",
           "sourceGeohash4": "6rbn",
           "accessedAt": "2026-02-21T20:12:51.324Z",
-          "smallPath": "_m/6/r/b/n/quito-wk/plaza-grande-plaza-gra-small.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/plaza-grande-plaza-gra-small.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/double-decker-tourist.jpg",
@@ -160,8 +162,8 @@
           "sourceArticleId": "quito-wk",
           "sourceGeohash4": "6rbn",
           "accessedAt": "2026-02-21T20:12:51.324Z",
-          "smallPath": "_m/6/r/b/n/quito-wk/double-decker-tourist-small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/double-decker-tourist-medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/double-decker-tourist-small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/double-decker-tourist-medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/vista-de-la-entrada.jpg",
@@ -178,7 +180,7 @@
           "sourceArticleId": "quito-wk",
           "sourceGeohash4": "6rbn",
           "accessedAt": "2026-02-21T20:12:51.324Z",
-          "smallPath": "_m/6/r/b/n/quito-wk/vista-de-la-entrada-small.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/vista-de-la-entrada-small.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/cemetery-san-diego-his.jpg",
@@ -195,8 +197,8 @@
           "sourceArticleId": "quito-wk",
           "sourceGeohash4": "6rbn",
           "accessedAt": "2026-02-21T20:12:51.324Z",
-          "smallPath": "_m/6/r/b/n/quito-wk/cemetery-san-diego-his-small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/cemetery-san-diego-his-medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/cemetery-san-diego-his-small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/cemetery-san-diego-his-medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/palacio-gangotena-san.jpg",
@@ -213,8 +215,8 @@
           "sourceArticleId": "quito-wk",
           "sourceGeohash4": "6rbn",
           "accessedAt": "2026-02-21T20:12:51.324Z",
-          "smallPath": "_m/6/r/b/n/quito-wk/palacio-gangotena-san-small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/palacio-gangotena-san-medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/palacio-gangotena-san-small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/palacio-gangotena-san-medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/mitad-del-mundo-monume-1.jpg",
@@ -231,8 +233,8 @@
           "sourceArticleId": "quito-wk",
           "sourceGeohash4": "6rbn",
           "accessedAt": "2026-02-21T20:12:51.324Z",
-          "smallPath": "_m/6/r/b/n/quito-wk/mitad-del-mundo-monume-1-small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/mitad-del-mundo-monume-1-medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/mitad-del-mundo-monume-1-small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/mitad-del-mundo-monume-1-medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/chaulafan.jpg",
@@ -249,8 +251,8 @@
           "sourceArticleId": "quito-wk",
           "sourceGeohash4": "6rbn",
           "accessedAt": "2026-02-21T20:12:51.324Z",
-          "smallPath": "_m/6/r/b/n/quito-wk/chaulafan-small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/chaulafan-medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/chaulafan-small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/chaulafan-medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/2022-05-08-stigmata-franziskus.jpg",
@@ -274,8 +276,8 @@
             "Self-published work",
             "Stigmata"
           ],
-          "smallPath": "_m/6/r/b/n/quito-wk/2022-05-08-stigmata-franziskus-small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/2022-05-08-stigmata-franziskus-medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/2022-05-08-stigmata-franziskus-small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/2022-05-08-stigmata-franziskus-medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/arenas-4.jpg",
@@ -297,8 +299,8 @@
             "Quito",
             "Self-published work"
           ],
-          "smallPath": "_m/6/r/b/n/quito-wk/arenas-4-small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/arenas-4-medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/arenas-4-small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/arenas-4-medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/estacion-metro-san-francisco-m.jpg",
@@ -321,7 +323,7 @@
             "San Francisco station",
             "Self-published work"
           ],
-          "smallPath": "_m/6/r/b/n/quito-wk/estacion-metro-san-francisco-m-small.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/estacion-metro-san-francisco-m-small.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/bricks-quito-ecuador-1490.jpg",
@@ -344,8 +346,8 @@
             "Quito",
             "Self-published work"
           ],
-          "smallPath": "_m/6/r/b/n/quito-wk/bricks-quito-ecuador-1490-small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/bricks-quito-ecuador-1490-medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/bricks-quito-ecuador-1490-small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/bricks-quito-ecuador-1490-medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/antonio-jose-de-sucre-anonimo-.jpg",
@@ -370,7 +372,7 @@
             "Quito in the 19th century",
             "Self-published work"
           ],
-          "smallPath": "_m/6/r/b/n/quito-wk/antonio-jose-de-sucre-anonimo--small.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/antonio-jose-de-sucre-anonimo--small.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/antonio-jose-de-sucre-museo-ca.jpg",
@@ -397,7 +399,7 @@
             "Quito in the 19th century",
             "Self-published work"
           ],
-          "smallPath": "_m/6/r/b/n/quito-wk/antonio-jose-de-sucre-museo-ca-small.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/antonio-jose-de-sucre-museo-ca-small.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/bolsa-inca-y-faja-del-periodo-.jpg",
@@ -429,8 +431,8 @@
             "Quito",
             "Self-published work"
           ],
-          "smallPath": "_m/6/r/b/n/quito-wk/bolsa-inca-y-faja-del-periodo--small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/bolsa-inca-y-faja-del-periodo--medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/bolsa-inca-y-faja-del-periodo--small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/bolsa-inca-y-faja-del-periodo--medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/ruben-dario-principe-del-verso.jpg",
@@ -450,8 +452,8 @@
           "categories": [
             "Art in Ecuador"
           ],
-          "smallPath": "_m/6/r/b/n/quito-wk/ruben-dario-principe-del-verso-small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/ruben-dario-principe-del-verso-medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/ruben-dario-principe-del-verso-small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/ruben-dario-principe-del-verso-medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/busto-detalle-de-milan-rastisl.jpg",
@@ -468,7 +470,7 @@
           "sourceArticleId": "quito-wk",
           "sourceGeohash4": "6rbn",
           "accessedAt": "2026-02-21T20:12:51.324Z",
-          "smallPath": "_m/6/r/b/n/quito-wk/busto-detalle-de-milan-rastisl-small.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/busto-detalle-de-milan-rastisl-small.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/avbequerel.jpg",
@@ -485,8 +487,8 @@
           "sourceArticleId": "quito-wk",
           "sourceGeohash4": "6rbn",
           "accessedAt": "2026-02-21T20:12:51.324Z",
-          "smallPath": "_m/6/r/b/n/quito-wk/avbequerel-small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/avbequerel-medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/avbequerel-small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/avbequerel-medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/busto-de-abdon-calderon-en-el-.jpg",
@@ -503,8 +505,8 @@
           "sourceArticleId": "quito-wk",
           "sourceGeohash4": "6rbn",
           "accessedAt": "2026-02-21T20:12:51.324Z",
-          "smallPath": "_m/6/r/b/n/quito-wk/busto-de-abdon-calderon-en-el--small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/busto-de-abdon-calderon-en-el--medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/busto-de-abdon-calderon-en-el--small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/busto-de-abdon-calderon-en-el--medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/busto-de-andres-de-santa-cruz-.jpg",
@@ -521,8 +523,8 @@
           "sourceArticleId": "quito-wk",
           "sourceGeohash4": "6rbn",
           "accessedAt": "2026-02-21T20:12:51.324Z",
-          "smallPath": "_m/6/r/b/n/quito-wk/busto-de-andres-de-santa-cruz--small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/busto-de-andres-de-santa-cruz--medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/busto-de-andres-de-santa-cruz--small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/busto-de-andres-de-santa-cruz--medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/busto-de-andres-de-santa-cruz--1.jpg",
@@ -539,8 +541,8 @@
           "sourceArticleId": "quito-wk",
           "sourceGeohash4": "6rbn",
           "accessedAt": "2026-02-21T20:12:51.324Z",
-          "smallPath": "_m/6/r/b/n/quito-wk/busto-de-andres-de-santa-cruz--1-small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/busto-de-andres-de-santa-cruz--1-medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/busto-de-andres-de-santa-cruz--1-small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/busto-de-andres-de-santa-cruz--1-medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/gonzalez-suarez-square-in-quit.jpg",
@@ -557,8 +559,8 @@
           "sourceArticleId": "quito-wk",
           "sourceGeohash4": "6rbn",
           "accessedAt": "2026-02-21T20:12:51.324Z",
-          "smallPath": "_m/6/r/b/n/quito-wk/gonzalez-suarez-square-in-quit-small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/gonzalez-suarez-square-in-quit-medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/gonzalez-suarez-square-in-quit-small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/gonzalez-suarez-square-in-quit-medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/antiguo-circulo-militar-quito-.jpg",
@@ -575,8 +577,8 @@
           "sourceArticleId": "quito-wk",
           "sourceGeohash4": "6rbn",
           "accessedAt": "2026-02-21T20:12:51.324Z",
-          "smallPath": "_m/6/r/b/n/quito-wk/antiguo-circulo-militar-quito--small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/antiguo-circulo-militar-quito--medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/antiguo-circulo-militar-quito--small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/antiguo-circulo-militar-quito--medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/antiguo-circulo-militar-quito--1.jpg",
@@ -593,8 +595,8 @@
           "sourceArticleId": "quito-wk",
           "sourceGeohash4": "6rbn",
           "accessedAt": "2026-02-21T20:12:51.324Z",
-          "smallPath": "_m/6/r/b/n/quito-wk/antiguo-circulo-militar-quito--1-small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/antiguo-circulo-militar-quito--1-medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/antiguo-circulo-militar-quito--1-small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/antiguo-circulo-militar-quito--1-medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/busto-de-dostoyevski-en-el-par.jpg",
@@ -625,8 +627,8 @@
             "Sculptures of Fyodor Dostoyevsky",
             "Self-published work"
           ],
-          "smallPath": "_m/6/r/b/n/quito-wk/busto-de-dostoyevski-en-el-par-small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/busto-de-dostoyevski-en-el-par-medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/busto-de-dostoyevski-en-el-par-small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/busto-de-dostoyevski-en-el-par-medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/busto-de-dostoyevski-en-el-par-1.jpg",
@@ -657,8 +659,8 @@
             "Sculptures of Fyodor Dostoyevsky",
             "Self-published work"
           ],
-          "smallPath": "_m/6/r/b/n/quito-wk/busto-de-dostoyevski-en-el-par-1-small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/busto-de-dostoyevski-en-el-par-1-medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/busto-de-dostoyevski-en-el-par-1-small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/busto-de-dostoyevski-en-el-par-1-medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/busto-de-antonio-de-ulloa-en-e.jpg",
@@ -688,8 +690,8 @@
             "Sculptures in Quito",
             "Self-published work"
           ],
-          "smallPath": "_m/6/r/b/n/quito-wk/busto-de-antonio-de-ulloa-en-e-small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/busto-de-antonio-de-ulloa-en-e-medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/busto-de-antonio-de-ulloa-en-e-small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/busto-de-antonio-de-ulloa-en-e-medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wk/busto-de-antonio-de-ulloa-parq.jpg",
@@ -711,8 +713,8 @@
             "CC-Zero",
             "Monuments and memorials in Quito"
           ],
-          "smallPath": "_m/6/r/b/n/quito-wk/busto-de-antonio-de-ulloa-parq-small.jpg",
-          "mediumPath": "_m/6/r/b/n/quito-wk/busto-de-antonio-de-ulloa-parq-medium.jpg"
+          "smallPath": "_m/6/r/b/n/quito-wk/busto-de-antonio-de-ulloa-parq-small.webp",
+          "mediumPath": "_m/6/r/b/n/quito-wk/busto-de-antonio-de-ulloa-parq-medium.webp"
         },
         {
           "path": "_m/6/r/b/n/quito-wp/virgen-guapulo.jpg",
@@ -1388,7 +1390,8 @@
             "Self-published work"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/6/r/b/n/quito-wk/6rbn-quito-combined.mp3"
     }
   }
 }

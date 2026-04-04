@@ -23,7 +23,7 @@
     "sourceType": "core",
     "sourceArticleId": "shrine-of-khwaja-abu-nasr-parsa-wp",
     "sourceGeohash4": "tqx9",
-    "smallPath": "_m/t/q/x/9/shrine-of-khwaja-abu-nasr-parsa-wp/hero-small.jpg"
+    "smallPath": "_m/t/q/x/9/shrine-of-khwaja-abu-nasr-parsa-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Balkh la mosquee-02.jpg",
@@ -51,5 +51,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T17:59:38.414Z"
+  "narration": {
+    "files": [
+      "tqx9-shrine-of-khwaja-abu-nasr-parsa-flight-context.mp3",
+      "tqx9-shrine-of-khwaja-abu-nasr-parsa-intro.mp3",
+      "tqx9-shrine-of-khwaja-abu-nasr-parsa-the-mystic-and-the-general.mp3",
+      "tqx9-shrine-of-khwaja-abu-nasr-parsa-geometry-of-devotion.mp3",
+      "tqx9-shrine-of-khwaja-abu-nasr-parsa-layers-of-patronage.mp3",
+      "tqx9-shrine-of-khwaja-abu-nasr-parsa-the-crypt-below.mp3"
+    ],
+    "durations": {
+      "tqx9-shrine-of-khwaja-abu-nasr-parsa-flight-context.mp3": 43.3640833,
+      "tqx9-shrine-of-khwaja-abu-nasr-parsa-intro.mp3": 40.3595,
+      "tqx9-shrine-of-khwaja-abu-nasr-parsa-the-mystic-and-the-general.mp3": 61.399625,
+      "tqx9-shrine-of-khwaja-abu-nasr-parsa-geometry-of-devotion.mp3": 64.641125,
+      "tqx9-shrine-of-khwaja-abu-nasr-parsa-layers-of-patronage.mp3": 57.0849583,
+      "tqx9-shrine-of-khwaja-abu-nasr-parsa-the-crypt-below.mp3": 66.6300833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

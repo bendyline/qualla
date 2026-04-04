@@ -28,8 +28,8 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-oudenarde-wp",
     "sourceGeohash4": "u149",
-    "smallPath": "_m/u/1/4/9/battle-of-oudenarde-wp/hero-small.jpg",
-    "mediumPath": "_m/u/1/4/9/battle-of-oudenarde-wp/hero-medium.jpg"
+    "smallPath": "_m/u/1/4/9/battle-of-oudenarde-wp/hero-small.webp",
+    "mediumPath": "_m/u/1/4/9/battle-of-oudenarde-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Copy after Jan van Huchtenburgh (Haarlem 1647-Amsterdam 1733) - The Battle of Oudenarde, 1708. - RCIN 404900 - Royal Collection.jpg",
@@ -234,7 +234,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-oudenarde-wp",
-      "sourceGeohash4": "u149"
+      "sourceGeohash4": "u149",
+      "smallPath": "_m/u/1/4/9/battle-of-oudenarde-wp/battle-audenarde-small.webp"
     },
     {
       "filename": "Battle oudenarde - plan.jpg",
@@ -250,7 +251,8 @@
       "dateCreated": "2015-07-22 12:23:39",
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-oudenarde-wp",
-      "sourceGeohash4": "u149"
+      "sourceGeohash4": "u149",
+      "smallPath": "_m/u/1/4/9/battle-of-oudenarde-wp/battle-oudenarde-plan-small.webp"
     },
     {
       "filename": "Jan Peeter Verdussen - The Assault on the Town of Oudenaarde, Belgium.jpg",
@@ -265,7 +267,8 @@
       "dateCreated": "between 1700 and 1730<div style=\"display: none;\">date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1700-00-00T00:00:00Z/9,P1326,+1730-00-00T00:00:00Z/9</div>",
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-oudenarde-wp",
-      "sourceGeohash4": "u149"
+      "sourceGeohash4": "u149",
+      "smallPath": "_m/u/1/4/9/battle-of-oudenarde-wp/jan-peeter-verdussen-the-assau-small.webp"
     },
     {
       "filename": "Repraesentatio Belli ob successionem in Regno Hispanico auspiciis Trium Potentiis Invictiis et Gloriosiis Caesarum Leopoldi I, Josephi I et Caroli VI - estampe - Paulus Decker Archit. invent. et delin.... - btv1b525141152 (047 of 124).jpg",
@@ -281,7 +284,9 @@
       "dateCreated": "18<sup>th</sup> century<div style=\"display: none;\">date QS:P571,+1750-00-00T00:00:00Z/7</div>",
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-oudenarde-wp",
-      "sourceGeohash4": "u149"
+      "sourceGeohash4": "u149",
+      "mediumPath": "_m/u/1/4/9/battle-of-oudenarde-wp/repraesentatio-belli-ob-succes-medium.webp",
+      "smallPath": "_m/u/1/4/9/battle-of-oudenarde-wp/repraesentatio-belli-ob-succes-small.webp"
     }
   ],
   "galleryPaths": [
@@ -296,7 +301,6 @@
     "_m/u/1/4/9/battle-of-oudenarde-wp/jan-peeter-verdussen-the-assau.jpg",
     "_m/u/1/4/9/battle-of-oudenarde-wp/repraesentatio-belli-ob-succes.jpg"
   ],
-  "fetchedAt": "2026-02-22T14:01:49.611Z",
   "narration": {
     "files": [
       "u143-battle-of-oudenarde-flight-context.mp3",
@@ -314,8 +318,7 @@
       "u143-battle-of-oudenarde-reserves-that-never-came.mp3": 44.9893333,
       "u143-battle-of-oudenarde-the-road-to-lille.mp3": 48.7075416
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-25T20:37:34.477Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T14:01:51.531Z"
 }

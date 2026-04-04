@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/q/e/b/manzanar-wk/9qdm-manzanar-intro.mp3",
-        "_m/9/q/e/b/manzanar-wk/9qdm-manzanar-flight-context.mp3",
-        "_m/9/q/e/b/manzanar-wk/9qdm-manzanar-life-behind-wire.mp3",
-        "_m/9/q/e/b/manzanar-wk/9qdm-manzanar-redress-and-memory.mp3",
-        "_m/9/q/e/b/manzanar-wk/9qdm-manzanar-resistance-and-loyalty.mp3",
-        "_m/9/q/e/b/manzanar-wk/9qdm-manzanar-the-removal.mp3",
-        "_m/9/q/e/b/manzanar-wk/9qdm-manzanar-visiting-manzanar.mp3"
+        "_m/9/q/e/b/manzanar-wk/9qeb-manzanar-flight-context.mp3",
+        "_m/9/q/e/b/manzanar-wk/9qeb-manzanar-intro.mp3",
+        "_m/9/q/e/b/manzanar-wk/9qeb-manzanar-the-removal.mp3",
+        "_m/9/q/e/b/manzanar-wk/9qeb-manzanar-life-behind-wire.mp3",
+        "_m/9/q/e/b/manzanar-wk/9qeb-manzanar-resistance-and-loyalty.mp3",
+        "_m/9/q/e/b/manzanar-wk/9qeb-manzanar-redress-and-memory.mp3",
+        "_m/9/q/e/b/manzanar-wk/9qeb-manzanar-visiting-manzanar.mp3"
       ],
       "hero": {
         "path": "_m/9/q/e/b/manzanar-wk/watchtower-sunset-manz.jpg",
@@ -26,8 +26,8 @@
         "sourceArticleId": "manzanar-wk",
         "sourceGeohash4": "9qeb",
         "accessedAt": "2026-02-21T21:09:09.295Z",
-        "smallPath": "_m/9/q/e/b/manzanar-wk/watchtower-sunset-manz-small.jpg",
-        "mediumPath": "_m/9/q/e/b/manzanar-wk/watchtower-sunset-manz-medium.jpg"
+        "smallPath": "_m/9/q/e/b/manzanar-wk/hero-small.webp",
+        "mediumPath": "_m/9/q/e/b/manzanar-wk/hero-medium.webp"
       },
       "images": [
         {
@@ -650,7 +650,8 @@
             "Self-published work"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/q/e/b/manzanar-wk/9qeb-manzanar-combined.mp3"
     }
   }
 }

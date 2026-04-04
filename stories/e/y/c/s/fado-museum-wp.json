@@ -1,0 +1,153 @@
+{
+  "id": "fado-museum-wp",
+  "source": "wikipedia",
+  "sourceId": "75511414",
+  "title": "Fado Museum",
+  "slug": "fado-museum",
+  "summary": "Housed in a former Victorian-era pumping station in Lisbon's Alfama quarter, this museum preserves the history of fado, Portugal's haunting musical tradition of longing and fate.",
+  "content": {
+    "intro": "The Portuguese word saudade has no direct English translation. It describes a deep, bittersweet longing for something absent, a melancholy that is somehow pleasurable. There is no better place to understand it than the Fado Museum in Lisbon's Alfama neighborhood, where the walls hold the history of the music that turned saudade into song. Fado, which literally means \"fate,\" emerged from the narrow streets of Alfama in the early 19th century, and the museum that chronicles its evolution sits in a building whose own story mirrors the neighborhood's reinvention.",
+    "sections": [
+      {
+        "title": "From Steam Engines to Sound Archives",
+        "body": "The building itself tells a story of transformation. Construction began in 1868 as a pumping station for Lisbon's water supply. By 1869, two steam engines built by the Anglo-French firm E. Windsor & Fils drove the pumps that pushed water through the city's pipes. The station served this industrial purpose until 1938, then became a workshop. After the 1974 Carnation Revolution toppled the authoritarian Estado Novo regime, the Portuguese Communist Party occupied the building. It sat in political and practical limbo until 1998, when it was restored, enlarged, and reopened as the Fado Museum. The conversion from pumping station to cultural institution mirrors Alfama's own trajectory, from a working-class neighborhood of fishermen and dockworkers to one of Lisbon's most visited quarters."
+      },
+      {
+        "title": "Paintings That Sing",
+        "body": "A thorough renovation in 2008 changed the museum's approach. Rather than reconstructing the dim, smoky atmosphere of a traditional fado house, the permanent exhibition focuses on the art that fado has inspired. Jose Malhoa's painting O Fado, perhaps the most famous visual representation of the music, hangs here alongside Os Fadistas by Rafael Bordalo Pinheiro, dating to 1873. The collection weaves together sheet music, film clips, and hundreds of biographies of performers, tracing fado from its rough origins in Lisbon's taverns to its recognition by UNESCO as Intangible Cultural Heritage of Humanity in 2011. Objects and instruments fill the rooms, but it is the audio guide, available in Portuguese, English, French, and Spanish, that brings the collection alive with the music itself."
+      },
+      {
+        "title": "A Living Archive",
+        "body": "Since 2016, the museum has maintained a digital sound archive on its website, housing thousands of recordings that stretch back to the early 20th century, when fado first reached the gramophone. Visitors can browse by performer or by song, tracing how the tradition evolved from the raw, unpolished voices of Alfama's streets to the crystalline intensity of Amalia Rodrigues, who carried fado to international audiences in the mid-20th century. The museum has also launched its own record label, Museu do Fado Discos, ensuring that new recordings join the archive alongside the old. In a neighborhood where fado still drifts from doorways on warm evenings, the museum serves as both preservation and invitation, a place where the thread connecting past and present remains audible."
+      }
+    ],
+    "flightContext": "Located at 38.711N, 9.128W in the Alfama district of Lisbon, near the waterfront along the Tagus River. The Alfama neighborhood is recognizable from the air by its dense, irregular medieval street pattern below Sao Jorge Castle. Nearest airport is Lisbon/Humberto Delgado (LPPT), 7 km north. Best viewed at 2,000-3,000 ft AGL."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 38.7110862731934,
+      "lng": -9.12761974334717
+    },
+    "geohash": "eycs0"
+  },
+  "categories": [
+    "museums",
+    "culture",
+    "music",
+    "historical-sites"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-13T00:00:00Z",
+    "wordCount": 620,
+    "readTime": 3,
+    "firstPublished": "2026-03-13T00:00:00Z",
+    "storyNumber": 8448
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Fado Museum - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fado_Museum",
+      "accessedAt": "2026-03-16",
+      "claimsVerified": [
+        "Building constructed 1868 as pumping station confirmed",
+        "Steam engines by Anglo-French firm E. Windsor & Fils installed 1869 confirmed",
+        "Pumping station served until 1938 confirmed",
+        "Portuguese Communist Party occupied building after 1974 Revolution confirmed",
+        "Restored and reopened as Fado Museum 1998 confirmed",
+        "Renovation in 2008 changing museum's approach confirmed",
+        "José Malhoa's O Fado painting in collection confirmed",
+        "UNESCO Intangible Cultural Heritage of Humanity 2011 confirmed",
+        "Digital sound archive launched since 2016 confirmed",
+        "Museum's own record label Museu do Fado Discos confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "e/y/c/s/fado-museum-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "hmhs-llandovery-castle-wp",
+      "title": "HMHS Llandovery Castle",
+      "tile": "gc0g",
+      "coordinates": {
+        "lat": 51.3,
+        "lng": -9.9
+      },
+      "distanceKm": 1365.5
+    },
+    "n": {
+      "id": "battle-of-vimeiro-wp",
+      "title": "Battle of Vimeiro",
+      "tile": "eycq",
+      "coordinates": {
+        "lat": 39.175,
+        "lng": -9.31667
+      },
+      "distanceKm": 34.7
+    },
+    "ne": {
+      "id": "castle-of-almourol-wp",
+      "title": "Castle of Almourol",
+      "tile": "ez40",
+      "coordinates": {
+        "lat": 39.46194444,
+        "lng": -8.38383056
+      },
+      "distanceKm": 49
+    },
+    "w": {
+      "id": "cabo-da-roca-wp",
+      "title": "Cabo da Roca",
+      "tile": "eych",
+      "coordinates": {
+        "lat": 38.780833333333334,
+        "lng": -9.500555555555556
+      },
+      "distanceKm": 2.5
+    },
+    "e": {
+      "id": "escoural-cave-wp",
+      "title": "Escoural Cave",
+      "tile": "eyf5",
+      "coordinates": {
+        "lat": 38.543625,
+        "lng": -8.1374972222222
+      },
+      "distanceKm": 35.4
+    },
+    "sw": {
+      "id": "1356-lisbon-earthquake-wp",
+      "title": "1356 Lisbon Earthquake",
+      "tile": "ey2z",
+      "coordinates": {
+        "lat": 36.5,
+        "lng": -10
+      },
+      "distanceKm": 226.4
+    },
+    "s": {
+      "id": "battle-of-ourique-wp",
+      "title": "Battle of Ourique",
+      "tile": "eydn",
+      "coordinates": {
+        "lat": 37.65,
+        "lng": -8.2167
+      },
+      "distanceKm": 114.6
+    },
+    "se": {
+      "id": "monsaraz-wp",
+      "title": "Monsaraz",
+      "tile": "eyfd",
+      "coordinates": {
+        "lat": 38.433333333333,
+        "lng": -7.3833333333333
+      },
+      "distanceKm": 92
+    }
+  }
+}

@@ -27,7 +27,7 @@
     "sourceType": "core",
     "sourceArticleId": "monson-lake-state-park-wp",
     "sourceGeohash4": "cbh3",
-    "smallPath": "_m/c/b/h/3/monson-lake-state-park-wp/hero-small.jpg"
+    "smallPath": "_m/c/b/h/3/monson-lake-state-park-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "06MonsonLake.jpg",
@@ -116,7 +116,7 @@
       "sourceType": "core",
       "sourceArticleId": "monson-lake-state-park-wp",
       "sourceGeohash4": "cbh3",
-      "smallPath": "_m/c/b/h/3/monson-lake-state-park-wp/vcc-built-picnic-shelt-small.jpg"
+      "smallPath": "_m/c/b/h/3/monson-lake-state-park-wp/vcc-built-picnic-shelt-small.webp"
     },
     {
       "filename": "Broberg Cabin Cellar Hole.jpg",
@@ -147,7 +147,7 @@
       "sourceType": "core",
       "sourceArticleId": "monson-lake-state-park-wp",
       "sourceGeohash4": "cbh3",
-      "smallPath": "_m/c/b/h/3/monson-lake-state-park-wp/1861-broberg-cabin-cel-small.jpg"
+      "smallPath": "_m/c/b/h/3/monson-lake-state-park-wp/1861-broberg-cabin-cel-small.webp"
     },
     {
       "filename": "Monson Lake SP Master New Wiki Version.JPG",
@@ -169,7 +169,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "monson-lake-state-park-wp",
-      "sourceGeohash4": "cbh3"
+      "sourceGeohash4": "cbh3",
+      "mediumPath": "_m/c/b/h/3/monson-lake-state-park-wp/monson-lake-sp-master-new-wiki-medium.webp",
+      "smallPath": "_m/c/b/h/3/monson-lake-state-park-wp/monson-lake-sp-master-new-wiki-small.webp"
     },
     {
       "filename": "Monson Lake SP Area Wiki Version.jpg",
@@ -192,7 +194,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "monson-lake-state-park-wp",
-      "sourceGeohash4": "cbh3"
+      "sourceGeohash4": "cbh3",
+      "mediumPath": "_m/c/b/h/3/monson-lake-state-park-wp/monson-lake-sp-area-wiki-versi-medium.webp",
+      "smallPath": "_m/c/b/h/3/monson-lake-state-park-wp/monson-lake-sp-area-wiki-versi-small.webp"
     },
     {
       "filename": "Monson Lake State Park Sign - Minnesota DNR (35330329292).jpg",
@@ -219,7 +223,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "monson-lake-state-park-wp",
-      "sourceGeohash4": "cbh3"
+      "sourceGeohash4": "cbh3",
+      "mediumPath": "_m/c/b/h/3/monson-lake-state-park-wp/monson-lake-state-park-sign-mi-medium.webp",
+      "smallPath": "_m/c/b/h/3/monson-lake-state-park-wp/monson-lake-state-park-sign-mi-small.webp"
     },
     {
       "filename": "Monson Lake - Sunburg, Minnesota (35366858831).jpg",
@@ -245,7 +251,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "monson-lake-state-park-wp",
-      "sourceGeohash4": "cbh3"
+      "sourceGeohash4": "cbh3",
+      "mediumPath": "_m/c/b/h/3/monson-lake-state-park-wp/monson-lake-sunburg-minnesota--medium.webp",
+      "smallPath": "_m/c/b/h/3/monson-lake-state-park-wp/monson-lake-sunburg-minnesota--small.webp"
     },
     {
       "filename": "Hiking Club Nature Trail - Monson Lake State Park, Minnesota (35110921650).jpg",
@@ -272,7 +280,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "monson-lake-state-park-wp",
-      "sourceGeohash4": "cbh3"
+      "sourceGeohash4": "cbh3",
+      "mediumPath": "_m/c/b/h/3/monson-lake-state-park-wp/hiking-club-nature-trail-monso-medium.webp",
+      "smallPath": "_m/c/b/h/3/monson-lake-state-park-wp/hiking-club-nature-trail-monso-small.webp"
     }
   ],
   "galleryPaths": [
@@ -285,7 +295,6 @@
     "_m/c/b/h/3/monson-lake-state-park-wp/monson-lake-sunburg-minnesota-.jpg",
     "_m/c/b/h/3/monson-lake-state-park-wp/hiking-club-nature-trail-monso.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:53:16.315Z",
   "narration": {
     "files": [
       "cbh3-monson-lake-state-park-flight-context.mp3",
@@ -303,8 +312,7 @@
       "cbh3-monson-lake-state-park-a-memorial-takes-root.mp3": 73.5432916,
       "cbh3-monson-lake-state-park-quiet-water-long-memory.mp3": 64.68575
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T08:51:28.735Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T02:53:16.876Z"
 }

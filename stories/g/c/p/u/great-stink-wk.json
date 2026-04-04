@@ -76,24 +76,24 @@
   "locationWikipediaPath": "g/c/p/u/parliament-of-the-united-kingdom-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "cotswolds-wk",
-      "title": "Cotswolds",
-      "tile": "gcnw",
+      "id": "waddesdon-manor-wp",
+      "title": "Waddesdon Manor",
+      "tile": "gcpq",
       "coordinates": {
-        "lat": 51.761,
-        "lng": -1.888
+        "lat": 51.8414,
+        "lng": -0.9283
       },
-      "distanceKm": 82.1
+      "distanceKm": 23.7
     },
     "n": {
-      "id": "pennine-way-wk",
-      "title": "Pennine Way",
-      "tile": "gcqx",
+      "id": "woburn-abbey-wp",
+      "title": "Woburn Abbey",
+      "tile": "gcpx",
       "coordinates": {
-        "lat": 53.3706,
-        "lng": -1.8168
+        "lat": 51.98295,
+        "lng": -0.596719
       },
-      "distanceKm": 218.3
+      "distanceKm": 44.4
     },
     "ne": {
       "id": "1976-schiedam-train-accident-wp",
@@ -106,54 +106,54 @@
       "distanceKm": 279.4
     },
     "w": {
-      "id": "stonehenge-mystery-wk",
-      "title": "Stonehenge: The Mystery That Won't Die",
-      "tile": "gcne",
+      "id": "1952-farnborough-airshow-crash-wp",
+      "title": "1952 Farnborough Airshow Crash",
+      "tile": "gcp7",
       "coordinates": {
-        "lat": 51.1789,
-        "lng": -1.8262
+        "lat": 51.27583333333333,
+        "lng": -0.7763888888888889
       },
-      "distanceKm": 82.4
+      "distanceKm": 16.4
     },
     "e": {
-      "id": "kent-wk",
-      "title": "Kent",
-      "tile": "u10e",
+      "id": "rochester-castle-wp",
+      "title": "Rochester Castle",
+      "tile": "u10k",
       "coordinates": {
-        "lat": 51.19,
-        "lng": 0.73
+        "lat": 51.3894,
+        "lng": 0.502
       },
-      "distanceKm": 36.4
+      "distanceKm": 10.8
     },
     "sw": {
-      "id": "guernsey-wk",
-      "title": "Guernsey",
-      "tile": "gby1",
+      "id": "fishbourne-roman-palace-wp",
+      "title": "Fishbourne Roman Palace",
+      "tile": "gcp3",
       "coordinates": {
-        "lat": 49.45,
-        "lng": -2.55
+        "lat": 50.8366,
+        "lng": -0.8103
       },
-      "distanceKm": 230.3
+      "distanceKm": 35.9
     },
     "s": {
-      "id": "d-day-beaches-wk",
-      "title": "D-Day: The Longest Day",
-      "tile": "gbzb",
+      "id": "battle-of-lewes-wp",
+      "title": "Battle of Lewes",
+      "tile": "gcpc",
       "coordinates": {
-        "lat": 49.24209,
-        "lng": -0.27375
+        "lat": 50.878611,
+        "lng": -0.013889
       },
-      "distanceKm": 212.5
+      "distanceKm": 32.5
     },
     "se": {
-      "id": "yser-towers-wp",
-      "title": "Yser Towers",
-      "tile": "u144",
+      "id": "dover-castle-wp",
+      "title": "Dover Castle",
+      "tile": "u10f",
       "coordinates": {
-        "lat": 51.031666666666666,
-        "lng": 2.8533333333333335
+        "lat": 51.128268,
+        "lng": 1.3235035
       },
-      "distanceKm": 175.2
+      "distanceKm": 67.9
     }
   },
   "keywords": [

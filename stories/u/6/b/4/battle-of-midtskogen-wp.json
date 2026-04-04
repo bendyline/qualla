@@ -108,44 +108,44 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "north-iceland-wk",
-      "title": "North Iceland",
-      "tile": "geej",
+      "id": "tretten-train-disaster-wp",
+      "title": "Tretten Train Disaster",
+      "tile": "u4zk",
       "coordinates": {
-        "lat": 65.61068,
-        "lng": -18.04504
+        "lat": 61.3167,
+        "lng": 10.3167
       },
-      "distanceKm": 1507.6
+      "distanceKm": 35
     },
     "n": {
-      "id": "h-lsingland-wp",
-      "title": "Halsingland",
-      "tile": "u6gt",
+      "id": "ringebu-stave-church-wp",
+      "title": "Ringebu Stave Church",
+      "tile": "u4zj",
       "coordinates": {
-        "lat": 61.512,
-        "lng": 16.507
+        "lat": 61.50934,
+        "lng": 10.17297
       },
-      "distanceKm": 273.5
+      "distanceKm": 76.6
     },
     "ne": {
-      "id": "decorated-farmhouses-of-h-lsingland-wp",
-      "title": "Decorated Farmhouses of Halsingland",
-      "tile": "u6gx",
+      "id": "union-between-sweden-and-norway-wp",
+      "title": "Union between Sweden and Norway",
+      "tile": "u70d",
       "coordinates": {
-        "lat": 61.70722222222223,
-        "lng": 16.195833333333333
+        "lat": 62.232313,
+        "lng": 12.282477
       },
-      "distanceKm": 233.2
+      "distanceKm": 119.2
     },
     "w": {
-      "id": "bergen-wk",
-      "title": "Bergen",
-      "tile": "u4ez",
+      "id": "gj-vik-olympic-cavern-hall-wp",
+      "title": "Gjøvik Olympic Cavern Hall",
+      "tile": "u4z9",
       "coordinates": {
-        "lat": 60.3913,
-        "lng": 5.3221
+        "lat": 60.7932,
+        "lng": 10.6844
       },
-      "distanceKm": 309.2
+      "distanceKm": 17.3
     },
     "e": {
       "id": "vasaloppet-wp",
@@ -158,14 +158,14 @@
       "distanceKm": 76
     },
     "sw": {
-      "id": "oslo-wk",
-      "title": "Oslo",
-      "tile": "u4xs",
+      "id": "kistefos-museum-and-sculpture-park-wp",
+      "title": "Kistefos Museum and Sculpture Park",
+      "tile": "u4xq",
       "coordinates": {
-        "lat": 59.9139,
-        "lng": 10.7522
+        "lat": 60.22308333,
+        "lng": 10.36941667
       },
-      "distanceKm": 81.6
+      "distanceKm": 55.1
     },
     "s": {
       "id": "battle-of-mobekk-wp",
@@ -190,5 +190,6 @@
   },
   "keywords": [
     "battle-of-midtskogen"
-  ]
+  ],
+  "locationWikipediaPath": "u/6/b/4/battle-of-midtskogen-wp"
 }

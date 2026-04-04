@@ -79,84 +79,84 @@
   ],
   "directionalNeighbors": {
     "nw": {
-      "id": "tadoussac-wk",
-      "title": "Tadoussac",
-      "tile": "f2w3",
+      "id": "battle-of-restigouche-wp",
+      "title": "Battle of Restigouche",
+      "tile": "f889",
       "coordinates": {
-        "lat": 48.1431,
-        "lng": -69.7192
+        "lat": 48.00472222,
+        "lng": -66.72083333
       },
-      "distanceKm": 246.4
+      "distanceKm": 29.6
     },
     "n": {
-      "id": "saguenay-fjord-national-park-wp",
-      "title": "Saguenay Fjord National Park",
-      "tile": "f2w4",
+      "id": "miguasha-national-park-wp",
+      "title": "Miguasha National Park",
+      "tile": "f88c",
       "coordinates": {
-        "lat": 48.275653,
-        "lng": -70.263462
+        "lat": 48.110555555556,
+        "lng": -66.369444444444
       },
-      "distanceKm": 327.1
+      "distanceKm": 47.2
     },
     "ne": {
-      "id": "aurora-iceland-wk",
-      "title": "The Northern Lights: The Sky Show That Vikings Thought Was Bridge to the Gods",
-      "tile": "ge2k",
+      "id": "miscou-island-wp",
+      "title": "Miscou Island",
+      "tile": "f8d0",
       "coordinates": {
-        "lat": 64,
-        "lng": -22
+        "lat": 47.95,
+        "lng": -64.5333
       },
-      "distanceKm": 3154.7
+      "distanceKm": 65.7
     },
     "w": {
-      "id": "saguenay-saint-lawrence-marine-park-wk",
-      "title": "Saguenay-Saint Lawrence Marine Park",
-      "tile": "f2w1",
+      "id": "ocean-train-wp",
+      "title": "The Ocean",
+      "tile": "f882",
       "coordinates": {
-        "lat": 48.026,
-        "lng": -69.996
+        "lat": 47.97507,
+        "lng": -66.93769
       },
-      "distanceKm": 270.5
+      "distanceKm": 60
     },
     "e": {
-      "id": "st-georges-bay-nova-scotia-wp",
-      "title": "St. Georges Bay",
-      "tile": "f8hh",
+      "id": "acadian-peninsula-wp",
+      "title": "Acadian Peninsula",
+      "tile": "f83w",
       "coordinates": {
-        "lat": 45.75,
-        "lng": -61.75
+        "lat": 47.5,
+        "lng": -65.1667
       },
-      "distanceKm": 342.3
+      "distanceKm": 17.7
     },
     "sw": {
-      "id": "grosse-isle-wp",
-      "title": "Grosse Isle",
-      "tile": "f2me",
+      "id": "marysville-cotton-mill-wp",
+      "title": "Marysville Cotton Mill",
+      "tile": "f80t",
       "coordinates": {
-        "lat": 47.03333333333333,
-        "lng": -70.66666666666667
+        "lat": 45.978333333333,
+        "lng": -66.588888888889
       },
-      "distanceKm": 320.4
+      "distanceKm": 145.7
     },
     "s": {
-      "id": "trans-canada-highway-wk",
-      "title": "Trans-Canada Highway",
-      "tile": "f84k",
+      "id": "1825-miramichi-fire-wp",
+      "title": "1825 Miramichi Fire",
+      "tile": "f837",
       "coordinates": {
-        "lat": 45.8347,
-        "lng": -64.2133
+        "lat": 47,
+        "lng": -65.5667
       },
-      "distanceKm": 207.4
+      "distanceKm": 41.4
     },
     "se": {
-      "id": "magnetic-hill-illusion-wk",
-      "title": "Magnetic Hill: Canada's Gravity-Defying Road",
-      "tile": "f81y",
+      "id": "kouchibouguac-national-park-wp",
+      "title": "Kouchibouguac National Park",
+      "tile": "f83f",
       "coordinates": {
-        "lat": 46.0976,
-        "lng": -64.8769
+        "lat": 46.8497,
+        "lng": -64.9669
       },
-      "distanceKm": 137.7
+      "distanceKm": 58.1
     }
   }
 }

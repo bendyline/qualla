@@ -96,14 +96,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "terney-wk",
+      "title": "Terney",
+      "tile": "z010",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 45.033333,
+        "lng": 136.6
       },
-      "distanceKm": 1371.7
+      "distanceKm": 750.7
     },
     "n": {
       "id": "kamo-aquarium-wp",
@@ -175,5 +175,7 @@
       },
       "distanceKm": 17.4
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/g/1/murakami-castle-wp",
+  "locationWikivoyagePath": "x/n/g/1/murakami-wk"
 }

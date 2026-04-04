@@ -1,0 +1,164 @@
+{
+  "id": "sandwich-harbour-wp",
+  "source": "wikipedia",
+  "sourceId": "7463011",
+  "title": "Sandwich Harbour",
+  "slug": "sandwich-harbour",
+  "summary": "A remote bay on Namibia's Atlantic coast where towering sand dunes meet the ocean directly, once a whaling port and guano scheme, now a Ramsar wetland teeming with birdlife inside the Namib-Naukluft National Park.",
+  "content": {
+    "intro": "Nobody is entirely sure how Sandwich Harbour got its name. One theory points to an English whaling ship called the Sandwich that worked these waters in the 1780s. Another suggests the name is a corruption of the German word sandfische, a species of shark found in the area. Both stories feel plausible for a place defined by its relationship to the sea and sand in equal measure. Located about 80 kilometers south of Walvis Bay on Namibia's Atlantic coast, Sandwich Harbour is one of those rare landscapes where the desert does not merely approach the ocean -- it pours into it. Towering Namib dunes cascade directly to the waterline, their crests sharp against the sky, their bases dissolving into surf. Behind the bay, a shallow lagoon stretches south, fed not by rivers but by brackish water that seeps quietly beneath the dunes.",
+    "sections": [
+      {
+        "title": "Where the Namib Meets the Atlantic",
+        "body": "The bay opens to the north, roughly 4.2 kilometers long and 4 kilometers wide. South of the bay, separated by beach ridges and saltpans, lies a lagoon 3.7 kilometers long and 1 kilometer wide, enveloped by sandy desert on its eastern side. For years, visitors assumed the lagoon held freshwater. A survey revealed the truth: the water is poor-quality brackish, seeping under the dunes from some subsurface source and allowing large reed beds to grow at the edges. The landscape is stark, almost abstract -- dunes, salt flats, reeds, and open water arranged in patterns that shift with wind and tide. In 1995, Sandwich Harbour was declared a Ramsar Site, recognizing its international importance as a wetland habitat."
+      },
+      {
+        "title": "Whalers, Sealers, and Snoek Fishermen",
+        "body": "The Royal Navy surveyed the area in the 1880s and found it very inferior to Walvis Bay as a port. That assessment kept large-scale development away. Occasional sealing vessels used the bay for anchorage, and seasonal fishermen set up temporary camps to catch snoek. The harbour never became a hub of commerce, and the lack of development proved to be its salvation. Without wharves, warehouses, or permanent settlement, the bay and its surrounding dunes remained essentially wild -- a rare condition on any coast that had attracted European attention for centuries."
+      },
+      {
+        "title": "The Jackal Problem",
+        "body": "In the 1930s, someone had an idea: build an artificial guano island in the lagoon. Sand pumps were imported from the Netherlands, and the project began with the ambition of creating a permanent platform for seabirds to nest on, generating guano that could be harvested and sold as fertilizer. The plan had one fatal flaw. At low tide, jackals could cross from the mainland to the island. They chased the birds away, and no amount of engineering could solve a problem that required only a few hours of exposed sand. The project collapsed. All that remains today is the manager's house, standing alone at the edge of the lagoon -- a monument to the gap between human ambition and desert ecology."
+      },
+      {
+        "title": "Permit Required",
+        "body": "Sandwich Harbour now lies within the Namib-Naukluft National Park, one of the largest conservation areas in Africa. Reaching it requires a permit from the Ministry of Environment and Tourism office in Swakopmund and a vehicle capable of handling soft sand -- the approach is along the beach itself, timed to the tides. When the South African Museum and the National Museum of Namibia surveyed the lagoon's fauna, they found it was totally marine -- no freshwater species, despite the lagoon's appearance. The birds, however, are the main attraction. Flamingos, pelicans, cormorants, and terns gather along the lagoon's edges in numbers that seem impossible for a place with almost no rainfall and no flowing rivers. From above, the view is extraordinary: the sharp geometry of dune crests running parallel to the coast, the turquoise lagoon, and the white line of surf where the Namib simply ends."
+      }
+    ],
+    "flightContext": "Located at 23.37S, 14.48E on Namibia's Atlantic coast, about 80 km south of Walvis Bay. From altitude, Sandwich Harbour is strikingly visible as the point where towering orange-red Namib dunes meet the ocean directly. The bay opens to the north, and the lagoon stretches south behind a barrier of beach ridges. Salt pans may appear as white patches. The approach road along the beach may be visible as a faint line at the base of the dunes. Walvis Bay and its salt works are visible to the north. The area is within the Namib-Naukluft National Park. Nearest airport is Walvis Bay Airport (FYWB), approximately 80 km north."
+  },
+  "location": {
+    "coordinates": {
+      "lat": -23.36667,
+      "lng": 14.48333
+    },
+    "geohash": "k7f71"
+  },
+  "categories": [
+    "namibia",
+    "coastal-landscapes",
+    "wetlands",
+    "birdlife",
+    "national-parks"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-24T00:00:00Z",
+    "wordCount": 720,
+    "readTime": 4,
+    "firstPublished": "2026-03-24T00:00:00Z",
+    "storyNumber": 12295
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Sandwich Harbour - Ramsar Sites Information Service",
+      "url": "https://rsis.ramsar.org/ris/743?language=en",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "Ramsar Site declared 1995 (confirmed: 23 August 1995)",
+        "lagoon brackish water seeping under dunes",
+        "bay dimensions roughly 4.2 km long and 4 km wide",
+        "within Namib-Naukluft National Park"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Sandwich Harbour - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sandwich_Harbour",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "guano island project using sand pumps from the Netherlands",
+        "jackals crossed at low tide and chased birds away",
+        "location ~80 km south of Walvis Bay",
+        "permit required from Ministry of Environment and Tourism"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "k/7/f/7/sandwich-harbour-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "kaokoland-wk",
+      "title": "Kaokoland",
+      "tile": "kkc1",
+      "coordinates": {
+        "lat": -18,
+        "lng": 13
+      },
+      "distanceKm": 569.9
+    },
+    "n": {
+      "id": "walvis-bay-wp",
+      "title": "Walvis Bay",
+      "tile": "k7fm",
+      "coordinates": {
+        "lat": -22.94944,
+        "lng": 14.50694
+      },
+      "distanceKm": 12.1
+    },
+    "ne": {
+      "id": "erongo-wk",
+      "title": "Erongo",
+      "tile": "kk4f",
+      "coordinates": {
+        "lat": -22,
+        "lng": 15.3
+      },
+      "distanceKm": 115.8
+    },
+    "w": {
+      "id": "epupa-falls-wk",
+      "title": "Epupa Falls",
+      "tile": "kkcr",
+      "coordinates": {
+        "lat": -17,
+        "lng": 13.25
+      },
+      "distanceKm": 704.6
+    },
+    "e": {
+      "id": "otjimbingwe-wp",
+      "title": "Otjimbingwe",
+      "tile": "kk52",
+      "coordinates": {
+        "lat": -22.3575,
+        "lng": 16.128611111111
+      },
+      "distanceKm": 146.7
+    },
+    "sw": {
+      "id": "cospatrick-ship-wp",
+      "title": "Cospatrick",
+      "tile": "k32t",
+      "coordinates": {
+        "lat": -37,
+        "lng": 12
+      },
+      "distanceKm": 1508
+    },
+    "s": {
+      "id": "gobabeb-wp",
+      "title": "Gobabeb Namib Research Institute",
+      "tile": "k7f9",
+      "coordinates": {
+        "lat": -23.56666667,
+        "lng": 15.05
+      },
+      "distanceKm": 46.9
+    },
+    "se": {
+      "id": "namib-naukluft-national-park-wk",
+      "title": "Namib-Naukluft National Park",
+      "tile": "k7du",
+      "coordinates": {
+        "lat": -24.54638889,
+        "lng": 15.32972222
+      },
+      "distanceKm": 112.4
+    }
+  }
+}

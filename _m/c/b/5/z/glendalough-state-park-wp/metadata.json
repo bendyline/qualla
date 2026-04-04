@@ -27,7 +27,7 @@
     "sourceType": "core",
     "sourceArticleId": "glendalough-state-park-wp",
     "sourceGeohash4": "cb5z",
-    "smallPath": "_m/c/b/5/z/glendalough-state-park-wp/hero-small.jpg"
+    "smallPath": "_m/c/b/5/z/glendalough-state-park-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "GlendaloughStateParkOnShaoteOfAnnieBattleLake.jpg",
@@ -85,7 +85,7 @@
       "sourceType": "core",
       "sourceArticleId": "glendalough-state-park-wp",
       "sourceGeohash4": "cb5z",
-      "smallPath": "_m/c/b/5/z/glendalough-state-park-wp/trail-center-shore-ann-small.jpg"
+      "smallPath": "_m/c/b/5/z/glendalough-state-park-wp/trail-center-shore-ann-small.webp"
     },
     {
       "filename": "Glendalough SPark Wiki Version.JPG",
@@ -109,7 +109,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "glendalough-state-park-wp",
-      "sourceGeohash4": "cb5z"
+      "sourceGeohash4": "cb5z",
+      "mediumPath": "_m/c/b/5/z/glendalough-state-park-wp/glendalough-spark-wiki-version-medium.webp",
+      "smallPath": "_m/c/b/5/z/glendalough-state-park-wp/glendalough-spark-wiki-version-small.webp"
     },
     {
       "filename": "Lake Blanche - Glendalough State Park (37084500894).jpg",
@@ -135,7 +137,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "glendalough-state-park-wp",
-      "sourceGeohash4": "cb5z"
+      "sourceGeohash4": "cb5z",
+      "mediumPath": "_m/c/b/5/z/glendalough-state-park-wp/lake-blanche-glendalough-state-medium.webp",
+      "smallPath": "_m/c/b/5/z/glendalough-state-park-wp/lake-blanche-glendalough-state-small.webp"
     },
     {
       "filename": "Fall Colors on Annie Battle Lake - Glendalough State Park, Minnesota (23941086098).jpg",
@@ -161,7 +165,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "glendalough-state-park-wp",
-      "sourceGeohash4": "cb5z"
+      "sourceGeohash4": "cb5z",
+      "mediumPath": "_m/c/b/5/z/glendalough-state-park-wp/fall-colors-on-annie-battle-la-medium.webp",
+      "smallPath": "_m/c/b/5/z/glendalough-state-park-wp/fall-colors-on-annie-battle-la-small.webp"
     },
     {
       "filename": "Glendalough Trail, Minnesota (37151117234).jpg",
@@ -188,7 +194,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "glendalough-state-park-wp",
-      "sourceGeohash4": "cb5z"
+      "sourceGeohash4": "cb5z",
+      "mediumPath": "_m/c/b/5/z/glendalough-state-park-wp/glendalough-trail-minnesota-37-medium.webp",
+      "smallPath": "_m/c/b/5/z/glendalough-state-park-wp/glendalough-trail-minnesota-37-small.webp"
     }
   ],
   "galleryPaths": [
@@ -198,7 +206,6 @@
     "_m/c/b/5/z/glendalough-state-park-wp/fall-colors-on-annie-battle-la.jpg",
     "_m/c/b/5/z/glendalough-state-park-wp/glendalough-trail-minnesota-37.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:41:58.844Z",
   "narration": {
     "files": [
       "cb5z-glendalough-state-park-flight-context.mp3",
@@ -218,8 +225,7 @@
       "cb5z-glendalough-state-park-storms-and-resilience.mp3": 43.7034583,
       "cb5z-glendalough-state-park-primitive-by-design.mp3": 67.3137916
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T06:19:06.264Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T02:41:59.471Z"
 }

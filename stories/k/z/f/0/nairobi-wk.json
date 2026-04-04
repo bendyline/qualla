@@ -88,82 +88,82 @@
   "locationWikivoyagePath": "k/z/f/0/nairobi-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "luxor-wk",
-      "title": "Luxor",
-      "tile": "ssx4",
+      "id": "lake-nakuru-national-park-wk",
+      "title": "Lake Nakuru National Park",
+      "tile": "kzct",
       "coordinates": {
-        "lat": 25.6872,
-        "lng": 32.6396
+        "lat": -0.3667,
+        "lng": 36.0833
       },
-      "distanceKm": 2998.2
+      "distanceKm": 77.8
     },
     "n": {
-      "id": "aberdare-national-park-wk",
-      "title": "Aberdare National Park",
-      "tile": "kzfj",
+      "id": "mount-longonot-national-park-wk",
+      "title": "Mount Longonot National Park",
+      "tile": "kzcf",
       "coordinates": {
-        "lat": -0.38,
-        "lng": 36.699167
+        "lat": -0.915278,
+        "lng": 36.4569
       },
-      "distanceKm": 75.1
+      "distanceKm": 34.9
     },
     "ne": {
-      "id": "aden-wk",
-      "title": "Aden",
-      "tile": "t420",
+      "id": "nech-sar-national-park-wk",
+      "title": "Nech Sar National Park",
+      "tile": "sc4c",
       "coordinates": {
-        "lat": 12.783333333333,
-        "lng": 45.016666666667
+        "lat": 5.933737,
+        "lng": 37.681285
       },
-      "distanceKm": 1760.4
+      "distanceKm": 778.4
     },
     "w": {
-      "id": "victoria-falls-wk",
-      "title": "Victoria Falls",
-      "tile": "ksf3",
+      "id": "maasai-mara-national-reserve-wk",
+      "title": "Maasai Mara National Reserve",
+      "tile": "kz8z",
       "coordinates": {
-        "lat": -17.9243,
-        "lng": 25.8572
+        "lat": -1.49,
+        "lng": 35.143889
       },
-      "distanceKm": 2165.2
+      "distanceKm": 120.1
     },
     "e": {
-      "id": "zanzibar-wk",
-      "title": "Zanzibar",
-      "tile": "kygu",
-      "coordinates": {
-        "lat": -6.1659,
-        "lng": 39.2026
-      },
-      "distanceKm": 580.3
-    },
-    "sw": {
-      "id": "serengeti-national-park-wk",
-      "title": "Serengeti National Park",
-      "tile": "kz8d",
-      "coordinates": {
-        "lat": -2.3328,
-        "lng": 34.5667
-      },
-      "distanceKm": 200.9
-    },
-    "s": {
-      "id": "mount-kilimanjaro-wk",
-      "title": "Mount Kilimanjaro",
-      "tile": "kz6w",
-      "coordinates": {
-        "lat": -3.0674,
-        "lng": 37.3556
-      },
-      "distanceKm": 178.8
-    },
-    "se": {
       "id": "kilimanjaro-wk",
       "title": "Kilimanjaro: The Snows That Hemingway Wrote About Are Disappearing",
       "tile": "kz6w",
       "coordinates": {
         "lat": -3.0674,
         "lng": 37.3556
+      },
+      "distanceKm": 194.7
+    },
+    "sw": {
+      "id": "olduvai-gorge-museum-wp",
+      "title": "Olduvai Gorge Museum",
+      "tile": "kz3n",
+      "coordinates": {
+        "lat": -2.9961111111111,
+        "lng": 35.352222222222
+      },
+      "distanceKm": 183.9
+    },
+    "s": {
+      "id": "amboseli-national-park-wk",
+      "title": "Amboseli National Park",
+      "tile": "kzd2",
+      "coordinates": {
+        "lat": -2.65,
+        "lng": 37.25
+      },
+      "distanceKm": 131.7
+    },
+    "se": {
+      "id": "kilimanjaro-national-park-wp",
+      "title": "Kilimanjaro National Park",
+      "tile": "kz6w",
+      "coordinates": {
+        "lat": -3.0666666666667,
+        "lng": 37.366666666667
       },
       "distanceKm": 165.5
     }

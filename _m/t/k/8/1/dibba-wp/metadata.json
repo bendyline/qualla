@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "dibba-wp",
     "sourceGeohash4": "tk81",
-    "mediumPath": "_m/t/k/8/1/dibba-wp/hero-medium.jpg",
-    "smallPath": "_m/t/k/8/1/dibba-wp/hero-small.jpg"
+    "mediumPath": "_m/t/k/8/1/dibba-wp/hero-medium.webp",
+    "smallPath": "_m/t/k/8/1/dibba-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Dibba 09.jpg",
@@ -64,5 +64,25 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T10:24:40.564Z"
+  "narration": {
+    "files": [
+      "tk81-dibba-flight-context.mp3",
+      "tk81-dibba-intro.mp3",
+      "tk81-dibba-a-market-at-the-edge-of-the-world.mp3",
+      "tk81-dibba-the-battle-that-defined-islams-borders.mp3",
+      "tk81-dibba-the-fault-beneath.mp3",
+      "tk81-dibba-three-towns-in-one.mp3",
+      "tk81-dibba-coral-death-and-renewal.mp3"
+    ],
+    "durations": {
+      "tk81-dibba-flight-context.mp3": 39.4045833,
+      "tk81-dibba-intro.mp3": 43.5492916,
+      "tk81-dibba-a-market-at-the-edge-of-the-world.mp3": 51.1930833,
+      "tk81-dibba-the-battle-that-defined-islams-borders.mp3": 56.9310833,
+      "tk81-dibba-the-fault-beneath.mp3": 54.6683333,
+      "tk81-dibba-three-towns-in-one.mp3": 46.565,
+      "tk81-dibba-coral-death-and-renewal.mp3": 47.7569166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

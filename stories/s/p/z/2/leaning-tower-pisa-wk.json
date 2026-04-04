@@ -76,87 +76,90 @@
   "locationWikipediaPath": "s/p/z/2/leaning-tower-of-pisa-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "milan-wk",
-      "title": "Milan",
-      "tile": "u0nd",
+      "id": "cinque-terre-national-park-wp",
+      "title": "Cinque Terre National Park",
+      "tile": "spyf",
       "coordinates": {
-        "lat": 45.4642,
-        "lng": 9.19
+        "lat": 44.1,
+        "lng": 9.75
       },
-      "distanceKm": 176.6
+      "distanceKm": 18.8
     },
     "n": {
-      "id": "chamonix-wk",
-      "title": "Chamonix",
-      "tile": "u0hv",
+      "id": "apuan-alps-wp",
+      "title": "Apuan Alps",
+      "tile": "spz6",
       "coordinates": {
-        "lat": 45.916,
-        "lng": 6.866
+        "lat": 43.95,
+        "lng": 10.216667
       },
-      "distanceKm": 352.3
+      "distanceKm": 12.4
     },
     "ne": {
-      "id": "venice-wk",
-      "title": "Venice",
-      "tile": "u20f",
+      "id": "marzabotto-massacre-wp",
+      "title": "Marzabotto Massacre",
+      "tile": "spzu",
       "coordinates": {
-        "lat": 45.4408,
-        "lng": 12.3155
+        "lat": 44.310277777778,
+        "lng": 11.219722222222
       },
-      "distanceKm": 200.5
+      "distanceKm": 48
     },
     "w": {
-      "id": "monaco-wk",
-      "title": "Monaco",
-      "tile": "spv2",
+      "id": "portofino-wp",
+      "title": "Portofino",
+      "tile": "spys",
       "coordinates": {
-        "lat": 43.7328,
-        "lng": 7.4197
+        "lat": 44.304241666667,
+        "lng": 9.2071611111111
       },
-      "distanceKm": 194.9
+      "distanceKm": 85.9
     },
     "e": {
-      "id": "venice-acqua-alta-wk",
-      "title": "Venice: The City That's Been Sinking for 1,500 Years",
-      "tile": "u20f",
+      "id": "san-gimignano-wp",
+      "title": "San Gimignano",
+      "tile": "spxz",
       "coordinates": {
-        "lat": 45.4408,
-        "lng": 12.3155
+        "lat": 43.467719,
+        "lng": 11.043221
       },
-      "distanceKm": 225.5
+      "distanceKm": 26.5
     },
     "sw": {
-      "id": "marseille-wk",
-      "title": "Marseille",
-      "tile": "spey",
+      "id": "siege-of-bastia-wp",
+      "title": "Siege of Bastia",
+      "tile": "spwd",
       "coordinates": {
-        "lat": 43.2965,
-        "lng": 5.3698
+        "lat": 42.7008,
+        "lng": 9.45028
       },
-      "distanceKm": 361.9
+      "distanceKm": 85.9
     },
     "s": {
-      "id": "caesar-assassination-wk",
-      "title": "The Assassination of Julius Caesar: 'Et Tu, Brute?'",
-      "tile": "sr2y",
+      "id": "furiani-disaster-wp",
+      "title": "Furiani Disaster",
+      "tile": "spwd",
       "coordinates": {
-        "lat": 41.8956,
-        "lng": 12.476
+        "lat": 42.651395,
+        "lng": 9.442758
       },
-      "distanceKm": 241.4
+      "distanceKm": 113.8
     },
     "se": {
-      "id": "rome-wk",
-      "title": "Rome",
-      "tile": "sr2y",
+      "id": "august-2016-central-italy-earthquake-wp",
+      "title": "August 2016 Central Italy Earthquake",
+      "tile": "sr96",
       "coordinates": {
-        "lat": 41.9,
-        "lng": 12.4833333
+        "lat": 42.71,
+        "lng": 13.24
       },
-      "distanceKm": 212.8
+      "distanceKm": 205.9
     }
   },
   "keywords": [
     "leaning-tower-pisa"
+  ],
+  "duplicates": [
+    "leaning-tower-of-pisa-wp"
   ]
 }

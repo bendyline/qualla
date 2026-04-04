@@ -68,14 +68,14 @@
   "locationWikipediaPath": "c/2/8/k/san-juan-island-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "nanaimo-bathtub-race-wk",
-      "title": "The Nanaimo Bathtub Race: When a City Got Weird",
-      "tile": "c0xz",
+      "id": "stz-uminus-first-nation-wp",
+      "title": "Stz'uminus First Nation",
+      "tile": "c0xy",
       "coordinates": {
-        "lat": 49.17,
-        "lng": -123.94
+        "lat": 48.9930239,
+        "lng": -123.7721113
       },
-      "distanceKm": 36.4
+      "distanceKm": 14.1
     },
     "n": {
       "id": "galiano-island-wk",
@@ -98,14 +98,14 @@
       "distanceKm": 34.6
     },
     "w": {
-      "id": "vancouver-island-wk",
-      "title": "Vancouver Island",
-      "tile": "c0yc",
+      "id": "jordan-river-dam-wp",
+      "title": "Jordan River Dam",
+      "tile": "c0xg",
       "coordinates": {
-        "lat": 49.5,
-        "lng": -125.5
+        "lat": 48.4965,
+        "lng": -123.993
       },
-      "distanceKm": 161.9
+      "distanceKm": 21.5
     },
     "e": {
       "id": "anacortes-wk",
@@ -118,34 +118,34 @@
       "distanceKm": 11.9
     },
     "sw": {
-      "id": "astoria-end-of-trail-wk",
-      "title": "Astoria: Where Lewis and Clark Finally Saw the Pacific",
-      "tile": "c0py",
+      "id": "strait-of-juan-de-fuca-wp",
+      "title": "Strait of Juan de Fuca",
+      "tile": "c0xf",
       "coordinates": {
-        "lat": 46.1879,
-        "lng": -123.8313
+        "lat": 48.33291,
+        "lng": -124.00265
       },
-      "distanceKm": 239.4
+      "distanceKm": 18.7
     },
     "s": {
-      "id": "port-townsend-wk",
-      "title": "Port Townsend",
-      "tile": "c289",
+      "id": "smith-island-washington-wp",
+      "title": "Smith Island (Washington)",
+      "tile": "c28d",
       "coordinates": {
-        "lat": 48.117,
-        "lng": -122.76
+        "lat": 48.318988,
+        "lng": -122.8418419
       },
-      "distanceKm": 42.3
+      "distanceKm": 28.2
     },
     "se": {
-      "id": "camano-island-wk",
-      "title": "Camano Island",
+      "id": "pacific-northwest-naval-air-museum-wp",
+      "title": "Pacific Northwest Naval Air Museum",
       "tile": "c28f",
       "coordinates": {
-        "lat": 48.182333333333,
-        "lng": -122.50444444444
+        "lat": 48.2881,
+        "lng": -122.6544
       },
-      "distanceKm": 22.5
+      "distanceKm": 6.5
     }
   },
   "keywords": [

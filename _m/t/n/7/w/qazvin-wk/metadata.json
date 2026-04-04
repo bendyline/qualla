@@ -29,7 +29,7 @@
       "sourceType": "poi",
       "sourceArticleId": "qazvin-wk",
       "sourceGeohash4": "tn7w",
-      "smallPath": "_m/t/n/7/w/qazvin-wk/ir04-02-02-small.jpg"
+      "smallPath": "_m/t/n/7/w/qazvin-wk/ir04-02-02-small.webp"
     },
     {
       "filename": "Qazvin Train station.jpg",
@@ -53,8 +53,8 @@
       "sourceType": "poi",
       "sourceArticleId": "qazvin-wk",
       "sourceGeohash4": "tn7w",
-      "mediumPath": "_m/t/n/7/w/qazvin-wk/qazvin-train-station-medium.jpg",
-      "smallPath": "_m/t/n/7/w/qazvin-wk/qazvin-train-station-small.jpg"
+      "mediumPath": "_m/t/n/7/w/qazvin-wk/qazvin-train-station-medium.webp",
+      "smallPath": "_m/t/n/7/w/qazvin-wk/qazvin-train-station-small.webp"
     },
     {
       "filename": "کاروان‌سرای سعدالسلطنه.jpg",
@@ -87,8 +87,8 @@
       "sourceType": "poi",
       "sourceArticleId": "qazvin-wk",
       "sourceGeohash4": "tn7w",
-      "mediumPath": "_m/t/n/7/w/qazvin-wk/image-3-medium.jpg",
-      "smallPath": "_m/t/n/7/w/qazvin-wk/image-3-small.jpg"
+      "mediumPath": "_m/t/n/7/w/qazvin-wk/image-3-medium.webp",
+      "smallPath": "_m/t/n/7/w/qazvin-wk/image-3-small.webp"
     },
     {
       "filename": "MazyarAsadi-Nabi Mosque01.jpg",
@@ -111,7 +111,7 @@
       "sourceType": "poi",
       "sourceArticleId": "qazvin-wk",
       "sourceGeohash4": "tn7w",
-      "smallPath": "_m/t/n/7/w/qazvin-wk/mazyarasadi-nabi-mosque01-small.jpg"
+      "smallPath": "_m/t/n/7/w/qazvin-wk/mazyarasadi-nabi-mosque01-small.webp"
     },
     {
       "filename": "۲۰۱۸۰۷۲۳ ۱۲۰۲۰۳کلاه فیروزه.jpg",
@@ -138,8 +138,8 @@
       "sourceType": "poi",
       "sourceArticleId": "qazvin-wk",
       "sourceGeohash4": "tn7w",
-      "mediumPath": "_m/t/n/7/w/qazvin-wk/image-5-medium.jpg",
-      "smallPath": "_m/t/n/7/w/qazvin-wk/image-5-small.jpg"
+      "mediumPath": "_m/t/n/7/w/qazvin-wk/image-5-medium.webp",
+      "smallPath": "_m/t/n/7/w/qazvin-wk/image-5-small.webp"
     }
   ],
   "galleryPaths": [
@@ -149,5 +149,26 @@
     "_m/t/n/7/w/qazvin-wk/mazyarasadi-nabi-mosque01.jpg",
     "_m/t/n/7/w/qazvin-wk/image-5.jpg"
   ],
-  "updatedAt": "2026-03-01T12:18:28.642Z"
+  "updatedAt": "2026-03-01T12:18:28.642Z",
+  "narration": {
+    "files": [
+      "tn7w-qazvin-the-city-of-firsts-and-the-fortress-of-the--flight-context.mp3",
+      "tn7w-qazvin-the-city-of-firsts-and-the-fortress-of-the--intro.mp3",
+      "tn7w-qazvin-the-city-of-firsts-and-the-fortress-of-the--nine-thousand-years-of-rubble.mp3",
+      "tn7w-qazvin-the-city-of-firsts-and-the-fortress-of-the--capital-of-the-safavid-empire.mp3",
+      "tn7w-qazvin-the-city-of-firsts-and-the-fortress-of-the--a-catalog-of-iranian-firsts.mp3",
+      "tn7w-qazvin-the-city-of-firsts-and-the-fortress-of-the--calligraphy-and-cuisine.mp3",
+      "tn7w-qazvin-the-city-of-firsts-and-the-fortress-of-the--gateway-to-the-mountains.mp3"
+    ],
+    "durations": {
+      "tn7w-qazvin-the-city-of-firsts-and-the-fortress-of-the--flight-context.mp3": 62.3704166,
+      "tn7w-qazvin-the-city-of-firsts-and-the-fortress-of-the--intro.mp3": 57.8850416,
+      "tn7w-qazvin-the-city-of-firsts-and-the-fortress-of-the--nine-thousand-years-of-rubble.mp3": 57.9202083,
+      "tn7w-qazvin-the-city-of-firsts-and-the-fortress-of-the--capital-of-the-safavid-empire.mp3": 57.4202916,
+      "tn7w-qazvin-the-city-of-firsts-and-the-fortress-of-the--a-catalog-of-iranian-firsts.mp3": 56.4020416,
+      "tn7w-qazvin-the-city-of-firsts-and-the-fortress-of-the--calligraphy-and-cuisine.mp3": 58.80325,
+      "tn7w-qazvin-the-city-of-firsts-and-the-fortress-of-the--gateway-to-the-mountains.mp3": 65.2994583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

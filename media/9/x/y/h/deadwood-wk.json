@@ -34,7 +34,9 @@
           "License migration completed",
           "National Register of Historic Places with known IDs",
           "Shadows of clouds on mountains"
-        ]
+        ],
+        "mediumPath": "_m/9/x/y/h/deadwood-wk/hero-medium.webp",
+        "smallPath": "_m/9/x/y/h/deadwood-wk/hero-small.webp"
       },
       "images": [
         {
@@ -58,7 +60,7 @@
             "Files with coordinates missing SDC location of creation",
             "Images from Wiki Loves Monuments 2017"
           ],
-          "smallPath": "_m/9/x/y/h/deadwood-wk/tomahawk-lake-country-small.jpg"
+          "smallPath": "_m/9/x/y/h/deadwood-wk/tomahawk-lake-country-small.webp"
         },
         {
           "path": "_m/9/x/y/h/deadwood-south-dakota-wp/deadwood13.jpg",
@@ -437,7 +439,8 @@
             "Wiki Loves Monuments 2024 in the United States unreviewed"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/x/y/h/deadwood-wk/9xyh-deadwood-combined.mp3"
     }
   }
 }

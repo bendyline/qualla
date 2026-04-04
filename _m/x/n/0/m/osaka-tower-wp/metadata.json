@@ -30,7 +30,7 @@
     "sourceType": "core",
     "sourceArticleId": "osaka-tower-wp",
     "sourceGeohash4": "xn0m",
-    "smallPath": "_m/x/n/0/m/osaka-tower-wp/hero-small.jpg"
+    "smallPath": "_m/x/n/0/m/osaka-tower-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Osaka-Tower-01.jpg",
@@ -89,7 +89,8 @@
       "sourceType": "core",
       "sourceArticleId": "osaka-tower-wp",
       "sourceGeohash4": "xn0m",
-      "smallPath": "_m/x/n/0/m/osaka-tower-wp/keep-en-matsue-castle-small.jpg"
+      "smallPath": "_m/x/n/0/m/osaka-tower-wp/keep-en-matsue-castle-small.webp",
+      "mediumPath": "_m/x/n/0/m/osaka-tower-wp/keep-en-matsue-castle-medium.webp"
     },
     {
       "filename": "Osaka Tower.jpg",
@@ -116,14 +117,13 @@
       "sourceType": "commons-category",
       "sourceArticleId": "osaka-tower-wp",
       "sourceGeohash4": "xn0m",
-      "smallPath": "_m/x/n/0/m/osaka-tower-wp/osaka-tower-small.jpg"
+      "smallPath": "_m/x/n/0/m/osaka-tower-wp/osaka-tower-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/x/n/0/m/osaka-tower-wp/keep-en-matsue-castle.jpg",
     "_m/x/n/0/m/osaka-tower-wp/osaka-tower.jpg"
   ],
-  "fetchedAt": "2026-02-22T17:39:47.657Z",
   "updatedAt": "2026-02-22T17:39:48.760Z",
   "narration": {
     "files": [
@@ -142,7 +142,6 @@
       "xn0m-osaka-tower-a-door-that-never-reopened.mp3": 55.6124166,
       "xn0m-osaka-tower-taken-apart-from-below.mp3": 64.2918333
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-24T17:48:17.094Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

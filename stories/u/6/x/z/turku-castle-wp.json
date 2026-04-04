@@ -107,24 +107,24 @@
       "distanceKm": 266
     },
     "n": {
-      "id": "h-lsingland-wp",
-      "title": "Halsingland",
-      "tile": "u6gt",
+      "id": "helvetinjarvi-national-park-wp",
+      "title": "Helvetinjärvi National Park",
+      "tile": "ue0b",
       "coordinates": {
-        "lat": 61.512,
-        "lng": 16.507
+        "lat": 62.03333333,
+        "lng": 23.85
       },
-      "distanceKm": 327.2
+      "distanceKm": 174.5
     },
     "ne": {
-      "id": "dyatlov-pass-wk",
-      "title": "The Dyatlov Pass Incident: Nine Hikers, One Frozen Mystery",
-      "tile": "v6fr",
+      "id": "finnish-war-wp",
+      "title": "Finnish War",
+      "tile": "ue02",
       "coordinates": {
-        "lat": 61.764,
-        "lng": 59.46
+        "lat": 62,
+        "lng": 22.966666666666665
       },
-      "distanceKm": 1938.7
+      "distanceKm": 150.8
     },
     "w": {
       "id": "archipelago-sea-wp",
@@ -137,14 +137,14 @@
       "distanceKm": 44.8
     },
     "e": {
-      "id": "st-petersburg-wk",
-      "title": "St. Petersburg",
-      "tile": "udts",
+      "id": "petajavesi-old-church-wp",
+      "title": "Petajavesi Old Church",
+      "tile": "ue1f",
       "coordinates": {
-        "lat": 59.9343,
-        "lng": 30.3351
+        "lat": 62.2501367,
+        "lng": 25.1839449
       },
-      "distanceKm": 416.8
+      "distanceKm": 242.2
     },
     "sw": {
       "id": "sinking-of-the-ms-estonia-wp",
@@ -179,5 +179,7 @@
   },
   "keywords": [
     "turku-castle"
-  ]
+  ],
+  "locationWikipediaPath": "u/6/x/z/turku-castle-wp",
+  "locationWikivoyagePath": "u/6/x/z/turku-wk"
 }

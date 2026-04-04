@@ -27,8 +27,8 @@
           "Photos by Magnolia677",
           "Self-published work"
         ],
-        "mediumPath": "_m/f/0/x/3/kerr-addison-mine-wp/hero-medium.jpg",
-        "smallPath": "_m/f/0/x/3/kerr-addison-mine-wp/hero-small.jpg"
+        "mediumPath": "_m/f/0/x/3/kerr-addison-mine-wp/hero-medium.webp",
+        "smallPath": "_m/f/0/x/3/kerr-addison-mine-wp/hero-small.webp"
       },
       "images": [
         {
@@ -57,10 +57,19 @@
             "Larder Lake, Ontario",
             "Native gold"
           ],
-          "mediumPath": "_m/f/0/x/3/kerr-addison-mine-wp/larder-lake-gold-ore-2-medium.jpg",
-          "smallPath": "_m/f/0/x/3/kerr-addison-mine-wp/larder-lake-gold-ore-2-small.jpg"
+          "mediumPath": "_m/f/0/x/3/kerr-addison-mine-wp/larder-lake-gold-ore-2-medium.webp",
+          "smallPath": "_m/f/0/x/3/kerr-addison-mine-wp/larder-lake-gold-ore-2-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/f/0/x/3/kerr-addison-mine-wp/f0x3-kerr-addison-mine-flight-context.mp3",
+        "_m/f/0/x/3/kerr-addison-mine-wp/f0x3-kerr-addison-mine-intro.mp3",
+        "_m/f/0/x/3/kerr-addison-mine-wp/f0x3-kerr-addison-mine-from-stolen-ground-to-continental-giant.mp3",
+        "_m/f/0/x/3/kerr-addison-mine-wp/f0x3-kerr-addison-mine-rocks-that-tell-deep-time.mp3",
+        "_m/f/0/x/3/kerr-addison-mine-wp/f0x3-kerr-addison-mine-the-price-of-gold-in-water.mp3",
+        "_m/f/0/x/3/kerr-addison-mine-wp/f0x3-kerr-addison-mine-a-mine-nobody-wanted-to-clean-up.mp3"
+      ],
+      "combinedNarration": "_m/f/0/x/3/kerr-addison-mine-wp/f0x3-kerr-addison-mine-combined.mp3"
     }
   }
 }

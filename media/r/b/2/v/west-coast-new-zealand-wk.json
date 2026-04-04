@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/r/b/2/v/west-coast-new-zealand-wk/rb2v-west-coast-new-zealand-intro.mp3",
         "_m/r/b/2/v/west-coast-new-zealand-wk/rb2v-west-coast-new-zealand-flight-context.mp3",
-        "_m/r/b/2/v/west-coast-new-zealand-wk/rb2v-west-coast-new-zealand-the-coasters.mp3",
+        "_m/r/b/2/v/west-coast-new-zealand-wk/rb2v-west-coast-new-zealand-intro.mp3",
         "_m/r/b/2/v/west-coast-new-zealand-wk/rb2v-west-coast-new-zealand-the-ice-rivers.mp3",
+        "_m/r/b/2/v/west-coast-new-zealand-wk/rb2v-west-coast-new-zealand-the-pancake-rocks.mp3",
+        "_m/r/b/2/v/west-coast-new-zealand-wk/rb2v-west-coast-new-zealand-the-coasters.mp3",
         "_m/r/b/2/v/west-coast-new-zealand-wk/rb2v-west-coast-new-zealand-the-mirror-lake.mp3",
-        "_m/r/b/2/v/west-coast-new-zealand-wk/rb2v-west-coast-new-zealand-the-old-and-new-frontier.mp3",
-        "_m/r/b/2/v/west-coast-new-zealand-wk/rb2v-west-coast-new-zealand-the-pancake-rocks.mp3"
+        "_m/r/b/2/v/west-coast-new-zealand-wk/rb2v-west-coast-new-zealand-the-old-and-new-frontier.mp3"
       ],
       "hero": {
         "path": "_m/tpc/we/st/-c/oa/west-coast-new-zealand/knight-s-point-west-coast.jpg",
@@ -33,7 +33,9 @@
           "License migration completed",
           "Seascapes",
           "Taken with Fujifilm FinePix A340"
-        ]
+        ],
+        "mediumPath": "_m/r/b/2/v/west-coast-new-zealand-wk/hero-medium.webp",
+        "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/hero-small.webp"
       },
       "images": [
         {
@@ -90,7 +92,7 @@
             "Storms in New Zealand",
             "West Coast Region"
           ],
-          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/west-coast-new-zealand-small.jpg"
+          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/west-coast-new-zealand-small.webp"
         },
         {
           "path": "_m/r/b/2/v/west-coast-new-zealand-wk/matukituki-valley-new.jpg",
@@ -138,8 +140,8 @@
             "Photographs by Phillip Capper",
             "Taken with Nikon D80"
           ],
-          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/ross-west-coast-new-ze-small.jpg",
-          "mediumPath": "_m/r/b/2/v/west-coast-new-zealand-wk/ross-west-coast-new-ze-medium.jpg"
+          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/ross-west-coast-new-ze-small.webp",
+          "mediumPath": "_m/r/b/2/v/west-coast-new-zealand-wk/ross-west-coast-new-ze-medium.webp"
         },
         {
           "path": "_m/r/b/2/v/west-coast-new-zealand-wk/hokitika.jpg",
@@ -156,7 +158,7 @@
           "sourceArticleId": "west-coast-new-zealand-wk",
           "sourceGeohash4": "rb2v",
           "accessedAt": "2026-02-22T13:11:26.179Z",
-          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/hokitika-small.jpg"
+          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/hokitika-small.webp"
         },
         {
           "path": "_m/r/b/2/v/west-coast-new-zealand-wk/morning-mist-lake-mapo.jpg",
@@ -173,8 +175,8 @@
           "sourceArticleId": "west-coast-new-zealand-wk",
           "sourceGeohash4": "rb2v",
           "accessedAt": "2026-02-22T13:11:26.179Z",
-          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/morning-mist-lake-mapo-small.jpg",
-          "mediumPath": "_m/r/b/2/v/west-coast-new-zealand-wk/morning-mist-lake-mapo-medium.jpg"
+          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/morning-mist-lake-mapo-small.webp",
+          "mediumPath": "_m/r/b/2/v/west-coast-new-zealand-wk/morning-mist-lake-mapo-medium.webp"
         },
         {
           "path": "_m/r/b/2/v/west-coast-new-zealand-wk/main-street-franz-jose.jpg",
@@ -191,8 +193,8 @@
           "sourceArticleId": "west-coast-new-zealand-wk",
           "sourceGeohash4": "rb2v",
           "accessedAt": "2026-02-22T13:11:26.179Z",
-          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/main-street-franz-jose-small.jpg",
-          "mediumPath": "_m/r/b/2/v/west-coast-new-zealand-wk/main-street-franz-jose-medium.jpg"
+          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/main-street-franz-jose-small.webp",
+          "mediumPath": "_m/r/b/2/v/west-coast-new-zealand-wk/main-street-franz-jose-medium.webp"
         },
         {
           "path": "_m/r/b/2/v/west-coast-new-zealand-wk/karamea-hotel-waverley.jpg",
@@ -209,8 +211,8 @@
           "sourceArticleId": "west-coast-new-zealand-wk",
           "sourceGeohash4": "rb2v",
           "accessedAt": "2026-02-22T13:11:26.179Z",
-          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/karamea-hotel-waverley-small.jpg",
-          "mediumPath": "_m/r/b/2/v/west-coast-new-zealand-wk/karamea-hotel-waverley-medium.jpg"
+          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/karamea-hotel-waverley-small.webp",
+          "mediumPath": "_m/r/b/2/v/west-coast-new-zealand-wk/karamea-hotel-waverley-medium.webp"
         },
         {
           "path": "_m/r/b/2/v/west-coast-new-zealand-wk/municipal-chambers-wes.jpg",
@@ -227,8 +229,8 @@
           "sourceArticleId": "west-coast-new-zealand-wk",
           "sourceGeohash4": "rb2v",
           "accessedAt": "2026-02-22T13:11:26.179Z",
-          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/municipal-chambers-wes-small.jpg",
-          "mediumPath": "_m/r/b/2/v/west-coast-new-zealand-wk/municipal-chambers-wes-medium.jpg"
+          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/municipal-chambers-wes-small.webp",
+          "mediumPath": "_m/r/b/2/v/west-coast-new-zealand-wk/municipal-chambers-wes-medium.webp"
         },
         {
           "path": "_m/r/b/2/v/west-coast-new-zealand-wk/pancake-rocks-near-pun.jpg",
@@ -245,8 +247,8 @@
           "sourceArticleId": "west-coast-new-zealand-wk",
           "sourceGeohash4": "rb2v",
           "accessedAt": "2026-02-22T13:11:26.179Z",
-          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/pancake-rocks-near-pun-small.jpg",
-          "mediumPath": "_m/r/b/2/v/west-coast-new-zealand-wk/pancake-rocks-near-pun-medium.jpg"
+          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/pancake-rocks-near-pun-small.webp",
+          "mediumPath": "_m/r/b/2/v/west-coast-new-zealand-wk/pancake-rocks-near-pun-medium.webp"
         },
         {
           "path": "_m/r/b/2/v/west-coast-new-zealand-wk/campingplatz-haast-ein.jpg",
@@ -263,8 +265,8 @@
           "sourceArticleId": "west-coast-new-zealand-wk",
           "sourceGeohash4": "rb2v",
           "accessedAt": "2026-02-22T13:11:26.179Z",
-          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/campingplatz-haast-ein-small.jpg",
-          "mediumPath": "_m/r/b/2/v/west-coast-new-zealand-wk/campingplatz-haast-ein-medium.jpg"
+          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/campingplatz-haast-ein-small.webp",
+          "mediumPath": "_m/r/b/2/v/west-coast-new-zealand-wk/campingplatz-haast-ein-medium.webp"
         },
         {
           "path": "_m/r/b/2/v/west-coast-new-zealand-wk/greymouth-town-clock.jpg",
@@ -281,8 +283,8 @@
           "sourceArticleId": "west-coast-new-zealand-wk",
           "sourceGeohash4": "rb2v",
           "accessedAt": "2026-02-22T13:11:26.179Z",
-          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/greymouth-town-clock-small.jpg",
-          "mediumPath": "_m/r/b/2/v/west-coast-new-zealand-wk/greymouth-town-clock-medium.jpg"
+          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/greymouth-town-clock-small.webp",
+          "mediumPath": "_m/r/b/2/v/west-coast-new-zealand-wk/greymouth-town-clock-medium.webp"
         },
         {
           "path": "_m/r/b/2/v/west-coast-new-zealand-wk/broadway-reefton-west.jpg",
@@ -299,8 +301,8 @@
           "sourceArticleId": "west-coast-new-zealand-wk",
           "sourceGeohash4": "rb2v",
           "accessedAt": "2026-02-22T13:11:26.179Z",
-          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/broadway-reefton-west-small.jpg",
-          "mediumPath": "_m/r/b/2/v/west-coast-new-zealand-wk/broadway-reefton-west-medium.jpg"
+          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/broadway-reefton-west-small.webp",
+          "mediumPath": "_m/r/b/2/v/west-coast-new-zealand-wk/broadway-reefton-west-medium.webp"
         },
         {
           "path": "_m/r/b/2/v/west-coast-new-zealand-wk/main-street-granity-we.jpg",
@@ -317,8 +319,8 @@
           "sourceArticleId": "west-coast-new-zealand-wk",
           "sourceGeohash4": "rb2v",
           "accessedAt": "2026-02-22T13:11:26.179Z",
-          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/main-street-granity-we-small.jpg",
-          "mediumPath": "_m/r/b/2/v/west-coast-new-zealand-wk/main-street-granity-we-medium.jpg"
+          "smallPath": "_m/r/b/2/v/west-coast-new-zealand-wk/main-street-granity-we-small.webp",
+          "mediumPath": "_m/r/b/2/v/west-coast-new-zealand-wk/main-street-granity-we-medium.webp"
         },
         {
           "path": "_m/r/b/2/v/west-coast-new-zealand-wk/hero.jpg",
@@ -538,7 +540,8 @@
             "Taken with Canon PowerShot S3 IS"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/r/b/2/v/west-coast-new-zealand-wk/rb2v-west-coast-new-zealand-combined.mp3"
     }
   }
 }

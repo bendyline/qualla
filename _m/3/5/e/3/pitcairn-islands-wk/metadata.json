@@ -18,8 +18,8 @@
     "sourceType": "core",
     "sourceArticleId": "pitcairn-islands-wk",
     "sourceGeohash4": "35e3",
-    "smallPath": "_m/3/5/e/3/pitcairn-islands-wk/hero-small.jpg",
-    "mediumPath": "_m/3/5/e/3/pitcairn-islands-wk/hero-medium.jpg"
+    "smallPath": "_m/3/5/e/3/pitcairn-islands-wk/hero-small.webp",
+    "mediumPath": "_m/3/5/e/3/pitcairn-islands-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Pitcairn Islands map.png",
@@ -68,7 +68,7 @@
       "sourceType": "core",
       "sourceArticleId": "pitcairn-islands-wk",
       "sourceGeohash4": "35e3",
-      "smallPath": "_m/3/5/e/3/pitcairn-islands-wk/bounty-bay-pitcairn-is-small.jpg"
+      "smallPath": "_m/3/5/e/3/pitcairn-islands-wk/bounty-bay-pitcairn-is-small.webp"
     },
     {
       "filename": "Pitcairn - Church of Adamstown.jpg",
@@ -98,7 +98,7 @@
       "sourceType": "core",
       "sourceArticleId": "pitcairn-islands-wk",
       "sourceGeohash4": "35e3",
-      "smallPath": "_m/3/5/e/3/pitcairn-islands-wk/square-amp-church-adam-small.jpg"
+      "smallPath": "_m/3/5/e/3/pitcairn-islands-wk/square-amp-church-adam-small.webp"
     },
     {
       "filename": "Adamstown1.jpg",
@@ -129,7 +129,7 @@
       "sourceType": "core",
       "sourceArticleId": "pitcairn-islands-wk",
       "sourceGeohash4": "35e3",
-      "smallPath": "_m/3/5/e/3/pitcairn-islands-wk/adamstown-pitcairn-isl-small.jpg"
+      "smallPath": "_m/3/5/e/3/pitcairn-islands-wk/adamstown-pitcairn-isl-small.webp"
     },
     {
       "filename": "Ducie02 AKK.jpg",
@@ -156,7 +156,7 @@
       "sourceType": "core",
       "sourceArticleId": "pitcairn-islands-wk",
       "sourceGeohash4": "35e3",
-      "smallPath": "_m/3/5/e/3/pitcairn-islands-wk/beach-acadia-island-du-small.jpg"
+      "smallPath": "_m/3/5/e/3/pitcairn-islands-wk/beach-acadia-island-du-small.webp"
     },
     {
       "filename": "Henderson01 AKK.jpg",
@@ -182,7 +182,7 @@
       "sourceType": "core",
       "sourceArticleId": "pitcairn-islands-wk",
       "sourceGeohash4": "35e3",
-      "smallPath": "_m/3/5/e/3/pitcairn-islands-wk/view-along-northern-be-small.jpg"
+      "smallPath": "_m/3/5/e/3/pitcairn-islands-wk/view-along-northern-be-small.webp"
     },
     {
       "filename": ".pn.png",
@@ -204,7 +204,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "pitcairn-islands-wk",
-      "sourceGeohash4": "35e3"
+      "sourceGeohash4": "35e3",
+      "smallPath": "_m/3/5/e/3/pitcairn-islands-wk/pn-small.webp"
     }
   ],
   "galleryPaths": [
@@ -215,7 +216,6 @@
     "_m/3/5/e/3/pitcairn-islands-wk/view-along-northern-be.jpg",
     "_m/3/5/e/3/pitcairn-islands-wk/pn.png"
   ],
-  "fetchedAt": "2026-02-21T20:03:45.780Z",
   "updatedAt": "2026-02-21T20:03:46.388Z",
   "narration": {
     "files": [
@@ -236,7 +236,6 @@
       "35e3-pitcairn-islands-the-other-islands.mp3": 69.02875,
       "35e3-pitcairn-islands-the-price-of-isolation.mp3": 81.76875
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:55.280Z"
+    "voice": "unknown"
   }
 }

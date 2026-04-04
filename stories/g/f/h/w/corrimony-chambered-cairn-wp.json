@@ -1,0 +1,150 @@
+{
+  "id": "corrimony-chambered-cairn-wp",
+  "source": "wikipedia",
+  "sourceId": "75875001",
+  "title": "Corrimony Chambered Cairn",
+  "slug": "corrimony-chambered-cairn",
+  "summary": "Beneath a ring of eleven standing stones near Glen Urquhart, a burial chamber built four thousand years ago yielded a single skeleton, a single bone pin, and a silence that archaeology can only partially break.",
+  "content": {
+    "intro": "Professor Stuart Piggott crawled into the passage in 1952. The entrance was a metre high -- a gap in the stonework that required anyone, ancient or modern, to stoop almost to hands and knees. Inside, the central chamber of Corrimony cairn held what it had held for roughly four thousand years: a floor of flagstones, and beneath them, the crouched remains of a single human burial. Beside the bones lay one object -- a pin made from bone. Nothing else. No pottery, no weapons, no grave goods of the kind that might reveal the status or identity of the person interred. The cairn had kept its occupant hidden for four millennia and, when opened, surrendered almost nothing about who they were.",
+    "sections": [
+      {
+        "title": "A Circle of Stones, a Mound of Secrets",
+        "body": "Corrimony belongs to a class of monuments known as Clava cairns, named after the cemetery at Balnuaran of Clava near Inverness. These passage graves are distinctive to the region around the Moray Firth and the inner Highlands -- a local tradition of monument building that flourished during the Bronze Age. The cairn at Corrimony consists of a circular mound of waterworn stones, 18 metres in diameter and 2.5 metres high, edged by a stone kerb and surrounded by a ring of eleven large standing stones. The stones range in height from 1.5 metres to 2.7 metres, though four of the current eleven are modern replacements. A narrow passage leads from the edge of the mound to the central chamber, aligned to admit light at specific times -- a feature common to Clava cairns and suggesting that astronomical observation played a role in the monument's design and ritual use."
+      },
+      {
+        "title": "The Excavation of 1952",
+        "body": "When Piggott excavated Corrimony, he found the central chamber constructed from large vertical boulders supplemented by drystone walling. The crouched inhumation burial beneath the flagstone floor was the cairn's single occupant -- unusual for a monument of this size and elaboration. The bone pin, the only artifact recovered, now resides in the National Museum of Scotland in Edinburgh. Two stones forming lintels in the passage roof were identified as later additions, suggesting the monument was modified after its original construction, perhaps to reseal the chamber after the burial. West of the passage entrance, these newer stones indicate that someone returned to the cairn after the initial interment -- whether for additional ritual, maintenance, or an act of closure remains unknown."
+      },
+      {
+        "title": "What the Stones Cannot Tell",
+        "body": "Corrimony raises questions it cannot answer. Why was a monument of this scale built for a single burial? Was the occupant a chief, a religious figure, a person whose death required extraordinary commemoration? The absence of grave goods -- weapons, pottery, jewelry -- that might indicate social rank makes interpretation difficult. The Clava cairn tradition itself is poorly understood compared to better-documented burial cultures elsewhere in Britain. What is clear is that the community that built Corrimony invested enormous labor in the project. The waterworn stones that form the mound were gathered and carried to the site, the standing stones erected, the passage and chamber carefully engineered. Today the cairn sits in a quiet field near Glen Urquhart, designated as a scheduled monument by Historic Environment Scotland since 1994. Sheep graze around the standing stones. The mountains of the Great Glen rise to the south. The passage entrance faces outward like a dark eye, still waiting for someone to crawl through."
+      }
+    ],
+    "flightContext": "Corrimony Chambered Cairn is located at 57.33°N, 4.69°W near Glen Urquhart in the Scottish Highlands. The cairn appears from the air as a circular mound surrounded by standing stones in agricultural land. Glen Urquhart lies to the southeast, with Loch Ness approximately 5 nm to the east. Nearest airport: Inverness (EGPE) approximately 15 nm to the northeast."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 57.33444444,
+      "lng": -4.68783333
+    },
+    "geohash": "gfhwj"
+  },
+  "categories": [
+    "archaeological-sites",
+    "bronze-age",
+    "burial-monuments",
+    "standing-stones"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 640,
+    "readTime": 3,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 9392
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Corrimony Chambered Cairn - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Corrimony_chambered_cairn",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Stuart Piggott excavation 1952 confirmed",
+        "Single crouched inhumation burial confirmed",
+        "Single bone pin artifact confirmed, now in National Museum of Scotland",
+        "11 standing stones surrounding the cairn confirmed",
+        "Clava cairn classification confirmed",
+        "18 m diameter mound confirmed",
+        "Scheduled monument designation by Historic Environment Scotland 1994 confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "g/f/h/w/corrimony-chambered-cairn-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "isle-of-lewis-wp",
+      "title": "Isle of Lewis",
+      "tile": "gf77",
+      "coordinates": {
+        "lat": 58.21,
+        "lng": -6.38
+      },
+      "distanceKm": 89.8
+    },
+    "n": {
+      "id": "an-teallach-wp",
+      "title": "An Teallach",
+      "tile": "gfk2",
+      "coordinates": {
+        "lat": 57.806530555556,
+        "lng": -5.2516611111111
+      },
+      "distanceKm": 34.4
+    },
+    "ne": {
+      "id": "hms-natal-wp",
+      "title": "HMS Natal",
+      "tile": "gfm0",
+      "coordinates": {
+        "lat": 57.68740260040369,
+        "lng": -4.089265760400302
+      },
+      "distanceKm": 8.4
+    },
+    "w": {
+      "id": "capture-of-eilean-donan-castle-wp",
+      "title": "Capture of Eilean Donan Castle",
+      "tile": "gfhj",
+      "coordinates": {
+        "lat": 57.27,
+        "lng": -5.52
+      },
+      "distanceKm": 20.1
+    },
+    "e": {
+      "id": "culloden-wk",
+      "title": "Culloden",
+      "tile": "gfjp",
+      "coordinates": {
+        "lat": 57.48972,
+        "lng": -4.13532
+      },
+      "distanceKm": 11.9
+    },
+    "sw": {
+      "id": "knoydart-wk",
+      "title": "Knoydart",
+      "tile": "gf5u",
+      "coordinates": {
+        "lat": 57.07,
+        "lng": -5.66
+      },
+      "distanceKm": 24.2
+    },
+    "s": {
+      "id": "caledonian-forest-wp",
+      "title": "Caledonian Forest",
+      "tile": "gfhs",
+      "coordinates": {
+        "lat": 57.12,
+        "lng": -4.71
+      },
+      "distanceKm": 2.4
+    },
+    "se": {
+      "id": "highland-folk-museum-wp",
+      "title": "Highland Folk Museum",
+      "tile": "gfjh",
+      "coordinates": {
+        "lat": 57.069708,
+        "lng": -4.102865
+      },
+      "distanceKm": 9.6
+    }
+  }
+}

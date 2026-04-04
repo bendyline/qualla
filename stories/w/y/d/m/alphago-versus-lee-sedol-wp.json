@@ -1,0 +1,157 @@
+{
+  "id": "alphago-versus-lee-sedol-wp",
+  "source": "wikipedia",
+  "sourceId": "49693402",
+  "title": "AlphaGo versus Lee Sedol",
+  "slug": "alphago-versus-lee-sedol",
+  "summary": "In March 2016, a Google AI defeated one of Go's greatest players in a Seoul hotel room, crossing a threshold that experts believed was a decade away and redefining the boundary between human and machine intelligence.",
+  "content": {
+    "intro": "Lee Sedol predicted he would win in a landslide. The 33-year-old South Korean, holder of 18 international titles and widely considered one of the greatest Go players in history, had been playing the game professionally since the age of 12. His opponent had never held a stone. AlphaGo, built by Google's DeepMind laboratory, was a neural network that had taught itself Go by studying 30 million moves from 160,000 human games and then playing millions more against itself. When the two faced each other across a Go board at the Four Seasons Hotel in Seoul in March 2016, the match was livestreamed to a global audience. Experts had said this moment was ten years away. It arrived in five games.",
+    "sections": [
+      {
+        "title": "The Last Fortress",
+        "body": "Go is not chess. Chess has roughly 10 to the power of 120 possible game positions. Go, played on a 19-by-19 grid with black and white stones, has approximately 10 to the power of 170 -- more possible configurations than there are atoms in the observable universe. The game demands pattern recognition, spatial intuition, and a quality that players describe as aesthetic judgment. For decades, it was considered the last great fortress of human intellectual superiority over machines. When IBM's Deep Blue defeated Garry Kasparov at chess in 1997, Go players shrugged: chess was a game of brute-force calculation, they argued, while Go required something closer to creativity. Before 2015, the strongest Go programs could only reach amateur level on a full-sized board. AlphaGo changed that in October 2015, when it defeated European champion Fan Hui 5-0 -- the first time an AI had beaten a professional player without a handicap. But Fan was ranked 2 dan. Lee Sedol was 9 dan. The gulf between them was enormous."
+      },
+      {
+        "title": "Move 37",
+        "body": "AlphaGo won the first game, and Lee appeared stunned. He told reporters afterward that from the very beginning, he never felt like he was leading. The second game deepened the shock. AlphaGo made a move -- move 37 -- that no human player would have considered. Professional commentators initially dismissed it as a mistake. It turned out to be brilliant, a placement so unconventional that it seemed to come from a completely different understanding of the game. Fan Hui, watching the match, described the beauty and sadness of the moment: the realization that a machine could see things in Go that humans, after 2,500 years of playing, had never imagined. By the end of the third game, AlphaGo led 3-0, and the doubt about whether it was genuinely strong -- or merely lucky -- had been removed."
+      },
+      {
+        "title": "Game Four: The Human Strikes Back",
+        "body": "Then Lee Sedol played move 78 of game four. It was a placement so unexpected, so precisely disruptive, that AlphaGo's evaluation of the board position swung wildly. The machine, which had appeared serene and methodical through three victories, began making errors. Lee pressed the advantage and won -- the only human being ever to defeat AlphaGo in a formal match. The room erupted. Lee, visibly emotional, said afterward that this single victory was worth more to him than any number of defeats. DeepMind's Demis Hassabis called it invaluable, noting that the loss revealed a flaw in AlphaGo's algorithms that the team could study and correct. AlphaGo won the fifth and final game, taking the match 4-1, but it was game four that the Go world would remember. It was proof that human creativity, at its sharpest and most desperate, could still find what the machine could not."
+      },
+      {
+        "title": "After the Board Was Cleared",
+        "body": "The Korea Baduk Association awarded AlphaGo an honorary 9 dan rank -- the highest grandmaster designation in Go -- in recognition of its \"sincere efforts\" to master the game. Lee received $170,000 for his participation. The $1 million prize for the match winner went to charity, including UNICEF. Science magazine named the match a runner-up for Breakthrough of the Year. Three years later, Lee Sedol retired from professional Go, saying that even if he became the number one player in the world, there was an entity that could not be defeated. AlphaGo itself was retired after defeating the world's top-ranked player, Ke Jie, in 2017. DeepMind moved on to AlphaFold, which used similar techniques to crack the problem of protein structure prediction. The Go board at the Four Seasons Hotel was cleared and put away, but what happened across it in March 2016 -- in a hotel room in Seoul, between a man and a machine -- marked a boundary that, once crossed, could never be uncrossed."
+      }
+    ],
+    "flightContext": "Located at 37.57N, 126.98E in central Seoul, South Korea. The match was held at the Four Seasons Hotel Seoul near Gwanghwamun in the heart of the city. Gimpo International Airport (RKSS) is approximately 12 km west. Seoul Air Base (RKSM) is to the south. The hotel is situated in the dense urban core near the historic Gyeongbokgung Palace and Cheonggyecheon stream, identifiable landmarks from the air. Recommended viewing altitude: 3,000-5,000 feet over central Seoul."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 37.5706,
+      "lng": 126.9754
+    },
+    "geohash": "wydm9"
+  },
+  "categories": [
+    "Computer Go games",
+    "Sports competitions in Seoul",
+    "Human versus computer matches",
+    "AlphaGo",
+    "2016 in South Korea"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 800,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 8922
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "AlphaGo versus Lee Sedol - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol",
+      "accessedAt": "2026-03-18",
+      "claimsVerified": [
+        "Match held March 2016 confirmed",
+        "AlphaGo won 4-1 confirmed",
+        "Lee Sedol held 18 international titles confirmed",
+        "Match at Four Seasons Hotel Seoul confirmed",
+        "AlphaGo trained on 30 million moves from 160000 games confirmed",
+        "Lee received $170000 confirmed ($150000 participation + $20000 for game win)",
+        "$1 million prize to charity including UNICEF confirmed",
+        "AlphaGo defeated Ke Jie in 2017 confirmed",
+        "Lee Sedol retired 2019 citing AI opponent confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "w/y/d/m/alphago-versus-lee-sedol-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "goryeo-wp",
+      "title": "Goryeo",
+      "tile": "wy9z",
+      "coordinates": {
+        "lat": 37.96666666666667,
+        "lng": 126.55
+      },
+      "distanceKm": 19.3
+    },
+    "n": {
+      "id": "battle-of-the-imjin-river-wp",
+      "title": "Battle of the Imjin River",
+      "tile": "wydr",
+      "coordinates": {
+        "lat": 37.9413,
+        "lng": 126.9091
+      },
+      "distanceKm": 22.9
+    },
+    "ne": {
+      "id": "battle-of-heartbreak-ridge-wp",
+      "title": "Battle of Heartbreak Ridge",
+      "tile": "wyg1",
+      "coordinates": {
+        "lat": 38.3,
+        "lng": 128.016667
+      },
+      "distanceKm": 66.3
+    },
+    "w": {
+      "id": "battle-of-chemulpo-bay-wp",
+      "title": "Battle of Chemulpo Bay",
+      "tile": "wy9u",
+      "coordinates": {
+        "lat": 37.34666667,
+        "lng": 126.52283333
+      },
+      "distanceKm": 20.6
+    },
+    "e": {
+      "id": "2018-winter-olympics-wp",
+      "title": "2018 Winter Olympics",
+      "tile": "wyew",
+      "coordinates": {
+        "lat": 37.6313,
+        "lng": 128.6774
+      },
+      "distanceKm": 94.1
+    },
+    "sw": {
+      "id": "jeju-air-flight-2216-wp",
+      "title": "Jeju Air Flight 2216",
+      "tile": "wy1y",
+      "coordinates": {
+        "lat": 34.97638888888889,
+        "lng": 126.38277777777778
+      },
+      "distanceKm": 255.1
+    },
+    "s": {
+      "id": "battle-of-osan-wp",
+      "title": "Battle of Osan",
+      "tile": "wyd7",
+      "coordinates": {
+        "lat": 37.185,
+        "lng": 127.053
+      },
+      "distanceKm": 9.5
+    },
+    "se": {
+      "id": "hahoe-folk-village-wp",
+      "title": "Hahoe Folk Village",
+      "tile": "wy7r",
+      "coordinates": {
+        "lat": 36.53805556,
+        "lng": 128.52055556
+      },
+      "distanceKm": 114
+    }
+  }
+}

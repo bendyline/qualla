@@ -28,7 +28,7 @@
     "sourceType": "core",
     "sourceArticleId": "nipissing-first-nation-wp",
     "sourceGeohash4": "f0pr",
-    "smallPath": "_m/f/0/p/r/nipissing-first-nation-wp/hero-small.jpg"
+    "smallPath": "_m/f/0/p/r/nipissing-first-nation-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Garden Village 1.JPG",
@@ -87,7 +87,7 @@
       "sourceType": "core",
       "sourceArticleId": "nipissing-first-nation-wp",
       "sourceGeohash4": "f0pr",
-      "smallPath": "_m/f/0/p/r/nipissing-first-nation-wp/garden-village-ontario-small.jpg"
+      "smallPath": "_m/f/0/p/r/nipissing-first-nation-wp/garden-village-ontario-small.webp"
     },
     {
       "filename": "PhotoWayne Keon.jpg",
@@ -114,8 +114,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "nipissing-first-nation-wp",
       "sourceGeohash4": "f0pr",
-      "mediumPath": "_m/f/0/p/r/nipissing-first-nation-wp/photowayne-keon-medium.jpg",
-      "smallPath": "_m/f/0/p/r/nipissing-first-nation-wp/photowayne-keon-small.jpg"
+      "mediumPath": "_m/f/0/p/r/nipissing-first-nation-wp/photowayne-keon-medium.webp",
+      "smallPath": "_m/f/0/p/r/nipissing-first-nation-wp/photowayne-keon-small.webp"
     },
     {
       "filename": "Amérindien du peuple Nipissing au Canada en 1717.jpg",
@@ -149,7 +149,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "nipissing-first-nation-wp",
       "sourceGeohash4": "f0pr",
-      "smallPath": "_m/f/0/p/r/nipissing-first-nation-wp/amerindien-du-peuple-nipissing-small.jpg"
+      "smallPath": "_m/f/0/p/r/nipissing-first-nation-wp/amerindien-du-peuple-nipissing-small.webp"
     }
   ],
   "galleryPaths": [
@@ -157,6 +157,26 @@
     "_m/f/0/p/r/nipissing-first-nation-wp/photowayne-keon.jpg",
     "_m/f/0/p/r/nipissing-first-nation-wp/amerindien-du-peuple-nipissing.jpg"
   ],
-  "fetchedAt": "2026-02-28T11:23:50.574Z",
-  "updatedAt": "2026-02-28T11:24:08.954Z"
+  "updatedAt": "2026-02-28T11:24:08.954Z",
+  "narration": {
+    "files": [
+      "f0pr-nipissing-first-nation-flight-context.mp3",
+      "f0pr-nipissing-first-nation-intro.mp3",
+      "f0pr-nipissing-first-nation-people-of-the-crossroads.mp3",
+      "f0pr-nipissing-first-nation-five-clans-at-the-waters-edge.mp3",
+      "f0pr-nipissing-first-nation-the-fur-trade-wars.mp3",
+      "f0pr-nipissing-first-nation-treaty-and-survival.mp3",
+      "f0pr-nipissing-first-nation-writing-their-own-law.mp3"
+    ],
+    "durations": {
+      "f0pr-nipissing-first-nation-flight-context.mp3": 52.5741666,
+      "f0pr-nipissing-first-nation-intro.mp3": 53.519375,
+      "f0pr-nipissing-first-nation-people-of-the-crossroads.mp3": 66.8658333,
+      "f0pr-nipissing-first-nation-five-clans-at-the-waters-edge.mp3": 57.880375,
+      "f0pr-nipissing-first-nation-the-fur-trade-wars.mp3": 64.4889583,
+      "f0pr-nipissing-first-nation-treaty-and-survival.mp3": 54.5639166,
+      "f0pr-nipissing-first-nation-writing-their-own-law.mp3": 60.0994583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

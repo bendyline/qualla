@@ -23,7 +23,7 @@
     "sourceType": "core",
     "sourceArticleId": "nairn-falls-dam-and-generating-plant-wp",
     "sourceGeohash4": "f0jz",
-    "smallPath": "_m/f/0/j/z/nairn-falls-dam-and-generating-plant-wp/hero-small.jpg"
+    "smallPath": "_m/f/0/j/z/nairn-falls-dam-and-generating-plant-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Nairn Falls of the Spanish River before the dam.png",
@@ -78,5 +78,25 @@
   "galleryPaths": [
     "_m/c/b/t/u/rainy-lake-wp/physical-location-map.jpg"
   ],
-  "fetchedAt": "2026-02-28T11:06:19.767Z"
+  "narration": {
+    "files": [
+      "f0jz-nairn-falls-dam-and-generating-plant-flight-context.mp3",
+      "f0jz-nairn-falls-dam-and-generating-plant-intro.mp3",
+      "f0jz-nairn-falls-dam-and-generating-plant-logs-rails-and-the-rivers-new-purpose.mp3",
+      "f0jz-nairn-falls-dam-and-generating-plant-a-nickel-barons-wartime-gamble.mp3",
+      "f0jz-nairn-falls-dam-and-generating-plant-the-company-town-that-vanished.mp3",
+      "f0jz-nairn-falls-dam-and-generating-plant-guarding-against-ghosts.mp3",
+      "f0jz-nairn-falls-dam-and-generating-plant-still-running-still-hidden.mp3"
+    ],
+    "durations": {
+      "f0jz-nairn-falls-dam-and-generating-plant-flight-context.mp3": 60.243625,
+      "f0jz-nairn-falls-dam-and-generating-plant-intro.mp3": 44.579875,
+      "f0jz-nairn-falls-dam-and-generating-plant-logs-rails-and-the-rivers-new-purpose.mp3": 58.6565833,
+      "f0jz-nairn-falls-dam-and-generating-plant-a-nickel-barons-wartime-gamble.mp3": 80.1224166,
+      "f0jz-nairn-falls-dam-and-generating-plant-the-company-town-that-vanished.mp3": 55.891,
+      "f0jz-nairn-falls-dam-and-generating-plant-guarding-against-ghosts.mp3": 52.2519166,
+      "f0jz-nairn-falls-dam-and-generating-plant-still-running-still-hidden.mp3": 65.8974166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

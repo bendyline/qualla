@@ -31,7 +31,7 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-saint-charles-wp",
     "sourceGeohash4": "f25g",
-    "smallPath": "_m/f/2/5/g/battle-of-saint-charles-wp/hero-small.jpg"
+    "smallPath": "_m/f/2/5/g/battle-of-saint-charles-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "A Fortified Pass - Colonel Wetherall Advancing to the Capture of St. Charles.jpg",
@@ -89,7 +89,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-saint-charles-wp",
       "sourceGeohash4": "f25g",
-      "smallPath": "_m/f/2/5/g/battle-of-saint-charles-wp/battle-of-saint-charles-small.jpg"
+      "smallPath": "_m/f/2/5/g/battle-of-saint-charles-wp/battle-of-saint-charles-small.webp"
     },
     {
       "filename": "Attack on St. Charles.jpg",
@@ -106,13 +106,33 @@
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-saint-charles-wp",
       "sourceGeohash4": "f25g",
-      "smallPath": "_m/f/2/5/g/battle-of-saint-charles-wp/attack-on-st-charles-small.jpg"
+      "smallPath": "_m/f/2/5/g/battle-of-saint-charles-wp/attack-on-st-charles-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/f/2/5/g/battle-of-saint-charles-wp/battle-of-saint-charles.jpg",
     "_m/f/2/5/g/battle-of-saint-charles-wp/attack-on-st-charles.jpg"
   ],
-  "fetchedAt": "2026-02-28T14:03:46.181Z",
-  "updatedAt": "2026-02-28T14:03:49.379Z"
+  "updatedAt": "2026-02-28T14:03:49.379Z",
+  "narration": {
+    "files": [
+      "f25g-battle-of-saint-charles-flight-context.mp3",
+      "f25g-battle-of-saint-charles-intro.mp3",
+      "f25g-battle-of-saint-charles-the-seigneuries-and-the-simmering.mp3",
+      "f25g-battle-of-saint-charles-a-fortified-camp-on-frozen-ground.mp3",
+      "f25g-battle-of-saint-charles-wetheralls-march-north.mp3",
+      "f25g-battle-of-saint-charles-two-hours-at-the-breastworks.mp3",
+      "f25g-battle-of-saint-charles-the-fires-after.mp3"
+    ],
+    "durations": {
+      "f25g-battle-of-saint-charles-flight-context.mp3": 53.706125,
+      "f25g-battle-of-saint-charles-intro.mp3": 37.6241666,
+      "f25g-battle-of-saint-charles-the-seigneuries-and-the-simmering.mp3": 65.3480416,
+      "f25g-battle-of-saint-charles-a-fortified-camp-on-frozen-ground.mp3": 54.7877916,
+      "f25g-battle-of-saint-charles-wetheralls-march-north.mp3": 63.8375,
+      "f25g-battle-of-saint-charles-two-hours-at-the-breastworks.mp3": 64.8605833,
+      "f25g-battle-of-saint-charles-the-fires-after.mp3": 63.3724583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

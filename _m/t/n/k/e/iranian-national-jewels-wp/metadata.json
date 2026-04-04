@@ -26,8 +26,8 @@
     "sourceType": "core",
     "sourceArticleId": "iranian-national-jewels-wp",
     "sourceGeohash4": "tnke",
-    "mediumPath": "_m/t/n/k/e/iranian-national-jewels-wp/hero-medium.jpg",
-    "smallPath": "_m/t/n/k/e/iranian-national-jewels-wp/hero-small.jpg"
+    "mediumPath": "_m/t/n/k/e/iranian-national-jewels-wp/hero-medium.webp",
+    "smallPath": "_m/t/n/k/e/iranian-national-jewels-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "The Daria-e Noor (Sea of Light) Diamond from the collection of the national jewels of Iran at Central Bank of Islamic Republic of Iran.jpg",
@@ -80,7 +80,7 @@
       "sourceType": "core",
       "sourceArticleId": "iranian-national-jewels-wp",
       "sourceGeohash4": "tnke",
-      "smallPath": "_m/t/n/k/e/iranian-national-jewels-wp/gallery-1-small.jpg"
+      "smallPath": "_m/t/n/k/e/iranian-national-jewels-wp/gallery-1-small.webp"
     },
     {
       "filename": "Irnc114-Teheran-Muzeum Klejnotów.jpg",
@@ -105,7 +105,7 @@
       "sourceType": "core",
       "sourceArticleId": "iranian-national-jewels-wp",
       "sourceGeohash4": "tnke",
-      "smallPath": "_m/t/n/k/e/iranian-national-jewels-wp/tehran-2017-photograph-small.jpg"
+      "smallPath": "_m/t/n/k/e/iranian-national-jewels-wp/tehran-2017-photograph-small.webp"
     },
     {
       "filename": "Golestan-qajar.jpg",
@@ -125,7 +125,7 @@
       "sourceType": "core",
       "sourceArticleId": "iranian-national-jewels-wp",
       "sourceGeohash4": "tnke",
-      "smallPath": "_m/t/n/k/e/iranian-national-jewels-wp/portrait-w-fat-h-ali-s-small.jpg"
+      "smallPath": "_m/t/n/k/e/iranian-national-jewels-wp/portrait-w-fat-h-ali-s-small.webp"
     },
     {
       "filename": "Mohammad Pahlavi Coronation.jpg",
@@ -158,7 +158,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "iranian-national-jewels-wp",
       "sourceGeohash4": "tnke",
-      "smallPath": "_m/t/n/k/e/iranian-national-jewels-wp/mohammad-pahlavi-coronation-small.jpg"
+      "smallPath": "_m/t/n/k/e/iranian-national-jewels-wp/mohammad-pahlavi-coronation-small.webp"
     },
     {
       "filename": "Coronation Necklace Iran.png",
@@ -175,7 +175,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "iranian-national-jewels-wp",
       "sourceGeohash4": "tnke",
-      "smallPath": "_m/t/n/k/e/iranian-national-jewels-wp/coronation-necklace-iran-small.png"
+      "smallPath": "_m/t/n/k/e/iranian-national-jewels-wp/coronation-necklace-iran-small.webp"
     },
     {
       "filename": "Emerald Necklace.png",
@@ -192,7 +192,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "iranian-national-jewels-wp",
       "sourceGeohash4": "tnke",
-      "smallPath": "_m/t/n/k/e/iranian-national-jewels-wp/emerald-necklace-small.png"
+      "smallPath": "_m/t/n/k/e/iranian-national-jewels-wp/emerald-necklace-small.webp"
     },
     {
       "filename": "Farah Cape.jpg",
@@ -209,7 +209,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "iranian-national-jewels-wp",
       "sourceGeohash4": "tnke",
-      "smallPath": "_m/t/n/k/e/iranian-national-jewels-wp/farah-cape-small.jpg"
+      "smallPath": "_m/t/n/k/e/iranian-national-jewels-wp/farah-cape-small.webp"
     }
   ],
   "galleryPaths": [
@@ -221,6 +221,26 @@
     "_m/t/n/k/e/iranian-national-jewels-wp/emerald-necklace.png",
     "_m/t/n/k/e/iranian-national-jewels-wp/farah-cape.jpg"
   ],
-  "fetchedAt": "2026-03-01T15:30:12.529Z",
-  "updatedAt": "2026-03-01T15:30:36.903Z"
+  "updatedAt": "2026-03-01T15:30:36.903Z",
+  "narration": {
+    "files": [
+      "tnke-iranian-national-jewels-flight-context.mp3",
+      "tnke-iranian-national-jewels-intro.mp3",
+      "tnke-iranian-national-jewels-plunder-and-reclamation.mp3",
+      "tnke-iranian-national-jewels-a-kingdoms-vanity-table.mp3",
+      "tnke-iranian-national-jewels-from-royal-vault-to-national-reserve.mp3",
+      "tnke-iranian-national-jewels-revolution-and-survival.mp3",
+      "tnke-iranian-national-jewels-the-weight-of-brilliance.mp3"
+    ],
+    "durations": {
+      "tnke-iranian-national-jewels-flight-context.mp3": 46.70225,
+      "tnke-iranian-national-jewels-intro.mp3": 38.4000833,
+      "tnke-iranian-national-jewels-plunder-and-reclamation.mp3": 65.188625,
+      "tnke-iranian-national-jewels-a-kingdoms-vanity-table.mp3": 55.6405416,
+      "tnke-iranian-national-jewels-from-royal-vault-to-national-reserve.mp3": 46.56925,
+      "tnke-iranian-national-jewels-revolution-and-survival.mp3": 56.28625,
+      "tnke-iranian-national-jewels-the-weight-of-brilliance.mp3": 59.4986666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

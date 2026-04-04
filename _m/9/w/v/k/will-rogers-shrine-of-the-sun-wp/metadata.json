@@ -23,7 +23,7 @@
     "sourceType": "core",
     "sourceArticleId": "will-rogers-shrine-of-the-sun-wp",
     "sourceGeohash4": "9wvk",
-    "smallPath": "_m/9/w/v/k/will-rogers-shrine-of-the-sun-wp/hero-small.jpg"
+    "smallPath": "_m/9/w/v/k/will-rogers-shrine-of-the-sun-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Will Rogers Shrine 2006-08-05.jpg",
@@ -106,8 +106,8 @@
       "sourceType": "core",
       "sourceArticleId": "will-rogers-shrine-of-the-sun-wp",
       "sourceGeohash4": "9wvk",
-      "smallPath": "_m/9/w/v/k/will-rogers-shrine-of-the-sun-wp/colorado-colorado-spri-small.jpg",
-      "mediumPath": "_m/9/w/v/k/will-rogers-shrine-of-the-sun-wp/colorado-colorado-spri-medium.jpg"
+      "smallPath": "_m/9/w/v/k/will-rogers-shrine-of-the-sun-wp/colorado-colorado-spri-small.webp",
+      "mediumPath": "_m/9/w/v/k/will-rogers-shrine-of-the-sun-wp/colorado-colorado-spri-medium.webp"
     },
     {
       "filename": "Will Rogers Shrine of the Sun, Cheyenne Mountain Zoo.jpg",
@@ -133,7 +133,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "will-rogers-shrine-of-the-sun-wp",
-      "sourceGeohash4": "9wvk"
+      "sourceGeohash4": "9wvk",
+      "mediumPath": "_m/9/w/v/k/will-rogers-shrine-of-the-sun-wp/will-rogers-shrine-of-the-sun--medium.webp",
+      "smallPath": "_m/9/w/v/k/will-rogers-shrine-of-the-sun-wp/will-rogers-shrine-of-the-sun--small.webp"
     },
     {
       "filename": "Colorado - Colorado Springs - NARA - 23935979.jpg",
@@ -148,7 +150,9 @@
       "dateCreated": "20 April 1941",
       "sourceType": "commons-category",
       "sourceArticleId": "will-rogers-shrine-of-the-sun-wp",
-      "sourceGeohash4": "9wvk"
+      "sourceGeohash4": "9wvk",
+      "mediumPath": "_m/9/w/v/k/will-rogers-shrine-of-the-sun-wp/colorado-colorado-springs-nara-medium.webp",
+      "smallPath": "_m/9/w/v/k/will-rogers-shrine-of-the-sun-wp/colorado-colorado-springs-nara-small.webp"
     },
     {
       "filename": "Cheyenne Mountain viewed by The Broadmoor.jpg",
@@ -165,7 +169,9 @@
       "dateCreated": "2025-10-02 15:28:47",
       "sourceType": "commons-category",
       "sourceArticleId": "will-rogers-shrine-of-the-sun-wp",
-      "sourceGeohash4": "9wvk"
+      "sourceGeohash4": "9wvk",
+      "mediumPath": "_m/9/w/v/k/will-rogers-shrine-of-the-sun-wp/cheyenne-mountain-viewed-by-th-medium.webp",
+      "smallPath": "_m/9/w/v/k/will-rogers-shrine-of-the-sun-wp/cheyenne-mountain-viewed-by-th-small.webp"
     }
   ],
   "galleryPaths": [
@@ -175,7 +181,6 @@
     "_m/9/w/v/k/will-rogers-shrine-of-the-sun-wp/colorado-colorado-springs-nara.jpg",
     "_m/9/w/v/k/will-rogers-shrine-of-the-sun-wp/cheyenne-mountain-viewed-by-th.jpg"
   ],
-  "fetchedAt": "2026-02-22T00:11:08.022Z",
   "narration": {
     "files": [
       "9wvk-will-rogers-shrine-of-the-sun-flight-context.mp3",
@@ -195,8 +200,7 @@
       "9wvk-will-rogers-shrine-of-the-sun-the-chapel-below.mp3": 53.0780416,
       "9wvk-will-rogers-shrine-of-the-sun-chimes-over-the-valley.mp3": 48.0699583
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T21:21:53.090Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T00:11:12.522Z"
 }

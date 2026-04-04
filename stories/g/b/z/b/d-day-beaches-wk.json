@@ -80,24 +80,24 @@
   ],
   "directionalNeighbors": {
     "nw": {
-      "id": "stonehenge-mystery-wk",
-      "title": "Stonehenge: The Mystery That Won't Die",
-      "tile": "gcne",
+      "id": "carisbrooke-castle-wp",
+      "title": "Carisbrooke Castle",
+      "tile": "gcp0",
       "coordinates": {
-        "lat": 51.1789,
-        "lng": -1.8262
+        "lat": 50.6875,
+        "lng": -1.31389
       },
-      "distanceKm": 195.8
+      "distanceKm": 131.6
     },
     "n": {
-      "id": "carrington-event-wk",
-      "title": "The Carrington Event: The Solar Storm That Could Happen Again",
-      "tile": "gcpg",
+      "id": "brighton-palace-pier-wp",
+      "title": "Brighton Palace Pier",
+      "tile": "gcpc",
       "coordinates": {
-        "lat": 51.2404,
-        "lng": -0.1708
+        "lat": 50.8164,
+        "lng": -0.137222
       },
-      "distanceKm": 185.7
+      "distanceKm": 138.6
     },
     "ne": {
       "id": "kent-wk",
@@ -120,14 +120,14 @@
       "distanceKm": 118.3
     },
     "e": {
-      "id": "paris-wk",
-      "title": "Paris",
-      "tile": "u09t",
+      "id": "battle-of-cocherel-wp",
+      "title": "Battle of Cocherel",
+      "tile": "u08z",
       "coordinates": {
-        "lat": 48.856,
-        "lng": 2.351
+        "lat": 49.059,
+        "lng": 1.342
       },
-      "distanceKm": 154
+      "distanceKm": 77.1
     },
     "sw": {
       "id": "mont-saint-michel-wk",
@@ -140,24 +140,24 @@
       "distanceKm": 74.5
     },
     "s": {
-      "id": "notre-dame-wk",
-      "title": "Notre-Dame: The Cathedral That Burned and Rose Again",
-      "tile": "u09t",
+      "id": "1955-le-mans-disaster-wp",
+      "title": "1955 Le Mans Disaster",
+      "tile": "u080",
       "coordinates": {
-        "lat": 48.853,
-        "lng": 2.3499
+        "lat": 47.9499,
+        "lng": 0.207222
       },
-      "distanceKm": 185.6
+      "distanceKm": 124.8
     },
     "se": {
-      "id": "versailles-wk",
-      "title": "Versailles: The Palace That Bankrupted France",
-      "tile": "u09t",
+      "id": "battle-of-verneuil-wp",
+      "title": "Battle of Verneuil",
+      "tile": "u08t",
       "coordinates": {
-        "lat": 48.8049,
-        "lng": 2.1204
+        "lat": 48.755,
+        "lng": 0.94
       },
-      "distanceKm": 131.9
+      "distanceKm": 53.6
     }
   }
 }

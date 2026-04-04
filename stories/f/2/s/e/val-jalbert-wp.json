@@ -107,24 +107,24 @@
       "distanceKm": 755.5
     },
     "n": {
-      "id": "algoma-central-railway-wp",
-      "title": "Algoma Central Railway",
-      "tile": "f0sp",
+      "id": "fort-ramsay-wp",
+      "title": "Fort Ramsay",
+      "tile": "f8dj",
       "coordinates": {
-        "lat": 49.05916666666666,
-        "lng": -84.10388888888889
+        "lat": 48.825,
+        "lng": -64.444
       },
-      "distanceKm": 867.3
+      "distanceKm": 571.9
     },
     "ne": {
-      "id": "trans-labrador-highway-wk",
-      "title": "Trans-Labrador Highway",
-      "tile": "f92m",
+      "id": "chic-chocs-wildlife-reserve-wp",
+      "title": "Chic-Chocs Wildlife Reserve",
+      "tile": "f89n",
       "coordinates": {
-        "lat": 52.95,
-        "lng": -66.9
+        "lat": 48.9375,
+        "lng": -65.83
       },
-      "distanceKm": 581.8
+      "distanceKm": 431.9
     },
     "w": {
       "id": "bicolline-wp",
@@ -176,5 +176,6 @@
       },
       "distanceKm": 95.1
     }
-  }
+  },
+  "locationWikipediaPath": "f/2/s/e/val-jalbert-wp"
 }

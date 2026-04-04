@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/c/2/3/6/mount-rainier-national-park-wk/c236-mount-rainier-national-park-intro.mp3",
-        "_m/c/2/3/6/mount-rainier-national-park-wk/c236-mount-rainier-national-park-fire-below.mp3",
         "_m/c/2/3/6/mount-rainier-national-park-wk/c236-mount-rainier-national-park-flight-context.mp3",
-        "_m/c/2/3/6/mount-rainier-national-park-wk/c236-mount-rainier-national-park-paradise-found.mp3",
+        "_m/c/2/3/6/mount-rainier-national-park-wk/c236-mount-rainier-national-park-intro.mp3",
         "_m/c/2/3/6/mount-rainier-national-park-wk/c236-mount-rainier-national-park-rivers-of-ice.mp3",
-        "_m/c/2/3/6/mount-rainier-national-park-wk/c236-mount-rainier-national-park-the-living-mountain.mp3",
-        "_m/c/2/3/6/mount-rainier-national-park-wk/c236-mount-rainier-national-park-the-summit.mp3"
+        "_m/c/2/3/6/mount-rainier-national-park-wk/c236-mount-rainier-national-park-fire-below.mp3",
+        "_m/c/2/3/6/mount-rainier-national-park-wk/c236-mount-rainier-national-park-paradise-found.mp3",
+        "_m/c/2/3/6/mount-rainier-national-park-wk/c236-mount-rainier-national-park-the-summit.mp3",
+        "_m/c/2/3/6/mount-rainier-national-park-wk/c236-mount-rainier-national-park-the-living-mountain.mp3"
       ],
       "hero": {
         "path": "_m/c/2/3/6/mount-rainier-national-park-wp/mount-rainier-6909h.jpg",
@@ -39,7 +39,9 @@
           "Mount Rainier in 2013",
           "Sourdough Mountains",
           "Taken with Canon EOS 450D"
-        ]
+        ],
+        "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/hero-medium.webp",
+        "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/hero-small.webp"
       },
       "images": [
         {
@@ -68,7 +70,7 @@
             "Photographs taken on 2006-11-08",
             "Taken with Nikon Coolpix 5700"
           ],
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/little-tahoma-seen-mou-small.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/little-tahoma-seen-mou-small.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/little-tahoma-22821.jpg",
@@ -151,7 +153,7 @@
             "The Great Room, Paradise Inn",
             "United States photographs taken on 2008-05-31"
           ],
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/great-room-historic-pa-small.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/great-room-historic-pa-small.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/green-lake-trail-mt-ra.jpg",
@@ -178,8 +180,8 @@
             "Taken with Canon PowerShot S30",
             "United States photographs taken on 2006-05-26"
           ],
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/green-lake-trail-mt-ra-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/green-lake-trail-mt-ra-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/green-lake-trail-mt-ra-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/green-lake-trail-mt-ra-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/national-park-inn-moun.jpg",
@@ -196,8 +198,8 @@
           "sourceArticleId": "mount-rainier-national-park-wk",
           "sourceGeohash4": "c236",
           "accessedAt": "2026-02-22T01:56:11.846Z",
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/national-park-inn-moun-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/national-park-inn-moun-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/national-park-inn-moun-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/national-park-inn-moun-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/paradise-river-near-so.jpg",
@@ -214,8 +216,8 @@
           "sourceArticleId": "mount-rainier-national-park-wk",
           "sourceGeohash4": "c236",
           "accessedAt": "2026-02-22T01:56:11.846Z",
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/paradise-river-near-so-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/paradise-river-near-so-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/paradise-river-near-so-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/paradise-river-near-so-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/paradise-inn-paradise.jpg",
@@ -232,8 +234,8 @@
           "sourceArticleId": "mount-rainier-national-park-wk",
           "sourceGeohash4": "c236",
           "accessedAt": "2026-02-22T01:56:11.846Z",
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/paradise-inn-paradise-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/paradise-inn-paradise-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/paradise-inn-paradise-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/paradise-inn-paradise-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national.jpg",
@@ -250,8 +252,8 @@
           "sourceArticleId": "mount-rainier-national-park-wk",
           "sourceGeohash4": "c236",
           "accessedAt": "2026-02-22T01:56:11.846Z",
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/ohanapecosh-campground.jpg",
@@ -268,8 +270,8 @@
           "sourceArticleId": "mount-rainier-national-park-wk",
           "sourceGeohash4": "c236",
           "accessedAt": "2026-02-22T01:56:11.846Z",
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/ohanapecosh-campground-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/ohanapecosh-campground-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/ohanapecosh-campground-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/ohanapecosh-campground-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/education-intern-emily.jpg",
@@ -286,8 +288,8 @@
           "sourceArticleId": "mount-rainier-national-park-wk",
           "sourceGeohash4": "c236",
           "accessedAt": "2026-02-22T01:56:11.846Z",
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/education-intern-emily-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/education-intern-emily-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/education-intern-emily-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/education-intern-emily-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-adams-23093.jpg",
@@ -314,8 +316,8 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FZ5"
           ],
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-adams-23093-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-adams-23093-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-adams-23093-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-adams-23093-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/avalanche-chute-5952.jpg",
@@ -343,8 +345,8 @@
             "Self-published work",
             "Taken with Canon EOS 450D"
           ],
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/avalanche-chute-5952-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/avalanche-chute-5952-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/avalanche-chute-5952-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/avalanche-chute-5952-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/avalanche-chute-5956.jpg",
@@ -372,8 +374,8 @@
             "Self-published work",
             "Taken with Canon EOS 450D"
           ],
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/avalanche-chute-5956-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/avalanche-chute-5956-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/avalanche-chute-5956-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/avalanche-chute-5956-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-model-04.jpg",
@@ -398,8 +400,8 @@
             "Self-published work",
             "Taken with Nikon D5000"
           ],
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-model-04-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-model-04-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-model-04-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-model-04-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/glacial-valley-3735730413.jpg",
@@ -426,8 +428,8 @@
             "Taken with Canon EOS 40D",
             "Valleys"
           ],
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/glacial-valley-3735730413-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/glacial-valley-3735730413-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/glacial-valley-3735730413-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/glacial-valley-3735730413-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-01.jpg",
@@ -456,8 +458,8 @@
             "United States photographs taken on 2012-05-24",
             "Uploaded via Campaign:wlm-us-other"
           ],
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-01-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-01-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-01-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-01-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-32.jpg",
@@ -474,8 +476,8 @@
           "sourceArticleId": "mount-rainier-national-park-wk",
           "sourceGeohash4": "c236",
           "accessedAt": "2026-02-22T01:56:11.846Z",
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-32-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-32-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-32-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-32-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-32-1.jpg",
@@ -492,8 +494,8 @@
           "sourceArticleId": "mount-rainier-national-park-wk",
           "sourceGeohash4": "c236",
           "accessedAt": "2026-02-22T01:56:11.846Z",
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-32-1-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-32-1-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-32-1-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-32-1-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/looking-down-to-west-side-1456.jpg",
@@ -510,7 +512,7 @@
           "sourceArticleId": "mount-rainier-national-park-wk",
           "sourceGeohash4": "c236",
           "accessedAt": "2026-02-22T01:56:11.846Z",
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/looking-down-to-west-side-1456-small.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/looking-down-to-west-side-1456-small.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-92.jpg",
@@ -527,8 +529,8 @@
           "sourceArticleId": "mount-rainier-national-park-wk",
           "sourceGeohash4": "c236",
           "accessedAt": "2026-02-22T01:56:11.846Z",
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-92-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-92-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-92-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-92-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-92-1.jpg",
@@ -545,8 +547,8 @@
           "sourceArticleId": "mount-rainier-national-park-wk",
           "sourceGeohash4": "c236",
           "accessedAt": "2026-02-22T01:56:11.846Z",
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-92-1-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-92-1-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-92-1-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mount-rainier-national-park-92-1-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/from-above-glacier-vista-4a50a.jpg",
@@ -563,8 +565,8 @@
           "sourceArticleId": "mount-rainier-national-park-wk",
           "sourceGeohash4": "c236",
           "accessedAt": "2026-02-22T01:56:11.846Z",
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/from-above-glacier-vista-4a50a-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/from-above-glacier-vista-4a50a-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/from-above-glacier-vista-4a50a-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/from-above-glacier-vista-4a50a-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/hillside-at-4th-crossing-with-.jpg",
@@ -581,8 +583,8 @@
           "sourceArticleId": "mount-rainier-national-park-wk",
           "sourceGeohash4": "c236",
           "accessedAt": "2026-02-22T01:56:11.846Z",
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/hillside-at-4th-crossing-with--small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/hillside-at-4th-crossing-with--medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/hillside-at-4th-crossing-with--small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/hillside-at-4th-crossing-with--medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/knob-west-of-seymour-near-dewe.jpg",
@@ -599,8 +601,8 @@
           "sourceArticleId": "mount-rainier-national-park-wk",
           "sourceGeohash4": "c236",
           "accessedAt": "2026-02-22T01:56:11.846Z",
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/knob-west-of-seymour-near-dewe-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/knob-west-of-seymour-near-dewe-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/knob-west-of-seymour-near-dewe-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/knob-west-of-seymour-near-dewe-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/mist-fresh-snow-on-lower-mount.jpg",
@@ -617,8 +619,8 @@
           "sourceArticleId": "mount-rainier-national-park-wk",
           "sourceGeohash4": "c236",
           "accessedAt": "2026-02-22T01:56:11.846Z",
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mist-fresh-snow-on-lower-mount-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mist-fresh-snow-on-lower-mount-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mist-fresh-snow-on-lower-mount-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/mist-fresh-snow-on-lower-mount-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/fir-tree-and-shadow-against-an.jpg",
@@ -635,8 +637,8 @@
           "sourceArticleId": "mount-rainier-national-park-wk",
           "sourceGeohash4": "c236",
           "accessedAt": "2026-02-22T01:56:11.846Z",
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/fir-tree-and-shadow-against-an-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/fir-tree-and-shadow-against-an-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/fir-tree-and-shadow-against-an-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/fir-tree-and-shadow-against-an-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/lava-strata-eb7270b6a0fa4d38b8.jpg",
@@ -653,8 +655,8 @@
           "sourceArticleId": "mount-rainier-national-park-wk",
           "sourceGeohash4": "c236",
           "accessedAt": "2026-02-22T01:56:11.846Z",
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/lava-strata-eb7270b6a0fa4d38b8-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/lava-strata-eb7270b6a0fa4d38b8-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/lava-strata-eb7270b6a0fa4d38b8-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/lava-strata-eb7270b6a0fa4d38b8-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/dated-111981-slide-ec52e353982.jpg",
@@ -671,7 +673,7 @@
           "sourceArticleId": "mount-rainier-national-park-wk",
           "sourceGeohash4": "c236",
           "accessedAt": "2026-02-22T01:56:11.846Z",
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/dated-111981-slide-ec52e353982-small.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/dated-111981-slide-ec52e353982-small.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/falling-snow-on-rock-and-color.jpg",
@@ -688,8 +690,8 @@
           "sourceArticleId": "mount-rainier-national-park-wk",
           "sourceGeohash4": "c236",
           "accessedAt": "2026-02-22T01:56:11.846Z",
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/falling-snow-on-rock-and-color-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/falling-snow-on-rock-and-color-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/falling-snow-on-rock-and-color-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/falling-snow-on-rock-and-color-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wk/lone-tree-above-snow-field-a62.jpg",
@@ -706,8 +708,8 @@
           "sourceArticleId": "mount-rainier-national-park-wk",
           "sourceGeohash4": "c236",
           "accessedAt": "2026-02-22T01:56:11.846Z",
-          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/lone-tree-above-snow-field-a62-small.jpg",
-          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/lone-tree-above-snow-field-a62-medium.jpg"
+          "smallPath": "_m/c/2/3/6/mount-rainier-national-park-wk/lone-tree-above-snow-field-a62-small.webp",
+          "mediumPath": "_m/c/2/3/6/mount-rainier-national-park-wk/lone-tree-above-snow-field-a62-medium.webp"
         },
         {
           "path": "_m/c/2/3/6/mount-rainier-national-park-wp/ohanapecosh-glacier-22942.jpg",
@@ -986,7 +988,8 @@
             "aerialBonus": 0
           }
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/3/6/mount-rainier-national-park-wk/c236-mount-rainier-national-park-combined.mp3"
     }
   }
 }

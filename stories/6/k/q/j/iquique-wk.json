@@ -1,0 +1,166 @@
+{
+  "id": "iquique-wk",
+  "source": "wikipedia",
+  "sourceId": "15711",
+  "title": "Iquique",
+  "slug": "iquique",
+  "summary": "A Chilean port city wedged between the Atacama Desert and the Pacific, Iquique rose on saltpeter wealth, bore witness to war and massacre, and reinvented itself as a duty-free beach resort.",
+  "content": {
+    "intro": "The desert ends abruptly here. One moment there is nothing but sand and rock stretching eastward toward the Andes; the next, a city of 191,000 people tumbles down a coastal escarpment to meet the Pacific. Iquique exists because of what lies beneath the pampa behind it -- sodium nitrate, the \"white gold\" that made fortunes, started wars, and left ghost towns scattered across the driest desert on Earth. That the city survived the collapse of the saltpeter industry at all is a testament to Chilean stubbornness and the enduring appeal of warm water, steady sunshine, and tax-free shopping.",
+    "sections": [
+      {
+        "title": "White Gold and Foreign Fortunes",
+        "body": "Iquique was a Peruvian city when the saltpeter boom began in the mid-nineteenth century, drawing European entrepreneurs, Chilean laborers, and Chinese workers brought under conditions of near-slavery to extract nitrate from the desert floor. The mining wealth reshaped the city. European businessmen built grand homes and social clubs downtown -- the Spanish Casino, the Croatian Casino, the Chinese Club -- each colony importing its architectural fashions and adapting them to the coastal desert climate. The Municipal Theatre, one of the finest in Chile, rose as a monument to the cultural ambitions of a mining elite flush with nitrate profits. When Chile seized Iquique from Peru during the War of the Pacific in 1879-1883, the city's population was already cosmopolitan, its economy already global, and its architecture already a catalogue of nineteenth-century European styles rendered in imported Oregon pine and corrugated iron."
+      },
+      {
+        "title": "Battleground and Burial Ground",
+        "body": "History pressed hard on Iquique. The naval battle of May 21, 1879, which saw Chilean captain Arturo Prat leap onto the deck of the Peruvian ironclad Huascar and die fighting, became a founding myth of Chilean nationhood -- commemorated every year as Naval Glories Day. Less celebrated for decades was what happened on December 21, 1907, when thousands of striking nitrate miners, accompanied by their wives and children, gathered at the Domingo Santa Maria School to demand better conditions. General Roberto Silva Renard gave them one hour to disperse. They refused. The army opened fire with rifles and machine guns. The estimated death toll exceeds two thousand. For most of the twentieth century, the Chilean government suppressed knowledge of the Santa Maria School massacre. It was not until 2007 that President Bachelet declared a national day of mourning to mark its centenary."
+      },
+      {
+        "title": "Reinvention on the Pacific",
+        "body": "When Fritz Haber's synthetic nitrogen process rendered Chilean saltpeter obsolete in the early twentieth century, cities across the Norte Grande withered. Iquique survived by pivoting. Today it is one of Chile's two free ports -- the other is Punta Arenas at the continent's southern tip -- and the Zofri duty-free zone draws shoppers from across northern Chile and neighboring Bolivia. The beaches do the rest. Playa Cavancha stretches along the city's waterfront, its reliable waves drawing surfers year-round, while the more exposed Playa Brava carries submarine tides too dangerous for swimming but spectacular to watch. The food reflects the city's layered immigrant history: Chifa restaurants around the Mercado carry the influence of Chinese descendants, and the local specialty chumbeque -- layers of fried dough filled with fruit caramel -- was invented by their community. A Pisco Sour made with lemons from nearby Pica remains the signature drink."
+      },
+      {
+        "title": "Desert Ghosts Nearby",
+        "body": "Forty-eight kilometers east, the Atacama swallows the remains of Humberstone and Santa Laura, abandoned saltpeter works now designated a UNESCO World Heritage Site. These ghost towns preserve the entire apparatus of nitrate extraction and the company-town life that surrounded it -- theaters, churches, swimming pools, workers' dwellings -- all slowly dissolving in the driest air on the planet. They are Iquique's mirror image: what the city might have become without the ocean, without the free port, without the ability to transform itself. The road between them is one of the most striking drives in South America, a straight line through absolute desolation connecting a living city to its abandoned past."
+      }
+    ],
+    "flightContext": "Located at 20.21S, 70.15W on the northern Chilean coast. Diego Aracena Airport (SCDA) serves the city, situated about 40 km south. Approach from the east over the Atacama Desert for dramatic contrast between barren pampa and coastal city. At cruising altitude, the long straight coast and the escarpment behind the city are clearly visible. The Humberstone saltpeter works are visible 48 km inland. Nearby cities include Arica (SCAR) 310 km north and Antofagasta (SCFA) 440 km south."
+  },
+  "location": {
+    "coordinates": {
+      "lat": -20.2141,
+      "lng": -70.1524
+    },
+    "geohash": "6kqj5"
+  },
+  "categories": [
+    "cities",
+    "history",
+    "coastal",
+    "mining"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-23T00:00:00Z",
+    "wordCount": 720,
+    "readTime": 4,
+    "firstPublished": "2026-03-23T00:00:00Z",
+    "storyNumber": 11611
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Santa María School massacre - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_School_massacre",
+      "accessedAt": "2026-03-26",
+      "claimsVerified": [
+        "massacre date December 21 1907 confirmed",
+        "death toll estimates exceed 2,000 confirmed",
+        "General Roberto Silva Renard commanded troops confirmed",
+        "President Bachelet national day of mourning 2007 centenary confirmed"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Humberstone and Santa Laura Saltpeter Works - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Humberstone_and_Santa_Laura_Saltpeter_Works",
+      "accessedAt": "2026-03-26",
+      "claimsVerified": [
+        "UNESCO World Heritage Site designation confirmed",
+        "48 km east of Iquique confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 3,
+    "strongOpinions": [
+      "'white gold' framing for saltpeter",
+      "survival described as 'testament to Chilean stubbornness'",
+      "Santa Maria massacre framed as suppressed for decades"
+    ]
+  },
+  "locationWikipediaPath": "6/k/q/j/iquique-province-wp",
+  "locationWikivoyagePath": "6/k/q/j/iquique-wk",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "chiribaya-culture-wp",
+      "title": "Chiribaya Culture",
+      "tile": "6kv9",
+      "coordinates": {
+        "lat": -18,
+        "lng": -71
+      },
+      "distanceKm": 210.2
+    },
+    "n": {
+      "id": "battle-of-san-francisco-wp",
+      "title": "Battle of San Francisco",
+      "tile": "6kw2",
+      "coordinates": {
+        "lat": -19.66666667,
+        "lng": -69.95
+      },
+      "distanceKm": 29.3
+    },
+    "ne": {
+      "id": "guallatiri-wp",
+      "title": "Guallatiri",
+      "tile": "6kwz",
+      "coordinates": {
+        "lat": -18.42361111111111,
+        "lng": -69.08972222222222
+      },
+      "distanceKm": 169.1
+    },
+    "w": {
+      "id": "cerro-baul-wp",
+      "title": "Cerro Baul",
+      "tile": "6kvw",
+      "coordinates": {
+        "lat": -17.113845,
+        "lng": -70.862418
+      },
+      "distanceKm": 335.7
+    },
+    "e": {
+      "id": "salar-del-huasco-wp",
+      "title": "Salar del Huasco",
+      "tile": "6krh",
+      "coordinates": {
+        "lat": -20.3,
+        "lng": -68.85
+      },
+      "distanceKm": 81.5
+    },
+    "sw": {
+      "id": "battle-of-angamos-wp",
+      "title": "Battle of Angamos",
+      "tile": "67vt",
+      "coordinates": {
+        "lat": -23,
+        "lng": -71
+      },
+      "distanceKm": 292.2
+    },
+    "s": {
+      "id": "codelco-wp",
+      "title": "Codelco",
+      "tile": "6kp5",
+      "coordinates": {
+        "lat": -21.9205,
+        "lng": -68.8333
+      },
+      "distanceKm": 217.3
+    },
+    "se": {
+      "id": "alto-loa-national-reserve-wp",
+      "title": "Alto Loa National Reserve",
+      "tile": "6kpm",
+      "coordinates": {
+        "lat": -21.45,
+        "lng": -68.55
+      },
+      "distanceKm": 161.2
+    }
+  }
+}

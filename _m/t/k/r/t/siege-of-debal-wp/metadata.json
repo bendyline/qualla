@@ -52,5 +52,21 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T11:05:06.880Z"
+  "narration": {
+    "files": [
+      "tkrt-siege-of-debal-flight-context.mp3",
+      "tkrt-siege-of-debal-intro.mp3",
+      "tkrt-siege-of-debal-a-port-at-the-edge-of-empires.mp3",
+      "tkrt-siege-of-debal-the-caliphs-distant-hand.mp3",
+      "tkrt-siege-of-debal-the-gateway-swings-open.mp3"
+    ],
+    "durations": {
+      "tkrt-siege-of-debal-flight-context.mp3": 36.3899166,
+      "tkrt-siege-of-debal-intro.mp3": 38.500625,
+      "tkrt-siege-of-debal-a-port-at-the-edge-of-empires.mp3": 42.5997083,
+      "tkrt-siege-of-debal-the-caliphs-distant-hand.mp3": 42.867375,
+      "tkrt-siege-of-debal-the-gateway-swings-open.mp3": 43.7156666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

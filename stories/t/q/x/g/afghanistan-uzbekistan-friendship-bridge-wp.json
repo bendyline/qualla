@@ -54,19 +54,42 @@
       "title": "Afghanistan-Uzbekistan Friendship Bridge - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Afghanistan%E2%80%93Uzbekistan_Friendship_Bridge",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Opened May 12, 1982 confirmed", "Babrak Karmal and Sharof Rashidov ceremony confirmed", "replaced temporary pontoon crossing confirmed", "75 km north of Mazar-i-Sharif confirmed", "Soviet railway extension plans confirmed", "CIA/ISI demolition plans and Zia-ul-Haq veto confirmed", "Corrected: bridge reopened December 9 2001 (not just 2009); closed again 2005; reopened 2009 in poor condition", "January 2010 rail extension work started confirmed", "November 2010 rail line completed confirmed", "first train 2011 for NATO ISAF confirmed", "ADB World Bank IMF funding confirmed", "2019 peace negotiations Taliban rail link agreement confirmed", "2021 Taliban takeover Uzbek refusal to allow Afghan officials asylum confirmed", "Corrected: trade routes to Uzbekistan (not Tajikistan)"]
+      "claimsVerified": [
+        "Opened May 12, 1982 confirmed",
+        "Babrak Karmal and Sharof Rashidov ceremony confirmed",
+        "replaced temporary pontoon crossing confirmed",
+        "75 km north of Mazar-i-Sharif confirmed",
+        "Soviet railway extension plans confirmed",
+        "CIA/ISI demolition plans and Zia-ul-Haq veto confirmed",
+        "Corrected: bridge reopened December 9 2001 (not just 2009); closed again 2005; reopened 2009 in poor condition",
+        "January 2010 rail extension work started confirmed",
+        "November 2010 rail line completed confirmed",
+        "first train 2011 for NATO ISAF confirmed",
+        "ADB World Bank IMF funding confirmed",
+        "2019 peace negotiations Taliban rail link agreement confirmed",
+        "2021 Taliban takeover Uzbek refusal to allow Afghan officials asylum confirmed",
+        "Corrected: trade routes to Uzbekistan (not Tajikistan)"
+      ]
     },
     {
       "type": "verification",
       "title": "CNN - Aid flows as key Afghan border bridge re-opens - December 9, 2001",
       "url": "https://edition.cnn.com/2001/WORLD/asiapcf/central/12/09/gen.uzbek.bridge/index.html",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Bridge reopened December 9 2001 confirmed", "Uzbek Railways shipment of 1000 tons of grain confirmed"]
+      "claimsVerified": [
+        "Bridge reopened December 9 2001 confirmed",
+        "Uzbek Railways shipment of 1000 tons of grain confirmed"
+      ]
     }
   ],
   "editorial": {
     "spiciness": 3,
-    "strongOpinions": ["called 'Friendship Bridge' with the word 'friendship' carrying the weight of a euphemism", "a supply line for a war", "a closed gate for those fleeing the very forces it had once been designed to fight", "a thin angular line... a modest piece of engineering that has carried the weight of empires"]
+    "strongOpinions": [
+      "called 'Friendship Bridge' with the word 'friendship' carrying the weight of a euphemism",
+      "a supply line for a war",
+      "a closed gate for those fleeing the very forces it had once been designed to fight",
+      "a thin angular line... a modest piece of engineering that has carried the weight of empires"
+    ]
   },
   "directionalNeighbors": {
     "nw": {
@@ -90,14 +113,14 @@
       "distanceKm": 33.8
     },
     "ne": {
-      "id": "baotou-wk",
-      "title": "Baotou",
-      "tile": "wrnp",
+      "id": "yaghnob-valley-wp",
+      "title": "Yaghnob Valley",
+      "tile": "twcp",
       "coordinates": {
-        "lat": 40.656,
-        "lng": 109.834
+        "lat": 39.2,
+        "lng": 69
       },
-      "distanceKm": 3608.6
+      "distanceKm": 219.7
     },
     "w": {
       "id": "battle-of-andkhud-wp",
@@ -110,14 +133,14 @@
       "distanceKm": 150.4
     },
     "e": {
-      "id": "jaipur-wk",
-      "title": "Jaipur",
-      "tile": "tsvc",
+      "id": "1982-salang-tunnel-fire-wp",
+      "title": "1982 Salang Tunnel Fire",
+      "tile": "tw30",
       "coordinates": {
-        "lat": 26.9124,
-        "lng": 75.7873
+        "lat": 35.32219722,
+        "lng": 69.02686667
       },
-      "distanceKm": 1363.4
+      "distanceKm": 231.7
     },
     "sw": {
       "id": "dasht-i-leili-massacre-wp",
@@ -140,14 +163,15 @@
       "distanceKm": 29.7
     },
     "se": {
-      "id": "jodhpur-wk",
-      "title": "Jodhpur",
-      "tile": "tsev",
+      "id": "battle-of-kunduz-2015-wp",
+      "title": "Battle of Kunduz (2015)",
+      "tile": "tw8b",
       "coordinates": {
-        "lat": 26.2389,
-        "lng": 73.0243
+        "lat": 36.733333333333,
+        "lng": 68.866666666667
       },
-      "distanceKm": 1283.6
+      "distanceKm": 92.6
     }
-  }
+  },
+  "locationWikipediaPath": "t/q/x/g/afghanistan-uzbekistan-friendship-bridge-wp"
 }

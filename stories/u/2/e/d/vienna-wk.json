@@ -100,14 +100,14 @@
       "distanceKm": 203.1
     },
     "n": {
-      "id": "berlin-wk",
-      "title": "Berlin",
-      "tile": "u33d",
+      "id": "bieszczady-national-park-wk",
+      "title": "Bieszczady National Park",
+      "tile": "u88p",
       "coordinates": {
-        "lat": 52.51794,
-        "lng": 13.38873
+        "lat": 49.1125,
+        "lng": 22.664722222222224
       },
-      "distanceKm": 491.7
+      "distanceKm": 467.1
     },
     "ne": {
       "id": "auschwitz-wk",
@@ -120,14 +120,14 @@
       "distanceKm": 238.5
     },
     "w": {
-      "id": "salzburg-wk",
-      "title": "Salzburg",
-      "tile": "u23r",
+      "id": "anschluss-wp",
+      "title": "The Anschluss: When Austria Vanished Overnight",
+      "tile": "u299",
       "coordinates": {
-        "lat": 47.8095,
-        "lng": 13.055
+        "lat": 48.115992,
+        "lng": 13.593897
       },
-      "distanceKm": 211.4
+      "distanceKm": 165.7
     },
     "e": {
       "id": "krakow-wk",
@@ -140,6 +140,16 @@
       "distanceKm": 300.7
     },
     "sw": {
+      "id": "lake-toplitz-wp",
+      "title": "Lake Toplitz: The Alpine Lake That Swallowed Nazi Secrets",
+      "tile": "u23z",
+      "coordinates": {
+        "lat": 47.641667,
+        "lng": 13.927778
+      },
+      "distanceKm": 146.5
+    },
+    "s": {
       "id": "hallstatt-wk",
       "title": "Hallstatt",
       "tile": "u23w",
@@ -147,17 +157,7 @@
         "lat": 47.5622,
         "lng": 13.6493
       },
-      "distanceKm": 169
-    },
-    "s": {
-      "id": "zagreb-wk",
-      "title": "Zagreb",
-      "tile": "u25k",
-      "coordinates": {
-        "lat": 45.815,
-        "lng": 15.9819
-      },
-      "distanceKm": 243.2
+      "distanceKm": 207.1
     },
     "se": {
       "id": "budapest-wk",

@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/4/w/0/4/cabo-de-hornos-national-park-wk/4w04-cabo-de-hornos-national-park-intro.mp3",
-        "_m/4/w/0/4/cabo-de-hornos-national-park-wk/4w04-cabo-de-hornos-national-park-beyond-panama.mp3",
         "_m/4/w/0/4/cabo-de-hornos-national-park-wk/4w04-cabo-de-hornos-national-park-flight-context.mp3",
+        "_m/4/w/0/4/cabo-de-hornos-national-park-wk/4w04-cabo-de-hornos-national-park-intro.mp3",
+        "_m/4/w/0/4/cabo-de-hornos-national-park-wk/4w04-cabo-de-hornos-national-park-the-uttermost-cape.mp3",
+        "_m/4/w/0/4/cabo-de-hornos-national-park-wk/4w04-cabo-de-hornos-national-park-the-sailors-graveyard.mp3",
         "_m/4/w/0/4/cabo-de-hornos-national-park-wk/4w04-cabo-de-hornos-national-park-the-lighthouse-keepers.mp3",
         "_m/4/w/0/4/cabo-de-hornos-national-park-wk/4w04-cabo-de-hornos-national-park-the-park.mp3",
-        "_m/4/w/0/4/cabo-de-hornos-national-park-wk/4w04-cabo-de-hornos-national-park-the-sailors-graveyard.mp3",
-        "_m/4/w/0/4/cabo-de-hornos-national-park-wk/4w04-cabo-de-hornos-national-park-the-uttermost-cape.mp3"
+        "_m/4/w/0/4/cabo-de-hornos-national-park-wk/4w04-cabo-de-hornos-national-park-beyond-panama.mp3"
       ],
       "hero": {
         "path": "_m/4/w/0/4/cabo-de-hornos-national-park-wk/hero.jpg",
@@ -33,7 +33,7 @@
           "Landforms of Chile",
           "PD-user"
         ],
-        "smallPath": "_m/4/w/0/4/cabo-de-hornos-national-park-wk/hero-small.jpg"
+        "smallPath": "_m/4/w/0/4/cabo-de-hornos-national-park-wk/hero-small.webp"
       },
       "images": [
         {
@@ -57,8 +57,8 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FZ20"
           ],
-          "smallPath": "_m/4/w/0/4/cabo-de-hornos-national-park-wk/albatros-monument-cape-small.jpg",
-          "mediumPath": "_m/4/w/0/4/cabo-de-hornos-national-park-wk/albatros-monument-cape-medium.jpg"
+          "smallPath": "_m/4/w/0/4/cabo-de-hornos-national-park-wk/albatros-monument-cape-small.webp",
+          "mediumPath": "_m/4/w/0/4/cabo-de-hornos-national-park-wk/albatros-monument-cape-medium.webp"
         },
         {
           "path": "_m/4/w/0/4/cabo-de-hornos-national-park-wk/wollaston-hermite.png",
@@ -82,7 +82,7 @@
             "Satellite pictures of Chile",
             "Wollaston Islands"
           ],
-          "smallPath": "_m/4/w/0/4/cabo-de-hornos-national-park-wk/wollaston-hermite-small.png"
+          "smallPath": "_m/4/w/0/4/cabo-de-hornos-national-park-wk/wollaston-hermite-small.webp"
         },
         {
           "path": "_m/4/q/m/b/alberto-de-agostini-national-park-wp/humpback-stellwagen-edit.jpg",
@@ -225,7 +225,8 @@
           "sourceGeohash4": "4w04",
           "accessedAt": "2026-02-21T20:06:56.654Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/4/w/0/4/cabo-de-hornos-national-park-wk/4w04-cabo-de-hornos-national-park-combined.mp3"
     }
   }
 }

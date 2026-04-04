@@ -25,7 +25,7 @@
           "PD US NOAA",
           "Porte des Morts"
         ],
-        "smallPath": "_m/f/0/4/1/porte-des-morts-wp/hero-small.jpg"
+        "smallPath": "_m/f/0/4/1/porte-des-morts-wp/hero-small.webp"
       },
       "images": [
         {
@@ -55,7 +55,7 @@
             "Straits of the United States",
             "Washington Island (Wisconsin)"
           ],
-          "smallPath": "_m/f/0/4/1/porte-des-morts-wp/detail-noaa-chart-1490-small.png"
+          "smallPath": "_m/f/0/4/1/porte-des-morts-wp/detail-noaa-chart-1490-small.webp"
         },
         {
           "path": "_m/f/0/4/1/porte-des-morts-wp/view-nw-northernmost-p.jpg",
@@ -83,7 +83,7 @@
             "Self-published work",
             "Straits of the United States"
           ],
-          "smallPath": "_m/f/0/4/1/porte-des-morts-wp/view-nw-northernmost-p-small.jpg"
+          "smallPath": "_m/f/0/4/1/porte-des-morts-wp/view-nw-northernmost-p-small.webp"
         },
         {
           "path": "_m/f/0/4/1/porte-des-morts-wp/walden-pond-massachuse.png",
@@ -135,8 +135,8 @@
             "Porte des Morts",
             "Straits of the United States"
           ],
-          "mediumPath": "_m/f/0/4/1/porte-des-morts-wp/porte-des-morts-passage-medium.jpg",
-          "smallPath": "_m/f/0/4/1/porte-des-morts-wp/porte-des-morts-passage-small.jpg"
+          "mediumPath": "_m/f/0/4/1/porte-des-morts-wp/porte-des-morts-passage-medium.webp",
+          "smallPath": "_m/f/0/4/1/porte-des-morts-wp/porte-des-morts-passage-small.webp"
         },
         {
           "path": "_m/f/0/4/1/porte-des-morts-wp/iss048-e-3051-view-of-earth.jpg",
@@ -164,8 +164,8 @@
             "Porte des Morts",
             "Taken with Nikon D4"
           ],
-          "mediumPath": "_m/f/0/4/1/porte-des-morts-wp/iss048-e-3051-view-of-earth-medium.jpg",
-          "smallPath": "_m/f/0/4/1/porte-des-morts-wp/iss048-e-3051-view-of-earth-small.jpg"
+          "mediumPath": "_m/f/0/4/1/porte-des-morts-wp/iss048-e-3051-view-of-earth-medium.webp",
+          "smallPath": "_m/f/0/4/1/porte-des-morts-wp/iss048-e-3051-view-of-earth-small.webp"
         },
         {
           "path": "_m/f/0/4/1/porte-des-morts-wp/iss048-e-3052-view-of-earth.jpg",
@@ -185,10 +185,20 @@
           "categories": [
             "Astronaut photography of Door County, Wisconsin"
           ],
-          "mediumPath": "_m/f/0/4/1/porte-des-morts-wp/iss048-e-3052-view-of-earth-medium.jpg",
-          "smallPath": "_m/f/0/4/1/porte-des-morts-wp/iss048-e-3052-view-of-earth-small.jpg"
+          "mediumPath": "_m/f/0/4/1/porte-des-morts-wp/iss048-e-3052-view-of-earth-medium.webp",
+          "smallPath": "_m/f/0/4/1/porte-des-morts-wp/iss048-e-3052-view-of-earth-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/f/0/4/1/porte-des-morts-wp/f041-porte-des-morts-flight-context.mp3",
+        "_m/f/0/4/1/porte-des-morts-wp/f041-porte-des-morts-intro.mp3",
+        "_m/f/0/4/1/porte-des-morts-wp/f041-porte-des-morts-a-battle-in-the-waves.mp3",
+        "_m/f/0/4/1/porte-des-morts-wp/f041-porte-des-morts-currents-beneath-the-surface.mp3",
+        "_m/f/0/4/1/porte-des-morts-wp/f041-porte-des-morts-the-shipwreck-graveyard.mp3",
+        "_m/f/0/4/1/porte-des-morts-wp/f041-porte-des-morts-the-shortcut-captains-could-not-refuse.mp3",
+        "_m/f/0/4/1/porte-des-morts-wp/f041-porte-des-morts-deaths-door-today.mp3"
+      ],
+      "combinedNarration": "_m/f/0/4/1/porte-des-morts-wp/f041-porte-des-morts-combined.mp3"
     }
   }
 }

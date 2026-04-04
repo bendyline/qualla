@@ -27,7 +27,7 @@
     "sourceType": "core",
     "sourceArticleId": "indus-river-delta-arabian-sea-mangroves-wp",
     "sourceGeohash4": "tkru",
-    "smallPath": "_m/t/k/r/u/indus-river-delta-arabian-sea-mangroves-wp/hero-small.jpg"
+    "smallPath": "_m/t/k/r/u/indus-river-delta-arabian-sea-mangroves-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Ecoregion IM1403.png",
@@ -86,7 +86,7 @@
       "sourceType": "core",
       "sourceArticleId": "indus-river-delta-arabian-sea-mangroves-wp",
       "sourceGeohash4": "tkru",
-      "smallPath": "_m/t/k/r/u/indus-river-delta-arabian-sea-mangroves-wp/mature-mangrove-tree-a-small.jpg"
+      "smallPath": "_m/t/k/r/u/indus-river-delta-arabian-sea-mangroves-wp/mature-mangrove-tree-a-small.webp"
     },
     {
       "filename": "Cayo Jutías-Mangrove (3).jpg",
@@ -137,8 +137,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "indus-river-delta-arabian-sea-mangroves-wp",
       "sourceGeohash4": "tkru",
-      "mediumPath": "_m/t/k/r/u/indus-river-delta-arabian-sea-mangroves-wp/indus-river-delta-arabian-sea--medium.png",
-      "smallPath": "_m/t/k/r/u/indus-river-delta-arabian-sea-mangroves-wp/indus-river-delta-arabian-sea--small.png"
+      "mediumPath": "_m/t/k/r/u/indus-river-delta-arabian-sea-mangroves-wp/indus-river-delta-arabian-sea--medium.webp",
+      "smallPath": "_m/t/k/r/u/indus-river-delta-arabian-sea-mangroves-wp/indus-river-delta-arabian-sea--small.webp"
     }
   ],
   "galleryPaths": [
@@ -146,6 +146,24 @@
     "_m/t/k/r/u/indus-river-delta-arabian-sea-mangroves-wp/mangrove-sur-l-ile-de.jpg",
     "_m/t/k/r/u/indus-river-delta-arabian-sea-mangroves-wp/indus-river-delta-arabian-sea-.png"
   ],
-  "fetchedAt": "2026-03-01T11:10:29.913Z",
-  "updatedAt": "2026-03-01T11:10:43.689Z"
+  "updatedAt": "2026-03-01T11:10:43.689Z",
+  "narration": {
+    "files": [
+      "tkru-indus-river-delta-arabian-sea-mangroves-flight-context.mp3",
+      "tkru-indus-river-delta-arabian-sea-mangroves-intro.mp3",
+      "tkru-indus-river-delta-arabian-sea-mangroves-salt-heat-and-survival.mp3",
+      "tkru-indus-river-delta-arabian-sea-mangroves-a-delta-shrinking-from-both-ends.mp3",
+      "tkru-indus-river-delta-arabian-sea-mangroves-clearing-and-consequences.mp3",
+      "tkru-indus-river-delta-arabian-sea-mangroves-planting-against-the-tide.mp3"
+    ],
+    "durations": {
+      "tkru-indus-river-delta-arabian-sea-mangroves-flight-context.mp3": 44.4882083,
+      "tkru-indus-river-delta-arabian-sea-mangroves-intro.mp3": 53.186875,
+      "tkru-indus-river-delta-arabian-sea-mangroves-salt-heat-and-survival.mp3": 49.39025,
+      "tkru-indus-river-delta-arabian-sea-mangroves-a-delta-shrinking-from-both-ends.mp3": 63.277875,
+      "tkru-indus-river-delta-arabian-sea-mangroves-clearing-and-consequences.mp3": 39.4692916,
+      "tkru-indus-river-delta-arabian-sea-mangroves-planting-against-the-tide.mp3": 50.7747916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

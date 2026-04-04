@@ -146,14 +146,14 @@
       "distanceKm": 20.4
     },
     "sw": {
-      "id": "aden-wk",
-      "title": "Aden",
-      "tile": "t420",
+      "id": "umm-al-samim-wp",
+      "title": "Umm al Samim",
+      "tile": "t5zg",
       "coordinates": {
-        "lat": 12.783333333333,
-        "lng": 45.016666666667
+        "lat": 21.633333333333,
+        "lng": 55.9
       },
-      "distanceKm": 1674.1
+      "distanceKm": 158.7
     },
     "s": {
       "id": "sur-oman-wp",
@@ -175,5 +175,6 @@
       },
       "distanceKm": 18
     }
-  }
+  },
+  "locationWikipediaPath": "t/k/0/f/imamate-of-oman-wp"
 }

@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "bay-mills-indian-community-wp",
     "sourceGeohash4": "f07b",
-    "mediumPath": "_m/f/0/7/b/bay-mills-indian-community-wp/hero-medium.jpg",
-    "smallPath": "_m/f/0/7/b/bay-mills-indian-community-wp/hero-small.jpg"
+    "mediumPath": "_m/f/0/7/b/bay-mills-indian-community-wp/hero-medium.webp",
+    "smallPath": "_m/f/0/7/b/bay-mills-indian-community-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Bay Mills Community College.jpg",
@@ -78,12 +78,30 @@
       "sourceType": "core",
       "sourceArticleId": "bay-mills-indian-community-wp",
       "sourceGeohash4": "f07b",
-      "mediumPath": "_m/f/0/7/b/bay-mills-indian-community-wp/bay-mills-indian-commu-medium.png",
-      "smallPath": "_m/f/0/7/b/bay-mills-indian-community-wp/bay-mills-indian-commu-small.png"
+      "mediumPath": "_m/f/0/7/b/bay-mills-indian-community-wp/bay-mills-indian-commu-medium.webp",
+      "smallPath": "_m/f/0/7/b/bay-mills-indian-community-wp/bay-mills-indian-commu-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/f/0/7/b/bay-mills-indian-community-wp/bay-mills-indian-commu.png"
   ],
-  "fetchedAt": "2026-02-28T10:36:45.586Z"
+  "narration": {
+    "files": [
+      "f07b-bay-mills-indian-community-flight-context.mp3",
+      "f07b-bay-mills-indian-community-intro.mp3",
+      "f07b-bay-mills-indian-community-centuries-on-superiors-shore.mp3",
+      "f07b-bay-mills-indian-community-a-reservation-reborn.mp3",
+      "f07b-bay-mills-indian-community-building-a-future-on-ancestral-ground.mp3",
+      "f07b-bay-mills-indian-community-guardians-of-the-water.mp3"
+    ],
+    "durations": {
+      "f07b-bay-mills-indian-community-flight-context.mp3": 53.9572916,
+      "f07b-bay-mills-indian-community-intro.mp3": 64.72975,
+      "f07b-bay-mills-indian-community-centuries-on-superiors-shore.mp3": 70.384625,
+      "f07b-bay-mills-indian-community-a-reservation-reborn.mp3": 74.1115833,
+      "f07b-bay-mills-indian-community-building-a-future-on-ancestral-ground.mp3": 74.4653333,
+      "f07b-bay-mills-indian-community-guardians-of-the-water.mp3": 68.7310833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

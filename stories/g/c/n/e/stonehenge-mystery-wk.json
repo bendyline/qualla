@@ -77,87 +77,90 @@
   "locationWikivoyagePath": "g/c/n/e/stonehenge-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "fishguard-wk",
-      "title": "The Battle of Fishguard: The Last Invasion of Britain",
-      "tile": "gchr",
+      "id": "severn-bridge-wp",
+      "title": "Severn Bridge",
+      "tile": "gcnj",
       "coordinates": {
-        "lat": 51.9944,
-        "lng": -4.98
+        "lat": 51.6093,
+        "lng": -2.6383
       },
-      "distanceKm": 181.8
+      "distanceKm": 17
     },
     "n": {
-      "id": "cotswolds-wk",
-      "title": "Cotswolds",
-      "tile": "gcnw",
+      "id": "malmesbury-abbey-wp",
+      "title": "Malmesbury Abbey",
+      "tile": "gcnt",
       "coordinates": {
-        "lat": 51.761,
-        "lng": -1.888
+        "lat": 51.5847,
+        "lng": -2.09838
       },
-      "distanceKm": 28.8
+      "distanceKm": 14.5
     },
     "ne": {
-      "id": "london-beer-flood-wp",
-      "title": "The London Beer Flood: When a Tidal Wave of Porter Drowned a Slum",
-      "tile": "gcpv",
+      "id": "oxford-castle-wp",
+      "title": "Oxford Castle",
+      "tile": "gcpn",
       "coordinates": {
-        "lat": 51.51694444444444,
-        "lng": -0.13
+        "lat": 51.7512,
+        "lng": -1.2651
       },
-      "distanceKm": 88.3
+      "distanceKm": 29.2
     },
     "w": {
-      "id": "dublin-wk",
-      "title": "Dublin",
-      "tile": "gc7x",
+      "id": "wells-cathedral-wp",
+      "title": "Wells Cathedral",
+      "tile": "gcn5",
       "coordinates": {
-        "lat": 53.3411,
-        "lng": -6.2633
+        "lat": 51.2104,
+        "lng": -2.6437
       },
-      "distanceKm": 348.4
+      "distanceKm": 13.2
     },
     "e": {
-      "id": "carrington-event-wk",
-      "title": "The Carrington Event: The Solar Storm That Could Happen Again",
-      "tile": "gcpg",
+      "id": "highclere-castle-wp",
+      "title": "Highclere Castle",
+      "tile": "gcp5",
       "coordinates": {
-        "lat": 51.2404,
-        "lng": -0.1708
+        "lat": 51.3267,
+        "lng": -1.3611
       },
-      "distanceKm": 86
+      "distanceKm": 10.1
     },
     "sw": {
-      "id": "guernsey-wk",
-      "title": "Guernsey",
-      "tile": "gby1",
+      "id": "sherborne-castle-wp",
+      "title": "Sherborne Castle",
+      "tile": "gcn1",
       "coordinates": {
-        "lat": 49.45,
-        "lng": -2.55
+        "lat": 50.946,
+        "lng": -2.5008
       },
-      "distanceKm": 169.9
+      "distanceKm": 4.4
     },
     "s": {
-      "id": "channel-islands-wk",
-      "title": "Channel Islands",
-      "tile": "gby2",
+      "id": "beaulieu-abbey-wp",
+      "title": "Beaulieu Abbey",
+      "tile": "gcnc",
       "coordinates": {
-        "lat": 49.3359,
-        "lng": -2.3346
+        "lat": 50.8218,
+        "lng": -1.45024
       },
-      "distanceKm": 184.7
+      "distanceKm": 38
     },
     "se": {
-      "id": "d-day-beaches-wk",
-      "title": "D-Day: The Longest Day",
-      "tile": "gbzb",
+      "id": "netley-abbey-wp",
+      "title": "Netley Abbey",
+      "tile": "gcp1",
       "coordinates": {
-        "lat": 49.24209,
-        "lng": -0.27375
+        "lat": 50.87888888888889,
+        "lng": -1.3575
       },
-      "distanceKm": 209.1
+      "distanceKm": 11.4
     }
   },
   "keywords": [
     "stonehenge-mystery"
+  ],
+  "duplicates": [
+    "stonehenge-wk"
   ]
 }

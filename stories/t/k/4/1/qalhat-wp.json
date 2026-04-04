@@ -133,34 +133,35 @@
       "distanceKm": 27.4
     },
     "sw": {
-      "id": "aden-wk",
-      "title": "Aden",
-      "tile": "t420",
+      "id": "umm-al-samim-wp",
+      "title": "Umm al Samim",
+      "tile": "t5zg",
       "coordinates": {
-        "lat": 12.783333333333,
-        "lng": 45.016666666667
+        "lat": 21.633333333333,
+        "lng": 55.9
       },
-      "distanceKm": 1807.1
+      "distanceKm": 305.3
     },
     "s": {
-      "id": "hyderabad-wk",
-      "title": "Hyderabad",
-      "tile": "tepf",
+      "id": "jiddat-al-harasis-wp",
+      "title": "Jiddat al-Harasis",
+      "tile": "t5x8",
       "coordinates": {
-        "lat": 17.385,
-        "lng": 78.4867
+        "lat": 19.78333333,
+        "lng": 55.85
       },
-      "distanceKm": 2088.9
+      "distanceKm": 463.4
     },
     "se": {
-      "id": "goa-wk",
-      "title": "Goa",
-      "tile": "tdu2",
+      "id": "dwarkadhish-temple-wp",
+      "title": "Dwarkadhish Temple",
+      "tile": "tecn",
       "coordinates": {
-        "lat": 15.4909,
-        "lng": 73.8278
+        "lat": 22.237886111111,
+        "lng": 68.967561111111
       },
-      "distanceKm": 1669.9
+      "distanceKm": 946.5
     }
-  }
+  },
+  "locationWikipediaPath": "t/k/4/1/qalhat-wp"
 }

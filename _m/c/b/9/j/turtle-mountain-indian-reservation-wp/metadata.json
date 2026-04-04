@@ -28,8 +28,8 @@
     "sourceType": "core",
     "sourceArticleId": "turtle-mountain-indian-reservation-wp",
     "sourceGeohash4": "cb9j",
-    "smallPath": "_m/c/b/9/j/turtle-mountain-indian-reservation-wp/hero-small.jpg",
-    "mediumPath": "_m/c/b/9/j/turtle-mountain-indian-reservation-wp/hero-medium.jpg"
+    "smallPath": "_m/c/b/9/j/turtle-mountain-indian-reservation-wp/hero-small.webp",
+    "mediumPath": "_m/c/b/9/j/turtle-mountain-indian-reservation-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Consolidated government day school. Turtle Mountain Res., North Dakota. - NARA - 285393.jpg",
@@ -86,7 +86,7 @@
       "sourceType": "core",
       "sourceArticleId": "turtle-mountain-indian-reservation-wp",
       "sourceGeohash4": "cb9j",
-      "smallPath": "_m/c/b/9/j/turtle-mountain-indian-reservation-wp/map-turtle-mountain-in-small.png"
+      "smallPath": "_m/c/b/9/j/turtle-mountain-indian-reservation-wp/map-turtle-mountain-in-small.webp"
     },
     {
       "filename": "St. Ann's Mission Day School. Turtle Mountain Res., North Dakota. - NARA - 285394.jpg",
@@ -112,7 +112,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "turtle-mountain-indian-reservation-wp",
-      "sourceGeohash4": "cb9j"
+      "sourceGeohash4": "cb9j",
+      "mediumPath": "_m/c/b/9/j/turtle-mountain-indian-reservation-wp/st-ann-s-mission-day-school-tu-medium.webp",
+      "smallPath": "_m/c/b/9/j/turtle-mountain-indian-reservation-wp/st-ann-s-mission-day-school-tu-small.webp"
     },
     {
       "filename": "Turtle Mountain (3282822141).jpg",
@@ -135,7 +137,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "turtle-mountain-indian-reservation-wp",
-      "sourceGeohash4": "cb9j"
+      "sourceGeohash4": "cb9j",
+      "mediumPath": "_m/c/b/9/j/turtle-mountain-indian-reservation-wp/turtle-mountain-3282822141-medium.webp",
+      "smallPath": "_m/c/b/9/j/turtle-mountain-indian-reservation-wp/turtle-mountain-3282822141-small.webp"
     },
     {
       "filename": "Turtle Mountain Chippewa reserve, 1882 and 1884.png",
@@ -159,7 +163,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "turtle-mountain-indian-reservation-wp",
-      "sourceGeohash4": "cb9j"
+      "sourceGeohash4": "cb9j",
+      "smallPath": "_m/c/b/9/j/turtle-mountain-indian-reservation-wp/turtle-mountain-chippewa-reser-small.webp"
     },
     {
       "filename": "Almost Completed House for John J. Houle - DPLA - 06bfe60a29f82ab05f217f732745f697.jpg",
@@ -189,7 +194,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "turtle-mountain-indian-reservation-wp",
-      "sourceGeohash4": "cb9j"
+      "sourceGeohash4": "cb9j",
+      "smallPath": "_m/c/b/9/j/turtle-mountain-indian-reservation-wp/almost-completed-house-for-joh-small.webp"
     }
   ],
   "galleryPaths": [
@@ -199,7 +205,6 @@
     "_m/c/b/9/j/turtle-mountain-indian-reservation-wp/turtle-mountain-chippewa-reser.png",
     "_m/c/b/9/j/turtle-mountain-indian-reservation-wp/almost-completed-house-for-joh.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:45:20.996Z",
   "narration": {
     "files": [
       "cb9j-turtle-mountain-indian-reservation-flight-context.mp3",
@@ -217,8 +222,7 @@
       "cb9j-turtle-mountain-indian-reservation-bison-white-buffalo-and-living-culture.mp3": 59.5587916,
       "cb9j-turtle-mountain-indian-reservation-the-reservations-literary-voice.mp3": 58.1952916
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T07:03:58.261Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T02:45:22.630Z"
 }

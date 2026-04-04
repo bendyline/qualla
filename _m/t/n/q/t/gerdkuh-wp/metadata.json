@@ -33,7 +33,7 @@
     "sourceType": "core",
     "sourceArticleId": "gerdkuh-wp",
     "sourceGeohash4": "tnqt",
-    "smallPath": "_m/t/n/q/t/gerdkuh-wp/hero-small.jpg"
+    "smallPath": "_m/t/n/q/t/gerdkuh-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Siège de Girdkûh.jpeg",
@@ -224,7 +224,7 @@
       "sourceType": "core",
       "sourceArticleId": "gerdkuh-wp",
       "sourceGeohash4": "tnqt",
-      "smallPath": "_m/t/n/q/t/gerdkuh-wp/photo-monument-iran-id-1-small.jpg"
+      "smallPath": "_m/t/n/q/t/gerdkuh-wp/photo-monument-iran-id-1-small.webp"
     },
     {
       "filename": "Behestan Castle By Hamid Reza Bazargani (Custom).jpg",
@@ -434,8 +434,8 @@
       "sourceType": "core",
       "sourceArticleId": "gerdkuh-wp",
       "sourceGeohash4": "tnqt",
-      "mediumPath": "_m/t/n/q/t/gerdkuh-wp/gallery-17-medium.jpg",
-      "smallPath": "_m/t/n/q/t/gerdkuh-wp/gallery-17-small.jpg"
+      "mediumPath": "_m/t/n/q/t/gerdkuh-wp/gallery-17-medium.webp",
+      "smallPath": "_m/t/n/q/t/gerdkuh-wp/gallery-17-small.webp"
     },
     {
       "filename": "Wiki Loves Monuments 2020 Iran Ghale Robat (1).jpg",
@@ -497,7 +497,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "gerdkuh-wp",
       "sourceGeohash4": "tnqt",
-      "smallPath": "_m/t/n/q/t/gerdkuh-wp/category-1-small.jpg"
+      "smallPath": "_m/t/n/q/t/gerdkuh-wp/category-1-small.webp"
     },
     {
       "filename": "کوه گردکوه قلعه اسماعیلیان.jpg",
@@ -526,8 +526,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "gerdkuh-wp",
       "sourceGeohash4": "tnqt",
-      "mediumPath": "_m/t/n/q/t/gerdkuh-wp/category-2-medium.jpg",
-      "smallPath": "_m/t/n/q/t/gerdkuh-wp/category-2-small.jpg"
+      "mediumPath": "_m/t/n/q/t/gerdkuh-wp/category-2-medium.webp",
+      "smallPath": "_m/t/n/q/t/gerdkuh-wp/category-2-small.webp"
     }
   ],
   "galleryPaths": [
@@ -553,6 +553,24 @@
     "_m/t/n/q/t/gerdkuh-wp/category-1.jpg",
     "_m/t/n/q/t/gerdkuh-wp/category-2.jpg"
   ],
-  "fetchedAt": "2026-03-01T16:26:37.795Z",
-  "updatedAt": "2026-03-01T16:26:55.441Z"
+  "updatedAt": "2026-03-01T16:26:55.441Z",
+  "narration": {
+    "files": [
+      "tnqt-gerdkuh-flight-context.mp3",
+      "tnqt-gerdkuh-intro.mp3",
+      "tnqt-gerdkuh-the-rock-that-would-not-break.mp3",
+      "tnqt-gerdkuh-the-order-surrenders-but-not-gerdkuh.mp3",
+      "tnqt-gerdkuh-siege-without-end.mp3",
+      "tnqt-gerdkuh-the-least-studied-castle.mp3"
+    ],
+    "durations": {
+      "tnqt-gerdkuh-flight-context.mp3": 38.7644166,
+      "tnqt-gerdkuh-intro.mp3": 38.1434583,
+      "tnqt-gerdkuh-the-rock-that-would-not-break.mp3": 58.8802083,
+      "tnqt-gerdkuh-the-order-surrenders-but-not-gerdkuh.mp3": 61.96925,
+      "tnqt-gerdkuh-siege-without-end.mp3": 59.3152083,
+      "tnqt-gerdkuh-the-least-studied-castle.mp3": 56.2168333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

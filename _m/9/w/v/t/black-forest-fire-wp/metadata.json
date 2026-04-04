@@ -28,8 +28,8 @@
     "sourceType": "core",
     "sourceArticleId": "black-forest-fire-wp",
     "sourceGeohash4": "9wvt",
-    "smallPath": "_m/9/w/v/t/black-forest-fire-wp/hero-small.jpg",
-    "mediumPath": "_m/9/w/v/t/black-forest-fire-wp/hero-medium.jpg"
+    "smallPath": "_m/9/w/v/t/black-forest-fire-wp/hero-small.webp",
+    "mediumPath": "_m/9/w/v/t/black-forest-fire-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Black Forest Fire - June 11, 2013.jpg",
@@ -87,7 +87,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "black-forest-fire-wp",
-      "sourceGeohash4": "9wvt"
+      "sourceGeohash4": "9wvt",
+      "mediumPath": "_m/9/w/v/t/black-forest-fire-wp/black-forest-fire-11-june-5pm--medium.webp",
+      "smallPath": "_m/9/w/v/t/black-forest-fire-wp/black-forest-fire-11-june-5pm--small.webp"
     },
     {
       "filename": "Black Forest fire near 8pm Tuesday.jpg",
@@ -111,7 +113,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "black-forest-fire-wp",
-      "sourceGeohash4": "9wvt"
+      "sourceGeohash4": "9wvt",
+      "mediumPath": "_m/9/w/v/t/black-forest-fire-wp/black-forest-fire-near-8pm-tue-medium.webp",
+      "smallPath": "_m/9/w/v/t/black-forest-fire-wp/black-forest-fire-near-8pm-tue-small.webp"
     },
     {
       "filename": "Black Forest Fire, Colorado Springs, CO 11 June 2013 at 2130.JPG",
@@ -139,7 +143,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "black-forest-fire-wp",
-      "sourceGeohash4": "9wvt"
+      "sourceGeohash4": "9wvt",
+      "mediumPath": "_m/9/w/v/t/black-forest-fire-wp/black-forest-fire-colorado-spr-medium.webp",
+      "smallPath": "_m/9/w/v/t/black-forest-fire-wp/black-forest-fire-colorado-spr-small.webp"
     },
     {
       "filename": "Black Forest fire, 3pm Tuesday.jpg",
@@ -167,7 +173,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "black-forest-fire-wp",
-      "sourceGeohash4": "9wvt"
+      "sourceGeohash4": "9wvt",
+      "mediumPath": "_m/9/w/v/t/black-forest-fire-wp/black-forest-fire-3pm-tuesday-medium.webp",
+      "smallPath": "_m/9/w/v/t/black-forest-fire-wp/black-forest-fire-3pm-tuesday-small.webp"
     },
     {
       "filename": "Black forest fire from afa.jpg",
@@ -187,7 +195,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "black-forest-fire-wp",
-      "sourceGeohash4": "9wvt"
+      "sourceGeohash4": "9wvt",
+      "mediumPath": "_m/9/w/v/t/black-forest-fire-wp/black-forest-fire-from-afa-medium.webp",
+      "smallPath": "_m/9/w/v/t/black-forest-fire-wp/black-forest-fire-from-afa-small.webp"
     },
     {
       "filename": "Black Forest Fire 2013-06-11 1508 animated.gif",
@@ -220,7 +230,8 @@
       "dateCreated": "2013-06-12 10:18",
       "sourceType": "commons-category",
       "sourceArticleId": "black-forest-fire-wp",
-      "sourceGeohash4": "9wvt"
+      "sourceGeohash4": "9wvt",
+      "smallPath": "_m/9/w/v/t/black-forest-fire-wp/where-there-s-smoke-9042599851-small.webp"
     },
     {
       "filename": "Aftermath of Colorado’s Most Destructive Wildfire (9152317817).jpg",
@@ -236,7 +247,8 @@
       "dateCreated": "2013-06-27 15:27",
       "sourceType": "commons-category",
       "sourceArticleId": "black-forest-fire-wp",
-      "sourceGeohash4": "9wvt"
+      "sourceGeohash4": "9wvt",
+      "smallPath": "_m/9/w/v/t/black-forest-fire-wp/aftermath-of-colorado-s-most-d-small.webp"
     }
   ],
   "galleryPaths": [
@@ -249,7 +261,6 @@
     "_m/9/w/v/t/black-forest-fire-wp/where-there-s-smoke-9042599851.jpg",
     "_m/9/w/v/t/black-forest-fire-wp/aftermath-of-colorado-s-most-d.jpg"
   ],
-  "fetchedAt": "2026-02-22T00:14:14.297Z",
   "narration": {
     "files": [
       "9wvt-black-forest-fire-flight-context.mp3",
@@ -269,8 +280,7 @@
       "9wvt-black-forest-fire-the-long-road-to-containment.mp3": 58.1894166,
       "9wvt-black-forest-fire-a-record-that-did-not-last.mp3": 48.8368333
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T21:49:45.286Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T00:14:15.350Z"
 }

@@ -26,7 +26,7 @@
     "sourceType": "core",
     "sourceArticleId": "siege-of-bohus-fortress-1678-wp",
     "sourceGeohash4": "u629",
-    "smallPath": "_m/u/6/2/9/siege-of-bohus-fortress-1678-wp/hero-small.jpg"
+    "smallPath": "_m/u/6/2/9/siege-of-bohus-fortress-1678-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "BohusBel1678-.jpg",
@@ -81,7 +81,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "siege-of-bohus-fortress-1678-wp",
-      "sourceGeohash4": "u629"
+      "sourceGeohash4": "u629",
+      "mediumPath": "_m/u/6/2/9/siege-of-bohus-fortress-1678-wp/bohus1678-medium.webp",
+      "smallPath": "_m/u/6/2/9/siege-of-bohus-fortress-1678-wp/bohus1678-small.webp"
     },
     {
       "filename": "Bohus1678-1.jpg",
@@ -109,7 +111,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "siege-of-bohus-fortress-1678-wp",
-      "sourceGeohash4": "u629"
+      "sourceGeohash4": "u629",
+      "mediumPath": "_m/u/6/2/9/siege-of-bohus-fortress-1678-wp/bohus1678-1-medium.webp",
+      "smallPath": "_m/u/6/2/9/siege-of-bohus-fortress-1678-wp/bohus1678-1-small.webp"
     },
     {
       "filename": "Bohus1678-2.jpg",
@@ -135,7 +139,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "siege-of-bohus-fortress-1678-wp",
-      "sourceGeohash4": "u629"
+      "sourceGeohash4": "u629",
+      "mediumPath": "_m/u/6/2/9/siege-of-bohus-fortress-1678-wp/bohus1678-2-medium.webp",
+      "smallPath": "_m/u/6/2/9/siege-of-bohus-fortress-1678-wp/bohus1678-2-small.webp"
     }
   ],
   "galleryPaths": [
@@ -143,7 +149,6 @@
     "_m/u/6/2/9/siege-of-bohus-fortress-1678-wp/bohus1678-1.jpg",
     "_m/u/6/2/9/siege-of-bohus-fortress-1678-wp/bohus1678-2.jpg"
   ],
-  "fetchedAt": "2026-02-22T14:30:47.970Z",
   "narration": {
     "files": [
       "u629-siege-of-bohus-fortress-1678-flight-context.mp3",
@@ -163,8 +168,7 @@
       "u629-siege-of-bohus-fortress-1678-night-crossing.mp3": 53.2025416,
       "u629-siege-of-bohus-fortress-1678-relief-and-ruin.mp3": 49.6957083
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T15:16:07.891Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T14:30:48.490Z"
 }

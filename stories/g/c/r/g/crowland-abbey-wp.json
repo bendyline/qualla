@@ -1,0 +1,150 @@
+{
+  "id": "crowland-abbey-wp",
+  "source": "wikipedia",
+  "sourceId": "4333747",
+  "title": "Crowland Abbey",
+  "slug": "crowland-abbey",
+  "summary": "Founded on a fenland island where the hermit Guthlac lived from 699 to 714, Crowland Abbey survived Viking raids, fire, dissolution, and Civil War siege to remain a working parish church.",
+  "content": {
+    "intro": "Somewhere in the church at Crowland Abbey sits a human skull. It belonged to Abbot Theodore, killed at the altar by Vikings in the 9th century. The relic was on public display until someone stole it from its case in 1982. Seventeen years later, it reappeared -- returned anonymously, no questions answered. It is a fitting mystery for a place built on layers of enigma: a forged chronicle, disputed bell-ringing firsts, and a monastery founded by a hermit who came to a waterlogged Lincolnshire island in 699 seeking solitude and found, instead, a legacy that would last more than thirteen centuries.",
+    "sections": [
+      {
+        "title": "Guthlac's Island",
+        "body": "The monk Guthlac arrived at what was then an island rising from the vast, reed-choked fenlands of eastern England. Between 699 and 714, he lived the life of a hermit at Croyland, and after his death a monastic community grew around the memory of his devotion. The abbey was dedicated to Saint Mary the Virgin, Saint Bartholomew, and Saint Guthlac. In the 10th century, the nobleman Thurcytel became abbot and endowed the house with estates, and the community adopted the Benedictine rule. By the 11th century, the legendary outlaw Hereward the Wake was counted among the abbey's tenants. The great medieval chroniclers Orderic Vitalis and William of Malmesbury both visited to write, and a tradition of scholarship took root that would produce one of the most notorious forgeries in English historiography -- the Croyland Chronicle of Pseudo-Ingulf."
+      },
+      {
+        "title": "Bells, Fire, and Siege",
+        "body": "Crowland Abbey claims a remarkable distinction: the first tuned peal of bells in England, around 986. The Croyland Chronicle records that Abbot Egelric supplied the peal, though since the chronicle itself was exposed as a 14th-century fabrication, the claim remains tantalisingly unverifiable. What is certain is that the present bells' chimes were the first broadcast on BBC wireless radio, on 1 November 1925, and that the bell ropes -- at 90 feet -- are the longest in England. The abbey endured devastating fire in 1091, after which it was rebuilt. When Henry VIII dissolved the monasteries in 1539, the monastic buildings were promptly demolished, but the nave and aisles survived because they served as the parish church. During the English Civil War, Royalists fortified and garrisoned the ruins in 1642. Oliver Cromwell's Parliamentarian forces captured the abbey after a short siege in May 1643, causing serious structural damage."
+      },
+      {
+        "title": "What Remains",
+        "body": "The nave roof collapsed in 1720 and the main south wall came down in 1744, but the north aisle was refurbished and continues to serve as the parish church today -- a fragment of a much larger whole, its ruined arches open to the Lincolnshire sky. Recent archaeology has added new chapters. In 2021, students from Newcastle and Sheffield universities excavated Anchor Church Field in Crowland and uncovered what had been thought to be a medieval chapel. It proved instead to be a high-status medieval hall, divided into three parts with an ancillary room -- a residence, not a place of worship. The abbey still holds its stolen-and-returned skull, its disputed bell-ringing record, and its Grade I listing. The rural poet John Clare wrote a sonnet about it in 1828. The flat fenland surrounding it has been drained for centuries now, but Crowland Abbey remains what it has always been: an island of history in an otherwise quiet landscape."
+      }
+    ],
+    "flightContext": "Crowland Abbey sits at 52.68°N, 0.17°W in the flat fenland landscape of southern Lincolnshire. The ruined arches and surviving north aisle are visible from lower altitudes against the flat terrain. The nearest airport is Peterborough/Conington (EGSF), approximately 15nm to the southwest. The surrounding fenland is remarkably flat, making the abbey's ruins distinctive from the air."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.67639,
+      "lng": -0.16528
+    },
+    "geohash": "gcrgs"
+  },
+  "categories": [
+    "abbey",
+    "history",
+    "archaeology",
+    "religion"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 650,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 9406
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Crowland Abbey - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Crowland_Abbey",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Guthlac arrived at Croyland between 699 and 714 as a hermit",
+        "Abbey dissolved by Henry VIII in 1539; monastic buildings demolished but nave survived as parish church",
+        "Chimes first broadcast on BBC wireless radio on 1 November 1925",
+        "Bell ropes at 90 feet are the longest in England",
+        "Nave roof collapsed in 1720, south wall came down in 1744",
+        "2021 excavation by Newcastle and Sheffield universities found high-status medieval hall",
+        "John Clare wrote a sonnet about the abbey in 1828"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "g/c/r/g/crowland-abbey-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "nottingham-castle-wp",
+      "title": "Nottingham Castle",
+      "tile": "gcrj",
+      "coordinates": {
+        "lat": 52.94917,
+        "lng": -1.15472
+      },
+      "distanceKm": 30.6
+    },
+    "n": {
+      "id": "lincoln-cathedral-wp",
+      "title": "Lincoln Cathedral",
+      "tile": "gcrw",
+      "coordinates": {
+        "lat": 53.2345,
+        "lng": -0.5351
+      },
+      "distanceKm": 43.3
+    },
+    "ne": {
+      "id": "alexander-l-kielland-platform-wp",
+      "title": "Alexander L. Kielland (Platform)",
+      "tile": "u441",
+      "coordinates": {
+        "lat": 56.46472,
+        "lng": 3.10444
+      },
+      "distanceKm": 433
+    },
+    "w": {
+      "id": "rockingham-castle-wp",
+      "title": "Rockingham Castle",
+      "tile": "gcr6",
+      "coordinates": {
+        "lat": 52.5129,
+        "lng": -0.724
+      },
+      "distanceKm": 14.9
+    },
+    "e": {
+      "id": "leeds-castle-wp",
+      "title": "Leeds Castle",
+      "tile": "u107",
+      "coordinates": {
+        "lat": 51.24888888888889,
+        "lng": 0.63
+      },
+      "distanceKm": 156.6
+    },
+    "sw": {
+      "id": "bletchley-park-wp",
+      "title": "Bletchley Park",
+      "tile": "gcpr",
+      "coordinates": {
+        "lat": 51.9977,
+        "lng": -0.7414
+      },
+      "distanceKm": 42.9
+    },
+    "s": {
+      "id": "woburn-abbey-wp",
+      "title": "Woburn Abbey",
+      "tile": "gcpx",
+      "coordinates": {
+        "lat": 51.98295,
+        "lng": -0.596719
+      },
+      "distanceKm": 52.9
+    },
+    "se": {
+      "id": "rochester-castle-wp",
+      "title": "Rochester Castle",
+      "tile": "u10k",
+      "coordinates": {
+        "lat": 51.3894,
+        "lng": 0.502
+      },
+      "distanceKm": 110.9
+    }
+  }
+}

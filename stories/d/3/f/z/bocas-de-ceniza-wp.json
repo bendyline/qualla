@@ -1,0 +1,160 @@
+{
+  "id": "bocas-de-ceniza-wp",
+  "source": "wikipedia",
+  "sourceId": "50059900",
+  "title": "Bocas de Ceniza",
+  "slug": "bocas-de-ceniza",
+  "summary": "Where Colombia's mightiest river meets the Caribbean, a pair of massive jetties engineered in the 1930s force the Magdalena's ash-colored waters through a narrow throat -- creating the port that made Barranquilla.",
+  "content": {
+    "intro": "The water changes color here. Brown-gray river current slams into turquoise Caribbean, and the collision line is visible from altitude -- a ragged seam of ash and salt stretching across the surface. The Spanish saw it centuries ago and named the place accordingly: Bocas de Ceniza, the Mouths of Ash. It is where the Magdalena River, after flowing 1,528 kilometers through the heart of Colombia, finally surrenders its sediment to the sea.",
+    "sections": [
+      {
+        "title": "Discovery and the Dream of Navigation",
+        "body": "Rodrigo de Bastidas reached this river mouth on April 1, 1501, becoming the first European to chart the Magdalena's outlet to the Caribbean. For the next three centuries, the mouth remained a navigational headache. Shifting sandbars and unpredictable sediment deposits made the entrance treacherous for anything larger than a shallow-draft vessel. When steamship navigation began on the Magdalena in 1824, the commercial potential became obvious -- if ships could reliably pass through Bocas de Ceniza, Barranquilla would have direct ocean access. Instead, goods had to be offloaded and transferred via the railway built in 1872 to Puerto Colombia, an inconvenient and costly workaround that limited the city's growth as a port."
+      },
+      {
+        "title": "Taming the River's Mouth",
+        "body": "Between 1925 and 1936, engineers constructed a pair of massive breakwaters -- jetties that narrowed the river's mouth and accelerated the current. The principle was straightforward: force the water through a tighter channel and let the increased velocity scour away the sediment that had plagued navigation for centuries. On December 22, 1936, the first deep-draft vessel passed through the newly tamed Bocas de Ceniza and reached Barranquilla directly from the sea. The inauguration effectively killed Puerto Colombia as a major port and consolidated Barranquilla's dominance over Colombia's Caribbean trade. It was one of the most ambitious hydraulic engineering projects in South American history, and it worked exactly as designed."
+      },
+      {
+        "title": "The Coast Pays the Price",
+        "body": "What the engineers solved for navigation, they created for the coastline. The jetties channeled sediment offshore instead of allowing it to spread naturally along the delta. To the west of the river mouth, erosion consumed over 3,300 hectares of coast, with the shoreline retreating across a 24.6-kilometer stretch. Sandy spits and shoals migrated rapidly down the current. The Magdalena delta, once a broad and shifting mosaic of land and water, narrowed into something more constrained and less forgiving. Today, Bocas de Ceniza remains a working piece of infrastructure and an ongoing lesson in the trade-offs of controlling a river that carries roughly 144 million tons of sediment per year."
+      },
+      {
+        "title": "Where River Meets Sea",
+        "body": "Visitors who make the trip from Barranquilla -- by boat along the river or by road to the western jetty -- find a landscape that is equal parts industrial and wild. The stone breakwaters extend like gray arms into the surf. Fishing boats work the mixing zone where freshwater nutrients attract schools of fish. At sunset, the collision of river and ocean catches the light in ways that justify the name: the water turns the color of cooling embers. Bocas de Ceniza is not a resort or a monument. It is a place where geography and engineering argue with each other daily, and neither side concedes."
+      }
+    ],
+    "flightContext": "Located at 11.11N, 74.85W at the mouth of the Magdalena River on the Caribbean coast. From altitude, the two parallel jetties extending into the sea are clearly visible, as is the dramatic color contrast between the brown river water and the blue Caribbean. Best viewed on approach from the north or northeast. Nearest airport: Ernesto Cortissoz International Airport (SKBQ) in Barranquilla, approximately 15 km to the southeast."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 11.106666666666667,
+      "lng": -74.85305555555556
+    },
+    "geohash": "d3fz0"
+  },
+  "categories": [
+    "Geography of Colombia"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-06T00:00:00Z",
+    "wordCount": 700,
+    "readTime": 4,
+    "firstPublished": "2026-03-06T00:00:00Z",
+    "storyNumber": 6252
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Bocas de Ceniza - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bocas_de_Ceniza",
+      "accessedAt": "2026-03-06",
+      "claimsVerified": [
+        "Magdalena River length 1,528 km verified",
+        "jetty construction between 1925 and 1936 verified (started August 1925)",
+        "first deep-draft vessel December 22 1936 verified",
+        "3,300+ hectares of coastal erosion to the west verified",
+        "24.6 km coastline retreat verified",
+        "railway to Puerto Colombia 1872 verified"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Magdalena River - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Magdalena_River",
+      "accessedAt": "2026-03-06",
+      "claimsVerified": [
+        "River length 1,528 km confirmed",
+        "sediment load approximately 144 million tons per year plausible"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "uss-s-17-wp",
+      "title": "USS S-17",
+      "tile": "d601",
+      "coordinates": {
+        "lat": 11.566666666666666,
+        "lng": -78.6
+      },
+      "distanceKm": 367.1
+    },
+    "n": {
+      "id": "riohacha-wp",
+      "title": "Riohacha",
+      "tile": "d6h1",
+      "coordinates": {
+        "lat": 11.544166666667,
+        "lng": -72.906944444444
+      },
+      "distanceKm": 196.6
+    },
+    "ne": {
+      "id": "1980-riohacha-tac-caravelle-crash-wp",
+      "title": "1980 Riohacha TAC Caravelle Crash",
+      "tile": "d6h1",
+      "coordinates": {
+        "lat": 11.544166666666667,
+        "lng": -72.90694444444445
+      },
+      "distanceKm": 139.3
+    },
+    "w": {
+      "id": "convento-de-la-popa-wp",
+      "title": "Convento de la Popa",
+      "tile": "d3f7",
+      "coordinates": {
+        "lat": 10.4192,
+        "lng": -75.5255
+      },
+      "distanceKm": 88.5
+    },
+    "e": {
+      "id": "quinta-de-san-pedro-alejandrino-wp",
+      "title": "Quinta de San Pedro Alejandrino",
+      "tile": "d3gr",
+      "coordinates": {
+        "lat": 11.22805556,
+        "lng": -74.17916667
+      },
+      "distanceKm": 7.3
+    },
+    "sw": {
+      "id": "siege-of-cartagena-1815-wp",
+      "title": "Siege of Cartagena (1815)",
+      "tile": "d3f7",
+      "coordinates": {
+        "lat": 10.423611111111,
+        "lng": -75.525277777778
+      },
+      "distanceKm": 61.6
+    },
+    "s": {
+      "id": "cartagena-wk",
+      "title": "Cartagena",
+      "tile": "d3f7",
+      "coordinates": {
+        "lat": 10.391,
+        "lng": -75.4794
+      },
+      "distanceKm": 101.5
+    },
+    "se": {
+      "id": "sierra-nevada-de-santa-marta-wp",
+      "title": "Sierra Nevada de Santa Marta",
+      "tile": "d3gt",
+      "coordinates": {
+        "lat": 10.866666666667,
+        "lng": -73.72
+      },
+      "distanceKm": 50.3
+    }
+  },
+  "locationWikipediaPath": "d/3/f/z/bocas-de-ceniza-wp"
+}

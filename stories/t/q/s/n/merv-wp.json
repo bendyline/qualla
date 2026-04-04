@@ -61,33 +61,52 @@
       "title": "Ancient Merv - UNESCO World Heritage Centre",
       "url": "https://whc.unesco.org/en/list/886/",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["UNESCO World Heritage Site inscription 1999 confirmed", "location in Mary Region of Turkmenistan confirmed", "five walled cities across millennia confirmed"]
+      "claimsVerified": [
+        "UNESCO World Heritage Site inscription 1999 confirmed",
+        "location in Mary Region of Turkmenistan confirmed",
+        "five walled cities across millennia confirmed"
+      ]
     },
     {
       "type": "verification",
       "title": "Merv - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Merv",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Darius Great Behistun inscription ~515 BC Margu confirmed", "Tertius Chandler estimate 200,000 by 1150, 500,000 by 1210 confirmed", "Shah Murad of Bukhara razed city 1788-1789 confirmed", "settlement from third millennium BC confirmed", "caliph al-Ma'mun governed from Merv 813-818 confirmed"]
+      "claimsVerified": [
+        "Darius Great Behistun inscription ~515 BC Margu confirmed",
+        "Tertius Chandler estimate 200,000 by 1150, 500,000 by 1210 confirmed",
+        "Shah Murad of Bukhara razed city 1788-1789 confirmed",
+        "settlement from third millennium BC confirmed",
+        "caliph al-Ma'mun governed from Merv 813-818 confirmed"
+      ]
     },
     {
       "type": "verification",
       "title": "Battle of Carrhae - Wikipedia / Erenow",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Carrhae",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["~10,000 Roman prisoners deported to Merv after 53 BC Battle of Carrhae confirmed per Pliny the Elder"]
+      "claimsVerified": [
+        "~10,000 Roman prisoners deported to Merv after 53 BC Battle of Carrhae confirmed per Pliny the Elder"
+      ]
     },
     {
       "type": "verification",
       "title": "Ahmad Sanjar - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Ahmad_Sanjar",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Sanjar made Merv his capital from 1118 confirmed", "death 1157 confirmed", "tomb still stands confirmed"]
+      "claimsVerified": [
+        "Sanjar made Merv his capital from 1118 confirmed",
+        "death 1157 confirmed",
+        "tomb still stands confirmed"
+      ]
     }
   ],
   "editorial": {
     "spiciness": 3,
-    "strongOpinions": ["'mother of the world' — vivid framing of medieval city greatness", "contrast between Merv's brilliance and sudden annihilation carries strong narrative weight"]
+    "strongOpinions": [
+      "'mother of the world' — vivid framing of medieval city greatness",
+      "contrast between Merv's brilliance and sudden annihilation carries strong narrative weight"
+    ]
   },
   "duplicates": [
     "merv-wk"
@@ -96,7 +115,7 @@
     "nw": {
       "id": "bactria-margiana-archaeological-complex-wp",
       "title": "Bactria-Margiana Archaeological Complex",
-      "tile": "tqts",
+      "tile": "tqg9",
       "coordinates": {
         "lat": 38.233333333333,
         "lng": 61.45
@@ -173,5 +192,7 @@
       },
       "distanceKm": 232
     }
-  }
+  },
+  "locationWikipediaPath": "t/q/s/n/merv-wp",
+  "locationWikivoyagePath": "t/q/s/n/merv-wk"
 }

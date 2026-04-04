@@ -112,14 +112,14 @@
       "distanceKm": 79.2
     },
     "ne": {
-      "id": "flight-19-wp",
-      "title": "Flight 19",
-      "tile": "djpu",
+      "id": "grand-bahama-aux-af-airport-wp",
+      "title": "Grand Bahama Aux AF Airport",
+      "tile": "dk8r",
       "coordinates": {
-        "lat": 29,
-        "lng": -79
+        "lat": 26.633333,
+        "lng": -78.366667
       },
-      "distanceKm": 341.2
+      "distanceKm": 158.9
     },
     "w": {
       "id": "dade-collier-training-and-transition-airport-wp",
@@ -132,14 +132,14 @@
       "distanceKm": 12.8
     },
     "e": {
-      "id": "h-l-hunley-wp",
-      "title": "H. L. Hunley",
-      "tile": "djz6",
+      "id": "grand-bahama-wp",
+      "title": "Grand Bahama",
+      "tile": "dk8r",
       "coordinates": {
-        "lat": 32.733333333333334,
-        "lng": -79.76666666666667
+        "lat": 26.65,
+        "lng": -78.316666666667
       },
-      "distanceKm": 776.3
+      "distanceKm": 178.9
     },
     "sw": {
       "id": "everglades-river-grass-wk",
@@ -162,14 +162,16 @@
       "distanceKm": 14.4
     },
     "se": {
-      "id": "batalla-de-santa-clara-wp",
-      "title": "Batalla de Santa Clara",
-      "tile": "dhp2",
+      "id": "chub-cay-wp",
+      "title": "Chub Cay",
+      "tile": "dk88",
       "coordinates": {
-        "lat": 22.616666666666667,
-        "lng": -79.68333333333334
+        "lat": 25.4483,
+        "lng": -77.76
       },
-      "distanceKm": 319.5
+      "distanceKm": 205.3
     }
-  }
+  },
+  "locationWikipediaPath": "d/h/w/f/miami-marine-stadium-wp",
+  "locationWikivoyagePath": "d/h/w/f/miami-wk"
 }

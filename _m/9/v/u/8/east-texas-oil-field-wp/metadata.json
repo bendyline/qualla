@@ -51,7 +51,7 @@
     "sourceType": "core",
     "sourceArticleId": "east-texas-oil-field-wp",
     "sourceGeohash4": "9vu8",
-    "smallPath": "_m/9/v/u/8/east-texas-oil-field-wp/hero-small.jpg"
+    "smallPath": "_m/9/v/u/8/east-texas-oil-field-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Austin Chalk stratigraphic column in Texas.png",
@@ -123,7 +123,7 @@
       "sourceType": "core",
       "sourceArticleId": "east-texas-oil-field-wp",
       "sourceGeohash4": "9vu8",
-      "smallPath": "_m/9/v/u/8/east-texas-oil-field-wp/east-texas-basin-geolo-small.png"
+      "smallPath": "_m/9/v/u/8/east-texas-oil-field-wp/east-texas-basin-geolo-small.webp"
     },
     {
       "filename": "MARKER ON I-20 NEAR LONGVIEW COMMEMORATES THE DISCOVERY IN 1930 OF THE EAST TEXAS OILFIELD, THE \"WORLD'S RICHEST... - NARA - 547768.jpg",
@@ -157,7 +157,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "east-texas-oil-field-wp",
-      "sourceGeohash4": "9vu8"
+      "sourceGeohash4": "9vu8",
+      "mediumPath": "_m/9/v/u/8/east-texas-oil-field-wp/marker-on-i-20-near-longview-c-medium.webp",
+      "smallPath": "_m/9/v/u/8/east-texas-oil-field-wp/marker-on-i-20-near-longview-c-small.webp"
     },
     {
       "filename": "East Texas Basin cross section.png",
@@ -190,7 +192,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "east-texas-oil-field-wp",
-      "sourceGeohash4": "9vu8"
+      "sourceGeohash4": "9vu8",
+      "smallPath": "_m/9/v/u/8/east-texas-oil-field-wp/east-texas-basin-cross-section-small.webp"
     }
   ],
   "galleryPaths": [
@@ -198,7 +201,6 @@
     "_m/9/v/u/8/east-texas-oil-field-wp/marker-on-i-20-near-longview-c.jpg",
     "_m/9/v/u/8/east-texas-oil-field-wp/east-texas-basin-cross-section.png"
   ],
-  "fetchedAt": "2026-02-21T23:22:13.526Z",
   "narration": {
     "files": [
       "9vu8-east-texas-oil-field-flight-context.mp3",
@@ -218,8 +220,7 @@
       "9vu8-east-texas-oil-field-slant-holes-and-texas-rangers.mp3": 55.504625,
       "9vu8-east-texas-oil-field-the-field-that-changed-texas.mp3": 69.6549166
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T11:53:47.194Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T23:22:14.567Z"
 }

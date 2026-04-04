@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/g/e/e/j/north-iceland-wk/geej-north-iceland-intro.mp3",
-        "_m/g/e/e/j/north-iceland-wk/geej-north-iceland-edge-of-the-arctic.mp3",
-        "_m/g/e/e/j/north-iceland-wk/geej-north-iceland-fire-and-ice.mp3",
         "_m/g/e/e/j/north-iceland-wk/geej-north-iceland-flight-context.mp3",
-        "_m/g/e/e/j/north-iceland-wk/geej-north-iceland-horse-country.mp3",
+        "_m/g/e/e/j/north-iceland-wk/geej-north-iceland-intro.mp3",
+        "_m/g/e/e/j/north-iceland-wk/geej-north-iceland-fire-and-ice.mp3",
+        "_m/g/e/e/j/north-iceland-wk/geej-north-iceland-the-diamond-circle.mp3",
         "_m/g/e/e/j/north-iceland-wk/geej-north-iceland-the-capital-of-the-north.mp3",
-        "_m/g/e/e/j/north-iceland-wk/geej-north-iceland-the-diamond-circle.mp3"
+        "_m/g/e/e/j/north-iceland-wk/geej-north-iceland-horse-country.mp3",
+        "_m/g/e/e/j/north-iceland-wk/geej-north-iceland-edge-of-the-arctic.mp3"
       ],
       "hero": {
         "path": "_m/g/e/d/3/iceland-wp/iceland-2017-02-22-gullfoss-36.jpg",
@@ -25,7 +25,9 @@
         "sourceType": "sibling",
         "sourceArticleId": "iceland-wp",
         "sourceGeohash4": "ged3",
-        "accessedAt": "2026-02-22T13:03:52.747Z"
+        "accessedAt": "2026-02-22T13:03:52.747Z",
+        "mediumPath": "_m/g/e/e/j/north-iceland-wk/hero-medium.webp",
+        "smallPath": "_m/g/e/e/j/north-iceland-wk/hero-small.webp"
       },
       "images": [
         {
@@ -776,7 +778,8 @@
           "sourceGeohash4": "ged3",
           "accessedAt": "2026-02-22T13:03:52.747Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/g/e/e/j/north-iceland-wk/geej-north-iceland-combined.mp3"
     }
   }
 }

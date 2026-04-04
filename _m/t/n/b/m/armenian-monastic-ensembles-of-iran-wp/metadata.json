@@ -105,7 +105,7 @@
       "sourceType": "core",
       "sourceArticleId": "armenian-monastic-ensembles-of-iran-wp",
       "sourceGeohash4": "tnbm",
-      "smallPath": "_m/t/n/b/m/armenian-monastic-ensembles-of-iran-wp/dzor-dzor-armenian-chu-small.jpg"
+      "smallPath": "_m/t/n/b/m/armenian-monastic-ensembles-of-iran-wp/dzor-dzor-armenian-chu-small.webp"
     },
     {
       "filename": "Ахтамар Сурб Хач.jpg",
@@ -163,5 +163,23 @@
     "_m/t/j/u/9/vank-cathedral-wp/akhtamar-surb-khach.jpg",
     "_m/t/j/u/9/vank-cathedral-wp/gandzasar-monastery.jpg"
   ],
-  "fetchedAt": "2026-03-01T13:29:27.184Z"
+  "narration": {
+    "files": [
+      "tnbm-armenian-monastic-ensembles-of-iran-flight-context.mp3",
+      "tnbm-armenian-monastic-ensembles-of-iran-intro.mp3",
+      "tnbm-armenian-monastic-ensembles-of-iran-the-black-church-on-the-border.mp3",
+      "tnbm-armenian-monastic-ensembles-of-iran-in-the-gorge-of-the-araxes.mp3",
+      "tnbm-armenian-monastic-ensembles-of-iran-empires-and-exoduses.mp3",
+      "tnbm-armenian-monastic-ensembles-of-iran-the-southeastern-edge.mp3"
+    ],
+    "durations": {
+      "tnbm-armenian-monastic-ensembles-of-iran-flight-context.mp3": 64.6770833,
+      "tnbm-armenian-monastic-ensembles-of-iran-intro.mp3": 45.7490833,
+      "tnbm-armenian-monastic-ensembles-of-iran-the-black-church-on-the-border.mp3": 67.336,
+      "tnbm-armenian-monastic-ensembles-of-iran-in-the-gorge-of-the-araxes.mp3": 80.6440416,
+      "tnbm-armenian-monastic-ensembles-of-iran-empires-and-exoduses.mp3": 73.5564166,
+      "tnbm-armenian-monastic-ensembles-of-iran-the-southeastern-edge.mp3": 63.1494166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

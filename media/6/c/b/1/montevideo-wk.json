@@ -3,36 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/6/c/b/1/montevideo-wk/6d8e-montevideo-intro.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-intro.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-along-avenida-18-de-julio.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-budget.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-buildings-and-monuments-museums-parks.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-buildings-and-monuments-museums.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-by-bus.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-by-plane.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-by-taxi.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-climate.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-eastern-and-southern-montevideo.mp3",
         "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-flight-context.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-mid-range.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-museums-parks.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-on-foot.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-overview.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-plaza-independencia.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-sleep.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-stay-healthy.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-stores-shopping-malls.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-sweet-drink.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-typical-food-is.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-understand.mp3",
-        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-visitor-information-discover-montevideo-website.mp3",
-        "_m/6/c/b/1/montevideo-wk/6d8e-montevideo-flight-context.mp3",
-        "_m/6/c/b/1/montevideo-wk/6d8e-montevideo-the-art-deco-city.mp3",
-        "_m/6/c/b/1/montevideo-wk/6d8e-montevideo-the-ciudad-vieja.mp3",
-        "_m/6/c/b/1/montevideo-wk/6d8e-montevideo-the-progressive-republic.mp3",
-        "_m/6/c/b/1/montevideo-wk/6d8e-montevideo-the-rambla.mp3",
-        "_m/6/c/b/1/montevideo-wk/6d8e-montevideo-the-tango.mp3"
+        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-intro.mp3",
+        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-the-ciudad-vieja.mp3",
+        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-the-rambla.mp3",
+        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-the-progressive-republic.mp3",
+        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-the-tango.mp3",
+        "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-the-art-deco-city.mp3"
       ],
       "hero": {
         "path": "_m/6/c/b/1/montevideo-wp/bay-view-139649779.jpg",
@@ -48,7 +25,9 @@
         "sourceType": "sibling",
         "sourceArticleId": "montevideo-wp",
         "sourceGeohash4": "6cb1",
-        "accessedAt": "2026-02-21T20:09:49.750Z"
+        "accessedAt": "2026-02-21T20:09:49.750Z",
+        "mediumPath": "_m/6/c/b/1/montevideo-wk/hero-medium.webp",
+        "smallPath": "_m/6/c/b/1/montevideo-wk/hero-small.webp"
       },
       "images": [
         {
@@ -72,8 +51,8 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FS20"
           ],
-          "smallPath": "_m/6/c/b/1/montevideo-wk/cabildo-montevideo-uru-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/cabildo-montevideo-uru-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/cabildo-montevideo-uru-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/cabildo-montevideo-uru-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/fortress-cerro-de-mont.jpg",
@@ -97,7 +76,7 @@
             "Hoverfish",
             "Self-published work"
           ],
-          "smallPath": "_m/6/c/b/1/montevideo-wk/fortress-cerro-de-mont-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/fortress-cerro-de-mont-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/panoramica-de-la-playa.jpg",
@@ -128,8 +107,8 @@
             "Self-published work",
             "Taken with Canon PowerShot G11"
           ],
-          "smallPath": "_m/6/c/b/1/montevideo-wk/panoramica-de-la-playa-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/panoramica-de-la-playa-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/panoramica-de-la-playa-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/panoramica-de-la-playa-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/castillo-soneira-prado.jpg",
@@ -152,7 +131,7 @@
             "Hoverfish",
             "Self-published work"
           ],
-          "smallPath": "_m/6/c/b/1/montevideo-wk/castillo-soneira-prado-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/castillo-soneira-prado-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/cementerio-central-de.jpg",
@@ -175,7 +154,7 @@
             "Hoverfish",
             "Self-published work"
           ],
-          "smallPath": "_m/6/c/b/1/montevideo-wk/cementerio-central-de-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/cementerio-central-de-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/back-door-pittamiglio.jpg",
@@ -198,8 +177,8 @@
             "Pittamiglio Castle",
             "Self-published work"
           ],
-          "smallPath": "_m/6/c/b/1/montevideo-wk/back-door-pittamiglio-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/back-door-pittamiglio-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/back-door-pittamiglio-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/back-door-pittamiglio-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/fachada-del-museo-del.jpg",
@@ -216,8 +195,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/fachada-del-museo-del-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/fachada-del-museo-del-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/fachada-del-museo-del-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/fachada-del-museo-del-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/house-belonged-general.jpg",
@@ -234,8 +213,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/house-belonged-general-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/house-belonged-general-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/house-belonged-general-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/house-belonged-general-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/hotel-casino-carrasco.jpg",
@@ -252,8 +231,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/hotel-casino-carrasco-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/hotel-casino-carrasco-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/hotel-casino-carrasco-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/hotel-casino-carrasco-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/april-3rd-2011-opening.jpg",
@@ -270,8 +249,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/april-3rd-2011-opening-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/april-3rd-2011-opening-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/april-3rd-2011-opening-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/april-3rd-2011-opening-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/anglican-church-ciudad.jpg",
@@ -288,7 +267,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/anglican-church-ciudad-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/anglican-church-ciudad-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/photo-uruguayan-monume.jpg",
@@ -305,7 +284,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/photo-uruguayan-monume-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/photo-uruguayan-monume-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/cafe-brasilero-montevi.jpg",
@@ -322,8 +301,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/cafe-brasilero-montevi-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/cafe-brasilero-montevi-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/cafe-brasilero-montevi-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/cafe-brasilero-montevi-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/asado-la-chacra-del-pu.jpg",
@@ -340,8 +319,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/asado-la-chacra-del-pu-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/asado-la-chacra-del-pu-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/asado-la-chacra-del-pu-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/asado-la-chacra-del-pu-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/calle-ituzaingo-street.jpg",
@@ -358,8 +337,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/calle-ituzaingo-street-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/calle-ituzaingo-street-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/calle-ituzaingo-street-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/calle-ituzaingo-street-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/fresh-fruits-sale-pede.jpg",
@@ -376,8 +355,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/fresh-fruits-sale-pede-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/fresh-fruits-sale-pede-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/fresh-fruits-sale-pede-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/fresh-fruits-sale-pede-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/estevez-palace-montevi.jpg",
@@ -394,8 +373,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/estevez-palace-montevi-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/estevez-palace-montevi-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/estevez-palace-montevi-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/estevez-palace-montevi-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/view-plaza-independenc.jpg",
@@ -412,8 +391,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/view-plaza-independenc-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/view-plaza-independenc-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/view-plaza-independenc-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/view-plaza-independenc-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/public-city-buses-plaz.jpg",
@@ -430,8 +409,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/public-city-buses-plaz-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/public-city-buses-plaz-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/public-city-buses-plaz-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/public-city-buses-plaz-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/view-estadio-centenari.jpg",
@@ -448,8 +427,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/view-estadio-centenari-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/view-estadio-centenari-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/view-estadio-centenari-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/view-estadio-centenari-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/inside-football-soccer.jpg",
@@ -466,8 +445,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/inside-football-soccer-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/inside-football-soccer-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/inside-football-soccer-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/inside-football-soccer-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/fuente-de-los-candados.jpg",
@@ -484,8 +463,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/fuente-de-los-candados-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/fuente-de-los-candados-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/fuente-de-los-candados-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/fuente-de-los-candados-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/puesto-tradicional-de.jpg",
@@ -502,7 +481,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/puesto-tradicional-de-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/puesto-tradicional-de-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/montevideo.jpg",
@@ -519,8 +498,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/montevideo-1.jpg",
@@ -537,8 +516,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-1-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-1-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-1-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-1-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/montevideo-2.jpg",
@@ -555,8 +534,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-2-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-2-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-2-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-2-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/montevideo-3.jpg",
@@ -573,8 +552,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-3-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-3-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-3-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-3-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/montevideo-4.jpg",
@@ -591,8 +570,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-4-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-4-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-4-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-4-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/montevideo-5.jpg",
@@ -609,8 +588,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-5-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-5-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-5-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-5-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/montevideo-6.jpg",
@@ -627,8 +606,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-6-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-6-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-6-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-6-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/montevideo-7.jpg",
@@ -645,8 +624,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-7-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-7-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-7-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-7-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/montevideo-8.jpg",
@@ -663,8 +642,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-8-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-8-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-8-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-8-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/montevideo-9.jpg",
@@ -681,8 +660,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-9-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-9-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-9-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-9-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/restaurante-la-pasiva.jpg",
@@ -699,8 +678,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/restaurante-la-pasiva-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/restaurante-la-pasiva-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/restaurante-la-pasiva-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/restaurante-la-pasiva-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/img_5404.jpg",
@@ -717,8 +696,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/img_5404-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/img_5404-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/img_5404-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/img_5404-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/bar-fun-fun.jpg",
@@ -735,7 +714,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/bar-fun-fun-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/bar-fun-fun-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/facal-restaurant-monte.jpg",
@@ -752,8 +731,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/facal-restaurant-monte-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/facal-restaurant-monte-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/facal-restaurant-monte-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/facal-restaurant-monte-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/bar-san-rafael-montevi.jpg",
@@ -770,8 +749,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/bar-san-rafael-montevi-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/bar-san-rafael-montevi-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/bar-san-rafael-montevi-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/bar-san-rafael-montevi-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/destino26-hostel-monte.jpg",
@@ -788,8 +767,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/destino26-hostel-monte-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/destino26-hostel-monte-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/destino26-hostel-monte-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/destino26-hostel-monte-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/afueras-del-estadio-un.jpg",
@@ -806,8 +785,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/afueras-del-estadio-un-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/afueras-del-estadio-un-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/afueras-del-estadio-un-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/afueras-del-estadio-un-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/intendecia-municipal-d.jpg",
@@ -831,7 +810,7 @@
             "Palacio Municipal de Montevideo",
             "Self-published work"
           ],
-          "smallPath": "_m/6/c/b/1/montevideo-wk/intendecia-municipal-d-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/intendecia-municipal-d-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/fachada-del-edificio.jpg",
@@ -855,7 +834,7 @@
             "Museo de Arte Precolombino e Indígena",
             "Self-published work"
           ],
-          "smallPath": "_m/6/c/b/1/montevideo-wk/fachada-del-edificio-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/fachada-del-edificio-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/obelisk-montevideo-loc.jpg",
@@ -879,7 +858,7 @@
             "Obelisk of Montevideo",
             "Self-published work"
           ],
-          "smallPath": "_m/6/c/b/1/montevideo-wk/obelisk-montevideo-loc-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/obelisk-montevideo-loc-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/hospital-pereira-rosse.jpg",
@@ -900,7 +879,7 @@
             "CC-BY-SA-3.0",
             "Hospital Pereira Rossell"
           ],
-          "smallPath": "_m/6/c/b/1/montevideo-wk/hospital-pereira-rosse-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/hospital-pereira-rosse-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/torres-garcia-museum-c.jpg",
@@ -917,7 +896,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/torres-garcia-museum-c-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/torres-garcia-museum-c-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/front-museo-national-d.jpg",
@@ -934,8 +913,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/front-museo-national-d-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/front-museo-national-d-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/front-museo-national-d-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/front-museo-national-d-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/hospital-maciel-calle.jpg",
@@ -952,7 +931,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/hospital-maciel-calle-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/hospital-maciel-calle-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/hipodromo-nacional-de.jpg",
@@ -969,7 +948,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/hipodromo-nacional-de-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/hipodromo-nacional-de-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/hotel-sheraton-seen-ra.jpg",
@@ -986,7 +965,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/hotel-sheraton-seen-ra-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/hotel-sheraton-seen-ra-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/entrance-parque-lecocq.jpg",
@@ -1003,7 +982,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/entrance-parque-lecocq-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/entrance-parque-lecocq-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/plataforma-de-salida-l.jpg",
@@ -1020,8 +999,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/plataforma-de-salida-l-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/plataforma-de-salida-l-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/plataforma-de-salida-l-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/plataforma-de-salida-l-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/entrada-principal-del.jpg",
@@ -1038,8 +1017,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/entrada-principal-del-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/entrada-principal-del-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/entrada-principal-del-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/entrada-principal-del-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/desfile-de-llamadas-ur.jpg",
@@ -1056,7 +1035,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/desfile-de-llamadas-ur-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/desfile-de-llamadas-ur-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/museo-de-bellas-artes.jpg",
@@ -1073,7 +1052,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/museo-de-bellas-artes-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/museo-de-bellas-artes-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/fachada-trasera-del-pa.jpg",
@@ -1090,8 +1069,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/fachada-trasera-del-pa-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/fachada-trasera-del-pa-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/fachada-trasera-del-pa-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/fachada-trasera-del-pa-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/memorial-holocaust-jew.jpg",
@@ -1108,7 +1087,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/memorial-holocaust-jew-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/memorial-holocaust-jew-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/dscn3069.jpg",
@@ -1125,7 +1104,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/dscn3069-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/dscn3069-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/photo-uruguayan-monume-1.jpg",
@@ -1142,8 +1121,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/photo-uruguayan-monume-1-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/photo-uruguayan-monume-1-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/photo-uruguayan-monume-1-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/photo-uruguayan-monume-1-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/photo-uruguayan-monume-2.jpg",
@@ -1160,8 +1139,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/photo-uruguayan-monume-2-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/photo-uruguayan-monume-2-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/photo-uruguayan-monume-2-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/photo-uruguayan-monume-2-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/fachada-del-museo-ande.jpg",
@@ -1178,8 +1157,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/fachada-del-museo-ande-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/fachada-del-museo-ande-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/fachada-del-museo-ande-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/fachada-del-museo-ande-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/milanesa-papas-fritas.jpg",
@@ -1196,8 +1175,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/milanesa-papas-fritas-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/milanesa-papas-fritas-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/milanesa-papas-fritas-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/milanesa-papas-fritas-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/mercado-del-puerto-out.jpg",
@@ -1214,8 +1193,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/mercado-del-puerto-out-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/mercado-del-puerto-out-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/mercado-del-puerto-out-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/mercado-del-puerto-out-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/puro-verso-book-store.jpg",
@@ -1232,8 +1211,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/puro-verso-book-store-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/puro-verso-book-store-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/puro-verso-book-store-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/puro-verso-book-store-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/calle-perez-castellano.jpg",
@@ -1250,8 +1229,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/calle-perez-castellano-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/calle-perez-castellano-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/calle-perez-castellano-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/calle-perez-castellano-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/southwestern-section-p.jpg",
@@ -1268,8 +1247,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/southwestern-section-p-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/southwestern-section-p-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/southwestern-section-p-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/southwestern-section-p-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/palacio-municipal-mont.jpg",
@@ -1286,8 +1265,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/palacio-municipal-mont-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/palacio-municipal-mont-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/palacio-municipal-mont-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/palacio-municipal-mont-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/playa-pocitos-montevid.jpg",
@@ -1304,8 +1283,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/playa-pocitos-montevid-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/playa-pocitos-montevid-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/playa-pocitos-montevid-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/playa-pocitos-montevid-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/palacio-legislativo-mo.jpg",
@@ -1322,8 +1301,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/palacio-legislativo-mo-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/palacio-legislativo-mo-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/palacio-legislativo-mo-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/palacio-legislativo-mo-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/palacio-salvo-montevid.jpg",
@@ -1340,8 +1319,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/palacio-salvo-montevid-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/palacio-salvo-montevid-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/palacio-salvo-montevid-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/palacio-salvo-montevid-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/museo-de-historia-del.jpg",
@@ -1358,7 +1337,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/museo-de-historia-del-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/museo-de-historia-del-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/foto-tomada-en-montevi.jpg",
@@ -1375,8 +1354,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/foto-tomada-en-montevi-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/foto-tomada-en-montevi-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/foto-tomada-en-montevi-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/foto-tomada-en-montevi-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/parte-de-las-piezas-qu.jpg",
@@ -1393,8 +1372,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/parte-de-las-piezas-qu-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/parte-de-las-piezas-qu-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/parte-de-las-piezas-qu-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/parte-de-las-piezas-qu-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/museo-oceanografico-da.jpg",
@@ -1411,8 +1390,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/museo-oceanografico-da-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/museo-oceanografico-da-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/museo-oceanografico-da-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/museo-oceanografico-da-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/letras-formando-la-pal.jpg",
@@ -1429,8 +1408,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/letras-formando-la-pal-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/letras-formando-la-pal-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/letras-formando-la-pal-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/letras-formando-la-pal-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/montevideo-shopping-in.jpg",
@@ -1447,8 +1426,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-shopping-in-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-shopping-in-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-shopping-in-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-shopping-in-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/weekend-outdoor-market.jpg",
@@ -1465,8 +1444,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/weekend-outdoor-market-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/weekend-outdoor-market-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/weekend-outdoor-market-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/weekend-outdoor-market-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/i-took-photo-restauran.jpg",
@@ -1483,8 +1462,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/i-took-photo-restauran-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/i-took-photo-restauran-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/i-took-photo-restauran-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/i-took-photo-restauran-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/ibis-hotel-calle-la-cu.jpg",
@@ -1501,7 +1480,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/ibis-hotel-calle-la-cu-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/ibis-hotel-calle-la-cu-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/branch-la-cigale-monte.jpg",
@@ -1518,8 +1497,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/branch-la-cigale-monte-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/branch-la-cigale-monte-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/branch-la-cigale-monte-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/branch-la-cigale-monte-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/mercado-de-los-artesan.jpg",
@@ -1536,8 +1515,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/mercado-de-los-artesan-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/mercado-de-los-artesan-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/mercado-de-los-artesan-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/mercado-de-los-artesan-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/hotel-iberia-montevide.jpg",
@@ -1554,8 +1533,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/hotel-iberia-montevide-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/hotel-iberia-montevide-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/hotel-iberia-montevide-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/hotel-iberia-montevide-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/hotel-gema-en-montevid.jpg",
@@ -1572,8 +1551,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/hotel-gema-en-montevid-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/hotel-gema-en-montevid-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/hotel-gema-en-montevid-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/hotel-gema-en-montevid-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/avenue-along-rio-de-la.jpg",
@@ -1602,7 +1581,7 @@
             "Río de la Plata",
             "Sidewalks in Montevideo"
           ],
-          "smallPath": "_m/6/c/b/1/montevideo-wk/avenue-along-rio-de-la-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/avenue-along-rio-de-la-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/classic-view-remarkabl.jpg",
@@ -1625,7 +1604,7 @@
             "Files with coordinates missing SDC location of creation (35° S, 57° W)",
             "Flickr images uploaded by Flickr upload bot"
           ],
-          "smallPath": "_m/6/c/b/1/montevideo-wk/classic-view-remarkabl-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/classic-view-remarkabl-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/statue-fructuoso-river.jpg",
@@ -1650,7 +1629,7 @@
             "Terminal y Shopping Tres Cruces",
             "Tres Cruces"
           ],
-          "smallPath": "_m/6/c/b/1/montevideo-wk/statue-fructuoso-river-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/statue-fructuoso-river-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/shannon-irish-pub-bart.jpg",
@@ -1672,7 +1651,7 @@
             "Self-published work",
             "The Shannon Irish Pub"
           ],
-          "smallPath": "_m/6/c/b/1/montevideo-wk/shannon-irish-pub-bart-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/shannon-irish-pub-bart-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/photo-uruguayan-monume-3.jpg",
@@ -1693,8 +1672,8 @@
             "CC-BY-SA-3.0",
             "Cultural heritage monuments in Uruguay with known IDs"
           ],
-          "smallPath": "_m/6/c/b/1/montevideo-wk/photo-uruguayan-monume-3-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/photo-uruguayan-monume-3-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/photo-uruguayan-monume-3-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/photo-uruguayan-monume-3-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/uruguayan-police-car-t.jpg",
@@ -1711,8 +1690,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/uruguayan-police-car-t-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/uruguayan-police-car-t-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/uruguayan-police-car-t-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/uruguayan-police-car-t-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/tango-dance-performanc.jpg",
@@ -1729,8 +1708,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/tango-dance-performanc-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/tango-dance-performanc-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/tango-dance-performanc-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/tango-dance-performanc-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/closer-picture-punta-c.jpg",
@@ -1747,8 +1726,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/closer-picture-punta-c-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/closer-picture-punta-c-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/closer-picture-punta-c-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/closer-picture-punta-c-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/world-trade-center-mon.jpg",
@@ -1765,7 +1744,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/world-trade-center-mon-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/world-trade-center-mon-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/restaurant-citadelle-m.jpg",
@@ -1782,8 +1761,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/restaurant-citadelle-m-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/restaurant-citadelle-m-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/restaurant-citadelle-m-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/restaurant-citadelle-m-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/room-hotel-mercosur-un.jpg",
@@ -1800,8 +1779,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/room-hotel-mercosur-un-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/room-hotel-mercosur-un-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/room-hotel-mercosur-un-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/room-hotel-mercosur-un-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/feira-de-artesanato-6387645873.jpg",
@@ -1826,7 +1805,7 @@
             "Plaza Constitución, Montevideo",
             "Street markets in Uruguay"
           ],
-          "smallPath": "_m/6/c/b/1/montevideo-wk/feira-de-artesanato-6387645873-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/feira-de-artesanato-6387645873-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/puerto-de-motevideo-6411115279.jpg",
@@ -1850,7 +1829,7 @@
             "Flickr images reviewed by FlickreviewR 2",
             "Montevideo"
           ],
-          "smallPath": "_m/6/c/b/1/montevideo-wk/puerto-de-motevideo-6411115279-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/puerto-de-motevideo-6411115279-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/plaza-independencia-6411125033.jpg",
@@ -1871,7 +1850,7 @@
             "April 2006 in Montevideo",
             "CC-BY-2.0"
           ],
-          "smallPath": "_m/6/c/b/1/montevideo-wk/plaza-independencia-6411125033-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/plaza-independencia-6411125033-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/carousel-225660057.jpg",
@@ -1888,8 +1867,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/carousel-225660057-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/carousel-225660057-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/carousel-225660057-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/carousel-225660057-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/cloud-of-day-151591747.jpg",
@@ -1906,8 +1885,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/cloud-of-day-151591747-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/cloud-of-day-151591747-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/cloud-of-day-151591747-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/cloud-of-day-151591747-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/a-river-s-edge-318104482.jpg",
@@ -1924,7 +1903,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/a-river-s-edge-318104482-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/a-river-s-edge-318104482-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/another-spectacular-evening-42.jpg",
@@ -1941,7 +1920,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/another-spectacular-evening-42-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/another-spectacular-evening-42-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/fishing-at-sunset-1455921878.jpg",
@@ -1958,7 +1937,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/fishing-at-sunset-1455921878-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/fishing-at-sunset-1455921878-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/bulls-on-parade-116355663.jpg",
@@ -1975,8 +1954,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/bulls-on-parade-116355663-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/bulls-on-parade-116355663-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/bulls-on-parade-116355663-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/bulls-on-parade-116355663-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/casa-standard.png",
@@ -1993,7 +1972,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/casa-standard-small.png"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/casa-standard-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/casas-standard.png",
@@ -2010,7 +1989,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/casas-standard-small.png"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/casas-standard-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/300-millones-de-anos-coniferas.jpg",
@@ -2027,8 +2006,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/300-millones-de-anos-coniferas-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/300-millones-de-anos-coniferas-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/300-millones-de-anos-coniferas-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/300-millones-de-anos-coniferas-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/dscf3450-2978566827.jpg",
@@ -2045,7 +2024,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/dscf3450-2978566827-small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/dscf3450-2978566827-small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/cannabis-verkauf-in-montevideo.jpg",
@@ -2062,8 +2041,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/cannabis-verkauf-in-montevideo-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/cannabis-verkauf-in-montevideo-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/cannabis-verkauf-in-montevideo-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/cannabis-verkauf-in-montevideo-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/montevideo-6063499146.jpg",
@@ -2080,8 +2059,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-6063499146-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-6063499146-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-6063499146-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-6063499146-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/montevideo-6062949099.jpg",
@@ -2098,8 +2077,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-6062949099-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-6062949099-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-6062949099-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-6062949099-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/montevideo-6063493608.jpg",
@@ -2116,8 +2095,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-6063493608-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-6063493608-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/montevideo-6063493608-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/montevideo-6063493608-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/8-marzo-palacio-legislativo-mo.jpg",
@@ -2134,8 +2113,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/8-marzo-palacio-legislativo-mo-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/8-marzo-palacio-legislativo-mo-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/8-marzo-palacio-legislativo-mo-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/8-marzo-palacio-legislativo-mo-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/legislative-palace-in-montevid.jpg",
@@ -2152,8 +2131,8 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/legislative-palace-in-montevid-small.jpg",
-          "mediumPath": "_m/6/c/b/1/montevideo-wk/legislative-palace-in-montevid-medium.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/legislative-palace-in-montevid-small.webp",
+          "mediumPath": "_m/6/c/b/1/montevideo-wk/legislative-palace-in-montevid-medium.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wk/campana-banco-rojo-montevideo-.jpg",
@@ -2170,7 +2149,7 @@
           "sourceArticleId": "montevideo-wk",
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z",
-          "smallPath": "_m/6/c/b/1/montevideo-wk/campana-banco-rojo-montevideo--small.jpg"
+          "smallPath": "_m/6/c/b/1/montevideo-wk/campana-banco-rojo-montevideo--small.webp"
         },
         {
           "path": "_m/6/c/b/1/montevideo-wp/montevideo-map.png",
@@ -2829,7 +2808,8 @@
           "sourceGeohash4": "6cb1",
           "accessedAt": "2026-02-21T20:09:49.750Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/6/c/b/1/montevideo-wk/6cb1-montevideo-combined.mp3"
     }
   }
 }

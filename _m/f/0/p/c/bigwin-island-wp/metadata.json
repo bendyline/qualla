@@ -32,7 +32,7 @@
     "sourceType": "core",
     "sourceArticleId": "bigwin-island-wp",
     "sourceGeohash4": "f0pc",
-    "smallPath": "_m/f/0/p/c/bigwin-island-wp/hero-small.jpg"
+    "smallPath": "_m/f/0/p/c/bigwin-island-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Fallairphoto.jpg",
@@ -115,14 +115,34 @@
       "sourceType": "commons-category",
       "sourceArticleId": "bigwin-island-wp",
       "sourceGeohash4": "f0pc",
-      "mediumPath": "_m/f/0/p/c/bigwin-island-wp/bigwin-island-sunset-medium.jpg",
-      "smallPath": "_m/f/0/p/c/bigwin-island-wp/bigwin-island-sunset-small.jpg"
+      "mediumPath": "_m/f/0/p/c/bigwin-island-wp/bigwin-island-sunset-medium.webp",
+      "smallPath": "_m/f/0/p/c/bigwin-island-wp/bigwin-island-sunset-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/d/p/t/k/oil-springs-first-well-wk/location-map-southern.png",
     "_m/f/0/p/c/bigwin-island-wp/bigwin-island-sunset.jpg"
   ],
-  "fetchedAt": "2026-02-28T11:22:18.294Z",
-  "updatedAt": "2026-02-28T11:22:33.112Z"
+  "updatedAt": "2026-02-28T11:22:33.112Z",
+  "narration": {
+    "files": [
+      "f0pc-bigwin-island-flight-context.mp3",
+      "f0pc-bigwin-island-intro.mp3",
+      "f0pc-bigwin-island-the-name-on-the-graves.mp3",
+      "f0pc-bigwin-island-an-inn-built-on-ice.mp3",
+      "f0pc-bigwin-island-music-monarchs-and-the-dance-pavilion.mp3",
+      "f0pc-bigwin-island-closing-time.mp3",
+      "f0pc-bigwin-island-a-second-life-on-the-fairway.mp3"
+    ],
+    "durations": {
+      "f0pc-bigwin-island-flight-context.mp3": 47.8723333,
+      "f0pc-bigwin-island-intro.mp3": 53.2917083,
+      "f0pc-bigwin-island-the-name-on-the-graves.mp3": 45.81225,
+      "f0pc-bigwin-island-an-inn-built-on-ice.mp3": 61.625375,
+      "f0pc-bigwin-island-music-monarchs-and-the-dance-pavilion.mp3": 59.7799583,
+      "f0pc-bigwin-island-closing-time.mp3": 66.2549166,
+      "f0pc-bigwin-island-a-second-life-on-the-fairway.mp3": 61.5934583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

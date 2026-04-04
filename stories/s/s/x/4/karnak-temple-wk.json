@@ -76,84 +76,84 @@
   "locationWikipediaPath": "s/s/x/4/temple-of-ptah-karnak-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "great-sphinx-wk",
-      "title": "The Great Sphinx: The Face That Has Been Staring at the Sunrise for 4,500 Years",
-      "tile": "stq4",
+      "id": "valley-of-the-golden-mummies-wp",
+      "title": "Valley of the Golden Mummies",
+      "tile": "sth3",
       "coordinates": {
-        "lat": 29.9753,
-        "lng": 31.1376
+        "lat": 28.326811111111,
+        "lng": 28.826111111111
       },
-      "distanceKm": 448.2
+      "distanceKm": 405.1
     },
     "n": {
-      "id": "great-pyramid-wk",
-      "title": "The Great Pyramid: The Monument That Shouldn't Exist",
-      "tile": "stq4",
+      "id": "black-pyramid-wp",
+      "title": "Black Pyramid",
+      "tile": "stq1",
       "coordinates": {
-        "lat": 29.9792,
-        "lng": 31.1342
+        "lat": 29.79166667,
+        "lng": 31.22361111
       },
-      "distanceKm": 461.2
+      "distanceKm": 438.8
     },
     "ne": {
-      "id": "jerusalem-wk",
-      "title": "Jerusalem",
-      "tile": "sv9h",
+      "id": "saint-catherine-s-monastery-wp",
+      "title": "Saint Catherine's Monastery",
+      "tile": "sv04",
       "coordinates": {
-        "lat": 31.7683,
-        "lng": 35.2137
+        "lat": 28.5561,
+        "lng": 33.9757
       },
-      "distanceKm": 673.5
+      "distanceKm": 297
     },
     "w": {
-      "id": "library-alexandria-wk",
-      "title": "The Library of Alexandria: The Lost Knowledge of the Ancient World",
-      "tile": "stt3",
+      "id": "1992-cairo-earthquake-wp",
+      "title": "1992 Cairo Earthquake",
+      "tile": "stq1",
       "coordinates": {
-        "lat": 31.2001,
-        "lng": 29.9187
+        "lat": 29.778,
+        "lng": 31.144
       },
-      "distanceKm": 638.8
+      "distanceKm": 455.4
     },
     "e": {
-      "id": "tel-aviv-wk",
-      "title": "Tel Aviv",
-      "tile": "sv8w",
+      "id": "wadi-rum-wp",
+      "title": "Wadi Rum",
+      "tile": "sv30",
       "coordinates": {
-        "lat": 32.0853,
-        "lng": 34.7818
+        "lat": 29.5765,
+        "lng": 35.419928
       },
-      "distanceKm": 724.2
+      "distanceKm": 485.2
     },
     "sw": {
-      "id": "accra-wk",
-      "title": "Accra",
-      "tile": "ebzz",
+      "id": "sudanese-conflict-in-south-kordofan-and-blue-nile-wp",
+      "title": "Sudanese Conflict in South Kordofan and Blue Nile",
+      "tile": "s9vp",
       "coordinates": {
-        "lat": 5.6037,
-        "lng": -0.187
+        "lat": 11.25,
+        "lng": 30.2
       },
-      "distanceKm": 4074.4
+      "distanceKm": 1594.4
     },
     "s": {
-      "id": "abu-dhabi-wk",
-      "title": "Abu Dhabi",
-      "tile": "thqe",
+      "id": "tuwaiq-wp",
+      "title": "Tuwaiq Escarpment",
+      "tile": "t581",
       "coordinates": {
-        "lat": 24.4667,
-        "lng": 54.3667
+        "lat": 19.914364,
+        "lng": 45.251864
       },
-      "distanceKm": 2202.6
+      "distanceKm": 1444.6
     },
     "se": {
-      "id": "aden-wk",
-      "title": "Aden",
-      "tile": "t420",
+      "id": "qaryat-al-faw-wp",
+      "title": "Qaryat al-Faw",
+      "tile": "t580",
       "coordinates": {
-        "lat": 12.783333333333,
-        "lng": 45.016666666667
+        "lat": 19.7833,
+        "lng": 45.15
       },
-      "distanceKm": 1888.8
+      "distanceKm": 1393.7
     }
   },
   "keywords": [

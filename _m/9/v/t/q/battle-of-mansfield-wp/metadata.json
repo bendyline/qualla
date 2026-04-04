@@ -25,8 +25,8 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-mansfield-wp",
     "sourceGeohash4": "9vtq",
-    "smallPath": "_m/9/v/t/q/battle-of-mansfield-wp/hero-small.jpg",
-    "mediumPath": "_m/9/v/t/q/battle-of-mansfield-wp/hero-medium.jpg"
+    "smallPath": "_m/9/v/t/q/battle-of-mansfield-wp/hero-small.webp",
+    "mediumPath": "_m/9/v/t/q/battle-of-mansfield-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "FLIN 18 - 121.png",
@@ -81,7 +81,7 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-mansfield-wp",
       "sourceGeohash4": "9vtq",
-      "smallPath": "_m/9/v/t/q/battle-of-mansfield-wp/map-battlefield-core-s-small.jpg"
+      "smallPath": "_m/9/v/t/q/battle-of-mansfield-wp/map-battlefield-core-s-small.webp"
     },
     {
       "filename": "FLIN 18 - 120.png",
@@ -110,8 +110,8 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-mansfield-wp",
       "sourceGeohash4": "9vtq",
-      "smallPath": "_m/9/v/t/q/battle-of-mansfield-wp/illustration-vol-18-fr-small.png",
-      "mediumPath": "_m/9/v/t/q/battle-of-mansfield-wp/illustration-vol-18-fr-medium.png"
+      "smallPath": "_m/9/v/t/q/battle-of-mansfield-wp/illustration-vol-18-fr-small.webp",
+      "mediumPath": "_m/9/v/t/q/battle-of-mansfield-wp/illustration-vol-18-fr-medium.webp"
     },
     {
       "filename": "MansfieldMapFromBanksOfficaReport.jpg",
@@ -134,7 +134,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-mansfield-wp",
-      "sourceGeohash4": "9vtq"
+      "sourceGeohash4": "9vtq",
+      "smallPath": "_m/9/v/t/q/battle-of-mansfield-wp/mansfieldmapfrombanksofficarep-small.webp"
     },
     {
       "filename": "Episcopal Church in Mansfield, Louisiana, 2009.jpg",
@@ -163,7 +164,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-mansfield-wp",
-      "sourceGeohash4": "9vtq"
+      "sourceGeohash4": "9vtq",
+      "mediumPath": "_m/9/v/t/q/battle-of-mansfield-wp/episcopal-church-in-mansfield--medium.webp",
+      "smallPath": "_m/9/v/t/q/battle-of-mansfield-wp/episcopal-church-in-mansfield--small.webp"
     }
   ],
   "galleryPaths": [
@@ -172,7 +175,6 @@
     "_m/9/v/t/q/battle-of-mansfield-wp/mansfieldmapfrombanksofficarep.jpg",
     "_m/9/v/t/q/battle-of-mansfield-wp/episcopal-church-in-mansfield-.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:20:25.335Z",
   "narration": {
     "files": [
       "9vtq-battle-of-mansfield-flight-context.mp3",
@@ -190,8 +192,7 @@
       "9vtq-battle-of-mansfield-three-lines-broken.mp3": 63.5849583,
       "9vtq-battle-of-mansfield-twenty-cannons-and-a-womens-college.mp3": 70.983875
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T11:28:23.313Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T23:20:26.198Z"
 }

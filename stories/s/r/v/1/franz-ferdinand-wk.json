@@ -119,6 +119,16 @@
   "locationWikipediaPath": "s/r/v/1/monument-to-franz-ferdinand-in-sarajevo-wp",
   "directionalNeighbors": {
     "nw": {
+      "id": "plitvice-lakes-national-park-wk",
+      "title": "Plitvice Lakes National Park",
+      "tile": "srgp",
+      "coordinates": {
+        "lat": 44.880445,
+        "lng": 15.616035
+      },
+      "distanceKm": 202
+    },
+    "n": {
       "id": "zagreb-wk",
       "title": "Zagreb",
       "tile": "u25k",
@@ -126,17 +136,7 @@
         "lat": 45.815,
         "lng": 15.9819
       },
-      "distanceKm": 242.8
-    },
-    "n": {
-      "id": "budapest-wk",
-      "title": "Budapest",
-      "tile": "u2mw",
-      "coordinates": {
-        "lat": 47.4979,
-        "lng": 19.0402
-      },
-      "distanceKm": 378.2
+      "distanceKm": 270.9
     },
     "ne": {
       "id": "karansebes-wk",
@@ -149,54 +149,54 @@
       "distanceKm": 293
     },
     "w": {
-      "id": "split-wk",
-      "title": "Split",
-      "tile": "srex",
+      "id": "mostar-wk",
+      "title": "Mostar",
+      "tile": "srsw",
       "coordinates": {
-        "lat": 43.5081,
-        "lng": 16.4402
+        "lat": 43.34361111111111,
+        "lng": 17.8075
       },
-      "distanceKm": 125.9
+      "distanceKm": 58
     },
     "e": {
-      "id": "thessaloniki-wk",
-      "title": "Thessaloniki",
-      "tile": "sx0r",
+      "id": "1963-skopje-earthquake-wp",
+      "title": "1963 Skopje Earthquake",
+      "tile": "srrn",
       "coordinates": {
-        "lat": 40.6401,
-        "lng": 22.9444
+        "lat": 42,
+        "lng": 21.4333
       },
-      "distanceKm": 483.9
+      "distanceKm": 287
     },
     "sw": {
-      "id": "kor-ula-wk",
-      "title": "Korcula: Marco Polo's Island in the Dalmatian Adriatic",
-      "tile": "srsh",
+      "id": "siege-of-mostar-wp",
+      "title": "Siege of Mostar",
+      "tile": "srsw",
       "coordinates": {
-        "lat": 42.95,
-        "lng": 17.1167
+        "lat": 43.349444444444,
+        "lng": 17.8125
       },
-      "distanceKm": 97.2
+      "distanceKm": 28.8
     },
     "s": {
-      "id": "dubrovnik-wk",
-      "title": "Dubrovnik",
-      "tile": "srsf",
+      "id": "stari-most-wp",
+      "title": "Stari Most",
+      "tile": "srsw",
       "coordinates": {
-        "lat": 42.6507,
-        "lng": 18.0944
+        "lat": 43.33727777777778,
+        "lng": 17.81502777777778
       },
-      "distanceKm": 108.9
+      "distanceKm": 59.1
     },
     "se": {
-      "id": "albanian-riviera-wk",
-      "title": "Albanian Riviera",
-      "tile": "srn5",
+      "id": "matka-canyon-wp",
+      "title": "Matka Canyon",
+      "tile": "srrn",
       "coordinates": {
-        "lat": 40.073,
-        "lng": 19.764
+        "lat": 41.94,
+        "lng": 21.3
       },
-      "distanceKm": 396.8
+      "distanceKm": 263.7
     }
   },
   "keywords": [

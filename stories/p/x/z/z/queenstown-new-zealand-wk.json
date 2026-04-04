@@ -76,78 +76,91 @@
   "locationWikivoyagePath": "p/x/z/z/queenstown-new-zealand-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "hobart-wk",
-      "title": "Hobart",
-      "tile": "r22s",
+      "id": "homer-tunnel-wp",
+      "title": "Homer Tunnel",
+      "tile": "r8p3",
       "coordinates": {
-        "lat": -42.8509,
-        "lng": 147.291
+        "lat": -44.7642,
+        "lng": 167.9815
       },
-      "distanceKm": 1674.5
+      "distanceKm": 8.4
     },
     "n": {
-      "id": "wellington-wk",
-      "title": "Wellington",
-      "tile": "rbsm",
+      "id": "shotover-river-wp",
+      "title": "Shotover River",
+      "tile": "r8pc",
       "coordinates": {
-        "lat": -41.2866,
-        "lng": 174.7756
+        "lat": -44.807947222222,
+        "lng": 168.73627777778
       },
-      "distanceKm": 638.9
+      "distanceKm": 12.9
     },
     "ne": {
-      "id": "west-coast-new-zealand-wk",
-      "title": "West Coast (New Zealand)",
-      "tile": "rb2v",
+      "id": "wanaka-wk",
+      "title": "Wanaka",
+      "tile": "rb03",
       "coordinates": {
-        "lat": -42.7,
-        "lng": 170
+        "lat": -44.69746,
+        "lng": 169.13675
       },
-      "distanceKm": 247
+      "distanceKm": 14.4
     },
     "w": {
-      "id": "chatham-islands-wk",
-      "title": "Chatham Islands",
-      "tile": "204t",
+      "id": "milford-road-wk",
+      "title": "Milford Road",
+      "tile": "pxzq",
       "coordinates": {
-        "lat": -44,
-        "lng": -176.4
+        "lat": -45.2004,
+        "lng": 167.8226
       },
-      "distanceKm": 1236.6
+      "distanceKm": 21.6
     },
     "e": {
-      "id": "abel-tasman-national-park-wk",
-      "title": "Abel Tasman National Park",
-      "tile": "rbdz",
+      "id": "warbirds-over-wanaka-wp",
+      "title": "Warbirds over Wanaka",
+      "tile": "rb03",
       "coordinates": {
-        "lat": -40.833333,
-        "lng": 172.9
+        "lat": -44.7225,
+        "lng": 169.246
       },
-      "distanceKm": 565
+      "distanceKm": 42.2
     },
     "sw": {
-      "id": "antarctic-peninsula-wk",
-      "title": "Antarctic Peninsula",
-      "tile": "4e9p",
+      "id": "te-anau-wk",
+      "title": "Te Anau",
+      "tile": "pxzm",
       "coordinates": {
-        "lat": -69,
-        "lng": -66
+        "lat": -45.415,
+        "lng": 167.716
       },
-      "distanceKm": 6551
+      "distanceKm": 26.8
     },
     "s": {
-      "id": "west-antarctica-wk",
-      "title": "West Antarctica",
-      "tile": "1cby",
+      "id": "manapouri-wk",
+      "title": "Manapouri",
+      "tile": "pxzh",
       "coordinates": {
-        "lat": -79,
-        "lng": -100
+        "lat": -45.56695,
+        "lng": 167.61154
       },
-      "distanceKm": 5111.7
+      "distanceKm": 78.8
+    },
+    "se": {
+      "id": "otago-gold-rush-wp",
+      "title": "Otago Gold Rush",
+      "tile": "pzbd",
+      "coordinates": {
+        "lat": -45.881763,
+        "lng": 169.679632
+      },
+      "distanceKm": 74.1
     }
   },
   "keywords": [
     "queenstown",
     "queenstown-new-zealand"
+  ],
+  "duplicates": [
+    "queenstown-gardens-wp"
   ]
 }

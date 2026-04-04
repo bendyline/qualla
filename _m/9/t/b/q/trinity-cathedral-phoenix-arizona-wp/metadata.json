@@ -26,8 +26,8 @@
     "sourceType": "core",
     "sourceArticleId": "trinity-cathedral-phoenix-arizona-wp",
     "sourceGeohash4": "9tbq",
-    "smallPath": "_m/9/t/b/q/trinity-cathedral-phoenix-arizona-wp/hero-small.jpg",
-    "mediumPath": "_m/9/t/b/q/trinity-cathedral-phoenix-arizona-wp/hero-medium.jpg"
+    "smallPath": "_m/9/t/b/q/trinity-cathedral-phoenix-arizona-wp/hero-small.webp",
+    "mediumPath": "_m/9/t/b/q/trinity-cathedral-phoenix-arizona-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Trinity Episcopal Cathedral (Phoenix).png",
@@ -82,7 +82,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "trinity-cathedral-phoenix-arizona-wp",
-      "sourceGeohash4": "9tbq"
+      "sourceGeohash4": "9tbq",
+      "smallPath": "_m/9/t/b/q/trinity-cathedral-phoenix-arizona-wp/trinity-cathedral-phoenix-small.webp"
     },
     {
       "filename": "Phoenix-Church-Trinity Episcopal Cathedral-1915.jpg",
@@ -106,14 +107,15 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "trinity-cathedral-phoenix-arizona-wp",
-      "sourceGeohash4": "9tbq"
+      "sourceGeohash4": "9tbq",
+      "mediumPath": "_m/9/t/b/q/trinity-cathedral-phoenix-arizona-wp/phoenix-church-trinity-episcop-medium.webp",
+      "smallPath": "_m/9/t/b/q/trinity-cathedral-phoenix-arizona-wp/phoenix-church-trinity-episcop-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/t/b/q/trinity-cathedral-phoenix-arizona-wp/trinity-cathedral-phoenix.jpg",
     "_m/9/t/b/q/trinity-cathedral-phoenix-arizona-wp/phoenix-church-trinity-episcop.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:05:10.352Z",
   "narration": {
     "files": [
       "9tbq-trinity-cathedral-phoenix-arizona-flight-context.mp3",
@@ -131,8 +133,7 @@
       "9tbq-trinity-cathedral-phoenix-arizona-light-through-glass.mp3": 55.6034166,
       "9tbq-trinity-cathedral-phoenix-arizona-a-living-arts-center.mp3": 49.20225
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-07T23:39:17.935Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:05:11.134Z"
 }

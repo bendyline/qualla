@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "pawnee-rock-kansas-wp",
     "sourceGeohash4": "9yc9",
-    "smallPath": "_m/9/y/c/9/pawnee-rock-kansas-wp/hero-small.jpg",
-    "mediumPath": "_m/9/y/c/9/pawnee-rock-kansas-wp/hero-medium.jpg"
+    "smallPath": "_m/9/y/c/9/pawnee-rock-kansas-wp/hero-small.webp",
+    "mediumPath": "_m/9/y/c/9/pawnee-rock-kansas-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Pawnee Rock 2013-09-26 14-17-58.jpg",
@@ -86,7 +86,7 @@
       "sourceType": "core",
       "sourceArticleId": "pawnee-rock-kansas-wp",
       "sourceGeohash4": "9yc9",
-      "smallPath": "_m/9/y/c/9/pawnee-rock-kansas-wp/advertisement-kansas-u-small.png"
+      "smallPath": "_m/9/y/c/9/pawnee-rock-kansas-wp/advertisement-kansas-u-small.webp"
     },
     {
       "filename": "Map of Barton Co, Ks, USA.png",
@@ -110,7 +110,7 @@
       "sourceType": "core",
       "sourceArticleId": "pawnee-rock-kansas-wp",
       "sourceGeohash4": "9yc9",
-      "smallPath": "_m/9/y/c/9/pawnee-rock-kansas-wp/map-barton-county-kans-small.png"
+      "smallPath": "_m/9/y/c/9/pawnee-rock-kansas-wp/map-barton-county-kans-small.webp"
     },
     {
       "filename": "Map of Pawnee Co, Ks, USA.png",
@@ -143,7 +143,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "pawnee-rock-kansas-wp",
-      "sourceGeohash4": "9yc9"
+      "sourceGeohash4": "9yc9",
+      "smallPath": "_m/9/y/c/9/pawnee-rock-kansas-wp/map-of-pawnee-co-ks-usa-small.webp"
     },
     {
       "filename": "1940 Census Enumeration District Descriptions - Kansas - Barton County - ED 5-28, ED 5-29, ED 5-30, ED 5-31, ED 5-32, ED 5-33, ED 5-34, ED 5-35, ED 5-36, ED 5-37 - NARA - 5861444.jpg",
@@ -170,7 +171,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "pawnee-rock-kansas-wp",
-      "sourceGeohash4": "9yc9"
+      "sourceGeohash4": "9yc9",
+      "mediumPath": "_m/9/y/c/9/pawnee-rock-kansas-wp/1940-census-enumeration-distri-medium.webp",
+      "smallPath": "_m/9/y/c/9/pawnee-rock-kansas-wp/1940-census-enumeration-distri-small.webp"
     },
     {
       "filename": "Former ATSF depot, Pawnee Rock, Kansas.jpg",
@@ -187,7 +190,9 @@
       "dateCreated": "2023-05-15 12:10:25",
       "sourceType": "commons-category",
       "sourceArticleId": "pawnee-rock-kansas-wp",
-      "sourceGeohash4": "9yc9"
+      "sourceGeohash4": "9yc9",
+      "mediumPath": "_m/9/y/c/9/pawnee-rock-kansas-wp/former-atsf-depot-pawnee-rock--medium.webp",
+      "smallPath": "_m/9/y/c/9/pawnee-rock-kansas-wp/former-atsf-depot-pawnee-rock--small.webp"
     },
     {
       "filename": "Town of Pawnee Rock, Kansas, seen from summit of Pawnee Rock.jpg",
@@ -204,7 +209,9 @@
       "dateCreated": "2023-05-15 12:31:44",
       "sourceType": "commons-category",
       "sourceArticleId": "pawnee-rock-kansas-wp",
-      "sourceGeohash4": "9yc9"
+      "sourceGeohash4": "9yc9",
+      "mediumPath": "_m/9/y/c/9/pawnee-rock-kansas-wp/town-of-pawnee-rock-kansas-see-medium.webp",
+      "smallPath": "_m/9/y/c/9/pawnee-rock-kansas-wp/town-of-pawnee-rock-kansas-see-small.webp"
     },
     {
       "filename": "Daughters of the revolution monument at Pawnee Rock.jpg",
@@ -221,7 +228,9 @@
       "dateCreated": "2024-10-28 08:32:02",
       "sourceType": "commons-category",
       "sourceArticleId": "pawnee-rock-kansas-wp",
-      "sourceGeohash4": "9yc9"
+      "sourceGeohash4": "9yc9",
+      "mediumPath": "_m/9/y/c/9/pawnee-rock-kansas-wp/daughters-of-the-revolution-mo-medium.webp",
+      "smallPath": "_m/9/y/c/9/pawnee-rock-kansas-wp/daughters-of-the-revolution-mo-small.webp"
     }
   ],
   "galleryPaths": [
@@ -233,7 +242,6 @@
     "_m/9/y/c/9/pawnee-rock-kansas-wp/town-of-pawnee-rock-kansas-see.jpg",
     "_m/9/y/c/9/pawnee-rock-kansas-wp/daughters-of-the-revolution-mo.jpg"
   ],
-  "fetchedAt": "2026-02-22T00:57:26.921Z",
   "narration": {
     "files": [
       "9yc9-pawnee-rock-kansas-flight-context.mp3",
@@ -251,8 +259,7 @@
       "9yc9-pawnee-rock-kansas-a-town-that-borrowed-a-name.mp3": 56.393625,
       "9yc9-pawnee-rock-kansas-the-prairie-abides.mp3": 59.2669583
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T23:36:46.190Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T00:57:28.632Z"
 }

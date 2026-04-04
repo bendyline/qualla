@@ -25,8 +25,8 @@
           "Old maps of Canada",
           "PD-old missing SDC copyright status"
         ],
-        "mediumPath": "_m/f/2/5/2/battle-of-the-chateauguay-wp/hero-medium.jpg",
-        "smallPath": "_m/f/2/5/2/battle-of-the-chateauguay-wp/hero-small.jpg"
+        "mediumPath": "_m/f/2/5/2/battle-of-the-chateauguay-wp/hero-medium.webp",
+        "smallPath": "_m/f/2/5/2/battle-of-the-chateauguay-wp/hero-small.webp"
       },
       "images": [
         {
@@ -55,8 +55,8 @@
             "Taken with Nikon D3100",
             "WLM 2012 Canada reviewed"
           ],
-          "mediumPath": "_m/f/2/5/2/battle-of-the-chateauguay-wp/le-lieu-historique-nat-medium.jpg",
-          "smallPath": "_m/f/2/5/2/battle-of-the-chateauguay-wp/le-lieu-historique-nat-small.jpg"
+          "mediumPath": "_m/f/2/5/2/battle-of-the-chateauguay-wp/le-lieu-historique-nat-medium.webp",
+          "smallPath": "_m/f/2/5/2/battle-of-the-chateauguay-wp/le-lieu-historique-nat-small.webp"
         },
         {
           "path": "_m/f/2/5/2/battle-of-the-chateauguay-wp/physical-location-map.jpg",
@@ -77,7 +77,9 @@
             "CC-BY-SA-3.0",
             "Images with extracted images",
             "Location maps of Quebec"
-          ]
+          ],
+          "mediumPath": "_m/f/2/5/2/battle-of-the-chateauguay-wp/physical-location-map-medium.webp",
+          "smallPath": "_m/f/2/5/2/battle-of-the-chateauguay-wp/physical-location-map-small.webp"
         },
         {
           "path": "_m/f/2/5/2/battle-of-the-chateauguay-wp/exhibit-chateau-rameza.jpg",
@@ -103,7 +105,7 @@
             "Files uploaded by Daderot",
             "Self-published work"
           ],
-          "smallPath": "_m/f/2/5/2/battle-of-the-chateauguay-wp/exhibit-chateau-rameza-small.jpg"
+          "smallPath": "_m/f/2/5/2/battle-of-the-chateauguay-wp/exhibit-chateau-rameza-small.webp"
         },
         {
           "path": "_m/f/2/5/2/battle-of-the-chateauguay-wp/battle-of-chateauguay.jpg",
@@ -128,7 +130,7 @@
             "Media missing infobox template",
             "Militia of Canada"
           ],
-          "smallPath": "_m/f/2/5/2/battle-of-the-chateauguay-wp/battle-of-chateauguay-small.jpg"
+          "smallPath": "_m/f/2/5/2/battle-of-the-chateauguay-wp/battle-of-chateauguay-small.webp"
         },
         {
           "path": "_m/f/2/5/2/battle-of-the-chateauguay-wp/battlefield-of-chateauguay-bry.jpg",
@@ -153,7 +155,7 @@
             "Uploaded with pattypan",
             "Works by Melvin Ormond Hammond"
           ],
-          "smallPath": "_m/f/2/5/2/battle-of-the-chateauguay-wp/battlefield-of-chateauguay-bry-small.jpg"
+          "smallPath": "_m/f/2/5/2/battle-of-the-chateauguay-wp/battlefield-of-chateauguay-bry-small.webp"
         },
         {
           "path": "_m/f/2/5/2/battle-of-the-chateauguay-wp/battlefield-of-chateauguay-bry-1.jpg",
@@ -178,7 +180,7 @@
             "Uploaded with pattypan",
             "Works by Melvin Ormond Hammond"
           ],
-          "smallPath": "_m/f/2/5/2/battle-of-the-chateauguay-wp/battlefield-of-chateauguay-bry-1-small.jpg"
+          "smallPath": "_m/f/2/5/2/battle-of-the-chateauguay-wp/battlefield-of-chateauguay-bry-1-small.webp"
         },
         {
           "path": "_m/f/2/5/2/war-of-1812-wk/rideau-canal.jpg",
@@ -438,7 +440,17 @@
           "sourceGeohash4": "f252",
           "accessedAt": "2026-02-28T12:24:41.850Z"
         }
-      ]
+      ],
+      "narration": [
+        "_m/f/2/5/2/battle-of-the-chateauguay-wp/f252-battle-of-the-chateauguay-the-1-530-who-saved-mont-flight-context.mp3",
+        "_m/f/2/5/2/battle-of-the-chateauguay-wp/f252-battle-of-the-chateauguay-the-1-530-who-saved-mont-intro.mp3",
+        "_m/f/2/5/2/battle-of-the-chateauguay-wp/f252-battle-of-the-chateauguay-the-1-530-who-saved-mont-a-plan-to-capture-montreal.mp3",
+        "_m/f/2/5/2/battle-of-the-chateauguay-wp/f252-battle-of-the-chateauguay-the-1-530-who-saved-mont-the-wooded-banks-of-the-chateauguay.mp3",
+        "_m/f/2/5/2/battle-of-the-chateauguay-wp/f252-battle-of-the-chateauguay-the-1-530-who-saved-mont-a-miserable-night-a-decisive-day.mp3",
+        "_m/f/2/5/2/battle-of-the-chateauguay-wp/f252-battle-of-the-chateauguay-the-1-530-who-saved-mont-the-campaign-collapses.mp3",
+        "_m/f/2/5/2/battle-of-the-chateauguay-wp/f252-battle-of-the-chateauguay-the-1-530-who-saved-mont-a-legend-takes-shape.mp3"
+      ],
+      "combinedNarration": "_m/f/2/5/2/battle-of-the-chateauguay-wp/f252-battle-of-the-chateauguay-combined.mp3"
     }
   }
 }

@@ -97,34 +97,34 @@
       "distanceKm": 89
     },
     "n": {
-      "id": "1977-khurgu-earthquake-wp",
-      "title": "1977 Khurgu Earthquake",
-      "tile": "tkbh",
+      "id": "2010-zahedan-bombings-wp",
+      "title": "2010 Zahedan Bombings",
+      "tile": "tm5r",
       "coordinates": {
-        "lat": 27.584,
-        "lng": 56.378
+        "lat": 29.483333,
+        "lng": 60.866667
       },
-      "distanceKm": 386.5
+      "distanceKm": 236
     },
     "ne": {
-      "id": "kharan-desert-wp",
-      "title": "Kharan Desert",
-      "tile": "tkvz",
+      "id": "zahedan-railway-station-wp",
+      "title": "Zahedan Railway Station",
+      "tile": "tm5r",
       "coordinates": {
-        "lat": 28.01361111111111,
-        "lng": 64.34416666666667
+        "lat": 29.47963,
+        "lng": 60.87467
       },
-      "distanceKm": 353
+      "distanceKm": 228.9
     },
     "w": {
-      "id": "alexandria-carmania-wp",
-      "title": "Alexandria Carmania",
-      "tile": "tkbw",
+      "id": "2003-bam-earthquake-wp",
+      "title": "2003 Bam Earthquake",
+      "tile": "tm1s",
       "coordinates": {
-        "lat": 27.949166666666667,
-        "lng": 57.299166666666665
+        "lat": 29,
+        "lng": 58.55
       },
-      "distanceKm": 258.6
+      "distanceKm": 237
     },
     "e": {
       "id": "sutkagan-dor-wp",
@@ -166,5 +166,6 @@
       },
       "distanceKm": 129.7
     }
-  }
+  },
+  "locationWikipediaPath": "t/k/f/f/bampur-wp"
 }

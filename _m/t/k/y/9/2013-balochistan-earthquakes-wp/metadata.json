@@ -104,12 +104,30 @@
       "sourceType": "core",
       "sourceArticleId": "2013-balochistan-earthquakes-wp",
       "sourceGeohash4": "tky9",
-      "smallPath": "_m/t/k/y/9/2013-balochistan-earthquakes-wp/satellite-image-island-small.png"
+      "smallPath": "_m/t/k/y/9/2013-balochistan-earthquakes-wp/satellite-image-island-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/t/k/k/q/gwadar-port-wp/physical-location-map.jpg",
     "_m/t/k/y/9/2013-balochistan-earthquakes-wp/satellite-image-island.png"
   ],
-  "fetchedAt": "2026-03-01T11:28:19.214Z"
+  "narration": {
+    "files": [
+      "tky9-2013-balochistan-earthquakes-flight-context.mp3",
+      "tky9-2013-balochistan-earthquakes-intro.mp3",
+      "tky9-2013-balochistan-earthquakes-where-three-plates-collide.mp3",
+      "tky9-2013-balochistan-earthquakes-zalzala-jazeera-the-earthquake-island.mp3",
+      "tky9-2013-balochistan-earthquakes-mud-brick-and-rubble.mp3",
+      "tky9-2013-balochistan-earthquakes-relief-under-fire.mp3"
+    ],
+    "durations": {
+      "tky9-2013-balochistan-earthquakes-flight-context.mp3": 45.6601666,
+      "tky9-2013-balochistan-earthquakes-intro.mp3": 39.8549583,
+      "tky9-2013-balochistan-earthquakes-where-three-plates-collide.mp3": 56.5906666,
+      "tky9-2013-balochistan-earthquakes-zalzala-jazeera-the-earthquake-island.mp3": 57.4485416,
+      "tky9-2013-balochistan-earthquakes-mud-brick-and-rubble.mp3": 62.4798333,
+      "tky9-2013-balochistan-earthquakes-relief-under-fire.mp3": 62.73525
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

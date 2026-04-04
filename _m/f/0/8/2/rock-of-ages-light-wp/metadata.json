@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "rock-of-ages-light-wp",
     "sourceGeohash4": "f082",
-    "mediumPath": "_m/f/0/8/2/rock-of-ages-light-wp/hero-medium.jpg",
-    "smallPath": "_m/f/0/8/2/rock-of-ages-light-wp/hero-small.jpg"
+    "mediumPath": "_m/f/0/8/2/rock-of-ages-light-wp/hero-medium.webp",
+    "smallPath": "_m/f/0/8/2/rock-of-ages-light-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Rock of Ages Light.jpg",
@@ -78,8 +78,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "rock-of-ages-light-wp",
       "sourceGeohash4": "f082",
-      "mediumPath": "_m/f/0/8/2/rock-of-ages-light-wp/exterior-details-of-lantern-na-medium.jpg",
-      "smallPath": "_m/f/0/8/2/rock-of-ages-light-wp/exterior-details-of-lantern-na-small.jpg"
+      "mediumPath": "_m/f/0/8/2/rock-of-ages-light-wp/exterior-details-of-lantern-na-medium.webp",
+      "smallPath": "_m/f/0/8/2/rock-of-ages-light-wp/exterior-details-of-lantern-na-small.webp"
     },
     {
       "filename": "Interior Details of Lantern - NARA - 76028807.jpg",
@@ -106,14 +106,34 @@
       "sourceType": "commons-category",
       "sourceArticleId": "rock-of-ages-light-wp",
       "sourceGeohash4": "f082",
-      "mediumPath": "_m/f/0/8/2/rock-of-ages-light-wp/interior-details-of-lantern-na-medium.jpg",
-      "smallPath": "_m/f/0/8/2/rock-of-ages-light-wp/interior-details-of-lantern-na-small.jpg"
+      "mediumPath": "_m/f/0/8/2/rock-of-ages-light-wp/interior-details-of-lantern-na-medium.webp",
+      "smallPath": "_m/f/0/8/2/rock-of-ages-light-wp/interior-details-of-lantern-na-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/f/0/8/2/rock-of-ages-light-wp/exterior-details-of-lantern-na.jpg",
     "_m/f/0/8/2/rock-of-ages-light-wp/interior-details-of-lantern-na.jpg"
   ],
-  "fetchedAt": "2026-02-28T10:48:01.901Z",
-  "updatedAt": "2026-02-28T10:48:20.469Z"
+  "updatedAt": "2026-02-28T10:48:20.469Z",
+  "narration": {
+    "files": [
+      "f082-rock-of-ages-light-flight-context.mp3",
+      "f082-rock-of-ages-light-intro.mp3",
+      "f082-rock-of-ages-light-a-tower-on-a-sliver-of-rock.mp3",
+      "f082-rock-of-ages-light-steel-core-and-spiral-stairs.mp3",
+      "f082-rock-of-ages-light-one-can-of-tomatoes.mp3",
+      "f082-rock-of-ages-light-the-night-127-people-slept-on-a-rock.mp3",
+      "f082-rock-of-ages-light-solar-power-and-preservation.mp3"
+    ],
+    "durations": {
+      "f082-rock-of-ages-light-flight-context.mp3": 73.8461666,
+      "f082-rock-of-ages-light-intro.mp3": 64.9843333,
+      "f082-rock-of-ages-light-a-tower-on-a-sliver-of-rock.mp3": 68.3115,
+      "f082-rock-of-ages-light-steel-core-and-spiral-stairs.mp3": 69.5020833,
+      "f082-rock-of-ages-light-one-can-of-tomatoes.mp3": 68.7457083,
+      "f082-rock-of-ages-light-the-night-127-people-slept-on-a-rock.mp3": 72.1119583,
+      "f082-rock-of-ages-light-solar-power-and-preservation.mp3": 76.6618333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

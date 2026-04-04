@@ -1,0 +1,154 @@
+{
+  "id": "san-carlos-de-borromeo-fortress-wp",
+  "source": "wikipedia",
+  "sourceId": "39446055",
+  "title": "San Carlos de Borromeo Fortress",
+  "slug": "san-carlos-de-borromeo-fortress",
+  "summary": "A star-shaped colonial fortress in Pampatar that survived Dutch pirates, a Spanish demolition attempt, and Venezuela's War of Independence to become a museum of revolutionary memory.",
+  "content": {
+    "intro": "A lit fuse burned its way across the floor toward a pile of gunpowder. It was November 3, 1816, and the retreating Spanish garrison had rigged the fortress to blow -- better to destroy San Carlos de Borromeo than leave it to the revolutionaries. A patriot soldier spotted the glowing trail by accident and stamped it out just in time. The fortress survived that night, as it had survived nearly two centuries of pirates, sieges, and warfare, standing watch over the Bay of Pampatar on the northeast coast of Isla Margarita.",
+    "sections": [
+      {
+        "title": "Deep Water, Stone Walls",
+        "body": "Pampatar -- known as Port Royal Mampatare when it was founded in 1536 -- owed its existence to geography. The bay offered the best-protected deep-water anchorage on Margarita Island, and where ships gathered, fortifications followed. Construction of the original castle began in 1622 and took roughly twenty years. It was sited in the heart of the old city, positioned to deliver crossfire across the bay in concert with the La Caranta fort on the opposite shore. The arrangement worked until 1662, when Dutch pirates overwhelmed both positions and burned Pampatar to the ground. La Caranta was never rebuilt; its ruins still stand."
+      },
+      {
+        "title": "Rebuilt from Ruin",
+        "body": "Two years after the Dutch attack, Captain Carlos Navarro began rebuilding the castle from a design by military engineer Juan Betin. Progress was slow, and by the time Governor Juan Munoz Gadea arrived in August 1677, the island had just been devastated by a privateering raid led by the French Marquis de Maintenon. Gadea poured all available resources into the project, including his own personal funds. The work was finally completed in 1684. The result was a classical example of colonial military architecture: a square structure with thick stone walls, four observation towers at each corner, and a star-shaped base. A coastal battery of a dozen cannon pointed across the bay. A moat encircled the fort, though it was never practical to fill it with water."
+      },
+      {
+        "title": "The Heroine's Prison",
+        "body": "During Venezuela's War of Independence, the fortress briefly held one of the revolution's most revered figures. In 1816, Luisa Caceres de Arismendi -- imprisoned to coerce her husband, patriotic leader Juan Bautista Arismendi -- was transferred through San Carlos de Borromeo on her way from the Castillo de Santa Rosa in La Asuncion to the mainland prison at La Guaira. Her courage during captivity made her a national heroine; her remains now rest in the National Pantheon of Venezuela. The fortress witnessed revolution from every angle: Spanish headquarters under General Pablo Morillo in 1817, guerrilla resistance from the islanders, and finally the Battle of Matasiete on July 31, 1817, when General Francisco Esteban Gomez defeated Morillo's royalist forces outside La Asuncion."
+      },
+      {
+        "title": "Cannon and Canvas",
+        "body": "The fortress was restored in 1968 and reopened as a museum. Its thick-walled rooms now house paintings depicting heroes and battles of the War of Independence, with the most popular piece commemorating the Battle of Matasiete. Old weapons line the corridors alongside a replica of Columbus's Santa Maria. A collection of memorabilia honors Luisa Caceres de Arismendi. Walking through the exhibition halls, surrounded by stone that has absorbed nearly three and a half centuries of Caribbean heat and salt air, the transition from military stronghold to cultural monument feels less like a conversion and more like a continuation -- the fortress still defending something, just not a harbor anymore."
+      }
+    ],
+    "flightContext": "San Carlos de Borromeo Fortress is at approximately 11.0N, 63.8W on the northeast coast of Isla Margarita, Venezuela, overlooking the Bay of Pampatar. The star-shaped fort is visible from low altitude near the shoreline. Santiago Marino Caribbean International Airport (SVMG) is approximately 5 km to the south. The nearby ruins of La Caranta fort are on the opposite side of the bay."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 10.997513,
+      "lng": -63.798485
+    },
+    "geohash": "d9fws"
+  },
+  "categories": [
+    "fortifications",
+    "history",
+    "venezuela",
+    "museums"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-09T00:00:00Z",
+    "wordCount": 650,
+    "readTime": 3,
+    "firstPublished": "2026-03-09T00:00:00Z",
+    "storyNumber": 7521
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "San Carlos de Borromeo Fortress - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/San_Carlos_de_Borromeo_Fortress",
+      "accessedAt": "2026-03-12",
+      "claimsVerified": [
+        "Original construction began 1622 confirmed",
+        "Dutch attack in 1662 confirmed",
+        "Rebuilt 1664-1684, designed by Juan Betín, constructed by Captain Carlos Navarro confirmed",
+        "Completed 1684 confirmed",
+        "Luisa Cáceres de Arismendi transferred through fortress in 1816 confirmed",
+        "Fortress restored and reopened as museum in 1968 confirmed",
+        "Star-shaped base with four observation towers confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "la-orchila-island-wp",
+      "title": "La Orchila Island",
+      "tile": "dd0g",
+      "coordinates": {
+        "lat": 11.8045,
+        "lng": -66.1391
+      },
+      "distanceKm": 205.9
+    },
+    "n": {
+      "id": "battle-of-grenada-wp",
+      "title": "Battle of Grenada",
+      "tile": "ddhh",
+      "coordinates": {
+        "lat": 12.05,
+        "lng": -61.75
+      },
+      "distanceKm": 241.2
+    },
+    "ne": {
+      "id": "fort-george-grenada-wp",
+      "title": "Fort George, Grenada",
+      "tile": "ddhh",
+      "coordinates": {
+        "lat": 12.049166666666666,
+        "lng": -61.75388888888889
+      },
+      "distanceKm": 188.6
+    },
+    "w": {
+      "id": "mochima-national-park-wk",
+      "title": "Mochima National Park",
+      "tile": "d9f4",
+      "coordinates": {
+        "lat": 10.3463835,
+        "lng": -64.3406582
+      },
+      "distanceKm": 71.2
+    },
+    "e": {
+      "id": "august-2018-venezuela-earthquake-wp",
+      "title": "August 2018 Venezuela Earthquake",
+      "tile": "d9gm",
+      "coordinates": {
+        "lat": 10.739,
+        "lng": -62.911
+      },
+      "distanceKm": 48.9
+    },
+    "sw": {
+      "id": "1929-cumana-earthquake-wp",
+      "title": "1929 Cumana Earthquake",
+      "tile": "d9f5",
+      "coordinates": {
+        "lat": 10.543,
+        "lng": -64.444
+      },
+      "distanceKm": 23.2
+    },
+    "s": {
+      "id": "araya-peninsula-wp",
+      "title": "Araya Peninsula",
+      "tile": "d9fs",
+      "coordinates": {
+        "lat": 10.6,
+        "lng": -63.98
+      },
+      "distanceKm": 23.2
+    },
+    "se": {
+      "id": "lake-bermudez-wp",
+      "title": "Lake Bermudez",
+      "tile": "d9g6",
+      "coordinates": {
+        "lat": 10.19666667,
+        "lng": -62.87055556
+      },
+      "distanceKm": 73.7
+    }
+  },
+  "locationWikipediaPath": "d/9/f/w/san-carlos-de-borromeo-fortress-wp"
+}

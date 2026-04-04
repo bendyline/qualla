@@ -49,7 +49,7 @@
     "sourceType": "core",
     "sourceArticleId": "duluth-lynchings-wp",
     "sourceGeohash4": "cbqd",
-    "smallPath": "_m/c/b/q/d/duluth-lynchings-wp/hero-small.jpg"
+    "smallPath": "_m/c/b/q/d/duluth-lynchings-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Duluth-lynching-postcard.jpg",
@@ -158,7 +158,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "duluth-lynchings-wp",
-      "sourceGeohash4": "cbqd"
+      "sourceGeohash4": "cbqd",
+      "smallPath": "_m/c/b/q/d/duluth-lynchings-wp/duluth-lynching-1920-small.webp"
     },
     {
       "filename": "Panorama, Duluth-lynching-postcard (cropped).jpg",
@@ -187,7 +188,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "duluth-lynchings-wp",
-      "sourceGeohash4": "cbqd"
+      "sourceGeohash4": "cbqd",
+      "smallPath": "_m/c/b/q/d/duluth-lynchings-wp/panorama-duluth-lynching-postc-small.webp"
     }
   ],
   "galleryPaths": [
@@ -195,7 +197,6 @@
     "_m/c/b/q/d/duluth-lynchings-wp/duluth-lynching-1920.jpg",
     "_m/c/b/q/d/duluth-lynchings-wp/panorama-duluth-lynching-postc.jpg"
   ],
-  "fetchedAt": "2026-02-22T03:04:52.125Z",
   "narration": {
     "files": [
       "cbqd-duluth-lynchings-flight-context.mp3",
@@ -215,8 +216,7 @@
       "cbqd-duluth-lynchings-bronze-witnesses-on-first-street.mp3": 53.5730833,
       "cbqd-duluth-lynchings-one-hundred-years-later.mp3": 50.1819166
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T11:42:07.700Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T03:04:52.554Z"
 }

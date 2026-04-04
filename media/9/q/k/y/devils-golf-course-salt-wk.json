@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/q/k/y/devils-golf-course-salt-wk/9qdj-devils-golf-course-where-salt-grows-in-silence-intro.mp3",
-        "_m/9/q/k/y/devils-golf-course-salt-wk/9qdj-devils-golf-course-where-salt-grows-in-silence-flight-context.mp3",
-        "_m/9/q/k/y/devils-golf-course-salt-wk/9qdj-devils-golf-course-where-salt-grows-in-silence-the-formation.mp3",
-        "_m/9/q/k/y/devils-golf-course-salt-wk/9qdj-devils-golf-course-where-salt-grows-in-silence-the-sound.mp3",
-        "_m/9/q/k/y/devils-golf-course-salt-wk/9qdj-devils-golf-course-where-salt-grows-in-silence-the-texture.mp3",
-        "_m/9/q/k/y/devils-golf-course-salt-wk/9qdj-devils-golf-course-where-salt-grows-in-silence-the-view.mp3",
-        "_m/9/q/k/y/devils-golf-course-salt-wk/9qdj-devils-golf-course-where-salt-grows-in-silence-visiting-devils-golf-course.mp3"
+        "_m/9/q/k/y/devils-golf-course-salt-wk/9qky-devils-golf-course-where-salt-grows-in-silence-flight-context.mp3",
+        "_m/9/q/k/y/devils-golf-course-salt-wk/9qky-devils-golf-course-where-salt-grows-in-silence-intro.mp3",
+        "_m/9/q/k/y/devils-golf-course-salt-wk/9qky-devils-golf-course-where-salt-grows-in-silence-the-formation.mp3",
+        "_m/9/q/k/y/devils-golf-course-salt-wk/9qky-devils-golf-course-where-salt-grows-in-silence-the-texture.mp3",
+        "_m/9/q/k/y/devils-golf-course-salt-wk/9qky-devils-golf-course-where-salt-grows-in-silence-the-sound.mp3",
+        "_m/9/q/k/y/devils-golf-course-salt-wk/9qky-devils-golf-course-where-salt-grows-in-silence-the-view.mp3",
+        "_m/9/q/k/y/devils-golf-course-salt-wk/9qky-devils-golf-course-where-salt-grows-in-silence-visiting-devils-golf-course.mp3"
       ],
       "hero": {
         "path": "_m/9/q/k/x/death-valley-national-park-wk/hero.jpg",
@@ -31,7 +31,9 @@
           "Film locations of Star Wars",
           "PD-self",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/9/q/k/y/devils-golf-course-salt-wk/hero-medium.webp",
+        "smallPath": "_m/9/q/k/y/devils-golf-course-salt-wk/hero-small.webp"
       },
       "images": [
         {
@@ -874,7 +876,8 @@
             "aerialBonus": 0
           }
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/q/k/y/devils-golf-course-salt-wk/9qky-devils-golf-course-salt-combined.mp3"
     }
   }
 }

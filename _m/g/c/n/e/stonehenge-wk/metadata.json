@@ -28,7 +28,7 @@
       "sourceType": "sibling",
       "sourceArticleId": "stonehenge-wk",
       "sourceGeohash4": "gcne",
-      "smallPath": "_m/g/c/n/e/stonehenge-wk/durringtonwalls-small.jpg"
+      "smallPath": "_m/g/c/n/e/stonehenge-wk/durringtonwalls-small.webp"
     },
     {
       "filename": "Stonehenge Cursus.jpg",
@@ -49,7 +49,7 @@
       "sourceType": "sibling",
       "sourceArticleId": "stonehenge-wk",
       "sourceGeohash4": "gcne",
-      "smallPath": "_m/g/c/n/e/stonehenge-wk/stonehenge-cursus-small.jpg"
+      "smallPath": "_m/g/c/n/e/stonehenge-wk/stonehenge-cursus-small.webp"
     },
     {
       "filename": "Stonehenge tumulus.jpg",
@@ -73,8 +73,8 @@
       "sourceType": "sibling",
       "sourceArticleId": "stonehenge-wk",
       "sourceGeohash4": "gcne",
-      "mediumPath": "_m/g/c/n/e/stonehenge-wk/stonehenge-tumulus-medium.jpg",
-      "smallPath": "_m/g/c/n/e/stonehenge-wk/stonehenge-tumulus-small.jpg"
+      "mediumPath": "_m/g/c/n/e/stonehenge-wk/stonehenge-tumulus-medium.webp",
+      "smallPath": "_m/g/c/n/e/stonehenge-wk/stonehenge-tumulus-small.webp"
     },
     {
       "filename": "The Avenue, Stonehenge.JPG",
@@ -97,8 +97,8 @@
       "sourceType": "sibling",
       "sourceArticleId": "stonehenge-wk",
       "sourceGeohash4": "gcne",
-      "mediumPath": "_m/g/c/n/e/stonehenge-wk/the-avenue-stonehenge-medium.jpg",
-      "smallPath": "_m/g/c/n/e/stonehenge-wk/the-avenue-stonehenge-small.jpg"
+      "mediumPath": "_m/g/c/n/e/stonehenge-wk/the-avenue-stonehenge-medium.webp",
+      "smallPath": "_m/g/c/n/e/stonehenge-wk/the-avenue-stonehenge-small.webp"
     },
     {
       "filename": "Normanton Down - geograph.org.uk - 4119376.jpg",
@@ -123,7 +123,7 @@
       "sourceType": "sibling",
       "sourceArticleId": "stonehenge-wk",
       "sourceGeohash4": "gcne",
-      "smallPath": "_m/g/c/n/e/stonehenge-wk/normanton-down-geograph-org-uk-small.jpg"
+      "smallPath": "_m/g/c/n/e/stonehenge-wk/normanton-down-geograph-org-uk-small.webp"
     },
     {
       "filename": "Western wall of Durrington Walls.jpg",
@@ -141,8 +141,8 @@
       "sourceType": "sibling",
       "sourceArticleId": "stonehenge-wk",
       "sourceGeohash4": "gcne",
-      "mediumPath": "_m/g/c/n/e/stonehenge-wk/western-wall-of-durrington-wal-medium.jpg",
-      "smallPath": "_m/g/c/n/e/stonehenge-wk/western-wall-of-durrington-wal-small.jpg"
+      "mediumPath": "_m/g/c/n/e/stonehenge-wk/western-wall-of-durrington-wal-medium.webp",
+      "smallPath": "_m/g/c/n/e/stonehenge-wk/western-wall-of-durrington-wal-small.webp"
     }
   ],
   "galleryPaths": [
@@ -153,5 +153,26 @@
     "_m/g/c/n/e/stonehenge-wk/normanton-down-geograph-org-uk.jpg",
     "_m/g/c/n/e/stonehenge-wk/western-wall-of-durrington-wal.jpg"
   ],
-  "updatedAt": "2026-02-20T05:24:46.658Z"
+  "updatedAt": "2026-02-20T05:24:46.658Z",
+  "narration": {
+    "files": [
+      "gcne-stonehenge-flight-context.mp3",
+      "gcne-stonehenge-intro.mp3",
+      "gcne-stonehenge-five-millennia-in-layers.mp3",
+      "gcne-stonehenge-reading-the-stones.mp3",
+      "gcne-stonehenge-chalk-downland-and-skylarks.mp3",
+      "gcne-stonehenge-solstice-gatherings.mp3",
+      "gcne-stonehenge-beyond-the-circle.mp3"
+    ],
+    "durations": {
+      "gcne-stonehenge-flight-context.mp3": 49.6167916,
+      "gcne-stonehenge-intro.mp3": 39.0413333,
+      "gcne-stonehenge-five-millennia-in-layers.mp3": 54.195625,
+      "gcne-stonehenge-reading-the-stones.mp3": 46.238125,
+      "gcne-stonehenge-chalk-downland-and-skylarks.mp3": 51.0434583,
+      "gcne-stonehenge-solstice-gatherings.mp3": 51.0504583,
+      "gcne-stonehenge-beyond-the-circle.mp3": 55.5534166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

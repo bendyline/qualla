@@ -28,8 +28,8 @@
     "sourceType": "core",
     "sourceArticleId": "marvel-cave-wp",
     "sourceGeohash4": "9yt8",
-    "smallPath": "_m/9/y/t/8/marvel-cave-wp/hero-small.jpg",
-    "mediumPath": "_m/9/y/t/8/marvel-cave-wp/hero-medium.jpg"
+    "smallPath": "_m/9/y/t/8/marvel-cave-wp/hero-small.webp",
+    "mediumPath": "_m/9/y/t/8/marvel-cave-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Blondies Thrown.jpg",
@@ -87,7 +87,7 @@
       "sourceType": "core",
       "sourceArticleId": "marvel-cave-wp",
       "sourceGeohash4": "9yt8",
-      "smallPath": "_m/9/y/t/8/marvel-cave-wp/marvel-cave-silver-dol-small.jpg"
+      "smallPath": "_m/9/y/t/8/marvel-cave-wp/marvel-cave-silver-dol-small.webp"
     },
     {
       "filename": "Myotis grisescens hibernating.jpg",
@@ -114,7 +114,7 @@
       "sourceType": "core",
       "sourceArticleId": "marvel-cave-wp",
       "sourceGeohash4": "9yt8",
-      "smallPath": "_m/9/y/t/8/marvel-cave-wp/hibernating-gray-bat-m-small.jpg"
+      "smallPath": "_m/9/y/t/8/marvel-cave-wp/hibernating-gray-bat-m-small.webp"
     },
     {
       "filename": "Marvel Cave Cathedral Room.jpg",
@@ -137,7 +137,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "marvel-cave-wp",
-      "sourceGeohash4": "9yt8"
+      "sourceGeohash4": "9yt8",
+      "smallPath": "_m/9/y/t/8/marvel-cave-wp/marvel-cave-cathedral-room-small.webp"
     },
     {
       "filename": "Marvel Cave Entrance.png",
@@ -159,7 +160,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "marvel-cave-wp",
-      "sourceGeohash4": "9yt8"
+      "sourceGeohash4": "9yt8",
+      "mediumPath": "_m/9/y/t/8/marvel-cave-wp/marvel-cave-entrance-medium.webp",
+      "smallPath": "_m/9/y/t/8/marvel-cave-wp/marvel-cave-entrance-small.webp"
     }
   ],
   "galleryPaths": [
@@ -168,7 +171,6 @@
     "_m/9/y/t/8/marvel-cave-wp/marvel-cave-cathedral-room.jpg",
     "_m/9/y/t/8/marvel-cave-wp/marvel-cave-entrance.png"
   ],
-  "fetchedAt": "2026-02-22T01:14:39.738Z",
   "narration": {
     "files": [
       "9yt8-marvel-cave-flight-context.mp3",
@@ -186,8 +188,7 @@
       "9yt8-marvel-cave-a-cathedral-underground.mp3": 65.0522916,
       "9yt8-marvel-cave-the-unmapped-depths.mp3": 78.888
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T01:53:58.699Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T01:14:40.311Z"
 }

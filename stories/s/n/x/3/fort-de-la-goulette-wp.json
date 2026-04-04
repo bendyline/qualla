@@ -1,0 +1,152 @@
+{
+  "id": "fort-de-la-goulette-wp",
+  "source": "wikipedia",
+  "sourceId": "80980931",
+  "title": "Fort de la Goulette",
+  "slug": "fort-de-la-goulette",
+  "summary": "A coastal fortress at the entrance to the Lake of Tunis whose very name became the Tunisian word for prison.",
+  "content": {
+    "intro": "In Tunisia, if you want to say someone has been thrown in jail, you say they have been sent to the Karraka. The word carries centuries of dread, and it traces back to a single building: the Fort de la Goulette, a squat coastal fortress guarding the narrow channel where the Lake of Tunis meets the Mediterranean. Built by Spanish conquerors, seized by Ottoman armies, and repurposed as a penitentiary, this fort has absorbed so many layers of power and punishment that its name entered the language itself.",
+    "sections": [
+      {
+        "title": "A Fortress Born from Conquest",
+        "body": "In 1535, Emperor Charles V of Spain launched a massive amphibious campaign against Tunis, wresting the city from Ottoman-allied corsairs. To secure his prize, he ordered the construction of a fortress at La Goulette, the bottleneck passage controlling all maritime access to Tunis via the shallow lake that fronts it. The fort was designed to command the channel completely, ensuring that no hostile fleet could approach the capital without passing under its guns. For nearly four decades, Spanish soldiers garrisoned the Karraka, watching the Mediterranean from its ramparts while the political landscape of North Africa shifted around them."
+      },
+      {
+        "title": "From Carraca to Karraka",
+        "body": "The fort's popular name reveals an unexpected journey through language. Karraka derives from the Spanish word carraca, which originally described a type of large sailing vessel, the carrack. Over time, the term expanded to include the arsenals and shore fortifications associated with these ships. When the fort at La Goulette transitioned from a military stronghold to a place of detention in the 19th century, Tunisians began using Karraka as a synonym for prison. The word stuck. Today, long after the fort ceased holding inmates, Karraka remains embedded in Tunisian Arabic as a colloquial term for any place of confinement."
+      },
+      {
+        "title": "Ottoman Takeover and Slow Transformation",
+        "body": "Spain's grip on La Goulette lasted until 1574, when a massive Ottoman expedition recaptured Tunis and its surrounding fortifications. The Ottomans adapted the fort to their own defensive needs, incorporating it into a broader network of coastal defenses along the Tunisian shore. Over the following centuries, as the strategic importance of the channel evolved, the fort's military significance gradually diminished. By the 19th century, authorities found a new use for its thick walls and confined spaces: it became a prison, its cells filling with detainees. The transformation was complete when the fortress built to project imperial power became a place to contain those who defied it."
+      },
+      {
+        "title": "The Gateway Still Standing",
+        "body": "La Goulette itself remains a gateway, though now it serves as a ferry port and resort town rather than a contested chokepoint. The fort sits near the entrance to the Lake of Tunis, a shallow lagoon that separates the capital from the open sea. Visitors to modern La Goulette find a town famous for its seafood restaurants and summer festivals, including the Mediterranean Festival of La Goulette held at the fort itself. The Karraka has become a cultural venue, hosting concerts and events within walls that once echoed with the commands of Spanish officers and the prayers of Ottoman soldiers. Nearby, the Fort of Chikly on its tiny island in the lake offers another reminder of the layered military history that defines this stretch of coast."
+      }
+    ],
+    "flightContext": "Located at 36.81N, 10.30E at the narrow channel connecting the Lake of Tunis to the Gulf of Tunis. The fort is visible near the waterfront of La Goulette, approximately 12 km northeast of Tunis city center. Best viewed below 5,000 ft. Nearest airport is Tunis-Carthage International (DTTA), about 8 km to the southwest. The Lake of Tunis and its causeway are prominent visual landmarks from the air."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 36.81441968890717,
+      "lng": 10.303662478570633
+    },
+    "geohash": "snx36"
+  },
+  "categories": [
+    "history",
+    "military",
+    "architecture"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-13T00:00:00Z",
+    "wordCount": 620,
+    "readTime": 3,
+    "firstPublished": "2026-03-13T00:00:00Z",
+    "storyNumber": 8457
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Fort de la Goulette - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fort_de_la_Goulette",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Fort built by Charles V after 1535 conquest confirmed",
+        "Spain held fort until 1574 Ottoman reconquest confirmed",
+        "Ottomans adapted fort to their defensive needs confirmed",
+        "Fort became prison in 19th century confirmed",
+        "Karraka derived from Spanish carraca (type of vessel) confirmed",
+        "Mediterranean Festival of La Goulette held at fort confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "s/n/x/3/fort-de-la-goulette-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "ichkeul-national-park-wk",
+      "title": "Ichkeul National Park",
+      "tile": "snwg",
+      "coordinates": {
+        "lat": 37.123444,
+        "lng": 9.655444
+      },
+      "distanceKm": 17.1
+    },
+    "n": {
+      "id": "galite-islands-wp",
+      "title": "Galite Islands",
+      "tile": "snwm",
+      "coordinates": {
+        "lat": 37.526944,
+        "lng": 8.928611
+      },
+      "distanceKm": 136.5
+    },
+    "ne": {
+      "id": "battle-of-skerki-bank-wp",
+      "title": "Battle of Skerki Bank",
+      "tile": "snxy",
+      "coordinates": {
+        "lat": 37.75333333,
+        "lng": 10.95333333
+      },
+      "distanceKm": 73.9
+    },
+    "w": {
+      "id": "battle-of-sedjenane-wp",
+      "title": "Battle of Sedjenane",
+      "tile": "snwd",
+      "coordinates": {
+        "lat": 37.05,
+        "lng": 9.23333
+      },
+      "distanceKm": 59.7
+    },
+    "e": {
+      "id": "necropolis-of-kerkouane-wp",
+      "title": "Necropolis of Kerkouane",
+      "tile": "snxf",
+      "coordinates": {
+        "lat": 36.955969444444,
+        "lng": 11.086291666667
+      },
+      "distanceKm": 22.1
+    },
+    "sw": {
+      "id": "roman-theatre-of-dougga-wp",
+      "title": "Roman Theatre of Dougga",
+      "tile": "snqx",
+      "coordinates": {
+        "lat": 36.42379,
+        "lng": 9.2203
+      },
+      "distanceKm": 57.8
+    },
+    "s": {
+      "id": "thuburbo-majus-wp",
+      "title": "Thuburbo Majus",
+      "tile": "snrp",
+      "coordinates": {
+        "lat": 36.4025,
+        "lng": 9.90306
+      },
+      "distanceKm": 45.5
+    },
+    "se": {
+      "id": "thapsus-wp",
+      "title": "Thapsus",
+      "tile": "snrf",
+      "coordinates": {
+        "lat": 35.625833333333,
+        "lng": 11.045
+      },
+      "distanceKm": 105
+    }
+  }
+}

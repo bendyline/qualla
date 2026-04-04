@@ -30,7 +30,7 @@
           "St. Francis raid",
           "United States Army Rangers"
         ],
-        "smallPath": "_m/f/2/h/n/st-francis-raid-wp/hero-small.jpg"
+        "smallPath": "_m/f/2/h/n/st-francis-raid-wp/hero-small.webp"
       },
       "images": [
         {
@@ -62,9 +62,19 @@
             "Template Unknown (source)",
             "Treason"
           ],
-          "smallPath": "_m/f/2/h/n/st-francis-raid-wp/abenaki-couple-18th-ce-small.jpg"
+          "smallPath": "_m/f/2/h/n/st-francis-raid-wp/abenaki-couple-18th-ce-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/f/2/h/n/st-francis-raid-wp/f2hn-st-francis-raid-flight-context.mp3",
+        "_m/f/2/h/n/st-francis-raid-wp/f2hn-st-francis-raid-intro.mp3",
+        "_m/f/2/h/n/st-francis-raid-wp/f2hn-st-francis-raid-a-mission-born-from-capture.mp3",
+        "_m/f/2/h/n/st-francis-raid-wp/f2hn-st-francis-raid-through-the-swamps.mp3",
+        "_m/f/2/h/n/st-francis-raid-wp/f2hn-st-francis-raid-five-oclock-dawn.mp3",
+        "_m/f/2/h/n/st-francis-raid-wp/f2hn-st-francis-raid-the-long-walk-home.mp3",
+        "_m/f/2/h/n/st-francis-raid-wp/f2hn-st-francis-raid-a-contested-legacy.mp3"
+      ],
+      "combinedNarration": "_m/f/2/h/n/st-francis-raid-wp/f2hn-st-francis-raid-combined.mp3"
     }
   }
 }

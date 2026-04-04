@@ -58,21 +58,40 @@
       "title": "Tomb of Ahmad Sanjar - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Tomb_of_Ahmad_Sanjar",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Built 1157 confirmed", "cube footprint 27x27 meters confirmed (Corrected: story had 17x17 — that is the dome diameter, not the footprint)", "dome 17 meters in diameter confirmed", "total height 38 meters (walls 14m + dome)", "Ibn al-Athir quote about Mongols burning mausoleum and digging up tomb confirmed", "commissioner Muhammad ibn Aziz confirmed", "Ghazan Khan visited and built Shamb complex in imitation confirmed", "UNESCO World Heritage Site 1999 confirmed", "Turkish government repairs 2002-2004 confirmed"]
+      "claimsVerified": [
+        "Built 1157 confirmed",
+        "cube footprint 27x27 meters confirmed (Corrected: story had 17x17 — that is the dome diameter, not the footprint)",
+        "dome 17 meters in diameter confirmed",
+        "total height 38 meters (walls 14m + dome)",
+        "Ibn al-Athir quote about Mongols burning mausoleum and digging up tomb confirmed",
+        "commissioner Muhammad ibn Aziz confirmed",
+        "Ghazan Khan visited and built Shamb complex in imitation confirmed",
+        "UNESCO World Heritage Site 1999 confirmed",
+        "Turkish government repairs 2002-2004 confirmed"
+      ]
     },
     {
       "type": "verification",
       "title": "Ahmad Sanjar - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Ahmad_Sanjar",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Sanjar ruled Khorasan from 1097, became Great Sultan 1118 confirmed", "Battle of Qatwan 1141 vs Qara Khitai confirmed", "Oghuz Turks captured him 1153 confirmed", "escaped captivity 1156 confirmed", "death 1157 in Merv confirmed", "Ghaznavid campaign 1097 and Turkmen 1098 confirmed"]
+      "claimsVerified": [
+        "Sanjar ruled Khorasan from 1097, became Great Sultan 1118 confirmed",
+        "Battle of Qatwan 1141 vs Qara Khitai confirmed",
+        "Oghuz Turks captured him 1153 confirmed",
+        "escaped captivity 1156 confirmed",
+        "death 1157 in Merv confirmed",
+        "Ghaznavid campaign 1097 and Turkmen 1098 confirmed"
+      ]
     },
     {
       "type": "verification",
       "title": "Shanb Ghazan - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Shanb_Ghazan",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Ghazan Khan inspired by Sanjar tomb and built his own funerary complex in deliberate imitation confirmed"]
+      "claimsVerified": [
+        "Ghazan Khan inspired by Sanjar tomb and built his own funerary complex in deliberate imitation confirmed"
+      ]
     }
   ],
   "editorial": {
@@ -83,7 +102,7 @@
     "nw": {
       "id": "bactria-margiana-archaeological-complex-wp",
       "title": "Bactria-Margiana Archaeological Complex",
-      "tile": "tqts",
+      "tile": "tqg9",
       "coordinates": {
         "lat": 38.233333333333,
         "lng": 61.45
@@ -160,5 +179,6 @@
       },
       "distanceKm": 232
     }
-  }
+  },
+  "locationWikipediaPath": "t/q/s/n/tomb-of-ahmad-sanjar-wp"
 }

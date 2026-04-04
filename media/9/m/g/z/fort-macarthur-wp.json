@@ -36,8 +36,8 @@
           "Self-published work",
           "Taken with Motorola Moto Z XT1650"
         ],
-        "mediumPath": "_m/9/m/g/z/fort-macarthur-wp/hero-medium.jpg",
-        "smallPath": "_m/9/m/g/z/fort-macarthur-wp/hero-small.jpg"
+        "mediumPath": "_m/9/m/g/z/fort-macarthur-wp/hero-medium.webp",
+        "smallPath": "_m/9/m/g/z/fort-macarthur-wp/hero-small.webp"
       },
       "images": [
         {
@@ -64,7 +64,7 @@
             "National Register of Historic Places with known IDs",
             "Self-published work"
           ],
-          "smallPath": "_m/9/m/g/z/fort-macarthur-wp/battery-farley-former-small.jpg"
+          "smallPath": "_m/9/m/g/z/fort-macarthur-wp/battery-farley-former-small.webp"
         },
         {
           "path": "_m/9/m/g/z/fort-macarthur-wp/hero.jpg",
@@ -88,7 +88,9 @@
             "PD US Government",
             "Self-published work",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "mediumPath": "_m/9/m/g/z/fort-macarthur-wp/hero-medium.webp",
+          "smallPath": "_m/9/m/g/z/fort-macarthur-wp/hero-small.webp"
         },
         {
           "path": "_m/9/m/g/z/fort-macarthur-wp/documentary-purposes-g.jpg",
@@ -115,7 +117,7 @@
             "PD US not renewed",
             "Template Unknown (author)"
           ],
-          "smallPath": "_m/9/m/g/z/fort-macarthur-wp/documentary-purposes-g-small.jpg"
+          "smallPath": "_m/9/m/g/z/fort-macarthur-wp/documentary-purposes-g-small.webp"
         },
         {
           "path": "_m/9/m/g/z/fort-macarthur-wp/ceremonies-salutes-par.jpg",
@@ -144,8 +146,8 @@
             "US National Archives series: American Unofficial Collection of World War I Photographs",
             "World War I homefront in the United States"
           ],
-          "smallPath": "_m/9/m/g/z/fort-macarthur-wp/ceremonies-salutes-par-small.jpg",
-          "mediumPath": "_m/9/m/g/z/fort-macarthur-wp/ceremonies-salutes-par-medium.jpg"
+          "smallPath": "_m/9/m/g/z/fort-macarthur-wp/ceremonies-salutes-par-small.webp",
+          "mediumPath": "_m/9/m/g/z/fort-macarthur-wp/ceremonies-salutes-par-medium.webp"
         },
         {
           "path": "_m/9/m/g/z/fort-macarthur-wp/fortmacarthur-june2008-sm1.jpg",
@@ -170,9 +172,10 @@
             "Self-published work",
             "Taken with Canon PowerShot A560"
           ],
-          "smallPath": "_m/9/m/g/z/fort-macarthur-wp/fortmacarthur-june2008-sm1-small.jpg"
+          "smallPath": "_m/9/m/g/z/fort-macarthur-wp/fortmacarthur-june2008-sm1-small.webp"
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/m/g/z/fort-macarthur-wp/9mgz-fort-macarthur-combined.mp3"
     }
   }
 }

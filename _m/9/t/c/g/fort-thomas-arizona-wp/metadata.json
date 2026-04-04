@@ -30,8 +30,8 @@
     "sourceType": "core",
     "sourceArticleId": "fort-thomas-arizona-wp",
     "sourceGeohash4": "9tcg",
-    "smallPath": "_m/9/t/c/g/fort-thomas-arizona-wp/hero-small.jpg",
-    "mediumPath": "_m/9/t/c/g/fort-thomas-arizona-wp/hero-medium.jpg"
+    "smallPath": "_m/9/t/c/g/fort-thomas-arizona-wp/hero-small.webp",
+    "mediumPath": "_m/9/t/c/g/fort-thomas-arizona-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Fort Thomas-Southern Pacific Railroad Depot ruins-1864.jpg",
@@ -91,7 +91,7 @@
       "sourceType": "core",
       "sourceArticleId": "fort-thomas-arizona-wp",
       "sourceGeohash4": "9tcg",
-      "smallPath": "_m/9/t/c/g/fort-thomas-arizona-wp/historical-marker-n-to-small.jpg"
+      "smallPath": "_m/9/t/c/g/fort-thomas-arizona-wp/historical-marker-n-to-small.webp"
     },
     {
       "filename": "Fort Thomas-1864-1.jpg",
@@ -119,8 +119,8 @@
       "sourceType": "core",
       "sourceArticleId": "fort-thomas-arizona-wp",
       "sourceGeohash4": "9tcg",
-      "smallPath": "_m/9/t/c/g/fort-thomas-arizona-wp/monument-fort-thomas-a-small.jpg",
-      "mediumPath": "_m/9/t/c/g/fort-thomas-arizona-wp/monument-fort-thomas-a-medium.jpg"
+      "smallPath": "_m/9/t/c/g/fort-thomas-arizona-wp/monument-fort-thomas-a-small.webp",
+      "mediumPath": "_m/9/t/c/g/fort-thomas-arizona-wp/monument-fort-thomas-a-medium.webp"
     },
     {
       "filename": "\"Officers and guests lunch under giant cactus near Fort Thomas, Arizona.\" February 18, 1886 - NARA - 530881.jpg",
@@ -152,7 +152,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-thomas-arizona-wp",
-      "sourceGeohash4": "9tcg"
+      "sourceGeohash4": "9tcg",
+      "mediumPath": "_m/9/t/c/g/fort-thomas-arizona-wp/officers-and-guests-lunch-unde-medium.webp",
+      "smallPath": "_m/9/t/c/g/fort-thomas-arizona-wp/officers-and-guests-lunch-unde-small.webp"
     }
   ],
   "galleryPaths": [
@@ -160,7 +162,6 @@
     "_m/9/t/c/g/fort-thomas-arizona-wp/monument-fort-thomas-a.jpg",
     "_m/9/t/c/g/fort-thomas-arizona-wp/officers-and-guests-lunch-unde.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:06:58.672Z",
   "narration": {
     "files": [
       "9tcg-fort-thomas-arizona-flight-context.mp3",
@@ -178,8 +179,7 @@
       "9tcg-fort-thomas-arizona-a-town-of-thieves-and-opportunity.mp3": 55.0710416,
       "9tcg-fort-thomas-arizona-the-quiet-that-remains.mp3": 60.4185416
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T00:04:12.009Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:06:59.788Z"
 }

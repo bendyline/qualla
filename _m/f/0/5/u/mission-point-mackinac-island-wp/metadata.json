@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "mission-point-mackinac-island-wp",
     "sourceGeohash4": "f05u",
-    "mediumPath": "_m/f/0/5/u/mission-point-mackinac-island-wp/hero-medium.jpg",
-    "smallPath": "_m/f/0/5/u/mission-point-mackinac-island-wp/hero-small.jpg"
+    "mediumPath": "_m/f/0/5/u/mission-point-mackinac-island-wp/hero-medium.webp",
+    "smallPath": "_m/f/0/5/u/mission-point-mackinac-island-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Mission Point Studio building, Mackinac Island, 1960.jpeg",
@@ -77,8 +77,8 @@
       "sourceType": "core",
       "sourceArticleId": "mission-point-mackinac-island-wp",
       "sourceGeohash4": "f05u",
-      "mediumPath": "_m/f/0/5/u/mission-point-mackinac-island-wp/mission-house-mackinaw-medium.jpg",
-      "smallPath": "_m/f/0/5/u/mission-point-mackinac-island-wp/mission-house-mackinaw-small.jpg"
+      "mediumPath": "_m/f/0/5/u/mission-point-mackinac-island-wp/mission-house-mackinaw-medium.webp",
+      "smallPath": "_m/f/0/5/u/mission-point-mackinac-island-wp/mission-house-mackinaw-small.webp"
     },
     {
       "filename": "1843 drawing of Mission Point beach at Mackinac Island, Michigan.jpg",
@@ -177,8 +177,8 @@
       "sourceType": "core",
       "sourceArticleId": "mission-point-mackinac-island-wp",
       "sourceGeohash4": "f05u",
-      "mediumPath": "_m/f/0/5/u/mission-point-mackinac-island-wp/1957-west-residence-bu-medium.jpg",
-      "smallPath": "_m/f/0/5/u/mission-point-mackinac-island-wp/1957-west-residence-bu-small.jpg"
+      "mediumPath": "_m/f/0/5/u/mission-point-mackinac-island-wp/1957-west-residence-bu-medium.webp",
+      "smallPath": "_m/f/0/5/u/mission-point-mackinac-island-wp/1957-west-residence-bu-small.webp"
     },
     {
       "filename": "Mission Point Cottages in Winter 1958.jpg",
@@ -204,8 +204,8 @@
       "sourceType": "core",
       "sourceArticleId": "mission-point-mackinac-island-wp",
       "sourceGeohash4": "f05u",
-      "mediumPath": "_m/f/0/5/u/mission-point-mackinac-island-wp/oldest-houses-mission-medium.jpg",
-      "smallPath": "_m/f/0/5/u/mission-point-mackinac-island-wp/oldest-houses-mission-small.jpg"
+      "mediumPath": "_m/f/0/5/u/mission-point-mackinac-island-wp/oldest-houses-mission-medium.webp",
+      "smallPath": "_m/f/0/5/u/mission-point-mackinac-island-wp/oldest-houses-mission-small.webp"
     },
     {
       "filename": "Mission Point Great Hall Complex in 1964.jpg",
@@ -230,8 +230,8 @@
       "sourceType": "core",
       "sourceArticleId": "mission-point-mackinac-island-wp",
       "sourceGeohash4": "f05u",
-      "mediumPath": "_m/f/0/5/u/mission-point-mackinac-island-wp/great-hall-complex-inc-medium.jpg",
-      "smallPath": "_m/f/0/5/u/mission-point-mackinac-island-wp/great-hall-complex-inc-small.jpg"
+      "mediumPath": "_m/f/0/5/u/mission-point-mackinac-island-wp/great-hall-complex-inc-medium.webp",
+      "smallPath": "_m/f/0/5/u/mission-point-mackinac-island-wp/great-hall-complex-inc-small.webp"
     },
     {
       "filename": "1969 view of Mission Point from the jetty.jpg",
@@ -269,5 +269,23 @@
     "_m/f/0/5/u/mission-point-mackinac-island-wp/great-hall-complex-inc.jpg",
     "_m/f/0/5/u/mackinac-island-no-cars-wk/1969-view-of-mission-point-fro.jpg"
   ],
-  "fetchedAt": "2026-02-28T10:29:47.915Z"
+  "narration": {
+    "files": [
+      "f05u-mission-point-mackinac-island-flight-context.mp3",
+      "f05u-mission-point-mackinac-island-intro.mp3",
+      "f05u-mission-point-mackinac-island-before-the-europeans-came.mp3",
+      "f05u-mission-point-mackinac-island-the-folly-on-the-cliff.mp3",
+      "f05u-mission-point-mackinac-island-the-school-at-the-edge-of-the-frontier.mp3",
+      "f05u-mission-point-mackinac-island-stages-studios-and-sing-outs.mp3"
+    ],
+    "durations": {
+      "f05u-mission-point-mackinac-island-flight-context.mp3": 61.9388333,
+      "f05u-mission-point-mackinac-island-intro.mp3": 67.4774583,
+      "f05u-mission-point-mackinac-island-before-the-europeans-came.mp3": 72.8742916,
+      "f05u-mission-point-mackinac-island-the-folly-on-the-cliff.mp3": 67.1493333,
+      "f05u-mission-point-mackinac-island-the-school-at-the-edge-of-the-frontier.mp3": 77.7535416,
+      "f05u-mission-point-mackinac-island-stages-studios-and-sing-outs.mp3": 80.967875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

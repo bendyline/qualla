@@ -99,34 +99,34 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "terney-wk",
+      "title": "Terney",
+      "tile": "z010",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 45.033333,
+        "lng": 136.6
       },
-      "distanceKm": 1494.1
+      "distanceKm": 710.9
     },
     "n": {
-      "id": "tangshan-earthquake-wk",
-      "title": "The Tangshan Earthquake: The Deadliest Quake of the 20th Century",
-      "tile": "wxh1",
+      "id": "wakkanai-wk",
+      "title": "Wakkanai",
+      "tile": "z0hd",
       "coordinates": {
-        "lat": 39.6292,
-        "lng": 118.1742
+        "lat": 45.415638888888886,
+        "lng": 141.67308333333332
       },
-      "distanceKm": 1966.3
+      "distanceKm": 673
     },
     "ne": {
-      "id": "attu-island-forgotten-battle-wk",
-      "title": "Attu Island: America's Forgotten Arctic Battle",
-      "tile": "zc7h",
+      "id": "la-perouse-strait-wp",
+      "title": "La Perouse Strait",
+      "tile": "z0hu",
       "coordinates": {
-        "lat": 52.85,
-        "lng": 173.18
+        "lat": 45.722222222222,
+        "lng": 142.02666666667
       },
-      "distanceKm": 2819.2
+      "distanceKm": 706.3
     },
     "w": {
       "id": "ginzan-onsen-wp",
@@ -178,5 +178,6 @@
       },
       "distanceKm": 83.7
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/u/q/isawa-castle-wp"
 }

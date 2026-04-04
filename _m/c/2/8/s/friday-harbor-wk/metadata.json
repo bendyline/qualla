@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "friday-harbor-wk",
     "sourceGeohash4": "c28s",
-    "smallPath": "_m/c/2/8/s/friday-harbor-wk/hero-small.jpg",
-    "mediumPath": "_m/c/2/8/s/friday-harbor-wk/hero-medium.jpg"
+    "smallPath": "_m/c/2/8/s/friday-harbor-wk/hero-small.webp",
+    "mediumPath": "_m/c/2/8/s/friday-harbor-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Male orca whale L79 southern resident puget sound.jpg",
@@ -82,7 +82,7 @@
       "sourceType": "core",
       "sourceArticleId": "friday-harbor-wk",
       "sourceGeohash4": "c28s",
-      "smallPath": "_m/c/2/8/s/friday-harbor-wk/boats-moored-marina-fr-small.jpg"
+      "smallPath": "_m/c/2/8/s/friday-harbor-wk/boats-moored-marina-fr-small.webp"
     },
     {
       "filename": "San Juan Island NHP Eng Camp.JPG",
@@ -137,7 +137,7 @@
       "sourceType": "core",
       "sourceArticleId": "friday-harbor-wk",
       "sourceGeohash4": "c28s",
-      "smallPath": "_m/c/2/8/s/friday-harbor-wk/sea-plane-leaving-san-small.jpg"
+      "smallPath": "_m/c/2/8/s/friday-harbor-wk/sea-plane-leaving-san-small.webp"
     },
     {
       "filename": "University of Washington Friday Harbor Laboratories 03 (20019510503).jpg",
@@ -168,8 +168,8 @@
       "sourceType": "core",
       "sourceArticleId": "friday-harbor-wk",
       "sourceGeohash4": "c28s",
-      "smallPath": "_m/c/2/8/s/friday-harbor-wk/university-washington-small.jpg",
-      "mediumPath": "_m/c/2/8/s/friday-harbor-wk/university-washington-medium.jpg"
+      "smallPath": "_m/c/2/8/s/friday-harbor-wk/university-washington-small.webp",
+      "mediumPath": "_m/c/2/8/s/friday-harbor-wk/university-washington-medium.webp"
     }
   ],
   "galleryPaths": [
@@ -178,26 +178,24 @@
     "_m/c/2/8/s/friday-harbor-wk/sea-plane-leaving-san.jpg",
     "_m/c/2/8/s/friday-harbor-wk/university-washington.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:03:09.987Z",
   "updatedAt": "2026-01-29T12:52:46.309Z",
   "narration": {
     "files": [
-      "c28s-friday-harbor-by-ferry-by-sea-by-air.mp3",
       "c28s-friday-harbor-flight-context.mp3",
       "c28s-friday-harbor-intro.mp3",
       "c28s-friday-harbor-island-capital.mp3",
-      "c28s-friday-harbor-walking-the-waterfront.mp3",
-      "c28s-friday-harbor-whale-country.mp3"
+      "c28s-friday-harbor-whale-country.mp3",
+      "c28s-friday-harbor-by-ferry-by-sea-by-air.mp3",
+      "c28s-friday-harbor-walking-the-waterfront.mp3"
     ],
     "durations": {
-      "c28s-friday-harbor-by-ferry-by-sea-by-air.mp3": 53.616,
-      "c28s-friday-harbor-flight-context.mp3": 55.536,
-      "c28s-friday-harbor-intro.mp3": 42.816,
-      "c28s-friday-harbor-island-capital.mp3": 53.424,
-      "c28s-friday-harbor-walking-the-waterfront.mp3": 54.624,
-      "c28s-friday-harbor-whale-country.mp3": 51.168
+      "c28s-friday-harbor-flight-context.mp3": 53.1759583,
+      "c28s-friday-harbor-intro.mp3": 41.2367083,
+      "c28s-friday-harbor-island-capital.mp3": 53.173875,
+      "c28s-friday-harbor-whale-country.mp3": 50.4902083,
+      "c28s-friday-harbor-by-ferry-by-sea-by-air.mp3": 57.705375,
+      "c28s-friday-harbor-walking-the-waterfront.mp3": 55.7545833
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:57.436Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

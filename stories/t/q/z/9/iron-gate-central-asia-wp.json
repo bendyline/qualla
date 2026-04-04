@@ -101,14 +101,14 @@
       "distanceKm": 62.8
     },
     "ne": {
-      "id": "baotou-wk",
-      "title": "Baotou",
-      "tile": "wrnp",
+      "id": "yaghnob-valley-wp",
+      "title": "Yaghnob Valley",
+      "tile": "twcp",
       "coordinates": {
-        "lat": 40.656,
-        "lng": 109.834
+        "lat": 39.2,
+        "lng": 69
       },
-      "distanceKm": 3601.2
+      "distanceKm": 151.7
     },
     "w": {
       "id": "battle-of-andkhud-wp",
@@ -121,14 +121,14 @@
       "distanceKm": 183.7
     },
     "e": {
-      "id": "jaipur-wk",
-      "title": "Jaipur",
-      "tile": "tsvc",
+      "id": "1982-salang-tunnel-fire-wp",
+      "title": "1982 Salang Tunnel Fire",
+      "tile": "tw30",
       "coordinates": {
-        "lat": 26.9124,
-        "lng": 75.7873
+        "lat": 35.32219722,
+        "lng": 69.02686667
       },
-      "distanceKm": 1477.4
+      "distanceKm": 351
     },
     "sw": {
       "id": "dasht-i-leili-massacre-wp",
@@ -151,14 +151,15 @@
       "distanceKm": 33.9
     },
     "se": {
-      "id": "jodhpur-wk",
-      "title": "Jodhpur",
-      "tile": "tsev",
+      "id": "battle-of-kunduz-2015-wp",
+      "title": "Battle of Kunduz (2015)",
+      "tile": "tw8b",
       "coordinates": {
-        "lat": 26.2389,
-        "lng": 73.0243
+        "lat": 36.733333333333,
+        "lng": 68.866666666667
       },
-      "distanceKm": 1403.5
+      "distanceKm": 182.9
     }
-  }
+  },
+  "locationWikipediaPath": "t/q/z/9/iron-gate-central-asia-wp"
 }

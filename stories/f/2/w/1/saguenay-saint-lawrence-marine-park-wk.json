@@ -101,24 +101,24 @@
       "distanceKm": 111.4
     },
     "n": {
-      "id": "matheson-fire-wp",
-      "title": "Matheson Fire",
-      "tile": "f0wu",
+      "id": "fort-ramsay-wp",
+      "title": "Fort Ramsay",
+      "tile": "f8dj",
       "coordinates": {
-        "lat": 48.53333333333333,
-        "lng": -80.46666666666667
+        "lat": 48.825,
+        "lng": -64.444
       },
-      "distanceKm": 761.8
+      "distanceKm": 422.1
     },
     "ne": {
-      "id": "trans-labrador-highway-wk",
-      "title": "Trans-Labrador Highway",
-      "tile": "f92m",
+      "id": "chic-chocs-wildlife-reserve-wp",
+      "title": "Chic-Chocs Wildlife Reserve",
+      "tile": "f89n",
       "coordinates": {
-        "lat": 52.95,
-        "lng": -66.9
+        "lat": 48.9375,
+        "lng": -65.83
       },
-      "distanceKm": 547
+      "distanceKm": 285.5
     },
     "w": {
       "id": "mont-sainte-anne-wp",
@@ -131,14 +131,14 @@
       "distanceKm": 112.9
     },
     "e": {
-      "id": "magnetic-hill-illusion-wk",
-      "title": "Magnetic Hill: Canada's Gravity-Defying Road",
-      "tile": "f81y",
+      "id": "ocean-train-wp",
+      "title": "The Ocean",
+      "tile": "f882",
       "coordinates": {
-        "lat": 46.0976,
-        "lng": -64.8769
+        "lat": 47.97507,
+        "lng": -66.93769
       },
-      "distanceKm": 420.3
+      "distanceKm": 199
     },
     "sw": {
       "id": "canyon-sainte-anne-wp",
@@ -161,14 +161,15 @@
       "distanceKm": 23.8
     },
     "se": {
-      "id": "acadia-wk",
-      "title": "Acadia National Park",
-      "tile": "f83n",
+      "id": "meductic-indian-village-fort-meductic-wp",
+      "title": "Meductic Indian Village / Fort Meductic",
+      "tile": "f80j",
       "coordinates": {
-        "lat": 47.617,
-        "lng": -65.767
+        "lat": 45.9981,
+        "lng": -67.4944
       },
-      "distanceKm": 288.3
+      "distanceKm": 257.9
     }
-  }
+  },
+  "locationWikivoyagePath": "f/2/w/1/saguenay-saint-lawrence-marine-park-wk"
 }

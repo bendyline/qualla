@@ -146,12 +146,12 @@
       "distanceKm": 138.5
     },
     "w": {
-      "id": "trinity-site-white-sands-wk",
-      "title": "Trinity Site",
+      "id": "trinity-nuclear-test-wp",
+      "title": "Trinity (Nuclear Test)",
       "tile": "9tur",
       "coordinates": {
-        "lat": 33.6773,
-        "lng": -106.4754
+        "lat": 33.677222222222,
+        "lng": -106.47527777778
       },
       "distanceKm": 35.2
     },
@@ -199,5 +199,6 @@
   "keywords": [
     "white-mountain",
     "white-mountain-wilderness"
-  ]
+  ],
+  "locationWikipediaPath": "9/t/u/y/white-mountain-wilderness-wp"
 }

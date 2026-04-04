@@ -27,7 +27,7 @@
     "sourceType": "core",
     "sourceArticleId": "ss-carl-d-bradley-wp",
     "sourceGeohash4": "f04g",
-    "smallPath": "_m/f/0/4/g/ss-carl-d-bradley-wp/hero-small.jpg"
+    "smallPath": "_m/f/0/4/g/ss-carl-d-bradley-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Bradley, Taylor, circa 1942.jpg",
@@ -81,7 +81,7 @@
       "sourceType": "core",
       "sourceArticleId": "ss-carl-d-bradley-wp",
       "sourceGeohash4": "f04g",
-      "smallPath": "_m/f/0/4/g/ss-carl-d-bradley-wp/ss-carl-d-bradley-unlo-small.jpg"
+      "smallPath": "_m/f/0/4/g/ss-carl-d-bradley-wp/ss-carl-d-bradley-unlo-small.webp"
     },
     {
       "filename": "Card D Bradley Pilot house door.jpg",
@@ -108,7 +108,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "ss-carl-d-bradley-wp",
       "sourceGeohash4": "f04g",
-      "smallPath": "_m/f/0/4/g/ss-carl-d-bradley-wp/card-d-bradley-pilot-house-doo-small.jpg"
+      "smallPath": "_m/f/0/4/g/ss-carl-d-bradley-wp/card-d-bradley-pilot-house-doo-small.webp"
     },
     {
       "filename": "Bradley Unloading in Hopper 1958.jpg",
@@ -134,8 +134,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "ss-carl-d-bradley-wp",
       "sourceGeohash4": "f04g",
-      "mediumPath": "_m/f/0/4/g/ss-carl-d-bradley-wp/bradley-unloading-in-hopper-19-medium.jpg",
-      "smallPath": "_m/f/0/4/g/ss-carl-d-bradley-wp/bradley-unloading-in-hopper-19-small.jpg"
+      "mediumPath": "_m/f/0/4/g/ss-carl-d-bradley-wp/bradley-unloading-in-hopper-19-medium.webp",
+      "smallPath": "_m/f/0/4/g/ss-carl-d-bradley-wp/bradley-unloading-in-hopper-19-small.webp"
     },
     {
       "filename": "SS Bradley at Buffington 6-20-1949.jpg",
@@ -161,7 +161,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "ss-carl-d-bradley-wp",
       "sourceGeohash4": "f04g",
-      "smallPath": "_m/f/0/4/g/ss-carl-d-bradley-wp/ss-bradley-at-buffington-6-20--small.jpg"
+      "smallPath": "_m/f/0/4/g/ss-carl-d-bradley-wp/ss-bradley-at-buffington-6-20--small.webp"
     }
   ],
   "galleryPaths": [
@@ -170,6 +170,26 @@
     "_m/f/0/4/g/ss-carl-d-bradley-wp/bradley-unloading-in-hopper-19.jpg",
     "_m/f/0/4/g/ss-carl-d-bradley-wp/ss-bradley-at-buffington-6-20-.jpg"
   ],
-  "fetchedAt": "2026-02-28T10:02:58.087Z",
-  "updatedAt": "2026-02-28T10:03:01.550Z"
+  "updatedAt": "2026-02-28T10:03:01.550Z",
+  "narration": {
+    "files": [
+      "f04g-ss-carl-d-bradley-flight-context.mp3",
+      "f04g-ss-carl-d-bradley-intro.mp3",
+      "f04g-ss-carl-d-bradley-queen-of-the-lakes.mp3",
+      "f04g-ss-carl-d-bradley-a-town-on-the-water.mp3",
+      "f04g-ss-carl-d-bradley-the-night-of-november-18.mp3",
+      "f04g-ss-carl-d-bradley-headlights-on-the-beach.mp3",
+      "f04g-ss-carl-d-bradley-a-town-forever-changed.mp3"
+    ],
+    "durations": {
+      "f04g-ss-carl-d-bradley-flight-context.mp3": 63.0077083,
+      "f04g-ss-carl-d-bradley-intro.mp3": 56.3246666,
+      "f04g-ss-carl-d-bradley-queen-of-the-lakes.mp3": 69.009125,
+      "f04g-ss-carl-d-bradley-a-town-on-the-water.mp3": 67.3294166,
+      "f04g-ss-carl-d-bradley-the-night-of-november-18.mp3": 75.6736666,
+      "f04g-ss-carl-d-bradley-headlights-on-the-beach.mp3": 74.474,
+      "f04g-ss-carl-d-bradley-a-town-forever-changed.mp3": 76.8129166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

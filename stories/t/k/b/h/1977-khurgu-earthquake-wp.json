@@ -86,14 +86,14 @@
       "distanceKm": 304.9
     },
     "n": {
-      "id": "palace-of-ardashir-wp",
-      "title": "Palace of Ardashir",
-      "tile": "tjjk",
+      "id": "tepe-yahya-wp",
+      "title": "Tepe Yahya",
+      "tile": "tm03",
       "coordinates": {
-        "lat": 28.898055555556,
-        "lng": 52.539166666667
+        "lat": 28.3309,
+        "lng": 56.8674
       },
-      "distanceKm": 400.4
+      "distanceKm": 75.6
     },
     "ne": {
       "id": "alexandria-carmania-wp",
@@ -116,14 +116,14 @@
       "distanceKm": 356.4
     },
     "e": {
-      "id": "hamun-e-jaz-murian-wp",
-      "title": "Hamun-e Jaz Murian",
-      "tile": "tkcu",
+      "id": "konar-sandal-wp",
+      "title": "Konar Sandal",
+      "tile": "tm11",
       "coordinates": {
-        "lat": 27.488611111111112,
-        "lng": 58.86666666666667
+        "lat": 28.4632,
+        "lng": 57.7792
       },
-      "distanceKm": 188.7
+      "distanceKm": 133.5
     },
     "sw": {
       "id": "dubai-wk",
@@ -155,5 +155,6 @@
       },
       "distanceKm": 139.4
     }
-  }
+  },
+  "locationWikipediaPath": "t/k/b/h/1977-khurgu-earthquake-wp"
 }

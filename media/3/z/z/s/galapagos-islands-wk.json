@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/3/z/z/s/galapagos-islands-wk/3zzs-galapagos-islands-intro.mp3",
-        "_m/3/z/z/s/galapagos-islands-wk/3zzs-galapagos-islands-a-fragile-paradise.mp3",
-        "_m/3/z/z/s/galapagos-islands-wk/3zzs-galapagos-islands-an-archipelago-of-encounters.mp3",
-        "_m/3/z/z/s/galapagos-islands-wk/3zzs-galapagos-islands-fire-and-water.mp3",
         "_m/3/z/z/s/galapagos-islands-wk/3zzs-galapagos-islands-flight-context.mp3",
+        "_m/3/z/z/s/galapagos-islands-wk/3zzs-galapagos-islands-intro.mp3",
+        "_m/3/z/z/s/galapagos-islands-wk/3zzs-galapagos-islands-the-laboratory-of-evolution.mp3",
+        "_m/3/z/z/s/galapagos-islands-wk/3zzs-galapagos-islands-fire-and-water.mp3",
+        "_m/3/z/z/s/galapagos-islands-wk/3zzs-galapagos-islands-an-archipelago-of-encounters.mp3",
         "_m/3/z/z/s/galapagos-islands-wk/3zzs-galapagos-islands-getting-there-and-getting-around.mp3",
-        "_m/3/z/z/s/galapagos-islands-wk/3zzs-galapagos-islands-the-laboratory-of-evolution.mp3"
+        "_m/3/z/z/s/galapagos-islands-wk/3zzs-galapagos-islands-a-fragile-paradise.mp3"
       ],
       "hero": {
         "path": "_m/3/z/z/s/galapagos-islands-wp/alvaro-sevilla-design-isla-san.jpg",
@@ -25,7 +25,9 @@
         "sourceType": "sibling",
         "sourceArticleId": "galapagos-islands-wp",
         "sourceGeohash4": "3zzs",
-        "accessedAt": "2026-02-21T20:04:44.575Z"
+        "accessedAt": "2026-02-21T20:04:44.575Z",
+        "mediumPath": "_m/3/z/z/s/galapagos-islands-wk/hero-medium.webp",
+        "smallPath": "_m/3/z/z/s/galapagos-islands-wk/hero-small.webp"
       },
       "images": [
         {
@@ -52,7 +54,7 @@
             "Roca Redonda",
             "Satellite pictures of the Galápagos Islands (annotated)"
           ],
-          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/true-color-image-galap-small.jpg",
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/true-color-image-galap-small.webp",
           "evaluation": {
             "relevance": 10,
             "tags": [
@@ -92,8 +94,8 @@
             "Photographs by Alex Giltjes",
             "Self-published work"
           ],
-          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/magnificent-frigatebir-small.jpg",
-          "mediumPath": "_m/3/z/z/s/galapagos-islands-wk/magnificent-frigatebir-medium.jpg",
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/magnificent-frigatebir-small.webp",
+          "mediumPath": "_m/3/z/z/s/galapagos-islands-wk/magnificent-frigatebir-medium.webp",
           "evaluation": {
             "relevance": 10,
             "visualQuality": 9,
@@ -137,7 +139,7 @@
             "Red and white lighthouses",
             "Self-published work"
           ],
-          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/view-san-cristobal-small.jpg",
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/view-san-cristobal-small.webp",
           "evaluation": {
             "relevance": 7,
             "visualQuality": 6,
@@ -176,8 +178,8 @@
             "Puerto Ayora",
             "Taken with Sony DSC-W100"
           ],
-          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/puerto-ayora-harbor-small.jpg",
-          "mediumPath": "_m/3/z/z/s/galapagos-islands-wk/puerto-ayora-harbor-medium.jpg",
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/puerto-ayora-harbor-small.webp",
+          "mediumPath": "_m/3/z/z/s/galapagos-islands-wk/puerto-ayora-harbor-medium.webp",
           "evaluation": {
             "relevance": 8,
             "visualQuality": 7,
@@ -216,7 +218,9 @@
             "Puerto Villamil",
             "Sunrises of Ecuador",
             "Taken with Canon Digital IXUS 90 IS"
-          ]
+          ],
+          "mediumPath": "_m/3/z/z/s/galapagos-islands-wk/hero-medium.webp",
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/hero-small.webp"
         },
         {
           "path": "_m/3/z/z/s/galapagos-islands-wk/night-photo-taken-puer.jpg",
@@ -233,7 +237,7 @@
           "sourceArticleId": "galapagos-islands-wk",
           "sourceGeohash4": "3zzs",
           "accessedAt": "2026-02-21T20:04:44.575Z",
-          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/night-photo-taken-puer-small.jpg"
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/night-photo-taken-puer-small.webp"
         },
         {
           "path": "_m/3/z/z/s/galapagos-islands-wk/male-lava-lizard-micro.jpg",
@@ -250,8 +254,8 @@
           "sourceArticleId": "galapagos-islands-wk",
           "sourceGeohash4": "3zzs",
           "accessedAt": "2026-02-21T20:04:44.575Z",
-          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/male-lava-lizard-micro-small.jpg",
-          "mediumPath": "_m/3/z/z/s/galapagos-islands-wk/male-lava-lizard-micro-medium.jpg",
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/male-lava-lizard-micro-small.webp",
+          "mediumPath": "_m/3/z/z/s/galapagos-islands-wk/male-lava-lizard-micro-medium.webp",
           "evaluation": {
             "relevance": 8,
             "visualQuality": 9,
@@ -283,7 +287,7 @@
           "sourceArticleId": "galapagos-islands-wk",
           "sourceGeohash4": "3zzs",
           "accessedAt": "2026-02-21T20:04:44.575Z",
-          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/professional-photograp-small.jpg"
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/professional-photograp-small.webp"
         },
         {
           "path": "_m/3/z/z/s/galapagos-islands-wk/santa-cruz-island-one.jpg",
@@ -300,7 +304,7 @@
           "sourceArticleId": "galapagos-islands-wk",
           "sourceGeohash4": "3zzs",
           "accessedAt": "2026-02-21T20:04:44.575Z",
-          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/santa-cruz-island-one-small.jpg"
+          "smallPath": "_m/3/z/z/s/galapagos-islands-wk/santa-cruz-island-one-small.webp"
         },
         {
           "path": "_m/3/z/z/s/galapagos-islands-wp/galapagos-satellite-esislandna.jpg",
@@ -1067,7 +1071,8 @@
             "aerialBonus": 0
           }
         }
-      ]
+      ],
+      "combinedNarration": "_m/3/z/z/s/galapagos-islands-wk/3zzs-galapagos-islands-combined.mp3"
     }
   }
 }

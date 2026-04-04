@@ -101,14 +101,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "tottori-sand-dunes-wp",
+      "title": "Tottori Sand Dunes",
+      "tile": "wyr6",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 35.54,
+        "lng": 134.2275
       },
-      "distanceKm": 1187.4
+      "distanceKm": 44.6
     },
     "n": {
       "id": "maizuru-naval-arsenal-wp",
@@ -131,14 +131,14 @@
       "distanceKm": 16.9
     },
     "w": {
-      "id": "tangshan-earthquake-wk",
-      "title": "The Tangshan Earthquake: The Deadliest Quake of the 20th Century",
-      "tile": "wxh1",
+      "id": "koraku-en-wp",
+      "title": "Koraku-en",
+      "tile": "wypj",
       "coordinates": {
-        "lat": 39.6292,
-        "lng": 118.1742
+        "lat": 34.66766389,
+        "lng": 133.93505556
       },
-      "distanceKm": 1539.3
+      "distanceKm": 78.9
     },
     "e": {
       "id": "ry-an-ji-wp",
@@ -151,14 +151,14 @@
       "distanceKm": 4
     },
     "sw": {
-      "id": "hong-kong-wk",
-      "title": "Hong Kong",
-      "tile": "wecn",
+      "id": "okayama-castle-wp",
+      "title": "Okayama Castle",
+      "tile": "wypj",
       "coordinates": {
-        "lat": 22.27,
-        "lng": 114.17
+        "lat": 34.665277777778,
+        "lng": 133.93611111111
       },
-      "distanceKm": 2429.9
+      "distanceKm": 66.9
     },
     "s": {
       "id": "arima-onsen-wp",
@@ -180,5 +180,6 @@
       },
       "distanceKm": 14.2
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/0/p/kaibara-domain-wp"
 }

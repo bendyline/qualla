@@ -3,12 +3,12 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/c/2/3/n/bellevue-wk/c23n-bellevue-intro.mp3",
-        "_m/c/2/3/n/bellevue-wk/c23n-bellevue-beyond-the-towers.mp3",
         "_m/c/2/3/n/bellevue-wk/c23n-bellevue-flight-context.mp3",
+        "_m/c/2/3/n/bellevue-wk/c23n-bellevue-intro.mp3",
         "_m/c/2/3/n/bellevue-wk/c23n-bellevue-the-floating-connection.mp3",
         "_m/c/2/3/n/bellevue-wk/c23n-bellevue-the-tech-economy.mp3",
-        "_m/c/2/3/n/bellevue-wk/c23n-bellevue-upscale-and-urban.mp3"
+        "_m/c/2/3/n/bellevue-wk/c23n-bellevue-upscale-and-urban.mp3",
+        "_m/c/2/3/n/bellevue-wk/c23n-bellevue-beyond-the-towers.mp3"
       ],
       "hero": {
         "path": "_m/c/2/3/n/bellevue-transit-center-wp/bellevue-transit-center-west-e.jpg",
@@ -35,7 +35,9 @@
           "Self-published work",
           "The Bravern Apartments",
           "Uploaded with en.wp upload wizard"
-        ]
+        ],
+        "mediumPath": "_m/c/2/3/n/bellevue-wk/hero-medium.webp",
+        "smallPath": "_m/c/2/3/n/bellevue-wk/hero-small.webp"
       },
       "images": [
         {
@@ -66,8 +68,8 @@
             "Taken with Panasonic Lumix DMC-FZ5",
             "Waterfalls in Washington (state)"
           ],
-          "smallPath": "_m/c/2/3/n/bellevue-wk/coal-creek-falls-foot-small.jpg",
-          "mediumPath": "_m/c/2/3/n/bellevue-wk/coal-creek-falls-foot-medium.jpg"
+          "smallPath": "_m/c/2/3/n/bellevue-wk/coal-creek-falls-foot-small.webp",
+          "mediumPath": "_m/c/2/3/n/bellevue-wk/coal-creek-falls-foot-medium.webp"
         },
         {
           "path": "_m/c/2/3/n/bellevue-wk/maianthemum-dilatatum.jpg",
@@ -92,8 +94,8 @@
             "Maianthemum dilatatum",
             "Self-published work"
           ],
-          "smallPath": "_m/c/2/3/n/bellevue-wk/maianthemum-dilatatum-small.jpg",
-          "mediumPath": "_m/c/2/3/n/bellevue-wk/maianthemum-dilatatum-medium.jpg"
+          "smallPath": "_m/c/2/3/n/bellevue-wk/maianthemum-dilatatum-small.webp",
+          "mediumPath": "_m/c/2/3/n/bellevue-wk/maianthemum-dilatatum-medium.webp"
         },
         {
           "path": "_m/c/2/3/n/bellevue-wk/related-poi-aerial-bellevue-washington-nov.jpg",
@@ -117,7 +119,9 @@
             "November 2011 in Washington (state)",
             "Self-published work",
             "Taken with Canon EOS 500D"
-          ]
+          ],
+          "mediumPath": "_m/c/2/3/n/bellevue-wk/related-poi-aerial-bellevue-washington-nov-medium.webp",
+          "smallPath": "_m/c/2/3/n/bellevue-wk/related-poi-aerial-bellevue-washington-nov-small.webp"
         },
         {
           "path": "_m/c/2/3/n/bellevue-wk/bellevue-square-entran.jpg",
@@ -140,7 +144,7 @@
             "Files with coordinates missing SDC location of creation",
             "Self-published work"
           ],
-          "smallPath": "_m/c/2/3/n/bellevue-wk/bellevue-square-entran-small.jpg"
+          "smallPath": "_m/c/2/3/n/bellevue-wk/bellevue-square-entran-small.webp"
         },
         {
           "path": "_m/c/2/3/n/bellevue-wk/related-sibling-king-county-metro-6944-at-univ.jpg",
@@ -187,8 +191,8 @@
             "CC-BY-SA-4.0",
             "Files with coordinates missing SDC location of creation"
           ],
-          "smallPath": "_m/c/2/3/n/bellevue-wk/front-facade-kidsquest-small.jpg",
-          "mediumPath": "_m/c/2/3/n/bellevue-wk/front-facade-kidsquest-medium.jpg"
+          "smallPath": "_m/c/2/3/n/bellevue-wk/front-facade-kidsquest-small.webp",
+          "mediumPath": "_m/c/2/3/n/bellevue-wk/front-facade-kidsquest-medium.webp"
         },
         {
           "path": "_m/c/2/3/n/bellevue-wk/hero.jpg",
@@ -798,7 +802,8 @@
           "sourceGeohash4": "c290",
           "accessedAt": "2026-02-22T01:56:29.659Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/3/n/bellevue-wk/c23n-bellevue-combined.mp3"
     }
   }
 }

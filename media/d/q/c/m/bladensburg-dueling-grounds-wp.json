@@ -28,8 +28,8 @@
           "Monuments and memorials to victims of duels",
           "Self-published work"
         ],
-        "mediumPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/hero-medium.jpg",
-        "smallPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/hero-small.jpg"
+        "mediumPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/hero-medium.webp",
+        "smallPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/hero-small.webp"
       },
       "images": [
         {
@@ -61,7 +61,7 @@
             "Paintings from completely indexed collections",
             "Paintings without Wikidata item"
           ],
-          "smallPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/portrait-francis-scott-small.jpg"
+          "smallPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/portrait-francis-scott-small.webp"
         },
         {
           "path": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/1877-illustration-last.jpg",
@@ -83,7 +83,7 @@
             "Frank Leslie's Popular Monthly, 1877",
             "PD-anon-expired"
           ],
-          "smallPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/1877-illustration-last-small.jpg"
+          "smallPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/1877-illustration-last-small.webp"
         },
         {
           "path": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/bladensburg-waterfront-park-bl.jpg",
@@ -108,8 +108,8 @@
             "License migration redundant",
             "Self-published work"
           ],
-          "mediumPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/bladensburg-waterfront-park-bl-medium.jpg",
-          "smallPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/bladensburg-waterfront-park-bl-small.jpg"
+          "mediumPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/bladensburg-waterfront-park-bl-medium.webp",
+          "smallPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/bladensburg-waterfront-park-bl-small.webp"
         },
         {
           "path": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/stephen-decatur3.jpg",
@@ -136,9 +136,18 @@
             "PD-old missing SDC copyright status",
             "Stephen Decatur"
           ],
-          "smallPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/stephen-decatur3-small.jpg"
+          "smallPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/stephen-decatur3-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/d/q/c/m/bladensburg-dueling-grounds-wp/dqcm-bladensburg-dueling-grounds-flight-context.mp3",
+        "_m/d/q/c/m/bladensburg-dueling-grounds-wp/dqcm-bladensburg-dueling-grounds-intro.mp3",
+        "_m/d/q/c/m/bladensburg-dueling-grounds-wp/dqcm-bladensburg-dueling-grounds-an-affair-of-honor.mp3",
+        "_m/d/q/c/m/bladensburg-dueling-grounds-wp/dqcm-bladensburg-dueling-grounds-the-commodore-falls.mp3",
+        "_m/d/q/c/m/bladensburg-dueling-grounds-wp/dqcm-bladensburg-dueling-grounds-death-in-ninety-seconds.mp3",
+        "_m/d/q/c/m/bladensburg-dueling-grounds-wp/dqcm-bladensburg-dueling-grounds-the-last-shots-on-blood-run.mp3"
+      ],
+      "combinedNarration": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/dqcm-bladensburg-dueling-grounds-combined.mp3"
     }
   }
 }

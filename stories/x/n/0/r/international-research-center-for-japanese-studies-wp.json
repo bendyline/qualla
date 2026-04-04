@@ -103,14 +103,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "tottori-sand-dunes-wp",
+      "title": "Tottori Sand Dunes",
+      "tile": "wyr6",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 35.54,
+        "lng": 134.2275
       },
-      "distanceKm": 1213.4
+      "distanceKm": 73.7
     },
     "n": {
       "id": "takahama-nuclear-power-plant-wp",
@@ -133,14 +133,14 @@
       "distanceKm": 12.8
     },
     "w": {
-      "id": "tangshan-earthquake-wk",
-      "title": "The Tangshan Earthquake: The Deadliest Quake of the 20th Century",
-      "tile": "wxh1",
+      "id": "takeda-castle-wp",
+      "title": "Takeda Castle",
+      "tile": "wyrb",
       "coordinates": {
-        "lat": 39.6292,
-        "lng": 118.1742
+        "lat": 35.3005,
+        "lng": 134.829
       },
-      "distanceKm": 1568.5
+      "distanceKm": 30.1
     },
     "e": {
       "id": "azuchi-castle-wp",
@@ -153,14 +153,14 @@
       "distanceKm": 12.4
     },
     "sw": {
-      "id": "hong-kong-wk",
-      "title": "Hong Kong",
-      "tile": "wecn",
+      "id": "shikoku-pilgrimage-wp",
+      "title": "Shikoku Pilgrimage",
+      "tile": "wypd",
       "coordinates": {
-        "lat": 22.27,
-        "lng": 114.17
+        "lat": 34.159803,
+        "lng": 134.502592
       },
-      "distanceKm": 2457.9
+      "distanceKm": 85
     },
     "s": {
       "id": "hosokawa-gracia-wp",
@@ -182,5 +182,6 @@
       },
       "distanceKm": 7.7
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/0/r/international-research-center-for-japanese-studies-wp"
 }

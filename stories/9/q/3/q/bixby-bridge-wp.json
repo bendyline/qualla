@@ -166,14 +166,14 @@
       "distanceKm": 184
     },
     "sw": {
-      "id": "mauna-kea-wk",
-      "title": "Mauna Kea: The Mountain Taller Than Everest",
-      "tile": "8e92",
+      "id": "akaka-falls-state-park-wp",
+      "title": "ʻAkaka Falls State Park",
+      "tile": "8e98",
       "coordinates": {
-        "lat": 19.8207,
-        "lng": -155.468
+        "lat": 19.854166666667,
+        "lng": -155.1525
       },
-      "distanceKm": 3693.7
+      "distanceKm": 3664.9
     },
     "s": {
       "id": "san-andreas-fault-carrizo-wk",
@@ -198,5 +198,6 @@
   },
   "keywords": [
     "bixby-bridge"
-  ]
+  ],
+  "locationWikipediaPath": "9/q/3/q/bixby-bridge-wp"
 }

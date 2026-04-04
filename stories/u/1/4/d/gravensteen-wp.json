@@ -106,14 +106,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "crystal-palace-fire-wk",
-      "title": "The Crystal Palace Fire: When London's Glass Wonder Burned",
-      "tile": "gcpu",
+      "id": "rochester-castle-wp",
+      "title": "Rochester Castle",
+      "tile": "u10k",
       "coordinates": {
-        "lat": 51.4188,
-        "lng": -0.0754
+        "lat": 51.3894,
+        "lng": 0.502
       },
-      "distanceKm": 225.1
+      "distanceKm": 185
     },
     "n": {
       "id": "battle-of-sluys-wp",
@@ -188,5 +188,6 @@
   },
   "keywords": [
     "gravensteen"
-  ]
+  ],
+  "locationWikipediaPath": "u/1/4/d/gravensteen-wp"
 }

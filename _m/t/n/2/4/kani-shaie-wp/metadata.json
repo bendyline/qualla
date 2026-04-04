@@ -25,8 +25,8 @@
     "sourceType": "core",
     "sourceArticleId": "kani-shaie-wp",
     "sourceGeohash4": "tn24",
-    "mediumPath": "_m/t/n/2/4/kani-shaie-wp/hero-medium.jpg",
-    "smallPath": "_m/t/n/2/4/kani-shaie-wp/hero-small.jpg"
+    "mediumPath": "_m/t/n/2/4/kani-shaie-wp/hero-medium.webp",
+    "smallPath": "_m/t/n/2/4/kani-shaie-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Beveled rim bowl from Logardan, near Chamchamal, Sulaymaniyah Governorate, northern Iraq. Uruk period, 4000-3100 BCE. Sulaymaniyah Museum, Iraq.jpg",
@@ -80,12 +80,30 @@
       "sourceType": "core",
       "sourceArticleId": "kani-shaie-wp",
       "sourceGeohash4": "tn24",
-      "mediumPath": "_m/t/n/2/4/kani-shaie-wp/beveled-rim-bowls-loga-medium.jpg",
-      "smallPath": "_m/t/n/2/4/kani-shaie-wp/beveled-rim-bowls-loga-small.jpg"
+      "mediumPath": "_m/t/n/2/4/kani-shaie-wp/beveled-rim-bowls-loga-medium.webp",
+      "smallPath": "_m/t/n/2/4/kani-shaie-wp/beveled-rim-bowls-loga-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/t/n/2/4/kani-shaie-wp/beveled-rim-bowls-loga.jpg"
   ],
-  "fetchedAt": "2026-03-01T11:58:08.645Z"
+  "narration": {
+    "files": [
+      "tn24-kani-shaie-flight-context.mp3",
+      "tn24-kani-shaie-intro.mp3",
+      "tn24-kani-shaie-fifteen-layers-deep.mp3",
+      "tn24-kani-shaie-fire-and-bowls.mp3",
+      "tn24-kani-shaie-grain-seals-and-the-shape-of-authority.mp3",
+      "tn24-kani-shaie-a-monumental-discovery.mp3"
+    ],
+    "durations": {
+      "tn24-kani-shaie-flight-context.mp3": 39.8009166,
+      "tn24-kani-shaie-intro.mp3": 45.753125,
+      "tn24-kani-shaie-fifteen-layers-deep.mp3": 78.7357916,
+      "tn24-kani-shaie-fire-and-bowls.mp3": 60.26425,
+      "tn24-kani-shaie-grain-seals-and-the-shape-of-authority.mp3": 68.701125,
+      "tn24-kani-shaie-a-monumental-discovery.mp3": 63.9227083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

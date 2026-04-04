@@ -18,7 +18,7 @@
     "sourceType": "core",
     "sourceArticleId": "jameh-mosque-of-saveh-wp",
     "sourceGeohash4": "tn5z",
-    "smallPath": "_m/t/n/5/z/jameh-mosque-of-saveh-wp/hero-small.jpg"
+    "smallPath": "_m/t/n/5/z/jameh-mosque-of-saveh-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Saveh Mosque 8.jpg",
@@ -123,8 +123,8 @@
       "sourceType": "core",
       "sourceArticleId": "jameh-mosque-of-saveh-wp",
       "sourceGeohash4": "tn5z",
-      "mediumPath": "_m/t/n/5/z/jameh-mosque-of-saveh-wp/saveh-jamee-mos-iran-s-medium.jpg",
-      "smallPath": "_m/t/n/5/z/jameh-mosque-of-saveh-wp/saveh-jamee-mos-iran-s-small.jpg"
+      "mediumPath": "_m/t/n/5/z/jameh-mosque-of-saveh-wp/saveh-jamee-mos-iran-s-medium.webp",
+      "smallPath": "_m/t/n/5/z/jameh-mosque-of-saveh-wp/saveh-jamee-mos-iran-s-small.webp"
     },
     {
       "filename": "Menareh masjed saveh2.jpg",
@@ -158,8 +158,8 @@
       "sourceType": "core",
       "sourceArticleId": "jameh-mosque-of-saveh-wp",
       "sourceGeohash4": "tn5z",
-      "mediumPath": "_m/t/n/5/z/jameh-mosque-of-saveh-wp/photo-monument-iran-id-medium.jpg",
-      "smallPath": "_m/t/n/5/z/jameh-mosque-of-saveh-wp/photo-monument-iran-id-small.jpg"
+      "mediumPath": "_m/t/n/5/z/jameh-mosque-of-saveh-wp/photo-monument-iran-id-medium.webp",
+      "smallPath": "_m/t/n/5/z/jameh-mosque-of-saveh-wp/photo-monument-iran-id-small.webp"
     },
     {
       "filename": "Plan of the mosque of Saveh and location of its miḥrābs.jpg",
@@ -178,7 +178,7 @@
       "sourceType": "core",
       "sourceArticleId": "jameh-mosque-of-saveh-wp",
       "sourceGeohash4": "tn5z",
-      "smallPath": "_m/t/n/5/z/jameh-mosque-of-saveh-wp/plan-mosque-saveh-loca-small.jpg"
+      "smallPath": "_m/t/n/5/z/jameh-mosque-of-saveh-wp/plan-mosque-saveh-loca-small.webp"
     }
   ],
   "galleryPaths": [
@@ -188,5 +188,25 @@
     "_m/t/n/5/z/jameh-mosque-of-saveh-wp/photo-monument-iran-id.jpg",
     "_m/t/n/5/z/jameh-mosque-of-saveh-wp/plan-mosque-saveh-loca.jpg"
   ],
-  "fetchedAt": "2026-03-01T12:17:47.013Z"
+  "narration": {
+    "files": [
+      "tn5z-jameh-mosque-of-saveh-twelve-centuries-in-brick-an-flight-context.mp3",
+      "tn5z-jameh-mosque-of-saveh-twelve-centuries-in-brick-an-intro.mp3",
+      "tn5z-jameh-mosque-of-saveh-twelve-centuries-in-brick-an-a-crossroads-town-and-its-mosque.mp3",
+      "tn5z-jameh-mosque-of-saveh-twelve-centuries-in-brick-an-building-upon-building.mp3",
+      "tn5z-jameh-mosque-of-saveh-twelve-centuries-in-brick-an-destruction-and-reinvention.mp3",
+      "tn5z-jameh-mosque-of-saveh-twelve-centuries-in-brick-an-the-safavid-transformation.mp3",
+      "tn5z-jameh-mosque-of-saveh-twelve-centuries-in-brick-an-reading-the-walls.mp3"
+    ],
+    "durations": {
+      "tn5z-jameh-mosque-of-saveh-twelve-centuries-in-brick-an-flight-context.mp3": 54.0247916,
+      "tn5z-jameh-mosque-of-saveh-twelve-centuries-in-brick-an-intro.mp3": 48.6838333,
+      "tn5z-jameh-mosque-of-saveh-twelve-centuries-in-brick-an-a-crossroads-town-and-its-mosque.mp3": 54.29625,
+      "tn5z-jameh-mosque-of-saveh-twelve-centuries-in-brick-an-building-upon-building.mp3": 59.2652916,
+      "tn5z-jameh-mosque-of-saveh-twelve-centuries-in-brick-an-destruction-and-reinvention.mp3": 59.0505,
+      "tn5z-jameh-mosque-of-saveh-twelve-centuries-in-brick-an-the-safavid-transformation.mp3": 73.6276666,
+      "tn5z-jameh-mosque-of-saveh-twelve-centuries-in-brick-an-reading-the-walls.mp3": 64.905875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

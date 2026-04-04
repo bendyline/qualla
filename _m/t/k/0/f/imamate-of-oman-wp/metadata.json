@@ -23,7 +23,7 @@
     "sourceType": "core",
     "sourceArticleId": "imamate-of-oman-wp",
     "sourceGeohash4": "tk0f",
-    "smallPath": "_m/t/k/0/f/imamate-of-oman-wp/hero-small.jpg"
+    "smallPath": "_m/t/k/0/f/imamate-of-oman-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Omani Imamate Emblem.png",
@@ -78,11 +78,29 @@
       "sourceType": "core",
       "sourceArticleId": "imamate-of-oman-wp",
       "sourceGeohash4": "tk0f",
-      "smallPath": "_m/t/k/0/f/imamate-of-oman-wp/approximate-map-histor-small.png"
+      "smallPath": "_m/t/k/0/f/imamate-of-oman-wp/approximate-map-histor-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/t/k/0/f/imamate-of-oman-wp/approximate-map-histor.png"
   ],
-  "fetchedAt": "2026-03-01T09:31:44.058Z"
+  "narration": {
+    "files": [
+      "tk0f-imamate-of-oman-flight-context.mp3",
+      "tk0f-imamate-of-oman-intro.mp3",
+      "tk0f-imamate-of-oman-a-government-behind-the-mountains.mp3",
+      "tk0f-imamate-of-oman-the-fracture-of-1783.mp3",
+      "tk0f-imamate-of-oman-oil-and-the-end-of-the-imamate.mp3",
+      "tk0f-imamate-of-oman-twelve-centuries-of-elected-rule.mp3"
+    ],
+    "durations": {
+      "tk0f-imamate-of-oman-flight-context.mp3": 34.4443333,
+      "tk0f-imamate-of-oman-intro.mp3": 41.6829166,
+      "tk0f-imamate-of-oman-a-government-behind-the-mountains.mp3": 58.453625,
+      "tk0f-imamate-of-oman-the-fracture-of-1783.mp3": 64.77475,
+      "tk0f-imamate-of-oman-oil-and-the-end-of-the-imamate.mp3": 57.83475,
+      "tk0f-imamate-of-oman-twelve-centuries-of-elected-rule.mp3": 61.3104166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "royal-aviation-museum-of-western-canada-wp",
     "sourceGeohash4": "cbfg",
-    "smallPath": "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/hero-small.jpg",
-    "mediumPath": "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/hero-medium.jpg"
+    "smallPath": "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/hero-small.webp",
+    "mediumPath": "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "L-10A Electra at WCAM.JPG",
@@ -73,8 +73,8 @@
       "sourceType": "core",
       "sourceArticleId": "royal-aviation-museum-of-western-canada-wp",
       "sourceGeohash4": "cbfg",
-      "smallPath": "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/vickers-vedette-replic-small.jpg",
-      "mediumPath": "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/vickers-vedette-replic-medium.jpg"
+      "smallPath": "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/vickers-vedette-replic-small.webp",
+      "mediumPath": "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/vickers-vedette-replic-medium.webp"
     },
     {
       "filename": "Avrocar (WCAM).jpg",
@@ -99,8 +99,8 @@
       "sourceType": "core",
       "sourceArticleId": "royal-aviation-museum-of-western-canada-wp",
       "sourceGeohash4": "cbfg",
-      "smallPath": "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/avro-canada-vz-9-avroc-small.jpg",
-      "mediumPath": "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/avro-canada-vz-9-avroc-medium.jpg"
+      "smallPath": "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/avro-canada-vz-9-avroc-small.webp",
+      "mediumPath": "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/avro-canada-vz-9-avroc-medium.webp"
     },
     {
       "filename": "Vickers Viscount at Royal Aviation Museum of Western Canada.jpg",
@@ -127,8 +127,8 @@
       "sourceType": "core",
       "sourceArticleId": "royal-aviation-museum-of-western-canada-wp",
       "sourceGeohash4": "cbfg",
-      "smallPath": "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/exterior-vickers-visco-small.jpg",
-      "mediumPath": "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/exterior-vickers-visco-medium.jpg"
+      "smallPath": "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/exterior-vickers-visco-small.webp",
+      "mediumPath": "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/exterior-vickers-visco-medium.webp"
     },
     {
       "filename": "Link Trainer in Museum.jpg",
@@ -150,7 +150,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "royal-aviation-museum-of-western-canada-wp",
-      "sourceGeohash4": "cbfg"
+      "sourceGeohash4": "cbfg",
+      "mediumPath": "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/link-trainer-in-museum-medium.webp",
+      "smallPath": "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/link-trainer-in-museum-small.webp"
     },
     {
       "filename": "Link Trainer (WCAM).JPG",
@@ -172,7 +174,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "royal-aviation-museum-of-western-canada-wp",
-      "sourceGeohash4": "cbfg"
+      "sourceGeohash4": "cbfg",
+      "mediumPath": "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/link-trainer-wcam-medium.webp",
+      "smallPath": "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/link-trainer-wcam-small.webp"
     }
   ],
   "galleryPaths": [
@@ -182,7 +186,6 @@
     "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/link-trainer-in-museum.jpg",
     "_m/c/b/f/g/royal-aviation-museum-of-western-canada-wp/link-trainer-wcam.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:48:48.667Z",
   "narration": {
     "files": [
       "cbfg-royal-aviation-museum-of-western-canada-flight-context.mp3",
@@ -200,8 +203,7 @@
       "cbfg-royal-aviation-museum-of-western-canada-earharts-five-minutes.mp3": 57.9971666,
       "cbfg-royal-aviation-museum-of-western-canada-ghosts-and-volunteers.mp3": 73.1323333
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T08:04:42.582Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T02:48:49.288Z"
 }

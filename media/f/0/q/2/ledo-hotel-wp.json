@@ -25,8 +25,8 @@
           "Pages with maps",
           "Self-published work"
         ],
-        "mediumPath": "_m/f/0/q/2/ledo-hotel-wp/hero-medium.jpg",
-        "smallPath": "_m/f/0/q/2/ledo-hotel-wp/hero-small.jpg"
+        "mediumPath": "_m/f/0/q/2/ledo-hotel-wp/hero-medium.webp",
+        "smallPath": "_m/f/0/q/2/ledo-hotel-wp/hero-small.webp"
       },
       "images": [
         {
@@ -52,8 +52,8 @@
             "Pages with maps",
             "Self-published work"
           ],
-          "mediumPath": "_m/f/0/q/2/ledo-hotel-wp/ledo-hotel-viewed-elgi-medium.jpg",
-          "smallPath": "_m/f/0/q/2/ledo-hotel-wp/ledo-hotel-viewed-elgi-small.jpg"
+          "mediumPath": "_m/f/0/q/2/ledo-hotel-wp/ledo-hotel-viewed-elgi-medium.webp",
+          "smallPath": "_m/f/0/q/2/ledo-hotel-wp/ledo-hotel-viewed-elgi-small.webp"
         },
         {
           "path": "_m/f/0/q/2/ledo-hotel-wp/ledo-hotel-welcome-jun.jpg",
@@ -76,10 +76,20 @@
             "Self-published work",
             "Sudbury District, Ontario"
           ],
-          "mediumPath": "_m/f/0/q/2/ledo-hotel-wp/ledo-hotel-welcome-jun-medium.jpg",
-          "smallPath": "_m/f/0/q/2/ledo-hotel-wp/ledo-hotel-welcome-jun-small.jpg"
+          "mediumPath": "_m/f/0/q/2/ledo-hotel-wp/ledo-hotel-welcome-jun-medium.webp",
+          "smallPath": "_m/f/0/q/2/ledo-hotel-wp/ledo-hotel-welcome-jun-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/f/0/q/2/ledo-hotel-wp/f0q2-ledo-hotel-flight-context.mp3",
+        "_m/f/0/q/2/ledo-hotel-wp/f0q2-ledo-hotel-intro.mp3",
+        "_m/f/0/q/2/ledo-hotel-wp/f0q2-ledo-hotel-the-greek-and-the-flat-iron.mp3",
+        "_m/f/0/q/2/ledo-hotel-wp/f0q2-ledo-hotel-a-century-at-the-crossroads.mp3",
+        "_m/f/0/q/2/ledo-hotel-wp/f0q2-ledo-hotel-condemned.mp3",
+        "_m/f/0/q/2/ledo-hotel-wp/f0q2-ledo-hotel-the-vote.mp3",
+        "_m/f/0/q/2/ledo-hotel-wp/f0q2-ledo-hotel-what-a-parking-lot-remembers.mp3"
+      ],
+      "combinedNarration": "_m/f/0/q/2/ledo-hotel-wp/f0q2-ledo-hotel-combined.mp3"
     }
   }
 }

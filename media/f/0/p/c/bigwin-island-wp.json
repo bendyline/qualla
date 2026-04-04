@@ -31,7 +31,7 @@
           "October 2009 in Ontario",
           "Self-published work"
         ],
-        "smallPath": "_m/f/0/p/c/bigwin-island-wp/hero-small.jpg"
+        "smallPath": "_m/f/0/p/c/bigwin-island-wp/hero-small.webp"
       },
       "images": [
         {
@@ -77,8 +77,8 @@
             "Files with coordinates missing SDC location of creation",
             "Self-published work"
           ],
-          "mediumPath": "_m/f/0/p/c/bigwin-island-wp/bigwin-island-sunset-medium.jpg",
-          "smallPath": "_m/f/0/p/c/bigwin-island-wp/bigwin-island-sunset-small.jpg"
+          "mediumPath": "_m/f/0/p/c/bigwin-island-wp/bigwin-island-sunset-medium.webp",
+          "smallPath": "_m/f/0/p/c/bigwin-island-wp/bigwin-island-sunset-small.webp"
         },
         {
           "path": "_m/f/0/p/c/lake-of-bays-wk/baysville-on.jpg",
@@ -160,7 +160,17 @@
             "Transport in Huntsville, Ontario"
           ]
         }
-      ]
+      ],
+      "narration": [
+        "_m/f/0/p/c/bigwin-island-wp/f0pc-bigwin-island-flight-context.mp3",
+        "_m/f/0/p/c/bigwin-island-wp/f0pc-bigwin-island-intro.mp3",
+        "_m/f/0/p/c/bigwin-island-wp/f0pc-bigwin-island-the-name-on-the-graves.mp3",
+        "_m/f/0/p/c/bigwin-island-wp/f0pc-bigwin-island-an-inn-built-on-ice.mp3",
+        "_m/f/0/p/c/bigwin-island-wp/f0pc-bigwin-island-music-monarchs-and-the-dance-pavilion.mp3",
+        "_m/f/0/p/c/bigwin-island-wp/f0pc-bigwin-island-closing-time.mp3",
+        "_m/f/0/p/c/bigwin-island-wp/f0pc-bigwin-island-a-second-life-on-the-fairway.mp3"
+      ],
+      "combinedNarration": "_m/f/0/p/c/bigwin-island-wp/f0pc-undefined-combined.mp3"
     }
   }
 }

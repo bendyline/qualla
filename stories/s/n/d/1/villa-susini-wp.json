@@ -1,0 +1,168 @@
+{
+  "id": "villa-susini-wp",
+  "source": "wikipedia",
+  "sourceId": "66933041",
+  "title": "Villa Susini",
+  "slug": "villa-susini",
+  "summary": "A former private villa in Algiers that became one of the most notorious detention and torture centers of the Algerian War, now classified as protected cultural property.",
+  "content": {
+    "intro": "The villa is beautiful in the way that buildings indifferent to their own history often are. Built in the leafy hillside district of El Biar in Algiers by a notary named Alexandre Sesini, the Villa Sesini -- commonly misspelled as Susini -- spent its early decades as a private residence, then a classified natural monument, then the German consulate. None of those chapters would define it. During the Algerian War of Independence, the French military transformed the villa into a detention and torture center, and the screams that echoed through its rooms between 1957 and 1962 became part of the permanent record of colonial violence.",
+    "sections": [
+      {
+        "title": "From Consulate to Chamber of Horrors",
+        "body": "The villa's descent into infamy followed a grim logic. In 1926, the city of Algiers had classified it as a natural monument. By 1927, the German consulate had moved in, drawn by the building's gracious setting in El Biar. But during the Battle of Algiers and the broader Algerian Revolution, French paratroopers and intelligence officers requisitioned the property and converted it into one of several clandestine detention sites across the capital. The men who conducted interrogations here included some of the most prominent French military figures of the era: General Jacques Massu, Colonel Roger Trinquier, Marcel Bigeard, and -- as both French and Algerian sources have documented -- the politician Jean-Marie Le Pen, then a young deputy who volunteered for duty in Algeria."
+      },
+      {
+        "title": "Those Who Survived to Speak",
+        "body": "Among the people detained and tortured at Villa Susini were Louisette Ighilahriz, who was arrested in 1957 at age twenty and whose testimony decades later helped force a national reckoning in France; Nassima Hablal, a resistance fighter who endured interrogation and survived to see independence; Brahim Boushaki, held during the war's most brutal phase; and Mohamed Charef, a religious scholar who lived to the age of 103. Their accounts, published in books and testimony over the following decades, described systematic brutality -- electric shock, waterboarding, beatings -- carried out by French forces as official policy rather than aberration. Henri Pouillot, a French conscript stationed at the villa, later broke ranks to publish his own account of what he witnessed, becoming one of the few French soldiers to testify publicly about the torture program."
+      },
+      {
+        "title": "Afterlives of a Dark Place",
+        "body": "After Algerian independence in 1962, the villa's uses shifted with the country's new alliances. For a time it housed the headquarters of the United Nations High Commissioner for Refugees. Then, in coordination with Cuba, it was used for the military training of Latin American revolutionaries -- a Cold War chapter that transformed a site of colonial oppression into a training ground for anti-colonial movements elsewhere. The building's layers of history accumulated like geological strata, each one burying the last without erasing it."
+      },
+      {
+        "title": "Memory Preserved in Stone",
+        "body": "In April 2016, the Algerian Ministry of Culture classified Villa Susini on the list of protected cultural property, formally recognizing that the building's significance lies not in its architecture but in what happened within its walls. The classification ensures that the villa cannot be demolished or substantially altered, preserving it as a site of memory for future generations. Whether it will ever become a museum or memorial remains an open question, but its legal protection signals Algeria's commitment to remembering the war's darkest truths. The villa still stands in El Biar, its gardens shaded by the same trees that grew while people suffered inside, a place where beauty and cruelty share the same address."
+      }
+    ],
+    "flightContext": "Located at 36.75N, 3.06E in the El Biar district of Algiers, on the hillside south of the city center. The villa is in a residential area not easily distinguishable from the air. Nearest airport: DAAG (Houari Boumediene Airport), approximately 15 km southeast."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 36.7475696,
+      "lng": 3.0648457
+    },
+    "geohash": "snd1j"
+  },
+  "categories": [
+    "Algerian War",
+    "Torture during the Algerian War",
+    "Prisons in Algeria",
+    "French war crimes in Algeria"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-13T00:00:00Z",
+    "wordCount": 680,
+    "readTime": 4,
+    "firstPublished": "2026-03-13T00:00:00Z",
+    "storyNumber": 8838
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - Villa Susini",
+      "url": "https://en.wikipedia.org/wiki/Villa_Susini",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Villa built in El Biar by notary Alexandre Sesini (not Susini)",
+        "Classified as natural monument in 1926",
+        "German consulate occupied 1927",
+        "Used as detention and torture center during Algerian War, 1957-1962",
+        "Jean-Marie Le Pen volunteered for Algeria duty and was present at villa",
+        "Louisette Ighilahriz arrested 1957 age twenty",
+        "Algerian Ministry of Culture classified villa April 2016 as protected cultural property"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "New Lines Magazine - How the Battle of Algiers Made Jean-Marie Le Pen",
+      "url": "https://newlinesmag.com/reportage/how-the-battle-of-algiers-made-jean-marie-le-pen/",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Le Pen was a young parliamentary deputy who volunteered for Algeria in 1957",
+        "Presence at Villa Sesini documented by French and Algerian sources"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 3,
+    "strongOpinions": [
+      "The villa is beautiful in the way that buildings indifferent to their own history often are",
+      "The building's layers of history accumulated like geological strata, each one burying the last without erasing it",
+      "a place where beauty and cruelty share the same address"
+    ]
+  },
+  "locationWikipediaPath": "s/n/d/1/villa-susini-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "battle-of-formentera-wp",
+      "title": "Battle of Formentera",
+      "tile": "snch",
+      "coordinates": {
+        "lat": 38.7,
+        "lng": 1.45
+      },
+      "distanceKm": 199.8
+    },
+    "n": {
+      "id": "pityusic-islands-wp",
+      "title": "Pityusic Islands",
+      "tile": "snch",
+      "coordinates": {
+        "lat": 38.7,
+        "lng": 1.45
+      },
+      "distanceKm": 224.2
+    },
+    "ne": {
+      "id": "siege-of-fort-st-philip-1756-wp",
+      "title": "Siege of Fort St Philip (1756)",
+      "tile": "sp54",
+      "coordinates": {
+        "lat": 39.8653,
+        "lng": 4.30569
+      },
+      "distanceKm": 316.2
+    },
+    "w": {
+      "id": "battle-of-cape-cherchell-wp",
+      "title": "Battle of Cape Cherchell",
+      "tile": "sn99",
+      "coordinates": {
+        "lat": 36.90694444,
+        "lng": 2.20333333
+      },
+      "distanceKm": 24.6
+    },
+    "e": {
+      "id": "battle-of-the-col-des-beni-aicha-wp",
+      "title": "Battle of the Col des Beni Aicha",
+      "tile": "snd8",
+      "coordinates": {
+        "lat": 36.7347991,
+        "lng": 3.5795697
+      },
+      "distanceKm": 11.6
+    },
+    "sw": {
+      "id": "theniet-el-had-national-park-wp",
+      "title": "Theniet El Had National Park",
+      "tile": "sn37",
+      "coordinates": {
+        "lat": 35.85369444444444,
+        "lng": 1.9683055555555558
+      },
+      "distanceKm": 90.4
+    },
+    "s": {
+      "id": "chrea-national-park-wp",
+      "title": "Chrea National Park",
+      "tile": "sn6p",
+      "coordinates": {
+        "lat": 36.4,
+        "lng": 2.8666666666666667
+      },
+      "distanceKm": 21.1
+    },
+    "se": {
+      "id": "djurdjura-national-park-wp",
+      "title": "Djurdjura National Park",
+      "tile": "sn6z",
+      "coordinates": {
+        "lat": 36.4667,
+        "lng": 4.1333
+      },
+      "distanceKm": 56.2
+    }
+  }
+}

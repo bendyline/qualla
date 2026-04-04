@@ -30,8 +30,8 @@
     "sourceType": "core",
     "sourceArticleId": "godin-tepe-wp",
     "sourceGeohash4": "tn4h",
-    "mediumPath": "_m/t/n/4/h/godin-tepe-wp/hero-medium.jpg",
-    "smallPath": "_m/t/n/4/h/godin-tepe-wp/hero-small.jpg"
+    "mediumPath": "_m/t/n/4/h/godin-tepe-wp/hero-medium.webp",
+    "smallPath": "_m/t/n/4/h/godin-tepe-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Sello cilíndrico - MARQ.jpg",
@@ -149,8 +149,8 @@
       "sourceType": "core",
       "sourceArticleId": "godin-tepe-wp",
       "sourceGeohash4": "tn4h",
-      "mediumPath": "_m/t/n/4/h/godin-tepe-wp/exhibit-oriental-insti-medium.jpg",
-      "smallPath": "_m/t/n/4/h/godin-tepe-wp/exhibit-oriental-insti-small.jpg"
+      "mediumPath": "_m/t/n/4/h/godin-tepe-wp/exhibit-oriental-insti-medium.webp",
+      "smallPath": "_m/t/n/4/h/godin-tepe-wp/exhibit-oriental-insti-small.webp"
     },
     {
       "filename": "Godin tape.jpg",
@@ -177,8 +177,8 @@
       "sourceType": "core",
       "sourceArticleId": "godin-tepe-wp",
       "sourceGeohash4": "tn4h",
-      "mediumPath": "_m/t/n/4/h/godin-tepe-wp/godin-tepe-bronze-age-medium.jpg",
-      "smallPath": "_m/t/n/4/h/godin-tepe-wp/godin-tepe-bronze-age-small.jpg"
+      "mediumPath": "_m/t/n/4/h/godin-tepe-wp/godin-tepe-bronze-age-medium.webp",
+      "smallPath": "_m/t/n/4/h/godin-tepe-wp/godin-tepe-bronze-age-small.webp"
     },
     {
       "filename": "Vaso con decoración pintada (Godin Tepe, Irán) - MARQ.jpg",
@@ -211,8 +211,8 @@
       "sourceType": "core",
       "sourceArticleId": "godin-tepe-wp",
       "sourceGeohash4": "tn4h",
-      "mediumPath": "_m/t/n/4/h/godin-tepe-wp/vessel-painted-decorat-medium.jpg",
-      "smallPath": "_m/t/n/4/h/godin-tepe-wp/vessel-painted-decorat-small.jpg"
+      "mediumPath": "_m/t/n/4/h/godin-tepe-wp/vessel-painted-decorat-medium.webp",
+      "smallPath": "_m/t/n/4/h/godin-tepe-wp/vessel-painted-decorat-small.webp"
     },
     {
       "filename": "Cuenco de Cerámica (Godin Tepe, Irán) - MARQ.jpg",
@@ -236,8 +236,8 @@
       "sourceType": "core",
       "sourceArticleId": "godin-tepe-wp",
       "sourceGeohash4": "tn4h",
-      "mediumPath": "_m/t/n/4/h/godin-tepe-wp/ceramic-bowl-ca-1450-1-medium.jpg",
-      "smallPath": "_m/t/n/4/h/godin-tepe-wp/ceramic-bowl-ca-1450-1-small.jpg"
+      "mediumPath": "_m/t/n/4/h/godin-tepe-wp/ceramic-bowl-ca-1450-1-medium.webp",
+      "smallPath": "_m/t/n/4/h/godin-tepe-wp/ceramic-bowl-ca-1450-1-small.webp"
     },
     {
       "filename": "Sellos cilíndricos - MARQ.jpg",
@@ -267,8 +267,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "godin-tepe-wp",
       "sourceGeohash4": "tn4h",
-      "mediumPath": "_m/t/n/4/h/godin-tepe-wp/sellos-cilindricos-marq-medium.jpg",
-      "smallPath": "_m/t/n/4/h/godin-tepe-wp/sellos-cilindricos-marq-small.jpg"
+      "mediumPath": "_m/t/n/4/h/godin-tepe-wp/sellos-cilindricos-marq-medium.webp",
+      "smallPath": "_m/t/n/4/h/godin-tepe-wp/sellos-cilindricos-marq-small.webp"
     }
   ],
   "galleryPaths": [
@@ -280,6 +280,26 @@
     "_m/t/n/4/h/godin-tepe-wp/ceramic-bowl-ca-1450-1.jpg",
     "_m/t/n/4/h/godin-tepe-wp/sellos-cilindricos-marq.jpg"
   ],
-  "fetchedAt": "2026-03-01T12:06:39.340Z",
-  "updatedAt": "2026-03-01T12:06:53.528Z"
+  "updatedAt": "2026-03-01T12:06:53.528Z",
+  "narration": {
+    "files": [
+      "tn4h-godin-tepe-flight-context.mp3",
+      "tn4h-godin-tepe-intro.mp3",
+      "tn4h-godin-tepe-the-crossroads-of-trade.mp3",
+      "tn4h-godin-tepe-seals-tablets-and-the-uruk-connection.mp3",
+      "tn4h-godin-tepe-peoples-come-and-go.mp3",
+      "tn4h-godin-tepe-the-iron-age-revival.mp3",
+      "tn4h-godin-tepe-unearthing-seven-millennia.mp3"
+    ],
+    "durations": {
+      "tn4h-godin-tepe-flight-context.mp3": 41.1865416,
+      "tn4h-godin-tepe-intro.mp3": 50.0580833,
+      "tn4h-godin-tepe-the-crossroads-of-trade.mp3": 53.5450416,
+      "tn4h-godin-tepe-seals-tablets-and-the-uruk-connection.mp3": 64.5578333,
+      "tn4h-godin-tepe-peoples-come-and-go.mp3": 54.9059166,
+      "tn4h-godin-tepe-the-iron-age-revival.mp3": 51.4417916,
+      "tn4h-godin-tepe-unearthing-seven-millennia.mp3": 65.1063333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

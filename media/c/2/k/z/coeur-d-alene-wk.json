@@ -3,11 +3,11 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/c/2/k/z/coeur-d-alene-wk/c2kz-coeur-dalene-intro.mp3",
         "_m/c/2/k/z/coeur-d-alene-wk/c2kz-coeur-dalene-flight-context.mp3",
-        "_m/c/2/k/z/coeur-d-alene-wk/c2kz-coeur-dalene-lakefront-living.mp3",
-        "_m/c/2/k/z/coeur-d-alene-wk/c2kz-coeur-dalene-route-of-the-hiawatha.mp3",
+        "_m/c/2/k/z/coeur-d-alene-wk/c2kz-coeur-dalene-intro.mp3",
         "_m/c/2/k/z/coeur-d-alene-wk/c2kz-coeur-dalene-the-floating-green.mp3",
+        "_m/c/2/k/z/coeur-d-alene-wk/c2kz-coeur-dalene-route-of-the-hiawatha.mp3",
+        "_m/c/2/k/z/coeur-d-alene-wk/c2kz-coeur-dalene-lakefront-living.mp3",
         "_m/c/2/k/z/coeur-d-alene-wk/c2kz-coeur-dalene-time-zone-quirk.mp3"
       ],
       "hero": {
@@ -31,7 +31,9 @@
           "Files by User:Bobak",
           "Images with extracted images",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/hero-medium.webp",
+        "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/hero-small.webp"
       },
       "images": [
         {
@@ -55,7 +57,7 @@
             "February 2007 in Idaho",
             "Flickr images reviewed by File Upload Bot (Magnus Manske)"
           ],
-          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/bike-tour-farragut-sta-small.jpg"
+          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/bike-tour-farragut-sta-small.webp"
         },
         {
           "path": "_m/c/2/k/z/coeur-d-alene-wk/wave-pool-boulder-beac.jpg",
@@ -85,7 +87,7 @@
             "Water slides in the United States",
             "Wave pools"
           ],
-          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/wave-pool-boulder-beac-small.jpg"
+          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/wave-pool-boulder-beac-small.webp"
         },
         {
           "path": "_m/c/2/k/z/coeur-d-alene-wk/roosevelt-school-house.jpg",
@@ -107,8 +109,8 @@
             "Roosevelt School (Coeur d'Alene, Idaho)",
             "Self-published work"
           ],
-          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/roosevelt-school-house-small.jpg",
-          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/roosevelt-school-house-medium.jpg"
+          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/roosevelt-school-house-small.webp",
+          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/roosevelt-school-house-medium.webp"
         },
         {
           "path": "_m/c/2/k/z/coeur-d-alene-wk/couer-d-alene-casino.jpg",
@@ -133,8 +135,8 @@
             "Number 2561 on buses",
             "September 2013 in Idaho"
           ],
-          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/couer-d-alene-casino-small.jpg",
-          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/couer-d-alene-casino-medium.jpg"
+          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/couer-d-alene-casino-small.webp",
+          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/couer-d-alene-casino-medium.webp"
         },
         {
           "path": "_m/c/2/k/z/coeur-d-alene-wk/public-library-coeur-d.jpg",
@@ -162,8 +164,8 @@
             "Self-published work",
             "United States photographs taken on 2018-11-03"
           ],
-          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/public-library-coeur-d-small.jpg",
-          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/public-library-coeur-d-medium.jpg"
+          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/public-library-coeur-d-small.webp",
+          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/public-library-coeur-d-medium.webp"
         },
         {
           "path": "_m/c/2/k/z/coeur-d-alene-wk/museum-north-idaho-coe.jpg",
@@ -186,8 +188,8 @@
             "Files with coordinates missing SDC location of creation",
             "Media by Antony-22"
           ],
-          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/museum-north-idaho-coe-small.jpg",
-          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/museum-north-idaho-coe-medium.jpg"
+          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/museum-north-idaho-coe-small.webp",
+          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/museum-north-idaho-coe-medium.webp"
         },
         {
           "path": "_m/c/2/k/z/coeur-d-alene-wk/silverwood-idaho.jpg",
@@ -204,7 +206,7 @@
           "sourceArticleId": "coeur-d-alene-wk",
           "sourceGeohash4": "c2kz",
           "accessedAt": "2026-02-22T02:10:12.982Z",
-          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/silverwood-idaho-small.jpg"
+          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/silverwood-idaho-small.webp"
         },
         {
           "path": "_m/c/2/k/z/coeur-d-alene-wk/panorama-coeur-d-alene.jpg",
@@ -221,8 +223,8 @@
           "sourceArticleId": "coeur-d-alene-wk",
           "sourceGeohash4": "c2kz",
           "accessedAt": "2026-02-22T02:10:12.982Z",
-          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/panorama-coeur-d-alene-small.jpg",
-          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/panorama-coeur-d-alene-medium.jpg"
+          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/panorama-coeur-d-alene-small.webp",
+          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/panorama-coeur-d-alene-medium.webp"
         },
         {
           "path": "_m/c/2/k/z/coeur-d-alene-wk/w-coeur-d-alene-resort.jpg",
@@ -239,8 +241,8 @@
           "sourceArticleId": "coeur-d-alene-wk",
           "sourceGeohash4": "c2kz",
           "accessedAt": "2026-02-22T02:10:12.982Z",
-          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/w-coeur-d-alene-resort-small.jpg",
-          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/w-coeur-d-alene-resort-medium.jpg"
+          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/w-coeur-d-alene-resort-small.webp",
+          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/w-coeur-d-alene-resort-medium.webp"
         },
         {
           "path": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-people-and-tipis.jpg",
@@ -270,7 +272,7 @@
             "Tipis",
             "Tipis in the United States"
           ],
-          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-people-and-tipis-small.jpg"
+          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-people-and-tipis-small.webp"
         },
         {
           "path": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-tribe.jpg",
@@ -301,7 +303,7 @@
             "PD-US missing SDC copyright status",
             "PD US"
           ],
-          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-tribe-small.jpg"
+          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-tribe-small.webp"
         },
         {
           "path": "_m/c/2/k/z/coeur-d-alene-wk/c-d-a-idaho-police-plummer-ida.jpg",
@@ -328,8 +330,8 @@
             "Police automobiles in Idaho",
             "Police vehicles with bullbars"
           ],
-          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/c-d-a-idaho-police-plummer-ida-small.jpg",
-          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/c-d-a-idaho-police-plummer-ida-medium.jpg"
+          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/c-d-a-idaho-police-plummer-ida-small.webp",
+          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/c-d-a-idaho-police-plummer-ida-medium.webp"
         },
         {
           "path": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-artist-theresa-w.jpg",
@@ -346,8 +348,8 @@
           "sourceArticleId": "coeur-d-alene-wk",
           "sourceGeohash4": "c2kz",
           "accessedAt": "2026-02-22T02:10:12.982Z",
-          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-artist-theresa-w-small.jpg",
-          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-artist-theresa-w-medium.jpg"
+          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-artist-theresa-w-small.webp",
+          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-artist-theresa-w-medium.webp"
         },
         {
           "path": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-lake-seen-from-i.jpg",
@@ -364,8 +366,8 @@
           "sourceArticleId": "coeur-d-alene-wk",
           "sourceGeohash4": "c2kz",
           "accessedAt": "2026-02-22T02:10:12.982Z",
-          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-lake-seen-from-i-small.jpg",
-          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-lake-seen-from-i-medium.jpg"
+          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-lake-seen-from-i-small.webp",
+          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-lake-seen-from-i-medium.webp"
         },
         {
           "path": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-nursery-53640924.jpg",
@@ -382,8 +384,8 @@
           "sourceArticleId": "coeur-d-alene-wk",
           "sourceGeohash4": "c2kz",
           "accessedAt": "2026-02-22T02:10:12.982Z",
-          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-nursery-53640924-small.jpg",
-          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-nursery-53640924-medium.jpg"
+          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-nursery-53640924-small.webp",
+          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-nursery-53640924-medium.webp"
         },
         {
           "path": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-nursery-53640924-1.jpg",
@@ -400,7 +402,7 @@
           "sourceArticleId": "coeur-d-alene-wk",
           "sourceGeohash4": "c2kz",
           "accessedAt": "2026-02-22T02:10:12.982Z",
-          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-nursery-53640924-1-small.jpg"
+          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-nursery-53640924-1-small.webp"
         },
         {
           "path": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-air-tanker-base-.jpg",
@@ -417,8 +419,8 @@
           "sourceArticleId": "coeur-d-alene-wk",
           "sourceGeohash4": "c2kz",
           "accessedAt": "2026-02-22T02:10:12.982Z",
-          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-air-tanker-base--small.jpg",
-          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-air-tanker-base--medium.jpg"
+          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-air-tanker-base--small.webp",
+          "mediumPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-air-tanker-base--medium.webp"
         },
         {
           "path": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-air-tanker-base--1.jpg",
@@ -435,7 +437,7 @@
           "sourceArticleId": "coeur-d-alene-wk",
           "sourceGeohash4": "c2kz",
           "accessedAt": "2026-02-22T02:10:12.982Z",
-          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-air-tanker-base--1-small.jpg"
+          "smallPath": "_m/c/2/k/z/coeur-d-alene-wk/coeur-d-alene-air-tanker-base--1-small.webp"
         },
         {
           "path": "_m/c/2/k/z/coeur-d-alene-idaho-wp/spokanerivermap.png",
@@ -1054,7 +1056,8 @@
           "sourceGeohash4": "c2kr",
           "accessedAt": "2026-02-22T02:10:12.982Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/k/z/coeur-d-alene-wk/c2kz-coeur-d-alene-combined.mp3"
     }
   }
 }

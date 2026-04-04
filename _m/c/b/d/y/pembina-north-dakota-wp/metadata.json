@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "pembina-north-dakota-wp",
     "sourceGeohash4": "cbdy",
-    "smallPath": "_m/c/b/d/y/pembina-north-dakota-wp/hero-small.jpg",
-    "mediumPath": "_m/c/b/d/y/pembina-north-dakota-wp/hero-medium.jpg"
+    "smallPath": "_m/c/b/d/y/pembina-north-dakota-wp/hero-small.webp",
+    "mediumPath": "_m/c/b/d/y/pembina-north-dakota-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "City of Pembina, North Dakota - Water Tower (25069375918).jpg",
@@ -72,7 +72,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "pembina-north-dakota-wp",
-      "sourceGeohash4": "cbdy"
+      "sourceGeohash4": "cbdy",
+      "mediumPath": "_m/c/b/d/y/pembina-north-dakota-wp/acting-cbp-commissioner-kevin--medium.webp",
+      "smallPath": "_m/c/b/d/y/pembina-north-dakota-wp/acting-cbp-commissioner-kevin--small.webp"
     },
     {
       "filename": "Acting CBP Commissioner Kevin K. McAleenan Visits Pembina, North Dakota (34909768175).jpg",
@@ -88,7 +90,9 @@
       "dateCreated": "2017-05-25 09:09",
       "sourceType": "commons-category",
       "sourceArticleId": "pembina-north-dakota-wp",
-      "sourceGeohash4": "cbdy"
+      "sourceGeohash4": "cbdy",
+      "mediumPath": "_m/c/b/d/y/pembina-north-dakota-wp/acting-cbp-commissioner-kevin--1-medium.webp",
+      "smallPath": "_m/c/b/d/y/pembina-north-dakota-wp/acting-cbp-commissioner-kevin--1-small.webp"
     },
     {
       "filename": "Welcome to North Dakota (50317806803).jpg",
@@ -105,7 +109,9 @@
       "dateCreated": "2017-07-31 19:26",
       "sourceType": "commons-category",
       "sourceArticleId": "pembina-north-dakota-wp",
-      "sourceGeohash4": "cbdy"
+      "sourceGeohash4": "cbdy",
+      "mediumPath": "_m/c/b/d/y/pembina-north-dakota-wp/welcome-to-north-dakota-503178-medium.webp",
+      "smallPath": "_m/c/b/d/y/pembina-north-dakota-wp/welcome-to-north-dakota-503178-small.webp"
     }
   ],
   "galleryPaths": [
@@ -113,7 +119,6 @@
     "_m/c/b/d/y/pembina-north-dakota-wp/acting-cbp-commissioner-kevin--1.jpg",
     "_m/c/b/d/y/pembina-north-dakota-wp/welcome-to-north-dakota-503178.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:46:44.326Z",
   "narration": {
     "files": [
       "cbdy-pembina-north-dakota-flight-context.mp3",
@@ -131,8 +136,7 @@
       "cbdy-pembina-north-dakota-fort-pembina-and-the-border-question.mp3": 72.73175,
       "cbdy-pembina-north-dakota-the-border-crossing-that-outlived-the-town.mp3": 65.94
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T07:34:22.875Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T02:46:45.886Z"
 }

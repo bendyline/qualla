@@ -22,12 +22,33 @@
       "sourceType": "poi",
       "sourceArticleId": "balkh-wk",
       "sourceGeohash4": "tqx9",
-      "mediumPath": "_m/t/q/x/9/balkh-wk/15c-green-mosque-medium.jpg",
-      "smallPath": "_m/t/q/x/9/balkh-wk/15c-green-mosque-small.jpg"
+      "mediumPath": "_m/t/q/x/9/balkh-wk/15c-green-mosque-medium.webp",
+      "smallPath": "_m/t/q/x/9/balkh-wk/15c-green-mosque-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/t/q/x/9/balkh-wk/15c-green-mosque.jpg"
   ],
-  "updatedAt": "2026-03-01T17:55:28.675Z"
+  "updatedAt": "2026-03-01T17:55:28.675Z",
+  "narration": {
+    "files": [
+      "tqx9-balkh-flight-context.mp3",
+      "tqx9-balkh-intro.mp3",
+      "tqx9-balkh-walls-that-remember-everything.mp3",
+      "tqx9-balkh-capital-of-the-greeks-beyond-the-mountains.mp3",
+      "tqx9-balkh-the-travelers-who-bore-witness.mp3",
+      "tqx9-balkh-a-park-between-ruins.mp3",
+      "tqx9-balkh-the-mother-who-let-go.mp3"
+    ],
+    "durations": {
+      "tqx9-balkh-flight-context.mp3": 44.1662916,
+      "tqx9-balkh-intro.mp3": 50.1239583,
+      "tqx9-balkh-walls-that-remember-everything.mp3": 62.358875,
+      "tqx9-balkh-capital-of-the-greeks-beyond-the-mountains.mp3": 57.4840416,
+      "tqx9-balkh-the-travelers-who-bore-witness.mp3": 48.1197083,
+      "tqx9-balkh-a-park-between-ruins.mp3": 59.6709166,
+      "tqx9-balkh-the-mother-who-let-go.mp3": 55.1406666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

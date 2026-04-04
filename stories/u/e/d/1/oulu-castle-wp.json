@@ -1,0 +1,154 @@
+{
+  "id": "oulu-castle-wp",
+  "source": "wikipedia",
+  "sourceId": "7166463",
+  "title": "Oulu Castle",
+  "slug": "oulu-castle",
+  "summary": "A wooden fortress built in 1590 on a river delta island, rebuilt in stone by royal decree, burned by Russians, and finally obliterated by a lightning strike on its own powder magazine -- Oulu Castle's ruins now house a cafe.",
+  "content": {
+    "intro": "At 10:45 on the evening of July 31, 1793, lightning struck one of the powder magazines on Linnansaari Island in the Oulu River delta. The resulting explosion nearly erased what remained of Oulu Castle from the landscape. It was, by any measure, an absurd way for a fortress to die -- not by siege or assault, but by a summer thunderstorm igniting its own ammunition. Yet the castle had already been damaged beyond strategic relevance decades earlier. The lightning simply finished what the Russians had started and what the passage of time would have accomplished regardless.",
+    "sections": [
+      {
+        "title": "Fortress at the River's Mouth",
+        "body": "The first fortification on the island dates to around 1590, built during Sweden's war against Russia as a stronghold for Swedish soldiers moving toward Russian Karelia. Constructed of wood and earthen ramparts, it occupied a strategic position in the Oulu River delta where the river's channels converge before meeting the Gulf of Bothnia. The site may have been fortified even earlier -- the Russian Sofia First Chronicle records that in 1377, men from Novgorod attempted to conquer a newly built castle in the Oulu River delta but failed. Whether that reference points to a predecessor on the same island or a nearby structure remains debated, but the location's military value was recognized centuries before any standing walls were erected."
+      },
+      {
+        "title": "The King's Stone Decree",
+        "body": "On April 8, 1605, King Charles IX of Sweden issued a decree that would reshape the island. First he ordered the construction of Kajaani Castle to the east, then commanded that Oulu's old wooden fortification be demolished and replaced with a proper stone fortress featuring fortified ramparts and fire shelters. The decree reflected a pattern across Sweden's northern frontier: timber forts were being upgraded to stone as the empire consolidated its grip on Finland. The rebuilt castle served as an administrative and military center through the seventeenth century, its stone walls a visible assertion of Swedish authority at the northern edge of the kingdom. It was never an elegant structure -- frontier castles rarely were -- but it was solid, functional, and positioned to control river traffic and guard against incursions from the east."
+      },
+      {
+        "title": "Fire, War, and Lightning",
+        "body": "The castle's destruction came in stages. In 1715, during the Great Northern War, Russian forces set it ablaze -- part of the same campaign of devastation that would destroy Kajaani Castle with explosives the following year. The fire gutted the interior and left the walls compromised but standing. For nearly eight decades afterward, the damaged castle lingered on its island, increasingly irrelevant to a world that had moved past medieval fortifications. Then came the July thunderstorm of 1793. The lightning strike detonated the powder cellar, and the resulting explosion demolished almost everything that remained. It was a final, theatrical destruction -- the fortress consuming itself in a blast of its own stored gunpowder, lit not by an enemy but by the sky."
+      },
+      {
+        "title": "From Powder Magazine to Coffee Cup",
+        "body": "One structure survived the explosion: a stone powder magazine, its thick walls built to contain exactly the kind of blast that destroyed everything else around it. In 1875, the Oulu School of Sea Captains recognized the ruin's potential and built a wooden observatory on top of the remaining cellar, designed by architect Wolmar Westling. The sea captains needed a vantage point to teach celestial navigation, and the island -- surrounded by the channels of the Oulu River, with clear sightlines to the sky -- served perfectly. Since 1912, the building has operated as a cafeteria, with a small exhibition on the castle's history tucked inside. Visitors drink coffee atop the one room engineered to survive an explosion, in a building designed to read the stars, on the ruins of a fortress that guarded a river mouth for two centuries before the sky itself struck it down."
+      }
+    ],
+    "flightContext": "Located at 65.02N, 25.47E on Linnansaari Island in the Oulu River delta, near the city center of Oulu, Finland. The island sits where the river splits into multiple channels before reaching the Gulf of Bothnia. The castle ruins and the cafe building atop the surviving powder magazine are visible from low altitude. Oulu Airport (EFOU) is approximately 15 km to the southwest. The delta area, with its park islands and bridges, is a distinctive feature of Oulu's city center visible from cruising altitude."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 65.01722222,
+      "lng": 25.46722222
+    },
+    "geohash": "ued1g"
+  },
+  "categories": [
+    "castle",
+    "ruins",
+    "history",
+    "finland"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-27T00:00:00Z",
+    "wordCount": 720,
+    "readTime": 4,
+    "firstPublished": "2026-03-27T00:00:00Z",
+    "storyNumber": 13846
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Oulu Castle - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oulu_Castle",
+      "accessedAt": "2026-03-28",
+      "claimsVerified": [
+        "First fortification dates to around 1590 as stronghold for Swedish soldiers",
+        "King Charles IX decree on April 8 1605 ordering stone fortress",
+        "Russian forces set castle ablaze in 1715 during Great Northern War",
+        "Lightning struck powder magazine on July 31 1793 at 10:45 pm",
+        "Oulu School of Sea Captains built observatory in 1875 designed by architect Wolmar Westling",
+        "Building has operated as cafeteria since 1912"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "u/e/d/1/oulu-castle-wp",
+  "locationWikivoyagePath": "u/e/d/1/oulu-wk",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "capitulation-of-kalix-wp",
+      "title": "Capitulation of Kalix",
+      "tile": "ue8q",
+      "coordinates": {
+        "lat": 65.85,
+        "lng": 23.166666666666668
+      },
+      "distanceKm": 108.7
+    },
+    "n": {
+      "id": "lappia-hall-wp",
+      "title": "Lappia Hall",
+      "tile": "uef6",
+      "coordinates": {
+        "lat": 66.496536,
+        "lng": 25.722776
+      },
+      "distanceKm": 142.9
+    },
+    "ne": {
+      "id": "korouoma-wp",
+      "title": "Korouoma",
+      "tile": "ueg8",
+      "coordinates": {
+        "lat": 66.15277778,
+        "lng": 27.525
+      },
+      "distanceKm": 125.1
+    },
+    "w": {
+      "id": "battle-of-siikajoki-wp",
+      "title": "Battle of Siikajoki",
+      "tile": "ue98",
+      "coordinates": {
+        "lat": 64.83333333,
+        "lng": 24.73333333
+      },
+      "distanceKm": 16.9
+    },
+    "e": {
+      "id": "great-wrath-wp",
+      "title": "The Great Wrath",
+      "tile": "uee1",
+      "coordinates": {
+        "lat": 65,
+        "lng": 27
+      },
+      "distanceKm": 46.6
+    },
+    "sw": {
+      "id": "hanhikivi-nuclear-power-plant-wp",
+      "title": "Hanhikivi Nuclear Power Plant",
+      "tile": "ue3r",
+      "coordinates": {
+        "lat": 64.53055556,
+        "lng": 24.26388889
+      },
+      "distanceKm": 37.5
+    },
+    "s": {
+      "id": "grand-duchy-of-finland-wp",
+      "title": "Grand Duchy of Finland",
+      "tile": "ue6k",
+      "coordinates": {
+        "lat": 64,
+        "lng": 26
+      },
+      "distanceKm": 80.3
+    },
+    "se": {
+      "id": "kajaani-castle-wp",
+      "title": "Kajaani Castle",
+      "tile": "ue7t",
+      "coordinates": {
+        "lat": 64.229143,
+        "lng": 27.732859
+      },
+      "distanceKm": 96.8
+    }
+  }
+}

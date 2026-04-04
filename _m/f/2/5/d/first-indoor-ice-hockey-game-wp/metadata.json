@@ -28,8 +28,8 @@
     "sourceType": "core",
     "sourceArticleId": "first-indoor-ice-hockey-game-wp",
     "sourceGeohash4": "f25d",
-    "mediumPath": "_m/f/2/5/d/first-indoor-ice-hockey-game-wp/hero-medium.jpg",
-    "smallPath": "_m/f/2/5/d/first-indoor-ice-hockey-game-wp/hero-small.jpg"
+    "mediumPath": "_m/f/2/5/d/first-indoor-ice-hockey-game-wp/hero-medium.webp",
+    "smallPath": "_m/f/2/5/d/first-indoor-ice-hockey-game-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Victoria Skating Rink - Exterior.jpg",
@@ -62,5 +62,25 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-02-28T12:48:31.368Z"
+  "narration": {
+    "files": [
+      "f25d-first-indoor-ice-hockey-game-flight-context.mp3",
+      "f25d-first-indoor-ice-hockey-game-intro.mp3",
+      "f25d-first-indoor-ice-hockey-game-a-cathedral-of-ice-and-gaslight.mp3",
+      "f25d-first-indoor-ice-hockey-game-creightons-rules.mp3",
+      "f25d-first-indoor-ice-hockey-game-eighteen-men-and-a-flat-block-of-wood.mp3",
+      "f25d-first-indoor-ice-hockey-game-the-fight-after-the-whistle.mp3",
+      "f25d-first-indoor-ice-hockey-game-where-the-puck-dropped.mp3"
+    ],
+    "durations": {
+      "f25d-first-indoor-ice-hockey-game-flight-context.mp3": 61.7412083,
+      "f25d-first-indoor-ice-hockey-game-intro.mp3": 65.3567916,
+      "f25d-first-indoor-ice-hockey-game-a-cathedral-of-ice-and-gaslight.mp3": 72.61375,
+      "f25d-first-indoor-ice-hockey-game-creightons-rules.mp3": 58.5864583,
+      "f25d-first-indoor-ice-hockey-game-eighteen-men-and-a-flat-block-of-wood.mp3": 67.7360416,
+      "f25d-first-indoor-ice-hockey-game-the-fight-after-the-whistle.mp3": 63.6824166,
+      "f25d-first-indoor-ice-hockey-game-where-the-puck-dropped.mp3": 70.64225
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

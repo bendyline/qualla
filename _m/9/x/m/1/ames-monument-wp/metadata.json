@@ -19,10 +19,8 @@
       "9xm1-ames-monument-the-would-be-billboard.mp3": 42.0940416,
       "9xm1-ames-monument-wind-and-stone.mp3": 51.6644583
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-28T04:16:16.605Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
-  "fetchedAt": "2026-02-22T00:34:55.925Z",
   "hero": {
     "filename": "Historical Marker No. 1 Ames Monument.JPG",
     "title": "File:Historical Marker No. 1 Ames Monument.JPG",
@@ -49,8 +47,8 @@
     "sourceType": "core",
     "sourceArticleId": "ames-monument-wp",
     "sourceGeohash4": "9xm1",
-    "smallPath": "_m/9/x/m/1/ames-monument-wp/hero-small.jpg",
-    "mediumPath": "_m/9/x/m/1/ames-monument-wp/hero-medium.jpg"
+    "smallPath": "_m/9/x/m/1/ames-monument-wp/hero-small.webp",
+    "mediumPath": "_m/9/x/m/1/ames-monument-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Historical Marker No. 1 Ames Monument.JPG",
@@ -104,8 +102,8 @@
       "sourceType": "core",
       "sourceArticleId": "ames-monument-wp",
       "sourceGeohash4": "9xm1",
-      "smallPath": "_m/9/x/m/1/ames-monument-wp/image-ames-monument-ne-small.jpg",
-      "mediumPath": "_m/9/x/m/1/ames-monument-wp/image-ames-monument-ne-medium.jpg"
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/image-ames-monument-ne-small.webp",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/image-ames-monument-ne-medium.webp"
     },
     {
       "filename": "Historical Marker No. 2 Ames Monument.JPG",
@@ -133,8 +131,8 @@
       "sourceType": "core",
       "sourceArticleId": "ames-monument-wp",
       "sourceGeohash4": "9xm1",
-      "smallPath": "_m/9/x/m/1/ames-monument-wp/image-ames-monument-ne-1-small.jpg",
-      "mediumPath": "_m/9/x/m/1/ames-monument-wp/image-ames-monument-ne-1-medium.jpg"
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/image-ames-monument-ne-1-small.webp",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/image-ames-monument-ne-1-medium.webp"
     },
     {
       "filename": "Historical Marker No. 3 Ames Monument.JPG",
@@ -161,8 +159,8 @@
       "sourceType": "core",
       "sourceArticleId": "ames-monument-wp",
       "sourceGeohash4": "9xm1",
-      "smallPath": "_m/9/x/m/1/ames-monument-wp/image-ames-monument-ne-2-small.jpg",
-      "mediumPath": "_m/9/x/m/1/ames-monument-wp/image-ames-monument-ne-2-medium.jpg"
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/image-ames-monument-ne-2-small.webp",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/image-ames-monument-ne-2-medium.webp"
     },
     {
       "filename": "Ames Monument Panorama.jpg",
@@ -188,8 +186,8 @@
       "sourceType": "core",
       "sourceArticleId": "ames-monument-wp",
       "sourceGeohash4": "9xm1",
-      "smallPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-panorama-small.jpg",
-      "mediumPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-panorama-medium.jpg"
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-panorama-small.webp",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-panorama-medium.webp"
     },
     {
       "filename": "9-15 1bw.tif",
@@ -223,8 +221,8 @@
       "sourceType": "core",
       "sourceArticleId": "ames-monument-wp",
       "sourceGeohash4": "9xm1",
-      "smallPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-old-sher-small.jpg",
-      "mediumPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-old-sher-medium.jpg"
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-old-sher-small.webp",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-old-sher-medium.webp"
     },
     {
       "filename": "Ames Monument sign.jpg",
@@ -250,7 +248,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "ames-monument-wp",
-      "sourceGeohash4": "9xm1"
+      "sourceGeohash4": "9xm1",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-sign-medium.webp",
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-sign-small.webp"
     },
     {
       "filename": "Ames Monument.jpg",
@@ -275,7 +275,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "ames-monument-wp",
-      "sourceGeohash4": "9xm1"
+      "sourceGeohash4": "9xm1",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-medium.webp",
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-small.webp"
     },
     {
       "filename": "Ames Monument distance.jpg",
@@ -304,7 +306,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "ames-monument-wp",
-      "sourceGeohash4": "9xm1"
+      "sourceGeohash4": "9xm1",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-distance-medium.webp",
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-distance-small.webp"
     },
     {
       "filename": "Ames Monument September 2012.JPG",
@@ -332,7 +336,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "ames-monument-wp",
-      "sourceGeohash4": "9xm1"
+      "sourceGeohash4": "9xm1",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-september-2012-medium.webp",
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-september-2012-small.webp"
     },
     {
       "filename": "Oliver Ames on the Ames Monument near Laramie, Wyoming.JPG",
@@ -349,7 +355,9 @@
       "dateCreated": "2019-09-14",
       "sourceType": "commons-category",
       "sourceArticleId": "ames-monument-wp",
-      "sourceGeohash4": "9xm1"
+      "sourceGeohash4": "9xm1",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/oliver-ames-on-the-ames-monume-medium.webp",
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/oliver-ames-on-the-ames-monume-small.webp"
     },
     {
       "filename": "The Ames Monument near Laramie, Wyoming- Panorama.JPG",
@@ -366,7 +374,9 @@
       "dateCreated": "2015-09-14 17:49:25",
       "sourceType": "commons-category",
       "sourceArticleId": "ames-monument-wp",
-      "sourceGeohash4": "9xm1"
+      "sourceGeohash4": "9xm1",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/the-ames-monument-near-laramie-medium.webp",
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/the-ames-monument-near-laramie-small.webp"
     },
     {
       "filename": "Ames Monument showing the hewn stones.jpg",
@@ -383,7 +393,9 @@
       "dateCreated": "2015-09-14 17:42:29",
       "sourceType": "commons-category",
       "sourceArticleId": "ames-monument-wp",
-      "sourceGeohash4": "9xm1"
+      "sourceGeohash4": "9xm1",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-showing-the-hewn-medium.webp",
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-showing-the-hewn-small.webp"
     },
     {
       "filename": "Ames Monument a stoic sentinel on the prarie.jpg",
@@ -400,7 +412,9 @@
       "dateCreated": "2015-09-14 17:38:24",
       "sourceType": "commons-category",
       "sourceArticleId": "ames-monument-wp",
-      "sourceGeohash4": "9xm1"
+      "sourceGeohash4": "9xm1",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-a-stoic-sentinel-medium.webp",
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-a-stoic-sentinel-small.webp"
     },
     {
       "filename": "Ames Monument west side of pyramid.jpg",
@@ -417,7 +431,9 @@
       "dateCreated": "2015-09-14 17:42:54",
       "sourceType": "commons-category",
       "sourceArticleId": "ames-monument-wp",
-      "sourceGeohash4": "9xm1"
+      "sourceGeohash4": "9xm1",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-west-side-of-pyr-medium.webp",
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-west-side-of-pyr-small.webp"
     },
     {
       "filename": "Ames Monument North side.jpg",
@@ -434,7 +450,9 @@
       "dateCreated": "2015-09-14 17:46:08",
       "sourceType": "commons-category",
       "sourceArticleId": "ames-monument-wp",
-      "sourceGeohash4": "9xm1"
+      "sourceGeohash4": "9xm1",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-north-side-medium.webp",
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-north-side-small.webp"
     },
     {
       "filename": "Ames Monument Bas-relief of Oliver Ames.jpg",
@@ -451,7 +469,9 @@
       "dateCreated": "2015-09-14 17:44:16",
       "sourceType": "commons-category",
       "sourceArticleId": "ames-monument-wp",
-      "sourceGeohash4": "9xm1"
+      "sourceGeohash4": "9xm1",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-bas-relief-of-ol-medium.webp",
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-bas-relief-of-ol-small.webp"
     },
     {
       "filename": "Ames Monument panorama view.jpg",
@@ -468,7 +488,9 @@
       "dateCreated": "2015-09-14 17:49:25",
       "sourceType": "commons-category",
       "sourceArticleId": "ames-monument-wp",
-      "sourceGeohash4": "9xm1"
+      "sourceGeohash4": "9xm1",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-panorama-view-medium.webp",
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-panorama-view-small.webp"
     },
     {
       "filename": "Ames Monument bas-relief of Oakes Ames.jpg",
@@ -485,7 +507,9 @@
       "dateCreated": "2015-09-14 17:48:07",
       "sourceType": "commons-category",
       "sourceArticleId": "ames-monument-wp",
-      "sourceGeohash4": "9xm1"
+      "sourceGeohash4": "9xm1",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-bas-relief-of-oa-medium.webp",
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-bas-relief-of-oa-small.webp"
     },
     {
       "filename": "Ames Monument Historic Landmark.jpg",
@@ -502,7 +526,9 @@
       "dateCreated": "2018-08-05 00:11:45",
       "sourceType": "commons-category",
       "sourceArticleId": "ames-monument-wp",
-      "sourceGeohash4": "9xm1"
+      "sourceGeohash4": "9xm1",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-historic-landmar-medium.webp",
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-historic-landmar-small.webp"
     },
     {
       "filename": "Ames Monument Wyoming.jpg",
@@ -519,7 +545,9 @@
       "dateCreated": "2018-01-07 14:09:45",
       "sourceType": "commons-category",
       "sourceArticleId": "ames-monument-wp",
-      "sourceGeohash4": "9xm1"
+      "sourceGeohash4": "9xm1",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-wyoming-medium.webp",
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/ames-monument-wyoming-small.webp"
     },
     {
       "filename": "Amesmonumentwyoming1.jpg",
@@ -536,7 +564,9 @@
       "dateCreated": "2018-09-30 18:16:39",
       "sourceType": "commons-category",
       "sourceArticleId": "ames-monument-wp",
-      "sourceGeohash4": "9xm1"
+      "sourceGeohash4": "9xm1",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/amesmonumentwyoming1-medium.webp",
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/amesmonumentwyoming1-small.webp"
     },
     {
       "filename": "Amesmonumentwyoming2.jpg",
@@ -553,7 +583,9 @@
       "dateCreated": "2018-09-30 18:13:54",
       "sourceType": "commons-category",
       "sourceArticleId": "ames-monument-wp",
-      "sourceGeohash4": "9xm1"
+      "sourceGeohash4": "9xm1",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/amesmonumentwyoming2-medium.webp",
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/amesmonumentwyoming2-small.webp"
     },
     {
       "filename": "Amesmonumentwyoming3.jpg",
@@ -570,7 +602,9 @@
       "dateCreated": "2018-09-30 18:12:06",
       "sourceType": "commons-category",
       "sourceArticleId": "ames-monument-wp",
-      "sourceGeohash4": "9xm1"
+      "sourceGeohash4": "9xm1",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/amesmonumentwyoming3-medium.webp",
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/amesmonumentwyoming3-small.webp"
     },
     {
       "filename": "Amesmonumentwyoming4.jpg",
@@ -587,7 +621,9 @@
       "dateCreated": "2018-09-30 18:12:03",
       "sourceType": "commons-category",
       "sourceArticleId": "ames-monument-wp",
-      "sourceGeohash4": "9xm1"
+      "sourceGeohash4": "9xm1",
+      "mediumPath": "_m/9/x/m/1/ames-monument-wp/amesmonumentwyoming4-medium.webp",
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/amesmonumentwyoming4-small.webp"
     },
     {
       "filename": "American Pyramid.jpg",
@@ -604,7 +640,8 @@
       "dateCreated": "2024-07-02",
       "sourceType": "commons-category",
       "sourceArticleId": "ames-monument-wp",
-      "sourceGeohash4": "9xm1"
+      "sourceGeohash4": "9xm1",
+      "smallPath": "_m/9/x/m/1/ames-monument-wp/american-pyramid-small.webp"
     }
   ],
   "galleryPaths": [

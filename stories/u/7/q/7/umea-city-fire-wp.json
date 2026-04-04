@@ -1,0 +1,158 @@
+{
+  "id": "umea-city-fire-wp",
+  "source": "wikipedia",
+  "sourceId": "42886925",
+  "title": "Umeå City Fire",
+  "slug": "umea-city-fire",
+  "summary": "The 1888 fire that destroyed most of Umeå, Sweden, left 2,300 of 3,000 inhabitants homeless -- and gave birth to the 'City of Birches' that stands today.",
+  "content": {
+    "intro": "Walk through Umea today and you will notice the birch trees before anything else. They line the streets in elegant rows, their white bark luminous against the dark timber of northern Swedish architecture, their canopies forming green tunnels in summer and skeletal lacework in winter. The birches are not decorative. They are a fire break -- planted in the aftermath of the catastrophe that leveled the city on a single June afternoon in 1888. Umea earned its nickname, the City of Birches, not from any romantic tradition but from the hard logic of a community that had watched itself burn to the ground and resolved that it would never happen again.",
+    "sections": [
+      {
+        "title": "Kindling a Northern City",
+        "body": "The conditions for disaster had been accumulating for decades. The Sami people, who had lived in northern Sweden for millennia, did not use fire to manage land -- burning destroyed the lichen their reindeer depended on. But as agriculture pushed northward, new settlers brought slash-and-burn farming with them, deliberately setting fires to clear forest for cultivation. Meanwhile, the timber industry advanced into Norrland, felling trees but leaving vast quantities of waste -- branches, bark, sawdust -- scattered across the landscape like tinder. Fires became a recurring feature of life in northern Sweden. A major blaze struck Norrland in 1851. Others followed roughly every decade: 1868, 1878, each one a warning that went unheeded. The forests kept burning, the waste kept piling up, and the wooden cities kept growing."
+      },
+      {
+        "title": "The Afternoon Everything Changed",
+        "body": "On 25 June 1888, fire broke out at a brewery near Renmarksbacken, on the outskirts of Umea. High winds, unusual even for the gusty Bothnian coast, drove the flames through the city with terrifying speed. The town hall was destroyed. The Teg shipyards burned. Houses in the eastern districts and on On Island were consumed. By the time the fire burned itself out, 2,300 of Umea's 3,000 inhabitants had lost their homes. The destruction was not limited to Umea. On the same day, the settlement of Lilla Edet near Gothenburg also burned to the ground, and several other forest fires raged across Sweden. The unusual wind conditions had turned an ordinary fire season into a national catastrophe."
+      },
+      {
+        "title": "Aid from the Ends of the Earth",
+        "body": "The simultaneous fires at three unconnected Swedish settlements made international news. Aid arrived from remarkable distances. A collection taken in California raised $5,000 for the victims -- a substantial sum in 1888. From New Zealand, half a world away, blankets and tents were shipped to help the homeless survive the brief but sharp northern summer nights. At home, King Oscar II toured the devastated areas with his ministers, and collections were organized in every major Swedish town. The outpouring reflected both genuine sympathy and a dawning recognition that fire was not just a local hazard but a systemic failure of how northern cities were built, maintained, and governed."
+      },
+      {
+        "title": "Rebuilding in Stone and Birch",
+        "body": "Umea had actually drawn up modern urban plans in 1874, when improved city planning became a government requirement. Some infrastructure changes were already underway when the fire struck. The catastrophe accelerated everything. The city that rose from the ashes was fundamentally different from the one that burned. New construction increasingly used brick and stone instead of timber. The old prison, one of the few brick buildings in the city, had survived the fire intact -- a lesson the rebuilders took to heart. The oldest fire station in Umea dates from 1888, brick-built in the year of the disaster, as though the city wanted to begin its new life with a structure that could not burn. And then there were the birch trees. Planted along the newly widened streets, they served a practical purpose: a row of living trees will not carry fire the way a row of wooden buildings will. The birches became Umea's signature, its identity, its quiet memorial to the day everything was lost and everything began again."
+      }
+    ],
+    "flightContext": "Located at 63.83N, 20.27E in Umea, Sweden's largest city in Norrland, along the Ume River near the Gulf of Bothnia coast. The city's distinctive birch-lined street grid is visible from moderate altitude. Umea Airport (ESNU) is approximately 4 km south of the city center. The Ume River and On Island, both referenced in the fire's history, are prominent landmarks. The flat coastal terrain and river delta are clearly visible from the air."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 63.825,
+      "lng": 20.265
+    },
+    "geohash": "u7q7j"
+  },
+  "categories": [
+    "history",
+    "disaster",
+    "fire",
+    "urban-planning"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-27T00:00:00Z",
+    "wordCount": 720,
+    "readTime": 4,
+    "firstPublished": "2026-03-27T00:00:00Z",
+    "storyNumber": 13995
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Umeå city fire - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ume%C3%A5_city_fire",
+      "accessedAt": "2026-03-28",
+      "claimsVerified": [
+        "Fire broke out on 25 June 1888 confirmed",
+        "Fire started near brewery at Renmarksbäcken confirmed",
+        "2,300 of 3,000 inhabitants lost homes confirmed",
+        "High winds drove flames through city confirmed",
+        "California collection raised $5,000 confirmed",
+        "Blankets and tents sent from New Zealand confirmed",
+        "King Oscar II toured devastated areas confirmed",
+        "Birch trees planted after fire as firebreak confirmed",
+        "Town hall and Teg shipyards destroyed confirmed",
+        "Urban plans drawn up in 1874 confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "u/7/q/7/umea-city-fire-wp",
+  "locationWikivoyagePath": "u/7/q/7/umea-wk",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "lapplandsleden-wk",
+      "title": "Lapplandsleden",
+      "tile": "u77t",
+      "coordinates": {
+        "lat": 64.2582,
+        "lng": 16.4067
+      },
+      "distanceKm": 159.1
+    },
+    "n": {
+      "id": "gammelstad-church-town-wp",
+      "title": "Gammelstad Church Town",
+      "tile": "u7xt",
+      "coordinates": {
+        "lat": 65.64611,
+        "lng": 22.02861
+      },
+      "distanceKm": 186
+    },
+    "ne": {
+      "id": "hanhikivi-nuclear-power-plant-wp",
+      "title": "Hanhikivi Nuclear Power Plant",
+      "tile": "ue3r",
+      "coordinates": {
+        "lat": 64.53055556,
+        "lng": 24.26388889
+      },
+      "distanceKm": 174.4
+    },
+    "w": {
+      "id": "torsaker-witch-trials-wp",
+      "title": "Torsaker Witch Trials",
+      "tile": "u7hw",
+      "coordinates": {
+        "lat": 63.05045,
+        "lng": 17.68246
+      },
+      "distanceKm": 137
+    },
+    "e": {
+      "id": "battle-of-ratan-wp",
+      "title": "Battle of Ratan",
+      "tile": "u7qu",
+      "coordinates": {
+        "lat": 63.99222222,
+        "lng": 20.89777778
+      },
+      "distanceKm": 13.1
+    },
+    "sw": {
+      "id": "skuleskogen-national-park-wp",
+      "title": "Skuleskogen National Park",
+      "tile": "u7jp",
+      "coordinates": {
+        "lat": 63.11097828478134,
+        "lng": 18.484165611443863
+      },
+      "distanceKm": 83.4
+    },
+    "s": {
+      "id": "battle-of-hornefors-wp",
+      "title": "Battle of Hörnefors",
+      "tile": "u7q1",
+      "coordinates": {
+        "lat": 63.62416667,
+        "lng": 19.91194444
+      },
+      "distanceKm": 15
+    },
+    "se": {
+      "id": "kvarken-archipelago-wk",
+      "title": "Kvarken Archipelago",
+      "tile": "u7pp",
+      "coordinates": {
+        "lat": 63.26701,
+        "lng": 21.37939
+      },
+      "distanceKm": 51.6
+    }
+  }
+}

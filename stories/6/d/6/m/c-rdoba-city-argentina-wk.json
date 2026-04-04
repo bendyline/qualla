@@ -79,44 +79,44 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "chilean-miners-wk",
-      "title": "The Chilean Mine Rescue: 69 Days Underground",
-      "tile": "67jv",
+      "id": "battle-of-tucuman-wp",
+      "title": "Battle of Tucuman",
+      "tile": "6e1x",
       "coordinates": {
-        "lat": -27.1597,
-        "lng": -70.4975
+        "lat": -26.83741111,
+        "lng": -65.21696111
       },
-      "distanceKm": 715.1
+      "distanceKm": 478.2
     },
     "n": {
-      "id": "sao-paulo-wk",
-      "title": "Sao Paulo",
-      "tile": "6gyf",
+      "id": "argentine-declaration-of-independence-wp",
+      "title": "Argentine Declaration of Independence",
+      "tile": "6e1x",
       "coordinates": {
-        "lat": -23.5505,
-        "lng": -46.6333
+        "lat": -26.83333333,
+        "lng": -65.20333333
       },
-      "distanceKm": 1921.4
+      "distanceKm": 486.6
     },
     "ne": {
-      "id": "iguazu-falls-wk",
-      "title": "Iguazu Falls",
-      "tile": "6g3m",
+      "id": "battle-of-riachuelo-wp",
+      "title": "Battle of Riachuelo",
+      "tile": "6en5",
       "coordinates": {
-        "lat": -25.695,
-        "lng": -54.436
+        "lat": -27.56222222,
+        "lng": -58.83916667
       },
-      "distanceKm": 1081.9
+      "distanceKm": 609.6
     },
     "w": {
-      "id": "valdivia-wk",
-      "title": "Valdivia",
-      "tile": "62gv",
+      "id": "casa-de-tucuman-wp",
+      "title": "Casa de Tucuman",
+      "tile": "6e1x",
       "coordinates": {
-        "lat": -39.8,
-        "lng": -73.233333333333
+        "lat": -26.833166666667,
+        "lng": -65.20375
       },
-      "distanceKm": 1213
+      "distanceKm": 507.7
     },
     "e": {
       "id": "buenos-aires-wk",
@@ -162,5 +162,7 @@
   "keywords": [
     "c-rdoba-city",
     "c-rdoba-city-argentina"
-  ]
+  ],
+  "locationWikipediaPath": "6/d/6/m/cordoba-argentina-wp",
+  "locationWikivoyagePath": "6/d/6/m/cordoba-city-argentina-wk"
 }

@@ -91,14 +91,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "oslo-wk",
-      "title": "Oslo",
-      "tile": "u4xs",
+      "id": "t-nsberg-fortress-wp",
+      "title": "Tonsberg Fortress",
+      "tile": "u4x3",
       "coordinates": {
-        "lat": 59.9139,
-        "lng": 10.7522
+        "lat": 59.27176,
+        "lng": 10.40364
       },
-      "distanceKm": 75.6
+      "distanceKm": 28.4
     },
     "n": {
       "id": "battle-of-rakkestad-wp",
@@ -121,14 +121,14 @@
       "distanceKm": 89
     },
     "w": {
-      "id": "bergen-wk",
-      "title": "Bergen",
-      "tile": "u4ez",
+      "id": "1904-oslo-earthquake-wp",
+      "title": "1904 Oslo Earthquake",
+      "tile": "u4rx",
       "coordinates": {
-        "lat": 60.3913,
-        "lng": 5.3221
+        "lat": 58.93,
+        "lng": 10.73
       },
-      "distanceKm": 350.3
+      "distanceKm": 10.9
     },
     "e": {
       "id": "l-ck-castle-wp",
@@ -141,14 +141,14 @@
       "distanceKm": 80.2
     },
     "sw": {
-      "id": "zuiderzee-works-wp",
-      "title": "Zuiderzee Works",
-      "tile": "u17s",
+      "id": "battle-of-lyng-r-wp",
+      "title": "Battle of Lyngør",
+      "tile": "u4qm",
       "coordinates": {
-        "lat": 52.821,
-        "lng": 5.269
+        "lat": 58.633055555556,
+        "lng": 9.1272222222222
       },
-      "distanceKm": 743
+      "distanceKm": 102.8
     },
     "s": {
       "id": "2023-stenungsund-landslide-wp",
@@ -173,5 +173,6 @@
   },
   "keywords": [
     "battle-of-berby"
-  ]
+  ],
+  "locationWikipediaPath": "u/6/2/p/battle-of-berby-wp"
 }

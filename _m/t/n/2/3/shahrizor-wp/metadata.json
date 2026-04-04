@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "shahrizor-wp",
     "sourceGeohash4": "tn23",
-    "mediumPath": "_m/t/n/2/3/shahrizor-wp/hero-medium.jpg",
-    "smallPath": "_m/t/n/2/3/shahrizor-wp/hero-small.jpg"
+    "mediumPath": "_m/t/n/2/3/shahrizor-wp/hero-medium.webp",
+    "smallPath": "_m/t/n/2/3/shahrizor-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "September 18, 2014. The ancient mound of Bakr Awa, Shahrizor Plain, Sulaymaniyah Governorate, Iraq.jpg",
@@ -74,8 +74,8 @@
       "sourceType": "core",
       "sourceArticleId": "shahrizor-wp",
       "sourceGeohash4": "tn23",
-      "mediumPath": "_m/t/n/2/3/shahrizor-wp/september-11-2016-anci-medium.jpg",
-      "smallPath": "_m/t/n/2/3/shahrizor-wp/september-11-2016-anci-small.jpg"
+      "mediumPath": "_m/t/n/2/3/shahrizor-wp/september-11-2016-anci-medium.webp",
+      "smallPath": "_m/t/n/2/3/shahrizor-wp/september-11-2016-anci-small.webp"
     },
     {
       "filename": "1. Painted pottery, Jemdet Nasr period, c. 3000 BCE. From Greza, Shahrizor Plain, Sulaymaniyah, Iraq. Sulaymaniyah Museum, Iraqi Kurdistan.jpg",
@@ -101,13 +101,31 @@
       "sourceType": "core",
       "sourceArticleId": "shahrizor-wp",
       "sourceGeohash4": "tn23",
-      "mediumPath": "_m/t/n/2/3/shahrizor-wp/painted-pottery-jemdet-medium.jpg",
-      "smallPath": "_m/t/n/2/3/shahrizor-wp/painted-pottery-jemdet-small.jpg"
+      "mediumPath": "_m/t/n/2/3/shahrizor-wp/painted-pottery-jemdet-medium.webp",
+      "smallPath": "_m/t/n/2/3/shahrizor-wp/painted-pottery-jemdet-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/t/n/2/3/shahrizor-wp/september-11-2016-anci.jpg",
     "_m/t/n/2/3/shahrizor-wp/painted-pottery-jemdet.jpg"
   ],
-  "fetchedAt": "2026-03-01T11:57:14.697Z"
+  "narration": {
+    "files": [
+      "tn23-shahrizor-flight-context.mp3",
+      "tn23-shahrizor-intro.mp3",
+      "tn23-shahrizor-the-kingly-forest.mp3",
+      "tn23-shahrizor-seven-millennia-of-footprints.mp3",
+      "tn23-shahrizor-crossroads-of-faith-and-power.mp3",
+      "tn23-shahrizor-dynasties-and-the-dust-they-leave.mp3"
+    ],
+    "durations": {
+      "tn23-shahrizor-flight-context.mp3": 35.9805,
+      "tn23-shahrizor-intro.mp3": 35.713,
+      "tn23-shahrizor-the-kingly-forest.mp3": 66.7338333,
+      "tn23-shahrizor-seven-millennia-of-footprints.mp3": 62.002375,
+      "tn23-shahrizor-crossroads-of-faith-and-power.mp3": 54.1277916,
+      "tn23-shahrizor-dynasties-and-the-dust-they-leave.mp3": 61.3631666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

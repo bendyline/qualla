@@ -25,7 +25,7 @@
     "sourceType": "core",
     "sourceArticleId": "shah-tepe-wp",
     "sourceGeohash4": "tnwd",
-    "smallPath": "_m/t/n/w/d/shah-tepe-wp/hero-small.jpg"
+    "smallPath": "_m/t/n/w/d/shah-tepe-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Triple pottery vessel - early 2nd millennium BC - Shah Tepe (Golestan province) - National Museum of Iran - Inv. number 314 - (3).jpg",
@@ -55,5 +55,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T16:44:58.605Z"
+  "narration": {
+    "files": [
+      "tnwd-shah-tepe-buried-lives-on-the-gorgan-plain-flight-context.mp3",
+      "tnwd-shah-tepe-buried-lives-on-the-gorgan-plain-intro.mp3",
+      "tnwd-shah-tepe-buried-lives-on-the-gorgan-plain-reading-the-layers.mp3",
+      "tnwd-shah-tepe-buried-lives-on-the-gorgan-plain-the-dead-beneath-the-floor.mp3",
+      "tnwd-shah-tepe-buried-lives-on-the-gorgan-plain-the-collective-grave.mp3",
+      "tnwd-shah-tepe-buried-lives-on-the-gorgan-plain-a-swedish-expedition-on-persian-soil.mp3"
+    ],
+    "durations": {
+      "tnwd-shah-tepe-buried-lives-on-the-gorgan-plain-flight-context.mp3": 63.3707083,
+      "tnwd-shah-tepe-buried-lives-on-the-gorgan-plain-intro.mp3": 68.0554583,
+      "tnwd-shah-tepe-buried-lives-on-the-gorgan-plain-reading-the-layers.mp3": 62.6873333,
+      "tnwd-shah-tepe-buried-lives-on-the-gorgan-plain-the-dead-beneath-the-floor.mp3": 67.2125,
+      "tnwd-shah-tepe-buried-lives-on-the-gorgan-plain-the-collective-grave.mp3": 56.269375,
+      "tnwd-shah-tepe-buried-lives-on-the-gorgan-plain-a-swedish-expedition-on-persian-soil.mp3": 62.0072083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

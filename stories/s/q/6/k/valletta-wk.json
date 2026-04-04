@@ -77,24 +77,24 @@
   "locationWikivoyagePath": "s/q/6/k/valletta-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "tunis-wk",
-      "title": "Tunis",
-      "tile": "snx1",
+      "id": "kerkouane-wp",
+      "title": "Kerkouane",
+      "tile": "snxf",
       "coordinates": {
-        "lat": 36.8065,
-        "lng": 10.1815
+        "lat": 36.946388888889,
+        "lng": 11.099166666667
       },
-      "distanceKm": 353.1
+      "distanceKm": 276.9
     },
     "n": {
-      "id": "capri-wk",
-      "title": "Capri",
-      "tile": "sr4n",
+      "id": "necropolis-of-kerkouane-wp",
+      "title": "Necropolis of Kerkouane",
+      "tile": "snxf",
       "coordinates": {
-        "lat": 40.55,
-        "lng": 14.2333
+        "lat": 36.955969444444,
+        "lng": 11.086291666667
       },
-      "distanceKm": 483.5
+      "distanceKm": 323.6
     },
     "ne": {
       "id": "black-death-arrival-wk",
@@ -107,54 +107,54 @@
       "distanceKm": 223.8
     },
     "w": {
-      "id": "cadaver-synod-wk",
-      "title": "The Cadaver Synod: The Trial of a Dead Pope",
-      "tile": "sr2y",
+      "id": "thapsus-wp",
+      "title": "Thapsus",
+      "tile": "snrf",
       "coordinates": {
-        "lat": 41.8859,
-        "lng": 12.5057
+        "lat": 35.625833333333,
+        "lng": 11.045
       },
-      "distanceKm": 673.9
+      "distanceKm": 274.5
     },
     "e": {
-      "id": "olympia-greece-wk",
-      "title": "Olympia",
-      "tile": "sqxq",
+      "id": "battle-of-heraclea-wp",
+      "title": "Battle of Heraclea",
+      "tile": "sr5u",
       "coordinates": {
-        "lat": 37.638,
-        "lng": 21.63
+        "lat": 40.22,
+        "lng": 16.669722
       },
-      "distanceKm": 609.5
+      "distanceKm": 494.1
     },
     "sw": {
-      "id": "sfax-wk",
-      "title": "Sfax",
-      "tile": "snpt",
+      "id": "mahdia-shipwreck-wp",
+      "title": "Mahdia Shipwreck",
+      "tile": "snrf",
       "coordinates": {
-        "lat": 34.7333,
-        "lng": 10.7667
+        "lat": 35.531944,
+        "lng": 11.124444
       },
-      "distanceKm": 317.5
+      "distanceKm": 266.1
     },
     "s": {
-      "id": "great-pyramid-wk",
-      "title": "The Great Pyramid: The Monument That Shouldn't Exist",
-      "tile": "stq4",
+      "id": "kerkennah-islands-wp",
+      "title": "Kerkennah Islands",
+      "tile": "snpv",
       "coordinates": {
-        "lat": 29.9792,
-        "lng": 31.1342
+        "lat": 34.715555555556,
+        "lng": 11.190277777778
       },
-      "distanceKm": 1668.1
+      "distanceKm": 327.1
     },
     "se": {
-      "id": "library-alexandria-wk",
-      "title": "The Library of Alexandria: The Lost Knowledge of the Ancient World",
-      "tile": "stt3",
+      "id": "libyan-civil-war-2011-wp",
+      "title": "Libyan Civil War (2011)",
+      "tile": "sme9",
       "coordinates": {
-        "lat": 31.2001,
-        "lng": 29.9187
+        "lat": 31.195623,
+        "lng": 16.52141
       },
-      "distanceKm": 1459.2
+      "distanceKm": 515.7
     }
   },
   "keywords": [

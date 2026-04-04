@@ -26,7 +26,7 @@
     "sourceType": "core",
     "sourceArticleId": "santa-fe-institute-wp",
     "sourceGeohash4": "9wke",
-    "smallPath": "_m/9/w/k/e/santa-fe-institute-wp/hero-small.jpg"
+    "smallPath": "_m/9/w/k/e/santa-fe-institute-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Santa Fe Institute.jpg",
@@ -82,8 +82,8 @@
       "sourceType": "core",
       "sourceArticleId": "santa-fe-institute-wp",
       "sourceGeohash4": "9wke",
-      "smallPath": "_m/9/w/k/e/santa-fe-institute-wp/conus-textile-conidae-small.png",
-      "mediumPath": "_m/9/w/k/e/santa-fe-institute-wp/conus-textile-conidae-medium.png"
+      "smallPath": "_m/9/w/k/e/santa-fe-institute-wp/conus-textile-conidae-small.webp",
+      "mediumPath": "_m/9/w/k/e/santa-fe-institute-wp/conus-textile-conidae-medium.webp"
     },
     {
       "filename": "Scott Page on Heuristics.jpg",
@@ -114,14 +114,14 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "santa-fe-institute-wp",
-      "sourceGeohash4": "9wke"
+      "sourceGeohash4": "9wke",
+      "smallPath": "_m/9/w/k/e/santa-fe-institute-wp/scott-page-on-heuristics-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/w/k/e/santa-fe-institute-wp/conus-textile-conidae.png",
     "_m/9/w/k/e/santa-fe-institute-wp/scott-page-on-heuristics.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:59:34.764Z",
   "narration": {
     "files": [
       "9wke-santa-fe-institute-flight-context.mp3",
@@ -141,8 +141,7 @@
       "9wke-santa-fe-institute-a-campus-built-for-conversation.mp3": 64.2334583,
       "9wke-santa-fe-institute-teaching-complexity-to-the-world.mp3": 68.42525
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T19:11:19.858Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T23:59:35.462Z"
 }

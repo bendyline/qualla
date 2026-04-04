@@ -1,0 +1,169 @@
+{
+  "id": "poble-espanyol-wp",
+  "source": "wikipedia",
+  "sourceId": "8539037",
+  "title": "Poble Espanyol",
+  "slug": "poble-espanyol",
+  "summary": "An open-air museum on Montjuic where 117 full-scale replicas of buildings from across Spain reveal that there is no single 'Spanish' architecture -- only a glorious patchwork of regional identities.",
+  "content": {
+    "intro": "Four professionals -- two architects and two artists -- spent months crisscrossing Spain, visiting some 1,600 settlements, sketching doorways in Andalusia and stone barns in Galicia, measuring balconies in Castile and timber frames in the Basque Country. Their mission, ahead of the 1929 Barcelona International Exposition, was to distill the essence of Spanish architecture into a single idealized village. What they built instead was proof that no such essence exists. The Poble Espanyol -- literally, the 'Spanish Town' -- sits on the slopes of Montjuic, a 400-meter stroll from the Magic Fountain, and its 117 full-scale buildings form a quiet argument against the very idea they were meant to embody.",
+    "sections": [
+      {
+        "title": "A Village That Contains a Country",
+        "body": "Walk through the main gate and the disorientation begins immediately. A whitewashed Andalusian courtyard gives way to a granite Galician horreo. Turn a corner and you're in a Catalan plaça; turn another and the sandstone arches could be Aragonese. The transitions are abrupt because the originals are separated by hundreds of kilometers and centuries of distinct cultural development. Architect Josep Puig i Cadafalch promoted the idea, and along with art critic and painter Miquel Utrillo, they assembled this mosaic of Spanish regional styles. The result is a town that coheres only in its incoherence -- a walk through its streets is a lesson in how deeply regional identity runs in Spain, from the Moorish tile patterns of the south to the heavy timber of the rainy north."
+      },
+      {
+        "title": "Built for a World's Fair, Kept by a City",
+        "body": "World's fair pavilions are usually temporary, erected for spectacle and then demolished. The Poble Espanyol was meant to be no different. But when the 1929 Exposition ended and the cranes moved on, Barcelona hesitated. The village had become something more than an exhibit -- it was a curious, accidental public space where people lingered in plazas and browsed artisan workshops. The city kept it. Over the decades, it evolved: restaurants opened in former display buildings, a theater was added, and eventually a museum of contemporary art took up residence. Today, some 117 buildings still stand, their replicated facades weathered by nearly a century of Mediterranean sun into something that almost passes for authentic."
+      },
+      {
+        "title": "The Impossibility of a 'Spanish Town'",
+        "body": "The deeper irony of the Poble Espanyol is architectural. Spain's regions developed under radically different influences -- Roman, Visigothic, Moorish, Frankish -- and their building traditions reflect those distinct histories. Basque farmhouses share almost nothing with Extremaduran adobes, and the stone masonry of Cantabria would be foreign in Valencia. By placing all of these traditions side by side, the museum's creators inadvertently proved that a unified 'Spanish style' is a fiction. The patched-up ensemble, as critics noted, demonstrates not commonality but overwhelming variety. That honesty -- perhaps unintentional -- is what gives the place its lasting interest."
+      },
+      {
+        "title": "Artisans and Evenings",
+        "body": "Beyond the architecture, the Poble Espanyol has become a working village of sorts. Artisan workshops line several streets, where glassblowers, potters, and leatherworkers practice traditional crafts in full view of visitors. The sounds of hammering and the smell of fired clay mingle with the chatter of tour groups and the occasional strum of a guitar from a restaurant terrace. After dark, the village takes on a different character entirely -- its plazas host concerts, flamenco performances, and open-air cinema screenings. The narrow lanes, lit by iron lanterns, create an atmosphere that the original architects could never have anticipated: a replica town with a genuine nightlife."
+      }
+    ],
+    "flightContext": "Located at 41.369N, 2.147E on the slopes of Montjuic hill in southwestern Barcelona. From the air, the compact village layout is visible adjacent to the large exhibition grounds of the 1929 Exposition. Nearest airport is Barcelona-El Prat (LEBL), approximately 10 km southwest. Best viewed at 2,000-3,000 feet AGL approaching from the south over the port area, with Montjuic's terraced hillside and the Magic Fountain axis providing orientation."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 41.369139,
+      "lng": 2.146692
+    },
+    "geohash": "sp3e2"
+  },
+  "categories": [
+    "Museums in Barcelona",
+    "Sants-Montjuic",
+    "Open-air museums in Spain",
+    "World's fair architecture in Barcelona",
+    "1929 Barcelona International Exposition",
+    "Montjuic"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-13T00:00:00Z",
+    "wordCount": 680,
+    "readTime": 4,
+    "firstPublished": "2026-03-13T00:00:00Z",
+    "storyNumber": 8685
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - Poble Espanyol",
+      "url": "https://en.wikipedia.org/wiki/Pueblo_espa%C3%B1ol_de_Barcelona",
+      "accessedAt": "2026-03-14",
+      "claimsVerified": [
+        "117 buildings confirmed",
+        "1929 Barcelona International Exposition",
+        "Puig i Cadafalch promoted the idea",
+        "Team visited ~1,600 settlements",
+        "Corrected: 'Four architects' → 'Four professionals -- two architects and two artists'"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Poble Espanyol Official - History",
+      "url": "https://poble-espanyol.com/en/the-poble-espanyol/the-history/",
+      "accessedAt": "2026-03-14",
+      "claimsVerified": [
+        "Architects Folguera and Reventós, artists Utrillo and Nogués",
+        "Meant to be temporary",
+        "Inaugurated May 20, 1929"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 3,
+    "strongOpinions": [
+      "'proof that no such essence exists'",
+      "'a quiet argument against the very idea they were meant to embody'",
+      "'a unified Spanish style is a fiction'"
+    ]
+  },
+  "locationWikipediaPath": "s/p/3/e/poble-espanyol-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "castle-of-cardona-wp",
+      "title": "Castle of Cardona",
+      "tile": "sp3n",
+      "coordinates": {
+        "lat": 41.914444,
+        "lng": 1.685556
+      },
+      "distanceKm": 28.9
+    },
+    "n": {
+      "id": "abbey-of-saint-martin-du-canigou-wp",
+      "title": "Abbey of Saint-Martin-du-Canigou",
+      "tile": "sp99",
+      "coordinates": {
+        "lat": 42.52814444,
+        "lng": 2.4008
+      },
+      "distanceKm": 97
+    },
+    "ne": {
+      "id": "argelers-concentration-camp-wp",
+      "title": "Argelers concentration camp",
+      "tile": "spd4",
+      "coordinates": {
+        "lat": 42.562188888889,
+        "lng": 3.0460277777778
+      },
+      "distanceKm": 102.1
+    },
+    "w": {
+      "id": "tarragona-cathedral-wp",
+      "title": "Tarragona Cathedral",
+      "tile": "sp2c",
+      "coordinates": {
+        "lat": 41.1192,
+        "lng": 1.25806
+      },
+      "distanceKm": 51.9
+    },
+    "e": {
+      "id": "palace-of-the-kings-of-majorca-wp",
+      "title": "Palace of the Kings of Majorca",
+      "tile": "spd4",
+      "coordinates": {
+        "lat": 42.693888888889,
+        "lng": 2.8955555555556
+      },
+      "distanceKm": 144.4
+    },
+    "sw": {
+      "id": "tarragona-amphitheatre-wp",
+      "title": "Tarragona Amphitheatre",
+      "tile": "sp2c",
+      "coordinates": {
+        "lat": 41.11457,
+        "lng": 1.2588
+      },
+      "distanceKm": 41.8
+    },
+    "s": {
+      "id": "siege-of-tarragona-1811-wp",
+      "title": "Siege of Tarragona (1811)",
+      "tile": "sp2c",
+      "coordinates": {
+        "lat": 41.1156,
+        "lng": 1.24944
+      },
+      "distanceKm": 86.8
+    },
+    "se": {
+      "id": "ciutadella-de-menorca-cathedral-wp",
+      "title": "Ciutadella de Menorca Cathedral",
+      "tile": "sp4e",
+      "coordinates": {
+        "lat": 40.00175,
+        "lng": 3.83763889
+      },
+      "distanceKm": 152.7
+    }
+  }
+}

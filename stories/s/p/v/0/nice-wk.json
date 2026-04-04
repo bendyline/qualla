@@ -77,84 +77,84 @@
   "locationWikivoyagePath": "s/p/v/0/nice-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "lyon-wk",
-      "title": "Lyon",
-      "tile": "u05k",
+      "id": "saint-michel-de-maurienne-derailment-wp",
+      "title": "Saint-Michel-de-Maurienne Derailment",
+      "tile": "u0h9",
       "coordinates": {
-        "lat": 45.764,
-        "lng": 4.8357
+        "lat": 45.211084,
+        "lng": 6.486418
       },
-      "distanceKm": 249
+      "distanceKm": 141.6
     },
     "n": {
-      "id": "chamonix-wk",
-      "title": "Chamonix",
-      "tile": "u0hv",
+      "id": "mercantour-national-park-wp",
+      "title": "Mercantour National Park",
+      "tile": "spv5",
       "coordinates": {
-        "lat": 45.916,
-        "lng": 6.866
+        "lat": 44.16666667,
+        "lng": 7.08333333
       },
-      "distanceKm": 220.8
+      "distanceKm": 26.5
     },
     "ne": {
-      "id": "milan-wk",
-      "title": "Milan",
-      "tile": "u0nd",
+      "id": "toirano-caves-wp",
+      "title": "Toirano Caves",
+      "tile": "spvg",
       "coordinates": {
-        "lat": 45.4642,
-        "lng": 9.19
+        "lat": 44.1378005416,
+        "lng": 8.2020123147
       },
-      "distanceKm": 204.3
+      "distanceKm": 43.1
     },
     "w": {
-      "id": "geneva-wk",
-      "title": "Geneva",
-      "tile": "u0hq",
+      "id": "verdon-gorge-wp",
+      "title": "Verdon Gorge",
+      "tile": "spu8",
       "coordinates": {
-        "lat": 46.2044,
-        "lng": 6.1432
+        "lat": 43.737778,
+        "lng": 6.363889
       },
-      "distanceKm": 283.7
+      "distanceKm": 26.1
     },
     "e": {
-      "id": "leaning-tower-pisa-wk",
-      "title": "The Leaning Tower of Pisa: The Building That's Been Falling for 850 Years",
-      "tile": "spz2",
+      "id": "sanctuary-of-vicoforte-wp",
+      "title": "Sanctuary of Vicoforte",
+      "tile": "spvs",
       "coordinates": {
-        "lat": 43.723,
-        "lng": 10.3966
+        "lat": 44.36336,
+        "lng": 7.86304
       },
-      "distanceKm": 214
+      "distanceKm": 76.5
     },
     "sw": {
-      "id": "marseille-wk",
-      "title": "Marseille",
-      "tile": "spey",
+      "id": "calanques-national-park-wk",
+      "title": "Calanques National Park",
+      "tile": "spev",
       "coordinates": {
-        "lat": 43.2965,
-        "lng": 5.3698
+        "lat": 43.20944444,
+        "lng": 5.44916667
       },
-      "distanceKm": 106.8
+      "distanceKm": 102.2
     },
     "s": {
-      "id": "rome-wk",
-      "title": "Rome",
-      "tile": "sr2y",
+      "id": "cosquer-cave-wp",
+      "title": "Cosquer Cave",
+      "tile": "spev",
       "coordinates": {
-        "lat": 41.9,
-        "lng": 12.4833333
+        "lat": 43.202777777778,
+        "lng": 5.4491666666667
       },
-      "distanceKm": 463.2
+      "distanceKm": 144.2
     },
     "se": {
-      "id": "caesar-assassination-wk",
-      "title": "The Assassination of Julius Caesar: 'Et Tu, Brute?'",
-      "tile": "sr2y",
+      "id": "siege-of-bastia-wp",
+      "title": "Siege of Bastia",
+      "tile": "spwd",
       "coordinates": {
-        "lat": 41.8956,
-        "lng": 12.476
+        "lat": 42.7008,
+        "lng": 9.45028
       },
-      "distanceKm": 423
+      "distanceKm": 160.6
     }
   },
   "keywords": [

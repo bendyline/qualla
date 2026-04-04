@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/m/v/w/international-banana-museum-wk/9mux-the-international-banana-museum-intro.mp3",
-        "_m/9/m/v/w/international-banana-museum-wk/9mux-the-international-banana-museum-flight-context.mp3",
-        "_m/9/m/v/w/international-banana-museum-wk/9mux-the-international-banana-museum-the-collection.mp3",
-        "_m/9/m/v/w/international-banana-museum-wk/9mux-the-international-banana-museum-the-collector.mp3",
-        "_m/9/m/v/w/international-banana-museum-wk/9mux-the-international-banana-museum-the-experience.mp3",
-        "_m/9/m/v/w/international-banana-museum-wk/9mux-the-international-banana-museum-the-location.mp3",
-        "_m/9/m/v/w/international-banana-museum-wk/9mux-the-international-banana-museum-visiting-the-international-banana-museum.mp3"
+        "_m/9/m/v/w/international-banana-museum-wk/9mvw-the-international-banana-museum-flight-context.mp3",
+        "_m/9/m/v/w/international-banana-museum-wk/9mvw-the-international-banana-museum-intro.mp3",
+        "_m/9/m/v/w/international-banana-museum-wk/9mvw-the-international-banana-museum-the-collector.mp3",
+        "_m/9/m/v/w/international-banana-museum-wk/9mvw-the-international-banana-museum-the-collection.mp3",
+        "_m/9/m/v/w/international-banana-museum-wk/9mvw-the-international-banana-museum-the-experience.mp3",
+        "_m/9/m/v/w/international-banana-museum-wk/9mvw-the-international-banana-museum-the-location.mp3",
+        "_m/9/m/v/w/international-banana-museum-wk/9mvw-the-international-banana-museum-visiting-the-international-banana-museum.mp3"
       ],
       "hero": {
         "path": "_m/9/m/v/w/international-banana-museum-wk/hero.jpg",
@@ -39,8 +39,8 @@
           "Photographs by Bureau of Land Management",
           "Washingtonia filifera"
         ],
-        "mediumPath": "_m/9/m/v/w/international-banana-museum-wk/hero-medium.jpg",
-        "smallPath": "_m/9/m/v/w/international-banana-museum-wk/hero-small.jpg"
+        "mediumPath": "_m/9/m/v/w/international-banana-museum-wk/hero-medium.webp",
+        "smallPath": "_m/9/m/v/w/international-banana-museum-wk/hero-small.webp"
       },
       "images": [
         {
@@ -97,9 +97,10 @@
             "Flickr images reviewed by FlickreviewR 2",
             "PD US BLM"
           ],
-          "smallPath": "_m/9/m/v/w/international-banana-museum-wk/field-dos-palmas-area-small.jpg"
+          "smallPath": "_m/9/m/v/w/international-banana-museum-wk/field-dos-palmas-area-small.webp"
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/m/v/w/international-banana-museum-wk/9mvw-international-banana-museum-combined.mp3"
     }
   }
 }

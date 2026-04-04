@@ -125,14 +125,14 @@
       "distanceKm": 11.9
     },
     "sw": {
-      "id": "lindbergh-kidnapping-wp",
-      "title": "Lindbergh Kidnapping",
-      "tile": "dr4v",
+      "id": "william-hillcourt-wp",
+      "title": "William Hillcourt",
+      "tile": "dr4z",
       "coordinates": {
-        "lat": 40.424,
-        "lng": -74.7677
+        "lat": 40.7755,
+        "lng": -74.6024
       },
-      "distanceKm": 119.6
+      "distanceKm": 79
     },
     "s": {
       "id": "west-point-duty-wk",
@@ -157,5 +157,8 @@
   },
   "keywords": [
     "walkway-over-hudson"
+  ],
+  "duplicates": [
+    "walkway-over-the-hudson-wp"
   ]
 }

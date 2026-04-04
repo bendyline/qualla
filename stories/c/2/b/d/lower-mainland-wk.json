@@ -70,14 +70,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "alert-bay-wk",
-      "title": "Alert Bay",
-      "tile": "c0vx",
+      "id": "princess-louisa-inlet-wp",
+      "title": "Princess Louisa Inlet",
+      "tile": "c0zv",
       "coordinates": {
-        "lat": 50.5856,
-        "lng": -126.9319
+        "lat": 50.1833,
+        "lng": -123.8
       },
-      "distanceKm": 261.8
+      "distanceKm": 40.8
     },
     "n": {
       "id": "whistler-olympic-wk",
@@ -100,14 +100,14 @@
       "distanceKm": 239.1
     },
     "w": {
-      "id": "galiano-island-wk",
-      "title": "Galiano Island",
-      "tile": "c28n",
+      "id": "sechelt-inlet-wp",
+      "title": "Sechelt Inlet",
+      "tile": "c0zf",
       "coordinates": {
-        "lat": 48.9167,
-        "lng": -123.4167
+        "lat": 49.6333,
+        "lng": -123.842
       },
-      "distanceKm": 82.5
+      "distanceKm": 32.1
     },
     "e": {
       "id": "sumas-wk",
@@ -120,14 +120,14 @@
       "distanceKm": 73.7
     },
     "sw": {
-      "id": "nanaimo-bathtub-race-wk",
-      "title": "The Nanaimo Bathtub Race: When a City Got Weird",
+      "id": "entrance-island-british-columbia-wp",
+      "title": "Entrance Island",
       "tile": "c0xz",
       "coordinates": {
-        "lat": 49.17,
-        "lng": -123.94
+        "lat": 49.208889,
+        "lng": -123.809444
       },
-      "distanceKm": 46.5
+      "distanceKm": 36.3
     },
     "s": {
       "id": "capilano-suspension-bridge-wk",

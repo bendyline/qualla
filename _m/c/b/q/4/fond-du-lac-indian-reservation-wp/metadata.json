@@ -34,7 +34,7 @@
     "sourceType": "core",
     "sourceArticleId": "fond-du-lac-indian-reservation-wp",
     "sourceGeohash4": "cbq4",
-    "smallPath": "_m/c/b/q/4/fond-du-lac-indian-reservation-wp/hero-small.jpg"
+    "smallPath": "_m/c/b/q/4/fond-du-lac-indian-reservation-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "FondDuLac.jpg",
@@ -95,7 +95,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fond-du-lac-indian-reservation-wp",
-      "sourceGeohash4": "cbq4"
+      "sourceGeohash4": "cbq4",
+      "mediumPath": "_m/c/b/q/4/fond-du-lac-indian-reservation-wp/map-of-the-fond-du-lac-indian--medium.webp",
+      "smallPath": "_m/c/b/q/4/fond-du-lac-indian-reservation-wp/map-of-the-fond-du-lac-indian--small.webp"
     },
     {
       "filename": "Map showing that Station Grounds of the D. & W. R.R. (Duluth and Winnipeg Railroad) in Sections 22, Township 51 North, Range 17 West, 4th Principal Meridian in the Fond du Lac India - DPLA - 5db7c9c56066d35369f269e8290d1dd5.jpg",
@@ -119,7 +121,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fond-du-lac-indian-reservation-wp",
-      "sourceGeohash4": "cbq4"
+      "sourceGeohash4": "cbq4",
+      "mediumPath": "_m/c/b/q/4/fond-du-lac-indian-reservation-wp/map-showing-that-station-groun-medium.webp",
+      "smallPath": "_m/c/b/q/4/fond-du-lac-indian-reservation-wp/map-showing-that-station-groun-small.webp"
     },
     {
       "filename": "Map showing a portion of the Fond du Lac Indian Reservation, Minnesota - DPLA - 3fcb91f13c88cc7030f4eb5fab143b12.jpg",
@@ -144,7 +148,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fond-du-lac-indian-reservation-wp",
-      "sourceGeohash4": "cbq4"
+      "sourceGeohash4": "cbq4",
+      "mediumPath": "_m/c/b/q/4/fond-du-lac-indian-reservation-wp/map-showing-a-portion-of-the-f-medium.webp",
+      "smallPath": "_m/c/b/q/4/fond-du-lac-indian-reservation-wp/map-showing-a-portion-of-the-f-small.webp"
     }
   ],
   "galleryPaths": [
@@ -152,7 +158,6 @@
     "_m/c/b/q/4/fond-du-lac-indian-reservation-wp/map-showing-that-station-groun.jpg",
     "_m/c/b/q/4/fond-du-lac-indian-reservation-wp/map-showing-a-portion-of-the-f.jpg"
   ],
-  "fetchedAt": "2026-02-22T03:03:58.176Z",
   "narration": {
     "files": [
       "cbq4-fond-du-lac-indian-reservation-flight-context.mp3",
@@ -172,8 +177,7 @@
       "cbq4-fond-du-lac-indian-reservation-the-economics-of-sovereignty.mp3": 67.043375,
       "cbq4-fond-du-lac-indian-reservation-nagaajiwanaang-endures.mp3": 60.17
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T11:28:30.716Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T03:04:00.721Z"
 }

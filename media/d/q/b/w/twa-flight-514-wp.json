@@ -23,8 +23,8 @@
           "Self-published work",
           "TWA Flight 514"
         ],
-        "mediumPath": "_m/d/q/b/w/twa-flight-514-wp/hero-medium.jpg",
-        "smallPath": "_m/d/q/b/w/twa-flight-514-wp/hero-small.jpg"
+        "mediumPath": "_m/d/q/b/w/twa-flight-514-wp/hero-medium.webp",
+        "smallPath": "_m/d/q/b/w/twa-flight-514-wp/hero-small.webp"
       },
       "images": [
         {
@@ -46,7 +46,7 @@
             "CC-BY-SA-2.5",
             "TWA Flight 514"
           ],
-          "smallPath": "_m/d/q/b/w/twa-flight-514-wp/about-one-year-later-i-small.jpg"
+          "smallPath": "_m/d/q/b/w/twa-flight-514-wp/about-one-year-later-i-small.webp"
         },
         {
           "path": "_m/d/q/b/w/twa-flight-514-wp/about-one-year-later-i-1.jpg",
@@ -67,7 +67,7 @@
             "CC-BY-SA-2.5",
             "TWA Flight 514"
           ],
-          "smallPath": "_m/d/q/b/w/twa-flight-514-wp/about-one-year-later-i-1-small.jpg"
+          "smallPath": "_m/d/q/b/w/twa-flight-514-wp/about-one-year-later-i-1-small.webp"
         },
         {
           "path": "_m/d/q/b/w/twa-flight-514-wp/looking-east-site-cras.jpg",
@@ -90,8 +90,8 @@
             "Self-published work",
             "TWA Flight 514"
           ],
-          "mediumPath": "_m/d/q/b/w/twa-flight-514-wp/looking-east-site-cras-medium.jpg",
-          "smallPath": "_m/d/q/b/w/twa-flight-514-wp/looking-east-site-cras-small.jpg"
+          "mediumPath": "_m/d/q/b/w/twa-flight-514-wp/looking-east-site-cras-medium.webp",
+          "smallPath": "_m/d/q/b/w/twa-flight-514-wp/looking-east-site-cras-small.webp"
         },
         {
           "path": "_m/d/q/b/w/twa-flight-514-wp/twa-514-crash-site-looking-wes.jpg",
@@ -143,7 +143,16 @@
             "Washington Dulles International Airport"
           ]
         }
-      ]
+      ],
+      "narration": [
+        "_m/d/q/b/w/twa-flight-514-wp/dqbw-twa-flight-514-flight-context.mp3",
+        "_m/d/q/b/w/twa-flight-514-wp/dqbw-twa-flight-514-intro.mp3",
+        "_m/d/q/b/w/twa-flight-514-wp/dqbw-twa-flight-514-cleared-to-descend.mp3",
+        "_m/d/q/b/w/twa-flight-514-wp/dqbw-twa-flight-514-into-the-mountain.mp3",
+        "_m/d/q/b/w/twa-flight-514-wp/dqbw-twa-flight-514-who-was-at-fault.mp3",
+        "_m/d/q/b/w/twa-flight-514-wp/dqbw-twa-flight-514-a-legacy-written-in-new-rules.mp3"
+      ],
+      "combinedNarration": "_m/d/q/b/w/twa-flight-514-wp/dqbw-twa-flight-514-combined.mp3"
     }
   }
 }

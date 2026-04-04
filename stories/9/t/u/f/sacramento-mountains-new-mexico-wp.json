@@ -107,14 +107,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "trinity-site-white-sands-wk",
-      "title": "Trinity Site",
+      "id": "trinity-nuclear-test-wp",
+      "title": "Trinity (Nuclear Test)",
       "tile": "9tur",
       "coordinates": {
-        "lat": 33.6773,
-        "lng": -106.4754
+        "lat": 33.677222222222,
+        "lng": -106.47527777778
       },
-      "distanceKm": 75.6
+      "distanceKm": 75.5
     },
     "n": {
       "id": "white-mountain-wilderness-wp",
@@ -190,5 +190,6 @@
   "keywords": [
     "sacramento-mountains",
     "sacramento-mountains-new-mexico"
-  ]
+  ],
+  "locationWikipediaPath": "9/t/u/f/sacramento-mountains-new-mexico-wp"
 }

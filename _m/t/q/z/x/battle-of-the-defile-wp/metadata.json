@@ -27,8 +27,8 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-the-defile-wp",
     "sourceGeohash4": "tqzx",
-    "mediumPath": "_m/t/q/z/x/battle-of-the-defile-wp/hero-medium.jpg",
-    "smallPath": "_m/t/q/z/x/battle-of-the-defile-wp/hero-small.jpg"
+    "mediumPath": "_m/t/q/z/x/battle-of-the-defile-wp/hero-medium.webp",
+    "smallPath": "_m/t/q/z/x/battle-of-the-defile-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "View from Takhta-Karacha Pass 3.jpg",
@@ -82,11 +82,29 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-the-defile-wp",
       "sourceGeohash4": "tqzx",
-      "smallPath": "_m/t/q/z/x/battle-of-the-defile-wp/relief-map-uzbekistan-small.png"
+      "smallPath": "_m/t/q/z/x/battle-of-the-defile-wp/relief-map-uzbekistan-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/t/q/z/x/battle-of-the-defile-wp/relief-map-uzbekistan.png"
   ],
-  "fetchedAt": "2026-03-01T18:10:45.428Z"
+  "narration": {
+    "files": [
+      "tqzx-battle-of-the-defile-flight-context.mp3",
+      "tqzx-battle-of-the-defile-intro.mp3",
+      "tqzx-battle-of-the-defile-the-road-junayd-should-not-have-taken.mp3",
+      "tqzx-battle-of-the-defile-three-days-in-the-pass.mp3",
+      "tqzx-battle-of-the-defile-sawras-doomed-charge.mp3",
+      "tqzx-battle-of-the-defile-pyrrhic-survival.mp3"
+    ],
+    "durations": {
+      "tqzx-battle-of-the-defile-flight-context.mp3": 50.78975,
+      "tqzx-battle-of-the-defile-intro.mp3": 49.179125,
+      "tqzx-battle-of-the-defile-the-road-junayd-should-not-have-taken.mp3": 64.2060416,
+      "tqzx-battle-of-the-defile-three-days-in-the-pass.mp3": 54.5445833,
+      "tqzx-battle-of-the-defile-sawras-doomed-charge.mp3": 62.89275,
+      "tqzx-battle-of-the-defile-pyrrhic-survival.mp3": 69.7261666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

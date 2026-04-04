@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/8/7/z/9/honolulu-city-wk/87z9-honolulu-the-pacific-capital-where-paradise-has-tr-intro.mp3",
         "_m/8/7/z/9/honolulu-city-wk/87z9-honolulu-the-pacific-capital-where-paradise-has-tr-flight-context.mp3",
+        "_m/8/7/z/9/honolulu-city-wk/87z9-honolulu-the-pacific-capital-where-paradise-has-tr-intro.mp3",
         "_m/8/7/z/9/honolulu-city-wk/87z9-honolulu-the-pacific-capital-where-paradise-has-tr-pearl-harbor.mp3",
+        "_m/8/7/z/9/honolulu-city-wk/87z9-honolulu-the-pacific-capital-where-paradise-has-tr-waikiki.mp3",
         "_m/8/7/z/9/honolulu-city-wk/87z9-honolulu-the-pacific-capital-where-paradise-has-tr-the-cost.mp3",
         "_m/8/7/z/9/honolulu-city-wk/87z9-honolulu-the-pacific-capital-where-paradise-has-tr-the-culture.mp3",
-        "_m/8/7/z/9/honolulu-city-wk/87z9-honolulu-the-pacific-capital-where-paradise-has-tr-visiting-honolulu.mp3",
-        "_m/8/7/z/9/honolulu-city-wk/87z9-honolulu-the-pacific-capital-where-paradise-has-tr-waikiki.mp3"
+        "_m/8/7/z/9/honolulu-city-wk/87z9-honolulu-the-pacific-capital-where-paradise-has-tr-visiting-honolulu.mp3"
       ],
       "hero": {
         "path": "_m/8/7/z/9/honolulu-wk/honolulu-hnl-runway-8r.jpg",
@@ -35,7 +35,8 @@
           "Photographs by Ron Reiring",
           "Runways in Hawaii",
           "Taken with Canon PowerShot A80"
-        ]
+        ],
+        "smallPath": "_m/8/7/z/9/honolulu-city-wk/hero-small.webp"
       },
       "images": [
         {
@@ -116,7 +117,8 @@
             "Travel maps of Honolulu"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/8/7/z/9/honolulu-city-wk/87z9-honolulu-city-combined.mp3"
     }
   }
 }

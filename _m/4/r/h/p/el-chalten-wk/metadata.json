@@ -28,8 +28,8 @@
     "sourceType": "core",
     "sourceArticleId": "el-chalten-wk",
     "sourceGeohash4": "4rhp",
-    "smallPath": "_m/4/r/h/p/el-chalten-wk/hero-small.jpg",
-    "mediumPath": "_m/4/r/h/p/el-chalten-wk/hero-medium.jpg"
+    "smallPath": "_m/4/r/h/p/el-chalten-wk/hero-small.webp",
+    "mediumPath": "_m/4/r/h/p/el-chalten-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "El Chalten page banner 3.jpg",
@@ -86,8 +86,8 @@
       "sourceType": "core",
       "sourceArticleId": "el-chalten-wk",
       "sourceGeohash4": "4rhp",
-      "smallPath": "_m/4/r/h/p/el-chalten-wk/fitzroy-2-small.jpg",
-      "mediumPath": "_m/4/r/h/p/el-chalten-wk/fitzroy-2-medium.jpg"
+      "smallPath": "_m/4/r/h/p/el-chalten-wk/fitzroy-2-small.webp",
+      "mediumPath": "_m/4/r/h/p/el-chalten-wk/fitzroy-2-medium.webp"
     },
     {
       "filename": "Cerro torre 1987.jpg",
@@ -123,28 +123,26 @@
     "_m/4/r/h/p/el-chalten-wk/fitzroy-2.jpg",
     "_m/4/r/h/5/los-glaciares-national-park-wk/cerro-torre.jpg"
   ],
-  "fetchedAt": "2026-02-21T20:06:42.939Z",
   "updatedAt": "2026-01-29T07:18:37.455Z",
   "narration": {
     "files": [
-      "4rhp-el-chalt-n-base-camp-living.mp3",
-      "4rhp-el-chalt-n-born-from-politics.mp3",
       "4rhp-el-chalt-n-flight-context.mp3",
       "4rhp-el-chalt-n-intro.mp3",
-      "4rhp-el-chalt-n-the-climbers-mountain.mp3",
+      "4rhp-el-chalt-n-born-from-politics.mp3",
       "4rhp-el-chalt-n-the-trails.mp3",
-      "4rhp-el-chalt-n-weather-rules.mp3"
+      "4rhp-el-chalt-n-the-climbers-mountain.mp3",
+      "4rhp-el-chalt-n-weather-rules.mp3",
+      "4rhp-el-chalt-n-base-camp-living.mp3"
     ],
     "durations": {
-      "4rhp-el-chalt-n-base-camp-living.mp3": 56.088,
-      "4rhp-el-chalt-n-born-from-politics.mp3": 59.136,
-      "4rhp-el-chalt-n-flight-context.mp3": 117,
-      "4rhp-el-chalt-n-intro.mp3": 52.896,
-      "4rhp-el-chalt-n-the-climbers-mountain.mp3": 59.736,
-      "4rhp-el-chalt-n-the-trails.mp3": 63.696,
-      "4rhp-el-chalt-n-weather-rules.mp3": 51.984
+      "4rhp-el-chalt-n-flight-context.mp3": 69.537,
+      "4rhp-el-chalt-n-intro.mp3": 50.668375,
+      "4rhp-el-chalt-n-born-from-politics.mp3": 57.209,
+      "4rhp-el-chalt-n-the-trails.mp3": 64.4455833,
+      "4rhp-el-chalt-n-the-climbers-mountain.mp3": 62.1199166,
+      "4rhp-el-chalt-n-weather-rules.mp3": 54.2707916,
+      "4rhp-el-chalt-n-base-camp-living.mp3": 55.2997916
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:55.561Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

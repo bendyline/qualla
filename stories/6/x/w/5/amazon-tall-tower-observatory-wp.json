@@ -62,24 +62,24 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "bogota-wk",
-      "title": "Bogota",
-      "tile": "d2g6",
+      "id": "auyan-tepui-wp",
+      "title": "Auyan-tepui",
+      "tile": "d959",
       "coordinates": {
-        "lat": 4.711,
-        "lng": -74.0721
+        "lat": 5.9008721,
+        "lng": -62.5499729
       },
-      "distanceKm": 1788.3
+      "distanceKm": 938.2
     },
     "n": {
-      "id": "mt-pelee-wk",
-      "title": "The Eruption of Mount Pelée: 30,000 Dead in Two Minutes",
-      "tile": "dds7",
+      "id": "angel-falls-wp",
+      "title": "Angel Falls",
+      "tile": "d959",
       "coordinates": {
-        "lat": 14.7402,
-        "lng": -61.1779
+        "lat": 5.970055555555556,
+        "lng": -62.53622222222222
       },
-      "distanceKm": 1871.1
+      "distanceKm": 967.8
     },
     "ne": {
       "id": "dakar-wk",
@@ -92,24 +92,24 @@
       "distanceKm": 4868.2
     },
     "w": {
-      "id": "cusco-wk",
-      "title": "Cusco",
-      "tile": "6msg",
+      "id": "manicore-wp",
+      "title": "Manicore",
+      "tile": "6wuq",
       "coordinates": {
-        "lat": -13.5319,
-        "lng": -71.9675
+        "lat": -5.8088888888889,
+        "lng": -61.3
       },
-      "distanceKm": 1869.2
+      "distanceKm": 452.8
     },
     "e": {
-      "id": "sao-paulo-wk",
-      "title": "Sao Paulo",
-      "tile": "6gyf",
+      "id": "sai-cinza-indigenous-territory-wp",
+      "title": "Sai Cinza Indigenous Territory",
+      "tile": "6wyg",
       "coordinates": {
-        "lat": -23.5505,
-        "lng": -46.6333
+        "lat": -6.464505,
+        "lng": -57.991726
       },
-      "distanceKm": 2689.1
+      "distanceKm": 476.2
     },
     "sw": {
       "id": "amazon-rainforest-wk",
@@ -122,24 +122,24 @@
       "distanceKm": 88.5
     },
     "s": {
-      "id": "machu-picchu-discovery-wk",
-      "title": "Machu Picchu: The 'Lost City' That Was Never Really Lost",
-      "tile": "6msm",
+      "id": "juma-sustainable-development-reserve-wp",
+      "title": "Juma Sustainable Development Reserve",
+      "tile": "6wvj",
       "coordinates": {
-        "lat": -13.1631,
-        "lng": -72.5449
+        "lat": -5.978,
+        "lng": -60.356
       },
-      "distanceKm": 1916.5
+      "distanceKm": 423.7
     },
     "se": {
-      "id": "iguazu-falls-wk",
-      "title": "Iguazu Falls",
-      "tile": "6g3m",
+      "id": "alto-maues-ecological-station-wp",
+      "title": "Alto Maues Ecological Station",
+      "tile": "6wyx",
       "coordinates": {
-        "lat": -25.695,
-        "lng": -54.436
+        "lat": -5.662,
+        "lng": -58.141
       },
-      "distanceKm": 2617.4
+      "distanceKm": 356.8
     }
   }
 }

@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/c/2/1/n/mount-st-helens-wk/c21n-mount-st-helens-intro.mp3",
-        "_m/c/2/1/n/mount-st-helens-wk/c21n-mount-st-helens-climbing-the-mountain.mp3",
         "_m/c/2/1/n/mount-st-helens-wk/c21n-mount-st-helens-flight-context.mp3",
-        "_m/c/2/1/n/mount-st-helens-wk/c21n-mount-st-helens-inside-the-crater.mp3",
+        "_m/c/2/1/n/mount-st-helens-wk/c21n-mount-st-helens-intro.mp3",
         "_m/c/2/1/n/mount-st-helens-wk/c21n-mount-st-helens-the-day-the-mountain-fell.mp3",
         "_m/c/2/1/n/mount-st-helens-wk/c21n-mount-st-helens-the-gray-zone.mp3",
-        "_m/c/2/1/n/mount-st-helens-wk/c21n-mount-st-helens-the-view-from-johnston-ridge.mp3"
+        "_m/c/2/1/n/mount-st-helens-wk/c21n-mount-st-helens-inside-the-crater.mp3",
+        "_m/c/2/1/n/mount-st-helens-wk/c21n-mount-st-helens-the-view-from-johnston-ridge.mp3",
+        "_m/c/2/1/n/mount-st-helens-wk/c21n-mount-st-helens-climbing-the-mountain.mp3"
       ],
       "hero": {
         "path": "_m/c/2/1/n/mount-st-helens-eruption-wk/slide-shows-mount-st-h.jpg",
@@ -62,7 +62,7 @@
             "Taken with Canon Digital IXUS 700",
             "Views of Mount St. Helens"
           ],
-          "smallPath": "_m/c/2/1/n/mount-st-helens-wk/mount-st-helens-taken-small.jpg"
+          "smallPath": "_m/c/2/1/n/mount-st-helens-wk/mount-st-helens-taken-small.webp"
         },
         {
           "path": "_m/c/2/1/n/mount-st-helens-wk/car-caught-1980-erupti.jpg",
@@ -89,7 +89,7 @@
             "Taken with Canon EOS 10D",
             "Volcanic damage"
           ],
-          "smallPath": "_m/c/2/1/n/mount-st-helens-wk/car-caught-1980-erupti-small.jpg"
+          "smallPath": "_m/c/2/1/n/mount-st-helens-wk/car-caught-1980-erupti-small.webp"
         },
         {
           "path": "_m/c/2/1/n/mount-st-helens-wk/015roadblockjpg-resize-2185194.jpg",
@@ -862,7 +862,8 @@
             "Squirrel-related signs"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/1/n/mount-st-helens-wk/c21n-mount-st-helens-combined.mp3"
     }
   }
 }

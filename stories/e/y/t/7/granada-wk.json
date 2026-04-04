@@ -77,87 +77,90 @@
   "locationWikivoyagePath": "e/y/t/7/granada-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "seville-province-wk",
-      "title": "Seville Province",
-      "tile": "eysj",
+      "id": "calahorra-tower-wp",
+      "title": "Calahorra Tower",
+      "tile": "eysx",
       "coordinates": {
-        "lat": 37.5,
-        "lng": -5.5
+        "lat": 37.875649012798,
+        "lng": -4.7765885420941
       },
-      "distanceKm": 113.3
+      "distanceKm": 68.9
     },
     "n": {
-      "id": "madrid-wk",
-      "title": "Madrid",
-      "tile": "ezjm",
+      "id": "battle-of-bailen-wp",
+      "title": "Battle of Bailén",
+      "tile": "eyv2",
       "coordinates": {
-        "lat": 40.4168,
-        "lng": -3.7038
+        "lat": 38.095,
+        "lng": -3.774
       },
-      "distanceKm": 330.9
+      "distanceKm": 73
     },
     "ne": {
-      "id": "valencia-wk",
-      "title": "Valencia",
-      "tile": "ezp8",
+      "id": "castle-of-lorca-wp",
+      "title": "Castle of Lorca",
+      "tile": "eywy",
       "coordinates": {
-        "lat": 39.4699,
-        "lng": -0.3763
+        "lat": 37.6775,
+        "lng": -1.70583333
       },
-      "distanceKm": 331.3
+      "distanceKm": 131.2
     },
     "w": {
-      "id": "seville-wk",
-      "title": "Seville",
-      "tile": "eyes",
+      "id": "dolmen-of-menga-wp",
+      "title": "Dolmen of Menga",
+      "tile": "eysf",
       "coordinates": {
-        "lat": 37.3891,
-        "lng": -5.9845
+        "lat": 37.02401572,
+        "lng": -4.54845738
       },
-      "distanceKm": 158
+      "distanceKm": 33.9
     },
     "e": {
-      "id": "ibiza-wk",
-      "title": "Ibiza",
-      "tile": "sncj",
+      "id": "almeria-cathedral-wp",
+      "title": "Almería Cathedral",
+      "tile": "eyw1",
       "coordinates": {
-        "lat": 38.98,
-        "lng": 1.43
+        "lat": 36.8382,
+        "lng": -2.4673
       },
-      "distanceKm": 449.2
+      "distanceKm": 72.5
     },
     "sw": {
-      "id": "tangier-wk",
-      "title": "Tangier",
-      "tile": "ey7g",
+      "id": "alcazaba-of-malaga-wp",
+      "title": "Alcazaba of Malaga",
+      "tile": "eysb",
       "coordinates": {
-        "lat": 35.7673,
-        "lng": -5.7998
+        "lat": 36.721181444283,
+        "lng": -4.41574649345472
       },
-      "distanceKm": 190.6
+      "distanceKm": 27.7
     },
     "s": {
-      "id": "chefchaouen-wk",
-      "title": "Chefchaouen",
-      "tile": "eyk2",
+      "id": "caves-of-nerja-wp",
+      "title": "Caves of Nerja",
+      "tile": "eyt3",
       "coordinates": {
-        "lat": 35.1686,
-        "lng": -5.2636
+        "lat": 36.762,
+        "lng": -3.8448611111111
       },
-      "distanceKm": 240.1
+      "distanceKm": 21.7
     },
     "se": {
-      "id": "cabo-de-gata-n-jar-natural-park-wk",
-      "title": "Cabo de Gata-Nijar Natural Park",
-      "tile": "eyw9",
+      "id": "alcazaba-of-almeria-wp",
+      "title": "Alcazaba of Almería",
+      "tile": "eyw1",
       "coordinates": {
-        "lat": 36.7833,
-        "lng": -2.1
+        "lat": 36.84111111,
+        "lng": -2.47194444
       },
-      "distanceKm": 95.8
+      "distanceKm": 62.1
     }
   },
   "keywords": [
     "granada"
+  ],
+  "duplicates": [
+    "granada-cathedral-wp"
   ]
 }

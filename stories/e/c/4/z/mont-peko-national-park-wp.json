@@ -1,0 +1,157 @@
+{
+  "id": "mont-peko-national-park-wp",
+  "source": "wikipedia",
+  "sourceId": "18111932",
+  "title": "Mont Peko National Park",
+  "slug": "mont-peko-national-park",
+  "summary": "Established in 1968 around a 997-meter peak in western Ivory Coast, Mont Peko National Park has become a contested landscape where chimpanzee conservation collides with cocoa farming and the aftermath of civil conflict.",
+  "content": {
+    "intro": "For more than a decade, an armed group controlled a national park in western Ivory Coast. Their leader sold thousands of hectares to cocoa farmers from neighboring Burkina Faso, trafficked gold, timber, and ivory, and turned a protected forest into a patchwork of illegal plantations. By the time the Ivorian government moved to reclaim Mont Peko National Park in 2016, an estimated 70 percent of the park had been destroyed. The eviction that followed displaced tens of thousands of people, many of whom had built homes and livelihoods inside the park's boundaries over the preceding years. Mont Peko's story is not a simple tale of conservation versus encroachment -- it is a case study in how civil conflict, poverty, commodity markets, and environmental protection tangle into knots that no single policy can untie.",
+    "sections": [
+      {
+        "title": "The Mountain and the Forest",
+        "body": "Mont Peko National Park sits in the Montagnes District of western Ivory Coast, centered on the twin peaks that give it its name. Mont Peko, the higher summit at 997 meters, rises above surrounding lowlands covered in dense forest -- or what used to be dense forest. When the park was established in 1968, it encompassed 34,000 hectares of Guinean montane and lowland forest, habitat for an array of West African wildlife. Forest covered roughly 80 percent of the park. The dominant tree species included Triplochiton scleroxylon, Pterygota macrocarpa, and Mansonia altissima -- hardwoods characteristic of the Upper Guinea forest bloc. BirdLife International designated the park an Important Bird Area, with some 240 bird species recorded within its boundaries."
+      },
+      {
+        "title": "Apes in the Canopy",
+        "body": "A census conducted in April 2001 by researchers Herbinger and Lia offered a snapshot of the park's primate population at a critical moment -- just before the Ivorian civil war would upend the region. Using transect lines totaling 12.5 kilometers through the forest, they estimated a density of 1.6 chimpanzees per square kilometer and a total population of approximately 320 weaned chimpanzees in the park. The connected classified forest of Haut Sassandra, linked to Mont Peko through forest corridors, was thought to hold an additional 400 chimpanzees. These western chimpanzees, Pan troglodytes verus, are an endangered subspecies whose total wild population has declined sharply across West Africa. Whether the Mont Peko population survived the decade of armed occupation and deforestation that followed the census remains an open and troubling question."
+      },
+      {
+        "title": "Cocoa, Conflict, and Displacement",
+        "body": "Ivory Coast's civil conflicts in the 2000s created a power vacuum in the west that armed groups filled. In Mont Peko, an armed faction took control of the park and effectively converted it into a commercial enterprise -- selling land to farmers, most of them migrants from Burkina Faso seeking plots for cocoa cultivation. Cocoa is Ivory Coast's most valuable export, and the global demand for chocolate drives land clearing across the country's remaining forests. By the time the government acted, the damage was extensive. In July 2016, authorities evicted the farmers. But the operation created its own crisis: thousands of families were left without shelter or livelihood, and surrounding communities lacked the infrastructure to absorb them. Human Rights Watch documented the humanitarian consequences, noting that the government had failed to ensure adequate provisions for the displaced."
+      },
+      {
+        "title": "Recovery and Reckoning",
+        "body": "Today Mont Peko stands as both a conservation challenge and a test of Ivory Coast's ability to balance environmental protection with social justice. The park's forests are regenerating in some areas, but the scars of a decade of illegal farming are visible from the air -- clearings, erosion patterns, and the geometric lines of abandoned cocoa rows cutting through what should be unbroken canopy. The chimpanzees, forest elephants, and other wildlife that once inhabited the park face an uncertain future. Restoring the ecosystem requires not just removing the farmers but rebuilding the biological community that was displaced alongside them -- the seed banks, the soil fungi, the insect populations that a forest needs to function. Whether Mont Peko can recover depends on sustained investment, enforcement, and the willingness to address the root causes that turned a national park into a cocoa farm."
+      }
+    ],
+    "flightContext": "Mont Peko National Park is located at approximately 7.03N, 7.24W in western Ivory Coast, in the Montagnes District. The park's twin peaks are visible from altitude, with Mont Peko reaching 997 meters (3,271 feet). The cleared areas within the park boundaries may be visible as lighter patches against surrounding forest. Nearest significant airport is Man Airport (DIMN) approximately 60 km northeast. Maintain altitude above 4,500 feet MSL when overflying. The area experiences tropical weather patterns with afternoon convective activity common during the wet season."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 7.025,
+      "lng": -7.23888889
+    },
+    "geohash": "ec4zg"
+  },
+  "categories": [
+    "National parks of Ivory Coast",
+    "Afromontane",
+    "Guinean montane forests",
+    "Primate conservation",
+    "Important Bird Areas"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-06T00:00:00Z",
+    "wordCount": 770,
+    "readTime": 4,
+    "firstPublished": "2026-03-06T00:00:00Z",
+    "storyNumber": 6500
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - Mont Péko National Park",
+      "url": "https://en.wikipedia.org/wiki/Mont_P%C3%A9ko_National_Park",
+      "accessedAt": "2026-03-06",
+      "claimsVerified": [
+        "Park established 1968 - confirmed",
+        "34,000 hectares area - confirmed",
+        "Mont Peko summit at 997 meters - confirmed",
+        "2001 census: density 1.6 chimpanzees/km2, total ~320 weaned chimpanzees - confirmed",
+        "Estimated 70% of park destroyed by illegal farming - confirmed",
+        "Government eviction of farmers July 2016 - confirmed",
+        "Human Rights Watch documented humanitarian consequences of eviction - confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 3,
+    "strongOpinions": [
+      "Mont Peko's story is not a simple tale of conservation versus encroachment -- it is a case study in how civil conflict, poverty, commodity markets, and environmental protection tangle into knots that no single policy can untie"
+    ]
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "mount-nimba-strict-nature-reserve-wp",
+      "title": "Mount Nimba Strict Nature Reserve: Where Toads Give Live Birth",
+      "tile": "ec65",
+      "coordinates": {
+        "lat": 7.603,
+        "lng": -8.391
+      },
+      "distanceKm": 84.7
+    },
+    "n": {
+      "id": "nimba-range-wp",
+      "title": "Nimba Range",
+      "tile": "ec3g",
+      "coordinates": {
+        "lat": 7.56666667,
+        "lng": -8.46666667
+      },
+      "distanceKm": 144.5
+    },
+    "ne": {
+      "id": "kong-empire-wp",
+      "title": "Kong Empire",
+      "tile": "ecss",
+      "coordinates": {
+        "lat": 9.150555555555556,
+        "lng": -4.610277777777778
+      },
+      "distanceKm": 314
+    },
+    "w": {
+      "id": "mount-richard-molard-wp",
+      "title": "Mount Richard-Molard: The Peak That Changed Its Name for a Dead Geographer",
+      "tile": "ec65",
+      "coordinates": {
+        "lat": 7.622588194444445,
+        "lng": -8.408058694444444
+      },
+      "distanceKm": 106
+    },
+    "e": {
+      "id": "lake-kossou-wp",
+      "title": "Lake Kossou",
+      "tile": "eck0",
+      "coordinates": {
+        "lat": 7.15,
+        "lng": -5.59
+      },
+      "distanceKm": 122.4
+    },
+    "sw": {
+      "id": "monkey-island-liberia-wp",
+      "title": "Monkey Island, Liberia",
+      "tile": "ec0d",
+      "coordinates": {
+        "lat": 6.1195,
+        "lng": -10.3021
+      },
+      "distanceKm": 290.5
+    },
+    "s": {
+      "id": "tai-national-park-wp",
+      "title": "Tai National Park",
+      "tile": "ec4b",
+      "coordinates": {
+        "lat": 5.75,
+        "lng": -7.15
+      },
+      "distanceKm": 103.6
+    },
+    "se": {
+      "id": "soubre-hydroelectric-power-station-wp",
+      "title": "Soubre Hydroelectric Power Station",
+      "tile": "ec52",
+      "coordinates": {
+        "lat": 5.7851666666667,
+        "lng": -6.6338611111111
+      },
+      "distanceKm": 99.6
+    }
+  },
+  "locationWikipediaPath": "e/c/4/z/mont-peko-national-park-wp"
+}

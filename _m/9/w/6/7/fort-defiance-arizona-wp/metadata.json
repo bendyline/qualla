@@ -28,8 +28,8 @@
     "sourceType": "core",
     "sourceArticleId": "fort-defiance-arizona-wp",
     "sourceGeohash4": "9w67",
-    "smallPath": "_m/9/w/6/7/fort-defiance-arizona-wp/hero-small.jpg",
-    "mediumPath": "_m/9/w/6/7/fort-defiance-arizona-wp/hero-medium.jpg"
+    "smallPath": "_m/9/w/6/7/fort-defiance-arizona-wp/hero-small.webp",
+    "mediumPath": "_m/9/w/6/7/fort-defiance-arizona-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Navajofamilya.jpg",
@@ -88,7 +88,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-defiance-arizona-wp",
-      "sourceGeohash4": "9w67"
+      "sourceGeohash4": "9w67",
+      "smallPath": "_m/9/w/6/7/fort-defiance-arizona-wp/fort-defiance-arizona-small.webp"
     },
     {
       "filename": "HOUSE BETWEEN HILL AND DUMP - NARA - 544174.jpg",
@@ -116,7 +117,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-defiance-arizona-wp",
-      "sourceGeohash4": "9w67"
+      "sourceGeohash4": "9w67",
+      "mediumPath": "_m/9/w/6/7/fort-defiance-arizona-wp/house-between-hill-and-dump-na-medium.webp",
+      "smallPath": "_m/9/w/6/7/fort-defiance-arizona-wp/house-between-hill-and-dump-na-small.webp"
     },
     {
       "filename": "Navajo Shoegame.jpg",
@@ -141,7 +144,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-defiance-arizona-wp",
-      "sourceGeohash4": "9w67"
+      "sourceGeohash4": "9w67",
+      "smallPath": "_m/9/w/6/7/fort-defiance-arizona-wp/navajo-shoegame-small.webp"
     }
   ],
   "galleryPaths": [
@@ -149,7 +153,6 @@
     "_m/9/w/6/7/fort-defiance-arizona-wp/house-between-hill-and-dump-na.jpg",
     "_m/9/w/6/7/fort-defiance-arizona-wp/navajo-shoegame.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:39:45.833Z",
   "narration": {
     "files": [
       "9w67-fort-defiance-arizona-flight-context.mp3",
@@ -167,8 +170,7 @@
       "9w67-fort-defiance-arizona-from-garrison-to-agency.mp3": 51.9664166,
       "9w67-fort-defiance-arizona-teaching-defiance.mp3": 63.1462083
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T15:10:17.675Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T23:39:47.116Z"
 }

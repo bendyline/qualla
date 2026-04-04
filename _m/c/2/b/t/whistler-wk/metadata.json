@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "whistler-wk",
     "sourceGeohash4": "c2bt",
-    "smallPath": "_m/c/2/b/t/whistler-wk/hero-small.jpg",
-    "mediumPath": "_m/c/2/b/t/whistler-wk/hero-medium.jpg"
+    "smallPath": "_m/c/2/b/t/whistler-wk/hero-small.webp",
+    "mediumPath": "_m/c/2/b/t/whistler-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Black Tusk- March, 2007.jpg",
@@ -92,8 +92,8 @@
       "sourceType": "core",
       "sourceArticleId": "whistler-wk",
       "sourceGeohash4": "c2bt",
-      "smallPath": "_m/c/2/b/t/whistler-wk/gallery-1-small.jpg",
-      "mediumPath": "_m/c/2/b/t/whistler-wk/gallery-1-medium.jpg"
+      "smallPath": "_m/c/2/b/t/whistler-wk/gallery-1-small.webp",
+      "mediumPath": "_m/c/2/b/t/whistler-wk/gallery-1-medium.webp"
     },
     {
       "filename": "BrandywineFalls 1200W.jpg",
@@ -117,35 +117,33 @@
       "sourceType": "core",
       "sourceArticleId": "whistler-wk",
       "sourceGeohash4": "c2bt",
-      "smallPath": "_m/c/2/b/t/whistler-wk/brandywinefalls-1200w-small.jpg"
+      "smallPath": "_m/c/2/b/t/whistler-wk/brandywinefalls-1200w-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/c/2/b/t/whistler-wk/gallery-1.jpg",
     "_m/c/2/b/t/whistler-wk/brandywinefalls-1200w.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:07:22.602Z",
   "updatedAt": "2026-01-29T13:03:02.360Z",
   "narration": {
     "files": [
-      "c2bt-whistler-beyond-the-lifts.mp3",
       "c2bt-whistler-flight-context.mp3",
       "c2bt-whistler-intro.mp3",
-      "c2bt-whistler-olympic-legacy.mp3",
       "c2bt-whistler-the-merger-on-the-mountain.mp3",
+      "c2bt-whistler-village-life.mp3",
       "c2bt-whistler-the-sea-to-sky.mp3",
-      "c2bt-whistler-village-life.mp3"
+      "c2bt-whistler-beyond-the-lifts.mp3",
+      "c2bt-whistler-olympic-legacy.mp3"
     ],
     "durations": {
-      "c2bt-whistler-beyond-the-lifts.mp3": 59.304,
-      "c2bt-whistler-flight-context.mp3": 55.416,
-      "c2bt-whistler-intro.mp3": 52.104,
-      "c2bt-whistler-olympic-legacy.mp3": 57.048,
-      "c2bt-whistler-the-merger-on-the-mountain.mp3": 56.544,
-      "c2bt-whistler-the-sea-to-sky.mp3": 63.24,
-      "c2bt-whistler-village-life.mp3": 57.408
+      "c2bt-whistler-flight-context.mp3": 58.235875,
+      "c2bt-whistler-intro.mp3": 49.8734583,
+      "c2bt-whistler-the-merger-on-the-mountain.mp3": 58.442875,
+      "c2bt-whistler-village-life.mp3": 58.355,
+      "c2bt-whistler-the-sea-to-sky.mp3": 60.6043333,
+      "c2bt-whistler-beyond-the-lifts.mp3": 58.856125,
+      "c2bt-whistler-olympic-legacy.mp3": 57.8538333
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:57.556Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

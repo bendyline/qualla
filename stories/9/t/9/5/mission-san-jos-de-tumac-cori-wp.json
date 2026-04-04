@@ -170,14 +170,14 @@
       "distanceKm": 317.2
     },
     "s": {
-      "id": "off-roading-in-baja-wk",
-      "title": "Off-roading in Baja",
-      "tile": "9mw3",
+      "id": "gulf-of-california-wp",
+      "title": "Gulf of California",
+      "tile": "9sbr",
       "coordinates": {
-        "lat": 31.200890735964883,
-        "lng": -114.92144269992647
+        "lat": 28,
+        "lng": -112
       },
-      "distanceKm": 380.7
+      "distanceKm": 380.4
     },
     "se": {
       "id": "dolores-mine-wp",
@@ -192,5 +192,6 @@
   },
   "keywords": [
     "mission-san-jos-de-tumac-cori"
-  ]
+  ],
+  "locationWikipediaPath": "9/t/9/5/mission-san-jose-de-tumacacori-wp"
 }

@@ -1,0 +1,159 @@
+{
+  "id": "price-sculpture-forest-wp",
+  "source": "wikipedia",
+  "sourceId": "67466358",
+  "title": "Price Sculpture Forest",
+  "slug": "price-sculpture-forest",
+  "summary": "A family's decision not to sell a 16-acre Whidbey Island property became an outdoor gallery where sculptures hide among Douglas firs along a half-mile woodland trail.",
+  "content": {
+    "intro": "Scott Price bought the property in 2008 to build a house for his family. They built elsewhere instead, and suddenly he owned 16.3 acres of Whidbey Island forest with no plan for it. Selling seemed like the obvious move -- except that Price knew what selling meant. A buyer would subdivide the land, clear the trees, and drop houses onto the lots. The forest would disappear. Rather than let that happen, the Price family did something unexpected: they turned the property into an art gallery with no walls, no roof, and no admission charge.",
+    "sections": [
+      {
+        "title": "Conservation by Creation",
+        "body": "The key decision came when the Price family partnered with the Whidbey Camano Land Trust to place a conservation easement on the property. The easement is permanent -- it runs with the land regardless of future ownership, prohibiting clear-cutting and residential development forever. Having secured the trees, the family then asked a different question: what could the forest become? The answer was a sculpture park, an outdoor collection of artwork installed along a half-mile trail winding through the property's Douglas firs and native undergrowth. The Price Sculpture Forest opened to the public on October 23, 2020, during a pandemic year when outdoor cultural experiences were in desperate demand. The timing was accidental but perfect."
+      },
+      {
+        "title": "Art Among the Trees",
+        "body": "As of 2021, 27 sculptures occupy the forest, placed at intervals along the trail where they emerge from the landscape with varying degrees of surprise. Some are large-scale metal works that announce themselves from a distance; others are subtle enough to walk past if you are not paying attention. The collection is a mix of donated works, loaned pieces, and sculptures available for purchase. This rotating model keeps the forest changing -- a return visit may reveal new pieces in familiar clearings, or discover that a favorite has been sold and replaced. The trail itself is gentle, winding through a forest floor of ferns and mosses that would be worth walking even without the art. The sculptures add a layer of human intention to a landscape that was nearly lost to the saw and the subdivision plat."
+      },
+      {
+        "title": "A Quiet Island Destination",
+        "body": "Price Sculpture Forest sits east of Coupeville, within the broader cultural orbit of Whidbey Island's central communities. The island has long attracted artists, and gallery culture thrives in both Coupeville and the nearby town of Langley. But the sculpture forest offers something different from an indoor gallery: weather, birdsong, the smell of damp bark, the way light filters through a canopy and changes the appearance of a steel form from hour to hour. It is free and open to the public, sustained by donations and the occasional sale of a sculpture. For visitors arriving by ferry or driving down from Oak Harbor, the forest is a detour measured in minutes but a shift in pace that can last for hours. In a place already rich with military history, pioneer cemeteries, and protected farmland, the sculpture forest adds a quieter, more contemporary layer -- proof that preservation can mean creation as much as conservation."
+      }
+    ],
+    "flightContext": "Located at 48.22N, 122.65W east of Coupeville on central Whidbey Island. The sculpture forest is a 16-acre wooded parcel not easily distinguished from surrounding forest at altitude. Look for the area east of Penn Cove between Coupeville and the Keystone ferry landing. Nearest airport is KNUW (NAS Whidbey Island), 6 nm north. Recommended viewing altitude 1,500-2,500 ft AGL, though the forest canopy will obscure the sculptures themselves."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 48.22129,
+      "lng": -122.6527
+    },
+    "geohash": "c28f2"
+  },
+  "categories": [
+    "art",
+    "sculpture",
+    "parks",
+    "conservation"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-22T00:00:00Z",
+    "wordCount": 620,
+    "readTime": 3,
+    "firstPublished": "2026-03-22T00:00:00Z",
+    "storyNumber": 11312
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Price Sculpture Forest - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Price_Sculpture_Forest",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "Scott Price purchased property in 2008",
+        "16.3 acres with half-mile trail",
+        "Partnership with Whidbey Camano Land Trust for conservation easement",
+        "Opened to public October 23, 2020",
+        "Free and open to the public"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Price Sculpture Forest official site",
+      "url": "https://sculptureforest.org/",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "Conservation easement prohibits clear-cutting and residential development in perpetuity",
+        "Located east of Coupeville on Whidbey Island",
+        "Sculptures mix donated, loaned, and works available for purchase"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "c/2/8/f/price-sculpture-forest-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "san-juan-island-wk",
+      "title": "San Juan Island",
+      "tile": "c28k",
+      "coordinates": {
+        "lat": 48.5333,
+        "lng": -123.083
+      },
+      "distanceKm": 3.3
+    },
+    "n": {
+      "id": "bellingham-washington-wk",
+      "title": "Bellingham (Washington)",
+      "tile": "c28v",
+      "coordinates": {
+        "lat": 48.759,
+        "lng": -122.488
+      },
+      "distanceKm": 27.2
+    },
+    "ne": {
+      "id": "mount-baker-wk",
+      "title": "Mount Baker",
+      "tile": "c29m",
+      "coordinates": {
+        "lat": 48.777,
+        "lng": -121.813
+      },
+      "distanceKm": 31.9
+    },
+    "w": {
+      "id": "victoria-city-wk",
+      "title": "Victoria: The British Columbia Capital More British Than Britain",
+      "tile": "c287",
+      "coordinates": {
+        "lat": 48.4284,
+        "lng": -123.3656
+      },
+      "distanceKm": 30.7
+    },
+    "e": {
+      "id": "snoqualmie-falls-wp",
+      "title": "Snoqualmie Falls",
+      "tile": "c23q",
+      "coordinates": {
+        "lat": 47.5415,
+        "lng": -121.8373
+      },
+      "distanceKm": 79.8
+    },
+    "sw": {
+      "id": "hurricane-ridge-wp",
+      "title": "Hurricane Ridge",
+      "tile": "c282",
+      "coordinates": {
+        "lat": 47.924456,
+        "lng": -123.3519333
+      },
+      "distanceKm": 23.8
+    },
+    "s": {
+      "id": "japanese-gulch-wp",
+      "title": "Japanese Gulch",
+      "tile": "c290",
+      "coordinates": {
+        "lat": 47.9425,
+        "lng": -122.289
+      },
+      "distanceKm": 17.9
+    },
+    "se": {
+      "id": "snoqualmie-valley-wk",
+      "title": "Snoqualmie Valley",
+      "tile": "c23r",
+      "coordinates": {
+        "lat": 47.67677,
+        "lng": -121.93854
+      },
+      "distanceKm": 34.9
+    }
+  }
+}

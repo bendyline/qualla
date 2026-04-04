@@ -1,0 +1,156 @@
+{
+  "id": "zhifu-island-wp",
+  "source": "wikipedia",
+  "sourceId": "261444",
+  "title": "Zhifu Island",
+  "slug": "zhifu-island",
+  "summary": "An islet in the Bohai Sea where China's first emperor searched for the elixir of immortality, now connected to the mainland by a natural sand bridge built over millennia.",
+  "content": {
+    "intro": "China's first emperor came here looking for eternal life. Qin Shi Huang, the ruler who unified China, built the Great Wall, and buried himself with a terracotta army, is traditionally said to have visited Zhifu Island in search of the elixir of immortality. He did not find it. But he liked the island enough that today, places on its rocky terrain still bear his name: Shihuang Avenue, Fish-shooting Tower. Having exhausted the island's possibilities, he dispatched his court sorcerer Xu Fu from nearby Yantai to sail away with hundreds of men and women in search of the legendary elixir. Xu Fu never returned.",
+    "sections": [
+      {
+        "title": "An Island That Built Its Own Bridge",
+        "body": "Zhifu Island was once separated from the mainland by open water. Over the course of a thousand years, sand and sediment accumulated on the ocean floor between the island and the Shandong Peninsula, gradually building a natural pathway 600 meters wide. What was once an isolated islet became, in geological terms, a tombolo -- a land bridge connecting island to coast. The Chinese call it a \"mainland-connecting island,\" and today Public Road No. 26 runs across this natural causeway. The island itself stretches roughly 10 kilometers long and 1 kilometer wide, sitting just 4 kilometers from downtown Zhifu, the district of Yantai that takes its name from this small but historically outsized piece of land."
+      },
+      {
+        "title": "Stone Axes and an Emperor's Grave",
+        "body": "Archaeological excavations on Zhifu Island have uncovered more than 200 artifacts: stone axes, short axes, pottery fragments, bone needles, and bone hairpins. Carbon-14 dating confirms that people have lived here since the Neolithic period. During the Zhou dynasty, the island served as a burial ground, including for Duke Kang of Qi, who died here in 379 BC. The ruins of his cemetery still survive. The Lord Yang Temple, built during the early Zhou dynasty by rulers of the State of Qi, honored Lord Yang, the fifth deity of the Eight Divine Generals. Long before any emperor arrived seeking immortality, this island was already considered a place where the boundary between the mortal and divine worlds grew thin."
+      },
+      {
+        "title": "Two Emperors and a Legend",
+        "body": "Qin Shi Huang's connection to Zhifu Island rests on local tradition rather than verified Qin-era inscriptions, though the association is deeply embedded in the island's identity. The legend of a Mountain of Immortality drew the emperor here, and after his failure to find the elixir, he sent Xu Fu on the maritime expedition that became one of China's most enduring legends of exploration. A later emperor left more concrete evidence: Emperor Wudi of the Han dynasty visited in 94 BC, performing a ceremony at the Yangzhu Temple and leaving an inscription: \"Arrived at Zhifu, which floats on Great Ocean. Mountains call out 'Ten thousand years!'\" The inscription survives as one of the earliest written records of the island."
+      },
+      {
+        "title": "The Old Lady and the Mountain",
+        "body": "Laoye Mountain rises to 294 meters at the island's center, the highest point on a landmass that is otherwise modest in elevation. On a cliff face at 43 meters above sea level sits the Old Lady Stone, a rock formation named for its resemblance to a woman embracing the ocean waves. The southern slopes are forested, and the surrounding waters yield clams and abalone in abundance. Today, Zhifu Island functions primarily as a tourist attraction, its temples and imperial associations drawing visitors from across Shandong. But the island's deeper appeal lies in its layered history -- Neolithic settlers, Zhou dynasty tombs, an emperor's frustrated quest for eternal life, and a natural bridge that took a millennium to build."
+      }
+    ],
+    "flightContext": "Zhifu Island is located at approximately 37.61N, 121.38E in the Bohai Sea, immediately north of Yantai on the Shandong Peninsula. The island appears as a narrow, elongated landmass connected to the mainland by a visible sand bridge. Yantai Penglai International Airport (ZSYT) is the nearest major airport. Laoye Mountain at 294 meters (964 feet) is the island's highest point. The island is a useful visual waypoint for coastal navigation along the northern Shandong coast."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 37.612055555556,
+      "lng": 121.37952777778
+    },
+    "geohash": "wwwmf"
+  },
+  "categories": [
+    "geography",
+    "history",
+    "culture",
+    "archaeology"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 700,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 10599
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Zhifu Island - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zhifu_Island",
+      "accessedAt": "2026-03-18",
+      "claimsVerified": [
+        "Qin Shi Huang visited seeking immortality confirmed",
+        "Xu Fu dispatched from Yantai confirmed",
+        "tombolo / natural sand bridge confirmed",
+        "island 10 km long 1 km wide confirmed",
+        "4 km from downtown Zhifu district confirmed",
+        "200+ Neolithic artifacts confirmed",
+        "Duke Kang of Qi buried here 379 BC confirmed",
+        "Emperor Wudi Han visited 94 BC confirmed",
+        "Laoye Mountain 294 meters confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "w/w/w/m/zhifu-island-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "penglai-pavilion-wp",
+      "title": "Penglai Pavilion",
+      "tile": "wwtz",
+      "coordinates": {
+        "lat": 37.829989,
+        "lng": 120.750732
+      },
+      "distanceKm": 16.9
+    },
+    "n": {
+      "id": "japanese-cruiser-takasago-wp",
+      "title": "Japanese Cruiser Takasago",
+      "tile": "wwy1",
+      "coordinates": {
+        "lat": 38.16666667,
+        "lng": 121.25
+      },
+      "distanceKm": 45.6
+    },
+    "ne": {
+      "id": "hms-poseidon-wp",
+      "title": "HMS Poseidon",
+      "tile": "wwwz",
+      "coordinates": {
+        "lat": 37.83333333,
+        "lng": 122.23333333
+      },
+      "distanceKm": 21.7
+    },
+    "w": {
+      "id": "qixia-gold-mine-accident-wp",
+      "title": "Qixia Gold Mine Accident",
+      "tile": "wwtu",
+      "coordinates": {
+        "lat": 37.33466,
+        "lng": 120.73158
+      },
+      "distanceKm": 28.3
+    },
+    "e": {
+      "id": "british-weihaiwei-wp",
+      "title": "British Weihaiwei",
+      "tile": "wwwv",
+      "coordinates": {
+        "lat": 37.5,
+        "lng": 122.1
+      },
+      "distanceKm": 10.1
+    },
+    "sw": {
+      "id": "mount-lao-wp",
+      "title": "Mount Lao",
+      "tile": "wwmv",
+      "coordinates": {
+        "lat": 36.191666666667,
+        "lng": 120.59166666667
+      },
+      "distanceKm": 123.3
+    },
+    "s": {
+      "id": "mount-kunyu-wp",
+      "title": "Mount Kunyu",
+      "tile": "wwwe",
+      "coordinates": {
+        "lat": 37.255424,
+        "lng": 121.769554
+      },
+      "distanceKm": 27
+    },
+    "se": {
+      "id": "htr-pm-wp",
+      "title": "HTR-PM",
+      "tile": "wwx4",
+      "coordinates": {
+        "lat": 36.97222222222222,
+        "lng": 122.52888888888889
+      },
+      "distanceKm": 57.7
+    }
+  }
+}

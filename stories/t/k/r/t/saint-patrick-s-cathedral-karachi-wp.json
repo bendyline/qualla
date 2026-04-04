@@ -93,14 +93,14 @@
       "distanceKm": 23.5
     },
     "ne": {
-      "id": "jodhpur-wk",
-      "title": "Jodhpur",
-      "tile": "tsev",
+      "id": "mehrgarh-wp",
+      "title": "Mehrgarh",
+      "tile": "tt0n",
       "coordinates": {
-        "lat": 26.2389,
-        "lng": 73.0243
+        "lat": 29.2125,
+        "lng": 67.670833
       },
-      "distanceKm": 566.9
+      "distanceKm": 453.5
     },
     "w": {
       "id": "hingol-national-park-wp",
@@ -113,14 +113,14 @@
       "distanceKm": 112.6
     },
     "e": {
-      "id": "jaipur-wk",
-      "title": "Jaipur",
-      "tile": "tsvc",
+      "id": "dwarkadhish-temple-wp",
+      "title": "Dwarkadhish Temple",
+      "tile": "tecn",
       "coordinates": {
-        "lat": 26.9124,
-        "lng": 75.7873
+        "lat": 22.237886111111,
+        "lng": 68.967561111111
       },
-      "distanceKm": 859.2
+      "distanceKm": 329
     },
     "sw": {
       "id": "ras-al-hadd-wp",
@@ -143,14 +143,15 @@
       "distanceKm": 70.3
     },
     "se": {
-      "id": "udaipur-wk",
-      "title": "Udaipur",
-      "tile": "tsk7",
+      "id": "dwarka-wp",
+      "title": "Dwarka",
+      "tile": "tecn",
       "coordinates": {
-        "lat": 24.5854,
-        "lng": 73.7125
+        "lat": 22.240277777778,
+        "lng": 68.968611111111
       },
-      "distanceKm": 628.1
+      "distanceKm": 303.1
     }
-  }
+  },
+  "locationWikipediaPath": "t/k/r/t/saint-patrick-s-cathedral-karachi-wp"
 }

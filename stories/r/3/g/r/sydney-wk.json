@@ -126,6 +126,16 @@
   "locationWikivoyagePath": "r/3/g/x/sydney-wk",
   "directionalNeighbors": {
     "nw": {
+      "id": "south-australia-wk",
+      "title": "South Australia",
+      "tile": "qfxv",
+      "coordinates": {
+        "lat": -30,
+        "lng": 135
+      },
+      "distanceKm": 1513.4
+    },
+    "n": {
       "id": "great-barrier-reef-wk",
       "title": "Great Barrier Reef",
       "tile": "rk9d",
@@ -133,17 +143,7 @@
         "lat": -19.266,
         "lng": 148.587
       },
-      "distanceKm": 1601.9
-    },
-    "n": {
-      "id": "great-barrier-reef-deeper-wk",
-      "title": "The Great Barrier Reef: The Living Structure Visible from Space - Now Dying",
-      "tile": "rkb9",
-      "coordinates": {
-        "lat": -18,
-        "lng": 147
-      },
-      "distanceKm": 1776.9
+      "distanceKm": 1608.8
     },
     "ne": {
       "id": "fiji-wk",
@@ -166,14 +166,14 @@
       "distanceKm": 721.4
     },
     "e": {
-      "id": "queenstown-new-zealand-wk",
-      "title": "Queenstown",
-      "tile": "pxzz",
+      "id": "gorge-river-wp",
+      "title": "Gorge River",
+      "tile": "r8ps",
       "coordinates": {
-        "lat": -45.031,
-        "lng": 168.662
+        "lat": -44.1833,
+        "lng": 168.1953
       },
-      "distanceKm": 1920.4
+      "distanceKm": 1837.3
     },
     "sw": {
       "id": "melbourne-wk",
@@ -196,14 +196,14 @@
       "distanceKm": 786.9
     },
     "se": {
-      "id": "west-coast-new-zealand-wk",
-      "title": "West Coast (New Zealand)",
-      "tile": "rb2v",
+      "id": "2003-fiordland-earthquake-wp",
+      "title": "2003 Fiordland Earthquake",
+      "tile": "pxyx",
       "coordinates": {
-        "lat": -42.7,
-        "lng": 170
+        "lat": -45.13,
+        "lng": 166.93
       },
-      "distanceKm": 1866.5
+      "distanceKm": 1795.7
     }
   },
   "keywords": [

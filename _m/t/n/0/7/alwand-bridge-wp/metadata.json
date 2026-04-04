@@ -23,7 +23,7 @@
     "sourceType": "core",
     "sourceArticleId": "alwand-bridge-wp",
     "sourceGeohash4": "tn07",
-    "smallPath": "_m/t/n/0/7/alwand-bridge-wp/hero-small.jpg"
+    "smallPath": "_m/t/n/0/7/alwand-bridge-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Khananqin.jpg",
@@ -51,5 +51,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T11:37:09.878Z"
+  "narration": {
+    "files": [
+      "tn07-alwand-bridge-flight-context.mp3",
+      "tn07-alwand-bridge-intro.mp3",
+      "tn07-alwand-bridge-arches-across-the-centuries.mp3",
+      "tn07-alwand-bridge-a-princess-and-her-pilgrimage.mp3",
+      "tn07-alwand-bridge-the-cost-of-crossing.mp3",
+      "tn07-alwand-bridge-survival-and-restoration.mp3"
+    ],
+    "durations": {
+      "tn07-alwand-bridge-flight-context.mp3": 45.8980833,
+      "tn07-alwand-bridge-intro.mp3": 38.400125,
+      "tn07-alwand-bridge-arches-across-the-centuries.mp3": 57.3997083,
+      "tn07-alwand-bridge-a-princess-and-her-pilgrimage.mp3": 52.5663333,
+      "tn07-alwand-bridge-the-cost-of-crossing.mp3": 52.5097916,
+      "tn07-alwand-bridge-survival-and-restoration.mp3": 55.4480833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/m/v/v/salvation-mountain-wk/9mup-salvation-mountain-intro.mp3",
-        "_m/9/m/v/v/salvation-mountain-wk/9mup-salvation-mountain-flight-context.mp3",
-        "_m/9/m/v/v/salvation-mountain-wk/9mup-salvation-mountain-the-builder.mp3",
-        "_m/9/m/v/v/salvation-mountain-wk/9mup-salvation-mountain-the-controversy.mp3",
-        "_m/9/m/v/v/salvation-mountain-wk/9mup-salvation-mountain-the-legacy.mp3",
-        "_m/9/m/v/v/salvation-mountain-wk/9mup-salvation-mountain-the-mountain.mp3",
-        "_m/9/m/v/v/salvation-mountain-wk/9mup-salvation-mountain-visiting-salvation-mountain.mp3"
+        "_m/9/m/v/v/salvation-mountain-wk/9mvv-salvation-mountain-flight-context.mp3",
+        "_m/9/m/v/v/salvation-mountain-wk/9mvv-salvation-mountain-intro.mp3",
+        "_m/9/m/v/v/salvation-mountain-wk/9mvv-salvation-mountain-the-builder.mp3",
+        "_m/9/m/v/v/salvation-mountain-wk/9mvv-salvation-mountain-the-mountain.mp3",
+        "_m/9/m/v/v/salvation-mountain-wk/9mvv-salvation-mountain-the-controversy.mp3",
+        "_m/9/m/v/v/salvation-mountain-wk/9mvv-salvation-mountain-the-legacy.mp3",
+        "_m/9/m/v/v/salvation-mountain-wk/9mvv-salvation-mountain-visiting-salvation-mountain.mp3"
       ],
       "hero": {
         "path": "_m/9/m/v/v/salvation-mountain-wk/hero.png",
@@ -33,8 +33,8 @@
           "Media needing categories as of 30 May 2021",
           "Self-published work"
         ],
-        "mediumPath": "_m/9/m/v/v/salvation-mountain-wk/hero-medium.jpg",
-        "smallPath": "_m/9/m/v/v/salvation-mountain-wk/hero-small.jpg"
+        "mediumPath": "_m/9/m/v/v/salvation-mountain-wk/hero-medium.webp",
+        "smallPath": "_m/9/m/v/v/salvation-mountain-wk/hero-small.webp"
       },
       "images": [
         {
@@ -512,7 +512,8 @@
             "Self-published work"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/m/v/v/salvation-mountain-wk/9mvv-salvation-mountain-combined.mp3"
     }
   }
 }

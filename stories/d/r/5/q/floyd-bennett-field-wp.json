@@ -103,14 +103,14 @@
       "distanceKm": 106.2
     },
     "n": {
-      "id": "seneca-village-wp",
-      "title": "Seneca Village: The Neighborhood Erased for Central Park",
+      "id": "battle-of-bull-s-ferry-wp",
+      "title": "Battle of Bull's Ferry",
       "tile": "dr72",
       "coordinates": {
-        "lat": 40.784002,
-        "lng": -73.968892
+        "lat": 40.789,
+        "lng": -74
       },
-      "distanceKm": 3
+      "distanceKm": 0.9
     },
     "ne": {
       "id": "wardenclyffe-tower-wp",
@@ -123,14 +123,14 @@
       "distanceKm": 52
     },
     "w": {
-      "id": "lindbergh-kidnapping-wp",
-      "title": "Lindbergh Kidnapping",
-      "tile": "dr4v",
+      "id": "pingry-school-wp",
+      "title": "Pingry School",
+      "tile": "dr4z",
       "coordinates": {
-        "lat": 40.424,
-        "lng": -74.7677
+        "lat": 40.619972,
+        "lng": -74.567222
       },
-      "distanceKm": 22.5
+      "distanceKm": 11.8
     },
     "e": {
       "id": "new-haven-city-wk",
@@ -172,5 +172,6 @@
       },
       "distanceKm": 587.1
     }
-  }
+  },
+  "locationWikipediaPath": "d/r/5/q/floyd-bennett-field-wp"
 }

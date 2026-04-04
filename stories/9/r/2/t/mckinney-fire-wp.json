@@ -150,14 +150,14 @@
       "distanceKm": 50.4
     },
     "w": {
-      "id": "northern-oregon-coast-wk",
-      "title": "Northern Oregon Coast",
-      "tile": "c205",
+      "id": "pixieland-oregon-wp",
+      "title": "Pixieland",
+      "tile": "c0pb",
       "coordinates": {
-        "lat": 45.89,
-        "lng": -123.96
+        "lat": 45.0205,
+        "lng": -123.965
       },
-      "distanceKm": 462.8
+      "distanceKm": 366.7
     },
     "e": {
       "id": "klamath-basin-wp",
@@ -202,5 +202,6 @@
   },
   "keywords": [
     "mckinney-fire"
-  ]
+  ],
+  "locationWikipediaPath": "9/r/2/t/mckinney-fire-wp"
 }

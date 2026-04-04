@@ -72,54 +72,54 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "antigua-guatemala-wk",
-      "title": "Antigua Guatemala",
-      "tile": "9fx6",
+      "id": "san-lucas-island-national-park-wk",
+      "title": "San Lucas Island National Park",
+      "tile": "d1g8",
       "coordinates": {
-        "lat": 14.567,
-        "lng": -90.733
+        "lat": 9.937,
+        "lng": -84.902
       },
-      "distanceKm": 904.9
+      "distanceKm": 90
     },
     "n": {
-      "id": "juan-castro-blanco-national-park-wk",
-      "title": "Juan Castro Blanco National Park",
-      "tile": "d1u4",
+      "id": "manuel-antonio-national-park-wk",
+      "title": "Manuel Antonio National Park",
+      "tile": "d1sj",
       "coordinates": {
-        "lat": 10.28,
-        "lng": -84.33
+        "lat": 9.37555556,
+        "lng": -84.13583333
       },
-      "distanceKm": 119.5
+      "distanceKm": 32.3
     },
     "ne": {
-      "id": "cartagena-wk",
-      "title": "Cartagena",
-      "tile": "d3f7",
+      "id": "la-amistad-international-park-wk",
+      "title": "La Amistad International Park",
+      "tile": "d1tj",
       "coordinates": {
-        "lat": 10.391,
-        "lng": -75.4794
+        "lat": 9.405,
+        "lng": -82.93611111111112
       },
-      "distanceKm": 867.2
+      "distanceKm": 43.3
     },
     "w": {
-      "id": "tikal-wk",
-      "title": "Tikal: The Lost Maya City That Rose Above the Jungle",
-      "tile": "d503",
+      "id": "san-lucas-island-wp",
+      "title": "San Lucas Island",
+      "tile": "d1g8",
       "coordinates": {
-        "lat": 17.222,
-        "lng": -89.6237
+        "lat": 9.94008,
+        "lng": -84.90423
       },
-      "distanceKm": 1071.2
+      "distanceKm": 114.5
     },
     "e": {
-      "id": "bogota-wk",
-      "title": "Bogota",
-      "tile": "d2g6",
+      "id": "barriles-wp",
+      "title": "Barriles",
+      "tile": "d1t4",
       "coordinates": {
-        "lat": 4.711,
-        "lng": -74.0721
+        "lat": 8.8,
+        "lng": -82.7
       },
-      "distanceKm": 1129.1
+      "distanceKm": 73.7
     },
     "sw": {
       "id": "galapagos-wk",
@@ -132,27 +132,28 @@
       "distanceKm": 1226.8
     },
     "s": {
-      "id": "quito-wk",
-      "title": "Quito",
-      "tile": "6rbn",
+      "id": "drake-bay-wk",
+      "title": "Drake Bay",
+      "tile": "d1s9",
       "coordinates": {
-        "lat": -0.1807,
-        "lng": -78.4678
+        "lat": 8.7,
+        "lng": -83.6667
       },
-      "distanceKm": 1161.8
+      "distanceKm": 22.2
     },
     "se": {
-      "id": "medellin-wk",
-      "title": "Medellin",
-      "tile": "d347",
+      "id": "golfo-dulce-costa-rica-wp",
+      "title": "Golfo Dulce",
+      "tile": "d1sb",
       "coordinates": {
-        "lat": 6.2476,
-        "lng": -75.5658
+        "lat": 8.5833333333333,
+        "lng": -83.266666666667
       },
-      "distanceKm": 900.3
+      "distanceKm": 23.6
     }
   },
   "keywords": [
     "birdwatching-in-costa-rica"
-  ]
+  ],
+  "locationWikivoyagePath": "d/1/s/7/birdwatching-in-costa-rica-wk"
 }

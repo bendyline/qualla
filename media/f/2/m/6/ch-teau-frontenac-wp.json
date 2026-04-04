@@ -30,8 +30,8 @@
           "Rue des Carrières, Quebec City",
           "Self-published work"
         ],
-        "mediumPath": "_m/f/2/m/6/ch-teau-frontenac-wp/hero-medium.jpg",
-        "smallPath": "_m/f/2/m/6/ch-teau-frontenac-wp/hero-small.jpg"
+        "mediumPath": "_m/f/2/m/6/ch-teau-frontenac-wp/hero-medium.webp",
+        "smallPath": "_m/f/2/m/6/ch-teau-frontenac-wp/hero-small.webp"
       },
       "images": [
         {
@@ -66,7 +66,7 @@
             "Ray Atherton",
             "William Lyon Mackenzie King in 1944"
           ],
-          "smallPath": "_m/f/2/m/6/ch-teau-frontenac-wp/title-prime-minister-s-small.jpg"
+          "smallPath": "_m/f/2/m/6/ch-teau-frontenac-wp/title-prime-minister-s-small.webp"
         },
         {
           "path": "_m/f/2/m/6/ch-teau-frontenac-wp/chateau-frontenac-seen.jpg",
@@ -96,7 +96,9 @@
             "Quality images of hotels",
             "Self-published work",
             "Taken with Canon EOS 1000D"
-          ]
+          ],
+          "mediumPath": "_m/f/2/m/6/ch-teau-frontenac-wp/chateau-frontenac-seen-medium.webp",
+          "smallPath": "_m/f/2/m/6/ch-teau-frontenac-wp/chateau-frontenac-seen-small.webp"
         },
         {
           "path": "_m/f/2/m/6/ch-teau-frontenac-wp/chateau-frontenac-queb.jpg",
@@ -120,8 +122,8 @@
             "Images taken in Quebec by 0x010C",
             "Uploaded with VicuñaUploader"
           ],
-          "mediumPath": "_m/f/2/m/6/ch-teau-frontenac-wp/chateau-frontenac-queb-medium.jpg",
-          "smallPath": "_m/f/2/m/6/ch-teau-frontenac-wp/chateau-frontenac-queb-small.jpg"
+          "mediumPath": "_m/f/2/m/6/ch-teau-frontenac-wp/chateau-frontenac-queb-medium.webp",
+          "smallPath": "_m/f/2/m/6/ch-teau-frontenac-wp/chateau-frontenac-queb-small.webp"
         },
         {
           "path": "_m/f/2/m/6/ch-teau-frontenac-wp/portrait-louis-de-buad.jpg",
@@ -142,10 +144,20 @@
             "CC-BY-SA-4.0",
             "Extracted images"
           ],
-          "mediumPath": "_m/f/2/m/6/ch-teau-frontenac-wp/portrait-louis-de-buad-medium.jpg",
-          "smallPath": "_m/f/2/m/6/ch-teau-frontenac-wp/portrait-louis-de-buad-small.jpg"
+          "mediumPath": "_m/f/2/m/6/ch-teau-frontenac-wp/portrait-louis-de-buad-medium.webp",
+          "smallPath": "_m/f/2/m/6/ch-teau-frontenac-wp/portrait-louis-de-buad-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/f/2/m/6/ch-teau-frontenac-wp/f2m6-chateau-frontenac-flight-context.mp3",
+        "_m/f/2/m/6/ch-teau-frontenac-wp/f2m6-chateau-frontenac-intro.mp3",
+        "_m/f/2/m/6/ch-teau-frontenac-wp/f2m6-chateau-frontenac-a-governors-ghost-on-the-cape.mp3",
+        "_m/f/2/m/6/ch-teau-frontenac-wp/f2m6-chateau-frontenac-where-world-leaders-gathered.mp3",
+        "_m/f/2/m/6/ch-teau-frontenac-wp/f2m6-chateau-frontenac-the-tower-and-the-skyline.mp3",
+        "_m/f/2/m/6/ch-teau-frontenac-wp/f2m6-chateau-frontenac-copper-bees-and-70-000-workers.mp3",
+        "_m/f/2/m/6/ch-teau-frontenac-wp/f2m6-chateau-frontenac-the-castle-on-the-river.mp3"
+      ],
+      "combinedNarration": "_m/f/2/m/6/ch-teau-frontenac-wp/f2m6-ch-teau-frontenac-combined.mp3"
     }
   }
 }

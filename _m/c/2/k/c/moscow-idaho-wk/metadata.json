@@ -35,8 +35,8 @@
     "sourceType": "core",
     "sourceArticleId": "moscow-idaho-wk",
     "sourceGeohash4": "c2kc",
-    "smallPath": "_m/c/2/k/c/moscow-idaho-wk/hero-small.jpg",
-    "mediumPath": "_m/c/2/k/c/moscow-idaho-wk/hero-medium.jpg"
+    "smallPath": "_m/c/2/k/c/moscow-idaho-wk/hero-small.webp",
+    "mediumPath": "_m/c/2/k/c/moscow-idaho-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Moscow Idaho Banner.JPG",
@@ -108,33 +108,31 @@
       "sourceType": "core",
       "sourceArticleId": "moscow-idaho-wk",
       "sourceGeohash4": "c2kc",
-      "smallPath": "_m/c/2/k/c/moscow-idaho-wk/administration-buildin-small.jpg",
-      "mediumPath": "_m/c/2/k/c/moscow-idaho-wk/administration-buildin-medium.jpg"
+      "smallPath": "_m/c/2/k/c/moscow-idaho-wk/administration-buildin-small.webp",
+      "mediumPath": "_m/c/2/k/c/moscow-idaho-wk/administration-buildin-medium.webp"
     }
   ],
   "galleryPaths": [
     "_m/c/2/k/c/moscow-idaho-wk/administration-buildin.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:09:42.214Z",
   "updatedAt": "2026-01-29T13:08:45.934Z",
   "narration": {
     "files": [
       "c2kc-moscow-flight-context.mp3",
       "c2kc-moscow-intro.mp3",
-      "c2kc-moscow-small-town-rhythms.mp3",
       "c2kc-moscow-the-palouse.mp3",
+      "c2kc-moscow-vandal-country.mp3",
       "c2kc-moscow-trails-and-forests.mp3",
-      "c2kc-moscow-vandal-country.mp3"
+      "c2kc-moscow-small-town-rhythms.mp3"
     ],
     "durations": {
-      "c2kc-moscow-flight-context.mp3": 50.232,
-      "c2kc-moscow-intro.mp3": 53.448,
-      "c2kc-moscow-small-town-rhythms.mp3": 66.888,
-      "c2kc-moscow-the-palouse.mp3": 68.304,
-      "c2kc-moscow-trails-and-forests.mp3": 63.144,
-      "c2kc-moscow-vandal-country.mp3": 67.272
+      "c2kc-moscow-flight-context.mp3": 48.2773333,
+      "c2kc-moscow-intro.mp3": 52.8152916,
+      "c2kc-moscow-the-palouse.mp3": 70.8883333,
+      "c2kc-moscow-vandal-country.mp3": 74.411375,
+      "c2kc-moscow-trails-and-forests.mp3": 65.252,
+      "c2kc-moscow-small-town-rhythms.mp3": 63.7137083
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:57.655Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

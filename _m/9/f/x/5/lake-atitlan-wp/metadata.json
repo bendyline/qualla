@@ -23,7 +23,7 @@
       "sourceType": "poi",
       "sourceArticleId": "lake-atitlan-wp",
       "sourceGeohash4": "9fx5",
-      "smallPath": "_m/9/f/x/5/lake-atitlan-wp/lago-atitlan-small.jpg"
+      "smallPath": "_m/9/f/x/5/lake-atitlan-wp/lago-atitlan-small.webp"
     },
     {
       "filename": "LagoAtitlan.jpg",
@@ -48,7 +48,7 @@
       "sourceType": "poi",
       "sourceArticleId": "lake-atitlan-wp",
       "sourceGeohash4": "9fx5",
-      "smallPath": "_m/9/f/x/5/lake-atitlan-wp/lagoatitlan-small.jpg"
+      "smallPath": "_m/9/f/x/5/lake-atitlan-wp/lagoatitlan-small.webp"
     },
     {
       "filename": "View of San Antonio Palopó.JPG",
@@ -75,8 +75,8 @@
       "sourceType": "poi",
       "sourceArticleId": "lake-atitlan-wp",
       "sourceGeohash4": "9fx5",
-      "mediumPath": "_m/9/f/x/5/lake-atitlan-wp/view-of-san-antonio-palopo-medium.jpg",
-      "smallPath": "_m/9/f/x/5/lake-atitlan-wp/view-of-san-antonio-palopo-small.jpg"
+      "mediumPath": "_m/9/f/x/5/lake-atitlan-wp/view-of-san-antonio-palopo-medium.webp",
+      "smallPath": "_m/9/f/x/5/lake-atitlan-wp/view-of-san-antonio-palopo-small.webp"
     },
     {
       "filename": "Santa Cruz La Laguna Ascent.jpg",
@@ -103,8 +103,8 @@
       "sourceType": "poi",
       "sourceArticleId": "lake-atitlan-wp",
       "sourceGeohash4": "9fx5",
-      "mediumPath": "_m/9/f/x/5/lake-atitlan-wp/santa-cruz-la-laguna-ascent-medium.jpg",
-      "smallPath": "_m/9/f/x/5/lake-atitlan-wp/santa-cruz-la-laguna-ascent-small.jpg"
+      "mediumPath": "_m/9/f/x/5/lake-atitlan-wp/santa-cruz-la-laguna-ascent-medium.webp",
+      "smallPath": "_m/9/f/x/5/lake-atitlan-wp/santa-cruz-la-laguna-ascent-small.webp"
     }
   ],
   "galleryPaths": [
@@ -113,5 +113,26 @@
     "_m/9/f/x/5/lake-atitlan-wp/view-of-san-antonio-palopo.jpg",
     "_m/9/f/x/5/lake-atitlan-wp/santa-cruz-la-laguna-ascent.jpg"
   ],
-  "updatedAt": "2026-02-17T18:04:29.331Z"
+  "updatedAt": "2026-02-17T18:04:29.331Z",
+  "narration": {
+    "files": [
+      "9fx5-lake-atitlan-flight-context.mp3",
+      "9fx5-lake-atitlan-intro.mp3",
+      "9fx5-lake-atitlan-born-from-catastrophe.mp3",
+      "9fx5-lake-atitlan-the-wind-that-carries-sin.mp3",
+      "9fx5-lake-atitlan-maximon-and-the-maya-towns.mp3",
+      "9fx5-lake-atitlan-scars-of-war-and-water.mp3",
+      "9fx5-lake-atitlan-a-lake-under-pressure.mp3"
+    ],
+    "durations": {
+      "9fx5-lake-atitlan-flight-context.mp3": 69.931625,
+      "9fx5-lake-atitlan-intro.mp3": 54.13275,
+      "9fx5-lake-atitlan-born-from-catastrophe.mp3": 75.5575833,
+      "9fx5-lake-atitlan-the-wind-that-carries-sin.mp3": 68.9105,
+      "9fx5-lake-atitlan-maximon-and-the-maya-towns.mp3": 66.0377083,
+      "9fx5-lake-atitlan-scars-of-war-and-water.mp3": 59.4700833,
+      "9fx5-lake-atitlan-a-lake-under-pressure.mp3": 69.55775
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

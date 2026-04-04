@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "cedros-island-wp",
     "sourceGeohash4": "9mn0",
-    "smallPath": "_m/9/m/n/0/cedros-island-wp/hero-small.jpg",
-    "mediumPath": "_m/9/m/n/0/cedros-island-wp/hero-medium.jpg"
+    "smallPath": "_m/9/m/n/0/cedros-island-wp/hero-small.webp",
+    "mediumPath": "_m/9/m/n/0/cedros-island-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Isla de los Cedros.png",
@@ -80,7 +80,7 @@
       "sourceType": "core",
       "sourceArticleId": "cedros-island-wp",
       "sourceGeohash4": "9mn0",
-      "smallPath": "_m/9/m/n/0/cedros-island-wp/shell-fish-hook-small.jpg"
+      "smallPath": "_m/9/m/n/0/cedros-island-wp/shell-fish-hook-small.webp"
     },
     {
       "filename": "Cedros.jpg",
@@ -105,7 +105,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cedros-island-wp",
-      "sourceGeohash4": "9mn0"
+      "sourceGeohash4": "9mn0",
+      "mediumPath": "_m/9/m/n/0/cedros-island-wp/cedros-medium.webp",
+      "smallPath": "_m/9/m/n/0/cedros-island-wp/cedros-small.webp"
     },
     {
       "filename": "Mexico - Cedros.PNG",
@@ -128,7 +130,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cedros-island-wp",
-      "sourceGeohash4": "9mn0"
+      "sourceGeohash4": "9mn0",
+      "smallPath": "_m/9/m/n/0/cedros-island-wp/mexico-cedros-small.webp"
     },
     {
       "filename": "Cedros BC.PNG",
@@ -151,7 +154,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cedros-island-wp",
-      "sourceGeohash4": "9mn0"
+      "sourceGeohash4": "9mn0",
+      "smallPath": "_m/9/m/n/0/cedros-island-wp/cedros-bc-small.webp"
     },
     {
       "filename": "Cedros Island.jpg",
@@ -173,7 +177,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cedros-island-wp",
-      "sourceGeohash4": "9mn0"
+      "sourceGeohash4": "9mn0",
+      "smallPath": "_m/9/m/n/0/cedros-island-wp/cedros-island-small.webp"
     }
   ],
   "galleryPaths": [
@@ -183,7 +188,6 @@
     "_m/9/m/n/0/cedros-island-wp/cedros-bc.png",
     "_m/9/m/n/0/cedros-island-wp/cedros-island.jpg"
   ],
-  "fetchedAt": "2026-02-21T20:24:33.335Z",
   "narration": {
     "files": [
       "9mn0-cedros-island-flight-context.mp3",
@@ -195,7 +199,6 @@
       "9mn0-cedros-island-modern-cedros.mp3"
     ],
     "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-23T14:43:21.231Z",
     "durations": {
       "9mn0-cedros-island-flight-context.mp3": 34.2822916,
       "9mn0-cedros-island-intro.mp3": 38.833,

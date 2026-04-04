@@ -52,21 +52,40 @@
       "title": "1979 Ghaenat earthquakes - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/1979_Ghaenat_earthquakes",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Corrected: November 14 Korizan earthquake magnitude from 6.8 to 6.6 Mw", "November 14 earthquake on Abiz Fault confirmed (right-lateral strike-slip)", "280-420 deaths confirmed with 279 injured", "Adults in saffron fields at 5:51 AM timing confirmed - children were the majority of casualties", "November 27 second quake on Dasht-e-Bayaz Fault confirmed at Mw 7.1-7.2", "Second quake killing only 20 additional people confirmed", "Second quake MMI X (Extreme) confirmed", "Fault systems linked - first quake triggering second via stress redistribution described in sources", "Two fault systems Abiz (north-south) and Dasht-e-Bayaz (east-west) confirmed"]
+      "claimsVerified": [
+        "Corrected: November 14 Korizan earthquake magnitude from 6.8 to 6.6 Mw",
+        "November 14 earthquake on Abiz Fault confirmed (right-lateral strike-slip)",
+        "280-420 deaths confirmed with 279 injured",
+        "Adults in saffron fields at 5:51 AM timing confirmed - children were the majority of casualties",
+        "November 27 second quake on Dasht-e-Bayaz Fault confirmed at Mw 7.1-7.2",
+        "Second quake killing only 20 additional people confirmed",
+        "Second quake MMI X (Extreme) confirmed",
+        "Fault systems linked - first quake triggering second via stress redistribution described in sources",
+        "Two fault systems Abiz (north-south) and Dasht-e-Bayaz (east-west) confirmed"
+      ]
     },
     {
       "type": "verification",
       "title": "1997 Qayen earthquake - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/1997_Qayen_earthquake",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Corrected: 1997 Qayen earthquake magnitude from 7.1 to 7.3 Mw (7.2 Ms)", "1,567 deaths confirmed (over 1,500 accurate)", "Caused by rupture along Abiz Fault confirmed", "110 km ground rupture confirmed"]
+      "claimsVerified": [
+        "Corrected: 1997 Qayen earthquake magnitude from 7.1 to 7.3 Mw (7.2 Ms)",
+        "1,567 deaths confirmed (over 1,500 accurate)",
+        "Caused by rupture along Abiz Fault confirmed",
+        "110 km ground rupture confirmed"
+      ]
     },
     {
       "type": "verification",
       "title": "Korizan-Khaf Earthquake of 14 November 1979 - IIEES",
       "url": "http://old.iiees.ac.ir/en/16183/",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Magnitude Ms 6.6 confirmed", "20 km of right-lateral rupture on northern Abiz Fault confirmed", "Maximum horizontal offsets up to 2.6 m confirmed"]
+      "claimsVerified": [
+        "Magnitude Ms 6.6 confirmed",
+        "20 km of right-lateral rupture on northern Abiz Fault confirmed",
+        "Maximum horizontal offsets up to 2.6 m confirmed"
+      ]
     }
   ],
   "editorial": {
@@ -125,34 +144,35 @@
       "distanceKm": 178.7
     },
     "sw": {
-      "id": "chak-chak-yazd-wp",
-      "title": "Chak Chak",
-      "tile": "tjy8",
+      "id": "1947-dustabad-earthquake-wp",
+      "title": "1947 Dustabad Earthquake",
+      "tile": "tmcx",
       "coordinates": {
-        "lat": 32.348094444444,
-        "lng": 54.408622222222
+        "lat": 33.604,
+        "lng": 58.642
       },
-      "distanceKm": 460.9
+      "distanceKm": 42.2
     },
     "s": {
-      "id": "tomb-of-sayyed-rukn-ad-din-wp",
-      "title": "Tomb of Sayyed Rukn ad-Din",
-      "tile": "tjwt",
+      "id": "furg-citadel-wp",
+      "title": "Furg Citadel",
+      "tile": "tmfd",
       "coordinates": {
-        "lat": 31.901055555555555,
-        "lng": 54.36975
+        "lat": 32.845,
+        "lng": 59.94833333333333
       },
-      "distanceKm": 529.2
+      "distanceKm": 106
     },
     "se": {
-      "id": "bampur-wp",
-      "title": "Bampur",
-      "tile": "tkff",
+      "id": "farah-citadel-wp",
+      "title": "Farah Citadel",
+      "tile": "tmu0",
       "coordinates": {
-        "lat": 27.194444444444,
-        "lng": 60.455833333333
+        "lat": 32.38264,
+        "lng": 62.11211
       },
-      "distanceKm": 729.7
+      "distanceKm": 240.1
     }
-  }
+  },
+  "locationWikipediaPath": "t/q/4/3/1979-ghaenat-earthquakes-wp"
 }

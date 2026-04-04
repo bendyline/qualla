@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "peshtigo-fire-wk",
     "sourceGeohash4": "f018",
-    "smallPath": "_m/f/0/1/8/peshtigo-fire-wk/hero-small.jpg",
-    "mediumPath": "_m/f/0/1/8/peshtigo-fire-wk/hero-medium.jpg"
+    "smallPath": "_m/f/0/1/8/peshtigo-fire-wk/hero-small.webp",
+    "mediumPath": "_m/f/0/1/8/peshtigo-fire-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "PeshtigoFireSurvivingLumber.jpg",
@@ -74,7 +74,7 @@
       "sourceType": "core",
       "sourceArticleId": "peshtigo-fire-wk",
       "sourceGeohash4": "f018",
-      "smallPath": "_m/f/0/1/8/peshtigo-fire-wk/exterior-en-peshtigo-f-small.jpg"
+      "smallPath": "_m/f/0/1/8/peshtigo-fire-wk/exterior-en-peshtigo-f-small.webp"
     },
     {
       "filename": "The Peshtigo Fire showing people seeking refuge in the Peshtigo River.jpg",
@@ -99,7 +99,7 @@
       "sourceType": "core",
       "sourceArticleId": "peshtigo-fire-wk",
       "sourceGeohash4": "f018",
-      "smallPath": "_m/f/0/1/8/peshtigo-fire-wk/peshtigo-fire-showing-small.jpg"
+      "smallPath": "_m/f/0/1/8/peshtigo-fire-wk/peshtigo-fire-showing-small.webp"
     },
     {
       "filename": "1871-peshtigo-fire-historical-events-u2.jpg",
@@ -122,7 +122,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "peshtigo-fire-wk",
-      "sourceGeohash4": "f018"
+      "sourceGeohash4": "f018",
+      "smallPath": "_m/f/0/1/8/peshtigo-fire-wk/1871-peshtigo-fire-historical--small.webp"
     }
   ],
   "galleryPaths": [
@@ -130,7 +131,6 @@
     "_m/f/0/1/8/peshtigo-fire-wk/peshtigo-fire-showing.jpg",
     "_m/f/0/1/8/peshtigo-fire-wk/1871-peshtigo-fire-historical-.jpg"
   ],
-  "fetchedAt": "2026-02-22T12:45:44.910Z",
   "narration": {
     "files": [
       "f018-the-peshtigo-fire-the-deadliest-fire-in-american-h-flight-context.mp3",
@@ -150,8 +150,7 @@
       "f018-the-peshtigo-fire-the-deadliest-fire-in-american-h-the-toll.mp3": 61.8743333,
       "f018-the-peshtigo-fire-the-deadliest-fire-in-american-h-the-forgotten-fire.mp3": 51.9493333
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-25T12:04:38.542Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T12:45:45.474Z"
 }

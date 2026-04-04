@@ -1,0 +1,168 @@
+{
+  "id": "hydrogen-epoch-of-reionization-array-wp",
+  "source": "wikipedia",
+  "sourceId": "55195403",
+  "title": "Hydrogen Epoch of Reionization Array",
+  "slug": "hydrogen-epoch-of-reionization-array",
+  "summary": "A radio telescope in South Africa's Karoo desert built from wood and PVC pipes, listening for whispers from the first stars that ever shone.",
+  "content": {
+    "intro": "Somewhere in the Karoo, 350 dishes made of wood, wire mesh, and PVC pipes stare straight up at the sky. They cannot move. They cannot take pretty pictures. What the Hydrogen Epoch of Reionization Array does instead is something no other instrument on Earth has been optimized to do: it listens for the faintest radio signal in the universe, a whisper left behind by the very first stars.",
+    "sections": [
+      {
+        "title": "The Cosmic Dark Age",
+        "body": "For hundreds of millions of years after the Big Bang, the universe was dark. Hydrogen gas filled space in a cold, featureless fog, absorbing the fading glow of the cosmic microwave background. Then the first stars ignited, and their ultraviolet radiation began tearing electrons from hydrogen atoms in a process called reionization. This transformation did not happen everywhere at once. It spread in bubbles, like holes burning through a sheet of paper, until the fog was gone entirely. HERA exists to map that transformation. By tuning into hydrogen's signature radio frequency at 1420 MHz and accounting for the cosmological redshift that stretches it down to between 50 and 250 MHz, the telescope can peer back to a time when the universe was less than a billion years old. The signal it seeks is roughly ten millikelvin strong, buried under foreground noise that is ten thousand times louder."
+      },
+      {
+        "title": "Why the Karoo",
+        "body": "The frequency band HERA uses overlaps with FM radio, television broadcasts, and countless other terrestrial transmissions. In most places on Earth, these signals would drown the cosmological whisper completely. The Karoo desert near Carnarvon, South Africa, offers something vanishingly rare: radio silence. The region is so sparsely populated and so carefully protected under the Astronomy Geographic Advantage Act of 2007 that it has become one of the quietest spots on the planet for radio astronomy. Even the sun causes problems, limiting observations to nighttime, and the bright swath of the Milky Way must be avoided too. These constraints squeeze HERA's annual observing window down to roughly four months. The telescope makes every hour count."
+      },
+      {
+        "title": "An Unconventional Design",
+        "body": "Most radio interferometers spread their antennas to maximize unique baselines, producing sharp images of individual objects. HERA does the opposite. Its dishes are packed into a hexagonal grid, deliberately creating many identical baselines whose signals can be stacked to amplify the faintest patterns. Image quality suffers, but sensitivity soars. Each antenna is a 14-meter parabolic dish built from wire mesh stretched over a wooden frame, with a cross-dipole feed suspended at its focus. The materials sound almost primitive, but the dish size is precisely calculated so that any standing waves form below 50 MHz, safely outside the observing band. When complete, the array will hold 350 antennas, 318 in a dense hexagonal core 300 meters across and 32 in outlying positions. Its total collecting area of 54,000 square meters rivals what the Arecibo Observatory once offered."
+      },
+      {
+        "title": "Measuring the Unmeasurable",
+        "body": "HERA will not produce glossy photographs of ancient galaxies. The cosmological signal is too faint and the foreground too overwhelming for that. Instead, the telescope will measure the power spectrum of hydrogen fluctuations across cosmic time, detecting statistical patterns in how warm ionized bubbles grew and merged around the first stars. It is the same approach that early cosmic microwave background experiments used before technology allowed detailed all-sky maps. The foreground noise from quasars and galactic synchrotron radiation is spectrally smooth, while the reionization signal has narrow features. By subtracting the smooth component, astronomers hope to reveal structure beneath. This demands an instrument with an extraordinarily clean spectral response, which is why HERA's designers obsess over every detail of the antenna geometry and signal chain."
+      },
+      {
+        "title": "A Stepping Stone to the SKA",
+        "body": "HERA is one of four precursor instruments for the Square Kilometre Array, the most ambitious radio telescope ever planned. Alongside MeerKAT in the same Karoo park, and the Australian SKA Pathfinder and Murchison Widefield Array in Western Australia, HERA tests technologies and refines science strategies that will feed into the full SKA design. The collaboration stretches across continents, linking the University of California Berkeley, Cambridge University, and South African institutions. From the air, the array is a geometric abstraction on the rust-red desert floor, hundreds of identical circles arranged with mathematical precision. It looks nothing like a traditional telescope. But then, it is not looking at the universe we can see. It is listening for the one that came before."
+      }
+    ],
+    "flightContext": "Located at 30.72S, 21.43E in the Karoo desert of South Africa's Northern Cape province, within Meerkat National Park. Best viewed from above 10,000 feet where the hexagonal array pattern is visible against the desert floor. Nearest airport is Carnarvon (no ICAO code for commercial use); Upington Airport (FAUP) is the nearest major facility, approximately 250 km northeast. The site sits in a radio quiet zone, so expect minimal ground-based radio navigation aids in the vicinity."
+  },
+  "location": {
+    "coordinates": {
+      "lat": -30.721457,
+      "lng": 21.4282228
+    },
+    "geohash": "k6x1p"
+  },
+  "categories": [
+    "radio telescopes",
+    "science",
+    "astronomy"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-09T00:00:00Z",
+    "wordCount": 750,
+    "readTime": 4,
+    "firstPublished": "2026-03-09T00:00:00Z",
+    "storyNumber": 7283
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - Hydrogen Epoch of Reionization Array",
+      "url": "https://en.wikipedia.org/wiki/Hydrogen_Epoch_of_Reionization_Array",
+      "accessedAt": "2026-03-12",
+      "claimsVerified": [
+        "located in Karoo desert near Carnarvon, South Africa confirmed",
+        "350 antennas total: 318 in hexagonal core 300m across plus 32 outlying",
+        "14-meter parabolic dishes made from wire mesh, PVC pipes, and wooden frames — confirmed correct",
+        "observing frequency 50-250 MHz (accounting for cosmological redshift of 1420 MHz hydrogen line)",
+        "target signal approximately 10 millikelvin, foreground noise 10,000 times louder",
+        "Astronomy Geographic Advantage Act of 2007 protects radio-quiet zone",
+        "total collecting area 54,000 square meters",
+        "one of four SKA precursor instruments alongside MeerKAT, ASKAP, MWA",
+        "partners include UC Berkeley, Cambridge University, and South African institutions"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "SARAO - HERA",
+      "url": "https://www.sarao.ac.za/science/hera/",
+      "accessedAt": "2026-03-12",
+      "claimsVerified": [
+        "Karoo location confirmed, near Carnarvon in South African Karoo Astronomy Reserve"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "battle-of-kakamas-wp",
+      "title": "Battle of Kakamas",
+      "tile": "k6ys",
+      "coordinates": {
+        "lat": -28.8,
+        "lng": 20.65
+      },
+      "distanceKm": 179.3
+    },
+    "n": {
+      "id": "verneukpan-wp",
+      "title": "Verneukpan",
+      "tile": "k6xj",
+      "coordinates": {
+        "lat": -30.008363888889,
+        "lng": 21.144691666667
+      },
+      "distanceKm": 46.3
+    },
+    "ne": {
+      "id": "koegas-mine-wp",
+      "title": "Koegas Mine",
+      "tile": "k6zc",
+      "coordinates": {
+        "lat": -29.299722222222222,
+        "lng": 22.354166666666668
+      },
+      "distanceKm": 134.7
+    },
+    "w": {
+      "id": "knersvlakte-wp",
+      "title": "Knersvlakte",
+      "tile": "k6mq",
+      "coordinates": {
+        "lat": -31.208888888889,
+        "lng": 18.869166666667
+      },
+      "distanceKm": 188.3
+    },
+    "e": {
+      "id": "karoo-wp",
+      "title": "Karoo",
+      "tile": "k6rb",
+      "coordinates": {
+        "lat": -32.27,
+        "lng": 22.31
+      },
+      "distanceKm": 184
+    },
+    "sw": {
+      "id": "oorlogskloof-nature-reserve-wp",
+      "title": "Oorlogskloof Nature Reserve",
+      "tile": "k6mt",
+      "coordinates": {
+        "lat": -31.45,
+        "lng": 19.15
+      },
+      "distanceKm": 161.8
+    },
+    "s": {
+      "id": "peperbus-wp",
+      "title": "Peperbus",
+      "tile": "k6r6",
+      "coordinates": {
+        "lat": -31.91343611111111,
+        "lng": 21.512269444444446
+      },
+      "distanceKm": 110.9
+    },
+    "se": {
+      "id": "karoo-national-park-wk",
+      "title": "Karoo National Park",
+      "tile": "k6rb",
+      "coordinates": {
+        "lat": -32.2622,
+        "lng": 22.3091
+      },
+      "distanceKm": 155.1
+    }
+  },
+  "locationWikipediaPath": "k/6/x/1/hydrogen-epoch-of-reionization-array-wp"
+}

@@ -25,8 +25,8 @@
     "sourceType": "core",
     "sourceArticleId": "flower-garden-of-isfahan-wp",
     "sourceGeohash4": "tjuc",
-    "mediumPath": "_m/t/j/u/c/flower-garden-of-isfahan-wp/hero-medium.jpg",
-    "smallPath": "_m/t/j/u/c/flower-garden-of-isfahan-wp/hero-small.jpg"
+    "mediumPath": "_m/t/j/u/c/flower-garden-of-isfahan-wp/hero-medium.webp",
+    "smallPath": "_m/t/j/u/c/flower-garden-of-isfahan-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Flowers garden Isfahan Aarash (21).jpg",
@@ -106,7 +106,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "flower-garden-of-isfahan-wp",
       "sourceGeohash4": "tjuc",
-      "smallPath": "_m/t/j/u/c/flower-garden-of-isfahan-wp/asclepias-curassavica-small.jpg"
+      "smallPath": "_m/t/j/u/c/flower-garden-of-isfahan-wp/asclepias-curassavica-small.webp"
     },
     {
       "filename": "Flowers garden Isfahan Aarash (10).jpg",
@@ -132,8 +132,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "flower-garden-of-isfahan-wp",
       "sourceGeohash4": "tjuc",
-      "mediumPath": "_m/t/j/u/c/flower-garden-of-isfahan-wp/flowers-garden-isfahan-aarash--1-medium.jpg",
-      "smallPath": "_m/t/j/u/c/flower-garden-of-isfahan-wp/flowers-garden-isfahan-aarash--1-small.jpg"
+      "mediumPath": "_m/t/j/u/c/flower-garden-of-isfahan-wp/flowers-garden-isfahan-aarash--1-medium.webp",
+      "smallPath": "_m/t/j/u/c/flower-garden-of-isfahan-wp/flowers-garden-isfahan-aarash--1-small.webp"
     },
     {
       "filename": "Flowers garden Isfahan Aarash (11).jpg",
@@ -159,8 +159,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "flower-garden-of-isfahan-wp",
       "sourceGeohash4": "tjuc",
-      "mediumPath": "_m/t/j/u/c/flower-garden-of-isfahan-wp/flowers-garden-isfahan-aarash--2-medium.jpg",
-      "smallPath": "_m/t/j/u/c/flower-garden-of-isfahan-wp/flowers-garden-isfahan-aarash--2-small.jpg"
+      "mediumPath": "_m/t/j/u/c/flower-garden-of-isfahan-wp/flowers-garden-isfahan-aarash--2-medium.webp",
+      "smallPath": "_m/t/j/u/c/flower-garden-of-isfahan-wp/flowers-garden-isfahan-aarash--2-small.webp"
     },
     {
       "filename": "Flower Garden - Isfahan (4598312622).jpg",
@@ -178,8 +178,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "flower-garden-of-isfahan-wp",
       "sourceGeohash4": "tjuc",
-      "mediumPath": "_m/t/j/u/c/flower-garden-of-isfahan-wp/flower-garden-isfahan-45983126-medium.jpg",
-      "smallPath": "_m/t/j/u/c/flower-garden-of-isfahan-wp/flower-garden-isfahan-45983126-small.jpg"
+      "mediumPath": "_m/t/j/u/c/flower-garden-of-isfahan-wp/flower-garden-isfahan-45983126-medium.webp",
+      "smallPath": "_m/t/j/u/c/flower-garden-of-isfahan-wp/flower-garden-isfahan-45983126-small.webp"
     }
   ],
   "galleryPaths": [
@@ -189,6 +189,24 @@
     "_m/t/j/u/c/flower-garden-of-isfahan-wp/flowers-garden-isfahan-aarash--2.jpg",
     "_m/t/j/u/c/flower-garden-of-isfahan-wp/flower-garden-isfahan-45983126.jpg"
   ],
-  "fetchedAt": "2026-03-01T09:00:38.377Z",
-  "updatedAt": "2026-03-01T09:01:10.112Z"
+  "updatedAt": "2026-03-01T09:01:10.112Z",
+  "narration": {
+    "files": [
+      "tjuc-flower-garden-of-isfahan-flight-context.mp3",
+      "tjuc-flower-garden-of-isfahan-intro.mp3",
+      "tjuc-flower-garden-of-isfahan-a-carpet-made-of-petals.mp3",
+      "tjuc-flower-garden-of-isfahan-gathering-the-flora-of-iran.mp3",
+      "tjuc-flower-garden-of-isfahan-water-and-shelter.mp3",
+      "tjuc-flower-garden-of-isfahan-where-isfahan-breathes.mp3"
+    ],
+    "durations": {
+      "tjuc-flower-garden-of-isfahan-flight-context.mp3": 36.6102083,
+      "tjuc-flower-garden-of-isfahan-intro.mp3": 45.014375,
+      "tjuc-flower-garden-of-isfahan-a-carpet-made-of-petals.mp3": 45.857625,
+      "tjuc-flower-garden-of-isfahan-gathering-the-flora-of-iran.mp3": 60.17425,
+      "tjuc-flower-garden-of-isfahan-water-and-shelter.mp3": 44.0747916,
+      "tjuc-flower-garden-of-isfahan-where-isfahan-breathes.mp3": 58.3954583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

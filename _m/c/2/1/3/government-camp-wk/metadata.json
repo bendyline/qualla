@@ -30,8 +30,8 @@
     "sourceType": "core",
     "sourceArticleId": "government-camp-wk",
     "sourceGeohash4": "c213",
-    "smallPath": "_m/c/2/1/3/government-camp-wk/hero-small.jpg",
-    "mediumPath": "_m/c/2/1/3/government-camp-wk/hero-medium.jpg"
+    "smallPath": "_m/c/2/1/3/government-camp-wk/hero-small.webp",
+    "mediumPath": "_m/c/2/1/3/government-camp-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Government Camp Banner.JPG",
@@ -66,25 +66,24 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-02-22T01:51:30.861Z",
   "updatedAt": "2026-02-22T01:52:41.797Z",
   "narration": {
     "files": [
-      "c213-government-camp-alpine-village-life.mp3",
       "c213-government-camp-flight-context.mp3",
       "c213-government-camp-intro.mp3",
+      "c213-government-camp-year-round-skiing.mp3",
       "c213-government-camp-oregon-trail-terminus.mp3",
-      "c213-government-camp-the-mountain-above.mp3",
-      "c213-government-camp-year-round-skiing.mp3"
+      "c213-government-camp-alpine-village-life.mp3",
+      "c213-government-camp-the-mountain-above.mp3"
     ],
-    "generatedAt": "2026-01-19T20:21:49.600Z",
     "durations": {
-      "c213-government-camp-alpine-village-life.mp3": 61.32,
-      "c213-government-camp-flight-context.mp3": 44.304,
-      "c213-government-camp-intro.mp3": 41.184,
-      "c213-government-camp-oregon-trail-terminus.mp3": 59.424,
-      "c213-government-camp-the-mountain-above.mp3": 65.208,
-      "c213-government-camp-year-round-skiing.mp3": 52.104
-    }
+      "c213-government-camp-flight-context.mp3": 45.41725,
+      "c213-government-camp-intro.mp3": 39.63075,
+      "c213-government-camp-year-round-skiing.mp3": 55.4758333,
+      "c213-government-camp-oregon-trail-terminus.mp3": 63.0198333,
+      "c213-government-camp-alpine-village-life.mp3": 58.8904166,
+      "c213-government-camp-the-mountain-above.mp3": 68.5982083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

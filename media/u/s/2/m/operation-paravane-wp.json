@@ -1,0 +1,79 @@
+{
+  "id": "operation-paravane-wp",
+  "patch": {
+    "media": {
+      "hero": {
+        "path": "_m/u/s/2/m/operation-paravane-wp/hero.jpg",
+        "filename": "British Avro Lancaster bomber over Kaafjord during Operation Paravane.jpg",
+        "caption": "A British Lancaster bomber over  Kaafjord, Norway during the Operation Paravane raid on the German Battleship Tirpitz. Imperial War Museum Catalogue number C 4873",
+        "alt": "A British Lancaster bomber over  Kaafjord, Norway during the Operation Paravane raid on the German Battleship Tirpitz. Imperial War Museum Catalogue number C 4873",
+        "width": 2445,
+        "height": 1772,
+        "mimeType": "image/jpeg",
+        "license": "Public domain",
+        "artist": "No. 5 Group RAF",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_Avro_Lancaster_bomber_over_Kaafjord_during_Operation_Paravane.jpg",
+        "sourceType": "core",
+        "sourceArticleId": "operation-paravane-wp",
+        "sourceGeohash4": "us2m",
+        "categories": [
+          "Avro Lancaster",
+          "Operation Paravane",
+          "PD-scan (PD-UKGov)",
+          "UK Government artistic works"
+        ],
+        "mediumPath": "_m/u/s/2/m/operation-paravane-wp/hero-medium.webp",
+        "smallPath": "_m/u/s/2/m/operation-paravane-wp/hero-small.webp"
+      },
+      "images": [
+        {
+          "path": "_m/u/s/2/m/operation-paravane-wp/60-00-76-00-39-00-x-ex.jpg",
+          "filename": "Relief Map of Northwestern Federal District.jpg",
+          "caption": "Физическая карта Северо-Западного федерального округа\nПроекция — коническая равнопромежуточная.\nпервая стандартная параллель — 60°00′с.ш.\nвторая стандартная параллель — 76°00′с.ш.\nсредний меридиан — 39°00′в.д.\nФормулы расчёта координат:\nx = {{#expr: 50 + 190.9859317 * (1.588221132 - ({{{2}}}*pi / 180)) * sin(0.924174135 * ({{{1}}} - 39) * pi / 180) * 1.244166667}}\ny = {{#expr: 50 - 190.9859317 * (0.401397241 - (1.588221132 - ({{{2}}}*pi / 180)) * cos(0.924174135 * ({{{1}}} - 39) * pi / 180))}}",
+          "alt": "Физическая карта Северо-Западного федерального округа\nПроекция — коническая равнопромежуточная.\nпервая стандартная параллель — 60°00′с.ш.\nвторая стандартная параллель — 76°00′с.ш.\nсредний меридиан — 39°00′в.д.\nФормулы расчёта координат:\nx = {{#expr: 50 + 190.9859317 * (1.588221132 - ({{{2}}}*pi / 180)) * sin(0.924174135 * ({{{1}}} - 39) * pi / 180) * 1.244166667}}\ny = {{#expr: 50 - 190.9859317 * (0.401397241 - (1.588221132 - ({{{2}}}*pi / 180)) * cos(0.924174135 * ({{{1}}} - 39) * pi / 180))}}",
+          "width": 1200,
+          "height": 1493,
+          "mimeType": "image/jpeg",
+          "license": "Public domain",
+          "artist": "Виктор В",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Relief_Map_of_Northwestern_Federal_District.jpg",
+          "sourceType": "core",
+          "sourceArticleId": "operation-paravane-wp",
+          "sourceGeohash4": "us2m",
+          "categories": [
+            "Location maps of Russian Federal Districts",
+            "Northwestern Federal District",
+            "PD-self",
+            "Self-published work"
+          ],
+          "smallPath": "_m/u/s/2/m/operation-paravane-wp/60-00-76-00-39-00-x-ex-small.webp"
+        },
+        {
+          "path": "_m/u/s/2/m/operation-paravane-wp/no-617-squadron-lancas.jpg",
+          "filename": "A No 617 Squadron Lancaster which crashed in the USSR during Operation Paravane in 1944.jpg",
+          "caption": "A No 617 Squadron Lancaster which crashed at Kegostrov in the USSR before the attack on the German battleship Tirpitz during Operation Paravane",
+          "alt": "A No 617 Squadron Lancaster which crashed at Kegostrov in the USSR before the attack on the German battleship Tirpitz during Operation Paravane",
+          "width": 1300,
+          "height": 957,
+          "mimeType": "image/jpeg",
+          "license": "Public domain",
+          "artist": "Unidentified member of the Royal Air Force",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_No_617_Squadron_Lancaster_which_crashed_in_the_USSR_during_Operation_Paravane_in_1944.jpg",
+          "sourceType": "core",
+          "sourceArticleId": "operation-paravane-wp",
+          "sourceGeohash4": "us2m",
+          "categories": [
+            "1944 in the Soviet Union",
+            "Avro Lancaster",
+            "Kegostrov",
+            "No. 617 Squadron RAF in World War II",
+            "Operation Paravane",
+            "PD-scan (PD-UKGov)",
+            "UK Government artistic works"
+          ],
+          "smallPath": "_m/u/s/2/m/operation-paravane-wp/no-617-squadron-lancas-small.webp"
+        }
+      ]
+    }
+  }
+}

@@ -26,8 +26,8 @@
           "Photos from Panoramio ID 1317158",
           "White Bridge (Ahvaz)"
         ],
-        "mediumPath": "_m/t/j/d/d/ahvaz-wk/hero-medium.jpg",
-        "smallPath": "_m/t/j/d/d/ahvaz-wk/hero-small.jpg"
+        "mediumPath": "_m/t/j/d/d/ahvaz-wk/hero-medium.webp",
+        "smallPath": "_m/t/j/d/d/ahvaz-wk/hero-small.webp"
       },
       "images": [
         {
@@ -52,8 +52,8 @@
             "Wikivoyage banners by Missvain",
             "Wikivoyage banners of Iran"
           ],
-          "mediumPath": "_m/t/j/d/d/ahvaz-wk/ahvaz-wikivoyage-banne-medium.jpg",
-          "smallPath": "_m/t/j/d/d/ahvaz-wk/ahvaz-wikivoyage-banne-small.jpg"
+          "mediumPath": "_m/t/j/d/d/ahvaz-wk/ahvaz-wikivoyage-banne-medium.webp",
+          "smallPath": "_m/t/j/d/d/ahvaz-wk/ahvaz-wikivoyage-banne-small.webp"
         },
         {
           "path": "_m/t/j/d/d/ahvaz-wk/ahvaz.png",
@@ -70,7 +70,7 @@
           "sourceArticleId": "ahvaz-wk",
           "sourceGeohash4": "tjdd",
           "accessedAt": "2026-03-01T06:24:41.019Z",
-          "smallPath": "_m/t/j/d/d/ahvaz-wk/ahvaz-small.png"
+          "smallPath": "_m/t/j/d/d/ahvaz-wk/ahvaz-small.webp"
         },
         {
           "path": "_m/t/j/d/d/ahvaz-wk/ahvaz-atisha-2584.png",
@@ -87,7 +87,7 @@
           "sourceArticleId": "ahvaz-wk",
           "sourceGeohash4": "tjdd",
           "accessedAt": "2026-03-01T06:24:41.019Z",
-          "smallPath": "_m/t/j/d/d/ahvaz-wk/ahvaz-atisha-2584-small.png"
+          "smallPath": "_m/t/j/d/d/ahvaz-wk/ahvaz-atisha-2584-small.webp"
         },
         {
           "path": "_m/t/j/d/d/ahvaz-wp/ali-mahziar.jpg",
@@ -423,7 +423,17 @@
           "sourceGeohash4": "tjdd",
           "accessedAt": "2026-03-01T06:24:41.019Z"
         }
-      ]
+      ],
+      "narration": [
+        "_m/t/j/d/d/ahvaz-wk/tjdd-ahvaz-flight-context.mp3",
+        "_m/t/j/d/d/ahvaz-wk/tjdd-ahvaz-intro.mp3",
+        "_m/t/j/d/d/ahvaz-wk/tjdd-ahvaz-where-scholars-once-gathered.mp3",
+        "_m/t/j/d/d/ahvaz-wk/tjdd-ahvaz-the-river-that-divides-and-defines.mp3",
+        "_m/t/j/d/d/ahvaz-wk/tjdd-ahvaz-crude-awakening.mp3",
+        "_m/t/j/d/d/ahvaz-wk/tjdd-ahvaz-living-in-the-furnace.mp3",
+        "_m/t/j/d/d/ahvaz-wk/tjdd-ahvaz-between-two-worlds.mp3"
+      ],
+      "combinedNarration": "_m/t/j/d/d/ahvaz-wk/tjdd-ahvaz-combined.mp3"
     }
   }
 }

@@ -75,24 +75,24 @@
   ],
   "directionalNeighbors": {
     "nw": {
-      "id": "vancouver-island-wk",
-      "title": "Vancouver Island",
-      "tile": "c0yc",
+      "id": "kolponomos-wp",
+      "title": "Kolponomos",
+      "tile": "c0xd",
       "coordinates": {
-        "lat": 49.5,
-        "lng": -125.5
+        "lat": 48.3,
+        "lng": -124.2
       },
-      "distanceKm": 196.9
+      "distanceKm": 35.4
     },
     "n": {
-      "id": "victoria-city-wk",
-      "title": "Victoria: The British Columbia Capital More British Than Britain",
-      "tile": "c287",
+      "id": "storm-king-ranger-station-wp",
+      "title": "Storm King Ranger Station",
+      "tile": "c0xc",
       "coordinates": {
-        "lat": 48.4284,
-        "lng": -123.3656
+        "lat": 48.0581,
+        "lng": -123.787
       },
-      "distanceKm": 51.3
+      "distanceKm": 17.6
     },
     "ne": {
       "id": "port-townsend-wk",
@@ -105,44 +105,44 @@
       "distanceKm": 25.7
     },
     "w": {
-      "id": "alert-bay-wk",
-      "title": "Alert Bay",
-      "tile": "c0vx",
+      "id": "duncan-cedar-wp",
+      "title": "Duncan Cedar",
+      "tile": "c0rx",
       "coordinates": {
-        "lat": 50.5856,
-        "lng": -126.9319
+        "lat": 47.71958333333333,
+        "lng": -124.31505555555555
       },
-      "distanceKm": 378.8
+      "distanceKm": 16
     },
     "e": {
-      "id": "bremerton-wk",
-      "title": "Bremerton",
-      "tile": "c22y",
+      "id": "united-states-naval-undersea-museum-wp",
+      "title": "United States Naval Undersea Museum",
+      "tile": "c22z",
       "coordinates": {
-        "lat": 47.57,
-        "lng": -122.6525
+        "lat": 47.7004,
+        "lng": -122.6249
       },
-      "distanceKm": 34.2
+      "distanceKm": 31.7
     },
     "sw": {
-      "id": "kalaupapa-national-historical-park-wk",
-      "title": "Kalaupapa National Historical Park",
-      "tile": "8eb2",
+      "id": "washington-maritime-national-wildlife-refuge-complex-wp",
+      "title": "Washington Maritime National Wildlife Refuge Complex",
+      "tile": "c0rt",
       "coordinates": {
-        "lat": 21.1778,
-        "lng": -156.96
+        "lat": 47.3998039,
+        "lng": -124.3304646
       },
-      "distanceKm": 4144.6
+      "distanceKm": 18.5
     },
     "s": {
-      "id": "olympia-washington-wk",
-      "title": "Olympia (Washington)",
-      "tile": "c22e",
+      "id": "quinault-national-fish-hatchery-wp",
+      "title": "Quinault National Fish Hatchery",
+      "tile": "c0rv",
       "coordinates": {
-        "lat": 47.042,
-        "lng": -122.893
+        "lat": 47.356666666667,
+        "lng": -123.99138888889
       },
-      "distanceKm": 69.4
+      "distanceKm": 33.5
     },
     "se": {
       "id": "gig-harbor-wk",

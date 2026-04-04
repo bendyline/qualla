@@ -25,8 +25,8 @@
     "sourceType": "core",
     "sourceArticleId": "dockery-plantation-wp",
     "sourceGeohash4": "9vzx",
-    "smallPath": "_m/9/v/z/x/dockery-plantation-wp/hero-small.jpg",
-    "mediumPath": "_m/9/v/z/x/dockery-plantation-wp/hero-medium.jpg"
+    "smallPath": "_m/9/v/z/x/dockery-plantation-wp/hero-small.webp",
+    "mediumPath": "_m/9/v/z/x/dockery-plantation-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "HistoricPlacesNationalRegisterPlaque.JPG",
@@ -80,8 +80,8 @@
       "sourceType": "core",
       "sourceArticleId": "dockery-plantation-wp",
       "sourceGeohash4": "9vzx",
-      "smallPath": "_m/9/v/z/x/dockery-plantation-wp/mississippi-blues-trai-small.jpg",
-      "mediumPath": "_m/9/v/z/x/dockery-plantation-wp/mississippi-blues-trai-medium.jpg"
+      "smallPath": "_m/9/v/z/x/dockery-plantation-wp/mississippi-blues-trai-small.webp",
+      "mediumPath": "_m/9/v/z/x/dockery-plantation-wp/mississippi-blues-trai-medium.webp"
     },
     {
       "filename": "Highway49TutwilerMS.jpg",
@@ -108,7 +108,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "dockery-plantation-wp",
-      "sourceGeohash4": "9vzx"
+      "sourceGeohash4": "9vzx",
+      "mediumPath": "_m/9/v/z/x/dockery-plantation-wp/highway49tutwilerms-medium.webp",
+      "smallPath": "_m/9/v/z/x/dockery-plantation-wp/highway49tutwilerms-small.webp"
     },
     {
       "filename": "Dockery Farms, Sunflower County, MS.JPG",
@@ -133,7 +135,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "dockery-plantation-wp",
-      "sourceGeohash4": "9vzx"
+      "sourceGeohash4": "9vzx",
+      "smallPath": "_m/9/v/z/x/dockery-plantation-wp/dockery-farms-sunflower-county-small.webp"
     },
     {
       "filename": "Dockery Service Station, Dockery, Mississippi.jpg",
@@ -157,7 +160,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "dockery-plantation-wp",
-      "sourceGeohash4": "9vzx"
+      "sourceGeohash4": "9vzx",
+      "mediumPath": "_m/9/v/z/x/dockery-plantation-wp/dockery-service-station-docker-medium.webp",
+      "smallPath": "_m/9/v/z/x/dockery-plantation-wp/dockery-service-station-docker-small.webp"
     },
     {
       "filename": "Dockery Plantation Historical Sign (45281747191).jpg",
@@ -185,7 +190,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "dockery-plantation-wp",
-      "sourceGeohash4": "9vzx"
+      "sourceGeohash4": "9vzx",
+      "smallPath": "_m/9/v/z/x/dockery-plantation-wp/dockery-plantation-historical--small.webp"
     },
     {
       "filename": "\"Birthplace Of The Blues?\" Blues Trail Marker.jpg",
@@ -210,7 +216,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "dockery-plantation-wp",
-      "sourceGeohash4": "9vzx"
+      "sourceGeohash4": "9vzx",
+      "mediumPath": "_m/9/v/z/x/dockery-plantation-wp/birthplace-of-the-blues-blues--medium.webp",
+      "smallPath": "_m/9/v/z/x/dockery-plantation-wp/birthplace-of-the-blues-blues--small.webp"
     },
     {
       "filename": "\"Birthplace Of The Blues?\" Blues Trail Marker (cropped).jpg",
@@ -227,7 +235,9 @@
       "dateCreated": "2025-04-25 15:13:16",
       "sourceType": "commons-category",
       "sourceArticleId": "dockery-plantation-wp",
-      "sourceGeohash4": "9vzx"
+      "sourceGeohash4": "9vzx",
+      "mediumPath": "_m/9/v/z/x/dockery-plantation-wp/birthplace-of-the-blues-blues--1-medium.webp",
+      "smallPath": "_m/9/v/z/x/dockery-plantation-wp/birthplace-of-the-blues-blues--1-small.webp"
     },
     {
       "filename": "Dockery Plantation Historical Sign (45281747191) (cropped).jpg",
@@ -244,7 +254,8 @@
       "dateCreated": "2018-10-03 15:31",
       "sourceType": "commons-category",
       "sourceArticleId": "dockery-plantation-wp",
-      "sourceGeohash4": "9vzx"
+      "sourceGeohash4": "9vzx",
+      "smallPath": "_m/9/v/z/x/dockery-plantation-wp/dockery-plantation-historical--1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -257,7 +268,6 @@
     "_m/9/v/z/x/dockery-plantation-wp/birthplace-of-the-blues-blues--1.jpg",
     "_m/9/v/z/x/dockery-plantation-wp/dockery-plantation-historical--1.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:29:56.086Z",
   "narration": {
     "files": [
       "9vzx-dockery-plantation-flight-context.mp3",
@@ -275,8 +285,7 @@
       "9vzx-dockery-plantation-a-constellation-of-genius.mp3": 67.0297916,
       "9vzx-dockery-plantation-cotton-fades-the-music-carries.mp3": 71.4632083
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T13:17:24.688Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T23:29:56.651Z"
 }

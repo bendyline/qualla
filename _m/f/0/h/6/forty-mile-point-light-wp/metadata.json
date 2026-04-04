@@ -25,7 +25,7 @@
     "sourceType": "core",
     "sourceArticleId": "forty-mile-point-light-wp",
     "sourceGeohash4": "f0h6",
-    "smallPath": "_m/f/0/h/6/forty-mile-point-light-wp/hero-small.jpg"
+    "smallPath": "_m/f/0/h/6/forty-mile-point-light-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Forty mile lighthouse foghorn.jpg",
@@ -81,7 +81,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "forty-mile-point-light-wp",
       "sourceGeohash4": "f0h6",
-      "smallPath": "_m/f/0/h/6/forty-mile-point-light-wp/40mile-pnt-light-house-8c-small.jpg"
+      "smallPath": "_m/f/0/h/6/forty-mile-point-light-wp/40mile-pnt-light-house-8c-small.webp"
     },
     {
       "filename": "Line5711 (9719586934).jpg",
@@ -106,8 +106,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "forty-mile-point-light-wp",
       "sourceGeohash4": "f0h6",
-      "mediumPath": "_m/f/0/h/6/forty-mile-point-light-wp/line5711-9719586934-medium.jpg",
-      "smallPath": "_m/f/0/h/6/forty-mile-point-light-wp/line5711-9719586934-small.jpg"
+      "mediumPath": "_m/f/0/h/6/forty-mile-point-light-wp/line5711-9719586934-medium.webp",
+      "smallPath": "_m/f/0/h/6/forty-mile-point-light-wp/line5711-9719586934-small.webp"
     },
     {
       "filename": "Presque Isle County - Forty Mile Point Light - 20220430131157.jpg",
@@ -140,8 +140,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "forty-mile-point-light-wp",
       "sourceGeohash4": "f0h6",
-      "mediumPath": "_m/f/0/h/6/forty-mile-point-light-wp/presque-isle-county-forty-mile-medium.jpg",
-      "smallPath": "_m/f/0/h/6/forty-mile-point-light-wp/presque-isle-county-forty-mile-small.jpg"
+      "mediumPath": "_m/f/0/h/6/forty-mile-point-light-wp/presque-isle-county-forty-mile-medium.webp",
+      "smallPath": "_m/f/0/h/6/forty-mile-point-light-wp/presque-isle-county-forty-mile-small.webp"
     },
     {
       "filename": "Presque Isle County - Forty Mile Point Light - 20220430130958.jpg",
@@ -165,8 +165,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "forty-mile-point-light-wp",
       "sourceGeohash4": "f0h6",
-      "mediumPath": "_m/f/0/h/6/forty-mile-point-light-wp/presque-isle-county-forty-mile-1-medium.jpg",
-      "smallPath": "_m/f/0/h/6/forty-mile-point-light-wp/presque-isle-county-forty-mile-1-small.jpg"
+      "mediumPath": "_m/f/0/h/6/forty-mile-point-light-wp/presque-isle-county-forty-mile-1-medium.webp",
+      "smallPath": "_m/f/0/h/6/forty-mile-point-light-wp/presque-isle-county-forty-mile-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -175,6 +175,26 @@
     "_m/f/0/h/6/forty-mile-point-light-wp/presque-isle-county-forty-mile.jpg",
     "_m/f/0/h/6/forty-mile-point-light-wp/presque-isle-county-forty-mile-1.jpg"
   ],
-  "fetchedAt": "2026-02-28T11:01:28.958Z",
-  "updatedAt": "2026-02-28T11:01:47.947Z"
+  "updatedAt": "2026-02-28T11:01:47.947Z",
+  "narration": {
+    "files": [
+      "f0h6-forty-mile-point-light-flight-context.mp3",
+      "f0h6-forty-mile-point-light-intro.mp3",
+      "f0h6-forty-mile-point-light-filling-the-dark-gap.mp3",
+      "f0h6-forty-mile-point-light-red-brick-rising-from-wood-pilings.mp3",
+      "f0h6-forty-mile-point-light-the-graveyard-of-ships.mp3",
+      "f0h6-forty-mile-point-light-everything-still-standing.mp3",
+      "f0h6-forty-mile-point-light-a-light-that-stays-lit.mp3"
+    ],
+    "durations": {
+      "f0h6-forty-mile-point-light-flight-context.mp3": 53.56175,
+      "f0h6-forty-mile-point-light-intro.mp3": 43.490625,
+      "f0h6-forty-mile-point-light-filling-the-dark-gap.mp3": 62.508375,
+      "f0h6-forty-mile-point-light-red-brick-rising-from-wood-pilings.mp3": 73.238375,
+      "f0h6-forty-mile-point-light-the-graveyard-of-ships.mp3": 63.9707083,
+      "f0h6-forty-mile-point-light-everything-still-standing.mp3": 59.4922916,
+      "f0h6-forty-mile-point-light-a-light-that-stays-lit.mp3": 58.6206666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

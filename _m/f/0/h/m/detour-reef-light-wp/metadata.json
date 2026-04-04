@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "detour-reef-light-wp",
     "sourceGeohash4": "f0hm",
-    "mediumPath": "_m/f/0/h/m/detour-reef-light-wp/hero-medium.jpg",
-    "smallPath": "_m/f/0/h/m/detour-reef-light-wp/hero-small.jpg"
+    "mediumPath": "_m/f/0/h/m/detour-reef-light-wp/hero-medium.webp",
+    "smallPath": "_m/f/0/h/m/detour-reef-light-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Detour Reef Light Station (October 2024).jpg",
@@ -81,5 +81,25 @@
   "galleryPaths": [
     "_m/9/y/u/y/harry-s-truman-national-historic-site-wp/hero.jpg"
   ],
-  "fetchedAt": "2026-02-28T11:02:30.927Z"
+  "narration": {
+    "files": [
+      "f0hm-detour-reef-light-flight-context.mp3",
+      "f0hm-detour-reef-light-intro.mp3",
+      "f0hm-detour-reef-light-fourteen-reefs-fourteen-lights.mp3",
+      "f0hm-detour-reef-light-shipwreck-at-the-gateway.mp3",
+      "f0hm-detour-reef-light-most-endangered.mp3",
+      "f0hm-detour-reef-light-the-community-lighthouse.mp3",
+      "f0hm-detour-reef-light-keeping-the-light-on.mp3"
+    ],
+    "durations": {
+      "f0hm-detour-reef-light-flight-context.mp3": 58.2600833,
+      "f0hm-detour-reef-light-intro.mp3": 47.69525,
+      "f0hm-detour-reef-light-fourteen-reefs-fourteen-lights.mp3": 66.9885416,
+      "f0hm-detour-reef-light-shipwreck-at-the-gateway.mp3": 56.725625,
+      "f0hm-detour-reef-light-most-endangered.mp3": 53.404,
+      "f0hm-detour-reef-light-the-community-lighthouse.mp3": 66.4842083,
+      "f0hm-detour-reef-light-keeping-the-light-on.mp3": 68.2602916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

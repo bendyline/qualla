@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "national-museum-oman-wp",
     "sourceGeohash4": "tk1w",
-    "mediumPath": "_m/t/k/1/w/national-museum-oman-wp/hero-medium.jpg",
-    "smallPath": "_m/t/k/1/w/national-museum-oman-wp/hero-small.jpg"
+    "mediumPath": "_m/t/k/1/w/national-museum-oman-wp/hero-medium.webp",
+    "smallPath": "_m/t/k/1/w/national-museum-oman-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "The Renaissance Gallery in The National Museum Oman.jpg",
@@ -74,8 +74,8 @@
       "sourceType": "core",
       "sourceArticleId": "national-museum-oman-wp",
       "sourceGeohash4": "tk1w",
-      "mediumPath": "_m/t/k/1/w/national-museum-oman-wp/early-5-000-years-ago-medium.jpg",
-      "smallPath": "_m/t/k/1/w/national-museum-oman-wp/early-5-000-years-ago-small.jpg"
+      "mediumPath": "_m/t/k/1/w/national-museum-oman-wp/early-5-000-years-ago-medium.webp",
+      "smallPath": "_m/t/k/1/w/national-museum-oman-wp/early-5-000-years-ago-small.webp"
     },
     {
       "filename": "Currency Gallery in The National Museum Oman.jpg",
@@ -100,8 +100,8 @@
       "sourceType": "core",
       "sourceArticleId": "national-museum-oman-wp",
       "sourceGeohash4": "tk1w",
-      "mediumPath": "_m/t/k/1/w/national-museum-oman-wp/treasure-currency-gall-medium.jpg",
-      "smallPath": "_m/t/k/1/w/national-museum-oman-wp/treasure-currency-gall-small.jpg"
+      "mediumPath": "_m/t/k/1/w/national-museum-oman-wp/treasure-currency-gall-medium.webp",
+      "smallPath": "_m/t/k/1/w/national-museum-oman-wp/treasure-currency-gall-small.webp"
     },
     {
       "filename": "Intangible Heritage Gallery in The National Museum Oman..jpg",
@@ -126,8 +126,8 @@
       "sourceType": "core",
       "sourceArticleId": "national-museum-oman-wp",
       "sourceGeohash4": "tk1w",
-      "mediumPath": "_m/t/k/1/w/national-museum-oman-wp/intangible-heritage-ga-medium.jpg",
-      "smallPath": "_m/t/k/1/w/national-museum-oman-wp/intangible-heritage-ga-small.jpg"
+      "mediumPath": "_m/t/k/1/w/national-museum-oman-wp/intangible-heritage-ga-medium.webp",
+      "smallPath": "_m/t/k/1/w/national-museum-oman-wp/intangible-heritage-ga-small.webp"
     },
     {
       "filename": "National Museum (Oman) by night.jpg",
@@ -153,8 +153,8 @@
       "sourceType": "core",
       "sourceArticleId": "national-museum-oman-wp",
       "sourceGeohash4": "tk1w",
-      "mediumPath": "_m/t/k/1/w/national-museum-oman-wp/national-museum-oman-n-medium.jpg",
-      "smallPath": "_m/t/k/1/w/national-museum-oman-wp/national-museum-oman-n-small.jpg"
+      "mediumPath": "_m/t/k/1/w/national-museum-oman-wp/national-museum-oman-n-medium.webp",
+      "smallPath": "_m/t/k/1/w/national-museum-oman-wp/national-museum-oman-n-small.webp"
     },
     {
       "filename": "National Museum-Muscat.jpg",
@@ -178,7 +178,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "national-museum-oman-wp",
       "sourceGeohash4": "tk1w",
-      "smallPath": "_m/t/k/1/w/national-museum-oman-wp/national-museum-muscat-small.jpg"
+      "smallPath": "_m/t/k/1/w/national-museum-oman-wp/national-museum-muscat-small.webp"
     }
   ],
   "galleryPaths": [
@@ -188,6 +188,24 @@
     "_m/t/k/1/w/national-museum-oman-wp/national-museum-oman-n.jpg",
     "_m/t/k/1/w/national-museum-oman-wp/national-museum-muscat.jpg"
   ],
-  "fetchedAt": "2026-03-01T09:58:02.240Z",
-  "updatedAt": "2026-03-01T09:58:15.931Z"
+  "updatedAt": "2026-03-01T09:58:15.931Z",
+  "narration": {
+    "files": [
+      "tk1w-national-museum-oman-flight-context.mp3",
+      "tk1w-national-museum-oman-intro.mp3",
+      "tk1w-national-museum-oman-a-decade-in-the-making.mp3",
+      "tk1w-national-museum-oman-silver-metal-and-deep-time.mp3",
+      "tk1w-national-museum-oman-behind-the-glass-before-the-display.mp3",
+      "tk1w-national-museum-oman-a-palace-view.mp3"
+    ],
+    "durations": {
+      "tk1w-national-museum-oman-flight-context.mp3": 33.88575,
+      "tk1w-national-museum-oman-intro.mp3": 48.3993333,
+      "tk1w-national-museum-oman-a-decade-in-the-making.mp3": 53.7808333,
+      "tk1w-national-museum-oman-silver-metal-and-deep-time.mp3": 58.7605833,
+      "tk1w-national-museum-oman-behind-the-glass-before-the-display.mp3": 52.6480833,
+      "tk1w-national-museum-oman-a-palace-view.mp3": 55.5665
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

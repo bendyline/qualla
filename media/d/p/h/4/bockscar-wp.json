@@ -24,7 +24,7 @@
           "Media lacking author information",
           "PD US Government"
         ],
-        "smallPath": "_m/d/p/h/4/bockscar-wp/hero-small.jpg"
+        "smallPath": "_m/d/p/h/4/bockscar-wp/hero-small.webp"
       },
       "images": [
         {
@@ -50,7 +50,7 @@
             "PD US Air Force",
             "World War II aerial photographs of Nagasaki"
           ],
-          "smallPath": "_m/d/p/h/4/bockscar-wp/atomic-cloud-nagasaki-small.jpg"
+          "smallPath": "_m/d/p/h/4/bockscar-wp/atomic-cloud-nagasaki-small.webp"
         },
         {
           "path": "_m/d/p/h/4/bockscar-wp/boeing-b-29-bockscar-c.jpg",
@@ -74,7 +74,7 @@
             "Media lacking author information",
             "PD US Government"
           ],
-          "smallPath": "_m/d/p/h/4/bockscar-wp/boeing-b-29-bockscar-c-small.jpg"
+          "smallPath": "_m/d/p/h/4/bockscar-wp/boeing-b-29-bockscar-c-small.webp"
         },
         {
           "path": "_m/d/p/h/4/bockscar-wp/boeing-b-29-superfortr.jpg",
@@ -98,7 +98,7 @@
             "PD US Government",
             "Unpainted aircraft"
           ],
-          "smallPath": "_m/d/p/h/4/bockscar-wp/boeing-b-29-superfortr-small.jpg"
+          "smallPath": "_m/d/p/h/4/bockscar-wp/boeing-b-29-superfortr-small.webp"
         },
         {
           "path": "_m/d/p/h/4/bockscar-wp/b-29-bockscar-national.jpg",
@@ -122,7 +122,7 @@
             "PD US Air Force",
             "Taken with Nikon D100"
           ],
-          "smallPath": "_m/d/p/h/4/bockscar-wp/b-29-bockscar-national-small.jpg"
+          "smallPath": "_m/d/p/h/4/bockscar-wp/b-29-bockscar-national-small.webp"
         },
         {
           "path": "_m/d/p/h/4/bockscar-wp/bockscar-postwar-mk-ii.jpg",
@@ -139,8 +139,8 @@
           "sourceArticleId": "bockscar-wp",
           "sourceGeohash4": "dph4",
           "accessedAt": "2026-02-28T00:39:30.838Z",
-          "mediumPath": "_m/d/p/h/4/bockscar-wp/bockscar-postwar-mk-ii-medium.jpg",
-          "smallPath": "_m/d/p/h/4/bockscar-wp/bockscar-postwar-mk-ii-small.jpg"
+          "mediumPath": "_m/d/p/h/4/bockscar-wp/bockscar-postwar-mk-ii-medium.webp",
+          "smallPath": "_m/d/p/h/4/bockscar-wp/bockscar-postwar-mk-ii-small.webp"
         },
         {
           "path": "_m/d/p/h/4/bockscar-wp/bockscar.jpg",
@@ -164,7 +164,7 @@
             "Nose art on B-29",
             "PD US Air Force"
           ],
-          "smallPath": "_m/d/p/h/4/bockscar-wp/bockscar-small.jpg"
+          "smallPath": "_m/d/p/h/4/bockscar-wp/bockscar-small.webp"
         },
         {
           "path": "_m/d/p/h/4/bockscar-wp/77-bt-56-20709422580.jpg",
@@ -191,8 +191,8 @@
             "USGov images uploaded by Hiàn with bad file names",
             "WWII: Pacific: Tinian: Atomic Bombs"
           ],
-          "mediumPath": "_m/d/p/h/4/bockscar-wp/77-bt-56-20709422580-medium.jpg",
-          "smallPath": "_m/d/p/h/4/bockscar-wp/77-bt-56-20709422580-small.jpg"
+          "mediumPath": "_m/d/p/h/4/bockscar-wp/77-bt-56-20709422580-medium.webp",
+          "smallPath": "_m/d/p/h/4/bockscar-wp/77-bt-56-20709422580-small.webp"
         },
         {
           "path": "_m/d/p/h/4/bockscar-wp/01-00095258-sdasm-aircraft-ima.jpg",
@@ -218,7 +218,7 @@
             "Postcards of aircraft",
             "SDASM Archives Flickr files uploaded by OptimusPrimeBot"
           ],
-          "smallPath": "_m/d/p/h/4/bockscar-wp/01-00095258-sdasm-aircraft-ima-small.jpg"
+          "smallPath": "_m/d/p/h/4/bockscar-wp/01-00095258-sdasm-aircraft-ima-small.webp"
         }
       ],
       "narration": [
@@ -229,7 +229,8 @@
         "_m/d/p/h/4/bockscar-wp/dph4-bockscar-the-b-29-that-dropped-the-last-atomic-bom-smoke-clouds-and-a-break-in-the-sky.mp3",
         "_m/d/p/h/4/bockscar-wp/dph4-bockscar-the-b-29-that-dropped-the-last-atomic-bom-five-minutes-of-fuel.mp3",
         "_m/d/p/h/4/bockscar-wp/dph4-bockscar-the-b-29-that-dropped-the-last-atomic-bom-the-quiet-gallery.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/p/h/4/bockscar-wp/dph4-bockscar-combined.mp3"
     }
   }
 }

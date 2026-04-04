@@ -127,14 +127,14 @@
       "distanceKm": 30.9
     },
     "ne": {
-      "id": "berlin-wall-wk",
-      "title": "The Berlin Wall: The Barrier That Divided a City",
-      "tile": "u33d",
+      "id": "tvindkraft-wind-turbine-wp",
+      "title": "Tvindkraft Wind Turbine",
+      "tile": "u4jb",
       "coordinates": {
-        "lat": 52.5163,
-        "lng": 13.3777
+        "lat": 56.256,
+        "lng": 8.28001
       },
-      "distanceKm": 533.3
+      "distanceKm": 519
     },
     "w": {
       "id": "battle-of-the-scheldt-wp",
@@ -147,14 +147,14 @@
       "distanceKm": 34.1
     },
     "e": {
-      "id": "zwingenberg-castle-wp",
-      "title": "Zwingenberg Castle",
-      "tile": "u0y3",
+      "id": "fort-jeanne-d-arc-wp",
+      "title": "Fort Jeanne d'Arc",
+      "tile": "u0sr",
       "coordinates": {
-        "lat": 49.42194,
-        "lng": 9.03333
+        "lat": 49.1168,
+        "lng": 6.06701
       },
-      "distanceKm": 341
+      "distanceKm": 277
     },
     "sw": {
       "id": "antwerp-diamond-heist-wp",
@@ -189,5 +189,6 @@
   },
   "keywords": [
     "herzogenbusch-concentration-camp"
-  ]
+  ],
+  "locationWikipediaPath": "u/1/5/t/herzogenbusch-concentration-camp-wp"
 }

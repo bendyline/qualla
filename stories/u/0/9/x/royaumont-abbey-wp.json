@@ -1,0 +1,161 @@
+{
+  "id": "royaumont-abbey-wp",
+  "source": "wikipedia",
+  "sourceId": "2929391",
+  "title": "Royaumont Abbey",
+  "slug": "royaumont-abbey",
+  "summary": "A Cistercian abbey built by a saint-king, dissolved in the Revolution, reborn as a World War I hospital staffed by Scottish women surgeons, and later the venue for a Pink Floyd concert.",
+  "content": {
+    "intro": "On June 15, 1971, Pink Floyd set up their equipment in a medieval cloister thirty kilometers north of Paris and played for an audience gathered among stone arches that had stood since the thirteenth century. The concert was an invitation from the Daudy family, who then owned Royaumont Abbey. It was the kind of collision between centuries that has defined this place ever since Louis IX ordered its construction in 1228.",
+    "sections": [
+      {
+        "title": "A King's Devotion in Stone",
+        "body": "Louis IX, later canonized as Saint Louis, founded Royaumont in 1228 and saw it completed in just seven years. He decreed that royal children should be interred here, binding the abbey to the French crown. The Cistercian monks who inhabited it included Vincent of Beauvais, the thirteenth-century encyclopedist whose massive Speculum Majus attempted to catalog all human knowledge. For over five centuries, Royaumont operated as a center of learning, prayer, and royal burial. Then came the Revolution. In 1791, the abbey was dissolved, and its stones were scavenged to build a factory. The great church was demolished entirely. But the sacristy, the cloister, and the refectory survived, their vaulted ceilings and graceful columns enduring what the monks could not."
+      },
+      {
+        "title": "Scottish Surgeons on the Somme",
+        "body": "In January 1915, with the Western Front devouring men faster than hospitals could treat them, the abbey was converted into Hopital Auxiliaire 301. What made this hospital extraordinary was its staff: it was operated by the Scottish Women's Hospitals, an organization that existed because the British War Office had refused women's offers to serve as military surgeons. Led by Chief Medical Officer Frances Ivens, the all-female medical team treated casualties under the direction of the French Red Cross. During the Battle of the Somme in 1916, the hospital was noted for its exceptional performance under overwhelming pressure. After the war, Frances Ivens was awarded membership in the Legion d'honneur. The painter Norah Neilson Gray captured the hospital's work in paintings that now hang in the Imperial War Museum, showing Dr. Ivens inspecting patients amid the abbey's medieval stonework."
+      },
+      {
+        "title": "From Ruin to Renaissance",
+        "body": "Between the wars, the abbey passed through private hands. In the early twentieth century, the Gouin family purchased the property and, in 1964, established the Royaumont Foundation, the first private cultural foundation in France. The transformation was deliberate: rather than restoring the abbey as a museum piece, the foundation turned it into a living center for music, dance, and the arts. The refectory, where monks once ate in silence while scripture was read aloud, now hosts concerts. A Cavaille-Coll pipe organ stands where bread was broken. The cloister where Pink Floyd played still serves as a performance space, its acoustics shaped by eight centuries of stone. Two operas by Friedrich von Flotow had premiered here as early as the 1830s, making the abbey's musical vocation older than many concert halls."
+      },
+      {
+        "title": "What Remains",
+        "body": "Today the abbey stands in the quiet Val-d'Oise countryside near Asnieres-sur-Oise, its surviving buildings set among formal gardens and reflecting pools. The church is gone, its footprint marked only by traces in the ground. But the cloister's arched walkways, the soaring refectory with its slender columns, and the latrine building (a remarkably intact example of medieval plumbing) remain. Visitors walk the same corridors that Cistercian monks paced, that wounded soldiers were wheeled through, and that musicians have filled with sound. The place resists any single identity. It is simultaneously a royal mausoleum, a war hospital, an arts center, and a garden. That layering is itself the point: Royaumont has survived precisely because each generation found a new reason to keep it alive."
+      }
+    ],
+    "flightContext": "Located at 49.148N, 2.382E in Val-d'Oise, approximately 30 km north of Paris. The abbey complex is visible in a wooded clearing near the village of Asnieres-sur-Oise, with its distinctive cloister and reflecting pools identifiable from the air. Nearby airports: Paris-Charles de Gaulle (LFPG, 15 km E), Paris-Le Bourget (LFPB, 20 km S). Best viewed at 2,000-3,000 ft AGL."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 49.1475,
+      "lng": 2.3819
+    },
+    "geohash": "u09xw"
+  },
+  "categories": [
+    "architecture",
+    "religion",
+    "military-history",
+    "culture"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 720,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 10220
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Pink Floyd Concert at Royaumont Abbey - setlist.fm",
+      "url": "https://www.setlist.fm/setlist/pink-floyd/1971/abbaye-de-royaumont-royaumont-france-13d77999.html",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Pink Floyd played Royaumont Abbey on June 15 1971"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Royaumont Abbey - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Royaumont_Abbey",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Founded by Louis IX in 1228",
+        "Dissolved in 1791",
+        "Converted to Hopital Auxiliaire 301 in 1915",
+        "Frances Ivens awarded Legion d'honneur",
+        "Royaumont Foundation established 1964"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "u/0/9/x/royaumont-abbey-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "dover-castle-wp",
+      "title": "Dover Castle",
+      "tile": "u10f",
+      "coordinates": {
+        "lat": 51.128268,
+        "lng": 1.3235035
+      },
+      "distanceKm": 195.2
+    },
+    "n": {
+      "id": "le-paradis-massacre-wp",
+      "title": "Le Paradis Massacre",
+      "tile": "u0cz",
+      "coordinates": {
+        "lat": 50.5948,
+        "lng": 2.6477
+      },
+      "distanceKm": 136
+    },
+    "ne": {
+      "id": "courrieres-mine-disaster-wp",
+      "title": "Courrieres Mine Disaster",
+      "tile": "u0fn",
+      "coordinates": {
+        "lat": 50.41556,
+        "lng": 2.89778
+      },
+      "distanceKm": 113.7
+    },
+    "w": {
+      "id": "battle-of-cocherel-wp",
+      "title": "Battle of Cocherel",
+      "tile": "u08z",
+      "coordinates": {
+        "lat": 49.059,
+        "lng": 1.342
+      },
+      "distanceKm": 31.3
+    },
+    "e": {
+      "id": "vierzy-tunnel-disaster-wp",
+      "title": "Vierzy Tunnel Disaster",
+      "tile": "u0f2",
+      "coordinates": {
+        "lat": 49.299214,
+        "lng": 3.293924
+      },
+      "distanceKm": 39.7
+    },
+    "sw": {
+      "id": "chartres-cathedral-wp",
+      "title": "Chartres Cathedral",
+      "tile": "u095",
+      "coordinates": {
+        "lat": 48.44777777777778,
+        "lng": 1.4877777777777776
+      },
+      "distanceKm": 50.7
+    },
+    "s": {
+      "id": "eiffel-tower-wp",
+      "title": "Eiffel Tower",
+      "tile": "u09t",
+      "coordinates": {
+        "lat": 48.8584,
+        "lng": 2.2945
+      },
+      "distanceKm": 1.2
+    },
+    "se": {
+      "id": "battle-of-cravant-wp",
+      "title": "Battle of Cravant",
+      "tile": "u06x",
+      "coordinates": {
+        "lat": 47.683888888889,
+        "lng": 3.6916666666667
+      },
+      "distanceKm": 146.8
+    }
+  }
+}

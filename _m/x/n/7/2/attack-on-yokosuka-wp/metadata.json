@@ -28,8 +28,8 @@
     "sourceType": "core",
     "sourceArticleId": "attack-on-yokosuka-wp",
     "sourceGeohash4": "xn72",
-    "mediumPath": "_m/x/n/7/2/attack-on-yokosuka-wp/hero-medium.jpg",
-    "smallPath": "_m/x/n/7/2/attack-on-yokosuka-wp/hero-small.jpg"
+    "mediumPath": "_m/x/n/7/2/attack-on-yokosuka-wp/hero-medium.webp",
+    "smallPath": "_m/x/n/7/2/attack-on-yokosuka-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Yokosuka naval base 18 July 1945.jpg",
@@ -86,7 +86,7 @@
       "sourceType": "core",
       "sourceArticleId": "attack-on-yokosuka-wp",
       "sourceGeohash4": "xn72",
-      "smallPath": "_m/x/n/7/2/attack-on-yokosuka-wp/japanese-battleship-na-small.jpg"
+      "smallPath": "_m/x/n/7/2/attack-on-yokosuka-wp/japanese-battleship-na-small.webp"
     },
     {
       "filename": "Yokosuka-Naval-Base-18-April-1942.jpg",
@@ -117,15 +117,14 @@
       "sourceType": "core",
       "sourceArticleId": "attack-on-yokosuka-wp",
       "sourceGeohash4": "xn72",
-      "mediumPath": "_m/x/n/7/2/attack-on-yokosuka-wp/doolittle-raid-japan-a-medium.jpg",
-      "smallPath": "_m/x/n/7/2/attack-on-yokosuka-wp/doolittle-raid-japan-a-small.jpg"
+      "mediumPath": "_m/x/n/7/2/attack-on-yokosuka-wp/doolittle-raid-japan-a-medium.webp",
+      "smallPath": "_m/x/n/7/2/attack-on-yokosuka-wp/doolittle-raid-japan-a-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/x/n/7/2/attack-on-yokosuka-wp/japanese-battleship-na.jpg",
     "_m/x/n/7/2/attack-on-yokosuka-wp/doolittle-raid-japan-a.jpg"
   ],
-  "fetchedAt": "2026-02-23T04:36:35.819Z",
   "narration": {
     "files": [
       "xn72-attack-on-yokosuka-flight-context.mp3",
@@ -143,7 +142,6 @@
       "xn72-attack-on-yokosuka-three-thirty-in-the-afternoon.mp3": 71.1784583,
       "xn72-attack-on-yokosuka-the-ruse-and-the-bomb.mp3": 67.4880416
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-26T05:48:07.839Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

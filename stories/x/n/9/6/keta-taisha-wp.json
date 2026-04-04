@@ -85,14 +85,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "2018-winter-olympics-wp",
+      "title": "2018 Winter Olympics",
+      "tile": "wyew",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 37.6313,
+        "lng": 128.6774
       },
-      "distanceKm": 1216.8
+      "distanceKm": 683.3
     },
     "n": {
       "id": "wajima-museum-of-urushi-art-wp",
@@ -164,5 +164,6 @@
       },
       "distanceKm": 19
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/9/6/keta-taisha-wp"
 }

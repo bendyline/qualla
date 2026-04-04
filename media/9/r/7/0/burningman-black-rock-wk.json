@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/r/7/0/burningman-black-rock-wk/9qft-black-rock-desert-home-of-burning-man-intro.mp3",
-        "_m/9/r/7/0/burningman-black-rock-wk/9qft-black-rock-desert-home-of-burning-man-flight-context.mp3",
-        "_m/9/r/7/0/burningman-black-rock-wk/9qft-black-rock-desert-home-of-burning-man-the-art.mp3",
-        "_m/9/r/7/0/burningman-black-rock-wk/9qft-black-rock-desert-home-of-burning-man-the-desert.mp3",
-        "_m/9/r/7/0/burningman-black-rock-wk/9qft-black-rock-desert-home-of-burning-man-the-event.mp3",
-        "_m/9/r/7/0/burningman-black-rock-wk/9qft-black-rock-desert-home-of-burning-man-the-principles.mp3",
-        "_m/9/r/7/0/burningman-black-rock-wk/9qft-black-rock-desert-home-of-burning-man-visiting-black-rock-desert.mp3"
+        "_m/9/r/7/0/burningman-black-rock-wk/9r70-black-rock-desert-home-of-burning-man-flight-context.mp3",
+        "_m/9/r/7/0/burningman-black-rock-wk/9r70-black-rock-desert-home-of-burning-man-intro.mp3",
+        "_m/9/r/7/0/burningman-black-rock-wk/9r70-black-rock-desert-home-of-burning-man-the-desert.mp3",
+        "_m/9/r/7/0/burningman-black-rock-wk/9r70-black-rock-desert-home-of-burning-man-the-event.mp3",
+        "_m/9/r/7/0/burningman-black-rock-wk/9r70-black-rock-desert-home-of-burning-man-the-principles.mp3",
+        "_m/9/r/7/0/burningman-black-rock-wk/9r70-black-rock-desert-home-of-burning-man-the-art.mp3",
+        "_m/9/r/7/0/burningman-black-rock-wk/9r70-black-rock-desert-home-of-burning-man-visiting-black-rock-desert.mp3"
       ],
       "hero": {
         "path": "_m/9/r/7/0/burningman-black-rock-wk/old-razorback-mountain.jpg",
@@ -35,7 +35,7 @@
           "Photos by User:Ikluft",
           "Self-published work"
         ],
-        "smallPath": "_m/9/r/7/0/burningman-black-rock-wk/old-razorback-mountain-small.jpg"
+        "smallPath": "_m/9/r/7/0/burningman-black-rock-wk/hero-small.webp"
       },
       "images": [
         {
@@ -467,7 +467,8 @@
             "aerialBonus": 30
           }
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/r/7/0/burningman-black-rock-wk/9r70-burningman-black-rock-combined.mp3"
     }
   }
 }

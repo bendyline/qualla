@@ -26,7 +26,7 @@
     "sourceType": "core",
     "sourceArticleId": "miankaleh-peninsula-wp",
     "sourceGeohash4": "tnw1",
-    "smallPath": "_m/t/n/w/1/miankaleh-peninsula-wp/hero-small.jpg"
+    "smallPath": "_m/t/n/w/1/miankaleh-peninsula-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "پرواز پاراگلایدرها در مهدیرجه.jpg",
@@ -101,8 +101,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "miankaleh-peninsula-wp",
       "sourceGeohash4": "tnw1",
-      "mediumPath": "_m/t/n/w/1/miankaleh-peninsula-wp/gorgan-bay-miankaleh-peninsula-medium.jpg",
-      "smallPath": "_m/t/n/w/1/miankaleh-peninsula-wp/gorgan-bay-miankaleh-peninsula-small.jpg"
+      "mediumPath": "_m/t/n/w/1/miankaleh-peninsula-wp/gorgan-bay-miankaleh-peninsula-medium.webp",
+      "smallPath": "_m/t/n/w/1/miankaleh-peninsula-wp/gorgan-bay-miankaleh-peninsula-small.webp"
     },
     {
       "filename": "Gorgan Bay, Miankaleh peninsula and former Ashuradeh island, LandSat-5 satellite image 30-DEC-1984.jpg",
@@ -119,8 +119,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "miankaleh-peninsula-wp",
       "sourceGeohash4": "tnw1",
-      "mediumPath": "_m/t/n/w/1/miankaleh-peninsula-wp/gorgan-bay-miankaleh-peninsula-1-medium.jpg",
-      "smallPath": "_m/t/n/w/1/miankaleh-peninsula-wp/gorgan-bay-miankaleh-peninsula-1-small.jpg"
+      "mediumPath": "_m/t/n/w/1/miankaleh-peninsula-wp/gorgan-bay-miankaleh-peninsula-1-medium.webp",
+      "smallPath": "_m/t/n/w/1/miankaleh-peninsula-wp/gorgan-bay-miankaleh-peninsula-1-small.webp"
     },
     {
       "filename": "Esmaeel say island.jpg",
@@ -137,7 +137,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "miankaleh-peninsula-wp",
       "sourceGeohash4": "tnw1",
-      "smallPath": "_m/t/n/w/1/miankaleh-peninsula-wp/esmaeel-say-island-small.jpg"
+      "smallPath": "_m/t/n/w/1/miankaleh-peninsula-wp/esmaeel-say-island-small.webp"
     }
   ],
   "galleryPaths": [
@@ -146,6 +146,24 @@
     "_m/t/n/w/1/miankaleh-peninsula-wp/gorgan-bay-miankaleh-peninsula-1.jpg",
     "_m/t/n/w/1/miankaleh-peninsula-wp/esmaeel-say-island.jpg"
   ],
-  "fetchedAt": "2026-03-01T16:43:04.544Z",
-  "updatedAt": "2026-03-01T16:43:24.583Z"
+  "updatedAt": "2026-03-01T16:43:24.583Z",
+  "narration": {
+    "files": [
+      "tnw1-miankaleh-peninsula-flight-context.mp3",
+      "tnw1-miankaleh-peninsula-intro.mp3",
+      "tnw1-miankaleh-peninsula-a-sanctuary-between-two-waters.mp3",
+      "tnw1-miankaleh-peninsula-the-tigers-that-might-return.mp3",
+      "tnw1-miankaleh-peninsula-a-refuge-under-pressure.mp3",
+      "tnw1-miankaleh-peninsula-deep-time-in-the-sand.mp3"
+    ],
+    "durations": {
+      "tnw1-miankaleh-peninsula-flight-context.mp3": 39.5565833,
+      "tnw1-miankaleh-peninsula-intro.mp3": 45.8625833,
+      "tnw1-miankaleh-peninsula-a-sanctuary-between-two-waters.mp3": 68.6553333,
+      "tnw1-miankaleh-peninsula-the-tigers-that-might-return.mp3": 50.017625,
+      "tnw1-miankaleh-peninsula-a-refuge-under-pressure.mp3": 58.044625,
+      "tnw1-miankaleh-peninsula-deep-time-in-the-sand.mp3": 50.4197916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

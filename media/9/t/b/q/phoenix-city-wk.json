@@ -3,12 +3,12 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/t/b/q/phoenix-city-wk/9tbq-phoenix-the-city-that-shouldnt-exist-but-wont-stop-intro.mp3",
         "_m/9/t/b/q/phoenix-city-wk/9tbq-phoenix-the-city-that-shouldnt-exist-but-wont-stop-flight-context.mp3",
+        "_m/9/t/b/q/phoenix-city-wk/9tbq-phoenix-the-city-that-shouldnt-exist-but-wont-stop-intro.mp3",
         "_m/9/t/b/q/phoenix-city-wk/9tbq-phoenix-the-city-that-shouldnt-exist-but-wont-stop-the-canals.mp3",
-        "_m/9/t/b/q/phoenix-city-wk/9tbq-phoenix-the-city-that-shouldnt-exist-but-wont-stop-the-growth.mp3",
         "_m/9/t/b/q/phoenix-city-wk/9tbq-phoenix-the-city-that-shouldnt-exist-but-wont-stop-the-heat.mp3",
         "_m/9/t/b/q/phoenix-city-wk/9tbq-phoenix-the-city-that-shouldnt-exist-but-wont-stop-the-water.mp3",
+        "_m/9/t/b/q/phoenix-city-wk/9tbq-phoenix-the-city-that-shouldnt-exist-but-wont-stop-the-growth.mp3",
         "_m/9/t/b/q/phoenix-city-wk/9tbq-phoenix-the-city-that-shouldnt-exist-but-wont-stop-visiting-phoenix.mp3"
       ],
       "hero": {
@@ -37,7 +37,9 @@
           "Self-published work",
           "Taken with Canon EOS 300D",
           "United States photographs taken on 2008-08-29"
-        ]
+        ],
+        "mediumPath": "_m/9/t/b/q/phoenix-city-wk/hero-medium.webp",
+        "smallPath": "_m/9/t/b/q/phoenix-city-wk/hero-small.webp"
       },
       "images": [
         {
@@ -1282,7 +1284,8 @@
             "aerialBonus": 30
           }
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/t/b/q/phoenix-city-wk/9tbq-phoenix-city-combined.mp3"
     }
   }
 }

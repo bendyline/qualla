@@ -104,14 +104,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "kent-wk",
-      "title": "Kent",
-      "tile": "u10e",
+      "id": "canterbury-cathedral-wp",
+      "title": "Canterbury Cathedral",
+      "tile": "u10g",
       "coordinates": {
-        "lat": 51.19,
-        "lng": 0.73
+        "lat": 51.28,
+        "lng": 1.08
       },
-      "distanceKm": 145.2
+      "distanceKm": 121.5
     },
     "n": {
       "id": "princely-beguinage-ten-wijngaerde-bruges-wp",
@@ -134,14 +134,14 @@
       "distanceKm": 36
     },
     "w": {
-      "id": "crystal-palace-fire-wk",
-      "title": "The Crystal Palace Fire: When London's Glass Wonder Burned",
-      "tile": "gcpu",
+      "id": "dover-castle-wp",
+      "title": "Dover Castle",
+      "tile": "u10f",
       "coordinates": {
-        "lat": 51.4188,
-        "lng": -0.0754
+        "lat": 51.128268,
+        "lng": 1.3235035
       },
-      "distanceKm": 209.8
+      "distanceKm": 107.5
     },
     "e": {
       "id": "battle-of-steenkerque-wp",
@@ -154,37 +154,38 @@
       "distanceKm": 31.7
     },
     "sw": {
-      "id": "paris-wk",
-      "title": "Paris",
-      "tile": "u09t",
+      "id": "le-paradis-massacre-wp",
+      "title": "Le Paradis Massacre",
+      "tile": "u0cz",
       "coordinates": {
-        "lat": 48.856,
-        "lng": 2.351
+        "lat": 50.5948,
+        "lng": 2.6477
       },
-      "distanceKm": 199.5
+      "distanceKm": 12.1
     },
     "s": {
-      "id": "notre-dame-wk",
-      "title": "Notre-Dame: The Cathedral That Burned and Rose Again",
-      "tile": "u09t",
+      "id": "courrieres-mine-disaster-wp",
+      "title": "Courrieres Mine Disaster",
+      "tile": "u0fn",
       "coordinates": {
-        "lat": 48.853,
-        "lng": 2.3499
+        "lat": 50.41556,
+        "lng": 2.89778
       },
-      "distanceKm": 209.5
+      "distanceKm": 39
     },
     "se": {
-      "id": "alsace-wk",
-      "title": "Alsace",
-      "tile": "u0t7",
+      "id": "marcinelle-mining-disaster-wp",
+      "title": "Marcinelle Mining Disaster",
+      "tile": "u0gn",
       "coordinates": {
-        "lat": 48.5,
-        "lng": 7.5
+        "lat": 50.380556,
+        "lng": 4.442778
       },
-      "distanceKm": 352.7
+      "distanceKm": 48.9
     }
   },
   "keywords": [
     "groeninge-monument"
-  ]
+  ],
+  "locationWikipediaPath": "u/1/4/3/groeninge-monument-wp"
 }

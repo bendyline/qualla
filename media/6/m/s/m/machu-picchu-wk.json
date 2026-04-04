@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
+        "_m/6/m/s/m/machu-picchu-wk/6msm-machu-picchu-flight-context.mp3",
         "_m/6/m/s/m/machu-picchu-wk/6msm-machu-picchu-intro.mp3",
         "_m/6/m/s/m/machu-picchu-wk/6msm-machu-picchu-a-royal-retreat.mp3",
-        "_m/6/m/s/m/machu-picchu-wk/6msm-machu-picchu-clouds-and-altitude.mp3",
-        "_m/6/m/s/m/machu-picchu-wk/6msm-machu-picchu-flight-context.mp3",
-        "_m/6/m/s/m/machu-picchu-wk/6msm-machu-picchu-preserving-a-wonder.mp3",
         "_m/6/m/s/m/machu-picchu-wk/6msm-machu-picchu-stones-without-mortar.mp3",
-        "_m/6/m/s/m/machu-picchu-wk/6msm-machu-picchu-the-inca-trail.mp3"
+        "_m/6/m/s/m/machu-picchu-wk/6msm-machu-picchu-the-inca-trail.mp3",
+        "_m/6/m/s/m/machu-picchu-wk/6msm-machu-picchu-clouds-and-altitude.mp3",
+        "_m/6/m/s/m/machu-picchu-wk/6msm-machu-picchu-preserving-a-wonder.mp3"
       ],
       "hero": {
         "path": "_m/6/m/s/m/machu-picchu-discovery-wk/peeks-valleys-surround.jpg",
@@ -28,7 +28,9 @@
         "accessedAt": "2026-02-21T20:12:42.376Z",
         "categories": [
           "2012 at Machu Picchu"
-        ]
+        ],
+        "mediumPath": "_m/6/m/s/m/machu-picchu-wk/hero-medium.webp",
+        "smallPath": "_m/6/m/s/m/machu-picchu-wk/hero-small.webp"
       },
       "images": [
         {
@@ -78,7 +80,7 @@
             "Self-published work",
             "Vector version available"
           ],
-          "smallPath": "_m/6/m/s/m/machu-picchu-wk/map-rough-machu-picchu-small.png"
+          "smallPath": "_m/6/m/s/m/machu-picchu-wk/map-rough-machu-picchu-small.webp"
         },
         {
           "path": "_m/6/m/s/m/machu-picchu-wk/steve-pastor-own-work.jpg",
@@ -101,7 +103,7 @@
             "Self-published work",
             "Taken with Canon PowerShot S3 IS"
           ],
-          "smallPath": "_m/6/m/s/m/machu-picchu-wk/steve-pastor-own-work-small.jpg"
+          "smallPath": "_m/6/m/s/m/machu-picchu-wk/steve-pastor-own-work-small.webp"
         },
         {
           "path": "_m/6/m/s/m/machu-picchu-wk/hero.jpg",
@@ -183,8 +185,8 @@
           "sourceArticleId": "machu-picchu-wk",
           "sourceGeohash4": "6msm",
           "accessedAt": "2026-02-21T20:12:42.376Z",
-          "smallPath": "_m/6/m/s/m/machu-picchu-wk/inca-bridge-machu-picc-small.jpg",
-          "mediumPath": "_m/6/m/s/m/machu-picchu-wk/inca-bridge-machu-picc-medium.jpg"
+          "smallPath": "_m/6/m/s/m/machu-picchu-wk/inca-bridge-machu-picc-small.webp",
+          "mediumPath": "_m/6/m/s/m/machu-picchu-wk/inca-bridge-machu-picc-medium.webp"
         },
         {
           "path": "_m/6/m/s/m/machu-picchu-wk/machu-picchu.jpg",
@@ -201,8 +203,8 @@
           "sourceArticleId": "machu-picchu-wk",
           "sourceGeohash4": "6msm",
           "accessedAt": "2026-02-21T20:12:42.376Z",
-          "smallPath": "_m/6/m/s/m/machu-picchu-wk/machu-picchu-small.jpg",
-          "mediumPath": "_m/6/m/s/m/machu-picchu-wk/machu-picchu-medium.jpg"
+          "smallPath": "_m/6/m/s/m/machu-picchu-wk/machu-picchu-small.webp",
+          "mediumPath": "_m/6/m/s/m/machu-picchu-wk/machu-picchu-medium.webp"
         },
         {
           "path": "_m/6/m/s/m/machu-picchu-wk/machu-picchu-1.jpg",
@@ -219,7 +221,7 @@
           "sourceArticleId": "machu-picchu-wk",
           "sourceGeohash4": "6msm",
           "accessedAt": "2026-02-21T20:12:42.376Z",
-          "smallPath": "_m/6/m/s/m/machu-picchu-wk/machu-picchu-1-small.jpg"
+          "smallPath": "_m/6/m/s/m/machu-picchu-wk/machu-picchu-1-small.webp"
         },
         {
           "path": "_m/6/m/s/m/machu-picchu-wk/machu-picchu-mountain.jpg",
@@ -236,8 +238,8 @@
           "sourceArticleId": "machu-picchu-wk",
           "sourceGeohash4": "6msm",
           "accessedAt": "2026-02-21T20:12:42.376Z",
-          "smallPath": "_m/6/m/s/m/machu-picchu-wk/machu-picchu-mountain-small.jpg",
-          "mediumPath": "_m/6/m/s/m/machu-picchu-wk/machu-picchu-mountain-medium.jpg"
+          "smallPath": "_m/6/m/s/m/machu-picchu-wk/machu-picchu-mountain-small.webp",
+          "mediumPath": "_m/6/m/s/m/machu-picchu-wk/machu-picchu-mountain-medium.webp"
         },
         {
           "path": "_m/6/m/s/m/machu-picchu-wk/llama-machu-picchu-hua.jpg",
@@ -254,8 +256,8 @@
           "sourceArticleId": "machu-picchu-wk",
           "sourceGeohash4": "6msm",
           "accessedAt": "2026-02-21T20:12:42.376Z",
-          "smallPath": "_m/6/m/s/m/machu-picchu-wk/llama-machu-picchu-hua-small.jpg",
-          "mediumPath": "_m/6/m/s/m/machu-picchu-wk/llama-machu-picchu-hua-medium.jpg"
+          "smallPath": "_m/6/m/s/m/machu-picchu-wk/llama-machu-picchu-hua-small.webp",
+          "mediumPath": "_m/6/m/s/m/machu-picchu-wk/llama-machu-picchu-hua-medium.webp"
         },
         {
           "path": "_m/6/m/s/m/machu-picchu-wk/view-machu-picchu-huay.jpg",
@@ -272,8 +274,8 @@
           "sourceArticleId": "machu-picchu-wk",
           "sourceGeohash4": "6msm",
           "accessedAt": "2026-02-21T20:12:42.376Z",
-          "smallPath": "_m/6/m/s/m/machu-picchu-wk/view-machu-picchu-huay-small.jpg",
-          "mediumPath": "_m/6/m/s/m/machu-picchu-wk/view-machu-picchu-huay-medium.jpg"
+          "smallPath": "_m/6/m/s/m/machu-picchu-wk/view-machu-picchu-huay-small.webp",
+          "mediumPath": "_m/6/m/s/m/machu-picchu-wk/view-machu-picchu-huay-medium.webp"
         },
         {
           "path": "_m/6/m/s/m/machu-picchu-wk/templo-de-la-luna-cerc.jpg",
@@ -290,8 +292,8 @@
           "sourceArticleId": "machu-picchu-wk",
           "sourceGeohash4": "6msm",
           "accessedAt": "2026-02-21T20:12:42.376Z",
-          "smallPath": "_m/6/m/s/m/machu-picchu-wk/templo-de-la-luna-cerc-small.jpg",
-          "mediumPath": "_m/6/m/s/m/machu-picchu-wk/templo-de-la-luna-cerc-medium.jpg"
+          "smallPath": "_m/6/m/s/m/machu-picchu-wk/templo-de-la-luna-cerc-small.webp",
+          "mediumPath": "_m/6/m/s/m/machu-picchu-wk/templo-de-la-luna-cerc-medium.webp"
         },
         {
           "path": "_m/6/m/s/m/machu-picchu-wk/gran-caverna-cerca-del.jpg",
@@ -308,8 +310,8 @@
           "sourceArticleId": "machu-picchu-wk",
           "sourceGeohash4": "6msm",
           "accessedAt": "2026-02-21T20:12:42.376Z",
-          "smallPath": "_m/6/m/s/m/machu-picchu-wk/gran-caverna-cerca-del-small.jpg",
-          "mediumPath": "_m/6/m/s/m/machu-picchu-wk/gran-caverna-cerca-del-medium.jpg"
+          "smallPath": "_m/6/m/s/m/machu-picchu-wk/gran-caverna-cerca-del-small.webp",
+          "mediumPath": "_m/6/m/s/m/machu-picchu-wk/gran-caverna-cerca-del-medium.webp"
         },
         {
           "path": "_m/6/m/s/m/machu-picchu-wk/temple-des-trois-fenet.jpg",
@@ -326,8 +328,8 @@
           "sourceArticleId": "machu-picchu-wk",
           "sourceGeohash4": "6msm",
           "accessedAt": "2026-02-21T20:12:42.376Z",
-          "smallPath": "_m/6/m/s/m/machu-picchu-wk/temple-des-trois-fenet-small.jpg",
-          "mediumPath": "_m/6/m/s/m/machu-picchu-wk/temple-des-trois-fenet-medium.jpg"
+          "smallPath": "_m/6/m/s/m/machu-picchu-wk/temple-des-trois-fenet-small.webp",
+          "mediumPath": "_m/6/m/s/m/machu-picchu-wk/temple-des-trois-fenet-medium.webp"
         },
         {
           "path": "_m/6/m/s/m/machu-picchu-wk/supplice-du-condor.jpg",
@@ -344,8 +346,8 @@
           "sourceArticleId": "machu-picchu-wk",
           "sourceGeohash4": "6msm",
           "accessedAt": "2026-02-21T20:12:42.376Z",
-          "smallPath": "_m/6/m/s/m/machu-picchu-wk/supplice-du-condor-small.jpg",
-          "mediumPath": "_m/6/m/s/m/machu-picchu-wk/supplice-du-condor-medium.jpg"
+          "smallPath": "_m/6/m/s/m/machu-picchu-wk/supplice-du-condor-small.webp",
+          "mediumPath": "_m/6/m/s/m/machu-picchu-wk/supplice-du-condor-medium.webp"
         },
         {
           "path": "_m/6/m/s/m/machu-picchu-wk/steps-hiking-track-hua.jpg",
@@ -362,8 +364,8 @@
           "sourceArticleId": "machu-picchu-wk",
           "sourceGeohash4": "6msm",
           "accessedAt": "2026-02-21T20:12:42.376Z",
-          "smallPath": "_m/6/m/s/m/machu-picchu-wk/steps-hiking-track-hua-small.jpg",
-          "mediumPath": "_m/6/m/s/m/machu-picchu-wk/steps-hiking-track-hua-medium.jpg"
+          "smallPath": "_m/6/m/s/m/machu-picchu-wk/steps-hiking-track-hua-small.webp",
+          "mediumPath": "_m/6/m/s/m/machu-picchu-wk/steps-hiking-track-hua-medium.webp"
         },
         {
           "path": "_m/6/m/s/m/machu-picchu-wk/machu-picchu-lb07.jpg",
@@ -1077,7 +1079,8 @@
           "sourceGeohash4": "6msm",
           "accessedAt": "2026-02-21T20:12:42.376Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/6/m/s/m/machu-picchu-wk/6msm-machu-picchu-combined.mp3"
     }
   }
 }

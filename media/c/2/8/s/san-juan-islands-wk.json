@@ -3,20 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/c/2/8/s/san-juan-islands-wk/c28x-san-juan-islands-where-america-and-britain-almost--intro.mp3",
-        "_m/c/2/8/s/san-juan-islands-wk/c28s-san-juan-islands-intro.mp3",
         "_m/c/2/8/s/san-juan-islands-wk/c28s-san-juan-islands-flight-context.mp3",
-        "_m/c/2/8/s/san-juan-islands-wk/c28s-san-juan-islands-island-hopping.mp3",
-        "_m/c/2/8/s/san-juan-islands-wk/c28s-san-juan-islands-island-time.mp3",
-        "_m/c/2/8/s/san-juan-islands-wk/c28s-san-juan-islands-the-pig-war-remembered.mp3",
+        "_m/c/2/8/s/san-juan-islands-wk/c28s-san-juan-islands-intro.mp3",
         "_m/c/2/8/s/san-juan-islands-wk/c28s-san-juan-islands-the-resident-orcas.mp3",
+        "_m/c/2/8/s/san-juan-islands-wk/c28s-san-juan-islands-island-hopping.mp3",
+        "_m/c/2/8/s/san-juan-islands-wk/c28s-san-juan-islands-the-pig-war-remembered.mp3",
         "_m/c/2/8/s/san-juan-islands-wk/c28s-san-juan-islands-water-life.mp3",
-        "_m/c/2/8/s/san-juan-islands-wk/c28x-san-juan-islands-where-america-and-britain-almost--flight-context.mp3",
-        "_m/c/2/8/s/san-juan-islands-wk/c28x-san-juan-islands-where-america-and-britain-almost--the-dispute.mp3",
-        "_m/c/2/8/s/san-juan-islands-wk/c28x-san-juan-islands-where-america-and-britain-almost--the-escalation.mp3",
-        "_m/c/2/8/s/san-juan-islands-wk/c28x-san-juan-islands-where-america-and-britain-almost--the-islands-today.mp3",
-        "_m/c/2/8/s/san-juan-islands-wk/c28x-san-juan-islands-where-america-and-britain-almost--the-resolution.mp3",
-        "_m/c/2/8/s/san-juan-islands-wk/c28x-san-juan-islands-where-america-and-britain-almost--visiting-the-san-juan-islands.mp3"
+        "_m/c/2/8/s/san-juan-islands-wk/c28s-san-juan-islands-island-time.mp3"
       ],
       "hero": {
         "path": "_m/c/2/8/s/san-juan-islands-wp/sanjuanislands1.jpg",
@@ -39,7 +32,9 @@
           "Panoramics in Washington (state)",
           "Self-published work",
           "Taken with Samsung HMX-Q10"
-        ]
+        ],
+        "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/hero-medium.webp",
+        "smallPath": "_m/c/2/8/s/san-juan-islands-wk/hero-small.webp"
       },
       "images": [
         {
@@ -139,7 +134,7 @@
             "Sucia Island",
             "Taken with Canon PowerShot G2"
           ],
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/boats-anchor-echo-bay-small.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/boats-anchor-echo-bay-small.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/orcasislandferry.jpg",
@@ -175,7 +170,7 @@
           "sourceArticleId": "san-juan-islands-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:42.257Z",
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/map-san-juan-islands-h-small.png"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/map-san-juan-islands-h-small.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/hotel-de-haro-roche-ha.jpg",
@@ -210,8 +205,8 @@
           "sourceArticleId": "san-juan-islands-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:42.257Z",
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/southern-resident-kill-small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/southern-resident-kill-medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/southern-resident-kill-small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/southern-resident-kill-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/visitors-admire-sunris.jpg",
@@ -228,7 +223,7 @@
           "sourceArticleId": "san-juan-islands-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:42.257Z",
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/visitors-admire-sunris-small.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/visitors-admire-sunris-small.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/east-facing-aerial-vie.jpg",
@@ -245,7 +240,7 @@
           "sourceArticleId": "san-juan-islands-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:42.257Z",
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/east-facing-aerial-vie-small.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/east-facing-aerial-vie-small.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/compound-north-side-de.jpg",
@@ -262,8 +257,8 @@
           "sourceArticleId": "san-juan-islands-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:42.257Z",
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/compound-north-side-de-small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/compound-north-side-de-medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/compound-north-side-de-small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/compound-north-side-de-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/looking-west-near-anacortes-fe.jpg",
@@ -290,8 +285,8 @@
             "Unidentified Washington State Ferries vessels",
             "Views from ferries in Washington (state)"
           ],
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/looking-west-near-anacortes-fe-small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/looking-west-near-anacortes-fe-medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/looking-west-near-anacortes-fe-small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/looking-west-near-anacortes-fe-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/moran-mt-constitution-toward-c.jpg",
@@ -325,8 +320,8 @@
             "United States photographs taken on 2007-08-06",
             "Views from Mount Constitution"
           ],
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/moran-mt-constitution-toward-c-small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/moran-mt-constitution-toward-c-medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/moran-mt-constitution-toward-c-small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/moran-mt-constitution-toward-c-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/argus-a-y-p-ed-page-12.jpg",
@@ -352,8 +347,8 @@
             "San Juan Islands",
             "Sucia Island"
           ],
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/argus-a-y-p-ed-page-12-small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/argus-a-y-p-ed-page-12-medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/argus-a-y-p-ed-page-12-small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/argus-a-y-p-ed-page-12-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/argus-a-y-p-ed-page-16.jpg",
@@ -377,8 +372,8 @@
             "PD US expired",
             "San Juan Islands"
           ],
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/argus-a-y-p-ed-page-16-small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/argus-a-y-p-ed-page-16-medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/argus-a-y-p-ed-page-16-small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/argus-a-y-p-ed-page-16-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/argus-a-y-p-ed-page-41.jpg",
@@ -402,8 +397,8 @@
             "PD US expired",
             "San Juan Islands"
           ],
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/argus-a-y-p-ed-page-41-small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/argus-a-y-p-ed-page-41-medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/argus-a-y-p-ed-page-41-small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/argus-a-y-p-ed-page-41-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/lighthouse-sunset-sji.jpg",
@@ -430,8 +425,8 @@
             "Sunsets of San Juan Islands",
             "Taken with Panasonic Lumix DMC-FZ50"
           ],
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/lighthouse-sunset-sji-small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/lighthouse-sunset-sji-medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/lighthouse-sunset-sji-small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/lighthouse-sunset-sji-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/clark-island-viewed-from-mount.jpg",
@@ -452,8 +447,8 @@
             "CC-BY-SA-2.0",
             "Clark Island"
           ],
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/clark-island-viewed-from-mount-small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/clark-island-viewed-from-mount-medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/clark-island-viewed-from-mount-small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/clark-island-viewed-from-mount-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/guemes-island-from-anacortes-p.jpg",
@@ -470,8 +465,8 @@
           "sourceArticleId": "san-juan-islands-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:42.257Z",
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/guemes-island-from-anacortes-p-small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/guemes-island-from-anacortes-p-medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/guemes-island-from-anacortes-p-small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/guemes-island-from-anacortes-p-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/anacortes-boat-on-guemes-chann.jpg",
@@ -488,8 +483,8 @@
           "sourceArticleId": "san-juan-islands-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:42.257Z",
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-boat-on-guemes-chann-small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-boat-on-guemes-chann-medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-boat-on-guemes-chann-small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-boat-on-guemes-chann-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/anacortes-boat-on-guemes-chann-1.jpg",
@@ -506,8 +501,8 @@
           "sourceArticleId": "san-juan-islands-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:42.257Z",
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-boat-on-guemes-chann-1-small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-boat-on-guemes-chann-1-medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-boat-on-guemes-chann-1-small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-boat-on-guemes-chann-1-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/looking-north-from-anacortes-w.jpg",
@@ -524,8 +519,8 @@
           "sourceArticleId": "san-juan-islands-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:42.257Z",
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/looking-north-from-anacortes-w-small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/looking-north-from-anacortes-w-medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/looking-north-from-anacortes-w-small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/looking-north-from-anacortes-w-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/anacortes-wa-la-merced-etc-01.jpg",
@@ -542,8 +537,8 @@
           "sourceArticleId": "san-juan-islands-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:42.257Z",
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-wa-la-merced-etc-01-small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-wa-la-merced-etc-01-medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-wa-la-merced-etc-01-small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-wa-la-merced-etc-01-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/anacortes-wa-la-merced-etc-02.jpg",
@@ -560,8 +555,8 @@
           "sourceArticleId": "san-juan-islands-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:42.257Z",
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-wa-la-merced-etc-02-small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-wa-la-merced-etc-02-medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-wa-la-merced-etc-02-small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-wa-la-merced-etc-02-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/anacortes-wa-la-merced-etc-03.jpg",
@@ -578,8 +573,8 @@
           "sourceArticleId": "san-juan-islands-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:42.257Z",
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-wa-la-merced-etc-03-small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-wa-la-merced-etc-03-medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-wa-la-merced-etc-03-small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-wa-la-merced-etc-03-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/anacortes-wa-la-merced-etc-04.jpg",
@@ -596,8 +591,8 @@
           "sourceArticleId": "san-juan-islands-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:42.257Z",
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-wa-la-merced-etc-04-small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-wa-la-merced-etc-04-medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-wa-la-merced-etc-04-small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/anacortes-wa-la-merced-etc-04-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/looking-north-from-anacortes-w-1.jpg",
@@ -614,8 +609,8 @@
           "sourceArticleId": "san-juan-islands-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:42.257Z",
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/looking-north-from-anacortes-w-1-small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/looking-north-from-anacortes-w-1-medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/looking-north-from-anacortes-w-1-small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/looking-north-from-anacortes-w-1-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/looking-out-from-mv-chelan-on-.jpg",
@@ -632,8 +627,8 @@
           "sourceArticleId": "san-juan-islands-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:42.257Z",
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/looking-out-from-mv-chelan-on--small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/looking-out-from-mv-chelan-on--medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/looking-out-from-mv-chelan-on--small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/looking-out-from-mv-chelan-on--medium.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/looking-out-from-mv-chelan-on--1.jpg",
@@ -650,8 +645,8 @@
           "sourceArticleId": "san-juan-islands-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:42.257Z",
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/looking-out-from-mv-chelan-on--1-small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/looking-out-from-mv-chelan-on--1-medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/looking-out-from-mv-chelan-on--1-small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/looking-out-from-mv-chelan-on--1-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/looking-roughly-south-to-decat.jpg",
@@ -668,8 +663,8 @@
           "sourceArticleId": "san-juan-islands-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:42.257Z",
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/looking-roughly-south-to-decat-small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/looking-roughly-south-to-decat-medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/looking-roughly-south-to-decat-small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/looking-roughly-south-to-decat-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/san-juan-islands-wk/marine-view-from-ferry-near-ro.jpg",
@@ -686,8 +681,8 @@
           "sourceArticleId": "san-juan-islands-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:42.257Z",
-          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/marine-view-from-ferry-near-ro-small.jpg",
-          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/marine-view-from-ferry-near-ro-medium.jpg"
+          "smallPath": "_m/c/2/8/s/san-juan-islands-wk/marine-view-from-ferry-near-ro-small.webp",
+          "mediumPath": "_m/c/2/8/s/san-juan-islands-wk/marine-view-from-ferry-near-ro-medium.webp"
         },
         {
           "path": "_m/c/0/y/c/vancouver-island-wk/related-sibling-abies-lasiocarpa-0775.jpg",
@@ -1846,7 +1841,8 @@
             "Wikivoyage banners of Washington (state)"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/8/s/san-juan-islands-wk/c28s-san-juan-islands-combined.mp3"
     }
   }
 }

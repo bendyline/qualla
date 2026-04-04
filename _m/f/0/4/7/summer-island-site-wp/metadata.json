@@ -26,7 +26,7 @@
     "sourceType": "core",
     "sourceArticleId": "summer-island-site-wp",
     "sourceGeohash4": "f047",
-    "smallPath": "_m/f/0/4/7/summer-island-site-wp/hero-small.jpg"
+    "smallPath": "_m/f/0/4/7/summer-island-site-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Summer Island Site 1.jpg",
@@ -57,5 +57,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-02-28T10:01:37.875Z"
+  "narration": {
+    "files": [
+      "f047-summer-island-site-flight-context.mp3",
+      "f047-summer-island-site-intro.mp3",
+      "f047-summer-island-site-the-first-fires.mp3",
+      "f047-summer-island-site-pottery-from-distant-hands.mp3",
+      "f047-summer-island-site-the-contact-layer.mp3",
+      "f047-summer-island-site-reading-the-layers.mp3"
+    ],
+    "durations": {
+      "f047-summer-island-site-flight-context.mp3": 61.5853333,
+      "f047-summer-island-site-intro.mp3": 71.9835416,
+      "f047-summer-island-site-the-first-fires.mp3": 62.7127083,
+      "f047-summer-island-site-pottery-from-distant-hands.mp3": 69.2605,
+      "f047-summer-island-site-the-contact-layer.mp3": 70.5651666,
+      "f047-summer-island-site-reading-the-layers.mp3": 70.7597083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -111,87 +111,90 @@
   "locationWikipediaPath": "q/g/m/p/mutitjulu-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "tambora-wk",
-      "title": "The Eruption of Tambora: The Year Without a Summer",
-      "tile": "qwec",
+      "id": "wolfe-creek-crater-wp",
+      "title": "Wolfe Creek Crater",
+      "tile": "qudf",
       "coordinates": {
-        "lat": -8.25,
-        "lng": 118
+        "lat": -19.171667,
+        "lng": 127.795556
       },
-      "distanceKm": 2293.8
+      "distanceKm": 716.5
     },
     "n": {
-      "id": "great-barrier-reef-wk",
-      "title": "Great Barrier Reef",
-      "tile": "rk9d",
+      "id": "massacre-of-running-waters-wp",
+      "title": "Massacre of Running Waters",
+      "tile": "qgwt",
       "coordinates": {
-        "lat": -19.266,
-        "lng": 148.587
+        "lat": -24.2945,
+        "lng": 132.9011
       },
-      "distanceKm": 1926.8
+      "distanceKm": 217.6
     },
     "ne": {
-      "id": "great-barrier-reef-deeper-wk",
-      "title": "The Great Barrier Reef: The Living Structure Visible from Space - Now Dying",
-      "tile": "rkb9",
+      "id": "watarrka-national-park-wk",
+      "title": "Watarrka National Park",
+      "tile": "qgtw",
       "coordinates": {
-        "lat": -18,
-        "lng": 147
+        "lat": -24.2517,
+        "lng": 131.632
       },
-      "distanceKm": 1788
+      "distanceKm": 99.5
     },
     "w": {
-      "id": "perth-wk",
-      "title": "Perth",
-      "tile": "qd66",
+      "id": "eyre-highway-wk",
+      "title": "Eyre Highway",
+      "tile": "qfks",
       "coordinates": {
-        "lat": -31.9523,
-        "lng": 115.8613
+        "lat": -31.5742,
+        "lng": 130.163
       },
-      "distanceKm": 1595
+      "distanceKm": 687
     },
     "e": {
-      "id": "melbourne-wk",
-      "title": "Melbourne",
-      "tile": "r1r0",
+      "id": "anangu-pitjantjatjara-yankunytjatjara-wp",
+      "title": "Anangu Pitjantjatjara Yankunytjatjara",
+      "tile": "qgmc",
       "coordinates": {
-        "lat": -37.813611,
-        "lng": 144.963056
+        "lat": -26.5,
+        "lng": 132
       },
-      "distanceKm": 1875.8
+      "distanceKm": 132.7
     },
     "sw": {
-      "id": "great-emu-war-wk",
-      "title": "The Great Emu War: When Australia Lost a War to Birds",
-      "tile": "qdku",
+      "id": "nullarbor-plain-wp",
+      "title": "Nullarbor Plain",
+      "tile": "qfe8",
       "coordinates": {
-        "lat": -31.5,
-        "lng": 119.5
+        "lat": -30.76777778,
+        "lng": 128.97
       },
-      "distanceKm": 1248
+      "distanceKm": 585.2
     },
     "s": {
-      "id": "disappearance-harold-holt-wk",
-      "title": "The Disappearance of Harold Holt: The Prime Minister Who Vanished Into the Sea",
-      "tile": "r1ph",
+      "id": "oodnadatta-track-wk",
+      "title": "Oodnadatta Track",
+      "tile": "qgph",
       "coordinates": {
-        "lat": -38.4967,
-        "lng": 144.8708
+        "lat": -27.3,
+        "lng": 133.617
       },
-      "distanceKm": 1933
+      "distanceKm": 321.2
     },
     "se": {
-      "id": "adelaide-wk",
-      "title": "Adelaide",
-      "tile": "r1f9",
+      "id": "maralinga-tjarutja-wp",
+      "title": "Maralinga Tjarutja",
+      "tile": "qgmc",
       "coordinates": {
-        "lat": -34.9267,
-        "lng": 138.5991
+        "lat": -26.490278,
+        "lng": 132.007778
       },
-      "distanceKm": 1235
+      "distanceKm": 105.7
     }
   },
   "keywords": [
     "uluru"
+  ],
+  "duplicates": [
+    "mutitjulu-wp"
   ]
 }

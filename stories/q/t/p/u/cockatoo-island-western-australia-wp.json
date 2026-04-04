@@ -1,0 +1,151 @@
+{
+  "id": "cockatoo-island-western-australia-wp",
+  "source": "wikipedia",
+  "sourceId": "2677586",
+  "title": "Cockatoo Island (Western Australia)",
+  "slug": "cockatoo-island-western-australia",
+  "summary": "A remote island in the Buccaneer Archipelago where BHP built a self-contained mining town, dug iron ore down to sea level, and briefly turned the site into a tourist resort before the ore ran out.",
+  "content": {
+    "intro": "Pearl luggers working these waters in the 1880s noticed something useful about Cockatoo Island: its ironstone was heavy and dense, perfect as ballast for the voyage back from these remote Kimberley anchorages. The iron ore that made a good counterweight was also, it turned out, extraordinarily rich — high-grade haematite in enormous quantities. It would take another sixty years, a world war, and one of Australia's largest mining companies to extract it. By the time BHP was finished, they had dug the island down to sea level.",
+    "sections": [
+      {
+        "title": "From Ballast to Boom",
+        "body": "Australian Iron and Steel acquired the island's mineral leases in 1928 and was absorbed into BHP by 1935, bringing the leases with it. Surveys in 1930 and 1936 confirmed what the pearl luggers had suspected. When World War II broke out, the island was evacuated and work halted; it did not resume until 1944. By October 1945, more than a hundred men were working on Cockatoo Island, laying foundations for the processing plant, building a jetty, and laying out what would become a small company town.\n\nIron ore mining began formally in 1951. The first shipment left on the vessel Iron Yampi, purpose-built for the task at the Whyalla shipyard. Within a year, the island's population had reached 150. BHP built a school, a movie theatre, and a lockup prison. The island became a self-contained community in the middle of the Timor Sea, connected to the mainland by company ships and by the radio."
+      },
+      {
+        "title": "The Mine Runs Dry",
+        "body": "BHP operated the mine and managed the township until 1984, when the ore body had been excavated down to sea level. The company ceased operations and the town emptied. Then, in a move that demonstrated either optimism or eccentricity, businessman Alan Bond and his wife Eileen opened a tourist resort using the old mining village's infrastructure. The resort ran for a time — guests sleeping in miners' chalets on an island accessible only by sea or air, surrounded by the machinery of extraction — before eventually closing.\n\nThe island's industrial life was not finished. HWE Mining took it over for workers' accommodation. In the 1990s, HWE Mining and Portman Mining re-opened operations, beginning by retreating waste-rock from old BHP dumps before forming a seawall and mining below sea level. A second phase of extraction commenced — this time reaching beneath the ocean floor, requiring the engineering challenge of keeping seawater out of an open pit that had breached sea level."
+      },
+      {
+        "title": "Below Sea Level, and Who Owns It",
+        "body": "Pluton Resources mined Cockatoo Island into the twenty-first century, until the company entered administration in September 2015. The island then entered an unusual chapter. In 2020, Cockatoo Island Mining Pty Ltd — a company whose directors reside in Australia, India, Hong Kong, and mainland China — was granted a lease to operate until 2032 by the Foreign Investment Review Board.\n\nThe lease prompted concern in Australian defence and political circles. Senator Concetta Fierravanti-Wells and others noted that the island sits adjacent to the Yampi Sound Training Area, an active Australian Defence Force facility. The combination of foreign-controlled mining operations and proximity to a military training zone created an unresolved tension between commercial development and national security.\n\nThe island's climate is tropical savanna: a short, intense wet season from December to March, a long dry season, and temperatures that rarely dip below 22°C even in winter. It is remote, hot, and mineral-rich — and its future, as of the mid-2020s, remains contested."
+      }
+    ],
+    "flightContext": "Cockatoo Island is at 16.10°S, 123.62°E in the southeast group of the Buccaneer Archipelago, east of the main island cluster. The Yampi Sound Training Area (RAAF) lies to the east — check NOTAMs before flying in this area. At 2,000–4,000 feet, the island's worked topography is visible: the terraced cuts of the open pit mine, the remnant infrastructure of the former township, and the engineered seawalls that held back the Timor Sea. The nearest aerodrome is Derby (YDBY), approximately 100 km to the south."
+  },
+  "location": {
+    "coordinates": {
+      "lat": -16.09861111,
+      "lng": 123.61666667
+    },
+    "geohash": "qtpuk"
+  },
+  "categories": [
+    "Western Australia",
+    "Kimberley",
+    "Mining history",
+    "Buccaneer Archipelago"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-28T00:00:00Z",
+    "wordCount": 621,
+    "readTime": 3,
+    "firstPublished": "2026-03-28T00:00:00Z",
+    "storyNumber": 14161
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Cockatoo Island (Western Australia) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cockatoo_Island_(Western_Australia)",
+      "accessedAt": "2026-03-28",
+      "claimsVerified": [
+        "Iron ore mining began 1951 confirmed",
+        "first shipment on vessel Iron Yampi built at Whyalla shipyard confirmed",
+        "island population reached 150 within a year confirmed",
+        "BHP built school, movie theatre, lockup prison confirmed",
+        "BHP ceased operations 1984 when ore mined to sea level confirmed",
+        "Alan Bond and wife Eileen opened tourist resort using old mining village infrastructure confirmed",
+        "HWE Mining and Portman Mining re-opened in 1990s mining below sea level confirmed",
+        "Pluton Resources entered administration September 2015 confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "q/t/p/u/cockatoo-island-western-australia-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "kimberley-marine-park-wp",
+      "title": "Kimberley Marine Park",
+      "tile": "qtr3",
+      "coordinates": {
+        "lat": -15.2778,
+        "lng": 122.9757
+      },
+      "distanceKm": 60.8
+    },
+    "n": {
+      "id": "axis-naval-activity-in-australian-waters-wp",
+      "title": "Axis Naval Activity in Australian Waters",
+      "tile": "qv31",
+      "coordinates": {
+        "lat": -15.13777778,
+        "lng": 125.38638889
+      },
+      "distanceKm": 208.5
+    },
+    "ne": {
+      "id": "camden-sound-wp",
+      "title": "Camden Sound",
+      "tile": "qv22",
+      "coordinates": {
+        "lat": -15.4464,
+        "lng": 124.418
+      },
+      "distanceKm": 53.6
+    },
+    "w": {
+      "id": "broome-wk",
+      "title": "Broome",
+      "tile": "qsyc",
+      "coordinates": {
+        "lat": -17.962,
+        "lng": 122.236
+      },
+      "distanceKm": 225.9
+    },
+    "e": {
+      "id": "montgomery-reef-wp",
+      "title": "Montgomery Reef",
+      "tile": "qv0m",
+      "coordinates": {
+        "lat": -15.9933,
+        "lng": 124.24
+      },
+      "distanceKm": 17.9
+    },
+    "sw": {
+      "id": "cable-beach-wk",
+      "title": "Cable Beach",
+      "tile": "qsyc",
+      "coordinates": {
+        "lat": -17.9328115,
+        "lng": 122.2136937
+      },
+      "distanceKm": 197.2
+    },
+    "s": {
+      "id": "horizontal-falls-wp",
+      "title": "Horizontal Falls",
+      "tile": "qv04",
+      "coordinates": {
+        "lat": -16.38,
+        "lng": 123.95916667
+      },
+      "distanceKm": 41.2
+    },
+    "se": {
+      "id": "ellendale-diamond-field-wp",
+      "title": "Ellendale Diamond Field",
+      "tile": "qubu",
+      "coordinates": {
+        "lat": -17.5675,
+        "lng": 124.854
+      },
+      "distanceKm": 157.5
+    }
+  }
+}

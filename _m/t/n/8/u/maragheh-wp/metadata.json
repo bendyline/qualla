@@ -26,7 +26,7 @@
       "sourceType": "poi",
       "sourceArticleId": "maragheh-wp",
       "sourceGeohash4": "tn8u",
-      "smallPath": "_m/t/n/8/u/maragheh-wp/gonbadkabod-small.jpg"
+      "smallPath": "_m/t/n/8/u/maragheh-wp/gonbadkabod-small.webp"
     },
     {
       "filename": "Gonbadsorkh2.jpg",
@@ -48,7 +48,7 @@
       "sourceType": "poi",
       "sourceArticleId": "maragheh-wp",
       "sourceGeohash4": "tn8u",
-      "smallPath": "_m/t/n/8/u/maragheh-wp/gonbadsorkh2-small.jpg"
+      "smallPath": "_m/t/n/8/u/maragheh-wp/gonbadsorkh2-small.webp"
     },
     {
       "filename": "SufiÇay.jpg",
@@ -74,8 +74,8 @@
       "sourceType": "poi",
       "sourceArticleId": "maragheh-wp",
       "sourceGeohash4": "tn8u",
-      "mediumPath": "_m/t/n/8/u/maragheh-wp/suficay-medium.jpg",
-      "smallPath": "_m/t/n/8/u/maragheh-wp/suficay-small.jpg"
+      "mediumPath": "_m/t/n/8/u/maragheh-wp/suficay-medium.webp",
+      "smallPath": "_m/t/n/8/u/maragheh-wp/suficay-small.webp"
     },
     {
       "filename": "Maragha-Baner-Ams.jpg",
@@ -97,8 +97,8 @@
       "sourceType": "poi",
       "sourceArticleId": "maragheh-wp",
       "sourceGeohash4": "tn8u",
-      "mediumPath": "_m/t/n/8/u/maragheh-wp/maragha-baner-ams-medium.jpg",
-      "smallPath": "_m/t/n/8/u/maragheh-wp/maragha-baner-ams-small.jpg"
+      "mediumPath": "_m/t/n/8/u/maragheh-wp/maragha-baner-ams-medium.webp",
+      "smallPath": "_m/t/n/8/u/maragheh-wp/maragha-baner-ams-small.webp"
     }
   ],
   "galleryPaths": [
@@ -107,5 +107,24 @@
     "_m/t/n/8/u/maragheh-wp/suficay.jpg",
     "_m/t/n/8/u/maragheh-wp/maragha-baner-ams.jpg"
   ],
-  "updatedAt": "2026-03-01T12:46:05.349Z"
+  "updatedAt": "2026-03-01T12:46:05.349Z",
+  "narration": {
+    "files": [
+      "tn8u-maragheh-flight-context.mp3",
+      "tn8u-maragheh-intro.mp3",
+      "tn8u-maragheh-towers-that-encode-mathematics.mp3",
+      "tn8u-maragheh-when-the-mongols-chose-maragheh.mp3",
+      "tn8u-maragheh-the-city-between-empires.mp3",
+      "tn8u-maragheh-the-view-from-sahands-shadow.mp3"
+    ],
+    "durations": {
+      "tn8u-maragheh-flight-context.mp3": 47.6284166,
+      "tn8u-maragheh-intro.mp3": 58.9727083,
+      "tn8u-maragheh-towers-that-encode-mathematics.mp3": 60.3372916,
+      "tn8u-maragheh-when-the-mongols-chose-maragheh.mp3": 64.0372916,
+      "tn8u-maragheh-the-city-between-empires.mp3": 56.3046666,
+      "tn8u-maragheh-the-view-from-sahands-shadow.mp3": 61.564125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

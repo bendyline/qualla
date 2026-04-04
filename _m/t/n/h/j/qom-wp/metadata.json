@@ -24,7 +24,7 @@
       "sourceType": "poi",
       "sourceArticleId": "qom-wp",
       "sourceGeohash4": "tnhj",
-      "smallPath": "_m/t/n/h/j/qom-wp/gaz-candy-from-iran-small.jpg"
+      "smallPath": "_m/t/n/h/j/qom-wp/gaz-candy-from-iran-small.webp"
     },
     {
       "filename": "Marashi library.jpg",
@@ -46,7 +46,7 @@
       "sourceType": "poi",
       "sourceArticleId": "qom-wp",
       "sourceGeohash4": "tnhj",
-      "smallPath": "_m/t/n/h/j/qom-wp/marashi-library-small.jpg"
+      "smallPath": "_m/t/n/h/j/qom-wp/marashi-library-small.webp"
     },
     {
       "filename": "Qom-Masumia-School.JPG",
@@ -70,7 +70,7 @@
       "sourceType": "poi",
       "sourceArticleId": "qom-wp",
       "sourceGeohash4": "tnhj",
-      "smallPath": "_m/t/n/h/j/qom-wp/qom-masumia-school-small.jpg"
+      "smallPath": "_m/t/n/h/j/qom-wp/qom-masumia-school-small.webp"
     },
     {
       "filename": "Sohan Qom.jpg",
@@ -93,7 +93,7 @@
       "sourceType": "poi",
       "sourceArticleId": "qom-wp",
       "sourceGeohash4": "tnhj",
-      "smallPath": "_m/t/n/h/j/qom-wp/sohan-qom-small.jpg"
+      "smallPath": "_m/t/n/h/j/qom-wp/sohan-qom-small.webp"
     },
     {
       "filename": "University of Religions and Denominations.JPG",
@@ -116,7 +116,7 @@
       "sourceType": "poi",
       "sourceArticleId": "qom-wp",
       "sourceGeohash4": "tnhj",
-      "smallPath": "_m/t/n/h/j/qom-wp/university-of-religions-and-de-small.jpg"
+      "smallPath": "_m/t/n/h/j/qom-wp/university-of-religions-and-de-small.webp"
     },
     {
       "filename": "Fatima Masumeh Shrine, Qom 15.jpg",
@@ -149,8 +149,8 @@
       "sourceType": "poi",
       "sourceArticleId": "qom-wp",
       "sourceGeohash4": "tnhj",
-      "mediumPath": "_m/t/n/h/j/qom-wp/fatima-masumeh-shrine-qom-15-medium.jpg",
-      "smallPath": "_m/t/n/h/j/qom-wp/fatima-masumeh-shrine-qom-15-small.jpg"
+      "mediumPath": "_m/t/n/h/j/qom-wp/fatima-masumeh-shrine-qom-15-medium.webp",
+      "smallPath": "_m/t/n/h/j/qom-wp/fatima-masumeh-shrine-qom-15-small.webp"
     },
     {
       "filename": "Jameh Mosque of Qom.jpg",
@@ -168,8 +168,8 @@
       "sourceType": "poi",
       "sourceArticleId": "qom-wp",
       "sourceGeohash4": "tnhj",
-      "mediumPath": "_m/t/n/h/j/qom-wp/jameh-mosque-of-qom-medium.jpg",
-      "smallPath": "_m/t/n/h/j/qom-wp/jameh-mosque-of-qom-small.jpg"
+      "mediumPath": "_m/t/n/h/j/qom-wp/jameh-mosque-of-qom-medium.webp",
+      "smallPath": "_m/t/n/h/j/qom-wp/jameh-mosque-of-qom-small.webp"
     },
     {
       "filename": "The image of Hazrat Masoumeh's shrine.jpg",
@@ -187,8 +187,8 @@
       "sourceType": "poi",
       "sourceArticleId": "qom-wp",
       "sourceGeohash4": "tnhj",
-      "mediumPath": "_m/t/n/h/j/qom-wp/the-image-of-hazrat-masoumeh-s-medium.jpg",
-      "smallPath": "_m/t/n/h/j/qom-wp/the-image-of-hazrat-masoumeh-s-small.jpg"
+      "mediumPath": "_m/t/n/h/j/qom-wp/the-image-of-hazrat-masoumeh-s-medium.webp",
+      "smallPath": "_m/t/n/h/j/qom-wp/the-image-of-hazrat-masoumeh-s-small.webp"
     }
   ],
   "galleryPaths": [
@@ -201,5 +201,26 @@
     "_m/t/n/h/j/qom-wp/jameh-mosque-of-qom.jpg",
     "_m/t/n/h/j/qom-wp/the-image-of-hazrat-masoumeh-s.jpg"
   ],
-  "updatedAt": "2026-03-01T14:10:33.005Z"
+  "updatedAt": "2026-03-01T14:10:33.005Z",
+  "narration": {
+    "files": [
+      "tnhj-qom-flight-context.mp3",
+      "tnhj-qom-intro.mp3",
+      "tnhj-qom-before-the-crescent.mp3",
+      "tnhj-qom-the-shrine-that-built-a-city.mp3",
+      "tnhj-qom-conquered-destroyed-reborn.mp3",
+      "tnhj-qom-revolutions-launchpad.mp3",
+      "tnhj-qom-sacred-ground-strategic-target.mp3"
+    ],
+    "durations": {
+      "tnhj-qom-flight-context.mp3": 48.0007083,
+      "tnhj-qom-intro.mp3": 53.3029583,
+      "tnhj-qom-before-the-crescent.mp3": 67.268,
+      "tnhj-qom-the-shrine-that-built-a-city.mp3": 68.167625,
+      "tnhj-qom-conquered-destroyed-reborn.mp3": 66.1862083,
+      "tnhj-qom-revolutions-launchpad.mp3": 59.3894166,
+      "tnhj-qom-sacred-ground-strategic-target.mp3": 56.522375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

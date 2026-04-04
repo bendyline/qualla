@@ -19,10 +19,8 @@
       "c84u-yellowstone-art-museum-the-visible-vault.mp3": 45.4411666,
       "c84u-yellowstone-art-museum-a-regional-anchor.mp3": 53.6803333
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-28T07:14:58.277Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
-  "fetchedAt": "2026-02-22T02:24:44.431Z",
   "hero": {
     "filename": "Yellowstone Art Museum, 2024.jpg",
     "title": "File:Yellowstone Art Museum, 2024.jpg",
@@ -46,8 +44,8 @@
     "sourceType": "core",
     "sourceArticleId": "yellowstone-art-museum-wp",
     "sourceGeohash4": "c84u",
-    "smallPath": "_m/c/8/4/u/yellowstone-art-museum-wp/hero-small.jpg",
-    "mediumPath": "_m/c/8/4/u/yellowstone-art-museum-wp/hero-medium.jpg"
+    "smallPath": "_m/c/8/4/u/yellowstone-art-museum-wp/hero-small.webp",
+    "mediumPath": "_m/c/8/4/u/yellowstone-art-museum-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Yellowstone Art Museum, 2024.jpg",
@@ -100,8 +98,8 @@
       "sourceType": "core",
       "sourceArticleId": "yellowstone-art-museum-wp",
       "sourceGeohash4": "c84u",
-      "smallPath": "_m/c/8/4/u/yellowstone-art-museum-wp/yellowstone-river-cobu-small.jpg",
-      "mediumPath": "_m/c/8/4/u/yellowstone-art-museum-wp/yellowstone-river-cobu-medium.jpg"
+      "smallPath": "_m/c/8/4/u/yellowstone-art-museum-wp/yellowstone-river-cobu-small.webp",
+      "mediumPath": "_m/c/8/4/u/yellowstone-art-museum-wp/yellowstone-river-cobu-medium.webp"
     },
     {
       "filename": "Yellowstone Art Museum.JPG",
@@ -123,7 +121,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "yellowstone-art-museum-wp",
-      "sourceGeohash4": "c84u"
+      "sourceGeohash4": "c84u",
+      "mediumPath": "_m/c/8/4/u/yellowstone-art-museum-wp/yellowstone-art-museum-medium.webp",
+      "smallPath": "_m/c/8/4/u/yellowstone-art-museum-wp/yellowstone-art-museum-small.webp"
     },
     {
       "filename": "Art-o-mat.jpg",
@@ -148,7 +148,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "yellowstone-art-museum-wp",
-      "sourceGeohash4": "c84u"
+      "sourceGeohash4": "c84u",
+      "mediumPath": "_m/c/8/4/u/yellowstone-art-museum-wp/art-o-mat-medium.webp",
+      "smallPath": "_m/c/8/4/u/yellowstone-art-museum-wp/art-o-mat-small.webp"
     },
     {
       "filename": "Urban56 (39044495572).jpg",
@@ -175,7 +177,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "yellowstone-art-museum-wp",
-      "sourceGeohash4": "c84u"
+      "sourceGeohash4": "c84u",
+      "smallPath": "_m/c/8/4/u/yellowstone-art-museum-wp/urban56-39044495572-small.webp"
     },
     {
       "filename": "Urban54 (27297601399).jpg",
@@ -200,7 +203,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "yellowstone-art-museum-wp",
-      "sourceGeohash4": "c84u"
+      "sourceGeohash4": "c84u",
+      "mediumPath": "_m/c/8/4/u/yellowstone-art-museum-wp/urban54-27297601399-medium.webp",
+      "smallPath": "_m/c/8/4/u/yellowstone-art-museum-wp/urban54-27297601399-small.webp"
     }
   ],
   "galleryPaths": [

@@ -27,8 +27,8 @@
     "sourceType": "core",
     "sourceArticleId": "sinaw-wp",
     "sourceGeohash4": "tk12",
-    "mediumPath": "_m/t/k/1/2/sinaw-wp/hero-medium.jpg",
-    "smallPath": "_m/t/k/1/2/sinaw-wp/hero-small.jpg"
+    "mediumPath": "_m/t/k/1/2/sinaw-wp/hero-medium.webp",
+    "smallPath": "_m/t/k/1/2/sinaw-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Sinaw (2).jpg",
@@ -82,7 +82,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "sinaw-wp",
       "sourceGeohash4": "tk12",
-      "smallPath": "_m/t/k/1/2/sinaw-wp/sinaw-5-small.jpg"
+      "smallPath": "_m/t/k/1/2/sinaw-wp/sinaw-5-small.webp"
     },
     {
       "filename": "Sinaw (7).jpg",
@@ -107,7 +107,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "sinaw-wp",
       "sourceGeohash4": "tk12",
-      "smallPath": "_m/t/k/1/2/sinaw-wp/sinaw-7-small.jpg"
+      "smallPath": "_m/t/k/1/2/sinaw-wp/sinaw-7-small.webp"
     },
     {
       "filename": "Sinaw (8).jpg",
@@ -136,8 +136,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "sinaw-wp",
       "sourceGeohash4": "tk12",
-      "mediumPath": "_m/t/k/1/2/sinaw-wp/sinaw-8-medium.jpg",
-      "smallPath": "_m/t/k/1/2/sinaw-wp/sinaw-8-small.jpg"
+      "mediumPath": "_m/t/k/1/2/sinaw-wp/sinaw-8-medium.webp",
+      "smallPath": "_m/t/k/1/2/sinaw-wp/sinaw-8-small.webp"
     },
     {
       "filename": "Sinaw, Bedouin woman with mobile phone (6896969401).jpg",
@@ -167,8 +167,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "sinaw-wp",
       "sourceGeohash4": "tk12",
-      "mediumPath": "_m/t/k/1/2/sinaw-wp/sinaw-bedouin-woman-with-mobil-medium.jpg",
-      "smallPath": "_m/t/k/1/2/sinaw-wp/sinaw-bedouin-woman-with-mobil-small.jpg"
+      "mediumPath": "_m/t/k/1/2/sinaw-wp/sinaw-bedouin-woman-with-mobil-medium.webp",
+      "smallPath": "_m/t/k/1/2/sinaw-wp/sinaw-bedouin-woman-with-mobil-small.webp"
     }
   ],
   "galleryPaths": [
@@ -177,6 +177,24 @@
     "_m/t/k/1/2/sinaw-wp/sinaw-8.jpg",
     "_m/t/k/1/2/sinaw-wp/sinaw-bedouin-woman-with-mobil.jpg"
   ],
-  "fetchedAt": "2026-03-01T09:42:03.731Z",
-  "updatedAt": "2026-03-01T09:42:29.026Z"
+  "updatedAt": "2026-03-01T09:42:29.026Z",
+  "narration": {
+    "files": [
+      "tk12-sinaw-flight-context.mp3",
+      "tk12-sinaw-intro.mp3",
+      "tk12-sinaw-the-warrior-in-the-grave.mp3",
+      "tk12-sinaw-steel-before-steel-was-common.mp3",
+      "tk12-sinaw-the-turquoise-jar-of-silver.mp3",
+      "tk12-sinaw-where-desert-meets-mountain.mp3"
+    ],
+    "durations": {
+      "tk12-sinaw-flight-context.mp3": 32.0243333,
+      "tk12-sinaw-intro.mp3": 43.51925,
+      "tk12-sinaw-the-warrior-in-the-grave.mp3": 63.777125,
+      "tk12-sinaw-steel-before-steel-was-common.mp3": 47.2869166,
+      "tk12-sinaw-the-turquoise-jar-of-silver.mp3": 52.2097083,
+      "tk12-sinaw-where-desert-meets-mountain.mp3": 48.418625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

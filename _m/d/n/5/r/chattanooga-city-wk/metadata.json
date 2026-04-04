@@ -11,7 +11,6 @@
       "dn5r-chattanooga-the-gig-city-that-reinvented-itself-wi-visiting-chattanooga.mp3"
     ],
     "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-24T10:19:38.255Z",
     "durations": {
       "dn5r-chattanooga-the-gig-city-that-reinvented-itself-wi-flight-context.mp3": 45.2140833,
       "dn5r-chattanooga-the-gig-city-that-reinvented-itself-wi-intro.mp3": 57.2913333,
@@ -22,7 +21,6 @@
       "dn5r-chattanooga-the-gig-city-that-reinvented-itself-wi-visiting-chattanooga.mp3": 43.56825
     }
   },
-  "fetchedAt": "2026-02-22T11:46:04.179Z",
   "hero": {
     "filename": "OldLibraryChattanooga.jpg",
     "title": "File:OldLibraryChattanooga.jpg",
@@ -54,8 +52,8 @@
     "sourceType": "core",
     "sourceArticleId": "chattanooga-city-wk",
     "sourceGeohash4": "dn5r",
-    "smallPath": "_m/d/n/5/r/chattanooga-city-wk/hero-small.jpg",
-    "mediumPath": "_m/d/n/5/r/chattanooga-city-wk/hero-medium.jpg"
+    "smallPath": "_m/d/n/5/r/chattanooga-city-wk/hero-small.webp",
+    "mediumPath": "_m/d/n/5/r/chattanooga-city-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "OldLibraryChattanooga.jpg",
@@ -117,8 +115,8 @@
       "sourceType": "core",
       "sourceArticleId": "chattanooga-city-wk",
       "sourceGeohash4": "dn5r",
-      "smallPath": "_m/d/n/5/r/chattanooga-city-wk/chattanooga-public-lib-small.jpg",
-      "mediumPath": "_m/d/n/5/r/chattanooga-city-wk/chattanooga-public-lib-medium.jpg"
+      "smallPath": "_m/d/n/5/r/chattanooga-city-wk/chattanooga-public-lib-small.webp",
+      "mediumPath": "_m/d/n/5/r/chattanooga-city-wk/chattanooga-public-lib-medium.webp"
     },
     {
       "filename": "The Public Library (Chattanooga, Tennessee).jpg",
@@ -141,7 +139,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "chattanooga-city-wk",
-      "sourceGeohash4": "dn5r"
+      "sourceGeohash4": "dn5r",
+      "mediumPath": "_m/d/n/5/r/chattanooga-city-wk/the-public-library-chattanooga-medium.webp",
+      "smallPath": "_m/d/n/5/r/chattanooga-city-wk/the-public-library-chattanooga-small.webp"
     }
   ],
   "galleryPaths": [

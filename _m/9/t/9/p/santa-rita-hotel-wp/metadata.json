@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "santa-rita-hotel-wp",
     "sourceGeohash4": "9t9p",
-    "smallPath": "_m/9/t/9/p/santa-rita-hotel-wp/hero-small.jpg",
-    "mediumPath": "_m/9/t/9/p/santa-rita-hotel-wp/hero-medium.jpg"
+    "smallPath": "_m/9/t/9/p/santa-rita-hotel-wp/hero-small.webp",
+    "mediumPath": "_m/9/t/9/p/santa-rita-hotel-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Santa Rita Hotel 1904.jpg",
@@ -75,7 +75,7 @@
       "sourceType": "core",
       "sourceArticleId": "santa-rita-hotel-wp",
       "sourceGeohash4": "9t9p",
-      "smallPath": "_m/9/t/9/p/santa-rita-hotel-wp/santa-rita-hotel-tucso-small.jpg"
+      "smallPath": "_m/9/t/9/p/santa-rita-hotel-wp/santa-rita-hotel-tucso-small.webp"
     },
     {
       "filename": "Santa Rita Hotel 1910.jpg",
@@ -100,7 +100,7 @@
       "sourceType": "core",
       "sourceArticleId": "santa-rita-hotel-wp",
       "sourceGeohash4": "9t9p",
-      "smallPath": "_m/9/t/9/p/santa-rita-hotel-wp/santa-rita-hotel-tucso-1-small.jpg"
+      "smallPath": "_m/9/t/9/p/santa-rita-hotel-wp/santa-rita-hotel-tucso-1-small.webp"
     },
     {
       "filename": "Santa Rita Hotel 1904 rendering.png",
@@ -147,7 +147,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "santa-rita-hotel-wp",
-      "sourceGeohash4": "9t9p"
+      "sourceGeohash4": "9t9p",
+      "mediumPath": "_m/9/t/9/p/santa-rita-hotel-wp/santa-rita-hotel-tucson-arizon-medium.webp",
+      "smallPath": "_m/9/t/9/p/santa-rita-hotel-wp/santa-rita-hotel-tucson-arizon-small.webp"
     },
     {
       "filename": "Santa Rita Hotel 1918.png",
@@ -171,7 +173,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "santa-rita-hotel-wp",
-      "sourceGeohash4": "9t9p"
+      "sourceGeohash4": "9t9p",
+      "smallPath": "_m/9/t/9/p/santa-rita-hotel-wp/santa-rita-hotel-1918-small.webp"
     }
   ],
   "galleryPaths": [
@@ -181,7 +184,6 @@
     "_m/9/t/9/p/santa-rita-hotel-wp/santa-rita-hotel-tucson-arizon.jpg",
     "_m/9/t/9/p/santa-rita-hotel-wp/santa-rita-hotel-1918.png"
   ],
-  "fetchedAt": "2026-02-21T21:55:16.271Z",
   "narration": {
     "files": [
       "9t9p-santa-rita-hotel-flight-context.mp3",
@@ -201,8 +203,7 @@
       "9t9p-santa-rita-hotel-expansion-and-eclipse.mp3": 66.14,
       "9t9p-santa-rita-hotel-what-remains.mp3": 49.2197083
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-07T21:45:00.857Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T21:55:16.763Z"
 }

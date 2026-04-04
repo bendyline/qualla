@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "apache-trail-wp",
     "sourceGeohash4": "9tbw",
-    "smallPath": "_m/9/t/b/w/apache-trail-wp/hero-small.jpg",
-    "mediumPath": "_m/9/t/b/w/apache-trail-wp/hero-medium.jpg"
+    "smallPath": "_m/9/t/b/w/apache-trail-wp/hero-small.webp",
+    "mediumPath": "_m/9/t/b/w/apache-trail-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Apache Trail 06.jpg",
@@ -91,8 +91,8 @@
       "sourceType": "core",
       "sourceArticleId": "apache-trail-wp",
       "sourceGeohash4": "9tbw",
-      "smallPath": "_m/9/t/b/w/apache-trail-wp/canyon-lake-rainbow-la-small.jpg",
-      "mediumPath": "_m/9/t/b/w/apache-trail-wp/canyon-lake-rainbow-la-medium.jpg"
+      "smallPath": "_m/9/t/b/w/apache-trail-wp/canyon-lake-rainbow-la-small.webp",
+      "mediumPath": "_m/9/t/b/w/apache-trail-wp/canyon-lake-rainbow-la-medium.webp"
     },
     {
       "filename": "Apache Junction-Historic Apache Trail.jpg",
@@ -118,8 +118,8 @@
       "sourceType": "core",
       "sourceArticleId": "apache-trail-wp",
       "sourceGeohash4": "9tbw",
-      "smallPath": "_m/9/t/b/w/apache-trail-wp/historic-apache-trail-small.jpg",
-      "mediumPath": "_m/9/t/b/w/apache-trail-wp/historic-apache-trail-medium.jpg"
+      "smallPath": "_m/9/t/b/w/apache-trail-wp/historic-apache-trail-small.webp",
+      "mediumPath": "_m/9/t/b/w/apache-trail-wp/historic-apache-trail-medium.webp"
     },
     {
       "filename": "Apache Trail SW01.jpg",
@@ -145,8 +145,8 @@
       "sourceType": "core",
       "sourceArticleId": "apache-trail-wp",
       "sourceGeohash4": "9tbw",
-      "smallPath": "_m/9/t/b/w/apache-trail-wp/apache-trail-looking-s-small.jpg",
-      "mediumPath": "_m/9/t/b/w/apache-trail-wp/apache-trail-looking-s-medium.jpg"
+      "smallPath": "_m/9/t/b/w/apache-trail-wp/apache-trail-looking-s-small.webp",
+      "mediumPath": "_m/9/t/b/w/apache-trail-wp/apache-trail-looking-s-medium.webp"
     },
     {
       "filename": "RV Kicking Up Dust on the Apache Trail.jpg",
@@ -177,7 +177,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "apache-trail-wp",
-      "sourceGeohash4": "9tbw"
+      "sourceGeohash4": "9tbw",
+      "mediumPath": "_m/9/t/b/w/apache-trail-wp/rv-kicking-up-dust-on-the-apac-medium.webp",
+      "smallPath": "_m/9/t/b/w/apache-trail-wp/rv-kicking-up-dust-on-the-apac-small.webp"
     },
     {
       "filename": "Chicken of the Desert (5611594987).jpg",
@@ -202,7 +204,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "apache-trail-wp",
-      "sourceGeohash4": "9tbw"
+      "sourceGeohash4": "9tbw",
+      "mediumPath": "_m/9/t/b/w/apache-trail-wp/chicken-of-the-desert-56115949-medium.webp",
+      "smallPath": "_m/9/t/b/w/apache-trail-wp/chicken-of-the-desert-56115949-small.webp"
     },
     {
       "filename": "Introduction page - DPLA - 741438eafe42dc95f6a4544fa1e4b1ea.jpg",
@@ -227,7 +231,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "apache-trail-wp",
-      "sourceGeohash4": "9tbw"
+      "sourceGeohash4": "9tbw",
+      "mediumPath": "_m/9/t/b/w/apache-trail-wp/introduction-page-dpla-741438e-medium.webp",
+      "smallPath": "_m/9/t/b/w/apache-trail-wp/introduction-page-dpla-741438e-small.webp"
     },
     {
       "filename": "Road (4471025278).jpg",
@@ -253,7 +259,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "apache-trail-wp",
-      "sourceGeohash4": "9tbw"
+      "sourceGeohash4": "9tbw",
+      "mediumPath": "_m/9/t/b/w/apache-trail-wp/road-4471025278-medium.webp",
+      "smallPath": "_m/9/t/b/w/apache-trail-wp/road-4471025278-small.webp"
     },
     {
       "filename": "Apache Trail 2 (4468812294).jpg",
@@ -279,7 +287,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "apache-trail-wp",
-      "sourceGeohash4": "9tbw"
+      "sourceGeohash4": "9tbw",
+      "mediumPath": "_m/9/t/b/w/apache-trail-wp/apache-trail-2-4468812294-medium.webp",
+      "smallPath": "_m/9/t/b/w/apache-trail-wp/apache-trail-2-4468812294-small.webp"
     },
     {
       "filename": "Apache Trail 1 (4468036687).jpg",
@@ -305,7 +315,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "apache-trail-wp",
-      "sourceGeohash4": "9tbw"
+      "sourceGeohash4": "9tbw",
+      "mediumPath": "_m/9/t/b/w/apache-trail-wp/apache-trail-1-4468036687-medium.webp",
+      "smallPath": "_m/9/t/b/w/apache-trail-wp/apache-trail-1-4468036687-small.webp"
     }
   ],
   "galleryPaths": [
@@ -319,7 +331,6 @@
     "_m/9/t/b/w/apache-trail-wp/apache-trail-2-4468812294.jpg",
     "_m/9/t/b/w/apache-trail-wp/apache-trail-1-4468036687.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:05:57.575Z",
   "narration": {
     "files": [
       "9tbw-apache-trail-flight-context.mp3",
@@ -337,8 +348,7 @@
       "9tbw-apache-trail-from-supply-route-to-sunset-route.mp3": 54.8344166,
       "9tbw-apache-trail-a-road-that-refuses-to-die.mp3": 63.9864166
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-07T23:48:29.874Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:05:59.174Z"
 }

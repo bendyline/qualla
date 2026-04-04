@@ -121,66 +121,46 @@
   "locationWikivoyagePath": "s/x/0/r/thessaloniki-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "dubrovnik-wk",
-      "title": "Dubrovnik",
-      "tile": "srsf",
+      "id": "ohrid-wk",
+      "title": "Ohrid",
+      "tile": "srqc",
       "coordinates": {
-        "lat": 42.6507,
-        "lng": 18.0944
+        "lat": 41.116944,
+        "lng": 20.801944
       },
-      "distanceKm": 410.8
+      "distanceKm": 143.5
     },
     "n": {
-      "id": "franz-ferdinand-wk",
-      "title": "The Assassination of Franz Ferdinand: The Wrong Turn That Started World War I",
-      "tile": "srv1",
+      "id": "old-bazaar-skopje-wp",
+      "title": "Old Bazaar, Skopje",
+      "tile": "srrn",
       "coordinates": {
-        "lat": 43.8575,
-        "lng": 18.4283
+        "lat": 42.000756,
+        "lng": 21.436956
       },
-      "distanceKm": 496.4
+      "distanceKm": 176.1
     },
     "ne": {
-      "id": "charge-light-brigade-wk",
-      "title": "The Charge of the Light Brigade: The Most Famous Military Blunder in History",
-      "tile": "sxzv",
+      "id": "curtea-de-arges-cathedral-wp",
+      "title": "Curtea de Arges Cathedral",
+      "tile": "u818",
       "coordinates": {
-        "lat": 44.5,
-        "lng": 33.6
+        "lat": 45.15691,
+        "lng": 24.6754
       },
-      "distanceKm": 909.3
+      "distanceKm": 475.8
     },
     "w": {
-      "id": "albanian-riviera-wk",
-      "title": "Albanian Riviera",
-      "tile": "srn5",
+      "id": "vergina-wp",
+      "title": "Vergina",
+      "tile": "srpy",
       "coordinates": {
-        "lat": 40.073,
-        "lng": 19.764
+        "lat": 40.487222222222,
+        "lng": 22.315555555556
       },
-      "distanceKm": 241.8
+      "distanceKm": 27.7
     },
     "e": {
-      "id": "izmir-wk",
-      "title": "Izmir",
-      "tile": "swg6",
-      "coordinates": {
-        "lat": 38.4237,
-        "lng": 27.1428
-      },
-      "distanceKm": 397.8
-    },
-    "sw": {
-      "id": "meteora-wk",
-      "title": "Meteora: The Monasteries Built on Impossible Pillars",
-      "tile": "srp3",
-      "coordinates": {
-        "lat": 39.7217,
-        "lng": 21.6306
-      },
-      "distanceKm": 108
-    },
-    "s": {
       "id": "acropolis-wk",
       "title": "The Acropolis: Where Western Civilization Built Its Greatest Temple",
       "tile": "swbb",
@@ -188,7 +168,27 @@
         "lat": 37.9715,
         "lng": 23.7267
       },
-      "distanceKm": 279.9
+      "distanceKm": 303
+    },
+    "sw": {
+      "id": "mount-olympus-wp",
+      "title": "Mount Olympus",
+      "tile": "srpu",
+      "coordinates": {
+        "lat": 40.083333333333336,
+        "lng": 22.35
+      },
+      "distanceKm": 40.6
+    },
+    "s": {
+      "id": "meteora-wk",
+      "title": "Meteora: The Monasteries Built on Impossible Pillars",
+      "tile": "srp3",
+      "coordinates": {
+        "lat": 39.7217,
+        "lng": 21.6306
+      },
+      "distanceKm": 142.5
     },
     "se": {
       "id": "athens-wk",

@@ -28,8 +28,8 @@
     "sourceType": "core",
     "sourceArticleId": "eastsound-wk",
     "sourceGeohash4": "c28t",
-    "smallPath": "_m/c/2/8/t/eastsound-wk/hero-small.jpg",
-    "mediumPath": "_m/c/2/8/t/eastsound-wk/hero-medium.jpg"
+    "smallPath": "_m/c/2/8/t/eastsound-wk/hero-small.webp",
+    "mediumPath": "_m/c/2/8/t/eastsound-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Eastsound WA - Emmanuel Episcopal Church 02.jpg",
@@ -150,8 +150,8 @@
       "sourceType": "core",
       "sourceArticleId": "eastsound-wk",
       "sourceGeohash4": "c28t",
-      "smallPath": "_m/c/2/8/t/eastsound-wk/view-mount-constitutio-small.jpg",
-      "mediumPath": "_m/c/2/8/t/eastsound-wk/view-mount-constitutio-medium.jpg"
+      "smallPath": "_m/c/2/8/t/eastsound-wk/view-mount-constitutio-small.webp",
+      "mediumPath": "_m/c/2/8/t/eastsound-wk/view-mount-constitutio-medium.webp"
     },
     {
       "filename": "Orcas Island, Mt. Constitution, CCC Stone Tower, September 2012.jpg",
@@ -178,8 +178,8 @@
       "sourceType": "core",
       "sourceArticleId": "eastsound-wk",
       "sourceGeohash4": "c28t",
-      "smallPath": "_m/c/2/8/t/eastsound-wk/photograph-southern-fa-small.jpg",
-      "mediumPath": "_m/c/2/8/t/eastsound-wk/photograph-southern-fa-medium.jpg"
+      "smallPath": "_m/c/2/8/t/eastsound-wk/photograph-southern-fa-small.webp",
+      "mediumPath": "_m/c/2/8/t/eastsound-wk/photograph-southern-fa-medium.webp"
     },
     {
       "filename": "Obstruction Pass State Park.jpg",
@@ -205,7 +205,7 @@
       "sourceType": "core",
       "sourceArticleId": "eastsound-wk",
       "sourceGeohash4": "c28t",
-      "smallPath": "_m/c/2/8/t/eastsound-wk/orcas-island-small.jpg"
+      "smallPath": "_m/c/2/8/t/eastsound-wk/orcas-island-small.webp"
     }
   ],
   "galleryPaths": [
@@ -215,26 +215,24 @@
     "_m/c/2/8/t/eastsound-wk/photograph-southern-fa.jpg",
     "_m/c/2/8/t/eastsound-wk/orcas-island.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:03:52.904Z",
   "updatedAt": "2026-01-29T12:54:06.198Z",
   "narration": {
     "files": [
-      "c28t-eastsound-artists-colony.mp3",
       "c28t-eastsound-flight-context.mp3",
       "c28t-eastsound-intro.mp3",
-      "c28t-eastsound-island-time.mp3",
+      "c28t-eastsound-the-mosquito-fleet-legacy.mp3",
+      "c28t-eastsound-artists-colony.mp3",
       "c28t-eastsound-moran-state-park.mp3",
-      "c28t-eastsound-the-mosquito-fleet-legacy.mp3"
+      "c28t-eastsound-island-time.mp3"
     ],
     "durations": {
-      "c28t-eastsound-artists-colony.mp3": 71.88,
-      "c28t-eastsound-flight-context.mp3": 48.984,
-      "c28t-eastsound-intro.mp3": 47.952,
-      "c28t-eastsound-island-time.mp3": 62.304,
-      "c28t-eastsound-moran-state-park.mp3": 70.32,
-      "c28t-eastsound-the-mosquito-fleet-legacy.mp3": 58.632
+      "c28t-eastsound-flight-context.mp3": 48.374375,
+      "c28t-eastsound-intro.mp3": 50.8139166,
+      "c28t-eastsound-the-mosquito-fleet-legacy.mp3": 61.7313333,
+      "c28t-eastsound-artists-colony.mp3": 71.27075,
+      "c28t-eastsound-moran-state-park.mp3": 70.7234583,
+      "c28t-eastsound-island-time.mp3": 65.1389583
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:57.500Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

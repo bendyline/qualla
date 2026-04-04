@@ -1,0 +1,161 @@
+{
+  "id": "nasa-infrared-telescope-facility-wp",
+  "source": "wikipedia",
+  "sourceId": "1529227",
+  "title": "NASA Infrared Telescope Facility",
+  "slug": "nasa-infrared-telescope-facility",
+  "summary": "Built to support the Voyager missions, this 3.2-meter telescope atop Mauna Kea became America's national facility for seeing the universe in heat and light invisible to the human eye.",
+  "content": {
+    "intro": "When Voyager 1 and Voyager 2 launched toward the outer planets in 1977, NASA realized it needed a ground-based telescope that could watch in infrared wavelengths as the spacecraft flew past Jupiter, Saturn, and beyond. The agency built one on Mauna Kea, nearly 14,000 feet above the Pacific, where the dry air and altitude strip away the atmospheric moisture that blocks infrared light at lower elevations. The Voyager encounters came and went, but the telescope stayed. Nearly five decades later, the NASA Infrared Telescope Facility remains America's primary ground-based infrared observatory, and at least half its observing time is still devoted to the planetary science that justified its construction.",
+    "sections": [
+      {
+        "title": "Engineered to See Heat",
+        "body": "The IRTF is a 3.2-meter classical Cassegrain telescope, but almost every design choice reflects a single obsession: minimizing the telescope's own thermal signature. In infrared astronomy, the enemy is not dim starlight but the heat radiating from the instrument itself. The secondary mirror is deliberately undersized so the detectors cannot see the warm telescope structure framing the primary mirror. A small mirror at the center of the secondary blocks the instrument from viewing its own thermal emission. The mirror coatings are selected for minimal heat output, keeping overall emissivity below four percent. Even the long focal ratio serves the cause, allowing a smaller secondary that radiates less warmth into the light path. The secondary mirror chops rapidly between target and empty sky at up to four hertz, letting astronomers subtract the background thermal noise. Mounted on a massive English yoke equatorial mount, the telescope rides so rigidly that wind and vibration barely register."
+      },
+      {
+        "title": "An Arsenal of Infrared Eyes",
+        "body": "Three facility instruments turn the IRTF into one of the most versatile infrared platforms on Earth. SpeX, the most requested, is a medium-resolution spectrograph covering wavelengths from 0.7 to 5.4 micrometers, paired with MORIS, a visible-light CCD camera used both for imaging and guiding. Together they can simultaneously study a comet's dust composition and its visible structure. iSHELL, the second-most popular instrument, pushes to far higher spectral resolution using a silicon immersion grating, an innovative optic that achieves enormous dispersion in a compact package. MIRSI reaches even deeper into the thermal infrared, out to 25 micrometers, measuring the heat signatures of asteroids to determine their sizes and surface compositions. Visiting instruments cycle through regularly, and a next-generation spectrograph called SPECTRE is under development, designed to capture spectra across nearly the full range from visible to mid-infrared in a single exposure."
+      },
+      {
+        "title": "Watching from Anywhere",
+        "body": "Most astronomers who use the IRTF never set foot on Mauna Kea. The telescope pioneered a remote observing model that has reshaped how ground-based astronomy works. Researchers connect from offices, labs, or homes anywhere in the world through a VNC session, controlling the instruments exactly as they would at the summit. A telephone or video link keeps them in contact with the telescope operator, who remains on the mountain to safeguard the facility and troubleshoot mechanical problems. This shift eliminated the old requirement of full-night allocations tied to travel schedules. Scientists now request only the hours they need, when they need them, and can observe far more frequently. Weekly monitoring of solar system objects became feasible. Target-of-opportunity programs flourished, allowing the telescope to swing toward a freshly discovered near-Earth asteroid or a supernova within hours of notification."
+      },
+      {
+        "title": "The Embarrassment of Twins",
+        "body": "John Jefferies of the Institute for Astronomy, which established the first telescope on Mauna Kea, once admitted that having the IRTF and the United Kingdom Infrared Telescope built at the same site at the same time was \"sometimes a source of embarrassment.\" The natural question people asked was simple: why two? Why not build one and share it? Both were dedicated infrared telescopes requiring the same dry, high-altitude conditions and similar mirror technology. The answer lay in national priorities. NASA needed guaranteed access for planetary science to support its interplanetary missions, while the UK sought a facility for stellar and galactic infrared research. The result was two independent telescopes sitting a few hundred meters apart on the same volcanic summit, each optimized slightly differently but looking at the same sky through the same thin, dry air."
+      },
+      {
+        "title": "Still Chasing Comets",
+        "body": "In 2016, the IRTF observed comet P/2016 BA14 as it passed within about nine lunar distances of Earth, capturing infrared data that revealed details about the comet's surface composition and rotation. Observations like these are exactly what the telescope was designed for in the 1970s, and they remain central to its mission. The IRTF continues to characterize near-Earth objects, track the thermal behavior of planetary atmospheres, and support spacecraft missions with ground-based infrared context that orbiting observatories cannot always provide. From a facility originally justified by two Voyager flybys, it has become an enduring workhorse of planetary science, proof that a telescope built to answer one question can spend decades answering thousands more."
+      }
+    ],
+    "flightContext": "Located at 19.826N, 155.473W near the summit of Mauna Kea on the Big Island of Hawaii, at approximately 13,670 feet elevation. The telescope dome is visible from the air among the cluster of observatories on the summit ridge. Nearest airport is Ellison Onizuka Kona International at Keahole (PHKO), approximately 35 nm to the west. Hilo International Airport (PHTO) lies about 28 nm to the east. Expect clear conditions above the trade wind inversion layer, with the summit typically above the clouds."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 19.8263,
+      "lng": -155.473
+    },
+    "geohash": "8e92y"
+  },
+  "categories": [
+    "infrared telescopes",
+    "astronomical observatories",
+    "science",
+    "space exploration",
+    "Hawaii"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-12T00:00:00Z",
+    "wordCount": 780,
+    "readTime": 4,
+    "firstPublished": "2026-03-12T00:00:00Z",
+    "storyNumber": 8074
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - NASA Infrared Telescope Facility",
+      "url": "https://en.wikipedia.org/wiki/NASA_Infrared_Telescope_Facility",
+      "accessedAt": "2026-03-12",
+      "claimsVerified": [
+        "3.2-meter telescope confirmed",
+        "built to support Voyager missions confirmed",
+        "Voyager 1 and 2 launched 1977 confirmed",
+        "SpeX covers 0.7–5.4 micrometers confirmed",
+        "iSHELL high-resolution spectrograph confirmed",
+        "MIRSI to 25 micrometers confirmed",
+        "remote observing model pioneered confirmed",
+        "13,670 feet elevation confirmed",
+        "operated by University of Hawaii under cooperative agreement with NASA confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "aloha-airlines-flight-243-wp",
+      "title": "Aloha Airlines Flight 243",
+      "tile": "8e8u",
+      "coordinates": {
+        "lat": 20.54,
+        "lng": -156.28
+      },
+      "distanceKm": 59
+    },
+    "n": {
+      "id": "waipi-o-valley-wp",
+      "title": "Waipiʻo Valley",
+      "tile": "8e96",
+      "coordinates": {
+        "lat": 20.1197,
+        "lng": -155.593
+      },
+      "distanceKm": 9.4
+    },
+    "ne": {
+      "id": "uscgc-winona-wp",
+      "title": "USCGC Winona",
+      "tile": "c087",
+      "coordinates": {
+        "lat": 48.3667,
+        "lng": -134.433
+      },
+      "distanceKm": 3650.1
+    },
+    "w": {
+      "id": "daniel-k-inouye-solar-telescope-wp",
+      "title": "Daniel K. Inouye Solar Telescope",
+      "tile": "8e8v",
+      "coordinates": {
+        "lat": 20.704722222222,
+        "lng": -156.17666666667
+      },
+      "distanceKm": 103.7
+    },
+    "e": {
+      "id": "puna-geothermal-venture-wp",
+      "title": "Puna Geothermal Venture",
+      "tile": "8e3y",
+      "coordinates": {
+        "lat": 19.4783,
+        "lng": -154.888
+      },
+      "distanceKm": 36.6
+    },
+    "sw": {
+      "id": "japanese-submarine-i-175-wp",
+      "title": "Japanese Submarine I-175",
+      "tile": "8e0m",
+      "coordinates": {
+        "lat": 17.766666666666666,
+        "lng": -157.05
+      },
+      "distanceKm": 218.6
+    },
+    "s": {
+      "id": "2022-eruption-of-mauna-loa-wp",
+      "title": "2022 Eruption of Mauna Loa",
+      "tile": "8e3q",
+      "coordinates": {
+        "lat": 19.479444,
+        "lng": -155.602778
+      },
+      "distanceKm": 5.2
+    },
+    "se": {
+      "id": "lava-tree-state-monument-wp",
+      "title": "Lava Tree State Monument",
+      "tile": "8e3y",
+      "coordinates": {
+        "lat": 19.482777777778,
+        "lng": -154.90111111111
+      },
+      "distanceKm": 14.8
+    }
+  },
+  "locationWikipediaPath": "8/e/9/2/nasa-infrared-telescope-facility-wp"
+}

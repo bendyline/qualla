@@ -25,7 +25,7 @@
     "sourceType": "core",
     "sourceArticleId": "dutch-windmill-golden-gate-park-wp",
     "sourceGeohash4": "9q8y",
-    "smallPath": "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/hero-small.jpg"
+    "smallPath": "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "GGParkNorthWindmill2.jpg",
@@ -77,30 +77,28 @@
       "sourceType": "core",
       "sourceArticleId": "dutch-windmill-golden-gate-park-wp",
       "sourceGeohash4": "9q8y",
-      "smallPath": "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/dutch-windmill-john-f-small.jpg",
-      "mediumPath": "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/dutch-windmill-john-f-medium.jpg"
+      "smallPath": "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/dutch-windmill-john-f-small.webp",
+      "mediumPath": "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/dutch-windmill-john-f-medium.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/dutch-windmill-john-f.jpg"
   ],
-  "fetchedAt": "2026-02-21T20:51:31.493Z",
   "narration": {
     "files": [
-      "9q8y-dutch-windmill-decline-and-restoration.mp3",
       "9q8y-dutch-windmill-flight-context.mp3",
       "9q8y-dutch-windmill-intro.mp3",
-      "9q8y-dutch-windmill-the-queens-garden.mp3",
-      "9q8y-dutch-windmill-turning-sand-into-paradise.mp3"
+      "9q8y-dutch-windmill-turning-sand-into-paradise.mp3",
+      "9q8y-dutch-windmill-decline-and-restoration.mp3",
+      "9q8y-dutch-windmill-the-queens-garden.mp3"
     ],
     "durations": {
-      "9q8y-dutch-windmill-decline-and-restoration.mp3": 39.144,
-      "9q8y-dutch-windmill-flight-context.mp3": 61.152,
-      "9q8y-dutch-windmill-intro.mp3": 28.56,
-      "9q8y-dutch-windmill-the-queens-garden.mp3": 30.048,
-      "9q8y-dutch-windmill-turning-sand-into-paradise.mp3": 37.416
+      "9q8y-dutch-windmill-flight-context.mp3": 35.2304583,
+      "9q8y-dutch-windmill-intro.mp3": 27.7289583,
+      "9q8y-dutch-windmill-turning-sand-into-paradise.mp3": 35.0652916,
+      "9q8y-dutch-windmill-decline-and-restoration.mp3": 38.2803333,
+      "9q8y-dutch-windmill-the-queens-garden.mp3": 26.3220416
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:56.184Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

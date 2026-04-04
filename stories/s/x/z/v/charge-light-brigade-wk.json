@@ -76,24 +76,24 @@
   "locationWikipediaPath": "s/x/z/v/charge-of-the-light-brigade-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "chernobyl-elephant-foot-wk",
-      "title": "The Elephant's Foot: The Most Dangerous Object on Earth",
-      "tile": "u9jk",
+      "id": "danube-delta-wp",
+      "title": "Danube Delta",
+      "tile": "u8hc",
       "coordinates": {
-        "lat": 51.3894,
-        "lng": 30.0989
+        "lat": 45.2,
+        "lng": 29.5
       },
-      "distanceKm": 762
+      "distanceKm": 281.9
     },
     "n": {
-      "id": "pripyat-abandoned-wk",
-      "title": "Pripyat: The City That Died Overnight",
-      "tile": "u9jk",
+      "id": "slanic-mine-wp",
+      "title": "Slanic Mine",
+      "tile": "u843",
       "coordinates": {
-        "lat": 51.4045,
-        "lng": 30.0542
+        "lat": 45.23555556,
+        "lng": 25.9425
       },
-      "distanceKm": 776.7
+      "distanceKm": 601.3
     },
     "ne": {
       "id": "moscow-wk",
@@ -106,14 +106,14 @@
       "distanceKm": 1240.5
     },
     "w": {
-      "id": "karansebes-wk",
-      "title": "The Battle of Karansebes: When an Army Defeated Itself",
-      "tile": "u2pf",
+      "id": "battle-of-vaslui-wp",
+      "title": "Battle of Vaslui",
+      "tile": "u879",
       "coordinates": {
-        "lat": 45.4167,
-        "lng": 22.2167
+        "lat": 46.605,
+        "lng": 27.745
       },
-      "distanceKm": 856.4
+      "distanceKm": 470.9
     },
     "e": {
       "id": "adana-wk",

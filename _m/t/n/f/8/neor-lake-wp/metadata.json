@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "neor-lake-wp",
     "sourceGeohash4": "tnf8",
-    "mediumPath": "_m/t/n/f/8/neor-lake-wp/hero-medium.jpg",
-    "smallPath": "_m/t/n/f/8/neor-lake-wp/hero-small.jpg"
+    "mediumPath": "_m/t/n/f/8/neor-lake-wp/hero-medium.webp",
+    "smallPath": "_m/t/n/f/8/neor-lake-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "NeorLakePanorama.jpg",
@@ -77,7 +77,7 @@
       "sourceType": "core",
       "sourceArticleId": "neor-lake-wp",
       "sourceGeohash4": "tnf8",
-      "smallPath": "_m/t/n/f/8/neor-lake-wp/neorlake-small.jpg"
+      "smallPath": "_m/t/n/f/8/neor-lake-wp/neorlake-small.webp"
     },
     {
       "filename": "Iran relief location map.jpg",
@@ -132,7 +132,7 @@
       "sourceType": "core",
       "sourceArticleId": "neor-lake-wp",
       "sourceGeohash4": "tnf8",
-      "smallPath": "_m/t/n/f/8/neor-lake-wp/gallery-3-small.jpg"
+      "smallPath": "_m/t/n/f/8/neor-lake-wp/gallery-3-small.webp"
     },
     {
       "filename": "Neor.jpg",
@@ -157,7 +157,7 @@
       "sourceType": "core",
       "sourceArticleId": "neor-lake-wp",
       "sourceGeohash4": "tnf8",
-      "smallPath": "_m/t/n/f/8/neor-lake-wp/gallery-4-small.jpg"
+      "smallPath": "_m/t/n/f/8/neor-lake-wp/gallery-4-small.webp"
     },
     {
       "filename": "نوئور گؤلو.jpg",
@@ -180,7 +180,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "neor-lake-wp",
       "sourceGeohash4": "tnf8",
-      "smallPath": "_m/t/n/f/8/neor-lake-wp/category-1-small.jpg"
+      "smallPath": "_m/t/n/f/8/neor-lake-wp/category-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -190,6 +190,24 @@
     "_m/t/n/f/8/neor-lake-wp/gallery-4.jpg",
     "_m/t/n/f/8/neor-lake-wp/category-1.jpg"
   ],
-  "fetchedAt": "2026-03-01T13:54:07.892Z",
-  "updatedAt": "2026-03-01T13:54:09.148Z"
+  "updatedAt": "2026-03-01T13:54:09.148Z",
+  "narration": {
+    "files": [
+      "tnf8-neor-lake-flight-context.mp3",
+      "tnf8-neor-lake-intro.mp3",
+      "tnf8-neor-lake-born-from-fractures.mp3",
+      "tnf8-neor-lake-pink-trout-and-orange-ducks.mp3",
+      "tnf8-neor-lake-reading-the-ancient-steppe.mp3",
+      "tnf8-neor-lake-a-climate-archive.mp3"
+    ],
+    "durations": {
+      "tnf8-neor-lake-flight-context.mp3": 40.9305416,
+      "tnf8-neor-lake-intro.mp3": 41.1460833,
+      "tnf8-neor-lake-born-from-fractures.mp3": 53.1943333,
+      "tnf8-neor-lake-pink-trout-and-orange-ducks.mp3": 43.92925,
+      "tnf8-neor-lake-reading-the-ancient-steppe.mp3": 60.1354583,
+      "tnf8-neor-lake-a-climate-archive.mp3": 44.52
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

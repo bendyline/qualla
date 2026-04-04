@@ -27,8 +27,8 @@
     "sourceType": "core",
     "sourceArticleId": "january-1998-north-american-ice-storm-wp",
     "sourceGeohash4": "f258",
-    "mediumPath": "_m/f/2/5/8/january-1998-north-american-ice-storm-wp/hero-medium.jpg",
-    "smallPath": "_m/f/2/5/8/january-1998-north-american-ice-storm-wp/hero-small.jpg"
+    "mediumPath": "_m/f/2/5/8/january-1998-north-american-ice-storm-wp/hero-medium.webp",
+    "smallPath": "_m/f/2/5/8/january-1998-north-american-ice-storm-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "1998 Ice storm shirt.jpg",
@@ -91,7 +91,7 @@
       "sourceType": "core",
       "sourceArticleId": "january-1998-north-american-ice-storm-wp",
       "sourceGeohash4": "f258",
-      "smallPath": "_m/f/2/5/8/january-1998-north-american-ice-storm-wp/map-showing-extent-jan-small.png"
+      "smallPath": "_m/f/2/5/8/january-1998-north-american-ice-storm-wp/map-showing-extent-jan-small.webp"
     },
     {
       "filename": "Verglas massif 1998 trajectoire humidité.png",
@@ -114,7 +114,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "january-1998-north-american-ice-storm-wp",
       "sourceGeohash4": "f258",
-      "smallPath": "_m/f/2/5/8/january-1998-north-american-ice-storm-wp/verglas-massif-1998-trajectoir-small.png"
+      "smallPath": "_m/f/2/5/8/january-1998-north-american-ice-storm-wp/verglas-massif-1998-trajectoir-small.webp"
     },
     {
       "filename": "1998 North American ice storm Jetstream 1998-01-08 12UTC.png",
@@ -136,7 +136,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "january-1998-north-american-ice-storm-wp",
       "sourceGeohash4": "f258",
-      "smallPath": "_m/f/2/5/8/january-1998-north-american-ice-storm-wp/1998-north-american-ice-storm--small.png"
+      "smallPath": "_m/f/2/5/8/january-1998-north-american-ice-storm-wp/1998-north-american-ice-storm--small.webp"
     },
     {
       "filename": "Situation pluie verglacante.png",
@@ -163,7 +163,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "january-1998-north-american-ice-storm-wp",
       "sourceGeohash4": "f258",
-      "smallPath": "_m/f/2/5/8/january-1998-north-american-ice-storm-wp/situation-pluie-verglacante-small.png"
+      "smallPath": "_m/f/2/5/8/january-1998-north-american-ice-storm-wp/situation-pluie-verglacante-small.webp"
     }
   ],
   "galleryPaths": [
@@ -172,6 +172,26 @@
     "_m/f/2/5/8/january-1998-north-american-ice-storm-wp/1998-north-american-ice-storm-.png",
     "_m/f/2/5/8/january-1998-north-american-ice-storm-wp/situation-pluie-verglacante.png"
   ],
-  "fetchedAt": "2026-02-28T12:32:25.287Z",
-  "updatedAt": "2026-02-28T12:32:28.170Z"
+  "updatedAt": "2026-02-28T12:32:28.170Z",
+  "narration": {
+    "files": [
+      "f258-january-1998-north-american-ice-storm-flight-context.mp3",
+      "f258-january-1998-north-american-ice-storm-intro.mp3",
+      "f258-january-1998-north-american-ice-storm-a-storm-that-wouldnt-leave.mp3",
+      "f258-january-1998-north-american-ice-storm-the-triangle-of-darkness.mp3",
+      "f258-january-1998-north-american-ice-storm-locomotives-and-soldiers.mp3",
+      "f258-january-1998-north-american-ice-storm-a-landscape-transformed.mp3",
+      "f258-january-1998-north-american-ice-storm-the-long-thaw.mp3"
+    ],
+    "durations": {
+      "f258-january-1998-north-american-ice-storm-flight-context.mp3": 45.8537916,
+      "f258-january-1998-north-american-ice-storm-intro.mp3": 54.7519166,
+      "f258-january-1998-north-american-ice-storm-a-storm-that-wouldnt-leave.mp3": 68.1258333,
+      "f258-january-1998-north-american-ice-storm-the-triangle-of-darkness.mp3": 63.578125,
+      "f258-january-1998-north-american-ice-storm-locomotives-and-soldiers.mp3": 73.862,
+      "f258-january-1998-north-american-ice-storm-a-landscape-transformed.mp3": 59.6526666,
+      "f258-january-1998-north-american-ice-storm-the-long-thaw.mp3": 62.195875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

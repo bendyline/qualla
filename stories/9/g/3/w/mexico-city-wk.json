@@ -127,84 +127,84 @@
   "locationWikivoyagePath": "9/g/3/w/mexico-city-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "guadalajara-city-wk",
-      "title": "Guadalajara: Where Tequila, Mariachi, and the Mexican Soul Originate",
-      "tile": "9ewt",
+      "id": "morelia-wp",
+      "title": "Morelia",
+      "tile": "9g80",
       "coordinates": {
-        "lat": 20.6597,
-        "lng": -103.3496
+        "lat": 19.7028,
+        "lng": -101.1922
       },
-      "distanceKm": 416.9
+      "distanceKm": 178
     },
     "n": {
-      "id": "monterrey-city-wk",
-      "title": "Monterrey: Mexico's Industrial Capital Where Mountains Meet Money",
-      "tile": "9u8d",
+      "id": "teotihuacan-wp",
+      "title": "Teotihuacan",
+      "tile": "9g98",
       "coordinates": {
-        "lat": 25.6866,
-        "lng": -100.3161
+        "lat": 19.6925,
+        "lng": -98.8438
       },
-      "distanceKm": 681.3
+      "distanceKm": 12.7
     },
     "ne": {
-      "id": "merida-city-wk",
-      "title": "Mérida: The White City Gateway to Mayan Civilization",
-      "tile": "d58r",
+      "id": "san-pablito-puebla-wp",
+      "title": "San Pablito, Puebla",
+      "tile": "9gd5",
       "coordinates": {
-        "lat": 20.9674,
-        "lng": -89.5926
+        "lat": 20.30055556,
+        "lng": -98.1625
       },
-      "distanceKm": 933
+      "distanceKm": 74
     },
     "w": {
-      "id": "roy-bean-wp",
-      "title": "Roy Bean",
-      "tile": "9v0q",
+      "id": "church-of-santa-prisca-de-taxco-wp",
+      "title": "Church of Santa Prisca de Taxco",
+      "tile": "9g31",
       "coordinates": {
-        "lat": 29.3517,
-        "lng": -100.898
+        "lat": 18.556301,
+        "lng": -99.604588
       },
-      "distanceKm": 1113
+      "distanceKm": 97.2
     },
     "e": {
-      "id": "la-malinche-national-park-wk",
-      "title": "La Malinche National Park",
-      "tile": "9g6m",
-      "coordinates": {
-        "lat": 19.232756,
-        "lng": -98.0323
-      },
-      "distanceKm": 47.5
-    },
-    "sw": {
-      "id": "acapulco-wk",
-      "title": "Acapulco",
-      "tile": "9fbz",
-      "coordinates": {
-        "lat": 16.863611,
-        "lng": -99.8825
-      },
-      "distanceKm": 258.7
-    },
-    "s": {
-      "id": "oaxaca-city-wk",
-      "title": "Oaxaca: The Cultural Capital Where Mezcal and Mole Meet",
-      "tile": "9g50",
-      "coordinates": {
-        "lat": 17.05,
-        "lng": -96.7167
-      },
-      "distanceKm": 333.9
-    },
-    "se": {
-      "id": "puebla-city-wk",
-      "title": "Puebla: The Cinco de Mayo City in the Shadow of Volcanoes",
+      "id": "great-pyramid-of-cholula-wp",
+      "title": "Great Pyramid of Cholula",
       "tile": "9g6h",
       "coordinates": {
-        "lat": 19.0414,
-        "lng": -98.2063
+        "lat": 19.0575,
+        "lng": -98.301944
       },
-      "distanceKm": 27.6
+      "distanceKm": 43.1
+    },
+    "sw": {
+      "id": "nevado-de-toluca-national-park-wp",
+      "title": "Nevado de Toluca National Park",
+      "tile": "9g3h",
+      "coordinates": {
+        "lat": 19.10559444,
+        "lng": -99.75654722
+      },
+      "distanceKm": 28.4
+    },
+    "s": {
+      "id": "siege-of-cuautla-wp",
+      "title": "Siege of Cuautla",
+      "tile": "9g3e",
+      "coordinates": {
+        "lat": 18.812222222222,
+        "lng": -98.955833333333
+      },
+      "distanceKm": 38.7
+    },
+    "se": {
+      "id": "cholula-puebla-wp",
+      "title": "Cholula, Puebla",
+      "tile": "9g6h",
+      "coordinates": {
+        "lat": 19.0614,
+        "lng": -98.3061
+      },
+      "distanceKm": 17.6
     }
   },
   "keywords": [

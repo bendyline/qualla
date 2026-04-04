@@ -84,14 +84,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "liancourt-rocks-wp",
+      "title": "Liancourt Rocks",
+      "tile": "wytg",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 37.241666666667,
+        "lng": 131.86666666667
       },
-      "distanceKm": 1218
+      "distanceKm": 356.5
     },
     "n": {
       "id": "mihama-nuclear-power-plant-wp",
@@ -163,5 +163,6 @@
       },
       "distanceKm": 19.8
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/2/9/mantoku-ji-wp"
 }

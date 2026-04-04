@@ -85,14 +85,14 @@
   "locationWikivoyagePath": "9/q/b/7/fort-ross-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "northern-oregon-coast-wk",
-      "title": "Northern Oregon Coast",
-      "tile": "c205",
+      "id": "pixieland-oregon-wp",
+      "title": "Pixieland",
+      "tile": "c0pb",
       "coordinates": {
-        "lat": 45.89,
-        "lng": -123.96
+        "lat": 45.0205,
+        "lng": -123.965
       },
-      "distanceKm": 783.3
+      "distanceKm": 686.6
     },
     "n": {
       "id": "asbill-massacre-wp",
@@ -115,14 +115,14 @@
       "distanceKm": 102
     },
     "w": {
-      "id": "astoria-end-of-trail-wk",
-      "title": "Astoria: Where Lewis and Clark Finally Saw the Pacific",
-      "tile": "c0py",
+      "id": "neskowin-ghost-forest-wp",
+      "title": "Neskowin Ghost Forest",
+      "tile": "c0pb",
       "coordinates": {
-        "lat": 46.1879,
-        "lng": -123.8313
+        "lat": 45.09773,
+        "lng": -123.98917
       },
-      "distanceKm": 845.5
+      "distanceKm": 724.6
     },
     "e": {
       "id": "mission-san-francisco-solano-wp",
@@ -135,14 +135,14 @@
       "distanceKm": 38.4
     },
     "sw": {
-      "id": "mauna-kea-wk",
-      "title": "Mauna Kea: The Mountain Taller Than Everest",
-      "tile": "8e92",
+      "id": "akaka-falls-state-park-wp",
+      "title": "ʻAkaka Falls State Park",
+      "tile": "8e98",
       "coordinates": {
-        "lat": 19.8207,
-        "lng": -155.468
+        "lat": 19.854166666667,
+        "lng": -155.1525
       },
-      "distanceKm": 3676.2
+      "distanceKm": 3648.8
     },
     "s": {
       "id": "point-reyes-shipwrecks-wk",

@@ -115,14 +115,14 @@
       "distanceKm": 129.7
     },
     "ne": {
-      "id": "attu-island-forgotten-battle-wk",
-      "title": "Attu Island: America's Forgotten Arctic Battle",
-      "tile": "zc7h",
+      "id": "iturup-wp",
+      "title": "Iturup",
+      "tile": "z20b",
       "coordinates": {
-        "lat": 52.85,
-        "lng": 173.18
+        "lat": 45.033333,
+        "lng": 147.616667
       },
-      "distanceKm": 2727.5
+      "distanceKm": 756.9
     },
     "w": {
       "id": "2011-t-hoku-earthquake-and-tsunami-wp",
@@ -135,14 +135,14 @@
       "distanceKm": 43.1
     },
     "e": {
-      "id": "great-barrier-reef-wk",
-      "title": "Great Barrier Reef",
-      "tile": "rk9d",
+      "id": "urup-wp",
+      "title": "Urup",
+      "tile": "z24t",
       "coordinates": {
-        "lat": -19.266,
-        "lng": 148.587
+        "lat": 45.9,
+        "lng": 149.983333
       },
-      "distanceKm": 6452.1
+      "distanceKm": 959.4
     },
     "sw": {
       "id": "april-2011-miyagi-earthquake-wp",
@@ -174,5 +174,6 @@
       },
       "distanceKm": 6271.5
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/v/g/japanese-submarine-i-400-wp"
 }

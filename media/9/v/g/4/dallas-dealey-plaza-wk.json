@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/v/g/4/dallas-dealey-plaza-wk/9vfn-dealey-plaza-the-intersection-where-history-change-intro.mp3",
-        "_m/9/v/g/4/dallas-dealey-plaza-wk/9vfn-dealey-plaza-the-intersection-where-history-change-flight-context.mp3",
-        "_m/9/v/g/4/dallas-dealey-plaza-wk/9vfn-dealey-plaza-the-intersection-where-history-change-the-assassination.mp3",
-        "_m/9/v/g/4/dallas-dealey-plaza-wk/9vfn-dealey-plaza-the-intersection-where-history-change-the-museum.mp3",
-        "_m/9/v/g/4/dallas-dealey-plaza-wk/9vfn-dealey-plaza-the-intersection-where-history-change-the-plaza.mp3",
-        "_m/9/v/g/4/dallas-dealey-plaza-wk/9vfn-dealey-plaza-the-intersection-where-history-change-the-theories.mp3",
-        "_m/9/v/g/4/dallas-dealey-plaza-wk/9vfn-dealey-plaza-the-intersection-where-history-change-visiting-dealey-plaza.mp3"
+        "_m/9/v/g/4/dallas-dealey-plaza-wk/9vg4-dealey-plaza-the-intersection-where-history-change-flight-context.mp3",
+        "_m/9/v/g/4/dallas-dealey-plaza-wk/9vg4-dealey-plaza-the-intersection-where-history-change-intro.mp3",
+        "_m/9/v/g/4/dallas-dealey-plaza-wk/9vg4-dealey-plaza-the-intersection-where-history-change-the-assassination.mp3",
+        "_m/9/v/g/4/dallas-dealey-plaza-wk/9vg4-dealey-plaza-the-intersection-where-history-change-the-theories.mp3",
+        "_m/9/v/g/4/dallas-dealey-plaza-wk/9vg4-dealey-plaza-the-intersection-where-history-change-the-museum.mp3",
+        "_m/9/v/g/4/dallas-dealey-plaza-wk/9vg4-dealey-plaza-the-intersection-where-history-change-the-plaza.mp3",
+        "_m/9/v/g/4/dallas-dealey-plaza-wk/9vg4-dealey-plaza-the-intersection-where-history-change-visiting-dealey-plaza.mp3"
       ],
       "hero": {
         "path": "_m/9/v/g/4/dallas-wk/dallas-at-twilight.jpg",
@@ -37,7 +37,9 @@
           "Sunset skylines",
           "Taken with Canon Digital IXUS 850 IS",
           "Twilights of the United States"
-        ]
+        ],
+        "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/hero-medium.webp",
+        "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/hero-small.webp"
       },
       "images": [
         {
@@ -66,7 +68,7 @@
             "Photographs taken on 2006-07-08",
             "Self-published work"
           ],
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/looking-south-across-d-small.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/looking-south-across-d-small.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-2003.jpg",
@@ -92,7 +94,7 @@
             "PD-user",
             "Texas School Book Depository"
           ],
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-2003-small.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-2003-small.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/photo-dealey-plaza-ann.png",
@@ -170,8 +172,8 @@
             "Self-published work",
             "Views from Reunion Tower"
           ],
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/view-dealey-plaza-dall-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/view-dealey-plaza-dall-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/view-dealey-plaza-dall-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/view-dealey-plaza-dall-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-national.jpg",
@@ -188,8 +190,8 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-national-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-national-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-national-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-national-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/picture-dealey-plaza-d.jpg",
@@ -206,7 +208,7 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/picture-dealey-plaza-d-small.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/picture-dealey-plaza-d-small.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/hero.png",
@@ -240,8 +242,8 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/view-dealey-plaza-geo-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/view-dealey-plaza-geo-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/view-dealey-plaza-geo-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/view-dealey-plaza-geo-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/john-f-kennedy-memoria.jpg",
@@ -258,8 +260,8 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/john-f-kennedy-memoria-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/john-f-kennedy-memoria-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/john-f-kennedy-memoria-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/john-f-kennedy-memoria-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/view-dealey-plaza-geo-1.jpg",
@@ -276,8 +278,8 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/view-dealey-plaza-geo-1-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/view-dealey-plaza-geo-1-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/view-dealey-plaza-geo-1-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/view-dealey-plaza-geo-1-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/ce359-wikipedia.jpg",
@@ -305,7 +307,7 @@
             "Template Unknown (author)",
             "Warren Commission"
           ],
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/ce359-wikipedia-small.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/ce359-wikipedia-small.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/2006-elm-st-2.jpg",
@@ -331,8 +333,8 @@
             "PD-self",
             "Self-published work"
           ],
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/2006-elm-st-2-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/2006-elm-st-2-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/2006-elm-st-2-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/2006-elm-st-2-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-as-seen-from-the-.jpg",
@@ -349,7 +351,7 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-as-seen-from-the--small.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-as-seen-from-the--small.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-mid-morning.jpg",
@@ -366,7 +368,7 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-mid-morning-small.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-mid-morning-small.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-1.jpg",
@@ -383,8 +385,8 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-1-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-1-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-1-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-1-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-2.jpg",
@@ -401,8 +403,8 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-2-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-2-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-2-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-2-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-3.jpg",
@@ -419,8 +421,8 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-3-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-3-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-3-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-3-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-4.jpg",
@@ -437,8 +439,8 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-4-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-4-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-4-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-4-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-5.jpg",
@@ -455,8 +457,8 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-5-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-5-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-5-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-dallas-5-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-01-zapruder-f.jpg",
@@ -473,8 +475,8 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-01-zapruder-f-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-01-zapruder-f-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-01-zapruder-f-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-01-zapruder-f-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-02-kennedy-as.jpg",
@@ -491,8 +493,8 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-02-kennedy-as-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-02-kennedy-as-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-02-kennedy-as-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-02-kennedy-as-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-03-kennedy-me.jpg",
@@ -509,8 +511,8 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-03-kennedy-me-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-03-kennedy-me-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-03-kennedy-me-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-03-kennedy-me-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-05-dealey-mem.jpg",
@@ -527,8 +529,8 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-05-dealey-mem-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-05-dealey-mem-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-05-dealey-mem-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-05-dealey-mem-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-06-triple-und.jpg",
@@ -545,8 +547,8 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-06-triple-und-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-06-triple-und-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-06-triple-und-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dallas-july-2015-06-triple-und-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1678.jpg",
@@ -563,8 +565,8 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1678-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1678-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1678-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1678-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1675.jpg",
@@ -581,8 +583,8 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1675-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1675-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1675-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1675-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1677.jpg",
@@ -599,8 +601,8 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1677-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1677-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1677-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1677-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1680.jpg",
@@ -617,8 +619,8 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1680-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1680-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1680-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1680-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1679.jpg",
@@ -635,8 +637,8 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1679-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1679-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1679-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/dealey-plaza-1679-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-dealey-plaza-wk/2017-dealey-plaza-02.jpg",
@@ -653,8 +655,8 @@
           "sourceArticleId": "dallas-dealey-plaza-wk",
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z",
-          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/2017-dealey-plaza-02-small.jpg",
-          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/2017-dealey-plaza-02-medium.jpg"
+          "smallPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/2017-dealey-plaza-02-small.webp",
+          "mediumPath": "_m/9/v/g/4/dallas-dealey-plaza-wk/2017-dealey-plaza-02-medium.webp"
         },
         {
           "path": "_m/9/v/g/4/dallas-wk/loveapt-19feb1995.jpg",
@@ -1121,7 +1123,8 @@
           "sourceGeohash4": "9vg4",
           "accessedAt": "2026-02-21T22:58:30.693Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/v/g/4/dallas-dealey-plaza-wk/9vg4-dallas-dealey-plaza-combined.mp3"
     }
   }
 }

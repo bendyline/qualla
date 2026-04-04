@@ -95,14 +95,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "crystal-palace-fire-wk",
-      "title": "The Crystal Palace Fire: When London's Glass Wonder Burned",
-      "tile": "gcpu",
+      "id": "rochester-castle-wp",
+      "title": "Rochester Castle",
+      "tile": "u10k",
       "coordinates": {
-        "lat": 51.4188,
-        "lng": -0.0754
+        "lat": 51.3894,
+        "lng": 0.502
       },
-      "distanceKm": 200.7
+      "distanceKm": 160.6
     },
     "n": {
       "id": "battle-of-sluys-wp",
@@ -125,14 +125,14 @@
       "distanceKm": 23
     },
     "w": {
-      "id": "kent-wk",
-      "title": "Kent",
-      "tile": "u10e",
+      "id": "dover-castle-wp",
+      "title": "Dover Castle",
+      "tile": "u10f",
       "coordinates": {
-        "lat": 51.19,
-        "lng": 0.73
+        "lat": 51.128268,
+        "lng": 1.3235035
       },
-      "distanceKm": 146
+      "distanceKm": 104.2
     },
     "e": {
       "id": "fort-breendonk-wp",
@@ -145,14 +145,14 @@
       "distanceKm": 33.2
     },
     "sw": {
-      "id": "paris-wk",
-      "title": "Paris",
-      "tile": "u09t",
+      "id": "le-paradis-massacre-wp",
+      "title": "Le Paradis Massacre",
+      "tile": "u0cz",
       "coordinates": {
-        "lat": 48.856,
-        "lng": 2.351
+        "lat": 50.5948,
+        "lng": 2.6477
       },
-      "distanceKm": 218.8
+      "distanceKm": 25.7
     },
     "s": {
       "id": "1989-belgium-mig-23-crash-wp",
@@ -177,5 +177,6 @@
   },
   "keywords": [
     "1933-imperial-airways-ruysselede-crash"
-  ]
+  ],
+  "locationWikipediaPath": "u/1/4/6/1933-imperial-airways-ruysselede-crash-wp"
 }

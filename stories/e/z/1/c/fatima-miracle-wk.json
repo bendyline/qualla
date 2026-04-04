@@ -77,87 +77,90 @@
   "locationWikipediaPath": "e/z/1/c/basilica-of-our-lady-of-the-rosary-fatima-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "achill-island-wk",
-      "title": "Achill Island",
-      "tile": "gc8f",
+      "id": "battle-of-cape-finisterre-1805-wp",
+      "title": "Battle of Cape Finisterre (1805)",
+      "tile": "ez9k",
       "coordinates": {
-        "lat": 53.9589,
-        "lng": -10.0389
+        "lat": 42.8941,
+        "lng": -9.27109
       },
-      "distanceKm": 1564.5
+      "distanceKm": 332.8
     },
     "n": {
-      "id": "porto-wk",
-      "title": "Porto",
-      "tile": "ez3f",
+      "id": "june-2017-portugal-wildfires-wp",
+      "title": "June 2017 Portugal Wildfires",
+      "tile": "ez45",
       "coordinates": {
-        "lat": 41.1579,
-        "lng": -8.6291
+        "lat": 39.949444444444445,
+        "lng": -8.245555555555555
       },
-      "distanceKm": 139.6
+      "distanceKm": 31.8
     },
     "ne": {
-      "id": "madrid-wk",
-      "title": "Madrid",
-      "tile": "ezjm",
+      "id": "castle-of-monsanto-wp",
+      "title": "Castle of Monsanto",
+      "tile": "ez4g",
       "coordinates": {
-        "lat": 40.4168,
-        "lng": -3.7038
+        "lat": 40.03555556,
+        "lng": -7.11388889
       },
-      "distanceKm": 376.7
+      "distanceKm": 84.2
     },
     "w": {
-      "id": "tenerife-disaster-wk",
-      "title": "The Tenerife Airport Disaster: 583 Dead in Aviation's Darkest Day",
-      "tile": "eth6",
+      "id": "battle-of-vimeiro-wp",
+      "title": "Battle of Vimeiro",
+      "tile": "eycq",
       "coordinates": {
-        "lat": 28.4827,
-        "lng": -16.3415
+        "lat": 39.175,
+        "lng": -9.31667
       },
-      "distanceKm": 1405.5
+      "distanceKm": 53.7
     },
     "e": {
-      "id": "seville-province-wk",
-      "title": "Seville Province",
-      "tile": "eysj",
+      "id": "castle-of-marvao-wp",
+      "title": "Castle of Marvao",
+      "tile": "ez4b",
       "coordinates": {
-        "lat": 37.5,
-        "lng": -5.5
+        "lat": 39.39638889,
+        "lng": -7.37972222
       },
-      "distanceKm": 327.2
+      "distanceKm": 66.3
     },
     "sw": {
-      "id": "costa-teguise-wk",
-      "title": "Costa Teguise",
-      "tile": "etnk",
+      "id": "battle-of-rolica-wp",
+      "title": "Battle of Rolica",
+      "tile": "eycr",
       "coordinates": {
-        "lat": 29,
-        "lng": -13.5
+        "lat": 39.3136,
+        "lng": -9.18361
       },
-      "distanceKm": 1220.9
+      "distanceKm": 7.8
     },
     "s": {
-      "id": "lisbon-wk",
-      "title": "Lisbon",
+      "id": "vasco-da-gama-tower-wp",
+      "title": "Vasco da Gama Tower",
       "tile": "eycs",
       "coordinates": {
-        "lat": 38.7223,
-        "lng": -9.1393
+        "lat": 38.77472222,
+        "lng": -9.09138889
       },
-      "distanceKm": 85.6
+      "distanceKm": 78.5
     },
     "se": {
-      "id": "seville-wk",
-      "title": "Seville",
-      "tile": "eyes",
+      "id": "estremoz-wk",
+      "title": "Estremoz",
+      "tile": "eyfs",
       "coordinates": {
-        "lat": 37.3891,
-        "lng": -5.9845
+        "lat": 38.8422,
+        "lng": -7.5881
       },
-      "distanceKm": 286.9
+      "distanceKm": 73.2
     }
   },
   "keywords": [
     "fatima-miracle"
+  ],
+  "duplicates": [
+    "basilica-of-our-lady-of-the-rosary-fatima-wp"
   ]
 }

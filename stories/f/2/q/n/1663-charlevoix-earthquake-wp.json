@@ -116,14 +116,14 @@
       "distanceKm": 26
     },
     "ne": {
-      "id": "trans-labrador-highway-wk",
-      "title": "Trans-Labrador Highway",
-      "tile": "f92m",
+      "id": "ocean-train-wp",
+      "title": "The Ocean",
+      "tile": "f882",
       "coordinates": {
-        "lat": 52.95,
-        "lng": -66.9
+        "lat": 47.97507,
+        "lng": -66.93769
       },
-      "distanceKm": 602.6
+      "distanceKm": 200
     },
     "w": {
       "id": "canyon-sainte-anne-wp",
@@ -136,14 +136,14 @@
       "distanceKm": 55.3
     },
     "e": {
-      "id": "acadia-wk",
-      "title": "Acadia National Park",
-      "tile": "f83n",
+      "id": "battle-of-restigouche-wp",
+      "title": "Battle of Restigouche",
+      "tile": "f889",
       "coordinates": {
-        "lat": 47.617,
-        "lng": -65.767
+        "lat": 48.00472222,
+        "lng": -66.72083333
       },
-      "distanceKm": 288.3
+      "distanceKm": 221.7
     },
     "sw": {
       "id": "grosse-isle-wp",
@@ -166,14 +166,15 @@
       "distanceKm": 62.8
     },
     "se": {
-      "id": "acadia-cadillac-mountain-wk",
-      "title": "Cadillac Mountain: Where America Sees the First Sunrise",
-      "tile": "drzk",
+      "id": "meductic-indian-village-fort-meductic-wp",
+      "title": "Meductic Indian Village / Fort Meductic",
+      "tile": "f80j",
       "coordinates": {
-        "lat": 44.352,
-        "lng": -68.227
+        "lat": 45.9981,
+        "lng": -67.4944
       },
-      "distanceKm": 343.3
+      "distanceKm": 215.7
     }
-  }
+  },
+  "locationWikipediaPath": "f/2/q/n/1663-charlevoix-earthquake-wp"
 }

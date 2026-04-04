@@ -25,8 +25,8 @@
     "sourceType": "core",
     "sourceArticleId": "fort-bliss-national-cemetery-wp",
     "sourceGeohash4": "9tsm",
-    "smallPath": "_m/9/t/s/m/fort-bliss-national-cemetery-wp/hero-small.jpg",
-    "mediumPath": "_m/9/t/s/m/fort-bliss-national-cemetery-wp/hero-medium.jpg"
+    "smallPath": "_m/9/t/s/m/fort-bliss-national-cemetery-wp/hero-small.webp",
+    "mediumPath": "_m/9/t/s/m/fort-bliss-national-cemetery-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Ft. Bliss National Cemetery pano.jpg",
@@ -78,7 +78,7 @@
       "sourceType": "core",
       "sourceArticleId": "fort-bliss-national-cemetery-wp",
       "sourceGeohash4": "9tsm",
-      "smallPath": "_m/9/t/s/m/fort-bliss-national-cemetery-wp/postcard-print-photo-t-small.jpg"
+      "smallPath": "_m/9/t/s/m/fort-bliss-national-cemetery-wp/postcard-print-photo-t-small.webp"
     },
     {
       "filename": "Relief map of Texas.png",
@@ -133,8 +133,8 @@
       "sourceType": "core",
       "sourceArticleId": "fort-bliss-national-cemetery-wp",
       "sourceGeohash4": "9tsm",
-      "smallPath": "_m/9/t/s/m/fort-bliss-national-cemetery-wp/burial-ceremony-world-small.jpg",
-      "mediumPath": "_m/9/t/s/m/fort-bliss-national-cemetery-wp/burial-ceremony-world-medium.jpg"
+      "smallPath": "_m/9/t/s/m/fort-bliss-national-cemetery-wp/burial-ceremony-world-small.webp",
+      "mediumPath": "_m/9/t/s/m/fort-bliss-national-cemetery-wp/burial-ceremony-world-medium.webp"
     },
     {
       "filename": "Sherman Hemsley marker.JPG",
@@ -157,7 +157,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-bliss-national-cemetery-wp",
-      "sourceGeohash4": "9tsm"
+      "sourceGeohash4": "9tsm",
+      "mediumPath": "_m/9/t/s/m/fort-bliss-national-cemetery-wp/sherman-hemsley-marker-medium.webp",
+      "smallPath": "_m/9/t/s/m/fort-bliss-national-cemetery-wp/sherman-hemsley-marker-small.webp"
     },
     {
       "filename": "120313-A-TG291-008 (6984638427).jpg",
@@ -179,7 +181,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-bliss-national-cemetery-wp",
-      "sourceGeohash4": "9tsm"
+      "sourceGeohash4": "9tsm",
+      "smallPath": "_m/9/t/s/m/fort-bliss-national-cemetery-wp/120313-a-tg291-008-6984638427-small.webp"
     },
     {
       "filename": "Fort bliss national cemetery 03.jpg",
@@ -202,7 +205,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-bliss-national-cemetery-wp",
-      "sourceGeohash4": "9tsm"
+      "sourceGeohash4": "9tsm",
+      "mediumPath": "_m/9/t/s/m/fort-bliss-national-cemetery-wp/fort-bliss-national-cemetery-0-medium.webp",
+      "smallPath": "_m/9/t/s/m/fort-bliss-national-cemetery-wp/fort-bliss-national-cemetery-0-small.webp"
     },
     {
       "filename": "Fort bliss national cemetery 01.jpg",
@@ -225,7 +230,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-bliss-national-cemetery-wp",
-      "sourceGeohash4": "9tsm"
+      "sourceGeohash4": "9tsm",
+      "mediumPath": "_m/9/t/s/m/fort-bliss-national-cemetery-wp/fort-bliss-national-cemetery-0-1-medium.webp",
+      "smallPath": "_m/9/t/s/m/fort-bliss-national-cemetery-wp/fort-bliss-national-cemetery-0-1-small.webp"
     },
     {
       "filename": "Fort Bliss National Cemetery, El Paso. TX.jpg",
@@ -247,7 +254,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-bliss-national-cemetery-wp",
-      "sourceGeohash4": "9tsm"
+      "sourceGeohash4": "9tsm",
+      "smallPath": "_m/9/t/s/m/fort-bliss-national-cemetery-wp/fort-bliss-national-cemetery-e-small.webp"
     }
   ],
   "galleryPaths": [
@@ -260,7 +268,6 @@
     "_m/9/t/s/m/fort-bliss-national-cemetery-wp/fort-bliss-national-cemetery-0-1.jpg",
     "_m/9/t/s/m/fort-bliss-national-cemetery-wp/fort-bliss-national-cemetery-e.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:23:22.593Z",
   "narration": {
     "files": [
       "9tsm-fort-bliss-national-cemetery-flight-context.mp3",
@@ -278,8 +285,7 @@
       "9tsm-fort-bliss-national-cemetery-heroes-and-legends.mp3": 55.5204583,
       "9tsm-fort-bliss-national-cemetery-desert-adaptation.mp3": 60.478625
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T03:20:52.047Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:23:23.437Z"
 }

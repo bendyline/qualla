@@ -35,7 +35,9 @@
           "Media missing infobox template",
           "PD-US missing SDC copyright status",
           "PD US"
-        ]
+        ],
+        "mediumPath": "_m/b/f/x/f/skagway-wk/hero-medium.webp",
+        "smallPath": "_m/b/f/x/f/skagway-wk/hero-small.webp"
       },
       "images": [
         {
@@ -67,8 +69,8 @@
             "White Pass and Yukon Route 73",
             "Wikivoyage banners of Alaska"
           ],
-          "smallPath": "_m/b/f/x/f/skagway-wk/white-pass-yukon-route-small.jpg",
-          "mediumPath": "_m/b/f/x/f/skagway-wk/white-pass-yukon-route-medium.jpg"
+          "smallPath": "_m/b/f/x/f/skagway-wk/white-pass-yukon-route-small.webp",
+          "mediumPath": "_m/b/f/x/f/skagway-wk/white-pass-yukon-route-medium.webp"
         },
         {
           "path": "_m/b/f/x/f/skagway-wk/hero.jpg",
@@ -476,7 +478,8 @@
             "Self-published work"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/b/f/x/f/skagway-wk/bfxf-skagway-combined.mp3"
     }
   }
 }

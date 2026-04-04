@@ -17,8 +17,8 @@
     "sourceType": "core",
     "sourceArticleId": "history-of-the-nuclear-program-of-iran-wp",
     "sourceGeohash4": "tnhq",
-    "mediumPath": "_m/t/n/h/q/history-of-the-nuclear-program-of-iran-wp/hero-medium.jpg",
-    "smallPath": "_m/t/n/h/q/history-of-the-nuclear-program-of-iran-wp/hero-small.jpg"
+    "mediumPath": "_m/t/n/h/q/history-of-the-nuclear-program-of-iran-wp/hero-medium.webp",
+    "smallPath": "_m/t/n/h/q/history-of-the-nuclear-program-of-iran-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Secretary Kerry Meets with Iranian Foreign Minister Zarif, July 2014.jpg",
@@ -68,7 +68,7 @@
       "sourceType": "core",
       "sourceArticleId": "history-of-the-nuclear-program-of-iran-wp",
       "sourceGeohash4": "tnhq",
-      "smallPath": "_m/t/n/h/q/history-of-the-nuclear-program-of-iran-wp/iranian-newspaper-clip-small.jpg"
+      "smallPath": "_m/t/n/h/q/history-of-the-nuclear-program-of-iran-wp/iranian-newspaper-clip-small.webp"
     },
     {
       "filename": "Arak Heavy Water4.JPG",
@@ -133,7 +133,7 @@
       "sourceType": "core",
       "sourceArticleId": "history-of-the-nuclear-program-of-iran-wp",
       "sourceGeohash4": "tnhq",
-      "smallPath": "_m/t/n/h/q/history-of-the-nuclear-program-of-iran-wp/iran-eu3-s-first-meeti-small.jpg"
+      "smallPath": "_m/t/n/h/q/history-of-the-nuclear-program-of-iran-wp/iran-eu3-s-first-meeti-small.webp"
     },
     {
       "filename": "Tehran Declaration - 21 October 2003 - Joschka Fischer, Hassan Rouhani, Dominique de Villepin and Jack Straw.png",
@@ -153,8 +153,8 @@
       "sourceType": "core",
       "sourceArticleId": "history-of-the-nuclear-program-of-iran-wp",
       "sourceGeohash4": "tnhq",
-      "mediumPath": "_m/t/n/h/q/history-of-the-nuclear-program-of-iran-wp/tehran-declaration-21-medium.png",
-      "smallPath": "_m/t/n/h/q/history-of-the-nuclear-program-of-iran-wp/tehran-declaration-21-small.png"
+      "mediumPath": "_m/t/n/h/q/history-of-the-nuclear-program-of-iran-wp/tehran-declaration-21-medium.webp",
+      "smallPath": "_m/t/n/h/q/history-of-the-nuclear-program-of-iran-wp/tehran-declaration-21-small.webp"
     }
   ],
   "galleryPaths": [
@@ -163,5 +163,25 @@
     "_m/t/n/h/q/history-of-the-nuclear-program-of-iran-wp/iran-eu3-s-first-meeti.jpg",
     "_m/t/n/h/q/history-of-the-nuclear-program-of-iran-wp/tehran-declaration-21.png"
   ],
-  "fetchedAt": "2026-03-01T14:17:40.170Z"
+  "narration": {
+    "files": [
+      "tnhq-history-of-the-nuclear-program-of-iran-flight-context.mp3",
+      "tnhq-history-of-the-nuclear-program-of-iran-intro.mp3",
+      "tnhq-history-of-the-nuclear-program-of-iran-the-shahs-atomic-ambition.mp3",
+      "tnhq-history-of-the-nuclear-program-of-iran-revolution-and-reconstruction.mp3",
+      "tnhq-history-of-the-nuclear-program-of-iran-exposure-and-confrontation.mp3",
+      "tnhq-history-of-the-nuclear-program-of-iran-the-deal-and-its-collapse.mp3",
+      "tnhq-history-of-the-nuclear-program-of-iran-the-present-danger.mp3"
+    ],
+    "durations": {
+      "tnhq-history-of-the-nuclear-program-of-iran-flight-context.mp3": 62.4620833,
+      "tnhq-history-of-the-nuclear-program-of-iran-intro.mp3": 53.0225416,
+      "tnhq-history-of-the-nuclear-program-of-iran-the-shahs-atomic-ambition.mp3": 67.4870833,
+      "tnhq-history-of-the-nuclear-program-of-iran-revolution-and-reconstruction.mp3": 71.2245416,
+      "tnhq-history-of-the-nuclear-program-of-iran-exposure-and-confrontation.mp3": 70.0912083,
+      "tnhq-history-of-the-nuclear-program-of-iran-the-deal-and-its-collapse.mp3": 63.97025,
+      "tnhq-history-of-the-nuclear-program-of-iran-the-present-danger.mp3": 58.6020416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

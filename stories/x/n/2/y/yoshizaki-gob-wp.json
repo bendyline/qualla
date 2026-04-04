@@ -83,14 +83,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "liancourt-rocks-wp",
+      "title": "Liancourt Rocks",
+      "tile": "wytg",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 37.241666666667,
+        "lng": 131.86666666667
       },
-      "distanceKm": 1195.4
+      "distanceKm": 349.4
     },
     "n": {
       "id": "keta-taisha-wp",
@@ -162,5 +162,6 @@
       },
       "distanceKm": 13.4
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/2/y/yoshizaki-gobo-wp"
 }

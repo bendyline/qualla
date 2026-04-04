@@ -102,14 +102,14 @@
       "distanceKm": 124.1
     },
     "ne": {
-      "id": "st-petersburg-wk",
-      "title": "St. Petersburg",
-      "tile": "udts",
+      "id": "finnish-war-wp",
+      "title": "Finnish War",
+      "tile": "ue02",
       "coordinates": {
-        "lat": 59.9343,
-        "lng": 30.3351
+        "lat": 62,
+        "lng": 22.966666666666665
       },
-      "distanceKm": 452.9
+      "distanceKm": 385.3
     },
     "w": {
       "id": "ventspils-castle-wp",
@@ -122,14 +122,14 @@
       "distanceKm": 98.4
     },
     "e": {
-      "id": "vilnius-wk",
-      "title": "Vilnius",
-      "tile": "u99z",
+      "id": "helvetinjarvi-national-park-wp",
+      "title": "Helvetinjärvi National Park",
+      "tile": "ue0b",
       "coordinates": {
-        "lat": 54.6872,
-        "lng": 25.2797
+        "lat": 62.03333333,
+        "lng": 23.85
       },
-      "distanceKm": 425.5
+      "distanceKm": 421.9
     },
     "sw": {
       "id": "2022-baltic-sea-cessna-citation-ii-crash-wp",
@@ -164,5 +164,7 @@
   },
   "keywords": [
     "kuressaare-castle"
-  ]
+  ],
+  "locationWikipediaPath": "u/6/r/g/kuressaare-castle-wp",
+  "locationWikivoyagePath": "u/6/r/g/kuressaare-wk"
 }

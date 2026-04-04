@@ -25,8 +25,8 @@
     "sourceType": "core",
     "sourceArticleId": "capture-of-new-orleans-wp",
     "sourceGeohash4": "9vrf",
-    "smallPath": "_m/9/v/r/f/capture-of-new-orleans-wp/hero-small.jpg",
-    "mediumPath": "_m/9/v/r/f/capture-of-new-orleans-wp/hero-medium.jpg"
+    "smallPath": "_m/9/v/r/f/capture-of-new-orleans-wp/hero-small.webp",
+    "mediumPath": "_m/9/v/r/f/capture-of-new-orleans-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Andrew Jackson statue 1.jpg",
@@ -89,8 +89,8 @@
       "sourceType": "core",
       "sourceArticleId": "capture-of-new-orleans-wp",
       "sourceGeohash4": "9vrf",
-      "smallPath": "_m/9/v/r/f/capture-of-new-orleans-wp/admiral-david-farragut-small.jpg",
-      "mediumPath": "_m/9/v/r/f/capture-of-new-orleans-wp/admiral-david-farragut-medium.jpg"
+      "smallPath": "_m/9/v/r/f/capture-of-new-orleans-wp/admiral-david-farragut-small.webp",
+      "mediumPath": "_m/9/v/r/f/capture-of-new-orleans-wp/admiral-david-farragut-medium.webp"
     },
     {
       "filename": "New orleans 1862.jpg",
@@ -121,7 +121,7 @@
       "sourceType": "core",
       "sourceArticleId": "capture-of-new-orleans-wp",
       "sourceGeohash4": "9vrf",
-      "smallPath": "_m/9/v/r/f/capture-of-new-orleans-wp/panoramic-view-new-orl-small.jpg"
+      "smallPath": "_m/9/v/r/f/capture-of-new-orleans-wp/panoramic-view-new-orl-small.webp"
     },
     {
       "filename": "Lowering the State flag at New Orleans.jpg",
@@ -140,7 +140,7 @@
       "sourceType": "core",
       "sourceArticleId": "capture-of-new-orleans-wp",
       "sourceGeohash4": "9vrf",
-      "smallPath": "_m/9/v/r/f/capture-of-new-orleans-wp/union-troops-lower-lou-small.jpg"
+      "smallPath": "_m/9/v/r/f/capture-of-new-orleans-wp/union-troops-lower-lou-small.webp"
     },
     {
       "filename": "Capture of New Orleans 1862.jpg",
@@ -159,7 +159,7 @@
       "sourceType": "core",
       "sourceArticleId": "capture-of-new-orleans-wp",
       "sourceGeohash4": "9vrf",
-      "smallPath": "_m/9/v/r/f/capture-of-new-orleans-wp/capture-new-orleans-un-small.jpg"
+      "smallPath": "_m/9/v/r/f/capture-of-new-orleans-wp/capture-new-orleans-un-small.webp"
     },
     {
       "filename": "Lower Mississippi River Map.jpg",
@@ -178,8 +178,8 @@
       "sourceType": "core",
       "sourceArticleId": "capture-of-new-orleans-wp",
       "sourceGeohash4": "9vrf",
-      "smallPath": "_m/9/v/r/f/capture-of-new-orleans-wp/map-depicting-delta-mi-small.jpg",
-      "mediumPath": "_m/9/v/r/f/capture-of-new-orleans-wp/map-depicting-delta-mi-medium.jpg"
+      "smallPath": "_m/9/v/r/f/capture-of-new-orleans-wp/map-depicting-delta-mi-small.webp",
+      "mediumPath": "_m/9/v/r/f/capture-of-new-orleans-wp/map-depicting-delta-mi-medium.webp"
     },
     {
       "filename": "New Orleans Map 1863.jpg",
@@ -198,8 +198,8 @@
       "sourceType": "core",
       "sourceArticleId": "capture-of-new-orleans-wp",
       "sourceGeohash4": "9vrf",
-      "smallPath": "_m/9/v/r/f/capture-of-new-orleans-wp/department-gulf-map-nu-small.jpg",
-      "mediumPath": "_m/9/v/r/f/capture-of-new-orleans-wp/department-gulf-map-nu-medium.jpg"
+      "smallPath": "_m/9/v/r/f/capture-of-new-orleans-wp/department-gulf-map-nu-small.webp",
+      "mediumPath": "_m/9/v/r/f/capture-of-new-orleans-wp/department-gulf-map-nu-medium.webp"
     },
     {
       "filename": "Mauritz de Haas - Farragut's Fleet passing the Forts below New Orleans.jpg",
@@ -230,7 +230,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "capture-of-new-orleans-wp",
-      "sourceGeohash4": "9vrf"
+      "sourceGeohash4": "9vrf",
+      "mediumPath": "_m/9/v/r/f/capture-of-new-orleans-wp/mauritz-de-haas-farragut-s-fle-medium.webp",
+      "smallPath": "_m/9/v/r/f/capture-of-new-orleans-wp/mauritz-de-haas-farragut-s-fle-small.webp"
     },
     {
       "filename": "Chalmette Artillery (7393811268).jpg",
@@ -255,7 +257,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "capture-of-new-orleans-wp",
-      "sourceGeohash4": "9vrf"
+      "sourceGeohash4": "9vrf",
+      "smallPath": "_m/9/v/r/f/capture-of-new-orleans-wp/chalmette-artillery-7393811268-small.webp"
     }
   ],
   "galleryPaths": [
@@ -268,7 +271,6 @@
     "_m/9/v/r/f/capture-of-new-orleans-wp/mauritz-de-haas-farragut-s-fle.jpg",
     "_m/9/v/r/f/capture-of-new-orleans-wp/chalmette-artillery-7393811268.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:12:31.461Z",
   "narration": {
     "files": [
       "9vrf-capture-of-new-orleans-flight-context.mp3",
@@ -288,8 +290,7 @@
       "9vrf-capture-of-new-orleans-beast-butlers-reign.mp3": 79.0829166,
       "9vrf-capture-of-new-orleans-the-river-divided.mp3": 63.2156666
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T10:16:12.890Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T23:12:32.104Z"
 }

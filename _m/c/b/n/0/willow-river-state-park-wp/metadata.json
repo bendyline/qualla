@@ -26,8 +26,8 @@
     "sourceType": "core",
     "sourceArticleId": "willow-river-state-park-wp",
     "sourceGeohash4": "cbn0",
-    "smallPath": "_m/c/b/n/0/willow-river-state-park-wp/hero-small.jpg",
-    "mediumPath": "_m/c/b/n/0/willow-river-state-park-wp/hero-medium.jpg"
+    "smallPath": "_m/c/b/n/0/willow-river-state-park-wp/hero-small.webp",
+    "mediumPath": "_m/c/b/n/0/willow-river-state-park-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Willow River Falls, tributary to St. Croix, by Upton, B. F. (Benjamin Franklin), 1818 or 1824-after 1901.jpg",
@@ -83,8 +83,8 @@
       "sourceType": "core",
       "sourceArticleId": "willow-river-state-park-wp",
       "sourceGeohash4": "cbn0",
-      "smallPath": "_m/c/b/n/0/willow-river-state-park-wp/willow-falls-willow-ri-small.jpg",
-      "mediumPath": "_m/c/b/n/0/willow-river-state-park-wp/willow-falls-willow-ri-medium.jpg"
+      "smallPath": "_m/c/b/n/0/willow-river-state-park-wp/willow-falls-willow-ri-small.webp",
+      "mediumPath": "_m/c/b/n/0/willow-river-state-park-wp/willow-falls-willow-ri-medium.webp"
     },
     {
       "filename": "02WillowFalls.jpg",
@@ -110,7 +110,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "willow-river-state-park-wp",
-      "sourceGeohash4": "cbn0"
+      "sourceGeohash4": "cbn0",
+      "smallPath": "_m/c/b/n/0/willow-river-state-park-wp/02willowfalls-small.webp"
     },
     {
       "filename": "Little Falls Lake Winter Sunset, Wisconsin (40205503421).jpg",
@@ -137,7 +138,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "willow-river-state-park-wp",
-      "sourceGeohash4": "cbn0"
+      "sourceGeohash4": "cbn0",
+      "mediumPath": "_m/c/b/n/0/willow-river-state-park-wp/little-falls-lake-winter-sunse-medium.webp",
+      "smallPath": "_m/c/b/n/0/willow-river-state-park-wp/little-falls-lake-winter-sunse-small.webp"
     },
     {
       "filename": "Little Falls Dam - Willow River State Park, Wisconsin (28397980529).jpg",
@@ -163,7 +166,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "willow-river-state-park-wp",
-      "sourceGeohash4": "cbn0"
+      "sourceGeohash4": "cbn0",
+      "mediumPath": "_m/c/b/n/0/willow-river-state-park-wp/little-falls-dam-willow-river--medium.webp",
+      "smallPath": "_m/c/b/n/0/willow-river-state-park-wp/little-falls-dam-willow-river--small.webp"
     },
     {
       "filename": "Willow Falls 01.jpg",
@@ -188,7 +193,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "willow-river-state-park-wp",
-      "sourceGeohash4": "cbn0"
+      "sourceGeohash4": "cbn0",
+      "mediumPath": "_m/c/b/n/0/willow-river-state-park-wp/willow-falls-01-medium.webp",
+      "smallPath": "_m/c/b/n/0/willow-river-state-park-wp/willow-falls-01-small.webp"
     },
     {
       "filename": "Willow Falls 02.jpg",
@@ -213,7 +220,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "willow-river-state-park-wp",
-      "sourceGeohash4": "cbn0"
+      "sourceGeohash4": "cbn0",
+      "mediumPath": "_m/c/b/n/0/willow-river-state-park-wp/willow-falls-02-medium.webp",
+      "smallPath": "_m/c/b/n/0/willow-river-state-park-wp/willow-falls-02-small.webp"
     },
     {
       "filename": "Willow River Gorge.jpg",
@@ -235,7 +244,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "willow-river-state-park-wp",
-      "sourceGeohash4": "cbn0"
+      "sourceGeohash4": "cbn0",
+      "smallPath": "_m/c/b/n/0/willow-river-state-park-wp/willow-river-gorge-small.webp"
     },
     {
       "filename": "Willow River State Park.jpg",
@@ -252,7 +262,9 @@
       "dateCreated": "2020-09-22",
       "sourceType": "commons-category",
       "sourceArticleId": "willow-river-state-park-wp",
-      "sourceGeohash4": "cbn0"
+      "sourceGeohash4": "cbn0",
+      "mediumPath": "_m/c/b/n/0/willow-river-state-park-wp/willow-river-state-park-medium.webp",
+      "smallPath": "_m/c/b/n/0/willow-river-state-park-wp/willow-river-state-park-small.webp"
     }
   ],
   "galleryPaths": [
@@ -265,7 +277,6 @@
     "_m/c/b/n/0/willow-river-state-park-wp/willow-river-gorge.jpg",
     "_m/c/b/n/0/willow-river-state-park-wp/willow-river-state-park.jpg"
   ],
-  "fetchedAt": "2026-02-22T03:01:24.598Z",
   "narration": {
     "files": [
       "cbn0-willow-river-state-park-flight-context.mp3",
@@ -285,8 +296,7 @@
       "cbn0-willow-river-state-park-gorge-walls-and-overhanging-limestone.mp3": 54.47375,
       "cbn0-willow-river-state-park-trails-through-recovering-land.mp3": 57.3115416
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T10:42:03.126Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T03:01:26.125Z"
 }

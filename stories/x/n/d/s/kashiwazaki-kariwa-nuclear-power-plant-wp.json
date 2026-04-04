@@ -93,14 +93,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "terney-wk",
+      "title": "Terney",
+      "tile": "z010",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 45.033333,
+        "lng": 136.6
       },
-      "distanceKm": 1345.2
+      "distanceKm": 834.9
     },
     "n": {
       "id": "yahiko-shrine-wp",
@@ -172,5 +172,6 @@
       },
       "distanceKm": 17.5
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/d/s/kashiwazaki-kariwa-nuclear-power-plant-wp"
 }

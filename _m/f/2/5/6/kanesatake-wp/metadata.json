@@ -23,7 +23,7 @@
     "sourceType": "core",
     "sourceArticleId": "kanesatake-wp",
     "sourceGeohash4": "f256",
-    "smallPath": "_m/f/2/5/6/kanesatake-wp/hero-small.jpg"
+    "smallPath": "_m/f/2/5/6/kanesatake-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Kanesatake Quebec location diagram.png",
@@ -73,13 +73,33 @@
       "sourceType": "commons-category",
       "sourceArticleId": "kanesatake-wp",
       "sourceGeohash4": "f256",
-      "mediumPath": "_m/f/2/5/6/kanesatake-wp/mont-bleu-collines-d-oka-a-kan-medium.jpg",
-      "smallPath": "_m/f/2/5/6/kanesatake-wp/mont-bleu-collines-d-oka-a-kan-small.jpg"
+      "mediumPath": "_m/f/2/5/6/kanesatake-wp/mont-bleu-collines-d-oka-a-kan-medium.webp",
+      "smallPath": "_m/f/2/5/6/kanesatake-wp/mont-bleu-collines-d-oka-a-kan-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/f/2/5/6/kanesatake-wp/mont-bleu-collines-d-oka-a-kan.jpg"
   ],
-  "fetchedAt": "2026-02-28T12:29:33.121Z",
-  "updatedAt": "2026-02-28T12:29:46.934Z"
+  "updatedAt": "2026-02-28T12:29:46.934Z",
+  "narration": {
+    "files": [
+      "f256-kanesatake-flight-context.mp3",
+      "f256-kanesatake-intro.mp3",
+      "f256-kanesatake-a-promise-written-in-sand.mp3",
+      "f256-kanesatake-the-pines-and-the-barricade.mp3",
+      "f256-kanesatake-the-army-at-the-gates.mp3",
+      "f256-kanesatake-governing-between-two-worlds.mp3",
+      "f256-kanesatake-the-sandy-place-endures.mp3"
+    ],
+    "durations": {
+      "f256-kanesatake-flight-context.mp3": 64.2512083,
+      "f256-kanesatake-intro.mp3": 50.2809583,
+      "f256-kanesatake-a-promise-written-in-sand.mp3": 77.16525,
+      "f256-kanesatake-the-pines-and-the-barricade.mp3": 69.1882083,
+      "f256-kanesatake-the-army-at-the-gates.mp3": 61.68025,
+      "f256-kanesatake-governing-between-two-worlds.mp3": 74.009,
+      "f256-kanesatake-the-sandy-place-endures.mp3": 78.889
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -75,87 +75,90 @@
   "locationWikipediaPath": "f/8/1/y/magnetic-hill-moncton-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "acadia-wk",
-      "title": "Acadia National Park",
-      "tile": "f83n",
+      "id": "1825-miramichi-fire-wp",
+      "title": "1825 Miramichi Fire",
+      "tile": "f837",
       "coordinates": {
-        "lat": 47.617,
-        "lng": -65.767
+        "lat": 47,
+        "lng": -65.5667
       },
-      "distanceKm": 137.6
+      "distanceKm": 67.4
     },
     "n": {
-      "id": "tadoussac-wk",
-      "title": "Tadoussac",
-      "tile": "f2w3",
+      "id": "le-pays-de-la-sagouine-wp",
+      "title": "Le Pays de la Sagouine",
+      "tile": "f83b",
       "coordinates": {
-        "lat": 48.1431,
-        "lng": -69.7192
+        "lat": 46.4628,
+        "lng": -64.7138
       },
-      "distanceKm": 414
+      "distanceKm": 13.1
     },
     "ne": {
-      "id": "aurora-iceland-wk",
-      "title": "The Northern Lights: The Sky Show That Vikings Thought Was Bridge to the Gods",
-      "tile": "ge2k",
+      "id": "green-gables-prince-edward-island-wp",
+      "title": "Green Gables Heritage Place",
+      "tile": "f86b",
       "coordinates": {
-        "lat": 64,
-        "lng": -22
+        "lat": 46.49166667,
+        "lng": -63.385
       },
-      "distanceKm": 3227.6
+      "distanceKm": 73.5
     },
     "w": {
-      "id": "acadia-national-park-wp",
-      "title": "Acadia National Park: Where the Mountains Meet the Sea",
-      "tile": "drzk",
+      "id": "marysville-cotton-mill-wp",
+      "title": "Marysville Cotton Mill",
+      "tile": "f80t",
       "coordinates": {
-        "lat": 44.35,
-        "lng": -68.21666666666667
+        "lat": 45.978333333333,
+        "lng": -66.588888888889
       },
-      "distanceKm": 297.8
+      "distanceKm": 94.2
     },
     "e": {
-      "id": "halifax-explosion-wk",
-      "title": "Halifax: The Largest Man-Made Explosion Before Hiroshima",
-      "tile": "dxfy",
+      "id": "fort-gaspareaux-wp",
+      "title": "Fort Gaspareaux",
+      "tile": "f84m",
       "coordinates": {
-        "lat": 44.6488,
-        "lng": -63.5752
+        "lat": 46.041111111111,
+        "lng": -64.072777777778
       },
-      "distanceKm": 176.4
+      "distanceKm": 23.2
     },
     "sw": {
-      "id": "acadia-cadillac-sunrise-wk",
-      "title": "Acadia: Where America Sees the First Sunrise",
-      "tile": "drzk",
+      "id": "cathedral-of-the-immaculate-conception-saint-john-new-brunswick-wp",
+      "title": "Cathedral of the Immaculate Conception (Saint John, New Brunswick)",
+      "tile": "f811",
       "coordinates": {
-        "lat": 44.35,
-        "lng": -68.21
+        "lat": 45.278333333333,
+        "lng": -66.056388888889
       },
-      "distanceKm": 279
+      "distanceKm": 84.5
     },
     "s": {
-      "id": "oak-island-money-pit-wk",
-      "title": "Oak Island Money Pit: 230 Years of Digging for Nothing",
-      "tile": "dxfm",
+      "id": "hopewell-rocks-wp",
+      "title": "Hopewell Rocks",
+      "tile": "f84h",
       "coordinates": {
-        "lat": 44.5131,
-        "lng": -64.289
+        "lat": 45.82333333,
+        "lng": -64.57333333
       },
-      "distanceKm": 158.4
+      "distanceKm": 23.3
     },
     "se": {
-      "id": "trans-canada-highway-wk",
-      "title": "Trans-Canada Highway",
+      "id": "fort-beausejour-wp",
+      "title": "Fort Beausejour",
       "tile": "f84k",
       "coordinates": {
-        "lat": 45.8347,
-        "lng": -64.2133
+        "lat": 45.8646,
+        "lng": -64.2916
       },
-      "distanceKm": 10.7
+      "distanceKm": 3.8
     }
   },
   "keywords": [
     "magnetic-hill-illusion"
+  ],
+  "duplicates": [
+    "magnetic-hill-moncton-wp"
   ]
 }

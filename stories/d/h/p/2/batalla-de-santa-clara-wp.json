@@ -86,24 +86,24 @@
       "distanceKm": 203.6
     },
     "n": {
-      "id": "aquarius-reef-base-wp",
-      "title": "Aquarius Reef Base",
-      "tile": "dhqv",
+      "id": "bahama-banks-wp",
+      "title": "Bahama Banks",
+      "tile": "dk2b",
       "coordinates": {
-        "lat": 24.95,
-        "lng": -80.45361111111112
+        "lat": 24.046464,
+        "lng": -77.651367
       },
-      "distanceKm": 247.9
+      "distanceKm": 241.6
     },
     "ne": {
-      "id": "flight-19-wp",
-      "title": "Flight 19",
-      "tile": "djpu",
+      "id": "south-andros-wp",
+      "title": "South Andros",
+      "tile": "dk0z",
       "coordinates": {
-        "lat": 29,
-        "lng": -79
+        "lat": 23.9,
+        "lng": -77.6
       },
-      "distanceKm": 683.8
+      "distanceKm": 192.6
     },
     "w": {
       "id": "finca-vig-a-wp",
@@ -116,14 +116,14 @@
       "distanceKm": 225.7
     },
     "e": {
-      "id": "labadee-wk",
-      "title": "Labadee",
-      "tile": "d7s8",
+      "id": "cayo-guillermo-wp",
+      "title": "Cayo Guillermo",
+      "tile": "dk00",
       "coordinates": {
-        "lat": 19.786389,
-        "lng": -72.245556
+        "lat": 22.595,
+        "lng": -78.666388888889
       },
-      "distanceKm": 775.9
+      "distanceKm": 44.7
     },
     "sw": {
       "id": "cancun-city-wk",
@@ -136,24 +136,25 @@
       "distanceKm": 703.4
     },
     "s": {
-      "id": "port-royal-sunken-wk",
-      "title": "Port Royal: When the Wickedest City on Earth Sank Into the Sea",
-      "tile": "d71q",
+      "id": "la-demajagua-national-park-wp",
+      "title": "La Demajagua National Park",
+      "tile": "d795",
       "coordinates": {
-        "lat": 17.9353,
-        "lng": -76.8407
+        "lat": 20.282201076270734,
+        "lng": -77.17759178166969
       },
-      "distanceKm": 568.2
+      "distanceKm": 340.6
     },
     "se": {
-      "id": "port-royal-pirates-wk",
-      "title": "Port Royal: The Wickedest City on Earth, Swallowed by the Sea",
-      "tile": "d71q",
+      "id": "first-battle-of-manzanillo-wp",
+      "title": "First Battle of Manzanillo",
+      "tile": "d795",
       "coordinates": {
-        "lat": 17.94,
-        "lng": -76.8407
+        "lat": 20.34333889,
+        "lng": -77.124825
       },
-      "distanceKm": 541.6
+      "distanceKm": 300.7
     }
-  }
+  },
+  "locationWikipediaPath": "d/h/p/2/batalla-de-santa-clara-wp"
 }

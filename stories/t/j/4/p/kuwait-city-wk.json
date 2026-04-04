@@ -157,14 +157,14 @@
       "distanceKm": 175.3
     },
     "sw": {
-      "id": "karnak-temple-wk",
-      "title": "Karnak: The Temple Built by 30 Pharaohs Over 2,000 Years",
-      "tile": "ssx4",
+      "id": "tuwaiq-wp",
+      "title": "Tuwaiq Escarpment",
+      "tile": "t581",
       "coordinates": {
-        "lat": 25.7188,
-        "lng": 32.6573
+        "lat": 19.914364,
+        "lng": 45.251864
       },
-      "distanceKm": 1509.4
+      "distanceKm": 1054.1
     },
     "s": {
       "id": "ardashir-khwarrah-wp",
@@ -186,5 +186,7 @@
       },
       "distanceKm": 392.4
     }
-  }
+  },
+  "locationWikipediaPath": "t/j/4/p/kuwait-city-wp",
+  "locationWikivoyagePath": "t/j/4/p/kuwait-city-wk"
 }

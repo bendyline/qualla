@@ -92,14 +92,14 @@
       "distanceKm": 5.5
     },
     "ne": {
-      "id": "flight-19-wp",
-      "title": "Flight 19",
-      "tile": "djpu",
+      "id": "grand-bahama-aux-af-airport-wp",
+      "title": "Grand Bahama Aux AF Airport",
+      "tile": "dk8r",
       "coordinates": {
-        "lat": 29,
-        "lng": -79
+        "lat": 26.633333,
+        "lng": -78.366667
       },
-      "distanceKm": 360.3
+      "distanceKm": 168.4
     },
     "w": {
       "id": "everglades-river-grass-wk",
@@ -112,14 +112,14 @@
       "distanceKm": 26.1
     },
     "e": {
-      "id": "h-l-hunley-wp",
-      "title": "H. L. Hunley",
-      "tile": "djz6",
+      "id": "grand-bahama-wp",
+      "title": "Grand Bahama",
+      "tile": "dk8r",
       "coordinates": {
-        "lat": 32.733333333333334,
-        "lng": -79.76666666666667
+        "lat": 26.65,
+        "lng": -78.316666666667
       },
-      "distanceKm": 795.8
+      "distanceKm": 190.6
     },
     "sw": {
       "id": "overseas-railroad-wp",
@@ -142,14 +142,15 @@
       "distanceKm": 22.6
     },
     "se": {
-      "id": "batalla-de-santa-clara-wp",
-      "title": "Batalla de Santa Clara",
-      "tile": "dhp2",
+      "id": "andros-the-bahamas-wp",
+      "title": "Andros, The Bahamas",
+      "tile": "dk2s",
       "coordinates": {
-        "lat": 22.616666666666667,
-        "lng": -79.68333333333334
+        "lat": 24.66666667,
+        "lng": -77.91666667
       },
-      "distanceKm": 300
+      "distanceKm": 203.4
     }
-  }
+  },
+  "locationWikipediaPath": "d/h/w/c/monkey-jungle-wp"
 }

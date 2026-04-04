@@ -86,24 +86,24 @@
   "locationWikivoyagePath": "c/0/p/y/astoria-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "vancouver-island-wk",
-      "title": "Vancouver Island",
-      "tile": "c0yc",
+      "id": "ss-camden-wp",
+      "title": "SS Camden",
+      "tile": "c0r6",
       "coordinates": {
-        "lat": 49.5,
-        "lng": -125.5
+        "lat": 46.7772,
+        "lng": -124.5208
       },
-      "distanceKm": 352.7
+      "distanceKm": 41.6
     },
     "n": {
-      "id": "anderson-island-wk",
-      "title": "Anderson Island",
-      "tile": "c22s",
+      "id": "willapa-national-wildlife-refuge-wp",
+      "title": "Willapa National Wildlife Refuge",
+      "tile": "c0rb",
       "coordinates": {
-        "lat": 47.16,
-        "lng": -122.71
+        "lat": 46.4417,
+        "lng": -123.967
       },
-      "distanceKm": 124.9
+      "distanceKm": 5.1
     },
     "ne": {
       "id": "olympia-washington-wk",
@@ -116,14 +116,14 @@
       "distanceKm": 80.5
     },
     "w": {
-      "id": "alert-bay-wk",
-      "title": "Alert Bay",
-      "tile": "c0vx",
+      "id": "quinault-canyon-wp",
+      "title": "Quinault Canyon",
+      "tile": "c0rj",
       "coordinates": {
-        "lat": 50.5856,
-        "lng": -126.9319
+        "lat": 47.35,
+        "lng": -125.133333
       },
-      "distanceKm": 526.8
+      "distanceKm": 143.9
     },
     "e": {
       "id": "vancouver-washington-wk",
@@ -136,24 +136,24 @@
       "distanceKm": 83.6
     },
     "sw": {
-      "id": "kalaupapa-national-historical-park-wk",
-      "title": "Kalaupapa National Historical Park",
-      "tile": "8eb2",
+      "id": "red-sand-beach-wp",
+      "title": "Red Sand Beach",
+      "tile": "8e9n",
       "coordinates": {
-        "lat": 21.1778,
-        "lng": -156.96
+        "lat": 20.7522,
+        "lng": -155.982
       },
-      "distanceKm": 4027
+      "distanceKm": 4000.3
     },
     "s": {
-      "id": "mcminnville-oregon-wk",
-      "title": "McMinnville",
-      "tile": "c203",
+      "id": "ukase-of-1821-wp",
+      "title": "Ukase of 1821",
+      "tile": "c0pu",
       "coordinates": {
-        "lat": 45.211667,
-        "lng": -123.197222
+        "lat": 45.833333333333336,
+        "lng": -123.96194444444444
       },
-      "distanceKm": 93.4
+      "distanceKm": 5.8
     },
     "se": {
       "id": "forest-grove-wk",

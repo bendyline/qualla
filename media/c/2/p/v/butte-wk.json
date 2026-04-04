@@ -3,12 +3,12 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/c/2/p/v/butte-wk/c2pv-butte-intro.mp3",
-        "_m/c/2/p/v/butte-wk/c2pv-butte-a-town-that-remembers.mp3",
         "_m/c/2/p/v/butte-wk/c2pv-butte-flight-context.mp3",
-        "_m/c/2/p/v/butte-wk/c2pv-butte-mining-heritage.mp3",
+        "_m/c/2/p/v/butte-wk/c2pv-butte-intro.mp3",
+        "_m/c/2/p/v/butte-wk/c2pv-butte-the-richest-hill.mp3",
         "_m/c/2/p/v/butte-wk/c2pv-butte-the-pit.mp3",
-        "_m/c/2/p/v/butte-wk/c2pv-butte-the-richest-hill.mp3"
+        "_m/c/2/p/v/butte-wk/c2pv-butte-mining-heritage.mp3",
+        "_m/c/2/p/v/butte-wk/c2pv-butte-a-town-that-remembers.mp3"
       ],
       "hero": {
         "path": "_m/tpc/bu/tt/e_/__/butte/monument-valley-late-afternoon.jpg",
@@ -37,7 +37,9 @@
           "Stratigraphy of Monument Valley",
           "Taken with Nikon D70",
           "West Mitten Butte, East Mitten Butte, and Merrick Butte"
-        ]
+        ],
+        "mediumPath": "_m/c/2/p/v/butte-wk/hero-medium.webp",
+        "smallPath": "_m/c/2/p/v/butte-wk/hero-small.webp"
       },
       "images": [
         {
@@ -293,7 +295,8 @@
             "Wikivoyage banners of Montana"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/p/v/butte-wk/c2pv-butte-combined.mp3"
     }
   }
 }

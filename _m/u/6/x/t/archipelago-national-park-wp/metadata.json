@@ -22,7 +22,7 @@
     "sourceType": "core",
     "sourceArticleId": "archipelago-national-park-wp",
     "sourceGeohash4": "u6xt",
-    "smallPath": "_m/u/6/x/t/archipelago-national-park-wp/hero-small.jpg"
+    "smallPath": "_m/u/6/x/t/archipelago-national-park-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Seeadler-flug.jpg",
@@ -107,7 +107,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "archipelago-national-park-wp",
-      "sourceGeohash4": "u6xt"
+      "sourceGeohash4": "u6xt",
+      "mediumPath": "_m/u/6/x/t/archipelago-national-park-wp/blamusslans-naturum-medium.webp",
+      "smallPath": "_m/u/6/x/t/archipelago-national-park-wp/blamusslans-naturum-small.webp"
     },
     {
       "filename": "Nature hut in Jurmo.jpg",
@@ -135,7 +137,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "archipelago-national-park-wp",
-      "sourceGeohash4": "u6xt"
+      "sourceGeohash4": "u6xt",
+      "mediumPath": "_m/u/6/x/t/archipelago-national-park-wp/nature-hut-in-jurmo-medium.webp",
+      "smallPath": "_m/u/6/x/t/archipelago-national-park-wp/nature-hut-in-jurmo-small.webp"
     }
   ],
   "galleryPaths": [
@@ -143,7 +147,6 @@
     "_m/u/6/x/t/archipelago-national-park-wp/blamusslans-naturum.jpg",
     "_m/u/6/x/t/archipelago-national-park-wp/nature-hut-in-jurmo.jpg"
   ],
-  "fetchedAt": "2026-02-22T15:12:34.010Z",
   "updatedAt": "2026-02-22T15:12:34.547Z",
   "narration": {
     "files": [
@@ -164,7 +167,6 @@
       "u6xs-archipelago-national-park-living-heritage.mp3": 55.03625,
       "u6xs-archipelago-national-park-navigating-the-maze.mp3": 66.1810416
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T22:07:11.181Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

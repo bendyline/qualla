@@ -101,14 +101,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "shikoku-pilgrimage-wp",
+      "title": "Shikoku Pilgrimage",
+      "tile": "wypd",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 34.159803,
+        "lng": 134.502592
       },
-      "distanceKm": 1296.6
+      "distanceKm": 46.2
     },
     "n": {
       "id": "koyasan-reih-kan-wp",
@@ -131,14 +131,14 @@
       "distanceKm": 51.5
     },
     "w": {
-      "id": "tangshan-earthquake-wk",
-      "title": "The Tangshan Earthquake: The Deadliest Quake of the 20th Century",
-      "tile": "wxh1",
+      "id": "bando-prisoner-of-war-camp-wp",
+      "title": "Bando Prisoner-of-War Camp",
+      "tile": "wypd",
       "coordinates": {
-        "lat": 39.6292,
-        "lng": 118.1742
+        "lat": 34.15,
+        "lng": 134.5
       },
-      "distanceKm": 1628.5
+      "distanceKm": 57.7
     },
     "e": {
       "id": "hananoiwaya-shrine-wp",
@@ -161,14 +161,14 @@
       "distanceKm": 2394.4
     },
     "s": {
-      "id": "hanoi-wk",
-      "title": "Hanoi",
-      "tile": "w7er",
+      "id": "1991-eruption-of-mount-pinatubo-wp",
+      "title": "1991 Eruption of Mount Pinatubo",
+      "tile": "wdtw",
       "coordinates": {
-        "lat": 21.0285,
-        "lng": 105.8542
+        "lat": 15.141666666666666,
+        "lng": 120.35
       },
-      "distanceKm": 3230.9
+      "distanceKm": 2555.2
     },
     "se": {
       "id": "great-barrier-reef-deeper-wk",
@@ -180,5 +180,6 @@
       },
       "distanceKm": 5851.2
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/0/2/chikatsuyu-wp"
 }

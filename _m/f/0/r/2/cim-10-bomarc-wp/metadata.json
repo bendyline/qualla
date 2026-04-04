@@ -71,8 +71,8 @@
       "sourceType": "core",
       "sourceArticleId": "cim-10-bomarc-wp",
       "sourceGeohash4": "f0r2",
-      "mediumPath": "_m/f/0/r/2/cim-10-bomarc-wp/photograph-showing-bom-medium.jpg",
-      "smallPath": "_m/f/0/r/2/cim-10-bomarc-wp/photograph-showing-bom-small.jpg"
+      "mediumPath": "_m/f/0/r/2/cim-10-bomarc-wp/photograph-showing-bom-medium.webp",
+      "smallPath": "_m/f/0/r/2/cim-10-bomarc-wp/photograph-showing-bom-small.webp"
     },
     {
       "filename": "CQM-10B Bormarc drone launch Vandenberg 1977.JPEG",
@@ -99,8 +99,8 @@
       "sourceType": "core",
       "sourceArticleId": "cim-10-bomarc-wp",
       "sourceGeohash4": "f0r2",
-      "mediumPath": "_m/f/0/r/2/cim-10-bomarc-wp/u-s-air-force-cqm-10b-medium.jpg",
-      "smallPath": "_m/f/0/r/2/cim-10-bomarc-wp/u-s-air-force-cqm-10b-small.jpg"
+      "mediumPath": "_m/f/0/r/2/cim-10-bomarc-wp/u-s-air-force-cqm-10b-medium.webp",
+      "smallPath": "_m/f/0/r/2/cim-10-bomarc-wp/u-s-air-force-cqm-10b-small.webp"
     },
     {
       "filename": "CIM-10 operators.png",
@@ -120,8 +120,8 @@
       "sourceType": "core",
       "sourceArticleId": "cim-10-bomarc-wp",
       "sourceGeohash4": "f0r2",
-      "mediumPath": "_m/f/0/r/2/cim-10-bomarc-wp/map-cim-10-operators-b-medium.png",
-      "smallPath": "_m/f/0/r/2/cim-10-bomarc-wp/map-cim-10-operators-b-small.png"
+      "mediumPath": "_m/f/0/r/2/cim-10-bomarc-wp/map-cim-10-operators-b-medium.webp",
+      "smallPath": "_m/f/0/r/2/cim-10-bomarc-wp/map-cim-10-operators-b-small.webp"
     }
   ],
   "galleryPaths": [
@@ -129,5 +129,25 @@
     "_m/f/0/r/2/cim-10-bomarc-wp/u-s-air-force-cqm-10b.jpg",
     "_m/f/0/r/2/cim-10-bomarc-wp/map-cim-10-operators-b.png"
   ],
-  "fetchedAt": "2026-02-28T11:26:59.590Z"
+  "narration": {
+    "files": [
+      "f0r2-cim-10-bomarc-flight-context.mp3",
+      "f0r2-cim-10-bomarc-intro.mp3",
+      "f0r2-cim-10-bomarc-born-from-a-turf-war.mp3",
+      "f0r2-cim-10-bomarc-a-missile-that-flew-like-a-plane.mp3",
+      "f0r2-cim-10-bomarc-the-crisis-that-toppled-a-government.mp3",
+      "f0r2-cim-10-bomarc-contamination-and-twilight.mp3",
+      "f0r2-cim-10-bomarc-echoes-in-the-forest.mp3"
+    ],
+    "durations": {
+      "f0r2-cim-10-bomarc-flight-context.mp3": 52.45425,
+      "f0r2-cim-10-bomarc-intro.mp3": 47.272375,
+      "f0r2-cim-10-bomarc-born-from-a-turf-war.mp3": 85.8955416,
+      "f0r2-cim-10-bomarc-a-missile-that-flew-like-a-plane.mp3": 76.7664166,
+      "f0r2-cim-10-bomarc-the-crisis-that-toppled-a-government.mp3": 66.7556666,
+      "f0r2-cim-10-bomarc-contamination-and-twilight.mp3": 73.163875,
+      "f0r2-cim-10-bomarc-echoes-in-the-forest.mp3": 67.8704583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

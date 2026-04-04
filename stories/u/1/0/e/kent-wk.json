@@ -91,24 +91,24 @@
   "locationWikipediaPath": "u/1/0/e/ashford-kent-golf-club-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "tower-london-deeper-wk",
-      "title": "The Tower of London: The Fortress That Imprisoned Two Queens and Lost Two Princes",
+      "id": "battle-of-cable-street-wp",
+      "title": "The Battle of Cable Street: The Day the East End Said No",
       "tile": "gcpv",
       "coordinates": {
-        "lat": 51.5081,
-        "lng": -0.0761
+        "lat": 51.51085,
+        "lng": -0.05212
       },
-      "distanceKm": 29.6
+      "distanceKm": 27.9
     },
     "n": {
-      "id": "great-fire-london-wk",
-      "title": "The Great Fire of London: When a Bakery Burned Down a City",
+      "id": "tower-bridge-wp",
+      "title": "Tower Bridge",
       "tile": "gcpv",
       "coordinates": {
-        "lat": 51.5102,
-        "lng": -0.0864
+        "lat": 51.5055,
+        "lng": -0.0754
       },
-      "distanceKm": 66.8
+      "distanceKm": 66.1
     },
     "ne": {
       "id": "delta-works-wp",
@@ -121,14 +121,14 @@
       "distanceKm": 160.7
     },
     "w": {
-      "id": "crystal-palace-fire-wk",
-      "title": "The Crystal Palace Fire: When London's Glass Wonder Burned",
-      "tile": "gcpu",
+      "id": "hever-castle-wp",
+      "title": "Hever Castle",
+      "tile": "u105",
       "coordinates": {
-        "lat": 51.4188,
-        "lng": -0.0754
+        "lat": 51.186944,
+        "lng": 0.113889
       },
-      "distanceKm": 35.7
+      "distanceKm": 17.6
     },
     "e": {
       "id": "atlantic-wall-open-air-museum-wp",
@@ -141,34 +141,34 @@
       "distanceKm": 100.4
     },
     "sw": {
-      "id": "d-day-beaches-wk",
-      "title": "D-Day: The Longest Day",
-      "tile": "gbzb",
+      "id": "battle-of-lewes-wp",
+      "title": "Battle of Lewes",
+      "tile": "gcpc",
       "coordinates": {
-        "lat": 49.24209,
-        "lng": -0.27375
+        "lat": 50.878611,
+        "lng": -0.013889
       },
-      "distanceKm": 198
+      "distanceKm": 27.8
     },
     "s": {
-      "id": "battle-of-broodseinde-wp",
-      "title": "Battle of Broodseinde",
-      "tile": "u141",
+      "id": "brighton-palace-pier-wp",
+      "title": "Brighton Palace Pier",
+      "tile": "gcpc",
       "coordinates": {
-        "lat": 50.85194444444445,
-        "lng": 2.8905555555555553
+        "lat": 50.8164,
+        "lng": -0.137222
       },
-      "distanceKm": 141.7
+      "distanceKm": 73.5
     },
     "se": {
-      "id": "battle-of-pilckem-ridge-wp",
-      "title": "Battle of Pilckem Ridge",
-      "tile": "u141",
+      "id": "le-paradis-massacre-wp",
+      "title": "Le Paradis Massacre",
+      "tile": "u0cz",
       "coordinates": {
-        "lat": 50.89,
-        "lng": 2.88
+        "lat": 50.5948,
+        "lng": 2.6477
       },
-      "distanceKm": 103.7
+      "distanceKm": 97
     }
   },
   "keywords": [

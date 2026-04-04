@@ -1,0 +1,151 @@
+{
+  "id": "castle-rushen-wp",
+  "source": "wikipedia",
+  "sourceId": "5529706",
+  "title": "Castle Rushen",
+  "slug": "castle-rushen",
+  "summary": "On the Isle of Man, an oak beam dated 947 anchors one of Europe's best-preserved medieval castles, which has served as a Viking fortress, a Scottish invasion target, a Royalist court, a prison, and a still-functioning courthouse.",
+  "content": {
+    "intro": "An oak beam found inside Castle Rushen in the mid-19th century bore the date 947. If accurate, it places timber from this fortress in the reign of the Norse kings who ruled the Isle of Man a century before William the Conqueror crossed the English Channel. The beam is a single data point, easily questioned, but it aligns with everything else about this castle: a place built before the age of chivalry, fought over by Vikings, Scots, and English, governed by kings who rarely visited and lords who could not always hold it. Castle Rushen rises above the Market Square and harbour of Castletown, the island's historic capital, its limestone walls still dominating the surrounding landscape after more than a thousand years of continuous use. It remains, today, a working courthouse.",
+    "sections": [
+      {
+        "title": "Kings of Mann and the Isles",
+        "body": "The original Castle Rushen consisted of a central square stone keep, fortified to guard the entrance to the Silver Burn. Construction is attributed to the 10th-century rulers of Mann, the Norse kings who controlled the island and the Hebrides from this strategic position in the Irish Sea. The last King of Man, Magnus Olafsson, died at the castle in 1265, according to the Chronicle of Mann. By 1313, the keep had been reinforced with towers to the west and south. In the 14th century, an east tower, gatehouses, and a curtain wall were added. The castle's defenses were formidable: the entrance to the keep was protected by a drawbridge and a fortified inner gatehouse with two portcullises. Between them lay a killing area covered by three murder holes, through which defenders could attack anyone trapped between the gates. On 18 May 1313, Robert the Bruce invaded the Isle of Man at Ramsey with the help of Angus Og Macdonald and his fleet, part of the power struggle that followed the Treaty of Perth ending the Scottish-Norwegian War."
+      },
+      {
+        "title": "Elizabeth's Clock and the Great Stanley",
+        "body": "The castle passed through many hands. From 1405, the Isle of Man was controlled by the Stanley family, beginning with Sir John Stanley, who received the title King of Mann from Henry IV. The title was downgraded to Lord of Mann in 1521 -- a title held today by the reigning British monarch. Inside the castle, a medieval chapel houses a still-functioning clock mechanism presented by Queen Elizabeth I in 1597, while she controlled the island during a dispute over its governance. The clock remains a notable landmark in Castletown. During the English Civil War, James Stanley, 7th Earl of Derby -- known as the Great Stanley -- sided with the Royalists and established a secondary court at Castle Rushen before leaving to fight in England. He was captured at the Battle of Worcester on 3 September 1651 and executed at Bolton six weeks later. Before departing the island, he had left his wife, Countess Charlotte, in command. The French-born Charlotte Stanley -- already famous for her defense of Lathom House in 1644 -- held Castle Rushen until a rebellion led by the Manx nationalist Illiam Dhone and the mutiny of her own garrison forced her to surrender to Parliamentarian forces by the end of October 1651."
+      },
+      {
+        "title": "Prison, Parliament, and Preservation",
+        "body": "The castle served as a meeting place for the 24 Keys, an early name for the House of Keys, the lower house of the Manx Parliament, which had no permanent residence until 1710. The Manx law books were stored in the Lord's Treasury within the castle walls. By the 18th century, Castle Rushen had fallen into steady decay and was converted into a prison. Conditions deteriorated until, by the 1880s, order among the inmates had broken down entirely and separating prisoners became impossible. An 1885 inspection led to the recommendation to build a new facility, and the Victoria Road Prison opened in 1891. The castle also served as a facility for people with mental illness -- those deemed criminally dangerous were transferred to institutions in Scotland and England. Democracy activists Robert Fargher and James Brown both spent time in the Castle Rushen jail as punishment for demanding public elections. In 1988, Manx National Heritage took control and opened the restored castle to the public in July 1991. Today it functions as both a museum depicting the history of the Kings and Lords of Mann and an official courthouse. Castle Rushen features on the reverse of the Manx five-pound note, which has the unusual distinction of also displaying a pub -- the Castle Arms, which sits directly opposite."
+      }
+    ],
+    "flightContext": "Castle Rushen sits at 54.07°N, 4.65°W in Castletown, on the southern coast of the Isle of Man. The medieval castle towers over the harbour and Market Square. Ronaldsway Airport (EGNS) is approximately 2nm to the east. The castle's limestone walls are visible from lower altitudes against the harbour and town. The Isle of Man lies in the Irish Sea between England, Scotland, Ireland, and Wales."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 54.073611,
+      "lng": -4.652778
+    },
+    "geohash": "gcsew"
+  },
+  "categories": [
+    "castle",
+    "history",
+    "Isle of Man",
+    "heritage"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 720,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 9262
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Castle Rushen - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Castle_Rushen",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Magnus Olafsson (last King of Man) died at castle in 1265 per Chronicle of Mann — confirmed",
+        "Robert the Bruce invaded Isle of Man at Ramsey on 18 May 1313 with Angus Og Macdonald — confirmed",
+        "Stanley family received Isle of Man from Henry IV in 1405 — confirmed",
+        "Elizabeth I clock mechanism presented in 1597 — confirmed",
+        "James Stanley (7th Earl of Derby) captured at Battle of Worcester 3 September 1651 — confirmed",
+        "Charlotte Stanley defended Castle Rushen; Illiam Dhone led the Manx rebellion — confirmed",
+        "Manx National Heritage took control in 1988, opened July 1991 — confirmed",
+        "Corrected: 'insane asylum, confining mentally ill patients' → 'facility for people with mental illness'"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "g/c/s/e/castle-rushen-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "castle-ward-wp",
+      "title": "Castle Ward",
+      "tile": "gcsj",
+      "coordinates": {
+        "lat": 54.3675,
+        "lng": -5.58056
+      },
+      "distanceKm": 20.7
+    },
+    "n": {
+      "id": "dundrennan-abbey-wp",
+      "title": "Dundrennan Abbey",
+      "tile": "gctp",
+      "coordinates": {
+        "lat": 54.806666666667,
+        "lng": -3.9477777777778
+      },
+      "distanceKm": 75
+    },
+    "ne": {
+      "id": "st-bees-priory-wp",
+      "title": "St Bees Priory",
+      "tile": "gctq",
+      "coordinates": {
+        "lat": 54.4939,
+        "lng": -3.59355
+      },
+      "distanceKm": 45
+    },
+    "w": {
+      "id": "nendrum-monastery-wp",
+      "title": "Nendrum Monastery",
+      "tile": "gcey",
+      "coordinates": {
+        "lat": 54.498,
+        "lng": -5.648
+      },
+      "distanceKm": 55.2
+    },
+    "e": {
+      "id": "muncaster-castle-wp",
+      "title": "Muncaster Castle",
+      "tile": "gctt",
+      "coordinates": {
+        "lat": 54.3546554,
+        "lng": -3.3808693
+      },
+      "distanceKm": 64
+    },
+    "sw": {
+      "id": "malahide-castle-wp",
+      "title": "Malahide Castle",
+      "tile": "gce8",
+      "coordinates": {
+        "lat": 53.444722,
+        "lng": -6.165
+      },
+      "distanceKm": 70.2
+    },
+    "s": {
+      "id": "holy-island-anglesey-wp",
+      "title": "Holy Island, Anglesey",
+      "tile": "gckx",
+      "coordinates": {
+        "lat": 53.283333,
+        "lng": -4.616667
+      },
+      "distanceKm": 56.9
+    },
+    "se": {
+      "id": "beaumaris-castle-wp",
+      "title": "Beaumaris Castle",
+      "tile": "gcmp",
+      "coordinates": {
+        "lat": 53.264908,
+        "lng": -4.08957
+      },
+      "distanceKm": 58.9
+    }
+  }
+}

@@ -9,7 +9,7 @@
     "intro": "The Amazon rainforest is so vast it creates its own weather. Trees release water vapor through transpiration, forming clouds that rain back down, sustaining the forest in a self-perpetuating cycle. This 'flying river' carries more water than the Amazon River itself. The forest stores 150-200 billion tons of carbon. It contributes significantly to oxygen production (though the oft-cited '20%' figure is disputed by scientists). It contains 10% of all species on Earth. And it's disappearing - deforestation claims an area the size of a football field every minute. The Amazon that has existed for 55 million years may not survive the 21st century.",
     "sections": [
       {
-        "title": "The Rain",
+        "title": "The Basin",
         "body": "The Amazon basin covers 2.7 million square miles across nine countries - 60% in Brazil. The rainforest itself spans 2.1 million square miles, making it the largest tropical forest on Earth. The Amazon River discharges more water than the next seven largest rivers combined.\n\nApproximately 390 billion individual trees grow in the Amazon, representing 16,000 species. Scientists estimate 10% of all species on Earth live here - including 2.5 million insect species, 40,000 plant species, and 3,000 fish species. New species are discovered regularly. Many will go extinct before being catalogued."
       },
       {
@@ -95,24 +95,24 @@
   "locationWikipediaPath": "6/x/m/q/amazon-rainforest-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "bogota-wk",
-      "title": "Bogota",
-      "tile": "d2g6",
+      "id": "auyan-tepui-wp",
+      "title": "Auyan-tepui",
+      "tile": "d959",
       "coordinates": {
-        "lat": 4.711,
-        "lng": -74.0721
+        "lat": 5.9008721,
+        "lng": -62.5499729
       },
-      "distanceKm": 1727.4
+      "distanceKm": 996.1
     },
     "n": {
-      "id": "mt-pelee-wk",
-      "title": "The Eruption of Mount Pelée: 30,000 Dead in Two Minutes",
-      "tile": "dds7",
+      "id": "angel-falls-wp",
+      "title": "Angel Falls",
+      "tile": "d959",
       "coordinates": {
-        "lat": 14.7402,
-        "lng": -61.1779
+        "lat": 5.970055555555556,
+        "lng": -62.53622222222222
       },
-      "distanceKm": 1956.5
+      "distanceKm": 1018.2
     },
     "ne": {
       "id": "amazon-tall-tower-observatory-wp",
@@ -125,54 +125,54 @@
       "distanceKm": 87.5
     },
     "w": {
-      "id": "machu-picchu-discovery-wk",
-      "title": "Machu Picchu: The 'Lost City' That Was Never Really Lost",
-      "tile": "6msm",
+      "id": "purus-madeira-moist-forests-wp",
+      "title": "Purus-Madeira Moist Forests",
+      "tile": "6wgx",
       "coordinates": {
-        "lat": -13.1631,
-        "lng": -72.5449
+        "lat": -5.724,
+        "lng": -62.472
       },
-      "distanceKm": 1737.9
+      "distanceKm": 368.8
     },
     "e": {
-      "id": "sao-paulo-wk",
-      "title": "Sao Paulo",
-      "tile": "6gyf",
+      "id": "acari-national-park-wp",
+      "title": "Acari National Park",
+      "tile": "6wvu",
       "coordinates": {
-        "lat": -23.5505,
-        "lng": -46.6333
+        "lat": -6.305,
+        "lng": -59.293
       },
-      "distanceKm": 2659.2
+      "distanceKm": 359.3
     },
     "sw": {
-      "id": "cusco-wk",
-      "title": "Cusco",
-      "tile": "6msg",
+      "id": "manicore-wp",
+      "title": "Manicore",
+      "tile": "6wuq",
       "coordinates": {
-        "lat": -13.5319,
-        "lng": -71.9675
+        "lat": -5.8088888888889,
+        "lng": -61.3
       },
-      "distanceKm": 1696.9
+      "distanceKm": 289.6
     },
     "s": {
-      "id": "machu-picchu-wk",
-      "title": "Machu Picchu",
-      "tile": "6msm",
+      "id": "juma-sustainable-development-reserve-wp",
+      "title": "Juma Sustainable Development Reserve",
+      "tile": "6wvj",
       "coordinates": {
-        "lat": -13.163056,
-        "lng": -72.545556
+        "lat": -5.978,
+        "lng": -60.356
       },
-      "distanceKm": 1764
+      "distanceKm": 296.9
     },
     "se": {
-      "id": "iguazu-falls-wk",
-      "title": "Iguazu Falls",
-      "tile": "6g3m",
+      "id": "alto-maues-ecological-station-wp",
+      "title": "Alto Maues Ecological Station",
+      "tile": "6wyx",
       "coordinates": {
-        "lat": -25.695,
-        "lng": -54.436
+        "lat": -5.662,
+        "lng": -58.141
       },
-      "distanceKm": 2542
+      "distanceKm": 294.3
     }
   },
   "keywords": [

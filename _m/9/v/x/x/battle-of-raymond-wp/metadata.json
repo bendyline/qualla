@@ -30,8 +30,8 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-raymond-wp",
     "sourceGeohash4": "9vxx",
-    "smallPath": "_m/9/v/x/x/battle-of-raymond-wp/hero-small.jpg",
-    "mediumPath": "_m/9/v/x/x/battle-of-raymond-wp/hero-medium.jpg"
+    "smallPath": "_m/9/v/x/x/battle-of-raymond-wp/hero-small.webp",
+    "mediumPath": "_m/9/v/x/x/battle-of-raymond-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Battle of Raymond, Natchez Trace Parkway, Raymond, Mississippi.jpg",
@@ -88,7 +88,7 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-raymond-wp",
       "sourceGeohash4": "9vxx",
-      "smallPath": "_m/9/v/x/x/battle-of-raymond-wp/map-battlefield-core-s-small.jpg"
+      "smallPath": "_m/9/v/x/x/battle-of-raymond-wp/map-battlefield-core-s-small.webp"
     },
     {
       "filename": "James Birdseye McPherson c. 1862 by Barr & Young.jpg",
@@ -125,8 +125,8 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-raymond-wp",
       "sourceGeohash4": "9vxx",
-      "smallPath": "_m/9/v/x/x/battle-of-raymond-wp/james-birdseye-mcphers-small.jpg",
-      "mediumPath": "_m/9/v/x/x/battle-of-raymond-wp/james-birdseye-mcphers-medium.jpg"
+      "smallPath": "_m/9/v/x/x/battle-of-raymond-wp/james-birdseye-mcphers-small.webp",
+      "mediumPath": "_m/9/v/x/x/battle-of-raymond-wp/james-birdseye-mcphers-medium.webp"
     },
     {
       "filename": "Battle of Raymond.jpg",
@@ -152,7 +152,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-raymond-wp",
-      "sourceGeohash4": "9vxx"
+      "sourceGeohash4": "9vxx",
+      "mediumPath": "_m/9/v/x/x/battle-of-raymond-wp/battle-of-raymond-medium.webp",
+      "smallPath": "_m/9/v/x/x/battle-of-raymond-wp/battle-of-raymond-small.webp"
     }
   ],
   "galleryPaths": [
@@ -160,7 +162,6 @@
     "_m/9/v/x/x/battle-of-raymond-wp/james-birdseye-mcphers.jpg",
     "_m/9/v/x/x/battle-of-raymond-wp/battle-of-raymond.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:26:41.784Z",
   "narration": {
     "files": [
       "9vxx-battle-of-raymond-flight-context.mp3",
@@ -180,8 +181,7 @@
       "9vxx-battle-of-raymond-a-battle-that-changed-the-campaign.mp3": 63.052625,
       "9vxx-battle-of-raymond-fourteenmile-creek-today.mp3": 58.4111666
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T12:39:11.392Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T23:26:42.334Z"
 }

@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/q/f/r/donner-lake-wk/9qhv-donner-lake-intro.mp3",
-        "_m/9/q/f/r/donner-lake-wk/9qhv-donner-lake-flight-context.mp3",
-        "_m/9/q/f/r/donner-lake-wk/9qhv-donner-lake-rescue-and-aftermath.mp3",
-        "_m/9/q/f/r/donner-lake-wk/9qhv-donner-lake-the-fatal-shortcut.mp3",
-        "_m/9/q/f/r/donner-lake-wk/9qhv-donner-lake-the-forlorn-hope.mp3",
-        "_m/9/q/f/r/donner-lake-wk/9qhv-donner-lake-trapped.mp3",
-        "_m/9/q/f/r/donner-lake-wk/9qhv-donner-lake-visiting-donner-lake.mp3"
+        "_m/9/q/f/r/donner-lake-wk/9qfr-donner-lake-flight-context.mp3",
+        "_m/9/q/f/r/donner-lake-wk/9qfr-donner-lake-intro.mp3",
+        "_m/9/q/f/r/donner-lake-wk/9qfr-donner-lake-the-fatal-shortcut.mp3",
+        "_m/9/q/f/r/donner-lake-wk/9qfr-donner-lake-trapped.mp3",
+        "_m/9/q/f/r/donner-lake-wk/9qfr-donner-lake-the-forlorn-hope.mp3",
+        "_m/9/q/f/r/donner-lake-wk/9qfr-donner-lake-rescue-and-aftermath.mp3",
+        "_m/9/q/f/r/donner-lake-wk/9qfr-donner-lake-visiting-donner-lake.mp3"
       ],
       "hero": {
         "path": "_m/9/q/f/r/donner-lake-wk/hero.jpg",
@@ -26,8 +26,8 @@
         "sourceArticleId": "donner-lake-wk",
         "sourceGeohash4": "9qfr",
         "accessedAt": "2026-02-21T21:10:26.000Z",
-        "mediumPath": "_m/9/q/f/r/donner-lake-wk/hero-medium.jpg",
-        "smallPath": "_m/9/q/f/r/donner-lake-wk/hero-small.jpg"
+        "mediumPath": "_m/9/q/f/r/donner-lake-wk/hero-medium.webp",
+        "smallPath": "_m/9/q/f/r/donner-lake-wk/hero-small.webp"
       },
       "images": [
         {
@@ -52,7 +52,7 @@
             "Photographs taken on 2004-02-13",
             "Theodore Judah"
           ],
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/lewis-m-clement-left-t-small.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/lewis-m-clement-left-t-small.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/hero.png",
@@ -123,8 +123,8 @@
           "sourceArticleId": "donner-lake-wk",
           "sourceGeohash4": "9qfr",
           "accessedAt": "2026-02-21T21:10:26.000Z",
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/sign-donner-summit-int-small.jpg",
-          "mediumPath": "_m/9/q/f/r/donner-lake-wk/sign-donner-summit-int-medium.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/sign-donner-summit-int-small.webp",
+          "mediumPath": "_m/9/q/f/r/donner-lake-wk/sign-donner-summit-int-medium.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/donner-summit-panorama.jpg",
@@ -141,8 +141,8 @@
           "sourceArticleId": "donner-lake-wk",
           "sourceGeohash4": "9qfr",
           "accessedAt": "2026-02-21T21:10:26.000Z",
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/donner-summit-panorama-small.jpg",
-          "mediumPath": "_m/9/q/f/r/donner-lake-wk/donner-summit-panorama-medium.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/donner-summit-panorama-small.webp",
+          "mediumPath": "_m/9/q/f/r/donner-lake-wk/donner-summit-panorama-medium.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/lincoln-highway-donner-pass.jpg",
@@ -166,8 +166,8 @@
             "Scanned with Kodak Picture Kiosk G4",
             "Snow in Nevada County, California"
           ],
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/lincoln-highway-donner-pass-small.jpg",
-          "mediumPath": "_m/9/q/f/r/donner-lake-wk/lincoln-highway-donner-pass-medium.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/lincoln-highway-donner-pass-small.webp",
+          "mediumPath": "_m/9/q/f/r/donner-lake-wk/lincoln-highway-donner-pass-medium.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/donner-pass-kingp052.jpg",
@@ -192,7 +192,7 @@
             "Media lacking author information",
             "PD USGS"
           ],
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/donner-pass-kingp052-small.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/donner-pass-kingp052-small.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/forest-fire-in-foothills-of-th.jpg",
@@ -225,8 +225,8 @@
             "Wildfires in Nevada County, California",
             "Wildfires in the 1930s"
           ],
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/forest-fire-in-foothills-of-th-small.jpg",
-          "mediumPath": "_m/9/q/f/r/donner-lake-wk/forest-fire-in-foothills-of-th-medium.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/forest-fire-in-foothills-of-th-small.webp",
+          "mediumPath": "_m/9/q/f/r/donner-lake-wk/forest-fire-in-foothills-of-th-medium.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/amtk-505-snow-train-feb-12-200.jpg",
@@ -260,7 +260,7 @@
             "Trains in snow in Nevada County, California",
             "Travelling teddy bears"
           ],
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/amtk-505-snow-train-feb-12-200-small.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/amtk-505-snow-train-feb-12-200-small.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/sp-8909-feb-1973-prs-special-f.jpg",
@@ -281,7 +281,7 @@
             "CC-BY-2.0",
             "Charter trains of the United States in 1973"
           ],
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/sp-8909-feb-1973-prs-special-f-small.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/sp-8909-feb-1973-prs-special-f-small.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/march-1-053xrp-flickr-drewj194.jpg",
@@ -298,7 +298,7 @@
           "sourceArticleId": "donner-lake-wk",
           "sourceGeohash4": "9qfr",
           "accessedAt": "2026-02-21T21:10:26.000Z",
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/march-1-053xrp-flickr-drewj194-small.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/march-1-053xrp-flickr-drewj194-small.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/sp-7348-wb-near-hirschdale-nov.jpg",
@@ -315,7 +315,7 @@
           "sourceArticleId": "donner-lake-wk",
           "sourceGeohash4": "9qfr",
           "accessedAt": "2026-02-21T21:10:26.000Z",
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/sp-7348-wb-near-hirschdale-nov-small.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/sp-7348-wb-near-hirschdale-nov-small.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/8903-yuba-gap-feb-73-flickr-dr.jpg",
@@ -332,7 +332,7 @@
           "sourceArticleId": "donner-lake-wk",
           "sourceGeohash4": "9qfr",
           "accessedAt": "2026-02-21T21:10:26.000Z",
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/8903-yuba-gap-feb-73-flickr-dr-small.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/8903-yuba-gap-feb-73-flickr-dr-small.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/amtk-326-eastnordenfeb74-flick.jpg",
@@ -349,7 +349,7 @@
           "sourceArticleId": "donner-lake-wk",
           "sourceGeohash4": "9qfr",
           "accessedAt": "2026-02-21T21:10:26.000Z",
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/amtk-326-eastnordenfeb74-flick-small.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/amtk-326-eastnordenfeb74-flick-small.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/cprr-grade-at-donner-pass-usgs.jpg",
@@ -366,7 +366,7 @@
           "sourceArticleId": "donner-lake-wk",
           "sourceGeohash4": "9qfr",
           "accessedAt": "2026-02-21T21:10:26.000Z",
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/cprr-grade-at-donner-pass-usgs-small.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/cprr-grade-at-donner-pass-usgs-small.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/donner-pass-flickr-joe-parks.jpg",
@@ -383,8 +383,8 @@
           "sourceArticleId": "donner-lake-wk",
           "sourceGeohash4": "9qfr",
           "accessedAt": "2026-02-21T21:10:26.000Z",
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/donner-pass-flickr-joe-parks-small.jpg",
-          "mediumPath": "_m/9/q/f/r/donner-lake-wk/donner-pass-flickr-joe-parks-medium.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/donner-pass-flickr-joe-parks-small.webp",
+          "mediumPath": "_m/9/q/f/r/donner-lake-wk/donner-pass-flickr-joe-parks-medium.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/donner-pass.jpg",
@@ -401,8 +401,8 @@
           "sourceArticleId": "donner-lake-wk",
           "sourceGeohash4": "9qfr",
           "accessedAt": "2026-02-21T21:10:26.000Z",
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/donner-pass-small.jpg",
-          "mediumPath": "_m/9/q/f/r/donner-lake-wk/donner-pass-medium.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/donner-pass-small.webp",
+          "mediumPath": "_m/9/q/f/r/donner-lake-wk/donner-pass-medium.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/donner-pass-12136346995.jpg",
@@ -419,8 +419,8 @@
           "sourceArticleId": "donner-lake-wk",
           "sourceGeohash4": "9qfr",
           "accessedAt": "2026-02-21T21:10:26.000Z",
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/donner-pass-12136346995-small.jpg",
-          "mediumPath": "_m/9/q/f/r/donner-lake-wk/donner-pass-12136346995-medium.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/donner-pass-12136346995-small.webp",
+          "mediumPath": "_m/9/q/f/r/donner-lake-wk/donner-pass-12136346995-medium.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/donner-pass-12136600443.jpg",
@@ -437,8 +437,8 @@
           "sourceArticleId": "donner-lake-wk",
           "sourceGeohash4": "9qfr",
           "accessedAt": "2026-02-21T21:10:26.000Z",
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/donner-pass-12136600443-small.jpg",
-          "mediumPath": "_m/9/q/f/r/donner-lake-wk/donner-pass-12136600443-medium.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/donner-pass-12136600443-small.webp",
+          "mediumPath": "_m/9/q/f/r/donner-lake-wk/donner-pass-12136600443-medium.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/riding-freight-over-donner-pas.jpg",
@@ -455,7 +455,7 @@
           "sourceArticleId": "donner-lake-wk",
           "sourceGeohash4": "9qfr",
           "accessedAt": "2026-02-21T21:10:26.000Z",
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/riding-freight-over-donner-pas-small.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/riding-freight-over-donner-pas-small.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/in-the-hole-on-donner-33496099.jpg",
@@ -472,7 +472,7 @@
           "sourceArticleId": "donner-lake-wk",
           "sourceGeohash4": "9qfr",
           "accessedAt": "2026-02-21T21:10:26.000Z",
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/in-the-hole-on-donner-33496099-small.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/in-the-hole-on-donner-33496099-small.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/composite-illustration.jpg",
@@ -488,7 +488,8 @@
           "sourceType": "commons-category",
           "sourceArticleId": "first-transcontinental-railroad-wp",
           "sourceGeohash4": "9qfr",
-          "accessedAt": "2026-02-21T21:10:26.000Z"
+          "accessedAt": "2026-02-21T21:10:26.000Z",
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/composite-illustration-small.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/sp-8499-wb-at-troy-tunnel-jan-.jpg",
@@ -505,8 +506,8 @@
           "sourceArticleId": "donner-lake-wk",
           "sourceGeohash4": "9qfr",
           "accessedAt": "2026-02-21T21:10:26.000Z",
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/sp-8499-wb-at-troy-tunnel-jan--small.jpg",
-          "mediumPath": "_m/9/q/f/r/donner-lake-wk/sp-8499-wb-at-troy-tunnel-jan--medium.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/sp-8499-wb-at-troy-tunnel-jan--small.webp",
+          "mediumPath": "_m/9/q/f/r/donner-lake-wk/sp-8499-wb-at-troy-tunnel-jan--medium.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/amtk-621-blue-canonmar75-16198.jpg",
@@ -523,8 +524,8 @@
           "sourceArticleId": "donner-lake-wk",
           "sourceGeohash4": "9qfr",
           "accessedAt": "2026-02-21T21:10:26.000Z",
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/amtk-621-blue-canonmar75-16198-small.jpg",
-          "mediumPath": "_m/9/q/f/r/donner-lake-wk/amtk-621-blue-canonmar75-16198-medium.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/amtk-621-blue-canonmar75-16198-small.webp",
+          "mediumPath": "_m/9/q/f/r/donner-lake-wk/amtk-621-blue-canonmar75-16198-medium.webp"
         },
         {
           "path": "_m/9/q/f/r/donner-lake-wk/amtk-111-wb-march-1976-at-89oc.jpg",
@@ -541,10 +542,11 @@
           "sourceArticleId": "donner-lake-wk",
           "sourceGeohash4": "9qfr",
           "accessedAt": "2026-02-21T21:10:26.000Z",
-          "smallPath": "_m/9/q/f/r/donner-lake-wk/amtk-111-wb-march-1976-at-89oc-small.jpg",
-          "mediumPath": "_m/9/q/f/r/donner-lake-wk/amtk-111-wb-march-1976-at-89oc-medium.jpg"
+          "smallPath": "_m/9/q/f/r/donner-lake-wk/amtk-111-wb-march-1976-at-89oc-small.webp",
+          "mediumPath": "_m/9/q/f/r/donner-lake-wk/amtk-111-wb-march-1976-at-89oc-medium.webp"
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/q/f/r/donner-lake-wk/9qfr-donner-lake-combined.mp3"
     }
   }
 }

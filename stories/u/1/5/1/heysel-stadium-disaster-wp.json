@@ -143,37 +143,38 @@
       "distanceKm": 53.2
     },
     "sw": {
-      "id": "paris-wk",
-      "title": "Paris",
-      "tile": "u09t",
+      "id": "courrieres-mine-disaster-wp",
+      "title": "Courrieres Mine Disaster",
+      "tile": "u0fn",
       "coordinates": {
-        "lat": 48.856,
-        "lng": 2.351
+        "lat": 50.41556,
+        "lng": 2.89778
       },
-      "distanceKm": 224.9
+      "distanceKm": 72.4
     },
     "s": {
-      "id": "notre-dame-wk",
-      "title": "Notre-Dame: The Cathedral That Burned and Rose Again",
-      "tile": "u09t",
+      "id": "marcinelle-mining-disaster-wp",
+      "title": "Marcinelle Mining Disaster",
+      "tile": "u0gn",
       "coordinates": {
-        "lat": 48.853,
-        "lng": 2.3499
+        "lat": 50.380556,
+        "lng": 4.442778
       },
-      "distanceKm": 245.8
+      "distanceKm": 27.4
     },
     "se": {
-      "id": "alsace-wk",
-      "title": "Alsace",
-      "tile": "u0t7",
+      "id": "fort-jeanne-d-arc-wp",
+      "title": "Fort Jeanne d'Arc",
+      "tile": "u0sr",
       "coordinates": {
-        "lat": 48.5,
-        "lng": 7.5
+        "lat": 49.1168,
+        "lng": 6.06701
       },
-      "distanceKm": 300.6
+      "distanceKm": 186.7
     }
   },
   "keywords": [
     "heysel-stadium-disaster"
-  ]
+  ],
+  "locationWikipediaPath": "u/1/5/1/heysel-stadium-disaster-wp"
 }

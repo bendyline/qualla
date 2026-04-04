@@ -88,24 +88,24 @@
   ],
   "directionalNeighbors": {
     "nw": {
-      "id": "alert-bay-wk",
-      "title": "Alert Bay",
-      "tile": "c0vx",
+      "id": "johnstone-strait-wp",
+      "title": "Johnstone Strait",
+      "tile": "c0yp",
       "coordinates": {
-        "lat": 50.5856,
-        "lng": -126.9319
+        "lat": 50.46944444444444,
+        "lng": -126.22305555555556
       },
-      "distanceKm": 250.3
+      "distanceKm": 200
     },
     "n": {
-      "id": "athabasca-falls-wk",
-      "title": "Athabasca Falls",
-      "tile": "c3k5",
+      "id": "robson-bight-wp",
+      "title": "Robson Bight",
+      "tile": "c0vz",
       "coordinates": {
-        "lat": 52.66,
-        "lng": -117.88
+        "lat": 50.48333333,
+        "lng": -126.5833333
       },
-      "distanceKm": 423.5
+      "distanceKm": 262.7
     },
     "ne": {
       "id": "rogers-pass-avalanche-wk",
@@ -118,14 +118,14 @@
       "distanceKm": 351.4
     },
     "w": {
-      "id": "galiano-island-wk",
-      "title": "Galiano Island",
-      "tile": "c28n",
+      "id": "chatterbox-falls-wp",
+      "title": "Chatterbox Falls",
+      "tile": "c0zv",
       "coordinates": {
-        "lat": 48.9167,
-        "lng": -123.4167
+        "lat": 50.206111,
+        "lng": -123.770556
       },
-      "distanceKm": 141.1
+      "distanceKm": 26.6
     },
     "e": {
       "id": "sumas-wk",
@@ -138,14 +138,14 @@
       "distanceKm": 132.3
     },
     "sw": {
-      "id": "nanaimo-bathtub-race-wk",
-      "title": "The Nanaimo Bathtub Race: When a City Got Weird",
-      "tile": "c0xz",
+      "id": "skookumchuck-narrows-wp",
+      "title": "Skookumchuck Narrows",
+      "tile": "c0zg",
       "coordinates": {
-        "lat": 49.17,
-        "lng": -123.94
+        "lat": 49.755555555556,
+        "lng": -123.92222222222
       },
-      "distanceKm": 92.3
+      "distanceKm": 41.9
     },
     "s": {
       "id": "garibaldi-provincial-park-wk",

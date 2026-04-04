@@ -3,12 +3,12 @@
   "patch": {
     "media": {
       "narration": [
+        "_m/c/2/0/f/portland-oregon-wk/c20f-portland-oregon-flight-context.mp3",
         "_m/c/2/0/f/portland-oregon-wk/c20f-portland-oregon-intro.mp3",
         "_m/c/2/0/f/portland-oregon-wk/c20f-portland-oregon-bridges-and-rivers.mp3",
-        "_m/c/2/0/f/portland-oregon-wk/c20f-portland-oregon-craft-beer-capital.mp3",
-        "_m/c/2/0/f/portland-oregon-wk/c20f-portland-oregon-flight-context.mp3",
         "_m/c/2/0/f/portland-oregon-wk/c20f-portland-oregon-forest-in-the-city.mp3",
         "_m/c/2/0/f/portland-oregon-wk/c20f-portland-oregon-the-food-cart-kingdom.mp3",
+        "_m/c/2/0/f/portland-oregon-wk/c20f-portland-oregon-craft-beer-capital.mp3",
         "_m/c/2/0/f/portland-oregon-wk/c20f-portland-oregon-the-mountain-views.mp3"
       ],
       "hero": {
@@ -40,7 +40,9 @@
           "License migration redundant",
           "Mount Hood from Portland, Oregon",
           "Mount St. Helens from Portland, Oregon"
-        ]
+        ],
+        "mediumPath": "_m/c/2/0/f/portland-oregon-wk/hero-medium.webp",
+        "smallPath": "_m/c/2/0/f/portland-oregon-wk/hero-small.webp"
       },
       "images": [
         {
@@ -1146,7 +1148,8 @@
             "aerialBonus": 30
           }
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/0/f/portland-oregon-wk/c20f-portland-oregon-combined.mp3"
     }
   }
 }

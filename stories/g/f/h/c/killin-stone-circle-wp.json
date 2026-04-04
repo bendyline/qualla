@@ -1,0 +1,156 @@
+{
+  "id": "killin-stone-circle-wp",
+  "source": "wikipedia",
+  "sourceId": "47519272",
+  "title": "Killin Stone Circle",
+  "slug": "killin-stone-circle",
+  "summary": "Six dark grey schist slabs standing in a flattened circle near Loch Tay, their cupmarks hinting at rituals that predate every clan, every kingdom, and every written word in Scotland.",
+  "content": {
+    "intro": "On the top of the northernmost stone, three small hollows have been ground into the surface. They are cupmarks -- shallow depressions carved by human hands so long ago that nobody knows what they meant, who made them, or what ceremonies they accompanied. The six stones of Killin Stone Circle stand in a pasture field at the western end of Loch Tay, half a mile east of Killin village, and they have stood there for at least four thousand years. Everything else in the landscape -- the village, the roads, the Gaelic language itself -- arrived after them.",
+    "sections": [
+      {
+        "title": "Six Stones in a Field",
+        "body": "The circle consists of six upright slabs of dark grey schist, ranging from 1.4 to 1.9 meters in height. They form a flattened circle approximately ten meters in diameter, with the two tallest stones standing side by side in the southwest quadrant. The arrangement is one of the more westerly examples of a large group of six-stone circles found across central Scotland -- a regional tradition whose purpose remains debated. Were they astronomical markers, ritual enclosures, or gathering places for communities whose other structures have vanished? The stones give no definitive answer. Their good condition may owe something to their location in the grounds of Kinnell House, which likely protected them from agricultural clearance, and it is possible the circle was 'restored' during the eighteenth or nineteenth century -- righted and reset by antiquarians who may not have known the original positions."
+      },
+      {
+        "title": "What the Cupmarks Remember",
+        "body": "Cup-and-ring marks are found across Atlantic Europe, from Portugal to Orkney, and they span a period from the Neolithic through the Bronze Age. The three cupmarks on the northernmost stone at Killin connect this modest circle to a continent-wide tradition of marking stone with meaning. Whether the marks were practical -- pouring points for liquid offerings, perhaps -- or symbolic remains unknown. The circle is a scheduled monument, protected by law from disturbance or development. It sits against the backdrop of Loch Tay stretching away to the east, with mountains rising on both sides of the glen. The landscape has changed less than one might think since the stones were raised: the loch is the same loch, the hills the same hills. Only the meaning has been lost, and the cupmarks remain as evidence that someone, once, thought this ground was worth consecrating."
+      }
+    ],
+    "flightContext": "Killin Stone Circle at 56.4658N, 4.3112W is located in a pasture field near Kinnell House, at the western end of Loch Tay. The circle is small (approximately 10 m diameter) and unlikely to be visible from altitude, but Loch Tay stretching east and Killin village provide strong orientation. Best viewed at 1,500-2,500 ft. Nearest airport: Dundee (EGPN) approximately 40 nm east-southeast."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 56.465829,
+      "lng": -4.311244
+    },
+    "geohash": "gfhcj"
+  },
+  "categories": [
+    "Archaeological sites in Stirling (council area)",
+    "Stone circles in Stirling (council area)",
+    "Scheduled monuments in Stirling"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 420,
+    "readTime": 3,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 9819
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - Killin Stone Circle",
+      "url": "https://en.wikipedia.org/wiki/Killin_Stone_Circle",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Six upright slabs of dark grey schist",
+        "Circle diameter approximately 10 meters",
+        "Stone heights 1.4 to 1.9 meters",
+        "Two tallest stones in southwest quadrant",
+        "Three cupmarks on northernmost stone",
+        "Located in pasture field at western end of Loch Tay near Kinnell House",
+        "Scheduled monument"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Trove.scot - Kinnell Park Stone Circle scheduled monument",
+      "url": "https://www.trove.scot/designation/SM1557",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Scheduled monument designation confirmed",
+        "Later Neolithic or Bronze Age date",
+        "Location in grounds of Kinnell House confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "g/f/h/c/killin-stone-circle-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "ben-nevis-wp",
+      "title": "Ben Nevis",
+      "tile": "gfh7",
+      "coordinates": {
+        "lat": 56.796891,
+        "lng": -5.003675
+      },
+      "distanceKm": 5.4
+    },
+    "n": {
+      "id": "ben-alder-wp",
+      "title": "Ben Alder",
+      "tile": "gfhg",
+      "coordinates": {
+        "lat": 56.813796,
+        "lng": -4.465089
+      },
+      "distanceKm": 5.9
+    },
+    "ne": {
+      "id": "cairngorms-national-park-wp",
+      "title": "Cairngorms National Park",
+      "tile": "gfjk",
+      "coordinates": {
+        "lat": 57.05,
+        "lng": -3.65
+      },
+      "distanceKm": 33.1
+    },
+    "w": {
+      "id": "kilchurn-castle-wp",
+      "title": "Kilchurn Castle",
+      "tile": "gfh2",
+      "coordinates": {
+        "lat": 56.4037,
+        "lng": -5.0274
+      },
+      "distanceKm": 13.8
+    },
+    "e": {
+      "id": "dunkeld-cathedral-wp",
+      "title": "Dunkeld Cathedral",
+      "tile": "gfj3",
+      "coordinates": {
+        "lat": 56.5651297537611,
+        "lng": -3.58991548392966
+      },
+      "distanceKm": 17.9
+    },
+    "sw": {
+      "id": "brodick-castle-wp",
+      "title": "Brodick Castle",
+      "tile": "gcuk",
+      "coordinates": {
+        "lat": 55.5926488410534,
+        "lng": -5.14881804057512
+      },
+      "distanceKm": 74.4
+    },
+    "s": {
+      "id": "dunblane-massacre-wp",
+      "title": "Dunblane Massacre",
+      "tile": "gcvp",
+      "coordinates": {
+        "lat": 56.189,
+        "lng": -3.9743
+      },
+      "distanceKm": 26.9
+    },
+    "se": {
+      "id": "culross-abbey-wp",
+      "title": "Culross Abbey",
+      "tile": "gcvq",
+      "coordinates": {
+        "lat": 56.05834,
+        "lng": -3.62535
+      },
+      "distanceKm": 26
+    }
+  }
+}

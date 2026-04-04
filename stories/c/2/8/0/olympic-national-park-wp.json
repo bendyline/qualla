@@ -74,14 +74,14 @@
   "locationWikipediaPath": "c/0/r/z/olympic-national-park-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "vancouver-island-wk",
-      "title": "Vancouver Island",
-      "tile": "c0yc",
+      "id": "kolponomos-wp",
+      "title": "Kolponomos",
+      "tile": "c0xd",
       "coordinates": {
-        "lat": 49.5,
-        "lng": -125.5
+        "lat": 48.3,
+        "lng": -124.2
       },
-      "distanceKm": 180.4
+      "distanceKm": 16.8
     },
     "n": {
       "id": "victoria-city-wk",
@@ -94,54 +94,54 @@
       "distanceKm": 33.2
     },
     "ne": {
-      "id": "lopez-island-wk",
-      "title": "Lopez Island",
-      "tile": "c28e",
+      "id": "smith-island-washington-wp",
+      "title": "Smith Island (Washington)",
+      "tile": "c28d",
       "coordinates": {
-        "lat": 48.4789,
-        "lng": -122.8919
+        "lat": 48.318988,
+        "lng": -122.8418419
       },
-      "distanceKm": 36.8
+      "distanceKm": 23
     },
     "w": {
-      "id": "alert-bay-wk",
-      "title": "Alert Bay",
-      "tile": "c0vx",
+      "id": "forks-washington-wp",
+      "title": "Forks, Washington",
+      "tile": "c0x8",
       "coordinates": {
-        "lat": 50.5856,
-        "lng": -126.9319
+        "lat": 47.9511,
+        "lng": -124.385
       },
-      "distanceKm": 362.4
+      "distanceKm": 21.9
     },
     "e": {
-      "id": "port-townsend-wk",
-      "title": "Port Townsend",
-      "tile": "c289",
+      "id": "marrowstone-washington-wp",
+      "title": "Marrowstone, Washington",
+      "tile": "c28c",
       "coordinates": {
-        "lat": 48.117,
-        "lng": -122.76
+        "lat": 48.05806,
+        "lng": -122.68778
       },
-      "distanceKm": 32.2
+      "distanceKm": 32
     },
     "sw": {
-      "id": "kalaupapa-national-historical-park-wk",
-      "title": "Kalaupapa National Historical Park",
-      "tile": "8eb2",
+      "id": "kalaloch-washington-wp",
+      "title": "Kalaloch",
+      "tile": "c0rw",
       "coordinates": {
-        "lat": 21.1778,
-        "lng": -156.96
+        "lat": 47.6044,
+        "lng": -124.371
       },
-      "distanceKm": 4155.4
+      "distanceKm": 20.5
     },
     "s": {
-      "id": "blake-island-wk",
-      "title": "Blake Island",
-      "tile": "c22y",
+      "id": "quinault-rain-forest-wp",
+      "title": "Quinault Rain Forest",
+      "tile": "c0ry",
       "coordinates": {
-        "lat": 47.5386,
-        "lng": -122.4928
+        "lat": 47.5051,
+        "lng": -123.821
       },
-      "distanceKm": 81.8
+      "distanceKm": 23.6
     },
     "se": {
       "id": "bremerton-wk",

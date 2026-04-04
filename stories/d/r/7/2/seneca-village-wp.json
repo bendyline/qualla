@@ -114,14 +114,14 @@
       "distanceKm": 49.9
     },
     "w": {
-      "id": "george-washington-s-crossing-of-the-delaware-river-wp",
-      "title": "George Washington's Crossing of the Delaware River",
-      "tile": "dr4v",
+      "id": "william-hillcourt-wp",
+      "title": "William Hillcourt",
+      "tile": "dr4z",
       "coordinates": {
-        "lat": 40.3,
-        "lng": -74.87333333333332
+        "lat": 40.7755,
+        "lng": -74.6024
       },
-      "distanceKm": 69.6
+      "distanceKm": 12
     },
     "e": {
       "id": "wardenclyffe-tower-wp",
@@ -163,5 +163,7 @@
       },
       "distanceKm": 621.3
     }
-  }
+  },
+  "locationWikipediaPath": "d/r/7/2/central-park-west-historic-district-wp",
+  "locationWikivoyagePath": "d/r/7/2/manhattan-central-park-wk"
 }

@@ -77,44 +77,44 @@
   "locationWikivoyagePath": "e/y/e/s/seville-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "lisbon-wk",
-      "title": "Lisbon",
-      "tile": "eycs",
+      "id": "castle-of-mertola-wp",
+      "title": "Castle of Mertola",
+      "tile": "eydw",
       "coordinates": {
-        "lat": 38.7223,
-        "lng": -9.1393
+        "lat": 37.63805556,
+        "lng": -7.66444444
       },
-      "distanceKm": 247.6
+      "distanceKm": 86.8
     },
     "n": {
-      "id": "fatima-miracle-wk",
-      "title": "The Miracle of the Sun: When 70,000 People Saw the Sky Dance",
-      "tile": "ez1c",
+      "id": "riotinto-mining-museum-wp",
+      "title": "Riotinto Mining Museum",
+      "tile": "eyeq",
       "coordinates": {
-        "lat": 39.6299,
-        "lng": -8.6742
+        "lat": 37.6931846345,
+        "lng": -6.59662874541
       },
-      "distanceKm": 313.2
+      "distanceKm": 40
     },
     "ne": {
-      "id": "madrid-wk",
-      "title": "Madrid",
-      "tile": "ezjm",
+      "id": "madinat-al-zahra-wp",
+      "title": "Madinat al-Zahra",
+      "tile": "eysx",
       "coordinates": {
-        "lat": 40.4168,
-        "lng": -3.7038
+        "lat": 37.8860804688887,
+        "lng": -4.86778547225732
       },
-      "distanceKm": 352.8
+      "distanceKm": 73
     },
     "w": {
-      "id": "lisbon-earthquake-wk",
-      "title": "The Lisbon Earthquake: The Disaster That Made Philosophers Question God",
-      "tile": "eycs",
+      "id": "1722-algarve-earthquake-wp",
+      "title": "1722 Algarve Earthquake",
+      "tile": "eyde",
       "coordinates": {
-        "lat": 38.7223,
-        "lng": -9.1393
+        "lat": 37.127,
+        "lng": -7.64
       },
-      "distanceKm": 263.7
+      "distanceKm": 88.7
     },
     "e": {
       "id": "seville-province-wk",
@@ -127,34 +127,34 @@
       "distanceKm": 19.7
     },
     "sw": {
-      "id": "casablanca-wk",
-      "title": "Casablanca",
-      "tile": "evfx",
+      "id": "faro-cathedral-wp",
+      "title": "Faro Cathedral",
+      "tile": "eyd6",
       "coordinates": {
-        "lat": 33.5731,
-        "lng": -7.5898
+        "lat": 37.01333333,
+        "lng": -7.93472222
       },
-      "distanceKm": 399.7
+      "distanceKm": 111.7
     },
     "s": {
-      "id": "tangier-wk",
-      "title": "Tangier",
-      "tile": "ey7g",
+      "id": "battle-of-guadalete-wp",
+      "title": "Battle of Guadalete",
+      "tile": "eye8",
       "coordinates": {
-        "lat": 35.7673,
-        "lng": -5.7998
+        "lat": 36.6,
+        "lng": -6.21667
       },
-      "distanceKm": 150.4
+      "distanceKm": 54.8
     },
     "se": {
-      "id": "chefchaouen-wk",
-      "title": "Chefchaouen",
-      "tile": "eyk2",
+      "id": "plaza-de-toros-de-ronda-wp",
+      "title": "Plaza de Toros de Ronda",
+      "tile": "eys3",
       "coordinates": {
-        "lat": 35.1686,
-        "lng": -5.2636
+        "lat": 36.7423672698951,
+        "lng": -5.16706576320705
       },
-      "distanceKm": 216.1
+      "distanceKm": 56.1
     }
   },
   "keywords": [

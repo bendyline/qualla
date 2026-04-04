@@ -26,7 +26,7 @@
           "Wezmeh Cave",
           "Zagros Mountains"
         ],
-        "smallPath": "_m/t/n/1/1/wezmeh-wp/hero-small.jpg"
+        "smallPath": "_m/t/n/1/1/wezmeh-wp/hero-small.webp"
       },
       "images": [
         {
@@ -76,9 +76,19 @@
             "Self-published work",
             "Wezmeh Cave"
           ],
-          "smallPath": "_m/t/n/1/1/wezmeh-wp/wezmeh-cave-kermanshah-iran-small.jpg"
+          "smallPath": "_m/t/n/1/1/wezmeh-wp/wezmeh-cave-kermanshah-iran-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/t/n/1/1/wezmeh-wp/tn11-wezmeh-cave-flight-context.mp3",
+        "_m/t/n/1/1/wezmeh-wp/tn11-wezmeh-cave-intro.mp3",
+        "_m/t/n/1/1/wezmeh-wp/tn11-wezmeh-cave-a-carnivores-larder.mp3",
+        "_m/t/n/1/1/wezmeh-wp/tn11-wezmeh-cave-the-zagros-neanderthal.mp3",
+        "_m/t/n/1/1/wezmeh-wp/tn11-wezmeh-cave-a-neolithic-stranger.mp3",
+        "_m/t/n/1/1/wezmeh-wp/tn11-wezmeh-cave-seventy-thousand-years-of-visitors.mp3",
+        "_m/t/n/1/1/wezmeh-wp/tn11-wezmeh-cave-discovery-and-recognition.mp3"
+      ],
+      "combinedNarration": "_m/t/n/1/1/wezmeh-wp/tn11-wezmeh-combined.mp3"
     }
   }
 }

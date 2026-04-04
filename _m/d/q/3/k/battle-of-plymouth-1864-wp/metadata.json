@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-plymouth-1864-wp",
     "sourceGeohash4": "dq3k",
-    "mediumPath": "_m/d/q/3/k/battle-of-plymouth-1864-wp/hero-medium.jpg",
-    "smallPath": "_m/d/q/3/k/battle-of-plymouth-1864-wp/hero-small.jpg"
+    "mediumPath": "_m/d/q/3/k/battle-of-plymouth-1864-wp/hero-medium.webp",
+    "smallPath": "_m/d/q/3/k/battle-of-plymouth-1864-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Washington south of Fort Williams, Plymouth.jpg",
@@ -92,7 +92,7 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-plymouth-1864-wp",
       "sourceGeohash4": "dq3k",
-      "smallPath": "_m/d/q/3/k/battle-of-plymouth-1864-wp/capture-plymouth-north-small.jpg"
+      "smallPath": "_m/d/q/3/k/battle-of-plymouth-1864-wp/capture-plymouth-north-small.webp"
     },
     {
       "filename": "Plymouth Battlefield North Carolina.jpg",
@@ -117,14 +117,13 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-plymouth-1864-wp",
       "sourceGeohash4": "dq3k",
-      "smallPath": "_m/d/q/3/k/battle-of-plymouth-1864-wp/map-battlefield-core-s-small.jpg"
+      "smallPath": "_m/d/q/3/k/battle-of-plymouth-1864-wp/map-battlefield-core-s-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/d/q/3/k/battle-of-plymouth-1864-wp/capture-plymouth-north.jpg",
     "_m/d/q/3/k/battle-of-plymouth-1864-wp/map-battlefield-core-s.jpg"
   ],
-  "fetchedAt": "2026-02-28T02:51:45.817Z",
   "narration": {
     "files": [
       "dq3k-battle-of-plymouth-1864-flight-context.mp3",
@@ -142,7 +141,6 @@
       "dq3k-battle-of-plymouth-1864-surrender-at-fort-williams.mp3": 45.601375,
       "dq3k-battle-of-plymouth-1864-the-albemarles-reckoning.mp3": 55.1495
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-03-02T09:04:19.140Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

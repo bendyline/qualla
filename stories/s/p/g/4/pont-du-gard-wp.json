@@ -1,0 +1,154 @@
+{
+  "id": "pont-du-gard-wp",
+  "source": "wikipedia",
+  "sourceId": "198030",
+  "title": "Pont du Gard",
+  "slug": "pont-du-gard",
+  "summary": "A three-tiered Roman aqueduct bridge standing nearly 49 meters above the Gardon River, built in the first century AD with a gradient so precise it drops only 34 centimeters per kilometer.",
+  "content": {
+    "intro": "The water that once flowed across the Pont du Gard traveled 50 kilometers from springs near Uzes to the fountains, baths, and homes of Nemausus -- modern Nimes -- and it did so with a gradient of roughly 34 centimeters per kilometer. This is engineering so precise it borders on obsession. The Pont du Gard itself, a three-tiered aqueduct bridge of shelly limestone standing 48.8 meters above the river Gardon, was the most dramatic structure along that route: a solution to the problem of carrying water across a deep river valley without pumps, electricity, or anything more sophisticated than gravity and the geometry of arches.",
+    "sections": [
+      {
+        "title": "Three Tiers of Stone",
+        "body": "Built in the first century AD, the Pont du Gard consists of three levels of arches made from locally quarried shelly limestone, assembled without mortar -- the blocks held in place by their own weight and precision cutting. The lowest tier carries six arches spanning the river. The second tier has eleven arches. The topmost tier, which held the water channel itself, has thirty-five smaller arches. The aqueduct carried an estimated 40,000 cubic meters of water per day to Nemausus, supplying a city that, at its peak, had a population large enough to justify amphitheatres, temples, and elaborate public baths. The precision of the construction permitted such a gentle slope that the water moved slowly and steadily, arriving in Nimes with enough pressure to feed its elaborate distribution system."
+      },
+      {
+        "title": "Decline and Second Life",
+        "body": "The aqueduct may have remained in use as late as the sixth century, though lack of maintenance after the fourth century allowed mineral deposits and debris to clog the channel. After the Roman Empire collapsed and the water stopped flowing, the Pont du Gard found a second career as a toll bridge. For centuries, local lords and bishops maintained it in exchange for the right to levy tolls on travelers crossing the Gardon. Over time, some stone blocks were looted, and the seventeenth century brought serious damage. But the bridge's sheer mass -- the blocks weigh up to six tonnes each -- protected it from the complete dismantlement that claimed so many other Roman structures. By the eighteenth century, the Pont du Gard had begun attracting the attention of engineers and antiquaries who recognized it as something more than a convenient river crossing."
+      },
+      {
+        "title": "Napoleon's Restoration, UNESCO's Recognition",
+        "body": "Napoleon III ordered a major restoration in the mid-nineteenth century, and the bridge became one of France's most celebrated ancient monuments. In 1985, UNESCO inscribed the Pont du Gard as a World Heritage Site, citing its exceptional preservation, historical importance, and architectural ingenuity. The modern visitor center, set back from the bridge to preserve its setting, provides context without intruding on the experience of approaching on foot through the Mediterranean scrubland and suddenly confronting a structure that has stood here for two millennia. The Gardon flows beneath the lowest arches, green and slow in summer, and the limestone glows warm in the Provencal light. Visitors can walk across the second tier, eye-level with the arches that once carried Roman traffic."
+      },
+      {
+        "title": "What Gravity Can Do",
+        "body": "The Pont du Gard is often described as an engineering marvel, and the phrase is deserved but insufficient. What the Romans built here was not merely a bridge or an aqueduct but a statement about the relationship between human ambition and natural forces. The entire 50-kilometer aqueduct from Uzes to Nimes drops only 17 meters in total elevation -- a gradient so shallow it would be invisible to the naked eye across any single section. The builders achieved this without theodolites or laser levels, relying on chorobates (water-level instruments), groma (surveying crosses), and hard-won experience. The bridge's arches are not identical; they were adjusted to the terrain, each span calculated to carry the channel at precisely the right height. Nearly two thousand years later, with the water long gone and the empire long fallen, the engineering still holds. The arches stand because the math was right."
+      }
+    ],
+    "flightContext": "Located at 43.947N, 4.535E over the river Gardon near Vers-Pont-du-Gard. The three-tiered bridge is strikingly visible from the air against the green river valley. Nimes-Ales-Camargue-Cevennes Airport (LFTW) lies 25 km south; Avignon-Caumont (LFMV) is 25 km east. Best viewed from 2,000-4,000 ft AGL approaching from the south."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 43.947,
+      "lng": 4.535
+    },
+    "geohash": "spg4d"
+  },
+  "categories": [
+    "Roman aqueducts in France",
+    "World Heritage Sites in France",
+    "Bridges in Provence",
+    "Ancient Roman engineering"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-13T00:00:00Z",
+    "wordCount": 740,
+    "readTime": 4,
+    "firstPublished": "2026-03-13T00:00:00Z",
+    "storyNumber": 8688
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - Pont du Gard",
+      "url": "https://en.wikipedia.org/wiki/Pont_du_Gard",
+      "accessedAt": "2026-03-14",
+      "claimsVerified": [
+        "Height 48.8m confirmed",
+        "Three tiers: 6, 11, 35 arches confirmed",
+        "Aqueduct 50km from Uzes to Nimes confirmed",
+        "Corrected: gradient from '1cm per 18m' to '34cm per km' (actual average is 34cm/km or 17m drop over 50km)",
+        "UNESCO inscription 1985 confirmed",
+        "Blocks assembled without mortar confirmed",
+        "40,000 cubic meters of water per day confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "s/p/g/4/pont-du-gard-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "abbey-of-la-chaise-dieu-wp",
+      "title": "Abbey of La Chaise-Dieu",
+      "tile": "u049",
+      "coordinates": {
+        "lat": 45.3208,
+        "lng": 3.6961
+      },
+      "distanceKm": 114.7
+    },
+    "n": {
+      "id": "chauvet-cave-wp",
+      "title": "Chauvet Cave",
+      "tile": "spgh",
+      "coordinates": {
+        "lat": 44.3881219,
+        "lng": 4.4161408
+      },
+      "distanceKm": 10.3
+    },
+    "ne": {
+      "id": "saint-michel-de-maurienne-derailment-wp",
+      "title": "Saint-Michel-de-Maurienne Derailment",
+      "tile": "u0h9",
+      "coordinates": {
+        "lat": 45.211084,
+        "lng": 6.486418
+      },
+      "distanceKm": 160
+    },
+    "w": {
+      "id": "abbey-church-of-sainte-foy-wp",
+      "title": "Abbey Church of Sainte-Foy",
+      "tile": "spct",
+      "coordinates": {
+        "lat": 44.599314,
+        "lng": 2.397873
+      },
+      "distanceKm": 132.8
+    },
+    "e": {
+      "id": "senanque-abbey-wp",
+      "title": "Senanque Abbey",
+      "tile": "spg9",
+      "coordinates": {
+        "lat": 43.928333,
+        "lng": 5.186944
+      },
+      "distanceKm": 24.2
+    },
+    "sw": {
+      "id": "carcassonne-and-trebes-attack-wp",
+      "title": "Carcassonne and Trèbes Attack",
+      "tile": "sp9t",
+      "coordinates": {
+        "lat": 43.20397222222223,
+        "lng": 2.3838055555555555
+      },
+      "distanceKm": 135.2
+    },
+    "s": {
+      "id": "arles-amphitheatre-wp",
+      "title": "Arles Amphitheatre",
+      "tile": "spg2",
+      "coordinates": {
+        "lat": 43.677746,
+        "lng": 4.630924
+      },
+      "distanceKm": 21.6
+    },
+    "se": {
+      "id": "marseille-wk",
+      "title": "Marseille",
+      "tile": "spey",
+      "coordinates": {
+        "lat": 43.2965,
+        "lng": 5.3698
+      },
+      "distanceKm": 63.8
+    }
+  }
+}

@@ -26,8 +26,8 @@
           "Taken with Samsung NV7",
           "Victoria Skating Rink"
         ],
-        "mediumPath": "_m/f/2/5/d/victoria-skating-rink-wp/hero-medium.jpg",
-        "smallPath": "_m/f/2/5/d/victoria-skating-rink-wp/hero-small.jpg"
+        "mediumPath": "_m/f/2/5/d/victoria-skating-rink-wp/hero-medium.webp",
+        "smallPath": "_m/f/2/5/d/victoria-skating-rink-wp/hero-small.webp"
       },
       "images": [
         {
@@ -54,8 +54,8 @@
             "Taken with Samsung NV7",
             "Victoria Skating Rink"
           ],
-          "mediumPath": "_m/f/2/5/d/victoria-skating-rink-wp/victoria-skating-rink-medium.jpg",
-          "smallPath": "_m/f/2/5/d/victoria-skating-rink-wp/victoria-skating-rink-small.jpg"
+          "mediumPath": "_m/f/2/5/d/victoria-skating-rink-wp/victoria-skating-rink-medium.webp",
+          "smallPath": "_m/f/2/5/d/victoria-skating-rink-wp/victoria-skating-rink-small.webp"
         },
         {
           "path": "_m/f/2/5/d/victoria-skating-rink-wp/hero.jpg",
@@ -88,7 +88,7 @@
           "sourceArticleId": "victoria-skating-rink-wp",
           "sourceGeohash4": "f25d",
           "accessedAt": "2026-02-28T13:50:10.834Z",
-          "smallPath": "_m/f/2/5/d/victoria-skating-rink-wp/only-known-interior-ph-small.jpg"
+          "smallPath": "_m/f/2/5/d/victoria-skating-rink-wp/only-known-interior-ph-small.webp"
         },
         {
           "path": "_m/f/2/5/d/victoria-skating-rink-wp/victoria-rink-fancy-ball-1865.jpg",
@@ -115,7 +115,7 @@
             "PD Canada",
             "Victoria Skating Rink"
           ],
-          "smallPath": "_m/f/2/5/d/victoria-skating-rink-wp/victoria-rink-fancy-ball-1865-small.jpg"
+          "smallPath": "_m/f/2/5/d/victoria-skating-rink-wp/victoria-rink-fancy-ball-1865-small.webp"
         },
         {
           "path": "_m/f/2/5/d/victoria-skating-rink-wp/skating-tournament-at-the-vict.gif",
@@ -193,10 +193,20 @@
           "sourceArticleId": "victoria-skating-rink-wp",
           "sourceGeohash4": "f25d",
           "accessedAt": "2026-02-28T13:50:10.834Z",
-          "mediumPath": "_m/f/2/5/d/victoria-skating-rink-wp/garage-d-ete-rue-stanley-sur-l-medium.jpg",
-          "smallPath": "_m/f/2/5/d/victoria-skating-rink-wp/garage-d-ete-rue-stanley-sur-l-small.jpg"
+          "mediumPath": "_m/f/2/5/d/victoria-skating-rink-wp/garage-d-ete-rue-stanley-sur-l-medium.webp",
+          "smallPath": "_m/f/2/5/d/victoria-skating-rink-wp/garage-d-ete-rue-stanley-sur-l-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/f/2/5/d/victoria-skating-rink-wp/f25d-victoria-skating-rink-flight-context.mp3",
+        "_m/f/2/5/d/victoria-skating-rink-wp/f25d-victoria-skating-rink-intro.mp3",
+        "_m/f/2/5/d/victoria-skating-rink-wp/f25d-victoria-skating-rink-golden-square-mile-ice-palace.mp3",
+        "_m/f/2/5/d/victoria-skating-rink-wp/f25d-victoria-skating-rink-the-night-hockey-found-its-shape.mp3",
+        "_m/f/2/5/d/victoria-skating-rink-wp/f25d-victoria-skating-rink-from-stanley-cups-to-tesla-lectures.mp3",
+        "_m/f/2/5/d/victoria-skating-rink-wp/f25d-victoria-skating-rink-seasons-of-transformation.mp3",
+        "_m/f/2/5/d/victoria-skating-rink-wp/f25d-victoria-skating-rink-a-parking-garage-where-history-happened.mp3"
+      ],
+      "combinedNarration": "_m/f/2/5/d/victoria-skating-rink-wp/f25d-victoria-skating-rink-combined.mp3"
     }
   }
 }

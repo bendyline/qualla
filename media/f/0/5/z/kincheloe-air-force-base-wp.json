@@ -22,7 +22,7 @@
           "Fort Dix",
           "PD US Air Force"
         ],
-        "smallPath": "_m/f/0/5/z/kincheloe-air-force-base-wp/hero-small.jpg"
+        "smallPath": "_m/f/0/5/z/kincheloe-air-force-base-wp/hero-small.webp"
       },
       "images": [
         {
@@ -92,9 +92,19 @@
             "Convair F-102 Delta Dagger",
             "PD US Air Force"
           ],
-          "smallPath": "_m/f/0/5/z/kincheloe-air-force-base-wp/438th-fighter-intercep-small.jpg"
+          "smallPath": "_m/f/0/5/z/kincheloe-air-force-base-wp/438th-fighter-intercep-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/f/0/5/z/kincheloe-air-force-base-wp/f05z-kincheloe-air-force-base-flight-context.mp3",
+        "_m/f/0/5/z/kincheloe-air-force-base-wp/f05z-kincheloe-air-force-base-intro.mp3",
+        "_m/f/0/5/z/kincheloe-air-force-base-wp/f05z-kincheloe-air-force-base-a-pilots-name-a-nations-edge.mp3",
+        "_m/f/0/5/z/kincheloe-air-force-base-wp/f05z-kincheloe-air-force-base-born-to-guard-the-locks.mp3",
+        "_m/f/0/5/z/kincheloe-air-force-base-wp/f05z-kincheloe-air-force-base-interceptors-over-superior.mp3",
+        "_m/f/0/5/z/kincheloe-air-force-base-wp/f05z-kincheloe-air-force-base-bombers-on-the-alert-pad.mp3",
+        "_m/f/0/5/z/kincheloe-air-force-base-wp/f05z-kincheloe-air-force-base-what-the-base-became.mp3"
+      ],
+      "combinedNarration": "_m/f/0/5/z/kincheloe-air-force-base-wp/f05z-kincheloe-air-force-base-combined.mp3"
     }
   }
 }

@@ -95,7 +95,7 @@
       "sourceType": "core",
       "sourceArticleId": "adur-gushnasp-wp",
       "sourceGeohash4": "tn98",
-      "smallPath": "_m/t/n/9/8/adur-gushnasp-wp/photo-monument-iran-id-small.jpg"
+      "smallPath": "_m/t/n/9/8/adur-gushnasp-wp/photo-monument-iran-id-small.webp"
     },
     {
       "filename": "تخت سلیمان ضلع شمالی آتشکده گرشانسب.jpg",
@@ -124,14 +124,32 @@
       "sourceType": "commons-category",
       "sourceArticleId": "adur-gushnasp-wp",
       "sourceGeohash4": "tn98",
-      "mediumPath": "_m/t/n/9/8/adur-gushnasp-wp/category-1-medium.jpg",
-      "smallPath": "_m/t/n/9/8/adur-gushnasp-wp/category-1-small.jpg"
+      "mediumPath": "_m/t/n/9/8/adur-gushnasp-wp/category-1-medium.webp",
+      "smallPath": "_m/t/n/9/8/adur-gushnasp-wp/category-1-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/t/n/9/8/adur-gushnasp-wp/photo-monument-iran-id.jpg",
     "_m/t/n/9/8/adur-gushnasp-wp/category-1.jpg"
   ],
-  "fetchedAt": "2026-03-01T12:48:51.145Z",
-  "updatedAt": "2026-03-01T12:49:04.737Z"
+  "updatedAt": "2026-03-01T12:49:04.737Z",
+  "narration": {
+    "files": [
+      "tn98-adur-gushnasp-flight-context.mp3",
+      "tn98-adur-gushnasp-intro.mp3",
+      "tn98-adur-gushnasp-the-warriors-flame.mp3",
+      "tn98-adur-gushnasp-kings-and-their-offerings.mp3",
+      "tn98-adur-gushnasp-the-emperors-raid.mp3",
+      "tn98-adur-gushnasp-the-slow-extinguishing.mp3"
+    ],
+    "durations": {
+      "tn98-adur-gushnasp-flight-context.mp3": 60.2065416,
+      "tn98-adur-gushnasp-intro.mp3": 49.5279166,
+      "tn98-adur-gushnasp-the-warriors-flame.mp3": 59.4619166,
+      "tn98-adur-gushnasp-kings-and-their-offerings.mp3": 49.9494166,
+      "tn98-adur-gushnasp-the-emperors-raid.mp3": 63.959625,
+      "tn98-adur-gushnasp-the-slow-extinguishing.mp3": 58.9555416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -30,7 +30,7 @@
       "sourceType": "poi",
       "sourceArticleId": "west-highland-line-wk",
       "sourceGeohash4": "gfh8",
-      "smallPath": "_m/g/f/h/8/west-highland-line-wk/a-glasgow-fort-william-train-c-small.jpg"
+      "smallPath": "_m/g/f/h/8/west-highland-line-wk/a-glasgow-fort-william-train-c-small.webp"
     },
     {
       "filename": "A Scottish Adventure- The Jacobite over Glenfinnan Viaduct.jpg",
@@ -69,8 +69,8 @@
       "sourceType": "poi",
       "sourceArticleId": "west-highland-line-wk",
       "sourceGeohash4": "gfh8",
-      "mediumPath": "_m/g/f/h/8/west-highland-line-wk/a-scottish-adventure-the-jacob-medium.jpg",
-      "smallPath": "_m/g/f/h/8/west-highland-line-wk/a-scottish-adventure-the-jacob-small.jpg"
+      "mediumPath": "_m/g/f/h/8/west-highland-line-wk/a-scottish-adventure-the-jacob-medium.webp",
+      "smallPath": "_m/g/f/h/8/west-highland-line-wk/a-scottish-adventure-the-jacob-small.webp"
     },
     {
       "filename": "Kilchurn Castle (42189487840).jpg",
@@ -94,8 +94,8 @@
       "sourceType": "poi",
       "sourceArticleId": "west-highland-line-wk",
       "sourceGeohash4": "gfh8",
-      "mediumPath": "_m/g/f/h/8/west-highland-line-wk/kilchurn-castle-42189487840-medium.jpg",
-      "smallPath": "_m/g/f/h/8/west-highland-line-wk/kilchurn-castle-42189487840-small.jpg"
+      "mediumPath": "_m/g/f/h/8/west-highland-line-wk/kilchurn-castle-42189487840-medium.webp",
+      "smallPath": "_m/g/f/h/8/west-highland-line-wk/kilchurn-castle-42189487840-small.webp"
     },
     {
       "filename": "Dumbarton Castle 1.jpg",
@@ -120,8 +120,8 @@
       "sourceType": "poi",
       "sourceArticleId": "west-highland-line-wk",
       "sourceGeohash4": "gfh8",
-      "mediumPath": "_m/g/f/h/8/west-highland-line-wk/dumbarton-castle-1-medium.jpg",
-      "smallPath": "_m/g/f/h/8/west-highland-line-wk/dumbarton-castle-1-small.jpg"
+      "mediumPath": "_m/g/f/h/8/west-highland-line-wk/dumbarton-castle-1-medium.webp",
+      "smallPath": "_m/g/f/h/8/west-highland-line-wk/dumbarton-castle-1-small.webp"
     },
     {
       "filename": "Glasgow City Chambers, George Square, Glasgow, 15.jpg",
@@ -146,8 +146,8 @@
       "sourceType": "poi",
       "sourceArticleId": "west-highland-line-wk",
       "sourceGeohash4": "gfh8",
-      "mediumPath": "_m/g/f/h/8/west-highland-line-wk/glasgow-city-chambers-george-s-medium.jpg",
-      "smallPath": "_m/g/f/h/8/west-highland-line-wk/glasgow-city-chambers-george-s-small.jpg"
+      "mediumPath": "_m/g/f/h/8/west-highland-line-wk/glasgow-city-chambers-george-s-medium.webp",
+      "smallPath": "_m/g/f/h/8/west-highland-line-wk/glasgow-city-chambers-george-s-small.webp"
     },
     {
       "filename": "MV Hebridean Isles leaving Oban - geograph.org.uk - 4444283.jpg",
@@ -165,7 +165,7 @@
       "sourceType": "poi",
       "sourceArticleId": "west-highland-line-wk",
       "sourceGeohash4": "gfh8",
-      "smallPath": "_m/g/f/h/8/west-highland-line-wk/mv-hebridean-isles-leaving-oba-small.jpg"
+      "smallPath": "_m/g/f/h/8/west-highland-line-wk/mv-hebridean-isles-leaving-oba-small.webp"
     }
   ],
   "galleryPaths": [
@@ -176,5 +176,22 @@
     "_m/g/f/h/8/west-highland-line-wk/glasgow-city-chambers-george-s.jpg",
     "_m/g/f/h/8/west-highland-line-wk/mv-hebridean-isles-leaving-oba.jpg"
   ],
-  "updatedAt": "2026-02-20T06:33:28.164Z"
+  "updatedAt": "2026-02-20T06:33:28.164Z",
+  "narration": {
+    "files": [
+      "gfh8-west-highland-line-flight-context.mp3",
+      "gfh8-west-highland-line-intro.mp3",
+      "gfh8-west-highland-line-building-through-bog-and-resistance.mp3",
+      "gfh8-west-highland-line-stations-at-the-edge-of-the-world.mp3",
+      "gfh8-west-highland-line-the-road-to-the-isles.mp3"
+    ],
+    "durations": {
+      "gfh8-west-highland-line-flight-context.mp3": 58.5834166,
+      "gfh8-west-highland-line-intro.mp3": 47.510625,
+      "gfh8-west-highland-line-building-through-bog-and-resistance.mp3": 65.4969166,
+      "gfh8-west-highland-line-stations-at-the-edge-of-the-world.mp3": 62.4366666,
+      "gfh8-west-highland-line-the-road-to-the-isles.mp3": 65.0779583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

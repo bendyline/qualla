@@ -37,8 +37,8 @@
     "sourceType": "core",
     "sourceArticleId": "vasaloppet-wp",
     "sourceGeohash4": "u6f7",
-    "smallPath": "_m/u/6/f/7/vasaloppet-wp/hero-small.jpg",
-    "mediumPath": "_m/u/6/f/7/vasaloppet-wp/hero-medium.jpg"
+    "smallPath": "_m/u/6/f/7/vasaloppet-wp/hero-small.webp",
+    "mediumPath": "_m/u/6/f/7/vasaloppet-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Vasaloppet Kortvasan Oxberg.JPG",
@@ -217,7 +217,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "vasaloppet-wp",
-      "sourceGeohash4": "u6f7"
+      "sourceGeohash4": "u6f7",
+      "smallPath": "_m/u/6/f/7/vasaloppet-wp/wasaloop-verdeling-winnaars-small.webp"
     },
     {
       "filename": "Vasaloppssegrare.jpg",
@@ -240,7 +241,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "vasaloppet-wp",
-      "sourceGeohash4": "u6f7"
+      "sourceGeohash4": "u6f7",
+      "mediumPath": "_m/u/6/f/7/vasaloppet-wp/vasaloppssegrare-medium.webp",
+      "smallPath": "_m/u/6/f/7/vasaloppet-wp/vasaloppssegrare-small.webp"
     },
     {
       "filename": "Mångsbodarna Vasaloppskontrollen.jpg",
@@ -264,7 +267,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "vasaloppet-wp",
-      "sourceGeohash4": "u6f7"
+      "sourceGeohash4": "u6f7",
+      "mediumPath": "_m/u/6/f/7/vasaloppet-wp/mangsbodarna-vasaloppskontroll-medium.webp",
+      "smallPath": "_m/u/6/f/7/vasaloppet-wp/mangsbodarna-vasaloppskontroll-small.webp"
     },
     {
       "filename": "Rollerskiing Sandra Hansson.jpg",
@@ -286,7 +291,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "vasaloppet-wp",
-      "sourceGeohash4": "u6f7"
+      "sourceGeohash4": "u6f7",
+      "smallPath": "_m/u/6/f/7/vasaloppet-wp/rollerskiing-sandra-hansson-small.webp"
     },
     {
       "filename": "Mångsbodarna 5.jpg",
@@ -309,7 +315,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "vasaloppet-wp",
-      "sourceGeohash4": "u6f7"
+      "sourceGeohash4": "u6f7",
+      "mediumPath": "_m/u/6/f/7/vasaloppet-wp/mangsbodarna-5-medium.webp",
+      "smallPath": "_m/u/6/f/7/vasaloppet-wp/mangsbodarna-5-small.webp"
     },
     {
       "filename": "Worldloppet Passports 2018 2022.jpg",
@@ -342,7 +350,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "vasaloppet-wp",
-      "sourceGeohash4": "u6f7"
+      "sourceGeohash4": "u6f7",
+      "smallPath": "_m/u/6/f/7/vasaloppet-wp/worldloppet-passports-2018-202-small.webp"
     }
   ],
   "galleryPaths": [
@@ -358,7 +367,6 @@
     "_m/u/6/f/7/vasaloppet-wp/mangsbodarna-5.jpg",
     "_m/u/6/f/7/vasaloppet-wp/worldloppet-passports-2018-202.jpg"
   ],
-  "fetchedAt": "2026-02-22T14:44:07.304Z",
   "updatedAt": "2026-02-22T14:44:08.449Z",
   "narration": {
     "files": [
@@ -379,7 +387,6 @@
       "u6c7-vasaloppet-the-battle-for-inclusion.mp3": 50.97625,
       "u6c7-vasaloppet-a-swedish-rite-of-passage.mp3": 54.8449583
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T17:22:33.778Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

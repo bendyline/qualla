@@ -70,14 +70,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "nazca-lines-wk",
-      "title": "The Nazca Lines: Art Made for the Sky",
-      "tile": "6m6s",
+      "id": "1687-peru-earthquake-wp",
+      "title": "1687 Peru Earthquake",
+      "tile": "6m61",
       "coordinates": {
-        "lat": -14.735,
-        "lng": -75.13
+        "lat": -15.216666666666667,
+        "lng": -75.91666666666667
       },
-      "distanceKm": 3561.2
+      "distanceKm": 3509.6
     },
     "n": {
       "id": "chilo-island-wk",
@@ -100,14 +100,14 @@
       "distanceKm": 647.4
     },
     "w": {
-      "id": "easter-island-collapse-wk",
-      "title": "Easter Island: The Mystery of Rise and Collapse",
-      "tile": "3e4j",
+      "id": "nazca-lines-wk",
+      "title": "The Nazca Lines: Art Made for the Sky",
+      "tile": "6m6s",
       "coordinates": {
-        "lat": -27.1127,
-        "lng": -109.3497
+        "lat": -14.735,
+        "lng": -75.13
       },
-      "distanceKm": 3751.4
+      "distanceKm": 3590.5
     },
     "e": {
       "id": "cueva-de-las-manos-wk",
@@ -153,5 +153,6 @@
   "keywords": [
     "laguna-san-rafael",
     "laguna-san-rafael-national-park"
-  ]
+  ],
+  "locationWikivoyagePath": "4/r/e/k/laguna-san-rafael-national-park-wk"
 }

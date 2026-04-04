@@ -28,8 +28,8 @@
     "sourceType": "core",
     "sourceArticleId": "capture-of-muscat-1507-wp",
     "sourceGeohash4": "tk1w",
-    "mediumPath": "_m/t/k/1/w/capture-of-muscat-1507-wp/hero-medium.jpg",
-    "smallPath": "_m/t/k/1/w/capture-of-muscat-1507-wp/hero-small.jpg"
+    "mediumPath": "_m/t/k/1/w/capture-of-muscat-1507-wp/hero-medium.webp",
+    "smallPath": "_m/t/k/1/w/capture-of-muscat-1507-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Flag of Ormus.png",
@@ -62,5 +62,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T09:54:48.967Z"
+  "narration": {
+    "files": [
+      "tk1w-capture-of-muscat-1507-flight-context.mp3",
+      "tk1w-capture-of-muscat-1507-intro.mp3",
+      "tk1w-capture-of-muscat-1507-seven-ships-from-socotra.mp3",
+      "tk1w-capture-of-muscat-1507-a-trail-of-fire-along-the-coast.mp3",
+      "tk1w-capture-of-muscat-1507-the-price-of-muscat.mp3",
+      "tk1w-capture-of-muscat-1507-a-century-and-a-half-of-occupation.mp3"
+    ],
+    "durations": {
+      "tk1w-capture-of-muscat-1507-flight-context.mp3": 37.689125,
+      "tk1w-capture-of-muscat-1507-intro.mp3": 37.4769583,
+      "tk1w-capture-of-muscat-1507-seven-ships-from-socotra.mp3": 37.3169583,
+      "tk1w-capture-of-muscat-1507-a-trail-of-fire-along-the-coast.mp3": 48.4245416,
+      "tk1w-capture-of-muscat-1507-the-price-of-muscat.mp3": 44.5642916,
+      "tk1w-capture-of-muscat-1507-a-century-and-a-half-of-occupation.mp3": 51.315
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

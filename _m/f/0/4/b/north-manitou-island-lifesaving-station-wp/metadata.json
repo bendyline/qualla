@@ -21,7 +21,7 @@
     "sourceType": "core",
     "sourceArticleId": "north-manitou-island-lifesaving-station-wp",
     "sourceGeohash4": "f04b",
-    "smallPath": "_m/f/0/4/b/north-manitou-island-lifesaving-station-wp/hero-small.jpg"
+    "smallPath": "_m/f/0/4/b/north-manitou-island-lifesaving-station-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "US Lifesaving Station North Manitou Island Volunteer Station.jpg",
@@ -68,7 +68,7 @@
       "sourceType": "core",
       "sourceArticleId": "north-manitou-island-lifesaving-station-wp",
       "sourceGeohash4": "f04b",
-      "smallPath": "_m/f/0/4/b/north-manitou-island-lifesaving-station-wp/us-lifesaving-station-small.jpg"
+      "smallPath": "_m/f/0/4/b/north-manitou-island-lifesaving-station-wp/us-lifesaving-station-small.webp"
     },
     {
       "filename": "US Lifesaving Station North Manitou Island Crews Quarters.jpg",
@@ -92,7 +92,7 @@
       "sourceType": "core",
       "sourceArticleId": "north-manitou-island-lifesaving-station-wp",
       "sourceGeohash4": "f04b",
-      "smallPath": "_m/f/0/4/b/north-manitou-island-lifesaving-station-wp/us-lifesaving-station-1-small.jpg"
+      "smallPath": "_m/f/0/4/b/north-manitou-island-lifesaving-station-wp/us-lifesaving-station-1-small.webp"
     },
     {
       "filename": "US Lifesaving Station North Manitou Island Panorama.jpg",
@@ -115,7 +115,7 @@
       "sourceType": "core",
       "sourceArticleId": "north-manitou-island-lifesaving-station-wp",
       "sourceGeohash4": "f04b",
-      "smallPath": "_m/f/0/4/b/north-manitou-island-lifesaving-station-wp/us-lifesaving-station-2-small.jpg"
+      "smallPath": "_m/f/0/4/b/north-manitou-island-lifesaving-station-wp/us-lifesaving-station-2-small.webp"
     },
     {
       "filename": "North Manitou Life Saving Station 01.jpg",
@@ -137,7 +137,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "north-manitou-island-lifesaving-station-wp",
       "sourceGeohash4": "f04b",
-      "smallPath": "_m/f/0/4/b/north-manitou-island-lifesaving-station-wp/north-manitou-life-saving-stat-small.jpg"
+      "smallPath": "_m/f/0/4/b/north-manitou-island-lifesaving-station-wp/north-manitou-life-saving-stat-small.webp"
     },
     {
       "filename": "Buildings on North Manitou Island.jpg",
@@ -164,8 +164,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "north-manitou-island-lifesaving-station-wp",
       "sourceGeohash4": "f04b",
-      "mediumPath": "_m/f/0/4/b/north-manitou-island-lifesaving-station-wp/buildings-on-north-manitou-isl-medium.jpg",
-      "smallPath": "_m/f/0/4/b/north-manitou-island-lifesaving-station-wp/buildings-on-north-manitou-isl-small.jpg"
+      "mediumPath": "_m/f/0/4/b/north-manitou-island-lifesaving-station-wp/buildings-on-north-manitou-isl-medium.webp",
+      "smallPath": "_m/f/0/4/b/north-manitou-island-lifesaving-station-wp/buildings-on-north-manitou-isl-small.webp"
     }
   ],
   "galleryPaths": [
@@ -175,6 +175,26 @@
     "_m/f/0/4/b/north-manitou-island-lifesaving-station-wp/north-manitou-life-saving-stat.jpg",
     "_m/f/0/4/b/north-manitou-island-lifesaving-station-wp/buildings-on-north-manitou-isl.jpg"
   ],
-  "fetchedAt": "2026-02-28T10:01:57.379Z",
-  "updatedAt": "2026-02-28T10:01:59.415Z"
+  "updatedAt": "2026-02-28T10:01:59.415Z",
+  "narration": {
+    "files": [
+      "f04b-north-manitou-island-lifesaving-station-flight-context.mp3",
+      "f04b-north-manitou-island-lifesaving-station-intro.mp3",
+      "f04b-north-manitou-island-lifesaving-station-cedar-boards-and-surfboats.mp3",
+      "f04b-north-manitou-island-lifesaving-station-three-eras-under-one-roof.mp3",
+      "f04b-north-manitou-island-lifesaving-station-the-end-of-the-watch.mp3",
+      "f04b-north-manitou-island-lifesaving-station-rescue-of-the-rescuers.mp3",
+      "f04b-north-manitou-island-lifesaving-station-sentinel-on-the-shore.mp3"
+    ],
+    "durations": {
+      "f04b-north-manitou-island-lifesaving-station-flight-context.mp3": 68.4225833,
+      "f04b-north-manitou-island-lifesaving-station-intro.mp3": 57.316375,
+      "f04b-north-manitou-island-lifesaving-station-cedar-boards-and-surfboats.mp3": 56.7828333,
+      "f04b-north-manitou-island-lifesaving-station-three-eras-under-one-roof.mp3": 66.311875,
+      "f04b-north-manitou-island-lifesaving-station-the-end-of-the-watch.mp3": 46.3588333,
+      "f04b-north-manitou-island-lifesaving-station-rescue-of-the-rescuers.mp3": 66.37925,
+      "f04b-north-manitou-island-lifesaving-station-sentinel-on-the-shore.mp3": 49.2502083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

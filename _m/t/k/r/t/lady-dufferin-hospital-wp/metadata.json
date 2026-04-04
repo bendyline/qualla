@@ -32,8 +32,8 @@
     "sourceType": "core",
     "sourceArticleId": "lady-dufferin-hospital-wp",
     "sourceGeohash4": "tkrt",
-    "mediumPath": "_m/t/k/r/t/lady-dufferin-hospital-wp/hero-medium.jpg",
-    "smallPath": "_m/t/k/r/t/lady-dufferin-hospital-wp/hero-small.jpg"
+    "mediumPath": "_m/t/k/r/t/lady-dufferin-hospital-wp/hero-medium.webp",
+    "smallPath": "_m/t/k/r/t/lady-dufferin-hospital-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Lady Dufferin Hospital- Virabijee Katrak Maternity Wing.jpg",
@@ -70,5 +70,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T10:48:52.935Z"
+  "narration": {
+    "files": [
+      "tkrt-lady-dufferin-hospital-flight-context.mp3",
+      "tkrt-lady-dufferin-hospital-intro.mp3",
+      "tkrt-lady-dufferin-hospital-a-queens-concern.mp3",
+      "tkrt-lady-dufferin-hospital-built-by-philanthropists.mp3",
+      "tkrt-lady-dufferin-hospital-where-a-future-prime-minister-was-born.mp3",
+      "tkrt-lady-dufferin-hospital-continuity-through-upheaval.mp3"
+    ],
+    "durations": {
+      "tkrt-lady-dufferin-hospital-flight-context.mp3": 28.972625,
+      "tkrt-lady-dufferin-hospital-intro.mp3": 38.0889583,
+      "tkrt-lady-dufferin-hospital-a-queens-concern.mp3": 50.9560833,
+      "tkrt-lady-dufferin-hospital-built-by-philanthropists.mp3": 54.59475,
+      "tkrt-lady-dufferin-hospital-where-a-future-prime-minister-was-born.mp3": 52.0325416,
+      "tkrt-lady-dufferin-hospital-continuity-through-upheaval.mp3": 53.0565833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/q/8/z/alcatraz-inescapable-wk/9q8y-alcatraz-the-prison-no-one-could-escape-intro.mp3",
-        "_m/9/q/8/z/alcatraz-inescapable-wk/9q8y-alcatraz-the-prison-no-one-could-escape-flight-context.mp3",
-        "_m/9/q/8/z/alcatraz-inescapable-wk/9q8y-alcatraz-the-prison-no-one-could-escape-the-closure.mp3",
-        "_m/9/q/8/z/alcatraz-inescapable-wk/9q8y-alcatraz-the-prison-no-one-could-escape-the-escapes.mp3",
-        "_m/9/q/8/z/alcatraz-inescapable-wk/9q8y-alcatraz-the-prison-no-one-could-escape-the-famous.mp3",
-        "_m/9/q/8/z/alcatraz-inescapable-wk/9q8y-alcatraz-the-prison-no-one-could-escape-the-prison.mp3",
-        "_m/9/q/8/z/alcatraz-inescapable-wk/9q8y-alcatraz-the-prison-no-one-could-escape-visiting-alcatraz.mp3"
+        "_m/9/q/8/z/alcatraz-inescapable-wk/9q8z-alcatraz-the-prison-no-one-could-escape-flight-context.mp3",
+        "_m/9/q/8/z/alcatraz-inescapable-wk/9q8z-alcatraz-the-prison-no-one-could-escape-intro.mp3",
+        "_m/9/q/8/z/alcatraz-inescapable-wk/9q8z-alcatraz-the-prison-no-one-could-escape-the-prison.mp3",
+        "_m/9/q/8/z/alcatraz-inescapable-wk/9q8z-alcatraz-the-prison-no-one-could-escape-the-famous.mp3",
+        "_m/9/q/8/z/alcatraz-inescapable-wk/9q8z-alcatraz-the-prison-no-one-could-escape-the-escapes.mp3",
+        "_m/9/q/8/z/alcatraz-inescapable-wk/9q8z-alcatraz-the-prison-no-one-could-escape-the-closure.mp3",
+        "_m/9/q/8/z/alcatraz-inescapable-wk/9q8z-alcatraz-the-prison-no-one-could-escape-visiting-alcatraz.mp3"
       ],
       "hero": {
         "path": "_m/9/q/8/z/alcatraz-inescapable-wk/gun-gallery-alcatraz-i.jpg",
@@ -26,8 +26,7 @@
         "sourceArticleId": "alcatraz-inescapable-wk",
         "sourceGeohash4": "9q8z",
         "accessedAt": "2026-02-21T20:54:00.000Z",
-        "smallPath": "_m/9/q/8/z/alcatraz-inescapable-wk/gun-gallery-alcatraz-i-small.jpg",
-        "mediumPath": "_m/9/q/8/z/alcatraz-inescapable-wk/gun-gallery-alcatraz-i-medium.jpg"
+        "smallPath": "_m/9/q/8/z/alcatraz-inescapable-wk/hero-small.webp"
       },
       "images": [
         {
@@ -1392,7 +1391,8 @@
             "aerialBonus": 0
           }
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/q/8/z/alcatraz-inescapable-wk/9q8z-alcatraz-inescapable-combined.mp3"
     }
   }
 }

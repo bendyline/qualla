@@ -24,8 +24,8 @@
       "sourceType": "poi",
       "sourceArticleId": "nakhchivan-city-wp",
       "sourceGeohash4": "tnbr",
-      "mediumPath": "_m/t/n/b/r/nakhchivan-city-wp/city-of-naxcivan-view-from-pla-medium.jpg",
-      "smallPath": "_m/t/n/b/r/nakhchivan-city-wp/city-of-naxcivan-view-from-pla-small.jpg"
+      "mediumPath": "_m/t/n/b/r/nakhchivan-city-wp/city-of-naxcivan-view-from-pla-medium.webp",
+      "smallPath": "_m/t/n/b/r/nakhchivan-city-wp/city-of-naxcivan-view-from-pla-small.webp"
     },
     {
       "filename": "The grave monument of the prophet Noah.JPG",
@@ -50,8 +50,8 @@
       "sourceType": "poi",
       "sourceArticleId": "nakhchivan-city-wp",
       "sourceGeohash4": "tnbr",
-      "mediumPath": "_m/t/n/b/r/nakhchivan-city-wp/the-grave-monument-of-the-prop-medium.jpg",
-      "smallPath": "_m/t/n/b/r/nakhchivan-city-wp/the-grave-monument-of-the-prop-small.jpg"
+      "mediumPath": "_m/t/n/b/r/nakhchivan-city-wp/the-grave-monument-of-the-prop-medium.webp",
+      "smallPath": "_m/t/n/b/r/nakhchivan-city-wp/the-grave-monument-of-the-prop-small.webp"
     },
     {
       "filename": "Palace of Nakhchivan Khans.jpg",
@@ -74,8 +74,8 @@
       "sourceType": "poi",
       "sourceArticleId": "nakhchivan-city-wp",
       "sourceGeohash4": "tnbr",
-      "mediumPath": "_m/t/n/b/r/nakhchivan-city-wp/palace-of-nakhchivan-khans-medium.jpg",
-      "smallPath": "_m/t/n/b/r/nakhchivan-city-wp/palace-of-nakhchivan-khans-small.jpg"
+      "mediumPath": "_m/t/n/b/r/nakhchivan-city-wp/palace-of-nakhchivan-khans-medium.webp",
+      "smallPath": "_m/t/n/b/r/nakhchivan-city-wp/palace-of-nakhchivan-khans-small.webp"
     },
     {
       "filename": "Şərq hamamı.jpg",
@@ -98,8 +98,8 @@
       "sourceType": "poi",
       "sourceArticleId": "nakhchivan-city-wp",
       "sourceGeohash4": "tnbr",
-      "mediumPath": "_m/t/n/b/r/nakhchivan-city-wp/s-rq-hamam-medium.jpg",
-      "smallPath": "_m/t/n/b/r/nakhchivan-city-wp/s-rq-hamam-small.jpg"
+      "mediumPath": "_m/t/n/b/r/nakhchivan-city-wp/s-rq-hamam-medium.webp",
+      "smallPath": "_m/t/n/b/r/nakhchivan-city-wp/s-rq-hamam-small.webp"
     }
   ],
   "galleryPaths": [
@@ -108,5 +108,24 @@
     "_m/t/n/b/r/nakhchivan-city-wp/palace-of-nakhchivan-khans.jpg",
     "_m/t/n/b/r/nakhchivan-city-wp/s-rq-hamam.jpg"
   ],
-  "updatedAt": "2026-03-01T13:36:52.754Z"
+  "updatedAt": "2026-03-01T13:36:52.754Z",
+  "narration": {
+    "files": [
+      "tnbr-nakhchivan-flight-context.mp3",
+      "tnbr-nakhchivan-intro.mp3",
+      "tnbr-nakhchivan-a-city-of-tombs-and-towers.mp3",
+      "tnbr-nakhchivan-lavash-kata-and-goyja.mp3",
+      "tnbr-nakhchivan-the-exclaves-lifelines.mp3",
+      "tnbr-nakhchivan-pilgrims-and-players.mp3"
+    ],
+    "durations": {
+      "tnbr-nakhchivan-flight-context.mp3": 40.588125,
+      "tnbr-nakhchivan-intro.mp3": 49.984875,
+      "tnbr-nakhchivan-a-city-of-tombs-and-towers.mp3": 62.853625,
+      "tnbr-nakhchivan-lavash-kata-and-goyja.mp3": 62.6688333,
+      "tnbr-nakhchivan-the-exclaves-lifelines.mp3": 56.7112916,
+      "tnbr-nakhchivan-pilgrims-and-players.mp3": 63.4436666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

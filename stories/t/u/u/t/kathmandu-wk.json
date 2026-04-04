@@ -77,56 +77,36 @@
   "locationWikivoyagePath": "t/u/u/t/kathmandu-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "band-e-amir-national-park-wk",
-      "title": "Band-e Amir National Park",
-      "tile": "tqpy",
+      "id": "tehri-dam-wp",
+      "title": "Tehri Dam",
+      "tile": "ttru",
       "coordinates": {
-        "lat": 34.839722222222,
-        "lng": 67.230833333333
+        "lat": 30.37777778,
+        "lng": 78.48055556
       },
-      "distanceKm": 1825.3
+      "distanceKm": 663.7
     },
     "n": {
-      "id": "band-e-amir-national-park-wp",
-      "title": "Band-e Amir National Park",
-      "tile": "tqpy",
+      "id": "tsurphu-monastery-wp",
+      "title": "Tsurphu Monastery",
+      "tile": "wj23",
       "coordinates": {
-        "lat": 34.839722222222,
-        "lng": 67.230833333333
+        "lat": 29.72638889,
+        "lng": 90.57555556
       },
-      "distanceKm": 1870.7
+      "distanceKm": 554.7
     },
     "ne": {
-      "id": "lhasa-wk",
-      "title": "Lhasa",
-      "tile": "wj2b",
+      "id": "yamdrok-hydropower-station-wp",
+      "title": "Yamdrok Hydropower Station",
+      "tile": "wj0q",
       "coordinates": {
-        "lat": 29.65,
-        "lng": 91.1
+        "lat": 29.2641,
+        "lng": 90.6064
       },
-      "distanceKm": 551.6
+      "distanceKm": 493.2
     },
     "w": {
-      "id": "agra-wk",
-      "title": "Agra",
-      "tile": "tsz6",
-      "coordinates": {
-        "lat": 27.1767,
-        "lng": 78.0081
-      },
-      "distanceKm": 665.4
-    },
-    "e": {
-      "id": "potala-palace-wk",
-      "title": "Potala Palace: The Himalayan Fortress Where Dalai Lamas Ruled for 300 Years",
-      "tile": "wj2b",
-      "coordinates": {
-        "lat": 29.6577,
-        "lng": 91.1172
-      },
-      "distanceKm": 564.8
-    },
-    "sw": {
       "id": "taj-mahal-wk",
       "title": "Taj Mahal",
       "tile": "tsz6",
@@ -134,27 +114,47 @@
         "lat": 27.1751,
         "lng": 78.0421
       },
-      "distanceKm": 661
+      "distanceKm": 662.1
+    },
+    "e": {
+      "id": "yamdrok-lake-wp",
+      "title": "Yamdrok Lake",
+      "tile": "wj0s",
+      "coordinates": {
+        "lat": 28.97811,
+        "lng": 90.7457
+      },
+      "distanceKm": 506.7
+    },
+    "sw": {
+      "id": "vikramkhol-cave-inscription-wp",
+      "title": "Vikramkhol Cave Inscription",
+      "tile": "tggs",
+      "coordinates": {
+        "lat": 21.85,
+        "lng": 83.8
+      },
+      "distanceKm": 626.6
     },
     "s": {
-      "id": "bhopal-disaster-wk",
-      "title": "The Bhopal Disaster: The Night a Pesticide Plant Killed a City",
-      "tile": "tsph",
+      "id": "jaduguda-uranium-mine-wp",
+      "title": "Jaduguda Uranium Mine",
+      "tile": "tgvr",
       "coordinates": {
-        "lat": 23.2814,
-        "lng": 77.4106
+        "lat": 22.39,
+        "lng": 86.22
       },
-      "distanceKm": 912.4
+      "distanceKm": 567.9
     },
     "se": {
-      "id": "kolkata-wk",
-      "title": "Kolkata",
-      "tile": "tunb",
+      "id": "manas-river-wp",
+      "title": "Manas River",
+      "tile": "wh8m",
       "coordinates": {
-        "lat": 22.5726,
-        "lng": 88.3639
+        "lat": 26.217,
+        "lng": 90.633
       },
-      "distanceKm": 598.7
+      "distanceKm": 499.7
     }
   },
   "keywords": [

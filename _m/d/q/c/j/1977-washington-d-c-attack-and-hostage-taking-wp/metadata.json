@@ -30,7 +30,7 @@
     "sourceType": "core",
     "sourceArticleId": "1977-washington-d-c-attack-and-hostage-taking-wp",
     "sourceGeohash4": "dqcj",
-    "smallPath": "_m/d/q/c/j/1977-washington-d-c-attack-and-hostage-taking-wp/hero-small.jpg"
+    "smallPath": "_m/d/q/c/j/1977-washington-d-c-attack-and-hostage-taking-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Wilsonbldg.JPG",
@@ -65,5 +65,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-02-28T05:18:27.534Z"
+  "narration": {
+    "files": [
+      "dqcj-1977-washington-d-c-attack-and-hostage-taking-flight-context.mp3",
+      "dqcj-1977-washington-d-c-attack-and-hostage-taking-intro.mp3",
+      "dqcj-1977-washington-d-c-attack-and-hostage-taking-a-jazz-drummers-spiral.mp3",
+      "dqcj-1977-washington-d-c-attack-and-hostage-taking-three-buildings-one-afternoon.mp3",
+      "dqcj-1977-washington-d-c-attack-and-hostage-taking-patience-and-diplomacy.mp3",
+      "dqcj-1977-washington-d-c-attack-and-hostage-taking-scars-on-a-city.mp3"
+    ],
+    "durations": {
+      "dqcj-1977-washington-d-c-attack-and-hostage-taking-flight-context.mp3": 53.8027083,
+      "dqcj-1977-washington-d-c-attack-and-hostage-taking-intro.mp3": 51.285375,
+      "dqcj-1977-washington-d-c-attack-and-hostage-taking-a-jazz-drummers-spiral.mp3": 66.4496666,
+      "dqcj-1977-washington-d-c-attack-and-hostage-taking-three-buildings-one-afternoon.mp3": 62.2070416,
+      "dqcj-1977-washington-d-c-attack-and-hostage-taking-patience-and-diplomacy.mp3": 57.7092083,
+      "dqcj-1977-washington-d-c-attack-and-hostage-taking-scars-on-a-city.mp3": 61.6320416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

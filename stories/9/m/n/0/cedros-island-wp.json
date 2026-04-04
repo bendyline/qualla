@@ -132,47 +132,48 @@
       "distanceKm": 459.7
     },
     "e": {
-      "id": "battle-of-ambos-nogales-wp",
-      "title": "Battle of Ambos Nogales",
-      "tile": "9t94",
+      "id": "gulf-of-california-wp",
+      "title": "Gulf of California",
+      "tile": "9sbr",
       "coordinates": {
-        "lat": 31.3328,
-        "lng": -110.942224
+        "lat": 28,
+        "lng": -112
       },
-      "distanceKm": 495.5
+      "distanceKm": 257
     },
     "sw": {
-      "id": "mauna-kea-wk",
-      "title": "Mauna Kea: The Mountain Taller Than Everest",
-      "tile": "8e92",
+      "id": "puna-geothermal-venture-wp",
+      "title": "Puna Geothermal Venture",
+      "tile": "8e3y",
       "coordinates": {
-        "lat": 19.8207,
-        "lng": -155.468
+        "lat": 19.4783,
+        "lng": -154.888
       },
-      "distanceKm": 4127.8
+      "distanceKm": 4084.4
     },
     "s": {
-      "id": "monterrey-city-wk",
-      "title": "Monterrey: Mexico's Industrial Capital Where Mountains Meet Money",
-      "tile": "9u8d",
+      "id": "mision-san-francisco-javier-de-vigge-biaundo-wp",
+      "title": "Mision San Francisco Javier de Vigge-Biaundo",
+      "tile": "9s8e",
       "coordinates": {
-        "lat": 25.6866,
-        "lng": -100.3161
+        "lat": 25.860556,
+        "lng": -111.543611
       },
-      "distanceKm": 1491.1
+      "distanceKm": 425.3
     },
     "se": {
-      "id": "guadalajara-city-wk",
-      "title": "Guadalajara: Where Tequila, Mariachi, and the Mexican Soul Originate",
-      "tile": "9ewt",
+      "id": "el-boleo-wp",
+      "title": "El Boleo",
+      "tile": "9sb5",
       "coordinates": {
-        "lat": 20.6597,
-        "lng": -103.3496
+        "lat": 27.31667,
+        "lng": -112.28333
       },
-      "distanceKm": 1398.4
+      "distanceKm": 239.7
     }
   },
   "keywords": [
     "cedros-island"
-  ]
+  ],
+  "locationWikipediaPath": "9/m/n/0/cedros-island-wp"
 }

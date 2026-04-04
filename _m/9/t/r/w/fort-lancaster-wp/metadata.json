@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "fort-lancaster-wp",
     "sourceGeohash4": "9trw",
-    "smallPath": "_m/9/t/r/w/fort-lancaster-wp/hero-small.jpg",
-    "mediumPath": "_m/9/t/r/w/fort-lancaster-wp/hero-medium.jpg"
+    "smallPath": "_m/9/t/r/w/fort-lancaster-wp/hero-small.webp",
+    "mediumPath": "_m/9/t/r/w/fort-lancaster-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Fort lancaster 1861.jpg",
@@ -139,8 +139,8 @@
       "sourceType": "core",
       "sourceArticleId": "fort-lancaster-wp",
       "sourceGeohash4": "9trw",
-      "smallPath": "_m/9/t/r/w/fort-lancaster-wp/ruins-adobe-stone-buil-small.jpg",
-      "mediumPath": "_m/9/t/r/w/fort-lancaster-wp/ruins-adobe-stone-buil-medium.jpg"
+      "smallPath": "_m/9/t/r/w/fort-lancaster-wp/ruins-adobe-stone-buil-small.webp",
+      "mediumPath": "_m/9/t/r/w/fort-lancaster-wp/ruins-adobe-stone-buil-medium.webp"
     },
     {
       "filename": "Fort Lancaster Little Margaret.JPG",
@@ -166,8 +166,8 @@
       "sourceType": "core",
       "sourceArticleId": "fort-lancaster-wp",
       "sourceGeohash4": "9trw",
-      "smallPath": "_m/9/t/r/w/fort-lancaster-wp/fort-lancaster-state-p-small.jpg",
-      "mediumPath": "_m/9/t/r/w/fort-lancaster-wp/fort-lancaster-state-p-medium.jpg"
+      "smallPath": "_m/9/t/r/w/fort-lancaster-wp/fort-lancaster-state-p-small.webp",
+      "mediumPath": "_m/9/t/r/w/fort-lancaster-wp/fort-lancaster-state-p-medium.webp"
     },
     {
       "filename": "Fort lancaster ruins 2009.jpg",
@@ -194,7 +194,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-lancaster-wp",
-      "sourceGeohash4": "9trw"
+      "sourceGeohash4": "9trw",
+      "mediumPath": "_m/9/t/r/w/fort-lancaster-wp/fort-lancaster-ruins-2009-medium.webp",
+      "smallPath": "_m/9/t/r/w/fort-lancaster-wp/fort-lancaster-ruins-2009-small.webp"
     },
     {
       "filename": "Fort Lancaster Texas Historical Marker.jpg",
@@ -218,7 +220,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-lancaster-wp",
-      "sourceGeohash4": "9trw"
+      "sourceGeohash4": "9trw",
+      "mediumPath": "_m/9/t/r/w/fort-lancaster-wp/fort-lancaster-texas-historica-medium.webp",
+      "smallPath": "_m/9/t/r/w/fort-lancaster-wp/fort-lancaster-texas-historica-small.webp"
     }
   ],
   "galleryPaths": [
@@ -229,7 +233,6 @@
     "_m/9/t/r/w/fort-lancaster-wp/fort-lancaster-ruins-2009.jpg",
     "_m/9/t/r/w/fort-lancaster-wp/fort-lancaster-texas-historica.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:19:30.050Z",
   "narration": {
     "files": [
       "9trw-fort-lancaster-flight-context.mp3",
@@ -249,8 +252,7 @@
       "9trw-fort-lancaster-the-battle-of-fort-lancaster.mp3": 65.7710416,
       "9trw-fort-lancaster-ruins-in-the-desert.mp3": 60.7325416
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T02:38:54.841Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:19:30.670Z"
 }

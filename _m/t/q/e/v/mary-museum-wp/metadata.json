@@ -27,7 +27,7 @@
     "sourceType": "core",
     "sourceArticleId": "mary-museum-wp",
     "sourceGeohash4": "tqev",
-    "smallPath": "_m/t/q/e/v/mary-museum-wp/hero-small.jpg"
+    "smallPath": "_m/t/q/e/v/mary-museum-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Regional Museum, Mary (5730558369).jpg",
@@ -59,5 +59,25 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T17:26:50.804Z"
+  "narration": {
+    "files": [
+      "tqev-mary-museum-flight-context.mp3",
+      "tqev-mary-museum-intro.mp3",
+      "tqev-mary-museum-from-revolution-to-renewal.mp3",
+      "tqev-mary-museum-white-marble-and-six-halls.mp3",
+      "tqev-mary-museum-echoes-of-margu.mp3",
+      "tqev-mary-museum-a-living-record.mp3",
+      "tqev-mary-museum-the-oasis-citys-window.mp3"
+    ],
+    "durations": {
+      "tqev-mary-museum-flight-context.mp3": 38.208875,
+      "tqev-mary-museum-intro.mp3": 32.2635,
+      "tqev-mary-museum-from-revolution-to-renewal.mp3": 63.0101666,
+      "tqev-mary-museum-white-marble-and-six-halls.mp3": 52.0080833,
+      "tqev-mary-museum-echoes-of-margu.mp3": 50.1600833,
+      "tqev-mary-museum-a-living-record.mp3": 47.7919583,
+      "tqev-mary-museum-the-oasis-citys-window.mp3": 40.7683333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

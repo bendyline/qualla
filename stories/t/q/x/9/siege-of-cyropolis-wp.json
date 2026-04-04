@@ -57,14 +57,31 @@
       "title": "Siege of Cyropolis - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Siege_of_Cyropolis",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["329 BCE date confirmed", "seven towns campaign confirmed", "Craterus sent ahead to Cyropolis confirmed", "five towns fell in two days confirmed", "15,000 defenders per Arrian confirmed", "8,000 killed in first phase confirmed", "Alexander struck by stone in head and neck confirmed", "Craterus wounded by arrow confirmed", "defenders retreated to central fortress and surrendered for lack of water confirmed", "Arrian drew on Ptolemy's memoirs confirmed", "Ptolemy as founder of Ptolemaic dynasty confirmed", "Aristobulus gave massacre account confirmed"]
+      "claimsVerified": [
+        "329 BCE date confirmed",
+        "seven towns campaign confirmed",
+        "Craterus sent ahead to Cyropolis confirmed",
+        "five towns fell in two days confirmed",
+        "15,000 defenders per Arrian confirmed",
+        "8,000 killed in first phase confirmed",
+        "Alexander struck by stone in head and neck confirmed",
+        "Craterus wounded by arrow confirmed",
+        "defenders retreated to central fortress and surrendered for lack of water confirmed",
+        "Arrian drew on Ptolemy's memoirs confirmed",
+        "Ptolemy as founder of Ptolemaic dynasty confirmed",
+        "Aristobulus gave massacre account confirmed"
+      ]
     },
     {
       "type": "verification",
       "title": "Cyropolis - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Cyropolis",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Corrected flightContext: Cyropolis location is debated, most scholars place it in Tajikistan (Istaravshan or Kurkath near Syr Darya), not near Balkh in Afghanistan", "city founded by Cyrus the Great confirmed", "Istaravshan and Kurkath are leading candidate sites confirmed"]
+      "claimsVerified": [
+        "Corrected flightContext: Cyropolis location is debated, most scholars place it in Tajikistan (Istaravshan or Kurkath near Syr Darya), not near Balkh in Afghanistan",
+        "city founded by Cyrus the Great confirmed",
+        "Istaravshan and Kurkath are leading candidate sites confirmed"
+      ]
     }
   ],
   "editorial": {
@@ -93,14 +110,14 @@
       "distanceKm": 34.3
     },
     "ne": {
-      "id": "baotou-wk",
-      "title": "Baotou",
-      "tile": "wrnp",
+      "id": "yaghnob-valley-wp",
+      "title": "Yaghnob Valley",
+      "tile": "twcp",
       "coordinates": {
-        "lat": 40.656,
-        "lng": 109.834
+        "lat": 39.2,
+        "lng": 69
       },
-      "distanceKm": 3650.8
+      "distanceKm": 268.8
     },
     "w": {
       "id": "dasht-i-leili-massacre-wp",
@@ -113,14 +130,14 @@
       "distanceKm": 68.5
     },
     "e": {
-      "id": "jaipur-wk",
-      "title": "Jaipur",
-      "tile": "tsvc",
+      "id": "battle-of-kunduz-2015-wp",
+      "title": "Battle of Kunduz (2015)",
+      "tile": "tw8b",
       "coordinates": {
-        "lat": 26.9124,
-        "lng": 75.7873
+        "lat": 36.733333333333,
+        "lng": 68.866666666667
       },
-      "distanceKm": 1350.6
+      "distanceKm": 122.2
     },
     "sw": {
       "id": "minaret-of-jam-wp",
@@ -143,14 +160,15 @@
       "distanceKm": 193
     },
     "se": {
-      "id": "jodhpur-wk",
-      "title": "Jodhpur",
-      "tile": "tsev",
+      "id": "buddhas-of-bamiyan-wp",
+      "title": "Buddhas of Bamiyan",
+      "tile": "tw0n",
       "coordinates": {
-        "lat": 26.2389,
-        "lng": 73.0243
+        "lat": 34.832041666667,
+        "lng": 67.826802777778
       },
-      "distanceKm": 1261.4
+      "distanceKm": 194.7
     }
-  }
+  },
+  "locationWikipediaPath": "t/q/x/9/siege-of-cyropolis-wp"
 }

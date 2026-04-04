@@ -28,8 +28,8 @@
     "sourceType": "core",
     "sourceArticleId": "my-koku-ji-wp",
     "sourceGeohash4": "xn0k",
-    "mediumPath": "_m/x/n/0/k/my-koku-ji-wp/hero-medium.jpg",
-    "smallPath": "_m/x/n/0/k/my-koku-ji-wp/hero-small.jpg"
+    "mediumPath": "_m/x/n/0/k/my-koku-ji-wp/hero-medium.webp",
+    "smallPath": "_m/x/n/0/k/my-koku-ji-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Myokokuji (Sakai, Osaka) hondo.jpg",
@@ -90,14 +90,13 @@
       "sourceType": "core",
       "sourceArticleId": "my-koku-ji-wp",
       "sourceGeohash4": "xn0k",
-      "mediumPath": "_m/x/n/0/k/my-koku-ji-wp/gallery-1-medium.jpg",
-      "smallPath": "_m/x/n/0/k/my-koku-ji-wp/gallery-1-small.jpg"
+      "mediumPath": "_m/x/n/0/k/my-koku-ji-wp/gallery-1-medium.webp",
+      "smallPath": "_m/x/n/0/k/my-koku-ji-wp/gallery-1-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/x/n/0/k/my-koku-ji-wp/gallery-1.jpg"
   ],
-  "fetchedAt": "2026-02-22T16:44:39.307Z",
   "narration": {
     "files": [
       "xn0k-myokoku-ji-flight-context.mp3",
@@ -115,7 +114,6 @@
       "xn0k-myokoku-ji-blood-on-the-temple-steps.mp3": 55.7715416,
       "xn0k-myokoku-ji-eleven-before-sundown.mp3": 62.4055833
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-24T14:56:58.516Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/t/9/p/tucson-city-wk/9tb1-tucson-the-desert-city-that-stayed-weird-when-phoe-intro.mp3",
-        "_m/9/t/9/p/tucson-city-wk/9tb1-tucson-the-desert-city-that-stayed-weird-when-phoe-flight-context.mp3",
-        "_m/9/t/9/p/tucson-city-wk/9tb1-tucson-the-desert-city-that-stayed-weird-when-phoe-the-boneyard.mp3",
-        "_m/9/t/9/p/tucson-city-wk/9tb1-tucson-the-desert-city-that-stayed-weird-when-phoe-the-desert.mp3",
-        "_m/9/t/9/p/tucson-city-wk/9tb1-tucson-the-desert-city-that-stayed-weird-when-phoe-the-food.mp3",
-        "_m/9/t/9/p/tucson-city-wk/9tb1-tucson-the-desert-city-that-stayed-weird-when-phoe-the-university.mp3",
-        "_m/9/t/9/p/tucson-city-wk/9tb1-tucson-the-desert-city-that-stayed-weird-when-phoe-visiting-tucson.mp3"
+        "_m/9/t/9/p/tucson-city-wk/9t9p-tucson-the-desert-city-that-stayed-weird-when-phoe-flight-context.mp3",
+        "_m/9/t/9/p/tucson-city-wk/9t9p-tucson-the-desert-city-that-stayed-weird-when-phoe-intro.mp3",
+        "_m/9/t/9/p/tucson-city-wk/9t9p-tucson-the-desert-city-that-stayed-weird-when-phoe-the-desert.mp3",
+        "_m/9/t/9/p/tucson-city-wk/9t9p-tucson-the-desert-city-that-stayed-weird-when-phoe-the-boneyard.mp3",
+        "_m/9/t/9/p/tucson-city-wk/9t9p-tucson-the-desert-city-that-stayed-weird-when-phoe-the-university.mp3",
+        "_m/9/t/9/p/tucson-city-wk/9t9p-tucson-the-desert-city-that-stayed-weird-when-phoe-the-food.mp3",
+        "_m/9/t/9/p/tucson-city-wk/9t9p-tucson-the-desert-city-that-stayed-weird-when-phoe-visiting-tucson.mp3"
       ],
       "hero": {
         "path": "_m/9/t/9/p/tucson-wk/cylindropuntia-fulgida.jpg",
@@ -25,7 +25,9 @@
         "sourceType": "sibling",
         "sourceArticleId": "tucson-wk",
         "sourceGeohash4": "9t9p",
-        "accessedAt": "2026-02-21T21:55:52.292Z"
+        "accessedAt": "2026-02-21T21:55:52.292Z",
+        "mediumPath": "_m/9/t/9/p/tucson-city-wk/hero-medium.webp",
+        "smallPath": "_m/9/t/9/p/tucson-city-wk/hero-small.webp"
       },
       "images": [
         {
@@ -56,7 +58,7 @@
             "Taken with Canon Digital IXUS 870 IS",
             "Tucson Museum of Art"
           ],
-          "smallPath": "_m/9/t/9/p/tucson-city-wk/guanyin-head-5620719497-small.jpg"
+          "smallPath": "_m/9/t/9/p/tucson-city-wk/guanyin-head-5620719497-small.webp"
         },
         {
           "path": "_m/9/t/9/p/tucson-city-wk/tucson-museum-of-art.jpg",
@@ -79,8 +81,8 @@
             "Photographs by Paul Sableman",
             "Tucson Museum of Art"
           ],
-          "smallPath": "_m/9/t/9/p/tucson-city-wk/tucson-museum-of-art-small.jpg",
-          "mediumPath": "_m/9/t/9/p/tucson-city-wk/tucson-museum-of-art-medium.jpg"
+          "smallPath": "_m/9/t/9/p/tucson-city-wk/tucson-museum-of-art-small.webp",
+          "mediumPath": "_m/9/t/9/p/tucson-city-wk/tucson-museum-of-art-medium.webp"
         },
         {
           "path": "_m/9/t/9/p/tucson-city-wk/tucson-museum-of-art-485762805.jpg",
@@ -102,8 +104,8 @@
             "Flickr images reviewed by FlickreviewR 2",
             "Tucson Museum of Art"
           ],
-          "smallPath": "_m/9/t/9/p/tucson-city-wk/tucson-museum-of-art-485762805-small.jpg",
-          "mediumPath": "_m/9/t/9/p/tucson-city-wk/tucson-museum-of-art-485762805-medium.jpg"
+          "smallPath": "_m/9/t/9/p/tucson-city-wk/tucson-museum-of-art-485762805-small.webp",
+          "mediumPath": "_m/9/t/9/p/tucson-city-wk/tucson-museum-of-art-485762805-medium.webp"
         },
         {
           "path": "_m/9/t/9/p/tucson-city-wk/tucson-museum-of-art-481646206.jpg",
@@ -126,8 +128,8 @@
             "Flickr images reviewed by FlickreviewR 2",
             "Tucson Museum of Art"
           ],
-          "smallPath": "_m/9/t/9/p/tucson-city-wk/tucson-museum-of-art-481646206-small.jpg",
-          "mediumPath": "_m/9/t/9/p/tucson-city-wk/tucson-museum-of-art-481646206-medium.jpg"
+          "smallPath": "_m/9/t/9/p/tucson-city-wk/tucson-museum-of-art-481646206-small.webp",
+          "mediumPath": "_m/9/t/9/p/tucson-city-wk/tucson-museum-of-art-481646206-medium.webp"
         },
         {
           "path": "_m/9/t/b/b/2000-marana-v-22-crash-wp/related-poi-asu-nima-3.jpg",
@@ -937,7 +939,8 @@
           "sourceGeohash4": "9t9p",
           "accessedAt": "2026-02-21T21:55:52.292Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/t/9/p/tucson-city-wk/9t9p-tucson-city-combined.mp3"
     }
   }
 }

@@ -75,7 +75,7 @@
       "sourceType": "core",
       "sourceArticleId": "nuclear-facilities-in-iran-wp",
       "sourceGeohash4": "tnkf",
-      "smallPath": "_m/t/n/k/f/nuclear-facilities-in-iran-wp/map-main-sites-iran-s-small.png"
+      "smallPath": "_m/t/n/k/f/nuclear-facilities-in-iran-wp/map-main-sites-iran-s-small.webp"
     },
     {
       "filename": "IranSites.png",
@@ -100,13 +100,33 @@
       "sourceType": "core",
       "sourceArticleId": "nuclear-facilities-in-iran-wp",
       "sourceGeohash4": "tnkf",
-      "mediumPath": "_m/t/n/k/f/nuclear-facilities-in-iran-wp/map-all-nuclear-sites-medium.png",
-      "smallPath": "_m/t/n/k/f/nuclear-facilities-in-iran-wp/map-all-nuclear-sites-small.png"
+      "mediumPath": "_m/t/n/k/f/nuclear-facilities-in-iran-wp/map-all-nuclear-sites-medium.webp",
+      "smallPath": "_m/t/n/k/f/nuclear-facilities-in-iran-wp/map-all-nuclear-sites-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/t/n/k/f/nuclear-facilities-in-iran-wp/map-main-sites-iran-s.png",
     "_m/t/n/k/f/nuclear-facilities-in-iran-wp/map-all-nuclear-sites.png"
   ],
-  "fetchedAt": "2026-03-01T16:07:04.713Z"
+  "narration": {
+    "files": [
+      "tnkf-nuclear-facilities-in-iran-flight-context.mp3",
+      "tnkf-nuclear-facilities-in-iran-intro.mp3",
+      "tnkf-nuclear-facilities-in-iran-the-centrifuges-and-the-mountain.mp3",
+      "tnkf-nuclear-facilities-in-iran-bushehr-and-the-reactor-question.mp3",
+      "tnkf-nuclear-facilities-in-iran-isfahans-quiet-concentration.mp3",
+      "tnkf-nuclear-facilities-in-iran-parchin-and-the-evidence-trail.mp3",
+      "tnkf-nuclear-facilities-in-iran-strikes-and-what-remains.mp3"
+    ],
+    "durations": {
+      "tnkf-nuclear-facilities-in-iran-flight-context.mp3": 60.865875,
+      "tnkf-nuclear-facilities-in-iran-intro.mp3": 63.435,
+      "tnkf-nuclear-facilities-in-iran-the-centrifuges-and-the-mountain.mp3": 70.324125,
+      "tnkf-nuclear-facilities-in-iran-bushehr-and-the-reactor-question.mp3": 75.147125,
+      "tnkf-nuclear-facilities-in-iran-isfahans-quiet-concentration.mp3": 72.341625,
+      "tnkf-nuclear-facilities-in-iran-parchin-and-the-evidence-trail.mp3": 63.325125,
+      "tnkf-nuclear-facilities-in-iran-strikes-and-what-remains.mp3": 77.9838333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

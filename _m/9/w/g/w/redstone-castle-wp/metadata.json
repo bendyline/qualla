@@ -26,8 +26,8 @@
     "sourceType": "core",
     "sourceArticleId": "redstone-castle-wp",
     "sourceGeohash4": "9wgw",
-    "smallPath": "_m/9/w/g/w/redstone-castle-wp/hero-small.jpg",
-    "mediumPath": "_m/9/w/g/w/redstone-castle-wp/hero-medium.jpg"
+    "smallPath": "_m/9/w/g/w/redstone-castle-wp/hero-small.webp",
+    "mediumPath": "_m/9/w/g/w/redstone-castle-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Osgood Castle.JPG",
@@ -111,14 +111,13 @@
       "sourceType": "core",
       "sourceArticleId": "redstone-castle-wp",
       "sourceGeohash4": "9wgw",
-      "smallPath": "_m/9/w/g/w/redstone-castle-wp/photo-john-c-osgood-ch-small.jpg"
+      "smallPath": "_m/9/w/g/w/redstone-castle-wp/photo-john-c-osgood-ch-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/t/u/r/white-sands-missile-range-wk/hero.jpg",
     "_m/9/w/g/w/redstone-castle-wp/photo-john-c-osgood-ch.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:53:36.744Z",
   "narration": {
     "files": [
       "9wgw-redstone-castle-flight-context.mp3",
@@ -136,7 +135,6 @@
       "9wgw-redstone-castle-rise-fall-and-fall-again.mp3": 61.9262083,
       "9wgw-redstone-castle-hollywood-and-history.mp3": 60.19025
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T18:25:30.461Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

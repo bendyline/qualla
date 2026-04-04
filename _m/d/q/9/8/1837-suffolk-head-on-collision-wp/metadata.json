@@ -28,7 +28,7 @@
     "sourceType": "core",
     "sourceArticleId": "1837-suffolk-head-on-collision-wp",
     "sourceGeohash4": "dq98",
-    "smallPath": "_m/d/q/9/8/1837-suffolk-head-on-collision-wp/hero-small.jpg"
+    "smallPath": "_m/d/q/9/8/1837-suffolk-head-on-collision-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Suffolk accident.jpg",
@@ -61,5 +61,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-02-28T03:24:14.783Z"
+  "narration": {
+    "files": [
+      "dq98-1837-suffolk-head-on-collision-flight-context.mp3",
+      "dq98-1837-suffolk-head-on-collision-intro.mp3",
+      "dq98-1837-suffolk-head-on-collision-iron-rails-through-tobacco-country.mp3",
+      "dq98-1837-suffolk-head-on-collision-the-blind-curve-at-goodwins-landing.mp3",
+      "dq98-1837-suffolk-head-on-collision-tragedy-compounded.mp3",
+      "dq98-1837-suffolk-head-on-collision-a-grim-first-in-railroad-history.mp3"
+    ],
+    "durations": {
+      "dq98-1837-suffolk-head-on-collision-flight-context.mp3": 46.52125,
+      "dq98-1837-suffolk-head-on-collision-intro.mp3": 51.8628333,
+      "dq98-1837-suffolk-head-on-collision-iron-rails-through-tobacco-country.mp3": 59.0729166,
+      "dq98-1837-suffolk-head-on-collision-the-blind-curve-at-goodwins-landing.mp3": 62.8212083,
+      "dq98-1837-suffolk-head-on-collision-tragedy-compounded.mp3": 50.4621666,
+      "dq98-1837-suffolk-head-on-collision-a-grim-first-in-railroad-history.mp3": 64.4131666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -87,14 +87,24 @@
       "distanceKm": 4258.4
     },
     "n": {
-      "id": "arctic-red-river-tsiigehtchic-wk",
-      "title": "Tsiigehtchic: Where Rivers Meet at the Arctic Circle",
-      "tile": "c5bz",
+      "id": "tr-na-lighthouse-wp",
+      "title": "Træna Lighthouse",
+      "tile": "u7b9",
       "coordinates": {
-        "lat": 67.44,
-        "lng": -133.75
+        "lat": 66.4306,
+        "lng": 11.9681
       },
-      "distanceKm": 4354.8
+      "distanceKm": 1339
+    },
+    "ne": {
+      "id": "skomv-r-lighthouse-wp",
+      "title": "Skomvær Lighthouse",
+      "tile": "u7br",
+      "coordinates": {
+        "lat": 67.4109183,
+        "lng": 11.874925
+      },
+      "distanceKm": 1295.3
     },
     "w": {
       "id": "aurora-iceland-wk",
@@ -107,14 +117,14 @@
       "distanceKm": 243.2
     },
     "e": {
-      "id": "west-highland-way-wk",
-      "title": "West Highland Way",
-      "tile": "gfh8",
+      "id": "action-of-16-march-1917-wp",
+      "title": "Action of 16 March 1917",
+      "tile": "u583",
       "coordinates": {
-        "lat": 56.2935,
-        "lng": -4.6962
+        "lat": 64.9,
+        "lng": 0.36666667
       },
-      "distanceKm": 1246.3
+      "distanceKm": 835.8
     },
     "sw": {
       "id": "reykjavik-wk",
@@ -137,14 +147,14 @@
       "distanceKm": 147.3
     },
     "se": {
-      "id": "flannan-isles-wk",
-      "title": "The Flannan Isles Mystery: The Lighthouse Keepers Who Vanished",
-      "tile": "gf6e",
+      "id": "sms-leopard-1917-wp",
+      "title": "SMS Leopard (1917)",
+      "tile": "u583",
       "coordinates": {
-        "lat": 58.2886,
-        "lng": -7.5872
+        "lat": 64.9,
+        "lng": 0.36666667
       },
-      "distanceKm": 945.5
+      "distanceKm": 837.6
     }
   },
   "keywords": [

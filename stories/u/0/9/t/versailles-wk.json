@@ -77,84 +77,84 @@
   "locationWikivoyagePath": "u/0/9/t/versailles-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "d-day-beaches-wk",
-      "title": "D-Day: The Longest Day",
-      "tile": "gbzb",
+      "id": "battle-of-cocherel-wp",
+      "title": "Battle of Cocherel",
+      "tile": "u08z",
       "coordinates": {
-        "lat": 49.24209,
-        "lng": -0.27375
+        "lat": 49.059,
+        "lng": 1.342
       },
-      "distanceKm": 149.4
+      "distanceKm": 30.4
     },
     "n": {
-      "id": "battle-of-messines-1917-wp",
-      "title": "Battle of Messines (1917)",
-      "tile": "u140",
+      "id": "royaumont-abbey-wp",
+      "title": "Royaumont Abbey",
+      "tile": "u09x",
       "coordinates": {
-        "lat": 50.7625,
-        "lng": 2.895277777777778
+        "lat": 49.1475,
+        "lng": 2.3819
       },
-      "distanceKm": 196.1
+      "distanceKm": 13.6
     },
     "ne": {
-      "id": "battle-of-the-lys-1918-wp",
-      "title": "Battle of the Lys (1918)",
-      "tile": "u140",
+      "id": "vierzy-tunnel-disaster-wp",
+      "title": "Vierzy Tunnel Disaster",
+      "tile": "u0f2",
       "coordinates": {
-        "lat": 50.705555555555556,
-        "lng": 2.9
+        "lat": 49.299214,
+        "lng": 3.293924
       },
-      "distanceKm": 185
+      "distanceKm": 45.1
     },
     "w": {
-      "id": "mont-saint-michel-wk",
-      "title": "Mont Saint-Michel: The Abbey That Becomes an Island Twice a Day",
-      "tile": "gbwu",
+      "id": "battle-of-verneuil-wp",
+      "title": "Battle of Verneuil",
+      "tile": "u08t",
       "coordinates": {
-        "lat": 48.6361,
-        "lng": -1.5114
+        "lat": 48.755,
+        "lng": 0.94
       },
-      "distanceKm": 240.4
+      "distanceKm": 60
     },
     "e": {
-      "id": "battle-of-messines-1914-wp",
-      "title": "Battle of Messines (1914)",
-      "tile": "u140",
+      "id": "siege-of-sancerre-wp",
+      "title": "Siege of Sancerre",
+      "tile": "u06j",
       "coordinates": {
-        "lat": 50.766666666666666,
-        "lng": 2.9
+        "lat": 47.331111111111,
+        "lng": 2.8388888888889
       },
-      "distanceKm": 221.1
+      "distanceKm": 161
     },
     "sw": {
-      "id": "lascaux-cave-wk",
-      "title": "Lascaux Cave: The Sistine Chapel of Prehistory",
-      "tile": "u00b",
+      "id": "chartres-cathedral-wp",
+      "title": "Chartres Cathedral",
+      "tile": "u095",
       "coordinates": {
-        "lat": 45.0545,
-        "lng": 1.1683
+        "lat": 48.44777777777778,
+        "lng": 1.4877777777777776
       },
-      "distanceKm": 387.5
+      "distanceKm": 21.3
     },
     "s": {
-      "id": "alsace-wk",
-      "title": "Alsace",
-      "tile": "u0t7",
+      "id": "siege-of-montargis-wp",
+      "title": "Siege of Montargis",
+      "tile": "u09c",
       "coordinates": {
-        "lat": 48.5,
-        "lng": 7.5
+        "lat": 47.996944444,
+        "lng": 2.7325
       },
-      "distanceKm": 384.1
+      "distanceKm": 66.5
     },
     "se": {
-      "id": "lyon-wk",
-      "title": "Lyon",
-      "tile": "u05k",
+      "id": "battle-of-cravant-wp",
+      "title": "Battle of Cravant",
+      "tile": "u06x",
       "coordinates": {
-        "lat": 45.764,
-        "lng": 4.8357
+        "lat": 47.683888888889,
+        "lng": 3.6916666666667
       },
-      "distanceKm": 342.1
+      "distanceKm": 113.2
     }
   },
   "keywords": [

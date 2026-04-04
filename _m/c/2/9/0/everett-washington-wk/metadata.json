@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "everett-washington-wk",
     "sourceGeohash4": "c290",
-    "smallPath": "_m/c/2/9/0/everett-washington-wk/hero-small.jpg",
-    "mediumPath": "_m/c/2/9/0/everett-washington-wk/hero-medium.jpg"
+    "smallPath": "_m/c/2/9/0/everett-washington-wk/hero-small.webp",
+    "mediumPath": "_m/c/2/9/0/everett-washington-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Everett, WA - Hewitt Ave Historic District pano 02.jpg",
@@ -158,8 +158,8 @@
       "sourceType": "core",
       "sourceArticleId": "everett-washington-wk",
       "sourceGeohash4": "c290",
-      "smallPath": "_m/c/2/9/0/everett-washington-wk/boeing-proposing-build-small.jpg",
-      "mediumPath": "_m/c/2/9/0/everett-washington-wk/boeing-proposing-build-medium.jpg"
+      "smallPath": "_m/c/2/9/0/everett-washington-wk/boeing-proposing-build-small.webp",
+      "mediumPath": "_m/c/2/9/0/everett-washington-wk/boeing-proposing-build-medium.webp"
     },
     {
       "filename": "Jetstar's first 787 on the production line (9132370198).jpg",
@@ -188,8 +188,8 @@
       "sourceType": "core",
       "sourceArticleId": "everett-washington-wk",
       "sourceGeohash4": "c290",
-      "smallPath": "_m/c/2/9/0/everett-washington-wk/first-australian-regis-small.jpg",
-      "mediumPath": "_m/c/2/9/0/everett-washington-wk/first-australian-regis-medium.jpg"
+      "smallPath": "_m/c/2/9/0/everett-washington-wk/first-australian-regis-small.webp",
+      "mediumPath": "_m/c/2/9/0/everett-washington-wk/first-australian-regis-medium.webp"
     },
     {
       "filename": "Community Transit commuter buses approaching Seattle.jpg",
@@ -230,8 +230,8 @@
       "sourceType": "core",
       "sourceArticleId": "everett-washington-wk",
       "sourceGeohash4": "c290",
-      "smallPath": "_m/c/2/9/0/everett-washington-wk/skyline-everett-washin-small.jpg",
-      "mediumPath": "_m/c/2/9/0/everett-washington-wk/skyline-everett-washin-medium.jpg"
+      "smallPath": "_m/c/2/9/0/everett-washington-wk/skyline-everett-washin-small.webp",
+      "mediumPath": "_m/c/2/9/0/everett-washington-wk/skyline-everett-washin-medium.webp"
     },
     {
       "filename": "Everett Station from Smith Ave, April 2020.jpg",
@@ -251,8 +251,8 @@
       "sourceType": "core",
       "sourceArticleId": "everett-washington-wk",
       "sourceGeohash4": "c290",
-      "smallPath": "_m/c/2/9/0/everett-washington-wk/main-building-everett-small.jpg",
-      "mediumPath": "_m/c/2/9/0/everett-washington-wk/main-building-everett-medium.jpg"
+      "smallPath": "_m/c/2/9/0/everett-washington-wk/main-building-everett-small.webp",
+      "mediumPath": "_m/c/2/9/0/everett-washington-wk/main-building-everett-medium.webp"
     },
     {
       "filename": "Greyhound bus at Framingham MA December 2025 cropped.jpg",
@@ -286,26 +286,24 @@
     "_m/c/2/9/0/everett-washington-wk/main-building-everett.jpg",
     "_m/9/r/b/6/eugene-wk/greyhound-bus-framingh.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:04:09.455Z",
   "updatedAt": "2026-01-29T12:55:09.101Z",
   "narration": {
     "files": [
       "c290-everett-flight-context.mp3",
-      "c290-everett-gateway-north.mp3",
       "c290-everett-intro.mp3",
-      "c290-everett-paine-field.mp3",
       "c290-everett-the-factory.mp3",
-      "c290-everett-working-waterfront.mp3"
+      "c290-everett-working-waterfront.mp3",
+      "c290-everett-gateway-north.mp3",
+      "c290-everett-paine-field.mp3"
     ],
     "durations": {
-      "c290-everett-flight-context.mp3": 50.712,
-      "c290-everett-gateway-north.mp3": 52.824,
-      "c290-everett-intro.mp3": 46.032,
-      "c290-everett-paine-field.mp3": 51.552,
-      "c290-everett-the-factory.mp3": 54.024,
-      "c290-everett-working-waterfront.mp3": 49.152
+      "c290-everett-flight-context.mp3": 48.883625,
+      "c290-everett-intro.mp3": 45.6372083,
+      "c290-everett-the-factory.mp3": 51.2854166,
+      "c290-everett-working-waterfront.mp3": 49.0847916,
+      "c290-everett-gateway-north.mp3": 52.2072083,
+      "c290-everett-paine-field.mp3": 52.7443333
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:57.534Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

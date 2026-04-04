@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "los-alamos-ranch-school-wp",
     "sourceGeohash4": "9wkk",
-    "smallPath": "_m/9/w/k/k/los-alamos-ranch-school-wp/hero-small.jpg",
-    "mediumPath": "_m/9/w/k/k/los-alamos-ranch-school-wp/hero-medium.jpg"
+    "smallPath": "_m/9/w/k/k/los-alamos-ranch-school-wp/hero-small.webp",
+    "mediumPath": "_m/9/w/k/k/los-alamos-ranch-school-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Fuller lodge los alamos.jpg",
@@ -74,7 +74,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "los-alamos-ranch-school-wp",
-      "sourceGeohash4": "9wkk"
+      "sourceGeohash4": "9wkk",
+      "smallPath": "_m/9/w/k/k/los-alamos-ranch-school-wp/los-alamos-ranch-school-seizur-small.webp"
     },
     {
       "filename": "HD.4G.096 (35244651000).jpg",
@@ -96,14 +97,15 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "los-alamos-ranch-school-wp",
-      "sourceGeohash4": "9wkk"
+      "sourceGeohash4": "9wkk",
+      "mediumPath": "_m/9/w/k/k/los-alamos-ranch-school-wp/hd-4g-096-35244651000-medium.webp",
+      "smallPath": "_m/9/w/k/k/los-alamos-ranch-school-wp/hd-4g-096-35244651000-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/w/k/k/los-alamos-ranch-school-wp/los-alamos-ranch-school-seizur.jpg",
     "_m/9/w/k/k/los-alamos-ranch-school-wp/hd-4g-096-35244651000.jpg"
   ],
-  "fetchedAt": "2026-02-22T00:01:49.672Z",
   "narration": {
     "files": [
       "9wkk-los-alamos-ranch-school-flight-context.mp3",
@@ -123,8 +125,7 @@
       "9wkk-los-alamos-ranch-school-the-letter-that-ended-everything.mp3": 56.1941666,
       "9wkk-los-alamos-ranch-school-what-remains-on-the-mesa.mp3": 57.8639166
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T19:39:09.464Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T00:01:50.135Z"
 }

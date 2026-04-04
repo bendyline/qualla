@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/m/v/v/slab-city-squatters-wk/9mun-slab-city-the-last-free-place-in-america-intro.mp3",
-        "_m/9/m/v/v/slab-city-squatters-wk/9mun-slab-city-the-last-free-place-in-america-flight-context.mp3",
-        "_m/9/m/v/v/slab-city-squatters-wk/9mun-slab-city-the-last-free-place-in-america-salvation-mountain.mp3",
-        "_m/9/m/v/v/slab-city-squatters-wk/9mun-slab-city-the-last-free-place-in-america-the-community.mp3",
-        "_m/9/m/v/v/slab-city-squatters-wk/9mun-slab-city-the-last-free-place-in-america-the-future.mp3",
-        "_m/9/m/v/v/slab-city-squatters-wk/9mun-slab-city-the-last-free-place-in-america-the-origins.mp3",
-        "_m/9/m/v/v/slab-city-squatters-wk/9mun-slab-city-the-last-free-place-in-america-visiting-slab-city.mp3"
+        "_m/9/m/v/v/slab-city-squatters-wk/9mvv-slab-city-the-last-free-place-in-america-flight-context.mp3",
+        "_m/9/m/v/v/slab-city-squatters-wk/9mvv-slab-city-the-last-free-place-in-america-intro.mp3",
+        "_m/9/m/v/v/slab-city-squatters-wk/9mvv-slab-city-the-last-free-place-in-america-the-origins.mp3",
+        "_m/9/m/v/v/slab-city-squatters-wk/9mvv-slab-city-the-last-free-place-in-america-the-community.mp3",
+        "_m/9/m/v/v/slab-city-squatters-wk/9mvv-slab-city-the-last-free-place-in-america-salvation-mountain.mp3",
+        "_m/9/m/v/v/slab-city-squatters-wk/9mvv-slab-city-the-last-free-place-in-america-the-future.mp3",
+        "_m/9/m/v/v/slab-city-squatters-wk/9mvv-slab-city-the-last-free-place-in-america-visiting-slab-city.mp3"
       ],
       "hero": {
         "path": "_m/9/m/v/v/salvation-mountain-folk-art-wk/salvation-mountain.jpg",
@@ -30,7 +30,9 @@
           "CC-BY-SA-2.0",
           "Flickr images reviewed by File Upload Bot (Magnus Manske)",
           "Salvation Mountain"
-        ]
+        ],
+        "mediumPath": "_m/9/m/v/v/slab-city-squatters-wk/hero-medium.webp",
+        "smallPath": "_m/9/m/v/v/slab-city-squatters-wk/hero-small.webp"
       },
       "images": [
         {
@@ -300,7 +302,8 @@
             "Self-published work"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/m/v/v/slab-city-squatters-wk/9mvv-slab-city-squatters-combined.mp3"
     }
   }
 }

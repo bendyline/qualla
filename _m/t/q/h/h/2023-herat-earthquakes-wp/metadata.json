@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "2023-herat-earthquakes-wp",
     "sourceGeohash4": "tqhh",
-    "mediumPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/hero-medium.jpg",
-    "smallPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/hero-small.jpg"
+    "mediumPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/hero-medium.webp",
+    "smallPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "2023 Herat earthquakes rescue efforts 1.png",
@@ -102,7 +102,7 @@
       "sourceType": "core",
       "sourceArticleId": "2023-herat-earthquakes-wp",
       "sourceGeohash4": "tqhh",
-      "smallPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/destruction-herat-prov-small.png"
+      "smallPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/destruction-herat-prov-small.webp"
     },
     {
       "filename": "2023 Herat earthquakes damage 1.png",
@@ -124,7 +124,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "2023-herat-earthquakes-wp",
       "sourceGeohash4": "tqhh",
-      "smallPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/2023-herat-earthquakes-damage--small.png"
+      "smallPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/2023-herat-earthquakes-damage--small.webp"
     },
     {
       "filename": "2023 Herat earthquakes relief 1.png",
@@ -146,8 +146,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "2023-herat-earthquakes-wp",
       "sourceGeohash4": "tqhh",
-      "mediumPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/2023-herat-earthquakes-relief--medium.png",
-      "smallPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/2023-herat-earthquakes-relief--small.png"
+      "mediumPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/2023-herat-earthquakes-relief--medium.webp",
+      "smallPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/2023-herat-earthquakes-relief--small.webp"
     },
     {
       "filename": "2023 Herat earthquakes rescue efforts 1 (cropped).png",
@@ -170,7 +170,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "2023-herat-earthquakes-wp",
       "sourceGeohash4": "tqhh",
-      "smallPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/2023-herat-earthquakes-rescue--small.png"
+      "smallPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/2023-herat-earthquakes-rescue--small.webp"
     }
   ],
   "galleryPaths": [
@@ -180,6 +180,26 @@
     "_m/t/q/h/h/2023-herat-earthquakes-wp/2023-herat-earthquakes-relief-.png",
     "_m/t/q/h/h/2023-herat-earthquakes-wp/2023-herat-earthquakes-rescue-.png"
   ],
-  "fetchedAt": "2026-03-01T17:41:09.495Z",
-  "updatedAt": "2026-03-01T17:41:31.674Z"
+  "updatedAt": "2026-03-01T17:41:31.674Z",
+  "narration": {
+    "files": [
+      "tqhh-2023-herat-earthquakes-flight-context.mp3",
+      "tqhh-2023-herat-earthquakes-intro.mp3",
+      "tqhh-2023-herat-earthquakes-fault-lines-visible-and-invisible.mp3",
+      "tqhh-2023-herat-earthquakes-digging-with-bare-hands.mp3",
+      "tqhh-2023-herat-earthquakes-a-tent-city-in-winter.mp3",
+      "tqhh-2023-herat-earthquakes-the-world-responds.mp3",
+      "tqhh-2023-herat-earthquakes-building-back-one-wall-at-a-time.mp3"
+    ],
+    "durations": {
+      "tqhh-2023-herat-earthquakes-flight-context.mp3": 43.41525,
+      "tqhh-2023-herat-earthquakes-intro.mp3": 44.8822083,
+      "tqhh-2023-herat-earthquakes-fault-lines-visible-and-invisible.mp3": 70.1011666,
+      "tqhh-2023-herat-earthquakes-digging-with-bare-hands.mp3": 67.0487083,
+      "tqhh-2023-herat-earthquakes-a-tent-city-in-winter.mp3": 61.4430833,
+      "tqhh-2023-herat-earthquakes-the-world-responds.mp3": 69.48825,
+      "tqhh-2023-herat-earthquakes-building-back-one-wall-at-a-time.mp3": 64.0281666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

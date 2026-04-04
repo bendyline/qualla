@@ -77,87 +77,90 @@
   "locationWikivoyagePath": "w/x/h/1/tangshan-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "great-wall-wk",
-      "title": "The Great Wall: The Monument Built on Bones",
-      "tile": "wx4m",
+      "id": "eastern-qing-tombs-wp",
+      "title": "Eastern Qing Tombs",
+      "tile": "wx5s",
       "coordinates": {
-        "lat": 40.3544,
-        "lng": 116.0042
+        "lat": 40.193333333333,
+        "lng": 117.65111111111
       },
-      "distanceKm": 158.6
+      "distanceKm": 34
     },
     "n": {
-      "id": "vitim-event-wk",
-      "title": "The Vitim Event: Tunguska's Little-Known Sequel",
-      "tile": "yd2e",
+      "id": "panjiakou-dam-wp",
+      "title": "Panjiakou Dam",
+      "tile": "wxhj",
       "coordinates": {
-        "lat": 58.3,
-        "lng": 113.5
+        "lat": 40.38861111,
+        "lng": 118.27972222
       },
-      "distanceKm": 2074.1
+      "distanceKm": 54.1
     },
     "ne": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "qinhuangdao-wp",
+      "title": "Qinhuangdao",
+      "tile": "wxj5",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 39.93978,
+        "lng": 119.58812
       },
-      "distanceKm": 385.2
+      "distanceKm": 64.9
     },
     "w": {
-      "id": "baotou-wk",
-      "title": "Baotou",
-      "tile": "wrnp",
+      "id": "guangji-temple-tianjin-wp",
+      "title": "Guangji Temple (Tianjin)",
+      "tile": "wx56",
       "coordinates": {
-        "lat": 40.656,
-        "lng": 109.834
+        "lat": 39.733144,
+        "lng": 117.311697
       },
-      "distanceKm": 684
+      "distanceKm": 40.9
     },
     "e": {
-      "id": "kono-shrine-wp",
-      "title": "Kono Shrine",
-      "tile": "xn24",
+      "id": "beidaihe-qinhuangdao-wp",
+      "title": "Beidaihe, Qinhuangdao",
+      "tile": "wxhf",
       "coordinates": {
-        "lat": 35.58281388888889,
-        "lng": 135.19666944444444
+        "lat": 39.82406,
+        "lng": 119.47964
       },
-      "distanceKm": 1508.2
+      "distanceKm": 59.4
     },
     "sw": {
-      "id": "hong-kong-wk",
-      "title": "Hong Kong",
-      "tile": "wecn",
+      "id": "2015-tianjin-explosions-wp",
+      "title": "2015 Tianjin Explosions",
+      "tile": "wwgw",
       "coordinates": {
-        "lat": 22.27,
-        "lng": 114.17
+        "lat": 39.039722222222,
+        "lng": 117.73638888889
       },
-      "distanceKm": 1932.4
+      "distanceKm": 37.4
     },
     "s": {
-      "id": "amanohashidate-wp",
-      "title": "Amanohashidate",
-      "tile": "xn24",
+      "id": "sino-singapore-tianjin-eco-city-wp",
+      "title": "Sino-Singapore Tianjin Eco-City",
+      "tile": "wwgy",
       "coordinates": {
-        "lat": 35.569358333333334,
-        "lng": 135.19151666666667
+        "lat": 39.153138888889,
+        "lng": 117.78351944444
       },
-      "distanceKm": 1546.8
+      "distanceKm": 50.9
     },
     "se": {
-      "id": "nariai-ji-wp",
-      "title": "Nariai-ji",
-      "tile": "xn24",
+      "id": "bohai-sea-wp",
+      "title": "Bohai Sea",
+      "tile": "wwvk",
       "coordinates": {
-        "lat": 35.59543888888889,
-        "lng": 135.18737222222222
+        "lat": 38.7,
+        "lng": 119.9
       },
-      "distanceKm": 1500.9
+      "distanceKm": 119.2
     }
   },
   "keywords": [
     "tangshan-earthquake"
+  ],
+  "duplicates": [
+    "tangshan-wp"
   ]
 }

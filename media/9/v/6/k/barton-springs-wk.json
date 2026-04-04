@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/v/6/k/barton-springs-wk/9v6g-barton-springs-intro.mp3",
-        "_m/9/v/6/k/barton-springs-wk/9v6g-barton-springs-flight-context.mp3",
-        "_m/9/v/6/k/barton-springs-wk/9v6g-barton-springs-the-culture.mp3",
-        "_m/9/v/6/k/barton-springs-wk/9v6g-barton-springs-the-history.mp3",
-        "_m/9/v/6/k/barton-springs-wk/9v6g-barton-springs-the-salamander.mp3",
-        "_m/9/v/6/k/barton-springs-wk/9v6g-barton-springs-the-springs.mp3",
-        "_m/9/v/6/k/barton-springs-wk/9v6g-barton-springs-visiting-barton-springs.mp3"
+        "_m/9/v/6/k/barton-springs-wk/9v6k-barton-springs-flight-context.mp3",
+        "_m/9/v/6/k/barton-springs-wk/9v6k-barton-springs-intro.mp3",
+        "_m/9/v/6/k/barton-springs-wk/9v6k-barton-springs-the-springs.mp3",
+        "_m/9/v/6/k/barton-springs-wk/9v6k-barton-springs-the-history.mp3",
+        "_m/9/v/6/k/barton-springs-wk/9v6k-barton-springs-the-salamander.mp3",
+        "_m/9/v/6/k/barton-springs-wk/9v6k-barton-springs-the-culture.mp3",
+        "_m/9/v/6/k/barton-springs-wk/9v6k-barton-springs-visiting-barton-springs.mp3"
       ],
       "hero": {
         "path": "_m/9/v/6/k/barton-springs-wk/sunken-garden-spring-austin-te.jpg",
@@ -68,7 +68,8 @@
             "Rock pools in the United States",
             "Unknown date"
           ],
-          "smallPath": "_m/9/v/6/k/barton-springs-wk/hero-small.jpg"
+          "smallPath": "_m/9/v/6/k/barton-springs-wk/sunken-garden-spring-austin-te-small.webp",
+          "mediumPath": "_m/9/v/6/k/barton-springs-wk/sunken-garden-spring-austin-te-medium.webp"
         },
         {
           "path": "_m/9/v/6/k/barton-springs-wk/old-mill-spring-austin-outflow.jpg",
@@ -94,8 +95,8 @@
             "Self-published work",
             "United States photographs taken on 2016-06-21"
           ],
-          "smallPath": "_m/9/v/6/k/barton-springs-wk/old-mill-spring-austin-outflow-small.jpg",
-          "mediumPath": "_m/9/v/6/k/barton-springs-wk/old-mill-spring-austin-outflow-medium.jpg"
+          "smallPath": "_m/9/v/6/k/barton-springs-wk/old-mill-spring-austin-outflow-small.webp",
+          "mediumPath": "_m/9/v/6/k/barton-springs-wk/old-mill-spring-austin-outflow-medium.webp"
         },
         {
           "path": "_m/9/v/6/k/barton-springs-wk/old-mill-spring-austin.jpg",
@@ -121,8 +122,8 @@
             "Self-published work",
             "United States photographs taken on 2016-06-21"
           ],
-          "smallPath": "_m/9/v/6/k/barton-springs-wk/old-mill-spring-austin-small.jpg",
-          "mediumPath": "_m/9/v/6/k/barton-springs-wk/old-mill-spring-austin-medium.jpg"
+          "smallPath": "_m/9/v/6/k/barton-springs-wk/old-mill-spring-austin-small.webp",
+          "mediumPath": "_m/9/v/6/k/barton-springs-wk/old-mill-spring-austin-medium.webp"
         },
         {
           "path": "_m/9/v/6/k/barton-springs-wk/old-mill-spring-austin-texas-u.jpg",
@@ -146,8 +147,8 @@
             "HDR gain-mapped images",
             "Uploaded with LrMediaWiki"
           ],
-          "smallPath": "_m/9/v/6/k/barton-springs-wk/old-mill-spring-austin-texas-u-small.jpg",
-          "mediumPath": "_m/9/v/6/k/barton-springs-wk/old-mill-spring-austin-texas-u-medium.jpg"
+          "smallPath": "_m/9/v/6/k/barton-springs-wk/old-mill-spring-austin-texas-u-small.webp",
+          "mediumPath": "_m/9/v/6/k/barton-springs-wk/old-mill-spring-austin-texas-u-medium.webp"
         },
         {
           "path": "_m/9/v/6/k/austin-wk/hero.jpg",
@@ -217,7 +218,8 @@
             "Self-published work"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/v/6/k/barton-springs-wk/9v6k-barton-springs-combined.mp3"
     }
   }
 }

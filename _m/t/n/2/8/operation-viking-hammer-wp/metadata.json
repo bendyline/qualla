@@ -26,7 +26,7 @@
     "sourceType": "core",
     "sourceArticleId": "operation-viking-hammer-wp",
     "sourceGeohash4": "tn28",
-    "smallPath": "_m/t/n/2/8/operation-viking-hammer-wp/hero-small.jpg"
+    "smallPath": "_m/t/n/2/8/operation-viking-hammer-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Operation VIking Hammer Peshmerga Special Forces and CIA.jpg",
@@ -87,7 +87,7 @@
       "sourceType": "core",
       "sourceArticleId": "operation-viking-hammer-wp",
       "sourceGeohash4": "tn28",
-      "smallPath": "_m/t/n/2/8/operation-viking-hammer-wp/flag-patriotic-union-k-small.png"
+      "smallPath": "_m/t/n/2/8/operation-viking-hammer-wp/flag-patriotic-union-k-small.webp"
     },
     {
       "filename": "Halabja.jpg",
@@ -119,5 +119,25 @@
     "_m/t/n/2/8/operation-viking-hammer-wp/flag-patriotic-union-k.png",
     "_m/t/n/2/8/halabja-wp/hero.jpg"
   ],
-  "fetchedAt": "2026-03-01T12:02:49.781Z"
+  "narration": {
+    "files": [
+      "tn28-operation-viking-hammer-flight-context.mp3",
+      "tn28-operation-viking-hammer-intro.mp3",
+      "tn28-operation-viking-hammer-the-enemy-in-the-mountains.mp3",
+      "tn28-operation-viking-hammer-sixty-four-tomahawks.mp3",
+      "tn28-operation-viking-hammer-four-lines-of-advance.mp3",
+      "tn28-operation-viking-hammer-night-pressure-border-flight.mp3",
+      "tn28-operation-viking-hammer-a-battle-fought-on-foot.mp3"
+    ],
+    "durations": {
+      "tn28-operation-viking-hammer-flight-context.mp3": 45.3183333,
+      "tn28-operation-viking-hammer-intro.mp3": 50.436,
+      "tn28-operation-viking-hammer-the-enemy-in-the-mountains.mp3": 49.156875,
+      "tn28-operation-viking-hammer-sixty-four-tomahawks.mp3": 50.311875,
+      "tn28-operation-viking-hammer-four-lines-of-advance.mp3": 53.761375,
+      "tn28-operation-viking-hammer-night-pressure-border-flight.mp3": 48.6114166,
+      "tn28-operation-viking-hammer-a-battle-fought-on-foot.mp3": 64.14575
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

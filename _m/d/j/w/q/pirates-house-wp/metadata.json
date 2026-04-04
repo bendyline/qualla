@@ -28,7 +28,7 @@
     "sourceType": "core",
     "sourceArticleId": "pirates-house-wp",
     "sourceGeohash4": "djwq",
-    "smallPath": "_m/d/j/w/q/pirates-house-wp/hero-small.jpg"
+    "smallPath": "_m/d/j/w/q/pirates-house-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Pirates House, Savannah Georgia April 1984.jpg",
@@ -87,13 +87,14 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "pirates-house-wp",
-      "sourceGeohash4": "djwq"
+      "sourceGeohash4": "djwq",
+      "mediumPath": "_m/d/j/w/q/pirates-house-wp/pirate-s-house-restaur-medium.webp",
+      "smallPath": "_m/d/j/w/q/pirates-house-wp/pirate-s-house-restaur-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/d/j/w/q/savannah-wk/pirate-s-house-restaur.jpg"
   ],
-  "fetchedAt": "2026-02-22T10:24:59.505Z",
   "narration": {
     "files": [
       "djwq-pirates-house-where-treasure-island-meets-southern-flight-context.mp3",
@@ -111,7 +112,6 @@
       "djwq-pirates-house-where-treasure-island-meets-southern-stevensons-ghost.mp3": 49.3723333,
       "djwq-pirates-house-where-treasure-island-meets-southern-rescue-and-rebirth.mp3": 58.5835416
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-24T06:58:13.212Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

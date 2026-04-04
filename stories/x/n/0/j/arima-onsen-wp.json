@@ -126,14 +126,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "tottori-sand-dunes-wp",
+      "title": "Tottori Sand Dunes",
+      "tile": "wyr6",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 35.54,
+        "lng": 134.2275
       },
-      "distanceKm": 1210.6
+      "distanceKm": 73
     },
     "n": {
       "id": "sasayama-castle-wp",
@@ -156,14 +156,14 @@
       "distanceKm": 0.7
     },
     "w": {
-      "id": "tangshan-earthquake-wk",
-      "title": "The Tangshan Earthquake: The Deadliest Quake of the 20th Century",
-      "tile": "wxh1",
+      "id": "bando-prisoner-of-war-camp-wp",
+      "title": "Bando Prisoner-of-War Camp",
+      "tile": "wypd",
       "coordinates": {
-        "lat": 39.6292,
-        "lng": 118.1742
+        "lat": 34.15,
+        "lng": 134.5
       },
-      "distanceKm": 1555.6
+      "distanceKm": 64.5
     },
     "e": {
       "id": "chikurin-ji-wp",
@@ -176,14 +176,14 @@
       "distanceKm": 4.9
     },
     "sw": {
-      "id": "hong-kong-wk",
-      "title": "Hong Kong",
-      "tile": "wecn",
+      "id": "shikoku-pilgrimage-wp",
+      "title": "Shikoku Pilgrimage",
+      "tile": "wypd",
       "coordinates": {
-        "lat": 22.27,
-        "lng": 114.17
+        "lat": 34.159803,
+        "lng": 134.502592
       },
-      "distanceKm": 2410.8
+      "distanceKm": 35.3
     },
     "s": {
       "id": "kansai-international-airport-wk",
@@ -205,5 +205,7 @@
       },
       "distanceKm": 9.3
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/0/j/arima-onsen-wp",
+  "locationWikivoyagePath": "x/n/0/j/arima-onsen-wk"
 }

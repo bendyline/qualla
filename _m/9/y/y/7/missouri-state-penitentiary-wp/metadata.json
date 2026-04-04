@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "missouri-state-penitentiary-wp",
     "sourceGeohash4": "9yy7",
-    "smallPath": "_m/9/y/y/7/missouri-state-penitentiary-wp/hero-small.jpg",
-    "mediumPath": "_m/9/y/y/7/missouri-state-penitentiary-wp/hero-medium.jpg"
+    "smallPath": "_m/9/y/y/7/missouri-state-penitentiary-wp/hero-small.webp",
+    "mediumPath": "_m/9/y/y/7/missouri-state-penitentiary-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Missouri State Penitentiary, Jefferson City.jpg",
@@ -77,7 +77,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "missouri-state-penitentiary-wp",
-      "sourceGeohash4": "9yy7"
+      "sourceGeohash4": "9yy7",
+      "mediumPath": "_m/9/y/y/7/missouri-state-penitentiary-wp/missouri-state-penitentiary-wa-medium.webp",
+      "smallPath": "_m/9/y/y/7/missouri-state-penitentiary-wp/missouri-state-penitentiary-wa-small.webp"
     },
     {
       "filename": "Missouri State Penitentiary, Jefferson City, MO \"Victims Memorial\" Sculpture.jpg",
@@ -107,7 +109,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "missouri-state-penitentiary-wp",
-      "sourceGeohash4": "9yy7"
+      "sourceGeohash4": "9yy7",
+      "mediumPath": "_m/9/y/y/7/missouri-state-penitentiary-wp/missouri-state-penitentiary-je-medium.webp",
+      "smallPath": "_m/9/y/y/7/missouri-state-penitentiary-wp/missouri-state-penitentiary-je-small.webp"
     },
     {
       "filename": "Missouri State Penitentiary, Jefferson City, MO \"Victims Memorial\" plaque.jpg",
@@ -137,7 +141,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "missouri-state-penitentiary-wp",
-      "sourceGeohash4": "9yy7"
+      "sourceGeohash4": "9yy7",
+      "mediumPath": "_m/9/y/y/7/missouri-state-penitentiary-wp/missouri-state-penitentiary-je-1-medium.webp",
+      "smallPath": "_m/9/y/y/7/missouri-state-penitentiary-wp/missouri-state-penitentiary-je-1-small.webp"
     },
     {
       "filename": "Missouri State Penitentiary.jpg",
@@ -171,7 +177,8 @@
       "dateCreated": "2017-10-14 20:03",
       "sourceType": "commons-category",
       "sourceArticleId": "missouri-state-penitentiary-wp",
-      "sourceGeohash4": "9yy7"
+      "sourceGeohash4": "9yy7",
+      "smallPath": "_m/9/y/y/7/missouri-state-penitentiary-wp/death-chamber-at-missouri-stat-small.webp"
     },
     {
       "filename": "Death chamber at Missouri State Penitentiary (26457190868).jpg",
@@ -188,7 +195,9 @@
       "dateCreated": "2017-10-14 20:06",
       "sourceType": "commons-category",
       "sourceArticleId": "missouri-state-penitentiary-wp",
-      "sourceGeohash4": "9yy7"
+      "sourceGeohash4": "9yy7",
+      "mediumPath": "_m/9/y/y/7/missouri-state-penitentiary-wp/death-chamber-at-missouri-stat-1-medium.webp",
+      "smallPath": "_m/9/y/y/7/missouri-state-penitentiary-wp/death-chamber-at-missouri-stat-1-small.webp"
     },
     {
       "filename": "Gas Chamber (25457326117).jpg",
@@ -205,7 +214,8 @@
       "dateCreated": "2017-10-14 20:11",
       "sourceType": "commons-category",
       "sourceArticleId": "missouri-state-penitentiary-wp",
-      "sourceGeohash4": "9yy7"
+      "sourceGeohash4": "9yy7",
+      "smallPath": "_m/9/y/y/7/missouri-state-penitentiary-wp/gas-chamber-25457326117-small.webp"
     }
   ],
   "galleryPaths": [
@@ -217,7 +227,6 @@
     "_m/9/y/y/7/missouri-state-penitentiary-wp/death-chamber-at-missouri-stat-1.jpg",
     "_m/9/y/y/7/missouri-state-penitentiary-wp/gas-chamber-25457326117.jpg"
   ],
-  "fetchedAt": "2026-02-22T01:26:41.199Z",
   "narration": {
     "files": [
       "9yy7-missouri-state-penitentiary-flight-context.mp3",
@@ -237,8 +246,7 @@
       "9yy7-missouri-state-penitentiary-death-row-below-ground.mp3": 48.4855416,
       "9yy7-missouri-state-penitentiary-the-tourists-arrive.mp3": 57.0585416
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T03:51:53.811Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T01:26:42.949Z"
 }

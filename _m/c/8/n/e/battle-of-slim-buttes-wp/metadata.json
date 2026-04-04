@@ -19,10 +19,8 @@
       "c8ne-battle-of-slim-buttes-ghosts-of-little-bighorn.mp3": 51.0851666,
       "c8ne-battle-of-slim-buttes-the-long-pursuit-ends.mp3": 50.110375
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-28T08:30:54.244Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
-  "fetchedAt": "2026-02-22T02:33:03.119Z",
   "hero": {
     "filename": "\"Gen. Crook's headquarters in the field at Whitewood (Dak. Terr.). On starvation march 1876.\" Closeup of a camp scene sh - NARA - 533170.jpg",
     "title": "File:\"Gen. Crook's headquarters in the field at Whitewood (Dak. Terr.). On starvation march 1876.\" Closeup of a camp scene sh - NARA - 533170.jpg",
@@ -58,8 +56,8 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-slim-buttes-wp",
     "sourceGeohash4": "c8ne",
-    "smallPath": "_m/c/8/n/e/battle-of-slim-buttes-wp/hero-small.jpg",
-    "mediumPath": "_m/c/8/n/e/battle-of-slim-buttes-wp/hero-medium.jpg"
+    "smallPath": "_m/c/8/n/e/battle-of-slim-buttes-wp/hero-small.webp",
+    "mediumPath": "_m/c/8/n/e/battle-of-slim-buttes-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "\"Gen. Crook's headquarters in the field at Whitewood (Dak. Terr.). On starvation march 1876.\" Closeup of a camp scene sh - NARA - 533170.jpg",
@@ -125,7 +123,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-slim-buttes-wp",
-      "sourceGeohash4": "c8ne"
+      "sourceGeohash4": "c8ne",
+      "mediumPath": "_m/c/8/n/e/battle-of-slim-buttes-wp/horse-drawn-stretcher-carrying-medium.webp",
+      "smallPath": "_m/c/8/n/e/battle-of-slim-buttes-wp/horse-drawn-stretcher-carrying-small.webp"
     },
     {
       "filename": "Battlefields (approx.) - U.S. Army and Lakotas, 1854-1868 (blue x) and 1869-1890 (red x).png",
@@ -144,7 +144,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-slim-buttes-wp",
-      "sourceGeohash4": "c8ne"
+      "sourceGeohash4": "c8ne",
+      "smallPath": "_m/c/8/n/e/battle-of-slim-buttes-wp/battlefields-approx-u-s-army-a-small.webp"
     },
     {
       "filename": "Battlefields between the Lakotas and the U.S. Army from 1854 to 1890. Oregon Trail, Bozeman Trail.png",

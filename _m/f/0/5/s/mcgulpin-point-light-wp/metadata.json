@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "mcgulpin-point-light-wp",
     "sourceGeohash4": "f05s",
-    "mediumPath": "_m/f/0/5/s/mcgulpin-point-light-wp/hero-medium.jpg",
-    "smallPath": "_m/f/0/5/s/mcgulpin-point-light-wp/hero-small.jpg"
+    "mediumPath": "_m/f/0/5/s/mcgulpin-point-light-wp/hero-medium.webp",
+    "smallPath": "_m/f/0/5/s/mcgulpin-point-light-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "McGulpin Point Light (October 2023).jpg",
@@ -73,7 +73,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "mcgulpin-point-light-wp",
       "sourceGeohash4": "f05s",
-      "smallPath": "_m/f/0/5/s/mcgulpin-point-light-wp/mcgulpin-point-light-us-mi-small.jpg"
+      "smallPath": "_m/f/0/5/s/mcgulpin-point-light-wp/mcgulpin-point-light-us-mi-small.webp"
     },
     {
       "filename": "McGulpin Point Light - US-MI.jpg",
@@ -98,8 +98,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "mcgulpin-point-light-wp",
       "sourceGeohash4": "f05s",
-      "mediumPath": "_m/f/0/5/s/mcgulpin-point-light-wp/mcgulpin-point-light-us-mi-1-medium.jpg",
-      "smallPath": "_m/f/0/5/s/mcgulpin-point-light-wp/mcgulpin-point-light-us-mi-1-small.jpg"
+      "mediumPath": "_m/f/0/5/s/mcgulpin-point-light-wp/mcgulpin-point-light-us-mi-1-medium.webp",
+      "smallPath": "_m/f/0/5/s/mcgulpin-point-light-wp/mcgulpin-point-light-us-mi-1-small.webp"
     },
     {
       "filename": "McGulpin Point Light (July 2018).jpg",
@@ -122,8 +122,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "mcgulpin-point-light-wp",
       "sourceGeohash4": "f05s",
-      "mediumPath": "_m/f/0/5/s/mcgulpin-point-light-wp/mcgulpin-point-light-july-2018-medium.jpg",
-      "smallPath": "_m/f/0/5/s/mcgulpin-point-light-wp/mcgulpin-point-light-july-2018-small.jpg"
+      "mediumPath": "_m/f/0/5/s/mcgulpin-point-light-wp/mcgulpin-point-light-july-2018-medium.webp",
+      "smallPath": "_m/f/0/5/s/mcgulpin-point-light-wp/mcgulpin-point-light-july-2018-small.webp"
     },
     {
       "filename": "Corner View (4781458135).jpg",
@@ -148,7 +148,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "mcgulpin-point-light-wp",
       "sourceGeohash4": "f05s",
-      "smallPath": "_m/f/0/5/s/mcgulpin-point-light-wp/corner-view-4781458135-small.jpg"
+      "smallPath": "_m/f/0/5/s/mcgulpin-point-light-wp/corner-view-4781458135-small.webp"
     },
     {
       "filename": "Upward View (4782094620).jpg",
@@ -172,7 +172,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "mcgulpin-point-light-wp",
       "sourceGeohash4": "f05s",
-      "smallPath": "_m/f/0/5/s/mcgulpin-point-light-wp/upward-view-4782094620-small.jpg"
+      "smallPath": "_m/f/0/5/s/mcgulpin-point-light-wp/upward-view-4782094620-small.webp"
     }
   ],
   "galleryPaths": [
@@ -182,6 +182,24 @@
     "_m/f/0/5/s/mcgulpin-point-light-wp/corner-view-4781458135.jpg",
     "_m/f/0/5/s/mcgulpin-point-light-wp/upward-view-4782094620.jpg"
   ],
-  "fetchedAt": "2026-02-28T10:18:19.905Z",
-  "updatedAt": "2026-02-28T10:18:50.256Z"
+  "updatedAt": "2026-02-28T10:18:50.256Z",
+  "narration": {
+    "files": [
+      "f05s-mcgulpin-point-light-flight-context.mp3",
+      "f05s-mcgulpin-point-light-intro.mp3",
+      "f05s-mcgulpin-point-light-norman-gothic-on-the-waterline.mp3",
+      "f05s-mcgulpin-point-light-replaced-and-forgotten.mp3",
+      "f05s-mcgulpin-point-light-a-county-takes-the-wheel.mp3",
+      "f05s-mcgulpin-point-light-relighting-the-straits.mp3"
+    ],
+    "durations": {
+      "f05s-mcgulpin-point-light-flight-context.mp3": 58.192125,
+      "f05s-mcgulpin-point-light-intro.mp3": 50.322375,
+      "f05s-mcgulpin-point-light-norman-gothic-on-the-waterline.mp3": 54.6282916,
+      "f05s-mcgulpin-point-light-replaced-and-forgotten.mp3": 51.8051666,
+      "f05s-mcgulpin-point-light-a-county-takes-the-wheel.mp3": 52.1446666,
+      "f05s-mcgulpin-point-light-relighting-the-straits.mp3": 57.5322916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

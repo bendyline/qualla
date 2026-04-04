@@ -14,7 +14,7 @@
     "sourceType": "core",
     "sourceArticleId": "fort-polk-wp",
     "sourceGeohash4": "9vtb",
-    "smallPath": "_m/9/v/t/b/fort-polk-wp/hero-small.jpg"
+    "smallPath": "_m/9/v/t/b/fort-polk-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "WWII POW Camp at Fort Polk.TIF",
@@ -58,7 +58,7 @@
       "sourceType": "core",
       "sourceArticleId": "fort-polk-wp",
       "sourceGeohash4": "9vtb",
-      "smallPath": "_m/9/v/t/b/fort-polk-wp/arial-view-camp-polk-1-small.jpg"
+      "smallPath": "_m/9/v/t/b/fort-polk-wp/arial-view-camp-polk-1-small.webp"
     },
     {
       "filename": "Flickr - The U.S. Army - ID detection equipment.jpg",
@@ -85,7 +85,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-polk-wp",
-      "sourceGeohash4": "9vtb"
+      "sourceGeohash4": "9vtb",
+      "mediumPath": "_m/9/v/t/b/fort-polk-wp/flickr-the-u-s-army-id-detecti-medium.webp",
+      "smallPath": "_m/9/v/t/b/fort-polk-wp/flickr-the-u-s-army-id-detecti-small.webp"
     },
     {
       "filename": "Flickr - The U.S. Army - Fighting positions.jpg",
@@ -126,7 +128,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-polk-wp",
-      "sourceGeohash4": "9vtb"
+      "sourceGeohash4": "9vtb",
+      "mediumPath": "_m/9/v/t/b/fort-polk-wp/flickr-the-u-s-army-fighting-p-medium.webp",
+      "smallPath": "_m/9/v/t/b/fort-polk-wp/flickr-the-u-s-army-fighting-p-small.webp"
     },
     {
       "filename": "IMCOM and FORSCOM ROC Drill - Teamwork and Collaboration Ensures Mission Accomplishment (1).jpg",
@@ -142,7 +146,8 @@
       "dateCreated": "2012-04-12 22:04:31",
       "sourceType": "commons-category",
       "sourceArticleId": "fort-polk-wp",
-      "sourceGeohash4": "9vtb"
+      "sourceGeohash4": "9vtb",
+      "smallPath": "_m/9/v/t/b/fort-polk-wp/imcom-and-forscom-roc-drill-te-small.webp"
     },
     {
       "filename": "Bridget Corcoran, a Red Cross volunteer worker, weighs an infant at the Fort Polk Hospital Well-Baby Clinic - DPLA - 9f9431d6ead2db2119d44c4b6e76bd64.jpeg",
@@ -158,7 +163,9 @@
       "dateCreated": "13 September 1982<div style=\"display: none;\">date QS:P571,+1982-09-13T00:00:00Z/11</div>",
       "sourceType": "commons-category",
       "sourceArticleId": "fort-polk-wp",
-      "sourceGeohash4": "9vtb"
+      "sourceGeohash4": "9vtb",
+      "mediumPath": "_m/9/v/t/b/fort-polk-wp/bridget-corcoran-a-red-cross-v-medium.webp",
+      "smallPath": "_m/9/v/t/b/fort-polk-wp/bridget-corcoran-a-red-cross-v-small.webp"
     },
     {
       "filename": "An aerial shot of a rotational aviation unit at one of the field sights at the Joint Readiness Training Center - DPLA - 609e33bbdce924df065a0dfdbeef257c.jpeg",
@@ -174,7 +181,9 @@
       "dateCreated": "15 August 1996<div style=\"display: none;\">date QS:P571,+1996-08-15T00:00:00Z/11</div>",
       "sourceType": "commons-category",
       "sourceArticleId": "fort-polk-wp",
-      "sourceGeohash4": "9vtb"
+      "sourceGeohash4": "9vtb",
+      "mediumPath": "_m/9/v/t/b/fort-polk-wp/an-aerial-shot-of-a-rotational-medium.webp",
+      "smallPath": "_m/9/v/t/b/fort-polk-wp/an-aerial-shot-of-a-rotational-small.webp"
     },
     {
       "filename": "IMCOM and FORSCOM ROC Drill - Teamwork and Collaboration Ensures Mission Accomplishment (2).jpg",
@@ -190,7 +199,8 @@
       "dateCreated": "2012-04-12 22:16:22",
       "sourceType": "commons-category",
       "sourceArticleId": "fort-polk-wp",
-      "sourceGeohash4": "9vtb"
+      "sourceGeohash4": "9vtb",
+      "smallPath": "_m/9/v/t/b/fort-polk-wp/imcom-and-forscom-roc-drill-te-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -202,7 +212,6 @@
     "_m/9/v/t/b/fort-polk-wp/an-aerial-shot-of-a-rotational.jpg",
     "_m/9/v/t/b/fort-polk-wp/imcom-and-forscom-roc-drill-te-1.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:20:00.896Z",
   "narration": {
     "files": [
       "9vtb-fort-polk-flight-context.mp3",
@@ -222,8 +231,7 @@
       "9vtb-fort-polk-a-name-that-wont-stay-still.mp3": 75.9761666,
       "9vtb-fort-polk-the-horses-nobody-expected.mp3": 69.3958333
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T11:25:26.559Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T23:20:24.479Z",
   "videos": [

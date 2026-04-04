@@ -18,8 +18,8 @@
     "sourceType": "core",
     "sourceArticleId": "reno-wk",
     "sourceGeohash4": "9r4b",
-    "smallPath": "_m/9/r/4/b/reno-wk/hero-small.jpg",
-    "mediumPath": "_m/9/r/4/b/reno-wk/hero-medium.jpg"
+    "smallPath": "_m/9/r/4/b/reno-wk/hero-small.webp",
+    "mediumPath": "_m/9/r/4/b/reno-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Meadowood Mall, Reno, Nevada (18201371195).jpg",
@@ -72,7 +72,7 @@
       "sourceType": "core",
       "sourceArticleId": "reno-wk",
       "sourceGeohash4": "9r4b",
-      "smallPath": "_m/9/r/4/b/reno-wk/reno-circus-circus-sil-small.jpg"
+      "smallPath": "_m/9/r/4/b/reno-wk/reno-circus-circus-sil-small.webp"
     },
     {
       "filename": "Tahoe.JPG",
@@ -98,7 +98,7 @@
       "sourceType": "core",
       "sourceArticleId": "reno-wk",
       "sourceGeohash4": "9r4b",
-      "smallPath": "_m/9/r/4/b/reno-wk/tahoe-small.jpg"
+      "smallPath": "_m/9/r/4/b/reno-wk/tahoe-small.webp"
     },
     {
       "filename": "Circus Circus Reno.jpg",
@@ -156,8 +156,8 @@
       "sourceType": "core",
       "sourceArticleId": "reno-wk",
       "sourceGeohash4": "9r4b",
-      "smallPath": "_m/9/r/4/b/reno-wk/village-palisades-taho-small.jpg",
-      "mediumPath": "_m/9/r/4/b/reno-wk/village-palisades-taho-medium.jpg"
+      "smallPath": "_m/9/r/4/b/reno-wk/village-palisades-taho-small.webp",
+      "mediumPath": "_m/9/r/4/b/reno-wk/village-palisades-taho-medium.webp"
     },
     {
       "filename": "Reno arch.jpg",
@@ -306,7 +306,7 @@
       "sourceType": "core",
       "sourceArticleId": "reno-wk",
       "sourceGeohash4": "9r4b",
-      "smallPath": "_m/9/r/4/b/reno-wk/washoe-county-library-small.jpg"
+      "smallPath": "_m/9/r/4/b/reno-wk/washoe-county-library-small.webp"
     },
     {
       "filename": "Atlantiscasino.jpg",
@@ -345,7 +345,7 @@
       "sourceType": "core",
       "sourceArticleId": "reno-wk",
       "sourceGeohash4": "9r4b",
-      "smallPath": "_m/9/r/4/b/reno-wk/university-nevada-reno-small.jpg"
+      "smallPath": "_m/9/r/4/b/reno-wk/university-nevada-reno-small.webp"
     },
     {
       "filename": "N on the Mountain, Great Reno Balloon Race, Reno, Nevada (21168291270).jpg",
@@ -386,8 +386,8 @@
       "sourceType": "core",
       "sourceArticleId": "reno-wk",
       "sourceGeohash4": "9r4b",
-      "smallPath": "_m/9/r/4/b/reno-wk/reno-nevada-small.jpg",
-      "mediumPath": "_m/9/r/4/b/reno-wk/reno-nevada-medium.jpg"
+      "smallPath": "_m/9/r/4/b/reno-wk/reno-nevada-small.webp",
+      "mediumPath": "_m/9/r/4/b/reno-wk/reno-nevada-medium.webp"
     },
     {
       "filename": "Mount Rose Ski Resort.png",
@@ -497,7 +497,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "reno-wk",
-      "sourceGeohash4": "9r4b"
+      "sourceGeohash4": "9r4b",
+      "mediumPath": "_m/9/r/4/b/reno-wk/reno-sayre-15381-medium.webp",
+      "smallPath": "_m/9/r/4/b/reno-wk/reno-sayre-15381-small.webp"
     }
   ],
   "galleryPaths": [
@@ -522,7 +524,6 @@
     "_m/9/r/4/b/reno-nevada-wp/club-cal-neva.jpg",
     "_m/9/r/4/b/reno-wk/reno-sayre-15381.jpg"
   ],
-  "fetchedAt": "2026-02-21T21:36:59.855Z",
   "updatedAt": "2026-02-21T21:37:00.775Z",
   "narration": {
     "files": [
@@ -543,7 +544,6 @@
       "9r4b-reno-the-biggest-little-city-where-the-sierra-meet-the-misfits.mp3": 50.856,
       "9r4b-reno-the-biggest-little-city-where-the-sierra-meet-truckee-meadows.mp3": 52.416
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:56.545Z"
+    "voice": "unknown"
   }
 }

@@ -26,7 +26,7 @@
     "sourceType": "core",
     "sourceArticleId": "uluru-wk",
     "sourceGeohash4": "qgmp",
-    "smallPath": "_m/q/g/m/p/uluru-wk/hero-small.jpg"
+    "smallPath": "_m/q/g/m/p/uluru-wk/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Mutitjulu lass. Oct. 2005.jpg",
@@ -79,8 +79,8 @@
       "sourceType": "core",
       "sourceArticleId": "uluru-wk",
       "sourceGeohash4": "qgmp",
-      "smallPath": "_m/q/g/m/p/uluru-wk/welcome-mutitjulu-puku-small.jpg",
-      "mediumPath": "_m/q/g/m/p/uluru-wk/welcome-mutitjulu-puku-medium.jpg"
+      "smallPath": "_m/q/g/m/p/uluru-wk/welcome-mutitjulu-puku-small.webp",
+      "mediumPath": "_m/q/g/m/p/uluru-wk/welcome-mutitjulu-puku-medium.webp"
     },
     {
       "filename": "Mutitjulu entrance sign close up.jpg",
@@ -102,7 +102,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "uluru-wk",
-      "sourceGeohash4": "qgmp"
+      "sourceGeohash4": "qgmp",
+      "mediumPath": "_m/q/g/m/p/uluru-wk/mutitjulu-entrance-sign-close--medium.webp",
+      "smallPath": "_m/q/g/m/p/uluru-wk/mutitjulu-entrance-sign-close--small.webp"
     },
     {
       "filename": "Mutitjulu community center.jpg",
@@ -124,7 +126,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "uluru-wk",
-      "sourceGeohash4": "qgmp"
+      "sourceGeohash4": "qgmp",
+      "mediumPath": "_m/q/g/m/p/uluru-wk/mutitjulu-community-center-medium.webp",
+      "smallPath": "_m/q/g/m/p/uluru-wk/mutitjulu-community-center-small.webp"
     },
     {
       "filename": "Mutitjulu residence.jpg",
@@ -146,7 +150,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "uluru-wk",
-      "sourceGeohash4": "qgmp"
+      "sourceGeohash4": "qgmp",
+      "mediumPath": "_m/q/g/m/p/uluru-wk/mutitjulu-residence-medium.webp",
+      "smallPath": "_m/q/g/m/p/uluru-wk/mutitjulu-residence-small.webp"
     },
     {
       "filename": "Mutitjulu housing.jpg",
@@ -168,7 +174,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "uluru-wk",
-      "sourceGeohash4": "qgmp"
+      "sourceGeohash4": "qgmp",
+      "mediumPath": "_m/q/g/m/p/uluru-wk/mutitjulu-housing-medium.webp",
+      "smallPath": "_m/q/g/m/p/uluru-wk/mutitjulu-housing-small.webp"
     }
   ],
   "galleryPaths": [
@@ -178,7 +186,6 @@
     "_m/q/g/m/p/uluru-wk/mutitjulu-residence.jpg",
     "_m/q/g/m/p/uluru-wk/mutitjulu-housing.jpg"
   ],
-  "fetchedAt": "2026-02-22T13:08:01.277Z",
   "updatedAt": "2026-02-22T13:08:01.922Z",
   "narration": {
     "files": [
@@ -199,7 +206,6 @@
       "qgmp-uluru-the-rock-that-reaches-2-5km-underground-the-climb.mp3": 42.0274166,
       "qgmp-uluru-the-rock-that-reaches-2-5km-underground-the-experience.mp3": 48.1200833
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-25T14:36:52.940Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

@@ -23,7 +23,7 @@
     "sourceType": "core",
     "sourceArticleId": "lambsar-castle-wp",
     "sourceGeohash4": "tn7x",
-    "smallPath": "_m/t/n/7/x/lambsar-castle-wp/hero-small.jpg"
+    "smallPath": "_m/t/n/7/x/lambsar-castle-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Alamut Castle.jpg",
@@ -104,7 +104,7 @@
       "sourceType": "core",
       "sourceArticleId": "lambsar-castle-wp",
       "sourceGeohash4": "tn7x",
-      "smallPath": "_m/t/n/7/x/lambsar-castle-wp/lambesar-fort-picture-small.jpg"
+      "smallPath": "_m/t/n/7/x/lambsar-castle-wp/lambesar-fort-picture-small.webp"
     },
     {
       "filename": "نمای غربی شهر تاریخی بلقیس.jpg",
@@ -156,7 +156,7 @@
       "sourceType": "core",
       "sourceArticleId": "lambsar-castle-wp",
       "sourceGeohash4": "tn7x",
-      "smallPath": "_m/t/n/7/x/lambsar-castle-wp/around-lamsar-castle-small.jpg"
+      "smallPath": "_m/t/n/7/x/lambsar-castle-wp/around-lamsar-castle-small.webp"
     },
     {
       "filename": "شیرقلعه.jpg",
@@ -579,7 +579,7 @@
       "sourceType": "core",
       "sourceArticleId": "lambsar-castle-wp",
       "sourceGeohash4": "tn7x",
-      "smallPath": "_m/t/n/7/x/lambsar-castle-wp/lambsar-fortress-small.jpg"
+      "smallPath": "_m/t/n/7/x/lambsar-castle-wp/lambsar-fortress-small.webp"
     },
     {
       "filename": "Lambsar Fortress 3.jpg",
@@ -603,7 +603,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "lambsar-castle-wp",
       "sourceGeohash4": "tn7x",
-      "smallPath": "_m/t/n/7/x/lambsar-castle-wp/lambsar-fortress-3-small.jpg"
+      "smallPath": "_m/t/n/7/x/lambsar-castle-wp/lambsar-fortress-3-small.webp"
     },
     {
       "filename": "Lambsar Fortress 1.jpg",
@@ -626,7 +626,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "lambsar-castle-wp",
       "sourceGeohash4": "tn7x",
-      "smallPath": "_m/t/n/7/x/lambsar-castle-wp/lambsar-fortress-1-small.jpg"
+      "smallPath": "_m/t/n/7/x/lambsar-castle-wp/lambsar-fortress-1-small.webp"
     },
     {
       "filename": "Lambsar Fortress 2.jpg",
@@ -650,7 +650,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "lambsar-castle-wp",
       "sourceGeohash4": "tn7x",
-      "smallPath": "_m/t/n/7/x/lambsar-castle-wp/lambsar-fortress-2-small.jpg"
+      "smallPath": "_m/t/n/7/x/lambsar-castle-wp/lambsar-fortress-2-small.webp"
     },
     {
       "filename": "Razmian from Lambsar.jpg",
@@ -675,7 +675,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "lambsar-castle-wp",
       "sourceGeohash4": "tn7x",
-      "smallPath": "_m/t/n/7/x/lambsar-castle-wp/razmian-from-lambsar-small.jpg"
+      "smallPath": "_m/t/n/7/x/lambsar-castle-wp/razmian-from-lambsar-small.webp"
     },
     {
       "filename": "Lambsar Castle23.jpg",
@@ -699,7 +699,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "lambsar-castle-wp",
       "sourceGeohash4": "tn7x",
-      "smallPath": "_m/t/n/7/x/lambsar-castle-wp/lambsar-castle23-small.jpg"
+      "smallPath": "_m/t/n/7/x/lambsar-castle-wp/lambsar-castle23-small.webp"
     }
   ],
   "galleryPaths": [
@@ -734,6 +734,24 @@
     "_m/t/n/7/x/lambsar-castle-wp/razmian-from-lambsar.jpg",
     "_m/t/n/7/x/lambsar-castle-wp/lambsar-castle23.jpg"
   ],
-  "fetchedAt": "2026-03-01T12:21:59.046Z",
-  "updatedAt": "2026-03-01T12:22:27.421Z"
+  "updatedAt": "2026-03-01T12:22:27.421Z",
+  "narration": {
+    "files": [
+      "tn7x-lambsar-castle-flight-context.mp3",
+      "tn7x-lambsar-castle-intro.mp3",
+      "tn7x-lambsar-castle-the-assassins-stronghold.mp3",
+      "tn7x-lambsar-castle-a-fortress-shaped-by-stone-and-air.mp3",
+      "tn7x-lambsar-castle-the-year-of-refusal.mp3",
+      "tn7x-lambsar-castle-echoes-in-the-alborz.mp3"
+    ],
+    "durations": {
+      "tn7x-lambsar-castle-flight-context.mp3": 56.323125,
+      "tn7x-lambsar-castle-intro.mp3": 46.1381666,
+      "tn7x-lambsar-castle-the-assassins-stronghold.mp3": 51.8971666,
+      "tn7x-lambsar-castle-a-fortress-shaped-by-stone-and-air.mp3": 65.246125,
+      "tn7x-lambsar-castle-the-year-of-refusal.mp3": 72.224375,
+      "tn7x-lambsar-castle-echoes-in-the-alborz.mp3": 60.9030416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

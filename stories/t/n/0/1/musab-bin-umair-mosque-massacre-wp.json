@@ -87,14 +87,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "gobekli-tepe-wk",
-      "title": "Göbekli Tepe: The Temple Built Before Agriculture",
-      "tile": "syee",
+      "id": "dura-europos-church-wp",
+      "title": "Dura-Europos Church",
+      "tile": "syhv",
       "coordinates": {
-        "lat": 37.2233,
-        "lng": 38.9224
+        "lat": 34.745829,
+        "lng": 40.727958
       },
-      "distanceKm": 611.6
+      "distanceKm": 363
     },
     "n": {
       "id": "alwand-bridge-wp",
@@ -117,14 +117,14 @@
       "distanceKm": 4.5
     },
     "w": {
-      "id": "beirut-wk",
-      "title": "Beirut",
-      "tile": "sy12",
+      "id": "armenian-genocide-memorial-church-der-zor-wp",
+      "title": "Armenian Genocide Memorial Church, Der Zor",
+      "tile": "syk8",
       "coordinates": {
-        "lat": 33.886944444444,
-        "lng": 35.513055555556
+        "lat": 35.2019,
+        "lng": 40.083
       },
-      "distanceKm": 842.5
+      "distanceKm": 438.2
     },
     "e": {
       "id": "anubanini-rock-relief-wp",
@@ -166,5 +166,6 @@
       },
       "distanceKm": 120.3
     }
-  }
+  },
+  "locationWikipediaPath": "t/n/0/1/musab-bin-umair-mosque-massacre-wp"
 }

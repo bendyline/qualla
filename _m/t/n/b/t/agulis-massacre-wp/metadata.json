@@ -23,7 +23,7 @@
     "sourceType": "core",
     "sourceArticleId": "agulis-massacre-wp",
     "sourceGeohash4": "tnbt",
-    "smallPath": "_m/t/n/b/t/agulis-massacre-wp/hero-small.jpg"
+    "smallPath": "_m/t/n/b/t/agulis-massacre-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Verin Agulis-1900s.jpg",
@@ -51,5 +51,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T13:37:16.569Z"
+  "narration": {
+    "files": [
+      "tnbt-agulis-massacre-flight-context.mp3",
+      "tnbt-agulis-massacre-intro.mp3",
+      "tnbt-agulis-massacre-the-last-armenian-stronghold.mp3",
+      "tnbt-agulis-massacre-a-siege-by-starvation.mp3",
+      "tnbt-agulis-massacre-christmas-eve-1919.mp3",
+      "tnbt-agulis-massacre-the-weight-of-contested-memory.mp3"
+    ],
+    "durations": {
+      "tnbt-agulis-massacre-flight-context.mp3": 41.3793333,
+      "tnbt-agulis-massacre-intro.mp3": 49.9154583,
+      "tnbt-agulis-massacre-the-last-armenian-stronghold.mp3": 51.9074166,
+      "tnbt-agulis-massacre-a-siege-by-starvation.mp3": 59.9294166,
+      "tnbt-agulis-massacre-christmas-eve-1919.mp3": 51.1999583,
+      "tnbt-agulis-massacre-the-weight-of-contested-memory.mp3": 58.6067083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

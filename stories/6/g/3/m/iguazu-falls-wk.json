@@ -74,87 +74,91 @@
   "locationWikipediaPath": "6/g/3/m/devil-s-throat-iguazu-falls-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "cusco-wk",
-      "title": "Cusco",
-      "tile": "6msg",
+      "id": "laguna-blanca-paraguay-wp",
+      "title": "Laguna Blanca (Paraguay)",
+      "tile": "6ezb",
       "coordinates": {
-        "lat": -13.5319,
-        "lng": -71.9675
+        "lat": -23.813333333333,
+        "lng": -56.295
       },
-      "distanceKm": 2229.3
+      "distanceKm": 237.1
     },
     "n": {
-      "id": "rio-de-janeiro-wk",
-      "title": "Rio de Janeiro",
-      "tile": "75cj",
+      "id": "itaipu-dam-wp",
+      "title": "Itaipu Dam",
+      "tile": "6g3p",
       "coordinates": {
-        "lat": -22.9068,
-        "lng": -43.1729
+        "lat": -25.407777777778,
+        "lng": -54.59
       },
-      "distanceKm": 1165.7
+      "distanceKm": 28.9
     },
     "ne": {
-      "id": "sao-paulo-wk",
-      "title": "Sao Paulo",
-      "tile": "6gyf",
+      "id": "vila-velha-state-park-wp",
+      "title": "Vila Velha State Park",
+      "tile": "6gs2",
       "coordinates": {
-        "lat": -23.5505,
-        "lng": -46.6333
+        "lat": -25.238,
+        "lng": -50.011
       },
-      "distanceKm": 755.2
+      "distanceKm": 380.6
     },
     "w": {
-      "id": "colonia-wk",
-      "title": "Colonia del Sacramento",
-      "tile": "69yg",
+      "id": "villarrica-paraguay-wp",
+      "title": "Villarrica, Paraguay",
+      "tile": "6erv",
       "coordinates": {
-        "lat": -34.471389,
-        "lng": -57.844167
+        "lat": -25.74946,
+        "lng": -56.43518
       },
-      "distanceKm": 1011.4
+      "distanceKm": 159.4
     },
     "e": {
-      "id": "christ-redeemer-wk",
-      "title": "Christ the Redeemer: The Statue Built from Soapstone Carried Up a Mountain",
-      "tile": "75cm",
+      "id": "curitiba-wk",
+      "title": "Curitiba",
+      "tile": "6gkz",
       "coordinates": {
-        "lat": -22.9519,
-        "lng": -43.2105
+        "lat": -25.429722222222,
+        "lng": -49.271944444444
       },
-      "distanceKm": 1115.5
+      "distanceKm": 454.4
     },
     "sw": {
-      "id": "anchorena-national-park-wk",
-      "title": "Anchorena National Park",
-      "tile": "69yu",
+      "id": "jesuit-missions-of-la-santisima-trinidad-de-parana-and-jesus-de-tavarangue-wp",
+      "title": "Trinidad and Jesús: Paraguay's Unfinished Cathedrals in the Forest",
+      "tile": "6g0q",
       "coordinates": {
-        "lat": -34.28,
-        "lng": -57.93
+        "lat": -27.056,
+        "lng": -55.753
       },
-      "distanceKm": 965.5
+      "distanceKm": 146.8
     },
     "s": {
-      "id": "cabo-polonio-wk",
-      "title": "Cabo Polonio",
-      "tile": "6ccs",
+      "id": "san-ignacio-mini-wp",
+      "title": "San Ignacio Miní",
+      "tile": "6g0s",
       "coordinates": {
-        "lat": -34.3975,
-        "lng": -53.789167
+        "lat": -27.25528,
+        "lng": -55.53167
       },
-      "distanceKm": 933.4
+      "distanceKm": 183.3
     },
     "se": {
-      "id": "south-georgia-island-wk",
-      "title": "South Georgia Island",
-      "tile": "5nmf",
+      "id": "blumenau-wk",
+      "title": "Blumenau",
+      "tile": "6gjn",
       "coordinates": {
-        "lat": -54.32,
-        "lng": -36.65
+        "lat": -26.918888888889,
+        "lng": -49.065833333333
       },
-      "distanceKm": 3447.1
+      "distanceKm": 480.7
     }
   },
   "keywords": [
     "iguazu-falls"
+  ],
+  "duplicates": [
+    "devil-s-throat-iguazu-falls-wp",
+    "iguacu-falls-wk"
   ]
 }

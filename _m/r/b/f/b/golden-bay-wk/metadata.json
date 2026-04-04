@@ -32,8 +32,8 @@
       "sourceType": "poi",
       "sourceArticleId": "golden-bay-wk",
       "sourceGeohash4": "rbfb",
-      "mediumPath": "_m/r/b/f/b/golden-bay-wk/takaka-commercial-street-003-medium.jpg",
-      "smallPath": "_m/r/b/f/b/golden-bay-wk/takaka-commercial-street-003-small.jpg"
+      "mediumPath": "_m/r/b/f/b/golden-bay-wk/takaka-commercial-street-003-medium.webp",
+      "smallPath": "_m/r/b/f/b/golden-bay-wk/takaka-commercial-street-003-small.webp"
     },
     {
       "filename": "View south over Anatakapau Bay and Mutton Cove.jpg",
@@ -56,8 +56,8 @@
       "sourceType": "poi",
       "sourceArticleId": "golden-bay-wk",
       "sourceGeohash4": "rbfb",
-      "mediumPath": "_m/r/b/f/b/golden-bay-wk/view-south-over-anatakapau-bay-medium.jpg",
-      "smallPath": "_m/r/b/f/b/golden-bay-wk/view-south-over-anatakapau-bay-small.jpg"
+      "mediumPath": "_m/r/b/f/b/golden-bay-wk/view-south-over-anatakapau-bay-medium.webp",
+      "smallPath": "_m/r/b/f/b/golden-bay-wk/view-south-over-anatakapau-bay-small.webp"
     },
     {
       "filename": "Sunset at Pohara Beach (8072260629).jpg",
@@ -81,8 +81,8 @@
       "sourceType": "poi",
       "sourceArticleId": "golden-bay-wk",
       "sourceGeohash4": "rbfb",
-      "mediumPath": "_m/r/b/f/b/golden-bay-wk/sunset-at-pohara-beach-8072260-medium.jpg",
-      "smallPath": "_m/r/b/f/b/golden-bay-wk/sunset-at-pohara-beach-8072260-small.jpg"
+      "mediumPath": "_m/r/b/f/b/golden-bay-wk/sunset-at-pohara-beach-8072260-medium.webp",
+      "smallPath": "_m/r/b/f/b/golden-bay-wk/sunset-at-pohara-beach-8072260-small.webp"
     },
     {
       "filename": "Tasman Street Collingwood.jpg",
@@ -105,7 +105,7 @@
       "sourceType": "poi",
       "sourceArticleId": "golden-bay-wk",
       "sourceGeohash4": "rbfb",
-      "smallPath": "_m/r/b/f/b/golden-bay-wk/tasman-street-collingwood-small.jpg"
+      "smallPath": "_m/r/b/f/b/golden-bay-wk/tasman-street-collingwood-small.webp"
     },
     {
       "filename": "Onekaka Wharf 93.jpg",
@@ -130,8 +130,8 @@
       "sourceType": "poi",
       "sourceArticleId": "golden-bay-wk",
       "sourceGeohash4": "rbfb",
-      "mediumPath": "_m/r/b/f/b/golden-bay-wk/onekaka-wharf-93-medium.jpg",
-      "smallPath": "_m/r/b/f/b/golden-bay-wk/onekaka-wharf-93-small.jpg"
+      "mediumPath": "_m/r/b/f/b/golden-bay-wk/onekaka-wharf-93-medium.webp",
+      "smallPath": "_m/r/b/f/b/golden-bay-wk/onekaka-wharf-93-small.webp"
     }
   ],
   "galleryPaths": [
@@ -141,5 +141,24 @@
     "_m/r/b/f/b/golden-bay-wk/tasman-street-collingwood.jpg",
     "_m/r/b/f/b/golden-bay-wk/onekaka-wharf-93.jpg"
   ],
-  "updatedAt": "2026-02-20T08:27:25.275Z"
+  "updatedAt": "2026-02-20T08:27:25.275Z",
+  "narration": {
+    "files": [
+      "rbfb-golden-bay-flight-context.mp3",
+      "rbfb-golden-bay-intro.mp3",
+      "rbfb-golden-bay-first-contact-first-blood.mp3",
+      "rbfb-golden-bay-the-geography-of-remoteness.mp3",
+      "rbfb-golden-bay-sacred-water.mp3",
+      "rbfb-golden-bay-the-mussel-inn-and-the-end-of-the-road.mp3"
+    ],
+    "durations": {
+      "rbfb-golden-bay-flight-context.mp3": 41.8062916,
+      "rbfb-golden-bay-intro.mp3": 39.0629166,
+      "rbfb-golden-bay-first-contact-first-blood.mp3": 47.570125,
+      "rbfb-golden-bay-the-geography-of-remoteness.mp3": 53.8010833,
+      "rbfb-golden-bay-sacred-water.mp3": 58.9042083,
+      "rbfb-golden-bay-the-mussel-inn-and-the-end-of-the-road.mp3": 46.773625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -23,7 +23,7 @@
       "Media missing infobox template",
       "Talar of Ali Qapu"
     ],
-    "smallPath": "_m/t/j/u/9/isfahan-wk/hero-small.jpg"
+    "smallPath": "_m/t/j/u/9/isfahan-wk/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Ali-qapu-rooz.jpg",
@@ -65,7 +65,7 @@
       "categories": [
         "Bell tower of Vank Cathedral"
       ],
-      "smallPath": "_m/t/j/u/9/isfahan-wk/related-sibling-ali-qapu-rooz-jpg-small.jpg"
+      "smallPath": "_m/t/j/u/9/isfahan-wk/related-sibling-ali-qapu-rooz-jpg-small.webp"
     },
     {
       "filename": "AliGholi-Agha bathhouse2.JPG",
@@ -82,8 +82,8 @@
       "source": "AliGholi-Agha bathhouse2",
       "description": "AliGholi-Agha bathhouse",
       "dateCreated": "2014",
-      "mediumPath": "_m/t/j/u/9/isfahan-wk/related-sibling--les-russes-ispahan-by-eug-ne--medium.jpg",
-      "smallPath": "_m/t/j/u/9/isfahan-wk/related-sibling--les-russes-ispahan-by-eug-ne--small.jpg"
+      "mediumPath": "_m/t/j/u/9/isfahan-wk/related-sibling--les-russes-ispahan-by-eug-ne--medium.webp",
+      "smallPath": "_m/t/j/u/9/isfahan-wk/related-sibling--les-russes-ispahan-by-eug-ne--small.webp"
     },
     {
       "filename": "270 Cloth printing, Isfahan Iran 1966 (51190780372).jpg",
@@ -100,7 +100,7 @@
       "source": "270 Cloth printing, Isfahan Iran 1966 (51190780372)",
       "description": "270 Cloth printing, Isfahan Iran 1966",
       "dateCreated": "1966-10-01 07:40",
-      "smallPath": "_m/t/j/u/9/isfahan-wk/related-sibling-aghigh-square-esfahan-201312-0-small.jpg"
+      "smallPath": "_m/t/j/u/9/isfahan-wk/related-sibling-aghigh-square-esfahan-201312-0-small.webp"
     },
     {
       "filename": "Ali-qapu-rooz.jpg",
@@ -116,7 +116,7 @@
       "sourceType": "sibling",
       "sourceArticleId": "isfahan-wp",
       "sourceGeohash4": "svew",
-      "smallPath": "_m/t/j/u/9/isfahan-wk/related-sibling-1972-to-2009-abundance-percent-small.png"
+      "smallPath": "_m/t/j/u/9/isfahan-wk/related-sibling-1972-to-2009-abundance-percent-small.webp"
     },
     {
       "filename": "\"Les Russes à Ispahan\" by Eugène Damblans in Le Petit Journal, 23 April 1916.jpg",
@@ -182,6 +182,26 @@
     "m\\tju9\\isfahan-wk\\related-sibling-aghigh-square-esfahan-201312-0.jpg",
     "m\\tju9\\isfahan-wk\\related-sibling-1972-to-2009-abundance-percent.png"
   ],
-  "fetchedAt": "2026-01-16T18:35:59.700Z",
-  "updatedAt": "2026-01-16T18:36:24.283Z"
+  "updatedAt": "2026-01-16T18:36:24.283Z",
+  "narration": {
+    "files": [
+      "tju9-isfahan-flight-context.mp3",
+      "tju9-isfahan-intro.mp3",
+      "tju9-isfahan-the-square-that-maps-the-world.mp3",
+      "tju9-isfahan-bridges-over-dry-stone.mp3",
+      "tju9-isfahan-jolfa-and-the-armenian-thread.mp3",
+      "tju9-isfahan-a-city-of-craft-and-detail.mp3",
+      "tju9-isfahan-half-the-world-still.mp3"
+    ],
+    "durations": {
+      "tju9-isfahan-flight-context.mp3": 53.5944583,
+      "tju9-isfahan-intro.mp3": 36.4782916,
+      "tju9-isfahan-the-square-that-maps-the-world.mp3": 60.9910833,
+      "tju9-isfahan-bridges-over-dry-stone.mp3": 51.842625,
+      "tju9-isfahan-jolfa-and-the-armenian-thread.mp3": 55.3787916,
+      "tju9-isfahan-a-city-of-craft-and-detail.mp3": 49.2604583,
+      "tju9-isfahan-half-the-world-still.mp3": 51.2042083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

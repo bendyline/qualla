@@ -108,14 +108,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "northern-oregon-coast-wk",
-      "title": "Northern Oregon Coast",
-      "tile": "c205",
+      "id": "pixieland-oregon-wp",
+      "title": "Pixieland",
+      "tile": "c0pb",
       "coordinates": {
-        "lat": 45.89,
-        "lng": -123.96
+        "lat": 45.0205,
+        "lng": -123.965
       },
-      "distanceKm": 509.7
+      "distanceKm": 413.1
     },
     "n": {
       "id": "fort-jones-california-wp",
@@ -138,14 +138,14 @@
       "distanceKm": 42.5
     },
     "w": {
-      "id": "astoria-end-of-trail-wk",
-      "title": "Astoria: Where Lewis and Clark Finally Saw the Pacific",
-      "tile": "c0py",
+      "id": "neskowin-ghost-forest-wp",
+      "title": "Neskowin Ghost Forest",
+      "tile": "c0pb",
       "coordinates": {
-        "lat": 46.1879,
-        "lng": -123.8313
+        "lat": 45.09773,
+        "lng": -123.98917
       },
-      "distanceKm": 571.9
+      "distanceKm": 451.1
     },
     "e": {
       "id": "shasta-dam-wp",
@@ -158,14 +158,14 @@
       "distanceKm": 43.1
     },
     "sw": {
-      "id": "mauna-kea-wk",
-      "title": "Mauna Kea: The Mountain Taller Than Everest",
-      "tile": "8e92",
+      "id": "red-sand-beach-wp",
+      "title": "Red Sand Beach",
+      "tile": "8e9n",
       "coordinates": {
-        "lat": 19.8207,
-        "lng": -155.468
+        "lat": 20.7522,
+        "lng": -155.982
       },
-      "distanceKm": 3798.9
+      "distanceKm": 3765.1
     },
     "s": {
       "id": "weaverville-joss-house-state-historic-park-wp",
@@ -191,5 +191,6 @@
   "keywords": [
     "trinity-alps",
     "trinity-alps-wilderness"
-  ]
+  ],
+  "locationWikipediaPath": "9/r/2/3/trinity-alps-wilderness-wp"
 }

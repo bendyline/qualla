@@ -78,7 +78,7 @@
       "sourceType": "core",
       "sourceArticleId": "montreal-campaign-wp",
       "sourceGeohash4": "f25d",
-      "smallPath": "_m/f/2/5/d/montreal-campaign-wp/jeffrey-amherst-1st-ba-small.jpg"
+      "smallPath": "_m/f/2/5/d/montreal-campaign-wp/jeffrey-amherst-1st-ba-small.webp"
     },
     {
       "filename": "James Murray from NPG.jpg",
@@ -97,8 +97,8 @@
       "sourceType": "core",
       "sourceArticleId": "montreal-campaign-wp",
       "sourceGeohash4": "f25d",
-      "mediumPath": "_m/f/2/5/d/montreal-campaign-wp/james-murray-unknown-a-medium.jpg",
-      "smallPath": "_m/f/2/5/d/montreal-campaign-wp/james-murray-unknown-a-small.jpg"
+      "mediumPath": "_m/f/2/5/d/montreal-campaign-wp/james-murray-unknown-a-medium.webp",
+      "smallPath": "_m/f/2/5/d/montreal-campaign-wp/james-murray-unknown-a-small.webp"
     },
     {
       "filename": "1760 Canada Surrender byThomasFoxcroft Boston.jpg",
@@ -117,7 +117,7 @@
       "sourceType": "core",
       "sourceArticleId": "montreal-campaign-wp",
       "sourceGeohash4": "f25d",
-      "smallPath": "_m/f/2/5/d/montreal-campaign-wp/grateful-reflexions-si-small.jpg"
+      "smallPath": "_m/f/2/5/d/montreal-campaign-wp/grateful-reflexions-si-small.webp"
     },
     {
       "filename": "Rapides Lachine.jpg",
@@ -137,8 +137,8 @@
       "sourceType": "core",
       "sourceArticleId": "montreal-campaign-wp",
       "sourceGeohash4": "f25d",
-      "mediumPath": "_m/f/2/5/d/montreal-campaign-wp/lachine-rapids-montrea-medium.jpg",
-      "smallPath": "_m/f/2/5/d/montreal-campaign-wp/lachine-rapids-montrea-small.jpg"
+      "mediumPath": "_m/f/2/5/d/montreal-campaign-wp/lachine-rapids-montrea-medium.webp",
+      "smallPath": "_m/f/2/5/d/montreal-campaign-wp/lachine-rapids-montrea-small.webp"
     },
     {
       "filename": "The Isles of Montreal as they have been surveyd by the French engineers.jpg",
@@ -157,7 +157,7 @@
       "sourceType": "core",
       "sourceArticleId": "montreal-campaign-wp",
       "sourceGeohash4": "f25d",
-      "smallPath": "_m/f/2/5/d/montreal-campaign-wp/isles-montreal-they-ha-small.jpg"
+      "smallPath": "_m/f/2/5/d/montreal-campaign-wp/isles-montreal-they-ha-small.webp"
     },
     {
       "filename": "Medal bestowed on a Native American chief for the storming of Montreal by the British in 1760, by Daniel Christian Fueter, 1761, silver - Château Ramezay - Montreal, Canada - DSC07475.jpg",
@@ -176,7 +176,7 @@
       "sourceType": "core",
       "sourceArticleId": "montreal-campaign-wp",
       "sourceGeohash4": "f25d",
-      "smallPath": "_m/f/2/5/d/montreal-campaign-wp/exhibit-chateau-rameza-small.jpg"
+      "smallPath": "_m/f/2/5/d/montreal-campaign-wp/exhibit-chateau-rameza-small.webp"
     },
     {
       "filename": "François Gaston de Lévis (Stewart 1984-8).jpg",
@@ -196,7 +196,7 @@
       "sourceType": "core",
       "sourceArticleId": "montreal-campaign-wp",
       "sourceGeohash4": "f25d",
-      "smallPath": "_m/f/2/5/d/montreal-campaign-wp/francis-de-gaston-chev-small.jpg"
+      "smallPath": "_m/f/2/5/d/montreal-campaign-wp/francis-de-gaston-chev-small.webp"
     }
   ],
   "galleryPaths": [
@@ -208,5 +208,25 @@
     "_m/f/2/5/d/montreal-campaign-wp/exhibit-chateau-rameza.jpg",
     "_m/f/2/5/d/montreal-campaign-wp/francis-de-gaston-chev.jpg"
   ],
-  "fetchedAt": "2026-02-28T13:15:02.516Z"
+  "narration": {
+    "files": [
+      "f25d-the-fall-of-montreal-three-armies-one-september-mo-flight-context.mp3",
+      "f25d-the-fall-of-montreal-three-armies-one-september-mo-intro.mp3",
+      "f25d-the-fall-of-montreal-three-armies-one-september-mo-a-noose-of-rivers-and-lakes.mp3",
+      "f25d-the-fall-of-montreal-three-armies-one-september-mo-murrays-quiet-conquest.mp3",
+      "f25d-the-fall-of-montreal-three-armies-one-september-mo-rangers-in-the-swamps.mp3",
+      "f25d-the-fall-of-montreal-three-armies-one-september-mo-amhersts-deadly-rapids.mp3",
+      "f25d-the-fall-of-montreal-three-armies-one-september-mo-the-terms-and-their-legacy.mp3"
+    ],
+    "durations": {
+      "f25d-the-fall-of-montreal-three-armies-one-september-mo-flight-context.mp3": 60.454,
+      "f25d-the-fall-of-montreal-three-armies-one-september-mo-intro.mp3": 59.6820833,
+      "f25d-the-fall-of-montreal-three-armies-one-september-mo-a-noose-of-rivers-and-lakes.mp3": 65.1662083,
+      "f25d-the-fall-of-montreal-three-armies-one-september-mo-murrays-quiet-conquest.mp3": 76.0238333,
+      "f25d-the-fall-of-montreal-three-armies-one-september-mo-rangers-in-the-swamps.mp3": 67.975625,
+      "f25d-the-fall-of-montreal-three-armies-one-september-mo-amhersts-deadly-rapids.mp3": 66.673625,
+      "f25d-the-fall-of-montreal-three-armies-one-september-mo-the-terms-and-their-legacy.mp3": 83.2786666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

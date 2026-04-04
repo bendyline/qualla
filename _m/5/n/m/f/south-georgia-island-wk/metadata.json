@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "south-georgia-island-wk",
     "sourceGeohash4": "5nmf",
-    "smallPath": "_m/5/n/m/f/south-georgia-island-wk/hero-small.jpg",
-    "mediumPath": "_m/5/n/m/f/south-georgia-island-wk/hero-medium.jpg"
+    "smallPath": "_m/5/n/m/f/south-georgia-island-wk/hero-small.webp",
+    "mediumPath": "_m/5/n/m/f/south-georgia-island-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Leith whaling station.JPG",
@@ -73,7 +73,7 @@
       "sourceType": "core",
       "sourceArticleId": "south-georgia-island-wk",
       "sourceGeohash4": "5nmf",
-      "smallPath": "_m/5/n/m/f/south-georgia-island-wk/church-grytviken-small.jpg"
+      "smallPath": "_m/5/n/m/f/south-georgia-island-wk/church-grytviken-small.webp"
     },
     {
       "filename": "Lenticular Clouds South Georgia1.jpg",
@@ -111,36 +111,34 @@
       "sourceType": "core",
       "sourceArticleId": "south-georgia-island-wk",
       "sourceGeohash4": "5nmf",
-      "smallPath": "_m/5/n/m/f/south-georgia-island-wk/lenticular-clouds-alto-small.jpg",
-      "mediumPath": "_m/5/n/m/f/south-georgia-island-wk/lenticular-clouds-alto-medium.jpg"
+      "smallPath": "_m/5/n/m/f/south-georgia-island-wk/lenticular-clouds-alto-small.webp",
+      "mediumPath": "_m/5/n/m/f/south-georgia-island-wk/lenticular-clouds-alto-medium.webp"
     }
   ],
   "galleryPaths": [
     "_m/5/n/m/f/south-georgia-island-wk/church-grytviken.jpg",
     "_m/5/n/m/f/south-georgia-island-wk/lenticular-clouds-alto.jpg"
   ],
-  "fetchedAt": "2026-02-21T20:07:11.781Z",
   "updatedAt": "2026-01-29T07:19:43.288Z",
   "narration": {
     "files": [
       "5nmf-south-georgia-island-flight-context.mp3",
       "5nmf-south-georgia-island-intro.mp3",
-      "5nmf-south-georgia-island-resurrection-island.mp3",
-      "5nmf-south-georgia-island-the-crossing.mp3",
-      "5nmf-south-georgia-island-the-end-of-the-world.mp3",
+      "5nmf-south-georgia-island-the-wildlife-metropolis.mp3",
       "5nmf-south-georgia-island-the-whaling-graveyard.mp3",
-      "5nmf-south-georgia-island-the-wildlife-metropolis.mp3"
+      "5nmf-south-georgia-island-the-crossing.mp3",
+      "5nmf-south-georgia-island-resurrection-island.mp3",
+      "5nmf-south-georgia-island-the-end-of-the-world.mp3"
     ],
     "durations": {
-      "5nmf-south-georgia-island-flight-context.mp3": 122.568,
-      "5nmf-south-georgia-island-intro.mp3": 53.76,
-      "5nmf-south-georgia-island-resurrection-island.mp3": 67.176,
-      "5nmf-south-georgia-island-the-crossing.mp3": 65.256,
-      "5nmf-south-georgia-island-the-end-of-the-world.mp3": 58.968,
-      "5nmf-south-georgia-island-the-whaling-graveyard.mp3": 69.6,
-      "5nmf-south-georgia-island-the-wildlife-metropolis.mp3": 66.408
+      "5nmf-south-georgia-island-flight-context.mp3": 76.1066666,
+      "5nmf-south-georgia-island-intro.mp3": 54.8468333,
+      "5nmf-south-georgia-island-the-wildlife-metropolis.mp3": 72.0953333,
+      "5nmf-south-georgia-island-the-whaling-graveyard.mp3": 69.422,
+      "5nmf-south-georgia-island-the-crossing.mp3": 66.16375,
+      "5nmf-south-georgia-island-resurrection-island.mp3": 63.470375,
+      "5nmf-south-georgia-island-the-end-of-the-world.mp3": 61.0167916
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:55.651Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

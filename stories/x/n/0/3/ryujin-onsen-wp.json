@@ -88,14 +88,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "himeji-wk",
+      "title": "Himeji",
+      "tile": "wypy",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 34.81516666666667,
+        "lng": 134.6853888888889
       },
-      "distanceKm": 1284.2
+      "distanceKm": 66.4
     },
     "n": {
       "id": "kokawa-dera-wp",
@@ -118,14 +118,14 @@
       "distanceKm": 34.8
     },
     "w": {
-      "id": "tangshan-earthquake-wk",
-      "title": "The Tangshan Earthquake: The Deadliest Quake of the 20th Century",
-      "tile": "wxh1",
+      "id": "bando-prisoner-of-war-camp-wp",
+      "title": "Bando Prisoner-of-War Camp",
+      "tile": "wypd",
       "coordinates": {
-        "lat": 39.6292,
-        "lng": 118.1742
+        "lat": 34.15,
+        "lng": 134.5
       },
-      "distanceKm": 1619.4
+      "distanceKm": 48.5
     },
     "e": {
       "id": "hananoiwaya-shrine-wp",
@@ -148,14 +148,14 @@
       "distanceKm": 2403.1
     },
     "s": {
-      "id": "hanoi-wk",
-      "title": "Hanoi",
-      "tile": "w7er",
+      "id": "1991-eruption-of-mount-pinatubo-wp",
+      "title": "1991 Eruption of Mount Pinatubo",
+      "tile": "wdtw",
       "coordinates": {
-        "lat": 21.0285,
-        "lng": 105.8542
+        "lat": 15.141666666666666,
+        "lng": 120.35
       },
-      "distanceKm": 3237
+      "distanceKm": 2570.1
     },
     "se": {
       "id": "great-barrier-reef-deeper-wk",
@@ -167,5 +167,6 @@
       },
       "distanceKm": 5870.2
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/0/3/ryujin-onsen-wp"
 }

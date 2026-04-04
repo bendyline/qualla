@@ -1,0 +1,150 @@
+{
+  "id": "rockingham-castle-wp",
+  "source": "wikipedia",
+  "sourceId": "1713010",
+  "title": "Rockingham Castle",
+  "slug": "rockingham-castle",
+  "summary": "Built by William the Conqueror as a royal hunting lodge overlooking the Welland Valley, Rockingham Castle has been continuously occupied for nearly a thousand years and inspired Dickens's Bleak House.",
+  "content": {
+    "intro": "Charles Dickens was a frequent guest. He came for the company of Richard and Lavinia Watson, walked the grounds, admired the views over the Welland Valley, and absorbed the atmosphere of a castle that had sheltered English kings since the Norman Conquest. When he sat down to write Bleak House in 1853, Rockingham Castle -- or something very like it -- became Chesney Wold, the brooding ancestral seat of Sir Leicester Dedlock. The castle Dickens knew was already ancient. It had stood on its hilltop in Northamptonshire since William the Conqueror ordered a wooden motte and bailey erected there in the 11th century, and it has been someone's home ever since.",
+    "sections": [
+      {
+        "title": "From Norman Stronghold to Royal Retreat",
+        "body": "The strategic logic of the site is obvious from the air. Rockingham's elevated position commands clear views across the Welland Valley from a strong defensive hilltop. William the Conqueror chose it for exactly those reasons, and within three decades his son William II had replaced the original wooden structure with a stone castle. A stone keep rose on the motte, curtain walls enclosed the outer bailey, and the nearby Rockingham Forest -- rich with wild boar and deer -- made it an ideal royal hunting retreat. Kings returned repeatedly. In 1095, William II held a council here with Anselm, Archbishop of Canterbury, to settle a dispute over episcopal appointments (it failed). In 1270, Henry III strengthened the castle with a twin D-tower gatehouse. Edward III was the last monarch to visit while the castle remained Crown property."
+      },
+      {
+        "title": "The Watson Centuries",
+        "body": "By the late 15th century, royal interest had waned and the castle had fallen into disrepair. The Watson family acquired it, and Lewis Watson secured the freehold from the Crown, eventually becoming Baron Rockingham. The family held Rockingham through the turbulence of the English Civil War, when Royalist troops garrisoned the castle and fought skirmishes with Parliamentarian forces. In 1643, the Parliamentarian general Henry Grey, 1st Earl of Stamford, captured Rockingham and forced Lewis Watson to leave temporarily. The castle's remaining defensive walls were slighted in 1646 -- deliberately damaged to prevent future military use. But Rockingham survived the indignity and returned to domestic life. Through a complex web of marriages, inheritances, and title transfers, the castle passed through related families for centuries, eventually reaching Commander Michael Saunders Watson, whose descendants live there still."
+      },
+      {
+        "title": "Dickens, Film, and Cricket",
+        "body": "The castle's twin D-tower gatehouse, its medieval passages guarded by portcullises and murder holes, and its stone halls give Rockingham a dramatic silhouette. But the atmosphere that drew Dickens was something softer -- the lived-in quality of a home that had evolved over centuries rather than being preserved as a museum piece. That dual character has made it appealing to filmmakers too. The BBC used Rockingham as the principal setting for By the Sword Divided, a Civil War drama where it appeared as the fictional Arnescote Castle. Val Kilmer starred in scenes filmed here for Top Secret! Today the castle opens to the public for events and on select days, its grounds still home to a cricket pitch where the Old Eastonians play. From the ramparts, the view across the Welland Valley toward Rutland is essentially unchanged from what the Conqueror's garrison would have seen -- green, rolling, and unmistakably English."
+      }
+    ],
+    "flightContext": "Rockingham Castle sits at 52.51°N, 0.72°W on elevated ground overlooking the Welland Valley, approximately 2 miles from Corby, Northamptonshire. The twin D-tower gatehouse is visible from lower altitudes. Nearest airports include Sywell (EGBK) to the south and East Midlands (EGNX) to the northwest."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.5129,
+      "lng": -0.724
+    },
+    "geohash": "gcr6x"
+  },
+  "categories": [
+    "castle",
+    "history",
+    "literature",
+    "heritage"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 620,
+    "readTime": 3,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 10205
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Rockingham Castle - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rockingham_Castle",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "William the Conqueror ordered wooden motte and bailey in 11th century",
+        "William II replaced original wooden structure with stone castle",
+        "Henry III added twin D-tower gatehouse in 1270",
+        "Dickens inspired Chesney Wold in Bleak House from Rockingham",
+        "Richard and Lavinia Watson confirmed as Dickens's hosts",
+        "BBC used Rockingham for By the Sword Divided as Arnescote Castle",
+        "Val Kilmer scenes filmed at Rockingham for Top Secret!"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "g/c/r/6/rockingham-castle-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "calke-abbey-wp",
+      "title": "Calke Abbey",
+      "tile": "gcqu",
+      "coordinates": {
+        "lat": 52.79965,
+        "lng": -1.456028
+      },
+      "distanceKm": 8
+    },
+    "n": {
+      "id": "woolsthorpe-manor-wp",
+      "title": "Woolsthorpe Manor",
+      "tile": "gcrs",
+      "coordinates": {
+        "lat": 52.809167,
+        "lng": -0.630556
+      },
+      "distanceKm": 18.7
+    },
+    "ne": {
+      "id": "zuiderzee-works-wp",
+      "title": "Zuiderzee Works",
+      "tile": "u17s",
+      "coordinates": {
+        "lat": 52.821,
+        "lng": 5.269
+      },
+      "distanceKm": 378.1
+    },
+    "w": {
+      "id": "coventry-cathedral-wp",
+      "title": "Coventry Cathedral",
+      "tile": "gcqf",
+      "coordinates": {
+        "lat": 52.4083,
+        "lng": -1.5073
+      },
+      "distanceKm": 9.8
+    },
+    "e": {
+      "id": "peterborough-cathedral-wp",
+      "title": "Peterborough Cathedral",
+      "tile": "gcrg",
+      "coordinates": {
+        "lat": 52.5724,
+        "lng": -0.2384
+      },
+      "distanceKm": 13.7
+    },
+    "sw": {
+      "id": "battle-of-edgehill-wp",
+      "title": "Battle of Edgehill",
+      "tile": "gcqb",
+      "coordinates": {
+        "lat": 52.13997,
+        "lng": -1.48416
+      },
+      "distanceKm": 9.2
+    },
+    "s": {
+      "id": "bletchley-park-wp",
+      "title": "Bletchley Park",
+      "tile": "gcpr",
+      "coordinates": {
+        "lat": 51.9977,
+        "lng": -0.7414
+      },
+      "distanceKm": 25.1
+    },
+    "se": {
+      "id": "battle-of-barnet-wp",
+      "title": "Battle of Barnet: The Fog That Decided a Dynasty",
+      "tile": "gcpv",
+      "coordinates": {
+        "lat": 51.6619,
+        "lng": -0.1797
+      },
+      "distanceKm": 61.8
+    }
+  }
+}

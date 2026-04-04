@@ -91,24 +91,24 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "pennine-way-wk",
-      "title": "Pennine Way",
-      "tile": "gcqx",
+      "id": "crowland-abbey-wp",
+      "title": "Crowland Abbey",
+      "tile": "gcrg",
       "coordinates": {
-        "lat": 53.3706,
-        "lng": -1.8168
+        "lat": 52.67639,
+        "lng": -0.16528
       },
-      "distanceKm": 391.1
+      "distanceKm": 272.5
     },
     "n": {
-      "id": "edinburgh-wk",
-      "title": "Edinburgh",
-      "tile": "gcvw",
+      "id": "peterborough-cathedral-wp",
+      "title": "Peterborough Cathedral",
+      "tile": "gcrg",
       "coordinates": {
-        "lat": 55.953056,
-        "lng": -3.188889
+        "lat": 52.5724,
+        "lng": -0.2384
       },
-      "distanceKm": 620
+      "distanceKm": 313.1
     },
     "ne": {
       "id": "zuiderzee-museum-wp",
@@ -173,5 +173,6 @@
   },
   "keywords": [
     "keukenhof"
-  ]
+  ],
+  "locationWikipediaPath": "u/1/7/1/keukenhof-wp"
 }

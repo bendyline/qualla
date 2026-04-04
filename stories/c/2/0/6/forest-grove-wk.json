@@ -68,24 +68,24 @@
   "locationWikivoyagePath": "c/2/0/6/forest-grove-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "astoria-end-of-trail-wk",
-      "title": "Astoria: Where Lewis and Clark Finally Saw the Pacific",
-      "tile": "c0py",
+      "id": "oswald-west-state-park-wp",
+      "title": "Oswald West State Park",
+      "tile": "c0pu",
       "coordinates": {
-        "lat": 46.1879,
-        "lng": -123.8313
+        "lat": 45.7698,
+        "lng": -123.96
       },
-      "distanceKm": 54.3
+      "distanceKm": 17.9
     },
     "n": {
-      "id": "mount-st-helens-wk",
-      "title": "Mount St. Helens",
-      "tile": "c21n",
+      "id": "ukase-of-1821-wp",
+      "title": "Ukase of 1821",
+      "tile": "c0pu",
       "coordinates": {
-        "lat": 46.191,
-        "lng": -122.18
+        "lat": 45.833333333333336,
+        "lng": -123.96194444444444
       },
-      "distanceKm": 97.2
+      "distanceKm": 59.1
     },
     "ne": {
       "id": "mount-st-helens-eruption-wk",
@@ -98,14 +98,14 @@
       "distanceKm": 66.7
     },
     "w": {
-      "id": "nanaimo-bathtub-race-wk",
-      "title": "The Nanaimo Bathtub Race: When a City Got Weird",
-      "tile": "c0xz",
+      "id": "tillamook-air-museum-wp",
+      "title": "Tillamook Air Museum",
+      "tile": "c0pf",
       "coordinates": {
-        "lat": 49.17,
-        "lng": -123.94
+        "lat": 45.4204,
+        "lng": -123.805
       },
-      "distanceKm": 415.1
+      "distanceKm": 4.8
     },
     "e": {
       "id": "portland-city-wk",
@@ -118,24 +118,24 @@
       "distanceKm": 8.5
     },
     "sw": {
-      "id": "kalaupapa-national-historical-park-wk",
-      "title": "Kalaupapa National Historical Park",
-      "tile": "8eb2",
+      "id": "nestucca-bay-national-wildlife-refuge-wp",
+      "title": "Nestucca Bay National Wildlife Refuge",
+      "tile": "c0pb",
       "coordinates": {
-        "lat": 21.1778,
-        "lng": -156.96
+        "lat": 45.1725,
+        "lng": -123.947
       },
-      "distanceKm": 4033.5
+      "distanceKm": 15.4
     },
     "s": {
-      "id": "eugene-wk",
-      "title": "Eugene: Tracktown USA and the Hippie Mecca",
-      "tile": "9rb6",
+      "id": "neskowin-ghost-forest-wp",
+      "title": "Neskowin Ghost Forest",
+      "tile": "c0pb",
       "coordinates": {
-        "lat": 44.051944,
-        "lng": -123.086667
+        "lat": 45.09773,
+        "lng": -123.98917
       },
-      "distanceKm": 125.4
+      "distanceKm": 60.7
     },
     "se": {
       "id": "warm-springs-indian-reservation-wp",

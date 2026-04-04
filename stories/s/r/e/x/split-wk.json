@@ -112,74 +112,74 @@
   "locationWikivoyagePath": "s/r/e/x/split-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "venice-wk",
-      "title": "Venice",
-      "tile": "u20f",
+      "id": "zadar-wk",
+      "title": "Zadar",
+      "tile": "srff",
       "coordinates": {
-        "lat": 45.4408,
-        "lng": 12.3155
+        "lat": 44.11416666666667,
+        "lng": 15.2275
       },
-      "distanceKm": 333.9
+      "distanceKm": 61
     },
     "n": {
-      "id": "zagreb-wk",
-      "title": "Zagreb",
-      "tile": "u25k",
+      "id": "krka-national-park-wk",
+      "title": "Krka National Park",
+      "tile": "srg3",
       "coordinates": {
-        "lat": 45.815,
-        "lng": 15.9819
+        "lat": 43.801944,
+        "lng": 15.972778
       },
-      "distanceKm": 229.3
+      "distanceKm": 30.3
     },
     "ne": {
-      "id": "franz-ferdinand-wk",
-      "title": "The Assassination of Franz Ferdinand: The Wrong Turn That Started World War I",
+      "id": "sarajevo-tunnel-wp",
+      "title": "Sarajevo Tunnel",
       "tile": "srv1",
       "coordinates": {
-        "lat": 43.8575,
-        "lng": 18.4283
+        "lat": 43.819722,
+        "lng": 18.337222
       },
-      "distanceKm": 125
+      "distanceKm": 117.5
     },
     "w": {
-      "id": "herculaneum-wk",
-      "title": "Herculaneum: Pompeii's Forgotten Sister",
-      "tile": "sr60",
+      "id": "plitvice-lakes-national-park-wk",
+      "title": "Plitvice Lakes National Park",
+      "tile": "srgp",
       "coordinates": {
-        "lat": 40.8062,
-        "lng": 14.3478
+        "lat": 44.880445,
+        "lng": 15.616035
       },
-      "distanceKm": 323.8
+      "distanceKm": 153.7
     },
     "e": {
-      "id": "dubrovnik-wk",
-      "title": "Dubrovnik",
-      "tile": "srsf",
+      "id": "statue-of-bruce-lee-mostar-wp",
+      "title": "Statue of Bruce Lee, Mostar",
+      "tile": "srsw",
       "coordinates": {
-        "lat": 42.6507,
-        "lng": 18.0944
+        "lat": 43.3428,
+        "lng": 17.8042
       },
-      "distanceKm": 137.3
+      "distanceKm": 77.2
     },
     "sw": {
-      "id": "naples-wk",
-      "title": "Naples",
-      "tile": "sr60",
+      "id": "rigopiano-avalanche-wp",
+      "title": "Rigopiano Avalanche",
+      "tile": "sr9c",
       "coordinates": {
-        "lat": 40.8518,
-        "lng": 14.2681
+        "lat": 42.4309386,
+        "lng": 13.7809122
       },
-      "distanceKm": 295.1
+      "distanceKm": 189.2
     },
     "s": {
-      "id": "pompeii-graffiti-wk",
-      "title": "The Graffiti of Pompeii: Ancient Rome's Bathroom Walls",
-      "tile": "sr4r",
+      "id": "hvar-wk",
+      "title": "Hvar",
+      "tile": "srev",
       "coordinates": {
-        "lat": 40.75,
-        "lng": 14.49
+        "lat": 43.15,
+        "lng": 16.75
       },
-      "distanceKm": 316.8
+      "distanceKm": 34.2
     },
     "se": {
       "id": "kor-ula-wk",

@@ -35,8 +35,8 @@
           "Sutherland, Saskatoon",
           "Taken with Sony DSLR-A200"
         ],
-        "mediumPath": "_m/f/2/5/e/montreal-locomotive-works-wp/hero-medium.jpg",
-        "smallPath": "_m/f/2/5/e/montreal-locomotive-works-wp/hero-small.jpg"
+        "mediumPath": "_m/f/2/5/e/montreal-locomotive-works-wp/hero-medium.webp",
+        "smallPath": "_m/f/2/5/e/montreal-locomotive-works-wp/hero-small.webp"
       },
       "images": [
         {
@@ -60,7 +60,7 @@
             "Rolling stock builder's plates of Canadian manufacturers",
             "September 1913 in Canada"
           ],
-          "smallPath": "_m/f/2/5/e/montreal-locomotive-works-wp/montreal-locomotive-wo-small.jpg"
+          "smallPath": "_m/f/2/5/e/montreal-locomotive-works-wp/montreal-locomotive-wo-small.webp"
         },
         {
           "path": "_m/f/2/5/e/montreal-locomotive-works-wp/ose-s-a-460-thessaloni.jpg",
@@ -83,7 +83,7 @@
             "Self-published work",
             "Trains of Greece"
           ],
-          "smallPath": "_m/f/2/5/e/montreal-locomotive-works-wp/ose-s-a-460-thessaloni-small.jpg"
+          "smallPath": "_m/f/2/5/e/montreal-locomotive-works-wp/ose-s-a-460-thessaloni-small.webp"
         },
         {
           "path": "_m/f/2/5/e/montreal-locomotive-works-wp/presentation-de-chars.png",
@@ -108,7 +108,7 @@
             "PD Canada",
             "Ram tank"
           ],
-          "smallPath": "_m/f/2/5/e/montreal-locomotive-works-wp/presentation-de-chars-small.png"
+          "smallPath": "_m/f/2/5/e/montreal-locomotive-works-wp/presentation-de-chars-small.webp"
         },
         {
           "path": "_m/f/2/5/e/montreal-locomotive-works-wp/locomotive-709-type-70.jpg",
@@ -134,10 +134,20 @@
             "Museo Ferroviario de Santiago",
             "Self-published work"
           ],
-          "mediumPath": "_m/f/2/5/e/montreal-locomotive-works-wp/locomotive-709-type-70-medium.jpg",
-          "smallPath": "_m/f/2/5/e/montreal-locomotive-works-wp/locomotive-709-type-70-small.jpg"
+          "mediumPath": "_m/f/2/5/e/montreal-locomotive-works-wp/locomotive-709-type-70-medium.webp",
+          "smallPath": "_m/f/2/5/e/montreal-locomotive-works-wp/locomotive-709-type-70-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/f/2/5/e/montreal-locomotive-works-wp/f25e-montreal-locomotive-works-flight-context.mp3",
+        "_m/f/2/5/e/montreal-locomotive-works-wp/f25e-montreal-locomotive-works-intro.mp3",
+        "_m/f/2/5/e/montreal-locomotive-works-wp/f25e-montreal-locomotive-works-smoke-and-steel-on-the-st-lawrence.mp3",
+        "_m/f/2/5/e/montreal-locomotive-works-wp/f25e-montreal-locomotive-works-tanks-on-the-assembly-line.mp3",
+        "_m/f/2/5/e/montreal-locomotive-works-wp/f25e-montreal-locomotive-works-the-diesel-revolution.mp3",
+        "_m/f/2/5/e/montreal-locomotive-works-wp/f25e-montreal-locomotive-works-five-owners-and-the-safety-cab.mp3",
+        "_m/f/2/5/e/montreal-locomotive-works-wp/f25e-montreal-locomotive-works-rubble-on-dickson-street.mp3"
+      ],
+      "combinedNarration": "_m/f/2/5/e/montreal-locomotive-works-wp/f25e-montreal-locomotive-works-combined.mp3"
     }
   }
 }

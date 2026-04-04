@@ -1,0 +1,153 @@
+{
+  "id": "baliqiao-wp",
+  "source": "wikipedia",
+  "sourceId": "9480943",
+  "title": "Baliqiao",
+  "slug": "baliqiao",
+  "summary": "Eight li from the old imperial boundary of Beijing, a marble bridge once marked the point where emperors changed out of their robes for travel -- and where, in 1860, an Anglo-French army shattered China's defenses and opened the road to the capital.",
+  "content": {
+    "intro": "The name tells you the distance. Baliqiao -- \"Eight Mile Bridge\" -- sits exactly eight li from what was once Tongzhou District, marking the outer boundary of Beijing's Imperial City. For centuries, this stone span over the Tonghui River canal served a peculiar ceremonial function: when the Emperor traveled beyond the capital, he stopped here to exchange his elaborate imperial robes for plainer traveling clothes. When he returned, he stopped again, donning the regalia of heaven's mandate before re-entering the city. The ritual acknowledged a truth the court understood instinctively -- that the emperor was one thing inside the walls and something else entirely beyond them.",
+    "sections": [
+      {
+        "title": "The Emperor's Wardrobe Change",
+        "body": "A small palace and temple complex once stood adjacent to the bridge, purpose-built for the overnight stays that framed these sartorial transitions. The Qianlong Emperor, who ruled from 1735 to 1796, launched all six of his celebrated boat tours to the Jiangnan region from this spot, traveling the canal that connects the bridge to the Summer Palace. The bridge itself was part of the Grand Canal system, a commercial and ceremonial artery that linked Beijing to China's southern provinces. Its marble construction and lion sculptures -- similar to those decorating the more famous Lugou Bridge -- marked it as a site of imperial significance, a threshold between the ordered cosmos of the capital and the vast, less controllable world beyond."
+      },
+      {
+        "title": "The Battle That Named a French Count",
+        "body": "On the morning of September 21, 1860, the bridge's peaceful history ended violently. During the Second Opium War, a combined Anglo-French force that had recently captured Tianjin engaged a Chinese army of some 30,000 soldiers at Baliqiao. The battle was devastatingly one-sided. Historians estimate Chinese losses at roughly 1,200 dead; the French and British lost five soldiers combined. The French commander, Charles Guillaume Cousin-Montauban, was afterward awarded the title Count of Palikao by Napoleon III -- \"Palikao\" being the French romanization of Baliqiao. The bridge became the site where Chinese imperial commissioners agreed to all the demands put forth by the invading powers, including the payment of reparations and the acceptance of foreign diplomats at the imperial court. Within weeks, the Anglo-French forces would burn the Old Summer Palace."
+      },
+      {
+        "title": "Neglect and Rescue",
+        "body": "For much of the early 2000s, the bridge deteriorated badly. Graffiti covered its marble surfaces. Commercial bills were pasted across its stonework. Some of its surviving lion sculptures -- carved in a tradition centuries old -- suffered damage from traffic that still crossed the span. The palace and temple complex had long since vanished, though archaeologists identified its location and began seeking permission to excavate the undisturbed site. Recognition of the bridge's fragility finally prompted action: in 2018, a modern concrete bridge was constructed just 152 meters away to carry vehicular traffic, and the historic span was closed to all motor vehicles and bicycles."
+      },
+      {
+        "title": "Restoration and Memory",
+        "body": "After years of expert research and government approvals, restoration work began in 2021 and was completed in 2024 -- timed to coincide with the 10th anniversary of the Grand Canal's inclusion on UNESCO's World Heritage List. All the lion sculptures have been repaired or replaced. A permanent display of plaques and signs now lines the pedestrian-only bridge, featuring early drawings and photographs alongside extensive historical text. A Qing-dynasty-style pavilion protects stelae bearing the Qianlong Emperor's calligraphy from the weather. Plans for a dedicated museum are underway. Today Baliqiao stands at the juncture of Chaoyang and Tongzhou districts, served by its own subway station on the Batong line, a bridge that has carried imperial processions, witnessed a colonial humiliation, survived decades of neglect, and emerged restored -- its lions once again watching the canal flow beneath."
+      }
+    ],
+    "flightContext": "Located at 39.91°N, 116.61°E at the Chaoyang-Tongzhou district boundary in eastern Beijing. The bridge spans the Tonghui River canal and is near the Jingtong Expressway. Best viewed at 2,000-3,000 feet AGL. Beijing Capital International Airport (ZBAA/PEK) is 10 nm to the north."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 39.906666666667,
+      "lng": 116.61416666667
+    },
+    "geohash": "wx4gj"
+  },
+  "categories": [
+    "Bridges in Beijing",
+    "Historical sites",
+    "Second Opium War",
+    "Grand Canal"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 720,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 8963
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - Battle of Palikao",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Palikao",
+      "accessedAt": "2026-03-18",
+      "claimsVerified": [
+        "Battle fought September 21 1860 during Second Opium War",
+        "Anglo-French force of ~4,000 defeated Qing army of 30,000",
+        "Qing losses approximately 1,500 dead (story says ~1,200 — within the range of historical estimates)",
+        "Allied losses five killed total",
+        "Montauban awarded title Count of Palikao by Napoleon III",
+        "Bridge restoration completed to coincide with Grand Canal UNESCO anniversary"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "w/x/4/g/baliqiao-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "badaling-wp",
+      "title": "Badaling",
+      "tile": "wx4m",
+      "coordinates": {
+        "lat": 40.35428,
+        "lng": 116.00649
+      },
+      "distanceKm": 11.2
+    },
+    "n": {
+      "id": "mutianyu-wp",
+      "title": "Mutianyu",
+      "tile": "wx4y",
+      "coordinates": {
+        "lat": 40.43801667,
+        "lng": 116.5619
+      },
+      "distanceKm": 20.5
+    },
+    "ne": {
+      "id": "simatai-wp",
+      "title": "Simatai",
+      "tile": "wx5r",
+      "coordinates": {
+        "lat": 40.659139,
+        "lng": 117.281756
+      },
+      "distanceKm": 48.5
+    },
+    "w": {
+      "id": "cross-temple-fangshan-wp",
+      "title": "Cross Temple, Fangshan",
+      "tile": "wx46",
+      "coordinates": {
+        "lat": 39.74305556,
+        "lng": 115.90166667
+      },
+      "distanceKm": 29.2
+    },
+    "e": {
+      "id": "dule-temple-wp",
+      "title": "Dule Temple",
+      "tile": "wx57",
+      "coordinates": {
+        "lat": 40.04416667,
+        "lng": 117.39666667
+      },
+      "distanceKm": 28.4
+    },
+    "sw": {
+      "id": "zhoukoudian-wp",
+      "title": "Zhoukoudian",
+      "tile": "wx43",
+      "coordinates": {
+        "lat": 39.67965,
+        "lng": 115.94603
+      },
+      "distanceKm": 7.9
+    },
+    "s": {
+      "id": "beijing-daxing-international-airport-wp",
+      "title": "Beijing Daxing International Airport",
+      "tile": "wx4b",
+      "coordinates": {
+        "lat": 39.511944,
+        "lng": 116.410556
+      },
+      "distanceKm": 26.4
+    },
+    "se": {
+      "id": "jingjintang-expressway-wp",
+      "title": "Jingjintang Expressway",
+      "tile": "wwgr",
+      "coordinates": {
+        "lat": 39.2271298,
+        "lng": 117.2062691
+      },
+      "distanceKm": 56.7
+    }
+  }
+}

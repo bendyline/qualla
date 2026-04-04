@@ -22,7 +22,7 @@
       },
       {
         "title": "October's Tragedy",
-        "body": "The rains returned. The Battle of Poelcappelle on October 9 and the First Battle of Passchendaele on October 12 turned into disasters. New Zealand troops suffered nearly 3,000 casualties on October 12 alone, one of the worst days in that nation's military history. The mud that had dried enough to support the September offensives returned with a vengeance. Artillery could not be moved forward. Ammunition supply broke down. The wounded drowned in shell holes before stretcher bearers could reach them. Yet Haig pressed on, convinced that German morale was cracking and that one more push would secure the ridge for winter."
+        "body": "The rains returned. The Battle of Poelcappelle on October 9 and the First Battle of Passchendaele on October 12 turned into disasters. New Zealand troops suffered nearly 2,700 casualties on October 12 alone, one of the worst days in that nation's military history. The mud that had dried enough to support the September offensives returned with a vengeance. Artillery could not be moved forward. Ammunition supply broke down. The wounded drowned in shell holes before stretcher bearers could reach them. Yet Haig pressed on, convinced that German morale was cracking and that one more push would secure the ridge for winter."
       },
       {
         "title": "The Canadians Take the Ridge",
@@ -112,7 +112,18 @@
       "url": "https://nzhistory.govt.nz/new-zealands-blackest-day-at-passchendaele",
       "accessedAt": "2026-01-22",
       "claimsVerified": [
-        "New Zealand casualties October 12 approximately 2700-2735 (article says 'nearly 3000' - acceptable rounding)"
+        "New Zealand casualties October 12 approximately 2700-2735: corrected 'nearly 3,000' to 'nearly 2,700'"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "WW100 NZ - Counting the Cost of Passchendaele",
+      "url": "https://ww100.govt.nz/passchendaele-casualties",
+      "accessedAt": "2026-03-05",
+      "claimsVerified": [
+        "NZ Division casualties on October 12: approximately 2,700-2,735 confirmed",
+        "July 31 to November 10 1917 campaign dates confirmed",
+        "Canadian capture of Passchendaele village November 6 confirmed"
       ]
     },
     {
@@ -139,19 +150,21 @@
   "editorial": {
     "spiciness": 2,
     "strongOpinions": [],
-    "reviewedAt": "2026-01-24",
-    "corrections": []
+    "reviewedAt": "2026-03-05",
+    "corrections": [
+      "Corrected NZ casualties on October 12 from 'nearly 3,000' to 'nearly 2,700': NZ History and multiple sources confirm approximately 2,700-2,735 total casualties"
+    ]
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "kent-wk",
-      "title": "Kent",
-      "tile": "u10e",
+      "id": "dover-castle-wp",
+      "title": "Dover Castle",
+      "tile": "u10f",
       "coordinates": {
-        "lat": 51.19,
-        "lng": 0.73
+        "lat": 51.128268,
+        "lng": 1.3235035
       },
-      "distanceKm": 147.4
+      "distanceKm": 105.4
     },
     "n": {
       "id": "1933-imperial-airways-ruysselede-crash-wp",
@@ -174,14 +187,14 @@
       "distanceKm": 34.3
     },
     "w": {
-      "id": "crystal-palace-fire-wk",
-      "title": "The Crystal Palace Fire: When London's Glass Wonder Burned",
-      "tile": "gcpu",
+      "id": "le-paradis-massacre-wp",
+      "title": "Le Paradis Massacre",
+      "tile": "u0cz",
       "coordinates": {
-        "lat": 51.4188,
-        "lng": -0.0754
+        "lat": 50.5948,
+        "lng": 2.6477
       },
-      "distanceKm": 216.5
+      "distanceKm": 17.5
     },
     "e": {
       "id": "battle-of-steenkerque-wp",
@@ -194,37 +207,38 @@
       "distanceKm": 16.6
     },
     "sw": {
-      "id": "paris-wk",
-      "title": "Paris",
-      "tile": "u09t",
+      "id": "royaumont-abbey-wp",
+      "title": "Royaumont Abbey",
+      "tile": "u09x",
       "coordinates": {
-        "lat": 48.856,
-        "lng": 2.351
+        "lat": 49.1475,
+        "lng": 2.3819
       },
-      "distanceKm": 180.2
+      "distanceKm": 148
     },
     "s": {
-      "id": "notre-dame-wk",
-      "title": "Notre-Dame: The Cathedral That Burned and Rose Again",
-      "tile": "u09t",
+      "id": "courrieres-mine-disaster-wp",
+      "title": "Courrieres Mine Disaster",
+      "tile": "u0fn",
       "coordinates": {
-        "lat": 48.853,
-        "lng": 2.3499
+        "lat": 50.41556,
+        "lng": 2.89778
       },
-      "distanceKm": 191.3
+      "distanceKm": 31.5
     },
     "se": {
-      "id": "alsace-wk",
-      "title": "Alsace",
-      "tile": "u0t7",
+      "id": "marcinelle-mining-disaster-wp",
+      "title": "Marcinelle Mining Disaster",
+      "tile": "u0gn",
       "coordinates": {
-        "lat": 48.5,
-        "lng": 7.5
+        "lat": 50.380556,
+        "lng": 4.442778
       },
-      "distanceKm": 340.3
+      "distanceKm": 41.5
     }
   },
   "keywords": [
     "battle-of-passchendaele"
-  ]
+  ],
+  "locationWikipediaPath": "u/1/4/2/battle-of-mouscron-wp"
 }

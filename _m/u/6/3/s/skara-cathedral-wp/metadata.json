@@ -31,7 +31,7 @@
     "sourceType": "core",
     "sourceArticleId": "skara-cathedral-wp",
     "sourceGeohash4": "u63s",
-    "smallPath": "_m/u/6/3/s/skara-cathedral-wp/hero-small.jpg"
+    "smallPath": "_m/u/6/3/s/skara-cathedral-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Skara domkyrka 4 profeter.jpg",
@@ -92,7 +92,7 @@
       "sourceType": "core",
       "sourceArticleId": "skara-cathedral-wp",
       "sourceGeohash4": "u63s",
-      "smallPath": "_m/u/6/3/s/skara-cathedral-wp/photo-harri-blomberg-t-small.jpg"
+      "smallPath": "_m/u/6/3/s/skara-cathedral-wp/photo-harri-blomberg-t-small.webp"
     },
     {
       "filename": "Skara domkyrka, den 20 aug 2006, bild 14.JPG",
@@ -122,7 +122,7 @@
       "sourceType": "core",
       "sourceArticleId": "skara-cathedral-wp",
       "sourceGeohash4": "u63s",
-      "smallPath": "_m/u/6/3/s/skara-cathedral-wp/photo-harri-blomberg-small.jpg"
+      "smallPath": "_m/u/6/3/s/skara-cathedral-wp/photo-harri-blomberg-small.webp"
     },
     {
       "filename": "Skara domkyrka, den 20 aug 2006, bild 20.JPG",
@@ -154,7 +154,7 @@
       "sourceType": "core",
       "sourceArticleId": "skara-cathedral-wp",
       "sourceGeohash4": "u63s",
-      "smallPath": "_m/u/6/3/s/skara-cathedral-wp/photo-harri-blomberg-1-small.jpg"
+      "smallPath": "_m/u/6/3/s/skara-cathedral-wp/photo-harri-blomberg-1-small.webp"
     },
     {
       "filename": "Skara domkyrka, den 20 aug 2006, bild 21.JPG",
@@ -182,7 +182,7 @@
       "sourceType": "core",
       "sourceArticleId": "skara-cathedral-wp",
       "sourceGeohash4": "u63s",
-      "smallPath": "_m/u/6/3/s/skara-cathedral-wp/skara-domkyrka-small.jpg"
+      "smallPath": "_m/u/6/3/s/skara-cathedral-wp/skara-domkyrka-small.webp"
     },
     {
       "filename": "Predikstol 03.JPG",
@@ -207,8 +207,8 @@
       "sourceType": "core",
       "sourceArticleId": "skara-cathedral-wp",
       "sourceGeohash4": "u63s",
-      "smallPath": "_m/u/6/3/s/skara-cathedral-wp/predikstolen-i-skara-d-small.jpg",
-      "mediumPath": "_m/u/6/3/s/skara-cathedral-wp/predikstolen-i-skara-d-medium.jpg"
+      "smallPath": "_m/u/6/3/s/skara-cathedral-wp/predikstolen-i-skara-d-small.webp",
+      "mediumPath": "_m/u/6/3/s/skara-cathedral-wp/predikstolen-i-skara-d-medium.webp"
     },
     {
       "filename": "Altare 02.JPG",
@@ -228,8 +228,8 @@
       "sourceType": "core",
       "sourceArticleId": "skara-cathedral-wp",
       "sourceGeohash4": "u63s",
-      "smallPath": "_m/u/6/3/s/skara-cathedral-wp/huvudaltaret-med-altar-small.jpg",
-      "mediumPath": "_m/u/6/3/s/skara-cathedral-wp/huvudaltaret-med-altar-medium.jpg"
+      "smallPath": "_m/u/6/3/s/skara-cathedral-wp/huvudaltaret-med-altar-small.webp",
+      "mediumPath": "_m/u/6/3/s/skara-cathedral-wp/huvudaltaret-med-altar-medium.webp"
     },
     {
       "filename": "Skara domkyrka - 20240726 - 06.jpg",
@@ -255,7 +255,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "skara-cathedral-wp",
-      "sourceGeohash4": "u63s"
+      "sourceGeohash4": "u63s",
+      "mediumPath": "_m/u/6/3/s/skara-cathedral-wp/skara-domkyrka-20240726-06-medium.webp",
+      "smallPath": "_m/u/6/3/s/skara-cathedral-wp/skara-domkyrka-20240726-06-small.webp"
     }
   ],
   "galleryPaths": [
@@ -267,7 +269,6 @@
     "_m/u/6/3/s/skara-cathedral-wp/huvudaltaret-med-altar.jpg",
     "_m/u/6/3/s/skara-cathedral-wp/skara-domkyrka-20240726-06.jpg"
   ],
-  "fetchedAt": "2026-02-22T14:34:14.384Z",
   "updatedAt": "2026-02-22T14:34:14.812Z",
   "narration": {
     "files": [
@@ -288,7 +289,6 @@
       "u63s-skara-cathedral-the-hidden-crypt.mp3": 47.4971666,
       "u63s-skara-cathedral-approaching-skara.mp3": 41.00675
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T15:43:50.055Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

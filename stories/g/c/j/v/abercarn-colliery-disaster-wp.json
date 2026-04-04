@@ -1,0 +1,156 @@
+{
+  "id": "abercarn-colliery-disaster-wp",
+  "source": "wikipedia",
+  "sourceId": "39923109",
+  "title": "Abercarn Colliery Disaster",
+  "slug": "abercarn-colliery-disaster",
+  "summary": "On 11 September 1878, an explosion at the Prince of Wales Colliery in Abercarn killed 268 men and boys, the third-worst mining disaster in the South Wales Coalfield's history.",
+  "content": {
+    "intro": "When the steam whistle screamed at the Prince of Wales Colliery on 11 September 1878, the village of Abercarn already knew what it meant. In mining communities, that particular sound carried only one message. Three hundred and twenty-five men and boys had been working underground when the explosion tore through the colliery shortly after midday. Of those, 268 would never return to the surface. An exact count of the dead was never established with certainty. What was certain was the scale of the catastrophe: it remains the third-worst mining disaster in the history of the South Wales Coalfield.",
+    "sections": [
+      {
+        "title": "Fire Below",
+        "body": "The explosion was assumed to have been caused by the ignition of firedamp, the methane gas that accumulates in coal seams and kills without warning when it meets a spark. Even a safety lamp, the device meant to protect miners from exactly this danger, was suspected as the source of ignition. The blast shattered the mine's roadways and destroyed the bottom of the main shaft. Fires ignited the coal seams themselves, along with the timber structures that held up the tunnels, filling the mine with choking smoke. The colliery was not just damaged. It was burning from within."
+      },
+      {
+        "title": "The Rescuers",
+        "body": "A rescue team entered the main shaft, but the damage to the winding gear meant they could descend only 295 yards. John Harris, a mason from Abercarn, climbed down the guide ropes by hand to reach trapped men below. After hours of desperate work, about 90 colliers were brought out alive. Two miles from the main pit, a second rescue team entered a ventilation shaft, but they were ordered to withdraw when the risk of a further explosion became too great. Only twelve bodies were recovered. The rest, more than 250 men and boys, remained in the mine. Queen Victoria later awarded the Albert Medal for Lifesaving to nine rescuers, including Harris, who had gone into the burning mine knowing the odds against him."
+      },
+      {
+        "title": "Drowning the Fire",
+        "body": "The fires underground would not stop burning. With no safe way to fight them from below, the colliery owners made the agonizing decision to seal the mine and flood it. Water was redirected from the Monmouthshire Canal, and over a period of two months, millions of gallons were poured underground to extinguish the fires. The mine did not reopen until 1882, four years after the disaster. For the families of the dead, the flooding meant something more than an engineering solution. It meant their loved ones would never be brought home. The mine became a grave that could not be opened."
+      },
+      {
+        "title": "What Remained",
+        "body": "The Abercarn disaster joined a grim catalogue of South Wales mining tragedies that stretched across the nineteenth century. Each explosion produced the same cycle: grief, inquiry, modest reform, then a return to the same dangerous conditions until the next catastrophe. The men who died at Abercarn were fathers, sons, brothers. Many were boys, because children worked underground in the coalfields of Victorian Wales. A memorial stands in Abercarn today. The village itself endures, quieter now than in the years when coal was king and the pit whistle punctuated every day. The Prince of Wales Colliery is gone. The valley remains, and so does the memory of what the valley cost."
+      }
+    ],
+    "flightContext": "Located at 51.65N, 3.13W in the village of Abercarn in the Ebbw Valley, South Wales. The narrow valley between steep green hillsides is typical of the South Wales Valleys landscape. Cardiff Airport (EGFF) lies approximately 18 miles to the south. Bristol Airport (EGGD) is roughly 25 miles east across the Bristol Channel."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 51.6475,
+      "lng": -3.13138889
+    },
+    "geohash": "gcjvb"
+  },
+  "categories": [
+    "disaster",
+    "mining",
+    "history",
+    "wales"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 660,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 8906
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Abercarn colliery disaster - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Abercarn_colliery_disaster",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "268 killed confirmed (though exact count uncertain)",
+        "325 men and boys underground at time of explosion confirmed",
+        "Explosion 11 September 1878 confirmed",
+        "Third-worst mining disaster in South Wales Coalfield confirmed",
+        "Firedamp ignited by safety lamp as assumed cause confirmed",
+        "Shaft damage prevented descent past 295 yards confirmed",
+        "Mine flooded and did not reopen until 1882 confirmed",
+        "Corrected: eight Albert Medal recipients → nine (London Gazette, 16 August 1879)",
+        "Removed unverified reference to Henry Davies as named recipient"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "g/c/j/v/abercarn-colliery-disaster-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "talley-abbey-wp",
+      "title": "Talley Abbey",
+      "tile": "gcjp",
+      "coordinates": {
+        "lat": 51.97678,
+        "lng": -3.99312
+      },
+      "distanceKm": 35.4
+    },
+    "n": {
+      "id": "llanthony-priory-wp",
+      "title": "Llanthony Priory",
+      "tile": "gcjz",
+      "coordinates": {
+        "lat": 51.9448,
+        "lng": -3.03647
+      },
+      "distanceKm": 10.5
+    },
+    "ne": {
+      "id": "gloucester-cathedral-wp",
+      "title": "Gloucester Cathedral",
+      "tile": "gcnr",
+      "coordinates": {
+        "lat": 51.868,
+        "lng": -2.248
+      },
+      "distanceKm": 14.7
+    },
+    "w": {
+      "id": "ewenny-priory-wp",
+      "title": "Ewenny Priory",
+      "tile": "gcjk",
+      "coordinates": {
+        "lat": 51.488464,
+        "lng": -3.5686888
+      },
+      "distanceKm": 12.1
+    },
+    "e": {
+      "id": "charfield-railway-disaster-wp",
+      "title": "Charfield Railway Disaster",
+      "tile": "gcnm",
+      "coordinates": {
+        "lat": 51.6287,
+        "lng": -2.4005
+      },
+      "distanceKm": 5.9
+    },
+    "sw": {
+      "id": "exmoor-national-park-wk",
+      "title": "Exmoor National Park",
+      "tile": "gcj7",
+      "coordinates": {
+        "lat": 51.166669444444445,
+        "lng": -3.75
+      },
+      "distanceKm": 24.3
+    },
+    "s": {
+      "id": "wells-cathedral-wp",
+      "title": "Wells Cathedral",
+      "tile": "gcn5",
+      "coordinates": {
+        "lat": 51.2104,
+        "lng": -2.6437
+      },
+      "distanceKm": 27.3
+    },
+    "se": {
+      "id": "longleat-wp",
+      "title": "Longleat",
+      "tile": "gcn7",
+      "coordinates": {
+        "lat": 51.18568,
+        "lng": -2.27435
+      },
+      "distanceKm": 20.5
+    }
+  }
+}

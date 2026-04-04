@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/4/e/9/p/antarctic-peninsula-wk/4e9p-antarctic-peninsula-intro.mp3",
         "_m/4/e/9/p/antarctic-peninsula-wk/4e9p-antarctic-peninsula-flight-context.mp3",
-        "_m/4/e/9/p/antarctic-peninsula-wk/4e9p-antarctic-peninsula-ice-in-all-its-forms.mp3",
-        "_m/4/e/9/p/antarctic-peninsula-wk/4e9p-antarctic-peninsula-the-crossing.mp3",
-        "_m/4/e/9/p/antarctic-peninsula-wk/4e9p-antarctic-peninsula-the-human-footprint.mp3",
+        "_m/4/e/9/p/antarctic-peninsula-wk/4e9p-antarctic-peninsula-intro.mp3",
+        "_m/4/e/9/p/antarctic-peninsula-wk/4e9p-antarctic-peninsula-the-submerged-andes.mp3",
         "_m/4/e/9/p/antarctic-peninsula-wk/4e9p-antarctic-peninsula-the-penguin-cities.mp3",
-        "_m/4/e/9/p/antarctic-peninsula-wk/4e9p-antarctic-peninsula-the-submerged-andes.mp3"
+        "_m/4/e/9/p/antarctic-peninsula-wk/4e9p-antarctic-peninsula-ice-in-all-its-forms.mp3",
+        "_m/4/e/9/p/antarctic-peninsula-wk/4e9p-antarctic-peninsula-the-human-footprint.mp3",
+        "_m/4/e/9/p/antarctic-peninsula-wk/4e9p-antarctic-peninsula-the-crossing.mp3"
       ],
       "hero": {
         "path": "_m/4/e/9/p/antarctic-peninsula-wp/polarstern-rothera-hg.jpg",
@@ -35,7 +35,9 @@
           "Rothera Research Station",
           "Scanned with Nikon Super Coolscan 4000 ED",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/hero-medium.webp",
+        "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/hero-small.webp"
       },
       "images": [
         {
@@ -60,7 +62,7 @@
             "PD-user",
             "Taken with Sony DSC-P92"
           ],
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/fossil-bluff-hut-small.jpg",
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/fossil-bluff-hut-small.webp",
           "evaluation": {
             "relevance": 6,
             "visualQuality": 5,
@@ -97,7 +99,7 @@
             "Rothera Research Station",
             "Taken with Kodak DCS Pro 14n"
           ],
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/bas-rothera-research-s-small.jpg"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/bas-rothera-research-s-small.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/taken-cuverville-islan.jpg",
@@ -120,7 +122,7 @@
             "Flickr images uploaded by Flickr upload bot",
             "Islands of Antarctica"
           ],
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/taken-cuverville-islan-small.jpg"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/taken-cuverville-islan-small.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/base-matienzo-antarcti.jpg",
@@ -142,7 +144,7 @@
             "Flickr images uploaded by Flickr upload bot",
             "Matienzo Station"
           ],
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/base-matienzo-antarcti-small.jpg",
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/base-matienzo-antarcti-small.webp",
           "evaluation": {
             "relevance": 7,
             "visualQuality": 6,
@@ -173,7 +175,7 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/picture-brown-bluff-ti-small.jpg",
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/picture-brown-bluff-ti-small.webp",
           "evaluation": {
             "relevance": 9,
             "visualQuality": 9,
@@ -205,8 +207,8 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/horseshoe-island-emerg-small.jpg",
-          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/horseshoe-island-emerg-medium.jpg",
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/horseshoe-island-emerg-small.webp",
+          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/horseshoe-island-emerg-medium.webp",
           "evaluation": {
             "relevance": 6,
             "visualQuality": 6,
@@ -237,8 +239,8 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/young-gentoo-penguins-small.jpg",
-          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/young-gentoo-penguins-medium.jpg",
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/young-gentoo-penguins-small.webp",
+          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/young-gentoo-penguins-medium.webp",
           "evaluation": {
             "relevance": 10,
             "visualQuality": 9,
@@ -271,8 +273,8 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/base-primavera-en-la-p-small.jpg",
-          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/base-primavera-en-la-p-medium.jpg",
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/base-primavera-en-la-p-small.webp",
+          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/base-primavera-en-la-p-medium.webp",
           "evaluation": {
             "relevance": 7,
             "visualQuality": 6,
@@ -303,7 +305,7 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/palmer-station-antarct-small.jpg",
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/palmer-station-antarct-small.webp",
           "evaluation": {
             "relevance": 7,
             "visualQuality": 6,
@@ -334,8 +336,8 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/vernadsky-research-bas-small.jpg",
-          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/vernadsky-research-bas-medium.jpg",
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/vernadsky-research-bas-small.webp",
+          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/vernadsky-research-bas-medium.webp",
           "evaluation": {
             "relevance": 8,
             "visualQuality": 8,
@@ -367,7 +369,7 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/mainland-front-chilene-small.jpg",
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/mainland-front-chilene-small.webp",
           "evaluation": {
             "relevance": 7,
             "visualQuality": 6,
@@ -398,8 +400,8 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/gletscher-der-paradise-small.jpg",
-          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/gletscher-der-paradise-medium.jpg",
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/gletscher-der-paradise-small.webp",
+          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/gletscher-der-paradise-medium.webp",
           "evaluation": {
             "relevance": 10,
             "visualQuality": 9,
@@ -433,8 +435,8 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antatktis-port-lockroy-small.jpg",
-          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/antatktis-port-lockroy-medium.jpg",
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antatktis-port-lockroy-small.webp",
+          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/antatktis-port-lockroy-medium.webp",
           "evaluation": {
             "relevance": 9,
             "qualitySkipReason": "has-people",
@@ -486,7 +488,7 @@
             "Palmer Archipelago",
             "Self-published work"
           ],
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/drake-passage-lambert-azimutha-small.png"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/drake-passage-lambert-azimutha-small.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/1994-skulptur-fritsch-hg.jpg",
@@ -511,8 +513,8 @@
             "Scanned with Nikon Super Coolscan 4000 ED",
             "Self-published work"
           ],
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/1994-skulptur-fritsch-hg-small.jpg",
-          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/1994-skulptur-fritsch-hg-medium.jpg"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/1994-skulptur-fritsch-hg-small.webp",
+          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/1994-skulptur-fritsch-hg-medium.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/chenal-peltier-antarctique.jpg",
@@ -537,7 +539,7 @@
             "Self-published work",
             "Taken with Canon PowerShot G9"
           ],
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/chenal-peltier-antarctique-small.jpg"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/chenal-peltier-antarctique-small.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/doumer-island.jpg",
@@ -564,8 +566,8 @@
             "Self-published work",
             "Taken with Canon PowerShot G9"
           ],
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/doumer-island-small.jpg",
-          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/doumer-island-medium.jpg"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/doumer-island-small.webp",
+          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/doumer-island-medium.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/doumer-island-and-penguins.jpg",
@@ -593,8 +595,8 @@
             "Self-published work",
             "Taken with Canon PowerShot G9"
           ],
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/doumer-island-and-penguins-small.jpg",
-          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/doumer-island-and-penguins-medium.jpg"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/doumer-island-and-penguins-small.webp",
+          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/doumer-island-and-penguins-medium.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/2010-spring-on-the-antarctic-p.jpg",
@@ -616,8 +618,8 @@
             "Images with annotations",
             "James Ross Island"
           ],
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/2010-spring-on-the-antarctic-p-small.jpg",
-          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/2010-spring-on-the-antarctic-p-medium.jpg"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/2010-spring-on-the-antarctic-p-small.webp",
+          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/2010-spring-on-the-antarctic-p-medium.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-1-guebriant-islands.jpg",
@@ -634,7 +636,7 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-1-guebriant-islands-small.jpg"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-1-guebriant-islands-small.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-2-adelaide-island-m.jpg",
@@ -651,7 +653,7 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-2-adelaide-island-m-small.jpg"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-2-adelaide-island-m-small.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-4-adelaide-island-s.jpg",
@@ -668,7 +670,7 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-4-adelaide-island-s-small.jpg"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-4-adelaide-island-s-small.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-5-adelaide-island-w.jpg",
@@ -685,7 +687,7 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-5-adelaide-island-w-small.jpg"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-5-adelaide-island-w-small.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-6-laubeuf-fjord-web.jpg",
@@ -702,8 +704,8 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-6-laubeuf-fjord-web-small.jpg",
-          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-6-laubeuf-fjord-web-medium.jpg"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-6-laubeuf-fjord-web-small.webp",
+          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-6-laubeuf-fjord-web-medium.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-7-laubeuf-fjord-web.jpg",
@@ -720,8 +722,8 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-7-laubeuf-fjord-web-small.jpg",
-          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-7-laubeuf-fjord-web-medium.jpg"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-7-laubeuf-fjord-web-small.webp",
+          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-7-laubeuf-fjord-web-medium.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/antarctic-peninsula-the-larsen.jpg",
@@ -738,8 +740,8 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctic-peninsula-the-larsen-small.jpg",
-          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctic-peninsula-the-larsen-medium.jpg"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctic-peninsula-the-larsen-small.webp",
+          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctic-peninsula-the-larsen-medium.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/antarctic-peninsula-cross-sect.jpg",
@@ -756,8 +758,8 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctic-peninsula-cross-sect-small.jpg",
-          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctic-peninsula-cross-sect-medium.jpg"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctic-peninsula-cross-sect-small.webp",
+          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctic-peninsula-cross-sect-medium.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/apsubzone.jpg",
@@ -774,8 +776,8 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/apsubzone-small.jpg",
-          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/apsubzone-medium.jpg"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/apsubzone-small.webp",
+          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/apsubzone-medium.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/antarcticpeninsulapeople.jpg",
@@ -792,8 +794,8 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarcticpeninsulapeople-small.jpg",
-          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarcticpeninsulapeople-medium.jpg"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarcticpeninsulapeople-small.webp",
+          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarcticpeninsulapeople-medium.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/antarcticiceberg.jpg",
@@ -810,8 +812,8 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarcticiceberg-small.jpg",
-          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarcticiceberg-medium.jpg"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarcticiceberg-small.webp",
+          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarcticiceberg-medium.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/brown-bluff-antarctica.jpg",
@@ -828,8 +830,8 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/brown-bluff-antarctica-small.jpg",
-          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/brown-bluff-antarctica-medium.jpg"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/brown-bluff-antarctica-small.webp",
+          "mediumPath": "_m/4/e/9/p/antarctic-peninsula-wk/brown-bluff-antarctica-medium.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-39985348.jpg",
@@ -846,7 +848,7 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-39985348-small.jpg"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctica-39985348-small.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/antarctic-iceberg-11010187683.jpg",
@@ -863,7 +865,7 @@
           "sourceArticleId": "antarctic-peninsula-wk",
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z",
-          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctic-iceberg-11010187683-small.jpg"
+          "smallPath": "_m/4/e/9/p/antarctic-peninsula-wk/antarctic-iceberg-11010187683-small.webp"
         },
         {
           "path": "_m/4/e/9/p/antarctic-peninsula-wk/hero.jpg",
@@ -1157,7 +1159,8 @@
           "sourceGeohash4": "4e9p",
           "accessedAt": "2026-02-21T20:05:11.977Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/4/e/9/p/antarctic-peninsula-wk/4e9p-antarctic-peninsula-combined.mp3"
     }
   }
 }

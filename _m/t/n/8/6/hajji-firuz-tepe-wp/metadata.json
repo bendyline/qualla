@@ -145,8 +145,8 @@
       "sourceType": "core",
       "sourceArticleId": "hajji-firuz-tepe-wp",
       "sourceGeohash4": "tn86",
-      "mediumPath": "_m/t/n/8/6/hajji-firuz-tepe-wp/gallery-3-medium.jpg",
-      "smallPath": "_m/t/n/8/6/hajji-firuz-tepe-wp/gallery-3-small.jpg"
+      "mediumPath": "_m/t/n/8/6/hajji-firuz-tepe-wp/gallery-3-medium.webp",
+      "smallPath": "_m/t/n/8/6/hajji-firuz-tepe-wp/gallery-3-small.webp"
     }
   ],
   "galleryPaths": [
@@ -154,5 +154,23 @@
     "_m/s/y/e/e/gobekli-tepe-wk/near-east-non-politica.png",
     "_m/t/n/8/6/hajji-firuz-tepe-wp/gallery-3.jpg"
   ],
-  "fetchedAt": "2026-03-01T12:31:24.393Z"
+  "narration": {
+    "files": [
+      "tn86-hajji-firuz-tepe-flight-context.mp3",
+      "tn86-hajji-firuz-tepe-intro.mp3",
+      "tn86-hajji-firuz-tepe-a-mound-in-the-gadar-valley.mp3",
+      "tn86-hajji-firuz-tepe-the-jars-in-the-kitchen-floor.mp3",
+      "tn86-hajji-firuz-tepe-where-wild-grapes-grow.mp3",
+      "tn86-hajji-firuz-tepe-from-kitchen-floor-to-wine-country.mp3"
+    ],
+    "durations": {
+      "tn86-hajji-firuz-tepe-flight-context.mp3": 44.5330833,
+      "tn86-hajji-firuz-tepe-intro.mp3": 52.1948333,
+      "tn86-hajji-firuz-tepe-a-mound-in-the-gadar-valley.mp3": 65.4690416,
+      "tn86-hajji-firuz-tepe-the-jars-in-the-kitchen-floor.mp3": 66.9142916,
+      "tn86-hajji-firuz-tepe-where-wild-grapes-grow.mp3": 59.8975833,
+      "tn86-hajji-firuz-tepe-from-kitchen-floor-to-wine-country.mp3": 67.67925
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -74,6 +74,7 @@
   "locationWikipediaPath": "d/r/3/8/centralia-mine-fire-wp",
   "duplicates": [
     "centralia-fire-wk",
+    "centralia-mine-fire-wp",
     "centralia-underground-fire-wk",
     "centralia-wk"
   ],
@@ -119,14 +120,14 @@
       "distanceKm": 117.2
     },
     "e": {
-      "id": "valley-forge-wk",
-      "title": "Valley Forge",
-      "tile": "dr4k",
+      "id": "ken-lockwood-gorge-wp",
+      "title": "Ken Lockwood Gorge",
+      "tile": "dr4z",
       "coordinates": {
-        "lat": 40.0996,
-        "lng": -75.4441
+        "lat": 40.69583333333333,
+        "lng": -74.87194444444444
       },
-      "distanceKm": 95.2
+      "distanceKm": 91.8
     },
     "sw": {
       "id": "carlisle-indian-industrial-school-wp",

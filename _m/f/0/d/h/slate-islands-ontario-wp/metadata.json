@@ -26,8 +26,8 @@
     "sourceType": "core",
     "sourceArticleId": "slate-islands-ontario-wp",
     "sourceGeohash4": "f0dh",
-    "mediumPath": "_m/f/0/d/h/slate-islands-ontario-wp/hero-medium.jpg",
-    "smallPath": "_m/f/0/d/h/slate-islands-ontario-wp/hero-small.jpg"
+    "mediumPath": "_m/f/0/d/h/slate-islands-ontario-wp/hero-medium.webp",
+    "smallPath": "_m/f/0/d/h/slate-islands-ontario-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "McGreevy Harbour, Slate Islands.JPG",
@@ -107,8 +107,8 @@
       "sourceType": "core",
       "sourceArticleId": "slate-islands-ontario-wp",
       "sourceGeohash4": "f0dh",
-      "mediumPath": "_m/f/0/d/h/slate-islands-ontario-wp/saxifraga-paniculata-g-medium.jpg",
-      "smallPath": "_m/f/0/d/h/slate-islands-ontario-wp/saxifraga-paniculata-g-small.jpg"
+      "mediumPath": "_m/f/0/d/h/slate-islands-ontario-wp/saxifraga-paniculata-g-medium.webp",
+      "smallPath": "_m/f/0/d/h/slate-islands-ontario-wp/saxifraga-paniculata-g-small.webp"
     },
     {
       "filename": "Slate Islands Shattercone.JPG",
@@ -137,7 +137,7 @@
       "sourceType": "core",
       "sourceArticleId": "slate-islands-ontario-wp",
       "sourceGeohash4": "f0dh",
-      "smallPath": "_m/f/0/d/h/slate-islands-ontario-wp/30-foot-tall-shatter-c-small.jpg"
+      "smallPath": "_m/f/0/d/h/slate-islands-ontario-wp/30-foot-tall-shatter-c-small.webp"
     },
     {
       "filename": "Slate Islands Ontario LC08 L1TP 024026 20190421 20190421 01 RT.jpg",
@@ -159,7 +159,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "slate-islands-ontario-wp",
       "sourceGeohash4": "f0dh",
-      "smallPath": "_m/f/0/d/h/slate-islands-ontario-wp/slate-islands-ontario-lc08-l1t-small.jpg"
+      "smallPath": "_m/f/0/d/h/slate-islands-ontario-wp/slate-islands-ontario-lc08-l1t-small.webp"
     }
   ],
   "galleryPaths": [
@@ -168,6 +168,24 @@
     "_m/f/0/d/h/slate-islands-ontario-wp/30-foot-tall-shatter-c.jpg",
     "_m/f/0/d/h/slate-islands-ontario-wp/slate-islands-ontario-lc08-l1t.jpg"
   ],
-  "fetchedAt": "2026-02-28T10:58:15.845Z",
-  "updatedAt": "2026-02-28T10:58:29.675Z"
+  "updatedAt": "2026-02-28T10:58:29.675Z",
+  "narration": {
+    "files": [
+      "f0dh-slate-islands-flight-context.mp3",
+      "f0dh-slate-islands-intro.mp3",
+      "f0dh-slate-islands-written-in-stone.mp3",
+      "f0dh-slate-islands-caribou-on-the-edge.mp3",
+      "f0dh-slate-islands-a-lake-within-a-lake.mp3",
+      "f0dh-slate-islands-provincial-park-at-the-edge-of-reach.mp3"
+    ],
+    "durations": {
+      "f0dh-slate-islands-flight-context.mp3": 55.916375,
+      "f0dh-slate-islands-intro.mp3": 52.404375,
+      "f0dh-slate-islands-written-in-stone.mp3": 68.1907916,
+      "f0dh-slate-islands-caribou-on-the-edge.mp3": 71.5933333,
+      "f0dh-slate-islands-a-lake-within-a-lake.mp3": 58.5857083,
+      "f0dh-slate-islands-provincial-park-at-the-edge-of-reach.mp3": 59.08075
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

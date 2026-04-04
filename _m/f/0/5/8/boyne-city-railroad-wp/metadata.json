@@ -28,7 +28,7 @@
     "sourceType": "core",
     "sourceArticleId": "boyne-city-railroad-wp",
     "sourceGeohash4": "f058",
-    "smallPath": "_m/f/0/5/8/boyne-city-railroad-wp/hero-small.jpg"
+    "smallPath": "_m/f/0/5/8/boyne-city-railroad-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Boyne City Railroad train 1905.JPG",
@@ -87,7 +87,7 @@
       "sourceType": "core",
       "sourceArticleId": "boyne-city-railroad-wp",
       "sourceGeohash4": "f058",
-      "smallPath": "_m/f/0/5/8/boyne-city-railroad-wp/postcard-photo-boyne-c-small.jpg"
+      "smallPath": "_m/f/0/5/8/boyne-city-railroad-wp/postcard-photo-boyne-c-small.webp"
     },
     {
       "filename": "Boyne SE RR Map.jpg",
@@ -114,7 +114,7 @@
       "sourceType": "core",
       "sourceArticleId": "boyne-city-railroad-wp",
       "sourceGeohash4": "f058",
-      "smallPath": "_m/f/0/5/8/boyne-city-railroad-wp/boyne_city_railroad-ro-small.jpg"
+      "smallPath": "_m/f/0/5/8/boyne-city-railroad-wp/boyne_city_railroad-ro-small.webp"
     },
     {
       "filename": "Boyne City Railroad Building.jpg",
@@ -140,7 +140,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "boyne-city-railroad-wp",
       "sourceGeohash4": "f058",
-      "smallPath": "_m/f/0/5/8/boyne-city-railroad-wp/boyne-city-railroad-building-small.jpg"
+      "smallPath": "_m/f/0/5/8/boyne-city-railroad-wp/boyne-city-railroad-building-small.webp"
     }
   ],
   "galleryPaths": [
@@ -148,6 +148,26 @@
     "_m/f/0/5/8/boyne-city-railroad-wp/boyne_city_railroad-ro.jpg",
     "_m/f/0/5/8/boyne-city-railroad-wp/boyne-city-railroad-building.jpg"
   ],
-  "fetchedAt": "2026-02-28T10:09:03.573Z",
-  "updatedAt": "2026-02-28T10:09:04.998Z"
+  "updatedAt": "2026-02-28T10:09:04.998Z",
+  "narration": {
+    "files": [
+      "f058-boyne-city-railroad-flight-context.mp3",
+      "f058-boyne-city-railroad-intro.mp3",
+      "f058-boyne-city-railroad-whites-empire-on-the-dock.mp3",
+      "f058-boyne-city-railroad-gaylord-alpena-and-the-receiver.mp3",
+      "f058-boyne-city-railroad-the-immigrant-trap.mp3",
+      "f058-boyne-city-railroad-the-short-line-and-its-ghosts.mp3",
+      "f058-boyne-city-railroad-survivors-scattered-across-america.mp3"
+    ],
+    "durations": {
+      "f058-boyne-city-railroad-flight-context.mp3": 65.7885,
+      "f058-boyne-city-railroad-intro.mp3": 54.78125,
+      "f058-boyne-city-railroad-whites-empire-on-the-dock.mp3": 63.2369583,
+      "f058-boyne-city-railroad-gaylord-alpena-and-the-receiver.mp3": 77.9696666,
+      "f058-boyne-city-railroad-the-immigrant-trap.mp3": 76.1065416,
+      "f058-boyne-city-railroad-the-short-line-and-its-ghosts.mp3": 68.7615416,
+      "f058-boyne-city-railroad-survivors-scattered-across-america.mp3": 68.4922916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

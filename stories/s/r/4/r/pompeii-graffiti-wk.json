@@ -111,88 +111,89 @@
   "duplicates": [
     "pompeii-destruction-wk",
     "pompeii-frozen-wk",
-    "pompeii-graffiti-deeper-wk"
+    "pompeii-graffiti-deeper-wk",
+    "pompeii-wk"
   ],
   "directionalNeighbors": {
     "nw": {
-      "id": "cadaver-synod-wk",
-      "title": "The Cadaver Synod: The Trial of a Dead Pope",
-      "tile": "sr2y",
+      "id": "battle-of-monte-cassino-wp",
+      "title": "Battle of Monte Cassino",
+      "tile": "sr3u",
       "coordinates": {
-        "lat": 41.8859,
-        "lng": 12.5057
+        "lat": 41.49,
+        "lng": 13.813888888889
       },
-      "distanceKm": 165.9
+      "distanceKm": 62.8
     },
     "n": {
-      "id": "colosseum-wk",
-      "title": "The Colosseum: Rome's Theater of Death",
-      "tile": "sr2y",
+      "id": "battle-of-the-caudine-forks-wp",
+      "title": "Battle of the Caudine Forks",
+      "tile": "sr66",
       "coordinates": {
-        "lat": 41.8902,
-        "lng": 12.4922
+        "lat": 41.15,
+        "lng": 14.5333
       },
-      "distanceKm": 203.4
+      "distanceKm": 22
     },
     "ne": {
-      "id": "kor-ula-wk",
-      "title": "Korcula: Marco Polo's Island in the Dalmatian Adriatic",
-      "tile": "srsh",
+      "id": "battle-of-asculum-wp",
+      "title": "Battle of Asculum",
+      "tile": "sr74",
       "coordinates": {
-        "lat": 42.95,
-        "lng": 17.1167
+        "lat": 41.2156,
+        "lng": 15.5578
       },
-      "distanceKm": 276.5
+      "distanceKm": 46.8
     },
     "w": {
-      "id": "fire-of-rome-wk",
-      "title": "The Great Fire of Rome: Did Nero Really Fiddle?",
-      "tile": "sr2y",
+      "id": "hadrian-s-villa-wp",
+      "title": "Hadrian's Villa",
+      "tile": "sr3n",
       "coordinates": {
-        "lat": 41.8867,
-        "lng": 12.4883
+        "lat": 41.941944,
+        "lng": 12.775278
       },
-      "distanceKm": 186.8
+      "distanceKm": 175.6
     },
     "e": {
-      "id": "dubrovnik-wk",
-      "title": "Dubrovnik",
-      "tile": "srsf",
+      "id": "balvano-train-disaster-wp",
+      "title": "Balvano Train Disaster",
+      "tile": "sr5p",
       "coordinates": {
-        "lat": 42.6507,
-        "lng": 18.0944
+        "lat": 40.669279,
+        "lng": 15.501881
       },
-      "distanceKm": 329.4
+      "distanceKm": 32.5
     },
     "sw": {
-      "id": "tunis-wk",
-      "title": "Tunis",
-      "tile": "snx1",
+      "id": "battle-of-skerki-bank-wp",
+      "title": "Battle of Skerki Bank",
+      "tile": "snxy",
       "coordinates": {
-        "lat": 36.8065,
-        "lng": 10.1815
+        "lat": 37.75333333,
+        "lng": 10.95333333
       },
-      "distanceKm": 525.2
+      "distanceKm": 400.6
     },
     "s": {
-      "id": "albanian-riviera-wk",
-      "title": "Albanian Riviera",
-      "tile": "srn5",
+      "id": "paestum-wk",
+      "title": "Paestum",
+      "tile": "sr4t",
       "coordinates": {
-        "lat": 40.073,
-        "lng": 19.764
+        "lat": 40.42,
+        "lng": 15.005555555556
       },
-      "distanceKm": 440.8
+      "distanceKm": 35.2
     },
     "se": {
-      "id": "black-death-arrival-wk",
-      "title": "The Arrival of the Black Death: When Ships Brought the Apocalypse",
-      "tile": "sqg1",
+      "id": "battle-of-heraclea-wp",
+      "title": "Battle of Heraclea",
+      "tile": "sr5u",
       "coordinates": {
-        "lat": 38.1937,
-        "lng": 15.5542
+        "lat": 40.22,
+        "lng": 16.669722
       },
-      "distanceKm": 251.5
+      "distanceKm": 133.7
     }
   },
   "keywords": [

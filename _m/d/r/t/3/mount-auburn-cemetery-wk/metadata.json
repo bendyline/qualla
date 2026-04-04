@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "mount-auburn-cemetery-wk",
     "sourceGeohash4": "drt3",
-    "smallPath": "_m/d/r/t/3/mount-auburn-cemetery-wk/hero-small.jpg",
-    "mediumPath": "_m/d/r/t/3/mount-auburn-cemetery-wk/hero-medium.jpg"
+    "smallPath": "_m/d/r/t/3/mount-auburn-cemetery-wk/hero-small.webp",
+    "mediumPath": "_m/d/r/t/3/mount-auburn-cemetery-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Parsons Building of Mount Auburn Hospital.jpg",
@@ -93,8 +93,8 @@
       "sourceType": "core",
       "sourceArticleId": "mount-auburn-cemetery-wk",
       "sourceGeohash4": "drt3",
-      "smallPath": "_m/d/r/t/3/mount-auburn-cemetery-wk/main-entrance-mount-au-small.jpg",
-      "mediumPath": "_m/d/r/t/3/mount-auburn-cemetery-wk/main-entrance-mount-au-medium.jpg"
+      "smallPath": "_m/d/r/t/3/mount-auburn-cemetery-wk/main-entrance-mount-au-small.webp",
+      "mediumPath": "_m/d/r/t/3/mount-auburn-cemetery-wk/main-entrance-mount-au-medium.webp"
     },
     {
       "filename": "Charles River - Cambridge, MA - IMG 0159.JPG",
@@ -120,7 +120,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "mount-auburn-cemetery-wk",
-      "sourceGeohash4": "drt3"
+      "sourceGeohash4": "drt3",
+      "mediumPath": "_m/d/r/t/3/mount-auburn-cemetery-wk/charles-river-cambridge-ma-img-medium.webp",
+      "smallPath": "_m/d/r/t/3/mount-auburn-cemetery-wk/charles-river-cambridge-ma-img-small.webp"
     },
     {
       "filename": "Mount Auburn Hospital - Cambridge, MA - IMG 0153.JPG",
@@ -143,7 +145,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "mount-auburn-cemetery-wk",
-      "sourceGeohash4": "drt3"
+      "sourceGeohash4": "drt3",
+      "mediumPath": "_m/d/r/t/3/mount-auburn-cemetery-wk/mount-auburn-hospital-cambridg-medium.webp",
+      "smallPath": "_m/d/r/t/3/mount-auburn-cemetery-wk/mount-auburn-hospital-cambridg-small.webp"
     },
     {
       "filename": "Mount Auburn Hospital - Cambridge, MA - IMG 0154.JPG",
@@ -166,7 +170,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "mount-auburn-cemetery-wk",
-      "sourceGeohash4": "drt3"
+      "sourceGeohash4": "drt3",
+      "mediumPath": "_m/d/r/t/3/mount-auburn-cemetery-wk/mount-auburn-hospital-cambridg-1-medium.webp",
+      "smallPath": "_m/d/r/t/3/mount-auburn-cemetery-wk/mount-auburn-hospital-cambridg-1-small.webp"
     },
     {
       "filename": "Charles River, Cambridge (MA).jpg",
@@ -183,7 +189,9 @@
       "dateCreated": "2013-06-21 11:30:38",
       "sourceType": "commons-category",
       "sourceArticleId": "mount-auburn-cemetery-wk",
-      "sourceGeohash4": "drt3"
+      "sourceGeohash4": "drt3",
+      "mediumPath": "_m/d/r/t/3/mount-auburn-cemetery-wk/charles-river-cambridge-ma-medium.webp",
+      "smallPath": "_m/d/r/t/3/mount-auburn-cemetery-wk/charles-river-cambridge-ma-small.webp"
     }
   ],
   "galleryPaths": [
@@ -193,7 +201,6 @@
     "_m/d/r/t/3/mount-auburn-cemetery-wk/mount-auburn-hospital-cambridg-1.jpg",
     "_m/d/r/t/3/mount-auburn-cemetery-wk/charles-river-cambridge-ma.jpg"
   ],
-  "fetchedAt": "2026-02-22T12:36:34.762Z",
   "narration": {
     "files": [
       "drt3-mount-auburn-cemetery-flight-context.mp3",
@@ -213,8 +220,7 @@
       "drt3-mount-auburn-cemetery-the-residents.mp3": 44.8060416,
       "drt3-mount-auburn-cemetery-visiting-mount-auburn.mp3": 51.4659166
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-25T10:00:47.943Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T12:36:35.480Z"
 }

@@ -24,8 +24,8 @@
           "PD-US missing SDC copyright status",
           "PD US"
         ],
-        "mediumPath": "_m/f/2/m/6/battle-of-beauport-wp/hero-medium.jpg",
-        "smallPath": "_m/f/2/m/6/battle-of-beauport-wp/hero-small.jpg"
+        "mediumPath": "_m/f/2/m/6/battle-of-beauport-wp/hero-medium.webp",
+        "smallPath": "_m/f/2/m/6/battle-of-beauport-wp/hero-small.webp"
       },
       "images": [
         {
@@ -51,9 +51,19 @@
             "Photographs by Edwin Brittain",
             "Quebec in the 1890s"
           ],
-          "smallPath": "_m/f/2/m/6/battle-of-beauport-wp/montcalm-s-ravine-fort-beaupor-small.jpg"
+          "smallPath": "_m/f/2/m/6/battle-of-beauport-wp/montcalm-s-ravine-fort-beaupor-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/f/2/m/6/battle-of-beauport-wp/f2m6-battle-of-beauport-flight-context.mp3",
+        "_m/f/2/m/6/battle-of-beauport-wp/f2m6-battle-of-beauport-intro.mp3",
+        "_m/f/2/m/6/battle-of-beauport-wp/f2m6-battle-of-beauport-wolfes-dilemma-on-the-st-lawrence.mp3",
+        "_m/f/2/m/6/battle-of-beauport-wp/f2m6-battle-of-beauport-a-camp-beneath-the-falls.mp3",
+        "_m/f/2/m/6/battle-of-beauport-wp/f2m6-battle-of-beauport-the-assault-goes-wrong.mp3",
+        "_m/f/2/m/6/battle-of-beauport-wp/f2m6-battle-of-beauport-gunpowder-in-the-rain.mp3",
+        "_m/f/2/m/6/battle-of-beauport-wp/f2m6-battle-of-beauport-the-road-to-the-plains-of-abraham.mp3"
+      ],
+      "combinedNarration": "_m/f/2/m/6/battle-of-beauport-wp/f2m6-battle-of-beauport-combined.mp3"
     }
   }
 }

@@ -19,10 +19,8 @@
       "9r88-oregon-shakespeare-festival-the-town-that-theater-built.mp3": 64.059625,
       "9r88-oregon-shakespeare-festival-crisis-and-continuity.mp3": 69.9440416
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-27T23:51:18.377Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
-  "fetchedAt": "2026-02-21T21:40:02.105Z",
   "hero": {
     "filename": "Angus Bowmer Theatre, main entrance.jpg",
     "title": "File:Angus Bowmer Theatre, main entrance.jpg",
@@ -47,8 +45,8 @@
     "sourceType": "core",
     "sourceArticleId": "oregon-shakespeare-festival-wp",
     "sourceGeohash4": "9r88",
-    "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/hero-small.jpg",
-    "mediumPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/hero-medium.jpg"
+    "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/hero-small.webp",
+    "mediumPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Angus Bowmer Theatre, main entrance.jpg",
@@ -98,7 +96,7 @@
       "sourceType": "core",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
       "sourceGeohash4": "9r88",
-      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/allen-stage-oregon-sha-small.jpg"
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/allen-stage-oregon-sha-small.webp"
     },
     {
       "filename": "Angus Bowmer.jpg",
@@ -124,7 +122,7 @@
       "sourceType": "core",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
       "sourceGeohash4": "9r88",
-      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/angus-bowmer-outdoor-t-small.jpg"
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/angus-bowmer-outdoor-t-small.webp"
     },
     {
       "filename": "Thomas Theater at OSF.jpg",
@@ -149,7 +147,7 @@
       "sourceType": "core",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
       "sourceGeohash4": "9r88",
-      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/set-macbeth-directed-l-small.jpg"
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/set-macbeth-directed-l-small.webp"
     },
     {
       "filename": "OSF Production Facility in Talent.jpg",
@@ -174,7 +172,7 @@
       "sourceType": "core",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
       "sourceGeohash4": "9r88",
-      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/view-new-production-fa-small.jpg"
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/view-new-production-fa-small.webp"
     },
     {
       "filename": "OSF CampusRev.jpg",
@@ -199,8 +197,8 @@
       "sourceType": "core",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
       "sourceGeohash4": "9r88",
-      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/sketch-map-oregon-shak-small.jpg",
-      "mediumPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/sketch-map-oregon-shak-medium.jpg"
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/sketch-map-oregon-shak-small.webp",
+      "mediumPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/sketch-map-oregon-shak-medium.webp"
     },
     {
       "filename": "DJ Prashant Jai Ho.jpg",
@@ -224,8 +222,8 @@
       "sourceType": "core",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
       "sourceGeohash4": "9r88",
-      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/dj-prashant-jai-ho-per-small.jpg",
-      "mediumPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/dj-prashant-jai-ho-per-medium.jpg"
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/dj-prashant-jai-ho-per-small.webp",
+      "mediumPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/dj-prashant-jai-ho-per-medium.webp"
     },
     {
       "filename": "Thomas Theatre, main entrance.jpg",
@@ -257,8 +255,8 @@
       "sourceType": "core",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
       "sourceGeohash4": "9r88",
-      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/thomas-theatre-main-en-small.jpg",
-      "mediumPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/thomas-theatre-main-en-medium.jpg"
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/thomas-theatre-main-en-small.webp",
+      "mediumPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/thomas-theatre-main-en-medium.webp"
     },
     {
       "filename": "Thomas Theatre Oregon Shakespeare Festival.JPG",
@@ -282,7 +280,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
-      "sourceGeohash4": "9r88"
+      "sourceGeohash4": "9r88",
+      "mediumPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/thomas-theatre-oregon-shakespe-medium.webp",
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/thomas-theatre-oregon-shakespe-small.webp"
     },
     {
       "filename": "OSF production facility 2014.jpg",
@@ -303,7 +303,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
-      "sourceGeohash4": "9r88"
+      "sourceGeohash4": "9r88",
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/osf-production-facility-2014-small.webp"
     },
     {
       "filename": "Thomas Theatre set 2014.jpg",
@@ -324,7 +325,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
-      "sourceGeohash4": "9r88"
+      "sourceGeohash4": "9r88",
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/thomas-theatre-set-2014-small.webp"
     },
     {
       "filename": "Carpenter Hall May 2016.jpg",
@@ -351,7 +353,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
-      "sourceGeohash4": "9r88"
+      "sourceGeohash4": "9r88",
+      "mediumPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/carpenter-hall-may-2016-medium.webp",
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/carpenter-hall-may-2016-small.webp"
     },
     {
       "filename": "Plaza at Oregon Shakespeare Festival - May 2016.jpg",
@@ -376,7 +380,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
-      "sourceGeohash4": "9r88"
+      "sourceGeohash4": "9r88",
+      "mediumPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/plaza-at-oregon-shakespeare-fe-medium.webp",
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/plaza-at-oregon-shakespeare-fe-small.webp"
     },
     {
       "filename": "OSF Green Show Stage.jpg",
@@ -401,7 +407,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
-      "sourceGeohash4": "9r88"
+      "sourceGeohash4": "9r88",
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/osf-green-show-stage-small.webp"
     },
     {
       "filename": "Randy Reinholz.jpg",
@@ -418,7 +425,8 @@
       "dateCreated": "2017-07-29 16:54:10",
       "sourceType": "commons-category",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
-      "sourceGeohash4": "9r88"
+      "sourceGeohash4": "9r88",
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/randy-reinholz-small.webp"
     },
     {
       "filename": "OSF Campus.jpg",
@@ -435,7 +443,9 @@
       "dateCreated": "2018-01-29 12:02:35",
       "sourceType": "commons-category",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
-      "sourceGeohash4": "9r88"
+      "sourceGeohash4": "9r88",
+      "mediumPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/osf-campus-medium.webp",
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/osf-campus-small.webp"
     },
     {
       "filename": "Ashland, Oregon (2019) - 004.jpg",
@@ -452,7 +462,9 @@
       "dateCreated": "2019-05-30 05:35:01",
       "sourceType": "commons-category",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
-      "sourceGeohash4": "9r88"
+      "sourceGeohash4": "9r88",
+      "mediumPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/ashland-oregon-2019-004-medium.webp",
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/ashland-oregon-2019-004-small.webp"
     },
     {
       "filename": "Ashland, Oregon (2019) - 005.jpg",
@@ -469,7 +481,9 @@
       "dateCreated": "2019-05-30 05:35:54",
       "sourceType": "commons-category",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
-      "sourceGeohash4": "9r88"
+      "sourceGeohash4": "9r88",
+      "mediumPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/ashland-oregon-2019-005-medium.webp",
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/ashland-oregon-2019-005-small.webp"
     },
     {
       "filename": "Ashland, Oregon (2019) - 008.jpg",
@@ -486,7 +500,9 @@
       "dateCreated": "2019-05-30 05:36:17",
       "sourceType": "commons-category",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
-      "sourceGeohash4": "9r88"
+      "sourceGeohash4": "9r88",
+      "mediumPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/ashland-oregon-2019-008-medium.webp",
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/ashland-oregon-2019-008-small.webp"
     },
     {
       "filename": "Ashland, Oregon (2019) - 009.jpg",
@@ -503,7 +519,9 @@
       "dateCreated": "2019-05-30 05:36:48",
       "sourceType": "commons-category",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
-      "sourceGeohash4": "9r88"
+      "sourceGeohash4": "9r88",
+      "mediumPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/ashland-oregon-2019-009-medium.webp",
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/ashland-oregon-2019-009-small.webp"
     },
     {
       "filename": "Richard Montoya, September 2019-1.jpg",
@@ -520,7 +538,8 @@
       "dateCreated": "2019-09-29",
       "sourceType": "commons-category",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
-      "sourceGeohash4": "9r88"
+      "sourceGeohash4": "9r88",
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/richard-montoya-september-2019-small.webp"
     },
     {
       "filename": "Richard Montoya, September 2019-2.jpg",
@@ -537,7 +556,8 @@
       "dateCreated": "2019-09-29",
       "sourceType": "commons-category",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
-      "sourceGeohash4": "9r88"
+      "sourceGeohash4": "9r88",
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/richard-montoya-september-2019-1-small.webp"
     },
     {
       "filename": "Luis Alfaro, September 2019.jpg",
@@ -554,7 +574,8 @@
       "dateCreated": "2019-09-29",
       "sourceType": "commons-category",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
-      "sourceGeohash4": "9r88"
+      "sourceGeohash4": "9r88",
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/luis-alfaro-september-2019-small.webp"
     },
     {
       "filename": "Mildred Ruiz-Sapp, September 2019.jpg",
@@ -571,7 +592,8 @@
       "dateCreated": "2019-09-29",
       "sourceType": "commons-category",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
-      "sourceGeohash4": "9r88"
+      "sourceGeohash4": "9r88",
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/mildred-ruiz-sapp-september-20-small.webp"
     },
     {
       "filename": "Octavio Solis, September 2019.jpg",
@@ -588,7 +610,8 @@
       "dateCreated": "2019-09-29",
       "sourceType": "commons-category",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
-      "sourceGeohash4": "9r88"
+      "sourceGeohash4": "9r88",
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/octavio-solis-september-2019-small.webp"
     },
     {
       "filename": "Ashland, Oregon, 2019 - 34.jpg",
@@ -605,7 +628,9 @@
       "dateCreated": "2019-06-01 19:27:05",
       "sourceType": "commons-category",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
-      "sourceGeohash4": "9r88"
+      "sourceGeohash4": "9r88",
+      "mediumPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/ashland-oregon-2019-34-medium.webp",
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/ashland-oregon-2019-34-small.webp"
     },
     {
       "filename": "Ashland, Oregon, 2019 - 35.jpg",
@@ -622,7 +647,9 @@
       "dateCreated": "2019-06-01 19:29:41",
       "sourceType": "commons-category",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
-      "sourceGeohash4": "9r88"
+      "sourceGeohash4": "9r88",
+      "mediumPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/ashland-oregon-2019-35-medium.webp",
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/ashland-oregon-2019-35-small.webp"
     },
     {
       "filename": "Ashland, Oregon, 2019 - 36.jpg",
@@ -639,7 +666,9 @@
       "dateCreated": "2019-06-01 19:29:49",
       "sourceType": "commons-category",
       "sourceArticleId": "oregon-shakespeare-festival-wp",
-      "sourceGeohash4": "9r88"
+      "sourceGeohash4": "9r88",
+      "mediumPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/ashland-oregon-2019-36-medium.webp",
+      "smallPath": "_m/9/r/8/8/oregon-shakespeare-festival-wp/ashland-oregon-2019-36-small.webp"
     }
   ],
   "galleryPaths": [

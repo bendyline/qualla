@@ -148,37 +148,38 @@
       "distanceKm": 10.2
     },
     "sw": {
-      "id": "paris-wk",
-      "title": "Paris",
-      "tile": "u09t",
+      "id": "marcinelle-mining-disaster-wp",
+      "title": "Marcinelle Mining Disaster",
+      "tile": "u0gn",
       "coordinates": {
-        "lat": 48.856,
-        "lng": 2.351
+        "lat": 50.380556,
+        "lng": 4.442778
       },
-      "distanceKm": 256.2
+      "distanceKm": 34.8
     },
     "s": {
-      "id": "dancing-plague-wk",
-      "title": "The Dancing Plague of 1518: When Strasbourg Couldn't Stop Dancing",
-      "tile": "u0ts",
+      "id": "basilica-of-saint-pierre-aux-nonnains-wp",
+      "title": "Basilica of Saint-Pierre-aux-Nonnains",
+      "tile": "u0sr",
       "coordinates": {
-        "lat": 48.5833,
-        "lng": 7.7458
+        "lat": 49.115035,
+        "lng": 6.169446
       },
-      "distanceKm": 265.6
+      "distanceKm": 157.1
     },
     "se": {
-      "id": "alsace-wk",
-      "title": "Alsace",
-      "tile": "u0t7",
+      "id": "fort-jeanne-d-arc-wp",
+      "title": "Fort Jeanne d'Arc",
+      "tile": "u0sr",
       "coordinates": {
-        "lat": 48.5,
-        "lng": 7.5
+        "lat": 49.1168,
+        "lng": 6.06701
       },
-      "distanceKm": 243.1
+      "distanceKm": 148.3
     }
   },
   "keywords": [
     "1985-li-ge-bombing"
-  ]
+  ],
+  "locationWikipediaPath": "u/1/5/b/1985-liege-bombing-wp"
 }

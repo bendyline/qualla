@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/q/f/r/donner-pass-wk/9qsg-donner-pass-intro.mp3",
-        "_m/9/q/f/r/donner-pass-wk/9qsg-donner-pass-aftermath-and-memory.mp3",
-        "_m/9/q/f/r/donner-pass-wk/9qsg-donner-pass-flight-context.mp3",
-        "_m/9/q/f/r/donner-pass-wk/9qsg-donner-pass-the-camps.mp3",
-        "_m/9/q/f/r/donner-pass-wk/9qsg-donner-pass-the-fateful-shortcut.mp3",
-        "_m/9/q/f/r/donner-pass-wk/9qsg-donner-pass-the-rescues.mp3",
-        "_m/9/q/f/r/donner-pass-wk/9qsg-donner-pass-visiting-donner-pass.mp3"
+        "_m/9/q/f/r/donner-pass-wk/9qfr-donner-pass-flight-context.mp3",
+        "_m/9/q/f/r/donner-pass-wk/9qfr-donner-pass-intro.mp3",
+        "_m/9/q/f/r/donner-pass-wk/9qfr-donner-pass-the-fateful-shortcut.mp3",
+        "_m/9/q/f/r/donner-pass-wk/9qfr-donner-pass-the-camps.mp3",
+        "_m/9/q/f/r/donner-pass-wk/9qfr-donner-pass-the-rescues.mp3",
+        "_m/9/q/f/r/donner-pass-wk/9qfr-donner-pass-aftermath-and-memory.mp3",
+        "_m/9/q/f/r/donner-pass-wk/9qfr-donner-pass-visiting-donner-pass.mp3"
       ],
       "hero": {
         "path": "_m/9/q/f/r/donner-pass-wk/hero.jpg",
@@ -26,8 +26,8 @@
         "sourceArticleId": "donner-pass-wk",
         "sourceGeohash4": "9qfr",
         "accessedAt": "2026-02-21T21:10:45.170Z",
-        "mediumPath": "_m/9/q/f/r/donner-pass-wk/hero-medium.jpg",
-        "smallPath": "_m/9/q/f/r/donner-pass-wk/hero-small.jpg"
+        "mediumPath": "_m/9/q/f/r/donner-pass-wk/hero-medium.webp",
+        "smallPath": "_m/9/q/f/r/donner-pass-wk/hero-small.webp"
       },
       "images": [
         {
@@ -544,7 +544,8 @@
           "smallPath": "_m/9/q/f/r/donner-pass-wk/amtk-111-wb-march-1976-at-89oc-small.jpg",
           "mediumPath": "_m/9/q/f/r/donner-pass-wk/amtk-111-wb-march-1976-at-89oc-medium.jpg"
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/q/f/r/donner-pass-wk/9qfr-donner-pass-combined.mp3"
     }
   }
 }

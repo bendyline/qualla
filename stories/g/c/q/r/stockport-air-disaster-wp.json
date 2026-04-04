@@ -1,0 +1,159 @@
+{
+  "id": "stockport-air-disaster-wp",
+  "source": "wikipedia",
+  "sourceId": "800090",
+  "title": "Stockport Air Disaster",
+  "slug": "stockport-air-disaster",
+  "summary": "On a Sunday morning in 1967, a charter flight returning holidaymakers from Mallorca lost two engines over Stockport and crashed near the town centre, killing 72 of the 84 people aboard.",
+  "content": {
+    "intro": "They were six miles from home when the engines quit. On the morning of 4 June 1967, British Midland Flight 542, a Canadair C-4 Argonaut carrying 84 holidaymakers back from Palma de Mallorca, was making its second approach to Manchester Airport when engines three and four suddenly failed over the town of Stockport. The aircraft, now uncontrollable on two engines, came down at 10:09 am in a small open area called Hopes Carr, close to the town centre. Seventy-two people died. It was the fourth-worst aviation disaster in British history, and it happened just a day after another fatal crash involving a chartered piston-engined aircraft.",
+    "sections": [
+      {
+        "title": "Six Miles from Manchester",
+        "body": "The Argonaut had been chartered by Arrowsmith Holidays Ltd for a routine return from the Balearic Islands. The approach controller vectored the aircraft toward the ILS as it reached the Congleton navigational beacon, but the pilots could not establish the aircraft on the extended runway centreline. They called an overshoot and began a second approach. Somewhere over Stockport, at low altitude and committed to landing, the number three and four engines cut out simultaneously. The crew managed to feather the number four propeller, but number three kept windmilling, creating asymmetric drag that made the aircraft impossible to control. The Argonaut descended into Hopes Carr, a narrow open space in a densely populated area. That no one on the ground was killed was remarkable luck. It was a Sunday, and most residents were at home rather than in the shops and streets below."
+      },
+      {
+        "title": "The Hidden Flaw",
+        "body": "The Accidents Investigation Branch traced the double engine failure to fuel starvation caused by a design flaw in the Argonaut's fuel system that had gone unrecognised for years. The aircraft had eight fuel tanks arranged in pairs, each pair feeding one engine, with a cross-feed system that allowed fuel to be routed between tanks. The selectors controlling the cross-feed valves were poorly positioned in the cockpit, difficult to operate, and gave unclear indications of what was selected. This made it possible for crews to inadvertently cross-feed fuel from certain tank pairs, draining them and starving the associated engines. Pilots on other Argonauts had noticed the problem before, but neither British Midland nor other operators, including Trans-Canada Airlines and Canadian Pacific Airlines, had reported it to the manufacturer. Without that information, the investigation concluded, the pilots of Flight 542 had almost no chance of diagnosing the emergency in time."
+      },
+      {
+        "title": "Rescue and Aftermath",
+        "body": "Members of the public and police officers rushed to the crash site, pulling twelve survivors from the wreckage at considerable personal risk. But fire broke out toward the rear of the aircraft after the fuel tanks ruptured, and the flames worked forward through the cabin, engulfing passengers who had survived the impact but were soaked in aviation fuel. The crowd that gathered, estimated at 10,000 people, hindered the rescue effort. The disaster, coming just one day after the Air Ferry DC-4 accident that killed all 88 aboard on 3 June, shook public confidence in the safety of charter flights operated by independent airlines using older piston-engined aircraft. Media coverage prompted calls for stricter regulation and accelerated the retirement of aging aircraft from passenger service. The twin disasters marked a turning point in British aviation safety oversight."
+      },
+      {
+        "title": "Remembering Hopes Carr",
+        "body": "For decades the crash left a scar on Stockport's memory. In 1998, two survivors unveiled a memorial plaque at the crash site. In 2002, a campaign supported by Prime Minister Tony Blair created a second memorial honouring the rescuers who had risked their lives pulling survivors from the burning aircraft. On the fiftieth anniversary in 2017, the Bishop of Stockport, Libby Lane, led a service at the exact time and place of the crash. New information boards were installed bearing the names of the seventy-two people who died. A documentary, Six Miles from Home, produced for the anniversary, ensured the story reached a generation that had not lived through it. Hopes Carr remains a quiet spot in Stockport, its memorials a reminder that seventy-two families left for a Mallorca holiday and never came home."
+      }
+    ],
+    "flightContext": "Located at 53.407N, 2.154W in Stockport, Greater Manchester, roughly 6nm south-southeast of Manchester Airport (EGCC). The crash site at Hopes Carr is near Stockport town centre. Pilots on approach to Manchester's Runway 23R pass over or near the area. The location is within controlled airspace."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 53.4073,
+      "lng": -2.15354
+    },
+    "geohash": "gcqry"
+  },
+  "categories": [
+    "disaster",
+    "aviation",
+    "history",
+    "memorial"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 760,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 10360
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - Stockport air disaster",
+      "url": "https://en.wikipedia.org/wiki/Stockport_air_disaster",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "72 of 84 aboard killed — confirmed",
+        "Flight date 4 June 1967 — confirmed",
+        "Aircraft type Canadair C-4 Argonaut — confirmed",
+        "Chartered by Arrowsmith Holidays — confirmed",
+        "Fourth-worst aviation disaster in British history — confirmed",
+        "Air Ferry DC-4 crash on 3 June killed all 88 aboard — confirmed",
+        "Fuel starvation caused by cross-feed design flaw — confirmed",
+        "Neither British Midland nor Trans-Canada nor Canadian Pacific reported flaw to manufacturer — confirmed",
+        "1998 memorial plaque unveiled by two survivors — confirmed",
+        "2002 memorial honoring rescuers — confirmed",
+        "Bishop of Stockport Libby Lane led 2017 anniversary service — confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "g/c/q/r/stockport-air-disaster-wp",
+  "locationWikivoyagePath": "g/c/q/r/stockport-wk",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "southport-and-st-anne-s-lifeboats-disaster-wp",
+      "title": "Southport and St Anne's Lifeboats Disaster",
+      "tile": "gctc",
+      "coordinates": {
+        "lat": 53.6531,
+        "lng": -3.015
+      },
+      "distanceKm": 14.1
+    },
+    "n": {
+      "id": "winter-hill-air-disaster-wp",
+      "title": "Winter Hill Air Disaster",
+      "tile": "gcw1",
+      "coordinates": {
+        "lat": 53.629,
+        "lng": -2.513
+      },
+      "distanceKm": 15.1
+    },
+    "ne": {
+      "id": "kirkstall-abbey-wp",
+      "title": "Kirkstall Abbey",
+      "tile": "gcwf",
+      "coordinates": {
+        "lat": 53.82054,
+        "lng": -1.60806
+      },
+      "distanceKm": 25.1
+    },
+    "w": {
+      "id": "liverpool-metropolitan-cathedral-wp",
+      "title": "Liverpool Metropolitan Cathedral",
+      "tile": "gcmz",
+      "coordinates": {
+        "lat": 53.404722,
+        "lng": -2.968889
+      },
+      "distanceKm": 12
+    },
+    "e": {
+      "id": "chatsworth-house-wp",
+      "title": "Chatsworth House",
+      "tile": "gcqy",
+      "coordinates": {
+        "lat": 53.227778,
+        "lng": -1.61
+      },
+      "distanceKm": 16.7
+    },
+    "sw": {
+      "id": "gresford-disaster-wp",
+      "title": "Gresford Disaster",
+      "tile": "gcmv",
+      "coordinates": {
+        "lat": 53.067,
+        "lng": -2.945
+      },
+      "distanceKm": 9.1
+    },
+    "s": {
+      "id": "stafford-castle-wp",
+      "title": "Stafford Castle",
+      "tile": "gcqk",
+      "coordinates": {
+        "lat": 52.797885,
+        "lng": -2.147158
+      },
+      "distanceKm": 33.3
+    },
+    "se": {
+      "id": "raf-fauld-explosion-wp",
+      "title": "RAF Fauld Explosion",
+      "tile": "gcqu",
+      "coordinates": {
+        "lat": 52.847117,
+        "lng": -1.730608
+      },
+      "distanceKm": 26.6
+    }
+  }
+}

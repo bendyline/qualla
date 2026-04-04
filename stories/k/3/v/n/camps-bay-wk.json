@@ -1,0 +1,156 @@
+{
+  "id": "camps-bay-wk",
+  "source": "wikipedia",
+  "sourceId": "5745",
+  "title": "Camps Bay",
+  "slug": "camps-bay",
+  "summary": "A crescent of white sand beneath the Twelve Apostles where Cape Town goes to watch the sun dissolve into the Atlantic.",
+  "content": {
+    "intro": "The ice cream vendors on Camps Bay beach have a line they shout to passing tourists: \"A lolly for your dolly!\" It captures something essential about this place - a suburb that refuses to take itself too seriously despite being one of the most photographed stretches of coastline in South Africa. Wedged between the Atlantic Ocean and the sheer granite buttresses of the Twelve Apostles, Camps Bay is where Cape Town comes to exhale. The beach runs in a clean white arc along Victoria Road, backed by a strip of restaurants and bars that fill every evening with people watching the sun drop below the horizon in shades of copper and violet. Locals call it sundowner hour, and in Camps Bay the ritual is practically civic duty.",
+    "sections": [
+      {
+        "title": "A Harbour That Never Was",
+        "body": "The name traces back to the Afrikaans \"Kamps Baai,\" and the sheltered cove was once seriously considered as the site for Cape Town's main harbour. The bay's deep water and natural protection from the dominant southeaster made it a plausible candidate. But the decision went to Table Bay instead, and Camps Bay was left to develop at its own pace - from remote farming outpost to seaside village to the upscale suburb it is today. That failed harbour bid may have been the luckiest thing that ever happened to Camps Bay. Without docks and cargo ships, the coastline remained pristine, the water stayed clear, and the beach became the attraction rather than an afterthought."
+      },
+      {
+        "title": "The Twelve Apostles",
+        "body": "The mountain wall that rises behind Camps Bay is not a single peak but a series of buttresses extending south from Table Mountain, collectively called the Twelve Apostles. The name is generous - there are actually seventeen or eighteen distinct peaks depending on how you count - but the biblical reference stuck. These granite and sandstone towers catch the afternoon light and turn from grey to gold to deep amber as the day fades, providing a natural amphitheatre for the suburb below. Hikers and paragliders launch from Lions Head and Signal Hill to the north, drifting down over the rooftops with the Atlantic spreading blue and infinite beneath them. From above, the contrast is striking: a narrow band of civilization pressed between vertical rock and open ocean."
+      },
+      {
+        "title": "Sundowner Strip",
+        "body": "Victoria Road runs parallel to the beach, and along it some thirty restaurants and cafes compete for the sunset view. The Codfather serves seafood so fresh the menu changes with each catch. Families stake out spots on the grass between the road and the sand. Surfers in wetsuits share the pavement with couples in evening dress. Camps Bay manages what few resort towns achieve - it draws tourists without becoming a tourist trap, partly because Capetonians themselves treat it as their backyard beach. The water is bracingly cold, courtesy of the Benguela Current sweeping up from the Antarctic, and swimming here requires either a wetsuit or a reckless disregard for comfort. Most visitors wade ankle-deep, drink in hand, eyes fixed on the horizon."
+      },
+      {
+        "title": "Getting There Is Half the View",
+        "body": "Reaching Camps Bay is an experience in itself. The coastal road from the Cape Town CBD winds westward around the base of Table Mountain, each curve revealing a new angle on the Atlantic coastline. Coming from the south, Chapman's Peak Drive - one of the most spectacular coastal roads on Earth - delivers drivers along cliff faces that drop hundreds of meters to the sea. There is no public transit to speak of, which keeps the suburb slightly removed from the city's usual rhythms. Camps Bay sits close enough to central Cape Town to feel connected but just isolated enough to maintain the illusion that you have left the city behind entirely."
+      }
+    ],
+    "flightContext": "Camps Bay (33.95S, 18.38E) sits on the Atlantic coast of the Cape Peninsula, directly west of Table Mountain's western face. The Twelve Apostles mountain range rises steeply to the east, creating dramatic terrain visible from any approach. Cape Town International (FACT/CPT) is approximately 25km to the east. The coastline runs roughly north-south, with white sand beach clearly visible from altitude. Lions Head (669m) and Signal Hill are prominent landmarks to the north. Paragliders frequently operate in this area. Strong southeaster winds common in summer (Oct-Mar). Cold Benguela Current visible as darker water along the coast."
+  },
+  "location": {
+    "coordinates": {
+      "lat": -33.95,
+      "lng": 18.383333333333
+    },
+    "geohash": "k3vnf"
+  },
+  "categories": [
+    "south-africa",
+    "coastal",
+    "beaches",
+    "cape-town-suburb"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-09T00:00:00Z",
+    "wordCount": 640,
+    "readTime": 3,
+    "firstPublished": "2026-03-09T00:00:00Z",
+    "storyNumber": 7100
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Camps Bay - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Camps_Bay",
+      "accessedAt": "2026-03-12",
+      "claimsVerified": [
+        "Twelve Apostles mountain range name confirmed",
+        "Note that there are 12 named peaks in the Apostles, story's claim of 17-18 peaks is a reasonable interpretation depending on counting method",
+        "Table Bay chosen over Camps Bay for harbor confirmed",
+        "Benguela Current causing cold water confirmed",
+        "Lion's Head and Signal Hill to north confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 3,
+    "strongOpinions": [
+      "'A lolly for your dolly' vendor quote sets casual tone",
+      "Benguela Current described as 'sweeping up from the Antarctic'",
+      "'A resort town that draws tourists without becoming a tourist trap'"
+    ]
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "german-submarine-u-179-wp",
+      "title": "German submarine U-179",
+      "tile": "k6h1",
+      "coordinates": {
+        "lat": -33.46666666666667,
+        "lng": 17.083333333333332
+      },
+      "distanceKm": 84.5
+    },
+    "n": {
+      "id": "koeberg-nuclear-power-station-wp",
+      "title": "Koeberg Nuclear Power Station",
+      "tile": "k6j0",
+      "coordinates": {
+        "lat": -33.67666667,
+        "lng": 18.43194444
+      },
+      "distanceKm": 8.5
+    },
+    "ne": {
+      "id": "huguenot-tunnel-wp",
+      "title": "Huguenot Tunnel",
+      "tile": "k6j8",
+      "coordinates": {
+        "lat": -33.733888888889,
+        "lng": 19.096388888889
+      },
+      "distanceKm": 10.5
+    },
+    "w": {
+      "id": "cape-columbine-wp",
+      "title": "Cape Columbine",
+      "tile": "k6ht",
+      "coordinates": {
+        "lat": -32.8275,
+        "lng": 17.8564
+      },
+      "distanceKm": 132.1
+    },
+    "e": {
+      "id": "dutch-reformed-church-franschhoek-wp",
+      "title": "Dutch Reformed Church, Franschhoek",
+      "tile": "k3vx",
+      "coordinates": {
+        "lat": -33.90934,
+        "lng": 19.11912
+      },
+      "distanceKm": 17
+    },
+    "sw": {
+      "id": "sas-president-kruger-wp",
+      "title": "SAS President Kruger",
+      "tile": "k3sr",
+      "coordinates": {
+        "lat": -35.25,
+        "lng": 17.35
+      },
+      "distanceKm": 120.4
+    },
+    "s": {
+      "id": "cape-of-good-hope-wp",
+      "title": "Cape of Good Hope",
+      "tile": "k3vh",
+      "coordinates": {
+        "lat": -34.358055555556,
+        "lng": 18.471944444444
+      },
+      "distanceKm": 9.1
+    },
+    "se": {
+      "id": "hermanus-wk",
+      "title": "Hermanus",
+      "tile": "k3vs",
+      "coordinates": {
+        "lat": -34.416667,
+        "lng": 19.3
+      },
+      "distanceKm": 32.9
+    }
+  },
+  "locationWikivoyagePath": "k/3/v/n/camps-bay-wk"
+}

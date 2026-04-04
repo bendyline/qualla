@@ -162,8 +162,8 @@
       "sourceType": "core",
       "sourceArticleId": "notre-dame-basilica-montreal-wp",
       "sourceGeohash4": "f25d",
-      "mediumPath": "_m/f/2/5/d/notre-dame-basilica-montreal-wp/interior-notre-dame-ba-medium.jpg",
-      "smallPath": "_m/f/2/5/d/notre-dame-basilica-montreal-wp/interior-notre-dame-ba-small.jpg"
+      "mediumPath": "_m/f/2/5/d/notre-dame-basilica-montreal-wp/interior-notre-dame-ba-medium.webp",
+      "smallPath": "_m/f/2/5/d/notre-dame-basilica-montreal-wp/interior-notre-dame-ba-small.webp"
     },
     {
       "filename": "Basílica de Notre-Dame, Montreal, Canadá, 2017-08-12, DD 22-24 HDR.jpg",
@@ -183,8 +183,8 @@
       "sourceType": "core",
       "sourceArticleId": "notre-dame-basilica-montreal-wp",
       "sourceGeohash4": "f25d",
-      "mediumPath": "_m/f/2/5/d/notre-dame-basilica-montreal-wp/interior-notre-dame-ba-1-medium.jpg",
-      "smallPath": "_m/f/2/5/d/notre-dame-basilica-montreal-wp/interior-notre-dame-ba-1-small.jpg"
+      "mediumPath": "_m/f/2/5/d/notre-dame-basilica-montreal-wp/interior-notre-dame-ba-1-medium.webp",
+      "smallPath": "_m/f/2/5/d/notre-dame-basilica-montreal-wp/interior-notre-dame-ba-1-small.webp"
     },
     {
       "filename": "Basílica de Notre-Dame, Montreal, Canadá, 2017-08-12, DD 28-30 HDR.jpg",
@@ -204,8 +204,8 @@
       "sourceType": "core",
       "sourceArticleId": "notre-dame-basilica-montreal-wp",
       "sourceGeohash4": "f25d",
-      "mediumPath": "_m/f/2/5/d/notre-dame-basilica-montreal-wp/interior-notre-dame-ba-2-medium.jpg",
-      "smallPath": "_m/f/2/5/d/notre-dame-basilica-montreal-wp/interior-notre-dame-ba-2-small.jpg"
+      "mediumPath": "_m/f/2/5/d/notre-dame-basilica-montreal-wp/interior-notre-dame-ba-2-medium.webp",
+      "smallPath": "_m/f/2/5/d/notre-dame-basilica-montreal-wp/interior-notre-dame-ba-2-small.webp"
     },
     {
       "filename": "Restoration of Notre-Dame Basilica of Montreal.jpg",
@@ -225,7 +225,7 @@
       "sourceType": "core",
       "sourceArticleId": "notre-dame-basilica-montreal-wp",
       "sourceGeohash4": "f25d",
-      "smallPath": "_m/f/2/5/d/notre-dame-basilica-montreal-wp/front-notre-dame-basil-small.jpg"
+      "smallPath": "_m/f/2/5/d/notre-dame-basilica-montreal-wp/front-notre-dame-basil-small.webp"
     }
   ],
   "galleryPaths": [
@@ -236,5 +236,23 @@
     "_m/f/2/5/d/notre-dame-basilica-montreal-wp/interior-notre-dame-ba-2.jpg",
     "_m/f/2/5/d/notre-dame-basilica-montreal-wp/front-notre-dame-basil.jpg"
   ],
-  "fetchedAt": "2026-02-28T13:26:44.848Z"
+  "narration": {
+    "files": [
+      "f25d-notre-dame-basilica-montreal-flight-context.mp3",
+      "f25d-notre-dame-basilica-montreal-intro.mp3",
+      "f25d-notre-dame-basilica-montreal-the-outsiders-cathedral.mp3",
+      "f25d-notre-dame-basilica-montreal-stained-glass-that-tells-a-different-story.mp3",
+      "f25d-notre-dame-basilica-montreal-where-montreal-gathers.mp3",
+      "f25d-notre-dame-basilica-montreal-the-bells-and-the-mountain.mp3"
+    ],
+    "durations": {
+      "f25d-notre-dame-basilica-montreal-flight-context.mp3": 52.32275,
+      "f25d-notre-dame-basilica-montreal-intro.mp3": 53.3180833,
+      "f25d-notre-dame-basilica-montreal-the-outsiders-cathedral.mp3": 93.756125,
+      "f25d-notre-dame-basilica-montreal-stained-glass-that-tells-a-different-story.mp3": 84.787625,
+      "f25d-notre-dame-basilica-montreal-where-montreal-gathers.mp3": 79.0434166,
+      "f25d-notre-dame-basilica-montreal-the-bells-and-the-mountain.mp3": 68.2135416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

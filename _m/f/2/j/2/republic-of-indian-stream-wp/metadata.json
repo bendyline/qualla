@@ -28,8 +28,8 @@
     "sourceType": "core",
     "sourceArticleId": "republic-of-indian-stream-wp",
     "sourceGeohash4": "f2j2",
-    "mediumPath": "_m/f/2/j/2/republic-of-indian-stream-wp/hero-medium.jpg",
-    "smallPath": "_m/f/2/j/2/republic-of-indian-stream-wp/hero-small.jpg"
+    "mediumPath": "_m/f/2/j/2/republic-of-indian-stream-wp/hero-medium.webp",
+    "smallPath": "_m/f/2/j/2/republic-of-indian-stream-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "New Hampshire historical marker 1 in Pittsburg.jpg",
@@ -62,5 +62,25 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-02-28T14:13:50.401Z"
+  "narration": {
+    "files": [
+      "f2j2-republic-of-indian-stream-flight-context.mp3",
+      "f2j2-republic-of-indian-stream-intro.mp3",
+      "f2j2-republic-of-indian-stream-a-border-that-nobody-could-find.mp3",
+      "f2j2-republic-of-indian-stream-a-constitution-for-three-hundred-souls.mp3",
+      "f2j2-republic-of-indian-stream-invasion-by-ultimatum.mp3",
+      "f2j2-republic-of-indian-stream-a-hardware-store-debt-and-a-diplomatic-crisis.mp3",
+      "f2j2-republic-of-indian-stream-resolved-by-treaty-remembered-by-marker.mp3"
+    ],
+    "durations": {
+      "f2j2-republic-of-indian-stream-flight-context.mp3": 59.0254583,
+      "f2j2-republic-of-indian-stream-intro.mp3": 50.6698333,
+      "f2j2-republic-of-indian-stream-a-border-that-nobody-could-find.mp3": 77.282875,
+      "f2j2-republic-of-indian-stream-a-constitution-for-three-hundred-souls.mp3": 70.0090416,
+      "f2j2-republic-of-indian-stream-invasion-by-ultimatum.mp3": 75.0865833,
+      "f2j2-republic-of-indian-stream-a-hardware-store-debt-and-a-diplomatic-crisis.mp3": 66.5957916,
+      "f2j2-republic-of-indian-stream-resolved-by-treaty-remembered-by-marker.mp3": 61.7958333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

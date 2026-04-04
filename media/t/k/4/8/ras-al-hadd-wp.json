@@ -26,8 +26,8 @@
           "Sunsets in 2008",
           "Taken with Canon EOS 5D"
         ],
-        "mediumPath": "_m/t/k/4/8/ras-al-hadd-wp/hero-medium.jpg",
-        "smallPath": "_m/t/k/4/8/ras-al-hadd-wp/hero-small.jpg"
+        "mediumPath": "_m/t/k/4/8/ras-al-hadd-wp/hero-medium.webp",
+        "smallPath": "_m/t/k/4/8/ras-al-hadd-wp/hero-small.webp"
       },
       "images": [
         {
@@ -58,8 +58,8 @@
             "Supported by Wikimedia Österreich in 2018",
             "Taken with Reflecta DigitDia 6000"
           ],
-          "mediumPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0215-archaologe-medium.jpg",
-          "smallPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0215-archaologe-small.jpg"
+          "mediumPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0215-archaologe-medium.webp",
+          "smallPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0215-archaologe-small.webp"
         },
         {
           "path": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0216-ausgrabung.jpg",
@@ -88,8 +88,8 @@
             "Supported by Wikimedia Österreich in 2018",
             "Taken with Reflecta DigitDia 6000"
           ],
-          "mediumPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0216-ausgrabung-medium.jpg",
-          "smallPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0216-ausgrabung-small.jpg"
+          "mediumPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0216-ausgrabung-medium.webp",
+          "smallPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0216-ausgrabung-small.webp"
         },
         {
           "path": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0220-durchblick.jpg",
@@ -117,8 +117,8 @@
             "Supported by Wikimedia Österreich in 2018",
             "Taken with Reflecta DigitDia 6000"
           ],
-          "mediumPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0220-durchblick-medium.jpg",
-          "smallPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0220-durchblick-small.jpg"
+          "mediumPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0220-durchblick-medium.webp",
+          "smallPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0220-durchblick-small.webp"
         },
         {
           "path": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0221-einblick.jpg",
@@ -147,10 +147,19 @@
             "Supported by Wikimedia Österreich in 2018",
             "Taken with Reflecta DigitDia 6000"
           ],
-          "mediumPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0221-einblick-medium.jpg",
-          "smallPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0221-einblick-small.jpg"
+          "mediumPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0221-einblick-medium.webp",
+          "smallPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0221-einblick-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/t/k/4/8/ras-al-hadd-wp/tk48-ras-al-hadd-flight-context.mp3",
+        "_m/t/k/4/8/ras-al-hadd-wp/tk48-ras-al-hadd-intro.mp3",
+        "_m/t/k/4/8/ras-al-hadd-wp/tk48-ras-al-hadd-where-the-gulf-begins.mp3",
+        "_m/t/k/4/8/ras-al-hadd-wp/tk48-ras-al-hadd-the-turtle-reserve.mp3",
+        "_m/t/k/4/8/ras-al-hadd-wp/tk48-ras-al-hadd-watchers-on-the-point.mp3",
+        "_m/t/k/4/8/ras-al-hadd-wp/tk48-ras-al-hadd-edge-of-arabia.mp3"
+      ],
+      "combinedNarration": "_m/t/k/4/8/ras-al-hadd-wp/tk48-ras-al-hadd-combined.mp3"
     }
   }
 }

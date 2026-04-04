@@ -25,8 +25,8 @@
           "Self-published work",
           "Taken with Canon Digital IXUS 105"
         ],
-        "mediumPath": "_m/f/2/h/n/odanak-wp/hero-medium.jpg",
-        "smallPath": "_m/f/2/h/n/odanak-wp/hero-small.jpg"
+        "mediumPath": "_m/f/2/h/n/odanak-wp/hero-medium.webp",
+        "smallPath": "_m/f/2/h/n/odanak-wp/hero-small.webp"
       },
       "images": [
         {
@@ -50,7 +50,7 @@
             "Self-published work",
             "Taken with Nikon D200"
           ],
-          "smallPath": "_m/f/2/h/n/odanak-wp/rue-waban-aki-de-nuit-small.jpg"
+          "smallPath": "_m/f/2/h/n/odanak-wp/rue-waban-aki-de-nuit-small.webp"
         },
         {
           "path": "_m/f/2/h/n/odanak-wp/odanak-quebec-location-diagram.png",
@@ -72,7 +72,7 @@
             "PD-self",
             "Self-published work"
           ],
-          "smallPath": "_m/f/2/h/n/odanak-wp/odanak-quebec-location-diagram-small.png"
+          "smallPath": "_m/f/2/h/n/odanak-wp/odanak-quebec-location-diagram-small.webp"
         },
         {
           "path": "_m/f/2/h/n/odanak-wp/abenakisstopsign.jpg",
@@ -104,8 +104,8 @@
             "Taken with Fujifilm FinePix S1000fd",
             "Trilingual signs in Canada"
           ],
-          "mediumPath": "_m/f/2/h/n/odanak-wp/abenakisstopsign-medium.jpg",
-          "smallPath": "_m/f/2/h/n/odanak-wp/abenakisstopsign-small.jpg"
+          "mediumPath": "_m/f/2/h/n/odanak-wp/abenakisstopsign-medium.webp",
+          "smallPath": "_m/f/2/h/n/odanak-wp/abenakisstopsign-small.webp"
         },
         {
           "path": "_m/f/2/h/n/odanak-wp/des-vannieres-d-odanak-vers-19.jpg",
@@ -130,7 +130,7 @@
             "PD-old missing SDC copyright status",
             "Quebec in the 1920s"
           ],
-          "smallPath": "_m/f/2/h/n/odanak-wp/des-vannieres-d-odanak-vers-19-small.jpg"
+          "smallPath": "_m/f/2/h/n/odanak-wp/des-vannieres-d-odanak-vers-19-small.webp"
         },
         {
           "path": "_m/f/2/h/n/odanak-wp/parc-eglise-odanak.jpg",
@@ -154,7 +154,7 @@
             "Items with VRTS permission confirmed",
             "Odanak"
           ],
-          "smallPath": "_m/f/2/h/n/odanak-wp/parc-eglise-odanak-small.jpg"
+          "smallPath": "_m/f/2/h/n/odanak-wp/parc-eglise-odanak-small.webp"
         },
         {
           "path": "_m/f/2/h/n/odanak-wp/joseph-laurent.jpg",
@@ -171,7 +171,7 @@
           "sourceArticleId": "odanak-wp",
           "sourceGeohash4": "f2hn",
           "accessedAt": "2026-02-28T14:11:02.993Z",
-          "smallPath": "_m/f/2/h/n/odanak-wp/joseph-laurent-small.jpg"
+          "smallPath": "_m/f/2/h/n/odanak-wp/joseph-laurent-small.webp"
         },
         {
           "path": "_m/f/2/h/n/odanak-wp/odanak-vue-aerienne-2025.jpg",
@@ -188,8 +188,8 @@
           "sourceArticleId": "odanak-wp",
           "sourceGeohash4": "f2hn",
           "accessedAt": "2026-02-28T14:11:02.993Z",
-          "mediumPath": "_m/f/2/h/n/odanak-wp/odanak-vue-aerienne-2025-medium.jpg",
-          "smallPath": "_m/f/2/h/n/odanak-wp/odanak-vue-aerienne-2025-small.jpg"
+          "mediumPath": "_m/f/2/h/n/odanak-wp/odanak-vue-aerienne-2025-medium.webp",
+          "smallPath": "_m/f/2/h/n/odanak-wp/odanak-vue-aerienne-2025-small.webp"
         },
         {
           "path": "_m/f/2/h/n/odanak-wp/station-d-epuration-odanak.jpg",
@@ -206,8 +206,8 @@
           "sourceArticleId": "odanak-wp",
           "sourceGeohash4": "f2hn",
           "accessedAt": "2026-02-28T14:11:02.993Z",
-          "mediumPath": "_m/f/2/h/n/odanak-wp/station-d-epuration-odanak-medium.jpg",
-          "smallPath": "_m/f/2/h/n/odanak-wp/station-d-epuration-odanak-small.jpg"
+          "mediumPath": "_m/f/2/h/n/odanak-wp/station-d-epuration-odanak-medium.webp",
+          "smallPath": "_m/f/2/h/n/odanak-wp/station-d-epuration-odanak-small.webp"
         },
         {
           "path": "_m/tpc/ce/nt/re/-d/centre-du-quebec/sainte-angele-de-laval.jpg",
@@ -333,7 +333,16 @@
             "Victoriaville"
           ]
         }
-      ]
+      ],
+      "narration": [
+        "_m/f/2/h/n/odanak-wp/f2hn-odanak-flight-context.mp3",
+        "_m/f/2/h/n/odanak-wp/f2hn-odanak-intro.mp3",
+        "_m/f/2/h/n/odanak-wp/f2hn-odanak-before-the-abenaki-arrived.mp3",
+        "_m/f/2/h/n/odanak-wp/f2hn-odanak-a-fortress-built-by-a-king.mp3",
+        "_m/f/2/h/n/odanak-wp/f2hn-odanak-three-moves-and-a-burning.mp3",
+        "_m/f/2/h/n/odanak-wp/f2hn-odanak-the-people-who-stayed.mp3"
+      ],
+      "combinedNarration": "_m/f/2/h/n/odanak-wp/f2hn-odanak-combined.mp3"
     }
   }
 }

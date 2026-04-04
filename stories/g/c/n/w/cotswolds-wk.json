@@ -75,84 +75,84 @@
   "locationWikivoyagePath": "g/c/n/w/cotswolds-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "dublin-wk",
-      "title": "Dublin",
-      "tile": "gc7x",
+      "id": "ludlow-castle-wp",
+      "title": "Ludlow Castle",
+      "tile": "gcq1",
       "coordinates": {
-        "lat": 53.3411,
-        "lng": -6.2633
+        "lat": 52.3672,
+        "lng": -2.72301
       },
-      "distanceKm": 294.7
+      "distanceKm": 41.4
     },
     "n": {
-      "id": "pennine-way-wk",
-      "title": "Pennine Way",
-      "tile": "gcqx",
+      "id": "battle-of-evesham-wp",
+      "title": "Battle of Evesham",
+      "tile": "gcq8",
       "coordinates": {
-        "lat": 53.3706,
-        "lng": -1.8168
+        "lat": 52.10805555555555,
+        "lng": -1.9461111111111111
       },
-      "distanceKm": 149.1
+      "distanceKm": 8.6
     },
     "ne": {
-      "id": "keukenhof-wp",
-      "title": "Keukenhof",
-      "tile": "u171",
+      "id": "battle-of-naseby-wp",
+      "title": "Battle of Naseby",
+      "tile": "gcr6",
       "coordinates": {
-        "lat": 52.271256,
-        "lng": 4.546365
+        "lat": 52.41561,
+        "lng": -0.99529
       },
-      "distanceKm": 406.9
+      "distanceKm": 51.1
     },
     "w": {
-      "id": "fishguard-wk",
-      "title": "The Battle of Fishguard: The Last Invasion of Britain",
-      "tile": "gchr",
+      "id": "goodrich-castle-wp",
+      "title": "Goodrich Castle",
+      "tile": "gcnp",
       "coordinates": {
-        "lat": 51.9944,
-        "lng": -4.98
+        "lat": 51.852,
+        "lng": -2.618
       },
-      "distanceKm": 174.7
+      "distanceKm": 14.3
     },
     "e": {
-      "id": "london-beer-flood-wp",
-      "title": "The London Beer Flood: When a Tidal Wave of Porter Drowned a Slum",
-      "tile": "gcpv",
+      "id": "blenheim-palace-wp",
+      "title": "Blenheim Palace",
+      "tile": "gcpn",
       "coordinates": {
-        "lat": 51.51694444444444,
-        "lng": -0.13
+        "lat": 51.8413,
+        "lng": -1.3614
       },
-      "distanceKm": 92.4
+      "distanceKm": 8.8
     },
     "sw": {
-      "id": "guernsey-wk",
-      "title": "Guernsey",
-      "tile": "gby1",
+      "id": "clifton-suspension-bridge-wp",
+      "title": "Clifton Suspension Bridge",
+      "tile": "gcnh",
       "coordinates": {
-        "lat": 49.45,
-        "lng": -2.55
+        "lat": 51.4545,
+        "lng": -2.6276
       },
-      "distanceKm": 228.5
+      "distanceKm": 12.8
     },
     "s": {
-      "id": "stonehenge-mystery-wk",
-      "title": "Stonehenge: The Mystery That Won't Die",
-      "tile": "gcne",
+      "id": "avebury-wp",
+      "title": "Avebury",
+      "tile": "gcns",
       "coordinates": {
-        "lat": 51.1789,
-        "lng": -1.8262
+        "lat": 51.4286,
+        "lng": -1.854
       },
-      "distanceKm": 36.9
+      "distanceKm": 10
     },
     "se": {
-      "id": "great-stink-wk",
-      "title": "The Great Stink: When London's Smell Shut Down Parliament",
-      "tile": "gcpu",
+      "id": "donnington-castle-wp",
+      "title": "Donnington Castle",
+      "tile": "gcph",
       "coordinates": {
-        "lat": 51.4995,
-        "lng": -0.1248
+        "lat": 51.4197,
+        "lng": -1.3381
       },
-      "distanceKm": 88.7
+      "distanceKm": 10.5
     }
   },
   "keywords": [

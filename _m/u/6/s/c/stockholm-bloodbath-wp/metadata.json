@@ -26,7 +26,7 @@
     "sourceType": "core",
     "sourceArticleId": "stockholm-bloodbath-wp",
     "sourceGeohash4": "u6sc",
-    "smallPath": "_m/u/6/s/c/stockholm-bloodbath-wp/hero-small.jpg"
+    "smallPath": "_m/u/6/s/c/stockholm-bloodbath-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Stockholm Bloodbath.jpg",
@@ -77,13 +77,14 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "stockholm-bloodbath-wp",
-      "sourceGeohash4": "u6sc"
+      "sourceGeohash4": "u6sc",
+      "mediumPath": "_m/u/6/s/c/stockholm-bloodbath-wp/stockholm-ratusz-36-medium.webp",
+      "smallPath": "_m/u/6/s/c/stockholm-bloodbath-wp/stockholm-ratusz-36-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/u/6/s/c/stockholm-bloodbath-wp/stockholm-ratusz-36.jpg"
   ],
-  "fetchedAt": "2026-02-22T15:01:56.397Z",
   "updatedAt": "2026-02-22T15:01:56.903Z",
   "narration": {
     "files": [
@@ -102,7 +103,6 @@
       "u6sc-stockholm-bloodbath-the-birth-of-a-nation.mp3": 45.1917916,
       "u6sc-stockholm-bloodbath-shadows-that-linger.mp3": 51.7252083
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T20:14:49.009Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

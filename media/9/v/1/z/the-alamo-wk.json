@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/v/1/z/the-alamo-wk/9v40-the-alamo-intro.mp3",
-        "_m/9/v/1/z/the-alamo-wk/9v40-the-alamo-controversy-and-context.mp3",
-        "_m/9/v/1/z/the-alamo-wk/9v40-the-alamo-flight-context.mp3",
-        "_m/9/v/1/z/the-alamo-wk/9v40-the-alamo-legacy-and-myth.mp3",
-        "_m/9/v/1/z/the-alamo-wk/9v40-the-alamo-the-final-assault.mp3",
-        "_m/9/v/1/z/the-alamo-wk/9v40-the-alamo-the-siege-begins.mp3",
-        "_m/9/v/1/z/the-alamo-wk/9v40-the-alamo-visiting-the-alamo.mp3"
+        "_m/9/v/1/z/the-alamo-wk/9v1z-the-alamo-flight-context.mp3",
+        "_m/9/v/1/z/the-alamo-wk/9v1z-the-alamo-intro.mp3",
+        "_m/9/v/1/z/the-alamo-wk/9v1z-the-alamo-the-siege-begins.mp3",
+        "_m/9/v/1/z/the-alamo-wk/9v1z-the-alamo-the-final-assault.mp3",
+        "_m/9/v/1/z/the-alamo-wk/9v1z-the-alamo-controversy-and-context.mp3",
+        "_m/9/v/1/z/the-alamo-wk/9v1z-the-alamo-legacy-and-myth.mp3",
+        "_m/9/v/1/z/the-alamo-wk/9v1z-the-alamo-visiting-the-alamo.mp3"
       ],
       "hero": {
         "path": "_m/9/v/1/z/the-alamo-wk/hero.jpg",
@@ -26,8 +26,8 @@
         "sourceArticleId": "the-alamo-wk",
         "sourceGeohash4": "9v1z",
         "accessedAt": "2026-02-21T22:38:02.023Z",
-        "mediumPath": "_m/9/v/1/z/the-alamo-wk/hero-medium.jpg",
-        "smallPath": "_m/9/v/1/z/the-alamo-wk/hero-small.jpg"
+        "mediumPath": "_m/9/v/1/z/the-alamo-wk/hero-medium.webp",
+        "smallPath": "_m/9/v/1/z/the-alamo-wk/hero-small.webp"
       },
       "images": [
         {
@@ -394,7 +394,8 @@
           "accessedAt": "2026-02-21T22:38:02.023Z",
           "smallPath": "_m/9/v/1/z/the-alamo-wk/siege-of-the-alamo-map-small.jpg"
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/v/1/z/the-alamo-wk/9v1z-the-alamo-combined.mp3"
     }
   }
 }

@@ -1,0 +1,157 @@
+{
+  "id": "tillamook-head-wp",
+  "source": "wikipedia",
+  "sourceId": "765446",
+  "title": "Tillamook Head",
+  "slug": "tillamook-head",
+  "summary": "A 1,200-foot basalt promontory on the Oregon coast where 15-million-year-old lava from Idaho meets the Pacific, and where William Clark once hiked to find a beached whale.",
+  "content": {
+    "intro": "The lava that became Tillamook Head started its journey near modern-day Idaho, fifteen million years ago. It welled up from deep beneath the earth, flooded westward down what would become the Columbia Gorge, and spread along the Oregon coastline until it cooled into a basalt sill six hundred feet thick. Today that ancient flow rises 1,200 feet above the Pacific as a forested promontory cloaked in Sitka spruce, the kind of geological improbability that makes the Oregon coast feel less like scenery and more like evidence.",
+    "sections": [
+      {
+        "title": "Clark's Whale Hunt",
+        "body": "In January 1806, Captain William Clark and twelve members of the Corps of Discovery set out from Fort Clatsop on a mission that had nothing to do with westward expansion. They had heard reports of a whale beached somewhere south of their winter camp, and they wanted its blubber. The route took them over Tillamook Head, a grueling hike through dense coastal forest up a steep, rain-slicked slope. When they reached the far side and descended to the shore, they found the whale -- or what remained of it. The Tillamook people, a Salishan-speaking tribe who inhabited the coast south of the promontory, had already rendered most of the carcass. Clark's party managed to acquire some blubber and oil through trade before making the long climb back. Nearly two centuries later, in 2002, the highest point on the headland was officially named Clark's Mountain."
+      },
+      {
+        "title": "Stone from a Distant Eruption",
+        "body": "Tillamook Head belongs to the Columbia River Basalt Group, one of the most massive volcanic events in North America's geological record. The eruptions that produced this rock occurred hundreds of miles inland, near the present-day border of Oregon and Idaho. Molten basalt followed river valleys westward, traveling distances that seem implausible for flowing rock but are written plainly in the geology. At Tillamook Head, the lava encountered the coast and stopped, cooling into a tilted sill that the ocean has been carving ever since. The result is a promontory that drops almost vertically into the sea on its western face -- a wall of dark stone that absorbs the full force of Pacific storms."
+      },
+      {
+        "title": "The View from Ecola",
+        "body": "Tillamook Head sits within Ecola State Park, which stretches along the coast between Seaside to the north and Cannon Beach to the south. The headland trail is roughly six miles one way, climbing through old-growth Sitka spruce into fog that can roll in without warning and reduce visibility to a few dozen feet. On clear days, the views from the trail's high points take in the full sweep of the northern Oregon coast -- the broad sandy crescent of Seaside's beach, the open Pacific stretching to the horizon, and just offshore to the southwest, the battered silhouette of Tillamook Rock Light, the isolated lighthouse that sailors once called Terrible Tilly. The promontory itself is the dividing line between two kinds of coastline: the flat, accessible beaches of the Clatsop Plains to the north, and the craggy, headland-studded shore that continues south through Cannon Beach and beyond."
+      }
+    ],
+    "flightContext": "Tillamook Head is located at 45.94N, 123.96W, a prominent 1,200-foot basalt headland jutting into the Pacific. From the air, it is unmistakable: a dark, forested bluff separating the flat beach town of Seaside to the north from the rocky coves leading to Cannon Beach to the south. Tillamook Rock Light is visible 1.2 miles offshore to the southwest. Nearest airports: Seaside Municipal (56S) 5nm northeast, Astoria Regional (KAST) 18nm north. Expect marine layer and fog, particularly from October through May."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 45.9415,
+      "lng": -123.957
+    },
+    "geohash": "c0pv7"
+  },
+  "categories": [
+    "geology",
+    "oregon-coast",
+    "lewis-and-clark",
+    "state-parks",
+    "headlands"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-18T00:00:00Z",
+    "wordCount": 620,
+    "readTime": 3,
+    "firstPublished": "2026-03-18T00:00:00Z",
+    "storyNumber": 10738
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Tillamook Head - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tillamook_Head",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "Tillamook Head elevation approximately 1,200 feet",
+        "Columbia River Basalt Group origin near Oregon-Idaho border",
+        "Clark's Mountain official name approved 2002 by U.S. Board of Geographic Names"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Clark's Mountain (Tillamook Head) - SummitPost",
+      "url": "https://www.summitpost.org/clark-s-mountain-tillamook-head/898876",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "Clark's Mountain name approved by Oregon Geographic Names Board 2001, U.S. Board 2002",
+        "Corrected: Seaside Municipal Airport identifier 64S → 56S"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "c/0/p/v/tillamook-head-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "ss-camden-wp",
+      "title": "SS Camden",
+      "tile": "c0r6",
+      "coordinates": {
+        "lat": 46.7772,
+        "lng": -124.5208
+      },
+      "distanceKm": 61
+    },
+    "n": {
+      "id": "chinook-point-wp",
+      "title": "Chinook Point",
+      "tile": "c0pz",
+      "coordinates": {
+        "lat": 46.2514,
+        "lng": -123.922
+      },
+      "distanceKm": 2.3
+    },
+    "ne": {
+      "id": "olympia-washington-wk",
+      "title": "Olympia (Washington)",
+      "tile": "c22e",
+      "coordinates": {
+        "lat": 47.042,
+        "lng": -122.893
+      },
+      "distanceKm": 98.1
+    },
+    "w": {
+      "id": "quinault-canyon-wp",
+      "title": "Quinault Canyon",
+      "tile": "c0rj",
+      "coordinates": {
+        "lat": 47.35,
+        "lng": -125.133333
+      },
+      "distanceKm": 162.3
+    },
+    "e": {
+      "id": "vancouver-washington-wk",
+      "title": "Vancouver",
+      "tile": "c20g",
+      "coordinates": {
+        "lat": 45.6336111111,
+        "lng": -122.602777778
+      },
+      "distanceKm": 72
+    },
+    "sw": {
+      "id": "red-sand-beach-wp",
+      "title": "Red Sand Beach",
+      "tile": "8e9n",
+      "coordinates": {
+        "lat": 20.7522,
+        "lng": -155.982
+      },
+      "distanceKm": 3989.5
+    },
+    "s": {
+      "id": "beeswax-wreck-wp",
+      "title": "Beeswax Wreck",
+      "tile": "c0pg",
+      "coordinates": {
+        "lat": 45.656,
+        "lng": -123.947
+      },
+      "distanceKm": 5.5
+    },
+    "se": {
+      "id": "forest-grove-wk",
+      "title": "Forest Grove",
+      "tile": "c206",
+      "coordinates": {
+        "lat": 45.51972,
+        "lng": -123.11056
+      },
+      "distanceKm": 30.3
+    }
+  }
+}

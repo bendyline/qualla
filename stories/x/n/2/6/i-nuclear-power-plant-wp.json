@@ -84,14 +84,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "liancourt-rocks-wp",
+      "title": "Liancourt Rocks",
+      "tile": "wytg",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 37.241666666667,
+        "lng": 131.86666666667
       },
-      "distanceKm": 1180.7
+      "distanceKm": 319.3
     },
     "n": {
       "id": "kitanosho-castle-wp",
@@ -114,14 +114,14 @@
       "distanceKm": 26.7
     },
     "w": {
-      "id": "tangshan-earthquake-wk",
-      "title": "The Tangshan Earthquake: The Deadliest Quake of the 20th Century",
-      "tile": "wxh1",
+      "id": "tottori-sand-dunes-wp",
+      "title": "Tottori Sand Dunes",
+      "tile": "wyr6",
       "coordinates": {
-        "lat": 39.6292,
-        "lng": 118.1742
+        "lat": 35.54,
+        "lng": 134.2275
       },
-      "distanceKm": 1545.7
+      "distanceKm": 70.1
     },
     "e": {
       "id": "kehi-shrine-wp",
@@ -134,14 +134,14 @@
       "distanceKm": 6.8
     },
     "sw": {
-      "id": "hong-kong-wk",
-      "title": "Hong Kong",
-      "tile": "wecn",
+      "id": "takeda-castle-wp",
+      "title": "Takeda Castle",
+      "tile": "wyrb",
       "coordinates": {
-        "lat": 22.27,
-        "lng": 114.17
+        "lat": 35.3005,
+        "lng": 134.829
       },
-      "distanceKm": 2486.8
+      "distanceKm": 15.9
     },
     "s": {
       "id": "chitose-kurumazuka-kofun-wp",
@@ -163,5 +163,6 @@
       },
       "distanceKm": 8.9
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/2/6/oi-nuclear-power-plant-wp"
 }

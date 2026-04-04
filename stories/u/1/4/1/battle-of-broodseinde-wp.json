@@ -107,14 +107,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "kent-wk",
-      "title": "Kent",
-      "tile": "u10e",
+      "id": "canterbury-cathedral-wp",
+      "title": "Canterbury Cathedral",
+      "tile": "u10g",
       "coordinates": {
-        "lat": 51.19,
-        "lng": 0.73
+        "lat": 51.28,
+        "lng": 1.08
       },
-      "distanceKm": 120.7
+      "distanceKm": 97.2
     },
     "n": {
       "id": "atlantic-wall-open-air-museum-wp",
@@ -137,14 +137,14 @@
       "distanceKm": 54
     },
     "w": {
-      "id": "crystal-palace-fire-wk",
-      "title": "The Crystal Palace Fire: When London's Glass Wonder Burned",
-      "tile": "gcpu",
+      "id": "dover-castle-wp",
+      "title": "Dover Castle",
+      "tile": "u10f",
       "coordinates": {
-        "lat": 51.4188,
-        "lng": -0.0754
+        "lat": 51.128268,
+        "lng": 1.3235035
       },
-      "distanceKm": 186.4
+      "distanceKm": 83.9
     },
     "e": {
       "id": "battle-of-gavere-wp",
@@ -157,37 +157,38 @@
       "distanceKm": 10.6
     },
     "sw": {
-      "id": "paris-wk",
-      "title": "Paris",
-      "tile": "u09t",
+      "id": "royaumont-abbey-wp",
+      "title": "Royaumont Abbey",
+      "tile": "u09x",
       "coordinates": {
-        "lat": 48.856,
-        "lng": 2.351
+        "lat": 49.1475,
+        "lng": 2.3819
       },
-      "distanceKm": 196.9
+      "distanceKm": 164.4
     },
     "s": {
-      "id": "notre-dame-wk",
-      "title": "Notre-Dame: The Cathedral That Burned and Rose Again",
-      "tile": "u09t",
+      "id": "courrieres-mine-disaster-wp",
+      "title": "Courrieres Mine Disaster",
+      "tile": "u0fn",
       "coordinates": {
-        "lat": 48.853,
-        "lng": 2.3499
+        "lat": 50.41556,
+        "lng": 2.89778
       },
-      "distanceKm": 202.3
+      "distanceKm": 24.2
     },
     "se": {
-      "id": "alsace-wk",
-      "title": "Alsace",
-      "tile": "u0t7",
+      "id": "marcinelle-mining-disaster-wp",
+      "title": "Marcinelle Mining Disaster",
+      "tile": "u0gn",
       "coordinates": {
-        "lat": 48.5,
-        "lng": 7.5
+        "lat": 50.380556,
+        "lng": 4.442778
       },
-      "distanceKm": 371.9
+      "distanceKm": 71
     }
   },
   "keywords": [
     "battle-of-broodseinde"
-  ]
+  ],
+  "locationWikipediaPath": "u/1/4/1/battle-of-broodseinde-wp"
 }

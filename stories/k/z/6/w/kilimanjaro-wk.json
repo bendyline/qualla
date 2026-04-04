@@ -76,87 +76,90 @@
   "locationWikipediaPath": "k/z/6/w/kilimanjaro-national-park-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "nairobi-wk",
-      "title": "Nairobi",
+      "id": "nairobi-national-park-wk",
+      "title": "Nairobi National Park",
       "tile": "kzf0",
       "coordinates": {
-        "lat": -1.2921,
-        "lng": 36.8219
+        "lat": -1.3733,
+        "lng": 36.8589
       },
-      "distanceKm": 169.4
+      "distanceKm": 160.1
     },
     "n": {
-      "id": "aberdare-national-park-wk",
-      "title": "Aberdare National Park",
-      "tile": "kzfj",
+      "id": "amboseli-national-park-wk",
+      "title": "Amboseli National Park",
+      "tile": "kzd2",
       "coordinates": {
-        "lat": -0.38,
-        "lng": 36.699167
+        "lat": -2.65,
+        "lng": 37.25
       },
-      "distanceKm": 282.8
+      "distanceKm": 27.9
     },
     "ne": {
-      "id": "aden-wk",
-      "title": "Aden",
-      "tile": "t420",
+      "id": "tsavo-east-national-park-wk",
+      "title": "Tsavo East National Park",
+      "tile": "kze8",
       "coordinates": {
-        "lat": 12.783333333333,
-        "lng": 45.016666666667
+        "lat": -2.7786,
+        "lng": 38.7717
       },
-      "distanceKm": 1900.8
+      "distanceKm": 89.3
     },
     "w": {
-      "id": "serengeti-national-park-wk",
-      "title": "Serengeti National Park",
-      "tile": "kz8d",
+      "id": "arusha-national-park-wk",
+      "title": "Arusha National Park",
+      "tile": "kz6j",
       "coordinates": {
-        "lat": -2.3328,
-        "lng": 34.5667
+        "lat": -3.25,
+        "lng": 36.833333333333
       },
-      "distanceKm": 273.5
+      "distanceKm": 21.3
     },
     "e": {
-      "id": "abu-dhabi-wk",
-      "title": "Abu Dhabi",
-      "tile": "thqe",
+      "id": "tsavo-west-national-park-wk",
+      "title": "Tsavo West National Park",
+      "tile": "kz7j",
       "coordinates": {
-        "lat": 24.4667,
-        "lng": 54.3667
+        "lat": -3.31666667,
+        "lng": 38.13333333
       },
-      "distanceKm": 3538.4
+      "distanceKm": 32.4
     },
     "sw": {
-      "id": "victoria-falls-wk",
-      "title": "Victoria Falls",
-      "tile": "ksf3",
+      "id": "east-african-campaign-world-war-i-wp",
+      "title": "East African Campaign (World War I)",
+      "tile": "kybu",
       "coordinates": {
-        "lat": -17.9243,
-        "lng": 25.8572
+        "lat": -6.3069999999999995,
+        "lng": 34.854
       },
-      "distanceKm": 2020.2
+      "distanceKm": 401.2
     },
     "s": {
-      "id": "kruger-national-park-wk",
-      "title": "Kruger National Park",
-      "tile": "kewx",
+      "id": "battle-of-jassin-wp",
+      "title": "Battle of Jassin",
+      "tile": "kz5v",
       "coordinates": {
-        "lat": -24,
-        "lng": 31.5
+        "lat": -4.68138888889,
+        "lng": 39.1847222222
       },
-      "distanceKm": 2384.2
+      "distanceKm": 244.2
     },
     "se": {
-      "id": "zanzibar-wk",
-      "title": "Zanzibar",
-      "tile": "kygu",
+      "id": "mkomazi-national-park-wp",
+      "title": "Mkomazi National Park",
+      "tile": "kz5r",
       "coordinates": {
-        "lat": -6.1659,
-        "lng": 39.2026
+        "lat": -4.2994444444444,
+        "lng": 38.389444444444
       },
-      "distanceKm": 342.7
+      "distanceKm": 116.5
     }
   },
   "keywords": [
     "kilimanjaro"
+  ],
+  "duplicates": [
+    "kilimanjaro-national-park-wp"
   ]
 }

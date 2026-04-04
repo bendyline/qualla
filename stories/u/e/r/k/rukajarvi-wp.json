@@ -1,0 +1,166 @@
+{
+  "id": "rukajarvi-wp",
+  "source": "wikipedia",
+  "sourceId": "68202444",
+  "title": "Rukajärvi",
+  "slug": "rukajarvi",
+  "summary": "A Karelian village whose centuries of survival through war, empire, and purge made it a byword for Finnish frontier endurance.",
+  "content": {
+    "intro": "Three names for one village: Rukajärvi in Finnish, Rugarvi in Karelian, Rugozero in Russian. Each name maps to a different era of control over this small lakeside settlement in Russia's Republic of Karelia, 84 kilometers northeast of Muyezersky. Fewer than a thousand people live here now, scattered across a municipality that stretches nearly 4,000 square kilometers of forest and water. But the quiet belies a history so layered with conflict that the village inspired an entire series of Finnish novels and a major war film.",
+    "sections": [
+      {
+        "title": "Fort on the Frontier",
+        "body": "Rukajärvi first appears in records from the 16th century, when the area belonged to Novgorod Lapland. In 1578, a voivode of the Czar built a fort here, and that same year it deterred a Swedish attack. By 1597 the village had an Eastern Orthodox church. The people lived by slash-and-burn farming, fishing, and fur hunting, and they supplied iron ore to factories in Petrozavodsk. This tenuous stability shattered in 1718 when Swedish forces destroyed the villages, and Finnish raiders from Lieksa and Ilomantsi repeated the destruction in 1742. Each time, the settlement rebuilt. By the early 20th century, the Rukajärvi volost counted 29 villages and 2,200 inhabitants. The central village alone had 108 houses, a school, and 604 residents."
+      },
+      {
+        "title": "Between Revolution and Ruin",
+        "body": "After the October Revolution, famine and the Kindred Nation Wars brought new devastation. In November 1921, Finnish forces invading the village shot 11 communists and three officials. Many villagers fled to Finland. The 1920s and 1930s brought a fragile recovery: a kolkhoz was established, and economic and cultural life stirred back to life. Then the Great Purge arrived. Starting in 1935, hundreds of people in Rukajärvi were targeted. The village that had survived Swedish raids and Finnish incursions now faced destruction from within. By the 1926 census, the 43 villages of the broader region still held 2,500 people, most of them Karelians, but the purges hollowed out communities that had taken centuries to grow."
+      },
+      {
+        "title": "The Continuation War's Frozen Front",
+        "body": "During World War II, Rukajärvi became a fixed front line in the Continuation War between Finland and the Soviet Union. Finnish troops advanced and held positions here for the duration, manning outposts with names like Sukellusvene (\"Submarine\"), Pallo (\"Ball\"), and Piippu (\"Pipe\"). The largest battle in the area was fought at Tahkokoski in 1944, and the largest motti engagement took place at the Omelia motti. From 1943 to 1944, Soviet forces poured their heaviest artillery concentrations onto the Pallo outpost. When the war ended, only a handful of buildings remained standing. Among them was the Pronjajev house, which had served as the Finnish command center. Writer Antti Tuuri later turned this front into a trilogy of novels, and director Olli Saarela adapted the story into the 1999 film Ambush."
+      },
+      {
+        "title": "A Quiet Persistence",
+        "body": "After the war, people returned. Today Rukajärvi sits along the highway from Kotškoma to Kostomuksha, its economy carried by public services, the military, and forestry. One private farm and 26 communal farms produce milk, meat, eggs, and vegetables. Nearly half the working-age population is unemployed. The village maintains a school, a library, a small policlinic, and a handful of shops. For visitors, there are hiking trails along the Onnanjoki river and through the Ontajärvi area, with family accommodation available in the village of Ontajärvi to the north. The landscape that made this place so fiercely contested remains: hilly till terrain, scattered lakes reflecting a wide sky, and forests that stretch to the horizon in every direction."
+      }
+    ],
+    "flightContext": "Located at 64.08°N, 32.78°E in Russia's Republic of Karelia, northeast of Muyezersky. The village sits on the eastern shore of Lake Rukajärvi. The terrain is flat taiga forest with numerous lakes. Recommended viewing altitude: 5,000–10,000 ft AGL for the lake and forest pattern. Nearest airports: Petrozavodsk (ULPB), approximately 300 km southwest. The area lies near the Finnish-Russian border."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 64.081664,
+      "lng": 32.782161
+    },
+    "geohash": "uerk9"
+  },
+  "categories": [
+    "history",
+    "village",
+    "war-history",
+    "karelia"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-27T00:00:00Z",
+    "wordCount": 720,
+    "readTime": 4,
+    "firstPublished": "2026-03-27T00:00:00Z",
+    "storyNumber": 13897
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Ambush (1999 film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ambush_(1999_film)",
+      "accessedAt": "2026-03-28",
+      "claimsVerified": [
+        "film directed by Olli Saarela confirmed",
+        "based on Antti Tuuri's book confirmed",
+        "released 1999 confirmed",
+        "won seven Jussi Awards in 2000 including Best Film"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Rukajärvi - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rukaj%C3%A4rvi",
+      "accessedAt": "2026-03-28",
+      "claimsVerified": [
+        "three names: Rukajärvi (Finnish), Rugarvi (Karelian), Rugozero (Russian)",
+        "fort built 1578 by voivode of the Czar",
+        "Swedish attack deterred 1578",
+        "village had Eastern Orthodox church by 1597",
+        "1718 Swedish forces destroyed villages",
+        "Finnish raiders from Lieksa and Ilomantsi attacked 1742",
+        "Continuation War fixed front line confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "u/e/r/k/rukajarvi-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "battle-of-kuhmo-wp",
+      "title": "Battle of Kuhmo",
+      "tile": "uesb",
+      "coordinates": {
+        "lat": 64.848056,
+        "lng": 29.326389
+      },
+      "distanceKm": 154.8
+    },
+    "n": {
+      "id": "battle-of-raate-road-wp",
+      "title": "Battle of Raate Road",
+      "tile": "uesb",
+      "coordinates": {
+        "lat": 64.848056,
+        "lng": 29.326389
+      },
+      "distanceKm": 178.4
+    },
+    "ne": {
+      "id": "soviet-submarine-k-21-wp",
+      "title": "Soviet Submarine K-21",
+      "tile": "usrb",
+      "coordinates": {
+        "lat": 69.08064,
+        "lng": 33.43246
+      },
+      "distanceKm": 527.6
+    },
+    "w": {
+      "id": "battle-of-ilomantsi-1944-wp",
+      "title": "Battle of Ilomantsi (1944)",
+      "tile": "uenk",
+      "coordinates": {
+        "lat": 62.718,
+        "lng": 31.526
+      },
+      "distanceKm": 156
+    },
+    "e": {
+      "id": "lonin-museum-of-veps-ethnography-wp",
+      "title": "Lonin Museum of Veps Ethnography",
+      "tile": "ufcj",
+      "coordinates": {
+        "lat": 61.37083333,
+        "lng": 35.35805556
+      },
+      "distanceKm": 316.5
+    },
+    "sw": {
+      "id": "karelia-wp",
+      "title": "Karelia",
+      "tile": "ueny",
+      "coordinates": {
+        "lat": 63,
+        "lng": 32
+      },
+      "distanceKm": 91.5
+    },
+    "s": {
+      "id": "mount-vottovaara-wp",
+      "title": "Mount Vottovaara",
+      "tile": "uepn",
+      "coordinates": {
+        "lat": 63.072341,
+        "lng": 32.619618
+      },
+      "distanceKm": 82.8
+    },
+    "se": {
+      "id": "lake-onega-wp",
+      "title": "Lake Onega",
+      "tile": "ufcq",
+      "coordinates": {
+        "lat": 61.690555555556,
+        "lng": 35.655555555556
+      },
+      "distanceKm": 262
+    }
+  }
+}

@@ -23,7 +23,7 @@
     "sourceType": "core",
     "sourceArticleId": "lindbergh-kidnapping-wp",
     "sourceGeohash4": "dr4v",
-    "smallPath": "_m/d/r/4/v/lindbergh-kidnapping-wp/hero-small.jpg"
+    "smallPath": "_m/d/r/4/v/lindbergh-kidnapping-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Lindbergh Kidnapping Note Signature.png",
@@ -87,7 +87,7 @@
       "sourceType": "core",
       "sourceArticleId": "lindbergh-kidnapping-wp",
       "sourceGeohash4": "dr4v",
-      "smallPath": "_m/d/r/4/v/lindbergh-kidnapping-wp/10-gold-certificate-se-small.jpg"
+      "smallPath": "_m/d/r/4/v/lindbergh-kidnapping-wp/10-gold-certificate-se-small.webp"
     },
     {
       "filename": "Lindberghs land in England Jan., 1936.jpg",
@@ -121,7 +121,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "lindbergh-kidnapping-wp",
       "sourceGeohash4": "dr4v",
-      "smallPath": "_m/d/r/4/v/lindbergh-kidnapping-wp/lindberghs-land-in-england-jan-small.jpg"
+      "smallPath": "_m/d/r/4/v/lindbergh-kidnapping-wp/lindberghs-land-in-england-jan-small.webp"
     },
     {
       "filename": "HIGHFIELDS, EAST AMWELL TOWNSHIP, HUNTERDON COUNTY.jpg",
@@ -139,8 +139,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "lindbergh-kidnapping-wp",
       "sourceGeohash4": "dr4v",
-      "mediumPath": "_m/d/r/4/v/lindbergh-kidnapping-wp/highfields-east-amwell-townshi-medium.jpg",
-      "smallPath": "_m/d/r/4/v/lindbergh-kidnapping-wp/highfields-east-amwell-townshi-small.jpg"
+      "mediumPath": "_m/d/r/4/v/lindbergh-kidnapping-wp/highfields-east-amwell-townshi-medium.webp",
+      "smallPath": "_m/d/r/4/v/lindbergh-kidnapping-wp/highfields-east-amwell-townshi-small.webp"
     },
     {
       "filename": "Charles Lindbergh Jr.jpg",
@@ -155,7 +155,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "lindbergh-kidnapping-wp",
       "sourceGeohash4": "dr4v",
-      "smallPath": "_m/d/r/4/v/lindbergh-kidnapping-wp/charles-lindbergh-jr-small.jpg"
+      "smallPath": "_m/d/r/4/v/lindbergh-kidnapping-wp/charles-lindbergh-jr-small.webp"
     },
     {
       "filename": "Charles Lindbergh Jr.2.jpg",
@@ -170,7 +170,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "lindbergh-kidnapping-wp",
       "sourceGeohash4": "dr4v",
-      "smallPath": "_m/d/r/4/v/lindbergh-kidnapping-wp/charles-lindbergh-jr-2-small.jpg"
+      "smallPath": "_m/d/r/4/v/lindbergh-kidnapping-wp/charles-lindbergh-jr-2-small.webp"
     },
     {
       "filename": "Charles Lindbergh Jr Time cover 1932.jpg",
@@ -187,7 +187,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "lindbergh-kidnapping-wp",
       "sourceGeohash4": "dr4v",
-      "smallPath": "_m/d/r/4/v/lindbergh-kidnapping-wp/charles-lindbergh-jr-time-cove-small.jpg"
+      "smallPath": "_m/d/r/4/v/lindbergh-kidnapping-wp/charles-lindbergh-jr-time-cove-small.webp"
     }
   ],
   "galleryPaths": [
@@ -198,6 +198,26 @@
     "_m/d/r/4/v/lindbergh-kidnapping-wp/charles-lindbergh-jr-2.jpg",
     "_m/d/r/4/v/lindbergh-kidnapping-wp/charles-lindbergh-jr-time-cove.jpg"
   ],
-  "fetchedAt": "2026-02-28T06:42:02.006Z",
-  "updatedAt": "2026-02-28T06:42:06.397Z"
+  "updatedAt": "2026-02-28T06:42:06.397Z",
+  "narration": {
+    "files": [
+      "dr4v-lindbergh-kidnapping-flight-context.mp3",
+      "dr4v-lindbergh-kidnapping-intro.mp3",
+      "dr4v-lindbergh-kidnapping-a-night-in-east-amwell.mp3",
+      "dr4v-lindbergh-kidnapping-a-circus-of-investigators.mp3",
+      "dr4v-lindbergh-kidnapping-discovery-and-the-trail-of-gold.mp3",
+      "dr4v-lindbergh-kidnapping-the-trial-of-the-century.mp3",
+      "dr4v-lindbergh-kidnapping-aftermath-that-echoes-still.mp3"
+    ],
+    "durations": {
+      "dr4v-lindbergh-kidnapping-flight-context.mp3": 58.17275,
+      "dr4v-lindbergh-kidnapping-intro.mp3": 45.426,
+      "dr4v-lindbergh-kidnapping-a-night-in-east-amwell.mp3": 58.980625,
+      "dr4v-lindbergh-kidnapping-a-circus-of-investigators.mp3": 72.2614583,
+      "dr4v-lindbergh-kidnapping-discovery-and-the-trail-of-gold.mp3": 64.0955,
+      "dr4v-lindbergh-kidnapping-the-trial-of-the-century.mp3": 68.7496666,
+      "dr4v-lindbergh-kidnapping-aftermath-that-echoes-still.mp3": 73.7162083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

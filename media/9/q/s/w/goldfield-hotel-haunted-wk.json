@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/q/s/w/goldfield-hotel-haunted-wk/9qjf-goldfield-hotel-nevadas-most-haunted-building-intro.mp3",
-        "_m/9/q/s/w/goldfield-hotel-haunted-wk/9qjf-goldfield-hotel-nevadas-most-haunted-building-flight-context.mp3",
-        "_m/9/q/s/w/goldfield-hotel-haunted-wk/9qjf-goldfield-hotel-nevadas-most-haunted-building-the-boom.mp3",
-        "_m/9/q/s/w/goldfield-hotel-haunted-wk/9qjf-goldfield-hotel-nevadas-most-haunted-building-the-hauntings.mp3",
-        "_m/9/q/s/w/goldfield-hotel-haunted-wk/9qjf-goldfield-hotel-nevadas-most-haunted-building-the-legend.mp3",
-        "_m/9/q/s/w/goldfield-hotel-haunted-wk/9qjf-goldfield-hotel-nevadas-most-haunted-building-the-limbo.mp3",
-        "_m/9/q/s/w/goldfield-hotel-haunted-wk/9qjf-goldfield-hotel-nevadas-most-haunted-building-visiting-goldfield.mp3"
+        "_m/9/q/s/w/goldfield-hotel-haunted-wk/9qsw-goldfield-hotel-nevadas-most-haunted-building-flight-context.mp3",
+        "_m/9/q/s/w/goldfield-hotel-haunted-wk/9qsw-goldfield-hotel-nevadas-most-haunted-building-intro.mp3",
+        "_m/9/q/s/w/goldfield-hotel-haunted-wk/9qsw-goldfield-hotel-nevadas-most-haunted-building-the-boom.mp3",
+        "_m/9/q/s/w/goldfield-hotel-haunted-wk/9qsw-goldfield-hotel-nevadas-most-haunted-building-the-legend.mp3",
+        "_m/9/q/s/w/goldfield-hotel-haunted-wk/9qsw-goldfield-hotel-nevadas-most-haunted-building-the-hauntings.mp3",
+        "_m/9/q/s/w/goldfield-hotel-haunted-wk/9qsw-goldfield-hotel-nevadas-most-haunted-building-the-limbo.mp3",
+        "_m/9/q/s/w/goldfield-hotel-haunted-wk/9qsw-goldfield-hotel-nevadas-most-haunted-building-visiting-goldfield.mp3"
       ],
       "hero": {
         "path": "_m/9/q/s/w/goldfield-nevada-wk/esmeralda-county-nevada-courth.jpg",
@@ -43,7 +43,9 @@
           "Self-published work",
           "Stone buildings in Nevada",
           "United States photographs taken on 2007-11-02"
-        ]
+        ],
+        "mediumPath": "_m/9/q/s/w/goldfield-hotel-haunted-wk/hero-medium.webp",
+        "smallPath": "_m/9/q/s/w/goldfield-hotel-haunted-wk/hero-small.webp"
       },
       "images": [
         {
@@ -68,7 +70,7 @@
             "Hotels photographed in 1976",
             "Self-published work"
           ],
-          "smallPath": "_m/9/q/s/w/goldfield-hotel-haunted-wk/goldfield-hotel-abando-small.jpg"
+          "smallPath": "_m/9/q/s/w/goldfield-hotel-haunted-wk/goldfield-hotel-abando-small.webp"
         },
         {
           "path": "_m/9/q/s/w/goldfield-hotel-haunted-wk/goldfield-hotel.jpg",
@@ -90,7 +92,7 @@
             "PD-self",
             "Self-published work"
           ],
-          "smallPath": "_m/9/q/s/w/goldfield-hotel-haunted-wk/goldfield-hotel-small.jpg"
+          "smallPath": "_m/9/q/s/w/goldfield-hotel-haunted-wk/goldfield-hotel-small.webp"
         },
         {
           "path": "_m/9/q/s/w/goldfield-hotel-haunted-wk/goldfield-nv-the-goldfield-hot.jpg",
@@ -114,7 +116,7 @@
             "Photographs by Rick Cooper",
             "Taken with Nikon D90"
           ],
-          "smallPath": "_m/9/q/s/w/goldfield-hotel-haunted-wk/goldfield-nv-the-goldfield-hot-small.jpg"
+          "smallPath": "_m/9/q/s/w/goldfield-hotel-haunted-wk/goldfield-nv-the-goldfield-hot-small.webp"
         },
         {
           "path": "_m/9/q/s/w/goldfield-hotel-haunted-wk/goldfield-nv-goldfield-hotel-i.jpg",
@@ -139,7 +141,7 @@
             "Photographs by Rick Cooper",
             "Taken with Nikon D90"
           ],
-          "smallPath": "_m/9/q/s/w/goldfield-hotel-haunted-wk/goldfield-nv-goldfield-hotel-i-small.jpg"
+          "smallPath": "_m/9/q/s/w/goldfield-hotel-haunted-wk/goldfield-nv-goldfield-hotel-i-small.webp"
         },
         {
           "path": "_m/9/q/s/w/goldfield-hotel-haunted-wk/goldfield-nevada.jpg",
@@ -162,7 +164,7 @@
             "Self-published work",
             "September 2013 in Nevada"
           ],
-          "smallPath": "_m/9/q/s/w/goldfield-hotel-haunted-wk/goldfield-nevada-small.jpg"
+          "smallPath": "_m/9/q/s/w/goldfield-hotel-haunted-wk/goldfield-nevada-small.webp"
         },
         {
           "path": "_m/9/q/s/w/goldfield-hotel-haunted-wk/hero.jpg",
@@ -216,7 +218,8 @@
             "Taken with Fujifilm FinePix S5700"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/q/s/w/goldfield-hotel-haunted-wk/9qsw-goldfield-hotel-haunted-combined.mp3"
     }
   }
 }

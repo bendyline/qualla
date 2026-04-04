@@ -77,24 +77,24 @@
   "locationWikivoyagePath": "e/z/t/y/bilbao-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "fishguard-wk",
-      "title": "The Battle of Fishguard: The Last Invasion of Britain",
-      "tile": "gchr",
+      "id": "launceston-castle-wp",
+      "title": "Launceston Castle",
+      "tile": "gchb",
       "coordinates": {
-        "lat": 51.9944,
-        "lng": -4.98
+        "lat": 50.6376,
+        "lng": -4.36142
       },
-      "distanceKm": 940.4
+      "distanceKm": 785.8
     },
     "n": {
-      "id": "mont-saint-michel-wk",
-      "title": "Mont Saint-Michel: The Abbey That Becomes an Island Twice a Day",
-      "tile": "gbwu",
+      "id": "moissac-abbey-wp",
+      "title": "Moissac Abbey",
+      "tile": "spbf",
       "coordinates": {
-        "lat": 48.6361,
-        "lng": -1.5114
+        "lat": 44.105555555555554,
+        "lng": 1.0847222222222221
       },
-      "distanceKm": 572.1
+      "distanceKm": 331.5
     },
     "ne": {
       "id": "bordeaux-wk",
@@ -107,54 +107,54 @@
       "distanceKm": 204
     },
     "w": {
-      "id": "porto-wk",
-      "title": "Porto",
-      "tile": "ez3f",
+      "id": "la-garma-cave-complex-wp",
+      "title": "La Garma Cave Complex",
+      "tile": "eztr",
       "coordinates": {
-        "lat": 41.1579,
-        "lng": -8.6291
+        "lat": 43.43055556,
+        "lng": -3.66583333
       },
-      "distanceKm": 485.2
+      "distanceKm": 16.5
     },
     "e": {
-      "id": "lascaux-cave-wk",
-      "title": "Lascaux Cave: The Sistine Chapel of Prehistory",
-      "tile": "u00b",
+      "id": "cave-of-altxerri-wp",
+      "title": "Cave of Altxerri",
+      "tile": "ezwq",
       "coordinates": {
-        "lat": 45.0545,
-        "lng": 1.1683
+        "lat": 43.268611111111,
+        "lng": -2.1347222222222
       },
-      "distanceKm": 347.1
+      "distanceKm": 27.3
     },
     "sw": {
-      "id": "madrid-wk",
-      "title": "Madrid",
-      "tile": "ezjm",
+      "id": "archaeological-site-of-atapuerca-wp",
+      "title": "Archaeological Site of Atapuerca",
+      "tile": "ezt2",
       "coordinates": {
-        "lat": 40.4168,
-        "lng": -3.7038
+        "lat": 42.350092,
+        "lng": -3.519466
       },
-      "distanceKm": 295
+      "distanceKm": 79.7
     },
     "s": {
-      "id": "valencia-wk",
-      "title": "Valencia",
-      "tile": "ezp8",
+      "id": "battle-of-vitoria-wp",
+      "title": "Battle of Vitoria",
+      "tile": "ezw5",
       "coordinates": {
-        "lat": 39.4699,
-        "lng": -0.3763
+        "lat": 42.85,
+        "lng": -2.6833333333333
       },
-      "distanceKm": 455.6
+      "distanceKm": 34.6
     },
     "se": {
-      "id": "barcelona-wk",
-      "title": "Barcelona",
-      "tile": "sp3e",
+      "id": "rioja-doca-wp",
+      "title": "Rioja DOCa",
+      "tile": "ezw3",
       "coordinates": {
-        "lat": 41.3825,
-        "lng": 2.1769
+        "lat": 42.46175,
+        "lng": -2.445694444444445
       },
-      "distanceKm": 425.2
+      "distanceKm": 67.2
     }
   },
   "keywords": [

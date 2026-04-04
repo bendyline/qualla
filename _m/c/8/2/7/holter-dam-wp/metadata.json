@@ -19,10 +19,8 @@
       "c827-holter-dam-blue-ribbon-waters.mp3": 57.6625833,
       "c827-holter-dam-wilderness-shores.mp3": 51.939125
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-28T06:31:45.761Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
-  "fetchedAt": "2026-02-22T02:21:18.071Z",
   "hero": {
     "filename": "Ryan Dam.jpg",
     "title": "File:Ryan Dam.jpg",
@@ -47,8 +45,8 @@
     "sourceType": "core",
     "sourceArticleId": "holter-dam-wp",
     "sourceGeohash4": "c827",
-    "smallPath": "_m/c/8/2/7/holter-dam-wp/hero-small.jpg",
-    "mediumPath": "_m/c/8/2/7/holter-dam-wp/hero-medium.jpg"
+    "smallPath": "_m/c/8/2/7/holter-dam-wp/hero-small.webp",
+    "mediumPath": "_m/c/8/2/7/holter-dam-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Ryan Dam.jpg",
@@ -103,7 +101,7 @@
       "sourceType": "core",
       "sourceArticleId": "holter-dam-wp",
       "sourceGeohash4": "c827",
-      "smallPath": "_m/c/8/2/7/holter-dam-wp/caught-amp-released-ra-small.jpg"
+      "smallPath": "_m/c/8/2/7/holter-dam-wp/caught-amp-released-ra-small.webp"
     },
     {
       "filename": "On top of the Holter Dam.jpg",
@@ -126,7 +124,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "holter-dam-wp",
-      "sourceGeohash4": "c827"
+      "sourceGeohash4": "c827",
+      "mediumPath": "_m/c/8/2/7/holter-dam-wp/on-top-of-the-holter-dam-medium.webp",
+      "smallPath": "_m/c/8/2/7/holter-dam-wp/on-top-of-the-holter-dam-small.webp"
     }
   ],
   "galleryPaths": [

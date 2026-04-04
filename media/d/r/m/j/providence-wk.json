@@ -30,7 +30,9 @@
           "2021 in Providence, Rhode Island",
           "CC-BY-SA-4.0",
           "Files with coordinates missing SDC location of creation"
-        ]
+        ],
+        "mediumPath": "_m/d/r/m/j/providence-wk/hero-medium.webp",
+        "smallPath": "_m/d/r/m/j/providence-wk/hero-small.webp"
       },
       "images": [
         {
@@ -58,8 +60,8 @@
             "Taken with iPhone (original)",
             "Waterplace Park"
           ],
-          "smallPath": "_m/d/r/m/j/providence-wk/downtown-providence-ov-small.jpg",
-          "mediumPath": "_m/d/r/m/j/providence-wk/downtown-providence-ov-medium.jpg"
+          "smallPath": "_m/d/r/m/j/providence-wk/downtown-providence-ov-small.webp",
+          "mediumPath": "_m/d/r/m/j/providence-wk/downtown-providence-ov-medium.webp"
         },
         {
           "path": "_m/d/r/m/j/providence-wk/providence-railroad-st.jpg",
@@ -76,8 +78,8 @@
           "sourceArticleId": "providence-wk",
           "sourceGeohash4": "drmj",
           "accessedAt": "2026-02-22T12:33:37.829Z",
-          "smallPath": "_m/d/r/m/j/providence-wk/providence-railroad-st-small.jpg",
-          "mediumPath": "_m/d/r/m/j/providence-wk/providence-railroad-st-medium.jpg"
+          "smallPath": "_m/d/r/m/j/providence-wk/providence-railroad-st-small.webp",
+          "mediumPath": "_m/d/r/m/j/providence-wk/providence-railroad-st-medium.webp"
         },
         {
           "path": "_m/d/r/m/j/providence-wk/theodor-vahlen-vorsehung-1939.jpg",
@@ -100,7 +102,7 @@
             "Template Unknown (author)",
             "Theodor Vahlen"
           ],
-          "smallPath": "_m/d/r/m/j/providence-wk/theodor-vahlen-vorsehung-1939-small.jpg"
+          "smallPath": "_m/d/r/m/j/providence-wk/theodor-vahlen-vorsehung-1939-small.webp"
         },
         {
           "path": "_m/d/r/m/j/providence-wk/1640providencecombination-prov.jpg",
@@ -124,7 +126,7 @@
             "Providence",
             "Providence, Rhode Island in the 17th century"
           ],
-          "smallPath": "_m/d/r/m/j/providence-wk/1640providencecombination-prov-small.jpg"
+          "smallPath": "_m/d/r/m/j/providence-wk/1640providencecombination-prov-small.webp"
         },
         {
           "path": "_m/d/r/m/j/providence-wk/1640providencecombination-prov-1.jpg",
@@ -148,7 +150,7 @@
             "Providence",
             "Providence, Rhode Island in the 17th century"
           ],
-          "smallPath": "_m/d/r/m/j/providence-wk/1640providencecombination-prov-1-small.jpg"
+          "smallPath": "_m/d/r/m/j/providence-wk/1640providencecombination-prov-1-small.webp"
         },
         {
           "path": "_m/tpc/_ho/pr/ov/id/history-of-providence/stephen-hopkins-house-2014.jpg",
@@ -1240,7 +1242,8 @@
             "United States photographs taken on 2017-06-01"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/d/r/m/j/providence-wk/drmj-providence-combined.mp3"
     }
   }
 }

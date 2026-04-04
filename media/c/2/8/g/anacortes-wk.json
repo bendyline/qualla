@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
+        "_m/c/2/8/g/anacortes-wk/c28g-anacortes-flight-context.mp3",
         "_m/c/2/8/g/anacortes-wk/c28g-anacortes-intro.mp3",
         "_m/c/2/8/g/anacortes-wk/c28g-anacortes-ferry-town.mp3",
+        "_m/c/2/8/g/anacortes-wk/c28g-anacortes-the-working-waterfront.mp3",
         "_m/c/2/8/g/anacortes-wk/c28g-anacortes-fidalgo-island.mp3",
-        "_m/c/2/8/g/anacortes-wk/c28g-anacortes-flight-context.mp3",
-        "_m/c/2/8/g/anacortes-wk/c28g-anacortes-gateway-adventures.mp3",
         "_m/c/2/8/g/anacortes-wk/c28g-anacortes-historic-downtown.mp3",
-        "_m/c/2/8/g/anacortes-wk/c28g-anacortes-the-working-waterfront.mp3"
+        "_m/c/2/8/g/anacortes-wk/c28g-anacortes-gateway-adventures.mp3"
       ],
       "hero": {
         "path": "_m/tpc/an/ac/or/te/anacortes/anacortes-28294.jpg",
@@ -35,7 +35,9 @@
           "License migration redundant",
           "Self-published work",
           "Taken with Panasonic Lumix DMC-FZ5"
-        ]
+        ],
+        "mediumPath": "_m/c/2/8/g/anacortes-wk/hero-medium.webp",
+        "smallPath": "_m/c/2/8/g/anacortes-wk/hero-small.webp"
       },
       "images": [
         {
@@ -60,7 +62,7 @@
             "Flickr images reviewed by File Upload Bot (Magnus Manske)",
             "Sailing"
           ],
-          "smallPath": "_m/c/2/8/g/anacortes-wk/race-day-off-skyline-m-small.jpg"
+          "smallPath": "_m/c/2/8/g/anacortes-wk/race-day-off-skyline-m-small.webp"
         },
         {
           "path": "_m/c/2/8/g/anacortes-wk/hero.jpg",
@@ -413,7 +415,8 @@
             "State parks of Washington (state)"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/8/g/anacortes-wk/c28g-anacortes-combined.mp3"
     }
   }
 }

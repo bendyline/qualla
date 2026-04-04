@@ -26,8 +26,8 @@
     "sourceType": "core",
     "sourceArticleId": "gig-harbor-wk",
     "sourceGeohash4": "c22v",
-    "smallPath": "_m/c/2/2/v/gig-harbor-wk/hero-small.jpg",
-    "mediumPath": "_m/c/2/2/v/gig-harbor-wk/hero-medium.jpg"
+    "smallPath": "_m/c/2/2/v/gig-harbor-wk/hero-small.webp",
+    "mediumPath": "_m/c/2/2/v/gig-harbor-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Gig Harbor History Museum 2018 03.jpg",
@@ -86,7 +86,7 @@
       "sourceType": "core",
       "sourceArticleId": "gig-harbor-wk",
       "sourceGeohash4": "c22v",
-      "smallPath": "_m/c/2/2/v/gig-harbor-wk/i-found-clam-shell-cam-small.jpg"
+      "smallPath": "_m/c/2/2/v/gig-harbor-wk/i-found-clam-shell-cam-small.webp"
     },
     {
       "filename": "Kopachuck Panorama.jpg",
@@ -116,8 +116,8 @@
       "sourceType": "core",
       "sourceArticleId": "gig-harbor-wk",
       "sourceGeohash4": "c22v",
-      "smallPath": "_m/c/2/2/v/gig-harbor-wk/360-panorama-kopachuck-small.jpg",
-      "mediumPath": "_m/c/2/2/v/gig-harbor-wk/360-panorama-kopachuck-medium.jpg"
+      "smallPath": "_m/c/2/2/v/gig-harbor-wk/360-panorama-kopachuck-small.webp",
+      "mediumPath": "_m/c/2/2/v/gig-harbor-wk/360-panorama-kopachuck-medium.webp"
     },
     {
       "filename": "Kopachuck State Park beach, 01.jpg",
@@ -147,8 +147,8 @@
       "sourceType": "core",
       "sourceArticleId": "gig-harbor-wk",
       "sourceGeohash4": "c22v",
-      "smallPath": "_m/c/2/2/v/gig-harbor-wk/kopachuck-state-park-small.jpg",
-      "mediumPath": "_m/c/2/2/v/gig-harbor-wk/kopachuck-state-park-medium.jpg"
+      "smallPath": "_m/c/2/2/v/gig-harbor-wk/kopachuck-state-park-small.webp",
+      "mediumPath": "_m/c/2/2/v/gig-harbor-wk/kopachuck-state-park-medium.webp"
     }
   ],
   "galleryPaths": [
@@ -156,26 +156,24 @@
     "_m/c/2/2/v/gig-harbor-wk/360-panorama-kopachuck.jpg",
     "_m/c/2/2/v/gig-harbor-wk/kopachuck-state-park.jpg"
   ],
-  "fetchedAt": "2026-02-22T01:54:48.548Z",
   "updatedAt": "2026-01-29T12:24:04.937Z",
   "narration": {
     "files": [
-      "c22v-gig-harbor-across-the-narrows.mp3",
-      "c22v-gig-harbor-cold-water-adventures.mp3",
-      "c22v-gig-harbor-fishing-village-roots.mp3",
       "c22v-gig-harbor-flight-context.mp3",
-      "c22v-gig-harbor-gateway-to-the-peninsula.mp3",
-      "c22v-gig-harbor-intro.mp3"
+      "c22v-gig-harbor-intro.mp3",
+      "c22v-gig-harbor-across-the-narrows.mp3",
+      "c22v-gig-harbor-fishing-village-roots.mp3",
+      "c22v-gig-harbor-cold-water-adventures.mp3",
+      "c22v-gig-harbor-gateway-to-the-peninsula.mp3"
     ],
     "durations": {
-      "c22v-gig-harbor-across-the-narrows.mp3": 56.592,
-      "c22v-gig-harbor-cold-water-adventures.mp3": 50.736,
-      "c22v-gig-harbor-fishing-village-roots.mp3": 55.968,
-      "c22v-gig-harbor-flight-context.mp3": 50.448,
-      "c22v-gig-harbor-gateway-to-the-peninsula.mp3": 52.752,
-      "c22v-gig-harbor-intro.mp3": 46.584
+      "c22v-gig-harbor-flight-context.mp3": 50.2608333,
+      "c22v-gig-harbor-intro.mp3": 47.9609583,
+      "c22v-gig-harbor-across-the-narrows.mp3": 54.4729583,
+      "c22v-gig-harbor-fishing-village-roots.mp3": 54.2459583,
+      "c22v-gig-harbor-cold-water-adventures.mp3": 54.8207916,
+      "c22v-gig-harbor-gateway-to-the-peninsula.mp3": 48.3683333
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:57.104Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

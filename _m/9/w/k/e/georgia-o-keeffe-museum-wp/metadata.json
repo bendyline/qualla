@@ -82,8 +82,8 @@
       "sourceType": "core",
       "sourceArticleId": "georgia-o-keeffe-museum-wp",
       "sourceGeohash4": "9wke",
-      "smallPath": "_m/9/w/k/e/georgia-o-keeffe-museum-wp/painting-materials-dis-small.jpg",
-      "mediumPath": "_m/9/w/k/e/georgia-o-keeffe-museum-wp/painting-materials-dis-medium.jpg"
+      "smallPath": "_m/9/w/k/e/georgia-o-keeffe-museum-wp/painting-materials-dis-small.webp",
+      "mediumPath": "_m/9/w/k/e/georgia-o-keeffe-museum-wp/painting-materials-dis-medium.webp"
     },
     {
       "filename": "Georgia O'Keeffe Research Center.jpg",
@@ -108,14 +108,15 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "georgia-o-keeffe-museum-wp",
-      "sourceGeohash4": "9wke"
+      "sourceGeohash4": "9wke",
+      "mediumPath": "_m/9/w/k/e/georgia-o-keeffe-museum-wp/georgia-o-keeffe-research-cent-medium.webp",
+      "smallPath": "_m/9/w/k/e/georgia-o-keeffe-museum-wp/georgia-o-keeffe-research-cent-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/w/k/e/georgia-o-keeffe-museum-wp/painting-materials-dis.jpg",
     "_m/9/w/k/e/georgia-o-keeffe-museum-wp/georgia-o-keeffe-research-cent.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:58:12.964Z",
   "narration": {
     "files": [
       "9wke-georgia-okeeffe-museum-flight-context.mp3",
@@ -133,8 +134,7 @@
       "9wke-georgia-okeeffe-museum-beyond-the-gallery-walls.mp3": 50.1190833,
       "9wke-georgia-okeeffe-museum-the-deserts-lasting-canvas.mp3": 57.9058333
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T19:03:14.808Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T23:58:13.595Z"
 }

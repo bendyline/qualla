@@ -133,24 +133,24 @@
   "locationWikipediaPath": "6/6/j/c/santiago-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "nazca-lines-wk",
-      "title": "The Nazca Lines: Art Made for the Sky",
-      "tile": "6m6s",
+      "id": "colca-canyon-wk",
+      "title": "Colca Canyon",
+      "tile": "6mhz",
       "coordinates": {
-        "lat": -14.735,
-        "lng": -75.13
+        "lat": -15.5972,
+        "lng": -72.0559
       },
-      "distanceKm": 2097.2
+      "distanceKm": 1962.7
     },
     "n": {
-      "id": "chilean-miners-wk",
-      "title": "The Chilean Mine Rescue: 69 Days Underground",
-      "tile": "67jv",
+      "id": "desert-bloom-wp",
+      "title": "Desert Bloom",
+      "tile": "67jb",
       "coordinates": {
-        "lat": -27.1597,
-        "lng": -70.4975
+        "lat": -27.95,
+        "lng": -70.55
       },
-      "distanceKm": 674.2
+      "distanceKm": 586.3
     },
     "ne": {
       "id": "c-rdoba-city-argentina-wk",
@@ -173,14 +173,14 @@
       "distanceKm": 836.6
     },
     "e": {
-      "id": "buenos-aires-wk",
-      "title": "Buenos Aires",
-      "tile": "69y7",
+      "id": "monte-pissis-wp",
+      "title": "Monte Pissis",
+      "tile": "67p4",
       "coordinates": {
-        "lat": -34.6037,
-        "lng": -58.3816
+        "lat": -27.755277777777778,
+        "lng": -68.79916666666666
       },
-      "distanceKm": 1073.5
+      "distanceKm": 646.9
     },
     "sw": {
       "id": "valdivia-wk",

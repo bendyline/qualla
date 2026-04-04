@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-hormozdgan-wp",
     "sourceGeohash4": "tjdw",
-    "mediumPath": "_m/t/j/d/w/battle-of-hormozdgan-wp/hero-medium.jpg",
-    "smallPath": "_m/t/j/d/w/battle-of-hormozdgan-wp/hero-small.jpg"
+    "mediumPath": "_m/t/j/d/w/battle-of-hormozdgan-wp/hero-medium.webp",
+    "smallPath": "_m/t/j/d/w/battle-of-hormozdgan-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "ArdachirVictory01.JPG",
@@ -77,7 +77,7 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-hormozdgan-wp",
       "sourceGeohash4": "tjdw",
-      "smallPath": "_m/t/j/d/w/battle-of-hormozdgan-wp/drawing-french-orienta-small.jpg"
+      "smallPath": "_m/t/j/d/w/battle-of-hormozdgan-wp/drawing-french-orienta-small.webp"
     },
     {
       "filename": "Ardashir i's relief at Firuzabad, Fars, Iran.JPG",
@@ -103,13 +103,31 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-hormozdgan-wp",
       "sourceGeohash4": "tjdw",
-      "mediumPath": "_m/t/j/d/w/battle-of-hormozdgan-wp/old-babkan-fairuzabad-medium.jpg",
-      "smallPath": "_m/t/j/d/w/battle-of-hormozdgan-wp/old-babkan-fairuzabad-small.jpg"
+      "mediumPath": "_m/t/j/d/w/battle-of-hormozdgan-wp/old-babkan-fairuzabad-medium.webp",
+      "smallPath": "_m/t/j/d/w/battle-of-hormozdgan-wp/old-babkan-fairuzabad-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/t/j/d/w/battle-of-hormozdgan-wp/drawing-french-orienta.jpg",
     "_m/t/j/d/w/battle-of-hormozdgan-wp/old-babkan-fairuzabad.jpg"
   ],
-  "fetchedAt": "2026-03-01T08:02:43.870Z"
+  "narration": {
+    "files": [
+      "tjdw-battle-of-hormozdgan-the-day-persia-changed-hands-flight-context.mp3",
+      "tjdw-battle-of-hormozdgan-the-day-persia-changed-hands-intro.mp3",
+      "tjdw-battle-of-hormozdgan-the-day-persia-changed-hands-a-dynasty-fracturing.mp3",
+      "tjdw-battle-of-hormozdgan-the-day-persia-changed-hands-ten-thousand-against-the-king.mp3",
+      "tjdw-battle-of-hormozdgan-the-day-persia-changed-hands-king-of-kings.mp3",
+      "tjdw-battle-of-hormozdgan-the-day-persia-changed-hands-an-empire-of-persians-and-parthians.mp3"
+    ],
+    "durations": {
+      "tjdw-battle-of-hormozdgan-the-day-persia-changed-hands-flight-context.mp3": 58.4927916,
+      "tjdw-battle-of-hormozdgan-the-day-persia-changed-hands-intro.mp3": 50.8300416,
+      "tjdw-battle-of-hormozdgan-the-day-persia-changed-hands-a-dynasty-fracturing.mp3": 57.1309583,
+      "tjdw-battle-of-hormozdgan-the-day-persia-changed-hands-ten-thousand-against-the-king.mp3": 49.523125,
+      "tjdw-battle-of-hormozdgan-the-day-persia-changed-hands-king-of-kings.mp3": 58.5397916,
+      "tjdw-battle-of-hormozdgan-the-day-persia-changed-hands-an-empire-of-persians-and-parthians.mp3": 69.893625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

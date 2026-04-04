@@ -77,6 +77,36 @@
   "locationWikivoyagePath": "u/0/q/j/zurich-wk",
   "directionalNeighbors": {
     "nw": {
+      "id": "mont-sainte-odile-abbey-wp",
+      "title": "Mont Sainte-Odile Abbey",
+      "tile": "u0t7",
+      "coordinates": {
+        "lat": 48.437777777778,
+        "lng": 7.4047222222222
+      },
+      "distanceKm": 102.5
+    },
+    "n": {
+      "id": "reichenau-abbey-wp",
+      "title": "Reichenau Abbey",
+      "tile": "u0qr",
+      "coordinates": {
+        "lat": 47.698738888889,
+        "lng": 9.0620805555556
+      },
+      "distanceKm": 34.3
+    },
+    "ne": {
+      "id": "riesending-cave-rescue-wp",
+      "title": "Riesending Cave Rescue",
+      "tile": "u23p",
+      "coordinates": {
+        "lat": 47.69938888888889,
+        "lng": 12.98311111111111
+      },
+      "distanceKm": 287.8
+    },
+    "w": {
       "id": "alsace-wk",
       "title": "Alsace",
       "tile": "u0t7",
@@ -84,47 +114,17 @@
         "lat": 48.5,
         "lng": 7.5
       },
-      "distanceKm": 105.4
-    },
-    "n": {
-      "id": "dancing-plague-wk",
-      "title": "The Dancing Plague of 1518: When Strasbourg Couldn't Stop Dancing",
-      "tile": "u0ts",
-      "coordinates": {
-        "lat": 48.5833,
-        "lng": 7.7458
-      },
-      "distanceKm": 123.4
-    },
-    "ne": {
-      "id": "salzburg-wk",
-      "title": "Salzburg",
-      "tile": "u23r",
-      "coordinates": {
-        "lat": 47.8095,
-        "lng": 13.055
-      },
-      "distanceKm": 293.4
-    },
-    "w": {
-      "id": "geneva-wk",
-      "title": "Geneva",
-      "tile": "u0hq",
-      "coordinates": {
-        "lat": 46.2044,
-        "lng": 6.1432
-      },
-      "distanceKm": 196.9
+      "distanceKm": 132.7
     },
     "e": {
-      "id": "venice-wk",
-      "title": "Venice",
-      "tile": "u20f",
+      "id": "innsbruck-wk",
+      "title": "Innsbruck",
+      "tile": "u22h",
       "coordinates": {
-        "lat": 45.4408,
-        "lng": 12.3155
+        "lat": 47.268333333333,
+        "lng": 11.393333333333
       },
-      "distanceKm": 324.6
+      "distanceKm": 170.2
     },
     "sw": {
       "id": "chamonix-wk",
@@ -137,16 +137,6 @@
       "distanceKm": 162.2
     },
     "s": {
-      "id": "lyon-wk",
-      "title": "Lyon",
-      "tile": "u05k",
-      "coordinates": {
-        "lat": 45.764,
-        "lng": 4.8357
-      },
-      "distanceKm": 325.8
-    },
-    "se": {
       "id": "milan-wk",
       "title": "Milan",
       "tile": "u0nd",
@@ -154,7 +144,17 @@
         "lat": 45.4642,
         "lng": 9.19
       },
-      "distanceKm": 183
+      "distanceKm": 188.2
+    },
+    "se": {
+      "id": "landwasser-viaduct-wp",
+      "title": "Landwasser Viaduct",
+      "tile": "u0qc",
+      "coordinates": {
+        "lat": 46.680833333333,
+        "lng": 9.6758333333333
+      },
+      "distanceKm": 62.6
     }
   },
   "keywords": [

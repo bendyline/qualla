@@ -1,0 +1,153 @@
+{
+  "id": "theta-museum-wp",
+  "source": "wikipedia",
+  "sourceId": "38857401",
+  "title": "Theta Museum",
+  "slug": "theta-museum",
+  "summary": "Norway's smallest museum is a single hidden room on Bryggen where resistance fighters sent secret radio transmissions to England during the Nazi occupation -- and wired the door with TNT.",
+  "content": {
+    "intro": "At sixteen square meters, it is the smallest museum in Norway. The Theta Museum is a single room hidden inside one of the old wooden buildings on Bryggen -- Enhjorningsgarden, to be precise -- where young Norwegian resistance fighters operated a clandestine radio station during the German occupation of World War II. They sent intelligence reports to England. They received tasking messages from London. And they wired a cupboard full of TNT to the door, rigged to detonate if the room was discovered. Had the charge gone off, it is said it would have destroyed the entire Bryggen wharf.",
+    "sections": [
+      {
+        "title": "Hidden in Plain Sight",
+        "body": "The Theta group chose their hiding place well. Bryggen's medieval wooden buildings are a labyrinth of sealed doors, dead-end corridors, and rooms that lead nowhere -- a consequence of centuries of modification, fire damage, and rebuilding. By the time of the German occupation, most doors in Bryggen's buildings had been closed off and sealed. One more sealed door attracted no attention. The young members of the Theta group used their engineering training to design a special electrical locking system that concealed the entrance entirely. Behind that door, in a room measuring roughly four by four meters, they set up their transmitter and went to work sending coded messages across the North Sea to British intelligence."
+      },
+      {
+        "title": "The Rotten Floorboard",
+        "body": "On October 17, 1942, German forces conducted a raid at Bryggen. The hidden room was discovered by accident: a soldier on the floor above stepped on a rotten floorboard, which gave way and revealed the concealed space below. None of the Theta group's members were captured. The TNT charge in the cupboard -- placed as a last resort to destroy the equipment and, presumably, anyone searching the room -- failed to detonate. The trigger mechanism on the door did not fire. Had it worked, the explosion would have been catastrophic. The tightly packed wooden buildings of Bryggen, a wharf quarter that has survived since the Hanseatic era, would likely have been reduced to splinters."
+      },
+      {
+        "title": "Signals That Sank a Battleship",
+        "body": "The intelligence transmitted from this tiny room had consequences far beyond Bergen. Among other contributions, the radio transmissions from the Theta group provided information that helped the British Navy locate and eventually sink the German battleship Tirpitz -- the largest warship in the German fleet and a constant threat to Allied convoys in the North Atlantic and Arctic. The Tirpitz was attacked repeatedly before finally being sunk by RAF Lancaster bombers in November 1944. The intelligence pipeline that fed targeting information to the British ran, in part, through a hidden room on a medieval wharf in Bergen."
+      },
+      {
+        "title": "Sixteen Square Meters of Memory",
+        "body": "After the German raid, the room was gutted and its contents removed. When it was opened to the public in 1982 as a museum, the furnishings had to be approximated using wartime objects donated from across Norway. The only original items are a coffee table, a Hallicrafter receiver, a homemade high-frequency transmitter, copies of intelligence reports, and tasking messages from London. The guided tour is designed to convey what it felt like to work secretly against the Nazi occupiers in a room this small -- the claustrophobia, the constant threat of discovery, the knowledge that a cupboard full of explosives stood between you and capture. The museum's power comes precisely from its size. There is nothing grand about it. It is a closet where brave people did dangerous work, and it is preserved exactly at the scale of that courage."
+      }
+    ],
+    "flightContext": "Located at 60.40N, 5.32E on the Bryggen wharf in central Bergen, inside the Enhjorningsgarden building. Bergen Airport Flesland (ENBR) is 18km south. From the air, the museum is within the UNESCO-listed row of wooden gabled buildings along the northeastern shore of Vågen harbor. The building itself is not individually distinguishable from altitude, but the Bryggen row is immediately identifiable. Bergenhus Fortress is to the northwest. Best viewed at 1,500-2,500 feet for wharf context."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 60.397439,
+      "lng": 5.323442
+    },
+    "geohash": "u4ez9"
+  },
+  "categories": [
+    "museum",
+    "resistance",
+    "world-war-ii",
+    "espionage",
+    "bryggen"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 650,
+    "readTime": 3,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 10410
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Theta Museum - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Theta_Museum",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "16 square meters confirmed as smallest museum in Norway",
+        "October 17 1942 German raid confirmed",
+        "rotten floorboard discovery confirmed",
+        "opened to public 1982 confirmed",
+        "Hallicrafter receiver and homemade HF transmitter among original objects confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "u/4/e/z/theta-museum-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "sinking-of-u-864-wp",
+      "title": "Sinking of U-864",
+      "tile": "u4g3",
+      "coordinates": {
+        "lat": 60.76944444,
+        "lng": 4.62083333
+      },
+      "distanceKm": 21.5
+    },
+    "n": {
+      "id": "sognefjord-wp",
+      "title": "Sognefjord",
+      "tile": "u4ge",
+      "coordinates": {
+        "lat": 61.1,
+        "lng": 5.166666666666667
+      },
+      "distanceKm": 52.9
+    },
+    "ne": {
+      "id": "hopperstad-stave-church-wp",
+      "title": "Hopperstad Stave Church",
+      "tile": "u4ue",
+      "coordinates": {
+        "lat": 61.07747,
+        "lng": 6.56902
+      },
+      "distanceKm": 57.8
+    },
+    "w": {
+      "id": "1982-bristow-helicopters-bell-212-crash-wp",
+      "title": "1982 Bristow Helicopters Bell 212 Crash",
+      "tile": "u4cq",
+      "coordinates": {
+        "lat": 61.599444,
+        "lng": 1.980833
+      },
+      "distanceKm": 208.6
+    },
+    "e": {
+      "id": "steinsdalsfossen-wp",
+      "title": "Steinsdalsfossen",
+      "tile": "u4sr",
+      "coordinates": {
+        "lat": 60.370833,
+        "lng": 6.102778
+      },
+      "distanceKm": 7
+    },
+    "sw": {
+      "id": "piper-alpha-wp",
+      "title": "Piper Alpha",
+      "tile": "u42h",
+      "coordinates": {
+        "lat": 58.459722222222,
+        "lng": 0.25111111111111
+      },
+      "distanceKm": 322.9
+    },
+    "s": {
+      "id": "battle-of-fitjar-wp",
+      "title": "Battle of Fitjar",
+      "tile": "u4eu",
+      "coordinates": {
+        "lat": 59.918889,
+        "lng": 5.371389
+      },
+      "distanceKm": 22.5
+    },
+    "se": {
+      "id": "folgefonna-national-park-wp",
+      "title": "Folgefonna National Park",
+      "tile": "u4st",
+      "coordinates": {
+        "lat": 60,
+        "lng": 6.333055555555555
+      },
+      "distanceKm": 23.7
+    }
+  }
+}

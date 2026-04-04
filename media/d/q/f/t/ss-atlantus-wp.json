@@ -26,7 +26,7 @@
           "Postcards of New Jersey published by Tichnor Brothers",
           "Postcards of shipwrecks"
         ],
-        "smallPath": "_m/d/q/f/t/ss-atlantus-wp/hero-small.jpg"
+        "smallPath": "_m/d/q/f/t/ss-atlantus-wp/hero-small.webp"
       },
       "images": [
         {
@@ -50,8 +50,8 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FX07"
           ],
-          "mediumPath": "_m/d/q/f/t/ss-atlantus-wp/atlantus-medium.jpg",
-          "smallPath": "_m/d/q/f/t/ss-atlantus-wp/atlantus-small.jpg"
+          "mediumPath": "_m/d/q/f/t/ss-atlantus-wp/atlantus-medium.webp",
+          "smallPath": "_m/d/q/f/t/ss-atlantus-wp/atlantus-small.webp"
         },
         {
           "path": "_m/d/q/f/t/ss-atlantus-wp/atlantus1926.jpg",
@@ -73,7 +73,7 @@
             "PD-scan (PD-scan/PD)",
             "Template Unknown (author)"
           ],
-          "smallPath": "_m/d/q/f/t/ss-atlantus-wp/atlantus1926-small.jpg"
+          "smallPath": "_m/d/q/f/t/ss-atlantus-wp/atlantus1926-small.webp"
         },
         {
           "path": "_m/d/q/f/t/ss-atlantus-wp/cape-may-sunset-beach-from-del.jpg",
@@ -98,8 +98,8 @@
             "Sunset Beach (New Jersey)",
             "Taken with Nikon Coolpix S4100"
           ],
-          "mediumPath": "_m/d/q/f/t/ss-atlantus-wp/cape-may-sunset-beach-from-del-medium.jpg",
-          "smallPath": "_m/d/q/f/t/ss-atlantus-wp/cape-may-sunset-beach-from-del-small.jpg"
+          "mediumPath": "_m/d/q/f/t/ss-atlantus-wp/cape-may-sunset-beach-from-del-medium.webp",
+          "smallPath": "_m/d/q/f/t/ss-atlantus-wp/cape-may-sunset-beach-from-del-small.webp"
         },
         {
           "path": "_m/d/q/f/t/ss-atlantus-wp/ss-atlantus-wreck.jpg",
@@ -116,8 +116,8 @@
           "sourceArticleId": "ss-atlantus-wp",
           "sourceGeohash4": "dqft",
           "accessedAt": "2026-02-28T06:14:11.473Z",
-          "mediumPath": "_m/d/q/f/t/ss-atlantus-wp/ss-atlantus-wreck-medium.jpg",
-          "smallPath": "_m/d/q/f/t/ss-atlantus-wp/ss-atlantus-wreck-small.jpg"
+          "mediumPath": "_m/d/q/f/t/ss-atlantus-wp/ss-atlantus-wreck-medium.webp",
+          "smallPath": "_m/d/q/f/t/ss-atlantus-wp/ss-atlantus-wreck-small.webp"
         },
         {
           "path": "_m/d/q/f/t/ss-atlantus-wp/ss-atlantus-20498.jpg",
@@ -134,10 +134,19 @@
           "sourceArticleId": "ss-atlantus-wp",
           "sourceGeohash4": "dqft",
           "accessedAt": "2026-02-28T06:14:11.473Z",
-          "mediumPath": "_m/d/q/f/t/ss-atlantus-wp/ss-atlantus-20498-medium.jpg",
-          "smallPath": "_m/d/q/f/t/ss-atlantus-wp/ss-atlantus-20498-small.jpg"
+          "mediumPath": "_m/d/q/f/t/ss-atlantus-wp/ss-atlantus-20498-medium.webp",
+          "smallPath": "_m/d/q/f/t/ss-atlantus-wp/ss-atlantus-20498-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/d/q/f/t/ss-atlantus-wp/dqft-ss-atlantus-flight-context.mp3",
+        "_m/d/q/f/t/ss-atlantus-wp/dqft-ss-atlantus-intro.mp3",
+        "_m/d/q/f/t/ss-atlantus-wp/dqft-ss-atlantus-a-ship-made-of-stone.mp3",
+        "_m/d/q/f/t/ss-atlantus-wp/dqft-ss-atlantus-colonel-rosenfelds-grand-plan.mp3",
+        "_m/d/q/f/t/ss-atlantus-wp/dqft-ss-atlantus-a-slow-disappearing-act.mp3",
+        "_m/d/q/f/t/ss-atlantus-wp/dqft-ss-atlantus-the-concrete-fleets-legacy.mp3"
+      ],
+      "combinedNarration": "_m/d/q/f/t/ss-atlantus-wp/dqft-ss-atlantus-combined.mp3"
     }
   }
 }

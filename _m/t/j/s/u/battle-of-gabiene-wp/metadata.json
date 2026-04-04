@@ -107,7 +107,7 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-gabiene-wp",
       "sourceGeohash4": "tjsu",
-      "smallPath": "_m/t/j/s/u/battle-of-gabiene-wp/engraving-which-accomp-small.jpg"
+      "smallPath": "_m/t/j/s/u/battle-of-gabiene-wp/engraving-which-accomp-small.webp"
     },
     {
       "filename": "Figures de l'histoire de la république romaine accompagnées d'un précis historique ou Tableau philosophique et politique de l'origine des progrès et de la décadence de la liberté chez les... - btv1b550033070 (122 of 206).jpg",
@@ -136,8 +136,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-gabiene-wp",
       "sourceGeohash4": "tjsu",
-      "mediumPath": "_m/t/j/s/u/battle-of-gabiene-wp/figures-de-l-histoire-de-la-re-medium.jpg",
-      "smallPath": "_m/t/j/s/u/battle-of-gabiene-wp/figures-de-l-histoire-de-la-re-small.jpg"
+      "mediumPath": "_m/t/j/s/u/battle-of-gabiene-wp/figures-de-l-histoire-de-la-re-medium.webp",
+      "smallPath": "_m/t/j/s/u/battle-of-gabiene-wp/figures-de-l-histoire-de-la-re-small.webp"
     }
   ],
   "galleryPaths": [
@@ -145,6 +145,26 @@
     "_m/t/j/s/u/battle-of-gabiene-wp/engraving-which-accomp.jpg",
     "_m/t/j/s/u/battle-of-gabiene-wp/figures-de-l-histoire-de-la-re.jpg"
   ],
-  "fetchedAt": "2026-03-01T08:44:42.221Z",
-  "updatedAt": "2026-03-01T08:44:56.444Z"
+  "updatedAt": "2026-03-01T08:44:56.444Z",
+  "narration": {
+    "files": [
+      "tjsu-battle-of-gabiene-flight-context.mp3",
+      "tjsu-battle-of-gabiene-intro.mp3",
+      "tjsu-battle-of-gabiene-the-secretary-who-became-a-general.mp3",
+      "tjsu-battle-of-gabiene-a-desert-crossing-and-a-thousand-campfires.mp3",
+      "tjsu-battle-of-gabiene-dust-elephants-and-stolen-families.mp3",
+      "tjsu-battle-of-gabiene-victory-without-reward.mp3",
+      "tjsu-battle-of-gabiene-the-one-eyed-king.mp3"
+    ],
+    "durations": {
+      "tjsu-battle-of-gabiene-flight-context.mp3": 49.0331666,
+      "tjsu-battle-of-gabiene-intro.mp3": 61.8825416,
+      "tjsu-battle-of-gabiene-the-secretary-who-became-a-general.mp3": 78.0934583,
+      "tjsu-battle-of-gabiene-a-desert-crossing-and-a-thousand-campfires.mp3": 66.028375,
+      "tjsu-battle-of-gabiene-dust-elephants-and-stolen-families.mp3": 79.7904166,
+      "tjsu-battle-of-gabiene-victory-without-reward.mp3": 72.920375,
+      "tjsu-battle-of-gabiene-the-one-eyed-king.mp3": 76.0607083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

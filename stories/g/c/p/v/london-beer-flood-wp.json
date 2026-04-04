@@ -100,24 +100,24 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "pennine-way-wk",
-      "title": "Pennine Way",
-      "tile": "gcqx",
+      "id": "bletchley-park-wp",
+      "title": "Bletchley Park",
+      "tile": "gcpr",
       "coordinates": {
-        "lat": 53.3706,
-        "lng": -1.8168
+        "lat": 51.9977,
+        "lng": -0.7414
       },
-      "distanceKm": 184.5
+      "distanceKm": 16
     },
     "n": {
-      "id": "rotterdam-wk",
-      "title": "Rotterdam",
-      "tile": "u15p",
+      "id": "woburn-abbey-wp",
+      "title": "Woburn Abbey",
+      "tile": "gcpx",
       "coordinates": {
-        "lat": 51.9225,
-        "lng": 4.4792
+        "lat": 51.98295,
+        "lng": -0.596719
       },
-      "distanceKm": 319.5
+      "distanceKm": 32.2
     },
     "ne": {
       "id": "1976-schiedam-train-accident-wp",
@@ -130,34 +130,34 @@
       "distanceKm": 277.7
     },
     "w": {
-      "id": "cotswolds-wk",
-      "title": "Cotswolds",
-      "tile": "gcnw",
+      "id": "reading-abbey-wp",
+      "title": "Reading Abbey",
+      "tile": "gcpk",
       "coordinates": {
-        "lat": 51.761,
-        "lng": -1.888
+        "lat": 51.456347,
+        "lng": -0.965086
       },
-      "distanceKm": 83.8
+      "distanceKm": 23.6
     },
     "e": {
-      "id": "atlantic-wall-open-air-museum-wp",
-      "title": "Atlantic Wall Open Air Museum",
-      "tile": "u145",
+      "id": "rochester-castle-wp",
+      "title": "Rochester Castle",
+      "tile": "u10k",
       "coordinates": {
-        "lat": 51.200989,
-        "lng": 2.846373
+        "lat": 51.3894,
+        "lng": 0.502
       },
-      "distanceKm": 178.4
+      "distanceKm": 24.8
     },
     "sw": {
-      "id": "stonehenge-mystery-wk",
-      "title": "Stonehenge: The Mystery That Won't Die",
-      "tile": "gcne",
+      "id": "1952-farnborough-airshow-crash-wp",
+      "title": "1952 Farnborough Airshow Crash",
+      "tile": "gcp7",
       "coordinates": {
-        "lat": 51.1789,
-        "lng": -1.8262
+        "lat": 51.27583333333333,
+        "lng": -0.7763888888888889
       },
-      "distanceKm": 79.9
+      "distanceKm": 7.7
     },
     "s": {
       "id": "carrington-event-wk",
@@ -170,17 +170,19 @@
       "distanceKm": 9.8
     },
     "se": {
-      "id": "kent-wk",
-      "title": "Kent",
-      "tile": "u10e",
+      "id": "leeds-castle-wp",
+      "title": "Leeds Castle",
+      "tile": "u107",
       "coordinates": {
-        "lat": 51.19,
-        "lng": 0.73
+        "lat": 51.24888888888889,
+        "lng": 0.63
       },
-      "distanceKm": 30.5
+      "distanceKm": 21.3
     }
   },
   "keywords": [
     "london-beer-flood"
-  ]
+  ],
+  "locationWikipediaPath": "g/c/p/v/london-beer-flood-wp",
+  "locationWikivoyagePath": "g/c/p/v/london-wk"
 }

@@ -24,8 +24,8 @@
       "sourceType": "poi",
       "sourceArticleId": "arrowtown-wk",
       "sourceGeohash4": "rb00",
-      "mediumPath": "_m/r/b/0/0/arrowtown-wk/millbrook-country-club-vista-medium.jpg",
-      "smallPath": "_m/r/b/0/0/arrowtown-wk/millbrook-country-club-vista-small.jpg"
+      "mediumPath": "_m/r/b/0/0/arrowtown-wk/millbrook-country-club-vista-medium.webp",
+      "smallPath": "_m/r/b/0/0/arrowtown-wk/millbrook-country-club-vista-small.webp"
     },
     {
       "filename": "Arrowtown (4679159742).jpg",
@@ -54,8 +54,8 @@
       "sourceType": "poi",
       "sourceArticleId": "arrowtown-wk",
       "sourceGeohash4": "rb00",
-      "mediumPath": "_m/r/b/0/0/arrowtown-wk/arrowtown-4679159742-medium.jpg",
-      "smallPath": "_m/r/b/0/0/arrowtown-wk/arrowtown-4679159742-small.jpg"
+      "mediumPath": "_m/r/b/0/0/arrowtown-wk/arrowtown-4679159742-medium.webp",
+      "smallPath": "_m/r/b/0/0/arrowtown-wk/arrowtown-4679159742-small.webp"
     },
     {
       "filename": "Arrowtown Post.jpg",
@@ -79,7 +79,7 @@
       "sourceType": "poi",
       "sourceArticleId": "arrowtown-wk",
       "sourceGeohash4": "rb00",
-      "smallPath": "_m/r/b/0/0/arrowtown-wk/arrowtown-post-small.jpg"
+      "smallPath": "_m/r/b/0/0/arrowtown-wk/arrowtown-post-small.webp"
     },
     {
       "filename": "Buckingham Street Historic Area.jpg",
@@ -105,8 +105,8 @@
       "sourceType": "poi",
       "sourceArticleId": "arrowtown-wk",
       "sourceGeohash4": "rb00",
-      "mediumPath": "_m/r/b/0/0/arrowtown-wk/buckingham-street-historic-are-medium.jpg",
-      "smallPath": "_m/r/b/0/0/arrowtown-wk/buckingham-street-historic-are-small.jpg"
+      "mediumPath": "_m/r/b/0/0/arrowtown-wk/buckingham-street-historic-are-medium.webp",
+      "smallPath": "_m/r/b/0/0/arrowtown-wk/buckingham-street-historic-are-small.webp"
     },
     {
       "filename": "St Paul's, Arrowtown, Otago, New Zealand.jpg",
@@ -133,8 +133,8 @@
       "sourceType": "poi",
       "sourceArticleId": "arrowtown-wk",
       "sourceGeohash4": "rb00",
-      "mediumPath": "_m/r/b/0/0/arrowtown-wk/st-paul-s-arrowtown-otago-new--medium.jpg",
-      "smallPath": "_m/r/b/0/0/arrowtown-wk/st-paul-s-arrowtown-otago-new--small.jpg"
+      "mediumPath": "_m/r/b/0/0/arrowtown-wk/st-paul-s-arrowtown-otago-new--medium.webp",
+      "smallPath": "_m/r/b/0/0/arrowtown-wk/st-paul-s-arrowtown-otago-new--small.webp"
     }
   ],
   "galleryPaths": [
@@ -144,5 +144,24 @@
     "_m/r/b/0/0/arrowtown-wk/buckingham-street-historic-are.jpg",
     "_m/r/b/0/0/arrowtown-wk/st-paul-s-arrowtown-otago-new-.jpg"
   ],
-  "updatedAt": "2026-02-20T07:19:04.265Z"
+  "updatedAt": "2026-02-20T07:19:04.265Z",
+  "narration": {
+    "files": [
+      "rb00-arrowtown-flight-context.mp3",
+      "rb00-arrowtown-intro.mp3",
+      "rb00-arrowtown-buckingham-streets-second-life.mp3",
+      "rb00-arrowtown-queenstowns-quieter-sibling.mp3",
+      "rb00-arrowtown-gold-in-the-river-gold-in-the-hills.mp3",
+      "rb00-arrowtown-autumns-favorite-stage.mp3"
+    ],
+    "durations": {
+      "rb00-arrowtown-flight-context.mp3": 52.3102916,
+      "rb00-arrowtown-intro.mp3": 55.0935416,
+      "rb00-arrowtown-buckingham-streets-second-life.mp3": 57.7536666,
+      "rb00-arrowtown-queenstowns-quieter-sibling.mp3": 53.415625,
+      "rb00-arrowtown-gold-in-the-river-gold-in-the-hills.mp3": 55.7942083,
+      "rb00-arrowtown-autumns-favorite-stage.mp3": 56.4855416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

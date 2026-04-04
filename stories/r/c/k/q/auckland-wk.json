@@ -121,24 +121,24 @@
   "locationWikivoyagePath": "r/c/k/q/auckland-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "sydney-wk",
-      "title": "Sydney",
-      "tile": "r3gr",
+      "id": "kaipara-harbour-wp",
+      "title": "Kaipara Harbour",
+      "tile": "rceb",
       "coordinates": {
-        "lat": -33.9167,
-        "lng": 151.1667
+        "lat": -36.39,
+        "lng": 174.22
       },
-      "distanceKm": 2122.9
+      "distanceKm": 23.7
     },
     "n": {
-      "id": "tonga-wk",
-      "title": "Tonga",
-      "tile": "2hem",
+      "id": "kawau-island-wp",
+      "title": "Kawau Island",
+      "tile": "rcs2",
       "coordinates": {
-        "lat": -18.6333,
-        "lng": -175.2
+        "lat": -36.416666666667,
+        "lng": 174.85
       },
-      "distanceKm": 2216.1
+      "distanceKm": 16.9
     },
     "ne": {
       "id": "fiji-wk",
@@ -151,34 +151,54 @@
       "distanceKm": 2079.4
     },
     "w": {
-      "id": "west-coast-new-zealand-wk",
-      "title": "West Coast (New Zealand)",
-      "tile": "rb2v",
+      "id": "kauri-museum-wp",
+      "title": "Kauri Museum",
+      "tile": "rcef",
       "coordinates": {
-        "lat": -42.7,
-        "lng": 170
+        "lat": -36.13,
+        "lng": 174.1853
       },
-      "distanceKm": 752.3
+      "distanceKm": 79.2
+    },
+    "e": {
+      "id": "coromandel-peninsula-wp",
+      "title": "Coromandel Peninsula",
+      "tile": "rcky",
+      "coordinates": {
+        "lat": -36.833333333333,
+        "lng": 175.58333333333
+      },
+      "distanceKm": 13.7
     },
     "sw": {
-      "id": "abel-tasman-national-park-wk",
-      "title": "Abel Tasman National Park",
-      "tile": "rbdz",
+      "id": "battle-of-mahoetahi-wp",
+      "title": "Battle of Mahoetahi",
+      "tile": "rc5f",
       "coordinates": {
-        "lat": -40.833333,
-        "lng": 172.9
+        "lat": -39.0203,
+        "lng": 174.1945
       },
-      "distanceKm": 435.3
+      "distanceKm": 215.2
     },
     "s": {
-      "id": "wellington-wk",
-      "title": "Wellington",
-      "tile": "rbsm",
+      "id": "pukekohe-massacre-wp",
+      "title": "Pukekohe Massacre",
+      "tile": "rckk",
       "coordinates": {
-        "lat": -41.2866,
-        "lng": 174.7756
+        "lat": -37.167,
+        "lng": 174.871
       },
-      "distanceKm": 466.8
+      "distanceKm": 9
+    },
+    "se": {
+      "id": "kaimai-tunnel-wp",
+      "title": "Kaimai Tunnel",
+      "tile": "rcm1",
+      "coordinates": {
+        "lat": -37.6794,
+        "lng": 175.8897
+      },
+      "distanceKm": 77.1
     }
   },
   "keywords": [

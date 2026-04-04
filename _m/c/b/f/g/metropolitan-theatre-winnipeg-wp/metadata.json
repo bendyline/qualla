@@ -26,8 +26,8 @@
     "sourceType": "core",
     "sourceArticleId": "metropolitan-theatre-winnipeg-wp",
     "sourceGeohash4": "cbfg",
-    "smallPath": "_m/c/b/f/g/metropolitan-theatre-winnipeg-wp/hero-small.jpg",
-    "mediumPath": "_m/c/b/f/g/metropolitan-theatre-winnipeg-wp/hero-medium.jpg"
+    "smallPath": "_m/c/b/f/g/metropolitan-theatre-winnipeg-wp/hero-small.webp",
+    "mediumPath": "_m/c/b/f/g/metropolitan-theatre-winnipeg-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Metropolitan Theatre, Winnipeg.png",
@@ -79,7 +79,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "metropolitan-theatre-winnipeg-wp",
-      "sourceGeohash4": "cbfg"
+      "sourceGeohash4": "cbfg",
+      "smallPath": "_m/c/b/f/g/metropolitan-theatre-winnipeg-wp/allen-theatre-winnipeg-1919-small.webp"
     },
     {
       "filename": "Winnipeg - Metropolitan Theatre 2.JPG",
@@ -108,7 +109,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "metropolitan-theatre-winnipeg-wp",
-      "sourceGeohash4": "cbfg"
+      "sourceGeohash4": "cbfg",
+      "mediumPath": "_m/c/b/f/g/metropolitan-theatre-winnipeg-wp/winnipeg-metropolitan-theatre--medium.webp",
+      "smallPath": "_m/c/b/f/g/metropolitan-theatre-winnipeg-wp/winnipeg-metropolitan-theatre--small.webp"
     },
     {
       "filename": "Winnipeg - Metropolitan Theatre.JPG",
@@ -137,7 +140,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "metropolitan-theatre-winnipeg-wp",
-      "sourceGeohash4": "cbfg"
+      "sourceGeohash4": "cbfg",
+      "mediumPath": "_m/c/b/f/g/metropolitan-theatre-winnipeg-wp/winnipeg-metropolitan-theatre-medium.webp",
+      "smallPath": "_m/c/b/f/g/metropolitan-theatre-winnipeg-wp/winnipeg-metropolitan-theatre-small.webp"
     }
   ],
   "galleryPaths": [
@@ -145,7 +150,6 @@
     "_m/c/b/f/g/metropolitan-theatre-winnipeg-wp/winnipeg-metropolitan-theatre-.jpg",
     "_m/c/b/f/g/metropolitan-theatre-winnipeg-wp/winnipeg-metropolitan-theatre.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:48:14.071Z",
   "narration": {
     "files": [
       "cbfg-metropolitan-theatre-winnipeg-flight-context.mp3",
@@ -163,8 +167,7 @@
       "cbfg-metropolitan-theatre-winnipeg-twenty-five-years-of-silence.mp3": 65.2502916,
       "cbfg-metropolitan-theatre-winnipeg-a-palace-reborn-on-donald-street.mp3": 75.042875
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T07:58:04.839Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T02:48:14.691Z"
 }

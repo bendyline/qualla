@@ -1,0 +1,158 @@
+{
+  "id": "mingary-castle-wp",
+  "source": "wikipedia",
+  "sourceId": "1952131",
+  "title": "Mingary Castle",
+  "slug": "mingary-castle",
+  "summary": "A hexagonal curtain-wall castle on the Ardnamurchan peninsula with nine-foot-thick walls, where Spanish Armada soldiers once besieged the garrison and a shipwreck from 1644 lies directly below.",
+  "content": {
+    "intro": "Nine feet of stone separate the inside of Mingary Castle from the Atlantic. On the seaward side, the walls are even thicker. This roughly hexagonal fortress clings to a ridge of rock above the sea near the village of Kilchoan on the Ardnamurchan peninsula, guarding the entrance to the Sound of Mull with the kind of grim permanence that only seven centuries of exposure to Scottish weather can produce. Directly below the castle walls, on the seabed, lies a shipwreck from 1644 that was not identified until a Channel 4 television crew came looking in 2006.",
+    "sections": [
+      {
+        "title": "Gateway to the Sound",
+        "body": "Mingary Castle dates to the 13th or 14th century, though its original builders remain uncertain -- either the MacDougalls or the MacDonalds of Ardnamurchan, also known as the MacIains. Its strategic value was never in doubt. Sitting at the entrance to the Sound of Mull, the castle controlled communication routes between the mainland and the islands, making it a prize worth fighting over for centuries. The curtain wall follows the contour of the rock in a rough hexagonal plan, its nine-foot thickness reflecting the builders' expectation that this would be a place under frequent assault. They were not wrong."
+      },
+      {
+        "title": "Spanish Soldiers at the Gate",
+        "body": "In 1515, Clan MacDonald of Lochalsh besieged Mingary, and two years later they finally took it. But the castle's most extraordinary episode came in 1588, when one of the Spanish Armada's ships, the San Juan de Sicilia, landed on Mull after the fleet's disastrous attempt to invade England. MacLean of Duart, ever the opportunist, struck a deal with the Spanish: he would harbour them in exchange for military assistance against his rival clans. Spanish soldiers were dispatched to besiege Mingary Castle for three days before withdrawing. The image is remarkable -- soldiers from Philip II's navy, thousands of miles from home, besieging a Gaelic stronghold on a rocky headland in Lochaber for a cause that was not their own."
+      },
+      {
+        "title": "From Covenanters to Cameras",
+        "body": "Mingary changed hands repeatedly as Highland power shifted. The Clan Campbell and the Earls of Argyll held it from 1612. In 1644, the legendary Gaelic warrior Alasdair mac Colla -- fighting for the Royalist cause during the Wars of the Three Kingdoms -- captured the castle from its Covenanter garrison. It was around this time that a vessel sank directly below the castle walls. When Channel 4's Wreck Detectives investigated in 2006, they dated the wreck to 1644. The site was designated a Historic Marine Protected Area in 2013. Today Mingary stands as a Category A listed building, its drawbridge recently restored. The castle that hosted Spanish mercenaries, weathered Covenanter sieges, and watched a warship sink beneath its walls continues to hold its ground above the Sound of Mull, its nine-foot walls still standing against whatever the Atlantic throws at them."
+      }
+    ],
+    "flightContext": "Mingary Castle sits at 56.693N, 6.080W on the Ardnamurchan peninsula, approximately 1 mile southeast of the village of Kilchoan. The castle is visible on a rocky ridge above the coast overlooking the Sound of Mull. Nearest airfield is Oban Airport (EGEO), approximately 35 nm south-southeast. Ardnamurchan Point, the westernmost point on the British mainland, lies approximately 5 nm to the west."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 56.6927,
+      "lng": -6.08017
+    },
+    "geohash": "gf5dt"
+  },
+  "categories": [
+    "castles",
+    "history",
+    "clans",
+    "maritime"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 620,
+    "readTime": 3,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 9968
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "San Juan de Sicilia - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/San_Juan_de_Sicilia",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "San Juan de Sicilia was an Armada ship associated with Mull/Tobermory Bay confirmed",
+        "MacLean of Duart harboured Spanish soldiers in exchange for military assistance confirmed",
+        "Spanish soldiers besieged Mingary Castle for three days confirmed",
+        "Channel 4 Wreck Detectives investigated wreck below castle in 2006 confirmed",
+        "Wreck designated Historic Marine Protected Area confirmed"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Mingary Castle - Scotsman",
+      "url": "https://www.scotsman.com/whats-on/arts-and-entertainment/mingary-castle-transformed-into-luxury-hotel-1479143",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Castle is Category A listed building confirmed",
+        "Drawbridge restored confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "g/f/5/d/mingary-castle-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "whisky-galore-1949-film-wp",
+      "title": "Whisky Galore! (1949 film)",
+      "tile": "gf4s",
+      "coordinates": {
+        "lat": 57.012,
+        "lng": -7.491
+      },
+      "distanceKm": 49.6
+    },
+    "n": {
+      "id": "kinloch-castle-wp",
+      "title": "Kinloch Castle",
+      "tile": "gf5s",
+      "coordinates": {
+        "lat": 57.0136443092208,
+        "lng": -6.28199339438192
+      },
+      "distanceKm": 10.3
+    },
+    "ne": {
+      "id": "battle-of-glen-shiel-wp",
+      "title": "Battle of Glen Shiel",
+      "tile": "gfhj",
+      "coordinates": {
+        "lat": 57.17,
+        "lng": -5.32
+      },
+      "distanceKm": 30.4
+    },
+    "w": {
+      "id": "kisimul-castle-wp",
+      "title": "Kisimul Castle",
+      "tile": "gf4e",
+      "coordinates": {
+        "lat": 56.952,
+        "lng": -7.487
+      },
+      "distanceKm": 57.1
+    },
+    "e": {
+      "id": "st-moluag-s-cathedral-lismore-wp",
+      "title": "St Moluag's Cathedral, Lismore",
+      "tile": "gfh1",
+      "coordinates": {
+        "lat": 56.5344,
+        "lng": -5.48056
+      },
+      "distanceKm": 19.4
+    },
+    "sw": {
+      "id": "foyle-bridge-wp",
+      "title": "Foyle Bridge",
+      "tile": "gcfb",
+      "coordinates": {
+        "lat": 55.0185,
+        "lng": -7.29248
+      },
+      "distanceKm": 161.1
+    },
+    "s": {
+      "id": "iona-abbey-wp",
+      "title": "Iona Abbey",
+      "tile": "gf52",
+      "coordinates": {
+        "lat": 56.334996,
+        "lng": -6.391384
+      },
+      "distanceKm": 17.8
+    },
+    "se": {
+      "id": "gylen-castle-wp",
+      "title": "Gylen Castle",
+      "tile": "gfh0",
+      "coordinates": {
+        "lat": 56.37936111111111,
+        "lng": -5.556555555555556
+      },
+      "distanceKm": 6.7
+    }
+  }
+}

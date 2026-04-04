@@ -3,11 +3,11 @@
   "patch": {
     "media": {
       "narration": [
+        "_m/b/7/6/w/cape-nome-wp/b76w-cape-nome-flight-context.mp3",
         "_m/b/7/6/w/cape-nome-wp/b76w-cape-nome-intro.mp3",
         "_m/b/7/6/w/cape-nome-wp/b76w-cape-nome-before-the-gold.mp3",
-        "_m/b/7/6/w/cape-nome-wp/b76w-cape-nome-flight-context.mp3",
-        "_m/b/7/6/w/cape-nome-wp/b76w-cape-nome-granite-and-garnet.mp3",
-        "_m/b/7/6/w/cape-nome-wp/b76w-cape-nome-the-rush-begins.mp3"
+        "_m/b/7/6/w/cape-nome-wp/b76w-cape-nome-the-rush-begins.mp3",
+        "_m/b/7/6/w/cape-nome-wp/b76w-cape-nome-granite-and-garnet.mp3"
       ],
       "hero": {
         "path": "_m/b/7/6/w/cape-nome-wp/hero.jpg",
@@ -30,7 +30,7 @@
           "PD-US missing SDC copyright status",
           "PD US"
         ],
-        "smallPath": "_m/b/7/6/w/cape-nome-wp/hero-small.jpg"
+        "smallPath": "_m/b/7/6/w/cape-nome-wp/hero-small.webp"
       },
       "images": [
         {
@@ -57,7 +57,7 @@
             "PD US",
             "Thomas Arthur Rickard"
           ],
-          "smallPath": "_m/b/7/6/w/cape-nome-wp/sketch-map-nome-alaska-small.png"
+          "smallPath": "_m/b/7/6/w/cape-nome-wp/sketch-map-nome-alaska-small.webp"
         },
         {
           "path": "_m/b/7/6/w/cape-nome-wp/heavy-mineral-sand-com.jpg",
@@ -83,7 +83,7 @@
             "Self-published work",
             "Taken with Canon EOS 450D"
           ],
-          "smallPath": "_m/b/7/6/w/cape-nome-wp/heavy-mineral-sand-com-small.jpg"
+          "smallPath": "_m/b/7/6/w/cape-nome-wp/heavy-mineral-sand-com-small.webp"
         },
         {
           "path": "_m/b/7/6/w/cape-nome-wp/road-house-cape-nome-a.jpg",
@@ -111,9 +111,10 @@
             "Roadhouses in Alaska",
             "Telephones in Alaska"
           ],
-          "smallPath": "_m/b/7/6/w/cape-nome-wp/road-house-cape-nome-a-small.jpg"
+          "smallPath": "_m/b/7/6/w/cape-nome-wp/road-house-cape-nome-a-small.webp"
         }
-      ]
+      ],
+      "combinedNarration": "_m/b/7/6/w/cape-nome-wp/b76w-undefined-combined.mp3"
     }
   }
 }

@@ -32,8 +32,8 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-steenkerque-wp",
     "sourceGeohash4": "u14b",
-    "smallPath": "_m/u/1/4/b/battle-of-steenkerque-wp/hero-small.jpg",
-    "mediumPath": "_m/u/1/4/b/battle-of-steenkerque-wp/hero-medium.jpg"
+    "smallPath": "_m/u/1/4/b/battle-of-steenkerque-wp/hero-small.webp",
+    "mediumPath": "_m/u/1/4/b/battle-of-steenkerque-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Histoire-de-Guillaume-III-MG 0125.tif",
@@ -94,7 +94,7 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-steenkerque-wp",
       "sourceGeohash4": "u14b",
-      "smallPath": "_m/u/1/4/b/battle-of-steenkerque-wp/ferdinand-wilhelm-von-small.jpg"
+      "smallPath": "_m/u/1/4/b/battle-of-steenkerque-wp/ferdinand-wilhelm-von-small.webp"
     },
     {
       "filename": "Bataille de Steinkerque (1692).png",
@@ -117,7 +117,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-steenkerque-wp",
-      "sourceGeohash4": "u14b"
+      "sourceGeohash4": "u14b",
+      "smallPath": "_m/u/1/4/b/battle-of-steenkerque-wp/bataille-de-steinkerque-1692-small.webp"
     },
     {
       "filename": "Combat de Steenkerk le 3 aoust 1692 - btv1b55013543x (2 of 3).jpg",
@@ -132,7 +133,9 @@
       "dateCreated": "1692<div style=\"display: none;\">date QS:P571,+1692-00-00T00:00:00Z/9</div>",
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-steenkerque-wp",
-      "sourceGeohash4": "u14b"
+      "sourceGeohash4": "u14b",
+      "mediumPath": "_m/u/1/4/b/battle-of-steenkerque-wp/combat-de-steenkerk-le-3-aoust-medium.webp",
+      "smallPath": "_m/u/1/4/b/battle-of-steenkerque-wp/combat-de-steenkerk-le-3-aoust-small.webp"
     },
     {
       "filename": "Bataille de Steinkerque 2.jpg",
@@ -148,7 +151,8 @@
       "dateCreated": "17<sup>th</sup> century<div style=\"display: none;\">date QS:P,+1650-00-00T00:00:00Z/7</div>",
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-steenkerque-wp",
-      "sourceGeohash4": "u14b"
+      "sourceGeohash4": "u14b",
+      "smallPath": "_m/u/1/4/b/battle-of-steenkerque-wp/bataille-de-steinkerque-2-small.webp"
     },
     {
       "filename": "Bataille de Steinkerque.jpg",
@@ -164,7 +168,8 @@
       "dateCreated": "1711",
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-steenkerque-wp",
-      "sourceGeohash4": "u14b"
+      "sourceGeohash4": "u14b",
+      "smallPath": "_m/u/1/4/b/battle-of-steenkerque-wp/bataille-de-steinkerque-small.webp"
     },
     {
       "filename": "Map of the Battle of Steenkerque.jpg",
@@ -181,7 +186,9 @@
       "dateCreated": "2025-08-16 05:27:08",
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-steenkerque-wp",
-      "sourceGeohash4": "u14b"
+      "sourceGeohash4": "u14b",
+      "mediumPath": "_m/u/1/4/b/battle-of-steenkerque-wp/map-of-the-battle-of-steenkerq-medium.webp",
+      "smallPath": "_m/u/1/4/b/battle-of-steenkerque-wp/map-of-the-battle-of-steenkerq-small.webp"
     }
   ],
   "galleryPaths": [
@@ -192,7 +199,6 @@
     "_m/u/1/4/b/battle-of-steenkerque-wp/bataille-de-steinkerque.jpg",
     "_m/u/1/4/b/battle-of-steenkerque-wp/map-of-the-battle-of-steenkerq.jpg"
   ],
-  "fetchedAt": "2026-02-22T14:02:06.286Z",
   "updatedAt": "2026-02-22T14:02:07.883Z",
   "narration": {
     "files": [
@@ -211,7 +217,6 @@
       "u14b-battle-of-steenkerque-the-french-hold.mp3": 51.1455,
       "u14b-battle-of-steenkerque-aftermath-and-fashion.mp3": 54.139125
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-25T21:09:30.897Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

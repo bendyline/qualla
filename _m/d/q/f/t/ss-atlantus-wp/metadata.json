@@ -26,7 +26,7 @@
     "sourceType": "core",
     "sourceArticleId": "ss-atlantus-wp",
     "sourceGeohash4": "dqft",
-    "smallPath": "_m/d/q/f/t/ss-atlantus-wp/hero-small.jpg"
+    "smallPath": "_m/d/q/f/t/ss-atlantus-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Concrete ship Atlantus, Cape May Point, N. J.jpg",
@@ -77,8 +77,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "ss-atlantus-wp",
       "sourceGeohash4": "dqft",
-      "mediumPath": "_m/d/q/f/t/ss-atlantus-wp/atlantus-medium.jpg",
-      "smallPath": "_m/d/q/f/t/ss-atlantus-wp/atlantus-small.jpg"
+      "mediumPath": "_m/d/q/f/t/ss-atlantus-wp/atlantus-medium.webp",
+      "smallPath": "_m/d/q/f/t/ss-atlantus-wp/atlantus-small.webp"
     },
     {
       "filename": "Atlantus1926.jpg",
@@ -100,7 +100,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "ss-atlantus-wp",
       "sourceGeohash4": "dqft",
-      "smallPath": "_m/d/q/f/t/ss-atlantus-wp/atlantus1926-small.jpg"
+      "smallPath": "_m/d/q/f/t/ss-atlantus-wp/atlantus1926-small.webp"
     },
     {
       "filename": "Cape May Sunset Beach from Delaware Bay.JPG",
@@ -126,8 +126,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "ss-atlantus-wp",
       "sourceGeohash4": "dqft",
-      "mediumPath": "_m/d/q/f/t/ss-atlantus-wp/cape-may-sunset-beach-from-del-medium.jpg",
-      "smallPath": "_m/d/q/f/t/ss-atlantus-wp/cape-may-sunset-beach-from-del-small.jpg"
+      "mediumPath": "_m/d/q/f/t/ss-atlantus-wp/cape-may-sunset-beach-from-del-medium.webp",
+      "smallPath": "_m/d/q/f/t/ss-atlantus-wp/cape-may-sunset-beach-from-del-small.webp"
     },
     {
       "filename": "SS Atlantus wreck.jpg",
@@ -145,8 +145,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "ss-atlantus-wp",
       "sourceGeohash4": "dqft",
-      "mediumPath": "_m/d/q/f/t/ss-atlantus-wp/ss-atlantus-wreck-medium.jpg",
-      "smallPath": "_m/d/q/f/t/ss-atlantus-wp/ss-atlantus-wreck-small.jpg"
+      "mediumPath": "_m/d/q/f/t/ss-atlantus-wp/ss-atlantus-wreck-medium.webp",
+      "smallPath": "_m/d/q/f/t/ss-atlantus-wp/ss-atlantus-wreck-small.webp"
     },
     {
       "filename": "SS Atlantus (20498).jpg",
@@ -164,8 +164,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "ss-atlantus-wp",
       "sourceGeohash4": "dqft",
-      "mediumPath": "_m/d/q/f/t/ss-atlantus-wp/ss-atlantus-20498-medium.jpg",
-      "smallPath": "_m/d/q/f/t/ss-atlantus-wp/ss-atlantus-20498-small.jpg"
+      "mediumPath": "_m/d/q/f/t/ss-atlantus-wp/ss-atlantus-20498-medium.webp",
+      "smallPath": "_m/d/q/f/t/ss-atlantus-wp/ss-atlantus-20498-small.webp"
     }
   ],
   "galleryPaths": [
@@ -175,6 +175,24 @@
     "_m/d/q/f/t/ss-atlantus-wp/ss-atlantus-wreck.jpg",
     "_m/d/q/f/t/ss-atlantus-wp/ss-atlantus-20498.jpg"
   ],
-  "fetchedAt": "2026-02-28T06:14:11.473Z",
-  "updatedAt": "2026-02-28T06:14:43.658Z"
+  "updatedAt": "2026-02-28T06:14:43.658Z",
+  "narration": {
+    "files": [
+      "dqft-ss-atlantus-flight-context.mp3",
+      "dqft-ss-atlantus-intro.mp3",
+      "dqft-ss-atlantus-a-ship-made-of-stone.mp3",
+      "dqft-ss-atlantus-colonel-rosenfelds-grand-plan.mp3",
+      "dqft-ss-atlantus-a-slow-disappearing-act.mp3",
+      "dqft-ss-atlantus-the-concrete-fleets-legacy.mp3"
+    ],
+    "durations": {
+      "dqft-ss-atlantus-flight-context.mp3": 53.2784583,
+      "dqft-ss-atlantus-intro.mp3": 44.248125,
+      "dqft-ss-atlantus-a-ship-made-of-stone.mp3": 52.5130416,
+      "dqft-ss-atlantus-colonel-rosenfelds-grand-plan.mp3": 53.935875,
+      "dqft-ss-atlantus-a-slow-disappearing-act.mp3": 51.6849583,
+      "dqft-ss-atlantus-the-concrete-fleets-legacy.mp3": 48.3255
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -76,24 +76,24 @@
   "locationWikipediaPath": "u/0/t/s/seat-of-the-european-parliament-in-strasbourg-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "aachen-wk",
-      "title": "Aachen: Charlemagne's Capital at Europe's Crossroads",
-      "tile": "u1h2",
+      "id": "basilica-of-saint-pierre-aux-nonnains-wp",
+      "title": "Basilica of Saint-Pierre-aux-Nonnains",
+      "tile": "u0sr",
       "coordinates": {
-        "lat": 50.7753,
-        "lng": 6.0828
+        "lat": 49.115035,
+        "lng": 6.169446
       },
-      "distanceKm": 231.8
+      "distanceKm": 92.7
     },
     "n": {
-      "id": "1985-li-ge-bombing-wp",
-      "title": "1985 Liege Courthouse Bombing",
-      "tile": "u15b",
+      "id": "fort-jeanne-d-arc-wp",
+      "title": "Fort Jeanne d'Arc",
+      "tile": "u0sr",
       "coordinates": {
-        "lat": 50.64606388888889,
-        "lng": 5.573247222222222
+        "lat": 49.1168,
+        "lng": 6.06701
       },
-      "distanceKm": 259.4
+      "distanceKm": 137.3
     },
     "ne": {
       "id": "zwingenberg-castle-wp",
@@ -106,24 +106,24 @@
       "distanceKm": 75.4
     },
     "w": {
-      "id": "great-beguinage-leuven-wp",
-      "title": "Great Beguinage, Leuven",
-      "tile": "u153",
+      "id": "marmoutier-abbey-alsace-wp",
+      "title": "Marmoutier Abbey",
+      "tile": "u0th",
       "coordinates": {
-        "lat": 50.871,
-        "lng": 4.696194444444445
+        "lat": 48.69067629718705,
+        "lng": 7.382379239377898
       },
-      "distanceKm": 317.5
+      "distanceKm": 9.7
     },
     "e": {
-      "id": "salzburg-wk",
-      "title": "Salzburg",
-      "tile": "u23r",
+      "id": "einsiedeln-abbey-wp",
+      "title": "Einsiedeln Abbey",
+      "tile": "u0qh",
       "coordinates": {
-        "lat": 47.8095,
-        "lng": 13.055
+        "lat": 47.126666666666665,
+        "lng": 8.751388888888888
       },
-      "distanceKm": 353.3
+      "distanceKm": 165.9
     },
     "sw": {
       "id": "geneva-wk",
@@ -136,16 +136,6 @@
       "distanceKm": 255.2
     },
     "s": {
-      "id": "chamonix-wk",
-      "title": "Chamonix",
-      "tile": "u0hv",
-      "coordinates": {
-        "lat": 45.916,
-        "lng": 6.866
-      },
-      "distanceKm": 280.8
-    },
-    "se": {
       "id": "zurich-wk",
       "title": "Zurich",
       "tile": "u0qj",
@@ -153,7 +143,17 @@
         "lat": 47.3769,
         "lng": 8.5417
       },
-      "distanceKm": 107.4
+      "distanceKm": 117
+    },
+    "se": {
+      "id": "reichenau-abbey-wp",
+      "title": "Reichenau Abbey",
+      "tile": "u0qr",
+      "coordinates": {
+        "lat": 47.698738888889,
+        "lng": 9.0620805555556
+      },
+      "distanceKm": 85.1
     }
   },
   "keywords": [

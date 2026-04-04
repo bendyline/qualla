@@ -31,7 +31,7 @@
     "sourceType": "core",
     "sourceArticleId": "cherokee-outlet-wp",
     "sourceGeohash4": "9y6r",
-    "smallPath": "_m/9/y/6/r/cherokee-outlet-wp/hero-small.jpg"
+    "smallPath": "_m/9/y/6/r/cherokee-outlet-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Former Indian Reservations in Oklahoma.jpg",
@@ -89,7 +89,7 @@
       "sourceType": "core",
       "sourceArticleId": "cherokee-outlet-wp",
       "sourceGeohash4": "9y6r",
-      "smallPath": "_m/9/y/6/r/cherokee-outlet-wp/historical-map-cattle-small.jpg"
+      "smallPath": "_m/9/y/6/r/cherokee-outlet-wp/historical-map-cattle-small.webp"
     },
     {
       "filename": "Sign for the Cherokee Strip Conference Center.jpg",
@@ -113,7 +113,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cherokee-outlet-wp",
-      "sourceGeohash4": "9y6r"
+      "sourceGeohash4": "9y6r",
+      "smallPath": "_m/9/y/6/r/cherokee-outlet-wp/sign-for-the-cherokee-strip-co-small.webp"
     },
     {
       "filename": "Map of Part of Kansas showing the Cherokee Strip, and the Public Lands Strip, adjoining Indian Territory, as drawn by Paul Brodie, Draughtsman - DPLA - b26e3a8a3f7a0928100f0201591780bb (page 1).jpg",
@@ -139,7 +140,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cherokee-outlet-wp",
-      "sourceGeohash4": "9y6r"
+      "sourceGeohash4": "9y6r",
+      "mediumPath": "_m/9/y/6/r/cherokee-outlet-wp/map-of-part-of-kansas-showing--medium.webp",
+      "smallPath": "_m/9/y/6/r/cherokee-outlet-wp/map-of-part-of-kansas-showing--small.webp"
     },
     {
       "filename": "Map of Part of Kansas showing the Cherokee Strip, and the Public Lands Strip, adjoining Indian Territory, as drawn by Paul Brodie, Draughtsman - DPLA - b26e3a8a3f7a0928100f0201591780bb (page 2).jpg",
@@ -164,7 +167,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cherokee-outlet-wp",
-      "sourceGeohash4": "9y6r"
+      "sourceGeohash4": "9y6r",
+      "mediumPath": "_m/9/y/6/r/cherokee-outlet-wp/map-of-part-of-kansas-showing--1-medium.webp",
+      "smallPath": "_m/9/y/6/r/cherokee-outlet-wp/map-of-part-of-kansas-showing--1-small.webp"
     },
     {
       "filename": "A map of Cherokee land ownership from the Treaty of 1828 at the Tahlonteeskee museum and visitor center in Gore, Oklahoma (6035bea8-4942-4f28-8cc2-950ba60b697a).JPG",
@@ -184,7 +189,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cherokee-outlet-wp",
-      "sourceGeohash4": "9y6r"
+      "sourceGeohash4": "9y6r",
+      "mediumPath": "_m/9/y/6/r/cherokee-outlet-wp/a-map-of-cherokee-land-ownersh-medium.webp",
+      "smallPath": "_m/9/y/6/r/cherokee-outlet-wp/a-map-of-cherokee-land-ownersh-small.webp"
     }
   ],
   "galleryPaths": [
@@ -194,7 +201,6 @@
     "_m/9/y/6/r/cherokee-outlet-wp/map-of-part-of-kansas-showing--1.jpg",
     "_m/9/y/6/r/cherokee-outlet-wp/a-map-of-cherokee-land-ownersh.jpg"
   ],
-  "fetchedAt": "2026-02-22T00:53:23.313Z",
   "narration": {
     "files": [
       "9y6r-cherokee-outlet-flight-context.mp3",
@@ -212,8 +218,7 @@
       "9y6r-cherokee-outlet-the-government-tightens-its-grip.mp3": 63.5385416,
       "9y6r-cherokee-outlet-the-starting-gun.mp3": 59.3214166
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T22:56:56.267Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T00:53:26.019Z"
 }

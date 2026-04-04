@@ -25,7 +25,7 @@
     "sourceType": "core",
     "sourceArticleId": "capture-of-muscat-1552-wp",
     "sourceGeohash4": "tk1w",
-    "smallPath": "_m/t/k/1/w/capture-of-muscat-1552-wp/hero-small.jpg"
+    "smallPath": "_m/t/k/1/w/capture-of-muscat-1552-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Seydi Ali-Ambush.png",
@@ -55,5 +55,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T09:54:53.775Z"
+  "narration": {
+    "files": [
+      "tk1w-capture-of-muscat-1552-flight-context.mp3",
+      "tk1w-capture-of-muscat-1552-intro.mp3",
+      "tk1w-capture-of-muscat-1552-empire-against-empire.mp3",
+      "tk1w-capture-of-muscat-1552-eighteen-days-under-the-guns.mp3",
+      "tk1w-capture-of-muscat-1552-the-wider-contest.mp3",
+      "tk1w-capture-of-muscat-1552-aftermath-across-oceans.mp3"
+    ],
+    "durations": {
+      "tk1w-capture-of-muscat-1552-flight-context.mp3": 37.004125,
+      "tk1w-capture-of-muscat-1552-intro.mp3": 34.8034166,
+      "tk1w-capture-of-muscat-1552-empire-against-empire.mp3": 42.3539166,
+      "tk1w-capture-of-muscat-1552-eighteen-days-under-the-guns.mp3": 44.9389583,
+      "tk1w-capture-of-muscat-1552-the-wider-contest.mp3": 51.8413333,
+      "tk1w-capture-of-muscat-1552-aftermath-across-oceans.mp3": 49.804125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

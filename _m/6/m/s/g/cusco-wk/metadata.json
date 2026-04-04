@@ -2,27 +2,25 @@
   "articleId": "cusco-wk",
   "narration": {
     "files": [
-      "6mp4-cusco-flight-context.mp3",
-      "6mp4-cusco-intro.mp3",
-      "6mp4-cusco-the-inca-foundations.mp3",
-      "6mp4-cusco-the-plaza-de-armas.mp3",
-      "6mp4-cusco-the-altitude.mp3",
-      "6mp4-cusco-the-gateway.mp3",
-      "6mp4-cusco-sacsayhuaman.mp3"
+      "6msg-cusco-flight-context.mp3",
+      "6msg-cusco-intro.mp3",
+      "6msg-cusco-the-inca-foundations.mp3",
+      "6msg-cusco-the-plaza-de-armas.mp3",
+      "6msg-cusco-the-altitude.mp3",
+      "6msg-cusco-the-gateway.mp3",
+      "6msg-cusco-sacsayhuaman.mp3"
     ],
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-17T03:57:08.724Z",
     "durations": {
-      "6mp4-cusco-flight-context.mp3": 59.376,
-      "6mp4-cusco-intro.mp3": 51.504,
-      "6mp4-cusco-the-inca-foundations.mp3": 64.704,
-      "6mp4-cusco-the-plaza-de-armas.mp3": 54.912,
-      "6mp4-cusco-the-altitude.mp3": 60.216,
-      "6mp4-cusco-the-gateway.mp3": 54.672,
-      "6mp4-cusco-sacsayhuaman.mp3": 63.072
-    }
+      "6msg-cusco-flight-context.mp3": 60.8451666,
+      "6msg-cusco-intro.mp3": 51.3915,
+      "6msg-cusco-the-inca-foundations.mp3": 67.1202083,
+      "6msg-cusco-the-plaza-de-armas.mp3": 61.8651666,
+      "6msg-cusco-the-altitude.mp3": 57.5906666,
+      "6msg-cusco-the-gateway.mp3": 60.4831666,
+      "6msg-cusco-sacsayhuaman.mp3": 68.9756666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
-  "fetchedAt": "2026-02-21T20:12:05.041Z",
   "hero": {
     "filename": "Saqsaywman Fortress (7640969348).jpg",
     "title": "File:Saqsaywman Fortress (7640969348).jpg",
@@ -50,7 +48,7 @@
     "sourceType": "core",
     "sourceArticleId": "cusco-wk",
     "sourceGeohash4": "6msg",
-    "smallPath": "_m/6/m/s/g/cusco-wk/hero-small.jpg"
+    "smallPath": "_m/6/m/s/g/cusco-wk/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Saqsaywman Fortress (7640969348).jpg",
@@ -103,7 +101,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cusco-wk",
-      "sourceGeohash4": "6msg"
+      "sourceGeohash4": "6msg",
+      "smallPath": "_m/6/m/s/g/cusco-wk/countryside-near-cusco-flickr--small.webp"
     },
     {
       "filename": "Ciudad del cusco vista 360.jpg",
@@ -133,7 +132,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cusco-wk",
-      "sourceGeohash4": "6msg"
+      "sourceGeohash4": "6msg",
+      "mediumPath": "_m/6/m/s/g/cusco-wk/ciudad-del-cusco-vista-360-medium.webp",
+      "smallPath": "_m/6/m/s/g/cusco-wk/ciudad-del-cusco-vista-360-small.webp"
     },
     {
       "filename": "The Mercado Ferial market in Chinchaypujio.jpg",
@@ -157,7 +158,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cusco-wk",
-      "sourceGeohash4": "6msg"
+      "sourceGeohash4": "6msg",
+      "mediumPath": "_m/6/m/s/g/cusco-wk/the-mercado-ferial-market-in-c-medium.webp",
+      "smallPath": "_m/6/m/s/g/cusco-wk/the-mercado-ferial-market-in-c-small.webp"
     },
     {
       "filename": "Chinchaypujio Landscape.jpg",
@@ -181,7 +184,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cusco-wk",
-      "sourceGeohash4": "6msg"
+      "sourceGeohash4": "6msg",
+      "mediumPath": "_m/6/m/s/g/cusco-wk/chinchaypujio-landscape-medium.webp",
+      "smallPath": "_m/6/m/s/g/cusco-wk/chinchaypujio-landscape-small.webp"
     },
     {
       "filename": "Mural of the Chinchaypujio Coat of Arms.jpg",
@@ -205,7 +210,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cusco-wk",
-      "sourceGeohash4": "6msg"
+      "sourceGeohash4": "6msg",
+      "mediumPath": "_m/6/m/s/g/cusco-wk/mural-of-the-chinchaypujio-coa-medium.webp",
+      "smallPath": "_m/6/m/s/g/cusco-wk/mural-of-the-chinchaypujio-coa-small.webp"
     },
     {
       "filename": "Ocra Aerial View.jpg",
@@ -228,7 +235,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cusco-wk",
-      "sourceGeohash4": "6msg"
+      "sourceGeohash4": "6msg",
+      "mediumPath": "_m/6/m/s/g/cusco-wk/ocra-aerial-view-medium.webp",
+      "smallPath": "_m/6/m/s/g/cusco-wk/ocra-aerial-view-small.webp"
     },
     {
       "filename": "Aerial View of Ocra, Part 2.jpg",
@@ -251,7 +260,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cusco-wk",
-      "sourceGeohash4": "6msg"
+      "sourceGeohash4": "6msg",
+      "mediumPath": "_m/6/m/s/g/cusco-wk/aerial-view-of-ocra-part-2-medium.webp",
+      "smallPath": "_m/6/m/s/g/cusco-wk/aerial-view-of-ocra-part-2-small.webp"
     },
     {
       "filename": "The Ocra Valley with Apurimac River in Background.jpg",
@@ -274,7 +285,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cusco-wk",
-      "sourceGeohash4": "6msg"
+      "sourceGeohash4": "6msg",
+      "smallPath": "_m/6/m/s/g/cusco-wk/the-ocra-valley-with-apurimac--small.webp"
     },
     {
       "filename": "Overlooking Ocra, Chinchaypujio.jpg",
@@ -297,7 +309,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cusco-wk",
-      "sourceGeohash4": "6msg"
+      "sourceGeohash4": "6msg",
+      "mediumPath": "_m/6/m/s/g/cusco-wk/overlooking-ocra-chinchaypujio-medium.webp",
+      "smallPath": "_m/6/m/s/g/cusco-wk/overlooking-ocra-chinchaypujio-small.webp"
     },
     {
       "filename": "Chinchaypujio Town Church.jpg",
@@ -318,7 +332,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cusco-wk",
-      "sourceGeohash4": "6msg"
+      "sourceGeohash4": "6msg",
+      "smallPath": "_m/6/m/s/g/cusco-wk/chinchaypujio-town-church-small.webp"
     },
     {
       "filename": "Chinchaypujio Secondary School.jpg",
@@ -335,7 +350,8 @@
       "dateCreated": "2019-08-11",
       "sourceType": "commons-category",
       "sourceArticleId": "cusco-wk",
-      "sourceGeohash4": "6msg"
+      "sourceGeohash4": "6msg",
+      "smallPath": "_m/6/m/s/g/cusco-wk/chinchaypujio-secondary-school-small.webp"
     },
     {
       "filename": "Plaza des Armas in Chinchaypujio.jpg",
@@ -352,7 +368,8 @@
       "dateCreated": "2019-08-11",
       "sourceType": "commons-category",
       "sourceArticleId": "cusco-wk",
-      "sourceGeohash4": "6msg"
+      "sourceGeohash4": "6msg",
+      "smallPath": "_m/6/m/s/g/cusco-wk/plaza-des-armas-in-chinchaypuj-small.webp"
     },
     {
       "filename": "Provinco Kusko 01.jpg",
@@ -369,7 +386,9 @@
       "dateCreated": "Taken on 7 August 2014, 14:45:45",
       "sourceType": "commons-category",
       "sourceArticleId": "cusco-wk",
-      "sourceGeohash4": "6msg"
+      "sourceGeohash4": "6msg",
+      "mediumPath": "_m/6/m/s/g/cusco-wk/provinco-kusko-01-medium.webp",
+      "smallPath": "_m/6/m/s/g/cusco-wk/provinco-kusko-01-small.webp"
     },
     {
       "filename": "Indianoj sidas apud sia setlejo (provinco Kusko).jpg",
@@ -386,7 +405,9 @@
       "dateCreated": "Taken on 7 August 2014, 14:47:22",
       "sourceType": "commons-category",
       "sourceArticleId": "cusco-wk",
-      "sourceGeohash4": "6msg"
+      "sourceGeohash4": "6msg",
+      "mediumPath": "_m/6/m/s/g/cusco-wk/indianoj-sidas-apud-sia-setlej-medium.webp",
+      "smallPath": "_m/6/m/s/g/cusco-wk/indianoj-sidas-apud-sia-setlej-small.webp"
     },
     {
       "filename": "Provinco Kusko 02.jpg",
@@ -403,7 +424,9 @@
       "dateCreated": "Taken on 7 August 2014, 14:47:14",
       "sourceType": "commons-category",
       "sourceArticleId": "cusco-wk",
-      "sourceGeohash4": "6msg"
+      "sourceGeohash4": "6msg",
+      "mediumPath": "_m/6/m/s/g/cusco-wk/provinco-kusko-02-medium.webp",
+      "smallPath": "_m/6/m/s/g/cusco-wk/provinco-kusko-02-small.webp"
     },
     {
       "filename": "Vido el aviadilo al montaro (provinco Kusko) 01.jpg",
@@ -420,7 +443,9 @@
       "dateCreated": "2014-08-08 08:08:20",
       "sourceType": "commons-category",
       "sourceArticleId": "cusco-wk",
-      "sourceGeohash4": "6msg"
+      "sourceGeohash4": "6msg",
+      "mediumPath": "_m/6/m/s/g/cusco-wk/vido-el-aviadilo-al-montaro-pr-medium.webp",
+      "smallPath": "_m/6/m/s/g/cusco-wk/vido-el-aviadilo-al-montaro-pr-small.webp"
     },
     {
       "filename": "Vido el aviadilo al montaro (provinco Kusko) 02.jpg",
@@ -437,7 +462,9 @@
       "dateCreated": "2014-08-08 08:08:32",
       "sourceType": "commons-category",
       "sourceArticleId": "cusco-wk",
-      "sourceGeohash4": "6msg"
+      "sourceGeohash4": "6msg",
+      "mediumPath": "_m/6/m/s/g/cusco-wk/vido-el-aviadilo-al-montaro-pr-1-medium.webp",
+      "smallPath": "_m/6/m/s/g/cusco-wk/vido-el-aviadilo-al-montaro-pr-1-small.webp"
     },
     {
       "filename": "Cuzco (región) 1981 09.jpg",
@@ -454,7 +481,8 @@
       "dateCreated": "1981-01",
       "sourceType": "commons-category",
       "sourceArticleId": "cusco-wk",
-      "sourceGeohash4": "6msg"
+      "sourceGeohash4": "6msg",
+      "smallPath": "_m/6/m/s/g/cusco-wk/cuzco-region-1981-09-small.webp"
     },
     {
       "filename": "Cuzco (región) 1981 12.jpg",
@@ -471,7 +499,8 @@
       "dateCreated": "1981-01",
       "sourceType": "commons-category",
       "sourceArticleId": "cusco-wk",
-      "sourceGeohash4": "6msg"
+      "sourceGeohash4": "6msg",
+      "smallPath": "_m/6/m/s/g/cusco-wk/cuzco-region-1981-12-small.webp"
     },
     {
       "filename": "Cuzco (región) 1981 11.jpg",
@@ -488,7 +517,8 @@
       "dateCreated": "1981-01",
       "sourceType": "commons-category",
       "sourceArticleId": "cusco-wk",
-      "sourceGeohash4": "6msg"
+      "sourceGeohash4": "6msg",
+      "smallPath": "_m/6/m/s/g/cusco-wk/cuzco-region-1981-11-small.webp"
     }
   ],
   "galleryPaths": [

@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "presidio-chapel-of-san-elizario-wp",
     "sourceGeohash4": "9ts7",
-    "smallPath": "_m/9/t/s/7/presidio-chapel-of-san-elizario-wp/hero-small.jpg",
-    "mediumPath": "_m/9/t/s/7/presidio-chapel-of-san-elizario-wp/hero-medium.jpg"
+    "smallPath": "_m/9/t/s/7/presidio-chapel-of-san-elizario-wp/hero-small.webp",
+    "mediumPath": "_m/9/t/s/7/presidio-chapel-of-san-elizario-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "San Elizario Mission.jpg",
@@ -135,7 +135,9 @@
       "dateCreated": "before 10 June 2014, 20:38:24 (UTC)",
       "sourceType": "commons-category",
       "sourceArticleId": "presidio-chapel-of-san-elizario-wp",
-      "sourceGeohash4": "9ts7"
+      "sourceGeohash4": "9ts7",
+      "mediumPath": "_m/9/t/s/7/presidio-chapel-of-san-elizario-wp/san-elizario-73304269-medium.webp",
+      "smallPath": "_m/9/t/s/7/presidio-chapel-of-san-elizario-wp/san-elizario-73304269-small.webp"
     },
     {
       "filename": "Presidio Chapel of San Elizario, Mission Trail, El Paso, Texas (2b82a8e9-155d-451f-671e-392e6e94b7d0).jpg",
@@ -151,7 +153,8 @@
       "dateCreated": "2024-05-11 09:49:20",
       "sourceType": "commons-category",
       "sourceArticleId": "presidio-chapel-of-san-elizario-wp",
-      "sourceGeohash4": "9ts7"
+      "sourceGeohash4": "9ts7",
+      "smallPath": "_m/9/t/s/7/presidio-chapel-of-san-elizario-wp/presidio-chapel-of-san-elizari-small.webp"
     }
   ],
   "galleryPaths": [
@@ -160,7 +163,6 @@
     "_m/9/t/s/7/presidio-chapel-of-san-elizario-wp/san-elizario-73304269.jpg",
     "_m/9/t/s/7/presidio-chapel-of-san-elizario-wp/presidio-chapel-of-san-elizari.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:19:43.523Z",
   "narration": {
     "files": [
       "9ts7-presidio-chapel-of-san-elizario-flight-context.mp3",
@@ -178,8 +180,7 @@
       "9ts7-presidio-chapel-of-san-elizario-fire-and-rebirth.mp3": 46.4142916,
       "9ts7-presidio-chapel-of-san-elizario-a-living-landmark.mp3": 44.6210833
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T02:41:25.876Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:19:53.735Z"
 }

@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "chikatsuyu-wp",
     "sourceGeohash4": "xn02",
-    "mediumPath": "_m/x/n/0/2/chikatsuyu-wp/hero-medium.jpg",
-    "smallPath": "_m/x/n/0/2/chikatsuyu-wp/hero-small.jpg"
+    "mediumPath": "_m/x/n/0/2/chikatsuyu-wp/hero-medium.webp",
+    "smallPath": "_m/x/n/0/2/chikatsuyu-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Kumano Kodo pilgrimage route Nakahechi From Gyuba-Dojiguchi To Chikatsuyu World heritage 熊野古道 中辺路 牛馬童子口～近露02.JPG",
@@ -78,7 +78,7 @@
       "sourceType": "core",
       "sourceArticleId": "chikatsuyu-wp",
       "sourceGeohash4": "xn02",
-      "smallPath": "_m/x/n/0/2/chikatsuyu-wp/chikatsuyu-oji_monumen-small.jpg"
+      "smallPath": "_m/x/n/0/2/chikatsuyu-wp/chikatsuyu-oji_monumen-small.webp"
     },
     {
       "filename": "Kumano Kodo pilgrimage route Nakahechi From Gyuba-Dojiguchi To Chikatsuyu World heritage 熊野古道 中辺路 牛馬童子口～近露13.JPG",
@@ -104,15 +104,14 @@
       "sourceType": "core",
       "sourceArticleId": "chikatsuyu-wp",
       "sourceGeohash4": "xn02",
-      "mediumPath": "_m/x/n/0/2/chikatsuyu-wp/kumano-kodo-pilgrimage-medium.jpg",
-      "smallPath": "_m/x/n/0/2/chikatsuyu-wp/kumano-kodo-pilgrimage-small.jpg"
+      "mediumPath": "_m/x/n/0/2/chikatsuyu-wp/kumano-kodo-pilgrimage-medium.webp",
+      "smallPath": "_m/x/n/0/2/chikatsuyu-wp/kumano-kodo-pilgrimage-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/x/n/0/2/chikatsuyu-wp/chikatsuyu-oji_monumen.jpg",
     "_m/x/n/0/2/chikatsuyu-wp/kumano-kodo-pilgrimage.jpg"
   ],
-  "fetchedAt": "2026-02-22T15:19:38.440Z",
   "narration": {
     "files": [
       "xn02-chikatsuyu-flight-context.mp3",
@@ -130,7 +129,6 @@
       "xn02-chikatsuyu-a-waystation-that-endures.mp3": 60.0545,
       "xn02-chikatsuyu-walking-into-deep-time.mp3": 52.6161666
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-24T10:50:57.067Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

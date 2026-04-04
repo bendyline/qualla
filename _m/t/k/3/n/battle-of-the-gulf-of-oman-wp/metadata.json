@@ -29,7 +29,7 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-the-gulf-of-oman-wp",
     "sourceGeohash4": "tk3n",
-    "smallPath": "_m/t/k/3/n/battle-of-the-gulf-of-oman-wp/hero-small.jpg"
+    "smallPath": "_m/t/k/3/n/battle-of-the-gulf-of-oman-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Portuguese Empire V37.png",
@@ -93,5 +93,25 @@
   "galleryPaths": [
     "_m/t/k/1/w/capture-of-muscat-1552-wp/hero.png"
   ],
-  "fetchedAt": "2026-03-01T10:16:53.032Z"
+  "narration": {
+    "files": [
+      "tk3n-battle-of-the-gulf-of-oman-flight-context.mp3",
+      "tk3n-battle-of-the-gulf-of-oman-intro.mp3",
+      "tk3n-battle-of-the-gulf-of-oman-empires-on-the-water.mp3",
+      "tk3n-battle-of-the-gulf-of-oman-the-pilots-gamble.mp3",
+      "tk3n-battle-of-the-gulf-of-oman-fire-on-the-water.mp3",
+      "tk3n-battle-of-the-gulf-of-oman-a-two-year-walk-home.mp3",
+      "tk3n-battle-of-the-gulf-of-oman-ghosts-of-empire.mp3"
+    ],
+    "durations": {
+      "tk3n-battle-of-the-gulf-of-oman-flight-context.mp3": 35.4819166,
+      "tk3n-battle-of-the-gulf-of-oman-intro.mp3": 39.9499583,
+      "tk3n-battle-of-the-gulf-of-oman-empires-on-the-water.mp3": 67.0536666,
+      "tk3n-battle-of-the-gulf-of-oman-the-pilots-gamble.mp3": 52.7451666,
+      "tk3n-battle-of-the-gulf-of-oman-fire-on-the-water.mp3": 58.9855,
+      "tk3n-battle-of-the-gulf-of-oman-a-two-year-walk-home.mp3": 57.59375,
+      "tk3n-battle-of-the-gulf-of-oman-ghosts-of-empire.mp3": 48.8975
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

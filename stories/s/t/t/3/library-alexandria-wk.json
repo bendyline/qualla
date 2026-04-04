@@ -76,84 +76,84 @@
   "locationWikipediaPath": "s/t/t/3/cathedral-of-the-annunciation-alexandria-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "bodrum-wk",
-      "title": "Bodrum",
-      "tile": "swed",
+      "id": "battle-of-sidi-barrani-wp",
+      "title": "Battle of Sidi Barrani",
+      "tile": "std7",
       "coordinates": {
-        "lat": 37.0344,
-        "lng": 27.4305
+        "lat": 31.6111,
+        "lng": 25.9281
       },
-      "distanceKm": 648.7
+      "distanceKm": 341.8
     },
     "n": {
-      "id": "jerusalem-wk",
-      "title": "Jerusalem",
-      "tile": "sv9h",
-      "coordinates": {
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "distanceKm": 489.3
-    },
-    "ne": {
-      "id": "tel-aviv-wk",
-      "title": "Tel Aviv",
+      "id": "battle-of-jaffa-1192-wp",
+      "title": "Battle of Jaffa (1192)",
       "tile": "sv8w",
       "coordinates": {
-        "lat": 32.0853,
-        "lng": 34.7818
+        "lat": 32.05440833,
+        "lng": 34.75164444
       },
-      "distanceKm": 402.6
+      "distanceKm": 448.5
+    },
+    "ne": {
+      "id": "sack-of-damietta-853-wp",
+      "title": "Sack of Damietta (853)",
+      "tile": "stwe",
+      "coordinates": {
+        "lat": 31.5,
+        "lng": 31.835
+      },
+      "distanceKm": 118.5
     },
     "w": {
-      "id": "santorini-eruption-wk",
-      "title": "Santorini: The Volcano That May Have Destroyed Atlantis",
-      "tile": "sw6p",
+      "id": "first-battle-of-el-alamein-wp",
+      "title": "First Battle of El Alamein",
+      "tile": "stkx",
       "coordinates": {
-        "lat": 36.3932,
-        "lng": 25.4615
+        "lat": 30.84138888888889,
+        "lng": 28.942777777777778
       },
-      "distanceKm": 688.8
+      "distanceKm": 68.9
     },
     "e": {
-      "id": "great-sphinx-wk",
-      "title": "The Great Sphinx: The Face That Has Been Staring at the Sunrise for 4,500 Years",
-      "tile": "stq4",
+      "id": "siege-of-damietta-1218-1219-wp",
+      "title": "Siege of Damietta (1218-1219)",
+      "tile": "stwd",
       "coordinates": {
-        "lat": 29.9753,
-        "lng": 31.1376
+        "lat": 31.416667,
+        "lng": 31.816667
       },
-      "distanceKm": 146.2
+      "distanceKm": 119.4
     },
     "sw": {
-      "id": "costa-teguise-wk",
-      "title": "Costa Teguise",
-      "tile": "etnk",
+      "id": "alamein-memorial-wp",
+      "title": "Alamein Memorial",
+      "tile": "stkx",
       "coordinates": {
-        "lat": 29,
-        "lng": -13.5
+        "lat": 30.83813,
+        "lng": 28.94711
       },
-      "distanceKm": 4125
+      "distanceKm": 56.8
     },
     "s": {
-      "id": "karnak-temple-wk",
-      "title": "Karnak: The Temple Built by 30 Pharaohs Over 2,000 Years",
-      "tile": "ssx4",
+      "id": "second-battle-of-el-alamein-wp",
+      "title": "Second Battle of El Alamein",
+      "tile": "stkx",
       "coordinates": {
-        "lat": 25.7188,
-        "lng": 32.6573
+        "lat": 30.84138888888889,
+        "lng": 28.942777777777778
       },
-      "distanceKm": 633.5
+      "distanceKm": 107
     },
     "se": {
-      "id": "great-pyramid-wk",
-      "title": "The Great Pyramid: The Monument That Shouldn't Exist",
-      "tile": "stq4",
+      "id": "denshway-museum-wp",
+      "title": "Denshway Museum",
+      "tile": "stmy",
       "coordinates": {
-        "lat": 29.9792,
-        "lng": 31.1342
+        "lat": 30.60194444,
+        "lng": 30.85361111
       },
-      "distanceKm": 118.8
+      "distanceKm": 45.2
     }
   },
   "keywords": [

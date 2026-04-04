@@ -27,7 +27,7 @@
       "sourceType": "poi",
       "sourceArticleId": "hingol-national-park-wp",
       "sourceGeohash4": "tkw9",
-      "smallPath": "_m/t/k/w/9/hingol-national-park-wp/hangolmudvolcano3-small.jpg"
+      "smallPath": "_m/t/k/w/9/hingol-national-park-wp/hangolmudvolcano3-small.webp"
     },
     {
       "filename": "Jinnah Road, Quetta.JPG",
@@ -53,7 +53,7 @@
       "sourceType": "poi",
       "sourceArticleId": "hingol-national-park-wp",
       "sourceGeohash4": "tkw9",
-      "smallPath": "_m/t/k/w/9/hingol-national-park-wp/jinnah-road-quetta-small.jpg"
+      "smallPath": "_m/t/k/w/9/hingol-national-park-wp/jinnah-road-quetta-small.webp"
     },
     {
       "filename": "Hanna lake 2345.JPG",
@@ -79,7 +79,7 @@
       "sourceType": "poi",
       "sourceArticleId": "hingol-national-park-wp",
       "sourceGeohash4": "tkw9",
-      "smallPath": "_m/t/k/w/9/hingol-national-park-wp/hanna-lake-2345-small.jpg"
+      "smallPath": "_m/t/k/w/9/hingol-national-park-wp/hanna-lake-2345-small.webp"
     },
     {
       "filename": "Ziarat overview.jpg",
@@ -103,8 +103,8 @@
       "sourceType": "poi",
       "sourceArticleId": "hingol-national-park-wp",
       "sourceGeohash4": "tkw9",
-      "mediumPath": "_m/t/k/w/9/hingol-national-park-wp/ziarat-overview-medium.jpg",
-      "smallPath": "_m/t/k/w/9/hingol-national-park-wp/ziarat-overview-small.jpg"
+      "mediumPath": "_m/t/k/w/9/hingol-national-park-wp/ziarat-overview-medium.webp",
+      "smallPath": "_m/t/k/w/9/hingol-national-park-wp/ziarat-overview-small.webp"
     },
     {
       "filename": "Mehrgarh ruins.jpg",
@@ -127,7 +127,7 @@
       "sourceType": "poi",
       "sourceArticleId": "hingol-national-park-wp",
       "sourceGeohash4": "tkw9",
-      "smallPath": "_m/t/k/w/9/hingol-national-park-wp/mehrgarh-ruins-small.jpg"
+      "smallPath": "_m/t/k/w/9/hingol-national-park-wp/mehrgarh-ruins-small.webp"
     }
   ],
   "galleryPaths": [
@@ -137,5 +137,24 @@
     "_m/t/k/w/9/hingol-national-park-wp/ziarat-overview.jpg",
     "_m/t/k/w/9/hingol-national-park-wp/mehrgarh-ruins.jpg"
   ],
-  "updatedAt": "2026-03-01T11:23:14.567Z"
+  "updatedAt": "2026-03-01T11:23:14.567Z",
+  "narration": {
+    "files": [
+      "tkw9-hingol-national-park-flight-context.mp3",
+      "tkw9-hingol-national-park-intro.mp3",
+      "tkw9-hingol-national-park-sculptures-without-sculptors.mp3",
+      "tkw9-hingol-national-park-where-the-earth-breathes-mud.mp3",
+      "tkw9-hingol-national-park-a-refuge-for-the-rare.mp3",
+      "tkw9-hingol-national-park-too-big-to-manage.mp3"
+    ],
+    "durations": {
+      "tkw9-hingol-national-park-flight-context.mp3": 48.8762083,
+      "tkw9-hingol-national-park-intro.mp3": 62.9647083,
+      "tkw9-hingol-national-park-sculptures-without-sculptors.mp3": 56.7370833,
+      "tkw9-hingol-national-park-where-the-earth-breathes-mud.mp3": 59.1925416,
+      "tkw9-hingol-national-park-a-refuge-for-the-rare.mp3": 64.1822916,
+      "tkw9-hingol-national-park-too-big-to-manage.mp3": 54.8346666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

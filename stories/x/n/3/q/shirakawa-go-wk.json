@@ -79,14 +79,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "liancourt-rocks-wp",
+      "title": "Liancourt Rocks",
+      "tile": "wytg",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 37.241666666667,
+        "lng": 131.86666666667
       },
-      "distanceKm": 1250.9
+      "distanceKm": 410.6
     },
     "n": {
       "id": "kaga-domain-wp",
@@ -158,5 +158,7 @@
       },
       "distanceKm": 15.9
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/3/q/shirakawa-go-bus-terminal-wp",
+  "locationWikivoyagePath": "x/n/3/q/shirakawa-go-wk"
 }

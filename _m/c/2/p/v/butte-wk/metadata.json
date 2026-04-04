@@ -26,8 +26,8 @@
     "sourceType": "core",
     "sourceArticleId": "butte-wk",
     "sourceGeohash4": "c2pv",
-    "smallPath": "_m/c/2/p/v/butte-wk/hero-small.jpg",
-    "mediumPath": "_m/c/2/p/v/butte-wk/hero-medium.jpg"
+    "smallPath": "_m/c/2/p/v/butte-wk/hero-small.webp",
+    "mediumPath": "_m/c/2/p/v/butte-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Mai Wah Building, Butte, Montana.jpg",
@@ -141,26 +141,24 @@
     "_m/c/2/p/v/berkeley-pit-wk/related-sibling-bert-mooney-airport-butte-mont.jpg",
     "_m/c/2/p/v/berkeley-pit-wk/related-sibling-our-lady-of-the-rockies-crop.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:10:28.819Z",
   "updatedAt": "2026-01-29T13:17:55.161Z",
   "narration": {
     "files": [
-      "c2pv-butte-a-town-that-remembers.mp3",
       "c2pv-butte-flight-context.mp3",
       "c2pv-butte-intro.mp3",
-      "c2pv-butte-mining-heritage.mp3",
+      "c2pv-butte-the-richest-hill.mp3",
       "c2pv-butte-the-pit.mp3",
-      "c2pv-butte-the-richest-hill.mp3"
+      "c2pv-butte-mining-heritage.mp3",
+      "c2pv-butte-a-town-that-remembers.mp3"
     ],
     "durations": {
-      "c2pv-butte-a-town-that-remembers.mp3": 54.432,
-      "c2pv-butte-flight-context.mp3": 53.136,
-      "c2pv-butte-intro.mp3": 49.968,
-      "c2pv-butte-mining-heritage.mp3": 55.392,
-      "c2pv-butte-the-pit.mp3": 59.088,
-      "c2pv-butte-the-richest-hill.mp3": 60.672
+      "c2pv-butte-flight-context.mp3": 50.997625,
+      "c2pv-butte-intro.mp3": 49.8102916,
+      "c2pv-butte-the-richest-hill.mp3": 58.5843333,
+      "c2pv-butte-the-pit.mp3": 58.7861666,
+      "c2pv-butte-mining-heritage.mp3": 59.31225,
+      "c2pv-butte-a-town-that-remembers.mp3": 54.290375
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:57.714Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

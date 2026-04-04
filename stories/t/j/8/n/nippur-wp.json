@@ -102,14 +102,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "gobekli-tepe-wk",
-      "title": "Göbekli Tepe: The Temple Built Before Agriculture",
-      "tile": "syee",
+      "id": "dura-europos-church-wp",
+      "title": "Dura-Europos Church",
+      "tile": "syhv",
       "coordinates": {
-        "lat": 37.2233,
-        "lng": 38.9224
+        "lat": 34.745829,
+        "lng": 40.727958
       },
-      "distanceKm": 753.2
+      "distanceKm": 450.9
     },
     "n": {
       "id": "kut-wp",
@@ -132,14 +132,14 @@
       "distanceKm": 20.9
     },
     "w": {
-      "id": "amman-wk",
-      "title": "Amman",
-      "tile": "sv9t",
+      "id": "armenian-genocide-memorial-church-der-zor-wp",
+      "title": "Armenian Genocide Memorial Church, Der Zor",
+      "tile": "syk8",
       "coordinates": {
-        "lat": 31.9454,
-        "lng": 35.9284
+        "lat": 35.2019,
+        "lng": 40.083
       },
-      "distanceKm": 822.1
+      "distanceKm": 546.8
     },
     "e": {
       "id": "siege-of-kut-wp",
@@ -152,14 +152,14 @@
       "distanceKm": 48.7
     },
     "sw": {
-      "id": "jerusalem-wk",
-      "title": "Jerusalem",
-      "tile": "sv9h",
+      "id": "dead-sea-wp",
+      "title": "Dead Sea",
+      "tile": "sv95",
       "coordinates": {
-        "lat": 31.7683,
-        "lng": 35.2137
+        "lat": 31.5207,
+        "lng": 35.4845
       },
-      "distanceKm": 891.4
+      "distanceKm": 867.6
     },
     "s": {
       "id": "ancient-mesopotamia-wk",
@@ -181,5 +181,6 @@
       },
       "distanceKm": 80.5
     }
-  }
+  },
+  "locationWikipediaPath": "t/j/8/n/nippur-wp"
 }

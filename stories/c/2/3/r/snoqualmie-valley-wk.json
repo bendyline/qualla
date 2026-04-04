@@ -69,24 +69,24 @@
   "locationWikipediaPath": "c/2/3/q/snoqualmie-valley-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "whidbey-island-wk",
-      "title": "Whidbey Island",
+      "id": "double-bluff-beach-wp",
+      "title": "Double Bluff Beach",
       "tile": "c28c",
       "coordinates": {
-        "lat": 48.136,
-        "lng": -122.582
+        "lat": 47.9985,
+        "lng": -122.505
       },
-      "distanceKm": 24.2
+      "distanceKm": 12.1
     },
     "n": {
-      "id": "camano-island-wk",
-      "title": "Camano Island",
+      "id": "leque-island-wp",
+      "title": "Leque Island",
       "tile": "c28f",
       "coordinates": {
-        "lat": 48.182333333333,
-        "lng": -122.50444444444
+        "lat": 48.2348,
+        "lng": -122.38573
       },
-      "distanceKm": 55.5
+      "distanceKm": 50.4
     },
     "ne": {
       "id": "north-cascades-national-park-wk",
@@ -99,14 +99,14 @@
       "distanceKm": 61.7
     },
     "w": {
-      "id": "edmonds-wk",
-      "title": "Edmonds",
+      "id": "carkeek-park-wp",
+      "title": "Carkeek Park",
       "tile": "c22z",
       "coordinates": {
-        "lat": 47.807869,
-        "lng": -122.360133
+        "lat": 47.70954,
+        "lng": -122.3718
       },
-      "distanceKm": 9.3
+      "distanceKm": 2.7
     },
     "e": {
       "id": "leavenworth-washington-wk",

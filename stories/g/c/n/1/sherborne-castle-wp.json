@@ -1,0 +1,157 @@
+{
+  "id": "sherborne-castle-wp",
+  "source": "wikipedia",
+  "sourceId": "1120528",
+  "title": "Sherborne Castle",
+  "slug": "sherborne-castle",
+  "summary": "Sir Walter Raleigh fell in love with Sherborne's medieval castle, then built a new lodge next door -- and lost both to the Crown, beginning four centuries of drama that left one in ruins and the other still lived in today.",
+  "content": {
+    "intro": "Walter Raleigh was on his way to Plymouth when he first saw Sherborne. The medieval castle on its hill, the green Dorset countryside rolling away in every direction -- he wanted it immediately. Queen Elizabeth leased him the estate in 1592, and Raleigh, rather than renovate the twelfth-century fortress, built himself something new: a four-storey brick lodge in the park, a place the antiquary John Aubrey later described as \"a delicate Lodge... not big, but very convenient for its bignes, a place to retire from the Court in summer time, and to contemplate.\"",
+    "sections": [
+      {
+        "title": "The Bishop's Fortress",
+        "body": "The story of Sherborne begins centuries before Raleigh. The building now known as Sherborne Old Castle was constructed in the twelfth century as the fortified palace of Roger de Caen, Bishop of Salisbury and Chancellor of England. During the Anarchy of the 1140s, when Stephen and Matilda fought for the English throne, the castle was captured by Robert, Earl of Gloucester, who considered it \"the master-key of the whole kingdom.\" Its position in the rolling Dorset landscape gave it strategic importance far beyond its size. For four hundred years, it passed through ecclesiastical and royal hands before Raleigh arrived and decided its future."
+      },
+      {
+        "title": "Raleigh's Lodge and Its Loss",
+        "body": "Raleigh completed his lodge in 1594. It was an unusual building for its time, with four polygonal corner turrets that gestured toward military defence without actually providing any, a nod to the medieval castle visible across the park. The entrance was cleverly disguised in one corner tower to preserve the facade's symmetry. But Raleigh's enjoyment was brief. His imprisonment in the Tower of London left the estate vulnerable, and King James first leased it to Robert Carr, then sold it outright to Sir John Digby, 1st Earl of Bristol, in 1617. The Digby family added four wings in the 1620s, transforming Raleigh's compact lodge into the mansion now known as Sherborne Castle."
+      },
+      {
+        "title": "Civil War and Destruction",
+        "body": "The English Civil War tore Sherborne apart, literally. Lord Digby was a Royalist advisor to Charles I, and the area was strongly Royalist. The fortified old castle changed hands twice: captured by Parliamentarians in September 1642, recaptured by Royalists in February 1643. In August 1645, Sir Thomas Fairfax and the New Model Army laid siege, subjecting the castle to heavy bombardment and mining until the Royalist garrison under Sir Lewis Dyve surrendered on 17 August. Two months later, Parliament ordered the old castle slighted. Its walls were torn down to prevent any future military use, leaving the picturesque ruin that stands today. Raleigh's lodge, being neither fortified nor strategically significant, survived."
+      },
+      {
+        "title": "Landscape and Legacy",
+        "body": "In the eighteenth century, the Digby heirs turned destruction into design. The 5th Lord Digby laid out grounds that Alexander Pope praised, and in 1753 Capability Brown created the lake that now separates the ruined old castle from the lived-in new one. The ruins became a deliberate feature of the garden, picturesque among the trees across the water. George III visited in 1789. During the First World War, the mansion served as a Red Cross hospital; during the Second, it housed the commando headquarters for the D-Day landings. The Wingfield Digby family, who inherited in 1856, still own the property. Both the mansion and the ruins hold Grade I listed status, and the gardens are open to the public for much of the year, a landscape where the wreckage of civil war has become part of the beauty."
+      }
+    ],
+    "flightContext": "Located at 50.946N, 2.501W, southeast of Sherborne town. The ruined old castle and the Tudor mansion are both visible, separated by Capability Brown's lake. The paired structures within parkland are distinctive from the air. Nearest airports: Yeovil/Westland (EGHG) approximately 6nm south, Bournemouth (EGHH) approximately 28nm southeast. Best viewed from 1,500-2,500ft."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 50.946,
+      "lng": -2.5008
+    },
+    "geohash": "gcn1z"
+  },
+  "categories": [
+    "Castles in Dorset",
+    "Country houses in Dorset",
+    "Gardens by Capability Brown",
+    "Grade I listed buildings in Dorset"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 720,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 10272
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Sherborne Castle - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sherborne_Castle",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Queen Elizabeth leased estate to Raleigh in 1592 confirmed",
+        "Raleigh completed his lodge in 1594 confirmed",
+        "King James sold estate to Sir John Digby, 1st Earl of Bristol, in 1617 confirmed",
+        "Digby family added four wings in the 1620s confirmed",
+        "Old castle captured by Parliamentarians September 1642, recaptured February 1643 confirmed",
+        "Sir Thomas Fairfax and New Model Army laid siege in August 1645; Royalist garrison under Sir Lewis Dyve surrendered 17 August confirmed",
+        "Parliament ordered castle slighted shortly after; 5th Lord Digby and Capability Brown lake in 1753 confirmed",
+        "George III visited in 1789 confirmed",
+        "Wingfield Digby family inherited in 1856 confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "g/c/n/1/sherborne-castle-wp",
+  "locationWikivoyagePath": "g/c/n/1/sherborne-wk",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "cleeve-abbey-wp",
+      "title": "Cleeve Abbey",
+      "tile": "gcje",
+      "coordinates": {
+        "lat": 51.155556,
+        "lng": -3.364167
+      },
+      "distanceKm": 14
+    },
+    "n": {
+      "id": "wells-cathedral-wp",
+      "title": "Wells Cathedral",
+      "tile": "gcn5",
+      "coordinates": {
+        "lat": 51.2104,
+        "lng": -2.6437
+      },
+      "distanceKm": 6.5
+    },
+    "ne": {
+      "id": "stonehenge-landscape-wp",
+      "title": "Stonehenge Landscape",
+      "tile": "gcne",
+      "coordinates": {
+        "lat": 51.179,
+        "lng": -1.828
+      },
+      "distanceKm": 19.8
+    },
+    "w": {
+      "id": "dunster-castle-wp",
+      "title": "Dunster Castle",
+      "tile": "gcje",
+      "coordinates": {
+        "lat": 51.1814,
+        "lng": -3.44427
+      },
+      "distanceKm": 38
+    },
+    "e": {
+      "id": "corfe-castle-wp",
+      "title": "Corfe Castle",
+      "tile": "gcn8",
+      "coordinates": {
+        "lat": 50.6399,
+        "lng": -2.0589
+      },
+      "distanceKm": 27.9
+    },
+    "sw": {
+      "id": "1941-santander-fire-wp",
+      "title": "1941 Santander Fire",
+      "tile": "eztr",
+      "coordinates": {
+        "lat": 43.45979444444445,
+        "lng": -3.809361111111111
+      },
+      "distanceKm": 798.2
+    },
+    "s": {
+      "id": "guernsey-wk",
+      "title": "Guernsey",
+      "tile": "gby1",
+      "coordinates": {
+        "lat": 49.45,
+        "lng": -2.55
+      },
+      "distanceKm": 130.8
+    },
+    "se": {
+      "id": "d-day-beaches-wk",
+      "title": "D-Day: The Longest Day",
+      "tile": "gbzb",
+      "coordinates": {
+        "lat": 49.24209,
+        "lng": -0.27375
+      },
+      "distanceKm": 202.2
+    }
+  }
+}

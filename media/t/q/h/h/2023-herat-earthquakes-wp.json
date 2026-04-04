@@ -23,8 +23,8 @@
           "Images with extracted images",
           "PD VOA"
         ],
-        "mediumPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/hero-medium.jpg",
-        "smallPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/hero-small.jpg"
+        "mediumPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/hero-medium.webp",
+        "smallPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/hero-small.webp"
       },
       "images": [
         {
@@ -73,7 +73,7 @@
             "Images with extracted images",
             "PD VOA"
           ],
-          "smallPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/destruction-herat-prov-small.png"
+          "smallPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/destruction-herat-prov-small.webp"
         },
         {
           "path": "_m/t/q/h/h/2023-herat-earthquakes-wp/2023-herat-earthquakes-damage-.png",
@@ -95,7 +95,7 @@
             "CC-PD-Mark",
             "PD VOA"
           ],
-          "smallPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/2023-herat-earthquakes-damage--small.png"
+          "smallPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/2023-herat-earthquakes-damage--small.webp"
         },
         {
           "path": "_m/t/q/h/h/2023-herat-earthquakes-wp/2023-herat-earthquakes-relief-.png",
@@ -117,8 +117,8 @@
             "CC-PD-Mark",
             "PD VOA"
           ],
-          "mediumPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/2023-herat-earthquakes-relief--medium.png",
-          "smallPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/2023-herat-earthquakes-relief--small.png"
+          "mediumPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/2023-herat-earthquakes-relief--medium.webp",
+          "smallPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/2023-herat-earthquakes-relief--small.webp"
         },
         {
           "path": "_m/t/q/h/h/2023-herat-earthquakes-wp/2023-herat-earthquakes-rescue-.png",
@@ -141,7 +141,7 @@
             "Extracted images",
             "PD VOA"
           ],
-          "smallPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/2023-herat-earthquakes-rescue--small.png"
+          "smallPath": "_m/t/q/h/h/2023-herat-earthquakes-wp/2023-herat-earthquakes-rescue--small.webp"
         },
         {
           "path": "_m/t/q/h/5/herat-wk/friday-mosque-jumah-mo.jpg",
@@ -338,7 +338,17 @@
           "sourceGeohash4": "tqh5",
           "accessedAt": "2026-03-01T17:41:09.495Z"
         }
-      ]
+      ],
+      "narration": [
+        "_m/t/q/h/h/2023-herat-earthquakes-wp/tqhh-2023-herat-earthquakes-flight-context.mp3",
+        "_m/t/q/h/h/2023-herat-earthquakes-wp/tqhh-2023-herat-earthquakes-intro.mp3",
+        "_m/t/q/h/h/2023-herat-earthquakes-wp/tqhh-2023-herat-earthquakes-fault-lines-visible-and-invisible.mp3",
+        "_m/t/q/h/h/2023-herat-earthquakes-wp/tqhh-2023-herat-earthquakes-digging-with-bare-hands.mp3",
+        "_m/t/q/h/h/2023-herat-earthquakes-wp/tqhh-2023-herat-earthquakes-a-tent-city-in-winter.mp3",
+        "_m/t/q/h/h/2023-herat-earthquakes-wp/tqhh-2023-herat-earthquakes-the-world-responds.mp3",
+        "_m/t/q/h/h/2023-herat-earthquakes-wp/tqhh-2023-herat-earthquakes-building-back-one-wall-at-a-time.mp3"
+      ],
+      "combinedNarration": "_m/t/q/h/h/2023-herat-earthquakes-wp/tqhh-2023-herat-earthquakes-combined.mp3"
     }
   }
 }

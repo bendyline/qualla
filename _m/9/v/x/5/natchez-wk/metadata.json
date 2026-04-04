@@ -31,8 +31,8 @@
     "sourceType": "core",
     "sourceArticleId": "natchez-wk",
     "sourceGeohash4": "9vx5",
-    "smallPath": "_m/9/v/x/5/natchez-wk/hero-small.jpg",
-    "mediumPath": "_m/9/v/x/5/natchez-wk/hero-medium.jpg"
+    "smallPath": "_m/9/v/x/5/natchez-wk/hero-small.webp",
+    "mediumPath": "_m/9/v/x/5/natchez-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "MammyCupboard4Sept2008Front.jpg",
@@ -211,7 +211,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "natchez-wk",
-      "sourceGeohash4": "9vx5"
+      "sourceGeohash4": "9vx5",
+      "smallPath": "_m/9/v/x/5/natchez-wk/natchez-mound2-hroe-2004-small.webp"
     },
     {
       "filename": "American Museum of Natural History in Manhattan, New York City, United States of America (9860122156).jpg",
@@ -228,7 +229,9 @@
       "dateCreated": "2009-09-20 18:01",
       "sourceType": "commons-category",
       "sourceArticleId": "natchez-wk",
-      "sourceGeohash4": "9vx5"
+      "sourceGeohash4": "9vx5",
+      "mediumPath": "_m/9/v/x/5/natchez-wk/american-museum-of-natural-his-medium.webp",
+      "smallPath": "_m/9/v/x/5/natchez-wk/american-museum-of-natural-his-small.webp"
     }
   ],
   "galleryPaths": [
@@ -240,7 +243,6 @@
     "_m/9/v/x/5/natchez-wk/natchez-mound2-hroe-2004.jpg",
     "_m/9/v/x/5/natchez-wk/american-museum-of-natural-his.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:25:09.682Z",
   "updatedAt": "2026-02-21T23:25:11.276Z",
   "narration": {
     "files": [
@@ -261,7 +263,6 @@
       "9vx5-natchez-the-antebellum-city-that-cotton-built-and--the-natchez-trace.mp3": 46.6377083,
       "9vx5-natchez-the-antebellum-city-that-cotton-built-and--under-the-hill.mp3": 46.1375
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:56.813Z"
+    "voice": "unknown"
   }
 }

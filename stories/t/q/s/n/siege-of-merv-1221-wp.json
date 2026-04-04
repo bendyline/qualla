@@ -60,32 +60,49 @@
       "title": "Siege of Merv (1221) - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Siege_of_Merv_(1221)",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Tolui's army estimated 30,000-50,000 (some sources say 7,000 core Mongols augmented by Khwarazmian conscripts) confirmed", "siege lasted seven to ten days confirmed", "Ibn al-Athir death toll 700,000 confirmed", "Juvayni figure 1,300,000 confirmed", "April 1221 date confirmed"]
+      "claimsVerified": [
+        "Tolui's army estimated 30,000-50,000 (some sources say 7,000 core Mongols augmented by Khwarazmian conscripts) confirmed",
+        "siege lasted seven to ten days confirmed",
+        "Ibn al-Athir death toll 700,000 confirmed",
+        "Juvayni figure 1,300,000 confirmed",
+        "April 1221 date confirmed"
+      ]
     },
     {
       "type": "verification",
       "title": "Battle of Parwan - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Parwan",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Jalal ad-Din defeated Mongol force at Battle of Parwan confirmed", "Merv rebelled after Parwan victory confirmed", "Battle of Parwan in 1221 confirmed"]
+      "claimsVerified": [
+        "Jalal ad-Din defeated Mongol force at Battle of Parwan confirmed",
+        "Merv rebelled after Parwan victory confirmed",
+        "Battle of Parwan in 1221 confirmed"
+      ]
     },
     {
       "type": "verification",
       "title": "Merv - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Merv",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["UNESCO World Heritage Site designation of ancient Merv ruins confirmed", "Merv served as capital of Abbasid Caliphate under al-Ma'mun confirmed", "Yaqut al-Hamawi ten libraries including one with 12,000 volumes confirmed"]
+      "claimsVerified": [
+        "UNESCO World Heritage Site designation of ancient Merv ruins confirmed",
+        "Merv served as capital of Abbasid Caliphate under al-Ma'mun confirmed",
+        "Yaqut al-Hamawi ten libraries including one with 12,000 volumes confirmed"
+      ]
     }
   ],
   "editorial": {
     "spiciness": 3,
-    "strongOpinions": ["Opening with the ten libraries as a rhetorical framing of cultural loss is a strong editorial choice", "phrase 'not occupation. It was annihilation' — clear authorial voice"]
+    "strongOpinions": [
+      "Opening with the ten libraries as a rhetorical framing of cultural loss is a strong editorial choice",
+      "phrase 'not occupation. It was annihilation' — clear authorial voice"
+    ]
   },
   "directionalNeighbors": {
     "nw": {
       "id": "bactria-margiana-archaeological-complex-wp",
       "title": "Bactria-Margiana Archaeological Complex",
-      "tile": "tqts",
+      "tile": "tqg9",
       "coordinates": {
         "lat": 38.233333333333,
         "lng": 61.45
@@ -162,5 +179,6 @@
       },
       "distanceKm": 232
     }
-  }
+  },
+  "locationWikipediaPath": "t/q/s/n/siege-of-merv-1221-wp"
 }

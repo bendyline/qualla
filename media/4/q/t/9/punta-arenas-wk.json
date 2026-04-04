@@ -3,12 +3,12 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/4/q/t/9/punta-arenas-wk/4qt9-punta-arenas-intro.mp3",
         "_m/4/q/t/9/punta-arenas-wk/4qt9-punta-arenas-flight-context.mp3",
+        "_m/4/q/t/9/punta-arenas-wk/4qt9-punta-arenas-intro.mp3",
         "_m/4/q/t/9/punta-arenas-wk/4qt9-punta-arenas-gateway-to-everywhere.mp3",
-        "_m/4/q/t/9/punta-arenas-wk/4qt9-punta-arenas-penguin-country.mp3",
-        "_m/4/q/t/9/punta-arenas-wk/4qt9-punta-arenas-strait-of-legends.mp3",
         "_m/4/q/t/9/punta-arenas-wk/4qt9-punta-arenas-the-wool-barons.mp3",
+        "_m/4/q/t/9/punta-arenas-wk/4qt9-punta-arenas-strait-of-legends.mp3",
+        "_m/4/q/t/9/punta-arenas-wk/4qt9-punta-arenas-penguin-country.mp3",
         "_m/4/q/t/9/punta-arenas-wk/4qt9-punta-arenas-where-the-weather-rules.mp3"
       ],
       "hero": {
@@ -32,7 +32,9 @@
           "Images by user:Fredlyfish4",
           "Panoramics in Punta Arenas",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/4/q/t/9/punta-arenas-wk/hero-medium.webp",
+        "smallPath": "_m/4/q/t/9/punta-arenas-wk/hero-small.webp"
       },
       "images": [
         {
@@ -59,7 +61,7 @@
             "Self-published work",
             "Taken with Canon PowerShot G9"
           ],
-          "smallPath": "_m/4/q/t/9/punta-arenas-wk/presidente-carlos-iban-small.jpg"
+          "smallPath": "_m/4/q/t/9/punta-arenas-wk/presidente-carlos-iban-small.webp"
         },
         {
           "path": "_m/4/q/t/9/punta-arenas-wk/emilio-kovacevich-stre.jpg",
@@ -86,7 +88,7 @@
             "Streets in Chile",
             "Taken with Nikon D5000"
           ],
-          "smallPath": "_m/4/q/t/9/punta-arenas-wk/emilio-kovacevich-stre-small.jpg"
+          "smallPath": "_m/4/q/t/9/punta-arenas-wk/emilio-kovacevich-stre-small.webp"
         },
         {
           "path": "_m/4/q/t/9/punta-arenas-wk/spheniscus-magellanicu.jpg",
@@ -114,8 +116,8 @@
             "Spheniscus magellanicus (groups)",
             "Taken with Canon EOS 400D"
           ],
-          "smallPath": "_m/4/q/t/9/punta-arenas-wk/spheniscus-magellanicu-small.jpg",
-          "mediumPath": "_m/4/q/t/9/punta-arenas-wk/spheniscus-magellanicu-medium.jpg"
+          "smallPath": "_m/4/q/t/9/punta-arenas-wk/spheniscus-magellanicu-small.webp",
+          "mediumPath": "_m/4/q/t/9/punta-arenas-wk/spheniscus-magellanicu-medium.webp"
         },
         {
           "path": "_m/4/q/t/9/punta-arenas-wk/photo-national-monumen.jpg",
@@ -143,8 +145,8 @@
             "Self-published work",
             "Taken with iPhone 4"
           ],
-          "smallPath": "_m/4/q/t/9/punta-arenas-wk/photo-national-monumen-small.jpg",
-          "mediumPath": "_m/4/q/t/9/punta-arenas-wk/photo-national-monumen-medium.jpg"
+          "smallPath": "_m/4/q/t/9/punta-arenas-wk/photo-national-monumen-small.webp",
+          "mediumPath": "_m/4/q/t/9/punta-arenas-wk/photo-national-monumen-medium.webp"
         },
         {
           "path": "_m/4/q/t/9/punta-arenas-wk/image-uploaded-part-wi.jpg",
@@ -171,8 +173,8 @@
             "Self-published work",
             "Taken with Canon EOS 400D"
           ],
-          "smallPath": "_m/4/q/t/9/punta-arenas-wk/image-uploaded-part-wi-small.jpg",
-          "mediumPath": "_m/4/q/t/9/punta-arenas-wk/image-uploaded-part-wi-medium.jpg"
+          "smallPath": "_m/4/q/t/9/punta-arenas-wk/image-uploaded-part-wi-small.webp",
+          "mediumPath": "_m/4/q/t/9/punta-arenas-wk/image-uploaded-part-wi-medium.webp"
         },
         {
           "path": "_m/4/q/t/9/punta-arenas-wk/puerto-del-hambre-ubic.jpg",
@@ -189,7 +191,7 @@
           "sourceArticleId": "punta-arenas-wk",
           "sourceGeohash4": "4qt9",
           "accessedAt": "2026-02-21T20:05:57.462Z",
-          "smallPath": "_m/4/q/t/9/punta-arenas-wk/puerto-del-hambre-ubic-small.jpg"
+          "smallPath": "_m/4/q/t/9/punta-arenas-wk/puerto-del-hambre-ubic-small.webp"
         },
         {
           "path": "_m/4/q/t/9/punta-arenas-wk/stadtzentrum-von-punta.jpg",
@@ -206,7 +208,7 @@
           "sourceArticleId": "punta-arenas-wk",
           "sourceGeohash4": "4qt9",
           "accessedAt": "2026-02-21T20:05:57.462Z",
-          "smallPath": "_m/4/q/t/9/punta-arenas-wk/stadtzentrum-von-punta-small.jpg"
+          "smallPath": "_m/4/q/t/9/punta-arenas-wk/stadtzentrum-von-punta-small.webp"
         },
         {
           "path": "_m/4/q/t/9/punta-arenas-wk/kilometer-210-ruta-9-p.jpg",
@@ -223,8 +225,8 @@
           "sourceArticleId": "punta-arenas-wk",
           "sourceGeohash4": "4qt9",
           "accessedAt": "2026-02-21T20:05:57.462Z",
-          "smallPath": "_m/4/q/t/9/punta-arenas-wk/kilometer-210-ruta-9-p-small.jpg",
-          "mediumPath": "_m/4/q/t/9/punta-arenas-wk/kilometer-210-ruta-9-p-medium.jpg"
+          "smallPath": "_m/4/q/t/9/punta-arenas-wk/kilometer-210-ruta-9-p-small.webp",
+          "mediumPath": "_m/4/q/t/9/punta-arenas-wk/kilometer-210-ruta-9-p-medium.webp"
         },
         {
           "path": "_m/4/q/t/9/punta-arenas-wk/fotografia-de-la-bande.jpg",
@@ -241,8 +243,8 @@
           "sourceArticleId": "punta-arenas-wk",
           "sourceGeohash4": "4qt9",
           "accessedAt": "2026-02-21T20:05:57.462Z",
-          "smallPath": "_m/4/q/t/9/punta-arenas-wk/fotografia-de-la-bande-small.jpg",
-          "mediumPath": "_m/4/q/t/9/punta-arenas-wk/fotografia-de-la-bande-medium.jpg"
+          "smallPath": "_m/4/q/t/9/punta-arenas-wk/fotografia-de-la-bande-small.webp",
+          "mediumPath": "_m/4/q/t/9/punta-arenas-wk/fotografia-de-la-bande-medium.webp"
         },
         {
           "path": "_m/4/q/t/9/punta-arenas-wk/catedral-de-punta-aren.jpg",
@@ -259,8 +261,8 @@
           "sourceArticleId": "punta-arenas-wk",
           "sourceGeohash4": "4qt9",
           "accessedAt": "2026-02-21T20:05:57.462Z",
-          "smallPath": "_m/4/q/t/9/punta-arenas-wk/catedral-de-punta-aren-small.jpg",
-          "mediumPath": "_m/4/q/t/9/punta-arenas-wk/catedral-de-punta-aren-medium.jpg"
+          "smallPath": "_m/4/q/t/9/punta-arenas-wk/catedral-de-punta-aren-small.webp",
+          "mediumPath": "_m/4/q/t/9/punta-arenas-wk/catedral-de-punta-aren-medium.webp"
         },
         {
           "path": "_m/4/q/t/9/punta-arenas-wk/arboles-en-punta-arena.jpg",
@@ -277,7 +279,7 @@
           "sourceArticleId": "punta-arenas-wk",
           "sourceGeohash4": "4qt9",
           "accessedAt": "2026-02-21T20:05:57.462Z",
-          "smallPath": "_m/4/q/t/9/punta-arenas-wk/arboles-en-punta-arena-small.jpg"
+          "smallPath": "_m/4/q/t/9/punta-arenas-wk/arboles-en-punta-arena-small.webp"
         },
         {
           "path": "_m/4/q/t/9/punta-arenas-wk/hotel-plaza-am-plaza-m.jpg",
@@ -294,8 +296,8 @@
           "sourceArticleId": "punta-arenas-wk",
           "sourceGeohash4": "4qt9",
           "accessedAt": "2026-02-21T20:05:57.462Z",
-          "smallPath": "_m/4/q/t/9/punta-arenas-wk/hotel-plaza-am-plaza-m-small.jpg",
-          "mediumPath": "_m/4/q/t/9/punta-arenas-wk/hotel-plaza-am-plaza-m-medium.jpg"
+          "smallPath": "_m/4/q/t/9/punta-arenas-wk/hotel-plaza-am-plaza-m-small.webp",
+          "mediumPath": "_m/4/q/t/9/punta-arenas-wk/hotel-plaza-am-plaza-m-medium.webp"
         },
         {
           "path": "_m/4/q/t/9/punta-arenas-wk/maria-auxiliadora-chur.jpg",
@@ -312,8 +314,8 @@
           "sourceArticleId": "punta-arenas-wk",
           "sourceGeohash4": "4qt9",
           "accessedAt": "2026-02-21T20:05:57.462Z",
-          "smallPath": "_m/4/q/t/9/punta-arenas-wk/maria-auxiliadora-chur-small.jpg",
-          "mediumPath": "_m/4/q/t/9/punta-arenas-wk/maria-auxiliadora-chur-medium.jpg"
+          "smallPath": "_m/4/q/t/9/punta-arenas-wk/maria-auxiliadora-chur-small.webp",
+          "mediumPath": "_m/4/q/t/9/punta-arenas-wk/maria-auxiliadora-chur-medium.webp"
         },
         {
           "path": "_m/4/q/t/9/punta-arenas-wk/maria-behety-park-punt.jpg",
@@ -330,8 +332,8 @@
           "sourceArticleId": "punta-arenas-wk",
           "sourceGeohash4": "4qt9",
           "accessedAt": "2026-02-21T20:05:57.462Z",
-          "smallPath": "_m/4/q/t/9/punta-arenas-wk/maria-behety-park-punt-small.jpg",
-          "mediumPath": "_m/4/q/t/9/punta-arenas-wk/maria-behety-park-punt-medium.jpg"
+          "smallPath": "_m/4/q/t/9/punta-arenas-wk/maria-behety-park-punt-small.webp",
+          "mediumPath": "_m/4/q/t/9/punta-arenas-wk/maria-behety-park-punt-medium.webp"
         },
         {
           "path": "_m/4/q/t/9/punta-arenas-wk/strait-punta-arenas.jpg",
@@ -348,8 +350,8 @@
           "sourceArticleId": "punta-arenas-wk",
           "sourceGeohash4": "4qt9",
           "accessedAt": "2026-02-21T20:05:57.462Z",
-          "smallPath": "_m/4/q/t/9/punta-arenas-wk/strait-punta-arenas-small.jpg",
-          "mediumPath": "_m/4/q/t/9/punta-arenas-wk/strait-punta-arenas-medium.jpg"
+          "smallPath": "_m/4/q/t/9/punta-arenas-wk/strait-punta-arenas-small.webp",
+          "mediumPath": "_m/4/q/t/9/punta-arenas-wk/strait-punta-arenas-medium.webp"
         },
         {
           "path": "_m/tpc/pu/nt/a-/ar/punta-arenas/laurence-m-gould.jpg",
@@ -925,7 +927,8 @@
           "sourceGeohash4": "4qt8",
           "accessedAt": "2026-02-21T20:05:57.462Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/4/q/t/9/punta-arenas-wk/4qt9-punta-arenas-combined.mp3"
     }
   }
 }

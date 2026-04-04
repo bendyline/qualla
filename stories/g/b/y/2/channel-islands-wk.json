@@ -90,44 +90,44 @@
   ],
   "directionalNeighbors": {
     "nw": {
-      "id": "fishguard-wk",
-      "title": "The Battle of Fishguard: The Last Invasion of Britain",
-      "tile": "gchr",
+      "id": "castle-drogo-wp",
+      "title": "Castle Drogo",
+      "tile": "gcj2",
       "coordinates": {
-        "lat": 51.9944,
-        "lng": -4.98
+        "lat": 50.6959,
+        "lng": -3.811
       },
-      "distanceKm": 309.6
+      "distanceKm": 144
     },
     "n": {
-      "id": "stonehenge-mystery-wk",
-      "title": "Stonehenge: The Mystery That Won't Die",
-      "tile": "gcne",
+      "id": "lulworth-castle-wp",
+      "title": "Lulworth Castle",
+      "tile": "gcn2",
       "coordinates": {
-        "lat": 51.1789,
-        "lng": -1.8262
+        "lat": 50.6391,
+        "lng": -2.20876
       },
-      "distanceKm": 181.8
+      "distanceKm": 119
     },
     "ne": {
-      "id": "carrington-event-wk",
-      "title": "The Carrington Event: The Solar Storm That Could Happen Again",
-      "tile": "gcpg",
+      "id": "hurst-castle-wp",
+      "title": "Hurst Castle",
+      "tile": "gcnb",
       "coordinates": {
-        "lat": 51.2404,
-        "lng": -0.1708
+        "lat": 50.7064,
+        "lng": -1.5512
       },
-      "distanceKm": 217.1
+      "distanceKm": 127.2
     },
     "w": {
-      "id": "lusitania-sinking-wk",
-      "title": "The Sinking of the Lusitania: The Torpedo That Changed the War",
-      "tile": "gc1u",
+      "id": "launceston-castle-wp",
+      "title": "Launceston Castle",
+      "tile": "gchb",
       "coordinates": {
-        "lat": 51.4,
-        "lng": -8.55
+        "lat": 50.6376,
+        "lng": -4.36142
       },
-      "distanceKm": 468.7
+      "distanceKm": 184.9
     },
     "e": {
       "id": "d-day-beaches-wk",
@@ -140,24 +140,24 @@
       "distanceKm": 107.9
     },
     "sw": {
-      "id": "bilbao-wk",
-      "title": "Bilbao",
-      "tile": "ezty",
+      "id": "1941-santander-fire-wp",
+      "title": "1941 Santander Fire",
+      "tile": "eztr",
       "coordinates": {
-        "lat": 43.263,
-        "lng": -2.935
+        "lat": 43.45979444444445,
+        "lng": -3.809361111111111
       },
-      "distanceKm": 642.8
+      "distanceKm": 625.5
     },
     "s": {
-      "id": "versailles-wk",
-      "title": "Versailles: The Palace That Bankrupted France",
-      "tile": "u09t",
+      "id": "1955-le-mans-disaster-wp",
+      "title": "1955 Le Mans Disaster",
+      "tile": "u080",
       "coordinates": {
-        "lat": 48.8049,
-        "lng": 2.1204
+        "lat": 47.9499,
+        "lng": 0.207222
       },
-      "distanceKm": 322.9
+      "distanceKm": 220.2
     },
     "se": {
       "id": "mont-saint-michel-wk",

@@ -1,0 +1,169 @@
+{
+  "id": "murchison-widefield-array-wp",
+  "source": "wikipedia",
+  "sourceId": "8868524",
+  "title": "Murchison Widefield Array",
+  "slug": "murchison-widefield-array",
+  "summary": "A field of hundreds of spider-like antennas in the Western Australian outback, listening for the echo of the first stars that ever shone.",
+  "content": {
+    "intro": "An undergraduate student named Tyrone O'Doherty was sifting through archival data from the Murchison Widefield Array when he found something no one had seen before: a radio source 4,000 light-years away in the constellation Norma, pulsing brightly for up to a minute every 18 minutes and 11 seconds. Published in Nature in January 2022, the object -- designated GLEAM-X J162759.5-523504.3 -- matched no known category. It might be a magnetar. It might be something entirely new. Either way, it was the kind of discovery that happens when you build a telescope designed to see wide rather than deep, and then point it at everything.",
+    "sections": [
+      {
+        "title": "Spider Webs in the Dust",
+        "body": "The MWA does not look like a traditional telescope. There are no towering dishes or domed buildings. Instead, 256 antenna tiles lie flat against the red earth of the Murchison Radio-astronomy Observatory, 800 kilometres north of Perth. Each tile is a four-by-four grid of crossed metal dipoles on a steel mesh ground plane, covering just four metres square. From above, they resemble metallic spider webs scattered across the scrubland. What they lack in visual drama they make up for in collective power: operating in the frequency range of 70 to 300 MHz, the MWA can see a swath of sky 30 degrees across in a single observation -- hundreds of square degrees at a resolution of several arcminutes. It is not trying to stare at individual stars. It is trying to photograph the radio universe in wide-angle."
+      },
+      {
+        "title": "Hunting the First Light",
+        "body": "The MWA's primary scientific target is one of the most elusive signals in cosmology: the redshifted 21-centimetre hydrogen line from the Epoch of Reionization. Roughly 13 billion years ago, the first generation of stars and galaxies ignited and their ultraviolet radiation gradually ionized the neutral hydrogen that filled the early universe, transforming it from opaque fog into the transparent cosmos we observe today. The MWA is designed to detect the faint statistical signature of that transition -- not by imaging individual sources, but by measuring the collective glow of neutral hydrogen across enormous volumes of space. It is one of four official precursors to the Square Kilometre Array, alongside ASKAP at the same site, and South Africa's MeerKAT and HERA telescopes."
+      },
+      {
+        "title": "Built in Phases",
+        "body": "The array grew incrementally. A 32-tile prototype operated from 2007 to 2011, testing hardware and making initial observations. Phase I, with 128 tiles, was completed in late 2012 and fully commissioned on 20 June 2013 at a cost of A$51 million. Phase II doubled the tile count to 256, with the upgrade practically completed in October 2017 and officially launched on 23 April 2018. The new tiles were arranged in two configurations -- compact hexagonal clusters for precision calibration, and extended baselines stretching to five kilometres for higher angular resolution. Phase III began in 2022 with the MWAX correlator and continued through 2025 with new digital receivers, finally enabling full correlation of all 256 tiles simultaneously. The result: doubled sensitivity and quadrupled data output."
+      },
+      {
+        "title": "Plasma Tubes and Cosmic Maps",
+        "body": "Beyond the headline discoveries, the MWA has generated a steady stream of results across astrophysics. In 2015, undergraduate student Cleo Loi used MWA data to make the first detection of plasma tubes in Earth's ionosphere -- elongated structures of charged particles drifting overhead that had been theorized but never directly observed. Loi won the Astronomical Society of Australia's Bok Prize for the work. The telescope's GLEAM survey has produced one of the most detailed low-frequency maps of the radio sky, cataloguing hundreds of thousands of sources and making the data freely available through the Australian All-Sky Virtual Observatory. The MWA has also contributed to space debris tracking, observations of galaxy cluster haloes, and studies of the Sun's radio emissions during coronal mass ejections."
+      },
+      {
+        "title": "A Global Collaboration on Remote Soil",
+        "body": "By 2024, the MWA consortium had grown to 30 partner organizations across six countries -- Australia, the United States, Canada, Japan, China, and Switzerland -- with 243 individual scientists contributing to its research programs. Curtin University in Perth leads the project, with consortium leads at Brown University, the Swiss EPFL, Kumamoto University, the Shanghai Astronomical Observatory, and the University of Alberta. The data travel from the outback to the Pawsey Supercomputing Centre in Perth via high-bandwidth fibre, and from there to researchers worldwide. All of this science flows from a patch of Western Australian scrubland where, on a clear night, the Milky Way is so bright it casts shadows, and the only sound is wind moving through spinifex grass."
+      }
+    ],
+    "flightContext": "The Murchison Widefield Array is located at approximately 26.70S, 116.67E within the Murchison Radio-astronomy Observatory in outback Western Australia, 800 km north of Perth. The antenna tiles are low-profile and difficult to spot from altitude, but the cleared areas and access roads are visible. The site is within a protected radio quiet zone. Meekatharra Airport (ICAO: YMEK) lies roughly 200 km to the southeast. The terrain is flat scrubland. Best viewed at low altitude for individual tile visibility, or at 10,000+ ft to appreciate the scale of the array's spread across the landscape."
+  },
+  "location": {
+    "coordinates": {
+      "lat": -26.7033,
+      "lng": 116.671
+    },
+    "geohash": "qe6bn"
+  },
+  "categories": [
+    "science",
+    "astronomy",
+    "technology"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-28T00:00:00Z",
+    "wordCount": 780,
+    "readTime": 4,
+    "firstPublished": "2026-03-28T00:00:00Z",
+    "storyNumber": 14339
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Murchison Widefield Array - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Murchison_Widefield_Array",
+      "accessedAt": "2026-03-28",
+      "claimsVerified": [
+        "256 antenna tiles in Phase II confirmed",
+        "Phase II practically completed October 2017, officially launched 23 April 2018 confirmed",
+        "Phase I cost A$51 million confirmed",
+        "Frequency range 70-300 MHz confirmed",
+        "GLEAM-X J162759.5-523504.3 at 4,000 light-years in constellation Norma confirmed",
+        "Published in Nature January 2022 confirmed",
+        "18 minutes and 11 seconds pulsing period confirmed (18.18 min)",
+        "Cleo Loi ionospheric plasma tubes discovery 2015 confirmed",
+        "Bok Prize awarded to Loi confirmed"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "GLEAM-X J162759.5-523504.3 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/GLEAM-X_J162759.5%E2%88%92523504.3",
+      "accessedAt": "2026-03-28",
+      "claimsVerified": [
+        "Distance approximately 4,000 light-years confirmed",
+        "Radio transient active for about 1 minute every 18 minutes confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "q/e/6/b/murchison-widefield-array-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "shark-bay-wk",
+      "title": "Shark Bay",
+      "tile": "qe3j",
+      "coordinates": {
+        "lat": -25.79124,
+        "lng": 113.94196
+      },
+      "distanceKm": 216.8
+    },
+    "n": {
+      "id": "shark-bay-wp",
+      "title": "Shark Bay",
+      "tile": "qe3j",
+      "coordinates": {
+        "lat": -25.79124,
+        "lng": 113.94196
+      },
+      "distanceKm": 267.5
+    },
+    "ne": {
+      "id": "jack-hills-wp",
+      "title": "Jack Hills",
+      "tile": "qe77",
+      "coordinates": {
+        "lat": -26.1167,
+        "lng": 117.15
+      },
+      "distanceKm": 29
+    },
+    "w": {
+      "id": "hamelin-pool-marine-nature-reserve-wp",
+      "title": "Hamelin Pool Marine Nature Reserve",
+      "tile": "qe31",
+      "coordinates": {
+        "lat": -26.38333333,
+        "lng": 114.16666667
+      },
+      "distanceKm": 186
+    },
+    "e": {
+      "id": "western-australia-wk",
+      "title": "Western Australia",
+      "tile": "qeqh",
+      "coordinates": {
+        "lat": -26,
+        "lng": 121
+      },
+      "distanceKm": 397.9
+    },
+    "sw": {
+      "id": "kalbarri-wk",
+      "title": "Kalbarri",
+      "tile": "qe16",
+      "coordinates": {
+        "lat": -27.71636,
+        "lng": 114.41986
+      },
+      "distanceKm": 182.2
+    },
+    "s": {
+      "id": "principality-of-hutt-river-wp",
+      "title": "Principality of Hutt River",
+      "tile": "qe12",
+      "coordinates": {
+        "lat": -28.079167,
+        "lng": 114.48
+      },
+      "distanceKm": 242.4
+    },
+    "se": {
+      "id": "great-emu-war-wk",
+      "title": "The Great Emu War: When Australia Lost a War to Birds",
+      "tile": "qdku",
+      "coordinates": {
+        "lat": -31.5,
+        "lng": 119.5
+      },
+      "distanceKm": 563.7
+    }
+  }
+}

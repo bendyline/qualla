@@ -24,8 +24,8 @@
           "Files with coordinates missing SDC location of creation",
           "Self-published work"
         ],
-        "mediumPath": "_m/f/2/4/4/bank-of-canada-museum-wp/hero-medium.jpg",
-        "smallPath": "_m/f/2/4/4/bank-of-canada-museum-wp/hero-small.jpg"
+        "mediumPath": "_m/f/2/4/4/bank-of-canada-museum-wp/hero-medium.webp",
+        "smallPath": "_m/f/2/4/4/bank-of-canada-museum-wp/hero-small.webp"
       },
       "images": [
         {
@@ -52,7 +52,7 @@
             "Museum entrances in Canada",
             "Self-published work"
           ],
-          "smallPath": "_m/f/2/4/4/bank-of-canada-museum-wp/currency-museum-entrance-small.jpg"
+          "smallPath": "_m/f/2/4/4/bank-of-canada-museum-wp/currency-museum-entrance-small.webp"
         },
         {
           "path": "_m/f/2/4/4/bank-of-canada-museum-wp/different-perspectives-4859128.jpg",
@@ -78,8 +78,8 @@
             "Reflections in Ottawa",
             "Window reflections in Ontario"
           ],
-          "mediumPath": "_m/f/2/4/4/bank-of-canada-museum-wp/different-perspectives-4859128-medium.jpg",
-          "smallPath": "_m/f/2/4/4/bank-of-canada-museum-wp/different-perspectives-4859128-small.jpg"
+          "mediumPath": "_m/f/2/4/4/bank-of-canada-museum-wp/different-perspectives-4859128-medium.webp",
+          "smallPath": "_m/f/2/4/4/bank-of-canada-museum-wp/different-perspectives-4859128-small.webp"
         },
         {
           "path": "_m/f/2/4/4/bank-of-canada-museum-wp/c-mon-in-the-museum-is-always-.jpg",
@@ -103,8 +103,8 @@
             "Flickr images missing SDC published in",
             "Flickr images reviewed by FlickreviewR 2"
           ],
-          "mediumPath": "_m/f/2/4/4/bank-of-canada-museum-wp/c-mon-in-the-museum-is-always--medium.jpg",
-          "smallPath": "_m/f/2/4/4/bank-of-canada-museum-wp/c-mon-in-the-museum-is-always--small.jpg"
+          "mediumPath": "_m/f/2/4/4/bank-of-canada-museum-wp/c-mon-in-the-museum-is-always--medium.webp",
+          "smallPath": "_m/f/2/4/4/bank-of-canada-museum-wp/c-mon-in-the-museum-is-always--small.webp"
         },
         {
           "path": "_m/f/2/4/4/bank-of-canada-museum-wp/bank-of-canada-museum-musee-de.jpg",
@@ -126,7 +126,9 @@
             "CC-BY-2.0",
             "Files from Bank of Canada - Banque du Canada Flickr stream",
             "Flickr images reviewed by FlickreviewR 2"
-          ]
+          ],
+          "mediumPath": "_m/f/2/4/4/bank-of-canada-museum-wp/bank-of-canada-museum-musee-de-medium.webp",
+          "smallPath": "_m/f/2/4/4/bank-of-canada-museum-wp/bank-of-canada-museum-musee-de-small.webp"
         },
         {
           "path": "_m/f/2/4/4/bank-of-canada-museum-wp/books-stuffies-piggy-banks-eve.jpg",
@@ -149,8 +151,8 @@
             "Files from Bank of Canada - Banque du Canada Flickr stream",
             "Flickr images reviewed by FlickreviewR 2"
           ],
-          "mediumPath": "_m/f/2/4/4/bank-of-canada-museum-wp/books-stuffies-piggy-banks-eve-medium.jpg",
-          "smallPath": "_m/f/2/4/4/bank-of-canada-museum-wp/books-stuffies-piggy-banks-eve-small.jpg"
+          "mediumPath": "_m/f/2/4/4/bank-of-canada-museum-wp/books-stuffies-piggy-banks-eve-medium.webp",
+          "smallPath": "_m/f/2/4/4/bank-of-canada-museum-wp/books-stuffies-piggy-banks-eve-small.webp"
         },
         {
           "path": "_m/f/2/4/4/bank-of-canada-museum-wp/entrance-34149587394.jpg",
@@ -174,10 +176,19 @@
             "Files from Bank of Canada - Banque du Canada Flickr stream",
             "Flickr images reviewed by FlickreviewR 2"
           ],
-          "mediumPath": "_m/f/2/4/4/bank-of-canada-museum-wp/entrance-34149587394-medium.jpg",
-          "smallPath": "_m/f/2/4/4/bank-of-canada-museum-wp/entrance-34149587394-small.jpg"
+          "mediumPath": "_m/f/2/4/4/bank-of-canada-museum-wp/entrance-34149587394-medium.webp",
+          "smallPath": "_m/f/2/4/4/bank-of-canada-museum-wp/entrance-34149587394-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/f/2/4/4/bank-of-canada-museum-wp/f244-bank-of-canada-museum-flight-context.mp3",
+        "_m/f/2/4/4/bank-of-canada-museum-wp/f244-bank-of-canada-museum-intro.mp3",
+        "_m/f/2/4/4/bank-of-canada-museum-wp/f244-bank-of-canada-museum-building-a-nations-memory-in-coins-and-paper.mp3",
+        "_m/f/2/4/4/bank-of-canada-museum-wp/f244-bank-of-canada-museum-from-chateau-to-central-bank.mp3",
+        "_m/f/2/4/4/bank-of-canada-museum-wp/f244-bank-of-canada-museum-two-museums-in-one-lifetime.mp3",
+        "_m/f/2/4/4/bank-of-canada-museum-wp/f244-bank-of-canada-museum-teaching-a-country-about-its-own-money.mp3"
+      ],
+      "combinedNarration": "_m/f/2/4/4/bank-of-canada-museum-wp/f244-bank-of-canada-museum-combined.mp3"
     }
   }
 }

@@ -31,8 +31,8 @@
     "sourceType": "core",
     "sourceArticleId": "gunilda-wp",
     "sourceGeohash4": "f09v",
-    "mediumPath": "_m/f/0/9/v/gunilda-wp/hero-medium.jpg",
-    "smallPath": "_m/f/0/9/v/gunilda-wp/hero-small.jpg"
+    "mediumPath": "_m/f/0/9/v/gunilda-wp/hero-medium.webp",
+    "smallPath": "_m/f/0/9/v/gunilda-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Gunilda-IMG 7819.JPG",
@@ -68,5 +68,25 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-02-28T10:56:12.830Z"
+  "narration": {
+    "files": [
+      "f09v-gunilda-flight-context.mp3",
+      "f09v-gunilda-intro.mp3",
+      "f09v-gunilda-scottish-steel-gilded-hull.mp3",
+      "f09v-gunilda-fifteen-dollars-too-many.mp3",
+      "f09v-gunilda-a-second-refusal.mp3",
+      "f09v-gunilda-the-most-beautiful-shipwreck-in-the-world.mp3",
+      "f09v-gunilda-dreams-and-depths.mp3"
+    ],
+    "durations": {
+      "f09v-gunilda-flight-context.mp3": 54.24175,
+      "f09v-gunilda-intro.mp3": 33.6165416,
+      "f09v-gunilda-scottish-steel-gilded-hull.mp3": 67.2349166,
+      "f09v-gunilda-fifteen-dollars-too-many.mp3": 63.2534583,
+      "f09v-gunilda-a-second-refusal.mp3": 67.1812083,
+      "f09v-gunilda-the-most-beautiful-shipwreck-in-the-world.mp3": 74.599875,
+      "f09v-gunilda-dreams-and-depths.mp3": 63.4116666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

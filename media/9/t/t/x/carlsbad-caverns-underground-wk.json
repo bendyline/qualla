@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/t/t/x/carlsbad-caverns-underground-wk/9r2j-carlsbad-caverns-the-underground-cathedral-of-a-mi-intro.mp3",
-        "_m/9/t/t/x/carlsbad-caverns-underground-wk/9r2j-carlsbad-caverns-the-underground-cathedral-of-a-mi-flight-context.mp3",
-        "_m/9/t/t/x/carlsbad-caverns-underground-wk/9r2j-carlsbad-caverns-the-underground-cathedral-of-a-mi-the-bats.mp3",
-        "_m/9/t/t/x/carlsbad-caverns-underground-wk/9r2j-carlsbad-caverns-the-underground-cathedral-of-a-mi-the-chambers.mp3",
-        "_m/9/t/t/x/carlsbad-caverns-underground-wk/9r2j-carlsbad-caverns-the-underground-cathedral-of-a-mi-the-descent.mp3",
-        "_m/9/t/t/x/carlsbad-caverns-underground-wk/9r2j-carlsbad-caverns-the-underground-cathedral-of-a-mi-the-wild.mp3",
-        "_m/9/t/t/x/carlsbad-caverns-underground-wk/9r2j-carlsbad-caverns-the-underground-cathedral-of-a-mi-visiting-carlsbad-caverns.mp3"
+        "_m/9/t/t/x/carlsbad-caverns-underground-wk/9ttx-carlsbad-caverns-the-underground-cathedral-of-a-mi-flight-context.mp3",
+        "_m/9/t/t/x/carlsbad-caverns-underground-wk/9ttx-carlsbad-caverns-the-underground-cathedral-of-a-mi-intro.mp3",
+        "_m/9/t/t/x/carlsbad-caverns-underground-wk/9ttx-carlsbad-caverns-the-underground-cathedral-of-a-mi-the-chambers.mp3",
+        "_m/9/t/t/x/carlsbad-caverns-underground-wk/9ttx-carlsbad-caverns-the-underground-cathedral-of-a-mi-the-bats.mp3",
+        "_m/9/t/t/x/carlsbad-caverns-underground-wk/9ttx-carlsbad-caverns-the-underground-cathedral-of-a-mi-the-descent.mp3",
+        "_m/9/t/t/x/carlsbad-caverns-underground-wk/9ttx-carlsbad-caverns-the-underground-cathedral-of-a-mi-the-wild.mp3",
+        "_m/9/t/t/x/carlsbad-caverns-underground-wk/9ttx-carlsbad-caverns-the-underground-cathedral-of-a-mi-visiting-carlsbad-caverns.mp3"
       ],
       "hero": {
         "path": "_m/9/t/t/x/carlsbad-caverns-underground-wk/hero.jpg",
@@ -38,8 +38,8 @@
           "Self-published work",
           "The Caverns Historic District"
         ],
-        "mediumPath": "_m/9/t/t/x/carlsbad-caverns-underground-wk/hero-medium.jpg",
-        "smallPath": "_m/9/t/t/x/carlsbad-caverns-underground-wk/hero-small.jpg"
+        "mediumPath": "_m/9/t/t/x/carlsbad-caverns-underground-wk/hero-medium.webp",
+        "smallPath": "_m/9/t/t/x/carlsbad-caverns-underground-wk/hero-small.webp"
       },
       "images": [
         {
@@ -114,7 +114,7 @@
             "Photographs by George A. Grant",
             "The Caverns Historic District"
           ],
-          "smallPath": "_m/9/t/t/x/carlsbad-caverns-underground-wk/one-of-the-employee-s-houses-c-small.jpg"
+          "smallPath": "_m/9/t/t/x/carlsbad-caverns-underground-wk/one-of-the-employee-s-houses-c-small.webp"
         },
         {
           "path": "_m/9/t/t/x/carlsbad-caverns-national-park-wk/top-of-the-cross-in-carlsbad-c.jpg",
@@ -208,7 +208,8 @@
             "Self-published work"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/t/t/x/carlsbad-caverns-underground-wk/9ttx-carlsbad-caverns-underground-combined.mp3"
     }
   }
 }

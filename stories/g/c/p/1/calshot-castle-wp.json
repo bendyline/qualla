@@ -1,0 +1,161 @@
+{
+  "id": "calshot-castle-wp",
+  "source": "wikipedia",
+  "sourceId": "1016554",
+  "title": "Calshot Castle",
+  "slug": "calshot-castle",
+  "summary": "A Tudor gun fort on a Hampshire spit that reinvented itself across five centuries -- from Henry VIII's artillery platform to a seaplane base for the Schneider Trophy races.",
+  "content": {
+    "intro": "In the 1920s, racing seaplanes thundered across Southampton Water within sight of a small round castle that Henry VIII had built to fire cannons at the French. Calshot Castle, perched on a shingle spit where Southampton Water meets the Solent, had somehow transitioned from Tudor artillery fort to First World War seaplane station to host venue for the Schneider Trophy air races -- and it was not done reinventing itself yet.",
+    "sections": [
+      {
+        "title": "Henry's Device on the Spit",
+        "body": "Henry VIII ordered Calshot Castle built between 1539 and 1540 as part of his Device programme, a chain of forts raised along the English coast after the Pope encouraged France and the Holy Roman Empire to invade. The castle was one of four forts defending the Solent approaches, alongside installations at East Cowes, West Cowes, and Hurst. Constructed of ashlar Portland stone in a circular three-storey design, it carried three tiers of artillery and a garrison of just sixteen men managing up to thirty-six guns. Parliament held the castle during the English Civil War, keeping a fifteen-strong garrison supplied with ammunition at an annual cost of 107 pounds -- a small price for controlling access to Southampton Water."
+      },
+      {
+        "title": "From Smugglers to Seaplanes",
+        "body": "By the 19th century, Calshot Castle had been handed to the coastguard for combating smuggling, its military purpose seemingly spent. But in 1894, fears of French torpedo boats revived its martial role. The War Office built a new coastal battery south of the old castle and strung a boom across Southampton Water, controlled from Calshot. Then, in 1913, the castle's story took an unexpected turn: a Royal Naval Air Station was built alongside it to house twelve experimental seaplanes. The surrounding waters were calm and quiet -- perfect for aircraft that needed to land on the sea. When the First World War broke out, Calshot's seaplanes flew anti-submarine patrols across the English Channel, logging over 9,000 hours in just three months of 1918."
+      },
+      {
+        "title": "The Trophy and the Flying Boats",
+        "body": "The inter-war years transformed Calshot Spit from military outpost to aviation landmark. The Royal Air Force took over, establishing RAF Calshot with a School for Naval Co-operation and Aerial Navigation. The 1895 battery was demolished to make room, and parts of the castle's moat were concreted over as parking for planes. Most spectacularly, Calshot hosted the Schneider Trophy races -- international seaplane speed competitions that pushed aviation technology toward the designs that would later produce the Supermarine Spitfire. A narrow-gauge railway ran the length of the spit to supply the growing station. During the Second World War, two 12-pounder quick-firing guns were placed on the keep's roof and searchlights swept the water, but the castle escaped damage."
+      },
+      {
+        "title": "A Castle Against the Tide",
+        "body": "After the war, Calshot hosted Sunderland flying boats that took part in the Berlin Airlift of 1948, but military seaplanes were becoming obsolete. The RAF station closed in 1961. English Heritage took over in 1983, stripping away 20th-century additions to restore the castle to its pre-1914 appearance. Today, the old hangars serve as a recreation centre run by Hampshire County Council, while the castle itself -- a Grade II* listed building and scheduled monument -- remains open to visitors. Its rooftop still carries two 12-pounder gun mounts with their original lockers. But Calshot's most pressing challenge now comes not from foreign navies but from the sea itself: its exposed position on the shingle spit puts it at risk from erosion and rising sea levels caused by climate change."
+      }
+    ],
+    "flightContext": "Located at 50.82N, 1.31W on Calshot Spit at the mouth of Southampton Water, Hampshire. The circular castle and the long spit are strikingly visible from the air. Nearest airport is Solent Airport (EGHF) approximately 8nm southeast. Southampton Airport (EGHI) is approximately 8nm north. The spit extends into the Solent and is unmistakable from altitude. Best viewed at 1,500-3,000 ft AGL."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 50.8199,
+      "lng": -1.30743
+    },
+    "geohash": "gcp14"
+  },
+  "categories": [
+    "castles",
+    "military-history",
+    "aviation-history",
+    "coastal-defenses"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 700,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 9238
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Calshot Castle - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Calshot_Castle",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Built 1539-1540 confirmed",
+        "Part of Henry VIII Device programme confirmed",
+        "Four forts defending Solent: East Cowes, West Cowes, Hurst, and Calshot confirmed",
+        "Circular three-storey ashlar Portland stone construction confirmed",
+        "Sixteen-man garrison, up to thirty-six guns confirmed",
+        "Civil War Parliament held it with fifteen-strong garrison, cost 107 pounds annually confirmed",
+        "Royal Naval Air Station established 1913 confirmed",
+        "Anti-submarine patrols during WWI confirmed",
+        "Schneider Trophy hosted 1929 and 1931 (story says 'inter-war years' and 'speed competitions' confirmed -- Calshot hosted twice)",
+        "Narrow-gauge railway ran length of spit confirmed",
+        "Berlin Airlift 1948 with Sunderland flying boats confirmed",
+        "RAF station closed 1961 confirmed",
+        "English Heritage took over 1983 confirmed",
+        "Hampshire County Council runs old hangars as recreation centre confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "g/c/p/1/calshot-castle-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "woodhenge-wp",
+      "title": "Woodhenge",
+      "tile": "gcne",
+      "coordinates": {
+        "lat": 51.18963,
+        "lng": -1.78674
+      },
+      "distanceKm": 4.6
+    },
+    "n": {
+      "id": "highclere-castle-wp",
+      "title": "Highclere Castle",
+      "tile": "gcp5",
+      "coordinates": {
+        "lat": 51.3267,
+        "lng": -1.3611
+      },
+      "distanceKm": 21.4
+    },
+    "ne": {
+      "id": "guildford-castle-wp",
+      "title": "Guildford Castle",
+      "tile": "gcpe",
+      "coordinates": {
+        "lat": 51.2339,
+        "lng": -0.572659
+      },
+      "distanceKm": 12.8
+    },
+    "w": {
+      "id": "salisbury-cathedral-wp",
+      "title": "Salisbury Cathedral",
+      "tile": "gcnd",
+      "coordinates": {
+        "lat": 51.065,
+        "lng": -1.7975
+      },
+      "distanceKm": 19.8
+    },
+    "e": {
+      "id": "amberley-museum-heritage-centre-wp",
+      "title": "Amberley Museum & Heritage Centre",
+      "tile": "gcp9",
+      "coordinates": {
+        "lat": 50.898,
+        "lng": -0.5395
+      },
+      "distanceKm": 11.5
+    },
+    "sw": {
+      "id": "guernsey-wk",
+      "title": "Guernsey",
+      "tile": "gby1",
+      "coordinates": {
+        "lat": 49.45,
+        "lng": -2.55
+      },
+      "distanceKm": 142.4
+    },
+    "s": {
+      "id": "channel-islands-wk",
+      "title": "Channel Islands",
+      "tile": "gby2",
+      "coordinates": {
+        "lat": 49.3359,
+        "lng": -2.3346
+      },
+      "distanceKm": 163.6
+    },
+    "se": {
+      "id": "d-day-beaches-wk",
+      "title": "D-Day: The Longest Day",
+      "tile": "gbzb",
+      "coordinates": {
+        "lat": 49.24209,
+        "lng": -0.27375
+      },
+      "distanceKm": 156.8
+    }
+  }
+}

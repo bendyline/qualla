@@ -85,6 +85,26 @@
   "locationWikivoyagePath": "b/s/8/t/utqiagvik-wk",
   "locationWikipediaPath": "b/s/8/t/utqiagvik-alaska-wp",
   "directionalNeighbors": {
+    "n": {
+      "id": "russian-arctic-national-park-wp",
+      "title": "Russian Arctic National Park",
+      "tile": "vm7q",
+      "coordinates": {
+        "lat": 75.7,
+        "lng": 60.9
+      },
+      "distanceKm": 3447.3
+    },
+    "ne": {
+      "id": "severny-island-wp",
+      "title": "Severny Island",
+      "tile": "vm6v",
+      "coordinates": {
+        "lat": 75.45,
+        "lng": 60.2
+      },
+      "distanceKm": 3485.6
+    },
     "w": {
       "id": "nome-iditarod-finish-wk",
       "title": "Nome and the Iditarod Finish",

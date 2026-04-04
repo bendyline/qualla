@@ -106,14 +106,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "vancouver-island-wk",
-      "title": "Vancouver Island",
-      "tile": "c0yc",
+      "id": "ss-camden-wp",
+      "title": "SS Camden",
+      "tile": "c0r6",
       "coordinates": {
-        "lat": 49.5,
-        "lng": -125.5
+        "lat": 46.7772,
+        "lng": -124.5208
       },
-      "distanceKm": 917.3
+      "distanceKm": 609
     },
     "n": {
       "id": "mckinney-fire-wp",
@@ -136,14 +136,14 @@
       "distanceKm": 37.3
     },
     "w": {
-      "id": "alert-bay-wk",
-      "title": "Alert Bay",
-      "tile": "c0vx",
+      "id": "westport-washington-wp",
+      "title": "Westport, Washington",
+      "tile": "c0rd",
       "coordinates": {
-        "lat": 50.5856,
-        "lng": -126.9319
+        "lat": 46.890833333333,
+        "lng": -124.11
       },
-      "distanceKm": 1083.1
+      "distanceKm": 650
     },
     "e": {
       "id": "trinity-dam-wp",
@@ -156,14 +156,14 @@
       "distanceKm": 36.1
     },
     "sw": {
-      "id": "mauna-kea-wk",
-      "title": "Mauna Kea: The Mountain Taller Than Everest",
-      "tile": "8e92",
+      "id": "red-sand-beach-wp",
+      "title": "Red Sand Beach",
+      "tile": "8e9n",
       "coordinates": {
-        "lat": 19.8207,
-        "lng": -155.468
+        "lat": 20.7522,
+        "lng": -155.982
       },
-      "distanceKm": 3772.8
+      "distanceKm": 3738.6
     },
     "s": {
       "id": "bridge-gulch-massacre-wp",
@@ -188,5 +188,6 @@
   },
   "keywords": [
     "fort-gaston"
-  ]
+  ],
+  "locationWikipediaPath": "9/r/2/1/fort-gaston-wp"
 }

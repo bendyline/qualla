@@ -25,8 +25,8 @@
     "sourceType": "core",
     "sourceArticleId": "los-adaes-wp",
     "sourceGeohash4": "9vts",
-    "smallPath": "_m/9/v/t/s/los-adaes-wp/hero-small.jpg",
-    "mediumPath": "_m/9/v/t/s/los-adaes-wp/hero-medium.jpg"
+    "smallPath": "_m/9/v/t/s/los-adaes-wp/hero-small.webp",
+    "mediumPath": "_m/9/v/t/s/los-adaes-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "HistoricPlacesNationalRegisterPlaque.JPG",
@@ -92,7 +92,7 @@
       "sourceType": "core",
       "sourceArticleId": "los-adaes-wp",
       "sourceGeohash4": "9vts",
-      "smallPath": "_m/9/v/t/s/los-adaes-wp/cropped-map-larger-171-small.jpg"
+      "smallPath": "_m/9/v/t/s/los-adaes-wp/cropped-map-larger-171-small.webp"
     },
     {
       "filename": "LosAdaes.jpg",
@@ -117,14 +117,15 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "los-adaes-wp",
-      "sourceGeohash4": "9vts"
+      "sourceGeohash4": "9vts",
+      "mediumPath": "_m/9/v/t/s/los-adaes-wp/losadaes-medium.webp",
+      "smallPath": "_m/9/v/t/s/los-adaes-wp/losadaes-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/v/t/s/los-adaes-wp/cropped-map-larger-171.jpg",
     "_m/9/v/t/s/los-adaes-wp/losadaes.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:20:39.760Z",
   "narration": {
     "files": [
       "9vts-los-adaes-flight-context.mp3",
@@ -144,8 +145,7 @@
       "9vts-los-adaes-exile-and-a-new-beginning.mp3": 72.006625,
       "9vts-los-adaes-a-capital-unearthed.mp3": 67.513875
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T11:32:13.303Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T23:20:40.325Z"
 }

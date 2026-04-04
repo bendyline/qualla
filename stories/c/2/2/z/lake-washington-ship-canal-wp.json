@@ -1,0 +1,159 @@
+{
+  "id": "lake-washington-ship-canal-wp",
+  "source": "wikipedia",
+  "sourceId": "221030",
+  "title": "Lake Washington Ship Canal",
+  "slug": "lake-washington-ship-canal",
+  "summary": "The eight-mile waterway that threads through Seattle connecting Lake Washington to Puget Sound, an engineering feat that reversed a river and reshaped the city's geography.",
+  "content": {
+    "intro": "Before the Lake Washington Ship Canal existed, water leaving Lake Washington flowed south through the Black River into the Duwamish. The canal reversed that geography, sending the lake's water west through a chain of cuts, bays, and locks to reach Puget Sound. It is one of those infrastructure projects so thoroughly woven into a city's fabric that residents forget it was built at all, treating the connections between Union Bay, the Montlake Cut, Portage Bay, Lake Union, the Fremont Cut, Salmon Bay, and Shilshole Bay as if nature had always arranged them this way. Nature did not. People had been dragging canoes across the portage for centuries, giving the crossing points names in the Lushootseed language. The canal was the industrial-age answer to the same problem.",
+    "sections": [
+      {
+        "title": "Eighty Years of Talking",
+        "body": "Discussion of a navigable connection between Lake Washington and Puget Sound began as early as 1854, driven by the need to move logs, lumber, and fishing vessels. The United States Navy endorsed a canal project in 1867, envisioning a shipyard on Lake Washington. The Army Corps of Engineers started planning in 1891. Preliminary work began in 1906. Actual construction started in 1911 and was not officially completed until 1934. The delays carried consequences: because the canal took so long to materialize, the Navy built the Puget Sound Naval Shipyard across the Sound in Bremerton instead. The canal's centerpiece is the Hiram M. Chittenden Locks, which accommodate the approximately 20-foot difference in water level between Lake Washington and Puget Sound, lifting and lowering vessels in a freshwater-saltwater boundary that also serves as a salmon migration corridor."
+      },
+      {
+        "title": "A Bridge for Every Neighborhood",
+        "body": "The canal slices through Seattle from east to west, and every neighborhood on either side has demanded a way across. The result is one of the densest concentrations of distinctive bridge crossings in any American city. From east to west: the University Link light rail tunnel runs beneath the canal, the Montlake Bridge carries State Route 513, the University Bridge lifts for boats on Portage Bay, the Ship Canal Bridge carries Interstate 5, the Aurora Bridge soars high enough to clear all masts, the Fremont Bridge opens an average of 35 times daily, the Ballard Bridge spans Salmon Bay, and the BNSF Railway's Salmon Bay Bridge handles freight trains. The Montlake Cut and Montlake Bridge hold city landmark status, and the canal and Chittenden Locks are listed on the National Register of Historic Places."
+      },
+      {
+        "title": "Still Being Built",
+        "body": "The canal's story did not end in 1934. In the 2020s, a 2.7-mile tunnel was bored along the canal's north side to carry sewage and stormwater, with access stations in Fremont, Queen Anne, and Ballard feeding into a pump station at the West Point treatment plant. The $570 million project, funded by Seattle Public Utilities and King County, completed its tunnel boring from Ballard to Wallingford in June 2023. A new Link light rail crossing, the Ballard Link Extension, is planned for the 2030s near the existing Ballard Bridge. Nearly 170 years after the first conversation about connecting lake to sound, the canal corridor continues to attract new infrastructure, each generation layering its needs onto the channel that their predecessors carved through the city."
+      }
+    ],
+    "flightContext": "Located at 47.66N, 122.37W, the canal runs east-west through Seattle from Lake Washington to Puget Sound. The entire waterway is visible from altitude, with the Hiram M. Chittenden Locks (Ballard Locks) marking the western end where fresh water meets salt water. The chain of drawbridges crossing the canal is a distinctive feature. Nearest airports: Boeing Field/King County International (KBFI) 5 nm south, Seattle-Tacoma International (KSEA) 12 nm south. Best viewed from 3,000-6,000 ft AGL for the full canal panorama."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 47.65601,
+      "lng": -122.36714
+    },
+    "geohash": "c22zp"
+  },
+  "categories": [
+    "infrastructure",
+    "engineering",
+    "waterways",
+    "historic-landmarks"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-21T00:00:00Z",
+    "wordCount": 720,
+    "readTime": 4,
+    "firstPublished": "2026-03-21T00:00:00Z",
+    "storyNumber": 10901
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Lake Washington Ship Canal - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lake_Washington_Ship_Canal",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "U.S. Navy endorsed canal in 1867",
+        "Army Corps of Engineers planning began 1891",
+        "Construction started 1911, officially completed 1934",
+        "Navy built Puget Sound Naval Shipyard in Bremerton instead",
+        "Hiram M. Chittenden Locks accommodate approximately 20-foot difference in water level",
+        "Canal listed on National Register of Historic Places"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "FACT SHEET: Lake Washington Ship Canal - U.S. Army Corps of Engineers",
+      "url": "https://www.nws.usace.army.mil/Media/Fact-Sheets/Fact-Sheet-Article-View/Article/1493303/fact-sheet-lake-washington-ship-canal/",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "Canal construction history confirmed",
+        "Water level difference between Lake Washington and Puget Sound is approximately 20 feet"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "c/2/2/z/lake-washington-ship-canal-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "victoria-city-wk",
+      "title": "Victoria: The British Columbia Capital More British Than Britain",
+      "tile": "c287",
+      "coordinates": {
+        "lat": 48.4284,
+        "lng": -123.3656
+      },
+      "distanceKm": 54.3
+    },
+    "n": {
+      "id": "double-bluff-beach-wp",
+      "title": "Double Bluff Beach",
+      "tile": "c28c",
+      "coordinates": {
+        "lat": 47.9985,
+        "lng": -122.505
+      },
+      "distanceKm": 1.6
+    },
+    "ne": {
+      "id": "mount-baker-wk",
+      "title": "Mount Baker",
+      "tile": "c29m",
+      "coordinates": {
+        "lat": 48.777,
+        "lng": -121.813
+      },
+      "distanceKm": 88.7
+    },
+    "w": {
+      "id": "hurricane-ridge-wp",
+      "title": "Hurricane Ridge",
+      "tile": "c282",
+      "coordinates": {
+        "lat": 47.924456,
+        "lng": -123.3519333
+      },
+      "distanceKm": 31.8
+    },
+    "e": {
+      "id": "snoqualmie-valley-wk",
+      "title": "Snoqualmie Valley",
+      "tile": "c23r",
+      "coordinates": {
+        "lat": 47.67677,
+        "lng": -121.93854
+      },
+      "distanceKm": 6.7
+    },
+    "sw": {
+      "id": "quinault-national-fish-hatchery-wp",
+      "title": "Quinault National Fish Hatchery",
+      "tile": "c0rv",
+      "coordinates": {
+        "lat": 47.356666666667,
+        "lng": -123.99138888889
+      },
+      "distanceKm": 72
+    },
+    "s": {
+      "id": "vashon-island-wk",
+      "title": "Vashon Island",
+      "tile": "c22v",
+      "coordinates": {
+        "lat": 47.4161,
+        "lng": -122.468
+      },
+      "distanceKm": 6.3
+    },
+    "se": {
+      "id": "naches-trail-wp",
+      "title": "Naches Trail",
+      "tile": "c23e",
+      "coordinates": {
+        "lat": 47.10419,
+        "lng": -121.46894
+      },
+      "distanceKm": 56
+    }
+  }
+}

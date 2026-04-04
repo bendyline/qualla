@@ -28,7 +28,7 @@
     "sourceType": "core",
     "sourceArticleId": "ch-teau-laurier-wp",
     "sourceGeohash4": "f244",
-    "smallPath": "_m/f/2/4/4/ch-teau-laurier-wp/hero-small.jpg"
+    "smallPath": "_m/f/2/4/4/ch-teau-laurier-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Chatau Laurier construction site with the Ottawa River in the background, Ottawa (I0000911).tif",
@@ -83,8 +83,8 @@
       "sourceType": "core",
       "sourceArticleId": "ch-teau-laurier-wp",
       "sourceGeohash4": "f244",
-      "mediumPath": "_m/f/2/4/4/ch-teau-laurier-wp/chateau-laurier-medium.jpg",
-      "smallPath": "_m/f/2/4/4/ch-teau-laurier-wp/chateau-laurier-small.jpg"
+      "mediumPath": "_m/f/2/4/4/ch-teau-laurier-wp/chateau-laurier-medium.webp",
+      "smallPath": "_m/f/2/4/4/ch-teau-laurier-wp/chateau-laurier-small.webp"
     },
     {
       "filename": "Château Laurier at night.jpg",
@@ -110,8 +110,8 @@
       "sourceType": "core",
       "sourceArticleId": "ch-teau-laurier-wp",
       "sourceGeohash4": "f244",
-      "mediumPath": "_m/f/2/4/4/ch-teau-laurier-wp/chateau-laurier-hdr-ot-medium.jpg",
-      "smallPath": "_m/f/2/4/4/ch-teau-laurier-wp/chateau-laurier-hdr-ot-small.jpg"
+      "mediumPath": "_m/f/2/4/4/ch-teau-laurier-wp/chateau-laurier-hdr-ot-medium.webp",
+      "smallPath": "_m/f/2/4/4/ch-teau-laurier-wp/chateau-laurier-hdr-ot-small.webp"
     },
     {
       "filename": "Hotel Château Laurier in Ottawa.jpg",
@@ -138,8 +138,8 @@
       "sourceType": "core",
       "sourceArticleId": "ch-teau-laurier-wp",
       "sourceGeohash4": "f244",
-      "mediumPath": "_m/f/2/4/4/ch-teau-laurier-wp/hotel-chateau-laurier-medium.jpg",
-      "smallPath": "_m/f/2/4/4/ch-teau-laurier-wp/hotel-chateau-laurier-small.jpg"
+      "mediumPath": "_m/f/2/4/4/ch-teau-laurier-wp/hotel-chateau-laurier-medium.webp",
+      "smallPath": "_m/f/2/4/4/ch-teau-laurier-wp/hotel-chateau-laurier-small.webp"
     },
     {
       "filename": "Chateau Laurier, Ottawa (I0001566).tif",
@@ -166,7 +166,7 @@
       "sourceType": "core",
       "sourceArticleId": "ch-teau-laurier-wp",
       "sourceGeohash4": "f244",
-      "smallPath": "_m/f/2/4/4/ch-teau-laurier-wp/chateau-laurier-ottawa-small.jpg"
+      "smallPath": "_m/f/2/4/4/ch-teau-laurier-wp/chateau-laurier-ottawa-small.webp"
     }
   ],
   "galleryPaths": [
@@ -175,5 +175,25 @@
     "_m/f/2/4/4/ch-teau-laurier-wp/hotel-chateau-laurier.jpg",
     "_m/f/2/4/4/ch-teau-laurier-wp/chateau-laurier-ottawa.jpg"
   ],
-  "fetchedAt": "2026-02-28T12:01:41.807Z"
+  "narration": {
+    "files": [
+      "f244-chateau-laurier-flight-context.mp3",
+      "f244-chateau-laurier-intro.mp3",
+      "f244-chateau-laurier-a-castle-for-the-railways.mp3",
+      "f244-chateau-laurier-famous-residents-and-hidden-studios.mp3",
+      "f244-chateau-laurier-decline-revival-and-the-cock-and-lion.mp3",
+      "f244-chateau-laurier-the-battle-for-the-chateaus-future.mp3",
+      "f244-chateau-laurier-overlooking-the-locks.mp3"
+    ],
+    "durations": {
+      "f244-chateau-laurier-flight-context.mp3": 55.0066666,
+      "f244-chateau-laurier-intro.mp3": 60.0526666,
+      "f244-chateau-laurier-a-castle-for-the-railways.mp3": 70.1550833,
+      "f244-chateau-laurier-famous-residents-and-hidden-studios.mp3": 62.099,
+      "f244-chateau-laurier-decline-revival-and-the-cock-and-lion.mp3": 77.3330416,
+      "f244-chateau-laurier-the-battle-for-the-chateaus-future.mp3": 64.3814583,
+      "f244-chateau-laurier-overlooking-the-locks.mp3": 58.909625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

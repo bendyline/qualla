@@ -84,14 +84,14 @@
       "distanceKm": 118.1
     },
     "w": {
-      "id": "tbilisi-wk",
-      "title": "Tbilisi",
-      "tile": "szrv",
+      "id": "armenian-genocide-memorial-church-der-zor-wp",
+      "title": "Armenian Genocide Memorial Church, Der Zor",
+      "tile": "syk8",
       "coordinates": {
-        "lat": 41.6934,
-        "lng": 44.8015
+        "lat": 35.2019,
+        "lng": 40.083
       },
-      "distanceKm": 736.9
+      "distanceKm": 447.3
     },
     "e": {
       "id": "cultural-landscape-of-uramanat-wp",
@@ -104,14 +104,14 @@
       "distanceKm": 38.7
     },
     "sw": {
-      "id": "beirut-wk",
-      "title": "Beirut",
-      "tile": "sy12",
+      "id": "dura-europos-church-wp",
+      "title": "Dura-Europos Church",
+      "tile": "syhv",
       "coordinates": {
-        "lat": 33.886944444444,
-        "lng": 35.513055555556
+        "lat": 34.745829,
+        "lng": 40.727958
       },
-      "distanceKm": 876.6
+      "distanceKm": 390.2
     },
     "s": {
       "id": "sherwana-castle-wp",
@@ -168,5 +168,6 @@
   "editorial": {
     "spiciness": 2,
     "strongOpinions": []
-  }
+  },
+  "locationWikipediaPath": "t/n/0/r/paikuli-inscription-wp"
 }

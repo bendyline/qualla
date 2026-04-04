@@ -31,8 +31,8 @@
     "sourceType": "core",
     "sourceArticleId": "uss-agerholm-wp",
     "sourceGeohash4": "9mff",
-    "smallPath": "_m/9/m/f/f/uss-agerholm-wp/hero-small.jpg",
-    "mediumPath": "_m/9/m/f/f/uss-agerholm-wp/hero-medium.jpg"
+    "smallPath": "_m/9/m/f/f/uss-agerholm-wp/hero-small.webp",
+    "mediumPath": "_m/9/m/f/f/uss-agerholm-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Tomahawk missile sinking USS Agerholm (DD-826) 1982.JPEG",
@@ -89,7 +89,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "uss-agerholm-wp",
-      "sourceGeohash4": "9mff"
+      "sourceGeohash4": "9mff",
+      "smallPath": "_m/9/m/f/f/uss-agerholm-wp/uss-prairie-ad-15-with-destroy-small.webp"
     },
     {
       "filename": "USS Piedmont (AD-17) with USS Agerholm (DD-826) c1971.jpg",
@@ -110,7 +111,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "uss-agerholm-wp",
-      "sourceGeohash4": "9mff"
+      "sourceGeohash4": "9mff",
+      "smallPath": "_m/9/m/f/f/uss-agerholm-wp/uss-piedmont-ad-17-with-uss-ag-small.webp"
     },
     {
       "filename": "Mothballed cruisers at Mare Island Naval Shipyard on 12 July 1960.jpg",
@@ -125,7 +127,9 @@
       "dateCreated": "12 July 1960<div style=\"display: none;\">date QS:P571,+1960-07-12T00:00:00Z/11</div>",
       "sourceType": "commons-category",
       "sourceArticleId": "uss-agerholm-wp",
-      "sourceGeohash4": "9mff"
+      "sourceGeohash4": "9mff",
+      "mediumPath": "_m/9/m/f/f/uss-agerholm-wp/mothballed-cruisers-at-mare-is-medium.webp",
+      "smallPath": "_m/9/m/f/f/uss-agerholm-wp/mothballed-cruisers-at-mare-is-small.webp"
     },
     {
       "filename": "USS Agerholm (DD-826) underway in the 1970s.jpg",
@@ -141,7 +145,8 @@
       "dateCreated": "between 1970 and 1978<div style=\"display: none;\">date QS:P,+1970-00-00T00:00:00Z/8,P1319,+1970-00-00T00:00:00Z/9,P1326,+1978-00-00T00:00:00Z/9</div>",
       "sourceType": "commons-category",
       "sourceArticleId": "uss-agerholm-wp",
-      "sourceGeohash4": "9mff"
+      "sourceGeohash4": "9mff",
+      "smallPath": "_m/9/m/f/f/uss-agerholm-wp/uss-agerholm-dd-826-underway-i-small.webp"
     },
     {
       "filename": "USS Agerholm (DD-826) underway off Cape Cod on 6 January 1947 (19-N-135645).jpg",
@@ -157,7 +162,8 @@
       "dateCreated": "1947-01-06",
       "sourceType": "commons-category",
       "sourceArticleId": "uss-agerholm-wp",
-      "sourceGeohash4": "9mff"
+      "sourceGeohash4": "9mff",
+      "smallPath": "_m/9/m/f/f/uss-agerholm-wp/uss-agerholm-dd-826-underway-o-small.webp"
     },
     {
       "filename": "Agerholm2.jpg",
@@ -174,7 +180,8 @@
       "dateCreated": "1972-04-10",
       "sourceType": "commons-category",
       "sourceArticleId": "uss-agerholm-wp",
-      "sourceGeohash4": "9mff"
+      "sourceGeohash4": "9mff",
+      "smallPath": "_m/9/m/f/f/uss-agerholm-wp/agerholm2-small.webp"
     }
   ],
   "galleryPaths": [
@@ -185,7 +192,6 @@
     "_m/9/m/f/f/uss-agerholm-wp/uss-agerholm-dd-826-underway-o.jpg",
     "_m/9/m/f/f/uss-agerholm-wp/agerholm2.jpg"
   ],
-  "fetchedAt": "2026-02-21T20:17:24.000Z",
   "narration": {
     "files": [
       "9mff-uss-agerholm-flight-context.mp3",
@@ -196,7 +202,6 @@
       "9mff-uss-agerholm-death-by-tomahawk.mp3"
     ],
     "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-23T13:42:05.705Z",
     "durations": {
       "9mff-uss-agerholm-flight-context.mp3": 27.405875,
       "9mff-uss-agerholm-intro.mp3": 42.1775,

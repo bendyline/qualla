@@ -28,8 +28,8 @@
     "sourceType": "core",
     "sourceArticleId": "franklin-barbecue-wp",
     "sourceGeohash4": "9v6s",
-    "smallPath": "_m/9/v/6/s/franklin-barbecue-wp/hero-small.jpg",
-    "mediumPath": "_m/9/v/6/s/franklin-barbecue-wp/hero-medium.jpg"
+    "smallPath": "_m/9/v/6/s/franklin-barbecue-wp/hero-small.webp",
+    "mediumPath": "_m/9/v/6/s/franklin-barbecue-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Franklin Barbecue Austin About to Open.jpg",
@@ -90,7 +90,7 @@
       "sourceType": "core",
       "sourceArticleId": "franklin-barbecue-wp",
       "sourceGeohash4": "9v6s",
-      "smallPath": "_m/9/v/6/s/franklin-barbecue-wp/pitmaster-chef-aaron-f-small.jpg"
+      "smallPath": "_m/9/v/6/s/franklin-barbecue-wp/pitmaster-chef-aaron-f-small.webp"
     },
     {
       "filename": "Franklin Barbecue - Austin.jpg",
@@ -117,14 +117,15 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "franklin-barbecue-wp",
-      "sourceGeohash4": "9v6s"
+      "sourceGeohash4": "9v6s",
+      "mediumPath": "_m/9/v/6/s/franklin-barbecue-wp/franklin-barbecue-austin-medium.webp",
+      "smallPath": "_m/9/v/6/s/franklin-barbecue-wp/franklin-barbecue-austin-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/v/6/s/franklin-barbecue-wp/pitmaster-chef-aaron-f.jpg",
     "_m/9/v/6/s/franklin-barbecue-wp/franklin-barbecue-austin.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:52:37.109Z",
   "narration": {
     "files": [
       "9v6s-franklin-barbecue-flight-context.mp3",
@@ -142,8 +143,7 @@
       "9v6s-franklin-barbecue-rising-from-the-ashes.mp3": 51.2201666,
       "9v6s-franklin-barbecue-a-beard-for-barbecue.mp3": 60.7007916
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T06:52:24.496Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:52:37.522Z"
 }

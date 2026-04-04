@@ -3,11 +3,11 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/4/s/u/c/fumarole-bay-wp/4suc-fumarole-bay-intro.mp3",
-        "_m/4/s/u/c/fumarole-bay-wp/4suc-fumarole-bay-fire-beneath-the-ice.mp3",
         "_m/4/s/u/c/fumarole-bay-wp/4suc-fumarole-bay-flight-context.mp3",
+        "_m/4/s/u/c/fumarole-bay-wp/4suc-fumarole-bay-intro.mp3",
+        "_m/4/s/u/c/fumarole-bay-wp/4suc-fumarole-bay-the-flooded-volcano.mp3",
         "_m/4/s/u/c/fumarole-bay-wp/4suc-fumarole-bay-history-of-discovery.mp3",
-        "_m/4/s/u/c/fumarole-bay-wp/4suc-fumarole-bay-the-flooded-volcano.mp3"
+        "_m/4/s/u/c/fumarole-bay-wp/4suc-fumarole-bay-fire-beneath-the-ice.mp3"
       ],
       "hero": {
         "path": "_m/4/s/u/c/fumarole-bay-wp/hero.jpg",
@@ -36,9 +36,10 @@
           "Self-published work",
           "South Shetland Islands by User:Godot13"
         ],
-        "mediumPath": "_m/4/s/u/c/fumarole-bay-wp/hero-medium.jpg",
-        "smallPath": "_m/4/s/u/c/fumarole-bay-wp/hero-small.jpg"
-      }
+        "mediumPath": "_m/4/s/u/c/fumarole-bay-wp/hero-medium.webp",
+        "smallPath": "_m/4/s/u/c/fumarole-bay-wp/hero-small.webp"
+      },
+      "combinedNarration": "_m/4/s/u/c/fumarole-bay-wp/4suc-undefined-combined.mp3"
     }
   }
 }

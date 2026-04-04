@@ -1,0 +1,148 @@
+{
+  "id": "longtan-lake-park-wp",
+  "source": "wikipedia",
+  "sourceId": "50045241",
+  "title": "Longtan Lake Park",
+  "slug": "longtan-lake-park",
+  "summary": "A Ming dynasty brick quarry that filled with wastewater, redesigned in the 1950s by architect Liang Sicheng into one of Beijing's largest urban parks, complete with dragon boats, moon bridges, and a temple to a heroic Ming general.",
+  "content": {
+    "intro": "The lake at the heart of Longtan Park exists because of a wall that no longer does. During the Jiajing Emperor's reign in the Ming dynasty, workers quarried earth and mud from this spot to make bricks for the outer city wall of Beijing. When they finished, they left behind a pit that gradually filled with the city's wastewater -- an open sore of stagnant runoff in the southeastern corner of the old walled city. For centuries, the site festered. Then in 1952, the Beijing government decided the environmental problem had persisted long enough and invited Liang Sicheng, one of China's most celebrated architects, to reimagine the quarry as a public park.",
+    "sections": [
+      {
+        "title": "An Architect's Second Chance",
+        "body": "Liang Sicheng is remembered as much for what he failed to save as for what he built. He fought passionately but unsuccessfully against the demolition of Beijing's city walls in the 1950s, watching helplessly as the fortifications he considered irreplaceable were torn down for ring roads. Longtan Lake Park represents one of his realized visions. Liang redesigned the wastewater-filled quarry by diverting and removing the polluted water and replacing it with freshwater to create a clean, landscaped lake. The transformation turned a public health hazard into one of the largest modern parks inside Beijing's second ring road. Moon bridges arc over the water. Rock gardens line the shores. Dragon boats glide across the surface in warm weather, and tea houses and restaurants serve visitors year-round."
+      },
+      {
+        "title": "Dragons and a General's Shrine",
+        "body": "The park takes its name from the dragon -- longtan means \"dragon pool\" -- and the theme permeates the landscape. The Gardens of Chinese Dragons feature dragon-themed sculptures and plantings that reference the creature's central role in Chinese mythology as a symbol of imperial power and natural force. A series of artificial hills creates topographic variety within the flat terrain of southeastern Beijing, and a waterfall adds the sound of moving water to what would otherwise be a still landscape. Perhaps the most unexpected feature is a temple dedicated to Yuan Chonghuan, a Ming dynasty general celebrated for his defense of Beijing against Manchu invaders in the 1620s. Yuan was later executed by the emperor on false charges of treason, and his shrine here memorializes a man whose loyalty cost him his life."
+      },
+      {
+        "title": "A Park Between Monuments",
+        "body": "Longtan Lake Park sits just east of the Temple of Heaven, one of Beijing's most visited UNESCO World Heritage sites. The proximity gives the park an accidental advantage: visitors exhausted by the ceremonial grandeur of the Temple of Heaven can walk east into a quieter, less formal landscape. A large outdoor bird market operates within the park grounds, drawing local enthusiasts who come to buy, sell, and display songbirds -- a tradition in Beijing that predates the park itself. The collection of stone tablets scattered through the grounds adds a scholarly dimension to what is otherwise a recreational space. Together, these elements make Longtan Lake Park a place where Beijing's many overlapping identities -- imperial, revolutionary, scholarly, commercial, recreational -- coexist in a landscape that began as nothing more than a hole in the ground."
+      }
+    ],
+    "flightContext": "Located at 39.877N, 116.436E in Dongcheng District, Beijing, just east of the Temple of Heaven complex. The park's lake is visible as a large body of water within the dense urban grid, one of the largest open spaces inside the second ring road. Nearest airports: ZBAA (Beijing Capital International, 27 km NE) and ZBAD (Beijing Daxing International, 42 km S). Best viewed at 2,000-4,000 ft AGL alongside the nearby Temple of Heaven."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 39.87694444,
+      "lng": 116.43555556
+    },
+    "geohash": "wx4fc"
+  },
+  "categories": [
+    "parks",
+    "history",
+    "architecture",
+    "beijing"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 660,
+    "readTime": 3,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 9905
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Longtan Lake Park - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Longtan_Lake_Park",
+      "accessedAt": "2026-03-18",
+      "claimsVerified": [
+        "Park founded 1952 in Dongcheng District",
+        "Original site was Ming dynasty brick quarry from Jiajing Emperor's reign (1521-1567)",
+        "Liang Sicheng invited to redesign park in 1952",
+        "Yuan Chonghuan temple within park — Ming general executed 1630 on false charges of treason",
+        "Park located east of Temple of Heaven"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "w/x/4/f/longtan-lake-park-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "badaling-wp",
+      "title": "Badaling",
+      "tile": "wx4m",
+      "coordinates": {
+        "lat": 40.35428,
+        "lng": 116.00649
+      },
+      "distanceKm": 30.7
+    },
+    "n": {
+      "id": "beijing-capital-international-airport-wp",
+      "title": "Beijing Capital International Airport",
+      "tile": "wx4u",
+      "coordinates": {
+        "lat": 40.08,
+        "lng": 116.58444444444
+      },
+      "distanceKm": 3.5
+    },
+    "ne": {
+      "id": "huangya-pass-wp",
+      "title": "Huangya Pass",
+      "tile": "wx5k",
+      "coordinates": {
+        "lat": 40.232265,
+        "lng": 117.406082
+      },
+      "distanceKm": 33.3
+    },
+    "w": {
+      "id": "peking-man-wp",
+      "title": "Peking Man",
+      "tile": "wx46",
+      "coordinates": {
+        "lat": 39.733,
+        "lng": 115.917
+      },
+      "distanceKm": 12.4
+    },
+    "e": {
+      "id": "guangji-temple-tianjin-wp",
+      "title": "Guangji Temple (Tianjin)",
+      "tile": "wx56",
+      "coordinates": {
+        "lat": 39.733144,
+        "lng": 117.311697
+      },
+      "distanceKm": 22.5
+    },
+    "sw": {
+      "id": "kaishan-temple-wp",
+      "title": "Kaishan Temple",
+      "tile": "wwfr",
+      "coordinates": {
+        "lat": 39.24583333,
+        "lng": 115.98277778
+      },
+      "distanceKm": 34
+    },
+    "s": {
+      "id": "beijing-daxing-international-airport-wp",
+      "title": "Beijing Daxing International Airport",
+      "tile": "wx4b",
+      "coordinates": {
+        "lat": 39.511944,
+        "lng": 116.410556
+      },
+      "distanceKm": 12.1
+    },
+    "se": {
+      "id": "jingjintang-expressway-wp",
+      "title": "Jingjintang Expressway",
+      "tile": "wwgr",
+      "coordinates": {
+        "lat": 39.2271298,
+        "lng": 117.2062691
+      },
+      "distanceKm": 37.8
+    }
+  }
+}

@@ -27,8 +27,8 @@
     "sourceType": "core",
     "sourceArticleId": "phoenix-indian-school-wp",
     "sourceGeohash4": "9tbq",
-    "smallPath": "_m/9/t/b/q/phoenix-indian-school-wp/hero-small.jpg",
-    "mediumPath": "_m/9/t/b/q/phoenix-indian-school-wp/hero-medium.jpg"
+    "smallPath": "_m/9/t/b/q/phoenix-indian-school-wp/hero-small.webp",
+    "mediumPath": "_m/9/t/b/q/phoenix-indian-school-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Art Class, Phoenix Indian School, Arizona, 06-1900 - NARA - 518923.tif",
@@ -86,8 +86,8 @@
       "sourceType": "core",
       "sourceArticleId": "phoenix-indian-school-wp",
       "sourceGeohash4": "9tbq",
-      "smallPath": "_m/9/t/b/q/phoenix-indian-school-wp/little-girls-praying-b-small.jpg",
-      "mediumPath": "_m/9/t/b/q/phoenix-indian-school-wp/little-girls-praying-b-medium.jpg"
+      "smallPath": "_m/9/t/b/q/phoenix-indian-school-wp/little-girls-praying-b-small.webp",
+      "mediumPath": "_m/9/t/b/q/phoenix-indian-school-wp/little-girls-praying-b-medium.webp"
     },
     {
       "filename": "P-Phoenix Indian School 1891.jpg",
@@ -115,8 +115,8 @@
       "sourceType": "core",
       "sourceArticleId": "phoenix-indian-school-wp",
       "sourceGeohash4": "9tbq",
-      "smallPath": "_m/9/t/b/q/phoenix-indian-school-wp/dining-hall-built-1891-small.jpg",
-      "mediumPath": "_m/9/t/b/q/phoenix-indian-school-wp/dining-hall-built-1891-medium.jpg"
+      "smallPath": "_m/9/t/b/q/phoenix-indian-school-wp/dining-hall-built-1891-small.webp",
+      "mediumPath": "_m/9/t/b/q/phoenix-indian-school-wp/dining-hall-built-1891-medium.webp"
     },
     {
       "filename": "P-Phoenx Indian School Memorial Hall 1922.jpg",
@@ -144,8 +144,8 @@
       "sourceType": "core",
       "sourceArticleId": "phoenix-indian-school-wp",
       "sourceGeohash4": "9tbq",
-      "smallPath": "_m/9/t/b/q/phoenix-indian-school-wp/historic-memorial-hall-small.jpg",
-      "mediumPath": "_m/9/t/b/q/phoenix-indian-school-wp/historic-memorial-hall-medium.jpg"
+      "smallPath": "_m/9/t/b/q/phoenix-indian-school-wp/historic-memorial-hall-small.webp",
+      "mediumPath": "_m/9/t/b/q/phoenix-indian-school-wp/historic-memorial-hall-medium.webp"
     },
     {
       "filename": "P-Indian School Memorial.jpg",
@@ -173,8 +173,8 @@
       "sourceType": "core",
       "sourceArticleId": "phoenix-indian-school-wp",
       "sourceGeohash4": "9tbq",
-      "smallPath": "_m/9/t/b/q/phoenix-indian-school-wp/world-war-i-memorial-p-small.jpg",
-      "mediumPath": "_m/9/t/b/q/phoenix-indian-school-wp/world-war-i-memorial-p-medium.jpg"
+      "smallPath": "_m/9/t/b/q/phoenix-indian-school-wp/world-war-i-memorial-p-small.webp",
+      "mediumPath": "_m/9/t/b/q/phoenix-indian-school-wp/world-war-i-memorial-p-medium.webp"
     },
     {
       "filename": "Phoenix-Phoenix Indian School-Band Building-1931.JPG",
@@ -201,8 +201,8 @@
       "sourceType": "core",
       "sourceArticleId": "phoenix-indian-school-wp",
       "sourceGeohash4": "9tbq",
-      "smallPath": "_m/9/t/b/q/phoenix-indian-school-wp/indian-school-band-bui-small.jpg",
-      "mediumPath": "_m/9/t/b/q/phoenix-indian-school-wp/indian-school-band-bui-medium.jpg"
+      "smallPath": "_m/9/t/b/q/phoenix-indian-school-wp/indian-school-band-bui-small.webp",
+      "mediumPath": "_m/9/t/b/q/phoenix-indian-school-wp/indian-school-band-bui-medium.webp"
     },
     {
       "filename": "Indian School exhibit, Heard Museum, Phoenix (8225643095).jpg",
@@ -285,7 +285,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "phoenix-indian-school-wp",
-      "sourceGeohash4": "9tbq"
+      "sourceGeohash4": "9tbq",
+      "mediumPath": "_m/9/t/b/q/phoenix-indian-school-wp/phoenix-indian-school-steele-i-medium.webp",
+      "smallPath": "_m/9/t/b/q/phoenix-indian-school-wp/phoenix-indian-school-steele-i-small.webp"
     }
   ],
   "galleryPaths": [
@@ -298,7 +300,6 @@
     "_m/9/t/b/q/heard-museum-wp/indian-school-exhibit-heard-mu-1.jpg",
     "_m/9/t/b/q/phoenix-indian-school-wp/phoenix-indian-school-steele-i.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:04:05.731Z",
   "narration": {
     "files": [
       "9tbq-phoenix-indian-school-flight-context.mp3",
@@ -318,8 +319,7 @@
       "9tbq-phoenix-indian-school-a-school-transformed.mp3": 53.696125,
       "9tbq-phoenix-indian-school-memory-in-the-desert.mp3": 73.5842916
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-07T23:30:49.036Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:04:06.672Z"
 }

@@ -104,7 +104,7 @@
       "sourceType": "core",
       "sourceArticleId": "mount-st-helens-wk",
       "sourceGeohash4": "c21n",
-      "smallPath": "_m/c/2/1/n/mount-st-helens-wk/mount-st-helens-taken-small.jpg"
+      "smallPath": "_m/c/2/1/n/mount-st-helens-wk/mount-st-helens-taken-small.webp"
     },
     {
       "filename": "Car Caught in the 1980 Eruption (4100915027).jpg",
@@ -134,7 +134,7 @@
       "sourceType": "core",
       "sourceArticleId": "mount-st-helens-wk",
       "sourceGeohash4": "c21n",
-      "smallPath": "_m/c/2/1/n/mount-st-helens-wk/car-caught-1980-erupti-small.jpg"
+      "smallPath": "_m/c/2/1/n/mount-st-helens-wk/car-caught-1980-erupti-small.webp"
     },
     {
       "filename": "015roadblockjpg resize (21851941118).jpg",
@@ -545,28 +545,26 @@
     "_m/c/2/1/n/mount-st-helens-eruption-wk/102b-msh-institute-slide-show1.jpg",
     "_m/c/2/1/n/mount-st-helens-eruption-wk/100-msh05-new-dome-glacier-upl.jpg"
   ],
-  "fetchedAt": "2026-02-22T01:53:18.235Z",
   "updatedAt": "2026-02-22T01:53:19.256Z",
   "narration": {
     "files": [
-      "c21n-mount-st-helens-climbing-the-mountain.mp3",
       "c21n-mount-st-helens-flight-context.mp3",
-      "c21n-mount-st-helens-inside-the-crater.mp3",
       "c21n-mount-st-helens-intro.mp3",
       "c21n-mount-st-helens-the-day-the-mountain-fell.mp3",
       "c21n-mount-st-helens-the-gray-zone.mp3",
-      "c21n-mount-st-helens-the-view-from-johnston-ridge.mp3"
+      "c21n-mount-st-helens-inside-the-crater.mp3",
+      "c21n-mount-st-helens-the-view-from-johnston-ridge.mp3",
+      "c21n-mount-st-helens-climbing-the-mountain.mp3"
     ],
     "durations": {
-      "c21n-mount-st-helens-climbing-the-mountain.mp3": 66.792,
-      "c21n-mount-st-helens-flight-context.mp3": 68.328,
-      "c21n-mount-st-helens-inside-the-crater.mp3": 57.84,
-      "c21n-mount-st-helens-intro.mp3": 56.712,
-      "c21n-mount-st-helens-the-day-the-mountain-fell.mp3": 71.712,
-      "c21n-mount-st-helens-the-gray-zone.mp3": 64.2,
-      "c21n-mount-st-helens-the-view-from-johnston-ridge.mp3": 64.248
+      "c21n-mount-st-helens-flight-context.mp3": 68.113875,
+      "c21n-mount-st-helens-intro.mp3": 59.8235416,
+      "c21n-mount-st-helens-the-day-the-mountain-fell.mp3": 75.5726666,
+      "c21n-mount-st-helens-the-gray-zone.mp3": 67.01975,
+      "c21n-mount-st-helens-inside-the-crater.mp3": 58.7980833,
+      "c21n-mount-st-helens-the-view-from-johnston-ridge.mp3": 70.0740833,
+      "c21n-mount-st-helens-climbing-the-mountain.mp3": 64.6900416
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:57.049Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

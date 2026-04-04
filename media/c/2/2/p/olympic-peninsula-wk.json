@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/c/2/2/p/olympic-peninsula-wk/c22p-olympic-peninsula-intro.mp3",
         "_m/c/2/2/p/olympic-peninsula-wk/c22p-olympic-peninsula-flight-context.mp3",
-        "_m/c/2/2/p/olympic-peninsula-wk/c22p-olympic-peninsula-rivers-of-salmon.mp3",
-        "_m/c/2/2/p/olympic-peninsula-wk/c22p-olympic-peninsula-the-high-olympics.mp3",
-        "_m/c/2/2/p/olympic-peninsula-wk/c22p-olympic-peninsula-the-rain-shadow.mp3",
+        "_m/c/2/2/p/olympic-peninsula-wk/c22p-olympic-peninsula-intro.mp3",
         "_m/c/2/2/p/olympic-peninsula-wk/c22p-olympic-peninsula-the-rainforest-valleys.mp3",
-        "_m/c/2/2/p/olympic-peninsula-wk/c22p-olympic-peninsula-the-wild-coast.mp3"
+        "_m/c/2/2/p/olympic-peninsula-wk/c22p-olympic-peninsula-the-high-olympics.mp3",
+        "_m/c/2/2/p/olympic-peninsula-wk/c22p-olympic-peninsula-the-wild-coast.mp3",
+        "_m/c/2/2/p/olympic-peninsula-wk/c22p-olympic-peninsula-rivers-of-salmon.mp3",
+        "_m/c/2/2/p/olympic-peninsula-wk/c22p-olympic-peninsula-the-rain-shadow.mp3"
       ],
       "hero": {
         "path": "_m/c/2/2/p/olympic-peninsula-wp/mount-constance.jpg",
@@ -25,7 +25,9 @@
         "sourceType": "sibling",
         "sourceArticleId": "olympic-peninsula-wp",
         "sourceGeohash4": "c22p",
-        "accessedAt": "2026-02-22T01:53:44.044Z"
+        "accessedAt": "2026-02-22T01:53:44.044Z",
+        "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/hero-medium.webp",
+        "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/hero-small.webp"
       },
       "images": [
         {
@@ -82,8 +84,8 @@
             "Self-published work",
             "Taken with Sony DSC-W5"
           ],
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/port-angeles-washingto-small.jpg",
-          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/port-angeles-washingto-medium.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/port-angeles-washingto-small.webp",
+          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/port-angeles-washingto-medium.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/forks-wa-north-town-cr.jpg",
@@ -108,7 +110,7 @@
             "Self-published work",
             "Taken with Pentax *ist DS"
           ],
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/forks-wa-north-town-cr-small.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/forks-wa-north-town-cr-small.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/u-s-route-12-approachi.jpg",
@@ -134,7 +136,7 @@
             "Taken with Canon PowerShot A410",
             "U.S. Route 12 between Aberdeen and Grand Mound"
           ],
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/u-s-route-12-approachi-small.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/u-s-route-12-approachi-small.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/marina-district-en-wes.jpg",
@@ -156,8 +158,8 @@
             "Taken with Canon PowerShot A530",
             "Views from Westport Viewing Tower"
           ],
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/marina-district-en-wes-small.jpg",
-          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/marina-district-en-wes-medium.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/marina-district-en-wes-small.webp",
+          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/marina-district-en-wes-medium.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/grays-harbor-county-co.jpg",
@@ -185,8 +187,8 @@
             "Photographs of the national flag of the United States with other flags",
             "Self-published work"
           ],
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/grays-harbor-county-co-small.jpg",
-          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/grays-harbor-county-co-medium.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/grays-harbor-county-co-small.webp",
+          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/grays-harbor-county-co-medium.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/rafting-class-ii-white.jpg",
@@ -208,8 +210,8 @@
             "Files with coordinates missing SDC location of creation",
             "GFDL"
           ],
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/rafting-class-ii-white-small.jpg",
-          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/rafting-class-ii-white-medium.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/rafting-class-ii-white-small.webp",
+          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/rafting-class-ii-white-medium.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/john-wayne-marina-sequ.jpg",
@@ -226,8 +228,8 @@
           "sourceArticleId": "olympic-peninsula-wk",
           "sourceGeohash4": "c22p",
           "accessedAt": "2026-02-22T01:53:44.044Z",
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/john-wayne-marina-sequ-small.jpg",
-          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/john-wayne-marina-sequ-medium.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/john-wayne-marina-sequ-small.webp",
+          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/john-wayne-marina-sequ-medium.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/related-sibling-ferry-mv-wenatchee-and-mount-p.jpg",
@@ -243,7 +245,8 @@
           "sourceType": "core",
           "sourceArticleId": "olympic-peninsula-wk",
           "sourceGeohash4": "c22p",
-          "accessedAt": "2026-02-22T01:53:44.044Z"
+          "accessedAt": "2026-02-22T01:53:44.044Z",
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/related-sibling-ferry-mv-wenatchee-and-mount-p-small.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/view-pacific-beach-was.jpg",
@@ -260,7 +263,7 @@
           "sourceArticleId": "olympic-peninsula-wk",
           "sourceGeohash4": "c22p",
           "accessedAt": "2026-02-22T01:53:44.044Z",
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/view-pacific-beach-was-small.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/view-pacific-beach-was-small.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/houses-near-beach-mocl.jpg",
@@ -277,8 +280,8 @@
           "sourceArticleId": "olympic-peninsula-wk",
           "sourceGeohash4": "c22p",
           "accessedAt": "2026-02-22T01:53:44.044Z",
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/houses-near-beach-mocl-small.jpg",
-          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/houses-near-beach-mocl-medium.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/houses-near-beach-mocl-small.webp",
+          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/houses-near-beach-mocl-medium.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/aerial-view-sanderson.jpg",
@@ -295,8 +298,8 @@
           "sourceArticleId": "olympic-peninsula-wk",
           "sourceGeohash4": "c22p",
           "accessedAt": "2026-02-22T01:53:44.044Z",
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/aerial-view-sanderson-small.jpg",
-          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/aerial-view-sanderson-medium.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/aerial-view-sanderson-small.webp",
+          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/aerial-view-sanderson-medium.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/old-growth-forest-along-us-101.jpg",
@@ -329,8 +332,8 @@
             "U.S. Route 101 in Washington (state)",
             "Wet roads"
           ],
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/old-growth-forest-along-us-101-small.jpg",
-          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/old-growth-forest-along-us-101-medium.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/old-growth-forest-along-us-101-small.webp",
+          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/old-growth-forest-along-us-101-medium.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/first-beach-lapush-wa1.jpg",
@@ -355,8 +358,8 @@
             "Stacks of Washington (state)",
             "Taken with Canon PowerShot S90"
           ],
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/first-beach-lapush-wa1-small.jpg",
-          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/first-beach-lapush-wa1-medium.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/first-beach-lapush-wa1-small.webp",
+          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/first-beach-lapush-wa1-medium.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/nurserytree.jpg",
@@ -382,8 +385,8 @@
             "Taken with Samsung HMX-Q10",
             "Tree trunks"
           ],
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/nurserytree-small.jpg",
-          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/nurserytree-medium.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/nurserytree-small.webp",
+          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/nurserytree-medium.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/foggy-coastline.jpg",
@@ -408,8 +411,8 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-GH1"
           ],
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/foggy-coastline-small.jpg",
-          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/foggy-coastline-medium.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/foggy-coastline-small.webp",
+          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/foggy-coastline-medium.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/olympic-penisula-beach-2024438.jpg",
@@ -431,8 +434,8 @@
             "CC-BY-SA-2.0",
             "Files uploaded by INeverCry"
           ],
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/olympic-penisula-beach-2024438-small.jpg",
-          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/olympic-penisula-beach-2024438-medium.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/olympic-penisula-beach-2024438-small.webp",
+          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/olympic-penisula-beach-2024438-medium.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/olympic-peninsula-lake-distric.jpg",
@@ -449,8 +452,8 @@
           "sourceArticleId": "olympic-peninsula-wk",
           "sourceGeohash4": "c22p",
           "accessedAt": "2026-02-22T01:53:44.044Z",
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/olympic-peninsula-lake-distric-small.jpg",
-          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/olympic-peninsula-lake-distric-medium.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/olympic-peninsula-lake-distric-small.webp",
+          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/olympic-peninsula-lake-distric-medium.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/homestead-consisting-of-two-sh.jpg",
@@ -467,7 +470,7 @@
           "sourceArticleId": "olympic-peninsula-wk",
           "sourceGeohash4": "c22p",
           "accessedAt": "2026-02-22T01:53:44.044Z",
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/homestead-consisting-of-two-sh-small.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/homestead-consisting-of-two-sh-small.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/giving-socks-and-shoes-on-lowe.jpg",
@@ -484,8 +487,8 @@
           "sourceArticleId": "olympic-peninsula-wk",
           "sourceGeohash4": "c22p",
           "accessedAt": "2026-02-22T01:53:44.044Z",
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/giving-socks-and-shoes-on-lowe-small.jpg",
-          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/giving-socks-and-shoes-on-lowe-medium.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/giving-socks-and-shoes-on-lowe-small.webp",
+          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/giving-socks-and-shoes-on-lowe-medium.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/log-railroad-bridge-under-cons.jpg",
@@ -502,7 +505,7 @@
           "sourceArticleId": "olympic-peninsula-wk",
           "sourceGeohash4": "c22p",
           "accessedAt": "2026-02-22T01:53:44.044Z",
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/log-railroad-bridge-under-cons-small.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/log-railroad-bridge-under-cons-small.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/automobile-on-a-pacific-beach-.jpg",
@@ -519,7 +522,7 @@
           "sourceArticleId": "olympic-peninsula-wk",
           "sourceGeohash4": "c22p",
           "accessedAt": "2026-02-22T01:53:44.044Z",
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/automobile-on-a-pacific-beach--small.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/automobile-on-a-pacific-beach--small.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/birds-at-waters-edge-june-1907.jpg",
@@ -536,7 +539,7 @@
           "sourceArticleId": "olympic-peninsula-wk",
           "sourceGeohash4": "c22p",
           "accessedAt": "2026-02-22T01:53:44.044Z",
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/birds-at-waters-edge-june-1907-small.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/birds-at-waters-edge-june-1907-small.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/man-with-camera-photographing-.jpg",
@@ -553,7 +556,7 @@
           "sourceArticleId": "olympic-peninsula-wk",
           "sourceGeohash4": "c22p",
           "accessedAt": "2026-02-22T01:53:44.044Z",
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/man-with-camera-photographing--small.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/man-with-camera-photographing--small.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/esquimalt-lagoon-from-hatley-c.jpg",
@@ -570,8 +573,8 @@
           "sourceArticleId": "olympic-peninsula-wk",
           "sourceGeohash4": "c22p",
           "accessedAt": "2026-02-22T01:53:44.044Z",
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/esquimalt-lagoon-from-hatley-c-small.jpg",
-          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/esquimalt-lagoon-from-hatley-c-medium.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/esquimalt-lagoon-from-hatley-c-small.webp",
+          "mediumPath": "_m/c/2/2/p/olympic-peninsula-wk/esquimalt-lagoon-from-hatley-c-medium.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/old-growth-forest-olympic-peni.jpg",
@@ -588,7 +591,7 @@
           "sourceArticleId": "olympic-peninsula-wk",
           "sourceGeohash4": "c22p",
           "accessedAt": "2026-02-22T01:53:44.044Z",
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/old-growth-forest-olympic-peni-small.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/old-growth-forest-olympic-peni-small.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/old-growth-forest-olympic-peni-1.jpg",
@@ -605,7 +608,7 @@
           "sourceArticleId": "olympic-peninsula-wk",
           "sourceGeohash4": "c22p",
           "accessedAt": "2026-02-22T01:53:44.044Z",
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/old-growth-forest-olympic-peni-1-small.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/old-growth-forest-olympic-peni-1-small.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/fallen-down-cabin-probably-the.jpg",
@@ -622,7 +625,7 @@
           "sourceArticleId": "olympic-peninsula-wk",
           "sourceGeohash4": "c22p",
           "accessedAt": "2026-02-22T01:53:44.044Z",
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/fallen-down-cabin-probably-the-small.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/fallen-down-cabin-probably-the-small.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/homestead-or-lodging-house-pro.jpg",
@@ -639,7 +642,7 @@
           "sourceArticleId": "olympic-peninsula-wk",
           "sourceGeohash4": "c22p",
           "accessedAt": "2026-02-22T01:53:44.044Z",
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/homestead-or-lodging-house-pro-small.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/homestead-or-lodging-house-pro-small.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/river-bend-in-forest-probably-.jpg",
@@ -656,7 +659,7 @@
           "sourceArticleId": "olympic-peninsula-wk",
           "sourceGeohash4": "c22p",
           "accessedAt": "2026-02-22T01:53:44.044Z",
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/river-bend-in-forest-probably--small.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/river-bend-in-forest-probably--small.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/looking-down-on-river-valley-p.jpg",
@@ -673,7 +676,7 @@
           "sourceArticleId": "olympic-peninsula-wk",
           "sourceGeohash4": "c22p",
           "accessedAt": "2026-02-22T01:53:44.044Z",
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/looking-down-on-river-valley-p-small.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/looking-down-on-river-valley-p-small.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wk/river-through-trees-probably-t.jpg",
@@ -690,7 +693,7 @@
           "sourceArticleId": "olympic-peninsula-wk",
           "sourceGeohash4": "c22p",
           "accessedAt": "2026-02-22T01:53:44.044Z",
-          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/river-through-trees-probably-t-small.jpg"
+          "smallPath": "_m/c/2/2/p/olympic-peninsula-wk/river-through-trees-probably-t-small.webp"
         },
         {
           "path": "_m/c/2/2/p/olympic-peninsula-wp/queets-river.jpg",
@@ -1211,7 +1214,8 @@
             "aerialBonus": 0
           }
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/2/p/olympic-peninsula-wk/c22p-olympic-peninsula-combined.mp3"
     }
   }
 }

@@ -26,8 +26,8 @@
     "sourceType": "core",
     "sourceArticleId": "flambeau-mine-wp",
     "sourceGeohash4": "cbp4",
-    "smallPath": "_m/c/b/p/4/flambeau-mine-wp/hero-small.jpg",
-    "mediumPath": "_m/c/b/p/4/flambeau-mine-wp/hero-medium.jpg"
+    "smallPath": "_m/c/b/p/4/flambeau-mine-wp/hero-small.webp",
+    "mediumPath": "_m/c/b/p/4/flambeau-mine-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Chalcocite - Flambeau Mine, Ladysmith, Wisconsin.jpg",
@@ -81,8 +81,8 @@
       "sourceType": "core",
       "sourceArticleId": "flambeau-mine-wp",
       "sourceGeohash4": "cbp4",
-      "smallPath": "_m/c/b/p/4/flambeau-mine-wp/flambeau-mine-map-take-small.jpg",
-      "mediumPath": "_m/c/b/p/4/flambeau-mine-wp/flambeau-mine-map-take-medium.jpg"
+      "smallPath": "_m/c/b/p/4/flambeau-mine-wp/flambeau-mine-map-take-small.webp",
+      "mediumPath": "_m/c/b/p/4/flambeau-mine-wp/flambeau-mine-map-take-medium.webp"
     },
     {
       "filename": "Flambeau Mine 360 VR Photosphere.jpg",
@@ -109,15 +109,14 @@
       "sourceType": "core",
       "sourceArticleId": "flambeau-mine-wp",
       "sourceGeohash4": "cbp4",
-      "smallPath": "_m/c/b/p/4/flambeau-mine-wp/flambeau-mine-360-vr-p-small.jpg",
-      "mediumPath": "_m/c/b/p/4/flambeau-mine-wp/flambeau-mine-360-vr-p-medium.jpg"
+      "smallPath": "_m/c/b/p/4/flambeau-mine-wp/flambeau-mine-360-vr-p-small.webp",
+      "mediumPath": "_m/c/b/p/4/flambeau-mine-wp/flambeau-mine-360-vr-p-medium.webp"
     }
   ],
   "galleryPaths": [
     "_m/c/b/p/4/flambeau-mine-wp/flambeau-mine-map-take.jpg",
     "_m/c/b/p/4/flambeau-mine-wp/flambeau-mine-360-vr-p.jpg"
   ],
-  "fetchedAt": "2026-02-22T03:02:51.550Z",
   "narration": {
     "files": [
       "cbp4-flambeau-mine-flight-context.mp3",
@@ -135,7 +134,6 @@
       "cbp4-flambeau-mine-courtroom-reckoning.mp3": 66.1110833,
       "cbp4-flambeau-mine-prairie-over-the-pit.mp3": 61.7159166
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T11:05:13.518Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

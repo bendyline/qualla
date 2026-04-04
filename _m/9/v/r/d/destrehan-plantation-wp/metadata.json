@@ -26,8 +26,8 @@
     "sourceType": "core",
     "sourceArticleId": "destrehan-plantation-wp",
     "sourceGeohash4": "9vrd",
-    "smallPath": "_m/9/v/r/d/destrehan-plantation-wp/hero-small.jpg",
-    "mediumPath": "_m/9/v/r/d/destrehan-plantation-wp/hero-medium.jpg"
+    "smallPath": "_m/9/v/r/d/destrehan-plantation-wp/hero-small.webp",
+    "mediumPath": "_m/9/v/r/d/destrehan-plantation-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Destrehan Plantation Store.jpg",
@@ -112,8 +112,8 @@
       "sourceType": "core",
       "sourceArticleId": "destrehan-plantation-wp",
       "sourceGeohash4": "9vrd",
-      "smallPath": "_m/9/v/r/d/destrehan-plantation-wp/destrehan-manor-house-small.jpg",
-      "mediumPath": "_m/9/v/r/d/destrehan-plantation-wp/destrehan-manor-house-medium.jpg"
+      "smallPath": "_m/9/v/r/d/destrehan-plantation-wp/destrehan-manor-house-small.webp",
+      "mediumPath": "_m/9/v/r/d/destrehan-plantation-wp/destrehan-manor-house-medium.webp"
     },
     {
       "filename": "Destrehan Plantation, 2.JPG",
@@ -146,7 +146,7 @@
       "sourceType": "core",
       "sourceArticleId": "destrehan-plantation-wp",
       "sourceGeohash4": "9vrd",
-      "smallPath": "_m/9/v/r/d/destrehan-plantation-wp/destrehan-plantation-small.jpg"
+      "smallPath": "_m/9/v/r/d/destrehan-plantation-wp/destrehan-plantation-small.webp"
     },
     {
       "filename": "Destrehan Plantation, marble bathtub.jpg",
@@ -171,8 +171,8 @@
       "sourceType": "core",
       "sourceArticleId": "destrehan-plantation-wp",
       "sourceGeohash4": "9vrd",
-      "smallPath": "_m/9/v/r/d/destrehan-plantation-wp/due-part-old-legend-pr-small.jpg",
-      "mediumPath": "_m/9/v/r/d/destrehan-plantation-wp/due-part-old-legend-pr-medium.jpg"
+      "smallPath": "_m/9/v/r/d/destrehan-plantation-wp/due-part-old-legend-pr-small.webp",
+      "mediumPath": "_m/9/v/r/d/destrehan-plantation-wp/due-part-old-legend-pr-medium.webp"
     },
     {
       "filename": "Charvet invoice Destrehan 1860.jpg",
@@ -201,7 +201,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "destrehan-plantation-wp",
-      "sourceGeohash4": "9vrd"
+      "sourceGeohash4": "9vrd",
+      "smallPath": "_m/9/v/r/d/destrehan-plantation-wp/charvet-invoice-destrehan-1860-small.webp"
     },
     {
       "filename": "Destrehan Plantation, 14.JPG",
@@ -230,7 +231,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "destrehan-plantation-wp",
-      "sourceGeohash4": "9vrd"
+      "sourceGeohash4": "9vrd",
+      "smallPath": "_m/9/v/r/d/destrehan-plantation-wp/destrehan-plantation-14-small.webp"
     }
   ],
   "galleryPaths": [
@@ -241,7 +243,6 @@
     "_m/9/v/r/d/destrehan-plantation-wp/charvet-invoice-destrehan-1860.jpg",
     "_m/9/v/r/d/destrehan-plantation-wp/destrehan-plantation-14.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:10:29.671Z",
   "narration": {
     "files": [
       "9vrd-destrehan-plantation-flight-context.mp3",
@@ -261,8 +262,7 @@
       "9vrd-destrehan-plantation-confederate-diplomats-and-freed-colonies.mp3": 59.1817083,
       "9vrd-destrehan-plantation-surviving-the-refinery-and-the-treasure-hunters.mp3": 73.2127083
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T10:00:37.363Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T23:10:30.242Z"
 }

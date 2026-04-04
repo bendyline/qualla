@@ -1,0 +1,162 @@
+{
+  "id": "ucluelet-wp",
+  "source": "wikipedia",
+  "sourceId": "1338013",
+  "title": "Ucluelet",
+  "slug": "ucluelet",
+  "summary": "A small fishing village turned adventure-tourism hub on Vancouver Island's wild west coast, whose Nuu-chah-nulth name means 'people of the safe harbour.'",
+  "content": {
+    "intro": "The Yuuluit'ath people called it the safe landing place. In the Nuu-chah-nulth language, Ucluelet describes a harbour sheltered from the open Pacific by the curve of the peninsula that bears its name. For centuries, that shelter defined the settlement. Fishing boats worked the rich waters of Barkley Sound, logging trucks hauled timber down Highway 4, and the town of just over 2,000 people lived at the rhythm of resource extraction. Then the tourists came, drawn by the same wild coastline the locals had always taken for granted, and Ucluelet began reinventing itself as one of British Columbia's most compelling small destinations.",
+    "sections": [
+      {
+        "title": "Two Peoples, One Bay",
+        "body": "Ucluelet is inseparable from its Indigenous neighbor. Just across the bay, connected by road but a world apart in governance, sits Hitacu, home to the Yuuluit'ath Government, one of the five Maa-nulth First Nations that signed a modern treaty with British Columbia and Canada. The Yuuluit'ath, whose name translates as 'people of the safe harbour,' have lived in these waters long before the first European vessel rounded the peninsula. Their presence shapes the town's character in ways both visible and subtle, from the cultural programs at local schools to the broader political reality of shared coastline and overlapping claims. The 2021 census counted 2,066 residents in Ucluelet proper, a population that swells dramatically each summer."
+      },
+      {
+        "title": "The Wild Pacific Trail",
+        "body": "The trail that put Ucluelet on the tourism map begins at Amphitrite Point Lighthouse and follows the open Pacific coastline north through Big Beach Park. Walking it, you understand why storm watching has become a legitimate industry here. Between November and March, Pacific swells detonate against the volcanic rock, sending spray high enough to soak hikers standing well back from the edge. The trail is accessible to all ages and abilities, and in some sections even to wheelchairs, which is remarkable given the raw power of the landscape it traverses. In calmer months, the same path offers views of grey whales migrating between Baja California and Alaska, their spouts visible from the clifftops during the Pacific Rim Whale Festival each March."
+      },
+      {
+        "title": "From Canneries to Catch-and-Release",
+        "body": "Ucluelet's economy has undergone a quiet revolution. The fishing and logging industries that sustained the town for generations have not disappeared, but they have been eclipsed by tourism. The Pacific Rim Visitor Centre, located at the park entrance on Highway 4, is the second-most-visited tourism centre on Vancouver Island after Victoria, welcoming an average of 90,000 visitors annually to the Ucluelet-Tofino-Pacific Rim corridor. Surfers gather along Florencia Bay and Wickaninnish Beach in summer. Kayakers explore the inlet. Bear-watching tours depart from the harbour. In 2012, the Ucluelet Aquarium moved into a new building on Main Street, operating on a catch-and-release model that returns every specimen to the ocean at season's end, a philosophy that neatly captures the town's evolving relationship with its marine resources."
+      },
+      {
+        "title": "Fog, Festivals, and Floatplanes",
+        "body": "Getting to Ucluelet requires commitment. Highway 4 from Port Alberni winds through mountain passes that demand winter tires or chains from October through March. The Tofino-Ucluelet Airport sits about twenty minutes away by car, and the harbour's water aerodrome accepts floatplanes, though coastal fog regularly delays summer morning arrivals. The isolation is part of the appeal. Once you arrive, the town rewards with a calendar of events that belies its size: the Edge to Edge Marathon from Tofino each June, the Pacific Rim Summer Festival in July, and Ukee Days at month's end, featuring the salmon barbecue and town parade that have anchored local life long before the tourists arrived. Every odd year, Ucluelet hosts a leg of the Van Isle 360, a sailing race circumnavigating Vancouver Island in ten legs."
+      }
+    ],
+    "flightContext": "Located at 48.935N, 125.542W on the Ucluelet Peninsula, the southern gateway to Pacific Rim National Park Reserve. Nearest airport is Tofino/Long Beach Airport (CYAZ), about 20 minutes by road. Ucluelet Water Aerodrome (CAP4) is in the harbour and accepts floatplanes. Coastal fog is extremely common in summer mornings, complicating VFR approaches. Highway 4 connects to Port Alberni to the east. Barkley Sound lies to the south, Clayoquot Sound to the north."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 48.935,
+      "lng": -125.54194444444
+    },
+    "geohash": "c0wwr"
+  },
+  "categories": [
+    "town",
+    "coastal",
+    "tourism",
+    "indigenous-culture"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-21T00:00:00Z",
+    "wordCount": 740,
+    "readTime": 4,
+    "firstPublished": "2026-03-21T00:00:00Z",
+    "storyNumber": 11023
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Statistics Canada - Census Profile 2021, Ucluelet",
+      "url": "https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?Lang=E&SearchText=Ucluelet&DGUIDlist=2021A00055923019",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "2021 census population 2,066 confirmed",
+        "Maa-nulth First Nations treaty confirmed",
+        "Yuuluit'ath self-governance since April 2011"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Wikipedia - Ucluelet",
+      "url": "https://en.wikipedia.org/wiki/Ucluelet",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "Yuuluit'ath name meaning 'people of the safe harbour' confirmed",
+        "location on Ucluelet Peninsula confirmed",
+        "Wild Pacific Trail starting at Amphitrite Point confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "c/0/w/w/ucluelet-wp",
+  "locationWikivoyagePath": "c/0/w/w/ucluelet-wk",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "hot-springs-cove-wp",
+      "title": "Hot Springs Cove",
+      "tile": "c0y0",
+      "coordinates": {
+        "lat": 49.366666666667,
+        "lng": -126.2625
+      },
+      "distanceKm": 16.9
+    },
+    "n": {
+      "id": "clayoquot-sound-biosphere-reserve-wp",
+      "title": "Clayoquot Sound Biosphere Reserve",
+      "tile": "c0y2",
+      "coordinates": {
+        "lat": 49.3,
+        "lng": -125.93333333333334
+      },
+      "distanceKm": 20.3
+    },
+    "ne": {
+      "id": "fossli-provincial-park-wp",
+      "title": "Fossli Provincial Park",
+      "tile": "c0z0",
+      "coordinates": {
+        "lat": 49.25,
+        "lng": -124.95
+      },
+      "distanceKm": 15.4
+    },
+    "w": {
+      "id": "hesquiaht-first-nation-wp",
+      "title": "Hesquiaht First Nation",
+      "tile": "c0y0",
+      "coordinates": {
+        "lat": 49.3683572,
+        "lng": -126.2720923
+      },
+      "distanceKm": 46.2
+    },
+    "e": {
+      "id": "bamfield-marine-sciences-centre-wp",
+      "title": "Bamfield Marine Sciences Centre",
+      "tile": "c0xj",
+      "coordinates": {
+        "lat": 48.835262,
+        "lng": -125.1355
+      },
+      "distanceKm": 13.4
+    },
+    "sw": {
+      "id": "uss-sailfish-ssr-572-wp",
+      "title": "USS Sailfish (SSR-572)",
+      "tile": "c0m7",
+      "coordinates": {
+        "lat": 47.09638888888889,
+        "lng": -127.38555555555556
+      },
+      "distanceKm": 197.8
+    },
+    "s": {
+      "id": "ss-coast-trader-wp",
+      "title": "SS Coast Trader",
+      "tile": "c0wd",
+      "coordinates": {
+        "lat": 48.31666666666667,
+        "lng": -125.66666666666667
+      },
+      "distanceKm": 41.7
+    },
+    "se": {
+      "id": "west-coast-trail-wp",
+      "title": "West Coast Trail",
+      "tile": "c0xh",
+      "coordinates": {
+        "lat": 48.664475,
+        "lng": -124.837621
+      },
+      "distanceKm": 23.6
+    }
+  }
+}

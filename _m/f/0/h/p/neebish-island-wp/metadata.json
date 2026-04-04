@@ -33,8 +33,8 @@
     "sourceType": "core",
     "sourceArticleId": "neebish-island-wp",
     "sourceGeohash4": "f0hp",
-    "mediumPath": "_m/f/0/h/p/neebish-island-wp/hero-medium.jpg",
-    "smallPath": "_m/f/0/h/p/neebish-island-wp/hero-small.jpg"
+    "mediumPath": "_m/f/0/h/p/neebish-island-wp/hero-medium.webp",
+    "smallPath": "_m/f/0/h/p/neebish-island-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Neebish Island, Michigan.JPG",
@@ -98,7 +98,7 @@
       "sourceType": "core",
       "sourceArticleId": "neebish-island-wp",
       "sourceGeohash4": "f0hp",
-      "smallPath": "_m/f/0/h/p/neebish-island-wp/vessels-upbound-lower-small.jpg"
+      "smallPath": "_m/f/0/h/p/neebish-island-wp/vessels-upbound-lower-small.webp"
     },
     {
       "filename": "Sault Ste Marie, Ontario and Michigan.JPG",
@@ -138,8 +138,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "neebish-island-wp",
       "sourceGeohash4": "f0hp",
-      "mediumPath": "_m/f/0/h/p/neebish-island-wp/sault-ste-marie-ontario-and-mi-medium.jpg",
-      "smallPath": "_m/f/0/h/p/neebish-island-wp/sault-ste-marie-ontario-and-mi-small.jpg"
+      "mediumPath": "_m/f/0/h/p/neebish-island-wp/sault-ste-marie-ontario-and-mi-medium.webp",
+      "smallPath": "_m/f/0/h/p/neebish-island-wp/sault-ste-marie-ontario-and-mi-small.webp"
     },
     {
       "filename": "Algomarine St. Joseph Island (Ontario).jpg",
@@ -164,8 +164,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "neebish-island-wp",
       "sourceGeohash4": "f0hp",
-      "mediumPath": "_m/f/0/h/p/neebish-island-wp/algomarine-st-joseph-island-on-medium.jpg",
-      "smallPath": "_m/f/0/h/p/neebish-island-wp/algomarine-st-joseph-island-on-small.jpg"
+      "mediumPath": "_m/f/0/h/p/neebish-island-wp/algomarine-st-joseph-island-on-medium.webp",
+      "smallPath": "_m/f/0/h/p/neebish-island-wp/algomarine-st-joseph-island-on-small.webp"
     }
   ],
   "galleryPaths": [
@@ -173,6 +173,24 @@
     "_m/f/0/h/p/neebish-island-wp/sault-ste-marie-ontario-and-mi.jpg",
     "_m/f/0/h/p/neebish-island-wp/algomarine-st-joseph-island-on.jpg"
   ],
-  "fetchedAt": "2026-02-28T11:02:47.485Z",
-  "updatedAt": "2026-02-28T11:02:56.834Z"
+  "updatedAt": "2026-02-28T11:02:56.834Z",
+  "narration": {
+    "files": [
+      "f0hp-neebish-island-flight-context.mp3",
+      "f0hp-neebish-island-intro.mp3",
+      "f0hp-neebish-island-the-leaf-in-the-river.mp3",
+      "f0hp-neebish-island-two-channels-two-directions.mp3",
+      "f0hp-neebish-island-island-life-at-the-edge.mp3",
+      "f0hp-neebish-island-a-painters-view-from-the-lighthouse.mp3"
+    ],
+    "durations": {
+      "f0hp-neebish-island-flight-context.mp3": 47.7284166,
+      "f0hp-neebish-island-intro.mp3": 38.8996666,
+      "f0hp-neebish-island-the-leaf-in-the-river.mp3": 58.5835833,
+      "f0hp-neebish-island-two-channels-two-directions.mp3": 68.2802916,
+      "f0hp-neebish-island-island-life-at-the-edge.mp3": 66.501375,
+      "f0hp-neebish-island-a-painters-view-from-the-lighthouse.mp3": 66.3395
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

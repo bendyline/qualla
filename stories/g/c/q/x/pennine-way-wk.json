@@ -79,84 +79,84 @@
   ],
   "directionalNeighbors": {
     "nw": {
-      "id": "edinburgh-wk",
-      "title": "Edinburgh",
-      "tile": "gcvw",
+      "id": "winter-hill-air-disaster-wp",
+      "title": "Winter Hill Air Disaster",
+      "tile": "gcw1",
       "coordinates": {
-        "lat": 55.953056,
-        "lng": -3.188889
+        "lat": 53.629,
+        "lng": -2.513
       },
-      "distanceKm": 264.3
+      "distanceKm": 3.9
     },
     "n": {
-      "id": "west-highland-way-wk",
-      "title": "West Highland Way",
-      "tile": "gfh8",
+      "id": "kirkstall-abbey-wp",
+      "title": "Kirkstall Abbey",
+      "tile": "gcwf",
       "coordinates": {
-        "lat": 56.2935,
-        "lng": -4.6962
+        "lat": 53.82054,
+        "lng": -1.60806
       },
-      "distanceKm": 346.3
+      "distanceKm": 31.5
     },
     "ne": {
-      "id": "bergen-wk",
-      "title": "Bergen",
-      "tile": "u4ez",
+      "id": "selby-rail-crash-wp",
+      "title": "Selby Rail Crash",
+      "tile": "gcx1",
       "coordinates": {
-        "lat": 60.3913,
-        "lng": 5.3221
+        "lat": 53.7293,
+        "lng": -1.0521
       },
-      "distanceKm": 855.8
+      "distanceKm": 26.7
     },
     "w": {
-      "id": "dublin-wk",
-      "title": "Dublin",
-      "tile": "gc7x",
+      "id": "norton-priory-wp",
+      "title": "Norton Priory",
+      "tile": "gcqp",
       "coordinates": {
-        "lat": 53.3411,
-        "lng": -6.2633
+        "lat": 53.3423,
+        "lng": -2.6799
       },
-      "distanceKm": 252.4
+      "distanceKm": 14.6
     },
     "e": {
-      "id": "london-wk",
-      "title": "London",
-      "tile": "gcpv",
+      "id": "bolsover-castle-wp",
+      "title": "Bolsover Castle",
+      "tile": "gcrn",
       "coordinates": {
-        "lat": 51.5086,
-        "lng": -0.1264
+        "lat": 53.2307,
+        "lng": -1.29611
       },
-      "distanceKm": 222.3
+      "distanceKm": 15.1
     },
     "sw": {
-      "id": "fishguard-wk",
-      "title": "The Battle of Fishguard: The Last Invasion of Britain",
-      "tile": "gchr",
+      "id": "gresford-disaster-wp",
+      "title": "Gresford Disaster",
+      "tile": "gcmv",
       "coordinates": {
-        "lat": 51.9944,
-        "lng": -4.98
+        "lat": 53.067,
+        "lng": -2.945
       },
-      "distanceKm": 209.2
+      "distanceKm": 32.4
     },
     "s": {
-      "id": "cotswolds-wk",
-      "title": "Cotswolds",
-      "tile": "gcnw",
+      "id": "raf-fauld-explosion-wp",
+      "title": "RAF Fauld Explosion",
+      "tile": "gcqu",
       "coordinates": {
-        "lat": 51.761,
-        "lng": -1.888
+        "lat": 52.847117,
+        "lng": -1.730608
       },
-      "distanceKm": 147.4
+      "distanceKm": 29.8
     },
     "se": {
-      "id": "london-beer-flood-wp",
-      "title": "The London Beer Flood: When a Tidal Wave of Porter Drowned a Slum",
-      "tile": "gcpv",
+      "id": "newstead-abbey-wp",
+      "title": "Newstead Abbey",
+      "tile": "gcrj",
       "coordinates": {
-        "lat": 51.51694444444444,
-        "lng": -0.13
+        "lat": 53.0784,
+        "lng": -1.19294
       },
-      "distanceKm": 194.8
+      "distanceKm": 14.3
     }
   }
 }

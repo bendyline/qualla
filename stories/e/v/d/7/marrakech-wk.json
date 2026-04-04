@@ -87,14 +87,14 @@
   "locationWikivoyagePath": "e/v/d/7/marrakech-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "lisbon-wk",
-      "title": "Lisbon",
-      "tile": "eycs",
+      "id": "1356-lisbon-earthquake-wp",
+      "title": "1356 Lisbon Earthquake",
+      "tile": "ey2z",
       "coordinates": {
-        "lat": 38.7223,
-        "lng": -9.1393
+        "lat": 36.5,
+        "lng": -10
       },
-      "distanceKm": 770.5
+      "distanceKm": 540.2
     },
     "n": {
       "id": "casablanca-wk",
@@ -107,34 +107,34 @@
       "distanceKm": 197.6
     },
     "ne": {
-      "id": "fes-wk",
-      "title": "Fes",
-      "tile": "eyh3",
+      "id": "chellah-wp",
+      "title": "Chellah",
+      "tile": "ey51",
       "coordinates": {
-        "lat": 34.0181,
-        "lng": -5.0078
+        "lat": 34.00666667,
+        "lng": -6.82027778
       },
-      "distanceKm": 330.3
+      "distanceKm": 249.1
     },
     "w": {
-      "id": "lisbon-earthquake-wk",
-      "title": "The Lisbon Earthquake: The Disaster That Made Philosophers Question God",
-      "tile": "eycs",
+      "id": "battle-of-cape-st-vincent-1606-wp",
+      "title": "Battle of Cape St. Vincent (1606)",
+      "tile": "ey9c",
       "coordinates": {
-        "lat": 38.7223,
-        "lng": -9.1393
+        "lat": 36.81805555555555,
+        "lng": -8.563611111111111
       },
-      "distanceKm": 799.8
+      "distanceKm": 585.6
     },
     "e": {
-      "id": "fez-wk",
-      "title": "Fez",
-      "tile": "eyh3",
+      "id": "mausoleum-of-mohammed-v-wp",
+      "title": "Mausoleum of Mohammed V",
+      "tile": "ey51",
       "coordinates": {
-        "lat": 34.0181,
-        "lng": -5.0078
+        "lat": 34.02261389,
+        "lng": -6.82194722
       },
-      "distanceKm": 352.7
+      "distanceKm": 279.6
     },
     "sw": {
       "id": "costa-teguise-wk",

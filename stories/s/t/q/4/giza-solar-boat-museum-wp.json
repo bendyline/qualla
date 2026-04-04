@@ -1,0 +1,148 @@
+{
+  "id": "giza-solar-boat-museum-wp",
+  "source": "wikipedia",
+  "sourceId": "38040282",
+  "title": "Giza Solar Boat Museum",
+  "slug": "giza-solar-boat-museum",
+  "summary": "A purpose-built museum that once housed the reconstructed Khufu ship -- a 4,600-year-old cedar vessel discovered in 1,224 pieces beside the Great Pyramid.",
+  "content": {
+    "intro": "On May 26, 1954, when workers pierced a hole into a sealed limestone chamber on the south side of the Great Pyramid, everyone present smelled the same thing: cedar wood. The scent had been trapped underground for forty-six centuries, waiting. Inside lay 1,224 pieces of a disassembled ship that once belonged to Pharaoh Khufu, builder of the Great Pyramid. Reassembling it would take fourteen years. Displaying it would require a museum built from scratch, just meters from where the ship was buried.",
+    "sections": [
+      {
+        "title": "The Scent of Forty-Six Centuries",
+        "body": "The discovery came during routine cleanup of the Giza Plateau. Mohamed Zaky Nour, the Egyptian antiquities inspector for the area, civil engineer Kamal el Malakh, and supervisor Doctor Abdel Men'em Aboubakr found what appeared to be a limestone wall. Digging deeper, they reached 42 blocks of rock arranged in two protective groups over a burial pit. When the hole was pierced and that ancient cedar aroma escaped, the team knew they had found something extraordinary. The ship had been deliberately disassembled for Khufu's funeral rites -- a solar barque intended to carry the pharaoh through the afterlife alongside the sun god Ra. The painstaking reassembly, completed in 1968, revealed a vessel of remarkable craftsmanship: a full-size wooden ship, among the oldest ever discovered."
+      },
+      {
+        "title": "A Museum at the Pyramid's Foot",
+        "body": "The Giza Solar Boat Museum was constructed between 1961 and 1982, sited just meters from the burial pit itself. Its design served a singular purpose: preserving the reconstructed Khufu ship under controlled conditions while allowing visitors to view it from three different levels. From the ground floor, visitors could study the hull's underside. Upper levels offered views of the deck and the vessel's elegant proportions. The building was equipped with climate control systems to protect the ancient wood, which had survived millennia sealed in stone but was now vulnerable to the open air of modern Cairo. A scale model of the ship accompanied the original, along with photographs documenting the discovery and the long process of reconstruction."
+      },
+      {
+        "title": "Voyage to a New Home",
+        "body": "In August 2021, the Khufu ship made one final journey -- not through the afterlife, but across two kilometers of modern road to the Grand Egyptian Museum. The relocation was itself an engineering feat, requiring custom transport to move the fragile ancient vessel without damage. With the ship gone, the museum that had been its sole reason for existence was dismantled. The building's removal cleared sightlines around the Great Pyramid and returned a small piece of the plateau to something closer to its ancient appearance. The Khufu ship now occupies a dedicated hall in the Grand Egyptian Museum, displayed alongside a second solar boat discovered in an adjacent pit, with interactive exhibits explaining their possible purposes -- transporting the king's soul or accompanying the sun god on his daily voyage across the sky."
+      }
+    ],
+    "flightContext": "The former museum site is located at 29.978N, 31.134E, immediately south of the Great Pyramid of Khufu on the Giza Plateau. From the air, the museum's former footprint is no longer visible, but the south face of the Great Pyramid and the boat pits beside it are identifiable at low altitude. Nearest major airport: Cairo International (HECA), 35 km northeast. Sphinx International Airport (HESX) is approximately 15 km southwest. The Khufu ship is now housed at the Grand Egyptian Museum, 2 km northwest of the pyramids near a major motorway interchange."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 29.9781,
+      "lng": 31.1344
+    },
+    "geohash": "stq4s"
+  },
+  "categories": [
+    "ancient-egypt",
+    "museums",
+    "archaeology",
+    "maritime-history"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-27T00:00:00Z",
+    "wordCount": 620,
+    "readTime": 3,
+    "firstPublished": "2026-03-27T00:00:00Z",
+    "storyNumber": 13629
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Khufu ship - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Khufu_ship",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "Discovery on May 26, 1954 by Kamal el-Mallakh and team",
+        "Ship found in 1,224 pieces in a sealed limestone pit",
+        "Reassembly took 14 years (completed 1968)",
+        "Ship transported to Grand Egyptian Museum in August 2021 (August 5-7)",
+        "Transport was ~7-8 km journey taking about 10 hours via remote-controlled vehicle"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "s/t/q/4/giza-solar-boat-museum-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "library-alexandria-wk",
+      "title": "The Library of Alexandria: The Lost Knowledge of the Ancient World",
+      "tile": "stt3",
+      "coordinates": {
+        "lat": 31.2001,
+        "lng": 29.9187
+      },
+      "distanceKm": 124.9
+    },
+    "n": {
+      "id": "denshway-museum-wp",
+      "title": "Denshway Museum",
+      "tile": "stmy",
+      "coordinates": {
+        "lat": 30.60194444,
+        "lng": 30.85361111
+      },
+      "distanceKm": 47.9
+    },
+    "ne": {
+      "id": "canal-of-the-pharaohs-wp",
+      "title": "Canal of the Pharaohs",
+      "tile": "stqt",
+      "coordinates": {
+        "lat": 30.560303,
+        "lng": 31.935883
+      },
+      "distanceKm": 46
+    },
+    "w": {
+      "id": "alamein-memorial-wp",
+      "title": "Alamein Memorial",
+      "tile": "stkx",
+      "coordinates": {
+        "lat": 30.83813,
+        "lng": 28.94711
+      },
+      "distanceKm": 184.4
+    },
+    "e": {
+      "id": "1974-suez-canal-clearance-operation-wp",
+      "title": "1974 Suez Canal Clearance Operation",
+      "tile": "strj",
+      "coordinates": {
+        "lat": 30.412419444444442,
+        "lng": 32.35834166666667
+      },
+      "distanceKm": 84.7
+    },
+    "sw": {
+      "id": "valley-of-the-golden-mummies-wp",
+      "title": "Valley of the Golden Mummies",
+      "tile": "sth3",
+      "coordinates": {
+        "lat": 28.326811111111,
+        "lng": 28.826111111111
+      },
+      "distanceKm": 229.9
+    },
+    "s": {
+      "id": "wadi-rum-wp",
+      "title": "Wadi Rum",
+      "tile": "sv30",
+      "coordinates": {
+        "lat": 29.5765,
+        "lng": 35.419928
+      },
+      "distanceKm": 416.4
+    },
+    "se": {
+      "id": "saint-catherine-s-monastery-wp",
+      "title": "Saint Catherine's Monastery",
+      "tile": "sv04",
+      "coordinates": {
+        "lat": 28.5561,
+        "lng": 33.9757
+      },
+      "distanceKm": 260.4
+    }
+  }
+}

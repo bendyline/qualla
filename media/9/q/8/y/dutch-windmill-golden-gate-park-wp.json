@@ -3,11 +3,11 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/9q8y-dutch-windmill-intro.mp3",
-        "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/9q8y-dutch-windmill-decline-and-restoration.mp3",
         "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/9q8y-dutch-windmill-flight-context.mp3",
-        "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/9q8y-dutch-windmill-the-queens-garden.mp3",
-        "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/9q8y-dutch-windmill-turning-sand-into-paradise.mp3"
+        "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/9q8y-dutch-windmill-intro.mp3",
+        "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/9q8y-dutch-windmill-turning-sand-into-paradise.mp3",
+        "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/9q8y-dutch-windmill-decline-and-restoration.mp3",
+        "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/9q8y-dutch-windmill-the-queens-garden.mp3"
       ],
       "hero": {
         "path": "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/hero.jpg",
@@ -31,7 +31,7 @@
           "License migration completed",
           "Self-published work"
         ],
-        "smallPath": "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/hero-small.jpg"
+        "smallPath": "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/hero-small.webp"
       },
       "images": [
         {
@@ -54,10 +54,11 @@
             "Dutch Mill, Golden Gate Park (San Francisco)",
             "Self-published work"
           ],
-          "smallPath": "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/dutch-windmill-john-f-small.jpg",
-          "mediumPath": "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/dutch-windmill-john-f-medium.jpg"
+          "smallPath": "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/dutch-windmill-john-f-small.webp",
+          "mediumPath": "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/dutch-windmill-john-f-medium.webp"
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/q/8/y/dutch-windmill-golden-gate-park-wp/9q8y-undefined-combined.mp3"
     }
   }
 }

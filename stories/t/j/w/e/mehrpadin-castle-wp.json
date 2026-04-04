@@ -102,14 +102,14 @@
       "distanceKm": 3.9
     },
     "ne": {
-      "id": "zibad-castle-wp",
-      "title": "Zibad Castle",
-      "tile": "tq1d",
+      "id": "2024-tabas-coal-mine-explosion-wp",
+      "title": "2024 Tabas Coal Mine Explosion",
+      "tile": "tmb7",
       "coordinates": {
-        "lat": 34.275555555555556,
-        "lng": 58.48222222222222
+        "lat": 32.9850129,
+        "lng": 56.8579884
       },
-      "distanceKm": 435.6
+      "distanceKm": 229.4
     },
     "w": {
       "id": "battle-of-gabiene-wp",
@@ -122,14 +122,14 @@
       "distanceKm": 189.7
     },
     "e": {
-      "id": "alexandria-carmania-wp",
-      "title": "Alexandria Carmania",
-      "tile": "tkbw",
+      "id": "siege-of-kerman-wp",
+      "title": "Siege of Kerman",
+      "tile": "tm2s",
       "coordinates": {
-        "lat": 27.949166666666667,
-        "lng": 57.299166666666665
+        "lat": 30.283333,
+        "lng": 57.083333
       },
-      "distanceKm": 465.5
+      "distanceKm": 256.1
     },
     "sw": {
       "id": "tomb-of-cyrus-the-great-wp",
@@ -152,14 +152,15 @@
       "distanceKm": 199.8
     },
     "se": {
-      "id": "1977-khurgu-earthquake-wp",
-      "title": "1977 Khurgu Earthquake",
-      "tile": "tkbh",
+      "id": "ganjali-khan-complex-wp",
+      "title": "Ganjali Khan Complex",
+      "tile": "tm2s",
       "coordinates": {
-        "lat": 27.584,
-        "lng": 56.378
+        "lat": 30.290556,
+        "lng": 57.078333
       },
-      "distanceKm": 437.9
+      "distanceKm": 240.6
     }
-  }
+  },
+  "locationWikipediaPath": "t/j/w/e/mehrpadin-castle-wp"
 }

@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "central-persian-desert-basins-wp",
     "sourceGeohash4": "tjyz",
-    "mediumPath": "_m/t/j/y/z/central-persian-desert-basins-wp/hero-medium.jpg",
-    "smallPath": "_m/t/j/y/z/central-persian-desert-basins-wp/hero-small.jpg"
+    "mediumPath": "_m/t/j/y/z/central-persian-desert-basins-wp/hero-medium.webp",
+    "smallPath": "_m/t/j/y/z/central-persian-desert-basins-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Dasht-e Lut, Kerman province, Iran.png",
@@ -87,11 +87,29 @@
       "sourceType": "core",
       "sourceArticleId": "central-persian-desert-basins-wp",
       "sourceGeohash4": "tjyz",
-      "smallPath": "_m/t/j/y/z/central-persian-desert-basins-wp/ecoregion-pa1313-v2-ce-small.png"
+      "smallPath": "_m/t/j/y/z/central-persian-desert-basins-wp/ecoregion-pa1313-v2-ce-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/t/j/y/z/central-persian-desert-basins-wp/ecoregion-pa1313-v2-ce.png"
   ],
-  "fetchedAt": "2026-03-01T09:27:34.080Z"
+  "narration": {
+    "files": [
+      "tjyz-central-persian-desert-basins-flight-context.mp3",
+      "tjyz-central-persian-desert-basins-intro.mp3",
+      "tjyz-central-persian-desert-basins-walled-by-mountains-emptied-by-sun.mp3",
+      "tjyz-central-persian-desert-basins-plants-that-drink-salt.mp3",
+      "tjyz-central-persian-desert-basins-ghosts-of-a-wilder-time.mp3",
+      "tjyz-central-persian-desert-basins-the-basin-from-above.mp3"
+    ],
+    "durations": {
+      "tjyz-central-persian-desert-basins-flight-context.mp3": 52.2670833,
+      "tjyz-central-persian-desert-basins-intro.mp3": 45.7655416,
+      "tjyz-central-persian-desert-basins-walled-by-mountains-emptied-by-sun.mp3": 61.0493333,
+      "tjyz-central-persian-desert-basins-plants-that-drink-salt.mp3": 67.3571666,
+      "tjyz-central-persian-desert-basins-ghosts-of-a-wilder-time.mp3": 72.2048333,
+      "tjyz-central-persian-desert-basins-the-basin-from-above.mp3": 65.8150833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

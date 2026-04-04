@@ -30,8 +30,7 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-glorieta-pass-wp",
     "sourceGeohash4": "9wkf",
-    "smallPath": "_m/9/w/k/f/battle-of-glorieta-pass-wp/hero-small.jpg",
-    "mediumPath": "_m/9/w/k/f/battle-of-glorieta-pass-wp/hero-medium.jpg"
+    "smallPath": "_m/9/w/k/f/battle-of-glorieta-pass-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Glorieta Pass.png",
@@ -92,7 +91,7 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-glorieta-pass-wp",
       "sourceGeohash4": "9wkf",
-      "smallPath": "_m/9/w/k/f/battle-of-glorieta-pass-wp/battle-glorieta-pass-b-small.jpg"
+      "smallPath": "_m/9/w/k/f/battle-of-glorieta-pass-wp/hero-small.webp"
     },
     {
       "filename": "Battle of Glorieta Pass Action at Apache Canyon.jpg",
@@ -117,8 +116,8 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-glorieta-pass-wp",
       "sourceGeohash4": "9wkf",
-      "smallPath": "_m/9/w/k/f/battle-of-glorieta-pass-wp/start-civil-war-confed-small.jpg",
-      "mediumPath": "_m/9/w/k/f/battle-of-glorieta-pass-wp/start-civil-war-confed-medium.jpg"
+      "smallPath": "_m/9/w/k/f/battle-of-glorieta-pass-wp/start-civil-war-confed-small.webp",
+      "mediumPath": "_m/9/w/k/f/battle-of-glorieta-pass-wp/start-civil-war-confed-medium.webp"
     },
     {
       "filename": "Glorietapass.png",
@@ -141,7 +140,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-glorieta-pass-wp",
-      "sourceGeohash4": "9wkf"
+      "sourceGeohash4": "9wkf",
+      "smallPath": "_m/9/w/k/f/battle-of-glorieta-pass-wp/glorietapass-small.webp"
     },
     {
       "filename": "130326-Z-BR512-115 (8614212594).jpg",
@@ -157,7 +157,9 @@
       "dateCreated": "Taken on 26 March 2013 13:11",
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-glorieta-pass-wp",
-      "sourceGeohash4": "9wkf"
+      "sourceGeohash4": "9wkf",
+      "mediumPath": "_m/9/w/k/f/battle-of-glorieta-pass-wp/130326-z-br512-115-8614212594-medium.webp",
+      "smallPath": "_m/9/w/k/f/battle-of-glorieta-pass-wp/130326-z-br512-115-8614212594-small.webp"
     },
     {
       "filename": "Colonel Edward Canby (7222970884).jpg",
@@ -174,7 +176,8 @@
       "dateCreated": "2012-05-18 12:15",
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-glorieta-pass-wp",
-      "sourceGeohash4": "9wkf"
+      "sourceGeohash4": "9wkf",
+      "smallPath": "_m/9/w/k/f/battle-of-glorieta-pass-wp/colonel-edward-canby-722297088-small.webp"
     },
     {
       "filename": "Defending the New Mexico Territory (7222970602).jpg",
@@ -191,7 +194,8 @@
       "dateCreated": "2012-05-18 12:15",
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-glorieta-pass-wp",
-      "sourceGeohash4": "9wkf"
+      "sourceGeohash4": "9wkf",
+      "smallPath": "_m/9/w/k/f/battle-of-glorieta-pass-wp/defending-the-new-mexico-terri-small.webp"
     },
     {
       "filename": "Defending the New Mexico Territory (7222970452).jpg",
@@ -208,7 +212,8 @@
       "dateCreated": "2012-05-18 12:15",
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-glorieta-pass-wp",
-      "sourceGeohash4": "9wkf"
+      "sourceGeohash4": "9wkf",
+      "smallPath": "_m/9/w/k/f/battle-of-glorieta-pass-wp/defending-the-new-mexico-terri-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -220,7 +225,6 @@
     "_m/9/w/k/f/battle-of-glorieta-pass-wp/defending-the-new-mexico-terri.jpg",
     "_m/9/w/k/f/battle-of-glorieta-pass-wp/defending-the-new-mexico-terri-1.jpg"
   ],
-  "fetchedAt": "2026-02-22T00:00:14.618Z",
   "narration": {
     "files": [
       "9wkf-battle-of-glorieta-pass-the-gettysburg-of-the-west-flight-context.mp3",
@@ -240,8 +244,7 @@
       "9wkf-battle-of-glorieta-pass-the-gettysburg-of-the-west-the-raid-that-changed-everything.mp3": 52.3608333,
       "9wkf-battle-of-glorieta-pass-the-gettysburg-of-the-west-what-remains-in-the-pass.mp3": 62.6664583
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T19:20:20.548Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T00:00:15.565Z"
 }

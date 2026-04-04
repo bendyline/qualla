@@ -30,8 +30,8 @@
     "sourceType": "core",
     "sourceArticleId": "st-georges-bay-nova-scotia-wp",
     "sourceGeohash4": "f8hh",
-    "smallPath": "_m/f/8/h/h/st-georges-bay-nova-scotia-wp/hero-small.jpg",
-    "mediumPath": "_m/f/8/h/h/st-georges-bay-nova-scotia-wp/hero-medium.jpg"
+    "smallPath": "_m/f/8/h/h/st-georges-bay-nova-scotia-wp/hero-small.webp",
+    "mediumPath": "_m/f/8/h/h/st-georges-bay-nova-scotia-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Ballantynes Cove Harbour Panorama.jpg",
@@ -66,23 +66,21 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-02-22T12:48:57.292Z",
   "narration": {
     "files": [
       "f8hh-st-georges-bay-flight-context.mp3",
-      "f8hh-st-georges-bay-gateway-to-the-gulf.mp3",
-      "f8hh-st-georges-bay-geography-of-the-bay.mp3",
       "f8hh-st-georges-bay-intro.mp3",
+      "f8hh-st-georges-bay-geography-of-the-bay.mp3",
+      "f8hh-st-georges-bay-gateway-to-the-gulf.mp3",
       "f8hh-st-georges-bay-maritime-communities.mp3"
     ],
     "durations": {
-      "f8hh-st-georges-bay-flight-context.mp3": 62.232,
-      "f8hh-st-georges-bay-gateway-to-the-gulf.mp3": 29.976,
-      "f8hh-st-georges-bay-geography-of-the-bay.mp3": 37.44,
-      "f8hh-st-georges-bay-intro.mp3": 28.68,
-      "f8hh-st-georges-bay-maritime-communities.mp3": 30.552
+      "f8hh-st-georges-bay-flight-context.mp3": 37.868625,
+      "f8hh-st-georges-bay-intro.mp3": 28.0750833,
+      "f8hh-st-georges-bay-geography-of-the-bay.mp3": 36.0573333,
+      "f8hh-st-georges-bay-gateway-to-the-gulf.mp3": 29.9585,
+      "f8hh-st-georges-bay-maritime-communities.mp3": 30.0672083
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:57.938Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

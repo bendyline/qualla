@@ -25,7 +25,7 @@
     "sourceType": "core",
     "sourceArticleId": "rainbow-bridge-national-monument-wp",
     "sourceGeohash4": "9w94",
-    "smallPath": "_m/9/w/9/4/rainbow-bridge-national-monument-wp/hero-small.jpg"
+    "smallPath": "_m/9/w/9/4/rainbow-bridge-national-monument-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Rainbow Bridge National Monument.jpg",
@@ -78,7 +78,7 @@
       "sourceType": "core",
       "sourceArticleId": "rainbow-bridge-national-monument-wp",
       "sourceGeohash4": "9w94",
-      "smallPath": "_m/9/w/9/4/rainbow-bridge-national-monument-wp/utah-rainbow-arch-small.jpg"
+      "smallPath": "_m/9/w/9/4/rainbow-bridge-national-monument-wp/utah-rainbow-arch-small.webp"
     },
     {
       "filename": "HistoricPlacesNationalRegisterPlaque.JPG",
@@ -133,8 +133,8 @@
       "sourceType": "core",
       "sourceArticleId": "rainbow-bridge-national-monument-wp",
       "sourceGeohash4": "9w94",
-      "smallPath": "_m/9/w/9/4/rainbow-bridge-national-monument-wp/natural-colour-image-c-small.jpg",
-      "mediumPath": "_m/9/w/9/4/rainbow-bridge-national-monument-wp/natural-colour-image-c-medium.jpg"
+      "smallPath": "_m/9/w/9/4/rainbow-bridge-national-monument-wp/natural-colour-image-c-small.webp",
+      "mediumPath": "_m/9/w/9/4/rainbow-bridge-national-monument-wp/natural-colour-image-c-medium.webp"
     },
     {
       "filename": "Byron Cummings at Rainbow Bridge, 1909.JPG",
@@ -162,7 +162,7 @@
       "sourceType": "core",
       "sourceArticleId": "rainbow-bridge-national-monument-wp",
       "sourceGeohash4": "9w94",
-      "smallPath": "_m/9/w/9/4/rainbow-bridge-national-monument-wp/william-b-douglass-exa-small.jpg"
+      "smallPath": "_m/9/w/9/4/rainbow-bridge-national-monument-wp/william-b-douglass-exa-small.webp"
     },
     {
       "filename": "Rainbow Bridge Area and Navajo Mountain, Lake Powell, Utah (15991132866).jpg",
@@ -190,7 +190,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "rainbow-bridge-national-monument-wp",
-      "sourceGeohash4": "9w94"
+      "sourceGeohash4": "9w94",
+      "mediumPath": "_m/9/w/9/4/rainbow-bridge-national-monument-wp/rainbow-bridge-area-and-navajo-medium.webp",
+      "smallPath": "_m/9/w/9/4/rainbow-bridge-national-monument-wp/rainbow-bridge-area-and-navajo-small.webp"
     },
     {
       "filename": "Rainbow Bridge Area and Navajo Mountain, Lake Powell, Utah (15829656000).jpg",
@@ -218,7 +220,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "rainbow-bridge-national-monument-wp",
-      "sourceGeohash4": "9w94"
+      "sourceGeohash4": "9w94",
+      "mediumPath": "_m/9/w/9/4/rainbow-bridge-national-monument-wp/rainbow-bridge-area-and-navajo-1-medium.webp",
+      "smallPath": "_m/9/w/9/4/rainbow-bridge-national-monument-wp/rainbow-bridge-area-and-navajo-1-small.webp"
     },
     {
       "filename": "Donald Beauregard, 1909.tif",
@@ -234,7 +238,9 @@
       "dateCreated": "1909",
       "sourceType": "commons-category",
       "sourceArticleId": "rainbow-bridge-national-monument-wp",
-      "sourceGeohash4": "9w94"
+      "sourceGeohash4": "9w94",
+      "mediumPath": "_m/9/w/9/4/rainbow-bridge-national-monument-wp/donald-beauregard-1909-medium.webp",
+      "smallPath": "_m/9/w/9/4/rainbow-bridge-national-monument-wp/donald-beauregard-1909-small.webp"
     }
   ],
   "galleryPaths": [
@@ -246,7 +252,6 @@
     "_m/9/w/9/4/rainbow-bridge-national-monument-wp/rainbow-bridge-area-and-navajo-1.jpg",
     "_m/9/w/9/4/rainbow-bridge-national-monument-wp/donald-beauregard-1909.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:43:28.330Z",
   "updatedAt": "2026-02-21T23:43:31.528Z",
   "narration": {
     "files": [
@@ -265,7 +270,6 @@
       "9w94-rainbow-bridge-national-monument-from-isolation-to-lake-powell.mp3": 62.8114583,
       "9w94-rainbow-bridge-national-monument-standing-among-giants.mp3": 58.3551666
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T16:44:07.129Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

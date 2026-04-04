@@ -30,8 +30,8 @@
     "sourceType": "core",
     "sourceArticleId": "antietam-bloodiest-day-wk",
     "sourceGeohash4": "dr08",
-    "smallPath": "_m/d/r/0/8/antietam-bloodiest-day-wk/hero-small.jpg",
-    "mediumPath": "_m/d/r/0/8/antietam-bloodiest-day-wk/hero-medium.jpg"
+    "smallPath": "_m/d/r/0/8/antietam-bloodiest-day-wk/hero-small.webp",
+    "mediumPath": "_m/d/r/0/8/antietam-bloodiest-day-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Mt Airy Sharpsburg MD1.jpg",
@@ -89,8 +89,8 @@
       "sourceType": "core",
       "sourceArticleId": "antietam-bloodiest-day-wk",
       "sourceGeohash4": "dr08",
-      "smallPath": "_m/d/r/0/8/antietam-bloodiest-day-wk/antietam-md-president-small.jpg",
-      "mediumPath": "_m/d/r/0/8/antietam-bloodiest-day-wk/antietam-md-president-medium.jpg"
+      "smallPath": "_m/d/r/0/8/antietam-bloodiest-day-wk/antietam-md-president-small.webp",
+      "mediumPath": "_m/d/r/0/8/antietam-bloodiest-day-wk/antietam-md-president-medium.webp"
     },
     {
       "filename": "Mt Airy house Sharpsburg MD2.jpg",
@@ -119,7 +119,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "antietam-bloodiest-day-wk",
-      "sourceGeohash4": "dr08"
+      "sourceGeohash4": "dr08",
+      "mediumPath": "_m/d/r/0/8/antietam-bloodiest-day-wk/mt-airy-house-sharpsburg-md2-medium.webp",
+      "smallPath": "_m/d/r/0/8/antietam-bloodiest-day-wk/mt-airy-house-sharpsburg-md2-small.webp"
     },
     {
       "filename": "Mt Airy barn Sharpsburg MD3.jpg",
@@ -150,7 +152,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "antietam-bloodiest-day-wk",
-      "sourceGeohash4": "dr08"
+      "sourceGeohash4": "dr08",
+      "mediumPath": "_m/d/r/0/8/antietam-bloodiest-day-wk/mt-airy-barn-sharpsburg-md3-medium.webp",
+      "smallPath": "_m/d/r/0/8/antietam-bloodiest-day-wk/mt-airy-barn-sharpsburg-md3-small.webp"
     }
   ],
   "galleryPaths": [
@@ -158,7 +162,6 @@
     "_m/d/r/0/8/antietam-bloodiest-day-wk/mt-airy-house-sharpsburg-md2.jpg",
     "_m/d/r/0/8/antietam-bloodiest-day-wk/mt-airy-barn-sharpsburg-md3.jpg"
   ],
-  "fetchedAt": "2026-02-22T12:16:26.286Z",
   "updatedAt": "2026-02-22T12:16:26.999Z",
   "narration": {
     "files": [
@@ -175,11 +178,10 @@
       "dr08-antietam-the-day-america-lost-23-000-men-intro.mp3": 57.0131666,
       "dr08-antietam-the-day-america-lost-23-000-men-the-invasion.mp3": 44.7592083,
       "dr08-antietam-the-day-america-lost-23-000-men-the-battle.mp3": 47.015375,
-      "dr08-antietam-the-day-america-lost-23-000-men-the-proclamation.mp3": 50.74975,
+      "dr08-antietam-the-day-america-lost-23-000-men-the-proclamation.mp3": 49.5404166,
       "dr08-antietam-the-day-america-lost-23-000-men-the-photography.mp3": 45.9766666,
       "dr08-antietam-the-day-america-lost-23-000-men-visiting-antietam.mp3": 55.35175
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-25T05:26:17.135Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

@@ -24,7 +24,7 @@
     "sourceType": "core",
     "sourceArticleId": "arabia-steamboat-museum-wp",
     "sourceGeohash4": "9yuw",
-    "smallPath": "_m/9/y/u/w/arabia-steamboat-museum-wp/hero-small.jpg"
+    "smallPath": "_m/9/y/u/w/arabia-steamboat-museum-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Arabia Stern.jpg",
@@ -76,7 +76,7 @@
       "sourceType": "core",
       "sourceArticleId": "arabia-steamboat-museum-wp",
       "sourceGeohash4": "9yuw",
-      "smallPath": "_m/9/y/u/w/arabia-steamboat-museum-wp/1856-spoons-arabia-ste-small.jpg"
+      "smallPath": "_m/9/y/u/w/arabia-steamboat-museum-wp/1856-spoons-arabia-ste-small.webp"
     },
     {
       "filename": "Arabia Preservation.jpg",
@@ -102,7 +102,7 @@
       "sourceType": "core",
       "sourceArticleId": "arabia-steamboat-museum-wp",
       "sourceGeohash4": "9yuw",
-      "smallPath": "_m/9/y/u/w/arabia-steamboat-museum-wp/carefully-re-stitching-small.jpg"
+      "smallPath": "_m/9/y/u/w/arabia-steamboat-museum-wp/carefully-re-stitching-small.webp"
     },
     {
       "filename": "Arabia Steamboat Museum - Kansas City, MO - DSC07178.JPG",
@@ -125,7 +125,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "arabia-steamboat-museum-wp",
-      "sourceGeohash4": "9yuw"
+      "sourceGeohash4": "9yuw",
+      "mediumPath": "_m/9/y/u/w/arabia-steamboat-museum-wp/arabia-steamboat-museum-kansas-medium.webp",
+      "smallPath": "_m/9/y/u/w/arabia-steamboat-museum-wp/arabia-steamboat-museum-kansas-small.webp"
     },
     {
       "filename": "Arabia Steamboat Museum - Kansas City, MO - DSC07181.JPG",
@@ -148,7 +150,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "arabia-steamboat-museum-wp",
-      "sourceGeohash4": "9yuw"
+      "sourceGeohash4": "9yuw",
+      "mediumPath": "_m/9/y/u/w/arabia-steamboat-museum-wp/arabia-steamboat-museum-kansas-1-medium.webp",
+      "smallPath": "_m/9/y/u/w/arabia-steamboat-museum-wp/arabia-steamboat-museum-kansas-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -157,7 +161,6 @@
     "_m/9/y/u/w/arabia-steamboat-museum-wp/arabia-steamboat-museum-kansas.jpg",
     "_m/9/y/u/w/arabia-steamboat-museum-wp/arabia-steamboat-museum-kansas-1.jpg"
   ],
-  "fetchedAt": "2026-02-22T01:17:47.191Z",
   "narration": {
     "files": [
       "9yuw-arabia-steamboat-museum-flight-context.mp3",
@@ -175,8 +178,7 @@
       "9yuw-arabia-steamboat-museum-a-familys-devotion.mp3": 44.0364583,
       "9yuw-arabia-steamboat-museum-the-final-chapter.mp3": 59.135
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T02:26:32.705Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T01:17:49.669Z"
 }

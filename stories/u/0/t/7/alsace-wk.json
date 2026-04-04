@@ -77,14 +77,14 @@
   "locationWikivoyagePath": "u/0/t/7/alsace-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "1985-li-ge-bombing-wp",
-      "title": "1985 Liege Courthouse Bombing",
-      "tile": "u15b",
+      "id": "basilica-of-saint-pierre-aux-nonnains-wp",
+      "title": "Basilica of Saint-Pierre-aux-Nonnains",
+      "tile": "u0sr",
       "coordinates": {
-        "lat": 50.64606388888889,
-        "lng": 5.573247222222222
+        "lat": 49.115035,
+        "lng": 6.169446
       },
-      "distanceKm": 241.3
+      "distanceKm": 78.7
     },
     "n": {
       "id": "aachen-wk",
@@ -107,24 +107,24 @@
       "distanceKm": 106.6
     },
     "w": {
-      "id": "great-beguinage-leuven-wp",
-      "title": "Great Beguinage, Leuven",
-      "tile": "u153",
+      "id": "fort-jeanne-d-arc-wp",
+      "title": "Fort Jeanne d'Arc",
+      "tile": "u0sr",
       "coordinates": {
-        "lat": 50.871,
-        "lng": 4.696194444444445
+        "lat": 49.1168,
+        "lng": 6.06701
       },
-      "distanceKm": 319.4
+      "distanceKm": 104.2
     },
     "e": {
-      "id": "milan-wk",
-      "title": "Milan",
-      "tile": "u0nd",
+      "id": "einsiedeln-abbey-wp",
+      "title": "Einsiedeln Abbey",
+      "tile": "u0qh",
       "coordinates": {
-        "lat": 45.4642,
-        "lng": 9.19
+        "lat": 47.126666666666665,
+        "lng": 8.751388888888888
       },
-      "distanceKm": 340
+      "distanceKm": 153
     },
     "sw": {
       "id": "geneva-wk",
@@ -137,16 +137,6 @@
       "distanceKm": 228
     },
     "s": {
-      "id": "chamonix-wk",
-      "title": "Chamonix",
-      "tile": "u0hv",
-      "coordinates": {
-        "lat": 45.916,
-        "lng": 6.866
-      },
-      "distanceKm": 255.4
-    },
-    "se": {
       "id": "zurich-wk",
       "title": "Zurich",
       "tile": "u0qj",
@@ -154,7 +144,17 @@
         "lat": 47.3769,
         "lng": 8.5417
       },
-      "distanceKm": 93.9
+      "distanceKm": 114.3
+    },
+    "se": {
+      "id": "reichenau-abbey-wp",
+      "title": "Reichenau Abbey",
+      "tile": "u0qr",
+      "coordinates": {
+        "lat": 47.698738888889,
+        "lng": 9.0620805555556
+      },
+      "distanceKm": 89.3
     }
   },
   "keywords": [

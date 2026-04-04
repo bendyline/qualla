@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "abdul-sattar-edhi-wp",
     "sourceGeohash4": "tkry",
-    "mediumPath": "_m/t/k/r/y/abdul-sattar-edhi-wp/hero-medium.jpg",
-    "smallPath": "_m/t/k/r/y/abdul-sattar-edhi-wp/hero-small.jpg"
+    "mediumPath": "_m/t/k/r/y/abdul-sattar-edhi-wp/hero-medium.webp",
+    "smallPath": "_m/t/k/r/y/abdul-sattar-edhi-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Faisal Edhi and Abdul Sattar Edhi.jpg",
@@ -84,7 +84,7 @@
       "sourceType": "core",
       "sourceArticleId": "abdul-sattar-edhi-wp",
       "sourceGeohash4": "tkry",
-      "smallPath": "_m/t/k/r/y/abdul-sattar-edhi-wp/founder-edhi-small.jpg"
+      "smallPath": "_m/t/k/r/y/abdul-sattar-edhi-wp/founder-edhi-small.webp"
     },
     {
       "filename": "Edhi.jpg",
@@ -110,7 +110,7 @@
       "sourceType": "core",
       "sourceArticleId": "abdul-sattar-edhi-wp",
       "sourceGeohash4": "tkry",
-      "smallPath": "_m/t/k/r/y/abdul-sattar-edhi-wp/motorcyclist-pays-his-small.jpg"
+      "smallPath": "_m/t/k/r/y/abdul-sattar-edhi-wp/motorcyclist-pays-his-small.webp"
     },
     {
       "filename": "Abdul Sattar Edhi close-up (cropped).jpg",
@@ -143,7 +143,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "abdul-sattar-edhi-wp",
       "sourceGeohash4": "tkry",
-      "smallPath": "_m/t/k/r/y/abdul-sattar-edhi-wp/abdul-sattar-edhi-close-up-cro-small.jpg"
+      "smallPath": "_m/t/k/r/y/abdul-sattar-edhi-wp/abdul-sattar-edhi-close-up-cro-small.webp"
     }
   ],
   "galleryPaths": [
@@ -151,6 +151,24 @@
     "_m/t/k/r/y/abdul-sattar-edhi-wp/motorcyclist-pays-his.jpg",
     "_m/t/k/r/y/abdul-sattar-edhi-wp/abdul-sattar-edhi-close-up-cro.jpg"
   ],
-  "fetchedAt": "2026-03-01T11:18:18.410Z",
-  "updatedAt": "2026-03-01T11:18:32.237Z"
+  "updatedAt": "2026-03-01T11:18:32.237Z",
+  "narration": {
+    "files": [
+      "tkry-abdul-sattar-edhi-flight-context.mp3",
+      "tkry-abdul-sattar-edhi-intro.mp3",
+      "tkry-abdul-sattar-edhi-from-bantva-to-karachi.mp3",
+      "tkry-abdul-sattar-edhi-1-800-ambulances-and-counting.mp3",
+      "tkry-abdul-sattar-edhi-the-ascetic-who-embarrassed-presidents.mp3",
+      "tkry-abdul-sattar-edhi-the-beard-and-the-borders.mp3"
+    ],
+    "durations": {
+      "tkry-abdul-sattar-edhi-flight-context.mp3": 38.663125,
+      "tkry-abdul-sattar-edhi-intro.mp3": 36.009875,
+      "tkry-abdul-sattar-edhi-from-bantva-to-karachi.mp3": 49.5032083,
+      "tkry-abdul-sattar-edhi-1-800-ambulances-and-counting.mp3": 62.051375,
+      "tkry-abdul-sattar-edhi-the-ascetic-who-embarrassed-presidents.mp3": 64.964125,
+      "tkry-abdul-sattar-edhi-the-beard-and-the-borders.mp3": 65.4004166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

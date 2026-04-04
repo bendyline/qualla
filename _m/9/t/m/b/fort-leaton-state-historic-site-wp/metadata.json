@@ -25,8 +25,8 @@
     "sourceType": "core",
     "sourceArticleId": "fort-leaton-state-historic-site-wp",
     "sourceGeohash4": "9tmb",
-    "smallPath": "_m/9/t/m/b/fort-leaton-state-historic-site-wp/hero-small.jpg",
-    "mediumPath": "_m/9/t/m/b/fort-leaton-state-historic-site-wp/hero-medium.jpg"
+    "smallPath": "_m/9/t/m/b/fort-leaton-state-historic-site-wp/hero-small.webp",
+    "mediumPath": "_m/9/t/m/b/fort-leaton-state-historic-site-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "HistoricPlacesNationalRegisterPlaque.JPG",
@@ -82,7 +82,7 @@
       "sourceType": "core",
       "sourceArticleId": "fort-leaton-state-historic-site-wp",
       "sourceGeohash4": "9tmb",
-      "smallPath": "_m/9/t/m/b/fort-leaton-state-historic-site-wp/hero-small.png"
+      "smallPath": "_m/9/t/m/b/fort-leaton-state-historic-site-wp/hero-small.webp"
     },
     {
       "filename": "FORT LEATON.jpg",
@@ -107,14 +107,15 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-leaton-state-historic-site-wp",
-      "sourceGeohash4": "9tmb"
+      "sourceGeohash4": "9tmb",
+      "mediumPath": "_m/9/t/m/b/fort-leaton-state-historic-site-wp/fort-leaton-medium.webp",
+      "smallPath": "_m/9/t/m/b/fort-leaton-state-historic-site-wp/fort-leaton-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/t/q/k/museum-of-the-big-bend-wp/hero.png",
     "_m/9/t/m/b/fort-leaton-state-historic-site-wp/fort-leaton.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:16:42.826Z",
   "narration": {
     "files": [
       "9tmb-fort-leaton-state-historic-site-flight-context.mp3",
@@ -134,8 +135,7 @@
       "9tmb-fort-leaton-state-historic-site-crossroads-of-violence.mp3": 49.1078333,
       "9tmb-fort-leaton-state-historic-site-the-fort-today.mp3": 51.798
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T02:04:21.784Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:16:51.283Z"
 }

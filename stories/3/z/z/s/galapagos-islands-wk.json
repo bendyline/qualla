@@ -105,54 +105,54 @@
   "locationWikipediaPath": "3/z/z/s/pinzon-island-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "oaxaca-city-wk",
-      "title": "Oaxaca: The Cultural Capital Where Mezcal and Mole Meet",
-      "tile": "9g50",
+      "id": "chocola-wp",
+      "title": "Chocola: The Ancient Maya City Built on Cacao and Water",
+      "tile": "9fwf",
       "coordinates": {
-        "lat": 17.05,
-        "lng": -96.7167
+        "lat": 14.583333333333,
+        "lng": -91.45
       },
-      "distanceKm": 2032
+      "distanceKm": 1661.3
     },
     "n": {
-      "id": "juan-castro-blanco-national-park-wk",
-      "title": "Juan Castro Blanco National Park",
-      "tile": "d1u4",
+      "id": "nature-air-flight-144-wp",
+      "title": "Nature Air Flight 144",
+      "tile": "d1g2",
       "coordinates": {
-        "lat": 10.28,
-        "lng": -84.33
+        "lat": 9.856944,
+        "lng": -85.370833
       },
-      "distanceKm": 1366.6
+      "distanceKm": 1270.5
     },
     "ne": {
-      "id": "birdwatching-in-costa-rica-wk",
-      "title": "Birdwatching in Costa Rica",
-      "tile": "d1s7",
+      "id": "corcovado-national-park-wk",
+      "title": "Corcovado National Park",
+      "tile": "d1s8",
       "coordinates": {
-        "lat": 9.09193,
-        "lng": -83.7323
+        "lat": 8.55,
+        "lng": -83.583333333333
       },
-      "distanceKm": 1258.7
+      "distanceKm": 1218.7
     },
     "w": {
-      "id": "acapulco-wk",
-      "title": "Acapulco",
-      "tile": "9fbz",
+      "id": "santiago-atitlan-wk",
+      "title": "Santiago Atitlan",
+      "tile": "9fx5",
       "coordinates": {
-        "lat": 16.863611,
-        "lng": -99.8825
+        "lat": 14.638552777778,
+        "lng": -91.229922222222
       },
-      "distanceKm": 2171.2
+      "distanceKm": 1696.3
     },
     "e": {
-      "id": "quito-wk",
-      "title": "Quito",
-      "tile": "6rbn",
+      "id": "drake-bay-wk",
+      "title": "Drake Bay",
+      "tile": "d1s9",
       "coordinates": {
-        "lat": -0.1807,
-        "lng": -78.4678
+        "lat": 8.7,
+        "lng": -83.6667
       },
-      "distanceKm": 1283.2
+      "distanceKm": 1251.1
     },
     "sw": {
       "id": "easter-island-collapse-wk",
@@ -165,24 +165,24 @@
       "distanceKm": 3510.3
     },
     "s": {
-      "id": "nazca-lines-wk",
-      "title": "The Nazca Lines: Art Made for the Sky",
-      "tile": "6m6s",
-      "coordinates": {
-        "lat": -14.735,
-        "lng": -75.13
-      },
-      "distanceKm": 2288.2
-    },
-    "se": {
-      "id": "lima-wk",
-      "title": "Lima",
+      "id": "1987-alianza-lima-plane-crash-wp",
+      "title": "1987 Alianza Lima Plane Crash",
       "tile": "6mc5",
       "coordinates": {
-        "lat": -12.0464,
-        "lng": -77.0428
+        "lat": -11.967,
+        "lng": -77.16
       },
-      "distanceKm": 1893.3
+      "distanceKm": 1922.1
+    },
+    "se": {
+      "id": "ancon-archaeological-site-wp",
+      "title": "Ancon (archaeological site)",
+      "tile": "6mcj",
+      "coordinates": {
+        "lat": -11.7684924,
+        "lng": -77.1663884
+      },
+      "distanceKm": 1863.2
     }
   },
   "keywords": [

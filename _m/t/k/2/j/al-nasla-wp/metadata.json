@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "al-nasla-wp",
     "sourceGeohash4": "tk2j",
-    "mediumPath": "_m/t/k/2/j/al-nasla-wp/hero-medium.jpg",
-    "smallPath": "_m/t/k/2/j/al-nasla-wp/hero-small.jpg"
+    "mediumPath": "_m/t/k/2/j/al-nasla-wp/hero-medium.webp",
+    "smallPath": "_m/t/k/2/j/al-nasla-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Al Nasla Fort.jpg",
@@ -52,5 +52,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T10:07:50.814Z"
+  "narration": {
+    "files": [
+      "tk2j-al-nasla-flight-context.mp3",
+      "tk2j-al-nasla-intro.mp3",
+      "tk2j-al-nasla-a-rulers-gift.mp3",
+      "tk2j-al-nasla-eid-homecoming.mp3",
+      "tk2j-al-nasla-the-fort-on-the-hill.mp3",
+      "tk2j-al-nasla-mountain-visit.mp3"
+    ],
+    "durations": {
+      "tk2j-al-nasla-flight-context.mp3": 29.44975,
+      "tk2j-al-nasla-intro.mp3": 34.5225416,
+      "tk2j-al-nasla-a-rulers-gift.mp3": 41.4352916,
+      "tk2j-al-nasla-eid-homecoming.mp3": 39.4902083,
+      "tk2j-al-nasla-the-fort-on-the-hill.mp3": 34.3945416,
+      "tk2j-al-nasla-mountain-visit.mp3": 37.7249166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -30,7 +30,7 @@
     "sourceType": "core",
     "sourceArticleId": "menoken-indian-village-site-wp",
     "sourceGeohash4": "cb2d",
-    "smallPath": "_m/c/b/2/d/menoken-indian-village-site-wp/hero-small.jpg"
+    "smallPath": "_m/c/b/2/d/menoken-indian-village-site-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "MenokenSite Kiosk.jpg",
@@ -86,7 +86,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "menoken-indian-village-site-wp",
-      "sourceGeohash4": "cb2d"
+      "sourceGeohash4": "cb2d",
+      "mediumPath": "_m/c/b/2/d/menoken-indian-village-site-wp/menokenindianvillagend-medium.webp",
+      "smallPath": "_m/c/b/2/d/menoken-indian-village-site-wp/menokenindianvillagend-small.webp"
     },
     {
       "filename": "MenokenSite EntranceGate.jpg",
@@ -115,7 +117,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "menoken-indian-village-site-wp",
-      "sourceGeohash4": "cb2d"
+      "sourceGeohash4": "cb2d",
+      "smallPath": "_m/c/b/2/d/menoken-indian-village-site-wp/menokensite-entrancegate-small.webp"
     },
     {
       "filename": "MenokenSite Depression.jpg",
@@ -144,7 +147,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "menoken-indian-village-site-wp",
-      "sourceGeohash4": "cb2d"
+      "sourceGeohash4": "cb2d",
+      "smallPath": "_m/c/b/2/d/menoken-indian-village-site-wp/menokensite-depression-small.webp"
     },
     {
       "filename": "MenokenSite View.jpg",
@@ -168,7 +172,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "menoken-indian-village-site-wp",
-      "sourceGeohash4": "cb2d"
+      "sourceGeohash4": "cb2d",
+      "smallPath": "_m/c/b/2/d/menoken-indian-village-site-wp/menokensite-view-small.webp"
     }
   ],
   "galleryPaths": [
@@ -177,7 +182,6 @@
     "_m/c/b/2/d/menoken-indian-village-site-wp/menokensite-depression.jpg",
     "_m/c/b/2/d/menoken-indian-village-site-wp/menokensite-view.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:41:02.207Z",
   "narration": {
     "files": [
       "cb2d-menoken-indian-village-site-flight-context.mp3",
@@ -195,8 +199,7 @@
       "cb2d-menoken-indian-village-site-depression-era-preservation.mp3": 56.4456666,
       "cb2d-menoken-indian-village-site-older-than-memory.mp3": 58.064875
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T05:47:14.923Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T02:41:02.929Z"
 }

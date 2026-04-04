@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-broodseinde-wp",
     "sourceGeohash4": "u141",
-    "smallPath": "_m/u/1/4/1/battle-of-broodseinde-wp/hero-small.jpg",
-    "mediumPath": "_m/u/1/4/1/battle-of-broodseinde-wp/hero-medium.jpg"
+    "smallPath": "_m/u/1/4/1/battle-of-broodseinde-wp/hero-small.webp",
+    "mediumPath": "_m/u/1/4/1/battle-of-broodseinde-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "NLS Haig - Troops moving up at eventide - men of a Yorkshire regiment on the march (cropped).jpg",
@@ -77,7 +77,9 @@
       "dateCreated": "1917",
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-broodseinde-wp",
-      "sourceGeohash4": "u141"
+      "sourceGeohash4": "u141",
+      "mediumPath": "_m/u/1/4/1/battle-of-broodseinde-wp/nls-haig-troops-moving-up-at-e-medium.webp",
+      "smallPath": "_m/u/1/4/1/battle-of-broodseinde-wp/nls-haig-troops-moving-up-at-e-small.webp"
     },
     {
       "filename": "NLS Haig - Anti-aircraft gun in action during the battle.jpg",
@@ -93,7 +95,9 @@
       "dateCreated": "1917",
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-broodseinde-wp",
-      "sourceGeohash4": "u141"
+      "sourceGeohash4": "u141",
+      "mediumPath": "_m/u/1/4/1/battle-of-broodseinde-wp/nls-haig-anti-aircraft-gun-in--medium.webp",
+      "smallPath": "_m/u/1/4/1/battle-of-broodseinde-wp/nls-haig-anti-aircraft-gun-in--small.webp"
     },
     {
       "filename": "Western Front (World War I).jpg",
@@ -110,7 +114,9 @@
       "dateCreated": "2011-12-12 13:40",
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-broodseinde-wp",
-      "sourceGeohash4": "u141"
+      "sourceGeohash4": "u141",
+      "mediumPath": "_m/u/1/4/1/battle-of-broodseinde-wp/western-front-world-war-i-medium.webp",
+      "smallPath": "_m/u/1/4/1/battle-of-broodseinde-wp/western-front-world-war-i-small.webp"
     },
     {
       "filename": "New Zealand 1.jpg",
@@ -127,7 +133,8 @@
       "dateCreated": "2012-12-10 11:17:20",
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-broodseinde-wp",
-      "sourceGeohash4": "u141"
+      "sourceGeohash4": "u141",
+      "smallPath": "_m/u/1/4/1/battle-of-broodseinde-wp/new-zealand-1-small.webp"
     },
     {
       "filename": "Front line Menin road, Polderhoek, Reutel, 5 December 1917.png",
@@ -143,7 +150,8 @@
       "dateCreated": "1921",
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-broodseinde-wp",
-      "sourceGeohash4": "u141"
+      "sourceGeohash4": "u141",
+      "smallPath": "_m/u/1/4/1/battle-of-broodseinde-wp/front-line-menin-road-polderho-small.webp"
     }
   ],
   "galleryPaths": [
@@ -153,7 +161,6 @@
     "_m/u/1/4/1/battle-of-broodseinde-wp/new-zealand-1.jpg",
     "_m/u/1/4/1/battle-of-broodseinde-wp/front-line-menin-road-polderho.png"
   ],
-  "fetchedAt": "2026-02-22T13:55:07.500Z",
   "updatedAt": "2026-02-22T13:55:10.007Z",
   "narration": {
     "files": [
@@ -174,7 +181,6 @@
       "u141-battle-of-broodseinde-crisis-among-the-german-commanders.mp3": 47.1727916,
       "u141-battle-of-broodseinde-victory-and-its-limits.mp3": 48.6265833
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-25T20:05:36.213Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

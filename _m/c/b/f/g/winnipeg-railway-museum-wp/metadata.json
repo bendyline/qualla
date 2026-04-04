@@ -30,8 +30,8 @@
     "sourceType": "core",
     "sourceArticleId": "winnipeg-railway-museum-wp",
     "sourceGeohash4": "cbfg",
-    "smallPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/hero-small.jpg",
-    "mediumPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/hero-medium.jpg"
+    "smallPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/hero-small.webp",
+    "mediumPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "City of Winnipeg Rail Car at Winnipeg Railway Museum.jpg",
@@ -93,7 +93,7 @@
       "sourceType": "core",
       "sourceArticleId": "winnipeg-railway-museum-wp",
       "sourceGeohash4": "cbfg",
-      "smallPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/winnipeg-hydro-train-w-small.jpg"
+      "smallPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/winnipeg-hydro-train-w-small.webp"
     },
     {
       "filename": "Railway equipment at Winnipeg Railway Museum.jpg",
@@ -121,7 +121,7 @@
       "sourceType": "core",
       "sourceArticleId": "winnipeg-railway-museum-wp",
       "sourceGeohash4": "cbfg",
-      "smallPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/railway-equipment-winn-small.jpg"
+      "smallPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/railway-equipment-winn-small.webp"
     },
     {
       "filename": "Train on display at Winnipeg Railway Museum.JPG",
@@ -151,8 +151,8 @@
       "sourceType": "core",
       "sourceArticleId": "winnipeg-railway-museum-wp",
       "sourceGeohash4": "cbfg",
-      "smallPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/train-display-winnipeg-small.jpg",
-      "mediumPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/train-display-winnipeg-medium.jpg"
+      "smallPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/train-display-winnipeg-small.webp",
+      "mediumPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/train-display-winnipeg-medium.webp"
     },
     {
       "filename": "Train and equipment at Winnipeg Railway Museum.JPG",
@@ -181,8 +181,8 @@
       "sourceType": "core",
       "sourceArticleId": "winnipeg-railway-museum-wp",
       "sourceGeohash4": "cbfg",
-      "smallPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/train-equipment-winnip-small.jpg",
-      "mediumPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/train-equipment-winnip-medium.jpg"
+      "smallPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/train-equipment-winnip-small.webp",
+      "mediumPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/train-equipment-winnip-medium.webp"
     },
     {
       "filename": "Trains and equipment in Winnipeg Railway Museum.JPG",
@@ -208,7 +208,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "winnipeg-railway-museum-wp",
-      "sourceGeohash4": "cbfg"
+      "sourceGeohash4": "cbfg",
+      "mediumPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/trains-and-equipment-in-winnip-medium.webp",
+      "smallPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/trains-and-equipment-in-winnip-small.webp"
     },
     {
       "filename": "CN 1900 (8111580928) (2).jpg",
@@ -231,7 +233,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "winnipeg-railway-museum-wp",
-      "sourceGeohash4": "cbfg"
+      "sourceGeohash4": "cbfg",
+      "mediumPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/cn-1900-8111580928-2-medium.webp",
+      "smallPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/cn-1900-8111580928-2-small.webp"
     },
     {
       "filename": "Countess of Dufferin1.jpg",
@@ -247,7 +251,8 @@
       "dateCreated": "1877-10-08",
       "sourceType": "commons-category",
       "sourceArticleId": "winnipeg-railway-museum-wp",
-      "sourceGeohash4": "cbfg"
+      "sourceGeohash4": "cbfg",
+      "smallPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/countess-of-dufferin1-small.webp"
     },
     {
       "filename": "Countess of Dufferin.2.jpg",
@@ -263,7 +268,8 @@
       "dateCreated": "Unknown date",
       "sourceType": "commons-category",
       "sourceArticleId": "winnipeg-railway-museum-wp",
-      "sourceGeohash4": "cbfg"
+      "sourceGeohash4": "cbfg",
+      "smallPath": "_m/c/b/f/g/winnipeg-railway-museum-wp/countess-of-dufferin-2-small.webp"
     }
   ],
   "galleryPaths": [
@@ -276,7 +282,6 @@
     "_m/c/b/f/g/winnipeg-railway-museum-wp/countess-of-dufferin1.jpg",
     "_m/c/b/f/g/winnipeg-railway-museum-wp/countess-of-dufferin-2.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:51:39.246Z",
   "updatedAt": "2026-02-22T02:51:39.879Z",
   "narration": {
     "files": [
@@ -293,7 +298,6 @@
       "cbfg-winnipeg-railway-museum-the-countess-and-the-prairie.mp3": 59.8782916,
       "cbfg-winnipeg-railway-museum-a-museum-between-journeys.mp3": 67.970375
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T08:31:00.937Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

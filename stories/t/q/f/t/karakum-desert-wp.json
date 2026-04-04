@@ -58,21 +58,36 @@
       "title": "Karakum Desert - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Karakum_Desert",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["350,000 sq km area confirmed", "70% of Turkmenistan confirmed", "Karakum Canal described as second-largest irrigation canal in the world confirmed", "Trans-Unguz, Central, and southeastern Karakum regions confirmed", "1 person per 6.5 sq km population density confirmed"]
+      "claimsVerified": [
+        "350,000 sq km area confirmed",
+        "70% of Turkmenistan confirmed",
+        "Karakum Canal described as second-largest irrigation canal in the world confirmed",
+        "Trans-Unguz, Central, and southeastern Karakum regions confirmed",
+        "1 person per 6.5 sq km population density confirmed"
+      ]
     },
     {
       "type": "verification",
       "title": "Darvaza gas crater - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Darvaza_gas_crater",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["1971 Soviet drilling incident confirmed (exact year uncertain per some sources, but 1971 widely accepted)", "Diameter 60-70 meters confirmed (story says 'roughly seventy meters' — within range)", "Fire set to burn off gas confirmed", "Still burning confirmed"]
+      "claimsVerified": [
+        "1971 Soviet drilling incident confirmed (exact year uncertain per some sources, but 1971 widely accepted)",
+        "Diameter 60-70 meters confirmed (story says 'roughly seventy meters' — within range)",
+        "Fire set to burn off gas confirmed",
+        "Still burning confirmed"
+      ]
     },
     {
       "type": "verification",
       "title": "Aral Sea - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Aral_Sea",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Aralkum desert on former seabed confirmed", "Irrigation diversion as main cause confirmed", "Karakum Canal draws from Amu Darya confirmed"]
+      "claimsVerified": [
+        "Aralkum desert on former seabed confirmed",
+        "Irrigation diversion as main cause confirmed",
+        "Karakum Canal draws from Amu Darya confirmed"
+      ]
     }
   ],
   "editorial": {
@@ -91,14 +106,14 @@
       "distanceKm": 143.7
     },
     "n": {
-      "id": "halidzor-fortress-wp",
-      "title": "Halidzor Fortress",
-      "tile": "tnbz",
+      "id": "yaghnob-valley-wp",
+      "title": "Yaghnob Valley",
+      "tile": "twcp",
       "coordinates": {
-        "lat": 39.2192,
-        "lng": 46.3533
+        "lat": 39.2,
+        "lng": 69
       },
-      "distanceKm": 1169.6
+      "distanceKm": 780.3
     },
     "ne": {
       "id": "battle-of-the-defile-wp",
@@ -153,12 +168,13 @@
     "se": {
       "id": "bactria-margiana-archaeological-complex-wp",
       "title": "Bactria-Margiana Archaeological Complex",
-      "tile": "tqts",
+      "tile": "tqg9",
       "coordinates": {
         "lat": 38.233333333333,
         "lng": 61.45
       },
       "distanceKm": 98.4
     }
-  }
+  },
+  "locationWikipediaPath": "t/q/f/t/karakum-desert-wp"
 }

@@ -1,0 +1,160 @@
+{
+  "id": "olympic-coast-national-marine-sanctuary-wp",
+  "source": "wikipedia",
+  "sourceId": "3017414",
+  "title": "Olympic Coast National Marine Sanctuary",
+  "slug": "olympic-coast-national-marine-sanctuary",
+  "summary": "Over 3,100 square miles of protected Pacific Ocean along Washington's Olympic Peninsula -- one of the largest marine sanctuaries in the United States, stretching 135 miles from Cape Flattery to the Copalis River.",
+  "content": {
+    "intro": "Most national parks draw lines on land. This one draws them on water. Designated on July 22, 1994, the Olympic Coast National Marine Sanctuary encompasses 3,189 square miles of the Pacific Ocean along Washington state's Olympic Peninsula, running roughly 135 miles from Cape Flattery at the continent's northwestern tip south to the mouth of the Copalis River. It is one of 15 marine sanctuaries administered by NOAA, and one of the largest on the Pacific coast. The sanctuary does not protect beaches or forests; it protects the ocean itself -- the water column, the seafloor, and the staggering density of life between them.",
+    "sections": [
+      {
+        "title": "A Line Drawn on the Ocean",
+        "body": "The sanctuary's boundaries trace the Olympic Peninsula's entire western coast, overlapping three national wildlife refuges -- Flattery Rocks, Quillayute Needles, and Copalis Rock -- that protect offshore sea stacks and rocky islets. These sea stacks, some barely breaking the surface, others crowned with twisted trees, serve as nesting habitat for hundreds of thousands of seabirds: common murres, tufted puffins, rhinoceros auklets, and Leach's storm-petrels, among others. The waters below support one of the most productive marine ecosystems on the Pacific coast, driven by seasonal upwelling that brings cold, nutrient-rich water from the deep ocean to the surface, fueling blooms of phytoplankton that feed the entire food chain from krill to gray whales."
+      },
+      {
+        "title": "Where Four Tribal Nations Meet the Sea",
+        "body": "The sanctuary is unusual among federal protected areas in that it overlaps the treaty-protected usual and accustomed fishing grounds of four coastal tribal nations: the Makah, Quileute, Hoh, and Quinault. These nations have fished, hunted whales, and gathered shellfish along this coast for thousands of years, and their treaty rights predate and coexist with the sanctuary's protections. NOAA works with the tribal governments through an intergovernmental policy council, recognizing that the Indigenous relationship to these waters is not merely historical but ongoing -- a matter of sovereignty, subsistence, and cultural continuity. The Makah, whose reservation at Neah Bay sits at the sanctuary's northern boundary, have long been vocal about the impacts of ocean acidification and climate change on the marine resources their community depends upon."
+      },
+      {
+        "title": "Beneath the Surface",
+        "body": "The sanctuary protects waters that range from shallow nearshore reefs to the edge of the continental shelf, where the seafloor drops away into the abyss. The Juan de Fuca submarine canyon and other deep-water features create habitat complexity that supports an extraordinary range of species. Gray whales migrate through the sanctuary each spring and fall. Humpback whales feed in its nutrient-rich waters during summer months. Sea otters, once hunted to near extinction along this coast, are slowly recovering. Below the surface, kelp forests anchor ecosystems of rockfish, lingcod, and Dungeness crab, while deeper waters shelter species of coral and sponge that scientists are still cataloging. The sanctuary also serves as a sentinel site for monitoring ocean acidification -- the slow chemical change, driven by atmospheric carbon dioxide, that threatens shellfish and the entire food web they support."
+      },
+      {
+        "title": "Protecting What You Cannot See",
+        "body": "Marine sanctuaries face a fundamental challenge: the thing they protect is largely invisible. You cannot stand on an overlook and admire 3,189 square miles of ocean in the way you can admire a mountain range or a canyon. The Olympic Coast sanctuary's surface often appears as nothing more than gray water under gray sky, especially during the long Northwest winters. But beneath that surface lies one of the most biologically productive stretches of ocean in the temperate world -- a place where the continental shelf's nutrients meet the Pacific's currents, where tribal fishing rights meet federal conservation mandates, and where the slow crisis of acidification meets the older rhythms of upwelling and migration. The sanctuary exists to ensure that what happens below the waterline receives the same attention and protection as the forests and mountains visible from shore."
+      }
+    ],
+    "flightContext": "The Olympic Coast National Marine Sanctuary is centered at approximately 48.00°N, 124.80°W, extending along the entire west coast of Washington's Olympic Peninsula from Cape Flattery south to the Copalis River. From altitude, the sanctuary appears as open ocean with scattered sea stacks and rocky islets near shore. Nearest airports include Quillayute (KUIL), Neah Bay, and Bowerman/Hoquiam (KHQM) to the south. The sea stacks of the Flattery Rocks and Quillayute Needles refuges are visible at 3,000-5,000 ft. Frequent fog, rain, and low cloud along this coast year-round."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 48,
+      "lng": -124.8
+    },
+    "geohash": "c0x30"
+  },
+  "categories": [
+    "National Marine Sanctuaries of the United States",
+    "Protected areas of Clallam County, Washington",
+    "Protected areas established in 1994"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-21T00:00:00Z",
+    "wordCount": 750,
+    "readTime": 4,
+    "firstPublished": "2026-03-21T00:00:00Z",
+    "storyNumber": 10937
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "About the Sanctuary - Olympic Coast National Marine Sanctuary (NOAA)",
+      "url": "https://olympiccoast.noaa.gov/about/",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "designation date corrected from May 11 to July 22 1994",
+        "sanctuary size 3188-3189 square miles",
+        "135 miles from Cape Flattery to Copalis River",
+        "one of 15 NOAA marine sanctuaries"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Olympic Coast National Marine Sanctuary - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Olympic_Coast_National_Marine_Sanctuary",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "four tribal nations with treaty fishing rights: Makah Quileute Hoh Quinault",
+        "intergovernmental policy council with tribal governments"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "c/0/x/3/olympic-coast-national-marine-sanctuary-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "cape-beale-light-wp",
+      "title": "Cape Beale Light",
+      "tile": "c0wv",
+      "coordinates": {
+        "lat": 48.7864,
+        "lng": -125.216
+      },
+      "distanceKm": 49.8
+    },
+    "n": {
+      "id": "neah-bay-washington-wp",
+      "title": "Neah Bay, Washington",
+      "tile": "c0x7",
+      "coordinates": {
+        "lat": 48.3656,
+        "lng": -124.616
+      },
+      "distanceKm": 3
+    },
+    "ne": {
+      "id": "sheringham-point-light-wp",
+      "title": "Sheringham Point Light",
+      "tile": "c0xg",
+      "coordinates": {
+        "lat": 48.3768,
+        "lng": -123.921
+      },
+      "distanceKm": 14
+    },
+    "w": {
+      "id": "juan-de-fuca-channel-wp",
+      "title": "Juan de Fuca Channel",
+      "tile": "c0wb",
+      "coordinates": {
+        "lat": 47.833333333333,
+        "lng": -125.5
+      },
+      "distanceKm": 37.2
+    },
+    "e": {
+      "id": "lake-crescent-wp",
+      "title": "Lake Crescent",
+      "tile": "c0xc",
+      "coordinates": {
+        "lat": 48.0595755,
+        "lng": -123.8291037
+      },
+      "distanceKm": 20.3
+    },
+    "sw": {
+      "id": "uss-sailfish-ssr-572-wp",
+      "title": "USS Sailfish (SSR-572)",
+      "tile": "c0m7",
+      "coordinates": {
+        "lat": 47.09638888888889,
+        "lng": -127.38555555555556
+      },
+      "distanceKm": 185.6
+    },
+    "s": {
+      "id": "oil-city-washington-wp",
+      "title": "Oil City, Washington",
+      "tile": "c0rx",
+      "coordinates": {
+        "lat": 47.7503557,
+        "lng": -124.4254785
+      },
+      "distanceKm": 16.7
+    },
+    "se": {
+      "id": "olympic-rainforest-wk",
+      "title": "Olympic: Where Rainforest Meets the Wild Pacific",
+      "tile": "c22p",
+      "coordinates": {
+        "lat": 47.8021,
+        "lng": -123.6044
+      },
+      "distanceKm": 37.1
+    }
+  }
+}

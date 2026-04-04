@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/t/t/m/guadalupe-mountains-reef-wk/9tbv-guadalupe-mountains-the-fossil-reef-that-became-te-intro.mp3",
-        "_m/9/t/t/m/guadalupe-mountains-reef-wk/9tbv-guadalupe-mountains-the-fossil-reef-that-became-te-flight-context.mp3",
-        "_m/9/t/t/m/guadalupe-mountains-reef-wk/9tbv-guadalupe-mountains-the-fossil-reef-that-became-te-the-butterfield.mp3",
-        "_m/9/t/t/m/guadalupe-mountains-reef-wk/9tbv-guadalupe-mountains-the-fossil-reef-that-became-te-the-reef.mp3",
-        "_m/9/t/t/m/guadalupe-mountains-reef-wk/9tbv-guadalupe-mountains-the-fossil-reef-that-became-te-the-trail.mp3",
-        "_m/9/t/t/m/guadalupe-mountains-reef-wk/9tbv-guadalupe-mountains-the-fossil-reef-that-became-te-the-wilderness.mp3",
-        "_m/9/t/t/m/guadalupe-mountains-reef-wk/9tbv-guadalupe-mountains-the-fossil-reef-that-became-te-visiting-guadalupe-mountains.mp3"
+        "_m/9/t/t/m/guadalupe-mountains-reef-wk/9ttm-guadalupe-mountains-the-fossil-reef-that-became-te-flight-context.mp3",
+        "_m/9/t/t/m/guadalupe-mountains-reef-wk/9ttm-guadalupe-mountains-the-fossil-reef-that-became-te-intro.mp3",
+        "_m/9/t/t/m/guadalupe-mountains-reef-wk/9ttm-guadalupe-mountains-the-fossil-reef-that-became-te-the-reef.mp3",
+        "_m/9/t/t/m/guadalupe-mountains-reef-wk/9ttm-guadalupe-mountains-the-fossil-reef-that-became-te-the-wilderness.mp3",
+        "_m/9/t/t/m/guadalupe-mountains-reef-wk/9ttm-guadalupe-mountains-the-fossil-reef-that-became-te-the-trail.mp3",
+        "_m/9/t/t/m/guadalupe-mountains-reef-wk/9ttm-guadalupe-mountains-the-fossil-reef-that-became-te-the-butterfield.mp3",
+        "_m/9/t/t/m/guadalupe-mountains-reef-wk/9ttm-guadalupe-mountains-the-fossil-reef-that-became-te-visiting-guadalupe-mountains.mp3"
       ],
       "hero": {
         "path": "_m/9/t/t/m/guadalupe-mountains-national-park-wk/guadalupe-nima3.jpg",
@@ -33,7 +33,9 @@
           "License migration redundant",
           "Self-published work",
           "Taken with Sony DSC-H3"
-        ]
+        ],
+        "mediumPath": "_m/9/t/t/m/guadalupe-mountains-reef-wk/hero-medium.webp",
+        "smallPath": "_m/9/t/t/m/guadalupe-mountains-reef-wk/hero-small.webp"
       },
       "images": [
         {
@@ -195,7 +197,8 @@
             "Taken with Canon PowerShot S1 IS"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/t/t/m/guadalupe-mountains-reef-wk/9ttm-guadalupe-mountains-reef-combined.mp3"
     }
   }
 }

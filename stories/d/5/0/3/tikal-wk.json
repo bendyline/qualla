@@ -77,24 +77,24 @@
   "locationWikivoyagePath": "d/5/0/3/tikal-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "la-malinche-national-park-wk",
-      "title": "La Malinche National Park",
-      "tile": "9g6m",
+      "id": "palenque-wp",
+      "title": "Palenque",
+      "tile": "9gne",
       "coordinates": {
-        "lat": 19.232756,
-        "lng": -98.0323
+        "lat": 17.4836,
+        "lng": -92.0468
       },
-      "distanceKm": 871.9
+      "distanceKm": 217.3
     },
     "n": {
-      "id": "chichen-itza-wk",
-      "title": "Chichén Itzá: The Pyramid That Screams",
-      "tile": "d59j",
+      "id": "temple-of-the-inscriptions-wp",
+      "title": "Temple of the Inscriptions",
+      "tile": "9gne",
       "coordinates": {
-        "lat": 20.6843,
-        "lng": -88.5678
+        "lat": 17.4836,
+        "lng": -92.0468
       },
-      "distanceKm": 377.1
+      "distanceKm": 273.2
     },
     "ne": {
       "id": "chichen-itza-maya-wk",
@@ -107,54 +107,54 @@
       "distanceKm": 367.1
     },
     "w": {
-      "id": "oaxaca-city-wk",
-      "title": "Oaxaca: The Cultural Capital Where Mezcal and Mole Meet",
-      "tile": "9g50",
+      "id": "tamarindito-wp",
+      "title": "Tamarindito: The Vassal That Broke Its Master",
+      "tile": "9fzv",
       "coordinates": {
-        "lat": 17.05,
-        "lng": -96.7167
+        "lat": 16.45,
+        "lng": -90.23
       },
-      "distanceKm": 713.9
+      "distanceKm": 80.4
     },
     "e": {
-      "id": "tulum-wk",
-      "title": "Tulum",
-      "tile": "d59u",
+      "id": "cockscomb-basin-wildlife-sanctuary-wp",
+      "title": "Cockscomb Basin Wildlife Sanctuary",
+      "tile": "d4cp",
       "coordinates": {
-        "lat": 20.417,
-        "lng": -87.3
+        "lat": 16.79992,
+        "lng": -88.47274
       },
-      "distanceKm": 403.6
+      "distanceKm": 62.8
     },
     "sw": {
-      "id": "antigua-guatemala-wk",
-      "title": "Antigua Guatemala",
-      "tile": "9fx6",
+      "id": "seibal-wp",
+      "title": "Seibal: The City That Outlived Its Own Destruction",
+      "tile": "9fzv",
       "coordinates": {
-        "lat": 14.567,
-        "lng": -90.733
+        "lat": 16.511666666667,
+        "lng": -90.061111111111
       },
-      "distanceKm": 268.4
+      "distanceKm": 40.9
     },
     "s": {
-      "id": "birdwatching-in-costa-rica-wk",
-      "title": "Birdwatching in Costa Rica",
-      "tile": "d1s7",
+      "id": "el-chal-wp",
+      "title": "El Chal",
+      "tile": "d4bn",
       "coordinates": {
-        "lat": 9.09193,
-        "lng": -83.7323
+        "lat": 16.63333333,
+        "lng": -89.65
       },
-      "distanceKm": 1065.4
+      "distanceKm": 32.8
     },
     "se": {
-      "id": "juan-castro-blanco-national-park-wk",
-      "title": "Juan Castro Blanco National Park",
-      "tile": "d1u4",
+      "id": "bladen-nature-reserve-wp",
+      "title": "Bladen Nature Reserve",
+      "tile": "d4bv",
       "coordinates": {
-        "lat": 10.28,
-        "lng": -84.33
+        "lat": 16.491,
+        "lng": -88.886
       },
-      "distanceKm": 886.7
+      "distanceKm": 43.2
     }
   },
   "keywords": [

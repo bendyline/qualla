@@ -32,8 +32,8 @@
     "sourceType": "core",
     "sourceArticleId": "morgan-park-duluth-minnesota-wp",
     "sourceGeohash4": "cbq3",
-    "smallPath": "_m/c/b/q/3/morgan-park-duluth-minnesota-wp/hero-small.jpg",
-    "mediumPath": "_m/c/b/q/3/morgan-park-duluth-minnesota-wp/hero-medium.jpg"
+    "smallPath": "_m/c/b/q/3/morgan-park-duluth-minnesota-wp/hero-small.webp",
+    "mediumPath": "_m/c/b/q/3/morgan-park-duluth-minnesota-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Aerial view of Morgan Park, Duluth 2022-11-26 01.jpg",
@@ -96,7 +96,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "morgan-park-duluth-minnesota-wp",
-      "sourceGeohash4": "cbq3"
+      "sourceGeohash4": "cbq3",
+      "mediumPath": "_m/c/b/q/3/morgan-park-duluth-minnesota-wp/united-protestant-church-morga-medium.webp",
+      "smallPath": "_m/c/b/q/3/morgan-park-duluth-minnesota-wp/united-protestant-church-morga-small.webp"
     },
     {
       "filename": "Lake View Store, Morgan Park, Duluth 2022-11-26.jpg",
@@ -123,14 +125,15 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "morgan-park-duluth-minnesota-wp",
-      "sourceGeohash4": "cbq3"
+      "sourceGeohash4": "cbq3",
+      "mediumPath": "_m/c/b/q/3/morgan-park-duluth-minnesota-wp/lake-view-store-morgan-park-du-medium.webp",
+      "smallPath": "_m/c/b/q/3/morgan-park-duluth-minnesota-wp/lake-view-store-morgan-park-du-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/c/b/q/3/morgan-park-duluth-minnesota-wp/united-protestant-church-morga.jpg",
     "_m/c/b/q/3/morgan-park-duluth-minnesota-wp/lake-view-store-morgan-park-du.jpg"
   ],
-  "fetchedAt": "2026-02-22T03:03:43.761Z",
   "narration": {
     "files": [
       "cbq3-morgan-park-duluth-minnesota-flight-context.mp3",
@@ -150,8 +153,7 @@
       "cbq3-morgan-park-duluth-minnesota-the-long-shuttering.mp3": 76.3935416,
       "cbq3-morgan-park-duluth-minnesota-brownfield-and-beyond.mp3": 60.2329166
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T11:21:58.273Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T03:03:44.486Z"
 }

@@ -80,7 +80,7 @@
       "sourceType": "core",
       "sourceArticleId": "anne-frank-tree-wp",
       "sourceGeohash4": "u173",
-      "smallPath": "_m/u/1/7/3/anne-frank-tree-wp/anne-frank-chestnut-tr-small.jpg"
+      "smallPath": "_m/u/1/7/3/anne-frank-tree-wp/anne-frank-chestnut-tr-small.webp"
     },
     {
       "filename": "Anne-frank-tree-yv2.jpg",
@@ -106,8 +106,8 @@
       "sourceType": "core",
       "sourceArticleId": "anne-frank-tree-wp",
       "sourceGeohash4": "u173",
-      "smallPath": "_m/u/1/7/3/anne-frank-tree-wp/gallery-2-small.jpg",
-      "mediumPath": "_m/u/1/7/3/anne-frank-tree-wp/gallery-2-medium.jpg"
+      "smallPath": "_m/u/1/7/3/anne-frank-tree-wp/gallery-2-small.webp",
+      "mediumPath": "_m/u/1/7/3/anne-frank-tree-wp/gallery-2-medium.webp"
     },
     {
       "filename": "Marronnier d'Inde - Jardin Anne-Frank.jpg",
@@ -137,8 +137,8 @@
       "sourceType": "core",
       "sourceArticleId": "anne-frank-tree-wp",
       "sourceGeohash4": "u173",
-      "smallPath": "_m/u/1/7/3/anne-frank-tree-wp/marronnier-d-inde-aesc-small.jpg",
-      "mediumPath": "_m/u/1/7/3/anne-frank-tree-wp/marronnier-d-inde-aesc-medium.jpg"
+      "smallPath": "_m/u/1/7/3/anne-frank-tree-wp/marronnier-d-inde-aesc-small.webp",
+      "mediumPath": "_m/u/1/7/3/anne-frank-tree-wp/marronnier-d-inde-aesc-medium.webp"
     },
     {
       "filename": "Anne Franken gaztainondoaren kimua .jpg",
@@ -166,7 +166,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "anne-frank-tree-wp",
-      "sourceGeohash4": "u173"
+      "sourceGeohash4": "u173",
+      "smallPath": "_m/u/1/7/3/anne-frank-tree-wp/anne-franken-gaztainondoaren-k-small.webp"
     },
     {
       "filename": "Anne Frank Baum und Anne Frank Skulptur Uedelhoven.jpg",
@@ -190,7 +191,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "anne-frank-tree-wp",
-      "sourceGeohash4": "u173"
+      "sourceGeohash4": "u173",
+      "mediumPath": "_m/u/1/7/3/anne-frank-tree-wp/anne-frank-baum-und-anne-frank-medium.webp",
+      "smallPath": "_m/u/1/7/3/anne-frank-tree-wp/anne-frank-baum-und-anne-frank-small.webp"
     }
   ],
   "galleryPaths": [
@@ -200,7 +203,6 @@
     "_m/u/1/7/3/anne-frank-tree-wp/anne-franken-gaztainondoaren-k.jpg",
     "_m/u/1/7/3/anne-frank-tree-wp/anne-frank-baum-und-anne-frank.jpg"
   ],
-  "fetchedAt": "2026-02-22T14:09:52.494Z",
   "updatedAt": "2026-02-22T14:09:53.425Z",
   "narration": {
     "files": [
@@ -219,7 +221,6 @@
       "u173-anne-frank-tree-the-fall.mp3": 49.3832083,
       "u173-anne-frank-tree-seeds-of-memory.mp3": 64.2233333
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-25T22:30:40.853Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

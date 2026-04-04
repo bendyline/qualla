@@ -153,14 +153,14 @@
       "distanceKm": 64.9
     },
     "sw": {
-      "id": "karnak-temple-wk",
-      "title": "Karnak: The Temple Built by 30 Pharaohs Over 2,000 Years",
-      "tile": "ssx4",
+      "id": "little-petra-wp",
+      "title": "Little Petra",
+      "tile": "sv3h",
       "coordinates": {
-        "lat": 25.7188,
-        "lng": 32.6573
+        "lat": 30.37527847,
+        "lng": 35.45138931
       },
-      "distanceKm": 1457.5
+      "distanceKm": 1049.3
     },
     "s": {
       "id": "battle-of-medina-ridge-wp",
@@ -182,5 +182,6 @@
       },
       "distanceKm": 39.8
     }
-  }
+  },
+  "locationWikipediaPath": "t/j/9/2/mesopotamian-marshes-wp"
 }

@@ -27,8 +27,8 @@
     "sourceType": "core",
     "sourceArticleId": "holy-trinity-cathedral-karachi-wp",
     "sourceGeohash4": "tkrt",
-    "mediumPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/hero-medium.jpg",
-    "smallPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/hero-small.jpg"
+    "mediumPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/hero-medium.webp",
+    "smallPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Holy Trinity Cathredal - Karachi - Pakistan - 1904.jpg",
@@ -93,8 +93,8 @@
       "sourceType": "core",
       "sourceArticleId": "holy-trinity-cathedral-karachi-wp",
       "sourceGeohash4": "tkrt",
-      "mediumPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/photo-monument-pakista-medium.jpg",
-      "smallPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/photo-monument-pakista-small.jpg"
+      "mediumPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/photo-monument-pakista-medium.webp",
+      "smallPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/photo-monument-pakista-small.webp"
     },
     {
       "filename": "Trinity Cathedral Karachi.jpg",
@@ -116,7 +116,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "holy-trinity-cathedral-karachi-wp",
       "sourceGeohash4": "tkrt",
-      "smallPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/trinity-cathedral-karachi-small.jpg"
+      "smallPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/trinity-cathedral-karachi-small.webp"
     },
     {
       "filename": "Trinity church Karachi.JPG",
@@ -148,8 +148,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "holy-trinity-cathedral-karachi-wp",
       "sourceGeohash4": "tkrt",
-      "mediumPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/trinity-church-karachi-medium.jpg",
-      "smallPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/trinity-church-karachi-small.jpg"
+      "mediumPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/trinity-church-karachi-medium.webp",
+      "smallPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/trinity-church-karachi-small.webp"
     },
     {
       "filename": "Trinity church tower.JPG",
@@ -181,8 +181,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "holy-trinity-cathedral-karachi-wp",
       "sourceGeohash4": "tkrt",
-      "mediumPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/trinity-church-tower-medium.jpg",
-      "smallPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/trinity-church-tower-small.jpg"
+      "mediumPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/trinity-church-tower-medium.webp",
+      "smallPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/trinity-church-tower-small.webp"
     },
     {
       "filename": "The door of faith - Holy Trinity Cathedral.jpg",
@@ -214,8 +214,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "holy-trinity-cathedral-karachi-wp",
       "sourceGeohash4": "tkrt",
-      "mediumPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/the-door-of-faith-holy-trinity-medium.jpg",
-      "smallPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/the-door-of-faith-holy-trinity-small.jpg"
+      "mediumPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/the-door-of-faith-holy-trinity-medium.webp",
+      "smallPath": "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/the-door-of-faith-holy-trinity-small.webp"
     }
   ],
   "galleryPaths": [
@@ -225,6 +225,22 @@
     "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/trinity-church-tower.jpg",
     "_m/t/k/r/t/holy-trinity-cathedral-karachi-wp/the-door-of-faith-holy-trinity.jpg"
   ],
-  "fetchedAt": "2026-03-01T10:46:23.921Z",
-  "updatedAt": "2026-03-01T10:46:27.738Z"
+  "updatedAt": "2026-03-01T10:46:27.738Z",
+  "narration": {
+    "files": [
+      "tkrt-holy-trinity-cathedral-karachi-flight-context.mp3",
+      "tkrt-holy-trinity-cathedral-karachi-intro.mp3",
+      "tkrt-holy-trinity-cathedral-karachi-a-captains-blueprint.mp3",
+      "tkrt-holy-trinity-cathedral-karachi-shortened-by-weakness.mp3",
+      "tkrt-holy-trinity-cathedral-karachi-faith-in-a-changed-city.mp3"
+    ],
+    "durations": {
+      "tkrt-holy-trinity-cathedral-karachi-flight-context.mp3": 40.5158333,
+      "tkrt-holy-trinity-cathedral-karachi-intro.mp3": 33.9493333,
+      "tkrt-holy-trinity-cathedral-karachi-a-captains-blueprint.mp3": 52.0332916,
+      "tkrt-holy-trinity-cathedral-karachi-shortened-by-weakness.mp3": 43.6278333,
+      "tkrt-holy-trinity-cathedral-karachi-faith-in-a-changed-city.mp3": 50.9964583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

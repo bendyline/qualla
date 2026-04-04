@@ -80,84 +80,84 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "batalla-de-santa-clara-wp",
-      "title": "Batalla de Santa Clara",
-      "tile": "dhp2",
+      "id": "war-of-1912-wp",
+      "title": "War of 1912",
+      "tile": "d79g",
       "coordinates": {
-        "lat": 22.616666666666667,
-        "lng": -79.68333333333334
+        "lat": 20.3,
+        "lng": -76.078
       },
-      "distanceKm": 770.8
+      "distanceKm": 346.1
     },
     "n": {
-      "id": "bermuda-triangle-wk",
-      "title": "The Bermuda Triangle: Where Ships and Planes Vanish",
-      "tile": "dkmw",
+      "id": "hms-spencer-1795-wp",
+      "title": "HMS Spencer (1795)",
+      "tile": "d7v0",
       "coordinates": {
-        "lat": 25,
-        "lng": -71
+        "lat": 21.233333333333334,
+        "lng": -71.5
       },
-      "distanceKm": 566.3
+      "distanceKm": 153.8
     },
     "ne": {
-      "id": "bermuda-triangle-mystery-wk",
-      "title": "Bermuda Triangle: The Mystery That Wasn't There",
-      "tile": "dkmw",
+      "id": "hms-renard-1797-wp",
+      "title": "HMS Renard (1797)",
+      "tile": "d7v0",
       "coordinates": {
-        "lat": 25,
-        "lng": -71
+        "lat": 21.233333333333334,
+        "lng": -71.5
       },
-      "distanceKm": 556.5
+      "distanceKm": 134.7
     },
     "w": {
-      "id": "port-royal-sunken-wk",
-      "title": "Port Royal: When the Wickedest City on Earth Sank Into the Sea",
-      "tile": "d71q",
+      "id": "battle-of-jean-rabel-wp",
+      "title": "Battle of Jean-Rabel",
+      "tile": "d7ec",
       "coordinates": {
-        "lat": 17.9353,
-        "lng": -76.8407
+        "lat": 19.91833333,
+        "lng": -73.2
       },
-      "distanceKm": 474.4
+      "distanceKm": 47.4
     },
     "e": {
-      "id": "mt-pelee-wk",
-      "title": "The Eruption of Mount Pelée: 30,000 Dead in Two Minutes",
-      "tile": "dds7",
+      "id": "birgenair-flight-301-wp",
+      "title": "Birgenair Flight 301",
+      "tile": "d7tc",
       "coordinates": {
-        "lat": 14.7402,
-        "lng": -61.1779
+        "lat": 19.91388889,
+        "lng": -70.40555556
       },
-      "distanceKm": 1251
+      "distanceKm": 138.2
     },
     "sw": {
-      "id": "port-royal-pirates-wk",
-      "title": "Port Royal: The Wickedest City on Earth, Swallowed by the Sea",
-      "tile": "d71q",
+      "id": "1804-haitian-massacre-wp",
+      "title": "1804 Haitian Massacre",
+      "tile": "d7kh",
       "coordinates": {
-        "lat": 17.94,
-        "lng": -76.8407
+        "lat": 19,
+        "lng": -72.8
       },
-      "distanceKm": 462.6
+      "distanceKm": 57
     },
     "s": {
-      "id": "cartagena-wk",
-      "title": "Cartagena",
-      "tile": "d3f7",
+      "id": "raboteau-massacre-wp",
+      "title": "Raboteau Massacre",
+      "tile": "d7kq",
       "coordinates": {
-        "lat": 10.391,
-        "lng": -75.4794
+        "lat": 19.45,
+        "lng": -72.68333333
       },
-      "distanceKm": 1071.9
+      "distanceKm": 46.3
     },
     "se": {
-      "id": "old-san-juan-el-morro-wk",
-      "title": "El Morro: The Fortress That Guarded Spain's Empire",
-      "tile": "de2c",
+      "id": "anacaona-national-park-wp",
+      "title": "Anacaona National Park",
+      "tile": "d7m3",
       "coordinates": {
-        "lat": 18.4706,
-        "lng": -66.1239
+        "lat": 18.6,
+        "lng": -71.13
       },
-      "distanceKm": 599.5
+      "distanceKm": 118.8
     }
   },
   "keywords": [

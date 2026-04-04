@@ -28,8 +28,8 @@
     "sourceType": "core",
     "sourceArticleId": "fort-selden-wp",
     "sourceGeohash4": "9tgb",
-    "smallPath": "_m/9/t/g/b/fort-selden-wp/hero-small.jpg",
-    "mediumPath": "_m/9/t/g/b/fort-selden-wp/hero-medium.jpg"
+    "smallPath": "_m/9/t/g/b/fort-selden-wp/hero-small.webp",
+    "mediumPath": "_m/9/t/g/b/fort-selden-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "FortSeldenStateMonumentEntrance.jpg",
@@ -112,8 +112,8 @@
       "sourceType": "core",
       "sourceArticleId": "fort-selden-wp",
       "sourceGeohash4": "9tgb",
-      "smallPath": "_m/9/t/g/b/fort-selden-wp/ruins-fort-selden-small.jpg",
-      "mediumPath": "_m/9/t/g/b/fort-selden-wp/ruins-fort-selden-medium.jpg"
+      "smallPath": "_m/9/t/g/b/fort-selden-wp/ruins-fort-selden-small.webp",
+      "mediumPath": "_m/9/t/g/b/fort-selden-wp/ruins-fort-selden-medium.webp"
     },
     {
       "filename": "Fort Selden Historic Site, Radium Springs, New Mexico (27bef639-155d-451f-677a-ea37df75dda2).jpg",
@@ -135,7 +135,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-selden-wp",
-      "sourceGeohash4": "9tgb"
+      "sourceGeohash4": "9tgb",
+      "smallPath": "_m/9/t/g/b/fort-selden-wp/fort-selden-historic-site-radi-small.webp"
     }
   ],
   "galleryPaths": [
@@ -143,7 +144,6 @@
     "_m/9/t/g/b/fort-selden-wp/ruins-fort-selden.jpg",
     "_m/9/t/g/b/fort-selden-wp/fort-selden-historic-site-radi.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:11:56.161Z",
   "narration": {
     "files": [
       "9tgb-fort-selden-flight-context.mp3",
@@ -163,8 +163,7 @@
       "9tgb-fort-selden-the-end-of-the-frontier.mp3": 52.847375,
       "9tgb-fort-selden-ruins-reclaimed.mp3": 57.6144166
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T01:13:41.600Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:11:56.713Z"
 }

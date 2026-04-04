@@ -110,66 +110,46 @@
   "locationWikipediaPath": "r/k/b/0/brook-islands-national-park-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "tambora-wk",
-      "title": "The Eruption of Tambora: The Year Without a Summer",
-      "tile": "qwec",
+      "id": "ngukurr-wp",
+      "title": "Ngukurr",
+      "tile": "qvru",
       "coordinates": {
-        "lat": -8.25,
-        "lng": 118
+        "lat": -14.73,
+        "lng": 134.731
       },
-      "distanceKm": 3268.5
+      "distanceKm": 1310.8
     },
     "n": {
-      "id": "ubud-wk",
-      "title": "Ubud",
-      "tile": "qw3z",
+      "id": "daly-waters-airfield-wp",
+      "title": "Daly Waters Airfield",
+      "tile": "qvng",
       "coordinates": {
-        "lat": -8.5069,
-        "lng": 115.2625
+        "lat": -16.2617,
+        "lng": 133.381
       },
-      "distanceKm": 3594.2
+      "distanceKm": 1470.9
     },
     "ne": {
-      "id": "attu-island-forgotten-battle-wk",
-      "title": "Attu Island: America's Forgotten Arctic Battle",
-      "tile": "zc7h",
+      "id": "urup-wp",
+      "title": "Urup",
+      "tile": "z24t",
       "coordinates": {
-        "lat": 52.85,
-        "lng": 173.18
+        "lat": 45.9,
+        "lng": 149.983333
       },
-      "distanceKm": 8226.2
+      "distanceKm": 7081.9
     },
     "w": {
-      "id": "adelaide-wk",
-      "title": "Adelaide",
-      "tile": "r1f9",
+      "id": "tennant-creek-wp",
+      "title": "Tennant Creek",
+      "tile": "qux2",
       "coordinates": {
-        "lat": -34.9267,
-        "lng": 138.5991
+        "lat": -19.647222222222222,
+        "lng": 134.19027777777777
       },
-      "distanceKm": 2039.9
+      "distanceKm": 1318.4
     },
     "e": {
-      "id": "fiji-wk",
-      "title": "Fiji",
-      "tile": "ruy9",
-      "coordinates": {
-        "lat": -18,
-        "lng": 178
-      },
-      "distanceKm": 3205.1
-    },
-    "sw": {
-      "id": "uluru-wk",
-      "title": "Uluru: The Rock That Reaches 2.5km Underground",
-      "tile": "qgmp",
-      "coordinates": {
-        "lat": -25.3444,
-        "lng": 131.0369
-      },
-      "distanceKm": 1786.5
-    },
-    "s": {
       "id": "sydney-wk",
       "title": "Sydney",
       "tile": "r3gr",
@@ -177,7 +157,27 @@
         "lat": -33.9167,
         "lng": 151.1667
       },
-      "distanceKm": 1784.2
+      "distanceKm": 1802
+    },
+    "sw": {
+      "id": "tennant-creek-wk",
+      "title": "Tennant Creek",
+      "tile": "qux2",
+      "coordinates": {
+        "lat": -19.647222222222222,
+        "lng": 134.19027777777777
+      },
+      "distanceKm": 1313.7
+    },
+    "s": {
+      "id": "wycliffe-well-wk",
+      "title": "Wycliffe Well",
+      "tile": "qur3",
+      "coordinates": {
+        "lat": -20.795305555555554,
+        "lng": 134.23663888888888
+      },
+      "distanceKm": 1379.2
     },
     "se": {
       "id": "great-barrier-reef-wk",

@@ -1,0 +1,149 @@
+{
+  "id": "castle-of-san-michele-wp",
+  "source": "wikipedia",
+  "sourceId": "52065365",
+  "title": "Castle of San Michele",
+  "slug": "castle-of-san-michele",
+  "summary": "Built atop an early medieval church to defend a vanished capital, Cagliari's Castle of San Michele has served as a noble residence, a plague hospital, a naval station, and now an art gallery -- each reinvention layered over the last.",
+  "content": {
+    "intro": "Beneath the stones of the Castle of San Michele lies a church. Excavations in the 1990s revealed the remains of a rural chapel, probably from the early medieval period, upon which the castle was built in the 12th century. Whether the church came first or rose simultaneously with the fortress remains unclear -- an ambiguity that suits a building whose entire history is one of transformation. What is certain is that the castle was built to defend Santa Igia, the capital of the Giudicato of Cagliari, a city that no longer exists.",
+    "sections": [
+      {
+        "title": "Sentinel of a Vanished Kingdom",
+        "body": "The Giudicato of Cagliari was one of four independent kingdoms that divided medieval Sardinia, and Santa Igia was its capital. The Castle of San Michele, with its three towers and encircling moat, served as the city's hilltop guardian -- a military complex positioned to watch over the approaches to a seat of power. But Santa Igia fell. The Pisans destroyed it in 1258, shifting authority to their own fortified quarter of Castel di Castro. The castle survived the capital it was built to protect, a sentinel standing watch over empty ground. Its most prominent period came in the 14th through 16th centuries, when the Carroz family -- Valencian nobles who arrived with the Aragonese conquest -- made it their residence, filling its halls with the ambitions of a transplanted aristocracy."
+      },
+      {
+        "title": "From Plague Ward to Naval Outpost",
+        "body": "After the Carroz family departed, the castle entered a long period of decline punctuated by desperate repurposing. During the devastating Plague of Saint Efisio, which ravaged Sardinia from 1652 to 1656, the abandoned fortress was pressed into service as a hospital -- a place of isolation where the sick could be separated from the healthy behind thick medieval walls. In the 18th century, it was refortified to defend against potential French attacks, its military function briefly revived. Then around 1940, the Italian Navy's Regia Marina occupied the castle, using its elevated position for purposes far removed from medieval warfare. Each new tenant adapted the structure to fit needs its builders never imagined."
+      },
+      {
+        "title": "Art Where Soldiers Once Stood",
+        "body": "The castle eventually passed to the municipality of Cagliari, and substantial modifications transformed it into its current incarnation: a Center of Art and Culture. The shift from military stronghold to gallery space mirrors a broader pattern in Sardinia and across Italy, where medieval fortifications too costly to maintain as ruins and too historically significant to demolish are given new cultural lives. From the castle's hilltop, the views extend across Cagliari -- the same panorama that once allowed defenders to spot approaching enemies now draws visitors who come for exhibitions. The three towers still stand, the moat still encircles the walls, and the buried church still waits beneath the foundations, a reminder that even the ground the castle stands on has been repurposed more than once."
+      }
+    ],
+    "flightContext": "Located at 39.24N, 9.11E on a prominent hill in northern Cagliari. The three-towered castle is visible from the air as an elevated fortification surrounded by modern residential areas. Best viewed at 2,000-3,000 feet. Nearest airport: Cagliari-Elmas (LIEE), approximately 8 km southwest. The hill of San Michele is one of several hills defining Cagliari's topography, with the Castello quarter visible to the southeast."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 39.244764,
+      "lng": 9.109723
+    },
+    "geohash": "snyrr"
+  },
+  "categories": [
+    "castle",
+    "medieval-architecture",
+    "cultural-heritage",
+    "art-gallery"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-13T00:00:00Z",
+    "wordCount": 610,
+    "readTime": 3,
+    "firstPublished": "2026-03-13T00:00:00Z",
+    "storyNumber": 8371
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Castle of San Michele - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Castle_of_San_Michele,_Cagliari",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Castle built on remains of earlier medieval chapel confirmed",
+        "Pisans destroyed capital Santa Igia 1258 confirmed",
+        "Carroz family Valencian nobles occupied castle in 14th-16th centuries confirmed",
+        "Plague of Saint Efisio ravaged Sardinia 1652-1656 confirmed",
+        "Regia Marina occupied during WWII era confirmed",
+        "Now serves as Center of Art and Culture confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "s/n/y/r/castle-of-san-michele-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "mola-fortress-wp",
+      "title": "Mola Fortress",
+      "tile": "sp54",
+      "coordinates": {
+        "lat": 39.8742,
+        "lng": 4.31306
+      },
+      "distanceKm": 354.6
+    },
+    "n": {
+      "id": "strait-of-bonifacio-wp",
+      "title": "Strait of Bonifacio",
+      "tile": "spqe",
+      "coordinates": {
+        "lat": 41.311944,
+        "lng": 9.2127778
+      },
+      "distanceKm": 197
+    },
+    "ne": {
+      "id": "ostia-antica-wp",
+      "title": "Ostia Antica",
+      "tile": "sr2t",
+      "coordinates": {
+        "lat": 41.75416666666667,
+        "lng": 12.2875
+      },
+      "distanceKm": 340
+    },
+    "w": {
+      "id": "nuraghe-seruci-wp",
+      "title": "Nuraghe Seruci",
+      "tile": "snvz",
+      "coordinates": {
+        "lat": 39.24917,
+        "lng": 8.42444
+      },
+      "distanceKm": 4.4
+    },
+    "e": {
+      "id": "ichkeul-national-park-wk",
+      "title": "Ichkeul National Park",
+      "tile": "snwg",
+      "coordinates": {
+        "lat": 37.123444,
+        "lng": 9.655444
+      },
+      "distanceKm": 241
+    },
+    "sw": {
+      "id": "el-kala-national-park-wp",
+      "title": "El Kala National Park",
+      "tile": "sntc",
+      "coordinates": {
+        "lat": 36.81667,
+        "lng": 8.41667
+      },
+      "distanceKm": 245.4
+    },
+    "s": {
+      "id": "nora-italy-wp",
+      "title": "Nora, Italy",
+      "tile": "snym",
+      "coordinates": {
+        "lat": 38.985737,
+        "lng": 9.016026
+      },
+      "distanceKm": 6.1
+    },
+    "se": {
+      "id": "battle-of-skerki-bank-wp",
+      "title": "Battle of Skerki Bank",
+      "tile": "snxy",
+      "coordinates": {
+        "lat": 37.75333333,
+        "lng": 10.95333333
+      },
+      "distanceKm": 190.2
+    }
+  }
+}

@@ -11,7 +11,6 @@
       "dpmu-cleveland-the-mistake-by-the-lake-that-refuses-to--visiting-cleveland.mp3"
     ],
     "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-24T14:27:23.974Z",
     "durations": {
       "dpmu-cleveland-the-mistake-by-the-lake-that-refuses-to--flight-context.mp3": 51.277625,
       "dpmu-cleveland-the-mistake-by-the-lake-that-refuses-to--intro.mp3": 53.5957083,
@@ -22,7 +21,6 @@
       "dpmu-cleveland-the-mistake-by-the-lake-that-refuses-to--visiting-cleveland.mp3": 48.3339583
     }
   },
-  "fetchedAt": "2026-02-22T12:01:00.152Z",
   "hero": {
     "filename": "Cleveland Public Library (July 2018).jpg",
     "title": "File:Cleveland Public Library (July 2018).jpg",
@@ -46,8 +44,8 @@
     "sourceType": "core",
     "sourceArticleId": "cleveland-city-wk",
     "sourceGeohash4": "dpmu",
-    "smallPath": "_m/d/p/m/u/cleveland-city-wk/hero-small.jpg",
-    "mediumPath": "_m/d/p/m/u/cleveland-city-wk/hero-medium.jpg"
+    "smallPath": "_m/d/p/m/u/cleveland-city-wk/hero-small.webp",
+    "mediumPath": "_m/d/p/m/u/cleveland-city-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Cleveland Public Library (July 2018).jpg",
@@ -98,8 +96,8 @@
       "sourceType": "core",
       "sourceArticleId": "cleveland-city-wk",
       "sourceGeohash4": "dpmu",
-      "smallPath": "_m/d/p/m/u/cleveland-city-wk/louis-stokes-wing-clev-small.jpg",
-      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/louis-stokes-wing-clev-medium.jpg"
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/louis-stokes-wing-clev-small.webp",
+      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/louis-stokes-wing-clev-medium.webp"
     },
     {
       "filename": "Carnegie West.jpg",
@@ -125,8 +123,8 @@
       "sourceType": "core",
       "sourceArticleId": "cleveland-city-wk",
       "sourceGeohash4": "dpmu",
-      "smallPath": "_m/d/p/m/u/cleveland-city-wk/carnegie-west-branch-c-small.jpg",
-      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/carnegie-west-branch-c-medium.jpg"
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/carnegie-west-branch-c-small.webp",
+      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/carnegie-west-branch-c-medium.webp"
     },
     {
       "filename": "Lorain Ave Carnegie Library in the City of Cleveland, Ohio.jpg",
@@ -151,7 +149,7 @@
       "sourceType": "core",
       "sourceArticleId": "cleveland-city-wk",
       "sourceGeohash4": "dpmu",
-      "smallPath": "_m/d/p/m/u/cleveland-city-wk/carnegie-library-locat-small.jpg"
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/carnegie-library-locat-small.webp"
     },
     {
       "filename": "South Branch Carnegie Library in Cleveland, Ohio.jpg",
@@ -178,7 +176,7 @@
       "sourceType": "core",
       "sourceArticleId": "cleveland-city-wk",
       "sourceGeohash4": "dpmu",
-      "smallPath": "_m/d/p/m/u/cleveland-city-wk/south-branch-library-c-small.jpg"
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/south-branch-library-c-small.webp"
     },
     {
       "filename": "Sensory Garden at the Ohio Library for the Blind and Physically Disabled.jpg",
@@ -206,8 +204,8 @@
       "sourceType": "core",
       "sourceArticleId": "cleveland-city-wk",
       "sourceGeohash4": "dpmu",
-      "smallPath": "_m/d/p/m/u/cleveland-city-wk/sensory-garden-ohio-li-small.jpg",
-      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/sensory-garden-ohio-li-medium.jpg"
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/sensory-garden-ohio-li-small.webp",
+      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/sensory-garden-ohio-li-medium.webp"
     },
     {
       "filename": "Terrestrial Globe created by Sterling Bronze Company.jpg",
@@ -234,8 +232,8 @@
       "sourceType": "core",
       "sourceArticleId": "cleveland-city-wk",
       "sourceGeohash4": "dpmu",
-      "smallPath": "_m/d/p/m/u/cleveland-city-wk/terrestrial-globe-crea-small.jpg",
-      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/terrestrial-globe-crea-medium.jpg"
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/terrestrial-globe-crea-small.webp",
+      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/terrestrial-globe-crea-medium.webp"
     },
     {
       "filename": "Rookwood Installation at Carnegie West.jpg",
@@ -290,8 +288,8 @@
       "sourceType": "core",
       "sourceArticleId": "cleveland-city-wk",
       "sourceGeohash4": "dpmu",
-      "smallPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-ohio-small.png",
-      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-ohio-medium.png"
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-ohio-small.webp",
+      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-ohio-medium.webp"
     },
     {
       "filename": "Map of Cleveland Library Districts in 1911.jpg",
@@ -314,7 +312,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cleveland-city-wk",
-      "sourceGeohash4": "dpmu"
+      "sourceGeohash4": "dpmu",
+      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/map-of-cleveland-library-distr-medium.webp",
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/map-of-cleveland-library-distr-small.webp"
     },
     {
       "filename": "Pigbank.jpg",
@@ -340,7 +340,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cleveland-city-wk",
-      "sourceGeohash4": "dpmu"
+      "sourceGeohash4": "dpmu",
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/pigbank-small.webp"
     },
     {
       "filename": "Cleveland Public Library (15852249434).jpg",
@@ -357,7 +358,9 @@
       "dateCreated": "2015-02-07 17:35",
       "sourceType": "commons-category",
       "sourceArticleId": "cleveland-city-wk",
-      "sourceGeohash4": "dpmu"
+      "sourceGeohash4": "dpmu",
+      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-15852-medium.webp",
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-15852-small.webp"
     },
     {
       "filename": "Cleveland Public Library (16473014831).jpg",
@@ -374,7 +377,9 @@
       "dateCreated": "2015-02-07 16:56",
       "sourceType": "commons-category",
       "sourceArticleId": "cleveland-city-wk",
-      "sourceGeohash4": "dpmu"
+      "sourceGeohash4": "dpmu",
+      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-16473-medium.webp",
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-16473-small.webp"
     },
     {
       "filename": "Cleveland Public Library (15852226634).jpg",
@@ -391,7 +396,9 @@
       "dateCreated": "2015-02-07 16:56",
       "sourceType": "commons-category",
       "sourceArticleId": "cleveland-city-wk",
-      "sourceGeohash4": "dpmu"
+      "sourceGeohash4": "dpmu",
+      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-15852-1-medium.webp",
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-15852-1-small.webp"
     },
     {
       "filename": "Cleveland Public Library (16287517130).jpg",
@@ -408,7 +415,9 @@
       "dateCreated": "2015-02-07 16:54",
       "sourceType": "commons-category",
       "sourceArticleId": "cleveland-city-wk",
-      "sourceGeohash4": "dpmu"
+      "sourceGeohash4": "dpmu",
+      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-16287-medium.webp",
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-16287-small.webp"
     },
     {
       "filename": "Cleveland Public Library (16473221601).jpg",
@@ -425,7 +434,9 @@
       "dateCreated": "2015-02-07 16:56",
       "sourceType": "commons-category",
       "sourceArticleId": "cleveland-city-wk",
-      "sourceGeohash4": "dpmu"
+      "sourceGeohash4": "dpmu",
+      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-16473-1-medium.webp",
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-16473-1-small.webp"
     },
     {
       "filename": "Cleveland Public Library (16287281218).jpg",
@@ -442,7 +453,9 @@
       "dateCreated": "2015-02-07 17:04",
       "sourceType": "commons-category",
       "sourceArticleId": "cleveland-city-wk",
-      "sourceGeohash4": "dpmu"
+      "sourceGeohash4": "dpmu",
+      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-16287-1-medium.webp",
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-16287-1-small.webp"
     },
     {
       "filename": "Cleveland Public Library (16474039262).jpg",
@@ -459,7 +472,9 @@
       "dateCreated": "2015-02-07 17:15",
       "sourceType": "commons-category",
       "sourceArticleId": "cleveland-city-wk",
-      "sourceGeohash4": "dpmu"
+      "sourceGeohash4": "dpmu",
+      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-16474-medium.webp",
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-16474-small.webp"
     },
     {
       "filename": "Cleveland Public Library (16288746599).jpg",
@@ -476,7 +491,9 @@
       "dateCreated": "2015-02-07 17:18",
       "sourceType": "commons-category",
       "sourceArticleId": "cleveland-city-wk",
-      "sourceGeohash4": "dpmu"
+      "sourceGeohash4": "dpmu",
+      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-16288-medium.webp",
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-16288-small.webp"
     },
     {
       "filename": "Cleveland Public Library (16449011066).jpg",
@@ -493,7 +510,9 @@
       "dateCreated": "2015-02-07 17:33",
       "sourceType": "commons-category",
       "sourceArticleId": "cleveland-city-wk",
-      "sourceGeohash4": "dpmu"
+      "sourceGeohash4": "dpmu",
+      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-16449-medium.webp",
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-16449-small.webp"
     },
     {
       "filename": "Cleveland Public Library (15854960033).jpg",
@@ -509,7 +528,9 @@
       "dateCreated": "2015-02-07 17:34",
       "sourceType": "commons-category",
       "sourceArticleId": "cleveland-city-wk",
-      "sourceGeohash4": "dpmu"
+      "sourceGeohash4": "dpmu",
+      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-15854-medium.webp",
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-15854-small.webp"
     },
     {
       "filename": "Cleveland Public Library (15854975133).jpg",
@@ -526,7 +547,9 @@
       "dateCreated": "2015-02-07 18:29",
       "sourceType": "commons-category",
       "sourceArticleId": "cleveland-city-wk",
-      "sourceGeohash4": "dpmu"
+      "sourceGeohash4": "dpmu",
+      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-15854-1-medium.webp",
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-15854-1-small.webp"
     },
     {
       "filename": "Cleveland Public Library (16474159822).jpg",
@@ -543,7 +566,9 @@
       "dateCreated": "2015-02-07 18:45",
       "sourceType": "commons-category",
       "sourceArticleId": "cleveland-city-wk",
-      "sourceGeohash4": "dpmu"
+      "sourceGeohash4": "dpmu",
+      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-16474-1-medium.webp",
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-16474-1-small.webp"
     },
     {
       "filename": "Kent State Mini Maker Faire (14336216982).jpg",
@@ -560,7 +585,9 @@
       "dateCreated": "2014-04-24 13:20",
       "sourceType": "commons-category",
       "sourceArticleId": "cleveland-city-wk",
-      "sourceGeohash4": "dpmu"
+      "sourceGeohash4": "dpmu",
+      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/kent-state-mini-maker-faire-14-medium.webp",
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/kent-state-mini-maker-faire-14-small.webp"
     },
     {
       "filename": "Afommus.jpg",
@@ -577,7 +604,8 @@
       "dateCreated": "2007",
       "sourceType": "commons-category",
       "sourceArticleId": "cleveland-city-wk",
-      "sourceGeohash4": "dpmu"
+      "sourceGeohash4": "dpmu",
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/afommus-small.webp"
     },
     {
       "filename": "East 79th Branch of the Cleveland, OH Public Library.jpg",
@@ -594,7 +622,9 @@
       "dateCreated": "between 1909 and 1980<div style=\"display: none;\">date QS:P,+1950-00-00T00:00:00Z/7,P1319,+1909-00-00T00:00:00Z/9,P1326,+1980-00-00T00:00:00Z/9</div>",
       "sourceType": "commons-category",
       "sourceArticleId": "cleveland-city-wk",
-      "sourceGeohash4": "dpmu"
+      "sourceGeohash4": "dpmu",
+      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/east-79th-branch-of-the-clevel-medium.webp",
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/east-79th-branch-of-the-clevel-small.webp"
     },
     {
       "filename": "Quincy Branch, Cleveland OH Public Library.jpg",
@@ -611,7 +641,9 @@
       "dateCreated": "1946-10-20",
       "sourceType": "commons-category",
       "sourceArticleId": "cleveland-city-wk",
-      "sourceGeohash4": "dpmu"
+      "sourceGeohash4": "dpmu",
+      "mediumPath": "_m/d/p/m/u/cleveland-city-wk/quincy-branch-cleveland-oh-pub-medium.webp",
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/quincy-branch-cleveland-oh-pub-small.webp"
     },
     {
       "filename": "Cleveland Public Library Postcards Hough Branch- Exterior - DPLA - 2a7d26b43160dce0392c1724c73e7b99 (page 1).jpg",
@@ -625,7 +657,8 @@
       "dateCreated": "1907<div style=\"display: none;\">date QS:P571,+1907-00-00T00:00:00Z/9</div>",
       "sourceType": "commons-category",
       "sourceArticleId": "cleveland-city-wk",
-      "sourceGeohash4": "dpmu"
+      "sourceGeohash4": "dpmu",
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-postc-small.webp"
     },
     {
       "filename": "Cleveland Public Library Postcards West Side Branch- Exterior - DPLA - 33176e59d84e070ffc1f3f5e9e7e72b4 (page 1).jpg",
@@ -639,7 +672,8 @@
       "dateCreated": "2022-10-06 15:37:22",
       "sourceType": "commons-category",
       "sourceArticleId": "cleveland-city-wk",
-      "sourceGeohash4": "dpmu"
+      "sourceGeohash4": "dpmu",
+      "smallPath": "_m/d/p/m/u/cleveland-city-wk/cleveland-public-library-postc-1-small.webp"
     }
   ],
   "galleryPaths": [

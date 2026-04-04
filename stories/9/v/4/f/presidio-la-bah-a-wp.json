@@ -159,6 +159,16 @@
       "distanceKm": 19.7
     },
     "sw": {
+      "id": "pasta-de-conchos-mine-disaster-wp",
+      "title": "Pasta de Conchos Mine Disaster",
+      "tile": "9szz",
+      "coordinates": {
+        "lat": 27.9675,
+        "lng": -101.3275
+      },
+      "distanceKm": 354.3
+    },
+    "s": {
       "id": "monterrey-city-wk",
       "title": "Monterrey: Mexico's Industrial Capital Where Mountains Meet Money",
       "tile": "9u8d",
@@ -166,30 +176,21 @@
         "lat": 25.6866,
         "lng": -100.3161
       },
-      "distanceKm": 387.2
-    },
-    "s": {
-      "id": "mexico-city-wk",
-      "title": "Mexico City: The Aztec Capital Rebuilt in Spanish and Slowly Sinking",
-      "tile": "9g3w",
-      "coordinates": {
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "distanceKm": 1005.3
+      "distanceKm": 423.5
     },
     "se": {
-      "id": "merida-city-wk",
-      "title": "Mérida: The White City Gateway to Mayan Civilization",
-      "tile": "d58r",
+      "id": "battle-of-veracruz-1838-wp",
+      "title": "Battle of Veracruz (1838)",
+      "tile": "9g7t",
       "coordinates": {
-        "lat": 20.9674,
-        "lng": -89.5926
+        "lat": 19.209167,
+        "lng": -96.131389
       },
-      "distanceKm": 1084.8
+      "distanceKm": 1012.5
     }
   },
   "keywords": [
     "presidio-la-bah-a"
-  ]
+  ],
+  "locationWikipediaPath": "9/v/4/f/presidio-la-bahia-wp"
 }

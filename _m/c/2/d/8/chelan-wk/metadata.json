@@ -28,8 +28,8 @@
     "sourceType": "core",
     "sourceArticleId": "chelan-wk",
     "sourceGeohash4": "c2d8",
-    "smallPath": "_m/c/2/d/8/chelan-wk/hero-small.jpg",
-    "mediumPath": "_m/c/2/d/8/chelan-wk/hero-medium.jpg"
+    "smallPath": "_m/c/2/d/8/chelan-wk/hero-small.webp",
+    "mediumPath": "_m/c/2/d/8/chelan-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Chelan, WA - Riverwalk 02.jpg",
@@ -84,8 +84,8 @@
       "sourceType": "core",
       "sourceArticleId": "chelan-wk",
       "sourceGeohash4": "c2d8",
-      "smallPath": "_m/c/2/d/8/chelan-wk/view-lake-chelan-hwy97-small.jpg",
-      "mediumPath": "_m/c/2/d/8/chelan-wk/view-lake-chelan-hwy97-medium.jpg"
+      "smallPath": "_m/c/2/d/8/chelan-wk/view-lake-chelan-hwy97-small.webp",
+      "mediumPath": "_m/c/2/d/8/chelan-wk/view-lake-chelan-hwy97-medium.webp"
     },
     {
       "filename": "Link Transit 810 at Columbia Station.jpg",
@@ -119,7 +119,6 @@
     "_m/c/2/d/8/chelan-wk/view-lake-chelan-hwy97.jpg",
     "_m/c/2/6/m/wenatchee-wk/electric-bus-operated.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:07:49.707Z",
   "updatedAt": "2026-01-29T13:04:28.865Z",
   "narration": {
     "files": [
@@ -127,18 +126,17 @@
       "c2d8-lake-chelan-intro.mp3",
       "c2d8-lake-chelan-the-deep-water.mp3",
       "c2d8-lake-chelan-the-ferry-to-stehekin.mp3",
-      "c2d8-lake-chelan-the-north-cascade-loop.mp3",
-      "c2d8-lake-chelan-water-and-wine.mp3"
+      "c2d8-lake-chelan-water-and-wine.mp3",
+      "c2d8-lake-chelan-the-north-cascade-loop.mp3"
     ],
     "durations": {
-      "c2d8-lake-chelan-flight-context.mp3": 54.12,
-      "c2d8-lake-chelan-intro.mp3": 44.064,
-      "c2d8-lake-chelan-the-deep-water.mp3": 58.824,
-      "c2d8-lake-chelan-the-ferry-to-stehekin.mp3": 59.808,
-      "c2d8-lake-chelan-the-north-cascade-loop.mp3": 60.048,
-      "c2d8-lake-chelan-water-and-wine.mp3": 54.816
+      "c2d8-lake-chelan-flight-context.mp3": 50.2732916,
+      "c2d8-lake-chelan-intro.mp3": 46.106125,
+      "c2d8-lake-chelan-the-deep-water.mp3": 58.6066666,
+      "c2d8-lake-chelan-the-ferry-to-stehekin.mp3": 55.9104583,
+      "c2d8-lake-chelan-water-and-wine.mp3": 56.35925,
+      "c2d8-lake-chelan-the-north-cascade-loop.mp3": 57.0968333
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:57.603Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

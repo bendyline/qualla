@@ -95,7 +95,7 @@
       "sourceType": "core",
       "sourceArticleId": "siege-of-fort-st-jean-wp",
       "sourceGeohash4": "f25c",
-      "smallPath": "_m/f/2/5/c/siege-of-fort-st-jean-wp/fort-chambly-river-wal-small.jpg"
+      "smallPath": "_m/f/2/5/c/siege-of-fort-st-jean-wp/fort-chambly-river-wal-small.webp"
     },
     {
       "filename": "Redoutes Sud et Nord 1775.jpg",
@@ -115,7 +115,7 @@
       "sourceType": "core",
       "sourceArticleId": "siege-of-fort-st-jean-wp",
       "sourceGeohash4": "f25c",
-      "smallPath": "_m/f/2/5/c/siege-of-fort-st-jean-wp/plan-des-redoutes-erig-small.jpg"
+      "smallPath": "_m/f/2/5/c/siege-of-fort-st-jean-wp/plan-des-redoutes-erig-small.webp"
     },
     {
       "filename": "FortStJeanPeachey1790.jpg",
@@ -154,6 +154,26 @@
     "_m/f/2/5/c/siege-of-fort-st-jean-wp/plan-des-redoutes-erig.jpg",
     "_m/f/2/5/c/royal-military-college-saint-jean-wp/fortstjeanpeachey1790.jpg"
   ],
-  "fetchedAt": "2026-02-28T12:37:33.479Z",
-  "updatedAt": "2026-02-28T12:37:43.149Z"
+  "updatedAt": "2026-02-28T12:37:43.149Z",
+  "narration": {
+    "files": [
+      "f25c-siege-of-fort-st-jean-flight-context.mp3",
+      "f25c-siege-of-fort-st-jean-intro.mp3",
+      "f25c-siege-of-fort-st-jean-the-cork-in-the-bottle.mp3",
+      "f25c-siege-of-fort-st-jean-false-starts-in-the-swamp.mp3",
+      "f25c-siege-of-fort-st-jean-rats-in-the-trenches.mp3",
+      "f25c-siege-of-fort-st-jean-chambly-falls-and-hope-with-it.mp3",
+      "f25c-siege-of-fort-st-jean-the-general-who-never-learned.mp3"
+    ],
+    "durations": {
+      "f25c-siege-of-fort-st-jean-flight-context.mp3": 54.591875,
+      "f25c-siege-of-fort-st-jean-intro.mp3": 42.027875,
+      "f25c-siege-of-fort-st-jean-the-cork-in-the-bottle.mp3": 65.177625,
+      "f25c-siege-of-fort-st-jean-false-starts-in-the-swamp.mp3": 75.079875,
+      "f25c-siege-of-fort-st-jean-rats-in-the-trenches.mp3": 70.434875,
+      "f25c-siege-of-fort-st-jean-chambly-falls-and-hope-with-it.mp3": 73.2670833,
+      "f25c-siege-of-fort-st-jean-the-general-who-never-learned.mp3": 62.4739583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

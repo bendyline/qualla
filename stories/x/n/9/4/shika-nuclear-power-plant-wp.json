@@ -86,14 +86,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "2018-winter-olympics-wp",
+      "title": "2018 Winter Olympics",
+      "tile": "wyew",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 37.6313,
+        "lng": 128.6774
       },
-      "distanceKm": 1188.5
+      "distanceKm": 652.3
     },
     "n": {
       "id": "2007-noto-earthquake-wp",
@@ -165,5 +165,6 @@
       },
       "distanceKm": 10.3
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/9/4/shika-nuclear-power-plant-wp"
 }

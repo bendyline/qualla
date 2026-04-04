@@ -17,8 +17,8 @@
         "sourceArticleId": "plains-of-abraham-wp",
         "sourceGeohash4": "f2m6",
         "accessedAt": "2026-02-28T14:47:06.680Z",
-        "mediumPath": "_m/f/2/m/6/plains-of-abraham-wp/hero-medium.jpg",
-        "smallPath": "_m/f/2/m/6/plains-of-abraham-wp/hero-small.jpg"
+        "mediumPath": "_m/f/2/m/6/plains-of-abraham-wp/hero-medium.webp",
+        "smallPath": "_m/f/2/m/6/plains-of-abraham-wp/hero-small.webp"
       },
       "images": [
         {
@@ -41,7 +41,7 @@
             "Files with no machine-readable source",
             "Media missing infobox template"
           ],
-          "smallPath": "_m/f/2/m/6/plains-of-abraham-wp/plaine-abraham-quebec-small.jpg"
+          "smallPath": "_m/f/2/m/6/plains-of-abraham-wp/plaine-abraham-quebec-small.webp"
         },
         {
           "path": "_m/f/2/m/6/plains-of-abraham-wp/carnaval-de-quebec-pla.jpg",
@@ -65,8 +65,8 @@
             "Files with no machine-readable source",
             "Media missing infobox template"
           ],
-          "mediumPath": "_m/f/2/m/6/plains-of-abraham-wp/carnaval-de-quebec-pla-medium.jpg",
-          "smallPath": "_m/f/2/m/6/plains-of-abraham-wp/carnaval-de-quebec-pla-small.jpg"
+          "mediumPath": "_m/f/2/m/6/plains-of-abraham-wp/carnaval-de-quebec-pla-medium.webp",
+          "smallPath": "_m/f/2/m/6/plains-of-abraham-wp/carnaval-de-quebec-pla-small.webp"
         },
         {
           "path": "_m/f/2/m/6/plains-of-abraham-wp/plaque-des-premiers-co.jpg",
@@ -95,9 +95,21 @@
             "Pioneers of New France",
             "Plaques in Quebec City",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/f/2/m/6/plains-of-abraham-wp/plaque-des-premiers-co-medium.webp",
+          "smallPath": "_m/f/2/m/6/plains-of-abraham-wp/plaque-des-premiers-co-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/f/2/m/6/plains-of-abraham-wp/f2m6-plains-of-abraham-thirty-minutes-that-decided-a-co-flight-context.mp3",
+        "_m/f/2/m/6/plains-of-abraham-wp/f2m6-plains-of-abraham-thirty-minutes-that-decided-a-co-intro.mp3",
+        "_m/f/2/m/6/plains-of-abraham-wp/f2m6-plains-of-abraham-thirty-minutes-that-decided-a-co-the-thirty-minute-war.mp3",
+        "_m/f/2/m/6/plains-of-abraham-wp/f2m6-plains-of-abraham-thirty-minutes-that-decided-a-co-from-battlefield-to-parkland.mp3",
+        "_m/f/2/m/6/plains-of-abraham-wp/f2m6-plains-of-abraham-thirty-minutes-that-decided-a-co-the-hidden-reservoir.mp3",
+        "_m/f/2/m/6/plains-of-abraham-wp/f2m6-plains-of-abraham-thirty-minutes-that-decided-a-co-the-park-that-works-like-central-park.mp3",
+        "_m/f/2/m/6/plains-of-abraham-wp/f2m6-plains-of-abraham-thirty-minutes-that-decided-a-co-echoes-in-music-and-memory.mp3"
+      ],
+      "combinedNarration": "_m/f/2/m/6/plains-of-abraham-wp/f2m6-plains-of-abraham-combined.mp3"
     }
   }
 }

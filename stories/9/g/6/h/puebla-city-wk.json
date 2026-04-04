@@ -116,24 +116,24 @@
   "locationWikivoyagePath": "9/g/6/k/puebla-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "mexico-city-wk",
-      "title": "Mexico City: The Aztec Capital Rebuilt in Spanish and Slowly Sinking",
-      "tile": "9g3w",
+      "id": "anahuacalli-museum-wp",
+      "title": "Anahuacalli Museum: Diego Rivera's Temple of Stone and Memory",
+      "tile": "9g3m",
       "coordinates": {
-        "lat": 19.4326,
-        "lng": -99.1332
+        "lat": 19.345,
+        "lng": -99.14451
       },
-      "distanceKm": 37.7
+      "distanceKm": 37.3
     },
     "n": {
-      "id": "monterrey-city-wk",
-      "title": "Monterrey: Mexico's Industrial Capital Where Mountains Meet Money",
-      "tile": "9u8d",
+      "id": "battle-of-otumba-wp",
+      "title": "Battle of Otumba",
+      "tile": "9g9b",
       "coordinates": {
-        "lat": 25.6866,
-        "lng": -100.3161
+        "lat": 19.6969,
+        "lng": -98.7547
       },
-      "distanceKm": 737
+      "distanceKm": 65.4
     },
     "ne": {
       "id": "merida-city-wk",
@@ -146,54 +146,54 @@
       "distanceKm": 868.9
     },
     "w": {
-      "id": "guadalajara-city-wk",
-      "title": "Guadalajara: Where Tequila, Mariachi, and the Mexican Soul Originate",
-      "tile": "9ewt",
+      "id": "siege-of-cuautla-wp",
+      "title": "Siege of Cuautla",
+      "tile": "9g3e",
       "coordinates": {
-        "lat": 20.6597,
-        "lng": -103.3496
+        "lat": 18.812222222222,
+        "lng": -98.955833333333
       },
-      "distanceKm": 508.5
+      "distanceKm": 33.8
     },
     "e": {
-      "id": "tikal-wk",
-      "title": "Tikal: The Lost Maya City That Rose Above the Jungle",
-      "tile": "d503",
+      "id": "battle-of-camaron-wp",
+      "title": "Battle of Camaron",
+      "tile": "9g7k",
       "coordinates": {
-        "lat": 17.222,
-        "lng": -89.6237
+        "lat": 19.023125,
+        "lng": -96.613611
       },
-      "distanceKm": 881.2
+      "distanceKm": 117.9
     },
     "sw": {
-      "id": "acapulco-wk",
-      "title": "Acapulco",
-      "tile": "9fbz",
+      "id": "church-of-santa-prisca-de-taxco-wp",
+      "title": "Church of Santa Prisca de Taxco",
+      "tile": "9g31",
       "coordinates": {
-        "lat": 16.863611,
-        "lng": -99.8825
+        "lat": 18.556301,
+        "lng": -99.604588
       },
-      "distanceKm": 245.3
+      "distanceKm": 90.4
     },
     "s": {
-      "id": "antigua-guatemala-wk",
-      "title": "Antigua Guatemala",
-      "tile": "9fx6",
+      "id": "2017-puebla-earthquake-wp",
+      "title": "2017 Puebla Earthquake",
+      "tile": "9g61",
       "coordinates": {
-        "lat": 14.567,
-        "lng": -90.733
+        "lat": 18.584,
+        "lng": -98.399
       },
-      "distanceKm": 930.1
+      "distanceKm": 28.9
     },
     "se": {
-      "id": "oaxaca-city-wk",
-      "title": "Oaxaca: The Cultural Capital Where Mezcal and Mole Meet",
-      "tile": "9g50",
+      "id": "2006-oaxaca-rebellion-wp",
+      "title": "2006 Oaxaca Rebellion",
+      "tile": "9g51",
       "coordinates": {
-        "lat": 17.05,
-        "lng": -96.7167
+        "lat": 17.0732,
+        "lng": -96.7266
       },
-      "distanceKm": 223.2
+      "distanceKm": 220.5
     }
   },
   "keywords": [

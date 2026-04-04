@@ -23,7 +23,7 @@
     "sourceType": "core",
     "sourceArticleId": "university-of-arkansas-fort-smith-wp",
     "sourceGeohash4": "9ykc",
-    "smallPath": "_m/9/y/k/c/university-of-arkansas-fort-smith-wp/hero-small.jpg"
+    "smallPath": "_m/9/y/k/c/university-of-arkansas-fort-smith-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "NUMA.jpg",
@@ -100,7 +100,7 @@
       "sourceType": "core",
       "sourceArticleId": "university-of-arkansas-fort-smith-wp",
       "sourceGeohash4": "9ykc",
-      "smallPath": "_m/9/y/k/c/university-of-arkansas-fort-smith-wp/university-arkansas-fo-1-small.jpg"
+      "smallPath": "_m/9/y/k/c/university-of-arkansas-fort-smith-wp/university-arkansas-fo-1-small.webp"
     },
     {
       "filename": "Baldor Technology Center.jpg",
@@ -126,7 +126,7 @@
       "sourceType": "core",
       "sourceArticleId": "university-of-arkansas-fort-smith-wp",
       "sourceGeohash4": "9ykc",
-      "smallPath": "_m/9/y/k/c/university-of-arkansas-fort-smith-wp/university-arkansas-fo-2-small.jpg"
+      "smallPath": "_m/9/y/k/c/university-of-arkansas-fort-smith-wp/university-arkansas-fo-2-small.webp"
     },
     {
       "filename": "Recreation and Wellness Center.jpg",
@@ -152,8 +152,8 @@
       "sourceType": "core",
       "sourceArticleId": "university-of-arkansas-fort-smith-wp",
       "sourceGeohash4": "9ykc",
-      "smallPath": "_m/9/y/k/c/university-of-arkansas-fort-smith-wp/recreation-wellness-ce-small.jpg",
-      "mediumPath": "_m/9/y/k/c/university-of-arkansas-fort-smith-wp/recreation-wellness-ce-medium.jpg"
+      "smallPath": "_m/9/y/k/c/university-of-arkansas-fort-smith-wp/recreation-wellness-ce-small.webp",
+      "mediumPath": "_m/9/y/k/c/university-of-arkansas-fort-smith-wp/recreation-wellness-ce-medium.webp"
     },
     {
       "filename": "Campus Center.jpg",
@@ -176,7 +176,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "university-of-arkansas-fort-smith-wp",
-      "sourceGeohash4": "9ykc"
+      "sourceGeohash4": "9ykc",
+      "smallPath": "_m/9/y/k/c/university-of-arkansas-fort-smith-wp/campus-center-small.webp"
     },
     {
       "filename": "Campus Center Dome.jpg",
@@ -199,7 +200,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "university-of-arkansas-fort-smith-wp",
-      "sourceGeohash4": "9ykc"
+      "sourceGeohash4": "9ykc",
+      "smallPath": "_m/9/y/k/c/university-of-arkansas-fort-smith-wp/campus-center-dome-small.webp"
     },
     {
       "filename": "Ballman-Speer Art Building.jpg",
@@ -222,7 +224,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "university-of-arkansas-fort-smith-wp",
-      "sourceGeohash4": "9ykc"
+      "sourceGeohash4": "9ykc",
+      "mediumPath": "_m/9/y/k/c/university-of-arkansas-fort-smith-wp/ballman-speer-art-building-medium.webp",
+      "smallPath": "_m/9/y/k/c/university-of-arkansas-fort-smith-wp/ballman-speer-art-building-small.webp"
     },
     {
       "filename": "Breedlove.jpg",
@@ -245,7 +249,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "university-of-arkansas-fort-smith-wp",
-      "sourceGeohash4": "9ykc"
+      "sourceGeohash4": "9ykc",
+      "mediumPath": "_m/9/y/k/c/university-of-arkansas-fort-smith-wp/breedlove-medium.webp",
+      "smallPath": "_m/9/y/k/c/university-of-arkansas-fort-smith-wp/breedlove-small.webp"
     },
     {
       "filename": "UAFS bell.JPG",
@@ -268,7 +274,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "university-of-arkansas-fort-smith-wp",
-      "sourceGeohash4": "9ykc"
+      "sourceGeohash4": "9ykc",
+      "mediumPath": "_m/9/y/k/c/university-of-arkansas-fort-smith-wp/uafs-bell-medium.webp",
+      "smallPath": "_m/9/y/k/c/university-of-arkansas-fort-smith-wp/uafs-bell-small.webp"
     },
     {
       "filename": "Math Science Building.jpg",
@@ -291,7 +299,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "university-of-arkansas-fort-smith-wp",
-      "sourceGeohash4": "9ykc"
+      "sourceGeohash4": "9ykc",
+      "smallPath": "_m/9/y/k/c/university-of-arkansas-fort-smith-wp/math-science-building-small.webp"
     }
   ],
   "galleryPaths": [
@@ -306,7 +315,6 @@
     "_m/9/y/k/c/university-of-arkansas-fort-smith-wp/uafs-bell.jpg",
     "_m/9/y/k/c/university-of-arkansas-fort-smith-wp/math-science-building.jpg"
   ],
-  "fetchedAt": "2026-02-22T01:03:13.521Z",
   "narration": {
     "files": [
       "9ykc-university-of-arkansas-fort-smith-flight-context.mp3",
@@ -324,8 +332,7 @@
       "9ykc-university-of-arkansas-fort-smith-bell-tower-and-bronze-lion.mp3": 59.368125,
       "9ykc-university-of-arkansas-fort-smith-rooted-in-the-river-valley.mp3": 44.2487083
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T00:21:45.846Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T01:03:14.038Z"
 }

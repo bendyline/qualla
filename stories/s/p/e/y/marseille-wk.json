@@ -77,84 +77,84 @@
   "locationWikivoyagePath": "s/p/e/y/marseille-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "lyon-wk",
-      "title": "Lyon",
-      "tile": "u05k",
+      "id": "barbegal-aqueduct-and-mills-wp",
+      "title": "Barbegal aqueduct and mills",
+      "tile": "spg2",
       "coordinates": {
-        "lat": 45.764,
-        "lng": 4.8357
+        "lat": 43.7025,
+        "lng": 4.72138889
       },
-      "distanceKm": 241.4
+      "distanceKm": 20.2
     },
     "n": {
-      "id": "chamonix-wk",
-      "title": "Chamonix",
-      "tile": "u0hv",
+      "id": "senanque-abbey-wp",
+      "title": "Senanque Abbey",
+      "tile": "spg9",
       "coordinates": {
-        "lat": 45.916,
-        "lng": 6.866
+        "lat": 43.928333,
+        "lng": 5.186944
       },
-      "distanceKm": 281.4
+      "distanceKm": 42.8
     },
     "ne": {
-      "id": "nice-wk",
-      "title": "Nice",
-      "tile": "spv0",
+      "id": "verdon-gorge-wp",
+      "title": "Verdon Gorge",
+      "tile": "spu8",
       "coordinates": {
-        "lat": 43.7102,
-        "lng": 7.262
+        "lat": 43.737778,
+        "lng": 6.363889
       },
-      "distanceKm": 104.2
+      "distanceKm": 35
     },
     "w": {
-      "id": "lascaux-cave-wk",
-      "title": "Lascaux Cave: The Sistine Chapel of Prehistory",
-      "tile": "u00b",
+      "id": "langlois-bridge-at-arles-wp",
+      "title": "Langlois Bridge at Arles",
+      "tile": "spg2",
       "coordinates": {
-        "lat": 45.0545,
-        "lng": 1.1683
+        "lat": 43.656947,
+        "lng": 4.621028
       },
-      "distanceKm": 355.4
+      "distanceKm": 43.7
     },
     "e": {
-      "id": "monaco-wk",
-      "title": "Monaco",
-      "tile": "spv2",
+      "id": "thoronet-abbey-wp",
+      "title": "Thoronet Abbey",
+      "tile": "spsr",
       "coordinates": {
-        "lat": 43.7328,
-        "lng": 7.4197
+        "lat": 43.460278,
+        "lng": 6.263889
       },
-      "distanceKm": 124.7
+      "distanceKm": 27.4
     },
     "sw": {
-      "id": "barcelona-wk",
-      "title": "Barcelona",
-      "tile": "sp3e",
+      "id": "argelers-concentration-camp-wp",
+      "title": "Argelers concentration camp",
+      "tile": "spd4",
       "coordinates": {
-        "lat": 41.3825,
-        "lng": 2.1769
+        "lat": 42.562188888889,
+        "lng": 3.0460277777778
       },
-      "distanceKm": 293.5
+      "distanceKm": 163
     },
     "s": {
-      "id": "ibiza-wk",
-      "title": "Ibiza",
-      "tile": "sncj",
+      "id": "palace-of-the-kings-of-majorca-wp",
+      "title": "Palace of the Kings of Majorca",
+      "tile": "spd4",
       "coordinates": {
-        "lat": 38.98,
-        "lng": 1.43
+        "lat": 42.693888888889,
+        "lng": 2.8955555555556
       },
-      "distanceKm": 565.7
+      "distanceKm": 212.1
     },
     "se": {
-      "id": "caesar-assassination-wk",
-      "title": "The Assassination of Julius Caesar: 'Et Tu, Brute?'",
-      "tile": "sr2y",
+      "id": "corsican-republic-wp",
+      "title": "Corsican Republic",
+      "tile": "spqr",
       "coordinates": {
-        "lat": 41.8956,
-        "lng": 12.476
+        "lat": 42.15,
+        "lng": 9.083333
       },
-      "distanceKm": 548.5
+      "distanceKm": 273.9
     }
   },
   "keywords": [

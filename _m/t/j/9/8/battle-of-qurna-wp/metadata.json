@@ -25,8 +25,8 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-qurna-wp",
     "sourceGeohash4": "tj98",
-    "mediumPath": "_m/t/j/9/8/battle-of-qurna-wp/hero-medium.jpg",
-    "smallPath": "_m/t/j/9/8/battle-of-qurna-wp/hero-small.jpg"
+    "mediumPath": "_m/t/j/9/8/battle-of-qurna-wp/hero-medium.webp",
+    "smallPath": "_m/t/j/9/8/battle-of-qurna-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "English cavalry routed by Turkish troops 1914 (50872177577).jpg",
@@ -56,5 +56,25 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T07:47:23.053Z"
+  "narration": {
+    "files": [
+      "tj98-battle-of-qurna-flight-context.mp3",
+      "tj98-battle-of-qurna-intro.mp3",
+      "tj98-battle-of-qurna-oil-empire-and-the-road-north.mp3",
+      "tj98-battle-of-qurna-six-days-at-the-confluence.mp3",
+      "tj98-battle-of-qurna-the-gunboat-negotiation.mp3",
+      "tj98-battle-of-qurna-the-cost-and-the-consequence.mp3",
+      "tj98-battle-of-qurna-the-rivers-remember.mp3"
+    ],
+    "durations": {
+      "tj98-battle-of-qurna-flight-context.mp3": 37.7118333,
+      "tj98-battle-of-qurna-intro.mp3": 45.0190833,
+      "tj98-battle-of-qurna-oil-empire-and-the-road-north.mp3": 58.14625,
+      "tj98-battle-of-qurna-six-days-at-the-confluence.mp3": 58.9076666,
+      "tj98-battle-of-qurna-the-gunboat-negotiation.mp3": 68.4239583,
+      "tj98-battle-of-qurna-the-cost-and-the-consequence.mp3": 61.1815416,
+      "tj98-battle-of-qurna-the-rivers-remember.mp3": 57.3784583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

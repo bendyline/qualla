@@ -22,7 +22,7 @@
     "sourceType": "core",
     "sourceArticleId": "pakistan-international-airlines-flight-8303-wp",
     "sourceGeohash4": "tkrv",
-    "smallPath": "_m/t/k/r/v/pakistan-international-airlines-flight-8303-wp/hero-small.jpg"
+    "smallPath": "_m/t/k/r/v/pakistan-international-airlines-flight-8303-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "PK8303 crash CCTV.png",
@@ -78,7 +78,6 @@
   "galleryPaths": [
     "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png"
   ],
-  "fetchedAt": "2026-03-01T11:16:01.979Z",
   "videos": [
     {
       "path": "_m/t/k/r/v/pakistan-international-airlines-flight-8303-wp/flight-from-lahore-to-karachi-crashed-in.mp4",
@@ -106,5 +105,24 @@
       }
     }
   ],
-  "updatedAt": "2026-03-01T11:17:01.685Z"
+  "updatedAt": "2026-03-01T11:17:01.685Z",
+  "narration": {
+    "files": [
+      "tkrv-pakistan-international-airlines-flight-8303-flight-context.mp3",
+      "tkrv-pakistan-international-airlines-flight-8303-intro.mp3",
+      "tkrv-pakistan-international-airlines-flight-8303-a-descent-without-landing-gear.mp3",
+      "tkrv-pakistan-international-airlines-flight-8303-ninety-seven-lives.mp3",
+      "tkrv-pakistan-international-airlines-flight-8303-the-investigations-damning-findings.mp3",
+      "tkrv-pakistan-international-airlines-flight-8303-a-scandal-of-forged-wings.mp3"
+    ],
+    "durations": {
+      "tkrv-pakistan-international-airlines-flight-8303-flight-context.mp3": 37.6708333,
+      "tkrv-pakistan-international-airlines-flight-8303-intro.mp3": 32.6494583,
+      "tkrv-pakistan-international-airlines-flight-8303-a-descent-without-landing-gear.mp3": 51.2791666,
+      "tkrv-pakistan-international-airlines-flight-8303-ninety-seven-lives.mp3": 52.9763333,
+      "tkrv-pakistan-international-airlines-flight-8303-the-investigations-damning-findings.mp3": 61.6969166,
+      "tkrv-pakistan-international-airlines-flight-8303-a-scandal-of-forged-wings.mp3": 62.817
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

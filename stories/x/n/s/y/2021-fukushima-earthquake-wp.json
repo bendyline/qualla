@@ -132,14 +132,14 @@
       "distanceKm": 33.4
     },
     "e": {
-      "id": "attu-island-forgotten-battle-wk",
-      "title": "Attu Island: America's Forgotten Arctic Battle",
-      "tile": "zc7h",
+      "id": "iturup-wp",
+      "title": "Iturup",
+      "tile": "z20b",
       "coordinates": {
-        "lat": 52.85,
-        "lng": 173.18
+        "lat": 45.033333,
+        "lng": 147.616667
       },
-      "distanceKm": 2904.1
+      "distanceKm": 924
     },
     "sw": {
       "id": "fukushima-daiichi-nuclear-power-plant-wp",
@@ -171,5 +171,6 @@
       },
       "distanceKm": 6183.7
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/s/y/2021-fukushima-earthquake-wp"
 }

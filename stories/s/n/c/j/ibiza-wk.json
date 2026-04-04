@@ -76,84 +76,84 @@
   "locationWikivoyagePath": "s/n/c/j/ibiza-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "valencia-wk",
-      "title": "Valencia",
-      "tile": "ezp8",
+      "id": "sagunto-castle-wp",
+      "title": "Sagunto Castle",
+      "tile": "ezpc",
       "coordinates": {
-        "lat": 39.4699,
-        "lng": -0.3763
+        "lat": 39.67583333333333,
+        "lng": -0.27749999999999997
       },
-      "distanceKm": 126.7
+      "distanceKm": 126.1
     },
     "n": {
-      "id": "marseille-wk",
-      "title": "Marseille",
-      "tile": "spey",
+      "id": "bellver-castle-wp",
+      "title": "Bellver Castle",
+      "tile": "sp1c",
       "coordinates": {
-        "lat": 43.2965,
-        "lng": 5.3698
+        "lat": 39.56375,
+        "lng": 2.6193388888889
       },
-      "distanceKm": 554.7
+      "distanceKm": 97.9
     },
     "ne": {
-      "id": "barcelona-wk",
-      "title": "Barcelona",
-      "tile": "sp3e",
+      "id": "battle-of-portopi-wp",
+      "title": "Battle of Portopi",
+      "tile": "sp1b",
       "coordinates": {
-        "lat": 41.3825,
-        "lng": 2.1769
+        "lat": 39.516666666666666,
+        "lng": 2.5166666666666666
       },
-      "distanceKm": 242.8
+      "distanceKm": 49.7
     },
     "w": {
-      "id": "madrid-wk",
-      "title": "Madrid",
-      "tile": "ezjm",
+      "id": "monastery-of-santa-maria-de-la-valldigna-wp",
+      "title": "Monastery of Santa Maria de la Valldigna",
+      "tile": "eyzy",
       "coordinates": {
-        "lat": 40.4168,
-        "lng": -3.7038
+        "lat": 39.042683,
+        "lng": -0.305743
       },
-      "distanceKm": 439.2
+      "distanceKm": 118.2
     },
     "e": {
-      "id": "nice-wk",
-      "title": "Nice",
-      "tile": "spv0",
+      "id": "2009-palma-nova-bombing-wp",
+      "title": "2009 Palma Nova Bombing",
+      "tile": "sp1b",
       "coordinates": {
-        "lat": 43.7102,
-        "lng": 7.262
+        "lat": 39.514883,
+        "lng": 2.534269
       },
-      "distanceKm": 683.1
+      "distanceKm": 74.1
     },
     "sw": {
-      "id": "cabo-de-gata-n-jar-natural-park-wk",
-      "title": "Cabo de Gata-Nijar Natural Park",
-      "tile": "eyw9",
+      "id": "santa-barbara-castle-wp",
+      "title": "Santa Bàrbara Castle",
+      "tile": "eyzd",
       "coordinates": {
-        "lat": 36.7833,
-        "lng": -2.1
+        "lat": 38.349,
+        "lng": -0.478
       },
-      "distanceKm": 347.9
+      "distanceKm": 138.1
     },
     "s": {
-      "id": "granada-wk",
-      "title": "Granada",
-      "tile": "eyt7",
+      "id": "archaeological-museum-of-cherchell-wp",
+      "title": "Archaeological Museum of Cherchell",
+      "tile": "sn98",
       "coordinates": {
-        "lat": 37.1773,
-        "lng": -3.5986
+        "lat": 36.608333333333,
+        "lng": 2.19125
       },
-      "distanceKm": 483.8
+      "distanceKm": 235.6
     },
     "se": {
-      "id": "tunis-wk",
-      "title": "Tunis",
-      "tile": "snx1",
+      "id": "battle-of-cape-cherchell-wp",
+      "title": "Battle of Cape Cherchell",
+      "tile": "sn99",
       "coordinates": {
-        "lat": 36.8065,
-        "lng": 10.1815
+        "lat": 36.90694444,
+        "lng": 2.20333333
       },
-      "distanceKm": 739.2
+      "distanceKm": 196.4
     }
   },
   "keywords": [

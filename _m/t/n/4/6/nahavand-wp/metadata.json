@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "nahavand-wp",
     "sourceGeohash4": "tn46",
-    "mediumPath": "_m/t/n/4/6/nahavand-wp/hero-medium.jpg",
-    "smallPath": "_m/t/n/4/6/nahavand-wp/hero-small.jpg"
+    "mediumPath": "_m/t/n/4/6/nahavand-wp/hero-medium.webp",
+    "smallPath": "_m/t/n/4/6/nahavand-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Faresban spring Nahavand hamedan.jpg",
@@ -82,7 +82,7 @@
       "sourceType": "core",
       "sourceArticleId": "nahavand-wp",
       "sourceGeohash4": "tn46",
-      "smallPath": "_m/t/n/4/6/nahavand-wp/castle-nahavend-small.jpg"
+      "smallPath": "_m/t/n/4/6/nahavand-wp/castle-nahavend-small.webp"
     },
     {
       "filename": "Clasp with an eagle and its prey MET DT907.jpg",
@@ -113,8 +113,8 @@
       "sourceType": "core",
       "sourceArticleId": "nahavand-wp",
       "sourceGeohash4": "tn46",
-      "mediumPath": "_m/t/n/4/6/nahavand-wp/parthian-clasp-metalwo-medium.jpg",
-      "smallPath": "_m/t/n/4/6/nahavand-wp/parthian-clasp-metalwo-small.jpg"
+      "mediumPath": "_m/t/n/4/6/nahavand-wp/parthian-clasp-metalwo-medium.webp",
+      "smallPath": "_m/t/n/4/6/nahavand-wp/parthian-clasp-metalwo-small.webp"
     },
     {
       "filename": "Giyan Spring.jpg",
@@ -140,8 +140,8 @@
       "sourceType": "core",
       "sourceArticleId": "nahavand-wp",
       "sourceGeohash4": "tn46",
-      "mediumPath": "_m/t/n/4/6/nahavand-wp/giyan-spring-head-naha-medium.jpg",
-      "smallPath": "_m/t/n/4/6/nahavand-wp/giyan-spring-head-naha-small.jpg"
+      "mediumPath": "_m/t/n/4/6/nahavand-wp/giyan-spring-head-naha-medium.webp",
+      "smallPath": "_m/t/n/4/6/nahavand-wp/giyan-spring-head-naha-small.webp"
     },
     {
       "filename": "Hajkhoda Rahm mosque.jpg",
@@ -170,8 +170,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "nahavand-wp",
       "sourceGeohash4": "tn46",
-      "mediumPath": "_m/t/n/4/6/nahavand-wp/hajkhoda-rahm-mosque-medium.jpg",
-      "smallPath": "_m/t/n/4/6/nahavand-wp/hajkhoda-rahm-mosque-small.jpg"
+      "mediumPath": "_m/t/n/4/6/nahavand-wp/hajkhoda-rahm-mosque-medium.webp",
+      "smallPath": "_m/t/n/4/6/nahavand-wp/hajkhoda-rahm-mosque-small.webp"
     },
     {
       "filename": "Karen pahlaw.png",
@@ -193,7 +193,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "nahavand-wp",
       "sourceGeohash4": "tn46",
-      "smallPath": "_m/t/n/4/6/nahavand-wp/karen-pahlaw-small.png"
+      "smallPath": "_m/t/n/4/6/nahavand-wp/karen-pahlaw-small.webp"
     },
     {
       "filename": "Meqam-î Beyat.png",
@@ -211,8 +211,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "nahavand-wp",
       "sourceGeohash4": "tn46",
-      "mediumPath": "_m/t/n/4/6/nahavand-wp/meqam-i-beyat-medium.png",
-      "smallPath": "_m/t/n/4/6/nahavand-wp/meqam-i-beyat-small.png"
+      "mediumPath": "_m/t/n/4/6/nahavand-wp/meqam-i-beyat-medium.webp",
+      "smallPath": "_m/t/n/4/6/nahavand-wp/meqam-i-beyat-small.webp"
     }
   ],
   "galleryPaths": [
@@ -223,6 +223,26 @@
     "_m/t/n/4/6/nahavand-wp/karen-pahlaw.png",
     "_m/t/n/4/6/nahavand-wp/meqam-i-beyat.png"
   ],
-  "fetchedAt": "2026-03-01T12:04:29.719Z",
-  "updatedAt": "2026-03-01T12:04:32.890Z"
+  "updatedAt": "2026-03-01T12:04:32.890Z",
+  "narration": {
+    "files": [
+      "tn46-nahavand-flight-context.mp3",
+      "tn46-nahavand-intro.mp3",
+      "tn46-nahavand-before-history-had-a-name.mp3",
+      "tn46-nahavand-greeks-parthians-and-a-queens-stele.mp3",
+      "tn46-nahavand-the-battle-that-changed-everything.mp3",
+      "tn46-nahavand-conquered-and-reconquered.mp3",
+      "tn46-nahavand-a-city-that-named-a-musical-scale.mp3"
+    ],
+    "durations": {
+      "tn46-nahavand-flight-context.mp3": 41.164125,
+      "tn46-nahavand-intro.mp3": 40.495,
+      "tn46-nahavand-before-history-had-a-name.mp3": 53.9142916,
+      "tn46-nahavand-greeks-parthians-and-a-queens-stele.mp3": 60.6985833,
+      "tn46-nahavand-the-battle-that-changed-everything.mp3": 63.8029166,
+      "tn46-nahavand-conquered-and-reconquered.mp3": 57.6165416,
+      "tn46-nahavand-a-city-that-named-a-musical-scale.mp3": 61.3930416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

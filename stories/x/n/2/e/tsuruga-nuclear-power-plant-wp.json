@@ -92,14 +92,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "liancourt-rocks-wp",
+      "title": "Liancourt Rocks",
+      "tile": "wytg",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 37.241666666667,
+        "lng": 131.86666666667
       },
-      "distanceKm": 1197.2
+      "distanceKm": 338.6
     },
     "n": {
       "id": "kitanosho-castle-wp",
@@ -171,5 +171,6 @@
       },
       "distanceKm": 16.1
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/2/e/tsuruga-nuclear-power-plant-wp"
 }

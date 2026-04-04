@@ -27,8 +27,8 @@
     "sourceType": "core",
     "sourceArticleId": "alcatraz-wharf-wp",
     "sourceGeohash4": "9q8z",
-    "smallPath": "_m/9/q/8/z/alcatraz-wharf-wp/hero-small.jpg",
-    "mediumPath": "_m/9/q/8/z/alcatraz-wharf-wp/hero-medium.jpg"
+    "smallPath": "_m/9/q/8/z/alcatraz-wharf-wp/hero-small.webp",
+    "mediumPath": "_m/9/q/8/z/alcatraz-wharf-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Alcatraz wharf2.jpg",
@@ -121,31 +121,29 @@
       "sourceType": "core",
       "sourceArticleId": "alcatraz-wharf-wp",
       "sourceGeohash4": "9q8z",
-      "smallPath": "_m/9/q/8/z/alcatraz-wharf-wp/alcatraz-wharf-small.jpg",
-      "mediumPath": "_m/9/q/8/z/alcatraz-wharf-wp/alcatraz-wharf-medium.jpg"
+      "smallPath": "_m/9/q/8/z/alcatraz-wharf-wp/alcatraz-wharf-small.webp",
+      "mediumPath": "_m/9/q/8/z/alcatraz-wharf-wp/alcatraz-wharf-medium.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/q/8/z/occupation-of-alcatraz-wp/hero.jpg",
     "_m/9/q/8/z/alcatraz-wharf-wp/alcatraz-wharf.jpg"
   ],
-  "fetchedAt": "2026-02-21T20:54:14.889Z",
   "narration": {
     "files": [
-      "9q8z-alcatraz-wharf-enduring-through-time.mp3",
       "9q8z-alcatraz-wharf-flight-context.mp3",
-      "9q8z-alcatraz-wharf-gateway-to-the-fortress.mp3",
       "9q8z-alcatraz-wharf-intro.mp3",
-      "9q8z-alcatraz-wharf-years-of-isolation.mp3"
+      "9q8z-alcatraz-wharf-gateway-to-the-fortress.mp3",
+      "9q8z-alcatraz-wharf-years-of-isolation.mp3",
+      "9q8z-alcatraz-wharf-enduring-through-time.mp3"
     ],
     "durations": {
-      "9q8z-alcatraz-wharf-enduring-through-time.mp3": 35.352,
-      "9q8z-alcatraz-wharf-flight-context.mp3": 65.88,
-      "9q8z-alcatraz-wharf-gateway-to-the-fortress.mp3": 36.528,
-      "9q8z-alcatraz-wharf-intro.mp3": 33.696,
-      "9q8z-alcatraz-wharf-years-of-isolation.mp3": 34.608
+      "9q8z-alcatraz-wharf-flight-context.mp3": 35.2910416,
+      "9q8z-alcatraz-wharf-intro.mp3": 32.8935833,
+      "9q8z-alcatraz-wharf-gateway-to-the-fortress.mp3": 37.7295,
+      "9q8z-alcatraz-wharf-years-of-isolation.mp3": 33.9425416,
+      "9q8z-alcatraz-wharf-enduring-through-time.mp3": 36.1052916
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:56.200Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

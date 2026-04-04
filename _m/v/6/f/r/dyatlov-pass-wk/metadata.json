@@ -26,8 +26,8 @@
     "sourceType": "core",
     "sourceArticleId": "dyatlov-pass-wk",
     "sourceGeohash4": "v6fr",
-    "smallPath": "_m/v/6/f/r/dyatlov-pass-wk/hero-small.jpg",
-    "mediumPath": "_m/v/6/f/r/dyatlov-pass-wk/hero-medium.jpg"
+    "smallPath": "_m/v/6/f/r/dyatlov-pass-wk/hero-small.webp",
+    "mediumPath": "_m/v/6/f/r/dyatlov-pass-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Russia rel location map.png",
@@ -81,8 +81,8 @@
       "sourceType": "core",
       "sourceArticleId": "dyatlov-pass-wk",
       "sourceGeohash4": "v6fr",
-      "smallPath": "_m/v/6/f/r/dyatlov-pass-wk/map-sverdlovskaya-obla-small.png",
-      "mediumPath": "_m/v/6/f/r/dyatlov-pass-wk/map-sverdlovskaya-obla-medium.png"
+      "smallPath": "_m/v/6/f/r/dyatlov-pass-wk/map-sverdlovskaya-obla-small.webp",
+      "mediumPath": "_m/v/6/f/r/dyatlov-pass-wk/map-sverdlovskaya-obla-medium.webp"
     },
     {
       "filename": "Памятник дятловцам на Михайловском кладбище.jpg",
@@ -107,8 +107,8 @@
       "sourceType": "core",
       "sourceArticleId": "dyatlov-pass-wk",
       "sourceGeohash4": "v6fr",
-      "smallPath": "_m/v/6/f/r/dyatlov-pass-wk/mikhajlov-cemetry-yeka-small.jpg",
-      "mediumPath": "_m/v/6/f/r/dyatlov-pass-wk/mikhajlov-cemetry-yeka-medium.jpg"
+      "smallPath": "_m/v/6/f/r/dyatlov-pass-wk/mikhajlov-cemetry-yeka-small.webp",
+      "mediumPath": "_m/v/6/f/r/dyatlov-pass-wk/mikhajlov-cemetry-yeka-medium.webp"
     },
     {
       "filename": "Ауспия 2015.JPG",
@@ -132,7 +132,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "dyatlov-pass-wk",
-      "sourceGeohash4": "v6fr"
+      "sourceGeohash4": "v6fr",
+      "mediumPath": "_m/v/6/f/r/dyatlov-pass-wk/2015-medium.webp",
+      "smallPath": "_m/v/6/f/r/dyatlov-pass-wk/2015-small.webp"
     },
     {
       "filename": "Djatlov pass incident map 1.png",
@@ -154,7 +156,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "dyatlov-pass-wk",
-      "sourceGeohash4": "v6fr"
+      "sourceGeohash4": "v6fr",
+      "smallPath": "_m/v/6/f/r/dyatlov-pass-wk/djatlov-pass-incident-map-1-small.webp"
     },
     {
       "filename": "Draft map of Dyatlov pass 3.png",
@@ -176,7 +179,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "dyatlov-pass-wk",
-      "sourceGeohash4": "v6fr"
+      "sourceGeohash4": "v6fr",
+      "smallPath": "_m/v/6/f/r/dyatlov-pass-wk/draft-map-of-dyatlov-pass-3-small.webp"
     },
     {
       "filename": "3d model of dyatlov pass 1.png",
@@ -198,7 +202,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "dyatlov-pass-wk",
-      "sourceGeohash4": "v6fr"
+      "sourceGeohash4": "v6fr",
+      "mediumPath": "_m/v/6/f/r/dyatlov-pass-wk/3d-model-of-dyatlov-pass-1-medium.webp",
+      "smallPath": "_m/v/6/f/r/dyatlov-pass-wk/3d-model-of-dyatlov-pass-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -209,7 +215,6 @@
     "_m/v/6/f/r/dyatlov-pass-wk/draft-map-of-dyatlov-pass-3.png",
     "_m/v/6/f/r/dyatlov-pass-wk/3d-model-of-dyatlov-pass-1.png"
   ],
-  "fetchedAt": "2026-02-22T15:16:28.665Z",
   "narration": {
     "files": [
       "v6fr-the-dyatlov-pass-incident-nine-hikers-one-frozen-m-flight-context.mp3",
@@ -229,8 +234,7 @@
       "v6fr-the-dyatlov-pass-incident-nine-hikers-one-frozen-m-the-theories.mp3": 48.2078333,
       "v6fr-the-dyatlov-pass-incident-nine-hikers-one-frozen-m-the-legacy.mp3": 47.487875
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-26T00:04:08.399Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T15:16:29.621Z"
 }

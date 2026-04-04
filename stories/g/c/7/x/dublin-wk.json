@@ -89,84 +89,84 @@
   "locationWikivoyagePath": "g/c/7/x/dublin-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "achill-island-wk",
-      "title": "Achill Island",
-      "tile": "gc8f",
+      "id": "fore-abbey-wp",
+      "title": "Fore Abbey",
+      "tile": "gcdc",
       "coordinates": {
-        "lat": 53.9589,
-        "lng": -10.0389
+        "lat": 53.683884,
+        "lng": -7.227162
       },
-      "distanceKm": 224
+      "distanceKm": 36.9
     },
     "n": {
-      "id": "west-highland-way-wk",
-      "title": "West Highland Way",
-      "tile": "gfh8",
+      "id": "battle-of-the-boyne-wp",
+      "title": "Battle of the Boyne",
+      "tile": "gce3",
       "coordinates": {
-        "lat": 56.2935,
-        "lng": -4.6962
+        "lat": 53.723055555555554,
+        "lng": -6.423611111111111
       },
-      "distanceKm": 312.2
+      "distanceKm": 21.6
     },
     "ne": {
-      "id": "edinburgh-wk",
-      "title": "Edinburgh",
-      "tile": "gcvw",
+      "id": "castle-rushen-wp",
+      "title": "Castle Rushen",
+      "tile": "gcse",
       "coordinates": {
-        "lat": 55.953056,
-        "lng": -3.188889
+        "lat": 54.073611,
+        "lng": -4.652778
       },
-      "distanceKm": 303.4
+      "distanceKm": 81.8
     },
     "w": {
-      "id": "flannan-isles-wk",
-      "title": "The Flannan Isles Mystery: The Lighthouse Keepers Who Vanished",
-      "tile": "gf6e",
+      "id": "trim-castle-wp",
+      "title": "Trim Castle",
+      "tile": "gce0",
       "coordinates": {
-        "lat": 58.2886,
-        "lng": -7.5872
+        "lat": 53.554341666667,
+        "lng": -6.7897555555556
       },
-      "distanceKm": 552.1
+      "distanceKm": 23.9
     },
     "e": {
-      "id": "pennine-way-wk",
-      "title": "Pennine Way",
-      "tile": "gcw8",
+      "id": "holy-island-anglesey-wp",
+      "title": "Holy Island, Anglesey",
+      "tile": "gckx",
       "coordinates": {
-        "lat": 53.491,
-        "lng": -1.891
+        "lat": 53.283333,
+        "lng": -4.616667
       },
-      "distanceKm": 247.9
+      "distanceKm": 67.4
     },
     "sw": {
-      "id": "adare-wk",
-      "title": "Adare",
-      "tile": "gc3e",
+      "id": "st-canice-s-cathedral-wp",
+      "title": "St Canice's Cathedral",
+      "tile": "gc6g",
       "coordinates": {
-        "lat": 52.5667,
-        "lng": -8.8
+        "lat": 52.656777777778,
+        "lng": -7.2571444444444
       },
-      "distanceKm": 153.7
+      "distanceKm": 61.5
     },
     "s": {
-      "id": "lusitania-sinking-wk",
-      "title": "The Sinking of the Lusitania: The Torpedo That Changed the War",
-      "tile": "gc1u",
+      "id": "glendalough-wp",
+      "title": "Glendalough",
+      "tile": "gc7t",
       "coordinates": {
-        "lat": 51.4,
-        "lng": -8.55
+        "lat": 53.010277777778,
+        "lng": -6.3275
       },
-      "distanceKm": 248.6
+      "distanceKm": 14.4
     },
     "se": {
-      "id": "fishguard-wk",
-      "title": "The Battle of Fishguard: The Last Invasion of Britain",
-      "tile": "gchr",
+      "id": "criccieth-castle-wp",
+      "title": "Criccieth Castle",
+      "tile": "gckv",
       "coordinates": {
-        "lat": 51.9944,
-        "lng": -4.98
+        "lat": 52.9178,
+        "lng": -4.2322
       },
-      "distanceKm": 129
+      "distanceKm": 95.1
     }
   },
   "keywords": [

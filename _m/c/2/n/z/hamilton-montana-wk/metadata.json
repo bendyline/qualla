@@ -30,8 +30,8 @@
     "sourceType": "core",
     "sourceArticleId": "hamilton-montana-wk",
     "sourceGeohash4": "c2nz",
-    "smallPath": "_m/c/2/n/z/hamilton-montana-wk/hero-small.jpg",
-    "mediumPath": "_m/c/2/n/z/hamilton-montana-wk/hero-medium.jpg"
+    "smallPath": "_m/c/2/n/z/hamilton-montana-wk/hero-small.webp",
+    "mediumPath": "_m/c/2/n/z/hamilton-montana-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Hamilton MT Daly Mansion 2.jpg",
@@ -100,32 +100,30 @@
       "sourceType": "core",
       "sourceArticleId": "hamilton-montana-wk",
       "sourceGeohash4": "c2nz",
-      "smallPath": "_m/c/2/n/z/hamilton-montana-wk/ravalli-county-courtho-small.jpg"
+      "smallPath": "_m/c/2/n/z/hamilton-montana-wk/ravalli-county-courtho-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/c/2/n/z/hamilton-montana-wk/ravalli-county-courtho.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:10:25.913Z",
   "updatedAt": "2026-01-29T13:11:24.780Z",
   "narration": {
     "files": [
-      "c2nz-hamilton-copper-kings-legacy.mp3",
       "c2nz-hamilton-flight-context.mp3",
-      "c2nz-hamilton-gateway-to-the-wilderness.mp3",
       "c2nz-hamilton-intro.mp3",
+      "c2nz-hamilton-copper-kings-legacy.mp3",
       "c2nz-hamilton-the-bitterroot-valley.mp3",
+      "c2nz-hamilton-gateway-to-the-wilderness.mp3",
       "c2nz-hamilton-valley-life.mp3"
     ],
     "durations": {
-      "c2nz-hamilton-copper-kings-legacy.mp3": 54.912,
-      "c2nz-hamilton-flight-context.mp3": 49.92,
-      "c2nz-hamilton-gateway-to-the-wilderness.mp3": 60.96,
-      "c2nz-hamilton-intro.mp3": 41.328,
-      "c2nz-hamilton-the-bitterroot-valley.mp3": 57.864,
-      "c2nz-hamilton-valley-life.mp3": 58.632
+      "c2nz-hamilton-flight-context.mp3": 48.3390416,
+      "c2nz-hamilton-intro.mp3": 44.983375,
+      "c2nz-hamilton-copper-kings-legacy.mp3": 54.5975833,
+      "c2nz-hamilton-the-bitterroot-valley.mp3": 64.5249583,
+      "c2nz-hamilton-gateway-to-the-wilderness.mp3": 62.978625,
+      "c2nz-hamilton-valley-life.mp3": 61.5154583
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:57.700Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

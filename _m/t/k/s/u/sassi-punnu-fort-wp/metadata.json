@@ -94,7 +94,7 @@
       "sourceType": "core",
       "sourceArticleId": "sassi-punnu-fort-wp",
       "sourceGeohash4": "tksu",
-      "smallPath": "_m/t/k/s/u/sassi-punnu-fort-wp/map-balochistan-kech-d-small.png"
+      "smallPath": "_m/t/k/s/u/sassi-punnu-fort-wp/map-balochistan-kech-d-small.webp"
     },
     {
       "filename": "Turbat in Bhag.jpg",
@@ -124,8 +124,8 @@
       "sourceType": "core",
       "sourceArticleId": "sassi-punnu-fort-wp",
       "sourceGeohash4": "tksu",
-      "mediumPath": "_m/t/k/s/u/sassi-punnu-fort-wp/tomb-khan-kalat-bhag-b-medium.jpg",
-      "smallPath": "_m/t/k/s/u/sassi-punnu-fort-wp/tomb-khan-kalat-bhag-b-small.jpg"
+      "mediumPath": "_m/t/k/s/u/sassi-punnu-fort-wp/tomb-khan-kalat-bhag-b-medium.webp",
+      "smallPath": "_m/t/k/s/u/sassi-punnu-fort-wp/tomb-khan-kalat-bhag-b-small.webp"
     },
     {
       "filename": "NO-NB BLDSA GM2b3n.jpg",
@@ -149,8 +149,8 @@
       "sourceType": "core",
       "sourceArticleId": "sassi-punnu-fort-wp",
       "sourceGeohash4": "tksu",
-      "mediumPath": "_m/t/k/s/u/sassi-punnu-fort-wp/kalat-baluchistan-paki-medium.jpg",
-      "smallPath": "_m/t/k/s/u/sassi-punnu-fort-wp/kalat-baluchistan-paki-small.jpg"
+      "mediumPath": "_m/t/k/s/u/sassi-punnu-fort-wp/kalat-baluchistan-paki-medium.webp",
+      "smallPath": "_m/t/k/s/u/sassi-punnu-fort-wp/kalat-baluchistan-paki-small.webp"
     },
     {
       "filename": "Tools, stone and copper, 5000-4000 BC, AM Varna, Varm02.jpg",
@@ -176,8 +176,8 @@
       "sourceType": "core",
       "sourceArticleId": "sassi-punnu-fort-wp",
       "sourceGeohash4": "tksu",
-      "mediumPath": "_m/t/k/s/u/sassi-punnu-fort-wp/tools-stone-copper-cop-medium.jpg",
-      "smallPath": "_m/t/k/s/u/sassi-punnu-fort-wp/tools-stone-copper-cop-small.jpg"
+      "mediumPath": "_m/t/k/s/u/sassi-punnu-fort-wp/tools-stone-copper-cop-medium.webp",
+      "smallPath": "_m/t/k/s/u/sassi-punnu-fort-wp/tools-stone-copper-cop-small.webp"
     }
   ],
   "galleryPaths": [
@@ -186,5 +186,23 @@
     "_m/t/k/s/u/sassi-punnu-fort-wp/kalat-baluchistan-paki.jpg",
     "_m/t/k/s/u/sassi-punnu-fort-wp/tools-stone-copper-cop.jpg"
   ],
-  "fetchedAt": "2026-03-01T11:19:24.949Z"
+  "narration": {
+    "files": [
+      "tksu-sassi-punnu-fort-flight-context.mp3",
+      "tksu-sassi-punnu-fort-intro.mp3",
+      "tksu-sassi-punnu-fort-where-love-becomes-legend.mp3",
+      "tksu-sassi-punnu-fort-digging-through-five-thousand-years.mp3",
+      "tksu-sassi-punnu-fort-a-valley-suspended-in-time.mp3",
+      "tksu-sassi-punnu-fort-crumbling-before-our-eyes.mp3"
+    ],
+    "durations": {
+      "tksu-sassi-punnu-fort-flight-context.mp3": 36.889125,
+      "tksu-sassi-punnu-fort-intro.mp3": 46.9104166,
+      "tksu-sassi-punnu-fort-where-love-becomes-legend.mp3": 55.98525,
+      "tksu-sassi-punnu-fort-digging-through-five-thousand-years.mp3": 60.1319166,
+      "tksu-sassi-punnu-fort-a-valley-suspended-in-time.mp3": 58.014125,
+      "tksu-sassi-punnu-fort-crumbling-before-our-eyes.mp3": 57.7997083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

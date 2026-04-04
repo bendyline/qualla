@@ -3,12 +3,12 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/c/2/2/e/olympia-washington-wk/c22e-olympia-washington-intro.mp3",
-        "_m/c/2/2/e/olympia-washington-wk/c22e-olympia-washington-between-mountains-and-sound.mp3",
-        "_m/c/2/2/e/olympia-washington-wk/c22e-olympia-washington-downtown-olympia.mp3",
-        "_m/c/2/2/e/olympia-washington-wk/c22e-olympia-washington-evergreen-and-the-alternative-scene.mp3",
         "_m/c/2/2/e/olympia-washington-wk/c22e-olympia-washington-flight-context.mp3",
+        "_m/c/2/2/e/olympia-washington-wk/c22e-olympia-washington-intro.mp3",
         "_m/c/2/2/e/olympia-washington-wk/c22e-olympia-washington-the-capitol-campus.mp3",
+        "_m/c/2/2/e/olympia-washington-wk/c22e-olympia-washington-evergreen-and-the-alternative-scene.mp3",
+        "_m/c/2/2/e/olympia-washington-wk/c22e-olympia-washington-downtown-olympia.mp3",
+        "_m/c/2/2/e/olympia-washington-wk/c22e-olympia-washington-between-mountains-and-sound.mp3",
         "_m/c/2/2/e/olympia-washington-wk/c22e-olympia-washington-the-political-city.mp3"
       ],
       "hero": {
@@ -34,8 +34,8 @@
           "Puget Sound",
           "Self-published work"
         ],
-        "smallPath": "_m/c/2/2/e/olympia-washington-wk/panoramic-east-bay-pug-small.png",
-        "mediumPath": "_m/c/2/2/e/olympia-washington-wk/panoramic-east-bay-pug-medium.png"
+        "smallPath": "_m/c/2/2/e/olympia-washington-wk/hero-small.webp",
+        "mediumPath": "_m/c/2/2/e/olympia-washington-wk/hero-medium.webp"
       },
       "images": [
         {
@@ -63,7 +63,9 @@
             "Number 920 on buses",
             "Self-published work",
             "Transport in Olympia, Washington"
-          ]
+          ],
+          "mediumPath": "_m/c/2/2/e/olympia-washington-wk/related-sibling-intercity-transit-902-medium.webp",
+          "smallPath": "_m/c/2/2/e/olympia-washington-wk/related-sibling-intercity-transit-902-small.webp"
         },
         {
           "path": "_m/c/2/2/e/olympia-washington-wk/hero.jpg",
@@ -91,8 +93,8 @@
             "Taken with Nikon Coolpix P2",
             "Theaters in Washington (state)"
           ],
-          "mediumPath": "_m/c/2/2/e/olympia-washington-wk/hero-medium.jpg",
-          "smallPath": "_m/c/2/2/e/olympia-washington-wk/hero-small.jpg"
+          "mediumPath": "_m/c/2/2/e/olympia-washington-wk/panoramic-east-bay-pug-medium.webp",
+          "smallPath": "_m/c/2/2/e/olympia-washington-wk/panoramic-east-bay-pug-small.webp"
         },
         {
           "path": "_m/c/2/2/e/olympia-washington-wk/washington-state-capit.jpg",
@@ -118,8 +120,8 @@
             "Self-published work",
             "Taken with Canon PowerShot SX260 HS"
           ],
-          "smallPath": "_m/c/2/2/e/olympia-washington-wk/washington-state-capit-small.jpg",
-          "mediumPath": "_m/c/2/2/e/olympia-washington-wk/washington-state-capit-medium.jpg"
+          "smallPath": "_m/c/2/2/e/olympia-washington-wk/washington-state-capit-small.webp",
+          "mediumPath": "_m/c/2/2/e/olympia-washington-wk/washington-state-capit-medium.webp"
         },
         {
           "path": "_m/c/2/2/e/olympia-washington-wk/evergreen-state-colleg.png",
@@ -143,8 +145,8 @@
             "Self-published work",
             "The Evergreen State College"
           ],
-          "smallPath": "_m/c/2/2/e/olympia-washington-wk/evergreen-state-colleg-small.png",
-          "mediumPath": "_m/c/2/2/e/olympia-washington-wk/evergreen-state-colleg-medium.png"
+          "smallPath": "_m/c/2/2/e/olympia-washington-wk/evergreen-state-colleg-small.webp",
+          "mediumPath": "_m/c/2/2/e/olympia-washington-wk/evergreen-state-colleg-medium.webp"
         },
         {
           "path": "_m/c/2/2/e/olympia-washington-wk/olympic-flight-museum.jpg",
@@ -166,8 +168,8 @@
             "Olympic Flight Museum",
             "Self-published work"
           ],
-          "smallPath": "_m/c/2/2/e/olympia-washington-wk/olympic-flight-museum-small.jpg",
-          "mediumPath": "_m/c/2/2/e/olympia-washington-wk/olympic-flight-museum-medium.jpg"
+          "smallPath": "_m/c/2/2/e/olympia-washington-wk/olympic-flight-museum-small.webp",
+          "mediumPath": "_m/c/2/2/e/olympia-washington-wk/olympic-flight-museum-medium.webp"
         },
         {
           "path": "_m/c/2/2/e/olympia-washington-wk/transit-community-cent.jpg",
@@ -187,8 +189,8 @@
           "categories": [
             "Bus stations in Washington (state)"
           ],
-          "smallPath": "_m/c/2/2/e/olympia-washington-wk/transit-community-cent-small.jpg",
-          "mediumPath": "_m/c/2/2/e/olympia-washington-wk/transit-community-cent-medium.jpg"
+          "smallPath": "_m/c/2/2/e/olympia-washington-wk/transit-community-cent-small.webp",
+          "mediumPath": "_m/c/2/2/e/olympia-washington-wk/transit-community-cent-medium.webp"
         },
         {
           "path": "_m/c/2/2/e/olympia-washington-wk/steps-legislative-buil.jpg",
@@ -205,8 +207,8 @@
           "sourceArticleId": "olympia-washington-wk",
           "sourceGeohash4": "c22e",
           "accessedAt": "2026-02-22T01:53:38.112Z",
-          "smallPath": "_m/c/2/2/e/olympia-washington-wk/steps-legislative-buil-small.jpg",
-          "mediumPath": "_m/c/2/2/e/olympia-washington-wk/steps-legislative-buil-medium.jpg"
+          "smallPath": "_m/c/2/2/e/olympia-washington-wk/steps-legislative-buil-small.webp",
+          "mediumPath": "_m/c/2/2/e/olympia-washington-wk/steps-legislative-buil-medium.webp"
         },
         {
           "path": "_m/c/2/2/e/olympia-washington-wk/daniel-r-bigelow-house.jpg",
@@ -223,7 +225,7 @@
           "sourceArticleId": "olympia-washington-wk",
           "sourceGeohash4": "c22e",
           "accessedAt": "2026-02-22T01:53:38.112Z",
-          "smallPath": "_m/c/2/2/e/olympia-washington-wk/daniel-r-bigelow-house-small.jpg"
+          "smallPath": "_m/c/2/2/e/olympia-washington-wk/daniel-r-bigelow-house-small.webp"
         },
         {
           "path": "_m/c/2/2/e/olympia-washington-wk/greyhound-bus-framingh.jpg",
@@ -936,7 +938,8 @@
             "Self-published work"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/2/e/olympia-washington-wk/c22e-olympia-washington-combined.mp3"
     }
   }
 }

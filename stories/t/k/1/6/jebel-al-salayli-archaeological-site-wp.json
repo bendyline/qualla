@@ -122,14 +122,14 @@
       "distanceKm": 38.4
     },
     "sw": {
-      "id": "aden-wk",
-      "title": "Aden",
-      "tile": "t420",
+      "id": "umm-al-samim-wp",
+      "title": "Umm al Samim",
+      "tile": "t5zg",
       "coordinates": {
-        "lat": 12.783333333333,
-        "lng": 45.016666666667
+        "lat": 21.633333333333,
+        "lng": 55.9
       },
-      "distanceKm": 1730.8
+      "distanceKm": 214.8
     },
     "s": {
       "id": "sinaw-wp",
@@ -151,5 +151,6 @@
       },
       "distanceKm": 84.8
     }
-  }
+  },
+  "locationWikipediaPath": "t/k/1/6/jebel-al-salayli-archaeological-site-wp"
 }

@@ -91,24 +91,24 @@
       "distanceKm": 160.6
     },
     "n": {
-      "id": "kharan-desert-wp",
-      "title": "Kharan Desert",
-      "tile": "tkvz",
+      "id": "mehrgarh-wp",
+      "title": "Mehrgarh",
+      "tile": "tt0n",
       "coordinates": {
-        "lat": 28.01361111111111,
-        "lng": 64.34416666666667
+        "lat": 29.2125,
+        "lng": 67.670833
       },
-      "distanceKm": 294.1
+      "distanceKm": 163.6
     },
     "ne": {
-      "id": "lhasa-wk",
-      "title": "Lhasa",
-      "tile": "wj2b",
+      "id": "siege-of-multan-1848-1849-wp",
+      "title": "Siege of Multan (1848-1849)",
+      "tile": "tt6g",
       "coordinates": {
-        "lat": 29.65,
-        "lng": 91.1
+        "lat": 30.2,
+        "lng": 71.416666666667
       },
-      "distanceKm": 2273
+      "distanceKm": 439.3
     },
     "w": {
       "id": "sohr-damb-wp",
@@ -121,14 +121,14 @@
       "distanceKm": 52.1
     },
     "e": {
-      "id": "udaipur-wk",
-      "title": "Udaipur",
-      "tile": "tsk7",
+      "id": "prahladpuri-temple-wp",
+      "title": "Prahladpuri Temple",
+      "tile": "tt6g",
       "coordinates": {
-        "lat": 24.5854,
-        "lng": 73.7125
+        "lat": 30.19777778,
+        "lng": 71.46972222
       },
-      "distanceKm": 669.6
+      "distanceKm": 462
     },
     "sw": {
       "id": "nindowari-wp",
@@ -160,5 +160,6 @@
       },
       "distanceKm": 525.7
     }
-  }
+  },
+  "locationWikipediaPath": "t/k/z/u/alexandria-in-orietai-wp"
 }

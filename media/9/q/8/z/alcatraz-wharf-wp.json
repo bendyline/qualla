@@ -3,11 +3,11 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/q/8/z/alcatraz-wharf-wp/9q8z-alcatraz-wharf-intro.mp3",
-        "_m/9/q/8/z/alcatraz-wharf-wp/9q8z-alcatraz-wharf-enduring-through-time.mp3",
         "_m/9/q/8/z/alcatraz-wharf-wp/9q8z-alcatraz-wharf-flight-context.mp3",
+        "_m/9/q/8/z/alcatraz-wharf-wp/9q8z-alcatraz-wharf-intro.mp3",
         "_m/9/q/8/z/alcatraz-wharf-wp/9q8z-alcatraz-wharf-gateway-to-the-fortress.mp3",
-        "_m/9/q/8/z/alcatraz-wharf-wp/9q8z-alcatraz-wharf-years-of-isolation.mp3"
+        "_m/9/q/8/z/alcatraz-wharf-wp/9q8z-alcatraz-wharf-years-of-isolation.mp3",
+        "_m/9/q/8/z/alcatraz-wharf-wp/9q8z-alcatraz-wharf-enduring-through-time.mp3"
       ],
       "hero": {
         "path": "_m/9/q/8/z/alcatraz-wharf-wp/hero.jpg",
@@ -33,8 +33,8 @@
           "Flickr images reviewed by FlickreviewR",
           "Taken with Canon Digital IXUS 120 IS"
         ],
-        "mediumPath": "_m/9/q/8/z/alcatraz-wharf-wp/hero-medium.jpg",
-        "smallPath": "_m/9/q/8/z/alcatraz-wharf-wp/hero-small.jpg"
+        "mediumPath": "_m/9/q/8/z/alcatraz-wharf-wp/hero-medium.webp",
+        "smallPath": "_m/9/q/8/z/alcatraz-wharf-wp/hero-small.webp"
       },
       "images": [
         {
@@ -91,10 +91,11 @@
             "Taken with Canon Digital IXUS 120 IS",
             "United States photographs taken on 2010-06-29"
           ],
-          "smallPath": "_m/9/q/8/z/alcatraz-wharf-wp/alcatraz-wharf-small.jpg",
-          "mediumPath": "_m/9/q/8/z/alcatraz-wharf-wp/alcatraz-wharf-medium.jpg"
+          "smallPath": "_m/9/q/8/z/alcatraz-wharf-wp/alcatraz-wharf-small.webp",
+          "mediumPath": "_m/9/q/8/z/alcatraz-wharf-wp/alcatraz-wharf-medium.webp"
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/q/8/z/alcatraz-wharf-wp/9q8z-undefined-combined.mp3"
     }
   }
 }

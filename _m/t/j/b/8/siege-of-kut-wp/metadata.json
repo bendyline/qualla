@@ -27,8 +27,8 @@
     "sourceType": "core",
     "sourceArticleId": "siege-of-kut-wp",
     "sourceGeohash4": "tjb8",
-    "mediumPath": "_m/t/j/b/8/siege-of-kut-wp/hero-medium.jpg",
-    "smallPath": "_m/t/j/b/8/siege-of-kut-wp/hero-small.jpg"
+    "mediumPath": "_m/t/j/b/8/siege-of-kut-wp/hero-medium.webp",
+    "smallPath": "_m/t/j/b/8/siege-of-kut-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Indian army soldiers after siege of Kut Al Amara on the Tigris River 1916.jpg",
@@ -89,7 +89,7 @@
       "sourceType": "core",
       "sourceArticleId": "siege-of-kut-wp",
       "sourceGeohash4": "tjb8",
-      "smallPath": "_m/t/j/b/8/siege-of-kut-wp/photographv-shows-emac-small.jpg"
+      "smallPath": "_m/t/j/b/8/siege-of-kut-wp/photographv-shows-emac-small.webp"
     },
     {
       "filename": "Mesopotamian campaign 6th Army Siege of Kut.png",
@@ -118,8 +118,8 @@
       "sourceType": "core",
       "sourceArticleId": "siege-of-kut-wp",
       "sourceGeohash4": "tjb8",
-      "mediumPath": "_m/t/j/b/8/siege-of-kut-wp/en-mesopotamian-campai-medium.png",
-      "smallPath": "_m/t/j/b/8/siege-of-kut-wp/en-mesopotamian-campai-small.png"
+      "mediumPath": "_m/t/j/b/8/siege-of-kut-wp/en-mesopotamian-campai-medium.webp",
+      "smallPath": "_m/t/j/b/8/siege-of-kut-wp/en-mesopotamian-campai-small.webp"
     },
     {
       "filename": "Townshend, Khalil Pasha after Fall of Kut.jpg",
@@ -147,7 +147,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "siege-of-kut-wp",
       "sourceGeohash4": "tjb8",
-      "smallPath": "_m/t/j/b/8/siege-of-kut-wp/townshend-khalil-pasha-after-f-small.jpg"
+      "smallPath": "_m/t/j/b/8/siege-of-kut-wp/townshend-khalil-pasha-after-f-small.webp"
     },
     {
       "filename": "Dorsets at 1st Kut ( 28 Sept 1915).jpg",
@@ -198,7 +198,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "siege-of-kut-wp",
       "sourceGeohash4": "tjb8",
-      "smallPath": "_m/t/j/b/8/siege-of-kut-wp/kiazim-karabekir-bey-at-kut-in-small.jpg"
+      "smallPath": "_m/t/j/b/8/siege-of-kut-wp/kiazim-karabekir-bey-at-kut-in-small.webp"
     },
     {
       "filename": "171 14 les routes autour de Kut el Amara.jpg",
@@ -243,6 +243,26 @@
     "_m/t/j/b/8/kut-wp/171-14-les-routes-autour-de-ku.jpg",
     "_m/t/j/b/8/kut-wp/171-14-vue-de-kut-el-amara.jpg"
   ],
-  "fetchedAt": "2026-03-01T07:48:46.893Z",
-  "updatedAt": "2026-03-01T07:48:50.080Z"
+  "updatedAt": "2026-03-01T07:48:50.080Z",
+  "narration": {
+    "files": [
+      "tjb8-siege-of-kut-flight-context.mp3",
+      "tjb8-siege-of-kut-intro.mp3",
+      "tjb8-siege-of-kut-trapped-in-the-river-loop.mp3",
+      "tjb8-siege-of-kut-the-lies-that-sealed-a-garrison.mp3",
+      "tjb8-siege-of-kut-starvation-and-bombardment.mp3",
+      "tjb8-siege-of-kut-the-long-march.mp3",
+      "tjb8-siege-of-kut-a-defeat-reversed-a-lesson-unlearned.mp3"
+    ],
+    "durations": {
+      "tjb8-siege-of-kut-flight-context.mp3": 52.1069166,
+      "tjb8-siege-of-kut-intro.mp3": 49.445875,
+      "tjb8-siege-of-kut-trapped-in-the-river-loop.mp3": 65.976125,
+      "tjb8-siege-of-kut-the-lies-that-sealed-a-garrison.mp3": 65.4097916,
+      "tjb8-siege-of-kut-starvation-and-bombardment.mp3": 66.189375,
+      "tjb8-siege-of-kut-the-long-march.mp3": 76.6710833,
+      "tjb8-siege-of-kut-a-defeat-reversed-a-lesson-unlearned.mp3": 70.179875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

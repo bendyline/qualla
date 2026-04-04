@@ -3,12 +3,12 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/c/2/8/c/whidbey-island-wk/c28c-whidbey-island-intro.mp3",
-        "_m/c/2/8/c/whidbey-island-wk/c28c-whidbey-island-coupeville-the-heart-of-history.mp3",
-        "_m/c/2/8/c/whidbey-island-wk/c28c-whidbey-island-ebeys-landing-national-historical-reserve.mp3",
         "_m/c/2/8/c/whidbey-island-wk/c28c-whidbey-island-flight-context.mp3",
-        "_m/c/2/8/c/whidbey-island-wk/c28c-whidbey-island-langley-village-by-the-sea.mp3",
+        "_m/c/2/8/c/whidbey-island-wk/c28c-whidbey-island-intro.mp3",
+        "_m/c/2/8/c/whidbey-island-wk/c28c-whidbey-island-ebeys-landing-national-historical-reserve.mp3",
+        "_m/c/2/8/c/whidbey-island-wk/c28c-whidbey-island-coupeville-the-heart-of-history.mp3",
         "_m/c/2/8/c/whidbey-island-wk/c28c-whidbey-island-the-navys-island.mp3",
+        "_m/c/2/8/c/whidbey-island-wk/c28c-whidbey-island-langley-village-by-the-sea.mp3",
         "_m/c/2/8/c/whidbey-island-wk/c28c-whidbey-island-two-ways-on-two-ways-off.mp3"
       ],
       "hero": {
@@ -37,7 +37,9 @@
           "Photos by Digon3",
           "Sea cliffs of Washington (state)",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/c/2/8/c/whidbey-island-wk/hero-medium.webp",
+        "smallPath": "_m/c/2/8/c/whidbey-island-wk/hero-small.webp"
       },
       "images": [
         {
@@ -118,8 +120,8 @@
             "Snohomish County Campus",
             "Taken with Kodak EasyShare Z730"
           ],
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/everett-transit-bus-ev-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/everett-transit-bus-ev-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/everett-transit-bus-ev-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/everett-transit-bus-ev-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/tractor-greenbank-farm.jpg",
@@ -144,7 +146,7 @@
             "Taken with Canon Digital IXUS 430",
             "Tractors in Washington (state)"
           ],
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/tractor-greenbank-farm-small.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/tractor-greenbank-farm-small.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/looking-west-down-seco.jpg",
@@ -167,8 +169,8 @@
             "Self-published work",
             "Taken with Canon Digital IXUS 70"
           ],
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/looking-west-down-seco-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/looking-west-down-seco-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/looking-west-down-seco-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/looking-west-down-seco-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/hero.jpg",
@@ -192,7 +194,9 @@
             "Deception Pass Bridge",
             "Images from Wiki Loves Monuments 2012",
             "Images from Wiki Loves Monuments 2012 in the United States"
-          ]
+          ],
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/hero-medium.webp",
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/hero-small.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/admiralty-head-lightho.jpg",
@@ -209,7 +213,7 @@
           "sourceArticleId": "whidbey-island-wk",
           "sourceGeohash4": "c28c",
           "accessedAt": "2026-02-22T02:01:14.630Z",
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/admiralty-head-lightho-small.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/admiralty-head-lightho-small.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/ebey-s-landing.jpg",
@@ -226,8 +230,8 @@
           "sourceArticleId": "whidbey-island-wk",
           "sourceGeohash4": "c28c",
           "accessedAt": "2026-02-22T02:01:14.630Z",
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/ebey-s-landing-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/ebey-s-landing-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/ebey-s-landing-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/ebey-s-landing-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/two-community-transit.jpg",
@@ -262,8 +266,8 @@
           "sourceArticleId": "whidbey-island-wk",
           "sourceGeohash4": "c28c",
           "accessedAt": "2026-02-22T02:01:14.630Z",
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/washington-state-ferri-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/washington-state-ferri-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/washington-state-ferri-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/washington-state-ferri-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/island-transit-bus-lay.jpg",
@@ -280,8 +284,8 @@
           "sourceArticleId": "whidbey-island-wk",
           "sourceGeohash4": "c28c",
           "accessedAt": "2026-02-22T02:01:14.630Z",
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/island-transit-bus-lay-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/island-transit-bus-lay-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/island-transit-bus-lay-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/island-transit-bus-lay-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/ebey-s-ferry-house.jpg",
@@ -339,7 +343,7 @@
             "Template Unknown (author)",
             "Whidbey Island"
           ],
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/dode-wrecked-1910-small.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/dode-wrecked-1910-small.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/keystone-spit-from-fort-casey-.jpg",
@@ -362,8 +366,8 @@
             "Taken with Nikon D5000",
             "Whidbey Island"
           ],
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/keystone-spit-from-fort-casey--small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/keystone-spit-from-fort-casey--medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/keystone-spit-from-fort-casey--small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/keystone-spit-from-fort-casey--medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/keystone-spit-from-fort-casey--1.jpg",
@@ -386,8 +390,8 @@
             "Taken with Nikon D5000",
             "Whidbey Island"
           ],
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/keystone-spit-from-fort-casey--1-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/keystone-spit-from-fort-casey--1-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/keystone-spit-from-fort-casey--1-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/keystone-spit-from-fort-casey--1-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/horse-and-foal-whidbey-island.jpg",
@@ -410,8 +414,8 @@
             "Self-published work",
             "Whidbey Island"
           ],
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/horse-and-foal-whidbey-island-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/horse-and-foal-whidbey-island-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/horse-and-foal-whidbey-island-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/horse-and-foal-whidbey-island-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/cabin-and-vines-whidbey.jpg",
@@ -433,8 +437,8 @@
             "Self-published work",
             "Whidbey Island"
           ],
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/cabin-and-vines-whidbey-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/cabin-and-vines-whidbey-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/cabin-and-vines-whidbey-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/cabin-and-vines-whidbey-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/deception-pass-04.jpg",
@@ -460,8 +464,8 @@
             "Views from the bridges at Deception Pass",
             "Whidbey Island"
           ],
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-04-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-04-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-04-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-04-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/deception-pass-05.jpg",
@@ -487,8 +491,8 @@
             "Views from the bridges at Deception Pass",
             "Whidbey Island"
           ],
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-05-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-05-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-05-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-05-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/deception-pass-06.jpg",
@@ -511,8 +515,8 @@
             "Fidalgo Island",
             "January 2014 in Washington (state)"
           ],
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-06-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-06-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-06-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-06-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/deception-pass-07.jpg",
@@ -529,8 +533,8 @@
           "sourceArticleId": "whidbey-island-wk",
           "sourceGeohash4": "c28c",
           "accessedAt": "2026-02-22T02:01:14.630Z",
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-07-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-07-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-07-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-07-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/deception-pass-08.jpg",
@@ -547,8 +551,8 @@
           "sourceArticleId": "whidbey-island-wk",
           "sourceGeohash4": "c28c",
           "accessedAt": "2026-02-22T02:01:14.630Z",
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-08-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-08-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-08-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-08-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/deception-pass-09.jpg",
@@ -565,8 +569,8 @@
           "sourceArticleId": "whidbey-island-wk",
           "sourceGeohash4": "c28c",
           "accessedAt": "2026-02-22T02:01:14.630Z",
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-09-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-09-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-09-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-09-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/deception-pass-12.jpg",
@@ -583,8 +587,8 @@
           "sourceArticleId": "whidbey-island-wk",
           "sourceGeohash4": "c28c",
           "accessedAt": "2026-02-22T02:01:14.630Z",
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-12-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-12-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-12-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-12-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/deception-pass-13.jpg",
@@ -601,8 +605,8 @@
           "sourceArticleId": "whidbey-island-wk",
           "sourceGeohash4": "c28c",
           "accessedAt": "2026-02-22T02:01:14.630Z",
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-13-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-13-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-13-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-13-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/deception-pass-15.jpg",
@@ -619,8 +623,8 @@
           "sourceArticleId": "whidbey-island-wk",
           "sourceGeohash4": "c28c",
           "accessedAt": "2026-02-22T02:01:14.630Z",
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-15-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-15-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-15-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-15-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/hedgebrook-cottage-2.jpg",
@@ -637,8 +641,8 @@
           "sourceArticleId": "whidbey-island-wk",
           "sourceGeohash4": "c28c",
           "accessedAt": "2026-02-22T02:01:14.630Z",
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/hedgebrook-cottage-2-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/hedgebrook-cottage-2-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/hedgebrook-cottage-2-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/hedgebrook-cottage-2-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/hedgebrook-cottage1.jpg",
@@ -655,8 +659,8 @@
           "sourceArticleId": "whidbey-island-wk",
           "sourceGeohash4": "c28c",
           "accessedAt": "2026-02-22T02:01:14.630Z",
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/hedgebrook-cottage1-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/hedgebrook-cottage1-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/hedgebrook-cottage1-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/hedgebrook-cottage1-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/highlands-langley-pocket-neigh.jpg",
@@ -673,8 +677,8 @@
           "sourceArticleId": "whidbey-island-wk",
           "sourceGeohash4": "c28c",
           "accessedAt": "2026-02-22T02:01:14.630Z",
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/highlands-langley-pocket-neigh-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/highlands-langley-pocket-neigh-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/highlands-langley-pocket-neigh-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/highlands-langley-pocket-neigh-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/deception-pass-18.jpg",
@@ -691,8 +695,8 @@
           "sourceArticleId": "whidbey-island-wk",
           "sourceGeohash4": "c28c",
           "accessedAt": "2026-02-22T02:01:14.630Z",
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-18-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-18-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-18-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deception-pass-18-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/great-blue-heron-and-mount-bak.jpg",
@@ -709,8 +713,8 @@
           "sourceArticleId": "whidbey-island-wk",
           "sourceGeohash4": "c28c",
           "accessedAt": "2026-02-22T02:01:14.630Z",
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/great-blue-heron-and-mount-bak-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/great-blue-heron-and-mount-bak-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/great-blue-heron-and-mount-bak-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/great-blue-heron-and-mount-bak-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/deceptionpass-bridge.jpg",
@@ -727,8 +731,8 @@
           "sourceArticleId": "whidbey-island-wk",
           "sourceGeohash4": "c28c",
           "accessedAt": "2026-02-22T02:01:14.630Z",
-          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deceptionpass-bridge-small.jpg",
-          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deceptionpass-bridge-medium.jpg"
+          "smallPath": "_m/c/2/8/c/whidbey-island-wk/deceptionpass-bridge-small.webp",
+          "mediumPath": "_m/c/2/8/c/whidbey-island-wk/deceptionpass-bridge-medium.webp"
         },
         {
           "path": "_m/c/2/8/c/whidbey-island-wk/hero.jpg",
@@ -2076,7 +2080,8 @@
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:01:14.630Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/8/c/whidbey-island-wk/c28c-whidbey-island-combined.mp3"
     }
   }
 }

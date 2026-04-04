@@ -27,7 +27,7 @@
     "sourceType": "core",
     "sourceArticleId": "finnish-labour-temple-wp",
     "sourceGeohash4": "f08e",
-    "smallPath": "_m/f/0/8/e/finnish-labour-temple-wp/hero-small.jpg"
+    "smallPath": "_m/f/0/8/e/finnish-labour-temple-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Finnish Labour Temple, 1910.jpg",
@@ -85,7 +85,7 @@
       "sourceType": "core",
       "sourceArticleId": "finnish-labour-temple-wp",
       "sourceGeohash4": "f08e",
-      "smallPath": "_m/f/0/8/e/finnish-labour-temple-wp/en-finnish-labour-temp-small.jpg"
+      "smallPath": "_m/f/0/8/e/finnish-labour-temple-wp/en-finnish-labour-temp-small.webp"
     },
     {
       "filename": "Finnish Canadian collection - striking lumber workers outside the Finnish Labour Temple (I0058051).tiff",
@@ -114,8 +114,8 @@
       "sourceType": "core",
       "sourceArticleId": "finnish-labour-temple-wp",
       "sourceGeohash4": "f08e",
-      "mediumPath": "_m/f/0/8/e/finnish-labour-temple-wp/finnish-canadian-colle-medium.jpg",
-      "smallPath": "_m/f/0/8/e/finnish-labour-temple-wp/finnish-canadian-colle-small.jpg"
+      "mediumPath": "_m/f/0/8/e/finnish-labour-temple-wp/finnish-canadian-colle-medium.webp",
+      "smallPath": "_m/f/0/8/e/finnish-labour-temple-wp/finnish-canadian-colle-small.webp"
     },
     {
       "filename": "Finnish Labour Temple National Historic Site of Canada closeup.jpg",
@@ -142,8 +142,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "finnish-labour-temple-wp",
       "sourceGeohash4": "f08e",
-      "mediumPath": "_m/f/0/8/e/finnish-labour-temple-wp/finnish-labour-temple-national-medium.jpg",
-      "smallPath": "_m/f/0/8/e/finnish-labour-temple-wp/finnish-labour-temple-national-small.jpg"
+      "mediumPath": "_m/f/0/8/e/finnish-labour-temple-wp/finnish-labour-temple-national-medium.webp",
+      "smallPath": "_m/f/0/8/e/finnish-labour-temple-wp/finnish-labour-temple-national-small.webp"
     },
     {
       "filename": "Finnish Labour Temple National Historic Site of Canada As seen September 2018.png",
@@ -204,8 +204,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "finnish-labour-temple-wp",
       "sourceGeohash4": "f08e",
-      "mediumPath": "_m/f/0/8/e/finnish-labour-temple-wp/finnish-canadian-collection-st-medium.jpg",
-      "smallPath": "_m/f/0/8/e/finnish-labour-temple-wp/finnish-canadian-collection-st-small.jpg"
+      "mediumPath": "_m/f/0/8/e/finnish-labour-temple-wp/finnish-canadian-collection-st-medium.webp",
+      "smallPath": "_m/f/0/8/e/finnish-labour-temple-wp/finnish-canadian-collection-st-small.webp"
     },
     {
       "filename": "Finnish Canadian collection - striking lumber workers outside the Finnish Labour Temple (I0058050).tiff",
@@ -220,8 +220,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "finnish-labour-temple-wp",
       "sourceGeohash4": "f08e",
-      "mediumPath": "_m/f/0/8/e/finnish-labour-temple-wp/finnish-canadian-collection-st-1-medium.jpg",
-      "smallPath": "_m/f/0/8/e/finnish-labour-temple-wp/finnish-canadian-collection-st-1-small.jpg"
+      "mediumPath": "_m/f/0/8/e/finnish-labour-temple-wp/finnish-canadian-collection-st-1-medium.webp",
+      "smallPath": "_m/f/0/8/e/finnish-labour-temple-wp/finnish-canadian-collection-st-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -232,6 +232,26 @@
     "_m/f/0/8/e/finnish-labour-temple-wp/finnish-canadian-collection-st.jpg",
     "_m/f/0/8/e/finnish-labour-temple-wp/finnish-canadian-collection-st-1.jpg"
   ],
-  "fetchedAt": "2026-02-28T10:54:07.368Z",
-  "updatedAt": "2026-02-28T10:54:17.451Z"
+  "updatedAt": "2026-02-28T10:54:17.451Z",
+  "narration": {
+    "files": [
+      "f08e-finnish-labour-temple-flight-context.mp3",
+      "f08e-finnish-labour-temple-intro.mp3",
+      "f08e-finnish-labour-temple-two-societies-one-building.mp3",
+      "f08e-finnish-labour-temple-the-split-on-bay-street.mp3",
+      "f08e-finnish-labour-temple-wobblies-and-pancakes.mp3",
+      "f08e-finnish-labour-temple-new-waves-old-walls.mp3",
+      "f08e-finnish-labour-temple-fire-foundation-future.mp3"
+    ],
+    "durations": {
+      "f08e-finnish-labour-temple-flight-context.mp3": 50.23025,
+      "f08e-finnish-labour-temple-intro.mp3": 52.294875,
+      "f08e-finnish-labour-temple-two-societies-one-building.mp3": 63.2773333,
+      "f08e-finnish-labour-temple-the-split-on-bay-street.mp3": 67.4508333,
+      "f08e-finnish-labour-temple-wobblies-and-pancakes.mp3": 61.181875,
+      "f08e-finnish-labour-temple-new-waves-old-walls.mp3": 57.6345416,
+      "f08e-finnish-labour-temple-fire-foundation-future.mp3": 67.2684583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

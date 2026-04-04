@@ -27,7 +27,7 @@
     "sourceType": "core",
     "sourceArticleId": "basilica-of-sainte-anne-de-beaupr-wp",
     "sourceGeohash4": "f2me",
-    "smallPath": "_m/f/2/m/e/basilica-of-sainte-anne-de-beaupr-wp/hero-small.jpg"
+    "smallPath": "_m/f/2/m/e/basilica-of-sainte-anne-de-beaupr-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Saint Anne de Beaupré Maçonnerie 002.jpg",
@@ -137,8 +137,8 @@
       "sourceType": "core",
       "sourceArticleId": "basilica-of-sainte-anne-de-beaupr-wp",
       "sourceGeohash4": "f2me",
-      "mediumPath": "_m/f/2/m/e/basilica-of-sainte-anne-de-beaupr-wp/interior-basilica-sain-medium.jpg",
-      "smallPath": "_m/f/2/m/e/basilica-of-sainte-anne-de-beaupr-wp/interior-basilica-sain-small.jpg"
+      "mediumPath": "_m/f/2/m/e/basilica-of-sainte-anne-de-beaupr-wp/interior-basilica-sain-medium.webp",
+      "smallPath": "_m/f/2/m/e/basilica-of-sainte-anne-de-beaupr-wp/interior-basilica-sain-small.webp"
     },
     {
       "filename": "Front View of the Basilica and the Fountain of Saint Anne and the Holy Child Mary – Basilique Sainte-Anne-de-Beaupré 2.jpg",
@@ -164,8 +164,8 @@
       "sourceType": "core",
       "sourceArticleId": "basilica-of-sainte-anne-de-beaupr-wp",
       "sourceGeohash4": "f2me",
-      "mediumPath": "_m/f/2/m/e/basilica-of-sainte-anne-de-beaupr-wp/front-view-basilica-fo-medium.jpg",
-      "smallPath": "_m/f/2/m/e/basilica-of-sainte-anne-de-beaupr-wp/front-view-basilica-fo-small.jpg"
+      "mediumPath": "_m/f/2/m/e/basilica-of-sainte-anne-de-beaupr-wp/front-view-basilica-fo-medium.webp",
+      "smallPath": "_m/f/2/m/e/basilica-of-sainte-anne-de-beaupr-wp/front-view-basilica-fo-small.webp"
     }
   ],
   "galleryPaths": [
@@ -174,5 +174,23 @@
     "_m/f/2/m/e/basilica-of-sainte-anne-de-beaupr-wp/interior-basilica-sain.jpg",
     "_m/f/2/m/e/basilica-of-sainte-anne-de-beaupr-wp/front-view-basilica-fo.jpg"
   ],
-  "fetchedAt": "2026-02-28T14:51:34.901Z"
+  "narration": {
+    "files": [
+      "f2me-basilica-of-sainte-anne-de-beaupre-flight-context.mp3",
+      "f2me-basilica-of-sainte-anne-de-beaupre-intro.mp3",
+      "f2me-basilica-of-sainte-anne-de-beaupre-three-stones-on-a-foundation.mp3",
+      "f2me-basilica-of-sainte-anne-de-beaupre-from-ashes-to-romanesque.mp3",
+      "f2me-basilica-of-sainte-anne-de-beaupre-a-hillside-of-devotion.mp3",
+      "f2me-basilica-of-sainte-anne-de-beaupre-faith-carved-in-stone.mp3"
+    ],
+    "durations": {
+      "f2me-basilica-of-sainte-anne-de-beaupre-flight-context.mp3": 55.7487083,
+      "f2me-basilica-of-sainte-anne-de-beaupre-intro.mp3": 48.3401666,
+      "f2me-basilica-of-sainte-anne-de-beaupre-three-stones-on-a-foundation.mp3": 57.2108333,
+      "f2me-basilica-of-sainte-anne-de-beaupre-from-ashes-to-romanesque.mp3": 71.0818333,
+      "f2me-basilica-of-sainte-anne-de-beaupre-a-hillside-of-devotion.mp3": 63.1905833,
+      "f2me-basilica-of-sainte-anne-de-beaupre-faith-carved-in-stone.mp3": 59.8583333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "bremerton-wk",
     "sourceGeohash4": "c22y",
-    "smallPath": "_m/c/2/2/y/bremerton-wk/hero-small.jpg",
-    "mediumPath": "_m/c/2/2/y/bremerton-wk/hero-medium.jpg"
+    "smallPath": "_m/c/2/2/y/bremerton-wk/hero-small.webp",
+    "mediumPath": "_m/c/2/2/y/bremerton-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Bremerton, WA - Washington State Ferry from Harborside Fountain Park 01.jpg",
@@ -86,7 +86,7 @@
       "sourceType": "core",
       "sourceArticleId": "bremerton-wk",
       "sourceGeohash4": "c22y",
-      "smallPath": "_m/c/2/2/y/bremerton-wk/u-s-navy-destroyer-uss-small.jpg"
+      "smallPath": "_m/c/2/2/y/bremerton-wk/u-s-navy-destroyer-uss-small.webp"
     },
     {
       "filename": "Puget Sound Navy Museum 01.jpg",
@@ -114,8 +114,8 @@
       "sourceType": "core",
       "sourceArticleId": "bremerton-wk",
       "sourceGeohash4": "c22y",
-      "smallPath": "_m/c/2/2/y/bremerton-wk/puget-sound-navy-museu-small.jpg",
-      "mediumPath": "_m/c/2/2/y/bremerton-wk/puget-sound-navy-museu-medium.jpg"
+      "smallPath": "_m/c/2/2/y/bremerton-wk/puget-sound-navy-museu-small.webp",
+      "mediumPath": "_m/c/2/2/y/bremerton-wk/puget-sound-navy-museu-medium.webp"
     },
     {
       "filename": "Puget Sound Navy Museum 03.jpg",
@@ -143,8 +143,8 @@
       "sourceType": "core",
       "sourceArticleId": "bremerton-wk",
       "sourceGeohash4": "c22y",
-      "smallPath": "_m/c/2/2/y/bremerton-wk/puget-sound-navy-museu-1-small.jpg",
-      "mediumPath": "_m/c/2/2/y/bremerton-wk/puget-sound-navy-museu-1-medium.jpg"
+      "smallPath": "_m/c/2/2/y/bremerton-wk/puget-sound-navy-museu-1-small.webp",
+      "mediumPath": "_m/c/2/2/y/bremerton-wk/puget-sound-navy-museu-1-medium.webp"
     },
     {
       "filename": "Olympic Mountains from Bremerton Washington II.jpg",
@@ -171,8 +171,8 @@
       "sourceType": "core",
       "sourceArticleId": "bremerton-wk",
       "sourceGeohash4": "c22y",
-      "smallPath": "_m/c/2/2/y/bremerton-wk/panorama-shot-mostly-s-small.jpg",
-      "mediumPath": "_m/c/2/2/y/bremerton-wk/panorama-shot-mostly-s-medium.jpg"
+      "smallPath": "_m/c/2/2/y/bremerton-wk/panorama-shot-mostly-s-small.webp",
+      "mediumPath": "_m/c/2/2/y/bremerton-wk/panorama-shot-mostly-s-medium.webp"
     },
     {
       "filename": "Illahee State Park.jpg",
@@ -201,7 +201,7 @@
       "sourceType": "core",
       "sourceArticleId": "bremerton-wk",
       "sourceGeohash4": "c22y",
-      "smallPath": "_m/c/2/2/y/bremerton-wk/puget-sound-illahee-st-small.jpg"
+      "smallPath": "_m/c/2/2/y/bremerton-wk/puget-sound-illahee-st-small.webp"
     },
     {
       "filename": "Puget Sound ferries.jpg",
@@ -228,8 +228,8 @@
       "sourceType": "core",
       "sourceArticleId": "bremerton-wk",
       "sourceGeohash4": "c22y",
-      "smallPath": "_m/c/2/2/y/bremerton-wk/two-washington-state-f-small.jpg",
-      "mediumPath": "_m/c/2/2/y/bremerton-wk/two-washington-state-f-medium.jpg"
+      "smallPath": "_m/c/2/2/y/bremerton-wk/two-washington-state-f-small.webp",
+      "mediumPath": "_m/c/2/2/y/bremerton-wk/two-washington-state-f-medium.webp"
     },
     {
       "filename": "Ferry MV Wenatchee and Mount Pershing (cropped).jpg",
@@ -261,26 +261,24 @@
     "_m/c/2/2/y/bremerton-wk/two-washington-state-f.jpg",
     "_m/c/2/2/u/tacoma-narrows-wk/related-sibling-ferry-mv-wenatchee-and-mount-p.jpg"
   ],
-  "fetchedAt": "2026-02-22T01:55:15.504Z",
   "updatedAt": "2026-01-29T12:25:05.936Z",
   "narration": {
     "files": [
-      "c22y-bremerton-cold-water-diving.mp3",
       "c22y-bremerton-flight-context.mp3",
       "c22y-bremerton-intro.mp3",
-      "c22y-bremerton-peninsula-gateway.mp3",
+      "c22y-bremerton-the-shipyard-town.mp3",
       "c22y-bremerton-the-ferry-connection.mp3",
-      "c22y-bremerton-the-shipyard-town.mp3"
+      "c22y-bremerton-cold-water-diving.mp3",
+      "c22y-bremerton-peninsula-gateway.mp3"
     ],
     "durations": {
-      "c22y-bremerton-cold-water-diving.mp3": 60.648,
-      "c22y-bremerton-flight-context.mp3": 46.92,
-      "c22y-bremerton-intro.mp3": 42.072,
-      "c22y-bremerton-peninsula-gateway.mp3": 49.344,
-      "c22y-bremerton-the-ferry-connection.mp3": 53.712,
-      "c22y-bremerton-the-shipyard-town.mp3": 54
+      "c22y-bremerton-flight-context.mp3": 45.278625,
+      "c22y-bremerton-intro.mp3": 40.60725,
+      "c22y-bremerton-the-shipyard-town.mp3": 56.7083333,
+      "c22y-bremerton-the-ferry-connection.mp3": 53.33425,
+      "c22y-bremerton-cold-water-diving.mp3": 57.3142916,
+      "c22y-bremerton-peninsula-gateway.mp3": 46.8344583
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:57.117Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

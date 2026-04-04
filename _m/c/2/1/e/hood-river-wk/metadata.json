@@ -91,7 +91,7 @@
       "sourceType": "core",
       "sourceArticleId": "hood-river-wk",
       "sourceGeohash4": "c21e",
-      "smallPath": "_m/c/2/1/e/hood-river-wk/historic-mount-hood-ho-small.jpg"
+      "smallPath": "_m/c/2/1/e/hood-river-wk/historic-mount-hood-ho-small.webp"
     },
     {
       "filename": "Antique Autos WAAAM.JPG",
@@ -121,8 +121,8 @@
       "sourceType": "core",
       "sourceArticleId": "hood-river-wk",
       "sourceGeohash4": "c21e",
-      "smallPath": "_m/c/2/1/e/hood-river-wk/some-them-many-antique-small.jpg",
-      "mediumPath": "_m/c/2/1/e/hood-river-wk/some-them-many-antique-medium.jpg"
+      "smallPath": "_m/c/2/1/e/hood-river-wk/some-them-many-antique-small.webp",
+      "mediumPath": "_m/c/2/1/e/hood-river-wk/some-them-many-antique-medium.webp"
     },
     {
       "filename": "Double Mountain Brewery-3.jpg",
@@ -150,8 +150,8 @@
       "sourceType": "core",
       "sourceArticleId": "hood-river-wk",
       "sourceGeohash4": "c21e",
-      "smallPath": "_m/c/2/1/e/hood-river-wk/double-mountain-brewer-small.jpg",
-      "mediumPath": "_m/c/2/1/e/hood-river-wk/double-mountain-brewer-medium.jpg"
+      "smallPath": "_m/c/2/1/e/hood-river-wk/double-mountain-brewer-small.webp",
+      "mediumPath": "_m/c/2/1/e/hood-river-wk/double-mountain-brewer-medium.webp"
     }
   ],
   "galleryPaths": [
@@ -159,28 +159,26 @@
     "_m/c/2/1/e/hood-river-wk/some-them-many-antique.jpg",
     "_m/c/2/1/e/hood-river-wk/double-mountain-brewer.jpg"
   ],
-  "fetchedAt": "2026-02-22T01:52:57.058Z",
   "updatedAt": "2026-01-29T12:19:14.838Z",
   "narration": {
     "files": [
-      "c21e-hood-river-craft-beverage-culture.mp3",
       "c21e-hood-river-flight-context.mp3",
       "c21e-hood-river-intro.mp3",
-      "c21e-hood-river-mount-hood-backdrop.mp3",
+      "c21e-hood-river-wind-city.mp3",
       "c21e-hood-river-the-columbia-river-gorge.mp3",
-      "c21e-hood-river-the-fruit-loop.mp3",
-      "c21e-hood-river-wind-city.mp3"
+      "c21e-hood-river-mount-hood-backdrop.mp3",
+      "c21e-hood-river-craft-beverage-culture.mp3",
+      "c21e-hood-river-the-fruit-loop.mp3"
     ],
     "durations": {
-      "c21e-hood-river-craft-beverage-culture.mp3": 64.08,
-      "c21e-hood-river-flight-context.mp3": 61.488,
-      "c21e-hood-river-intro.mp3": 51.576,
-      "c21e-hood-river-mount-hood-backdrop.mp3": 67.704,
-      "c21e-hood-river-the-columbia-river-gorge.mp3": 69.072,
-      "c21e-hood-river-the-fruit-loop.mp3": 72.816,
-      "c21e-hood-river-wind-city.mp3": 62.52
+      "c21e-hood-river-flight-context.mp3": 64.827125,
+      "c21e-hood-river-intro.mp3": 53.7485833,
+      "c21e-hood-river-wind-city.mp3": 65.493,
+      "c21e-hood-river-the-columbia-river-gorge.mp3": 70.532,
+      "c21e-hood-river-mount-hood-backdrop.mp3": 65.3202916,
+      "c21e-hood-river-craft-beverage-culture.mp3": 63.8662916,
+      "c21e-hood-river-the-fruit-loop.mp3": 68.7688333
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:57.022Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

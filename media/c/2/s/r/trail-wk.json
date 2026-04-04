@@ -3,12 +3,12 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/c/2/s/r/trail-wk/c2sr-trail-intro.mp3",
-        "_m/c/2/s/r/trail-wk/c2sr-trail-flag-viewpoints.mp3",
         "_m/c/2/s/r/trail-wk/c2sr-trail-flight-context.mp3",
-        "_m/c/2/s/r/trail-wk/c2sr-trail-rossland-and-beyond.mp3",
+        "_m/c/2/s/r/trail-wk/c2sr-trail-intro.mp3",
         "_m/c/2/s/r/trail-wk/c2sr-trail-smelter-city.mp3",
-        "_m/c/2/s/r/trail-wk/c2sr-trail-the-columbia-corridor.mp3"
+        "_m/c/2/s/r/trail-wk/c2sr-trail-flag-viewpoints.mp3",
+        "_m/c/2/s/r/trail-wk/c2sr-trail-the-columbia-corridor.mp3",
+        "_m/c/2/s/r/trail-wk/c2sr-trail-rossland-and-beyond.mp3"
       ],
       "hero": {
         "path": "_m/tpc/tr/ai/l_/__/trail/mohonk-mountain-house-2011-hik.jpg",
@@ -24,7 +24,8 @@
         "sourceType": "sibling",
         "sourceArticleId": "trail",
         "sourceGeohash4": "tpc/tr/ai/l_/__",
-        "accessedAt": "2026-02-22T02:10:38.143Z"
+        "accessedAt": "2026-02-22T02:10:38.143Z",
+        "smallPath": "_m/c/2/s/r/trail-wk/hero-small.webp"
       },
       "images": [
         {
@@ -530,7 +531,8 @@
             "Wikivoyage banners of British Columbia"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/s/r/trail-wk/c2sr-trail-combined.mp3"
     }
   }
 }

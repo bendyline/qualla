@@ -27,7 +27,7 @@
     "sourceType": "core",
     "sourceArticleId": "trail-wk",
     "sourceGeohash4": "c2sr",
-    "smallPath": "_m/c/2/s/r/trail-wk/hero-small.jpg"
+    "smallPath": "_m/c/2/s/r/trail-wk/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Trail Airport, BC.jpg",
@@ -59,26 +59,24 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-02-22T02:10:38.143Z",
   "updatedAt": "2026-01-29T13:18:31.242Z",
   "narration": {
     "files": [
-      "c2sr-trail-flag-viewpoints.mp3",
       "c2sr-trail-flight-context.mp3",
       "c2sr-trail-intro.mp3",
-      "c2sr-trail-rossland-and-beyond.mp3",
       "c2sr-trail-smelter-city.mp3",
-      "c2sr-trail-the-columbia-corridor.mp3"
+      "c2sr-trail-flag-viewpoints.mp3",
+      "c2sr-trail-the-columbia-corridor.mp3",
+      "c2sr-trail-rossland-and-beyond.mp3"
     ],
     "durations": {
-      "c2sr-trail-flag-viewpoints.mp3": 64.896,
-      "c2sr-trail-flight-context.mp3": 49.368,
-      "c2sr-trail-intro.mp3": 48.504,
-      "c2sr-trail-rossland-and-beyond.mp3": 58.656,
-      "c2sr-trail-smelter-city.mp3": 58.32,
-      "c2sr-trail-the-columbia-corridor.mp3": 63.696
+      "c2sr-trail-flight-context.mp3": 48.048125,
+      "c2sr-trail-intro.mp3": 51.074375,
+      "c2sr-trail-smelter-city.mp3": 61.1008333,
+      "c2sr-trail-flag-viewpoints.mp3": 67.107,
+      "c2sr-trail-the-columbia-corridor.mp3": 66.175125,
+      "c2sr-trail-rossland-and-beyond.mp3": 62.2670416
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:57.743Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

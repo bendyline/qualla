@@ -22,8 +22,8 @@
     "sourceType": "core",
     "sourceArticleId": "saint-louis-university-wp",
     "sourceGeohash4": "9yzg",
-    "smallPath": "_m/9/y/z/g/saint-louis-university-wp/hero-small.jpg",
-    "mediumPath": "_m/9/y/z/g/saint-louis-university-wp/hero-medium.jpg"
+    "smallPath": "_m/9/y/z/g/saint-louis-university-wp/hero-small.webp",
+    "mediumPath": "_m/9/y/z/g/saint-louis-university-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Chaifetz arena.jpg",
@@ -98,8 +98,8 @@
       "sourceType": "core",
       "sourceArticleId": "saint-louis-university-wp",
       "sourceGeohash4": "9yzg",
-      "smallPath": "_m/9/y/z/g/saint-louis-university-wp/northeast-quarter-sain-small.jpg",
-      "mediumPath": "_m/9/y/z/g/saint-louis-university-wp/northeast-quarter-sain-medium.jpg"
+      "smallPath": "_m/9/y/z/g/saint-louis-university-wp/northeast-quarter-sain-small.webp",
+      "mediumPath": "_m/9/y/z/g/saint-louis-university-wp/northeast-quarter-sain-medium.webp"
     },
     {
       "filename": "Slu clock tower.jpg",
@@ -124,7 +124,7 @@
       "sourceType": "core",
       "sourceArticleId": "saint-louis-university-wp",
       "sourceGeohash4": "9yzg",
-      "smallPath": "_m/9/y/z/g/saint-louis-university-wp/saint-louis-university-small.jpg"
+      "smallPath": "_m/9/y/z/g/saint-louis-university-wp/saint-louis-university-small.webp"
     },
     {
       "filename": "Museum of Contemporary Religious Art.jpg",
@@ -151,8 +151,8 @@
       "sourceType": "core",
       "sourceArticleId": "saint-louis-university-wp",
       "sourceGeohash4": "9yzg",
-      "smallPath": "_m/9/y/z/g/saint-louis-university-wp/museum-contemporary-re-small.jpg",
-      "mediumPath": "_m/9/y/z/g/saint-louis-university-wp/museum-contemporary-re-medium.jpg"
+      "smallPath": "_m/9/y/z/g/saint-louis-university-wp/museum-contemporary-re-small.webp",
+      "mediumPath": "_m/9/y/z/g/saint-louis-university-wp/museum-contemporary-re-medium.webp"
     },
     {
       "filename": "Saint Louis University Museum of Art.jpg",
@@ -178,8 +178,8 @@
       "sourceType": "core",
       "sourceArticleId": "saint-louis-university-wp",
       "sourceGeohash4": "9yzg",
-      "smallPath": "_m/9/y/z/g/saint-louis-university-wp/picture-south-facing-f-small.jpg",
-      "mediumPath": "_m/9/y/z/g/saint-louis-university-wp/picture-south-facing-f-medium.jpg"
+      "smallPath": "_m/9/y/z/g/saint-louis-university-wp/picture-south-facing-f-small.webp",
+      "mediumPath": "_m/9/y/z/g/saint-louis-university-wp/picture-south-facing-f-medium.webp"
     },
     {
       "filename": "Old Saint Louis University Location.jpg",
@@ -202,7 +202,7 @@
       "sourceType": "core",
       "sourceArticleId": "saint-louis-university-wp",
       "sourceGeohash4": "9yzg",
-      "smallPath": "_m/9/y/z/g/saint-louis-university-wp/saint-louis-university-1-small.jpg"
+      "smallPath": "_m/9/y/z/g/saint-louis-university-wp/saint-louis-university-1-small.webp"
     },
     {
       "filename": "Colleges and Universities - St. Louis University - Faculty and Alumni of St. Louis University School of Medicine in United States Service - NARA - 26427977.jpg",
@@ -229,7 +229,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "saint-louis-university-wp",
-      "sourceGeohash4": "9yzg"
+      "sourceGeohash4": "9yzg",
+      "mediumPath": "_m/9/y/z/g/saint-louis-university-wp/colleges-and-universities-st-l-medium.webp",
+      "smallPath": "_m/9/y/z/g/saint-louis-university-wp/colleges-and-universities-st-l-small.webp"
     },
     {
       "filename": "Flags - Miscellaneous - Service flag of the St. Louis University, St. Louis, Missouri. Showing 1020 stars, representing so many professors, alumni, and students, who were known, at the time of the ordering of the(...) - NARA - 31480840.jpg",
@@ -258,7 +260,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "saint-louis-university-wp",
-      "sourceGeohash4": "9yzg"
+      "sourceGeohash4": "9yzg",
+      "mediumPath": "_m/9/y/z/g/saint-louis-university-wp/flags-miscellaneous-service-fl-medium.webp",
+      "smallPath": "_m/9/y/z/g/saint-louis-university-wp/flags-miscellaneous-service-fl-small.webp"
     }
   ],
   "galleryPaths": [
@@ -271,7 +275,6 @@
     "_m/9/y/z/g/saint-louis-university-wp/colleges-and-universities-st-l.jpg",
     "_m/9/y/z/g/saint-louis-university-wp/flags-miscellaneous-service-fl.jpg"
   ],
-  "fetchedAt": "2026-02-22T01:33:59.023Z",
   "updatedAt": "2026-02-22T01:34:04.060Z",
   "narration": {
     "files": [
@@ -290,7 +293,6 @@
       "9yzg-saint-louis-university-breaking-the-color-line.mp3": 54.1075,
       "9yzg-saint-louis-university-midtown-anchor.mp3": 60.63125
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T05:01:44.966Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

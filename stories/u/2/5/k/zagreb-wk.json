@@ -77,24 +77,24 @@
   "locationWikivoyagePath": "u/2/5/k/zagreb-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "hallstatt-wk",
-      "title": "Hallstatt",
-      "tile": "u23w",
+      "id": "mose-wp",
+      "title": "Moše",
+      "tile": "u24n",
       "coordinates": {
-        "lat": 47.5622,
-        "lng": 13.6493
+        "lat": 46.183611,
+        "lng": 14.411389
       },
-      "distanceKm": 217.4
+      "distanceKm": 82.7
     },
     "n": {
-      "id": "vienna-wk",
-      "title": "Vienna",
-      "tile": "u2ed",
+      "id": "lake-bled-wp",
+      "title": "Lake Bled",
+      "tile": "u24p",
       "coordinates": {
-        "lat": 48.208,
-        "lng": 16.373
+        "lat": 46.364444444444,
+        "lng": 14.094722222222
       },
-      "distanceKm": 241.1
+      "distanceKm": 150.3
     },
     "ne": {
       "id": "budapest-wk",
@@ -107,54 +107,54 @@
       "distanceKm": 249.9
     },
     "w": {
-      "id": "venice-acqua-alta-wk",
-      "title": "Venice: The City That's Been Sinking for 1,500 Years",
-      "tile": "u20f",
+      "id": "lake-cerknica-wp",
+      "title": "Lake Cerknica",
+      "tile": "u24h",
       "coordinates": {
-        "lat": 45.4408,
-        "lng": 12.3155
+        "lat": 45.752222222222,
+        "lng": 14.385
       },
-      "distanceKm": 248.3
+      "distanceKm": 84.2
     },
     "e": {
-      "id": "kor-ula-wk",
-      "title": "Korcula: Marco Polo's Island in the Dalmatian Adriatic",
-      "tile": "srsh",
-      "coordinates": {
-        "lat": 42.95,
-        "lng": 17.1167
-      },
-      "distanceKm": 319.4
-    },
-    "sw": {
-      "id": "venice-wk",
-      "title": "Venice",
-      "tile": "u20f",
-      "coordinates": {
-        "lat": 45.4408,
-        "lng": 12.3155
-      },
-      "distanceKm": 246
-    },
-    "s": {
-      "id": "split-wk",
-      "title": "Split",
-      "tile": "srex",
-      "coordinates": {
-        "lat": 43.5081,
-        "lng": 16.4402
-      },
-      "distanceKm": 227.3
-    },
-    "se": {
-      "id": "franz-ferdinand-wk",
-      "title": "The Assassination of Franz Ferdinand: The Wrong Turn That Started World War I",
+      "id": "sarajevo-haggadah-wp",
+      "title": "Sarajevo Haggadah",
       "tile": "srv1",
       "coordinates": {
-        "lat": 43.8575,
-        "lng": 18.4283
+        "lat": 43.85498,
+        "lng": 18.402275
       },
-      "distanceKm": 239
+      "distanceKm": 261.3
+    },
+    "sw": {
+      "id": "euphrasian-basilica-wp",
+      "title": "Euphrasian Basilica",
+      "tile": "u219",
+      "coordinates": {
+        "lat": 45.228611,
+        "lng": 13.593611
+      },
+      "distanceKm": 150.2
+    },
+    "s": {
+      "id": "plitvice-lakes-national-park-wk",
+      "title": "Plitvice Lakes National Park",
+      "tile": "srgp",
+      "coordinates": {
+        "lat": 44.880445,
+        "lng": 15.616035
+      },
+      "distanceKm": 77.9
+    },
+    "se": {
+      "id": "sarajevo-wk",
+      "title": "Sarajevo",
+      "tile": "srv1",
+      "coordinates": {
+        "lat": 43.85,
+        "lng": 18.39
+      },
+      "distanceKm": 237.8
     }
   },
   "keywords": [

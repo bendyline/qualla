@@ -113,14 +113,14 @@
       "distanceKm": 34.3
     },
     "ne": {
-      "id": "baotou-wk",
-      "title": "Baotou",
-      "tile": "wrnp",
+      "id": "yaghnob-valley-wp",
+      "title": "Yaghnob Valley",
+      "tile": "twcp",
       "coordinates": {
-        "lat": 40.656,
-        "lng": 109.834
+        "lat": 39.2,
+        "lng": 69
       },
-      "distanceKm": 3650.8
+      "distanceKm": 268.8
     },
     "w": {
       "id": "dasht-i-leili-massacre-wp",
@@ -133,14 +133,14 @@
       "distanceKm": 68.5
     },
     "e": {
-      "id": "jaipur-wk",
-      "title": "Jaipur",
-      "tile": "tsvc",
+      "id": "battle-of-kunduz-2015-wp",
+      "title": "Battle of Kunduz (2015)",
+      "tile": "tw8b",
       "coordinates": {
-        "lat": 26.9124,
-        "lng": 75.7873
+        "lat": 36.733333333333,
+        "lng": 68.866666666667
       },
-      "distanceKm": 1350.6
+      "distanceKm": 122.2
     },
     "sw": {
       "id": "minaret-of-jam-wp",
@@ -163,14 +163,15 @@
       "distanceKm": 193
     },
     "se": {
-      "id": "jodhpur-wk",
-      "title": "Jodhpur",
-      "tile": "tsev",
+      "id": "buddhas-of-bamiyan-wp",
+      "title": "Buddhas of Bamiyan",
+      "tile": "tw0n",
       "coordinates": {
-        "lat": 26.2389,
-        "lng": 73.0243
+        "lat": 34.832041666667,
+        "lng": 67.826802777778
       },
-      "distanceKm": 1261.4
+      "distanceKm": 194.7
     }
-  }
+  },
+  "locationWikipediaPath": "t/q/x/9/siege-of-bactra-wp"
 }

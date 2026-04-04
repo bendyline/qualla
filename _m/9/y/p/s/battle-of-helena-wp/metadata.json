@@ -27,8 +27,8 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-helena-wp",
     "sourceGeohash4": "9yps",
-    "smallPath": "_m/9/y/p/s/battle-of-helena-wp/hero-small.jpg",
-    "mediumPath": "_m/9/y/p/s/battle-of-helena-wp/hero-medium.jpg"
+    "smallPath": "_m/9/y/p/s/battle-of-helena-wp/hero-small.webp",
+    "mediumPath": "_m/9/y/p/s/battle-of-helena-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Battery B Site, Battle of Helena.JPG",
@@ -88,13 +88,12 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-helena-wp",
       "sourceGeohash4": "9yps",
-      "smallPath": "_m/9/y/p/s/battle-of-helena-wp/map-1863-battle-helena-small.jpg"
+      "smallPath": "_m/9/y/p/s/battle-of-helena-wp/map-1863-battle-helena-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/y/p/s/battle-of-helena-wp/map-1863-battle-helena.jpg"
   ],
-  "fetchedAt": "2026-02-22T01:07:28.834Z",
   "narration": {
     "files": [
       "9yps-battle-of-helena-flight-context.mp3",
@@ -112,7 +111,6 @@
       "9yps-battle-of-helena-graveyard-hill.mp3": 68.7542916,
       "9yps-battle-of-helena-dueling-generals.mp3": 81.0068333
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T01:00:31.032Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

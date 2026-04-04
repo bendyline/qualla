@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "montreal-laboratory-wp",
     "sourceGeohash4": "f25d",
-    "mediumPath": "_m/f/2/5/d/montreal-laboratory-wp/hero-medium.jpg",
-    "smallPath": "_m/f/2/5/d/montreal-laboratory-wp/hero-small.jpg"
+    "mediumPath": "_m/f/2/5/d/montreal-laboratory-wp/hero-medium.webp",
+    "smallPath": "_m/f/2/5/d/montreal-laboratory-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "CHUM depuis l'avenue Viger.jpg",
@@ -80,5 +80,25 @@
   "galleryPaths": [
     "_m/9/w/k/k/los-alamos-national-laboratory-wp/first-reflecting-teles.jpg"
   ],
-  "fetchedAt": "2026-02-28T13:21:46.104Z"
+  "narration": {
+    "files": [
+      "f25d-montreal-laboratory-flight-context.mp3",
+      "f25d-montreal-laboratory-intro.mp3",
+      "f25d-montreal-laboratory-from-heavy-water-to-chain-reactions.mp3",
+      "f25d-montreal-laboratory-the-house-on-the-mountain.mp3",
+      "f25d-montreal-laboratory-chalk-river-and-the-worlds-most-powerful-reactor.mp3",
+      "f25d-montreal-laboratory-secrets-and-betrayals.mp3",
+      "f25d-montreal-laboratory-the-alliance-that-fell-apart.mp3"
+    ],
+    "durations": {
+      "f25d-montreal-laboratory-flight-context.mp3": 47.0438333,
+      "f25d-montreal-laboratory-intro.mp3": 54.8974583,
+      "f25d-montreal-laboratory-from-heavy-water-to-chain-reactions.mp3": 61.2721666,
+      "f25d-montreal-laboratory-the-house-on-the-mountain.mp3": 63.4045,
+      "f25d-montreal-laboratory-chalk-river-and-the-worlds-most-powerful-reactor.mp3": 77.5622083,
+      "f25d-montreal-laboratory-secrets-and-betrayals.mp3": 56.8629583,
+      "f25d-montreal-laboratory-the-alliance-that-fell-apart.mp3": 72.6670416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

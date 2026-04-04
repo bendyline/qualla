@@ -76,14 +76,14 @@
   "locationWikivoyagePath": "s/q/x/q/olympia-greece-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "albanian-riviera-wk",
-      "title": "Albanian Riviera",
-      "tile": "srn5",
+      "id": "dodona-wp",
+      "title": "Dodona",
+      "tile": "srnb",
       "coordinates": {
-        "lat": 40.073,
-        "lng": 19.764
+        "lat": 39.546389,
+        "lng": 20.787778
       },
-      "distanceKm": 260.7
+      "distanceKm": 177.4
     },
     "n": {
       "id": "meteora-wk",
@@ -106,14 +106,14 @@
       "distanceKm": 138.3
     },
     "w": {
-      "id": "black-death-arrival-wk",
-      "title": "The Arrival of the Black Death: When Ships Brought the Apocalypse",
-      "tile": "sqg1",
+      "id": "achilleion-corfu-wp",
+      "title": "Achilleion (Corfu)",
+      "tile": "srn1",
       "coordinates": {
-        "lat": 38.1937,
-        "lng": 15.5542
+        "lat": 39.562444,
+        "lng": 19.90425
       },
-      "distanceKm": 488.7
+      "distanceKm": 230.9
     },
     "e": {
       "id": "athens-wk",

@@ -3,12 +3,12 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/c/2/g/5/kelowna-wk/c2g5-kelowna-intro.mp3",
-        "_m/c/2/g/5/kelowna-wk/c2g5-kelowna-big-white-in-winter.mp3",
         "_m/c/2/g/5/kelowna-wk/c2g5-kelowna-flight-context.mp3",
-        "_m/c/2/g/5/kelowna-wk/c2g5-kelowna-growing-pains.mp3",
+        "_m/c/2/g/5/kelowna-wk/c2g5-kelowna-intro.mp3",
         "_m/c/2/g/5/kelowna-wk/c2g5-kelowna-the-lake-at-the-center.mp3",
-        "_m/c/2/g/5/kelowna-wk/c2g5-kelowna-wine-country.mp3"
+        "_m/c/2/g/5/kelowna-wk/c2g5-kelowna-wine-country.mp3",
+        "_m/c/2/g/5/kelowna-wk/c2g5-kelowna-big-white-in-winter.mp3",
+        "_m/c/2/g/5/kelowna-wk/c2g5-kelowna-growing-pains.mp3"
       ],
       "hero": {
         "path": "_m/c/2/g/5/kelowna-wp/kelowna-lake-oka.jpg",
@@ -31,7 +31,9 @@
           "Kelowna",
           "License migration completed",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/c/2/g/5/kelowna-wk/hero-medium.webp",
+        "smallPath": "_m/c/2/g/5/kelowna-wk/hero-small.webp"
       },
       "images": [
         {
@@ -113,8 +115,8 @@
             "Kelowna",
             "Taken with Nikon D90"
           ],
-          "smallPath": "_m/c/2/g/5/kelowna-wk/vineyard-growing-canad-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/vineyard-growing-canad-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/vineyard-growing-canad-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/vineyard-growing-canad-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/engineering-management.jpg",
@@ -137,8 +139,8 @@
             "Self-published work",
             "University of British Columbia Okanagan"
           ],
-          "smallPath": "_m/c/2/g/5/kelowna-wk/engineering-management-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/engineering-management-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/engineering-management-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/engineering-management-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/aerial-picture-myra-be.jpg",
@@ -158,8 +160,8 @@
           "categories": [
             "CC-BY-SA-3.0"
           ],
-          "smallPath": "_m/c/2/g/5/kelowna-wk/aerial-picture-myra-be-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/aerial-picture-myra-be-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/aerial-picture-myra-be-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/aerial-picture-myra-be-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/c-fdyn-do-328-110-central-mtn-.jpg",
@@ -192,8 +194,8 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/view-waterfront-park-k-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/view-waterfront-park-k-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/view-waterfront-park-k-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/view-waterfront-park-k-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/bertram-beach-bertram.jpg",
@@ -210,8 +212,8 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/bertram-beach-bertram-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/bertram-beach-bertram-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/bertram-beach-bertram-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/bertram-beach-bertram-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/dancing-pedestrians-st.jpg",
@@ -228,7 +230,7 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/dancing-pedestrians-st-small.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/dancing-pedestrians-st-small.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/section-kettle-valley.jpg",
@@ -245,8 +247,8 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/section-kettle-valley-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/section-kettle-valley-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/section-kettle-valley-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/section-kettle-valley-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/alaska-airlines-boeing-737-990.jpg",
@@ -311,8 +313,8 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/manchester-airport-egc-1-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/manchester-airport-egc-1-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/manchester-airport-egc-1-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/manchester-airport-egc-1-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/air-canada-29-vancouve.jpg",
@@ -355,7 +357,7 @@
             "Self-published work",
             "Uploaded with en.wp upload wizard"
           ],
-          "smallPath": "_m/c/2/g/5/kelowna-wk/centre-for-arts-and-technology-small.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/centre-for-arts-and-technology-small.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/barn-8048116958.jpg",
@@ -379,8 +381,8 @@
             "Files with coordinates missing SDC location of creation",
             "Flickr images reviewed by File Upload Bot (Magnus Manske)"
           ],
-          "smallPath": "_m/c/2/g/5/kelowna-wk/barn-8048116958-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/barn-8048116958-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/barn-8048116958-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/barn-8048116958-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/departing-kelowna-3837696661.jpg",
@@ -397,8 +399,8 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/departing-kelowna-3837696661-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/departing-kelowna-3837696661-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/departing-kelowna-3837696661-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/departing-kelowna-3837696661-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/heritage-house.jpg",
@@ -415,8 +417,8 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/heritage-house-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/heritage-house-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/heritage-house-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/heritage-house-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/kelowna-2016.jpg",
@@ -433,8 +435,8 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/kelowna-2016-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/kelowna-2016-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/kelowna-2016-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/kelowna-2016-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/kelowna-2016a.jpg",
@@ -451,8 +453,8 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/kelowna-2016a-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/kelowna-2016a-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/kelowna-2016a-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/kelowna-2016a-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/kelowna-33156765625.jpg",
@@ -469,8 +471,8 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/kelowna-33156765625-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/kelowna-33156765625-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/kelowna-33156765625-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/kelowna-33156765625-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/countryside-in-ellison-distric.jpg",
@@ -487,8 +489,8 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/countryside-in-ellison-distric-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/countryside-in-ellison-distric-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/countryside-in-ellison-distric-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/countryside-in-ellison-distric-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/commonage-road-landscape-near-.jpg",
@@ -505,8 +507,8 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/commonage-road-landscape-near--small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/commonage-road-landscape-near--medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/commonage-road-landscape-near--small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/commonage-road-landscape-near--medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/grey-monk-winery-lands-with-ok.jpg",
@@ -523,8 +525,8 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/grey-monk-winery-lands-with-ok-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/grey-monk-winery-lands-with-ok-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/grey-monk-winery-lands-with-ok-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/grey-monk-winery-lands-with-ok-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/early-spring-late-afternoon-la.jpg",
@@ -541,8 +543,8 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/early-spring-late-afternoon-la-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/early-spring-late-afternoon-la-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/early-spring-late-afternoon-la-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/early-spring-late-afternoon-la-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/commonage-road-landscape-near--1.jpg",
@@ -559,8 +561,8 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/commonage-road-landscape-near--1-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/commonage-road-landscape-near--1-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/commonage-road-landscape-near--1-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/commonage-road-landscape-near--1-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/early-spring-late-afte.jpg",
@@ -593,8 +595,8 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/fruit-trees-kelona-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/fruit-trees-kelona-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/fruit-trees-kelona-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/fruit-trees-kelona-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/crawford-falls-kelowna-1180997.jpg",
@@ -611,7 +613,7 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/crawford-falls-kelowna-1180997-small.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/crawford-falls-kelowna-1180997-small.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/cropped-51137741023.jpg",
@@ -628,8 +630,8 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/cropped-51137741023-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/cropped-51137741023-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/cropped-51137741023-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/cropped-51137741023-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/fascieux-creek-wetland-sign.jpg",
@@ -646,8 +648,8 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/fascieux-creek-wetland-sign-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/fascieux-creek-wetland-sign-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/fascieux-creek-wetland-sign-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/fascieux-creek-wetland-sign-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/kelowna-29719761304.jpg",
@@ -664,8 +666,8 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/kelowna-29719761304-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/kelowna-29719761304-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/kelowna-29719761304-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/kelowna-29719761304-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/big-white-kelowna.jpg",
@@ -682,8 +684,8 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/big-white-kelowna-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/big-white-kelowna-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/big-white-kelowna-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/big-white-kelowna-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/city-hall-kelowna.jpg",
@@ -700,8 +702,8 @@
           "sourceArticleId": "kelowna-wk",
           "sourceGeohash4": "c2g5",
           "accessedAt": "2026-02-22T02:08:48.058Z",
-          "smallPath": "_m/c/2/g/5/kelowna-wk/city-hall-kelowna-small.jpg",
-          "mediumPath": "_m/c/2/g/5/kelowna-wk/city-hall-kelowna-medium.jpg"
+          "smallPath": "_m/c/2/g/5/kelowna-wk/city-hall-kelowna-small.webp",
+          "mediumPath": "_m/c/2/g/5/kelowna-wk/city-hall-kelowna-medium.webp"
         },
         {
           "path": "_m/c/2/g/5/kelowna-wk/hero.jpg",
@@ -1353,7 +1355,8 @@
             "aerialBonus": 0
           }
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/g/5/kelowna-wk/c2g5-kelowna-combined.mp3"
     }
   }
 }

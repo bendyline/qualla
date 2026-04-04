@@ -19,10 +19,8 @@
       "9q8z-fort-alcatraz-the-machine-of-escape.mp3": 51.582125,
       "9q8z-fort-alcatraz-from-army-gray-to-federal-steel.mp3": 53.1704166
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-27T17:52:58.158Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
-  "fetchedAt": "2026-02-21T20:55:23.774Z",
   "hero": {
     "filename": "Fort Alcatraz Cannon.jpg",
     "title": "File:Fort Alcatraz Cannon.jpg",
@@ -48,8 +46,8 @@
     "sourceType": "core",
     "sourceArticleId": "fort-alcatraz-wp",
     "sourceGeohash4": "9q8z",
-    "smallPath": "_m/9/q/8/z/fort-alcatraz-wp/hero-small.jpg",
-    "mediumPath": "_m/9/q/8/z/fort-alcatraz-wp/hero-medium.jpg"
+    "smallPath": "_m/9/q/8/z/fort-alcatraz-wp/hero-small.webp",
+    "mediumPath": "_m/9/q/8/z/fort-alcatraz-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Fort Alcatraz Cannon.jpg",
@@ -104,7 +102,7 @@
       "sourceType": "core",
       "sourceArticleId": "fort-alcatraz-wp",
       "sourceGeohash4": "9q8z",
-      "smallPath": "_m/9/q/8/z/fort-alcatraz-wp/model-military-point-a-small.jpg"
+      "smallPath": "_m/9/q/8/z/fort-alcatraz-wp/model-military-point-a-small.webp"
     },
     {
       "filename": "Alcatraz Cannon 2.JPG",
@@ -131,7 +129,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-alcatraz-wp",
-      "sourceGeohash4": "9q8z"
+      "sourceGeohash4": "9q8z",
+      "mediumPath": "_m/9/q/8/z/fort-alcatraz-wp/alcatraz-cannon-2-medium.webp",
+      "smallPath": "_m/9/q/8/z/fort-alcatraz-wp/alcatraz-cannon-2-small.webp"
     },
     {
       "filename": "Fort Alcatraz, San Francisco, circa 1888 (14660678076).jpg",
@@ -154,7 +154,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-alcatraz-wp",
-      "sourceGeohash4": "9q8z"
+      "sourceGeohash4": "9q8z",
+      "mediumPath": "_m/9/q/8/z/fort-alcatraz-wp/fort-alcatraz-san-francisco-ci-medium.webp",
+      "smallPath": "_m/9/q/8/z/fort-alcatraz-wp/fort-alcatraz-san-francisco-ci-small.webp"
     }
   ],
   "galleryPaths": [

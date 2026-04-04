@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/v/1/z/alamo-wk/9v1y-the-battle-of-the-alamo-remember-the-alamo-intro.mp3",
-        "_m/9/v/1/z/alamo-wk/9v1y-the-battle-of-the-alamo-remember-the-alamo-flight-context.mp3",
-        "_m/9/v/1/z/alamo-wk/9v1y-the-battle-of-the-alamo-remember-the-alamo-the-assault.mp3",
-        "_m/9/v/1/z/alamo-wk/9v1y-the-battle-of-the-alamo-remember-the-alamo-the-cry.mp3",
-        "_m/9/v/1/z/alamo-wk/9v1y-the-battle-of-the-alamo-remember-the-alamo-the-legends.mp3",
-        "_m/9/v/1/z/alamo-wk/9v1y-the-battle-of-the-alamo-remember-the-alamo-the-mission.mp3",
-        "_m/9/v/1/z/alamo-wk/9v1y-the-battle-of-the-alamo-remember-the-alamo-the-siege.mp3"
+        "_m/9/v/1/z/alamo-wk/9v1z-the-battle-of-the-alamo-remember-the-alamo-flight-context.mp3",
+        "_m/9/v/1/z/alamo-wk/9v1z-the-battle-of-the-alamo-remember-the-alamo-intro.mp3",
+        "_m/9/v/1/z/alamo-wk/9v1z-the-battle-of-the-alamo-remember-the-alamo-the-mission.mp3",
+        "_m/9/v/1/z/alamo-wk/9v1z-the-battle-of-the-alamo-remember-the-alamo-the-siege.mp3",
+        "_m/9/v/1/z/alamo-wk/9v1z-the-battle-of-the-alamo-remember-the-alamo-the-assault.mp3",
+        "_m/9/v/1/z/alamo-wk/9v1z-the-battle-of-the-alamo-remember-the-alamo-the-legends.mp3",
+        "_m/9/v/1/z/alamo-wk/9v1z-the-battle-of-the-alamo-remember-the-alamo-the-cry.mp3"
       ],
       "hero": {
         "path": "_m/9/v/1/z/alamo-wk/plaque-wall-alamo-reco.jpg",
@@ -26,8 +26,8 @@
         "sourceArticleId": "alamo-wk",
         "sourceGeohash4": "9v1z",
         "accessedAt": "2026-02-21T22:33:01.741Z",
-        "smallPath": "_m/9/v/1/z/alamo-wk/plaque-wall-alamo-reco-small.jpg",
-        "mediumPath": "_m/9/v/1/z/alamo-wk/plaque-wall-alamo-reco-medium.jpg"
+        "smallPath": "_m/9/v/1/z/alamo-wk/hero-small.webp",
+        "mediumPath": "_m/9/v/1/z/alamo-wk/hero-medium.webp"
       },
       "images": [
         {
@@ -618,7 +618,8 @@
           "smallPath": "_m/9/v/1/z/alamo-wk/alamo-pano-cropped2-small.jpg",
           "mediumPath": "_m/9/v/1/z/alamo-wk/alamo-pano-cropped2-medium.jpg"
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/v/1/z/alamo-wk/9v1z-alamo-combined.mp3"
     }
   }
 }

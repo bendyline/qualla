@@ -1,0 +1,148 @@
+{
+  "id": "zhoukoudian-wp",
+  "source": "wikipedia",
+  "sourceId": "71960358",
+  "title": "Zhoukoudian",
+  "slug": "zhoukoudian",
+  "summary": "A small town in Beijing's Fangshan District whose limestone hills and cave formations gave the world Peking Man and reshaped the story of human evolution.",
+  "content": {
+    "intro": "Every resident of Zhoukoudian shares their town with a neighbor who has been here for half a million years. This small settlement of roughly 42,000 people in Beijing's Fangshan District, about 50 kilometres southwest of the capital's center, sits atop some of the most important karst geology on Earth -- limestone hills riddled with caves, sinkholes, and underground water channels that preserved the fossilized remains of Homo erectus pekinensis and launched a century of archaeological discovery.",
+    "sections": [
+      {
+        "title": "Shaped by Stone",
+        "body": "Zhoukoudian occupies 121.2 square kilometres of terrain that transitions from rolling hills in the north to steeper mountains in the south, with elevations ranging from 80 to 400 metres above sea level. The limestone that underlies the region is the reason the town exists in the annals of science. Over millennia, water carved through the soft rock to create the cave systems that served as shelters for ancient hominins and later as natural preservatives for their remains. The karst features -- caves, sinkholes, and underground channels -- created an environment where organic material could be sealed away from the elements, fossilized, and held in place for hundreds of thousands of years."
+      },
+      {
+        "title": "Before the Fossils",
+        "body": "Long before archaeologists arrived, Zhoukoudian's location along historical transportation routes between Beijing and the western mountain regions shaped its identity. The town developed as a mining and agricultural center, its residents extracting resources from the same limestone hills that would later yield more famous treasures. The continental monsoon climate brings hot, humid summers with temperatures reaching 26 to 28 degrees Celsius and cold, dry winters averaging minus 4 to minus 6. About 75 percent of the annual 600 to 650 millimetres of precipitation falls between June and August, turning the karst landscape green and feeding the underground water systems that continue to shape the caves."
+      },
+      {
+        "title": "A Town and Its Discovery",
+        "body": "When Swedish geologist Johan Gunnar Andersson was led to Dragon Bone Hill by local quarry workers in 1921, Zhoukoudian was transformed from an obscure mining town into one of the most significant paleontological sites in the world. The discoveries made here -- fossils of Homo erectus dating back as far as 700,000 years, stone tools, evidence of fire use, remains from over 200 animal species -- drew scientists from Sweden, Canada, France, Germany, and the United States. The town's name became synonymous with the study of human origins. Today, the Zhoukoudian Peking Man Site is a UNESCO World Heritage Site, and the town's 29 subdivisions -- five communities and 24 villages -- exist in the quiet shadow of a discovery that redefined what it means to be human."
+      }
+    ],
+    "flightContext": "Located at 39.68N, 115.95E in Fangshan District, approximately 50 km southwest of central Beijing. The town's limestone hills are distinguishable from the surrounding terrain. Nearest major airport is Beijing Daxing International Airport (ZBAD). The UNESCO World Heritage Site at Dragon Bone Hill is the primary landmark."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 39.67965,
+      "lng": 115.94603
+    },
+    "geohash": "wx43w"
+  },
+  "categories": [
+    "towns",
+    "Beijing",
+    "archaeology",
+    "paleontology"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 600,
+    "readTime": 3,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 10612
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Zhoukoudian Peking Man Site - UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/449/",
+      "accessedAt": "2026-03-18",
+      "claimsVerified": [
+        "UNESCO World Heritage Site designation confirmed",
+        "Located ~50 km southwest of central Beijing confirmed",
+        "Johan Gunnar Andersson led to site by quarry workers in 1921 confirmed",
+        "Fossils from more than 40 individuals recovered confirmed",
+        "Over 10,000 stone tools and 200 animal species documented confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "w/x/4/3/zhoukoudian-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "zhuolu-county-wp",
+      "title": "Zhuolu County",
+      "tile": "wx1v",
+      "coordinates": {
+        "lat": 40.37874,
+        "lng": 115.2132
+      },
+      "distanceKm": 53.6
+    },
+    "n": {
+      "id": "tanzhe-temple-wp",
+      "title": "Tanzhe Temple",
+      "tile": "wx4e",
+      "coordinates": {
+        "lat": 39.90416667,
+        "lng": 116.02416667
+      },
+      "distanceKm": 15.7
+    },
+    "ne": {
+      "id": "democracy-wall-wp",
+      "title": "Democracy Wall",
+      "tile": "wx4g",
+      "coordinates": {
+        "lat": 39.9061,
+        "lng": 116.3681
+      },
+      "distanceKm": 0.4
+    },
+    "w": {
+      "id": "xiaochangliang-wp",
+      "title": "Xiaochangliang",
+      "tile": "wx1s",
+      "coordinates": {
+        "lat": 40.21788333,
+        "lng": 114.66336667
+      },
+      "distanceKm": 84.9
+    },
+    "e": {
+      "id": "beijing-daxing-international-airport-wp",
+      "title": "Beijing Daxing International Airport",
+      "tile": "wx4b",
+      "coordinates": {
+        "lat": 39.511944,
+        "lng": 116.410556
+      },
+      "distanceKm": 14.6
+    },
+    "sw": {
+      "id": "geyuan-temple-wp",
+      "title": "Geyuan Temple",
+      "tile": "wwcx",
+      "coordinates": {
+        "lat": 39.35277778,
+        "lng": 114.68194444
+      },
+      "distanceKm": 54.3
+    },
+    "s": {
+      "id": "kaishan-temple-wp",
+      "title": "Kaishan Temple",
+      "tile": "wwfr",
+      "coordinates": {
+        "lat": 39.24583333,
+        "lng": 115.98277778
+      },
+      "distanceKm": 18.9
+    },
+    "se": {
+      "id": "shi-family-grand-courtyard-wp",
+      "title": "Shi Family Grand Courtyard",
+      "tile": "wwgn",
+      "coordinates": {
+        "lat": 39.133869707236,
+        "lng": 117.004416567356
+      },
+      "distanceKm": 61.1
+    }
+  }
+}

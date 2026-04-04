@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "willa-cather-birthplace-wp",
     "sourceGeohash4": "dqbr",
-    "mediumPath": "_m/d/q/b/r/willa-cather-birthplace-wp/hero-medium.jpg",
-    "smallPath": "_m/d/q/b/r/willa-cather-birthplace-wp/hero-small.jpg"
+    "mediumPath": "_m/d/q/b/r/willa-cather-birthplace-wp/hero-medium.webp",
+    "smallPath": "_m/d/q/b/r/willa-cather-birthplace-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "WillaCatherBirthplace 0204.jpg",
@@ -79,8 +79,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "willa-cather-birthplace-wp",
       "sourceGeohash4": "dqbr",
-      "mediumPath": "_m/d/q/b/r/willa-cather-birthplace-wp/willa-cather-birthplace-gore-v-medium.jpg",
-      "smallPath": "_m/d/q/b/r/willa-cather-birthplace-wp/willa-cather-birthplace-gore-v-small.jpg"
+      "mediumPath": "_m/d/q/b/r/willa-cather-birthplace-wp/willa-cather-birthplace-gore-v-medium.webp",
+      "smallPath": "_m/d/q/b/r/willa-cather-birthplace-wp/willa-cather-birthplace-gore-v-small.webp"
     },
     {
       "filename": "Willa Cather Birthplace Gore VA 2013 11 28 02.jpg",
@@ -109,8 +109,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "willa-cather-birthplace-wp",
       "sourceGeohash4": "dqbr",
-      "mediumPath": "_m/d/q/b/r/willa-cather-birthplace-wp/willa-cather-birthplace-gore-v-1-medium.jpg",
-      "smallPath": "_m/d/q/b/r/willa-cather-birthplace-wp/willa-cather-birthplace-gore-v-1-small.jpg"
+      "mediumPath": "_m/d/q/b/r/willa-cather-birthplace-wp/willa-cather-birthplace-gore-v-1-medium.webp",
+      "smallPath": "_m/d/q/b/r/willa-cather-birthplace-wp/willa-cather-birthplace-gore-v-1-small.webp"
     },
     {
       "filename": "Willa Cather Birthplace - side view.jpg",
@@ -128,8 +128,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "willa-cather-birthplace-wp",
       "sourceGeohash4": "dqbr",
-      "mediumPath": "_m/d/q/b/r/willa-cather-birthplace-wp/willa-cather-birthplace-side-v-medium.jpg",
-      "smallPath": "_m/d/q/b/r/willa-cather-birthplace-wp/willa-cather-birthplace-side-v-small.jpg"
+      "mediumPath": "_m/d/q/b/r/willa-cather-birthplace-wp/willa-cather-birthplace-side-v-medium.webp",
+      "smallPath": "_m/d/q/b/r/willa-cather-birthplace-wp/willa-cather-birthplace-side-v-small.webp"
     },
     {
       "filename": "Willa Cather Birthplace 2023.jpg",
@@ -147,8 +147,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "willa-cather-birthplace-wp",
       "sourceGeohash4": "dqbr",
-      "mediumPath": "_m/d/q/b/r/willa-cather-birthplace-wp/willa-cather-birthplace-2023-medium.jpg",
-      "smallPath": "_m/d/q/b/r/willa-cather-birthplace-wp/willa-cather-birthplace-2023-small.jpg"
+      "mediumPath": "_m/d/q/b/r/willa-cather-birthplace-wp/willa-cather-birthplace-2023-medium.webp",
+      "smallPath": "_m/d/q/b/r/willa-cather-birthplace-wp/willa-cather-birthplace-2023-small.webp"
     }
   ],
   "galleryPaths": [
@@ -157,6 +157,24 @@
     "_m/d/q/b/r/willa-cather-birthplace-wp/willa-cather-birthplace-side-v.jpg",
     "_m/d/q/b/r/willa-cather-birthplace-wp/willa-cather-birthplace-2023.jpg"
   ],
-  "fetchedAt": "2026-02-28T04:28:20.380Z",
-  "updatedAt": "2026-02-28T04:28:25.604Z"
+  "updatedAt": "2026-02-28T04:28:25.604Z",
+  "narration": {
+    "files": [
+      "dqbr-willa-cather-birthplace-flight-context.mp3",
+      "dqbr-willa-cather-birthplace-intro.mp3",
+      "dqbr-willa-cather-birthplace-built-by-a-great-grandfathers-hands.mp3",
+      "dqbr-willa-cather-birthplace-the-virginia-she-carried-west.mp3",
+      "dqbr-willa-cather-birthplace-words-that-won-the-pulitzer.mp3",
+      "dqbr-willa-cather-birthplace-rescued-from-ruin.mp3"
+    ],
+    "durations": {
+      "dqbr-willa-cather-birthplace-flight-context.mp3": 50.22975,
+      "dqbr-willa-cather-birthplace-intro.mp3": 53.2545,
+      "dqbr-willa-cather-birthplace-built-by-a-great-grandfathers-hands.mp3": 54.588875,
+      "dqbr-willa-cather-birthplace-the-virginia-she-carried-west.mp3": 61.9098333,
+      "dqbr-willa-cather-birthplace-words-that-won-the-pulitzer.mp3": 55.998875,
+      "dqbr-willa-cather-birthplace-rescued-from-ruin.mp3": 66.0099583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -23,7 +23,7 @@
     "sourceType": "core",
     "sourceArticleId": "darya-lal-mandir-wp",
     "sourceGeohash4": "tkrt",
-    "smallPath": "_m/t/k/r/t/darya-lal-mandir-wp/hero-small.jpg"
+    "smallPath": "_m/t/k/r/t/darya-lal-mandir-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Darya Lal Mandir 2.jpg",
@@ -51,5 +51,21 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T10:40:01.828Z"
+  "narration": {
+    "files": [
+      "tkrt-darya-lal-mandir-flight-context.mp3",
+      "tkrt-darya-lal-mandir-intro.mp3",
+      "tkrt-darya-lal-mandir-the-river-gods-house.mp3",
+      "tkrt-darya-lal-mandir-attacked-abandoned-enduring.mp3",
+      "tkrt-darya-lal-mandir-rebuilding-with-borrowed-stone.mp3"
+    ],
+    "durations": {
+      "tkrt-darya-lal-mandir-flight-context.mp3": 31.9570416,
+      "tkrt-darya-lal-mandir-intro.mp3": 39.455125,
+      "tkrt-darya-lal-mandir-the-river-gods-house.mp3": 51.638125,
+      "tkrt-darya-lal-mandir-attacked-abandoned-enduring.mp3": 52.6780416,
+      "tkrt-darya-lal-mandir-rebuilding-with-borrowed-stone.mp3": 58.457
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -113,14 +113,14 @@
       "distanceKm": 25.8
     },
     "ne": {
-      "id": "st-petersburg-wk",
-      "title": "St. Petersburg",
-      "tile": "udts",
+      "id": "finnish-war-wp",
+      "title": "Finnish War",
+      "tile": "ue02",
       "coordinates": {
-        "lat": 59.9343,
-        "lng": 30.3351
+        "lat": 62,
+        "lng": 22.966666666666665
       },
-      "distanceKm": 539.2
+      "distanceKm": 522.7
     },
     "w": {
       "id": "baltic-ice-lake-wp",
@@ -175,5 +175,7 @@
   },
   "keywords": [
     "kuldiga-castle"
-  ]
+  ],
+  "locationWikipediaPath": "u/6/p/s/kuldiga-castle-wp",
+  "locationWikivoyagePath": "u/6/p/s/kuldiga-wk"
 }

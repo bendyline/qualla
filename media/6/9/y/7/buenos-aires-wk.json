@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/6/9/y/7/buenos-aires-wk/69y7-buenos-aires-intro.mp3",
-        "_m/6/9/y/7/buenos-aires-wk/69y7-buenos-aires-crisis-and-resilience.mp3",
         "_m/6/9/y/7/buenos-aires-wk/69y7-buenos-aires-flight-context.mp3",
-        "_m/6/9/y/7/buenos-aires-wk/69y7-buenos-aires-recoleta-and-la-boca.mp3",
+        "_m/6/9/y/7/buenos-aires-wk/69y7-buenos-aires-intro.mp3",
+        "_m/6/9/y/7/buenos-aires-wk/69y7-buenos-aires-the-paris-of-the-south.mp3",
         "_m/6/9/y/7/buenos-aires-wk/69y7-buenos-aires-tango-in-the-barrios.mp3",
         "_m/6/9/y/7/buenos-aires-wk/69y7-buenos-aires-the-disappeared.mp3",
-        "_m/6/9/y/7/buenos-aires-wk/69y7-buenos-aires-the-paris-of-the-south.mp3"
+        "_m/6/9/y/7/buenos-aires-wk/69y7-buenos-aires-crisis-and-resilience.mp3",
+        "_m/6/9/y/7/buenos-aires-wk/69y7-buenos-aires-recoleta-and-la-boca.mp3"
       ],
       "hero": {
         "path": "_m/6/9/y/7/buenos-aires-wp/buenos-aires-panorama.jpg",
@@ -36,7 +36,8 @@
           "Panoramic photographs of sunsets",
           "Skylines of Buenos Aires",
           "Sunset skylines"
-        ]
+        ],
+        "smallPath": "_m/6/9/y/7/buenos-aires-wk/hero-small.webp"
       },
       "images": [
         {
@@ -65,7 +66,7 @@
             "Items with VRTS permission confirmed",
             "Photographs taken on 2004-08-25"
           ],
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/overview-part-buenos-a-small.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/overview-part-buenos-a-small.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/interior-subte-train-s.jpg",
@@ -94,7 +95,7 @@
             "Taken with Fujifilm FinePix F10",
             "Train interiors in Argentina"
           ],
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/interior-subte-train-s-small.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/interior-subte-train-s-small.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/terminal-de-omnibus-de.jpg",
@@ -125,8 +126,8 @@
             "Photographs by Beatrice Murch",
             "Photographs taken on 2007-02-28"
           ],
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/terminal-de-omnibus-de-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/terminal-de-omnibus-de-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/terminal-de-omnibus-de-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/terminal-de-omnibus-de-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/aerial-view-nunez-sect.jpg",
@@ -143,8 +144,8 @@
           "sourceArticleId": "buenos-aires-wk",
           "sourceGeohash4": "69y7",
           "accessedAt": "2026-02-21T20:08:57.575Z",
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/aerial-view-nunez-sect-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/aerial-view-nunez-sect-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/aerial-view-nunez-sect-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/aerial-view-nunez-sect-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/puerto-madero-buenos-a.jpg",
@@ -161,8 +162,8 @@
           "sourceArticleId": "buenos-aires-wk",
           "sourceGeohash4": "69y7",
           "accessedAt": "2026-02-21T20:08:57.575Z",
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/puerto-madero-buenos-a-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/puerto-madero-buenos-a-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/puerto-madero-buenos-a-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/puerto-madero-buenos-a-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/vista-del-interior-de.jpg",
@@ -179,8 +180,8 @@
           "sourceArticleId": "buenos-aires-wk",
           "sourceGeohash4": "69y7",
           "accessedAt": "2026-02-21T20:08:57.575Z",
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/vista-del-interior-de-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/vista-del-interior-de-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/vista-del-interior-de-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/vista-del-interior-de-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/panorama-ministro-pist.jpg",
@@ -197,8 +198,8 @@
           "sourceArticleId": "buenos-aires-wk",
           "sourceGeohash4": "69y7",
           "accessedAt": "2026-02-21T20:08:57.575Z",
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/panorama-ministro-pist-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/panorama-ministro-pist-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/panorama-ministro-pist-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/panorama-ministro-pist-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/estacion-terminal-de-t.jpg",
@@ -215,8 +216,8 @@
           "sourceArticleId": "buenos-aires-wk",
           "sourceGeohash4": "69y7",
           "accessedAt": "2026-02-21T20:08:57.575Z",
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/estacion-terminal-de-t-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/estacion-terminal-de-t-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/estacion-terminal-de-t-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/estacion-terminal-de-t-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/italbus-tropea-bus-reg.jpg",
@@ -233,8 +234,8 @@
           "sourceArticleId": "buenos-aires-wk",
           "sourceGeohash4": "69y7",
           "accessedAt": "2026-02-21T20:08:57.575Z",
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/italbus-tropea-bus-reg-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/italbus-tropea-bus-reg-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/italbus-tropea-bus-reg-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/italbus-tropea-bus-reg-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/buenos-aires-argentina.jpg",
@@ -251,8 +252,8 @@
           "sourceArticleId": "buenos-aires-wk",
           "sourceGeohash4": "69y7",
           "accessedAt": "2026-02-21T20:08:57.575Z",
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/buenos-aires-argentina-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/buenos-aires-argentina-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/buenos-aires-argentina-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/buenos-aires-argentina-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/el-ateneo-originally-t.jpg",
@@ -269,7 +270,7 @@
           "sourceArticleId": "buenos-aires-wk",
           "sourceGeohash4": "69y7",
           "accessedAt": "2026-02-21T20:08:57.575Z",
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/el-ateneo-originally-t-small.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/el-ateneo-originally-t-small.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/photo-argentine-monume.jpg",
@@ -286,8 +287,8 @@
           "sourceArticleId": "buenos-aires-wk",
           "sourceGeohash4": "69y7",
           "accessedAt": "2026-02-21T20:08:57.575Z",
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/photo-argentine-monume-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/photo-argentine-monume-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/photo-argentine-monume-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/photo-argentine-monume-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/tango-streets-la-bocca.jpg",
@@ -304,8 +305,8 @@
           "sourceArticleId": "buenos-aires-wk",
           "sourceGeohash4": "69y7",
           "accessedAt": "2026-02-21T20:08:57.575Z",
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/tango-streets-la-bocca-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/tango-streets-la-bocca-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/tango-streets-la-bocca-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/tango-streets-la-bocca-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/alfredo-rivas-04.jpg",
@@ -326,7 +327,7 @@
             "Buenos Aires",
             "CC-BY-3.0"
           ],
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/alfredo-rivas-04-small.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/alfredo-rivas-04-small.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/alli-5247872781.jpg",
@@ -350,8 +351,8 @@
             "Flickr images missing SDC creator",
             "Flickr images reviewed by FlickreviewR 2"
           ],
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/alli-5247872781-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/alli-5247872781-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/alli-5247872781-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/alli-5247872781-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/960x0.jpg",
@@ -373,7 +374,7 @@
             "CC-BY-SA-4.0",
             "Self-published work"
           ],
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/960x0-small.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/960x0-small.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/adolfo-marino-ponti.jpg",
@@ -395,8 +396,8 @@
             "CC-BY-SA-4.0",
             "Self-published work"
           ],
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/adolfo-marino-ponti-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/adolfo-marino-ponti-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/adolfo-marino-ponti-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/adolfo-marino-ponti-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/adolfo-bebe-ponti.jpg",
@@ -418,8 +419,8 @@
             "CC-BY-SA-4.0",
             "Self-published work"
           ],
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/adolfo-bebe-ponti-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/adolfo-bebe-ponti-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/adolfo-bebe-ponti-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/adolfo-bebe-ponti-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/all-these-and-all-those-still-.jpg",
@@ -443,8 +444,8 @@
             "Flickr images missing SDC creator",
             "Flickr images reviewed by FlickreviewR 2"
           ],
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/all-these-and-all-those-still--small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/all-these-and-all-those-still--medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/all-these-and-all-those-still--small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/all-these-and-all-those-still--medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/20170807-an-der-calle-magellan.jpg",
@@ -468,8 +469,8 @@
             "Photographs by Matthias Bethke",
             "Self-published work"
           ],
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/20170807-an-der-calle-magellan-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/20170807-an-der-calle-magellan-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/20170807-an-der-calle-magellan-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/20170807-an-der-calle-magellan-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/20170807-la-perla-bar-von-1882.jpg",
@@ -493,8 +494,8 @@
             "Photographs by Matthias Bethke",
             "Self-published work"
           ],
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/20170807-la-perla-bar-von-1882-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/20170807-la-perla-bar-von-1882-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/20170807-la-perla-bar-von-1882-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/20170807-la-perla-bar-von-1882-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/aladecriados-18-3086.jpg",
@@ -516,8 +517,8 @@
             "CC-BY-SA-4.0",
             "Self-published work"
           ],
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/aladecriados-18-3086-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/aladecriados-18-3086-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/aladecriados-18-3086-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/aladecriados-18-3086-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/aladecriados-18-3244.jpg",
@@ -539,8 +540,8 @@
             "CC-BY-SA-4.0",
             "Self-published work"
           ],
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/aladecriados-18-3244-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/aladecriados-18-3244-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/aladecriados-18-3244-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/aladecriados-18-3244-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/20221001-181951-arquitectura-y.jpg",
@@ -564,8 +565,8 @@
             "Self-published work",
             "Uploaded via Campaign:OFBA2022"
           ],
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/20221001-181951-arquitectura-y-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/20221001-181951-arquitectura-y-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/20221001-181951-arquitectura-y-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/20221001-181951-arquitectura-y-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/9o-encuentro-historiadores-arq.jpg",
@@ -587,7 +588,7 @@
             "CC-BY-SA-4.0",
             "Self-published work"
           ],
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/9o-encuentro-historiadores-arq-small.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/9o-encuentro-historiadores-arq-small.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/12-de-octubre.jpg",
@@ -609,8 +610,8 @@
             "CC-BY-SA-3.0",
             "Files with coordinates missing SDC location of creation"
           ],
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/12-de-octubre-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/12-de-octubre-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/12-de-octubre-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/12-de-octubre-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/alberto-rojo-recibe-diploma-de.jpg",
@@ -627,7 +628,7 @@
           "sourceArticleId": "buenos-aires-wk",
           "sourceGeohash4": "69y7",
           "accessedAt": "2026-02-21T20:08:57.575Z",
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/alberto-rojo-recibe-diploma-de-small.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/alberto-rojo-recibe-diploma-de-small.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/afiche-original-del-grupo-gent.jpg",
@@ -644,7 +645,7 @@
           "sourceArticleId": "buenos-aires-wk",
           "sourceGeohash4": "69y7",
           "accessedAt": "2026-02-21T20:08:57.575Z",
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/afiche-original-del-grupo-gent-small.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/afiche-original-del-grupo-gent-small.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/aldina-maria-prado-barral.jpg",
@@ -661,8 +662,8 @@
           "sourceArticleId": "buenos-aires-wk",
           "sourceGeohash4": "69y7",
           "accessedAt": "2026-02-21T20:08:57.575Z",
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/aldina-maria-prado-barral-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/aldina-maria-prado-barral-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/aldina-maria-prado-barral-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/aldina-maria-prado-barral-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/004-manifiesto-ante-la-desunio.jpg",
@@ -679,7 +680,7 @@
           "sourceArticleId": "buenos-aires-wk",
           "sourceGeohash4": "69y7",
           "accessedAt": "2026-02-21T20:08:57.575Z",
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/004-manifiesto-ante-la-desunio-small.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/004-manifiesto-ante-la-desunio-small.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/andre-ubilla-en-su-debut-en-vi.jpg",
@@ -696,7 +697,7 @@
           "sourceArticleId": "buenos-aires-wk",
           "sourceGeohash4": "69y7",
           "accessedAt": "2026-02-21T20:08:57.575Z",
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/andre-ubilla-en-su-debut-en-vi-small.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/andre-ubilla-en-su-debut-en-vi-small.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/4-stf-day-en-buenos-aires-2025.jpg",
@@ -713,8 +714,8 @@
           "sourceArticleId": "buenos-aires-wk",
           "sourceGeohash4": "69y7",
           "accessedAt": "2026-02-21T20:08:57.575Z",
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/4-stf-day-en-buenos-aires-2025-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/4-stf-day-en-buenos-aires-2025-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/4-stf-day-en-buenos-aires-2025-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/4-stf-day-en-buenos-aires-2025-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wk/6-stf-day-en-buenos-aires-2025.jpg",
@@ -731,8 +732,8 @@
           "sourceArticleId": "buenos-aires-wk",
           "sourceGeohash4": "69y7",
           "accessedAt": "2026-02-21T20:08:57.575Z",
-          "smallPath": "_m/6/9/y/7/buenos-aires-wk/6-stf-day-en-buenos-aires-2025-small.jpg",
-          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/6-stf-day-en-buenos-aires-2025-medium.jpg"
+          "smallPath": "_m/6/9/y/7/buenos-aires-wk/6-stf-day-en-buenos-aires-2025-small.webp",
+          "mediumPath": "_m/6/9/y/7/buenos-aires-wk/6-stf-day-en-buenos-aires-2025-medium.webp"
         },
         {
           "path": "_m/6/9/y/7/buenos-aires-wp/20060128-obelisco-buenos-aires.jpg",
@@ -1737,7 +1738,8 @@
             "aerialBonus": 0
           }
         }
-      ]
+      ],
+      "combinedNarration": "_m/6/9/y/7/buenos-aires-wk/69y7-buenos-aires-combined.mp3"
     }
   }
 }

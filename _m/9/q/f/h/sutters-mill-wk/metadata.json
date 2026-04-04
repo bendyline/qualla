@@ -2,27 +2,25 @@
   "articleId": "sutters-mill-wk",
   "narration": {
     "files": [
-      "9qc5-sutters-mill-flight-context.mp3",
-      "9qc5-sutters-mill-intro.mp3",
-      "9qc5-sutters-mill-sutters-empire.mp3",
-      "9qc5-sutters-mill-the-discovery.mp3",
-      "9qc5-sutters-mill-the-rush.mp3",
-      "9qc5-sutters-mill-the-losers.mp3",
-      "9qc5-sutters-mill-visiting-sutters-mill.mp3"
+      "9qfh-sutters-mill-flight-context.mp3",
+      "9qfh-sutters-mill-intro.mp3",
+      "9qfh-sutters-mill-sutters-empire.mp3",
+      "9qfh-sutters-mill-the-discovery.mp3",
+      "9qfh-sutters-mill-the-rush.mp3",
+      "9qfh-sutters-mill-the-losers.mp3",
+      "9qfh-sutters-mill-visiting-sutters-mill.mp3"
     ],
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-17T16:56:07.786Z",
     "durations": {
-      "9qc5-sutters-mill-flight-context.mp3": 34.752,
-      "9qc5-sutters-mill-intro.mp3": 73.704,
-      "9qc5-sutters-mill-sutters-empire.mp3": 53.592,
-      "9qc5-sutters-mill-the-discovery.mp3": 46.176,
-      "9qc5-sutters-mill-the-rush.mp3": 59.88,
-      "9qc5-sutters-mill-the-losers.mp3": 59.712,
-      "9qc5-sutters-mill-visiting-sutters-mill.mp3": 63.456
-    }
+      "9qfh-sutters-mill-flight-context.mp3": 34.329375,
+      "9qfh-sutters-mill-intro.mp3": 73.1643333,
+      "9qfh-sutters-mill-sutters-empire.mp3": 49.6119583,
+      "9qfh-sutters-mill-the-discovery.mp3": 44.4919583,
+      "9qfh-sutters-mill-the-rush.mp3": 59.4106666,
+      "9qfh-sutters-mill-the-losers.mp3": 61.600375,
+      "9qfh-sutters-mill-visiting-sutters-mill.mp3": 65.4017083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
-  "fetchedAt": "2026-02-21T21:09:55.789Z",
   "hero": {
     "filename": "Sutter's Mill (4094149651).jpg",
     "title": "File:Sutter's Mill (4094149651).jpg",
@@ -48,8 +46,8 @@
     "sourceType": "core",
     "sourceArticleId": "sutters-mill-wk",
     "sourceGeohash4": "9qfh",
-    "smallPath": "_m/9/q/f/h/sutters-mill-wk/hero-small.jpg",
-    "mediumPath": "_m/9/q/f/h/sutters-mill-wk/hero-medium.jpg"
+    "smallPath": "_m/9/q/f/h/sutters-mill-wk/hero-small.webp",
+    "mediumPath": "_m/9/q/f/h/sutters-mill-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Sutter's Mill (4094149651).jpg",
@@ -102,7 +100,7 @@
       "sourceType": "core",
       "sourceArticleId": "sutters-mill-wk",
       "sourceGeohash4": "9qfh",
-      "smallPath": "_m/9/q/f/h/sutters-mill-wk/map-american-river-wat-small.png"
+      "smallPath": "_m/9/q/f/h/sutters-mill-wk/map-american-river-wat-small.webp"
     },
     {
       "filename": "Sutter's Mill (2).JPG",
@@ -131,8 +129,8 @@
       "sourceType": "core",
       "sourceArticleId": "sutters-mill-wk",
       "sourceGeohash4": "9qfh",
-      "smallPath": "_m/9/q/f/h/sutters-mill-wk/reconstruction-sutter-small.jpg",
-      "mediumPath": "_m/9/q/f/h/sutters-mill-wk/reconstruction-sutter-medium.jpg"
+      "smallPath": "_m/9/q/f/h/sutters-mill-wk/reconstruction-sutter-small.webp",
+      "mediumPath": "_m/9/q/f/h/sutters-mill-wk/reconstruction-sutter-medium.webp"
     },
     {
       "filename": "Appletons' Sutter John Augustus - mill.jpg",
@@ -154,7 +152,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "sutters-mill-wk",
-      "sourceGeohash4": "9qfh"
+      "sourceGeohash4": "9qfh",
+      "smallPath": "_m/9/q/f/h/sutters-mill-wk/appletons-sutter-john-augustus-small.webp"
     },
     {
       "filename": "Sutters Mill in California reconstruction.JPG",
@@ -176,7 +175,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "sutters-mill-wk",
-      "sourceGeohash4": "9qfh"
+      "sourceGeohash4": "9qfh",
+      "mediumPath": "_m/9/q/f/h/sutters-mill-wk/sutters-mill-in-california-rec-medium.webp",
+      "smallPath": "_m/9/q/f/h/sutters-mill-wk/sutters-mill-in-california-rec-small.webp"
     },
     {
       "filename": "MARSHALL GOLD DISCOVERY S.H.P. EL DORADO COUNTY.jpg",
@@ -199,7 +200,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "sutters-mill-wk",
-      "sourceGeohash4": "9qfh"
+      "sourceGeohash4": "9qfh",
+      "smallPath": "_m/9/q/f/h/sutters-mill-wk/marshall-gold-discovery-s-h-p--small.webp"
     },
     {
       "filename": "American River at Sutter's Mill.JPG",
@@ -216,7 +218,9 @@
       "dateCreated": "2015-06-13 10:37:05",
       "sourceType": "commons-category",
       "sourceArticleId": "sutters-mill-wk",
-      "sourceGeohash4": "9qfh"
+      "sourceGeohash4": "9qfh",
+      "mediumPath": "_m/9/q/f/h/sutters-mill-wk/american-river-at-sutter-s-mil-medium.webp",
+      "smallPath": "_m/9/q/f/h/sutters-mill-wk/american-river-at-sutter-s-mil-small.webp"
     },
     {
       "filename": "Sutter's Mill (1).JPG",
@@ -233,7 +237,9 @@
       "dateCreated": "2015-06-13 10:34:45",
       "sourceType": "commons-category",
       "sourceArticleId": "sutters-mill-wk",
-      "sourceGeohash4": "9qfh"
+      "sourceGeohash4": "9qfh",
+      "mediumPath": "_m/9/q/f/h/sutters-mill-wk/sutter-s-mill-1-medium.webp",
+      "smallPath": "_m/9/q/f/h/sutters-mill-wk/sutter-s-mill-1-small.webp"
     },
     {
       "filename": "SuttersMill1851.png",
@@ -249,7 +255,8 @@
       "dateCreated": "1882-01-01",
       "sourceType": "commons-category",
       "sourceArticleId": "sutters-mill-wk",
-      "sourceGeohash4": "9qfh"
+      "sourceGeohash4": "9qfh",
+      "smallPath": "_m/9/q/f/h/sutters-mill-wk/suttersmill1851-small.webp"
     },
     {
       "filename": "Cabin at Sutter's Mill.jpg",
@@ -266,7 +273,9 @@
       "dateCreated": "Taken on 30 August 2009, 05:17:53",
       "sourceType": "commons-category",
       "sourceArticleId": "sutters-mill-wk",
-      "sourceGeohash4": "9qfh"
+      "sourceGeohash4": "9qfh",
+      "mediumPath": "_m/9/q/f/h/sutters-mill-wk/cabin-at-sutter-s-mill-medium.webp",
+      "smallPath": "_m/9/q/f/h/sutters-mill-wk/cabin-at-sutter-s-mill-small.webp"
     },
     {
       "filename": "Sutter's Mill, 1851.jpg",
@@ -282,7 +291,8 @@
       "dateCreated": "1907",
       "sourceType": "commons-category",
       "sourceArticleId": "sutters-mill-wk",
-      "sourceGeohash4": "9qfh"
+      "sourceGeohash4": "9qfh",
+      "smallPath": "_m/9/q/f/h/sutters-mill-wk/sutter-s-mill-1851-small.webp"
     },
     {
       "filename": "Marshall Gold Discovery State Historic Park - Aug 2019 - Stierch 07.jpg",
@@ -299,7 +309,9 @@
       "dateCreated": "Taken on 25 August 2019, 10:28:35",
       "sourceType": "commons-category",
       "sourceArticleId": "sutters-mill-wk",
-      "sourceGeohash4": "9qfh"
+      "sourceGeohash4": "9qfh",
+      "mediumPath": "_m/9/q/f/h/sutters-mill-wk/marshall-gold-discovery-state--medium.webp",
+      "smallPath": "_m/9/q/f/h/sutters-mill-wk/marshall-gold-discovery-state--small.webp"
     },
     {
       "filename": "Marshall Gold Discovery State Historic Park - Aug 2019 - Stierch 11.jpg",
@@ -316,7 +328,9 @@
       "dateCreated": "Taken on 25 August 2019, 10:24:16",
       "sourceType": "commons-category",
       "sourceArticleId": "sutters-mill-wk",
-      "sourceGeohash4": "9qfh"
+      "sourceGeohash4": "9qfh",
+      "mediumPath": "_m/9/q/f/h/sutters-mill-wk/marshall-gold-discovery-state--1-medium.webp",
+      "smallPath": "_m/9/q/f/h/sutters-mill-wk/marshall-gold-discovery-state--1-small.webp"
     },
     {
       "filename": "Sutter's Mill.jpg",
@@ -332,7 +346,8 @@
       "dateCreated": "1865-12-30",
       "sourceType": "commons-category",
       "sourceArticleId": "sutters-mill-wk",
-      "sourceGeohash4": "9qfh"
+      "sourceGeohash4": "9qfh",
+      "smallPath": "_m/9/q/f/h/sutters-mill-wk/sutter-s-mill-small.webp"
     },
     {
       "filename": "Sutters Mill Karte.png",
@@ -348,7 +363,8 @@
       "dateCreated": "1888",
       "sourceType": "commons-category",
       "sourceArticleId": "sutters-mill-wk",
-      "sourceGeohash4": "9qfh"
+      "sourceGeohash4": "9qfh",
+      "smallPath": "_m/9/q/f/h/sutters-mill-wk/sutters-mill-karte-small.webp"
     }
   ],
   "galleryPaths": [

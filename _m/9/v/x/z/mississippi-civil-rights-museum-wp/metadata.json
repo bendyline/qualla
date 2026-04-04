@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "mississippi-civil-rights-museum-wp",
     "sourceGeohash4": "9vxz",
-    "smallPath": "_m/9/v/x/z/mississippi-civil-rights-museum-wp/hero-small.jpg",
-    "mediumPath": "_m/9/v/x/z/mississippi-civil-rights-museum-wp/hero-medium.jpg"
+    "smallPath": "_m/9/v/x/z/mississippi-civil-rights-museum-wp/hero-small.webp",
+    "mediumPath": "_m/9/v/x/z/mississippi-civil-rights-museum-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "MS Jackson CivilRightsMuseum.jpg",
@@ -78,8 +78,8 @@
       "sourceType": "core",
       "sourceArticleId": "mississippi-civil-rights-museum-wp",
       "sourceGeohash4": "9vxz",
-      "smallPath": "_m/9/v/x/z/mississippi-civil-rights-museum-wp/haley-barbour-speaking-small.jpg",
-      "mediumPath": "_m/9/v/x/z/mississippi-civil-rights-museum-wp/haley-barbour-speaking-medium.jpg"
+      "smallPath": "_m/9/v/x/z/mississippi-civil-rights-museum-wp/haley-barbour-speaking-small.webp",
+      "mediumPath": "_m/9/v/x/z/mississippi-civil-rights-museum-wp/haley-barbour-speaking-medium.webp"
     },
     {
       "filename": "Hillman Terome Frazier 2009 CROPPED.jpg",
@@ -106,7 +106,7 @@
       "sourceType": "core",
       "sourceArticleId": "mississippi-civil-rights-museum-wp",
       "sourceGeohash4": "9vxz",
-      "smallPath": "_m/9/v/x/z/mississippi-civil-rights-museum-wp/image-has-extracted-an-small.jpg"
+      "smallPath": "_m/9/v/x/z/mississippi-civil-rights-museum-wp/image-has-extracted-an-small.webp"
     },
     {
       "filename": "Jackson December 2018 62 (Museum of Mississippi History and Mississippi Civil Rights Museum).jpg",
@@ -170,7 +170,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "mississippi-civil-rights-museum-wp",
-      "sourceGeohash4": "9vxz"
+      "sourceGeohash4": "9vxz",
+      "mediumPath": "_m/9/v/x/z/mississippi-civil-rights-museum-wp/jackson-december-2018-61-museu-medium.webp",
+      "smallPath": "_m/9/v/x/z/mississippi-civil-rights-museum-wp/jackson-december-2018-61-museu-small.webp"
     },
     {
       "filename": "Museum of Mississippi History & Mississippi Civil Rights Museum.jpg",
@@ -197,7 +199,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "mississippi-civil-rights-museum-wp",
-      "sourceGeohash4": "9vxz"
+      "sourceGeohash4": "9vxz",
+      "mediumPath": "_m/9/v/x/z/mississippi-civil-rights-museum-wp/museum-of-mississippi-history--medium.webp",
+      "smallPath": "_m/9/v/x/z/mississippi-civil-rights-museum-wp/museum-of-mississippi-history--small.webp"
     }
   ],
   "galleryPaths": [
@@ -207,7 +211,6 @@
     "_m/9/v/x/z/mississippi-civil-rights-museum-wp/jackson-december-2018-61-museu.jpg",
     "_m/9/v/x/z/mississippi-civil-rights-museum-wp/museum-of-mississippi-history-.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:27:52.304Z",
   "narration": {
     "files": [
       "9vxz-mississippi-civil-rights-museum-flight-context.mp3",
@@ -225,8 +228,7 @@
       "9vxz-mississippi-civil-rights-museum-the-state-that-had-to-tell-its-own-story.mp3": 68.7365833,
       "9vxz-mississippi-civil-rights-museum-complicated-ground.mp3": 56.3779583
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T12:54:06.010Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T23:27:52.903Z"
 }

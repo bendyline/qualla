@@ -118,14 +118,14 @@
       "distanceKm": 20.4
     },
     "ne": {
-      "id": "trans-labrador-highway-wk",
-      "title": "Trans-Labrador Highway",
-      "tile": "f92m",
+      "id": "chic-chocs-wildlife-reserve-wp",
+      "title": "Chic-Chocs Wildlife Reserve",
+      "tile": "f89n",
       "coordinates": {
-        "lat": 52.95,
-        "lng": -66.9
+        "lat": 48.9375,
+        "lng": -65.83
       },
-      "distanceKm": 574.3
+      "distanceKm": 315.9
     },
     "w": {
       "id": "lake-edward-sanatorium-wp",
@@ -168,14 +168,16 @@
       "distanceKm": 27.5
     },
     "se": {
-      "id": "acadia-wk",
-      "title": "Acadia National Park",
-      "tile": "f83n",
+      "id": "meductic-indian-village-fort-meductic-wp",
+      "title": "Meductic Indian Village / Fort Meductic",
+      "tile": "f80j",
       "coordinates": {
-        "lat": 47.617,
-        "lng": -65.767
+        "lat": 45.9981,
+        "lng": -67.4944
       },
-      "distanceKm": 314.3
+      "distanceKm": 261.6
     }
-  }
+  },
+  "locationWikipediaPath": "f/2/t/b/hautes-gorges-de-la-riviere-malbaie-national-park-wp",
+  "locationWikivoyagePath": "f/2/t/b/hautes-gorges-de-la-riviere-malbaie-national-park-wk"
 }

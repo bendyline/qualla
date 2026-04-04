@@ -26,8 +26,8 @@
     "sourceType": "core",
     "sourceArticleId": "odanak-wp",
     "sourceGeohash4": "f2hn",
-    "mediumPath": "_m/f/2/h/n/odanak-wp/hero-medium.jpg",
-    "smallPath": "_m/f/2/h/n/odanak-wp/hero-small.jpg"
+    "mediumPath": "_m/f/2/h/n/odanak-wp/hero-medium.webp",
+    "smallPath": "_m/f/2/h/n/odanak-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Église Saint-François-de-Sales d'Odanak.jpg",
@@ -78,7 +78,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "odanak-wp",
       "sourceGeohash4": "f2hn",
-      "smallPath": "_m/f/2/h/n/odanak-wp/rue-waban-aki-de-nuit-small.jpg"
+      "smallPath": "_m/f/2/h/n/odanak-wp/rue-waban-aki-de-nuit-small.webp"
     },
     {
       "filename": "Odanak Quebec location diagram.PNG",
@@ -100,7 +100,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "odanak-wp",
       "sourceGeohash4": "f2hn",
-      "smallPath": "_m/f/2/h/n/odanak-wp/odanak-quebec-location-diagram-small.png"
+      "smallPath": "_m/f/2/h/n/odanak-wp/odanak-quebec-location-diagram-small.webp"
     },
     {
       "filename": "AbenakisStopSign.JPG",
@@ -132,8 +132,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "odanak-wp",
       "sourceGeohash4": "f2hn",
-      "mediumPath": "_m/f/2/h/n/odanak-wp/abenakisstopsign-medium.jpg",
-      "smallPath": "_m/f/2/h/n/odanak-wp/abenakisstopsign-small.jpg"
+      "mediumPath": "_m/f/2/h/n/odanak-wp/abenakisstopsign-medium.webp",
+      "smallPath": "_m/f/2/h/n/odanak-wp/abenakisstopsign-small.webp"
     },
     {
       "filename": "Des vannieres d Odanak vers 1920.jpg",
@@ -158,7 +158,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "odanak-wp",
       "sourceGeohash4": "f2hn",
-      "smallPath": "_m/f/2/h/n/odanak-wp/des-vannieres-d-odanak-vers-19-small.jpg"
+      "smallPath": "_m/f/2/h/n/odanak-wp/des-vannieres-d-odanak-vers-19-small.webp"
     },
     {
       "filename": "Parc Eglise Odanak.jpg",
@@ -183,7 +183,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "odanak-wp",
       "sourceGeohash4": "f2hn",
-      "smallPath": "_m/f/2/h/n/odanak-wp/parc-eglise-odanak-small.jpg"
+      "smallPath": "_m/f/2/h/n/odanak-wp/parc-eglise-odanak-small.webp"
     },
     {
       "filename": "Joseph Laurent.jpg",
@@ -200,7 +200,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "odanak-wp",
       "sourceGeohash4": "f2hn",
-      "smallPath": "_m/f/2/h/n/odanak-wp/joseph-laurent-small.jpg"
+      "smallPath": "_m/f/2/h/n/odanak-wp/joseph-laurent-small.webp"
     },
     {
       "filename": "Odanak Vue aérienne 2025.jpg",
@@ -218,8 +218,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "odanak-wp",
       "sourceGeohash4": "f2hn",
-      "mediumPath": "_m/f/2/h/n/odanak-wp/odanak-vue-aerienne-2025-medium.jpg",
-      "smallPath": "_m/f/2/h/n/odanak-wp/odanak-vue-aerienne-2025-small.jpg"
+      "mediumPath": "_m/f/2/h/n/odanak-wp/odanak-vue-aerienne-2025-medium.webp",
+      "smallPath": "_m/f/2/h/n/odanak-wp/odanak-vue-aerienne-2025-small.webp"
     },
     {
       "filename": "Station d'épuration Odanak.jpg",
@@ -237,8 +237,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "odanak-wp",
       "sourceGeohash4": "f2hn",
-      "mediumPath": "_m/f/2/h/n/odanak-wp/station-d-epuration-odanak-medium.jpg",
-      "smallPath": "_m/f/2/h/n/odanak-wp/station-d-epuration-odanak-small.jpg"
+      "mediumPath": "_m/f/2/h/n/odanak-wp/station-d-epuration-odanak-medium.webp",
+      "smallPath": "_m/f/2/h/n/odanak-wp/station-d-epuration-odanak-small.webp"
     }
   ],
   "galleryPaths": [
@@ -251,6 +251,24 @@
     "_m/f/2/h/n/odanak-wp/odanak-vue-aerienne-2025.jpg",
     "_m/f/2/h/n/odanak-wp/station-d-epuration-odanak.jpg"
   ],
-  "fetchedAt": "2026-02-28T14:11:02.993Z",
-  "updatedAt": "2026-02-28T14:11:12.152Z"
+  "updatedAt": "2026-02-28T14:11:12.152Z",
+  "narration": {
+    "files": [
+      "f2hn-odanak-flight-context.mp3",
+      "f2hn-odanak-intro.mp3",
+      "f2hn-odanak-before-the-abenaki-arrived.mp3",
+      "f2hn-odanak-a-fortress-built-by-a-king.mp3",
+      "f2hn-odanak-three-moves-and-a-burning.mp3",
+      "f2hn-odanak-the-people-who-stayed.mp3"
+    ],
+    "durations": {
+      "f2hn-odanak-flight-context.mp3": 49.0556666,
+      "f2hn-odanak-intro.mp3": 55.2685833,
+      "f2hn-odanak-before-the-abenaki-arrived.mp3": 61.768625,
+      "f2hn-odanak-a-fortress-built-by-a-king.mp3": 75.1377916,
+      "f2hn-odanak-three-moves-and-a-burning.mp3": 82.8985416,
+      "f2hn-odanak-the-people-who-stayed.mp3": 81.0643333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

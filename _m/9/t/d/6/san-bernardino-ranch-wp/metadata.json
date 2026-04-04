@@ -28,8 +28,8 @@
     "sourceType": "core",
     "sourceArticleId": "san-bernardino-ranch-wp",
     "sourceGeohash4": "9td6",
-    "smallPath": "_m/9/t/d/6/san-bernardino-ranch-wp/hero-small.jpg",
-    "mediumPath": "_m/9/t/d/6/san-bernardino-ranch-wp/hero-medium.jpg"
+    "smallPath": "_m/9/t/d/6/san-bernardino-ranch-wp/hero-small.webp",
+    "mediumPath": "_m/9/t/d/6/san-bernardino-ranch-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "SAN BERNARDINO RANCH.jpg",
@@ -112,7 +112,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "san-bernardino-ranch-wp",
-      "sourceGeohash4": "9td6"
+      "sourceGeohash4": "9td6",
+      "mediumPath": "_m/9/t/d/6/san-bernardino-ranch-wp/baby-goat-slaughter-ranch-doug-medium.webp",
+      "smallPath": "_m/9/t/d/6/san-bernardino-ranch-wp/baby-goat-slaughter-ranch-doug-small.webp"
     },
     {
       "filename": "Baby goat Slaughter Ranch Douglas AZ 2017-09-27 14-34-28 (37484489080).jpg",
@@ -137,7 +139,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "san-bernardino-ranch-wp",
-      "sourceGeohash4": "9td6"
+      "sourceGeohash4": "9td6",
+      "mediumPath": "_m/9/t/d/6/san-bernardino-ranch-wp/baby-goat-slaughter-ranch-doug-1-medium.webp",
+      "smallPath": "_m/9/t/d/6/san-bernardino-ranch-wp/baby-goat-slaughter-ranch-doug-1-small.webp"
     },
     {
       "filename": "Douglas-San Bernardino Ranch-Slaughter Ranch-2-1893-0.jpg",
@@ -159,7 +163,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "san-bernardino-ranch-wp",
-      "sourceGeohash4": "9td6"
+      "sourceGeohash4": "9td6",
+      "smallPath": "_m/9/t/d/6/san-bernardino-ranch-wp/douglas-san-bernardino-ranch-s-small.webp"
     },
     {
       "filename": "Douglas-San Bernardino Ranch-Slaughter Ranch-0-1893.jpg",
@@ -181,7 +186,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "san-bernardino-ranch-wp",
-      "sourceGeohash4": "9td6"
+      "sourceGeohash4": "9td6",
+      "mediumPath": "_m/9/t/d/6/san-bernardino-ranch-wp/douglas-san-bernardino-ranch-s-1-medium.webp",
+      "smallPath": "_m/9/t/d/6/san-bernardino-ranch-wp/douglas-san-bernardino-ranch-s-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -191,7 +198,6 @@
     "_m/9/t/d/6/san-bernardino-ranch-wp/douglas-san-bernardino-ranch-s.jpg",
     "_m/9/t/d/6/san-bernardino-ranch-wp/douglas-san-bernardino-ranch-s-1.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:08:04.102Z",
   "narration": {
     "files": [
       "9td6-san-bernardino-ranch-flight-context.mp3",
@@ -211,8 +217,7 @@
       "9td6-san-bernardino-ranch-border-war-outpost.mp3": 49.3180833,
       "9td6-san-bernardino-ranch-a-national-landmark-preserved.mp3": 62.4010833
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T00:19:40.421Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:08:05.032Z"
 }

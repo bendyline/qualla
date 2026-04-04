@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "camp-bird-mine-wp",
     "sourceGeohash4": "9wg2",
-    "smallPath": "_m/9/w/g/2/camp-bird-mine-wp/hero-small.jpg",
-    "mediumPath": "_m/9/w/g/2/camp-bird-mine-wp/hero-medium.jpg"
+    "smallPath": "_m/9/w/g/2/camp-bird-mine-wp/hero-small.webp",
+    "mediumPath": "_m/9/w/g/2/camp-bird-mine-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Gold-quartz-sulfide hydrothermal vein (Tertiary; Camp Bird Mine, near Ouray, San Juan Mountains, Colorado, USA) 1 (17127300226).jpg",
@@ -78,13 +78,14 @@
       "dateCreated": "2007-07-29 17:59",
       "sourceType": "commons-category",
       "sourceArticleId": "camp-bird-mine-wp",
-      "sourceGeohash4": "9wg2"
+      "sourceGeohash4": "9wg2",
+      "mediumPath": "_m/9/w/g/2/camp-bird-mine-wp/gold-quartz-sulfide-hydrotherm-medium.webp",
+      "smallPath": "_m/9/w/g/2/camp-bird-mine-wp/gold-quartz-sulfide-hydrotherm-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/w/g/2/camp-bird-mine-wp/gold-quartz-sulfide-hydrotherm.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:52:08.639Z",
   "narration": {
     "files": [
       "9wg2-camp-bird-mine-flight-context.mp3",
@@ -100,8 +101,7 @@
       "9wg2-camp-bird-mine-from-gold-dust-to-the-hope-diamond.mp3": 72.1487083,
       "9wg2-camp-bird-mine-a-mountain-that-wont-stay-quiet.mp3": 66.975625
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T18:09:21.773Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T23:52:16.558Z"
 }

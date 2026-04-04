@@ -25,8 +25,8 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-acton-wp",
     "sourceGeohash4": "cbh8",
-    "smallPath": "_m/c/b/h/8/battle-of-acton-wp/hero-small.jpg",
-    "mediumPath": "_m/c/b/h/8/battle-of-acton-wp/hero-medium.jpg"
+    "smallPath": "_m/c/b/h/8/battle-of-acton-wp/hero-small.webp",
+    "mediumPath": "_m/c/b/h/8/battle-of-acton-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Battle of Acton 1862 Map.png",
@@ -87,14 +87,13 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-acton-wp",
       "sourceGeohash4": "cbh8",
-      "smallPath": "_m/c/b/h/8/battle-of-acton-wp/marker-battle-acton-ac-small.jpg",
-      "mediumPath": "_m/c/b/h/8/battle-of-acton-wp/marker-battle-acton-ac-medium.jpg"
+      "smallPath": "_m/c/b/h/8/battle-of-acton-wp/marker-battle-acton-ac-small.webp",
+      "mediumPath": "_m/c/b/h/8/battle-of-acton-wp/marker-battle-acton-ac-medium.webp"
     }
   ],
   "galleryPaths": [
     "_m/c/b/h/8/battle-of-acton-wp/marker-battle-acton-ac.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:53:34.930Z",
   "narration": {
     "files": [
       "cbh8-battle-of-acton-flight-context.mp3",
@@ -112,7 +111,6 @@
       "cbh8-battle-of-acton-the-running-fight-to-hutchinson.mp3": 65.4135,
       "cbh8-battle-of-acton-what-the-prairie-remembers.mp3": 76.2557083
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T08:54:31.360Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

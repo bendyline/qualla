@@ -1,0 +1,158 @@
+{
+  "id": "silbury-hill-wp",
+  "source": "wikipedia",
+  "sourceId": "175822",
+  "title": "Silbury Hill",
+  "slug": "silbury-hill",
+  "summary": "The largest prehistoric artificial mound in Europe rises from the Wiltshire plains near Avebury -- comparable in volume to the Egyptian pyramids, built with antler picks over fifteen years, and its purpose remains completely unknown.",
+  "content": {
+    "intro": "Nobody knows why Silbury Hill exists. It is the largest prehistoric man-made mound in Europe, standing 39.3 metres above the Wiltshire countryside, and its volume is comparable to the smaller Egyptian pyramids. Archaeologists estimate it took 18 million man-hours to build -- the equivalent of 500 people working for 15 years. They have tunnelled into it, sunk shafts through it, scanned it with seismic instruments, and analysed its construction down to the season it was begun (August, based on the remains of winged ants found in its base layer). And after all of that, the hill keeps its secret. There is no burial chamber, no treasure, no obvious explanation.",
+    "sections": [
+      {
+        "title": "Engineering Without a Blueprint",
+        "body": "Silbury Hill was constructed in several stages during the late Neolithic period. The base is circular, 167 metres in diameter, and the summit is flat-topped at 30 metres across. A smaller initial mound was built first, consisting of a gravel core with a kerb of stakes and sarsen boulders, then progressively enlarged with alternate layers of chalk rubble and earth. The material was excavated from a series of surrounding ditches that were dug, filled, and recut further outward as the mound grew. The precision is remarkable: the centre of the flat top and the centre of the cone lie within a metre of each other. Yet archaeologists Jim Leary and David Field, who studied the mound extensively, concluded that there was no master plan -- the multiple overlapping construction phases suggest almost continuous remodelling, as though the process of building mattered more than the finished product."
+      },
+      {
+        "title": "Centuries of Curiosity",
+        "body": "Silbury Hill has drawn investigators since antiquity. The Roman road from London to Bath swerves around it, proof that the hill predates the road and was too significant to bulldoze. The seventeenth-century antiquarian John Aubrey illustrated it. William Stukeley recorded a skeleton and bridle found during tree planting on the summit in 1723. In 1776, the Duke of Northumberland hired Cornish miners to sink a vertical shaft from the top -- they found nothing. In 1849, a horizontal tunnel was dug from the edge to the centre -- again, nothing of obvious significance. The Wiltshire Archaeological and Natural History Society excavated in 1867, and Professor Richard Atkinson brought BBC Television cameras to the site between 1968 and 1970, revealing environmental evidence but no definitive purpose."
+      },
+      {
+        "title": "Collapse and Conservation",
+        "body": "In May 2002, heavy rain caused the 1776 shaft to collapse, opening a hole in the summit. English Heritage undertook seismic surveys and discovered that the previous excavations had left the hill honeycombed with unstable voids. A major stabilisation programme began in 2007: contractors filled the old tunnels and shafts with hundreds of tonnes of chalk while archaeologists conducted a new survey with modern equipment. The work confirmed that the mound dated convincingly to the Late Neolithic. In 2007, English Heritage also announced the discovery of a Roman village at the foot of the hill, with regularly laid streets and houses -- evidence that the mound continued to attract settlement long after its builders had vanished."
+      },
+      {
+        "title": "Legends and Silence",
+        "body": "In the absence of explanation, stories have filled the void. Local legend holds that Silbury is the resting place of a King Sil, sitting on a golden horse in a golden suit of armour. Another tale, recorded in 1913, says the Devil was carrying a bag of soil to dump on the citizens of Marlborough when the priests of Avebury stopped him, and the dropped bag became the hill. Hundreds of people from surrounding villages once gathered on Silbury's summit every Palm Sunday. Modern theories range from a ceremonial platform elevating a priesthood above the surrounding populace to a component of an intervisible landscape of sightlines connecting Avebury, West Kennet Long Barrow, the Sanctuary, and Windmill Hill. Perhaps the most honest assessment comes from Leary and Field: the purpose cannot be known. The hill is its own answer."
+      }
+    ],
+    "flightContext": "Located at 51.416N, 1.858W on the Wiltshire plains, roughly 1.5km south of Avebury. The flat-topped conical mound is unmistakable from the air, rising abruptly from flat farmland. The A4 road curves around its base. Nearest airports: Membury Airfield approximately 15nm east, Lyneham (EGDL) approximately 10nm west. Best viewed from 1,500-3,000ft."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 51.4156,
+      "lng": -1.8575
+    },
+    "geohash": "gcnsm"
+  },
+  "categories": [
+    "English Heritage sites in Wiltshire",
+    "Artificial hills",
+    "World Heritage Sites in England",
+    "Neolithic sites in Wiltshire"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 740,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 10298
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Silbury Hill - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Silbury_Hill",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Corrected: 'second tallest' changed to 'largest' -- Wikipedia and English Heritage describe it as the largest (not second tallest) prehistoric man-made mound in Europe",
+        "Height 39.3 metres confirmed",
+        "Base diameter 167 metres confirmed",
+        "Flat summit 30 metres across confirmed",
+        "18 million man-hours, 500 people for 15 years confirmed",
+        "August construction start based on winged ant remains confirmed",
+        "No burial chamber found confirmed",
+        "1776 Duke of Northumberland shaft confirmed",
+        "2002 shaft collapse and 2007 stabilisation programme confirmed",
+        "2007 Roman village discovered at foot of hill confirmed",
+        "Jim Leary and David Field conclusion that purpose cannot be known confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "g/c/n/s/silbury-hill-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "tintern-abbey-wp",
+      "title": "Tintern Abbey",
+      "tile": "gcnn",
+      "coordinates": {
+        "lat": 51.697,
+        "lng": -2.68
+      },
+      "distanceKm": 15.2
+    },
+    "n": {
+      "id": "cotswolds-wk",
+      "title": "Cotswolds",
+      "tile": "gcnw",
+      "coordinates": {
+        "lat": 51.761,
+        "lng": -1.888
+      },
+      "distanceKm": 9.6
+    },
+    "ne": {
+      "id": "oxford-castle-wp",
+      "title": "Oxford Castle",
+      "tile": "gcpn",
+      "coordinates": {
+        "lat": 51.7512,
+        "lng": -1.2651
+      },
+      "distanceKm": 12.6
+    },
+    "w": {
+      "id": "clifton-suspension-bridge-wp",
+      "title": "Clifton Suspension Bridge",
+      "tile": "gcnh",
+      "coordinates": {
+        "lat": 51.4545,
+        "lng": -2.6276
+      },
+      "distanceKm": 12.3
+    },
+    "e": {
+      "id": "donnington-castle-wp",
+      "title": "Donnington Castle",
+      "tile": "gcph",
+      "coordinates": {
+        "lat": 51.4197,
+        "lng": -1.3381
+      },
+      "distanceKm": 4.7
+    },
+    "sw": {
+      "id": "glastonbury-abbey-wp",
+      "title": "Glastonbury Abbey",
+      "tile": "gcn4",
+      "coordinates": {
+        "lat": 51.146706,
+        "lng": -2.715006
+      },
+      "distanceKm": 17.7
+    },
+    "s": {
+      "id": "1906-salisbury-rail-crash-wp",
+      "title": "1906 Salisbury Rail Crash",
+      "tile": "gcnd",
+      "coordinates": {
+        "lat": 51.0708,
+        "lng": -1.8042
+      },
+      "distanceKm": 12.8
+    },
+    "se": {
+      "id": "winchester-castle-wp",
+      "title": "Winchester Castle",
+      "tile": "gcp4",
+      "coordinates": {
+        "lat": 51.0618,
+        "lng": -1.32026
+      },
+      "distanceKm": 11.7
+    }
+  }
+}

@@ -89,14 +89,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "gobekli-tepe-wk",
-      "title": "Göbekli Tepe: The Temple Built Before Agriculture",
-      "tile": "syee",
+      "id": "armenian-genocide-memorial-church-der-zor-wp",
+      "title": "Armenian Genocide Memorial Church, Der Zor",
+      "tile": "syk8",
       "coordinates": {
-        "lat": 37.2233,
-        "lng": 38.9224
+        "lat": 35.2019,
+        "lng": 40.083
       },
-      "distanceKm": 580.9
+      "distanceKm": 418.1
     },
     "n": {
       "id": "paikuli-inscription-wp",
@@ -119,14 +119,14 @@
       "distanceKm": 49.2
     },
     "w": {
-      "id": "amman-wk",
-      "title": "Amman",
-      "tile": "sv9t",
+      "id": "dura-europos-church-wp",
+      "title": "Dura-Europos Church",
+      "tile": "syhv",
       "coordinates": {
-        "lat": 31.9454,
-        "lng": 35.9284
+        "lat": 34.745829,
+        "lng": 40.727958
       },
-      "distanceKm": 860.4
+      "distanceKm": 359.3
     },
     "e": {
       "id": "anubanini-rock-relief-wp",
@@ -139,14 +139,14 @@
       "distanceKm": 17.4
     },
     "sw": {
-      "id": "beirut-wk",
-      "title": "Beirut",
-      "tile": "sy12",
+      "id": "baalbek-wp",
+      "title": "Baalbek",
+      "tile": "sy19",
       "coordinates": {
-        "lat": 33.886944444444,
-        "lng": 35.513055555556
+        "lat": 34.006111,
+        "lng": 36.208611
       },
-      "distanceKm": 842.2
+      "distanceKm": 777.1
     },
     "s": {
       "id": "musab-bin-umair-mosque-massacre-wp",
@@ -168,5 +168,6 @@
       },
       "distanceKm": 90.3
     }
-  }
+  },
+  "locationWikipediaPath": "t/n/0/h/sherwana-castle-wp"
 }

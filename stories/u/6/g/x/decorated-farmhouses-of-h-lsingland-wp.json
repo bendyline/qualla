@@ -82,24 +82,34 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "north-iceland-wk",
-      "title": "North Iceland",
-      "tile": "geej",
+      "id": "union-between-sweden-and-norway-wp",
+      "title": "Union between Sweden and Norway",
+      "tile": "u70d",
       "coordinates": {
-        "lat": 65.61068,
-        "lng": -18.04504
+        "lat": 62.232313,
+        "lng": 12.282477
       },
-      "distanceKm": 1684.8
+      "distanceKm": 184.9
     },
     "n": {
-      "id": "laki-eruption-wk",
-      "title": "The Laki Eruption: The Volcano That Changed World History",
-      "tile": "ge7h",
+      "id": "king-chulalongkorn-memorial-building-wp",
+      "title": "King Chulalongkorn Memorial Building",
+      "tile": "u75y",
       "coordinates": {
-        "lat": 64.0667,
-        "lng": -18.2333
+        "lat": 62.955833,
+        "lng": 16.676389
       },
-      "distanceKm": 1734.5
+      "distanceKm": 102
+    },
+    "ne": {
+      "id": "harnosand-cathedral-wp",
+      "title": "Härnösand Cathedral",
+      "tile": "u7hu",
+      "coordinates": {
+        "lat": 62.63111111,
+        "lng": 17.94166667
+      },
+      "distanceKm": 84.8
     },
     "w": {
       "id": "vasaloppet-wp",
@@ -112,14 +122,14 @@
       "distanceKm": 153.7
     },
     "e": {
-      "id": "dannemora-mine-wp",
-      "title": "Dannemora Mine",
-      "tile": "u6sw",
+      "id": "ytterlannas-old-church-wp",
+      "title": "Ytterlannas Old Church",
+      "tile": "u7hw",
       "coordinates": {
-        "lat": 60.20277777777778,
-        "lng": 17.8625
+        "lat": 63.0064,
+        "lng": 17.7075
       },
-      "distanceKm": 184
+      "distanceKm": 142.2
     },
     "sw": {
       "id": "falun-mine-wp",
@@ -154,5 +164,6 @@
   },
   "keywords": [
     "decorated-farmhouses-of-h-lsingland"
-  ]
+  ],
+  "locationWikipediaPath": "u/6/g/x/decorated-farmhouses-of-halsingland-wp"
 }

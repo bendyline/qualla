@@ -36,8 +36,8 @@
     "sourceType": "core",
     "sourceArticleId": "montreal-locomotive-works-wp",
     "sourceGeohash4": "f25e",
-    "mediumPath": "_m/f/2/5/e/montreal-locomotive-works-wp/hero-medium.jpg",
-    "smallPath": "_m/f/2/5/e/montreal-locomotive-works-wp/hero-small.jpg"
+    "mediumPath": "_m/f/2/5/e/montreal-locomotive-works-wp/hero-medium.webp",
+    "smallPath": "_m/f/2/5/e/montreal-locomotive-works-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "S3DieselElectricLocomotiveSRM.jpg",
@@ -101,7 +101,7 @@
       "sourceType": "core",
       "sourceArticleId": "montreal-locomotive-works-wp",
       "sourceGeohash4": "f25e",
-      "smallPath": "_m/f/2/5/e/montreal-locomotive-works-wp/montreal-locomotive-wo-small.jpg"
+      "smallPath": "_m/f/2/5/e/montreal-locomotive-works-wp/montreal-locomotive-wo-small.webp"
     },
     {
       "filename": "A460mth1.jpg",
@@ -127,7 +127,7 @@
       "sourceType": "core",
       "sourceArticleId": "montreal-locomotive-works-wp",
       "sourceGeohash4": "f25e",
-      "smallPath": "_m/f/2/5/e/montreal-locomotive-works-wp/ose-s-a-460-thessaloni-small.jpg"
+      "smallPath": "_m/f/2/5/e/montreal-locomotive-works-wp/ose-s-a-460-thessaloni-small.webp"
     },
     {
       "filename": "Tank Ram, Montreal Locomotive Works.png",
@@ -154,7 +154,7 @@
       "sourceType": "core",
       "sourceArticleId": "montreal-locomotive-works-wp",
       "sourceGeohash4": "f25e",
-      "smallPath": "_m/f/2/5/e/montreal-locomotive-works-wp/presentation-de-chars-small.png"
+      "smallPath": "_m/f/2/5/e/montreal-locomotive-works-wp/presentation-de-chars-small.webp"
     },
     {
       "filename": "Locomotora de vapor 709 de Ferrocarriles del Estado. Museo Ferroviario de Santiago. Chile.jpg",
@@ -183,8 +183,8 @@
       "sourceType": "core",
       "sourceArticleId": "montreal-locomotive-works-wp",
       "sourceGeohash4": "f25e",
-      "mediumPath": "_m/f/2/5/e/montreal-locomotive-works-wp/locomotive-709-type-70-medium.jpg",
-      "smallPath": "_m/f/2/5/e/montreal-locomotive-works-wp/locomotive-709-type-70-small.jpg"
+      "mediumPath": "_m/f/2/5/e/montreal-locomotive-works-wp/locomotive-709-type-70-medium.webp",
+      "smallPath": "_m/f/2/5/e/montreal-locomotive-works-wp/locomotive-709-type-70-small.webp"
     }
   ],
   "galleryPaths": [
@@ -193,5 +193,25 @@
     "_m/f/2/5/e/montreal-locomotive-works-wp/presentation-de-chars.png",
     "_m/f/2/5/e/montreal-locomotive-works-wp/locomotive-709-type-70.jpg"
   ],
-  "fetchedAt": "2026-02-28T13:57:47.409Z"
+  "narration": {
+    "files": [
+      "f25e-montreal-locomotive-works-flight-context.mp3",
+      "f25e-montreal-locomotive-works-intro.mp3",
+      "f25e-montreal-locomotive-works-smoke-and-steel-on-the-st-lawrence.mp3",
+      "f25e-montreal-locomotive-works-tanks-on-the-assembly-line.mp3",
+      "f25e-montreal-locomotive-works-the-diesel-revolution.mp3",
+      "f25e-montreal-locomotive-works-five-owners-and-the-safety-cab.mp3",
+      "f25e-montreal-locomotive-works-rubble-on-dickson-street.mp3"
+    ],
+    "durations": {
+      "f25e-montreal-locomotive-works-flight-context.mp3": 56.065375,
+      "f25e-montreal-locomotive-works-intro.mp3": 57.5674583,
+      "f25e-montreal-locomotive-works-smoke-and-steel-on-the-st-lawrence.mp3": 64.482625,
+      "f25e-montreal-locomotive-works-tanks-on-the-assembly-line.mp3": 48.2304166,
+      "f25e-montreal-locomotive-works-the-diesel-revolution.mp3": 59.7782083,
+      "f25e-montreal-locomotive-works-five-owners-and-the-safety-cab.mp3": 75.7725833,
+      "f25e-montreal-locomotive-works-rubble-on-dickson-street.mp3": 70.6624583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

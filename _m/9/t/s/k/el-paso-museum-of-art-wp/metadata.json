@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "el-paso-museum-of-art-wp",
     "sourceGeohash4": "9tsk",
-    "smallPath": "_m/9/t/s/k/el-paso-museum-of-art-wp/hero-small.jpg",
-    "mediumPath": "_m/9/t/s/k/el-paso-museum-of-art-wp/hero-medium.jpg"
+    "smallPath": "_m/9/t/s/k/el-paso-museum-of-art-wp/hero-small.webp",
+    "mediumPath": "_m/9/t/s/k/el-paso-museum-of-art-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "El Paso Museum of Art. El Paso, Texas.jpg",
@@ -74,8 +74,8 @@
       "sourceType": "core",
       "sourceArticleId": "el-paso-museum-of-art-wp",
       "sourceGeohash4": "9tsk",
-      "smallPath": "_m/9/t/s/k/el-paso-museum-of-art-wp/children-interacting-e-small.jpg",
-      "mediumPath": "_m/9/t/s/k/el-paso-museum-of-art-wp/children-interacting-e-medium.jpg"
+      "smallPath": "_m/9/t/s/k/el-paso-museum-of-art-wp/children-interacting-e-small.webp",
+      "mediumPath": "_m/9/t/s/k/el-paso-museum-of-art-wp/children-interacting-e-medium.webp"
     },
     {
       "filename": "'Abraham Lincoln', bronze bust by Leonard Wells Volk, 1860, El Paso Museum of Art.JPG",
@@ -98,14 +98,14 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "el-paso-museum-of-art-wp",
-      "sourceGeohash4": "9tsk"
+      "sourceGeohash4": "9tsk",
+      "smallPath": "_m/9/t/s/k/el-paso-museum-of-art-wp/abraham-lincoln-bronze-bust-by-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/t/s/k/el-paso-museum-of-art-wp/children-interacting-e.jpg",
     "_m/9/t/s/k/el-paso-museum-of-art-wp/abraham-lincoln-bronze-bust-by.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:21:01.308Z",
   "narration": {
     "files": [
       "9tsk-renaissance-masters-in-the-desert-flight-context.mp3",
@@ -125,8 +125,7 @@
       "9tsk-renaissance-masters-in-the-desert-a-new-home.mp3": 52.7757916,
       "9tsk-renaissance-masters-in-the-desert-the-only-one-for-250-miles.mp3": 52.7135833
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T02:56:47.191Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:21:01.758Z"
 }

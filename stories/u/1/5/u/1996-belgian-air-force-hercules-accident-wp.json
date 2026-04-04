@@ -131,14 +131,14 @@
       "distanceKm": 41.5
     },
     "e": {
-      "id": "zwingenberg-castle-wp",
-      "title": "Zwingenberg Castle",
-      "tile": "u0y3",
+      "id": "fort-jeanne-d-arc-wp",
+      "title": "Fort Jeanne d'Arc",
+      "tile": "u0sr",
       "coordinates": {
-        "lat": 49.42194,
-        "lng": 9.03333
+        "lat": 49.1168,
+        "lng": 6.06701
       },
-      "distanceKm": 309.9
+      "distanceKm": 255.7
     },
     "sw": {
       "id": "mechelen-transit-camp-wp",
@@ -173,5 +173,6 @@
   },
   "keywords": [
     "1996-belgian-air-force-hercules-accident"
-  ]
+  ],
+  "locationWikipediaPath": "u/1/5/u/1996-belgian-air-force-hercules-accident-wp"
 }

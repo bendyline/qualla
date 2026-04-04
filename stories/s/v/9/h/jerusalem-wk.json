@@ -88,44 +88,44 @@
   "locationWikivoyagePath": "s/v/9/h/jerusalem-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "tel-aviv-wk",
-      "title": "Tel Aviv",
+      "id": "battle-of-jaffa-1192-wp",
+      "title": "Battle of Jaffa (1192)",
       "tile": "sv8w",
       "coordinates": {
-        "lat": 32.0853,
-        "lng": 34.7818
+        "lat": 32.05440833,
+        "lng": 34.75164444
       },
-      "distanceKm": 10.6
+      "distanceKm": 8.5
     },
     "n": {
-      "id": "rosh-haniqra-wk",
-      "title": "Rosh Haniqra",
-      "tile": "svbu",
+      "id": "joseph-s-tomb-wp",
+      "title": "Joseph's Tomb",
+      "tile": "sv9p",
       "coordinates": {
-        "lat": 33.0833,
-        "lng": 35.1167
+        "lat": 32.2126898,
+        "lng": 35.2854733
       },
-      "distanceKm": 123
+      "distanceKm": 24.9
     },
     "ne": {
-      "id": "gobekli-tepe-wk",
-      "title": "Göbekli Tepe: The Temple Built Before Agriculture",
-      "tile": "syee",
+      "id": "temple-of-bacchus-wp",
+      "title": "Temple of Bacchus",
+      "tile": "sy19",
       "coordinates": {
-        "lat": 37.2233,
-        "lng": 38.9224
+        "lat": 34.006066666667,
+        "lng": 36.203944444444
       },
-      "distanceKm": 645.6
+      "distanceKm": 226.2
     },
     "w": {
-      "id": "varosha-wk",
-      "title": "Varosha: The Ghost Resort of Cyprus",
-      "tile": "sy0p",
+      "id": "bauhaus-center-tel-aviv-wp",
+      "title": "Bauhaus Center Tel Aviv",
+      "tile": "sv8w",
       "coordinates": {
-        "lat": 35.1178,
-        "lng": 33.9522
+        "lat": 32.076666666667,
+        "lng": 34.774444444444
       },
-      "distanceKm": 385.1
+      "distanceKm": 38.8
     },
     "e": {
       "id": "amman-wk",
@@ -138,24 +138,24 @@
       "distanceKm": 25
     },
     "sw": {
-      "id": "great-sphinx-wk",
-      "title": "The Great Sphinx: The Face That Has Been Staring at the Sunrise for 4,500 Years",
-      "tile": "stq4",
+      "id": "battle-of-beersheba-1917-wp",
+      "title": "Battle of Beersheba (1917)",
+      "tile": "sv89",
       "coordinates": {
-        "lat": 29.9753,
-        "lng": 31.1376
+        "lat": 31.25,
+        "lng": 34.8
       },
-      "distanceKm": 387.7
+      "distanceKm": 23.9
     },
     "s": {
-      "id": "great-pyramid-wk",
-      "title": "The Great Pyramid: The Monument That Shouldn't Exist",
-      "tile": "stq4",
+      "id": "siege-of-masada-wp",
+      "title": "Siege of Masada",
+      "tile": "sv94",
       "coordinates": {
-        "lat": 29.9792,
-        "lng": 31.1342
+        "lat": 31.315556,
+        "lng": 35.353611
       },
-      "distanceKm": 433.9
+      "distanceKm": 16.7
     },
     "se": {
       "id": "ancient-mesopotamia-wk",

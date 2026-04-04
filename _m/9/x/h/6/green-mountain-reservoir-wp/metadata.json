@@ -30,8 +30,8 @@
     "sourceType": "core",
     "sourceArticleId": "green-mountain-reservoir-wp",
     "sourceGeohash4": "9xh6",
-    "smallPath": "_m/9/x/h/6/green-mountain-reservoir-wp/hero-small.jpg",
-    "mediumPath": "_m/9/x/h/6/green-mountain-reservoir-wp/hero-medium.jpg"
+    "smallPath": "_m/9/x/h/6/green-mountain-reservoir-wp/hero-small.webp",
+    "mediumPath": "_m/9/x/h/6/green-mountain-reservoir-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Green Mountain Reservoir aerial view, June 2017.JPG",
@@ -90,7 +90,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "green-mountain-reservoir-wp",
-      "sourceGeohash4": "9xh6"
+      "sourceGeohash4": "9xh6",
+      "smallPath": "_m/9/x/h/6/green-mountain-reservoir-wp/dscn2931-heeney-e-600-small.webp"
     },
     {
       "filename": "Green Mountain Reservoir.JPG",
@@ -116,7 +117,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "green-mountain-reservoir-wp",
-      "sourceGeohash4": "9xh6"
+      "sourceGeohash4": "9xh6",
+      "mediumPath": "_m/9/x/h/6/green-mountain-reservoir-wp/green-mountain-reservoir-medium.webp",
+      "smallPath": "_m/9/x/h/6/green-mountain-reservoir-wp/green-mountain-reservoir-small.webp"
     },
     {
       "filename": "Heeney, Colorado.JPG",
@@ -140,7 +143,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "green-mountain-reservoir-wp",
-      "sourceGeohash4": "9xh6"
+      "sourceGeohash4": "9xh6",
+      "mediumPath": "_m/9/x/h/6/green-mountain-reservoir-wp/heeney-colorado-medium.webp",
+      "smallPath": "_m/9/x/h/6/green-mountain-reservoir-wp/heeney-colorado-small.webp"
     }
   ],
   "galleryPaths": [
@@ -148,24 +153,22 @@
     "_m/9/x/h/6/green-mountain-reservoir-wp/green-mountain-reservoir.jpg",
     "_m/9/x/h/6/green-mountain-reservoir-wp/heeney-colorado.jpg"
   ],
-  "fetchedAt": "2026-02-22T00:29:53.362Z",
   "narration": {
     "files": [
       "9xh6-green-mountain-reservoir-flight-context.mp3",
       "9xh6-green-mountain-reservoir-intro.mp3",
-      "9xh6-green-mountain-reservoir-mountain-setting.mp3",
+      "9xh6-green-mountain-reservoir-the-great-compromise.mp3",
       "9xh6-green-mountain-reservoir-power-and-recreation.mp3",
-      "9xh6-green-mountain-reservoir-the-great-compromise.mp3"
+      "9xh6-green-mountain-reservoir-mountain-setting.mp3"
     ],
     "durations": {
-      "9xh6-green-mountain-reservoir-flight-context.mp3": 59.736,
-      "9xh6-green-mountain-reservoir-intro.mp3": 32.064,
-      "9xh6-green-mountain-reservoir-mountain-setting.mp3": 30.528,
-      "9xh6-green-mountain-reservoir-power-and-recreation.mp3": 32.52,
-      "9xh6-green-mountain-reservoir-the-great-compromise.mp3": 40.44
+      "9xh6-green-mountain-reservoir-flight-context.mp3": 33.91025,
+      "9xh6-green-mountain-reservoir-intro.mp3": 28.9473333,
+      "9xh6-green-mountain-reservoir-the-great-compromise.mp3": 40.6045,
+      "9xh6-green-mountain-reservoir-power-and-recreation.mp3": 34.7428333,
+      "9xh6-green-mountain-reservoir-mountain-setting.mp3": 29.5779583
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:56.868Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T00:29:54.149Z"
 }

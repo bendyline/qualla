@@ -89,14 +89,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "takeda-castle-wp",
+      "title": "Takeda Castle",
+      "tile": "wyrb",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 35.3005,
+        "lng": 134.829
       },
-      "distanceKm": 1236.2
+      "distanceKm": 38.8
     },
     "n": {
       "id": "chitose-kurumazuka-kofun-wp",
@@ -119,14 +119,14 @@
       "distanceKm": 20.7
     },
     "w": {
-      "id": "tangshan-earthquake-wk",
-      "title": "The Tangshan Earthquake: The Deadliest Quake of the 20th Century",
-      "tile": "wxh1",
+      "id": "himeji-wk",
+      "title": "Himeji",
+      "tile": "wypy",
       "coordinates": {
-        "lat": 39.6292,
-        "lng": 118.1742
+        "lat": 34.81516666666667,
+        "lng": 134.6853888888889
       },
-      "distanceKm": 1584.7
+      "distanceKm": 30.7
     },
     "e": {
       "id": "iga-ueno-castle-wp",
@@ -139,14 +139,14 @@
       "distanceKm": 8.9
     },
     "sw": {
-      "id": "hong-kong-wk",
-      "title": "Hong Kong",
-      "tile": "wecn",
+      "id": "shikoku-pilgrimage-wp",
+      "title": "Shikoku Pilgrimage",
+      "tile": "wypd",
       "coordinates": {
-        "lat": 22.27,
-        "lng": 114.17
+        "lat": 34.159803,
+        "lng": 134.502592
       },
-      "distanceKm": 2439.2
+      "distanceKm": 56.1
     },
     "s": {
       "id": "kong-ji-wp",
@@ -168,5 +168,6 @@
       },
       "distanceKm": 63.8
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/0/m/2021-osaka-building-fire-wp"
 }

@@ -23,7 +23,7 @@
     "sourceType": "core",
     "sourceArticleId": "polish-cemetery-in-bandar-e-anzali-wp",
     "sourceGeohash4": "tnej",
-    "smallPath": "_m/t/n/e/j/polish-cemetery-in-bandar-e-anzali-wp/hero-small.jpg"
+    "smallPath": "_m/t/n/e/j/polish-cemetery-in-bandar-e-anzali-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Anzali cementery2 Barry Kent.jpg",
@@ -77,7 +77,7 @@
       "sourceType": "core",
       "sourceArticleId": "polish-cemetery-in-bandar-e-anzali-wp",
       "sourceGeohash4": "tnej",
-      "smallPath": "_m/t/n/e/j/polish-cemetery-in-bandar-e-anzali-wp/polish-cementery-banda-small.jpg"
+      "smallPath": "_m/t/n/e/j/polish-cemetery-in-bandar-e-anzali-wp/polish-cementery-banda-small.webp"
     },
     {
       "filename": "Anzali cementery3 Barry Kent.jpg",
@@ -102,7 +102,7 @@
       "sourceType": "core",
       "sourceArticleId": "polish-cemetery-in-bandar-e-anzali-wp",
       "sourceGeohash4": "tnej",
-      "smallPath": "_m/t/n/e/j/polish-cemetery-in-bandar-e-anzali-wp/polish-cementery-banda-1-small.jpg"
+      "smallPath": "_m/t/n/e/j/polish-cemetery-in-bandar-e-anzali-wp/polish-cementery-banda-1-small.webp"
     },
     {
       "filename": "Anzali cementery4 Barry Kent.jpg",
@@ -128,7 +128,7 @@
       "sourceType": "core",
       "sourceArticleId": "polish-cemetery-in-bandar-e-anzali-wp",
       "sourceGeohash4": "tnej",
-      "smallPath": "_m/t/n/e/j/polish-cemetery-in-bandar-e-anzali-wp/polish-cementery-banda-2-small.jpg"
+      "smallPath": "_m/t/n/e/j/polish-cemetery-in-bandar-e-anzali-wp/polish-cementery-banda-2-small.webp"
     }
   ],
   "galleryPaths": [
@@ -136,5 +136,23 @@
     "_m/t/n/e/j/polish-cemetery-in-bandar-e-anzali-wp/polish-cementery-banda-1.jpg",
     "_m/t/n/e/j/polish-cemetery-in-bandar-e-anzali-wp/polish-cementery-banda-2.jpg"
   ],
-  "fetchedAt": "2026-03-01T13:54:01.055Z"
+  "narration": {
+    "files": [
+      "tnej-polish-cemetery-in-bandar-e-anzali-flight-context.mp3",
+      "tnej-polish-cemetery-in-bandar-e-anzali-intro.mp3",
+      "tnej-polish-cemetery-in-bandar-e-anzali-the-long-road-from-siberia.mp3",
+      "tnej-polish-cemetery-in-bandar-e-anzali-landfall-on-the-caspian.mp3",
+      "tnej-polish-cemetery-in-bandar-e-anzali-stones-and-names.mp3",
+      "tnej-polish-cemetery-in-bandar-e-anzali-irans-forgotten-hospitality.mp3"
+    ],
+    "durations": {
+      "tnej-polish-cemetery-in-bandar-e-anzali-flight-context.mp3": 48.7320833,
+      "tnej-polish-cemetery-in-bandar-e-anzali-intro.mp3": 56.377125,
+      "tnej-polish-cemetery-in-bandar-e-anzali-the-long-road-from-siberia.mp3": 63.39875,
+      "tnej-polish-cemetery-in-bandar-e-anzali-landfall-on-the-caspian.mp3": 65.9044583,
+      "tnej-polish-cemetery-in-bandar-e-anzali-stones-and-names.mp3": 65.847375,
+      "tnej-polish-cemetery-in-bandar-e-anzali-irans-forgotten-hospitality.mp3": 60.05525
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

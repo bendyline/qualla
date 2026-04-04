@@ -27,8 +27,8 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-medina-ridge-wp",
     "sourceGeohash4": "tj37",
-    "mediumPath": "_m/t/j/3/7/battle-of-medina-ridge-wp/hero-medium.jpg",
-    "smallPath": "_m/t/j/3/7/battle-of-medina-ridge-wp/hero-small.jpg"
+    "mediumPath": "_m/t/j/3/7/battle-of-medina-ridge-wp/hero-medium.webp",
+    "smallPath": "_m/t/j/3/7/battle-of-medina-ridge-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Abrams in formation.jpg",
@@ -60,5 +60,25 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T07:09:59.228Z"
+  "narration": {
+    "files": [
+      "tj37-battle-of-medina-ridge-flight-context.mp3",
+      "tj37-battle-of-medina-ridge-intro.mp3",
+      "tj37-battle-of-medina-ridge-three-thousand-vehicles-moving-east.mp3",
+      "tj37-battle-of-medina-ridge-the-reverse-slope.mp3",
+      "tj37-battle-of-medina-ridge-two-hours-on-the-ridge.mp3",
+      "tj37-battle-of-medina-ridge-what-the-iraqis-managed.mp3",
+      "tj37-battle-of-medina-ridge-the-ridge-that-disappeared.mp3"
+    ],
+    "durations": {
+      "tj37-battle-of-medina-ridge-flight-context.mp3": 42.376125,
+      "tj37-battle-of-medina-ridge-intro.mp3": 46.941875,
+      "tj37-battle-of-medina-ridge-three-thousand-vehicles-moving-east.mp3": 67.201375,
+      "tj37-battle-of-medina-ridge-the-reverse-slope.mp3": 58.28225,
+      "tj37-battle-of-medina-ridge-two-hours-on-the-ridge.mp3": 72.0445,
+      "tj37-battle-of-medina-ridge-what-the-iraqis-managed.mp3": 63.0030416,
+      "tj37-battle-of-medina-ridge-the-ridge-that-disappeared.mp3": 67.0094166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

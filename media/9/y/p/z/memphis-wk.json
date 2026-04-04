@@ -25,7 +25,9 @@
         "sourceType": "core",
         "sourceArticleId": "memphis-wk",
         "sourceGeohash4": "9ypz",
-        "accessedAt": "2026-02-22T01:10:00.539Z"
+        "accessedAt": "2026-02-22T01:10:00.539Z",
+        "mediumPath": "_m/9/y/p/z/memphis-wk/hero-medium.webp",
+        "smallPath": "_m/9/y/p/z/memphis-wk/hero-small.webp"
       },
       "images": [
         {
@@ -293,7 +295,8 @@
           "sourceType": "core",
           "sourceArticleId": "memphis-wk",
           "sourceGeohash4": "9ypz",
-          "accessedAt": "2026-02-22T01:10:00.539Z"
+          "accessedAt": "2026-02-22T01:10:00.539Z",
+          "smallPath": "_m/9/y/p/z/memphis-wk/hero-small.webp"
         },
         {
           "path": "_m/9/y/p/z/memphis-wk/hero.jpg",
@@ -550,8 +553,8 @@
             "PD France",
             "Roman Egypt"
           ],
-          "smallPath": "_m/9/y/p/z/memphis-wk/monnaie-tetradrachme-argent-ty-small.jpg",
-          "mediumPath": "_m/9/y/p/z/memphis-wk/monnaie-tetradrachme-argent-ty-medium.jpg"
+          "smallPath": "_m/9/y/p/z/memphis-wk/monnaie-tetradrachme-argent-ty-small.webp",
+          "mediumPath": "_m/9/y/p/z/memphis-wk/monnaie-tetradrachme-argent-ty-medium.webp"
         },
         {
           "path": "_m/9/y/p/z/memphis-wk/monnaie-tetradrachme-argent-ty-1.jpg",
@@ -579,8 +582,8 @@
             "PD France",
             "Roman Egypt"
           ],
-          "smallPath": "_m/9/y/p/z/memphis-wk/monnaie-tetradrachme-argent-ty-1-small.jpg",
-          "mediumPath": "_m/9/y/p/z/memphis-wk/monnaie-tetradrachme-argent-ty-1-medium.jpg"
+          "smallPath": "_m/9/y/p/z/memphis-wk/monnaie-tetradrachme-argent-ty-1-small.webp",
+          "mediumPath": "_m/9/y/p/z/memphis-wk/monnaie-tetradrachme-argent-ty-1-medium.webp"
         },
         {
           "path": "_m/9/y/p/z/hernando-de-soto-bridge-wp/hernando-de-soto-bridge-memphi.jpg",
@@ -682,7 +685,8 @@
             "Tunica Resorts, Mississippi"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/y/p/z/memphis-wk/9ypz-memphis-combined.mp3"
     }
   }
 }

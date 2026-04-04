@@ -1,0 +1,150 @@
+{
+  "id": "mussel-point-wp",
+  "source": "wikipedia",
+  "sourceId": "44107912",
+  "title": "Mussel Point",
+  "slug": "mussel-point",
+  "summary": "A massive shell midden on South Africa's West Coast preserves 2,500 years of San hunter-gatherer ingenuity in layers of mussel, bone, and stone.",
+  "content": {
+    "intro": "Somewhere beneath the surface of this windswept headland between Elands Bay and Lamberts Bay, the shells start about a meter down and do not stop. Mussel Point -- known to archaeologists as Mike Taylor's Midden -- is possibly the largest of thirteen megamiddens scattered along South Africa's Atlantic coast, a heap of discarded shells so vast it stretches 350 meters long and 200 meters wide. What looks like geology is actually biography: a record of how San hunter-gatherers lived, ate, and adapted over more than a thousand years of coastal life.",
+    "sections": [
+      {
+        "title": "An Archive Written in Shell",
+        "body": "Megamiddens are not ordinary refuse piles. They are enormous accumulations of marine shells -- primarily mussels, but also barnacles, whelks, and limpets -- mixed with tortoise shell, fish bones, and bird remains. Thirteen of these sites dot the West Coast, but Mussel Point stands apart for its density and chronological precision. Most of its deposits date to a concentrated window between 2,100 and 2,500 years before present, making it the best-resolved record of this unique period in South Africa's precolonial past. For archaeologists trying to understand the Later Stone Age, these compressed layers offer something rare: a high-resolution timeline of daily life along one stretch of ancient shoreline."
+      },
+      {
+        "title": "The People Who Built the Mound",
+        "body": "Between 3,000 and 1,800 years ago, the San communities living along this coast faced overlapping pressures -- environmental shifts, population changes, the arrival of herding peoples from the north. The megamiddens represent their response: a sustained, intensive exploitation of intertidal resources that scholars are still debating. Were these sites occupied year-round or seasonally? Did they represent territorial claims on productive stretches of coast? The answers lie somewhere in the stratigraphy, where each layer of crushed shell records a decision made by people navigating a world in flux. What is clear is that these were not desperate measures. The scale and duration of the middens suggest organized, effective subsistence strategies that sustained communities for over a millennium."
+      },
+      {
+        "title": "Reading the Layers",
+        "body": "The site dates broadly from 980 to 2,800 years before present, though the densest occupation falls within a narrower band. Within those layers, archaeologists since the 1970s have recovered not just shells but evidence of broader lifeways -- the tools used to pry limpets from rocks, the bones of fish caught in tidal pools, the remains of tortoises collected from the coastal scrub. Each artifact category tells its own story of resource use, seasonality, and technological choice. The preservation is good enough to fuel a significant scholarly debate about what the megamiddens ultimately mean: were they the product of abundance or scarcity, of cultural tradition or ecological necessity? The site's Grade II heritage status under South African law reflects its importance to answering those questions."
+      },
+      {
+        "title": "A Fragile Monument",
+        "body": "From the air, Mussel Point does not announce itself the way a ruin or a monument might. The midden is subtle -- a low rise in the coastal landscape, its surface scattered with bleached fragments. But its scientific significance is outsized. As the only open-air site in the Elands Bay and Lamberts Bay area with remains from the early pottery period, it bridges two eras of human history on this coast. The protection it receives under South African heritage law acknowledges what the shells themselves testify: that this headland was, for centuries, a place where people thrived on the edge of a cold ocean, leaving behind a record that grows more legible with every season of careful excavation."
+      }
+    ],
+    "flightContext": "Mussel Point sits at 32.34S, 18.32E on the West Coast north of Elands Bay. From altitude, the coastline here is a rugged strip between the cold Atlantic and the low Sandveld scrub. The midden itself is not visually prominent from the air, but the headland is identifiable between Elands Bay to the south and Lamberts Bay to the north. Nearest airfield is Lamberts Bay (no ICAO). Cape Town International (FACT) is approximately 250 km to the south."
+  },
+  "location": {
+    "coordinates": {
+      "lat": -32.3367,
+      "lng": 18.3164
+    },
+    "geohash": "k6m00"
+  },
+  "categories": [
+    "Shell middens",
+    "Protected areas of South Africa",
+    "Archaeological sites in South Africa"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-09T00:00:00Z",
+    "wordCount": 650,
+    "readTime": 4,
+    "firstPublished": "2026-03-09T00:00:00Z",
+    "storyNumber": 7405
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Mussel Point - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mussel_Point",
+      "accessedAt": "2026-03-12",
+      "claimsVerified": [
+        "Midden known as 'Mike Taylor's Midden'",
+        "Site dates broadly 980 to 2,800 years before present",
+        "Densest occupation 2,100 to 2,500 years BP",
+        "Grade II heritage status confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "namaqua-national-park-wp",
+      "title": "Namaqua National Park",
+      "tile": "k6st",
+      "coordinates": {
+        "lat": -30.0433,
+        "lng": 17.5861
+      },
+      "distanceKm": 219.2
+    },
+    "n": {
+      "id": "heerenlogement-wp",
+      "title": "Heerenlogement",
+      "tile": "k6m4",
+      "coordinates": {
+        "lat": -31.962728,
+        "lng": 18.55285
+      },
+      "distanceKm": 9.6
+    },
+    "ne": {
+      "id": "oorlogskloof-nature-reserve-wp",
+      "title": "Oorlogskloof Nature Reserve",
+      "tile": "k6mt",
+      "coordinates": {
+        "lat": -31.45,
+        "lng": 19.15
+      },
+      "distanceKm": 62.3
+    },
+    "w": {
+      "id": "paternoster-wk",
+      "title": "Paternoster",
+      "tile": "k6ht",
+      "coordinates": {
+        "lat": -32.809207,
+        "lng": 17.88557
+      },
+      "distanceKm": 61.7
+    },
+    "e": {
+      "id": "cederberg-wp",
+      "title": "Cederberg",
+      "tile": "k6m8",
+      "coordinates": {
+        "lat": -32.3333,
+        "lng": 19.0833
+      },
+      "distanceKm": 12.7
+    },
+    "sw": {
+      "id": "paternoster-midden-wp",
+      "title": "Paternoster Midden",
+      "tile": "k6ht",
+      "coordinates": {
+        "lat": -32.804614,
+        "lng": 17.900671
+      },
+      "distanceKm": 31.8
+    },
+    "s": {
+      "id": "berg-river-wp",
+      "title": "Berg River",
+      "tile": "k6hv",
+      "coordinates": {
+        "lat": -32.845305555556,
+        "lng": 18.229027777778
+      },
+      "distanceKm": 42
+    },
+    "se": {
+      "id": "stadsaal-caves-wp",
+      "title": "Stadsaal Caves",
+      "tile": "k6jw",
+      "coordinates": {
+        "lat": -32.522777777778,
+        "lng": 19.3175
+      },
+      "distanceKm": 31.2
+    }
+  },
+  "locationWikipediaPath": "k/6/m/0/mussel-point-wp"
+}

@@ -57,21 +57,38 @@
       "title": "Siege of Nishapur (1221) - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Siege_of_Nishapur_(1221)",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["April 1221 date of siege confirmed", "Taghaqchar killed near Nishapur triggering vengeance", "48,000 defenders (12,000 archers at four gates) confirmed", "Mongol siege arsenal figures (3,000 crossbows, 100 mangonels, 4,000 ladders, 1,700 naphtha-throwers) confirmed from Juvaini chronicle", "Eight days of defense before breach confirmed", "400 left behind to execute survivors confirmed", "Tolui army of 80,000 is medieval chronicle figure, disputed by modern historians (Carl Sverdrup estimates ~7,000 core Mongols)", "Governor Sharaf al-Din death fighting confirmed"]
+      "claimsVerified": [
+        "April 1221 date of siege confirmed",
+        "Taghaqchar killed near Nishapur triggering vengeance",
+        "48,000 defenders (12,000 archers at four gates) confirmed",
+        "Mongol siege arsenal figures (3,000 crossbows, 100 mangonels, 4,000 ladders, 1,700 naphtha-throwers) confirmed from Juvaini chronicle",
+        "Eight days of defense before breach confirmed",
+        "400 left behind to execute survivors confirmed",
+        "Tolui army of 80,000 is medieval chronicle figure, disputed by modern historians (Carl Sverdrup estimates ~7,000 core Mongols)",
+        "Governor Sharaf al-Din death fighting confirmed"
+      ]
     },
     {
       "type": "verification",
       "title": "Attar of Nishapur - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Attar_of_Nishapur",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Attar died at age 78 during Mongol sack of Nishapur in April 1221 confirmed", "The Conference of the Birds as a masterwork of Sufi philosophy confirmed", "Death by Mongol soldier confirmed (legendary account of beheading after refusing ransom)"]
+      "claimsVerified": [
+        "Attar died at age 78 during Mongol sack of Nishapur in April 1221 confirmed",
+        "The Conference of the Birds as a masterwork of Sufi philosophy confirmed",
+        "Death by Mongol soldier confirmed (legendary account of beheading after refusing ransom)"
+      ]
     },
     {
       "type": "verification",
       "title": "The Nishapur Excavations - The Metropolitan Museum of Art",
       "url": "https://www.metmuseum.org/about-the-met/collection-areas/islamic-art/nishapur-excavations",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Metropolitan Museum excavations 1935-1940 confirmed", "Final season 1947-1948 confirmed", "Artifacts now in New York museum confirmed"]
+      "claimsVerified": [
+        "Metropolitan Museum excavations 1935-1940 confirmed",
+        "Final season 1947-1948 confirmed",
+        "Artifacts now in New York museum confirmed"
+      ]
     }
   ],
   "editorial": {
@@ -130,14 +147,14 @@
       "distanceKm": 17.2
     },
     "sw": {
-      "id": "qumis-iran-wp",
-      "title": "Qumis (Hecatompylos)",
-      "tile": "tnqk",
+      "id": "2024-tabas-coal-mine-explosion-wp",
+      "title": "2024 Tabas Coal Mine Explosion",
+      "tile": "tmb7",
       "coordinates": {
-        "lat": 35.961666666667,
-        "lng": 54.0375
+        "lat": 32.9850129,
+        "lng": 56.8579884
       },
-      "distanceKm": 388.9
+      "distanceKm": 366
     },
     "s": {
       "id": "tomb-of-hassan-modarres-wp",
@@ -159,5 +176,6 @@
       },
       "distanceKm": 140.5
     }
-  }
+  },
+  "locationWikipediaPath": "t/q/3/y/siege-of-nishapur-1221-wp"
 }

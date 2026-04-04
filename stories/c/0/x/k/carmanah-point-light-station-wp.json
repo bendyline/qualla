@@ -1,0 +1,166 @@
+{
+  "id": "carmanah-point-light-station-wp",
+  "source": "wikipedia",
+  "sourceId": "27097419",
+  "title": "Carmanah Point Light Station",
+  "slug": "carmanah-point-light-station",
+  "summary": "A lighthouse established in 1891 at the mouth of the Strait of Juan de Fuca that guarded the entrance to the Salish Sea for 133 years before seismic instability forced its keepers out.",
+  "content": {
+    "intro": "Jerry K. Etzkorn became the keeper of Carmanah Point Light Station in 1986 and stayed for thirty years. His successor, Justine J. Etzkorn, took over in 2016. For three decades, a single family watched the Pacific from a concrete tower on Vancouver Island's southwest coast, at the exact point where the Strait of Juan de Fuca opens into the ocean. Then, on October 25, 2024, the Etzkorns and every other keeper were told to leave. The ground they stood on, the Canadian Coast Guard announced, could no longer be trusted to hold them.",
+    "sections": [
+      {
+        "title": "Guardian at the Strait's Mouth",
+        "body": "The Carmanah Point Light Station was established in 1891 to mark one of the most critical navigational junctures on the Pacific coast: the entrance from the open ocean into the Strait of Juan de Fuca and the Salish Sea beyond. Ships rounding Vancouver Island's southwest corner -- whether bound for Victoria, Vancouver, or the ports of Puget Sound -- needed a fixed reference point on a coastline that offered fog, reefs, and currents in abundance. The first light was a wooden structure attached directly to the keeper's housing. In 1920, a concrete tower replaced it, and that tower remains in operation today. The station takes its name from the upstream Nitinaht village; in the local language, it means \"thus far upstream.\""
+      },
+      {
+        "title": "William Phillip Daykin's Watch",
+        "body": "The first keeper, William Phillip Daykin, arrived in 1891 and served for twenty-one years. During his tenure, the coast earned its reputation as the Graveyard of the Pacific through a series of devastating wrecks, culminating in the Valencia disaster of 1906. Daykin and his successors were not merely tenders of a light -- they were the only permanent human presence on long stretches of this coast, the first to spot distress signals, the first to reach survivors stumbling out of the surf. The keepers' list reads like a chronicle of endurance: Thomas McNabb served through the Depression, the Copelands (William Charles and later Francis George) bracketed World War II, and Bert Pearce held the station through the 1960s. Each name represents years of isolation on a headland where the nearest road was a logging track and the nearest town was Bamfield, reachable only by trail or boat."
+      },
+      {
+        "title": "The Ground Gives Way",
+        "body": "In the summer of 2024, Fisheries and Oceans Canada and the Canadian Coast Guard delivered a verdict that ended 133 years of continuous human presence: the ground beneath Carmanah Point Light Station was seismically unstable. The Cascadia subduction zone lies just offshore, and the soil and rock supporting the station could not be certified safe in the event of a significant earthquake. On October 25, the keepers were removed. The decision provoked immediate backlash from local governments, Indigenous leadership, and maritime industry figures who argued that the Coast Guard had not adequately consulted with key stakeholders. The lightkeepers' union pointed out that no firm plan existed for the stations' future. A petition was organized to delay the destaffing, but the keepers were gone before it could take effect."
+      },
+      {
+        "title": "Concrete, Still Standing",
+        "body": "The 1920 concrete tower continues to operate as an automated aid to navigation. The heritage buildings surrounding it remain under the care of Fisheries and Oceans Canada. Hikers on the West Coast Trail, which runs directly past the station, can still see the tower from the trail -- and near it, the beachside food stop at Nytom where the Knighton family has served burgers to exhausted backpackers since 1993. But the station is emptier than it has been since before the Valencia sank. Whether the keepers will return depends on engineering assessments, political will, and the question of how much value a human presence holds at the edge of the continent when the machines can keep the light burning on their own."
+      }
+    ],
+    "flightContext": "Carmanah Point Light Station is at 48.61°N, 124.75°W on Vancouver Island's southwest coast, at the entrance to the Strait of Juan de Fuca. The concrete tower is visible from 1,500-2,500 feet on the exposed headland. The West Coast Trail passes nearby. Nearest airport: Port Alberni (CBS8). This is a critical navigational point where the Pacific meets the strait. Expect frequent fog, strong winds, and marine overcast."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 48.6117,
+      "lng": -124.751
+    },
+    "geohash": "c0xk9"
+  },
+  "categories": [
+    "lighthouse",
+    "maritime",
+    "history",
+    "heritage",
+    "coastal"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-21T00:00:00Z",
+    "wordCount": 700,
+    "readTime": 4,
+    "firstPublished": "2026-03-21T00:00:00Z",
+    "storyNumber": 10793
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Carmanah Point Light Station - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carmanah_Point_Light_Station",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "established 1891 confirmed",
+        "first keeper William Phillip Daykin confirmed",
+        "Daykin served 21 years confirmed",
+        "concrete tower built 1920 confirmed",
+        "destaffed October 25 2024 confirmed",
+        "seismic instability reason confirmed",
+        "133 years of continuous human presence confirmed"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Carmanah Point Lighthouse - Lighthousefriends.com",
+      "url": "https://www.lighthousefriends.com/light.asp?ID=1201",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "Valencia disaster 1906 context and keeper role confirmed",
+        "keeper succession history including Depression-era and WWII keepers verified",
+        "station at mouth of Strait of Juan de Fuca confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "c/0/x/k/carmanah-point-light-station-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "barkley-sound-wp",
+      "title": "Barkley Sound",
+      "tile": "c0wy",
+      "coordinates": {
+        "lat": 48.89888889,
+        "lng": -125.27444444
+      },
+      "distanceKm": 9.3
+    },
+    "n": {
+      "id": "port-alberni-wp",
+      "title": "Port Alberni",
+      "tile": "c0z0",
+      "coordinates": {
+        "lat": 49.2339,
+        "lng": -124.8055
+      },
+      "distanceKm": 42.8
+    },
+    "ne": {
+      "id": "stz-uminus-first-nation-wp",
+      "title": "Stz'uminus First Nation",
+      "tile": "c0xy",
+      "coordinates": {
+        "lat": 48.9930239,
+        "lng": -123.7721113
+      },
+      "distanceKm": 27.8
+    },
+    "w": {
+      "id": "cape-beale-light-wp",
+      "title": "Cape Beale Light",
+      "tile": "c0wv",
+      "coordinates": {
+        "lat": 48.7864,
+        "lng": -125.216
+      },
+      "distanceKm": 20.8
+    },
+    "e": {
+      "id": "jordan-river-dam-wp",
+      "title": "Jordan River Dam",
+      "tile": "c0xg",
+      "coordinates": {
+        "lat": 48.4965,
+        "lng": -123.993
+      },
+      "distanceKm": 14.3
+    },
+    "sw": {
+      "id": "ss-coast-trader-wp",
+      "title": "SS Coast Trader",
+      "tile": "c0wd",
+      "coordinates": {
+        "lat": 48.31666666666667,
+        "lng": -125.66666666666667
+      },
+      "distanceKm": 37.8
+    },
+    "s": {
+      "id": "makah-reservation-wp",
+      "title": "Makah Reservation",
+      "tile": "c0x6",
+      "coordinates": {
+        "lat": 48.3222,
+        "lng": -124.632
+      },
+      "distanceKm": 2
+    },
+    "se": {
+      "id": "strait-of-juan-de-fuca-wp",
+      "title": "Strait of Juan de Fuca",
+      "tile": "c0xf",
+      "coordinates": {
+        "lat": 48.33291,
+        "lng": -124.00265
+      },
+      "distanceKm": 7.4
+    }
+  }
+}

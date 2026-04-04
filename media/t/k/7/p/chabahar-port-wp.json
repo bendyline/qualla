@@ -25,7 +25,7 @@
           "Launch (boat)",
           "Self-published work"
         ],
-        "smallPath": "_m/t/k/7/p/chabahar-port-wp/hero-small.jpg"
+        "smallPath": "_m/t/k/7/p/chabahar-port-wp/hero-small.webp"
       },
       "images": [
         {
@@ -53,7 +53,7 @@
             "Rail transport maps of Iran",
             "Self-published work"
           ],
-          "smallPath": "_m/t/k/7/p/chabahar-port-wp/iranian-rail-network-m-small.png"
+          "smallPath": "_m/t/k/7/p/chabahar-port-wp/iranian-rail-network-m-small.webp"
         },
         {
           "path": "_m/t/k/7/p/chabahar-port-wp/map-north-south-transp.jpg",
@@ -80,7 +80,7 @@
             "Transport map images that should use vector graphics",
             "World Factbook maps"
           ],
-          "smallPath": "_m/t/k/7/p/chabahar-port-wp/map-north-south-transp-small.jpg"
+          "smallPath": "_m/t/k/7/p/chabahar-port-wp/map-north-south-transp-small.webp"
         },
         {
           "path": "_m/t/k/7/p/chabahar-port-wp/gallery-3.jpg",
@@ -106,8 +106,8 @@
             "Self-published work",
             "Ships in Chabahar"
           ],
-          "mediumPath": "_m/t/k/7/p/chabahar-port-wp/gallery-3-medium.jpg",
-          "smallPath": "_m/t/k/7/p/chabahar-port-wp/gallery-3-small.jpg"
+          "mediumPath": "_m/t/k/7/p/chabahar-port-wp/gallery-3-medium.webp",
+          "smallPath": "_m/t/k/7/p/chabahar-port-wp/gallery-3-small.webp"
         },
         {
           "path": "_m/t/k/7/p/chabahar-port-wp/chabahar-port-night-veiw.jpg",
@@ -132,7 +132,7 @@
             "Night in Chabahar",
             "Self-published work"
           ],
-          "smallPath": "_m/t/k/7/p/chabahar-port-wp/chabahar-port-night-veiw-small.jpg"
+          "smallPath": "_m/t/k/7/p/chabahar-port-wp/chabahar-port-night-veiw-small.webp"
         },
         {
           "path": "_m/t/k/7/p/chabahar-port-wp/97616-orig.jpg",
@@ -154,9 +154,19 @@
             "Chabahar Port",
             "Self-published work"
           ],
-          "smallPath": "_m/t/k/7/p/chabahar-port-wp/97616-orig-small.jpg"
+          "smallPath": "_m/t/k/7/p/chabahar-port-wp/97616-orig-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/t/k/7/p/chabahar-port-wp/tk7p-chabahar-port-flight-context.mp3",
+        "_m/t/k/7/p/chabahar-port-wp/tk7p-chabahar-port-intro.mp3",
+        "_m/t/k/7/p/chabahar-port-wp/tk7p-chabahar-port-the-golden-gate.mp3",
+        "_m/t/k/7/p/chabahar-port-wp/tk7p-chabahar-port-revolution-war-and-a-port-reborn.mp3",
+        "_m/t/k/7/p/chabahar-port-wp/tk7p-chabahar-port-indias-gambit.mp3",
+        "_m/t/k/7/p/chabahar-port-wp/tk7p-chabahar-port-sanctions-and-the-unraveling.mp3",
+        "_m/t/k/7/p/chabahar-port-wp/tk7p-chabahar-port-two-ports-one-coastline.mp3"
+      ],
+      "combinedNarration": "_m/t/k/7/p/chabahar-port-wp/tk7p-chabahar-port-combined.mp3"
     }
   }
 }

@@ -25,8 +25,8 @@
     "sourceType": "core",
     "sourceArticleId": "ellensburg-wk",
     "sourceGeohash4": "c267",
-    "smallPath": "_m/c/2/6/7/ellensburg-wk/hero-small.jpg",
-    "mediumPath": "_m/c/2/6/7/ellensburg-wk/hero-medium.jpg"
+    "smallPath": "_m/c/2/6/7/ellensburg-wk/hero-small.webp",
+    "mediumPath": "_m/c/2/6/7/ellensburg-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "2008-1019-02-CentralWashingtonUniversity.jpg",
@@ -86,13 +86,12 @@
       "sourceType": "core",
       "sourceArticleId": "ellensburg-wk",
       "sourceGeohash4": "c267",
-      "smallPath": "_m/c/2/6/7/ellensburg-wk/olmstead-place-state-p-small.jpg"
+      "smallPath": "_m/c/2/6/7/ellensburg-wk/olmstead-place-state-p-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/c/2/6/7/ellensburg-wk/olmstead-place-state-p.jpg"
   ],
-  "fetchedAt": "2026-02-22T01:59:26.715Z",
   "updatedAt": "2026-01-29T12:35:02.414Z",
   "narration": {
     "files": [
@@ -100,18 +99,17 @@
       "c267-ellensburg-intro.mp3",
       "c267-ellensburg-the-college-town.mp3",
       "c267-ellensburg-the-crossroads.mp3",
-      "c267-ellensburg-the-mountains-to-sound.mp3",
-      "c267-ellensburg-the-petrified-forest.mp3"
+      "c267-ellensburg-the-petrified-forest.mp3",
+      "c267-ellensburg-the-mountains-to-sound.mp3"
     ],
     "durations": {
-      "c267-ellensburg-flight-context.mp3": 47.472,
-      "c267-ellensburg-intro.mp3": 45.408,
-      "c267-ellensburg-the-college-town.mp3": 55.488,
-      "c267-ellensburg-the-crossroads.mp3": 54.912,
-      "c267-ellensburg-the-mountains-to-sound.mp3": 51.96,
-      "c267-ellensburg-the-petrified-forest.mp3": 56.472
+      "c267-ellensburg-flight-context.mp3": 44.68875,
+      "c267-ellensburg-intro.mp3": 43.6891666,
+      "c267-ellensburg-the-college-town.mp3": 55.0753333,
+      "c267-ellensburg-the-crossroads.mp3": 54.335,
+      "c267-ellensburg-the-petrified-forest.mp3": 52.7924583,
+      "c267-ellensburg-the-mountains-to-sound.mp3": 52.3524583
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:57.248Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

@@ -33,7 +33,9 @@
           "PD-self",
           "Robert E. Lee Memorial Bridge",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/d/q/8/v/richmond-wk/hero-medium.webp",
+        "smallPath": "_m/d/q/8/v/richmond-wk/hero-small.webp"
       },
       "images": [
         {
@@ -58,7 +60,7 @@
             "Richmond, Virginia skylines",
             "Taken with Nikon D40"
           ],
-          "smallPath": "_m/d/q/8/v/richmond-wk/skyline-richmond-virgi-small.jpg"
+          "smallPath": "_m/d/q/8/v/richmond-wk/skyline-richmond-virgi-small.webp"
         },
         {
           "path": "_m/d/q/8/v/richmond-wk/main-street-station.jpg",
@@ -84,7 +86,7 @@
             "Self-published work",
             "Train station clocks in the United States"
           ],
-          "smallPath": "_m/d/q/8/v/richmond-wk/main-street-station-small.jpg"
+          "smallPath": "_m/d/q/8/v/richmond-wk/main-street-station-small.webp"
         },
         {
           "path": "_m/d/q/8/v/richmond-wk/wikivoyage-district-ma.png",
@@ -105,7 +107,7 @@
             "CC-Zero",
             "Maps of Richmond, Virginia"
           ],
-          "smallPath": "_m/d/q/8/v/richmond-wk/wikivoyage-district-ma-small.png"
+          "smallPath": "_m/d/q/8/v/richmond-wk/wikivoyage-district-ma-small.webp"
         },
         {
           "path": "_m/d/q/8/v/richmond-wk/richmond-virginia-wiki.jpg",
@@ -121,8 +123,8 @@
           "sourceArticleId": "richmond-wk",
           "sourceGeohash4": "dq8v",
           "accessedAt": "2026-02-22T12:10:07.579Z",
-          "smallPath": "_m/d/q/8/v/richmond-wk/richmond-virginia-wiki-small.jpg",
-          "mediumPath": "_m/d/q/8/v/richmond-wk/richmond-virginia-wiki-medium.jpg"
+          "smallPath": "_m/d/q/8/v/richmond-wk/richmond-virginia-wiki-small.webp",
+          "mediumPath": "_m/d/q/8/v/richmond-wk/richmond-virginia-wiki-medium.webp"
         },
         {
           "path": "_m/d/q/8/v/richmond-wk/edward-francis-burney-richmond.jpg",
@@ -149,8 +151,8 @@
             "Watercolor paintings by Edward Francis Burney in the Yale Center for British Art",
             "Watercolor paintings of England"
           ],
-          "smallPath": "_m/d/q/8/v/richmond-wk/edward-francis-burney-richmond-small.jpg",
-          "mediumPath": "_m/d/q/8/v/richmond-wk/edward-francis-burney-richmond-medium.jpg"
+          "smallPath": "_m/d/q/8/v/richmond-wk/edward-francis-burney-richmond-small.webp",
+          "mediumPath": "_m/d/q/8/v/richmond-wk/edward-francis-burney-richmond-medium.webp"
         },
         {
           "path": "_m/d/q/8/v/richmond-city-wk/hero.jpg",
@@ -479,7 +481,8 @@
             "Tuckahoe Plantation"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/d/q/8/v/richmond-wk/dq8v-richmond-combined.mp3"
     }
   }
 }

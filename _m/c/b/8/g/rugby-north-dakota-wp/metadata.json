@@ -25,8 +25,8 @@
     "sourceType": "core",
     "sourceArticleId": "rugby-north-dakota-wp",
     "sourceGeohash4": "cb8g",
-    "smallPath": "_m/c/b/8/g/rugby-north-dakota-wp/hero-small.jpg",
-    "mediumPath": "_m/c/b/8/g/rugby-north-dakota-wp/hero-medium.jpg"
+    "smallPath": "_m/c/b/8/g/rugby-north-dakota-wp/hero-small.webp",
+    "mediumPath": "_m/c/b/8/g/rugby-north-dakota-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Rugby, North Dakota.jpg",
@@ -81,8 +81,8 @@
       "sourceType": "core",
       "sourceArticleId": "rugby-north-dakota-wp",
       "sourceGeohash4": "cb8g",
-      "smallPath": "_m/c/b/8/g/rugby-north-dakota-wp/image-place-building-l-small.jpg",
-      "mediumPath": "_m/c/b/8/g/rugby-north-dakota-wp/image-place-building-l-medium.jpg"
+      "smallPath": "_m/c/b/8/g/rugby-north-dakota-wp/image-place-building-l-small.webp",
+      "mediumPath": "_m/c/b/8/g/rugby-north-dakota-wp/image-place-building-l-medium.webp"
     },
     {
       "filename": "Geographical Center of North America, Rugby, ND 2022-07-19.jpg",
@@ -108,8 +108,8 @@
       "sourceType": "core",
       "sourceArticleId": "rugby-north-dakota-wp",
       "sourceGeohash4": "cb8g",
-      "smallPath": "_m/c/b/8/g/rugby-north-dakota-wp/monument-geographic-ce-small.jpg",
-      "mediumPath": "_m/c/b/8/g/rugby-north-dakota-wp/monument-geographic-ce-medium.jpg"
+      "smallPath": "_m/c/b/8/g/rugby-north-dakota-wp/monument-geographic-ce-small.webp",
+      "mediumPath": "_m/c/b/8/g/rugby-north-dakota-wp/monument-geographic-ce-medium.webp"
     },
     {
       "filename": "Rugby Post Office.JPG",
@@ -138,7 +138,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "rugby-north-dakota-wp",
-      "sourceGeohash4": "cb8g"
+      "sourceGeohash4": "cb8g",
+      "mediumPath": "_m/c/b/8/g/rugby-north-dakota-wp/rugby-post-office-medium.webp",
+      "smallPath": "_m/c/b/8/g/rugby-north-dakota-wp/rugby-post-office-small.webp"
     },
     {
       "filename": "Northern Lights Tower.jpg",
@@ -162,7 +164,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "rugby-north-dakota-wp",
-      "sourceGeohash4": "cb8g"
+      "sourceGeohash4": "cb8g",
+      "smallPath": "_m/c/b/8/g/rugby-north-dakota-wp/northern-lights-tower-small.webp"
     }
   ],
   "galleryPaths": [
@@ -171,7 +174,6 @@
     "_m/c/b/8/g/rugby-north-dakota-wp/rugby-post-office.jpg",
     "_m/c/b/8/g/rugby-north-dakota-wp/northern-lights-tower.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:44:41.276Z",
   "updatedAt": "2026-02-22T02:44:41.889Z",
   "narration": {
     "files": [
@@ -190,7 +192,6 @@
       "cb8g-rugby-north-dakota-wheat-fields-and-threshing-machines.mp3": 53.5034166,
       "cb8g-rugby-north-dakota-the-empire-builder-stops-here.mp3": 55.1140833
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T06:54:30.758Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

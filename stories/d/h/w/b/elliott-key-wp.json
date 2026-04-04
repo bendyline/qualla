@@ -102,14 +102,14 @@
       "distanceKm": 8.4
     },
     "ne": {
-      "id": "flight-19-wp",
-      "title": "Flight 19",
-      "tile": "djpu",
+      "id": "grand-bahama-aux-af-airport-wp",
+      "title": "Grand Bahama Aux AF Airport",
+      "tile": "dk8r",
       "coordinates": {
-        "lat": 29,
-        "lng": -79
+        "lat": 26.633333,
+        "lng": -78.366667
       },
-      "distanceKm": 379.4
+      "distanceKm": 179.5
     },
     "w": {
       "id": "everglades-river-grass-wk",
@@ -122,14 +122,14 @@
       "distanceKm": 9
     },
     "e": {
-      "id": "h-l-hunley-wp",
-      "title": "H. L. Hunley",
-      "tile": "djz6",
+      "id": "great-stirrup-cay-wp",
+      "title": "Great Stirrup Cay",
+      "tile": "dk8d",
       "coordinates": {
-        "lat": 32.733333333333334,
-        "lng": -79.76666666666667
+        "lat": 25.833333333333,
+        "lng": -77.9
       },
-      "distanceKm": 815.4
+      "distanceKm": 196.9
     },
     "sw": {
       "id": "overseas-railroad-wp",
@@ -152,14 +152,15 @@
       "distanceKm": 7.6
     },
     "se": {
-      "id": "batalla-de-santa-clara-wp",
-      "title": "Batalla de Santa Clara",
-      "tile": "dhp2",
+      "id": "andros-the-bahamas-wp",
+      "title": "Andros, The Bahamas",
+      "tile": "dk2s",
       "coordinates": {
-        "lat": 22.616666666666667,
-        "lng": -79.68333333333334
+        "lat": 24.66666667,
+        "lng": -77.91666667
       },
-      "distanceKm": 280.5
+      "distanceKm": 197.5
     }
-  }
+  },
+  "locationWikipediaPath": "d/h/w/b/elliott-key-wp"
 }

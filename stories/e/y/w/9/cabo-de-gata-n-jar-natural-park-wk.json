@@ -80,87 +80,89 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "granada-wk",
-      "title": "Granada",
+      "id": "generalife-wp",
+      "title": "Generalife",
       "tile": "eyt7",
       "coordinates": {
-        "lat": 37.1773,
-        "lng": -3.5986
+        "lat": 37.176944444444,
+        "lng": -3.5852777777778
       },
-      "distanceKm": 101.3
+      "distanceKm": 100.1
     },
     "n": {
-      "id": "seville-wk",
-      "title": "Seville",
-      "tile": "eyes",
+      "id": "castle-of-lorca-wp",
+      "title": "Castle of Lorca",
+      "tile": "eywy",
       "coordinates": {
-        "lat": 37.3891,
-        "lng": -5.9845
+        "lat": 37.6775,
+        "lng": -1.70583333
       },
-      "distanceKm": 360.1
+      "distanceKm": 68.4
     },
     "ne": {
-      "id": "valencia-wk",
-      "title": "Valencia",
-      "tile": "ezp8",
+      "id": "roman-theatre-cartagena-wp",
+      "title": "Roman Theatre of Cartagena",
+      "tile": "eyxm",
       "coordinates": {
-        "lat": 39.4699,
-        "lng": -0.3763
+        "lat": 37.5995,
+        "lng": -0.9841
       },
-      "distanceKm": 279.5
+      "distanceKm": 67.9
     },
     "w": {
-      "id": "seville-province-wk",
-      "title": "Seville Province",
-      "tile": "eysj",
+      "id": "almeria-cathedral-wp",
+      "title": "Almería Cathedral",
+      "tile": "eyw1",
       "coordinates": {
-        "lat": 37.5,
-        "lng": -5.5
+        "lat": 36.8382,
+        "lng": -2.4673
       },
-      "distanceKm": 279.5
+      "distanceKm": 1.5
     },
     "e": {
-      "id": "ibiza-wk",
-      "title": "Ibiza",
-      "tile": "sncj",
+      "id": "murcia-cathedral-wp",
+      "title": "Murcia Cathedral",
+      "tile": "eyz0",
       "coordinates": {
-        "lat": 38.98,
-        "lng": 1.43
+        "lat": 37.98404,
+        "lng": -1.12865
       },
-      "distanceKm": 345.3
+      "distanceKm": 131.1
     },
     "sw": {
-      "id": "chefchaouen-wk",
-      "title": "Chefchaouen",
-      "tile": "eyk2",
+      "id": "great-siege-tunnels-wp",
+      "title": "Great Siege Tunnels",
+      "tile": "eykj",
       "coordinates": {
-        "lat": 35.1686,
-        "lng": -5.2636
+        "lat": 36.145153,
+        "lng": -5.345047
       },
-      "distanceKm": 296.3
+      "distanceKm": 262.4
     },
     "s": {
-      "id": "tangier-wk",
-      "title": "Tangier",
-      "tile": "ey7g",
+      "id": "rock-of-gibraltar-wp",
+      "title": "Rock of Gibraltar",
+      "tile": "eykj",
       "coordinates": {
-        "lat": 35.7673,
-        "lng": -5.7998
+        "lat": 36.125833,
+        "lng": -5.343056
       },
-      "distanceKm": 358.1
+      "distanceKm": 309.2
     },
     "se": {
-      "id": "sfax-wk",
-      "title": "Sfax",
-      "tile": "snpt",
+      "id": "battle-of-mazagran-wp",
+      "title": "Battle of Mazagran",
+      "tile": "sn2h",
       "coordinates": {
-        "lat": 34.7333,
-        "lng": 10.7667
+        "lat": 35.895555555556,
+        "lng": 0.071388888888889
       },
-      "distanceKm": 1117.8
+      "distanceKm": 151.9
     }
   },
   "keywords": [
     "cabo-de-gata-n-jar-natural-park"
-  ]
+  ],
+  "locationWikipediaPath": "e/y/w/9/cabo-de-gata-nijar-natural-park-wp",
+  "locationWikivoyagePath": "e/y/w/9/cabo-de-gata-nijar-natural-park-wk"
 }

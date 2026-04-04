@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-beauport-wp",
     "sourceGeohash4": "f2m6",
-    "mediumPath": "_m/f/2/m/6/battle-of-beauport-wp/hero-medium.jpg",
-    "smallPath": "_m/f/2/m/6/battle-of-beauport-wp/hero-small.jpg"
+    "mediumPath": "_m/f/2/m/6/battle-of-beauport-wp/hero-medium.webp",
+    "smallPath": "_m/f/2/m/6/battle-of-beauport-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "SiegeOfQuebec1759ByDesBarres.jpg",
@@ -77,12 +77,32 @@
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-beauport-wp",
       "sourceGeohash4": "f2m6",
-      "smallPath": "_m/f/2/m/6/battle-of-beauport-wp/montcalm-s-ravine-fort-beaupor-small.jpg"
+      "smallPath": "_m/f/2/m/6/battle-of-beauport-wp/montcalm-s-ravine-fort-beaupor-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/f/2/m/6/battle-of-beauport-wp/montcalm-s-ravine-fort-beaupor.jpg"
   ],
-  "fetchedAt": "2026-02-28T14:26:12.056Z",
-  "updatedAt": "2026-02-28T14:26:26.735Z"
+  "updatedAt": "2026-02-28T14:26:26.735Z",
+  "narration": {
+    "files": [
+      "f2m6-battle-of-beauport-flight-context.mp3",
+      "f2m6-battle-of-beauport-intro.mp3",
+      "f2m6-battle-of-beauport-wolfes-dilemma-on-the-st-lawrence.mp3",
+      "f2m6-battle-of-beauport-a-camp-beneath-the-falls.mp3",
+      "f2m6-battle-of-beauport-the-assault-goes-wrong.mp3",
+      "f2m6-battle-of-beauport-gunpowder-in-the-rain.mp3",
+      "f2m6-battle-of-beauport-the-road-to-the-plains-of-abraham.mp3"
+    ],
+    "durations": {
+      "f2m6-battle-of-beauport-flight-context.mp3": 53.4317083,
+      "f2m6-battle-of-beauport-intro.mp3": 49.7812083,
+      "f2m6-battle-of-beauport-wolfes-dilemma-on-the-st-lawrence.mp3": 67.50325,
+      "f2m6-battle-of-beauport-a-camp-beneath-the-falls.mp3": 69.7489583,
+      "f2m6-battle-of-beauport-the-assault-goes-wrong.mp3": 69.526625,
+      "f2m6-battle-of-beauport-gunpowder-in-the-rain.mp3": 62.45625,
+      "f2m6-battle-of-beauport-the-road-to-the-plains-of-abraham.mp3": 64.2340416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

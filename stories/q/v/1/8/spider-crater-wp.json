@@ -1,0 +1,84 @@
+{
+  "id": "spider-crater-wp",
+  "source": "wikipedia",
+  "sourceId": "780532",
+  "title": "Spider Crater",
+  "slug": "spider-crater",
+  "summary": "A billion-year-old meteorite impact in the remote Kimberley — invisible from the ground, spectacular from the air, and one of the most visually striking impact structures on Earth.",
+  "content": {
+    "intro": "From the ground, you'd never know it was there. The terrain around Spider Crater is so rugged that the site remains effectively inaccessible — no trail leads to it, no tourist bus makes a stop. But look down from altitude, and the shape announces itself immediately: a perfect spider, radiating white quartzite ridges in every direction from a central point, preserved in ancient rock like an insect caught in amber. The Kimberley keeps its strangest secrets for those who approach from above.",
+    "sections": [
+      {
+        "title": "A Puzzle in the Rock",
+        "body": "Geologists noticed something odd about this patch of the Kimberley in the 1950s. The rock formations didn't behave the way they should — the quartzite ridges radiated outward in an unusual pattern, suggesting some violent deformation in the distant past. For decades it remained unexplained. Then in the late 1970s, researchers discovered shatter cones at the centre of the structure: a distinctive form of rock fracturing caused by the extreme pressure of a hypervelocity impact. The puzzle resolved itself. Spider was not a geological oddity. It was an impact structure — the deeply eroded remnant of a crater carved by something falling from space."
+      },
+      {
+        "title": "What the Shape Tells Us",
+        "body": "The outer limits of the disturbance extend across a subcircular area roughly 11 by 13 kilometres in diameter. The central area bearing shatter cones is interpreted as the relic of a central uplift — the rebound that occurs after a large impact, when compressed rock springs back upward in the aftermath of collision. The asymmetry of the structure has divided geologists: some read it as evidence that the impactor came in at a very low angle from the north or northwest, cutting across the landscape rather than driving straight down. Others suggest the asymmetry reflects the pre-existing topography of the land at the time of impact. The original crater was likely somewhat larger than what is visible today — deep erosion over hundreds of millions of years has stripped away the upper layers."
+      },
+      {
+        "title": "Deep Time",
+        "body": "When did it happen? The age of the Spider impact is not precisely known. The evidence places it after the gentle folding of the Palaeoproterozoic quartzite that forms the visible ridges, but before a later regional episode of glacial erosion. If that bracket is correct, the impact occurred between 900 and 600 million years ago — during the Neoproterozoic era, at a time when multicellular life was only just beginning to appear in the world's oceans. Whatever left this scar in the Kimberley rock arrived at a planet unrecognisably different from today: no grasses, no animals on land, no forests. Only ancient sea and ancient stone."
+      },
+      {
+        "title": "Seen Only from Above",
+        "body": "Spider Crater sits 18 kilometres east of the Mount Barnett Roadhouse on the Gibb River Road — close enough on a map to seem reachable, but separated from any observer on the ground by terrain that simply does not permit approach. Its fame, such as it is, rests entirely on aerial and satellite imagery. NASA has captured it from orbit. Landsat images draped over digital elevation data make the spider shape jump out with startling clarity against the surrounding Kimberley plateau. It is one of those rare places where the view from above is not just better than the view from the ground — it is the only view that reveals what you are actually looking at."
+      }
+    ],
+    "flightContext": "Coordinates: 16.739°S, 126.090°E. Located 18 km east of the Mount Barnett Roadhouse on the Gibb River Road. The radiating quartzite ridges are visible from low altitude as a striking spider-like pattern — fly at 3,000 to 5,000 feet for the best perspective. The site is effectively inaccessible by ground, so aerial viewing is the primary way to appreciate the structure. Nearest airstrip: Mount Barnett (YMBA) to the west. Best viewed in clear dry-season conditions when shadows define the ridge relief.",
+    "location": {
+      "coordinates": {
+        "lat": -16.739444444444,
+        "lng": 126.09027777778
+      },
+      "geohash": "qv18v"
+    },
+    "categories": [
+      "Impact craters",
+      "Geology",
+      "Kimberley Western Australia",
+      "Natural history"
+    ],
+    "meta": {
+      "lastUpdated": "2026-03-28T00:00:00Z",
+      "wordCount": 610,
+      "readTime": 3
+    }
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Spider Crater - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spider_crater",
+      "accessedAt": "2026-03-28",
+      "claimsVerified": [
+        "Dimensions 11 x 13 km confirmed",
+        "Age range 900–600 million years ago (Neoproterozoic) confirmed",
+        "Shatter cones discovered in late 1970s confirmed",
+        "Located 18 km east of Mount Barnett Roadhouse on Gibb River Road confirmed",
+        "Quartzite ridges radiating from centre confirmed",
+        "Central uplift structure interpretation confirmed",
+        "NASA orbital imagery of Spider confirmed"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Spider Crater - NASA Earth Observatory",
+      "url": "https://earthobservatory.nasa.gov/images/8607/spider-crater-western-australia",
+      "accessedAt": "2026-03-28",
+      "claimsVerified": [
+        "Spider-like radiating quartzite ridges visible from orbit confirmed",
+        "Aerial/satellite as primary view of structure confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "meta": {
+    "lastUpdated": "2026-03-29T15:05:37.438Z",
+    "firstPublished": "2026-03-29T15:05:37.438Z",
+    "storyNumber": 14553
+  }
+}

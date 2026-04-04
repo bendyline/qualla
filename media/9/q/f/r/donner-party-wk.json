@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/q/f/r/donner-party-wk/9qdc-the-donner-party-the-shortcut-that-led-to-cannibal-intro.mp3",
-        "_m/9/q/f/r/donner-party-wk/9qdc-the-donner-party-the-shortcut-that-led-to-cannibal-flight-context.mp3",
-        "_m/9/q/f/r/donner-party-wk/9qdc-the-donner-party-the-shortcut-that-led-to-cannibal-the-delay.mp3",
-        "_m/9/q/f/r/donner-party-wk/9qdc-the-donner-party-the-shortcut-that-led-to-cannibal-the-hunger.mp3",
-        "_m/9/q/f/r/donner-party-wk/9qdc-the-donner-party-the-shortcut-that-led-to-cannibal-the-legacy.mp3",
-        "_m/9/q/f/r/donner-party-wk/9qdc-the-donner-party-the-shortcut-that-led-to-cannibal-the-shortcut.mp3",
-        "_m/9/q/f/r/donner-party-wk/9qdc-the-donner-party-the-shortcut-that-led-to-cannibal-the-trap.mp3"
+        "_m/9/q/f/r/donner-party-wk/9qfr-the-donner-party-the-shortcut-that-led-to-cannibal-flight-context.mp3",
+        "_m/9/q/f/r/donner-party-wk/9qfr-the-donner-party-the-shortcut-that-led-to-cannibal-intro.mp3",
+        "_m/9/q/f/r/donner-party-wk/9qfr-the-donner-party-the-shortcut-that-led-to-cannibal-the-shortcut.mp3",
+        "_m/9/q/f/r/donner-party-wk/9qfr-the-donner-party-the-shortcut-that-led-to-cannibal-the-delay.mp3",
+        "_m/9/q/f/r/donner-party-wk/9qfr-the-donner-party-the-shortcut-that-led-to-cannibal-the-trap.mp3",
+        "_m/9/q/f/r/donner-party-wk/9qfr-the-donner-party-the-shortcut-that-led-to-cannibal-the-hunger.mp3",
+        "_m/9/q/f/r/donner-party-wk/9qfr-the-donner-party-the-shortcut-that-led-to-cannibal-the-legacy.mp3"
       ],
       "hero": {
         "path": "_m/9/q/f/r/donner-party-wk/hero.jpg",
@@ -26,8 +26,8 @@
         "sourceArticleId": "donner-party-wk",
         "sourceGeohash4": "9qfr",
         "accessedAt": "2026-02-21T21:10:40.688Z",
-        "mediumPath": "_m/9/q/f/r/donner-party-wk/hero-medium.jpg",
-        "smallPath": "_m/9/q/f/r/donner-party-wk/hero-small.jpg"
+        "mediumPath": "_m/9/q/f/r/donner-party-wk/hero-medium.webp",
+        "smallPath": "_m/9/q/f/r/donner-party-wk/hero-small.webp"
       },
       "images": [
         {
@@ -544,7 +544,8 @@
           "smallPath": "_m/9/q/f/r/donner-party-wk/amtk-111-wb-march-1976-at-89oc-small.jpg",
           "mediumPath": "_m/9/q/f/r/donner-party-wk/amtk-111-wb-march-1976-at-89oc-medium.jpg"
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/q/f/r/donner-party-wk/9qfr-donner-party-combined.mp3"
     }
   }
 }

@@ -25,8 +25,8 @@
     "sourceType": "core",
     "sourceArticleId": "phoenix-wk",
     "sourceGeohash4": "9tbq",
-    "smallPath": "_m/9/t/b/q/phoenix-wk/hero-small.jpg",
-    "mediumPath": "_m/9/t/b/q/phoenix-wk/hero-medium.jpg"
+    "smallPath": "_m/9/t/b/q/phoenix-wk/hero-small.webp",
+    "mediumPath": "_m/9/t/b/q/phoenix-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Camelback Mountain 2.jpg",
@@ -83,7 +83,7 @@
       "sourceType": "core",
       "sourceArticleId": "phoenix-wk",
       "sourceGeohash4": "9tbq",
-      "smallPath": "_m/9/t/b/q/phoenix-wk/phoenix-arizona-wrigle-small.jpg"
+      "smallPath": "_m/9/t/b/q/phoenix-wk/phoenix-arizona-wrigle-small.webp"
     },
     {
       "filename": "Deer Valley Airport.jpg",
@@ -141,8 +141,8 @@
       "sourceType": "core",
       "sourceArticleId": "phoenix-wk",
       "sourceGeohash4": "9tbq",
-      "smallPath": "_m/9/t/b/q/phoenix-wk/new-control-tower-view-small.jpg",
-      "mediumPath": "_m/9/t/b/q/phoenix-wk/new-control-tower-view-medium.jpg"
+      "smallPath": "_m/9/t/b/q/phoenix-wk/new-control-tower-view-small.webp",
+      "mediumPath": "_m/9/t/b/q/phoenix-wk/new-control-tower-view-medium.webp"
     },
     {
       "filename": "Arizona Science Center 2011.jpg",
@@ -403,8 +403,8 @@
       "sourceType": "core",
       "sourceArticleId": "phoenix-wk",
       "sourceGeohash4": "9tbq",
-      "smallPath": "_m/9/t/b/q/phoenix-wk/tovrea-castle-phoenix-small.jpg",
-      "mediumPath": "_m/9/t/b/q/phoenix-wk/tovrea-castle-phoenix-medium.jpg"
+      "smallPath": "_m/9/t/b/q/phoenix-wk/tovrea-castle-phoenix-small.webp",
+      "mediumPath": "_m/9/t/b/q/phoenix-wk/tovrea-castle-phoenix-medium.webp"
     },
     {
       "filename": "Flame SW01.jpg",
@@ -461,7 +461,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "phoenix-wk",
-      "sourceGeohash4": "9tbq"
+      "sourceGeohash4": "9tbq",
+      "mediumPath": "_m/9/t/b/q/phoenix-wk/fenghuang-vases-medium.webp",
+      "smallPath": "_m/9/t/b/q/phoenix-wk/fenghuang-vases-small.webp"
     }
   ],
   "galleryPaths": [
@@ -482,7 +484,6 @@
     "_m/9/t/b/q/phoenix-arizona-wp/flame-sw01.jpg",
     "_m/9/t/b/q/phoenix-wk/fenghuang-vases.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:04:24.840Z",
   "updatedAt": "2026-02-21T22:04:25.354Z",
   "narration": {
     "files": [
@@ -503,7 +504,6 @@
       "9tbq-phoenix-the-desert-city-that-shouldnt-exist-valley-of-the-sun.mp3": 56.184,
       "9tbq-phoenix-the-desert-city-that-shouldnt-exist-water-in-the-desert.mp3": 51.672
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:56.683Z"
+    "voice": "unknown"
   }
 }

@@ -1,0 +1,153 @@
+{
+  "id": "ansi-city-wp",
+  "source": "wikipedia",
+  "sourceId": "35788436",
+  "title": "Ansi City",
+  "slug": "ansi-city",
+  "summary": "A Goguryeo fortress in present-day Liaoning whose defiant stand against the Tang emperor in 645 CE became one of East Asia's most celebrated military legends.",
+  "content": {
+    "intro": "The name of the general who defended Ansi has been lost to history. Korean tradition calls him Yang Manch'un, though even Korean sources acknowledge the name is uncertain. What is certain is this: in the autumn of 645 CE, a garrison commander whose identity no one can confirm held off the most powerful emperor in the world for nearly three months, shouting insults from the walls while the Tang army built a mountain of dirt to try to breach them.",
+    "sections": [
+      {
+        "title": "Fortress on the Frontier",
+        "body": "Ansi City -- also called Ansi Fortress -- was built by the Goguryeo kingdom in the early 4th century, after they conquered the region from earlier Chinese administrations. The fortress took its name from a Han dynasty prefecture, but its purpose was distinctly Goguryeo: a fortified stronghold in the Liaodong Peninsula, 7.5 kilometers southeast of present-day Haicheng. The Goguryeo controlled a vast territory spanning the northern Korean Peninsula, most of modern Liaoning and Jilin provinces, and part of what is now Russia's Primorsky Krai. Ansi sat near the western edge of this domain, a bulwark against Chinese ambitions."
+      },
+      {
+        "title": "The Emperor's Gambit",
+        "body": "In 643 CE, Goguryeo attacked its southern neighbor Silla, which appealed to the Tang emperor for help. Emperor Taizong of Tang -- one of China's most celebrated rulers -- needed little persuasion. By 645, his army was marching into Liaodong. The initial campaign went well: the Tang captured several Goguryeo cities and debated whether to strike directly at Pyongyang. Instead, after the Battle of Mount Zhubi scattered the Goguryeo field army, the Tang pursued the retreating forces to Ansi. Taizong arrived at the fortress expecting a short siege. When the Ansi defenders saw the emperor's banner, they responded by hurling insults from the walls -- an act of defiance that enraged Taizong and sealed the garrison's determination. His general Li Shiji received permission to slaughter every male inhabitant when the fortress fell, which only made the defenders fight harder."
+      },
+      {
+        "title": "Sixty Days of Dirt",
+        "body": "Unable to breach the walls by conventional assault, the Tang commander Li Daozong began constructing an enormous earthen ramp to the southeast of the fortress, intending to use it as a siege platform. The Ansi defenders responded by raising their own walls to match. This contest of construction continued for sixty days, the mound growing high enough to see inside the city. When a section of the ramp collapsed onto the fortress walls, destroying part of the defenses, it should have been the decisive moment. But the Tang officer Fu Fu'ai inexplicably abandoned his position on the mound, and the Goguryeo garrison seized the collapsed earthwork, incorporating it into their own defenses. Taizong executed Fu Fu'ai in a fury and ordered three days of heavy assault on the captured mound. The garrison held."
+      },
+      {
+        "title": "Winter's Verdict",
+        "body": "By mid-October, the Liaodong winter was closing in. Grass was dying, food supplies were exhausted, and Goguryeo reinforcements were arriving. On October 13, 645, Emperor Taizong ordered the retreat. Before withdrawing, he staged a demonstration ceremony beside Ansi -- a face-saving gesture that acknowledged what the fortress's walls had already proven. The retreat through early winter was devastating; soldiers died in snowstorms, and Taizong personally tended to his wounded Turkic generals Qibi Heli and Ashina Simo. He founded the Minzhong Temple in Beijing to commemorate the soldiers who perished. He prepared another invasion in 648 but died before it could begin, possibly weakened by illness contracted during the Goguryeo campaigns. The fortress that defeated an emperor still resonates in Korean memory; the 2018 South Korean film The Great Battle retells the siege for modern audiences."
+      }
+    ],
+    "flightContext": "Located at 40.78N, 122.78E, near Haicheng in Liaoning province. The ruins of the fortress site at Yingchengzi are not prominent from the air. Nearest airports include Anshan Teng'ao (ZYAS) and Shenyang Taoxian (ZYTX). The terrain is relatively flat with low hills, part of the western Liaodong Peninsula."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 40.78055555555556,
+      "lng": 122.77805555555555
+    },
+    "geohash": "wxprc"
+  },
+  "categories": [
+    "Buildings and structures in Liaoning",
+    "Goguryeo"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 700,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 8930
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - Battle of Ansi",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Ansi",
+      "accessedAt": "2026-03-18",
+      "claimsVerified": [
+        "siege lasted approximately three months in 645 CE",
+        "Emperor Taizong of Tang led the campaign",
+        "garrison commander's name historically uncertain, Korean tradition calls him Yang Manch'un",
+        "relief force of 150,000 Goguryeo soldiers defeated",
+        "Tang troops built earthen ramp to the southeast",
+        "retreat ordered October 13 645 CE",
+        "2018 South Korean film The Great Battle confirmed",
+        "Taizong founded Minzhong Temple in Beijing confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "w/x/p/r/ansi-city-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "battle-of-jinzhou-wp",
+      "title": "Battle of Jinzhou",
+      "tile": "wxq1",
+      "coordinates": {
+        "lat": 41.0957,
+        "lng": 121.1258
+      },
+      "distanceKm": 103.3
+    },
+    "n": {
+      "id": "anshan-wp",
+      "title": "Anshan",
+      "tile": "wxr3",
+      "coordinates": {
+        "lat": 41.10662,
+        "lng": 122.98945
+      },
+      "distanceKm": 19.4
+    },
+    "ne": {
+      "id": "battle-of-shaho-wp",
+      "title": "Battle of Shaho",
+      "tile": "wxru",
+      "coordinates": {
+        "lat": 41.5986,
+        "lng": 123.457
+      },
+      "distanceKm": 71.5
+    },
+    "w": {
+      "id": "battle-of-yingkou-wp",
+      "title": "Battle of Yingkou",
+      "tile": "wxnz",
+      "coordinates": {
+        "lat": 40.666666666667,
+        "lng": 122.23333333333
+      },
+      "distanceKm": 9.8
+    },
+    "e": {
+      "id": "northeastern-university-china-wp",
+      "title": "Northeastern University (China)",
+      "tile": "wxrv",
+      "coordinates": {
+        "lat": 41.761667,
+        "lng": 123.416389
+      },
+      "distanceKm": 118.8
+    },
+    "sw": {
+      "id": "battle-of-te-li-ssu-wp",
+      "title": "Battle of Te-li-Ssu",
+      "tile": "wxnf",
+      "coordinates": {
+        "lat": 39.76666667,
+        "lng": 122.03333333
+      },
+      "distanceKm": 78.3
+    },
+    "s": {
+      "id": "battle-of-motien-pass-wp",
+      "title": "Battle of Motien Pass",
+      "tile": "wxp5",
+      "coordinates": {
+        "lat": 40,
+        "lng": 122.5
+      },
+      "distanceKm": 57.2
+    },
+    "se": {
+      "id": "goguryeo-tombs-wp",
+      "title": "Goguryeo Tombs",
+      "tile": "wycj",
+      "coordinates": {
+        "lat": 38.863055555556,
+        "lng": 125.415
+      },
+      "distanceKm": 245.3
+    }
+  }
+}

@@ -68,14 +68,14 @@
   "locationWikivoyagePath": "c/2/2/s/anderson-island-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "olympic-peninsula-wk",
-      "title": "Olympic Peninsula",
-      "tile": "c22p",
+      "id": "quinault-rain-forest-wp",
+      "title": "Quinault Rain Forest",
+      "tile": "c0ry",
       "coordinates": {
-        "lat": 47.802,
-        "lng": -123.604
+        "lat": 47.5051,
+        "lng": -123.821
       },
-      "distanceKm": 40.9
+      "distanceKm": 32.1
     },
     "n": {
       "id": "bremerton-wk",
@@ -98,14 +98,14 @@
       "distanceKm": 6.2
     },
     "w": {
-      "id": "olympic-rainforest-wk",
-      "title": "Olympic: Where Rainforest Meets the Wild Pacific",
-      "tile": "c22p",
+      "id": "sierra-motor-ship-wp",
+      "title": "Sierra (motor ship)",
+      "tile": "c0rg",
       "coordinates": {
-        "lat": 47.8021,
-        "lng": -123.6044
+        "lat": 46.97527777777778,
+        "lng": -123.80055555555556
       },
-      "distanceKm": 69
+      "distanceKm": 39.2
     },
     "e": {
       "id": "interurban-trail-king-county-wp",
@@ -118,24 +118,24 @@
       "distanceKm": 30.5
     },
     "sw": {
-      "id": "astoria-end-of-trail-wk",
-      "title": "Astoria: Where Lewis and Clark Finally Saw the Pacific",
-      "tile": "c0py",
+      "id": "south-bend-washington-wp",
+      "title": "South Bend, Washington",
+      "tile": "c0rc",
       "coordinates": {
-        "lat": 46.1879,
-        "lng": -123.8313
+        "lat": 46.663611111111,
+        "lng": -123.80111111111
       },
-      "distanceKm": 89.3
+      "distanceKm": 42.9
     },
     "s": {
-      "id": "cascade-range-wp",
-      "title": "Cascade Range",
-      "tile": "c236",
+      "id": "lumber-exchange-building-south-bend-washington-wp",
+      "title": "Lumber Exchange Building (South Bend, Washington)",
+      "tile": "c0rc",
       "coordinates": {
-        "lat": 46.8528267,
-        "lng": -121.7604408
+        "lat": 46.666272,
+        "lng": -123.810458
       },
-      "distanceKm": 84.9
+      "distanceKm": 77.4
     },
     "se": {
       "id": "ashford-washington-wk",

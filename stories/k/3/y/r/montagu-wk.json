@@ -1,0 +1,149 @@
+{
+  "id": "montagu-wk",
+  "source": "wikipedia",
+  "sourceId": "22766",
+  "title": "Montagu",
+  "slug": "montagu",
+  "summary": "A small Western Cape town where over 400 rock climbing routes scale the surrounding mountains, hot mineral springs steam in the valley below, and Route 62 leads onward into the Klein Karoo.",
+  "content": {
+    "intro": "The gorge announces the town before the town announces itself. Cogmanskloof, a narrow gap through the Langeberg mountains, funnels the road through sheer rock walls into a valley where fruit orchards line the Keisie River and Cape Dutch gables catch the afternoon light. Montagu sits at the western gateway to the Klein Karoo, a two-to-three-hour drive from Cape Town along Route 62 -- the inland alternative to the coastal N2 that threads through some of the Western Cape's most striking landscapes. What the town lacks in size, it compensates for in vertical ambition: over 400 sport climbing routes have been bolted into the sandstone cliffs surrounding the valley, making Montagu one of South Africa's premier rock climbing destinations.",
+    "sections": [
+      {
+        "title": "Gables and Long Street",
+        "body": "Montagu was established in 1851 and named after John Montagu, Colonial Secretary of the Cape. The town's architecture tells the story of its 19th-century prosperity. Long Street, the main thoroughfare, is lined with Cape Dutch and Victorian buildings that have survived largely intact -- whitewashed walls, thatched roofs, the characteristic curved gables that Dutch settlers adapted to the African climate. Walking the street is an exercise in architectural time travel, from the old Dutch Reformed church to the small art galleries that have colonized former farmhouses. A medicinal herb museum adds an unexpected footnote. The Saturday village market in Euvard Park on Bath Street draws local farmers and artisans from across the Langeberg region, with stalls offering farm produce, handmade crafts, and food that reflects both Afrikaner and Cape Malay traditions."
+      },
+      {
+        "title": "Vertical Sandstone",
+        "body": "Rock climbers discovered Montagu's potential decades ago, and the crags have only grown in reputation since. The sandstone walls surrounding the town offer routes across a wide range of difficulty, from beginner-friendly slabs to overhanging sport routes that demand both power and technique. Two hiking trails -- Bloupunt and the Cogmanskloof trail -- start at Joubert Park on the edge of town, providing access to the mountain landscape without the need for ropes and harnesses. Further into the Koo Valley, the Gecko Trail offers multi-day wilderness hiking, while the Nuy River Gorge provides opportunities for kloofing, the South African term for canyoneering, combining swimming, scrambling, and jumping through narrow river gorges. For those who prefer their adventure heated, the hot mineral springs lie just three kilometers outside town, their therapeutic waters long known to the Khoekhoe people before European settlers arrived."
+      },
+      {
+        "title": "The Route 62 Corridor",
+        "body": "Montagu's position on Route 62 makes it both a destination and a waypoint. To the east, the road winds through the semi-arid Klein Karoo toward Oudtshoorn, the ostrich capital of the world, passing through landscapes that shift from green valley to dry scrubland within a few kilometers. To the west, the R318 offers a slower, more scenic alternative through the Keisie and Koo Valleys toward the N1 highway and the Hex River Valley, one of South Africa's great grape-growing regions. Wineries are scattered throughout the surrounding valleys, producing muscadel and other fortified wines that benefit from the hot days and cool nights characteristic of the region. The nearest airports are in Cape Town and George, but Robertson Airfield, an unmanned municipal strip licensed by the South African Civil Aviation Authority, lies 28 kilometers to the west at an elevation of 640 meters, offering access for light aircraft."
+      }
+    ],
+    "flightContext": "Located at 33.78S, 20.12E in a valley on the northern side of the Langeberg mountains. The town is nestled in the Cogmanskloof valley -- the gorge is a striking visual feature from altitude. Robertson Airfield (FARO/ROD) lies 28 km to the west, elevation 640 m. Cape Town International (FACT, ~190 km W), George Airport (FAGG, ~170 km E). Caution: mountainous terrain on all sides, orographic turbulence possible in windy conditions. Best viewed at 3,000-4,000 ft."
+  },
+  "location": {
+    "coordinates": {
+      "lat": -33.7833,
+      "lng": 20.1167
+    },
+    "geohash": "k3yrc"
+  },
+  "categories": [
+    "town",
+    "adventure",
+    "architecture",
+    "wine"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-09T00:00:00Z",
+    "wordCount": 670,
+    "readTime": 4,
+    "firstPublished": "2026-03-09T00:00:00Z",
+    "storyNumber": 7389
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Montagu - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Montagu,_Western_Cape",
+      "accessedAt": "2026-03-12",
+      "claimsVerified": [
+        "Established 1851 confirmed",
+        "Named after John Montagu, Colonial Secretary of the Cape confirmed",
+        "Position on Route 62 confirmed",
+        "Over 400 sport climbing routes confirmed",
+        "Robertson Airfield 28 km to the west confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "cape-winelands-wk",
+      "title": "Cape Winelands",
+      "tile": "k6jc",
+      "coordinates": {
+        "lat": -33.5,
+        "lng": 19.35
+      },
+      "distanceKm": 32.4
+    },
+    "n": {
+      "id": "hex-river-tunnels-wp",
+      "title": "Hex River Tunnels",
+      "tile": "k6n1",
+      "coordinates": {
+        "lat": -33.405814,
+        "lng": 19.9008
+      },
+      "distanceKm": 34.6
+    },
+    "ne": {
+      "id": "gamkaskloof-wp",
+      "title": "Gamkaskloof",
+      "tile": "k6pd",
+      "coordinates": {
+        "lat": -33.3415,
+        "lng": 21.8768
+      },
+      "distanceKm": 108.4
+    },
+    "w": {
+      "id": "worcester-western-cape-wk",
+      "title": "Worcester",
+      "tile": "k6jb",
+      "coordinates": {
+        "lat": -33.64,
+        "lng": 19.44
+      },
+      "distanceKm": 31.7
+    },
+    "e": {
+      "id": "gamkaberg-nature-reserve-wp",
+      "title": "Gamkaberg Nature Reserve",
+      "tile": "k6p2",
+      "coordinates": {
+        "lat": -33.68888889,
+        "lng": 21.6
+      },
+      "distanceKm": 81
+    },
+    "sw": {
+      "id": "hermanus-wk",
+      "title": "Hermanus",
+      "tile": "k3vs",
+      "coordinates": {
+        "lat": -34.416667,
+        "lng": 19.3
+      },
+      "distanceKm": 50
+    },
+    "s": {
+      "id": "de-hoop-nature-reserve-wk",
+      "title": "De Hoop Nature Reserve",
+      "tile": "k3ys",
+      "coordinates": {
+        "lat": -34.4342,
+        "lng": 20.5478
+      },
+      "distanceKm": 48
+    },
+    "se": {
+      "id": "blombos-cave-wp",
+      "title": "Blombos Cave",
+      "tile": "k3zh",
+      "coordinates": {
+        "lat": -34.414444444444,
+        "lng": 21.2225
+      },
+      "distanceKm": 56.2
+    }
+  },
+  "locationWikipediaPath": "k/3/y/r/montagu-museum-wp",
+  "locationWikivoyagePath": "k/3/y/r/montagu-wk"
+}

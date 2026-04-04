@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "salmon-ruins-wp",
     "sourceGeohash4": "9we0",
-    "smallPath": "_m/9/w/e/0/salmon-ruins-wp/hero-small.jpg",
-    "mediumPath": "_m/9/w/e/0/salmon-ruins-wp/hero-medium.jpg"
+    "smallPath": "_m/9/w/e/0/salmon-ruins-wp/hero-small.webp",
+    "mediumPath": "_m/9/w/e/0/salmon-ruins-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Salmon Ruins by RO.JPG",
@@ -97,7 +97,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "salmon-ruins-wp",
-      "sourceGeohash4": "9we0"
+      "sourceGeohash4": "9we0",
+      "smallPath": "_m/9/w/e/0/salmon-ruins-wp/salmonmap-small.webp"
     },
     {
       "filename": "Salmon Ruins in Aztec, New Mexico. 01.jpg",
@@ -126,7 +127,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "salmon-ruins-wp",
-      "sourceGeohash4": "9we0"
+      "sourceGeohash4": "9we0",
+      "mediumPath": "_m/9/w/e/0/salmon-ruins-wp/salmon-ruins-in-aztec-new-mexi-medium.webp",
+      "smallPath": "_m/9/w/e/0/salmon-ruins-wp/salmon-ruins-in-aztec-new-mexi-small.webp"
     },
     {
       "filename": "Salmon Ruins in Aztec, New Mexico. 02.jpg",
@@ -155,7 +158,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "salmon-ruins-wp",
-      "sourceGeohash4": "9we0"
+      "sourceGeohash4": "9we0",
+      "mediumPath": "_m/9/w/e/0/salmon-ruins-wp/salmon-ruins-in-aztec-new-mexi-1-medium.webp",
+      "smallPath": "_m/9/w/e/0/salmon-ruins-wp/salmon-ruins-in-aztec-new-mexi-1-small.webp"
     },
     {
       "filename": "Salmon Ruins, New Mexico.jpg",
@@ -175,7 +180,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "salmon-ruins-wp",
-      "sourceGeohash4": "9we0"
+      "sourceGeohash4": "9we0",
+      "mediumPath": "_m/9/w/e/0/salmon-ruins-wp/salmon-ruins-new-mexico-medium.webp",
+      "smallPath": "_m/9/w/e/0/salmon-ruins-wp/salmon-ruins-new-mexico-small.webp"
     }
   ],
   "galleryPaths": [
@@ -185,7 +192,6 @@
     "_m/9/w/e/0/salmon-ruins-wp/salmon-ruins-in-aztec-new-mexi-1.jpg",
     "_m/9/w/e/0/salmon-ruins-wp/salmon-ruins-new-mexico.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:47:15.867Z",
   "narration": {
     "files": [
       "9we0-salmon-ruins-flight-context.mp3",
@@ -205,8 +211,7 @@
       "9we0-salmon-ruins-unearthed-and-unfinished.mp3": 66.4067083,
       "9we0-salmon-ruins-rooms-with-a-view.mp3": 46.813375
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T17:22:28.211Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T23:47:16.932Z"
 }

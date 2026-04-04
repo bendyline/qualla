@@ -26,7 +26,7 @@
     "sourceType": "core",
     "sourceArticleId": "sonmiani-flight-test-range-wp",
     "sourceGeohash4": "tkrr",
-    "smallPath": "_m/t/k/r/r/sonmiani-flight-test-range-wp/hero-small.jpg"
+    "smallPath": "_m/t/k/r/r/sonmiani-flight-test-range-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Hub-District-Map-with-Tehsils-complete.jpg",
@@ -57,5 +57,21 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T10:39:49.837Z"
+  "narration": {
+    "files": [
+      "tkrr-sonmiani-flight-test-range-flight-context.mp3",
+      "tkrr-sonmiani-flight-test-range-intro.mp3",
+      "tkrr-sonmiani-flight-test-range-an-american-beginning.mp3",
+      "tkrr-sonmiani-flight-test-range-from-sounding-rockets-to-missile-tests.mp3",
+      "tkrr-sonmiani-flight-test-range-a-coastline-of-contrasts.mp3"
+    ],
+    "durations": {
+      "tkrr-sonmiani-flight-test-range-flight-context.mp3": 37.6585416,
+      "tkrr-sonmiani-flight-test-range-intro.mp3": 39.0782916,
+      "tkrr-sonmiani-flight-test-range-an-american-beginning.mp3": 55.7048333,
+      "tkrr-sonmiani-flight-test-range-from-sounding-rockets-to-missile-tests.mp3": 51.3818333,
+      "tkrr-sonmiani-flight-test-range-a-coastline-of-contrasts.mp3": 52.6484166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

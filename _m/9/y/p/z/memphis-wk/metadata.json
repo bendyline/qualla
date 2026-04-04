@@ -21,8 +21,8 @@
     "sourceType": "core",
     "sourceArticleId": "memphis-wk",
     "sourceGeohash4": "9ypz",
-    "smallPath": "_m/9/y/p/z/memphis-wk/hero-small.jpg",
-    "mediumPath": "_m/9/y/p/z/memphis-wk/hero-medium.jpg"
+    "smallPath": "_m/9/y/p/z/memphis-wk/hero-small.webp",
+    "mediumPath": "_m/9/y/p/z/memphis-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "FedExForum.jpg",
@@ -366,8 +366,7 @@
       "sourceType": "core",
       "sourceArticleId": "memphis-wk",
       "sourceGeohash4": "9ypz",
-      "smallPath": "_m/9/y/p/z/memphis-wk/stax-museum-amp-satell-small.jpg",
-      "mediumPath": "_m/9/y/p/z/memphis-wk/stax-museum-amp-satell-medium.jpg"
+      "smallPath": "_m/9/y/p/z/memphis-wk/hero-small.webp"
     },
     {
       "filename": "Memphis Skyline.jpg",
@@ -682,7 +681,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "memphis-wk",
-      "sourceGeohash4": "9ypz"
+      "sourceGeohash4": "9ypz",
+      "mediumPath": "_m/9/y/p/z/memphis-wk/monnaie-tetradrachme-argent-ty-medium.webp",
+      "smallPath": "_m/9/y/p/z/memphis-wk/monnaie-tetradrachme-argent-ty-small.webp"
     },
     {
       "filename": "Monnaie - Tétradrachme, argent, types d'Alexandre III le Grand, Memphis, Égypte - btv1b8490023j (2 of 2).jpg",
@@ -709,7 +710,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "memphis-wk",
-      "sourceGeohash4": "9ypz"
+      "sourceGeohash4": "9ypz",
+      "mediumPath": "_m/9/y/p/z/memphis-wk/monnaie-tetradrachme-argent-ty-1-medium.webp",
+      "smallPath": "_m/9/y/p/z/memphis-wk/monnaie-tetradrachme-argent-ty-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -743,7 +746,6 @@
     "_m/9/y/p/z/memphis-wk/monnaie-tetradrachme-argent-ty.jpg",
     "_m/9/y/p/z/memphis-wk/monnaie-tetradrachme-argent-ty-1.jpg"
   ],
-  "fetchedAt": "2026-02-22T01:10:00.539Z",
   "updatedAt": "2026-02-22T01:10:02.043Z",
   "narration": {
     "files": [
@@ -756,7 +758,6 @@
       "9ypz-memphis-where-the-blues-were-born-and-elvis-came-h-bluff-city-position.mp3"
     ],
     "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-23T21:09:09.625Z",
     "durations": {
       "9ypz-memphis-where-the-blues-were-born-and-elvis-came-h-flight-context.mp3": 43.5462083,
       "9ypz-memphis-where-the-blues-were-born-and-elvis-came-h-intro.mp3": 76.0569583,

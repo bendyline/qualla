@@ -111,24 +111,24 @@
       "distanceKm": 721.4
     },
     "n": {
-      "id": "kidd-mine-wp",
-      "title": "Kidd Mine",
-      "tile": "f0wh",
+      "id": "fort-ramsay-wp",
+      "title": "Fort Ramsay",
+      "tile": "f8dj",
       "coordinates": {
-        "lat": 48.68888888888888,
-        "lng": -81.36527777777778
+        "lat": 48.825,
+        "lng": -64.444
       },
-      "distanceKm": 825.1
+      "distanceKm": 419.3
     },
     "ne": {
-      "id": "trans-labrador-highway-wk",
-      "title": "Trans-Labrador Highway",
-      "tile": "f92m",
+      "id": "chic-chocs-wildlife-reserve-wp",
+      "title": "Chic-Chocs Wildlife Reserve",
+      "tile": "f89n",
       "coordinates": {
-        "lat": 52.95,
-        "lng": -66.9
+        "lat": 48.9375,
+        "lng": -65.83
       },
-      "distanceKm": 528.6
+      "distanceKm": 281.1
     },
     "w": {
       "id": "val-jalbert-wp",
@@ -141,14 +141,14 @@
       "distanceKm": 112.9
     },
     "e": {
-      "id": "magnetic-hill-illusion-wk",
-      "title": "Magnetic Hill: Canada's Gravity-Defying Road",
-      "tile": "f81y",
+      "id": "battle-of-restigouche-wp",
+      "title": "Battle of Restigouche",
+      "tile": "f889",
       "coordinates": {
-        "lat": 46.0976,
-        "lng": -64.8769
+        "lat": 48.00472222,
+        "lng": -66.72083333
       },
-      "distanceKm": 430.4
+      "distanceKm": 216.1
     },
     "sw": {
       "id": "canyon-sainte-anne-wp",
@@ -171,14 +171,15 @@
       "distanceKm": 27.6
     },
     "se": {
-      "id": "acadia-wk",
-      "title": "Acadia National Park",
-      "tile": "f83n",
+      "id": "ocean-train-wp",
+      "title": "The Ocean",
+      "tile": "f882",
       "coordinates": {
-        "lat": 47.617,
-        "lng": -65.767
+        "lat": 47.97507,
+        "lng": -66.93769
       },
-      "distanceKm": 289.9
+      "distanceKm": 198.8
     }
-  }
+  },
+  "locationWikipediaPath": "f/2/w/4/saguenay-fjord-national-park-wp"
 }

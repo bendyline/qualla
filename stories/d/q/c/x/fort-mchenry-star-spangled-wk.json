@@ -75,14 +75,14 @@
   "locationWikipediaPath": "d/q/c/x/fort-mchenry-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "gettysburg-turning-point-wk",
-      "title": "Gettysburg: The Three Days That Decided the War",
+      "id": "battle-of-gettysburg-wp",
+      "title": "Battle of Gettysburg",
       "tile": "dr14",
       "coordinates": {
-        "lat": 39.8107,
-        "lng": -77.2293
+        "lat": 39.811388888889,
+        "lng": -77.225833333333
       },
-      "distanceKm": 35.3
+      "distanceKm": 35.2
     },
     "n": {
       "id": "three-mile-island-accident-wk",
@@ -157,5 +157,8 @@
   },
   "keywords": [
     "fort-mchenry-star-spangled"
+  ],
+  "duplicates": [
+    "fort-mchenry-wp"
   ]
 }

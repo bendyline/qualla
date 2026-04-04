@@ -27,8 +27,8 @@
     "sourceType": "core",
     "sourceArticleId": "ras-al-hadd-wp",
     "sourceGeohash4": "tk48",
-    "mediumPath": "_m/t/k/4/8/ras-al-hadd-wp/hero-medium.jpg",
-    "smallPath": "_m/t/k/4/8/ras-al-hadd-wp/hero-small.jpg"
+    "mediumPath": "_m/t/k/4/8/ras-al-hadd-wp/hero-medium.webp",
+    "smallPath": "_m/t/k/4/8/ras-al-hadd-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Ras al Hadd.jpg",
@@ -88,8 +88,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "ras-al-hadd-wp",
       "sourceGeohash4": "tk48",
-      "mediumPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0215-archaologe-medium.jpg",
-      "smallPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0215-archaologe-small.jpg"
+      "mediumPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0215-archaologe-medium.webp",
+      "smallPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0215-archaologe-small.webp"
     },
     {
       "filename": "Dunst Oman scan0216 - Ausgrabung.jpg",
@@ -119,8 +119,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "ras-al-hadd-wp",
       "sourceGeohash4": "tk48",
-      "mediumPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0216-ausgrabung-medium.jpg",
-      "smallPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0216-ausgrabung-small.jpg"
+      "mediumPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0216-ausgrabung-medium.webp",
+      "smallPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0216-ausgrabung-small.webp"
     },
     {
       "filename": "Dunst Oman scan0220 - Durchblick.jpg",
@@ -149,8 +149,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "ras-al-hadd-wp",
       "sourceGeohash4": "tk48",
-      "mediumPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0220-durchblick-medium.jpg",
-      "smallPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0220-durchblick-small.jpg"
+      "mediumPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0220-durchblick-medium.webp",
+      "smallPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0220-durchblick-small.webp"
     },
     {
       "filename": "Dunst Oman scan0221 - Einblick.jpg",
@@ -180,8 +180,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "ras-al-hadd-wp",
       "sourceGeohash4": "tk48",
-      "mediumPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0221-einblick-medium.jpg",
-      "smallPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0221-einblick-small.jpg"
+      "mediumPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0221-einblick-medium.webp",
+      "smallPath": "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0221-einblick-small.webp"
     }
   ],
   "galleryPaths": [
@@ -190,6 +190,24 @@
     "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0220-durchblick.jpg",
     "_m/t/k/4/8/ras-al-hadd-wp/dunst-oman-scan0221-einblick.jpg"
   ],
-  "fetchedAt": "2026-03-01T10:24:08.869Z",
-  "updatedAt": "2026-03-01T10:24:14.774Z"
+  "updatedAt": "2026-03-01T10:24:14.774Z",
+  "narration": {
+    "files": [
+      "tk48-ras-al-hadd-flight-context.mp3",
+      "tk48-ras-al-hadd-intro.mp3",
+      "tk48-ras-al-hadd-where-the-gulf-begins.mp3",
+      "tk48-ras-al-hadd-the-turtle-reserve.mp3",
+      "tk48-ras-al-hadd-watchers-on-the-point.mp3",
+      "tk48-ras-al-hadd-edge-of-arabia.mp3"
+    ],
+    "durations": {
+      "tk48-ras-al-hadd-flight-context.mp3": 36.8165,
+      "tk48-ras-al-hadd-intro.mp3": 41.5157916,
+      "tk48-ras-al-hadd-where-the-gulf-begins.mp3": 49.1384583,
+      "tk48-ras-al-hadd-the-turtle-reserve.mp3": 58.0745,
+      "tk48-ras-al-hadd-watchers-on-the-point.mp3": 48.8667083,
+      "tk48-ras-al-hadd-edge-of-arabia.mp3": 57.0749166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

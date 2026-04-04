@@ -134,14 +134,14 @@
       "distanceKm": 108.5
     },
     "ne": {
-      "id": "st-petersburg-wk",
-      "title": "St. Petersburg",
-      "tile": "udts",
+      "id": "finnish-war-wp",
+      "title": "Finnish War",
+      "tile": "ue02",
       "coordinates": {
-        "lat": 59.9343,
-        "lng": 30.3351
+        "lat": 62,
+        "lng": 22.966666666666665
       },
-      "distanceKm": 445.5
+      "distanceKm": 365.8
     },
     "w": {
       "id": "baltic-ice-lake-wp",
@@ -154,14 +154,14 @@
       "distanceKm": 116.4
     },
     "e": {
-      "id": "vilnius-wk",
-      "title": "Vilnius",
-      "tile": "u99z",
+      "id": "helvetinjarvi-national-park-wp",
+      "title": "Helvetinjärvi National Park",
+      "tile": "ue0b",
       "coordinates": {
-        "lat": 54.6872,
-        "lng": 25.2797
+        "lat": 62.03333333,
+        "lng": 23.85
       },
-      "distanceKm": 443.7
+      "distanceKm": 402.5
     },
     "sw": {
       "id": "2022-baltic-sea-cessna-citation-ii-crash-wp",
@@ -196,5 +196,7 @@
   },
   "keywords": [
     "saaremaa"
-  ]
+  ],
+  "locationWikipediaPath": "u/6/r/u/saaremaa-wp",
+  "locationWikivoyagePath": "u/6/r/u/saaremaa-wk"
 }

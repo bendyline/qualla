@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-berby-wp",
     "sourceGeohash4": "u62p",
-    "smallPath": "_m/u/6/2/p/battle-of-berby-wp/hero-small.jpg",
-    "mediumPath": "_m/u/6/2/p/battle-of-berby-wp/hero-medium.jpg"
+    "smallPath": "_m/u/6/2/p/battle-of-berby-wp/hero-small.webp",
+    "mediumPath": "_m/u/6/2/p/battle-of-berby-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Kort og Forestilling af Situationen og slaget ved Berby den 12. Sept. 1808 - no-nb krt 00591.jpg",
@@ -90,13 +90,14 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-berby-wp",
-      "sourceGeohash4": "u62p"
+      "sourceGeohash4": "u62p",
+      "mediumPath": "_m/u/6/2/p/battle-of-berby-wp/bloch-kampen-ved-berby-1808-medium.webp",
+      "smallPath": "_m/u/6/2/p/battle-of-berby-wp/bloch-kampen-ved-berby-1808-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/u/6/2/p/battle-of-berby-wp/bloch-kampen-ved-berby-1808.jpg"
   ],
-  "fetchedAt": "2026-02-22T14:31:01.824Z",
   "narration": {
     "files": [
       "u62p-battle-of-berby-flight-context.mp3",
@@ -116,8 +117,7 @@
       "u62p-battle-of-berby-the-half-hour-truce.mp3": 50.0439166,
       "u62p-battle-of-berby-victory-claimed-by-both.mp3": 59.446375
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T15:19:26.589Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T14:31:02.327Z"
 }

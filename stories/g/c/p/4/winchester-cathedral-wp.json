@@ -1,0 +1,155 @@
+{
+  "id": "winchester-cathedral-wp",
+  "source": "wikipedia",
+  "sourceId": "125132",
+  "title": "Winchester Cathedral",
+  "slug": "winchester-cathedral",
+  "summary": "The longest medieval cathedral in the world, where Jane Austen lies buried beneath the nave and a deep-sea diver once saved the building from sinking into the marsh.",
+  "content": {
+    "intro": "Between 1906 and 1911, a deep-sea diver named William Walker worked alone beneath Winchester Cathedral, spending six hours a day underwater in complete darkness, replacing the rotting medieval timber foundations with cement and concrete. The cathedral had been slowly sinking into the waterlogged peat bog on which it stood. Walker laid 25,800 bags of concrete, 114,900 concrete blocks, and 900,000 bricks -- all by hand, all by feel, in water so murky he could see nothing. He saved the longest medieval cathedral in the world.",
+    "sections": [
+      {
+        "title": "The Longest Nave",
+        "body": "Winchester Cathedral stretches 558 feet from end to end, making it the longest medieval cathedral in the world. Built between 1079 and 1532, it encompasses nearly every major style of English Gothic architecture -- Norman transepts and tower, an Early English retrochoir, and a nave in the Perpendicular Gothic style whose soaring verticals draw the eye relentlessly upward. The cathedral is the seat of the Bishop of Winchester and mother church of the ancient Diocese of Winchester, one of the oldest and wealthiest sees in England. With an area of over 53,000 square feet, it ranks among the six largest cathedrals in Britain. A major tourist attraction, it drew 365,000 visitors in 2019."
+      },
+      {
+        "title": "Saint Swithun's Rain",
+        "body": "The cathedral is dedicated to several saints, most notably Swithun, the 9th-century Bishop of Winchester whose legend gave England one of its most enduring weather superstitions. According to tradition, when Swithun's remains were moved from their outdoor grave to a shrine inside the cathedral on 15 July 971, a great rainstorm broke out and continued for forty days. The folklore persists: if it rains on St Swithun's Day (15 July), it will rain for forty days afterward. Swithun's shrine became a major pilgrimage destination, and though the original shrine was destroyed during the Reformation, a modern memorial marks the spot. The cathedral's history as a place of worship stretches back even further -- an earlier Anglo-Saxon church, the Old Minster, stood on this site from the 7th century."
+      },
+      {
+        "title": "Jane Austen's Final Rest",
+        "body": "Jane Austen died in Winchester on 18 July 1817, having moved to the city to be closer to her physician. She was buried in the north aisle of the cathedral's nave. Her original memorial slab makes no mention of her novels -- it speaks only of \"the benevolence of her heart, the sweetness of her temper, and the extraordinary endowments of her mind.\" A later brass tablet, placed by her nephew, finally acknowledged her as the author of works that would become the most beloved in the English language. Today, a memorial window and an exhibit in the cathedral's north aisle draw literary pilgrims from around the world who come to pay their respects to the woman who transformed the English novel."
+      },
+      {
+        "title": "Saved from the Swamp",
+        "body": "By the early 1900s, Winchester Cathedral was in crisis. The east end was visibly sinking as the medieval timber foundations, laid in waterlogged peat, rotted away. Cracks spread through the walls. Conventional engineering could not reach the foundations because the water table was too high -- any excavation immediately flooded. The solution was William Walker, a professional diver who donned a full diving suit each day and descended into the flooded foundations. Working in total darkness for five years, he systematically replaced the decayed timbers with bags of concrete and blocks. His work stabilized the building and remains one of the most remarkable feats of structural preservation in British history. A statue of Walker in his diving suit stands in the cathedral, honoring the man who saved it from the swamp. The cathedral continues to be a living place of worship, its medieval fabric maintained by ongoing conservation that Walker's extraordinary intervention made possible."
+      }
+    ],
+    "flightContext": "Located at 51.06N, 1.31W in the center of Winchester, Hampshire. The cathedral is one of the largest structures in the city and clearly visible from the air, with its long nave and Norman tower. Winchester Castle's Great Hall is nearby. Southampton Airport (EGHI) is approximately 10nm south-southwest. Best viewed at 2,000-3,000 ft AGL."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 51.0608,
+      "lng": -1.3131
+    },
+    "geohash": "gcp43"
+  },
+  "categories": [
+    "cathedrals",
+    "gothic-architecture",
+    "literary-sites",
+    "medieval-history"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 730,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 10515
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "William Walker (diver) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Walker_(diver)",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "William Walker worked 1906-1911 (five years, not six) - corrected in story",
+        "25,800 bags of concrete - confirmed",
+        "114,900 concrete blocks - confirmed",
+        "900,000 bricks - confirmed",
+        "Worked six hours per day underwater - confirmed",
+        "Winchester Cathedral 558 feet long - confirmed as longest medieval cathedral in the world",
+        "Jane Austen died in Winchester 18 July 1817 - confirmed",
+        "Cathedral built 1079-1532 - confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "g/c/p/4/winchester-cathedral-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "west-kennet-long-barrow-wp",
+      "title": "West Kennet Long Barrow",
+      "tile": "gcns",
+      "coordinates": {
+        "lat": 51.408,
+        "lng": -1.85
+      },
+      "distanceKm": 10.9
+    },
+    "n": {
+      "id": "donnington-castle-wp",
+      "title": "Donnington Castle",
+      "tile": "gcph",
+      "coordinates": {
+        "lat": 51.4197,
+        "lng": -1.3381
+      },
+      "distanceKm": 12.6
+    },
+    "ne": {
+      "id": "windsor-castle-wp",
+      "title": "Windsor Castle: A Thousand Years on the Thames",
+      "tile": "gcps",
+      "coordinates": {
+        "lat": 51.4838,
+        "lng": -0.60483
+      },
+      "distanceKm": 18.6
+    },
+    "w": {
+      "id": "salisbury-cathedral-wp",
+      "title": "Salisbury Cathedral",
+      "tile": "gcnd",
+      "coordinates": {
+        "lat": 51.065,
+        "lng": -1.7975
+      },
+      "distanceKm": 2.8
+    },
+    "e": {
+      "id": "guildford-castle-wp",
+      "title": "Guildford Castle",
+      "tile": "gcpe",
+      "coordinates": {
+        "lat": 51.2339,
+        "lng": -0.572659
+      },
+      "distanceKm": 20.9
+    },
+    "sw": {
+      "id": "corfe-castle-wp",
+      "title": "Corfe Castle",
+      "tile": "gcn8",
+      "coordinates": {
+        "lat": 50.6399,
+        "lng": -2.0589
+      },
+      "distanceKm": 27.7
+    },
+    "s": {
+      "id": "southsea-castle-wp",
+      "title": "Southsea Castle",
+      "tile": "gcp0",
+      "coordinates": {
+        "lat": 50.778,
+        "lng": -1.08888
+      },
+      "distanceKm": 10.3
+    },
+    "se": {
+      "id": "d-day-beaches-wk",
+      "title": "D-Day: The Longest Day",
+      "tile": "gbzb",
+      "coordinates": {
+        "lat": 49.24209,
+        "lng": -0.27375
+      },
+      "distanceKm": 176
+    }
+  }
+}

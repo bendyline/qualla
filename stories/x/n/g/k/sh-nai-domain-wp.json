@@ -79,14 +79,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "terney-wk",
+      "title": "Terney",
+      "tile": "z010",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 45.033333,
+        "lng": 136.6
       },
-      "distanceKm": 1385.4
+      "distanceKm": 702.3
     },
     "n": {
       "id": "100-terraced-rice-fields-of-japan-wp",
@@ -158,5 +158,6 @@
       },
       "distanceKm": 24.9
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/g/k/shonai-domain-wp"
 }

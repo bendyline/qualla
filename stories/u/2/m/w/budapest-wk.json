@@ -127,24 +127,24 @@
   "locationWikivoyagePath": "u/2/m/w/budapest-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "vienna-wk",
-      "title": "Vienna",
+      "id": "prater-wp",
+      "title": "Prater",
       "tile": "u2ed",
       "coordinates": {
-        "lat": 48.208,
-        "lng": 16.373
+        "lat": 48.216111111111,
+        "lng": 16.395555555556
       },
-      "distanceKm": 173.8
+      "distanceKm": 172.4
     },
     "n": {
-      "id": "auschwitz-wk",
-      "title": "Auschwitz: The Site of Industrialized Murder",
-      "tile": "u2vs",
+      "id": "2020-vienna-attack-wp",
+      "title": "2020 Vienna Attack",
+      "tile": "u2ed",
       "coordinates": {
-        "lat": 50.0343,
-        "lng": 19.1962
+        "lat": 48.21198,
+        "lng": 16.37463
       },
-      "distanceKm": 247.1
+      "distanceKm": 211.9
     },
     "ne": {
       "id": "krakow-wk",
@@ -157,24 +157,24 @@
       "distanceKm": 251.1
     },
     "w": {
-      "id": "hallstatt-wk",
-      "title": "Hallstatt",
-      "tile": "u23w",
+      "id": "belvedere-vienna-wp",
+      "title": "The Belvedere: A General's Trophy Case Turned Art Shrine",
+      "tile": "u2ed",
       "coordinates": {
-        "lat": 47.5622,
-        "lng": 13.6493
+        "lat": 48.1934,
+        "lng": 16.380519444444445
       },
-      "distanceKm": 373.9
+      "distanceKm": 182.6
     },
     "e": {
-      "id": "thessaloniki-wk",
-      "title": "Thessaloniki",
-      "tile": "sx0r",
+      "id": "northern-transylvania-holocaust-memorial-museum-wp",
+      "title": "Northern Transylvania Holocaust Memorial Museum",
+      "tile": "u82h",
       "coordinates": {
-        "lat": 40.6401,
-        "lng": 22.9444
+        "lat": 47.2302,
+        "lng": 22.8017
       },
-      "distanceKm": 810.9
+      "distanceKm": 237.1
     },
     "sw": {
       "id": "zagreb-wk",
@@ -187,24 +187,24 @@
       "distanceKm": 260.4
     },
     "s": {
-      "id": "franz-ferdinand-wk",
-      "title": "The Assassination of Franz Ferdinand: The Wrong Turn That Started World War I",
-      "tile": "srv1",
+      "id": "coliboaia-cave-wp",
+      "title": "Coliboaia Cave",
+      "tile": "u820",
       "coordinates": {
-        "lat": 43.8575,
-        "lng": 18.4283
+        "lat": 46.5311,
+        "lng": 22.5956
       },
-      "distanceKm": 385.4
+      "distanceKm": 274.1
     },
     "se": {
-      "id": "karansebes-wk",
-      "title": "The Battle of Karansebes: When an Army Defeated Itself",
-      "tile": "u2pf",
+      "id": "ip-massacre-wp",
+      "title": "Ip Massacre",
+      "tile": "u82h",
       "coordinates": {
-        "lat": 45.4167,
-        "lng": 22.2167
+        "lat": 47.22916666666667,
+        "lng": 22.60611111111111
       },
-      "distanceKm": 284.3
+      "distanceKm": 220.3
     }
   },
   "keywords": [

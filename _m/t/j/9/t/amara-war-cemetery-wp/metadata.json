@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "amara-war-cemetery-wp",
     "sourceGeohash4": "tj9t",
-    "mediumPath": "_m/t/j/9/t/amara-war-cemetery-wp/hero-medium.jpg",
-    "smallPath": "_m/t/j/9/t/amara-war-cemetery-wp/hero-small.jpg"
+    "mediumPath": "_m/t/j/9/t/amara-war-cemetery-wp/hero-medium.webp",
+    "smallPath": "_m/t/j/9/t/amara-war-cemetery-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Kut-el-Amara-map.jpg",
@@ -54,5 +54,25 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T07:47:40.317Z"
+  "narration": {
+    "files": [
+      "tj9t-amara-war-cemetery-flight-context.mp3",
+      "tj9t-amara-war-cemetery-intro.mp3",
+      "tj9t-amara-war-cemetery-a-hospital-town-on-the-tigris.mp3",
+      "tj9t-amara-war-cemetery-victoria-crosses-and-friendly-fire.mp3",
+      "tj9t-amara-war-cemetery-salt-stone-and-memory.mp3",
+      "tj9t-amara-war-cemetery-kept-by-conscience.mp3",
+      "tj9t-amara-war-cemetery-the-weight-of-forgetting.mp3"
+    ],
+    "durations": {
+      "tj9t-amara-war-cemetery-flight-context.mp3": 35.7604583,
+      "tj9t-amara-war-cemetery-intro.mp3": 42.4791666,
+      "tj9t-amara-war-cemetery-a-hospital-town-on-the-tigris.mp3": 57.6427916,
+      "tj9t-amara-war-cemetery-victoria-crosses-and-friendly-fire.mp3": 77.1607083,
+      "tj9t-amara-war-cemetery-salt-stone-and-memory.mp3": 50.6147083,
+      "tj9t-amara-war-cemetery-kept-by-conscience.mp3": 54.2745833,
+      "tj9t-amara-war-cemetery-the-weight-of-forgetting.mp3": 53.170625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

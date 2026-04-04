@@ -146,14 +146,14 @@
       "distanceKm": 13.4
     },
     "sw": {
-      "id": "zuiderzee-works-wp",
-      "title": "Zuiderzee Works",
-      "tile": "u17s",
+      "id": "voergaard-castle-wp",
+      "title": "Voergaard Castle",
+      "tile": "u4pm",
       "coordinates": {
-        "lat": 52.821,
-        "lng": 5.269
+        "lat": 57.2425,
+        "lng": 10.3354
       },
-      "distanceKm": 670.4
+      "distanceKm": 88.6
     },
     "s": {
       "id": "gothenburg-archipelago-wp",
@@ -178,5 +178,6 @@
   },
   "keywords": [
     "bohus-fortress"
-  ]
+  ],
+  "locationWikipediaPath": "u/6/2/9/bohus-fortress-wp"
 }

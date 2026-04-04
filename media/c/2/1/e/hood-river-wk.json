@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/c/2/1/e/hood-river-wk/c21e-hood-river-intro.mp3",
-        "_m/c/2/1/e/hood-river-wk/c21e-hood-river-craft-beverage-culture.mp3",
         "_m/c/2/1/e/hood-river-wk/c21e-hood-river-flight-context.mp3",
-        "_m/c/2/1/e/hood-river-wk/c21e-hood-river-mount-hood-backdrop.mp3",
+        "_m/c/2/1/e/hood-river-wk/c21e-hood-river-intro.mp3",
+        "_m/c/2/1/e/hood-river-wk/c21e-hood-river-wind-city.mp3",
         "_m/c/2/1/e/hood-river-wk/c21e-hood-river-the-columbia-river-gorge.mp3",
-        "_m/c/2/1/e/hood-river-wk/c21e-hood-river-the-fruit-loop.mp3",
-        "_m/c/2/1/e/hood-river-wk/c21e-hood-river-wind-city.mp3"
+        "_m/c/2/1/e/hood-river-wk/c21e-hood-river-mount-hood-backdrop.mp3",
+        "_m/c/2/1/e/hood-river-wk/c21e-hood-river-craft-beverage-culture.mp3",
+        "_m/c/2/1/e/hood-river-wk/c21e-hood-river-the-fruit-loop.mp3"
       ],
       "hero": {
         "path": "_m/c/2/1/e/pine-grove-hood-river-county-oregon-wp/pine-grove-oregon-panorama.jpg",
@@ -63,7 +63,7 @@
             "Self-published work",
             "Taken with Canon PowerShot S2 IS"
           ],
-          "smallPath": "_m/c/2/1/e/hood-river-wk/historic-mount-hood-ho-small.jpg"
+          "smallPath": "_m/c/2/1/e/hood-river-wk/historic-mount-hood-ho-small.webp"
         },
         {
           "path": "_m/c/2/1/e/hood-river-wk/some-them-many-antique.jpg",
@@ -90,8 +90,8 @@
             "Self-published work",
             "Taken with Olympus FE-280 / X-820 / C-520"
           ],
-          "smallPath": "_m/c/2/1/e/hood-river-wk/some-them-many-antique-small.jpg",
-          "mediumPath": "_m/c/2/1/e/hood-river-wk/some-them-many-antique-medium.jpg"
+          "smallPath": "_m/c/2/1/e/hood-river-wk/some-them-many-antique-small.webp",
+          "mediumPath": "_m/c/2/1/e/hood-river-wk/some-them-many-antique-medium.webp"
         },
         {
           "path": "_m/c/2/1/e/hood-river-wk/double-mountain-brewer.jpg",
@@ -116,8 +116,8 @@
             "Taken with Nikon D3100",
             "Visitor7 BW Images"
           ],
-          "smallPath": "_m/c/2/1/e/hood-river-wk/double-mountain-brewer-small.jpg",
-          "mediumPath": "_m/c/2/1/e/hood-river-wk/double-mountain-brewer-medium.jpg"
+          "smallPath": "_m/c/2/1/e/hood-river-wk/double-mountain-brewer-small.webp",
+          "mediumPath": "_m/c/2/1/e/hood-river-wk/double-mountain-brewer-medium.webp"
         },
         {
           "path": "_m/c/2/1/e/hood-river-wk/hero.jpg",
@@ -147,7 +147,8 @@
           "mediumPath": "_m/c/2/1/e/hood-river-wk/hero-medium.jpg",
           "smallPath": "_m/c/2/1/e/hood-river-wk/hero-small.jpg"
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/1/e/hood-river-wk/c21e-hood-river-combined.mp3"
     }
   }
 }

@@ -72,14 +72,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "nanaimo-bathtub-race-wk",
-      "title": "The Nanaimo Bathtub Race: When a City Got Weird",
-      "tile": "c0xz",
+      "id": "strait-of-juan-de-fuca-wp",
+      "title": "Strait of Juan de Fuca",
+      "tile": "c0xf",
       "coordinates": {
-        "lat": 49.17,
-        "lng": -123.94
+        "lat": 48.33291,
+        "lng": -124.00265
       },
-      "distanceKm": 112.7
+      "distanceKm": 26.5
     },
     "n": {
       "id": "victoria-city-wk",
@@ -92,54 +92,54 @@
       "distanceKm": 31.2
     },
     "ne": {
-      "id": "camano-island-wk",
-      "title": "Camano Island",
+      "id": "naval-outlying-landing-field-coupeville-wp",
+      "title": "Naval Outlying Landing Field Coupeville",
       "tile": "c28f",
       "coordinates": {
-        "lat": 48.182333333333,
-        "lng": -122.50444444444
+        "lat": 48.1833,
+        "lng": -122.633
       },
-      "distanceKm": 14.3
+      "distanceKm": 5.1
     },
     "w": {
-      "id": "vancouver-island-wk",
-      "title": "Vancouver Island",
-      "tile": "c0yc",
+      "id": "sol-duc-hot-springs-wp",
+      "title": "Sol Duc Hot Springs",
+      "tile": "c0xb",
       "coordinates": {
-        "lat": 49.5,
-        "lng": -125.5
+        "lat": 47.97,
+        "lng": -123.863
       },
-      "distanceKm": 219.4
+      "distanceKm": 11.4
     },
     "e": {
-      "id": "puget-sound-wk",
-      "title": "Puget Sound",
-      "tile": "c28b",
+      "id": "2022-mutiny-bay-dhc-3-crash-wp",
+      "title": "2022 Mutiny Bay DHC-3 Crash",
+      "tile": "c28c",
       "coordinates": {
-        "lat": 47.83315,
-        "lng": -122.43458
+        "lat": 47.99032,
+        "lng": -122.58502
       },
-      "distanceKm": 20.8
+      "distanceKm": 12.9
     },
     "sw": {
-      "id": "astoria-end-of-trail-wk",
-      "title": "Astoria: Where Lewis and Clark Finally Saw the Pacific",
-      "tile": "c0py",
+      "id": "quinault-rain-forest-wp",
+      "title": "Quinault Rain Forest",
+      "tile": "c0ry",
       "coordinates": {
-        "lat": 46.1879,
-        "lng": -123.8313
+        "lat": 47.5051,
+        "lng": -123.821
       },
-      "distanceKm": 161.2
+      "distanceKm": 15.6
     },
     "s": {
-      "id": "blake-island-wk",
-      "title": "Blake Island",
-      "tile": "c22y",
+      "id": "lake-quinault-lodge-wp",
+      "title": "Lake Quinault Lodge",
+      "tile": "c0ry",
       "coordinates": {
-        "lat": 47.5386,
-        "lng": -122.4928
+        "lat": 47.466935,
+        "lng": -123.848268
       },
-      "distanceKm": 55.8
+      "distanceKm": 50.6
     },
     "se": {
       "id": "bremerton-wk",

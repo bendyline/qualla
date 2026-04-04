@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
+        "_m/c/2/8/s/orcas-island-wk/c28s-orcas-island-flight-context.mp3",
         "_m/c/2/8/s/orcas-island-wk/c28s-orcas-island-intro.mp3",
         "_m/c/2/8/s/orcas-island-wk/c28s-orcas-island-a-viceroys-name.mp3",
-        "_m/c/2/8/s/orcas-island-wk/c28s-orcas-island-flight-context.mp3",
         "_m/c/2/8/s/orcas-island-wk/c28s-orcas-island-mount-constitution.mp3",
-        "_m/c/2/8/s/orcas-island-wk/c28s-orcas-island-paddling-with-giants.mp3",
         "_m/c/2/8/s/orcas-island-wk/c28s-orcas-island-the-ferry-rhythm.mp3",
-        "_m/c/2/8/s/orcas-island-wk/c28s-orcas-island-two-villages.mp3"
+        "_m/c/2/8/s/orcas-island-wk/c28s-orcas-island-two-villages.mp3",
+        "_m/c/2/8/s/orcas-island-wk/c28s-orcas-island-paddling-with-giants.mp3"
       ],
       "hero": {
         "path": "_m/c/2/8/s/orcas-island-wk/looking-north-toward-orcas-isl.jpg",
@@ -34,8 +34,8 @@
           "Self-published work",
           "Views from ferries in Washington (state)"
         ],
-        "smallPath": "_m/c/2/8/s/orcas-island-wk/looking-north-toward-orcas-isl-small.jpg",
-        "mediumPath": "_m/c/2/8/s/orcas-island-wk/looking-north-toward-orcas-isl-medium.jpg"
+        "smallPath": "_m/c/2/8/s/orcas-island-wk/hero-small.webp",
+        "mediumPath": "_m/c/2/8/s/orcas-island-wk/hero-medium.webp"
       },
       "images": [
         {
@@ -60,8 +60,8 @@
             "License migration completed",
             "Self-published work"
           ],
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/harbor-eastsound-washi-small.jpg",
-          "mediumPath": "_m/c/2/8/s/orcas-island-wk/harbor-eastsound-washi-medium.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/harbor-eastsound-washi-small.webp",
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/harbor-eastsound-washi-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/orcas-village-orcas-is.jpg",
@@ -87,8 +87,8 @@
             "Taken with Nikon Coolpix P2",
             "Views from ferries in Washington (state)"
           ],
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/orcas-village-orcas-is-small.jpg",
-          "mediumPath": "_m/c/2/8/s/orcas-island-wk/orcas-village-orcas-is-medium.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/orcas-village-orcas-is-small.webp",
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/orcas-village-orcas-is-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/moran-mansion-rosario.jpg",
@@ -114,8 +114,8 @@
             "Self-published work",
             "Taken with Nikon Coolpix P2"
           ],
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/moran-mansion-rosario-small.jpg",
-          "mediumPath": "_m/c/2/8/s/orcas-island-wk/moran-mansion-rosario-medium.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/moran-mansion-rosario-small.webp",
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/moran-mansion-rosario-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/moran-mansion-rosario-1.jpg",
@@ -141,8 +141,8 @@
             "Self-published work",
             "Taken with Nikon Coolpix P2"
           ],
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/moran-mansion-rosario-1-small.jpg",
-          "mediumPath": "_m/c/2/8/s/orcas-island-wk/moran-mansion-rosario-1-medium.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/moran-mansion-rosario-1-small.webp",
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/moran-mansion-rosario-1-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/westsound-lopez-island.jpg",
@@ -168,8 +168,8 @@
             "United States photographs taken on 2007-08-07",
             "Westsound, Washington"
           ],
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/westsound-lopez-island-small.jpg",
-          "mediumPath": "_m/c/2/8/s/orcas-island-wk/westsound-lopez-island-medium.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/westsound-lopez-island-small.webp",
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/westsound-lopez-island-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/hero.jpg",
@@ -195,7 +195,9 @@
             "Orcas Island ferry terminal",
             "Orcas Village, Washington",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/hero-medium.webp",
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/hero-small.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/friday-harbor-orcas-is.jpg",
@@ -212,8 +214,8 @@
           "sourceArticleId": "orcas-island-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:15.079Z",
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/friday-harbor-orcas-is-small.jpg",
-          "mediumPath": "_m/c/2/8/s/orcas-island-wk/friday-harbor-orcas-is-medium.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/friday-harbor-orcas-is-small.webp",
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/friday-harbor-orcas-is-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/eastsound-daybreak.jpg",
@@ -230,7 +232,7 @@
           "sourceArticleId": "orcas-island-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:15.079Z",
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/eastsound-daybreak-small.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/eastsound-daybreak-small.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/orkilasunset.jpg",
@@ -257,8 +259,8 @@
             "San Juan Islands",
             "Self-published work"
           ],
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/orkilasunset-small.jpg",
-          "mediumPath": "_m/c/2/8/s/orcas-island-wk/orkilasunset-medium.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/orkilasunset-small.webp",
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/orkilasunset-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/hero.jpg",
@@ -286,8 +288,8 @@
             "Shops in Washington (state)",
             "Taken with Nikon Coolpix P2"
           ],
-          "mediumPath": "_m/c/2/8/s/orcas-island-wk/hero-medium.jpg",
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/hero-small.jpg"
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/looking-north-toward-orcas-isl-medium.webp",
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/looking-north-toward-orcas-isl-small.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/looking-wnw-toward-orcas-islan.jpg",
@@ -313,8 +315,8 @@
             "Taken with Nikon Coolpix P2",
             "Views from ferries in Washington (state)"
           ],
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/looking-wnw-toward-orcas-islan-small.jpg",
-          "mediumPath": "_m/c/2/8/s/orcas-island-wk/looking-wnw-toward-orcas-islan-medium.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/looking-wnw-toward-orcas-islan-small.webp",
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/looking-wnw-toward-orcas-islan-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/moran-mt-constitution-toward-l.jpg",
@@ -342,8 +344,8 @@
             "United States photographs taken on 2007-08-06",
             "Views from Mount Constitution"
           ],
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/moran-mt-constitution-toward-l-small.jpg",
-          "mediumPath": "_m/c/2/8/s/orcas-island-wk/moran-mt-constitution-toward-l-medium.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/moran-mt-constitution-toward-l-small.webp",
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/moran-mt-constitution-toward-l-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/moran-mt-constitution-toward-m.jpg",
@@ -371,8 +373,8 @@
             "Taken with Nikon Coolpix P2",
             "Views from Mount Constitution"
           ],
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/moran-mt-constitution-toward-m-small.jpg",
-          "mediumPath": "_m/c/2/8/s/orcas-island-wk/moran-mt-constitution-toward-m-medium.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/moran-mt-constitution-toward-m-small.webp",
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/moran-mt-constitution-toward-m-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/moran-mt-constitution-toward-m-1.jpg",
@@ -396,8 +398,8 @@
             "Mountains of Washington (state)",
             "Orcas Island"
           ],
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/moran-mt-constitution-toward-m-1-small.jpg",
-          "mediumPath": "_m/c/2/8/s/orcas-island-wk/moran-mt-constitution-toward-m-1-medium.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/moran-mt-constitution-toward-m-1-small.webp",
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/moran-mt-constitution-toward-m-1-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/orcas-island-grindstone-harbor.jpg",
@@ -414,8 +416,8 @@
           "sourceArticleId": "orcas-island-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:15.079Z",
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/orcas-island-grindstone-harbor-small.jpg",
-          "mediumPath": "_m/c/2/8/s/orcas-island-wk/orcas-island-grindstone-harbor-medium.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/orcas-island-grindstone-harbor-small.webp",
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/orcas-island-grindstone-harbor-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/argus-a-y-p-ed-page-34.jpg",
@@ -432,8 +434,8 @@
           "sourceArticleId": "orcas-island-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:15.079Z",
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/argus-a-y-p-ed-page-34-small.jpg",
-          "mediumPath": "_m/c/2/8/s/orcas-island-wk/argus-a-y-p-ed-page-34-medium.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/argus-a-y-p-ed-page-34-small.webp",
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/argus-a-y-p-ed-page-34-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/handpump.jpg",
@@ -450,8 +452,8 @@
           "sourceArticleId": "orcas-island-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:15.079Z",
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/handpump-small.jpg",
-          "mediumPath": "_m/c/2/8/s/orcas-island-wk/handpump-medium.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/handpump-small.webp",
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/handpump-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/erythronium-oregonum-1.jpg",
@@ -468,7 +470,7 @@
           "sourceArticleId": "orcas-island-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:15.079Z",
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/erythronium-oregonum-1-small.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/erythronium-oregonum-1-small.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/orcasislandferry.jpg",
@@ -485,8 +487,8 @@
           "sourceArticleId": "orcas-island-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:15.079Z",
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/orcasislandferry-small.jpg",
-          "mediumPath": "_m/c/2/8/s/orcas-island-wk/orcasislandferry-medium.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/orcasislandferry-small.webp",
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/orcasislandferry-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/logging-road-on-orcas-island-n.jpg",
@@ -502,8 +504,8 @@
           "sourceArticleId": "orcas-island-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:15.079Z",
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/logging-road-on-orcas-island-n-small.jpg",
-          "mediumPath": "_m/c/2/8/s/orcas-island-wk/logging-road-on-orcas-island-n-medium.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/logging-road-on-orcas-island-n-small.webp",
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/logging-road-on-orcas-island-n-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/023-southwest-toward-orcas-isl.jpg",
@@ -520,7 +522,7 @@
           "sourceArticleId": "orcas-island-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:15.079Z",
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/023-southwest-toward-orcas-isl-small.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/023-southwest-toward-orcas-isl-small.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/looking-southwest-toward-smoke.jpg",
@@ -537,7 +539,7 @@
           "sourceArticleId": "orcas-island-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:15.079Z",
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/looking-southwest-toward-smoke-small.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/looking-southwest-toward-smoke-small.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/mt-baker-through-obstruction-p.jpg",
@@ -554,8 +556,8 @@
           "sourceArticleId": "orcas-island-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:15.079Z",
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/mt-baker-through-obstruction-p-small.jpg",
-          "mediumPath": "_m/c/2/8/s/orcas-island-wk/mt-baker-through-obstruction-p-medium.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/mt-baker-through-obstruction-p-small.webp",
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/mt-baker-through-obstruction-p-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/ferry-repairs.jpg",
@@ -572,8 +574,8 @@
           "sourceArticleId": "orcas-island-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:15.079Z",
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/ferry-repairs-small.jpg",
-          "mediumPath": "_m/c/2/8/s/orcas-island-wk/ferry-repairs-medium.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/ferry-repairs-small.webp",
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/ferry-repairs-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/orcas-island-7604533586.jpg",
@@ -590,7 +592,7 @@
           "sourceArticleId": "orcas-island-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:15.079Z",
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/orcas-island-7604533586-small.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/orcas-island-7604533586-small.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/lumpytrout-wikivoyage-page-ban.jpg",
@@ -607,8 +609,8 @@
           "sourceArticleId": "orcas-island-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:15.079Z",
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/lumpytrout-wikivoyage-page-ban-small.jpg",
-          "mediumPath": "_m/c/2/8/s/orcas-island-wk/lumpytrout-wikivoyage-page-ban-medium.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/lumpytrout-wikivoyage-page-ban-small.webp",
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/lumpytrout-wikivoyage-page-ban-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/mv-klahowya-south-of-orcas-isl.jpg",
@@ -625,8 +627,8 @@
           "sourceArticleId": "orcas-island-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:15.079Z",
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/mv-klahowya-south-of-orcas-isl-small.jpg",
-          "mediumPath": "_m/c/2/8/s/orcas-island-wk/mv-klahowya-south-of-orcas-isl-medium.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/mv-klahowya-south-of-orcas-isl-small.webp",
+          "mediumPath": "_m/c/2/8/s/orcas-island-wk/mv-klahowya-south-of-orcas-isl-medium.webp"
         },
         {
           "path": "_m/c/2/8/s/orcas-island-wk/crabbing-in-the-san-juan-islan.jpg",
@@ -643,7 +645,7 @@
           "sourceArticleId": "orcas-island-wk",
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:15.079Z",
-          "smallPath": "_m/c/2/8/s/orcas-island-wk/crabbing-in-the-san-juan-islan-small.jpg"
+          "smallPath": "_m/c/2/8/s/orcas-island-wk/crabbing-in-the-san-juan-islan-small.webp"
         },
         {
           "path": "_m/c/2/8/t/eastsound-wk/hero.jpg",
@@ -1449,7 +1451,8 @@
             "Skagit Transportation Center"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/8/s/orcas-island-wk/c28s-orcas-island-combined.mp3"
     }
   }
 }

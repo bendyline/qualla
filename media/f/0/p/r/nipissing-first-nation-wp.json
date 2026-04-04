@@ -27,7 +27,7 @@
           "Photos by P199",
           "Self-published work"
         ],
-        "smallPath": "_m/f/0/p/r/nipissing-first-nation-wp/hero-small.jpg"
+        "smallPath": "_m/f/0/p/r/nipissing-first-nation-wp/hero-small.webp"
       },
       "images": [
         {
@@ -54,7 +54,7 @@
             "Photos by P199",
             "Self-published work"
           ],
-          "smallPath": "_m/f/0/p/r/nipissing-first-nation-wp/garden-village-ontario-small.jpg"
+          "smallPath": "_m/f/0/p/r/nipissing-first-nation-wp/garden-village-ontario-small.webp"
         },
         {
           "path": "_m/f/0/p/r/nipissing-first-nation-wp/photowayne-keon.jpg",
@@ -80,8 +80,8 @@
             "Scanned with Canon Pixma MX870",
             "Self-published work"
           ],
-          "mediumPath": "_m/f/0/p/r/nipissing-first-nation-wp/photowayne-keon-medium.jpg",
-          "smallPath": "_m/f/0/p/r/nipissing-first-nation-wp/photowayne-keon-small.jpg"
+          "mediumPath": "_m/f/0/p/r/nipissing-first-nation-wp/photowayne-keon-medium.webp",
+          "smallPath": "_m/f/0/p/r/nipissing-first-nation-wp/photowayne-keon-small.webp"
         },
         {
           "path": "_m/f/0/p/r/nipissing-first-nation-wp/amerindien-du-peuple-nipissing.jpg",
@@ -115,9 +115,19 @@
             "Tattoos in Canada",
             "Yellow shoes"
           ],
-          "smallPath": "_m/f/0/p/r/nipissing-first-nation-wp/amerindien-du-peuple-nipissing-small.jpg"
+          "smallPath": "_m/f/0/p/r/nipissing-first-nation-wp/amerindien-du-peuple-nipissing-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/f/0/p/r/nipissing-first-nation-wp/f0pr-nipissing-first-nation-flight-context.mp3",
+        "_m/f/0/p/r/nipissing-first-nation-wp/f0pr-nipissing-first-nation-intro.mp3",
+        "_m/f/0/p/r/nipissing-first-nation-wp/f0pr-nipissing-first-nation-people-of-the-crossroads.mp3",
+        "_m/f/0/p/r/nipissing-first-nation-wp/f0pr-nipissing-first-nation-five-clans-at-the-waters-edge.mp3",
+        "_m/f/0/p/r/nipissing-first-nation-wp/f0pr-nipissing-first-nation-the-fur-trade-wars.mp3",
+        "_m/f/0/p/r/nipissing-first-nation-wp/f0pr-nipissing-first-nation-treaty-and-survival.mp3",
+        "_m/f/0/p/r/nipissing-first-nation-wp/f0pr-nipissing-first-nation-writing-their-own-law.mp3"
+      ],
+      "combinedNarration": "_m/f/0/p/r/nipissing-first-nation-wp/f0pr-undefined-combined.mp3"
     }
   }
 }

@@ -92,8 +92,8 @@
       "sourceType": "core",
       "sourceArticleId": "gavmishan-bridge-wp",
       "sourceGeohash4": "tjcu",
-      "mediumPath": "_m/t/j/c/u/gavmishan-bridge-wp/photo-monument-iran-id-medium.jpg",
-      "smallPath": "_m/t/j/c/u/gavmishan-bridge-wp/photo-monument-iran-id-small.jpg"
+      "mediumPath": "_m/t/j/c/u/gavmishan-bridge-wp/photo-monument-iran-id-medium.webp",
+      "smallPath": "_m/t/j/c/u/gavmishan-bridge-wp/photo-monument-iran-id-small.webp"
     },
     {
       "filename": "Gavmishan bridge.jpg",
@@ -123,7 +123,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "gavmishan-bridge-wp",
       "sourceGeohash4": "tjcu",
-      "smallPath": "_m/t/j/c/u/gavmishan-bridge-wp/gavmishan-bridge-small.jpg"
+      "smallPath": "_m/t/j/c/u/gavmishan-bridge-wp/gavmishan-bridge-small.webp"
     },
     {
       "filename": "Gavmishan Bridge (31105081883).jpg",
@@ -147,8 +147,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "gavmishan-bridge-wp",
       "sourceGeohash4": "tjcu",
-      "mediumPath": "_m/t/j/c/u/gavmishan-bridge-wp/gavmishan-bridge-31105081883-medium.jpg",
-      "smallPath": "_m/t/j/c/u/gavmishan-bridge-wp/gavmishan-bridge-31105081883-small.jpg"
+      "mediumPath": "_m/t/j/c/u/gavmishan-bridge-wp/gavmishan-bridge-31105081883-medium.webp",
+      "smallPath": "_m/t/j/c/u/gavmishan-bridge-wp/gavmishan-bridge-31105081883-small.webp"
     },
     {
       "filename": "Gavmishan Bridge (31105081883)2.jpg",
@@ -172,8 +172,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "gavmishan-bridge-wp",
       "sourceGeohash4": "tjcu",
-      "mediumPath": "_m/t/j/c/u/gavmishan-bridge-wp/gavmishan-bridge-31105081883-2-medium.jpg",
-      "smallPath": "_m/t/j/c/u/gavmishan-bridge-wp/gavmishan-bridge-31105081883-2-small.jpg"
+      "mediumPath": "_m/t/j/c/u/gavmishan-bridge-wp/gavmishan-bridge-31105081883-2-medium.webp",
+      "smallPath": "_m/t/j/c/u/gavmishan-bridge-wp/gavmishan-bridge-31105081883-2-small.webp"
     },
     {
       "filename": "پل گاومیشان 2.jpg",
@@ -202,8 +202,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "gavmishan-bridge-wp",
       "sourceGeohash4": "tjcu",
-      "mediumPath": "_m/t/j/c/u/gavmishan-bridge-wp/2-medium.jpg",
-      "smallPath": "_m/t/j/c/u/gavmishan-bridge-wp/2-small.jpg"
+      "mediumPath": "_m/t/j/c/u/gavmishan-bridge-wp/2-medium.webp",
+      "smallPath": "_m/t/j/c/u/gavmishan-bridge-wp/2-small.webp"
     }
   ],
   "galleryPaths": [
@@ -213,6 +213,24 @@
     "_m/t/j/c/u/gavmishan-bridge-wp/gavmishan-bridge-31105081883-2.jpg",
     "_m/t/j/c/u/gavmishan-bridge-wp/2.jpg"
   ],
-  "fetchedAt": "2026-03-01T07:50:42.749Z",
-  "updatedAt": "2026-03-01T07:51:09.021Z"
+  "updatedAt": "2026-03-01T07:51:09.021Z",
+  "narration": {
+    "files": [
+      "tjcu-gavmishan-bridge-flight-context.mp3",
+      "tjcu-gavmishan-bridge-intro.mp3",
+      "tjcu-gavmishan-bridge-stone-against-the-current.mp3",
+      "tjcu-gavmishan-bridge-the-empires-last-stand.mp3",
+      "tjcu-gavmishan-bridge-centuries-of-neglect-and-revival.mp3",
+      "tjcu-gavmishan-bridge-an-engineering-feat-in-context.mp3"
+    ],
+    "durations": {
+      "tjcu-gavmishan-bridge-flight-context.mp3": 54.0745833,
+      "tjcu-gavmishan-bridge-intro.mp3": 47.1364583,
+      "tjcu-gavmishan-bridge-stone-against-the-current.mp3": 62.279125,
+      "tjcu-gavmishan-bridge-the-empires-last-stand.mp3": 51.0849583,
+      "tjcu-gavmishan-bridge-centuries-of-neglect-and-revival.mp3": 65.728875,
+      "tjcu-gavmishan-bridge-an-engineering-feat-in-context.mp3": 69.731375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

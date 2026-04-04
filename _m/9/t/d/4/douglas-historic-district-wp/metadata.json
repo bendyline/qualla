@@ -29,7 +29,7 @@
     "sourceType": "core",
     "sourceArticleId": "douglas-historic-district-wp",
     "sourceGeohash4": "9td4",
-    "smallPath": "_m/9/t/d/4/douglas-historic-district-wp/hero-small.jpg"
+    "smallPath": "_m/9/t/d/4/douglas-historic-district-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Leggett building, Douglas AZ.jpg",
@@ -85,7 +85,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "douglas-historic-district-wp",
-      "sourceGeohash4": "9td4"
+      "sourceGeohash4": "9td4",
+      "mediumPath": "_m/9/t/d/4/douglas-historic-district-wp/douglas-building-hotel-1901-medium.webp",
+      "smallPath": "_m/9/t/d/4/douglas-historic-district-wp/douglas-building-hotel-1901-small.webp"
     },
     {
       "filename": "Douglas-Building-Commercial Building-1906.jpg",
@@ -110,7 +112,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "douglas-historic-district-wp",
-      "sourceGeohash4": "9td4"
+      "sourceGeohash4": "9td4",
+      "mediumPath": "_m/9/t/d/4/douglas-historic-district-wp/douglas-building-commercial-bu-medium.webp",
+      "smallPath": "_m/9/t/d/4/douglas-historic-district-wp/douglas-building-commercial-bu-small.webp"
     },
     {
       "filename": "1119 G Avenue.jpg",
@@ -135,7 +139,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "douglas-historic-district-wp",
-      "sourceGeohash4": "9td4"
+      "sourceGeohash4": "9td4",
+      "smallPath": "_m/9/t/d/4/douglas-historic-district-wp/1119-g-avenue-small.webp"
     },
     {
       "filename": "1106 G Avenue.jpg",
@@ -160,7 +165,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "douglas-historic-district-wp",
-      "sourceGeohash4": "9td4"
+      "sourceGeohash4": "9td4",
+      "smallPath": "_m/9/t/d/4/douglas-historic-district-wp/1106-g-avenue-small.webp"
     }
   ],
   "galleryPaths": [
@@ -169,7 +175,6 @@
     "_m/9/t/d/4/douglas-historic-district-wp/1119-g-avenue.jpg",
     "_m/9/t/d/4/douglas-historic-district-wp/1106-g-avenue.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:07:51.763Z",
   "narration": {
     "files": [
       "9td4-douglas-historic-district-flight-context.mp3",
@@ -189,8 +194,7 @@
       "9td4-douglas-historic-district-a-street-that-tells-time.mp3": 58.10175,
       "9td4-douglas-historic-district-the-view-from-above.mp3": 55.63925
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T00:13:52.401Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:07:52.538Z"
 }

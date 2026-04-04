@@ -178,38 +178,43 @@
       "distanceKm": 170.7
     },
     "sw": {
-      "id": "francisco-villa-museum-wp",
-      "title": "Francisco Villa Museum",
-      "tile": "9thd",
+      "id": "cave-of-the-crystals-wp",
+      "title": "Cave of the Crystals",
+      "tile": "9suy",
       "coordinates": {
-        "lat": 28.6267,
-        "lng": -106.0685
+        "lat": 27.850833333333,
+        "lng": -105.49638888889
       },
-      "distanceKm": 233.5
+      "distanceKm": 216.6
     },
     "s": {
-      "id": "chihuahua-city-wp",
-      "title": "Chihuahua City",
-      "tile": "9thd",
+      "id": "bolson-de-mapimi-wp",
+      "title": "Bolsón de Mapimí",
+      "tile": "9syk",
       "coordinates": {
-        "lat": 28.636944444444445,
-        "lng": -106.07694444444444
+        "lat": 27.5,
+        "lng": -103.5
       },
-      "distanceKm": 284.8
+      "distanceKm": 170.1
     },
     "se": {
-      "id": "monterrey-city-wk",
-      "title": "Monterrey: Mexico's Industrial Capital Where Mountains Meet Money",
-      "tile": "9u8d",
+      "id": "pasta-de-conchos-mine-disaster-wp",
+      "title": "Pasta de Conchos Mine Disaster",
+      "tile": "9szz",
       "coordinates": {
-        "lat": 25.6866,
-        "lng": -100.3161
+        "lat": 27.9675,
+        "lng": -101.3275
       },
-      "distanceKm": 435.3
+      "distanceKm": 173.6
     }
   },
   "keywords": [
     "big-bend",
     "big-bend-national-park"
+  ],
+  "locationWikipediaPath": "9/t/n/w/big-bend-national-park-wp",
+  "locationWikivoyagePath": "9/t/n/w/big-bend-national-park-wk",
+  "duplicates": [
+    "big-bend-borderlands-wk"
   ]
 }

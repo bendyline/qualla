@@ -86,14 +86,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "crystal-palace-fire-wk",
-      "title": "The Crystal Palace Fire: When London's Glass Wonder Burned",
-      "tile": "gcpu",
+      "id": "rochester-castle-wp",
+      "title": "Rochester Castle",
+      "tile": "u10k",
       "coordinates": {
-        "lat": 51.4188,
-        "lng": -0.0754
+        "lat": 51.3894,
+        "lng": 0.502
       },
-      "distanceKm": 176.3
+      "distanceKm": 136.2
     },
     "n": {
       "id": "battle-of-sluys-wp",
@@ -116,14 +116,14 @@
       "distanceKm": 38.5
     },
     "w": {
-      "id": "kent-wk",
-      "title": "Kent",
-      "tile": "u10e",
+      "id": "dover-castle-wp",
+      "title": "Dover Castle",
+      "tile": "u10f",
       "coordinates": {
-        "lat": 51.19,
-        "lng": 0.73
+        "lat": 51.128268,
+        "lng": 1.3235035
       },
-      "distanceKm": 121.6
+      "distanceKm": 79.7
     },
     "e": {
       "id": "execution-bridge-ghent-wp",
@@ -136,14 +136,14 @@
       "distanceKm": 14.3
     },
     "sw": {
-      "id": "paris-wk",
-      "title": "Paris",
-      "tile": "u09t",
+      "id": "royaumont-abbey-wp",
+      "title": "Royaumont Abbey",
+      "tile": "u09x",
       "coordinates": {
-        "lat": 48.856,
-        "lng": 2.351
+        "lat": 49.1475,
+        "lng": 2.3819
       },
-      "distanceKm": 216.4
+      "distanceKm": 183.9
     },
     "s": {
       "id": "battle-of-messines-1914-wp",
@@ -168,5 +168,6 @@
   },
   "keywords": [
     "1933-imperial-airways-diksmuide-crash"
-  ]
+  ],
+  "locationWikipediaPath": "u/1/4/4/1933-imperial-airways-diksmuide-crash-wp"
 }

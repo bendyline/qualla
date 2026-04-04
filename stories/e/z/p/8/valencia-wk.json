@@ -77,76 +77,46 @@
   "locationWikivoyagePath": "e/z/p/8/valencia-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "madrid-wk",
-      "title": "Madrid",
-      "tile": "ezjm",
+      "id": "teruel-cathedral-wp",
+      "title": "Teruel Cathedral",
+      "tile": "ezpj",
       "coordinates": {
-        "lat": 40.4168,
-        "lng": -3.7038
+        "lat": 40.3439,
+        "lng": -1.10722
       },
-      "distanceKm": 238.1
+      "distanceKm": 68.8
     },
     "n": {
-      "id": "bilbao-wk",
-      "title": "Bilbao",
-      "tile": "ezty",
+      "id": "battle-of-teruel-wp",
+      "title": "Battle of Teruel",
+      "tile": "ezpj",
       "coordinates": {
-        "lat": 43.263,
-        "lng": -2.935
+        "lat": 40.35,
+        "lng": -1.1
       },
-      "distanceKm": 441.4
+      "distanceKm": 84.7
     },
     "ne": {
-      "id": "barcelona-wk",
-      "title": "Barcelona",
-      "tile": "sp3e",
+      "id": "peniscola-castle-wp",
+      "title": "Peniscola Castle",
+      "tile": "sp0m",
       "coordinates": {
-        "lat": 41.3825,
-        "lng": 2.1769
+        "lat": 40.3588,
+        "lng": 0.407926
       },
-      "distanceKm": 260.2
+      "distanceKm": 78.4
     },
     "w": {
-      "id": "granada-wk",
-      "title": "Granada",
-      "tile": "eyt7",
+      "id": "castle-of-alarcon-wp",
+      "title": "Castle of Alarcon",
+      "tile": "ezn8",
       "coordinates": {
-        "lat": 37.1773,
-        "lng": -3.5986
+        "lat": 39.546544,
+        "lng": -2.083071
       },
-      "distanceKm": 337.4
+      "distanceKm": 88.7
     },
     "e": {
-      "id": "marseille-wk",
-      "title": "Marseille",
-      "tile": "spey",
-      "coordinates": {
-        "lat": 43.2965,
-        "lng": 5.3698
-      },
-      "distanceKm": 618.2
-    },
-    "sw": {
-      "id": "cabo-de-gata-n-jar-natural-park-wk",
-      "title": "Cabo de Gata-Nijar Natural Park",
-      "tile": "eyw9",
-      "coordinates": {
-        "lat": 36.7833,
-        "lng": -2.1
-      },
-      "distanceKm": 283.8
-    },
-    "s": {
-      "id": "seville-province-wk",
-      "title": "Seville Province",
-      "tile": "eysj",
-      "coordinates": {
-        "lat": 37.5,
-        "lng": -5.5
-      },
-      "distanceKm": 472.9
-    },
-    "se": {
       "id": "ibiza-wk",
       "title": "Ibiza",
       "tile": "sncj",
@@ -154,7 +124,37 @@
         "lat": 38.98,
         "lng": 1.43
       },
-      "distanceKm": 125.8
+      "distanceKm": 134.4
+    },
+    "sw": {
+      "id": "battle-of-almansa-wp",
+      "title": "Battle of Almansa",
+      "tile": "eyzj",
+      "coordinates": {
+        "lat": 38.874444,
+        "lng": -1.093694
+      },
+      "distanceKm": 36.3
+    },
+    "s": {
+      "id": "xativa-castle-wp",
+      "title": "Xativa Castle",
+      "tile": "eyzt",
+      "coordinates": {
+        "lat": 38.98293611,
+        "lng": -0.51870556
+      },
+      "distanceKm": 24.1
+    },
+    "se": {
+      "id": "sa-caleta-phoenician-settlement-wp",
+      "title": "Sa Caleta Phoenician Settlement",
+      "tile": "snbv",
+      "coordinates": {
+        "lat": 38.86777778,
+        "lng": 1.32972222
+      },
+      "distanceKm": 120.6
     }
   },
   "keywords": [

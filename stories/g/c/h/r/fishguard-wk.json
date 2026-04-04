@@ -99,54 +99,54 @@
   "locationWikivoyagePath": "g/c/h/r/fishguard-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "dublin-wk",
-      "title": "Dublin",
-      "tile": "gc7x",
+      "id": "johnstown-castle-wp",
+      "title": "Johnstown Castle",
+      "tile": "gc73",
       "coordinates": {
-        "lat": 53.3411,
-        "lng": -6.2633
+        "lat": 52.293154,
+        "lng": -6.504663
       },
-      "distanceKm": 133.2
+      "distanceKm": 60.6
     },
     "n": {
-      "id": "achill-island-wk",
-      "title": "Achill Island",
-      "tile": "gc8f",
+      "id": "national-library-of-wales-wp",
+      "title": "National Library of Wales",
+      "tile": "gcm4",
       "coordinates": {
-        "lat": 53.9589,
-        "lng": -10.0389
+        "lat": 52.414384,
+        "lng": -4.068469
       },
-      "distanceKm": 383.1
+      "distanceKm": 73.7
     },
     "ne": {
-      "id": "pennine-way-wk",
-      "title": "Pennine Way",
-      "tile": "gcqx",
+      "id": "aberystwyth-castle-wp",
+      "title": "Aberystwyth Castle",
+      "tile": "gcm4",
       "coordinates": {
-        "lat": 53.3706,
-        "lng": -1.8168
+        "lat": 52.413277777778,
+        "lng": -4.0895038888889
       },
-      "distanceKm": 225.9
+      "distanceKm": 39.9
     },
     "w": {
-      "id": "adare-wk",
-      "title": "Adare",
-      "tile": "gc3e",
+      "id": "hook-lighthouse-wp",
+      "title": "Hook Lighthouse",
+      "tile": "gc70",
       "coordinates": {
-        "lat": 52.5667,
-        "lng": -8.8
+        "lat": 52.123806,
+        "lng": -6.929306
       },
-      "distanceKm": 226.9
+      "distanceKm": 91.5
     },
     "e": {
-      "id": "cotswolds-wk",
-      "title": "Cotswolds",
-      "tile": "gcnw",
+      "id": "laugharne-castle-wp",
+      "title": "Laugharne Castle",
+      "tile": "gchy",
       "coordinates": {
-        "lat": 51.761,
-        "lng": -1.888
+        "lat": 51.7696,
+        "lng": -4.46205
       },
-      "distanceKm": 185.3
+      "distanceKm": 20.7
     },
     "sw": {
       "id": "lusitania-sinking-wk",
@@ -159,24 +159,24 @@
       "distanceKm": 204.7
     },
     "s": {
-      "id": "guernsey-wk",
-      "title": "Guernsey",
-      "tile": "gby1",
+      "id": "pembroke-castle-wp",
+      "title": "Pembroke Castle",
+      "tile": "gcht",
       "coordinates": {
-        "lat": 49.45,
-        "lng": -2.55
+        "lat": 51.676805,
+        "lng": -4.9207368
       },
-      "distanceKm": 306.3
+      "distanceKm": 12.2
     },
     "se": {
-      "id": "stonehenge-mystery-wk",
-      "title": "Stonehenge: The Mystery That Won't Die",
-      "tile": "gcne",
+      "id": "neath-abbey-wp",
+      "title": "Neath Abbey",
+      "tile": "gcjm",
       "coordinates": {
-        "lat": 51.1789,
-        "lng": -1.8262
+        "lat": 51.660871,
+        "lng": -3.8261007
       },
-      "distanceKm": 198.2
+      "distanceKm": 51.4
     }
   },
   "keywords": [

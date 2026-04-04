@@ -109,76 +109,66 @@
   "locationWikivoyagePath": "s/r/4/n/capri-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "cadaver-synod-wk",
-      "title": "The Cadaver Synod: The Trial of a Dead Pope",
-      "tile": "sr2y",
+      "id": "hadrian-s-villa-wp",
+      "title": "Hadrian's Villa",
+      "tile": "sr3n",
       "coordinates": {
-        "lat": 41.8859,
-        "lng": 12.5057
+        "lat": 41.941944,
+        "lng": 12.775278
       },
-      "distanceKm": 158.8
+      "distanceKm": 150.8
     },
     "n": {
-      "id": "naples-wk",
-      "title": "Naples",
+      "id": "bombing-of-naples-in-world-war-ii-wp",
+      "title": "Bombing of Naples in World War II",
       "tile": "sr60",
       "coordinates": {
-        "lat": 40.8518,
-        "lng": 14.2681
+        "lat": 40.83333333,
+        "lng": 14.25
       },
-      "distanceKm": 8.2
+      "distanceKm": 5.9
     },
     "ne": {
-      "id": "kor-ula-wk",
-      "title": "Korcula: Marco Polo's Island in the Dalmatian Adriatic",
-      "tile": "srsh",
+      "id": "battle-of-asculum-wp",
+      "title": "Battle of Asculum",
+      "tile": "sr74",
       "coordinates": {
-        "lat": 42.95,
-        "lng": 17.1167
+        "lat": 41.2156,
+        "lng": 15.5578
       },
-      "distanceKm": 309.9
+      "distanceKm": 82.2
     },
     "w": {
-      "id": "fire-of-rome-wk",
-      "title": "The Great Fire of Rome: Did Nero Really Fiddle?",
+      "id": "appian-way-wp",
+      "title": "The Appian Way: Queen of Roads",
       "tile": "sr2y",
       "coordinates": {
-        "lat": 41.8867,
-        "lng": 12.4883
+        "lat": 41.841389,
+        "lng": 12.5325
       },
-      "distanceKm": 183.4
+      "distanceKm": 177.2
     },
     "e": {
-      "id": "split-wk",
-      "title": "Split",
-      "tile": "srex",
+      "id": "paestum-wk",
+      "title": "Paestum",
+      "tile": "sr4t",
       "coordinates": {
-        "lat": 43.5081,
-        "lng": 16.4402
+        "lat": 40.42,
+        "lng": 15.005555555556
       },
-      "distanceKm": 360.1
+      "distanceKm": 23
     },
     "sw": {
-      "id": "tunis-wk",
-      "title": "Tunis",
-      "tile": "snx1",
+      "id": "battle-of-skerki-bank-wp",
+      "title": "Battle of Skerki Bank",
+      "tile": "snxy",
       "coordinates": {
-        "lat": 36.8065,
-        "lng": 10.1815
+        "lat": 37.75333333,
+        "lng": 10.95333333
       },
-      "distanceKm": 491
+      "distanceKm": 366.1
     },
     "s": {
-      "id": "albanian-riviera-wk",
-      "title": "Albanian Riviera",
-      "tile": "srn5",
-      "coordinates": {
-        "lat": 40.073,
-        "lng": 19.764
-      },
-      "distanceKm": 469.9
-    },
-    "se": {
       "id": "black-death-arrival-wk",
       "title": "The Arrival of the Black Death: When Ships Brought the Apocalypse",
       "tile": "sqg1",
@@ -186,7 +176,17 @@
         "lat": 38.1937,
         "lng": 15.5542
       },
-      "distanceKm": 238.9
+      "distanceKm": 255.6
+    },
+    "se": {
+      "id": "battle-of-heraclea-wp",
+      "title": "Battle of Heraclea",
+      "tile": "sr5u",
+      "coordinates": {
+        "lat": 40.22,
+        "lng": 16.669722
+      },
+      "distanceKm": 161.7
     }
   },
   "keywords": [

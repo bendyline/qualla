@@ -117,14 +117,14 @@
       "distanceKm": 250.3
     },
     "e": {
-      "id": "adana-wk",
-      "title": "Adana",
-      "tile": "sy94",
+      "id": "siege-of-famagusta-wp",
+      "title": "Siege of Famagusta",
+      "tile": "sy0p",
       "coordinates": {
-        "lat": 37,
-        "lng": 35.3213
+        "lat": 35.116666666667,
+        "lng": 33.95
       },
-      "distanceKm": 359
+      "distanceKm": 305.7
     },
     "sw": {
       "id": "santorini-eruption-wk",
@@ -137,16 +137,6 @@
       "distanceKm": 427.1
     },
     "s": {
-      "id": "thera-eruption-wk",
-      "title": "The Eruption of Thera: The Volcano That May Have Destroyed Atlantis",
-      "tile": "sw6p",
-      "coordinates": {
-        "lat": 36.4167,
-        "lng": 25.4333
-      },
-      "distanceKm": 476.6
-    },
-    "se": {
       "id": "varosha-wk",
       "title": "Varosha: The Ghost Resort of Cyprus",
       "tile": "sy0p",
@@ -154,7 +144,17 @@
         "lat": 35.1178,
         "lng": 33.9522
       },
-      "distanceKm": 288.8
+      "distanceKm": 329.4
+    },
+    "se": {
+      "id": "battle-of-salamis-306-bc-wp",
+      "title": "Battle of Salamis (306 BC)",
+      "tile": "sy20",
+      "coordinates": {
+        "lat": 35.166667,
+        "lng": 33.916667
+      },
+      "distanceKm": 283.1
     }
   },
   "keywords": [

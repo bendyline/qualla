@@ -17,7 +17,7 @@
         "sourceArticleId": "catskill-park-wp",
         "sourceGeohash4": "dr7p",
         "accessedAt": "2026-02-28T08:06:01.754Z",
-        "smallPath": "_m/d/r/7/p/catskill-park-wp/hero-small.jpg"
+        "smallPath": "_m/d/r/7/p/catskill-park-wp/hero-small.webp"
       },
       "images": [
         {
@@ -70,7 +70,7 @@
             "User-created GFDL images",
             "Wawarsing, New York"
           ],
-          "smallPath": "_m/d/r/7/p/catskill-park-wp/photographed-daniel-ca-small.jpg"
+          "smallPath": "_m/d/r/7/p/catskill-park-wp/photographed-daniel-ca-small.webp"
         },
         {
           "path": "_m/d/r/7/p/catskill-park-wp/photographed-daniel-ca-1.jpg",
@@ -100,8 +100,8 @@
             "Views from mountains in New York (state)",
             "Views of Ulster County, New York"
           ],
-          "mediumPath": "_m/d/r/7/p/catskill-park-wp/photographed-daniel-ca-1-medium.jpg",
-          "smallPath": "_m/d/r/7/p/catskill-park-wp/photographed-daniel-ca-1-small.jpg"
+          "mediumPath": "_m/d/r/7/p/catskill-park-wp/photographed-daniel-ca-1-medium.webp",
+          "smallPath": "_m/d/r/7/p/catskill-park-wp/photographed-daniel-ca-1-small.webp"
         },
         {
           "path": "_m/d/r/6/v/sullivan-county-new-york-wp/roebling-s-delaware-aqueduct-c.jpg",
@@ -269,7 +269,17 @@
             "GFDL"
           ]
         }
-      ]
+      ],
+      "narration": [
+        "_m/d/r/7/p/catskill-park-wp/dr7p-catskill-park-flight-context.mp3",
+        "_m/d/r/7/p/catskill-park-wp/dr7p-catskill-park-intro.mp3",
+        "_m/d/r/7/p/catskill-park-wp/dr7p-catskill-park-inside-the-blue-line.mp3",
+        "_m/d/r/7/p/catskill-park-wp/dr7p-catskill-park-water-for-eight-million.mp3",
+        "_m/d/r/7/p/catskill-park-wp/dr7p-catskill-park-from-borscht-belt-to-forever-wild.mp3",
+        "_m/d/r/7/p/catskill-park-wp/dr7p-catskill-park-the-wild-mountains.mp3",
+        "_m/d/r/7/p/catskill-park-wp/dr7p-catskill-park-the-view-from-above.mp3"
+      ],
+      "combinedNarration": "_m/d/r/7/p/catskill-park-wp/dr7p-catskill-park-combined.mp3"
     }
   }
 }

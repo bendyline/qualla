@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/6/g/y/f/sao-paulo-wk/6gyf-sao-paulo-intro.mp3",
-        "_m/6/g/y/f/sao-paulo-wk/6gyf-sao-paulo-avenida-paulista.mp3",
         "_m/6/g/y/f/sao-paulo-wk/6gyf-sao-paulo-flight-context.mp3",
-        "_m/6/g/y/f/sao-paulo-wk/6gyf-sao-paulo-the-culture.mp3",
+        "_m/6/g/y/f/sao-paulo-wk/6gyf-sao-paulo-intro.mp3",
+        "_m/6/g/y/f/sao-paulo-wk/6gyf-sao-paulo-the-scale.mp3",
         "_m/6/g/y/f/sao-paulo-wk/6gyf-sao-paulo-the-immigration.mp3",
-        "_m/6/g/y/f/sao-paulo-wk/6gyf-sao-paulo-the-neighborhoods.mp3",
-        "_m/6/g/y/f/sao-paulo-wk/6gyf-sao-paulo-the-scale.mp3"
+        "_m/6/g/y/f/sao-paulo-wk/6gyf-sao-paulo-the-culture.mp3",
+        "_m/6/g/y/f/sao-paulo-wk/6gyf-sao-paulo-avenida-paulista.mp3",
+        "_m/6/g/y/f/sao-paulo-wk/6gyf-sao-paulo-the-neighborhoods.mp3"
       ],
       "hero": {
         "path": "_m/6/g/y/f/sao-paulo-wp/sao-paulo-brazil-skyline-aeria.jpg",
@@ -25,7 +25,9 @@
         "sourceType": "sibling",
         "sourceArticleId": "sao-paulo-wp",
         "sourceGeohash4": "6gyf",
-        "accessedAt": "2026-02-21T20:10:35.428Z"
+        "accessedAt": "2026-02-21T20:10:35.428Z",
+        "mediumPath": "_m/6/g/y/f/sao-paulo-wk/hero-medium.webp",
+        "smallPath": "_m/6/g/y/f/sao-paulo-wk/hero-small.webp"
       },
       "images": [
         {
@@ -50,8 +52,8 @@
             "PD-user",
             "Taken with Canon PowerShot S60"
           ],
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/pt-estacao-da-luz-em-s-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/pt-estacao-da-luz-em-s-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/pt-estacao-da-luz-em-s-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/pt-estacao-da-luz-em-s-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/panoramic-view-city-sa.jpg",
@@ -78,8 +80,8 @@
             "Skylines of São Paulo (city)",
             "Views from Edifício Altino Arantes"
           ],
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/panoramic-view-city-sa-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/panoramic-view-city-sa-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/panoramic-view-city-sa-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/panoramic-view-city-sa-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/busscar-bus-reg-cvp-24.jpg",
@@ -109,8 +111,8 @@
             "Self-published work",
             "São Paulo-Guarulhos International Airport"
           ],
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/busscar-bus-reg-cvp-24-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/busscar-bus-reg-cvp-24-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/busscar-bus-reg-cvp-24-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/busscar-bus-reg-cvp-24-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/sao-paulo-avioes-comer.jpg",
@@ -134,8 +136,8 @@
             "Photographs by Valter Campanato",
             "Taken with Nikon D200"
           ],
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/sao-paulo-avioes-comer-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/sao-paulo-avioes-comer-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/sao-paulo-avioes-comer-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/sao-paulo-avioes-comer-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/imagem-aerea-do-aeropo.jpg",
@@ -164,7 +166,7 @@
             "São Paulo-Guarulhos International Airport Terminal 2",
             "User-created GFDL images"
           ],
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/imagem-aerea-do-aeropo-small.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/imagem-aerea-do-aeropo-small.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/usp-universidade-de-sa.jpg",
@@ -186,7 +188,7 @@
             "Cidade Universitária Armando de Salles Oliveira",
             "University of São Paulo"
           ],
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/usp-universidade-de-sa-small.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/usp-universidade-de-sa-small.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/sao-paulo-city-congonh.jpg",
@@ -203,7 +205,7 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/sao-paulo-city-congonh-small.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/sao-paulo-city-congonh-small.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/octavio-frias-de-olive.jpg",
@@ -220,8 +222,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/octavio-frias-de-olive-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/octavio-frias-de-olive-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/octavio-frias-de-olive-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/octavio-frias-de-olive-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/viaduto-do-cha-amp-sho.jpg",
@@ -238,8 +240,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/viaduto-do-cha-amp-sho-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/viaduto-do-cha-amp-sho-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/viaduto-do-cha-amp-sho-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/viaduto-do-cha-amp-sho-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/photo-paulista-avenue.jpg",
@@ -256,7 +258,7 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/photo-paulista-avenue-small.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/photo-paulista-avenue-small.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/panoramic-photo-cicero.jpg",
@@ -273,8 +275,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/panoramic-photo-cicero-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/panoramic-photo-cicero-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/panoramic-photo-cicero-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/panoramic-photo-cicero-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/skyline-sao-paulo-braz.jpg",
@@ -291,7 +293,7 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/skyline-sao-paulo-braz-small.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/skyline-sao-paulo-braz-small.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/estacao-julio-prestes.jpg",
@@ -308,7 +310,7 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/estacao-julio-prestes-small.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/estacao-julio-prestes-small.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/panorama-do-museu-do-i.jpg",
@@ -325,8 +327,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/panorama-do-museu-do-i-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/panorama-do-museu-do-i-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/panorama-do-museu-do-i-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/panorama-do-museu-do-i-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/ciclovia-da-marginal-p.jpg",
@@ -343,8 +345,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/ciclovia-da-marginal-p-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/ciclovia-da-marginal-p-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/ciclovia-da-marginal-p-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/ciclovia-da-marginal-p-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/patio-do-colegio-aqui.jpg",
@@ -361,8 +363,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/patio-do-colegio-aqui-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/patio-do-colegio-aqui-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/patio-do-colegio-aqui-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/patio-do-colegio-aqui-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/shopping-street-sao-pa.jpg",
@@ -379,8 +381,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/shopping-street-sao-pa-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/shopping-street-sao-pa-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/shopping-street-sao-pa-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/shopping-street-sao-pa-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/shopping-cidade-jardim.jpg",
@@ -397,8 +399,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/shopping-cidade-jardim-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/shopping-cidade-jardim-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/shopping-cidade-jardim-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/shopping-cidade-jardim-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/virado-paulista-virado.jpg",
@@ -415,8 +417,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/virado-paulista-virado-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/virado-paulista-virado-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/virado-paulista-virado-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/virado-paulista-virado-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/lago-do-parque-do-ibir.jpg",
@@ -433,7 +435,7 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/lago-do-parque-do-ibir-small.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/lago-do-parque-do-ibir-small.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/teatro-municipal-de-sa.jpg",
@@ -448,8 +450,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/teatro-municipal-de-sa-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/teatro-municipal-de-sa-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/teatro-municipal-de-sa-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/teatro-municipal-de-sa-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/pinacoteca-do-estado-d.jpg",
@@ -466,8 +468,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/pinacoteca-do-estado-d-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/pinacoteca-do-estado-d-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/pinacoteca-do-estado-d-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/pinacoteca-do-estado-d-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/terminal-rodoviario-ti.jpg",
@@ -484,8 +486,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/terminal-rodoviario-ti-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/terminal-rodoviario-ti-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/terminal-rodoviario-ti-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/terminal-rodoviario-ti-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/catedral-metropolitana.jpg",
@@ -502,8 +504,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/catedral-metropolitana-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/catedral-metropolitana-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/catedral-metropolitana-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/catedral-metropolitana-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/angular.jpg",
@@ -525,8 +527,8 @@
             "Self-published work",
             "São Paulo"
           ],
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/angular-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/angular-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/angular-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/angular-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/alvorada-paulistana.jpg",
@@ -548,8 +550,8 @@
             "Self-published work",
             "São Paulo"
           ],
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/alvorada-paulistana-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/alvorada-paulistana-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/alvorada-paulistana-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/alvorada-paulistana-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/4251139657-flickr-n-a.jpg",
@@ -575,7 +577,7 @@
             "São Paulo",
             "Taken with LG GT360"
           ],
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/4251139657-flickr-n-a-small.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/4251139657-flickr-n-a-small.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/apa-marinha-do-litoral-norte-d.jpg",
@@ -597,8 +599,8 @@
             "Self-published work",
             "São Paulo"
           ],
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/apa-marinha-do-litoral-norte-d-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/apa-marinha-do-litoral-norte-d-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/apa-marinha-do-litoral-norte-d-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/apa-marinha-do-litoral-norte-d-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/3-me-livre-de-premiers-materia.jpg",
@@ -627,7 +629,7 @@
             "São Paulo",
             "Wiki Movimento Brasil's initiative with Instituto Hercule Florence"
           ],
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/3-me-livre-de-premiers-materia-small.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/3-me-livre-de-premiers-materia-small.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/arte-para-editatona-no-museu-d.png",
@@ -650,7 +652,7 @@
             "São Paulo",
             "Wiki Movimento Brasil's initiative with Museu do Futebol"
           ],
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/arte-para-editatona-no-museu-d-small.png"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/arte-para-editatona-no-museu-d-small.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/arte-para-editatona-no-museu-d-1.png",
@@ -673,8 +675,8 @@
             "São Paulo",
             "Wiki Movimento Brasil's initiative with Museu do Futebol"
           ],
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/arte-para-editatona-no-museu-d-1-small.png",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/arte-para-editatona-no-museu-d-1-medium.png"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/arte-para-editatona-no-museu-d-1-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/arte-para-editatona-no-museu-d-1-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/all-the-same-10058029986.jpg",
@@ -699,7 +701,7 @@
             "São Paulo",
             "Taken with Olympus Pen EE-2"
           ],
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/all-the-same-10058029986-small.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/all-the-same-10058029986-small.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/as-above-so-below-12930755483.jpg",
@@ -716,7 +718,7 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/as-above-so-below-12930755483-small.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/as-above-so-below-12930755483-small.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/antes-12922079633.jpg",
@@ -733,7 +735,7 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/antes-12922079633-small.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/antes-12922079633-small.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/analog-dendrites-32491341434.jpg",
@@ -750,8 +752,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/analog-dendrites-32491341434-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/analog-dendrites-32491341434-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/analog-dendrites-32491341434-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/analog-dendrites-32491341434-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/after-hours-sao-paulo-brazil-3.jpg",
@@ -768,7 +770,7 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/after-hours-sao-paulo-brazil-3-small.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/after-hours-sao-paulo-brazil-3-small.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/after-lunch-31409123805.jpg",
@@ -785,8 +787,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/after-lunch-31409123805-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/after-lunch-31409123805-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/after-lunch-31409123805-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/after-lunch-31409123805-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/ascensao-2023.jpg",
@@ -803,8 +805,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/ascensao-2023-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/ascensao-2023-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/ascensao-2023-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/ascensao-2023-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/another-odd-ad-placement-42878.jpg",
@@ -821,8 +823,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/another-odd-ad-placement-42878-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/another-odd-ad-placement-42878-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/another-odd-ad-placement-42878-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/another-odd-ad-placement-42878-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/1973-chevrolet-c14-38904223515.jpg",
@@ -839,8 +841,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/1973-chevrolet-c14-38904223515-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/1973-chevrolet-c14-38904223515-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/1973-chevrolet-c14-38904223515-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/1973-chevrolet-c14-38904223515-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/almost-sooc-42260139355.jpg",
@@ -857,8 +859,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/almost-sooc-42260139355-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/almost-sooc-42260139355-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/almost-sooc-42260139355-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/almost-sooc-42260139355-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/a-room-with-a-view-8603046345.jpg",
@@ -875,8 +877,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/a-room-with-a-view-8603046345-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/a-room-with-a-view-8603046345-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/a-room-with-a-view-8603046345-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/a-room-with-a-view-8603046345-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/arara-vermelha-3469887344.jpg",
@@ -893,8 +895,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/arara-vermelha-3469887344-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/arara-vermelha-3469887344-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/arara-vermelha-3469887344-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/arara-vermelha-3469887344-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wk/arara-azul-3469885920.jpg",
@@ -911,8 +913,8 @@
           "sourceArticleId": "sao-paulo-wk",
           "sourceGeohash4": "6gyf",
           "accessedAt": "2026-02-21T20:10:35.428Z",
-          "smallPath": "_m/6/g/y/f/sao-paulo-wk/arara-azul-3469885920-small.jpg",
-          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/arara-azul-3469885920-medium.jpg"
+          "smallPath": "_m/6/g/y/f/sao-paulo-wk/arara-azul-3469885920-small.webp",
+          "mediumPath": "_m/6/g/y/f/sao-paulo-wk/arara-azul-3469885920-medium.webp"
         },
         {
           "path": "_m/6/g/y/f/sao-paulo-wp/formacaodapmesp.jpg",
@@ -2496,7 +2498,8 @@
           "sourceGeohash4": "tpc/_ho/sa/o-/pa",
           "accessedAt": "2026-02-21T20:10:35.428Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/6/g/y/f/sao-paulo-wk/6gyf-sao-paulo-combined.mp3"
     }
   }
 }

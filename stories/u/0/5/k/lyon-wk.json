@@ -77,24 +77,24 @@
   "locationWikivoyagePath": "u/0/5/k/lyon-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "notre-dame-wk",
-      "title": "Notre-Dame: The Cathedral That Burned and Rose Again",
-      "tile": "u09t",
+      "id": "chateau-of-the-dukes-of-bourbon-wp",
+      "title": "Chateau of the Dukes of Bourbon",
+      "tile": "u01z",
       "coordinates": {
-        "lat": 48.853,
-        "lng": 2.3499
+        "lat": 46.3401,
+        "lng": 2.60355
       },
-      "distanceKm": 341.4
+      "distanceKm": 128.3
     },
     "n": {
-      "id": "zurich-wk",
-      "title": "Zurich",
-      "tile": "u0qj",
+      "id": "cluny-abbey-wp",
+      "title": "Cluny Abbey",
+      "tile": "u072",
       "coordinates": {
-        "lat": 47.3769,
-        "lng": 8.5417
+        "lat": 46.4348427,
+        "lng": 4.6594736
       },
-      "distanceKm": 324.5
+      "distanceKm": 42.8
     },
     "ne": {
       "id": "geneva-wk",
@@ -107,14 +107,14 @@
       "distanceKm": 69.1
     },
     "w": {
-      "id": "paris-wk",
-      "title": "Paris",
-      "tile": "u09t",
+      "id": "puy-de-dome-wp",
+      "title": "Puy-de-Dôme",
+      "tile": "u047",
       "coordinates": {
-        "lat": 48.856,
-        "lng": 2.351
+        "lat": 45.7,
+        "lng": 3.2166666666667
       },
-      "distanceKm": 368.7
+      "distanceKm": 78.4
     },
     "e": {
       "id": "chamonix-wk",
@@ -127,34 +127,34 @@
       "distanceKm": 124.1
     },
     "sw": {
-      "id": "lascaux-cave-wk",
-      "title": "Lascaux Cave: The Sistine Chapel of Prehistory",
-      "tile": "u00b",
+      "id": "abbey-of-la-chaise-dieu-wp",
+      "title": "Abbey of La Chaise-Dieu",
+      "tile": "u049",
       "coordinates": {
-        "lat": 45.0545,
-        "lng": 1.1683
+        "lat": 45.3208,
+        "lng": 3.6961
       },
-      "distanceKm": 244.3
+      "distanceKm": 46.8
     },
     "s": {
-      "id": "nice-wk",
-      "title": "Nice",
-      "tile": "spv0",
+      "id": "le-puy-cathedral-wp",
+      "title": "Le Puy Cathedral",
+      "tile": "u04b",
       "coordinates": {
-        "lat": 43.7102,
-        "lng": 7.262
+        "lat": 45.0428,
+        "lng": 3.8845
       },
-      "distanceKm": 283.7
+      "distanceKm": 86.3
     },
     "se": {
-      "id": "marseille-wk",
-      "title": "Marseille",
-      "tile": "spey",
+      "id": "saint-michel-de-maurienne-derailment-wp",
+      "title": "Saint-Michel-de-Maurienne Derailment",
+      "tile": "u0h9",
       "coordinates": {
-        "lat": 43.2965,
-        "lng": 5.3698
+        "lat": 45.211084,
+        "lng": 6.486418
       },
-      "distanceKm": 248.2
+      "distanceKm": 101.1
     }
   },
   "keywords": [

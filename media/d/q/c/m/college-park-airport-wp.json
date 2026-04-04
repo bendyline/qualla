@@ -22,8 +22,8 @@
           "College Park Aviation Museum",
           "Self-published work"
         ],
-        "mediumPath": "_m/d/q/c/m/college-park-airport-wp/hero-medium.jpg",
-        "smallPath": "_m/d/q/c/m/college-park-airport-wp/hero-small.jpg"
+        "mediumPath": "_m/d/q/c/m/college-park-airport-wp/hero-medium.webp",
+        "smallPath": "_m/d/q/c/m/college-park-airport-wp/hero-small.webp"
       },
       "images": [
         {
@@ -46,8 +46,8 @@
             "College Park Airport",
             "Self-published work"
           ],
-          "mediumPath": "_m/d/q/c/m/college-park-airport-wp/college-park-airport-o-medium.jpg",
-          "smallPath": "_m/d/q/c/m/college-park-airport-wp/college-park-airport-o-small.jpg"
+          "mediumPath": "_m/d/q/c/m/college-park-airport-wp/college-park-airport-o-medium.webp",
+          "smallPath": "_m/d/q/c/m/college-park-airport-wp/college-park-airport-o-small.webp"
         },
         {
           "path": "_m/d/q/c/m/college-park-airport-wp/planes-parked-college.jpg",
@@ -69,8 +69,8 @@
             "College Park Airport",
             "Self-published work"
           ],
-          "mediumPath": "_m/d/q/c/m/college-park-airport-wp/planes-parked-college-medium.jpg",
-          "smallPath": "_m/d/q/c/m/college-park-airport-wp/planes-parked-college-small.jpg"
+          "mediumPath": "_m/d/q/c/m/college-park-airport-wp/planes-parked-college-medium.webp",
+          "smallPath": "_m/d/q/c/m/college-park-airport-wp/planes-parked-college-small.webp"
         },
         {
           "path": "_m/d/q/c/m/college-park-airport-wp/inside-aviation-museum.jpg",
@@ -92,8 +92,8 @@
             "CC-BY-SA-4.0",
             "Self-published work"
           ],
-          "mediumPath": "_m/d/q/c/m/college-park-airport-wp/inside-aviation-museum-medium.jpg",
-          "smallPath": "_m/d/q/c/m/college-park-airport-wp/inside-aviation-museum-small.jpg"
+          "mediumPath": "_m/d/q/c/m/college-park-airport-wp/inside-aviation-museum-medium.webp",
+          "smallPath": "_m/d/q/c/m/college-park-airport-wp/inside-aviation-museum-small.webp"
         },
         {
           "path": "_m/d/q/c/m/college-park-airport-wp/sign-college-park-airp.jpg",
@@ -110,8 +110,8 @@
           "sourceArticleId": "college-park-airport-wp",
           "sourceGeohash4": "dqcm",
           "accessedAt": "2026-02-28T05:46:44.952Z",
-          "mediumPath": "_m/d/q/c/m/college-park-airport-wp/sign-college-park-airp-medium.jpg",
-          "smallPath": "_m/d/q/c/m/college-park-airport-wp/sign-college-park-airp-small.jpg"
+          "mediumPath": "_m/d/q/c/m/college-park-airport-wp/sign-college-park-airp-medium.webp",
+          "smallPath": "_m/d/q/c/m/college-park-airport-wp/sign-college-park-airp-small.webp"
         },
         {
           "path": "_m/d/q/c/m/college-park-airport-wp/chandlerkirtlandlewisgun.jpg",
@@ -139,7 +139,7 @@
             "Roy C. Kirtland",
             "Wright Model B"
           ],
-          "smallPath": "_m/d/q/c/m/college-park-airport-wp/chandlerkirtlandlewisgun-small.jpg"
+          "smallPath": "_m/d/q/c/m/college-park-airport-wp/chandlerkirtlandlewisgun-small.webp"
         },
         {
           "path": "_m/d/q/c/m/college-park-airport-wp/college-park-airport-from-metr.jpg",
@@ -156,8 +156,8 @@
           "sourceArticleId": "college-park-airport-wp",
           "sourceGeohash4": "dqcm",
           "accessedAt": "2026-02-28T05:46:44.952Z",
-          "mediumPath": "_m/d/q/c/m/college-park-airport-wp/college-park-airport-from-metr-medium.jpg",
-          "smallPath": "_m/d/q/c/m/college-park-airport-wp/college-park-airport-from-metr-small.jpg"
+          "mediumPath": "_m/d/q/c/m/college-park-airport-wp/college-park-airport-from-metr-medium.webp",
+          "smallPath": "_m/d/q/c/m/college-park-airport-wp/college-park-airport-from-metr-small.webp"
         },
         {
           "path": "_m/tpc/ai/rp/or/t_/airport/t5-air-side.jpg",
@@ -363,7 +363,16 @@
           "sourceGeohash4": "tpc/ai/rp/or/t_",
           "accessedAt": "2026-02-28T05:46:44.952Z"
         }
-      ]
+      ],
+      "narration": [
+        "_m/d/q/c/m/college-park-airport-wp/dqcm-college-park-airport-flight-context.mp3",
+        "_m/d/q/c/m/college-park-airport-wp/dqcm-college-park-airport-intro.mp3",
+        "_m/d/q/c/m/college-park-airport-wp/dqcm-college-park-airport-a-field-of-firsts.mp3",
+        "_m/d/q/c/m/college-park-airport-wp/dqcm-college-park-airport-vertical-ambitions.mp3",
+        "_m/d/q/c/m/college-park-airport-wp/dqcm-college-park-airport-survival-against-the-odds.mp3",
+        "_m/d/q/c/m/college-park-airport-wp/dqcm-college-park-airport-the-museum-in-the-hangar.mp3"
+      ],
+      "combinedNarration": "_m/d/q/c/m/college-park-airport-wp/dqcm-college-park-airport-combined.mp3"
     }
   }
 }

@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/r/4/b/reno-city-wk/9r1w-reno-the-biggest-little-city-where-divorce-was-onc-intro.mp3",
-        "_m/9/r/4/b/reno-city-wk/9r1w-reno-the-biggest-little-city-where-divorce-was-onc-flight-context.mp3",
-        "_m/9/r/4/b/reno-city-wk/9r1w-reno-the-biggest-little-city-where-divorce-was-onc-the-casinos.mp3",
-        "_m/9/r/4/b/reno-city-wk/9r1w-reno-the-biggest-little-city-where-divorce-was-onc-the-divorce.mp3",
-        "_m/9/r/4/b/reno-city-wk/9r1w-reno-the-biggest-little-city-where-divorce-was-onc-the-mountains.mp3",
-        "_m/9/r/4/b/reno-city-wk/9r1w-reno-the-biggest-little-city-where-divorce-was-onc-the-tech.mp3",
-        "_m/9/r/4/b/reno-city-wk/9r1w-reno-the-biggest-little-city-where-divorce-was-onc-visiting-reno.mp3"
+        "_m/9/r/4/b/reno-city-wk/9r4b-reno-the-biggest-little-city-where-divorce-was-onc-flight-context.mp3",
+        "_m/9/r/4/b/reno-city-wk/9r4b-reno-the-biggest-little-city-where-divorce-was-onc-intro.mp3",
+        "_m/9/r/4/b/reno-city-wk/9r4b-reno-the-biggest-little-city-where-divorce-was-onc-the-divorce.mp3",
+        "_m/9/r/4/b/reno-city-wk/9r4b-reno-the-biggest-little-city-where-divorce-was-onc-the-casinos.mp3",
+        "_m/9/r/4/b/reno-city-wk/9r4b-reno-the-biggest-little-city-where-divorce-was-onc-the-tech.mp3",
+        "_m/9/r/4/b/reno-city-wk/9r4b-reno-the-biggest-little-city-where-divorce-was-onc-the-mountains.mp3",
+        "_m/9/r/4/b/reno-city-wk/9r4b-reno-the-biggest-little-city-where-divorce-was-onc-visiting-reno.mp3"
       ],
       "hero": {
         "path": "_m/9/r/4/b/reno-wk/university-nevada-reno.jpg",
@@ -25,7 +25,9 @@
         "sourceType": "sibling",
         "sourceArticleId": "reno-wk",
         "sourceGeohash4": "9r4b",
-        "accessedAt": "2026-02-21T21:36:31.281Z"
+        "accessedAt": "2026-02-21T21:36:31.281Z",
+        "mediumPath": "_m/9/r/4/b/reno-city-wk/hero-medium.webp",
+        "smallPath": "_m/9/r/4/b/reno-city-wk/hero-small.webp"
       },
       "images": [
         {
@@ -419,7 +421,8 @@
           "sourceGeohash4": "9r4b",
           "accessedAt": "2026-02-21T21:36:31.281Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/r/4/b/reno-city-wk/9r4b-reno-city-combined.mp3"
     }
   }
 }

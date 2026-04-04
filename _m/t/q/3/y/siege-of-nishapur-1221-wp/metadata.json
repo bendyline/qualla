@@ -74,7 +74,7 @@
       "sourceType": "core",
       "sourceArticleId": "siege-of-nishapur-1221-wp",
       "sourceGeohash4": "tq3y",
-      "smallPath": "_m/t/q/3/y/siege-of-nishapur-1221-wp/behzad-_-_-_-_1486-small.jpg"
+      "smallPath": "_m/t/q/3/y/siege-of-nishapur-1221-wp/behzad-_-_-_-_1486-small.webp"
     },
     {
       "filename": "Iran relief location map.jpg",
@@ -184,7 +184,7 @@
       "sourceType": "core",
       "sourceArticleId": "siege-of-nishapur-1221-wp",
       "sourceGeohash4": "tq3y",
-      "smallPath": "_m/t/q/3/y/siege-of-nishapur-1221-wp/messengers-genghis-kha-small.jpg"
+      "smallPath": "_m/t/q/3/y/siege-of-nishapur-1221-wp/messengers-genghis-kha-small.webp"
     }
   ],
   "galleryPaths": [
@@ -194,5 +194,25 @@
     "_m/t/q/3/y/nishapur-wp/west-asia-non-political-with-w.jpg",
     "_m/t/q/3/y/siege-of-nishapur-1221-wp/messengers-genghis-kha.jpg"
   ],
-  "fetchedAt": "2026-03-01T17:03:45.155Z"
+  "narration": {
+    "files": [
+      "tq3y-siege-of-nishapur-1221-flight-context.mp3",
+      "tq3y-siege-of-nishapur-1221-intro.mp3",
+      "tq3y-siege-of-nishapur-1221-the-jewel-on-the-silk-road.mp3",
+      "tq3y-siege-of-nishapur-1221-a-son-in-laws-death-a-citys-sentence.mp3",
+      "tq3y-siege-of-nishapur-1221-eight-days-of-defiance.mp3",
+      "tq3y-siege-of-nishapur-1221-what-silence-sounds-like.mp3",
+      "tq3y-siege-of-nishapur-1221-seven-centuries-underground.mp3"
+    ],
+    "durations": {
+      "tq3y-siege-of-nishapur-1221-flight-context.mp3": 37.6949583,
+      "tq3y-siege-of-nishapur-1221-intro.mp3": 39.9912916,
+      "tq3y-siege-of-nishapur-1221-the-jewel-on-the-silk-road.mp3": 66.6199583,
+      "tq3y-siege-of-nishapur-1221-a-son-in-laws-death-a-citys-sentence.mp3": 52.7274166,
+      "tq3y-siege-of-nishapur-1221-eight-days-of-defiance.mp3": 73.3662083,
+      "tq3y-siege-of-nishapur-1221-what-silence-sounds-like.mp3": 64.14825,
+      "tq3y-siege-of-nishapur-1221-seven-centuries-underground.mp3": 66.6630416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

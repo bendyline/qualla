@@ -76,87 +76,90 @@
   "locationWikipediaPath": "w/j/2/b/potala-palace-square-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "band-e-amir-national-park-wk",
-      "title": "Band-e Amir National Park",
-      "tile": "tqpy",
+      "id": "yangbajain-geothermal-field-wp",
+      "title": "Yangbajain Geothermal Field",
+      "tile": "wj27",
       "coordinates": {
-        "lat": 34.839722222222,
-        "lng": 67.230833333333
+        "lat": 30.0976,
+        "lng": 90.5072
       },
-      "distanceKm": 2266.7
+      "distanceKm": 30.4
     },
     "n": {
-      "id": "band-e-amir-national-park-wp",
-      "title": "Band-e Amir National Park",
-      "tile": "tqpy",
+      "id": "reting-monastery-wp",
+      "title": "Reting Monastery",
+      "tile": "wj3h",
       "coordinates": {
-        "lat": 34.839722222222,
-        "lng": 67.230833333333
+        "lat": 30.31058,
+        "lng": 91.51357
       },
-      "distanceKm": 2314.4
+      "distanceKm": 54.8
     },
     "ne": {
-      "id": "baotou-wk",
-      "title": "Baotou",
-      "tile": "wrnp",
+      "id": "drigung-monastery-wp",
+      "title": "Drigung Monastery",
+      "tile": "wj3e",
       "coordinates": {
-        "lat": 40.656,
-        "lng": 109.834
+        "lat": 30.106685669645138,
+        "lng": 92.2042720920856
       },
-      "distanceKm": 2025
+      "distanceKm": 49.7
     },
     "w": {
-      "id": "taj-mahal-wk",
-      "title": "Taj Mahal",
-      "tile": "tsz6",
+      "id": "tsurphu-monastery-wp",
+      "title": "Tsurphu Monastery",
+      "tile": "wj23",
       "coordinates": {
-        "lat": 27.1751,
-        "lng": 78.0421
+        "lat": 29.72638889,
+        "lng": 90.57555556
       },
-      "distanceKm": 1267.2
+      "distanceKm": 17.1
     },
     "e": {
-      "id": "vientiane-wk",
-      "title": "Vientiane",
-      "tile": "w70y",
+      "id": "yungbulakang-palace-wp",
+      "title": "Yungbulakang Palace",
+      "tile": "wj1m",
       "coordinates": {
-        "lat": 17.9757,
-        "lng": 102.6331
+        "lat": 29.14241,
+        "lng": 91.80245
       },
-      "distanceKm": 1700.9
+      "distanceKm": 53.2
     },
     "sw": {
-      "id": "kathmandu-wk",
-      "title": "Kathmandu",
-      "tile": "tuut",
+      "id": "yamdrok-hydropower-station-wp",
+      "title": "Yamdrok Hydropower Station",
+      "tile": "wj0q",
       "coordinates": {
-        "lat": 27.7172,
-        "lng": 85.324
+        "lat": 29.2641,
+        "lng": 90.6064
       },
-      "distanceKm": 556.1
+      "distanceKm": 13.8
     },
     "s": {
-      "id": "kolkata-wk",
-      "title": "Kolkata",
-      "tile": "tunb",
+      "id": "mindrolling-monastery-wp",
+      "title": "Mindrolling Monastery",
+      "tile": "wj0y",
       "coordinates": {
-        "lat": 22.5726,
-        "lng": 88.3639
+        "lat": 29.183653,
+        "lng": 91.406158
       },
-      "distanceKm": 806.7
+      "distanceKm": 25.6
     },
     "se": {
-      "id": "yangon-wk",
-      "title": "Yangon",
-      "tile": "w4ur",
+      "id": "tradruk-temple-wp",
+      "title": "Tradruk Temple",
+      "tile": "wj1q",
       "coordinates": {
-        "lat": 16.8661,
-        "lng": 96.1951
+        "lat": 29.19373,
+        "lng": 91.771807
       },
-      "distanceKm": 1460.6
+      "distanceKm": 18
     }
   },
   "keywords": [
     "potala-palace"
+  ],
+  "duplicates": [
+    "potala-palace-square-wp"
   ]
 }

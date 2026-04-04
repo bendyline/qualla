@@ -18,8 +18,8 @@
     "sourceType": "core",
     "sourceArticleId": "kharg-island-wp",
     "sourceGeohash4": "tj5y",
-    "mediumPath": "_m/t/j/5/y/kharg-island-wp/hero-medium.jpg",
-    "smallPath": "_m/t/j/5/y/kharg-island-wp/hero-small.jpg"
+    "mediumPath": "_m/t/j/5/y/kharg-island-wp/hero-medium.webp",
+    "smallPath": "_m/t/j/5/y/kharg-island-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "ഖർക്ക് ദ്വീപിലെ പൗരസ്ത്യ സുറിയാനി ആശ്രമം.jpg",
@@ -69,8 +69,8 @@
       "sourceType": "core",
       "sourceArticleId": "kharg-island-wp",
       "sourceGeohash4": "tj5y",
-      "mediumPath": "_m/t/j/5/y/kharg-island-wp/khark-island-iran-1973-medium.jpg",
-      "smallPath": "_m/t/j/5/y/kharg-island-wp/khark-island-iran-1973-small.jpg"
+      "mediumPath": "_m/t/j/5/y/kharg-island-wp/khark-island-iran-1973-medium.webp",
+      "smallPath": "_m/t/j/5/y/kharg-island-wp/khark-island-iran-1973-small.webp"
     },
     {
       "filename": "Dolmen in Johfiyeh Irbid north of Jordan Dec2009.jpg",
@@ -126,7 +126,7 @@
       "sourceType": "core",
       "sourceArticleId": "kharg-island-wp",
       "sourceGeohash4": "tj5y",
-      "smallPath": "_m/t/j/5/y/kharg-island-wp/iran-relief-location-map-small.jpg"
+      "smallPath": "_m/t/j/5/y/kharg-island-wp/iran-relief-location-map-small.webp"
     },
     {
       "filename": "Kharg oil loading terminal.jpg",
@@ -155,8 +155,8 @@
       "sourceType": "core",
       "sourceArticleId": "kharg-island-wp",
       "sourceGeohash4": "tj5y",
-      "mediumPath": "_m/t/j/5/y/kharg-island-wp/large-tankers-loading-medium.jpg",
-      "smallPath": "_m/t/j/5/y/kharg-island-wp/large-tankers-loading-small.jpg"
+      "mediumPath": "_m/t/j/5/y/kharg-island-wp/large-tankers-loading-medium.webp",
+      "smallPath": "_m/t/j/5/y/kharg-island-wp/large-tankers-loading-small.webp"
     },
     {
       "filename": "NIOC Kharg beach.jpg",
@@ -181,7 +181,7 @@
       "sourceType": "core",
       "sourceArticleId": "kharg-island-wp",
       "sourceGeohash4": "tj5y",
-      "smallPath": "_m/t/j/5/y/kharg-island-wp/national-iranian-oil-c-small.jpg"
+      "smallPath": "_m/t/j/5/y/kharg-island-wp/national-iranian-oil-c-small.webp"
     }
   ],
   "galleryPaths": [
@@ -191,5 +191,23 @@
     "_m/t/j/5/y/kharg-island-wp/large-tankers-loading.jpg",
     "_m/t/j/5/y/kharg-island-wp/national-iranian-oil-c.jpg"
   ],
-  "fetchedAt": "2026-03-01T07:20:21.290Z"
+  "narration": {
+    "files": [
+      "tj5y-kharg-island-flight-context.mp3",
+      "tj5y-kharg-island-intro.mp3",
+      "tj5y-kharg-island-tombs-older-than-memory.mp3",
+      "tj5y-kharg-island-pearls-pirates-and-empires.mp3",
+      "tj5y-kharg-island-black-gold-and-bombardment.mp3",
+      "tj5y-kharg-island-an-island-between-eras.mp3"
+    ],
+    "durations": {
+      "tj5y-kharg-island-flight-context.mp3": 42.4132083,
+      "tj5y-kharg-island-intro.mp3": 45.6365,
+      "tj5y-kharg-island-tombs-older-than-memory.mp3": 75.3758333,
+      "tj5y-kharg-island-pearls-pirates-and-empires.mp3": 57.4068333,
+      "tj5y-kharg-island-black-gold-and-bombardment.mp3": 70.7399166,
+      "tj5y-kharg-island-an-island-between-eras.mp3": 65.4169583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

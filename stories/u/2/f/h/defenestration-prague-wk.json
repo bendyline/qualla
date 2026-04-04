@@ -106,26 +106,6 @@
       "distanceKm": 524.5
     },
     "w": {
-      "id": "zwingenberg-castle-wp",
-      "title": "Zwingenberg Castle",
-      "tile": "u0y3",
-      "coordinates": {
-        "lat": 49.42194,
-        "lng": 9.03333
-      },
-      "distanceKm": 342.5
-    },
-    "e": {
-      "id": "auschwitz-wk",
-      "title": "Auschwitz: The Site of Industrialized Murder",
-      "tile": "u2vs",
-      "coordinates": {
-        "lat": 50.0343,
-        "lng": 19.1962
-      },
-      "distanceKm": 316.5
-    },
-    "sw": {
       "id": "salzburg-wk",
       "title": "Salzburg",
       "tile": "u23r",
@@ -133,27 +113,47 @@
         "lat": 47.8095,
         "lng": 13.055
       },
-      "distanceKm": 220.6
+      "distanceKm": 249.3
     },
-    "s": {
-      "id": "hallstatt-wk",
-      "title": "Hallstatt",
-      "tile": "u23w",
-      "coordinates": {
-        "lat": 47.5622,
-        "lng": 13.6493
-      },
-      "distanceKm": 246.7
-    },
-    "se": {
-      "id": "vienna-wk",
-      "title": "Vienna",
+    "e": {
+      "id": "2020-vienna-attack-wp",
+      "title": "2020 Vienna Attack",
       "tile": "u2ed",
       "coordinates": {
-        "lat": 48.208,
-        "lng": 16.373
+        "lat": 48.21198,
+        "lng": 16.37463
       },
-      "distanceKm": 207.4
+      "distanceKm": 231.7
+    },
+    "sw": {
+      "id": "anschluss-wp",
+      "title": "The Anschluss: When Austria Vanished Overnight",
+      "tile": "u299",
+      "coordinates": {
+        "lat": 48.115992,
+        "lng": 13.593897
+      },
+      "distanceKm": 181.5
+    },
+    "s": {
+      "id": "congress-of-vienna-wp",
+      "title": "The Congress of Vienna: The Party That Redrew Europe",
+      "tile": "u2ed",
+      "coordinates": {
+        "lat": 48.2085,
+        "lng": 16.363805555555555
+      },
+      "distanceKm": 230.8
+    },
+    "se": {
+      "id": "battle-of-vienna-wp",
+      "title": "The Battle of Vienna: The Cavalry Charge That Saved a Continent",
+      "tile": "u2ed",
+      "coordinates": {
+        "lat": 48.235,
+        "lng": 16.335
+      },
+      "distanceKm": 203.3
     }
   },
   "keywords": [

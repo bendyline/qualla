@@ -69,24 +69,24 @@
   "locationWikivoyagePath": "c/2/0/3/mcminnville-oregon-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "northern-oregon-coast-wk",
-      "title": "Northern Oregon Coast",
-      "tile": "c205",
+      "id": "bayocean-oregon-wp",
+      "title": "Bayocean, Oregon",
+      "tile": "c0pg",
       "coordinates": {
-        "lat": 45.89,
-        "lng": -123.96
+        "lat": 45.5276,
+        "lng": -123.952
       },
-      "distanceKm": 43.5
+      "distanceKm": 15.7
     },
     "n": {
-      "id": "camas-washington-wk",
-      "title": "Camas",
-      "tile": "c20g",
+      "id": "oregon-coast-scenic-railroad-wp",
+      "title": "Oregon Coast Scenic Railroad",
+      "tile": "c0pg",
       "coordinates": {
-        "lat": 45.5911,
-        "lng": -122.412
+        "lat": 45.5694,
+        "lng": -123.9432
       },
-      "distanceKm": 63.5
+      "distanceKm": 56.3
     },
     "ne": {
       "id": "vancouver-washington-wk",
@@ -99,14 +99,14 @@
       "distanceKm": 13.8
     },
     "w": {
-      "id": "astoria-end-of-trail-wk",
-      "title": "Astoria: Where Lewis and Clark Finally Saw the Pacific",
-      "tile": "c0py",
+      "id": "mount-hebo-air-force-station-wp",
+      "title": "Mount Hebo Air Force Station",
+      "tile": "c0pc",
       "coordinates": {
-        "lat": 46.1879,
-        "lng": -123.8313
+        "lat": 45.21583333,
+        "lng": -123.75777778
       },
-      "distanceKm": 103
+      "distanceKm": 5.4
     },
     "e": {
       "id": "portland-city-wk",
@@ -119,14 +119,14 @@
       "distanceKm": 28
     },
     "sw": {
-      "id": "kalaupapa-national-historical-park-wk",
-      "title": "Kalaupapa National Historical Park",
-      "tile": "8eb2",
+      "id": "red-sand-beach-wp",
+      "title": "Red Sand Beach",
+      "tile": "8e9n",
       "coordinates": {
-        "lat": 21.1778,
-        "lng": -156.96
+        "lat": 20.7522,
+        "lng": -155.982
       },
-      "distanceKm": 4023.6
+      "distanceKm": 3993.7
     },
     "s": {
       "id": "eugene-wk",

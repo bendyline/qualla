@@ -77,24 +77,24 @@
   "locationWikivoyagePath": "k/e/7/f/johannesburg-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "victoria-falls-wk",
-      "title": "Victoria Falls",
-      "tile": "ksf3",
+      "id": "pilanesberg-national-park-wk",
+      "title": "Pilanesberg National Park",
+      "tile": "kee2",
       "coordinates": {
-        "lat": -17.9243,
-        "lng": 25.8572
+        "lat": -25.2611,
+        "lng": 27.1008
       },
-      "distanceKm": 894.8
+      "distanceKm": 72
     },
     "n": {
-      "id": "serengeti-national-park-wk",
-      "title": "Serengeti National Park",
-      "tile": "kz8d",
+      "id": "marikana-massacre-wp",
+      "title": "Marikana Massacre",
+      "tile": "ke7t",
       "coordinates": {
-        "lat": -2.3328,
-        "lng": 34.5667
+        "lat": -25.677778,
+        "lng": 27.509167
       },
-      "distanceKm": 2708
+      "distanceKm": 47.6
     },
     "ne": {
       "id": "kruger-national-park-wk",
@@ -107,54 +107,54 @@
       "distanceKm": 367.1
     },
     "w": {
-      "id": "accra-wk",
-      "title": "Accra",
-      "tile": "ebzz",
+      "id": "battle-of-bothaville-wp",
+      "title": "Battle of Bothaville",
+      "tile": "ke4u",
       "coordinates": {
-        "lat": 5.6037,
-        "lng": -0.187
+        "lat": -27.383,
+        "lng": 26.617
       },
-      "distanceKm": 4614.4
+      "distanceKm": 163.2
     },
     "e": {
-      "id": "zanzibar-wk",
-      "title": "Zanzibar",
-      "tile": "kygu",
+      "id": "golden-gate-highlands-national-park-wp",
+      "title": "Golden Gate Highlands National Park",
+      "tile": "kdum",
       "coordinates": {
-        "lat": -6.1659,
-        "lng": 39.2026
+        "lat": -28.5244,
+        "lng": 28.6208
       },
-      "distanceKm": 2492.1
+      "distanceKm": 269.6
     },
     "sw": {
-      "id": "cape-town-wk",
-      "title": "Cape Town",
-      "tile": "k3vn",
+      "id": "tautona-mine-wp",
+      "title": "TauTona Mine",
+      "tile": "ke73",
       "coordinates": {
-        "lat": -33.9258,
-        "lng": 18.4232
+        "lat": -26.42166667,
+        "lng": 27.40333333
       },
-      "distanceKm": 1205.2
+      "distanceKm": 6.3
     },
     "s": {
-      "id": "grytviken-wk",
-      "title": "Grytviken",
-      "tile": "5nq5",
+      "id": "sharpeville-massacre-wp",
+      "title": "Sharpeville Massacre",
+      "tile": "ke7b",
       "coordinates": {
-        "lat": -54.2815,
-        "lng": -36.508
+        "lat": -26.6883,
+        "lng": 27.8719
       },
-      "distanceKm": 6017.6
+      "distanceKm": 36.5
     },
     "se": {
-      "id": "royal-natal-national-park-wk",
-      "title": "Royal Natal National Park",
-      "tile": "kdus",
+      "id": "battlefields-kwazulu-natal-wk",
+      "title": "Battlefields (KwaZulu-Natal)",
+      "tile": "kdvp",
       "coordinates": {
-        "lat": -28.75,
-        "lng": 29
+        "lat": -28.173,
+        "lng": 29.759
       },
-      "distanceKm": 269.9
+      "distanceKm": 237.5
     }
   },
   "keywords": [

@@ -31,8 +31,8 @@
     "sourceType": "core",
     "sourceArticleId": "hull-rust-mahoning-open-pit-iron-mine-wp",
     "sourceGeohash4": "cbmv",
-    "smallPath": "_m/c/b/m/v/hull-rust-mahoning-open-pit-iron-mine-wp/hero-small.jpg",
-    "mediumPath": "_m/c/b/m/v/hull-rust-mahoning-open-pit-iron-mine-wp/hero-medium.jpg"
+    "smallPath": "_m/c/b/m/v/hull-rust-mahoning-open-pit-iron-mine-wp/hero-small.webp",
+    "mediumPath": "_m/c/b/m/v/hull-rust-mahoning-open-pit-iron-mine-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Hull–Rust–Mahoning Open Pit Iron Mine.jpg",
@@ -114,7 +114,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "hull-rust-mahoning-open-pit-iron-mine-wp",
-      "sourceGeohash4": "cbmv"
+      "sourceGeohash4": "cbmv",
+      "smallPath": "_m/c/b/m/v/hull-rust-mahoning-open-pit-iron-mine-wp/mine-power-8063816660-small.webp"
     },
     {
       "filename": "Hull–Rust–Mahoning Open Pit Iron Mine (cropped).jpg",
@@ -139,7 +140,6 @@
     "_m/c/b/m/v/hull-rust-mahoning-open-pit-iron-mine-wp/mine-power-8063816660.jpg",
     "_m/c/b/m/v/hibbing-minnesota-wp/hull-rust-mahoning-ope.jpg"
   ],
-  "fetchedAt": "2026-02-22T03:00:31.739Z",
   "narration": {
     "files": [
       "cbmv-hull-rust-mahoning-open-pit-iron-mine-flight-context.mp3",
@@ -157,8 +157,7 @@
       "cbmv-hull-rust-mahoning-open-pit-iron-mine-arsenal-of-democracy.mp3": 54.2355833,
       "cbmv-hull-rust-mahoning-open-pit-iron-mine-from-bethlehem-to-cleveland-cliffs.mp3": 62.157625
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T10:31:53.481Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T03:00:34.004Z"
 }

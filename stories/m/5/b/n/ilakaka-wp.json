@@ -1,0 +1,156 @@
+{
+  "id": "ilakaka-wp",
+  "source": "wikipedia",
+  "sourceId": "5489258",
+  "title": "Ilakaka",
+  "slug": "ilakaka",
+  "summary": "A village of 40 people that exploded to 60,000 after the discovery of one of Earth's largest sapphire deposits, becoming Madagascar's Wild West overnight.",
+  "content": {
+    "intro": "In the early 1990s, about 40 people lived in Ilakaka. By 2005, there were nearly 60,000. What happened between those years was the discovery of one of Earth's largest known alluvial sapphire deposits in the valley of the Ilakaka River, and the transformation that followed was so sudden and violent that observers reached for the only comparison that seemed to fit: the Wild West. Bars, brothels, and scores to settle arrived alongside the prospectors. The sapphire fever, as it became known, drew fortune seekers from every corner of Madagascar and beyond.",
+    "sections": [
+      {
+        "title": "Blue Fire in the River Gravel",
+        "body": "The sapphires that changed everything were found in 1998, embedded in alluvial deposits along the Ilakaka River in southwestern Madagascar. Alluvial sapphires form deep in the Earth's crust and are carried to the surface by geological forces, then scattered by water over millennia. The deposits near Ilakaka proved to be among the largest of their kind anywhere on the planet. Word traveled fast. Hundreds of people began arriving every day from throughout the region, and then from across the country. All 18 of Madagascar's ethnic groups are represented in the town's chaotic, shifting population. By 2008, local authorities estimated about 30,000 residents, though the number was highly approximate given the incessant turnover of people chasing the next find."
+      },
+      {
+        "title": "Holes Among the Baobabs",
+        "body": "The landscape around Ilakaka tells the story of what unregulated mining does to a place. Unofficial plots are pitted with wells into which miners descend to find a seam, leaving behind a terrain of open shafts and tailings dumps that stretch across ground once dotted only with giant baobab trees. The baobabs remain, ancient and indifferent, towering over sheet-metal shacks that have neither running water nor electricity. There are very few paved roads. The contrast is striking from any angle: trees that have stood for hundreds of years beside structures thrown up in weeks, mining pits beside untouched forest, enormous natural wealth extracted by people living in extreme poverty. Since high profits are at stake, violence is common, and the town has earned a reputation as one of the most dangerous places in Madagascar."
+      },
+      {
+        "title": "The Crossroads on Route Nationale 7",
+        "body": "Ilakaka sits along Route Nationale 7, the main road connecting Toliara on the southwest coast to Fianarantsoa in the central highlands, 735 kilometers south of the capital Antananarivo. The town is just 26 kilometers from Ranohira, the gateway to Isalo National Park, one of Madagascar's most popular tourist destinations. This juxtaposition is hard to miss: the same road carries tourists heading to photograph sandstone canyons and lemurs past a boomtown where thousands dig for sapphires in conditions that belong to another century. A mosque and a Church Rhema stand in Ilakaka, a small marker of the religious diversity that the influx of people from across the island has brought to what was, barely a generation ago, a quiet rural settlement that most maps did not bother to name."
+      },
+      {
+        "title": "The Price of Gemstones",
+        "body": "Madagascar's sapphire rush is part of a global pattern where gemstone discoveries in poor countries create intense, short-lived booms that reshape landscapes and communities without leaving much lasting wealth behind. The miners at Ilakaka work for themselves or for small operators, descending into hand-dug wells with minimal safety equipment. The gems they find enter a supply chain that moves through middlemen in Ilakaka, then to dealers in Antananarivo or overseas, with the greatest profits accruing far from the pits. The fever has overrun the country, drawing people away from agriculture and other livelihoods with the promise of a lucky strike. For the town itself, the legacy is a scarred landscape, a transient population, and infrastructure that has never caught up with the demand placed on it. Whether the sapphires will outlast the frenzy that surrounds them remains an open question."
+      }
+    ],
+    "flightContext": "Located at 22.68S, 45.21E in southwestern Madagascar along Route Nationale 7. The town is visible from altitude by the extensive mining tailings and pitted landscape contrasting with surrounding scrubland and baobab forest. Isalo National Park's distinctive sandstone formations are visible 26 km to the northeast near Ranohira. Nearest significant airfield is at Toliara (FMST), approximately 210 km to the southwest. Recommended viewing altitude: 3,000-5,000 ft AGL to see the mining scars and baobab trees."
+  },
+  "location": {
+    "coordinates": {
+      "lat": -22.68,
+      "lng": 45.21
+    },
+    "geohash": "m5bnu"
+  },
+  "categories": [
+    "mining",
+    "gemstones",
+    "boomtown"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-24T00:00:00Z",
+    "wordCount": 720,
+    "readTime": 4,
+    "firstPublished": "2026-03-24T00:00:00Z",
+    "storyNumber": 12065
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Ilakaka - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ilakaka",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "Sapphire discovery 1998 confirmed",
+        "Population from ~40 to nearly 60,000 by 2005 confirmed",
+        "735 km south of Antananarivo confirmed",
+        "26 km from Ranohira/Isalo National Park confirmed",
+        "All 18 ethnic groups represented confirmed",
+        "Alluvial sapphire deposits among largest in world confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 3,
+    "strongOpinions": [
+      "observers reached for the only comparison that seemed to fit: the Wild West",
+      "the town has earned a reputation as one of the most dangerous places in Madagascar",
+      "enormous natural wealth extracted by people living in extreme poverty"
+    ]
+  },
+  "locationWikipediaPath": "m/5/b/n/ilakaka-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "velondriake-wp",
+      "title": "Velondriake",
+      "tile": "kund",
+      "coordinates": {
+        "lat": -22.0667,
+        "lng": 43.2333
+      },
+      "distanceKm": 153.4
+    },
+    "n": {
+      "id": "morondava-wk",
+      "title": "Morondava",
+      "tile": "kurs",
+      "coordinates": {
+        "lat": -20.284722,
+        "lng": 44.3175
+      },
+      "distanceKm": 261.9
+    },
+    "ne": {
+      "id": "madagascar-wk",
+      "title": "Madagascar",
+      "tile": "mh3q",
+      "coordinates": {
+        "lat": -20,
+        "lng": 47
+      },
+      "distanceKm": 308.8
+    },
+    "w": {
+      "id": "toliara-wk",
+      "title": "Toliara",
+      "tile": "kgz5",
+      "coordinates": {
+        "lat": -23.35,
+        "lng": 43.666666666667
+      },
+      "distanceKm": 119.8
+    },
+    "e": {
+      "id": "berenty-reserve-wk",
+      "title": "Berenty Reserve",
+      "tile": "m58c",
+      "coordinates": {
+        "lat": -25.0092,
+        "lng": 46.3022
+      },
+      "distanceKm": 257
+    },
+    "sw": {
+      "id": "arboretum-d-antsokay-wp",
+      "title": "Arboretum d'Antsokay",
+      "tile": "kgz4",
+      "coordinates": {
+        "lat": -23.41322,
+        "lng": 43.75544
+      },
+      "distanceKm": 100.8
+    },
+    "s": {
+      "id": "tsimanampetsotsa-national-park-wp",
+      "title": "Tsimanampetsotsa National Park",
+      "tile": "kgxn",
+      "coordinates": {
+        "lat": -24.1082,
+        "lng": 43.8383
+      },
+      "distanceKm": 181.7
+    },
+    "se": {
+      "id": "anosy-wp",
+      "title": "Anosy",
+      "tile": "m58y",
+      "coordinates": {
+        "lat": -24.1,
+        "lng": 46.3
+      },
+      "distanceKm": 133.9
+    }
+  }
+}

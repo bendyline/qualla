@@ -1,0 +1,162 @@
+{
+  "id": "cape-mudge-lighthouse-wp",
+  "source": "wikipedia",
+  "sourceId": "44266649",
+  "title": "Cape Mudge Lighthouse",
+  "slug": "cape-mudge-lighthouse",
+  "summary": "A sentinel at the southern tip of Quadra Island, Cape Mudge Lighthouse has guided vessels through Discovery Passage since 1898 while quietly collecting oceanographic data for nearly half a century.",
+  "content": {
+    "intro": "For 49 years, someone at Cape Mudge walked to the water's edge every single day and measured its temperature and salinity. Rain or shine, winter dark or summer light, the routine never broke. The lighthouse on the southern tip of Quadra Island is known for its beacon, but its most remarkable contribution to British Columbia may have been those quiet, daily readings -- a half-century of ocean science gathered one bucket at a time.",
+    "sections": [
+      {
+        "title": "A Name from the Discovery",
+        "body": "Captain George Vancouver sailed through these waters in 1792, charting the intricate coastline of what would become British Columbia. He named the rocky headland after Zachary Mudge, a fellow officer who had served aboard HMS Discovery and would later sail on HMS Providence through the same channels. The cape marked the spot where Discovery Passage squeezes between Vancouver Island and Quadra Island, a navigational chokepoint where tidal currents churn and vessels must choose their moment carefully. It was an obvious place for a light."
+      },
+      {
+        "title": "Two Lighthouses, One Point",
+        "body": "The first Cape Mudge Lighthouse went up in 1898 -- a wooden, two-storey building with a lantern perched on the roof, modest but visible to the steamers and fishing boats threading the passage. By 1916, the station needed something more substantial, and the current lighthouse replaced it. The original building didn't disappear immediately; it was demoted to assistant keeper's quarters, housing the families who maintained the light. It stood until sometime after 1949, when it was finally demolished. The newer tower still stands, its white walls catching the Pacific light, a compact concrete structure that has outlasted the wooden pioneer by more than a century."
+      },
+      {
+        "title": "The Patient Science of Seawater",
+        "body": "In 1936, Cape Mudge joined the British Columbia Shore Station Oceanographic Program, a network of coastal stations that tracked the Pacific's vital signs. Every day until 1985, keepers collected seawater samples and recorded temperature and salinity measurements for the Department of Fisheries and Oceans. The data accumulated into one of the longest continuous oceanographic records on the British Columbia coast -- 49 years of daily observations that would prove invaluable for understanding long-term changes in Pacific currents, salmon migration patterns, and the slow warming of coastal waters. It was science at its most unglamorous and most essential: one measurement, every day, without fail."
+      },
+      {
+        "title": "The Passage Below",
+        "body": "From Cape Mudge, the view sweeps across Discovery Passage toward Campbell River on Vancouver Island. The water below is rarely calm. Tidal currents surge through the narrows, carrying nutrients that support some of the richest salmon fishing grounds in British Columbia. The We Wai Kai people of Quadra Island have fished these waters for generations, and the commercial fleet based at Campbell River still depends on the runs that flow past the lighthouse's rocky perch. Cruise ships, cargo vessels, fishing boats, and BC Ferries all pass within sight of the light, making this one of the busiest stretches of the Inside Passage between Vancouver and Alaska."
+      }
+    ],
+    "flightContext": "Cape Mudge Lighthouse sits at 49.999N, 125.196W on the southern tip of Quadra Island, visible where Discovery Passage opens into the Strait of Georgia. Best viewed at 1,500-2,000 feet AGL. The white lighthouse tower is identifiable against the dark tree line. Campbell River Airport (YBL/CYBL) lies approximately 5 nm to the southwest on Vancouver Island. Expect marine traffic in Discovery Passage below."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 49.9986,
+      "lng": -125.196
+    },
+    "geohash": "c0yur"
+  },
+  "categories": [
+    "lighthouses",
+    "maritime-history",
+    "oceanography",
+    "british-columbia"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-21T00:00:00Z",
+    "wordCount": 620,
+    "readTime": 3,
+    "firstPublished": "2026-03-21T00:00:00Z",
+    "storyNumber": 10790
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Cape Mudge Lighthouse - Lighthousefriends.com",
+      "url": "https://www.lighthousefriends.com/light.asp?ID=1188",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "original lighthouse built 1898",
+        "current lighthouse built 1916",
+        "BC Shore Station Oceanographic Program 1936-1985 (49 years)",
+        "named after Zachary Mudge"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Cape Mudge Lighthouse - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cape_Mudge_Lighthouse",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "daily temperature and salinity measurements for Department of Fisheries and Oceans",
+        "located on southern tip of Quadra Island",
+        "Discovery Passage navigation context"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "c/0/y/u/cape-mudge-lighthouse-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "yorke-island-canada-wp",
+      "title": "Yorke Island",
+      "tile": "c0yq",
+      "coordinates": {
+        "lat": 50.446389,
+        "lng": -125.977222
+      },
+      "distanceKm": 21
+    },
+    "n": {
+      "id": "discovery-islands-wp",
+      "title": "Discovery Islands",
+      "tile": "c0zn",
+      "coordinates": {
+        "lat": 50.2781,
+        "lng": -125.152
+      },
+      "distanceKm": 12.8
+    },
+    "ne": {
+      "id": "toba-inlet-wp",
+      "title": "Toba Inlet",
+      "tile": "c0zq",
+      "coordinates": {
+        "lat": 50.4167,
+        "lng": -124.5
+      },
+      "distanceKm": 26.9
+    },
+    "w": {
+      "id": "schoen-lake-provincial-park-wp",
+      "title": "Schoen Lake Provincial Park",
+      "tile": "c0yj",
+      "coordinates": {
+        "lat": 50.1833,
+        "lng": -126.233
+      },
+      "distanceKm": 32.9
+    },
+    "e": {
+      "id": "lund-british-columbia-wp",
+      "title": "Lund, British Columbia",
+      "tile": "c0zk",
+      "coordinates": {
+        "lat": 49.96666667,
+        "lng": -124.76666667
+      },
+      "distanceKm": 5.5
+    },
+    "sw": {
+      "id": "clayoquot-sound-biosphere-reserve-wp",
+      "title": "Clayoquot Sound Biosphere Reserve",
+      "tile": "c0y2",
+      "coordinates": {
+        "lat": 49.3,
+        "lng": -125.93333333333334
+      },
+      "distanceKm": 49.9
+    },
+    "s": {
+      "id": "forbidden-plateau-wp",
+      "title": "Forbidden Plateau",
+      "tile": "c0yf",
+      "coordinates": {
+        "lat": 49.6833,
+        "lng": -125.317
+      },
+      "distanceKm": 7.1
+    },
+    "se": {
+      "id": "denman-island-wp",
+      "title": "Denman Island",
+      "tile": "c0z3",
+      "coordinates": {
+        "lat": 49.545833,
+        "lng": -124.791944
+      },
+      "distanceKm": 22.3
+    }
+  }
+}

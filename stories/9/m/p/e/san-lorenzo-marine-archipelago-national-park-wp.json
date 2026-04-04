@@ -102,14 +102,14 @@
       "distanceKm": 277.4
     },
     "n": {
-      "id": "mission-san-jos-de-tumac-cori-wp",
-      "title": "Mission San Jose de Tumacacori",
-      "tile": "9t95",
+      "id": "mission-los-santos-ngeles-de-guevavi-wp",
+      "title": "Mission Los Santos Ángeles de Guevavi",
+      "tile": "9t94",
       "coordinates": {
-        "lat": 31.56843,
-        "lng": -111.050883
+        "lat": 31.40990833333333,
+        "lng": -110.90268888888889
       },
-      "distanceKm": 342.5
+      "distanceKm": 336.5
     },
     "ne": {
       "id": "battle-of-ambos-nogales-wp",
@@ -132,14 +132,14 @@
       "distanceKm": 450.1
     },
     "e": {
-      "id": "mission-los-santos-ngeles-de-guevavi-wp",
-      "title": "Mission Los Santos Ángeles de Guevavi",
-      "tile": "9t94",
+      "id": "loreto-baja-california-sur-wp",
+      "title": "Loreto, Baja California Sur",
+      "tile": "9s8g",
       "coordinates": {
-        "lat": 31.40990833333333,
-        "lng": -110.90268888888889
+        "lat": 26.0128,
+        "lng": -111.3467
       },
-      "distanceKm": 334.3
+      "distanceKm": 323.9
     },
     "sw": {
       "id": "cedros-island-wp",
@@ -152,28 +152,30 @@
       "distanceKm": 166
     },
     "s": {
-      "id": "guadalajara-city-wk",
-      "title": "Guadalajara: Where Tequila, Mariachi, and the Mexican Soul Originate",
-      "tile": "9ewt",
+      "id": "el-boleo-wp",
+      "title": "El Boleo",
+      "tile": "9sb5",
       "coordinates": {
-        "lat": 20.6597,
-        "lng": -103.3496
+        "lat": 27.31667,
+        "lng": -112.28333
       },
-      "distanceKm": 1307.9
+      "distanceKm": 148.3
     },
     "se": {
-      "id": "monterrey-city-wk",
-      "title": "Monterrey: Mexico's Industrial Capital Where Mountains Meet Money",
-      "tile": "9u8d",
+      "id": "gulf-of-california-wp",
+      "title": "Gulf of California",
+      "tile": "9sbr",
       "coordinates": {
-        "lat": 25.6866,
-        "lng": -100.3161
+        "lat": 28,
+        "lng": -112
       },
-      "distanceKm": 1244.8
+      "distanceKm": 72.2
     }
   },
   "keywords": [
     "san-lorenzo-marine-archipelago",
     "san-lorenzo-marine-archipelago-national-park"
-  ]
+  ],
+  "locationWikipediaPath": "9/m/p/e/san-lorenzo-marine-archipelago-national-park-wp",
+  "locationWikivoyagePath": "9/m/p/e/san-lorenzo-marine-archipelago-national-park-wk"
 }

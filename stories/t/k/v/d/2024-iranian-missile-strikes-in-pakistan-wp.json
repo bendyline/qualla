@@ -97,14 +97,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "hamun-e-jaz-murian-wp",
-      "title": "Hamun-e Jaz Murian",
-      "tile": "tkcu",
+      "id": "reko-diq-mine-wp",
+      "title": "Reko Diq Mine",
+      "tile": "tmhk",
       "coordinates": {
-        "lat": 27.488611111111112,
-        "lng": 58.86666666666667
+        "lat": 28.9725,
+        "lng": 62.43305556
       },
-      "distanceKm": 470.3
+      "distanceKm": 208.7
     },
     "n": {
       "id": "kharan-desert-wp",
@@ -176,5 +176,6 @@
       },
       "distanceKm": 161.5
     }
-  }
+  },
+  "locationWikipediaPath": "t/k/v/d/2024-iranian-missile-strikes-in-pakistan-wp"
 }

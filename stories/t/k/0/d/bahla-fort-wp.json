@@ -131,14 +131,14 @@
       "distanceKm": 12.2
     },
     "sw": {
-      "id": "aden-wk",
-      "title": "Aden",
-      "tile": "t420",
+      "id": "umm-al-samim-wp",
+      "title": "Umm al Samim",
+      "tile": "t5zg",
       "coordinates": {
-        "lat": 12.783333333333,
-        "lng": 45.016666666667
+        "lat": 21.633333333333,
+        "lng": 55.9
       },
-      "distanceKm": 1646.2
+      "distanceKm": 136.6
     },
     "s": {
       "id": "sur-oman-wp",
@@ -160,5 +160,7 @@
       },
       "distanceKm": 42.6
     }
-  }
+  },
+  "locationWikipediaPath": "t/k/0/d/bahla-fort-wp",
+  "locationWikivoyagePath": "t/k/0/d/bahla-wk"
 }

@@ -85,14 +85,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "liancourt-rocks-wp",
+      "title": "Liancourt Rocks",
+      "tile": "wytg",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 37.241666666667,
+        "lng": 131.86666666667
       },
-      "distanceKm": 1225
+      "distanceKm": 402.6
     },
     "n": {
       "id": "noto-peninsula-wp",
@@ -164,5 +164,7 @@
       },
       "distanceKm": 14.2
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/9/3/takaoka-castle-wp",
+  "locationWikivoyagePath": "x/n/9/3/takaoka-wk"
 }

@@ -77,6 +77,36 @@
   "locationWikipediaPath": "s/q/g/1/messina-wp",
   "directionalNeighbors": {
     "nw": {
+      "id": "paestum-wk",
+      "title": "Paestum",
+      "tile": "sr4t",
+      "coordinates": {
+        "lat": 40.42,
+        "lng": 15.005555555556
+      },
+      "distanceKm": 214.1
+    },
+    "n": {
+      "id": "balvano-train-disaster-wp",
+      "title": "Balvano Train Disaster",
+      "tile": "sr5p",
+      "coordinates": {
+        "lat": 40.669279,
+        "lng": 15.501881
+      },
+      "distanceKm": 242
+    },
+    "ne": {
+      "id": "battle-of-heraclea-wp",
+      "title": "Battle of Heraclea",
+      "tile": "sr5u",
+      "coordinates": {
+        "lat": 40.22,
+        "lng": 16.669722
+      },
+      "distanceKm": 196.4
+    },
+    "w": {
       "id": "capri-wk",
       "title": "Capri",
       "tile": "sr4n",
@@ -84,47 +114,17 @@
         "lat": 40.55,
         "lng": 14.2333
       },
-      "distanceKm": 240.6
-    },
-    "n": {
-      "id": "amalfi-coast-wk",
-      "title": "Amalfi Coast",
-      "tile": "sr4r",
-      "coordinates": {
-        "lat": 40.6333,
-        "lng": 14.6
-      },
-      "distanceKm": 253.9
-    },
-    "ne": {
-      "id": "albanian-riviera-wk",
-      "title": "Albanian Riviera",
-      "tile": "srn5",
-      "coordinates": {
-        "lat": 40.073,
-        "lng": 19.764
-      },
-      "distanceKm": 355.4
-    },
-    "w": {
-      "id": "pompeii-frozen-wk",
-      "title": "Pompeii: The Day a City Was Frozen in Time",
-      "tile": "sr4r",
-      "coordinates": {
-        "lat": 40.7488,
-        "lng": 14.4848
-      },
-      "distanceKm": 285
+      "distanceKm": 268.7
     },
     "e": {
-      "id": "meteora-wk",
-      "title": "Meteora: The Monasteries Built on Impossible Pillars",
-      "tile": "srp3",
+      "id": "corfu-wk",
+      "title": "Corfu",
+      "tile": "srn1",
       "coordinates": {
-        "lat": 39.7217,
-        "lng": 21.6306
+        "lat": 39.6,
+        "lng": 19.87
       },
-      "distanceKm": 500
+      "distanceKm": 354.2
     },
     "sw": {
       "id": "valletta-wk",
@@ -137,14 +137,14 @@
       "distanceKm": 236.3
     },
     "s": {
-      "id": "tunis-wk",
-      "title": "Tunis",
-      "tile": "snx1",
+      "id": "battle-of-skerki-bank-wp",
+      "title": "Battle of Skerki Bank",
+      "tile": "snxy",
       "coordinates": {
-        "lat": 36.8065,
-        "lng": 10.1815
+        "lat": 37.75333333,
+        "lng": 10.95333333
       },
-      "distanceKm": 499.6
+      "distanceKm": 412.5
     },
     "se": {
       "id": "olympia-greece-wk",

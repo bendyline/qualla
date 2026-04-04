@@ -99,54 +99,54 @@
   "locationWikipediaPath": "6/r/b/n/archdiocese-of-quito-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "birdwatching-in-costa-rica-wk",
-      "title": "Birdwatching in Costa Rica",
-      "tile": "d1s7",
+      "id": "pearl-islands-wk",
+      "title": "Pearl Islands",
+      "tile": "d1rx",
       "coordinates": {
-        "lat": 9.09193,
-        "lng": -83.7323
+        "lat": 8.3333333333333,
+        "lng": -79.116666666667
       },
-      "distanceKm": 1133.6
+      "distanceKm": 926.6
     },
     "n": {
-      "id": "medellin-wk",
-      "title": "Medellin",
-      "tile": "d347",
+      "id": "tutunendo-wp",
+      "title": "Tutunendo",
+      "tile": "d318",
       "coordinates": {
-        "lat": 6.2476,
-        "lng": -75.5658
+        "lat": 5.7430555555556,
+        "lng": -76.538333333333
       },
-      "distanceKm": 770.8
+      "distanceKm": 677.4
     },
     "ne": {
-      "id": "bogota-wk",
-      "title": "Bogota",
-      "tile": "d2g6",
+      "id": "gulf-of-tribuga-wp",
+      "title": "Gulf of Tribuga",
+      "tile": "d310",
       "coordinates": {
-        "lat": 4.711,
-        "lng": -74.0721
+        "lat": 5.75,
+        "lng": -77.33333
       },
-      "distanceKm": 685.1
+      "distanceKm": 644.3
     },
     "w": {
-      "id": "galapagos-wk",
-      "title": "The Galápagos: The Islands That Inspired Evolution",
-      "tile": "3zzt",
+      "id": "el-valle-wk",
+      "title": "El Valle de Anton",
+      "tile": "d1x0",
       "coordinates": {
-        "lat": -0.37,
-        "lng": -90.55
+        "lat": 8.6008,
+        "lng": -80.1303
       },
-      "distanceKm": 1273
+      "distanceKm": 992.3
     },
     "e": {
-      "id": "cartagena-wk",
-      "title": "Cartagena",
-      "tile": "d3f7",
+      "id": "utria-national-natural-park-wp",
+      "title": "Utria National Natural Park",
+      "tile": "d30f",
       "coordinates": {
-        "lat": 10.391,
-        "lng": -75.4794
+        "lat": 5.98333,
+        "lng": -77.35
       },
-      "distanceKm": 1218.3
+      "distanceKm": 698.9
     },
     "sw": {
       "id": "galapagos-islands-wk",
@@ -159,24 +159,24 @@
       "distanceKm": 1273
     },
     "s": {
-      "id": "machu-picchu-wk",
-      "title": "Machu Picchu",
-      "tile": "6msm",
-      "coordinates": {
-        "lat": -13.163056,
-        "lng": -72.545556
-      },
-      "distanceKm": 1554.1
-    },
-    "se": {
-      "id": "lima-wk",
-      "title": "Lima",
+      "id": "el-paraiso-peru-wp",
+      "title": "El Paraiso, Peru",
       "tile": "6mc5",
       "coordinates": {
-        "lat": -12.0464,
-        "lng": -77.0428
+        "lat": -11.95393,
+        "lng": -77.11838
       },
-      "distanceKm": 1285.6
+      "distanceKm": 1280.7
+    },
+    "se": {
+      "id": "ancon-archaeological-site-wp",
+      "title": "Ancon (archaeological site)",
+      "tile": "6mcj",
+      "coordinates": {
+        "lat": -11.7684924,
+        "lng": -77.1663884
+      },
+      "distanceKm": 1253.7
     }
   },
   "keywords": [

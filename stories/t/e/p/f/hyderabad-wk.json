@@ -77,54 +77,54 @@
   "locationWikivoyagePath": "t/e/p/f/hyderabad-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "bhopal-disaster-wk",
-      "title": "The Bhopal Disaster: The Night a Pesticide Plant Killed a City",
-      "tile": "tsph",
+      "id": "bidar-fort-wp",
+      "title": "Bidar Fort",
+      "tile": "tepj",
       "coordinates": {
-        "lat": 23.2814,
-        "lng": 77.4106
+        "lat": 17.9219,
+        "lng": 77.5236
       },
-      "distanceKm": 637.6
+      "distanceKm": 67.3
     },
     "n": {
-      "id": "udaipur-wk",
-      "title": "Udaipur",
-      "tile": "tsk7",
+      "id": "sri-lakshmi-narasimha-swamy-temple-yadagirigutta-wp",
+      "title": "Sri Lakshmi Narasimha Swamy Temple, Yadagirigutta",
+      "tile": "tg0h",
       "coordinates": {
-        "lat": 24.5854,
-        "lng": 73.7125
+        "lat": 17.5848,
+        "lng": 78.9442
       },
-      "distanceKm": 927.9
+      "distanceKm": 39.2
     },
     "ne": {
-      "id": "kolkata-wk",
-      "title": "Kolkata",
-      "tile": "tunb",
+      "id": "siege-of-warangal-1310-wp",
+      "title": "Siege of Warangal (1310)",
+      "tile": "tg0w",
       "coordinates": {
-        "lat": 22.5726,
-        "lng": 88.3639
+        "lat": 17.95,
+        "lng": 79.5
       },
-      "distanceKm": 1115
+      "distanceKm": 59.1
     },
     "w": {
-      "id": "goa-wk",
-      "title": "Goa",
-      "tile": "tdu2",
+      "id": "malkheda-wp",
+      "title": "Malkheda",
+      "tile": "tenc",
       "coordinates": {
-        "lat": 15.4909,
-        "lng": 73.8278
+        "lat": 17.195,
+        "lng": 77.160833333333
       },
-      "distanceKm": 493.6
+      "distanceKm": 95
     },
     "e": {
-      "id": "kandy-wk",
-      "title": "Kandy",
-      "tile": "tc33",
+      "id": "siege-of-warangal-1323-wp",
+      "title": "Siege of Warangal (1323)",
+      "tile": "tg0w",
       "coordinates": {
-        "lat": 7.2906,
-        "lng": 80.6337
+        "lat": 17.95,
+        "lng": 79.5
       },
-      "distanceKm": 1126.9
+      "distanceKm": 82.3
     },
     "sw": {
       "id": "bangalore-wk",
@@ -137,16 +137,6 @@
       "distanceKm": 456.2
     },
     "s": {
-      "id": "pondicherry-wk",
-      "title": "Pondicherry",
-      "tile": "tf0g",
-      "coordinates": {
-        "lat": 11.9139,
-        "lng": 79.8145
-      },
-      "distanceKm": 586.6
-    },
-    "se": {
       "id": "chennai-wk",
       "title": "Chennai",
       "tile": "tf34",
@@ -154,7 +144,17 @@
         "lat": 13.0827,
         "lng": 80.2707
       },
-      "distanceKm": 458.7
+      "distanceKm": 477.3
+    },
+    "se": {
+      "id": "godavari-arch-bridge-wp",
+      "title": "Godavari Arch Bridge",
+      "tile": "tg40",
+      "coordinates": {
+        "lat": 17.01222222,
+        "lng": 81.75277778
+      },
+      "distanceKm": 281.9
     }
   },
   "keywords": [

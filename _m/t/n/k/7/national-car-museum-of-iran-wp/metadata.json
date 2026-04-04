@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "national-car-museum-of-iran-wp",
     "sourceGeohash4": "tnk7",
-    "mediumPath": "_m/t/n/k/7/national-car-museum-of-iran-wp/hero-medium.jpg",
-    "smallPath": "_m/t/n/k/7/national-car-museum-of-iran-wp/hero-small.jpg"
+    "mediumPath": "_m/t/n/k/7/national-car-museum-of-iran-wp/hero-medium.webp",
+    "smallPath": "_m/t/n/k/7/national-car-museum-of-iran-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Musée national iranien de l'automobile, extérieur, Téhéran.jpg",
@@ -77,8 +77,8 @@
       "sourceType": "core",
       "sourceArticleId": "national-car-museum-of-iran-wp",
       "sourceGeohash4": "tnk7",
-      "mediumPath": "_m/t/n/k/7/national-car-museum-of-iran-wp/musee-national-iranien-medium.jpg",
-      "smallPath": "_m/t/n/k/7/national-car-museum-of-iran-wp/musee-national-iranien-small.jpg"
+      "mediumPath": "_m/t/n/k/7/national-car-museum-of-iran-wp/musee-national-iranien-medium.webp",
+      "smallPath": "_m/t/n/k/7/national-car-museum-of-iran-wp/musee-national-iranien-small.webp"
     },
     {
       "filename": "Iran Car Museum.JPG",
@@ -107,7 +107,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "national-car-museum-of-iran-wp",
       "sourceGeohash4": "tnk7",
-      "smallPath": "_m/t/n/k/7/national-car-museum-of-iran-wp/iran-car-museum-small.jpg"
+      "smallPath": "_m/t/n/k/7/national-car-museum-of-iran-wp/iran-car-museum-small.webp"
     },
     {
       "filename": "National car museum of Iran.jpg",
@@ -134,8 +134,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "imam-khomeini-international-airport",
       "sourceGeohash4": "tnk7",
-      "mediumPath": "_m/t/n/k/7/national-car-museum-of-iran-wp/national-car-museum-of-iran-medium.jpg",
-      "smallPath": "_m/t/n/k/7/national-car-museum-of-iran-wp/national-car-museum-of-iran-small.jpg"
+      "mediumPath": "_m/t/n/k/7/national-car-museum-of-iran-wp/national-car-museum-of-iran-medium.webp",
+      "smallPath": "_m/t/n/k/7/national-car-museum-of-iran-wp/national-car-museum-of-iran-small.webp"
     }
   ],
   "galleryPaths": [
@@ -143,6 +143,24 @@
     "_m/t/n/k/7/national-car-museum-of-iran-wp/iran-car-museum.jpg",
     "_m/tpc/im/am/-k/ho/imam-khomeini-international-airport/national-car-museum-of-iran.jpg"
   ],
-  "fetchedAt": "2026-03-01T14:31:51.270Z",
-  "updatedAt": "2026-03-01T14:32:04.799Z"
+  "updatedAt": "2026-03-01T14:32:04.799Z",
+  "narration": {
+    "files": [
+      "tnk7-national-car-museum-of-iran-flight-context.mp3",
+      "tnk7-national-car-museum-of-iran-intro.mp3",
+      "tnk7-national-car-museum-of-iran-the-shahs-garage.mp3",
+      "tnk7-national-car-museum-of-iran-what-survived-the-revolution.mp3",
+      "tnk7-national-car-museum-of-iran-rarity-upon-rarity.mp3",
+      "tnk7-national-car-museum-of-iran-power-loss-and-chrome.mp3"
+    ],
+    "durations": {
+      "tnk7-national-car-museum-of-iran-flight-context.mp3": 43.6698333,
+      "tnk7-national-car-museum-of-iran-intro.mp3": 34.0645,
+      "tnk7-national-car-museum-of-iran-the-shahs-garage.mp3": 50.2720416,
+      "tnk7-national-car-museum-of-iran-what-survived-the-revolution.mp3": 75.1789583,
+      "tnk7-national-car-museum-of-iran-rarity-upon-rarity.mp3": 60.4265416,
+      "tnk7-national-car-museum-of-iran-power-loss-and-chrome.mp3": 59.75425
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

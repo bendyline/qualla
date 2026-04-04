@@ -1,0 +1,157 @@
+{
+  "id": "battle-of-kakamas-wp",
+  "source": "wikipedia",
+  "sourceId": "26665691",
+  "title": "Battle of Kakamas",
+  "slug": "battle-of-kakamas",
+  "summary": "A little-remembered 1915 skirmish where South African soldiers held two Orange River fords against a German pre-emptive strike from South West Africa.",
+  "content": {
+    "intro": "On February 4, 1915, while Europe was digging into the trenches that would define the Western Front for four years, a smaller and almost forgotten fight unfolded at the edge of the Kalahari. At Kakamas, a farming settlement on the Orange River in South Africa's Northern Cape, 205 German mounted riflemen with four artillery guns and four machine guns attacked South African forces guarding two river fords. The Germans needed those crossings. They did not get them.",
+    "sections": [
+      {
+        "title": "The War Comes South",
+        "body": "The broader context was the South West Africa Campaign, one of the First World War's more obscure theaters. Germany controlled the territory that is now Namibia, and South Africa -- aligned with Britain -- was assembling a force to invade it. Colonel J. van Deventer had gathered 6,000 men at Upington and Kakamas, positioned to form one column of the planned invasion. The German Schutztruppe, colonial military forces stationed in German South West Africa, decided not to wait. Major Ritter led his force south across the border in a pre-emptive strike, aiming to seize the Orange River fords at Kakamas and push deeper into South Africa before van Deventer's column could move north."
+      },
+      {
+        "title": "The Fight at the Fords",
+        "body": "Ritter's force attacked under cover of their artillery, and the initial assault succeeded in capturing a small South African outpost at the ferry landing on the riverbank. But South African soldiers had positioned themselves between the German flanks, cutting off any further advance. Ritter recognized the danger quickly. A South African counter-attack was forming, and if his men were caught on the wrong side of the river with their retreat cut off, the raid would become a disaster. He ordered withdrawal. The South Africans were ferried across the river and opened fire on the retreating Germans from the northern bank. German artillery answered, but when the rearguard was captured, the guns were pulled back too."
+      },
+      {
+        "title": "Retreat Through the Night",
+        "body": "The Germans did not break contact until 11 p.m., fighting a running withdrawal through the darkness of the Northern Cape scrubland. They reached Biesiespoort on February 5 and retreated across the border into German South West Africa. The cost was modest by the standards of the war raging in Europe: seven German soldiers killed, sixteen wounded, and sixteen taken prisoner. Two subsequent German attacks on the border police post at Rietfontein were repulsed with heavier losses. The raids achieved nothing strategic. The fords remained in South African hands, and the invasion of German South West Africa would proceed on schedule."
+      },
+      {
+        "title": "Van Deventer Moves North",
+        "body": "Following the battle, van Deventer summoned the rest of his column from Upington, 80 kilometers away, crossed the Orange River, and began the slow advance into South West Africa that would eventually end German colonial rule in the territory. Van Deventer himself would go on to command forces in East Africa later in the war, becoming one of the more successful South African generals of the conflict. The Battle of Kakamas was a footnote in his career and a footnote in the larger war, but for the farmers and soldiers who fought at the river crossings that February morning, it was as real as any battle on the Somme or at Verdun."
+      },
+      {
+        "title": "A Memorial in the Cemetery",
+        "body": "Today, just outside Kakamas in the town's cemetery, a memorial stands dedicated to the German soldiers who died in the battle. It is a quiet, modest marker in a quiet, modest town -- the kind of memorial that most travelers drive past without stopping. Kakamas itself has grown into an agricultural center, its vineyards and orchards irrigated by the same Orange River that Ritter's men tried and failed to cross. The fords where the fighting happened are unremarkable stretches of shallow water, offering no hint of the gunfire that once echoed across them. The war that brought German soldiers to this remote corner of South Africa lasted four more years. The battle that sent them home lasted a single day."
+      }
+    ],
+    "flightContext": "Located at 28.80S, 20.65E on the Orange River in the Northern Cape, South Africa. Kakamas is a small agricultural town visible from altitude by its irrigated green fields contrasting with the surrounding semi-arid landscape. The Orange River is the prominent water feature running east to west. Nearest major airport is Upington (FAUP), approximately 80 km to the east. The town cemetery with the German memorial is on the outskirts."
+  },
+  "location": {
+    "coordinates": {
+      "lat": -28.8,
+      "lng": 20.65
+    },
+    "geohash": "k6ysj"
+  },
+  "categories": [
+    "military history",
+    "World War I",
+    "battles"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-09T00:00:00Z",
+    "wordCount": 700,
+    "readTime": 4,
+    "firstPublished": "2026-03-09T00:00:00Z",
+    "storyNumber": 7051
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Battle of Kakamas - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kakamas",
+      "accessedAt": "2026-03-12",
+      "claimsVerified": [
+        "February 4 1915 date confirmed",
+        "205 German mounted riflemen with 4 artillery guns and 4 machine guns confirmed",
+        "7 German killed, 16 wounded, 16 taken prisoner confirmed",
+        "Colonel J. van Deventer command confirmed",
+        "6,000 South African forces at Upington and Kakamas confirmed",
+        "Germans reached Biesiespoort February 5 confirmed",
+        "Withdrew across border confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "warmbad-namibia-wp",
+      "title": "Warmbad, Namibia",
+      "tile": "k6vq",
+      "coordinates": {
+        "lat": -28.449722222222,
+        "lng": 18.733055555556
+      },
+      "distanceKm": 127.7
+    },
+    "n": {
+      "id": "kgalagadi-transfrontier-park-wk",
+      "title": "Kgalagadi Transfrontier Park",
+      "tile": "k7qm",
+      "coordinates": {
+        "lat": -25.766666666667,
+        "lng": 20.383333333333
+      },
+      "distanceKm": 301.9
+    },
+    "ne": {
+      "id": "upington-wk",
+      "title": "Upington",
+      "tile": "k6zn",
+      "coordinates": {
+        "lat": -28.457222222222,
+        "lng": 21.2425
+      },
+      "distanceKm": 14.7
+    },
+    "w": {
+      "id": "battle-of-sandfontein-wp",
+      "title": "Battle of Sandfontein",
+      "tile": "k6vh",
+      "coordinates": {
+        "lat": -28.7,
+        "lng": 18.55
+      },
+      "distanceKm": 145.3
+    },
+    "e": {
+      "id": "koegas-mine-wp",
+      "title": "Koegas Mine",
+      "tile": "k6zc",
+      "coordinates": {
+        "lat": -29.299722222222222,
+        "lng": 22.354166666666668
+      },
+      "distanceKm": 137.4
+    },
+    "sw": {
+      "id": "goegap-nature-reserve-wp",
+      "title": "Goegap Nature Reserve",
+      "tile": "k6sz",
+      "coordinates": {
+        "lat": -29.68333333,
+        "lng": 18
+      },
+      "distanceKm": 211.6
+    },
+    "s": {
+      "id": "verneukpan-wp",
+      "title": "Verneukpan",
+      "tile": "k6xj",
+      "coordinates": {
+        "lat": -30.008363888889,
+        "lng": 21.144691666667
+      },
+      "distanceKm": 124.9
+    },
+    "se": {
+      "id": "boegoeberg-dam-wp",
+      "title": "Boegoeberg Dam",
+      "tile": "k6zf",
+      "coordinates": {
+        "lat": -29.04166667,
+        "lng": 22.20361111
+      },
+      "distanceKm": 108
+    }
+  },
+  "locationWikipediaPath": "k/6/y/s/battle-of-kakamas-wp"
+}

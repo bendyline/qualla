@@ -11,7 +11,6 @@
       "dnkk-knoxville-the-gateway-to-the-smokies-where-tenness-visiting-knoxville.mp3"
     ],
     "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-24T12:02:39.590Z",
     "durations": {
       "dnkk-knoxville-the-gateway-to-the-smokies-where-tenness-flight-context.mp3": 44.8469166,
       "dnkk-knoxville-the-gateway-to-the-smokies-where-tenness-intro.mp3": 51.3622916,
@@ -22,7 +21,6 @@
       "dnkk-knoxville-the-gateway-to-the-smokies-where-tenness-visiting-knoxville.mp3": 41.63525
     }
   },
-  "fetchedAt": "2026-02-22T11:51:50.982Z",
   "hero": {
     "filename": "Church Street United Methodist Church Knoxville 2025.jpg",
     "title": "File:Church Street United Methodist Church Knoxville 2025.jpg",
@@ -51,8 +49,8 @@
     "sourceType": "core",
     "sourceArticleId": "knoxville-city-wk",
     "sourceGeohash4": "dnkk",
-    "smallPath": "_m/d/n/k/k/knoxville-city-wk/hero-small.jpg",
-    "mediumPath": "_m/d/n/k/k/knoxville-city-wk/hero-medium.jpg"
+    "smallPath": "_m/d/n/k/k/knoxville-city-wk/hero-small.webp",
+    "mediumPath": "_m/d/n/k/k/knoxville-city-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Church Street United Methodist Church Knoxville 2025.jpg",
@@ -114,7 +112,7 @@
       "sourceType": "core",
       "sourceArticleId": "knoxville-city-wk",
       "sourceGeohash4": "dnkk",
-      "smallPath": "_m/d/n/k/k/knoxville-city-wk/picture-exterior-churc-small.jpg"
+      "smallPath": "_m/d/n/k/k/knoxville-city-wk/picture-exterior-churc-small.webp"
     },
     {
       "filename": "Church-street-methodist-knox-tn1.jpg",
@@ -138,7 +136,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "knoxville-city-wk",
-      "sourceGeohash4": "dnkk"
+      "sourceGeohash4": "dnkk",
+      "mediumPath": "_m/d/n/k/k/knoxville-city-wk/church-street-methodist-knox-t-medium.webp",
+      "smallPath": "_m/d/n/k/k/knoxville-city-wk/church-street-methodist-knox-t-small.webp"
     },
     {
       "filename": "Church Street United Methodist Church - Knoxville, Tennessee - April 19, 2014.jpg",
@@ -162,7 +162,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "knoxville-city-wk",
-      "sourceGeohash4": "dnkk"
+      "sourceGeohash4": "dnkk",
+      "mediumPath": "_m/d/n/k/k/knoxville-city-wk/church-street-united-methodist-medium.webp",
+      "smallPath": "_m/d/n/k/k/knoxville-city-wk/church-street-united-methodist-small.webp"
     }
   ],
   "galleryPaths": [

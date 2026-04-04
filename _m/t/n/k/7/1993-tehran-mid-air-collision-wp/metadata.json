@@ -28,7 +28,7 @@
     "sourceType": "core",
     "sourceArticleId": "1993-tehran-mid-air-collision-wp",
     "sourceGeohash4": "tnk7",
-    "smallPath": "_m/t/n/k/7/1993-tehran-mid-air-collision-wp/hero-small.jpg"
+    "smallPath": "_m/t/n/k/7/1993-tehran-mid-air-collision-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "A IRIAF Su-24 ready to takeoff from THR.jpg",
@@ -61,5 +61,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T14:28:02.320Z"
+  "narration": {
+    "files": [
+      "tnk7-collision-over-tehran-when-a-ceremony-rehearsal-ki-flight-context.mp3",
+      "tnk7-collision-over-tehran-when-a-ceremony-rehearsal-ki-intro.mp3",
+      "tnk7-collision-over-tehran-when-a-ceremony-rehearsal-ki-parallel-paths-from-the-same-runway.mp3",
+      "tnk7-collision-over-tehran-when-a-ceremony-rehearsal-ki-a-thousand-feet-apart.mp3",
+      "tnk7-collision-over-tehran-when-a-ceremony-rehearsal-ki-a-chain-of-failures.mp3",
+      "tnk7-collision-over-tehran-when-a-ceremony-rehearsal-ki-the-price-of-celebration.mp3"
+    ],
+    "durations": {
+      "tnk7-collision-over-tehran-when-a-ceremony-rehearsal-ki-flight-context.mp3": 61.2282916,
+      "tnk7-collision-over-tehran-when-a-ceremony-rehearsal-ki-intro.mp3": 48.8995416,
+      "tnk7-collision-over-tehran-when-a-ceremony-rehearsal-ki-parallel-paths-from-the-same-runway.mp3": 54.538625,
+      "tnk7-collision-over-tehran-when-a-ceremony-rehearsal-ki-a-thousand-feet-apart.mp3": 46.387625,
+      "tnk7-collision-over-tehran-when-a-ceremony-rehearsal-ki-a-chain-of-failures.mp3": 48.2399166,
+      "tnk7-collision-over-tehran-when-a-ceremony-rehearsal-ki-the-price-of-celebration.mp3": 47.8707083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

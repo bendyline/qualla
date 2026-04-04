@@ -132,54 +132,54 @@
   "locationWikipediaPath": "s/r/n/5/borsh-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "dubrovnik-wk",
-      "title": "Dubrovnik",
-      "tile": "srsf",
+      "id": "sveti-stefan-wk",
+      "title": "Sveti Stefan",
+      "tile": "srt2",
       "coordinates": {
-        "lat": 42.6507,
-        "lng": 18.0944
+        "lat": 42.25611,
+        "lng": 18.89139
       },
-      "distanceKm": 285.9
+      "distanceKm": 225.7
     },
     "n": {
-      "id": "kor-ula-wk",
-      "title": "Korcula: Marco Polo's Island in the Dalmatian Adriatic",
-      "tile": "srsh",
+      "id": "osum-canyon-wp",
+      "title": "Osum Canyon",
+      "tile": "srnq",
       "coordinates": {
-        "lat": 42.95,
-        "lng": 17.1167
+        "lat": 40.47,
+        "lng": 20.255
       },
-      "distanceKm": 376.8
+      "distanceKm": 41
     },
     "ne": {
-      "id": "thessaloniki-wk",
-      "title": "Thessaloniki",
-      "tile": "sx0r",
+      "id": "church-of-saint-sophia-ohrid-wp",
+      "title": "Church of Saint Sophia, Ohrid",
+      "tile": "srqc",
       "coordinates": {
-        "lat": 40.6401,
-        "lng": 22.9444
+        "lat": 41.11194,
+        "lng": 20.79389
       },
-      "distanceKm": 220.3
+      "distanceKm": 101.3
     },
     "w": {
-      "id": "amalfi-coast-wk",
-      "title": "Amalfi Coast",
-      "tile": "sr4r",
+      "id": "battle-of-heraclea-wp",
+      "title": "Battle of Heraclea",
+      "tile": "sr5u",
       "coordinates": {
-        "lat": 40.6333,
-        "lng": 14.6
+        "lat": 40.22,
+        "lng": 16.669722
       },
-      "distanceKm": 407.8
+      "distanceKm": 228.2
     },
     "e": {
-      "id": "athens-wk",
-      "title": "Athens",
-      "tile": "sw8z",
+      "id": "vjosa-wild-river-national-park-wp",
+      "title": "Vjosa Wild River National Park",
+      "tile": "srns",
       "coordinates": {
-        "lat": 37.9838,
-        "lng": 23.7275
+        "lat": 40.12416666666667,
+        "lng": 20.4325
       },
-      "distanceKm": 364.6
+      "distanceKm": 15.3
     },
     "sw": {
       "id": "black-death-arrival-wk",
@@ -192,24 +192,24 @@
       "distanceKm": 368.7
     },
     "s": {
-      "id": "olympia-greece-wk",
-      "title": "Olympia",
-      "tile": "sqxq",
+      "id": "old-fortress-corfu-wp",
+      "title": "Old Fortress, Corfu",
+      "tile": "srn1",
       "coordinates": {
-        "lat": 37.638,
-        "lng": 21.63
+        "lat": 39.623333,
+        "lng": 19.929444
       },
-      "distanceKm": 278.3
+      "distanceKm": 12.8
     },
     "se": {
-      "id": "meteora-wk",
-      "title": "Meteora: The Monasteries Built on Impossible Pillars",
-      "tile": "srp3",
+      "id": "dodona-wp",
+      "title": "Dodona",
+      "tile": "srnb",
       "coordinates": {
-        "lat": 39.7217,
-        "lng": 21.6306
+        "lat": 39.546389,
+        "lng": 20.787778
       },
-      "distanceKm": 106
+      "distanceKm": 39.5
     }
   },
   "keywords": [

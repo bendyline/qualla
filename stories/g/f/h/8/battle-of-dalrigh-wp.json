@@ -1,0 +1,147 @@
+{
+  "id": "battle-of-dalrigh-wp",
+  "source": "wikipedia",
+  "sourceId": "5739314",
+  "title": "Battle of Dalrigh",
+  "slug": "battle-of-dalrigh",
+  "summary": "A 1306 ambush near Tyndrum where Robert the Bruce's battered army was intercepted by Clan MacDougall, nearly ending the Scottish independence movement before it truly began.",
+  "content": {
+    "intro": "The Gaelic name for the battlefield is Dail Righ -- the King's Field. Whether it was called that before the battle or christened afterward by chroniclers is unknown, but either way the irony is sharp. When Robert the Bruce reached this patch of ground near Tyndrum in the summer of 1306, he was a king in name only -- freshly crowned, freshly defeated, and stumbling westward with the remnants of an army that was about to cease to exist as an organized fighting force.",
+    "sections": [
+      {
+        "title": "A King on the Run",
+        "body": "On 10 February 1306, Bruce had killed John Comyn in Greyfriars Church and seized the Scottish crown at Scone. On 19 June, his army was caught unprepared in a night camp at the Battle of Methven, west of Perth, by the English general Aymer de Valence. What survived of that disaster retreated westward into Argyll, where the MacDougalls waited. The Clan MacDougall, powerful descendants of Somerled and related by marriage to the murdered Comyn, had every reason to hate Bruce. Their chief's son, John of Lorne -- known as John Bacach, 'the Lame' -- commanded an estimated thousand men blocking the route through Strathfillan at Tyndrum. Bruce had between 300 and 500, including women, the aged, and a guard of Highland men. With Valence's pursuing army likely not far behind to the east, retreat was not an option."
+      },
+      {
+        "title": "Flight to the Islands",
+        "body": "The MacDougalls were fought off and Bruce's party escaped, but the army disintegrated shortly afterward. Bruce sent Queen Elizabeth, his daughter Marjorie, his sister Mary, and Isabella MacDuff to Kildrummy Castle, then fled south with James Douglas into the territory of his friend the Earl of Lennox. From there, aided by Angus Og MacDonald -- chief of the MacDonalds and bitter enemy of the MacDougalls -- Bruce crossed to the Kintyre Peninsula by way of Bute, sheltered briefly at the exposed Dunaverty Castle, and was taken to Rathlin Island off the coast of Ulster, a MacDonald territory. He spent the winter of 1306-1307 there, derided as 'King Hob' in English propaganda. His recovery from that exile counts as one of the most remarkable episodes in the history of warfare. Two years after Dalrigh, the MacDougalls were destroyed at the Battle of the Pass of Brander. After Bannockburn in 1314, Bruce divided their lands among clans loyal to him, including the MacDonalds who had sheltered a fugitive king."
+      }
+    ],
+    "flightContext": "Battle of Dalrigh site at 56.4236N, 4.6878W is near the hamlet of Dalrigh, close to Tyndrum in western Perthshire. The A82 and the West Highland Railway both pass through this valley. Tyndrum village is visible as a small settlement at the junction of Glen Lochy and Strath Fillan. Best viewed at 2,000-4,000 ft. Nearest airport: Oban (EGEO) approximately 20 nm west-southwest."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 56.42361111,
+      "lng": -4.68777778
+    },
+    "geohash": "gfh8v"
+  },
+  "categories": [
+    "1306 in Scotland",
+    "Battles of the Wars of Scottish Independence",
+    "History of the Scottish Highlands",
+    "Clan MacDougall",
+    "14th-century Scottish clan battles"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 460,
+    "readTime": 3,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 9017
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - Battle of Dalrigh",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Dalrigh",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "John Comyn killed in Greyfriars Church 10 February 1306",
+        "Battle of Methven 19 June 1306 by Aymer de Valence",
+        "John of Lorne (John Bacach, 'the Lame') commanded MacDougall force at Tyndrum",
+        "MacDougall force estimated at 1,000 men",
+        "Bruce fled to Rathlin Island off Ulster coast",
+        "English propaganda derided Bruce as 'King Hob'",
+        "MacDougalls defeated at Battle of Pass of Brander two years later"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "g/f/h/8/battle-of-dalrigh-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "glenfinnan-monument-wp",
+      "title": "Glenfinnan Monument",
+      "tile": "gfh5",
+      "coordinates": {
+        "lat": 56.869166666666665,
+        "lng": -5.436944444444444
+      },
+      "distanceKm": 31.4
+    },
+    "n": {
+      "id": "glen-coe-wp",
+      "title": "Glen Coe",
+      "tile": "gfh6",
+      "coordinates": {
+        "lat": 56.66777777777778,
+        "lng": -4.986666666666666
+      },
+      "distanceKm": 16.5
+    },
+    "ne": {
+      "id": "croft-moraig-stone-circle-wp",
+      "title": "Croft Moraig Stone Circle",
+      "tile": "gfj4",
+      "coordinates": {
+        "lat": 56.60176,
+        "lng": -3.960222
+      },
+      "distanceKm": 15.8
+    },
+    "w": {
+      "id": "ardchattan-priory-wp",
+      "title": "Ardchattan Priory",
+      "tile": "gfh1",
+      "coordinates": {
+        "lat": 56.4629,
+        "lng": -5.29414
+      },
+      "distanceKm": 14
+    },
+    "e": {
+      "id": "drummond-castle-wp",
+      "title": "Drummond Castle",
+      "tile": "gfj0",
+      "coordinates": {
+        "lat": 56.3409,
+        "lng": -3.87055
+      },
+      "distanceKm": 21.5
+    },
+    "sw": {
+      "id": "ardbeg-distillery-wp",
+      "title": "Ardbeg Distillery",
+      "tile": "gcgs",
+      "coordinates": {
+        "lat": 55.6405,
+        "lng": -6.10833
+      },
+      "distanceKm": 71
+    },
+    "s": {
+      "id": "dumbarton-castle-wp",
+      "title": "Dumbarton Castle",
+      "tile": "gcuy",
+      "coordinates": {
+        "lat": 55.9365,
+        "lng": -4.5614
+      },
+      "distanceKm": 19.1
+    },
+    "se": {
+      "id": "falkirk-wheel-wp",
+      "title": "Falkirk Wheel",
+      "tile": "gcvq",
+      "coordinates": {
+        "lat": 56.00028,
+        "lng": -3.84167
+      },
+      "distanceKm": 24.8
+    }
+  }
+}

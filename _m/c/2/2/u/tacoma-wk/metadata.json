@@ -25,8 +25,8 @@
     "sourceType": "core",
     "sourceArticleId": "tacoma-wk",
     "sourceGeohash4": "c22u",
-    "smallPath": "_m/c/2/2/u/tacoma-wk/hero-small.jpg",
-    "mediumPath": "_m/c/2/2/u/tacoma-wk/hero-medium.jpg"
+    "smallPath": "_m/c/2/2/u/tacoma-wk/hero-small.webp",
+    "mediumPath": "_m/c/2/2/u/tacoma-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Mount Rainier over Tacoma.jpg",
@@ -569,28 +569,26 @@
     "_m/c/2/2/u/tacoma-narrows-wk/related-sibling-ferry-mv-wenatchee-and-mount-p.jpg",
     "_m/c/2/2/u/tacoma-narrows-wk/related-sibling-tacoma-union-station-from-sout.jpg"
   ],
-  "fetchedAt": "2026-02-22T01:54:40.205Z",
   "updatedAt": "2026-01-29T12:23:42.322Z",
   "narration": {
     "files": [
       "c22u-tacoma-flight-context.mp3",
-      "c22u-tacoma-glass-city.mp3",
       "c22u-tacoma-intro.mp3",
-      "c22u-tacoma-point-defiance.mp3",
-      "c22u-tacoma-stadium-to-hilltop.mp3",
       "c22u-tacoma-the-mountain-looms.mp3",
-      "c22u-tacoma-the-port-that-built-the-west.mp3"
+      "c22u-tacoma-glass-city.mp3",
+      "c22u-tacoma-the-port-that-built-the-west.mp3",
+      "c22u-tacoma-stadium-to-hilltop.mp3",
+      "c22u-tacoma-point-defiance.mp3"
     ],
     "durations": {
-      "c22u-tacoma-flight-context.mp3": 109.728,
-      "c22u-tacoma-glass-city.mp3": 66.84,
-      "c22u-tacoma-intro.mp3": 52.44,
-      "c22u-tacoma-point-defiance.mp3": 65.016,
-      "c22u-tacoma-stadium-to-hilltop.mp3": 66.336,
-      "c22u-tacoma-the-mountain-looms.mp3": 60.744,
-      "c22u-tacoma-the-port-that-built-the-west.mp3": 67.584
+      "c22u-tacoma-flight-context.mp3": 59.1986666,
+      "c22u-tacoma-intro.mp3": 54.9620416,
+      "c22u-tacoma-the-mountain-looms.mp3": 61.38025,
+      "c22u-tacoma-glass-city.mp3": 66.9003333,
+      "c22u-tacoma-the-port-that-built-the-west.mp3": 69.1182916,
+      "c22u-tacoma-stadium-to-hilltop.mp3": 65.5682916,
+      "c22u-tacoma-point-defiance.mp3": 65.5881666
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:57.090Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

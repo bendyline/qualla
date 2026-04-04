@@ -80,14 +80,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "terney-wk",
+      "title": "Terney",
+      "tile": "z010",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 45.033333,
+        "lng": 136.6
       },
-      "distanceKm": 1498.5
+      "distanceKm": 728.5
     },
     "n": {
       "id": "tono-wk",
@@ -159,5 +159,6 @@
       },
       "distanceKm": 71.5
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/u/m/historic-monuments-and-sites-of-hiraizumi-wp"
 }

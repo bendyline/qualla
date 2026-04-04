@@ -3,11 +3,11 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/q/8/y/san-francisco-city-wk/9q8y-san-francisco-the-city-that-burned-down-and-rebuil-intro.mp3",
         "_m/9/q/8/y/san-francisco-city-wk/9q8y-san-francisco-the-city-that-burned-down-and-rebuil-flight-context.mp3",
-        "_m/9/q/8/y/san-francisco-city-wk/9q8y-san-francisco-the-city-that-burned-down-and-rebuil-the-bridge.mp3",
+        "_m/9/q/8/y/san-francisco-city-wk/9q8y-san-francisco-the-city-that-burned-down-and-rebuil-intro.mp3",
         "_m/9/q/8/y/san-francisco-city-wk/9q8y-san-francisco-the-city-that-burned-down-and-rebuil-the-earthquake.mp3",
         "_m/9/q/8/y/san-francisco-city-wk/9q8y-san-francisco-the-city-that-burned-down-and-rebuil-the-hills.mp3",
+        "_m/9/q/8/y/san-francisco-city-wk/9q8y-san-francisco-the-city-that-burned-down-and-rebuil-the-bridge.mp3",
         "_m/9/q/8/y/san-francisco-city-wk/9q8y-san-francisco-the-city-that-burned-down-and-rebuil-the-tech.mp3",
         "_m/9/q/8/y/san-francisco-city-wk/9q8y-san-francisco-the-city-that-burned-down-and-rebuil-visiting-san-francisco.mp3"
       ],
@@ -59,7 +59,9 @@
           "Pictures of the day (2006)",
           "San Francisco International Airport at night",
           "Taken with Canon EOS 20D"
-        ]
+        ],
+        "mediumPath": "_m/9/q/8/y/san-francisco-city-wk/hero-medium.webp",
+        "smallPath": "_m/9/q/8/y/san-francisco-city-wk/hero-small.webp"
       },
       "images": [
         {
@@ -1627,7 +1629,8 @@
           "sourceGeohash4": "tpc/_ho/sa/n-/fr",
           "accessedAt": "2026-02-21T20:52:35.476Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/q/8/y/san-francisco-city-wk/9q8y-san-francisco-city-combined.mp3"
     }
   }
 }

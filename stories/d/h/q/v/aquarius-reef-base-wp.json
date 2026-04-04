@@ -111,14 +111,14 @@
       "distanceKm": 36.7
     },
     "ne": {
-      "id": "flight-19-wp",
-      "title": "Flight 19",
-      "tile": "djpu",
+      "id": "great-stirrup-cay-wp",
+      "title": "Great Stirrup Cay",
+      "tile": "dk8d",
       "coordinates": {
-        "lat": 29,
-        "lng": -79
+        "lat": 25.833333333333,
+        "lng": -77.9
       },
-      "distanceKm": 436.9
+      "distanceKm": 206.3
     },
     "w": {
       "id": "overseas-railroad-wp",
@@ -131,14 +131,14 @@
       "distanceKm": 32.1
     },
     "e": {
-      "id": "port-royal-pirates-wk",
-      "title": "Port Royal: The Wickedest City on Earth, Swallowed by the Sea",
-      "tile": "d71q",
+      "id": "andros-the-bahamas-wp",
+      "title": "Andros, The Bahamas",
+      "tile": "dk2s",
       "coordinates": {
-        "lat": 17.94,
-        "lng": -76.8407
+        "lat": 24.66666667,
+        "lng": -77.91666667
       },
-      "distanceKm": 829.6
+      "distanceKm": 192
     },
     "sw": {
       "id": "uss-r-12-wp",
@@ -170,5 +170,6 @@
       },
       "distanceKm": 221.9
     }
-  }
+  },
+  "locationWikipediaPath": "d/h/q/v/aquarius-reef-base-wp"
 }

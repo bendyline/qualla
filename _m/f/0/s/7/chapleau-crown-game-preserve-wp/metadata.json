@@ -25,8 +25,8 @@
     "sourceType": "core",
     "sourceArticleId": "chapleau-crown-game-preserve-wp",
     "sourceGeohash4": "f0s7",
-    "mediumPath": "_m/f/0/s/7/chapleau-crown-game-preserve-wp/hero-medium.jpg",
-    "smallPath": "_m/f/0/s/7/chapleau-crown-game-preserve-wp/hero-small.jpg"
+    "mediumPath": "_m/f/0/s/7/chapleau-crown-game-preserve-wp/hero-medium.webp",
+    "smallPath": "_m/f/0/s/7/chapleau-crown-game-preserve-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Chapleau CGP 1.jpg",
@@ -104,13 +104,31 @@
       "sourceType": "core",
       "sourceArticleId": "chapleau-crown-game-preserve-wp",
       "sourceGeohash4": "f0s7",
-      "mediumPath": "_m/f/0/s/7/chapleau-crown-game-preserve-wp/welcome-sign-chapleau-medium.jpg",
-      "smallPath": "_m/f/0/s/7/chapleau-crown-game-preserve-wp/welcome-sign-chapleau-small.jpg"
+      "mediumPath": "_m/f/0/s/7/chapleau-crown-game-preserve-wp/welcome-sign-chapleau-medium.webp",
+      "smallPath": "_m/f/0/s/7/chapleau-crown-game-preserve-wp/welcome-sign-chapleau-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/c/b/w/g/quetico-provincial-park-wp/relief-ontario-canada.png",
     "_m/f/0/s/7/chapleau-crown-game-preserve-wp/welcome-sign-chapleau.jpg"
   ],
-  "fetchedAt": "2026-02-28T11:31:00.207Z"
+  "narration": {
+    "files": [
+      "f0s7-chapleau-crown-game-preserve-where-railroads-drew--flight-context.mp3",
+      "f0s7-chapleau-crown-game-preserve-where-railroads-drew--intro.mp3",
+      "f0s7-chapleau-crown-game-preserve-where-railroads-drew--pictographs-and-paddle-routes.mp3",
+      "f0s7-chapleau-crown-game-preserve-where-railroads-drew--mcleods-alarm.mp3",
+      "f0s7-chapleau-crown-game-preserve-where-railroads-drew--the-cost-of-conservation.mp3",
+      "f0s7-chapleau-crown-game-preserve-where-railroads-drew--a-century-of-rewilding.mp3"
+    ],
+    "durations": {
+      "f0s7-chapleau-crown-game-preserve-where-railroads-drew--flight-context.mp3": 60.1885,
+      "f0s7-chapleau-crown-game-preserve-where-railroads-drew--intro.mp3": 56.1635,
+      "f0s7-chapleau-crown-game-preserve-where-railroads-drew--pictographs-and-paddle-routes.mp3": 67.3223333,
+      "f0s7-chapleau-crown-game-preserve-where-railroads-drew--mcleods-alarm.mp3": 72.1839166,
+      "f0s7-chapleau-crown-game-preserve-where-railroads-drew--the-cost-of-conservation.mp3": 64.4135416,
+      "f0s7-chapleau-crown-game-preserve-where-railroads-drew--a-century-of-rewilding.mp3": 67.0260833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-kuwait-international-airport-wp",
     "sourceGeohash4": "tj4n",
-    "mediumPath": "_m/t/j/4/n/battle-of-kuwait-international-airport-wp/hero-medium.jpg",
-    "smallPath": "_m/t/j/4/n/battle-of-kuwait-international-airport-wp/hero-small.jpg"
+    "mediumPath": "_m/t/j/4/n/battle-of-kuwait-international-airport-wp/hero-medium.webp",
+    "smallPath": "_m/t/j/4/n/battle-of-kuwait-international-airport-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Two destroyed Iraqi T-62 tanks during the Gulf War.JPEG",
@@ -76,12 +76,32 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-kuwait-international-airport-wp",
       "sourceGeohash4": "tj4n",
-      "mediumPath": "_m/t/j/4/n/battle-of-kuwait-international-airport-wp/u-s-marine-artilleryme-medium.jpg",
-      "smallPath": "_m/t/j/4/n/battle-of-kuwait-international-airport-wp/u-s-marine-artilleryme-small.jpg"
+      "mediumPath": "_m/t/j/4/n/battle-of-kuwait-international-airport-wp/u-s-marine-artilleryme-medium.webp",
+      "smallPath": "_m/t/j/4/n/battle-of-kuwait-international-airport-wp/u-s-marine-artilleryme-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/t/j/4/n/battle-of-kuwait-international-airport-wp/u-s-marine-artilleryme.jpg"
   ],
-  "fetchedAt": "2026-03-01T07:10:58.720Z"
+  "narration": {
+    "files": [
+      "tj4n-battle-of-kuwait-international-airport-flight-context.mp3",
+      "tj4n-battle-of-kuwait-international-airport-intro.mp3",
+      "tj4n-battle-of-kuwait-international-airport-three-days-across-the-desert.mp3",
+      "tj4n-battle-of-kuwait-international-airport-the-reveille-engagement.mp3",
+      "tj4n-battle-of-kuwait-international-airport-fight-at-the-terminal.mp3",
+      "tj4n-battle-of-kuwait-international-airport-cutting-the-escape.mp3",
+      "tj4n-battle-of-kuwait-international-airport-the-overlooked-battle.mp3"
+    ],
+    "durations": {
+      "tj4n-battle-of-kuwait-international-airport-flight-context.mp3": 48.777875,
+      "tj4n-battle-of-kuwait-international-airport-intro.mp3": 45.3257083,
+      "tj4n-battle-of-kuwait-international-airport-three-days-across-the-desert.mp3": 69.2807916,
+      "tj4n-battle-of-kuwait-international-airport-the-reveille-engagement.mp3": 65.26,
+      "tj4n-battle-of-kuwait-international-airport-fight-at-the-terminal.mp3": 64.2179166,
+      "tj4n-battle-of-kuwait-international-airport-cutting-the-escape.mp3": 71.2010416,
+      "tj4n-battle-of-kuwait-international-airport-the-overlooked-battle.mp3": 57.2372916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

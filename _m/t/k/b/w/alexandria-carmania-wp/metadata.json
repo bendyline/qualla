@@ -26,7 +26,7 @@
     "sourceType": "core",
     "sourceArticleId": "alexandria-carmania-wp",
     "sourceGeohash4": "tkbw",
-    "smallPath": "_m/t/k/b/w/alexandria-carmania-wp/hero-small.jpg"
+    "smallPath": "_m/t/k/b/w/alexandria-carmania-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Asiae-IX map Mercator 1578 Alexandria Carmaniae - Annotated.jpg",
@@ -78,11 +78,29 @@
       "sourceType": "core",
       "sourceArticleId": "alexandria-carmania-wp",
       "sourceGeohash4": "tkbw",
-      "smallPath": "_m/t/k/b/w/alexandria-carmania-wp/area-karmania-map-empi-small.png"
+      "smallPath": "_m/t/k/b/w/alexandria-carmania-wp/area-karmania-map-empi-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/t/k/b/w/alexandria-carmania-wp/area-karmania-map-empi.png"
   ],
-  "fetchedAt": "2026-03-01T10:31:06.839Z"
+  "narration": {
+    "files": [
+      "tkbw-alexandria-carmania-flight-context.mp3",
+      "tkbw-alexandria-carmania-intro.mp3",
+      "tkbw-alexandria-carmania-the-reunion-at-minab.mp3",
+      "tkbw-alexandria-carmania-the-search-for-a-lost-city.mp3",
+      "tkbw-alexandria-carmania-survival-through-the-centuries.mp3",
+      "tkbw-alexandria-carmania-the-ghost-of-alexander.mp3"
+    ],
+    "durations": {
+      "tkbw-alexandria-carmania-flight-context.mp3": 50.127625,
+      "tkbw-alexandria-carmania-intro.mp3": 49.4609166,
+      "tkbw-alexandria-carmania-the-reunion-at-minab.mp3": 57.9577916,
+      "tkbw-alexandria-carmania-the-search-for-a-lost-city.mp3": 66.2685416,
+      "tkbw-alexandria-carmania-survival-through-the-centuries.mp3": 59.55075,
+      "tkbw-alexandria-carmania-the-ghost-of-alexander.mp3": 56.1025
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

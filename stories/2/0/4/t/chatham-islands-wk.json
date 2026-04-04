@@ -81,54 +81,54 @@
   "locationWikivoyagePath": "2/0/4/m/chatham-islands-wk",
   "directionalNeighbors": {
     "n": {
-      "id": "wellington-wk",
-      "title": "Wellington",
-      "tile": "rbsm",
+      "id": "wairarapa-wk",
+      "title": "Wairarapa",
+      "tile": "rbtp",
       "coordinates": {
-        "lat": -41.2866,
-        "lng": 174.7756
+        "lat": -40.945,
+        "lng": 175.785
       },
-      "distanceKm": 780.5
+      "distanceKm": 721.2
     },
     "ne": {
-      "id": "abel-tasman-national-park-wk",
-      "title": "Abel Tasman National Park",
-      "tile": "rbdz",
+      "id": "napier-prison-wp",
+      "title": "Napier Prison",
+      "tile": "rbvz",
       "coordinates": {
-        "lat": -40.833333,
-        "lng": 172.9
+        "lat": -39.4847,
+        "lng": 176.9188
       },
-      "distanceKm": 985.5
+      "distanceKm": 770.9
     },
     "e": {
-      "id": "auckland-wk",
-      "title": "Auckland",
-      "tile": "rckq",
+      "id": "napier-wk",
+      "title": "Napier",
+      "tile": "rbvz",
       "coordinates": {
-        "lat": -36.8509,
-        "lng": 174.7645
+        "lat": -39.4833,
+        "lng": 176.9167
       },
-      "distanceKm": 1129
+      "distanceKm": 788.6
     },
     "s": {
-      "id": "queenstown-new-zealand-wk",
-      "title": "Queenstown",
-      "tile": "pxzz",
+      "id": "oamaru-wk",
+      "title": "Oamaru",
+      "tile": "pzcx",
       "coordinates": {
-        "lat": -45.031,
-        "lng": 168.662
+        "lat": -45.089444444444,
+        "lng": 170.96611111111
       },
-      "distanceKm": 1189.7
+      "distanceKm": 1008.7
     },
     "se": {
-      "id": "west-antarctica-wk",
-      "title": "West Antarctica",
-      "tile": "1cby",
+      "id": "moeraki-boulders-wp",
+      "title": "Moeraki Boulders",
+      "tile": "pzcq",
       "coordinates": {
-        "lat": -79,
-        "lng": -100
+        "lat": -45.345275,
+        "lng": 170.82606111111
       },
-      "distanceKm": 4894.9
+      "distanceKm": 1061.5
     }
   },
   "keywords": [

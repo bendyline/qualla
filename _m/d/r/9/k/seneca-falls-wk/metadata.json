@@ -26,8 +26,8 @@
     "sourceType": "core",
     "sourceArticleId": "seneca-falls-wk",
     "sourceGeohash4": "dr9k",
-    "smallPath": "_m/d/r/9/k/seneca-falls-wk/hero-small.jpg",
-    "mediumPath": "_m/d/r/9/k/seneca-falls-wk/hero-medium.jpg"
+    "smallPath": "_m/d/r/9/k/seneca-falls-wk/hero-small.webp",
+    "mediumPath": "_m/d/r/9/k/seneca-falls-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "NationalWomen'sHallofFameInterior.JPG",
@@ -83,7 +83,7 @@
       "sourceType": "core",
       "sourceArticleId": "seneca-falls-wk",
       "sourceGeohash4": "dr9k",
-      "smallPath": "_m/d/r/9/k/seneca-falls-wk/seneca-falls-canal-har-small.jpg"
+      "smallPath": "_m/d/r/9/k/seneca-falls-wk/hero-small.webp"
     },
     {
       "filename": "Elizabeth Cady Stanton House with plaque 2013.jpg",
@@ -117,8 +117,8 @@
       "sourceType": "core",
       "sourceArticleId": "seneca-falls-wk",
       "sourceGeohash4": "dr9k",
-      "smallPath": "_m/d/r/9/k/seneca-falls-wk/elizabeth-cady-stanton-small.jpg",
-      "mediumPath": "_m/d/r/9/k/seneca-falls-wk/elizabeth-cady-stanton-medium.jpg"
+      "smallPath": "_m/d/r/9/k/seneca-falls-wk/elizabeth-cady-stanton-small.webp",
+      "mediumPath": "_m/d/r/9/k/seneca-falls-wk/elizabeth-cady-stanton-medium.webp"
     },
     {
       "filename": "Women's Rights National Historical Park.jpg",
@@ -144,7 +144,7 @@
       "sourceType": "core",
       "sourceArticleId": "seneca-falls-wk",
       "sourceGeohash4": "dr9k",
-      "smallPath": "_m/d/r/9/k/seneca-falls-wk/carl-stein-amp-element-small.jpg"
+      "smallPath": "_m/d/r/9/k/seneca-falls-wk/carl-stein-amp-element-small.webp"
     },
     {
       "filename": "Ricketts Glen State Park Seneca Falls 1.jpg",
@@ -169,7 +169,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "seneca-falls-wk",
-      "sourceGeohash4": "dr9k"
+      "sourceGeohash4": "dr9k",
+      "mediumPath": "_m/d/r/9/k/seneca-falls-wk/ricketts-glen-state-park-senec-medium.webp",
+      "smallPath": "_m/d/r/9/k/seneca-falls-wk/ricketts-glen-state-park-senec-small.webp"
     },
     {
       "filename": "Ricketts Glen State Park Seneca Falls 2.jpg",
@@ -193,7 +195,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "seneca-falls-wk",
-      "sourceGeohash4": "dr9k"
+      "sourceGeohash4": "dr9k",
+      "smallPath": "_m/d/r/9/k/seneca-falls-wk/ricketts-glen-state-park-senec-1-small.webp"
     },
     {
       "filename": "Devonian fish Onychodus tooth whorl - Seneca Stone Quarry in Seneca Falls, NY.jpg",
@@ -221,7 +224,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "seneca-falls-wk",
-      "sourceGeohash4": "dr9k"
+      "sourceGeohash4": "dr9k",
+      "mediumPath": "_m/d/r/9/k/seneca-falls-wk/devonian-fish-onychodus-tooth--medium.webp",
+      "smallPath": "_m/d/r/9/k/seneca-falls-wk/devonian-fish-onychodus-tooth--small.webp"
     },
     {
       "filename": "Seneca Falls, Pen Yann, NY - Flickr - See1,Do1,Teach1.jpg",
@@ -246,7 +251,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "seneca-falls-wk",
-      "sourceGeohash4": "dr9k"
+      "sourceGeohash4": "dr9k",
+      "mediumPath": "_m/d/r/9/k/seneca-falls-wk/seneca-falls-pen-yann-ny-flick-medium.webp",
+      "smallPath": "_m/d/r/9/k/seneca-falls-wk/seneca-falls-pen-yann-ny-flick-small.webp"
     }
   ],
   "galleryPaths": [
@@ -258,7 +265,6 @@
     "_m/d/r/9/k/seneca-falls-wk/devonian-fish-onychodus-tooth-.jpg",
     "_m/d/r/9/k/seneca-falls-wk/seneca-falls-pen-yann-ny-flick.jpg"
   ],
-  "fetchedAt": "2026-02-22T12:29:21.631Z",
   "updatedAt": "2026-02-22T12:29:22.836Z",
   "narration": {
     "files": [
@@ -279,7 +285,6 @@
       "dr9k-seneca-falls-victory.mp3": 69.4032083,
       "dr9k-seneca-falls-visiting-seneca-falls.mp3": 64.4144583
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-25T08:21:40.687Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

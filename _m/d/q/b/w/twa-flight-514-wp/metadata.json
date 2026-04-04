@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "twa-flight-514-wp",
     "sourceGeohash4": "dqbw",
-    "mediumPath": "_m/d/q/b/w/twa-flight-514-wp/hero-medium.jpg",
-    "smallPath": "_m/d/q/b/w/twa-flight-514-wp/hero-small.jpg"
+    "mediumPath": "_m/d/q/b/w/twa-flight-514-wp/hero-medium.webp",
+    "smallPath": "_m/d/q/b/w/twa-flight-514-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "TWA flight 514 crash site looking west 2017.jpg",
@@ -75,7 +75,7 @@
       "sourceType": "core",
       "sourceArticleId": "twa-flight-514-wp",
       "sourceGeohash4": "dqbw",
-      "smallPath": "_m/d/q/b/w/twa-flight-514-wp/about-one-year-later-i-small.jpg"
+      "smallPath": "_m/d/q/b/w/twa-flight-514-wp/about-one-year-later-i-small.webp"
     },
     {
       "filename": "TWA 514 2s.jpg",
@@ -99,7 +99,7 @@
       "sourceType": "core",
       "sourceArticleId": "twa-flight-514-wp",
       "sourceGeohash4": "dqbw",
-      "smallPath": "_m/d/q/b/w/twa-flight-514-wp/about-one-year-later-i-1-small.jpg"
+      "smallPath": "_m/d/q/b/w/twa-flight-514-wp/about-one-year-later-i-1-small.webp"
     },
     {
       "filename": "TWA flight 514 crash site looking east 2017.jpg",
@@ -125,8 +125,8 @@
       "sourceType": "core",
       "sourceArticleId": "twa-flight-514-wp",
       "sourceGeohash4": "dqbw",
-      "mediumPath": "_m/d/q/b/w/twa-flight-514-wp/looking-east-site-cras-medium.jpg",
-      "smallPath": "_m/d/q/b/w/twa-flight-514-wp/looking-east-site-cras-small.jpg"
+      "mediumPath": "_m/d/q/b/w/twa-flight-514-wp/looking-east-site-cras-medium.webp",
+      "smallPath": "_m/d/q/b/w/twa-flight-514-wp/looking-east-site-cras-small.webp"
     },
     {
       "filename": "TWA 514 crash site looking west.jpg",
@@ -160,6 +160,24 @@
     "_m/d/q/b/w/twa-flight-514-wp/looking-east-site-cras.jpg",
     "_m/d/q/b/w/twa-flight-514-wp/twa-514-crash-site-looking-wes.jpg"
   ],
-  "fetchedAt": "2026-02-28T04:44:49.843Z",
-  "updatedAt": "2026-02-28T04:45:04.656Z"
+  "updatedAt": "2026-02-28T04:45:04.656Z",
+  "narration": {
+    "files": [
+      "dqbw-twa-flight-514-flight-context.mp3",
+      "dqbw-twa-flight-514-intro.mp3",
+      "dqbw-twa-flight-514-cleared-to-descend.mp3",
+      "dqbw-twa-flight-514-into-the-mountain.mp3",
+      "dqbw-twa-flight-514-who-was-at-fault.mp3",
+      "dqbw-twa-flight-514-a-legacy-written-in-new-rules.mp3"
+    ],
+    "durations": {
+      "dqbw-twa-flight-514-flight-context.mp3": 54.5099583,
+      "dqbw-twa-flight-514-intro.mp3": 51.188875,
+      "dqbw-twa-flight-514-cleared-to-descend.mp3": 58.873375,
+      "dqbw-twa-flight-514-into-the-mountain.mp3": 52.4264166,
+      "dqbw-twa-flight-514-who-was-at-fault.mp3": 58.4213333,
+      "dqbw-twa-flight-514-a-legacy-written-in-new-rules.mp3": 63.125375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

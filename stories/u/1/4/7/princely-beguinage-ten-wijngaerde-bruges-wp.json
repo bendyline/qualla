@@ -89,14 +89,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "tower-london-deeper-wk",
-      "title": "The Tower of London: The Fortress That Imprisoned Two Queens and Lost Two Princes",
+      "id": "battle-of-cable-street-wp",
+      "title": "The Battle of Cable Street: The Day the East End Said No",
       "tile": "gcpv",
       "coordinates": {
-        "lat": 51.5081,
-        "lng": -0.0761
+        "lat": 51.51085,
+        "lng": -0.05212
       },
-      "distanceKm": 199.9
+      "distanceKm": 198.2
     },
     "n": {
       "id": "delta-works-wp",
@@ -119,14 +119,14 @@
       "distanceKm": 12
     },
     "w": {
-      "id": "kent-wk",
-      "title": "Kent",
-      "tile": "u10e",
+      "id": "dover-castle-wp",
+      "title": "Dover Castle",
+      "tile": "u10f",
       "coordinates": {
-        "lat": 51.19,
-        "lng": 0.73
+        "lat": 51.128268,
+        "lng": 1.3235035
       },
-      "distanceKm": 145.2
+      "distanceKm": 104.5
     },
     "e": {
       "id": "battle-of-the-scheldt-wp",
@@ -139,14 +139,14 @@
       "distanceKm": 28.6
     },
     "sw": {
-      "id": "paris-wk",
-      "title": "Paris",
-      "tile": "u09t",
+      "id": "le-paradis-massacre-wp",
+      "title": "Le Paradis Massacre",
+      "tile": "u0cz",
       "coordinates": {
-        "lat": 48.856,
-        "lng": 2.351
+        "lat": 50.5948,
+        "lng": 2.6477
       },
-      "distanceKm": 238.1
+      "distanceKm": 44
     },
     "s": {
       "id": "flanders-field-american-cemetery-and-memorial-wp",
@@ -171,5 +171,6 @@
   },
   "keywords": [
     "princely-beguinage-ten-wijngaerde-bruges"
-  ]
+  ],
+  "locationWikipediaPath": "u/1/4/7/princely-beguinage-ten-wijngaerde-bruges-wp"
 }

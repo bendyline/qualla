@@ -86,77 +86,80 @@
       "distanceKm": 124.9
     },
     "n": {
-      "id": "rosh-haniqra-wk",
-      "title": "Rosh Haniqra",
-      "tile": "svbu",
+      "id": "denshway-museum-wp",
+      "title": "Denshway Museum",
+      "tile": "stmy",
       "coordinates": {
-        "lat": 33.0833,
-        "lng": 35.1167
+        "lat": 30.60194444,
+        "lng": 30.85361111
       },
-      "distanceKm": 493.8
+      "distanceKm": 47.9
     },
     "ne": {
-      "id": "tel-aviv-wk",
-      "title": "Tel Aviv",
-      "tile": "sv8w",
+      "id": "canal-of-the-pharaohs-wp",
+      "title": "Canal of the Pharaohs",
+      "tile": "stqt",
       "coordinates": {
-        "lat": 32.0853,
-        "lng": 34.7818
+        "lat": 30.560303,
+        "lng": 31.935883
       },
-      "distanceKm": 362.9
+      "distanceKm": 46
     },
     "w": {
-      "id": "bodrum-wk",
-      "title": "Bodrum",
-      "tile": "swed",
+      "id": "alamein-memorial-wp",
+      "title": "Alamein Memorial",
+      "tile": "stkx",
       "coordinates": {
-        "lat": 37.0344,
-        "lng": 27.4305
+        "lat": 30.83813,
+        "lng": 28.94711
       },
-      "distanceKm": 838
+      "distanceKm": 184.4
     },
     "e": {
-      "id": "jerusalem-wk",
-      "title": "Jerusalem",
-      "tile": "sv9h",
+      "id": "1974-suez-canal-clearance-operation-wp",
+      "title": "1974 Suez Canal Clearance Operation",
+      "tile": "strj",
       "coordinates": {
-        "lat": 31.7683,
-        "lng": 35.2137
+        "lat": 30.412419444444442,
+        "lng": 32.35834166666667
       },
-      "distanceKm": 395.2
+      "distanceKm": 84.7
     },
     "sw": {
-      "id": "accra-wk",
-      "title": "Accra",
-      "tile": "ebzz",
+      "id": "valley-of-the-golden-mummies-wp",
+      "title": "Valley of the Golden Mummies",
+      "tile": "sth3",
       "coordinates": {
-        "lat": 5.6037,
-        "lng": -0.187
+        "lat": 28.326811111111,
+        "lng": 28.826111111111
       },
-      "distanceKm": 4193.3
+      "distanceKm": 229.9
     },
     "s": {
-      "id": "luxor-wk",
-      "title": "Luxor",
-      "tile": "ssx4",
+      "id": "wadi-rum-wp",
+      "title": "Wadi Rum",
+      "tile": "sv30",
       "coordinates": {
-        "lat": 25.6872,
-        "lng": 32.6396
+        "lat": 29.5765,
+        "lng": 35.419928
       },
-      "distanceKm": 471.6
+      "distanceKm": 416.4
     },
     "se": {
-      "id": "karnak-temple-wk",
-      "title": "Karnak: The Temple Built by 30 Pharaohs Over 2,000 Years",
-      "tile": "ssx4",
+      "id": "saint-catherine-s-monastery-wp",
+      "title": "Saint Catherine's Monastery",
+      "tile": "sv04",
       "coordinates": {
-        "lat": 25.7188,
-        "lng": 32.6573
+        "lat": 28.5561,
+        "lng": 33.9757
       },
-      "distanceKm": 454.6
+      "distanceKm": 260.4
     }
   },
   "keywords": [
     "great-pyramid"
+  ],
+  "duplicates": [
+    "great-pyramid-of-giza-wp"
   ]
 }

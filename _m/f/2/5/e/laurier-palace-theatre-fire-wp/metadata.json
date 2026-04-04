@@ -32,7 +32,7 @@
     "sourceType": "core",
     "sourceArticleId": "laurier-palace-theatre-fire-wp",
     "sourceGeohash4": "f25e",
-    "smallPath": "_m/f/2/5/e/laurier-palace-theatre-fire-wp/hero-small.jpg"
+    "smallPath": "_m/f/2/5/e/laurier-palace-theatre-fire-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Laurier-Palace-Theatre-Incendie.jpg",
@@ -93,7 +93,7 @@
       "sourceType": "core",
       "sourceArticleId": "laurier-palace-theatre-fire-wp",
       "sourceGeohash4": "f25e",
-      "smallPath": "_m/f/2/5/e/laurier-palace-theatre-fire-wp/laurier-palace-theatre-small.jpg"
+      "smallPath": "_m/f/2/5/e/laurier-palace-theatre-fire-wp/laurier-palace-theatre-small.webp"
     },
     {
       "filename": "Laurier palace, 10 janvier1927.jpg",
@@ -120,13 +120,33 @@
       "sourceType": "commons-category",
       "sourceArticleId": "laurier-palace-theatre-fire-wp",
       "sourceGeohash4": "f25e",
-      "smallPath": "_m/f/2/5/e/laurier-palace-theatre-fire-wp/laurier-palace-10-janvier1927-small.jpg"
+      "smallPath": "_m/f/2/5/e/laurier-palace-theatre-fire-wp/laurier-palace-10-janvier1927-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/f/2/5/e/laurier-palace-theatre-fire-wp/laurier-palace-theatre.jpg",
     "_m/f/2/5/e/laurier-palace-theatre-fire-wp/laurier-palace-10-janvier1927.jpg"
   ],
-  "fetchedAt": "2026-02-28T13:56:22.242Z",
-  "updatedAt": "2026-02-28T13:56:36.197Z"
+  "updatedAt": "2026-02-28T13:56:36.197Z",
+  "narration": {
+    "files": [
+      "f25e-laurier-palace-theatre-fire-flight-context.mp3",
+      "f25e-laurier-palace-theatre-fire-intro.mp3",
+      "f25e-laurier-palace-theatre-fire-heroes-in-the-projection-booth.mp3",
+      "f25e-laurier-palace-theatre-fire-the-cruelest-details.mp3",
+      "f25e-laurier-palace-theatre-fire-a-province-reshapes-its-laws.mp3",
+      "f25e-laurier-palace-theatre-fire-grief-woven-into-song.mp3",
+      "f25e-laurier-palace-theatre-fire-what-remains-on-saint-catherine-street.mp3"
+    ],
+    "durations": {
+      "f25e-laurier-palace-theatre-fire-flight-context.mp3": 49.8740416,
+      "f25e-laurier-palace-theatre-fire-intro.mp3": 64.7125416,
+      "f25e-laurier-palace-theatre-fire-heroes-in-the-projection-booth.mp3": 53.7940833,
+      "f25e-laurier-palace-theatre-fire-the-cruelest-details.mp3": 57.6315416,
+      "f25e-laurier-palace-theatre-fire-a-province-reshapes-its-laws.mp3": 55.210125,
+      "f25e-laurier-palace-theatre-fire-grief-woven-into-song.mp3": 58.3959583,
+      "f25e-laurier-palace-theatre-fire-what-remains-on-saint-catherine-street.mp3": 56.2420416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

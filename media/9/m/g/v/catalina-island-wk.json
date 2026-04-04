@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
+        "_m/9/m/g/v/catalina-island-wk/9mgv-catalina-island-flight-context.mp3",
         "_m/9/m/g/v/catalina-island-wk/9mgv-catalina-island-intro.mp3",
         "_m/9/m/g/v/catalina-island-wk/9mgv-catalina-island-avalon-and-two-harbors.mp3",
         "_m/9/m/g/v/catalina-island-wk/9mgv-catalina-island-bison-country.mp3",
-        "_m/9/m/g/v/catalina-island-wk/9mgv-catalina-island-flight-context.mp3",
-        "_m/9/m/g/v/catalina-island-wk/9mgv-catalina-island-island-of-the-blue-foxes.mp3",
         "_m/9/m/g/v/catalina-island-wk/9mgv-catalina-island-the-underwater-world.mp3",
-        "_m/9/m/g/v/catalina-island-wk/9mgv-catalina-island-yacht-club-row.mp3"
+        "_m/9/m/g/v/catalina-island-wk/9mgv-catalina-island-yacht-club-row.mp3",
+        "_m/9/m/g/v/catalina-island-wk/9mgv-catalina-island-island-of-the-blue-foxes.mp3"
       ],
       "hero": {
         "path": "_m/9/m/g/v/santa-catalina-island-california-wp/hero.jpg",
@@ -38,7 +38,9 @@
           "People of Avalon, California",
           "Self-published work",
           "Sunbathing at the beach in the United States"
-        ]
+        ],
+        "mediumPath": "_m/9/m/g/v/catalina-island-wk/hero-medium.webp",
+        "smallPath": "_m/9/m/g/v/catalina-island-wk/hero-small.webp"
       },
       "images": [
         {
@@ -62,7 +64,7 @@
             "Media missing infobox template",
             "Taken with Sony DSC-P92"
           ],
-          "smallPath": "_m/9/m/g/v/catalina-island-wk/avalon-catalina-island-small.jpg"
+          "smallPath": "_m/9/m/g/v/catalina-island-wk/avalon-catalina-island-small.webp"
         },
         {
           "path": "_m/9/m/g/v/catalina-island-wk/southwest-end-catalina.jpg",
@@ -84,8 +86,8 @@
             "CC-BY-SA-4.0",
             "Photographs by Don Ramey Logan"
           ],
-          "smallPath": "_m/9/m/g/v/catalina-island-wk/southwest-end-catalina-small.jpg",
-          "mediumPath": "_m/9/m/g/v/catalina-island-wk/southwest-end-catalina-medium.jpg"
+          "smallPath": "_m/9/m/g/v/catalina-island-wk/southwest-end-catalina-small.webp",
+          "mediumPath": "_m/9/m/g/v/catalina-island-wk/southwest-end-catalina-medium.webp"
         },
         {
           "path": "_m/9/m/g/v/santa-catalina-island-california-wp/arctostaphylos-catalin.jpg",
@@ -334,7 +336,8 @@
           "sourceGeohash4": "9mgv",
           "accessedAt": "2026-02-21T20:20:02.992Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/m/g/v/catalina-island-wk/9mgv-catalina-island-combined.mp3"
     }
   }
 }

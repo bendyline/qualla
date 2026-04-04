@@ -78,24 +78,24 @@
   "locationWikipediaPath": "d/d/s/7/saint-pierre-martinique-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "old-san-juan-el-morro-wk",
-      "title": "El Morro: The Fortress That Guarded Spain's Empire",
-      "tile": "de2c",
+      "id": "montserrat-slave-rebellion-of-1768-wp",
+      "title": "Montserrat Slave Rebellion of 1768",
+      "tile": "ddgz",
       "coordinates": {
-        "lat": 18.4706,
-        "lng": -66.1239
+        "lat": 16.7,
+        "lng": -62.2
       },
-      "distanceKm": 598.9
+      "distanceKm": 198.6
     },
     "n": {
-      "id": "bermuda-triangle-mystery-wk",
-      "title": "Bermuda Triangle: The Mystery That Wasn't There",
-      "tile": "dkmw",
+      "id": "scott-s-head-wk",
+      "title": "Scott's Head",
+      "tile": "ddsq",
       "coordinates": {
-        "lat": 25,
-        "lng": -71
+        "lat": 15.2125,
+        "lng": -61.3667
       },
-      "distanceKm": 1504.9
+      "distanceKm": 30.2
     },
     "ne": {
       "id": "titanic-sinking-wk",
@@ -108,57 +108,60 @@
       "distanceKm": 3156.4
     },
     "w": {
-      "id": "labadee-wk",
-      "title": "Labadee",
-      "tile": "d7s8",
+      "id": "operation-neuland-wp",
+      "title": "Operation Neuland",
+      "tile": "ddeg",
       "coordinates": {
-        "lat": 19.786389,
-        "lng": -72.245556
+        "lat": 14.75,
+        "lng": -62.1667
       },
-      "distanceKm": 1238.7
+      "distanceKm": 32.4
     },
     "e": {
-      "id": "amazon-rainforest-wk",
-      "title": "The Amazon: The Forest That Makes Its Own Rain",
-      "tile": "6xmq",
+      "id": "1839-martinique-earthquake-wp",
+      "title": "1839 Martinique Earthquake",
+      "tile": "ddsf",
       "coordinates": {
-        "lat": -3,
-        "lng": -60
+        "lat": 14.5,
+        "lng": -60.5
       },
-      "distanceKm": 1967.8
+      "distanceKm": 39.7
     },
     "sw": {
-      "id": "cartagena-wk",
-      "title": "Cartagena",
-      "tile": "d3f7",
+      "id": "1766-southeastern-caribbean-earthquake-wp",
+      "title": "1766 Southeastern Caribbean Earthquake",
+      "tile": "d9gw",
       "coordinates": {
-        "lat": 10.391,
-        "lng": -75.4794
+        "lat": 11,
+        "lng": -62.5
       },
-      "distanceKm": 1543.2
+      "distanceKm": 385.6
     },
     "s": {
-      "id": "bogota-wk",
-      "title": "Bogota",
-      "tile": "d2g6",
+      "id": "battle-of-st-lucia-wp",
+      "title": "Battle of St. Lucia",
+      "tile": "ddkx",
       "coordinates": {
-        "lat": 4.711,
-        "lng": -74.0721
+        "lat": 14.017,
+        "lng": -60.983
       },
-      "distanceKm": 1762.2
+      "distanceKm": 59.1
     },
     "se": {
-      "id": "amazon-tall-tower-observatory-wp",
-      "title": "Amazon Tall Tower Observatory",
-      "tile": "6xw5",
+      "id": "animal-flower-cave-wp",
+      "title": "Animal Flower Cave: Barbados's Window to the Atlantic",
+      "tile": "ddme",
       "coordinates": {
-        "lat": -2.143,
-        "lng": -59.001
+        "lat": 13.3346,
+        "lng": -59.6131
       },
-      "distanceKm": 1851.9
+      "distanceKm": 177.2
     }
   },
   "keywords": [
     "mt-pelee"
+  ],
+  "duplicates": [
+    "saint-pierre-martinique-wp"
   ]
 }

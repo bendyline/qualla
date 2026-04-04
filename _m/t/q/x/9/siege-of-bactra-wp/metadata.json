@@ -36,7 +36,7 @@
     "sourceType": "core",
     "sourceArticleId": "siege-of-bactra-wp",
     "sourceGeohash4": "tqx9",
-    "smallPath": "_m/t/q/x/9/siege-of-bactra-wp/hero-small.jpg"
+    "smallPath": "_m/t/q/x/9/siege-of-bactra-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Corinthian helmet Denda Staatliche Antikensammlungen 4330.jpg",
@@ -106,5 +106,25 @@
   "galleryPaths": [
     "_m/t/q/x/9/bactria-wp/bactriamap.jpg"
   ],
-  "fetchedAt": "2026-03-01T18:00:29.733Z"
+  "narration": {
+    "files": [
+      "tqx9-siege-of-bactra-flight-context.mp3",
+      "tqx9-siege-of-bactra-intro.mp3",
+      "tqx9-siege-of-bactra-victory-that-led-nowhere.mp3",
+      "tqx9-siege-of-bactra-the-walls-hold.mp3",
+      "tqx9-siege-of-bactra-the-prince-who-changed-everything.mp3",
+      "tqx9-siege-of-bactra-elephants-for-a-peace.mp3",
+      "tqx9-siege-of-bactra-what-bactra-proved.mp3"
+    ],
+    "durations": {
+      "tqx9-siege-of-bactra-flight-context.mp3": 44.944375,
+      "tqx9-siege-of-bactra-intro.mp3": 52.5874583,
+      "tqx9-siege-of-bactra-victory-that-led-nowhere.mp3": 48.3176666,
+      "tqx9-siege-of-bactra-the-walls-hold.mp3": 53.207125,
+      "tqx9-siege-of-bactra-the-prince-who-changed-everything.mp3": 55.0924166,
+      "tqx9-siege-of-bactra-elephants-for-a-peace.mp3": 49.3698333,
+      "tqx9-siege-of-bactra-what-bactra-proved.mp3": 59.265875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

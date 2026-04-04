@@ -26,7 +26,7 @@
     "sourceType": "core",
     "sourceArticleId": "capture-of-abbasabad-wp",
     "sourceGeohash4": "tnbq",
-    "smallPath": "_m/t/n/b/q/capture-of-abbasabad-wp/hero-small.jpg"
+    "smallPath": "_m/t/n/b/q/capture-of-abbasabad-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Карта-схема к статье «Джеван-Булах». Военная энциклопедия Сытина (Санкт-Петербург, 1911-1915).jpg",
@@ -57,5 +57,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T13:34:15.578Z"
+  "narration": {
+    "files": [
+      "tnbq-capture-of-abbasabad-flight-context.mp3",
+      "tnbq-capture-of-abbasabad-intro.mp3",
+      "tnbq-capture-of-abbasabad-paskevich-moves-south.mp3",
+      "tnbq-capture-of-abbasabad-seven-days-on-the-araks.mp3",
+      "tnbq-capture-of-abbasabad-betrayal-and-surrender.mp3",
+      "tnbq-capture-of-abbasabad-the-road-to-peace.mp3"
+    ],
+    "durations": {
+      "tnbq-capture-of-abbasabad-flight-context.mp3": 41.03175,
+      "tnbq-capture-of-abbasabad-intro.mp3": 42.98275,
+      "tnbq-capture-of-abbasabad-paskevich-moves-south.mp3": 51.6659583,
+      "tnbq-capture-of-abbasabad-seven-days-on-the-araks.mp3": 55.0159166,
+      "tnbq-capture-of-abbasabad-betrayal-and-surrender.mp3": 56.8034583,
+      "tnbq-capture-of-abbasabad-the-road-to-peace.mp3": 50.7818333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

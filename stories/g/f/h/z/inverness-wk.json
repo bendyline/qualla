@@ -1,0 +1,158 @@
+{
+  "id": "inverness-wk",
+  "source": "wikivoyage",
+  "sourceId": "14567",
+  "title": "Inverness",
+  "slug": "inverness",
+  "summary": "Inverness -- 'Mouth of the River Ness' in Gaelic -- is the Highland capital, a compact Victorian city where the North Coast 500 begins and Macbeth's shadow still falls across a castle that has nothing to do with him.",
+  "content": {
+    "intro": "In February 2000, Inverness Caledonian Thistle Football Club defeated Celtic 3-1 in the Scottish Cup. The headline in The Sun read: 'Super Caley Go Ballistic Celtic Are Atrocious.' It remains the finest sports headline in Scottish newspaper history, and it captured something about Inverness that the city's more serious credentials sometimes obscure: this is a place with a sense of humor about its own improbability. A city of 47,800 people at the northeastern end of the Great Glen, Inverness has served as the capital of the Highlands since long before anyone thought to give it the title officially. It is the gateway to Loch Ness, the starting point of the North Coast 500, and the last significant settlement before the empty moors and mountains of the far north.",
+    "sections": [
+      {
+        "title": "Where the River Meets the Firth",
+        "body": "Inverness takes its Gaelic name -- Inbhir Nis -- from its position at the mouth of the River Ness, where fresh water from Loch Ness meets the tidal waters of the Beauly Firth. The site has been settled since at least the sixth century, when the Picts maintained a stronghold here. Saint Columba visited the Pictish king Bridei near Inverness around 565 AD, an encounter recorded by his biographer Adomnan. The city's position made it both strategically vital and perpetually contested. The castle above the river -- now a red sandstone Victorian building, the latest of many structures on the same hill -- has been besieged, captured, burned, and rebuilt more times than any other fortress in Scotland. Shakespeare placed Macbeth's castle here, though the historical Macbeth's connection to Inverness is tenuous at best."
+      },
+      {
+        "title": "Gateway City",
+        "body": "Modern Inverness functions as the service center for the Highlands and the jumping-off point for some of Scotland's most celebrated destinations. Loch Ness begins just southwest of the city, its dark waters stretching twenty-three miles toward Fort Augustus. The battlefield of Culloden lies five miles to the east -- the site where the last Jacobite rising was crushed in 1746, an event that reshaped Highland society forever. The Cairngorms, Britain's highest mountain plateau, rise to the south. The North Coast 500, a driving route that circuits the northern coast of Scotland, begins and ends in Inverness. The city is served by the Caledonian Sleeper -- an overnight train from London that delivers passengers into the Highlands in time for breakfast -- and by regular flights to London, Edinburgh, and other UK cities. For a city of its size, Inverness punches well above its weight as a transport hub."
+      },
+      {
+        "title": "A Victorian City with Older Bones",
+        "body": "The Inverness visible today is largely Victorian. The city center is built of grey and pink stone, with the cathedral, the castle, and the town house providing architectural anchors along the riverbank. But beneath the Victorian surface, older layers persist. The street plan in parts of the city center follows medieval patterns. The names -- Church Street, Bridge Street, Castle Road -- trace the functional geography of a town that has organized itself around the same landmarks for centuries. The River Ness, shallow and fast-moving, runs through the center with a clarity that surprises visitors used to murkier urban waterways. In summer, the river's gravel beds are visible through the water, and salmon run upstream toward Loch Ness. The city's compact scale -- most attractions are within walking distance of the center -- gives it an accessibility that larger Scottish cities lack. You can walk from the castle to the cathedral to the river to a pub and back in twenty minutes, and along the way you will have crossed a thousand years of Highland history."
+      }
+    ],
+    "flightContext": "Inverness is located at 57.48°N, 4.23°W at the northeastern end of the Great Glen, where the River Ness enters the Beauly Firth. The city center, castle, and cathedral are visible from the air along the river. The Kessock Bridge crosses the firth to the north. The Great Glen extends to the southwest as a line of lochs. Inverness Airport (EGPE) is approximately 7 nm to the northeast."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 57.48,
+      "lng": -4.23
+    },
+    "geohash": "gfhzp"
+  },
+  "categories": [
+    "cities",
+    "cultural-heritage",
+    "transport-hubs"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 710,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 9735
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Inverness - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Inverness",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Population ~47,800 within expected range for urban area",
+        "Gaelic name Inbhir Nis (mouth of the River Ness) confirmed",
+        "Culloden five miles east confirmed",
+        "Loch Ness 23 miles long confirmed",
+        "Caledonian Sleeper overnight train from London confirmed"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Inverness Caledonian Thistle vs Celtic 2000 - The Sun headline",
+      "url": "https://en.wikipedia.org/wiki/Inverness_Caledonian_Thistle_F.C.",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "ICT defeated Celtic 3-1 in Scottish Cup February 2000 confirmed",
+        "'Super Caley Go Ballistic Celtic Are Atrocious' headline confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "g/f/h/z/inverness-wp",
+  "locationWikivoyagePath": "g/f/h/z/inverness-wk",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "suilven-wp",
+      "title": "Suilven",
+      "tile": "gfk6",
+      "coordinates": {
+        "lat": 58.115,
+        "lng": -5.1370694444444
+      },
+      "distanceKm": 33.9
+    },
+    "n": {
+      "id": "meikle-ferry-disaster-wp",
+      "title": "Meikle Ferry Disaster",
+      "tile": "gfm1",
+      "coordinates": {
+        "lat": 57.85264,
+        "lng": -4.14292
+      },
+      "distanceKm": 15.1
+    },
+    "ne": {
+      "id": "battle-of-altimarlach-wp",
+      "title": "Battle of Altimarlach",
+      "tile": "gfmu",
+      "coordinates": {
+        "lat": 58.456,
+        "lng": -3.147
+      },
+      "distanceKm": 81.2
+    },
+    "w": {
+      "id": "liathach-wp",
+      "title": "Liathach",
+      "tile": "gfhp",
+      "coordinates": {
+        "lat": 57.56,
+        "lng": -5.46
+      },
+      "distanceKm": 32.1
+    },
+    "e": {
+      "id": "battle-of-auldearn-wp",
+      "title": "Battle of Auldearn",
+      "tile": "gfjr",
+      "coordinates": {
+        "lat": 57.57638889,
+        "lng": -3.81194444
+      },
+      "distanceKm": 3.4
+    },
+    "sw": {
+      "id": "battle-of-glen-shiel-wp",
+      "title": "Battle of Glen Shiel",
+      "tile": "gfhj",
+      "coordinates": {
+        "lat": 57.17,
+        "lng": -5.32
+      },
+      "distanceKm": 28.3
+    },
+    "s": {
+      "id": "loch-ness-monster-wp",
+      "title": "Loch Ness Monster",
+      "tile": "gfht",
+      "coordinates": {
+        "lat": 57.3,
+        "lng": -4.45
+      },
+      "distanceKm": 3.4
+    },
+    "se": {
+      "id": "cairngorm-mountain-railway-wp",
+      "title": "Cairngorm Mountain Railway",
+      "tile": "gfjk",
+      "coordinates": {
+        "lat": 57.1274,
+        "lng": -3.6598
+      },
+      "distanceKm": 23.3
+    }
+  }
+}

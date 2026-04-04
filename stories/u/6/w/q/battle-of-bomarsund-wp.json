@@ -101,14 +101,14 @@
       "distanceKm": 231.1
     },
     "ne": {
-      "id": "dyatlov-pass-wk",
-      "title": "The Dyatlov Pass Incident: Nine Hikers, One Frozen Mystery",
-      "tile": "v6fr",
+      "id": "finnish-war-wp",
+      "title": "Finnish War",
+      "tile": "ue02",
       "coordinates": {
-        "lat": 61.764,
-        "lng": 59.46
+        "lat": 62,
+        "lng": 22.966666666666665
       },
-      "distanceKm": 2053.6
+      "distanceKm": 207.7
     },
     "w": {
       "id": "dannemora-mine-wp",
@@ -163,5 +163,6 @@
   },
   "keywords": [
     "battle-of-bomarsund"
-  ]
+  ],
+  "locationWikipediaPath": "u/6/w/q/battle-of-bomarsund-wp"
 }

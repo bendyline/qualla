@@ -192,6 +192,16 @@
       "distanceKm": 53.4
     },
     "sw": {
+      "id": "pasta-de-conchos-mine-disaster-wp",
+      "title": "Pasta de Conchos Mine Disaster",
+      "tile": "9szz",
+      "coordinates": {
+        "lat": 27.9675,
+        "lng": -101.3275
+      },
+      "distanceKm": 320
+    },
+    "s": {
       "id": "monterrey-city-wk",
       "title": "Monterrey: Mexico's Industrial Capital Where Mountains Meet Money",
       "tile": "9u8d",
@@ -199,30 +209,21 @@
         "lat": 25.6866,
         "lng": -100.3161
       },
-      "distanceKm": 365.1
-    },
-    "s": {
-      "id": "mexico-city-wk",
-      "title": "Mexico City: The Aztec Capital Rebuilt in Spanish and Slowly Sinking",
-      "tile": "9g3w",
-      "coordinates": {
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "distanceKm": 999
+      "distanceKm": 398.9
     },
     "se": {
-      "id": "merida-city-wk",
-      "title": "Mérida: The White City Gateway to Mayan Civilization",
-      "tile": "d58r",
+      "id": "battle-of-veracruz-1838-wp",
+      "title": "Battle of Veracruz (1838)",
+      "tile": "9g7t",
       "coordinates": {
-        "lat": 20.9674,
-        "lng": -89.5926
+        "lat": 19.209167,
+        "lng": -96.131389
       },
-      "distanceKm": 1108.5
+      "distanceKm": 1015.1
     }
   },
   "keywords": [
     "goliad-massacre"
-  ]
+  ],
+  "locationWikipediaPath": "9/v/4/d/goliad-massacre-wp"
 }

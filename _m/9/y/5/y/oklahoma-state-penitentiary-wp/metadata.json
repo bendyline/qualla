@@ -30,7 +30,7 @@
     "sourceType": "core",
     "sourceArticleId": "oklahoma-state-penitentiary-wp",
     "sourceGeohash4": "9y5y",
-    "smallPath": "_m/9/y/5/y/oklahoma-state-penitentiary-wp/hero-small.jpg"
+    "smallPath": "_m/9/y/5/y/oklahoma-state-penitentiary-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "OklahomaStatePen (retouched).jpg",
@@ -86,7 +86,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "oklahoma-state-penitentiary-wp",
-      "sourceGeohash4": "9y5y"
+      "sourceGeohash4": "9y5y",
+      "smallPath": "_m/9/y/5/y/oklahoma-state-penitentiary-wp/oklahomastatepen-small.webp"
     },
     {
       "filename": "Oklahoma - McAlester through Mountain View - NARA - 68147176.jpg",
@@ -113,7 +114,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "oklahoma-state-penitentiary-wp",
-      "sourceGeohash4": "9y5y"
+      "sourceGeohash4": "9y5y",
+      "mediumPath": "_m/9/y/5/y/oklahoma-state-penitentiary-wp/oklahoma-mcalester-through-mou-medium.webp",
+      "smallPath": "_m/9/y/5/y/oklahoma-state-penitentiary-wp/oklahoma-mcalester-through-mou-small.webp"
     },
     {
       "filename": "1940 Census Enumeration District Descriptions - Oklahoma - Atoka County - ED 3-15, ED 3-16, ED 3-17, ED 3-18, ED 3-19 - NARA - 5877550.jpg",
@@ -140,7 +143,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "oklahoma-state-penitentiary-wp",
-      "sourceGeohash4": "9y5y"
+      "sourceGeohash4": "9y5y",
+      "mediumPath": "_m/9/y/5/y/oklahoma-state-penitentiary-wp/1940-census-enumeration-distri-medium.webp",
+      "smallPath": "_m/9/y/5/y/oklahoma-state-penitentiary-wp/1940-census-enumeration-distri-small.webp"
     },
     {
       "filename": "1940 Census Enumeration District Descriptions - Oklahoma - Pittsburg County - ED 61-9, ED 61-10, ED 61-11, ED 61-12, ED 61-13, ED 61-14, ED 61-15 - NARA - 5878085.jpg",
@@ -167,7 +172,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "oklahoma-state-penitentiary-wp",
-      "sourceGeohash4": "9y5y"
+      "sourceGeohash4": "9y5y",
+      "mediumPath": "_m/9/y/5/y/oklahoma-state-penitentiary-wp/1940-census-enumeration-distri-1-medium.webp",
+      "smallPath": "_m/9/y/5/y/oklahoma-state-penitentiary-wp/1940-census-enumeration-distri-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -176,7 +183,6 @@
     "_m/9/y/5/y/oklahoma-state-penitentiary-wp/1940-census-enumeration-distri.jpg",
     "_m/9/y/5/y/oklahoma-state-penitentiary-wp/1940-census-enumeration-distri-1.jpg"
   ],
-  "fetchedAt": "2026-02-22T00:50:36.500Z",
   "narration": {
     "files": [
       "9y5y-oklahoma-state-penitentiary-flight-context.mp3",
@@ -194,8 +200,7 @@
       "9y5y-oklahoma-state-penitentiary-old-sparky-and-the-long-walk.mp3": 59.0344166,
       "9y5y-oklahoma-state-penitentiary-the-prison-rodeo.mp3": 60.85375
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T22:36:28.513Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T00:50:38.509Z"
 }

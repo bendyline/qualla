@@ -3,20 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/c/b/u/g/trans-canada-highway-wk/f84k-trans-canada-highway-intro.mp3",
-        "_m/c/b/u/g/trans-canada-highway-wk/cbug-trans-canada-highway-intro.mp3",
         "_m/c/b/u/g/trans-canada-highway-wk/cbug-trans-canada-highway-flight-context.mp3",
-        "_m/c/b/u/g/trans-canada-highway-wk/cbug-trans-canada-highway-it-is-possible-to-bypass-the-busiest-sections-of-h.mp3",
-        "_m/c/b/u/g/trans-canada-highway-wk/cbug-trans-canada-highway-moncton-to-north-sydney-nova-scotia.mp3",
-        "_m/c/b/u/g/trans-canada-highway-wk/cbug-trans-canada-highway-overview.mp3",
-        "_m/c/b/u/g/trans-canada-highway-wk/cbug-trans-canada-highway-prepare.mp3",
-        "_m/c/b/u/g/trans-canada-highway-wk/cbug-trans-canada-highway-victoria-to-winnipeg.mp3",
-        "_m/c/b/u/g/trans-canada-highway-wk/f84k-trans-canada-highway-flight-context.mp3",
-        "_m/c/b/u/g/trans-canada-highway-wk/f84k-trans-canada-highway-the-great-plains.mp3",
-        "_m/c/b/u/g/trans-canada-highway-wk/f84k-trans-canada-highway-the-impossible-road.mp3",
-        "_m/c/b/u/g/trans-canada-highway-wk/f84k-trans-canada-highway-the-shield.mp3",
-        "_m/c/b/u/g/trans-canada-highway-wk/f84k-trans-canada-highway-the-western-mountains.mp3",
-        "_m/c/b/u/g/trans-canada-highway-wk/f84k-trans-canada-highway-to-the-atlantic.mp3"
+        "_m/c/b/u/g/trans-canada-highway-wk/cbug-trans-canada-highway-intro.mp3",
+        "_m/c/b/u/g/trans-canada-highway-wk/cbug-trans-canada-highway-the-impossible-road.mp3",
+        "_m/c/b/u/g/trans-canada-highway-wk/cbug-trans-canada-highway-the-western-mountains.mp3",
+        "_m/c/b/u/g/trans-canada-highway-wk/cbug-trans-canada-highway-the-great-plains.mp3",
+        "_m/c/b/u/g/trans-canada-highway-wk/cbug-trans-canada-highway-the-shield.mp3",
+        "_m/c/b/u/g/trans-canada-highway-wk/cbug-trans-canada-highway-to-the-atlantic.mp3"
       ],
       "hero": {
         "path": "_m/tpc/tr/an/s-/ca/trans-canada-highway/terry-fox.jpg",
@@ -39,7 +32,9 @@
           "License migration redundant",
           "Self-published work",
           "Taken with Canon EOS 30D"
-        ]
+        ],
+        "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/hero-medium.webp",
+        "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/hero-small.webp"
       },
       "images": [
         {
@@ -94,7 +89,7 @@
             "Skylines of Calgary",
             "Taken with Canon PowerShot A70"
           ],
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/calgary-skyline-pengro-small.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/calgary-skyline-pengro-small.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/nanaimo-british-columb.jpg",
@@ -144,7 +139,7 @@
             "Self-published work",
             "Wildlife overpasses in Banff National Park"
           ],
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/trans-canada-highway-a-small.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/trans-canada-highway-a-small.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/wild-fowl-park-en-sack.jpg",
@@ -168,7 +163,7 @@
             "Sackville, New Brunswick",
             "Taken with Panasonic Lumix DMC-LC40"
           ],
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/wild-fowl-park-en-sack-small.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/wild-fowl-park-en-sack-small.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/banff-avenue-cascade-mountain0.jpg",
@@ -240,8 +235,8 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/view-finley-bridge-loo-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/view-finley-bridge-loo-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/view-finley-bridge-loo-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/view-finley-bridge-loo-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/downtown-swift-current.jpg",
@@ -258,7 +253,7 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/downtown-swift-current-small.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/downtown-swift-current-small.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/photo-highway-terminus.jpg",
@@ -275,7 +270,7 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/photo-highway-terminus-small.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/photo-highway-terminus-small.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/cache-creek-british-co.jpg",
@@ -292,8 +287,8 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/cache-creek-british-co-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/cache-creek-british-co-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/cache-creek-british-co-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/cache-creek-british-co-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/mackenzie-avenue-revel.jpg",
@@ -327,8 +322,8 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/town-salmon-arm-salmon-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/town-salmon-arm-salmon-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/town-salmon-arm-salmon-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/town-salmon-arm-salmon-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/city-hall-former-post.jpg",
@@ -345,8 +340,8 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/city-hall-former-post-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/city-hall-former-post-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/city-hall-former-post-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/city-hall-former-post-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/lake-louise-ab-entrance.jpg",
@@ -379,8 +374,8 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/brandon-manitoba-monta-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/brandon-manitoba-monta-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/brandon-manitoba-monta-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/brandon-manitoba-monta-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/hero.jpg",
@@ -431,7 +426,7 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/collage-portage-la-pra-small.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/collage-portage-la-pra-small.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/skyline-winnipeg-manit.jpg",
@@ -448,8 +443,8 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/skyline-winnipeg-manit-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/skyline-winnipeg-manit-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/skyline-winnipeg-manit-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/skyline-winnipeg-manit-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/aerial-view-looking-so.jpg",
@@ -502,8 +497,8 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/borden-carleton-prince-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/borden-carleton-prince-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/borden-carleton-prince-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/borden-carleton-prince-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/nb-confederation-bridge6.jpg",
@@ -533,8 +528,8 @@
             "September 2008 in New Brunswick",
             "Trans-Canada Highway"
           ],
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/nb-confederation-bridge6-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/nb-confederation-bridge6-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/nb-confederation-bridge6-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/nb-confederation-bridge6-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/official-opening-of-trans-cana.png",
@@ -563,7 +558,7 @@
             "Trans-Canada Highway",
             "Wawa, Ontario"
           ],
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/official-opening-of-trans-cana-small.png"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/official-opening-of-trans-cana-small.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/flickr-paul-bica-early-mist.jpg",
@@ -588,8 +583,8 @@
             "Photographs by Paul Bica",
             "Trans-Canada Highway"
           ],
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/flickr-paul-bica-early-mist-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/flickr-paul-bica-early-mist-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/flickr-paul-bica-early-mist-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/flickr-paul-bica-early-mist-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/aerial-chaplin-lake-saskatchew.jpg",
@@ -621,8 +616,8 @@
             "Trans-Canada Highway",
             "Uploaded by user Jmabel"
           ],
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/aerial-chaplin-lake-saskatchew-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/aerial-chaplin-lake-saskatchew-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/aerial-chaplin-lake-saskatchew-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/aerial-chaplin-lake-saskatchew-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/aerial-pelican-lake-saskatchew.jpg",
@@ -651,8 +646,8 @@
             "Images with annotations",
             "Lakes of Saskatchewan"
           ],
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/aerial-pelican-lake-saskatchew-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/aerial-pelican-lake-saskatchew-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/aerial-pelican-lake-saskatchew-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/aerial-pelican-lake-saskatchew-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/aerial-pelican-lake-saskatchew-1.jpg",
@@ -669,8 +664,8 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/aerial-pelican-lake-saskatchew-1-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/aerial-pelican-lake-saskatchew-1-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/aerial-pelican-lake-saskatchew-1-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/aerial-pelican-lake-saskatchew-1-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/atlantic-watershed-sign-268605.jpg",
@@ -687,8 +682,8 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/atlantic-watershed-sign-268605-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/atlantic-watershed-sign-268605-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/atlantic-watershed-sign-268605-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/atlantic-watershed-sign-268605-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/asphalt-2686070942.jpg",
@@ -705,8 +700,8 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/asphalt-2686070942-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/asphalt-2686070942-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/asphalt-2686070942-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/asphalt-2686070942-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/green-2683589731.jpg",
@@ -723,8 +718,8 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/green-2683589731-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/green-2683589731-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/green-2683589731-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/green-2683589731-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/lake-2683589079.jpg",
@@ -741,8 +736,8 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/lake-2683589079-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/lake-2683589079-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/lake-2683589079-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/lake-2683589079-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/dylan-2680851516.jpg",
@@ -759,8 +754,8 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/dylan-2680851516-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/dylan-2680851516-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/dylan-2680851516-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/dylan-2680851516-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/panneau-lumineux-sur-le-pont-d.jpg",
@@ -777,7 +772,7 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/panneau-lumineux-sur-le-pont-d-small.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/panneau-lumineux-sur-le-pont-d-small.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/plaque-commemorating-opening-o.jpg",
@@ -794,8 +789,8 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/plaque-commemorating-opening-o-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/plaque-commemorating-opening-o-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/plaque-commemorating-opening-o-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/plaque-commemorating-opening-o-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/centre-of-canada-longitude.jpg",
@@ -812,8 +807,8 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/centre-of-canada-longitude-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/centre-of-canada-longitude-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/centre-of-canada-longitude-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/centre-of-canada-longitude-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/japanese-canadian-collection-i.jpg",
@@ -828,8 +823,8 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/japanese-canadian-collection-i-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/japanese-canadian-collection-i-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/japanese-canadian-collection-i-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/japanese-canadian-collection-i-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/peter-lougheed-wildlife-overpa.jpg",
@@ -846,8 +841,8 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/peter-lougheed-wildlife-overpa-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/peter-lougheed-wildlife-overpa-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/peter-lougheed-wildlife-overpa-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/peter-lougheed-wildlife-overpa-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/peter-lougheed-wildlife-overpa-1.jpg",
@@ -864,8 +859,8 @@
           "sourceArticleId": "trans-canada-highway-wk",
           "sourceGeohash4": "cbug",
           "accessedAt": "2026-02-22T03:12:52.297Z",
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/peter-lougheed-wildlife-overpa-1-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/peter-lougheed-wildlife-overpa-1-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/peter-lougheed-wildlife-overpa-1-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/peter-lougheed-wildlife-overpa-1-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/sorrentooverview.jpg",
@@ -891,8 +886,8 @@
             "Sorrento, British Columbia",
             "Trans-Canada Highway"
           ],
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/sorrentooverview-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/sorrentooverview-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/sorrentooverview-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/sorrentooverview-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/shebandowan-2684407710.jpg",
@@ -923,8 +918,8 @@
             "Shebandowan River",
             "Trans-Canada Highway"
           ],
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/shebandowan-2684407710-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/shebandowan-2684407710-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/shebandowan-2684407710-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/shebandowan-2684407710-medium.webp"
         },
         {
           "path": "_m/c/b/u/g/trans-canada-highway-wk/shimmer-2680855506.jpg",
@@ -951,8 +946,8 @@
             "Trans-Canada Highway",
             "Water reflections of lights"
           ],
-          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/shimmer-2680855506-small.jpg",
-          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/shimmer-2680855506-medium.jpg"
+          "smallPath": "_m/c/b/u/g/trans-canada-highway-wk/shimmer-2680855506-small.webp",
+          "mediumPath": "_m/c/b/u/g/trans-canada-highway-wk/shimmer-2680855506-medium.webp"
         },
         {
           "path": "_m/tpc/tr/an/s-/ca/trans-canada-highway/transcanadahwy.png",
@@ -1365,7 +1360,8 @@
             "Wikivoyage banners of Nova Scotia"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/b/u/g/trans-canada-highway-wk/cbug-trans-canada-highway-combined.mp3"
     }
   }
 }

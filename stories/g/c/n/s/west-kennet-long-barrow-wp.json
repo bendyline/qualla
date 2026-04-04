@@ -1,0 +1,157 @@
+{
+  "id": "west-kennet-long-barrow-wp",
+  "source": "wikipedia",
+  "sourceId": "588233",
+  "title": "West Kennet Long Barrow",
+  "slug": "west-kennet-long-barrow",
+  "summary": "One of the largest and most accessible Neolithic chambered tombs in Britain, where at least 46 people were buried over a thousand years of use -- now open to anyone willing to walk up the hill and duck through the entrance.",
+  "content": {
+    "intro": "You can walk inside West Kennet Long Barrow. No ticket, no guide, no opening hours. A path climbs from the road near Silbury Hill, crosses a field, and arrives at a mound of chalk and earth stretching over 100 metres along a hilltop ridge. At the eastern end, massive sarsen stones frame an entrance passage leading to five burial chambers. Duck through, and you are standing in a space where the dead were laid out five thousand years ago. The air is cool. The stone is dry. The silence is absolute.",
+    "sections": [
+      {
+        "title": "The First Farmers' Cathedral",
+        "body": "West Kennet Long Barrow was probably constructed in the thirty-seventh century BC, during Britain's Early Neolithic period. Its builders were among the first farming communities in the British Isles, people who had recently adopted agriculture from continental Europe and were transforming the landscape of southern England. The barrow belongs to the Cotswold-Severn Group, a regional tradition of chambered tomb building found across western Britain. It is one of the largest of its type, its earthen mound stretching approximately 100 metres in length. The tomb was built from local sarsen megaliths and oolitic limestone imported from the Cotswolds, a significant effort suggesting the barrow served a community, not a single family."
+      },
+      {
+        "title": "A Thousand Years of the Dead",
+        "body": "Human remains were placed in the five chambers over an extraordinarily long period, probably spanning more than a millennium. The earliest burials likely date from between 3670 and 3635 BC, followed by an apparent hiatus of over a century. Between 3620 and 3240 BC, the tomb was reused, receiving both human and animal remains. At least 46 individuals have been identified -- men, women, children, and adults -- though the bones were not left in the positions of original burial. Instead, they appear to have been sorted and rearranged, skulls separated from long bones, some elements removed entirely. This practice suggests the tomb was not simply a place to bury the dead but a site where the dead were actively curated, their remains handled and reorganised over generations."
+      },
+      {
+        "title": "Sealed with Stone",
+        "body": "Around 2500 BC, during the transition to the late Neolithic or early Bronze Age, the barrow was deliberately sealed. Enormous sarsen boulders were placed across the entrance, and a forecourt of standing stones was erected in front of it. The chambers were filled with earth, chalk rubble, and a diverse collection of objects including Grooved Ware and Beaker pottery, animal bones, flint tools, and beads. The closing deposits are so rich and varied that archaeologists interpret them as deliberate offerings rather than casual refuse. The sealing appears to have been a significant ceremonial event, marking the end of the barrow's active use after more than a thousand years."
+      },
+      {
+        "title": "Excavation and Openness",
+        "body": "The barrow was first excavated in 1859 by Dr. John Thurnam, who investigated the eastern chambers. More comprehensive work was undertaken in 1955-56 by Stuart Piggott and Richard Atkinson, who excavated the entire chamber area and the forecourt. Their work revealed the complexity and duration of the tomb's use. Today the barrow is managed by English Heritage and stands open and unattended on its hilltop, part of the broader landscape of Neolithic monuments that includes Avebury, Silbury Hill, the Sanctuary, and Windmill Hill -- all within walking distance or line of sight. The accessibility is the point. Where most prehistoric monuments keep visitors at arm's length, West Kennet invites you inside. The experience of standing in a chamber older than the pyramids, with no barrier between you and the stone, is unlike anything else in British archaeology."
+      }
+    ],
+    "flightContext": "Located at 51.408N, 1.850W on a ridge south of the A4 road in Wiltshire, approximately 1.5km south of Silbury Hill. The long mound is visible as a linear earthwork on the hilltop. Nearest airports: Membury Airfield approximately 15nm east, Lyneham (EGDL) approximately 10nm west. Best viewed from 1,500-2,500ft; the barrow, Silbury Hill, and Avebury can all be seen together."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 51.408,
+      "lng": -1.85
+    },
+    "geohash": "gcnsk"
+  },
+  "categories": [
+    "Neolithic sites in Wiltshire",
+    "Chambered long barrows in England",
+    "English Heritage sites in Wiltshire",
+    "World Heritage Sites in England"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 720,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 10502
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "West Kennet Long Barrow - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/West_Kennet_Long_Barrow",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Mound over 100 metres long confirmed",
+        "Five burial chambers confirmed",
+        "At least 46 individuals identified confirmed (some sources say 36-46 depending on reassessment; story uses 'at least 46' which is the most commonly cited figure)",
+        "Construction dated to 37th century BC (c.3670-3635 BC) confirmed",
+        "Cotswold-Severn Group tradition confirmed",
+        "Use spanning more than a millennium confirmed",
+        "Sealed around 2500 BC with Grooved Ware and Beaker pottery confirmed",
+        "First excavated 1859 by Dr John Thurnam confirmed",
+        "1955-56 excavation by Stuart Piggott and Richard Atkinson confirmed",
+        "Managed by English Heritage, open and unattended confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "g/c/n/s/west-kennet-long-barrow-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "tintern-abbey-wp",
+      "title": "Tintern Abbey",
+      "tile": "gcnn",
+      "coordinates": {
+        "lat": 51.697,
+        "lng": -2.68
+      },
+      "distanceKm": 15.2
+    },
+    "n": {
+      "id": "cotswolds-wk",
+      "title": "Cotswolds",
+      "tile": "gcnw",
+      "coordinates": {
+        "lat": 51.761,
+        "lng": -1.888
+      },
+      "distanceKm": 9.6
+    },
+    "ne": {
+      "id": "oxford-castle-wp",
+      "title": "Oxford Castle",
+      "tile": "gcpn",
+      "coordinates": {
+        "lat": 51.7512,
+        "lng": -1.2651
+      },
+      "distanceKm": 12.6
+    },
+    "w": {
+      "id": "clifton-suspension-bridge-wp",
+      "title": "Clifton Suspension Bridge",
+      "tile": "gcnh",
+      "coordinates": {
+        "lat": 51.4545,
+        "lng": -2.6276
+      },
+      "distanceKm": 12.3
+    },
+    "e": {
+      "id": "donnington-castle-wp",
+      "title": "Donnington Castle",
+      "tile": "gcph",
+      "coordinates": {
+        "lat": 51.4197,
+        "lng": -1.3381
+      },
+      "distanceKm": 4.7
+    },
+    "sw": {
+      "id": "glastonbury-abbey-wp",
+      "title": "Glastonbury Abbey",
+      "tile": "gcn4",
+      "coordinates": {
+        "lat": 51.146706,
+        "lng": -2.715006
+      },
+      "distanceKm": 17.7
+    },
+    "s": {
+      "id": "1906-salisbury-rail-crash-wp",
+      "title": "1906 Salisbury Rail Crash",
+      "tile": "gcnd",
+      "coordinates": {
+        "lat": 51.0708,
+        "lng": -1.8042
+      },
+      "distanceKm": 12.8
+    },
+    "se": {
+      "id": "winchester-castle-wp",
+      "title": "Winchester Castle",
+      "tile": "gcp4",
+      "coordinates": {
+        "lat": 51.0618,
+        "lng": -1.32026
+      },
+      "distanceKm": 11.7
+    }
+  }
+}

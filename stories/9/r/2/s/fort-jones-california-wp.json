@@ -153,14 +153,14 @@
       "distanceKm": 33.8
     },
     "w": {
-      "id": "northern-oregon-coast-wk",
-      "title": "Northern Oregon Coast",
-      "tile": "c205",
+      "id": "pixieland-oregon-wp",
+      "title": "Pixieland",
+      "tile": "c0pb",
       "coordinates": {
-        "lat": 45.89,
-        "lng": -123.96
+        "lat": 45.0205,
+        "lng": -123.965
       },
-      "distanceKm": 482.2
+      "distanceKm": 386.2
     },
     "e": {
       "id": "mount-shasta-wilderness-wp",
@@ -206,5 +206,6 @@
   "keywords": [
     "fort-jones",
     "fort-jones-california"
-  ]
+  ],
+  "locationWikipediaPath": "9/r/2/s/fort-jones-california-wp"
 }

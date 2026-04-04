@@ -31,7 +31,7 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-the-cedars-wp",
     "sourceGeohash4": "f253",
-    "smallPath": "_m/f/2/5/3/battle-of-the-cedars-wp/hero-small.jpg"
+    "smallPath": "_m/f/2/5/3/battle-of-the-cedars-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "David Wooster, Esqr. Commander-in-Chief of the Provincial Army against Quebec.jpg",
@@ -67,5 +67,25 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-02-28T12:26:01.371Z"
+  "narration": {
+    "files": [
+      "f253-battle-of-the-cedars-benedict-arnolds-humiliation--flight-context.mp3",
+      "f253-battle-of-the-cedars-benedict-arnolds-humiliation--intro.mp3",
+      "f253-battle-of-the-cedars-benedict-arnolds-humiliation--a-garrison-built-of-rumors.mp3",
+      "f253-battle-of-the-cedars-benedict-arnolds-humiliation--lorimiers-recruitment-drive.mp3",
+      "f253-battle-of-the-cedars-benedict-arnolds-humiliation--surrender-without-a-fight.mp3",
+      "f253-battle-of-the-cedars-benedict-arnolds-humiliation--arnold-gives-chase.mp3",
+      "f253-battle-of-the-cedars-benedict-arnolds-humiliation--courts-martial-and-a-national-historic-site.mp3"
+    ],
+    "durations": {
+      "f253-battle-of-the-cedars-benedict-arnolds-humiliation--flight-context.mp3": 57.22925,
+      "f253-battle-of-the-cedars-benedict-arnolds-humiliation--intro.mp3": 50.870875,
+      "f253-battle-of-the-cedars-benedict-arnolds-humiliation--a-garrison-built-of-rumors.mp3": 62.4677083,
+      "f253-battle-of-the-cedars-benedict-arnolds-humiliation--lorimiers-recruitment-drive.mp3": 60.644375,
+      "f253-battle-of-the-cedars-benedict-arnolds-humiliation--surrender-without-a-fight.mp3": 64.6298333,
+      "f253-battle-of-the-cedars-benedict-arnolds-humiliation--arnold-gives-chase.mp3": 58.9399166,
+      "f253-battle-of-the-cedars-benedict-arnolds-humiliation--courts-martial-and-a-national-historic-site.mp3": 64.9807083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -19,10 +19,8 @@
       "c8tp-big-muddy-badlands-ancient-messages-in-stone.mp3": 48.4385416,
       "c8tp-big-muddy-badlands-wings-over-the-salt-flats.mp3": 48.4678333
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-28T09:03:59.873Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
-  "fetchedAt": "2026-02-22T02:35:42.873Z",
   "hero": {
     "filename": "Castle Butte Panorama.jpg",
     "title": "File:Castle Butte Panorama.jpg",
@@ -48,8 +46,8 @@
     "sourceType": "core",
     "sourceArticleId": "big-muddy-badlands-wp",
     "sourceGeohash4": "c8tp",
-    "smallPath": "_m/c/8/t/p/big-muddy-badlands-wp/hero-small.jpg",
-    "mediumPath": "_m/c/8/t/p/big-muddy-badlands-wp/hero-medium.jpg"
+    "smallPath": "_m/c/8/t/p/big-muddy-badlands-wp/hero-small.webp",
+    "mediumPath": "_m/c/8/t/p/big-muddy-badlands-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Castle Butte Panorama.jpg",
@@ -102,8 +100,8 @@
       "sourceType": "core",
       "sourceArticleId": "big-muddy-badlands-wp",
       "sourceGeohash4": "c8tp",
-      "smallPath": "_m/c/8/t/p/big-muddy-badlands-wp/castle-butte-saskatche-small.jpg",
-      "mediumPath": "_m/c/8/t/p/big-muddy-badlands-wp/castle-butte-saskatche-medium.jpg"
+      "smallPath": "_m/c/8/t/p/big-muddy-badlands-wp/castle-butte-saskatche-small.webp",
+      "mediumPath": "_m/c/8/t/p/big-muddy-badlands-wp/castle-butte-saskatche-medium.webp"
     },
     {
       "filename": "Hole in the Wall Coulee Big Muddy.jpg",
@@ -130,8 +128,8 @@
       "sourceType": "core",
       "sourceArticleId": "big-muddy-badlands-wp",
       "sourceGeohash4": "c8tp",
-      "smallPath": "_m/c/8/t/p/big-muddy-badlands-wp/road-sign-entrance-hol-small.jpg",
-      "mediumPath": "_m/c/8/t/p/big-muddy-badlands-wp/road-sign-entrance-hol-medium.jpg"
+      "smallPath": "_m/c/8/t/p/big-muddy-badlands-wp/road-sign-entrance-hol-small.webp",
+      "mediumPath": "_m/c/8/t/p/big-muddy-badlands-wp/road-sign-entrance-hol-medium.webp"
     },
     {
       "filename": "Big Muddy NWMP Post.jpg",
@@ -155,7 +153,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "big-muddy-badlands-wp",
-      "sourceGeohash4": "c8tp"
+      "sourceGeohash4": "c8tp",
+      "smallPath": "_m/c/8/t/p/big-muddy-badlands-wp/big-muddy-nwmp-post-small.webp"
     }
   ],
   "galleryPaths": [

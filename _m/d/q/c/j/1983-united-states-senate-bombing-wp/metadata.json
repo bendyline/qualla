@@ -25,7 +25,7 @@
     "sourceType": "core",
     "sourceArticleId": "1983-united-states-senate-bombing-wp",
     "sourceGeohash4": "dqcj",
-    "smallPath": "_m/d/q/c/j/1983-united-states-senate-bombing-wp/hero-small.jpg"
+    "smallPath": "_m/d/q/c/j/1983-united-states-senate-bombing-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Capitol 1983 bombing damage.jpeg",
@@ -55,5 +55,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-02-28T05:18:49.979Z"
+  "narration": {
+    "files": [
+      "dqcj-1983-united-states-senate-bombing-flight-context.mp3",
+      "dqcj-1983-united-states-senate-bombing-intro.mp3",
+      "dqcj-1983-united-states-senate-bombing-cold-war-fury-on-the-home-front.mp3",
+      "dqcj-1983-united-states-senate-bombing-a-warning-call-then-silence.mp3",
+      "dqcj-1983-united-states-senate-bombing-a-five-year-hunt.mp3",
+      "dqcj-1983-united-states-senate-bombing-the-corridors-that-closed.mp3"
+    ],
+    "durations": {
+      "dqcj-1983-united-states-senate-bombing-flight-context.mp3": 49.2694583,
+      "dqcj-1983-united-states-senate-bombing-intro.mp3": 48.3543333,
+      "dqcj-1983-united-states-senate-bombing-cold-war-fury-on-the-home-front.mp3": 55.2093333,
+      "dqcj-1983-united-states-senate-bombing-a-warning-call-then-silence.mp3": 60.0345416,
+      "dqcj-1983-united-states-senate-bombing-a-five-year-hunt.mp3": 64.7224583,
+      "dqcj-1983-united-states-senate-bombing-the-corridors-that-closed.mp3": 64.1185
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

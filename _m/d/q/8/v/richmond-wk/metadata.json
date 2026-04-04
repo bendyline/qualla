@@ -25,8 +25,8 @@
     "sourceType": "core",
     "sourceArticleId": "richmond-wk",
     "sourceGeohash4": "dq8v",
-    "smallPath": "_m/d/q/8/v/richmond-wk/hero-small.jpg",
-    "mediumPath": "_m/d/q/8/v/richmond-wk/hero-medium.jpg"
+    "smallPath": "_m/d/q/8/v/richmond-wk/hero-small.webp",
+    "mediumPath": "_m/d/q/8/v/richmond-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Pattern building, Tredegar Iron Works, Richmond, Virginia.JPG",
@@ -80,7 +80,7 @@
       "sourceType": "core",
       "sourceArticleId": "richmond-wk",
       "sourceGeohash4": "dq8v",
-      "smallPath": "_m/d/q/8/v/richmond-wk/skyline-richmond-virgi-small.jpg"
+      "smallPath": "_m/d/q/8/v/richmond-wk/skyline-richmond-virgi-small.webp"
     },
     {
       "filename": "Main Street Station.jpg",
@@ -109,7 +109,7 @@
       "sourceType": "core",
       "sourceArticleId": "richmond-wk",
       "sourceGeohash4": "dq8v",
-      "smallPath": "_m/d/q/8/v/richmond-wk/main-street-station-small.jpg"
+      "smallPath": "_m/d/q/8/v/richmond-wk/main-street-station-small.webp"
     },
     {
       "filename": "Wikivoyage Richmond Map PNG.png",
@@ -133,7 +133,7 @@
       "sourceType": "core",
       "sourceArticleId": "richmond-wk",
       "sourceGeohash4": "dq8v",
-      "smallPath": "_m/d/q/8/v/richmond-wk/wikivoyage-district-ma-small.png"
+      "smallPath": "_m/d/q/8/v/richmond-wk/wikivoyage-district-ma-small.webp"
     },
     {
       "filename": "Richmond Virginia Wikivoyage banner.jpg",
@@ -152,8 +152,8 @@
       "sourceType": "core",
       "sourceArticleId": "richmond-wk",
       "sourceGeohash4": "dq8v",
-      "smallPath": "_m/d/q/8/v/richmond-wk/richmond-virginia-wiki-small.jpg",
-      "mediumPath": "_m/d/q/8/v/richmond-wk/richmond-virginia-wiki-medium.jpg"
+      "smallPath": "_m/d/q/8/v/richmond-wk/richmond-virginia-wiki-small.webp",
+      "mediumPath": "_m/d/q/8/v/richmond-wk/richmond-virginia-wiki-medium.webp"
     },
     {
       "filename": "Edward Francis Burney - Richmond - B1979.12.1003 - Yale Center for British Art.jpg",
@@ -180,7 +180,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "richmond-wk",
-      "sourceGeohash4": "dq8v"
+      "sourceGeohash4": "dq8v",
+      "mediumPath": "_m/d/q/8/v/richmond-wk/edward-francis-burney-richmond-medium.webp",
+      "smallPath": "_m/d/q/8/v/richmond-wk/edward-francis-burney-richmond-small.webp"
     }
   ],
   "galleryPaths": [
@@ -190,7 +192,6 @@
     "_m/d/q/8/v/richmond-wk/richmond-virginia-wiki.jpg",
     "_m/d/q/8/v/richmond-wk/edward-francis-burney-richmond.jpg"
   ],
-  "fetchedAt": "2026-02-22T12:10:07.579Z",
   "updatedAt": "2026-02-22T12:10:08.852Z",
   "narration": {
     "files": [
@@ -211,7 +212,6 @@
       "dq8v-richmond-capital-of-the-confederacy-rising-from-th-craft-beer-capital.mp3": 46.7799166,
       "dq8v-richmond-capital-of-the-confederacy-rising-from-th-old-dominion-capital.mp3": 53.369
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-24T16:47:00.841Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

@@ -119,74 +119,84 @@
   "locationWikipediaPath": "v/6/f/r/dyatlov-pass-incident-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "north-iceland-wk",
-      "title": "North Iceland",
-      "tile": "geej",
+      "id": "ukhta-state-technical-university-wp",
+      "title": "Ukhta State Technical University",
+      "tile": "v5q1",
       "coordinates": {
-        "lat": 65.61068,
-        "lng": -18.04504
+        "lat": 63.556746,
+        "lng": 53.695197
       },
-      "distanceKm": 3562.2
+      "distanceKm": 319.9
     },
     "n": {
-      "id": "laki-eruption-wk",
-      "title": "The Laki Eruption: The Volcano That Changed World History",
-      "tile": "ge7h",
+      "id": "ukhta-wp",
+      "title": "Ukhta",
+      "tile": "v5q1",
       "coordinates": {
-        "lat": 64.0667,
-        "lng": -18.2333
+        "lat": 63.566666666667,
+        "lng": 53.7
       },
-      "distanceKm": 3681.4
+      "distanceKm": 343.3
+    },
+    "ne": {
+      "id": "khantia-mansia-wk",
+      "title": "Khantia-Mansia",
+      "tile": "ve1f",
+      "coordinates": {
+        "lat": 62.25,
+        "lng": 70.166667
+      },
+      "distanceKm": 522
     },
     "w": {
-      "id": "st-petersburg-wk",
-      "title": "St. Petersburg",
-      "tile": "udts",
+      "id": "ukhtpechlag-wp",
+      "title": "Ukhtpechlag",
+      "tile": "v5q1",
       "coordinates": {
-        "lat": 59.9343,
-        "lng": 30.3351
+        "lat": 63.56666666666667,
+        "lng": 53.7
       },
-      "distanceKm": 1555.9
+      "distanceKm": 337.6
     },
     "e": {
-      "id": "battle-of-the-defile-wp",
-      "title": "Battle of the Defile",
-      "tile": "tqzx",
+      "id": "priobskoye-field-wp",
+      "title": "Priobskoye Field",
+      "tile": "vdfk",
       "coordinates": {
-        "lat": 39.29388888888889,
-        "lng": 66.90972222222223
+        "lat": 61.21666667,
+        "lng": 70.76666667
       },
-      "distanceKm": 2543.6
+      "distanceKm": 567.9
     },
     "sw": {
-      "id": "moscow-wk",
-      "title": "Moscow",
-      "tile": "ucft",
+      "id": "voskhod-2-wp",
+      "title": "Voskhod 2",
+      "tile": "v4x6",
       "coordinates": {
-        "lat": 55.7558,
-        "lng": 37.6173
+        "lat": 59.56667,
+        "lng": 55.46667
       },
-      "distanceKm": 1388
+      "distanceKm": 293.2
     },
     "s": {
-      "id": "university-of-turku-wp",
-      "title": "University of Turku",
-      "tile": "u6xz",
+      "id": "perm-regional-museum-wp",
+      "title": "Perm Regional Museum",
+      "tile": "v4rf",
       "coordinates": {
-        "lat": 60.45416666666667,
-        "lng": 22.284722222222225
+        "lat": 58.0187,
+        "lng": 56.2468
       },
-      "distanceKm": 1987.7
+      "distanceKm": 432.2
     },
     "se": {
-      "id": "chelyabinsk-meteor-wk",
-      "title": "The Chelyabinsk Meteor: The Fireball That Shattered a City",
-      "tile": "v3g9",
+      "id": "khanty-mansiysk-wp",
+      "title": "Khanty-Mansiysk",
+      "tile": "vdc5",
       "coordinates": {
-        "lat": 55.1644,
-        "lng": 61.4368
+        "lat": 61,
+        "lng": 69
       },
-      "distanceKm": 711.2
+      "distanceKm": 478.1
     }
   },
   "keywords": [

@@ -69,14 +69,14 @@
   "locationWikipediaPath": "c/2/8/n/galiano-island-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "vancouver-island-wk",
-      "title": "Vancouver Island",
-      "tile": "c0yc",
+      "id": "ballenas-island-light-wp",
+      "title": "Ballenas Island Light",
+      "tile": "c0z8",
       "coordinates": {
-        "lat": 49.5,
-        "lng": -125.5
+        "lat": 49.350556,
+        "lng": -124.160222
       },
-      "distanceKm": 106
+      "distanceKm": 15.3
     },
     "n": {
       "id": "bowen-island-wk",
@@ -99,14 +99,14 @@
       "distanceKm": 50.1
     },
     "w": {
-      "id": "alert-bay-wk",
-      "title": "Alert Bay",
-      "tile": "c0vx",
+      "id": "englishman-river-falls-provincial-park-wp",
+      "title": "Englishman River Falls Provincial Park",
+      "tile": "c0z8",
       "coordinates": {
-        "lat": 50.5856,
-        "lng": -126.9319
+        "lat": 49.2475,
+        "lng": -124.352
       },
-      "distanceKm": 272.3
+      "distanceKm": 37.3
     },
     "e": {
       "id": "eastsound-wk",
@@ -119,14 +119,14 @@
       "distanceKm": 30.6
     },
     "sw": {
-      "id": "kalaupapa-national-historical-park-wk",
-      "title": "Kalaupapa National Historical Park",
-      "tile": "8eb2",
+      "id": "harris-creek-sitka-spruce-wp",
+      "title": "Harris Creek Sitka Spruce",
+      "tile": "c0xs",
       "coordinates": {
-        "lat": 21.1778,
-        "lng": -156.96
+        "lat": 48.679211111111,
+        "lng": -124.21418055556
       },
-      "distanceKm": 4221.1
+      "distanceKm": 8.4
     },
     "s": {
       "id": "butchart-gardens-quarry-wk",

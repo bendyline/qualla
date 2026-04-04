@@ -80,87 +80,89 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "lisbon-wk",
-      "title": "Lisbon",
-      "tile": "eycs",
+      "id": "roman-theatre-merida-wp",
+      "title": "Roman Theatre (Mérida)",
+      "tile": "eygm",
       "coordinates": {
-        "lat": 38.7223,
-        "lng": -9.1393
+        "lat": 38.91536305555555,
+        "lng": -6.3386611111111115
       },
-      "distanceKm": 294.8
+      "distanceKm": 128.7
     },
     "n": {
-      "id": "lisbon-earthquake-wk",
-      "title": "The Lisbon Earthquake: The Disaster That Made Philosophers Question God",
-      "tile": "eycs",
+      "id": "mosque-cathedral-of-cordoba-wp",
+      "title": "Mosque-Cathedral of Cordoba",
+      "tile": "eysx",
       "coordinates": {
-        "lat": 38.7223,
-        "lng": -9.1393
+        "lat": 37.8788654292767,
+        "lng": -4.77934163461387
       },
-      "distanceKm": 338.3
+      "distanceKm": 59.6
     },
     "ne": {
-      "id": "madrid-wk",
-      "title": "Madrid",
-      "tile": "ezjm",
+      "id": "madinat-al-zahra-wp",
+      "title": "Madinat al-Zahra",
+      "tile": "eysx",
       "coordinates": {
-        "lat": 40.4168,
-        "lng": -3.7038
+        "lat": 37.8860804688887,
+        "lng": -4.86778547225732
       },
-      "distanceKm": 310.1
+      "distanceKm": 11.4
     },
     "w": {
-      "id": "seville-wk",
-      "title": "Seville",
-      "tile": "eyes",
+      "id": "roman-amphitheatre-of-italica-wp",
+      "title": "Roman Amphitheatre of Italica",
+      "tile": "eyet",
       "coordinates": {
-        "lat": 37.3891,
-        "lng": -5.9845
+        "lat": 37.44388889,
+        "lng": -6.04666667
       },
-      "distanceKm": 15.6
+      "distanceKm": 11.3
     },
     "e": {
-      "id": "cabo-de-gata-n-jar-natural-park-wk",
-      "title": "Cabo de Gata-Nijar Natural Park",
-      "tile": "eyw9",
+      "id": "calahorra-tower-wp",
+      "title": "Calahorra Tower",
+      "tile": "eysx",
       "coordinates": {
-        "lat": 36.7833,
-        "lng": -2.1
+        "lat": 37.875649012798,
+        "lng": -4.7765885420941
       },
-      "distanceKm": 263.5
+      "distanceKm": 40.6
     },
     "sw": {
-      "id": "casablanca-wk",
-      "title": "Casablanca",
-      "tile": "evfx",
+      "id": "battle-of-guadalete-wp",
+      "title": "Battle of Guadalete",
+      "tile": "eye8",
       "coordinates": {
-        "lat": 33.5731,
-        "lng": -7.5898
+        "lat": 36.6,
+        "lng": -6.21667
       },
-      "distanceKm": 435.8
+      "distanceKm": 77
     },
     "s": {
-      "id": "tangier-wk",
-      "title": "Tangier",
-      "tile": "ey7g",
+      "id": "plaza-de-toros-de-ronda-wp",
+      "title": "Plaza de Toros de Ronda",
+      "tile": "eys3",
       "coordinates": {
-        "lat": 35.7673,
-        "lng": -5.7998
+        "lat": 36.7423672698951,
+        "lng": -5.16706576320705
       },
-      "distanceKm": 169.5
+      "distanceKm": 63.3
     },
     "se": {
-      "id": "granada-wk",
-      "title": "Granada",
-      "tile": "eyt7",
+      "id": "caminito-del-rey-wp",
+      "title": "Caminito del Rey",
+      "tile": "eysd",
       "coordinates": {
-        "lat": 37.1773,
-        "lng": -3.5986
+        "lat": 36.915833,
+        "lng": -4.772778
       },
-      "distanceKm": 117.6
+      "distanceKm": 41.1
     }
   },
   "keywords": [
     "seville-province"
-  ]
+  ],
+  "locationWikipediaPath": "e/y/s/j/province-of-seville-wp",
+  "locationWikivoyagePath": "e/y/s/j/seville-province-wk"
 }

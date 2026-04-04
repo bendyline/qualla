@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "cultural-landscape-of-uramanat-wp",
     "sourceGeohash4": "tn1p",
-    "mediumPath": "_m/t/n/1/p/cultural-landscape-of-uramanat-wp/hero-medium.jpg",
-    "smallPath": "_m/t/n/1/p/cultural-landscape-of-uramanat-wp/hero-small.jpg"
+    "mediumPath": "_m/t/n/1/p/cultural-landscape-of-uramanat-wp/hero-medium.webp",
+    "smallPath": "_m/t/n/1/p/cultural-landscape-of-uramanat-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Uraman Takht.jpg",
@@ -52,5 +52,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T11:56:29.764Z"
+  "narration": {
+    "files": [
+      "tn1p-cultural-landscape-of-uramanat-flight-context.mp3",
+      "tn1p-cultural-landscape-of-uramanat-intro.mp3",
+      "tn1p-cultural-landscape-of-uramanat-architecture-born-from-scarcity.mp3",
+      "tn1p-cultural-landscape-of-uramanat-forty-thousand-years-of-footprints.mp3",
+      "tn1p-cultural-landscape-of-uramanat-empires-passing-through.mp3",
+      "tn1p-cultural-landscape-of-uramanat-living-heritage-on-the-edge.mp3"
+    ],
+    "durations": {
+      "tn1p-cultural-landscape-of-uramanat-flight-context.mp3": 52.4735,
+      "tn1p-cultural-landscape-of-uramanat-intro.mp3": 56.2697916,
+      "tn1p-cultural-landscape-of-uramanat-architecture-born-from-scarcity.mp3": 59.921,
+      "tn1p-cultural-landscape-of-uramanat-forty-thousand-years-of-footprints.mp3": 66.58125,
+      "tn1p-cultural-landscape-of-uramanat-empires-passing-through.mp3": 77.095125,
+      "tn1p-cultural-landscape-of-uramanat-living-heritage-on-the-edge.mp3": 60.6295416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

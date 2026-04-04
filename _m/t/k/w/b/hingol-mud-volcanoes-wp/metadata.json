@@ -26,8 +26,8 @@
     "sourceType": "core",
     "sourceArticleId": "hingol-mud-volcanoes-wp",
     "sourceGeohash4": "tkwb",
-    "mediumPath": "_m/t/k/w/b/hingol-mud-volcanoes-wp/hero-medium.jpg",
-    "smallPath": "_m/t/k/w/b/hingol-mud-volcanoes-wp/hero-small.jpg"
+    "mediumPath": "_m/t/k/w/b/hingol-mud-volcanoes-wp/hero-medium.webp",
+    "smallPath": "_m/t/k/w/b/hingol-mud-volcanoes-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "HangolMudvolcano.JPG",
@@ -83,7 +83,7 @@
       "sourceType": "core",
       "sourceArticleId": "hingol-mud-volcanoes-wp",
       "sourceGeohash4": "tkwb",
-      "smallPath": "_m/t/k/w/b/hingol-mud-volcanoes-wp/hangol-mud-volcano-han-small.jpg"
+      "smallPath": "_m/t/k/w/b/hingol-mud-volcanoes-wp/hangol-mud-volcano-han-small.webp"
     },
     {
       "filename": "HangolMudvolcano3.JPG",
@@ -146,8 +146,8 @@
       "sourceType": "core",
       "sourceArticleId": "hingol-mud-volcanoes-wp",
       "sourceGeohash4": "tkwb",
-      "mediumPath": "_m/t/k/w/b/hingol-mud-volcanoes-wp/view-chandragup-i-mud-medium.jpg",
-      "smallPath": "_m/t/k/w/b/hingol-mud-volcanoes-wp/view-chandragup-i-mud-small.jpg"
+      "mediumPath": "_m/t/k/w/b/hingol-mud-volcanoes-wp/view-chandragup-i-mud-medium.webp",
+      "smallPath": "_m/t/k/w/b/hingol-mud-volcanoes-wp/view-chandragup-i-mud-small.webp"
     }
   ],
   "galleryPaths": [
@@ -155,5 +155,21 @@
     "_m/t/k/w/9/hingol-national-park-wp/hangolmudvolcano3.jpg",
     "_m/t/k/w/b/hingol-mud-volcanoes-wp/view-chandragup-i-mud.jpg"
   ],
-  "fetchedAt": "2026-03-01T11:25:08.283Z"
+  "narration": {
+    "files": [
+      "tkwb-hingol-mud-volcanoes-flight-context.mp3",
+      "tkwb-hingol-mud-volcanoes-intro.mp3",
+      "tkwb-hingol-mud-volcanoes-the-geology-of-gurgling-earth.mp3",
+      "tkwb-hingol-mud-volcanoes-where-sin-meets-sulfur.mp3",
+      "tkwb-hingol-mud-volcanoes-sacred-offerings-in-the-crater.mp3"
+    ],
+    "durations": {
+      "tkwb-hingol-mud-volcanoes-flight-context.mp3": 44.5134583,
+      "tkwb-hingol-mud-volcanoes-intro.mp3": 48.48125,
+      "tkwb-hingol-mud-volcanoes-the-geology-of-gurgling-earth.mp3": 56.3573333,
+      "tkwb-hingol-mud-volcanoes-where-sin-meets-sulfur.mp3": 62.539,
+      "tkwb-hingol-mud-volcanoes-sacred-offerings-in-the-crater.mp3": 53.6662083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -23,7 +23,7 @@
     "sourceType": "core",
     "sourceArticleId": "acadia-national-park-wk",
     "sourceGeohash4": "drzk",
-    "smallPath": "_m/d/r/z/k/acadia-national-park-wk/hero-small.jpg"
+    "smallPath": "_m/d/r/z/k/acadia-national-park-wk/hero-small.webp"
   },
   "thumbnail": {
     "filename": "TENTING AT BLACKWOODS.jpg",
@@ -105,8 +105,8 @@
       "sourceType": "core",
       "sourceArticleId": "acadia-national-park-wk",
       "sourceGeohash4": "drzk",
-      "smallPath": "_m/d/r/z/k/acadia-national-park-wk/sign-hancock-county-ba-small.jpg",
-      "mediumPath": "_m/d/r/z/k/acadia-national-park-wk/sign-hancock-county-ba-medium.jpg"
+      "smallPath": "_m/d/r/z/k/acadia-national-park-wk/sign-hancock-county-ba-small.webp",
+      "mediumPath": "_m/d/r/z/k/acadia-national-park-wk/sign-hancock-county-ba-medium.webp"
     },
     {
       "filename": "Otter Cliffs Radio Station wayside exhibit.jpg",
@@ -128,7 +128,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "acadia-national-park-wk",
-      "sourceGeohash4": "drzk"
+      "sourceGeohash4": "drzk",
+      "mediumPath": "_m/d/r/z/k/acadia-national-park-wk/otter-cliffs-radio-station-way-medium.webp",
+      "smallPath": "_m/d/r/z/k/acadia-national-park-wk/otter-cliffs-radio-station-way-small.webp"
     },
     {
       "filename": "Acadia Porcupine - Flickr - Chris Jackolski.jpg",
@@ -156,7 +158,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "acadia-national-park-wk",
-      "sourceGeohash4": "drzk"
+      "sourceGeohash4": "drzk",
+      "mediumPath": "_m/d/r/z/k/acadia-national-park-wk/acadia-porcupine-flickr-chris--medium.webp",
+      "smallPath": "_m/d/r/z/k/acadia-national-park-wk/acadia-porcupine-flickr-chris--small.webp"
     },
     {
       "filename": "Magaret Todd schooner wide Acadia National Park August 2015.jpg",
@@ -181,7 +185,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "acadia-national-park-wk",
-      "sourceGeohash4": "drzk"
+      "sourceGeohash4": "drzk",
+      "mediumPath": "_m/d/r/z/k/acadia-national-park-wk/magaret-todd-schooner-wide-aca-medium.webp",
+      "smallPath": "_m/d/r/z/k/acadia-national-park-wk/magaret-todd-schooner-wide-aca-small.webp"
     }
   ],
   "galleryPaths": [
@@ -191,7 +197,6 @@
     "_m/d/r/z/k/acadia-national-park-wk/acadia-porcupine-flickr-chris-.jpg",
     "_m/d/r/z/k/acadia-national-park-wk/magaret-todd-schooner-wide-aca.jpg"
   ],
-  "fetchedAt": "2026-02-22T12:38:11.887Z",
   "updatedAt": "2026-02-22T12:38:12.351Z",
   "narration": {
     "files": [
@@ -212,7 +217,6 @@
       "drz7-acadia-national-park-the-living-coast.mp3": 63.048,
       "drz7-acadia-national-park-where-the-trails-go.mp3": 66.744
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:57.926Z"
+    "voice": "unknown"
   }
 }

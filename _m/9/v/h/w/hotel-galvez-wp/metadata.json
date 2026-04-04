@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "hotel-galvez-wp",
     "sourceGeohash4": "9vhw",
-    "smallPath": "_m/9/v/h/w/hotel-galvez-wp/hero-small.jpg",
-    "mediumPath": "_m/9/v/h/w/hotel-galvez-wp/hero-medium.jpg"
+    "smallPath": "_m/9/v/h/w/hotel-galvez-wp/hero-small.webp",
+    "mediumPath": "_m/9/v/h/w/hotel-galvez-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Hotel galvez.jpg",
@@ -117,8 +117,8 @@
       "sourceType": "core",
       "sourceArticleId": "hotel-galvez-wp",
       "sourceGeohash4": "9vhw",
-      "smallPath": "_m/9/v/h/w/hotel-galvez-wp/million-dollar-hotel-g-small.jpg",
-      "mediumPath": "_m/9/v/h/w/hotel-galvez-wp/million-dollar-hotel-g-medium.jpg"
+      "smallPath": "_m/9/v/h/w/hotel-galvez-wp/million-dollar-hotel-g-small.webp",
+      "mediumPath": "_m/9/v/h/w/hotel-galvez-wp/million-dollar-hotel-g-medium.webp"
     },
     {
       "filename": "Relief map of Texas.png",
@@ -158,8 +158,8 @@
       "sourceType": "core",
       "sourceArticleId": "hotel-galvez-wp",
       "sourceGeohash4": "9vhw",
-      "smallPath": "_m/9/v/h/w/hotel-galvez-wp/hotel-galvez-galveston-small.jpg",
-      "mediumPath": "_m/9/v/h/w/hotel-galvez-wp/hotel-galvez-galveston-medium.jpg"
+      "smallPath": "_m/9/v/h/w/hotel-galvez-wp/hotel-galvez-galveston-small.webp",
+      "mediumPath": "_m/9/v/h/w/hotel-galvez-wp/hotel-galvez-galveston-medium.webp"
     },
     {
       "filename": "BeachBoulevardGalvestonPostcard.jpg",
@@ -193,7 +193,6 @@
     "_m/9/v/h/w/hotel-galvez-wp/hotel-galvez-galveston.jpg",
     "_m/9/v/h/w/free-state-of-galveston-wp/galveston-texas-postca.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:01:02.414Z",
   "narration": {
     "files": [
       "9vhw-hotel-galvez-flight-context.mp3",
@@ -211,8 +210,7 @@
       "9vhw-hotel-galvez-war-gangsters-and-ghosts.mp3": 68.39675,
       "9vhw-hotel-galvez-the-queen-endures.mp3": 68.631375
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T08:22:45.177Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T23:01:03.474Z"
 }

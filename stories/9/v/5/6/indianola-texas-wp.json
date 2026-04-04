@@ -170,6 +170,16 @@
       "distanceKm": 135.3
     },
     "sw": {
+      "id": "pasta-de-conchos-mine-disaster-wp",
+      "title": "Pasta de Conchos Mine Disaster",
+      "tile": "9szz",
+      "coordinates": {
+        "lat": 27.9675,
+        "lng": -101.3275
+      },
+      "distanceKm": 422.9
+    },
+    "s": {
       "id": "monterrey-city-wk",
       "title": "Monterrey: Mexico's Industrial Capital Where Mountains Meet Money",
       "tile": "9u8d",
@@ -177,17 +187,7 @@
         "lat": 25.6866,
         "lng": -100.3161
       },
-      "distanceKm": 436.3
-    },
-    "s": {
-      "id": "la-malinche-national-park-wk",
-      "title": "La Malinche National Park",
-      "tile": "9g6m",
-      "coordinates": {
-        "lat": 19.232756,
-        "lng": -98.0323
-      },
-      "distanceKm": 1020.2
+      "distanceKm": 476.6
     },
     "se": {
       "id": "merida-city-wk",
@@ -203,5 +203,6 @@
   "keywords": [
     "indianola",
     "indianola-texas"
-  ]
+  ],
+  "locationWikipediaPath": "9/v/5/6/indianola-texas-wp"
 }

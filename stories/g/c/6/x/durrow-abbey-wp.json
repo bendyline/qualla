@@ -1,0 +1,158 @@
+{
+  "id": "durrow-abbey-wp",
+  "source": "wikipedia",
+  "sourceId": "6709198",
+  "title": "Durrow Abbey",
+  "slug": "durrow-abbey",
+  "summary": "An early medieval monastery founded by Saint Columba where the oldest surviving decorated Gospel book was kept, two earls were murdered six centuries apart, and a New Year's Eve rave once shook the abbey house.",
+  "content": {
+    "intro": "Two murders, six hundred and fifty-three years apart, both on the same patch of Irish ground. In 1186, Hugh de Lacy, the Anglo-Norman Lord of Meath, was killed at Durrow Abbey by one of his own Irish workmen while building a motte from the monastery's stones. In 1839, the 2nd Earl of Norbury was shot dead \"by an assassin, in his own plantation\" on the same estate. The place that Columba founded as a center of peace and learning has an uncanny talent for violence -- and for survival.",
+    "sections": [
+      {
+        "title": "Columba's Noble Monastery",
+        "body": "Saint Columba -- Columcille, the dove of the church -- founded Durrow around the 550s on a site originally called Daru, meaning \"plain of the oaks.\" Some of those pre-medieval oaks still survive along the abbey grounds, among the oldest in Ireland. The Venerable Bede called Durrow Monasterium nobile in Hibernia, and at the height of its influence, Durrow and Armagh were together known as the \"Universities of the West.\" The line of ancient oaks marks the route of the Slighe Mhor, the Great Highway along the Esker Riada, connecting Durrow to the wider network of monastic sites that defined early medieval Ireland. In 630 AD, a synod of Irish clerics gathered nearby at Mag Lena to resolve the contentious controversy over the date of Easter -- a dispute that had fractured Christian communities across the islands."
+      },
+      {
+        "title": "The Book That Survived Everything",
+        "body": "The Book of Durrow, now preserved at Trinity College Dublin, is regarded as the earliest surviving fully decorated Insular Gospel book. Its pages of interlaced animals, spiraling knotwork, and vivid carpet patterns represent a tradition of manuscript illumination that would reach its zenith in the later Book of Kells. The book was at Durrow by 916 at the latest, though scholars have debated for decades whether it was actually created here or brought from elsewhere. It may date from the 7th or 8th century. After the Reformation, the manuscript turned up in the hands of a local farmer -- a casual fate for one of the most significant manuscripts in European art history. That it survived the Viking raids that repeatedly ravaged Durrow, the Norman destruction, and centuries of neglect is itself a kind of miracle."
+      },
+      {
+        "title": "Stone, Cross, and Holy Well",
+        "body": "The extant monuments at Durrow tell a compressed story of early Christian Ireland. Five Early Christian grave slabs lie scattered across the site. A mid-9th-century high cross, its panels carved with biblical scenes and interlace patterns, stands near the church. A complete cross-head, separated from its shaft at some unknown date, is now in the National Museum of Ireland. A holy well, one of many associated with early Irish monastic sites, marks a spot where water and faith intersected. The large ecclesiastical enclosure that surrounds these features hints at the monastery's former scale. The Anglo-Norman motte that Hugh de Lacy built in 1180, cannibalizing the abbey's own stones, still rises from the landscape -- a physical record of conquest layered onto a sacred site."
+      },
+      {
+        "title": "From Raves to Repossession",
+        "body": "Durrow's modern history reads like a dark comedy of institutional confusion. In 1994, the Church of Ireland handed over St Columba's Church on the abbey grounds to the State, which leased the abbey house to the Arts for Peace Foundation at a peppercorn rate of ten euros per year. The charity planned a respite center for children from conflict zones but disputes over maintenance led to a lawsuit against the Office of Public Works in 2016. On New Year's Eve 2018, while the legal dispute festered, the abbey house hosted a rave across six stages with approximately 900 attendees. A second rave was planned for March 2019 but was canceled after local protest. In May 2021, the OPW repossessed the property. The founder of the charity called the police, alleging trespass. The police came, found no offence, and left. Columba's noble monastery endures, as it always has, through whatever indignity history inflicts."
+      }
+    ],
+    "flightContext": "Durrow Abbey is located at 53.326N, 7.520W in County Offaly, about 5 miles north of Tullamore off the N52. From the air, the site is visible as a cluster of ruins, a high cross, and the abbey house set among fields and mature oak trees. The line of oaks marks the route of the ancient Slighe Mhor highway. Nearest airports: Birr Airfield (EIBI) approximately 25 km southwest; Dublin Airport (EIDW) about 100 km east. Recommended viewing altitude: 1,500-2,500 ft for best detail of the monastic enclosure and surrounding landscape."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 53.325952,
+      "lng": -7.51967
+    },
+    "geohash": "gc6xk"
+  },
+  "categories": [
+    "monastery",
+    "medieval",
+    "heritage",
+    "manuscript",
+    "ireland"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 720,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 9493
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Durrow Abbey - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Durrow_Abbey",
+      "accessedAt": "2026-03-16",
+      "claimsVerified": [
+        "Hugh de Lacy killed at Durrow in 1186 confirmed",
+        "Hugh de Lacy built a motte from monastery's stones confirmed (motte built c.1180)",
+        "Book of Durrow at Trinity College Dublin confirmed",
+        "Book of Durrow: earliest surviving fully decorated Insular Gospel book confirmed",
+        "Saint Columba (Columcille) founded Durrow around the 550s confirmed",
+        "Venerable Bede called Durrow 'Monasterium nobile in Hibernia' confirmed",
+        "Book of Durrow at abbey by 916 at latest confirmed",
+        "May 2021 OPW repossession confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 3,
+    "strongOpinions": [
+      "Columba's noble monastery endures, as it always has, through whatever indignity history inflicts"
+    ]
+  },
+  "locationWikipediaPath": "g/c/6/x/durrow-abbey-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "boyle-abbey-wp",
+      "title": "Boyle Abbey",
+      "tile": "gcd5",
+      "coordinates": {
+        "lat": 53.97358333,
+        "lng": -8.29691667
+      },
+      "distanceKm": 42.4
+    },
+    "n": {
+      "id": "fore-abbey-wp",
+      "title": "Fore Abbey",
+      "tile": "gcdc",
+      "coordinates": {
+        "lat": 53.683884,
+        "lng": -7.227162
+      },
+      "distanceKm": 23.2
+    },
+    "ne": {
+      "id": "newgrange-wp",
+      "title": "Newgrange",
+      "tile": "gce3",
+      "coordinates": {
+        "lat": 53.694722,
+        "lng": -6.475556
+      },
+      "distanceKm": 37.7
+    },
+    "w": {
+      "id": "battle-of-aughrim-wp",
+      "title": "Battle of Aughrim",
+      "tile": "gc6p",
+      "coordinates": {
+        "lat": 53.295,
+        "lng": -8.312
+      },
+      "distanceKm": 16.2
+    },
+    "e": {
+      "id": "trim-castle-wp",
+      "title": "Trim Castle",
+      "tile": "gce0",
+      "coordinates": {
+        "lat": 53.554341666667,
+        "lng": -6.7897555555556
+      },
+      "distanceKm": 27.8
+    },
+    "sw": {
+      "id": "kilmacduagh-monastery-wp",
+      "title": "Kilmacduagh Monastery",
+      "tile": "gc3t",
+      "coordinates": {
+        "lat": 53.0498213,
+        "lng": -8.88956
+      },
+      "distanceKm": 53.8
+    },
+    "s": {
+      "id": "leap-castle-wp",
+      "title": "Leap Castle",
+      "tile": "gc6m",
+      "coordinates": {
+        "lat": 53.0281,
+        "lng": -7.8085
+      },
+      "distanceKm": 17.9
+    },
+    "se": {
+      "id": "wicklow-mountains-national-park-wp",
+      "title": "Wicklow Mountains National Park",
+      "tile": "gc7m",
+      "coordinates": {
+        "lat": 53.018,
+        "lng": -6.398
+      },
+      "distanceKm": 43
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "id": "finnv-r-lighthouse-wp",
+  "source": "wikipedia",
+  "sourceId": "30163045",
+  "title": "Finnvaer Lighthouse",
+  "slug": "finnv-r-lighthouse",
+  "summary": "On a tiny island in Norway's exposed Froan archipelago, a squat concrete tower with two black stripes has quietly replaced its wooden predecessor, guiding ships through one of the most dangerous stretches of the Norwegian coast.",
+  "content": {
+    "intro": "Four seconds on, four seconds off. The rhythm is simple and relentless, a pulse of white, red, or green light -- depending on the direction you are approaching from -- that reaches nearly ten nautical miles across the open Norwegian Sea. Finnvaer Lighthouse stands on the small island of Valoya in the Froan archipelago, a scattered chain of islets and skerries off the coast of Froya Municipality in Trondelag county. This is exposed water, far from the sheltered inner passages that make much of the Norwegian coastline navigable. Ships passing through the waters between the Sula Lighthouse to the southwest and the Halten Lighthouse to the northeast have relied on Finnvaer's signal since 1912.",
+    "sections": [
+      {
+        "title": "The Wooden Tower",
+        "body": "The original Finnvaer Lighthouse was completed in 1912, a product of the great era of Norwegian lighthouse construction when the country's vast and treacherous coastline was being systematically illuminated. The tower was a 15-meter square wooden structure, painted white with a red roof -- a design typical of Norwegian coastal lights of the period. It was attached to a multi-story lighthouse keeper's house, because maintaining a light this remote demanded permanent habitation. The keeper and his family lived on Valoya year-round, tending the lamp, maintaining the machinery, and enduring the storms that sweep across the Froan islands with a regularity that makes isolation something more than a metaphor. For seventy-three years, the wooden tower and its keepers held this post."
+      },
+      {
+        "title": "Automation and the New Tower",
+        "body": "In 1985, the old wooden lighthouse was closed and a new automated tower was built right beside it. The replacement is a different kind of structure entirely: a 10.2-meter concrete cylinder, painted white with two black horizontal stripes and a red roof. There is no keeper's house, because there is no keeper. The light operates on solar power, its isophase rhythm -- equal intervals of light and darkness, four seconds each -- controlled by electronics rather than human hands. The new tower sits at 18.4 meters above sea level, and its beam can be seen for 9.8 nautical miles. What took a family and constant maintenance now runs on photovoltaic panels and periodic servicing visits. The transition from manned wooden tower to automated concrete cylinder captures, in miniature, a transformation that reshaped every lighthouse on Norway's coast."
+      },
+      {
+        "title": "A Chain of Lights",
+        "body": "Finnvaer does not stand alone. It occupies a specific position in the chain of navigational lights that guides maritime traffic along the Trondelag coast. Approximately 40 kilometers to the southwest stands the Sula Lighthouse on the island of Sula. About 25 kilometers in the same general direction is the Vingleia Lighthouse. And roughly 18 kilometers to the northeast, the Halten Lighthouse marks the island of Halten. Together, these lights create overlapping zones of visibility that allow vessels to navigate from one signal to the next along this exposed stretch of coast, where the continental shelf drops away and the full force of the Norwegian Sea meets the archipelago. Each lighthouse covers the gaps between its neighbors, and the loss of any single light would leave a dangerous void in the chain."
+      },
+      {
+        "title": "Light on the Edge",
+        "body": "The Froan archipelago is among the outermost inhabited points of the Norwegian coast, a scattering of low islands and bare rock that takes the weather before the mainland does. In summer, the endless daylight of the subarctic renders the lighthouse almost superfluous. In winter, the four-second pulse is a lifeline, cutting through storms and darkness to mark the boundary between navigable water and the rocks that have claimed ships for centuries. From the air, Valoya is a speck in a field of ocean -- the kind of place that seems too small and too exposed to warrant any permanent structure at all. Yet the lighthouse has been here, in one form or another, for over a century. Its persistence says something about the value of a reliable signal in a dangerous place."
+      }
+    ],
+    "flightContext": "Located at 64.07N, 9.11E on the island of Valoya in the Froan archipelago, off the coast of Froya Municipality, Trondelag county. The lighthouse is extremely remote, on the outer edge of the island chain. Best viewed at 1,000-2,000 feet AGL, where the white tower with its distinctive two black horizontal stripes is visible against the dark rock. The Froan islands spread across the sea to the north and west. Nearest airport: Froya Airport (not ICAO coded), a small local field. Trondheim Airport Vaernes (ENVA) is approximately 130 km to the southeast. Orland Air Station (ENOL) is roughly 70 km to the south."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 64.06888889,
+      "lng": 9.11055556
+    },
+    "geohash": "u5qkr"
+  },
+  "categories": [
+    "lighthouses",
+    "maritime-heritage",
+    "coastal",
+    "norway",
+    "trondelag"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-27T00:00:00Z",
+    "wordCount": 720,
+    "readTime": 4,
+    "firstPublished": "2026-03-27T00:00:00Z",
+    "storyNumber": 13609
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Finnvaer Lighthouse - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Finnv%C3%A6r_Lighthouse",
+      "accessedAt": "2026-03-28",
+      "claimsVerified": [
+        "Original lighthouse built 1912 as 15-meter square wooden tower, white with red roof confirmed",
+        "Old tower closed 1985 when new automated tower completed confirmed",
+        "New tower is 10.2-meter concrete cylinder, white with two black horizontal stripes and red roof confirmed",
+        "Located on island of Valoya in Froan archipelago, Froya Municipality confirmed",
+        "Light reaches 9.8 nautical miles confirmed",
+        "Four-second isophase rhythm confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "u/5/q/k/finnv-r-lighthouse-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "hms-glowworm-h92-wp",
+      "title": "HMS Glowworm (H92)",
+      "tile": "u5kw",
+      "coordinates": {
+        "lat": 64.45,
+        "lng": 6.4666666666667
+      },
+      "distanceKm": 95.6
+    },
+    "n": {
+      "id": "namsos-campaign-wp",
+      "title": "Namsos Campaign",
+      "tile": "u72n",
+      "coordinates": {
+        "lat": 64.4693,
+        "lng": 11.4949
+      },
+      "distanceKm": 122.4
+    },
+    "ne": {
+      "id": "kya-lighthouse-wp",
+      "title": "Kya Lighthouse",
+      "tile": "u5rq",
+      "coordinates": {
+        "lat": 64.46388889,
+        "lng": 10.21194444
+      },
+      "distanceKm": 37.4
+    },
+    "w": {
+      "id": "grip-lighthouse-wp",
+      "title": "Grip Lighthouse",
+      "tile": "u5jr",
+      "coordinates": {
+        "lat": 63.23361111,
+        "lng": 7.60916667
+      },
+      "distanceKm": 101.8
+    },
+    "e": {
+      "id": "tautra-abbey-wp",
+      "title": "Tautra Abbey",
+      "tile": "u5r9",
+      "coordinates": {
+        "lat": 63.5841,
+        "lng": 10.622
+      },
+      "distanceKm": 77.6
+    },
+    "sw": {
+      "id": "sletringen-lighthouse-wp",
+      "title": "Sletringen Lighthouse",
+      "tile": "u5mf",
+      "coordinates": {
+        "lat": 63.66611111,
+        "lng": 8.26222222
+      },
+      "distanceKm": 18
+    },
+    "s": {
+      "id": "battle-of-orkdal-wp",
+      "title": "Battle of Orkdal",
+      "tile": "u5nz",
+      "coordinates": {
+        "lat": 63.27503611,
+        "lng": 9.82375278
+      },
+      "distanceKm": 73
+    },
+    "se": {
+      "id": "rein-abbey-norway-wp",
+      "title": "Rein Abbey, Norway",
+      "tile": "u5r1",
+      "coordinates": {
+        "lat": 63.56111111,
+        "lng": 9.93333333
+      },
+      "distanceKm": 35.1
+    }
+  }
+}

@@ -80,6 +80,36 @@
   },
   "directionalNeighbors": {
     "nw": {
+      "id": "konar-sandal-wp",
+      "title": "Konar Sandal",
+      "tile": "tm11",
+      "coordinates": {
+        "lat": 28.4632,
+        "lng": 57.7792
+      },
+      "distanceKm": 95.5
+    },
+    "n": {
+      "id": "2003-bam-earthquake-wp",
+      "title": "2003 Bam Earthquake",
+      "tile": "tm1s",
+      "coordinates": {
+        "lat": 29,
+        "lng": 58.55
+      },
+      "distanceKm": 140.3
+    },
+    "ne": {
+      "id": "2010-zahedan-bombings-wp",
+      "title": "2010 Zahedan Bombings",
+      "tile": "tm5r",
+      "coordinates": {
+        "lat": 29.483333,
+        "lng": 60.866667
+      },
+      "distanceKm": 237.2
+    },
+    "w": {
       "id": "alexandria-carmania-wp",
       "title": "Alexandria Carmania",
       "tile": "tkbw",
@@ -87,47 +117,17 @@
         "lat": 27.949166666666667,
         "lng": 57.299166666666665
       },
-      "distanceKm": 106
-    },
-    "n": {
-      "id": "sarvestan-palace-wp",
-      "title": "Sarvestan Palace",
-      "tile": "tjjy",
-      "coordinates": {
-        "lat": 29.195556,
-        "lng": 53.230833
-      },
-      "distanceKm": 574.9
-    },
-    "ne": {
-      "id": "kharan-desert-wp",
-      "title": "Kharan Desert",
-      "tile": "tkvz",
-      "coordinates": {
-        "lat": 28.01361111111111,
-        "lng": 64.34416666666667
-      },
-      "distanceKm": 485.2
-    },
-    "w": {
-      "id": "fort-nossa-senhora-da-conceicao-wp",
-      "title": "Fort Nossa Senhora da Conceicao",
-      "tile": "tkb4",
-      "coordinates": {
-        "lat": 27.100675,
-        "lng": 56.452127777778
-      },
-      "distanceKm": 193.9
+      "distanceKm": 115.2
     },
     "e": {
-      "id": "chabahar-port-wp",
-      "title": "Chabahar Port",
-      "tile": "tk7p",
+      "id": "zahedan-railway-station-wp",
+      "title": "Zahedan Railway Station",
+      "tile": "tm5r",
       "coordinates": {
-        "lat": 25.3025,
-        "lng": 60.600833333333334
+        "lat": 29.47963,
+        "lng": 60.87467
       },
-      "distanceKm": 272.4
+      "distanceKm": 261.4
     },
     "sw": {
       "id": "jask-wp",
@@ -159,5 +159,6 @@
       },
       "distanceKm": 103.2
     }
-  }
+  },
+  "locationWikipediaPath": "t/k/c/u/hamun-e-jaz-murian-wp"
 }

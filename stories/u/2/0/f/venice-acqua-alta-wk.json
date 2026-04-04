@@ -77,84 +77,84 @@
   "locationWikivoyagePath": "u/2/0/f/venice-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "zurich-wk",
-      "title": "Zurich",
-      "tile": "u0qj",
+      "id": "battle-of-monte-grappa-wp",
+      "title": "Battle of Monte Grappa",
+      "tile": "u20k",
       "coordinates": {
-        "lat": 47.3769,
-        "lng": 8.5417
+        "lat": 45.85,
+        "lng": 11.73333333
       },
-      "distanceKm": 320.5
+      "distanceKm": 23.6
     },
     "n": {
-      "id": "salzburg-wk",
-      "title": "Salzburg",
-      "tile": "u23r",
+      "id": "second-battle-of-the-piave-river-wp",
+      "title": "Second Battle of the Piave River",
+      "tile": "u20s",
       "coordinates": {
-        "lat": 47.8095,
-        "lng": 13.055
+        "lat": 45.830555555556,
+        "lng": 12.209444444444
       },
-      "distanceKm": 238.3
+      "distanceKm": 25.4
     },
     "ne": {
-      "id": "hallstatt-wk",
-      "title": "Hallstatt",
-      "tile": "u23w",
+      "id": "gonars-concentration-camp-wp",
+      "title": "Gonars Concentration Camp",
+      "tile": "u21m",
       "coordinates": {
-        "lat": 47.5622,
-        "lng": 13.6493
+        "lat": 45.896556,
+        "lng": 13.237528
       },
-      "distanceKm": 212.4
+      "distanceKm": 27.9
     },
     "w": {
-      "id": "milan-wk",
-      "title": "Milan",
-      "tile": "u0nd",
+      "id": "scrovegni-chapel-wp",
+      "title": "Scrovegni Chapel",
+      "tile": "u206",
       "coordinates": {
-        "lat": 45.4642,
-        "lng": 9.19
+        "lat": 45.411818,
+        "lng": 11.879536
       },
-      "distanceKm": 215.5
+      "distanceKm": 6.5
     },
     "e": {
-      "id": "zagreb-wk",
-      "title": "Zagreb",
-      "tile": "u25k",
+      "id": "euphrasian-basilica-wp",
+      "title": "Euphrasian Basilica",
+      "tile": "u219",
       "coordinates": {
-        "lat": 45.815,
-        "lng": 15.9819
+        "lat": 45.228611,
+        "lng": 13.593611
       },
-      "distanceKm": 235
+      "distanceKm": 51.4
     },
     "sw": {
-      "id": "leaning-tower-pisa-wk",
-      "title": "The Leaning Tower of Pisa: The Building That's Been Falling for 850 Years",
-      "tile": "spz2",
+      "id": "2012-northern-italy-earthquakes-wp",
+      "title": "2012 Northern Italy Earthquakes",
+      "tile": "spzy",
       "coordinates": {
-        "lat": 43.723,
-        "lng": 10.3966
+        "lat": 44.8,
+        "lng": 11.192
       },
-      "distanceKm": 203.4
+      "distanceKm": 73
     },
     "s": {
-      "id": "rome-wk",
-      "title": "Rome",
-      "tile": "sr2y",
+      "id": "republic-of-rose-island-wp",
+      "title": "Republic of Rose Island",
+      "tile": "srbg",
       "coordinates": {
-        "lat": 41.9,
-        "lng": 12.4833333
+        "lat": 44.180277777778,
+        "lng": 12.622222222222
       },
-      "distanceKm": 364.3
+      "distanceKm": 111.3
     },
     "se": {
-      "id": "split-wk",
-      "title": "Split",
-      "tile": "srex",
+      "id": "plitvice-lakes-national-park-wk",
+      "title": "Plitvice Lakes National Park",
+      "tile": "srgp",
       "coordinates": {
-        "lat": 43.5081,
-        "lng": 16.4402
+        "lat": 44.880445,
+        "lng": 15.616035
       },
-      "distanceKm": 329.9
+      "distanceKm": 207.6
     }
   },
   "keywords": [

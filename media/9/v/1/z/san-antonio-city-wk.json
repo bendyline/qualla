@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/v/1/z/san-antonio-city-wk/9v1y-san-antonio-the-alamo-city-where-texas-identity-wa-intro.mp3",
-        "_m/9/v/1/z/san-antonio-city-wk/9v1y-san-antonio-the-alamo-city-where-texas-identity-wa-flight-context.mp3",
-        "_m/9/v/1/z/san-antonio-city-wk/9v1y-san-antonio-the-alamo-city-where-texas-identity-wa-the-alamo.mp3",
-        "_m/9/v/1/z/san-antonio-city-wk/9v1y-san-antonio-the-alamo-city-where-texas-identity-wa-the-military.mp3",
-        "_m/9/v/1/z/san-antonio-city-wk/9v1y-san-antonio-the-alamo-city-where-texas-identity-wa-the-missions.mp3",
-        "_m/9/v/1/z/san-antonio-city-wk/9v1y-san-antonio-the-alamo-city-where-texas-identity-wa-the-river-walk.mp3",
-        "_m/9/v/1/z/san-antonio-city-wk/9v1y-san-antonio-the-alamo-city-where-texas-identity-wa-visiting-san-antonio.mp3"
+        "_m/9/v/1/z/san-antonio-city-wk/9v1z-san-antonio-the-alamo-city-where-texas-identity-wa-flight-context.mp3",
+        "_m/9/v/1/z/san-antonio-city-wk/9v1z-san-antonio-the-alamo-city-where-texas-identity-wa-intro.mp3",
+        "_m/9/v/1/z/san-antonio-city-wk/9v1z-san-antonio-the-alamo-city-where-texas-identity-wa-the-alamo.mp3",
+        "_m/9/v/1/z/san-antonio-city-wk/9v1z-san-antonio-the-alamo-city-where-texas-identity-wa-the-river-walk.mp3",
+        "_m/9/v/1/z/san-antonio-city-wk/9v1z-san-antonio-the-alamo-city-where-texas-identity-wa-the-missions.mp3",
+        "_m/9/v/1/z/san-antonio-city-wk/9v1z-san-antonio-the-alamo-city-where-texas-identity-wa-the-military.mp3",
+        "_m/9/v/1/z/san-antonio-city-wk/9v1z-san-antonio-the-alamo-city-where-texas-identity-wa-visiting-san-antonio.mp3"
       ],
       "hero": {
         "path": "_m/9/v/1/z/san-antonio-wk/picture-san-antonio-in.jpg",
@@ -33,7 +33,9 @@
           "License migration redundant",
           "San Antonio International Airport",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/9/v/1/z/san-antonio-city-wk/hero-medium.webp",
+        "smallPath": "_m/9/v/1/z/san-antonio-city-wk/hero-small.webp"
       },
       "images": [
         {
@@ -707,7 +709,8 @@
           "sourceGeohash4": "9v1z",
           "accessedAt": "2026-02-21T22:34:58.227Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/v/1/z/san-antonio-city-wk/9v1z-san-antonio-city-combined.mp3"
     }
   }
 }

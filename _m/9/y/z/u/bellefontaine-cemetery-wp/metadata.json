@@ -28,8 +28,8 @@
     "sourceType": "core",
     "sourceArticleId": "bellefontaine-cemetery-wp",
     "sourceGeohash4": "9yzu",
-    "smallPath": "_m/9/y/z/u/bellefontaine-cemetery-wp/hero-small.jpg",
-    "mediumPath": "_m/9/y/z/u/bellefontaine-cemetery-wp/hero-medium.jpg"
+    "smallPath": "_m/9/y/z/u/bellefontaine-cemetery-wp/hero-small.webp",
+    "mediumPath": "_m/9/y/z/u/bellefontaine-cemetery-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Wainwright Tomb 2013.jpg",
@@ -87,7 +87,7 @@
       "sourceType": "core",
       "sourceArticleId": "bellefontaine-cemetery-wp",
       "sourceGeohash4": "9yzu",
-      "smallPath": "_m/9/y/z/u/bellefontaine-cemetery-wp/paramore-family-mausol-small.jpg"
+      "smallPath": "_m/9/y/z/u/bellefontaine-cemetery-wp/paramore-family-mausol-small.webp"
     },
     {
       "filename": "Busch Mausoleum 2013.jpg",
@@ -120,8 +120,8 @@
       "sourceType": "core",
       "sourceArticleId": "bellefontaine-cemetery-wp",
       "sourceGeohash4": "9yzu",
-      "smallPath": "_m/9/y/z/u/bellefontaine-cemetery-wp/photo-adolphus-busch-s-small.jpg",
-      "mediumPath": "_m/9/y/z/u/bellefontaine-cemetery-wp/photo-adolphus-busch-s-medium.jpg"
+      "smallPath": "_m/9/y/z/u/bellefontaine-cemetery-wp/photo-adolphus-busch-s-small.webp",
+      "mediumPath": "_m/9/y/z/u/bellefontaine-cemetery-wp/photo-adolphus-busch-s-medium.webp"
     },
     {
       "filename": "David R. Francis Grave 2013.jpg",
@@ -152,8 +152,8 @@
       "sourceType": "core",
       "sourceArticleId": "bellefontaine-cemetery-wp",
       "sourceGeohash4": "9yzu",
-      "smallPath": "_m/9/y/z/u/bellefontaine-cemetery-wp/photo-david-r-francis-small.jpg",
-      "mediumPath": "_m/9/y/z/u/bellefontaine-cemetery-wp/photo-david-r-francis-medium.jpg"
+      "smallPath": "_m/9/y/z/u/bellefontaine-cemetery-wp/photo-david-r-francis-small.webp",
+      "mediumPath": "_m/9/y/z/u/bellefontaine-cemetery-wp/photo-david-r-francis-medium.webp"
     },
     {
       "filename": "Bellefontaine Cemetery1.JPG",
@@ -182,7 +182,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "bellefontaine-cemetery-wp",
-      "sourceGeohash4": "9yzu"
+      "sourceGeohash4": "9yzu",
+      "smallPath": "_m/9/y/z/u/bellefontaine-cemetery-wp/bellefontaine-cemetery1-small.webp"
     },
     {
       "filename": "Bellefontaine Cemetery2.JPG",
@@ -205,7 +206,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "bellefontaine-cemetery-wp",
-      "sourceGeohash4": "9yzu"
+      "sourceGeohash4": "9yzu",
+      "smallPath": "_m/9/y/z/u/bellefontaine-cemetery-wp/bellefontaine-cemetery2-small.webp"
     },
     {
       "filename": "BuschMaus.jpg",
@@ -233,7 +235,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "bellefontaine-cemetery-wp",
-      "sourceGeohash4": "9yzu"
+      "sourceGeohash4": "9yzu",
+      "smallPath": "_m/9/y/z/u/bellefontaine-cemetery-wp/buschmaus-small.webp"
     },
     {
       "filename": "Bellefontaine Cemetery.jpg",
@@ -259,7 +262,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "bellefontaine-cemetery-wp",
-      "sourceGeohash4": "9yzu"
+      "sourceGeohash4": "9yzu",
+      "smallPath": "_m/9/y/z/u/bellefontaine-cemetery-wp/bellefontaine-cemetery-small.webp"
     },
     {
       "filename": "Guardian Angel Bellefontaine Cemetery.jpg",
@@ -276,7 +280,9 @@
       "dateCreated": "November 13, 2016",
       "sourceType": "commons-category",
       "sourceArticleId": "bellefontaine-cemetery-wp",
-      "sourceGeohash4": "9yzu"
+      "sourceGeohash4": "9yzu",
+      "mediumPath": "_m/9/y/z/u/bellefontaine-cemetery-wp/guardian-angel-bellefontaine-c-medium.webp",
+      "smallPath": "_m/9/y/z/u/bellefontaine-cemetery-wp/guardian-angel-bellefontaine-c-small.webp"
     }
   ],
   "galleryPaths": [
@@ -289,7 +295,6 @@
     "_m/9/y/z/u/bellefontaine-cemetery-wp/bellefontaine-cemetery.jpg",
     "_m/9/y/z/u/bellefontaine-cemetery-wp/guardian-angel-bellefontaine-c.jpg"
   ],
-  "fetchedAt": "2026-02-22T01:35:24.831Z",
   "updatedAt": "2026-02-22T01:35:25.917Z",
   "narration": {
     "files": [
@@ -308,7 +313,6 @@
       "9yzu-bellefontaine-cemetery-sullivans-tomb.mp3": 57.53475,
       "9yzu-bellefontaine-cemetery-a-living-landscape.mp3": 69.2134166
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T05:09:56.397Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

@@ -25,8 +25,8 @@
     "sourceType": "core",
     "sourceArticleId": "wall-street-bombing-wk",
     "sourceGeohash4": "dr5r",
-    "smallPath": "_m/d/r/5/r/wall-street-bombing-wk/hero-small.jpg",
-    "mediumPath": "_m/d/r/5/r/wall-street-bombing-wk/hero-medium.jpg"
+    "smallPath": "_m/d/r/5/r/wall-street-bombing-wk/hero-small.webp",
+    "mediumPath": "_m/d/r/5/r/wall-street-bombing-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Wallstreetbomb.jpg",
@@ -79,8 +79,8 @@
       "sourceType": "core",
       "sourceArticleId": "wall-street-bombing-wk",
       "sourceGeohash4": "dr5r",
-      "smallPath": "_m/d/r/5/r/wall-street-bombing-wk/new-york-times-front-p-small.jpg",
-      "mediumPath": "_m/d/r/5/r/wall-street-bombing-wk/new-york-times-front-p-medium.jpg"
+      "smallPath": "_m/d/r/5/r/wall-street-bombing-wk/new-york-times-front-p-small.webp",
+      "mediumPath": "_m/d/r/5/r/wall-street-bombing-wk/new-york-times-front-p-medium.webp"
     },
     {
       "filename": "Wall Street bombing 1920 damage1.jpg",
@@ -105,7 +105,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "wall-street-bombing-wk",
-      "sourceGeohash4": "dr5r"
+      "sourceGeohash4": "dr5r",
+      "mediumPath": "_m/d/r/5/r/wall-street-bombing-wk/wall-street-bombing-1920-damag-medium.webp",
+      "smallPath": "_m/d/r/5/r/wall-street-bombing-wk/wall-street-bombing-1920-damag-small.webp"
     },
     {
       "filename": "Wall Street bombing 1920 damage2.jpg",
@@ -130,7 +132,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "wall-street-bombing-wk",
-      "sourceGeohash4": "dr5r"
+      "sourceGeohash4": "dr5r",
+      "mediumPath": "_m/d/r/5/r/wall-street-bombing-wk/wall-street-bombing-1920-damag-1-medium.webp",
+      "smallPath": "_m/d/r/5/r/wall-street-bombing-wk/wall-street-bombing-1920-damag-1-small.webp"
     },
     {
       "filename": "WallStexplosion1920.jpg",
@@ -157,7 +161,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "wall-street-bombing-wk",
-      "sourceGeohash4": "dr5r"
+      "sourceGeohash4": "dr5r",
+      "mediumPath": "_m/d/r/5/r/wall-street-bombing-wk/wallstexplosion1920-medium.webp",
+      "smallPath": "_m/d/r/5/r/wall-street-bombing-wk/wallstexplosion1920-small.webp"
     },
     {
       "filename": "USA 138.jpg",
@@ -174,7 +180,9 @@
       "dateCreated": "2008-10-27",
       "sourceType": "commons-category",
       "sourceArticleId": "wall-street-bombing-wk",
-      "sourceGeohash4": "dr5r"
+      "sourceGeohash4": "dr5r",
+      "mediumPath": "_m/d/r/5/r/wall-street-bombing-wk/usa-138-medium.webp",
+      "smallPath": "_m/d/r/5/r/wall-street-bombing-wk/usa-138-small.webp"
     },
     {
       "filename": "Wall Street bombing 1920 wreckage.jpg",
@@ -190,7 +198,8 @@
       "dateCreated": "1920-09-16",
       "sourceType": "commons-category",
       "sourceArticleId": "wall-street-bombing-wk",
-      "sourceGeohash4": "dr5r"
+      "sourceGeohash4": "dr5r",
+      "smallPath": "_m/d/r/5/r/wall-street-bombing-wk/wall-street-bombing-1920-wreck-small.webp"
     }
   ],
   "galleryPaths": [
@@ -201,7 +210,6 @@
     "_m/d/r/5/r/wall-street-bombing-wk/usa-138.jpg",
     "_m/d/r/5/r/wall-street-bombing-wk/wall-street-bombing-1920-wreck.jpg"
   ],
-  "fetchedAt": "2026-02-22T12:26:22.942Z",
   "narration": {
     "files": [
       "dr5r-the-wall-street-bombing-americas-first-major-terro-flight-context.mp3",
@@ -221,8 +229,7 @@
       "dr5r-the-wall-street-bombing-americas-first-major-terro-the-investigation.mp3": 46.5305833,
       "dr5r-the-wall-street-bombing-americas-first-major-terro-the-legacy.mp3": 47.7457083
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-25T07:38:42.734Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T12:26:25.266Z"
 }

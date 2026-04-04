@@ -76,87 +76,90 @@
   "locationWikivoyagePath": "d/e/2/c/san-juan-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "labadee-wk",
-      "title": "Labadee",
-      "tile": "d7s8",
+      "id": "1943-puerto-rico-earthquake-wp",
+      "title": "1943 Puerto Rico Earthquake",
+      "tile": "de27",
       "coordinates": {
-        "lat": 19.786389,
-        "lng": -72.245556
+        "lat": 18.907,
+        "lng": -67.118
       },
-      "distanceKm": 582
+      "distanceKm": 35.5
     },
     "n": {
-      "id": "bermuda-triangle-wk",
-      "title": "The Bermuda Triangle: Where Ships and Planes Vanish",
-      "tile": "dkmw",
+      "id": "puerto-rico-trench-wp",
+      "title": "Puerto Rico Trench",
+      "tile": "de88",
       "coordinates": {
-        "lat": 25,
-        "lng": -71
+        "lat": 19.835833333333,
+        "lng": -66.754444444444
       },
-      "distanceKm": 843.7
+      "distanceKm": 125
     },
     "ne": {
-      "id": "sea-venture-wk",
-      "title": "Sea Venture: The Shipwreck That Founded Bermuda",
-      "tile": "dtf0",
+      "id": "uss-iowa-turret-explosion-wp",
+      "title": "USS Iowa Turret Explosion",
+      "tile": "deg6",
       "coordinates": {
-        "lat": 32.3617,
-        "lng": -64.6867
+        "lat": 21.54,
+        "lng": -62.84
       },
-      "distanceKm": 1510.7
+      "distanceKm": 428.9
     },
     "w": {
-      "id": "bermuda-triangle-mystery-wk",
-      "title": "Bermuda Triangle: The Mystery That Wasn't There",
-      "tile": "dkmw",
+      "id": "parque-nacional-de-las-cavernas-del-rio-camuy-wp",
+      "title": "Parque Nacional de las Cavernas del Río Camuy",
+      "tile": "de22",
       "coordinates": {
-        "lat": 25,
-        "lng": -71
+        "lat": 18.325555555556,
+        "lng": -66.838055555556
       },
-      "distanceKm": 838.6
+      "distanceKm": 24.8
     },
     "e": {
-      "id": "amazon-tall-tower-observatory-wp",
-      "title": "Amazon Tall Tower Observatory",
-      "tile": "6xw5",
+      "id": "northeast-ecological-corridor-wp",
+      "title": "Northeast Ecological Corridor",
+      "tile": "de32",
       "coordinates": {
-        "lat": -2.143,
-        "lng": -59.001
+        "lat": 18.35,
+        "lng": -65.65
       },
-      "distanceKm": 2415.8
+      "distanceKm": 23.8
     },
     "sw": {
-      "id": "port-royal-pirates-wk",
-      "title": "Port Royal: The Wickedest City on Earth, Swallowed by the Sea",
-      "tile": "d71q",
+      "id": "hacienda-lealtad-wp",
+      "title": "Hacienda Lealtad",
+      "tile": "de0r",
       "coordinates": {
-        "lat": 17.94,
-        "lng": -76.8407
+        "lat": 18.2332883,
+        "lng": -66.8840655
       },
-      "distanceKm": 1062
+      "distanceKm": 10.6
     },
     "s": {
-      "id": "port-royal-sunken-wk",
-      "title": "Port Royal: When the Wickedest City on Earth Sank Into the Sea",
-      "tile": "d71q",
+      "id": "san-cristobal-canyon-wp",
+      "title": "San Cristobal Canyon",
+      "tile": "de0z",
       "coordinates": {
-        "lat": 17.9353,
-        "lng": -76.8407
+        "lat": 18.16913,
+        "lng": -66.29156
       },
-      "distanceKm": 1117.7
+      "distanceKm": 12.7
     },
     "se": {
-      "id": "mt-pelee-wk",
-      "title": "The Eruption of Mount Pelée: 30,000 Dead in Two Minutes",
-      "tile": "dds7",
+      "id": "roosevelt-roads-naval-station-wp",
+      "title": "Roosevelt Roads Naval Station",
+      "tile": "de1r",
       "coordinates": {
-        "lat": 14.7402,
-        "lng": -61.1779
+        "lat": 18.245113,
+        "lng": -65.64342
       },
-      "distanceKm": 625.9
+      "distanceKm": 11.2
     }
   },
   "keywords": [
     "old-san-juan-el-morro"
+  ],
+  "duplicates": [
+    "castillo-san-felipe-del-morro-wp"
   ]
 }

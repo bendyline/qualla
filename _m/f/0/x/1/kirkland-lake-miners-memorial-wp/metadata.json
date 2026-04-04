@@ -25,8 +25,8 @@
     "sourceType": "core",
     "sourceArticleId": "kirkland-lake-miners-memorial-wp",
     "sourceGeohash4": "f0x1",
-    "mediumPath": "_m/f/0/x/1/kirkland-lake-miners-memorial-wp/hero-medium.jpg",
-    "smallPath": "_m/f/0/x/1/kirkland-lake-miners-memorial-wp/hero-small.jpg"
+    "mediumPath": "_m/f/0/x/1/kirkland-lake-miners-memorial-wp/hero-medium.webp",
+    "smallPath": "_m/f/0/x/1/kirkland-lake-miners-memorial-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Kirkland Lake monument.jpg",
@@ -80,13 +80,33 @@
       "sourceType": "commons-category",
       "sourceArticleId": "kirkland-lake-miners-memorial-wp",
       "sourceGeohash4": "f0x1",
-      "mediumPath": "_m/f/0/x/1/kirkland-lake-miners-memorial-wp/miners-memorial-1-medium.jpg",
-      "smallPath": "_m/f/0/x/1/kirkland-lake-miners-memorial-wp/miners-memorial-1-small.jpg"
+      "mediumPath": "_m/f/0/x/1/kirkland-lake-miners-memorial-wp/miners-memorial-1-medium.webp",
+      "smallPath": "_m/f/0/x/1/kirkland-lake-miners-memorial-wp/miners-memorial-1-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/f/0/x/1/kirkland-lake-miners-memorial-wp/miners-memorial-1.jpg"
   ],
-  "fetchedAt": "2026-02-28T11:34:17.586Z",
-  "updatedAt": "2026-02-28T11:34:19.019Z"
+  "updatedAt": "2026-02-28T11:34:19.019Z",
+  "narration": {
+    "files": [
+      "f0x1-kirkland-lake-miners-memorial-flight-context.mp3",
+      "f0x1-kirkland-lake-miners-memorial-intro.mp3",
+      "f0x1-kirkland-lake-miners-memorial-seven-mines-and-a-golden-era.mp3",
+      "f0x1-kirkland-lake-miners-memorial-bingo-cards-and-volunteer-shifts.mp3",
+      "f0x1-kirkland-lake-miners-memorial-bronze-figures-made-in-the-likeness-of-real-miners.mp3",
+      "f0x1-kirkland-lake-miners-memorial-standing-on-oakes-ground.mp3",
+      "f0x1-kirkland-lake-miners-memorial-a-towns-front-door.mp3"
+    ],
+    "durations": {
+      "f0x1-kirkland-lake-miners-memorial-flight-context.mp3": 46.6075833,
+      "f0x1-kirkland-lake-miners-memorial-intro.mp3": 41.8189583,
+      "f0x1-kirkland-lake-miners-memorial-seven-mines-and-a-golden-era.mp3": 58.6349583,
+      "f0x1-kirkland-lake-miners-memorial-bingo-cards-and-volunteer-shifts.mp3": 57.4828333,
+      "f0x1-kirkland-lake-miners-memorial-bronze-figures-made-in-the-likeness-of-real-miners.mp3": 59.816625,
+      "f0x1-kirkland-lake-miners-memorial-standing-on-oakes-ground.mp3": 59.5224583,
+      "f0x1-kirkland-lake-miners-memorial-a-towns-front-door.mp3": 60.6378333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

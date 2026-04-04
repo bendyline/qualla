@@ -54,28 +54,41 @@
       "title": "Gaplaňgyr Nature Reserve - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Gapla%C5%88gyr_Nature_Reserve",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Gaplangyr Nature Reserve on Ustyurt Plateau spur confirmed", "Located in northwest Turkmenistan"]
+      "claimsVerified": [
+        "Gaplangyr Nature Reserve on Ustyurt Plateau spur confirmed",
+        "Located in northwest Turkmenistan"
+      ]
     },
     {
       "type": "verification",
       "title": "Repetek Biosphere State Reserve - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Repetek_Biosphere_State_Reserve",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Repetek reserve in eastern Karakum confirmed", "Goitered gazelle population confirmed as Vulnerable"]
+      "claimsVerified": [
+        "Repetek reserve in eastern Karakum confirmed",
+        "Goitered gazelle population confirmed as Vulnerable"
+      ]
     },
     {
       "type": "verification",
       "title": "Badhyz State Nature Reserve - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Bathyz_Nature_Reserve",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Badhyz reserve in southern Turkmenistan confirmed", "Corrected: onager/Turkmenian kulan subspecies is Endangered (not near-threatened — species-level is Near Threatened but Turkmenian subspecies is Endangered per IUCN 2016)"]
+      "claimsVerified": [
+        "Badhyz reserve in southern Turkmenistan confirmed",
+        "Corrected: onager/Turkmenian kulan subspecies is Endangered (not near-threatened — species-level is Near Threatened but Turkmenian subspecies is Endangered per IUCN 2016)"
+      ]
     },
     {
       "type": "verification",
       "title": "Karakum Desert - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Karakum_Desert",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Corrected: annual precipitation 70-150mm (story had 170mm which is too high)", "Black saxaul and white saxaul species confirmed", "Ecoregion extent confirmed"]
+      "claimsVerified": [
+        "Corrected: annual precipitation 70-150mm (story had 170mm which is too high)",
+        "Black saxaul and white saxaul species confirmed",
+        "Ecoregion extent confirmed"
+      ]
     }
   ],
   "editorial": {
@@ -94,14 +107,14 @@
       "distanceKm": 143.7
     },
     "n": {
-      "id": "halidzor-fortress-wp",
-      "title": "Halidzor Fortress",
-      "tile": "tnbz",
+      "id": "yaghnob-valley-wp",
+      "title": "Yaghnob Valley",
+      "tile": "twcp",
       "coordinates": {
-        "lat": 39.2192,
-        "lng": 46.3533
+        "lat": 39.2,
+        "lng": 69
       },
-      "distanceKm": 1169.6
+      "distanceKm": 780.3
     },
     "ne": {
       "id": "battle-of-the-defile-wp",
@@ -156,12 +169,13 @@
     "se": {
       "id": "bactria-margiana-archaeological-complex-wp",
       "title": "Bactria-Margiana Archaeological Complex",
-      "tile": "tqts",
+      "tile": "tqg9",
       "coordinates": {
         "lat": 38.233333333333,
         "lng": 61.45
       },
       "distanceKm": 98.4
     }
-  }
+  },
+  "locationWikipediaPath": "t/q/f/t/central-asian-southern-desert-wp"
 }

@@ -110,48 +110,48 @@
   "locationWikivoyagePath": "k/z/f/j/aberdare-national-park-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "luxor-wk",
-      "title": "Luxor",
-      "tile": "ssx4",
+      "id": "lake-bogoria-wp",
+      "title": "Lake Bogoria",
+      "tile": "sb19",
       "coordinates": {
-        "lat": 25.6872,
-        "lng": 32.6396
+        "lat": 0.25,
+        "lng": 36.1
       },
-      "distanceKm": 2901.3
+      "distanceKm": 48.9
     },
     "n": {
-      "id": "karnak-temple-wk",
-      "title": "Karnak: The Temple Built by 30 Pharaohs Over 2,000 Years",
-      "tile": "ssx4",
+      "id": "great-rift-valley-kenya-wp",
+      "title": "Great Rift Valley, Kenya",
+      "tile": "sb1f",
       "coordinates": {
-        "lat": 25.7188,
-        "lng": 32.6573
+        "lat": 0.4425,
+        "lng": 36.24
       },
-      "distanceKm": 2912.5
+      "distanceKm": 88.3
     },
     "ne": {
-      "id": "aden-wk",
-      "title": "Aden",
-      "tile": "t420",
+      "id": "nech-sar-national-park-wk",
+      "title": "Nech Sar National Park",
+      "tile": "sc4c",
       "coordinates": {
-        "lat": 12.783333333333,
-        "lng": 45.016666666667
+        "lat": 5.933737,
+        "lng": 37.681285
       },
-      "distanceKm": 1675.4
+      "distanceKm": 680.9
     },
     "w": {
-      "id": "victoria-falls-wk",
-      "title": "Victoria Falls",
-      "tile": "ksf3",
+      "id": "lake-nakuru-national-park-wk",
+      "title": "Lake Nakuru National Park",
+      "tile": "kzct",
       "coordinates": {
-        "lat": -17.9243,
-        "lng": 25.8572
+        "lat": -0.3667,
+        "lng": 36.0833
       },
-      "distanceKm": 2249.6
+      "distanceKm": 16.3
     },
     "e": {
-      "id": "mount-kilimanjaro-wk",
-      "title": "Mount Kilimanjaro",
+      "id": "kilimanjaro-wk",
+      "title": "Kilimanjaro: The Snows That Hemingway Wrote About Are Disappearing",
       "tile": "kz6w",
       "coordinates": {
         "lat": -3.0674,
@@ -160,32 +160,32 @@
       "distanceKm": 292.4
     },
     "sw": {
-      "id": "serengeti-national-park-wk",
-      "title": "Serengeti National Park",
-      "tile": "kz8d",
+      "id": "maasai-mara-national-reserve-wk",
+      "title": "Maasai Mara National Reserve",
+      "tile": "kz8z",
       "coordinates": {
-        "lat": -2.3328,
-        "lng": 34.5667
+        "lat": -1.49,
+        "lng": 35.143889
       },
-      "distanceKm": 257.4
+      "distanceKm": 147.4
     },
     "s": {
-      "id": "nairobi-wk",
-      "title": "Nairobi",
-      "tile": "kzf0",
+      "id": "mount-longonot-national-park-wk",
+      "title": "Mount Longonot National Park",
+      "tile": "kzcf",
       "coordinates": {
-        "lat": -1.2921,
-        "lng": 36.8219
+        "lat": -0.915278,
+        "lng": 36.4569
       },
-      "distanceKm": 66.1
+      "distanceKm": 39.2
     },
     "se": {
-      "id": "kilimanjaro-wk",
-      "title": "Kilimanjaro: The Snows That Hemingway Wrote About Are Disappearing",
+      "id": "kilimanjaro-national-park-wp",
+      "title": "Kilimanjaro National Park",
       "tile": "kz6w",
       "coordinates": {
-        "lat": -3.0674,
-        "lng": 37.3556
+        "lat": -3.0666666666667,
+        "lng": 37.366666666667
       },
       "distanceKm": 263.1
     }

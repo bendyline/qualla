@@ -27,8 +27,8 @@
     "sourceType": "core",
     "sourceArticleId": "great-lakes-aquarium-wp",
     "sourceGeohash4": "cbqd",
-    "smallPath": "_m/c/b/q/d/great-lakes-aquarium-wp/hero-small.jpg",
-    "mediumPath": "_m/c/b/q/d/great-lakes-aquarium-wp/hero-medium.jpg"
+    "smallPath": "_m/c/b/q/d/great-lakes-aquarium-wp/hero-small.webp",
+    "mediumPath": "_m/c/b/q/d/great-lakes-aquarium-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Great Lakes Aquarium.jpg",
@@ -74,7 +74,9 @@
       "dateCreated": "2023-08-19 12:44:36",
       "sourceType": "commons-category",
       "sourceArticleId": "great-lakes-aquarium-wp",
-      "sourceGeohash4": "cbqd"
+      "sourceGeohash4": "cbqd",
+      "mediumPath": "_m/c/b/q/d/great-lakes-aquarium-wp/great-lakes-aquarium-aug-2023-medium.webp",
+      "smallPath": "_m/c/b/q/d/great-lakes-aquarium-wp/great-lakes-aquarium-aug-2023-small.webp"
     },
     {
       "filename": "Great Lakes Aquarium Aug 2023 (cropped).jpg",
@@ -91,14 +93,15 @@
       "dateCreated": "2023-08-19 12:44:36",
       "sourceType": "commons-category",
       "sourceArticleId": "great-lakes-aquarium-wp",
-      "sourceGeohash4": "cbqd"
+      "sourceGeohash4": "cbqd",
+      "mediumPath": "_m/c/b/q/d/great-lakes-aquarium-wp/great-lakes-aquarium-aug-2023--medium.webp",
+      "smallPath": "_m/c/b/q/d/great-lakes-aquarium-wp/great-lakes-aquarium-aug-2023--small.webp"
     }
   ],
   "galleryPaths": [
     "_m/c/b/q/d/great-lakes-aquarium-wp/great-lakes-aquarium-aug-2023.jpg",
     "_m/c/b/q/d/great-lakes-aquarium-wp/great-lakes-aquarium-aug-2023-.jpg"
   ],
-  "fetchedAt": "2026-02-22T03:05:47.254Z",
   "narration": {
     "files": [
       "cbqd-great-lakes-aquarium-flight-context.mp3",
@@ -116,8 +119,7 @@
       "cbqd-great-lakes-aquarium-otters-eagles-and-the-amazon.mp3": 55.80275,
       "cbqd-great-lakes-aquarium-freshwater-in-a-saltwater-world.mp3": 69.0137083
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T11:50:45.607Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T03:05:51.131Z"
 }

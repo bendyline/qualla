@@ -98,46 +98,26 @@
       "distanceKm": 193.6
     },
     "n": {
-      "id": "battle-of-qala-i-jangi-wp",
-      "title": "Battle of Qala-i-Jangi",
-      "tile": "tqx8",
+      "id": "salang-tunnel-wp",
+      "title": "Salang Tunnel",
+      "tile": "tw30",
       "coordinates": {
-        "lat": 36.66666667,
-        "lng": 66.98333333
+        "lat": 35.32208333333333,
+        "lng": 69.02694444444444
       },
-      "distanceKm": 170.7
+      "distanceKm": 155.7
     },
     "ne": {
-      "id": "baotou-wk",
-      "title": "Baotou",
-      "tile": "wrnp",
+      "id": "1982-salang-tunnel-fire-wp",
+      "title": "1982 Salang Tunnel Fire",
+      "tile": "tw30",
       "coordinates": {
-        "lat": 40.656,
-        "lng": 109.834
+        "lat": 35.32219722,
+        "lng": 69.02686667
       },
-      "distanceKm": 3698.1
+      "distanceKm": 108.3
     },
     "w": {
-      "id": "battle-of-andkhud-wp",
-      "title": "Battle of Andkhud",
-      "tile": "tqw6",
-      "coordinates": {
-        "lat": 36.953043,
-        "lng": 65.125258
-      },
-      "distanceKm": 274.1
-    },
-    "e": {
-      "id": "jaipur-wk",
-      "title": "Jaipur",
-      "tile": "tsvc",
-      "coordinates": {
-        "lat": 26.9124,
-        "lng": 75.7873
-      },
-      "distanceKm": 1165.5
-    },
-    "sw": {
       "id": "minaret-of-jam-wp",
       "title": "Minaret of Jam",
       "tile": "tqjg",
@@ -145,27 +125,49 @@
         "lat": 34.396386,
         "lng": 64.515888
       },
-      "distanceKm": 210.6
+      "distanceKm": 215.8
+    },
+    "e": {
+      "id": "fondukistan-monastery-wp",
+      "title": "Fondukistan Monastery",
+      "tile": "tw0y",
+      "coordinates": {
+        "lat": 34.957193,
+        "lng": 68.881672
+      },
+      "distanceKm": 94.2
+    },
+    "sw": {
+      "id": "hotak-dynasty-wp",
+      "title": "Hotak Dynasty",
+      "tile": "tmyg",
+      "coordinates": {
+        "lat": 33,
+        "lng": 66
+      },
+      "distanceKm": 195.5
     },
     "s": {
-      "id": "shrine-of-khwaja-abd-allah-wp",
-      "title": "Shrine of Khwaja Abd Allah",
-      "tile": "tqh7",
+      "id": "palace-of-sultan-mas-ud-iii-wp",
+      "title": "Palace of Sultan Mas'ud III",
+      "tile": "ttbw",
       "coordinates": {
-        "lat": 34.374472,
-        "lng": 62.240472
+        "lat": 33.567747,
+        "lng": 68.442493
       },
-      "distanceKm": 466.7
+      "distanceKm": 156.6
     },
     "se": {
-      "id": "jodhpur-wk",
-      "title": "Jodhpur",
-      "tile": "tsev",
+      "id": "2011-afghanistan-boeing-chinook-shootdown-wp",
+      "title": "2011 Afghanistan Boeing Chinook Shootdown",
+      "tile": "tw0c",
       "coordinates": {
-        "lat": 26.2389,
-        "lng": 73.0243
+        "lat": 34.02278888888889,
+        "lng": 68.78550555555556
       },
-      "distanceKm": 1056.1
+      "distanceKm": 109.1
     }
-  }
+  },
+  "locationWikipediaPath": "t/q/p/y/band-e-amir-national-park-wp",
+  "locationWikivoyagePath": "t/q/p/y/band-e-amir-national-park-wk"
 }

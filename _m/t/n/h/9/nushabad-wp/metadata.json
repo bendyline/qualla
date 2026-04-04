@@ -34,8 +34,8 @@
     "sourceType": "core",
     "sourceArticleId": "nushabad-wp",
     "sourceGeohash4": "tnh9",
-    "mediumPath": "_m/t/n/h/9/nushabad-wp/hero-medium.jpg",
-    "smallPath": "_m/t/n/h/9/nushabad-wp/hero-small.jpg"
+    "mediumPath": "_m/t/n/h/9/nushabad-wp/hero-medium.webp",
+    "smallPath": "_m/t/n/h/9/nushabad-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Underground City of Nooshabad 01.jpg",
@@ -74,5 +74,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T14:04:02.417Z"
+  "narration": {
+    "files": [
+      "tnh9-nushabad-flight-context.mp3",
+      "tnh9-nushabad-intro.mp3",
+      "tnh9-nushabad-the-city-of-cold-tasty-water.mp3",
+      "tnh9-nushabad-architecture-of-survival.mp3",
+      "tnh9-nushabad-traps-for-the-unwelcome.mp3",
+      "tnh9-nushabad-hidden-in-plain-sight.mp3"
+    ],
+    "durations": {
+      "tnh9-nushabad-flight-context.mp3": 41.5285,
+      "tnh9-nushabad-intro.mp3": 38.6505833,
+      "tnh9-nushabad-the-city-of-cold-tasty-water.mp3": 49.3573333,
+      "tnh9-nushabad-architecture-of-survival.mp3": 42.7339166,
+      "tnh9-nushabad-traps-for-the-unwelcome.mp3": 45.6064166,
+      "tnh9-nushabad-hidden-in-plain-sight.mp3": 49.6285
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

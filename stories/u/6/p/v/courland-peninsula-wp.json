@@ -123,14 +123,14 @@
       "distanceKm": 76.5
     },
     "ne": {
-      "id": "st-petersburg-wk",
-      "title": "St. Petersburg",
-      "tile": "udts",
+      "id": "finnish-war-wp",
+      "title": "Finnish War",
+      "tile": "ue02",
       "coordinates": {
-        "lat": 59.9343,
-        "lng": 30.3351
+        "lat": 62,
+        "lng": 22.966666666666665
       },
-      "distanceKm": 510.7
+      "distanceKm": 502.6
     },
     "w": {
       "id": "ventspils-wp",
@@ -185,5 +185,6 @@
   },
   "keywords": [
     "courland-peninsula"
-  ]
+  ],
+  "locationWikipediaPath": "u/6/p/v/courland-peninsula-wp"
 }

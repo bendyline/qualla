@@ -27,8 +27,8 @@
     "sourceType": "core",
     "sourceArticleId": "hohokam-pima-national-monument-wp",
     "sourceGeohash4": "9tbk",
-    "smallPath": "_m/9/t/b/k/hohokam-pima-national-monument-wp/hero-small.jpg",
-    "mediumPath": "_m/9/t/b/k/hohokam-pima-national-monument-wp/hero-medium.jpg"
+    "smallPath": "_m/9/t/b/k/hohokam-pima-national-monument-wp/hero-small.webp",
+    "mediumPath": "_m/9/t/b/k/hohokam-pima-national-monument-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Hohokam Pima National Monument.jpg",
@@ -109,14 +109,14 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "hohokam-pima-national-monument-wp",
-      "sourceGeohash4": "9tbk"
+      "sourceGeohash4": "9tbk",
+      "smallPath": "_m/9/t/b/k/hohokam-pima-national-monument-wp/hohokampima1-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/t/u/r/white-sands-missile-range-wk/hero.jpg",
     "_m/9/t/b/k/hohokam-pima-national-monument-wp/hohokampima1.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:00:43.745Z",
   "narration": {
     "files": [
       "9tbk-hohokam-pima-national-monument-flight-context.mp3",
@@ -134,8 +134,7 @@
       "9tbk-hohokam-pima-national-monument-the-burning.mp3": 53.47025,
       "9tbk-hohokam-pima-national-monument-sacred-ground.mp3": 49.1889166
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-07T22:52:38.489Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:00:44.183Z"
 }

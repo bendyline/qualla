@@ -1,0 +1,159 @@
+{
+  "id": "torridon-wp",
+  "source": "wikipedia",
+  "sourceId": "2020375",
+  "title": "Torridon",
+  "slug": "torridon",
+  "summary": "The mountains around Torridon rise from sea level to over 3,500 feet in a single sweep of billion-year-old sandstone -- a landscape so raw that it hosts one of the world's most punishing triathlons.",
+  "content": {
+    "intro": "The Celtman Extreme Scottish Triathlon begins with a 3.4-kilometre swim in Loch Shieldaig, where the water temperature hovers around 12 degrees Celsius. Then comes a 202-kilometre bike ride through the northwest Highlands. Then a 42-kilometre run, including the ascent of two Munros. The race was first held in 2012 specifically because Torridon and its surroundings offered the kind of terrain that would make even elite athletes question their decisions. The mountains here do not negotiate. Liathach, Beinn Alligin, and Beinn Eighe rise from the shores of the sea lochs in walls of dark Torridonian sandstone, all three exceeding 3,000 feet, with no foothills or gentle approaches to soften the ascent.",
+    "sections": [
+      {
+        "title": "Where the Mountains Meet the Sea",
+        "body": "Torridon sits at the head of Upper Loch Torridon in Wester Ross, approximately 109 miles north of Fort William and 80 miles west of Inverness. The village itself is small -- a scattering of houses along the loch shore -- but the landscape that surrounds it is enormous. The mountains form an amphitheatre of ancient rock: Liathach to the south, its seven-kilometre ridge wall rising over a kilometre from the glen floor; Beinn Alligin to the west, with its distinctive horned profile; and Beinn Eighe to the east, Britain's first National Nature Reserve, established in 1951. These mountains are built from Torridonian sandstone, laid down as sediment roughly a billion years ago and thrust upward by geological forces that shaped the Scottish Highlands into the landscape visible today. The stone is dark reddish-brown, weathering into the terraced, fortress-like profiles that distinguish Torridon from every other mountain area in Britain."
+      },
+      {
+        "title": "A Landscape Stripped to Essentials",
+        "body": "What makes Torridon distinctive is not just the height of its mountains but the completeness of the vertical drop. In most Highland regions, mountains rise from an already elevated plateau. Here, the peaks begin at sea level. The effect is a landscape of startling verticality -- cliffs and ridges soaring directly above the calm water of the sea lochs. Glen Torridon cuts through the mountains in a classic glacial U-shape, its floor almost at sea level, its walls rising steeply on both sides. The A896 road threads through this glen, dwarfed by the scale of the terrain. Trees are sparse. The lower slopes are rough moorland of heather and bog. The upper slopes are bare rock, scoured by ice ages and kept clear by altitude and exposure. It is a landscape stripped to its geological essentials -- stone, water, and sky, with remarkably little in between."
+      },
+      {
+        "title": "Living on the Edge",
+        "body": "Torridon's remoteness is not accidental. The region was depopulated during the Highland Clearances of the nineteenth century, when landlords evicted tenants to make way for sheep farming. The population never recovered. Today the area draws hillwalkers, climbers, and increasingly, participants in endurance events like the Celtman triathlon, which has become one of the most coveted race entries in the world. The National Trust for Scotland manages the Torridon estate, which includes a deer museum and a visitor centre, but the real draw is the landscape itself. In good weather, the views from the Torridon peaks encompass the Outer Hebrides, the Cuillin of Skye, and the distant summits of Sutherland. In bad weather -- which is frequent -- the mountains disappear into cloud and the glen fills with rain driven horizontal by Atlantic winds. Both versions of Torridon are authentic. The mountains do not care which one you get."
+      }
+    ],
+    "flightContext": "Torridon village is located at 57.55°N, 5.51°W at the head of Upper Loch Torridon in Wester Ross. The three major mountains -- Liathach, Beinn Alligin, and Beinn Eighe -- form an amphitheatre around the village and are unmistakable from the air. The sea lochs provide clear navigation reference points. Nearest airports: Inverness (EGPE) approximately 50 nm east; Stornoway (EGPO) approximately 45 nm northwest. Caution: terrain rises steeply from sea level; mountain flying conditions can deteriorate rapidly."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 57.55,
+      "lng": -5.51
+    },
+    "geohash": "gfhp6"
+  },
+  "categories": [
+    "villages",
+    "mountains",
+    "natural-landmarks",
+    "outdoor-recreation"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 680,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 10442
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "CELTMAN! Extreme Scottish Triathlon",
+      "url": "https://cxtri.com/",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Corrected: 'conceived in 2011' → 'first held in 2012' (race launched 2012, not 2011)",
+        "3.4km swim in Loch Shieldaig confirmed (current course distance)",
+        "202km bike ride confirmed",
+        "42km run including Munro ascents confirmed",
+        "Part of XTRI World Tour confirmed"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Beinn Eighe National Nature Reserve - NatureScot",
+      "url": "https://www.nature.scot/enjoying-outdoors/scotlands-national-nature-reserves/beinn-eighe-national-nature-reserve",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Beinn Eighe as Britain's first National Nature Reserve established 1951 confirmed",
+        "Torridon sandstone geological character confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "g/f/h/p/torridon-wp",
+  "locationWikivoyagePath": "g/f/h/p/torridon-wk",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "isle-of-lewis-wp",
+      "title": "Isle of Lewis",
+      "tile": "gf77",
+      "coordinates": {
+        "lat": 58.21,
+        "lng": -6.38
+      },
+      "distanceKm": 48.3
+    },
+    "n": {
+      "id": "suilven-wp",
+      "title": "Suilven",
+      "tile": "gfk6",
+      "coordinates": {
+        "lat": 58.115,
+        "lng": -5.1370694444444
+      },
+      "distanceKm": 36.5
+    },
+    "ne": {
+      "id": "meikle-ferry-disaster-wp",
+      "title": "Meikle Ferry Disaster",
+      "tile": "gfm1",
+      "coordinates": {
+        "lat": 57.85264,
+        "lng": -4.14292
+      },
+      "distanceKm": 46.2
+    },
+    "w": {
+      "id": "the-storr-wp",
+      "title": "The Storr",
+      "tile": "gf5x",
+      "coordinates": {
+        "lat": 57.507106,
+        "lng": -6.183079
+      },
+      "distanceKm": 14.1
+    },
+    "e": {
+      "id": "castle-leod-wp",
+      "title": "Castle Leod",
+      "tile": "gfhz",
+      "coordinates": {
+        "lat": 57.6,
+        "lng": -4.53
+      },
+      "distanceKm": 23.6
+    },
+    "sw": {
+      "id": "high-pasture-cave-wp",
+      "title": "High Pasture Cave",
+      "tile": "gf5t",
+      "coordinates": {
+        "lat": 57.211,
+        "lng": -6.016
+      },
+      "distanceKm": 10.7
+    },
+    "s": {
+      "id": "capture-of-eilean-donan-castle-wp",
+      "title": "Capture of Eilean Donan Castle",
+      "tile": "gfhj",
+      "coordinates": {
+        "lat": 57.27,
+        "lng": -5.52
+      },
+      "distanceKm": 5.7
+    },
+    "se": {
+      "id": "fort-augustus-abbey-wp",
+      "title": "Fort Augustus Abbey",
+      "tile": "gfht",
+      "coordinates": {
+        "lat": 57.14,
+        "lng": -4.68
+      },
+      "distanceKm": 23.4
+    }
+  }
+}

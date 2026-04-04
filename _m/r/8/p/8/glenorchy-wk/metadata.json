@@ -31,12 +31,31 @@
       "sourceType": "poi",
       "sourceArticleId": "glenorchy-wk",
       "sourceGeohash4": "r8p8",
-      "mediumPath": "_m/r/8/p/8/glenorchy-wk/lake-wakatipu-northwest-end-medium.jpg",
-      "smallPath": "_m/r/8/p/8/glenorchy-wk/lake-wakatipu-northwest-end-small.jpg"
+      "mediumPath": "_m/r/8/p/8/glenorchy-wk/lake-wakatipu-northwest-end-medium.webp",
+      "smallPath": "_m/r/8/p/8/glenorchy-wk/lake-wakatipu-northwest-end-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/r/8/p/8/glenorchy-wk/lake-wakatipu-northwest-end.jpg"
   ],
-  "updatedAt": "2026-02-20T07:19:05.534Z"
+  "updatedAt": "2026-02-20T07:19:05.534Z",
+  "narration": {
+    "files": [
+      "r8p8-glenorchy-flight-context.mp3",
+      "r8p8-glenorchy-intro.mp3",
+      "r8p8-glenorchy-where-three-tracks-begin.mp3",
+      "r8p8-glenorchy-the-lake-and-the-light.mp3",
+      "r8p8-glenorchy-small-town-big-backdrop.mp3",
+      "r8p8-glenorchy-the-end-of-the-road.mp3"
+    ],
+    "durations": {
+      "r8p8-glenorchy-flight-context.mp3": 57.6097083,
+      "r8p8-glenorchy-intro.mp3": 44.7714166,
+      "r8p8-glenorchy-where-three-tracks-begin.mp3": 64.9464583,
+      "r8p8-glenorchy-the-lake-and-the-light.mp3": 63.3702083,
+      "r8p8-glenorchy-small-town-big-backdrop.mp3": 61.021375,
+      "r8p8-glenorchy-the-end-of-the-road.mp3": 62.4476666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

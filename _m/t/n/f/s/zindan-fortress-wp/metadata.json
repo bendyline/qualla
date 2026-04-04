@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "zindan-fortress-wp",
     "sourceGeohash4": "tnfs",
-    "mediumPath": "_m/t/n/f/s/zindan-fortress-wp/hero-medium.jpg",
-    "smallPath": "_m/t/n/f/s/zindan-fortress-wp/hero-small.jpg"
+    "mediumPath": "_m/t/n/f/s/zindan-fortress-wp/hero-medium.webp",
+    "smallPath": "_m/t/n/f/s/zindan-fortress-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Dairəvi qala (1).jpg",
@@ -92,8 +92,8 @@
       "sourceType": "core",
       "sourceArticleId": "zindan-fortress-wp",
       "sourceGeohash4": "tnfs",
-      "mediumPath": "_m/t/n/f/s/zindan-fortress-wp/photo-monument-azerbai-medium.jpg",
-      "smallPath": "_m/t/n/f/s/zindan-fortress-wp/photo-monument-azerbai-small.jpg"
+      "mediumPath": "_m/t/n/f/s/zindan-fortress-wp/photo-monument-azerbai-medium.webp",
+      "smallPath": "_m/t/n/f/s/zindan-fortress-wp/photo-monument-azerbai-small.webp"
     },
     {
       "filename": "Dairəvi qala (4).jpg",
@@ -124,8 +124,8 @@
       "sourceType": "core",
       "sourceArticleId": "zindan-fortress-wp",
       "sourceGeohash4": "tnfs",
-      "mediumPath": "_m/t/n/f/s/zindan-fortress-wp/photo-monument-azerbai-1-medium.jpg",
-      "smallPath": "_m/t/n/f/s/zindan-fortress-wp/photo-monument-azerbai-1-small.jpg"
+      "mediumPath": "_m/t/n/f/s/zindan-fortress-wp/photo-monument-azerbai-1-medium.webp",
+      "smallPath": "_m/t/n/f/s/zindan-fortress-wp/photo-monument-azerbai-1-small.webp"
     },
     {
       "filename": "Dairəvi qala (Zindan) - 1747-1786.jpg",
@@ -154,8 +154,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "zindan-fortress-wp",
       "sourceGeohash4": "tnfs",
-      "mediumPath": "_m/t/n/f/s/zindan-fortress-wp/dair-vi-qala-zindan-1747-1786-medium.jpg",
-      "smallPath": "_m/t/n/f/s/zindan-fortress-wp/dair-vi-qala-zindan-1747-1786-small.jpg"
+      "mediumPath": "_m/t/n/f/s/zindan-fortress-wp/dair-vi-qala-zindan-1747-1786-medium.webp",
+      "smallPath": "_m/t/n/f/s/zindan-fortress-wp/dair-vi-qala-zindan-1747-1786-small.webp"
     },
     {
       "filename": "Dairəvi qala (3).jpg",
@@ -184,8 +184,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "zindan-fortress-wp",
       "sourceGeohash4": "tnfs",
-      "mediumPath": "_m/t/n/f/s/zindan-fortress-wp/dair-vi-qala-3-medium.jpg",
-      "smallPath": "_m/t/n/f/s/zindan-fortress-wp/dair-vi-qala-3-small.jpg"
+      "mediumPath": "_m/t/n/f/s/zindan-fortress-wp/dair-vi-qala-3-medium.webp",
+      "smallPath": "_m/t/n/f/s/zindan-fortress-wp/dair-vi-qala-3-small.webp"
     }
   ],
   "galleryPaths": [
@@ -194,6 +194,24 @@
     "_m/t/n/f/s/zindan-fortress-wp/dair-vi-qala-zindan-1747-1786.jpg",
     "_m/t/n/f/s/zindan-fortress-wp/dair-vi-qala-3.jpg"
   ],
-  "fetchedAt": "2026-03-01T13:54:27.830Z",
-  "updatedAt": "2026-03-01T13:54:30.888Z"
+  "updatedAt": "2026-03-01T13:54:30.888Z",
+  "narration": {
+    "files": [
+      "tnfs-zindan-fortress-flight-context.mp3",
+      "tnfs-zindan-fortress-intro.mp3",
+      "tnfs-zindan-fortress-twin-strongholds-on-the-caspian.mp3",
+      "tnfs-zindan-fortress-from-fortress-to-dungeon.mp3",
+      "tnfs-zindan-fortress-reinventions.mp3",
+      "tnfs-zindan-fortress-fragile-survival.mp3"
+    ],
+    "durations": {
+      "tnfs-zindan-fortress-flight-context.mp3": 38.9579583,
+      "tnfs-zindan-fortress-intro.mp3": 40.4988333,
+      "tnfs-zindan-fortress-twin-strongholds-on-the-caspian.mp3": 52.0779583,
+      "tnfs-zindan-fortress-from-fortress-to-dungeon.mp3": 58.9779583,
+      "tnfs-zindan-fortress-reinventions.mp3": 39.8957916,
+      "tnfs-zindan-fortress-fragile-survival.mp3": 43.6610416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

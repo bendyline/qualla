@@ -1,0 +1,153 @@
+{
+  "id": "bremstein-lighthouse-wp",
+  "source": "wikipedia",
+  "sourceId": "33705916",
+  "title": "Bremstein Lighthouse",
+  "slug": "bremstein-lighthouse",
+  "summary": "A red cast-iron sentinel on a remote Norwegian island, Bremstein Lighthouse carries two rare second-order Fresnel lenses and guards the approaches to the Vega archipelago.",
+  "content": {
+    "intro": "Twenty-two kilometers west of the island of Vega, on a rocky outcrop called Geiterøya, a red cast-iron tower with a single white stripe stands against the Norwegian Sea. Bremstein Lighthouse has held this position since 1925, throwing its beam across nearly fifteen nautical miles of open water. What makes it unusual among Norway's many coastal lights is hidden inside: two second-order Fresnel lenses, one for each of its two lights, a configuration rare enough to distinguish it in a country that has over a hundred active lighthouses.",
+    "sections": [
+      {
+        "title": "Light Over Deep Water",
+        "body": "The lighthouse rises 27 meters, placing its main light at an elevation of 41.5 meters above sea level. That height matters along the Nordland coast, where winter storms drive swells into exposed islands and navigation hazards lurk beneath deceptively calm summer surfaces. The main light, rated at 3,370,000 candela, emits three white flashes every 40 seconds -- a distinctive pattern that mariners approaching from any direction can identify. A secondary light, mounted lower on the tower, operates on a different rhythm: occulting three times every 10 seconds, showing white, red, or green depending on the bearing from which a vessel approaches. The color sectors guide ships through safe channels, warning them away from shallow water with the shift from white to red."
+      },
+      {
+        "title": "Two Lenses, One Tower",
+        "body": "Fresnel lenses revolutionized lighthouse technology in the nineteenth century by bending and concentrating light through concentric rings of precisely ground glass. A second-order lens -- the second-largest standard size -- is a substantial piece of optical engineering, standing well over a meter tall and capable of projecting light to the horizon. Most lighthouses carry one. Bremstein carries two, one dedicated to each of its lights. This dual-lens arrangement reflects the station's importance as a coastal light serving the approaches to the Vega archipelago and the shipping lanes along the Nordland coast. Each lens does different work: the upper lens produces the long-range flash pattern, while the lower handles the sector light that provides close-range directional guidance."
+      },
+      {
+        "title": "Iron Against the Atlantic",
+        "body": "Built in 1925, the tower is cast iron -- a material chosen for its ability to withstand the salt-laden winds and punishing seas that characterize this stretch of the Norwegian coast. The red paint with its white horizontal stripe serves a practical purpose beyond aesthetics: it makes the tower identifiable as a daymark, visible against both gray winter skies and the green-brown terrain of Geiterøya. For the keepers who once staffed the station, life on this exposed island was defined by isolation and weather. The nearest settlement lay across 22 kilometers of open sea on the main island of Vega. When the lighthouse was automated in 1980, the keepers left, and Bremstein became one of hundreds of Norwegian lights that now operate without human presence -- maintained by periodic service visits, watched over by nobody."
+      },
+      {
+        "title": "The Archipelago's Outer Guard",
+        "body": "Bremstein sits at the western edge of the Vegaøyan archipelago, a sprawling collection of some 6,500 islands that UNESCO designated a World Heritage Site for the cultural landscape created by centuries of human habitation in an extreme environment. The lighthouse marks the boundary between the relatively sheltered waters around Vega and the open Norwegian Sea beyond. For sailors heading north along the coast or approaching from the west, its flash pattern is the first confirmation of position after long stretches of featureless ocean. Even in the age of GPS and electronic charts, that beam remains a reassurance -- a physical point of light in a landscape where technology can fail and weather can close in without warning."
+      }
+    ],
+    "flightContext": "Located at 65.60°N, 11.29°E on the island of Geiterøya, approximately 22 km west of the main island of Vega in Nordland county, Norway. The red cast-iron tower with white stripe is visible from the air as a distinctive structure on an otherwise barren rocky island. Situated at the western edge of the Vegaøyan UNESCO World Heritage archipelago. Nearest airports are Brønnøysund Airport Brønnøy (ENBN), roughly 50 km to the northeast, and Sandnessjøen Airport Stokka (ENST). Best viewed at 2,000-4,000 ft to spot the tower against the surrounding sea and rock."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 65.596389,
+      "lng": 11.286389
+    },
+    "geohash": "u78j0"
+  },
+  "categories": [
+    "lighthouse",
+    "maritime",
+    "coastal",
+    "heritage"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-27T00:00:00Z",
+    "wordCount": 700,
+    "readTime": 4,
+    "firstPublished": "2026-03-27T00:00:00Z",
+    "storyNumber": 13557
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Bremstein Lighthouse - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bremstein_Lighthouse",
+      "accessedAt": "2026-03-28",
+      "claimsVerified": [
+        "Located on island of Geiterøya, 22 km west of main island of Vega",
+        "Tower rises 27 meters, main light at elevation 41.5 meters above sea level",
+        "Main light rated at 3,370,000 candela, visible for about 14.7 nautical miles",
+        "Two second-order Fresnel lenses, one for each of the two lights",
+        "Built in 1925, automated in 1980",
+        "Red cast-iron tower with white horizontal stripe"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "u/7/8/j/bremstein-lighthouse-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "barrow-whale-bone-arch-wk",
+      "title": "Utqiagvik and the Whale Bone Arch",
+      "tile": "bs8t",
+      "coordinates": {
+        "lat": 71.29,
+        "lng": -156.79
+      },
+      "distanceKm": 4730
+    },
+    "n": {
+      "id": "tr-na-lighthouse-wp",
+      "title": "Træna Lighthouse",
+      "tile": "u7b9",
+      "coordinates": {
+        "lat": 66.4306,
+        "lng": 11.9681
+      },
+      "distanceKm": 62
+    },
+    "ne": {
+      "id": "artscape-nordland-wp",
+      "title": "Artscape Nordland",
+      "tile": "u79p",
+      "coordinates": {
+        "lat": 66.0283,
+        "lng": 12.6939
+      },
+      "distanceKm": 35.7
+    },
+    "w": {
+      "id": "finnv-r-lighthouse-wp",
+      "title": "Finnvaer Lighthouse",
+      "tile": "u5qk",
+      "coordinates": {
+        "lat": 64.06888889,
+        "lng": 9.11055556
+      },
+      "distanceKm": 195.5
+    },
+    "e": {
+      "id": "mv-norsel-1945-wp",
+      "title": "MV Norsel (1945)",
+      "tile": "u78s",
+      "coordinates": {
+        "lat": 65.4,
+        "lng": 11.966666666666667
+      },
+      "distanceKm": 28.3
+    },
+    "sw": {
+      "id": "kya-lighthouse-wp",
+      "title": "Kya Lighthouse",
+      "tile": "u5rq",
+      "coordinates": {
+        "lat": 64.46388889,
+        "lng": 10.21194444
+      },
+      "distanceKm": 108
+    },
+    "s": {
+      "id": "wider-e-flight-744-wp",
+      "title": "Wideroe Flight 744",
+      "tile": "u72q",
+      "coordinates": {
+        "lat": 64.4889,
+        "lng": 11.7083
+      },
+      "distanceKm": 101.1
+    },
+    "se": {
+      "id": "annsjon-wp",
+      "title": "Ånnsjön",
+      "tile": "u70z",
+      "coordinates": {
+        "lat": 63.269444444444,
+        "lng": 12.566111111111
+      },
+      "distanceKm": 237.7
+    }
+  }
+}

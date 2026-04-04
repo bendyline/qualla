@@ -1,0 +1,166 @@
+{
+  "id": "chincha-islands-wp",
+  "source": "wikipedia",
+  "sourceId": "1496684",
+  "title": "Chincha Islands",
+  "slug": "chincha-islands",
+  "summary": "Three small granite islands off Peru's coast that became the unlikely center of a global commodity war, where bird droppings were worth fighting and dying for.",
+  "content": {
+    "intro": "Of all the things nations have gone to war over, bird droppings rank among the strangest. Yet the Chincha Islands -- three small granite outcrops sitting 21 kilometers off Peru's southwest coast near the town of Pisco -- sparked an international conflict, fueled a commodity boom, and witnessed some of the cruelest labor practices of the nineteenth century. The substance at the center of it all was guano, centuries of accumulated seabird excrement that happened to be one of the most potent natural fertilizers ever discovered.",
+    "sections": [
+      {
+        "title": "Three Rocks in the Pacific",
+        "body": "The Chincha Islands are modest by any geographic standard. Isla Chincha Norte, the largest, stretches just 0.8 miles long and 0.6 miles wide, rising to a height of 34 meters. Isla Chincha Centro matches it roughly in size, while Isla Chincha Sur is half as large as either neighbor. All three are granite, bordered on every side by cliffs, and covered with nesting seabirds whose colonies once deposited guano in layers dozens of feet deep. The Chincha people inhabited these islands long before Europeans arrived, though only scattered archaeological remains survive today. What drew the modern world's attention was not the islands themselves but what the birds had left behind over millennia."
+      },
+      {
+        "title": "White Gold and Human Cost",
+        "body": "Peru began exporting guano in 1840, and the Chincha Islands became ground zero for a trade that would reshape global agriculture. The fertilizer was extraordinarily effective, and demand from European and American farmers was insatiable. But mining guano was brutal, dangerous work performed in choking dust and relentless sun. The labor fell largely on Chinese workers, brought to the islands under the coolie system in conditions that amounted to enslavement. A calculation from 1860 offered a grim accounting: of the 4,000 Chinese laborers brought to the Chinchas since the trade began, not a single one had survived. These workers -- lured or coerced from southern China with promises of wages they would never collect -- died of exhaustion, disease, abuse, and despair on islands barely larger than a few city blocks."
+      },
+      {
+        "title": "A War Over Excrement",
+        "body": "Spain, which had never formally recognized Peru's independence, watched the guano profits with growing covetousness. In April 1864, a Spanish naval squadron seized the Chincha Islands, triggering the Chincha Islands War that lasted until 1866. The conflict drew in Chile, Ecuador, and Bolivia as allies of Peru against their former colonial ruler. Spain's occupation was ultimately unsuccessful -- the islands were recovered, and Spain would not formally recognize Peruvian independence until 1879 -- but the war demonstrated just how valuable these tiny, dung-covered rocks had become. By 1874, however, the guano deposits were largely exhausted, and the islands that had driven international diplomacy and warfare returned to the seabirds."
+      },
+      {
+        "title": "Echoes in Literature",
+        "body": "The Chincha Islands left their mark on American literature as well as geopolitics. George Washington Peck chronicled his visit in an 1854 book titled Melbourne, and the Chincha Islands, weaving together observations from two of the most distant corners of his round-the-world voyage. Mark Twain, too, gave the islands a memorable scene in Roughing It, sending his fictional Captain Ned Blakely -- a San Francisco sea captain -- to the Chinchas in command of a guano ship. That writers of Twain's stature found the islands worth including speaks to how deeply the guano trade had entered the nineteenth-century imagination. Today the Chincha Islands sit quietly in the Pacific, part of Peru's Guano Islands, Islets, and Capes National Reserve System, their cliffs once again belonging primarily to the cormorants and boobies that made them famous."
+      }
+    ],
+    "flightContext": "Located at 13.64S, 76.40W, approximately 13 nm off Peru's southwest coast near the town of Pisco. The three islands are visible from medium altitude as small rocky outcrops surrounded by ocean. Nearest significant airport is Pisco (SPSO). The islands lie within Peru's Guano Islands National Reserve System. Seabird colonies are often visible as white patches on the granite cliffs. The coastal desert landscape of the Ica region is visible to the east."
+  },
+  "location": {
+    "coordinates": {
+      "lat": -13.64,
+      "lng": -76.4
+    },
+    "geohash": "6m9dm"
+  },
+  "categories": [
+    "islands",
+    "peru",
+    "guano-trade",
+    "military-history",
+    "colonial-history"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-23T00:00:00Z",
+    "wordCount": 700,
+    "readTime": 4,
+    "firstPublished": "2026-03-23T00:00:00Z",
+    "storyNumber": 11530
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Chincha Islands - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chincha_Islands",
+      "accessedAt": "2026-03-26",
+      "claimsVerified": [
+        "21 km off Peru's southwest coast verified",
+        "three islands named Norte, Centro, Sur verified",
+        "Norte island dimensions ~0.8 x 0.6 miles verified",
+        "guano export began 1840 verified",
+        "Spanish seizure April 1864 verified",
+        "war lasted until 1866 verified",
+        "guano deposits exhausted by 1874 verified",
+        "Spain recognized Peru independence 1879 verified"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Chincha Islands guano labor conditions - Chincha Islands Wikipedia / academic sources",
+      "url": "https://en.wikipedia.org/wiki/Chincha_Islands",
+      "accessedAt": "2026-03-26",
+      "claimsVerified": [
+        "Chinese coolie labor under conditions amounting to enslavement verified",
+        "1860 calculation that of 4,000 Chinese laborers brought, not one had survived verified"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "6/m/9/d/chincha-islands-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "central-restaurante-wp",
+      "title": "Central Restaurante",
+      "tile": "6mc4",
+      "coordinates": {
+        "lat": -12.1325713,
+        "lng": -77.0278678
+      },
+      "distanceKm": 136.5
+    },
+    "n": {
+      "id": "2007-peru-earthquake-wp",
+      "title": "2007 Peru Earthquake",
+      "tile": "6m9s",
+      "coordinates": {
+        "lat": -13.353,
+        "lng": -76.51
+      },
+      "distanceKm": 4.9
+    },
+    "ne": {
+      "id": "accomarca-massacre-wp",
+      "title": "Accomarca massacre",
+      "tile": "6mej",
+      "coordinates": {
+        "lat": -13.1602,
+        "lng": -74.2151
+      },
+      "distanceKm": 187.7
+    },
+    "w": {
+      "id": "capture-of-abimael-guzman-wp",
+      "title": "Capture of Abimael Guzmán",
+      "tile": "6mc5",
+      "coordinates": {
+        "lat": -12.118666666666666,
+        "lng": -77.00066666666666
+      },
+      "distanceKm": 167.3
+    },
+    "e": {
+      "id": "nazca-culture-wp",
+      "title": "Nazca Culture",
+      "tile": "6m6s",
+      "coordinates": {
+        "lat": -14.71666667,
+        "lng": -75.13333333
+      },
+      "distanceKm": 149.3
+    },
+    "sw": {
+      "id": "easter-island-collapse-wk",
+      "title": "Easter Island: The Mystery of Rise and Collapse",
+      "tile": "3e4j",
+      "coordinates": {
+        "lat": -27.1127,
+        "lng": -109.3497
+      },
+      "distanceKm": 3662
+    },
+    "s": {
+      "id": "paracas-national-reserve-wp",
+      "title": "Paracas National Reserve",
+      "tile": "6m3z",
+      "coordinates": {
+        "lat": -14.1,
+        "lng": -76.2
+      },
+      "distanceKm": 37.1
+    },
+    "se": {
+      "id": "huacachina-wk",
+      "title": "Huacachina",
+      "tile": "6m6p",
+      "coordinates": {
+        "lat": -14.0875,
+        "lng": -75.763333333333
+      },
+      "distanceKm": 29.2
+    }
+  }
+}

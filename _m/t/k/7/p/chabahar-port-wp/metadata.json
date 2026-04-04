@@ -26,7 +26,7 @@
     "sourceType": "core",
     "sourceArticleId": "chabahar-port-wp",
     "sourceGeohash4": "tk7p",
-    "smallPath": "_m/t/k/7/p/chabahar-port-wp/hero-small.jpg"
+    "smallPath": "_m/t/k/7/p/chabahar-port-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Launch Boat 2.jpg",
@@ -84,7 +84,7 @@
       "sourceType": "core",
       "sourceArticleId": "chabahar-port-wp",
       "sourceGeohash4": "tk7p",
-      "smallPath": "_m/t/k/7/p/chabahar-port-wp/iranian-rail-network-m-small.png"
+      "smallPath": "_m/t/k/7/p/chabahar-port-wp/iranian-rail-network-m-small.webp"
     },
     {
       "filename": "North South Transport Corridor (NSTC).jpg",
@@ -113,7 +113,7 @@
       "sourceType": "core",
       "sourceArticleId": "chabahar-port-wp",
       "sourceGeohash4": "tk7p",
-      "smallPath": "_m/t/k/7/p/chabahar-port-wp/map-north-south-transp-small.jpg"
+      "smallPath": "_m/t/k/7/p/chabahar-port-wp/map-north-south-transp-small.webp"
     },
     {
       "filename": "محوطه شهیدکلانتری.jpg",
@@ -142,8 +142,8 @@
       "sourceType": "core",
       "sourceArticleId": "chabahar-port-wp",
       "sourceGeohash4": "tk7p",
-      "mediumPath": "_m/t/k/7/p/chabahar-port-wp/gallery-3-medium.jpg",
-      "smallPath": "_m/t/k/7/p/chabahar-port-wp/gallery-3-small.jpg"
+      "mediumPath": "_m/t/k/7/p/chabahar-port-wp/gallery-3-medium.webp",
+      "smallPath": "_m/t/k/7/p/chabahar-port-wp/gallery-3-small.webp"
     },
     {
       "filename": "Chabahar port night veiw.jpeg",
@@ -169,7 +169,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "chabahar-port-wp",
       "sourceGeohash4": "tk7p",
-      "smallPath": "_m/t/k/7/p/chabahar-port-wp/chabahar-port-night-veiw-small.jpg"
+      "smallPath": "_m/t/k/7/p/chabahar-port-wp/chabahar-port-night-veiw-small.webp"
     },
     {
       "filename": "97616 orig.jpg",
@@ -192,7 +192,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "chabahar-port-wp",
       "sourceGeohash4": "tk7p",
-      "smallPath": "_m/t/k/7/p/chabahar-port-wp/97616-orig-small.jpg"
+      "smallPath": "_m/t/k/7/p/chabahar-port-wp/97616-orig-small.webp"
     }
   ],
   "galleryPaths": [
@@ -202,6 +202,26 @@
     "_m/t/k/7/p/chabahar-port-wp/chabahar-port-night-veiw.jpg",
     "_m/t/k/7/p/chabahar-port-wp/97616-orig.jpg"
   ],
-  "fetchedAt": "2026-03-01T10:24:25.571Z",
-  "updatedAt": "2026-03-01T10:24:27.615Z"
+  "updatedAt": "2026-03-01T10:24:27.615Z",
+  "narration": {
+    "files": [
+      "tk7p-chabahar-port-flight-context.mp3",
+      "tk7p-chabahar-port-intro.mp3",
+      "tk7p-chabahar-port-the-golden-gate.mp3",
+      "tk7p-chabahar-port-revolution-war-and-a-port-reborn.mp3",
+      "tk7p-chabahar-port-indias-gambit.mp3",
+      "tk7p-chabahar-port-sanctions-and-the-unraveling.mp3",
+      "tk7p-chabahar-port-two-ports-one-coastline.mp3"
+    ],
+    "durations": {
+      "tk7p-chabahar-port-flight-context.mp3": 37.0533333,
+      "tk7p-chabahar-port-intro.mp3": 51.216375,
+      "tk7p-chabahar-port-the-golden-gate.mp3": 45.4380416,
+      "tk7p-chabahar-port-revolution-war-and-a-port-reborn.mp3": 56.8594166,
+      "tk7p-chabahar-port-indias-gambit.mp3": 58.033625,
+      "tk7p-chabahar-port-sanctions-and-the-unraveling.mp3": 54.1244583,
+      "tk7p-chabahar-port-two-ports-one-coastline.mp3": 47.218875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

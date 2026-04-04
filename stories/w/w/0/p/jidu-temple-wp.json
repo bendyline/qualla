@@ -1,0 +1,147 @@
+{
+  "id": "jidu-temple-wp",
+  "source": "wikipedia",
+  "sourceId": "34087807",
+  "title": "Jidu Temple",
+  "slug": "jidu-temple",
+  "summary": "Built in 582 AD to honor the Immortal of the Ji River, this Sui dynasty temple in Jiyuan served as an imperial sacrificial site through over a thousand years of Chinese history.",
+  "content": {
+    "intro": "For more than a millennium, emperors sent envoys to this temple in Jiyuan, Henan province, to pray for good weather and bountiful harvests. Jidu Temple was not built for any school of philosophy or any particular deity of popular worship. It was built for a river. Constructed in 582 during the Sui dynasty, the temple honored the Immortal of the Ji River, one of the four river spirits known collectively as the Sidu -- the divine guardians of China's great waterways.",
+    "sections": [
+      {
+        "title": "Rivers as Gods",
+        "body": "In ancient Chinese cosmology, major rivers were not merely geographic features -- they were spiritual entities requiring propitiation. The Sidu, or Four Great Waterways, each had an associated immortal, and the Ji River's spirit was venerated at Jidu Temple. The logic was practical as much as spiritual: in an agrarian civilization, the behavior of rivers determined whether millions ate or starved. Sacrificing to the river immortals was state policy, not folk superstition. From the Sui dynasty through the Qing, the ceremonies continued, with emperors dispatching officials to perform rituals at Jidu Temple on behalf of the entire empire. The fiesta of sacrifice at Jidu lasted over 1,300 years before it finally ceased."
+      },
+      {
+        "title": "A Garden Behind Temple Walls",
+        "body": "Jidu Temple's layout follows a distinctive plan that resembles the Chinese character jia -- the character for 'first' or 'shell.' Four groups of building complexes are arranged along three longitudinal axes running north to south. Ancient cypress trees tower above the courtyards, their dark canopy contrasting with the lighter architecture beneath. A green river borders the compound, and the combination of water, aged trees, and ceremonial buildings creates what is recognized as a classic example of northern Chinese garden design. The temple is not large -- it covers roughly 700 square meters -- but its density of architectural interest within that compact footprint is remarkable."
+      },
+      {
+        "title": "Surviving the Dynasties",
+        "body": "The current temple structures represent centuries of renovation and rebuilding. The Sui dynasty original has been modified, expanded, and repaired by successive regimes, each adding elements in the architectural style of their era. What visitors see today is a palimpsest of Chinese building traditions layered over the same sacred ground. The temple's designation as an Important Relic under National Protection reflects its significance not only as a religious site but as an architectural record spanning more than fourteen centuries. Among the ancient building complexes surviving in Henan province, Jidu Temple is considered one of the greatest -- a rare continuous link between the imperial sacrificial traditions of early medieval China and the present day."
+      }
+    ],
+    "flightContext": "Located at 35.109N, 112.576E in Jiyuan, Henan province. The temple complex is a compact architectural site near the course of the Ji River. Nearest major airport is Zhengzhou Xinzheng International (ZHCC/CGO), approximately 130 km to the southeast. Luoyang Beijiao Airport (ZHLY) is about 100 km to the south-southwest. Best viewed at lower altitudes of 2,000-3,000 feet; the temple's courtyard layout and ancient cypress groves are visible in clear conditions."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 35.10917,
+      "lng": 112.57639
+    },
+    "geohash": "ww0p9"
+  },
+  "categories": [
+    "religion",
+    "architecture",
+    "ancient"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 600,
+    "readTime": 3,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 9774
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - Jidu Temple",
+      "url": "https://en.wikipedia.org/wiki/Jidu_Temple",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Founded 582 AD during Sui dynasty confirmed",
+        "Ji River Immortal as object of worship confirmed",
+        "Ceremonies continued Sui through Qing confirmed (over 1,300 years)",
+        "Located in Jiyuan, Henan confirmed",
+        "Designated Important National Relic confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "w/w/0/p/jidu-temple-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "baotou-wk",
+      "title": "Baotou",
+      "tile": "wrnp",
+      "coordinates": {
+        "lat": 40.656,
+        "lng": 109.834
+      },
+      "distanceKm": 625.7
+    },
+    "n": {
+      "id": "battle-of-changping-wp",
+      "title": "Battle of Changping",
+      "tile": "ww27",
+      "coordinates": {
+        "lat": 35.79805555555556,
+        "lng": 112.9238888888889
+      },
+      "distanceKm": 56.5
+    },
+    "ne": {
+      "id": "yuntai-mountain-henan-wp",
+      "title": "Yuntai Mountain",
+      "tile": "ww29",
+      "coordinates": {
+        "lat": 35.4326,
+        "lng": 113.356
+      },
+      "distanceKm": 17.8
+    },
+    "w": {
+      "id": "larung-gar-wp",
+      "title": "Larung Gar",
+      "tile": "wjxq",
+      "coordinates": {
+        "lat": 32.13556,
+        "lng": 100.4565
+      },
+      "distanceKm": 1130.1
+    },
+    "e": {
+      "id": "battle-of-hulao-wp",
+      "title": "Battle of Hulao",
+      "tile": "ww0w",
+      "coordinates": {
+        "lat": 34.842,
+        "lng": 113.223
+      },
+      "distanceKm": 25.2
+    },
+    "sw": {
+      "id": "larung-gar-buddhist-academy-wp",
+      "title": "Larung Gar Buddhist Academy",
+      "tile": "wjxq",
+      "coordinates": {
+        "lat": 32.15277778,
+        "lng": 100.46888889
+      },
+      "distanceKm": 1121.9
+    },
+    "s": {
+      "id": "old-city-of-luoyang-wp",
+      "title": "Old City of Luoyang",
+      "tile": "ww0j",
+      "coordinates": {
+        "lat": 34.719483,
+        "lng": 112.618301
+      },
+      "distanceKm": 10.8
+    },
+    "se": {
+      "id": "battle-of-xingyang-190-wp",
+      "title": "Battle of Xingyang (190)",
+      "tile": "ww0t",
+      "coordinates": {
+        "lat": 34.78333,
+        "lng": 113.35
+      },
+      "distanceKm": 13.6
+    }
+  }
+}

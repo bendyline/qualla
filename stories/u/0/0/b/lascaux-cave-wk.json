@@ -76,34 +76,34 @@
   "locationWikipediaPath": "u/0/0/b/lascaux-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "mont-saint-michel-wk",
-      "title": "Mont Saint-Michel: The Abbey That Becomes an Island Twice a Day",
-      "tile": "gbwu",
+      "id": "chateau-de-verteuil-wp",
+      "title": "Château de Verteuil",
+      "tile": "u00j",
       "coordinates": {
-        "lat": 48.6361,
-        "lng": -1.5114
+        "lat": 45.9828,
+        "lng": 0.2306
       },
-      "distanceKm": 401.9
+      "distanceKm": 79.2
     },
     "n": {
-      "id": "versailles-wk",
-      "title": "Versailles: The Palace That Bankrupted France",
-      "tile": "u09t",
+      "id": "chateau-de-jumilhac-wp",
+      "title": "Chateau de Jumilhac",
+      "tile": "u00f",
       "coordinates": {
-        "lat": 48.8049,
-        "lng": 2.1204
+        "lat": 45.493056,
+        "lng": 1.06
       },
-      "distanceKm": 389.9
+      "distanceKm": 20.6
     },
     "ne": {
-      "id": "lyon-wk",
-      "title": "Lyon",
-      "tile": "u05k",
+      "id": "chateau-de-ventadour-wp",
+      "title": "Chateau de Ventadour",
+      "tile": "u01d",
       "coordinates": {
-        "lat": 45.764,
-        "lng": 4.8357
+        "lat": 45.392222,
+        "lng": 2.116667
       },
-      "distanceKm": 244
+      "distanceKm": 28.4
     },
     "w": {
       "id": "bordeaux-wk",
@@ -116,47 +116,50 @@
       "distanceKm": 104.7
     },
     "e": {
-      "id": "geneva-wk",
-      "title": "Geneva",
-      "tile": "u0hq",
+      "id": "puy-mary-wp",
+      "title": "Puy Mary",
+      "tile": "u01b",
       "coordinates": {
-        "lat": 46.2044,
-        "lng": 6.1432
+        "lat": 45.1093,
+        "lng": 2.676252777777778
       },
-      "distanceKm": 362.7
+      "distanceKm": 72.1
     },
     "sw": {
-      "id": "bilbao-wk",
-      "title": "Bilbao",
-      "tile": "ezty",
+      "id": "isturitz-and-oxocelhaya-caves-wp",
+      "title": "Isturitz and Oxocelhaya Caves",
+      "tile": "ezxn",
       "coordinates": {
-        "lat": 43.263,
-        "lng": -2.935
+        "lat": 43.352777777778,
+        "lng": -1.2061111111111
       },
-      "distanceKm": 338.6
+      "distanceKm": 223.6
     },
     "s": {
-      "id": "barcelona-wk",
-      "title": "Barcelona",
-      "tile": "sp3e",
+      "id": "moissac-abbey-wp",
+      "title": "Moissac Abbey",
+      "tile": "spbf",
       "coordinates": {
-        "lat": 41.3825,
-        "lng": 2.1769
+        "lat": 44.105555555555554,
+        "lng": 1.0847222222222221
       },
-      "distanceKm": 390.3
+      "distanceKm": 80.7
     },
     "se": {
-      "id": "marseille-wk",
-      "title": "Marseille",
-      "tile": "spey",
+      "id": "abbey-church-of-sainte-foy-wp",
+      "title": "Abbey Church of Sainte-Foy",
+      "tile": "spct",
       "coordinates": {
-        "lat": 43.2965,
-        "lng": 5.3698
+        "lat": 44.599314,
+        "lng": 2.397873
       },
-      "distanceKm": 334.9
+      "distanceKm": 56.4
     }
   },
   "keywords": [
     "lascaux-cave"
+  ],
+  "duplicates": [
+    "lascaux-wp"
   ]
 }

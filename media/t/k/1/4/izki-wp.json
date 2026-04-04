@@ -22,8 +22,8 @@
           "Izki",
           "Self-published work"
         ],
-        "mediumPath": "_m/t/k/1/4/izki-wp/hero-medium.jpg",
-        "smallPath": "_m/t/k/1/4/izki-wp/hero-small.jpg"
+        "mediumPath": "_m/t/k/1/4/izki-wp/hero-medium.webp",
+        "smallPath": "_m/t/k/1/4/izki-wp/hero-small.webp"
       },
       "images": [
         {
@@ -47,8 +47,8 @@
             "Izki",
             "Self-published work"
           ],
-          "mediumPath": "_m/t/k/1/4/izki-wp/plan-old-izki-al-yemen-medium.jpg",
-          "smallPath": "_m/t/k/1/4/izki-wp/plan-old-izki-al-yemen-small.jpg"
+          "mediumPath": "_m/t/k/1/4/izki-wp/plan-old-izki-al-yemen-medium.webp",
+          "smallPath": "_m/t/k/1/4/izki-wp/plan-old-izki-al-yemen-small.webp"
         },
         {
           "path": "_m/t/k/1/4/izki-wp/pre-islamic-cemetery-c.jpg",
@@ -70,7 +70,7 @@
             "Izki",
             "Self-published work"
           ],
-          "smallPath": "_m/t/k/1/4/izki-wp/pre-islamic-cemetery-c-small.jpg"
+          "smallPath": "_m/t/k/1/4/izki-wp/pre-islamic-cemetery-c-small.webp"
         },
         {
           "path": "_m/t/k/1/4/izki-wp/exit-izki.jpg",
@@ -93,10 +93,19 @@
             "Route 15 (Oman)",
             "Self-published work"
           ],
-          "mediumPath": "_m/t/k/1/4/izki-wp/exit-izki-medium.jpg",
-          "smallPath": "_m/t/k/1/4/izki-wp/exit-izki-small.jpg"
+          "mediumPath": "_m/t/k/1/4/izki-wp/exit-izki-medium.webp",
+          "smallPath": "_m/t/k/1/4/izki-wp/exit-izki-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/t/k/1/4/izki-wp/tk14-izki-flight-context.mp3",
+        "_m/t/k/1/4/izki-wp/tk14-izki-intro.mp3",
+        "_m/t/k/1/4/izki-wp/tk14-izki-twin-towns-twin-histories.mp3",
+        "_m/t/k/1/4/izki-wp/tk14-izki-1-045-sites-in-one-survey.mp3",
+        "_m/t/k/1/4/izki-wp/tk14-izki-the-golden-calf-of-jarnan.mp3",
+        "_m/t/k/1/4/izki-wp/tk14-izki-beehive-tombs-and-living-crafts.mp3"
+      ],
+      "combinedNarration": "_m/t/k/1/4/izki-wp/tk14-izki-combined.mp3"
     }
   }
 }

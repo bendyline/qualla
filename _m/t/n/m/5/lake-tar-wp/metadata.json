@@ -18,8 +18,8 @@
     "sourceType": "core",
     "sourceArticleId": "lake-tar-wp",
     "sourceGeohash4": "tnm5",
-    "mediumPath": "_m/t/n/m/5/lake-tar-wp/hero-medium.jpg",
-    "smallPath": "_m/t/n/m/5/lake-tar-wp/hero-small.jpg"
+    "mediumPath": "_m/t/n/m/5/lake-tar-wp/hero-medium.webp",
+    "smallPath": "_m/t/n/m/5/lake-tar-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "950416-TarLake-HDR2.jpg",
@@ -129,7 +129,7 @@
       "sourceType": "core",
       "sourceArticleId": "lake-tar-wp",
       "sourceGeohash4": "tnm5",
-      "smallPath": "_m/t/n/m/5/lake-tar-wp/tar-lake-damavand-coun-small.jpg"
+      "smallPath": "_m/t/n/m/5/lake-tar-wp/tar-lake-damavand-coun-small.webp"
     },
     {
       "filename": "020401-Tar-IMG 8048-2.jpg",
@@ -149,8 +149,8 @@
       "sourceType": "core",
       "sourceArticleId": "lake-tar-wp",
       "sourceGeohash4": "tnm5",
-      "mediumPath": "_m/t/n/m/5/lake-tar-wp/tar-lake-damavand-firo-medium.jpg",
-      "smallPath": "_m/t/n/m/5/lake-tar-wp/tar-lake-damavand-firo-small.jpg"
+      "mediumPath": "_m/t/n/m/5/lake-tar-wp/tar-lake-damavand-firo-medium.webp",
+      "smallPath": "_m/t/n/m/5/lake-tar-wp/tar-lake-damavand-firo-small.webp"
     },
     {
       "filename": "020402-TarLake-IMG 8334-2.jpg",
@@ -170,8 +170,8 @@
       "sourceType": "core",
       "sourceArticleId": "lake-tar-wp",
       "sourceGeohash4": "tnm5",
-      "mediumPath": "_m/t/n/m/5/lake-tar-wp/tar-lake-damavand-firo-1-medium.jpg",
-      "smallPath": "_m/t/n/m/5/lake-tar-wp/tar-lake-damavand-firo-1-small.jpg"
+      "mediumPath": "_m/t/n/m/5/lake-tar-wp/tar-lake-damavand-firo-1-medium.webp",
+      "smallPath": "_m/t/n/m/5/lake-tar-wp/tar-lake-damavand-firo-1-small.webp"
     },
     {
       "filename": "Tt1.jpg",
@@ -189,7 +189,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "lake-tar-wp",
       "sourceGeohash4": "tnm5",
-      "smallPath": "_m/t/n/m/5/lake-tar-wp/tt1-small.jpg"
+      "smallPath": "_m/t/n/m/5/lake-tar-wp/tt1-small.webp"
     },
     {
       "filename": "Frozen TAR Lake.jpg",
@@ -218,6 +218,24 @@
     "_m/t/n/m/5/lake-tar-wp/tt1.jpg",
     "_m/t/n/m/5/lake-tar-wp/frozen-tar-lake.jpg"
   ],
-  "fetchedAt": "2026-03-01T16:13:07.170Z",
-  "updatedAt": "2026-03-01T16:13:24.859Z"
+  "updatedAt": "2026-03-01T16:13:24.859Z",
+  "narration": {
+    "files": [
+      "tnm5-lake-tar-flight-context.mp3",
+      "tnm5-lake-tar-intro.mp3",
+      "tnm5-lake-tar-born-from-a-collapsing-mountain.mp3",
+      "tnm5-lake-tar-springs-that-boil-from-the-earth.mp3",
+      "tnm5-lake-tar-trout-treasure-and-tall-tales.mp3",
+      "tnm5-lake-tar-a-high-altitude-mirror.mp3"
+    ],
+    "durations": {
+      "tnm5-lake-tar-flight-context.mp3": 44.2267083,
+      "tnm5-lake-tar-intro.mp3": 47.79525,
+      "tnm5-lake-tar-born-from-a-collapsing-mountain.mp3": 57.1729583,
+      "tnm5-lake-tar-springs-that-boil-from-the-earth.mp3": 52.268875,
+      "tnm5-lake-tar-trout-treasure-and-tall-tales.mp3": 61.7824166,
+      "tnm5-lake-tar-a-high-altitude-mirror.mp3": 62.0268333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

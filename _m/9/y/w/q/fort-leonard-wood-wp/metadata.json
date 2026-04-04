@@ -23,7 +23,7 @@
     "sourceType": "core",
     "sourceArticleId": "fort-leonard-wood-wp",
     "sourceGeohash4": "9ywq",
-    "smallPath": "_m/9/y/w/q/fort-leonard-wood-wp/hero-small.jpg"
+    "smallPath": "_m/9/y/w/q/fort-leonard-wood-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "US Army basic training - Fort Leonard Wood, Missouri.jpg",
@@ -77,7 +77,7 @@
       "sourceType": "core",
       "sourceArticleId": "fort-leonard-wood-wp",
       "sourceGeohash4": "9ywq",
-      "smallPath": "_m/9/y/w/q/fort-leonard-wood-wp/m67a1-flame-thrower-ta-small.jpg"
+      "smallPath": "_m/9/y/w/q/fort-leonard-wood-wp/m67a1-flame-thrower-ta-small.webp"
     },
     {
       "filename": "111011-A-WN220-043 (6243927558).jpg",
@@ -93,7 +93,9 @@
       "dateCreated": "2011-10-11 14:06",
       "sourceType": "commons-category",
       "sourceArticleId": "fort-leonard-wood-wp",
-      "sourceGeohash4": "9ywq"
+      "sourceGeohash4": "9ywq",
+      "mediumPath": "_m/9/y/w/q/fort-leonard-wood-wp/111011-a-wn220-043-6243927558-medium.webp",
+      "smallPath": "_m/9/y/w/q/fort-leonard-wood-wp/111011-a-wn220-043-6243927558-small.webp"
     },
     {
       "filename": "101231-A-8806D-601 (5324700006).jpg",
@@ -109,7 +111,9 @@
       "dateCreated": "2010-12-31 13:52",
       "sourceType": "commons-category",
       "sourceArticleId": "fort-leonard-wood-wp",
-      "sourceGeohash4": "9ywq"
+      "sourceGeohash4": "9ywq",
+      "mediumPath": "_m/9/y/w/q/fort-leonard-wood-wp/101231-a-8806d-601-5324700006-medium.webp",
+      "smallPath": "_m/9/y/w/q/fort-leonard-wood-wp/101231-a-8806d-601-5324700006-small.webp"
     }
   ],
   "galleryPaths": [
@@ -117,7 +121,6 @@
     "_m/9/y/w/q/fort-leonard-wood-wp/111011-a-wn220-043-6243927558.jpg",
     "_m/9/y/w/q/fort-leonard-wood-wp/101231-a-8806d-601-5324700006.jpg"
   ],
-  "fetchedAt": "2026-02-22T01:25:12.699Z",
   "updatedAt": "2026-02-22T01:25:17.781Z",
   "narration": {
     "files": [
@@ -136,7 +139,6 @@
       "9ywq-fort-leonard-wood-route-66-runs-through-it.mp3": 71.3902916,
       "9ywq-fort-leonard-wood-rails-runways-and-the-ozark-hills.mp3": 68.9762916
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T03:39:01.622Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

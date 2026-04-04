@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "bladensburg-dueling-grounds-wp",
     "sourceGeohash4": "dqcm",
-    "mediumPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/hero-medium.jpg",
-    "smallPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/hero-small.jpg"
+    "mediumPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/hero-medium.webp",
+    "smallPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Dueling Grounds, Brentwood, Maryland 001.JPG",
@@ -94,7 +94,7 @@
       "sourceType": "core",
       "sourceArticleId": "bladensburg-dueling-grounds-wp",
       "sourceGeohash4": "dqcm",
-      "smallPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/portrait-francis-scott-small.jpg"
+      "smallPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/portrait-francis-scott-small.webp"
     },
     {
       "filename": "Last recorded duel at the Bladensburg Dueling Grounds, between General A. Gallatin Lawrence and Baron Kusserow (1868).jpg",
@@ -118,7 +118,7 @@
       "sourceType": "core",
       "sourceArticleId": "bladensburg-dueling-grounds-wp",
       "sourceGeohash4": "dqcm",
-      "smallPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/1877-illustration-last-small.jpg"
+      "smallPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/1877-illustration-last-small.webp"
     },
     {
       "filename": "Bladensburg Waterfront Park, Bladensburg, Maryland 022.JPG",
@@ -144,8 +144,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "bladensburg-dueling-grounds-wp",
       "sourceGeohash4": "dqcm",
-      "mediumPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/bladensburg-waterfront-park-bl-medium.jpg",
-      "smallPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/bladensburg-waterfront-park-bl-small.jpg"
+      "mediumPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/bladensburg-waterfront-park-bl-medium.webp",
+      "smallPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/bladensburg-waterfront-park-bl-small.webp"
     },
     {
       "filename": "Stephen-Decatur3.jpg",
@@ -172,7 +172,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "bladensburg-dueling-grounds-wp",
       "sourceGeohash4": "dqcm",
-      "smallPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/stephen-decatur3-small.jpg"
+      "smallPath": "_m/d/q/c/m/bladensburg-dueling-grounds-wp/stephen-decatur3-small.webp"
     }
   ],
   "galleryPaths": [
@@ -181,6 +181,24 @@
     "_m/d/q/c/m/bladensburg-dueling-grounds-wp/bladensburg-waterfront-park-bl.jpg",
     "_m/d/q/c/m/bladensburg-dueling-grounds-wp/stephen-decatur3.jpg"
   ],
-  "fetchedAt": "2026-02-28T05:46:17.535Z",
-  "updatedAt": "2026-02-28T05:46:20.471Z"
+  "updatedAt": "2026-02-28T05:46:20.471Z",
+  "narration": {
+    "files": [
+      "dqcm-bladensburg-dueling-grounds-flight-context.mp3",
+      "dqcm-bladensburg-dueling-grounds-intro.mp3",
+      "dqcm-bladensburg-dueling-grounds-an-affair-of-honor.mp3",
+      "dqcm-bladensburg-dueling-grounds-the-commodore-falls.mp3",
+      "dqcm-bladensburg-dueling-grounds-death-in-ninety-seconds.mp3",
+      "dqcm-bladensburg-dueling-grounds-the-last-shots-on-blood-run.mp3"
+    ],
+    "durations": {
+      "dqcm-bladensburg-dueling-grounds-flight-context.mp3": 51.9665833,
+      "dqcm-bladensburg-dueling-grounds-intro.mp3": 57.2521666,
+      "dqcm-bladensburg-dueling-grounds-an-affair-of-honor.mp3": 62.595,
+      "dqcm-bladensburg-dueling-grounds-the-commodore-falls.mp3": 56.7217916,
+      "dqcm-bladensburg-dueling-grounds-death-in-ninety-seconds.mp3": 60.7059583,
+      "dqcm-bladensburg-dueling-grounds-the-last-shots-on-blood-run.mp3": 74.4309583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

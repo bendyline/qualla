@@ -10,19 +10,17 @@
       "6g3m-iguazu-falls-gateway-towns.mp3",
       "6g3m-iguazu-falls-visiting-the-falls.mp3"
     ],
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-17T03:51:16.153Z",
     "durations": {
-      "6g3m-iguazu-falls-flight-context.mp3": 46.416,
-      "6g3m-iguazu-falls-intro.mp3": 65.64,
-      "6g3m-iguazu-falls-two-countries-two-experiences.mp3": 57.696,
-      "6g3m-iguazu-falls-the-devils-throat.mp3": 58.032,
-      "6g3m-iguazu-falls-rainforest-setting.mp3": 60.936,
-      "6g3m-iguazu-falls-gateway-towns.mp3": 53.496,
-      "6g3m-iguazu-falls-visiting-the-falls.mp3": 53.64
-    }
+      "6g3m-iguazu-falls-flight-context.mp3": 51.1610416,
+      "6g3m-iguazu-falls-intro.mp3": 69.9563333,
+      "6g3m-iguazu-falls-two-countries-two-experiences.mp3": 60.9052916,
+      "6g3m-iguazu-falls-the-devils-throat.mp3": 59.9648333,
+      "6g3m-iguazu-falls-rainforest-setting.mp3": 59.3409166,
+      "6g3m-iguazu-falls-gateway-towns.mp3": 57.8079166,
+      "6g3m-iguazu-falls-visiting-the-falls.mp3": 56.8837916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
-  "fetchedAt": "2026-02-21T20:10:26.260Z",
   "hero": {
     "filename": "Iguazu Décembre 2007 - Panorama 5.jpg",
     "title": "File:Iguazu Décembre 2007 - Panorama 5.jpg",
@@ -50,8 +48,8 @@
     "sourceType": "core",
     "sourceArticleId": "iguazu-falls-wk",
     "sourceGeohash4": "6g3m",
-    "smallPath": "_m/6/g/3/m/iguazu-falls-wk/hero-small.jpg",
-    "mediumPath": "_m/6/g/3/m/iguazu-falls-wk/hero-medium.jpg"
+    "smallPath": "_m/6/g/3/m/iguazu-falls-wk/hero-small.webp",
+    "mediumPath": "_m/6/g/3/m/iguazu-falls-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Iguazu Décembre 2007 - Panorama 5.jpg",
@@ -108,8 +106,8 @@
       "sourceType": "core",
       "sourceArticleId": "iguazu-falls-wk",
       "sourceGeohash4": "6g3m",
-      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/iguacu-002-small.jpg",
-      "mediumPath": "_m/6/g/3/m/iguazu-falls-wk/iguacu-002-medium.jpg"
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/iguacu-002-small.webp",
+      "mediumPath": "_m/6/g/3/m/iguazu-falls-wk/iguacu-002-medium.webp"
     },
     {
       "filename": "Foz de Iguaçu 27 Panorama Nov 2005.jpg",
@@ -141,7 +139,7 @@
       "sourceType": "core",
       "sourceArticleId": "iguazu-falls-wk",
       "sourceGeohash4": "6g3m",
-      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/iguazu-falls-brazil-le-small.jpg"
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/iguazu-falls-brazil-le-small.webp"
     },
     {
       "filename": "ArialViewIquazuFallsDevilsThroat.JPG",
@@ -166,8 +164,8 @@
       "sourceType": "core",
       "sourceArticleId": "iguazu-falls-wk",
       "sourceGeohash4": "6g3m",
-      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/iguazu-falls-misiones-small.jpg",
-      "mediumPath": "_m/6/g/3/m/iguazu-falls-wk/iguazu-falls-misiones-medium.jpg"
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/iguazu-falls-misiones-small.webp",
+      "mediumPath": "_m/6/g/3/m/iguazu-falls-wk/iguazu-falls-misiones-medium.webp"
     },
     {
       "filename": "Garganta del diablo.jpg",
@@ -192,7 +190,7 @@
       "sourceType": "core",
       "sourceArticleId": "iguazu-falls-wk",
       "sourceGeohash4": "6g3m",
-      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/garganta-del-diablo-small.jpg"
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/garganta-del-diablo-small.webp"
     },
     {
       "filename": "GargantaDoDiabo.JPG",
@@ -221,7 +219,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "iguazu-falls-wk",
-      "sourceGeohash4": "6g3m"
+      "sourceGeohash4": "6g3m",
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/gargantadodiabo-small.webp"
     },
     {
       "filename": "Iguazu Décembre 2007 - Panorama 8.2.JPG",
@@ -247,7 +246,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "iguazu-falls-wk",
-      "sourceGeohash4": "6g3m"
+      "sourceGeohash4": "6g3m",
+      "mediumPath": "_m/6/g/3/m/iguazu-falls-wk/iguazu-decembre-2007-panorama--medium.webp",
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/iguazu-decembre-2007-panorama--small.webp"
     },
     {
       "filename": "Iguazu Falls(js)45.jpg",
@@ -271,7 +272,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "iguazu-falls-wk",
-      "sourceGeohash4": "6g3m"
+      "sourceGeohash4": "6g3m",
+      "mediumPath": "_m/6/g/3/m/iguazu-falls-wk/iguazu-falls-js-45-medium.webp",
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/iguazu-falls-js-45-small.webp"
     },
     {
       "filename": "Iguazu Falls(js)44.jpg",
@@ -295,7 +298,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "iguazu-falls-wk",
-      "sourceGeohash4": "6g3m"
+      "sourceGeohash4": "6g3m",
+      "mediumPath": "_m/6/g/3/m/iguazu-falls-wk/iguazu-falls-js-44-medium.webp",
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/iguazu-falls-js-44-small.webp"
     },
     {
       "filename": "Amigos de Antônio Parreiras em acampamento nas cataratas do Iguaçu 1919.jpg",
@@ -325,7 +330,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "iguazu-falls-wk",
-      "sourceGeohash4": "6g3m"
+      "sourceGeohash4": "6g3m",
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/amigos-de-antonio-parreiras-em-small.webp"
     },
     {
       "filename": "Boca de la Garganta del Diablo en Cataratas del Iguazú 01.jpg",
@@ -342,7 +348,9 @@
       "dateCreated": "2013-08-29 11:31:14",
       "sourceType": "commons-category",
       "sourceArticleId": "iguazu-falls-wk",
-      "sourceGeohash4": "6g3m"
+      "sourceGeohash4": "6g3m",
+      "mediumPath": "_m/6/g/3/m/iguazu-falls-wk/boca-de-la-garganta-del-diablo-medium.webp",
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/boca-de-la-garganta-del-diablo-small.webp"
     },
     {
       "filename": "Vista da Garganta do Diabo.jpg",
@@ -359,7 +367,9 @@
       "dateCreated": "2009-03-14 11:18:37",
       "sourceType": "commons-category",
       "sourceArticleId": "iguazu-falls-wk",
-      "sourceGeohash4": "6g3m"
+      "sourceGeohash4": "6g3m",
+      "mediumPath": "_m/6/g/3/m/iguazu-falls-wk/vista-da-garganta-do-diabo-medium.webp",
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/vista-da-garganta-do-diabo-small.webp"
     },
     {
       "filename": "Cataratas del Iguazú, Devil's Throat (25985755896).jpg",
@@ -376,7 +386,8 @@
       "dateCreated": "2013-01-07 03:52",
       "sourceType": "commons-category",
       "sourceArticleId": "iguazu-falls-wk",
-      "sourceGeohash4": "6g3m"
+      "sourceGeohash4": "6g3m",
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/cataratas-del-iguazu-devil-s-t-small.webp"
     },
     {
       "filename": "Iguaçu Falls (15841633230).jpg",
@@ -393,7 +404,8 @@
       "dateCreated": "Taken on 12 February 2014, 11:46",
       "sourceType": "commons-category",
       "sourceArticleId": "iguazu-falls-wk",
-      "sourceGeohash4": "6g3m"
+      "sourceGeohash4": "6g3m",
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/iguacu-falls-15841633230-small.webp"
     },
     {
       "filename": "Iguaçu Falls (15929817961).jpg",
@@ -410,7 +422,8 @@
       "dateCreated": "Taken on 12 February 2014, 16:40",
       "sourceType": "commons-category",
       "sourceArticleId": "iguazu-falls-wk",
-      "sourceGeohash4": "6g3m"
+      "sourceGeohash4": "6g3m",
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/iguacu-falls-15929817961-small.webp"
     },
     {
       "filename": "Iguaçu Falls (15745744959).jpg",
@@ -427,7 +440,8 @@
       "dateCreated": "Taken on 12 February 2014, 16:17",
       "sourceType": "commons-category",
       "sourceArticleId": "iguazu-falls-wk",
-      "sourceGeohash4": "6g3m"
+      "sourceGeohash4": "6g3m",
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/iguacu-falls-15745744959-small.webp"
     },
     {
       "filename": "Iguaçu Falls (15931138162).jpg",
@@ -444,7 +458,9 @@
       "dateCreated": "2014-02-12 11:47",
       "sourceType": "commons-category",
       "sourceArticleId": "iguazu-falls-wk",
-      "sourceGeohash4": "6g3m"
+      "sourceGeohash4": "6g3m",
+      "mediumPath": "_m/6/g/3/m/iguazu-falls-wk/iguacu-falls-15931138162-medium.webp",
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/iguacu-falls-15931138162-small.webp"
     },
     {
       "filename": "Ponte da Garganta do diabo em meio a Mata Atlântica..jpg",
@@ -461,7 +477,9 @@
       "dateCreated": "2014-01-04",
       "sourceType": "commons-category",
       "sourceArticleId": "iguazu-falls-wk",
-      "sourceGeohash4": "6g3m"
+      "sourceGeohash4": "6g3m",
+      "mediumPath": "_m/6/g/3/m/iguazu-falls-wk/ponte-da-garganta-do-diabo-em--medium.webp",
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/ponte-da-garganta-do-diabo-em--small.webp"
     },
     {
       "filename": "J37 873 Garganta del Diablo.jpg",
@@ -478,7 +496,9 @@
       "dateCreated": "2020-01-31 14:16",
       "sourceType": "commons-category",
       "sourceArticleId": "iguazu-falls-wk",
-      "sourceGeohash4": "6g3m"
+      "sourceGeohash4": "6g3m",
+      "mediumPath": "_m/6/g/3/m/iguazu-falls-wk/j37-873-garganta-del-diablo-medium.webp",
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/j37-873-garganta-del-diablo-small.webp"
     },
     {
       "filename": "J37 872 Garganta del Diablo.jpg",
@@ -495,7 +515,9 @@
       "dateCreated": "2020-01-31 14:16",
       "sourceType": "commons-category",
       "sourceArticleId": "iguazu-falls-wk",
-      "sourceGeohash4": "6g3m"
+      "sourceGeohash4": "6g3m",
+      "mediumPath": "_m/6/g/3/m/iguazu-falls-wk/j37-872-garganta-del-diablo-medium.webp",
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/j37-872-garganta-del-diablo-small.webp"
     },
     {
       "filename": "Iguazú 1994 05.jpg",
@@ -512,7 +534,8 @@
       "dateCreated": "1994-10",
       "sourceType": "commons-category",
       "sourceArticleId": "iguazu-falls-wk",
-      "sourceGeohash4": "6g3m"
+      "sourceGeohash4": "6g3m",
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/iguazu-1994-05-small.webp"
     },
     {
       "filename": "Iguazú 1994 06.jpg",
@@ -529,7 +552,8 @@
       "dateCreated": "1994-10",
       "sourceType": "commons-category",
       "sourceArticleId": "iguazu-falls-wk",
-      "sourceGeohash4": "6g3m"
+      "sourceGeohash4": "6g3m",
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/iguazu-1994-06-small.webp"
     },
     {
       "filename": "Iguazú 1994 07.jpg",
@@ -546,7 +570,8 @@
       "dateCreated": "1994-10",
       "sourceType": "commons-category",
       "sourceArticleId": "iguazu-falls-wk",
-      "sourceGeohash4": "6g3m"
+      "sourceGeohash4": "6g3m",
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/iguazu-1994-07-small.webp"
     },
     {
       "filename": "A Incrível Garganta do Diabo. Também poderia ser chamada de a Garganta de Deus! (7289976668).jpg",
@@ -563,7 +588,9 @@
       "dateCreated": "2012-05-26 12:51",
       "sourceType": "commons-category",
       "sourceArticleId": "iguazu-falls-wk",
-      "sourceGeohash4": "6g3m"
+      "sourceGeohash4": "6g3m",
+      "mediumPath": "_m/6/g/3/m/iguazu-falls-wk/a-incrivel-garganta-do-diabo-t-medium.webp",
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/a-incrivel-garganta-do-diabo-t-small.webp"
     },
     {
       "filename": "A Incrível Garganta do Diabo. Também poderia ser chamada de a Garganta de Deus! (7289990202).jpg",
@@ -580,7 +607,9 @@
       "dateCreated": "2012-05-26 13:05",
       "sourceType": "commons-category",
       "sourceArticleId": "iguazu-falls-wk",
-      "sourceGeohash4": "6g3m"
+      "sourceGeohash4": "6g3m",
+      "mediumPath": "_m/6/g/3/m/iguazu-falls-wk/a-incrivel-garganta-do-diabo-t-1-medium.webp",
+      "smallPath": "_m/6/g/3/m/iguazu-falls-wk/a-incrivel-garganta-do-diabo-t-1-small.webp"
     }
   ],
   "galleryPaths": [

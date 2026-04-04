@@ -3,12 +3,12 @@
   "patch": {
     "media": {
       "narration": [
+        "_m/c/2/q/f/missoula-wk/c2qf-missoula-flight-context.mp3",
         "_m/c/2/q/f/missoula-wk/c2qf-missoula-intro.mp3",
         "_m/c/2/q/f/missoula-wk/c2qf-missoula-city-bus-to-wilderness.mp3",
-        "_m/c/2/q/f/missoula-wk/c2qf-missoula-flight-context.mp3",
-        "_m/c/2/q/f/missoula-wk/c2qf-missoula-hot-springs-and-ghost-towns.mp3",
+        "_m/c/2/q/f/missoula-wk/c2qf-missoula-river-running-through.mp3",
         "_m/c/2/q/f/missoula-wk/c2qf-missoula-microbreweries-and-murals.mp3",
-        "_m/c/2/q/f/missoula-wk/c2qf-missoula-river-running-through.mp3"
+        "_m/c/2/q/f/missoula-wk/c2qf-missoula-hot-springs-and-ghost-towns.mp3"
       ],
       "hero": {
         "path": "_m/tpc/mi/ss/ou/la/missoula/missoula-sunset-2006-07.jpg",
@@ -35,7 +35,9 @@
           "Missoula, Montana",
           "Red sunsets of Montana",
           "University of Montana - Main Campus"
-        ]
+        ],
+        "mediumPath": "_m/c/2/q/f/missoula-wk/hero-medium.webp",
+        "smallPath": "_m/c/2/q/f/missoula-wk/hero-small.webp"
       },
       "images": [
         {
@@ -57,8 +59,8 @@
             "CC-BY-SA-3.0",
             "Wikivoyage banners of Montana"
           ],
-          "smallPath": "_m/c/2/q/f/missoula-wk/pagebanner-wikivoyage-small.jpg",
-          "mediumPath": "_m/c/2/q/f/missoula-wk/pagebanner-wikivoyage-medium.jpg"
+          "smallPath": "_m/c/2/q/f/missoula-wk/pagebanner-wikivoyage-small.webp",
+          "mediumPath": "_m/c/2/q/f/missoula-wk/pagebanner-wikivoyage-medium.webp"
         },
         {
           "path": "_m/c/2/q/f/missoula-wk/terminal-missoula-inte.jpg",
@@ -80,7 +82,7 @@
             "CC-BY-SA-3.0",
             "Self-published work"
           ],
-          "smallPath": "_m/c/2/q/f/missoula-wk/terminal-missoula-inte-small.jpg"
+          "smallPath": "_m/c/2/q/f/missoula-wk/terminal-missoula-inte-small.webp"
         },
         {
           "path": "_m/c/2/q/f/missoula-wk/montana-museum-art-amp.jpg",
@@ -103,8 +105,8 @@
             "Museums in Montana",
             "Self-published work"
           ],
-          "smallPath": "_m/c/2/q/f/missoula-wk/montana-museum-art-amp-small.jpg",
-          "mediumPath": "_m/c/2/q/f/missoula-wk/montana-museum-art-amp-medium.jpg"
+          "smallPath": "_m/c/2/q/f/missoula-wk/montana-museum-art-amp-small.webp",
+          "mediumPath": "_m/c/2/q/f/missoula-wk/montana-museum-art-amp-medium.webp"
         },
         {
           "path": "_m/c/2/q/f/missoula-wk/hero.jpg",
@@ -253,7 +255,8 @@
             "WLM 2012 United States reviewed"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/q/f/missoula-wk/c2qf-missoula-combined.mp3"
     }
   }
 }

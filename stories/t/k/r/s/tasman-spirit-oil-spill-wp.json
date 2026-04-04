@@ -100,14 +100,14 @@
       "distanceKm": 28.7
     },
     "ne": {
-      "id": "jodhpur-wk",
-      "title": "Jodhpur",
-      "tile": "tsev",
+      "id": "mehrgarh-wp",
+      "title": "Mehrgarh",
+      "tile": "tt0n",
       "coordinates": {
-        "lat": 26.2389,
-        "lng": 73.0243
+        "lat": 29.2125,
+        "lng": 67.670833
       },
-      "distanceKm": 571.9
+      "distanceKm": 473.1
     },
     "w": {
       "id": "hingol-national-park-wp",
@@ -120,14 +120,14 @@
       "distanceKm": 127.4
     },
     "e": {
-      "id": "udaipur-wk",
-      "title": "Udaipur",
-      "tile": "tsk7",
+      "id": "dwarkadhish-temple-wp",
+      "title": "Dwarkadhish Temple",
+      "tile": "tecn",
       "coordinates": {
-        "lat": 24.5854,
-        "lng": 73.7125
+        "lat": 22.237886111111,
+        "lng": 68.967561111111
       },
-      "distanceKm": 628
+      "distanceKm": 311.7
     },
     "sw": {
       "id": "ras-al-hadd-wp",
@@ -150,14 +150,15 @@
       "distanceKm": 57.7
     },
     "se": {
-      "id": "bhopal-disaster-wk",
-      "title": "The Bhopal Disaster: The Night a Pesticide Plant Killed a City",
-      "tile": "tsph",
+      "id": "dwarka-wp",
+      "title": "Dwarka",
+      "tile": "tecn",
       "coordinates": {
-        "lat": 23.2814,
-        "lng": 77.4106
+        "lat": 22.240277777778,
+        "lng": 68.968611111111
       },
-      "distanceKm": 1015.7
+      "distanceKm": 286.3
     }
-  }
+  },
+  "locationWikipediaPath": "t/k/r/s/tasman-spirit-oil-spill-wp"
 }

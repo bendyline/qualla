@@ -2,27 +2,25 @@
   "articleId": "galveston-seawall-wk",
   "narration": {
     "files": [
-      "9v6e-galveston-seawall-flight-context.mp3",
-      "9v6e-galveston-seawall-intro.mp3",
-      "9v6e-galveston-seawall-the-1900-hurricane.mp3",
-      "9v6e-galveston-seawall-the-response.mp3",
-      "9v6e-galveston-seawall-the-test.mp3",
-      "9v6e-galveston-seawall-the-legacy.mp3",
-      "9v6e-galveston-seawall-visiting-the-seawall.mp3"
+      "9vhw-galveston-seawall-flight-context.mp3",
+      "9vhw-galveston-seawall-intro.mp3",
+      "9vhw-galveston-seawall-the-1900-hurricane.mp3",
+      "9vhw-galveston-seawall-the-response.mp3",
+      "9vhw-galveston-seawall-the-test.mp3",
+      "9vhw-galveston-seawall-the-legacy.mp3",
+      "9vhw-galveston-seawall-visiting-the-seawall.mp3"
     ],
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-17T21:43:55.920Z",
     "durations": {
-      "9v6e-galveston-seawall-flight-context.mp3": 38.112,
-      "9v6e-galveston-seawall-intro.mp3": 64.728,
-      "9v6e-galveston-seawall-the-1900-hurricane.mp3": 53.808,
-      "9v6e-galveston-seawall-the-response.mp3": 59.424,
-      "9v6e-galveston-seawall-the-test.mp3": 57.264,
-      "9v6e-galveston-seawall-the-legacy.mp3": 47.184,
-      "9v6e-galveston-seawall-visiting-the-seawall.mp3": 57.792
-    }
+      "9vhw-galveston-seawall-flight-context.mp3": 39.4450416,
+      "9vhw-galveston-seawall-intro.mp3": 63.3840833,
+      "9vhw-galveston-seawall-the-1900-hurricane.mp3": 54.5141666,
+      "9vhw-galveston-seawall-the-response.mp3": 55.8331666,
+      "9vhw-galveston-seawall-the-test.mp3": 52.569625,
+      "9vhw-galveston-seawall-the-legacy.mp3": 50.7242916,
+      "9vhw-galveston-seawall-visiting-the-seawall.mp3": 61.4742916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
-  "fetchedAt": "2026-02-21T23:00:40.573Z",
   "hero": {
     "filename": "Postcard of Galveston, Texas, seawall (10001291).jpg",
     "title": "File:Postcard of Galveston, Texas, seawall (10001291).jpg",
@@ -40,8 +38,8 @@
     "sourceType": "core",
     "sourceArticleId": "galveston-seawall-wk",
     "sourceGeohash4": "9vhw",
-    "smallPath": "_m/9/v/h/w/galveston-seawall-wk/hero-small.jpg",
-    "mediumPath": "_m/9/v/h/w/galveston-seawall-wk/hero-medium.jpg"
+    "smallPath": "_m/9/v/h/w/galveston-seawall-wk/hero-small.webp",
+    "mediumPath": "_m/9/v/h/w/galveston-seawall-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Postcard of Galveston, Texas, seawall (10001291).jpg",
@@ -116,8 +114,8 @@
       "sourceType": "core",
       "sourceArticleId": "galveston-seawall-wk",
       "sourceGeohash4": "9vhw",
-      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/no-3-sea-wall-west-rap-small.jpg",
-      "mediumPath": "_m/9/v/h/w/galveston-seawall-wk/no-3-sea-wall-west-rap-medium.jpg"
+      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/no-3-sea-wall-west-rap-small.webp",
+      "mediumPath": "_m/9/v/h/w/galveston-seawall-wk/no-3-sea-wall-west-rap-medium.webp"
     },
     {
       "filename": "Relief map of Texas.png",
@@ -162,8 +160,8 @@
       "sourceType": "core",
       "sourceArticleId": "galveston-seawall-wk",
       "sourceGeohash4": "9vhw",
-      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/postcard-galveston-tex-small.jpg",
-      "mediumPath": "_m/9/v/h/w/galveston-seawall-wk/postcard-galveston-tex-medium.jpg"
+      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/postcard-galveston-tex-small.webp",
+      "mediumPath": "_m/9/v/h/w/galveston-seawall-wk/postcard-galveston-tex-medium.webp"
     },
     {
       "filename": "Sea wall construction site, Galveston, Texas.jpg",
@@ -187,7 +185,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "galveston-seawall-wk",
-      "sourceGeohash4": "9vhw"
+      "sourceGeohash4": "9vhw",
+      "mediumPath": "_m/9/v/h/w/galveston-seawall-wk/sea-wall-construction-site-gal-medium.webp",
+      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/sea-wall-construction-site-gal-small.webp"
     },
     {
       "filename": "BeachBoulevardGalvestonPostcard.jpg",
@@ -233,7 +233,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "galveston-seawall-wk",
-      "sourceGeohash4": "9vhw"
+      "sourceGeohash4": "9vhw",
+      "mediumPath": "_m/9/v/h/w/galveston-seawall-wk/greatseawallofgalveston-medium.webp",
+      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/greatseawallofgalveston-small.webp"
     },
     {
       "filename": "Murdochs Pier, Post Hurricane Ike, Galveston.jpg",
@@ -257,7 +259,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "galveston-seawall-wk",
-      "sourceGeohash4": "9vhw"
+      "sourceGeohash4": "9vhw",
+      "mediumPath": "_m/9/v/h/w/galveston-seawall-wk/murdochs-pier-post-hurricane-i-medium.webp",
+      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/murdochs-pier-post-hurricane-i-small.webp"
     },
     {
       "filename": "GalvestonPostcardWhereLifeIsWorthLiving.jpg",
@@ -280,7 +284,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "galveston-seawall-wk",
-      "sourceGeohash4": "9vhw"
+      "sourceGeohash4": "9vhw",
+      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/galvestonpostcardwherelifeiswo-small.webp"
     },
     {
       "filename": "Concrete Seawall Galveston 1902.jpeg",
@@ -305,7 +310,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "galveston-seawall-wk",
-      "sourceGeohash4": "9vhw"
+      "sourceGeohash4": "9vhw",
+      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/concrete-seawall-galveston-190-small.webp"
     },
     {
       "filename": "GalvestonSeaWallAndBoulevardPostcard.jpeg",
@@ -321,7 +327,8 @@
       "dateCreated": "Not dated. c. 1905 - 1915",
       "sourceType": "commons-category",
       "sourceArticleId": "galveston-seawall-wk",
-      "sourceGeohash4": "9vhw"
+      "sourceGeohash4": "9vhw",
+      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/galvestonseawallandboulevardpo-small.webp"
     },
     {
       "filename": "GalvestonSeawallCurvePostcard.jpeg",
@@ -337,7 +344,8 @@
       "dateCreated": "1900s<div style=\"display: none;\">date QS:P,+1900-00-00T00:00:00Z/8</div>",
       "sourceType": "commons-category",
       "sourceArticleId": "galveston-seawall-wk",
-      "sourceGeohash4": "9vhw"
+      "sourceGeohash4": "9vhw",
+      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/galvestonseawallcurvepostcard-small.webp"
     },
     {
       "filename": "Galveston, Texas Seawall in Storm of 1919.jpg",
@@ -354,7 +362,8 @@
       "dateCreated": "2011-08-22",
       "sourceType": "commons-category",
       "sourceArticleId": "galveston-seawall-wk",
-      "sourceGeohash4": "9vhw"
+      "sourceGeohash4": "9vhw",
+      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/galveston-texas-seawall-in-sto-small.webp"
     },
     {
       "filename": "Seawall Benches and Pleasure Pier, Galveston, Texas 1301071119.jpg",
@@ -371,7 +380,9 @@
       "dateCreated": "2013-01-08 19:38:20",
       "sourceType": "commons-category",
       "sourceArticleId": "galveston-seawall-wk",
-      "sourceGeohash4": "9vhw"
+      "sourceGeohash4": "9vhw",
+      "mediumPath": "_m/9/v/h/w/galveston-seawall-wk/seawall-benches-and-pleasure-p-medium.webp",
+      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/seawall-benches-and-pleasure-p-small.webp"
     },
     {
       "filename": "Collier's 1921 Galveston - sea wall (photograph).jpg",
@@ -387,7 +398,8 @@
       "dateCreated": "published 1921",
       "sourceType": "commons-category",
       "sourceArticleId": "galveston-seawall-wk",
-      "sourceGeohash4": "9vhw"
+      "sourceGeohash4": "9vhw",
+      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/collier-s-1921-galveston-sea-w-small.webp"
     },
     {
       "filename": "Collier's 1921 Galveston - sea wall (drawing).jpg",
@@ -403,7 +415,8 @@
       "dateCreated": "published 1911",
       "sourceType": "commons-category",
       "sourceArticleId": "galveston-seawall-wk",
-      "sourceGeohash4": "9vhw"
+      "sourceGeohash4": "9vhw",
+      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/collier-s-1921-galveston-sea-w-1-small.webp"
     },
     {
       "filename": "Galveston Texas Gulf Boulevard.jpg",
@@ -420,7 +433,8 @@
       "dateCreated": "circa 1930<div style=\"display: none;\">date QS:P,+1930-00-00T00:00:00Z/9,P1480,Q5727902</div> Postcard postmarked October 10, 1934",
       "sourceType": "commons-category",
       "sourceArticleId": "galveston-seawall-wk",
-      "sourceGeohash4": "9vhw"
+      "sourceGeohash4": "9vhw",
+      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/galveston-texas-gulf-boulevard-small.webp"
     },
     {
       "filename": "Rope Bridge (6752000515).jpg",
@@ -437,7 +451,8 @@
       "dateCreated": "2012-01-23 14:50",
       "sourceType": "commons-category",
       "sourceArticleId": "galveston-seawall-wk",
-      "sourceGeohash4": "9vhw"
+      "sourceGeohash4": "9vhw",
+      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/rope-bridge-6752000515-small.webp"
     },
     {
       "filename": "One view of part of present day Seawall location. located off Seawall Boulevard.jpg",
@@ -454,7 +469,9 @@
       "dateCreated": "2021-09-25 07:19:13",
       "sourceType": "commons-category",
       "sourceArticleId": "galveston-seawall-wk",
-      "sourceGeohash4": "9vhw"
+      "sourceGeohash4": "9vhw",
+      "mediumPath": "_m/9/v/h/w/galveston-seawall-wk/one-view-of-part-of-present-da-medium.webp",
+      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/one-view-of-part-of-present-da-small.webp"
     },
     {
       "filename": "Galveston March 2022 36 (Galveston Seawall monuments).jpg",
@@ -471,7 +488,9 @@
       "dateCreated": "Taken on 29 March 2022",
       "sourceType": "commons-category",
       "sourceArticleId": "galveston-seawall-wk",
-      "sourceGeohash4": "9vhw"
+      "sourceGeohash4": "9vhw",
+      "mediumPath": "_m/9/v/h/w/galveston-seawall-wk/galveston-march-2022-36-galves-medium.webp",
+      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/galveston-march-2022-36-galves-small.webp"
     },
     {
       "filename": "Galveston, Texas (2024) - 53.jpg",
@@ -488,7 +507,9 @@
       "dateCreated": "2024-06-09 09:23:37",
       "sourceType": "commons-category",
       "sourceArticleId": "galveston-seawall-wk",
-      "sourceGeohash4": "9vhw"
+      "sourceGeohash4": "9vhw",
+      "mediumPath": "_m/9/v/h/w/galveston-seawall-wk/galveston-texas-2024-53-medium.webp",
+      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/galveston-texas-2024-53-small.webp"
     },
     {
       "filename": "2025-09-13 12 02 44 View northeast along the sea wall in Galveston, Galveston County, Texas.jpg",
@@ -505,7 +526,9 @@
       "dateCreated": "2025-09-13 12:02:44",
       "sourceType": "commons-category",
       "sourceArticleId": "galveston-seawall-wk",
-      "sourceGeohash4": "9vhw"
+      "sourceGeohash4": "9vhw",
+      "mediumPath": "_m/9/v/h/w/galveston-seawall-wk/2025-09-13-12-02-44-view-north-medium.webp",
+      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/2025-09-13-12-02-44-view-north-small.webp"
     },
     {
       "filename": "2025-09-13 12 02 51 View southwest along the sea wall in Galveston, Galveston County, Texas.jpg",
@@ -522,7 +545,9 @@
       "dateCreated": "2025-09-13 12:02:51",
       "sourceType": "commons-category",
       "sourceArticleId": "galveston-seawall-wk",
-      "sourceGeohash4": "9vhw"
+      "sourceGeohash4": "9vhw",
+      "mediumPath": "_m/9/v/h/w/galveston-seawall-wk/2025-09-13-12-02-51-view-south-medium.webp",
+      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/2025-09-13-12-02-51-view-south-small.webp"
     },
     {
       "filename": "2025-09-13 12 03 05 Panoramic view towards the beach from the sea wall in Galveston, Galveston County, Texas.jpg",
@@ -539,7 +564,9 @@
       "dateCreated": "2025-09-13 12:03:05",
       "sourceType": "commons-category",
       "sourceArticleId": "galveston-seawall-wk",
-      "sourceGeohash4": "9vhw"
+      "sourceGeohash4": "9vhw",
+      "mediumPath": "_m/9/v/h/w/galveston-seawall-wk/2025-09-13-12-03-05-panoramic--medium.webp",
+      "smallPath": "_m/9/v/h/w/galveston-seawall-wk/2025-09-13-12-03-05-panoramic--small.webp"
     }
   ],
   "galleryPaths": [

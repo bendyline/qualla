@@ -30,7 +30,7 @@
     "sourceType": "core",
     "sourceArticleId": "armadillo-world-headquarters-wp",
     "sourceGeohash4": "9v6k",
-    "smallPath": "_m/9/v/6/k/armadillo-world-headquarters-wp/hero-small.jpg"
+    "smallPath": "_m/9/v/6/k/armadillo-world-headquarters-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Armadillo plaque.jpg",
@@ -92,7 +92,7 @@
       "sourceType": "core",
       "sourceArticleId": "armadillo-world-headquarters-wp",
       "sourceGeohash4": "9v6k",
-      "smallPath": "_m/9/v/6/k/armadillo-world-headquarters-wp/author-eddie-wilson-20-small.jpg"
+      "smallPath": "_m/9/v/6/k/armadillo-world-headquarters-wp/author-eddie-wilson-20-small.webp"
     },
     {
       "filename": "ArmadilloWorldHQv2.jpg",
@@ -117,7 +117,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "armadillo-world-headquarters-wp",
-      "sourceGeohash4": "9v6k"
+      "sourceGeohash4": "9v6k",
+      "smallPath": "_m/9/v/6/k/armadillo-world-headquarters-wp/armadilloworldhqv2-small.webp"
     },
     {
       "filename": "Bazaar.jpg",
@@ -143,7 +144,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "armadillo-world-headquarters-wp",
-      "sourceGeohash4": "9v6k"
+      "sourceGeohash4": "9v6k",
+      "smallPath": "_m/9/v/6/k/armadillo-world-headquarters-wp/bazaar-small.webp"
     }
   ],
   "galleryPaths": [
@@ -151,7 +153,6 @@
     "_m/9/v/6/k/armadillo-world-headquarters-wp/armadilloworldhqv2.jpg",
     "_m/9/v/6/k/armadillo-world-headquarters-wp/bazaar.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:47:21.323Z",
   "narration": {
     "files": [
       "9v6k-armadillo-world-headquarters-flight-context.mp3",
@@ -171,8 +172,7 @@
       "9v6k-armadillo-world-headquarters-beautiful-wreckage.mp3": 72.507,
       "9v6k-armadillo-world-headquarters-ghost-notes-on-barton-springs-road.mp3": 61.3904166
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T06:30:44.102Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:47:30.964Z"
 }

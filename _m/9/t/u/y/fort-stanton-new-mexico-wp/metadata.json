@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "fort-stanton-new-mexico-wp",
     "sourceGeohash4": "9tuy",
-    "smallPath": "_m/9/t/u/y/fort-stanton-new-mexico-wp/hero-small.jpg",
-    "mediumPath": "_m/9/t/u/y/fort-stanton-new-mexico-wp/hero-medium.jpg"
+    "smallPath": "_m/9/t/u/y/fort-stanton-new-mexico-wp/hero-small.webp",
+    "mediumPath": "_m/9/t/u/y/fort-stanton-new-mexico-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Officers Quarters Fort Stanton New Mexico.jpg",
@@ -130,8 +130,8 @@
       "sourceType": "core",
       "sourceArticleId": "fort-stanton-new-mexico-wp",
       "sourceGeohash4": "9tuy",
-      "smallPath": "_m/9/t/u/y/fort-stanton-new-mexico-wp/adjutant-s-office-libr-small.jpg",
-      "mediumPath": "_m/9/t/u/y/fort-stanton-new-mexico-wp/adjutant-s-office-libr-medium.jpg"
+      "smallPath": "_m/9/t/u/y/fort-stanton-new-mexico-wp/adjutant-s-office-libr-small.webp",
+      "mediumPath": "_m/9/t/u/y/fort-stanton-new-mexico-wp/adjutant-s-office-libr-medium.webp"
     },
     {
       "filename": "PSM V82 D365 Summer housing at fort stanton.png",
@@ -160,7 +160,7 @@
       "sourceType": "core",
       "sourceArticleId": "fort-stanton-new-mexico-wp",
       "sourceGeohash4": "9tuy",
-      "smallPath": "_m/9/t/u/y/fort-stanton-new-mexico-wp/hygienic-lab-us-public-small.png"
+      "smallPath": "_m/9/t/u/y/fort-stanton-new-mexico-wp/hygienic-lab-us-public-small.webp"
     },
     {
       "filename": "Guard House Fort Stanton New Mexico.jpg",
@@ -182,7 +182,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-stanton-new-mexico-wp",
-      "sourceGeohash4": "9tuy"
+      "sourceGeohash4": "9tuy",
+      "mediumPath": "_m/9/t/u/y/fort-stanton-new-mexico-wp/guard-house-fort-stanton-new-m-medium.webp",
+      "smallPath": "_m/9/t/u/y/fort-stanton-new-mexico-wp/guard-house-fort-stanton-new-m-small.webp"
     },
     {
       "filename": "PSM V82 D364 Tuberculosis camp.png",
@@ -208,7 +210,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-stanton-new-mexico-wp",
-      "sourceGeohash4": "9tuy"
+      "sourceGeohash4": "9tuy",
+      "smallPath": "_m/9/t/u/y/fort-stanton-new-mexico-wp/psm-v82-d364-tuberculosis-camp-small.webp"
     },
     {
       "filename": "PSM V82 D366 Officers quarters at fort stanton new mexico.png",
@@ -234,7 +237,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-stanton-new-mexico-wp",
-      "sourceGeohash4": "9tuy"
+      "sourceGeohash4": "9tuy",
+      "smallPath": "_m/9/t/u/y/fort-stanton-new-mexico-wp/psm-v82-d366-officers-quarters-small.webp"
     },
     {
       "filename": "PSM V82 D367 Bed shelter in the hospital annex at fort stanton.png",
@@ -255,7 +259,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-stanton-new-mexico-wp",
-      "sourceGeohash4": "9tuy"
+      "sourceGeohash4": "9tuy",
+      "smallPath": "_m/9/t/u/y/fort-stanton-new-mexico-wp/psm-v82-d367-bed-shelter-in-th-small.webp"
     },
     {
       "filename": "Fort Stanton (71464e7a-8235-4de3-a2ce-f9901a2a7eb5).jpg",
@@ -271,7 +276,8 @@
       "dateCreated": "Taken on 12 September 2018",
       "sourceType": "commons-category",
       "sourceArticleId": "fort-stanton-new-mexico-wp",
-      "sourceGeohash4": "9tuy"
+      "sourceGeohash4": "9tuy",
+      "smallPath": "_m/9/t/u/y/fort-stanton-new-mexico-wp/fort-stanton-71464e7a-8235-4de-small.webp"
     },
     {
       "filename": "Map fort stanton.jpg",
@@ -285,7 +291,9 @@
       "dateCreated": "2006-12-08 14:45:23",
       "sourceType": "commons-category",
       "sourceArticleId": "fort-stanton-new-mexico-wp",
-      "sourceGeohash4": "9tuy"
+      "sourceGeohash4": "9tuy",
+      "mediumPath": "_m/9/t/u/y/fort-stanton-new-mexico-wp/map-fort-stanton-medium.webp",
+      "smallPath": "_m/9/t/u/y/fort-stanton-new-mexico-wp/map-fort-stanton-small.webp"
     }
   ],
   "galleryPaths": [
@@ -300,7 +308,6 @@
     "_m/9/t/u/y/fort-stanton-new-mexico-wp/fort-stanton-71464e7a-8235-4de.jpg",
     "_m/9/t/u/y/fort-stanton-new-mexico-wp/map-fort-stanton.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:28:59.085Z",
   "narration": {
     "files": [
       "9tuy-fort-stanton-from-apache-wars-to-snowy-river-cave-flight-context.mp3",
@@ -318,8 +325,7 @@
       "9tuy-fort-stanton-from-apache-wars-to-snowy-river-cave-hospital-and-internment-camp.mp3": 60.863875,
       "9tuy-fort-stanton-from-apache-wars-to-snowy-river-cave-snowy-river-and-the-conservation-area.mp3": 65.379375
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T04:30:19.802Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:29:02.905Z"
 }

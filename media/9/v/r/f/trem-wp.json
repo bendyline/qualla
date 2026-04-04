@@ -31,7 +31,9 @@
           "Files with coordinates missing SDC location of creation",
           "Flickr images uploaded by Flickr upload bot",
           "Taken with Canon PowerShot SX230 HS"
-        ]
+        ],
+        "mediumPath": "_m/9/v/r/f/trem-wp/hero-medium.webp",
+        "smallPath": "_m/9/v/r/f/trem-wp/hero-small.webp"
       },
       "images": [
         {
@@ -62,7 +64,7 @@
             "License migration opt-out",
             "Self-published work"
           ],
-          "smallPath": "_m/9/v/r/f/trem-wp/new-orleans-funeral-mu-small.jpg"
+          "smallPath": "_m/9/v/r/f/trem-wp/new-orleans-funeral-mu-small.webp"
         },
         {
           "path": "_m/9/v/r/f/trem-wp/new-orleans-club-fabul.jpg",
@@ -89,8 +91,8 @@
             "Self-published work",
             "Taken with Canon Digital IXUS 60"
           ],
-          "smallPath": "_m/9/v/r/f/trem-wp/new-orleans-club-fabul-small.jpg",
-          "mediumPath": "_m/9/v/r/f/trem-wp/new-orleans-club-fabul-medium.jpg"
+          "smallPath": "_m/9/v/r/f/trem-wp/new-orleans-club-fabul-small.webp",
+          "mediumPath": "_m/9/v/r/f/trem-wp/new-orleans-club-fabul-medium.webp"
         },
         {
           "path": "_m/9/v/r/f/trem-wp/new-orleans-meilleur-g.jpg",
@@ -110,8 +112,8 @@
           "categories": [
             "CC-BY-SA-3.0"
           ],
-          "smallPath": "_m/9/v/r/f/trem-wp/new-orleans-meilleur-g-small.jpg",
-          "mediumPath": "_m/9/v/r/f/trem-wp/new-orleans-meilleur-g-medium.jpg"
+          "smallPath": "_m/9/v/r/f/trem-wp/new-orleans-meilleur-g-small.webp",
+          "mediumPath": "_m/9/v/r/f/trem-wp/new-orleans-meilleur-g-medium.webp"
         },
         {
           "path": "_m/9/v/r/f/trem-wp/treme-brass-band-candl.jpg",
@@ -128,8 +130,8 @@
           "sourceArticleId": "trem-wp",
           "sourceGeohash4": "9vrf",
           "accessedAt": "2026-02-21T23:18:13.939Z",
-          "smallPath": "_m/9/v/r/f/trem-wp/treme-brass-band-candl-small.jpg",
-          "mediumPath": "_m/9/v/r/f/trem-wp/treme-brass-band-candl-medium.jpg"
+          "smallPath": "_m/9/v/r/f/trem-wp/treme-brass-band-candl-small.webp",
+          "mediumPath": "_m/9/v/r/f/trem-wp/treme-brass-band-candl-medium.webp"
         },
         {
           "path": "_m/9/v/r/f/trem-wp/louisiana-new-orleans.jpg",
@@ -145,8 +147,8 @@
           "sourceArticleId": "trem-wp",
           "sourceGeohash4": "9vrf",
           "accessedAt": "2026-02-21T23:18:13.939Z",
-          "smallPath": "_m/9/v/r/f/trem-wp/louisiana-new-orleans-small.jpg",
-          "mediumPath": "_m/9/v/r/f/trem-wp/louisiana-new-orleans-medium.jpg"
+          "smallPath": "_m/9/v/r/f/trem-wp/louisiana-new-orleans-small.webp",
+          "mediumPath": "_m/9/v/r/f/trem-wp/louisiana-new-orleans-medium.webp"
         },
         {
           "path": "_m/9/v/r/f/trem-wp/mural-located-snugly-u.jpg",
@@ -163,8 +165,8 @@
           "sourceArticleId": "trem-wp",
           "sourceGeohash4": "9vrf",
           "accessedAt": "2026-02-21T23:18:13.939Z",
-          "smallPath": "_m/9/v/r/f/trem-wp/mural-located-snugly-u-small.jpg",
-          "mediumPath": "_m/9/v/r/f/trem-wp/mural-located-snugly-u-medium.jpg"
+          "smallPath": "_m/9/v/r/f/trem-wp/mural-located-snugly-u-small.webp",
+          "mediumPath": "_m/9/v/r/f/trem-wp/mural-located-snugly-u-medium.webp"
         },
         {
           "path": "_m/9/v/r/f/trem-wp/carver-theatre-located.jpg",
@@ -181,7 +183,7 @@
           "sourceArticleId": "trem-wp",
           "sourceGeohash4": "9vrf",
           "accessedAt": "2026-02-21T23:18:13.939Z",
-          "smallPath": "_m/9/v/r/f/trem-wp/carver-theatre-located-small.jpg"
+          "smallPath": "_m/9/v/r/f/trem-wp/carver-theatre-located-small.webp"
         },
         {
           "path": "_m/tpc/tr/em/e_/__/treme/tremebackstreet.jpg",
@@ -318,7 +320,8 @@
           "sourceGeohash4": "tpc/tr/em/e_/__",
           "accessedAt": "2026-02-21T23:18:13.939Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/v/r/f/trem-wp/9vrf-trem-combined.mp3"
     }
   }
 }

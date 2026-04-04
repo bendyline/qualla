@@ -113,76 +113,66 @@
   "locationWikipediaPath": "d/3/4/7/medellin-wp",
   "directionalNeighbors": {
     "nw": {
-      "id": "birdwatching-in-costa-rica-wk",
-      "title": "Birdwatching in Costa Rica",
-      "tile": "d1s7",
+      "id": "los-katios-national-park-wp",
+      "title": "Los Katíos National Park",
+      "tile": "d33h",
       "coordinates": {
-        "lat": 9.09193,
-        "lng": -83.7323
+        "lat": 7.8,
+        "lng": -77.15
       },
-      "distanceKm": 905.6
+      "distanceKm": 196.6
     },
     "n": {
-      "id": "cartagena-wk",
-      "title": "Cartagena",
-      "tile": "d3f7",
+      "id": "puente-de-occidente-wp",
+      "title": "Puente de Occidente",
+      "tile": "d34j",
       "coordinates": {
-        "lat": 10.391,
-        "lng": -75.4794
+        "lat": 6.57781,
+        "lng": -75.7983
       },
-      "distanceKm": 432.3
+      "distanceKm": 43.7
     },
     "ne": {
-      "id": "labadee-wk",
-      "title": "Labadee",
-      "tile": "d7s8",
+      "id": "barichara-wp",
+      "title": "Barichara",
+      "tile": "d35v",
       "coordinates": {
-        "lat": 19.786389,
-        "lng": -72.245556
+        "lat": 6.6361111111111,
+        "lng": -73.223611111111
       },
-      "distanceKm": 1504.2
+      "distanceKm": 183.9
     },
     "w": {
-      "id": "juan-castro-blanco-national-park-wk",
-      "title": "Juan Castro Blanco National Park",
-      "tile": "d1u4",
+      "id": "utria-national-natural-park-wp",
+      "title": "Utria National Natural Park",
+      "tile": "d30f",
       "coordinates": {
-        "lat": 10.28,
-        "lng": -84.33
+        "lat": 5.98333,
+        "lng": -77.35
       },
-      "distanceKm": 1026.8
+      "distanceKm": 158.8
     },
     "e": {
-      "id": "old-san-juan-el-morro-wk",
-      "title": "El Morro: The Fortress That Guarded Spain's Empire",
-      "tile": "de2c",
+      "id": "casa-del-fundador-gonzalo-suarez-rendon-wp",
+      "title": "Casa del Fundador Gonzalo Suarez Rendon",
+      "tile": "d359",
       "coordinates": {
-        "lat": 18.4706,
-        "lng": -66.1239
+        "lat": 5.88333333,
+        "lng": -73.6
       },
-      "distanceKm": 1658.5
+      "distanceKm": 147.3
     },
     "sw": {
-      "id": "quito-wk",
-      "title": "Quito",
-      "tile": "6rbn",
+      "id": "tutunendo-wp",
+      "title": "Tutunendo",
+      "tile": "d318",
       "coordinates": {
-        "lat": -0.1807,
-        "lng": -78.4678
+        "lat": 5.7430555555556,
+        "lng": -76.538333333333
       },
-      "distanceKm": 740
+      "distanceKm": 71.4
     },
     "s": {
-      "id": "galapagos-wk",
-      "title": "The Galápagos: The Islands That Inspired Evolution",
-      "tile": "3zzt",
-      "coordinates": {
-        "lat": -0.37,
-        "lng": -90.55
-      },
-      "distanceKm": 1822.7
-    },
-    "se": {
       "id": "bogota-wk",
       "title": "Bogota",
       "tile": "d2g6",
@@ -190,7 +180,17 @@
         "lat": 4.711,
         "lng": -74.0721
       },
-      "distanceKm": 166.9
+      "distanceKm": 204.3
+    },
+    "se": {
+      "id": "hacienda-napoles-wp",
+      "title": "Hacienda Napoles",
+      "tile": "d34c",
+      "coordinates": {
+        "lat": 5.925541666666667,
+        "lng": -74.7221888888889
+      },
+      "distanceKm": 18.6
     }
   },
   "keywords": [

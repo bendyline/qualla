@@ -113,84 +113,84 @@
   "locationWikivoyagePath": "e/z/j/m/madrid-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "porto-wk",
-      "title": "Porto",
-      "tile": "ez3f",
+      "id": "avila-cathedral-wp",
+      "title": "Avila Cathedral",
+      "tile": "ezhx",
       "coordinates": {
-        "lat": 41.1579,
-        "lng": -8.6291
+        "lat": 40.65583333,
+        "lng": -4.69722222
       },
-      "distanceKm": 375.8
+      "distanceKm": 40.8
     },
     "n": {
-      "id": "barcelona-wk",
-      "title": "Barcelona",
-      "tile": "sp3e",
+      "id": "new-castle-of-manzanares-el-real-wp",
+      "title": "New Castle of Manzanares el Real",
+      "tile": "ezjr",
       "coordinates": {
-        "lat": 41.3825,
-        "lng": 2.1769
+        "lat": 40.72722222,
+        "lng": -3.86222222
       },
-      "distanceKm": 499.9
+      "distanceKm": 19.8
     },
     "ne": {
-      "id": "bilbao-wk",
-      "title": "Bilbao",
-      "tile": "ezty",
+      "id": "castle-of-gormaz-wp",
+      "title": "Castle of Gormaz",
+      "tile": "ezmu",
       "coordinates": {
-        "lat": 43.263,
-        "lng": -2.935
+        "lat": 41.4937,
+        "lng": -3.008
       },
-      "distanceKm": 296.1
+      "distanceKm": 99.6
     },
     "w": {
-      "id": "seville-wk",
-      "title": "Seville",
-      "tile": "eyes",
+      "id": "la-mota-castle-medina-del-campo-wp",
+      "title": "La Mota Castle",
+      "tile": "ezke",
       "coordinates": {
-        "lat": 37.3891,
-        "lng": -5.9845
+        "lat": 41.3089,
+        "lng": -4.90833
       },
-      "distanceKm": 362.1
+      "distanceKm": 122.2
     },
     "e": {
-      "id": "cabo-de-gata-n-jar-natural-park-wk",
-      "title": "Cabo de Gata-Nijar Natural Park",
-      "tile": "eyw9",
+      "id": "castle-of-zorita-de-los-canes-alcazaba-de-zorita-wp",
+      "title": "Castle of Zorita de los Canes",
+      "tile": "ezjv",
       "coordinates": {
-        "lat": 36.7833,
-        "lng": -2.1
+        "lat": 40.331679,
+        "lng": -2.887496
       },
-      "distanceKm": 406.3
+      "distanceKm": 23.5
     },
     "sw": {
-      "id": "seville-province-wk",
-      "title": "Seville Province",
-      "tile": "eysj",
+      "id": "battle-of-talavera-de-la-reina-1936-wp",
+      "title": "Battle of Talavera de la Reina (1936)",
+      "tile": "ezhe",
       "coordinates": {
-        "lat": 37.5,
-        "lng": -5.5
+        "lat": 39.958333333333,
+        "lng": -4.8327777777778
       },
-      "distanceKm": 307.4
+      "distanceKm": 54
     },
     "s": {
-      "id": "granada-wk",
-      "title": "Granada",
-      "tile": "eyt7",
+      "id": "royal-palace-of-aranjuez-wp",
+      "title": "Royal Palace of Aranjuez",
+      "tile": "ezj7",
       "coordinates": {
-        "lat": 37.1773,
-        "lng": -3.5986
+        "lat": 40.03694,
+        "lng": -3.61139
       },
-      "distanceKm": 322.7
+      "distanceKm": 8.2
     },
     "se": {
-      "id": "valencia-wk",
-      "title": "Valencia",
-      "tile": "ezp8",
+      "id": "castle-of-belmonte-cuenca-wp",
+      "title": "Castle of Belmonte",
+      "tile": "ezn1",
       "coordinates": {
-        "lat": 39.4699,
-        "lng": -0.3763
+        "lat": 39.55805556,
+        "lng": -2.69694444
       },
-      "distanceKm": 247.6
+      "distanceKm": 70.3
     }
   },
   "keywords": [

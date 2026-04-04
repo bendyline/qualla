@@ -27,8 +27,8 @@
     "sourceType": "core",
     "sourceArticleId": "lennoxville-massacre-wp",
     "sourceGeohash4": "f2hf",
-    "mediumPath": "_m/f/2/h/f/lennoxville-massacre-wp/hero-medium.jpg",
-    "smallPath": "_m/f/2/h/f/lennoxville-massacre-wp/hero-small.jpg"
+    "mediumPath": "_m/f/2/h/f/lennoxville-massacre-wp/hero-medium.webp",
+    "smallPath": "_m/f/2/h/f/lennoxville-massacre-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "311-315, rue Saint-Charles Ouest, Longueuil.jpg",
@@ -60,5 +60,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-02-28T14:09:46.156Z"
+  "narration": {
+    "files": [
+      "f2hf-lennoxville-massacre-flight-context.mp3",
+      "f2hf-lennoxville-massacre-intro.mp3",
+      "f2hf-lennoxville-massacre-the-popeyes-and-the-price-of-power.mp3",
+      "f2hf-lennoxville-massacre-a-meeting-in-sorel.mp3",
+      "f2hf-lennoxville-massacre-loyalty-tests-and-loose-ends.mp3",
+      "f2hf-lennoxville-massacre-the-war-that-followed.mp3"
+    ],
+    "durations": {
+      "f2hf-lennoxville-massacre-flight-context.mp3": 37.5934166,
+      "f2hf-lennoxville-massacre-intro.mp3": 45.7290833,
+      "f2hf-lennoxville-massacre-the-popeyes-and-the-price-of-power.mp3": 65.1795416,
+      "f2hf-lennoxville-massacre-a-meeting-in-sorel.mp3": 60.62125,
+      "f2hf-lennoxville-massacre-loyalty-tests-and-loose-ends.mp3": 59.623375,
+      "f2hf-lennoxville-massacre-the-war-that-followed.mp3": 67.421
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

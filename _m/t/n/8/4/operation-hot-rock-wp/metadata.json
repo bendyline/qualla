@@ -26,8 +26,8 @@
     "sourceType": "core",
     "sourceArticleId": "operation-hot-rock-wp",
     "sourceGeohash4": "tn84",
-    "mediumPath": "_m/t/n/8/4/operation-hot-rock-wp/hero-medium.jpg",
-    "smallPath": "_m/t/n/8/4/operation-hot-rock-wp/hero-small.jpg"
+    "mediumPath": "_m/t/n/8/4/operation-hot-rock-wp/hero-medium.webp",
+    "smallPath": "_m/t/n/8/4/operation-hot-rock-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Lava flow from 1992 Etna eruption.jpg",
@@ -58,5 +58,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T12:30:42.277Z"
+  "narration": {
+    "files": [
+      "tn84-operation-hot-rock-flight-context.mp3",
+      "tn84-operation-hot-rock-intro.mp3",
+      "tn84-operation-hot-rock-a-river-of-fire-bearing-down.mp3",
+      "tn84-operation-hot-rock-concrete-against-magma.mp3",
+      "tn84-operation-hot-rock-blowing-open-the-mountain.mp3",
+      "tn84-operation-hot-rock-what-the-lava-left-behind.mp3"
+    ],
+    "durations": {
+      "tn84-operation-hot-rock-flight-context.mp3": 54.0985,
+      "tn84-operation-hot-rock-intro.mp3": 45.8805,
+      "tn84-operation-hot-rock-a-river-of-fire-bearing-down.mp3": 65.7413333,
+      "tn84-operation-hot-rock-concrete-against-magma.mp3": 68.8892083,
+      "tn84-operation-hot-rock-blowing-open-the-mountain.mp3": 71.7848333,
+      "tn84-operation-hot-rock-what-the-lava-left-behind.mp3": 63.5233333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -11,7 +11,6 @@
       "dds7-the-eruption-of-mount-pel-e-30-000-dead-in-two-min-the-science.mp3"
     ],
     "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-24T07:45:44.119Z",
     "durations": {
       "dds7-the-eruption-of-mount-pel-e-30-000-dead-in-two-min-flight-context.mp3": 42.3739583,
       "dds7-the-eruption-of-mount-pel-e-30-000-dead-in-two-min-intro.mp3": 45.6271666,
@@ -22,7 +21,6 @@
       "dds7-the-eruption-of-mount-pel-e-30-000-dead-in-two-min-the-science.mp3": 45.2745
     }
   },
-  "fetchedAt": "2026-02-22T03:18:28.700Z",
   "hero": {
     "filename": "Saint-Pierre, Martinique (seen from the harbor - 2005-06-15).jpg",
     "title": "File:Saint-Pierre, Martinique (seen from the harbor - 2005-06-15).jpg",
@@ -51,8 +49,8 @@
     "sourceType": "core",
     "sourceArticleId": "mt-pelee-wk",
     "sourceGeohash4": "dds7",
-    "smallPath": "_m/d/d/s/7/mt-pelee-wk/hero-small.jpg",
-    "mediumPath": "_m/d/d/s/7/mt-pelee-wk/hero-medium.jpg"
+    "smallPath": "_m/d/d/s/7/mt-pelee-wk/hero-small.webp",
+    "mediumPath": "_m/d/d/s/7/mt-pelee-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Saint-Pierre, Martinique (seen from the harbor - 2005-06-15).jpg",
@@ -108,7 +106,7 @@
       "sourceType": "core",
       "sourceArticleId": "mt-pelee-wk",
       "sourceGeohash4": "dds7",
-      "smallPath": "_m/d/d/s/7/mt-pelee-wk/1902-pelee-map-small.jpg"
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/1902-pelee-map-small.webp"
     },
     {
       "filename": "Saint-Pierre (Martinique) avec Montage Pelée.JPG",
@@ -137,7 +135,7 @@
       "sourceType": "core",
       "sourceArticleId": "mt-pelee-wk",
       "sourceGeohash4": "dds7",
-      "smallPath": "_m/d/d/s/7/mt-pelee-wk/saint-pierre-martiniqu-small.jpg"
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/saint-pierre-martiniqu-small.webp"
     },
     {
       "filename": "Baie de Saint Pierre.jpeg",
@@ -164,8 +162,8 @@
       "sourceType": "core",
       "sourceArticleId": "mt-pelee-wk",
       "sourceGeohash4": "dds7",
-      "smallPath": "_m/d/d/s/7/mt-pelee-wk/montagne-pelee-small.jpg",
-      "mediumPath": "_m/d/d/s/7/mt-pelee-wk/montagne-pelee-medium.jpg"
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/montagne-pelee-small.webp",
+      "mediumPath": "_m/d/d/s/7/mt-pelee-wk/montagne-pelee-medium.webp"
     },
     {
       "filename": "Locator map of Saint-Pierre - Martinique 2018.png",
@@ -193,8 +191,8 @@
       "sourceType": "core",
       "sourceArticleId": "mt-pelee-wk",
       "sourceGeohash4": "dds7",
-      "smallPath": "_m/d/d/s/7/mt-pelee-wk/lage-der-gemeinde-sain-small.png",
-      "mediumPath": "_m/d/d/s/7/mt-pelee-wk/lage-der-gemeinde-sain-medium.png"
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/lage-der-gemeinde-sain-small.webp",
+      "mediumPath": "_m/d/d/s/7/mt-pelee-wk/lage-der-gemeinde-sain-medium.webp"
     },
     {
       "filename": "La Catastrophe de la Martinique (Hess)-carte.jpg",
@@ -221,7 +219,7 @@
       "sourceType": "core",
       "sourceArticleId": "mt-pelee-wk",
       "sourceGeohash4": "dds7",
-      "smallPath": "_m/d/d/s/7/mt-pelee-wk/map-city-saint-pierre-small.jpg"
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/map-city-saint-pierre-small.webp"
     },
     {
       "filename": "Cimetière de Saint Pierre.jpg",
@@ -244,7 +242,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "mt-pelee-wk",
-      "sourceGeohash4": "dds7"
+      "sourceGeohash4": "dds7",
+      "mediumPath": "_m/d/d/s/7/mt-pelee-wk/cimetiere-de-saint-pierre-medium.webp",
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/cimetiere-de-saint-pierre-small.webp"
     },
     {
       "filename": "Le Tour du monde-02-p052.jpg",
@@ -260,7 +260,8 @@
       "dateCreated": "1860-07-01",
       "sourceType": "commons-category",
       "sourceArticleId": "mt-pelee-wk",
-      "sourceGeohash4": "dds7"
+      "sourceGeohash4": "dds7",
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/le-tour-du-monde-02-p052-small.webp"
     },
     {
       "filename": "Jacques François Coquille dit Dugommier Projet d'une Constitution générale coloniale, Juillet 1790.png",
@@ -277,7 +278,8 @@
       "dateCreated": "1790-07",
       "sourceType": "commons-category",
       "sourceArticleId": "mt-pelee-wk",
-      "sourceGeohash4": "dds7"
+      "sourceGeohash4": "dds7",
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/jacques-francois-coquille-dit--small.webp"
     },
     {
       "filename": "Image Montagne Pelée.jpg",
@@ -294,7 +296,8 @@
       "dateCreated": "2018-08-09",
       "sourceType": "commons-category",
       "sourceArticleId": "mt-pelee-wk",
-      "sourceGeohash4": "dds7"
+      "sourceGeohash4": "dds7",
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/image-montagne-pelee-small.webp"
     },
     {
       "filename": "Maison de la Bourse, Saint Pierre.jpg",
@@ -311,7 +314,9 @@
       "dateCreated": "2020-10-23 17:17:28",
       "sourceType": "commons-category",
       "sourceArticleId": "mt-pelee-wk",
-      "sourceGeohash4": "dds7"
+      "sourceGeohash4": "dds7",
+      "mediumPath": "_m/d/d/s/7/mt-pelee-wk/maison-de-la-bourse-saint-pier-medium.webp",
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/maison-de-la-bourse-saint-pier-small.webp"
     },
     {
       "filename": "Baie de saint Pierre Martinique.jpg",
@@ -328,7 +333,8 @@
       "dateCreated": "2020-07-01",
       "sourceType": "commons-category",
       "sourceArticleId": "mt-pelee-wk",
-      "sourceGeohash4": "dds7"
+      "sourceGeohash4": "dds7",
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/baie-de-saint-pierre-martiniqu-small.webp"
     },
     {
       "filename": "Martinique - St. Pierre - The Prison (51358866337).jpg",
@@ -345,7 +351,9 @@
       "dateCreated": "2020-01-18 11:30",
       "sourceType": "commons-category",
       "sourceArticleId": "mt-pelee-wk",
-      "sourceGeohash4": "dds7"
+      "sourceGeohash4": "dds7",
+      "mediumPath": "_m/d/d/s/7/mt-pelee-wk/martinique-st-pierre-the-priso-medium.webp",
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/martinique-st-pierre-the-priso-small.webp"
     },
     {
       "filename": "Martinique - St. Pierre - The Prison (51358866282).jpg",
@@ -362,7 +370,9 @@
       "dateCreated": "2020-01-18 11:30",
       "sourceType": "commons-category",
       "sourceArticleId": "mt-pelee-wk",
-      "sourceGeohash4": "dds7"
+      "sourceGeohash4": "dds7",
+      "mediumPath": "_m/d/d/s/7/mt-pelee-wk/martinique-st-pierre-the-priso-1-medium.webp",
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/martinique-st-pierre-the-priso-1-small.webp"
     },
     {
       "filename": "Martinique - St. Pierre - Fort Church Ruins (51339315494).jpg",
@@ -379,7 +389,9 @@
       "dateCreated": "2020-01-18 11:53",
       "sourceType": "commons-category",
       "sourceArticleId": "mt-pelee-wk",
-      "sourceGeohash4": "dds7"
+      "sourceGeohash4": "dds7",
+      "mediumPath": "_m/d/d/s/7/mt-pelee-wk/martinique-st-pierre-fort-chur-medium.webp",
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/martinique-st-pierre-fort-chur-small.webp"
     },
     {
       "filename": "Martinique - St. Pierre - Fort Church Ruins (51339310074).jpg",
@@ -396,7 +408,9 @@
       "dateCreated": "2020-01-18 11:53",
       "sourceType": "commons-category",
       "sourceArticleId": "mt-pelee-wk",
-      "sourceGeohash4": "dds7"
+      "sourceGeohash4": "dds7",
+      "mediumPath": "_m/d/d/s/7/mt-pelee-wk/martinique-st-pierre-fort-chur-1-medium.webp",
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/martinique-st-pierre-fort-chur-1-small.webp"
     },
     {
       "filename": "Martinique - St. Pierre - Fiquier Quarter (51313863673).jpg",
@@ -413,7 +427,9 @@
       "dateCreated": "2020-01-18 11:02",
       "sourceType": "commons-category",
       "sourceArticleId": "mt-pelee-wk",
-      "sourceGeohash4": "dds7"
+      "sourceGeohash4": "dds7",
+      "mediumPath": "_m/d/d/s/7/mt-pelee-wk/martinique-st-pierre-fiquier-q-medium.webp",
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/martinique-st-pierre-fiquier-q-small.webp"
     },
     {
       "filename": "Martinique - St. Pierre - Fiquier Quarter (51313863663).jpg",
@@ -430,7 +446,9 @@
       "dateCreated": "2020-01-18 11:02",
       "sourceType": "commons-category",
       "sourceArticleId": "mt-pelee-wk",
-      "sourceGeohash4": "dds7"
+      "sourceGeohash4": "dds7",
+      "mediumPath": "_m/d/d/s/7/mt-pelee-wk/martinique-st-pierre-fiquier-q-1-medium.webp",
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/martinique-st-pierre-fiquier-q-1-small.webp"
     },
     {
       "filename": "Martinique - St. Pierre - \"Monte-au-Ciel\" Street (51257267053).jpg",
@@ -447,7 +465,9 @@
       "dateCreated": "2020-01-18 12:19",
       "sourceType": "commons-category",
       "sourceArticleId": "mt-pelee-wk",
-      "sourceGeohash4": "dds7"
+      "sourceGeohash4": "dds7",
+      "mediumPath": "_m/d/d/s/7/mt-pelee-wk/martinique-st-pierre-monte-au--medium.webp",
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/martinique-st-pierre-monte-au--small.webp"
     },
     {
       "filename": "Martinique - St. Pierre - \"Monte-au-Ciel\" Street (51257067746).jpg",
@@ -464,7 +484,9 @@
       "dateCreated": "2020-01-18 12:19",
       "sourceType": "commons-category",
       "sourceArticleId": "mt-pelee-wk",
-      "sourceGeohash4": "dds7"
+      "sourceGeohash4": "dds7",
+      "mediumPath": "_m/d/d/s/7/mt-pelee-wk/martinique-st-pierre-monte-au--1-medium.webp",
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/martinique-st-pierre-monte-au--1-small.webp"
     },
     {
       "filename": "Anse Latouche (Saint-Pierre).jpg",
@@ -481,7 +503,9 @@
       "dateCreated": "2022-07-10 16:24:19",
       "sourceType": "commons-category",
       "sourceArticleId": "mt-pelee-wk",
-      "sourceGeohash4": "dds7"
+      "sourceGeohash4": "dds7",
+      "mediumPath": "_m/d/d/s/7/mt-pelee-wk/anse-latouche-saint-pierre-medium.webp",
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/anse-latouche-saint-pierre-small.webp"
     },
     {
       "filename": "Championnat de Tennis de la caraibes et des amériques.png",
@@ -498,7 +522,8 @@
       "dateCreated": "1979-09-01",
       "sourceType": "commons-category",
       "sourceArticleId": "mt-pelee-wk",
-      "sourceGeohash4": "dds7"
+      "sourceGeohash4": "dds7",
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/championnat-de-tennis-de-la-ca-small.webp"
     },
     {
       "filename": "Admiralty Chart No 494 Plans in Martinique, Published 1956.jpg",
@@ -514,7 +539,9 @@
       "dateCreated": "1956-10-05",
       "sourceType": "commons-category",
       "sourceArticleId": "mt-pelee-wk",
-      "sourceGeohash4": "dds7"
+      "sourceGeohash4": "dds7",
+      "mediumPath": "_m/d/d/s/7/mt-pelee-wk/admiralty-chart-no-494-plans-i-medium.webp",
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/admiralty-chart-no-494-plans-i-small.webp"
     },
     {
       "filename": "Liane de Saint-Jean (Saint-Pierre, Martinique) - 01.jpg",
@@ -531,7 +558,9 @@
       "dateCreated": "2011-01-23 19:00:15",
       "sourceType": "commons-category",
       "sourceArticleId": "mt-pelee-wk",
-      "sourceGeohash4": "dds7"
+      "sourceGeohash4": "dds7",
+      "mediumPath": "_m/d/d/s/7/mt-pelee-wk/liane-de-saint-jean-saint-pier-medium.webp",
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/liane-de-saint-jean-saint-pier-small.webp"
     },
     {
       "filename": "Martinique - St. Pierre - The Theater (50989346291).jpg",
@@ -554,7 +583,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "mt-pelee-wk",
-      "sourceGeohash4": "dds7"
+      "sourceGeohash4": "dds7",
+      "mediumPath": "_m/d/d/s/7/mt-pelee-wk/martinique-st-pierre-the-theat-medium.webp",
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/martinique-st-pierre-the-theat-small.webp"
     },
     {
       "filename": "Martinique - St. Pierre - The Theater (50988652998).jpg",
@@ -577,7 +608,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "mt-pelee-wk",
-      "sourceGeohash4": "dds7"
+      "sourceGeohash4": "dds7",
+      "mediumPath": "_m/d/d/s/7/mt-pelee-wk/martinique-st-pierre-the-theat-1-medium.webp",
+      "smallPath": "_m/d/d/s/7/mt-pelee-wk/martinique-st-pierre-the-theat-1-small.webp"
     }
   ],
   "galleryPaths": [

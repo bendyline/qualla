@@ -27,7 +27,7 @@
     "sourceType": "core",
     "sourceArticleId": "webster-marble-wp",
     "sourceGeohash4": "f04h",
-    "smallPath": "_m/f/0/4/h/webster-marble-wp/hero-small.jpg"
+    "smallPath": "_m/f/0/4/h/webster-marble-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Webster Marble Ed Pearce (Game Getter Gun) Floyd Marble c.1921.jpg",
@@ -59,5 +59,25 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-02-28T10:05:35.718Z"
+  "narration": {
+    "files": [
+      "f04h-webster-marble-flight-context.mp3",
+      "f04h-webster-marble-intro.mp3",
+      "f04h-webster-marble-raised-in-the-woods.mp3",
+      "f04h-webster-marble-twenty-years-in-the-white-pines.mp3",
+      "f04h-webster-marble-from-garage-to-madison-square-garden.mp3",
+      "f04h-webster-marble-tools-that-crossed-oceans.mp3",
+      "f04h-webster-marble-gladstones-lasting-legacy.mp3"
+    ],
+    "durations": {
+      "f04h-webster-marble-flight-context.mp3": 50.9024583,
+      "f04h-webster-marble-intro.mp3": 54.9168333,
+      "f04h-webster-marble-raised-in-the-woods.mp3": 56.7760833,
+      "f04h-webster-marble-twenty-years-in-the-white-pines.mp3": 65.7061666,
+      "f04h-webster-marble-from-garage-to-madison-square-garden.mp3": 71.0556666,
+      "f04h-webster-marble-tools-that-crossed-oceans.mp3": 84.1288333,
+      "f04h-webster-marble-gladstones-lasting-legacy.mp3": 75.138
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -31,8 +31,8 @@
     "sourceType": "core",
     "sourceArticleId": "ch-teau-frontenac-wp",
     "sourceGeohash4": "f2m6",
-    "mediumPath": "_m/f/2/m/6/ch-teau-frontenac-wp/hero-medium.jpg",
-    "smallPath": "_m/f/2/m/6/ch-teau-frontenac-wp/hero-small.jpg"
+    "mediumPath": "_m/f/2/m/6/ch-teau-frontenac-wp/hero-medium.webp",
+    "smallPath": "_m/f/2/m/6/ch-teau-frontenac-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Chateau Frontenac 37.JPG",
@@ -101,7 +101,7 @@
       "sourceType": "core",
       "sourceArticleId": "ch-teau-frontenac-wp",
       "sourceGeohash4": "f2m6",
-      "smallPath": "_m/f/2/m/6/ch-teau-frontenac-wp/title-prime-minister-s-small.jpg"
+      "smallPath": "_m/f/2/m/6/ch-teau-frontenac-wp/title-prime-minister-s-small.webp"
     },
     {
       "filename": "Château Frontenac 02.jpg",
@@ -134,7 +134,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "ch-teau-frontenac-wp",
-      "sourceGeohash4": "f2m6"
+      "sourceGeohash4": "f2m6",
+      "mediumPath": "_m/f/2/m/6/ch-teau-frontenac-wp/chateau-frontenac-seen-medium.webp",
+      "smallPath": "_m/f/2/m/6/ch-teau-frontenac-wp/chateau-frontenac-seen-small.webp"
     },
     {
       "filename": "2016-11 Château Frontenac 06.jpg",
@@ -161,8 +163,8 @@
       "sourceType": "core",
       "sourceArticleId": "ch-teau-frontenac-wp",
       "sourceGeohash4": "f2m6",
-      "mediumPath": "_m/f/2/m/6/ch-teau-frontenac-wp/chateau-frontenac-queb-medium.jpg",
-      "smallPath": "_m/f/2/m/6/ch-teau-frontenac-wp/chateau-frontenac-queb-small.jpg"
+      "mediumPath": "_m/f/2/m/6/ch-teau-frontenac-wp/chateau-frontenac-queb-medium.webp",
+      "smallPath": "_m/f/2/m/6/ch-teau-frontenac-wp/chateau-frontenac-queb-small.webp"
     },
     {
       "filename": "Portrait of Louis de Buade, Count of Frontenac (cropped).jpg",
@@ -186,8 +188,8 @@
       "sourceType": "core",
       "sourceArticleId": "ch-teau-frontenac-wp",
       "sourceGeohash4": "f2m6",
-      "mediumPath": "_m/f/2/m/6/ch-teau-frontenac-wp/portrait-louis-de-buad-medium.jpg",
-      "smallPath": "_m/f/2/m/6/ch-teau-frontenac-wp/portrait-louis-de-buad-small.jpg"
+      "mediumPath": "_m/f/2/m/6/ch-teau-frontenac-wp/portrait-louis-de-buad-medium.webp",
+      "smallPath": "_m/f/2/m/6/ch-teau-frontenac-wp/portrait-louis-de-buad-small.webp"
     }
   ],
   "galleryPaths": [
@@ -196,5 +198,25 @@
     "_m/f/2/m/6/ch-teau-frontenac-wp/chateau-frontenac-queb.jpg",
     "_m/f/2/m/6/ch-teau-frontenac-wp/portrait-louis-de-buad.jpg"
   ],
-  "fetchedAt": "2026-02-28T14:30:05.240Z"
+  "narration": {
+    "files": [
+      "f2m6-chateau-frontenac-flight-context.mp3",
+      "f2m6-chateau-frontenac-intro.mp3",
+      "f2m6-chateau-frontenac-a-governors-ghost-on-the-cape.mp3",
+      "f2m6-chateau-frontenac-where-world-leaders-gathered.mp3",
+      "f2m6-chateau-frontenac-the-tower-and-the-skyline.mp3",
+      "f2m6-chateau-frontenac-copper-bees-and-70-000-workers.mp3",
+      "f2m6-chateau-frontenac-the-castle-on-the-river.mp3"
+    ],
+    "durations": {
+      "f2m6-chateau-frontenac-flight-context.mp3": 52.48225,
+      "f2m6-chateau-frontenac-intro.mp3": 60.1507916,
+      "f2m6-chateau-frontenac-a-governors-ghost-on-the-cape.mp3": 70.8035,
+      "f2m6-chateau-frontenac-where-world-leaders-gathered.mp3": 54.7714583,
+      "f2m6-chateau-frontenac-the-tower-and-the-skyline.mp3": 78.498375,
+      "f2m6-chateau-frontenac-copper-bees-and-70-000-workers.mp3": 68.50525,
+      "f2m6-chateau-frontenac-the-castle-on-the-river.mp3": 64.8685833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

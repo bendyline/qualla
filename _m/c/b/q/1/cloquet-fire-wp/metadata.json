@@ -31,7 +31,7 @@
     "sourceType": "core",
     "sourceArticleId": "cloquet-fire-wp",
     "sourceGeohash4": "cbq1",
-    "smallPath": "_m/c/b/q/1/cloquet-fire-wp/hero-small.jpg"
+    "smallPath": "_m/c/b/q/1/cloquet-fire-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Fires P7120307.jpg",
@@ -88,7 +88,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cloquet-fire-wp",
-      "sourceGeohash4": "cbq1"
+      "sourceGeohash4": "cbq1",
+      "smallPath": "_m/c/b/q/1/cloquet-fire-wp/cloquet-minnesota-after-the-19-small.webp"
     },
     {
       "filename": "Damaged Properties - Minnesota - DPLA - f63fb2e68f4fc69025b7383ec64b717a.jpg",
@@ -115,14 +116,15 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cloquet-fire-wp",
-      "sourceGeohash4": "cbq1"
+      "sourceGeohash4": "cbq1",
+      "mediumPath": "_m/c/b/q/1/cloquet-fire-wp/damaged-properties-minnesota-d-medium.webp",
+      "smallPath": "_m/c/b/q/1/cloquet-fire-wp/damaged-properties-minnesota-d-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/c/b/q/1/cloquet-fire-wp/cloquet-minnesota-after-the-19.jpg",
     "_m/c/b/q/1/cloquet-fire-wp/damaged-properties-minnesota-d.jpg"
   ],
-  "fetchedAt": "2026-02-22T03:03:13.833Z",
   "narration": {
     "files": [
       "cbq1-cloquet-fire-flight-context.mp3",
@@ -142,8 +144,7 @@
       "cbq1-cloquet-fire-rebuilding-from-ash.mp3": 62.357875,
       "cbq1-cloquet-fire-remembering-the-453.mp3": 58.0864583
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T11:11:37.429Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T03:03:15.490Z"
 }

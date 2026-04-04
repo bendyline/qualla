@@ -25,8 +25,8 @@
     "sourceType": "core",
     "sourceArticleId": "fergus-falls-regional-treatment-center-wp",
     "sourceGeohash4": "cb5x",
-    "smallPath": "_m/c/b/5/x/fergus-falls-regional-treatment-center-wp/hero-small.jpg",
-    "mediumPath": "_m/c/b/5/x/fergus-falls-regional-treatment-center-wp/hero-medium.jpg"
+    "smallPath": "_m/c/b/5/x/fergus-falls-regional-treatment-center-wp/hero-small.webp",
+    "mediumPath": "_m/c/b/5/x/fergus-falls-regional-treatment-center-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Fergus Falls State Hospital 2012 (7513335712).jpg",
@@ -85,7 +85,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fergus-falls-regional-treatment-center-wp",
-      "sourceGeohash4": "cb5x"
+      "sourceGeohash4": "cb5x",
+      "mediumPath": "_m/c/b/5/x/fergus-falls-regional-treatment-center-wp/fergus-falls-regional-treatmen-medium.webp",
+      "smallPath": "_m/c/b/5/x/fergus-falls-regional-treatment-center-wp/fergus-falls-regional-treatmen-small.webp"
     },
     {
       "filename": "Details of the Fergus Falls Regional Treatment Center.jpg",
@@ -118,7 +120,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fergus-falls-regional-treatment-center-wp",
-      "sourceGeohash4": "cb5x"
+      "sourceGeohash4": "cb5x",
+      "smallPath": "_m/c/b/5/x/fergus-falls-regional-treatment-center-wp/details-of-the-fergus-falls-re-small.webp"
     },
     {
       "filename": "Fergus Falls Regional Treatment Center (53013416325).jpg",
@@ -143,7 +146,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fergus-falls-regional-treatment-center-wp",
-      "sourceGeohash4": "cb5x"
+      "sourceGeohash4": "cb5x",
+      "mediumPath": "_m/c/b/5/x/fergus-falls-regional-treatment-center-wp/fergus-falls-regional-treatmen-1-medium.webp",
+      "smallPath": "_m/c/b/5/x/fergus-falls-regional-treatment-center-wp/fergus-falls-regional-treatmen-1-small.webp"
     },
     {
       "filename": "Aerial view of Fergus Falls State Hospital 2022-07-22.jpg",
@@ -168,7 +173,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fergus-falls-regional-treatment-center-wp",
-      "sourceGeohash4": "cb5x"
+      "sourceGeohash4": "cb5x",
+      "mediumPath": "_m/c/b/5/x/fergus-falls-regional-treatment-center-wp/aerial-view-of-fergus-falls-st-medium.webp",
+      "smallPath": "_m/c/b/5/x/fergus-falls-regional-treatment-center-wp/aerial-view-of-fergus-falls-st-small.webp"
     }
   ],
   "galleryPaths": [
@@ -177,7 +184,6 @@
     "_m/c/b/5/x/fergus-falls-regional-treatment-center-wp/fergus-falls-regional-treatmen-1.jpg",
     "_m/c/b/5/x/fergus-falls-regional-treatment-center-wp/aerial-view-of-fergus-falls-st.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:41:52.472Z",
   "narration": {
     "files": [
       "cb5x-fergus-falls-regional-treatment-center-flight-context.mp3",
@@ -195,8 +201,7 @@
       "cb5x-fergus-falls-regional-treatment-center-the-long-reckoning.mp3": 68.7444166,
       "cb5x-fergus-falls-regional-treatment-center-demolition-salvation-and-canvas.mp3": 81.8847916
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T06:15:59.141Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T02:41:53.187Z"
 }

@@ -23,7 +23,7 @@
     "sourceType": "core",
     "sourceArticleId": "pasteur-institute-of-iran-wp",
     "sourceGeohash4": "tnke",
-    "smallPath": "_m/t/n/k/e/pasteur-institute-of-iran-wp/hero-small.jpg"
+    "smallPath": "_m/t/n/k/e/pasteur-institute-of-iran-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Old lab.jpg",
@@ -71,7 +71,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "pasteur-institute-of-iran-wp",
       "sourceGeohash4": "tnke",
-      "smallPath": "_m/t/n/k/e/pasteur-institute-of-iran-wp/past-2-small.jpg"
+      "smallPath": "_m/t/n/k/e/pasteur-institute-of-iran-wp/past-2-small.webp"
     },
     {
       "filename": "Pasteur -3.jpg",
@@ -98,8 +98,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "pasteur-institute-of-iran-wp",
       "sourceGeohash4": "tnke",
-      "mediumPath": "_m/t/n/k/e/pasteur-institute-of-iran-wp/pasteur-3-medium.jpg",
-      "smallPath": "_m/t/n/k/e/pasteur-institute-of-iran-wp/pasteur-3-small.jpg"
+      "mediumPath": "_m/t/n/k/e/pasteur-institute-of-iran-wp/pasteur-3-medium.webp",
+      "smallPath": "_m/t/n/k/e/pasteur-institute-of-iran-wp/pasteur-3-small.webp"
     },
     {
       "filename": "Baltazard1.gif",
@@ -125,6 +125,24 @@
     "_m/t/n/k/e/pasteur-institute-of-iran-wp/pasteur-3.jpg",
     "_m/t/n/k/e/pasteur-institute-of-iran-wp/baltazard1.gif"
   ],
-  "fetchedAt": "2026-03-01T15:48:58.596Z",
-  "updatedAt": "2026-03-01T15:49:20.567Z"
+  "updatedAt": "2026-03-01T15:49:20.567Z",
+  "narration": {
+    "files": [
+      "tnke-pasteur-institute-of-iran-flight-context.mp3",
+      "tnke-pasteur-institute-of-iran-intro.mp3",
+      "tnke-pasteur-institute-of-iran-a-franco-iranian-compact.mp3",
+      "tnke-pasteur-institute-of-iran-the-war-on-rabies.mp3",
+      "tnke-pasteur-institute-of-iran-epidemics-and-expeditions.mp3",
+      "tnke-pasteur-institute-of-iran-the-first-of-its-kind.mp3"
+    ],
+    "durations": {
+      "tnke-pasteur-institute-of-iran-flight-context.mp3": 49.9329166,
+      "tnke-pasteur-institute-of-iran-intro.mp3": 47.6891666,
+      "tnke-pasteur-institute-of-iran-a-franco-iranian-compact.mp3": 63.7900416,
+      "tnke-pasteur-institute-of-iran-the-war-on-rabies.mp3": 43.7737083,
+      "tnke-pasteur-institute-of-iran-epidemics-and-expeditions.mp3": 63.7524166,
+      "tnke-pasteur-institute-of-iran-the-first-of-its-kind.mp3": 59.4675416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

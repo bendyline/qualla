@@ -24,7 +24,7 @@
     "sourceType": "core",
     "sourceArticleId": "cabo-de-hornos-national-park-wk",
     "sourceGeohash4": "4w04",
-    "smallPath": "_m/4/w/0/4/cabo-de-hornos-national-park-wk/hero-small.jpg"
+    "smallPath": "_m/4/w/0/4/cabo-de-hornos-national-park-wk/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Cabo de Hornos.JPG",
@@ -76,8 +76,8 @@
       "sourceType": "core",
       "sourceArticleId": "cabo-de-hornos-national-park-wk",
       "sourceGeohash4": "4w04",
-      "smallPath": "_m/4/w/0/4/cabo-de-hornos-national-park-wk/albatros-monument-cape-small.jpg",
-      "mediumPath": "_m/4/w/0/4/cabo-de-hornos-national-park-wk/albatros-monument-cape-medium.jpg"
+      "smallPath": "_m/4/w/0/4/cabo-de-hornos-national-park-wk/albatros-monument-cape-small.webp",
+      "mediumPath": "_m/4/w/0/4/cabo-de-hornos-national-park-wk/albatros-monument-cape-medium.webp"
     },
     {
       "filename": "Wollaston-Hermite.png",
@@ -100,35 +100,34 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "cabo-de-hornos-national-park-wk",
-      "sourceGeohash4": "4w04"
+      "sourceGeohash4": "4w04",
+      "smallPath": "_m/4/w/0/4/cabo-de-hornos-national-park-wk/wollaston-hermite-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/4/w/0/4/cabo-de-hornos-national-park-wk/albatros-monument-cape.jpg",
     "_m/4/w/0/4/cabo-de-hornos-national-park-wk/wollaston-hermite.png"
   ],
-  "fetchedAt": "2026-02-21T20:06:56.654Z",
   "updatedAt": "2026-02-21T20:06:57.047Z",
   "narration": {
     "files": [
-      "4w04-cabo-de-hornos-national-park-beyond-panama.mp3",
       "4w04-cabo-de-hornos-national-park-flight-context.mp3",
       "4w04-cabo-de-hornos-national-park-intro.mp3",
+      "4w04-cabo-de-hornos-national-park-the-uttermost-cape.mp3",
+      "4w04-cabo-de-hornos-national-park-the-sailors-graveyard.mp3",
       "4w04-cabo-de-hornos-national-park-the-lighthouse-keepers.mp3",
       "4w04-cabo-de-hornos-national-park-the-park.mp3",
-      "4w04-cabo-de-hornos-national-park-the-sailors-graveyard.mp3",
-      "4w04-cabo-de-hornos-national-park-the-uttermost-cape.mp3"
+      "4w04-cabo-de-hornos-national-park-beyond-panama.mp3"
     ],
     "durations": {
-      "4w04-cabo-de-hornos-national-park-beyond-panama.mp3": 71.064,
-      "4w04-cabo-de-hornos-national-park-flight-context.mp3": 130.2,
-      "4w04-cabo-de-hornos-national-park-intro.mp3": 52.8,
-      "4w04-cabo-de-hornos-national-park-the-lighthouse-keepers.mp3": 64.512,
-      "4w04-cabo-de-hornos-national-park-the-park.mp3": 63.768,
-      "4w04-cabo-de-hornos-national-park-the-sailors-graveyard.mp3": 62.184,
-      "4w04-cabo-de-hornos-national-park-the-uttermost-cape.mp3": 70.584
+      "4w04-cabo-de-hornos-national-park-flight-context.mp3": 83.8464166,
+      "4w04-cabo-de-hornos-national-park-intro.mp3": 55.1039583,
+      "4w04-cabo-de-hornos-national-park-the-uttermost-cape.mp3": 69.3252083,
+      "4w04-cabo-de-hornos-national-park-the-sailors-graveyard.mp3": 64.327,
+      "4w04-cabo-de-hornos-national-park-the-lighthouse-keepers.mp3": 66.0975,
+      "4w04-cabo-de-hornos-national-park-the-park.mp3": 67.9871666,
+      "4w04-cabo-de-hornos-national-park-beyond-panama.mp3": 71.2429166
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:55.613Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

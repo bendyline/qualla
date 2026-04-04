@@ -26,8 +26,8 @@
     "sourceType": "core",
     "sourceArticleId": "fort-craig-wp",
     "sourceGeohash4": "9tgz",
-    "smallPath": "_m/9/t/g/z/fort-craig-wp/hero-small.jpg",
-    "mediumPath": "_m/9/t/g/z/fort-craig-wp/hero-medium.jpg"
+    "smallPath": "_m/9/t/g/z/fort-craig-wp/hero-small.webp",
+    "mediumPath": "_m/9/t/g/z/fort-craig-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "FortCraigNM.jpg",
@@ -109,7 +109,7 @@
       "sourceType": "core",
       "sourceArticleId": "fort-craig-wp",
       "sourceGeohash4": "9tgz",
-      "smallPath": "_m/9/t/g/z/fort-craig-wp/flagpole-fort-craig-ne-small.jpg"
+      "smallPath": "_m/9/t/g/z/fort-craig-wp/flagpole-fort-craig-ne-small.webp"
     },
     {
       "filename": "Ft. Craig, NM. A Room With A View.jpg",
@@ -137,7 +137,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-craig-wp",
-      "sourceGeohash4": "9tgz"
+      "sourceGeohash4": "9tgz",
+      "mediumPath": "_m/9/t/g/z/fort-craig-wp/ft-craig-nm-a-room-with-a-view-medium.webp",
+      "smallPath": "_m/9/t/g/z/fort-craig-wp/ft-craig-nm-a-room-with-a-view-small.webp"
     },
     {
       "filename": "Report of Captain James Woodall, Fort Craig, New Mexico, January 22, 1866 - DPLA - 4124bc43b2714cfabd5c65800a2060ed (page 2).jpg",
@@ -163,7 +165,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-craig-wp",
-      "sourceGeohash4": "9tgz"
+      "sourceGeohash4": "9tgz",
+      "mediumPath": "_m/9/t/g/z/fort-craig-wp/report-of-captain-james-woodal-medium.webp",
+      "smallPath": "_m/9/t/g/z/fort-craig-wp/report-of-captain-james-woodal-small.webp"
     },
     {
       "filename": "Report of Captain James Woodall, Fort Craig, New Mexico, January 22, 1866 - DPLA - 4124bc43b2714cfabd5c65800a2060ed (page 3).jpg",
@@ -190,7 +194,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-craig-wp",
-      "sourceGeohash4": "9tgz"
+      "sourceGeohash4": "9tgz",
+      "mediumPath": "_m/9/t/g/z/fort-craig-wp/report-of-captain-james-woodal-1-medium.webp",
+      "smallPath": "_m/9/t/g/z/fort-craig-wp/report-of-captain-james-woodal-1-small.webp"
     },
     {
       "filename": "My Public Lands Roadtrip Fort Craig in New Mexico (20363973940).jpg",
@@ -212,7 +218,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-craig-wp",
-      "sourceGeohash4": "9tgz"
+      "sourceGeohash4": "9tgz",
+      "mediumPath": "_m/9/t/g/z/fort-craig-wp/my-public-lands-roadtrip-fort--medium.webp",
+      "smallPath": "_m/9/t/g/z/fort-craig-wp/my-public-lands-roadtrip-fort--small.webp"
     },
     {
       "filename": "-mypubliclandsroadtrip 2016- Teacher Approved, El Camino Real Trail and Fort Craig Historic Site (28957258854).jpg",
@@ -228,7 +236,9 @@
       "dateCreated": "Taken on 6 November 2015, 08:31:07",
       "sourceType": "commons-category",
       "sourceArticleId": "fort-craig-wp",
-      "sourceGeohash4": "9tgz"
+      "sourceGeohash4": "9tgz",
+      "mediumPath": "_m/9/t/g/z/fort-craig-wp/mypubliclandsroadtrip-2016-tea-medium.webp",
+      "smallPath": "_m/9/t/g/z/fort-craig-wp/mypubliclandsroadtrip-2016-tea-small.webp"
     }
   ],
   "galleryPaths": [
@@ -240,7 +250,6 @@
     "_m/9/t/g/z/fort-craig-wp/my-public-lands-roadtrip-fort-.jpg",
     "_m/9/t/g/z/fort-craig-wp/mypubliclandsroadtrip-2016-tea.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:13:51.001Z",
   "narration": {
     "files": [
       "9tgz-fort-craig-flight-context.mp3",
@@ -260,8 +269,7 @@
       "9tgz-fort-craig-forgotten-graves.mp3": 49.525125,
       "9tgz-fort-craig-what-remains.mp3": 51.6941666
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T01:41:06.261Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:13:56.585Z"
 }

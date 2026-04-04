@@ -3,11 +3,11 @@
   "patch": {
     "media": {
       "narration": [
+        "_m/c/2/2/v/gig-harbor-wk/c22v-gig-harbor-flight-context.mp3",
         "_m/c/2/2/v/gig-harbor-wk/c22v-gig-harbor-intro.mp3",
         "_m/c/2/2/v/gig-harbor-wk/c22v-gig-harbor-across-the-narrows.mp3",
-        "_m/c/2/2/v/gig-harbor-wk/c22v-gig-harbor-cold-water-adventures.mp3",
         "_m/c/2/2/v/gig-harbor-wk/c22v-gig-harbor-fishing-village-roots.mp3",
-        "_m/c/2/2/v/gig-harbor-wk/c22v-gig-harbor-flight-context.mp3",
+        "_m/c/2/2/v/gig-harbor-wk/c22v-gig-harbor-cold-water-adventures.mp3",
         "_m/c/2/2/v/gig-harbor-wk/c22v-gig-harbor-gateway-to-the-peninsula.mp3"
       ],
       "hero": {
@@ -29,7 +29,9 @@
           "CC-BY-SA-2.5",
           "Gig Harbor, Washington",
           "Taken with Sony DSC-N1"
-        ]
+        ],
+        "mediumPath": "_m/c/2/2/v/gig-harbor-wk/hero-medium.webp",
+        "smallPath": "_m/c/2/2/v/gig-harbor-wk/hero-small.webp"
       },
       "images": [
         {
@@ -58,7 +60,7 @@
             "Self-published work",
             "Taken with Sony DSC-W70"
           ],
-          "smallPath": "_m/c/2/2/v/gig-harbor-wk/i-found-clam-shell-cam-small.jpg"
+          "smallPath": "_m/c/2/2/v/gig-harbor-wk/i-found-clam-shell-cam-small.webp"
         },
         {
           "path": "_m/c/2/2/v/gig-harbor-wk/360-panorama-kopachuck.jpg",
@@ -86,8 +88,8 @@
             "Self-published work",
             "Taken with Canon Digital IXUS 75"
           ],
-          "smallPath": "_m/c/2/2/v/gig-harbor-wk/360-panorama-kopachuck-small.jpg",
-          "mediumPath": "_m/c/2/2/v/gig-harbor-wk/360-panorama-kopachuck-medium.jpg"
+          "smallPath": "_m/c/2/2/v/gig-harbor-wk/360-panorama-kopachuck-small.webp",
+          "mediumPath": "_m/c/2/2/v/gig-harbor-wk/360-panorama-kopachuck-medium.webp"
         },
         {
           "path": "_m/c/2/2/v/gig-harbor-wk/kopachuck-state-park.jpg",
@@ -114,8 +116,8 @@
             "Photographs taken on 2006-06-25",
             "Photos by Steven Pavlov taken with Minolta DiMAGE F300"
           ],
-          "smallPath": "_m/c/2/2/v/gig-harbor-wk/kopachuck-state-park-small.jpg",
-          "mediumPath": "_m/c/2/2/v/gig-harbor-wk/kopachuck-state-park-medium.jpg"
+          "smallPath": "_m/c/2/2/v/gig-harbor-wk/kopachuck-state-park-small.webp",
+          "mediumPath": "_m/c/2/2/v/gig-harbor-wk/kopachuck-state-park-medium.webp"
         },
         {
           "path": "_m/c/2/2/u/south-sound-wk/gig-harbor.jpg",
@@ -526,7 +528,8 @@
             "Taken with Nikon D40"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/2/v/gig-harbor-wk/c22v-gig-harbor-combined.mp3"
     }
   }
 }

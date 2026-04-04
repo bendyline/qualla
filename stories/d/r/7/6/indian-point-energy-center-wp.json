@@ -119,14 +119,14 @@
       "distanceKm": 38.4
     },
     "w": {
-      "id": "allentown-city-wk",
-      "title": "Allentown: The Steel Town Billy Joel Made Famous",
-      "tile": "dr4q",
+      "id": "jockey-hollow-wp",
+      "title": "Jockey Hollow",
+      "tile": "dr4z",
       "coordinates": {
-        "lat": 40.6023,
-        "lng": -75.4714
+        "lat": 40.7614,
+        "lng": -74.5425
       },
-      "distanceKm": 104.7
+      "distanceKm": 51.1
     },
     "e": {
       "id": "new-haven-city-wk",
@@ -139,24 +139,24 @@
       "distanceKm": 46.9
     },
     "sw": {
-      "id": "lindbergh-kidnapping-wp",
-      "title": "Lindbergh Kidnapping",
-      "tile": "dr4v",
+      "id": "william-hillcourt-wp",
+      "title": "William Hillcourt",
+      "tile": "dr4z",
       "coordinates": {
-        "lat": 40.424,
-        "lng": -74.7677
+        "lat": 40.7755,
+        "lng": -74.6024
       },
-      "distanceKm": 62.5
+      "distanceKm": 21.1
     },
     "s": {
-      "id": "the-cloisters-wp",
-      "title": "The Cloisters: Medieval Europe on a Manhattan Hilltop",
+      "id": "camp-merritt-new-jersey-wp",
+      "title": "Camp Merritt, New Jersey",
       "tile": "dr72",
       "coordinates": {
-        "lat": 40.8648,
-        "lng": -73.9319
+        "lat": 40.9413,
+        "lng": -73.9768
       },
-      "distanceKm": 11.9
+      "distanceKm": 2.9
     },
     "se": {
       "id": "wardenclyffe-tower-wp",
@@ -168,5 +168,6 @@
       },
       "distanceKm": 48.6
     }
-  }
+  },
+  "locationWikipediaPath": "d/r/7/6/indian-point-energy-center-wp"
 }

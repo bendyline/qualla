@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/5/n/m/f/south-georgia-island-wk/5nmf-south-georgia-island-intro.mp3",
         "_m/5/n/m/f/south-georgia-island-wk/5nmf-south-georgia-island-flight-context.mp3",
-        "_m/5/n/m/f/south-georgia-island-wk/5nmf-south-georgia-island-resurrection-island.mp3",
-        "_m/5/n/m/f/south-georgia-island-wk/5nmf-south-georgia-island-the-crossing.mp3",
-        "_m/5/n/m/f/south-georgia-island-wk/5nmf-south-georgia-island-the-end-of-the-world.mp3",
+        "_m/5/n/m/f/south-georgia-island-wk/5nmf-south-georgia-island-intro.mp3",
+        "_m/5/n/m/f/south-georgia-island-wk/5nmf-south-georgia-island-the-wildlife-metropolis.mp3",
         "_m/5/n/m/f/south-georgia-island-wk/5nmf-south-georgia-island-the-whaling-graveyard.mp3",
-        "_m/5/n/m/f/south-georgia-island-wk/5nmf-south-georgia-island-the-wildlife-metropolis.mp3"
+        "_m/5/n/m/f/south-georgia-island-wk/5nmf-south-georgia-island-the-crossing.mp3",
+        "_m/5/n/m/f/south-georgia-island-wk/5nmf-south-georgia-island-resurrection-island.mp3",
+        "_m/5/n/m/f/south-georgia-island-wk/5nmf-south-georgia-island-the-end-of-the-world.mp3"
       ],
       "hero": {
         "path": "_m/5/n/m/f/south-georgia-island-wk/hero.jpg",
@@ -32,8 +32,8 @@
           "PD-self",
           "Self-published work"
         ],
-        "mediumPath": "_m/5/n/m/f/south-georgia-island-wk/hero-medium.jpg",
-        "smallPath": "_m/5/n/m/f/south-georgia-island-wk/hero-small.jpg"
+        "mediumPath": "_m/5/n/m/f/south-georgia-island-wk/hero-medium.webp",
+        "smallPath": "_m/5/n/m/f/south-georgia-island-wk/hero-small.webp"
       },
       "images": [
         {
@@ -56,7 +56,7 @@
             "Grytviken kirke",
             "PD-user"
           ],
-          "smallPath": "_m/5/n/m/f/south-georgia-island-wk/church-grytviken-small.jpg"
+          "smallPath": "_m/5/n/m/f/south-georgia-island-wk/church-grytviken-small.webp"
         },
         {
           "path": "_m/5/n/m/f/south-georgia-island-wk/lenticular-clouds-alto.jpg",
@@ -91,8 +91,8 @@
             "Sunrises of South Georgia",
             "Taken with Nikon D90"
           ],
-          "smallPath": "_m/5/n/m/f/south-georgia-island-wk/lenticular-clouds-alto-small.jpg",
-          "mediumPath": "_m/5/n/m/f/south-georgia-island-wk/lenticular-clouds-alto-medium.jpg"
+          "smallPath": "_m/5/n/m/f/south-georgia-island-wk/lenticular-clouds-alto-small.webp",
+          "mediumPath": "_m/5/n/m/f/south-georgia-island-wk/lenticular-clouds-alto-medium.webp"
         },
         {
           "path": "_m/5/n/m/f/south-georgia-wp/sg-settlements.png",
@@ -453,7 +453,8 @@
             "Grytviken"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/5/n/m/f/south-georgia-island-wk/5nmf-south-georgia-island-combined.mp3"
     }
   }
 }

@@ -14,7 +14,7 @@
       },
       {
         "title": "The Ridges Run Red",
-        "body": "July 2 saw some of the war's most ferocious fighting. Lee ordered Lieutenant General James Longstreet to attack the Union left flank, launching assaults through the Peach Orchard, the Wheatfield, and Devil's Den that produced staggering casualties. The day's most critical moment came at Little Round Top, a rocky hill anchoring the extreme left of the Union line. Colonel Joshua Chamberlain and his 385 men of the 20th Maine Infantry held the position against repeated Confederate assaults. When ammunition ran low after ninety minutes of fighting -- 130 men already killed or wounded -- Chamberlain ordered a bayonet charge downhill. The unexpected assault broke the Confederate attack and captured scores of prisoners. Had Little Round Top fallen, the Confederates could have enfiladed the entire Union line along Cemetery Ridge."
+        "body": "July 2 saw some of the war's most ferocious fighting. Lee ordered Lieutenant General James Longstreet to attack the Union left flank, launching assaults through the Peach Orchard, the Wheatfield, and Devil's Den that produced staggering casualties. The day's most critical moment came at Little Round Top, a rocky hill anchoring the extreme left of the Union line. Colonel Joshua Chamberlain and his 386 men of the 20th Maine Infantry held the position against repeated Confederate assaults. When ammunition ran low after ninety minutes of fighting -- 130 men already killed or wounded -- Chamberlain ordered a bayonet charge downhill. The unexpected assault broke the Confederate attack and captured scores of prisoners. Had Little Round Top fallen, the Confederates could have enfiladed the entire Union line along Cemetery Ridge."
       },
       {
         "title": "Pickett's Charge and the High-Water Mark",
@@ -72,7 +72,7 @@
         "Pettigrew lost 2,700 men (62%)",
         "Three-quarters of a mile advance",
         "Chamberlain's bayonet charge at Little Round Top",
-        "385 men in the 20th Maine",
+        "Corrected: 385 men → 386 men in the 20th Maine (Wikipedia: 386 officers and men)",
         "130 casualties in 90 minutes at Little Round Top"
       ]
     },
@@ -83,8 +83,19 @@
       "accessedAt": "2026-02-22",
       "claimsVerified": [
         "November 19, 1863 dedication",
-        "272 words",
+        "272 words (Bliss copy — the authoritative signed version)",
         "Lincoln spoke approximately two minutes"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "20th Maine Infantry Regiment - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/20th_Maine_Infantry_Regiment",
+      "accessedAt": "2026-03-05",
+      "claimsVerified": [
+        "386 officers and men at Little Round Top (corrected from 385)",
+        "Bayonet charge after 90 minutes of fighting confirmed",
+        "Attacked by 15th and 47th Alabama regiments"
       ]
     }
   ],
@@ -104,14 +115,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "gettysburg-turning-point-wk",
-      "title": "Gettysburg: The Three Days That Decided the War",
+      "id": "battle-of-gettysburg-wp",
+      "title": "Battle of Gettysburg",
       "tile": "dr14",
       "coordinates": {
-        "lat": 39.8107,
-        "lng": -77.2293
+        "lat": 39.811388888889,
+        "lng": -77.225833333333
       },
-      "distanceKm": 35.3
+      "distanceKm": 35.2
     },
     "n": {
       "id": "three-mile-island-accident-wk",

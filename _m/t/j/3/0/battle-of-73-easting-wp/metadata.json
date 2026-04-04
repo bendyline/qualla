@@ -23,7 +23,7 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-73-easting-wp",
     "sourceGeohash4": "tj30",
-    "smallPath": "_m/t/j/3/0/battle-of-73-easting-wp/hero-small.jpg"
+    "smallPath": "_m/t/j/3/0/battle-of-73-easting-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "TF-1-4173Easting.jpg",
@@ -74,12 +74,32 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-73-easting-wp",
       "sourceGeohash4": "tj30",
-      "mediumPath": "_m/t/j/3/0/battle-of-73-easting-wp/iraqi-type-69-main-bat-medium.jpg",
-      "smallPath": "_m/t/j/3/0/battle-of-73-easting-wp/iraqi-type-69-main-bat-small.jpg"
+      "mediumPath": "_m/t/j/3/0/battle-of-73-easting-wp/iraqi-type-69-main-bat-medium.webp",
+      "smallPath": "_m/t/j/3/0/battle-of-73-easting-wp/iraqi-type-69-main-bat-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/t/j/3/0/battle-of-73-easting-wp/iraqi-type-69-main-bat.jpg"
   ],
-  "fetchedAt": "2026-03-01T07:09:39.489Z"
+  "narration": {
+    "files": [
+      "tj30-battle-of-73-easting-flight-context.mp3",
+      "tj30-battle-of-73-easting-intro.mp3",
+      "tj30-battle-of-73-easting-a-hail-mary-through-the-sand.mp3",
+      "tj30-battle-of-73-easting-twenty-three-minutes-at-the-70-easting.mp3",
+      "tj30-battle-of-73-easting-ghost-troops-six-hour-fight.mp3",
+      "tj30-battle-of-73-easting-the-passage-of-lines.mp3",
+      "tj30-battle-of-73-easting-a-battle-measured-in-grid-lines.mp3"
+    ],
+    "durations": {
+      "tj30-battle-of-73-easting-flight-context.mp3": 45.2360833,
+      "tj30-battle-of-73-easting-intro.mp3": 49.8961666,
+      "tj30-battle-of-73-easting-a-hail-mary-through-the-sand.mp3": 65.4956666,
+      "tj30-battle-of-73-easting-twenty-three-minutes-at-the-70-easting.mp3": 66.1496666,
+      "tj30-battle-of-73-easting-ghost-troops-six-hour-fight.mp3": 71.241125,
+      "tj30-battle-of-73-easting-the-passage-of-lines.mp3": 70.8524166,
+      "tj30-battle-of-73-easting-a-battle-measured-in-grid-lines.mp3": 65.7096666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

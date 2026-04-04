@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "izki-wp",
     "sourceGeohash4": "tk14",
-    "mediumPath": "_m/t/k/1/4/izki-wp/hero-medium.jpg",
-    "smallPath": "_m/t/k/1/4/izki-wp/hero-small.jpg"
+    "mediumPath": "_m/t/k/1/4/izki-wp/hero-medium.webp",
+    "smallPath": "_m/t/k/1/4/izki-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Izki old city.jpg",
@@ -75,8 +75,8 @@
       "sourceType": "core",
       "sourceArticleId": "izki-wp",
       "sourceGeohash4": "tk14",
-      "mediumPath": "_m/t/k/1/4/izki-wp/plan-old-izki-al-yemen-medium.jpg",
-      "smallPath": "_m/t/k/1/4/izki-wp/plan-old-izki-al-yemen-small.jpg"
+      "mediumPath": "_m/t/k/1/4/izki-wp/plan-old-izki-al-yemen-medium.webp",
+      "smallPath": "_m/t/k/1/4/izki-wp/plan-old-izki-al-yemen-small.webp"
     },
     {
       "filename": "Cemetery1.jpg",
@@ -101,7 +101,7 @@
       "sourceType": "core",
       "sourceArticleId": "izki-wp",
       "sourceGeohash4": "tk14",
-      "smallPath": "_m/t/k/1/4/izki-wp/pre-islamic-cemetery-c-small.jpg"
+      "smallPath": "_m/t/k/1/4/izki-wp/pre-islamic-cemetery-c-small.webp"
     },
     {
       "filename": "Exit Izki.jpg",
@@ -125,8 +125,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "izki-wp",
       "sourceGeohash4": "tk14",
-      "mediumPath": "_m/t/k/1/4/izki-wp/exit-izki-medium.jpg",
-      "smallPath": "_m/t/k/1/4/izki-wp/exit-izki-small.jpg"
+      "mediumPath": "_m/t/k/1/4/izki-wp/exit-izki-medium.webp",
+      "smallPath": "_m/t/k/1/4/izki-wp/exit-izki-small.webp"
     }
   ],
   "galleryPaths": [
@@ -134,6 +134,24 @@
     "_m/t/k/1/4/izki-wp/pre-islamic-cemetery-c.jpg",
     "_m/t/k/1/4/izki-wp/exit-izki.jpg"
   ],
-  "fetchedAt": "2026-03-01T09:43:29.596Z",
-  "updatedAt": "2026-03-01T09:43:31.528Z"
+  "updatedAt": "2026-03-01T09:43:31.528Z",
+  "narration": {
+    "files": [
+      "tk14-izki-flight-context.mp3",
+      "tk14-izki-intro.mp3",
+      "tk14-izki-twin-towns-twin-histories.mp3",
+      "tk14-izki-1-045-sites-in-one-survey.mp3",
+      "tk14-izki-the-golden-calf-of-jarnan.mp3",
+      "tk14-izki-beehive-tombs-and-living-crafts.mp3"
+    ],
+    "durations": {
+      "tk14-izki-flight-context.mp3": 32.7096666,
+      "tk14-izki-intro.mp3": 36.5773333,
+      "tk14-izki-twin-towns-twin-histories.mp3": 58.4069166,
+      "tk14-izki-1-045-sites-in-one-survey.mp3": 68.428875,
+      "tk14-izki-the-golden-calf-of-jarnan.mp3": 62.211,
+      "tk14-izki-beehive-tombs-and-living-crafts.mp3": 60.6043333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

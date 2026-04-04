@@ -26,8 +26,8 @@
     "sourceType": "core",
     "sourceArticleId": "heysel-stadium-disaster-wp",
     "sourceGeohash4": "u151",
-    "smallPath": "_m/u/1/5/1/heysel-stadium-disaster-wp/hero-small.jpg",
-    "mediumPath": "_m/u/1/5/1/heysel-stadium-disaster-wp/hero-medium.jpg"
+    "smallPath": "_m/u/1/5/1/heysel-stadium-disaster-wp/hero-small.webp",
+    "mediumPath": "_m/u/1/5/1/heysel-stadium-disaster-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Heysel Stadium memorial, St John's Gardens.jpg",
@@ -83,8 +83,8 @@
       "sourceType": "core",
       "sourceArticleId": "heysel-stadium-disaster-wp",
       "sourceGeohash4": "u151",
-      "smallPath": "_m/u/1/5/1/heysel-stadium-disaster-wp/plaque-commemorative-a-small.jpg",
-      "mediumPath": "_m/u/1/5/1/heysel-stadium-disaster-wp/plaque-commemorative-a-medium.jpg"
+      "smallPath": "_m/u/1/5/1/heysel-stadium-disaster-wp/plaque-commemorative-a-small.webp",
+      "mediumPath": "_m/u/1/5/1/heysel-stadium-disaster-wp/plaque-commemorative-a-medium.webp"
     },
     {
       "filename": "Heysel disaster memorial in Cherasco (Italy).jpg",
@@ -111,8 +111,8 @@
       "sourceType": "core",
       "sourceArticleId": "heysel-stadium-disaster-wp",
       "sourceGeohash4": "u151",
-      "smallPath": "_m/u/1/5/1/heysel-stadium-disaster-wp/monumento-alle-vittime-small.jpg",
-      "mediumPath": "_m/u/1/5/1/heysel-stadium-disaster-wp/monumento-alle-vittime-medium.jpg"
+      "smallPath": "_m/u/1/5/1/heysel-stadium-disaster-wp/monumento-alle-vittime-small.webp",
+      "mediumPath": "_m/u/1/5/1/heysel-stadium-disaster-wp/monumento-alle-vittime-medium.webp"
     },
     {
       "filename": "Heysel.jpg",
@@ -137,7 +137,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "heysel-stadium-disaster-wp",
-      "sourceGeohash4": "u151"
+      "sourceGeohash4": "u151",
+      "mediumPath": "_m/u/1/5/1/heysel-stadium-disaster-wp/heysel-medium.webp",
+      "smallPath": "_m/u/1/5/1/heysel-stadium-disaster-wp/heysel-small.webp"
     },
     {
       "filename": "ADO Zuiderpark (463137100).jpg",
@@ -163,7 +165,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "heysel-stadium-disaster-wp",
-      "sourceGeohash4": "u151"
+      "sourceGeohash4": "u151",
+      "smallPath": "_m/u/1/5/1/heysel-stadium-disaster-wp/ado-zuiderpark-463137100-small.webp"
     },
     {
       "filename": "Heysel Mural based in Juventus FC's colours at Deen Haag - Nederland.jpg",
@@ -188,7 +191,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "heysel-stadium-disaster-wp",
-      "sourceGeohash4": "u151"
+      "sourceGeohash4": "u151",
+      "smallPath": "_m/u/1/5/1/heysel-stadium-disaster-wp/heysel-mural-based-in-juventus-small.webp"
     },
     {
       "filename": "Heysel tragedy memorial.jpg",
@@ -208,7 +212,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "heysel-stadium-disaster-wp",
-      "sourceGeohash4": "u151"
+      "sourceGeohash4": "u151",
+      "mediumPath": "_m/u/1/5/1/heysel-stadium-disaster-wp/heysel-tragedy-memorial-medium.webp",
+      "smallPath": "_m/u/1/5/1/heysel-stadium-disaster-wp/heysel-tragedy-memorial-small.webp"
     },
     {
       "filename": "Heysel Stadium 1985 disaster monument.jpg",
@@ -225,7 +231,9 @@
       "dateCreated": "2014-11-10 11:04:11",
       "sourceType": "commons-category",
       "sourceArticleId": "heysel-stadium-disaster-wp",
-      "sourceGeohash4": "u151"
+      "sourceGeohash4": "u151",
+      "mediumPath": "_m/u/1/5/1/heysel-stadium-disaster-wp/heysel-stadium-1985-disaster-m-medium.webp",
+      "smallPath": "_m/u/1/5/1/heysel-stadium-disaster-wp/heysel-stadium-1985-disaster-m-small.webp"
     }
   ],
   "galleryPaths": [
@@ -237,7 +245,6 @@
     "_m/u/1/5/1/heysel-stadium-disaster-wp/heysel-tragedy-memorial.jpg",
     "_m/u/1/5/1/heysel-stadium-disaster-wp/heysel-stadium-1985-disaster-m.jpg"
   ],
-  "fetchedAt": "2026-02-22T14:05:31.017Z",
   "narration": {
     "files": [
       "u151-heysel-stadium-disaster-flight-context.mp3",
@@ -255,8 +262,7 @@
       "u151-heysel-stadium-disaster-a-match-that-should-not-have-been.mp3": 51.1889166,
       "u151-heysel-stadium-disaster-exile-and-reckoning.mp3": 58.3741666
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-25T21:44:41.316Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T14:05:31.764Z"
 }

@@ -152,37 +152,38 @@
       "distanceKm": 155.4
     },
     "sw": {
-      "id": "cedros-island-wp",
-      "title": "Cedros Island",
-      "tile": "9mn0",
+      "id": "copper-canyon-wp",
+      "title": "Copper Canyon",
+      "tile": "9sgk",
       "coordinates": {
-        "lat": 28.18277777777778,
-        "lng": -115.21777777777778
+        "lat": 27.516111,
+        "lng": -107.765833
       },
-      "distanceKm": 851.6
+      "distanceKm": 150.1
     },
     "s": {
-      "id": "guadalajara-city-wk",
-      "title": "Guadalajara: Where Tequila, Mariachi, and the Mexican Soul Originate",
-      "tile": "9ewt",
+      "id": "cave-of-the-crystals-wp",
+      "title": "Cave of the Crystals",
+      "tile": "9suy",
       "coordinates": {
-        "lat": 20.6597,
-        "lng": -103.3496
+        "lat": 27.850833333333,
+        "lng": -105.49638888889
       },
-      "distanceKm": 890.8
+      "distanceKm": 70
     },
     "se": {
-      "id": "monterrey-city-wk",
-      "title": "Monterrey: Mexico's Industrial Capital Where Mountains Meet Money",
-      "tile": "9u8d",
+      "id": "allende-meteorite-wp",
+      "title": "Allende Meteorite",
+      "tile": "9sv1",
       "coordinates": {
-        "lat": 25.6866,
-        "lng": -100.3161
+        "lat": 26.966667,
+        "lng": -105.316667
       },
-      "distanceKm": 587.4
+      "distanceKm": 149.1
     }
   },
   "keywords": [
     "cathedral-of-chihuahua"
-  ]
+  ],
+  "locationWikipediaPath": "9/t/h/d/cathedral-of-chihuahua-wp"
 }

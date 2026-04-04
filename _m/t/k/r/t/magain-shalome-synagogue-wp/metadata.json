@@ -27,7 +27,7 @@
     "sourceType": "core",
     "sourceArticleId": "magain-shalome-synagogue-wp",
     "sourceGeohash4": "tkrt",
-    "smallPath": "_m/t/k/r/t/magain-shalome-synagogue-wp/hero-small.jpg"
+    "smallPath": "_m/t/k/r/t/magain-shalome-synagogue-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Magain Shalome synagogue, Karachi.jpg",
@@ -59,5 +59,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T10:49:50.379Z"
+  "narration": {
+    "files": [
+      "tkrt-magain-shalome-synagogue-flight-context.mp3",
+      "tkrt-magain-shalome-synagogue-intro.mp3",
+      "tkrt-magain-shalome-synagogue-solomon-davids-synagogue.mp3",
+      "tkrt-magain-shalome-synagogue-the-ledgers-tell-the-story.mp3",
+      "tkrt-magain-shalome-synagogue-demolition-and-dispersal.mp3",
+      "tkrt-magain-shalome-synagogue-the-absence-that-remains.mp3"
+    ],
+    "durations": {
+      "tkrt-magain-shalome-synagogue-flight-context.mp3": 37.2787083,
+      "tkrt-magain-shalome-synagogue-intro.mp3": 38.1733333,
+      "tkrt-magain-shalome-synagogue-solomon-davids-synagogue.mp3": 38.6954583,
+      "tkrt-magain-shalome-synagogue-the-ledgers-tell-the-story.mp3": 50.3330833,
+      "tkrt-magain-shalome-synagogue-demolition-and-dispersal.mp3": 39.913625,
+      "tkrt-magain-shalome-synagogue-the-absence-that-remains.mp3": 49.8702083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

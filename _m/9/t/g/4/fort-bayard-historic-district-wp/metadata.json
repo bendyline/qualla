@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "fort-bayard-historic-district-wp",
     "sourceGeohash4": "9tg4",
-    "smallPath": "_m/9/t/g/4/fort-bayard-historic-district-wp/hero-small.jpg",
-    "mediumPath": "_m/9/t/g/4/fort-bayard-historic-district-wp/hero-medium.jpg"
+    "smallPath": "_m/9/t/g/4/fort-bayard-historic-district-wp/hero-small.webp",
+    "mediumPath": "_m/9/t/g/4/fort-bayard-historic-district-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "BuffaloSoldierBayard.jpg",
@@ -103,7 +103,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-bayard-historic-district-wp",
-      "sourceGeohash4": "9tg4"
+      "sourceGeohash4": "9tg4",
+      "smallPath": "_m/9/t/g/4/fort-bayard-historic-district-wp/fort-bayard-new-mexico-small.webp"
     },
     {
       "filename": "Sixth Cavalry training horses (2598551197).jpg",
@@ -126,7 +127,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-bayard-historic-district-wp",
-      "sourceGeohash4": "9tg4"
+      "sourceGeohash4": "9tg4",
+      "smallPath": "_m/9/t/g/4/fort-bayard-historic-district-wp/sixth-cavalry-training-horses--small.webp"
     },
     {
       "filename": "Barracks at Fort Bayard, New Mexico - DPLA - 530de6c7e839306e0679812a6623c3d9.jpg",
@@ -151,7 +153,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-bayard-historic-district-wp",
-      "sourceGeohash4": "9tg4"
+      "sourceGeohash4": "9tg4",
+      "mediumPath": "_m/9/t/g/4/fort-bayard-historic-district-wp/barracks-at-fort-bayard-new-me-medium.webp",
+      "smallPath": "_m/9/t/g/4/fort-bayard-historic-district-wp/barracks-at-fort-bayard-new-me-small.webp"
     },
     {
       "filename": "Fort Bayard Officers Quarters, New Mexico - DPLA - 7b1373e6071efbe93486ebace9b51e3d.jpg",
@@ -176,7 +180,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-bayard-historic-district-wp",
-      "sourceGeohash4": "9tg4"
+      "sourceGeohash4": "9tg4",
+      "mediumPath": "_m/9/t/g/4/fort-bayard-historic-district-wp/fort-bayard-officers-quarters--medium.webp",
+      "smallPath": "_m/9/t/g/4/fort-bayard-historic-district-wp/fort-bayard-officers-quarters--small.webp"
     }
   ],
   "galleryPaths": [
@@ -186,7 +192,6 @@
     "_m/9/t/g/4/fort-bayard-historic-district-wp/barracks-at-fort-bayard-new-me.jpg",
     "_m/9/t/g/4/fort-bayard-historic-district-wp/fort-bayard-officers-quarters-.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:11:36.824Z",
   "narration": {
     "files": [
       "9tg4-fort-bayard-historic-district-flight-context.mp3",
@@ -204,8 +209,7 @@
       "9tg4-fort-bayard-historic-district-a-century-of-transformation.mp3": 53.1339583,
       "9tg4-fort-bayard-historic-district-the-names-that-remain.mp3": 54.6649583
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T01:08:33.778Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:11:38.885Z"
 }

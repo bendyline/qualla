@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "burton-cummings-theatre-wp",
     "sourceGeohash4": "cbfg",
-    "smallPath": "_m/c/b/f/g/burton-cummings-theatre-wp/hero-small.jpg",
-    "mediumPath": "_m/c/b/f/g/burton-cummings-theatre-wp/hero-medium.jpg"
+    "smallPath": "_m/c/b/f/g/burton-cummings-theatre-wp/hero-small.webp",
+    "mediumPath": "_m/c/b/f/g/burton-cummings-theatre-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Burton Cummings Theatre in Winnipeg, Manitoba.jpg",
@@ -94,8 +94,8 @@
       "sourceType": "core",
       "sourceArticleId": "burton-cummings-theatre-wp",
       "sourceGeohash4": "cbfg",
-      "smallPath": "_m/c/b/f/g/burton-cummings-theatre-wp/walker-theatre-winnipe-small.jpg",
-      "mediumPath": "_m/c/b/f/g/burton-cummings-theatre-wp/walker-theatre-winnipe-medium.jpg"
+      "smallPath": "_m/c/b/f/g/burton-cummings-theatre-wp/walker-theatre-winnipe-small.webp",
+      "mediumPath": "_m/c/b/f/g/burton-cummings-theatre-wp/walker-theatre-winnipe-medium.webp"
     },
     {
       "filename": "The Weakerthans in Winnipeg.jpg",
@@ -124,7 +124,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "burton-cummings-theatre-wp",
-      "sourceGeohash4": "cbfg"
+      "sourceGeohash4": "cbfg",
+      "smallPath": "_m/c/b/f/g/burton-cummings-theatre-wp/the-weakerthans-in-winnipeg-small.webp"
     },
     {
       "filename": "John K Samson.jpg",
@@ -153,7 +154,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "burton-cummings-theatre-wp",
-      "sourceGeohash4": "cbfg"
+      "sourceGeohash4": "cbfg",
+      "mediumPath": "_m/c/b/f/g/burton-cummings-theatre-wp/john-k-samson-medium.webp",
+      "smallPath": "_m/c/b/f/g/burton-cummings-theatre-wp/john-k-samson-small.webp"
     },
     {
       "filename": "Winnipeg - Walker Theatre.JPG",
@@ -183,7 +186,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "burton-cummings-theatre-wp",
-      "sourceGeohash4": "cbfg"
+      "sourceGeohash4": "cbfg",
+      "mediumPath": "_m/c/b/f/g/burton-cummings-theatre-wp/winnipeg-walker-theatre-medium.webp",
+      "smallPath": "_m/c/b/f/g/burton-cummings-theatre-wp/winnipeg-walker-theatre-small.webp"
     },
     {
       "filename": "Burton Cummings Theatre, Winnipeg (461829) (9620580894).jpg",
@@ -200,7 +205,9 @@
       "dateCreated": "2010-11-16 19:52",
       "sourceType": "commons-category",
       "sourceArticleId": "burton-cummings-theatre-wp",
-      "sourceGeohash4": "cbfg"
+      "sourceGeohash4": "cbfg",
+      "mediumPath": "_m/c/b/f/g/burton-cummings-theatre-wp/burton-cummings-theatre-winnip-medium.webp",
+      "smallPath": "_m/c/b/f/g/burton-cummings-theatre-wp/burton-cummings-theatre-winnip-small.webp"
     },
     {
       "filename": "Burton Cummings Theatre, Winnipeg (461833) (13490183213).jpg",
@@ -217,7 +224,9 @@
       "dateCreated": "2010-11-16 20:15",
       "sourceType": "commons-category",
       "sourceArticleId": "burton-cummings-theatre-wp",
-      "sourceGeohash4": "cbfg"
+      "sourceGeohash4": "cbfg",
+      "mediumPath": "_m/c/b/f/g/burton-cummings-theatre-wp/burton-cummings-theatre-winnip-1-medium.webp",
+      "smallPath": "_m/c/b/f/g/burton-cummings-theatre-wp/burton-cummings-theatre-winnip-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -228,7 +237,6 @@
     "_m/c/b/f/g/burton-cummings-theatre-wp/burton-cummings-theatre-winnip.jpg",
     "_m/c/b/f/g/burton-cummings-theatre-wp/burton-cummings-theatre-winnip-1.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:47:06.340Z",
   "updatedAt": "2026-02-22T02:47:07.824Z",
   "narration": {
     "files": [
@@ -247,7 +255,6 @@
       "cbfg-burton-cummings-theatre-dark-house-new-name.mp3": 58.11725,
       "cbfg-burton-cummings-theatre-rescued-by-true-north.mp3": 60.9222083
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T07:40:07.236Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

@@ -84,44 +84,44 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "siege-of-herat-1221-wp",
-      "title": "Siege of Herat (1221)",
-      "tile": "tqh5",
+      "id": "chagai-ii-wp",
+      "title": "Chagai-II",
+      "tile": "tmj3",
       "coordinates": {
-        "lat": 34.333333,
-        "lng": 62.2
+        "lat": 28.43,
+        "lng": 63.86
       },
-      "distanceKm": 691.8
+      "distanceKm": 18.8
     },
     "n": {
-      "id": "minaret-of-jam-wp",
-      "title": "Minaret of Jam",
-      "tile": "tqjg",
+      "id": "arachosia-wp",
+      "title": "Arachosia",
+      "tile": "tmq4",
       "coordinates": {
-        "lat": 34.396386,
-        "lng": 64.515888
+        "lat": 30.016761,
+        "lng": 64.785897
       },
-      "distanceKm": 677.8
+      "distanceKm": 192.7
     },
     "ne": {
-      "id": "band-e-amir-national-park-wk",
-      "title": "Band-e Amir National Park",
-      "tile": "tqpy",
+      "id": "2018-mastung-and-bannu-bombings-wp",
+      "title": "2018 Mastung and Bannu Bombings",
+      "tile": "tmpz",
       "coordinates": {
-        "lat": 34.839722222222,
-        "lng": 67.230833333333
+        "lat": 29.4087,
+        "lng": 67.1894
       },
-      "distanceKm": 756.1
+      "distanceKm": 243
     },
     "w": {
-      "id": "2009-pishin-bombing-wp",
-      "title": "2009 Pishin Bombing",
-      "tile": "tkeu",
+      "id": "reko-diq-mine-wp",
+      "title": "Reko Diq Mine",
+      "tile": "tmhk",
       "coordinates": {
-        "lat": 26.086944,
-        "lng": 61.760278
+        "lat": 28.9725,
+        "lng": 62.43305556
       },
-      "distanceKm": 309.1
+      "distanceKm": 183.8
     },
     "e": {
       "id": "shamsi-airfield-wp",
@@ -163,5 +163,6 @@
       },
       "distanceKm": 98
     }
-  }
+  },
+  "locationWikipediaPath": "t/k/v/z/kharan-desert-wp"
 }

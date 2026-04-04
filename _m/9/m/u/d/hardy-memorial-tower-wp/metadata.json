@@ -30,8 +30,8 @@
     "sourceType": "core",
     "sourceArticleId": "hardy-memorial-tower-wp",
     "sourceGeohash4": "9mud",
-    "smallPath": "_m/9/m/u/d/hardy-memorial-tower-wp/hero-small.jpg",
-    "mediumPath": "_m/9/m/u/d/hardy-memorial-tower-wp/hero-medium.jpg"
+    "smallPath": "_m/9/m/u/d/hardy-memorial-tower-wp/hero-small.webp",
+    "mediumPath": "_m/9/m/u/d/hardy-memorial-tower-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Hepner Hall, San Diego State University.jpg",
@@ -91,7 +91,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "hardy-memorial-tower-wp",
-      "sourceGeohash4": "9mud"
+      "sourceGeohash4": "9mud",
+      "mediumPath": "_m/9/m/u/d/hardy-memorial-tower-wp/courtyard-sdsu-medium.webp",
+      "smallPath": "_m/9/m/u/d/hardy-memorial-tower-wp/courtyard-sdsu-small.webp"
     },
     {
       "filename": "San Diego State University Tower.JPG",
@@ -120,7 +122,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "hardy-memorial-tower-wp",
-      "sourceGeohash4": "9mud"
+      "sourceGeohash4": "9mud",
+      "mediumPath": "_m/9/m/u/d/hardy-memorial-tower-wp/san-diego-state-university-tow-medium.webp",
+      "smallPath": "_m/9/m/u/d/hardy-memorial-tower-wp/san-diego-state-university-tow-small.webp"
     },
     {
       "filename": "Public art on Campanile Mall.jpg",
@@ -137,7 +141,8 @@
       "dateCreated": "2019-05-08",
       "sourceType": "commons-category",
       "sourceArticleId": "hardy-memorial-tower-wp",
-      "sourceGeohash4": "9mud"
+      "sourceGeohash4": "9mud",
+      "smallPath": "_m/9/m/u/d/hardy-memorial-tower-wp/public-art-on-campanile-mall-small.webp"
     }
   ],
   "galleryPaths": [
@@ -145,7 +150,6 @@
     "_m/9/m/u/d/hardy-memorial-tower-wp/san-diego-state-university-tow.jpg",
     "_m/9/m/u/d/hardy-memorial-tower-wp/public-art-on-campanile-mall.jpg"
   ],
-  "fetchedAt": "2026-02-21T20:26:59.934Z",
   "narration": {
     "files": [
       "9mud-hardy-memorial-tower-flight-context.mp3",
@@ -156,7 +160,6 @@
       "9mud-hardy-memorial-tower-symbol-and-landmark.mp3"
     ],
     "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-23T15:10:01.412Z",
     "durations": {
       "9mud-hardy-memorial-tower-flight-context.mp3": 47.3029166,
       "9mud-hardy-memorial-tower-intro.mp3": 49.42775,

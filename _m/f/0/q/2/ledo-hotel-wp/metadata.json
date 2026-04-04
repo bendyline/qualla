@@ -26,8 +26,8 @@
     "sourceType": "core",
     "sourceArticleId": "ledo-hotel-wp",
     "sourceGeohash4": "f0q2",
-    "mediumPath": "_m/f/0/q/2/ledo-hotel-wp/hero-medium.jpg",
-    "smallPath": "_m/f/0/q/2/ledo-hotel-wp/hero-small.jpg"
+    "mediumPath": "_m/f/0/q/2/ledo-hotel-wp/hero-medium.webp",
+    "smallPath": "_m/f/0/q/2/ledo-hotel-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Ledo Hotel, Sudbury, Canada.jpg",
@@ -83,8 +83,8 @@
       "sourceType": "core",
       "sourceArticleId": "ledo-hotel-wp",
       "sourceGeohash4": "f0q2",
-      "mediumPath": "_m/f/0/q/2/ledo-hotel-wp/ledo-hotel-viewed-elgi-medium.jpg",
-      "smallPath": "_m/f/0/q/2/ledo-hotel-wp/ledo-hotel-viewed-elgi-small.jpg"
+      "mediumPath": "_m/f/0/q/2/ledo-hotel-wp/ledo-hotel-viewed-elgi-medium.webp",
+      "smallPath": "_m/f/0/q/2/ledo-hotel-wp/ledo-hotel-viewed-elgi-small.webp"
     },
     {
       "filename": "Ledo Hotel Mural.jpg",
@@ -110,13 +110,33 @@
       "sourceType": "core",
       "sourceArticleId": "ledo-hotel-wp",
       "sourceGeohash4": "f0q2",
-      "mediumPath": "_m/f/0/q/2/ledo-hotel-wp/ledo-hotel-welcome-jun-medium.jpg",
-      "smallPath": "_m/f/0/q/2/ledo-hotel-wp/ledo-hotel-welcome-jun-small.jpg"
+      "mediumPath": "_m/f/0/q/2/ledo-hotel-wp/ledo-hotel-welcome-jun-medium.webp",
+      "smallPath": "_m/f/0/q/2/ledo-hotel-wp/ledo-hotel-welcome-jun-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/f/0/q/2/ledo-hotel-wp/ledo-hotel-viewed-elgi.jpg",
     "_m/f/0/q/2/ledo-hotel-wp/ledo-hotel-welcome-jun.jpg"
   ],
-  "fetchedAt": "2026-02-28T11:25:28.712Z"
+  "narration": {
+    "files": [
+      "f0q2-ledo-hotel-flight-context.mp3",
+      "f0q2-ledo-hotel-intro.mp3",
+      "f0q2-ledo-hotel-the-greek-and-the-flat-iron.mp3",
+      "f0q2-ledo-hotel-a-century-at-the-crossroads.mp3",
+      "f0q2-ledo-hotel-condemned.mp3",
+      "f0q2-ledo-hotel-the-vote.mp3",
+      "f0q2-ledo-hotel-what-a-parking-lot-remembers.mp3"
+    ],
+    "durations": {
+      "f0q2-ledo-hotel-flight-context.mp3": 55.1364166,
+      "f0q2-ledo-hotel-intro.mp3": 44.9360416,
+      "f0q2-ledo-hotel-the-greek-and-the-flat-iron.mp3": 67.651875,
+      "f0q2-ledo-hotel-a-century-at-the-crossroads.mp3": 63.2092083,
+      "f0q2-ledo-hotel-condemned.mp3": 73.0782916,
+      "f0q2-ledo-hotel-the-vote.mp3": 66.9209583,
+      "f0q2-ledo-hotel-what-a-parking-lot-remembers.mp3": 64.0135833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

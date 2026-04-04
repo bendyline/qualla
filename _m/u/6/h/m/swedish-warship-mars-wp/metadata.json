@@ -34,7 +34,7 @@
     "sourceType": "core",
     "sourceArticleId": "swedish-warship-mars-wp",
     "sourceGeohash4": "u6hm",
-    "smallPath": "_m/u/6/h/m/swedish-warship-mars-wp/hero-small.jpg"
+    "smallPath": "_m/u/6/h/m/swedish-warship-mars-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "An illustration of a Swedish warship, probably Mars, under attack by a Danish ship.jpg",
@@ -97,7 +97,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "swedish-warship-mars-wp",
-      "sourceGeohash4": "u6hm"
+      "sourceGeohash4": "u6hm",
+      "smallPath": "_m/u/6/h/m/swedish-warship-mars-wp/jacob-hagg-makalos-eller-mars--small.webp"
     },
     {
       "filename": "Makalös.jpg",
@@ -129,7 +130,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "swedish-warship-mars-wp",
-      "sourceGeohash4": "u6hm"
+      "sourceGeohash4": "u6hm",
+      "mediumPath": "_m/u/6/h/m/swedish-warship-mars-wp/makalos-medium.webp",
+      "smallPath": "_m/u/6/h/m/swedish-warship-mars-wp/makalos-small.webp"
     },
     {
       "filename": "N Eriksson siteplan Mars.tif",
@@ -151,7 +154,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "swedish-warship-mars-wp",
-      "sourceGeohash4": "u6hm"
+      "sourceGeohash4": "u6hm",
+      "smallPath": "_m/u/6/h/m/swedish-warship-mars-wp/n-eriksson-siteplan-mars-small.webp"
     },
     {
       "filename": "Lübeck-RathausRoterSaalÖlgemälde-1-Asio.JPG",
@@ -172,7 +176,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "swedish-warship-mars-wp",
-      "sourceGeohash4": "u6hm"
+      "sourceGeohash4": "u6hm",
+      "mediumPath": "_m/u/6/h/m/swedish-warship-mars-wp/lubeck-rathausrotersaalolgemal-medium.webp",
+      "smallPath": "_m/u/6/h/m/swedish-warship-mars-wp/lubeck-rathausrotersaalolgemal-small.webp"
     }
   ],
   "galleryPaths": [
@@ -181,7 +187,6 @@
     "_m/u/6/h/m/swedish-warship-mars-wp/n-eriksson-siteplan-mars.jpg",
     "_m/u/6/h/m/swedish-warship-mars-wp/lubeck-rathausrotersaalolgemal.jpg"
   ],
-  "fetchedAt": "2026-02-22T14:44:51.547Z",
   "narration": {
     "files": [
       "u6hm-swedish-warship-mars-flight-context.mp3",
@@ -201,8 +206,7 @@
       "u6hm-swedish-warship-mars-lost-and-found.mp3": 47.6790416,
       "u6hm-swedish-warship-mars-archaeology-of-a-flagship.mp3": 53.9997916
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T17:47:10.458Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T14:44:52.825Z"
 }

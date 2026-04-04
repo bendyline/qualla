@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "apache-pass-wp",
     "sourceGeohash4": "9tdn",
-    "smallPath": "_m/9/t/d/n/apache-pass-wp/hero-small.jpg",
-    "mediumPath": "_m/9/t/d/n/apache-pass-wp/hero-medium.jpg"
+    "smallPath": "_m/9/t/d/n/apache-pass-wp/hero-small.webp",
+    "mediumPath": "_m/9/t/d/n/apache-pass-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "ApachePassAZ.JPG",
@@ -77,14 +77,13 @@
       "sourceType": "core",
       "sourceArticleId": "apache-pass-wp",
       "sourceGeohash4": "9tdn",
-      "smallPath": "_m/9/t/d/n/apache-pass-wp/fort-bowie-site-apache-small.jpg",
-      "mediumPath": "_m/9/t/d/n/apache-pass-wp/fort-bowie-site-apache-medium.jpg"
+      "smallPath": "_m/9/t/d/n/apache-pass-wp/hero-small.webp",
+      "mediumPath": "_m/9/t/d/n/apache-pass-wp/hero-medium.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/t/d/n/fort-bowie-wp/hero.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:08:49.817Z",
   "narration": {
     "files": [
       "9tdn-apache-pass-flight-context.mp3",
@@ -104,7 +103,6 @@
       "9tdn-apache-pass-fortress-and-reservation.mp3": 48.2478333,
       "9tdn-apache-pass-silent-witness.mp3": 42.8550833
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T00:28:52.061Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

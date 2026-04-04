@@ -30,8 +30,8 @@
     "sourceType": "core",
     "sourceArticleId": "freemasons-lodge-building-karachi-wp",
     "sourceGeohash4": "tkrt",
-    "mediumPath": "_m/t/k/r/t/freemasons-lodge-building-karachi-wp/hero-medium.jpg",
-    "smallPath": "_m/t/k/r/t/freemasons-lodge-building-karachi-wp/hero-small.jpg"
+    "mediumPath": "_m/t/k/r/t/freemasons-lodge-building-karachi-wp/hero-medium.webp",
+    "smallPath": "_m/t/k/r/t/freemasons-lodge-building-karachi-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "PK Karachi asv2020-02 img76 Freemasons Lodge Building.jpg",
@@ -95,8 +95,8 @@
       "sourceType": "core",
       "sourceArticleId": "freemasons-lodge-building-karachi-wp",
       "sourceGeohash4": "tkrt",
-      "mediumPath": "_m/t/k/r/t/freemasons-lodge-building-karachi-wp/former-freemasons-lodg-medium.jpg",
-      "smallPath": "_m/t/k/r/t/freemasons-lodge-building-karachi-wp/former-freemasons-lodg-small.jpg"
+      "mediumPath": "_m/t/k/r/t/freemasons-lodge-building-karachi-wp/former-freemasons-lodg-medium.webp",
+      "smallPath": "_m/t/k/r/t/freemasons-lodge-building-karachi-wp/former-freemasons-lodg-small.webp"
     },
     {
       "filename": "PK Karachi asv2020-02 img79 Freemasons Lodge Building.jpg",
@@ -128,8 +128,8 @@
       "sourceType": "core",
       "sourceArticleId": "freemasons-lodge-building-karachi-wp",
       "sourceGeohash4": "tkrt",
-      "mediumPath": "_m/t/k/r/t/freemasons-lodge-building-karachi-wp/former-freemasons-lodg-1-medium.jpg",
-      "smallPath": "_m/t/k/r/t/freemasons-lodge-building-karachi-wp/former-freemasons-lodg-1-small.jpg"
+      "mediumPath": "_m/t/k/r/t/freemasons-lodge-building-karachi-wp/former-freemasons-lodg-1-medium.webp",
+      "smallPath": "_m/t/k/r/t/freemasons-lodge-building-karachi-wp/former-freemasons-lodg-1-small.webp"
     },
     {
       "filename": "PK Karachi asv2020-02 img80 Freemasons Lodge Building.jpg",
@@ -159,8 +159,8 @@
       "sourceType": "core",
       "sourceArticleId": "freemasons-lodge-building-karachi-wp",
       "sourceGeohash4": "tkrt",
-      "mediumPath": "_m/t/k/r/t/freemasons-lodge-building-karachi-wp/former-freemasons-lodg-2-medium.jpg",
-      "smallPath": "_m/t/k/r/t/freemasons-lodge-building-karachi-wp/former-freemasons-lodg-2-small.jpg"
+      "mediumPath": "_m/t/k/r/t/freemasons-lodge-building-karachi-wp/former-freemasons-lodg-2-medium.webp",
+      "smallPath": "_m/t/k/r/t/freemasons-lodge-building-karachi-wp/former-freemasons-lodg-2-small.webp"
     }
   ],
   "galleryPaths": [
@@ -168,5 +168,21 @@
     "_m/t/k/r/t/freemasons-lodge-building-karachi-wp/former-freemasons-lodg-1.jpg",
     "_m/t/k/r/t/freemasons-lodge-building-karachi-wp/former-freemasons-lodg-2.jpg"
   ],
-  "fetchedAt": "2026-03-01T10:42:21.089Z"
+  "narration": {
+    "files": [
+      "tkrt-freemasons-lodge-building-karachi-flight-context.mp3",
+      "tkrt-freemasons-lodge-building-karachi-intro.mp3",
+      "tkrt-freemasons-lodge-building-karachi-a-lodge-in-the-empire.mp3",
+      "tkrt-freemasons-lodge-building-karachi-banned-and-repurposed.mp3",
+      "tkrt-freemasons-lodge-building-karachi-sandstone-and-secrets.mp3"
+    ],
+    "durations": {
+      "tkrt-freemasons-lodge-building-karachi-flight-context.mp3": 31.8584166,
+      "tkrt-freemasons-lodge-building-karachi-intro.mp3": 40.3766666,
+      "tkrt-freemasons-lodge-building-karachi-a-lodge-in-the-empire.mp3": 51.9290416,
+      "tkrt-freemasons-lodge-building-karachi-banned-and-repurposed.mp3": 51.377875,
+      "tkrt-freemasons-lodge-building-karachi-sandstone-and-secrets.mp3": 56.59475
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -103,24 +103,24 @@
       "distanceKm": 695.6
     },
     "n": {
-      "id": "kidd-mine-wp",
-      "title": "Kidd Mine",
-      "tile": "f0wh",
+      "id": "fort-ramsay-wp",
+      "title": "Fort Ramsay",
+      "tile": "f8dj",
       "coordinates": {
-        "lat": 48.68888888888888,
-        "lng": -81.36527777777778
+        "lat": 48.825,
+        "lng": -64.444
       },
-      "distanceKm": 799.4
+      "distanceKm": 445.1
     },
     "ne": {
-      "id": "trans-labrador-highway-wk",
-      "title": "Trans-Labrador Highway",
-      "tile": "f92m",
+      "id": "chic-chocs-wildlife-reserve-wp",
+      "title": "Chic-Chocs Wildlife Reserve",
+      "tile": "f89n",
       "coordinates": {
-        "lat": 52.95,
-        "lng": -66.9
+        "lat": 48.9375,
+        "lng": -65.83
       },
-      "distanceKm": 538
+      "distanceKm": 306.6
     },
     "w": {
       "id": "val-jalbert-wp",
@@ -163,14 +163,15 @@
       "distanceKm": 7.6
     },
     "se": {
-      "id": "acadia-wk",
-      "title": "Acadia National Park",
-      "tile": "f83n",
+      "id": "ocean-train-wp",
+      "title": "The Ocean",
+      "tile": "f882",
       "coordinates": {
-        "lat": 47.617,
-        "lng": -65.767
+        "lat": 47.97507,
+        "lng": -66.93769
       },
-      "distanceKm": 315.9
+      "distanceKm": 225
     }
-  }
+  },
+  "locationWikipediaPath": "f/2/t/f/cap-trinite-wp"
 }

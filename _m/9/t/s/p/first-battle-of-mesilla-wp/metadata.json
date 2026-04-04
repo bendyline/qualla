@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "first-battle-of-mesilla-wp",
     "sourceGeohash4": "9tsp",
-    "smallPath": "_m/9/t/s/p/first-battle-of-mesilla-wp/hero-small.jpg",
-    "mediumPath": "_m/9/t/s/p/first-battle-of-mesilla-wp/hero-medium.jpg"
+    "smallPath": "_m/9/t/s/p/first-battle-of-mesilla-wp/hero-small.webp",
+    "mediumPath": "_m/9/t/s/p/first-battle-of-mesilla-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Old Mesilla Place, circa 1885-1886, by Leon Trousset - SAAM - DSC00859.JPG",
@@ -88,13 +88,12 @@
       "sourceType": "core",
       "sourceArticleId": "first-battle-of-mesilla-wp",
       "sourceGeohash4": "9tsp",
-      "smallPath": "_m/9/t/s/p/first-battle-of-mesilla-wp/1854-watercolor-painti-small.jpg"
+      "smallPath": "_m/9/t/s/p/first-battle-of-mesilla-wp/1854-watercolor-painti-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/t/s/p/first-battle-of-mesilla-wp/1854-watercolor-painti.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:24:04.535Z",
   "narration": {
     "files": [
       "9tsp-first-battle-of-mesilla-flight-context.mp3",
@@ -114,7 +113,6 @@
       "9tsp-first-battle-of-mesilla-a-territory-is-born.mp3": 55.22825,
       "9tsp-first-battle-of-mesilla-desert-crossroads-today.mp3": 48.56775
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T03:26:15.393Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

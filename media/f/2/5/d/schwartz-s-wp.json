@@ -26,8 +26,8 @@
           "Self-published work",
           "Taken with Nikon D90"
         ],
-        "mediumPath": "_m/f/2/5/d/schwartz-s-wp/hero-medium.jpg",
-        "smallPath": "_m/f/2/5/d/schwartz-s-wp/hero-small.jpg"
+        "mediumPath": "_m/f/2/5/d/schwartz-s-wp/hero-medium.webp",
+        "smallPath": "_m/f/2/5/d/schwartz-s-wp/hero-small.webp"
       },
       "images": [
         {
@@ -77,8 +77,8 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FS25"
           ],
-          "mediumPath": "_m/f/2/5/d/schwartz-s-wp/series-4-pictures-schw-medium.jpg",
-          "smallPath": "_m/f/2/5/d/schwartz-s-wp/series-4-pictures-schw-small.jpg"
+          "mediumPath": "_m/f/2/5/d/schwartz-s-wp/series-4-pictures-schw-medium.webp",
+          "smallPath": "_m/f/2/5/d/schwartz-s-wp/series-4-pictures-schw-small.webp"
         },
         {
           "path": "_m/f/2/5/d/schwartz-s-wp/blank-map-montreal-lav.png",
@@ -131,7 +131,7 @@
             "Self-published work",
             "Taken with Nikon Coolpix P60"
           ],
-          "smallPath": "_m/f/2/5/d/schwartz-s-wp/lineup-outside-schwart-small.jpg"
+          "smallPath": "_m/f/2/5/d/schwartz-s-wp/lineup-outside-schwart-small.webp"
         },
         {
           "path": "_m/f/2/5/d/schwartz-s-wp/fries-schwartz-s-deli-le-plate.jpg",
@@ -158,10 +158,19 @@
             "Location possible",
             "Schwartz's (restaurant)"
           ],
-          "mediumPath": "_m/f/2/5/d/schwartz-s-wp/fries-schwartz-s-deli-le-plate-medium.jpg",
-          "smallPath": "_m/f/2/5/d/schwartz-s-wp/fries-schwartz-s-deli-le-plate-small.jpg"
+          "mediumPath": "_m/f/2/5/d/schwartz-s-wp/fries-schwartz-s-deli-le-plate-medium.webp",
+          "smallPath": "_m/f/2/5/d/schwartz-s-wp/fries-schwartz-s-deli-le-plate-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/f/2/5/d/schwartz-s-wp/f25d-schwartzs-flight-context.mp3",
+        "_m/f/2/5/d/schwartz-s-wp/f25d-schwartzs-intro.mp3",
+        "_m/f/2/5/d/schwartz-s-wp/f25d-schwartzs-the-spice-that-launched-a-seasoning.mp3",
+        "_m/f/2/5/d/schwartz-s-wp/f25d-schwartzs-a-founder-a-violinist-and-a-caretaker.mp3",
+        "_m/f/2/5/d/schwartz-s-wp/f25d-schwartzs-the-language-wars-of-smoked-meat.mp3",
+        "_m/f/2/5/d/schwartz-s-wp/f25d-schwartzs-last-deli-standing.mp3"
+      ],
+      "combinedNarration": "_m/f/2/5/d/schwartz-s-wp/f25d-schwartz-s-combined.mp3"
     }
   }
 }

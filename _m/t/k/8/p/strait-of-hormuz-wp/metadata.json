@@ -25,11 +25,30 @@
       "sourceType": "poi",
       "sourceArticleId": "strait-of-hormuz-wp",
       "sourceGeohash4": "tk8p",
-      "smallPath": "_m/t/k/8/p/strait-of-hormuz-wp/persian-gulf-en-small.png"
+      "smallPath": "_m/t/k/8/p/strait-of-hormuz-wp/persian-gulf-en-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/t/k/8/p/strait-of-hormuz-wp/persian-gulf-en.png"
   ],
-  "updatedAt": "2026-03-01T10:25:21.675Z"
+  "updatedAt": "2026-03-01T10:25:21.675Z",
+  "narration": {
+    "files": [
+      "tk8p-strait-of-hormuz-flight-context.mp3",
+      "tk8p-strait-of-hormuz-intro.mp3",
+      "tk8p-strait-of-hormuz-an-ancient-throat-of-commerce.mp3",
+      "tk8p-strait-of-hormuz-the-oil-artery.mp3",
+      "tk8p-strait-of-hormuz-contested-waters.mp3",
+      "tk8p-strait-of-hormuz-the-view-from-above.mp3"
+    ],
+    "durations": {
+      "tk8p-strait-of-hormuz-flight-context.mp3": 49.9064583,
+      "tk8p-strait-of-hormuz-intro.mp3": 46.9002083,
+      "tk8p-strait-of-hormuz-an-ancient-throat-of-commerce.mp3": 58.5457083,
+      "tk8p-strait-of-hormuz-the-oil-artery.mp3": 63.899875,
+      "tk8p-strait-of-hormuz-contested-waters.mp3": 64.164875,
+      "tk8p-strait-of-hormuz-the-view-from-above.mp3": 58.310875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

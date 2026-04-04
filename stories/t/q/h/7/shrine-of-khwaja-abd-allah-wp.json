@@ -125,14 +125,14 @@
       "distanceKm": 325.6
     },
     "w": {
-      "id": "astan-quds-razavi-central-museum-wp",
-      "title": "Astan Quds Razavi Central Museum",
-      "tile": "tq6q",
+      "id": "furg-citadel-wp",
+      "title": "Furg Citadel",
+      "tile": "tmfd",
       "coordinates": {
-        "lat": 36.2865619,
-        "lng": 59.6158892
+        "lat": 32.845,
+        "lng": 59.94833333333333
       },
-      "distanceKm": 296
+      "distanceKm": 245.8
     },
     "e": {
       "id": "minaret-of-jam-wp",
@@ -155,24 +155,25 @@
       "distanceKm": 198.6
     },
     "s": {
-      "id": "central-persian-desert-basins-wp",
-      "title": "Central Persian Desert Basins",
-      "tile": "tjyz",
+      "id": "battle-of-shewan-wp",
+      "title": "Battle of Shewan",
+      "tile": "tmu3",
       "coordinates": {
-        "lat": 33.75,
-        "lng": 54.75
+        "lat": 32.625,
+        "lng": 62.488055555556
       },
-      "distanceKm": 707
+      "distanceKm": 164.4
     },
     "se": {
-      "id": "kharan-desert-wp",
-      "title": "Kharan Desert",
-      "tile": "tkvz",
+      "id": "kingdom-of-afghanistan-wp",
+      "title": "Kingdom of Afghanistan",
+      "tile": "tmy5",
       "coordinates": {
-        "lat": 28.01361111111111,
-        "lng": 64.34416666666667
+        "lat": 33,
+        "lng": 65
       },
-      "distanceKm": 690.2
+      "distanceKm": 227.6
     }
-  }
+  },
+  "locationWikipediaPath": "t/q/h/7/shrine-of-khwaja-abd-allah-wp"
 }

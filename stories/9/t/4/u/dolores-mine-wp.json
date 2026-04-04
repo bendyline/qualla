@@ -155,24 +155,24 @@
       "distanceKm": 169.8
     },
     "sw": {
-      "id": "cedros-island-wp",
-      "title": "Cedros Island",
-      "tile": "9mn0",
+      "id": "gulf-of-california-wp",
+      "title": "Gulf of California",
+      "tile": "9sbr",
       "coordinates": {
-        "lat": 28.18277777777778,
-        "lng": -115.21777777777778
+        "lat": 28,
+        "lng": -112
       },
-      "distanceKm": 611.8
+      "distanceKm": 303.9
     },
     "s": {
-      "id": "cathedral-of-chihuahua-wp",
-      "title": "Cathedral of Chihuahua",
-      "tile": "9thd",
+      "id": "copper-canyon-wp",
+      "title": "Copper Canyon",
+      "tile": "9sgk",
       "coordinates": {
-        "lat": 28.6358,
-        "lng": -106.0773
+        "lat": 27.516111,
+        "lng": -107.765833
       },
-      "distanceKm": 232.2
+      "distanceKm": 143.4
     },
     "se": {
       "id": "battle-of-guerrero-wp",
@@ -187,5 +187,6 @@
   },
   "keywords": [
     "dolores-mine"
-  ]
+  ],
+  "locationWikipediaPath": "9/t/4/u/dolores-mine-wp"
 }

@@ -128,36 +128,6 @@
       "distanceKm": 8.3
     },
     "e": {
-      "id": "alsace-wk",
-      "title": "Alsace",
-      "tile": "u0t7",
-      "coordinates": {
-        "lat": 48.5,
-        "lng": 7.5
-      },
-      "distanceKm": 253.1
-    },
-    "sw": {
-      "id": "paris-wk",
-      "title": "Paris",
-      "tile": "u09t",
-      "coordinates": {
-        "lat": 48.856,
-        "lng": 2.351
-      },
-      "distanceKm": 294.8
-    },
-    "s": {
-      "id": "dancing-plague-wk",
-      "title": "The Dancing Plague of 1518: When Strasbourg Couldn't Stop Dancing",
-      "tile": "u0ts",
-      "coordinates": {
-        "lat": 48.5833,
-        "lng": 7.7458
-      },
-      "distanceKm": 237.2
-    },
-    "se": {
       "id": "zwingenberg-castle-wp",
       "title": "Zwingenberg Castle",
       "tile": "u0y3",
@@ -165,7 +135,37 @@
         "lat": 49.42194,
         "lng": 9.03333
       },
-      "distanceKm": 203.5
+      "distanceKm": 220.9
+    },
+    "sw": {
+      "id": "marcinelle-mining-disaster-wp",
+      "title": "Marcinelle Mining Disaster",
+      "tile": "u0gn",
+      "coordinates": {
+        "lat": 50.380556,
+        "lng": 4.442778
+      },
+      "distanceKm": 84.1
+    },
+    "s": {
+      "id": "fort-jeanne-d-arc-wp",
+      "title": "Fort Jeanne d'Arc",
+      "tile": "u0sr",
+      "coordinates": {
+        "lat": 49.1168,
+        "lng": 6.06701
+      },
+      "distanceKm": 148.3
+    },
+    "se": {
+      "id": "marmoutier-abbey-alsace-wp",
+      "title": "Marmoutier Abbey",
+      "tile": "u0th",
+      "coordinates": {
+        "lat": 48.69067629718705,
+        "lng": 7.382379239377898
+      },
+      "distanceKm": 202
     }
   },
   "keywords": [

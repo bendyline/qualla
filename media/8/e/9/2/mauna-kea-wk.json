@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/8/e/9/2/mauna-kea-wk/8e94-mauna-kea-the-mountain-taller-than-everest-intro.mp3",
-        "_m/8/e/9/2/mauna-kea-wk/8e94-mauna-kea-the-mountain-taller-than-everest-flight-context.mp3",
-        "_m/8/e/9/2/mauna-kea-wk/8e94-mauna-kea-the-mountain-taller-than-everest-the-astronomy.mp3",
-        "_m/8/e/9/2/mauna-kea-wk/8e94-mauna-kea-the-mountain-taller-than-everest-the-balance.mp3",
-        "_m/8/e/9/2/mauna-kea-wk/8e94-mauna-kea-the-mountain-taller-than-everest-the-conflict.mp3",
-        "_m/8/e/9/2/mauna-kea-wk/8e94-mauna-kea-the-mountain-taller-than-everest-the-mountain.mp3",
-        "_m/8/e/9/2/mauna-kea-wk/8e94-mauna-kea-the-mountain-taller-than-everest-the-sacred.mp3"
+        "_m/8/e/9/2/mauna-kea-wk/8e92-mauna-kea-the-mountain-taller-than-everest-flight-context.mp3",
+        "_m/8/e/9/2/mauna-kea-wk/8e92-mauna-kea-the-mountain-taller-than-everest-intro.mp3",
+        "_m/8/e/9/2/mauna-kea-wk/8e92-mauna-kea-the-mountain-taller-than-everest-the-mountain.mp3",
+        "_m/8/e/9/2/mauna-kea-wk/8e92-mauna-kea-the-mountain-taller-than-everest-the-astronomy.mp3",
+        "_m/8/e/9/2/mauna-kea-wk/8e92-mauna-kea-the-mountain-taller-than-everest-the-sacred.mp3",
+        "_m/8/e/9/2/mauna-kea-wk/8e92-mauna-kea-the-mountain-taller-than-everest-the-conflict.mp3",
+        "_m/8/e/9/2/mauna-kea-wk/8e92-mauna-kea-the-mountain-taller-than-everest-the-balance.mp3"
       ],
       "hero": {
         "path": "_m/8/e/9/2/mauna-kea-wk/view-mauna-kea-summit.jpg",
@@ -26,8 +26,8 @@
         "sourceArticleId": "mauna-kea-wk",
         "sourceGeohash4": "8e92",
         "accessedAt": "2026-02-21T20:15:07.277Z",
-        "smallPath": "_m/8/e/9/2/mauna-kea-wk/view-mauna-kea-summit-small.jpg",
-        "mediumPath": "_m/8/e/9/2/mauna-kea-wk/view-mauna-kea-summit-medium.jpg"
+        "smallPath": "_m/8/e/9/2/mauna-kea-wk/hero-small.webp",
+        "mediumPath": "_m/8/e/9/2/mauna-kea-wk/hero-medium.webp"
       },
       "images": [
         {
@@ -906,7 +906,8 @@
           "sourceGeohash4": "",
           "accessedAt": "2026-02-21T20:15:07.277Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/8/e/9/2/mauna-kea-wk/8e92-mauna-kea-combined.mp3"
     }
   }
 }

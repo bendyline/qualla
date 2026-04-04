@@ -91,14 +91,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "tower-london-deeper-wk",
-      "title": "The Tower of London: The Fortress That Imprisoned Two Queens and Lost Two Princes",
+      "id": "battle-of-cable-street-wp",
+      "title": "The Battle of Cable Street: The Day the East End Said No",
       "tile": "gcpv",
       "coordinates": {
-        "lat": 51.5081,
-        "lng": -0.0761
+        "lat": 51.51085,
+        "lng": -0.05212
       },
-      "distanceKm": 175.6
+      "distanceKm": 173.9
     },
     "n": {
       "id": "zeeland-bridge-wp",
@@ -121,14 +121,14 @@
       "distanceKm": 21.5
     },
     "w": {
-      "id": "kent-wk",
-      "title": "Kent",
-      "tile": "u10e",
+      "id": "dover-castle-wp",
+      "title": "Dover Castle",
+      "tile": "u10f",
       "coordinates": {
-        "lat": 51.19,
-        "lng": 0.73
+        "lat": 51.128268,
+        "lng": 1.3235035
       },
-      "distanceKm": 120.7
+      "distanceKm": 80.2
     },
     "e": {
       "id": "gravensteen-wp",
@@ -141,14 +141,14 @@
       "distanceKm": 24.9
     },
     "sw": {
-      "id": "paris-wk",
-      "title": "Paris",
-      "tile": "u09t",
+      "id": "battle-of-lewes-wp",
+      "title": "Battle of Lewes",
+      "tile": "gcpc",
       "coordinates": {
-        "lat": 48.856,
-        "lng": 2.351
+        "lat": 50.878611,
+        "lng": -0.013889
       },
-      "distanceKm": 235.9
+      "distanceKm": 173.8
     },
     "s": {
       "id": "battle-of-roosebeke-wp",
@@ -173,5 +173,6 @@
   },
   "keywords": [
     "atlantic-wall-open-air-museum"
-  ]
+  ],
+  "locationWikipediaPath": "u/1/4/5/atlantic-wall-open-air-museum-wp"
 }

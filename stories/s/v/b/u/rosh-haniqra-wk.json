@@ -66,6 +66,36 @@
   },
   "directionalNeighbors": {
     "nw": {
+      "id": "siege-of-famagusta-wp",
+      "title": "Siege of Famagusta",
+      "tile": "sy0p",
+      "coordinates": {
+        "lat": 35.116666666667,
+        "lng": 33.95
+      },
+      "distanceKm": 196.6
+    },
+    "n": {
+      "id": "1983-beirut-barracks-bombings-wp",
+      "title": "1983 Beirut Barracks Bombings",
+      "tile": "sy10",
+      "coordinates": {
+        "lat": 33.829166666667,
+        "lng": 35.494722222222
+      },
+      "distanceKm": 67.5
+    },
+    "ne": {
+      "id": "national-museum-of-beirut-wp",
+      "title": "National Museum of Beirut",
+      "tile": "sy12",
+      "coordinates": {
+        "lat": 33.878219444444,
+        "lng": 35.5149
+      },
+      "distanceKm": 53.4
+    },
+    "w": {
       "id": "varosha-wk",
       "title": "Varosha: The Ghost Resort of Cyprus",
       "tile": "sy0p",
@@ -73,67 +103,37 @@
         "lat": 35.1178,
         "lng": 33.9522
       },
-      "distanceKm": 196.6
-    },
-    "n": {
-      "id": "adana-wk",
-      "title": "Adana",
-      "tile": "sy94",
-      "coordinates": {
-        "lat": 37,
-        "lng": 35.3213
-      },
-      "distanceKm": 401.7
-    },
-    "ne": {
-      "id": "beirut-wk",
-      "title": "Beirut",
-      "tile": "sy12",
-      "coordinates": {
-        "lat": 33.886944444444,
-        "lng": 35.513055555556
-      },
-      "distanceKm": 54.3
-    },
-    "w": {
-      "id": "great-sphinx-wk",
-      "title": "The Great Sphinx: The Face That Has Been Staring at the Sunrise for 4,500 Years",
-      "tile": "stq4",
-      "coordinates": {
-        "lat": 29.9753,
-        "lng": 31.1376
-      },
-      "distanceKm": 471.2
+      "distanceKm": 225.3
     },
     "e": {
-      "id": "gobekli-tepe-wk",
-      "title": "Göbekli Tepe: The Temple Built Before Agriculture",
-      "tile": "syee",
+      "id": "1975-beirut-bus-massacre-wp",
+      "title": "1975 Beirut Bus Massacre",
+      "tile": "sy12",
       "coordinates": {
-        "lat": 37.2233,
-        "lng": 38.9224
+        "lat": 33.8869,
+        "lng": 35.5131
       },
-      "distanceKm": 550.3
+      "distanceKm": 83.6
     },
     "sw": {
-      "id": "great-pyramid-wk",
-      "title": "The Great Pyramid: The Monument That Shouldn't Exist",
-      "tile": "stq4",
+      "id": "battle-of-raphia-wp",
+      "title": "Battle of Raphia",
+      "tile": "sv83",
       "coordinates": {
-        "lat": 29.9792,
-        "lng": 31.1342
+        "lat": 31.288611111,
+        "lng": 34.251944444
       },
-      "distanceKm": 450
+      "distanceKm": 177
     },
     "s": {
-      "id": "tel-aviv-wk",
-      "title": "Tel Aviv",
-      "tile": "sv8w",
+      "id": "battle-of-arsuf-wp",
+      "title": "Battle of Arsuf",
+      "tile": "sv8z",
       "coordinates": {
-        "lat": 32.0853,
-        "lng": 34.7818
+        "lat": 32.19444444444444,
+        "lng": 34.80694444444445
       },
-      "distanceKm": 89.3
+      "distanceKm": 77
     },
     "se": {
       "id": "amman-wk",
@@ -148,5 +148,6 @@
   },
   "keywords": [
     "rosh-haniqra"
-  ]
+  ],
+  "locationWikivoyagePath": "s/v/b/u/rosh-haniqra-wk"
 }

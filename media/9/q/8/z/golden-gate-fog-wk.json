@@ -3,11 +3,11 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/q/8/z/golden-gate-fog-wk/9q8z-golden-gate-bridge-the-span-that-conquered-fog-and-intro.mp3",
         "_m/9/q/8/z/golden-gate-fog-wk/9q8z-golden-gate-bridge-the-span-that-conquered-fog-and-flight-context.mp3",
-        "_m/9/q/8/z/golden-gate-fog-wk/9q8z-golden-gate-bridge-the-span-that-conquered-fog-and-the-color.mp3",
-        "_m/9/q/8/z/golden-gate-fog-wk/9q8z-golden-gate-bridge-the-span-that-conquered-fog-and-the-construction.mp3",
+        "_m/9/q/8/z/golden-gate-fog-wk/9q8z-golden-gate-bridge-the-span-that-conquered-fog-and-intro.mp3",
         "_m/9/q/8/z/golden-gate-fog-wk/9q8z-golden-gate-bridge-the-span-that-conquered-fog-and-the-strait.mp3",
+        "_m/9/q/8/z/golden-gate-fog-wk/9q8z-golden-gate-bridge-the-span-that-conquered-fog-and-the-construction.mp3",
+        "_m/9/q/8/z/golden-gate-fog-wk/9q8z-golden-gate-bridge-the-span-that-conquered-fog-and-the-color.mp3",
         "_m/9/q/8/z/golden-gate-fog-wk/9q8z-golden-gate-bridge-the-span-that-conquered-fog-and-the-symbol.mp3",
         "_m/9/q/8/z/golden-gate-fog-wk/9q8z-golden-gate-bridge-the-span-that-conquered-fog-and-visiting-golden-gate-bridge.mp3"
       ],
@@ -25,7 +25,8 @@
         "sourceType": "sibling",
         "sourceArticleId": "golden-gate-bridge",
         "sourceGeohash4": "tpc/go/ld/en/-g",
-        "accessedAt": "2026-02-21T20:56:48.950Z"
+        "accessedAt": "2026-02-21T20:56:48.950Z",
+        "smallPath": "_m/9/q/8/z/golden-gate-fog-wk/hero-small.webp"
       },
       "images": [
         {
@@ -1132,7 +1133,8 @@
             "aerialBonus": 0
           }
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/q/8/z/golden-gate-fog-wk/9q8z-golden-gate-fog-combined.mp3"
     }
   }
 }

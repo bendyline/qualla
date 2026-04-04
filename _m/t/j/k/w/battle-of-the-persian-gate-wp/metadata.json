@@ -23,7 +23,7 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-the-persian-gate-wp",
     "sourceGeohash4": "tjkw",
-    "smallPath": "_m/t/j/k/w/battle-of-the-persian-gate-wp/hero-small.jpg"
+    "smallPath": "_m/t/j/k/w/battle-of-the-persian-gate-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "2persian gate wall.JPG",
@@ -128,7 +128,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-the-persian-gate-wp",
       "sourceGeohash4": "tjkw",
-      "smallPath": "_m/t/j/k/w/battle-of-the-persian-gate-wp/history-of-alexander-the-great-small.jpg"
+      "smallPath": "_m/t/j/k/w/battle-of-the-persian-gate-wp/history-of-alexander-the-great-small.webp"
     }
   ],
   "galleryPaths": [
@@ -136,6 +136,26 @@
     "_m/t/q/3/y/nishapur-wp/west-asia-non-political-with-w.jpg",
     "_m/t/j/k/w/battle-of-the-persian-gate-wp/history-of-alexander-the-great.jpg"
   ],
-  "fetchedAt": "2026-03-01T08:17:27.012Z",
-  "updatedAt": "2026-03-01T08:17:40.532Z"
+  "updatedAt": "2026-03-01T08:17:40.532Z",
+  "narration": {
+    "files": [
+      "tjkw-battle-of-the-persian-gate-persias-thermopylae-flight-context.mp3",
+      "tjkw-battle-of-the-persian-gate-persias-thermopylae-intro.mp3",
+      "tjkw-battle-of-the-persian-gate-persias-thermopylae-the-trap-in-the-mountains.mp3",
+      "tjkw-battle-of-the-persian-gate-persias-thermopylae-boulders-and-arrows.mp3",
+      "tjkw-battle-of-the-persian-gate-persias-thermopylae-a-month-of-defiance.mp3",
+      "tjkw-battle-of-the-persian-gate-persias-thermopylae-the-last-charge.mp3",
+      "tjkw-battle-of-the-persian-gate-persias-thermopylae-what-fell-with-the-gate.mp3"
+    ],
+    "durations": {
+      "tjkw-battle-of-the-persian-gate-persias-thermopylae-flight-context.mp3": 52.5634583,
+      "tjkw-battle-of-the-persian-gate-persias-thermopylae-intro.mp3": 53.7434166,
+      "tjkw-battle-of-the-persian-gate-persias-thermopylae-the-trap-in-the-mountains.mp3": 46.0432083,
+      "tjkw-battle-of-the-persian-gate-persias-thermopylae-boulders-and-arrows.mp3": 48.08475,
+      "tjkw-battle-of-the-persian-gate-persias-thermopylae-a-month-of-defiance.mp3": 50.6309583,
+      "tjkw-battle-of-the-persian-gate-persias-thermopylae-the-last-charge.mp3": 49.1017083,
+      "tjkw-battle-of-the-persian-gate-persias-thermopylae-what-fell-with-the-gate.mp3": 68.317
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

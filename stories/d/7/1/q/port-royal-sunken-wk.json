@@ -102,88 +102,89 @@
   },
   "locationWikipediaPath": "d/7/1/q/port-royal-wp",
   "duplicates": [
-    "port-royal-pirates-wk"
+    "port-royal-pirates-wk",
+    "port-royal-wp"
   ],
   "directionalNeighbors": {
     "nw": {
-      "id": "batalla-de-santa-clara-wp",
-      "title": "Batalla de Santa Clara",
-      "tile": "dhp2",
+      "id": "discovery-bay-jamaica-wp",
+      "title": "Discovery Bay, Jamaica",
+      "tile": "d72c",
       "coordinates": {
-        "lat": 22.616666666666667,
-        "lng": -79.68333333333334
+        "lat": 18.466666666667,
+        "lng": -77.4
       },
-      "distanceKm": 540.2
+      "distanceKm": 21.5
     },
     "n": {
-      "id": "havana-wk",
-      "title": "Havana",
-      "tile": "dhj7",
+      "id": "trinity-plantation-wp",
+      "title": "Trinity Plantation",
+      "tile": "d732",
       "coordinates": {
-        "lat": 23.051,
-        "lng": -82.3748
+        "lat": 18.359,
+        "lng": -76.903
       },
-      "distanceKm": 784.5
+      "distanceKm": 12.6
     },
     "ne": {
-      "id": "labadee-wk",
-      "title": "Labadee",
-      "tile": "d7s8",
+      "id": "navassa-island-wp",
+      "title": "Navassa Island",
+      "tile": "d768",
       "coordinates": {
-        "lat": 19.786389,
-        "lng": -72.245556
+        "lat": 18.4027,
+        "lng": -75.0126
       },
-      "distanceKm": 456.8
+      "distanceKm": 135.4
     },
     "w": {
-      "id": "finca-vig-a-wp",
-      "title": "Finca Vigía",
-      "tile": "dhj7",
+      "id": "milk-river-bath-wp",
+      "title": "Milk River Bath",
+      "tile": "d70v",
       "coordinates": {
-        "lat": 23.067742,
-        "lng": -82.296417
+        "lat": 17.8538671,
+        "lng": -77.3523653
       },
-      "distanceKm": 762.2
+      "distanceKm": 18.2
     },
     "e": {
-      "id": "bermuda-triangle-mystery-wk",
-      "title": "Bermuda Triangle: The Mystery That Wasn't There",
-      "tile": "dkmw",
+      "id": "battle-of-san-juan-hill-wp",
+      "title": "Battle of San Juan Hill",
+      "tile": "d7d1",
       "coordinates": {
-        "lat": 25,
-        "lng": -71
+        "lat": 20.0209106,
+        "lng": -75.7961154
       },
-      "distanceKm": 949.5
+      "distanceKm": 228.7
     },
     "sw": {
-      "id": "juan-castro-blanco-national-park-wk",
-      "title": "Juan Castro Blanco National Park",
-      "tile": "d1u4",
+      "id": "bajo-nuevo-bank-wp",
+      "title": "Bajo Nuevo Bank",
+      "tile": "d6b4",
       "coordinates": {
-        "lat": 10.28,
-        "lng": -84.33
+        "lat": 15.883333333333,
+        "lng": -78.633333333333
       },
-      "distanceKm": 1121.5
+      "distanceKm": 249.2
     },
     "s": {
-      "id": "birdwatching-in-costa-rica-wk",
-      "title": "Birdwatching in Costa Rica",
-      "tile": "d1s7",
+      "id": "caribbean-english-wp",
+      "title": "Caribbean English",
+      "tile": "d6dw",
       "coordinates": {
-        "lat": 9.09193,
-        "lng": -83.7323
+        "lat": 15.187142636713544,
+        "lng": -75.17538720089601
       },
-      "distanceKm": 1219
+      "distanceKm": 334.8
     },
     "se": {
-      "id": "cartagena-wk",
-      "title": "Cartagena",
-      "tile": "d3f7",
+      "id": "german-submarine-u-94-1940-wp",
+      "title": "German Submarine U-94",
+      "tile": "d75h",
       "coordinates": {
-        "lat": 10.391,
-        "lng": -75.4794
+        "lat": 17.666666666666668,
+        "lng": -74.5
       },
-      "distanceKm": 823.4
+      "distanceKm": 189.8
     }
   },
   "keywords": [

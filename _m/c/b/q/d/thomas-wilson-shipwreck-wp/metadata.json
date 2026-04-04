@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "thomas-wilson-shipwreck-wp",
     "sourceGeohash4": "cbqd",
-    "smallPath": "_m/c/b/q/d/thomas-wilson-shipwreck-wp/hero-small.jpg",
-    "mediumPath": "_m/c/b/q/d/thomas-wilson-shipwreck-wp/hero-medium.jpg"
+    "smallPath": "_m/c/b/q/d/thomas-wilson-shipwreck-wp/hero-small.webp",
+    "mediumPath": "_m/c/b/q/d/thomas-wilson-shipwreck-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "George G. Hadley.jpg",
@@ -78,7 +78,7 @@
       "sourceType": "core",
       "sourceArticleId": "thomas-wilson-shipwreck-wp",
       "sourceGeohash4": "cbqd",
-      "smallPath": "_m/c/b/q/d/thomas-wilson-shipwreck-wp/three-capstans-stern-e-small.jpg"
+      "smallPath": "_m/c/b/q/d/thomas-wilson-shipwreck-wp/three-capstans-stern-e-small.webp"
     },
     {
       "filename": "DuluthMapRevised.png",
@@ -103,7 +103,7 @@
       "sourceType": "core",
       "sourceArticleId": "thomas-wilson-shipwreck-wp",
       "sourceGeohash4": "cbqd",
-      "smallPath": "_m/c/b/q/d/thomas-wilson-shipwreck-wp/map-duluth-vicinity-cr-small.png"
+      "smallPath": "_m/c/b/q/d/thomas-wilson-shipwreck-wp/map-duluth-vicinity-cr-small.webp"
     },
     {
       "filename": "ThomasWilsonArtifacts.jpg",
@@ -128,8 +128,8 @@
       "sourceType": "core",
       "sourceArticleId": "thomas-wilson-shipwreck-wp",
       "sourceGeohash4": "cbqd",
-      "smallPath": "_m/c/b/q/d/thomas-wilson-shipwreck-wp/several-objects-thomas-small.jpg",
-      "mediumPath": "_m/c/b/q/d/thomas-wilson-shipwreck-wp/several-objects-thomas-medium.jpg"
+      "smallPath": "_m/c/b/q/d/thomas-wilson-shipwreck-wp/several-objects-thomas-small.webp",
+      "mediumPath": "_m/c/b/q/d/thomas-wilson-shipwreck-wp/several-objects-thomas-medium.webp"
     },
     {
       "filename": "Thomas Wilson whaleback BGSU 6.jpg",
@@ -152,7 +152,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "thomas-wilson-shipwreck-wp",
-      "sourceGeohash4": "cbqd"
+      "sourceGeohash4": "cbqd",
+      "smallPath": "_m/c/b/q/d/thomas-wilson-shipwreck-wp/thomas-wilson-whaleback-bgsu-6-small.webp"
     },
     {
       "filename": "Thomas Wilson whaleback BGSU 1 withBarges.jpg",
@@ -177,7 +178,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "thomas-wilson-shipwreck-wp",
-      "sourceGeohash4": "cbqd"
+      "sourceGeohash4": "cbqd",
+      "smallPath": "_m/c/b/q/d/thomas-wilson-shipwreck-wp/thomas-wilson-whaleback-bgsu-1-small.webp"
     },
     {
       "filename": "Thomas Wilson Hatch.jpg",
@@ -203,7 +205,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "thomas-wilson-shipwreck-wp",
-      "sourceGeohash4": "cbqd"
+      "sourceGeohash4": "cbqd",
+      "smallPath": "_m/c/b/q/d/thomas-wilson-shipwreck-wp/thomas-wilson-hatch-small.webp"
     },
     {
       "filename": "Thomas Wilson Turret.jpg",
@@ -228,7 +231,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "thomas-wilson-shipwreck-wp",
-      "sourceGeohash4": "cbqd"
+      "sourceGeohash4": "cbqd",
+      "smallPath": "_m/c/b/q/d/thomas-wilson-shipwreck-wp/thomas-wilson-turret-small.webp"
     },
     {
       "filename": "Wilson incline.jpg",
@@ -258,7 +262,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "thomas-wilson-shipwreck-wp",
-      "sourceGeohash4": "cbqd"
+      "sourceGeohash4": "cbqd",
+      "mediumPath": "_m/c/b/q/d/thomas-wilson-shipwreck-wp/wilson-incline-medium.webp",
+      "smallPath": "_m/c/b/q/d/thomas-wilson-shipwreck-wp/wilson-incline-small.webp"
     },
     {
       "filename": "Thomas Wilson.jpg",
@@ -281,7 +287,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "thomas-wilson-shipwreck-wp",
-      "sourceGeohash4": "cbqd"
+      "sourceGeohash4": "cbqd",
+      "mediumPath": "_m/c/b/q/d/thomas-wilson-shipwreck-wp/thomas-wilson-medium.webp",
+      "smallPath": "_m/c/b/q/d/thomas-wilson-shipwreck-wp/thomas-wilson-small.webp"
     }
   ],
   "galleryPaths": [
@@ -295,7 +303,6 @@
     "_m/c/b/q/d/thomas-wilson-shipwreck-wp/wilson-incline.jpg",
     "_m/c/b/q/d/thomas-wilson-shipwreck-wp/thomas-wilson.jpg"
   ],
-  "fetchedAt": "2026-02-22T03:06:31.519Z",
   "narration": {
     "files": [
       "cbqd-thomas-wilson-shipwreck-flight-context.mp3",
@@ -313,8 +320,7 @@
       "cbqd-thomas-wilson-shipwreck-rules-written-in-the-wake.mp3": 55.6975,
       "cbqd-thomas-wilson-shipwreck-a-whaleback-preserved-in-cold-water.mp3": 69.3954583
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T12:02:52.172Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T03:06:32.189Z"
 }

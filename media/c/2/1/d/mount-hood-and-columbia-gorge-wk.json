@@ -3,8 +3,8 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/c21d-mount-hood-and-the-columbia-gorge-intro.mp3",
         "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/c21d-mount-hood-and-the-columbia-gorge-flight-context.mp3",
+        "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/c21d-mount-hood-and-the-columbia-gorge-intro.mp3",
         "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/c21d-mount-hood-and-the-columbia-gorge-the-floods-that-made-the-gorge.mp3",
         "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/c21d-mount-hood-and-the-columbia-gorge-the-historic-highway.mp3",
         "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/c21d-mount-hood-and-the-columbia-gorge-the-mountain-above.mp3",
@@ -32,7 +32,9 @@
           "Media contributed by Northwest Digital Heritage",
           "Media contributed by Oregon State Archives",
           "Media contributed by the Digital Public Library of America"
-        ]
+        ],
+        "mediumPath": "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/hero-medium.webp",
+        "smallPath": "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/hero-small.webp"
       },
       "images": [
         {
@@ -112,7 +114,7 @@
             "Taken with Casio Exilim EX-Z110",
             "Vista House"
           ],
-          "smallPath": "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/looking-north-vista-ho-small.jpg"
+          "smallPath": "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/looking-north-vista-ho-small.webp"
         },
         {
           "path": "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/historic-balch-hotel-b.jpg",
@@ -135,7 +137,7 @@
             "GFDL",
             "License migration redundant"
           ],
-          "smallPath": "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/historic-balch-hotel-b-small.jpg"
+          "smallPath": "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/historic-balch-hotel-b-small.webp"
         },
         {
           "path": "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/aerial-view-dalles-ore.jpg",
@@ -152,8 +154,8 @@
           "sourceArticleId": "mount-hood-and-columbia-gorge-wk",
           "sourceGeohash4": "c21d",
           "accessedAt": "2026-02-22T01:52:47.257Z",
-          "smallPath": "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/aerial-view-dalles-ore-small.jpg",
-          "mediumPath": "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/aerial-view-dalles-ore-medium.jpg"
+          "smallPath": "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/aerial-view-dalles-ore-small.webp",
+          "mediumPath": "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/aerial-view-dalles-ore-medium.webp"
         },
         {
           "path": "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/hero.jpg",
@@ -169,7 +171,9 @@
           "sourceType": "core",
           "sourceArticleId": "mount-hood-and-columbia-gorge-wk",
           "sourceGeohash4": "c21d",
-          "accessedAt": "2026-02-22T01:52:47.257Z"
+          "accessedAt": "2026-02-22T01:52:47.257Z",
+          "mediumPath": "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/hero-medium.webp",
+          "smallPath": "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/hero-small.webp"
         },
         {
           "path": "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/horstail-falls.jpg",
@@ -202,7 +206,7 @@
           "sourceArticleId": "mount-hood-and-columbia-gorge-wk",
           "sourceGeohash4": "c21d",
           "accessedAt": "2026-02-22T01:52:47.257Z",
-          "smallPath": "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/multnomah-falls-june-7-small.jpg"
+          "smallPath": "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/multnomah-falls-june-7-small.webp"
         },
         {
           "path": "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/oregon-s-tallest-water.jpg",
@@ -318,7 +322,8 @@
             "Visitor7 BW Images"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/1/d/mount-hood-and-columbia-gorge-wk/c21d-mount-hood-and-columbia-gorge-combined.mp3"
     }
   }
 }

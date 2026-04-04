@@ -23,8 +23,8 @@
     "sourceType": "core",
     "sourceArticleId": "khudafarin-bridges-wp",
     "sourceGeohash4": "tncq",
-    "mediumPath": "_m/t/n/c/q/khudafarin-bridges-wp/hero-medium.jpg",
-    "smallPath": "_m/t/n/c/q/khudafarin-bridges-wp/hero-small.jpg"
+    "mediumPath": "_m/t/n/c/q/khudafarin-bridges-wp/hero-medium.webp",
+    "smallPath": "_m/t/n/c/q/khudafarin-bridges-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Khudafarin bridge in 16 November 2020 (3).jpg",
@@ -106,8 +106,8 @@
       "sourceType": "core",
       "sourceArticleId": "khudafarin-bridges-wp",
       "sourceGeohash4": "tncq",
-      "mediumPath": "_m/t/n/c/q/khudafarin-bridges-wp/damaged-13th-century-1-medium.jpg",
-      "smallPath": "_m/t/n/c/q/khudafarin-bridges-wp/damaged-13th-century-1-small.jpg"
+      "mediumPath": "_m/t/n/c/q/khudafarin-bridges-wp/damaged-13th-century-1-medium.webp",
+      "smallPath": "_m/t/n/c/q/khudafarin-bridges-wp/damaged-13th-century-1-small.webp"
     },
     {
       "filename": "Abbasabad Fall 2013 2.jpg",
@@ -133,8 +133,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "khudafarin-bridges-wp",
       "sourceGeohash4": "tncq",
-      "mediumPath": "_m/t/n/c/q/khudafarin-bridges-wp/abbasabad-fall-2013-2-medium.jpg",
-      "smallPath": "_m/t/n/c/q/khudafarin-bridges-wp/abbasabad-fall-2013-2-small.jpg"
+      "mediumPath": "_m/t/n/c/q/khudafarin-bridges-wp/abbasabad-fall-2013-2-medium.webp",
+      "smallPath": "_m/t/n/c/q/khudafarin-bridges-wp/abbasabad-fall-2013-2-small.webp"
     },
     {
       "filename": "Khoda Afarin bridges.jpg",
@@ -166,8 +166,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "khudafarin-bridges-wp",
       "sourceGeohash4": "tncq",
-      "mediumPath": "_m/t/n/c/q/khudafarin-bridges-wp/khoda-afarin-bridges-medium.jpg",
-      "smallPath": "_m/t/n/c/q/khudafarin-bridges-wp/khoda-afarin-bridges-small.jpg"
+      "mediumPath": "_m/t/n/c/q/khudafarin-bridges-wp/khoda-afarin-bridges-medium.webp",
+      "smallPath": "_m/t/n/c/q/khudafarin-bridges-wp/khoda-afarin-bridges-small.webp"
     }
   ],
   "galleryPaths": [
@@ -176,6 +176,24 @@
     "_m/t/n/c/q/khudafarin-bridges-wp/abbasabad-fall-2013-2.jpg",
     "_m/t/n/c/q/khudafarin-bridges-wp/khoda-afarin-bridges.jpg"
   ],
-  "fetchedAt": "2026-03-01T13:47:47.557Z",
-  "updatedAt": "2026-03-01T13:47:49.909Z"
+  "updatedAt": "2026-03-01T13:47:49.909Z",
+  "narration": {
+    "files": [
+      "tncq-khudafarin-bridges-the-crossing-god-created-flight-context.mp3",
+      "tncq-khudafarin-bridges-the-crossing-god-created-intro.mp3",
+      "tncq-khudafarin-bridges-the-crossing-god-created-an-age-nobody-can-pin-down.mp3",
+      "tncq-khudafarin-bridges-the-crossing-god-created-two-bridges-two-characters.mp3",
+      "tncq-khudafarin-bridges-the-crossing-god-created-battleground-between-empires.mp3",
+      "tncq-khudafarin-bridges-the-crossing-god-created-closed-at-both-ends.mp3"
+    ],
+    "durations": {
+      "tncq-khudafarin-bridges-the-crossing-god-created-flight-context.mp3": 49.7467916,
+      "tncq-khudafarin-bridges-the-crossing-god-created-intro.mp3": 51.9054583,
+      "tncq-khudafarin-bridges-the-crossing-god-created-an-age-nobody-can-pin-down.mp3": 76.235,
+      "tncq-khudafarin-bridges-the-crossing-god-created-two-bridges-two-characters.mp3": 65.669875,
+      "tncq-khudafarin-bridges-the-crossing-god-created-battleground-between-empires.mp3": 53.90325,
+      "tncq-khudafarin-bridges-the-crossing-god-created-closed-at-both-ends.mp3": 49.2640416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

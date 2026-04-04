@@ -28,8 +28,8 @@
     "sourceType": "core",
     "sourceArticleId": "southern-ute-indian-reservation-wp",
     "sourceGeohash4": "9we7",
-    "smallPath": "_m/9/w/e/7/southern-ute-indian-reservation-wp/hero-small.jpg",
-    "mediumPath": "_m/9/w/e/7/southern-ute-indian-reservation-wp/hero-medium.jpg"
+    "smallPath": "_m/9/w/e/7/southern-ute-indian-reservation-wp/hero-small.webp",
+    "mediumPath": "_m/9/w/e/7/southern-ute-indian-reservation-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Southern Ute Tribal Administration Building.JPG",
@@ -106,7 +106,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "southern-ute-indian-reservation-wp",
-      "sourceGeohash4": "9we7"
+      "sourceGeohash4": "9we7",
+      "smallPath": "_m/9/w/e/7/southern-ute-indian-reservation-wp/southern-ute-reservation-map-small.webp"
     },
     {
       "filename": "Tiffany, Colorado.JPG",
@@ -131,7 +132,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "southern-ute-indian-reservation-wp",
-      "sourceGeohash4": "9we7"
+      "sourceGeohash4": "9we7",
+      "mediumPath": "_m/9/w/e/7/southern-ute-indian-reservation-wp/tiffany-colorado-medium.webp",
+      "smallPath": "_m/9/w/e/7/southern-ute-indian-reservation-wp/tiffany-colorado-small.webp"
     },
     {
       "filename": "Southern Ute Cultural Center and Museum.JPG",
@@ -151,7 +154,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "southern-ute-indian-reservation-wp",
-      "sourceGeohash4": "9we7"
+      "sourceGeohash4": "9we7",
+      "mediumPath": "_m/9/w/e/7/southern-ute-indian-reservation-wp/southern-ute-cultural-center-a-medium.webp",
+      "smallPath": "_m/9/w/e/7/southern-ute-indian-reservation-wp/southern-ute-cultural-center-a-small.webp"
     },
     {
       "filename": "Photograph of Map of Moqui, Navajo and Southern Ute Reservations - DPLA - dad7fd4060b2270eb933676b66064bf9.jpg",
@@ -182,7 +187,9 @@
       "dateCreated": "1883<div style=\"display: none;\">date QS:P571,+1883-00-00T00:00:00Z/9</div>",
       "sourceType": "commons-category",
       "sourceArticleId": "southern-ute-indian-reservation-wp",
-      "sourceGeohash4": "9we7"
+      "sourceGeohash4": "9we7",
+      "mediumPath": "_m/9/w/e/7/southern-ute-indian-reservation-wp/map-of-a-reservation-for-the-a-medium.webp",
+      "smallPath": "_m/9/w/e/7/southern-ute-indian-reservation-wp/map-of-a-reservation-for-the-a-small.webp"
     },
     {
       "filename": "Map of a Reservation for the Allotment to the Southern Utes - DPLA - 5f9756b48e5551fd9e18aa56c4ef995a (page 2).jpg",
@@ -198,7 +205,9 @@
       "dateCreated": "1883<div style=\"display: none;\">date QS:P571,+1883-00-00T00:00:00Z/9</div>",
       "sourceType": "commons-category",
       "sourceArticleId": "southern-ute-indian-reservation-wp",
-      "sourceGeohash4": "9we7"
+      "sourceGeohash4": "9we7",
+      "mediumPath": "_m/9/w/e/7/southern-ute-indian-reservation-wp/map-of-a-reservation-for-the-a-1-medium.webp",
+      "smallPath": "_m/9/w/e/7/southern-ute-indian-reservation-wp/map-of-a-reservation-for-the-a-1-small.webp"
     },
     {
       "filename": "National Museum of the American Indian (21 September 2023) 42.jpg",
@@ -215,7 +224,9 @@
       "dateCreated": "2023-09-21 14:57:41",
       "sourceType": "commons-category",
       "sourceArticleId": "southern-ute-indian-reservation-wp",
-      "sourceGeohash4": "9we7"
+      "sourceGeohash4": "9we7",
+      "mediumPath": "_m/9/w/e/7/southern-ute-indian-reservation-wp/national-museum-of-the-america-medium.webp",
+      "smallPath": "_m/9/w/e/7/southern-ute-indian-reservation-wp/national-museum-of-the-america-small.webp"
     }
   ],
   "galleryPaths": [
@@ -228,7 +239,6 @@
     "_m/9/w/e/7/southern-ute-indian-reservation-wp/map-of-a-reservation-for-the-a-1.jpg",
     "_m/9/w/e/7/southern-ute-indian-reservation-wp/national-museum-of-the-america.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:47:53.460Z",
   "narration": {
     "files": [
       "9we7-southern-ute-indian-reservation-flight-context.mp3",
@@ -248,8 +258,7 @@
       "9we7-southern-ute-indian-reservation-self-governance-and-modern-enterprise.mp3": 56.420875,
       "9we7-southern-ute-indian-reservation-land-between-forest-and-mesa.mp3": 50.6585416
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T17:28:15.514Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T23:47:55.208Z"
 }

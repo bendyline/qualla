@@ -1,0 +1,161 @@
+{
+  "id": "gueldaman-caves-wp",
+  "source": "wikipedia",
+  "sourceId": "51247134",
+  "title": "Gueldaman Caves",
+  "slug": "gueldaman-caves",
+  "summary": "A prehistoric cave system named after a Numidian water deity, where 17,000 years of human occupation ended abruptly when a Mediterranean drought drove entire communities from their homes.",
+  "content": {
+    "intro": "Gueldaman is a Numidian water deity. That the caves on this mountain ridge bear a god's name suggests how long people have been coming here for what the landscape provides: water, shelter, and a view down the Soummam valley. The Gueldaman caves -- Adrar Gueldaman in Berber, where adrar means mountain -- sit on a karst ridge near the town of Akbou in Algeria's Bejaia Province, within the western Babor Mountains of the Tell Atlas range. Inside these caves, archaeologists have found evidence of continuous human occupation spanning more than 17,000 years, from Paleolithic hunters to Neolithic herders. And then, roughly 4,200 years ago, the people left. Climate may explain why.",
+    "sections": [
+      {
+        "title": "Seventeen Millennia Underground",
+        "body": "The ridge stretches over seven kilometers at altitudes between 556 and 898 meters, with six caves on its southeastern face. The main cave, GLD1, is 80 meters long and sits 507 meters above sea level. French researchers de Beaumais and Royer first excavated it in the 1920s, discovering polished stone tools that associated the site with the early Neolithic. But those early digs lacked proper chrono-stratigraphic analysis, and the findings sat largely uncontextualized for decades. When Algeria's National Center of prehistoric anthropological and historical research (CNRPAH) resumed excavations in 2010, modern methods revealed a far richer picture: GLD1's deposits extend more than five meters deep, containing mammal bones, mollusc shells, plant remains, ceramics, lithic and bone tools, and ornaments made from gastropod shells, bird bones, tortoise shells, and ostrich eggshells."
+      },
+      {
+        "title": "When Hunters Became Herders",
+        "body": "The caves' most significant contribution to North African prehistory lies in what they reveal about the transition from hunting and gathering to herding and cultivation -- the process archaeologists call Neolithisation. The introduction of domesticated sheep and goats at Gueldaman dates to the 6th and 7th millennia before present. Zooarchaeological analysis of the macro-mammal remains shows a shift in how livestock herds were managed: from pure meat production to a diversified economy that also exploited secondary products like milk and hides. Some of the artifacts found in the caves suggest long-distance trade networks, connecting this mountain cave to communities far beyond the Soummam valley. Gueldaman may be the key to understanding how the entire region transitioned between these two fundamentally different ways of living."
+      },
+      {
+        "title": "The Drought That Emptied the Caves",
+        "body": "In 2015, an international consortium of geologic and meteorological institutes published a study that examined a prolonged drought in the Mediterranean and northern Africa approximately 4,200 years ago. The evidence from Gueldaman supported a striking hypothesis: this climate anomaly may have played a decisive role in disrupting local cultures and driving the abandonment of the cave settlements. The 4.2-kiloyear event, as climatologists call it, coincided with the collapse of several civilizations around the Mediterranean basin. At Gueldaman, the evidence is particularly direct -- after thousands of years of occupation, the deposits simply stop. People who had lived in these caves since the Paleolithic, who had learned to domesticate animals and trade across distances, walked away. The water deity's mountain ran dry."
+      },
+      {
+        "title": "What Remains to Be Found",
+        "body": "Caves GLD2 and GLD3 were investigated for the first time between 2010 and 2012, yielding indices of human occupation similar to those in GLD1. Excavations in Sector 2 and Sector 3 progressed slowly due to the firmness of the deposits and clay floors, and bedrock was not reached. The site's potential remains largely unrealized -- a common frustration in North African archaeology, where funding and institutional support often lag behind the scale of what the ground contains. Because Holocene-era cultures are poorly understood in this region, Gueldaman could be the Rosetta Stone for an entire chapter of human development. The ridge named for a water god holds answers that have waited 4,200 years for someone to dig deep enough to find them."
+      }
+    ],
+    "flightContext": "Located at 36.45N, 4.55E on a karst ridge near Akbou in Bejaia Province, Algeria, in the western Babor Mountains of the Tell Atlas range. The ridge extends over 7 km at altitudes between 556-898 meters. Best viewed at 3,000-5,000 feet AGL from the Soummam valley. Nearest airport: DAAE (Bejaia - Soummam Airport), approximately 40 km northeast. The cave entrances face southeast on the ridge's flank."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 36.45,
+      "lng": 4.55
+    },
+    "geohash": "sn7pr"
+  },
+  "categories": [
+    "archaeological-sites",
+    "caves",
+    "algeria"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-13T00:00:00Z",
+    "wordCount": 750,
+    "readTime": 4,
+    "firstPublished": "2026-03-13T00:00:00Z",
+    "storyNumber": 8498
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Gueldaman caves - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gueldaman_caves",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "17,000+ years of human occupation verified (radiocarbon to 17,031 cal BP)",
+        "GLD1 cave 80 meters long verified",
+        "CNRPAH excavations resumed 2010 verified",
+        "Ridge extends over 7 km verified",
+        "Six caves on southeastern face verified"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Evidence of prolonged drought ca. 4200 yr BP - ADS",
+      "url": "https://ui.adsabs.harvard.edu/abs/2016CliPa..12....1R/abstract",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "4.2-kiloyear event correlated with prehistoric settlement abandonment at Gueldaman verified",
+        "Study published linking drought event to cave abandonment verified"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "s/n/7/p/gueldaman-caves-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "rusguniae-ruins-wp",
+      "title": "Rusguniae",
+      "tile": "snd3",
+      "coordinates": {
+        "lat": 36.799094,
+        "lng": 3.237893
+      },
+      "distanceKm": 56.5
+    },
+    "n": {
+      "id": "shipwreck-of-dellys-wp",
+      "title": "Shipwreck of Dellys",
+      "tile": "sndf",
+      "coordinates": {
+        "lat": 36.915789,
+        "lng": 3.9146904
+      },
+      "distanceKm": 47
+    },
+    "ne": {
+      "id": "gouraya-national-park-wp",
+      "title": "Gouraya National Park",
+      "tile": "sne9",
+      "coordinates": {
+        "lat": 36.7667,
+        "lng": 5.1
+      },
+      "distanceKm": 16.2
+    },
+    "w": {
+      "id": "battle-of-the-col-des-beni-aicha-wp",
+      "title": "Battle of the Col des Beni Aicha",
+      "tile": "snd8",
+      "coordinates": {
+        "lat": 36.7347991,
+        "lng": 3.5795697
+      },
+      "distanceKm": 38.7
+    },
+    "e": {
+      "id": "ahmed-bey-palace-wp",
+      "title": "Ahmed Bey Palace",
+      "tile": "snkw",
+      "coordinates": {
+        "lat": 36.367654,
+        "lng": 6.611195
+      },
+      "distanceKm": 151.6
+    },
+    "sw": {
+      "id": "theniet-el-had-national-park-wp",
+      "title": "Theniet El Had National Park",
+      "tile": "sn37",
+      "coordinates": {
+        "lat": 35.85369444444444,
+        "lng": 1.9683055555555558
+      },
+      "distanceKm": 175.3
+    },
+    "s": {
+      "id": "qal-at-bani-hammad-wp",
+      "title": "Qal'at Bani Hammad",
+      "tile": "sn77",
+      "coordinates": {
+        "lat": 35.813888888889,
+        "lng": 4.7933333333333
+      },
+      "distanceKm": 56.9
+    },
+    "se": {
+      "id": "fortified-granaries-of-aures-wp",
+      "title": "Fortified Granaries of Aures",
+      "tile": "snhr",
+      "coordinates": {
+        "lat": 35.09027777777778,
+        "lng": 6.031
+      },
+      "distanceKm": 159.9
+    }
+  }
+}

@@ -25,8 +25,8 @@
     "sourceType": "core",
     "sourceArticleId": "igbo-landing-wp",
     "sourceGeohash4": "djw1",
-    "mediumPath": "_m/d/j/w/1/igbo-landing-wp/hero-medium.jpg",
-    "smallPath": "_m/d/j/w/1/igbo-landing-wp/hero-small.jpg"
+    "mediumPath": "_m/d/j/w/1/igbo-landing-wp/hero-medium.webp",
+    "smallPath": "_m/d/j/w/1/igbo-landing-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Igbo Landing area, Glynn County, Georgia, US.jpg",
@@ -83,7 +83,7 @@
       "sourceType": "core",
       "sourceArticleId": "igbo-landing-wp",
       "sourceGeohash4": "djw1",
-      "smallPath": "_m/d/j/w/1/igbo-landing-wp/picture-three-igbo-wom-small.png"
+      "smallPath": "_m/d/j/w/1/igbo-landing-wp/picture-three-igbo-wom-small.webp"
     },
     {
       "filename": "Gullah basket.JPG",
@@ -109,7 +109,8 @@
       "sourceType": "core",
       "sourceArticleId": "igbo-landing-wp",
       "sourceGeohash4": "djw1",
-      "smallPath": "_m/d/j/w/1/igbo-landing-wp/straw-basket-made-gull-small.jpg"
+      "smallPath": "_m/d/j/w/1/igbo-landing-wp/straw-basket-made-gull-small.webp",
+      "mediumPath": "_m/d/j/w/1/igbo-landing-wp/straw-basket-made-gull-medium.webp"
     },
     {
       "filename": "Moonlight on Dunbar River, Glynn Haven, St. Simons Island, Georgia (8343882906).jpg",
@@ -139,7 +140,7 @@
       "sourceType": "core",
       "sourceArticleId": "igbo-landing-wp",
       "sourceGeohash4": "djw1",
-      "smallPath": "_m/d/j/w/1/igbo-landing-wp/file-name-06_10_013235-small.jpg"
+      "smallPath": "_m/d/j/w/1/igbo-landing-wp/file-name-06_10_013235-small.webp"
     },
     {
       "filename": "Ibo or Igbo Landing historical marker, St. Simons, GA, US.jpg",
@@ -166,7 +167,8 @@
       "sourceType": "core",
       "sourceArticleId": "igbo-landing-wp",
       "sourceGeohash4": "djw1",
-      "smallPath": "_m/d/j/w/1/igbo-landing-wp/historical-marker-igbo-small.jpg"
+      "smallPath": "_m/d/j/w/1/igbo-landing-wp/historical-marker-igbo-small.webp",
+      "mediumPath": "_m/d/j/w/1/igbo-landing-wp/historical-marker-igbo-medium.webp"
     },
     {
       "filename": "Incendie de la Plaine du Cap. Massacre des Blancs par les esclaves noirs révoltés. France militaire. Martinet et Masson.jpg",
@@ -194,7 +196,7 @@
       "sourceType": "core",
       "sourceArticleId": "igbo-landing-wp",
       "sourceGeohash4": "djw1",
-      "smallPath": "_m/d/j/w/1/igbo-landing-wp/burning-plaine-du-cap-small.jpg"
+      "smallPath": "_m/d/j/w/1/igbo-landing-wp/burning-plaine-du-cap-small.webp"
     }
   ],
   "galleryPaths": [
@@ -204,7 +206,6 @@
     "_m/d/j/w/1/igbo-landing-wp/historical-marker-igbo.jpg",
     "_m/d/j/w/1/igbo-landing-wp/burning-plaine-du-cap.jpg"
   ],
-  "fetchedAt": "2026-02-22T10:01:05.842Z",
   "narration": {
     "files": [
       "djw1-igbo-landing-flight-context.mp3",
@@ -224,7 +225,6 @@
       "djw1-igbo-landing-the-unquiet-ground.mp3": 69.3593333,
       "djw1-igbo-landing-what-the-water-remembers.mp3": 53.0220416
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-24T05:42:55.595Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

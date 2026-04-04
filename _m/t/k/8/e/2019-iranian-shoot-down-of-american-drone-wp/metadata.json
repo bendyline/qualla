@@ -25,7 +25,7 @@
     "sourceType": "core",
     "sourceArticleId": "2019-iranian-shoot-down-of-american-drone-wp",
     "sourceGeohash4": "tk8e",
-    "smallPath": "_m/t/k/8/e/2019-iranian-shoot-down-of-american-drone-wp/hero-small.jpg"
+    "smallPath": "_m/t/k/8/e/2019-iranian-shoot-down-of-american-drone-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Disputing about location of shooting down a RQ-9 drone.jpg",
@@ -55,7 +55,6 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T10:24:52.542Z",
   "videos": [
     {
       "path": "_m/t/k/8/e/2019-iranian-shoot-down-of-american-drone-wp/u-s-navy-rq-4-smoke.mp4",
@@ -83,5 +82,26 @@
       }
     }
   ],
-  "updatedAt": "2026-03-01T10:25:10.100Z"
+  "updatedAt": "2026-03-01T10:25:10.100Z",
+  "narration": {
+    "files": [
+      "tk8e-2019-iranian-shoot-down-of-american-drone-flight-context.mp3",
+      "tk8e-2019-iranian-shoot-down-of-american-drone-intro.mp3",
+      "tk8e-2019-iranian-shoot-down-of-american-drone-contested-airspace.mp3",
+      "tk8e-2019-iranian-shoot-down-of-american-drone-ten-minutes-from-war.mp3",
+      "tk8e-2019-iranian-shoot-down-of-american-drone-cyber-retaliation.mp3",
+      "tk8e-2019-iranian-shoot-down-of-american-drone-sanctions-and-signals.mp3",
+      "tk8e-2019-iranian-shoot-down-of-american-drone-the-strait-remembers.mp3"
+    ],
+    "durations": {
+      "tk8e-2019-iranian-shoot-down-of-american-drone-flight-context.mp3": 43.1795,
+      "tk8e-2019-iranian-shoot-down-of-american-drone-intro.mp3": 48.9442916,
+      "tk8e-2019-iranian-shoot-down-of-american-drone-contested-airspace.mp3": 50.0812083,
+      "tk8e-2019-iranian-shoot-down-of-american-drone-ten-minutes-from-war.mp3": 53.4322916,
+      "tk8e-2019-iranian-shoot-down-of-american-drone-cyber-retaliation.mp3": 55.917375,
+      "tk8e-2019-iranian-shoot-down-of-american-drone-sanctions-and-signals.mp3": 54.5027916,
+      "tk8e-2019-iranian-shoot-down-of-american-drone-the-strait-remembers.mp3": 53.3800833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -24,8 +24,8 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-little-robe-creek-wp",
     "sourceGeohash4": "9y2u",
-    "smallPath": "_m/9/y/2/u/battle-of-little-robe-creek-wp/hero-small.jpg",
-    "mediumPath": "_m/9/y/2/u/battle-of-little-robe-creek-wp/hero-medium.jpg"
+    "smallPath": "_m/9/y/2/u/battle-of-little-robe-creek-wp/hero-small.webp",
+    "mediumPath": "_m/9/y/2/u/battle-of-little-robe-creek-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "View of the Antelope Hills battlefield.jpg",
@@ -82,7 +82,7 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-little-robe-creek-wp",
       "sourceGeohash4": "9y2u",
-      "smallPath": "_m/9/y/2/u/battle-of-little-robe-creek-wp/map-showing-approximat-small.jpg"
+      "smallPath": "_m/9/y/2/u/battle-of-little-robe-creek-wp/map-showing-approximat-small.webp"
     },
     {
       "filename": "Comanchebraves.jpg",
@@ -111,14 +111,13 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-little-robe-creek-wp",
       "sourceGeohash4": "9y2u",
-      "smallPath": "_m/9/y/2/u/battle-of-little-robe-creek-wp/comanche-warriors-circ-small.jpg"
+      "smallPath": "_m/9/y/2/u/battle-of-little-robe-creek-wp/comanche-warriors-circ-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/y/2/u/battle-of-little-robe-creek-wp/map-showing-approximat.jpg",
     "_m/9/y/2/u/battle-of-little-robe-creek-wp/comanche-warriors-circ.jpg"
   ],
-  "fetchedAt": "2026-02-22T00:49:44.995Z",
   "narration": {
     "files": [
       "9y2u-battle-of-little-robe-creek-flight-context.mp3",
@@ -136,7 +135,6 @@
       "9y2u-battle-of-little-robe-creek-three-fights-in-one-day.mp3": 55.3525,
       "9y2u-battle-of-little-robe-creek-scorched-earth-on-the-canadian.mp3": 60.2070833
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T22:17:50.807Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

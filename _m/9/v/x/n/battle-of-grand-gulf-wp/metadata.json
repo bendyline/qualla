@@ -27,8 +27,8 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-grand-gulf-wp",
     "sourceGeohash4": "9vxn",
-    "smallPath": "_m/9/v/x/n/battle-of-grand-gulf-wp/hero-small.jpg",
-    "mediumPath": "_m/9/v/x/n/battle-of-grand-gulf-wp/hero-medium.jpg"
+    "smallPath": "_m/9/v/x/n/battle-of-grand-gulf-wp/hero-small.webp",
+    "mediumPath": "_m/9/v/x/n/battle-of-grand-gulf-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Fort Cobun 2023.jpg",
@@ -89,7 +89,7 @@
       "sourceType": "core",
       "sourceArticleId": "battle-of-grand-gulf-wp",
       "sourceGeohash4": "9vxn",
-      "smallPath": "_m/9/v/x/n/battle-of-grand-gulf-wp/union-gunboats-bombard-small.jpg"
+      "smallPath": "_m/9/v/x/n/battle-of-grand-gulf-wp/union-gunboats-bombard-small.webp"
     },
     {
       "filename": "Grand Gulf Battlefield Mississippi.jpg",
@@ -111,14 +111,14 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-grand-gulf-wp",
-      "sourceGeohash4": "9vxn"
+      "sourceGeohash4": "9vxn",
+      "smallPath": "_m/9/v/x/n/battle-of-grand-gulf-wp/grand-gulf-battlefield-mississ-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/v/x/n/battle-of-grand-gulf-wp/union-gunboats-bombard.jpg",
     "_m/9/v/x/n/battle-of-grand-gulf-wp/grand-gulf-battlefield-mississ.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:26:22.722Z",
   "narration": {
     "files": [
       "9vxn-battle-of-grand-gulf-flight-context.mp3",
@@ -138,8 +138,7 @@
       "9vxn-battle-of-grand-gulf-the-road-to-vicksburg.mp3": 52.3810833,
       "9vxn-battle-of-grand-gulf-echoes-along-the-river.mp3": 48.7450833
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T12:35:55.307Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T23:26:23.245Z"
 }

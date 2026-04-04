@@ -159,37 +159,38 @@
       "distanceKm": 19.7
     },
     "sw": {
-      "id": "paris-wk",
-      "title": "Paris",
-      "tile": "u09t",
+      "id": "courrieres-mine-disaster-wp",
+      "title": "Courrieres Mine Disaster",
+      "tile": "u0fn",
       "coordinates": {
-        "lat": 48.856,
-        "lng": 2.351
+        "lat": 50.41556,
+        "lng": 2.89778
       },
-      "distanceKm": 196
+      "distanceKm": 43.9
     },
     "s": {
-      "id": "notre-dame-wk",
-      "title": "Notre-Dame: The Cathedral That Burned and Rose Again",
-      "tile": "u09t",
+      "id": "marcinelle-mining-disaster-wp",
+      "title": "Marcinelle Mining Disaster",
+      "tile": "u0gn",
       "coordinates": {
-        "lat": 48.853,
-        "lng": 2.3499
+        "lat": 50.380556,
+        "lng": 4.442778
       },
-      "distanceKm": 215.3
+      "distanceKm": 29.3
     },
     "se": {
-      "id": "alsace-wk",
-      "title": "Alsace",
-      "tile": "u0t7",
+      "id": "fort-jeanne-d-arc-wp",
+      "title": "Fort Jeanne d'Arc",
+      "tile": "u0sr",
       "coordinates": {
-        "lat": 48.5,
-        "lng": 7.5
+        "lat": 49.1168,
+        "lng": 6.06701
       },
-      "distanceKm": 302.9
+      "distanceKm": 183
     }
   },
   "keywords": [
     "battle-of-steenkerque"
-  ]
+  ],
+  "locationWikipediaPath": "u/1/4/b/battle-of-steenkerque-wp"
 }

@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/4/q/u/j/torres-del-paine-national-park-wk/4quj-torres-del-paine-national-park-intro.mp3",
-        "_m/4/q/u/j/torres-del-paine-national-park-wk/4quj-torres-del-paine-national-park-at-the-edge-of-the-world.mp3",
         "_m/4/q/u/j/torres-del-paine-national-park-wk/4quj-torres-del-paine-national-park-flight-context.mp3",
-        "_m/4/q/u/j/torres-del-paine-national-park-wk/4quj-torres-del-paine-national-park-ice-and-water.mp3",
-        "_m/4/q/u/j/torres-del-paine-national-park-wk/4quj-torres-del-paine-national-park-the-trekking-life.mp3",
+        "_m/4/q/u/j/torres-del-paine-national-park-wk/4quj-torres-del-paine-national-park-intro.mp3",
         "_m/4/q/u/j/torres-del-paine-national-park-wk/4quj-torres-del-paine-national-park-towers-and-horns.mp3",
-        "_m/4/q/u/j/torres-del-paine-national-park-wk/4quj-torres-del-paine-national-park-wild-patagonia.mp3"
+        "_m/4/q/u/j/torres-del-paine-national-park-wk/4quj-torres-del-paine-national-park-ice-and-water.mp3",
+        "_m/4/q/u/j/torres-del-paine-national-park-wk/4quj-torres-del-paine-national-park-wild-patagonia.mp3",
+        "_m/4/q/u/j/torres-del-paine-national-park-wk/4quj-torres-del-paine-national-park-the-trekking-life.mp3",
+        "_m/4/q/u/j/torres-del-paine-national-park-wk/4quj-torres-del-paine-national-park-at-the-edge-of-the-world.mp3"
       ],
       "hero": {
         "path": "_m/4/q/u/j/torres-del-paine-national-park-wp/cuernos-del-paine-in-torres-de.jpg",
@@ -25,7 +25,9 @@
         "sourceType": "sibling",
         "sourceArticleId": "torres-del-paine-national-park-wp",
         "sourceGeohash4": "4quj",
-        "accessedAt": "2026-02-21T20:06:09.004Z"
+        "accessedAt": "2026-02-21T20:06:09.004Z",
+        "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/hero-medium.webp",
+        "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/hero-small.webp"
       },
       "images": [
         {
@@ -52,7 +54,7 @@
             "Seracs in Chile",
             "Taken with Canon EOS 20D"
           ],
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/glaciar-grey-torres-de-small.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/glaciar-grey-torres-de-small.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/torres-del-paine-lake.jpg",
@@ -78,8 +80,8 @@
             "Photographs by Miguel Vieira",
             "Self-published work"
           ],
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/torres-del-paine-lake-small.jpg",
-          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/torres-del-paine-lake-medium.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/torres-del-paine-lake-small.webp",
+          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/torres-del-paine-lake-medium.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/valle-del-frances-parq.jpg",
@@ -103,7 +105,7 @@
             "Information field template with formatting",
             "Taken with Nikon D70s"
           ],
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/valle-del-frances-parq-small.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/valle-del-frances-parq-small.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/lago-sarmiento-chile.jpg",
@@ -126,7 +128,7 @@
             "Sarmiento Lake",
             "Taken with Canon PowerShot SX100 IS"
           ],
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/lago-sarmiento-chile-small.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/lago-sarmiento-chile-small.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/torres-del-paine-natio.jpg",
@@ -155,8 +157,8 @@
             "Taken with Canon EOS 5D Mark II",
             "Tents in Chile"
           ],
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/torres-del-paine-natio-small.jpg",
-          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/torres-del-paine-natio-medium.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/torres-del-paine-natio-small.webp",
+          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/torres-del-paine-natio-medium.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/acercamiento-catamaran.jpg",
@@ -177,8 +179,8 @@
             "CC-BY-SA-3.0",
             "Calving glaciers"
           ],
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/acercamiento-catamaran-small.jpg",
-          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/acercamiento-catamaran-medium.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/acercamiento-catamaran-small.webp",
+          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/acercamiento-catamaran-medium.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/torres-del-paine-massi.jpg",
@@ -213,8 +215,8 @@
           "sourceArticleId": "torres-del-paine-national-park-wk",
           "sourceGeohash4": "4quj",
           "accessedAt": "2026-02-21T20:06:09.004Z",
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/torres-del-paine-natio-1-small.jpg",
-          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/torres-del-paine-natio-1-medium.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/torres-del-paine-natio-1-small.webp",
+          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/torres-del-paine-natio-1-medium.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/bandera-magallanes-6929076793.jpg",
@@ -242,8 +244,8 @@
             "Photographs of the national flag of Chile in Última Esperanza Province",
             "Torres del Paine National Park"
           ],
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/bandera-magallanes-6929076793-small.jpg",
-          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/bandera-magallanes-6929076793-medium.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/bandera-magallanes-6929076793-small.webp",
+          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/bandera-magallanes-6929076793-medium.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/cerro-aleta-de-tiburon-trono-b.jpg",
@@ -266,8 +268,8 @@
             "Self-published work",
             "Torres del Paine National Park"
           ],
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/cerro-aleta-de-tiburon-trono-b-small.jpg",
-          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/cerro-aleta-de-tiburon-trono-b-medium.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/cerro-aleta-de-tiburon-trono-b-small.webp",
+          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/cerro-aleta-de-tiburon-trono-b-medium.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/bajo-la-lluvia-en-la-cordiller.jpg",
@@ -292,8 +294,8 @@
             "Self-published work",
             "Torres del Paine National Park"
           ],
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/bajo-la-lluvia-en-la-cordiller-small.jpg",
-          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/bajo-la-lluvia-en-la-cordiller-medium.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/bajo-la-lluvia-en-la-cordiller-small.webp",
+          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/bajo-la-lluvia-en-la-cordiller-medium.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/calm-waters-207795051.jpg",
@@ -317,7 +319,7 @@
             "Torres del Paine National Park",
             "Water reflections in Chile"
           ],
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/calm-waters-207795051-small.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/calm-waters-207795051-small.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/atardecer-en-coiron.jpg",
@@ -343,8 +345,8 @@
             "Torres del Paine National Park",
             "Uploaded via Campaign:wle-cl"
           ],
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/atardecer-en-coiron-small.jpg",
-          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/atardecer-en-coiron-medium.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/atardecer-en-coiron-small.webp",
+          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/atardecer-en-coiron-medium.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/cam-ping.jpg",
@@ -371,8 +373,8 @@
             "Torres del Paine National Park",
             "Uploaded via Campaign:wle-cl"
           ],
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/cam-ping-small.jpg",
-          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/cam-ping-medium.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/cam-ping-small.webp",
+          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/cam-ping-medium.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/area-camping.jpg",
@@ -399,8 +401,8 @@
             "Torres del Paine National Park",
             "Uploaded via Campaign:wle-cl"
           ],
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/area-camping-small.jpg",
-          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/area-camping-medium.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/area-camping-small.webp",
+          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/area-camping-medium.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/autumn-in-parque-nacional-torr.jpg",
@@ -422,8 +424,8 @@
             "Images from Wiki Loves Earth 2019",
             "Images from Wiki Loves Earth 2019 in Chile"
           ],
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/autumn-in-parque-nacional-torr-small.jpg",
-          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/autumn-in-parque-nacional-torr-medium.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/autumn-in-parque-nacional-torr-small.webp",
+          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/autumn-in-parque-nacional-torr-medium.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/best-hotel-view-in-the-world-f.jpg",
@@ -440,7 +442,7 @@
           "sourceArticleId": "torres-del-paine-national-park-wk",
           "sourceGeohash4": "4quj",
           "accessedAt": "2026-02-21T20:06:09.004Z",
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/best-hotel-view-in-the-world-f-small.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/best-hotel-view-in-the-world-f-small.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/base-las-torres-23615678820.jpg",
@@ -457,8 +459,8 @@
           "sourceArticleId": "torres-del-paine-national-park-wk",
           "sourceGeohash4": "4quj",
           "accessedAt": "2026-02-21T20:06:09.004Z",
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/base-las-torres-23615678820-small.jpg",
-          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/base-las-torres-23615678820-medium.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/base-las-torres-23615678820-small.webp",
+          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/base-las-torres-23615678820-medium.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-21.jpg",
@@ -475,8 +477,8 @@
           "sourceArticleId": "torres-del-paine-national-park-wk",
           "sourceGeohash4": "4quj",
           "accessedAt": "2026-02-21T20:06:09.004Z",
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-21-small.jpg",
-          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-21-medium.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-21-small.webp",
+          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-21-medium.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-22.jpg",
@@ -493,8 +495,8 @@
           "sourceArticleId": "torres-del-paine-national-park-wk",
           "sourceGeohash4": "4quj",
           "accessedAt": "2026-02-21T20:06:09.004Z",
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-22-small.jpg",
-          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-22-medium.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-22-small.webp",
+          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-22-medium.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-24.jpg",
@@ -511,8 +513,8 @@
           "sourceArticleId": "torres-del-paine-national-park-wk",
           "sourceGeohash4": "4quj",
           "accessedAt": "2026-02-21T20:06:09.004Z",
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-24-small.jpg",
-          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-24-medium.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-24-small.webp",
+          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-24-medium.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-26.jpg",
@@ -529,8 +531,8 @@
           "sourceArticleId": "torres-del-paine-national-park-wk",
           "sourceGeohash4": "4quj",
           "accessedAt": "2026-02-21T20:06:09.004Z",
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-26-small.jpg",
-          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-26-medium.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-26-small.webp",
+          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-26-medium.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-25.jpg",
@@ -547,8 +549,8 @@
           "sourceArticleId": "torres-del-paine-national-park-wk",
           "sourceGeohash4": "4quj",
           "accessedAt": "2026-02-21T20:06:09.004Z",
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-25-small.jpg",
-          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-25-medium.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-25-small.webp",
+          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-25-medium.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-28.jpg",
@@ -565,8 +567,8 @@
           "sourceArticleId": "torres-del-paine-national-park-wk",
           "sourceGeohash4": "4quj",
           "accessedAt": "2026-02-21T20:06:09.004Z",
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-28-small.jpg",
-          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-28-medium.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-28-small.webp",
+          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-28-medium.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-31.jpg",
@@ -583,8 +585,8 @@
           "sourceArticleId": "torres-del-paine-national-park-wk",
           "sourceGeohash4": "4quj",
           "accessedAt": "2026-02-21T20:06:09.004Z",
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-31-small.jpg",
-          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-31-medium.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-31-small.webp",
+          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-31-medium.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-29.jpg",
@@ -601,8 +603,8 @@
           "sourceArticleId": "torres-del-paine-national-park-wk",
           "sourceGeohash4": "4quj",
           "accessedAt": "2026-02-21T20:06:09.004Z",
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-29-small.jpg",
-          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-29-medium.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-29-small.webp",
+          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-29-medium.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-33.jpg",
@@ -619,8 +621,8 @@
           "sourceArticleId": "torres-del-paine-national-park-wk",
           "sourceGeohash4": "4quj",
           "accessedAt": "2026-02-21T20:06:09.004Z",
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-33-small.jpg",
-          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-33-medium.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-33-small.webp",
+          "mediumPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-33-medium.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-35.jpg",
@@ -637,7 +639,7 @@
           "sourceArticleId": "torres-del-paine-national-park-wk",
           "sourceGeohash4": "4quj",
           "accessedAt": "2026-02-21T20:06:09.004Z",
-          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-35-small.jpg"
+          "smallPath": "_m/4/q/u/j/torres-del-paine-national-park-wk/1983-12-patagonien-35-small.webp"
         },
         {
           "path": "_m/4/q/u/j/torres-del-paine-national-park-wp/calceolaria-uniflora.jpg",
@@ -1153,7 +1155,8 @@
           "sourceGeohash4": "4quj",
           "accessedAt": "2026-02-21T20:06:09.004Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/4/q/u/j/torres-del-paine-national-park-wk/4quj-torres-del-paine-national-park-combined.mp3"
     }
   }
 }

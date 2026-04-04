@@ -92,24 +92,24 @@
       "distanceKm": 353.5
     },
     "w": {
-      "id": "alsace-wk",
-      "title": "Alsace",
-      "tile": "u0t7",
+      "id": "marmoutier-abbey-alsace-wp",
+      "title": "Marmoutier Abbey",
+      "tile": "u0th",
       "coordinates": {
-        "lat": 48.5,
-        "lng": 7.5
+        "lat": 48.69067629718705,
+        "lng": 7.382379239377898
       },
-      "distanceKm": 128.9
+      "distanceKm": 116.9
     },
     "e": {
-      "id": "hallstatt-wk",
-      "title": "Hallstatt",
-      "tile": "u23w",
+      "id": "innsbruck-wk",
+      "title": "Innsbruck",
+      "tile": "u22h",
       "coordinates": {
-        "lat": 47.5622,
-        "lng": 13.6493
+        "lat": 47.268333333333,
+        "lng": 11.393333333333
       },
-      "distanceKm": 373.2
+      "distanceKm": 283.4
     },
     "sw": {
       "id": "dancing-plague-wk",
@@ -122,24 +122,24 @@
       "distanceKm": 86.9
     },
     "s": {
-      "id": "zurich-wk",
-      "title": "Zurich",
-      "tile": "u0qj",
+      "id": "alsace-wk",
+      "title": "Alsace",
+      "tile": "u0t7",
       "coordinates": {
-        "lat": 47.3769,
-        "lng": 8.5417
+        "lat": 48.5,
+        "lng": 7.5
       },
-      "distanceKm": 207.2
+      "distanceKm": 133.7
     },
     "se": {
-      "id": "salzburg-wk",
-      "title": "Salzburg",
-      "tile": "u23r",
+      "id": "hofburg-innsbruck-wp",
+      "title": "Hofburg, Innsbruck",
+      "tile": "u22h",
       "coordinates": {
-        "lat": 47.8095,
-        "lng": 13.055
+        "lat": 47.2689,
+        "lng": 11.3944
       },
-      "distanceKm": 305.6
+      "distanceKm": 258.5
     }
   }
 }

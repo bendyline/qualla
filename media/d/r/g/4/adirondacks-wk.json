@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/d/r/g/4/adirondacks-wk/drg4-adirondacks-intro.mp3",
         "_m/d/r/g/4/adirondacks-wk/drg4-adirondacks-flight-context.mp3",
-        "_m/d/r/g/4/adirondacks-wk/drg4-adirondacks-forever-wild.mp3",
-        "_m/d/r/g/4/adirondacks-wk/drg4-adirondacks-the-forty-sixers.mp3",
+        "_m/d/r/g/4/adirondacks-wk/drg4-adirondacks-intro.mp3",
         "_m/d/r/g/4/adirondacks-wk/drg4-adirondacks-the-great-camps.mp3",
         "_m/d/r/g/4/adirondacks-wk/drg4-adirondacks-the-miracle-of-lake-placid.mp3",
-        "_m/d/r/g/4/adirondacks-wk/drg4-adirondacks-the-water-and-the-wild.mp3"
+        "_m/d/r/g/4/adirondacks-wk/drg4-adirondacks-the-forty-sixers.mp3",
+        "_m/d/r/g/4/adirondacks-wk/drg4-adirondacks-the-water-and-the-wild.mp3",
+        "_m/d/r/g/4/adirondacks-wk/drg4-adirondacks-forever-wild.mp3"
       ],
       "hero": {
         "path": "_m/tpc/ad/ir/on/da/adirondacks/lake-tear-of-the-clouds.png",
@@ -25,7 +25,9 @@
         "sourceType": "sibling",
         "sourceArticleId": "adirondacks",
         "sourceGeohash4": "tpc/ad/ir/on/da",
-        "accessedAt": "2026-02-22T12:30:41.190Z"
+        "accessedAt": "2026-02-22T12:30:41.190Z",
+        "mediumPath": "_m/d/r/g/4/adirondacks-wk/hero-medium.webp",
+        "smallPath": "_m/d/r/g/4/adirondacks-wk/hero-small.webp"
       },
       "images": [
         {
@@ -52,7 +54,7 @@
             "Whiteface Mountain",
             "Wilmington, New York"
           ],
-          "smallPath": "_m/d/r/g/4/adirondacks-wk/whiteface-mountain-ski-small.jpg"
+          "smallPath": "_m/d/r/g/4/adirondacks-wk/whiteface-mountain-ski-small.webp"
         },
         {
           "path": "_m/d/r/g/4/adirondacks-wk/waterfall-keene-valley.jpg",
@@ -78,7 +80,7 @@
             "Self-published work",
             "Waterfalls in New York (state)"
           ],
-          "smallPath": "_m/d/r/g/4/adirondacks-wk/waterfall-keene-valley-small.jpg"
+          "smallPath": "_m/d/r/g/4/adirondacks-wk/waterfall-keene-valley-small.webp"
         },
         {
           "path": "_m/d/r/g/4/adirondacks-wk/mckenzie-mountain-left.jpg",
@@ -119,8 +121,8 @@
             "Water reflections of mountains in New York (state)",
             "Water reflections of trees in New York (state)"
           ],
-          "smallPath": "_m/d/r/g/4/adirondacks-wk/mckenzie-mountain-left-small.jpg",
-          "mediumPath": "_m/d/r/g/4/adirondacks-wk/mckenzie-mountain-left-medium.jpg"
+          "smallPath": "_m/d/r/g/4/adirondacks-wk/mckenzie-mountain-left-small.webp",
+          "mediumPath": "_m/d/r/g/4/adirondacks-wk/mckenzie-mountain-left-medium.webp"
         },
         {
           "path": "_m/d/r/g/4/adirondacks-wk/jay-bridge-jay-ny.jpg",
@@ -145,8 +147,8 @@
             "Self-published work",
             "Taken with Canon PowerShot S5 IS"
           ],
-          "smallPath": "_m/d/r/g/4/adirondacks-wk/jay-bridge-jay-ny-small.jpg",
-          "mediumPath": "_m/d/r/g/4/adirondacks-wk/jay-bridge-jay-ny-medium.jpg"
+          "smallPath": "_m/d/r/g/4/adirondacks-wk/jay-bridge-jay-ny-small.webp",
+          "mediumPath": "_m/d/r/g/4/adirondacks-wk/jay-bridge-jay-ny-medium.webp"
         },
         {
           "path": "_m/d/r/g/4/adirondacks-wk/town-chester-municipal.jpg",
@@ -171,8 +173,8 @@
             "Taken with Canon Digital IXUS 400",
             "Town halls in New York (state)"
           ],
-          "smallPath": "_m/d/r/g/4/adirondacks-wk/town-chester-municipal-small.jpg",
-          "mediumPath": "_m/d/r/g/4/adirondacks-wk/town-chester-municipal-medium.jpg"
+          "smallPath": "_m/d/r/g/4/adirondacks-wk/town-chester-municipal-small.webp",
+          "mediumPath": "_m/d/r/g/4/adirondacks-wk/town-chester-municipal-medium.webp"
         },
         {
           "path": "_m/d/r/g/4/adirondacks-wk/mount-marcy-adirondack.jpg",
@@ -193,7 +195,7 @@
             "Mount Marcy",
             "PD-user"
           ],
-          "smallPath": "_m/d/r/g/4/adirondacks-wk/mount-marcy-adirondack-small.jpg"
+          "smallPath": "_m/d/r/g/4/adirondacks-wk/mount-marcy-adirondack-small.webp"
         },
         {
           "path": "_m/d/r/g/4/adirondacks-wk/hand-house-elizabethto.jpg",
@@ -210,8 +212,8 @@
           "sourceArticleId": "adirondacks-wk",
           "sourceGeohash4": "drg4",
           "accessedAt": "2026-02-22T12:30:41.190Z",
-          "smallPath": "_m/d/r/g/4/adirondacks-wk/hand-house-elizabethto-small.jpg",
-          "mediumPath": "_m/d/r/g/4/adirondacks-wk/hand-house-elizabethto-medium.jpg"
+          "smallPath": "_m/d/r/g/4/adirondacks-wk/hand-house-elizabethto-small.webp",
+          "mediumPath": "_m/d/r/g/4/adirondacks-wk/hand-house-elizabethto-medium.webp"
         },
         {
           "path": "_m/d/r/g/4/adirondacks-wk/ruins-barracks-fort-cr.jpg",
@@ -228,8 +230,8 @@
           "sourceArticleId": "adirondacks-wk",
           "sourceGeohash4": "drg4",
           "accessedAt": "2026-02-22T12:30:41.190Z",
-          "smallPath": "_m/d/r/g/4/adirondacks-wk/ruins-barracks-fort-cr-small.jpg",
-          "mediumPath": "_m/d/r/g/4/adirondacks-wk/ruins-barracks-fort-cr-medium.jpg"
+          "smallPath": "_m/d/r/g/4/adirondacks-wk/ruins-barracks-fort-cr-small.webp",
+          "mediumPath": "_m/d/r/g/4/adirondacks-wk/ruins-barracks-fort-cr-medium.webp"
         },
         {
           "path": "_m/d/r/g/4/adirondacks-wk/view-north-along-us-9.jpg",
@@ -246,8 +248,8 @@
           "sourceArticleId": "adirondacks-wk",
           "sourceGeohash4": "drg4",
           "accessedAt": "2026-02-22T12:30:41.190Z",
-          "smallPath": "_m/d/r/g/4/adirondacks-wk/view-north-along-us-9-small.jpg",
-          "mediumPath": "_m/d/r/g/4/adirondacks-wk/view-north-along-us-9-medium.jpg"
+          "smallPath": "_m/d/r/g/4/adirondacks-wk/view-north-along-us-9-small.webp",
+          "mediumPath": "_m/d/r/g/4/adirondacks-wk/view-north-along-us-9-medium.webp"
         },
         {
           "path": "_m/d/r/g/4/adirondacks-wk/national-lead-industri.jpg",
@@ -264,7 +266,7 @@
           "sourceArticleId": "adirondacks-wk",
           "sourceGeohash4": "drg4",
           "accessedAt": "2026-02-22T12:30:41.190Z",
-          "smallPath": "_m/d/r/g/4/adirondacks-wk/national-lead-industri-small.jpg"
+          "smallPath": "_m/d/r/g/4/adirondacks-wk/national-lead-industri-small.webp"
         },
         {
           "path": "_m/d/r/g/4/adirondacks-wk/typical-tourist-type-s.jpg",
@@ -280,8 +282,8 @@
           "sourceArticleId": "adirondacks-wk",
           "sourceGeohash4": "drg4",
           "accessedAt": "2026-02-22T12:30:41.190Z",
-          "smallPath": "_m/d/r/g/4/adirondacks-wk/typical-tourist-type-s-small.jpg",
-          "mediumPath": "_m/d/r/g/4/adirondacks-wk/typical-tourist-type-s-medium.jpg"
+          "smallPath": "_m/d/r/g/4/adirondacks-wk/typical-tourist-type-s-small.webp",
+          "mediumPath": "_m/d/r/g/4/adirondacks-wk/typical-tourist-type-s-medium.webp"
         },
         {
           "path": "_m/d/r/g/4/adirondacks-wk/hudson-river-near-newc.jpg",
@@ -298,7 +300,7 @@
           "sourceArticleId": "adirondacks-wk",
           "sourceGeohash4": "drg4",
           "accessedAt": "2026-02-22T12:30:41.190Z",
-          "smallPath": "_m/d/r/g/4/adirondacks-wk/hudson-river-near-newc-small.jpg"
+          "smallPath": "_m/d/r/g/4/adirondacks-wk/hudson-river-near-newc-small.webp"
         },
         {
           "path": "_m/d/r/g/4/adirondacks-wk/whiteface-mountain-see.jpg",
@@ -315,8 +317,8 @@
           "sourceArticleId": "adirondacks-wk",
           "sourceGeohash4": "drg4",
           "accessedAt": "2026-02-22T12:30:41.190Z",
-          "smallPath": "_m/d/r/g/4/adirondacks-wk/whiteface-mountain-see-small.jpg",
-          "mediumPath": "_m/d/r/g/4/adirondacks-wk/whiteface-mountain-see-medium.jpg"
+          "smallPath": "_m/d/r/g/4/adirondacks-wk/whiteface-mountain-see-small.webp",
+          "mediumPath": "_m/d/r/g/4/adirondacks-wk/whiteface-mountain-see-medium.webp"
         },
         {
           "path": "_m/d/r/g/4/adirondacks-wk/octagonal-schoolhouse.jpg",
@@ -333,8 +335,8 @@
           "sourceArticleId": "adirondacks-wk",
           "sourceGeohash4": "drg4",
           "accessedAt": "2026-02-22T12:30:41.190Z",
-          "smallPath": "_m/d/r/g/4/adirondacks-wk/octagonal-schoolhouse-small.jpg",
-          "mediumPath": "_m/d/r/g/4/adirondacks-wk/octagonal-schoolhouse-medium.jpg"
+          "smallPath": "_m/d/r/g/4/adirondacks-wk/octagonal-schoolhouse-small.webp",
+          "mediumPath": "_m/d/r/g/4/adirondacks-wk/octagonal-schoolhouse-medium.webp"
         },
         {
           "path": "_m/d/r/g/4/adirondacks-wk/giant-s-washbasin-gian.jpg",
@@ -351,8 +353,8 @@
           "sourceArticleId": "adirondacks-wk",
           "sourceGeohash4": "drg4",
           "accessedAt": "2026-02-22T12:30:41.190Z",
-          "smallPath": "_m/d/r/g/4/adirondacks-wk/giant-s-washbasin-gian-small.jpg",
-          "mediumPath": "_m/d/r/g/4/adirondacks-wk/giant-s-washbasin-gian-medium.jpg"
+          "smallPath": "_m/d/r/g/4/adirondacks-wk/giant-s-washbasin-gian-small.webp",
+          "mediumPath": "_m/d/r/g/4/adirondacks-wk/giant-s-washbasin-gian-medium.webp"
         },
         {
           "path": "_m/d/r/g/4/adirondacks-wk/lake-george-looking-no.jpg",
@@ -369,8 +371,8 @@
           "sourceArticleId": "adirondacks-wk",
           "sourceGeohash4": "drg4",
           "accessedAt": "2026-02-22T12:30:41.190Z",
-          "smallPath": "_m/d/r/g/4/adirondacks-wk/lake-george-looking-no-small.jpg",
-          "mediumPath": "_m/d/r/g/4/adirondacks-wk/lake-george-looking-no-medium.jpg"
+          "smallPath": "_m/d/r/g/4/adirondacks-wk/lake-george-looking-no-small.webp",
+          "mediumPath": "_m/d/r/g/4/adirondacks-wk/lake-george-looking-no-medium.webp"
         },
         {
           "path": "_m/d/r/g/4/adirondacks-wk/southeastern-high-peak.jpg",
@@ -387,8 +389,8 @@
           "sourceArticleId": "adirondacks-wk",
           "sourceGeohash4": "drg4",
           "accessedAt": "2026-02-22T12:30:41.190Z",
-          "smallPath": "_m/d/r/g/4/adirondacks-wk/southeastern-high-peak-small.jpg",
-          "mediumPath": "_m/d/r/g/4/adirondacks-wk/southeastern-high-peak-medium.jpg"
+          "smallPath": "_m/d/r/g/4/adirondacks-wk/southeastern-high-peak-small.webp",
+          "mediumPath": "_m/d/r/g/4/adirondacks-wk/southeastern-high-peak-medium.webp"
         },
         {
           "path": "_m/d/r/g/4/adirondacks-wk/travel-map-adirondack.png",
@@ -405,8 +407,8 @@
           "sourceArticleId": "adirondacks-wk",
           "sourceGeohash4": "drg4",
           "accessedAt": "2026-02-22T12:30:41.190Z",
-          "smallPath": "_m/d/r/g/4/adirondacks-wk/travel-map-adirondack-small.png",
-          "mediumPath": "_m/d/r/g/4/adirondacks-wk/travel-map-adirondack-medium.png"
+          "smallPath": "_m/d/r/g/4/adirondacks-wk/travel-map-adirondack-small.webp",
+          "mediumPath": "_m/d/r/g/4/adirondacks-wk/travel-map-adirondack-medium.webp"
         },
         {
           "path": "_m/d/r/g/4/adirondacks-wk/typical-adirondack-cha.jpg",
@@ -423,8 +425,8 @@
           "sourceArticleId": "adirondacks-wk",
           "sourceGeohash4": "drg4",
           "accessedAt": "2026-02-22T12:30:41.190Z",
-          "smallPath": "_m/d/r/g/4/adirondacks-wk/typical-adirondack-cha-small.jpg",
-          "mediumPath": "_m/d/r/g/4/adirondacks-wk/typical-adirondack-cha-medium.jpg"
+          "smallPath": "_m/d/r/g/4/adirondacks-wk/typical-adirondack-cha-small.webp",
+          "mediumPath": "_m/d/r/g/4/adirondacks-wk/typical-adirondack-cha-medium.webp"
         },
         {
           "path": "_m/d/r/g/4/adirondacks-wk/typical-adirondack-cha-1.jpg",
@@ -441,8 +443,8 @@
           "sourceArticleId": "adirondacks-wk",
           "sourceGeohash4": "drg4",
           "accessedAt": "2026-02-22T12:30:41.190Z",
-          "smallPath": "_m/d/r/g/4/adirondacks-wk/typical-adirondack-cha-1-small.jpg",
-          "mediumPath": "_m/d/r/g/4/adirondacks-wk/typical-adirondack-cha-1-medium.jpg"
+          "smallPath": "_m/d/r/g/4/adirondacks-wk/typical-adirondack-cha-1-small.webp",
+          "mediumPath": "_m/d/r/g/4/adirondacks-wk/typical-adirondack-cha-1-medium.webp"
         },
         {
           "path": "_m/tpc/ad/ir/on/da/adirondacks/lake-placid-mirror-lake.jpg",
@@ -720,7 +722,8 @@
             "Visitor attractions in New York (state)"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/d/r/g/4/adirondacks-wk/drg4-adirondacks-combined.mp3"
     }
   }
 }

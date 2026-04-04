@@ -18,8 +18,8 @@
     "sourceType": "core",
     "sourceArticleId": "fred-jones-jr-museum-of-art-wp",
     "sourceGeohash4": "9y68",
-    "smallPath": "_m/9/y/6/8/fred-jones-jr-museum-of-art-wp/hero-small.jpg",
-    "mediumPath": "_m/9/y/6/8/fred-jones-jr-museum-of-art-wp/hero-medium.jpg"
+    "smallPath": "_m/9/y/6/8/fred-jones-jr-museum-of-art-wp/hero-small.webp",
+    "mediumPath": "_m/9/y/6/8/fred-jones-jr-museum-of-art-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "University of Oklahoma July 2019 78 (Fred Jones Jr. Museum of Art).jpg",
@@ -81,7 +81,7 @@
       "sourceType": "core",
       "sourceArticleId": "fred-jones-jr-museum-of-art-wp",
       "sourceGeohash4": "9y68",
-      "smallPath": "_m/9/y/6/8/fred-jones-jr-museum-of-art-wp/one-pissarro-s-first-p-small.jpg"
+      "smallPath": "_m/9/y/6/8/fred-jones-jr-museum-of-art-wp/one-pissarro-s-first-p-small.webp"
     },
     {
       "filename": "Fred jones museum.jpg",
@@ -101,7 +101,7 @@
       "sourceType": "core",
       "sourceArticleId": "fred-jones-jr-museum-of-art-wp",
       "sourceGeohash4": "9y68",
-      "smallPath": "_m/9/y/6/8/fred-jones-jr-museum-of-art-wp/fred-jones-jr-museum-a-small.jpg"
+      "smallPath": "_m/9/y/6/8/fred-jones-jr-museum-of-art-wp/fred-jones-jr-museum-a-small.webp"
     },
     {
       "filename": "University of Oklahoma July 2019 95 (Fred Jones Jr. Museum of Art).jpg",
@@ -121,8 +121,8 @@
       "sourceType": "core",
       "sourceArticleId": "fred-jones-jr-museum-of-art-wp",
       "sourceGeohash4": "9y68",
-      "smallPath": "_m/9/y/6/8/fred-jones-jr-museum-of-art-wp/fred-jones-jr-museum-a-1-small.jpg",
-      "mediumPath": "_m/9/y/6/8/fred-jones-jr-museum-of-art-wp/fred-jones-jr-museum-a-1-medium.jpg"
+      "smallPath": "_m/9/y/6/8/fred-jones-jr-museum-of-art-wp/fred-jones-jr-museum-a-1-small.webp",
+      "mediumPath": "_m/9/y/6/8/fred-jones-jr-museum-of-art-wp/fred-jones-jr-museum-a-1-medium.webp"
     },
     {
       "filename": "FredJonesMuseumofArt.jpg",
@@ -144,7 +144,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fred-jones-jr-museum-of-art-wp",
-      "sourceGeohash4": "9y68"
+      "sourceGeohash4": "9y68",
+      "mediumPath": "_m/9/y/6/8/fred-jones-jr-museum-of-art-wp/fredjonesmuseumofart-medium.webp",
+      "smallPath": "_m/9/y/6/8/fred-jones-jr-museum-of-art-wp/fredjonesmuseumofart-small.webp"
     },
     {
       "filename": "Apie begay.jpg",
@@ -160,7 +162,8 @@
       "dateCreated": "2012-11-26 04:50:17",
       "sourceType": "commons-category",
       "sourceArticleId": "fred-jones-jr-museum-of-art-wp",
-      "sourceGeohash4": "9y68"
+      "sourceGeohash4": "9y68",
+      "smallPath": "_m/9/y/6/8/fred-jones-jr-museum-of-art-wp/apie-begay-small.webp"
     },
     {
       "filename": "University of Oklahoma July 2019 94 (Fred Jones Jr. Museum of Art).jpg",
@@ -177,7 +180,9 @@
       "dateCreated": "2019-07-27",
       "sourceType": "commons-category",
       "sourceArticleId": "fred-jones-jr-museum-of-art-wp",
-      "sourceGeohash4": "9y68"
+      "sourceGeohash4": "9y68",
+      "mediumPath": "_m/9/y/6/8/fred-jones-jr-museum-of-art-wp/university-of-oklahoma-july-20-medium.webp",
+      "smallPath": "_m/9/y/6/8/fred-jones-jr-museum-of-art-wp/university-of-oklahoma-july-20-small.webp"
     }
   ],
   "galleryPaths": [
@@ -188,7 +193,6 @@
     "_m/9/y/6/8/fred-jones-jr-museum-of-art-wp/apie-begay.jpg",
     "_m/9/y/6/8/fred-jones-jr-museum-of-art-wp/university-of-oklahoma-july-20.jpg"
   ],
-  "fetchedAt": "2026-02-22T00:51:02.821Z",
   "narration": {
     "files": [
       "9y68-fred-jones-jr-museum-of-art-flight-context.mp3",
@@ -206,8 +210,7 @@
       "9y68-fred-jones-jr-museum-of-art-the-pissarro-saga.mp3": 69.923375,
       "9y68-fred-jones-jr-museum-of-art-where-the-great-plains-meet-great-art.mp3": 75.3608333
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T22:39:42.517Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T00:51:06.287Z"
 }

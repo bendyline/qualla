@@ -89,54 +89,54 @@
   "locationWikivoyagePath": "u/c/f/v/moscow-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "st-petersburg-wk",
-      "title": "St. Petersburg",
-      "tile": "udts",
+      "id": "tchaikovsky-state-house-museum-wp",
+      "title": "Tchaikovsky State House-Museum",
+      "tile": "uf40",
       "coordinates": {
-        "lat": 59.9343,
-        "lng": 30.3351
+        "lat": 56.32923,
+        "lng": 36.74718
       },
-      "distanceKm": 577.8
+      "distanceKm": 30.2
     },
     "n": {
-      "id": "riga-wk",
-      "title": "Riga",
-      "tile": "ud15",
+      "id": "perimilovsky-heights-wp",
+      "title": "Perimilovsky Heights",
+      "tile": "uf48",
       "coordinates": {
-        "lat": 56.9496,
-        "lng": 24.1052
+        "lat": 56.2977,
+        "lng": 37.501
       },
-      "distanceKm": 822.7
+      "distanceKm": 25.1
     },
     "ne": {
-      "id": "dyatlov-pass-wk",
-      "title": "The Dyatlov Pass Incident: Nine Hikers, One Frozen Mystery",
-      "tile": "v6fr",
+      "id": "trinity-lavra-of-st-sergius-wp",
+      "title": "Trinity Lavra of St. Sergius",
+      "tile": "uf50",
       "coordinates": {
-        "lat": 61.764,
-        "lng": 59.46
+        "lat": 56.31035,
+        "lng": 38.13065
       },
-      "distanceKm": 1377.6
+      "distanceKm": 28.1
     },
     "w": {
-      "id": "pripyat-abandoned-wk",
-      "title": "Pripyat: The City That Died Overnight",
-      "tile": "u9jk",
+      "id": "principality-of-tver-wp",
+      "title": "Principality of Tver",
+      "tile": "uf1s",
       "coordinates": {
-        "lat": 51.4045,
-        "lng": 30.0542
+        "lat": 57,
+        "lng": 36
       },
-      "distanceKm": 666.4
+      "distanceKm": 143.7
     },
     "e": {
-      "id": "chelyabinsk-meteor-wk",
-      "title": "The Chelyabinsk Meteor: The Fireball That Shattered a City",
-      "tile": "v3g9",
+      "id": "alexandrov-kremlin-wp",
+      "title": "Alexandrov Kremlin",
+      "tile": "uf58",
       "coordinates": {
-        "lat": 55.1644,
-        "lng": 61.4368
+        "lat": 56.400555555555556,
+        "lng": 38.74027777777778
       },
-      "distanceKm": 1473.2
+      "distanceKm": 81.2
     },
     "sw": {
       "id": "chernobyl-elephant-foot-wk",
@@ -149,14 +149,14 @@
       "distanceKm": 645.3
     },
     "s": {
-      "id": "vilnius-wk",
-      "title": "Vilnius",
-      "tile": "u99z",
+      "id": "pripyat-abandoned-wk",
+      "title": "Pripyat: The City That Died Overnight",
+      "tile": "u9jk",
       "coordinates": {
-        "lat": 54.6872,
-        "lng": 25.2797
+        "lat": 51.4045,
+        "lng": 30.0542
       },
-      "distanceKm": 778.3
+      "distanceKm": 671
     },
     "se": {
       "id": "abkhazia-wk",

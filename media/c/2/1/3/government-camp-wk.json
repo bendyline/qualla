@@ -3,12 +3,12 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/c/2/1/3/government-camp-wk/c213-government-camp-intro.mp3",
-        "_m/c/2/1/3/government-camp-wk/c213-government-camp-alpine-village-life.mp3",
         "_m/c/2/1/3/government-camp-wk/c213-government-camp-flight-context.mp3",
+        "_m/c/2/1/3/government-camp-wk/c213-government-camp-intro.mp3",
+        "_m/c/2/1/3/government-camp-wk/c213-government-camp-year-round-skiing.mp3",
         "_m/c/2/1/3/government-camp-wk/c213-government-camp-oregon-trail-terminus.mp3",
-        "_m/c/2/1/3/government-camp-wk/c213-government-camp-the-mountain-above.mp3",
-        "_m/c/2/1/3/government-camp-wk/c213-government-camp-year-round-skiing.mp3"
+        "_m/c/2/1/3/government-camp-wk/c213-government-camp-alpine-village-life.mp3",
+        "_m/c/2/1/3/government-camp-wk/c213-government-camp-the-mountain-above.mp3"
       ],
       "hero": {
         "path": "_m/tpc/go/ve/rn/me/government-camp/government-camp-or-post-office.jpg",
@@ -32,7 +32,9 @@
           "Government Camp, Oregon",
           "October 2009 in Oregon",
           "Post offices in Oregon"
-        ]
+        ],
+        "mediumPath": "_m/c/2/1/3/government-camp-wk/hero-medium.webp",
+        "smallPath": "_m/c/2/1/3/government-camp-wk/hero-small.webp"
       },
       "images": [
         {
@@ -91,7 +93,8 @@
           "mediumPath": "_m/c/2/1/3/government-camp-wk/hero-medium.jpg",
           "smallPath": "_m/c/2/1/3/government-camp-wk/hero-small.jpg"
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/1/3/government-camp-wk/c213-government-camp-combined.mp3"
     }
   }
 }

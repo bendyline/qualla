@@ -1,0 +1,168 @@
+{
+  "id": "pan-am-flight-845-wp",
+  "source": "wikipedia",
+  "sourceId": "2563521",
+  "title": "Pan Am Flight 845",
+  "slug": "pan-am-flight-845",
+  "summary": "A 1971 Boeing 747 takeoff accident at San Francisco International Airport caused by a cascade of miscommunications, wrong runway assignments, and uncorrected speed calculations that sent the aircraft plowing through approach lights at the end of the runway.",
+  "content": {
+    "intro": "The first officer called rotate at 160 knots because the end of the runway was, in his words, \"coming up at a very rapid speed.\" He was not wrong. On July 30, 1971, Pan Am Flight 845, a Boeing 747 named Clipper America, was attempting to take off from San Francisco International Airport on a runway roughly a thousand feet shorter than its crew believed. What followed was a collision with approach lighting structures, a crippled aircraft circling the Pacific while dumping fuel, and an emergency evacuation that injured more people than the crash itself. Everyone survived. The NTSB investigation would reveal not a single dramatic failure but a chain of small, correctable errors, each one survivable on its own, that together nearly destroyed an aircraft carrying 218 people.",
+    "sections": [
+      {
+        "title": "The Wrong Runway",
+        "body": "Flight 845 was a scheduled service from Los Angeles to Tokyo with a stop at San Francisco. The crew had planned their takeoff for runway 28L, calculating speeds and performance data accordingly. After pushback, they learned that 28L had been closed hours earlier for maintenance. The preferential runway, 01R, also had its first 1,000 feet closed. After consulting with Pan Am dispatchers and the control tower, the crew opted for 01R with a displaced threshold, giving them about 8,500 feet of usable runway. But somewhere in the relay of information, a critical number changed. The crew was told they had 9,500 feet available, a thousand feet more than reality. The error passed through multiple hands, from airport operations to dispatch to the cockpit, and no one caught it."
+      },
+      {
+        "title": "A Compounding Miscalculation",
+        "body": "Faced with a shorter runway and less favorable wind conditions, the crew made what seemed like a reasonable adjustment: they increased the flap setting from 10 degrees to 20. More flap means more lift at lower speeds, which should help on a shorter runway. But the crew did not recalculate their takeoff reference speeds for the new configuration. The V1, Vr, and V2 speeds still in their calculations were based on 10 degrees of flap, meaning the aircraft needed to accelerate to unnecessarily high speeds before rotating. The takeoff roll stretched longer and longer. Later analysis showed that even with the shorter runway, the 747 could have lifted off safely if the correct speeds had been used. The accident was not about an impossible situation but about layers of human error that made a manageable one dangerous."
+      },
+      {
+        "title": "Through the Lights",
+        "body": "At 3:29 PM Pacific time, Clipper America ran out of runway. The 747 struck the approach lighting system structures beyond the pavement, massive steel frameworks designed to guide pilots on landing. Lengths of angle iron punched through the fuselage. A passenger in seat 47G suffered a near-amputation of the left leg below the knee. Another in seat 48G received severe lacerations and crushing injuries to the left upper arm. The crew did not abort. With the aircraft already committed to flight, they continued the takeoff, climbed over the Pacific, and circled for nearly an hour, dumping fuel to reduce landing weight. The body gear, the main landing gear assembly, had been ripped off or disabled during the collision. No one aboard knew what that would mean when they landed."
+      },
+      {
+        "title": "The Tilt",
+        "body": "When Clipper America returned to SFO and rolled to a stop, something happened that no Boeing engineer had anticipated. Without the support of its body gear, the 747 slowly tilted backward, its nose rising into the air as the aircraft settled onto its tail. Until that moment, no one knew a 747 would do that. The evacuation order was given, but it was accidentally broadcast over the radio rather than the cabin address system. A flight crew member, exiting the cockpit and seeing passengers still seated, initiated the evacuation personally. The four forward emergency slides were now dangerously high due to the nose-up attitude, and high winds made them worse. Eight passengers who used those slides suffered serious back injuries requiring hospitalization. In total, 27 people were injured during the evacuation, far more than in the initial impact."
+      },
+      {
+        "title": "What the NTSB Found",
+        "body": "The investigation report, issued May 24, 1972, did not identify a single reckless act. Instead, it described a systemic breakdown: failures in how airport information was collected and shared, how Pan Am dispatched its flights, and how the crew managed its cockpit procedures. Each error was small. Together, they dismantled the safety systems that should have caught any one of them. The aircraft itself survived. Registered as N747PA, Clipper America was repaired and returned to service, leased to Air Zaire for two years, then brought back to Pan Am and renamed Clipper Sea Lark and later Clipper Juan T. Trippe, after the airline's founder. The plane flew for decades more before finally being scrapped. The runway at SFO was eventually lengthened, and industry procedures for communicating runway changes were tightened, lessons extracted from an afternoon when a thousand missing feet nearly cost 218 lives."
+      }
+    ],
+    "flightContext": "Pan Am Flight 845 occurred at San Francisco International Airport (KSFO), though the article's geolocation places it at 16.311N, 61.768W in the Guadeloupe region. The accident site on runway 01R at SFO is at approximately 37.615N, 122.390W. At KSFO, the approach lighting structures that the aircraft struck would have been located just beyond the departure end of runway 01R. The distinctive crossed runways of SFO are clearly visible from altitude, with San Francisco Bay to the east and the Peninsula hills to the west."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 16.311,
+      "lng": -61.768
+    },
+    "geohash": "dduhf"
+  },
+  "categories": [
+    "Pan Am accidents and incidents",
+    "Aviation accidents and incidents in the United States in 1971",
+    "Airliner accidents and incidents caused by pilot error",
+    "Airliner accidents and incidents in California",
+    "History of San Mateo County, California",
+    "1971 in California",
+    "July 1971 in the United States",
+    "San Francisco International Airport",
+    "Accidents and incidents involving the Boeing 747"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-11T00:00:00Z",
+    "wordCount": 845,
+    "readTime": 4,
+    "firstPublished": "2026-03-11T00:00:00Z",
+    "storyNumber": 7871
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - Pan Am Flight 845",
+      "url": "https://en.wikipedia.org/wiki/Pan_Am_Flight_845",
+      "accessedAt": "2026-03-11",
+      "claimsVerified": [
+        "July 30 1971 date",
+        "Boeing 747 N747PA Clipper America",
+        "Runway 28L closed, used 01R with displaced threshold",
+        "8500 feet available but crew told 9500",
+        "Flap setting changed from 10 to 20 without recalculating speeds",
+        "218 passengers and crew, no fatalities",
+        "Passengers in seats 47G and 48G injured by angle iron",
+        "Aircraft tilted backward on its tail",
+        "Evacuation order broadcast over radio instead of cabin PA",
+        "8 passengers suffered serious back injuries from forward slides",
+        "NTSB report issued May 24 1972",
+        "Aircraft leased to Air Zaire, renamed Clipper Juan T. Trippe"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "battle-of-saint-kitts-wp",
+      "title": "Battle of Saint Kitts",
+      "tile": "de53",
+      "coordinates": {
+        "lat": 17.15,
+        "lng": -62.58333333
+      },
+      "distanceKm": 79.3
+    },
+    "n": {
+      "id": "w-h-bramble-airport-wp",
+      "title": "W. H. Bramble Airport",
+      "tile": "ddgz",
+      "coordinates": {
+        "lat": 16.758889,
+        "lng": -62.156389
+      },
+      "distanceKm": 55.3
+    },
+    "ne": {
+      "id": "titanic-sinking-wk",
+      "title": "The Sinking of the Titanic: The Unsinkable Ship That Sank",
+      "tile": "dzkm",
+      "coordinates": {
+        "lat": 41.726,
+        "lng": -49.948
+      },
+      "distanceKm": 3000.6
+    },
+    "w": {
+      "id": "nevis-wk",
+      "title": "Nevis",
+      "tile": "de53",
+      "coordinates": {
+        "lat": 17.15,
+        "lng": -62.583333333333
+      },
+      "distanceKm": 106
+    },
+    "e": {
+      "id": "la-desirade-wp",
+      "title": "La Desirade",
+      "tile": "ddus",
+      "coordinates": {
+        "lat": 16.316666666667,
+        "lng": -61.05
+      },
+      "distanceKm": 14.5
+    },
+    "sw": {
+      "id": "isla-de-aves-wp",
+      "title": "Isla de Aves",
+      "tile": "ddfc",
+      "coordinates": {
+        "lat": 15.6686,
+        "lng": -63.6181
+      },
+      "distanceKm": 153.3
+    },
+    "s": {
+      "id": "les-saintes-wk",
+      "title": "Les Saintes",
+      "tile": "ddu4",
+      "coordinates": {
+        "lat": 15.8586,
+        "lng": -61.6007
+      },
+      "distanceKm": 18.6
+    },
+    "se": {
+      "id": "1902-eruption-of-mount-pelee-wp",
+      "title": "The 1902 Eruption of Mount Pelee: The Morning Saint-Pierre Vanished",
+      "tile": "ddss",
+      "coordinates": {
+        "lat": 14.8075,
+        "lng": -61.1675
+      },
+      "distanceKm": 132.2
+    }
+  },
+  "locationWikipediaPath": "d/d/u/h/pan-am-flight-845-wp"
+}

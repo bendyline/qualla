@@ -28,7 +28,7 @@
     "sourceType": "core",
     "sourceArticleId": "lake-edward-sanatorium-wp",
     "sourceGeohash4": "f2kx",
-    "smallPath": "_m/f/2/k/x/lake-edward-sanatorium-wp/hero-small.jpg"
+    "smallPath": "_m/f/2/k/x/lake-edward-sanatorium-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Sanatorium du lac Édouard (période de 1918 à 1925).jpg",
@@ -89,12 +89,30 @@
       "sourceType": "core",
       "sourceArticleId": "lake-edward-sanatorium-wp",
       "sourceGeohash4": "f2kx",
-      "mediumPath": "_m/f/2/k/x/lake-edward-sanatorium-wp/postcard-sold-sanatori-medium.jpg",
-      "smallPath": "_m/f/2/k/x/lake-edward-sanatorium-wp/postcard-sold-sanatori-small.jpg"
+      "mediumPath": "_m/f/2/k/x/lake-edward-sanatorium-wp/postcard-sold-sanatori-medium.webp",
+      "smallPath": "_m/f/2/k/x/lake-edward-sanatorium-wp/postcard-sold-sanatori-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/f/2/k/x/lake-edward-sanatorium-wp/postcard-sold-sanatori.jpg"
   ],
-  "fetchedAt": "2026-02-28T14:21:35.817Z"
+  "narration": {
+    "files": [
+      "f2kx-lake-edward-sanatorium-flight-context.mp3",
+      "f2kx-lake-edward-sanatorium-intro.mp3",
+      "f2kx-lake-edward-sanatorium-rails-into-the-wilderness.mp3",
+      "f2kx-lake-edward-sanatorium-a-hospital-at-the-end-of-the-line.mp3",
+      "f2kx-lake-edward-sanatorium-self-sufficient-and-snowbound.mp3",
+      "f2kx-lake-edward-sanatorium-the-cure-arrives-the-purpose-departs.mp3"
+    ],
+    "durations": {
+      "f2kx-lake-edward-sanatorium-flight-context.mp3": 71.359875,
+      "f2kx-lake-edward-sanatorium-intro.mp3": 58.2457916,
+      "f2kx-lake-edward-sanatorium-rails-into-the-wilderness.mp3": 64.8237083,
+      "f2kx-lake-edward-sanatorium-a-hospital-at-the-end-of-the-line.mp3": 67.9651666,
+      "f2kx-lake-edward-sanatorium-self-sufficient-and-snowbound.mp3": 73.3707083,
+      "f2kx-lake-edward-sanatorium-the-cure-arrives-the-purpose-departs.mp3": 66.216375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

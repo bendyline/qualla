@@ -121,36 +121,16 @@
       "distanceKm": 152.6
     },
     "n": {
-      "id": "tambora-wk",
-      "title": "The Eruption of Tambora: The Year Without a Summer",
-      "tile": "qwec",
+      "id": "ngukurr-wp",
+      "title": "Ngukurr",
+      "tile": "qvru",
       "coordinates": {
-        "lat": -8.25,
-        "lng": 118
+        "lat": -14.73,
+        "lng": 134.731
       },
-      "distanceKm": 3501.7
+      "distanceKm": 1542.6
     },
     "ne": {
-      "id": "attu-island-forgotten-battle-wk",
-      "title": "Attu Island: America's Forgotten Arctic Battle",
-      "tile": "zc7h",
-      "coordinates": {
-        "lat": 52.85,
-        "lng": 173.18
-      },
-      "distanceKm": 8319.2
-    },
-    "w": {
-      "id": "melbourne-wk",
-      "title": "Melbourne",
-      "tile": "r1r0",
-      "coordinates": {
-        "lat": -37.813611,
-        "lng": 144.963056
-      },
-      "distanceKm": 2085.4
-    },
-    "e": {
       "id": "fiji-wk",
       "title": "Fiji",
       "tile": "ruy9",
@@ -158,27 +138,47 @@
         "lat": -18,
         "lng": 178
       },
-      "distanceKm": 3048.9
+      "distanceKm": 3050.1
+    },
+    "w": {
+      "id": "tennant-creek-wk",
+      "title": "Tennant Creek",
+      "tile": "qux2",
+      "coordinates": {
+        "lat": -19.647222222222222,
+        "lng": 134.19027777777777
+      },
+      "distanceKm": 1449.1
+    },
+    "e": {
+      "id": "ss-elingamite-wp",
+      "title": "SS Elingamite: Gold, Fog, and a Captain Wrongly Blamed",
+      "tile": "rcfm",
+      "coordinates": {
+        "lat": -34.186047,
+        "lng": 172.03159
+      },
+      "distanceKm": 2810.2
     },
     "sw": {
-      "id": "uluru-wk",
-      "title": "Uluru: The Rock That Reaches 2.5km Underground",
-      "tile": "qgmp",
+      "id": "wycliffe-well-wk",
+      "title": "Wycliffe Well",
+      "tile": "qur3",
       "coordinates": {
-        "lat": -25.3444,
-        "lng": 131.0369
+        "lat": -20.795305555555554,
+        "lng": 134.23663888888888
       },
-      "distanceKm": 1859.1
+      "distanceKm": 1444.1
     },
     "s": {
-      "id": "adelaide-wk",
-      "title": "Adelaide",
-      "tile": "r1f9",
+      "id": "tennant-creek-wp",
+      "title": "Tennant Creek",
+      "tile": "qux2",
       "coordinates": {
-        "lat": -34.9267,
-        "lng": 138.5991
+        "lat": -19.647222222222222,
+        "lng": 134.19027777777777
       },
-      "distanceKm": 1972.9
+      "distanceKm": 1502.5
     },
     "se": {
       "id": "sydney-wk",

@@ -110,26 +110,6 @@
       "distanceKm": 771.9
     },
     "w": {
-      "id": "antalya-wk",
-      "title": "Antalya",
-      "tile": "swtc",
-      "coordinates": {
-        "lat": 36.8969,
-        "lng": 30.7133
-      },
-      "distanceKm": 363.7
-    },
-    "e": {
-      "id": "gobekli-tepe-wk",
-      "title": "Göbekli Tepe: The Temple Built Before Agriculture",
-      "tile": "syee",
-      "coordinates": {
-        "lat": 37.2233,
-        "lng": 38.9224
-      },
-      "distanceKm": 272.7
-    },
-    "sw": {
       "id": "varosha-wk",
       "title": "Varosha: The Ghost Resort of Cyprus",
       "tile": "sy0p",
@@ -137,27 +117,47 @@
         "lat": 35.1178,
         "lng": 33.9522
       },
-      "distanceKm": 195.9
+      "distanceKm": 223.1
+    },
+    "e": {
+      "id": "siege-of-antioch-wp",
+      "title": "Siege of Antioch",
+      "tile": "sy3t",
+      "coordinates": {
+        "lat": 36.202222,
+        "lng": 36.161389
+      },
+      "distanceKm": 92.9
+    },
+    "sw": {
+      "id": "battle-of-salamis-306-bc-wp",
+      "title": "Battle of Salamis (306 BC)",
+      "tile": "sy20",
+      "coordinates": {
+        "lat": 35.166667,
+        "lng": 33.916667
+      },
+      "distanceKm": 192.2
     },
     "s": {
-      "id": "beirut-wk",
-      "title": "Beirut",
-      "tile": "sy12",
+      "id": "church-of-saint-simeon-stylites-wp",
+      "title": "Church of Saint Simeon Stylites",
+      "tile": "sy6n",
       "coordinates": {
-        "lat": 33.886944444444,
-        "lng": 35.513055555556
+        "lat": 36.334166666667,
+        "lng": 36.844166666667
       },
-      "distanceKm": 317.5
+      "distanceKm": 142.4
     },
     "se": {
-      "id": "amman-wk",
-      "title": "Amman",
-      "tile": "sv9t",
+      "id": "siege-of-antioch-1268-wp",
+      "title": "Siege of Antioch (1268)",
+      "tile": "sy3t",
       "coordinates": {
-        "lat": 31.9454,
-        "lng": 35.9284
+        "lat": 36.2,
+        "lng": 36.15
       },
-      "distanceKm": 533
+      "distanceKm": 65.3
     }
   },
   "keywords": [

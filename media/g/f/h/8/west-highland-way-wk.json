@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/g/f/h/8/west-highland-way-wk/gfh8-west-highland-way-intro.mp3",
         "_m/g/f/h/8/west-highland-way-wk/gfh8-west-highland-way-flight-context.mp3",
-        "_m/g/f/h/8/west-highland-way-wk/gfh8-west-highland-way-sair-feet-and-midges.mp3",
-        "_m/g/f/h/8/west-highland-way-wk/gfh8-west-highland-way-the-bonnie-banks.mp3",
-        "_m/g/f/h/8/west-highland-way-wk/gfh8-west-highland-way-the-devils-staircase.mp3",
+        "_m/g/f/h/8/west-highland-way-wk/gfh8-west-highland-way-intro.mp3",
         "_m/g/f/h/8/west-highland-way-wk/gfh8-west-highland-way-the-gentle-beginning.mp3",
-        "_m/g/f/h/8/west-highland-way-wk/gfh8-west-highland-way-the-military-road.mp3"
+        "_m/g/f/h/8/west-highland-way-wk/gfh8-west-highland-way-the-bonnie-banks.mp3",
+        "_m/g/f/h/8/west-highland-way-wk/gfh8-west-highland-way-the-military-road.mp3",
+        "_m/g/f/h/8/west-highland-way-wk/gfh8-west-highland-way-the-devils-staircase.mp3",
+        "_m/g/f/h/8/west-highland-way-wk/gfh8-west-highland-way-sair-feet-and-midges.mp3"
       ],
       "hero": {
         "path": "_m/tpc/we/st/-h/ig/west-highland-way/west-highland-way-2005-coe.jpg",
@@ -36,7 +36,9 @@
           "Meall a' Bhùiridh",
           "Self-published work",
           "West Highland Way"
-        ]
+        ],
+        "mediumPath": "_m/g/f/h/8/west-highland-way-wk/hero-medium.webp",
+        "smallPath": "_m/g/f/h/8/west-highland-way-wk/hero-small.webp"
       },
       "images": [
         {
@@ -63,7 +65,7 @@
             "Self-published work",
             "Taken with Canon Digital IXUS 400"
           ],
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/church-crianlarich-sco-small.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/church-crianlarich-sco-small.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/hillside-view-kinlochl.jpg",
@@ -90,8 +92,8 @@
             "Self-published work",
             "Taken with Sony DSC-T10"
           ],
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/hillside-view-kinlochl-small.jpg",
-          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/hillside-view-kinlochl-medium.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/hillside-view-kinlochl-small.webp",
+          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/hillside-view-kinlochl-medium.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/pic-buachaille-etive-m.jpg",
@@ -108,7 +110,7 @@
           "sourceArticleId": "west-highland-way-wk",
           "sourceGeohash4": "gfh8",
           "accessedAt": "2026-02-22T13:04:42.688Z",
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/pic-buachaille-etive-m-small.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/pic-buachaille-etive-m-small.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/main-street-balmaha.jpg",
@@ -125,7 +127,7 @@
           "sourceArticleId": "west-highland-way-wk",
           "sourceGeohash4": "gfh8",
           "accessedAt": "2026-02-22T13:04:42.688Z",
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/main-street-balmaha-small.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/main-street-balmaha-small.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/doune-byre-bothy.jpg",
@@ -142,8 +144,8 @@
           "sourceArticleId": "west-highland-way-wk",
           "sourceGeohash4": "gfh8",
           "accessedAt": "2026-02-22T13:04:42.688Z",
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/doune-byre-bothy-small.jpg",
-          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/doune-byre-bothy-medium.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/doune-byre-bothy-small.webp",
+          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/doune-byre-bothy-medium.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/bridge-orchy-hotel-mar.jpg",
@@ -160,8 +162,8 @@
           "sourceArticleId": "west-highland-way-wk",
           "sourceGeohash4": "gfh8",
           "accessedAt": "2026-02-22T13:04:42.688Z",
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/bridge-orchy-hotel-mar-small.jpg",
-          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/bridge-orchy-hotel-mar-medium.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/bridge-orchy-hotel-mar-small.webp",
+          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/bridge-orchy-hotel-mar-medium.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/2006-scotland-lochlomond-trail.jpg",
@@ -183,7 +185,7 @@
             "Loch Lomond",
             "West Highland Way"
           ],
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/2006-scotland-lochlomond-trail-small.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/2006-scotland-lochlomond-trail-small.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/2006-scotland3.jpg",
@@ -206,7 +208,7 @@
             "Loch Lomond",
             "West Highland Way"
           ],
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/2006-scotland3-small.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/2006-scotland3-small.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/allt-coire-na-h-eirghe-waterfa.jpg",
@@ -234,7 +236,7 @@
             "Waterfalls in Scotland",
             "West Highland Way"
           ],
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/allt-coire-na-h-eirghe-waterfa-small.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/allt-coire-na-h-eirghe-waterfa-small.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/a82-glen-falloch-road-geograph.jpg",
@@ -264,7 +266,7 @@
             "United Kingdom photographs taken on 2006-03-26",
             "West Highland Way"
           ],
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/a82-glen-falloch-road-geograph-small.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/a82-glen-falloch-road-geograph-small.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/alt-an-t-saoir-railway-viaduct.jpg",
@@ -291,7 +293,7 @@
             "United Kingdom photographs taken on 2006-03-26",
             "West Highland Way"
           ],
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/alt-an-t-saoir-railway-viaduct-small.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/alt-an-t-saoir-railway-viaduct-small.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/a-fairly-full-abhainn-shira-ge.jpg",
@@ -320,7 +322,7 @@
             "October 1996 in Scotland",
             "West Highland Way"
           ],
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/a-fairly-full-abhainn-shira-ge-small.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/a-fairly-full-abhainn-shira-ge-small.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/a-bouldery-burn-glen-orchy-geo.jpg",
@@ -344,7 +346,7 @@
             "CC-BY-SA-2.0",
             "Glen Orchy"
           ],
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/a-bouldery-burn-glen-orchy-geo-small.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/a-bouldery-burn-glen-orchy-geo-small.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/a-braided-river-auch-geograph-.jpg",
@@ -361,7 +363,7 @@
           "sourceArticleId": "west-highland-way-wk",
           "sourceGeohash4": "gfh8",
           "accessedAt": "2026-02-22T13:04:42.688Z",
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/a-braided-river-auch-geograph--small.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/a-braided-river-auch-geograph--small.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/2011-05-schotland-devil-s-stai.png",
@@ -378,8 +380,8 @@
           "sourceArticleId": "west-highland-way-wk",
           "sourceGeohash4": "gfh8",
           "accessedAt": "2026-02-22T13:04:42.688Z",
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/2011-05-schotland-devil-s-stai-small.png",
-          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/2011-05-schotland-devil-s-stai-medium.png"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/2011-05-schotland-devil-s-stai-small.webp",
+          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/2011-05-schotland-devil-s-stai-medium.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/2011-05-schotland-devil-s-stai-1.png",
@@ -396,8 +398,8 @@
           "sourceArticleId": "west-highland-way-wk",
           "sourceGeohash4": "gfh8",
           "accessedAt": "2026-02-22T13:04:42.688Z",
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/2011-05-schotland-devil-s-stai-1-small.png",
-          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/2011-05-schotland-devil-s-stai-1-medium.png"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/2011-05-schotland-devil-s-stai-1-small.webp",
+          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/2011-05-schotland-devil-s-stai-1-medium.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/11-09-08-near-crainlarich-6002.jpg",
@@ -414,8 +416,8 @@
           "sourceArticleId": "west-highland-way-wk",
           "sourceGeohash4": "gfh8",
           "accessedAt": "2026-02-22T13:04:42.688Z",
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/11-09-08-near-crainlarich-6002-small.jpg",
-          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/11-09-08-near-crainlarich-6002-medium.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/11-09-08-near-crainlarich-6002-small.webp",
+          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/11-09-08-near-crainlarich-6002-medium.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/130707-glen-coe-from-east-c.jpg",
@@ -432,8 +434,8 @@
           "sourceArticleId": "west-highland-way-wk",
           "sourceGeohash4": "gfh8",
           "accessedAt": "2026-02-22T13:04:42.688Z",
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/130707-glen-coe-from-east-c-small.jpg",
-          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/130707-glen-coe-from-east-c-medium.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/130707-glen-coe-from-east-c-small.webp",
+          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/130707-glen-coe-from-east-c-medium.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/ancient-grooves-85332475.jpg",
@@ -450,8 +452,8 @@
           "sourceArticleId": "west-highland-way-wk",
           "sourceGeohash4": "gfh8",
           "accessedAt": "2026-02-22T13:04:42.688Z",
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/ancient-grooves-85332475-small.jpg",
-          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/ancient-grooves-85332475-medium.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/ancient-grooves-85332475-small.webp",
+          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/ancient-grooves-85332475-medium.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/500px-photo-85334371.jpg",
@@ -468,8 +470,8 @@
           "sourceArticleId": "west-highland-way-wk",
           "sourceGeohash4": "gfh8",
           "accessedAt": "2026-02-22T13:04:42.688Z",
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/500px-photo-85334371-small.jpg",
-          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/500px-photo-85334371-medium.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/500px-photo-85334371-small.webp",
+          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/500px-photo-85334371-medium.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/a-viewpoint-on-the-west-highla.jpg",
@@ -486,7 +488,7 @@
           "sourceArticleId": "west-highland-way-wk",
           "sourceGeohash4": "gfh8",
           "accessedAt": "2026-02-22T13:04:42.688Z",
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/a-viewpoint-on-the-west-highla-small.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/a-viewpoint-on-the-west-highla-small.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/a-walker-on-the-west-highland-.jpg",
@@ -503,7 +505,7 @@
           "sourceArticleId": "west-highland-way-wk",
           "sourceGeohash4": "gfh8",
           "accessedAt": "2026-02-22T13:04:42.688Z",
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/a-walker-on-the-west-highland--small.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/a-walker-on-the-west-highland--small.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/a-tired-walker-geograph-org-uk.jpg",
@@ -520,8 +522,8 @@
           "sourceArticleId": "west-highland-way-wk",
           "sourceGeohash4": "gfh8",
           "accessedAt": "2026-02-22T13:04:42.688Z",
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/a-tired-walker-geograph-org-uk-small.jpg",
-          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/a-tired-walker-geograph-org-uk-medium.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/a-tired-walker-geograph-org-uk-small.webp",
+          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/a-tired-walker-geograph-org-uk-medium.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/2011-argyllshire-devil-s-stair.jpg",
@@ -538,8 +540,8 @@
           "sourceArticleId": "west-highland-way-wk",
           "sourceGeohash4": "gfh8",
           "accessedAt": "2026-02-22T13:04:42.688Z",
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/2011-argyllshire-devil-s-stair-small.jpg",
-          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/2011-argyllshire-devil-s-stair-medium.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/2011-argyllshire-devil-s-stair-small.webp",
+          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/2011-argyllshire-devil-s-stair-medium.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/2011-argyllshire-devil-s-stair-1.jpg",
@@ -556,8 +558,8 @@
           "sourceArticleId": "west-highland-way-wk",
           "sourceGeohash4": "gfh8",
           "accessedAt": "2026-02-22T13:04:42.688Z",
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/2011-argyllshire-devil-s-stair-1-small.jpg",
-          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/2011-argyllshire-devil-s-stair-1-medium.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/2011-argyllshire-devil-s-stair-1-small.webp",
+          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/2011-argyllshire-devil-s-stair-1-medium.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/approaching-crianlarich-on-the.jpg",
@@ -574,8 +576,8 @@
           "sourceArticleId": "west-highland-way-wk",
           "sourceGeohash4": "gfh8",
           "accessedAt": "2026-02-22T13:04:42.688Z",
-          "smallPath": "_m/g/f/h/8/west-highland-way-wk/approaching-crianlarich-on-the-small.jpg",
-          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/approaching-crianlarich-on-the-medium.jpg"
+          "smallPath": "_m/g/f/h/8/west-highland-way-wk/approaching-crianlarich-on-the-small.webp",
+          "mediumPath": "_m/g/f/h/8/west-highland-way-wk/approaching-crianlarich-on-the-medium.webp"
         },
         {
           "path": "_m/g/f/h/8/west-highland-way-wk/hero.jpg",
@@ -1253,7 +1255,8 @@
           "sourceGeohash4": "gfh7",
           "accessedAt": "2026-02-22T13:04:42.688Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/g/f/h/8/west-highland-way-wk/gfh8-west-highland-way-combined.mp3"
     }
   }
 }

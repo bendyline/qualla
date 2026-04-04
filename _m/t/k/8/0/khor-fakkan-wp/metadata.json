@@ -22,8 +22,8 @@
       "sourceType": "poi",
       "sourceArticleId": "khor-fakkan-wp",
       "sourceGeohash4": "tk80",
-      "mediumPath": "_m/t/k/8/0/khor-fakkan-wp/khor-fakkan-sun-rise-medium.jpg",
-      "smallPath": "_m/t/k/8/0/khor-fakkan-wp/khor-fakkan-sun-rise-small.jpg"
+      "mediumPath": "_m/t/k/8/0/khor-fakkan-wp/khor-fakkan-sun-rise-medium.webp",
+      "smallPath": "_m/t/k/8/0/khor-fakkan-wp/khor-fakkan-sun-rise-small.webp"
     },
     {
       "filename": "Cranes at Khorfakkan Port.jpg",
@@ -52,13 +52,34 @@
       "sourceType": "poi",
       "sourceArticleId": "khor-fakkan-wp",
       "sourceGeohash4": "tk80",
-      "mediumPath": "_m/t/k/8/0/khor-fakkan-wp/cranes-at-khorfakkan-port-medium.jpg",
-      "smallPath": "_m/t/k/8/0/khor-fakkan-wp/cranes-at-khorfakkan-port-small.jpg"
+      "mediumPath": "_m/t/k/8/0/khor-fakkan-wp/cranes-at-khorfakkan-port-medium.webp",
+      "smallPath": "_m/t/k/8/0/khor-fakkan-wp/cranes-at-khorfakkan-port-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/t/k/8/0/khor-fakkan-wp/khor-fakkan-sun-rise.jpg",
     "_m/t/k/8/0/khor-fakkan-wp/cranes-at-khorfakkan-port.jpg"
   ],
-  "updatedAt": "2026-03-01T10:16:46.856Z"
+  "updatedAt": "2026-03-01T10:16:46.856Z",
+  "narration": {
+    "files": [
+      "tk80-khor-fakkan-flight-context.mp3",
+      "tk80-khor-fakkan-intro.mp3",
+      "tk80-khor-fakkan-layers-of-occupation.mp3",
+      "tk80-khor-fakkan-invasions-and-endurance.mp3",
+      "tk80-khor-fakkan-the-drowned-village.mp3",
+      "tk80-khor-fakkan-deep-water-deep-connections.mp3",
+      "tk80-khor-fakkan-a-u-boat-off-the-coast.mp3"
+    ],
+    "durations": {
+      "tk80-khor-fakkan-flight-context.mp3": 38.159625,
+      "tk80-khor-fakkan-intro.mp3": 35.6287083,
+      "tk80-khor-fakkan-layers-of-occupation.mp3": 55.0815833,
+      "tk80-khor-fakkan-invasions-and-endurance.mp3": 51.2340416,
+      "tk80-khor-fakkan-the-drowned-village.mp3": 47.82475,
+      "tk80-khor-fakkan-deep-water-deep-connections.mp3": 53.0979583,
+      "tk80-khor-fakkan-a-u-boat-off-the-coast.mp3": 49.6620833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

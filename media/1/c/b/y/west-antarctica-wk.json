@@ -34,7 +34,7 @@
           "Files with coordinates missing SDC location of creation",
           "Flickr images uploaded by Flickr upload bot"
         ],
-        "smallPath": "_m/1/c/b/y/west-antarctica-wk/ilyushin-il-76-air-alm-small.jpg",
+        "smallPath": "_m/1/c/b/y/west-antarctica-wk/hero-small.webp",
         "evaluation": {
           "relevance": 10,
           "visualQuality": 9,
@@ -51,7 +51,8 @@
             "sectionTitle": "Getting There, Barely"
           },
           "rationale": "IL-76 at Union Glacier explicitly mentioned in article - captures the only way into West Antarctica's interior"
-        }
+        },
+        "mediumPath": "_m/1/c/b/y/west-antarctica-wk/hero-medium.webp"
       },
       "images": [
         {
@@ -76,7 +77,7 @@
             "Mount Sidley",
             "PD US Navy"
           ],
-          "smallPath": "_m/1/c/b/y/west-antarctica-wk/mountsidleycaldera-small.jpg"
+          "smallPath": "_m/1/c/b/y/west-antarctica-wk/mountsidleycaldera-small.webp"
         },
         {
           "path": "_m/1/c/b/y/west-antarctica-wk/taken-richard-laronde.jpg",
@@ -104,8 +105,8 @@
             "Transantarctic Mountains",
             "User-created GFDL images"
           ],
-          "smallPath": "_m/1/c/b/y/west-antarctica-wk/taken-richard-laronde-small.jpg",
-          "mediumPath": "_m/1/c/b/y/west-antarctica-wk/taken-richard-laronde-medium.jpg",
+          "smallPath": "_m/1/c/b/y/west-antarctica-wk/taken-richard-laronde-small.webp",
+          "mediumPath": "_m/1/c/b/y/west-antarctica-wk/taken-richard-laronde-medium.webp",
           "evaluation": {
             "relevance": 8,
             "visualQuality": 7,
@@ -141,7 +142,7 @@
             "Self-published work",
             "Taken with Canon PowerShot SX100 IS"
           ],
-          "smallPath": "_m/1/c/b/y/west-antarctica-wk/base-belgrano-ii-small.jpg",
+          "smallPath": "_m/1/c/b/y/west-antarctica-wk/base-belgrano-ii-small.webp",
           "evaluation": {
             "relevance": 9,
             "visualQuality": 7,
@@ -180,8 +181,8 @@
             "Photographs taken on 2012-12-27",
             "Taken with Olympus SZ-30MR"
           ],
-          "smallPath": "_m/1/c/b/y/west-antarctica-wk/crane-lowers-two-barre-small.jpg",
-          "mediumPath": "_m/1/c/b/y/west-antarctica-wk/crane-lowers-two-barre-medium.jpg",
+          "smallPath": "_m/1/c/b/y/west-antarctica-wk/crane-lowers-two-barre-small.webp",
+          "mediumPath": "_m/1/c/b/y/west-antarctica-wk/crane-lowers-two-barre-medium.webp",
           "evaluation": {
             "relevance": 7,
             "visualQuality": 6,
@@ -217,7 +218,7 @@
             "Neumayer Station III",
             "Taken with Canon EOS 500D"
           ],
-          "smallPath": "_m/1/c/b/y/west-antarctica-wk/hero-small.jpg",
+          "smallPath": "_m/1/c/b/y/west-antarctica-wk/ilyushin-il-76-air-alm-small.webp",
           "evaluation": {
             "relevance": 8,
             "qualitySkipReason": "map",
@@ -250,7 +251,8 @@
             "South Pole"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/1/c/b/y/west-antarctica-wk/1cby-west-antarctica-combined.mp3"
     }
   }
 }

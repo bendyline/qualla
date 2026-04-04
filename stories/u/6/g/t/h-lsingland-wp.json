@@ -81,14 +81,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "north-iceland-wk",
-      "title": "North Iceland",
-      "tile": "geej",
+      "id": "union-between-sweden-and-norway-wp",
+      "title": "Union between Sweden and Norway",
+      "tile": "u70d",
       "coordinates": {
-        "lat": 65.61068,
-        "lng": -18.04504
+        "lat": 62.232313,
+        "lng": 12.282477
       },
-      "distanceKm": 1703.7
+      "distanceKm": 194.1
     },
     "n": {
       "id": "decorated-farmhouses-of-h-lsingland-wp",
@@ -101,14 +101,14 @@
       "distanceKm": 8.1
     },
     "ne": {
-      "id": "dyatlov-pass-wk",
-      "title": "The Dyatlov Pass Incident: Nine Hikers, One Frozen Mystery",
-      "tile": "v6fr",
+      "id": "harnosand-cathedral-wp",
+      "title": "Härnösand Cathedral",
+      "tile": "u7hu",
       "coordinates": {
-        "lat": 61.764,
-        "lng": 59.46
+        "lat": 62.63111111,
+        "lng": 17.94166667
       },
-      "distanceKm": 2202.3
+      "distanceKm": 117.5
     },
     "w": {
       "id": "vasaloppet-wp",
@@ -163,5 +163,6 @@
   },
   "keywords": [
     "h-lsingland"
-  ]
+  ],
+  "locationWikipediaPath": "u/6/g/t/halsingland-wp"
 }

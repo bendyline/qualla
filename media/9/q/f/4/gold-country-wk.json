@@ -3,12 +3,12 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/q/f/4/gold-country-wk/9qf4-gold-country-intro.mp3",
-        "_m/9/q/f/4/gold-country-wk/9qf4-gold-country-boomtowns-and-ghosts.mp3",
         "_m/9/q/f/4/gold-country-wk/9qf4-gold-country-flight-context.mp3",
-        "_m/9/q/f/4/gold-country-wk/9qf4-gold-country-gold-rush-impact.mp3",
-        "_m/9/q/f/4/gold-country-wk/9qf4-gold-country-highway-49.mp3",
+        "_m/9/q/f/4/gold-country-wk/9qf4-gold-country-intro.mp3",
         "_m/9/q/f/4/gold-country-wk/9qf4-gold-country-the-discovery.mp3",
+        "_m/9/q/f/4/gold-country-wk/9qf4-gold-country-boomtowns-and-ghosts.mp3",
+        "_m/9/q/f/4/gold-country-wk/9qf4-gold-country-highway-49.mp3",
+        "_m/9/q/f/4/gold-country-wk/9qf4-gold-country-gold-rush-impact.mp3",
         "_m/9/q/f/4/gold-country-wk/9qf4-gold-country-visiting-gold-country.mp3"
       ],
       "hero": {
@@ -31,7 +31,9 @@
           "Facebook-sourced files",
           "Mountains of California",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/9/q/f/4/gold-country-wk/hero-medium.webp",
+        "smallPath": "_m/9/q/f/4/gold-country-wk/hero-small.webp"
       },
       "images": [
         {
@@ -61,7 +63,7 @@
             "Self-published work",
             "Stone buildings in California"
           ],
-          "smallPath": "_m/9/q/f/4/gold-country-wk/sonora-california-small.jpg"
+          "smallPath": "_m/9/q/f/4/gold-country-wk/sonora-california-small.webp"
         },
         {
           "path": "_m/9/q/f/4/gold-country-wk/street-scenery-coloma.jpg",
@@ -83,8 +85,8 @@
             "CC-BY-SA-3.0",
             "Roads in El Dorado County, California"
           ],
-          "smallPath": "_m/9/q/f/4/gold-country-wk/street-scenery-coloma-small.jpg",
-          "mediumPath": "_m/9/q/f/4/gold-country-wk/street-scenery-coloma-medium.jpg"
+          "smallPath": "_m/9/q/f/4/gold-country-wk/street-scenery-coloma-small.webp",
+          "mediumPath": "_m/9/q/f/4/gold-country-wk/street-scenery-coloma-medium.webp"
         },
         {
           "path": "_m/9/q/f/4/gold-country-wk/old-town-auburn-califo.jpg",
@@ -110,8 +112,8 @@
             "Taken with Panasonic Lumix DMC-TZ7",
             "Transport in Auburn, California"
           ],
-          "smallPath": "_m/9/q/f/4/gold-country-wk/old-town-auburn-califo-small.jpg",
-          "mediumPath": "_m/9/q/f/4/gold-country-wk/old-town-auburn-califo-medium.jpg"
+          "smallPath": "_m/9/q/f/4/gold-country-wk/old-town-auburn-califo-small.webp",
+          "mediumPath": "_m/9/q/f/4/gold-country-wk/old-town-auburn-califo-medium.webp"
         },
         {
           "path": "_m/9/q/f/4/gold-country-wk/el-dorado-county-court.jpg",
@@ -136,8 +138,8 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-TZ7"
           ],
-          "smallPath": "_m/9/q/f/4/gold-country-wk/el-dorado-county-court-small.jpg",
-          "mediumPath": "_m/9/q/f/4/gold-country-wk/el-dorado-county-court-medium.jpg"
+          "smallPath": "_m/9/q/f/4/gold-country-wk/el-dorado-county-court-small.webp",
+          "mediumPath": "_m/9/q/f/4/gold-country-wk/el-dorado-county-court-medium.webp"
         },
         {
           "path": "_m/9/q/f/4/gold-country-wk/jamestown-california-u.jpg",
@@ -161,8 +163,8 @@
             "Jamestown, California",
             "Self-published work"
           ],
-          "smallPath": "_m/9/q/f/4/gold-country-wk/jamestown-california-u-small.jpg",
-          "mediumPath": "_m/9/q/f/4/gold-country-wk/jamestown-california-u-medium.jpg"
+          "smallPath": "_m/9/q/f/4/gold-country-wk/jamestown-california-u-small.webp",
+          "mediumPath": "_m/9/q/f/4/gold-country-wk/jamestown-california-u-medium.webp"
         },
         {
           "path": "_m/9/q/f/4/gold-country-wk/dusk-mariposa-californ.jpg",
@@ -186,7 +188,7 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-TZ7"
           ],
-          "smallPath": "_m/9/q/f/4/gold-country-wk/dusk-mariposa-californ-small.jpg"
+          "smallPath": "_m/9/q/f/4/gold-country-wk/dusk-mariposa-californ-small.webp"
         },
         {
           "path": "_m/9/q/f/4/gold-country-wk/old-house-murphys-ca.jpg",
@@ -212,7 +214,7 @@
             "Photographs by Rick Cooper",
             "Taken with Canon PowerShot G12"
           ],
-          "smallPath": "_m/9/q/f/4/gold-country-wk/old-house-murphys-ca-small.jpg"
+          "smallPath": "_m/9/q/f/4/gold-country-wk/old-house-murphys-ca-small.webp"
         },
         {
           "path": "_m/9/q/f/4/gold-country-wk/photo-place-building-l.jpg",
@@ -232,8 +234,8 @@
           "categories": [
             "California Historical Landmarks with known IDs"
           ],
-          "smallPath": "_m/9/q/f/4/gold-country-wk/photo-place-building-l-small.jpg",
-          "mediumPath": "_m/9/q/f/4/gold-country-wk/photo-place-building-l-medium.jpg"
+          "smallPath": "_m/9/q/f/4/gold-country-wk/photo-place-building-l-small.webp",
+          "mediumPath": "_m/9/q/f/4/gold-country-wk/photo-place-building-l-medium.webp"
         },
         {
           "path": "_m/9/q/f/4/gold-country-wk/carnegie-library-557-l.jpg",
@@ -250,7 +252,7 @@
           "sourceArticleId": "gold-country-wk",
           "sourceGeohash4": "9qf4",
           "accessedAt": "2026-02-21T21:09:30.106Z",
-          "smallPath": "_m/9/q/f/4/gold-country-wk/carnegie-library-557-l-small.jpg"
+          "smallPath": "_m/9/q/f/4/gold-country-wk/carnegie-library-557-l-small.webp"
         },
         {
           "path": "_m/9/q/f/4/gold-country-wk/tour-group-mercer-cave.jpg",
@@ -267,7 +269,7 @@
           "sourceArticleId": "gold-country-wk",
           "sourceGeohash4": "9qf4",
           "accessedAt": "2026-02-21T21:09:30.106Z",
-          "smallPath": "_m/9/q/f/4/gold-country-wk/tour-group-mercer-cave-small.jpg"
+          "smallPath": "_m/9/q/f/4/gold-country-wk/tour-group-mercer-cave-small.webp"
         },
         {
           "path": "_m/9/q/f/4/gold-country-wp/sierra-gold-rush-map.jpg",
@@ -333,7 +335,8 @@
             "Self-published work"
           ]
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/q/f/4/gold-country-wk/9qf4-gold-country-combined.mp3"
     }
   }
 }

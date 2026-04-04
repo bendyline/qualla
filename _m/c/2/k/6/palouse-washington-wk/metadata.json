@@ -18,8 +18,8 @@
     "sourceType": "core",
     "sourceArticleId": "palouse-washington-wk",
     "sourceGeohash4": "c2k6",
-    "smallPath": "_m/c/2/k/6/palouse-washington-wk/hero-small.jpg",
-    "mediumPath": "_m/c/2/k/6/palouse-washington-wk/hero-medium.jpg"
+    "smallPath": "_m/c/2/k/6/palouse-washington-wk/hero-small.webp",
+    "mediumPath": "_m/c/2/k/6/palouse-washington-wk/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Palouse Falls Eastern Washington - Flickr - Knowles Gallery.jpg",
@@ -66,8 +66,8 @@
       "sourceType": "core",
       "sourceArticleId": "palouse-washington-wk",
       "sourceGeohash4": "c2k6",
-      "smallPath": "_m/c/2/k/6/palouse-washington-wk/great-northern-railway-small.jpg",
-      "mediumPath": "_m/c/2/k/6/palouse-washington-wk/great-northern-railway-medium.jpg"
+      "smallPath": "_m/c/2/k/6/palouse-washington-wk/hero-small.webp",
+      "mediumPath": "_m/c/2/k/6/palouse-washington-wk/hero-medium.webp"
     },
     {
       "filename": "Lewiston and Clarkston.jpg",
@@ -129,7 +129,7 @@
       "sourceType": "core",
       "sourceArticleId": "palouse-washington-wk",
       "sourceGeohash4": "c2k6",
-      "smallPath": "_m/c/2/k/6/palouse-washington-wk/palouse-hills-steptoe-small.jpg"
+      "smallPath": "_m/c/2/k/6/palouse-washington-wk/palouse-hills-steptoe-small.webp"
     },
     {
       "filename": "Historic Courthouse Dayton Washington.JPG",
@@ -160,7 +160,7 @@
       "sourceType": "core",
       "sourceArticleId": "palouse-washington-wk",
       "sourceGeohash4": "c2k6",
-      "smallPath": "_m/c/2/k/6/palouse-washington-wk/photograph-historic-co-small.jpg"
+      "smallPath": "_m/c/2/k/6/palouse-washington-wk/photograph-historic-co-small.webp"
     },
     {
       "filename": "ColfaxWA1.jpg",
@@ -188,7 +188,7 @@
       "sourceType": "core",
       "sourceArticleId": "palouse-washington-wk",
       "sourceGeohash4": "c2k6",
-      "smallPath": "_m/c/2/k/6/palouse-washington-wk/southeast-view-colfax-small.jpg"
+      "smallPath": "_m/c/2/k/6/palouse-washington-wk/southeast-view-colfax-small.webp"
     },
     {
       "filename": "Aerial - Cheney, WA 02 - white balanced (9796305533).jpg",
@@ -219,8 +219,8 @@
       "sourceType": "core",
       "sourceArticleId": "palouse-washington-wk",
       "sourceGeohash4": "c2k6",
-      "smallPath": "_m/c/2/k/6/palouse-washington-wk/aerial-view-cheney-was-small.jpg",
-      "mediumPath": "_m/c/2/k/6/palouse-washington-wk/aerial-view-cheney-was-medium.jpg"
+      "smallPath": "_m/c/2/k/6/palouse-washington-wk/aerial-view-cheney-was-small.webp",
+      "mediumPath": "_m/c/2/k/6/palouse-washington-wk/aerial-view-cheney-was-medium.webp"
     }
   ],
   "galleryPaths": [
@@ -231,26 +231,24 @@
     "_m/c/2/k/6/palouse-washington-wk/southeast-view-colfax.jpg",
     "_m/c/2/k/6/palouse-washington-wk/aerial-view-cheney-was.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:09:29.955Z",
   "updatedAt": "2026-01-29T13:07:57.734Z",
   "narration": {
     "files": [
-      "c2k6-palouse-college-country.mp3",
       "c2k6-palouse-flight-context.mp3",
       "c2k6-palouse-intro.mp3",
-      "c2k6-palouse-palouse-falls.mp3",
+      "c2k6-palouse-the-loess-hills.mp3",
       "c2k6-palouse-steptoe-butte.mp3",
-      "c2k6-palouse-the-loess-hills.mp3"
+      "c2k6-palouse-palouse-falls.mp3",
+      "c2k6-palouse-college-country.mp3"
     ],
     "durations": {
-      "c2k6-palouse-college-country.mp3": 63.768,
-      "c2k6-palouse-flight-context.mp3": 53.328,
-      "c2k6-palouse-intro.mp3": 45.264,
-      "c2k6-palouse-palouse-falls.mp3": 64.608,
-      "c2k6-palouse-steptoe-butte.mp3": 62.16,
-      "c2k6-palouse-the-loess-hills.mp3": 66.048
+      "c2k6-palouse-flight-context.mp3": 57.0236666,
+      "c2k6-palouse-intro.mp3": 42.74925,
+      "c2k6-palouse-the-loess-hills.mp3": 66.2287916,
+      "c2k6-palouse-steptoe-butte.mp3": 65.218625,
+      "c2k6-palouse-palouse-falls.mp3": 61.3875833,
+      "c2k6-palouse-college-country.mp3": 64.1107916
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:57.638Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

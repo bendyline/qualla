@@ -28,8 +28,8 @@
     "sourceType": "core",
     "sourceArticleId": "treue-der-union-monument-wp",
     "sourceGeohash4": "9v3d",
-    "smallPath": "_m/9/v/3/d/treue-der-union-monument-wp/hero-small.jpg",
-    "mediumPath": "_m/9/v/3/d/treue-der-union-monument-wp/hero-medium.jpg"
+    "smallPath": "_m/9/v/3/d/treue-der-union-monument-wp/hero-small.webp",
+    "mediumPath": "_m/9/v/3/d/treue-der-union-monument-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Treue der union monumant 2009.jpg",
@@ -141,8 +141,8 @@
       "sourceType": "core",
       "sourceArticleId": "treue-der-union-monument-wp",
       "sourceGeohash4": "9v3d",
-      "smallPath": "_m/9/v/3/d/treue-der-union-monument-wp/treue-der-union-monume-small.jpg",
-      "mediumPath": "_m/9/v/3/d/treue-der-union-monument-wp/treue-der-union-monume-medium.jpg"
+      "smallPath": "_m/9/v/3/d/treue-der-union-monument-wp/treue-der-union-monume-small.webp",
+      "mediumPath": "_m/9/v/3/d/treue-der-union-monument-wp/treue-der-union-monume-medium.webp"
     },
     {
       "filename": "Treue Der Union Monument names 02.jpg",
@@ -164,7 +164,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "treue-der-union-monument-wp",
-      "sourceGeohash4": "9v3d"
+      "sourceGeohash4": "9v3d",
+      "mediumPath": "_m/9/v/3/d/treue-der-union-monument-wp/treue-der-union-monument-names-medium.webp",
+      "smallPath": "_m/9/v/3/d/treue-der-union-monument-wp/treue-der-union-monument-names-small.webp"
     },
     {
       "filename": "Treue Der Union Monument names 03.jpg",
@@ -186,7 +188,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "treue-der-union-monument-wp",
-      "sourceGeohash4": "9v3d"
+      "sourceGeohash4": "9v3d",
+      "mediumPath": "_m/9/v/3/d/treue-der-union-monument-wp/treue-der-union-monument-names-1-medium.webp",
+      "smallPath": "_m/9/v/3/d/treue-der-union-monument-wp/treue-der-union-monument-names-1-small.webp"
     },
     {
       "filename": "Treue Der Union Monument Rededication 1996.jpg",
@@ -208,7 +212,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "treue-der-union-monument-wp",
-      "sourceGeohash4": "9v3d"
+      "sourceGeohash4": "9v3d",
+      "mediumPath": "_m/9/v/3/d/treue-der-union-monument-wp/treue-der-union-monument-reded-medium.webp",
+      "smallPath": "_m/9/v/3/d/treue-der-union-monument-wp/treue-der-union-monument-reded-small.webp"
     },
     {
       "filename": "Treue Der Union Monument 1.jpg",
@@ -230,7 +236,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "treue-der-union-monument-wp",
-      "sourceGeohash4": "9v3d"
+      "sourceGeohash4": "9v3d",
+      "mediumPath": "_m/9/v/3/d/treue-der-union-monument-wp/treue-der-union-monument-1-medium.webp",
+      "smallPath": "_m/9/v/3/d/treue-der-union-monument-wp/treue-der-union-monument-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -242,7 +250,6 @@
     "_m/9/v/3/d/treue-der-union-monument-wp/treue-der-union-monument-reded.jpg",
     "_m/9/v/3/d/treue-der-union-monument-wp/treue-der-union-monument-1.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:40:44.830Z",
   "narration": {
     "files": [
       "9v3d-treue-der-union-monument-flight-context.mp3",
@@ -260,8 +267,7 @@
       "9v3d-treue-der-union-monument-a-monument-born-of-grief.mp3": 60.2601666,
       "9v3d-treue-der-union-monument-myth-and-monument.mp3": 71.5648333
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T05:34:32.327Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:40:45.613Z"
 }

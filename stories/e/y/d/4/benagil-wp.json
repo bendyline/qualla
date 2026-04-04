@@ -1,0 +1,147 @@
+{
+  "id": "benagil-wp",
+  "source": "wikipedia",
+  "sourceId": "16828393",
+  "title": "Benagil",
+  "slug": "benagil",
+  "summary": "A tiny Algarve fishing village whose sea cave, with its cathedral-like ceiling opening to the sky, has become one of Portugal's most photographed natural wonders.",
+  "content": {
+    "intro": "Sunlight falls through a hole in the ceiling and lands on a hidden beach. The effect is almost theatrical: a column of light illuminating golden sand inside a limestone grotto, the Atlantic Ocean swirling through arched openings in the rock walls. This is the Benagil Cave, and the reason a fishing village of a few dozen houses on Portugal's Algarve coast has become one of the most visited natural sites in the country. The cave is not the largest along this coastline, nor the most geologically complex. But it is the only one along the stretch between Lagos and Albufeira that has been eroded from both the side and the top, creating an oculus that turns a dark grotto into a natural cathedral.",
+    "sections": [
+      {
+        "title": "From Fishing Nets to Tour Boats",
+        "body": "Until the late 20th century, Benagil was a working fishing village, its economy tied to the Atlantic rather than to visitors. The small beach, Praia de Benagil, served local fishermen who launched their boats from the sand. The sea caves along this stretch of coastline were known to them, of course, but they were features of the working landscape, not destinations. Tourism changed that calculus entirely. As photographs of the cave's interior began circulating online, showing the skylight effect at its most dramatic during midday sun, Benagil transformed from a place people lived into a place people came to see. The village's economy pivoted from fishing to tourism, a pattern common along the Algarve but compressed here into a particularly small space."
+      },
+      {
+        "title": "A Cathedral Carved by the Sea",
+        "body": "The geology that created the Benagil Cave is straightforward in principle: the Atlantic carved into soft limestone cliffs through wave action and chemical erosion, hollowing out chambers and eventually breaking through the ceiling where the rock was thinnest. What makes this particular cave unique is the size and symmetry of that ceiling opening, which admits a wide shaft of light that changes character with the angle of the sun throughout the day. At midday, when the sun is nearly overhead, the grotto fills with warm light that illuminates the sand and shallow water inside. In the morning and late afternoon, the light enters at angles that cast dramatic shadows across the cave walls. The small beach inside, accessible only by water, adds a human scale that makes the cave feel like an inhabitable space rather than a geological curiosity."
+      },
+      {
+        "title": "Managing a Natural Wonder",
+        "body": "By 2023, the volume of visitors was threatening to damage the very thing they came to see. Concerns about overtourism prompted authorities to impose a series of escalating regulations. Only sanctioned tour operators are now permitted to bring boats into the grotto, and watercraft can no longer land on the interior beach, a practice that had been eroding the sand. Since August 2024, the number of vessels allowed inside the cave at any one time has been limited, and visiting time has been capped at a maximum of two minutes per boat. Proposals for admission fees and daily visitor caps have been floated. The measures reflect a tension familiar to natural attractions worldwide: how to let people experience a place without loving it to death."
+      }
+    ],
+    "flightContext": "Located at 37.088N, 8.426W on the Algarve coast of southern Portugal. The dramatic limestone cliffs and sea caves are visible from the air, with the Benagil Cave's ceiling opening appearing as a dark hole in the clifftop. The village sits on a small beach between cliff headlands. Nearest airport is Faro (LPFR), approximately 55 km east. The coastline between Lagos and Albufeira is spectacular from 1,000-3,000 ft AGL."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 37.0875,
+      "lng": -8.42583
+    },
+    "geohash": "eyd4b"
+  },
+  "categories": [
+    "natural-wonders",
+    "coastal",
+    "geology",
+    "tourism"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-13T00:00:00Z",
+    "wordCount": 640,
+    "readTime": 3,
+    "firstPublished": "2026-03-13T00:00:00Z",
+    "storyNumber": 8305
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Benagil Cave access regulations 2024 - The Portugal News",
+      "url": "https://www.theportugalnews.com/news/2024-08-13/new-algarve-cave-access-rules-come-into-force/91286",
+      "accessedAt": "2026-03-16",
+      "claimsVerified": [
+        "August 2024 regulations confirmed: no landing on interior beach, maximum two minutes per motorized boat",
+        "Only sanctioned tour operators permitted to enter grotto confirmed",
+        "Cave located between Lagos and Albufeira on Algarve coast confirmed",
+        "Overtourism concerns driving regulatory action confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "e/y/d/4/benagil-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "christ-the-king-almada-wp",
+      "title": "Christ the King (Almada)",
+      "tile": "eyck",
+      "coordinates": {
+        "lat": 38.678611111111,
+        "lng": -9.1713888888889
+      },
+      "distanceKm": 160.7
+    },
+    "n": {
+      "id": "battle-of-ourique-wp",
+      "title": "Battle of Ourique",
+      "tile": "eydn",
+      "coordinates": {
+        "lat": 37.65,
+        "lng": -8.2167
+      },
+      "distanceKm": 42.9
+    },
+    "ne": {
+      "id": "castle-of-mertola-wp",
+      "title": "Castle of Mertola",
+      "tile": "eydw",
+      "coordinates": {
+        "lat": 37.63805556,
+        "lng": -7.66444444
+      },
+      "distanceKm": 41.9
+    },
+    "w": {
+      "id": "fortress-of-sagres-wp",
+      "title": "Fortress of Sagres",
+      "tile": "ey9d",
+      "coordinates": {
+        "lat": 37.000853,
+        "lng": -8.948395
+      },
+      "distanceKm": 14.1
+    },
+    "e": {
+      "id": "castle-of-tavira-wp",
+      "title": "Castle of Tavira",
+      "tile": "eyde",
+      "coordinates": {
+        "lat": 37.1250381469727,
+        "lng": -7.6536979675293
+      },
+      "distanceKm": 15.4
+    },
+    "sw": {
+      "id": "1356-lisbon-earthquake-wp",
+      "title": "1356 Lisbon Earthquake",
+      "tile": "ey2z",
+      "coordinates": {
+        "lat": 36.5,
+        "lng": -10
+      },
+      "distanceKm": 111.3
+    },
+    "s": {
+      "id": "1947-cadiz-explosion-wp",
+      "title": "1947 Cadiz Explosion",
+      "tile": "ey7x",
+      "coordinates": {
+        "lat": 36.523888888889,
+        "lng": -6.2827777777778
+      },
+      "distanceKm": 178.2
+    },
+    "se": {
+      "id": "cadiz-cathedral-wp",
+      "title": "Cadiz Cathedral",
+      "tile": "ey7x",
+      "coordinates": {
+        "lat": 36.529,
+        "lng": -6.2952
+      },
+      "distanceKm": 130.5
+    }
+  }
+}

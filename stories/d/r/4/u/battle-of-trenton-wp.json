@@ -91,14 +91,14 @@
       "distanceKm": 27.7
     },
     "n": {
-      "id": "edison-menlo-park-wk",
-      "title": "Edison's Menlo Park Laboratory",
-      "tile": "dr5n",
+      "id": "round-valley-reservoir-wp",
+      "title": "Round Valley Reservoir",
+      "tile": "dr4z",
       "coordinates": {
-        "lat": 40.53,
-        "lng": -74.32
+        "lat": 40.6139,
+        "lng": -74.8227
       },
-      "distanceKm": 34.6
+      "distanceKm": 22.7
     },
     "ne": {
       "id": "sandy-hook-proving-ground-wk",
@@ -160,5 +160,6 @@
       },
       "distanceKm": 587.8
     }
-  }
+  },
+  "locationWikipediaPath": "d/r/4/u/battle-of-trenton-wp"
 }

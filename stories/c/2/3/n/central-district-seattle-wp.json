@@ -95,14 +95,14 @@
       "distanceKm": 34.2
     },
     "n": {
-      "id": "everett-washington-wk",
-      "title": "Everett",
+      "id": "snoqualmie-river-wp",
+      "title": "Snoqualmie River",
       "tile": "c290",
       "coordinates": {
-        "lat": 47.9633,
-        "lng": -122.2006
+        "lat": 47.8303,
+        "lng": -122.046
       },
-      "distanceKm": 16.9
+      "distanceKm": 9.3
     },
     "ne": {
       "id": "north-cascades-national-park-wk",
@@ -164,5 +164,7 @@
       },
       "distanceKm": 23.9
     }
-  }
+  },
+  "locationWikipediaPath": "c/2/3/n/central-district-seattle-wp",
+  "locationWikivoyagePath": "c/2/3/n/seattle-pioneer-square-international-district-wk"
 }

@@ -1,0 +1,152 @@
+{
+  "id": "tay-bridge-wp",
+  "source": "wikipedia",
+  "sourceId": "144681",
+  "title": "Tay Bridge",
+  "slug": "tay-bridge",
+  "summary": "Spanning 3,286 metres across the Firth of Tay, the current Tay Bridge is the second to stand on this site -- its predecessor collapsed in 1879 in one of history's worst bridge disasters.",
+  "content": {
+    "intro": "Two bridges share this stretch of the Firth of Tay, though only one still carries trains. The current Tay Bridge runs parallel to the remains of its predecessor, whose broken pier stumps still protrude from the water like a row of pulled teeth. Together they tell a story that begins with Victorian ambition, passes through catastrophe, and ends with a structure so quietly reliable that it has served continuously since 1887 -- long enough to need over a thousand metric tonnes of bird droppings scraped from its ironwork during a single renovation.",
+    "sections": [
+      {
+        "title": "The First Crossing",
+        "body": "Plans for a bridge over the Tay emerged in 1854, but it took until 1870 for Parliament to authorise the project. The bridge's designer, Thomas Bouch, chose a lightweight lattice grid combining cast and wrought iron -- a design used successfully on the Crumlin Viaduct in South Wales. Construction began in 1871 and was plagued by setbacks, including the discovery that the riverbed geology was far worse than trial borings had indicated. Bouch had to redesign the foundations mid-construction, replacing bedrock-based piers with caissons sunk into gravel. Two high girders fell during installation in February 1877. Despite all this, the bridge opened on 1 June 1878. Bouch was knighted. Queen Victoria crossed it in June 1879. Nineteen months after opening, on the stormy night of 28 December 1879, the central spans collapsed while a train was crossing. All 75 people aboard were killed."
+      },
+      {
+        "title": "Rebuilding Over Ruins",
+        "body": "The North British Railway moved quickly. Plans for a replacement bridge were drawn up by civil engineer Sir James Brunlees, and construction began on 6 July 1883. The second bridge was built of iron and steel with a double track, running parallel to the remains of the first bridge -- close enough that some of the original pier foundations were reused for the new structure. The estimated cost was 640,000 pounds, a figure that was overrun but not dramatically so. The Board of Trade subjected the new bridge to extensive testing before declaring it fit for service. It opened in 1887 and has carried rail traffic between Dundee and Wormit in Fife ever since. To protect the structure from damage, the double-heading of locomotives is restricted: some combinations of consecutive engines must be separated by at least 60 feet using barrier wagons."
+      },
+      {
+        "title": "An Engineering Landmark, Twice Over",
+        "body": "The Tay Bridge is a landmark in the history of engineering for two opposing reasons. The first bridge demonstrated what happens when design shortcuts, poor construction supervision, and failure to account for wind loading converge. The inquiry that followed changed how bridges were built throughout the British Empire, introducing formal wind-loading calculations into structural design. The second bridge demonstrated that the lessons had been learned. At 3,286 metres, it remains the longest rail bridge in Britain and one of the most enduring Victorian railway structures in the country. In 2003, a major strengthening and refurbishment project won the British Construction Industry Civil Engineering Award, recognising the extraordinary logistics involved: workers in exposed conditions, high above a firth with fast-running tides, replacing hundreds of thousands of rivets by hand."
+      },
+      {
+        "title": "The Bridge Today",
+        "body": "Trains still cross the Tay Bridge multiple times daily on the line between Edinburgh and Aberdeen, and passengers who look out the windows on the downstream side can see the original pier stumps standing in the water. They are among the most famous ruins in Scottish engineering -- more visited by the eye than any castle on the route. The bridge connects Dundee, Scotland's fourth city, with the Kingdom of Fife, and it does so with the understated reliability that characterises infrastructure you only notice when it fails. Above the bridge, the sky over the firth can shift from bright to threatening in minutes, the same volatile weather that tested the first bridge to destruction. Below, the tidal currents of the Tay run swift and cold, indifferent to the traffic crossing overhead."
+      }
+    ],
+    "flightContext": "Located at 56.44N, 2.99W, the Tay Bridge stretches 3,286 metres across the Firth of Tay between Dundee and Wormit. It is unmistakable from the air -- a long, low rail bridge running roughly east-west. The Tay Road Bridge runs parallel 0.5nm to the east. The stumps of the original 1878 bridge are visible on the downstream (east) side. Nearest airport: Dundee (EGPN), 2nm northwest."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 56.4388903405112,
+      "lng": -2.9885799093475
+    },
+    "geohash": "gfjc5"
+  },
+  "categories": [
+    "Bridges across the River Tay",
+    "Railway bridges in Scotland",
+    "History of Dundee",
+    "Bridges completed in 1887"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 740,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 10391
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Tay Bridge - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tay_Bridge",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Bridge length 3,286 metres, confirmed",
+        "Second bridge construction began 6 July 1883, confirmed",
+        "Bridge opened 1887, confirmed",
+        "All 75 killed in 1879 collapse, confirmed",
+        "Corrected: bridge is longest rail bridge in Britain (not just Scotland)"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "g/f/j/c/tay-bridge-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "cairngorms-national-park-wp",
+      "title": "Cairngorms National Park",
+      "tile": "gfjk",
+      "coordinates": {
+        "lat": 57.05,
+        "lng": -3.65
+      },
+      "distanceKm": 31.4
+    },
+    "n": {
+      "id": "battle-of-mons-graupius-wp",
+      "title": "Battle of Mons Graupius",
+      "tile": "gfjg",
+      "coordinates": {
+        "lat": 56.916667,
+        "lng": -3
+      },
+      "distanceKm": 15.5
+    },
+    "ne": {
+      "id": "dunnottar-castle-wp",
+      "title": "Dunnottar Castle",
+      "tile": "gfn7",
+      "coordinates": {
+        "lat": 56.94569,
+        "lng": -2.19677
+      },
+      "distanceKm": 24.7
+    },
+    "w": {
+      "id": "battle-of-dunkeld-wp",
+      "title": "Battle of Dunkeld",
+      "tile": "gfj3",
+      "coordinates": {
+        "lat": 56.565555555555555,
+        "lng": -3.5869444444444447
+      },
+      "distanceKm": 7.2
+    },
+    "e": {
+      "id": "crathes-castle-wp",
+      "title": "Crathes Castle",
+      "tile": "gfnk",
+      "coordinates": {
+        "lat": 57.061,
+        "lng": -2.44
+      },
+      "distanceKm": 60.9
+    },
+    "sw": {
+      "id": "culross-abbey-wp",
+      "title": "Culross Abbey",
+      "tile": "gcvq",
+      "coordinates": {
+        "lat": 56.05834,
+        "lng": -3.62535
+      },
+      "distanceKm": 22.4
+    },
+    "s": {
+      "id": "inchcolm-abbey-wp",
+      "title": "Inchcolm Abbey",
+      "tile": "gcvw",
+      "coordinates": {
+        "lat": 56.0300113,
+        "lng": -3.301707
+      },
+      "distanceKm": 31.2
+    },
+    "se": {
+      "id": "eyemouth-disaster-wp",
+      "title": "Eyemouth Disaster",
+      "tile": "gcyw",
+      "coordinates": {
+        "lat": 55.9,
+        "lng": -2.03
+      },
+      "distanceKm": 47.2
+    }
+  }
+}

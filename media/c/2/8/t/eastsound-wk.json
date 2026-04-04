@@ -3,12 +3,12 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/c/2/8/t/eastsound-wk/c28t-eastsound-intro.mp3",
-        "_m/c/2/8/t/eastsound-wk/c28t-eastsound-artists-colony.mp3",
         "_m/c/2/8/t/eastsound-wk/c28t-eastsound-flight-context.mp3",
-        "_m/c/2/8/t/eastsound-wk/c28t-eastsound-island-time.mp3",
+        "_m/c/2/8/t/eastsound-wk/c28t-eastsound-intro.mp3",
+        "_m/c/2/8/t/eastsound-wk/c28t-eastsound-the-mosquito-fleet-legacy.mp3",
+        "_m/c/2/8/t/eastsound-wk/c28t-eastsound-artists-colony.mp3",
         "_m/c/2/8/t/eastsound-wk/c28t-eastsound-moran-state-park.mp3",
-        "_m/c/2/8/t/eastsound-wk/c28t-eastsound-the-mosquito-fleet-legacy.mp3"
+        "_m/c/2/8/t/eastsound-wk/c28t-eastsound-island-time.mp3"
       ],
       "hero": {
         "path": "_m/tpc/ea/st/so/un/eastsound/aerial-view-of-eastsound-washi.jpg",
@@ -30,7 +30,9 @@
           "Eastsound, Washington",
           "Files with coordinates missing SDC location of creation",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/c/2/8/t/eastsound-wk/hero-medium.webp",
+        "smallPath": "_m/c/2/8/t/eastsound-wk/hero-small.webp"
       },
       "images": [
         {
@@ -111,8 +113,8 @@
             "Taken with Nikon Coolpix 3200",
             "Views from Mount Constitution"
           ],
-          "smallPath": "_m/c/2/8/t/eastsound-wk/view-mount-constitutio-small.jpg",
-          "mediumPath": "_m/c/2/8/t/eastsound-wk/view-mount-constitutio-medium.jpg"
+          "smallPath": "_m/c/2/8/t/eastsound-wk/view-mount-constitutio-small.webp",
+          "mediumPath": "_m/c/2/8/t/eastsound-wk/view-mount-constitutio-medium.webp"
         },
         {
           "path": "_m/c/2/8/t/eastsound-wk/photograph-southern-fa.jpg",
@@ -136,8 +138,8 @@
             "Self-published work",
             "Taken with Canon PowerShot A470"
           ],
-          "smallPath": "_m/c/2/8/t/eastsound-wk/photograph-southern-fa-small.jpg",
-          "mediumPath": "_m/c/2/8/t/eastsound-wk/photograph-southern-fa-medium.jpg"
+          "smallPath": "_m/c/2/8/t/eastsound-wk/photograph-southern-fa-small.webp",
+          "mediumPath": "_m/c/2/8/t/eastsound-wk/photograph-southern-fa-medium.webp"
         },
         {
           "path": "_m/c/2/8/t/eastsound-wk/orcas-island.jpg",
@@ -160,7 +162,7 @@
             "Flickr images reviewed by FlickreviewR 2",
             "State parks of Washington (state)"
           ],
-          "smallPath": "_m/c/2/8/t/eastsound-wk/orcas-island-small.jpg"
+          "smallPath": "_m/c/2/8/t/eastsound-wk/orcas-island-small.webp"
         },
         {
           "path": "_m/c/2/8/t/eastsound-wk/hero.jpg",
@@ -541,7 +543,8 @@
           "sourceGeohash4": "c28s",
           "accessedAt": "2026-02-22T02:03:52.904Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/8/t/eastsound-wk/c28t-eastsound-combined.mp3"
     }
   }
 }

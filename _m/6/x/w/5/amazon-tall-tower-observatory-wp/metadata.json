@@ -27,8 +27,8 @@
     "sourceType": "core",
     "sourceArticleId": "amazon-tall-tower-observatory-wp",
     "sourceGeohash4": "6xw5",
-    "smallPath": "_m/6/x/w/5/amazon-tall-tower-observatory-wp/hero-small.jpg",
-    "mediumPath": "_m/6/x/w/5/amazon-tall-tower-observatory-wp/hero-medium.jpg"
+    "smallPath": "_m/6/x/w/5/amazon-tall-tower-observatory-wp/hero-small.webp",
+    "mediumPath": "_m/6/x/w/5/amazon-tall-tower-observatory-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Amazon Tall Tower Observatory.jpg",
@@ -60,23 +60,21 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-02-21T20:13:22.659Z",
   "narration": {
     "files": [
-      "6xw5-amazon-tall-tower-observatory-a-german-brazilian-partnership.mp3",
-      "6xw5-amazon-tall-tower-observatory-building-in-the-wilderness.mp3",
       "6xw5-amazon-tall-tower-observatory-flight-context.mp3",
       "6xw5-amazon-tall-tower-observatory-intro.mp3",
+      "6xw5-amazon-tall-tower-observatory-a-german-brazilian-partnership.mp3",
+      "6xw5-amazon-tall-tower-observatory-building-in-the-wilderness.mp3",
       "6xw5-amazon-tall-tower-observatory-listening-to-the-forest.mp3"
     ],
     "durations": {
-      "6xw5-amazon-tall-tower-observatory-a-german-brazilian-partnership.mp3": 32.808,
-      "6xw5-amazon-tall-tower-observatory-building-in-the-wilderness.mp3": 36.024,
-      "6xw5-amazon-tall-tower-observatory-flight-context.mp3": 69.84,
-      "6xw5-amazon-tall-tower-observatory-intro.mp3": 36.288,
-      "6xw5-amazon-tall-tower-observatory-listening-to-the-forest.mp3": 40.08
+      "6xw5-amazon-tall-tower-observatory-flight-context.mp3": 34.0339583,
+      "6xw5-amazon-tall-tower-observatory-intro.mp3": 34.0998333,
+      "6xw5-amazon-tall-tower-observatory-a-german-brazilian-partnership.mp3": 33.388625,
+      "6xw5-amazon-tall-tower-observatory-building-in-the-wilderness.mp3": 36.9455,
+      "6xw5-amazon-tall-tower-observatory-listening-to-the-forest.mp3": 39.084375
     },
-    "voice": "unknown",
-    "generatedAt": "2026-01-24T16:07:55.880Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

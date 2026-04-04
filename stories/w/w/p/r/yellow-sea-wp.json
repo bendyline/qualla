@@ -1,0 +1,156 @@
+{
+  "id": "yellow-sea-wp",
+  "source": "wikipedia",
+  "sourceId": "50820",
+  "title": "Yellow Sea",
+  "slug": "yellow-sea",
+  "summary": "A shallow, silt-colored sea between China and Korea that is one of four seas named for a color and one of the most ecologically stressed bodies of water on Earth.",
+  "content": {
+    "intro": "Twice a year, for approximately one hour, you can walk across it. Between Jindo and Modo islands off the southern coast of Korea, tidal variations in the Yellow Sea open a land pass nearly three kilometers long and several meters wide, a phenomenon locals have celebrated for centuries but that remained virtually unknown to the outside world until 1975, when the French ambassador described it in a Parisian newspaper. The \"Jindo Sea Parting\" captures something essential about this body of water: the Yellow Sea is so shallow -- just 44 meters on average, with a maximum depth of only 152 meters -- that the boundary between land and sea is negotiable, seasonal, and sometimes temporary.",
+    "sections": [
+      {
+        "title": "Named for Its Burden",
+        "body": "The Yellow Sea is one of four seas named for a color, alongside the Black, Red, and White Seas. Its name is literal: the Yellow River and other major waterways dump so much silt into these waters that the sea turns golden-yellow, a color visible from orbit. Spanning approximately 380,000 square kilometers between mainland China and the Korean Peninsula, it is essentially a flooded section of continental shelf that emerged from the last ice age some 10,000 years ago as sea levels rose 120 meters. The Bohai Sea, its northwestern extension, receives the Yellow River, the Hai River flowing through Beijing and Tianjin, and the Liao River from Liaoning province. The Korea Bay to the northeast carries the Yalu, Chongchon, and Taedong Rivers. All of them deliver sediment. All of them contribute to the color."
+      },
+      {
+        "title": "The Flyway's Bottleneck",
+        "body": "The Yellow Sea's tidal mudflats are among the most important migratory bird habitats on Earth. A 10-kilometer belt of intertidal flats stretches along the entire western coast of Korea, covering 2,850 square kilometers of highly productive sediment rich in benthic life. Surveys have identified this area as the single most critical stopover for migratory birds on northward migration in the East Asian-Australasian Flyway, with more than 35 species occurring in internationally significant numbers and at least two million birds passing through annually. But the mudflats are disappearing. Land reclamation has destroyed more than 60 percent of the Yellow Sea's tidal wetlands in roughly fifty years. The Saemangeum estuary, which alone supported 300,000 migrating birds per year, was dammed by South Korea between 1991 and 2006, drying out what had been one of the flyway's richest feeding grounds."
+      },
+      {
+        "title": "Whales That Were",
+        "body": "The catalogue of what the Yellow Sea has lost reads like a natural history of abundance. Fin whales once maintained a resident population here. Gray whales were historically present. North Pacific right whales, humpback whales, Baird's beaked whales, and even blue whales once migrated through or bred in these shallow, productive waters. Japanese sea lions are now extinct. Dugongs that once inhabited the southern reaches are gone. Japanese industrial whaling and illegal Soviet operations -- conducted with Japanese logistical support -- drove many species to the edge of disappearance. What remains is diminished: spotted seals, the only resident seal species; minke whales; finless porpoises; and occasional sightings of larger cetaceans in numbers too small to sustain populations. Great white sharks still patrol the waters off Baengnyeongdo, hunting the seals, a predator-prey relationship that predates every human industry on these coasts."
+      },
+      {
+        "title": "250 People Per Square Kilometer",
+        "body": "The coasts of the Yellow Sea are among the most densely populated on Earth, averaging approximately 250 people per square kilometer. Major Chinese ports include Dalian, Tianjin, Yantai, Qingdao, and Qinhuangdao. South Korea's Incheon, Gunsan, and Mokpo line the eastern shore, while North Korea's Nampho serves as the outport for Pyongyang. Chinese fishing production from the sea nearly tripled between 1985 and 1996, from 619,000 to nearly two million tonnes, but every commercially harvested species is overfished. The total catch keeps rising even as fish populations decline -- a mathematical contradiction that cannot hold. Oil exploration has been successful in the Chinese and North Korean portions, with proven and estimated reserves of 9 and 20 billion tonnes respectively, though international cooperation on managing the sea's resources remains limited. The Yellow Sea is considered one of the most degraded marine environments on Earth, its ecology squeezed between the demands of three nations and the silt of a continent."
+      }
+    ],
+    "flightContext": "The Yellow Sea extends between mainland China and the Korean Peninsula, centered at approximately 35.00N, 123.00E. It is clearly visible from high altitude as a golden-brown body of water. Major ports visible along its coasts include Qingdao, Dalian, Tianjin, and Incheon. The sea is shallow throughout, with average depths of 44 meters. Weather can include strong winter monsoons and summer typhoons."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 35,
+      "lng": 123
+    },
+    "geohash": "wwprn"
+  },
+  "categories": [
+    "geography",
+    "ecology",
+    "maritime",
+    "environment"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 780,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 10562
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Yellow Sea - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yellow_Sea",
+      "accessedAt": "2026-03-18",
+      "claimsVerified": [
+        "380,000 sq km area confirmed",
+        "44 meter average depth confirmed",
+        "152 meter maximum depth confirmed",
+        "sea formed 10,000 years ago as sea levels rose 120 meters confirmed",
+        "2,850 sq km of intertidal mudflats confirmed",
+        "35 species in internationally significant numbers confirmed",
+        "two million birds annually confirmed",
+        "60% wetlands lost confirmed",
+        "Saemangeum estuary dammed 1991-2006 confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "w/w/p/r/yellow-sea-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "qianliyan-island-wp",
+      "title": "Qianliyan Island",
+      "tile": "wwqq",
+      "coordinates": {
+        "lat": 36.26810277777778,
+        "lng": 121.38548888888889
+      },
+      "distanceKm": 135.3
+    },
+    "n": {
+      "id": "sms-iltis-1878-wp",
+      "title": "SMS Iltis (1878)",
+      "tile": "wwx1",
+      "coordinates": {
+        "lat": 36.9,
+        "lng": 122.5
+      },
+      "distanceKm": 177.5
+    },
+    "ne": {
+      "id": "roks-cheonan-sinking-wp",
+      "title": "ROKS Cheonan Sinking",
+      "tile": "wy8x",
+      "coordinates": {
+        "lat": 37.92916667,
+        "lng": 124.60055556
+      },
+      "distanceKm": 308.1
+    },
+    "w": {
+      "id": "jianggezhuang-naval-base-wp",
+      "title": "Jianggezhuang Naval Base",
+      "tile": "wwmt",
+      "coordinates": {
+        "lat": 36.11027778,
+        "lng": 120.57861111
+      },
+      "distanceKm": 197.2
+    },
+    "e": {
+      "id": "jeju-air-flight-2216-wp",
+      "title": "Jeju Air Flight 2216",
+      "tile": "wy1y",
+      "coordinates": {
+        "lat": 34.97638888888889,
+        "lng": 126.38277777777778
+      },
+      "distanceKm": 271.9
+    },
+    "sw": {
+      "id": "north-jiangsu-main-irrigation-canal-wp",
+      "title": "North Jiangsu Main Irrigation Canal",
+      "tile": "wwjd",
+      "coordinates": {
+        "lat": 34.108,
+        "lng": 120.323
+      },
+      "distanceKm": 200.8
+    },
+    "s": {
+      "id": "lian-island-wp",
+      "title": "Lian Island",
+      "tile": "wwhv",
+      "coordinates": {
+        "lat": 34.7575,
+        "lng": 119.46388889
+      },
+      "distanceKm": 311.2
+    },
+    "se": {
+      "id": "sinking-of-mv-sewol-wp",
+      "title": "Sinking of MV Sewol",
+      "tile": "wy1d",
+      "coordinates": {
+        "lat": 34.239833,
+        "lng": 125.866361
+      },
+      "distanceKm": 234.7
+    }
+  }
+}

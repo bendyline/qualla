@@ -104,7 +104,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "sudbury-neutrino-observatory-wp",
       "sourceGeohash4": "f0q2",
-      "smallPath": "_m/f/0/q/2/sudbury-neutrino-observatory-wp/snoplus-anchor-possibility-small.png"
+      "smallPath": "_m/f/0/q/2/sudbury-neutrino-observatory-wp/snoplus-anchor-possibility-small.webp"
     },
     {
       "filename": "SNOLAB 2014-03-21.jpg",
@@ -129,8 +129,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "sudbury-neutrino-observatory-wp",
       "sourceGeohash4": "f0q2",
-      "mediumPath": "_m/f/0/q/2/sudbury-neutrino-observatory-wp/snolab-2014-03-21-medium.jpg",
-      "smallPath": "_m/f/0/q/2/sudbury-neutrino-observatory-wp/snolab-2014-03-21-small.jpg"
+      "mediumPath": "_m/f/0/q/2/sudbury-neutrino-observatory-wp/snolab-2014-03-21-medium.webp",
+      "smallPath": "_m/f/0/q/2/sudbury-neutrino-observatory-wp/snolab-2014-03-21-small.webp"
     },
     {
       "filename": "PICO 60 experiment outer vessel during assembly December 2015.png",
@@ -156,7 +156,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "sudbury-neutrino-observatory-wp",
       "sourceGeohash4": "f0q2",
-      "smallPath": "_m/f/0/q/2/sudbury-neutrino-observatory-wp/pico-60-experiment-outer-vesse-small.png"
+      "smallPath": "_m/f/0/q/2/sudbury-neutrino-observatory-wp/pico-60-experiment-outer-vesse-small.webp"
     }
   ],
   "galleryPaths": [
@@ -164,6 +164,26 @@
     "_m/f/0/q/2/sudbury-neutrino-observatory-wp/snolab-2014-03-21.jpg",
     "_m/f/0/q/2/sudbury-neutrino-observatory-wp/pico-60-experiment-outer-vesse.png"
   ],
-  "fetchedAt": "2026-02-28T11:26:13.082Z",
-  "updatedAt": "2026-02-28T11:26:18.054Z"
+  "updatedAt": "2026-02-28T11:26:18.054Z",
+  "narration": {
+    "files": [
+      "f0q2-sudbury-neutrino-observatory-flight-context.mp3",
+      "f0q2-sudbury-neutrino-observatory-intro.mp3",
+      "f0q2-sudbury-neutrino-observatory-the-missing-neutrinos.mp3",
+      "f0q2-sudbury-neutrino-observatory-heavy-water-and-deep-rock.mp3",
+      "f0q2-sudbury-neutrino-observatory-a-cathedral-of-light.mp3",
+      "f0q2-sudbury-neutrino-observatory-neutrinos-change-their-stripes.mp3",
+      "f0q2-sudbury-neutrino-observatory-nobel-recognition.mp3"
+    ],
+    "durations": {
+      "f0q2-sudbury-neutrino-observatory-flight-context.mp3": 58.76875,
+      "f0q2-sudbury-neutrino-observatory-intro.mp3": 54.369125,
+      "f0q2-sudbury-neutrino-observatory-the-missing-neutrinos.mp3": 47.338875,
+      "f0q2-sudbury-neutrino-observatory-heavy-water-and-deep-rock.mp3": 62.2150833,
+      "f0q2-sudbury-neutrino-observatory-a-cathedral-of-light.mp3": 50.4176666,
+      "f0q2-sudbury-neutrino-observatory-neutrinos-change-their-stripes.mp3": 55.0300833,
+      "f0q2-sudbury-neutrino-observatory-nobel-recognition.mp3": 51.7919583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

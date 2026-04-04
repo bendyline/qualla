@@ -93,14 +93,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "gobekli-tepe-wk",
-      "title": "Göbekli Tepe: The Temple Built Before Agriculture",
-      "tile": "syee",
+      "id": "dura-europos-church-wp",
+      "title": "Dura-Europos Church",
+      "tile": "syhv",
       "coordinates": {
-        "lat": 37.2233,
-        "lng": 38.9224
+        "lat": 34.745829,
+        "lng": 40.727958
       },
-      "distanceKm": 833.9
+      "distanceKm": 526.4
     },
     "n": {
       "id": "sumer-wp",
@@ -123,14 +123,14 @@
       "distanceKm": 107
     },
     "w": {
-      "id": "amman-wk",
-      "title": "Amman",
-      "tile": "sv9t",
+      "id": "armenian-genocide-memorial-church-der-zor-wp",
+      "title": "Armenian Genocide Memorial Church, Der Zor",
+      "tile": "syk8",
       "coordinates": {
-        "lat": 31.9454,
-        "lng": 35.9284
+        "lat": 35.2019,
+        "lng": 40.083
       },
-      "distanceKm": 860.7
+      "distanceKm": 624.1
     },
     "e": {
       "id": "lagash-wp",
@@ -143,14 +143,14 @@
       "distanceKm": 33.7
     },
     "sw": {
-      "id": "great-sphinx-wk",
-      "title": "The Great Sphinx: The Face That Has Been Staring at the Sunrise for 4,500 Years",
-      "tile": "stq4",
+      "id": "little-petra-wp",
+      "title": "Little Petra",
+      "tile": "sv3h",
       "coordinates": {
-        "lat": 29.9753,
-        "lng": 31.1376
+        "lat": 30.37527847,
+        "lng": 35.45138931
       },
-      "distanceKm": 1332.7
+      "distanceKm": 915.9
     },
     "s": {
       "id": "eridu-wp",
@@ -172,5 +172,6 @@
       },
       "distanceKm": 17.5
     }
-  }
+  },
+  "locationWikipediaPath": "t/j/8/6/uruk-wp"
 }

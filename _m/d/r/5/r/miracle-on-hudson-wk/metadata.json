@@ -27,7 +27,7 @@
     "sourceType": "core",
     "sourceArticleId": "miracle-on-hudson-wk",
     "sourceGeohash4": "dr5r",
-    "smallPath": "_m/d/r/5/r/miracle-on-hudson-wk/hero-small.jpg"
+    "smallPath": "_m/d/r/5/r/miracle-on-hudson-wk/hero-small.webp"
   },
   "thumbnail": {
     "filename": "PiperSaragtogaIITC.jpg",
@@ -106,7 +106,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "miracle-on-hudson-wk",
-      "sourceGeohash4": "dr5r"
+      "sourceGeohash4": "dr5r",
+      "smallPath": "_m/d/r/5/r/miracle-on-hudson-wk/hudsoncollision2-small.webp"
     },
     {
       "filename": "U.S. Army Corps of Engineers supports local, state and federal agencies following tragic mid-air collision over the Hudson River (3808311478).jpg",
@@ -131,7 +132,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "miracle-on-hudson-wk",
-      "sourceGeohash4": "dr5r"
+      "sourceGeohash4": "dr5r",
+      "mediumPath": "_m/d/r/5/r/miracle-on-hudson-wk/u-s-army-corps-of-engineers-su-medium.webp",
+      "smallPath": "_m/d/r/5/r/miracle-on-hudson-wk/u-s-army-corps-of-engineers-su-small.webp"
     },
     {
       "filename": "NYPD scuba divers deploy from the P.O. Anthony Sanchez, on the Hudson River (3808311478) (cropped).jpg",
@@ -154,7 +157,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "miracle-on-hudson-wk",
-      "sourceGeohash4": "dr5r"
+      "sourceGeohash4": "dr5r",
+      "smallPath": "_m/d/r/5/r/miracle-on-hudson-wk/nypd-scuba-divers-deploy-from--small.webp"
     }
   ],
   "galleryPaths": [
@@ -163,7 +167,6 @@
     "_m/d/r/5/r/miracle-on-hudson-wk/u-s-army-corps-of-engineers-su.jpg",
     "_m/d/r/5/r/miracle-on-hudson-wk/nypd-scuba-divers-deploy-from-.jpg"
   ],
-  "fetchedAt": "2026-02-22T12:24:59.021Z",
   "updatedAt": "2026-02-22T12:24:59.893Z",
   "narration": {
     "files": [
@@ -184,7 +187,6 @@
       "dr5r-the-miracle-on-the-hudson-when-a-pilot-landed-a-pl-the-rescue.mp3": 40.4396666,
       "dr5r-the-miracle-on-the-hudson-when-a-pilot-landed-a-pl-the-captain.mp3": 42.5665
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-25T07:20:04.960Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

@@ -1,0 +1,157 @@
+{
+  "id": "fort-lawton-air-force-station-wp",
+  "source": "wikipedia",
+  "sourceId": "30667563",
+  "title": "Fort Lawton Air Force Station",
+  "slug": "fort-lawton-air-force-station",
+  "summary": "A Cold War radar outpost in Seattle's Magnolia neighborhood that watched the skies for hostile aircraft, now quietly serving the FAA as part of the Joint Surveillance System.",
+  "content": {
+    "intro": "On April 1, 1960, a cluster of radar antennas on a bluff in Seattle's Magnolia neighborhood went live, scanning the skies over Puget Sound for Soviet bombers that everyone hoped would never come. Fort Lawton Air Force Station was not glamorous. It had no runways, no fighters on alert, no missiles ready to launch. What it had were rotating dishes and the men who watched them around the clock, feeding data into the vast electronic brain of Cold War air defense. The station's designation, RP-1, marked it as the replacement for radar units previously scattered across the Seattle area, consolidated here as defense budgets tightened and the military learned to do more with less.",
+    "sections": [
+      {
+        "title": "Eyes Over the Sound",
+        "body": "The station operated as a joint Army-Air Force facility, an unusual arrangement born of necessity. The Air Force's 635th Aircraft Control and Warning Squadron ran search and height-finder radars alongside Army controllers who managed Nike missile command-and-control from the same hilltop. An FAA ARSR-1C search radar swept the horizon while two Air Force AN/FPS-6A height-finder radars pinpointed aircraft altitude. The Army maintained its own pair of height-finders as well. Together, these systems fed data to the Semi Automatic Ground Environment, or SAGE, a pioneering computer network that processed radar returns from stations across the region at a direction center at McChord Air Force Base. The radar squadron provided information twenty-four hours a day, seven days a week, analyzing every blip to determine whether approaching aircraft were friendly or hostile."
+      },
+      {
+        "title": "A Brief Watch",
+        "body": "Fort Lawton's tenure as an active Air Force station lasted barely three years. By late 1962, an AN/FPS-26 height-finder radar had been installed, but the Air Force was already pulling back. On December 31, 1962, the 635th Radar Squadron transferred to Dauphin Island in Alabama, though a small detachment lingered at Fort Lawton until March 1963. The Army kept its air defense command post running for another decade, operating the BIRDIE solid-state computer system that had replaced the older Missile-Master Nike direction center. Units rotated through: the 26th Artillery Group, the 49th Artillery Group, battalions of the 4th Air Defense Artillery Regiment. When the Army finally inactivated its command post on September 1, 1974, the station's military chapter closed for good."
+      },
+      {
+        "title": "The Radar That Stayed",
+        "body": "Walk through Discovery Park today, past the old fort's historic buildings and through the meadows overlooking Puget Sound, and you might notice something unexpected: a radar installation still operating on the bluff. The FAA never left. The agency's search radar, now an upgraded ARSR-1E, continues to track aircraft as part of the Joint Surveillance System, a partnership between the FAA and the military that monitors North American airspace. In a neighborhood known for its walking trails and views of the Olympic Mountains, this quiet installation is a working relic of the Cold War defense network. Most of the joggers and dog walkers passing nearby have no idea that the dish above them is still doing exactly what it was built to do more than six decades ago."
+      }
+    ],
+    "flightContext": "Located at 47.66N, 122.41W in Seattle's Magnolia neighborhood, within Discovery Park. The FAA radar installation is visible as a dish antenna on the bluff overlooking Puget Sound. Nearest airport is Boeing Field/King County International (KBFI), approximately 8 nm southeast. Seattle-Tacoma International (KSEA) is 12 nm south. Best viewed from altitudes of 2,000-4,000 ft AGL approaching from over Puget Sound."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 47.6575,
+      "lng": -122.41305556
+    },
+    "geohash": "c22zn"
+  },
+  "categories": [
+    "military",
+    "cold-war",
+    "radar",
+    "aviation-history"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-21T00:00:00Z",
+    "wordCount": 620,
+    "readTime": 3,
+    "firstPublished": "2026-03-21T00:00:00Z",
+    "storyNumber": 10847
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Fort Lawton - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fort_Lawton",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "Station activated April 1, 1960",
+        "635th Aircraft Control and Warning Squadron operated the station",
+        "SAGE computer network at McChord Air Force Base",
+        "Station closed December 31, 1962 with transfer of 635th to Dauphin Island Alabama"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Joint Surveillance System - FAA",
+      "url": "https://en.wikipedia.org/wiki/Joint_Surveillance_System",
+      "accessedAt": "2026-03-27",
+      "claimsVerified": [
+        "FAA radar continues to operate at the site as part of Joint Surveillance System",
+        "Radar upgraded from ARSR-1C to ARSR-1E"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "c/2/2/z/fort-lawton-air-force-station-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "victoria-city-wk",
+      "title": "Victoria: The British Columbia Capital More British Than Britain",
+      "tile": "c287",
+      "coordinates": {
+        "lat": 48.4284,
+        "lng": -123.3656
+      },
+      "distanceKm": 54.3
+    },
+    "n": {
+      "id": "double-bluff-beach-wp",
+      "title": "Double Bluff Beach",
+      "tile": "c28c",
+      "coordinates": {
+        "lat": 47.9985,
+        "lng": -122.505
+      },
+      "distanceKm": 1.6
+    },
+    "ne": {
+      "id": "mount-baker-wk",
+      "title": "Mount Baker",
+      "tile": "c29m",
+      "coordinates": {
+        "lat": 48.777,
+        "lng": -121.813
+      },
+      "distanceKm": 88.7
+    },
+    "w": {
+      "id": "hurricane-ridge-wp",
+      "title": "Hurricane Ridge",
+      "tile": "c282",
+      "coordinates": {
+        "lat": 47.924456,
+        "lng": -123.3519333
+      },
+      "distanceKm": 31.8
+    },
+    "e": {
+      "id": "snoqualmie-valley-wk",
+      "title": "Snoqualmie Valley",
+      "tile": "c23r",
+      "coordinates": {
+        "lat": 47.67677,
+        "lng": -121.93854
+      },
+      "distanceKm": 6.7
+    },
+    "sw": {
+      "id": "quinault-national-fish-hatchery-wp",
+      "title": "Quinault National Fish Hatchery",
+      "tile": "c0rv",
+      "coordinates": {
+        "lat": 47.356666666667,
+        "lng": -123.99138888889
+      },
+      "distanceKm": 72
+    },
+    "s": {
+      "id": "vashon-island-wk",
+      "title": "Vashon Island",
+      "tile": "c22v",
+      "coordinates": {
+        "lat": 47.4161,
+        "lng": -122.468
+      },
+      "distanceKm": 6.3
+    },
+    "se": {
+      "id": "naches-trail-wp",
+      "title": "Naches Trail",
+      "tile": "c23e",
+      "coordinates": {
+        "lat": 47.10419,
+        "lng": -121.46894
+      },
+      "distanceKm": 56
+    }
+  }
+}

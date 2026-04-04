@@ -86,14 +86,14 @@
       "distanceKm": 578.8
     },
     "n": {
-      "id": "torpedo-alley-wp",
-      "title": "Torpedo Alley",
-      "tile": "dq6d",
+      "id": "steamship-pulaski-disaster-wp",
+      "title": "Steamship Pulaski Disaster",
+      "tile": "dq6g",
       "coordinates": {
-        "lat": 35.583333333333336,
-        "lng": -75.1
+        "lat": 35.73,
+        "lng": -74.755
       },
-      "distanceKm": 1025.4
+      "distanceKm": 999.9
     },
     "ne": {
       "id": "halifax-explosion-wk",
@@ -106,14 +106,14 @@
       "distanceKm": 1329.6
     },
     "w": {
-      "id": "steamship-pulaski-disaster-wp",
-      "title": "Steamship Pulaski Disaster",
-      "tile": "dq6g",
+      "id": "1916-charleston-hurricane-wp",
+      "title": "1916 Charleston Hurricane",
+      "tile": "dku3",
       "coordinates": {
-        "lat": 35.73,
-        "lng": -74.755
+        "lat": 27,
+        "lng": -72.5
       },
-      "distanceKm": 966.5
+      "distanceKm": 939.7
     },
     "e": {
       "id": "halifax-city-wk",
@@ -126,34 +126,34 @@
       "distanceKm": 1358.9
     },
     "sw": {
-      "id": "bermuda-triangle-mystery-wk",
-      "title": "Bermuda Triangle: The Mystery That Wasn't There",
-      "tile": "dkmw",
+      "id": "german-submarine-u-84-1941-wp",
+      "title": "German Submarine U-84",
+      "tile": "dkzs",
       "coordinates": {
-        "lat": 25,
-        "lng": -71
+        "lat": 27.55,
+        "lng": -68.03
       },
-      "distanceKm": 986.5
+      "distanceKm": 588.9
     },
     "s": {
-      "id": "bermuda-triangle-wk",
-      "title": "The Bermuda Triangle: Where Ships and Planes Vanish",
-      "tile": "dkmw",
+      "id": "gemini-12-wp",
+      "title": "Gemini 12",
+      "tile": "dkq7",
       "coordinates": {
-        "lat": 25,
-        "lng": -71
+        "lat": 24.583333333333332,
+        "lng": -69.95
       },
-      "distanceKm": 1017.6
+      "distanceKm": 996.8
     },
     "se": {
-      "id": "mt-pelee-wk",
-      "title": "The Eruption of Mount Pelée: 30,000 Dead in Two Minutes",
-      "tile": "dds7",
+      "id": "uss-iowa-turret-explosion-wp",
+      "title": "USS Iowa Turret Explosion",
+      "tile": "deg6",
       "coordinates": {
-        "lat": 14.7402,
-        "lng": -61.1779
+        "lat": 21.54,
+        "lng": -62.84
       },
-      "distanceKm": 1958.7
+      "distanceKm": 1187.2
     }
   },
   "keywords": [

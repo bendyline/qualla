@@ -35,8 +35,8 @@
     "sourceType": "core",
     "sourceArticleId": "isle-brevelle-wp",
     "sourceGeohash4": "9vtu",
-    "smallPath": "_m/9/v/t/u/isle-brevelle-wp/hero-small.jpg",
-    "mediumPath": "_m/9/v/t/u/isle-brevelle-wp/hero-medium.jpg"
+    "smallPath": "_m/9/v/t/u/isle-brevelle-wp/hero-small.webp",
+    "mediumPath": "_m/9/v/t/u/isle-brevelle-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Badin-Roque House.jpg",
@@ -104,8 +104,8 @@
       "sourceType": "core",
       "sourceArticleId": "isle-brevelle-wp",
       "sourceGeohash4": "9vtu",
-      "smallPath": "_m/9/v/t/u/isle-brevelle-wp/melrose-plantation-small.jpg",
-      "mediumPath": "_m/9/v/t/u/isle-brevelle-wp/melrose-plantation-medium.jpg"
+      "smallPath": "_m/9/v/t/u/isle-brevelle-wp/melrose-plantation-small.webp",
+      "mediumPath": "_m/9/v/t/u/isle-brevelle-wp/melrose-plantation-medium.webp"
     },
     {
       "filename": "Church of St. Anne (1 of 1).jpg",
@@ -132,15 +132,14 @@
       "sourceType": "core",
       "sourceArticleId": "isle-brevelle-wp",
       "sourceGeohash4": "9vtu",
-      "smallPath": "_m/9/v/t/u/isle-brevelle-wp/church-st-anne-allen-l-small.jpg",
-      "mediumPath": "_m/9/v/t/u/isle-brevelle-wp/church-st-anne-allen-l-medium.jpg"
+      "smallPath": "_m/9/v/t/u/isle-brevelle-wp/church-st-anne-allen-l-small.webp",
+      "mediumPath": "_m/9/v/t/u/isle-brevelle-wp/church-st-anne-allen-l-medium.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/v/t/u/isle-brevelle-wp/melrose-plantation.jpg",
     "_m/9/v/t/u/isle-brevelle-wp/church-st-anne-allen-l.jpg"
   ],
-  "fetchedAt": "2026-02-21T23:21:26.895Z",
   "narration": {
     "files": [
       "9vtu-isle-brevelle-flight-context.mp3",
@@ -160,7 +159,6 @@
       "9vtu-isle-brevelle-hollywood-on-the-bayou.mp3": 64.2915416,
       "9vtu-isle-brevelle-where-the-cultures-rest-together.mp3": 74.145
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T11:43:34.794Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

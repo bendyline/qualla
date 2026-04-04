@@ -30,7 +30,7 @@
     "sourceType": "core",
     "sourceArticleId": "grand-forks-air-force-base-wp",
     "sourceGeohash4": "cbd8",
-    "smallPath": "_m/c/b/d/8/grand-forks-air-force-base-wp/hero-small.jpg"
+    "smallPath": "_m/c/b/d/8/grand-forks-air-force-base-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "GFAFBMissile.jpg",
@@ -109,7 +109,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "grand-forks-air-force-base-wp",
-      "sourceGeohash4": "cbd8"
+      "sourceGeohash4": "cbd8",
+      "smallPath": "_m/c/b/d/8/grand-forks-air-force-base-wp/grand-forks-afb-nd-17-sep-1997-small.webp"
     },
     {
       "filename": "Dessert fridge (15526106174).jpg",
@@ -125,7 +126,9 @@
       "dateCreated": "2014-03-20 12:03",
       "sourceType": "commons-category",
       "sourceArticleId": "grand-forks-air-force-base-wp",
-      "sourceGeohash4": "cbd8"
+      "sourceGeohash4": "cbd8",
+      "mediumPath": "_m/c/b/d/8/grand-forks-air-force-base-wp/dessert-fridge-15526106174-medium.webp",
+      "smallPath": "_m/c/b/d/8/grand-forks-air-force-base-wp/dessert-fridge-15526106174-small.webp"
     },
     {
       "filename": "AIRMAN 1ST Class Michael Badeaux flees the scene on foot as a UM1 descends over several camouflaged airman. Badeaux was the first on the scene to radio back to base that he was rece - DPLA - 86b9c515240af23f0e58b93411f38637.jpeg",
@@ -141,7 +144,9 @@
       "dateCreated": "17 May 1994<div style=\"display: none;\">date QS:P571,+1994-05-17T00:00:00Z/11</div>",
       "sourceType": "commons-category",
       "sourceArticleId": "grand-forks-air-force-base-wp",
-      "sourceGeohash4": "cbd8"
+      "sourceGeohash4": "cbd8",
+      "mediumPath": "_m/c/b/d/8/grand-forks-air-force-base-wp/airman-1st-class-michael-badea-medium.webp",
+      "smallPath": "_m/c/b/d/8/grand-forks-air-force-base-wp/airman-1st-class-michael-badea-small.webp"
     }
   ],
   "galleryPaths": [
@@ -150,7 +155,6 @@
     "_m/c/b/d/8/grand-forks-air-force-base-wp/dessert-fridge-15526106174.jpg",
     "_m/c/b/d/8/grand-forks-air-force-base-wp/airman-1st-class-michael-badea.jpg"
   ],
-  "fetchedAt": "2026-02-22T02:45:56.404Z",
   "narration": {
     "files": [
       "cbd8-grand-forks-air-force-base-flight-context.mp3",
@@ -170,8 +174,7 @@
       "cbd8-grand-forks-air-force-base-bombers-b-1s-and-a-ramp-explosion.mp3": 66.833375,
       "cbd8-grand-forks-air-force-base-eyes-without-pilots.mp3": 53.0795833
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T07:19:08.082Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T02:46:00.065Z"
 }

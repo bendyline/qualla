@@ -100,22 +100,22 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "oslo-wk",
-      "title": "Oslo",
-      "tile": "u4xs",
+      "id": "battle-of-lundby-wp",
+      "title": "Battle of Lundby",
+      "tile": "u4ph",
       "coordinates": {
-        "lat": 59.9139,
-        "lng": 10.7522
+        "lat": 56.966,
+        "lng": 10.007
       },
-      "distanceKm": 369.5
+      "distanceKm": 85.9
     },
     "n": {
-      "id": "gothenburg-archipelago-wp",
-      "title": "Gothenburg Archipelago",
-      "tile": "u60r",
+      "id": "voergaard-castle-wp",
+      "title": "Voergaard Castle",
+      "tile": "u4pm",
       "coordinates": {
-        "lat": 57.61666666666667,
-        "lng": 11.783333333333333
+        "lat": 57.2425,
+        "lng": 10.3354
       },
       "distanceKm": 112.9
     },
@@ -130,14 +130,14 @@
       "distanceKm": 35.5
     },
     "w": {
-      "id": "zuiderzee-museum-wp",
-      "title": "Zuiderzee Museum",
-      "tile": "u17g",
+      "id": "rosenholm-castle-wp",
+      "title": "Rosenholm Castle",
+      "tile": "u4p2",
       "coordinates": {
-        "lat": 52.70666666666667,
-        "lng": 5.300277777777778
+        "lat": 56.3333,
+        "lng": 10.3308
       },
-      "distanceKm": 556.8
+      "distanceKm": 56.7
     },
     "e": {
       "id": "kullen-lighthouse-wp",
@@ -182,5 +182,6 @@
   },
   "keywords": [
     "2024-baltic-sea-submarine-cable-disruptions"
-  ]
+  ],
+  "locationWikipediaPath": "u/6/0/2/2024-baltic-sea-submarine-cable-disruptions-wp"
 }

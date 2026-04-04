@@ -3,12 +3,12 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/c/2/2/z/bainbridge-island-wk/c22z-bainbridge-island-intro.mp3",
         "_m/c/2/2/z/bainbridge-island-wk/c22z-bainbridge-island-flight-context.mp3",
+        "_m/c/2/2/z/bainbridge-island-wk/c22z-bainbridge-island-intro.mp3",
         "_m/c/2/2/z/bainbridge-island-wk/c22z-bainbridge-island-the-ferry-commute.mp3",
-        "_m/c/2/2/z/bainbridge-island-wk/c22z-bainbridge-island-the-weight-of-history.mp3",
+        "_m/c/2/2/z/bainbridge-island-wk/c22z-bainbridge-island-winslow-and-beyond.mp3",
         "_m/c/2/2/z/bainbridge-island-wk/c22z-bainbridge-island-water-on-all-sides.mp3",
-        "_m/c/2/2/z/bainbridge-island-wk/c22z-bainbridge-island-winslow-and-beyond.mp3"
+        "_m/c/2/2/z/bainbridge-island-wk/c22z-bainbridge-island-the-weight-of-history.mp3"
       ],
       "hero": {
         "path": "_m/tpc/ba/in/br/id/bainbridge-island/bainbridge-island-aerial-from-.jpg",
@@ -30,7 +30,9 @@
           "CC-BY-SA-4.0",
           "Files with coordinates missing SDC location of creation",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/c/2/2/z/bainbridge-island-wk/hero-medium.webp",
+        "smallPath": "_m/c/2/2/z/bainbridge-island-wk/hero-small.webp"
       },
       "images": [
         {
@@ -80,8 +82,8 @@
             "Self-published work",
             "Taken with Nikon D5000"
           ],
-          "smallPath": "_m/c/2/2/z/bainbridge-island-wk/walkway-woods-bloedel-small.jpg",
-          "mediumPath": "_m/c/2/2/z/bainbridge-island-wk/walkway-woods-bloedel-medium.jpg"
+          "smallPath": "_m/c/2/2/z/bainbridge-island-wk/walkway-woods-bloedel-small.webp",
+          "mediumPath": "_m/c/2/2/z/bainbridge-island-wk/walkway-woods-bloedel-medium.webp"
         },
         {
           "path": "_m/c/2/2/z/bainbridge-island-wk/bloedel-house-now-visi.jpg",
@@ -109,8 +111,8 @@
             "Taken with Nikon D5000",
             "Visitor centers in Washington (state)"
           ],
-          "smallPath": "_m/c/2/2/z/bainbridge-island-wk/bloedel-house-now-visi-small.jpg",
-          "mediumPath": "_m/c/2/2/z/bainbridge-island-wk/bloedel-house-now-visi-medium.jpg"
+          "smallPath": "_m/c/2/2/z/bainbridge-island-wk/bloedel-house-now-visi-small.webp",
+          "mediumPath": "_m/c/2/2/z/bainbridge-island-wk/bloedel-house-now-visi-medium.webp"
         },
         {
           "path": "_m/c/2/2/z/bainbridge-island-wk/kitsap-transit-bus-bre.jpg",
@@ -138,8 +140,8 @@
             "Self-published work",
             "Taken with Nikon D40"
           ],
-          "smallPath": "_m/c/2/2/z/bainbridge-island-wk/kitsap-transit-bus-bre-small.jpg",
-          "mediumPath": "_m/c/2/2/z/bainbridge-island-wk/kitsap-transit-bus-bre-medium.jpg"
+          "smallPath": "_m/c/2/2/z/bainbridge-island-wk/kitsap-transit-bus-bre-small.webp",
+          "mediumPath": "_m/c/2/2/z/bainbridge-island-wk/kitsap-transit-bus-bre-medium.webp"
         },
         {
           "path": "_m/c/2/2/z/bainbridge-island-wk/fay-bainbridge-park-wa.jpg",
@@ -164,8 +166,8 @@
             "Self-published work",
             "Taken with Panasonic Lumix DMC-S3"
           ],
-          "smallPath": "_m/c/2/2/z/bainbridge-island-wk/fay-bainbridge-park-wa-small.jpg",
-          "mediumPath": "_m/c/2/2/z/bainbridge-island-wk/fay-bainbridge-park-wa-medium.jpg"
+          "smallPath": "_m/c/2/2/z/bainbridge-island-wk/fay-bainbridge-park-wa-small.webp",
+          "mediumPath": "_m/c/2/2/z/bainbridge-island-wk/fay-bainbridge-park-wa-medium.webp"
         },
         {
           "path": "_m/c/2/2/z/bainbridge-island-wk/bicyclists-wait-seattl.jpg",
@@ -189,7 +191,7 @@
             "Flickr images reviewed by FlickreviewR",
             "Taken with LG enV3 VX9200"
           ],
-          "smallPath": "_m/c/2/2/z/bainbridge-island-wk/bicyclists-wait-seattl-small.jpg"
+          "smallPath": "_m/c/2/2/z/bainbridge-island-wk/bicyclists-wait-seattl-small.webp"
         },
         {
           "path": "_m/c/2/2/z/bainbridge-island-wk/bainbridge-island-wash.jpg",
@@ -210,8 +212,8 @@
             "Bainbridge Island, Washington",
             "Files by Wikivoyage user PerryPlanet"
           ],
-          "smallPath": "_m/c/2/2/z/bainbridge-island-wk/bainbridge-island-wash-small.jpg",
-          "mediumPath": "_m/c/2/2/z/bainbridge-island-wk/bainbridge-island-wash-medium.jpg"
+          "smallPath": "_m/c/2/2/z/bainbridge-island-wk/bainbridge-island-wash-small.webp",
+          "mediumPath": "_m/c/2/2/z/bainbridge-island-wk/bainbridge-island-wash-medium.webp"
         },
         {
           "path": "_m/c/2/2/z/bainbridge-island-wk/cedar-story-wall-bainb.jpg",
@@ -228,8 +230,8 @@
           "sourceArticleId": "bainbridge-island-wk",
           "sourceGeohash4": "c22z",
           "accessedAt": "2026-02-22T01:55:39.431Z",
-          "smallPath": "_m/c/2/2/z/bainbridge-island-wk/cedar-story-wall-bainb-small.jpg",
-          "mediumPath": "_m/c/2/2/z/bainbridge-island-wk/cedar-story-wall-bainb-medium.jpg"
+          "smallPath": "_m/c/2/2/z/bainbridge-island-wk/cedar-story-wall-bainb-small.webp",
+          "mediumPath": "_m/c/2/2/z/bainbridge-island-wk/cedar-story-wall-bainb-medium.webp"
         },
         {
           "path": "_m/c/2/2/z/bainbridge-island-wk/related-sibling-ferry-mv-wenatchee-and-mount-p.jpg",
@@ -262,8 +264,8 @@
           "sourceArticleId": "bainbridge-island-wk",
           "sourceGeohash4": "c22z",
           "accessedAt": "2026-02-22T01:55:39.431Z",
-          "smallPath": "_m/c/2/2/z/bainbridge-island-wk/clallam-transit-bus-st-small.jpg",
-          "mediumPath": "_m/c/2/2/z/bainbridge-island-wk/clallam-transit-bus-st-medium.jpg"
+          "smallPath": "_m/c/2/2/z/bainbridge-island-wk/clallam-transit-bus-st-small.webp",
+          "mediumPath": "_m/c/2/2/z/bainbridge-island-wk/clallam-transit-bus-st-medium.webp"
         },
         {
           "path": "_m/c/2/2/w/kitsap-peninsula-wp/aerial-view-of-bainbridge-isla.jpg",
@@ -1553,7 +1555,8 @@
           "sourceGeohash4": "c289",
           "accessedAt": "2026-02-22T01:55:39.431Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/2/z/bainbridge-island-wk/c22z-bainbridge-island-combined.mp3"
     }
   }
 }

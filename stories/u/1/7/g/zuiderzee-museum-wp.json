@@ -90,34 +90,34 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "pennine-way-wk",
-      "title": "Pennine Way",
-      "tile": "gcqx",
+      "id": "lincoln-cathedral-wp",
+      "title": "Lincoln Cathedral",
+      "tile": "gcrw",
       "coordinates": {
-        "lat": 53.3706,
-        "lng": -1.8168
+        "lat": 53.2345,
+        "lng": -0.5351
       },
-      "distanceKm": 452.2
+      "distanceKm": 366.3
     },
     "n": {
-      "id": "2024-baltic-sea-submarine-cable-disruptions-wp",
-      "title": "2024 Baltic Sea Submarine Cable Disruptions",
-      "tile": "u602",
+      "id": "lincoln-castle-wp",
+      "title": "Lincoln Castle",
+      "tile": "gcrw",
       "coordinates": {
-        "lat": 56.41165,
-        "lng": 11.653553
+        "lat": 53.2349,
+        "lng": -0.5409
       },
-      "distanceKm": 557.1
+      "distanceKm": 401.7
     },
     "ne": {
-      "id": "copenhagen-wk",
-      "title": "Copenhagen",
-      "tile": "u3bu",
+      "id": "tvindkraft-wind-turbine-wp",
+      "title": "Tvindkraft Wind Turbine",
+      "tile": "u4jb",
       "coordinates": {
-        "lat": 55.6761,
-        "lng": 12.5683
+        "lat": 56.256,
+        "lng": 8.28001
       },
-      "distanceKm": 526.5
+      "distanceKm": 400.5
     },
     "w": {
       "id": "anne-frank-house-wp",
@@ -130,14 +130,14 @@
       "distanceKm": 30.3
     },
     "e": {
-      "id": "zwingenberg-castle-wp",
-      "title": "Zwingenberg Castle",
-      "tile": "u0y3",
+      "id": "fort-jeanne-d-arc-wp",
+      "title": "Fort Jeanne d'Arc",
+      "tile": "u0sr",
       "coordinates": {
-        "lat": 49.42194,
-        "lng": 9.03333
+        "lat": 49.1168,
+        "lng": 6.06701
       },
-      "distanceKm": 417.3
+      "distanceKm": 392.5
     },
     "sw": {
       "id": "portuguese-synagogue-amsterdam-wp",
@@ -172,5 +172,6 @@
   },
   "keywords": [
     "zuiderzee-museum"
-  ]
+  ],
+  "locationWikipediaPath": "u/1/7/g/zuiderzee-museum-wp"
 }

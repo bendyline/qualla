@@ -1,0 +1,157 @@
+{
+  "id": "peel-castle-wp",
+  "source": "wikipedia",
+  "sourceId": "685737",
+  "title": "Peel Castle",
+  "slug": "peel-castle",
+  "summary": "A Norse fortress, a ruined cathedral, a Viking woman's grave, and the ghost of a black dog -- all on a tidal island connected to an Isle of Man fishing town by a single causeway.",
+  "content": {
+    "intro": "In 1982, archaeologists began excavating inside Peel Castle's walls; by 1984 they had uncovered the grave of a woman buried with a Norse necklace of amber, jet, and glass beads -- a burial dated to around 950 AD. They called her the Pagan Lady. She had been interred on a tidal island off the west coast of the Isle of Man, within what was already an ancient site -- a Celtic monastery that Norse invaders had converted into a fortress, and which would later become a cathedral, a prison, and eventually one of the most atmospheric ruins in the Irish Sea. Her necklace now sits in the Manx Museum, but her island still holds more layers of history than most people could absorb in a single visit.",
+    "sections": [
+      {
+        "title": "From Monks to Norse Kings",
+        "body": "St Patrick's Isle was a place of worship long before the Norwegians arrived. Celtic monks built a monastery here, including the distinctive round tower that still stands among the ruins -- an architectural form shared with similar towers across Ireland. When King Magnus Barefoot's Norwegians came in the 11th century, they built their first fortifications from wood, layering military power over the existing sacred site. The round tower gained battlements. By the early 14th century, the castle's walls and towers were rebuilt in the local red sandstone that gives the ruins their warm, weathered colour. The castle served as the seat of the diocese of Sodor and Man, an ecclesiastical territory that once stretched across the Hebrides."
+      },
+      {
+        "title": "The Cathedral That Lost Its Roof",
+        "body": "Within the castle walls stand the remains of the Cathedral of St German, roofless and open to the Manx sky. A barrel-vaulted crypt lies beneath the chancel, measuring roughly 10 by 5 metres, its low ceiling sloping toward the east entrance. Bishop Rutter was interred in the transept in 1661, and a cemetery occupies what was once the nave -- the dead lying in the footprint of the church that served them. Robert Anderson surveyed the ruins in 1877 and recommended repairs, but nothing was done. In 1980, the parish officially transferred to a newer cathedral on Albany Road in Peel, and St German's passed fully into the custody of memory."
+      },
+      {
+        "title": "The Moddey Dhoo and Other Legends",
+        "body": "Peel Castle's most famous resident never lived there in any conventional sense. The Moddey Dhoo -- Manx for 'Black Dog' -- is a spectral hound said to haunt the castle's passages. The legend has inspired writers from Walter Scott to Stephen King, and the castle itself has been proposed as a possible location for the Arthurian Avalon. William Wordsworth visited Peel and wrote about the Isle of Man, though his poem about a castle called 'Peele' actually describes Piel Castle across the Irish Sea in Cumbria -- a confusion that has persisted for centuries. Less mystical but equally real, the castle appears on the Isle of Man's ten-pound banknote, a quiet recognition of its centrality to Manx identity."
+      },
+      {
+        "title": "Red Sandstone and Sea Air",
+        "body": "Connected to the town of Peel by a causeway, St Patrick's Isle is a place you can walk to at any tide, though the castle feels more isolated than its proximity to shore suggests. The red sandstone walls, softened by centuries of salt wind, frame views across Peel's harbour to the Irish Sea beyond. Excavations between 1982 and 1987 revealed not only the Pagan Lady's grave but the remains of Magnus Barefoot's original wooden fort and an extensive Viking-age graveyard. Now maintained by Manx National Heritage, Peel Castle is open to visitors during the summer months -- a place where you can stand inside a roofless cathedral, walk above a Norse king's foundations, and look out at the same sea that brought monks, invaders, and legends to this small island."
+      }
+    ],
+    "flightContext": "Peel Castle sits at 54.23N, 4.70W on St Patrick's Isle, connected by causeway to the town of Peel on the Isle of Man's west coast. The red sandstone ruins are clearly visible from low altitude, sitting on a rocky promontory at the harbour entrance. Nearest airport: Isle of Man (Ronaldsway, EGNS, 12nm southeast). The Isle of Man TT circuit runs nearby. Approach from the west for the best view of the castle against the town backdrop."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 54.22645,
+      "lng": -4.6991
+    },
+    "geohash": "gcssm"
+  },
+  "categories": [
+    "castles",
+    "norse-history",
+    "isle-of-man",
+    "medieval",
+    "ruins"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 710,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 10111
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Peel Castle - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Peel_Castle",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Pagan Lady burial discovered during excavations 1982-87 — confirmed; principal find circa 1984",
+        "Necklace of amber, jet, and glass beads — confirmed by multiple sources",
+        "Burial dated to around 950 AD — confirmed (story originally said 'silver coins from about 1030', corrected to burial date c. 950)",
+        "Necklace held in Manx Museum — confirmed",
+        "Round tower built by Celtic monks, gained battlements under Norse occupation — confirmed",
+        "Castle seat of the diocese of Sodor and Man — confirmed",
+        "Excavations 1982-87 also revealed Magnus Barefoot's wooden fort and Viking-age graveyard — confirmed",
+        "Moddey Dhoo (Black Dog) legend associated with Peel Castle — confirmed",
+        "Wordsworth's poem 'Peele' actually describes Piel Castle in Cumbria, not Peel Castle IOM — confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "g/c/s/s/peel-castle-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "nendrum-monastery-wp",
+      "title": "Nendrum Monastery",
+      "tile": "gcey",
+      "coordinates": {
+        "lat": 54.498,
+        "lng": -5.648
+      },
+      "distanceKm": 24.2
+    },
+    "n": {
+      "id": "ulster-folk-and-transport-museums-wp",
+      "title": "Ulster Folk and Transport Museums",
+      "tile": "gcey",
+      "coordinates": {
+        "lat": 54.6506,
+        "lng": -5.7986
+      },
+      "distanceKm": 70.1
+    },
+    "ne": {
+      "id": "dundrennan-abbey-wp",
+      "title": "Dundrennan Abbey",
+      "tile": "gctp",
+      "coordinates": {
+        "lat": 54.806666666667,
+        "lng": -3.9477777777778
+      },
+      "distanceKm": 39.1
+    },
+    "w": {
+      "id": "castle-ward-wp",
+      "title": "Castle Ward",
+      "tile": "gcsj",
+      "coordinates": {
+        "lat": 54.3675,
+        "lng": -5.58056
+      },
+      "distanceKm": 25.2
+    },
+    "e": {
+      "id": "st-bees-priory-wp",
+      "title": "St Bees Priory",
+      "tile": "gctq",
+      "coordinates": {
+        "lat": 54.4939,
+        "lng": -3.59355
+      },
+      "distanceKm": 50.1
+    },
+    "sw": {
+      "id": "battle-of-the-boyne-wp",
+      "title": "Battle of the Boyne",
+      "tile": "gce3",
+      "coordinates": {
+        "lat": 53.723055555555554,
+        "lng": -6.423611111111111
+      },
+      "distanceKm": 80.1
+    },
+    "s": {
+      "id": "royal-charter-ship-wp",
+      "title": "Royal Charter (ship)",
+      "tile": "gckz",
+      "coordinates": {
+        "lat": 53.35813093,
+        "lng": -4.24073499
+      },
+      "distanceKm": 75.2
+    },
+    "se": {
+      "id": "beaumaris-castle-wp",
+      "title": "Beaumaris Castle",
+      "tile": "gcmp",
+      "coordinates": {
+        "lat": 53.264908,
+        "lng": -4.08957
+      },
+      "distanceKm": 78.3
+    }
+  }
+}

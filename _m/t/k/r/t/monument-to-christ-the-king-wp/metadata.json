@@ -32,7 +32,7 @@
     "sourceType": "core",
     "sourceArticleId": "monument-to-christ-the-king-wp",
     "sourceGeohash4": "tkrt",
-    "smallPath": "_m/t/k/r/t/monument-to-christ-the-king-wp/hero-small.jpg"
+    "smallPath": "_m/t/k/r/t/monument-to-christ-the-king-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "St.patrick's cathederal's Christ the King Monument.jpg",
@@ -95,8 +95,8 @@
       "sourceType": "core",
       "sourceArticleId": "monument-to-christ-the-king-wp",
       "sourceGeohash4": "tkrt",
-      "mediumPath": "_m/t/k/r/t/monument-to-christ-the-king-wp/saint-patrick-s-cathed-medium.jpg",
-      "smallPath": "_m/t/k/r/t/monument-to-christ-the-king-wp/saint-patrick-s-cathed-small.jpg"
+      "mediumPath": "_m/t/k/r/t/monument-to-christ-the-king-wp/saint-patrick-s-cathed-medium.webp",
+      "smallPath": "_m/t/k/r/t/monument-to-christ-the-king-wp/saint-patrick-s-cathed-small.webp"
     },
     {
       "filename": "Karachi St. Patricks Cathedral, Sacred Heart Monument.jpg",
@@ -121,7 +121,7 @@
       "sourceType": "commons-category",
       "sourceArticleId": "monument-to-christ-the-king-wp",
       "sourceGeohash4": "tkrt",
-      "smallPath": "_m/t/k/r/t/monument-to-christ-the-king-wp/karachi-st-patricks-cathedral--small.jpg"
+      "smallPath": "_m/t/k/r/t/monument-to-christ-the-king-wp/karachi-st-patricks-cathedral--small.webp"
     },
     {
       "filename": "Within the mist.jpg",
@@ -154,8 +154,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "monument-to-christ-the-king-wp",
       "sourceGeohash4": "tkrt",
-      "mediumPath": "_m/t/k/r/t/monument-to-christ-the-king-wp/within-the-mist-medium.jpg",
-      "smallPath": "_m/t/k/r/t/monument-to-christ-the-king-wp/within-the-mist-small.jpg"
+      "mediumPath": "_m/t/k/r/t/monument-to-christ-the-king-wp/within-the-mist-medium.webp",
+      "smallPath": "_m/t/k/r/t/monument-to-christ-the-king-wp/within-the-mist-small.webp"
     },
     {
       "filename": "Enlightened Cross, Christ the King Monument, Karachi.jpg",
@@ -185,8 +185,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "monument-to-christ-the-king-wp",
       "sourceGeohash4": "tkrt",
-      "mediumPath": "_m/t/k/r/t/monument-to-christ-the-king-wp/enlightened-cross-christ-the-k-medium.jpg",
-      "smallPath": "_m/t/k/r/t/monument-to-christ-the-king-wp/enlightened-cross-christ-the-k-small.jpg"
+      "mediumPath": "_m/t/k/r/t/monument-to-christ-the-king-wp/enlightened-cross-christ-the-k-medium.webp",
+      "smallPath": "_m/t/k/r/t/monument-to-christ-the-king-wp/enlightened-cross-christ-the-k-small.webp"
     }
   ],
   "galleryPaths": [
@@ -195,6 +195,24 @@
     "_m/t/k/r/t/monument-to-christ-the-king-wp/within-the-mist.jpg",
     "_m/t/k/r/t/monument-to-christ-the-king-wp/enlightened-cross-christ-the-k.jpg"
   ],
-  "fetchedAt": "2026-03-01T10:57:21.613Z",
-  "updatedAt": "2026-03-01T10:57:24.444Z"
+  "updatedAt": "2026-03-01T10:57:24.444Z",
+  "narration": {
+    "files": [
+      "tkrt-monument-to-christ-the-king-flight-context.mp3",
+      "tkrt-monument-to-christ-the-king-intro.mp3",
+      "tkrt-monument-to-christ-the-king-from-feast-day-to-foundation-stone.mp3",
+      "tkrt-monument-to-christ-the-king-carrara-marble-via-coutinho.mp3",
+      "tkrt-monument-to-christ-the-king-processions-silenced.mp3",
+      "tkrt-monument-to-christ-the-king-saved-at-eighty-two.mp3"
+    ],
+    "durations": {
+      "tkrt-monument-to-christ-the-king-flight-context.mp3": 33.0545833,
+      "tkrt-monument-to-christ-the-king-intro.mp3": 45.2906666,
+      "tkrt-monument-to-christ-the-king-from-feast-day-to-foundation-stone.mp3": 56.3327083,
+      "tkrt-monument-to-christ-the-king-carrara-marble-via-coutinho.mp3": 45.932375,
+      "tkrt-monument-to-christ-the-king-processions-silenced.mp3": 42.977875,
+      "tkrt-monument-to-christ-the-king-saved-at-eighty-two.mp3": 55.1039166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

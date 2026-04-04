@@ -1,0 +1,174 @@
+{
+  "id": "aerocon-flight-25-wp",
+  "title": "Aerocon Flight 25",
+  "summary": "When a commuter plane crashed and caught fire at Riberalta Airport in 2013, the airport had no fire truck -- five hundred townspeople rushed to the wreckage with sticks and metal bars and pulled ten survivors from the burning fuselage.",
+  "content": {
+    "intro": "Five hundred people ran toward the fire. On the afternoon of November 3, 2013, a Swearingen SA-227AC Metro III operated by Aerocon Airlines veered off the runway at Riberalta Airport in Bolivia's Beni department, overturned in a field, and burst into flames. There was no fire truck at the airport. There was no emergency equipment of any kind. What there was, within minutes, was a crowd of ordinary people from the nearby town, armed with sticks, metal bars, and whatever tools they could grab, forcing open the crumpled fuselage to drag survivors out of the burning wreckage.",
+    "sections": [
+      {
+        "title": "One Hour in the Rain",
+        "body": "The flight had departed Trinidad's Teniente Jorge Henrich Arauz Airport at 2:58 in the afternoon, carrying sixteen passengers and two crew members on the domestic route to Riberalta. Captain Kevin Roca Alpire and co-pilot Cecilia Tapia Salinas were flying a turboprop built in 1988, powered by twin Garrett TPE331 engines. The aircraft had passed through several operators across three countries -- Mesaba Airlines and Textron Financial in the United States, Bearskin Airlines in Canada, Lynx Air International, and Locair -- before Aerocon acquired it earlier that year. As Flight 25 approached Riberalta, the tower controller cleared the crew for an approach to runway 32, followed by a circling approach to runway 14. Winds were light at seven knots, but visibility had dropped to 3,000 meters in rain and fog. The controller warned the crew that the runway was wet."
+      },
+      {
+        "title": "Windshear at the Threshold",
+        "body": "At 3:55 PM, the crew reported passing the BIXIN waypoint. Two minutes later, they called the EDNAX fix, five nautical miles from the runway 32 threshold. What happened in the final moments of the approach was later attributed to windshear -- a sudden shift in wind speed or direction that can rob a landing aircraft of lift or control with almost no warning. Upon touching down, the Metro III veered hard to the right, departed the runway surface, and overturned in a field adjacent to the airport. Fire broke out shortly after impact. Of the eighteen people on board, eight died in the wreckage, including six-year-old Rossio Alvarez. Both pilots survived."
+      },
+      {
+        "title": "A Town Becomes the Rescue",
+        "body": "In the absence of any airport emergency response, the people of Riberalta became the rescue team. Roughly five hundred residents converged on the crash site and physically tore open the aircraft to reach the people trapped inside. They managed to pull ten survivors from the burning fuselage. The scene exposed a truth that went beyond one accident: Riberalta's airport, serving a city of more than 80,000 people in one of Bolivia's most remote regions, had no firefighting vehicle, no crash rescue equipment, and no capacity to respond to an emergency of any scale. Mayor Mauro Cambero acknowledged publicly that more lives could have been saved if the fire had been controlled in time."
+      },
+      {
+        "title": "The Pattern Nobody Stopped",
+        "body": "The crash at Riberalta was not an isolated failure. According to the Bolivian government, it was Aerocon's fourth accident since 2012. President Evo Morales called for sanctions against the airline and demanded an investigation. The General Directorate of Civil Aviation formed a commission the following day, but the inquiry revealed systemic problems that extended far beyond a single carrier. The Directorate's own oversight had failed to catch or correct the safety deficiencies that accumulated across Aerocon's operations. Former Beni governor Ernesto Suarez directed blame at the central government for chronic underinvestment in AASANA, the national airports authority, arguing that the infrastructure and resources needed to prevent such tragedies had never been provided. In the remote departments of Bolivia's Amazon lowlands, where air travel is often the only practical connection between cities separated by flooded jungle and unpaved roads, the gap between what aviation safety requires and what these communities can afford remains dangerously wide."
+      }
+    ],
+    "flightContext": "Riberalta Airport (SLRI) is located at approximately 11.02S, 66.06W in the Beni department of Bolivia. The airport has a single runway (14/32) and serves as a critical air link for the remote Amazonian city. The crash site was in a field adjacent to the runway. The flight originated from Teniente Jorge Henrich Arauz Airport (SLTR) in Trinidad, Beni. The region is characterized by flat, densely forested terrain with limited road infrastructure. Weather conditions frequently include reduced visibility due to tropical rain and fog, particularly during the wet season. Exercise caution regarding windshear on approach, especially in convective weather."
+  },
+  "location": {
+    "coordinates": {
+      "lat": -11.0165,
+      "lng": -66.0645
+    },
+    "geohash": "6w112"
+  },
+  "categories": [
+    "Aviation disasters",
+    "Bolivian aviation",
+    "Remote airport safety",
+    "Emergency response"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-06T00:00:00Z",
+    "wordCount": 720,
+    "readTime": 4,
+    "firstPublished": "2026-03-06T00:00:00Z",
+    "storyNumber": 6181
+  },
+  "sources": [
+    {
+      "type": "primary",
+      "title": "Aerocon Flight 25",
+      "url": "https://en.wikipedia.org/wiki/Aerocon_Flight_25",
+      "accessedAt": "2026-02-01",
+      "author": "Wikipedia",
+      "notes": "From dump dated 20260201"
+    },
+    {
+      "type": "verification",
+      "title": "Aerocon Flight 25 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aerocon_Flight_25",
+      "accessedAt": "2026-03-06",
+      "claimsVerified": [
+        "Crash date November 3, 2013 confirmed",
+        "Swearingen SA-227AC Metro III aircraft built 1988 confirmed",
+        "Twin Garrett TPE331 engines confirmed",
+        "16 passengers and 2 crew (18 total) confirmed",
+        "8 killed and 10 survivors confirmed",
+        "Captain Kevin Roca Alpire and co-pilot Cecilia Tapia Salinas both survived confirmed",
+        "Flight originated from Trinidad's Teniente Jorge Henrich Arauz Airport confirmed",
+        "Departed 2:58 PM, windshear caused crash confirmed",
+        "Visibility 3,000 meters in rain and fog confirmed",
+        "Winds light at 7 knots confirmed",
+        "No fire truck at Riberalta Airport confirmed",
+        "Roughly 500 residents converged on crash site confirmed",
+        "Aerocon's fourth accident since 2012 consistent with Bolivian government statements"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Aviation Safety Network - Aerocon Metro III CP-2754",
+      "url": "https://aviation-safety.net/wikibase/320651",
+      "accessedAt": "2026-03-06",
+      "claimsVerified": [
+        "Aircraft registration CP-2754 confirmed",
+        "Runway 32 approach followed by circling to runway 14 confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "placido-de-castro-acre-wp",
+      "title": "Placido de Castro, Acre",
+      "tile": "6w0j",
+      "coordinates": {
+        "lat": -10.275833333333,
+        "lng": -67.15
+      },
+      "distanceKm": 91.7
+    },
+    "n": {
+      "id": "cachuela-esperanza-wp",
+      "title": "Cachuela Esperanza",
+      "tile": "6w1k",
+      "coordinates": {
+        "lat": -10.536666666667,
+        "lng": -65.597222222222
+      },
+      "distanceKm": 40.7
+    },
+    "ne": {
+      "id": "beni-river-wp",
+      "title": "Beni River",
+      "tile": "6w1s",
+      "coordinates": {
+        "lat": -10.3821,
+        "lng": -65.3903
+      },
+      "distanceKm": 37.9
+    },
+    "w": {
+      "id": "pando-department-wp",
+      "title": "Pando Department",
+      "tile": "6w00",
+      "coordinates": {
+        "lat": -11.183333333333,
+        "lng": -67.183333333333
+      },
+      "distanceKm": 83.5
+    },
+    "e": {
+      "id": "isla-suarez-wp",
+      "title": "Isla Suarez",
+      "tile": "6w1d",
+      "coordinates": {
+        "lat": -10.795,
+        "lng": -65.35972222
+      },
+      "distanceKm": 21.5
+    },
+    "sw": {
+      "id": "iturralde-crater-wp",
+      "title": "Iturralde Crater",
+      "tile": "6mzb",
+      "coordinates": {
+        "lat": -12.58666667,
+        "lng": -67.675
+      },
+      "distanceKm": 200
+    },
+    "s": {
+      "id": "guapore-biological-reserve-wp",
+      "title": "Guapore Biological Reserve",
+      "tile": "6tg3",
+      "coordinates": {
+        "lat": -12.426,
+        "lng": -62.889
+      },
+      "distanceKm": 354.6
+    },
+    "se": {
+      "id": "serra-da-cutia-national-park-wk",
+      "title": "Serra da Cutia National Park",
+      "tile": "6tfm",
+      "coordinates": {
+        "lat": -11.6833,
+        "lng": -64.3333
+      },
+      "distanceKm": 124.9
+    }
+  }
+}

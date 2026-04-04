@@ -26,8 +26,8 @@
     "sourceType": "core",
     "sourceArticleId": "chino-mine-wp",
     "sourceGeohash4": "9tg4",
-    "smallPath": "_m/9/t/g/4/chino-mine-wp/hero-small.jpg",
-    "mediumPath": "_m/9/t/g/4/chino-mine-wp/hero-medium.jpg"
+    "smallPath": "_m/9/t/g/4/chino-mine-wp/hero-small.webp",
+    "mediumPath": "_m/9/t/g/4/chino-mine-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Massive Dump Truck, Chino Mine, NM, USA.jpg",
@@ -89,7 +89,7 @@
       "sourceType": "core",
       "sourceArticleId": "chino-mine-wp",
       "sourceGeohash4": "9tg4",
-      "smallPath": "_m/9/t/g/4/chino-mine-wp/chino-open-pit-copper-small.jpg"
+      "smallPath": "_m/9/t/g/4/chino-mine-wp/chino-open-pit-copper-small.webp"
     },
     {
       "filename": "Copper specimen on display.jpg",
@@ -106,14 +106,15 @@
       "dateCreated": "2025-11-20",
       "sourceType": "commons-category",
       "sourceArticleId": "chino-mine-wp",
-      "sourceGeohash4": "9tg4"
+      "sourceGeohash4": "9tg4",
+      "mediumPath": "_m/9/t/g/4/chino-mine-wp/copper-specimen-on-display-medium.webp",
+      "smallPath": "_m/9/t/g/4/chino-mine-wp/copper-specimen-on-display-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/t/g/4/chino-mine-wp/chino-open-pit-copper.jpg",
     "_m/9/t/g/4/chino-mine-wp/copper-specimen-on-display.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:10:42.192Z",
   "narration": {
     "files": [
       "9tg4-chino-mine-flight-context.mp3",
@@ -131,8 +132,7 @@
       "9tg4-chino-mine-industrial-giant-of-the-desert.mp3": 54.450125,
       "9tg4-chino-mine-collectors-paradise.mp3": 45.3554583
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T01:05:54.123Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:11:20.599Z"
 }

@@ -93,8 +93,8 @@
       "sourceType": "core",
       "sourceArticleId": "wellington-wk",
       "sourceGeohash4": "rbsm",
-      "smallPath": "_m/r/b/s/m/wellington-wk/photo-taken-steffen-hi-small.jpg",
-      "mediumPath": "_m/r/b/s/m/wellington-wk/photo-taken-steffen-hi-medium.jpg"
+      "smallPath": "_m/r/b/s/m/wellington-wk/photo-taken-steffen-hi-small.webp",
+      "mediumPath": "_m/r/b/s/m/wellington-wk/photo-taken-steffen-hi-medium.webp"
     },
     {
       "filename": "Te papa museum.jpg",
@@ -120,7 +120,7 @@
       "sourceType": "core",
       "sourceArticleId": "wellington-wk",
       "sourceGeohash4": "rbsm",
-      "smallPath": "_m/r/b/s/m/wellington-wk/te-papa-museum-welling-small.jpg"
+      "smallPath": "_m/r/b/s/m/wellington-wk/te-papa-museum-welling-small.webp"
     },
     {
       "filename": "Cessna 172 flipped over, Wellington Airport.jpg",
@@ -152,8 +152,8 @@
       "sourceType": "core",
       "sourceArticleId": "wellington-wk",
       "sourceGeohash4": "rbsm",
-      "smallPath": "_m/r/b/s/m/wellington-wk/cessna-flipped-strong-small.jpg",
-      "mediumPath": "_m/r/b/s/m/wellington-wk/cessna-flipped-strong-medium.jpg"
+      "smallPath": "_m/r/b/s/m/wellington-wk/cessna-flipped-strong-small.webp",
+      "mediumPath": "_m/r/b/s/m/wellington-wk/cessna-flipped-strong-medium.webp"
     },
     {
       "filename": "Parliament House and the Beehive June 2012.JPG",
@@ -194,7 +194,7 @@
       "sourceType": "core",
       "sourceArticleId": "wellington-wk",
       "sourceGeohash4": "rbsm",
-      "smallPath": "_m/r/b/s/m/wellington-wk/network-map-tranz-metr-small.png"
+      "smallPath": "_m/r/b/s/m/wellington-wk/network-map-tranz-metr-small.webp"
     },
     {
       "filename": "Karaka Bays Waves.jpg",
@@ -219,7 +219,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "wellington-wk",
-      "sourceGeohash4": "rbsm"
+      "sourceGeohash4": "rbsm",
+      "mediumPath": "_m/r/b/s/m/wellington-wk/karaka-bays-waves-medium.webp",
+      "smallPath": "_m/r/b/s/m/wellington-wk/karaka-bays-waves-small.webp"
     },
     {
       "filename": "Happy-Valley010.jpg",
@@ -241,7 +243,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "wellington-wk",
-      "sourceGeohash4": "rbsm"
+      "sourceGeohash4": "rbsm",
+      "mediumPath": "_m/r/b/s/m/wellington-wk/happy-valley010-medium.webp",
+      "smallPath": "_m/r/b/s/m/wellington-wk/happy-valley010-small.webp"
     },
     {
       "filename": "Happy-Valley011.jpg",
@@ -263,7 +267,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "wellington-wk",
-      "sourceGeohash4": "rbsm"
+      "sourceGeohash4": "rbsm",
+      "mediumPath": "_m/r/b/s/m/wellington-wk/happy-valley011-medium.webp",
+      "smallPath": "_m/r/b/s/m/wellington-wk/happy-valley011-small.webp"
     },
     {
       "filename": "Ngaio gorge train train~.jpg",
@@ -297,7 +303,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "wellington-wk",
-      "sourceGeohash4": "rbsm"
+      "sourceGeohash4": "rbsm",
+      "mediumPath": "_m/r/b/s/m/wellington-wk/ngaio-gorge-train-train-medium.webp",
+      "smallPath": "_m/r/b/s/m/wellington-wk/ngaio-gorge-train-train-small.webp"
     }
   ],
   "galleryPaths": [
@@ -311,7 +319,6 @@
     "_m/r/b/s/m/wellington-wk/happy-valley011.jpg",
     "_m/r/b/s/m/wellington-wk/ngaio-gorge-train-train.jpg"
   ],
-  "fetchedAt": "2026-02-22T13:11:45.359Z",
   "updatedAt": "2026-02-22T13:11:54.600Z",
   "narration": {
     "files": [
@@ -324,16 +331,15 @@
       "rbsm-wellington-the-compact-capital.mp3"
     ],
     "durations": {
-      "rbsm-wellington-flight-context.mp3": 58.992,
-      "rbsm-wellington-intro.mp3": 53.1965416,
-      "rbsm-wellington-the-wind.mp3": 64.255375,
-      "rbsm-wellington-te-papa.mp3": 61.6069166,
-      "rbsm-wellington-the-film-industry.mp3": 66.55,
-      "rbsm-wellington-the-coffee-capital.mp3": 60.629,
-      "rbsm-wellington-the-compact-capital.mp3": 59.1149583
+      "rbsm-wellington-flight-context.mp3": 57.745625,
+      "rbsm-wellington-intro.mp3": 54.96225,
+      "rbsm-wellington-the-wind.mp3": 69.7460416,
+      "rbsm-wellington-te-papa.mp3": 65.1699583,
+      "rbsm-wellington-the-film-industry.mp3": 65.5801666,
+      "rbsm-wellington-the-coffee-capital.mp3": 69.1142083,
+      "rbsm-wellington-the-compact-capital.mp3": 65.9715833
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-25T15:22:42.456Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "videos": [
     {

@@ -1,0 +1,159 @@
+{
+  "id": "golden-bay-wk",
+  "source": "wikipedia",
+  "sourceId": "12925",
+  "title": "Golden Bay",
+  "slug": "golden-bay",
+  "summary": "A luminous crescent of coast at the top of New Zealand's South Island where Abel Tasman first anchored in 1642 and sacred springs discharge the clearest freshwater ever measured.",
+  "content": {
+    "intro": "The Maori had a name for the springs near Takaka long before scientists brought their instruments. Te Waikoropupu - the place where water bubbles up - pushes 14,000 litres per second from underground, with horizontal visibility measured at 63 metres and sometimes approaching 81, just short of the theoretical clarity of pure water itself. That a bay named for the color of its sand also harbors some of the most transparent freshwater on Earth feels like a place showing off. Golden Bay does not mind showing off. It simply has fewer people watching than it deserves.",
+    "sections": [
+      {
+        "title": "First Contact, First Blood",
+        "body": "Abel Tasman anchored here in December 1642, the first European to reach New Zealand. The encounter went badly. When a small boat rowed between Tasman's two ships and a group of Maori waka, violence broke out, and four Dutch sailors were killed. Tasman named the place Moordenaers Baai - Murderers' Bay - and sailed away without setting foot on land. It took more than a century for another European, Captain James Cook, to return in 1770. The bay would eventually shed its grim Dutch name for something that better matched its beaches: golden sand curving beneath the headlands of what is now Abel Tasman National Park, separating this bay from Tasman Bay to the east."
+      },
+      {
+        "title": "The Geography of Remoteness",
+        "body": "Getting to Golden Bay requires commitment. The single road from Motueka climbs over Takaka Hill, a marble karst landscape riddled with sinkholes and caves, including Harwood's Hole - a vertical shaft plunging 176 metres straight down. The drive takes 55 minutes, and when you arrive in Takaka, the main settlement, you understand why the bay attracts the kind of people who do not mind a difficult commute. Cape Farewell marks the northernmost point of the South Island, and beyond it, Farewell Spit reaches 30 kilometres into the sea like a crooked finger. To the south, the Heaphy Track - a four-to-six-day walk through rainforest and coastal bluffs - connects Golden Bay to the remote West Coast town of Karamea. The bay is a cul-de-sac in the best possible sense."
+      },
+      {
+        "title": "Sacred Water",
+        "body": "Te Waikoropupu Springs are taonga - a treasure - to the local Maori, and the site is considered wahi tapu, sacred. Visitors can walk to the viewing platform but cannot touch the water in any way: no swimming, no wading, no filling a bottle. The prohibition is not bureaucratic fussiness. The springs emerge from an aquifer that filters rainwater through marble for years before releasing it at a constant 11.7 degrees Celsius, and the clarity that results is almost supernatural. Underwater, visibility exceeds the length of an Olympic swimming pool. NIWA scientists have compared it to Lake Rotomairewhenua in Nelson Lakes, which holds the title of clearest lake in the world. These springs are the largest cold-water springs in the Southern Hemisphere, and they ask one thing of visitors: look, but do not touch."
+      },
+      {
+        "title": "The Mussel Inn and the End of the Road",
+        "body": "At Onekaka, halfway along the bay, a hand-built brewery called the Mussel Inn serves its own beers and ciders in a setting that feels less like a business and more like someone's particularly hospitable shed. Beyond Collingwood, the road narrows toward Puponga and Wharariki Beach, where fur seal pups play in tidal pools beneath the Archway Islands. The Whanganui Inlet opens onto the West Coast, one of the most remote stretches of coastline in New Zealand. People come to Golden Bay and stay longer than they planned. The isolation that once kept European explorers away now draws travelers who want to feel, at least for a few days, that they have reached a genuine edge of the world."
+      }
+    ],
+    "flightContext": "Located at 40.67S, 172.83E at the northern tip of the South Island. From the air, the golden crescent of beach is unmistakable, bounded by Abel Tasman National Park to the east and Farewell Spit extending northeast. Takaka Aerodrome (NZTK) serves light aircraft. Nearby ICAO: NZNS (Nelson). Recommended viewing altitude 3,000-5,000 ft for the full sweep of the bay. Cape Farewell, the northernmost point of the South Island, is a clear landmark."
+  },
+  "location": {
+    "coordinates": {
+      "lat": -40.6667,
+      "lng": 172.8333
+    },
+    "geohash": "rbfbs"
+  },
+  "categories": [
+    "geography",
+    "coastal",
+    "history",
+    "natural-wonder"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-09T00:00:00Z",
+    "wordCount": 680,
+    "readTime": 4,
+    "firstPublished": "2026-03-09T00:00:00Z",
+    "storyNumber": 7235
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Golden Bay, New Zealand - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Golden_Bay",
+      "accessedAt": "2026-03-12",
+      "claimsVerified": [
+        "Abel Tasman anchored December 1642 confirmed",
+        "four Dutch sailors killed in initial encounter confirmed",
+        "Tasman named it Moordenaers Baai (Murderers' Bay) confirmed",
+        "Cook arrived 1770 confirmed",
+        "Te Waikoropupu Springs discharge 14,000 litres per second confirmed",
+        "horizontal visibility 63m-81m confirmed",
+        "springs largest cold-water springs in Southern Hemisphere confirmed",
+        "Harwood's Hole vertical shaft 176 metres confirmed",
+        "Heaphy Track connects Golden Bay to Karamea confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": [
+      "Golden Bay does not mind showing off"
+    ]
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "ss-elingamite-wp",
+      "title": "SS Elingamite: Gold, Fog, and a Captain Wrongly Blamed",
+      "tile": "rcfm",
+      "coordinates": {
+        "lat": -34.186047,
+        "lng": 172.03159
+      },
+      "distanceKm": 694.6
+    },
+    "n": {
+      "id": "mount-taranaki-wp",
+      "title": "Mount Taranaki",
+      "tile": "rc5b",
+      "coordinates": {
+        "lat": -39.296388888889,
+        "lng": 174.06472222222
+      },
+      "distanceKm": 166.3
+    },
+    "ne": {
+      "id": "parihaka-wp",
+      "title": "Parihaka",
+      "tile": "rc58",
+      "coordinates": {
+        "lat": -39.3,
+        "lng": 173.83333333333
+      },
+      "distanceKm": 133
+    },
+    "w": {
+      "id": "cape-foulwind-wp",
+      "title": "Cape Foulwind",
+      "tile": "rb9f",
+      "coordinates": {
+        "lat": -41.746,
+        "lng": 171.468
+      },
+      "distanceKm": 134.7
+    },
+    "e": {
+      "id": "french-pass-wp",
+      "title": "Te Aumiti / French Pass",
+      "tile": "rbex",
+      "coordinates": {
+        "lat": -40.921944444444,
+        "lng": 173.83361111111
+      },
+      "distanceKm": 50.1
+    },
+    "sw": {
+      "id": "1968-inangahua-earthquake-wp",
+      "title": "1968 Inangahua Earthquake",
+      "tile": "rbd7",
+      "coordinates": {
+        "lat": -41.659,
+        "lng": 172.02
+      },
+      "distanceKm": 80.7
+    },
+    "s": {
+      "id": "wai-iti-dark-sky-park-wp",
+      "title": "Wai-iti Dark Sky Park",
+      "tile": "rbeh",
+      "coordinates": {
+        "lat": -41.4299,
+        "lng": 172.9933
+      },
+      "distanceKm": 55.2
+    },
+    "se": {
+      "id": "queen-charlotte-track-wp",
+      "title": "Queen Charlotte Track",
+      "tile": "rbet",
+      "coordinates": {
+        "lat": -41.2196,
+        "lng": 173.971
+      },
+      "distanceKm": 61.9
+    }
+  },
+  "locationWikipediaPath": "r/b/f/b/golden-bay-mohua-wp",
+  "locationWikivoyagePath": "r/b/f/b/golden-bay-wk"
+}

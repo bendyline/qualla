@@ -27,7 +27,7 @@
     "sourceType": "core",
     "sourceArticleId": "wezmeh-wp",
     "sourceGeohash4": "tn11",
-    "smallPath": "_m/t/n/1/1/wezmeh-wp/hero-small.jpg"
+    "smallPath": "_m/t/n/1/1/wezmeh-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Islamabad-e Gharb Plain.jpg",
@@ -109,13 +109,33 @@
       "sourceType": "commons-category",
       "sourceArticleId": "wezmeh-wp",
       "sourceGeohash4": "tn11",
-      "smallPath": "_m/t/n/1/1/wezmeh-wp/wezmeh-cave-kermanshah-iran-small.jpg"
+      "smallPath": "_m/t/n/1/1/wezmeh-wp/wezmeh-cave-kermanshah-iran-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/t/j/d/d/ahvaz-wp/iran-relief-location-map.jpg",
     "_m/t/n/1/1/wezmeh-wp/wezmeh-cave-kermanshah-iran.jpg"
   ],
-  "fetchedAt": "2026-03-01T11:41:08.362Z",
-  "updatedAt": "2026-03-01T11:41:21.779Z"
+  "updatedAt": "2026-03-01T11:41:21.779Z",
+  "narration": {
+    "files": [
+      "tn11-wezmeh-cave-flight-context.mp3",
+      "tn11-wezmeh-cave-intro.mp3",
+      "tn11-wezmeh-cave-a-carnivores-larder.mp3",
+      "tn11-wezmeh-cave-the-zagros-neanderthal.mp3",
+      "tn11-wezmeh-cave-a-neolithic-stranger.mp3",
+      "tn11-wezmeh-cave-seventy-thousand-years-of-visitors.mp3",
+      "tn11-wezmeh-cave-discovery-and-recognition.mp3"
+    ],
+    "durations": {
+      "tn11-wezmeh-cave-flight-context.mp3": 42.169125,
+      "tn11-wezmeh-cave-intro.mp3": 46.0252916,
+      "tn11-wezmeh-cave-a-carnivores-larder.mp3": 54.4759583,
+      "tn11-wezmeh-cave-the-zagros-neanderthal.mp3": 57.85875,
+      "tn11-wezmeh-cave-a-neolithic-stranger.mp3": 62.8685833,
+      "tn11-wezmeh-cave-seventy-thousand-years-of-visitors.mp3": 55.80025,
+      "tn11-wezmeh-cave-discovery-and-recognition.mp3": 54.422375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

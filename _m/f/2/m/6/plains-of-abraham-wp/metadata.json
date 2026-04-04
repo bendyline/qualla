@@ -18,8 +18,8 @@
     "sourceType": "core",
     "sourceArticleId": "plains-of-abraham-wp",
     "sourceGeohash4": "f2m6",
-    "mediumPath": "_m/f/2/m/6/plains-of-abraham-wp/hero-medium.jpg",
-    "smallPath": "_m/f/2/m/6/plains-of-abraham-wp/hero-small.jpg"
+    "mediumPath": "_m/f/2/m/6/plains-of-abraham-wp/hero-medium.webp",
+    "smallPath": "_m/f/2/m/6/plains-of-abraham-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Plaines d'Abraham et Château Frontenac.jpg",
@@ -63,7 +63,7 @@
       "sourceType": "core",
       "sourceArticleId": "plains-of-abraham-wp",
       "sourceGeohash4": "f2m6",
-      "smallPath": "_m/f/2/m/6/plains-of-abraham-wp/plaine-abraham-quebec-small.jpg"
+      "smallPath": "_m/f/2/m/6/plains-of-abraham-wp/plaine-abraham-quebec-small.webp"
     },
     {
       "filename": "Carnaval de Québec - place de la famille - 2006-02.JPG",
@@ -89,8 +89,8 @@
       "sourceType": "core",
       "sourceArticleId": "plains-of-abraham-wp",
       "sourceGeohash4": "f2m6",
-      "mediumPath": "_m/f/2/m/6/plains-of-abraham-wp/carnaval-de-quebec-pla-medium.jpg",
-      "smallPath": "_m/f/2/m/6/plains-of-abraham-wp/carnaval-de-quebec-pla-small.jpg"
+      "mediumPath": "_m/f/2/m/6/plains-of-abraham-wp/carnaval-de-quebec-pla-medium.webp",
+      "smallPath": "_m/f/2/m/6/plains-of-abraham-wp/carnaval-de-quebec-pla-small.webp"
     },
     {
       "filename": "Plaque des premiers colons de Quebec.jpg",
@@ -122,7 +122,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "plains-of-abraham-wp",
-      "sourceGeohash4": "f2m6"
+      "sourceGeohash4": "f2m6",
+      "mediumPath": "_m/f/2/m/6/plains-of-abraham-wp/plaque-des-premiers-co-medium.webp",
+      "smallPath": "_m/f/2/m/6/plains-of-abraham-wp/plaque-des-premiers-co-small.webp"
     }
   ],
   "galleryPaths": [
@@ -130,5 +132,25 @@
     "_m/f/2/m/6/plains-of-abraham-wp/carnaval-de-quebec-pla.jpg",
     "_m/f/2/m/6/quebec-city-walled-wk/plaque-des-premiers-co.jpg"
   ],
-  "fetchedAt": "2026-02-28T14:47:06.680Z"
+  "narration": {
+    "files": [
+      "f2m6-plains-of-abraham-thirty-minutes-that-decided-a-co-flight-context.mp3",
+      "f2m6-plains-of-abraham-thirty-minutes-that-decided-a-co-intro.mp3",
+      "f2m6-plains-of-abraham-thirty-minutes-that-decided-a-co-the-thirty-minute-war.mp3",
+      "f2m6-plains-of-abraham-thirty-minutes-that-decided-a-co-from-battlefield-to-parkland.mp3",
+      "f2m6-plains-of-abraham-thirty-minutes-that-decided-a-co-the-hidden-reservoir.mp3",
+      "f2m6-plains-of-abraham-thirty-minutes-that-decided-a-co-the-park-that-works-like-central-park.mp3",
+      "f2m6-plains-of-abraham-thirty-minutes-that-decided-a-co-echoes-in-music-and-memory.mp3"
+    ],
+    "durations": {
+      "f2m6-plains-of-abraham-thirty-minutes-that-decided-a-co-flight-context.mp3": 65.4035,
+      "f2m6-plains-of-abraham-thirty-minutes-that-decided-a-co-intro.mp3": 50.0132916,
+      "f2m6-plains-of-abraham-thirty-minutes-that-decided-a-co-the-thirty-minute-war.mp3": 55.2042083,
+      "f2m6-plains-of-abraham-thirty-minutes-that-decided-a-co-from-battlefield-to-parkland.mp3": 65.2420833,
+      "f2m6-plains-of-abraham-thirty-minutes-that-decided-a-co-the-hidden-reservoir.mp3": 53.8229583,
+      "f2m6-plains-of-abraham-thirty-minutes-that-decided-a-co-the-park-that-works-like-central-park.mp3": 59.123,
+      "f2m6-plains-of-abraham-thirty-minutes-that-decided-a-co-echoes-in-music-and-memory.mp3": 61.890375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

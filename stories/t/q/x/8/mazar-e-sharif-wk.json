@@ -105,14 +105,14 @@
       "distanceKm": 48.3
     },
     "ne": {
-      "id": "baotou-wk",
-      "title": "Baotou",
-      "tile": "wrnp",
+      "id": "yaghnob-valley-wp",
+      "title": "Yaghnob Valley",
+      "tile": "twcp",
       "coordinates": {
-        "lat": 40.656,
-        "lng": 109.834
+        "lat": 39.2,
+        "lng": 69
       },
-      "distanceKm": 3657.4
+      "distanceKm": 286.1
     },
     "w": {
       "id": "dasht-i-leili-massacre-wp",
@@ -125,14 +125,14 @@
       "distanceKm": 66
     },
     "e": {
-      "id": "jaipur-wk",
-      "title": "Jaipur",
-      "tile": "tsvc",
+      "id": "battle-of-kunduz-2015-wp",
+      "title": "Battle of Kunduz (2015)",
+      "tile": "tw8b",
       "coordinates": {
-        "lat": 26.9124,
-        "lng": 75.7873
+        "lat": 36.733333333333,
+        "lng": 68.866666666667
       },
-      "distanceKm": 1335.2
+      "distanceKm": 122.2
     },
     "sw": {
       "id": "minaret-of-jam-wp",
@@ -155,14 +155,16 @@
       "distanceKm": 173.6
     },
     "se": {
-      "id": "jodhpur-wk",
-      "title": "Jodhpur",
-      "tile": "tsev",
+      "id": "buddhas-of-bamiyan-wp",
+      "title": "Buddhas of Bamiyan",
+      "tile": "tw0n",
       "coordinates": {
-        "lat": 26.2389,
-        "lng": 73.0243
+        "lat": 34.832041666667,
+        "lng": 67.826802777778
       },
-      "distanceKm": 1243.8
+      "distanceKm": 175.4
     }
-  }
+  },
+  "locationWikipediaPath": "t/q/x/8/2011-mazar-i-sharif-attack-wp",
+  "locationWikivoyagePath": "t/q/x/8/mazar-e-sharif-wk"
 }

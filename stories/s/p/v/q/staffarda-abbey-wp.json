@@ -1,0 +1,153 @@
+{
+  "id": "staffarda-abbey-wp",
+  "source": "wikipedia",
+  "sourceId": "7300911",
+  "title": "Staffarda Abbey",
+  "slug": "staffarda-abbey",
+  "summary": "A 12th-century Cistercian monastery near Saluzzo that became a center of medieval agriculture, housed a Renaissance musical manuscript, and inspired a Van Dyck portrait.",
+  "content": {
+    "intro": "In 1135, Manfred I, Marquis of Saluzzo, granted land in the marshy plain of northwest Italy to the Cistercian order for a new monastery. The monks came from Tiglieto Abbey, the first Cistercian house in Italy, and they brought with them the order's genius for transforming unpromising terrain into productive farmland. Staffarda Abbey -- the Abbazia Santa Maria di Staffarda -- grew from that grant into one of Piedmont's most important medieval institutions, a place where prayer and agriculture were practiced with equal discipline.",
+    "sections": [
+      {
+        "title": "The Cistercian Method",
+        "body": "The Cistercians were, above all, practical. They chose remote sites, drained marshes, cleared forests, and built efficient agricultural operations that fed their communities and generated surplus for trade. Staffarda followed this model precisely. The monks established a flourishing market that drew buyers and sellers from the surrounding region, making the abbey an economic hub as well as a spiritual one. The complex grew to include not just the church but the full suite of Cistercian structures: cloister, chapter house, refectory, dormitory, and the outbuildings necessary for a self-sufficient agricultural estate. The abbey church, with its Romanesque-to-Gothic transitional architecture, still stands as the centerpiece -- a building designed for plainness and acoustic clarity, where the monks' chanting could fill the nave without competition from ornament."
+      },
+      {
+        "title": "The Codex and the Composer",
+        "body": "Staffarda's most unexpected legacy is musical. The Codex Staffarda, a manuscript dating to the 1480s or 1490s, contains polyphonic works by Renaissance composers including Jacob Obrecht and Antoine Brumel. It also preserves the earliest known polyphonic setting of the Dies Irae, composed by an otherwise unknown figure named Engarandus Juvenis -- a name that survives in music history solely because of this manuscript. The codex references commendatory abbot Brixianus Taparelli and is now held in the National University Library of Turin. Its existence at Staffarda suggests that the abbey, even in its later centuries, remained a place where sophisticated cultural activity continued alongside the agricultural work that sustained it."
+      },
+      {
+        "title": "Van Dyck's Abbot",
+        "body": "Around 1634, Anthony van Dyck painted a portrait of Cesare Alessandro Scaglia di Verrua, who served as abbot of Staffarda. Scaglia was a diplomat and political figure whose career extended well beyond the monastery walls -- he was involved in European diplomacy during the Thirty Years' War. Van Dyck captured him with the painter's characteristic intensity: a shrewd, watchful face above clerical robes. The portrait now hangs in the National Gallery in London, connecting a Piedmontese monastery to one of the great Flemish painters and to the wider political currents of 17th-century Europe. The abbey's abbots were not always cloistered contemplatives; some were men of the world who brought worldly connections back to the cloister."
+      },
+      {
+        "title": "From Order to Order",
+        "body": "In 1750, Staffarda was placed in commendam to the Order of Saints Maurice and Lazarus, a dynastic order associated with the House of Savoy. This transfer marked the end of active Cistercian life at the abbey, though the buildings survived and continued to serve various institutional purposes. Today, the abbey complex stands near Saluzzo as one of the best-preserved Cistercian sites in Piedmont, its church, cloister, and surrounding structures offering a coherent picture of medieval monastic architecture. The plain that Manfred I granted to the monks nearly nine centuries ago is still agricultural land, though the drainage and cultivation systems the Cistercians established have been absorbed into modern farming. What remains is the architecture -- stone and brick evidence of an order that believed manual labor was as holy as prayer."
+      }
+    ],
+    "flightContext": "Located at 44.72N, 7.44E on the Po plain near Saluzzo, Piedmont. The abbey complex is visible as a cluster of medieval buildings amid flat agricultural land. Cuneo Levaldigi Airport (LIMZ) is 25 km south. Turin Caselle Airport (LIMF) is 60 km northeast. Best viewed at 3,000-5,000 ft, where the abbey stands out against the surrounding farmland with the Alps rising to the west."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 44.72083333,
+      "lng": 7.43694444
+    },
+    "geohash": "spvq3"
+  },
+  "categories": [
+    "monasteries",
+    "cistercian",
+    "italy",
+    "medieval-history",
+    "architecture"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-13T00:00:00Z",
+    "wordCount": 700,
+    "readTime": 4,
+    "firstPublished": "2026-03-13T00:00:00Z",
+    "storyNumber": 8798
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - Staffarda Abbey",
+      "url": "https://en.wikipedia.org/wiki/Staffarda_Abbey",
+      "accessedAt": "2026-03-14",
+      "claimsVerified": [
+        "Founded 1135 by Manfred I Marquis of Saluzzo",
+        "Daughter house of Tiglieto Abbey",
+        "Placed in commendam 1750 to Order of Saints Maurice and Lazarus",
+        "Codex Staffarda dating 1480s-1490s",
+        "Codex now in National University Library of Turin"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "s/p/v/q/staffarda-abbey-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "saint-michel-de-maurienne-derailment-wp",
+      "title": "Saint-Michel-de-Maurienne Derailment",
+      "tile": "u0h9",
+      "coordinates": {
+        "lat": 45.211084,
+        "lng": 6.486418
+      },
+      "distanceKm": 48.8
+    },
+    "n": {
+      "id": "basilica-of-superga-wp",
+      "title": "Basilica of Superga",
+      "tile": "u0j8",
+      "coordinates": {
+        "lat": 45.08062,
+        "lng": 7.767366
+      },
+      "distanceKm": 18.7
+    },
+    "ne": {
+      "id": "milan-wk",
+      "title": "Milan",
+      "tile": "u0nd",
+      "coordinates": {
+        "lat": 45.4642,
+        "lng": 9.19
+      },
+      "distanceKm": 100.7
+    },
+    "w": {
+      "id": "chamonix-wk",
+      "title": "Chamonix",
+      "tile": "u0hv",
+      "coordinates": {
+        "lat": 45.916,
+        "lng": 6.866
+      },
+      "distanceKm": 131.8
+    },
+    "e": {
+      "id": "genoa-saint-george-bridge-wp",
+      "title": "Genoa Saint George Bridge",
+      "tile": "spyk",
+      "coordinates": {
+        "lat": 44.42583333333334,
+        "lng": 8.88888888888889
+      },
+      "distanceKm": 72.4
+    },
+    "sw": {
+      "id": "verdon-gorge-wp",
+      "title": "Verdon Gorge",
+      "tile": "spu8",
+      "coordinates": {
+        "lat": 43.737778,
+        "lng": 6.363889
+      },
+      "distanceKm": 97.6
+    },
+    "s": {
+      "id": "boves-massacre-wp",
+      "title": "Boves Massacre",
+      "tile": "spvk",
+      "coordinates": {
+        "lat": 44.333333333333336,
+        "lng": 7.55
+      },
+      "distanceKm": 15.5
+    },
+    "se": {
+      "id": "toirano-caves-wp",
+      "title": "Toirano Caves",
+      "tile": "spvg",
+      "coordinates": {
+        "lat": 44.1378005416,
+        "lng": 8.2020123147
+      },
+      "distanceKm": 38.4
+    }
+  }
+}

@@ -96,6 +96,16 @@
   },
   "directionalNeighbors": {
     "nw": {
+      "id": "vikingskipet-wp",
+      "title": "Vikingskipet",
+      "tile": "u4zc",
+      "coordinates": {
+        "lat": 60.793,
+        "lng": 11.1009
+      },
+      "distanceKm": 45.2
+    },
+    "n": {
       "id": "battle-of-midtskogen-wp",
       "title": "Battle of Midtskogen",
       "tile": "u6b4",
@@ -103,17 +113,7 @@
         "lat": 60.876666666666665,
         "lng": 11.468055555555555
       },
-      "distanceKm": 45.9
-    },
-    "n": {
-      "id": "falun-mine-wp",
-      "title": "Falun Mine",
-      "tile": "u6g0",
-      "coordinates": {
-        "lat": 60.598888888888894,
-        "lng": 15.612222222222222
-      },
-      "distanceKm": 191.1
+      "distanceKm": 57.9
     },
     "ne": {
       "id": "vasaloppet-wp",
@@ -126,14 +126,14 @@
       "distanceKm": 79.1
     },
     "w": {
-      "id": "battle-of-rakkestad-wp",
-      "title": "Battle of Rakkestad",
-      "tile": "u681",
+      "id": "2020-gjerdrum-landslide-wp",
+      "title": "2020 Gjerdrum Landslide",
+      "tile": "u4xv",
       "coordinates": {
-        "lat": 59.37305555555555,
-        "lng": 11.420277777777777
+        "lat": 60.065,
+        "lng": 11.036944444444444
       },
-      "distanceKm": 93.1
+      "distanceKm": 34.9
     },
     "e": {
       "id": "lundsbergs-boarding-school-wp",
@@ -146,14 +146,14 @@
       "distanceKm": 115.1
     },
     "sw": {
-      "id": "oslo-wk",
-      "title": "Oslo",
+      "id": "munch-museum-wp",
+      "title": "Munch Museum",
       "tile": "u4xs",
       "coordinates": {
-        "lat": 59.9139,
-        "lng": 10.7522
+        "lat": 59.90575,
+        "lng": 10.755305555555555
       },
-      "distanceKm": 47.4
+      "distanceKm": 47.3
     },
     "s": {
       "id": "battle-of-r-denes-wp",
@@ -178,5 +178,6 @@
   },
   "keywords": [
     "battle-of-lier-1808"
-  ]
+  ],
+  "locationWikipediaPath": "u/6/8/w/battle-of-lier-1808-wp"
 }

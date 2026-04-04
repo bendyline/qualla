@@ -80,14 +80,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "gobekli-tepe-wk",
-      "title": "Göbekli Tepe: The Temple Built Before Agriculture",
-      "tile": "syee",
+      "id": "dura-europos-church-wp",
+      "title": "Dura-Europos Church",
+      "tile": "syhv",
       "coordinates": {
-        "lat": 37.2233,
-        "lng": 38.9224
+        "lat": 34.745829,
+        "lng": 40.727958
       },
-      "distanceKm": 649.4
+      "distanceKm": 398.3
     },
     "n": {
       "id": "2018-sarpol-e-zahab-earthquake-wp",
@@ -110,14 +110,14 @@
       "distanceKm": 96.3
     },
     "w": {
-      "id": "tbilisi-wk",
-      "title": "Tbilisi",
-      "tile": "szrv",
+      "id": "armenian-genocide-memorial-church-der-zor-wp",
+      "title": "Armenian Genocide Memorial Church, Der Zor",
+      "tile": "syk8",
       "coordinates": {
-        "lat": 41.6934,
-        "lng": 44.8015
+        "lat": 35.2019,
+        "lng": 40.083
       },
-      "distanceKm": 873.7
+      "distanceKm": 475.3
     },
     "e": {
       "id": "wezmeh-wp",
@@ -159,5 +159,6 @@
       },
       "distanceKm": 148.2
     }
-  }
+  },
+  "locationWikipediaPath": "t/n/0/2/choga-mami-wp"
 }

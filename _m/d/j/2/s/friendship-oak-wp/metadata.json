@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "friendship-oak-wp",
     "sourceGeohash4": "dj2s",
-    "mediumPath": "_m/d/j/2/s/friendship-oak-wp/hero-medium.jpg",
-    "smallPath": "_m/d/j/2/s/friendship-oak-wp/hero-small.jpg"
+    "mediumPath": "_m/d/j/2/s/friendship-oak-wp/hero-medium.webp",
+    "smallPath": "_m/d/j/2/s/friendship-oak-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "FriendshipOakLimbs.jpg",
@@ -90,13 +90,12 @@
       "sourceType": "core",
       "sourceArticleId": "friendship-oak-wp",
       "sourceGeohash4": "dj2s",
-      "smallPath": "_m/d/j/2/s/friendship-oak-wp/friendship-oak-gulf-pa-small.jpg"
+      "smallPath": "_m/d/j/2/s/friendship-oak-wp/friendship-oak-gulf-pa-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/d/j/2/s/friendship-oak-wp/friendship-oak-gulf-pa.jpg"
   ],
-  "fetchedAt": "2026-02-22T03:51:36.165Z",
   "narration": {
     "files": [
       "dj2s-friendship-oak-flight-context.mp3",
@@ -114,7 +113,6 @@
       "dj2s-friendship-oak-weathering-the-gulf.mp3": 51.909875,
       "dj2s-friendship-oak-still-growing.mp3": 55.3227916
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-23T06:15:50.994Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   }
 }

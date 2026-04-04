@@ -1,0 +1,40 @@
+{
+  "id": "thelepte-wp",
+  "patch": {
+    "media": {
+      "hero": {
+        "path": "_m/s/n/n/n/thelepte-wp/hero.jpg",
+        "filename": "Thermes de Thelepte.jpg",
+        "caption": "Ruines des thermes romains",
+        "alt": "Ruines des thermes romains",
+        "width": 1000,
+        "height": 750,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 3.0",
+        "artist": "Astiosaurus",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thermes_de_Thelepte.jpg",
+        "sourceType": "core",
+        "sourceArticleId": "thelepte-wp",
+        "sourceGeohash4": "snnn",
+        "categories": [
+          "Ancient Roman thermae in Tunisia",
+          "Archaeological site of Thelepte",
+          "CC-BY-SA-3.0",
+          "Files with coordinates missing SDC location of creation",
+          "Self-published work",
+          "Taken with Canon PowerShot A70"
+        ],
+        "smallPath": "_m/s/n/n/n/thelepte-wp/hero-small.webp"
+      },
+      "narration": [
+        "_m/s/n/n/n/thelepte-wp/snnn-thelepte-flight-context.mp3",
+        "_m/s/n/n/n/thelepte-wp/snnn-thelepte-intro.mp3",
+        "_m/s/n/n/n/thelepte-wp/snnn-thelepte-crossroads-of-empire.mp3",
+        "_m/s/n/n/n/thelepte-wp/snnn-thelepte-a-city-of-bishops.mp3",
+        "_m/s/n/n/n/thelepte-wp/snnn-thelepte-birthplace-of-a-saint.mp3",
+        "_m/s/n/n/n/thelepte-wp/snnn-thelepte-what-the-ruins-remember.mp3"
+      ],
+      "combinedNarration": "_m/s/n/n/n/thelepte-wp/snnn-thelepte-combined.mp3"
+    }
+  }
+}

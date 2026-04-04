@@ -22,8 +22,8 @@
       "sourceType": "sibling",
       "sourceArticleId": "granada-cathedral-wp",
       "sourceGeohash4": "eyt7",
-      "mediumPath": "_m/e/y/t/7/granada-cathedral-wp/granada-cathedral-pano-medium.jpg",
-      "smallPath": "_m/e/y/t/7/granada-cathedral-wp/granada-cathedral-pano-small.jpg"
+      "mediumPath": "_m/e/y/t/7/granada-cathedral-wp/granada-cathedral-pano-medium.webp",
+      "smallPath": "_m/e/y/t/7/granada-cathedral-wp/granada-cathedral-pano-small.webp"
     },
     {
       "filename": "FP Toledo Cathedral 2025 - West façade.jpg",
@@ -55,5 +55,24 @@
     "_m/e/y/t/7/granada-cathedral-wp/granada-cathedral-pano.jpg",
     "_m/e/y/t/7/granada-cathedral-wp/fp-toledo-cathedral-2025-west-.jpg"
   ],
-  "updatedAt": "2026-02-20T03:13:45.060Z"
+  "updatedAt": "2026-02-20T03:13:45.060Z",
+  "narration": {
+    "files": [
+      "eyt7-granada-cathedral-flight-context.mp3",
+      "eyt7-granada-cathedral-intro.mp3",
+      "eyt7-granada-cathedral-built-on-what-came-before.mp3",
+      "eyt7-granada-cathedral-the-circle-inside-the-cross.mp3",
+      "eyt7-granada-cathedral-a-facade-rewritten-in-baroque.mp3",
+      "eyt7-granada-cathedral-gold-stars-on-a-blue-field.mp3"
+    ],
+    "durations": {
+      "eyt7-granada-cathedral-flight-context.mp3": 37.3595416,
+      "eyt7-granada-cathedral-intro.mp3": 49.8775416,
+      "eyt7-granada-cathedral-built-on-what-came-before.mp3": 48.3491666,
+      "eyt7-granada-cathedral-the-circle-inside-the-cross.mp3": 69.3052916,
+      "eyt7-granada-cathedral-a-facade-rewritten-in-baroque.mp3": 56.82725,
+      "eyt7-granada-cathedral-gold-stars-on-a-blue-field.mp3": 63.5697083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

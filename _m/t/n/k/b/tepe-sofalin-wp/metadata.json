@@ -31,8 +31,8 @@
     "sourceType": "core",
     "sourceArticleId": "tepe-sofalin-wp",
     "sourceGeohash4": "tnkb",
-    "mediumPath": "_m/t/n/k/b/tepe-sofalin-wp/hero-medium.jpg",
-    "smallPath": "_m/t/n/k/b/tepe-sofalin-wp/hero-small.jpg"
+    "mediumPath": "_m/t/n/k/b/tepe-sofalin-wp/hero-medium.webp",
+    "smallPath": "_m/t/n/k/b/tepe-sofalin-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Cuenco de borde biselado del Período de Uruk (Juzestán, Irán) - MARQ.jpg",
@@ -155,7 +155,7 @@
       "sourceType": "core",
       "sourceArticleId": "tepe-sofalin-wp",
       "sourceGeohash4": "tnkb",
-      "smallPath": "_m/t/n/k/b/tepe-sofalin-wp/proto-elamite-tablet-t-small.jpg"
+      "smallPath": "_m/t/n/k/b/tepe-sofalin-wp/proto-elamite-tablet-t-small.webp"
     }
   ],
   "galleryPaths": [
@@ -163,5 +163,23 @@
     "_m/t/j/d/d/ahvaz-wp/iran-relief-location-map.jpg",
     "_m/t/n/k/b/tepe-sofalin-wp/proto-elamite-tablet-t.jpg"
   ],
-  "fetchedAt": "2026-03-01T14:37:02.868Z"
+  "narration": {
+    "files": [
+      "tnkb-tepe-sofalin-where-writing-was-born-on-the-tehran--flight-context.mp3",
+      "tnkb-tepe-sofalin-where-writing-was-born-on-the-tehran--intro.mp3",
+      "tnkb-tepe-sofalin-where-writing-was-born-on-the-tehran--tablets-from-the-edge-of-literacy.mp3",
+      "tnkb-tepe-sofalin-where-writing-was-born-on-the-tehran--tokens-seals-and-the-machinery-of-trade.mp3",
+      "tnkb-tepe-sofalin-where-writing-was-born-on-the-tehran--silver-furnaces-and-jar-burials.mp3",
+      "tnkb-tepe-sofalin-where-writing-was-born-on-the-tehran--a-mound-with-looter-holes.mp3"
+    ],
+    "durations": {
+      "tnkb-tepe-sofalin-where-writing-was-born-on-the-tehran--flight-context.mp3": 58.643375,
+      "tnkb-tepe-sofalin-where-writing-was-born-on-the-tehran--intro.mp3": 60.30725,
+      "tnkb-tepe-sofalin-where-writing-was-born-on-the-tehran--tablets-from-the-edge-of-literacy.mp3": 58.0252916,
+      "tnkb-tepe-sofalin-where-writing-was-born-on-the-tehran--tokens-seals-and-the-machinery-of-trade.mp3": 58.77125,
+      "tnkb-tepe-sofalin-where-writing-was-born-on-the-tehran--silver-furnaces-and-jar-burials.mp3": 56.5445833,
+      "tnkb-tepe-sofalin-where-writing-was-born-on-the-tehran--a-mound-with-looter-holes.mp3": 53.4098333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

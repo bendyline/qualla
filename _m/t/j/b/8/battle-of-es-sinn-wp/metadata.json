@@ -25,7 +25,7 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-es-sinn-wp",
     "sourceGeohash4": "tjb8",
-    "smallPath": "_m/t/j/b/8/battle-of-es-sinn-wp/hero-small.jpg"
+    "smallPath": "_m/t/j/b/8/battle-of-es-sinn-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Indian Cavalry near Tigris.jpg",
@@ -76,12 +76,32 @@
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-es-sinn-wp",
       "sourceGeohash4": "tjb8",
-      "smallPath": "_m/t/j/b/8/battle-of-es-sinn-wp/dorsets-at-1st-kut-28-sept-191-small.jpg"
+      "smallPath": "_m/t/j/b/8/battle-of-es-sinn-wp/dorsets-at-1st-kut-28-sept-191-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/t/j/b/8/battle-of-es-sinn-wp/dorsets-at-1st-kut-28-sept-191.jpg"
   ],
-  "fetchedAt": "2026-03-01T07:47:57.079Z",
-  "updatedAt": "2026-03-01T07:47:58.281Z"
+  "updatedAt": "2026-03-01T07:47:58.281Z",
+  "narration": {
+    "files": [
+      "tjb8-battle-of-es-sinn-flight-context.mp3",
+      "tjb8-battle-of-es-sinn-intro.mp3",
+      "tjb8-battle-of-es-sinn-oil-empire-and-a-dangerous-ambition.mp3",
+      "tjb8-battle-of-es-sinn-a-plan-that-survived-its-own-betrayal.mp3",
+      "tjb8-battle-of-es-sinn-bayonets-at-dawn.mp3",
+      "tjb8-battle-of-es-sinn-victory-and-its-costs.mp3",
+      "tjb8-battle-of-es-sinn-the-trap-upstream.mp3"
+    ],
+    "durations": {
+      "tjb8-battle-of-es-sinn-flight-context.mp3": 36.6074583,
+      "tjb8-battle-of-es-sinn-intro.mp3": 39.5354166,
+      "tjb8-battle-of-es-sinn-oil-empire-and-a-dangerous-ambition.mp3": 60.2857916,
+      "tjb8-battle-of-es-sinn-a-plan-that-survived-its-own-betrayal.mp3": 62.488875,
+      "tjb8-battle-of-es-sinn-bayonets-at-dawn.mp3": 71.979375,
+      "tjb8-battle-of-es-sinn-victory-and-its-costs.mp3": 57.823,
+      "tjb8-battle-of-es-sinn-the-trap-upstream.mp3": 60.344
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

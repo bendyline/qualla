@@ -3,12 +3,12 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/q/8/y/san-francisco-cable-cars-wk/9q8y-san-francisco-cable-cars-the-worlds-last-moving-la-intro.mp3",
         "_m/9/q/8/y/san-francisco-cable-cars-wk/9q8y-san-francisco-cable-cars-the-worlds-last-moving-la-flight-context.mp3",
-        "_m/9/q/8/y/san-francisco-cable-cars-wk/9q8y-san-francisco-cable-cars-the-worlds-last-moving-la-the-experience.mp3",
+        "_m/9/q/8/y/san-francisco-cable-cars-wk/9q8y-san-francisco-cable-cars-the-worlds-last-moving-la-intro.mp3",
         "_m/9/q/8/y/san-francisco-cable-cars-wk/9q8y-san-francisco-cable-cars-the-worlds-last-moving-la-the-invention.mp3",
         "_m/9/q/8/y/san-francisco-cable-cars-wk/9q8y-san-francisco-cable-cars-the-worlds-last-moving-la-the-operation.mp3",
         "_m/9/q/8/y/san-francisco-cable-cars-wk/9q8y-san-francisco-cable-cars-the-worlds-last-moving-la-the-survival.mp3",
+        "_m/9/q/8/y/san-francisco-cable-cars-wk/9q8y-san-francisco-cable-cars-the-worlds-last-moving-la-the-experience.mp3",
         "_m/9/q/8/y/san-francisco-cable-cars-wk/9q8y-san-francisco-cable-cars-the-worlds-last-moving-la-visiting-cable-cars.mp3"
       ],
       "hero": {
@@ -59,7 +59,9 @@
           "Pictures of the day (2006)",
           "San Francisco International Airport at night",
           "Taken with Canon EOS 20D"
-        ]
+        ],
+        "mediumPath": "_m/9/q/8/y/san-francisco-cable-cars-wk/hero-medium.webp",
+        "smallPath": "_m/9/q/8/y/san-francisco-cable-cars-wk/hero-small.webp"
       },
       "images": [
         {
@@ -1627,7 +1629,8 @@
           "sourceGeohash4": "tpc/_ho/sa/n-/fr",
           "accessedAt": "2026-02-21T20:52:30.241Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/q/8/y/san-francisco-cable-cars-wk/9q8y-san-francisco-cable-cars-combined.mp3"
     }
   }
 }

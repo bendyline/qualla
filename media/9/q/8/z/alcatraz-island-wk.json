@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/q/8/z/alcatraz-island-wk/9q8y-alcatraz-island-intro.mp3",
-        "_m/9/q/8/z/alcatraz-island-wk/9q8y-alcatraz-island-flight-context.mp3",
-        "_m/9/q/8/z/alcatraz-island-wk/9q8y-alcatraz-island-the-escapes.mp3",
-        "_m/9/q/8/z/alcatraz-island-wk/9q8y-alcatraz-island-the-federal-prison.mp3",
-        "_m/9/q/8/z/alcatraz-island-wk/9q8y-alcatraz-island-the-fortress.mp3",
-        "_m/9/q/8/z/alcatraz-island-wk/9q8y-alcatraz-island-the-occupation.mp3",
-        "_m/9/q/8/z/alcatraz-island-wk/9q8y-alcatraz-island-visiting-alcatraz.mp3"
+        "_m/9/q/8/z/alcatraz-island-wk/9q8z-alcatraz-island-flight-context.mp3",
+        "_m/9/q/8/z/alcatraz-island-wk/9q8z-alcatraz-island-intro.mp3",
+        "_m/9/q/8/z/alcatraz-island-wk/9q8z-alcatraz-island-the-fortress.mp3",
+        "_m/9/q/8/z/alcatraz-island-wk/9q8z-alcatraz-island-the-federal-prison.mp3",
+        "_m/9/q/8/z/alcatraz-island-wk/9q8z-alcatraz-island-the-escapes.mp3",
+        "_m/9/q/8/z/alcatraz-island-wk/9q8z-alcatraz-island-the-occupation.mp3",
+        "_m/9/q/8/z/alcatraz-island-wk/9q8z-alcatraz-island-visiting-alcatraz.mp3"
       ],
       "hero": {
         "path": "_m/9/q/8/z/alcatraz-island-wk/gun-gallery-alcatraz-i.jpg",
@@ -26,8 +26,7 @@
         "sourceArticleId": "alcatraz-island-wk",
         "sourceGeohash4": "9q8z",
         "accessedAt": "2026-02-21T20:54:04.953Z",
-        "smallPath": "_m/9/q/8/z/alcatraz-island-wk/gun-gallery-alcatraz-i-small.jpg",
-        "mediumPath": "_m/9/q/8/z/alcatraz-island-wk/gun-gallery-alcatraz-i-medium.jpg"
+        "smallPath": "_m/9/q/8/z/alcatraz-island-wk/hero-small.webp"
       },
       "images": [
         {
@@ -1392,7 +1391,8 @@
             "aerialBonus": 0
           }
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/q/8/z/alcatraz-island-wk/9q8z-alcatraz-island-combined.mp3"
     }
   }
 }

@@ -26,7 +26,7 @@
     "sourceType": "core",
     "sourceArticleId": "battle-of-gonzales-wp",
     "sourceGeohash4": "9v4x",
-    "smallPath": "_m/9/v/4/x/battle-of-gonzales-wp/hero-small.jpg"
+    "smallPath": "_m/9/v/4/x/battle-of-gonzales-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Gonzales Battle Memorial.jpg",
@@ -84,13 +84,14 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-gonzales-wp",
-      "sourceGeohash4": "9v4x"
+      "sourceGeohash4": "9v4x",
+      "mediumPath": "_m/9/v/4/x/battle-of-gonzales-wp/come-and-take-it-cannon-victor-medium.webp",
+      "smallPath": "_m/9/v/4/x/battle-of-gonzales-wp/come-and-take-it-cannon-victor-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/v/4/x/battle-of-gonzales-wp/come-and-take-it-cannon-victor.jpg"
   ],
-  "fetchedAt": "2026-02-21T22:43:36.359Z",
   "narration": {
     "files": [
       "9v4x-battle-of-gonzales-flight-context.mp3",
@@ -110,8 +111,7 @@
       "9v4x-battle-of-gonzales-the-cannons-mysterious-afterlife.mp3": 77.1955,
       "9v4x-battle-of-gonzales-legacy-on-the-guadalupe.mp3": 49.6587916
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-08T06:08:58.130Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-21T22:43:36.824Z"
 }

@@ -24,7 +24,7 @@
     "sourceType": "core",
     "sourceArticleId": "porte-des-morts-wp",
     "sourceGeohash4": "f041",
-    "smallPath": "_m/f/0/4/1/porte-des-morts-wp/hero-small.jpg"
+    "smallPath": "_m/f/0/4/1/porte-des-morts-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Porte des Morts.png",
@@ -81,7 +81,7 @@
       "sourceType": "core",
       "sourceArticleId": "porte-des-morts-wp",
       "sourceGeohash4": "f041",
-      "smallPath": "_m/f/0/4/1/porte-des-morts-wp/detail-noaa-chart-1490-small.png"
+      "smallPath": "_m/f/0/4/1/porte-des-morts-wp/detail-noaa-chart-1490-small.webp"
     },
     {
       "filename": "Door Bluff.jpg",
@@ -111,7 +111,7 @@
       "sourceType": "core",
       "sourceArticleId": "porte-des-morts-wp",
       "sourceGeohash4": "f041",
-      "smallPath": "_m/f/0/4/1/porte-des-morts-wp/view-nw-northernmost-p-small.jpg"
+      "smallPath": "_m/f/0/4/1/porte-des-morts-wp/view-nw-northernmost-p-small.webp"
     },
     {
       "filename": "Walden Pond, Massachusetts on June 27, 2012.png",
@@ -166,8 +166,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "porte-des-morts-wp",
       "sourceGeohash4": "f041",
-      "mediumPath": "_m/f/0/4/1/porte-des-morts-wp/porte-des-morts-passage-medium.jpg",
-      "smallPath": "_m/f/0/4/1/porte-des-morts-wp/porte-des-morts-passage-small.jpg"
+      "mediumPath": "_m/f/0/4/1/porte-des-morts-wp/porte-des-morts-passage-medium.webp",
+      "smallPath": "_m/f/0/4/1/porte-des-morts-wp/porte-des-morts-passage-small.webp"
     },
     {
       "filename": "ISS048-E-3051 - View of Earth.jpg",
@@ -195,8 +195,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "porte-des-morts-wp",
       "sourceGeohash4": "f041",
-      "mediumPath": "_m/f/0/4/1/porte-des-morts-wp/iss048-e-3051-view-of-earth-medium.jpg",
-      "smallPath": "_m/f/0/4/1/porte-des-morts-wp/iss048-e-3051-view-of-earth-small.jpg"
+      "mediumPath": "_m/f/0/4/1/porte-des-morts-wp/iss048-e-3051-view-of-earth-medium.webp",
+      "smallPath": "_m/f/0/4/1/porte-des-morts-wp/iss048-e-3051-view-of-earth-small.webp"
     },
     {
       "filename": "ISS048-E-3052 - View of Earth.jpg",
@@ -216,8 +216,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "porte-des-morts-wp",
       "sourceGeohash4": "f041",
-      "mediumPath": "_m/f/0/4/1/porte-des-morts-wp/iss048-e-3052-view-of-earth-medium.jpg",
-      "smallPath": "_m/f/0/4/1/porte-des-morts-wp/iss048-e-3052-view-of-earth-small.jpg"
+      "mediumPath": "_m/f/0/4/1/porte-des-morts-wp/iss048-e-3052-view-of-earth-medium.webp",
+      "smallPath": "_m/f/0/4/1/porte-des-morts-wp/iss048-e-3052-view-of-earth-small.webp"
     }
   ],
   "galleryPaths": [
@@ -228,6 +228,26 @@
     "_m/f/0/4/1/porte-des-morts-wp/iss048-e-3051-view-of-earth.jpg",
     "_m/f/0/4/1/porte-des-morts-wp/iss048-e-3052-view-of-earth.jpg"
   ],
-  "fetchedAt": "2026-02-28T09:58:52.697Z",
-  "updatedAt": "2026-02-28T09:58:56.401Z"
+  "updatedAt": "2026-02-28T09:58:56.401Z",
+  "narration": {
+    "files": [
+      "f041-porte-des-morts-flight-context.mp3",
+      "f041-porte-des-morts-intro.mp3",
+      "f041-porte-des-morts-a-battle-in-the-waves.mp3",
+      "f041-porte-des-morts-currents-beneath-the-surface.mp3",
+      "f041-porte-des-morts-the-shipwreck-graveyard.mp3",
+      "f041-porte-des-morts-the-shortcut-captains-could-not-refuse.mp3",
+      "f041-porte-des-morts-deaths-door-today.mp3"
+    ],
+    "durations": {
+      "f041-porte-des-morts-flight-context.mp3": 54.90225,
+      "f041-porte-des-morts-intro.mp3": 45.0331666,
+      "f041-porte-des-morts-a-battle-in-the-waves.mp3": 70.2644583,
+      "f041-porte-des-morts-currents-beneath-the-surface.mp3": 55.4067916,
+      "f041-porte-des-morts-the-shipwreck-graveyard.mp3": 58.3459166,
+      "f041-porte-des-morts-the-shortcut-captains-could-not-refuse.mp3": 48.8131666,
+      "f041-porte-des-morts-deaths-door-today.mp3": 62.33275
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

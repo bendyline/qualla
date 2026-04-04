@@ -80,14 +80,14 @@
   },
   "directionalNeighbors": {
     "nw": {
-      "id": "qianshan-national-park-wk",
-      "title": "Qianshan National Park",
-      "tile": "wxr9",
+      "id": "liancourt-rocks-wp",
+      "title": "Liancourt Rocks",
+      "tile": "wytg",
       "coordinates": {
-        "lat": 41.0264,
-        "lng": 123.1361
+        "lat": 37.241666666667,
+        "lng": 131.86666666667
       },
-      "distanceKm": 1232.3
+      "distanceKm": 384.7
     },
     "n": {
       "id": "shirayama-hime-shrine-wp",
@@ -159,5 +159,6 @@
       },
       "distanceKm": 43.1
     }
-  }
+  },
+  "locationWikipediaPath": "x/n/3/j/kitadani-formation-wp"
 }

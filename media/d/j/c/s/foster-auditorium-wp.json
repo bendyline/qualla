@@ -23,8 +23,8 @@
           "PD-self",
           "Self-published work"
         ],
-        "mediumPath": "_m/d/j/c/s/foster-auditorium-wp/hero-medium.jpg",
-        "smallPath": "_m/d/j/c/s/foster-auditorium-wp/hero-small.jpg"
+        "mediumPath": "_m/d/j/c/s/foster-auditorium-wp/hero-medium.webp",
+        "smallPath": "_m/d/j/c/s/foster-auditorium-wp/hero-small.webp"
       },
       "images": [
         {
@@ -110,8 +110,8 @@
             "U.S. News & World Report Magazine Photograph Collection",
             "United States photographs taken on 1963-06-11"
           ],
-          "mediumPath": "_m/d/j/c/s/foster-auditorium-wp/attempting-block-integ-medium.jpg",
-          "smallPath": "_m/d/j/c/s/foster-auditorium-wp/attempting-block-integ-small.jpg"
+          "mediumPath": "_m/d/j/c/s/foster-auditorium-wp/attempting-block-integ-medium.webp",
+          "smallPath": "_m/d/j/c/s/foster-auditorium-wp/attempting-block-integ-small.webp"
         },
         {
           "path": "_m/d/j/c/s/foster-auditorium-wp/foster-auditorium.jpg",
@@ -137,7 +137,8 @@
             "Self-published work",
             "Taken with Canon Digital IXUS 70"
           ],
-          "smallPath": "_m/d/j/c/s/foster-auditorium-wp/foster-auditorium-small.jpg"
+          "smallPath": "_m/d/j/c/s/foster-auditorium-wp/foster-auditorium-small.webp",
+          "mediumPath": "_m/d/j/c/s/foster-auditorium-wp/foster-auditorium-medium.webp"
         },
         {
           "path": "_m/d/j/c/s/foster-auditorium-wp/foster-auditorium-columns.jpg",
@@ -160,7 +161,7 @@
             "Flickr images reviewed by FlickreviewR",
             "Foster Auditorium"
           ],
-          "smallPath": "_m/d/j/c/s/foster-auditorium-wp/foster-auditorium-columns-small.jpg"
+          "smallPath": "_m/d/j/c/s/foster-auditorium-wp/foster-auditorium-columns-small.webp"
         },
         {
           "path": "_m/d/j/c/s/foster-auditorium-wp/foster-auditorium-university-o.jpg",
@@ -182,7 +183,7 @@
             "PD-self",
             "Self-published work"
           ],
-          "smallPath": "_m/d/j/c/s/foster-auditorium-wp/foster-auditorium-university-o-small.jpg"
+          "smallPath": "_m/d/j/c/s/foster-auditorium-wp/foster-auditorium-university-o-small.webp"
         },
         {
           "path": "_m/d/j/c/s/foster-auditorium-wp/foster-auditorium-university-o-1.jpg",
@@ -209,7 +210,7 @@
             "Self-published work",
             "Stand in the Schoolhouse Door"
           ],
-          "smallPath": "_m/d/j/c/s/foster-auditorium-wp/foster-auditorium-university-o-1-small.jpg"
+          "smallPath": "_m/d/j/c/s/foster-auditorium-wp/foster-auditorium-university-o-1-small.webp"
         },
         {
           "path": "_m/d/j/c/s/foster-auditorium-wp/malone-hood-plaza-university-o.jpg",
@@ -233,8 +234,8 @@
             "PD-self",
             "Self-published work"
           ],
-          "mediumPath": "_m/d/j/c/s/foster-auditorium-wp/malone-hood-plaza-university-o-medium.jpg",
-          "smallPath": "_m/d/j/c/s/foster-auditorium-wp/malone-hood-plaza-university-o-small.jpg"
+          "mediumPath": "_m/d/j/c/s/foster-auditorium-wp/malone-hood-plaza-university-o-medium.webp",
+          "smallPath": "_m/d/j/c/s/foster-auditorium-wp/malone-hood-plaza-university-o-small.webp"
         },
         {
           "path": "_m/d/j/c/s/foster-auditorium-wp/malone-hood-plaza-university-o-1.jpg",
@@ -258,8 +259,8 @@
             "PD-self",
             "Self-published work"
           ],
-          "mediumPath": "_m/d/j/c/s/foster-auditorium-wp/malone-hood-plaza-university-o-1-medium.jpg",
-          "smallPath": "_m/d/j/c/s/foster-auditorium-wp/malone-hood-plaza-university-o-1-small.jpg"
+          "mediumPath": "_m/d/j/c/s/foster-auditorium-wp/malone-hood-plaza-university-o-1-medium.webp",
+          "smallPath": "_m/d/j/c/s/foster-auditorium-wp/malone-hood-plaza-university-o-1-small.webp"
         },
         {
           "path": "_m/d/j/c/s/foster-auditorium-wp/foster-auditorium-with-moon.jpg",
@@ -280,8 +281,8 @@
             "CC-BY-SA-3.0",
             "Foster Auditorium"
           ],
-          "mediumPath": "_m/d/j/c/s/foster-auditorium-wp/foster-auditorium-with-moon-medium.jpg",
-          "smallPath": "_m/d/j/c/s/foster-auditorium-wp/foster-auditorium-with-moon-small.jpg"
+          "mediumPath": "_m/d/j/c/s/foster-auditorium-wp/foster-auditorium-with-moon-medium.webp",
+          "smallPath": "_m/d/j/c/s/foster-auditorium-wp/foster-auditorium-with-moon-small.webp"
         }
       ],
       "narration": [
@@ -291,7 +292,8 @@
         "_m/d/j/c/s/foster-auditorium-wp/djcs-foster-auditorium-the-schoolhouse-door.mp3",
         "_m/d/j/c/s/foster-auditorium-wp/djcs-foster-auditorium-what-came-after.mp3",
         "_m/d/j/c/s/foster-auditorium-wp/djcs-foster-auditorium-landmark-and-living-space.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/j/c/s/foster-auditorium-wp/djcs-foster-auditorium-combined.mp3"
     }
   }
 }

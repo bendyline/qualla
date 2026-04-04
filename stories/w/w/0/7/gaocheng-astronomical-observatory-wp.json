@@ -1,0 +1,163 @@
+{
+  "id": "gaocheng-astronomical-observatory-wp",
+  "source": "wikipedia",
+  "sourceId": "7194488",
+  "title": "Gaocheng Astronomical Observatory",
+  "slug": "gaocheng-astronomical-observatory",
+  "summary": "A UNESCO World Heritage Site near Dengfeng where astronomers measured the heavens for over two millennia, producing a calendar 300 years more accurate than Europe's Gregorian reform.",
+  "content": {
+    "intro": "Three hundred years before Pope Gregory XIII reformed the Western calendar, astronomers at a brick-and-stone observatory near Dengfeng had already calculated the length of the tropical year to 365 days, 5 hours, 49 minutes, and 20 seconds. The value matched what Europe would eventually adopt. The instrument they used was not a telescope -- those would not be invented for centuries -- but a shadow. A precisely engineered gnomon cast by the midday sun onto a stone measuring track stretching more than 31 meters to the north.",
+    "sections": [
+      {
+        "title": "The Center of Heaven and Earth",
+        "body": "The Duke of Zhou, around 1042 BC, is believed to have erected the first observatory at this site because he considered it the center of heaven and earth. The concept was not merely poetic. In Chinese cosmology, the ruler's legitimacy depended on accurately predicting celestial events, and the center of the known world was the logical place from which to read the sky. For over two thousand years, astronomers returned to this spot near Dengfeng in Henan Province, building and rebuilding instruments of increasing sophistication. A gnomon used for the Da Yan calendar was installed here in 729 AD. But the structure that survives today -- and that earned the site its UNESCO World Heritage designation in 2010 -- belongs to the Yuan dynasty."
+      },
+      {
+        "title": "Measuring the Sky with Shadows",
+        "body": "The Yuan dynasty observatory, built in 1276, is an ingenious piece of engineering. It rises 9.46 meters on its own, or 12.62 meters if you count the two cabinets mounted on top. Between those cabinets hangs a horizontal bar -- the gnomon itself -- which casts its shadow northward onto a stone measuring track called the shigui, or \"ruler to measure the sky.\" The shigui extends 31.19 meters, assembled from 36 precisely cut square stones. Two parallel waterways run along its length, allowing astronomers to check the track's levelness. During measurement, a beam placed across grooves in the track carried an instrument called the jingfu, pierced with holes that refined the shadow's edge to within 2 millimeters of precision. At the winter solstice, the midday shadow stretches nearly the full length of the track."
+      },
+      {
+        "title": "The Season-Granting Calendar",
+        "body": "These painstaking measurements served a practical purpose of enormous consequence. In 1281, the astronomer Guo Shoujing and his colleagues produced the Shoushi calendar -- the \"Season-Granting Calendar\" -- which remained in official use for 364 years. It was, by far, the most accurate calendar of its era anywhere in the world. The Gaocheng observatory was the first in a network of 27 observatories built across the early Yuan dynasty's vast territory, and the precision of the measurements taken here underpinned the entire system. Five centuries later, in 1787, the French mathematician Laplace used data from this very site to verify his calculations on the secular changes of Earth's orbital eccentricity and the obliquity of the ecliptic."
+      },
+      {
+        "title": "Stone Witness to the Sky",
+        "body": "Today the observatory stands within the Duke of Zhou's shrine compound in Gaocheng Town, part of the broader \"Historic Monuments of Dengfeng 'in the Center of Heaven and Earth'\" UNESCO World Heritage designation. The stone track still points true north, aligned with the meridian as modern instruments would confirm. The brick-and-stone structure is at once massive and modest -- a functional scientific instrument disguised as architecture. From above, the shadow track reads as a narrow line extending from the observatory's base, a pointer aimed at the stars. It is a reminder that long before the age of telescopes and satellites, human beings could measure the cosmos with remarkable accuracy using nothing more than sunlight, stone, and patience."
+      }
+    ],
+    "flightContext": "Located at 34.40°N, 113.14°E near Dengfeng, Henan Province, at the foot of Mount Songshan. The observatory sits in the Gaocheng Town area, part of the broader UNESCO World Heritage cluster of Dengfeng monuments. Nearest major airport is Zhengzhou Xinzheng International (ZHCC/CGO), approximately 70 km to the east. The site is flanked by the Song Mountains to the north, which are home to the famous Shaolin Temple. Altitude recommendation: 3,000-5,000 feet AGL provides context for the mountain-plain transition. The observatory itself is small and not easily distinguished from altitude, but the Song Mountain range is a prominent landmark."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 34.40240556,
+      "lng": 113.14071111
+    },
+    "geohash": "ww07w"
+  },
+  "categories": [
+    "astronomy",
+    "observatory",
+    "UNESCO World Heritage",
+    "science history"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 720,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 9570
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - Gaocheng Astronomical Observatory",
+      "url": "https://en.wikipedia.org/wiki/Gaocheng_Astronomical_Observatory",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Yuan dynasty observatory built 1276 on order of Kublai Khan",
+        "Shigui extends 31.19 meters (some sources say 31.9 m)",
+        "Gnomon height 9.46 meters",
+        "Shoushi calendar 1281, in use 364 years",
+        "27 observatories built across Yuan territory",
+        "UNESCO designation 2010"
+      ]
+    },
+    {
+      "type": "verification",
+      "title": "Guo Shoujing - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Guo_Shoujing",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Calendar accuracy 365.2425 days, 26 seconds off modern measurement",
+        "Comparable to Gregorian Calendar, developed 300 years earlier"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "w/w/0/7/gaocheng-astronomical-observatory-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "baotou-wk",
+      "title": "Baotou",
+      "tile": "wrnp",
+      "coordinates": {
+        "lat": 40.656,
+        "lng": 109.834
+      },
+      "distanceKm": 710
+    },
+    "n": {
+      "id": "luo-river-henan-wp",
+      "title": "Luo River (Henan)",
+      "tile": "ww0q",
+      "coordinates": {
+        "lat": 34.8379,
+        "lng": 113.06957
+      },
+      "distanceKm": 23.6
+    },
+    "ne": {
+      "id": "zhengzhou-museum-wp",
+      "title": "Zhengzhou Museum",
+      "tile": "ww0v",
+      "coordinates": {
+        "lat": 34.7464,
+        "lng": 113.6214
+      },
+      "distanceKm": 14.4
+    },
+    "w": {
+      "id": "larung-gar-wp",
+      "title": "Larung Gar",
+      "tile": "wjxq",
+      "coordinates": {
+        "lat": 32.13556,
+        "lng": 100.4565
+      },
+      "distanceKm": 1146.3
+    },
+    "e": {
+      "id": "zhengzhou-airport-riot-wp",
+      "title": "Zhengzhou Airport Riot",
+      "tile": "ww0u",
+      "coordinates": {
+        "lat": 34.52625,
+        "lng": 113.84161
+      },
+      "distanceKm": 31.8
+    },
+    "sw": {
+      "id": "larung-gar-buddhist-academy-wp",
+      "title": "Larung Gar Buddhist Academy",
+      "tile": "wjxq",
+      "coordinates": {
+        "lat": 32.15277778,
+        "lng": 100.46888889
+      },
+      "distanceKm": 1140.4
+    },
+    "s": {
+      "id": "ru-ware-wp",
+      "title": "Ru Ware",
+      "tile": "ww03",
+      "coordinates": {
+        "lat": 33.92719,
+        "lng": 112.85644
+      },
+      "distanceKm": 25
+    },
+    "se": {
+      "id": "battle-of-yan-province-wp",
+      "title": "Battle of Yan Province",
+      "tile": "ww0c",
+      "coordinates": {
+        "lat": 34.08888888888889,
+        "lng": 113.66944444444445
+      },
+      "distanceKm": 10.7
+    }
+  }
+}

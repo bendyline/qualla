@@ -21,7 +21,7 @@
       "sourceType": "poi",
       "sourceArticleId": "strathcona-provincial-park-wp",
       "sourceGeohash4": "c0ye",
-      "smallPath": "_m/c/0/y/e/strathcona-provincial-park-wp/forbidden-plateau-strathcona-p-small.jpg"
+      "smallPath": "_m/c/0/y/e/strathcona-provincial-park-wp/forbidden-plateau-strathcona-p-small.webp"
     },
     {
       "filename": "Della Falls.jpg",
@@ -48,7 +48,7 @@
       "sourceType": "poi",
       "sourceArticleId": "strathcona-provincial-park-wp",
       "sourceGeohash4": "c0ye",
-      "smallPath": "_m/c/0/y/e/strathcona-provincial-park-wp/della-falls-small.jpg"
+      "smallPath": "_m/c/0/y/e/strathcona-provincial-park-wp/della-falls-small.webp"
     },
     {
       "filename": "Della Falls 3.jpg",
@@ -75,7 +75,7 @@
       "sourceType": "poi",
       "sourceArticleId": "strathcona-provincial-park-wp",
       "sourceGeohash4": "c0ye",
-      "smallPath": "_m/c/0/y/e/strathcona-provincial-park-wp/della-falls-3-small.jpg"
+      "smallPath": "_m/c/0/y/e/strathcona-provincial-park-wp/della-falls-3-small.webp"
     },
     {
       "filename": "Strathcona Love Lake.jpg",
@@ -98,8 +98,8 @@
       "sourceType": "poi",
       "sourceArticleId": "strathcona-provincial-park-wp",
       "sourceGeohash4": "c0ye",
-      "mediumPath": "_m/c/0/y/e/strathcona-provincial-park-wp/strathcona-love-lake-medium.jpg",
-      "smallPath": "_m/c/0/y/e/strathcona-provincial-park-wp/strathcona-love-lake-small.jpg"
+      "mediumPath": "_m/c/0/y/e/strathcona-provincial-park-wp/strathcona-love-lake-medium.webp",
+      "smallPath": "_m/c/0/y/e/strathcona-provincial-park-wp/strathcona-love-lake-small.webp"
     },
     {
       "filename": "ButtleLake.jpg",
@@ -124,7 +124,7 @@
       "sourceType": "poi",
       "sourceArticleId": "strathcona-provincial-park-wp",
       "sourceGeohash4": "c0ye",
-      "smallPath": "_m/c/0/y/e/strathcona-provincial-park-wp/buttlelake-small.jpg"
+      "smallPath": "_m/c/0/y/e/strathcona-provincial-park-wp/buttlelake-small.webp"
     },
     {
       "filename": "Elkhorn Mountain.png",
@@ -147,7 +147,7 @@
       "sourceType": "poi",
       "sourceArticleId": "strathcona-provincial-park-wp",
       "sourceGeohash4": "c0ye",
-      "smallPath": "_m/c/0/y/e/strathcona-provincial-park-wp/elkhorn-mountain-small.png"
+      "smallPath": "_m/c/0/y/e/strathcona-provincial-park-wp/elkhorn-mountain-small.webp"
     },
     {
       "filename": "Albert Edward summit.jpg",
@@ -168,7 +168,7 @@
       "sourceType": "poi",
       "sourceArticleId": "strathcona-provincial-park-wp",
       "sourceGeohash4": "c0ye",
-      "smallPath": "_m/c/0/y/e/strathcona-provincial-park-wp/albert-edward-summit-small.jpg"
+      "smallPath": "_m/c/0/y/e/strathcona-provincial-park-wp/albert-edward-summit-small.webp"
     },
     {
       "filename": "Highway 28 passing through Strathcona Provincial Park on Vancouver Island.jpg",
@@ -194,7 +194,7 @@
       "sourceType": "poi",
       "sourceArticleId": "strathcona-provincial-park-wp",
       "sourceGeohash4": "c0ye",
-      "smallPath": "_m/c/0/y/e/strathcona-provincial-park-wp/highway-28-passing-through-str-small.jpg"
+      "smallPath": "_m/c/0/y/e/strathcona-provincial-park-wp/highway-28-passing-through-str-small.webp"
     }
   ],
   "galleryPaths": [
@@ -207,5 +207,24 @@
     "_m/c/0/y/e/strathcona-provincial-park-wp/albert-edward-summit.jpg",
     "_m/c/0/y/e/strathcona-provincial-park-wp/highway-28-passing-through-str.jpg"
   ],
-  "updatedAt": "2026-02-19T03:19:49.976Z"
+  "updatedAt": "2026-02-19T03:19:49.976Z",
+  "narration": {
+    "files": [
+      "c0ye-strathcona-provincial-park-flight-context.mp3",
+      "c0ye-strathcona-provincial-park-intro.mp3",
+      "c0ye-strathcona-provincial-park-an-islands-wild-interior.mp3",
+      "c0ye-strathcona-provincial-park-mowachaht-territory-to-crown-land.mp3",
+      "c0ye-strathcona-provincial-park-the-park-that-kept-shrinking.mp3",
+      "c0ye-strathcona-provincial-park-wilderness-that-persists.mp3"
+    ],
+    "durations": {
+      "c0ye-strathcona-provincial-park-flight-context.mp3": 61.03625,
+      "c0ye-strathcona-provincial-park-intro.mp3": 48.3635416,
+      "c0ye-strathcona-provincial-park-an-islands-wild-interior.mp3": 64.4969166,
+      "c0ye-strathcona-provincial-park-mowachaht-territory-to-crown-land.mp3": 53.7848333,
+      "c0ye-strathcona-provincial-park-the-park-that-kept-shrinking.mp3": 53.9968333,
+      "c0ye-strathcona-provincial-park-wilderness-that-persists.mp3": 57.0819583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -153,6 +153,16 @@
       "distanceKm": 23.3
     },
     "sw": {
+      "id": "pasta-de-conchos-mine-disaster-wp",
+      "title": "Pasta de Conchos Mine Disaster",
+      "tile": "9szz",
+      "coordinates": {
+        "lat": 27.9675,
+        "lng": -101.3275
+      },
+      "distanceKm": 353
+    },
+    "s": {
       "id": "monterrey-city-wk",
       "title": "Monterrey: Mexico's Industrial Capital Where Mountains Meet Money",
       "tile": "9u8d",
@@ -160,30 +170,21 @@
         "lat": 25.6866,
         "lng": -100.3161
       },
-      "distanceKm": 372.9
-    },
-    "s": {
-      "id": "mexico-city-wk",
-      "title": "Mexico City: The Aztec Capital Rebuilt in Spanish and Slowly Sinking",
-      "tile": "9g3w",
-      "coordinates": {
-        "lat": 19.4326,
-        "lng": -99.1332
-      },
-      "distanceKm": 986.2
+      "distanceKm": 410.5
     },
     "se": {
-      "id": "merida-city-wk",
-      "title": "Mérida: The White City Gateway to Mayan Civilization",
-      "tile": "d58r",
+      "id": "battle-of-veracruz-1838-wp",
+      "title": "Battle of Veracruz (1838)",
+      "tile": "9g7t",
       "coordinates": {
-        "lat": 20.9674,
-        "lng": -89.5926
+        "lat": 19.209167,
+        "lng": -96.131389
       },
-      "distanceKm": 1070.6
+      "distanceKm": 993
     }
   },
   "keywords": [
     "battle-of-refugio"
-  ]
+  ],
+  "locationWikipediaPath": "9/v/4/c/battle-of-refugio-wp"
 }

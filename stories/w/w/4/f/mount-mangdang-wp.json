@@ -1,0 +1,148 @@
+{
+  "id": "mount-mangdang-wp",
+  "source": "wikipedia",
+  "sourceId": "63279714",
+  "title": "Mount Mangdang",
+  "slug": "mount-mangdang",
+  "summary": "A modest hill in Henan where the future Emperor Gaozu of Han slew a mythical white serpent and launched the rebellion that would create one of China's greatest dynasties.",
+  "content": {
+    "intro": "Every dynasty needs an origin myth, and the Han dynasty's begins with a sword stroke on a dark road. In 210 BC, a minor official named Liu Bang was escorting convict laborers to a construction site when many of his charges escaped. Knowing that failure meant execution under the harsh Qin legal code, he released the rest and fled to the hills of Mount Mangdang in what is now Yongcheng, Henan. There, according to legend, he encountered a great white serpent blocking his path and slew it with his sword. The Slaying of the White Serpent became the founding legend of the Han dynasty, and this modest hill in eastern Henan became hallowed ground.",
+    "sections": [
+      {
+        "title": "Birthplace of Rebellion",
+        "body": "Mount Mangdang's role in Chinese history extends beyond Liu Bang's mythology. The region was a crucible of anti-Qin resistance. Chen Sheng, who led the first organized rebellion against Qin rule, was buried beneath the hill. Liu Bang's declaration of revolt at Mangdang in 210 BC drew on this existing tradition of defiance. A shrine honoring Emperor Gaozu -- as Liu Bang would eventually be known -- was constructed at the site during the reign of his son, Emperor Wen of Han. The structure has been destroyed and rebuilt several times across the centuries; the buildings standing today date to the Qing dynasty. But the site's significance has remained constant for over two millennia."
+      },
+      {
+        "title": "Tombs of the Liang Kings",
+        "body": "The mountain holds more than revolutionary legend. Carved into its slopes are the mausoleums of the Han dynasty Kings of Liang, a vassal kingdom that flourished during the Western Han period. The most notable tombs belong to King Xiao of Liang and King Gong of Liang, whose burial chamber contained a mural called Sishen Yunqi Tu -- the Four Spirits and Cloud Vapors -- that is now considered a national treasure. In a darker chapter, the Three Kingdoms warlord Cao Cao looted these tombs in the early third century CE, using the plundered wealth to finance his military campaigns. The archaeological richness of Mount Mangdang is a testament both to the artistry buried within it and to the violence that periodically tore it open."
+      },
+      {
+        "title": "Battleground Across the Ages",
+        "body": "The hill's strategic position on the flat plains of eastern Henan made it a recurring site of conflict long after the Han dynasty's founding. Peasant rebellions swept through the area during the fall of the Ming dynasty, when Li Zicheng's forces passed through Mangdang during their march on Beijing. The Taiping Heavenly Kingdom movement of the nineteenth century also brought fighting to the region. During the Second Sino-Japanese War, Kuomintang general Lu Yuting was killed in combat near Mount Mangdang while resisting the Japanese advance. Each conflict left its mark on a landscape that has witnessed China's political upheavals from the Qin dynasty to the twentieth century."
+      }
+    ],
+    "flightContext": "Located at 34.193N, 116.497E near Yongcheng, eastern Henan Province. Low hill terrain rising from the North China Plain. Nearest major airport: Shangqiu Guanzhong Airport (ZSSG). The hill is modest in elevation but identifiable from the air by the temple complex on its slopes. Recommended viewing altitude: 3,000-5,000 feet AGL."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 34.1925,
+      "lng": 116.4967
+    },
+    "geohash": "ww4fd"
+  },
+  "categories": [
+    "historical-site",
+    "military-history",
+    "archaeology"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 620,
+    "readTime": 3,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 9989
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Mount Mangdang - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mount_Mangdang",
+      "accessedAt": "2026-03-17",
+      "claimsVerified": [
+        "Located near Yongcheng, Henan Province confirmed",
+        "210 BC Liu Bang slew white serpent and launched rebellion confirmed",
+        "Chen Sheng buried beneath the hill — note: Chen Sheng initiated first Qin rebellion, not second",
+        "Shrine built during reign of Emperor Wen of Han (Liu Bang's son) confirmed",
+        "Cao Cao looted Liang kings tombs in early third century CE confirmed",
+        "Kuomintang general killed near Mount Mangdang during Sino-Japanese War"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "w/w/4/f/mount-mangdang-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "cao-state-wp",
+      "title": "Cao (State)",
+      "tile": "ww4p",
+      "coordinates": {
+        "lat": 35.1425,
+        "lng": 115.591111
+      },
+      "distanceKm": 85.9
+    },
+    "n": {
+      "id": "pei-county-wp",
+      "title": "Pei County",
+      "tile": "ww5j",
+      "coordinates": {
+        "lat": 34.72794,
+        "lng": 116.93261
+      },
+      "distanceKm": 47
+    },
+    "ne": {
+      "id": "nansi-lake-wp",
+      "title": "Nansi Lake",
+      "tile": "ww5k",
+      "coordinates": {
+        "lat": 34.6,
+        "lng": 117.2
+      },
+      "distanceKm": 20.2
+    },
+    "w": {
+      "id": "1983-heze-earthquake-wp",
+      "title": "1983 Heze Earthquake",
+      "tile": "ww3b",
+      "coordinates": {
+        "lat": 35.206,
+        "lng": 115.213
+      },
+      "distanceKm": 134.8
+    },
+    "e": {
+      "id": "yunlong-park-wp",
+      "title": "Yunlong Park",
+      "tile": "ww56",
+      "coordinates": {
+        "lat": 34.2447,
+        "lng": 117.15
+      },
+      "distanceKm": 9.6
+    },
+    "sw": {
+      "id": "nanjie-wp",
+      "title": "Nanjie",
+      "tile": "ww10",
+      "coordinates": {
+        "lat": 33.811283333333,
+        "lng": 113.96103055556
+      },
+      "distanceKm": 190.1
+    },
+    "s": {
+      "id": "battle-of-south-henan-wp",
+      "title": "Battle of South Henan",
+      "tile": "ww08",
+      "coordinates": {
+        "lat": 33.8333,
+        "lng": 113.5
+      },
+      "distanceKm": 281.1
+    },
+    "se": {
+      "id": "munakata-taisha-wp",
+      "title": "Munakata Taisha",
+      "tile": "wyhb",
+      "coordinates": {
+        "lat": 33.830833,
+        "lng": 130.514167
+      },
+      "distanceKm": 1240.2
+    }
+  }
+}

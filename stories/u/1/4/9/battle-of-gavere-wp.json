@@ -153,37 +153,38 @@
       "distanceKm": 8.1
     },
     "sw": {
-      "id": "paris-wk",
-      "title": "Paris",
-      "tile": "u09t",
+      "id": "courrieres-mine-disaster-wp",
+      "title": "Courrieres Mine Disaster",
+      "tile": "u0fn",
       "coordinates": {
-        "lat": 48.856,
-        "lng": 2.351
+        "lat": 50.41556,
+        "lng": 2.89778
       },
-      "distanceKm": 205.2
+      "distanceKm": 29.9
     },
     "s": {
-      "id": "notre-dame-wk",
-      "title": "Notre-Dame: The Cathedral That Burned and Rose Again",
-      "tile": "u09t",
+      "id": "le-paradis-massacre-wp",
+      "title": "Le Paradis Massacre",
+      "tile": "u0cz",
       "coordinates": {
-        "lat": 48.853,
-        "lng": 2.3499
+        "lat": 50.5948,
+        "lng": 2.6477
       },
-      "distanceKm": 219.3
+      "distanceKm": 73.7
     },
     "se": {
-      "id": "alsace-wk",
-      "title": "Alsace",
-      "tile": "u0t7",
+      "id": "marcinelle-mining-disaster-wp",
+      "title": "Marcinelle Mining Disaster",
+      "tile": "u0gn",
       "coordinates": {
-        "lat": 48.5,
-        "lng": 7.5
+        "lat": 50.380556,
+        "lng": 4.442778
       },
-      "distanceKm": 334.4
+      "distanceKm": 31.5
     }
   },
   "keywords": [
     "battle-of-gavere"
-  ]
+  ],
+  "locationWikipediaPath": "u/1/4/9/battle-of-gavere-wp"
 }

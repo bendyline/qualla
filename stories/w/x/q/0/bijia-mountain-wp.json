@@ -1,0 +1,153 @@
+{
+  "id": "bijia-mountain-wp",
+  "source": "wikipedia",
+  "sourceId": "4757031",
+  "title": "Bijia Mountain",
+  "slug": "bijia-mountain",
+  "summary": "A small island in the Bohai Sea where a natural tidal causeway appears and vanishes twice daily, connecting the mainland to a mountaintop shrine honoring the god of creation.",
+  "content": {
+    "intro": "Twice a day, the sea pulls back to reveal a secret. A zigzagging cobblestone path, more than 1,600 meters long and over 10 meters wide, rises from the water between the Liaoning coast and a small island in the Bohai Sea. Walk it before the tide returns, and you reach Bijia Mountain -- a rocky peak shaped like a Chinese calligraphy pen resting in its holder, topped with pavilions dedicated to three religions and the god who, according to legend, created the world.",
+    "sections": [
+      {
+        "title": "The Bridge That Breathes",
+        "body": "The causeway connecting Bijia Mountain to the mainland is a tombolo -- a natural feature created by tidal deposits building up a ridge of sediment between an island and the shore. This particular tombolo is remarkable for its regularity and scale. At high tide, it vanishes completely beneath the waves, leaving the mountain accessible only by boat. As the sea recedes, the stone path emerges, higher than the surrounding beach, wide enough for crowds of visitors to walk abreast. The Chinese have named it Tian Qiao, the Sky Bridge, and the experience of walking across it -- watching the water retreat to reveal the path beneath your feet -- carries a sense of pilgrimage even before you reach the temples at the top."
+      },
+      {
+        "title": "Pen Holder Peak",
+        "body": "The mountain itself is modest in scale but dramatic in profile. Its summit reaches 78.3 meters above sea level, and the island spans just 1.2 square kilometers. The name Bijiashan -- Pen Holder Mountain -- comes from its distinctive silhouette: the stone pavilion at the summit resembles a giant pen resting upright in its holder. The northern face, oriented toward the mainland, is relatively gentle, with paved stone steps winding upward through pavilions and lookout points. The southern face is another world entirely -- steep cliffs, deep clefts, and grotesque rock formations that see far fewer visitors, a reminder that beauty and danger share the same island."
+      },
+      {
+        "title": "Where Three Faiths Meet",
+        "body": "The cultural significance of Bijia Mountain extends beyond its geology. The Sanqing Pavilion, constructed entirely of stone, houses approximately fifty statues representing Buddhist, Taoist, and Confucian figures. On the top floor sits a shrine to Pangu, the creator god of Chinese mythology, said to have separated heaven and earth. It is reportedly the only shrine of its kind in China -- a claim that, whether strictly accurate, speaks to the mountain's unique position as a place where Chinese spiritual traditions converge. The combination of the tidal crossing, the mountaintop temple, and the creation mythology gives Bijia Mountain a layered significance: geological marvel, spiritual destination, and living illustration of the Chinese capacity to find meaning in landscape."
+      },
+      {
+        "title": "Timing Is Everything",
+        "body": "Visiting Bijia Mountain requires paying attention to the tides. The causeway is exposed for only a few hours each cycle, and being caught on the island at high tide means waiting for the next ebb or arranging boat transport. This constraint shapes the experience in a way that modern tourism rarely allows. You cannot casually drop by. You must plan around the rhythm of the sea, coordinate your arrival with geological forces that care nothing for your schedule. It is a small discipline, but it transforms the visit from sightseeing into something closer to ceremony -- an approach to a sacred place that demands you earn your passage."
+      }
+    ],
+    "flightContext": "Located at 40.81N, 121.08E in Liaodong Bay, approximately 35 km from Jinzhou city center. From altitude, look for a small island connected to the coast by a thin causeway visible at low tide. The peak rises to 78 meters. Nearest airport is Jinzhou Jinzhouwan (ZYJZ). The surrounding waters are shallow, characteristic of the Bohai Sea coast."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 40.810277777778,
+      "lng": 121.07638888889
+    },
+    "geohash": "wxq05"
+  },
+  "categories": [
+    "Mountains of Liaoning",
+    "Islands of Liaoning",
+    "Jinzhou"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 650,
+    "readTime": 4,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 9175
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - Bijia Mountain",
+      "url": "https://en.wikipedia.org/wiki/Bijia_Mountain",
+      "accessedAt": "2026-03-18",
+      "claimsVerified": [
+        "tombolo length approximately 1,600 meters confirmed",
+        "Corrected: causeway width changed from 9 meters to over 10 meters per Wikipedia",
+        "summit 78.3 meters above sea level confirmed",
+        "island 1.2 square kilometers confirmed",
+        "Sanqing Pavilion with Buddhist, Taoist, and Confucian figures confirmed",
+        "Pangu creator deity shrine confirmed",
+        "tidal causeway known as Tian Qiao (Sky Bridge) confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "w/x/q/0/bijia-mountain-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "chaoyang-north-tower-wp",
+      "title": "Chaoyang North Tower",
+      "tile": "wxms",
+      "coordinates": {
+        "lat": 41.57888889,
+        "lng": 120.45638889
+      },
+      "distanceKm": 50.8
+    },
+    "n": {
+      "id": "yixian-formation-wp",
+      "title": "Yixian Formation",
+      "tile": "wxqh",
+      "coordinates": {
+        "lat": 41.533,
+        "lng": 121.2383
+      },
+      "distanceKm": 45.7
+    },
+    "ne": {
+      "id": "jehol-biota-wp",
+      "title": "Jehol Biota",
+      "tile": "wxr4",
+      "coordinates": {
+        "lat": 41.3,
+        "lng": 122.6
+      },
+      "distanceKm": 82.4
+    },
+    "w": {
+      "id": "memorial-for-yelu-yanning-wp",
+      "title": "Memorial for Yelü Yanning",
+      "tile": "wxmk",
+      "coordinates": {
+        "lat": 41.63,
+        "lng": 120.2
+      },
+      "distanceKm": 90.5
+    },
+    "e": {
+      "id": "red-beach-panjin-wp",
+      "title": "Red Beach (Panjin)",
+      "tile": "wxq8",
+      "coordinates": {
+        "lat": 40.90311944444444,
+        "lng": 121.82373611111112
+      },
+      "distanceKm": 15.9
+    },
+    "sw": {
+      "id": "jiumenkou-wk",
+      "title": "Jiumenkou Great Wall",
+      "tile": "wxjh",
+      "coordinates": {
+        "lat": 40.11743,
+        "lng": 119.75222
+      },
+      "distanceKm": 89.1
+    },
+    "s": {
+      "id": "liaodong-bay-wp",
+      "title": "Liaodong Bay",
+      "tile": "wxjg",
+      "coordinates": {
+        "lat": 40.04,
+        "lng": 120.89
+      },
+      "distanceKm": 65.7
+    },
+    "se": {
+      "id": "jinniushan-wp",
+      "title": "Jinniushan",
+      "tile": "wxpn",
+      "coordinates": {
+        "lat": 40.578107,
+        "lng": 122.450425
+      },
+      "distanceKm": 68.4
+    }
+  }
+}

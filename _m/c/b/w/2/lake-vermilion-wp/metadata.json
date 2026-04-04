@@ -24,7 +24,7 @@
     "sourceType": "core",
     "sourceArticleId": "lake-vermilion-wp",
     "sourceGeohash4": "cbw2",
-    "smallPath": "_m/c/b/w/2/lake-vermilion-wp/hero-small.jpg"
+    "smallPath": "_m/c/b/w/2/lake-vermilion-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Lake Vermilion Landing View.jpg",
@@ -75,7 +75,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "lake-vermilion-wp",
-      "sourceGeohash4": "cbw2"
+      "sourceGeohash4": "cbw2",
+      "mediumPath": "_m/c/b/w/2/lake-vermilion-wp/mn-tower-180720094969vermillio-medium.webp",
+      "smallPath": "_m/c/b/w/2/lake-vermilion-wp/mn-tower-180720094969vermillio-small.webp"
     },
     {
       "filename": "Minnesota Loons with Chick.jpg",
@@ -100,7 +102,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "lake-vermilion-wp",
-      "sourceGeohash4": "cbw2"
+      "sourceGeohash4": "cbw2",
+      "mediumPath": "_m/c/b/w/2/lake-vermilion-wp/minnesota-loons-with-chick-medium.webp",
+      "smallPath": "_m/c/b/w/2/lake-vermilion-wp/minnesota-loons-with-chick-small.webp"
     },
     {
       "filename": "Lake Vermilion Sunset, Tower, Minnesota (36201633246).jpg",
@@ -126,7 +130,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "lake-vermilion-wp",
-      "sourceGeohash4": "cbw2"
+      "sourceGeohash4": "cbw2",
+      "mediumPath": "_m/c/b/w/2/lake-vermilion-wp/lake-vermilion-sunset-tower-mi-medium.webp",
+      "smallPath": "_m/c/b/w/2/lake-vermilion-wp/lake-vermilion-sunset-tower-mi-small.webp"
     },
     {
       "filename": "Everett Bay - Lake Vermilion, Minnesota (36766022173).jpg",
@@ -153,7 +159,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "lake-vermilion-wp",
-      "sourceGeohash4": "cbw2"
+      "sourceGeohash4": "cbw2",
+      "mediumPath": "_m/c/b/w/2/lake-vermilion-wp/everett-bay-lake-vermilion-min-medium.webp",
+      "smallPath": "_m/c/b/w/2/lake-vermilion-wp/everett-bay-lake-vermilion-min-small.webp"
     },
     {
       "filename": "Lake Vermilion, Northern Minnesota - Rocky Lakeshore (42526418491).jpg",
@@ -179,7 +187,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "lake-vermilion-wp",
-      "sourceGeohash4": "cbw2"
+      "sourceGeohash4": "cbw2",
+      "mediumPath": "_m/c/b/w/2/lake-vermilion-wp/lake-vermilion-northern-minnes-medium.webp",
+      "smallPath": "_m/c/b/w/2/lake-vermilion-wp/lake-vermilion-northern-minnes-small.webp"
     },
     {
       "filename": "Trucks with Boat Trailers - Boat Launch on Lake Vermilion, Minnesota (43646207045).jpg",
@@ -205,7 +215,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "lake-vermilion-wp",
-      "sourceGeohash4": "cbw2"
+      "sourceGeohash4": "cbw2",
+      "mediumPath": "_m/c/b/w/2/lake-vermilion-wp/trucks-with-boat-trailers-boat-medium.webp",
+      "smallPath": "_m/c/b/w/2/lake-vermilion-wp/trucks-with-boat-trailers-boat-small.webp"
     },
     {
       "filename": "-mypubliclandsroadtrip 2016- Beat the Heat, Vermilion Lake (28219031693).jpg",
@@ -224,7 +236,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "lake-vermilion-wp",
-      "sourceGeohash4": "cbw2"
+      "sourceGeohash4": "cbw2",
+      "mediumPath": "_m/c/b/w/2/lake-vermilion-wp/mypubliclandsroadtrip-2016-bea-medium.webp",
+      "smallPath": "_m/c/b/w/2/lake-vermilion-wp/mypubliclandsroadtrip-2016-bea-small.webp"
     },
     {
       "filename": "-mypubliclandsroadtrip 2016- Beat the Heat, Vermilion Lake (28219029883).jpg",
@@ -240,7 +254,9 @@
       "dateCreated": "Taken on 21 June 2016, 11:43:38",
       "sourceType": "commons-category",
       "sourceArticleId": "lake-vermilion-wp",
-      "sourceGeohash4": "cbw2"
+      "sourceGeohash4": "cbw2",
+      "mediumPath": "_m/c/b/w/2/lake-vermilion-wp/mypubliclandsroadtrip-2016-bea-1-medium.webp",
+      "smallPath": "_m/c/b/w/2/lake-vermilion-wp/mypubliclandsroadtrip-2016-bea-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -253,7 +269,6 @@
     "_m/c/b/w/2/lake-vermilion-wp/mypubliclandsroadtrip-2016-bea.jpg",
     "_m/c/b/w/2/lake-vermilion-wp/mypubliclandsroadtrip-2016-bea-1.jpg"
   ],
-  "fetchedAt": "2026-02-22T03:13:38.942Z",
   "narration": {
     "files": [
       "cbw2-lake-vermilion-flight-context.mp3",
@@ -271,8 +286,7 @@
       "cbw2-lake-vermilion-a-park-born-from-two-worlds.mp3": 60.34725,
       "cbw2-lake-vermilion-wilderness-at-the-doorstep.mp3": 59.4209583
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T13:50:35.972Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T03:13:39.727Z"
 }

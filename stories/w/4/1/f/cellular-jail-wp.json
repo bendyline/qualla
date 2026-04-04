@@ -1,0 +1,162 @@
+{
+  "id": "cellular-jail-wp",
+  "source": "wikipedia",
+  "sourceId": "1358308",
+  "title": "Cellular Jail",
+  "slug": "cellular-jail",
+  "summary": "A colonial-era prison in the Andaman Islands where British authorities exiled India's independence fighters to a panopticon designed for total isolation, now preserved as a national memorial to their suffering and resistance.",
+  "content": {
+    "intro": "The name itself was a sentence: Kala Pani, the black water. For Hindu prisoners exiled across the sea to the Andaman Islands, the ocean crossing meant not just physical removal from the mainland but spiritual destruction -- loss of caste, loss of community, loss of everything that made a person whole. The British colonial authorities understood this perfectly. When they built the Cellular Jail at Port Blair between 1896 and 1906, they were not merely constructing a prison. They were engineering a place where India's most defiant independence activists could be broken in body and erased from society.",
+    "sections": [
+      {
+        "title": "A Wheel Built to Crush",
+        "body": "The architecture tells you everything about the intent. Seven wings radiated from a central watchtower like the spokes of a wheel, an arrangement inspired by Jeremy Bentham's panopticon -- the theoretical prison where a single guard could observe every inmate without being seen. Each wing held three stories of individual cells, 696 in total, each measuring just 4.5 meters across with a ventilator set at a height of three meters. The cells in one spoke faced the backs of cells in the next, making communication between prisoners impossible. Every person held here lived in enforced solitude. The puce-colored bricks came from Burma, shipped across the same waters that had carried the prisoners to their exile. Even the locks were designed with a cruel ingenuity: keys were thrown inside the cells where inmates could see them but never reach the latch, a daily reminder of how close and how impossibly far freedom remained."
+      },
+      {
+        "title": "Before the Walls Rose",
+        "body": "The British had been sending prisoners to the Andamans long before the Cellular Jail existed. In the aftermath of the Indian Rebellion of 1857, captured rebels were transported to the islands under the custody of Major James Pattison Walker. Two hundred arrived first, then another 733 from Karachi in 1868. Anyone connected to the Mughal royal family or who had petitioned Emperor Bahadur Shah Zafar was liable for deportation. Convicts were put to work in chain gangs building the very infrastructure of their imprisonment -- prisons, buildings, harbor facilities. By the late 19th century, officials Charles James Lyall and A. S. Lethbridge conducted an investigation and reached a perverse conclusion: the punishment of transportation was not harsh enough, since some criminals actually preferred island exile to Indian jails. Their recommendation was a dedicated 'penal stage' of brutal treatment upon arrival. The Cellular Jail was the answer."
+      },
+      {
+        "title": "Resistance Behind Bars",
+        "body": "The jail held some of the most committed figures of the Indian independence movement: Batukeshwar Dutt, Yogendra Shukla, Sachindra Nath Sanyal, Barindra Kumar Ghosh, among many others. According to the Guardian, prisoners faced torture, medical experiments, forced labor, and for many, death. But the inmates fought back. Hunger strikes became a recurring form of protest against the appalling conditions, including the quality of prison food. Authorities responded with force-feeding to keep prisoners alive -- not out of mercy, but to deny them even the dignity of martyrdom on their own terms. In March 1868, 238 prisoners attempted a mass escape. All were recaptured within weeks. One took his own life. Superintendent Walker ordered 87 of the remainder hanged. The prison's history also holds one of colonial India's most dramatic episodes: in February 1872, Sher Ali Afridi, a life convict from the Punjab Mounted Police, assassinated Lord Mayo, the Viceroy of India, during an official visit to the islands."
+      },
+      {
+        "title": "What Remains",
+        "body": "Of the original seven wings, only three survive today, along with the central watchtower. The 1941 Andaman Islands earthquake caused extensive damage. During the Japanese occupation in World War II, two more wings were dismantled, their bricks repurposed for military bunkers. After Indian independence, two additional wings were demolished to make room for the Govind Ballabh Pant Hospital. What stands now is a fraction of the original structure, but that fraction carries the full weight of its history. The Cellular Jail is a national memorial monument, and each evening a light-and-sound show narrates the stories of the freedom fighters who endured its cells. Walking the remaining corridors, you can peer into the tiny spaces where people spent years in isolation, see the gallows where the defiant were executed, and understand why Indians call this place sacred ground."
+      }
+    ],
+    "flightContext": "Located at 11.675N, 92.748E in Port Blair, South Andaman Island. The jail complex is visible from lower altitudes near the waterfront. Nearest airport is Veer Savarkar International Airport (VOPB), approximately 3 km south. Best viewed at 2,000-3,000 ft AGL. The distinctive spoke-and-hub layout may be discernible in clear conditions. Port Blair harbor and Ross Island are nearby visual references."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 11.675,
+      "lng": 92.748
+    },
+    "geohash": "w41fq"
+  },
+  "categories": [
+    "history",
+    "colonial-history",
+    "prison",
+    "memorial",
+    "indian-independence"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-06T00:00:00Z",
+    "wordCount": 780,
+    "readTime": 4,
+    "firstPublished": "2026-03-06T00:00:00Z",
+    "storyNumber": 6282
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Wikipedia - Cellular Jail",
+      "url": "https://en.wikipedia.org/wiki/Cellular_Jail",
+      "accessedAt": "2026-03-06",
+      "claimsVerified": [
+        "Construction 1896-1906 confirmed",
+        "Seven wings radiating from central watchtower confirmed",
+        "696 cells (Wikipedia figure; UNESCO cites 698, minor discrepancy across sources)",
+        "Cell ventilator set high on wall confirmed",
+        "Panopticon-inspired design confirmed",
+        "First 200 prisoners arrived under custody of Major James Pattison Walker confirmed",
+        "733 prisoners from Karachi arrived in April 1868 confirmed",
+        "March 1868 escape attempt of 238 prisoners confirmed",
+        "Superintendent Walker ordered 87 hanged confirmed",
+        "Sher Ali Afridi assassinated Lord Mayo in February 1872 confirmed",
+        "1941 earthquake caused extensive damage confirmed",
+        "Japanese occupation dismantled two wings confirmed",
+        "Two more wings demolished for Govind Ballabh Pant Hospital confirmed",
+        "Three wings survive today confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "directionalNeighbors": {
+    "nw": {
+      "id": "konark-sun-temple-wp",
+      "title": "Konark Sun Temple",
+      "tile": "tgt1",
+      "coordinates": {
+        "lat": 19.887444,
+        "lng": 86.094596
+      },
+      "distanceKm": 1091.4
+    },
+    "n": {
+      "id": "andaman-islands-wp",
+      "title": "Andaman Islands",
+      "tile": "w41z",
+      "coordinates": {
+        "lat": 12.5,
+        "lng": 92.75
+      },
+      "distanceKm": 62
+    },
+    "ne": {
+      "id": "barren-island-andaman-islands-wp",
+      "title": "Barren Island (Andaman Islands)",
+      "tile": "w44t",
+      "coordinates": {
+        "lat": 12.277777777778,
+        "lng": 93.858333333333
+      },
+      "distanceKm": 83.7
+    },
+    "w": {
+      "id": "gundicha-temple-wp",
+      "title": "Gundicha Temple",
+      "tile": "tgt0",
+      "coordinates": {
+        "lat": 19.816916666666668,
+        "lng": 85.84036111111111
+      },
+      "distanceKm": 1125.1
+    },
+    "e": {
+      "id": "coco-islands-wp",
+      "title": "Coco Islands",
+      "tile": "w4d2",
+      "coordinates": {
+        "lat": 14.116666666667,
+        "lng": 93.3675
+      },
+      "distanceKm": 270.8
+    },
+    "sw": {
+      "id": "japanese-submarine-i-64-wp",
+      "title": "Japanese Submarine I-64",
+      "tile": "w021",
+      "coordinates": {
+        "lat": 1.6666666666666665,
+        "lng": 90.21666666666667
+      },
+      "distanceKm": 1105.1
+    },
+    "s": {
+      "id": "south-sentinel-island-wp",
+      "title": "South Sentinel Island",
+      "tile": "w1cw",
+      "coordinates": {
+        "lat": 10.977777777778,
+        "lng": 92.221666666667
+      },
+      "distanceKm": 67.3
+    },
+    "se": {
+      "id": "nancowry-island-wp",
+      "title": "Nancowry Island",
+      "tile": "w16q",
+      "coordinates": {
+        "lat": 8.1130555555556,
+        "lng": 93.5025
+      },
+      "distanceKm": 370.2
+    }
+  },
+  "locationWikipediaPath": "w/4/1/f/cellular-jail-wp"
+}

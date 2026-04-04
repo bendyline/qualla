@@ -24,7 +24,7 @@
     "sourceType": "core",
     "sourceArticleId": "fort-orleans-wp",
     "sourceGeohash4": "9yvx",
-    "smallPath": "_m/9/y/v/x/fort-orleans-wp/hero-small.jpg"
+    "smallPath": "_m/9/y/v/x/fort-orleans-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Fort Orleans abandoned 1805.jpg",
@@ -87,13 +87,14 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fort-orleans-wp",
-      "sourceGeohash4": "9yvx"
+      "sourceGeohash4": "9yvx",
+      "mediumPath": "_m/9/y/v/x/fort-orleans-wp/plan-du-cours-de-la-r-des-miss-medium.webp",
+      "smallPath": "_m/9/y/v/x/fort-orleans-wp/plan-du-cours-de-la-r-des-miss-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/y/v/x/fort-orleans-wp/plan-du-cours-de-la-r-des-miss.jpg"
   ],
-  "fetchedAt": "2026-02-22T01:24:27.490Z",
   "narration": {
     "files": [
       "9yvx-fort-orleans-flight-context.mp3",
@@ -111,8 +112,7 @@
       "9yvx-fort-orleans-peace-pipes-and-palace-gardens.mp3": 63.9170416,
       "9yvx-fort-orleans-a-fort-that-vanished.mp3": 73.5459583
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T03:29:47.454Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T01:24:28.446Z"
 }

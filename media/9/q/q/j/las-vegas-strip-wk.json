@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/q/q/j/las-vegas-strip-wk/9qqk-las-vegas-strip-intro.mp3",
-        "_m/9/q/q/j/las-vegas-strip-wk/9qqk-las-vegas-strip-flight-context.mp3",
-        "_m/9/q/q/j/las-vegas-strip-wk/9qqk-las-vegas-strip-the-architecture.mp3",
-        "_m/9/q/q/j/las-vegas-strip-wk/9qqk-las-vegas-strip-the-culture.mp3",
-        "_m/9/q/q/j/las-vegas-strip-wk/9qqk-las-vegas-strip-the-economics.mp3",
-        "_m/9/q/q/j/las-vegas-strip-wk/9qqk-las-vegas-strip-the-history.mp3",
-        "_m/9/q/q/j/las-vegas-strip-wk/9qqk-las-vegas-strip-visiting-las-vegas.mp3"
+        "_m/9/q/q/j/las-vegas-strip-wk/9qqj-las-vegas-strip-flight-context.mp3",
+        "_m/9/q/q/j/las-vegas-strip-wk/9qqj-las-vegas-strip-intro.mp3",
+        "_m/9/q/q/j/las-vegas-strip-wk/9qqj-las-vegas-strip-the-history.mp3",
+        "_m/9/q/q/j/las-vegas-strip-wk/9qqj-las-vegas-strip-the-architecture.mp3",
+        "_m/9/q/q/j/las-vegas-strip-wk/9qqj-las-vegas-strip-the-economics.mp3",
+        "_m/9/q/q/j/las-vegas-strip-wk/9qqj-las-vegas-strip-the-culture.mp3",
+        "_m/9/q/q/j/las-vegas-strip-wk/9qqj-las-vegas-strip-visiting-las-vegas.mp3"
       ],
       "hero": {
         "path": "_m/9/q/q/j/las-vegas-the-strip-wk/treasure-island-hotel-las-vega.jpg",
@@ -31,7 +31,9 @@
           "Exterior of Treasure Island Hotel and Casino",
           "PD-user",
           "September 2006 in Las Vegas"
-        ]
+        ],
+        "mediumPath": "_m/9/q/q/j/las-vegas-strip-wk/hero-medium.webp",
+        "smallPath": "_m/9/q/q/j/las-vegas-strip-wk/hero-small.webp"
       },
       "images": [
         {
@@ -2055,7 +2057,8 @@
             "aerialBonus": 30
           }
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/q/q/j/las-vegas-strip-wk/9qqj-las-vegas-strip-combined.mp3"
     }
   }
 }

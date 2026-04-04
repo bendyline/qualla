@@ -111,14 +111,14 @@
       "distanceKm": 16.1
     },
     "ne": {
-      "id": "trans-labrador-highway-wk",
-      "title": "Trans-Labrador Highway",
-      "tile": "f92m",
+      "id": "chic-chocs-wildlife-reserve-wp",
+      "title": "Chic-Chocs Wildlife Reserve",
+      "tile": "f89n",
       "coordinates": {
-        "lat": 52.95,
-        "lng": -66.9
+        "lat": 48.9375,
+        "lng": -65.83
       },
-      "distanceKm": 1053
+      "distanceKm": 1050.3
     },
     "w": {
       "id": "chapleau-crown-game-preserve-wp",
@@ -170,5 +170,6 @@
       },
       "distanceKm": 93.6
     }
-  }
+  },
+  "locationWikipediaPath": "f/0/w/d/abitibi-gold-belt-wp"
 }

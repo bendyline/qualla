@@ -24,7 +24,7 @@
     "sourceType": "core",
     "sourceArticleId": "first-battle-of-memphis-wp",
     "sourceGeohash4": "9ypz",
-    "smallPath": "_m/9/y/p/z/first-battle-of-memphis-wp/hero-small.jpg"
+    "smallPath": "_m/9/y/p/z/first-battle-of-memphis-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Memphis I Battlefield Tennessee.jpg",
@@ -78,7 +78,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "first-battle-of-memphis-wp",
-      "sourceGeohash4": "9ypz"
+      "sourceGeohash4": "9ypz",
+      "smallPath": "_m/9/y/p/z/first-battle-of-memphis-wp/battle-of-memphis-i-small.webp"
     },
     {
       "filename": "3b15407u (17289550431).jpg",
@@ -94,14 +95,14 @@
       "dateCreated": "2015-04-27 10:46",
       "sourceType": "commons-category",
       "sourceArticleId": "first-battle-of-memphis-wp",
-      "sourceGeohash4": "9ypz"
+      "sourceGeohash4": "9ypz",
+      "smallPath": "_m/9/y/p/z/first-battle-of-memphis-wp/3b15407u-17289550431-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/9/y/p/z/first-battle-of-memphis-wp/battle-of-memphis-i.png",
     "_m/9/y/p/z/first-battle-of-memphis-wp/3b15407u-17289550431.jpg"
   ],
-  "fetchedAt": "2026-02-22T01:08:25.644Z",
   "narration": {
     "files": [
       "9ypz-first-battle-of-memphis-flight-context.mp3",
@@ -119,8 +120,7 @@
       "9ypz-first-battle-of-memphis-melee-on-the-mississippi.mp3": 75.088625,
       "9ypz-first-battle-of-memphis-the-river-opens.mp3": 74.5480416
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-02-09T01:10:04.625Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
   "updatedAt": "2026-02-22T01:08:26.819Z"
 }

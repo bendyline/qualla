@@ -30,8 +30,8 @@
     "sourceType": "core",
     "sourceArticleId": "damghan-wp",
     "sourceGeohash4": "tnqt",
-    "mediumPath": "_m/t/n/q/t/damghan-wp/hero-medium.jpg",
-    "smallPath": "_m/t/n/q/t/damghan-wp/hero-small.jpg"
+    "mediumPath": "_m/t/n/q/t/damghan-wp/hero-medium.webp",
+    "smallPath": "_m/t/n/q/t/damghan-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Damghan-1.jpg",
@@ -118,8 +118,8 @@
       "sourceType": "core",
       "sourceArticleId": "damghan-wp",
       "sourceGeohash4": "tnqt",
-      "mediumPath": "_m/t/n/q/t/damghan-wp/gallery-2-medium.jpg",
-      "smallPath": "_m/t/n/q/t/damghan-wp/gallery-2-small.jpg"
+      "mediumPath": "_m/t/n/q/t/damghan-wp/gallery-2-medium.webp",
+      "smallPath": "_m/t/n/q/t/damghan-wp/gallery-2-small.webp"
     },
     {
       "filename": "Imamzadeh Jafar Mausoleum Damghan.jpg",
@@ -147,8 +147,8 @@
       "sourceType": "core",
       "sourceArticleId": "damghan-wp",
       "sourceGeohash4": "tnqt",
-      "mediumPath": "_m/t/n/q/t/damghan-wp/imamzadeh-jafar-mausol-medium.jpg",
-      "smallPath": "_m/t/n/q/t/damghan-wp/imamzadeh-jafar-mausol-small.jpg"
+      "mediumPath": "_m/t/n/q/t/damghan-wp/imamzadeh-jafar-mausol-medium.webp",
+      "smallPath": "_m/t/n/q/t/damghan-wp/imamzadeh-jafar-mausol-small.webp"
     },
     {
       "filename": "Tarikhaneh Temple Damghan Iran.jpg",
@@ -180,8 +180,8 @@
       "sourceType": "core",
       "sourceArticleId": "damghan-wp",
       "sourceGeohash4": "tnqt",
-      "mediumPath": "_m/t/n/q/t/damghan-wp/photo-monument-iran-id-medium.jpg",
-      "smallPath": "_m/t/n/q/t/damghan-wp/photo-monument-iran-id-small.jpg"
+      "mediumPath": "_m/t/n/q/t/damghan-wp/photo-monument-iran-id-medium.webp",
+      "smallPath": "_m/t/n/q/t/damghan-wp/photo-monument-iran-id-small.webp"
     },
     {
       "filename": "Tappeh hesar.jpg",
@@ -206,8 +206,8 @@
       "sourceType": "core",
       "sourceArticleId": "damghan-wp",
       "sourceGeohash4": "tnqt",
-      "mediumPath": "_m/t/n/q/t/damghan-wp/tpeh-hassar-medium.jpg",
-      "smallPath": "_m/t/n/q/t/damghan-wp/tpeh-hassar-small.jpg"
+      "mediumPath": "_m/t/n/q/t/damghan-wp/tpeh-hassar-medium.webp",
+      "smallPath": "_m/t/n/q/t/damghan-wp/tpeh-hassar-small.webp"
     },
     {
       "filename": "Iaud-1.jpg",
@@ -231,8 +231,8 @@
       "sourceType": "commons-category",
       "sourceArticleId": "damghan-wp",
       "sourceGeohash4": "tnqt",
-      "mediumPath": "_m/t/n/q/t/damghan-wp/iaud-1-medium.jpg",
-      "smallPath": "_m/t/n/q/t/damghan-wp/iaud-1-small.jpg"
+      "mediumPath": "_m/t/n/q/t/damghan-wp/iaud-1-medium.webp",
+      "smallPath": "_m/t/n/q/t/damghan-wp/iaud-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -243,6 +243,26 @@
     "_m/t/n/q/t/damghan-wp/tpeh-hassar.jpg",
     "_m/t/n/q/t/damghan-wp/iaud-1.jpg"
   ],
-  "fetchedAt": "2026-03-01T16:25:20.682Z",
-  "updatedAt": "2026-03-01T16:25:34.478Z"
+  "updatedAt": "2026-03-01T16:25:34.478Z",
+  "narration": {
+    "files": [
+      "tnqt-damghan-flight-context.mp3",
+      "tnqt-damghan-intro.mp3",
+      "tnqt-damghan-seven-millennia-underground.mp3",
+      "tnqt-damghan-the-city-of-a-hundred-gates.mp3",
+      "tnqt-damghan-fire-temple-turned-mosque.mp3",
+      "tnqt-damghan-fortresses-of-the-assassins.mp3",
+      "tnqt-damghan-what-survives-and-what-was-lost.mp3"
+    ],
+    "durations": {
+      "tnqt-damghan-flight-context.mp3": 55.8197083,
+      "tnqt-damghan-intro.mp3": 56.851375,
+      "tnqt-damghan-seven-millennia-underground.mp3": 84.866625,
+      "tnqt-damghan-the-city-of-a-hundred-gates.mp3": 63.75375,
+      "tnqt-damghan-fire-temple-turned-mosque.mp3": 71.3274583,
+      "tnqt-damghan-fortresses-of-the-assassins.mp3": 68.831125,
+      "tnqt-damghan-what-survives-and-what-was-lost.mp3": 71.983125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

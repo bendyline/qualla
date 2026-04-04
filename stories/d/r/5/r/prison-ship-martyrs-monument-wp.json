@@ -108,14 +108,14 @@
       "distanceKm": 60.3
     },
     "w": {
-      "id": "george-washington-s-crossing-of-the-delaware-river-wp",
-      "title": "George Washington's Crossing of the Delaware River",
-      "tile": "dr4v",
+      "id": "basking-ridge-white-oak-wp",
+      "title": "Basking Ridge White Oak",
+      "tile": "dr4z",
       "coordinates": {
-        "lat": 40.3,
-        "lng": -74.87333333333332
+        "lat": 40.70680555555556,
+        "lng": -74.54902777777778
       },
-      "distanceKm": 52.4
+      "distanceKm": 2.1
     },
     "e": {
       "id": "wardenclyffe-tower-wp",
@@ -157,5 +157,6 @@
       },
       "distanceKm": 604.1
     }
-  }
+  },
+  "locationWikipediaPath": "d/r/5/r/prison-ship-martyrs-monument-wp"
 }

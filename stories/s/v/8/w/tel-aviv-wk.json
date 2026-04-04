@@ -77,14 +77,14 @@
   "locationWikivoyagePath": "s/v/8/w/tel-aviv-wk",
   "directionalNeighbors": {
     "nw": {
-      "id": "varosha-wk",
-      "title": "Varosha: The Ghost Resort of Cyprus",
+      "id": "siege-of-famagusta-wp",
+      "title": "Siege of Famagusta",
       "tile": "sy0p",
       "coordinates": {
-        "lat": 35.1178,
-        "lng": 33.9522
+        "lat": 35.116666666667,
+        "lng": 33.95
       },
-      "distanceKm": 308.8
+      "distanceKm": 308.7
     },
     "n": {
       "id": "rosh-haniqra-wk",
@@ -97,64 +97,64 @@
       "distanceKm": 94
     },
     "ne": {
-      "id": "beirut-wk",
-      "title": "Beirut",
-      "tile": "sy12",
+      "id": "1983-beirut-barracks-bombings-wp",
+      "title": "1983 Beirut Barracks Bombings",
+      "tile": "sy10",
       "coordinates": {
-        "lat": 33.886944444444,
-        "lng": 35.513055555556
+        "lat": 33.829166666667,
+        "lng": 35.494722222222
       },
-      "distanceKm": 174.8
+      "distanceKm": 168.2
     },
     "w": {
-      "id": "great-pyramid-wk",
-      "title": "The Great Pyramid: The Monument That Shouldn't Exist",
-      "tile": "stq4",
+      "id": "siege-of-damietta-1249-wp",
+      "title": "Siege of Damietta (1249)",
+      "tile": "stwd",
       "coordinates": {
-        "lat": 29.9792,
-        "lng": 31.1342
+        "lat": 31.4167,
+        "lng": 31.8167
       },
-      "distanceKm": 366.7
+      "distanceKm": 228.3
     },
     "e": {
-      "id": "amman-wk",
-      "title": "Amman",
-      "tile": "sv9t",
+      "id": "joseph-s-tomb-wp",
+      "title": "Joseph's Tomb",
+      "tile": "sv9p",
       "coordinates": {
-        "lat": 31.9454,
-        "lng": 35.9284
+        "lat": 32.2126898,
+        "lng": 35.2854733
       },
-      "distanceKm": 74.3
+      "distanceKm": 19.1
     },
     "sw": {
-      "id": "great-sphinx-wk",
-      "title": "The Great Sphinx: The Face That Has Been Staring at the Sunrise for 4,500 Years",
-      "tile": "stq4",
+      "id": "sack-of-damietta-853-wp",
+      "title": "Sack of Damietta (853)",
+      "tile": "stwe",
       "coordinates": {
-        "lat": 29.9753,
-        "lng": 31.1376
+        "lat": 31.5,
+        "lng": 31.835
       },
-      "distanceKm": 349.1
+      "distanceKm": 217.4
     },
     "s": {
-      "id": "library-alexandria-wk",
-      "title": "The Library of Alexandria: The Lost Knowledge of the Ancient World",
-      "tile": "stt3",
+      "id": "nova-music-festival-massacre-wp",
+      "title": "Nova Music Festival Massacre",
+      "tile": "sv8d",
       "coordinates": {
-        "lat": 31.2001,
-        "lng": 29.9187
+        "lat": 31.39777,
+        "lng": 34.47168
       },
-      "distanceKm": 451.7
+      "distanceKm": 48.9
     },
     "se": {
-      "id": "jerusalem-wk",
-      "title": "Jerusalem",
+      "id": "yad-vashem-wp",
+      "title": "Yad Vashem",
       "tile": "sv9h",
       "coordinates": {
-        "lat": 31.7683,
-        "lng": 35.2137
+        "lat": 31.7744237,
+        "lng": 35.1772481
       },
-      "distanceKm": 7.6
+      "distanceKm": 5.1
     }
   },
   "keywords": [

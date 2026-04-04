@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/8/e/3/r/big-island-wk/8e3r-big-island-intro.mp3",
-        "_m/8/e/3/r/big-island-wk/8e3r-big-island-black-sand-and-green-flash.mp3",
-        "_m/8/e/3/r/big-island-wk/8e3r-big-island-fire-and-stone.mp3",
         "_m/8/e/3/r/big-island-wk/8e3r-big-island-flight-context.mp3",
+        "_m/8/e/3/r/big-island-wk/8e3r-big-island-intro.mp3",
+        "_m/8/e/3/r/big-island-wk/8e3r-big-island-fire-and-stone.mp3",
         "_m/8/e/3/r/big-island-wk/8e3r-big-island-kona-and-kohala.mp3",
+        "_m/8/e/3/r/big-island-wk/8e3r-big-island-the-wet-side.mp3",
         "_m/8/e/3/r/big-island-wk/8e3r-big-island-summit-and-stars.mp3",
-        "_m/8/e/3/r/big-island-wk/8e3r-big-island-the-wet-side.mp3"
+        "_m/8/e/3/r/big-island-wk/8e3r-big-island-black-sand-and-green-flash.mp3"
       ],
       "hero": {
         "path": "_m/8/e/3/r/hawai-i-island-wp/hawaii-big-island-tf.jpg",
@@ -25,7 +25,9 @@
         "sourceType": "sibling",
         "sourceArticleId": "hawai-i-island-wp",
         "sourceGeohash4": "8e3r",
-        "accessedAt": "2026-02-21T20:14:46.378Z"
+        "accessedAt": "2026-02-21T20:14:46.378Z",
+        "mediumPath": "_m/8/e/3/r/big-island-wk/hero-medium.webp",
+        "smallPath": "_m/8/e/3/r/big-island-wk/hero-small.webp"
       },
       "images": [
         {
@@ -53,7 +55,7 @@
             "Media missing infobox template",
             "PD USGS"
           ],
-          "smallPath": "_m/8/e/3/r/big-island-wk/limu-o-pele-small.jpg"
+          "smallPath": "_m/8/e/3/r/big-island-wk/limu-o-pele-small.webp"
         },
         {
           "path": "_m/8/e/3/r/big-island-wk/hawaii-volcanoes-natio.jpg",
@@ -82,7 +84,7 @@
             "Taken with Olympus C-5000Z",
             "User-created GFDL images"
           ],
-          "smallPath": "_m/8/e/3/r/big-island-wk/hawaii-volcanoes-natio-small.jpg"
+          "smallPath": "_m/8/e/3/r/big-island-wk/hawaii-volcanoes-natio-small.webp"
         },
         {
           "path": "_m/8/e/3/r/big-island-wk/pastures-outside-waime.jpg",
@@ -109,8 +111,8 @@
             "Taken with Canon PowerShot A540",
             "Waimea, Hawaii County, Hawaii"
           ],
-          "smallPath": "_m/8/e/3/r/big-island-wk/pastures-outside-waime-small.jpg",
-          "mediumPath": "_m/8/e/3/r/big-island-wk/pastures-outside-waime-medium.jpg"
+          "smallPath": "_m/8/e/3/r/big-island-wk/pastures-outside-waime-small.webp",
+          "mediumPath": "_m/8/e/3/r/big-island-wk/pastures-outside-waime-medium.webp"
         },
         {
           "path": "_m/8/e/3/r/big-island-wk/pu-ukohola-heiau-natio.jpg",
@@ -136,8 +138,8 @@
             "Self-published work",
             "Taken with Nikon D200"
           ],
-          "smallPath": "_m/8/e/3/r/big-island-wk/pu-ukohola-heiau-natio-small.jpg",
-          "mediumPath": "_m/8/e/3/r/big-island-wk/pu-ukohola-heiau-natio-medium.jpg"
+          "smallPath": "_m/8/e/3/r/big-island-wk/pu-ukohola-heiau-natio-small.webp",
+          "mediumPath": "_m/8/e/3/r/big-island-wk/pu-ukohola-heiau-natio-medium.webp"
         },
         {
           "path": "_m/8/e/3/r/big-island-wk/kona-bay-hawaii-mauka.jpg",
@@ -159,8 +161,8 @@
             "GFDL",
             "Holualoa, Hawaii"
           ],
-          "smallPath": "_m/8/e/3/r/big-island-wk/kona-bay-hawaii-mauka-small.jpg",
-          "mediumPath": "_m/8/e/3/r/big-island-wk/kona-bay-hawaii-mauka-medium.jpg"
+          "smallPath": "_m/8/e/3/r/big-island-wk/kona-bay-hawaii-mauka-small.webp",
+          "mediumPath": "_m/8/e/3/r/big-island-wk/kona-bay-hawaii-mauka-medium.webp"
         },
         {
           "path": "_m/8/e/3/r/big-island-wk/reconstructed-ancient.jpg",
@@ -194,7 +196,7 @@
           "sourceArticleId": "big-island-wk",
           "sourceGeohash4": "8e3r",
           "accessedAt": "2026-02-21T20:14:46.378Z",
-          "smallPath": "_m/8/e/3/r/big-island-wk/u-s-post-office-honoka-small.jpg"
+          "smallPath": "_m/8/e/3/r/big-island-wk/u-s-post-office-honoka-small.webp"
         },
         {
           "path": "_m/8/e/3/r/big-island-wk/na-alehu-post-office-n.jpg",
@@ -211,8 +213,8 @@
           "sourceArticleId": "big-island-wk",
           "sourceGeohash4": "8e3r",
           "accessedAt": "2026-02-21T20:14:46.378Z",
-          "smallPath": "_m/8/e/3/r/big-island-wk/na-alehu-post-office-n-small.jpg",
-          "mediumPath": "_m/8/e/3/r/big-island-wk/na-alehu-post-office-n-medium.jpg"
+          "smallPath": "_m/8/e/3/r/big-island-wk/na-alehu-post-office-n-small.webp",
+          "mediumPath": "_m/8/e/3/r/big-island-wk/na-alehu-post-office-n-medium.webp"
         },
         {
           "path": "_m/8/e/3/r/big-island-wk/travel-map-big-island.png",
@@ -229,7 +231,7 @@
           "sourceArticleId": "big-island-wk",
           "sourceGeohash4": "8e3r",
           "accessedAt": "2026-02-21T20:14:46.378Z",
-          "smallPath": "_m/8/e/3/r/big-island-wk/travel-map-big-island-small.png"
+          "smallPath": "_m/8/e/3/r/big-island-wk/travel-map-big-island-small.webp"
         },
         {
           "path": "_m/c/4/h/w/spatsizi-plateau-wilderness-wk/hero.png",
@@ -903,7 +905,8 @@
           "sourceGeohash4": "8e98",
           "accessedAt": "2026-02-21T20:14:46.378Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/8/e/3/r/big-island-wk/8e3r-big-island-combined.mp3"
     }
   }
 }

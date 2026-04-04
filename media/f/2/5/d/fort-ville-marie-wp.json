@@ -28,8 +28,8 @@
           "PD-old missing SDC copyright status",
           "PD Old"
         ],
-        "mediumPath": "_m/f/2/5/d/fort-ville-marie-wp/hero-medium.jpg",
-        "smallPath": "_m/f/2/5/d/fort-ville-marie-wp/hero-small.jpg"
+        "mediumPath": "_m/f/2/5/d/fort-ville-marie-wp/hero-medium.webp",
+        "smallPath": "_m/f/2/5/d/fort-ville-marie-wp/hero-small.webp"
       },
       "images": [
         {
@@ -56,8 +56,8 @@
             "Self-published work",
             "Taken with Canon EOS 20D"
           ],
-          "mediumPath": "_m/f/2/5/d/fort-ville-marie-wp/sous-sol-du-musee-poin-medium.jpg",
-          "smallPath": "_m/f/2/5/d/fort-ville-marie-wp/sous-sol-du-musee-poin-small.jpg"
+          "mediumPath": "_m/f/2/5/d/fort-ville-marie-wp/sous-sol-du-musee-poin-medium.webp",
+          "smallPath": "_m/f/2/5/d/fort-ville-marie-wp/sous-sol-du-musee-poin-small.webp"
         },
         {
           "path": "_m/f/2/5/d/fort-ville-marie-wp/fort-ville-marie-montr.jpg",
@@ -83,8 +83,8 @@
             "PD-Art (PD-Canada)",
             "Pierre-Louis Morin"
           ],
-          "mediumPath": "_m/f/2/5/d/fort-ville-marie-wp/fort-ville-marie-montr-medium.jpg",
-          "smallPath": "_m/f/2/5/d/fort-ville-marie-wp/fort-ville-marie-montr-small.jpg"
+          "mediumPath": "_m/f/2/5/d/fort-ville-marie-wp/fort-ville-marie-montr-medium.webp",
+          "smallPath": "_m/f/2/5/d/fort-ville-marie-wp/fort-ville-marie-montr-small.webp"
         },
         {
           "path": "_m/f/2/5/d/fort-ville-marie-wp/plan-montreal-circa-16.jpg",
@@ -110,7 +110,7 @@
             "Fort Ville-Marie",
             "PD Old"
           ],
-          "smallPath": "_m/f/2/5/d/fort-ville-marie-wp/plan-montreal-circa-16-small.jpg"
+          "smallPath": "_m/f/2/5/d/fort-ville-marie-wp/plan-montreal-circa-16-small.webp"
         },
         {
           "path": "_m/f/2/5/d/fort-ville-marie-wp/jean-bourdon-c-1601-16.jpg",
@@ -134,7 +134,7 @@
             "CC-PD-Mark",
             "Jean Bourdon"
           ],
-          "smallPath": "_m/f/2/5/d/fort-ville-marie-wp/jean-bourdon-c-1601-16-small.jpg"
+          "smallPath": "_m/f/2/5/d/fort-ville-marie-wp/jean-bourdon-c-1601-16-small.webp"
         },
         {
           "path": "_m/f/2/5/d/fort-ville-marie-wp/map-central-quebec-pro.png",
@@ -156,7 +156,7 @@
             "Derivative versions",
             "Maps of Quebec"
           ],
-          "smallPath": "_m/f/2/5/d/fort-ville-marie-wp/map-central-quebec-pro-small.png"
+          "smallPath": "_m/f/2/5/d/fort-ville-marie-wp/map-central-quebec-pro-small.webp"
         },
         {
           "path": "_m/f/2/5/d/fort-ville-marie-wp/artefacts-pointe-a-calliere.jpg",
@@ -179,8 +179,8 @@
             "Fort Ville-Marie",
             "Self-published work"
           ],
-          "mediumPath": "_m/f/2/5/d/fort-ville-marie-wp/artefacts-pointe-a-calliere-medium.jpg",
-          "smallPath": "_m/f/2/5/d/fort-ville-marie-wp/artefacts-pointe-a-calliere-small.jpg"
+          "mediumPath": "_m/f/2/5/d/fort-ville-marie-wp/artefacts-pointe-a-calliere-medium.webp",
+          "smallPath": "_m/f/2/5/d/fort-ville-marie-wp/artefacts-pointe-a-calliere-small.webp"
         },
         {
           "path": "_m/f/2/5/d/fort-ville-marie-wp/montreal-de-1645-a-1652.jpg",
@@ -209,7 +209,7 @@
             "PD-old missing SDC copyright status",
             "Rivière Saint-Pierre"
           ],
-          "smallPath": "_m/f/2/5/d/fort-ville-marie-wp/montreal-de-1645-a-1652-small.jpg"
+          "smallPath": "_m/f/2/5/d/fort-ville-marie-wp/montreal-de-1645-a-1652-small.webp"
         },
         {
           "path": "_m/tpc/ol/d-/mo/nt/old-montreal/centre-histoire-montreal.jpg",
@@ -491,7 +491,17 @@
           "sourceGeohash4": "tpc/ol/d-/mo/nt",
           "accessedAt": "2026-02-28T12:48:51.566Z"
         }
-      ]
+      ],
+      "narration": [
+        "_m/f/2/5/d/fort-ville-marie-wp/f25d-fort-ville-marie-flight-context.mp3",
+        "_m/f/2/5/d/fort-ville-marie-wp/f25d-fort-ville-marie-intro.mp3",
+        "_m/f/2/5/d/fort-ville-marie-wp/f25d-fort-ville-marie-before-the-french.mp3",
+        "_m/f/2/5/d/fort-ville-marie-wp/f25d-fort-ville-marie-champlains-footprint.mp3",
+        "_m/f/2/5/d/fort-ville-marie-wp/f25d-fort-ville-marie-the-first-family-arrives.mp3",
+        "_m/f/2/5/d/fort-ville-marie-wp/f25d-fort-ville-marie-a-fort-under-siege.mp3",
+        "_m/f/2/5/d/fort-ville-marie-wp/f25d-fort-ville-marie-from-stockade-to-city.mp3"
+      ],
+      "combinedNarration": "_m/f/2/5/d/fort-ville-marie-wp/f25d-fort-ville-marie-combined.mp3"
     }
   }
 }

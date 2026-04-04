@@ -26,7 +26,7 @@
     "sourceType": "core",
     "sourceArticleId": "majlis-al-jinn-wp",
     "sourceGeohash4": "tk44",
-    "smallPath": "_m/t/k/4/4/majlis-al-jinn-wp/hero-small.jpg"
+    "smallPath": "_m/t/k/4/4/majlis-al-jinn-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Majlis al Jinn - Climbers peer into the cave.jpg",
@@ -82,7 +82,7 @@
       "sourceType": "core",
       "sourceArticleId": "majlis-al-jinn-wp",
       "sourceGeohash4": "tk44",
-      "smallPath": "_m/t/k/4/4/majlis-al-jinn-wp/person-rope-their-way-small.jpg"
+      "smallPath": "_m/t/k/4/4/majlis-al-jinn-wp/person-rope-their-way-small.webp"
     },
     {
       "filename": "Majlis al Jinn - Walking on the cave floor.jpg",
@@ -110,7 +110,7 @@
       "sourceType": "core",
       "sourceArticleId": "majlis-al-jinn-wp",
       "sourceGeohash4": "tk44",
-      "smallPath": "_m/t/k/4/4/majlis-al-jinn-wp/somebody-walking-majli-small.jpg"
+      "smallPath": "_m/t/k/4/4/majlis-al-jinn-wp/somebody-walking-majli-small.webp"
     },
     {
       "filename": "Ascending Majlis al Jinn.jpg",
@@ -138,7 +138,7 @@
       "sourceType": "core",
       "sourceArticleId": "majlis-al-jinn-wp",
       "sourceGeohash4": "tk44",
-      "smallPath": "_m/t/k/4/4/majlis-al-jinn-wp/ascending-majlis-al-jinn-small.jpg"
+      "smallPath": "_m/t/k/4/4/majlis-al-jinn-wp/ascending-majlis-al-jinn-small.webp"
     },
     {
       "filename": "Don Davidson full-1.jpg",
@@ -163,8 +163,8 @@
       "sourceType": "core",
       "sourceArticleId": "majlis-al-jinn-wp",
       "sourceGeohash4": "tk44",
-      "mediumPath": "_m/t/k/4/4/majlis-al-jinn-wp/don-davidson-jnr-far-l-medium.jpg",
-      "smallPath": "_m/t/k/4/4/majlis-al-jinn-wp/don-davidson-jnr-far-l-small.jpg"
+      "mediumPath": "_m/t/k/4/4/majlis-al-jinn-wp/don-davidson-jnr-far-l-medium.webp",
+      "smallPath": "_m/t/k/4/4/majlis-al-jinn-wp/don-davidson-jnr-far-l-small.webp"
     }
   ],
   "galleryPaths": [
@@ -173,7 +173,6 @@
     "_m/tpc/qa/lh/at/__/qalhat/ascending-majlis-al-jinn.jpg",
     "_m/t/k/4/4/majlis-al-jinn-wp/don-davidson-jnr-far-l.jpg"
   ],
-  "fetchedAt": "2026-03-01T10:23:11.901Z",
   "videos": [
     {
       "path": "_m/t/k/4/4/majlis-al-jinn-wp/base-jump.mp4",
@@ -201,5 +200,24 @@
       }
     }
   ],
-  "updatedAt": "2026-03-01T10:23:25.651Z"
+  "updatedAt": "2026-03-01T10:23:25.651Z",
+  "narration": {
+    "files": [
+      "tk44-majlis-al-jinn-flight-context.mp3",
+      "tk44-majlis-al-jinn-intro.mp3",
+      "tk44-majlis-al-jinn-into-the-dark.mp3",
+      "tk44-majlis-al-jinn-a-cathedral-of-limestone.mp3",
+      "tk44-majlis-al-jinn-climbers-in-the-cathedral.mp3",
+      "tk44-majlis-al-jinn-between-tourism-and-preservation.mp3"
+    ],
+    "durations": {
+      "tk44-majlis-al-jinn-flight-context.mp3": 43.955875,
+      "tk44-majlis-al-jinn-intro.mp3": 36.729875,
+      "tk44-majlis-al-jinn-into-the-dark.mp3": 51.8605,
+      "tk44-majlis-al-jinn-a-cathedral-of-limestone.mp3": 57.3325833,
+      "tk44-majlis-al-jinn-climbers-in-the-cathedral.mp3": 52.2785833,
+      "tk44-majlis-al-jinn-between-tourism-and-preservation.mp3": 59.863875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

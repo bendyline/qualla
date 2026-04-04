@@ -1,0 +1,63 @@
+{
+  "id": "adam-s-bridge-wp",
+  "patch": {
+    "media": {
+      "hero": {
+        "path": "_m/t/c/8/e/adam-s-bridge-wp/hero.jpg",
+        "filename": "Palk Bay bathymetry.jpg",
+        "caption": "Bathymetry of Palk Bay, an interpolated output from the national hydrographic chart",
+        "alt": "Bathymetry of Palk Bay, an interpolated output from the national hydrographic chart",
+        "width": 1038,
+        "height": 1080,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 4.0",
+        "artist": "George Victor (UU)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palk_Bay_bathymetry.jpg",
+        "sourceType": "core",
+        "sourceArticleId": "adam-s-bridge-wp",
+        "sourceGeohash4": "tc8e",
+        "categories": [
+          "Bathymetric maps of the Indian Ocean",
+          "CC-BY-SA-4.0",
+          "Palk Strait",
+          "Self-published work"
+        ],
+        "smallPath": "_m/t/c/8/e/adam-s-bridge-wp/hero-small.webp"
+      },
+      "images": [
+        {
+          "path": "_m/t/c/8/e/adam-s-bridge-wp/adam-s-bridge-as-seen-from-tal.jpg",
+          "filename": "Adam's Bridge as seen from Talaimannar, Sri Lanka the last vestige of the erstwhile Palk Isthmus.tif",
+          "caption": "Photo taken from a drone, of Adam's Bridge.",
+          "alt": "Photo taken from a drone, of Adam's Bridge.",
+          "width": 6144,
+          "height": 3456,
+          "mimeType": "image/tiff",
+          "license": "CC BY-SA 4.0",
+          "artist": "CarneDiem",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adam%27s_Bridge_as_seen_from_Talaimannar,_Sri_Lanka_the_last_vestige_of_the_erstwhile_Palk_Isthmus.tif",
+          "sourceType": "commons-category",
+          "sourceArticleId": "adam-s-bridge-wp",
+          "sourceGeohash4": "tc8e",
+          "categories": [
+            "Adam's Bridge",
+            "CC-BY-SA-4.0",
+            "Self-published work",
+            "Sri Lanka"
+          ],
+          "mediumPath": "_m/t/c/8/e/adam-s-bridge-wp/adam-s-bridge-as-seen-from-tal-medium.webp",
+          "smallPath": "_m/t/c/8/e/adam-s-bridge-wp/adam-s-bridge-as-seen-from-tal-small.webp"
+        }
+      ],
+      "narration": [
+        "_m/t/c/8/e/adam-s-bridge-wp/tc8e-adams-bridge-flight-context.mp3",
+        "_m/t/c/8/e/adam-s-bridge-wp/tc8e-adams-bridge-intro.mp3",
+        "_m/t/c/8/e/adam-s-bridge-wp/tc8e-adams-bridge-where-the-ice-ages-left-their-mark.mp3",
+        "_m/t/c/8/e/adam-s-bridge-wp/tc8e-adams-bridge-the-bridge-of-the-ramayana.mp3",
+        "_m/t/c/8/e/adam-s-bridge-wp/tc8e-adams-bridge-centuries-of-navigators-and-dredges.mp3",
+        "_m/t/c/8/e/adam-s-bridge-wp/tc8e-adams-bridge-a-canal-and-a-collision-of-values.mp3"
+      ],
+      "combinedNarration": "_m/t/c/8/e/adam-s-bridge-wp/tc8e-adam-s-bridge-combined.mp3"
+    }
+  }
+}

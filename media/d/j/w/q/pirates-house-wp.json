@@ -27,7 +27,7 @@
           "Savannah, Georgia in the 1980s",
           "The Pirate's House, Savannah, Georgia"
         ],
-        "smallPath": "_m/d/j/w/q/pirates-house-wp/hero-small.jpg"
+        "smallPath": "_m/d/j/w/q/pirates-house-wp/hero-small.webp"
       },
       "images": [
         {
@@ -54,7 +54,9 @@
             "Self-published work",
             "Signs in Savannah, Georgia",
             "The Pirate's House, Savannah, Georgia"
-          ]
+          ],
+          "mediumPath": "_m/d/j/w/q/pirates-house-wp/pirate-s-house-restaur-medium.webp",
+          "smallPath": "_m/d/j/w/q/pirates-house-wp/pirate-s-house-restaur-small.webp"
         }
       ],
       "narration": [
@@ -64,7 +66,8 @@
         "_m/d/j/w/q/pirates-house-wp/djwq-pirates-house-where-treasure-island-meets-southern-a-tavern-on-the-waterfront.mp3",
         "_m/d/j/w/q/pirates-house-wp/djwq-pirates-house-where-treasure-island-meets-southern-stevensons-ghost.mp3",
         "_m/d/j/w/q/pirates-house-wp/djwq-pirates-house-where-treasure-island-meets-southern-rescue-and-rebirth.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/j/w/q/pirates-house-wp/djwq-pirates-house-combined.mp3"
     }
   }
 }

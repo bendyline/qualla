@@ -99,7 +99,7 @@
       "sourceType": "core",
       "sourceArticleId": "kingdom-of-hormuz-wp",
       "sourceGeohash4": "tkb4",
-      "smallPath": "_m/t/k/b/4/kingdom-of-hormuz-wp/map-emirate-ormuz-oman-small.png"
+      "smallPath": "_m/t/k/b/4/kingdom-of-hormuz-wp/map-emirate-ormuz-oman-small.webp"
     },
     {
       "filename": "Flag of Ormus.png",
@@ -179,6 +179,24 @@
     "_m/t/k/4/1/qalhat-wp/hero.jpg",
     "_m/t/k/b/4/fort-nossa-senhora-da-conceicao-wp/hormuz-fort-correia.png"
   ],
-  "fetchedAt": "2026-03-01T10:30:31.633Z",
-  "updatedAt": "2026-03-01T10:30:41.305Z"
+  "updatedAt": "2026-03-01T10:30:41.305Z",
+  "narration": {
+    "files": [
+      "tkb4-kingdom-of-hormuz-flight-context.mp3",
+      "tkb4-kingdom-of-hormuz-intro.mp3",
+      "tkb4-kingdom-of-hormuz-from-mainland-to-island.mp3",
+      "tkb4-kingdom-of-hormuz-the-seat-of-pleasure.mp3",
+      "tkb4-kingdom-of-hormuz-conquest-and-decline.mp3",
+      "tkb4-kingdom-of-hormuz-ormus-in-the-imagination.mp3"
+    ],
+    "durations": {
+      "tkb4-kingdom-of-hormuz-flight-context.mp3": 41.3185416,
+      "tkb4-kingdom-of-hormuz-intro.mp3": 43.7255833,
+      "tkb4-kingdom-of-hormuz-from-mainland-to-island.mp3": 59.823375,
+      "tkb4-kingdom-of-hormuz-the-seat-of-pleasure.mp3": 62.8075833,
+      "tkb4-kingdom-of-hormuz-conquest-and-decline.mp3": 61.3081666,
+      "tkb4-kingdom-of-hormuz-ormus-in-the-imagination.mp3": 53.3585
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

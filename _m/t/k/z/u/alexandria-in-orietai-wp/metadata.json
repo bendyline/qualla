@@ -32,7 +32,7 @@
     "sourceType": "core",
     "sourceArticleId": "alexandria-in-orietai-wp",
     "sourceGeohash4": "tkzu",
-    "smallPath": "_m/t/k/z/u/alexandria-in-orietai-wp/hero-small.jpg"
+    "smallPath": "_m/t/k/z/u/alexandria-in-orietai-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "AlexanderIndiaMap.jpg",
@@ -69,5 +69,23 @@
   },
   "gallery": [],
   "galleryPaths": [],
-  "fetchedAt": "2026-03-01T11:31:08.830Z"
+  "narration": {
+    "files": [
+      "tkzu-alexandria-in-orietai-flight-context.mp3",
+      "tkzu-alexandria-in-orietai-intro.mp3",
+      "tkzu-alexandria-in-orietai-the-autumn-of-325-bc.mp3",
+      "tkzu-alexandria-in-orietai-an-emporium-for-spice-and-bdellium.mp3",
+      "tkzu-alexandria-in-orietai-the-search-for-the-lost-city.mp3",
+      "tkzu-alexandria-in-orietai-ghost-on-the-map.mp3"
+    ],
+    "durations": {
+      "tkzu-alexandria-in-orietai-flight-context.mp3": 44.0827916,
+      "tkzu-alexandria-in-orietai-intro.mp3": 40.7806666,
+      "tkzu-alexandria-in-orietai-the-autumn-of-325-bc.mp3": 49.764,
+      "tkzu-alexandria-in-orietai-an-emporium-for-spice-and-bdellium.mp3": 45.5802083,
+      "tkzu-alexandria-in-orietai-the-search-for-the-lost-city.mp3": 59.192625,
+      "tkzu-alexandria-in-orietai-ghost-on-the-map.mp3": 53.670125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

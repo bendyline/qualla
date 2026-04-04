@@ -29,8 +29,8 @@
     "sourceType": "core",
     "sourceArticleId": "karachi-harbour-wp",
     "sourceGeohash4": "tkrt",
-    "mediumPath": "_m/t/k/r/t/karachi-harbour-wp/hero-medium.jpg",
-    "smallPath": "_m/t/k/r/t/karachi-harbour-wp/hero-small.jpg"
+    "mediumPath": "_m/t/k/r/t/karachi-harbour-wp/hero-medium.webp",
+    "smallPath": "_m/t/k/r/t/karachi-harbour-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "PK Karachi asv2020-02 img45 Kemari boat terminal.jpg",
@@ -90,8 +90,8 @@
       "sourceType": "core",
       "sourceArticleId": "karachi-harbour-wp",
       "sourceGeohash4": "tkrt",
-      "mediumPath": "_m/t/k/r/t/karachi-harbour-wp/map-showing-major-road-medium.png",
-      "smallPath": "_m/t/k/r/t/karachi-harbour-wp/map-showing-major-road-small.png"
+      "mediumPath": "_m/t/k/r/t/karachi-harbour-wp/map-showing-major-road-medium.webp",
+      "smallPath": "_m/t/k/r/t/karachi-harbour-wp/map-showing-major-road-small.webp"
     },
     {
       "filename": "PK Manora near Karachi asv2020-02 img2.jpg",
@@ -119,8 +119,8 @@
       "sourceType": "core",
       "sourceArticleId": "karachi-harbour-wp",
       "sourceGeohash4": "tkrt",
-      "mediumPath": "_m/t/k/r/t/karachi-harbour-wp/lighthouse-manora-peni-medium.jpg",
-      "smallPath": "_m/t/k/r/t/karachi-harbour-wp/lighthouse-manora-peni-small.jpg"
+      "mediumPath": "_m/t/k/r/t/karachi-harbour-wp/lighthouse-manora-peni-medium.webp",
+      "smallPath": "_m/t/k/r/t/karachi-harbour-wp/lighthouse-manora-peni-small.webp"
     },
     {
       "filename": "PK Manora near Karachi asv2020-02 img9.jpg",
@@ -150,8 +150,8 @@
       "sourceType": "core",
       "sourceArticleId": "karachi-harbour-wp",
       "sourceGeohash4": "tkrt",
-      "mediumPath": "_m/t/k/r/t/karachi-harbour-wp/ferry-boat-pier-manora-medium.jpg",
-      "smallPath": "_m/t/k/r/t/karachi-harbour-wp/ferry-boat-pier-manora-small.jpg"
+      "mediumPath": "_m/t/k/r/t/karachi-harbour-wp/ferry-boat-pier-manora-medium.webp",
+      "smallPath": "_m/t/k/r/t/karachi-harbour-wp/ferry-boat-pier-manora-small.webp"
     },
     {
       "filename": "PK Karachi asv2020-02 img47 container port.jpg",
@@ -183,8 +183,8 @@
       "sourceType": "core",
       "sourceArticleId": "karachi-harbour-wp",
       "sourceGeohash4": "tkrt",
-      "mediumPath": "_m/t/k/r/t/karachi-harbour-wp/oil-port-karachi-pakis-medium.jpg",
-      "smallPath": "_m/t/k/r/t/karachi-harbour-wp/oil-port-karachi-pakis-small.jpg"
+      "mediumPath": "_m/t/k/r/t/karachi-harbour-wp/oil-port-karachi-pakis-medium.webp",
+      "smallPath": "_m/t/k/r/t/karachi-harbour-wp/oil-port-karachi-pakis-small.webp"
     }
   ],
   "galleryPaths": [
@@ -193,5 +193,23 @@
     "_m/t/k/r/t/karachi-harbour-wp/ferry-boat-pier-manora.jpg",
     "_m/t/k/r/t/karachi-harbour-wp/oil-port-karachi-pakis.jpg"
   ],
-  "fetchedAt": "2026-03-01T10:46:37.429Z"
+  "narration": {
+    "files": [
+      "tkrt-karachi-harbour-flight-context.mp3",
+      "tkrt-karachi-harbour-intro.mp3",
+      "tkrt-karachi-harbour-the-village-of-kolachi.mp3",
+      "tkrt-karachi-harbour-pirates-cannons-and-five-defenders.mp3",
+      "tkrt-karachi-harbour-cotton-suez-and-empire.mp3",
+      "tkrt-karachi-harbour-an-11-5-kilometer-lifeline.mp3"
+    ],
+    "durations": {
+      "tkrt-karachi-harbour-flight-context.mp3": 42.371875,
+      "tkrt-karachi-harbour-intro.mp3": 33.336125,
+      "tkrt-karachi-harbour-the-village-of-kolachi.mp3": 58.2017916,
+      "tkrt-karachi-harbour-pirates-cannons-and-five-defenders.mp3": 60.195125,
+      "tkrt-karachi-harbour-cotton-suez-and-empire.mp3": 59.7984166,
+      "tkrt-karachi-harbour-an-11-5-kilometer-lifeline.mp3": 49.8663333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -11,7 +11,6 @@
       "9whp-albuquerque-where-hot-air-balloons-fill-the-octobe-visiting-albuquerque.mp3"
     ],
     "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-23T17:19:32.485Z",
     "durations": {
       "9whp-albuquerque-where-hot-air-balloons-fill-the-octobe-flight-context.mp3": 52.1190416,
       "9whp-albuquerque-where-hot-air-balloons-fill-the-octobe-intro.mp3": 56.3605,
@@ -22,7 +21,6 @@
       "9whp-albuquerque-where-hot-air-balloons-fill-the-octobe-visiting-albuquerque.mp3": 53.9531666
     }
   },
-  "fetchedAt": "2026-02-21T23:53:56.090Z",
   "hero": {
     "filename": "Albuquerque Plaza Albuquerque.jpg",
     "title": "File:Albuquerque Plaza Albuquerque.jpg",
@@ -51,7 +49,7 @@
     "sourceType": "core",
     "sourceArticleId": "albuquerque-city-wk",
     "sourceGeohash4": "9whp",
-    "smallPath": "_m/9/w/h/p/albuquerque-city-wk/hero-small.jpg"
+    "smallPath": "_m/9/w/h/p/albuquerque-city-wk/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Albuquerque Plaza Albuquerque.jpg",
@@ -110,7 +108,7 @@
       "sourceType": "core",
       "sourceArticleId": "albuquerque-city-wk",
       "sourceGeohash4": "9whp",
-      "smallPath": "_m/9/w/h/p/albuquerque-city-wk/en-image-bank-america-small.jpg"
+      "smallPath": "_m/9/w/h/p/albuquerque-city-wk/en-image-bank-america-small.webp"
     },
     {
       "filename": "Abqdowntown.jpg",
@@ -140,7 +138,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "albuquerque-city-wk",
-      "sourceGeohash4": "9whp"
+      "sourceGeohash4": "9whp",
+      "mediumPath": "_m/9/w/h/p/albuquerque-city-wk/abqdowntown-medium.webp",
+      "smallPath": "_m/9/w/h/p/albuquerque-city-wk/abqdowntown-small.webp"
     },
     {
       "filename": "Albuquerque Skyline.JPG",
@@ -170,7 +170,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "albuquerque-city-wk",
-      "sourceGeohash4": "9whp"
+      "sourceGeohash4": "9whp",
+      "mediumPath": "_m/9/w/h/p/albuquerque-city-wk/albuquerque-skyline-medium.webp",
+      "smallPath": "_m/9/w/h/p/albuquerque-city-wk/albuquerque-skyline-small.webp"
     },
     {
       "filename": "Albuquerque in Clouds.JPG",
@@ -196,7 +198,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "albuquerque-city-wk",
-      "sourceGeohash4": "9whp"
+      "sourceGeohash4": "9whp",
+      "smallPath": "_m/9/w/h/p/albuquerque-city-wk/albuquerque-in-clouds-small.webp"
     },
     {
       "filename": "Albuquerque Afternoon.JPG",
@@ -222,7 +225,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "albuquerque-city-wk",
-      "sourceGeohash4": "9whp"
+      "sourceGeohash4": "9whp",
+      "smallPath": "_m/9/w/h/p/albuquerque-city-wk/albuquerque-afternoon-small.webp"
     }
   ],
   "galleryPaths": [

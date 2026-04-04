@@ -1,0 +1,152 @@
+{
+  "id": "monastery-of-santa-maria-de-la-valldigna-wp",
+  "source": "wikipedia",
+  "sourceId": "39521553",
+  "title": "Monastery of Santa Maria de la Valldigna",
+  "slug": "monastery-of-santa-maria-de-la-valldigna",
+  "summary": "A Cistercian monastery founded in 1297 that once ruled an entire valley, was sacked during revolution, and now stands restored as a constitutional symbol of Valencian identity.",
+  "content": {
+    "intro": "In 1297, James II of Aragon gave an entire valley to a group of monks. Not a parcel, not a farm -- the whole Valldigna, a green corridor tucked between limestone ridges south of Valencia. The Cistercian brothers who arrived from Santes Creus in Tarragona must have understood the gift's implications: they were to build not merely a monastery, but a center of spiritual and economic power that would shape the region for more than five centuries. The Monastery of Santa Maria de la Valldigna became exactly that, until revolution tore it apart and time nearly finished the job.",
+    "sections": [
+      {
+        "title": "Lords of the Valley",
+        "body": "The Cistercians who settled here followed their order's tradition of choosing remote, well-watered locations. The Valldigna delivered on both counts. Surrounded by hills covered in Mediterranean scrub and fed by reliable springs, the valley offered the isolation the monks sought and the agricultural potential their labor could exploit. By royal decree, the entire valley belonged to them. They farmed it, managed its water systems, and oversaw its inhabitants. The monastery grew into one of the most important Cistercian foundations in the Crown of Aragon, a spiritual powerhouse whose influence radiated far beyond its cloister walls."
+      },
+      {
+        "title": "The Confiscation",
+        "body": "For more than five hundred years, monks lived and prayed within these walls. Then came 1835 and the Ecclesiastical Confiscations of Mendizabal, a sweeping Spanish reform that dissolved religious orders and seized their properties. A revolt erupted in the Valldigna valley itself, and the monks were forced out. What followed was predictable and devastating: the monastery's goods, artwork, and furnishings were sold off, plundered, or destroyed. The buildings that had anchored the valley's identity for half a millennium were abandoned to weather, vegetation, and scavengers who carted away stone for other construction projects. Decades of neglect reduced the complex to a picturesque ruin."
+      },
+      {
+        "title": "A Symbol Rebuilt",
+        "body": "The monastery's resurrection is as much political as architectural. When the Valencian Community adopted its modern Statute of Autonomy, Article 57 designated the monastery as \"the spiritual, historical and cultural temple of the ancient Kingdom of Valencia\" and \"a symbol of the grandeur of the Valencian people.\" That is not typical language for a zoning regulation. The Generalitat Valenciana committed to recovering, restoring, and preserving the site, transforming it into a meeting point for all Valencians and a research center for regional history. The restoration work that began under this mandate has slowly returned shape and legibility to the monastery's bones -- its church, cloister, and chapter house emerging from centuries of collapse."
+      },
+      {
+        "title": "The Valley Today",
+        "body": "Simat de la Valldigna, the small town that grew up around the monastery, sits in the same green corridor that attracted the Cistercians seven centuries ago. Orange groves have replaced much of the original farmland, but the valley's character persists: quiet, enclosed, agricultural. The monastery itself now forms part of the Route of the Monasteries of Valencia, a cultural trail linking several historic religious sites across the province. Visitors walking through the restored spaces can still sense the Cistercian principle that guided the original design -- austerity as devotion, simplicity as beauty, labor as prayer. The valley the monks once owned now owns their memory."
+      }
+    ],
+    "flightContext": "Located at 39.04N, 0.31W in the Valldigna valley, Province of Valencia, Spain. The monastery complex is visible in the village of Simat de la Valldigna, set in a green valley between limestone ridges. Best viewed at 2,000-4,000 feet AGL. Nearest airport: LEVC (Valencia Airport), approximately 65 km north-northeast. The valley orientation runs roughly north-south, making it a natural corridor visible from approach patterns."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 39.042683,
+      "lng": -0.305743
+    },
+    "geohash": "eyzy1"
+  },
+  "categories": [
+    "monasteries",
+    "historical-sites",
+    "spain"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-13T00:00:00Z",
+    "wordCount": 650,
+    "readTime": 4,
+    "firstPublished": "2026-03-13T00:00:00Z",
+    "storyNumber": 8596
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "Monastery of Santa María de la Valldigna - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Monastery_of_Santa_Mar%C3%ADa_de_la_Valldigna",
+      "accessedAt": "2026-03-16",
+      "claimsVerified": [
+        "Founded 1297 by James II of Aragon confirmed",
+        "Cistercian brothers came from Santes Creus in Tarragona confirmed",
+        "Entire Valldigna valley gifted to monastery by royal decree confirmed",
+        "Ecclesiastical Confiscations of Mendizabal 1835 and revolt in valley confirmed",
+        "Valencian Statute of Autonomy Article 57 designation as 'spiritual, historical and cultural temple' confirmed",
+        "Simat de la Valldigna town location confirmed"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 2,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "e/y/z/y/monastery-of-santa-maria-de-la-valldigna-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "teruel-cathedral-wp",
+      "title": "Teruel Cathedral",
+      "tile": "ezpj",
+      "coordinates": {
+        "lat": 40.3439,
+        "lng": -1.10722
+      },
+      "distanceKm": 113.1
+    },
+    "n": {
+      "id": "valencia-wk",
+      "title": "Valencia",
+      "tile": "ezp8",
+      "coordinates": {
+        "lat": 39.4699,
+        "lng": -0.3763
+      },
+      "distanceKm": 20.2
+    },
+    "ne": {
+      "id": "peniscola-castle-wp",
+      "title": "Peniscola Castle",
+      "tile": "sp0m",
+      "coordinates": {
+        "lat": 40.3588,
+        "lng": 0.407926
+      },
+      "distanceKm": 109.5
+    },
+    "w": {
+      "id": "battle-of-almansa-wp",
+      "title": "Battle of Almansa",
+      "tile": "eyzj",
+      "coordinates": {
+        "lat": 38.874444,
+        "lng": -1.093694
+      },
+      "distanceKm": 42.8
+    },
+    "e": {
+      "id": "sa-caleta-phoenician-settlement-wp",
+      "title": "Sa Caleta Phoenician Settlement",
+      "tile": "snbv",
+      "coordinates": {
+        "lat": 38.86777778,
+        "lng": 1.32972222
+      },
+      "distanceKm": 88.8
+    },
+    "sw": {
+      "id": "murcia-cathedral-wp",
+      "title": "Murcia Cathedral",
+      "tile": "eyz0",
+      "coordinates": {
+        "lat": 37.98404,
+        "lng": -1.12865
+      },
+      "distanceKm": 102.9
+    },
+    "s": {
+      "id": "santa-barbara-castle-wp",
+      "title": "Santa Bàrbara Castle",
+      "tile": "eyzd",
+      "coordinates": {
+        "lat": 38.349,
+        "lng": -0.478
+      },
+      "distanceKm": 61.4
+    },
+    "se": {
+      "id": "battle-of-formentera-wp",
+      "title": "Battle of Formentera",
+      "tile": "snch",
+      "coordinates": {
+        "lat": 38.7,
+        "lng": 1.45
+      },
+      "distanceKm": 96.6
+    }
+  }
+}

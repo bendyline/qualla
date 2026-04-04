@@ -3,13 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/c/2/8/v/bellingham-washington-wk/c28v-bellingham-washington-intro.mp3",
-        "_m/c/2/8/v/bellingham-washington-wk/c28v-bellingham-washington-chuckanut-drive.mp3",
-        "_m/c/2/8/v/bellingham-washington-wk/c28v-bellingham-washington-fairhaven-and-historic-bellingham.mp3",
         "_m/c/2/8/v/bellingham-washington-wk/c28v-bellingham-washington-flight-context.mp3",
+        "_m/c/2/8/v/bellingham-washington-wk/c28v-bellingham-washington-intro.mp3",
+        "_m/c/2/8/v/bellingham-washington-wk/c28v-bellingham-washington-fairhaven-and-historic-bellingham.mp3",
         "_m/c/2/8/v/bellingham-washington-wk/c28v-bellingham-washington-gateway-to-adventure.mp3",
-        "_m/c/2/8/v/bellingham-washington-wk/c28v-bellingham-washington-the-canada-connection.mp3",
-        "_m/c/2/8/v/bellingham-washington-wk/c28v-bellingham-washington-the-university-town.mp3"
+        "_m/c/2/8/v/bellingham-washington-wk/c28v-bellingham-washington-the-university-town.mp3",
+        "_m/c/2/8/v/bellingham-washington-wk/c28v-bellingham-washington-chuckanut-drive.mp3",
+        "_m/c/2/8/v/bellingham-washington-wk/c28v-bellingham-washington-the-canada-connection.mp3"
       ],
       "hero": {
         "path": "_m/c/2/8/v/bellingham-washington-wp/bellingham-washington-harbor-f.jpg",
@@ -25,7 +25,9 @@
         "sourceType": "sibling",
         "sourceArticleId": "bellingham-washington-wp",
         "sourceGeohash4": "c28v",
-        "accessedAt": "2026-02-22T02:03:57.187Z"
+        "accessedAt": "2026-02-22T02:03:57.187Z",
+        "mediumPath": "_m/c/2/8/v/bellingham-washington-wk/hero-medium.webp",
+        "smallPath": "_m/c/2/8/v/bellingham-washington-wk/hero-small.webp"
       },
       "images": [
         {
@@ -51,8 +53,8 @@
             "Taken with Nikon Coolpix P4",
             "Whatcom Museum of History and Art"
           ],
-          "smallPath": "_m/c/2/8/v/bellingham-washington-wk/whatcom-museum-history-small.jpg",
-          "mediumPath": "_m/c/2/8/v/bellingham-washington-wk/whatcom-museum-history-medium.jpg"
+          "smallPath": "_m/c/2/8/v/bellingham-washington-wk/whatcom-museum-history-small.webp",
+          "mediumPath": "_m/c/2/8/v/bellingham-washington-wk/whatcom-museum-history-medium.webp"
         },
         {
           "path": "_m/c/2/8/v/bellingham-washington-wk/m-v-malaspina-port-ska.jpg",
@@ -99,8 +101,8 @@
             "Self-published work",
             "Taken with Nikon Coolpix 7600"
           ],
-          "smallPath": "_m/c/2/8/v/bellingham-washington-wk/lake-padden-small.jpg",
-          "mediumPath": "_m/c/2/8/v/bellingham-washington-wk/lake-padden-medium.jpg"
+          "smallPath": "_m/c/2/8/v/bellingham-washington-wk/lake-padden-small.webp",
+          "mediumPath": "_m/c/2/8/v/bellingham-washington-wk/lake-padden-medium.webp"
         },
         {
           "path": "_m/c/2/8/v/bellingham-washington-wk/bellingham-amtrak-stat.jpg",
@@ -125,8 +127,8 @@
             "Self-published work",
             "Taken with Nikon Coolpix 7600"
           ],
-          "smallPath": "_m/c/2/8/v/bellingham-washington-wk/bellingham-amtrak-stat-small.jpg",
-          "mediumPath": "_m/c/2/8/v/bellingham-washington-wk/bellingham-amtrak-stat-medium.jpg"
+          "smallPath": "_m/c/2/8/v/bellingham-washington-wk/bellingham-amtrak-stat-small.webp",
+          "mediumPath": "_m/c/2/8/v/bellingham-washington-wk/bellingham-amtrak-stat-medium.webp"
         },
         {
           "path": "_m/c/2/8/v/bellingham-washington-wk/whatcom-falls-park-bel.jpg",
@@ -156,8 +158,8 @@
             "Whatcom Falls Park",
             "Works Progress Administration in Washington (state)"
           ],
-          "smallPath": "_m/c/2/8/v/bellingham-washington-wk/whatcom-falls-park-bel-small.jpg",
-          "mediumPath": "_m/c/2/8/v/bellingham-washington-wk/whatcom-falls-park-bel-medium.jpg"
+          "smallPath": "_m/c/2/8/v/bellingham-washington-wk/whatcom-falls-park-bel-small.webp",
+          "mediumPath": "_m/c/2/8/v/bellingham-washington-wk/whatcom-falls-park-bel-medium.webp"
         },
         {
           "path": "_m/c/2/8/v/bellingham-washington-wk/i072508-201.jpg",
@@ -179,8 +181,8 @@
             "CC-BY-SA-2.0",
             "Files with coordinates missing SDC location of creation"
           ],
-          "smallPath": "_m/c/2/8/v/bellingham-washington-wk/i072508-201-small.jpg",
-          "mediumPath": "_m/c/2/8/v/bellingham-washington-wk/i072508-201-medium.jpg"
+          "smallPath": "_m/c/2/8/v/bellingham-washington-wk/i072508-201-small.webp",
+          "mediumPath": "_m/c/2/8/v/bellingham-washington-wk/i072508-201-medium.webp"
         },
         {
           "path": "_m/c/2/8/v/bellingham-washington-wk/alaska-airlines-boeing-737-990.jpg",
@@ -245,8 +247,8 @@
           "sourceArticleId": "bellingham-washington-wk",
           "sourceGeohash4": "c28v",
           "accessedAt": "2026-02-22T02:03:57.187Z",
-          "smallPath": "_m/c/2/8/v/bellingham-washington-wk/western-washington-uni-small.jpg",
-          "mediumPath": "_m/c/2/8/v/bellingham-washington-wk/western-washington-uni-medium.jpg"
+          "smallPath": "_m/c/2/8/v/bellingham-washington-wk/western-washington-uni-small.webp",
+          "mediumPath": "_m/c/2/8/v/bellingham-washington-wk/western-washington-uni-medium.webp"
         },
         {
           "path": "_m/c/2/8/v/bellingham-washington-wk/lake-whatcom-basin.jpg",
@@ -263,8 +265,8 @@
           "sourceArticleId": "bellingham-washington-wk",
           "sourceGeohash4": "c28v",
           "accessedAt": "2026-02-22T02:03:57.187Z",
-          "smallPath": "_m/c/2/8/v/bellingham-washington-wk/lake-whatcom-basin-small.jpg",
-          "mediumPath": "_m/c/2/8/v/bellingham-washington-wk/lake-whatcom-basin-medium.jpg"
+          "smallPath": "_m/c/2/8/v/bellingham-washington-wk/lake-whatcom-basin-small.webp",
+          "mediumPath": "_m/c/2/8/v/bellingham-washington-wk/lake-whatcom-basin-medium.webp"
         },
         {
           "path": "_m/c/2/8/v/bellingham-washington-wk/whatcom-falls-park-bri.jpg",
@@ -281,8 +283,8 @@
           "sourceArticleId": "bellingham-washington-wk",
           "sourceGeohash4": "c28v",
           "accessedAt": "2026-02-22T02:03:57.187Z",
-          "smallPath": "_m/c/2/8/v/bellingham-washington-wk/whatcom-falls-park-bri-small.jpg",
-          "mediumPath": "_m/c/2/8/v/bellingham-washington-wk/whatcom-falls-park-bri-medium.jpg"
+          "smallPath": "_m/c/2/8/v/bellingham-washington-wk/whatcom-falls-park-bri-small.webp",
+          "mediumPath": "_m/c/2/8/v/bellingham-washington-wk/whatcom-falls-park-bri-medium.webp"
         },
         {
           "path": "_m/c/2/8/v/bellingham-washington-wk/500px-provided-descrip.jpg",
@@ -299,8 +301,8 @@
           "sourceArticleId": "bellingham-washington-wk",
           "sourceGeohash4": "c28v",
           "accessedAt": "2026-02-22T02:03:57.187Z",
-          "smallPath": "_m/c/2/8/v/bellingham-washington-wk/500px-provided-descrip-small.jpg",
-          "mediumPath": "_m/c/2/8/v/bellingham-washington-wk/500px-provided-descrip-medium.jpg"
+          "smallPath": "_m/c/2/8/v/bellingham-washington-wk/500px-provided-descrip-small.webp",
+          "mediumPath": "_m/c/2/8/v/bellingham-washington-wk/500px-provided-descrip-medium.webp"
         },
         {
           "path": "_m/c/2/8/v/bellingham-washington-wk/autokary-flixbus-na-dw.jpg",
@@ -1436,7 +1438,8 @@
           "sourceGeohash4": "c28x",
           "accessedAt": "2026-02-22T02:03:57.187Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/c/2/8/v/bellingham-washington-wk/c28v-bellingham-washington-combined.mp3"
     }
   }
 }

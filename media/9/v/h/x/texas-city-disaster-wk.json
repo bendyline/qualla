@@ -3,20 +3,13 @@
   "patch": {
     "media": {
       "narration": [
-        "_m/9/v/h/x/texas-city-disaster-wk/9v6g-texas-city-disaster-intro.mp3",
-        "_m/9/v/h/x/texas-city-disaster-wk/9v5e-the-texas-city-disaster-when-fertilizer-leveled-a--intro.mp3",
-        "_m/9/v/h/x/texas-city-disaster-wk/9v5e-the-texas-city-disaster-when-fertilizer-leveled-a--flight-context.mp3",
-        "_m/9/v/h/x/texas-city-disaster-wk/9v5e-the-texas-city-disaster-when-fertilizer-leveled-a--the-blast.mp3",
-        "_m/9/v/h/x/texas-city-disaster-wk/9v5e-the-texas-city-disaster-when-fertilizer-leveled-a--the-fire.mp3",
-        "_m/9/v/h/x/texas-city-disaster-wk/9v5e-the-texas-city-disaster-when-fertilizer-leveled-a--the-reckoning.mp3",
-        "_m/9/v/h/x/texas-city-disaster-wk/9v5e-the-texas-city-disaster-when-fertilizer-leveled-a--the-second-explosion.mp3",
-        "_m/9/v/h/x/texas-city-disaster-wk/9v5e-the-texas-city-disaster-when-fertilizer-leveled-a--the-spectators.mp3",
-        "_m/9/v/h/x/texas-city-disaster-wk/9v6g-texas-city-disaster-flight-context.mp3",
-        "_m/9/v/h/x/texas-city-disaster-wk/9v6g-texas-city-disaster-the-aftermath.mp3",
-        "_m/9/v/h/x/texas-city-disaster-wk/9v6g-texas-city-disaster-the-destruction.mp3",
-        "_m/9/v/h/x/texas-city-disaster-wk/9v6g-texas-city-disaster-the-fire.mp3",
-        "_m/9/v/h/x/texas-city-disaster-wk/9v6g-texas-city-disaster-the-second-explosion.mp3",
-        "_m/9/v/h/x/texas-city-disaster-wk/9v6g-texas-city-disaster-visiting-texas-city.mp3"
+        "_m/9/v/h/x/texas-city-disaster-wk/9vhx-the-texas-city-disaster-when-fertilizer-leveled-a--flight-context.mp3",
+        "_m/9/v/h/x/texas-city-disaster-wk/9vhx-the-texas-city-disaster-when-fertilizer-leveled-a--intro.mp3",
+        "_m/9/v/h/x/texas-city-disaster-wk/9vhx-the-texas-city-disaster-when-fertilizer-leveled-a--the-fire.mp3",
+        "_m/9/v/h/x/texas-city-disaster-wk/9vhx-the-texas-city-disaster-when-fertilizer-leveled-a--the-spectators.mp3",
+        "_m/9/v/h/x/texas-city-disaster-wk/9vhx-the-texas-city-disaster-when-fertilizer-leveled-a--the-blast.mp3",
+        "_m/9/v/h/x/texas-city-disaster-wk/9vhx-the-texas-city-disaster-when-fertilizer-leveled-a--the-second-explosion.mp3",
+        "_m/9/v/h/x/texas-city-disaster-wk/9vhx-the-texas-city-disaster-when-fertilizer-leveled-a--the-reckoning.mp3"
       ],
       "hero": {
         "path": "_m/9/v/h/x/texas-city-disaster-wk/hero.jpg",
@@ -39,7 +32,7 @@
           "Monuments and memorials to firefighters in the United States",
           "Self-published work"
         ],
-        "smallPath": "_m/9/v/h/x/texas-city-disaster-wk/hero-small.jpg"
+        "smallPath": "_m/9/v/h/x/texas-city-disaster-wk/hero-small.webp"
       },
       "images": [
         {
@@ -64,7 +57,7 @@
             "Memorial anchors in the United States",
             "Self-published work"
           ],
-          "smallPath": "_m/9/v/h/x/texas-city-disaster-wk/texas-city-disaster-wo-small.jpg"
+          "smallPath": "_m/9/v/h/x/texas-city-disaster-wk/texas-city-disaster-wo-small.webp"
         },
         {
           "path": "_m/9/v/h/x/texas-city-disaster-wk/grandcampanchor.jpg",
@@ -90,9 +83,10 @@
             "Texas City, Texas",
             "Texas City Disaster"
           ],
-          "smallPath": "_m/9/v/h/x/texas-city-disaster-wk/grandcampanchor-small.jpg"
+          "smallPath": "_m/9/v/h/x/texas-city-disaster-wk/grandcampanchor-small.webp"
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/v/h/x/texas-city-disaster-wk/9vhx-texas-city-disaster-combined.mp3"
     }
   }
 }

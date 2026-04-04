@@ -19,10 +19,8 @@
       "9r4b-grand-sierra-resort-hello-hollywood-goodbye.mp3": 46.4690416,
       "9r4b-grand-sierra-resort-the-biggest-little-casino-floor.mp3": 50.806375
     },
-    "voice": "en-US-Ava3:DragonHDLatestNeural",
-    "generatedAt": "2026-01-27T23:16:13.292Z"
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
   },
-  "fetchedAt": "2026-02-21T21:35:18.901Z",
   "hero": {
     "filename": "Grand Sierra Resort at night 1 2024-03-26.jpg",
     "title": "File:Grand Sierra Resort at night 1 2024-03-26.jpg",
@@ -48,8 +46,8 @@
     "sourceType": "core",
     "sourceArticleId": "grand-sierra-resort-wp",
     "sourceGeohash4": "9r4b",
-    "smallPath": "_m/9/r/4/b/grand-sierra-resort-wp/hero-small.jpg",
-    "mediumPath": "_m/9/r/4/b/grand-sierra-resort-wp/hero-medium.jpg"
+    "smallPath": "_m/9/r/4/b/grand-sierra-resort-wp/hero-small.webp",
+    "mediumPath": "_m/9/r/4/b/grand-sierra-resort-wp/hero-medium.webp"
   },
   "thumbnail": {
     "filename": "Grand Sierra Resort at night 1 2024-03-26.jpg",
@@ -102,8 +100,8 @@
       "sourceType": "core",
       "sourceArticleId": "grand-sierra-resort-wp",
       "sourceGeohash4": "9r4b",
-      "smallPath": "_m/9/r/4/b/grand-sierra-resort-wp/skyline-reno-nevada-ca-small.jpg",
-      "mediumPath": "_m/9/r/4/b/grand-sierra-resort-wp/skyline-reno-nevada-ca-medium.jpg"
+      "smallPath": "_m/9/r/4/b/grand-sierra-resort-wp/hero-small.webp",
+      "mediumPath": "_m/9/r/4/b/grand-sierra-resort-wp/hero-medium.webp"
     },
     {
       "filename": "Truckee River and Grand Sierra Resort, Reno, Nevada (51126784552).jpg",
@@ -128,7 +126,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "grand-sierra-resort-wp",
-      "sourceGeohash4": "9r4b"
+      "sourceGeohash4": "9r4b",
+      "mediumPath": "_m/9/r/4/b/grand-sierra-resort-wp/truckee-river-and-grand-sierra-medium.webp",
+      "smallPath": "_m/9/r/4/b/grand-sierra-resort-wp/truckee-river-and-grand-sierra-small.webp"
     },
     {
       "filename": "Truckee River and Grand Sierra Resort, Reno, Nevada (51126746486).jpg",
@@ -153,7 +153,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "grand-sierra-resort-wp",
-      "sourceGeohash4": "9r4b"
+      "sourceGeohash4": "9r4b",
+      "mediumPath": "_m/9/r/4/b/grand-sierra-resort-wp/truckee-river-and-grand-sierra-1-medium.webp",
+      "smallPath": "_m/9/r/4/b/grand-sierra-resort-wp/truckee-river-and-grand-sierra-1-small.webp"
     }
   ],
   "galleryPaths": [

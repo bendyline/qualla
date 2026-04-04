@@ -35,7 +35,9 @@
           "Meadows in California",
           "Mountain ranges of California",
           "Nature of Sierra County, California"
-        ]
+        ],
+        "mediumPath": "_m/9/r/4/b/reno-wk/hero-medium.webp",
+        "smallPath": "_m/9/r/4/b/reno-wk/hero-small.webp"
       },
       "images": [
         {
@@ -66,7 +68,7 @@
             "Silver Legacy Resort Casino at night",
             "United States photographs taken on 2004-07-30"
           ],
-          "smallPath": "_m/9/r/4/b/reno-wk/reno-circus-circus-sil-small.jpg"
+          "smallPath": "_m/9/r/4/b/reno-wk/reno-circus-circus-sil-small.webp"
         },
         {
           "path": "_m/9/r/4/b/reno-wk/tahoe.jpg",
@@ -91,7 +93,7 @@
             "Snowy landscapes in California",
             "Taken with Canon PowerShot A300"
           ],
-          "smallPath": "_m/9/r/4/b/reno-wk/tahoe-small.jpg"
+          "smallPath": "_m/9/r/4/b/reno-wk/tahoe-small.webp"
         },
         {
           "path": "_m/9/r/4/b/reno-wk/circus-circus-reno.jpg",
@@ -143,8 +145,8 @@
             "PD-user",
             "Taken with Canon Digital IXUS 800 IS"
           ],
-          "smallPath": "_m/9/r/4/b/reno-wk/village-palisades-taho-small.jpg",
-          "mediumPath": "_m/9/r/4/b/reno-wk/village-palisades-taho-medium.jpg"
+          "smallPath": "_m/9/r/4/b/reno-wk/village-palisades-taho-small.webp",
+          "mediumPath": "_m/9/r/4/b/reno-wk/village-palisades-taho-medium.webp"
         },
         {
           "path": "_m/9/r/4/b/reno-wk/reno-arch-1.jpg",
@@ -270,7 +272,7 @@
           "sourceArticleId": "reno-wk",
           "sourceGeohash4": "9r4b",
           "accessedAt": "2026-02-21T21:36:59.855Z",
-          "smallPath": "_m/9/r/4/b/reno-wk/washoe-county-library-small.jpg"
+          "smallPath": "_m/9/r/4/b/reno-wk/washoe-county-library-small.webp"
         },
         {
           "path": "_m/9/r/4/b/reno-wk/atlantiscasino.jpg",
@@ -303,7 +305,7 @@
           "sourceArticleId": "reno-wk",
           "sourceGeohash4": "9r4b",
           "accessedAt": "2026-02-21T21:36:59.855Z",
-          "smallPath": "_m/9/r/4/b/reno-wk/university-nevada-reno-small.jpg"
+          "smallPath": "_m/9/r/4/b/reno-wk/university-nevada-reno-small.webp"
         },
         {
           "path": "_m/9/r/4/b/reno-wk/n-on-the-mountain-great-reno-b.jpg",
@@ -336,8 +338,8 @@
           "sourceArticleId": "reno-wk",
           "sourceGeohash4": "9r4b",
           "accessedAt": "2026-02-21T21:36:59.855Z",
-          "smallPath": "_m/9/r/4/b/reno-wk/reno-nevada-small.jpg",
-          "mediumPath": "_m/9/r/4/b/reno-wk/reno-nevada-medium.jpg"
+          "smallPath": "_m/9/r/4/b/reno-wk/reno-nevada-small.webp",
+          "mediumPath": "_m/9/r/4/b/reno-wk/reno-nevada-medium.webp"
         },
         {
           "path": "_m/9/r/4/b/reno-wk/mount-rose-ski-resort.png",
@@ -432,8 +434,8 @@
             "Reno",
             "Template Unknown (other)"
           ],
-          "smallPath": "_m/9/r/4/b/reno-wk/reno-sayre-15381-small.jpg",
-          "mediumPath": "_m/9/r/4/b/reno-wk/reno-sayre-15381-medium.jpg"
+          "smallPath": "_m/9/r/4/b/reno-wk/reno-sayre-15381-small.webp",
+          "mediumPath": "_m/9/r/4/b/reno-wk/reno-sayre-15381-medium.webp"
         },
         {
           "path": "_m/tpc/re/no/__/__/reno/i80downtownreno.jpg",
@@ -1569,7 +1571,8 @@
           "sourceGeohash4": "9qfw",
           "accessedAt": "2026-02-21T21:36:59.855Z"
         }
-      ]
+      ],
+      "combinedNarration": "_m/9/r/4/b/reno-wk/9r4b-reno-combined.mp3"
     }
   }
 }

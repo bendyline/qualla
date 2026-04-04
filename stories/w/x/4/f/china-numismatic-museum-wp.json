@@ -1,0 +1,148 @@
+{
+  "id": "china-numismatic-museum-wp",
+  "source": "wikipedia",
+  "sourceId": "55977791",
+  "title": "China Numismatic Museum",
+  "slug": "china-numismatic-museum",
+  "summary": "Housed in two former bank buildings near Tiananmen Square, the China Numismatic Museum holds over 300,000 objects tracing the full arc of Chinese monetary history from cowrie shells to modern banknotes.",
+  "content": {
+    "intro": "Just off Tiananmen Square, at No. 17 Xijiaomin Xiang in Xicheng District, two stately bank buildings hold a collection that most visitors to Beijing never discover. The China Numismatic Museum sits in the former headquarters of the Commercial Guarantee Bank of China and the Peking Branch of the Central Bank of China -- institutions that once moved money through a nation in upheaval. Now they house over 300,000 objects that tell a quieter story: how China invented, reinvented, and occasionally abandoned the concept of money itself.",
+    "sections": [
+      {
+        "title": "Three Thousand Years in Bronze and Paper",
+        "body": "China's monetary history is arguably the longest continuous experiment in currency on Earth. The museum's collection spans from the earliest cowrie shell currencies and bronze spade-shaped coins of the pre-Qin era through the round coins with square holes that became the template for East Asian coinage for two millennia. The Qin dynasty unified China's currency in 221 BC, but the innovations did not stop there. Paper money appeared during the Song dynasty, centuries before Europe conceived of the idea. The museum traces these developments through permanent exhibitions on ancient coin-casting technology, anti-counterfeit measures across the centuries, and the currencies issued by revolutionary governments -- the so-called Red Regime Currency that financed the Communist Party's rise to power."
+      },
+      {
+        "title": "Banking Palaces Repurposed",
+        "body": "The buildings themselves are artifacts. The Commercial Guarantee Bank of China and the Central Bank's Peking Branch were products of the tumultuous early twentieth century, when foreign and Chinese banks competed for influence along the streets near the Forbidden City. Xijiaomin Xiang -- the street where the museum sits -- was once Beijing's financial corridor, lined with banks and trading houses that served as intermediaries between imperial tradition and global commerce. When the People's Republic nationalized the banking system, these buildings lost their original purpose. The People's Bank of China, which manages the museum, found a fitting second life for them: housing a collection dedicated to the very medium these banks once traded."
+      },
+      {
+        "title": "Scholarship Behind Glass",
+        "body": "Founded in 1992, ten years after the China Numismatic Society was established in 1982, the museum is as much a research institution as a public exhibition space. It serves as the secretariat of the China Numismatic Society, a non-governmental academic organization. The society publishes the journal China Numismatics and has produced over twenty books in its numismatic series, covering subjects from Qin and Han coinage to the machine-struck coins of modern China, from Xinjiang's distinctive red coins to the silver ingots of Sichuan. The museum holds membership in the International Numismatic Council and the International Committee for Money and Banking Museums. For scholars of East Asian economic history, it is one of the essential collections in the world."
+      }
+    ],
+    "flightContext": "Located at 39.901N, 116.389E near Tiananmen Square in central Beijing. The museum is at 17 Xijiaomin Xiang, Xicheng District, in a cluster of historic bank buildings south of the Forbidden City. Nearest airports: ZBAA (Beijing Capital International, 25 km NE) and ZBAD (Beijing Daxing International, 46 km S). Best viewed at 3,000-5,000 ft AGL."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 39.90075,
+      "lng": 116.38875
+    },
+    "geohash": "wx4fb"
+  },
+  "categories": [
+    "museums",
+    "history",
+    "economics",
+    "beijing"
+  ],
+  "meta": {
+    "lastUpdated": "2026-03-14T00:00:00Z",
+    "wordCount": 620,
+    "readTime": 3,
+    "firstPublished": "2026-03-14T00:00:00Z",
+    "storyNumber": 9335
+  },
+  "sources": [
+    {
+      "type": "verification",
+      "title": "China Numismatic Museum - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/China_Numismatic_Museum",
+      "accessedAt": "2026-03-18",
+      "claimsVerified": [
+        "Museum located at 17 Xijiaomin Xiang, Xicheng District",
+        "Collection of over 300,000 objects",
+        "Founded 1992, ten years after China Numismatic Society established in 1982",
+        "Managed by People's Bank of China",
+        "Serves as secretariat of China Numismatic Society"
+      ]
+    }
+  ],
+  "editorial": {
+    "spiciness": 1,
+    "strongOpinions": []
+  },
+  "locationWikipediaPath": "w/x/4/f/china-numismatic-museum-wp",
+  "directionalNeighbors": {
+    "nw": {
+      "id": "badaling-wp",
+      "title": "Badaling",
+      "tile": "wx4m",
+      "coordinates": {
+        "lat": 40.35428,
+        "lng": 116.00649
+      },
+      "distanceKm": 30.7
+    },
+    "n": {
+      "id": "beijing-capital-international-airport-wp",
+      "title": "Beijing Capital International Airport",
+      "tile": "wx4u",
+      "coordinates": {
+        "lat": 40.08,
+        "lng": 116.58444444444
+      },
+      "distanceKm": 3.5
+    },
+    "ne": {
+      "id": "huangya-pass-wp",
+      "title": "Huangya Pass",
+      "tile": "wx5k",
+      "coordinates": {
+        "lat": 40.232265,
+        "lng": 117.406082
+      },
+      "distanceKm": 33.3
+    },
+    "w": {
+      "id": "peking-man-wp",
+      "title": "Peking Man",
+      "tile": "wx46",
+      "coordinates": {
+        "lat": 39.733,
+        "lng": 115.917
+      },
+      "distanceKm": 12.4
+    },
+    "e": {
+      "id": "guangji-temple-tianjin-wp",
+      "title": "Guangji Temple (Tianjin)",
+      "tile": "wx56",
+      "coordinates": {
+        "lat": 39.733144,
+        "lng": 117.311697
+      },
+      "distanceKm": 22.5
+    },
+    "sw": {
+      "id": "kaishan-temple-wp",
+      "title": "Kaishan Temple",
+      "tile": "wwfr",
+      "coordinates": {
+        "lat": 39.24583333,
+        "lng": 115.98277778
+      },
+      "distanceKm": 34
+    },
+    "s": {
+      "id": "beijing-daxing-international-airport-wp",
+      "title": "Beijing Daxing International Airport",
+      "tile": "wx4b",
+      "coordinates": {
+        "lat": 39.511944,
+        "lng": 116.410556
+      },
+      "distanceKm": 12.1
+    },
+    "se": {
+      "id": "jingjintang-expressway-wp",
+      "title": "Jingjintang Expressway",
+      "tile": "wwgr",
+      "coordinates": {
+        "lat": 39.2271298,
+        "lng": 117.2062691
+      },
+      "distanceKm": 37.8
+    }
+  }
+}

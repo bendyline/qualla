@@ -58,33 +58,59 @@
       "title": "Neutrality Monument - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Neutrality_Monument",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Corrected: golden statue is 12 meters tall (story had 15 meters)", "Statue rotated to face the sun confirmed", "Arch height 75 meters (original pedestal) confirmed", "Statue moved to suburbs in 2010 confirmed"]
+      "claimsVerified": [
+        "Corrected: golden statue is 12 meters tall (story had 15 meters)",
+        "Statue rotated to face the sun confirmed",
+        "Arch height 75 meters (original pedestal) confirmed",
+        "Statue moved to suburbs in 2010 confirmed"
+      ]
     },
     {
       "type": "verification",
       "title": "Saparmurat Niyazov - Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Saparmurat_Niyazov",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Renamed months of the year confirmed", "Banned ballet confirmed", "Ruhnama book required for driver's license confirmed", "Died of heart attack in 2006 confirmed", "Renamed himself Turkmenbashi confirmed"]
+      "claimsVerified": [
+        "Renamed months of the year confirmed",
+        "Banned ballet confirmed",
+        "Ruhnama book required for driver's license confirmed",
+        "Died of heart attack in 2006 confirmed",
+        "Renamed himself Turkmenbashi confirmed"
+      ]
     },
     {
       "type": "verification",
       "title": "Gurbanguly Berdimuhamedow - Wikipedia / Britannica",
       "url": "https://en.wikipedia.org/wiki/Gurbanguly_Berdimuhamedow",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Dentist by profession confirmed", "Title Arkadag meaning The Protector confirmed", "Banned black cars confirmed", "Son Serdar succeeded him in 2022 confirmed", "Azerbaijan comparison for dynastic succession confirmed"]
+      "claimsVerified": [
+        "Dentist by profession confirmed",
+        "Title Arkadag meaning The Protector confirmed",
+        "Banned black cars confirmed",
+        "Son Serdar succeeded him in 2022 confirmed",
+        "Azerbaijan comparison for dynastic succession confirmed"
+      ]
     },
     {
       "type": "verification",
       "title": "UNESCO World Heritage - Turkmenistan",
       "url": "https://whc.unesco.org/en/statesparties/TM",
       "accessedAt": "2026-03-01",
-      "claimsVerified": ["Corrected: Airbaba elevation is 3,137 meters (story had 3,117 meters)", "Three UNESCO World Heritage sites (Merv, Konye-Urgench, Nisa) confirmed as originally listed — note two additional sites added in 2023 (Silk Roads: Zarafshan-Karakum Corridor; Cold Winter Deserts of Turan)", "Merv near modern Mary city confirmed", "Nisa 19km west of Ashgabat approximately confirmed (official sources say it is on the outskirts of Ashgabat)"]
+      "claimsVerified": [
+        "Corrected: Airbaba elevation is 3,137 meters (story had 3,117 meters)",
+        "Three UNESCO World Heritage sites (Merv, Konye-Urgench, Nisa) confirmed as originally listed — note two additional sites added in 2023 (Silk Roads: Zarafshan-Karakum Corridor; Cold Winter Deserts of Turan)",
+        "Merv near modern Mary city confirmed",
+        "Nisa 19km west of Ashgabat approximately confirmed (official sources say it is on the outskirts of Ashgabat)"
+      ]
     }
   ],
   "editorial": {
     "spiciness": 3,
-    "strongOpinions": ["describes Turkmenistan as 'one of the strangest and most impenetrable' countries on Earth", "characterizes Niyazov's rule as a 'cult of personality'", "notes the country 'consistently ranks among the most repressive on Earth'"]
+    "strongOpinions": [
+      "describes Turkmenistan as 'one of the strangest and most impenetrable' countries on Earth",
+      "characterizes Niyazov's rule as a 'cult of personality'",
+      "notes the country 'consistently ranks among the most repressive on Earth'"
+    ]
   },
   "directionalNeighbors": {
     "nw": {
@@ -98,14 +124,14 @@
       "distanceKm": 143.7
     },
     "n": {
-      "id": "halidzor-fortress-wp",
-      "title": "Halidzor Fortress",
-      "tile": "tnbz",
+      "id": "yaghnob-valley-wp",
+      "title": "Yaghnob Valley",
+      "tile": "twcp",
       "coordinates": {
-        "lat": 39.2192,
-        "lng": 46.3533
+        "lat": 39.2,
+        "lng": 69
       },
-      "distanceKm": 1169.6
+      "distanceKm": 780.3
     },
     "ne": {
       "id": "battle-of-the-defile-wp",
@@ -160,12 +186,14 @@
     "se": {
       "id": "bactria-margiana-archaeological-complex-wp",
       "title": "Bactria-Margiana Archaeological Complex",
-      "tile": "tqts",
+      "tile": "tqg9",
       "coordinates": {
         "lat": 38.233333333333,
         "lng": 61.45
       },
       "distanceKm": 98.4
     }
-  }
+  },
+  "locationWikipediaPath": "t/q/f/t/turkmenistan-wp",
+  "locationWikivoyagePath": "t/q/f/t/turkmenistan-wk"
 }
