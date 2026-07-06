@@ -94,5 +94,26 @@
   ],
   "galleryPaths": [
     "_m/w/2/n/t/battle-of-plaman-mapu-wp/official-portrait-pres.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w2nt-battle-of-plaman-mapu-flight-context.mp3",
+      "w2nt-battle-of-plaman-mapu-intro.mp3",
+      "w2nt-battle-of-plaman-mapu-an-undeclared-war-in-the-jungle.mp3",
+      "w2nt-battle-of-plaman-mapu-operation-claret-and-the-border-bases.mp3",
+      "w2nt-battle-of-plaman-mapu-before-dawn-on-the-hilltop.mp3",
+      "w2nt-battle-of-plaman-mapu-williams-holds-the-line.mp3",
+      "w2nt-battle-of-plaman-mapu-the-beginning-of-the-end.mp3"
+    ],
+    "durations": {
+      "w2nt-battle-of-plaman-mapu-flight-context.mp3": 42.58425,
+      "w2nt-battle-of-plaman-mapu-intro.mp3": 45.0433333,
+      "w2nt-battle-of-plaman-mapu-an-undeclared-war-in-the-jungle.mp3": 67.8253333,
+      "w2nt-battle-of-plaman-mapu-operation-claret-and-the-border-bases.mp3": 67.961375,
+      "w2nt-battle-of-plaman-mapu-before-dawn-on-the-hilltop.mp3": 59.7174583,
+      "w2nt-battle-of-plaman-mapu-williams-holds-the-line.mp3": 83.1493333,
+      "w2nt-battle-of-plaman-mapu-the-beginning-of-the-end.mp3": 77.0597083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

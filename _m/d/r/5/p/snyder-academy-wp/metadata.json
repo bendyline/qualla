@@ -85,5 +85,22 @@
   ],
   "galleryPaths": [
     "_m/d/r/5/p/snyder-academy-wp/snyder-academy-sign-ma.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr5p-snyder-academy-flight-context.mp3",
+      "dr5p-snyder-academy-intro.mp3",
+      "dr5p-snyder-academy-colonel-barbers-schoolroom.mp3",
+      "dr5p-snyder-academy-burned-rebuilt-rebuilt-again.mp3",
+      "dr5p-snyder-academy-a-place-that-remembers.mp3"
+    ],
+    "durations": {
+      "dr5p-snyder-academy-flight-context.mp3": 37.8881666,
+      "dr5p-snyder-academy-intro.mp3": 36.0764166,
+      "dr5p-snyder-academy-colonel-barbers-schoolroom.mp3": 53.9412083,
+      "dr5p-snyder-academy-burned-rebuilt-rebuilt-again.mp3": 54.1066666,
+      "dr5p-snyder-academy-a-place-that-remembers.mp3": 44.3813333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

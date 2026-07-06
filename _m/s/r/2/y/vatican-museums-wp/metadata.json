@@ -581,5 +581,26 @@
     "_m/s/r/2/y/vatican-museums-wp/vatican-museums-vatica.jpg",
     "_m/s/r/2/y/vatican-museums-wp/front-view.jpg",
     "_m/s/r/2/y/vatican-museums-wp/laocoon-his-sons-group.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sr2y-vatican-museums-flight-context.mp3",
+      "sr2y-vatican-museums-intro.mp3",
+      "sr2y-vatican-museums-the-popes-collection.mp3",
+      "sr2y-vatican-museums-corridors-of-time.mp3",
+      "sr2y-vatican-museums-masterworks-in-marble.mp3",
+      "sr2y-vatican-museums-the-weight-of-crowds.mp3",
+      "sr2y-vatican-museums-five-centuries-of-open-doors.mp3"
+    ],
+    "durations": {
+      "sr2y-vatican-museums-flight-context.mp3": 40.0230416,
+      "sr2y-vatican-museums-intro.mp3": 39.711375,
+      "sr2y-vatican-museums-the-popes-collection.mp3": 60.3081666,
+      "sr2y-vatican-museums-corridors-of-time.mp3": 64.3380833,
+      "sr2y-vatican-museums-masterworks-in-marble.mp3": 54.265375,
+      "sr2y-vatican-museums-the-weight-of-crowds.mp3": 64.7318333,
+      "sr2y-vatican-museums-five-centuries-of-open-doors.mp3": 56.2705833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

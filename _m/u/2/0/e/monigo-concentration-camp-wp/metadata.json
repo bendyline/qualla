@@ -55,5 +55,24 @@
     "sourceGeohash4": "u20e"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "u20e-monigo-concentration-camp-flight-context.mp3",
+      "u20e-monigo-concentration-camp-intro.mp3",
+      "u20e-monigo-concentration-camp-behind-the-barbed-wire.mp3",
+      "u20e-monigo-concentration-camp-nine-hundred-calories.mp3",
+      "u20e-monigo-concentration-camp-news-from-behind-the-wire.mp3",
+      "u20e-monigo-concentration-camp-what-the-walls-remember.mp3"
+    ],
+    "durations": {
+      "u20e-monigo-concentration-camp-flight-context.mp3": 48.1054583,
+      "u20e-monigo-concentration-camp-intro.mp3": 48.4302083,
+      "u20e-monigo-concentration-camp-behind-the-barbed-wire.mp3": 69.458375,
+      "u20e-monigo-concentration-camp-nine-hundred-calories.mp3": 83.6940833,
+      "u20e-monigo-concentration-camp-news-from-behind-the-wire.mp3": 69.5346666,
+      "u20e-monigo-concentration-camp-what-the-walls-remember.mp3": 74.3212083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

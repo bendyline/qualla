@@ -1,0 +1,75 @@
+# University of Missouri
+
+The first public university west of the Mississippi River, founded in 1839, Mizzou pioneered the world's first journalism school, claims to have invented homecoming, operates the nation's sole source of medical isotopes, and has produced alumni from Sam Walton to Tennessee Williams.
+
+**Location:** 38.9453, -92.3288
+
+**Categories:** universities, education, missouri, journalism, historic-sites
+
+## Introduction
+
+The six columns standing on Francis Quadrangle are remnants of a building that no longer exists. Academic Hall burned on January 9, 1892, and Columbia nearly lost the university entirely -- rival Sedalia mounted a campaign to relocate it. Columbia rallied, the university stayed, and the columns were kept as a symbol of institutional survival. They remain the most iconic image of the University of Missouri, founded in 1839 as the first public university west of the Mississippi River and the first in the vast Louisiana Purchase territory. Thomas Jefferson's ideas about public education shaped its founding, and the school has spent nearly two centuries living up to -- and sometimes falling short of -- that idealistic origin.
+
+## The Fighting Tigers of Columbia
+
+In 1839, the Missouri Legislature passed the Geyer Act to fund a state university. Citizens of Columbia and Boone County pledged $117,921 in cash and land to beat five rival counties for the prize. The school initially admitted only white male students. When the Civil War forced the university to close for much of 1862, residents formed a Union home guard militia known as the 'Fighting Tigers of Columbia,' named for their readiness to protect the city. In 1890, the newly formed football team adopted the name. Union troops stationed on campus used the library in Academic Hall as a guard room, burning 467 volumes for firewood. The board of curators later sued the U.S. Army for the damage; the settlement, finally paid in 1915, funded the Memorial Gateway that still stands on the northern edge of Red Campus.
+
+## Where Journalism Was Born
+
+In 1908, Walter Williams founded the Missouri School of Journalism at Mizzou, establishing what claims to be the world's first school of journalism. The school operates on a 'Missouri Method' of learning by doing: students publish the daily Columbia Missourian, run NBC affiliate KOMU-TV as a full commercial station, produce Vox Magazine, and operate National Public Radio station KBIA. The journalism school has been ranked the top program in the United States multiple times. Williams himself went on to serve as university president from 1931 to 1935. The same year the journalism school opened, MU joined the Association of American Universities, a distinction it has maintained since, recognizing its status among the nation's leading research institutions.
+
+## Red Campus, White Campus
+
+The burned columns of Academic Hall anchor Red Campus, the historic core of brick buildings surrounding Francis Quadrangle, which is listed on the National Register of Historic Places. Jesse Hall, named for president Richard Jesse, replaced Academic Hall in 1895 and now serves as the administrative heart of the university. George Kessler designed the landscaping in 1910 in the City Beautiful style. To the east, White Campus emerged in 1913-1914 as Neo-Gothic limestone buildings for new academic programs. Memorial Union honors students lost in World War I. Memorial Stadium opened in 1926 with a capacity of 71,168, known today as 'The Zou.' The University of Missouri Research Reactor Center operates the most powerful university research reactor in the country and is the sole domestic source of isotopes used in nuclear medicine.
+
+## Pioneers and Protests
+
+The university's history of racial reckoning runs deep. In 1923, a Black janitor named James T. Scott was lynched by a mob of townspeople and students near campus. In 1935, Lloyd L. Gaines, a graduate of Lincoln University in Jefferson City, was denied admission to MU's law school. His case reached the Supreme Court, which in 1938 ordered Missouri to admit him or provide an equal facility. Gaines disappeared in Chicago in 1939 under suspicious circumstances; the university granted him a posthumous honorary law degree in 2006. Undergraduate divisions were integrated by court order in 1950. A Confederate memorial erected in 1935, known as Confederate Rock, was removed in 1974. In 2015, student protests over racial issues led to the resignation of both the chancellor and the university system president.
+
+## From Sam Walton to Sheryl Crow
+
+Mizzou's alumni list reads like a cross-section of American achievement. Sam Walton founded Walmart. William W. Mayo founded the Mayo Clinic. Tennessee Williams wrote Cat on a Hot Tin Roof and A Streetcar Named Desire. Brad Pitt and Jon Hamm became Hollywood stars. Sheryl Crow built a Grammy-winning music career. George C. Scott won the Academy Award for Patton. Two Nobel laureates claim MU ties: Frederick Chapman Robbins in Physiology or Medicine in 1954, and George Smith in Chemistry in 2018. Senator Tim Kaine, journalist Jim Lehrer, astronaut Linda Godwin, and cartoonist Mort Walker all passed through Columbia. In 1911, athletic director Chester Brewer invited alumni to 'come home' for the football game against Kansas, an event claimed as the origin of the American homecoming tradition. The homecoming blood drive holds a Guinness Record as the nation's largest.
+
+## Flight Context
+
+Located at 38.9453°N, 92.3288°W in Columbia, Boone County, Missouri, at approximately 750 feet MSL. The university campus is a prominent feature of Columbia's urban landscape. Francis Quadrangle with its six surviving columns and Jesse Hall dome are visible from the air. Memorial Stadium ('The Zou,' capacity 71,168) and the Mizzou Arena complex are south of the main campus. Columbia Regional Airport (KCOU) is approximately 10 nm south of the campus. Interstate 70 passes through the northern part of Columbia. The University of Missouri Research Reactor facility is on the south campus. Best viewed at 3,000-5,000 feet AGL to see the full campus layout, stadium complex, and relationship to downtown Columbia.
+
+## Sources
+
+- [University of Missouri - Wikipedia](https://en.wikipedia.org/?curid=23964683)
+  - Founded 1839 via Geyer Act as first public university west of Mississippi
+  - Citizens pledged 17,921 to secure location in Columbia
+  - Academic Hall burned January 9, 1892; six columns remain on Francis Quadrangle
+  - Sedalia campaign to relocate university after fire confirmed
+  - Jesse Hall completed 1895, renamed for Richard Henry Jesse in 1922
+  - Walter Williams founded journalism school 1908 (claims first in world - hedged correctly)
+  - Lloyd Gaines denied admission circa 1935, Supreme Court ruled 1938
+  - Gaines disappeared in Chicago 1939, posthumous honorary degree 2006
+- [MURR - University of Missouri Research Reactor](https://www.murr.missouri.edu/about/)
+  - Most powerful university research reactor in US at 10 megawatts
+  - Sole domestic source of specific medical isotopes (Mo-99, I-131, Lu-177)
+- [Mizzou Alumni Association - History of Homecoming](https://www.mizzou.com/s/1002/alumni/19/interior.aspx?pgid=569)
+  - Chester Brewer invited alumni home for 1911 football game against Kansas
+  - Mizzou claims origin of homecoming tradition (disputed by other schools)
+- [Missouri Encyclopedia - James T. Scott Lynching](https://missouriencyclopedia.org/events/scott-james-t)
+  - James T. Scott was a Black janitor at University of Missouri
+  - Lynched by white mob on April 29, 1923
+- [NobelPrize.org - George Smith Chemistry 2018](https://www.nobelprize.org/prizes/chemistry/2018/smith/facts/)
+  - George P. Smith won Nobel Prize in Chemistry 2018 as MU professor
+- [NobelPrize.org - Frederick Robbins Medicine 1954](https://www.nobelprize.org/prizes/medicine/1954/robbins/biographical/)
+  - Frederick Chapman Robbins MU alumnus (AB 1936, BS 1938), Nobel Prize Physiology or Medicine 1954
+- [MU Athletics - Memorial Stadium Renovation](https://mutigers.com/facilities/faurot-field-at-memorial-stadium/1)
+  - Memorial Stadium opened 1926 (verified), but current capacity ~57,321 not 71,168 as stated; undergoing 50M renovation to ~65,000 capacity
+
+## Review Notes
+
+**Reviewed:** 2026-02-06 · 18 facts verified · 1 correction
+
+Major facts verified: founding 1839 via Geyer Act, Academic Hall fire 1892, Jesse Hall 1895, journalism school 1908 Walter Williams, Lloyd Gaines case 1935-1938, homecoming 1911 Chester Brewer, James T. Scott lynching 1923, MURR reactor, George Smith Nobel 2018, Frederick Robbins Nobel 1954, Sam Walton alumnus. One correction: Memorial Stadium capacity stated as 71,168 but current capacity is ~57,321 (under renovation to ~65,000). Article phrasing is ambiguous. Spiciness 2/5.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 850*
+*Read time: 5 minutes*

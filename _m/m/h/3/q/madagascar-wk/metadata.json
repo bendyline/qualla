@@ -1027,5 +1027,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "mh3q-madagascar-flight-context.mp3",
+      "mh3q-madagascar-intro.mp3",
+      "mh3q-madagascar-an-island-of-ancestors.mp3",
+      "mh3q-madagascar-the-forests-that-remain.mp3",
+      "mh3q-madagascar-cyclones-trade-winds-and-the-rainy-season.mp3",
+      "mh3q-madagascar-roads-taxi-brousses-and-getting-there.mp3",
+      "mh3q-madagascar-vanilla-diving-and-the-weight-of-history.mp3"
+    ],
+    "durations": {
+      "mh3q-madagascar-flight-context.mp3": 58.949375,
+      "mh3q-madagascar-intro.mp3": 50.5475416,
+      "mh3q-madagascar-an-island-of-ancestors.mp3": 67.8239166,
+      "mh3q-madagascar-the-forests-that-remain.mp3": 67.9745416,
+      "mh3q-madagascar-cyclones-trade-winds-and-the-rainy-season.mp3": 61.1043333,
+      "mh3q-madagascar-roads-taxi-brousses-and-getting-there.mp3": 65.9826666,
+      "mh3q-madagascar-vanilla-diving-and-the-weight-of-history.mp3": 69.62225
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

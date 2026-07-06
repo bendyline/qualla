@@ -1,0 +1,60 @@
+# Yamba Dam
+
+Japan's most politically contentious dam took 68 years from conception to completion, survived cancellation, and then proved its worth by absorbing a catastrophic typhoon just days after filling began.
+
+**Location:** 36.5569, 138.7142
+
+**Categories:** engineering, infrastructure, history, politics, japan
+
+## Introduction
+
+The timing was almost impossible to believe. On October 1, 2019, engineers began the routine process of test-filling the reservoir behind Yamba Dam in Gunma Prefecture. Ten days later, Typhoon Hagibis slammed into central Japan with devastating force. The brand-new dam, not yet officially open, swallowed 75 million tons of floodwater in roughly 48 hours, its reservoir level surging 54 meters. The structure that politicians had spent decades arguing over, that communities had fought and mourned over, that governments had started, stopped, and restarted, justified its entire 68-year saga in a single weekend.
+
+## Seven Decades in the Making
+
+Planning for Yamba Dam began in 1952, in the aftermath of a devastating typhoon that ravaged the mountainous headwaters of the Tone River system. The project was intended to provide flood control for the densely populated downstream regions, along with water supply for four prefectures and Tokyo. Construction formally began in 1967, but progress was anything but straightforward. The project became a symbol of Japan's postwar infrastructure ambitions: massive in scale, enormous in cost, and seemingly endless in execution. The budget ballooned past 450 billion yen. Entire communities had to be relocated, including the historic hot spring town of Kawarayu Onsen, a resort with over 800 years of history that was moved to higher ground along the new reservoir's shore. Railways were rerouted. Roads were rebuilt. And still the dam was not finished.
+
+## The Dam That Wouldn't Die
+
+In 2009, the Democratic Party of Japan swept to power partly on a promise to rein in wasteful public works. Yamba Dam, about 70 percent complete at the time, became the poster child for their reform agenda. Construction halted. For the displaced residents who had already sacrificed their homes and communities, the freeze was a bitter irony: all the disruption, and now perhaps no dam to show for it. But Japan's political currents shifted again. When the Liberal Democratic Party returned to power in 2012, Yamba was revived. Construction resumed on what had become Japan's most expensive dam project, with total government expenditures eventually exceeding 900 billion yen. The concrete gravity dam rose to its full height of 116 meters, spanning 290.8 meters across the Agatsuma River valley.
+
+## Trial by Typhoon
+
+No one planned the test that came. When Typhoon Hagibis made landfall in October 2019, Yamba Dam had been filling for barely ten days. The reservoir's designed capacity was meant to handle planned inflow rates over extended periods. Instead, the typhoon dumped extraordinary volumes of rainfall across the mountains in a matter of hours. Between dawn on October 11 and the morning of October 13, the dam collected 75 million tons of water, far exceeding its assumed upper operating limit. The reservoir held. Downstream communities along the Tone River system, including areas of greater Tokyo, were spared flooding that could have been catastrophic. The dam that had been mocked as an expensive boondoggle had passed the most extreme test imaginable before it was even officially operational.
+
+## A Landscape Transformed
+
+Today, Yamba Dam and its reservoir have become a part of Gunma Prefecture's landscape. The lake created by the dam fills the valley where communities once stood, where the Agatsuma Line once ran on its original alignment. Kawarayu Onsen, rebuilt on the reservoir's edge, has reinvented itself as a destination that pairs its centuries-old hot spring tradition with dramatic views of the dam and lake. The dam officially opened on April 1, 2020, nearly seven decades after the first plans were drawn. From above, the scale of the transformation is unmistakable: the massive concrete wall holding back a blue-green reservoir, the rerouted railway tracing a new path along the hillside, and the rebuilt town perched on the water's edge.
+
+## Flight Context
+
+Located at 36.557N, 138.714E in the Agatsuma River valley of Gunma Prefecture, approximately 130 km northwest of Tokyo. The 116-meter-high concrete gravity dam spans 290.8 meters and is clearly visible from altitude as a white concrete wall across the narrow valley. The reservoir behind it fills a distinctive elongated valley. Look for the rerouted Agatsuma Line railway and the relocated Kawarayu Onsen hot spring town along the reservoir shore. Nearest airport is RJAH (Ibaraki Airport) to the southeast or RJTT (Tokyo Haneda) approximately 150 km to the south. Mountainous terrain with peaks exceeding 1,500 meters surrounds the site. Best viewed at 4,000-6,000 feet AGL.
+
+## Sources
+
+- [Yamba Dam - Wikipedia](https://en.wikipedia.org/?curid=19632637)
+  - Planning began in 1952, construction formally began in 1967
+  - Dam height 116 meters, spans 290.8 meters across the Agatsuma River
+  - Test-filling began October 1, 2019
+  - Typhoon Hagibis (October 2019) caused reservoir to rise 54 meters and collect 75 million tons of water
+  - Dam officially opened April 1, 2020
+  - Kawarayu Onsen relocated to higher ground near new reservoir
+  - Democratic Party of Japan halted construction in 2009 when project was ~70% complete
+  - LDP returned to power in 2012 and revived construction
+- [JESCO - The Yamba Dam construction project](https://www.jesco.co.jp/en/project/story09.html)
+  - 68-year saga from planning to completion confirmed
+  - Provides flood control for downstream regions including Tokyo area
+  - Water supply for multiple prefectures
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 11 facts verified · 0 corrections
+
+Facts verified: planning 1952, construction 1967, 116m height, 290.8m span, test-filling Oct 1 2019, Typhoon Hagibis collected 75M tons, 54m rise, official opening April 1 2020, DPJ stopped construction 2009 at 70% complete, LDP revived in 2012, Kawarayu Onsen relocated. Current operational status confirmed: dam is operational since April 2020. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

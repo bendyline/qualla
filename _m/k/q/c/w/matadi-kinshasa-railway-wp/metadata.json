@@ -117,5 +117,26 @@
   "galleryPaths": [
     "_m/k/q/c/w/matadi-kinshasa-railway-wp/chemin-de-fer-du-congo.jpg",
     "_m/k/q/c/w/matadi-kinshasa-railway-wp/carte-du-bas-congo-enc.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kqcw-matadi-kinshasa-railway-flight-context.mp3",
+      "kqcw-matadi-kinshasa-railway-intro.mp3",
+      "kqcw-matadi-kinshasa-railway-three-hundred-kilometers-of-impassable-water.mp3",
+      "kqcw-matadi-kinshasa-railway-the-workers-who-paid-the-price.mp3",
+      "kqcw-matadi-kinshasa-railway-gorges-canyons-and-the-monts-de-cristal.mp3",
+      "kqcw-matadi-kinshasa-railway-collapse-and-revival.mp3",
+      "kqcw-matadi-kinshasa-railway-conrads-ghost-on-the-line.mp3"
+    ],
+    "durations": {
+      "kqcw-matadi-kinshasa-railway-flight-context.mp3": 64.1847916,
+      "kqcw-matadi-kinshasa-railway-intro.mp3": 49.3931666,
+      "kqcw-matadi-kinshasa-railway-three-hundred-kilometers-of-impassable-water.mp3": 64.1146666,
+      "kqcw-matadi-kinshasa-railway-the-workers-who-paid-the-price.mp3": 77.431125,
+      "kqcw-matadi-kinshasa-railway-gorges-canyons-and-the-monts-de-cristal.mp3": 64.0815416,
+      "kqcw-matadi-kinshasa-railway-collapse-and-revival.mp3": 69.126875,
+      "kqcw-matadi-kinshasa-railway-conrads-ghost-on-the-line.mp3": 65.8724166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

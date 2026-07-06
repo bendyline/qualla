@@ -113,5 +113,24 @@
   "galleryPaths": [
     "_m/9/y/u/y/harry-s-truman-national-historic-site-wp/hero.jpg",
     "_m/d/r/5/p/connecticut-farms-presbyterian-church-wp/connecticut-farms-pres.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr5p-connecticut-farms-presbyterian-church-flight-context.mp3",
+      "dr5p-connecticut-farms-presbyterian-church-intro.mp3",
+      "dr5p-connecticut-farms-presbyterian-church-five-miles-to-sunday-service.mp3",
+      "dr5p-connecticut-farms-presbyterian-church-the-battle-that-burned-everything.mp3",
+      "dr5p-connecticut-farms-presbyterian-church-rising-from-brick-and-orchard.mp3",
+      "dr5p-connecticut-farms-presbyterian-church-first-in-the-state.mp3"
+    ],
+    "durations": {
+      "dr5p-connecticut-farms-presbyterian-church-flight-context.mp3": 40.63625,
+      "dr5p-connecticut-farms-presbyterian-church-intro.mp3": 44.6319583,
+      "dr5p-connecticut-farms-presbyterian-church-five-miles-to-sunday-service.mp3": 48.328,
+      "dr5p-connecticut-farms-presbyterian-church-the-battle-that-burned-everything.mp3": 60.3064166,
+      "dr5p-connecticut-farms-presbyterian-church-rising-from-brick-and-orchard.mp3": 47.2529583,
+      "dr5p-connecticut-farms-presbyterian-church-first-in-the-state.mp3": 54.2615833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

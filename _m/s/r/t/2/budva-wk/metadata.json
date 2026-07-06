@@ -833,5 +833,24 @@
     "_m/s/r/t/2/budva-wk/budva-citadel-29230773714.jpg",
     "_m/s/r/t/2/budva-wk/lane-in-old-budva-6-2923265342.jpg"
   ],
-  "updatedAt": "2026-03-31T09:04:05.188Z"
+  "updatedAt": "2026-03-31T09:04:05.188Z",
+  "narration": {
+    "files": [
+      "srt2-budva-flight-context.mp3",
+      "srt2-budva-intro.mp3",
+      "srt2-budva-a-peninsula-built-on-layers.mp3",
+      "srt2-budva-thirty-five-beaches-and-a-promenade.mp3",
+      "srt2-budva-after-dark-on-the-riviera.mp3",
+      "srt2-budva-gateway-to-quieter-shores.mp3"
+    ],
+    "durations": {
+      "srt2-budva-flight-context.mp3": 56.12525,
+      "srt2-budva-intro.mp3": 57.1395,
+      "srt2-budva-a-peninsula-built-on-layers.mp3": 50.279,
+      "srt2-budva-thirty-five-beaches-and-a-promenade.mp3": 55.4151666,
+      "srt2-budva-after-dark-on-the-riviera.mp3": 53.2565,
+      "srt2-budva-gateway-to-quieter-shores.mp3": 49.1850416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

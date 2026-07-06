@@ -1493,5 +1493,26 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kr4z-kinshasa-flight-context.mp3",
+      "kr4z-kinshasa-intro.mp3",
+      "kr4z-kinshasa-leopoldvilles-ghost.mp3",
+      "kr4z-kinshasa-the-rhythm-of-the-streets.mp3",
+      "kr4z-kinshasa-navigating-the-chaos.mp3",
+      "kr4z-kinshasa-river-prawns-and-primus.mp3",
+      "kr4z-kinshasa-a-city-that-demands-attention.mp3"
+    ],
+    "durations": {
+      "kr4z-kinshasa-flight-context.mp3": 62.019125,
+      "kr4z-kinshasa-intro.mp3": 50.3866666,
+      "kr4z-kinshasa-leopoldvilles-ghost.mp3": 59.4930833,
+      "kr4z-kinshasa-the-rhythm-of-the-streets.mp3": 57.7425,
+      "kr4z-kinshasa-navigating-the-chaos.mp3": 63.311,
+      "kr4z-kinshasa-river-prawns-and-primus.mp3": 52.4453333,
+      "kr4z-kinshasa-a-city-that-demands-attention.mp3": 61.4587916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

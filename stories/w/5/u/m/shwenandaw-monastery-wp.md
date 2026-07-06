@@ -1,0 +1,53 @@
+# Shwenandaw Monastery
+
+The last surviving original structure from Mandalay's Royal Palace, this teak monastery was dismantled and moved by a king who believed it was haunted by his father's ghost.
+
+**Location:** 22.0007, 96.1137
+
+**Categories:** monasteries, buddhism, myanmar, historical-architecture, mandalay
+
+## Introduction
+
+King Thibaw Min had a problem only royalty could have: a haunted apartment. In 1878, shortly after his father King Mindon Min died in the royal chambers of the Glass Palace, Thibaw ordered the entire building dismantled, carried out of the palace compound, and reassembled on a plot near Mandalay Hill. The cost was 120,000 rupees. The reason, according to the court, was that the dead king's spirit lingered. Whether Thibaw acted from genuine fear, filial devotion, or political calculation, the result was the same -- the most ornate section of Mandalay's royal complex was lifted whole from the palace and reborn as a monastery. That act of superstitious relocation is the reason this building still stands today, the only major original structure from the Royal Palace to survive the fires of World War II.
+
+## A Palace Reborn in Teak
+
+The building that became Shwenandaw Monastery did not begin as a house of worship. It was the northern section of the Hmannan -- the Glass Palace -- and served as the private royal apartments at Amarapura before the entire capital was relocated to Mandalay. Gilt with gold and encrusted with glass mosaic work, it was among the most lavish structures in a kingdom known for architectural extravagance. When Thibaw had it moved on 10 October 1878, reconstruction took just three weeks, finishing on 31 October. Dedicated to the memory of Mindon Min, the building was repurposed as a place of meditation. Thibaw himself is said to have used it for that purpose, and the meditation couch where the last king of Burma sat can still be seen inside.
+
+## Myths Carved in Wood
+
+What makes Shwenandaw unmistakable is its teak. Every surface of the monastery -- walls, roof panels, door frames, supporting pillars -- carries elaborate carvings depicting scenes from Buddhist mythology. Celestial beings, lotus scrollwork, and episodes from the Jataka tales cover the exterior in dense, layered relief. The traditional Burmese architectural style emphasizes tiered roofs and open corridors, and the monastery's multi-level pyatthat roofline rises in a series of diminishing tiers, each edge ornamented with carved finials. Inside, the carvings continue across ceiling panels and wall partitions, a riot of narrative detail that rewards hours of close looking. What was once gilded gold has weathered to the deep brown of aged teak, giving the monastery a warmth that its glass-and-gold palace incarnation likely never possessed.
+
+## The Sole Survivor
+
+Shwenandaw Monastery's significance extends beyond its carvings. When the British annexed Upper Burma in 1885, the Royal Palace compound became a military installation renamed Fort Dufferin. During World War II, the palace and nearly all its buildings burned. Fire consumed the teak structures that had defined Mandalay's skyline for decades. Because Thibaw had moved this one building outside the palace walls in 1878, it escaped the conflagration entirely. The palace visible today is a 1990s reconstruction. Shwenandaw is the real thing -- the only major original structure from Mindon Min's royal compound still standing. It sits near the Atumashi Monastery, which was itself destroyed by fire in 1890 and later rebuilt in concrete, making Shwenandaw's survival all the more remarkable.
+
+## Mandalay's Living Relic
+
+The monastery stands in the cultural heart of Mandalay, near the foot of Mandalay Hill with its long covered staircases and panoramic views. Visitors who arrive expecting a ruin find instead a building that feels inhabited by its own history -- the scale of a royal apartment, the detail of a religious monument, the patina of nearly a century and a half of exposure to monsoon rains and tropical sun. The original gold leaf and glass mosaic that once covered the exterior are long gone, stripped or weathered away. But the underlying craftsmanship remains, each carved panel a record of the artisans who worked under Burma's last dynasty. In a city where so much was lost to colonialism, war, and time, Shwenandaw Monastery endures as a tangible fragment of what the Konbaung court built -- and what a king's ghost story accidentally preserved.
+
+## Flight Context
+
+Located at 22.00N, 96.11E near the foot of Mandalay Hill in central Mandalay, Myanmar. The monastery sits adjacent to the Atumashi Monastery and the reconstructed Mandalay Palace compound (Fort Dufferin), all visible from altitude as a cluster of traditional Burmese architecture near the moated palace walls. Nearest airport is Mandalay International (VYMD), approximately 35 km south. Recommended viewing altitude: 3,000-5,000 ft AGL. The gold-topped stupas of nearby Kuthodaw Pagoda provide a useful visual reference.
+
+## Sources
+
+- [Shwenandaw Monastery - Wikipedia](https://en.wikipedia.org/?curid=4219752)
+  - Building moved by King Thibaw on 10 October 1878, reconstruction completed 31 October 1878 verified
+  - Originally northern section of the Hmannan (Glass Palace) verified
+  - Cost of 120,000 rupees for the move verified
+  - Only major original structure from Mindon's royal compound to survive WWII verified
+  - Atumashi Monastery destroyed by fire in 1890 and rebuilt in concrete verified
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 8 facts verified · 0 corrections
+
+All key facts verified: Thibaw moved building 10 Oct 1878 completed 31 Oct, cost 120,000 rupees, originally northern section of Hmannan Glass Palace, only original structure from Mandalay Palace to survive WWII, Atumashi Monastery burned 1890 rebuilt in concrete. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 720*
+*Read time: 4 minutes*

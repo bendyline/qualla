@@ -136,5 +136,24 @@
     "_m/q/v/0/4/horizontal-falls-wp/horizontal-falls-western-austr.png",
     "_m/q/v/0/4/horizontal-falls-wp/horizontal-falls-first-fall.jpg"
   ],
-  "updatedAt": "2026-03-31T02:49:15.810Z"
+  "updatedAt": "2026-03-31T02:49:15.810Z",
+  "narration": {
+    "files": [
+      "qv04-horizontal-falls-flight-context.mp3",
+      "qv04-horizontal-falls-intro.mp3",
+      "qv04-horizontal-falls-physics-of-an-unlikely-waterfall.mp3",
+      "qv04-horizontal-falls-attenboroughs-wonder.mp3",
+      "qv04-horizontal-falls-the-2022-accident-and-what-changed.mp3",
+      "qv04-horizontal-falls-the-kimberley-tidal-coast.mp3"
+    ],
+    "durations": {
+      "qv04-horizontal-falls-flight-context.mp3": 44.8537916,
+      "qv04-horizontal-falls-intro.mp3": 41.413375,
+      "qv04-horizontal-falls-physics-of-an-unlikely-waterfall.mp3": 53.8120416,
+      "qv04-horizontal-falls-attenboroughs-wonder.mp3": 53.488375,
+      "qv04-horizontal-falls-the-2022-accident-and-what-changed.mp3": 61.2139166,
+      "qv04-horizontal-falls-the-kimberley-tidal-coast.mp3": 48.24375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

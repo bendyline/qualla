@@ -1,0 +1,53 @@
+# Kurmanathaswamy Temple, Srikurmam
+
+The only known pre-14th-century Indian temple dedicated to Vishnu's tortoise avatar, where 108 unique stone pillars, century-old Orissan murals, and a living tortoise park honor the deity who churned the cosmic ocean.
+
+**Location:** 18.2700, 84.0066
+
+**Categories:** Hindu temples in Srikakulam district, Temples dedicated to avatars of Vishnu, Uttarandhra, Abhimana temples of Vishnu
+
+## Introduction
+
+Of Vishnu's ten avatars, the tortoise gets the least attention. Kurma -- the form the god assumed to support Mount Mandara on his back during the churning of the cosmic ocean -- appears in temple art across India, but almost never as the primary deity of a major shrine. Srikurmam is the exception. This village temple in the Srikakulam district of Andhra Pradesh, 130 kilometers north of Visakhapatnam, is the only known pre-14th-century temple in India dedicated entirely to the Kurma avatar. Inside the sanctum, a tortoise image sits alongside an anthropomorphic Vishnu with Lakshmi -- the cosmic and the personal forms of the same god, sharing the same sacred space. The temple was built before the 11th century CE in a fusion of Kalinga and Dravidian architectural styles, and its inscriptional history begins in the 11th to 12th centuries, marking it as one of the oldest continuously active religious sites in the region.
+
+## Where Two Traditions Worship Together
+
+Srikurmam defies the sectarian boundaries that often divide Hindu temples. The shrine follows both Shaivite and Vaishnavite traditions of worship -- an unusual combination that reflects the temple's layered history. According to the earliest inscription, in 1035 CE Anantavarman Chodaganga Deva of the Eastern Ganga Dynasty of Odisha converted the temple from a Shiva shrine to a Vaishnava khetra, or sacred place of Vishnu. But the conversion did not erase what came before. The temple still reverentially includes Shaiva icons -- Ganesha, Shiva -- alongside Shakti figures like Durga, and its daily rituals blend elements from both traditions. Akhanda Deeparadhana, a continuous lamp worship, and Nitya Bhogam, a daily offering, are performed alongside the Kalyanam marriage ceremony for the deities. It is a place where theological differences were resolved not through argument but through inclusion.
+
+## 108 Pillars, None Alike
+
+The temple's most striking architectural feature is its collection of 108 ekasila pillars -- each carved from a single stone, and no two bearing the same design. These pillars support the mandapa and line the perambulatory path constructed by Eastern Ganga Dynasty king Anangabhima Deva III. Many bear inscriptions that chronicle the temple's patronage and evolution over centuries. Two dhvajasthambas, or flag pillars, mark the entrance, a feature associated with major temples of both Vaishnavite and Shaivite tradition. Along the inner walls of the pradakshina mandapa, century-old Orissan Pattachitra-style mural paintings depict scenes from Hindu mythology in the distinctive flat, bold style of Odisha's traditional scroll painters. The murals survive as one of the few remaining examples of Pattachitra applied to temple walls rather than cloth or palm leaf.
+
+## The River from the Cow's Udder
+
+Srikurmam's mythology reaches beyond the temple walls. According to local tradition, the Gosthani River -- whose name derives from the Sanskrit for "cow's udder" -- originates near the temple site. A legend tells of Swetha Chakravarthi, a king who approached his queen while she was observing an Ekadasi fast. When she refused him, saying the time was not auspicious, the king persisted. She prayed to Vishnu, who intervened by creating a stream of water that separated the couple. The king was carried away in the resulting flood, and the queen followed him to the hilly terrain of Swetha Giri. Later, a tribal king discovered the Swetha Pushkarani, the sacred pond formed by the divine flood, and built a tank around it. At the tribal king's request, the deity was oriented to face west -- an unusual direction for a Hindu temple, and one that visitors still notice today.
+
+## Living Tortoises, Fragile Legacy
+
+In a gesture that links mythology to conservation, the temple maintains a tortoise park housing Indian star tortoises -- a living tribute to Vishnu's Kurma avatar. In July 2014, 55 tortoise hatchlings were bred in the park, a number that the organization Green Mercy claimed as a world record. But the park's story took a darker turn. By September 2015, The Times of India reported mass mortality among the tortoises due to infections, poor maintenance, and a cascade of environmental and institutional failures. Only 24 survived. The forest department offered to help conserve them, but the offer stalled after a high court petition filed by devotees and religious organizations. Then Cyclone Hudhud struck in October 2014, causing severe damage to the park's infrastructure. The episode laid bare the tension between religious stewardship and scientific conservation -- a tension the temple continues to navigate. The Gajapathi Rajus of Vizianagaram serve as the temple's trustees, while the Hindu Religious and Endowment Board of Andhra Pradesh handles day-to-day administration. In 2013, the Indian postal department honored the temple with a commemorative stamp.
+
+## Flight Context
+
+Located at 18.27°N, 84.01°E in Srikurmam village, Gara mandal, Srikakulam district, Andhra Pradesh. The temple is 15 km from Srikakulam town and 130 km north of Visakhapatnam. The nearest airport is Visakhapatnam (VOVZ/VTZ), approximately 130 km to the south. The Suryanarayana temple at Arasavalli is 12.5 km away. The temple sits on flat coastal terrain near the Bay of Bengal coast. Best viewed at 2,000-3,000 feet; the temple compound and surrounding village are visible in clear conditions against the green agricultural landscape.
+
+## Sources
+
+- [Kurmanathaswamy temple, Srikurmam - Wikipedia](https://en.wikipedia.org/?curid=52764593)
+  - Only known pre-14th-century Indian temple dedicated to Kurma avatar confirmed
+  - Anantavarman Chodaganga Deva inscription converting temple from Shaiva to Vaishnava confirmed
+  - 108 ekasila pillars with no two alike, constructed by Anangabhima Deva III confirmed
+  - Pattachitra-style murals along pradakshina mandapa confirmed
+  - Corrected: ICAO code VOHS → VOVZ for Visakhapatnam Airport
+
+## Review Notes
+
+**Reviewed:** 2026-03-07 · 8 facts verified · 1 correction
+
+Corrected ICAO code for Visakhapatnam airport from VOHS to VOVZ. Verified 1035 CE inscription attribution, 108 ekasila pillars by Anangabhima Deva III, Pattachitra-style murals, tortoise park events. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 800*
+*Read time: 4 minutes*

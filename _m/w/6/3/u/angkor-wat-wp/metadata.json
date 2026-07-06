@@ -891,5 +891,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w63u-angkor-wat-flight-context.mp3",
+      "w63u-angkor-wat-intro.mp3",
+      "w63u-angkor-wat-a-mountain-built-by-hand.mp3",
+      "w63u-angkor-wat-stone-dancers-and-epic-wars.mp3",
+      "w63u-angkor-wat-from-vishnu-to-buddha.mp3",
+      "w63u-angkor-wat-rediscovery-and-restoration.mp3",
+      "w63u-angkor-wat-a-living-symbol.mp3"
+    ],
+    "durations": {
+      "w63u-angkor-wat-flight-context.mp3": 49.251125,
+      "w63u-angkor-wat-intro.mp3": 65.935125,
+      "w63u-angkor-wat-a-mountain-built-by-hand.mp3": 62.9578333,
+      "w63u-angkor-wat-stone-dancers-and-epic-wars.mp3": 59.82025,
+      "w63u-angkor-wat-from-vishnu-to-buddha.mp3": 61.7816666,
+      "w63u-angkor-wat-rediscovery-and-restoration.mp3": 67.33875,
+      "w63u-angkor-wat-a-living-symbol.mp3": 52.2313333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

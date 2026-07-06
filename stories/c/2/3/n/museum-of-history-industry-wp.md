@@ -1,0 +1,62 @@
+# Museum of History & Industry
+
+Seattle's largest private heritage organization, housed in a World War II-era Naval Reserve Armory on Lake Union, where Boeing's first commercial airplane hangs above a three-story wall of the city's cultural icons.
+
+**Location:** 47.6276, -122.3366
+
+**Categories:** museum, history, aviation, maritime, culture
+
+## Introduction
+
+A 1919 biplane hangs from the ceiling, suspended at the angle of a landing approach toward the water just outside. Beneath it, a twelve-foot neon "R" -- salvaged from the old Rainier Brewery -- glows red against a wall crammed with Seattle oddities: a clam costume from Ivar's seafood restaurants, a stuffed cougar donated by Eddie Bauer himself. This is the grand atrium of MOHAI, the Museum of History & Industry, and the deliberate jumble of high and low culture tells you everything about the institution's philosophy. Seattle's story is not a single narrative but a collision of ambitions -- aviation and seafood, industry and absurdity -- and MOHAI lays them all out without hierarchy in a building that once trained naval recruits to fight in the Pacific.
+
+## From Costume Parties to a Civic Mission
+
+The museum traces its origins to a strange social ritual. In 1911, Morgan and Emily Carkeek began hosting an annual Founder's Day party at their home, where guests arrived in period costumes and brought artifacts from early Seattle. The gatherings were exclusive -- membership in the resulting Seattle Historical Society, established in 1914, was limited to white settlers and their descendants. For decades the collection grew while the Society struggled to find a permanent home, thwarted by the Great Depression and an aging membership that failed to attract younger participants. The turning point came in 1945, when Boeing offered $50,000 toward an aviation wing. Over the next five years, the Society secured a site in Montlake and opened its doors in 1952, finally transforming from a private club into a public institution. The Founder's Day event, once invitation-only, became a community celebration.
+
+## Stories Strung Like Pearls
+
+MOHAI's core exhibit, True Northwest: The Seattle Journey, wraps around the second floor in 22 interconnected sections spanning from pre-Pioneer settlements to the present day. Creative Director Ann Farrington, who previously worked on the Experience Music Project and the National Holocaust Museum, designed it not as a timeline but as what she called "a series of stories strung like pearls." The approach reveals how Seattle's past feeds its present: the 1889 Great Seattle Fire, retold through a Gilbert and Sullivan-style opera where artifacts literally sing the story of the blaze over historic images, connects to the rebuilding that created the city's modern downtown. Interactive touchscreens let visitors explore different eras, while the Joshua Green Foundation Theater screens a seven-minute film on Seattle culture across two large screens. The effect is a museum that feels less like a lecture and more like an ongoing conversation.
+
+## Boeing's First Flight Path
+
+The centerpiece of the Faye G. Allen Grand Atrium is the Boeing B-1, built in 1919 as Bill Boeing's first commercial airplane. The plane hangs at an angle calculated to replicate a typical flight path onto Lake Union, where the B-1 originally took off and landed as a seaplane. It is a startling object, fragile and small by modern standards, and it makes the ambition of early aviation feel tangible. Above the atrium, a 64-foot-tall sculpture called Wawona rises toward the exposed original ceiling of the Naval Reserve Building. Local artist John Grade constructed it from wood and materials salvaged from the 1897 schooner Wawona, which had been dismantled in 2009 after decades of failed restoration efforts. The sculpture transforms shipwreck timbers into something soaring -- a fitting metaphor for a museum dedicated to reinvention.
+
+## Periscopes and Innovation
+
+On the museum's top floor, the McCurdy Family Maritime Gallery occupies a space originally built as a replica ship's bridge to train naval recruits during World War II. South-facing windows look out over Lake Union, and visitors can peer through a working TANG periscope from a naval submarine, sweeping a 360-degree view of the lake and the downtown skyline. The gallery, curated in partnership with the Puget Sound Maritime Historical Society since the early 1950s, anchors the museum in Seattle's waterfront identity. Below, the Bezos Center for Innovation -- funded by a $10 million gift from Jeff Bezos and designed by Olson Kundig Architects -- opened in October 2013, extending MOHAI's reach from historical preservation into the story of the tech economy that has reshaped the surrounding South Lake Union neighborhood. MOHAI holds accreditation from the American Alliance of Museums and stands as a Smithsonian affiliate, custodian of nearly four million artifacts, photographs, and archival items.
+
+## Flight Context
+
+MOHAI sits at 47.628°N, 122.337°W on the south shore of Lake Union in Seattle's South Lake Union neighborhood. From the air, look for Lake Union Park at the southern tip of the lake -- the museum occupies the distinctive Naval Reserve Armory building along the waterfront. The Space Needle is roughly half a mile to the northwest. The nearest general aviation airport is Boeing Field/King County International (KBFI), approximately 4.5 nautical miles south. Seattle-Tacoma International (KSEA) is about 11 nautical miles south. Recommended viewing altitude: 2,000-3,000 feet AGL for waterfront context.
+
+## Sources
+
+- [Museum of History & Industry - Wikipedia](https://en.wikipedia.org/?curid=722363)
+  - MOHAI is the largest private heritage organization in Washington state
+  - Located in the Naval Reserve Armory building on south shore of Lake Union
+  - Naval Reserve Building constructed 1941-1942 (article says 'World War II-era' - confirmed)
+  - Collection of nearly four million artifacts photographs and archival items
+  - Reopened in South Lake Union location December 29 2012
+  - Bezos Center for Innovation funded by $10 million gift from Jeff Bezos
+- [MOHAI reopens in Naval Reserve Armory - HistoryLink.org](https://www.historylink.org/File/11068)
+  - Museum first opened in Montlake neighborhood in 1952 confirmed
+  - Naval Reserve Building used to train Navy recruits in WWII confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 7 facts verified · 0 corrections
+
+Key facts verified: MOHAI largest private heritage organization Washington state, Naval Reserve Building 1941-42, reopened 2012, nearly 4 million artifacts, Bezos 0M gift. Spiciness 2.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Seattle's story is not a single narrative but a collision of ambitions
+- a museum that feels less like a lecture and more like an ongoing conversation
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

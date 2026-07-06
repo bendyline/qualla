@@ -146,5 +146,26 @@
     "_m/g/c/p/e/surrey-wp/hampton-court-palace-from-the-.jpg",
     "_m/g/c/p/e/surrey-wp/aerial-view-of-thames-ditton.jpg"
   ],
-  "updatedAt": "2026-03-20T03:26:53.147Z"
+  "updatedAt": "2026-03-20T03:26:53.147Z",
+  "narration": {
+    "files": [
+      "gcpe-surrey-flight-context.mp3",
+      "gcpe-surrey-intro.mp3",
+      "gcpe-surrey-the-north-downs.mp3",
+      "gcpe-surrey-saxons-and-sub-kings.mp3",
+      "gcpe-surrey-the-diggers-and-the-magna-carta.mp3",
+      "gcpe-surrey-brookwood-and-brooklands.mp3",
+      "gcpe-surrey-box-hill-and-beyond.mp3"
+    ],
+    "durations": {
+      "gcpe-surrey-flight-context.mp3": 55.9314583,
+      "gcpe-surrey-intro.mp3": 48.1468333,
+      "gcpe-surrey-the-north-downs.mp3": 64.812,
+      "gcpe-surrey-saxons-and-sub-kings.mp3": 69.7271666,
+      "gcpe-surrey-the-diggers-and-the-magna-carta.mp3": 72.85,
+      "gcpe-surrey-brookwood-and-brooklands.mp3": 60.644125,
+      "gcpe-surrey-box-hill-and-beyond.mp3": 62.2659583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

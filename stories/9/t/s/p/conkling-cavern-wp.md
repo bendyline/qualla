@@ -1,0 +1,70 @@
+# Conkling Cavern
+
+Deep within a vertical shaft in New Mexico's Organ Mountains lies a paleontological treasure trove where Ice Age giants, ancient humans, and dire wolves left their bones intermingled across millennia.
+
+**Location:** 32.1900, -106.5853
+
+**Categories:** paleontology, archaeology, pleistocene, caves, new-mexico
+
+## Introduction
+
+The entrance drops straight down into darkness. Conkling Cavern, hidden on the eastern flank of Bishop's Cap in New Mexico's Organ Mountains, is not a place for casual exploration. But for paleontologists, this vertical shaft has yielded an extraordinary record of life and death during the Pleistocene epoch. Excavated in the late 1920s, the cavern surrendered the bones of giant ground sloths, prehistoric camels, dire wolves, California condors, and at least two ancient humans whose remains were found gnawed in what appears to have been a wolf den.
+
+## A Bone Cave in the Desert Peaks
+
+Conkling Cavern sits on the east side of Bishop's Cap, an outlier peak of the Organ Mountains in Dona Ana County, near Las Cruces. The cavern entrance is essentially vertical, dropping into a chamber that was originally filled with sediment to within eight feet of the opening. R.P. Conkling drew scientific attention to the site, and in the late 1920s, paleontologist Chester Stock led excavations that would uncover one of the most significant Pleistocene fossil assemblages in the American Southwest. Unfortunately, Stock never published a comprehensive study of the fauna. His premature death left the scientific community with only preliminary species lists, and the full significance of the site has been pieced together by subsequent researchers working with the original collections.
+
+## Giants of the Ice Age
+
+The fauna recovered from Conkling Cavern reads like a roster of Pleistocene megafauna that once roamed the Chihuahuan Desert region. Multiple species of ground sloth appear in the record, including the giant Megalonyx and the smaller Nothrotheriops. Prehistoric camels of at least two species, Hemiauchenia and the larger Camelops hesternus, left their bones in the deposits. Horses of the extinct genus Equus were present, as were four-horned pronghorns of the genus Stockoceros and the diminutive Capromeryx. Most fearsome among the predators was Arctodus, the giant short-faced bear that stood over eleven feet tall on its hind legs, alongside packs of dire wolves whose gnaw marks appear on many of the recovered bones.
+
+## Ancient Humans Among the Beasts
+
+Perhaps the most startling discoveries at Conkling Cavern were the fragmentary remains of two humans. One skull fragment was found at a depth of about twelve feet, close to the claw bones of a ground sloth. The second skull portion lay much deeper, approximately twenty-six feet down, buried beneath a layer of consolidated sandstone. Even more unsettling, gnawed human bones were recovered from still deeper levels in what excavators interpreted as a dire wolf denning site. Whether these individuals died in the cave, fell to their deaths through the vertical entrance, or were dragged there by predators remains unknown. Because the excavation predated modern dating techniques, the precise age of these human remains has never been determined.
+
+## A Living Record of Climate Change
+
+The bird fauna from Conkling Cavern tells its own story of a dramatically different landscape. California condors, now restricted to reintroduction sites in the far West, once soared over southern New Mexico. Greater sage-grouse, a species now found only in sagebrush country far to the north, also appears in the record, suggesting cooler, wetter conditions during parts of the Pleistocene. Bald eagles, golden eagles, and numerous species of hawks and owls left their bones alongside those of wild turkeys, ravens, and a prehistoric subspecies of the greater roadrunner. Today the fossil collections are split between the Natural History Museum of Los Angeles County and the University of Texas at El Paso, where researchers continue to study this remarkable window into a lost world.
+
+## Flight Context
+
+Conkling Cavern is located on the eastern side of Bishop's Cap in the Organ Mountains at approximately 32.19°N, 106.59°W, within the Organ Mountains-Desert Peaks National Monument. Elevation in this area ranges from about 4,500 to 5,500 feet MSL. The jagged spires of the Organ Mountains are unmistakable from the air, rising dramatically east of Las Cruces. The cavern itself is not visible from altitude, but Bishop's Cap is identifiable as a distinct peak on the range's eastern flank. Pilots should be aware of the mountainous terrain and potential for turbulence, particularly during afternoon heating. Las Cruces International Airport (KLRU) lies approximately 15 nm to the west.
+
+## Sources
+
+- [Conkling Cavern - Wikipedia](https://en.wikipedia.org/?curid=16126915)
+  - Bishop's Cap location in Organ Mountains
+  - Dona Ana County, New Mexico
+  - Chester Stock led excavations
+  - late 1920s excavation date
+  - vertical entrance
+  - two human skull fragments at 12 and 26 feet
+  - gnawed human bones in dire wolf den
+  - fauna list including ground sloths, camels, dire wolves, California condors
+  - collections at LA Natural History Museum and UTEP
+- [UTEP Laboratory for Environmental Biology - Conkling Cavern](https://www.utep.edu/leb/pleistnm/sites/conklingcavern.htm)
+  - Arctodus simus confirmed at site
+  - Megalonyx sp. present
+  - Nothrotheriops shastensis confirmed
+  - Camelops hesternus confirmed
+  - Hemiauchenia confirmed
+  - Capromeryx confirmed
+  - Equus conversidens and Equus scotti confirmed
+  - Canis dirus (dire wolf) confirmed in Wolf Den
+  - human remains confirmed at site
+  - California condor and greater sage-grouse fossils confirmed
+- [UTEP Arctodus Records - New Mexico Pleistocene](https://www.utep.edu/LEB/pleistNM/taxaMamm/Arctodus.htm)
+  - Arctodus simus documented at Conkling Cavern
+
+## Review Notes
+
+**Reviewed:** 2026-02-05 · 14 facts verified · 0 corrections
+
+Verified 14 key facts: Bishop's Cap location, Dona Ana County, Chester Stock excavations 1929, vertical entrance, fauna list (Arctodus, Megalonyx, Nothrotheriops, Camelops, Hemiauchenia, Capromeryx, Equus, dire wolves all confirmed via UTEP database), two human skull fragments at 12 and 26 ft, gnawed human bones in wolf den, California condor and greater sage-grouse fossils, collections at LACNHM and UTEP. Arctodus height claim 'over eleven feet' is at the upper edge but within range. Spiciness 2/5.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 640*
+*Read time: 4 minutes*

@@ -1,0 +1,56 @@
+# Lahaina, Kaanapali and Pacific Railroad
+
+The Sugar Cane Train once hauled tourists along six miles of historic narrow-gauge track on Maui, crossing a 325-foot curved wooden trestle with views of three islands -- until the 2023 Lahaina wildfire and a 2025 Kaanapali fire destroyed much of what remained.
+
+**Location:** 20.8804, -156.6789
+
+**Categories:** transportation, history, heritage, disaster
+
+## Introduction
+
+At its peak, the island of Maui had over 200 miles of narrow-gauge railroad track, all of it devoted to a single crop: sugarcane. The little locomotives hauled cut cane from the plantation fields in Kaanapali to the Pioneer Mill in Lahaina, and when the trucks finally replaced them in the mid-twentieth century, the tracks rusted and the right-of-way went quiet. Then, in 1969, a man named A.W. "Mac" McKelvey decided the tracks should carry something new. The Lahaina, Kaanapali and Pacific Railroad -- better known as the Sugar Cane Train -- reopened six miles of that historic route as a heritage railroad, pulling open-air coaches behind vintage steam locomotives across a landscape that had been shaped, mile by mile, by sugar.
+
+## Iron on the Islands
+
+Hawaii's railroad history is inseparable from its plantation history. The narrow-gauge lines that crisscrossed Maui were industrial infrastructure, not passenger routes -- built to move sugarcane from field to mill as efficiently as possible. By the time McKelvey and the Makai Corporation launched the heritage railroad in 1969, most of those original tracks had been pulled up or abandoned. The Sugar Cane Train preserved a six-mile stretch of the old right-of-way, turning industrial memory into tourist experience. The 40-minute trip connected Lahaina with Puukolii, stopping briefly at Kaanapali, while a narrator pointed out sites of interest. The highlight was the Hahakea trestle, a 325-foot curved wooden bridge whose elevation offered panoramic views of the neighboring islands of Lanai and Molokai, and of the Hale Mahina -- the West Maui Mountains.
+
+## Locomotives with Second Lives
+
+The railroad's motive power told its own story of reinvention. Engines No. 1 (Anaka) and No. 3 (Myrtle) were narrow-gauge steam locomotives built by H.K. Porter, Inc. of Pittsburgh in February 1943 for the Carbon Limestone Company -- wartime industrial workhorses, about as far from tropical tourism as a locomotive can get. The LKPRR stripped their austere saddle tanks, added tenders, wooden cabs, and oversized headlights styled to resemble nineteenth-century oil lamps, transforming them into colorful echoes of small mainline engines from the railroad's golden age. Engine No. 5 was the only locomotive with genuine Hawaiian provenance, having once run on the Oahu Railway and Land Company before being donated to the Travel Town Museum in Los Angeles in 1954. An equipment trade brought it back to Hawaii, where it sat awaiting restoration for decades.
+
+## Derailment and Revival
+
+Financial difficulties forced the Sugar Cane Train to announce its closure on July 24, 2014, effective August 1. Within months, a local Maui resident named Craig Hill, owner of Maui Concierge Services, purchased the operation. Hill believed the train was too important to Lahaina's identity to let it disappear. He ran seasonal "Holiday Express" trains on a short stretch of track in Kaanapali while planning a full revival of the line. The ambition was real: rebuild all three steam locomotives from the ground up, replace the aging ties and rails, add grade crossings for safety, and introduce evening runs and wedding charters. The Sugar Cane Train was not just a tourist ride for Hill. It was a piece of living infrastructure that connected Lahaina to the plantation era that made it.
+
+## Two Fires
+
+On August 8, 2023, the Lahaina wildfire destroyed the railroad's station, its wooden turntable, and the entire eastern half of the line. Much of the rolling stock and maintenance sheds survived only because they were stored north of the fire's path. The railroad sat abandoned, its future uncertain. Then, on August 4, 2025, a second fire in Kaanapali damaged or destroyed most of the remaining rolling stock. Engine No. 5, the one locomotive with authentic Hawaiian railroad history, had already sustained heavy damage in the 2023 fire. What the Sugar Cane Train's fate will be is unclear. The track, the trestle, the steam whistles that once echoed across the cane fields -- all of it now belongs to a chapter of Maui's history that keeps getting harder to hold on to.
+
+## Flight Context
+
+Located at 20.880N, 156.679W along the west coast of Maui. The railroad's six-mile route between Lahaina and Puukolii roughly parallels the coastline, with the 325-foot Hahakea trestle a potential visual landmark from low altitude. The Lahaina station site and turntable were destroyed in the 2023 fire. Nearest major airport is Kahului Airport (PHOG), approximately 25 nm east. Kapalua Airport (PHJH) is about 6 nm northwest. The route offers views of Lanai and Molokai across the channel.
+
+## Sources
+
+- [Lahaina, Kaanapali and Pacific Railroad - Wikipedia](https://en.wikipedia.org/?curid=2819292)
+  - Heritage railroad reopened 1969 confirmed
+  - Six miles of track confirmed
+  - Closure announced July 24, 2014 effective August 1 confirmed
+  - Craig Hill owner of Maui Concierge Services purchased the operation confirmed
+  - Locomotives No. 1 (Anaka) and No. 3 (Myrtle) built by H.K. Porter Inc. Pittsburgh 1943 confirmed
+  - 2023 Lahaina wildfire destroyed station, turntable, eastern half of line confirmed
+  - August 4, 2025 second fire in Kaanapali damaged remaining rolling stock confirmed
+  - Hahakea trestle 325-foot curved wooden bridge confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 8 facts verified · 0 corrections
+
+Key facts verified: heritage railroad reopened 1969 by A.W. McKelvey and Makai Corporation, 6 miles of track, closure announced July 24 2014 effective August 1, Craig Hill (Maui Concierge Services) purchased, locomotives No.1 Anaka and No.3 Myrtle built H.K. Porter Inc. Pittsburgh 1943, 2023 fire destroyed station and eastern half of line, August 4 2025 second fire Kaanapali. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 770*
+*Read time: 4 minutes*

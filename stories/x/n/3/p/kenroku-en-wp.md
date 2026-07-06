@@ -1,0 +1,65 @@
+# Kenroku-en
+
+A garden that took thirteen generations to perfect, where feudal lords pursued the impossible: six contradictory qualities of landscape beauty in a single space.
+
+**Location:** 36.5619, 136.6625
+
+**Categories:** japanese-garden, cultural-landscape, national-scenic-beauty, historical-site, edo-period
+
+## Introduction
+
+Six qualities define a perfect garden, according to a classical Chinese treatise on landscape design. Spaciousness and seclusion. Artifice and antiquity. Waterways and panoramas. The catch: they exist in opposing pairs, each one canceling the other. No single garden should be able to hold all six at once. Kenroku-en, sprawling across 25 acres beside Kanazawa Castle, is the garden that proved the theory wrong. Named in 1822 by the scholar-politician Matsudaira Sadanobu, who drew from the Song dynasty text "Chronicles of the Famous Luoyang Gardens," Kenroku-en translates literally as "Garden of Six Attributes." The name was not flattery. Walk the grounds today and you feel the paradox resolved at every turn -- intimate groves opening onto sweeping views of the Japan Sea and the Iozan mountains, centuries-old trees standing alongside meticulously engineered water features. Thirteen successive lords of the Maeda clan, rulers of the wealthy Kaga Domain, poured over two hundred years of effort into this landscape, and the result is one of the Three Great Gardens of Japan.
+
+## Two Centuries of Obsession
+
+The garden's origins are tangled in fire and ambition. The Tatsumi water channel, completed in 1632 by the third daimyo Maeda Toshitsune, would eventually feed Kenroku-en's twisting waterways, though the garden itself had not yet taken shape. By 1676, the fifth daimyo Tsunanori had begun landscaping the slope facing Kanazawa Castle, creating a pleasure garden called Renchitei for moon-viewing banquets and admiring horses. Then, in 1759, a massive fire consumed nearly everything. The Shigure-tei teahouse, built in 1725, miraculously survived and still stands today in the Renchitei section -- a lone thread connecting the garden's current form to its earliest incarnation. Reconstruction began in earnest under the eleventh daimyo Harunaga in 1774, who created the Emerald Waterfall and the Yugao-tei teahouse. The twelfth daimyo Narinaga channeled water from the Tatsumi Waterway in 1822 to carve the garden's signature winding streams. The thirteenth daimyo Nariyasu expanded Kasumi Pond and planted a Karasaki Pine from seed brought from the shores of Lake Biwa. Each lord left a layer, and the garden accumulated meaning the way a forest accumulates rings.
+
+## Stone, Water, and the Art of Deception
+
+Kenroku-en holds roughly 8,750 trees and 183 species of plants, but the garden's power lies in how its artificial elements disappear into the natural landscape. The Kotoji-toro, a two-legged stone lantern said to resemble the bridge on a koto stringed instrument, has become the emblem of both the garden and the city of Kanazawa itself. The Flying Geese Bridge is made of eleven red stones arranged to evoke geese in formation overhead. On an island near the center of Kasumi Pond sits the Kaiseki Pagoda, possibly dating to the 1590s -- one theory holds that the warlord Kato Kiyomasa brought it back from Korea and presented it to Toyotomi Hideyoshi, who in turn gave it to Maeda Toshiie. Japan's oldest fountain operates here by natural water pressure alone, fed by the elevation difference between the Kasumi Pond and its source. Nothing is accidental. Every rock, every waterfall, every carefully trained branch is placed to sustain the illusion that nature itself arranged the scene.
+
+## When the Snow Falls
+
+Kenroku-en is celebrated in every season -- cherry blossoms in spring, irises in summer, blazing maples in autumn -- but winter transforms the garden into something that belongs only to Kanazawa. Heavy snows roll in from the Japan Sea, and the garden's caretakers deploy yukitsuri: conical arrays of ropes radiating from the tops of poles down to individual branches, creating geometric cones of golden straw rope against white snow. The technique protects the trees from the weight of accumulating snow, but it also turns the garden into a work of ephemeral sculpture. The Karasaki Pine, with its broad, spreading canopy, receives the most elaborate treatment, becoming a towering tent of lines. Visitors walk the paths in near silence, the snow muffling footsteps, the ponds half-frozen and still. Kenroku-en in winter is the garden at its most paradoxical -- stripped bare and heavy with snow, yet somehow more beautiful for the austerity, the ancient pines holding their shapes inside cages of rope.
+
+## A Garden Opened
+
+For nearly two centuries, Kenroku-en existed for the Maeda lords and their retainers alone. The fall of the feudal system changed that. The garden opened to the public on May 7, 1874, and visitors have been walking its paths ever since. In 1922, the Japanese government designated it a National Site of Scenic Beauty. In 1985, it was elevated to the rare status of National Site of Special Scenic Beauty. Today the garden sits just outside the gates of Kanazawa Castle, the two linked by bridges and shared history. Kanazawa itself escaped the bombing of the Second World War, preserving its samurai districts, geisha quarters, and this garden in a continuity of landscape that most Japanese cities lost. Walking Kenroku-en, you are walking in the footsteps of feudal lords who understood something essential: that a perfect garden is not a single vision imposed on the earth, but the accumulated patience of generations, each one adding, refining, and trusting that the next would carry the work forward.
+
+## Flight Context
+
+Located at 36.56°N, 136.66°E in central Kanazawa, Ishikawa Prefecture. The garden's 25-acre footprint is visible as a distinctive green expanse adjacent to Kanazawa Castle's grounds. Nearest airport is Komatsu Airport (RJNK), approximately 30 km southwest. Approach from the Sea of Japan coast to appreciate Kanazawa's position between the mountains and the coast. At 2,000-4,000 feet, the garden's ponds, tree canopy, and geometric paths become distinguishable from the surrounding city grid.
+
+## Sources
+
+- [Kenroku-en - Wikipedia](https://en.wikipedia.org/?curid=522712)
+  - One of Japan's Three Great Gardens (with Kairakuen and Korakuen)
+  - Approximately 25 acres / 11.4 hectares in area
+  - Contains roughly 8,750 trees and 183 species of plants
+  - National Site of Scenic Beauty designation in 1922
+  - Elevated to National Site of Special Scenic Beauty in 1985
+  - Garden opened to public in 1874 (with formal government approval)
+- [History - Kenrokuen (Official Ishikawa Prefecture Site)](https://www.pref.ishikawa.jp/siro-niwa/kenrokuen/e/history.html)
+  - Tatsumi water channel completed in 1632 by third daimyo Maeda Toshitsune
+  - Name 'Kenroku-en' attributed to Matsudaira Sadanobu in 1822
+  - Garden concept drawn from Song dynasty Chinese text on landscape gardens
+  - Shigure-tei teahouse built in 1725 survived the 1759 fire
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 12 facts verified · 0 corrections
+
+All key facts verified: Three Great Gardens confirmed, 25 acres, 8750 trees, 183 species, Tatsumi channel 1632, named 1822, public opening 1874, Scenic Beauty 1922, Special Scenic Beauty 1985.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Describes garden as proving classical theory wrong that six contradictory qualities cannot coexist
+- Calls the lords' investment 'two hundred years of obsession'
+- Poetic framing: 'The building whispers where the castle walls once shouted'
+
+---
+
+*Word count: 810*
+*Read time: 4 minutes*

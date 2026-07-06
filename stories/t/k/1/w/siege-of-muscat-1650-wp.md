@@ -1,0 +1,59 @@
+# Siege of Muscat (1650)
+
+The 1650 siege that ended over a century of Portuguese control of Muscat, launched on Christmas morning by a newly crowned Imam whose insider ally sabotaged the garrison's gunpowder.
+
+**Location:** 23.6153, 58.5939
+
+**Categories:** Battles involving the Omani Empire, Battles involving Portugal, Portuguese Empire, 1650 in Asia
+
+## Introduction
+
+An Indian officer named Narottam held the keys to the gunpowder magazine inside the Portuguese fortress of Muscat. When the captain of the garrison demanded Narottam's daughter in marriage, the officer refused -- and secretly contacted Imam Sultan bin Saif, offering to destroy the powder supply from within. On Christmas morning 1650, while the Portuguese soldiers celebrated, the Imam launched his assault after the dawn prayer. The siege of Muscat had been building for years, but it ended in a single devastating night.
+
+## A Crumbling Empire on the Arabian Coast
+
+By 1648, Portugal's once-formidable grip on Oman had withered to three coastal outposts: Muscat, Muttrah, and Khasab. The Yarubid dynasty, under the leadership of the Omani Imam Nasir bin Murshid, had systematically recaptured the rest. Portuguese garrisons that had dominated the Gulf of Oman trade routes for over a century now found themselves besieged, outnumbered, and increasingly desperate. The two great fortresses of Muscat -- Sao Joao and Capitao, perched on rocky headlands overlooking the harbor -- remained formidable, but the men inside them were running out of ammunition, food, and hope. A plague struck the garrison. When peace negotiations finally produced a treaty in October 1648, the terms were humiliating enough to outrage the king in Lisbon, who ordered the captain of Muscat arrested.
+
+## The New Imam's First Act
+
+In April 1649, Nasir bin Murshid died and was succeeded by Sultan bin Saif. The new Imam wasted no time. His first act was to prepare for the final assault on Muscat. He gathered his forces at Tuwa al-Rowla, near Muttrah, and moved them into Sayh Harmal. The initial attacks against the Portuguese positions at Bir al-Rawiya failed under withering fire, and the Imam pulled back to reconsider. The Portuguese used the pause to retreat into their two main fortresses. The Omanis pursued and laid siege, challenging the garrison to single combat. According to the Omani narrative, no one inside accepted.
+
+## Betrayal at Dawn
+
+What happened next turned on a personal grievance. Narottam, an Indian officer working in the castle storehouse, sabotaged the gunpowder supply on the Imam's orders. While Portuguese soldiers marked Christmas in celebration, Sultan bin Saif launched his assault after the dawn prayer. His men scaled the walls and fought through the fortress. One Portuguese officer named Cabreta mounted fierce resistance but was driven back to the shops near the waterfront, where he was killed. The garrison was nearly wiped out. Portuguese sources record that around 700 inhabitants fled to Diu by January 18, and only 60 or 70 of the garrison survived, later converting to Islam and integrating into Omani society. The Omanis, too, paid a steep price -- between 4,000 and 5,000 of their fighters died in the siege.
+
+## The End of Portuguese Oman
+
+The fall of Muscat ended more than a century of Portuguese rule in Oman and effectively expelled them from the Persian Gulf. They clung to one small base at Khasab until 1655, and a fleet dispatched from Goa in 1652 to recapture Muscat failed entirely. For Oman, the victory marked a transformation. The sultanate pivoted from defensive resistance to maritime expansion. The naval power born from this triumph would grow over the following decades, projecting Omani influence across the Indian Ocean and culminating in the capture of Mombasa from the Portuguese in 1698. The twin fortresses of Sao Joao and Capitao still stand above Muscat harbor, now known as Al Jalali Fort and Al-Mirani Fort, monuments to the centuries when two empires contested this narrow strip of Arabian coast.
+
+## Flight Context
+
+Located at 23.62N, 58.59E in Old Muscat, Oman. The twin forts of Al Jalali and Al-Mirani are visible flanking the harbor entrance. Nearest airport is Muscat International (OOMS). Best viewed at 3,000-5,000 feet for the harbor and fort complex.
+
+## Sources
+
+- [Siege of Muscat (1650) - Wikipedia](https://en.wikipedia.org/?curid=74445962)
+  - Nasir bin Murshid died April 14, 1649 (not 1650 as originally written) — corrected
+  - Sultan bin Saif succeeded as Imam in 1649 and ruled until c.1679
+  - Portuguese garrison survivors (~60-70) fled to Diu by January 18, 1650
+  - Omani casualties between 4,000 and 5,000
+  - Portuguese assault on Christmas morning after dawn prayer confirmed
+  - Narottam's role sabotaging the gunpowder magazine confirmed
+  - Khasab fell in 1655; Portuguese fleet from Goa failed to retake Muscat in 1652
+  - Mombasa captured from Portuguese in 1698
+- [Sultan bin Saif - Wikipedia](https://en.wikipedia.org/wiki/Sultan_bin_Saif)
+  - Sultan bin Saif was cousin of Nasir bin Murshid, second Yarubid Imam
+  - Succession in 1649 was undisputed
+
+## Review Notes
+
+**Reviewed:** 2026-03-01 · 8 facts verified · 1 correction
+
+Corrected Nasir bin Murshid's death year from 1650 to 1649. Christmas morning assault confirmed. Narottam gunpowder sabotage story confirmed. Omani casualties 4000-5000 confirmed. Portuguese survivors fled to Diu. Khasab 1655, Goa fleet failure 1652, Mombasa 1698 all verified.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 680*
+*Read time: 4 minutes*

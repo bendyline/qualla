@@ -1,0 +1,60 @@
+# Sainte Anne Church (Mackinac Island)
+
+One of the oldest Roman Catholic parishes in the interior of North America, with continuous parish records dating to 1695, a building that was physically disassembled and moved to Mackinac Island, and a congregation kept alive for decades by lay women when no priest could be found.
+
+**Location:** 45.8504, -84.6114
+
+**Categories:** historic-churches, michigan, french-colonial-heritage, jesuit-missions, state-historic-sites
+
+## Introduction
+
+The parish records begin in 1695, written in French, in ink that has survived three centuries of Great Lakes winters. Sainte Anne Church on Mackinac Island holds one of the oldest continuous parish registers in the interior of North America, a document that tracks baptisms, marriages, and deaths through French colonial rule, British occupation, American independence, and the slow transformation of a fur-trading outpost into a tourist destination. The Jesuit missionary Claude Dablon inaugurated the original church on Mackinac Island in 1670. The building that stands today, a timber-framed structure begun in 1874 and completed in the 1880s, is the latest in a line of churches that have moved, been rebuilt, and moved again across the Straits of Mackinac.
+
+## A Church That Walked Across the Water
+
+Sainte Anne's parish has occupied three locations over its long life. It began as a Jesuit mission at Fort de Buade, near present-day St. Ignace on Michigan's Upper Peninsula. In 1708 it moved to Fort Michilimackinac, within what is now Mackinaw City, where it served a partly transient population of fur traders and voyageurs who revered Saint Anne as their patron. When the British ordered the fort relocated to Mackinac Island in 1780-1781, the congregation did something remarkable: they disassembled their log church and carried it across the frozen straits to its new home. The parish had no assigned priest at the time. The move was organized and executed entirely by lay parishioners, many of them women, who had been keeping the church alive through decades without formal clergy. They even maintained a dwelling space attached to the church, furnished and ready, for a priest who might one day arrive.
+
+## The Women Who Saved the Parish
+
+The suppression of the Jesuit Order in 1765 cut the last formal ties between the Society of Jesus and the parish of Sainte Anne de Michilimackinac. With no order to staff the church and no replacement clergy assigned, the parish fell into the hands of its lay members. For sixty-five years, from 1765 until 1830, no resident priest served the congregation. During this remarkable stretch, women of the parish emerged as de facto leaders, maintaining services, preserving the parish records, and keeping the physical church in repair. The Catholic hierarchy accepted this unusual arrangement not out of progressive principle but because the devotion of these parishioners was undeniable. When Father Gabriel Richard visited in 1803 to offer the sacraments, he found the church in a grim state: the altar desecrated, the priest's quarters converted into a brothel, casualties of American military indifference to Catholic worship. It fell to Madeline La Framboise, a prominent Ojibwe fur trader, to restore the parish after the War of 1812. She worked with visiting priests to reclaim the church as a place of worship and donated the land on which the current building stands.
+
+## From Log Walls to Timber Frame
+
+Father Samuel Charles Mazzuchelli arrived in 1830 as the first resident priest in sixty-five years, marking the formal return of assigned clergy. The parish was reassigned in 1853 to what is now the Diocese of Marquette. As the island's population grew and the fur trade gave way to tourism, the congregation outgrew its historic log structure. In the 1870s they demolished it and began construction on the current timber-framed church in 1874, completing it in the 1880s. The building reflects the practical architecture of a frontier parish: sturdy, unpretentious, built to endure the brutal winters of the northern straits. It still serves as an active place of worship, its interior warmed by more than a century of use. A museum on the ground floor interprets the parish's long history through artifacts and documents, including pieces from the earliest Jesuit mission period.
+
+## Three and a Half Centuries of Continuity
+
+Sainte Anne Church was recognized as a Michigan State Historic Site on December 20, 1990, and a state historic marker stands on the grounds. As measured by the continuity of its parish records, it ranks among the oldest Roman Catholic parishes in the interior of the continent. The church sits in the heart of Mackinac Island's historic district, a short walk from the harbor where ferry passengers disembark. Its story parallels the island's own: French, then British, then American, each era leaving its mark on the same small community. The voyageurs who once prayed to Saint Anne before setting out into the wilderness of the Great Lakes are long gone, but the parish they sustained through faith and stubbornness has outlasted every empire that claimed the straits. The timber-framed church, now well into its second century, continues to hold services through the summer season, its doors open to islanders and visitors alike.
+
+## Flight Context
+
+Sainte Anne Church is at 45.8504N, 84.6114W in the village center of Mackinac Island, close to the harbor on the south shore. The church steeple is visible among the cluster of buildings in the historic downtown area. Mackinac Island Airport (KMCD) is located on the island's interior plateau, with a 3,500-foot runway but no fuel or services. Pellston Regional Airport (KPLN), 15 nm south, is the nearest full-service field. Best viewed at low altitude on a south-to-north approach to the island, where the village, harbor, and Fort Mackinac on the bluff above form a compact visual tableau. The Straits of Mackinac and Mackinac Bridge are prominent landmarks to the west.
+
+## Sources
+
+- [Sainte Anne Church (Mackinac Island) - Wikipedia](https://en.wikipedia.org/?curid=38893697)
+  - Parish records date to 1695
+  - Claude Dablon inaugurated original church in 1670
+  - Parish moved from Fort de Buade to Fort Michilimackinac in 1708
+  - Move to Mackinac Island in 1780-1781 (corrected from 1780)
+  - No resident priest for ~65 years from 1765 until 1830
+  - Father Samuel Charles Mazzuchelli arrived 1830 as first resident priest in 65 years
+  - Current timber-framed church construction began 1874, completed 1880s
+  - Madeline La Framboise donated land for current building
+  - Michigan State Historic Site recognition December 20, 1990
+- [St. Anne's Catholic Church - History](https://steannechurch.org/history/)
+  - Church moved to Mackinac Island in 1781
+  - Magdelaine Laframboise donated land for current church site
+
+## Review Notes
+
+**Reviewed:** 2026-02-27 · 9 facts verified · 1 correction
+
+Corrected fort relocation date from '1780' to '1780-1781'; parish records date verified to 1695; Dablon 1670 founding confirmed; 65 years without priest (1765-1830) verified; Mazzuchelli arrival 1830 confirmed; current church 1874 confirmed; state historic site 1990 confirmed
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

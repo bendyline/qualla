@@ -1,0 +1,59 @@
+# Carrollton Bus Collision
+
+The deadliest drunk driving disaster in American history, a 1988 head-on collision on Interstate 71 that killed 27 people on a church youth group bus and transformed the nation's drunk driving laws.
+
+**Location:** 38.6052, -85.1703
+
+**Categories:** disaster, transportation, drunk-driving, memorial
+
+## Introduction
+
+The bus was built nine days too early. On March 23, 1977, Ford Motor Company completed the chassis for a school bus at its Kentucky Truck Plant in Louisville, just nine days before four major federal safety standards took effect on April 1. Those standards would have required a stronger fuel system, better emergency exits, and improved structural integrity. Eleven years later, on May 14, 1988, that same bus, now carrying 67 members of a church youth group returning from Kings Island theme park in Ohio, was struck head-on by a pickup truck driven the wrong way on Interstate 71 in Carroll County, Kentucky. The collision itself injured no one seriously. What followed killed 27 people and became the deadliest drunk driving incident in American history.
+
+## A Saturday at Kings Island
+
+The group had gathered early that Saturday morning at the First Assembly of God church in Radcliff, Kentucky. Most were teenagers from North Hardin High School, James T. Alton Middle School, and Radcliff Middle School, joined by four adult chaperones. The number of people wanting to go exceeded expectations, and the church's principal pastor, who did not make the trip, capped ridership at the legal limit of 66 passengers plus the driver, John Pearman. They boarded a 1977 Ford B700 with a Superior school bus body, a former school bus the church had acquired for outings. The bus had 11 rows of 39-inch-wide seats separated by a 12-inch central aisle. It had two exits: a front door and a rear emergency door. Someone placed a beverage cooler in the aisle near row 10. These details, unremarkable at the time, would soon determine who lived and who died.
+
+## Twenty Seconds
+
+Larry Wayne Mahoney, a 34-year-old factory worker, had been drinking at a bar and at a friend's house before getting behind the wheel of his pickup truck. Police later found a twelve-pack of Miller Lite in the cab, still cold, with several cans missing. Mahoney drove north in the southbound lanes of Interstate 71. His pickup struck the bus head-on, and the force spun the truck into a 1977 Cadillac traveling alongside the bus. The impact itself broke no bones on the bus. But the collision drove the bus's front suspension backward through the step well and into the gasoline tank. Fuel ignited instantly. A survivor recalled the sequence: "Within 20 seconds you felt the heat come in the bus. You started hearing kids crying and screaming for their mom." The front door was jammed shut by the collision damage. More than 60 people surged toward the one remaining exit, the rear emergency door, crushing into the 12-inch-wide aisle. The beverage cooler near row 10 blocked the way. Pearman emptied a small fire extinguisher trying to beat back the flames, then helped children navigate the dark, smoke-filled aisle toward the back.
+
+## What the Coroner Found
+
+When it was over, the coroner determined that none of the 27 dead had suffered fatal injuries from the impact. All had died from fire and smoke. Many bodies were found facing the rear door, the only exit. Among the survivors, one person lost a leg below the knee. About ten others suffered disfiguring burns. Only six bus passengers were physically uninjured, and virtually all survivors experienced lasting emotional trauma and survivor guilt. Mahoney was indicted on 27 counts of murder. At trial on December 21, 1989, he was convicted of 27 counts of second-degree manslaughter, 16 counts of second-degree assault, and 27 counts of first-degree wanton endangerment. He was sentenced to 16 years. Described as a model prisoner at the Kentucky State Reformatory, he earned six years of good-time credit, declined parole, and walked out of prison in La Grange on September 1, 1999, after nine and a half years. The youngest victim was ten-year-old Patricia Nunnallee.
+
+## Twenty-Seven Reasons
+
+The collision transformed drunk driving law and school bus safety in ways that rippled across the country. The National Transportation Safety Board issued its report on March 28, 1989, recommending the phaseout of buses built before the 1977 federal standards. At the time, 22 percent of school buses nationwide predated those rules. Kentucky responded with the most stringent bus safety regulations in the nation: nine emergency exits including front and back doors, a side door, four emergency windows, and two roof exits. Buses also required caged fuel tanks, diesel-only engines, flame-retardant seats and floors, high-backed seats with extra padding, and reflective tape on all emergency exits. In 1991, Kentucky enacted stricter drunk driving laws. Patricia Nunnallee's mother, Karolyn, became an active leader in Mothers Against Drunk Driving and eventually rose to become MADD's national president. Quinton Higgins, a survivor, outfitted a similar model bus with photos of the 27 victims taped to their seats and the words "27 reasons not to drink and drive" painted on the side. On Interstate 71, the Kentucky Transportation Cabinet erected signs in both directions reading: "SITE OF FATAL BUS CRASH MAY 14, 1988." Crosses and flower arrangements still appear at the site, placed by families and friends who have never stopped remembering.
+
+## Flight Context
+
+Located at 38.605N, 85.170W on Interstate 71 in unincorporated Carroll County, Kentucky, between the towns of Carrollton and La Grange. Best viewed at 2,000-3,000 feet AGL. I-71 runs through rolling farmland here, roughly paralleling the Kentucky River. The crash site is marked by highway signs visible at low altitude. Nearest airports include Carroll County Airport (K62) approximately 5 nm north and Louisville Muhammad Ali International Airport (KSDF) approximately 35 nm south-southwest. The Ohio River and the Kentucky River confluence near Carrollton serve as visual references.
+
+## Sources
+
+- [Carrollton bus collision - Wikipedia](https://en.wikipedia.org/?curid=1272142)
+  - 27 fatalities on May 14 1988
+  - Larry Wayne Mahoney 34-year-old factory worker was the drunk driver
+  - Convicted of 27 counts second-degree manslaughter and 16 counts second-degree assault
+  - Sentenced to 16 years, released September 1999 after 9.5 years
+- [30 Years After Carrollton Bus Crash - ABC News](https://abcnews.go.com/US/30-years-27-died-worst-drunk-driving-crash/story?id=55119258)
+  - Deadliest drunk driving incident in American history
+  - Karolyn Nunnallee became MADD national president
+  - Kentucky enacted nine emergency exit requirements for school buses
+- [35 Years Later - WHAS11](https://www.whas11.com/article/news/local/carrollton-bus-crash-35th-anniversary-drunk-driver-larry-mahoney/417-a5dbce56-8783-43da-b25e-fd8dabc64c45)
+  - Bus built in March 1977 just before new federal safety standards took effect April 1 1977
+  - All 27 deaths caused by fire and smoke not the impact
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 14 facts verified · 0 corrections
+
+Facts verified: 27 deaths May 14 1988, Larry Mahoney 34-year-old factory worker, 27 counts second-degree manslaughter conviction, 16 year sentence, released September 1999, Karolyn Nunnallee became MADD national president, Kentucky nine-exit bus safety law. All key claims confirmed. Deadliest drunk driving incident in US confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

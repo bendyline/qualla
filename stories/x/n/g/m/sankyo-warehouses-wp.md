@@ -1,0 +1,57 @@
+# Sankyo Warehouses
+
+Twelve dark-roofed rice warehouses, shielded by a canopy of zelkova trees and built with salt-hardened floors, have stored grain on the banks of Sakata's rivers since 1893.
+
+**Location:** 38.9114, 139.8368
+
+**Categories:** historic-site, warehouse, cultural-heritage, japanese-history, architecture
+
+## Introduction
+
+The floors are made of bittern -- the bitter residue left over from salt production -- kneaded, hardened, and sealed with a layer of salt. This ancient technique keeps the temperature and humidity inside the Sankyo Warehouses constant, a detail that explains how twelve wooden buildings from 1893 managed to preserve rice in perfect condition well into the twenty-first century. Nine of these warehouses were still actively storing grain until 2022. That is not a misprint. Buildings constructed in the Meiji period, shielded from the Sea of Japan's brutal winter winds by a row of zelkova trees, continued doing exactly what they were designed to do for nearly 130 years.
+
+## Built on an Island, Tested by an Earthquake
+
+The Sankyo Warehouses were constructed in 1893 by the Sakai clan, the former daimyo of Shonai Domain, as auxiliary storage for the Sakata Rice Exchange. The site they chose was Yamaijima, an island in the Arata River that runs through Sakata -- close to the port and ideal for shipping, but cursed with weak ground. Local master carpenter Takahashi Kanekichi solved the problem by building a 3.6-meter-high mound reinforced with stone walls and driving 3.6-meter-long piles beneath the foundations. The engineering was tested almost immediately: in 1894, the magnitude 7.0 Shonai earthquake struck the region. The domain's own storehouse burned to the ground. The Sankyo Warehouses sustained only minor damage. Fourteen structures were built originally; twelve survive today, and the buildings were designated a National Historic Site of Japan in 2021.
+
+## A Fortress Against the Elements
+
+Every detail of the warehouses was designed to protect rice from Sakata's punishing climate. Zelkova trees planted on the west side form a living wall that blocks sunlight in summer and shields the structures from fierce winter winds blowing off the Sea of Japan. The roofs are double-layered flat roofs, providing insulation against temperature swings. Inside, the bittern-and-salt floors regulate humidity naturally, without machinery. Each warehouse measures 13.6 meters wide by 29.1 meters long and held a capacity of 16,442 bales of rice, each weighing 60 kilograms. A wharf faced the river, and covered corridors connected loading gates to the docks so goods could be transferred in rain without damage. Women called Onnachomochi carried the rice bales from warehouse to boat -- one of many roles that kept this complex humming for over a century.
+
+## The Rice Road's Last Stop
+
+The warehouses sat at the terminus of the Mogami River shipping network. During the Edo period, boats carried rice and goods downstream from Yamagata's interior to the coast, where the Sankyo Warehouses received and stored the cargo before it moved onward by sea. In the Meiji era, the larger boats gave way to smaller cormorant fishing boats -- a restored example is still kept on the premises. The Sakai family managed the warehouses until 1939, when the Rice Distribution Control Law transferred jurisdiction to the Hokutokai Foundation, then the Shonai Economic Federation, and finally the Yamagata Prefectural Headquarters of the Japan Agricultural Cooperatives. Through all these institutional changes, the core function never wavered: the warehouses stored rice.
+
+## From Grain Storage to Screen Fame
+
+The Sankyo Warehouses began their transition from working infrastructure to cultural landmark in 1985, when one building was renovated as the Shonai Rice History Museum. In 2004, two more were converted into the Sakata City Tourist and Products Center, known as Sakata Yume no Kura. But the most unexpected chapter came from television: the warehouses served as a filming location for the NHK drama Oshin, a 1983 series about a girl from impoverished rural Yamagata that became one of the most-watched television programs in Japanese history. The show brought national and international attention to Sakata, and the zelkova-lined path alongside the warehouses became one of the city's most photographed scenes. Today the warehouses are a major tourist attraction, a place where the functional beauty of Meiji-era engineering meets the nostalgia of a Japan that still, in some corners, looks exactly as it did a century ago.
+
+## Flight Context
+
+Located at 38.911N, 139.837E along the Arata River in Sakata, Yamagata Prefecture. The row of twelve dark-roofed warehouses lined with zelkova trees is visible from low altitude as a distinctive linear feature near the river. Best viewed at 1,500-2,500 feet AGL to appreciate the tree canopy and warehouse alignment. The Mogami River mouth and Port of Sakata are visible to the northwest. Shonai Airport (RJSY) is approximately 18 km to the south. Mount Chokai (2,236m) dominates the skyline to the northeast and serves as a primary visual navigation landmark.
+
+## Sources
+
+- [Sankyo Warehouses - Wikipedia](https://en.wikipedia.org/?curid=79513202)
+- [Sankyo Warehouse - Japan Guide](https://www.japan-guide.com/e/e7994.html)
+  - Warehouses constructed in 1893 by former Sakai clan as Sakata Rice Exchange auxiliary storage
+  - 14 structures built originally; 12 survive today
+  - Designated National Historic Site of Japan in 2021
+  - Nine buildings still actively storing rice until 2022
+  - 1894 Shonai earthquake (magnitude 7.0) caused only minor damage to warehouses
+  - 1985: one building became Shonai Rice History Museum
+  - 2004: two buildings converted to Sakata City Tourist Center (Sakata Yume no Kura)
+  - NHK drama Oshin (1983) filmed partly at Sakata and boosted tourism
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 11 facts verified · 0 corrections
+
+Warehouses built 1893 by Sakai clan confirmed. 14 built, 12 survive confirmed. National Historic Site 2021 confirmed. Nine buildings stored rice until 2022 confirmed. 1894 Shonai earthquake magnitude 7.0, only minor damage to warehouses confirmed. One building as Shonai Rice History Museum 1985, two as tourist center 2004 confirmed. NHK Oshin drama connection confirmed. Added sources and editorial.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

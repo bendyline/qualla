@@ -1,0 +1,58 @@
+# Chinreisha: The Shrine That Honors the Enemy
+
+Hidden behind a steel fence within the Yasukuni Shrine precinct, a small wooden shrine called the Chinreisha does what its famous neighbor will not -- it enshrines the spirits of all war dead, including Japan's former enemies.
+
+**Location:** 35.6936, 139.7431
+
+**Categories:** world-war-ii, memorial, shinto-shrine, historic-site, tokyo
+
+## Introduction
+
+Within the grounds of Japan's most politically charged religious site, past the grand torii gates and the imposing honden of Yasukuni Shrine, stands a structure most visitors never see. The Chinreisha is a small wooden Shinto shrine enclosed by a steel fence, built in 1965 at the urging of chief priest Fujimaro Tsukuba. It enshrines two categories of spirits that Yasukuni's main hall deliberately excludes: Japanese war dead who fought against the Imperial government, and all war dead of every nationality -- including those killed by Japan. In a precinct devoted to honoring those who died for the Japanese state, the Chinreisha quietly insists that the dead on the other side deserve remembrance too.
+
+## Two Seats for the Spirits
+
+The Chinreisha contains two za -- seats for kami, the spirits of Shinto belief. The first za is devoted to Japanese war dead since 1853 who are not enshrined in Yasukuni's honden. This includes men who fought against the Imperial Japanese Army in domestic conflicts like the Boshin War of 1868-1869, the civil war that restored imperial rule. In the logic of Yasukuni, these men died opposing the state rather than serving it, so they were excluded. The second za reaches further: it is dedicated to all war dead regardless of nationality. Chinese soldiers, American sailors, Korean laborers, British prisoners of war -- the Chinreisha claims to honor them all. This universalism was the vision of chief priest Tsukuba, who led Yasukuni from 1946 until his death in 1978 and believed the shrine should promote world peace rather than narrow nationalism.
+
+## Behind the Steel Fence
+
+For its first decade, the Chinreisha was accessible to worshippers. That changed in 1975, when a steel fence was erected around the shrine and it was closed to the public. The immediate trigger was a fire at a shrine in Hokkaido the previous year, combined with intelligence received by Yasukuni's chief priest that unknown individuals were planning to destroy the Chinreisha. The shrine's very premise -- honoring enemies of Imperial Japan on the same grounds where Japan's war dead are venerated -- made it a target. For more than thirty years, the Chinreisha sat locked away, visible but unreachable, a physical emblem of the tensions within Japanese war memory. It was reopened to worshippers on October 12, 2006, with the stated goal of spreading the spirit of cherishing allies and enemies alike.
+
+## Abe's Visit and the Spotlight
+
+The Chinreisha received its most prominent international attention on December 26, 2013, when Prime Minister Shinzo Abe visited the Yasukuni Shrine -- a visit that drew sharp condemnation from China, South Korea, and even a rare expression of "disappointment" from the United States. In his official statement, Abe emphasized that he had also visited the Chinreisha to "pray for the souls of all the people regardless of nationalities who lost their lives in the war" and to renew his determination that Japan would never wage war again. The conservative Sankei Shimbun newspaper argued that the dual visit demonstrated Abe's commitment to world peace, criticizing foreign media for ignoring the Chinreisha stop. But most international coverage focused exclusively on the Yasukuni visit, and most public opinion interpreted the trip as provocative rather than conciliatory. The Chinreisha's existence complicates the standard narrative about Yasukuni, but it has never managed to defuse the controversy.
+
+## A Shrine in the Shadow
+
+The Chinreisha occupies a peculiar position in the landscape of Japanese war memory. It sits within the precinct of a shrine that has enshrined fourteen Class-A war criminals since 1978 and that China and South Korea regard as a symbol of unrepentant militarism. Yet the Chinreisha itself embodies the opposite impulse -- an acknowledgment that the suffering of war crosses all boundaries of nation and allegiance. Its annual festival, held each July 13, draws little of the attention that Yasukuni's spring and autumn festivals command. Chief priest Tsukuba's vision of a Yasukuni devoted to universal peace never took hold. The main shrine's honden remains politically radioactive, and the small wooden structure to its south remains largely unknown to the millions who pass through the precinct's torii gates each year. The Chinreisha asks a question that Japan has never fully answered: whether it is possible to mourn your own dead while also mourning those they killed.
+
+## Flight Context
+
+Located at 35.69N, 139.74E within the Yasukuni Shrine precinct in Chiyoda, central Tokyo, directly south of the honden (main shrine). The Yasukuni Shrine complex, with its large torii gates, is identifiable from moderate altitudes along Yasukuni-dori avenue. Chidorigafuchi National Cemetery and the Imperial Palace moat lie immediately to the south and west. The National Diet Building is roughly 1.5 kilometers to the south. Tokyo Haneda Airport (RJTT) is approximately 10 nautical miles south. Best viewed at 1,500-3,000 feet AGL. The shrine itself is a small wooden structure not individually visible from the air, but the Yasukuni precinct is a prominent landmark.
+
+## Sources
+
+- [Chinreisha - Wikipedia](https://en.wikipedia.org/?curid=7398980)
+- [Yasukuni Shrine - Wikipedia (Chinreisha section)](https://en.wikipedia.org/wiki/Yasukuni_Shrine)
+  - Chinreisha reopened to worshippers October 12, 2006 confirmed
+  - Tsukuba Fujimaro served as head priest from 1946 until death in 1978 confirmed
+  - Built 1965, steel fence erected 1975 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 8 facts verified · 0 corrections
+
+All key facts verified: built 1965 at urging of chief priest Fujimaro Tsukuba, steel fence erected 1975 after Hokkaido shrine fire, reopened October 12 2006, Abe visit December 26 2013. Two za: one for Japanese not in honden, one for all war dead regardless of nationality. Spiciness 4 for frank engagement with Yasukuni controversy and pointed closing question about mourning those your dead killed.
+
+**Spiciness:** 4/5
+
+**Strong opinions:**
+
+- Yasukuni's main hall remains politically radioactive
+- China and South Korea regard Yasukuni as a symbol of unrepentant militarism
+- The Chinreisha asks a question that Japan has never fully answered
+
+---
+
+*Word count: 690*
+*Read time: 4 minutes*

@@ -423,5 +423,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "tm1m-bam-iran-flight-context.mp3",
+      "tm1m-bam-iran-intro.mp3",
+      "tm1m-bam-iran-threads-along-the-silk-road.mp3",
+      "tm1m-bam-iran-conquest-and-abandonment.mp3",
+      "tm1m-bam-iran-five-twenty-six-in-the-morning.mp3",
+      "tm1m-bam-iran-rising-from-dust.mp3",
+      "tm1m-bam-iran-the-oasis-persists.mp3"
+    ],
+    "durations": {
+      "tm1m-bam-iran-flight-context.mp3": 51.3295833,
+      "tm1m-bam-iran-intro.mp3": 56.2680833,
+      "tm1m-bam-iran-threads-along-the-silk-road.mp3": 65.8655,
+      "tm1m-bam-iran-conquest-and-abandonment.mp3": 69.9237083,
+      "tm1m-bam-iran-five-twenty-six-in-the-morning.mp3": 82.27225,
+      "tm1m-bam-iran-rising-from-dust.mp3": 71.9761666,
+      "tm1m-bam-iran-the-oasis-persists.mp3": 53.0207083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

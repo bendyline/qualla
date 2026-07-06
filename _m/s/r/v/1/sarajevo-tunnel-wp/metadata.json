@@ -768,5 +768,24 @@
     "_m/s/r/v/1/sarajevo-tunnel-wp/military-supplies-sarajevo-tun.jpg",
     "_m/s/r/v/1/sarajevo-tunnel-wp/shell-fins-sarajevo-tunnel-mus.jpg"
   ],
-  "updatedAt": "2026-03-31T10:09:24.228Z"
+  "updatedAt": "2026-03-31T10:09:24.228Z",
+  "narration": {
+    "files": [
+      "srv1-sarajevo-tunnel-flight-context.mp3",
+      "srv1-sarajevo-tunnel-intro.mp3",
+      "srv1-sarajevo-tunnel-digging-beneath-the-runway.mp3",
+      "srv1-sarajevo-tunnel-the-lifeline-underground.mp3",
+      "srv1-sarajevo-tunnel-what-the-kolar-family-gave.mp3",
+      "srv1-sarajevo-tunnel-a-museum-that-refuses-to-forget.mp3"
+    ],
+    "durations": {
+      "srv1-sarajevo-tunnel-flight-context.mp3": 51.1868333,
+      "srv1-sarajevo-tunnel-intro.mp3": 45.0559583,
+      "srv1-sarajevo-tunnel-digging-beneath-the-runway.mp3": 68.7866666,
+      "srv1-sarajevo-tunnel-the-lifeline-underground.mp3": 62.3529166,
+      "srv1-sarajevo-tunnel-what-the-kolar-family-gave.mp3": 67.9300833,
+      "srv1-sarajevo-tunnel-a-museum-that-refuses-to-forget.mp3": 64.94
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

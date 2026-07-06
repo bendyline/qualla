@@ -715,5 +715,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qfks-eyre-highway-flight-context.mp3",
+      "qfks-eyre-highway-intro.mp3",
+      "qfks-eyre-highway-a-road-born-of-wartime-need.mp3",
+      "qfks-eyre-highway-roadhouses-and-dust.mp3",
+      "qfks-eyre-highway-detours-into-emptiness.mp3",
+      "qfks-eyre-highway-the-edge-of-the-continent.mp3",
+      "qfks-eyre-highway-a-different-kind-of-time.mp3"
+    ],
+    "durations": {
+      "qfks-eyre-highway-flight-context.mp3": 52.429,
+      "qfks-eyre-highway-intro.mp3": 46.027125,
+      "qfks-eyre-highway-a-road-born-of-wartime-need.mp3": 52.616,
+      "qfks-eyre-highway-roadhouses-and-dust.mp3": 65.553875,
+      "qfks-eyre-highway-detours-into-emptiness.mp3": 61.8809166,
+      "qfks-eyre-highway-the-edge-of-the-continent.mp3": 57.948625,
+      "qfks-eyre-highway-a-different-kind-of-time.mp3": 60.65675
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

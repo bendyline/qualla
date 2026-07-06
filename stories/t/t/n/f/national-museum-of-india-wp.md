@@ -1,0 +1,63 @@
+# National Museum of India
+
+Born from a London exhibition of Indian treasures displayed during the last winter of British rule, the National Museum in New Delhi now holds 200,000 objects spanning five millennia of subcontinental civilization.
+
+**Location:** 28.6118, 77.2193
+
+**Categories:** museum, history, art, archaeology, new-delhi
+
+## Introduction
+
+When the crates arrived back from London in 1948, nobody wanted to put the art away. The Royal Academy of Arts had just hosted an Exhibition of the Art of India and Pakistan -- the first time the British government had treated Indian artefacts as high art rather than colonial curiosities -- and the response had been extraordinary. Jawaharlal Nehru insisted the collection be shown to the Indian public before anything returned to storage. On 15 August 1949, exactly two years after independence, the exhibits went on display in the state rooms of Rashtrapati Bhavan, the former Government House. Visitors walked among Harappan bronzes and Mughal miniatures in rooms designed for British viceroys. That temporary display became permanent, and a nation's museum was born from a refusal to let beauty disappear into warehouses.
+
+## The Dancing Girl and the Divided Beads
+
+Among the museum's most celebrated objects is a small bronze statuette, barely eleven centimeters tall: the Dancing Girl of Mohenjo-daro, cast some 4,500 years ago. She stands with one hand on her hip, bangles stacked up one arm, her posture casual, almost insolent -- a teenager frozen in confidence. When Mohenjo-daro was excavated in the 1920s, its finds were deposited first in the Lahore Museum, then moved to Delhi in anticipation of a Central Imperial Museum. But Partition intervened. India and Pakistan agreed to divide the collections equally, and the interpretation was sometimes painfully literal: necklaces were taken apart, half the beads sent to each country. Of the two most famous figures from the site, Pakistan received the steatite 'Priest King.' India kept the Dancing Girl. She remains the museum's icon -- proof that artistic genius predates written history by millennia.
+
+## Five Thousand Years in Seventeen Galleries
+
+The current building on Janpath, designed by architect Ganesh Bikaji Deolalikar, opened on 18 December 1960. Its foundation stone had been laid by Nehru in 1955 on a plot that Edwin Lutyens had originally earmarked for an Imperial Museum. Of the museum's 200,000 objects, only six to seven percent are on display at any given time -- a staggering ratio that means the visible collection alone could fill most national museums worldwide. The holdings span Stone Age tools, Harappan seals depicting bulls and unicorns, Gupta dynasty sculptures from the 4th to 6th centuries, Chola bronzes including a 12th-century Nataraja, the world's largest collection of Indian miniature paintings -- over 17,000 works spanning 900 years -- and arms that range from Aurangzeb's body armor to the bow and arrow of the last Mughal emperor, Bahadur Shah Zafar. There are pre-Columbian artefacts from Mexico and Peru, Central Asian antiquities collected by explorer Aurel Stein, and a jade hookah that belonged to Emperor Jahangir.
+
+## White Cube in the Tropics
+
+The museum's visual identity owes much to an unnamed woman curator who joined on 8 August 1960 and held charge for six years. She was an advocate of cultural democracy who believed art should be available to everyone, and her convictions reshaped how the museum presented itself. She introduced minimalist teak pedestals, track lighting, Eamesian-type couches, and large glass cases with staggered risers for visual variety. Sculptures were placed in classic white-cube spaces with minimal contextual information -- a radical choice for an institution that could have drowned its objects in explanatory text. Harmonious color schemes, dramatic dim lighting, cushions of space around eye-level objects, and the occasional leafy plant for a visual pause produced what observers recognized as a genuinely modern museum. Her influence persists: the National Museum's display philosophy still reflects her image, decades after her tenure ended.
+
+## Touch and Feel
+
+In 2015, the museum opened Anubhav -- Hindi for 'experience' -- a permanent gallery for visitors with disabilities. Created in collaboration with UNESCO and the National Platform for the Rights of the Disabled, it features tactile replicas of 22 objects from the collection, audio guides, ramps, and Braille labels. Visitors are encouraged to touch and feel the pieces rather than observe from behind glass. The replicas were produced by the museum's own modeling department. It is a quiet but significant statement: that a collection spanning five millennia of human creativity should be accessible to all humans, regardless of how they perceive the world. Meanwhile, digitization efforts through a system called JATAN aim to bring the collection online, and over a hundred objects have been photographed for the Google Art Project, extending the museum's reach far beyond its Janpath galleries.
+
+## Unfinished Business
+
+The National Museum has never quite escaped the tension between its ambitions and its realities. A 2010 UNESCO report rated it as badly maintained, poorly lit, and displaying incorrect signage -- though the Indian government disputed the methodology. The building itself may be approaching the end of its structural life; it is listed in the Central Vista Redevelopment Project, the massive reimagining of New Delhi's government district. What comes next for the collection remains uncertain. But the objects endure: Harappan seals that traders pressed into clay four thousand years ago, Mughal arms that decided the fate of empires, miniature paintings so delicate they were rendered with brushes made from a single squirrel hair. The crates that came back from London in 1948 opened into something far larger than anyone planned. They opened into the material memory of a civilization.
+
+## Flight Context
+
+The National Museum is located at 28.6118N, 77.2193E on Janpath in New Delhi, within the Lutyens' Delhi government district. The building sits approximately 2 km south of Connaught Place and 3 km southwest of India Gate, which is a prominent visual landmark from the air. Nearby landmarks include Rashtrapati Bhavan to the northwest and Humayun's Tomb about 3 km to the southeast. Nearest airport is Indira Gandhi International Airport (VIDP), approximately 14 km southwest. Best viewed at 3,000-5,000 feet AGL; the building is not individually distinctive from altitude but is identifiable by its position along Janpath between the major government buildings.
+
+## Sources
+
+- [National Museum of India - Wikipedia](https://en.wikipedia.org/?curid=4465722)
+  - Exhibition displayed at Rashtrapati Bhavan August 15, 1949 confirmed
+  - Building designed by Ganesh Bikaji Deolalikar confirmed
+  - Foundation stone laid by Nehru in 1955 confirmed
+  - Building opened December 18, 1960 confirmed
+  - 200,000 objects in collection confirmed
+  - Dancing Girl of Mohenjo-daro approximately 11 cm tall confirmed
+  - India received Dancing Girl, Pakistan received Priest King at Partition confirmed
+  - World's largest collection of Indian miniature paintings (over 17,000) noted
+- [Dancing Girl (prehistoric sculpture) - Wikipedia](https://en.wikipedia.org/wiki/Dancing_Girl_(prehistoric_sculpture))
+  - Dancing Girl cast approximately 4,500 years ago (c. 2300-1750 BC) confirmed
+  - Excavated in the 1920s at Mohenjo-daro confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 8 facts verified · 0 corrections
+
+All facts verified: Rashtrapati Bhavan display August 15 1949, Deolalikar architect, Nehru foundation stone 1955, opened December 18 1960, 200000 objects, Dancing Girl 4500 years old ~11cm, India/Pakistan Partition division of Mohenjo-daro finds confirmed. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

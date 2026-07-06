@@ -674,5 +674,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "whx4-erhai-lake-flight-context.mp3",
+      "whx4-erhai-lake-intro.mp3",
+      "whx4-erhai-lake-a-lake-between-kingdoms.mp3",
+      "whx4-erhai-lake-the-geography-of-a-sandwich.mp3",
+      "whx4-erhai-lake-vanishing-fish.mp3",
+      "whx4-erhai-lake-islands-and-butterfly-springs.mp3"
+    ],
+    "durations": {
+      "whx4-erhai-lake-flight-context.mp3": 52.887,
+      "whx4-erhai-lake-intro.mp3": 56.6134583,
+      "whx4-erhai-lake-a-lake-between-kingdoms.mp3": 56.3017916,
+      "whx4-erhai-lake-the-geography-of-a-sandwich.mp3": 50.619125,
+      "whx4-erhai-lake-vanishing-fish.mp3": 65.1296666,
+      "whx4-erhai-lake-islands-and-butterfly-springs.mp3": 58.3150416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1,0 +1,55 @@
+# Table Mountain
+
+The flat-topped mountain that defines Cape Town's skyline harbors 8,200 plant species, sandstone rocks over 500 million years old, and a tablecloth of cloud that rolls across its summit like a living thing.
+
+**Location:** -33.9625, 18.4039
+
+**Categories:** Mountains of the Western Cape, Table Mountain, Landmarks in Cape Town, Natural history of South Africa
+
+## Introduction
+
+The Khoikhoi people called it Hoerikwaggo -- "Mountain in the Sea" -- and from a ship approaching through Table Bay, the name makes perfect sense. The mountain rises abruptly from the coastal plain, its flat summit so level it appears artificial, as if some geological mason had taken a spirit level to the skyline. Table Mountain is 1,084 meters above sea level at its highest point, with a plateau roughly three kilometers across, flanked by Devil's Peak to the east and Lion's Head to the west. It is the backdrop to one of the most recognizable cityscapes on Earth, and it is also something rarer: a mountain that harbors more plant species than the entire United Kingdom.
+
+## Half a Billion Years of Stone
+
+The rocks that form Table Mountain's summit are Table Mountain Sandstone, laid down as beach and shallow marine deposits over 500 million years ago during the Ordovician period. This sandstone sits atop a basement of Cape Granite, itself about 630 million years old, creating a geological sandwich visible in the mountain's profile: dark granite at the base, pale sandstone above. The sandstone is extraordinarily resistant to erosion, which is why the mountain still stands while softer rock around it has worn away. Erosion has carved the plateau into gorges and ravines -- Platteklip Gorge on the north face is the most popular hiking route -- while the sheer cliffs that ring the summit drop hundreds of meters to the slopes below. The mountain's flat top is not truly flat; it undulates gently, with shallow pools and streams that drain through the rock.
+
+## The Tablecloth
+
+When a southeasterly wind blows in summer, moisture-laden air sweeps up the mountain's southern slopes and condenses at the summit, forming a dense white cloud that rolls over the edge of the plateau and evaporates as it descends the north face. Capetonians call this the tablecloth. The phenomenon can materialize within minutes, transforming the mountain from a crisp silhouette against blue sky into a summit wrapped in flowing white. The tablecloth is driven by what locals call the Cape Doctor -- the persistent southeast wind that clears pollution from the city -- and its arrival is so reliable during summer that it serves as an informal weather forecast. When the cloud pours over the cliffs, the mountain looks alive, as if the stone were breathing.
+
+## A Floral Kingdom in Miniature
+
+Table Mountain hosts approximately 8,200 plant species, around 80 percent of which are fynbos -- a fire-adapted shrubland unique to the Cape Floristic Region. This is more plant diversity than many entire countries can claim. The mountain is home to species found nowhere else, including the rare Silvertree, which may grow wild only on its slopes. The fynbos thrives in nutrient-poor, acidic soil derived from the sandstone, and many species depend on periodic fires to germinate. Table Mountain National Park, which encompasses the mountain, is the most visited national park in South Africa, drawing 4.2 million visitors annually. The land was formerly inhabited by Khoe-speaking clans, including the !Uriǁ'aes, known as the "High Clan," whose connection to the mountain predates any European record.
+
+## The Climb and the Cable
+
+The Table Mountain Aerial Cableway has been carrying visitors to the summit since 1929. The modern rotating cable cars hold 65 passengers and make the ascent in about five minutes, the floor turning a full revolution so that every rider sees the full panorama. For those who prefer muscle to machinery, Platteklip Gorge offers a steep but direct route up the north face -- roughly two hours of relentless uphill over stone steps and rocky scrambles. Other routes traverse the mountain's flanks or approach from the back via Kirstenbosch. The hiking is serious: the cliffs that make the mountain photogenic also make it dangerous, and the weather can shift from clear to fog in minutes. Rescue teams are regularly called for hikers who underestimate the terrain. At the top, the plateau rewards the effort with views that stretch from Robben Island to the Hottentots Holland mountains, the city laid out below like a map of itself.
+
+## Flight Context
+
+Located at 33.96°S, 18.40°E, Table Mountain is one of the most recognizable natural landmarks in the world from the air. Its flat summit plateau at 1,084 m is unmistakable, flanked by the pointed Devil's Peak (east) and the dome of Lion's Head (west). Nearest airport: Cape Town International (FACT). The cableway station on the north face is visible at lower altitudes. The cloud tablecloth phenomenon is frequently visible during summer southeasterlies, with white cloud rolling over the summit edge. The city of Cape Town fills the bowl between the mountain and Table Bay.
+
+## Sources
+
+- [Table Mountain - Wikipedia](https://en.wikipedia.org/?curid=88611)
+  - Summit elevation 1,084 m at Maclear's Beacon (plaque-confirmed)
+  - Table Mountain Sandstone deposited ~500 million years ago (Ordovician)
+  - Cape Granite basement ~630 million years old
+  - Aerial Cableway operating since 1929
+  - Modern cable cars hold 65 passengers, rotate 360 degrees
+  - Table Mountain named one of New7Wonders of Nature on 11 November 2011
+  - Most visited national park in South Africa
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 7 facts verified · 0 corrections
+
+1,084m at Maclear's Beacon confirmed by plaque. Ordovician sandstone 500m years old confirmed. Cable car 65 passengers, rotating, operating since 1929. New7Wonders of Nature 11 Nov 2011.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 790*
+*Read time: 4 minutes*

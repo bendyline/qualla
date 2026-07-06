@@ -1,0 +1,59 @@
+# Dunrobin Castle
+
+The largest house in the Northern Highlands looks like a French chateau transplanted to the Scottish coast, but its medieval core and complicated Sutherland clan history run far deeper than the fairy-tale facade.
+
+**Location:** 57.9817, -3.9455
+
+**Categories:** castles, clan history, architecture, gardens, Sutherland
+
+## Introduction
+
+From the Dornoch Firth, Dunrobin Castle looks like it belongs on the Loire rather than the Scottish coast. Its conical spires, white walls, and formal French gardens -- designed by Sir Charles Barry, the architect of the Houses of Parliament -- were added between 1835 and 1850, but the castle's core is medieval, first mentioned in records from 1401 with an iron yett still intact. As the family seat of the Earls of Sutherland, Chiefs of Clan Sutherland, Dunrobin has accumulated 800 years of expansion, fire, restoration, and controversy, making it both the largest house in the north of Scotland and one of the most layered.
+
+## Eight Centuries of Stone
+
+The lands of Sutherland were acquired before 1211 by Hugh, Lord of Duffus, a grandson of the Flemish nobleman Freskin. The castle may occupy the site of an earlier medieval fort, and it is thought to be named after Robert Sutherland, 6th Earl of Sutherland, who died in 1444. Built in a tribal society where Norse and Gaelic were both spoken, Dunrobin witnessed feuds, power struggles, and political manoeuvring across centuries. The Gordons acquired the earldom in the 16th century through marriage and a contested legal challenge -- a "writ of idiocy" that stripped the rightful heirs of their claim. The castle changed hands again in 1766, passing to Elizabeth, daughter of the 18th Earl, who married George Leveson-Gower, later the 1st Duke of Sutherland.
+
+## Barry's Transformation
+
+When Barry arrived in the 1830s, he incorporated the existing 14th-century tower and 17th- and 18th-century extensions into a vastly expanded design inspired by French Renaissance architecture. The result was a fairy-tale exterior wrapped around centuries of Scottish stonework. A fire in 1915 destroyed much of Barry's interior, leading to a restoration by the Scottish architect Sir Robert Lorimer, who wove surviving 17th- and 18th-century elements -- including wood carvings attributed to Grinling Gibbons -- into his new design. The drawing room, formed from two earlier rooms, looks out over the gardens and sea, its walls hung with Canalettos, 18th-century tapestries, and portraits by Hoppner and Reynolds.
+
+## Gardens of Illusion
+
+Barry's gardens, completed in 1850, take their inspiration from the Gardens of Versailles. Formal parterres are set around circular pools with fountains, their layout unchanged since their creation around 1848. Barry designed them as an optical illusion: viewed from the castle's upper floors, the parterres appear to stretch further than their physical boundaries, an effect achieved by gradually narrowing the garden's width. An 18th-century summer house adjoining the formal gardens houses a museum that retains its Victorian-Edwardian arrangement. Falconry displays are held in the gardens by a resident falconer, adding a medieval touch to a landscape designed to evoke continental grandeur.
+
+## From Boarding School to Tourist Attraction
+
+Dunrobin's later history is as eclectic as its architecture. Its private railway station on the Far North Line, opened in 1870, is a category B listed building. During the First World War and its aftermath, the castle served various purposes before becoming a boys' boarding school from 1965 to 1972. Since 1973, the house and grounds have been open to the public between April and October, with private accommodation retained for the Sutherland family. An aeolian orchestrelle -- a pressure-operated harmonium reed organ -- still stands in one of the hallways, a curiosity from the era when Dunrobin was both a family home and a statement of dynastic ambition. One mile north of Golspie and five miles south of Brora, the castle sits where the Highlands meet the sea, its French spires an improbable but enduring landmark on the Scottish coast.
+
+## Flight Context
+
+Located at 57.982N, 3.946W overlooking the Dornoch Firth, 1 mile north of Golspie, Sutherland. The castle's distinctive French chateau profile and formal gardens are visible from the coast. Best viewed at 2,000-4,000 ft AGL. Nearest airport: Inverness (EGPE) 40 nm south. Dunrobin Castle railway station on the Far North Line is adjacent. The Dornoch Firth bridge is visible to the south.
+
+## Sources
+
+- [Dunrobin Castle - Wikipedia](https://en.wikipedia.org/?curid=2964960)
+  - Sir Charles Barry added most of present building and gardens between 1835 and 1850 confirmed
+  - Barry also architect of Houses of Parliament confirmed
+  - 1915 fire damaged much of Barry's interior confirmed
+  - Sir Robert Lorimer carried out restoration after fire confirmed
+  - Wood carvings attributed to Grinling Gibbons confirmed
+  - Castle first mentioned in records from 1401 confirmed
+  - Became boys' boarding school from 1965 to 1972 confirmed
+  - Open to public since 1973 between April and October confirmed
+  - Private railway station on Far North Line opened 1870 confirmed
+  - Gardens inspired by Versailles, designed by Barry confirmed
+  - Hugh Lord of Duffus acquired Sutherland lands before 1211 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 11 facts verified · 0 corrections
+
+Barry's work 1835-1850 confirmed. Barry also architect of Houses of Parliament confirmed. 1915 fire confirmed. Lorimer restoration confirmed. Grinling Gibbons carvings confirmed. Boarding school 1965-1972 confirmed. Open to public from 1973 confirmed. Railway station 1870 confirmed. No factual errors. No empathy issues.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 770*
+*Read time: 4 minutes*

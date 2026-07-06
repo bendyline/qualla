@@ -586,5 +586,26 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr72-rikers-island-flight-context.mp3",
+      "dr72-rikers-island-intro.mp3",
+      "dr72-rikers-island-built-on-ashes.mp3",
+      "dr72-rikers-island-a-city-within-a-city.mp3",
+      "dr72-rikers-island-cycles-of-violence.mp3",
+      "dr72-rikers-island-the-long-goodbye.mp3",
+      "dr72-rikers-island-what-the-river-holds.mp3"
+    ],
+    "durations": {
+      "dr72-rikers-island-flight-context.mp3": 40.8491666,
+      "dr72-rikers-island-intro.mp3": 49.42375,
+      "dr72-rikers-island-built-on-ashes.mp3": 68.9786666,
+      "dr72-rikers-island-a-city-within-a-city.mp3": 67.1619166,
+      "dr72-rikers-island-cycles-of-violence.mp3": 78.9803333,
+      "dr72-rikers-island-the-long-goodbye.mp3": 61.3469166,
+      "dr72-rikers-island-what-the-river-holds.mp3": 54.48525
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

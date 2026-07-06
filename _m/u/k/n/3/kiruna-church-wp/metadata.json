@@ -131,5 +131,24 @@
   "galleryPaths": [
     "_m/u/k/n/3/kiruna-church-wp/kiruna-kyrka-church-di.jpg",
     "_m/u/k/n/3/kiruna-church-wp/relocation-kiruna-chur.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "ukn3-kiruna-church-flight-context.mp3",
+      "ukn3-kiruna-church-intro.mp3",
+      "ukn3-kiruna-church-a-company-towns-cathedral.mp3",
+      "ukn3-kiruna-church-where-sami-meets-art-nouveau.mp3",
+      "ukn3-kiruna-church-the-ground-gives-way.mp3",
+      "ukn3-kiruna-church-five-kilometers-on-56-axles.mp3"
+    ],
+    "durations": {
+      "ukn3-kiruna-church-flight-context.mp3": 47.5717916,
+      "ukn3-kiruna-church-intro.mp3": 56.6541666,
+      "ukn3-kiruna-church-a-company-towns-cathedral.mp3": 62.829125,
+      "ukn3-kiruna-church-where-sami-meets-art-nouveau.mp3": 71.7190833,
+      "ukn3-kiruna-church-the-ground-gives-way.mp3": 64.215375,
+      "ukn3-kiruna-church-five-kilometers-on-56-axles.mp3": 66.33775
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

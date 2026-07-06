@@ -120,5 +120,26 @@
   "galleryPaths": [
     "_m/s/y/1/0/battle-of-the-hotels-wp/pla-lebanon.jpg",
     "_m/s/y/1/0/battle-of-the-hotels-wp/flag-lebanese-nlp-tige.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sy10-battle-of-the-hotels-flight-context.mp3",
+      "sy10-battle-of-the-hotels-intro.mp3",
+      "sy10-battle-of-the-hotels-towers-of-the-golden-age.mp3",
+      "sy10-battle-of-the-hotels-hawks-in-the-murr-tower.mp3",
+      "sy10-battle-of-the-hotels-room-service-canceled.mp3",
+      "sy10-battle-of-the-hotels-the-last-guests.mp3",
+      "sy10-battle-of-the-hotels-monuments-to-what-was-lost.mp3"
+    ],
+    "durations": {
+      "sy10-battle-of-the-hotels-flight-context.mp3": 39.5445833,
+      "sy10-battle-of-the-hotels-intro.mp3": 45.3712083,
+      "sy10-battle-of-the-hotels-towers-of-the-golden-age.mp3": 64.0523333,
+      "sy10-battle-of-the-hotels-hawks-in-the-murr-tower.mp3": 61.3300833,
+      "sy10-battle-of-the-hotels-room-service-canceled.mp3": 57.6419166,
+      "sy10-battle-of-the-hotels-the-last-guests.mp3": 63.5863333,
+      "sy10-battle-of-the-hotels-monuments-to-what-was-lost.mp3": 69.4905416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

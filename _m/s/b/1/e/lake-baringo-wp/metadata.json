@@ -528,5 +528,24 @@
     "_m/s/b/1/e/lake-baringo-wp/lake-baringo-10.jpg",
     "_m/s/b/1/e/lake-baringo-wp/lake-baringo-13.jpg"
   ],
-  "updatedAt": "2026-03-31T05:41:22.586Z"
+  "updatedAt": "2026-03-31T05:41:22.586Z",
+  "narration": {
+    "files": [
+      "sb1e-lake-baringo-flight-context.mp3",
+      "sb1e-lake-baringo-intro.mp3",
+      "sb1e-lake-baringo-the-freshwater-exception.mp3",
+      "sb1e-lake-baringo-an-island-of-volcanic-memory.mp3",
+      "sb1e-lake-baringo-wings-over-alkaline-and-fresh.mp3",
+      "sb1e-lake-baringo-a-lake-rewriting-its-own-shores.mp3"
+    ],
+    "durations": {
+      "sb1e-lake-baringo-flight-context.mp3": 52.3964583,
+      "sb1e-lake-baringo-intro.mp3": 39.970125,
+      "sb1e-lake-baringo-the-freshwater-exception.mp3": 61.2564583,
+      "sb1e-lake-baringo-an-island-of-volcanic-memory.mp3": 64.83425,
+      "sb1e-lake-baringo-wings-over-alkaline-and-fresh.mp3": 66.764125,
+      "sb1e-lake-baringo-a-lake-rewriting-its-own-shores.mp3": 78.5196666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

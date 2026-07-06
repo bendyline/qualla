@@ -608,5 +608,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sv9p-josephs-tomb-flight-context.mp3",
+      "sv9p-josephs-tomb-intro.mp3",
+      "sv9p-josephs-tomb-whose-bones-lie-here.mp3",
+      "sv9p-josephs-tomb-a-survey-of-what-remains.mp3",
+      "sv9p-josephs-tomb-a-microcosm-of-conflict.mp3",
+      "sv9p-josephs-tomb-night-pilgrimages-and-armed-escorts.mp3",
+      "sv9p-josephs-tomb-what-persists.mp3"
+    ],
+    "durations": {
+      "sv9p-josephs-tomb-flight-context.mp3": 49.34525,
+      "sv9p-josephs-tomb-intro.mp3": 56.389375,
+      "sv9p-josephs-tomb-whose-bones-lie-here.mp3": 70.7389583,
+      "sv9p-josephs-tomb-a-survey-of-what-remains.mp3": 58.922375,
+      "sv9p-josephs-tomb-a-microcosm-of-conflict.mp3": 71.9054583,
+      "sv9p-josephs-tomb-night-pilgrimages-and-armed-escorts.mp3": 55.5262083,
+      "sv9p-josephs-tomb-what-persists.mp3": 62.7053333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

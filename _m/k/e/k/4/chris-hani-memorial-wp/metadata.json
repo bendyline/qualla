@@ -395,5 +395,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kek4-chris-hani-memorial-flight-context.mp3",
+      "kek4-chris-hani-memorial-intro.mp3",
+      "kek4-chris-hani-memorial-the-gladiator-from-cofimvaba.mp3",
+      "kek4-chris-hani-memorial-geometry-of-remembrance.mp3",
+      "kek4-chris-hani-memorial-swords-disguised-as-flowers.mp3",
+      "kek4-chris-hani-memorial-glass-walls-and-fallen-names.mp3"
+    ],
+    "durations": {
+      "kek4-chris-hani-memorial-flight-context.mp3": 48.4638333,
+      "kek4-chris-hani-memorial-intro.mp3": 57.7682083,
+      "kek4-chris-hani-memorial-the-gladiator-from-cofimvaba.mp3": 59.99,
+      "kek4-chris-hani-memorial-geometry-of-remembrance.mp3": 70.42425,
+      "kek4-chris-hani-memorial-swords-disguised-as-flowers.mp3": 55.7937083,
+      "kek4-chris-hani-memorial-glass-walls-and-fallen-names.mp3": 65.0174583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

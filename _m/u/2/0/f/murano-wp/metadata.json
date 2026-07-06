@@ -126,5 +126,24 @@
     "_m/u/2/0/f/murano-wp/laguna-veneta.png",
     "_m/u/2/0/f/murano-wp/faro-murano.jpg"
   ],
-  "updatedAt": "2026-03-31T18:54:34.659Z"
+  "updatedAt": "2026-03-31T18:54:34.659Z",
+  "narration": {
+    "files": [
+      "u20f-murano-flight-context.mp3",
+      "u20f-murano-intro.mp3",
+      "u20f-murano-seven-islands-in-the-lagoon.mp3",
+      "u20f-murano-gilded-captives.mp3",
+      "u20f-murano-dragons-and-bellini-altarpieces.mp3",
+      "u20f-murano-fire-still-burns.mp3"
+    ],
+    "durations": {
+      "u20f-murano-flight-context.mp3": 52.4058333,
+      "u20f-murano-intro.mp3": 53.877625,
+      "u20f-murano-seven-islands-in-the-lagoon.mp3": 64.2549166,
+      "u20f-murano-gilded-captives.mp3": 68.4637083,
+      "u20f-murano-dragons-and-bellini-altarpieces.mp3": 65.9957916,
+      "u20f-murano-fire-still-burns.mp3": 73.9159583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

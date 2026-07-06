@@ -1,0 +1,54 @@
+# Llogara National Park
+
+Where the Ceraunian Mountains plunge toward the Ionian Sea, ancient pines bent into permanent flags by the wind mark the pass that Julius Caesar may have crossed in pursuit of Pompey.
+
+**Location:** 40.2164, 19.5703
+
+**Categories:** national-parks, mountains, nature, albania
+
+## Introduction
+
+The pines tell you about the wind before you feel it. Halfway up the Llogara Pass, at roughly 1,000 meters above the Albanian Riviera, black pines over a century old stand with their trunks bent permanently sideways, shaped by decades of relentless coastal gusts into forms that resemble flags frozen mid-wave. The Albanians call them Pisha Flamur, flag pines, and they have become the unofficial symbol of Llogara National Park. Below, the Ionian Sea spreads in a blue so saturated it looks artificial. Above, the Ceraunian Mountains continue climbing toward peaks exceeding 2,000 meters. Between these extremes, the park occupies a narrow, dramatic margin where alpine meadows meet Mediterranean cliff faces.
+
+## Mountains That Remember Armies
+
+The Llogara Pass sits at the spine of the Ceraunian Mountains, a range whose name derives from the Greek word for thunder. The ancients had reason for the association: storms sweep in from the Ionian with sudden violence, and lightning strikes the exposed ridgelines with theatrical frequency. Julius Caesar is said to have marched through this pass in 48 BC during the Roman Civil War, pursuing Pompey southward along the coast. Whether his legions descended by exactly this route is debated, but the local tradition is firm enough that the pass carries the informal name Caesar's Pass. The strategic logic is sound: the Ceraunians form a natural wall between the coastal lowlands and the interior, and anyone moving an army along the Albanian coast had to cross them somewhere. The park itself was established in 1966, protecting 1,010 hectares of terrain that includes alpine meadows, vertical rock faces, precipices, and dense forests of black pine, Bulgarian fir, and oak growing on limestone and dolomite.
+
+## The Edge Between Worlds
+
+Llogara sits at a transition zone, and everything about it reflects the boundary. The vegetation shifts from Mediterranean scrub on the lower slopes to subalpine forest near the pass. The climate swings between the heat of the Albanian Riviera's beaches, visible below, and the cooler mountain air where snow lingers into spring. On clear days, the Greek island of Corfu is visible across the strait, a reminder that this coastline has always been a meeting point between Adriatic and Mediterranean, Albanian and Greek, mountain and sea. The park has been recognized as an important area for both bird diversity and plant diversity, with pine, oak, and fir trees anchored in limestone and dolomite substrate. Paragliders launch from the pass itself, riding the same thermals that shape the flag pines, and landing on the beach at Palase far below. The juxtaposition is startling: a takeoff from mountain forest, a flight over cliff faces, and a landing on warm sand beside turquoise water, all within minutes.
+
+## The Road Through the Sky
+
+National Road SH8 threads through the park on its way from Vlore to Sarande, and driving it is an experience in itself. The road climbs in switchbacks through dense forest, breaks through the pass at its highest point, and then descends the southern side toward the Albanian Riviera with views that open suddenly and completely: the Ionian Sea, the coastline curving south toward Himare and beyond, and the mountains falling away in terraced cliffs. Restaurants and small hotels cluster at the pass, forming a touristic village that serves as a base for hiking. Trails range from four-hour round trips to two-day expeditions into the higher peaks of the Ceraunians, where Maja e Cikes reaches 2,045 meters and Maja e Qorres stands at 2,018 meters. Along the road, stalls sell local honey and dried mountain tea, products of the same landscape that produces the twisted pines and the sudden storms.
+
+## Below the Clouds
+
+From the air, the Llogara Pass reads as a notch in the mountain wall, the Ceraunian ridgeline interrupted by a saddle of dark forest. The SH8 road is visible as a pale thread of switchbacks on the western face. South of the pass, the coastline reveals itself in stages: the beach at Palase, the long curve of the Albanian Riviera stretching toward Himare and Sarande, and the deep blue of the Ionian turning lighter over shallow bays. The contrast between the green mountain interior and the arid, cliff-lined coast is sharp and immediate. North of the pass, the city of Vlore sprawls along its bay, and beyond it the flatlands of the Myzeqe plain stretch inland. The park occupies a hinge point in the Albanian landscape, the place where the mountains make their most dramatic gesture toward the sea before subsiding into the coastal lowlands that continue south into Greece.
+
+## Flight Context
+
+Located at 40.22N, 19.57E on the Albanian Riviera coast. The Llogara Pass is visible as a notch in the Ceraunian Mountains, with the SH8 road switchbacking through dense forest. The Ionian Sea lies directly to the west, and Corfu is visible across the strait. Nearest airports: Vlore has no commercial airport; Tirana International (LATI) is approximately 150 km north. The Greek island of Corfu (LGKR) lies across the strait. Recommended viewing altitude: 3,000-5,000 feet to see the dramatic transition from mountain to coast.
+
+## Sources
+
+- [Llogara National Park - Wikivoyage](https://en.wikivoyage.org/?curid=166945)
+- [Llogara National Park - Wikipedia](https://en.wikipedia.org/wiki/Llogara_National_Park)
+  - Park established in 1966
+  - 1,010 hectares area (original size; park has since expanded to ~1,769 ha)
+  - Black pine, Bulgarian fir, and oak on limestone and dolomite substrate
+  - Ceraunian Mountains name derives from Greek word for thunder
+  - Paragliding from the pass with landing at Palase beach
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 5 facts verified · 0 corrections
+
+Verified park establishment 1966, 1,010 hectares original size, vegetation and mountain name details. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 735*
+*Read time: 4 minutes*

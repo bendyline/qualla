@@ -1,0 +1,70 @@
+# Hobart
+
+Australia's second-oldest city guards the edge of the world, where Antarctic expeditions once departed and the Southern Lights still dance above a harbour ringed by colonial warehouses and crowned by snow-dusted Mount Wellington.
+
+**Location:** -42.8509, 147.2910
+
+**Categories:** city, australia, tasmania, antarctic, history
+
+## Introduction
+
+On a March morning in 1912, a bearded Norwegian stepped onto the sandstone steps of the Hobart General Post Office and announced to the world that his party had reached the South Pole. Roald Amundsen had sailed his ship Fram into the Derwent River specifically to send that historic telegram, choosing Hobart as his herald. This small Tasmanian capital, perched at 42 degrees south latitude, had earned its role as Antarctica's front porch. Today, Hobart still watches over the Southern Ocean from beneath the brooding presence of Mount Wellington, its colonial warehouses at Salamanca Place now housing galleries and cafes, its docks still welcoming vessels bound for the ice. With barely 250,000 residents, it feels more like a large country town than a state capital, yet it punches far above its weight in culture, cuisine, and sheer natural drama.
+
+## Gateway to the Heroic Age
+
+Hobart's Antarctic connection runs deeper than any other city outside the polar regions. France's Dumont d'Urville, England's James Clark Ross, Australia's Douglas Mawson, and Norway's Carsten Borchgrevink and Roald Amundsen all paused in the Derwent on their way south. In December 1911, Mawson's Australasian Antarctic Expedition received a rousing send-off from Sullivans Cove. A few months later, Mawson's team transmitted the first wireless messages from Antarctica to a receiving station on Hobart's Queens Domain. This heritage persists. The Polar Pathways walking tour winds past bronze statues of explorers and the historic Hadley's Hotel where Amundsen stayed. The Australian Antarctic Division operates a visitor centre in nearby Kingston, and many of the city's museum exhibits carry Antarctic themes. Ships still depart these docks for research stations far to the south.
+
+## Convict Foundations and Colonial Grace
+
+Founded in 1804 by Colonel David Collins, Hobart is Australia's second-oldest city after Sydney. It grew from a penal settlement at Risdon Cove, abandoned within five months for the present site on the Derwent's western bank. Convict labour built many of the sandstone structures that still define Hobart's character. Over 90 buildings carry National Trust classification, with around 60 lining Macquarie and Davey Streets alone. The Georgian and Victorian architecture rivals any Australian city, compressed into an intimate downtown easily explored on foot. Battery Point, the old maritime neighbourhood climbing the hill behind Salamanca, preserves cottages and lanes that feel more English village than Australian suburb. Port Arthur, an hour's drive southeast, offers the most complete and haunting convict settlement in the country.
+
+## Mountain and Light
+
+Mount Wellington, or kunanyi in the Palawa language of Tasmania's First Nations peoples, towers 1,271 metres above the city, visible from virtually everywhere and often snow-capped from May through September. The temperature at the summit runs ten degrees colder than at sea level, and wind-blasted dolerite columns create an almost lunar landscape. Shuttle buses and winding roads reach the pinnacle, rewarding visitors with views spanning from the D'Entrecasteaux Channel to the Central Highlands. At night, Hobart offers another spectacle: the Aurora Australis. The Southern Lights appear when solar activity pushes the K-Index above 6, painting the sky in shifting curtains of green and red. No other easily accessible city in the world provides such reliable aurora viewing, a reminder that the Antarctic Circle lies closer to Hobart than Brisbane does.
+
+## MONA and the New Creative Edge
+
+In 2011, the Museum of Old and New Art opened in a converted warehouse north of Hobart, and nothing has been quite the same since. MONA, the creation of professional gambler David Walsh, houses his private collection of antiquities and provocative contemporary art in subterranean galleries carved from sandstone cliffs. Visitors arrive by ferry, descending into spaces that deliberately disorient and challenge. The museum catalysed a broader cultural renaissance. Salamanca Market, held every Saturday among the colonial warehouses, had long drawn crowds, but MONA added global cachet. The winter festival Dark Mofo now fills June with confrontational art, music, and ritual. Hobart's restaurant scene has flourished too, driven by Tasmania's exceptional produce: wild-caught seafood, cool-climate wines from the Coal River Valley, and cheeses that rival European artisans.
+
+## Island Excursions
+
+Hobart serves as the launchpad for exploring Tasmania's remarkable landscapes. Bruny Island, a ferry ride south, combines wildlife encounters with artisan food trails. Little penguins waddle ashore at dusk on the isthmus connecting the island's two halves. Freycinet National Park on the east coast frames Wineglass Bay, consistently ranked among the world's most beautiful beaches. Port Arthur and Tasman National Park reveal both convict history and dramatic coastal geology including the Tessellated Pavement and towering sea cliffs. Mount Field National Park, just over an hour northwest, offers Russell Falls and winter skiing at Mount Mawson. Richmond, barely thirty minutes away, preserves Australia's oldest bridge and oldest intact prison in a village of colonial charm. Beyond lies the wilderness, including the Cradle Mountain-Lake St Clair National Park, home to some of the planet's finest multiday treks.
+
+## Flight Context
+
+Located at 42.85 degrees S, 147.29 degrees E on the western shore of the Derwent River estuary in southeast Tasmania. Hobart International Airport (YMHB) lies 17km northeast of the CBD near Cambridge. From altitude, the distinctive shape of the Derwent River, Mount Wellington (1271m) to the west, and the grid of the CBD are clearly visible. The Tasman Bridge crossing the Derwent and Salamanca Place along the waterfront are key landmarks. Storm Bay opens to the south toward the Southern Ocean.
+
+## Sources
+
+- [Hobart - Wikivoyage](https://en.wikivoyage.org/?curid=14750)
+- [Roald Amundsen - Monument Australia](https://monumentaustralia.org.au/themes/people/exploration/display/97950-roald-amundsen-)
+  - Amundsen sent telegram from Hobart GPO March 7, 1912
+  - Fram arrived in Derwent River
+  - Telegram announced South Pole discovery
+- [MONA - Wikipedia](https://en.wikipedia.org/wiki/Museum_of_Old_and_New_Art)
+  - MONA opened January 21, 2011
+  - David Walsh is professional gambler
+  - Largest privately funded museum in Southern Hemisphere
+- [Hobart Population - World Population Review](https://worldpopulationreview.com/cities/australia/hobart)
+  - Greater Hobart population ~218,000-250,000
+  - Founded 1804 by Colonel David Collins
+  - Australia's second-oldest city after Sydney
+
+## Review Notes
+
+**Reviewed:** 2026-01-23 · 12 facts verified · 0 corrections
+
+All facts verified. Amundsen telegram March 7 1912, MONA opened 2011, David Walsh gambler, population ~250k, founded 1804.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- guards the edge of the world
+- Antarctica's front porch
+- punches far above its weight
+
+---
+
+*Word count: 800*
+*Read time: 4 minutes*

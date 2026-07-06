@@ -1,0 +1,63 @@
+# Kamaishi Recovery Memorial Stadium: Built Where the Schools Stood
+
+On the site where two schools were destroyed by the 2011 tsunami -- and where 580 students miraculously survived through years of disaster preparedness training -- Kamaishi built a rugby stadium to host the 2019 World Cup and declare its recovery to the world.
+
+**Location:** 39.3278, 141.8922
+
+**Categories:** sports, disaster-recovery, rugby, stadium, iwate
+
+## Introduction
+
+On March 11, 2011, a magnitude 9.0 earthquake sent a massive tsunami surging into the Unosumai district of Kamaishi, Iwate. The wave destroyed Unosumai Elementary School and Kamaishi East Junior High School. But all 580 students and teachers from both schools survived -- the older junior high students had sprinted for higher ground immediately after the quake, the elementary children and their teachers followed, and together they outran the water that swallowed their classrooms. The story became known as the Miracle of Kamaishi. Seven years later, on that same ground where the schools had stood, a new stadium rose. The Kamaishi Recovery Memorial Stadium was not just a venue for the 2019 Rugby World Cup. It was a statement: this city, which lost over 1,000 residents to the tsunami, had chosen to rebuild with hope rather than retreat in grief.
+
+## Rugby Town's Golden Era
+
+Kamaishi's bond with rugby runs deeper than most sporting towns. During the 1970s and 1980s, the Nippon Steel Kamaishi rugby club -- drawn from the workers at the city's steel mills -- won an unprecedented seven consecutive All-Japan Rugby Football Championships from 1979 to 1985. The players became local heroes known as the V7 Warriors, and Kamaishi earned the nickname Rugby Town. The club's dominance coincided with the peak of the city's steel industry; when the mills began closing, the rugby team's fortunes declined too. Nippon Steel Kamaishi folded in 2001, replaced by the community-supported Kamaishi Seawaves. The connection between iron, rugby, and civic identity had been forged over decades. So when the city needed a symbol of recovery after the 2011 disaster, rugby was the natural choice.
+
+## Rising from the Wreckage
+
+In 2014, Kamaishi's municipal government announced its bid to host matches in the 2019 Rugby World Cup and proposed building a new stadium in the devastated Unosumai district. The decision was controversial. The 3-billion-yen cost drew criticism from residents who argued the money should go toward rebuilding infrastructure and permanent housing for the thousands still displaced. But supporters saw the stadium as a catalyst -- a way to draw international attention and investment to a city that might otherwise be forgotten as recovery dragged on. Construction broke ground in April 2017 with a groundbreaking and prayer ceremony on the former school site. The stadium was completed in July 2018 and opened on August 19 with an exhibition match between the Kamaishi Seawaves and Yamaha Jubilo, drawing 6,000 spectators to the place where the wave had taken everything.
+
+## World Cup and Typhoon
+
+Two pool matches of the 2019 Rugby World Cup were scheduled for Kamaishi's stadium. The first, on September 25, delivered a memorable upset: Uruguay defeated Fiji in front of a capacity crowd, the smallest venue in the tournament producing one of its biggest surprises. The atmosphere was electric -- Kamaishi residents, many of whom had never attended an international rugby match, cheered alongside visitors from around the world. The second match, between Namibia and Canada on October 13, was never played. Typhoon Hagibis, one of the most powerful storms to hit Japan in decades, forced the cancellation. The cruel irony was not lost on anyone: a stadium built to symbolize recovery from natural disaster was silenced by another natural disaster. Both teams were awarded a draw, and the tournament moved on, but Kamaishi had already made its point.
+
+## Cedar Seats and Hybrid Grass
+
+The stadium's design reflects its dual identity as a World Cup venue and a community facility. For the tournament, temporary seating raised capacity to 16,187, but only 6,000 permanent seats remain for local use afterward. Those temporary seats were built from Japanese cedar harvested after a wildfire in 2017 -- disaster-salvaged wood repurposed into a disaster-recovery stadium. The playing surface was the first in Japan to use AirFibr, a hybrid grass technology that weaves synthetic fibers into natural turf for durability. The modesty of the permanent configuration is deliberate: Kamaishi is a city of roughly 33,000 people, and the stadium was designed to serve their needs long after the television cameras left. It hosts local rugby matches, community events, and school sports -- new memories layered over the ground where children once ran for their lives.
+
+## Flight Context
+
+Located at 39.33N, 141.89E in the Unosumai district of Kamaishi, on the Pacific coast of Iwate Prefecture. From altitude, the stadium is visible as a compact sports facility near the coast, set against the narrow coastal plain backed by steep mountains. The rebuilt Unosumai district surrounds it, with the river and harbor visible nearby. The Kamaishi breakwater -- once the world's deepest -- is visible at the harbor entrance. Nearest airport is Iwate Hanamaki Airport (RJSI), approximately 90 km to the west. Recommended viewing altitude is 2,000-4,000 feet AGL to see the stadium in context with the rebuilt coastal district and the Pacific Ocean beyond.
+
+## Sources
+
+- [Kamaishi Recovery Memorial Stadium - Wikipedia](https://en.wikipedia.org/?curid=55528471)
+- [The Miracle of Kamaishi: How 3,000 Students Survived - Japan for Sustainability](https://www.japanfs.org/en/news/archives/news_id034287.html)
+  - All 580 students and teachers from Unosumai Elementary and Kamaishi East Junior High survived
+  - Event became known as the Miracle of Kamaishi
+  - Junior high students led the evacuation to higher ground
+  - Fruit of disaster prevention education program
+- [A Japanese Rugby Legend and Tohoku's Stadium of Hope - Nippon.com](https://www.nippon.com/en/japan-topics/g00713/a-japanese-rugby-legend-and-tohoku%E2%80%99s-stadium-of-hope.html)
+  - Nippon Steel Kamaishi won seven consecutive All-Japan Rugby Championships 1979-1985
+  - Players known as V7 Warriors
+  - Kamaishi nicknamed Rugby Town
+  - Club folded in 2001 replaced by Kamaishi Seawaves
+- [Rugby World Cup stadium opens as symbol of hope in tsunami-hit Kamaishi - The Guardian](https://www.theguardian.com/sport/2018/aug/20/rugby-world-cup-stadium-tsunami-kamaishi-unosumai)
+  - Stadium opened August 19 2018
+  - Exhibition match Kamaishi Seawaves vs Yamaha Jubilo attended by 6000
+  - Built on former site of destroyed schools
+  - Stadium cost 3 billion yen, drew local criticism
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 10 facts verified · 0 corrections
+
+Key facts verified: 580 students survived (Miracle of Kamaishi), Nippon Steel Kamaishi won 7 consecutive All-Japan Rugby Championships 1979-1985 (V7 Warriors), club folded 2001 replaced by Kamaishi Seawaves, 3 billion yen cost, construction started April 2017, opened August 19 2018, Uruguay defeated Fiji September 25 in first match, Typhoon Hagibis cancelled Namibia vs Canada October 13, 16187 total capacity with 6000 permanent seats, AirFibr hybrid grass first in Japan. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

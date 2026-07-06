@@ -1,0 +1,60 @@
+# The 1902 Eruption of Mount Pelee: The Morning Saint-Pierre Vanished
+
+At 7:52 a.m. on May 8, 1902, a telegraph operator in the Caribbean city of Saint-Pierre, Martinique, transmitted his last word - 'Allez' - and the line went dead. In under a minute, a pyroclastic surge from Mount Pelee killed nearly 30,000 people.
+
+**Location:** 14.8075, -61.1675
+
+**Categories:** natural-disaster, volcano, caribbean, martinique, historical-event
+
+## Introduction
+
+At 7:52 on the morning of May 8, 1902, the night-shift telegraph operator in Saint-Pierre, Martinique, finished his report on Mount Pelee's volcanic activity and handed the line to the operator in Fort-de-France. His last transmission was a single word: "Allez." In the next second, the line went dead. The upper mountainside had ripped open. A dense black cloud shot out horizontally, hugging the ground, glowing hot from within, racing toward the city at speeds later calculated to exceed anything the residents could have outrun. In under a minute, the pyroclastic surge covered all of Saint-Pierre - superheated steam, volcanic gas, and ash at temperatures that ignited everything combustible on contact. The city's population had swollen to roughly 30,000, many of them refugees from the volcano's earlier rumblings who had come to Saint-Pierre believing it was safe. Nearly all of them died.
+
+## Two Weeks of Warnings
+
+The mountain had been speaking for weeks. In early April, sulfurous vapors appeared near the summit - not unusual for an active volcano, and authorities dismissed them. On April 23, cinders rained on the mountain's southern and western flanks. By April 27, hikers found the Etang Sec crater filled with a lake of boiling water fed by a cone of volcanic debris, and the smell of sulfur reached Saint-Pierre, six miles away. On May 2, the mountain produced explosions, earthquakes, and a pillar of dense black smoke that covered the northern half of the island in ash. Farm animals began dying, their water and food contaminated. The local newspaper, Les Colonies, canceled a planned picnic on the mountain. Citizens filled steamer lines trying to leave. But the authorities insisted Saint-Pierre was safe. An election was approaching, and officials wanted the population to stay.
+
+## The Captain Who Trusted His Instincts
+
+On May 7, the day before the eruption, Captain Marina Leboffe of the barque Orsolina made a decision that saved his crew's lives. He ordered his ship out of Saint-Pierre's harbor with only half its cargo of sugar loaded, despite protests from shippers and threats of arrest from port authorities. Leboffe was Neapolitan. He reportedly told the officials: "I know nothing about Mt. Pelee, but if Vesuvius were looking the way your volcano looks this morning, I'd get out of Naples." Governor Louis Mouttet and his wife stayed in the city that night, planning to inspect the volcano the next morning. Many civilians who tried to leave were refused permission. The newspapers continued to print reassurances. When news arrived that the Soufriere volcano on nearby Saint Vincent had erupted, residents took it as a sign that Pelee's pressure was being relieved. It was not.
+
+## Eight Minutes Past Seven
+
+The pyroclastic surge that destroyed Saint-Pierre was something volcanology had never documented at this scale. The mountain split open and two clouds emerged simultaneously: one horizontal, racing downhill toward the city, black and heavy and incandescent; one vertical, forming a mushroom cloud that darkened the sky for miles. The horizontal surge - superheated gas, steam, and volcanic debris - reached Saint-Pierre in under a minute. Everything combustible ignited. The cable repair ship Grappler, anchored offshore, was set on fire and sunk with all hands. The Canadian cargo liner Roraima burned to a wreck; twenty-eight of her crew and all passengers except two - nine-year-old Margaret Stokes and her nurse - were killed. Then came a rush of wind back toward the mountain, followed by a half-hour downpour of muddy rain and ash. For hours, no one outside the city knew what had happened. The governor was dead. Communications were severed.
+
+## The Survivors and the Dead
+
+Legend long held that only two people survived in Saint-Pierre: Louis-Auguste Cyparis, a prisoner in an underground jail cell, and Leon Compere-Leandre, who lived at the city's edge. The truth is more complicated and more human. A number of survivors escaped the fringes of the blast zone, many of them badly burned, some dying later from their injuries. Their names and stories were largely never recorded. Compere-Leandre's account survives: he felt a terrible wind, the sky went dark, he climbed the steps to his room and felt his body burning. Four people sought refuge with him, crying and writhing in pain though their clothing showed no sign of flame. A ten-year-old girl, the young Delavaud, died within minutes. When Compere-Leandre's roof caught fire, he ran six kilometers to Fonds-Saint-Denis on bleeding, burned legs. Among the dead were American consul Thomas T. Prentis and his wife. When a warship arrived at noon, the heat was so fierce that landing parties could not come ashore until three o'clock. Not a tree remained standing in the Place Bertin, the shaded square where cafe-goers had sat the day before.
+
+## What the Mountain Left Behind
+
+The destruction covered the entire area around Saint-Pierre in concentric zones: total annihilation at the center, diminishing damage outward, scorched vegetation at the margins. Many victims were found in ordinary postures - sitting, standing, walking - their features calm, struck without warning. Others were contorted in anguish. Clothing had been torn from nearly everyone caught outdoors. Houses were pulverized beyond recognition; even residents familiar with the city could not identify the foundations of landmarks. The city burned for days. Burial was impossible given the scale of death; sanitation teams disposed of the dead by burning. Thousands lay under meters of ash, caked by rain, unrecovered for weeks. President Theodore Roosevelt dispatched U.S. ships with rations and doctors. The eruption continued for three more years, ending on October 5, 1905. A second major pyroclastic flow on August 30, 1902, struck Morne Rouge and Ajoupa-Bouillon, killing at least 1,050 more. The 1902 eruption of Mount Pelee became the event that taught the modern world what a volcano could do to a city.
+
+## Flight Context
+
+Mount Pelee rises at 14.81N, 61.17W on the northern tip of Martinique, clearly visible from the air as the island's dominant volcanic peak. Saint-Pierre lies on the coast directly south-southwest of the summit, rebuilt but far smaller than the city of 30,000 that existed before 1902. The wreck of the Roraima remains offshore. Fort-de-France, Martinique's current capital and the city that received the first telegraphed warnings, is about 30 kilometers south. Martinique Aime Cesaire International Airport (TFFF) at Le Lamentin serves the island. From cruising altitude, the pyroclastic flow path from summit to coast is clearly traceable - a wide scar descending from the crater to the sea. The Etang Sec crater is visible near the summit. Dominica lies to the north across the channel; Saint Lucia to the south.
+
+## Sources
+
+- [1902 eruption of Mount Pelée - Wikipedia](https://en.wikipedia.org/?curid=62928631)
+  - 7:52 AM May 8 1902 time of eruption confirmed
+  - ~30,000 deaths confirmed (28,000-30,000 range across sources)
+  - Louis-Auguste Cyparis (also known as Ludger Sylbaris) prisoner survivor confirmed
+  - Leon Compere-Leandre survivor confirmed
+  - Roraima burned, Margaret Stokes and nurse among survivors confirmed
+  - Second eruption August 30 1902 killing at least 1,050 at Morne Rouge confirmed
+  - Eruption ended October 5 1905 confirmed
+  - Captain Leboffe of barque Orsolina story confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-12 · 8 facts verified · 0 corrections
+
+Key facts confirmed: 7:52 AM May 8 1902, ~30,000 deaths, Louis-Auguste Cyparis (aka Ludger Sylbaris - same person, birth name used) confirmed as survivor, Compere-Leandre account verified, August 30 1902 second eruption confirmed, October 5 1905 end date confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 900*
+*Read time: 5 minutes*

@@ -541,5 +541,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w5fm-chin-state-flight-context.mp3",
+      "w5fm-chin-state-intro.mp3",
+      "w5fm-chin-state-where-the-hills-have-names.mp3",
+      "w5fm-chin-state-ink-that-tells-a-story.mp3",
+      "w5fm-chin-state-the-hymns-in-the-hills.mp3",
+      "w5fm-chin-state-a-poverty-written-in-geography.mp3",
+      "w5fm-chin-state-resilience-above-the-clouds.mp3"
+    ],
+    "durations": {
+      "w5fm-chin-state-flight-context.mp3": 51.751875,
+      "w5fm-chin-state-intro.mp3": 40.7826666,
+      "w5fm-chin-state-where-the-hills-have-names.mp3": 66.3953333,
+      "w5fm-chin-state-ink-that-tells-a-story.mp3": 70.648625,
+      "w5fm-chin-state-the-hymns-in-the-hills.mp3": 63.8594166,
+      "w5fm-chin-state-a-poverty-written-in-geography.mp3": 74.0905,
+      "w5fm-chin-state-resilience-above-the-clouds.mp3": 63.4304166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

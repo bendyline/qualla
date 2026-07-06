@@ -135,6 +135,26 @@
       "sourceArticleId": "holyhead-wp",
       "sourceGeohash4": "gckx",
       "smallPath": "_m/g/c/k/x/holyhead-wp/marine-square-holyhead-geograp-small.webp"
+    },
+    {
+      "filename": "Holyhead Railway Station - 2024-06-15 03.jpg",
+      "title": "File:Holyhead Railway Station - 2024-06-15 03.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Holyhead_Railway_Station_-_2024-06-15_03.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Holyhead_Railway_Station_-_2024-06-15_03.jpg",
+      "width": 4032,
+      "height": 3024,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "瑞丽江的河水",
+      "description": "Holyhead Port",
+      "dateCreated": "2024-06-15 12:25:27",
+      "categories": [
+        "CC-BY-SA-4.0"
+      ],
+      "sourceType": "poi",
+      "sourceArticleId": "holyhead-wp",
+      "sourceGeohash4": "gckx"
     }
   ],
   "galleryPaths": [
@@ -142,7 +162,29 @@
     "_m/g/c/k/x/holyhead-wp/holyhead-ferry-beaumaris.jpg",
     "_m/g/c/k/x/holyhead-wp/holyheadmuseumandharbour.jpg",
     "_m/g/c/k/x/holyhead-wp/holyhead-banner.jpg",
-    "_m/g/c/k/x/holyhead-wp/marine-square-holyhead-geograp.jpg"
+    "_m/g/c/k/x/holyhead-wp/marine-square-holyhead-geograp.jpg",
+    "_m/g/c/k/x/holyhead-wp/holyhead-railway-station-2024-.jpg"
   ],
-  "updatedAt": "2026-03-19T23:58:16.213Z"
+  "updatedAt": "2026-06-21T00:27:10.091Z",
+  "narration": {
+    "files": [
+      "gckx-holyhead-flight-context.mp3",
+      "gckx-holyhead-intro.mp3",
+      "gckx-holyhead-the-roman-fort-with-a-church-inside.mp3",
+      "gckx-holyhead-the-mail-to-dublin-and-telfords-road.mp3",
+      "gckx-holyhead-aluminium-ferries-and-brexit.mp3",
+      "gckx-holyhead-who-comes-from-here.mp3",
+      "gckx-holyhead-the-strange-day-of-two-tornadoes.mp3"
+    ],
+    "durations": {
+      "gckx-holyhead-flight-context.mp3": 59.82075,
+      "gckx-holyhead-intro.mp3": 56.5670416,
+      "gckx-holyhead-the-roman-fort-with-a-church-inside.mp3": 56.4778333,
+      "gckx-holyhead-the-mail-to-dublin-and-telfords-road.mp3": 68.8785833,
+      "gckx-holyhead-aluminium-ferries-and-brexit.mp3": 68.1279583,
+      "gckx-holyhead-who-comes-from-here.mp3": 61.281625,
+      "gckx-holyhead-the-strange-day-of-two-tornadoes.mp3": 55.3067083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

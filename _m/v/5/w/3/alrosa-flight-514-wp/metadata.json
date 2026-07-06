@@ -85,5 +85,24 @@
   ],
   "galleryPaths": [
     "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "v5w3-alrosa-flight-514-flight-context.mp3",
+      "v5w3-alrosa-flight-514-intro.mp3",
+      "v5w3-alrosa-flight-514-the-decision.mp3",
+      "v5w3-alrosa-flight-514-all-81-survived.mp3",
+      "v5w3-alrosa-flight-514-getting-the-plane-out.mp3",
+      "v5w3-alrosa-flight-514-the-plane-named-izhma.mp3"
+    ],
+    "durations": {
+      "v5w3-alrosa-flight-514-flight-context.mp3": 45.4837916,
+      "v5w3-alrosa-flight-514-intro.mp3": 46.6348333,
+      "v5w3-alrosa-flight-514-the-decision.mp3": 62.91,
+      "v5w3-alrosa-flight-514-all-81-survived.mp3": 54.3174583,
+      "v5w3-alrosa-flight-514-getting-the-plane-out.mp3": 55.2416666,
+      "v5w3-alrosa-flight-514-the-plane-named-izhma.mp3": 48.4042083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -622,5 +622,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qs15-exmouth-western-australia-flight-context.mp3",
+      "qs15-exmouth-western-australia-intro.mp3",
+      "qs15-exmouth-western-australia-before-the-town.mp3",
+      "qs15-exmouth-western-australia-the-reef-at-the-doorstep.mp3",
+      "qs15-exmouth-western-australia-tower-zero.mp3",
+      "qs15-exmouth-western-australia-life-at-the-end-of-the-road.mp3"
+    ],
+    "durations": {
+      "qs15-exmouth-western-australia-flight-context.mp3": 41.9166666,
+      "qs15-exmouth-western-australia-intro.mp3": 41.1577083,
+      "qs15-exmouth-western-australia-before-the-town.mp3": 52.0335833,
+      "qs15-exmouth-western-australia-the-reef-at-the-doorstep.mp3": 51.1710416,
+      "qs15-exmouth-western-australia-tower-zero.mp3": 61.682,
+      "qs15-exmouth-western-australia-life-at-the-end-of-the-road.mp3": 51.664375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

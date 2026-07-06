@@ -343,5 +343,24 @@
     "_m/d/r/7/2/steuben-house-wp/steuben-house-c-1752-with-tree.jpg",
     "_m/d/r/7/2/steuben-house-wp/dutch-colonial-river-edge-nj-z.jpg"
   ],
-  "updatedAt": "2026-03-30T15:15:05.753Z"
+  "updatedAt": "2026-03-30T15:15:05.753Z",
+  "narration": {
+    "files": [
+      "dr72-steuben-house-flight-context.mp3",
+      "dr72-steuben-house-intro.mp3",
+      "dr72-steuben-house-sandstone-and-tidal-power.mp3",
+      "dr72-steuben-house-a-crossroads-at-war.mp3",
+      "dr72-steuben-house-a-loyalists-loss-a-barons-gain.mp3",
+      "dr72-steuben-house-preservation-against-the-odds.mp3"
+    ],
+    "durations": {
+      "dr72-steuben-house-flight-context.mp3": 35.23325,
+      "dr72-steuben-house-intro.mp3": 49.65075,
+      "dr72-steuben-house-sandstone-and-tidal-power.mp3": 64.660875,
+      "dr72-steuben-house-a-crossroads-at-war.mp3": 66.8116666,
+      "dr72-steuben-house-a-loyalists-loss-a-barons-gain.mp3": 65.85625,
+      "dr72-steuben-house-preservation-against-the-odds.mp3": 67.0297083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

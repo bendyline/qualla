@@ -667,5 +667,24 @@
     "_m/u/8/4/4/bran-castle-wp/20140628-bran-castle-42.jpg",
     "_m/u/8/4/4/bran-castle-wp/20140628-bran-castle-43.jpg"
   ],
-  "updatedAt": "2026-04-01T04:04:10.599Z"
+  "updatedAt": "2026-04-01T04:04:10.599Z",
+  "narration": {
+    "files": [
+      "u844-bran-castle-flight-context.mp3",
+      "u844-bran-castle-intro.mp3",
+      "u844-bran-castle-fortress-on-the-pass.mp3",
+      "u844-bran-castle-the-queens-retreat.mp3",
+      "u844-bran-castle-dracula-was-never-here.mp3",
+      "u844-bran-castle-returned-to-the-habsburgs.mp3"
+    ],
+    "durations": {
+      "u844-bran-castle-flight-context.mp3": 56.1455,
+      "u844-bran-castle-intro.mp3": 49.1444583,
+      "u844-bran-castle-fortress-on-the-pass.mp3": 73.2767916,
+      "u844-bran-castle-the-queens-retreat.mp3": 53.0427916,
+      "u844-bran-castle-dracula-was-never-here.mp3": 65.42675,
+      "u844-bran-castle-returned-to-the-habsburgs.mp3": 74.7983333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

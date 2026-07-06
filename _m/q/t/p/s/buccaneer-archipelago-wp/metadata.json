@@ -163,5 +163,22 @@
     "_m/q/t/p/s/buccaneer-archipelago-wp/admiralty-chart-no-1047-cape-f.jpg",
     "_m/q/t/p/s/buccaneer-archipelago-wp/landsat-9-sees-buccaneer-archi.jpg"
   ],
-  "updatedAt": "2026-03-31T02:27:05.611Z"
+  "updatedAt": "2026-03-31T02:27:05.611Z",
+  "narration": {
+    "files": [
+      "qtps-buccaneer-archipelago-flight-context.mp3",
+      "qtps-buccaneer-archipelago-intro.mp3",
+      "qtps-buccaneer-archipelago-eight-hundred-islands.mp3",
+      "qtps-buccaneer-archipelago-the-country-and-its-people.mp3",
+      "qtps-buccaneer-archipelago-a-new-marine-future.mp3"
+    ],
+    "durations": {
+      "qtps-buccaneer-archipelago-flight-context.mp3": 47.052375,
+      "qtps-buccaneer-archipelago-intro.mp3": 43.214,
+      "qtps-buccaneer-archipelago-eight-hundred-islands.mp3": 74.3319583,
+      "qtps-buccaneer-archipelago-the-country-and-its-people.mp3": 61.5499583,
+      "qtps-buccaneer-archipelago-a-new-marine-future.mp3": 64.333875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -75,5 +75,24 @@
     "sourceGeohash4": "qvqf"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qvqf-elsey-station-flight-context.mp3",
+      "qvqf-elsey-station-intro.mp3",
+      "qvqf-elsey-station-named-for-a-surgeon-built-by-a-drive.mp3",
+      "qvqf-elsey-station-violence-and-grief.mp3",
+      "qvqf-elsey-station-the-book-and-the-film.mp3",
+      "qvqf-elsey-station-return.mp3"
+    ],
+    "durations": {
+      "qvqf-elsey-station-flight-context.mp3": 54.52525,
+      "qvqf-elsey-station-intro.mp3": 48.0485833,
+      "qvqf-elsey-station-named-for-a-surgeon-built-by-a-drive.mp3": 68.7086666,
+      "qvqf-elsey-station-violence-and-grief.mp3": 60.9820833,
+      "qvqf-elsey-station-the-book-and-the-film.mp3": 51.59525,
+      "qvqf-elsey-station-return.mp3": 51.5217916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

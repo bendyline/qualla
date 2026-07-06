@@ -57,5 +57,24 @@
     "sourceGeohash4": "qv70"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qv70-mv-koolama-flight-context.mp3",
+      "qv70-mv-koolama-intro.mp3",
+      "qv70-mv-koolama-built-for-a-different-world.mp3",
+      "qv70-mv-koolama-the-attack.mp3",
+      "qv70-mv-koolama-the-bay-that-took-her-name.mp3",
+      "qv70-mv-koolama-the-koolama-incident.mp3"
+    ],
+    "durations": {
+      "qv70-mv-koolama-flight-context.mp3": 43.0816666,
+      "qv70-mv-koolama-intro.mp3": 43.009,
+      "qv70-mv-koolama-built-for-a-different-world.mp3": 51.206625,
+      "qv70-mv-koolama-the-attack.mp3": 61.6042916,
+      "qv70-mv-koolama-the-bay-that-took-her-name.mp3": 53.46875,
+      "qv70-mv-koolama-the-koolama-incident.mp3": 59.8297083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

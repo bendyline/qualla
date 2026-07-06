@@ -1,0 +1,59 @@
+# Udayagiri and Khandagiri Caves
+
+Two hills on the outskirts of Bhubaneswar hold 33 rock-cut caves carved for Jain monks in the 1st century BCE - among them a tiger whose mouth is a doorway, a queen's double-storied palace, and an inscription that remains the single most important historical document of ancient Kalinga.
+
+**Location:** 20.2628, 85.7860
+
+**Categories:** caves, jainism, archaeology, inscription, odisha
+
+## Introduction
+
+You enter through the tiger's mouth. Vyaghra Gumpha - the Tiger Cave - has its entrance carved into the open jaws of a snarling predator, the single cell forming the beast's throat, the rock face shaped into fangs and a frozen roar. It is one of the most photographed spots in Odisha, and it was carved more than two thousand years ago as a private chamber for a city judge named Sabhuti. The inscription tells us so. That specificity - not just art but named ownership, individual identity preserved in stone - runs through the entire complex of Udayagiri and Khandagiri, two adjacent hills 3 kilometers south of Bhubaneswar. These 33 surviving caves, partly natural and partly hewn from the rock during the 1st century BCE, were carved primarily as residential quarters for Jain monks during the reign of King Kharavela of Kalinga. They are listed by the Archaeological Survey of India as "Must See" Indian Heritage, and the designation is earned: nowhere else in India does a single site combine Jain devotional art, royal propaganda, personal inscriptions, and some of the earliest narrative sculpture on the subcontinent.
+
+## The Queen's Double Story
+
+Rani Gumpha - the Cave of the Queen - is the largest in the complex, a double-storied monastery with three wings on each level. The lower floor opens through seven entrances in the central wing; above, nine columns support the upper story. The name suggests intimacy, but the scale is institutional: this was housing for a monastic community, not a royal residence. What makes Rani Gumpha remarkable is its decorative program. Relief panels connecting the central wing to the side wings depict wild animals, fruit-laden trees, women playing musical instruments, monkeys, and playful elephants in scenes that feel more joyous than ascetic. The upper story's central wing carries relief images of a king's victory march, political messaging carved into what was ostensibly a religious retreat. Pilasters bear torana arches decorated with scenes of both Jain religious significance and courtly life, blurring the line between spiritual authority and temporal power in ways that feel entirely deliberate.
+
+## The Elephant's Testimony
+
+Hathi Gumpha - the Elephant Cave - is a large natural cavern on the south side of Udayagiri hill, and what makes it extraordinary is not its architecture but its inscription. Seventeen lines of deeply incised Brahmi script cover the overhanging brow of the cave, recording the deeds of King Kharavela in the 2nd century BCE. This is the Hathigumpha inscription, and it is the single most important primary source for the history of ancient Kalinga. It begins with the Jain Namokar Mantra, venerating the Arihant and the Siddhas, then proceeds through a year-by-year account of Kharavela's reign: military campaigns, public works, religious patronage. The inscription records his feat of recovering the statue of the Agra-Jina, which had been taken away by the Nanda Empire - an act of cultural repatriation that served both piety and politics. The cave faces the rock edicts of Ashoka at Dhauli, roughly six miles away, a geographical coincidence that creates a kind of dialogue across centuries between two very different visions of power: Ashoka's remorse after the Kalinga War, and Kharavela's pride in Kalinga's resurgence.
+
+## Names in the Rock
+
+Beyond the Hathigumpha inscription, the caves are studded with smaller Brahmi inscriptions that read like a census of 1st-century BCE Kalinga society. The Mancapuri cave records that Kharavela's chief queen built a temple for the arhats and excavated caves for Jain monks - she is identified as Aga-mahisi, and her inscription calls Kharavela chakravartin, universal sovereign, of Kalinga. Another inscription in the same cave names Kudepasiri, apparently Kharavela's immediate successor, as overlord of Kalinga. Prince Badukha, son or brother of Kudepasiri, has his own cave. The city judge Sabhuti owned the Tiger Cave. Nayaki, wife of Mahamade, had the Jambesvara Gumpha. A minister of works named Chulakamma and his junior colleague each donated pavilions. These are not anonymous monuments. Each cave had an owner, a donor, a named human being whose identity mattered enough to carve into living rock. Two millennia later, we know their names.
+
+## Two Hills, Thirty-Three Worlds
+
+Udayagiri - Sunrise Hill - holds 18 caves and the better-preserved sculpture. Khandagiri, its companion, has 15 caves and offers something Udayagiri cannot: a summit view back over Bhubaneswar that places the entire modern city in the frame of ancient sacred geography. The Khandagiri caves were renovated centuries after their creation during the reign of Uddyotakeshari of the Somavamshi dynasty, and 11th-century sculptures of Jain Tirthankaras and their attendant Sasana Devis were added to several caves, layering medieval devotion onto ancient architecture. Ganesha Gumpha on Udayagiri features two large elephant statues flanking the entrance - the first known example in Indian art of sculptured animals serving as doorway guardians. Its interior walls narrate the elopement of Princess Bassavadatta of Ujjayini with King Udayana of Kausambi, a romantic tale carved into a monastic space with no apparent sense of contradiction. The Ananta Cave on Khandagiri depicts women, elephants, athletes, and geese carrying flowers. Throughout both hills, the caves range from grand double-storied complexes to cells so small they barely fit a single person. What unites them is purpose: each was carved as a place of withdrawal, contemplation, and the demanding Jain discipline of renunciation.
+
+## Flight Context
+
+Located at 20.263°N, 85.786°E, approximately 3 km south of central Bhubaneswar, Odisha. The twin hills of Udayagiri and Khandagiri are visible from altitude as two low rocky prominences rising from the otherwise flat terrain west of the city. Biju Patnaik International Airport (VEBS) lies roughly 6 km to the east-southeast. The caves face south and east, with the Hathigumpha inscription on Udayagiri's south face oriented toward Dhauli (the site of Ashoka's rock edicts) approximately 10 km to the southeast. Best viewed at lower altitudes where the rocky outcrops contrast with surrounding vegetation and urban development. The approach from the south offers the clearest perspective on the cave openings cut into the hillsides.
+
+## Sources
+
+- [Udayagiri and Khandagiri caves - Wikipedia](https://en.wikipedia.org/?curid=9906693)
+  - 33 surviving caves confirmed (18 on Udayagiri, 15 on Khandagiri)
+  - Caves 3 km south of Bhubaneswar confirmed
+  - 1st century BCE carving date confirmed
+  - Udayagiri means Sunrise Hill confirmed
+  - Rani Gumpha is largest cave, double-storied confirmed
+  - Hathigumpha inscription 17 lines in Brahmi script confirmed
+  - Kharavela's deeds recorded in year-by-year account confirmed
+  - Ganesha Gumpha first known sculptured animals as doorway guardians confirmed
+- [Wikipedia - Hathigumpha Inscription](https://en.wikipedia.org/wiki/Hathigumpha_inscription)
+  - Inscription records recovery of the Kalinga Jina statue taken by Nandaraja (Nanda dynasty)
+  - Kharavela dated 2nd century BCE confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-07 · 8 facts verified · 0 corrections
+
+Verified: 33 caves (18 Udayagiri, 15 Khandagiri), 3km from city, 1st century BCE, Rani Gumpha largest double-storied, 17-line Hathigumpha inscription, Kharavela statue recovery from Nanda dynasty. No factual errors found.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

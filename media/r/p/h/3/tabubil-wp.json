@@ -1,0 +1,39 @@
+{
+  "id": "tabubil-wp",
+  "patch": {
+    "media": {
+      "hero": {
+        "path": "_m/r/p/h/3/tabubil-wp/hero.png",
+        "filename": "Tabubil-world wind.png",
+        "caption": "NASA World Wind image of Tabubil, looking NW towards Ok Tedi Mine",
+        "alt": "NASA World Wind image of Tabubil, looking NW towards Ok Tedi Mine",
+        "width": 795,
+        "height": 663,
+        "mimeType": "image/png",
+        "license": "Public domain",
+        "artist": "NASA",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tabubil-world_wind.png",
+        "sourceType": "core",
+        "sourceArticleId": "tabubil-wp",
+        "sourceGeohash4": "rph3",
+        "categories": [
+          "Landsat images of Papua New Guinea",
+          "NASA World Wind",
+          "PD World Wind",
+          "Star Mountains"
+        ],
+        "smallPath": "_m/r/p/h/3/tabubil-wp/hero-small.webp"
+      },
+      "narration": [
+        "_m/r/p/h/3/tabubil-wp/rph3-tabubil-flight-context.mp3",
+        "_m/r/p/h/3/tabubil-wp/rph3-tabubil-intro.mp3",
+        "_m/r/p/h/3/tabubil-wp/rph3-tabubil-before-the-outside-world-arrived.mp3",
+        "_m/r/p/h/3/tabubil-wp/rph3-tabubil-a-camp-around-an-airstrip.mp3",
+        "_m/r/p/h/3/tabubil-wp/rph3-tabubil-living-in-the-wettest-town.mp3",
+        "_m/r/p/h/3/tabubil-wp/rph3-tabubil-a-company-town-mostly.mp3",
+        "_m/r/p/h/3/tabubil-wp/rph3-tabubil-walking-to-the-next-village.mp3"
+      ],
+      "combinedNarration": "_m/r/p/h/3/tabubil-wp/rph3-tabubil-combined.mp3"
+    }
+  }
+}

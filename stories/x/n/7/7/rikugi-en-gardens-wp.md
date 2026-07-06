@@ -1,0 +1,58 @@
+# Rikugi-en Gardens
+
+A 300-year-old Edo-period strolling garden in Tokyo where 88 miniature landscapes recreate scenes from classical waka poetry.
+
+**Location:** 35.7331, 139.7467
+
+**Categories:** Parks and gardens in Tokyo, Special Places of Scenic Beauty, Gardens in Tokyo, Edo period, Iwasaki family
+
+## Introduction
+
+Thirty-two stone markers still stand among the maples and pines of Rikugi-en, each inscribed with the name of a scene drawn from classical Japanese verse. When the feudal lord Yanagisawa Yoshiyasu laid out this garden between 1695 and 1702, he embedded 88 miniature landscapes within its paths and ponds, every one inspired by a famous poem or place from the waka tradition. The name itself announces the ambition: Rikugi-en means "Garden of the Six Principles," a reference to the six classical categories of waka poetry. Three centuries later, visitors still circle the central pond along trails that were designed not merely as scenery, but as poetry made physical.
+
+## A Shogun's Counselor and His Living Anthology
+
+Yanagisawa Yoshiyasu was no ordinary patron. As the trusted counselor of the fifth Tokugawa shogun, Tsunayoshi, he wielded enormous influence and was himself a serious student of literature. The garden he built on the grounds of his Komagome estate was a kaiyushiki-style promenade garden, designed for leisurely strolling around a central pond dotted with islets and connected by graceful bridges. Hills were sculpted to evoke famous mountain passes. Streams were channeled to recall celebrated rivers. Each element corresponded to a specific poetic reference, transforming the grounds into a three-dimensional anthology of Japan's literary heritage. The result was a masterwork of the daimyo garden tradition, a landscape shaped not by nature alone but by centuries of verse.
+
+## Neglect, Rescue, and Mitsubishi Money
+
+After Yanagisawa's death, the garden slipped into decades of neglect. Without its creator's literary vision guiding the pruning shears and water channels, the carefully composed scenes blurred into overgrowth. Rescue came from an unexpected quarter in 1878, when Iwasaki Yataro, the founder of the Mitsubishi industrial empire, purchased the property and began painstaking restoration. His younger brother and successor, Iwasaki Yanosuke, continued the work, though the gardens had already shrunk to roughly one-third of their original extent. In 1938, the Iwasaki family donated the property to the Tokyo city government, and in 1953 the Japanese government designated Rikugi-en a Special Place of Scenic Beauty, granting it the nation's highest level of landscape protection.
+
+## Seasons Written in Light
+
+Rikugi-en reveals different poems depending on the season. In spring, the weeping cherry tree near the main gate erupts into a cascade of pink blossoms that draws thousands of visitors in a single week. Autumn brings a slower transformation as the maples ringing the pond shift from green to amber to blazing crimson, their colors doubled in the still water below. During brief windows each spring and fall, the garden stays open until nine in the evening, its trees lit from below so that cherry blossoms glow like paper lanterns and autumn leaves seem to burn against the night sky. The illuminations have become one of Tokyo's most anticipated seasonal events, a modern tradition layered onto a garden that was always meant to be experienced through the senses.
+
+## A Pocket of Edo in Modern Tokyo
+
+Step through the gate from Komagome Station and the city vanishes. Traffic noise fades behind the garden's perimeter of dense trees. The central pond, called Tsutsuji-chaya, reflects sky and branches in a mirror broken only by koi and the occasional heron. Walking the full circuit takes about an hour at a contemplative pace, past stone lanterns, miniature hills, and viewing pavilions positioned at angles that Yanagisawa calculated for maximum poetic effect. The garden's roughly 88,000 square meters feel larger than they are, a testament to the spatial illusions built into its design. A teahouse serves matcha overlooking the water, offering visitors the same essential experience that Tokugawa-era guests enjoyed: sitting quietly, watching light move across a landscape that someone once composed as carefully as a poem.
+
+## Flight Context
+
+Located at 35.733N, 139.747E in the Bunkyo ward of northern Tokyo. From the air, the garden appears as a dark green rectangle amid dense urban development, with the central pond visible at lower altitudes. Komagome Station on the Yamanote Line sits immediately adjacent. Nearest major airport is Tokyo Haneda (RJTT), approximately 18 km south. Narita International (RJAA) lies 65 km to the northeast. Best viewed at 2,000-3,000 feet AGL for contrast between the garden canopy and surrounding cityscape.
+
+## Sources
+
+- [Rikugi-en Gardens - Wikipedia](https://en.wikipedia.org/?curid=14274947)
+  - garden created 1695-1702 by Yanagisawa Yoshiyasu
+  - counselor to fifth Tokugawa shogun Tsunayoshi
+  - 88 miniature landscapes from classical waka poetry
+  - purchased by Iwasaki Yataro in 1878
+  - donated to Tokyo city government in 1938
+  - designated Special Place of Scenic Beauty in 1953
+  - area approximately 88,000 square meters (actual 87,809 sq m)
+- [Rikugien Garden - Japan Guide](https://www.japan-guide.com/e/e3026.html)
+  - kaiyushiki-style promenade garden design confirmed
+  - spring weeping cherry and autumn maple illuminations are popular events
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 7 facts verified · 0 corrections
+
+All facts verified: created 1695-1702 by Yanagisawa Yoshiyasu under fifth Tokugawa shogun Tsunayoshi, 88 miniature landscapes from waka poetry, purchased by Iwasaki Yataro in 1878, donated to Tokyo 1938, Special Place of Scenic Beauty 1953. Area stated as 88000 sq meters -- actual is 87809 sq m, close enough. No material corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 710*
+*Read time: 4 minutes*

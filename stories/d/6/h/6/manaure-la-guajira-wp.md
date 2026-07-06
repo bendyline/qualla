@@ -1,0 +1,58 @@
+# Manaure, La Guajira
+
+A salt-encrusted town on Colombia's arid Guajira Peninsula where evaporation ponds have produced treasure for centuries and the Wayuu people fought for decades to reclaim their ancestral role in the industry.
+
+**Location:** 11.7750, -72.4444
+
+**Categories:** caribbean, colombia, mining, indigenous-culture, industrial-heritage, coastal
+
+## Introduction
+
+Before the Spanish ever arrived on the Guajira Peninsula, the Coanaos people were already trading salt for gold. They carried it from the coast near what is now Manaure, trekking south to the region of Valledupar, exchanging white crystals for yellow metal - a commerce older than any written record of it. Salt was the original currency of this coastline, and Manaure has never stopped producing it. Today the town sits on Colombia's northernmost Caribbean shore, surrounded by vast evaporation ponds that turn the landscape into a patchwork of white, pink, and electric blue stretching toward the horizon. The process is ancient in principle - sea water floods shallow lagoons, the relentless Guajira sun does the rest - but the scale became industrial in the twentieth century, and the politics of who controls that salt became a fight that lasted decades.
+
+## White Fields by the Sea
+
+Manaure occupies the arid coastal plain of the Guajira Peninsula, the northernmost point of South America. The landscape is flat, dry, and harsh. Xeric scrub vegetation survives on rainfall that arrives only in brief seasonal bursts, and the Limon Creek - the only watercourse of note - cuts through the municipality before emptying into the Caribbean. The coastline itself is where the magic happens: high concentrations of salt in the rocks and clay, combined with shallow tidal lagoons, create natural conditions for salt crystallization. At Honda Bay and Quebrada Bay, the sea has been depositing salt into naturally formed lagoons for millennia. The evaporation ponds visible from the air are not entirely human-made; they are human-improved versions of a geological process that was already underway. The salt flats shimmer in the heat, their colors shifting with the depth of the brine and the angle of the light - an industrial landscape that somehow manages to be beautiful.
+
+## From Artisan Scoops to a Million Tons
+
+For centuries, salt collection at Manaure was artisanal work: people scooped crystals from natural lagoons by hand. In 1777, the Spanish colonial government formalized control, ordering administration of what it called the Salinas. After independence, the Colombian government declared the salt mines national patrimony in 1824 and imposed price controls. Industrial-scale production began in the 1920s, when the government granted concessions to private investors. The shift from hand-gathering to mechanized extraction accelerated through the 1940s, and by 1948 Manaure was producing between 20,000 and 30,000 tons of salt per year. Then came the real transformation: in 1970, the concession was transferred to IFI-Concesion Salinas, and production surged to one million tons annually. Manaure had gone from a place where families gathered salt in baskets to one of the largest salt-producing operations in South America, all driven by the same fundamental asset - relentless equatorial sun, shallow Caribbean brine, and flat land that seems purpose-built for evaporation.
+
+## The Wayuu Claim
+
+The Wayuu people had been harvesting salt from this coast long before any European administration existed. When industrial production ramped up, the Wayuu were increasingly marginalized from an industry built on their ancestral land. In 1991, the Colombian government formally recognized the Wayuu claim and agreed to restructure the salt operation as a mixed economy, granting the indigenous community 25% of the company's shares. The agreement was not honored. The Wayuu sued in 1994, and a court ordered the creation of Sociedad Salinas de Manaure, known as SAMA, based on the original terms. Legal complications stalled implementation again. It took until 2002, when Law 773 finally reestablished SAMA with a clear ownership split: the Ministry of Development held 51%, the indigenous association Sumain Ichi received 25%, and the municipality of Manaure got the remaining 25%. The decades-long struggle was not simply about money - it was about recognition that the salt belonged to the people who had traded it for gold centuries before any colonial bureaucrat drew up a concession.
+
+## Life on the Driest Edge
+
+Manaure is not a place that invites casual visitors. The heat is constant, the landscape severe, and the town itself is small and functional rather than picturesque. But there is a stark beauty to the place that rewards those who come looking. The salt ponds stretch for kilometers, their colors shifting through shades of turquoise, rose, and white depending on salinity and bacterial communities in the brine. Wayuu communities maintain their traditional way of life in rancherias scattered across the surrounding desert, weaving the vivid mochilas and chinchorro hammocks that have become symbols of Colombian indigenous craftsmanship. The Caribbean Sea, visible from almost everywhere in town, provides a constant blue edge to the whiteness of the salt flats. At the intersection of indigenous tradition, industrial ambition, and natural wonder, Manaure is a place where the earth gives up its mineral wealth under an unforgiving sun, and the people who live here have learned to make that harshness into a livelihood.
+
+## Flight Context
+
+Located at 11.78N, 72.44W on Colombia's Guajira Peninsula, the northernmost point of South America. No commercial airport in Manaure itself; nearest airports are Almirante Padilla Airport (SKRH) in Riohacha approximately 80km southwest, and Jorge Isaacs Airport (SKLG) near Maicao. From altitude, the salt evaporation ponds are the most distinctive feature - large geometric patterns of white, pink, and blue lagoons visible along the coastline. The flat, arid terrain of the Guajira-Barranquilla xeric scrub is unmistakable from above, contrasting sharply with the Caribbean Sea to the north. Best viewed at 3,000-8,000 feet to appreciate the scale of the salt flats against the desert landscape.
+
+## Sources
+
+- [Manaure, La Guajira - Wikipedia](https://en.wikipedia.org/?curid=9445326)
+  - Pre-colonial salt trade by Coanaos people confirmed
+  - Spanish colonial government formalized control in 1777 confirmed
+  - Colombian government declared salt mines national patrimony in 1824 confirmed
+  - Industrial production began with concessions in 1920s confirmed
+  - Production 20,000-30,000 tons per year by 1948 confirmed
+  - IFI-Concesion Salinas concession transferred 1970, production reaching 1 million tons confirmed
+  - 1991 government recognition of Wayuu claim and 25% share agreement confirmed
+  - 1994 lawsuit and court order confirmed
+  - Law 773 of 2002 creating SAMA confirmed
+  - Ownership split: 51% Ministry of Development, 25% Sumain Ichi, 25% municipality confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-12 · 10 facts verified · 0 corrections
+
+Facts verified: pre-colonial salt trade, Spanish colonial 1777, national patrimony 1824, industrial expansion 1920s, production figures, Wayuu claim 1991, SAMA Law 773 2002, ownership split confirmed. All accurate.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

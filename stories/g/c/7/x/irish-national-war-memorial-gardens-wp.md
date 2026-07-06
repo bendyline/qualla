@@ -1,0 +1,64 @@
+# Irish National War Memorial Gardens
+
+Designed by Sir Edwin Lutyens and twice bombed by Republican paramilitaries, this memorial to the 49,400 Irish soldiers killed in World War I was not formally dedicated until 1988 -- seventy years after the Armistice.
+
+**Location:** 53.3440, -6.3170
+
+**Categories:** war-memorials, gardens, irish-history, world-war-one
+
+## Introduction
+
+For half a century, Ireland tried to forget 49,400 of its own dead. The Irish National War Memorial Gardens in Islandbridge, designed by the greatest war memorialist of the age, was bombed, neglected, used as a rubbish dump, and left to decay -- not because anyone disputed the sacrifice, but because remembering Irish soldiers who died fighting for Britain was politically unbearable in a nation that had won its independence from Britain at roughly the same time. The gardens were not formally dedicated until 1988, seventy years after the guns fell silent on the Western Front.
+
+## Lutyens on the Liffey
+
+Sir Edwin Lutyens, who designed the Cenotaph in London and oversaw the vast cemeteries of the Western Front, was commissioned to create the Dublin memorial. He chose a 60-acre site along the south bank of the River Liffey, between Islandbridge and Chapelizod, and designed one of his most ambitious landscapes: a central sunken rose garden, terraces and pergolas, avenues of parkland trees, and four granite book rooms representing the four provinces of Ireland. Inside those book rooms, eight illuminated volumes of Ireland's Memorial Records record the names of every Irish soldier who died, each page bordered with artwork by the stained-glass master Harry Clarke. The cases holding these volumes were designed by Lutyens himself. It is among the most beautiful war memorials anywhere, and for decades almost nobody saw it.
+
+## The Forgetting
+
+The political climate in the new Irish state made honoring service in the British Army deeply uncomfortable. Commemoration events in the late 1940s and 1950s drew some crowds, but the gardens were never formally opened. Republican paramilitaries bombed the Stone of Remembrance on Christmas night 1956; the County Wicklow granite withstood the blast with only minor damage. A second bombing in October 1958 also failed to bring the memorial down. What the bombs could not accomplish, neglect nearly did. Without government funding, the gardens deteriorated through the 1960s and 1970s until, by the end of that decade, parts of the site had been taken over by caravans and Dublin Corporation was using it as a city rubbish dump. Structural damage from fifty years of storms went unrepaired.
+
+## Reckoning and Restoration
+
+In the mid-1980s, a shift began. Ireland's economic and cultural landscape was changing, and the rigid nationalist narrative that had excluded the memory of Irish soldiers in British service started to soften. The Office of Public Works, co-funded by the National War Memorial Committee, undertook a restoration that returned the gardens to Lutyens's original vision. On September 10, 1988, representatives of Ireland's four main churches formally dedicated the site -- completing a ceremony that should have taken place half a century earlier. The restoration was painstaking: rose gardens replanted, granite cleaned, pergolas rebuilt, and the great cross above the Stone of Remembrance restored to its commanding position over the Liffey.
+
+## A Queen at the Stone of Remembrance
+
+The emotional climax of the gardens' rehabilitation came on May 18, 2011, when Queen Elizabeth II and President Mary McAleese laid wreaths together to honor Ireland's war dead -- the first state visit by a British monarch to the Irish Republic. The ceremony was laden with the weight of a history that both nations had struggled to acknowledge honestly. In 2016, the centenary of the Battle of the Somme was marked at the gardens with President Michael D. Higgins laying a wreath. The Ginchy Cross -- a wooden oak cross built by the 16th (Irish) Division and originally erected on the Somme to commemorate 4,354 men who died in two engagements -- is housed in one of the book rooms, alongside granite replicas that stand at Guillemont, Wytschaete, and Thessaloniki.
+
+## Sixty Acres of Reconciliation
+
+Today the gardens serve a purpose that goes beyond remembrance. They have become a site of reconciliation, a place where Ireland can acknowledge the complexity of its own past. Over 206,000 Irishmen served in British forces during the First World War -- a staggering number for an island that was simultaneously moving toward revolution against British rule. The memorial does not resolve that contradiction. It simply holds it, in granite and roses, in Harry Clarke's illuminated borders and Lutyens's perfectly proportioned terraces. A new bridge over the Liffey, partially fulfilling Lutyens's original plan, began construction in late 2025, connecting the gardens more directly to the surrounding city and ensuring that Ireland's forgotten soldiers will not be forgotten again.
+
+## Flight Context
+
+The Irish National War Memorial Gardens are located at 53.344N, 6.317W along the south bank of the River Liffey in Islandbridge, Dublin. From altitude, the 60-acre site is visible as a formal garden complex with distinctive circular features (the sunken rose garden) and tree-lined avenues parallel to the river. Nearest airports: Dublin Airport (EIDW) 12km northeast, Casement Aerodrome (EIME) 7km southwest.
+
+## Sources
+
+- [Irish National War Memorial Gardens - Wikipedia](https://en.wikipedia.org/?curid=8951423)
+  - Dedicated to 49,400 Irish soldiers killed in WWI verified
+  - Designed by Sir Edwin Lutyens confirmed
+  - 60-acre site along south bank of River Liffey confirmed
+  - Harry Clarke artwork in illuminated volumes confirmed
+  - Stone of Remembrance bombed Christmas night 1956 confirmed
+  - Second bombing October 1958 confirmed
+  - Formally dedicated September 10, 1988 confirmed
+  - Queen Elizabeth II and President McAleese laid wreaths May 18, 2011 confirmed
+  - Corrected: Ginchy Cross replica location 'Messines' changed to 'Wytschaete' — granite replicas stand at Guillemont, Wytschaete, and Thessaloniki
+- [16th (Irish) Division - Wikipedia](https://en.wikipedia.org/wiki/16th_(Irish)_Division)
+  - Ginchy Cross built by 16th Irish Division confirmed
+  - Granite replica locations: Guillemont (France), Wytschaete (Belgium), Thessaloniki (Greece)
+
+## Review Notes
+
+**Reviewed:** 2026-03-17 · 8 facts verified · 1 correction
+
+Corrected Ginchy Cross replica location from 'Messines' to 'Wytschaete' — replicas are at Guillemont (France), Wytschaete (Belgium), and Thessaloniki (Greece). All other facts confirmed: 49400 soldiers, 60 acres, Lutyens design, Harry Clarke volumes, bombings 1956 and 1958, dedication Sep 10 1988, Queen Elizabeth visit May 18 2011. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 800*
+*Read time: 4 minutes*

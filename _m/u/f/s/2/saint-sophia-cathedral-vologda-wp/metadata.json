@@ -542,5 +542,24 @@
     "_m/u/f/s/2/saint-sophia-cathedral-vologda-wp/be-masha.jpg",
     "_m/u/f/s/2/saint-sophia-cathedral-vologda-wp/saint-sophia-cathedral-vologda.jpg"
   ],
-  "updatedAt": "2026-04-01T06:27:01.533Z"
+  "updatedAt": "2026-04-01T06:27:01.533Z",
+  "narration": {
+    "files": [
+      "ufs2-saint-sophia-cathedral-vologda-flight-context.mp3",
+      "ufs2-saint-sophia-cathedral-vologda-intro.mp3",
+      "ufs2-saint-sophia-cathedral-vologda-the-tsars-northern-capital.mp3",
+      "ufs2-saint-sophia-cathedral-vologda-frescoes-that-survived-the-centuries.mp3",
+      "ufs2-saint-sophia-cathedral-vologda-bells-with-names.mp3",
+      "ufs2-saint-sophia-cathedral-vologda-a-view-from-the-observation-deck.mp3"
+    ],
+    "durations": {
+      "ufs2-saint-sophia-cathedral-vologda-flight-context.mp3": 37.408625,
+      "ufs2-saint-sophia-cathedral-vologda-intro.mp3": 48.7709166,
+      "ufs2-saint-sophia-cathedral-vologda-the-tsars-northern-capital.mp3": 59.6330833,
+      "ufs2-saint-sophia-cathedral-vologda-frescoes-that-survived-the-centuries.mp3": 59.280625,
+      "ufs2-saint-sophia-cathedral-vologda-bells-with-names.mp3": 58.31975,
+      "ufs2-saint-sophia-cathedral-vologda-a-view-from-the-observation-deck.mp3": 68.116
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1,0 +1,62 @@
+# San Diego (ship)
+
+A Spanish galleon that sank without firing a shot in 1600, then yielded over 34,000 artifacts when rediscovered nearly four centuries later off the Philippine coast.
+
+**Location:** 14.0600, 120.4940
+
+**Categories:** 16th-century ships, Galleons of Spain, Shipwrecks in the Philippine Sea, history, maritime
+
+## Introduction
+
+She was built to carry cargo, not to fight. The San Antonio -- a trading vessel constructed in Cebu under the supervision of European boat-builders -- sat in the port of Cavite undergoing repairs when, at the end of October 1600, the Vice-Governor General of the Philippines ordered her transformed into a warship. Don Antonio de Morga had the ship rechristened San Diego, loaded with 14 cannons pulled from Manila's fortress, packed with 450 men, and sent to intercept a Dutch fleet that was threatening Philippine waters. Six weeks later, the San Diego lay on the seabed 50 kilometers southwest of Manila, sunk without having fired a single cannon in return. Nearly four centuries would pass before anyone found her again.
+
+## A Fatal Miscalculation
+
+The Spanish fleet sailed from Cavite on December 12, 1600 -- two ships supported by smaller native boats, with Morga in personal command. On the morning of December 14, in strong wind and heavy seas near Fortune Island off Nasugbu, they engaged the Dutch warship Mauritius under Admiral Olivier van Noort. By every obvious measure, the Spanish held the advantage. The San Diego was four times larger than the Mauritius, carried more men, and bristled with heavy guns. But Morga had made a catastrophic error. He had filled the ship with soldiers, weapons, and munitions while neglecting to add sufficient ballast, leaving the vessel riding high and unstable. Worse, the gun ports had been widened for greater firing range, and the overloaded ship listed so badly that these enlarged openings sat at or below the waterline. Seawater poured in through the very holes meant to deliver the killing blow.
+
+## Sinking Like a Stone
+
+Whether the first cannonball from the Mauritius breached the hull, or the San Diego sprang a leak from the force of ramming the Dutch ship at full speed, the result was the same: the galleon began taking water she could not shed. Morga, by most accounts inexperienced in naval combat, failed to issue coherent orders to save his vessel. When he commanded his men to cast off from the burning Mauritius, the San Diego went down rapidly -- contemporary accounts say she sank "like a stone." The Dutch were reported firing upon survivors and hurling lances at those trying to climb aboard the Mauritius. Morga survived and later wrote his version of events in Sucesos de las Islas Filipinas, casting himself as the battle's hero. Olivier van Noort published a rather different account.
+
+## Resurrection from the Seabed
+
+For 392 years, the San Diego rested undisturbed in roughly 50 meters of water near Fortune Island, outside Manila Bay. In 1992, French underwater archaeologist Franck Goddio and his team found her -- a sand-covered mound 25 meters long, 8 meters wide, and 3 meters high on the seafloor. A bronze cannon protruding from the sand bore the inscription "Philip II," confirming the wreck's identity. What followed was a painstaking recovery effort involving a team of 50 specialists and modern underwater technology. Historian Patrick Lize had already spent years in the archives of Seville, Madrid, and the Netherlands, assembling testimony from 22 survivors, memoirs from two Manila priests, and inventories of the ship's weapons and provisions. Together, the archaeological and archival evidence reconstructed the battle with a clarity that neither Morga's self-serving memoir nor van Noort's account had achieved alone.
+
+## A Time Capsule of Global Trade
+
+The 34,407 artifacts recovered from the wreck read like a manifest of the early modern world's interconnected trade networks. More than 500 blue-and-white Chinese ceramics -- plates, dishes, bottles, kendis, and boxes from the Wan Li period of the Ming dynasty -- sat alongside over 750 stoneware jars from China, Thailand, Burma, and Spain or Mexico. Japanese samurai sword parts mingled with European musket fragments. Fourteen bronze cannons of varying sizes lay near stone and lead cannonballs. Navigational instruments included a compass and a maritime astrolabe, precision tools that guided ships across oceans. Silver coins, iron anchors, even animal bones and seed remains -- prunes, chestnuts, coconut -- painted a picture of daily life aboard a vessel that was simultaneously Spanish warship, Asian trading post, and floating community. Morga's personal seal was among the recoveries, a small bureaucratic artifact amid the grandeur.
+
+## Preserving the Evidence
+
+Bringing artifacts from seabed to museum is a race against chemistry. Once removed from the stable conditions of the ocean floor, waterlogged objects begin to deteriorate immediately. The San Diego's conservation team faced soluble salts that promote physical damage, bacteria and fungi that break down organic materials, active corrosion on metal artifacts, and thick concretions encasing fragile ceramics. Every recovered piece was desalinated. Concretions were removed mechanically, then chemically cleaned. Objects were stabilized to prevent further corrosion. The majority of ceramic wares survived intact, a testament both to Ming dynasty craftsmanship and to the sand that had blanketed them for centuries. The collection toured the world before finding a permanent home at the National Museum of the Filipino People in Manila, with additional displays at the Naval Museum in Madrid -- the wreck of a Spanish ship, built in the Philippines, carrying Asian goods, sunk by the Dutch, recovered by the French, and now shared between two nations.
+
+## Flight Context
+
+The San Diego wreck site lies at approximately 14.06N, 120.49E, near Fortune Island off Nasugbu, Batangas, about 50 km southwest of Manila. Fortune Island is visible as a small landmass off the Batangas coast. Nearest major airport is Ninoy Aquino International (RPLL) in Manila. The waters between Manila Bay and Batangas province provide the context for this naval engagement. Best viewed at 5,000-8,000 feet to see the relationship between Fortune Island, the coastline, and Manila Bay to the north.
+
+## Sources
+
+- [San Diego (ship) - Wikipedia](https://en.wikipedia.org/?curid=6692362)
+  - Ship originally named San Antonio confirmed
+  - Battle December 14 1600 confirmed
+  - Dutch ship Mauritius under Olivier van Noort confirmed
+  - 34,407 artifacts recovered confirmed
+  - Discovered 1992 by Franck Goddio confirmed
+  - 50 meters depth confirmed
+  - Bronze cannon inscribed Philip II confirmed
+  - Corrected: collection at National Museum of the Filipino People (not National Museum of Anthropology)
+- [Treasures of San Diego - National Museum of the Philippines](https://www.nationalmuseum.gov.ph/our-collections/maritime-and-underwater-cultural-heritage/treasures-of-san-diego/)
+  - Artifacts held at National Museum of the Filipino People confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-29 · 10 facts verified · 1 correction
+
+Corrected: museum renamed to National Museum of the Filipino People (not National Museum of Anthropology). Verified: San Antonio original name, Dec 14 1600 battle, Mauritius under Olivier van Noort, 34407 artifacts, discovered 1992 by Franck Goddio, 50m depth, Philip II cannon inscription. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

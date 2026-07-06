@@ -1,0 +1,63 @@
+# Tombstone: The Town Too Tough to Die
+
+The silver mining town where the Gunfight at the O.K. Corral lasted 30 seconds in 1881, where Wyatt Earp became legend, and where daily reenactments keep the Old West alive for tourist dollars.
+
+**Location:** 31.7129, -110.0676
+
+**Categories:** arizona, tombstone, town, old-west, history
+
+## Introduction
+
+The Gunfight at the O.K. Corral lasted approximately 30 seconds on October 26, 1881. When it was over, three members of the Clanton-McLaury gang were dead, and Wyatt Earp, his brothers, and Doc Holliday had created the most famous shootout in Western history. The gunfight wasn't at the O.K. Corral - it was in a vacant lot nearby - and the causes were complicated (mining claim disputes, cattle rustling, personal grudges). But the 30-second gunfight made Tombstone immortal. The silver mines that created the town played out by the 1890s; the population crashed from 15,000 to fewer than 1,000. Tombstone survived by selling its history, calling itself 'The Town Too Tough to Die.' Daily reenactments, boardwalk shootouts, and costumed 'gunfighters' create a Wild West theme park that happens to be a real place.
+
+## The Gunfight
+
+The Earp brothers - Wyatt, Virgil, and Morgan - had been feuding with the Clanton and McLaury families for months. The tensions involved cattle rustling, law enforcement jurisdiction, and personal animosity. On October 26, 1881, Town Marshal Virgil Earp led his brothers and Doc Holliday to confront the cowboys near the O.K. Corral. Someone (disputed who) drew first. In 30 seconds, approximately 30 shots were fired. Billy Clanton and Tom and Frank McLaury died; Virgil and Morgan Earp were wounded. Wyatt and Holliday escaped injury. The shootout wasn't heroic law enforcement against outlaws - it was a messy personal feud that ended in killing. The legend simplified the story; the reality was complicated.
+
+## Wyatt Earp's Tombstone
+
+Wyatt Earp arrived in Tombstone in 1879, following the silver boom. He worked as a shotgun messenger, dealt faro, and acquired mining interests. His brothers came too; their complicated legal and extralegal activities entangled them with local ranchers and cowboys. After the O.K. Corral, Wyatt faced murder charges (later dropped). When Morgan was assassinated in 1882, Wyatt launched a vendetta ride, killing men he believed responsible before fleeing Arizona Territory ahead of his own murder warrants. Earp spent decades in obscurity before becoming a legend in his final years, consulting on films and cultivating a heroic narrative. He died in Los Angeles in 1929, famous for 30 seconds of violence 48 years earlier.
+
+## The Silver Town
+
+Ed Schieffelin discovered silver near the San Pedro River in 1877; the rush that followed created Tombstone almost overnight. By 1881, the town had 110 saloons, 14 gambling halls, and a population approaching 15,000 - the largest city between St. Louis and San Francisco, some claimed. The silver production was enormous; the mines were among the richest in the West. Then the shafts hit groundwater in the mid-1880s. Pumping couldn't keep up; the mines flooded and closed. Tombstone's population collapsed; the town nearly died. But Tombstone refused to disappear, becoming a tourist destination by the early 1900s, its violent past more valuable than its silver deposits.
+
+## The Show Must Go On
+
+Tombstone reenacts the Gunfight at the O.K. Corral multiple times daily. Actors in period costume stage shootouts on Allen Street; the Historama presents wax figures and narration. Boot Hill Cemetery contains the graves of those killed in the gunfight and other frontier violence (some markers read simply 'HANGED' or 'KILLED BY INDIANS'). The Bird Cage Theatre, a former saloon and brothel, offers tours of the building where 26 people were killed. The Big Nose Kate Saloon still serves drinks. Everything in Tombstone is for sale - the Old West experience, manufactured for tourists who want to believe in a simpler time of good guys and bad guys that never quite existed.
+
+## The Town Too Tough to Die
+
+Tucson International Airport (TUS) is 70 miles northwest, the closest commercial airport. Tombstone is a day trip from Tucson or a stop on Route 80 through southeastern Arizona. The town covers a few blocks; everything is walkable. The O.K. Corral site charges admission for its reenactments and museum. The surrounding Dragoon Mountains and Coronado National Forest offer hiking and history - this was Apache territory, where Cochise and Geronimo fought the U.S. Army. From altitude, Tombstone appears as a tiny cluster of buildings in the desert grasslands - the San Pedro Valley visible, the Dragoon Mountains rising to the east - the town that turned 30 seconds of violence into an eternal industry.
+
+## Flight Context
+
+Located at 31.71°N, 110.07°W in the San Pedro Valley of southeastern Arizona, 70 miles southeast of Tucson. From altitude, Tombstone appears as a tiny settlement in desert grasslands - the historic downtown visible, the Dragoon Mountains to the east, the San Pedro River to the west. What appears from the air as a speck in the Arizona desert is the Town Too Tough to Die - where the O.K. Corral gunfight created America's most famous frontier legend, and where the show hasn't stopped since.
+
+## Sources
+
+- [Gunfight at the O.K. Corral - Wikipedia](https://en.wikipedia.org/wiki/Gunfight_at_the_O.K._Corral)
+  - October 26 1881
+  - 30 seconds duration
+  - vacant lot near corral
+- [Wyatt Earp - Wikipedia](https://en.wikipedia.org/wiki/Wyatt_Earp)
+  - died 1929 Los Angeles
+  - vendetta ride 1882
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 10 facts verified · 0 corrections
+
+Verified: Oct 26 1881, 30 seconds, vacant lot location, Wyatt Earp died 1929, Ed Schieffelin 1877.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- The Town Too Tough to Die
+- Everything in Tombstone is for sale - the Old West experience, manufactured for tourists
+
+---
+
+*Word count: 880*
+*Read time: 5 minutes*

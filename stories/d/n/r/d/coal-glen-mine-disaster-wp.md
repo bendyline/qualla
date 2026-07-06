@@ -1,0 +1,63 @@
+# Coal Glen Mine Disaster
+
+On May 27, 1925, three explosions ripped through a coal mine in Chatham County, North Carolina, killing at least 53 miners in the deadliest industrial disaster in the state's history and leaving a community halved overnight.
+
+**Location:** 35.5578, -79.2089
+
+**Categories:** mining-disaster, industrial-history, north-carolina, memorial
+
+## Introduction
+
+The first blast came at dawn. On May 27, 1925, an improperly set blasting charge in the Carolina Coal Company mine at Coal Glen, North Carolina, failed to collapse the coal rock it was aimed at. Instead, it blew the contents of its drill hole outward in a cloud of coal dust that ignited instantly. Two more explosions followed. Every man underground died. Their team of mules died with them. Above ground, the mine superintendent was injured and the shaft entrance buried in debris. By the time the smoke cleared from Chatham County's Deep River valley, at least 53 miners were dead, 38 women were widowed, and 79 children had lost their fathers. It was the deadliest industrial disaster in North Carolina history, and it happened in a state most people do not associate with coal mining at all.
+
+## Coal in Carolina
+
+The Deep River Coal Field is North Carolina's largest coal deposit, a geological oddity in a state better known for tobacco and cotton. Local residents had been digging coal from the area since the 1770s. Commercial mining began in the 1850s near the settlement of Egypt, later renamed Cumnock, with rail connections to the Cape Fear River port of Fayetteville. Around 1921, the Carolina Coal Company opened a new mine at Coal Glen, a small community in Chatham County. The mine was equipped with a ventilation system, but on May 26, the day before the disaster, workers observed signs of firedamp buildup, the dangerous accumulation of methane gas that has haunted miners for centuries. The warnings went unheeded.
+
+## Three Blasts at Dawn
+
+About 70 miners were working the morning shift when the explosions occurred. Two blasting charges had been set in the mine face. One failed to fully detonate. The single functional charge was not powerful enough to do its job. Instead of collapsing rock, it scattered coal dust from its drill hole, and that dust ignited in a chain reaction that tore through the tunnels. The first explosion killed everyone underground. The second and third blasts injured the superintendent on the surface and blocked the mine shaft with rubble. Seven workers who had been scheduled for the shift but were not yet underground survived only through the accident of running late. The United States Bureau of Mines dispatched a railway car of rescue equipment from Thomas, West Virginia. Governor Angus Wilton McLean ordered troops from Fort Bragg to the scene and authorized rescue equipment to be flown into nearby Sanford. Recovery efforts, led by State Adjutant-General John Van Bokkelen Metts, ended on the evening of May 30.
+
+## The Missing Count
+
+The Chatham County recorder of deeds issued 53 death certificates, but the true number of dead may never be known. Contemporary newspaper reports offered higher counts. Local publications noted that several bodies were recovered in the months after the explosion and buried quietly. Researcher Forest Hazel pointed out that many of the miners were unmarried men, some of whom may never have been reported missing. About half the men killed were white, the other half Black. The mules that worked alongside them were left underground where they fell. The disaster cut Coal Glen's adult population roughly in half overnight.
+
+## A Town Left Behind
+
+Governor McLean asked the public to raise $35,000 in relief funds and called on the American Red Cross. When a delegation from Sanford found this response inadequate, they traveled to Raleigh and convinced the governor to appoint a committee for a statewide fundraising campaign. Carolina Coal Company president John R. McQueen placed the corporation into receivership and arranged payouts to the affected families. No lawsuits were filed. Federal and state investigators confirmed that the blasting charges had been improperly placed, in violation of North Carolina's mining regulations. Carolina Coal Company board member Bion Butler maintained that gas was not a factor, though the firedamp warnings from the day before suggested otherwise.
+
+## Legacy Carved in Stone
+
+The Coal Glen disaster's most lasting impact came four years later, when the North Carolina General Assembly passed a workers' compensation law in 1929, driven in part by the memory of 53 families left without breadwinners and without legal recourse. The mine itself continued operating under new management until 1953, when it closed permanently. The Deep River eventually flooded the shaft, and the mine entrance now sits on land owned by the General Timber Corporation. In 2017, a state historical marker was dedicated at US 15/US 501 and Walter Bright Road, finally giving the disaster a permanent place in the landscape. In April 2025, the Heart of Deep River Historical Society presented an exhibition about the disaster at Cumnock Union Church, keeping alive the memory of the men who went underground one spring morning and never came back up.
+
+## Flight Context
+
+Located at 35.558N, 79.209W in rural Chatham County, North Carolina, in the Deep River valley. The area is heavily forested with few distinguishing features from the air. Best viewed at 2,000-3,000 feet AGL. Sanford-Lee County Regional Airport (KTTA) is approximately 8 nm south-southwest. Raleigh-Durham International Airport (KRDU) is approximately 30 nm northeast. US 15/US 501 runs through the area and serves as a visual reference. The Deep River meanders through the valley below.
+
+## Sources
+
+- [Coal Glen mine disaster - Wikipedia](https://en.wikipedia.org/?curid=10862721)
+  - May 27, 1925 date confirmed
+  - 53 death certificates issued
+  - deadliest industrial disaster in North Carolina history
+  - three explosions confirmed
+  - firedamp warnings ignored day before
+  - approximately 70 miners underground when explosions occurred
+- [Coal Glen Mine Disaster - NC DNCR](https://www.dncr.nc.gov/blog/2023/12/28/coal-glen-mine-disaster-h-123)
+  - Bureau of Mines rescue equipment dispatched from Thomas, West Virginia
+  - Governor McLean ordered troops from Fort Bragg
+  - 38 women widowed, 79 children lost fathers
+  - NC workers compensation law passed 1929
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 9 facts verified · 0 corrections
+
+Facts verified: May 27, 1925 date confirmed, three explosions confirmed, 53 death certificates confirmed, deadliest industrial disaster in NC history confirmed, ~70 miners underground confirmed, Bureau of Mines equipment dispatched from Thomas WV confirmed, Governor McLean ordered troops from Fort Bragg confirmed, 38 widowed, 79 children without fathers confirmed, NC workers compensation law 1929 confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 820*
+*Read time: 4 minutes*

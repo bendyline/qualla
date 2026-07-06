@@ -886,5 +886,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sv30-wadi-rum-flight-context.mp3",
+      "sv30-wadi-rum-intro.mp3",
+      "sv30-wadi-rum-stone-and-sand-deep-time.mp3",
+      "sv30-wadi-rum-inscriptions-in-the-rock.mp3",
+      "sv30-wadi-rum-hollywoods-favorite-desert.mp3",
+      "sv30-wadi-rum-bedouin-roads-and-bolt-routes.mp3"
+    ],
+    "durations": {
+      "sv30-wadi-rum-flight-context.mp3": 53.4838333,
+      "sv30-wadi-rum-intro.mp3": 56.296625,
+      "sv30-wadi-rum-stone-and-sand-deep-time.mp3": 74.8784166,
+      "sv30-wadi-rum-inscriptions-in-the-rock.mp3": 67.8610416,
+      "sv30-wadi-rum-hollywoods-favorite-desert.mp3": 65.486875,
+      "sv30-wadi-rum-bedouin-roads-and-bolt-routes.mp3": 69.6438333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

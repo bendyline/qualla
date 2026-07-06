@@ -1,0 +1,59 @@
+# Aoyama Cemetery
+
+Tokyo's first public cemetery, where seven prime ministers, the inventor of cultured pearls, an Olympic equestrian gold medalist, and a famously loyal Akita dog named Hachiko rest beneath some of the city's finest cherry blossoms.
+
+**Location:** 35.6660, 139.7223
+
+**Categories:** cemetery, tokyo, cherry-blossoms, meiji-era, cultural-landmark
+
+## Introduction
+
+Every spring, something unusual happens in the Minato ward of central Tokyo. Thousands of people spread blankets on the ground, unpack bento boxes, and raise glasses of sake -- not in a park, but in a cemetery. Aoyama Cemetery's long central avenue is lined with hundreds of cherry trees, and during hanami season the living flock here to picnic among the dead. It is one of Tokyo's most beloved blossom-viewing spots, a place where the fleeting beauty of sakura and the permanence of stone monuments share the same ground. Established in 1874 on land that once belonged to the Aoyama family of the Gujo clan from Mino Province, this 263,564-square-meter burial ground became Japan's first public cemetery and, during the Meiji era, the primary resting place for the foreign advisors, engineers, and missionaries who helped build modern Japan.
+
+## Seven Prime Ministers and a Pearl King
+
+The roll call of occupants reads like a syllabus of modern Japanese history. Seven prime ministers lie here: Kuroda Kiyotaka, Kato Tomosaburo, Yamamoto Gonnohyoe, Osachi Hamaguchi, Inukai Tsuyoshi, Kuniaki Koiso, and Shigeru Yoshida -- whose four non-consecutive terms shaped postwar Japan more than almost any other leader. Nearby rests Okubo Toshimichi, the samurai-turned-statesman who helped engineer the Meiji Restoration itself. General Nogi Maresuke, the legendary military commander and governor-general of Taiwan, is here. So is Nishi Takeichi, an Imperial Japanese Army officer who won equestrian gold at the 1932 Los Angeles Olympics and later died defending Iwo Jima. Kokichi Mikimoto, the entrepreneur who invented the technique for cultivating pearls and built a global luxury empire, shares the grounds with Kitasato Shibasaburo, the pioneering bacteriologist who co-discovered the plague bacillus. Writers Shiga Naoya and Doppo Kunikida rest alongside science fiction author Shinichi Hoshi. The famous city pop singer Miki Matsubara is buried here too, though the exact location of her grave remains undisclosed.
+
+## The Foreigners Who Built Modern Japan
+
+A quieter section at the cemetery's edge holds a different kind of history. The gaikokujin bochi -- the foreign cemetery -- is one of the few such burial grounds in Tokyo, and its headstones mark the lives of the Western specialists the Meiji government recruited to modernize the country almost overnight. Guido Verbeck, the Dutch political advisor and educator who influenced an entire generation of Japanese leaders, is here. So is Edoardo Chiossone, the Italian engraver whose portrait of Emperor Meiji became the official image used on currency and in public buildings. Scottish engineer W. K. Burton designed Tokyo's modern water supply system before dying here at 43. Edwin Dun brought American agricultural methods to Hokkaido. Joseph Heco, the first Japanese person to become a naturalized American citizen, returned to Japan and is buried here among the foreigners. In 2005, some graves faced removal for unpaid annual fees, but in 2007 the Foreign Section received special protection, with a plaque recognizing the men and women who helped transform Japan from a feudal society into an industrial power.
+
+## A Dog's Eternal Vigil
+
+Perhaps the cemetery's most visited grave belongs to someone who never held office, wrote a novel, or commanded an army. Hachiko, the Akita dog whose bronze statue at Shibuya Station has become one of Tokyo's most recognized landmarks, is buried here alongside his owner, Professor Hidesaburo Ueno of the University of Tokyo, and Ueno's partner Yaeko Sakano. After Ueno died suddenly in 1925, Hachiko continued to appear at Shibuya Station every day for nearly ten years, waiting for a master who would never return. The story captivated Japan and eventually the world. In death, the reunion is permanent: dog and owner share the same plot in Aoyama, a quiet counterpoint to the bustling station where Hachiko's statue draws selfie-snapping crowds daily. Visitors still leave flowers and small offerings at the grave, one of the few in the cemetery that never seems to lack fresh attention.
+
+## Blossoms Over Headstones
+
+The relationship between Aoyama Cemetery and cherry blossom season reveals something essential about Japanese culture's comfort with the proximity of beauty and death. The concept of mono no aware -- a bittersweet awareness of impermanence -- finds perhaps its most literal expression here, where petals drift down onto centuries-old grave markers. Managed by the Tokyo Metropolitan Government, the cemetery stretches across a surprisingly large footprint in one of Tokyo's most expensive neighborhoods. Its tree-lined avenues provide a rare canopy of green in a district otherwise dominated by glass towers and luxury boutiques. The Tateyama branch of the cemetery holds additional notable burials, and the grounds as a whole continue to serve as both a functioning burial site and an accidental public garden. For visitors to Tokyo who want to understand how the city holds its past and present in the same breath, Aoyama Cemetery offers a lesson no museum can match.
+
+## Flight Context
+
+Located at 35.666N, 139.722E in Minato ward, central Tokyo. The cemetery's rectangular green footprint is visible from altitude as a conspicuous patch of tree canopy amid the dense urban fabric of the Aoyama and Roppongi districts. It sits roughly 3nm southwest of the Imperial Palace. Nearest airports: Tokyo Haneda (RJTT) approximately 8nm south, Chofu Airport (RJTF) approximately 12nm west. The Meiji Shrine's forested grounds and Shinjuku Gyoen national garden provide additional green landmarks to orient by when flying over central Tokyo.
+
+## Sources
+
+- [Aoyama Cemetery - Wikipedia](https://en.wikipedia.org/?curid=14737186)
+  - Established 1874 as Japan's first public cemetery
+  - Area 263,564 square meters (confirmed)
+  - Land named after Aoyama family of the Gujo clan from Mino Province
+  - Seven prime ministers buried there (list in article verified)
+  - Hachiko buried alongside owner Professor Hidesaburo Ueno and Yaeko Sakano
+  - Nishi Takeichi won equestrian gold at 1932 Los Angeles Olympics (confirmed)
+  - Foreign section protection granted in 2007 with plaque
+  - Managed by Tokyo Metropolitan Government
+- [Takeichi Nishi - Wikipedia](https://en.wikipedia.org/wiki/Takeichi_Nishi)
+  - Won individual equestrian jumping gold at 1932 Los Angeles Olympics
+  - Died at Iwo Jima during WWII (committed suicide in cave)
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 8 facts verified · 0 corrections
+
+All facts verified: established 1874, 263,564 sq meters, Aoyama/Gujo clan origin, seven prime ministers, Hachiko buried with Ueno and Yaeko Sakano, Nishi Takeichi 1932 LA Olympics gold confirmed, foreign section protection 2007. Story accurate. Note: story says Miki Matsubara burial location undisclosed - this is consistent with Wikipedia.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

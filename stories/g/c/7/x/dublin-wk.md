@@ -1,0 +1,77 @@
+# Dublin
+
+From Viking longphort to literary capital - where raiders became traders, where an illuminated manuscript became Ireland's greatest treasure, and where writers invented streams of consciousness on Georgian streets.
+
+**Location:** 53.3411, -6.2633
+
+**Categories:** ireland, european, viking, literary, historic
+
+## Introduction
+
+In 841, Vikings returned to the tidal pool where the River Poddle met the Liffey. They weren't raiding this time; they were staying. The longphort they built - a naval encampment that could shelter longships through Irish winters - would grow into Dublin, the name itself derived from 'Dubh Linn,' the dark pool that served as natural harbor. Within decades, Dublin became the largest slave port in Western Europe, part of a trading axis with York that made Norse rulers sometimes kings of both cities simultaneously. The Wood Quay excavations between 1961 and 1981 uncovered 150 Viking buildings and thousands of artifacts beneath modern streets - a medieval time capsule so precious that 20,000 people marched in 1978 to save it. They mostly failed. Dublin City Council offices now stand on the site. But the city the Vikings founded endured, absorbing Norman conquest, English colonization, rebellion, famine, independence, and the peculiar distinction of producing more Nobel Prize-winning writers per capita than anywhere on Earth.
+
+## The Book Behind Glass
+
+The Book of Kells may be Ireland's most precious object, but it wasn't made in Dublin. Columban monks likely created it around 800 AD, possibly on Iona in Scotland before Viking raids drove them to Kells in County Meath in 806 - a raid that left 68 monks dead. The illuminated Gospel book traveled again in 1654, when Cromwell's cavalry was quartered in Kells church and the governor sent it to Dublin for safekeeping. The Bishop of Clogher gave it to Trinity College in 1661, and there it has remained.
+
+James Joyce called it 'the most purely Irish thing we have.' UNESCO designated it a Memory of the World. The 11th-century Annals of Ulster called it 'the most precious object in the Western world' - medieval hyperbole that has somehow become literal truth. The Old Library at Trinity College displays two of the manuscript's four volumes, pages turned regularly so visitors see different illuminations. The Long Room upstairs, 65 meters of ancient books under a barrel-vaulted ceiling, provides the context: Ireland treasured learning when much of Europe was burning libraries.
+
+## The Writers' City
+
+Dublin's literary output defies probability. Four Nobel laureates in literature - Yeats, Shaw, Beckett, Heaney - from a city that peaked at one million residents. Oscar Wilde studied at Trinity before conquering London's stages. Bram Stoker wrote for the Dublin Evening Mail before creating Dracula. Jonathan Swift was dean of St. Patrick's Cathedral when he wrote Gulliver's Travels. James Joyce set Ulysses on a single Dublin day - June 16, 1904 - mapping the city so precisely that scholars still trace Leopold Bloom's route through streets Joyce remembered from exile.
+
+The Dublin Writers Museum, the James Joyce Centre, the pub crawls tracing Behan and Kavanagh's drinking paths - the city has monetized its literary heritage while continuing to produce it. Something about Dublin generates writers: perhaps the pub culture, the oral tradition, the colonial experience that made English a tool of resistance rather than simple communication. Whatever the cause, the city where Joyce immortalized a June day remains the city where stories emerge from conversation and conversation never stops.
+
+## The Georgian Inheritance
+
+Dublin's elegant Georgian core was colonial architecture - built during the 18th century when Ireland was ruled from London and the Anglo-Irish ascendancy needed grand houses to match their ambitions. The squares and terraces, the brick facades with their distinctive doorways, the proportions that made Dublin one of Europe's most handsome capitals - all built for a ruling class that would lose power within two centuries.
+
+After independence in 1922, Georgian Dublin became contested heritage. Some saw British imposition; others saw masterful architecture. Buildings were demolished, others fell into tenement squalor, still others were preserved by citizens who recognized beauty regardless of origin. The Dublin that tourists admire - Merrion Square, Fitzwilliam Square, the doors painted in competing colors - survived through advocacy and accident. The city now fiercely protects what it once considered destroying. Georgian Dublin has become Irish Dublin, the colonial buildings absorbed into national identity the way Vikings were absorbed into Irish culture before them.
+
+## The River That Divides
+
+The Liffey splits Dublin into northside and southside, and Dubliners treat this as meaningful division. Trinity College and the government buildings sit south; O'Connell Street and the GPO sit north. The accents differ. The stereotypes persist: southside is Protestant and posh, northside is Catholic and working class. Like most stereotypes, this oversimplifies a city that has remixed populations for a thousand years.
+
+The Ha'penny Bridge, opened in 1816 and charging a halfpenny toll until 1919, became Dublin's symbol of connection - the pedestrian crossing where northside met southside above the dark water. The newer Samuel Beckett Bridge, designed by Santiago Calatrava to resemble a harp, provides dramatic silhouette but less intimacy. The Liffey itself is cleaner than it was when Joyce described it, the quays gentrified with cafes and boardwalks. But the division it created remains in the mental geography, the accent you're asked to place, the side of the river you call home.
+
+## The Endless Session
+
+Traditional music sessions happen every night in Dublin pubs - not performances but gatherings, musicians who may never have met playing tunes everyone knows. The tradition predates recording technology; the tunes were passed ear to ear, generation to generation, surviving famine and emigration to return when Ireland became prosperous enough to remember what it almost lost.
+
+The pubs themselves are Dublin institutions, from the literary associations of Davy Byrne's (where Bloom ate his gorgonzola sandwich) to the Victorian interiors of the Long Hall and Stag's Head. Pub culture isn't about drinking; it's about talking, and Dublin talking is competitive sport. The rounds system, where each person buys drinks for the group in turn, ensures evenings extend. The craic - untranslatable but meaning the quality of conversation and company - is what Dubliners pursue through winter nights in rooms unchanged for a century. The session continues, the tunes repeat with variations, and somewhere in the corner someone is probably writing what will become the next Dublin novel.
+
+## Flight Context
+
+Dublin (53.34°N, 6.26°W) lies on the east coast of Ireland at the mouth of the River Liffey where it enters Dublin Bay. The city center is compact, with most historic sites within walking distance of the river. Dublin Airport (EIDW/DUB) lies 10km north of the city center with two parallel runways (10L/28R at 2,637m is the main runway). The approach from the east over Dublin Bay provides excellent views of the city layout - the Liffey's path through the center, the green expanse of Phoenix Park to the northwest (one of Europe's largest enclosed city parks at 707 hectares), and the distinctive curve of the bay. The Dublin Mountains rise to the south, reaching 536m at Kippure. The flat terrain around the airport contrasts with these southern hills. Weather is maritime Irish - mild, wet, and changeable year-round. Westerly winds predominate. The Irish Sea lies immediately east; Britain's Welsh coast is visible on clear days from altitude. Weston Airport (EIWT) southwest of the city serves general aviation.
+
+## Sources
+
+- [Dublin - Wikipedia](https://en.wikipedia.org/?curid=8504)
+- [Early Scandinavian Dublin - Wikipedia](https://en.wikipedia.org/wiki/Early_Scandinavian_Dublin)
+  - Vikings arrived 841
+  - longphort establishment
+  - Wood Quay excavations
+  - largest slave port Western Europe
+- [Book of Kells - Wikipedia](https://en.wikipedia.org/wiki/Book_of_Kells)
+  - created c.800 AD
+  - Vikings raided Iona 806
+  - given to Trinity 1661
+  - UNESCO Memory of the World
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 6 facts verified · 0 corrections
+
+Story overlay verified
+
+**Spiciness:** 1/5
+
+**Strong opinions:**
+
+- From Viking longphort to literary capital
+- Dublin treasured learning when much of Europe was burning libraries
+
+---
+
+*Word count: 1,100*
+*Read time: 6 minutes*

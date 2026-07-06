@@ -530,5 +530,24 @@
     "_m/d/r/5/r/hell-gate-wp/ward-s-island-negro-point-negr.jpg",
     "_m/d/r/5/r/hell-gate-wp/derasement-des-recifs-de-hell-.jpg"
   ],
-  "updatedAt": "2026-03-30T12:34:58.004Z"
+  "updatedAt": "2026-03-30T12:34:58.004Z",
+  "narration": {
+    "files": [
+      "dr5r-hell-gate-flight-context.mp3",
+      "dr5r-hell-gate-intro.mp3",
+      "dr5r-hell-gate-a-graveyard-for-ships.mp3",
+      "dr5r-hell-gate-the-french-engineer-and-the-leviathan-problem.mp3",
+      "dr5r-hell-gate-the-biggest-blast-on-earth.mp3",
+      "dr5r-hell-gate-bridges-over-tamed-water.mp3"
+    ],
+    "durations": {
+      "dr5r-hell-gate-flight-context.mp3": 52.258125,
+      "dr5r-hell-gate-intro.mp3": 42.874125,
+      "dr5r-hell-gate-a-graveyard-for-ships.mp3": 70.1015,
+      "dr5r-hell-gate-the-french-engineer-and-the-leviathan-problem.mp3": 65.95275,
+      "dr5r-hell-gate-the-biggest-blast-on-earth.mp3": 75.5421666,
+      "dr5r-hell-gate-bridges-over-tamed-water.mp3": 73.1966666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

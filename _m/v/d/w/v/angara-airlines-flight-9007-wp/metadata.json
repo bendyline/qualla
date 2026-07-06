@@ -53,5 +53,24 @@
     "sourceGeohash4": "vdwv"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "vdwv-angara-airlines-flight-9007-flight-context.mp3",
+      "vdwv-angara-airlines-flight-9007-intro.mp3",
+      "vdwv-angara-airlines-flight-9007-warnings-unheeded.mp3",
+      "vdwv-angara-airlines-flight-9007-into-the-ob.mp3",
+      "vdwv-angara-airlines-flight-9007-the-bearing-and-the-logbook.mp3",
+      "vdwv-angara-airlines-flight-9007-the-cost-of-continuing.mp3"
+    ],
+    "durations": {
+      "vdwv-angara-airlines-flight-9007-flight-context.mp3": 45.6544166,
+      "vdwv-angara-airlines-flight-9007-intro.mp3": 59.1064583,
+      "vdwv-angara-airlines-flight-9007-warnings-unheeded.mp3": 57.2524583,
+      "vdwv-angara-airlines-flight-9007-into-the-ob.mp3": 56.989375,
+      "vdwv-angara-airlines-flight-9007-the-bearing-and-the-logbook.mp3": 54.1907083,
+      "vdwv-angara-airlines-flight-9007-the-cost-of-continuing.mp3": 67.2519166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

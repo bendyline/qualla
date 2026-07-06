@@ -69,5 +69,24 @@
     "sourceGeohash4": "dr5p"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "dr5p-ritz-theatre-performing-arts-center-flight-context.mp3",
+      "dr5p-ritz-theatre-performing-arts-center-intro.mp3",
+      "dr5p-ritz-theatre-performing-arts-center-a-palace-on-east-jersey-street.mp3",
+      "dr5p-ritz-theatre-performing-arts-center-the-roster.mp3",
+      "dr5p-ritz-theatre-performing-arts-center-the-long-intermission.mp3",
+      "dr5p-ritz-theatre-performing-arts-center-still-in-frame.mp3"
+    ],
+    "durations": {
+      "dr5p-ritz-theatre-performing-arts-center-flight-context.mp3": 42.801625,
+      "dr5p-ritz-theatre-performing-arts-center-intro.mp3": 38.0074583,
+      "dr5p-ritz-theatre-performing-arts-center-a-palace-on-east-jersey-street.mp3": 51.2938333,
+      "dr5p-ritz-theatre-performing-arts-center-the-roster.mp3": 36.2717083,
+      "dr5p-ritz-theatre-performing-arts-center-the-long-intermission.mp3": 56.2950416,
+      "dr5p-ritz-theatre-performing-arts-center-still-in-frame.mp3": 41.8119583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

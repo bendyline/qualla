@@ -534,5 +534,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "s11s-cotonou-flight-context.mp3",
+      "s11s-cotonou-intro.mp3",
+      "s11s-cotonou-the-zemidjans-own-the-streets.mp3",
+      "s11s-cotonou-dantokpa-and-the-art-of-commerce.mp3",
+      "s11s-cotonou-a-city-on-borrowed-land.mp3",
+      "s11s-cotonou-ganvie-and-the-lagoon.mp3",
+      "s11s-cotonou-after-dark-the-buvettes.mp3"
+    ],
+    "durations": {
+      "s11s-cotonou-flight-context.mp3": 39.384625,
+      "s11s-cotonou-intro.mp3": 50.8781666,
+      "s11s-cotonou-the-zemidjans-own-the-streets.mp3": 56.7809583,
+      "s11s-cotonou-dantokpa-and-the-art-of-commerce.mp3": 53.2186666,
+      "s11s-cotonou-a-city-on-borrowed-land.mp3": 53.1287916,
+      "s11s-cotonou-ganvie-and-the-lagoon.mp3": 57.69425,
+      "s11s-cotonou-after-dark-the-buvettes.mp3": 61.1635416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

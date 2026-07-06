@@ -286,5 +286,24 @@
     "_m/k/p/s/p/annobon-wp/de-liefde-at-annobon-konb11-ub.jpg",
     "_m/k/p/s/p/annobon-wp/bandera-independienteannobon.png"
   ],
-  "updatedAt": "2026-03-30T17:15:42.202Z"
+  "updatedAt": "2026-03-30T17:15:42.202Z",
+  "narration": {
+    "files": [
+      "kpsp-annobon-flight-context.mp3",
+      "kpsp-annobon-intro.mp3",
+      "kpsp-annobon-an-island-between-empires.mp3",
+      "kpsp-annobon-seventeen-square-kilometres-of-endemics.mp3",
+      "kpsp-annobon-toxic-legacy.mp3",
+      "kpsp-annobon-dissent-from-a-distance.mp3"
+    ],
+    "durations": {
+      "kpsp-annobon-flight-context.mp3": 50.5162916,
+      "kpsp-annobon-intro.mp3": 50.2895,
+      "kpsp-annobon-an-island-between-empires.mp3": 72.1074583,
+      "kpsp-annobon-seventeen-square-kilometres-of-endemics.mp3": 69.4697083,
+      "kpsp-annobon-toxic-legacy.mp3": 68.7874583,
+      "kpsp-annobon-dissent-from-a-distance.mp3": 70.346875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

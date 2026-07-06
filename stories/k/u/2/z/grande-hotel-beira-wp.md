@@ -1,0 +1,64 @@
+# Grande Hotel Beira
+
+Once Mozambique's most luxurious hotel, the Grande Hotel Beira never turned a profit, served as a military base during civil war, and is now home to over a thousand squatters living in its decaying Art Deco shell.
+
+**Location:** -19.8406, 34.8731
+
+**Categories:** architecture, colonial-history, mozambique, urban-decay, social-issues
+
+## Introduction
+
+The swimming pool is still there -- Olympic-sized, cracked, its water thick with pollution. Children bathe in it because they cannot afford water from the pump across the street. This is the Grande Hotel Beira in its current life: not a ruin exactly, but a city within a building, where over a thousand people occupy the rooms, corridors, and stairwells of what was once supposed to be the finest hotel in Portuguese East Africa. It never was. The Grande Hotel never turned a profit in any year of its operation, and its transformation from colonial vanity project to improvised community is one of the strangest architectural stories on the continent.
+
+## A Dictator's Dream in Art Deco
+
+The Grande Hotel was born from the intersection of colonial ambition and political posturing. In 1932, Portuguese architects the Rebelo de Andrade brothers designed the urban plan for Beira's Ponta Gea district, which included a grand hotel overlooking the Indian Ocean, the mouth of the Buzi River, and the sea harbor. Architect Francisco de Castro developed the final design, commissioned by the Companhia de Mocambique, a powerful concessionary company that had controlled all of central Mozambique between 1891 and 1940. The company's directors had close ties to the fascist dictator Salazar, and the hotel became a symbol of the Estado Novo regime's influence in Beira. Construction costs ballooned to three times the original budget. When the Grande Hotel finally opened in 1955, the Roman Catholic Bishop of Beira officiated the ceremony, and white residents marveled at its Art Deco exterior and eclectic interior -- luxuries seldom seen even in Lisbon.
+
+## Guests Who Never Came
+
+The hotel was designed for wealthy tourists and VIPs from Southern Rhodesia, South Africa, and the Portuguese empire. They never materialized. Beira was a popular holiday destination, but its visitors were middle-income white families from Salisbury, 550 kilometers and nine hours away by car, who preferred cheaper beach holidays in the Macuti tourist district. Hollywood star Kim Novak stayed when she came to hunt in nearby Gorongosa National Park, but such glamour was the exception. Every elevator had its own personal operator; the staff necessary to maintain a luxury hotel far exceeded what the trickle of guests could justify. After twenty years without a single profitable year, the Companhia closed the hotel in 1963. It hosted only two more events: a visit by members of the United States Congress on an East African cruise, and the 1971 wedding of a senior government official's daughter -- the only venue large enough for the guest list.
+
+## From Ballroom to Barracks
+
+Mozambique gained independence on June 25, 1975, following Portugal's Carnation Revolution. Frelimo assumed power, and the Grande Hotel's roles multiplied grotesquely. The bar at the swimming pool became the office of Frelimo's Revolutionary Committee, responsible for establishing socialism in Beira and Sofala Province. The main hall hosted party meetings. The basement became a prison for political opponents. When civil war broke out in 1977 between Frelimo and the Rhodesian- and South African-backed Renamo rebels, the hotel was converted into a military base. As fighting devastated the countryside, refugees streamed into Beira seeking safety and access to international aid arriving through the harbor. The Grande Hotel became a refugee camp, its corridors filling with families who had fled rural violence and had nowhere else to go.
+
+## A Vertical Village
+
+Since the civil war ended in 1992, the Grande Hotel has settled into its strangest chapter yet. Its 116 hotel rooms now shelter a fluctuating population -- large families crammed into single rooms, paying no rent and holding no ownership rights. The building's water, sewer, and electrical systems have been stripped and sold for food money. Parquet flooring fuels cooking fires. Elevator shafts gape open. Rain leaks through the concrete. The Red Cross has identified high risks of cholera, diarrhea, HIV/AIDS, malaria, and scabies. The inhabitants, known locally by the derogatory nickname 'whato muno' -- 'not from here' -- are largely excluded from Beira's formal economy. And yet, within the decay, there is a social order. Two rules govern the Grande Hotel: respect one another, and the building is open to anyone who needs shelter. Some residents are now third-generation inhabitants, born in a building designed for Portuguese colonial elites.
+
+## No Exit in Sight
+
+The local municipal authority has proposed relocating inhabitants to the Chipangara settlement, demolishing the structure, and redeveloping the land commercially. But the municipality does not own the building -- the land and structure still legally belong to Grupo Entreposto SA, the successor to the Companhia de Mocambique. There are no funds and no investors willing to take on the project. The hotel survived Cyclone Idai in 2019, when ninety percent of surrounding Beira was damaged or destroyed. New residents keep arriving. Multiple documentaries have been made about the Grande Hotel, including Lotte Stoops' critically acclaimed 2010 film. Photographers from around the world have captured its corridors and its people. The Grande Hotel endures as it always has -- too broken to save, too alive to tear down, and too human to ignore.
+
+## Flight Context
+
+Located at 19.84S, 34.87E in the Ponta Gea district of Beira, Mozambique, overlooking the Indian Ocean. The building is visible from low altitude as a large, deteriorating concrete structure near the waterfront. Beira Airport (FQBR) is the nearest airfield. The hotel sits approximately 2 km from the city center and 8 km from the Macuti beachfront district.
+
+## Sources
+
+- [Grande Hotel Beira - Wikipedia](https://en.wikipedia.org/?curid=5718089)
+  - Hotel opened/inaugurated July 16, 1955 confirmed (article correctly states 1955)
+  - Companhia de Mocambique controlled central Mozambique 1891-1940 confirmed
+  - Hotel closed in 1963 after never turning a profit confirmed
+  - 116 hotel rooms figure confirmed
+  - Cyclone Idai 2019 survived by hotel while 90% of Beira damaged confirmed
+  - Lotte Stoops 2010 documentary confirmed
+- [Grande Hotel da Beira Inauguration 1955 - Delagoa Bay World](https://delagoabayworld.wordpress.com/category/historia/grande-hotel-da-beira-inauguracao-1955/)
+  - Roman Catholic Bishop of Beira officiated opening ceremony in 1955 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 9 facts verified · 0 corrections
+
+Verified: Hotel opened 1955, Companhia de Mocambique 1891-1940, closed 1963, 116 rooms, Cyclone Idai 2019, Lotte Stoops 2010 documentary. All facts confirmed correct. Spiciness 3 (strong closing line).
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- too broken to save, too alive to tear down, and too human to ignore
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

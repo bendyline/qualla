@@ -89,5 +89,24 @@
   ],
   "galleryPaths": [
     "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "vduh-kolavia-flight-348-flight-context.mp3",
+      "vduh-kolavia-flight-348-intro.mp3",
+      "vduh-kolavia-flight-348-a-twenty-eight-year-old-workhorse.mp3",
+      "vduh-kolavia-flight-348-sparks-in-the-fuselage.mp3",
+      "vduh-kolavia-flight-348-the-panel-nobody-checked.mp3",
+      "vduh-kolavia-flight-348-grounding-the-fleet.mp3"
+    ],
+    "durations": {
+      "vduh-kolavia-flight-348-flight-context.mp3": 40.3857916,
+      "vduh-kolavia-flight-348-intro.mp3": 70.30175,
+      "vduh-kolavia-flight-348-a-twenty-eight-year-old-workhorse.mp3": 58.7807916,
+      "vduh-kolavia-flight-348-sparks-in-the-fuselage.mp3": 54.7650416,
+      "vduh-kolavia-flight-348-the-panel-nobody-checked.mp3": 57.41575,
+      "vduh-kolavia-flight-348-grounding-the-fleet.mp3": 59.6035833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

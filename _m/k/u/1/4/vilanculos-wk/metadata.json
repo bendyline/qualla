@@ -306,5 +306,24 @@
     "_m/k/u/1/4/vilanculos-wk/vilanculos-air-3.jpg",
     "_m/k/u/1/4/vilanculos-wk/vilanculos-air-4.jpg",
     "_m/k/u/1/4/vilanculos-wk/vilankulos-airport.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "ku14-vilanculos-flight-context.mp3",
+      "ku14-vilanculos-intro.mp3",
+      "ku14-vilanculos-the-road-in.mp3",
+      "ku14-vilanculos-five-islands-on-the-horizon.mp3",
+      "ku14-vilanculos-marlin-season.mp3",
+      "ku14-vilanculos-seasons-and-light.mp3"
+    ],
+    "durations": {
+      "ku14-vilanculos-flight-context.mp3": 46.6125416,
+      "ku14-vilanculos-intro.mp3": 44.3332083,
+      "ku14-vilanculos-the-road-in.mp3": 67.746,
+      "ku14-vilanculos-five-islands-on-the-horizon.mp3": 65.0459166,
+      "ku14-vilanculos-marlin-season.mp3": 60.5340416,
+      "ku14-vilanculos-seasons-and-light.mp3": 67.6270833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

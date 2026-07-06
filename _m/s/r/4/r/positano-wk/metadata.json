@@ -590,5 +590,24 @@
     "_m/s/r/4/r/positano-wk/boat-in-positano-41158688450.jpg",
     "_m/s/r/4/r/positano-wk/positano-chiesa-di-santa-maria.jpg"
   ],
-  "updatedAt": "2026-03-31T08:24:19.950Z"
+  "updatedAt": "2026-03-31T08:24:19.950Z",
+  "narration": {
+    "files": [
+      "sr4r-positano-flight-context.mp3",
+      "sr4r-positano-intro.mp3",
+      "sr4r-positano-the-architecture-of-steepness.mp3",
+      "sr4r-positano-two-beaches-and-a-borrowed-grotto.mp3",
+      "sr4r-positano-lemons-silk-and-painted-tiles.mp3",
+      "sr4r-positano-the-footpath-above-the-world.mp3"
+    ],
+    "durations": {
+      "sr4r-positano-flight-context.mp3": 55.4960833,
+      "sr4r-positano-intro.mp3": 45.2114166,
+      "sr4r-positano-the-architecture-of-steepness.mp3": 61.7860416,
+      "sr4r-positano-two-beaches-and-a-borrowed-grotto.mp3": 54.88775,
+      "sr4r-positano-lemons-silk-and-painted-tiles.mp3": 62.807125,
+      "sr4r-positano-the-footpath-above-the-world.mp3": 67.498
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

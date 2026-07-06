@@ -1,0 +1,56 @@
+# Quinta da Regaleira
+
+A millionaire's occult playground in Sintra, where initiation wells descend like inverted towers and underground tunnels connect grottoes encoded with Templar and Masonic symbolism.
+
+**Location:** 38.7964, -9.3960
+
+**Categories:** palace, esoteric, world-heritage, sintra, gardens
+
+## Introduction
+
+The Initiation Well at Quinta da Regaleira descends 27 meters into the earth, its spiral staircase coiling past 23 niches in nine flights — a number linked to the nine founders of the Knights Templar. At the bottom, a stone compass bears the Templar cross. This is not a well in any functional sense; no water was ever drawn from it. It was built for ritual, for theater, for the peculiar obsessions of António Augusto Carvalho Monteiro, the man Lisbon society called 'Monteiro the Millionaire,' who purchased this four-hectare estate near the historic center of Sintra in 1892 and spent the next two decades transforming it into an architectural puzzle box of alchemy, Freemasonry, and esoteric symbolism.
+
+## The Millionaire's Blueprint
+
+Monteiro bought the property from the Viscountess of Regaleira, a wealthy Porto merchant family, for 25,000 réis. With Italian architect Luigi Manini, he recreated the estate from 1904 to 1910, adding buildings encoded with symbols from alchemy, Masonry, the Knights Templar, and the Rosicrucians. Manini designed in a deliberately eclectic style — Roman, Gothic, Renaissance, and Manueline elements appear throughout — but the eclecticism serves a purpose beyond aesthetics. Every architectural choice carries symbolic weight, from the octagonal tower to the gargoyles to the Manueline turret alluding to the Portuguese discoveries. Monteiro was not building a home; he was building a philosophical argument in stone, a manor house as initiation rite.
+
+## Descending the Inverted Towers
+
+The two Initiation Wells are the estate's most famous feature. The larger well's spiral staircase descends through nine levels, its Templar cross compass waiting at the bottom like a prize for those who complete the symbolic descent. The smaller 'Unfinished Well' uses straight stairs connecting ring-shaped floors. Both connect to an extensive tunnel system that threads beneath the entire estate, linking grottoes, caves, the chapel, and the Waterfall Lake. Leda's Cave lies beneath the Regaleira Tower; the Labyrinthic Grotto opens onto the lake. The tunnels create an underground parallel to the estate above, a hidden world of passages that visitors discover only by walking them — the darkness and disorientation part of the experience Monteiro designed.
+
+## Sacred and Profane
+
+The Regaleira Chapel stands before the palace's main façade, its architecture echoing the palace's Gothic exuberance on a smaller scale. Inside, frescoes depict Teresa of Ávila and Saint Anthony alongside representations of the armillary sphere and the Order of Christ Cross — Catholic imagery and Portuguese maritime symbolism sharing space with pentagrams embedded in the floor. This layering of traditions is quintessential Monteiro: he was a devout Catholic who also collected occult symbols, a man of contradictions who saw no contradiction. The palace itself contains five floors, from a basement with servants' quarters and a kitchen equipped with a food elevator to a third-floor ironing room with terrace access. Practical domesticity coexists with mystical architecture throughout the estate.
+
+## Wilderness by Design
+
+The four-hectare park surrounding the buildings is arranged with deliberate intent. Lower sections are neatly organized; upper sections are left wild, reflecting Monteiro's belief in primitivism — the idea that nature in its untamed state carries spiritual truth. Two artificial lakes, fountains including the Ibis Fountain and the Fount of Abundance, and an aquarium built into a natural boulder (now disused) punctuate the grounds. After Monteiro, the estate passed through several owners: the d'Orey family used it as a residence from 1942; the Japanese Aoki Corporation purchased it in 1987 and kept it closed for a decade. The Sintra Town Council acquired it in 1997, launched extensive restoration, and opened it to the public in June 1998. UNESCO includes it within the Cultural Landscape of Sintra World Heritage Site, recognition that this bewildering place is, in its own eccentric way, irreplaceable.
+
+## Flight Context
+
+Located at 38.796°N, 9.396°W near the historic center of Sintra, on the lower slopes of the Sintra Mountains. The estate is densely wooded and harder to identify from altitude than the hilltop Pena Palace; look for the Gothic pinnacles of the palace emerging from the tree canopy below and northwest of the Sintra National Palace. Recommended viewing altitude: 2,000-3,000 ft. Nearest airport: Lisbon/Humberto Delgado (LPPT) approximately 30 km southeast. The underground features (wells, tunnels) are obviously not visible from the air, but the estate's dense vegetation and Gothic towers distinguish it from surrounding development.
+
+## Sources
+
+- [Quinta da Regaleira - Wikipedia](https://en.wikipedia.org/?curid=18020207)
+  - Initiation Well depth approximately 27 meters confirmed
+  - Nine flights/levels with Templar symbolism confirmed
+  - Monteiro purchased estate in 1892 confirmed
+  - Reconstruction from 1904 to 1910 with Luigi Manini confirmed
+  - Viscountess of Regaleira as seller, Porto merchant family confirmed
+  - Purchase price 25,000 réis confirmed
+  - Sintra Town Council acquired in 1997, opened to public June 1998
+  - Japanese Aoki Corporation purchased 1987
+
+## Review Notes
+
+**Reviewed:** 2026-03-17 · 10 facts verified · 0 corrections
+
+Verified: Initiation Well 27m depth, nine levels, Templar symbolism; Monteiro purchased 1892 for 25,000 réis from Viscountess of Regaleira; reconstruction 1904-1910 with Luigi Manini; opened to public June 1998. No errors found.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 740*
+*Read time: 4 minutes*

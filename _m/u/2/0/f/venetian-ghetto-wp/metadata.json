@@ -772,5 +772,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u20f-venetian-ghetto-flight-context.mp3",
+      "u20f-venetian-ghetto-intro.mp3",
+      "u20f-venetian-ghetto-behind-locked-gates.mp3",
+      "u20f-venetian-ghetto-five-synagogues-five-communities.mp3",
+      "u20f-venetian-ghetto-commerce-constraint-and-survival.mp3",
+      "u20f-venetian-ghetto-liberation-and-legacy.mp3"
+    ],
+    "durations": {
+      "u20f-venetian-ghetto-flight-context.mp3": 46.58275,
+      "u20f-venetian-ghetto-intro.mp3": 59.0060416,
+      "u20f-venetian-ghetto-behind-locked-gates.mp3": 72.3319583,
+      "u20f-venetian-ghetto-five-synagogues-five-communities.mp3": 60.3417083,
+      "u20f-venetian-ghetto-commerce-constraint-and-survival.mp3": 76.0275833,
+      "u20f-venetian-ghetto-liberation-and-legacy.mp3": 70.392375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

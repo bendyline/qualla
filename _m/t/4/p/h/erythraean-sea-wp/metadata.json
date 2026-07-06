@@ -121,5 +121,26 @@
   "galleryPaths": [
     "_m/t/4/p/h/erythraean-sea-wp/map-currents-atlantic.png",
     "_m/t/4/p/h/erythraean-sea-wp/map-abraham-ortelius-1.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "t4ph-erythraean-sea-flight-context.mp3",
+      "t4ph-erythraean-sea-intro.mp3",
+      "t4ph-erythraean-sea-a-red-name-for-blue-water.mp3",
+      "t4ph-erythraean-sea-borders-that-kept-shifting.mp3",
+      "t4ph-erythraean-sea-the-periplus-a-merchants-manual.mp3",
+      "t4ph-erythraean-sea-echoes-on-the-map-and-beyond.mp3",
+      "t4ph-erythraean-sea-where-three-continents-meet.mp3"
+    ],
+    "durations": {
+      "t4ph-erythraean-sea-flight-context.mp3": 51.8380833,
+      "t4ph-erythraean-sea-intro.mp3": 60.3195,
+      "t4ph-erythraean-sea-a-red-name-for-blue-water.mp3": 68.8436666,
+      "t4ph-erythraean-sea-borders-that-kept-shifting.mp3": 66.7972083,
+      "t4ph-erythraean-sea-the-periplus-a-merchants-manual.mp3": 64.2129583,
+      "t4ph-erythraean-sea-echoes-on-the-map-and-beyond.mp3": 64.4837083,
+      "t4ph-erythraean-sea-where-three-continents-meet.mp3": 65.0397916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

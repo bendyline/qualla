@@ -1,0 +1,60 @@
+# The Camera Obscura at Cliff House
+
+A Victorian parlor trick that outlived the building that housed it - where visitors still step into darkness and watch the Pacific Ocean projected live onto a spinning white dish, seeing the world exactly as Leonardo da Vinci once did.
+
+**Location:** 37.7785, -122.5140
+
+**Categories:** california, san-francisco, optical, victorian, curiosity
+
+## Introduction
+
+Step inside and go blind. That's the deal at San Francisco's Camera Obscura, a wooden hut perched on the cliffs above the Pacific where visitors pay three dollars to stand in absolute darkness. Then the magic happens. As your eyes adjust, an image materializes on a white parabolic dish - not a photograph, not a video, but the actual ocean, projected through a rotating lens in the roof. Waves crash in real time. Seabirds wheel across the dish. Tourists walking outside appear as ghostly figures, unaware they're being watched. The device dates to 1946, but the technology is ancient - Leonardo sketched the principles in the 1400s. Every Victorian resort had one. This is the last on the West Coast, still spinning, still projecting, still making visitors gasp when light becomes image.
+
+## The Magic Box
+
+A camera obscura works on principles so simple they seem impossible. Light enters through a small aperture and projects an inverted image on the opposite surface. Add a lens and a mirror, and you can project the outside world - right-side up, in perfect color and motion - onto a viewing surface. No electricity. No film. No digital processing. Just physics doing its elegant thing. The effect is hypnotic: you're watching reality, but reality transformed. Colors seem more saturated. Motion appears dreamlike. The spinning lens pans slowly across the landscape, revealing ocean, rocks, and the ruins of Sutro Baths in a continuous sweep. It's surveillance as meditation.
+
+## The Victorian Craze
+
+Camera obscuras were the virtual reality of the 1800s. Every seaside resort worth visiting had one - a tower or hut where vacationers could spy on the beach, watch ships enter the harbor, observe the world from a secret darkness. The technology was perfect for Victorians: educational, respectable, and slightly voyeuristic. San Francisco had several; this one was built by Floyd Jennings in 1946, modeled on the 17th-century original at Giant's Causeway in Ireland. It survived when others didn't because of its spectacular location - perched above Ocean Beach, looking out at Seal Rocks where sea lions bark and breed.
+
+## The Survivor
+
+Everything around the Camera Obscura has burned, collapsed, or been demolished. The original Cliff House burned in 1894. The spectacular replacement - an eight-story Victorian chateau - burned in 1907. The third Cliff House, a dignified neoclassical building, survived until 2020 when its restaurant closed permanently during COVID. Sutro Baths, visible in the camera's sweep, burned in 1966. But the Camera Obscura endures - a wooden hut with a giant rotating lens, maintained by the National Park Service, still charging admission, still projecting the same ocean that has claimed everything else. There's a metaphor in there somewhere.
+
+## The Experience
+
+You enter through a gift shop selling optical toys - kaleidoscopes, prisms, holograms. The actual camera is a small dark room dominated by the white dish. A guide explains the optics while the lens rotates, sweeping from Seal Rocks to Point Lobos to Ocean Beach and back. The projection is ghostly and beautiful - waves breaking in slow motion, pelicans diving, the ruins of Sutro Baths like a Roman amphitheater. Occasionally a tourist wanders into frame, their image captured and projected without their knowledge. The whole experience takes ten minutes. It feels like stepping out of time.
+
+## Visiting the Camera Obscura
+
+The Camera Obscura sits behind the former Cliff House restaurant at Point Lobos Avenue and the Great Highway in San Francisco. It's open daily when weather permits - fog and overcast skies dim the projection to nothing. Admission is minimal; the gift shop subsidizes operations. The best viewing happens on clear afternoons when the sun illuminates the ocean. The Sutro Baths ruins are a five-minute walk; Lands End trails begin nearby. Muni buses serve the area. Parking is limited on weekends. The Camera Obscura is one of San Francisco's strangest and least-known attractions - ancient technology in a city obsessed with the future, showing visitors that sometimes the old ways still astonish.
+
+## Flight Context
+
+Located at 37.78°N, 122.51°W at San Francisco's western edge. From altitude, the Camera Obscura is a small structure behind the Cliff House building on the bluffs above Ocean Beach. Seal Rocks, covered with sea lions, sit offshore. The Sutro Baths ruins are visible as geometric shapes at the cliff base. The Great Highway runs along Ocean Beach; Golden Gate Park extends east. The Golden Gate Bridge spans the bay entrance to the north. This is where San Francisco meets the Pacific - urban development ending at cliffs and cold water, with a wooden hut containing Victorian technology still projecting the endless ocean.
+
+## Sources
+
+- [Camera Obscura San Francisco - Wikipedia](https://en.wikipedia.org/wiki/Camera_Obscura_(San_Francisco,_California))
+  - Floyd Jennings built 1946
+  - National Register 2001
+- [Western Neighborhoods Giant Camera](https://www.outsidelands.org/giantcamera.php)
+  - exterior modified 1957 to look like camera
+  - last surviving Jennings camera obscura
+
+## Review Notes
+
+**Reviewed:** 2026-01-12 · 6 facts verified
+
+**Spiciness:** 1/5
+
+**Strong opinions:**
+
+- A Victorian parlor trick that outlived the building that housed it
+- Ancient technology in a city obsessed with the future
+
+---
+
+*Word count: 835*
+*Read time: 5 minutes*

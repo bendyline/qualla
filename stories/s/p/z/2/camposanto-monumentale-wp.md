@@ -1,0 +1,58 @@
+# Camposanto Monumentale
+
+Pisa's Camposanto was built around a shipload of sacred soil from Golgotha and filled with frescoes spanning more area than the Sistine Chapel -- until a single bomb fragment in 1944 set it all on fire.
+
+**Location:** 43.7240, 10.3949
+
+**Categories:** cemeteries, Gothic architecture, Pisa, frescoes, World War II damage
+
+## Introduction
+
+According to legend, bodies buried in the ground of the Camposanto Monumentale decompose in just 24 hours. The soil was said to be sacred -- a shipload of earth brought from Golgotha, the hill of Christ's crucifixion, by Archbishop Ubaldo Lanfranchi of Pisa during the Third Crusade in the 12th century. Whether the story is true, the Pisans believed it enough to build one of the most extraordinary burial grounds in Christendom: a vast Gothic cloister at the northern edge of the Cathedral Square, its walls covered with more than 2,600 square meters of frescoes -- a greater painted surface than the Sistine Chapel.
+
+## The Last Building on the Square
+
+The Camposanto was the fourth and final structure raised in Pisa's Piazza del Duomo, joining the cathedral, the baptistery, and the bell tower that would become famous for its lean. Construction began in 1278 under the architect Giovanni di Simone, who envisioned a huge, oblong Gothic cloister built directly over the existing burial ground that held the sacred soil. Di Simone died in 1284, when Pisa suffered its catastrophic naval defeat at the Battle of Meloria against the Genoese -- a loss from which the republic never fully recovered. The cemetery was not completed until 1464, nearly two centuries after groundbreaking. There are signs that the original plan was not a cemetery at all, but a church dedicated to the Holy Trinity, and that the project evolved during construction into the enclosed burial ground that exists today.
+
+## Sarcophagi and Galileo's Lamp
+
+The inner court is a world of its own. Forty-three blind arches compose the outer wall. Inside, elaborate round arches with slender mullions frame a central lawn where some tombs lie in the open, though most are sheltered under the arcades. The Camposanto once contained a vast collection of Roman sarcophagi, repurposed by medieval Pisans as prestigious burial containers. Only 84 survive, joined by Etruscan sculptures and urns. Three chapels punctuate the galleries: the Ammannati chapel of 1360, named for a University of Pisa professor; the Aulla chapel, whose altar by Giovanni della Robbia dates to 1518; and the Dal Pozzo chapel, commissioned in 1594 and housing relics that include fragments attributed to eleven of the twelve Apostles, two pieces of the True Cross, and a thorn from the Crown of Thorns. In the Aulla chapel hangs the original incense lamp that Galileo Galilei reportedly watched swinging in the cathedral, leading to his calculations on pendular motion. The larger lamp that now hangs in the cathedral replaced it.
+
+## Painted Walls of Death and Judgment
+
+The frescoes were the Camposanto's supreme treasure. Beginning in the 1330s with works attributed to Francesco Traini, the walls accumulated layer upon layer of painted narrative over three centuries. The most famous cycle -- the Last Judgment, Hell, the Triumph of Death, and the Thebaid -- was painted in the years after the Black Death by the artist known as Buffalmacco. Benozzo Gozzoli added Stories of the Old Testament in the north gallery during the 15th century. The south arcade received the Stories of Pisan Saints by Andrea Bonaiuti, Antonio Veneziano, and Spinello Aretino between 1377 and 1391, alongside Taddeo Gaddi's Stories of Job. Piero di Puccio contributed Stories of the Genesis. The last paintings dated from the early 17th century. Together, they formed one of the largest and most important fresco cycles in Italy -- a continuous visual meditation on mortality, appropriate for a building founded on earth where the dead were believed to return to dust overnight.
+
+## Three Days of Fire
+
+On 27 July 1944, during an Allied air raid on Pisa, a bomb fragment struck the Camposanto and started a fire. The blaze burned for three days. The timber and lead roof collapsed, exposing everything inside to the inferno. Most of the sculptures and sarcophagi were destroyed or severely damaged. Every fresco was compromised. Deane Keller of the U.S. Army's Monuments, Fine Arts, and Archives program -- the real-life 'Monuments Men' -- organized the initial rescue effort, salvaging what fragments of fresco could be peeled from the ruined walls and erecting a temporary roof to halt further deterioration. The restoration work that followed has stretched across decades. In 2018, the restored Triumph of Death was unveiled, and the Camposanto continues its slow recovery. What visitors see today is both a medieval masterpiece and a record of its near-destruction -- a cemetery for sacred soil that itself was nearly buried.
+
+## Flight Context
+
+Located at 43.72N, 10.39E at the northern edge of the Piazza del Duomo in Pisa, adjacent to the cathedral and the Leaning Tower. The Camposanto appears from the air as a large rectangular cloister structure with a green interior courtyard. Nearest airport is Pisa-San Giusto (LIRP), approximately 2 km south. The Arno River curves through the city nearby. The four structures of the Piazza del Duomo -- cathedral, baptistery, bell tower, and Camposanto -- form a distinctive cluster visible from altitude.
+
+## Sources
+
+- [Camposanto Monumentale - Wikipedia](https://en.wikipedia.org/?curid=16177557)
+  - Construction began 1278 confirmed
+  - Giovanni di Simone as architect confirmed
+  - Di Simone died 1284 at Battle of Meloria confirmed
+  - Completed 1464 confirmed
+  - 27 July 1944 bombing confirmed
+  - Fire burned for three days confirmed
+  - Triumph of Death restored and unveiled 2018 confirmed
+- [ArtTrav - Pisa Camposanto Triumph of Death](https://www.arttrav.com/tuscany/pisa-camposanto-fresco/)
+  - Buffalmacco attribution for Triumph of Death confirmed
+  - Benozzo Gozzoli Old Testament stories confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-14 · 10 facts verified · 0 corrections
+
+Verified construction 1278, Giovanni di Simone, Battle of Meloria 1284, completion 1464, 27 July 1944 bombing, Buffalmacco Triumph of Death, 2018 restoration unveiling. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 760*
+*Read time: 4 minutes*

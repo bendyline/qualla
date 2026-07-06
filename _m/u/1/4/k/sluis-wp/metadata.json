@@ -1,6 +1,99 @@
 {
   "articleId": "sluis-wp",
-  "gallery": [],
-  "galleryPaths": [],
-  "updatedAt": "2026-02-20T16:18:10.328Z"
+  "gallery": [
+    {
+      "filename": "Sluis Kaai R01.jpg",
+      "title": "File:Sluis Kaai R01.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Sluis_Kaai_R01.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Sluis_Kaai_R01.jpg",
+      "width": 3051,
+      "height": 2277,
+      "mime": "image/jpeg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "artist": "Marc Ryckaert",
+      "description": "Sluis (the Netherlands): the Kaai",
+      "dateCreated": "2012-05-08",
+      "categories": [
+        "CC-BY-3.0",
+        "Damse Vaart",
+        "Files with coordinates missing SDC location of creation (51° N, 3° E)",
+        "Images by MJJR",
+        "Images with extracted images",
+        "Kaai, Sluis",
+        "Quality Images by MJJR",
+        "Quality images",
+        "Quality images missing SDC depicts",
+        "Quality images of Sluis",
+        "Quality images of dams",
+        "Self-published work",
+        "Taken with Nikon D90"
+      ],
+      "sourceType": "poi",
+      "sourceArticleId": "sluis-wp",
+      "sourceGeohash4": "u14k",
+      "mediumPath": "_m/u/1/4/k/sluis-wp/sluis-kaai-r01-medium.webp",
+      "smallPath": "_m/u/1/4/k/sluis-wp/sluis-kaai-r01-small.webp"
+    },
+    {
+      "filename": "Sluis Molen De Brak R02.jpg",
+      "title": "File:Sluis Molen De Brak R02.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Sluis_Molen_De_Brak_R02.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Sluis_Molen_De_Brak_R02.jpg",
+      "width": 2582,
+      "height": 3888,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 3.0 nl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+      "artist": "Marc Ryckaert (MJJR)",
+      "description": "Sluis (the Netherlands): windmill De Brak",
+      "dateCreated": "2010-09-01 13:52:52",
+      "categories": [
+        "CC-BY-SA-3.0-NL",
+        "De Brak",
+        "Images by MJJR",
+        "Images from Wiki Loves Monuments 2012",
+        "Images from Wiki Loves Monuments 2012 in the Netherlands",
+        "Netherlands photographs taken on 2010-09-01",
+        "Quality Images by MJJR",
+        "Quality images",
+        "Quality images from Wiki Loves Monuments Netherlands 2012",
+        "Quality images of Sluis",
+        "Rijksmonumenten with known IDs",
+        "Self-published work",
+        "Taken with Nikon D90"
+      ],
+      "sourceType": "poi",
+      "sourceArticleId": "sluis-wp",
+      "sourceGeohash4": "u14k",
+      "mediumPath": "_m/u/1/4/k/sluis-wp/sluis-molen-de-brak-r02-medium.webp",
+      "smallPath": "_m/u/1/4/k/sluis-wp/sluis-molen-de-brak-r02-small.webp"
+    }
+  ],
+  "galleryPaths": [
+    "_m/u/1/4/k/sluis-wp/sluis-kaai-r01.jpg",
+    "_m/u/1/4/k/sluis-wp/sluis-molen-de-brak-r02.jpg"
+  ],
+  "updatedAt": "2026-05-19T07:33:25.621Z",
+  "narration": {
+    "files": [
+      "u14k-sluis-flight-context.mp3",
+      "u14k-sluis-intro.mp3",
+      "u14k-sluis-when-the-zwin-flowed.mp3",
+      "u14k-sluis-the-lottery-and-the-belfry.mp3",
+      "u14k-sluis-sieges-and-slow-drowning.mp3",
+      "u14k-sluis-the-people-who-left.mp3",
+      "u14k-sluis-the-westernmost-foot-of-the-netherlands.mp3"
+    ],
+    "durations": {
+      "u14k-sluis-flight-context.mp3": 55.573125,
+      "u14k-sluis-intro.mp3": 34.9837916,
+      "u14k-sluis-when-the-zwin-flowed.mp3": 53.314125,
+      "u14k-sluis-the-lottery-and-the-belfry.mp3": 49.7621666,
+      "u14k-sluis-sieges-and-slow-drowning.mp3": 51.96775,
+      "u14k-sluis-the-people-who-left.mp3": 68.7340416,
+      "u14k-sluis-the-westernmost-foot-of-the-netherlands.mp3": 62.1277083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -553,5 +553,24 @@
     "_m/m/h/p/r/cirque-de-cilaos-wk/cascade-cirque-de-cilaos.jpg",
     "_m/m/h/p/r/cirque-de-cilaos-wk/cirque-de-cilaos-landscape-sen.jpg"
   ],
-  "updatedAt": "2026-03-30T22:01:46.393Z"
+  "updatedAt": "2026-03-30T22:01:46.393Z",
+  "narration": {
+    "files": [
+      "mhpr-cirque-de-cilaos-flight-context.mp3",
+      "mhpr-cirque-de-cilaos-intro.mp3",
+      "mhpr-cirque-de-cilaos-refuge-in-the-walls.mp3",
+      "mhpr-cirque-de-cilaos-cathedral-of-stone.mp3",
+      "mhpr-cirque-de-cilaos-trails-into-the-interior.mp3",
+      "mhpr-cirque-de-cilaos-wine-lace-and-a-buried-priest.mp3"
+    ],
+    "durations": {
+      "mhpr-cirque-de-cilaos-flight-context.mp3": 63.122875,
+      "mhpr-cirque-de-cilaos-intro.mp3": 46.6707916,
+      "mhpr-cirque-de-cilaos-refuge-in-the-walls.mp3": 60.168625,
+      "mhpr-cirque-de-cilaos-cathedral-of-stone.mp3": 65.3255833,
+      "mhpr-cirque-de-cilaos-trails-into-the-interior.mp3": 62.3390416,
+      "mhpr-cirque-de-cilaos-wine-lace-and-a-buried-priest.mp3": 59.7653333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -803,5 +803,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qqw7-kraton-ngayogyakarta-hadiningrat-flight-context.mp3",
+      "qqw7-kraton-ngayogyakarta-hadiningrat-intro.mp3",
+      "qqw7-kraton-ngayogyakarta-hadiningrat-a-treaty-written-in-teak-and-brick.mp3",
+      "qqw7-kraton-ngayogyakarta-hadiningrat-where-pillars-speak-in-color.mp3",
+      "qqw7-kraton-ngayogyakarta-hadiningrat-foreign-echoes-in-javanese-walls.mp3",
+      "qqw7-kraton-ngayogyakarta-hadiningrat-living-institution-living-tradition.mp3"
+    ],
+    "durations": {
+      "qqw7-kraton-ngayogyakarta-hadiningrat-flight-context.mp3": 39.5633333,
+      "qqw7-kraton-ngayogyakarta-hadiningrat-intro.mp3": 59.8240416,
+      "qqw7-kraton-ngayogyakarta-hadiningrat-a-treaty-written-in-teak-and-brick.mp3": 73.616,
+      "qqw7-kraton-ngayogyakarta-hadiningrat-where-pillars-speak-in-color.mp3": 75.6357916,
+      "qqw7-kraton-ngayogyakarta-hadiningrat-foreign-echoes-in-javanese-walls.mp3": 69.5199166,
+      "qqw7-kraton-ngayogyakarta-hadiningrat-living-institution-living-tradition.mp3": 70.4459583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

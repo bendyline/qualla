@@ -1,0 +1,85 @@
+# Medellin
+
+Where Colombia's second city transformed from world murder capital to urban innovation showcase, where cable cars connect hillside barrios, where Pablo Escobar's shadow fades.
+
+**Location:** 6.2476, -75.5658
+
+**Categories:** colombia, transformation, cable-cars, urban-renewal, escobar, innovation
+
+## Introduction
+
+Medellin was once the world's most dangerous city, the murder capital where Pablo Escobar's cartel operated, where violence was so routine that residents normalized what would traumatize others. The city that exists today is different - not safe by European standards, but transformed through urban planning, public investment, and the simple passage of time after Escobar's 1993 death. Medellin holds 2.5 million people in the city, 4 million in the metropolitan area, Colombia's industrial capital and increasingly its innovation hub. The cable cars that connect hillside comunas to the valley floor, the escalators that climb steep neighborhoods, the libraries and parks built in former no-go zones - these represent the 'Medellin Miracle' that urbanists worldwide have studied.
+
+## The Transformation
+
+Medellin's transformation began after Escobar's death, when city governments invested in infrastructure that connected marginalized neighborhoods to opportunity. The Metrocable that opened in 2004 was the first urban cable car integrated into a metro system, its gondolas carrying residents from hillside comunas to jobs in the valley below. The investment was practical - the hills were too steep for buses - but the symbolism was powerful: the state was reaching neighborhoods that had been left to cartel control.
+
+The transformation continues but is not complete. The violence that made Medellin notorious has decreased but not disappeared; the neighborhoods that urban renewal celebrated still hold poverty that cable cars cannot fix. The 'Medellin Miracle' is marketing as much as reality, the story that the city tells about itself to attract investment and tourism. The transformation is real; the miracle is exaggeration that useful truth requires.
+
+## Comuna 13
+
+Comuna 13 was Medellin's most violent neighborhood, the hillside territory where guerrillas and paramilitaries fought for control, where residents were caught in crossfire that the state could not stop. The 2002 military operation that seized the neighborhood from armed groups was itself violent; what followed was investment that turned the neighborhood into showcase. The outdoor escalators that climb the steep streets, the graffiti tours that explain the art covering walls, the tourists who now photograph where soldiers once shot - these represent transformation that the neighborhood's residents have mixed feelings about.
+
+The tours that bring visitors to Comuna 13 are controversial. The residents who benefit from tourism employment support them; those who find their trauma packaged for foreign consumption resist. The graffiti that covers the neighborhood tells stories of violence and hope; the guides who explain it navigate between honoring history and serving commerce. Comuna 13 is what urban renewal looks like in places where renewal requires acknowledging what was ruined.
+
+## The Metro System
+
+Medellin's Metro is Colombia's only heavy rail system, its elevated tracks running through the valley floor, its cable car extensions reaching hillsides that rails cannot climb. The metro is pride of the city, its stations clean and its trains punctual, the infrastructure that demonstrates what Colombian cities can achieve. The 'Metro culture' that Medellin promotes emphasizes behavior - the orderly queues, the yielding of seats, the prohibition of eating - that the system requires and that Paisas (Medellin residents) have largely adopted.
+
+The metro shapes how Medellin functions. The property values that increase near stations, the development that transit-oriented planning encourages, the access that public transportation provides - these are economic effects that infrastructure investment produces. The metro is what separates Medellin from Colombian cities that lack it, the mobility that enables the economic participation that development requires.
+
+## The Valley
+
+Medellin sits in the Aburra Valley, the mountains that surround it creating the geography that defines its character. The valley orientation - north-south - creates the air pollution that temperature inversions trap; the slopes that rise from the valley floor hold the comunas where migrants settled when the valley filled. The views from the valley's edges encompass the city below, the contrast between the green hills and the urban density creating the vistas that photographs feature.
+
+The valley is what makes Medellin's climate, the 'City of Eternal Spring' nickname reflecting temperatures that altitude moderates - warm but not hot, cool in evenings, comfortable year-round. The climate attracts the digital nomads and retirees who have discovered that living costs less here than in North America or Europe, the foreign residents adding to the expatriate community that has grown as Medellin's reputation has improved.
+
+## The Escobar Tourism
+
+Pablo Escobar remains Medellin's most famous resident, his legacy visible in the tours that visit his grave, his former houses, and the rooftop where he died. The Escobar tourism is controversial - the city has officially discouraged it, attempting to define its identity beyond the cartel kingpin who brought it notoriety. The tours persist because demand persists, the visitors who come seeking narco history finding operators willing to provide it.
+
+The Escobar tourism raises questions about dark tourism that apply worldwide. The victims whose deaths the tours implicitly celebrate, the glorification that attention creates, the reduction of complex history to entertainment - these concern those who lived through what tourists photograph. Yet the tours also tell history that sanitized narratives omit, the reality of what Escobar's power meant visible in the infrastructure his money couldn't buy.
+
+## Flight Context
+
+Medellin (6.25N, 75.56W) sits in the Aburra Valley at 1,500m elevation in the Andes. Jose Maria Cordova International Airport (SKRG/MDE) is located 29km east at 2,137m elevation in the mountains with one runway 18/36 (3,558m). The older Olaya Herrera Airport (SKMD/EOH) is within the valley for regional flights. High altitude affects aircraft performance. The city fills the valley with comunas visible on hillsides. The Metro tracks and cable car lines are visible features. Weather is subtropical highland - spring-like year-round. Afternoon rain common but brief. Valley can trap pollution.
+
+## Sources
+
+- [Medellin - Wikipedia](https://en.wikipedia.org/wiki/Medellin)
+  - 2.5 million city population
+  - Escobar died 1993
+  - City of Eternal Spring
+- [Metrocable (Medellín) - Wikipedia](https://en.wikipedia.org/wiki/Metrocable_(Medell%C3%ADn))
+  - world's first cable car integrated into metro system
+  - opened 2004
+  - Line K to Santo Domingo
+- [Comuna 13 - Atlas Obscura](https://www.atlasobscura.com/places/comuna-13)
+  - outdoor escalators installed 2011
+  - 384 meters spanning six sections
+  - 2002 military operation
+- [Metrocable impact - Centre for Public Impact](https://centreforpublicimpact.org/public-impact-fundamentals/the-metrocable-transport-by-urban-cable-car-in-medellin/)
+  - reduced travel from 1 hour to 10 minutes
+  - 230,000 residents benefited
+  - built by Poma
+
+## Review Notes
+
+**Reviewed:** 2026-01-17 · 12 facts verified · 0 corrections
+
+Verified Metrocable 2004 as world first, Comuna 13 escalators 2011, Escobar death 1993, population figures. Spiciness 4 - strong opinions about miracle marketing
+
+**Spiciness:** 4/5
+
+**Strong opinions:**
+
+- world's most dangerous city, the murder capital
+- The 'Medellin Miracle' is marketing as much as reality
+- the transformation is real; the miracle is exaggeration
+- the glorification that attention creates
+- trauma packaged for foreign consumption
+
+---
+
+*Word count: 1,100*
+*Read time: 5 minutes*

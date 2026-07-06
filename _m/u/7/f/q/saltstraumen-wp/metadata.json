@@ -712,5 +712,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u7fq-saltstraumen-flight-context.mp3",
+      "u7fq-saltstraumen-intro.mp3",
+      "u7fq-saltstraumen-the-engine-beneath-the-surface.mp3",
+      "u7fq-saltstraumen-a-young-strait-with-ancient-visitors.mp3",
+      "u7fq-saltstraumen-where-the-fish-run-thick.mp3",
+      "u7fq-saltstraumen-the-name-and-the-bridge.mp3"
+    ],
+    "durations": {
+      "u7fq-saltstraumen-flight-context.mp3": 49.7702083,
+      "u7fq-saltstraumen-intro.mp3": 46.6512083,
+      "u7fq-saltstraumen-the-engine-beneath-the-surface.mp3": 66.32025,
+      "u7fq-saltstraumen-a-young-strait-with-ancient-visitors.mp3": 58.436375,
+      "u7fq-saltstraumen-where-the-fish-run-thick.mp3": 59.6712083,
+      "u7fq-saltstraumen-the-name-and-the-bridge.mp3": 68.7664166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

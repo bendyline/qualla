@@ -446,5 +446,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wdew-scarborough-shoal-flight-context.mp3",
+      "wdew-scarborough-shoal-intro.mp3",
+      "wdew-scarborough-shoal-a-rock-by-any-other-name.mp3",
+      "wdew-scarborough-shoal-the-standoff-that-changed-everything.mp3",
+      "wdew-scarborough-shoal-law-of-the-sea.mp3",
+      "wdew-scarborough-shoal-water-cannons-and-floating-barriers.mp3",
+      "wdew-scarborough-shoal-the-fishermen-in-between.mp3"
+    ],
+    "durations": {
+      "wdew-scarborough-shoal-flight-context.mp3": 61.6970416,
+      "wdew-scarborough-shoal-intro.mp3": 55.0107916,
+      "wdew-scarborough-shoal-a-rock-by-any-other-name.mp3": 69.0539583,
+      "wdew-scarborough-shoal-the-standoff-that-changed-everything.mp3": 60.0195416,
+      "wdew-scarborough-shoal-law-of-the-sea.mp3": 63.0223333,
+      "wdew-scarborough-shoal-water-cannons-and-floating-barriers.mp3": 72.7495416,
+      "wdew-scarborough-shoal-the-fishermen-in-between.mp3": 62.2324166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

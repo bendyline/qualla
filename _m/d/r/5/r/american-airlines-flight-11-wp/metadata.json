@@ -250,5 +250,24 @@
     "_m/d/q/c/j/american-airlines-flight-77-wp/image-collage-of-some-of-the-d.jpg",
     "_m/d/r/5/r/american-airlines-flight-11-wp/north-tower-path.jpg"
   ],
-  "updatedAt": "2026-03-30T11:36:58.127Z"
+  "updatedAt": "2026-03-30T11:36:58.127Z",
+  "narration": {
+    "files": [
+      "dr5r-american-airlines-flight-11-flight-context.mp3",
+      "dr5r-american-airlines-flight-11-intro.mp3",
+      "dr5r-american-airlines-flight-11-portland-to-logan.mp3",
+      "dr5r-american-airlines-flight-11-fifteen-minutes-of-silence.mp3",
+      "dr5r-american-airlines-flight-11-8-46.mp3",
+      "dr5r-american-airlines-flight-11-what-was-found-what-was-lost.mp3"
+    ],
+    "durations": {
+      "dr5r-american-airlines-flight-11-flight-context.mp3": 55.9882083,
+      "dr5r-american-airlines-flight-11-intro.mp3": 47.1109583,
+      "dr5r-american-airlines-flight-11-portland-to-logan.mp3": 66.2678333,
+      "dr5r-american-airlines-flight-11-fifteen-minutes-of-silence.mp3": 56.2002083,
+      "dr5r-american-airlines-flight-11-8-46.mp3": 65.825,
+      "dr5r-american-airlines-flight-11-what-was-found-what-was-lost.mp3": 81.8487916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

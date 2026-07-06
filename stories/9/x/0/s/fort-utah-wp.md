@@ -1,0 +1,74 @@
+# Fort Utah
+
+The first Mormon settlement in Utah Valley, Fort Utah witnessed the violent collision of two worlds in 1849-1850, leaving wounds that shaped decades of conflict.
+
+**Location:** 40.2379, -111.6889
+
+**Categories:** 1849 establishments in the United States, Forts in Utah, Buildings and structures in Provo, Utah, Demolished buildings and structures in Utah, Utah Territory, Mormonism and violence
+
+## Introduction
+
+A body floated in the Provo River in the autumn of 1849, hidden by the men who killed him. The victim was a Ute leader called Old Bishop, and his death at Fort Utah would spark a chain of violence that echoed through Utah Valley for twenty years. This palisaded encampment, barely eight months old when the murder occurred, stood where two civilizations met on the shores of Utah Lake. What began as 150 Mormon settlers seeking new farmland became the flashpoint for one of the most troubled chapters in Utah Territory's early history.
+
+## Log Walls on the Timpanogos
+
+On March 12, 1849, John S. Higbee led approximately 150 settlers from Salt Lake City to establish a foothold in Utah Valley. Brigham Young had sent them south to claim the fertile lands along what settlers called the Timpanogos River, known today as the Provo River. The settlement they built was modest but defensible: several log dwellings surrounded by a wooden palisade measuring 20 by 40 rods, roughly 330 by 660 feet. Gates pierced the east and west walls, and a raised central platform held a cannon. The Timpanogos Utes had lived in this valley for generations, fishing Utah Lake and hunting the surrounding mountains. The arrival of the settlers would transform both peoples forever.
+
+## Murder and Measles
+
+Tensions simmered from the start. The murder of Old Bishop in autumn 1849 poisoned relations between the fort and the nearby Ute encampments. When the settlers refused to turn over the killers or pay reparations, trust collapsed entirely. The Utes demanded justice while the settlers reported thefts of livestock and crops, along with weapons fired in their direction. Brigham Young counseled patience: stockade your fort, tend your own affairs, let the Utes tend theirs. But patience ran out in the winter of 1849-1850 when a measles epidemic swept from the Mormon settlement into the Ute camps, killing many. By January 1850, Fort Utah's leader reported to church authorities in Salt Lake City that the Utes were growing hostile, threatening to hunt their cattle and recruit other tribes against them.
+
+## February's Violence
+
+On January 31, 1850, Brigham Young authorized military action. His orders were brutal: kill all the men, capture the women and children. On February 8, a militia from Salt Lake City surrounded a group of about seventy Utes at a place called Big Elk. After two days of fighting, the Utes surrendered. The militia executed the men and sent the women and children north to Salt Lake as prisoners. The February battles left dozens of Utes dead and one Mormon settler. These killings contributed directly to the Walker War that would devastate the region from 1853 to 1854, and the cycle of violence continued in the Black Hawk War from 1865 to 1872.
+
+## Lost and Found Again
+
+Flooding forced the settlers to relocate in 1850 to higher ground at what is now Provo's North Park, formerly called Sowiette Park. The original fort site faded from memory. In 1937, the Daughters of Utah Pioneers dedicated a monument where they believed the 1849 fort had stood. A miniature replica followed in 1972, complete with log construction and embrasures. But researchers preparing for Provo's sesquicentennial in the late 1990s discovered the uncomfortable truth: the monument and replica sat in the wrong location. The actual site lay beneath Interstate 15 and a mobile home park. In 1999, a new marker was placed along the Provo River Parkway Trail, closer to where those log walls once stood. The replica was demolished in 2017, judged both historically inaccurate and unsafe.
+
+## Shadows on the Valley
+
+Today, the Provo River flows past joggers and cyclists on the parkway trail, the freeway hums overhead, and little remains to mark where Fort Utah once stood. Yet the events of 1849-1850 ripple through Utah Valley's history. The violence at Fort Utah was neither the first nor the last clash between Mormon settlers and the Ute people, but it established a pattern of escalation that defined the region for decades. The Timpanogos who survived those winter battles never forgot. Neither did the settlers who built their city on the ashes of that first brutal year.
+
+## Flight Context
+
+Fort Utah's original site lies at approximately 40.24N, 111.69W, now beneath Interstate 15 where it crosses the Provo River. The commemorative marker is visible along the Provo River Parkway Trail just east of I-15. North Park (site of the 1850 relocated fort) is clearly visible from the air north of downtown Provo. Recommended viewing altitude 2,000-3,000 feet AGL. Nearby airports include Provo Municipal (KPVU) 4nm south. Utah Lake spreads to the west, with the Wasatch Range rising sharply to the east, providing excellent visual references.
+
+## Sources
+
+- [Fort Utah - Wikipedia](https://en.wikipedia.org/?curid=11210197)
+  - Established March 12, 1849 by John S. Higbee
+  - Approximately 150 settlers
+  - 1972 replica demolished in 2017
+  - 1937 DUP monument in wrong location
+  - 1999 marker placed near actual site
+- [Battle at Fort Utah - Wikipedia](https://en.wikipedia.org/wiki/Battle_at_Fort_Utah)
+  - 90 Mormon militiamen attacked Timpanogos in February 1850
+  - Between 40-100 Timpanogos killed
+  - One Mormon settler died
+  - Women and children taken prisoner
+- [The Murder Of Old Bishop - Black Hawk Productions](https://blackhawkproductions.com/oldbishop.htm)
+  - Old Bishop murdered autumn 1849
+  - Body hidden in Provo River
+  - Timpanogos demanded justice and reparations which were refused
+- [Fort Utah Massacre - Axios Salt Lake City](https://www.axios.com/local/salt-lake-city/2025/02/03/fort-utah-massacre-mormon-brigham-young-timpanogos-decapitation)
+  - January 31, 1850 Brigham Young authorized military action
+  - Events contributed to Walker War and Black Hawk War
+
+## Review Notes
+
+**Reviewed:** 2026-01-27 · 5 facts verified · 0 corrections
+
+Key facts verified: March 12, 1849 founding, Old Bishop murder, Jan 31, 1850 militia order, 1972 replica demolished 2017, wrong location discovery in late 1990s. Sensitive content handled appropriately.
+
+**Spiciness:** 4/5
+
+**Strong opinions:**
+
+- Article presents Mormon-Ute violence with appropriate historical gravity
+- Acknowledges settlers refused justice to Timpanogos after Old Bishop murder
+
+---
+
+*Word count: 802*
+*Read time: 4 minutes*

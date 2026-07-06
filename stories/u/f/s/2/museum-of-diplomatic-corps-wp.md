@@ -1,0 +1,55 @@
+# Museum of Diplomatic Corps
+
+A private museum in Vologda that preserved the forgotten story of how eleven foreign embassies fled to a provincial Russian city in 1918, making it the unlikely diplomatic capital of a collapsing empire.
+
+**Location:** 59.2132, 39.8922
+
+**Categories:** history, diplomacy, museum, revolution
+
+## Introduction
+
+For five months in 1918, the diplomatic capital of Russia was not Moscow, not Petrograd, but Vologda -- a provincial city of wooden houses and church spires, hundreds of kilometers from any front line. Eleven embassies set up operations there, led by the 68-year-old American Ambassador David R. Francis, a former governor of Missouri who had arrived in Russia expecting to navigate trade agreements and found himself instead witnessing the collapse of an empire. The story of what happened in Vologda during those months was so inconvenient -- to both Soviet and Western narratives -- that it was effectively erased from memory. It took a local historian nearly eighty years to dig it back up.
+
+## Refuge at the Railway Junction
+
+In late February 1918, with German forces threatening Petrograd, the diplomatic corps needed to evacuate. Ambassador Francis chose Vologda for practical reasons: it was far from the front, it sat at the intersection of important rail lines that offered escape routes in multiple directions, and its telegraph connections were reliable. The American, British, French, Serbian, Belgian, Siamese, and Italian embassies relocated there, along with the Brazilian consulate and Japanese, Chinese, and Swedish-Danish diplomatic missions. For five months, this collection of foreign officials analyzed the political situation in the new Soviet Russia from a wooden city of monasteries and merchant houses, sending dispatches and recommendations to their governments back home.
+
+## Watched, Then Expelled
+
+The presence of so many foreign diplomats in a single provincial city did not escape Bolshevik attention. The embassies represented a concentration of intelligence-gathering capacity that the new government found increasingly threatening. By mid-1918, the Bolsheviks began consolidating power in Vologda, including repressive measures against anyone suspected of counterrevolutionary sympathies. The atmosphere grew hostile. On July 24, 1918, the diplomats were compelled to leave. Their departure ended Vologda's brief, surreal tenure as an international capital. What followed was a double erasure: Soviet propaganda branded the diplomats "accomplices of world imperialism," mentioned only in connection with alleged plots to overthrow Soviet power. In the West, the episode was dismissed as a waste of time -- an irrelevant footnote in which career diplomats sat idle in a backwater while history happened elsewhere.
+
+## A Historian's Obsession
+
+In 1996, a Vologda historian named Alexander Bykov began piecing the story back together. Working from local archives and the private papers of Ambassador Francis held in St. Louis, Missouri, he assembled household items, photographs, and copies of valuable documents. On July 16, 1997, Bykov opened an exhibition called "Foreign Embassies in Vologda in 1918" in the very building where the American Embassy had been quartered -- a wooden manor that had belonged to the nobleman Pavel Puzan-Puzyrevsky, a listed building from the first third of the 19th century. That exhibition became the Museum of Diplomatic Corps. Over the years it attracted an remarkable roster of visitors: Prince Michael of Kent, Baron Eduard von Falz-Fein from Liechtenstein, James H. Billington (the Librarian of Congress), and several former ambassadors to Russia.
+
+## Closed But Not Forgotten
+
+The museum offered cultural-excursion programs, musical evenings, and business receptions in its period-furnished halls. At festive occasions, staff reconstructed the atmosphere of 1918, complete with costumes and piano music. But private museums in Russian provincial cities operate on precarious finances, and on November 4, 2012, the Museum of Diplomatic Corps closed its doors. Bykov's collection -- the photographs, the documents, the careful work of reconstruction -- represented something rare: a story that neither superpower wanted to tell, preserved by the stubbornness of a single local historian. Vologda's five months as diplomatic capital remain a remarkable episode of the Russian Revolution, a reminder that when empires collapse, even geography gets reshuffled. For a brief window, the world's embassies came to a timber-built city on the Vologda River, and a house that once hosted ambassadors eventually became a museum to the memory of their visit.
+
+## Flight Context
+
+Located at 59.21N, 39.89E in the city of Vologda, on the Vologda River in northwestern Russia. The wooden manor building blends into the city's historic district of timber architecture and church spires. Recommended viewing altitude: 2,000-5,000 feet. Nearest airport: Vologda Airport (ULWW), approximately 10 km north of the city center. The Vologda River and the city's prominent cathedral ensemble provide navigation references.
+
+## Sources
+
+- [Museum of Diplomatic Corps - Wikipedia](https://en.wikipedia.org/?curid=35119731)
+  - Eleven foreign embassies and missions in Vologda in 1918 confirmed
+  - Ambassador David R. Francis age 68 in February 1918 confirmed (born January 1, 1850)
+  - Embassies chose Vologda for rail junctions, telegraph access, distance from front confirmed
+  - American, British, French, Serbian, Belgian, Siamese, Italian embassies plus Brazilian consulate and Japanese, Chinese, Swedish-Danish missions confirmed
+  - Diplomats compelled to leave July 24, 1918 confirmed
+  - Museum opened July 16, 1997 in the manor of Pavel Puzan-Puzyrevsky confirmed
+  - Museum closed November 4, 2012 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 7 facts verified · 0 corrections
+
+Verified: 11 embassies in Vologda Feb-July 1918 confirmed; David Francis born Jan 1 1850 so age 68 in Feb 1918 is correct; all listed nations confirmed; departure July 24 1918 confirmed; museum opened July 16 1997; closed November 4 2012. All facts correct.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 740*
+*Read time: 4 minutes*

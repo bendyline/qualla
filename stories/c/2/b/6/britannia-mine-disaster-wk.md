@@ -1,0 +1,60 @@
+# Britannia Mine and the Mountain That Bleeds
+
+The British Columbia copper mine that poisoned Howe Sound for seventy years - where acid mine drainage turned creeks orange and killed everything downstream, until engineers built a treatment plant that now processes toxic water forever.
+
+**Location:** 49.6200, -123.2000
+
+**Categories:** canada, british-columbia, mining, environmental, museum
+
+## Introduction
+
+Drive north from Vancouver on the Sea to Sky Highway and you'll pass a wound in the mountainside: Britannia Mine, where the earth still bleeds acid. For most of the 20th century, this was one of the largest copper mines in the British Empire - tunnels honeycombed Mount Sheer, men worked in conditions that killed them young, and the tailings flowed straight into Howe Sound. When the mine closed in 1974, nobody cleaned up. Acid mine drainage - water filtering through ore bodies, picking up copper, zinc, and sulfuric acid - poured from the mountain at 500 liters per minute. The sound became a dead zone. Britannia Creek ran orange. The pollution continued for thirty years until a treatment plant was finally built, a perpetual machine that will process toxic water for as long as the mountain bleeds.
+
+## The Glory Years
+
+Britannia Mine opened in 1904 and grew into a company town - 1,200 people living in bunkhouses and family homes on a mountain that wanted to kill them. The ore was rich; the conditions were brutal. Silicosis killed miners slowly; cave-ins killed them fast. In 1915, a massive snowslide destroyed part of the townsite; 56 people died in seconds. The mine rebuilt and expanded, eventually producing 600 million tons of copper ore. By the 1920s, it was the largest copper mine in the British Empire. Profits flowed to investors in London; tailings flowed into Howe Sound. No one asked what the waste would do to the water. No one wanted to know.
+
+## The Pollution
+
+Mining exposes sulfide ores to air and water, creating sulfuric acid that leaches heavy metals from the rock. At Britannia, this acid mine drainage ran unchecked for a century. Britannia Creek turned orange with dissolved copper. Howe Sound's marine life died for miles. The contamination continued long after the mine closed in 1974 - water still flowed through the tunnels, still picked up acid and metals, still poured into the sound. By the 1990s, Britannia was considered one of the worst point sources of pollution in North America. The mine's tailings beaches remained toxic. The creeks remained sterile. The mountain kept bleeding, and there was no way to stop it.
+
+## The Treatment
+
+In 2005, a water treatment plant began operating at Britannia - the solution to a problem that had no other solution. The plant intercepts acid mine drainage before it reaches the sound, treating 500 liters per minute with lime to neutralize the acid and precipitate the metals. The sludge is disposed of; the clean water is released. The treatment costs millions per year and will continue indefinitely - the mountain will bleed acid for centuries, possibly millennia. Howe Sound has begun to recover; marine life is returning. But the treatment plant is a permanent commitment, a machine that must run forever because we broke something that can't be fixed.
+
+## The Museum
+
+The Britannia Mine Museum now occupies the site, transforming industrial devastation into education. Visitors can tour the massive mill building, ride a mining train into the mountain, and pan for gold. Exhibits cover mining technology, the community that lived here, and the environmental disaster that followed closure. The museum doesn't hide what happened - the treatment plant is visible, the orange-stained rocks remain, and interpreters explain how mining wealth came with costs that are still being paid. It's a strange experience: celebrating the ingenuity that extracted copper while acknowledging the destruction that extraction caused.
+
+## Visiting Britannia Mine
+
+The Britannia Mine Museum is located on the Sea to Sky Highway (Highway 99), 50 kilometers north of Vancouver. Tours include the mill building, underground train ride, and gold panning. The museum is open year-round; hours vary seasonally. The site is a stop between Vancouver and Whistler - many visitors combine it with other Sea to Sky attractions like Shannon Falls and the Sea to Sky Gondola. The treatment plant is visible but not open to visitors. The museum café serves food; the gift shop focuses on mining and local history. Allow 2-3 hours. The message is complex: pride in industrial heritage, honesty about environmental cost, and the ongoing work of cleaning up a mess that will never fully heal.
+
+## Flight Context
+
+Located at 49.62°N, 123.20°W on Howe Sound, British Columbia. From altitude, Britannia Mine is visible as industrial buildings clinging to the mountainside where Britannia Creek enters the sound. The tailings beach - a fan of waste material extending into the water - is visible from altitude, darker than natural beaches. The Sea to Sky Highway runs past the site. Howe Sound extends south toward Vancouver; Squamish is visible to the north. The mountain above the mine shows scars from historic slides and mining activity. The treatment plant sits near the creek mouth, processing water that will remain toxic for generations. The view is beautiful - mountains, fjord, forest - but Britannia shows how beauty and destruction coexist.
+
+## Sources
+
+- [Britannia Mine - Wikipedia](https://en.wikipedia.org/wiki/Britannia_Mine)
+  - Operated 1904-1974
+  - Worst point source pollution in North America
+  - Treatment plant operational 2005
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 6 facts verified · 0 corrections
+
+Story overlay verified
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- The Mountain That Bleeds
+- A perpetual machine that will process toxic water for as long as the mountain bleeds
+
+---
+
+*Word count: 850*
+*Read time: 5 minutes*

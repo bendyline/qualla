@@ -147,5 +147,24 @@
   "galleryPaths": [
     "_m/u/f/p/0/krasnoye-sormovo-factory-no-112-wp/wwii-era-products-loca.jpg",
     "_m/u/f/p/0/krasnoye-sormovo-factory-no-112-wp/gallery-2.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "ufp0-krasnoye-sormovo-factory-no-112-flight-context.mp3",
+      "ufp0-krasnoye-sormovo-factory-no-112-intro.mp3",
+      "ufp0-krasnoye-sormovo-factory-no-112-hammers-on-the-volga.mp3",
+      "ufp0-krasnoye-sormovo-factory-no-112-the-locomotive-years.mp3",
+      "ufp0-krasnoye-sormovo-factory-no-112-arsenal-of-the-volga.mp3",
+      "ufp0-krasnoye-sormovo-factory-no-112-ships-that-fly.mp3"
+    ],
+    "durations": {
+      "ufp0-krasnoye-sormovo-factory-no-112-flight-context.mp3": 41.4215,
+      "ufp0-krasnoye-sormovo-factory-no-112-intro.mp3": 46.128875,
+      "ufp0-krasnoye-sormovo-factory-no-112-hammers-on-the-volga.mp3": 64.6948333,
+      "ufp0-krasnoye-sormovo-factory-no-112-the-locomotive-years.mp3": 70.8853333,
+      "ufp0-krasnoye-sormovo-factory-no-112-arsenal-of-the-volga.mp3": 57.5702916,
+      "ufp0-krasnoye-sormovo-factory-no-112-ships-that-fly.mp3": 73.2495
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

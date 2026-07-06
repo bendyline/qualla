@@ -1,0 +1,57 @@
+# Walden Pond
+
+A 64-acre glacial kettle pond in Concord, Massachusetts, where Henry David Thoreau lived for two years and wrote one of the most influential works in American literature.
+
+**Location:** 42.4392, -71.3397
+
+**Categories:** nature, literature, history, conservation, massachusetts
+
+## Introduction
+
+The pond has no inlet and no outlet. Water simply appears -- filtered up through sand and gravel deposited by glaciers that retreated from Massachusetts roughly 10,000 to 12,000 years ago, leaving behind a block of buried ice that slowly melted into the depression we now call Walden Pond. Henry David Thoreau noticed this mystery in the 1840s, observing that the water seemed to come from nowhere and go nowhere, as if the pond existed in a world of its own. He was not the first to be drawn to that quality of self-contained stillness. But the two years, two months, and two days he spent living on its northern shore, beginning on the Fourth of July in 1845, transformed a modest New England swimming hole into one of the most consequential landscapes in American thought.
+
+## A Hole Left by Ice
+
+Walden Pond is what geologists call a kettle hole -- a depression formed when a massive chunk of glacial ice, buried under sediment at the close of the last ice age, gradually melted and left the earth above it to collapse inward. The result is a pond of unusual depth and clarity. At its deepest point, Walden reaches just over 100 feet, making it the deepest natural body of freshwater in Massachusetts. Its surface covers roughly 64.5 acres, fed entirely by groundwater and precipitation, with no streams flowing in or out. This isolation gives the water an extraordinary transparency. Thoreau himself measured the depth, recording a figure within two feet of modern survey results. The surrounding landscape -- the 335-acre Walden Pond State Reservation -- is a mix of second-growth oak and pine forest, glacial ridges, and sandy shoreline that still looks remarkably close to what Thoreau would have known.
+
+## The Cabin on Emerson's Land
+
+Thoreau did not go to Walden Pond to become a hermit. He went to write. His friend and mentor Ralph Waldo Emerson owned a woodlot on the pond's northern shore, and he let Thoreau build a small cabin there -- ten feet by fifteen feet, furnished with a bed, a desk, three chairs, and little else. Thoreau was 27 years old, recently graduated from Harvard, and struggling to find a form for his ideas about simplicity, nature, and the costs of modern life. He was partly inspired by Zilpah White, a formerly enslaved woman who had lived alone in a one-room house on common land near Walden Road, spinning flax into linen to support herself at a time when almost no woman in Concord lived independently. Thoreau admired that self-sufficiency. At Walden, he planted beans, walked the woods, observed the seasonal cycles of the pond, and wrote with a discipline that produced not just his masterpiece but a new template for American nonfiction: the close observation of a single place as a way of understanding the whole world.
+
+## Words That Outlasted the Cabin
+
+The book that emerged -- Walden; or, Life in the Woods, published in 1854 -- was not an immediate bestseller. Its first printing of 2,000 copies took five years to sell. But its influence spread slowly and permanently, shaping the thinking of Mahatma Gandhi, Martin Luther King Jr., and the entire American environmental movement. Thoreau's famous declaration -- "I went to the woods because I wished to live deliberately, to front only the essential facts of life" -- became a touchstone for anyone questioning the pace and direction of modern society. The cabin itself is long gone, dismantled after Thoreau left in 1847, but its site on the north shore is marked by a cairn of stones left by visitors, a tradition that has continued for generations. A replica cabin stands near the parking lot, built to Thoreau's exact specifications, giving visitors a physical sense of just how small the space was that produced such outsized ideas.
+
+## Seven Hundred Thousand Pilgrims a Year
+
+Walden Pond draws roughly 750,000 visitors annually, a number that would have horrified Thoreau but that testifies to the enduring pull of his vision. On summer days, the pond serves as a public swimming beach, its sandy shore crowded with families and sunbathers who may or may not have read the book. The Massachusetts Department of Conservation and Recreation manages the reservation, limiting parking to 1,000 cars to prevent the kind of overuse that nearly destroyed the site in the 1980s and 1990s. The Walden Woods Project, founded in 1990 by musician Don Henley, has acquired surrounding land to buffer the pond from development. A visitor center designed by architect Maryann Thompson sits near the entrance, built with sustainable materials and no fossil fuels -- a structure Thoreau might have appreciated. Trails circle the pond in about an hour's walk, passing through the same oak and pine woods, over the same glacial ridges, past the same clear water that Thoreau described with such precision that scientists still use his observations as baseline data for studying climate change.
+
+## Flight Context
+
+Walden Pond is located at 42.439N, 71.340W in Concord, Massachusetts, about 18 miles northwest of Boston. The oval kettle pond is visible from the air surrounded by dense forest, with the Fitchburg commuter rail line running along its western edge. Best viewed at 1,500-3,000 feet AGL. Nearest airport: KBED (Hanscom Field) in Bedford, approximately 3 miles east. KBOS (Boston Logan International) is 20nm southeast. Massachusetts Route 2 runs just north of the pond and serves as a useful visual reference. The pond's distinctive deep-blue color contrasts sharply with the surrounding green canopy.
+
+## Sources
+
+- [Walden Pond - Wikipedia](https://en.wikipedia.org/?curid=528916)
+  - 64.5-acre glacial kettle pond confirmed
+  - Maximum depth just over 100 feet confirmed
+  - Thoreau moved in July 4 1845 confirmed
+  - Walden published 1854 2000 copies confirmed
+  - Don Henley founded Walden Woods Project 1990 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-27 · 10 facts verified · 0 corrections
+
+All facts verified. No corrections needed.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- "a number that would have horrified Thoreau" re: 750000 visitors
+
+---
+
+*Word count: 798*
+*Read time: 4 minutes*

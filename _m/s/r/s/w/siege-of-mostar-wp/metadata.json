@@ -159,5 +159,26 @@
     "_m/s/r/s/w/siege-of-mostar-wp/crte-bojisnice-izme-u.jpg",
     "_m/s/r/s/w/siege-of-mostar-wp/cathedral-holy-trinity.jpg",
     "_m/s/r/s/w/siege-of-mostar-wp/destroyed-ljubljanska.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "srsw-siege-of-mostar-flight-context.mp3",
+      "srsw-siege-of-mostar-intro.mp3",
+      "srsw-siege-of-mostar-the-first-siege-allies-under-fire.mp3",
+      "srsw-siege-of-mostar-allies-become-enemies.mp3",
+      "srsw-siege-of-mostar-the-eastern-enclave.mp3",
+      "srsw-siege-of-mostar-the-bridge-falls.mp3",
+      "srsw-siege-of-mostar-what-remained.mp3"
+    ],
+    "durations": {
+      "srsw-siege-of-mostar-flight-context.mp3": 50.3238333,
+      "srsw-siege-of-mostar-intro.mp3": 56.8260416,
+      "srsw-siege-of-mostar-the-first-siege-allies-under-fire.mp3": 75.39275,
+      "srsw-siege-of-mostar-allies-become-enemies.mp3": 56.2964583,
+      "srsw-siege-of-mostar-the-eastern-enclave.mp3": 73.2143333,
+      "srsw-siege-of-mostar-the-bridge-falls.mp3": 57.9106666,
+      "srsw-siege-of-mostar-what-remained.mp3": 69.0272916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -332,5 +332,24 @@
     "_m/k/u/h/8/europa-island-wp/europaisland-sisal-02.jpg",
     "_m/k/u/h/8/europa-island-wp/europaisland-airstrip.jpg"
   ],
-  "updatedAt": "2026-03-30T19:03:57.220Z"
+  "updatedAt": "2026-03-30T19:03:57.220Z",
+  "narration": {
+    "files": [
+      "kuh8-europa-island-flight-context.mp3",
+      "kuh8-europa-island-intro.mp3",
+      "kuh8-europa-island-named-by-a-passing-ship.mp3",
+      "kuh8-europa-island-an-atoll-at-the-edge.mp3",
+      "kuh8-europa-island-turtle-highway-frigatebird-colony.mp3",
+      "kuh8-europa-island-evolution-in-isolation.mp3"
+    ],
+    "durations": {
+      "kuh8-europa-island-flight-context.mp3": 50.2908333,
+      "kuh8-europa-island-intro.mp3": 49.3588333,
+      "kuh8-europa-island-named-by-a-passing-ship.mp3": 65.8789583,
+      "kuh8-europa-island-an-atoll-at-the-edge.mp3": 55.7908333,
+      "kuh8-europa-island-turtle-highway-frigatebird-colony.mp3": 58.65,
+      "kuh8-europa-island-evolution-in-isolation.mp3": 67.4447083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

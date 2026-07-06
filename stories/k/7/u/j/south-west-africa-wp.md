@@ -1,0 +1,68 @@
+# South West Africa
+
+The territory that became Namibia passed through German colonial rule, a League of Nations mandate, decades of illegal South African occupation and apartheid, and a protracted independence struggle before finally becoming a nation in 1990.
+
+**Location:** -23.0000, 17.0000
+
+**Categories:** history, colonial-history, namibia, independence-movements, apartheid
+
+## Introduction
+
+For 75 years, the territory between the Atlantic and the Kalahari was governed by people who did not come from it. Germany claimed it in 1884. South Africa seized it in 1915. The United Nations revoked South Africa's mandate in 1966. South Africa ignored the revocation and stayed for another 24 years, applying its apartheid system to a land the rest of the world had started calling Namibia. When independence finally came on 21 March 1990, it arrived not through a single decisive moment but through decades of legal battles at the International Court of Justice, guerrilla warfare in the north, diplomatic pressure from Africa and beyond, and the slow, grinding collapse of the political logic that had kept South West Africa under foreign control.
+
+## The German Colony
+
+Germany's claim to South West Africa began in 1884, part of the European scramble to divide the African continent. The colony was called German South West Africa -- Deutsch-Sudwestafrika -- and it proved difficult to govern from the start. Insurrections against harsh German rule were frequent, led by guerrilla fighters like Jacob Morenga. The main port, Walvis Bay, had already been annexed by Britain in 1878 and folded into the Cape Colony, leaving the Germans without easy coastal access. In 1890, the Heligoland-Zanzibar Treaty added a narrow corridor of land reaching from the colony's northern border to the Zambezi River. Named the Caprivi Strip after German Chancellor Leo von Caprivi, it gave the colony a slender connection to central Africa -- a geographic curiosity that persists on maps of modern Namibia.
+
+## Mandate Without End
+
+South Africa captured the colony during World War I in 1915. After the war, the Treaty of Versailles assigned it as a League of Nations Class C mandate territory under South African administration. The arrangement was meant to be temporary -- a trusteeship to prepare the territory for eventual self-governance. It became anything but. When the League of Nations dissolved after World War II, the mandate was supposed to transfer to the United Nations trust system. South African Prime Minister Jan Smuts refused, instead seeking to annex South West Africa as a fifth province in 1946. That annexation never happened formally, but in 1949, the South West Africa Affairs Act gave the territory's white residents six seats in South Africa's House of Assembly and four in its Senate. All of those seats went to the National Party between 1950 and 1977, extending the political base of apartheid into a territory South Africa had no legal right to keep.
+
+## The Courts and the Corridor
+
+The International Court of Justice issued ruling after ruling. In 1950, it found that South Africa was not obliged to convert the mandate into a UN trust territory but remained bound by the original mandate's terms, with the UN General Assembly assuming supervisory authority. In 1955, the Court ruled the General Assembly need not follow League of Nations voting procedures on South West Africa questions. In 1956, it affirmed the right to hear petitions from the territory's inhabitants. When Ethiopia and Liberia brought a case in 1960 alleging South Africa had failed its mandatory duties, the Court dismissed it in 1966 on procedural grounds -- they were not the proper parties to sue. That same year, the General Assembly passed Resolution 2145, declaring South Africa's mandate terminated. South Africa stayed. In 1968, the UN renamed the territory Namibia. South Africa stayed. In 1971, the ICJ ruled South Africa's continued presence was illegal and that all UN member states were obligated not to recognize South African acts performed on Namibia's behalf. South Africa stayed.
+
+## SWAPO and the Long Struggle
+
+The South West Africa People's Organisation, founded in 1960, became the primary vehicle for the independence movement. SWAPO waged a guerrilla campaign in the north while pursuing diplomatic recognition internationally, eventually gaining UN observer status as the recognized representative of the Namibian people. South Africa responded with military force, bantustans, and attempts at controlled political reform. The Turnhalle Constitutional Conference of 1976-1978 brought together representatives of eleven ethnic groups -- Herero, Baster, Tswana, Damara, Ovambo, Lozi, Nama, Kavango, San, Coloureds, and Whites -- but excluded SWAPO, the largest freedom movement. The conference produced a three-tier governance system: a central government, ethnicity-based Representative Authorities that replaced the bantustans, and local councils. An interim government formed in 1980 but collapsed in 1983 over South African interference. A Transitional Government of National Unity followed in 1985, again without SWAPO participation.
+
+## Independence at Last
+
+The end came through a convergence of pressures. The Cold War was winding down. Cuba had troops in Angola supporting the MPLA government against South African-backed UNITA forces. The military stalemate, the international isolation of apartheid South Africa, and the changing geopolitical calculus all pointed toward negotiation. In December 1988, South Africa, Angola, and Cuba signed agreements at the United Nations that provided for Cuban troop withdrawal from Angola and the implementation of Security Council Resolution 435 -- the framework for Namibian independence that had sat unimplemented since 1978. On 1 April 1989, the transition process began. On 21 March 1990, Namibia became an independent nation, ending 75 years of foreign administration. The territory that had been German South West Africa, then a League of Nations mandate, then an illegally occupied apartheid state, finally became what its people had been fighting for: their own country.
+
+## Flight Context
+
+South West Africa (now Namibia) is centered approximately at 23.00S, 17.00E. The territory covers a vast area from the Atlantic coast to the Kalahari Desert. Windhoek, the capital, is served by Hosea Kutako International Airport (FYWH). The country's geography spans the Namib Desert along the coast, central highlands, and the Kalahari to the east. The Caprivi Strip extends northeast to the Zambezi River. From altitude, the contrast between the coastal desert, the central plateau, and the eastern semi-arid lands is striking. Visibility is generally excellent across most of the territory.
+
+## Sources
+
+- [South West Africa - Wikipedia](https://en.wikipedia.org/?curid=43018)
+  - Germany claimed 1884 confirmed
+  - South Africa captured 1915 confirmed
+  - League of Nations Class C mandate confirmed
+  - ICJ 1950 ruling confirmed
+  - UN Resolution 2145 (1966) terminating mandate confirmed
+  - UN renamed territory Namibia in 1968 confirmed
+  - ICJ 1971 illegal occupation ruling confirmed
+  - SWAPO founded 1960 confirmed
+  - Tripartite Agreement December 1988 confirmed
+  - transition began 1 April 1989 confirmed
+  - independence 21 March 1990 confirmed
+  - Caprivi Strip named after Chancellor Leo von Caprivi confirmed
+- [SWAPO - Wikipedia](https://en.wikipedia.org/wiki/SWAPO)
+  - SWAPO founded 19 April 1960 confirmed
+  - Turnhalle Constitutional Conference 1976–1978 confirmed
+  - eleven ethnic groups listed in Turnhalle conference confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 12 facts verified · 0 corrections
+
+Germany claimed 1884 confirmed; SA captured 1915 confirmed; UN Resolution 2145 (1966) confirmed; Namibia renamed 1968 confirmed; ICJ 1971 ruling confirmed; SWAPO founded 1960 confirmed; Turnhalle Conference 1976-1978 confirmed; Tripartite Agreement December 1988 confirmed; independence 21 March 1990 confirmed; Caprivi Strip/Leo von Caprivi confirmed
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

@@ -58,5 +58,24 @@
     "sourceGeohash4": "s1g6"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "s1g6-bussa-rebellion-flight-context.mp3",
+      "s1g6-bussa-rebellion-intro.mp3",
+      "s1g6-bussa-rebellion-the-machinery-of-indirect-rule.mp3",
+      "s1g6-bussa-rebellion-bows-against-an-empire.mp3",
+      "s1g6-bussa-rebellion-one-hundred-and-fifty-shots.mp3",
+      "s1g6-bussa-rebellion-the-weight-of-a-small-rebellion.mp3"
+    ],
+    "durations": {
+      "s1g6-bussa-rebellion-flight-context.mp3": 47.3641666,
+      "s1g6-bussa-rebellion-intro.mp3": 37.0029583,
+      "s1g6-bussa-rebellion-the-machinery-of-indirect-rule.mp3": 74.5920416,
+      "s1g6-bussa-rebellion-bows-against-an-empire.mp3": 64.8312083,
+      "s1g6-bussa-rebellion-one-hundred-and-fifty-shots.mp3": 38.927875,
+      "s1g6-bussa-rebellion-the-weight-of-a-small-rebellion.mp3": 83.0973333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

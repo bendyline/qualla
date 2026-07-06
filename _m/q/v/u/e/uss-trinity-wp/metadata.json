@@ -46,5 +46,26 @@
     "sourceGeohash4": "qvue"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qvue-uss-trinity-ao-13-flight-context.mp3",
+      "qvue-uss-trinity-ao-13-intro.mp3",
+      "qvue-uss-trinity-ao-13-built-to-serve.mp3",
+      "qvue-uss-trinity-ao-13-escape-from-manila.mp3",
+      "qvue-uss-trinity-ao-13-torpedoes-in-the-beagle-gulf.mp3",
+      "qvue-uss-trinity-ao-13-the-persian-gulf-run.mp3",
+      "qvue-uss-trinity-ao-13-to-the-end-of-the-war-and-home.mp3"
+    ],
+    "durations": {
+      "qvue-uss-trinity-ao-13-flight-context.mp3": 41.3970416,
+      "qvue-uss-trinity-ao-13-intro.mp3": 43.6044166,
+      "qvue-uss-trinity-ao-13-built-to-serve.mp3": 58.8512916,
+      "qvue-uss-trinity-ao-13-escape-from-manila.mp3": 43.8165416,
+      "qvue-uss-trinity-ao-13-torpedoes-in-the-beagle-gulf.mp3": 50.9949583,
+      "qvue-uss-trinity-ao-13-the-persian-gulf-run.mp3": 51.4179166,
+      "qvue-uss-trinity-ao-13-to-the-end-of-the-war-and-home.mp3": 48.5908333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

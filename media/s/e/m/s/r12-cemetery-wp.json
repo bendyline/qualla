@@ -1,0 +1,38 @@
+{
+  "id": "r12-cemetery-wp",
+  "patch": {
+    "media": {
+      "hero": {
+        "path": "_m/s/e/m/s/r12-cemetery-wp/hero.jpg",
+        "filename": "Bovidae-0001.jpg",
+        "caption": "Bovidae",
+        "alt": "Bovidae",
+        "width": 1610,
+        "height": 1629,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 4.0",
+        "artist": "MathKnight",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bovidae-0001.jpg",
+        "sourceType": "core",
+        "sourceArticleId": "r12-cemetery-wp",
+        "sourceGeohash4": "sems",
+        "categories": [
+          "Bovidae",
+          "CC-BY-SA-4.0",
+          "Montages of Artiodactyla",
+          "Self-published work"
+        ],
+        "smallPath": "_m/s/e/m/s/r12-cemetery-wp/hero-small.webp"
+      },
+      "narration": [
+        "_m/s/e/m/s/r12-cemetery-wp/sems-r12-cemetery-flight-context.mp3",
+        "_m/s/e/m/s/r12-cemetery-wp/sems-r12-cemetery-intro.mp3",
+        "_m/s/e/m/s/r12-cemetery-wp/sems-r12-cemetery-a-cemetery-in-three-seasons.mp3",
+        "_m/s/e/m/s/r12-cemetery-wp/sems-r12-cemetery-beads-and-hands.mp3",
+        "_m/s/e/m/s/r12-cemetery-wp/sems-r12-cemetery-a-green-sahara.mp3",
+        "_m/s/e/m/s/r12-cemetery-wp/sems-r12-cemetery-neighbors-not-cousins.mp3"
+      ],
+      "combinedNarration": "_m/s/e/m/s/r12-cemetery-wp/sems-r12-cemetery-combined.mp3"
+    }
+  }
+}

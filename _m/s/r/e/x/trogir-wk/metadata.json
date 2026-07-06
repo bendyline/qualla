@@ -870,5 +870,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "srex-trogir-flight-context.mp3",
+      "srex-trogir-intro.mp3",
+      "srex-trogir-a-jewel-in-walls.mp3",
+      "srex-trogir-romanesque-heart.mp3",
+      "srex-trogir-the-kamerlengo-fortress.mp3",
+      "srex-trogir-sweet-dumplings-and-day-trips.mp3",
+      "srex-trogir-gateway-to-the-coast.mp3"
+    ],
+    "durations": {
+      "srex-trogir-flight-context.mp3": 50.2758333,
+      "srex-trogir-intro.mp3": 42.0766666,
+      "srex-trogir-a-jewel-in-walls.mp3": 61.3071666,
+      "srex-trogir-romanesque-heart.mp3": 59.5981666,
+      "srex-trogir-the-kamerlengo-fortress.mp3": 62.2924583,
+      "srex-trogir-sweet-dumplings-and-day-trips.mp3": 55.5054583,
+      "srex-trogir-gateway-to-the-coast.mp3": 60.5849583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

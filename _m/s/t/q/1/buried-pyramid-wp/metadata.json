@@ -298,5 +298,24 @@
     "_m/s/t/q/1/buried-pyramid-wp/sekhemkhet-pyramid.png",
     "_m/s/t/q/1/buried-pyramid-wp/019-unas-1.jpg"
   ],
-  "updatedAt": "2026-03-31T10:34:30.265Z"
+  "updatedAt": "2026-03-31T10:34:30.265Z",
+  "narration": {
+    "files": [
+      "stq1-buried-pyramid-flight-context.mp3",
+      "stq1-buried-pyramid-intro.mp3",
+      "stq1-buried-pyramid-found-by-accident.mp3",
+      "stq1-buried-pyramid-gold-rubble-and-an-empty-tomb.mp3",
+      "stq1-buried-pyramid-the-fate-of-goneim.mp3",
+      "stq1-buried-pyramid-a-child-in-the-south-tomb.mp3"
+    ],
+    "durations": {
+      "stq1-buried-pyramid-flight-context.mp3": 40.5145833,
+      "stq1-buried-pyramid-intro.mp3": 50.3593333,
+      "stq1-buried-pyramid-found-by-accident.mp3": 58.0162916,
+      "stq1-buried-pyramid-gold-rubble-and-an-empty-tomb.mp3": 61.8477916,
+      "stq1-buried-pyramid-the-fate-of-goneim.mp3": 44.8270416,
+      "stq1-buried-pyramid-a-child-in-the-south-tomb.mp3": 64.0245416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

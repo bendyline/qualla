@@ -1,0 +1,66 @@
+# Palau de la Musica Catalana
+
+A UNESCO World Heritage concert hall built for a choral society at the heart of Catalonia's cultural rebirth, where stained glass, mosaic, and sculpture transform the act of listening into something close to synesthesia.
+
+**Location:** 41.3877, 2.1753
+
+**Categories:** concert-halls, modernisme, world-heritage-sites, art-nouveau, music, barcelona
+
+## Introduction
+
+The acoustics, by most accounts, are terrible. Robert Hughes put it bluntly: the glass walls "carry music like drum skins." And yet, more than half a million people attend performances at the Palau de la Musica Catalana each year -- not in spite of the building but because of it. Architect Lluis Domenech i Montaner designed this concert hall between 1905 and 1908 as a temple to the Catalan cultural renaissance known as the Renaixenca, and he built it from light itself. Stained glass, ceramic tile, mosaic, and sculpture cover every surface. The ceiling of the main hall is a massive inverted dome of colored glass that floods the interior with shifting light. The building does not simply house music. It competes with it.
+
+## A Song Made Stone
+
+The Palau was built for the Orfeo Catala, a choral society founded in 1891 that became a driving force of the Renaixenca -- the cultural movement that sought to revive Catalan language, art, and identity after centuries of Castilian dominance. The construction was financed largely by the Orfeo itself, supplemented by donations from Barcelona's wealthy industrialists and bourgeoisie. When it opened on February 9, 1908, the building won its architect an award from the Barcelona City Council for the best building of the previous year. Domenech i Montaner -- born in Barcelona in 1850, a professor and director at the Escola d'Arquitectura for forty-five years -- had created something that was simultaneously a concert hall, a political statement, and a work of art. The Palau declared, in mosaic and iron and glass, that Catalan culture was not a regional curiosity but a civilization with its own aesthetic language.
+
+## Muses and Medallions
+
+The decoration is systematic beneath its apparent exuberance. On the exterior, sculptured muses by Eusebi Arnau protrude from the facade, their upper bodies carved in monochrome stone while their lower halves dissolve into colorful mosaics by Lluis Bru -- each figure playing a different instrument, wearing a different ornate costume. Between the two groups stands a mosaic of the Catalan coat of arms. Inside, white tile medallions in the vaults bear the names of composers arranged in deliberate sequence: Palestrina, Bach, Carissimi, Beethoven, and Chopin to the left of the stage; Victoria, Handel, Mozart, Gluck, and Wagner to the right. Four additional medallions trace the arc of Catalan music history through Joan Brudieu, Mateu Fletxa el Vell, Anselm Viola i Valenti, Domenec Terradellas, and Josep Anselm Clave. Sculptures of winged horses -- Pegasus, the symbol of imagination -- command the upper balcony. Nothing is merely decorative; everything argues.
+
+## Where Premieres Happen
+
+The Palau's stage has hosted an extraordinary sequence of world premieres. Joaquin Rodrigo's Concierto de Aranjuez -- arguably the most famous guitar concerto ever composed -- received its first performance here on November 9, 1940. Manuel de Falla's Harpsichord Concerto premiered in 1926. Alban Berg's Violin Concerto received its world premiere here on April 19, 1936, just months before the Civil War. Pablo Casals and Alicia de Larrocha are among the soloists who have graced its stage, and the Orquestra Pau Casals performed regularly after World War I. The programming ranges from symphonic and chamber music to jazz and Canco -- Catalan song. In 1997, UNESCO designated the Palau a World Heritage Site alongside the Hospital de Sant Pau, recognizing both buildings as masterworks of Catalan Modernisme.
+
+## Glass Ceilings, Shattered and Preserved
+
+Between 1982 and 1989, architects Oscar Tusquets and Carles Diaz undertook a restoration that honored Domenech i Montaner's original vision while expanding the building's capacity. Stone, brick, iron, glass, and ceramics were used exactly as the original architect had used them. A six-story annex added dressing rooms, a library, and an archive. Further restoration between 2006 and 2008 reinstalled the lantern atop the corner tower and returned ornamental features to the facade. In 2004, the Petit Palau opened eleven meters underground -- a 538-seat chamber with variable acoustics, designed in Domenech i Montaner's spirit but equipped for the 21st century. The palace squeezed into the narrow corner of Carrer Palau de la Musica and Carrer de Sant Pere Mes Alt -- far from the Eixample, where Gaudi's buildings draw the tourist crowds -- keeps proving that Barcelona's most astonishing architecture sometimes hides in its least expected corners.
+
+## Flight Context
+
+Located at 41.388N, 2.175E in Barcelona's Sant Pere / La Ribera neighborhood, tucked into the dense medieval street grid east of the Via Laietana. The ornate roof with its distinctive glass dome and corner tower is visible from moderate altitude as a burst of color and form amid the Old City's terracotta rooftops. Nearest airport: Barcelona-El Prat (LEBL), approximately 13 km southwest. The Palau sits about 300 meters northeast of the cathedral. Best viewed at 1,500-3,000 feet.
+
+## Sources
+
+- [Palau de la Música Catalana - Wikipedia](https://en.wikipedia.org/?curid=106184)
+  - Designed by Domenech i Montaner 1905-1908
+  - Orfeo Catala founded 1891
+  - Opened February 9 1908
+  - UNESCO World Heritage Site 1997 with Hospital de Sant Pau
+  - Robert Hughes quote about acoustics confirmed
+  - Petit Palau opened 2004 with 538 seats 11 meters underground
+  - Oscar Tusquets and Carles Diaz restoration 1982-1989
+- [Wikipedia - Concierto de Aranjuez](https://en.wikipedia.org/wiki/Concierto_de_Aranjuez)
+  - Premiere November 9 1940 at Palau de la Musica Catalana confirmed
+- [Wikipedia - Violin Concerto (Berg)](https://en.wikipedia.org/wiki/Violin_Concerto_(Berg))
+  - Corrected: Berg Violin Concerto world premiere April 19 1936 at Palau, not merely 'Spanish debut'
+- [Wikipedia - Harpsichord Concerto (Falla)](https://en.wikipedia.org/wiki/Harpsichord_Concerto_(Falla))
+  - Falla Harpsichord Concerto premiered November 5 1926 at Palau confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-14 · 10 facts verified · 1 correction
+
+Corrected Berg Violin Concerto from 'Spanish debut' to 'world premiere' on April 19 1936. Verified: Domenech i Montaner 1905-1908, opened Feb 9 1908, Concierto Aranjuez premiere Nov 9 1940, Falla Harpsichord Concerto 1926, UNESCO 1997, Petit Palau 2004 538 seats. Spiciness 3.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- 'The acoustics, by most accounts, are terrible'
+- 'It competes with it' (regarding music vs. architecture)
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

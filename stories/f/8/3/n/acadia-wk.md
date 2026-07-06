@@ -1,0 +1,61 @@
+# Acadia National Park
+
+Where the sun first rises on America - the Maine park where granite mountains meet the Atlantic, created when Gilded Age millionaires donated their summer estates to preserve the first national park east of the Mississippi.
+
+**Location:** 47.6170, -65.7670
+
+**Categories:** maine, atlantic, granite, philanthropy, national-park
+
+## Introduction
+
+Acadia National Park occupies Mount Desert Island off the Maine coast, where pink granite mountains rise directly from the Atlantic Ocean. It's the first national park established east of the Mississippi River, created through an unusual alliance of conservation and wealth. In the early 1900s, when railroads and automobiles threatened to develop Mount Desert's unspoiled landscape, summer residents - including Rockefellers, Fords, and Vanderbilts - began buying land and donating it to the public. John D. Rockefeller Jr. personally funded 45 miles of carriage roads, masterpieces of landscape architecture built for horse-drawn vehicles. The park they created preserves a unique meeting of mountain and sea: Cadillac Mountain, where the sun first touches the United States for part of the year; Thunder Hole, where waves compress air in a granite cave; and forests that recover from a 1947 fire that transformed the island's ecology.
+
+## The Geology
+
+Mount Desert Island was carved by glaciers that scraped over pink granite, leaving rounded mountains and U-shaped valleys. When the ice melted, the sea flooded the valleys, creating Somes Sound - the only fjord on the U.S. Atlantic coast - and the island's dramatic coastline. The granite is 400 million years old, intruded into older rock and exposed by erosion. The island's highest point, Cadillac Mountain (1,530 feet), is the highest point on the Atlantic coast north of Rio de Janeiro. Because of its location and elevation, Cadillac is the first place in the United States to see the sunrise from October through March.
+
+## The Philanthropy
+
+Acadia exists because wealthy people gave it away. By 1900, Mount Desert Island had become a summer colony for America's richest families. When commercialization threatened, summer resident George Dorr began acquiring land for preservation. He recruited others, including John D. Rockefeller Jr. The land they accumulated became Sieur de Monts National Monument in 1916 and Acadia National Park in 1929. Rockefeller spent 27 years building 45 miles of carriage roads - broken-stone surfaces, hand-carved granite bridges - designed for horse-drawn vehicles. He also donated most of the land that now comprises the park.
+
+## The Fire
+
+In October 1947, a fire swept across Mount Desert Island, burning 17,000 acres and 67 summer estates. The fire transformed the island's ecology. Before 1947, spruce and fir forest dominated. After the fire, deciduous trees - birch, aspen, maple - colonized the burned areas. The result is more ecological diversity and spectacular fall foliage that draws visitors today. The fire also ended Mount Desert's Gilded Age - many estate owners didn't rebuild, and the era of grand summer 'cottages' passed. The national park acquired much of the burned land.
+
+## The Experience
+
+Acadia offers multiple experiences: the Park Loop Road for scenic driving, Cadillac Mountain for sunrise, Thunder Hole for wave action, the carriage roads for biking and walking, and trails ranging from easy walks to exposed cliff scrambles. Jordan Pond House serves afternoon tea and popovers in a tradition dating to the 1890s. Bar Harbor, the park's gateway town, offers services and tourist infrastructure. The park is busy in summer (2-3 million visitors annually) but beautiful in every season. Fall brings foliage; winter brings solitude and cross-country skiing.
+
+## Visiting Acadia
+
+Acadia National Park is located on Mount Desert Island, Maine, about 4 hours north of Boston. Bar Harbor is the main gateway, with lodging, restaurants, and services. The Park Loop Road provides access to major attractions; vehicle reservations are required for Cadillac Summit Road from May through October. The carriage roads are ideal for biking; rentals are available in Bar Harbor. Popular trails include the Precipice (closed during peregrine falcon nesting), Beehive, and Gorham Mountain. Jordan Pond House requires reservations for tea service. Bangor International Airport (BGR) is 50 miles away. Maine's climate means cool summers and cold winters; peak visitation is July-August; fall foliage peaks in early October.
+
+## Flight Context
+
+Located at 44.35°N, 68.21°W on Mount Desert Island off the Maine coast. From altitude, the island's distinctive shape is evident - two halves nearly separated by Somes Sound. Cadillac Mountain rises from the eastern portion. The pink granite coastline meets the blue Atlantic. Bar Harbor sits on the island's northeast shore. The carriage road system is visible threading through forests. The Schoodic Peninsula, a separate section of the park, is visible across Frenchman Bay. The island's forested mountains rising from the sea create a striking profile.
+
+## Sources
+
+- [Acadia - Wikipedia](https://en.wikipedia.org/?curid=128607)
+- [Acadia National Park - Wikipedia](https://en.wikipedia.org/wiki/Acadia_National_Park)
+  - First national park east of Mississippi
+  - 45 miles of carriage roads
+  - 1947 fire burned 17,000 acres
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 6 facts verified · 0 corrections
+
+Story overlay verified
+
+**Spiciness:** 1/5
+
+**Strong opinions:**
+
+- Where the sun first rises on America
+- Acadia exists because wealthy people gave it away
+
+---
+
+*Word count: 895*
+*Read time: 5 minutes*

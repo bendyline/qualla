@@ -1,0 +1,60 @@
+# Carthage National Museum
+
+Perched atop Byrsa Hill in the heart of ancient Carthage, the national museum houses artifacts spanning Phoenician, Roman, and Byzantine civilizations -- from the haunting marble sarcophagi of Punic priests to the luminous 'Lady of Carthage' mosaic.
+
+**Location:** 36.8531, 10.3244
+
+**Categories:** museums, archaeology, carthage, tunisia
+
+## Introduction
+
+The marble sarcophagus of the priest and priestess sits in the Carthage National Museum like a window into a vanished world. Dating from the 3rd century BC, discovered in the necropolis of Carthage, it shows two figures: the priest with his right hand raised in blessing, the priestess beside him. Both hold vases of incense for liturgical purposes. Their faces are calm, idealized, Hellenistic in style -- the work of Punic artisans who absorbed Greek aesthetics without abandoning their own traditions. This single artifact encapsulates what the museum offers: evidence of a civilization that was never purely one thing but always a synthesis.
+
+## From Chapel to National Institution
+
+The museum was founded in 1875 by the White Fathers of Cardinal Charles Martial Lavigerie, housed initially in the Chapelle Saint-Louis de Carthage as the Musee Saint-Louis. Its purpose was modest: to store the finds from the excavations of Father Alfred Louis Delattre, who spent decades digging through the necropolises and basilicas of Carthage. The museum received its present name in 1956, a year of Tunisian independence, and opened as a national institution in 1963. Extensive restructuring in the 1990s redesigned the galleries to accommodate discoveries from the UNESCO international campaign that ran from 1972 to 1995. The building sits atop Byrsa Hill, the ancient citadel that was the heart of both Punic and Roman Carthage, near the former Cathedral of Saint-Louis -- now the Acropolium.
+
+## Echoes of Phoenicia
+
+The Punic collections reveal a civilization with roots stretching back to the Levant and connections radiating across the Mediterranean. Amulets of Egyptian deities -- Isis, Osiris, Horus, and Bes -- testify to the deep ties between Phoenician settlers and ancient Egypt, cultural elements the colonists carried westward and preserved for centuries. The museum holds a fine collection of Punic ceramics from the late 19th century excavations, including oil lamps found in pottery kilns dating to the Third Punic War -- the very period when Carthage was fighting for its survival against Rome. Glass masks intended to ward off the evil eye, bronze razors decorated with Egyptian and Greek motifs, and funerary amulets fill the display cases with objects that were buried alongside the dead to protect them in whatever afterlife the Carthaginians imagined.
+
+## The Gods of the Tophet
+
+A terracotta perfume-burner in the form of Ba'al Hammon's head, discovered in a sanctuary in the Salammbo quarter, anchors the collection of religious artifacts. The steles from the tophet -- the sacred precinct near the Punic ports where the ashes of children were buried in urns -- constitute the museum's most significant holding. Carved from El Haouaria sandstone, these votive stones bear images of ships, palm trees, elephants, and portraits showing strong Hellenistic influence. Some carry inscriptions, though their formulaic brevity reveals little: dedications to Tanit and Ba'al Hammon, vows made and fulfilled. The Cintas Chapel deposit -- ceramics from the 7th century BC discovered in 1947, the earliest evidence of Phoenician presence at Carthage -- has its own display case.
+
+## Roman Grandeur
+
+The Roman collections begin with a display case that confronts visitors with the reality of 146 BC: sling bullets, swords, and stone catapult balls recovered from the ruins, alongside a skeleton of a fighter who died violently during the city's destruction. The contrast with what follows is jarring. Sculptures and bas-reliefs from Byrsa Hill, interpreted as commemorating the Roman victory over the Parthians in 166 AD during Marcus Aurelius's reign, show the refinement of the city that rose from those ashes. A representation of an auriga -- a chariot driver holding a whip and victory jug -- testifies to the importance of the Roman circus at Carthage, which was second in size only to the Circus Maximus in Rome. Mosaics from a private spa at Sidi Ghrib depict a woman running through a rose garden, and a matron at her toilette attended by servants bearing mirrors and jewel baskets.
+
+## The Lady of Carthage
+
+The museum's most celebrated piece is the Lady of Carthage mosaic, dated to the 6th century AD and traditionally regarded as a portrait of a Byzantine empress. The technique alternates conventional mosaic tiles with glass tiles, producing a luminous effect that sets the work apart from the more common stone-only mosaics found throughout North Africa. The fineness of the design -- the subject's elegance, the precision of her features -- makes it a masterpiece of late antique art, a reminder that Carthage remained a center of artistic production long after the fall of Rome. Nearby, a mosaic of the four evangelists, discovered in the vicus castrorum, places a cross within a sphere at its center, symbolizing Christianity's reach to the four cardinal directions. The museum is currently closed for an indefinite period, its collections awaiting a new chapter in the long story of preserving Carthage's heritage.
+
+## Flight Context
+
+Located atop Byrsa Hill at 36.85°N, 10.32°E, the museum is adjacent to the Acropolium (former Cathedral of Saint-Louis), which is the most prominent structure on the hilltop and visible from altitude. Tunis-Carthage International Airport (DTTA) lies approximately 3 km to the southwest. Best viewed at 2,000-4,000 feet, where Byrsa Hill and the Acropolium are clearly identifiable above the surrounding residential area.
+
+## Sources
+
+- [Carthage National Museum - Wikipedia](https://en.wikipedia.org/?curid=20990302)
+  - Museum founded 1875 by White Fathers of Cardinal Lavigerie confirmed
+  - Initially housed in Chapelle Saint-Louis as Musee Saint-Louis confirmed
+  - Received present name in 1956, opened as national institution 1963 confirmed
+  - Extensive restructuring in 1990s confirmed
+  - UNESCO campaign artifacts 1972-1995 incorporated confirmed
+  - Marble sarcophagus of priest and priestess from 3rd century BC confirmed
+  - Lady of Carthage mosaic dated 6th century AD confirmed
+  - Museum currently closed for indefinite period confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 8 facts verified · 0 corrections
+
+Facts verified: founded 1875 by White Fathers of Cardinal Lavigerie as Musee Saint-Louis, received present name 1956, opened as national institution 1963, 1990s restructuring, marble sarcophagus of priest and priestess 3rd century BC, Lady of Carthage mosaic 6th century AD, museum currently closed for indefinite period.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

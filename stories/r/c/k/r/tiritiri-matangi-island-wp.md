@@ -1,0 +1,59 @@
+# Tiritiri Matangi Island
+
+A wind-tossed island in the Hauraki Gulf where volunteers planted 250,000 native trees and brought back eleven species of endangered birds, transforming bare farmland into one of New Zealand's most celebrated conservation successes.
+
+**Location:** -36.6000, 174.8900
+
+**Categories:** Islands of the Hauraki Gulf, Protected areas of the Auckland Region, Nature reserves in New Zealand, Island restoration, Islands of the Auckland Region, Hibiscus Coast, Birdwatching sites in New Zealand
+
+## Introduction
+
+In Maori mythology, Tiritiri Matangi is a float from an ancestral fishing net, cast adrift in the Hauraki Gulf. The name translates to "tossed by the wind," and standing on this small island 3.4 kilometers east of the Whangaparaoa Peninsula, you understand why. Wind shapes everything here: the angle of the pohutukawa branches, the flight paths of the birds wheeling overhead, the way the grass ripples across hillsides that were bare farmland just forty years ago. What the wind cannot explain is how tens of thousands of volunteers turned this stripped-down pastoral island into a sanctuary where some of New Zealand's rarest creatures now thrive.
+
+## A Net Cast Wide
+
+The Kawerau iwi were the first people to settle Tiritiri Matangi, drawn by the same sheltered bays and fertile soil that later attracted European farmers. The Hobbs family worked the land from 1863 to 1971, more than a century of sheep and cattle that stripped the island of nearly all its native bush. By the time farming ended, Tiritiri Matangi was little more than grassland ringed by rocky shores. The island's story could have ended there, a footnote in the long catalog of New Zealand landscapes reshaped beyond recognition by agriculture. Instead, it became a proving ground for an idea that was still radical in the 1980s: that ordinary people, armed with spades and seedlings, could reverse a century of ecological damage.
+
+## The Planting Begins
+
+In 1984, the Department of Conservation launched a reforestation project unlike anything New Zealand had attempted on an island. Volunteers arrived by ferry from Auckland and Gulf Harbour, carrying native seedlings propagated on the island itself. Over the following decades, they planted more than 250,000 trees. The numbers alone are staggering, but what matters more is what followed. As the canopy grew and the undergrowth thickened, conservationists began translocating endangered species to this newly forested refuge. Eleven native bird species made the crossing: red-crowned parakeets flashing green and crimson through the branches, the elusive little spotted kiwi probing the forest floor at night, and the takahе, a flightless bird once believed extinct, stalking through the undergrowth on heavy blue-green legs. Duvaucel's gecko arrived in 2006, and in 2011 the wetapunga, one of the world's heaviest insects, joined the island's growing inventory of returned residents.
+
+## A Chorus Restored
+
+Eighty-seven bird species have now been recorded on or near Tiritiri Matangi. Walk the island's tracks and you hear what mainland New Zealand has largely lost: the haunting organ-note call of the kokako drifting from the canopy, the staccato chatter of saddlebacks in the undergrowth, the liquid song of stitchbirds darting between flowering trees. Each of these species carries its own Maori name, a reminder that this soundscape is not new but recovered. The kokako is Callaeas wilsoni. The saddleback is tieke. The stitchbird is hihi. Before predators silenced them on the mainland, these were the everyday voices of Aotearoa's forests. Tiritiri Matangi gives visitors something rare: the chance to hear the country as it once sounded.
+
+## Ripples Across the Gulf
+
+Success breeds imitation. The transformation of Tiritiri Matangi inspired similar restoration projects across the Hauraki Gulf, on Motuihe, Motuora, and Motutapu. In 2011, Shakespear Regional Park on the nearby tip of the Whangaparaoa Peninsula became a mammalian pest-free fenced sanctuary, effectively extending the island's reach to the mainland. Birds from Tiritiri Matangi have begun crossing the water to colonize this new habitat, a natural expansion that no one planned but everyone hoped for. The island proved something conservationists had long argued: remove the predators, restore the habitat, and native species will do the rest. What began as a single reforestation project has become a regional network of sanctuaries, each one reinforcing the others.
+
+## Island Time
+
+A ferry from Auckland takes about 75 minutes. Guided tours lead visitors along bush-fringed tracks where birds, unafraid of humans, land within arm's reach. There are no permanent residents, no shops, no accommodation beyond a basic bunkhouse for volunteers. The island operates on a different rhythm, governed by tides and birdsong and the ferry schedule that keeps visitor numbers manageable. Tens of thousands of conservation volunteers have given their weekends to this place over four decades, planting, weeding, monitoring. Their work is visible in every tree. The wind still tosses the island, as it always has. But what the wind carries now, across the water toward Auckland's skyline, are the voices of species that nearly vanished from the earth.
+
+## Flight Context
+
+Tiritiri Matangi Island (36.600S, 174.890E) sits in the Hauraki Gulf, 3.4 km east of the Whangaparaoa Peninsula. Approach from the south at 1,500-2,500 feet AGL for a clear view of the forested island against the blue gulf waters. The island's distinctive shape and bush cover contrast sharply with the surrounding open water. Auckland Airport (NZAA) lies approximately 45 km to the south-southwest. Whenuapai Air Base (NZWP) is about 30 km to the west. Look for Rangitoto Island's volcanic cone to the south as a landmark.
+
+## Sources
+
+- [Tiritiri Matangi Island - Wikipedia](https://en.wikipedia.org/?curid=715496)
+  - 250,000+ trees planted confirmed (some sources say 280,000 by 1994; article uses 250,000 as lower bound, defensible)
+  - Reforestation project began 1984 confirmed
+  - Eleven native bird species translocated confirmed
+  - Duvaucel's gecko arrived 2006 confirmed
+  - Wetapunga arrived 2011 confirmed
+  - 87 bird species recorded on or near island confirmed
+  - Island 3.4 km east of Whangaparaoa Peninsula confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 7 facts verified · 0 corrections
+
+All facts verified: 250,000+ trees planted from 1984 (some sources say 280,000 by 1994), 11 bird species translocated, Duvaucel gecko 2006, wetapunga 2011, 87 species recorded. No errors. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

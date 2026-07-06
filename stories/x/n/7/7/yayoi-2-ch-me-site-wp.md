@@ -1,0 +1,56 @@
+# Yayoi 2-chome Site
+
+A small patch of ground on the University of Tokyo campus where a single red-clay jar discovered in 1884 gave its neighborhood's name to an entire era of Japanese civilization -- the Yayoi period -- and then the exact spot of the discovery was lost for nearly a century.
+
+**Location:** 35.7167, 139.7644
+
+**Categories:** archaeology, historic-site, national-historic-site, yayoi-period
+
+## Introduction
+
+In 1884, a student named Shozo Arisaka found a red-clay jar in a shell mound on a hillside facing the Nezu valley in Bunkyo, Tokyo. It looked nothing like the cord-marked Jomon pottery that archaeologists already knew. The jar was smoother, more refined, clearly the product of a different culture. Because the shell mound sat in the Yayoi neighborhood, researchers named the new pottery style 'Yayoi pottery,' and eventually the entire historical period from roughly 1000 BC to 300 AD became known as the Yayoi period -- one of the foundational divisions of Japanese prehistory. Then Arisaka lost the location. He had not kept exact records, the area was rural with few landmarks beyond a nearby Imperial Japanese Army shooting range, and by the time he published his account in 1923, urban growth had erased every reference point. For decades, three different sites competed as candidates for the original find.
+
+## A Name That Rewrote Prehistory
+
+The Yayoi period marks the arrival of wet-rice agriculture, metalworking, and new social structures on the Japanese archipelago, displacing or merging with the older Jomon hunter-gatherer culture that had persisted for thousands of years. That this entire epoch takes its name from a Tokyo neighborhood -- not from the regions where rice farming first took hold -- is an accident of discovery. Arisaka was a student at the preparatory school of the University of Tokyo when he pulled the distinctive jar from the Mukogaoka shell mound. He reported his find to academia in the 1889 edition of the Toyo Gakugei Magazine, noting only that the site was near a military shooting range. The jar's smooth, reddish-brown form stood in sharp contrast to the rough, textured Jomon ware that had dominated Japanese archaeological collections. Further investigation revealed that the culture that produced it was ethnically and culturally distinct from the Jomon people, establishing a new chapter in the story of the Japanese islands.
+
+## The Lost Shell Mound
+
+In 1888, the site was sold to the private sector. The northern half became the residence of Marquis Asano Nagakoto, the former daimyo of Hiroshima Domain. The southern half was developed into a residential area. By the time Arisaka published a full account of his discovery in the Anthropological Magazine in 1923 -- nearly 40 years after the find -- he admitted that he could not pinpoint the exact location. He described a rural hillside on the opposite side of the street behind the university, with no houses or landmarks except the shooting range, and conceded that urban encroachment had made identification impossible. Three separate sites were proposed over the following decades, each with its own advocates, none conclusive. The original Mukogaoka Shell Mound had effectively vanished beneath modern Tokyo.
+
+## Schoolchildren and Fallen Trees
+
+In 1974, ninety years after Arisaka's discovery, archaeologists received an unexpected tip: elementary school students had been collecting pottery fragments exposed in the roots of fallen trees on the Asano area of the University of Tokyo campus. The site was a small rise east of the Faculty of Engineering Building, where ground was being cleared for a new research building. A proper excavation uncovered the traces of a settlement with a double moat next to a shell midden. The shells were mainly marine oysters. Among the finds were a whetstone and five examples of Yayoi pottery whose characteristics closely matched the pottery Arisaka had described in 1884. The site sat in the approximate location of the missing Mukogaoka Shell Mound. In 1976, the Japanese government designated it a National Historic Site -- but because the identification with the original shell mound remains unproven, they gave it the careful bureaucratic name 'Yayoi 2-chome Site' rather than 'Mukogaoka Shell Mound.'
+
+## A Jar from Distant Shores
+
+The original jar stands 22.0 centimeters tall with a maximum diameter of 22.7 centimeters. Analysis places it in the late Yayoi period, and its style reveals a surprise: it more closely resembles pottery from the Tokai region, specifically the coast of Suruga Bay, than anything typically found in the southern Kanto plain where Tokyo sits. This suggests the jar arrived through trade networks that linked distant communities along Japan's Pacific coastline. Today the Yayoi 2-chome Site occupies a modest patch of ground on one of the world's most prestigious university campuses, a quiet space easily overlooked by students and faculty hurrying to lectures. There is no grand monument. But the ground beneath their feet holds the place -- or very close to it -- where a single student's curiosity cracked open an entire era of human civilization, gave a neighborhood's name to three centuries of Japanese history, and then slipped from memory for almost a hundred years.
+
+## Flight Context
+
+Located at 35.717N, 139.764E in Bunkyo, Tokyo, on the campus of the University of Tokyo (Hongo Campus). From altitude, the University of Tokyo campus appears as a large block of academic buildings and tree-lined paths in the Hongo district, with the distinctive red-brick Yasuda Auditorium visible as a landmark. The archaeological site is a small area east of the Faculty of Engineering buildings. Nearest airport is Tokyo Haneda (RJTT), approximately 16 km south. Narita International (RJAA) is about 58 km east-northeast. Ueno Park and its cluster of museums lie immediately to the south as a visual reference.
+
+## Sources
+
+- [Yayoi 2-chōme Site - Wikipedia](https://en.wikipedia.org/?curid=67954557)
+  - 1884 discovery of distinctive pottery by student Shozo Arisaka
+  - 1974 excavation triggered by elementary school students collecting pottery from fallen tree roots
+  - Site designated National Historic Site in 1976
+  - Original jar 22.0 cm tall, 22.7 cm maximum diameter
+  - Jar classified as late Yayoi period, style resembles Tokai region (Suruga Bay coast)
+- [Shozo Arisaka - Wikipedia](https://en.wikipedia.org/wiki/Sh%C5%8Dz%C5%8D_Arisaka)
+  - Arisaka reported his find in the 1889 Toyo Gakugei Magazine
+  - Published full account in the Anthropological Magazine in 1923
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 10 facts verified · 0 corrections
+
+All facts confirmed: 1884 discovery by Arisaka, reported in 1889 Toyo Gakugei Magazine, 1923 published account, 1974 excavation by elementary school students tip, 1976 national historic site designation, jar dimensions 22.0cm x 22.7cm, late Yayoi style from Tokai/Suruga Bay region. Clean and accurate. Spiciness 1.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 730*
+*Read time: 4 minutes*

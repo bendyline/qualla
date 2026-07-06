@@ -104,5 +104,24 @@
   "galleryPaths": [
     "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png",
     "_m/w/1/m/y/one-two-go-airlines-flight-269-wp/september-16-2007-boei.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w1my-one-two-go-airlines-flight-269-flight-context.mp3",
+      "w1my-one-two-go-airlines-flight-269-intro.mp3",
+      "w1my-one-two-go-airlines-flight-269-a-routine-flight-to-paradise.mp3",
+      "w1my-one-two-go-airlines-flight-269-twelve-seconds-of-decision.mp3",
+      "w1my-one-two-go-airlines-flight-269-fatigue-beyond-the-legal-limit.mp3",
+      "w1my-one-two-go-airlines-flight-269-an-airline-grounded-then-erased.mp3"
+    ],
+    "durations": {
+      "w1my-one-two-go-airlines-flight-269-flight-context.mp3": 46.3079166,
+      "w1my-one-two-go-airlines-flight-269-intro.mp3": 45.4727916,
+      "w1my-one-two-go-airlines-flight-269-a-routine-flight-to-paradise.mp3": 56.4023333,
+      "w1my-one-two-go-airlines-flight-269-twelve-seconds-of-decision.mp3": 64.6417083,
+      "w1my-one-two-go-airlines-flight-269-fatigue-beyond-the-legal-limit.mp3": 63.8388333,
+      "w1my-one-two-go-airlines-flight-269-an-airline-grounded-then-erased.mp3": 82.505
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

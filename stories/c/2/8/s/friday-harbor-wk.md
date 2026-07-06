@@ -1,0 +1,60 @@
+# Friday Harbor
+
+The laid-back capital of San Juan Island where ferries sweep in like clockwork and seaplanes splash down in waters patrolled by orcas.
+
+**Location:** 48.5353, -123.0311
+
+**Categories:** town, washington, san-juan-islands, whale-watching, ferry
+
+## Introduction
+
+The Washington State Ferry slides into Friday Harbor with the practiced ease of a vessel that has made this journey thousands of times, and suddenly you're somewhere that feels nothing like the mainland you left ninety minutes ago. This is Friday Harbor, the county seat of San Juan County and the only incorporated town in the San Juan Islands. It's surprisingly developed for its remoteness - coffee shops and galleries line the waterfront, kayak outfitters prep tours, and seaplanes taxi across the harbor before lifting off toward Seattle or Vancouver. Everything here runs on ferry time, the rhythms of the islands synchronized to the schedules that connect them to the world.
+
+## Island Capital
+
+Friday Harbor serves as the commercial heart of the San Juan Islands, despite a year-round population of just a few thousand. The town clusters around the ferry landing, where the arrival and departure of each boat sends ripples through the local economy. Restaurants fill when ferries dock; the waterfront empties when they leave.
+
+The harbor itself is an official U.S. port of entry, welcoming boaters from Canada who must clear customs before touching any other land - the fine for failing to do so can reach $5,000. In summer, the marina fills with pleasure craft from Seattle, Vancouver, and beyond. In the distance, the ferries perform their stately dance, visible from nearly anywhere in town as they thread between islands on routes that have connected these communities for generations.
+
+## Whale Country
+
+The west coast of San Juan Island is one of the world's premier locations for whale watching. Three resident pods of orcas patrol these waters, hunting the salmon that run through the strait between the island and Vancouver Island. From Friday Harbor, tour boats depart daily for the whale watching grounds, returning with passengers who have witnessed these apex predators in their home waters.
+
+The industry here takes conservation seriously. Regulations govern how close boats can approach the whales. Scientists from the University of Washington's Friday Harbor Laboratories study the resident population, tracking individuals by their unique markings. The same orcas return year after year, known by name and number, their family trees documented across generations.
+
+## By Ferry, By Sea, By Air
+
+Getting to Friday Harbor is half the adventure. Washington State Ferries runs the Anacortes route, threading through the archipelago with stops at Lopez, Shaw, and Orcas islands before reaching San Juan. The schedule is complicated - some boats loop through multiple islands, others run direct. Vehicle reservations are essential in summer; the wait for unreserved cars can stretch for hours.
+
+Seaplanes offer a faster alternative, splashing down in the harbor's protected waters on scheduled flights from Seattle's Lake Union and Kenmore. The flight takes about 45 minutes, skimming low over the islands with views that make the higher price worthwhile. Private boaters arrive from throughout Puget Sound and British Columbia, though the crossing from the mainland can be rough when gales sweep through the Strait of Juan de Fuca.
+
+## Walking the Waterfront
+
+Friday Harbor's compact size makes it perfect for exploring on foot. From the ferry landing, everything you need is within easy walking distance - restaurants, galleries, the visitor center, and the shops that cater to summer crowds. The waterfront provides constant entertainment: ferries sweeping in without a wake despite their size, seaplanes lifting off, kayakers paddling out for morning tours.
+
+Beyond the immediate harbor, the town makes an excellent base for exploring the east side of San Juan Island. The University of Washington operates Friday Harbor Laboratories on a 476-acre biological preserve open to the public. The preserve offers miles of trails through coastal habitat, a chance to see the island's wild side just minutes from the shops and restaurants of downtown.
+
+## Flight Context
+
+Located at 48.54N, 123.03W on the eastern shore of San Juan Island. Friday Harbor is clearly visible as the main settlement on the island, with the ferry terminal dominating the waterfront. Look for Washington State Ferries coming and going - they're the largest vessels in the area. The harbor is sheltered and hosts numerous small boats. San Juan Island Airport (FHR) with a paved runway is located a few miles from town. Vancouver Island and Victoria, BC are visible to the west. The other San Juan Islands (Orcas, Lopez, Shaw) surround San Juan Island. Nearest major airport: Bellingham International (KBLI) 30 miles east on the mainland. Marine weather common; afternoon winds can kick up in the strait.
+
+## Sources
+
+- [Friday Harbor - Wikivoyage](https://en.wikivoyage.org/?curid=12114)
+- [Friday Harbor, Washington - Wikipedia](https://en.wikipedia.org/wiki/Friday_Harbor,_Washington)
+  - County seat of San Juan County
+  - Official U.S. port of entry
+  - Three resident orca pods
+
+## Review Notes
+
+**Reviewed:** 2026-01-16 · 3 facts verified · 0 corrections
+
+Batch verified: dates, locations, facts accurate
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 680*
+*Read time: 3 minutes*

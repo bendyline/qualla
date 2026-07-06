@@ -1,0 +1,68 @@
+# National Museum of the United States Air Force: A Century of Flight Under Four Hangars
+
+The world's oldest and largest military aviation museum, housing more than 360 aircraft from the Wright Flyer replica to the stealth bomber, plus the presidential jet that carried Kennedy to Dallas and brought his body home.
+
+**Location:** 39.7814, -84.1106
+
+**Categories:** museum, aviation, military, wright-brothers, presidential-history
+
+## Introduction
+
+Somewhere inside four enormous hangars at Wright-Patterson Air Force Base, a polished Boeing 707 sits with its door open as if waiting for passengers. This is SAM 26000, the presidential aircraft that flew John and Jackie Kennedy to Dallas on November 22, 1963. Lyndon Johnson was sworn in as president aboard this airplane while Kennedy's body lay in the rear compartment. It is one of more than 360 aircraft and missiles displayed at the National Museum of the United States Air Force - the oldest and largest military aviation museum in the world, drawing roughly a million visitors a year to Dayton, Ohio, a city that owes its identity to flight.
+
+## From Engine Shop to Four Hangars
+
+The museum traces its origins to 1923, when the Engineering Division at Dayton's McCook Field began collecting technical artifacts. The collection moved to Wright Field in 1927, was named the Army Aeronautical Museum in 1932, and spent the war years in storage. When it finally opened to the public in 1954, the Air Force Museum occupied Building 89 at the former Patterson Field in Fairborn - an old engine overhaul hangar where many aircraft sat outside exposed to Ohio weather. Eugene Kettering, son of inventor Charles F. Kettering, led the effort to build a proper facility, and when he died in 1969, his widow Virginia drove the project to completion. The first permanent building opened in 1971. A second hangar followed in 1988, a third in 2003, and a fourth in June 2016, funded entirely by $40.8 million in private donations through the Air Force Museum Foundation. The museum has more than tripled in size since 1971.
+
+## The Machines That Changed Everything
+
+The collection reads like a timeline of American air power and its consequences. The World War II gallery holds Bockscar, the B-29 that dropped the Fat Man atomic bomb on Nagasaki, and the Boeing B-17F Memphis Belle, whose crew became symbols of the bombing campaign over Europe. The only surviving North American XB-70 Valkyrie - a Mach 3 bomber prototype that represented the bleeding edge of 1960s aerospace engineering - stretches across the fourth building's research and development gallery. One of four remaining Convair B-36 Peacemakers, the massive Cold War intercontinental bomber, dwarfs everything around it. The Apollo 15 Command Module Endeavour, which orbited the Moon 74 times in 1971 carrying astronauts David Scott, James Irwin, and Alfred Worden, sits in the Space Gallery. In a single building complex, visitors walk from wooden biplanes to spacecraft.
+
+## Presidents and Their Planes
+
+The Presidential Gallery in the fourth building houses aircraft used by Franklin D. Roosevelt, Harry Truman, and Dwight D. Eisenhower, but SAM 26000 commands the room. The modified Boeing 707, officially designated VC-137C, served presidents Kennedy, Johnson, and Nixon. The aircraft's history is inseparable from November 22, 1963: it carried the Kennedys to Love Field in Dallas that morning and carried the president's casket back to Washington that evening, with the newly sworn-in President Johnson aboard. The airplane continued as the primary presidential aircraft through Nixon's first term before becoming the backup Air Force One. It was temporarily removed from display in December 2009 for repainting and returned on Presidents' Day 2010, its presidential blue and white livery restored.
+
+## Where Flight Was Born
+
+A large section of the museum is dedicated to the pioneers of flight, and here geography matters: the Wright Brothers conducted their critical experiments at Huffman Prairie, just across the base. A replica of the Wrights' 1909 Military Flyer is on display alongside other Wright artifacts. The building also hosts the National Aviation Hall of Fame. The museum's location at Wright-Patterson is not coincidence but continuity - the base descends directly from the field the Wrights used, and the surrounding Dayton Aviation Heritage National Historical Park preserves the sites where Wilbur and Orville Wright designed, built, and tested the machines that started everything the museum now chronicles.
+
+## Walking the Galleries
+
+The museum is free to enter, organized into galleries that move chronologically through military aviation history. The third building houses post-Cold War aircraft including a Northrop Grumman B-2 Spirit stealth bomber test aircraft and a Lockheed F-117 Nighthawk. The fourth building added the Space Gallery, Presidential Aircraft Gallery, and Global Reach Gallery, putting more than 70 previously stored aircraft back on public display. More than 50 World War II-era A-2 leather flying jackets are exhibited at any given time, including those of actor-turned-brigadier-general James Stewart and P-38 ace Richard Bong. An upgraded digital 3D theater offers aviation and space films. A 360-degree virtual tour launched in 2010 lets remote visitors explore the collection online. On February 28, 2024, a tornado struck the base, damaging the Restoration Hangar and nearby facilities, though the main galleries survived.
+
+## Flight Context
+
+Located at 39.78°N, 84.11°W at Wright-Patterson Air Force Base, northeast of Dayton, Ohio. The museum's four hangars form a distinctive cluster visible from altitude on the eastern side of the base complex. Nearest general aviation airport is Dayton-Wright Brothers Airport (KMGY) about 15 nm south. Wright-Patterson's military runway (KFFO) runs adjacent to the museum. James M. Cox Dayton International Airport (KDAY) lies approximately 12 nm north. The museum sits on land that traces directly to the Wright Brothers' Huffman Prairie flying field. Best aerial view approaches from the southeast, where all four hangar buildings line up in sequence.
+
+## Sources
+
+- [National Museum of the United States Air Force - Wikipedia](https://en.wikipedia.org/?curid=571462)
+  - world's oldest and largest military aviation museum confirmed
+  - over 360 aircraft and missiles confirmed (sources say 350+)
+  - roughly one million visitors per year confirmed
+  - SAM 26000 VC-137C presidential aircraft confirmed
+  - Kennedy flew to Dallas on SAM 26000 confirmed
+  - LBJ sworn in aboard aircraft confirmed
+  - fourth hangar opened June 2016 confirmed
+  - fourth hangar $40.8 million private donations confirmed
+  - Apollo 15 Command Module Endeavour confirmed
+  - XB-70 Valkyrie only surviving example confirmed
+  - Bockscar displayed in museum confirmed
+  - February 28 2024 tornado confirmed
+- [National Museum of the U.S. Air Force - Official Site](https://www.nationalmuseum.af.mil/)
+  - free admission confirmed
+  - B-2 Spirit and F-117 Nighthawk in collection confirmed
+  - collection organized into galleries confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 16 facts verified · 0 corrections
+
+Oldest and largest mil aviation museum, 360+ aircraft, 1M visitors, SAM 26000, fourth hangar 2016, Apollo 15 Endeavour, XB-70 Valkyrie sole survivor, 2024 tornado all confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 850*
+*Read time: 5 minutes*

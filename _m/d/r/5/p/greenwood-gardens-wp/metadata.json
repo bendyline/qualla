@@ -55,5 +55,24 @@
     "sourceGeohash4": "dr5p"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "dr5p-greenwood-gardens-flight-context.mp3",
+      "dr5p-greenwood-gardens-intro.mp3",
+      "dr5p-greenwood-gardens-the-men-who-built-it.mp3",
+      "dr5p-greenwood-gardens-art-worked-into-the-landscape.mp3",
+      "dr5p-greenwood-gardens-the-quiet-decades-and-a-return.mp3",
+      "dr5p-greenwood-gardens-what-remains.mp3"
+    ],
+    "durations": {
+      "dr5p-greenwood-gardens-flight-context.mp3": 41.7049166,
+      "dr5p-greenwood-gardens-intro.mp3": 42.38325,
+      "dr5p-greenwood-gardens-the-men-who-built-it.mp3": 52.6674583,
+      "dr5p-greenwood-gardens-art-worked-into-the-landscape.mp3": 49.302,
+      "dr5p-greenwood-gardens-the-quiet-decades-and-a-return.mp3": 45.9701666,
+      "dr5p-greenwood-gardens-what-remains.mp3": 51.1313333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -2,7 +2,16 @@
   "id": "moscow-wk",
   "patch": {
     "media": {
-      "combinedNarration": "_m/u/c/f/t/moscow-wk/ucft-moscow-combined.mp3"
+      "combinedNarration": "_m/u/c/f/t/moscow-wk/ucft-moscow-combined.mp3",
+      "narration": [
+        "_m/u/c/f/t/moscow-wk/ucft-moscow-flight-context.mp3",
+        "_m/u/c/f/t/moscow-wk/ucft-moscow-intro.mp3",
+        "_m/u/c/f/t/moscow-wk/ucft-moscow-the-kremlin-walls.mp3",
+        "_m/u/c/f/t/moscow-wk/ucft-moscow-red-square.mp3",
+        "_m/u/c/f/t/moscow-wk/ucft-moscow-the-metro-palaces.mp3",
+        "_m/u/c/f/t/moscow-wk/ucft-moscow-the-seven-sisters.mp3",
+        "_m/u/c/f/t/moscow-wk/ucft-moscow-the-new-moscow.mp3"
+      ]
     }
   }
 }

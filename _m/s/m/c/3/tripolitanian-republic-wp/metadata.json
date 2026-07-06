@@ -64,5 +64,26 @@
     "sourceGeohash4": "smc3"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "smc3-tripolitanian-republic-flight-context.mp3",
+      "smc3-tripolitanian-republic-intro.mp3",
+      "smc3-tripolitanian-republic-the-last-ottoman-outpost.mp3",
+      "smc3-tripolitanian-republic-four-leaders-four-directions.mp3",
+      "smc3-tripolitanian-republic-a-republic-dissolved-and-reborn.mp3",
+      "smc3-tripolitanian-republic-fracture-and-fall.mp3",
+      "smc3-tripolitanian-republic-a-precedent-in-the-sand.mp3"
+    ],
+    "durations": {
+      "smc3-tripolitanian-republic-flight-context.mp3": 43.021625,
+      "smc3-tripolitanian-republic-intro.mp3": 43.7195416,
+      "smc3-tripolitanian-republic-the-last-ottoman-outpost.mp3": 51.4534583,
+      "smc3-tripolitanian-republic-four-leaders-four-directions.mp3": 58.1194583,
+      "smc3-tripolitanian-republic-a-republic-dissolved-and-reborn.mp3": 64.908875,
+      "smc3-tripolitanian-republic-fracture-and-fall.mp3": 60.3015833,
+      "smc3-tripolitanian-republic-a-precedent-in-the-sand.mp3": 57.1515
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

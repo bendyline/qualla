@@ -678,5 +678,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "t1dn-horn-of-africa-flight-context.mp3",
+      "t1dn-horn-of-africa-intro.mp3",
+      "t1dn-horn-of-africa-where-humanity-walked-out.mp3",
+      "t1dn-horn-of-africa-empires-at-the-crossroads.mp3",
+      "t1dn-horn-of-africa-the-colonial-fracture.mp3",
+      "t1dn-horn-of-africa-rift-and-resilience.mp3",
+      "t1dn-horn-of-africa-a-living-mosaic.mp3"
+    ],
+    "durations": {
+      "t1dn-horn-of-africa-flight-context.mp3": 47.5070833,
+      "t1dn-horn-of-africa-intro.mp3": 46.5599166,
+      "t1dn-horn-of-africa-where-humanity-walked-out.mp3": 63.5432916,
+      "t1dn-horn-of-africa-empires-at-the-crossroads.mp3": 71.3175833,
+      "t1dn-horn-of-africa-the-colonial-fracture.mp3": 65.987375,
+      "t1dn-horn-of-africa-rift-and-resilience.mp3": 64.1362916,
+      "t1dn-horn-of-africa-a-living-mosaic.mp3": 74.6519166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

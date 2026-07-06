@@ -104,5 +104,26 @@
   "galleryPaths": [
     "_m/t/w/1/t/uzbin-valley-ambush-wp/uzbin-valley-ambush-lo.png",
     "_m/t/w/1/t/uzbin-valley-ambush-wp/location-uzbin-valley.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "tw1t-uzbin-valley-ambush-flight-context.mp3",
+      "tw1t-uzbin-valley-ambush-intro.mp3",
+      "tw1t-uzbin-valley-ambush-an-inherited-calm.mp3",
+      "tw1t-uzbin-valley-ambush-fifty-meters-from-the-summit.mp3",
+      "tw1t-uzbin-valley-ambush-a-day-of-reckoning.mp3",
+      "tw1t-uzbin-valley-ambush-trophies-and-recriminations.mp3",
+      "tw1t-uzbin-valley-ambush-the-valley-endures.mp3"
+    ],
+    "durations": {
+      "tw1t-uzbin-valley-ambush-flight-context.mp3": 40.3852083,
+      "tw1t-uzbin-valley-ambush-intro.mp3": 53.0779166,
+      "tw1t-uzbin-valley-ambush-an-inherited-calm.mp3": 61.1841666,
+      "tw1t-uzbin-valley-ambush-fifty-meters-from-the-summit.mp3": 61.8742083,
+      "tw1t-uzbin-valley-ambush-a-day-of-reckoning.mp3": 60.565,
+      "tw1t-uzbin-valley-ambush-trophies-and-recriminations.mp3": 62.8989583,
+      "tw1t-uzbin-valley-ambush-the-valley-endures.mp3": 55.2193333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

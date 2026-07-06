@@ -59,5 +59,26 @@
     "sourceGeohash4": "dr5p"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "dr5p-linden-assembly-flight-context.mp3",
+      "dr5p-linden-assembly-intro.mp3",
+      "dr5p-linden-assembly-branch-plant-on-the-turnpike.mp3",
+      "dr5p-linden-assembly-wildcats-over-the-runway.mp3",
+      "dr5p-linden-assembly-the-luxury-years.mp3",
+      "dr5p-linden-assembly-retooled-and-retired.mp3",
+      "dr5p-linden-assembly-the-footprint-that-remains.mp3"
+    ],
+    "durations": {
+      "dr5p-linden-assembly-flight-context.mp3": 39.4558333,
+      "dr5p-linden-assembly-intro.mp3": 47.8804166,
+      "dr5p-linden-assembly-branch-plant-on-the-turnpike.mp3": 39.8919166,
+      "dr5p-linden-assembly-wildcats-over-the-runway.mp3": 50.7186666,
+      "dr5p-linden-assembly-the-luxury-years.mp3": 50.2487916,
+      "dr5p-linden-assembly-retooled-and-retired.mp3": 50.1954583,
+      "dr5p-linden-assembly-the-footprint-that-remains.mp3": 51.4594166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

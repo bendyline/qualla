@@ -1,0 +1,64 @@
+# Brooklyn Museum
+
+New York City's second-largest art museum, housing 500,000 objects in a Beaux-Arts building by McKim, Mead & White that was originally planned four times larger, where a collection spanning Egyptian antiquities to feminist art has weathered chronic underfunding to become one of America's most important cultural institutions.
+
+**Location:** 40.6712, -73.9636
+
+**Categories:** museum, art, architecture, brooklyn
+
+## Introduction
+
+The building was supposed to be four times this size. When McKim, Mead & White won the design competition in the early 1890s -- an event the Brooklyn Daily Eagle called "one of the most important in the history of architecture" -- the plan called for a structure that would have dwarfed the Metropolitan Museum across the river. Then Brooklyn merged into Greater New York City in 1898, political support evaporated, and construction stalled at roughly one-quarter of the original vision. What remains is still the second-largest art museum in New York City, holding 500,000 objects in 560,000 square feet, a monument to both aspiration and the stubborn refusal to let budgets dictate ambition.
+
+## From Apprentices' Library to Cultural Powerhouse
+
+The Brooklyn Museum's origins trace to August 1823, when a group of citizens including Augustus Graham founded the Brooklyn Apprentices' Library in Brooklyn Heights. It merged with the Brooklyn Institute of Arts and Sciences in 1843, and by 1889, prominent Brooklynites were raising funds for a dedicated museum building just east of Prospect Park, on the south side of Eastern Parkway. Brooklyn mayor Charles A. Schieren committed $300,000 per year in bonds for construction in 1895. Engineers surveyed the site and found bedrock several hundred feet deep -- too far to reach -- but determined the gravel fill could support the building. The museum formally opened on October 2, 1897, one of the last major structures built in the city of Brooklyn before its absorption into Greater New York. Its first exhibit: a collection of almost 600 paintings.
+
+## A Building That Never Finished Growing
+
+The museum's physical history is a story of perpetual incompleteness. The central entrance pavilion was approved in 1899; its eastern wing opened in 1907, bringing the building to one-eighth of its planned size. Wings F and G, extending south, were contracted in 1911, but one builder went bankrupt in 1913 and work stopped entirely by 1914. Construction stalled again in 1928. In 1934, the main entrance steps were removed in a controversial modernization. Only 28 of the 80 planned facade sculptures -- carved by the Piccirilli Brothers, the same artisans who carved the Lincoln Memorial -- were ever installed. The 30 that exist include 20 classical figures on the northern elevation and 10 Persian and Chinese figures on the sides, each measuring 12 feet high. Daniel Chester French designed the pediment sculptures and the allegorical figures of Brooklyn and Manhattan that now flank the entrance, relocated from the Manhattan Bridge approach in 1963.
+
+## The Perennial Struggle to Stay Open
+
+Funding crises have been a recurring theme. By the late 1950s, director Edgar Schenck blamed the museum's troubles on Manhattan residents' unwillingness to cross the East River. A shortage of security guards forced gallery closures in the early 1960s. Staff disputes in the 1970s led to mass resignations and a strike. The museum eliminated its Middle Eastern art division in 1979 due to budget cuts. Director Michael Botwinick considered halving art classes and closing during the workweek in 1980. Yet the museum kept reinventing itself. In 1968, responding to demands from Brooklyn arts organizations, it opened a Community Gallery showcasing Black artists' work -- an initiative that director Henri Ghent estimated attracted 100,000 new visitors, many of whom had never set foot in a museum before. It was one of the first American institutions to exhibit African objects as art rather than ethnological artifacts, as early as 1923.
+
+## Sensation and Reinvention
+
+The museum's 1999 exhibition of Charles Saatchi's Sensation collection -- featuring Chris Ofili's The Holy Virgin Mary -- provoked Mayor Rudolph Giuliani to threaten the museum's city funding. A federal court ruled that the city could not withhold funds on First Amendment grounds, a landmark decision for museum independence. The controversy brought national attention and, paradoxically, helped revitalize the institution. In 2002, the museum received Judy Chicago's The Dinner Party, which became the centerpiece of the Elizabeth A. Sackler Center for Feminist Art when it opened in 2007. Architect James Polshek designed a new glass entrance in 2004, describing the old front as a "wasteland" and envisioning "Brooklyn's new front stoop." The renovation cost $63 million and finally added air conditioning throughout the building.
+
+## Half a Million Objects and Counting
+
+The collection spans 3,000 years of Egyptian antiquities, including the famous "Bird Lady" terra cotta figure and papyrus documents like the Brooklyn Papyrus. The African art collection, more than 6,000 objects covering 2,500 years, includes a carved ndop figure of a Kuba king believed to be among the oldest surviving examples. American art ranges from Gilbert Stuart's portrait of George Washington to Edward Hicks's The Peaceable Kingdom to Georgia O'Keeffe's Blue 1. The museum holds works by Mark Rothko, Edward Hopper, Norman Rockwell, Winslow Homer, and Edgar Degas. In 2021, the city gave the museum $50 million -- the largest government gift in its history -- to convert 40,000 square feet into new gallery space. Staff unionized the same year and ratified their first contract in 2023. The building that was supposed to be four times larger continues to prove that what it lacks in square footage, it has always made up for in nerve.
+
+## Flight Context
+
+Located at 40.6712N, 73.9636W on the south side of Eastern Parkway in Brooklyn, adjacent to Prospect Park and the Brooklyn Botanic Garden. The large neoclassical Beaux-Arts building with its distinctive portico and columned facade is visible from moderate altitudes, identifiable by its position at the northwest corner of the Prospect Park/Botanic Garden green space. Nearest airports: KJFK (JFK, 10nm SE), KLGA (LaGuardia, 10nm NE), KEWR (Newark, 11nm W). Recommended viewing altitude: 2,000-3,000 ft AGL.
+
+## Sources
+
+- [Brooklyn Museum - Wikipedia](https://en.wikipedia.org/?curid=604865)
+  - Second-largest art museum in New York City confirmed
+  - 500,000 objects in 560,000 square feet confirmed
+  - Founded 1823 as Brooklyn Apprentices' Library confirmed
+  - Merged with Brooklyn Institute of Arts and Sciences 1843 confirmed
+  - McKim, Mead & White designed the building confirmed
+  - Museum opened October 2, 1897 confirmed
+  - Brooklyn Eagle described competition as 'one of the most important in the history of architecture' confirmed
+  - Sensation exhibition 1999 and Giuliani funding threat confirmed
+  - Judy Chicago's The Dinner Party received 2002 confirmed
+  - Elizabeth A. Sackler Center for Feminist Art opened 2007 confirmed
+  - City gave $50 million in 2021 — largest government gift confirmed
+  - Staff unionized and ratified first contract 2023 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 12 facts verified · 0 corrections
+
+All key facts verified: second-largest NYC museum, 500K objects, 560K sq ft, McKim Mead White design, 1823 founding, 1897 opening, Sensation controversy, 0M city gift 2021. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 840*
+*Read time: 4 minutes*

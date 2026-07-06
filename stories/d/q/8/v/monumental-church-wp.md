@@ -1,0 +1,64 @@
+# Monumental Church
+
+An octagonal church built atop the ashes of Richmond's deadliest disaster, designed by the architect of the Washington Monument, with 72 victims still buried in its crypt.
+
+**Location:** 37.5389, -77.4300
+
+**Categories:** history, architecture, religion, historic-landmarks
+
+## Introduction
+
+Beneath the stone floor of Monumental Church, 72 people lie where they fell. On December 26, 1811, the Richmond Theatre that once occupied this spot on Broad Street was consumed by fire in a matter of minutes, killing Virginia's sitting governor, a former U.S. senator, and dozens of the city's most prominent citizens. The church that replaced it was never meant to let anyone forget. Designed by Robert Mills -- the same architect who would later build the Washington Monument -- it was conceived from the beginning as both a house of worship and a memorial to the dead.
+
+## From Ashes to Octagon
+
+Chief Justice John Marshall, who had championed the construction of the theatre that burned, now commissioned its replacement. The site carried weight: before the theatre, it had housed the first Academy of Fine Arts and Sciences in America, founded by a French Revolutionary War officer named Chevalier Quesnay de Beaurepaire. The Virginia Ratifying Convention of 1788 had met in that same building, its 1,600-person capacity making it the largest venue in the city. James Madison, James Monroe, Patrick Henry, George Mason, and George Wythe all debated the Constitution within its walls. Built between 1812 and 1814, Monumental Church took the unusual form of an octagon. Its walls of brick faced with Aquia Creek sandstone and stucco enclose a space that is equal parts sanctuary and tomb, with the remains of the fire's victims interred in a brick crypt beneath the floor.
+
+## The Architect Who Feared Fire
+
+Robert Mills was America's first native-born professional architect, and he carried the lessons of the Richmond Theatre disaster throughout his career. His design for Monumental Church combined a monumental thirty-two-foot-square porch with the octagonal auditorium behind it. The porch adopted what Mills described as shadow, void, and contrasting forms, its massive Doric columns and large piers creating a solemn, shaded entrance. A low saucer dome caps the nave, pierced at its center by a round cupola. Mills had a reputation for being particularly concerned with fireproofing, and the Monumental Church was where that obsession took root. He would go on to design Charleston's Fireproof Building and, of course, the Washington Monuments in both Baltimore and Washington, D.C. The design sparked a rivalry with Benjamin Henry Latrobe, whose competing plans had been passed over -- an awkward situation, since Mills had once worked as Latrobe's assistant.
+
+## The Pews of the Famous
+
+Monumental Church quickly became one of Richmond's most prestigious congregations. Chief Justice John Marshall's family occupied pew No. 23. Edgar Allan Poe's foster parents, the Allans, sat in pew No. 80 -- young Edgar would have attended services here as a boy. The Marquis de Lafayette worshipped at Monumental when he visited Richmond in 1824. Three new congregations eventually spun off from the church: St. James's in 1831, St. Paul's in 1845, and All Saints in 1888. On November 20, 1817, Monumental Church established the first Sunday School program in Richmond. But as the city's population dispersed to the suburbs through the twentieth century, the congregation shrank. By 1965, the church was judged too costly to operate. It was deconsecrated and turned over to the Medical College of Virginia for classroom space -- an ignominious second life for a building born of tragedy.
+
+## The Monument Reborn
+
+The Medical College eventually transferred Monumental Church to the Historic Richmond Foundation, an affiliate of the Association for the Preservation of Virginia Antiquities. In 2004, a major renovation brought the building back to something approaching its original purpose as a memorial. The original marble monument -- an urn inscribed with the names of all 72 victims on its four cardinal faces -- had deteriorated badly. Restorers used laser scanners to record every dimension of the monument, then transmitted the data to Ireland, where stonecutters used both digital technology and traditional hand tools to carve a 7,000-pound replica. The bodies of the fire's victims remain in the brick crypt below, undisturbed after more than two centuries. Regular tours began in 2006 through the Valentine Richmond History Center's Court End Passport program. The church sits today in Richmond's Court End historic district, a National Historic Landmark that stands as one of America's earliest and most distinctive Greek Revival buildings -- and one of its most poignant memorials.
+
+## Flight Context
+
+Monumental Church is located at 1224 E. Broad Street in Richmond's Court End district, at 37.539N, 77.430W. The octagonal building with its distinctive saucer dome and monumental porch is nestled among the institutional buildings near the Virginia State Capitol. Look for the octagonal roof form just north of Capitol Square. Richmond International Airport (KRIC) is 7 miles southeast. Best viewed at 1,000-2,000 feet AGL. The Egyptian Building of VCU is immediately adjacent.
+
+## Sources
+
+- [Monumental Church - Wikipedia](https://en.wikipedia.org/?curid=4644438)
+  - 72 people died in fire confirmed
+  - built 1812-1814 confirmed
+  - Robert Mills designed confirmed
+  - octagonal form confirmed
+  - Chief Justice John Marshall pew No. 23 confirmed
+  - Edgar Allan Poe foster parents (Allans) pew No. 80 confirmed
+  - Lafayette visited 1824 confirmed
+  - first Sunday School in Richmond established November 20 1817 confirmed
+  - deconsecrated 1965 confirmed
+  - transferred to Historic Richmond Foundation confirmed
+  - 2004 renovation confirmed
+  - 72 victims' names on marble urn confirmed
+- [Robert Mills (architect) - Wikipedia](https://en.wikipedia.org/wiki/Robert_Mills_(architect))
+  - Mills considered America's first native-born professional architect (though contested by some historians)
+  - designed Washington Monument in Washington DC and Baltimore confirmed
+  - designed Charleston Fireproof Building confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 13 facts verified · 0 corrections
+
+Facts verified: 72 fire victims, built 1812-1814, Robert Mills designed, octagonal form, John Marshall pew No. 23, Edgar Allan Poe foster parents (Allans) pew No. 80, Lafayette visited 1824, first Sunday School in Richmond November 20 1817, deconsecrated 1965, transferred to Historic Richmond Foundation, 2004 renovation, 72 victims' names on marble urn. Mills is America's first native-born professional architect (with some scholarly debate - story appropriately uses this framing). All major facts confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 720*
+*Read time: 4 minutes*

@@ -1,0 +1,61 @@
+# Soufrière Hills
+
+After centuries of silence, the Soufrière Hills volcano on Montserrat erupted in 1995 and did not stop for nearly two decades, burying the island's capital under 40 feet of ash and driving two-thirds of its people away.
+
+**Location:** 16.7167, -62.1833
+
+**Categories:** geology, volcano, disaster, caribbean
+
+## Introduction
+
+Plymouth is still there, under the ash. The clock tower, the government buildings, the houses where families ate breakfast and argued about politics and hung laundry in the Caribbean sun -- all of it entombed beneath roughly 40 feet of volcanic debris, earning the town its haunting nickname: "the new Pompeii." The Soufrière Hills volcano, which looms over the southern half of the tiny Caribbean island of Montserrat, had been dormant for so long that nobody alive remembered it being anything other than a green, forested mountain. The last significant eruption had been around 1550 AD. Then, on 18 July 1995, the first phreatic explosions cracked through the summit, and everything Montserratians understood about their island began to collapse along with the growing lava dome.
+
+## The Slow Catastrophe
+
+The cruelest thing about the Soufrière Hills eruption was its pace. This was not a single cataclysmic blast like Mount St. Helens. It was a grinding, episodic disaster that dragged on for years, punctuated by moments of terror. The first phreatic explosions in July 1995 led to an initial evacuation of Plymouth that lasted just two weeks. People went home. Then the lava dome began growing inside English's Crater, a sector-collapse scar first identified in the 1930s. The dome grew, and the evacuations resumed. Residents were allowed back to Plymouth on 1 January 1996. By April, pyroclastic flows and mudflows had become routine enough to trigger a permanent evacuation of the capital and the entire southern part of the island. For those who lived through it, the eruption was a years-long negotiation with uncertainty -- a volcano that offered just enough quiet between episodes to make people wonder if it was finally done, before proving that it was not.
+
+## The Day the Dome Collapsed
+
+On 25 June 1997, the volcano killed nineteen people. A massive dome collapse sent pyroclastic flows racing down the mountain's flanks at speeds that left no time for escape. The W. H. Bramble Airport, Montserrat's only airfield, sat directly in the path of the main flow and was completely destroyed. The island's tourist industry, already weakened, collapsed alongside it. The eruption that summer buried most of Plymouth under pyroclastic deposits and ash, transforming a functioning Caribbean capital into a grey moonscape. The human toll extended far beyond the nineteen dead. About two-thirds of Montserrat's population -- roughly 8,000 people -- eventually left the island. Many evacuated to Antigua and Barbuda, which warned it could not absorb many more refugees. Others scattered to Britain, the Virgin Islands, wherever they had family or could find footing. They left behind homes, businesses, churches, and the graveyards where their ancestors were buried.
+
+## A Volcano That Keeps Reshaping Itself
+
+The Soufrière Hills is an andesitic stratovolcano, a type known for lava dome formation and explosive collapse rather than the flowing rivers of lava that volcanoes like Kilauea produce. Its summit changes shape. Chances Peak was once the highest point on Montserrat, but the volcanic domes that grew and collapsed during the eruption cycle alternately exceeded and fell below its elevation. Two interconnected magma chambers feed the system -- one six kilometers below the surface, the other at twelve kilometers -- and a 2008 study published in Science demonstrated that the behavior of the deeper chamber influences eruption patterns at the surface. The volcano continued to erupt periodically through 2010, with a notable vulcanian explosion on 5 February of that year propelling pyroclastic flows down multiple sides of the mountain simultaneously. The most recent eruption was in 2013. The Montserrat Volcano Observatory, now one of the most sophisticated monitoring stations in the world, watches the dome constantly.
+
+## Ghosts and Music
+
+Before the eruption, Montserrat had an improbable cultural legacy. In 1979, Beatles producer George Martin built AIR Studios in the hills near Salem, and for a decade some of the world's biggest musicians recorded there -- Jimmy Buffett wrote his song "Volcano" after relaxing at a hot spring at the mountain's base, never imagining the song would become grimly prophetic. Hurricane Hugo damaged the studio in 1989. The eruption finished it. The ruins sit in the exclusion zone now, alongside the abandoned settlements that read like a roll call of loss: Plymouth, Kinsale, Long Ground, Galway's Estate, Harris, Bethel, Streatham. Some, like Salem and Woodlands, have been resettled. Most have not. From the observation point on Jack Boy Hill, visitors can look south across the grey landscape and see boulders still occasionally tumbling down the slopes. The island is getting larger -- the eruption's deposits have extended the southern coastline. But for the Montserratians who lost everything, the new land came at a price no one would have chosen to pay.
+
+## Flight Context
+
+Located at 16.72°N, 62.18°W in the southern half of Montserrat, Leeward Islands. The Soufrière Hills complex dominates the island's center-south and is dramatically visible from altitude: look for the grey lava dome surrounded by pyroclastic flow deposits fanning outward toward the coast in multiple directions. Plymouth, the buried capital, is on the southwestern coast, its structures partially visible beneath ash deposits. The devastation zone contrasts sharply with the green, inhabited northern third of the island. Pyroclastic flow channels are clearly visible as grey scars running from the dome to the sea. The destroyed W. H. Bramble Airport's runway is still faintly discernible on the eastern coast beneath deposits. Nearest functioning airport: John A. Osborne Airport (TRPM) in the island's north. Antigua (TAPA) is approximately 27nm northeast. Maintain safe altitude -- volcanic gas emissions are monitored continuously, and the dome remains potentially active. Approach from the east or west for the most dramatic cross-section view of the volcanic devastation.
+
+## Sources
+
+- [Soufrière Hills - Wikipedia](https://en.wikipedia.org/?curid=986670)
+- [Soufrière Hills - Wikipedia](https://en.wikipedia.org/wiki/Soufri%C3%A8re_Hills)
+  - First phreatic explosions 18 July 1995 confirmed
+  - 19 people killed 25 June 1997 confirmed
+  - W.H. Bramble Airport destroyed confirmed
+  - Two-thirds of population (~8,000) eventually left confirmed
+  - Last eruption 2013 confirmed
+  - Volcano currently at Hazard Level 1 (low activity) as of 2025-2026
+  - Andesitic stratovolcano type confirmed
+  - Two magma chambers at 6km and 12km confirmed
+- [Jimmy Buffett Volcano song - Beachitude](http://beachitude.com/jimmy-buffetts-volcano-the-story-behind-the-song-and-album/)
+  - Jimmy Buffett recorded Volcano album on Montserrat in 1979 confirmed
+  - Hot spring near volcano where band relaxed confirmed
+  - Hot spring destroyed when volcano erupted in 1995 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-12 · 8 facts verified · 0 corrections
+
+Verified first eruption July 18 1995, 19 killed June 25 1997, W.H. Bramble airport destroyed, two-thirds of population (~8,000) fled, last eruption 2013, currently Hazard Level 1. Jimmy Buffett hot spring claim verified. Andesitic stratovolcano type and dual magma chambers confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

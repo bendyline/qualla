@@ -1,0 +1,63 @@
+# Swedish Warship Mars
+
+The largest warship of her age, nicknamed 'The Jute Hater,' exploded in battle in 1564 and lay undiscovered on the Baltic seafloor for over four centuries.
+
+**Location:** 57.1403, 17.3489
+
+**Categories:** Maritime History, Shipwrecks, Swedish Military History, 16th Century, Underwater Archaeology
+
+## Introduction
+
+Eyewitnesses said the foremast shot into the air 'like a crossbow bolt.' On May 31, 1564, the Swedish warship Mars - one of the largest vessels afloat anywhere in the world - blew apart in a catastrophic magazine explosion during the First Battle of Oland. Three hundred Lubeckian sailors who had just boarded her to claim the prize died instantly. The shattered hull sank so quickly that her exact location was lost for 447 years. When divers finally reached her in 2011, they found bronze cannon worth fortunes scattered across the Baltic seafloor, untouched by any salvage attempt in history.
+
+## A King's Ambition Afloat
+
+Eric XIV succeeded his father Gustav Vasa to the Swedish throne in 1560 with grand ambitions. The independence his father had won remained disputed; a powerful navy could both defend Swedish sovereignty and generate wealth by taxing foreign ships passing through Baltic waters. The keel of Mars was laid in 1561, and by autumn 1563, the massive warship was complete - just as the Northern Seven Years' War engulfed the region. The ship earned the nickname 'Makalos' (Peerless, or Astounding) and was traditionally called 'Jutehataren' - The Jute Hater - a reference to Sweden's conflicts with Denmark and the Jutland peninsula. Mars became the flagship of the Swedish fleet, the physical embodiment of Eric XIV's maritime power.
+
+## Naval Revolution
+
+Mars was born at a moment of transformation in naval warfare. Carvel construction - planks laid edge-to-edge rather than overlapping - had arrived in northern European waters during the previous century, but techniques were still evolving. The archaeology of the Mars wreck reveals a ship built at the cutting edge of contemporary methods. Tactics too were changing. The Dutch, Europe's dominant maritime power, still favored close-range melee actions with ships of similar size grappling and boarding each other. But a shift toward stand-off gunnery was underway - the beginning of a transition that would eventually produce the formal line of battle. Mars carried enough firepower to destroy enemies at distance, yet still faced opponents who wanted to close and board.
+
+## Two Days of Battle
+
+The First Battle of Oland began on May 30, 1564. The first day favored Sweden: one Lubeckian ship was sunk and the Danish flagship Fortuna badly damaged. Both fleets withdrew for the night. But bad weather scattered the Swedish formation, and when fighting resumed the next morning, Mars found herself isolated from supporting vessels. Enemy ships converged on the giant flagship. Incendiary weapons set her ablaze. Admiral Jacob Bagge, the Swedish commander, ordered the colors struck in surrender. Roughly three hundred Lubeckian sailors clambered aboard, eager for their share of the greatest prize any of them had ever seen. Then the fire reached the powder magazine.
+
+## Lost and Found
+
+The explosion broke the hull into three major pieces: port side, starboard side, and lower hull, each sinking independently to the seafloor northeast of the island of Oland. The forward section was largely destroyed. At depths beyond the reach of period salvage technology, with the precise location unknown, the valuable bronze guns remained untouched through all the centuries that followed. In 2011, the company Ocean Discovery located the wreck site after a systematic search using sidescan sonar. The images were unmistakable: a large wooden warship surrounded by cast bronze cannon. The discovery sparked immediate archaeological interest.
+
+## Archaeology of a Flagship
+
+The investigation brought together an unusual collaboration: the Maritime Archaeological Research Institute (MARIS) at Sodertorn University, MMT (a marine survey company from the oil and gas industry), Ocean Discovery, and Deep Sea Productions. The depth required divers to use mixed gas and rebreather techniques to extend their time on the wreck. ROVs equipped with cameras documented what divers could not easily reach. Multibeam sonars and a bottom-based acoustic scanning system called Blueview mapped the debris field in detail. What emerged was a portrait of 16th-century shipbuilding frozen at the moment of catastrophe - construction methods, armament, personal effects of crew, all preserved in the cold Baltic waters where Mars had waited through four and a half centuries of silence.
+
+## Flight Context
+
+The wreck of Mars lies on the Baltic seafloor northeast of Oland island at approximately 57.14N, 17.35E. The wreck site is not visible from the air - the ship rests at depths beyond light penetration. However, the location can be referenced relative to Oland, the long narrow island visible along Sweden's southeastern coast. From altitude, Oland appears as a distinctive strip of land parallel to the Swedish mainland, separated by the Kalmar Strait. The First Battle of Oland took place in these waters in 1564. Kalmar Airport (ESMQ) on the mainland provides the nearest major access. Flying at 5,000-10,000 feet offers excellent views of the Baltic coastline and the historically significant waters where Swedish, Danish, and Lubeckian fleets once clashed.
+
+## Sources
+
+- [Swedish warship Mars - Wikipedia](https://en.wikipedia.org/?curid=32811266)
+  - Built 1561-1563
+  - Exploded May 31 1564 during First Battle of Oland
+  - Nicknamed Makalos (Peerless)
+  - 300 Lubeckians aboard when it exploded
+- [National Geographic - Cursed Warship Revealed](https://www.nationalgeographic.com/adventure/article/140707-mars-shipwreck-warship-baltic-sea-archaeology-science)
+  - Wreck discovered 2011 by Ocean Discovery
+  - Found at 75 meters depth
+  - Foremast shot into air like crossbow bolt - eyewitness account verified
+- [GUE - Discovery of Swedish wreck Mars](https://www.gue.com/discovery-swedish-wreck-mars)
+  - MARIS, MMT, Ocean Discovery, and Deep Sea Productions collaboration confirmed
+  - Best preserved vessel of its kind
+
+## Review Notes
+
+**Reviewed:** 2026-02-03 · 10 facts verified · 0 corrections
+
+Verified: Built 1561-1563, exploded May 31 1564, discovered 2011 by Ocean Discovery, 300 Lubeckians killed, foremast crossbow bolt eyewitness account, MARIS collaboration. All facts accurate.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

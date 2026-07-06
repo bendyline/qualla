@@ -706,5 +706,24 @@
     "_m/u/2/0/f/doge-s-palace-wp/horloge-2-palais-des-doges.jpg",
     "_m/u/2/0/f/doge-s-palace-wp/piece-d-armure-1-palais-des-do.jpg"
   ],
-  "updatedAt": "2026-03-31T18:55:23.516Z"
+  "updatedAt": "2026-03-31T18:55:23.516Z",
+  "narration": {
+    "files": [
+      "u20f-doges-palace-flight-context.mp3",
+      "u20f-doges-palace-intro.mp3",
+      "u20f-doges-palace-a-palace-that-kept-burning-down.mp3",
+      "u20f-doges-palace-giants-at-the-gate.mp3",
+      "u20f-doges-palace-rooms-where-republics-governed.mp3",
+      "u20f-doges-palace-from-gothic-icon-to-global-template.mp3"
+    ],
+    "durations": {
+      "u20f-doges-palace-flight-context.mp3": 53.45775,
+      "u20f-doges-palace-intro.mp3": 60.456875,
+      "u20f-doges-palace-a-palace-that-kept-burning-down.mp3": 73.3960416,
+      "u20f-doges-palace-giants-at-the-gate.mp3": 69.5784583,
+      "u20f-doges-palace-rooms-where-republics-governed.mp3": 79.3887916,
+      "u20f-doges-palace-from-gothic-icon-to-global-template.mp3": 73.25825
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

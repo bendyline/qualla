@@ -206,5 +206,26 @@
     "_m/g/c/p/v/canary-wharf-wp/jack-the-ripper-museum.jpg",
     "_m/g/c/p/v/canary-wharf-wp/canary-wharf-from-limehouse-lo.jpg"
   ],
-  "updatedAt": "2026-03-20T06:05:03.194Z"
+  "updatedAt": "2026-03-20T06:05:03.194Z",
+  "narration": {
+    "files": [
+      "gcpv-canary-wharf-flight-context.mp3",
+      "gcpv-canary-wharf-intro.mp3",
+      "gcpv-canary-wharf-when-the-docks-worked.mp3",
+      "gcpv-canary-wharf-the-reichmann-gamble.mp3",
+      "gcpv-canary-wharf-rescue-by-underground.mp3",
+      "gcpv-canary-wharf-quiet-squares-between-the-towers.mp3",
+      "gcpv-canary-wharf-a-second-downtown.mp3"
+    ],
+    "durations": {
+      "gcpv-canary-wharf-flight-context.mp3": 59.5927916,
+      "gcpv-canary-wharf-intro.mp3": 64.36275,
+      "gcpv-canary-wharf-when-the-docks-worked.mp3": 75.6655833,
+      "gcpv-canary-wharf-the-reichmann-gamble.mp3": 73.3805833,
+      "gcpv-canary-wharf-rescue-by-underground.mp3": 73.2035833,
+      "gcpv-canary-wharf-quiet-squares-between-the-towers.mp3": 68.5722916,
+      "gcpv-canary-wharf-a-second-downtown.mp3": 60.365125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

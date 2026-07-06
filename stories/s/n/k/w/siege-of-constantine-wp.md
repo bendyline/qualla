@@ -1,0 +1,62 @@
+# Siege of Constantine
+
+The 1837 French siege that broke the last autonomous Algerian beylik, driven as much by Parisian electoral politics as by military strategy.
+
+**Location:** 36.2833, 6.6167
+
+**Categories:** military-history, colonial-history, sieges, french-conquest
+
+## Introduction
+
+The decision to attack Constantine in October 1837 was made in Paris, and it was made for reasons that had little to do with Algeria. King Louis Philippe I needed a military victory before upcoming elections. His predecessor Charles X had used the 1830 invasion of Algiers the same way. The pattern was grimly efficient: send an army to North Africa, win a battle, harvest the votes. The fact that the previous expedition against Constantine, led by Bertrand Clausel in 1836, had ended in humiliating failure only made the prize more valuable. France needed revenge, and Constantine would provide it.
+
+## Princes in Competition
+
+The preparations were complicated by a family rivalry that would have been comic if the stakes had not been so high. Louis Philippe's two eldest sons, Prince Ferdinand Philippe and Prince Louis, Duke of Nemours, both insisted on participating. The elder prince considered it his birthright. The younger, who had been present for the failed 1836 expedition, was determined to avenge that embarrassment. The king chose Louis, who took command of the 1st Brigade as the army assembled at Merdjez-Hammar camp on the banks of the Seybouse River in Guelma Province, halfway between the port of Bona and the target city. The overall command fell to Governor-General Charles-Marie Denys de Damremont, with General Sylvain Charles Valee directing the artillery.
+
+## Four Days of Bombardment
+
+The French Army departed Bona on October 1, harassed by Algerian fighters throughout the march. By October 9, siege batteries were positioned on the Koudiat-Aty plateau overlooking the city. For four days, French artillery pounded Constantine's walls, eventually creating two breaches wide enough for an assault force. The bombardment was methodical, reducing defensive positions while inflicting heavy damage on the city's structures. General Damremont led the initial assault on October 12 but was killed in the fighting. His successor, Valee, completed the attack. Six hundred French troops stormed through the breaches on October 13 and fought their way through the streets in fierce house-to-house combat. The Algerian defenders resisted with determination, but by nightfall the city had capitulated.
+
+## The Fall of Ahmed Bey
+
+The siege ended the Beylik of Constantine, the last autonomous Algerian province under Ahmed Bey ben Mohamed Cherif. Ahmed Bey had ruled from the palace he had spent a decade building, a complex of marble columns and painted walls that celebrated his travels across the Ottoman world. Now he fled, and the French occupied a city whose resistance had cost them dearly but whose strategic importance justified the price. Valee was promoted to Marshal of France on November 11 and appointed Governor-General of French Possessions in Africa on December 1. The rewards flowed in the direction Paris had always intended.
+
+## Empire as Electoral Strategy
+
+The siege of Constantine illustrates a pattern that would repeat itself throughout European colonial history: military campaigns launched not because of conditions in the colony but because of political needs in the metropole. Louis Philippe dissolved the Chamber of Deputies shortly after the victory, as planned. The conquest of Constantine provided the patriotic narrative his government needed. For the people of Constantine, the siege meant the end of centuries of autonomy. Their city, perched on its dramatic plateau above the Rhumel gorge, had resisted invasion since antiquity. The Romans had besieged it. The Vandals had attacked it. The Ottomans had ruled it. But the French bombardment of 1837 marked a different kind of rupture, one that would reshape the city's architecture, its demographics, and its identity for the next 125 years, until independence in 1962 brought a new chapter.
+
+## Flight Context
+
+Located at 36.28N, 6.62E in northeastern Algeria. Constantine's position atop a plateau above the Rhumel River gorge made it a natural fortress. The Koudiat-Aty plateau where French siege batteries were positioned is south of the old city. Best viewed at 3,000-5,000 feet AGL. Nearest airport: Mohamed Boudiaf International Airport (DABC) approximately 10 km south. City elevation approximately 640 meters.
+
+## Sources
+
+- [Siege of Constantine - Wikipedia](https://en.wikipedia.org/?curid=34946261)
+  - Siege October 1837 confirmed
+  - French Army departed Bona October 1 confirmed
+  - Siege batteries on Koudiat-Aty plateau by October 9 confirmed
+  - General Damremont mortally wounded October 12 confirmed
+  - Six hundred French troops stormed through breaches October 13 confirmed
+  - Valee promoted to Marshal of France November 11 confirmed
+  - Valee appointed Governor-General December 1 confirmed
+  - Failed 1836 expedition under Clausel confirmed
+  - Louis Philippe's son Louis Duke of Nemours commanded 1st Brigade confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 9 facts verified · 0 corrections
+
+October 1837 siege, Damremont killed Oct 12, Valee completed assault Oct 13, promoted Marshal Nov 11, Governor-General Dec 1 all verified.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- The decision to attack Constantine was made in Paris for electoral reasons rather than military necessity
+- Military campaigns launched not because of conditions in the colony but because of political needs in the metropole
+
+---
+
+*Word count: 700*
+*Read time: 4 minutes*

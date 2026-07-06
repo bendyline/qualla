@@ -1274,5 +1274,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u82f-transylvania-flight-context.mp3",
+      "u82f-transylvania-intro.mp3",
+      "u82f-transylvania-crossroads-of-empires.mp3",
+      "u82f-transylvania-fortresses-of-faith.mp3",
+      "u82f-transylvania-the-carpathian-ring.mp3",
+      "u82f-transylvania-three-tables-one-region.mp3",
+      "u82f-transylvania-getting-lost-on-purpose.mp3"
+    ],
+    "durations": {
+      "u82f-transylvania-flight-context.mp3": 50.1622916,
+      "u82f-transylvania-intro.mp3": 38.6368333,
+      "u82f-transylvania-crossroads-of-empires.mp3": 76.1625416,
+      "u82f-transylvania-fortresses-of-faith.mp3": 62.80425,
+      "u82f-transylvania-the-carpathian-ring.mp3": 57.1813333,
+      "u82f-transylvania-three-tables-one-region.mp3": 65.7982916,
+      "u82f-transylvania-getting-lost-on-purpose.mp3": 65.6437083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

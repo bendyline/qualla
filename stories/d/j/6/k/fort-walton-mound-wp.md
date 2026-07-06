@@ -1,0 +1,65 @@
+# Fort Walton Mound
+
+A thousand-year-old platform mound on the Florida Panhandle, built by the Pensacola culture and later dug into by Confederate soldiers, curiosity seekers, and generations of archaeologists.
+
+**Location:** 30.4044, -86.6073
+
+**Categories:** archaeology, native-american-history, national-historic-landmark, museum, florida-panhandle
+
+## Introduction
+
+Confederate soldiers stationed at Camp Walton in 1861 decided to dig into the massive earthen mound towering above their encampment. What they pulled from the soil unsettled them: human remains bearing the unmistakable marks of violence, skulls and limb bones scarred by hacking and blunt force. They had stumbled into what may have been a charnel house, a place where the dead were prepared for burial by a civilization that had vanished centuries before any European set foot on the Florida Panhandle. The Fort Walton Mound, designated a National Historic Landmark in 1964, stands today in the heart of Fort Walton Beach as one of the most significant pre-Columbian sites in the southeastern United States.
+
+## A Chief's Throne of Earth
+
+The mound was built around 800 CE by people of the Pensacola culture, a regional branch of the far-reaching Mississippian civilization that shaped much of North America's interior. Its form follows a pattern found across the Southeast: a pyramidal base with a flat, truncated top, designed not as a tomb but as an elevated stage for power. The chief's residence and a temple stood on the summit, visible from every corner of the surrounding village and its agricultural lands. As each leader died, they were buried within the mound itself, and new layers of earth were added, raising the platform higher with each generation. The people who built it were among the most successful pre-Columbian agriculturalists in the region, cultivating corn, beans, and squash in the fertile panhandle soils. Buildings atop the mound were constructed in wattle and daub, the standard technique of Southeastern Native American groups. By sometime in the late 1600s, the mound was abandoned. Spanish explorers found the site already deserted, suggesting the departure preceded European contact.
+
+## Soldiers, Seekers, and Scholars
+
+After centuries of silence, the mound became a magnet for the curious and the ambitious. The Walton Guard soldiers who dug into it during the Civil War were merely the first recorded excavators. John Love McKinnon, a soldier in their ranks, described the finds in his book "History of Walton County." Dr. S.S. Forbes of Milton, Florida, excavated the mound at an unknown date and sent bones and clay effigies to the Smithsonian. In 1940, the respected archaeologist Gordon Willey and Richard Woodbury reexamined the site, work that fed into Willey's landmark volume "Archaeology of the Florida Gulf Coast." By 1960, Florida State University's Charles Fairbanks conducted a systematic excavation to determine the mound's original size, shape, and construction method. Through the 1960s and 1970s, museum staff under the guidance of William and Yulee Lazarus continued the work. The final excavation came in 1976, when FSU graduate student Nina Thanz mapped post holes from multiple structures, providing the dimensions for the reconstructed temple building that stands on the mound today.
+
+## What Stands and What Remains
+
+Reduced by time and the probing of generations, the mound still rises prominently above the surrounding landscape. It is one of only three surviving mound complexes in the Florida Panhandle, alongside Letchworth Mounds and Lake Jackson Mounds. The reconstructed temple on its summit was never intended as a replica. As Yulee Lazarus, the first curator of the Indian Temple Mound Museum, put it, the structure exists to "bolster the imagination and interpretation of the Indigenous peoples' use of the temple mound." The mound now anchors the Fort Walton Beach Heritage Park and Cultural Center, which includes the Indian Temple Mound Museum (opened in 1962, current building from 1972), the Camp Walton Schoolhouse Museum (a one-room schoolhouse built in 1911, converted in 1976), the Garnier Post Office Museum (opened 1988), and a Civil War Exhibits Building (opened 2010). Together they trace the full arc of human habitation in this corner of the panhandle, from pre-Columbian agriculture to Confederate encampments to early twentieth-century frontier life.
+
+## A Landscape Layered in Time
+
+Standing at the intersection of State Road 85 and U.S. Route 98, the mound occupies ground that has drawn people for over a millennium. The Pensacola culture chose this spot for its centrality: close to the waters of Santa Rosa Sound and Choctawhatchee Bay, surrounded by productive land, positioned at the heart of a chiefdom's territory. Confederate troops chose the same ground for the same reasons, establishing Camp Walton to guard those very waterways. The Indian Temple Mound Museum houses pre-Columbian artifacts found on site and from other locations across the region, alongside exhibits on European explorers, local pirates, and early settlers. The museum sits at 139 Miracle Strip Parkway SE, a name that captures the strange juxtaposition of this place: an ancient ceremonial center surviving amid the beach tourism of the modern Florida Panhandle, where a thousand years of human ambition are compressed into a single green hillside.
+
+## Flight Context
+
+Located at 30.4044N, 86.6073W in downtown Fort Walton Beach, Florida. The mound is near the intersection of SR-85 and US-98, visible as a small green rise amid commercial development. Best viewed below 2,000 feet AGL. Nearest airport: Destin-Fort Walton Beach Airport (KVPS), approximately 4 nm northeast. Eglin AFB (KVPS shares the field) dominates the area. Santa Rosa Sound and Choctawhatchee Bay are prominent water landmarks to the south and east.
+
+## Sources
+
+- [Fort Walton Mound - Wikipedia](https://en.wikipedia.org/?curid=6541401)
+  - National Historic Landmark designated 1964
+  - Built by Pensacola culture, a regional form of Mississippian civilization
+  - Mound served as platform for chief's residence and temple
+  - Successive leaders buried in mound with layers added over time
+  - Confederate Walton Guard soldiers excavated in 1861
+  - John Love McKinnon described finds in 'History of Walton County'
+  - Dr. S.S. Forbes sent bones and clay effigies to Smithsonian
+  - Gordon Willey and Richard Woodbury reexamined in 1940
+- [Fort Walton Beach Heritage Park & Cultural Center - City of Fort Walton Beach](https://fwb.org/330/Museum---Heritage-Park-Cultural-Center)
+  - Heritage Park includes Indian Temple Mound Museum, Camp Walton Schoolhouse Museum, Garnier Post Office Museum, and Civil War Exhibits Building
+  - Museum located at 139 Miracle Strip Parkway SE
+  - Museum currently undergoing renovation (2026)
+- [Camp Walton - Explore Southern History](https://www.exploresouthernhistory.com/fortwalton.html)
+  - Walton Guards established Camp Walton in 1861
+  - Soldiers were first recorded excavators of the mound
+- [Archeology of the Florida Gulf Coast - Smithsonian](https://repository.si.edu/items/1d03b9b9-1d57-4eef-ab48-d725985954c7)
+  - Gordon Willey published landmark 'Archeology of the Florida Gulf Coast' in 1949
+
+## Review Notes
+
+**Reviewed:** 2026-02-11 · 12 facts verified · 0 corrections
+
+All key facts verified: NHL 1964, Pensacola culture attribution, excavation history (Walton Guard 1861, Willey/Woodbury 1940, Fairbanks 1960, Thanz 1976), museum complex details. Construction date 800 CE is at early end of scholarly range (850 CE or 800-1400 CE) but acceptable. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 790*
+*Read time: 4 minutes*

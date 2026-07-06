@@ -1,0 +1,61 @@
+# Hindu Gymkhana, Karachi
+
+Once spanning 47,000 square yards as Karachi's first Mughal-Revival public building, the Hindu Gymkhana has shrunk to just 4,500 square yards, its story a microcosm of Partition's long aftermath.
+
+**Location:** 24.8522, 67.0211
+
+**Categories:** 1925 establishments in British India, Buildings and structures in Karachi, Heritage sites in Karachi, Indo-Saracenic Revival architecture, Hinduism in Karachi
+
+## Introduction
+
+In 1925, the Hindu Gymkhana occupied 47,000 square yards of Karachi. Today it holds barely 4,500. The arithmetic of that loss, nearly 90 percent of its original land, traces a story far larger than any single building. The Gymkhana was the first public structure in Karachi to adopt the Mughal-Revival architectural style, and it was built as an exclusive club for the city's Hindu community. Its diminishment mirrors the broader upheaval that Partition brought to Karachi's religious minorities.
+
+## A Club for the Community
+
+Seth Ramgopal Gourdhanandh Mohatta and Karachi's Hindu community established the Gymkhana in 1925 on Sarwar Shaheed Road. The architect Agha Ahmed Hussain designed the building in the Mughal-Revival style, with ornamental arches, domed pavilions, and decorative stonework that distinguished it from the surrounding colonial-era structures. The Gymkhana served as a social and cultural hub where Karachi's Hindus gathered for celebrations, festivals, and community affairs. It was a place of belonging in a city where multiple religious communities coexisted under British rule.
+
+## Piece by Piece
+
+After Pakistan's independence in 1947, the Hindu Gymkhana was taken over by the Evacuee Trust Property Board. What followed was a slow dismantling of the original estate. In 1978, about 60 percent of the land was handed to the Police Department. Another 6,000 square yards went to the Federal Public Service Commission. The Aligarh Muslim University received 3,500 square yards. Additional parcels were allotted to individuals. By the time the accounting was done, the Gymkhana's footprint had been reduced from 47,000 to 4,500 square yards, roughly the size of a modest parking lot compared to its original extent.
+
+## Performing Arts Where Festivals Once Were
+
+The building now houses the National Academy of Performing Arts (NAPA), a development that has generated its own controversy. In 2009, members of the Pakistan People's Party protested after President Pervez Musharraf had handed the building to NAPA. Sindh's Culture Minister Sassui Palijo stated that the Gymkhana should be reserved for the Hindu community's activities. In 2014, the Pakistan Hindu Panchayat sent a letter to the Chief Justice pressing the issue. The Hindu community of Karachi has maintained that they have no other place in the city to celebrate their religious festivals, making the Gymkhana's fate a matter of cultural survival rather than mere property dispute.
+
+## Architecture as Memory
+
+Despite its reduced circumstances, the Hindu Gymkhana remains architecturally significant. Its Mughal-Revival design, with domes and arched entryways, stands as evidence of a time when Karachi's Hindu population was prosperous enough to commission monumental public architecture. The building is listed as a heritage site, a designation that acknowledges its historical importance even as the community that built it has largely dispersed. Walking past its reduced perimeter on Sarwar Shaheed Road, it is impossible not to calculate what was lost: not just land, but the civic life of an entire community that once called Karachi home.
+
+## Flight Context
+
+Located at 24.852N, 67.021E on Sarwar Shaheed Road in central Karachi. The building's Mughal-Revival domes may be distinguishable at low altitudes. Jinnah International Airport (OPKC) lies approximately 15 km to the east. The building is near other colonial-era landmarks including the Sind Club and Frere Hall.
+
+## Sources
+
+- [Hindu Gymkhana, Karachi - Wikipedia](https://en.wikipedia.org/?curid=10141550)
+  - Established in 1925 on 47,000 square yards by Seth Ramgopal Gourdhanandh Mohatta and the Hindu community
+  - Designed by architect Agha Ahmed Hussain in Mughal-Revival style
+  - First public building in Karachi to adopt the Mughal-Revival architectural style
+  - Located on Sarwar Shaheed Road
+  - In 1978 about 60% of land given to Police Department
+  - 6,000 square yards given to Federal Public Service Commission
+  - 3,500 square yards given to Aligarh Muslim University
+  - Current land reduced to 4,500 square yards
+  - Building taken over by Evacuee Trust Property Board after 1947
+  - NAPA inaugurated at the building in February 2005 under President Musharraf
+  - In 2009 Sindh Culture Minister Sassui Palijo protested and called for Hindu community to reclaim the building
+  - Pakistan Hindu Panchayat sent letter to Chief Justice in 2014
+  - Building listed as heritage site
+
+## Review Notes
+
+**Reviewed:** 2026-03-01 · 13 facts verified · 0 corrections
+
+All key facts verified against Wikipedia: 1925 founding, 47,000 sq yd original size, 4,500 sq yd current size, Mughal-Revival architecture by Agha Ahmed Hussain, ETPB takeover 1947, 1978 land allotments to Police/FPSC/AMU, NAPA inauguration Feb 2005, Sassui Palijo 2009 protest, 2014 Pakistan Hindu Panchayat letter. No factual errors found. Language and empathy quality good.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 650*
+*Read time: 4 minutes*

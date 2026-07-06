@@ -1,0 +1,66 @@
+# Battle of Ray (811)
+
+A pivotal Abbasid civil war clash between two half-brothers that ended the age of massed infantry and ushered in the era of mounted warriors across the Islamic world.
+
+**Location:** 35.5833, 51.4333
+
+**Categories:** Battles involving the Abbasid Caliphate, 811, 810s conflicts, Fourth Fitna, History of Ray, Iran, 810s in the Abbasid Caliphate, Persia under the Abbasid Caliphate
+
+## Introduction
+
+A father's careful plan to prevent his sons from killing each other lasted exactly two years after his death. Caliph Harun al-Rashid, the legendary ruler of One Thousand and One Nights fame, had divided his Abbasid empire between his sons al-Amin and al-Ma'mun with almost mathematical precision. Al-Amin would hold the caliphate from Baghdad. Al-Ma'mun would govern Khurasan in eastern Iran. Each would eventually succeed the other. It was elegant, reasonable, and doomed from the moment Harun stopped breathing in 809. By 811, their armies were marching toward each other across the Iranian plateau, converging on the ancient city of Rayy, wedged between the Zagros and Elburz mountain ranges.
+
+## A Pact Torn to Pieces
+
+The brothers' rivalry was not born in a vacuum. Each had a vizier whispering ambition into his ear. Fadl ibn al-Rabi pushed al-Amin toward consolidating total power. Fadl ibn Sahl urged al-Ma'mun to defend his rightful inheritance. Al-Amin struck first in the contest of legitimacy: he declared that his own sons, not al-Ma'mun, would succeed him as caliph, tearing up the agreements their father had brokered and stored in the sacred precincts of Mecca. It was a provocation designed to eliminate his brother from the line of succession entirely. Al-Ma'mun responded by preparing for the war that everyone around both brothers had been expecting. His vizier dispatched forces to hold Rayy, the strategic gateway between Mesopotamia and the Iranian east. On March 14, 811, al-Amin's army marched out of Baghdad to settle the question by force.
+
+## The Commander and the Noble
+
+The two armies that met at Rayy could hardly have been more different. Al-Amin's force was led by Ali ibn Isa ibn Mahan, a former governor of Khurasan who had been ousted by Harun himself. His army was large but fractured, divided among numerous tribal contingents whose loyalties ran to their own chiefs first and the caliph second. Across the field stood Tahir ibn Husayn, a Persian noble from the mountain principalities that were nominally vassal states of the caliphate. His force was smaller but disciplined, built around an elite core of 700 Khwarazmian shock troops and Bukharan mounted archers. Where Ali commanded a traditional infantry mass, Tahir commanded something new: a compact, mobile force designed to strike and shatter rather than hold and push.
+
+## Seven Hundred Against an Army
+
+Tahir made a bold choice before the battle began. Rather than shelter behind Rayy's walls and endure a siege, he marched his army out along the road toward Baghdad to meet Ali head-on. He feared the city's residents might turn against a defending force that brought destruction to their doorsteps. After an uneasy night camped within sight of each other, Ali's troops launched an initial charge. A brief truce followed, and Tahir sent an envoy to remind Ali of the solemn agreements al-Amin had broken. The negotiations failed. Then Tahir unleashed his plan. The 700 Khwarazmians, backed by waves of Bukharan archers, drove straight into the center of Ali's formation, aiming to destroy the command structure in a single stroke. The tactic worked with devastating speed. Ali ibn Isa fell, though accounts differ on exactly how. Some say a storm of arrows from the Bukharan horsemen brought him down. Others credit a soldier named Dawud Siyah, who knocked him from his horse, after which another fighter confirmed his identity and killed him in single combat. With Ali dead, his tribal army shattered and scattered in every direction.
+
+## The End of an Era
+
+Historian Hugh N. Kennedy identified the Battle of Rayy as a turning point in Islamic military history. The large infantry army, the standard formation of earlier Islamic warfare, had been destroyed by a smaller cavalry force built on speed and precision. Kennedy argued this may have marked the end of the massed foot-soldier armies and the beginning of mounted dominance, whether armored lancers or horse archers, across the Islamic world. The tactical revolution that played out on the Rayy plain would shape warfare in the region for centuries. Small, disciplined cavalry forces would replace the sprawling tribal levies that had characterized earlier caliphal armies.
+
+## The Road to Baghdad
+
+Tahir ibn Husayn did not wait for orders. His army had come through the battle nearly intact, and the road to Baghdad lay open. He marched west without pausing for instructions from al-Ma'mun, pressing his advantage while al-Amin's remaining forces reeled. What followed was a year-long siege of Baghdad itself, one of the great cities of the medieval world. When the capital finally fell, al-Amin was killed, and al-Ma'mun became sole caliph of the Abbasid empire. The battle that began as a family quarrel between two brothers had reshaped the caliphate's political order and its approach to war. Rayy, the ancient crossroads city where the contest was decided, had once again proven its strategic importance as the hinge between east and west.
+
+## Flight Context
+
+Located at 35.58N, 51.43E, near modern-day Shahr-e Rey on the southern outskirts of Tehran. The battle site sits in the gap between the Zagros Mountains to the southwest and the Elburz Mountains to the north. The nearest major airport is Tehran Imam Khomeini International (OIIE), approximately 30 km to the southwest. Mehrabad International Airport (OIII) lies about 15 km to the north. From cruising altitude, the terrain clearly shows the strategic corridor between the mountain ranges that made Rayy a perennial military objective.
+
+## Sources
+
+- [Battle of Ray (811) - Wikipedia](https://en.wikipedia.org/?curid=5088910)
+  - March 14 811 departure date of al-Amin's army from Baghdad confirmed
+  - 700 Khwarazmian shock troops confirmed
+  - Dawud Siyah named as soldier who knocked Ali from his horse confirmed
+  - Hugh N. Kennedy identified the battle as a turning point in Islamic military history confirmed
+  - Al-Amin's agreements stored in the sacred precincts of Mecca confirmed
+  - Tahir marched west without waiting for orders confirmed
+- [Tahir ibn Husayn - Wikipedia](https://en.wikipedia.org/wiki/Tahir_ibn_Husayn)
+  - Tahir ibn Husayn was from a Persian dihqan (landed noble) family, originally of Arab extraction but fully Iranianized — described in article as 'a Persian noble' which aligns with how he identified culturally
+  - Al-Ma'mun's force was significantly smaller than Ali's army of 40,000-50,000
+  - Tahir's army came through the battle nearly intact confirmed
+- [The Abbasid Civil War: The War of the Brothers (811-813) - Medievalists.net](https://www.medievalists.net/2022/09/abbasid-civil-war-brothers/)
+  - Al-Amin struck first by declaring his own sons as successors rather than al-Ma'mun confirmed
+  - Vizier Fadl ibn al-Rabi pushed al-Amin confirmed
+  - Vizier Fadl ibn Sahl urged al-Ma'mun confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-01 · 9 facts verified · 0 corrections
+
+All key facts verified: March 14 811 departure date, 700 Khwarazmians, Dawud Siyah as soldier who unhorsed Ali ibn Isa, Hugh N. Kennedy attribution, al-Amin's breach of Mecca agreements, Tahir's unordered march to Baghdad. Tahir ibn Husayn described as 'Persian noble' — sources confirm he was of Arab-origin family fully Iranianized, culturally Persian, which the story's framing reflects accurately. No corrections needed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 815*
+*Read time: 4 minutes*

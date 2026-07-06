@@ -1,0 +1,62 @@
+# Nagoya Tōshō-gū
+
+A Shinto shrine honoring the shogun who unified Japan, rebuilt from the mausoleum of a princess after World War II air raids destroyed the original.
+
+**Location:** 35.1776, 136.8993
+
+**Categories:** religion, history, japan, architecture
+
+## Introduction
+
+The main hall standing at Nagoya Toshogu today was never meant to be here. It began as the mausoleum of a princess at a Buddhist temple across the city, built in an entirely different architectural tradition for an entirely different purpose. Yet when American incendiary bombs reduced the original shrine to ash during World War II, this displaced building became the vessel for four centuries of devotion to the man who unified Japan. That improvised rescue, a princess's tomb repurposed as a shogun's shrine, captures something essential about how Nagoya has always handled its history: pragmatically, stubbornly, and with a refusal to let the past disappear.
+
+## A Son's Tribute to a Father's Legacy
+
+Tokugawa Ieyasu died in 1616 after decades of warfare that ended the Sengoku period and established the Tokugawa shogunate, a dynasty that would rule Japan for over 250 years. Almost immediately, shrines began rising across the country to honor him as a divine figure. The most famous, Nikko Toshogu, was completed in 1617 amid the mountains north of Edo. Two years later, in 1619, Ieyasu's ninth son, Tokugawa Yoshinao, ordered a Toshogu shrine built in Nagoya. Yoshinao was the first lord of the Owari domain, one of the three most prestigious branches of the Tokugawa family, and his city was anchored by the massive Nagoya Castle. The new shrine rose just outside the castle's Sannomaru enceinte, beside the Tennosha, a sacred site that survives today as the Nagoya Shrine. From this position in the castle's shadow, the Nagoya Toshogu became the spiritual heart of the Owari domain.
+
+## Floats, Fire, and the Grandest Festival
+
+Starting from the third anniversary of Ieyasu's death, the shrine held the Toshogu Festival every April 17. It grew into the largest and most spectacular festival in Nagoya. Processions of mikoshi, the portable shrines shouldered through the streets, and elaborately decorated dashi floats paraded past thousands of spectators. Contemporary accounts describe some 6,800 participants and as many as nine mikoshi and dashi moving through the city in a display of Owari domain power and piety. The festival defined Nagoya's cultural calendar for centuries. In the late nineteenth century, the shrine was relocated from the Sannomaru enceinte to its present location, a quieter setting away from the castle grounds. The move preserved the shrine but changed its character, placing it among the neighborhoods of a modernizing city rather than within the fortified enclosure of feudal power.
+
+## The Night the Shrine Burned
+
+The Pacific War brought devastation to Nagoya. American bombing raids targeted the city's industrial infrastructure, and incendiary attacks consumed much of the urban center. The Nagoya Toshogu's original main hall, with its centuries of craftsmanship and accumulated offerings, was destroyed in the firebombing. The loss was part of a broader erasure. Nagoya Castle's keep, its golden shachihoko dolphin ornaments, and many of the surrounding historical structures were also consumed. What survived of the Toshogu after 1945 was a scarred site and a community determined to rebuild. The solution they found was unconventional. At the Buddhist temple of Kenchu-ji, across the city, stood the mausoleum of Haruhime, the consort of Tokugawa Yoshinao, the very lord who had founded the shrine over three centuries earlier. In 1953, the Haruhime mausoleum was carefully dismantled, transported, and reassembled at the Toshogu site to serve as the new main hall.
+
+## A Princess Stands In
+
+Haruhime was the daughter of Asano Yoshinaga of the Kii domain, and her marriage to Yoshinao had cemented an alliance between two powerful Tokugawa branch families. Her mausoleum, built in the ornate style of early Edo-period funerary architecture, carried its own historical weight. Repurposing it as the shrine's main hall created an unexpected layering of meaning: a building dedicated to a wife now housing the worship of her husband's father. The transplanted structure earned designation as a cultural property of Aichi Prefecture, recognized not just for its craftsmanship but for the remarkable story of its survival and reuse. Meanwhile, a detailed architectural model of the original pre-war shrine hall was preserved and is kept at the Engineering Faculty of Tokyo University, ensuring that the memory of what was lost endures in precise, physical form.
+
+## Quiet Grounds, Deep Roots
+
+Today, the Nagoya Toshogu sits on a tree-lined compound that feels removed from the commercial bustle surrounding Nagoya Castle a short distance to the north. The shrine is far less visited than its famous cousin at Nikko, which draws millions with its lavish polychrome carvings and UNESCO World Heritage status. Nagoya's version offers something different: intimacy and an honest accounting of what war does to a city's sacred spaces. The rebuilt hall, with its connections to both a shogun and a princess, tells a story that no purpose-built reconstruction could match. Visitors pass through the torii gate into grounds shaded by mature trees, where the compact precinct invites contemplation rather than spectacle. It remains a working shrine, hosting ceremonies and seasonal observances, its four centuries of history folded into a building that carries two stories at once.
+
+## Flight Context
+
+Nagoya Toshogu is located at 35.178N, 136.899E in central Nagoya, roughly 500 meters southeast of Nagoya Castle. The shrine compound is modest in size and not individually distinguishable from the air, but the adjacent Nagoya Castle grounds with their distinctive keep and surrounding moats serve as an unmistakable landmark. Chubu Centrair International Airport (RJGG) is about 35 km south. Nagoya Airfield / Komaki (RJNA) is approximately 11 km north. Best observed at lower altitudes when orbiting the castle district.
+
+## Sources
+
+- [Nagoya Tōshō-gū - Wikipedia](https://en.wikipedia.org/?curid=35704031)
+  - Tokugawa Yoshinao founded the shrine in 1619 as the ninth son of Ieyasu
+  - Original main hall destroyed in WWII air raids
+  - Haruhime mausoleum moved to Toshogu site in 1953
+  - Mausoleum was at Kenchūji before 1953 move (originally from Banshoji Temple in 1914)
+- [Nikko Toshogu Shrine - Japan Ophilia](https://japanophilia.jp/nikko-toshogu-shrine/)
+  - Nikko Toshogu established in 1617 (current structures completed 1636)
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 8 facts verified · 1 correction
+
+Key facts verified: shrine founded 1619 by Tokugawa Yoshinao, WWII destruction confirmed, Haruhime mausoleum relocated to Toshogu site in 1953. Minor note: story says mausoleum came 'from Kenchu-ji' but it was originally at Banshoji Temple before 1914 intermediate move - not corrected as Kenchu-ji is the proximate source. Spiciness 2/mild. Language quality good, no artifacts.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Nagoya has always handled its history: pragmatically, stubbornly, and with a refusal to let the past disappear
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

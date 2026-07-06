@@ -1,0 +1,69 @@
+# USS Iowa Turret Explosion
+
+On 19 April 1989, an explosion in USS Iowa's Number Two turret killed 47 sailors. The Navy then blamed a dead man for causing it -- a lie that independent scientists eventually dismantled.
+
+**Location:** 21.5400, -62.8400
+
+**Categories:** naval-disaster, military-scandal, investigation, memorial, caribbean
+
+## Introduction
+
+The last words anyone heard from inside Turret Two came over the phone circuit at 09:53 on the morning of 19 April 1989. Leading Petty Officer Ernie Hanyecz shouted, "Oh, my God! There's a flash!" Then the center gun of USS Iowa's Number Two 16-inch turret exploded. A fireball traveling at 2,000 feet per second tore through all three gun rooms, collapsing bulkheads and filling the turret with cyanide gas from burning polyurethane foam. All forty-seven crewmen inside were killed. Iowa was 260 nautical miles northeast of Puerto Rico, conducting a routine gunnery exercise. What happened in the seconds before that fireball would become the subject of one of the most disgraceful investigations in modern Navy history -- one that destroyed a dead sailor's reputation to protect the institution that had failed him and his shipmates.
+
+## A Ship Already Failing
+
+Iowa had been recommissioned in 1984 as part of President Reagan's 600-ship Navy plan, pulled from mothballs after twenty-six years. The revival was ambitious. The reality was grim. In 1986, Rear Admiral John D. Bulkeley supervised an inspection that the ship failed comprehensively: hydraulic fluid leaking from all three turrets at fifty-five gallons per week, anticorrosion lubricant never cleaned from the guns, deteriorated piping, electrical shorts, frozen firefighting valves. Bulkeley recommended taking Iowa out of service immediately. Secretary of the Navy John Lehman -- who had championed bringing the battleships back -- refused. When Captain Fred Moosally took command in May 1988, he and his executive officer canceled a planned million-dollar repair package for the main gun batteries, redirecting the funds to the powerplant. Seventy-five detailed deficiencies in the turrets' lighting, electrical, powder hoists, and hydraulic systems went unaddressed. According to Ensign Dan Meyer, the officer in charge of Turret One, morale and operational readiness among the gun-turret crews suffered greatly.
+
+## Eighty-One Seconds
+
+The morning of 19 April began with a misfire in Turret One's left gun. Standard procedure required resolving the misfire before proceeding. Captain Moosally ordered Turret Two to load and fire a three-gun salvo anyway. Forty-four seconds later, the right gun reported ready. Seventeen seconds after that, the left gun. Then the center gun crew reported trouble. Errick Lawrence called out over the circuit: "We have a problem here. We are not ready yet." Lieutenant Phil Buch's gun captain, Dale Ziegler, assured the turret that they would straighten it out. Lawrence called again, more urgently: "I'm not ready yet! I'm not ready yet!" Hanyecz shouted for Mortensen in Turret One. Ziegler cried, "Oh, my God! The powder is smoldering!" Then came the flash. Eighty-one seconds had elapsed since Moosally's order. The fireball blew through the turret, igniting 2,000 pounds of powder bags in the handling area. A second explosion followed nine minutes later, likely from carbon monoxide buildup. Twelve crewmen in the magazine spaces below survived, protected by blast doors. The forty-seven men in the turret itself -- men with names, with families waiting for them to come home -- did not.
+
+## Blaming Clayton Hartwig
+
+The Navy appointed Commodore Richard Milligan to conduct an informal, one-officer investigation -- meaning testimony was not taken under oath, witnesses had no legal counsel, and no one could be charged with a crime. When witnesses described unauthorized gunnery experiments that had been tolerated by Iowa's officers, Milligan's chief of staff pulled them aside and told them to stop talking. Transcripts were altered. Evidence was suppressed. The investigation quickly centered on Gunner's Mate Clayton Hartwig, who had died in the turret. The Naval Investigative Service pursued a theory that Hartwig had detonated the gun deliberately, driven by a failed relationship with a shipmate named Kendall Truitt. NIS agents interrogated Truitt's wife about her sex life. They kept Seaman David Smith in a room for nearly fourteen hours across two days, threatening him with forty-seven counts of accessory to murder until he made a statement implicating Hartwig -- which Smith recanted three days later. His recantation was never disclosed when the original statement was leaked to the press. NBC aired the Navy's theory on national television, naming Hartwig and Truitt as suspects and implying a homosexual relationship. Clayton Hartwig could not defend himself. He was dead.
+
+## Forty Scientists and a Supercomputer
+
+Senator Sam Nunn's Senate Armed Services Committee refused to accept the Navy's conclusion and brought in Sandia National Laboratories. Forty scientists, led by Richard Schwoebel, began their own investigation in December 1989. What they found systematically demolished the Navy's case. The "foreign materials" on the gun projectile that supposedly indicated a chemical igniter? They came from Break-Free cleaning solution used after the explosion, and from ordinary exposure to a maritime environment -- the same materials were found in every turret on every Iowa-class battleship. The two projectiles from Turret Two's left and right guns, which would have disproven the sabotage theory, had been conveniently "misplaced" by Captain Joseph Miceli, the NAVSEA officer overseeing the investigation. Sandia's Karl Schuler spent fifty hours on a Cray supercomputer and determined that the powder bags had been rammed twenty-four inches into the gun -- three inches farther than the Navy estimated -- and that this overram, under 2,800 pounds per square inch of pressure, likely compressed the powder to ignition. When Sandia asked Miceli to conduct full-scale tests to confirm, he refused. It took a letter from Senator Nunn to the Chief of Naval Operations to force the tests. They produced five explosions.
+
+## Sincere Regrets
+
+On 17 October 1991, Admiral Frank Kelso held a press conference at the Pentagon. The Navy had spent $25 million on the investigation. Kelso stated that the Navy had found no evidence of sabotage and no evidence the gun had been operated improperly. He offered "sincere regrets" to the Hartwig family and apologies to the families of the dead that "such a long period has passed" without a definitive answer. He did not acknowledge that the Navy had dragged a dead twenty-four-year-old's name through the national press, questioned his sexuality, fabricated a motive, suppressed contradictory evidence, and intimidated witnesses -- all to avoid admitting that the ship's maintenance failures and inadequate crew training had likely killed forty-seven men. Commodore Milligan retired as a rear admiral. Captain Miceli retired at his rank. Captain Moosally retired in 1990 and went to work for Lockheed Martin. Iowa herself was decommissioned in October 1990 and is now a floating museum at San Pedro, California. The forty-seven sailors who died in Turret Two on a Wednesday morning in April 1989 remain the central fact of this story, the fact the Navy tried hardest to look away from.
+
+## Flight Context
+
+The explosion occurred while USS Iowa was operating approximately 260 nautical miles northeast of Puerto Rico, at roughly 21.54N, 62.84W, in open Caribbean waters during a fleet exercise. No surface features are visible from the air at this location. Nearest airports: Luis Munoz Marin International Airport (TJSJ/SJU) in San Juan, Puerto Rico, approximately 260 nm to the southwest. Henry E. Rohlsen Airport (TISX/STX) in St. Croix is also in the region. Iowa is now a museum ship at the Port of Los Angeles in San Pedro, California, near Long Beach (KLGB). The Norfolk Naval Station (KNGU), Iowa's home port at the time of the explosion, is on the Virginia coast.
+
+## Sources
+
+- [Wikipedia - USS Iowa turret explosion](https://en.wikipedia.org/wiki/USS_Iowa_turret_explosion)
+  - April 19, 1989 date confirmed
+  - 47 sailors killed confirmed
+  - 260 nautical miles northeast of Puerto Rico confirmed
+  - Number Two 16-inch turret confirmed
+  - Iowa recommissioned 1984 confirmed
+  - Sandia National Laboratories investigation confirmed; Richard Schwoebel led team confirmed
+  - Clayton Hartwig named as suspect by Navy confirmed
+  - Senator Sam Nunn Senate Armed Services Committee investigation confirmed
+  - Admiral Frank Kelso press conference October 17, 1991 confirmed
+  - Iowa decommissioned October 1990 confirmed
+  - Iowa now museum ship at Port of Los Angeles San Pedro confirmed (opened 2012)
+
+## Review Notes
+
+**Reviewed:** 2026-03-12 · 11 facts verified · 0 corrections
+
+All facts verified: April 19 1989 confirmed, 47 sailors killed confirmed, 260nm northeast Puerto Rico confirmed, Sandia National Laboratories investigation confirmed, Hartwig scapegoating confirmed, Kelso press conference Oct 17 1991 confirmed, Iowa now museum at San Pedro confirmed. No corrections needed. Spiciness 4 - strong editorial stance on Navy cover-up.
+
+**Spiciness:** 4/5
+
+**Strong opinions:**
+
+- The Navy tried hardest to look away from the 47 sailors who died
+- one of the most disgraceful investigations in modern Navy history
+- a lie that independent scientists eventually dismantled
+
+---
+
+*Word count: 895*
+*Read time: 5 minutes*

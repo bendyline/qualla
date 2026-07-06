@@ -1,0 +1,57 @@
+# Flannan Isles Lighthouse
+
+A lighthouse on a remote Atlantic island where three keepers vanished in December 1900, leaving behind cleaned lamps, an unwound clock, and a mystery that has never been solved.
+
+**Location:** 58.2881, -7.5883
+
+**Categories:** lighthouse, outer-hebrides, mystery, maritime
+
+## Introduction
+
+The kitchen utensils were all very clean. That detail, from the first-hand account of relief keeper Joseph Moore, is somehow the most unsettling part of the story. On 26 December 1900, Moore was put ashore alone on Eilean Mor, the largest of the Flannan Isles, twenty miles west of Lewis in the Outer Hebrides. He found the entrance gate closed, the main door shut, the beds unmade, and the clock unwound. The lamps had been cleaned and refilled. A set of oilskins hung on its peg, suggesting that one of the three keepers had left the lighthouse without waterproofs. Of the men themselves -- Thomas Marshall, James Ducat, and Donald McArthur -- there was no sign. There never would be.
+
+## Built on the Edge of the World
+
+The lighthouse was designed by David Alan Stevenson -- a member of the famous Stevenson engineering dynasty -- for the Northern Lighthouse Board. Construction between 1895 and 1899 was a feat of logistics and nerve. George Lawson of Rutherglen built the twenty-three-metre tower for 1,899 pounds, but every brick, beam, and barrel of cement had to be hauled up forty-five-metre cliffs directly from supply boats. A cable-hauled railway was built to carry provisions from two landing places up to the lighthouse, with a set of hand-operated points dubbed 'Clapham Junction' where the line forked in the centre of the island. The light consumed twenty barrels of paraffin a year. It was first lit on 7 December 1899, one year and eleven days before the keepers disappeared.
+
+## The Last Light
+
+The first sign that something was wrong came on 15 December 1900, when the steamer Archtor, sailing from Philadelphia to Leith, noted in its log that the Flannan light was not operational in poor weather. The relief vessel Hesperus could not sail from Breasclete on Lewis until 26 December due to adverse seas. When Moore finally climbed the cliffs and reached the compound, he found a place that had been abandoned mid-routine. The evidence told a fragmentary story: dinner had been eaten, the lamps maintained, but Marshall's oilskins were missing while McArthur's coat remained on its peg. Captain Harvie of the Hesperus sent a telegram to the Northern Lighthouse Board that evening. Moore and three volunteer seamen were left on the island to tend the light. Harvie returned to Lewis carrying nothing but questions.
+
+## Theories and Ghosts
+
+No bodies were ever found, and the absence of evidence invited a century of speculation. Newspapers of the era entertained theories involving sea serpents, foreign spies, and the 'Phantom of the Seven Hunters' -- a ghost boat locally believed to haunt the archipelago. More plausible explanations center on the geography of the islands and the ferocity of Atlantic storms. Researcher James Love discovered that Marshall had previously been fined five shillings for allowing equipment to be washed away during a gale. Love's theory holds that Marshall and Ducat went out to secure equipment during a storm and were swept into the sea by rogue waves, and that McArthur -- who should have stayed inside to man the light -- saw their distress, rushed out without his coat, and was taken by the same waves. The closed door and gate remain unexplained. The mystery has inspired Wilfrid Wilson Gibson's poem 'Flannan Isle,' Peter Maxwell Davies's 1979 chamber opera The Lighthouse, the 2018 film The Vanishing, and Genesis's early recording 'The Mystery of the Flannan Isle Lighthouse.'
+
+## Automated and Alone
+
+The lighthouse was automated on 28 September 1971. The cable railway was removed in the 1960s, replaced by a three-wheeled vehicle called a 'Gnat' that itself became redundant when a helipad was built. The light now burns acetylene gas, requiring no human hand. In 1925, it had become one of the first Scottish lights to receive wireless telegraphy -- a small irony, given that the absence of any communication was what had doomed the three keepers to eleven days of unnoticed silence. The shore station at Breasclete on Lewis, where families once waited for news, was converted into flats. In December 2025, planning permission was granted to renovate the listed building into exhibition space and self-catering holiday accommodation. Eilean Mor itself remains uninhabited, visited only by maintenance crews and the occasional intrepid birdwatcher. The lighthouse stands where the Stevensons put it, sweeping its beam across an ocean that keeps its secrets.
+
+## Flight Context
+
+Located at 58.29N, 7.59W, the Flannan Isles are a small archipelago approximately 20 miles west of Lewis in the Outer Hebrides. The lighthouse on Eilean Mor is the most prominent structure. No airstrip; nearest airport is Stornoway (EGPO) on Lewis. Best viewed at 2,000-4,000 feet. The islands are extremely remote and exposed to Atlantic weather.
+
+## Sources
+
+- [Flannan Isles Lighthouse - Wikipedia](https://en.wikipedia.org/?curid=39378128)
+  - Three keepers were James Ducat, Thomas Marshall, and Donald McArthur confirmed
+  - Steamer Archtor first noted light was out on 15 December 1900 confirmed
+  - Relief vessel Hesperus sailed from Breasclete confirmed
+  - Moore arrived 26 December 1900 confirmed
+  - Tower is 23 metres tall confirmed
+  - Construction by George Lawson of Rutherglen 1895-1899 confirmed
+  - Lighthouse automated 28 September 1971 confirmed
+  - Shore station at Breasclete converted into flats confirmed
+  - Inspired Gibson poem, Peter Maxwell Davies 1979 opera The Lighthouse, 2018 film The Vanishing, Genesis recording confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 9 facts verified · 0 corrections
+
+Verified: all three keeper names correct, Archtor sighting 15 Dec 1900, Hesperus from Breasclete, Joseph Moore discovered scene 26 Dec 1900, tower 23 metres, automated 28 Sept 1971, Breasclete shore station converted to flats, cultural references all confirmed. No factual errors found.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 730*
+*Read time: 4 minutes*

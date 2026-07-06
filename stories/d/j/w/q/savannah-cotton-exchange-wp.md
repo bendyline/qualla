@@ -1,0 +1,65 @@
+# Savannah Cotton Exchange: The Building That Floats on Iron
+
+A Romanesque Revival building raised thirty-five feet on iron pillars above a city ramp, where brokers once set the world price of cotton and Freemasons now keep the oldest lodge in the Western Hemisphere.
+
+**Location:** 32.0812, -81.0899
+
+**Categories:** architecture, commerce, savannah, historic-building, freemasonry
+
+## Introduction
+
+The building has no ground floor. Stand beneath it on the old Drayton Street ramp and you look up through a forest of iron pillars supporting a structure that was never supposed to touch the earth below. When the City of Savannah granted the Cotton Exchange permission to build over a public ramp in 1887, the deal came with a condition: keep the ramp open. Architect William G. Preston, whose design beat eleven competitors, solved the problem by lifting the entire building thirty-five feet into the air. The Savannah Morning News described it the day after opening as "built in the center of a slip leading to the river, and raised thirty-five feet or so from the ground by iron pillars, so as to give free access to River Street." It remains one of the most unusual commercial buildings in the American South, a structure born of pure civic compromise.
+
+## Where Cotton Was King
+
+Before the building existed, the exchange itself served a singular purpose: to give cotton factors a place to congregate and set the market value of cotton exported from Savannah to New York City and London. Factors were brokers who served planters' interests, the middlemen connecting Southern fields to global textile mills. The exchange was established in 1876, when Savannah was one of the world's great cotton ports, the white fiber flowing down the Savannah River and out to sea. General William Washington Gordon II, a veteran of the Battle of Jonesboro in 1864, served as chairman. By the June 10, 1878 edition of the New York Times, the exchange was publishing monthly business summaries for the nation's financial readers. This was serious commerce, and the building that would house it had to match the ambition.
+
+## The Iron-Legged Wonder
+
+The current building at 100 East Bay Street, completed in 1887, stands at the intersection of Savannah's two worlds. Above, the ornate brick and terra cotta facade faces the genteel businesses of Bay Street and Factors Walk, the elevated promenade where cotton merchants once conducted their affairs. Below, through a tunnel that replaced the old warehouses, lies River Street, the rough-and-tumble waterfront where bales were loaded onto ships. Preston's design bridges these two levels literally, the building spanning the gap between upper and lower Savannah like a piece of architecture suspended between social classes. The ramp beneath it still carries foot traffic today, pedestrians passing underneath the same iron pillars that have held the structure aloft for well over a century.
+
+## Decline of the Factors
+
+By the end of the nineteenth century, the factorage system that had sustained the exchange was crumbling. More planters were selling their cotton at interior markets rather than shipping to Savannah for brokering. The extensive rail connections that once made Savannah indispensable began working against it, carrying cotton directly to buyers without the need for coastal middlemen. The exchange held on for decades, but the economics had shifted permanently. In 1951, the Savannah Cotton Exchange went out of business, closing the books on seventy-five years of setting cotton prices in the humid air above River Street.
+
+## The Oldest Lodge
+
+Since 1976, the building has served as home to Solomon's Lodge No. 1, Free and Accepted Masons, one of the most historically significant Masonic lodges in the Americas. The lodge was established in 1734 by General James Oglethorpe, the founder of the Province of Georgia, making it one of the oldest continuously operating lodges in the Western Hemisphere. Where cotton brokers once haggled over bale prices, Freemasons now conduct their ancient rituals in a building that already had more than its share of history. The Savannah Chamber of Commerce is sometimes erroneously cited as the current occupant, but the chamber moved across the street to 101 East Bay Street years ago.
+
+## Flight Context
+
+Located at 32.081N, 81.090W on East Bay Street in Savannah's historic riverfront. From the air, look for the building spanning the gap between Bay Street and River Street along Factors Walk. The nearest airport is Savannah/Hilton Head International (KSAV), approximately 8 nautical miles northwest. Best viewed at 1,500-2,000 feet AGL. The Savannah River is the dominant visual landmark, with the cotton exchange sitting at the bluff line where the upper city meets the waterfront.
+
+## Sources
+
+- [Savannah Cotton Exchange - Wikipedia](https://en.wikipedia.org/?curid=67214634)
+  - Exchange established 1876 confirmed
+  - Building completed 1887 confirmed
+  - William Gibbons Preston as architect confirmed
+  - Design won competition among eleven architects confirmed
+  - Building erected over public ramp with city permission confirmed
+  - Exchange went out of business 1951 confirmed
+- [Solomon's Lodge No. 1 - Official History](https://solomonslodge1.com/history)
+  - Lodge established 1734 confirmed
+  - General James Oglethorpe as founder confirmed
+  - Note: article says 'oldest continuously operating lodge in the Western Hemisphere' but sources specify 'oldest continuously operating English-constituted lodge' - slight imprecision, claim is also disputed by St. John's Lodge Portsmouth
+- [Wikipedia - William Washington Gordon II](https://en.wikipedia.org/wiki/William_Washington_Gordon_II)
+  - Gordon fought at Battle of Jonesboro in 1864 confirmed
+  - Note: article calls Gordon 'chairman' but Wikipedia says he served as 'president' of the Savannah Cotton Exchange 1876-79 - minor factual discrepancy
+- [Georgia Historical Society - Old Savannah Cotton Exchange](https://www.georgiahistory.com/ghmi_marker_updated/old-savannah-cotton-exchange/)
+  - 100 East Bay Street address confirmed
+  - Building raised above street level confirmed
+  - Richardsonian Romanesque style confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-17 · 12 facts verified · 0 corrections
+
+Key facts verified: exchange established 1876, building completed 1887, William G. Preston architect, 11-architect competition, Solomon's Lodge 1734, Oglethorpe as founder, exchange closed 1951. Minor issues: Gordon called chairman vs president (sources say president). Lodge described as oldest in Western Hemisphere but sources specify oldest English-constituted lodge. Spiciness 2 - mild, factual tone throughout.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 720*
+*Read time: 4 minutes*

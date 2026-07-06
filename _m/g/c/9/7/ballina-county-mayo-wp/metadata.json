@@ -131,5 +131,26 @@
     "_m/g/c/9/7/ballina-county-mayo-wp/killala-town.jpg",
     "_m/g/c/9/7/ballina-county-mayo-wp/salmon-weir-bridge.jpg"
   ],
-  "updatedAt": "2026-02-20T05:20:41.438Z"
+  "updatedAt": "2026-02-20T05:20:41.438Z",
+  "narration": {
+    "files": [
+      "gc97-ballina-flight-context.mp3",
+      "gc97-ballina-intro.mp3",
+      "gc97-ballina-the-four-maols.mp3",
+      "gc97-ballina-the-year-of-the-french.mp3",
+      "gc97-ballina-the-salmon-capital.mp3",
+      "gc97-ballina-mary-robinson.mp3",
+      "gc97-ballina-the-twentieth-century-comes-home.mp3"
+    ],
+    "durations": {
+      "gc97-ballina-flight-context.mp3": 49.3170833,
+      "gc97-ballina-intro.mp3": 57.038375,
+      "gc97-ballina-the-four-maols.mp3": 60.4442916,
+      "gc97-ballina-the-year-of-the-french.mp3": 65.0919166,
+      "gc97-ballina-the-salmon-capital.mp3": 64.1447916,
+      "gc97-ballina-mary-robinson.mp3": 67.5272916,
+      "gc97-ballina-the-twentieth-century-comes-home.mp3": 86.1638333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

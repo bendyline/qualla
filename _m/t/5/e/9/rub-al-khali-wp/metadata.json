@@ -500,5 +500,24 @@
     "_m/t/5/e/9/rub-al-khali-wp/empty-quarter-arabia-ar.png",
     "_m/t/5/e/9/rub-al-khali-wp/the-planets-parade.jpg"
   ],
-  "updatedAt": "2026-03-31T14:06:08.964Z"
+  "updatedAt": "2026-03-31T14:06:08.964Z",
+  "narration": {
+    "files": [
+      "t5e9-rub-al-khali-flight-context.mp3",
+      "t5e9-rub-al-khali-intro.mp3",
+      "t5e9-rub-al-khali-the-frankincense-road-to-nowhere.mp3",
+      "t5e9-rub-al-khali-a-sea-of-sand-a-sea-of-oil.mp3",
+      "t5e9-rub-al-khali-the-explorers-who-came-back.mp3",
+      "t5e9-rub-al-khali-walking-the-impossible.mp3"
+    ],
+    "durations": {
+      "t5e9-rub-al-khali-flight-context.mp3": 45.533,
+      "t5e9-rub-al-khali-intro.mp3": 49.418,
+      "t5e9-rub-al-khali-the-frankincense-road-to-nowhere.mp3": 54.0872916,
+      "t5e9-rub-al-khali-a-sea-of-sand-a-sea-of-oil.mp3": 61.6407916,
+      "t5e9-rub-al-khali-the-explorers-who-came-back.mp3": 65.856125,
+      "t5e9-rub-al-khali-walking-the-impossible.mp3": 67.5210416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

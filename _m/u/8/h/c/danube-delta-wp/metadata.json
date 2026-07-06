@@ -965,5 +965,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u8hc-danube-delta-flight-context.mp3",
+      "u8hc-danube-delta-intro.mp3",
+      "u8hc-danube-delta-a-delta-still-being-born.mp3",
+      "u8hc-danube-delta-a-million-wings.mp3",
+      "u8hc-danube-delta-plaur-and-hasmace.mp3",
+      "u8hc-danube-delta-two-people-per-square-kilometer.mp3",
+      "u8hc-danube-delta-contested-waters.mp3"
+    ],
+    "durations": {
+      "u8hc-danube-delta-flight-context.mp3": 60.6485833,
+      "u8hc-danube-delta-intro.mp3": 55.661125,
+      "u8hc-danube-delta-a-delta-still-being-born.mp3": 73.6655,
+      "u8hc-danube-delta-a-million-wings.mp3": 68.3209166,
+      "u8hc-danube-delta-plaur-and-hasmace.mp3": 67.2734166,
+      "u8hc-danube-delta-two-people-per-square-kilometer.mp3": 71.8769166,
+      "u8hc-danube-delta-contested-waters.mp3": 62.5885416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

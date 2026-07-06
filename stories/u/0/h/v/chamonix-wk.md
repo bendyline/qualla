@@ -1,0 +1,61 @@
+# Chamonix
+
+The birthplace of mountaineering sits at the foot of Mont Blanc, where the first Winter Olympics were held in 1924 and alpinism became a sport.
+
+**Location:** 45.9160, 6.8660
+
+**Categories:** mountains, skiing, france, alps
+
+## Introduction
+
+In 1760, the scientist Horace Bénédict de Saussure offered a prize for the first ascent of Mont Blanc. Twenty-six years later, on August 8, 1786, Jacques Balmat and Michel-Gabriel Paccard stood on the summit - and modern mountaineering was born. Chamonix-Mont-Blanc, the town that witnessed that transformation, still feels like the capital of the vertical world. Cable cars ascend to 3,840 meters in minutes, glaciers creep down from the massif into the valley, and climbers from around the world gather where a practical business of hunting and guiding travelers over passes became the sport of ascending because a peak was there.
+
+## The Vertical Frontier
+
+The Aiguille du Midi cable car whisks passengers from 1,000 meters to 3,840 meters in two stages - an ascent that can trigger altitude symptoms in even healthy travelers. At the top, the temperature drops thirty degrees from the valley, and even summer days bring the possibility of sudden fog, blizzards, and thunderstorms. The views, when clear, encompass the entire Mont Blanc massif and beyond to the Matterhorn. From here, the Vallée Blanche cable car crosses to Punta Helbronner on the Italian border, then descends via the Monte Bianco Skyway to Courmayeur - five cable cars to transit from France to Italy over glaciers and granite spires. The Mer de Glace glacier, accessible by rack railway, once flowed majestically; now it retreats visibly each year, with steps added annually to reach its shrinking surface.
+
+## Olympic Legacy
+
+Chamonix hosted the first Winter Olympic Games in 1924, when skiing and ice sports were still novelties for most of the world. Almost a century later, the town's preeminence in winter sports remains assured - ironically, in part because global warming is driving visitors away from lower-altitude resorts. Most pistes here exceed 2,000 meters, making snow as reliable as anywhere in the Alps. Three ski areas accessible directly from town - Brévent, La Flégère, and the legendary Vallée Blanche - offer terrain from gentle groomers to extreme off-piste. The Mont Blanc ski pass covers 700 kilometers of slopes, including the Italian side and neighboring French valleys. Yet Chamonix has never been merely about recreation; it remains a working mountain town where the Ultra-Trail du Mont-Blanc draws thousands of runners each year to circle the entire massif.
+
+## Glacier Walks
+
+The hiking paths around Chamonix offer views of the highest massif in Western Europe, but the glacier approaches deliver something more profound. The Glacier des Bossons descends nearly to the valley floor - dangerously beautiful, with warnings against attempting to touch it. The Glacier du Tour, accessible from Montroc, rewards a moderate hike with close views of ice and the peaks above. The Glacier de Trient, reached from Col de la Forclaz in Switzerland, offers a flat, one-hour approach. And the Glacier de Bionnassay, from the Bellevue cable car, requires a half-day commitment. The classic Tour du Mont Blanc hiking trail takes ten days to circumnavigate the massif through three countries. For shorter visits, taking a téléphérique up and hiking down captures the essence: high alpine views giving way to flowered meadows and finally the valley's cafés and fromageries.
+
+## Savoy at Table
+
+The cuisine here reflects Savoy's mountain traditions. Fondue requires company, as does raclette - wedges of cheese melted onto potatoes and charcuterie. Tartiflette smothers potatoes and bacon under bubbling Reblochon. Croûte Savoyarde soaks bread in white wine before baking it under cheese. These are dishes built for cold nights after long days on the mountain, paired with local wines or pitchers of beer at the Microbrasserie de Chamonix. The valley stretches from Servoz through Les Houches, Chamonix proper, Les Praz, Argentière, and Vallorcine to the Swiss border - each village with its own character, its own cable car access, its own preferred café. Booking accommodation here earns a Carte d'Hôte for free valley transport; ski passes include it as well. The mountains may be the draw, but the culture that grew up serving those who came to climb them has its own distinct pleasures.
+
+## The Serious Business of Altitude
+
+Mont Blanc remains what it has always been: very high, very cold, and very dangerous. The ascent requires three days and two nights on the mountain, proper mountaineering experience, and equipment for conditions that kill the underprepared. The most popular route, the Voie Royale, begins from Saint-Gervais; routes from Chamonix - the 3 Monts and Grands Mulets - launch from the Aiguille du Midi. Even experienced climbers have died here; the mountain grants no exceptions. Below the peaks, avalanches threaten after heavy snow or high winds, and off-piste skiing carries real risk. Yet people keep coming, as they have since Balmat and Paccard proved the summit could be reached. In those days, Savoy was an independent country; not until 1860 did France and Italy divide the territory, with Mont Blanc marking the border. That border runs through the summit itself - the highest point in both nations, visible on clear days from Lyon to Turin.
+
+## Flight Context
+
+Located at 45.92°N, 6.87°E in the French Alps at the foot of Mont Blanc (4,808m). The town sits in a narrow valley between dramatic peaks. Geneva International Airport (LSGG) is 90km northwest; Turin (LIMF) is accessible through the Mont Blanc Tunnel to the southeast. The massif is unmistakable at cruising altitude - the highest peaks in the Alps, with the Mer de Glace glacier visible as a white tongue descending the northeast face. Best viewed in clear conditions; cloud often obscures the summits.
+
+## Sources
+
+- [Chamonix - Wikivoyage](https://en.wikivoyage.org/?curid=6737)
+- [Chamonix - Wikipedia](https://en.wikipedia.org/wiki/Chamonix)
+  - first Winter Olympics 1924
+  - first Mont Blanc ascent 1786
+  - Aiguille du Midi 3,840m
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 6 facts verified · 0 corrections
+
+Story overlay verified
+
+**Spiciness:** 1/5
+
+**Strong opinions:**
+
+- The birthplace of mountaineering
+- The mountain grants no exceptions
+
+---
+
+*Word count: 880*
+*Read time: 5 minutes*

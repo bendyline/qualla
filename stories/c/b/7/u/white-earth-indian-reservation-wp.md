@@ -1,0 +1,85 @@
+# White Earth Indian Reservation
+
+Minnesota's largest reservation by land area, White Earth is home to the Ojibwe people who survived Civil War conscription by trickery, federal land theft through rigged votes, and a century of forced consolidation -- and still sing hymns in their own language.
+
+**Location:** 47.2275, -95.7203
+
+**Categories:** native-american, reservations, minnesota, ojibwe, civil-war, indigenous-history
+
+## Introduction
+
+The hymns come in Ojibwe. At White Earth, as at the nearby Leech Lake and Red Lake reservations, the tradition of singing Christian hymns in the Ojibwe language has persisted for generations -- an act of cultural synthesis that captures something essential about this place. White Earth Indian Reservation sprawls across northwestern Minnesota, encompassing all of Mahnomen County and parts of Becker and Clearwater counties, threaded by the Wild Rice and White Earth rivers. At 1,093 square miles, it is Minnesota's largest reservation by land area. The 2020 census counted 9,726 people living here, on land the federal government once tried to use as a dumping ground for every Anishinaabe person in three states. That plan failed. White Earth endured. The hymns continue.
+
+## Tricked into Uniform
+
+The Civil War reached White Earth through deceit. In the early 1860s, white citizens of Crow Wing, Minnesota, discovered a loophole in the Enrollment Act: they could avoid the draft by enrolling substitutes to fight in their place. They chose bi-racial Chippewa men from White Earth, deliberately arranging for the substitutes to sign enlistment papers while under the influence of alcohol. Chief Hole in the Day II was furious when he learned what had happened. One of the conscripted men was killed and buried with military honors before G Company of the 9th Minnesota Infantry Regiment even left St. Cloud, where they had been mustered in. The company was posted to Fort Abercrombie in Dakota Territory, arriving on September 3 to find the fort under Sioux attack. They went into action immediately and helped break the assault, then survived the siege that followed. Later sent south, the Chippewa soldiers fought at the Battle of Brice's Crossroads, the Battle of Tupelo, the Battle of Nashville, and the Battle of Fort Blakeley, returning to St. Paul in August 1865 having taken remarkably few casualties.
+
+## A Reservation Built for Removal
+
+The United States government had an extraordinary ambition for White Earth: it wanted to relocate every Anishinaabe person from Michigan, Wisconsin, and Minnesota onto this single reservation, opening the vacated lands to white settlement. Officials even proposed moving the Dakota people here, despite the fact that the Anishinaabe and Dakota had been traditional enemies for generations. The relocation policy persisted until 1898. On July 8, 1889, the U.S. broke its treaty agreements, informing the Minnesota Chippewa that only White Earth and Red Lake reservations would remain while the others would be eliminated. The Bureau of Indian Affairs bypassed tribal governance entirely, putting the decision about land allotments under the Dawes Act to a vote of individual adult Chippewa males rather than allowing traditional council deliberation. Chippewa leaders were outraged, especially when they discovered that Dakota men -- not members of their tribe -- were included in the voting.
+
+## The Rigged Vote and the Rebellion That Saved Them
+
+The vote was administered by whites with a financial interest in allotment, not by the Chippewa themselves. White Earth and Mille Lacs reservations voted to accept land allotments and allow surplus land to be sold. Leech Lake supposedly voted the same way. But in October 1898, the Battle of Sugar Point on Leech Lake told a different story -- an armed rebellion that made Washington reconsider its approach. The consequences of allotment were devastating. In 1889, the White Earth Reservation had covered its original vast expanse. After the votes were counted, only a small northeast portion remained in tribal hands, a fraction of the original size. Most other Minnesota Chippewa reservations were closed and emptied. But the Leech Lake rebellion saved what remained -- White Earth, Red Lake, and the Chippewa reservations of Wisconsin survived. The Nelson Act of 1889 drew waves of Anishinaabe and Dakota peoples from closed reservations to White Earth. By the 1920 census, the reservation held 4,856 members of the Mississippi Band, 1,218 Pillagers, 472 from the Pembina Band, and 113 Fond du Lac and Lake Superior Chippewa.
+
+## The Sons of Hole in the Day
+
+In 1885, Joseph Hole-in-the-Day, youngest son of Chief Hole in the Day II, was sponsored by former Minnesota Governor Alexander Ramsey to become a cadet at West Point. They traveled to Washington, D.C., to meet President Grover Cleveland, making national news. Joseph was considered a strong candidate, but his path took a different turn. He had been working for the U.S. Postal Service -- where no one knew his heritage -- and gave notice that he was leaving to serve as a chief on the White Earth Reservation. The USPS was astonished. Joseph later enlisted in Company I of the 14th Minnesota Infantry Regiment for the Spanish-American War. His older brother Ignatius graduated from St. John's College and traveled Minnesota giving paid lectures on Ojibwa history. Joseph attended the Haskell Institute and the University of Minnesota, and was later employed by the Bureau of Ethnology recording indigenous oral traditions. Two brothers, two paths, both insisting that education and leadership were not contradictions of their Ojibwe identity but extensions of it.
+
+## The Land Recovers
+
+Today, White Earth's communities reflect the complexity of its history. Naytahwaush is the largest predominantly Native settlement on the reservation. Mahnomen, the county seat, is predominantly non-Native -- a legacy of the Nelson Act's land sales. The 2020 census recorded a population that is 44.7 percent Native American and 43.2 percent white, with 11.5 percent identifying as two or more races. The reservation sells its own brand of wild rice, a crop with deep cultural significance to the Ojibwe, and operates NIJII Radio. The land itself is still recovering from the damage lumber companies inflicted over a century ago. The reservation is especially scenic in the warmer months, when the rivers run full and the forests that loggers once stripped have grown back thick and green. White Earth's total enrolled membership stands at more than 19,000, most living off-reservation in the Twin Cities and beyond -- but the reservation remains the cultural and spiritual center, the place where the hymns are still sung in Ojibwe.
+
+## Flight Context
+
+Located at 47.23N, 95.72W in northwestern Minnesota. The White Earth Indian Reservation covers 1,093 square miles encompassing all of Mahnomen County and parts of Becker and Clearwater counties. The Wild Rice and White Earth rivers are visible corridor landmarks. Mahnomen County Airport (3N8) is the nearest local airfield. Bemidji Regional Airport (KBJI) lies approximately 57 miles to the northeast; Hector International Airport (KFAR) in Fargo is roughly 80 miles west. The terrain is gently rolling with forests, lakes, and river valleys -- quite scenic from 3,000-6,000 feet. The reservation boundary encompasses numerous small settlements visible as clearings in the forested landscape. Detroit Lakes lies to the southwest, and the Red Lake Reservation is to the northeast.
+
+## Sources
+
+- [White Earth Indian Reservation - Wikipedia](https://en.wikipedia.org/?curid=1846305)
+  - Largest Indian reservation in Minnesota by land area confirmed
+  - Encompasses all of Mahnomen County plus parts of Becker and Clearwater confirmed
+  - Population 9,726 per 2020 census confirmed
+  - Tradition of singing hymns in Ojibwe language confirmed
+  - G Company 9th Minnesota Infantry had large bi-racial Chippewa component confirmed
+  - White citizens of Crow Wing enrolled Chippewa as substitutes confirmed
+  - Substitutes signed papers under influence of alcohol confirmed
+  - Chief Hole in the Day II was furious confirmed
+  - Company posted to Fort Abercrombie confirmed
+  - Arrived September 3 to find fort under Sioux attack confirmed
+  - US wanted to relocate all Anishinaabe from MI, WI, MN to White Earth confirmed
+  - Dakota proposed for relocation despite being traditional enemies confirmed
+  - July 8, 1889 treaty breach confirmed
+  - Dawes Act allotment vote imposed confirmed
+  - Battle of Sugar Point October 1898 confirmed
+  - Nelson Act of 1889 confirmed
+  - 1920 census band breakdown: 4,856 Mississippi, 1,218 Pillagers, 472 Pembina, 113 Fond du Lac confirmed
+  - Joseph Hole-in-the-Day sponsored by Alexander Ramsey for West Point 1885 confirmed
+  - Met President Cleveland confirmed
+  - Joseph worked for USPS, heritage unknown to colleagues confirmed
+  - Ignatius attended St. John's College confirmed
+  - Joseph attended Haskell Institute and University of Minnesota confirmed
+  - 2020 demographics: 44.7% Native American, 43.2% White confirmed
+  - Enrolled membership 19,291 per July 2007 confirmed
+- [Minnesota Indian Affairs Council - White Earth Nation](https://mn.gov/indian-affairs/tribal-nations-in-minnesota/gaa-waabaabiganikaag-white-earth-nation.jsp)
+  - White Earth Band part of Minnesota Chippewa Tribe confirmed
+  - Land area 1,093 square miles confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-06 · 22 facts verified · 0 corrections
+
+All facts verified: 1093 sq mi largest reservation in MN, 2020 census 9726 pop, Civil War draft subterfuge at Crow Wing, G Company 9th MN Infantry at Fort Abercrombie Sep 3, Battle of Sugar Point Oct 1898, Nelson Act 1889, 1920 census band breakdown, Joseph Hole-in-the-Day West Point sponsorship 1885, demographics 44.7% Native 43.2% White. Spiciness 3/5 - characterizes govt actions as treaty-breaking and deceit.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Characterizes US government actions as treaty-breaking and land theft
+- Describes Crow Wing draft substitution scheme as deceit
+- Calls the voting process rigged by whites with financial interest
+
+---
+
+*Word count: 890*
+*Read time: 5 minutes*

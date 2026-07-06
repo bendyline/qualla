@@ -1,0 +1,60 @@
+# Shinkolobwe
+
+A sealed uranium mine in the Congolese bush that supplied the raw material for the Hiroshima and Nagasaki atomic bombs, entangled Israeli intelligence in a Cold War smuggling operation, and still draws artisanal miners to its radioactive shafts.
+
+**Location:** -11.0550, 26.5473
+
+**Categories:** mining, uranium, nuclear-history, world-war-ii, cold-war, africa, colonial-history
+
+## Introduction
+
+In the local Katanga slang, shinkolobwe means a man who seems easygoing on the surface but becomes dangerous when provoked. It is difficult to imagine a more fitting name for a uranium mine. Discovered in 1915 by English geologist Robert Rich Sharp in the bush of what was then the Belgian Congo, the Shinkolobwe mine produced the most concentrated uranium ore in the world -- ore so rich that uraninite crystals of one to four centimeters were common. From this remote site, 145 kilometers northwest of Lubumbashi, came the material that ended World War II, that shaped the nuclear arms race, and that nations have fought over, smuggled, and tried to seal away ever since.
+
+## The Ore That Changed Everything
+
+Edgar Sengier, director of the Union Miniere du Haut Katanga, understood what he had before most of the world did. In 1940, as the Nazis swept across Europe, Sengier shipped 1,200 tonnes of stockpiled uranium ore to a warehouse on Staten Island, New York -- an act of foresight that would prove decisive. When Colonel Ken Nichols, working for the Manhattan Project, came looking for uranium in September 1942, Sengier's stockpile was waiting. Nichols later described Shinkolobwe's ore as incomparably richer than anything available from Canadian or other sources. After the initial purchase, an average of 400 tonnes of uranium oxide was shipped to the United States each month. The mine was reopened with help from the Army Corps of Engineers, who drained the flooded shafts and retooled the facility. The Office of Strategic Services was deployed to prevent smuggling to Germany. Two shipments were lost at sea. The rest became the atomic bombs dropped on Hiroshima and Nagasaki.
+
+## Deeper Underground
+
+The geology of Shinkolobwe is as complex as its history. The uranium-bearing deposits formed 630 million years ago, when mineral-rich solutions percolated into dolomitic shales of the Precambrian Mine Series within the Katanga synclinorium. Alongside uranium, the deposits yielded cobalt, silver, nickel, bismuth, and arsenic. More than twenty new minerals were first identified here, including becquerelite, schoepite, and sklodowskite -- names that read like a periodic table of radioactive geology. Open-cut mining was suspended in 1936, then restarted in 1944 for the war effort. Underground operations, which required pumping the mine dry below the 45-meter water table, eventually reached the 255-meter level by 1955. Through the late 1940s and early 1950s, the U.S. received thousands of tonnes of uranium concentrates: 1,440 tonnes in 1947, 2,792 in 1951, 1,600 in 1953. A NATO military base at Kamina provided security. The nearby town of Jadotville became a checkpoint for foreigners.
+
+## Operation Plumbat
+
+Shinkolobwe's uranium did not only serve American interests. In 1968, after France cut off uranium fuel for Israel's Dimona nuclear reactor in the wake of the Six-Day War, Israeli intelligence executed what became known as Operation Plumbat. Working with the Belgian mining company Union Miniere, Mossad arranged for 200 tonnes of yellowcake -- processed uranium ore originating from Shinkolobwe -- to be shipped from Antwerp to Genoa under the cover of a European front company. At night, on the Mediterranean Sea, the cargo was transferred to another vessel and disappeared. The operation supplied Israel's undeclared nuclear weapons program and remained one of the most audacious intelligence operations of the Cold War.
+
+## Sealed but Not Silent
+
+By the time Congo gained independence, Union Miniere had poured concrete into the mine shafts, sealing them shut. The mine was officially closed by presidential decree on January 28, 2004. But closure on paper has not meant closure in practice. In July 2004, eight people died and thirteen were injured when part of the old mine collapsed. A United Nations mission led by OCHA and the UN Environment Programme visited the site and found evidence of ongoing artisanal mining -- people digging by hand in radioactive earth for whatever minerals they could sell. In 2006, a UN Security Council committee confirmed that artisanal extraction continued. That same year, the British Sunday Times published claims, citing Tanzanian customs officials, that Iran was seeking uranium from Shinkolobwe. The mine that supplied the first atomic bombs remains, even sealed and abandoned, a source of global anxiety. The man who seems easygoing on the surface still has the capacity to provoke.
+
+## Flight Context
+
+Located at 11.05°S, 26.55°E in Haut-Katanga Province, DRC, approximately 20 km west of Likasi and 145 km northwest of Lubumbashi. The mine site is difficult to identify from altitude as the shafts are sealed and the area has partially revegetated, but the cleared ground and access roads may be visible at lower altitudes. Likasi Airport is the nearest airstrip. Lubumbashi International Airport (FZQA/FBM) is the closest major airport. The terrain is gently undulating savanna at about 1,300 m elevation. The Kamina military base lies to the northwest. Approach with awareness that this is a historically sensitive site.
+
+## Sources
+
+- [Shinkolobwe - Wikipedia](https://en.wikipedia.org/?curid=3648687)
+  - 1,200 tonnes of uranium shipped to Staten Island in 1940 confirmed
+  - Colonel Ken Nichols approached Sengier September 1942 confirmed
+  - Ore was exceptionally high grade (up to 65% uranium) confirmed
+  - Mine officially closed by decree January 28 2004 confirmed
+  - July 2004 collapse killed 8 and injured 13 confirmed
+  - Operation Plumbat 1968 Israel 200 tonnes yellowcake from Union Miniere confirmed
+  - France cut uranium fuel after Six-Day War confirmed
+  - Mine discovered 1915 confirmed
+- [Operation Plumbat - Wikipedia](https://en.wikipedia.org/wiki/Operation_Plumbat)
+  - Israel obtained 200 tonnes of yellowcake from Belgium in 1968
+  - Cargo transferred ship-to-ship in Mediterranean confirmed
+  - Connection to Dimona reactor and French fuel cutoff confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 8 facts verified · 0 corrections
+
+Verified 1200 tonnes Staten Island stockpile 1940, Nichols approached Sengier September 1942, high-grade ore, mine officially closed January 28 2004, July 2004 collapse 8 killed, Operation Plumbat 1968 200 tonnes yellowcake, mine discovered 1915. No factual errors. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

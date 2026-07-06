@@ -715,5 +715,26 @@
     "_m/d/r/7/2/kingsbridge-armory-wp/door-details.jpg",
     "_m/d/r/7/2/kingsbridge-armory-wp/black-door.jpg"
   ],
-  "updatedAt": "2026-03-30T14:39:10.545Z"
+  "updatedAt": "2026-03-30T14:39:10.545Z",
+  "narration": {
+    "files": [
+      "dr72-kingsbridge-armory-flight-context.mp3",
+      "dr72-kingsbridge-armory-intro.mp3",
+      "dr72-kingsbridge-armory-a-castle-without-a-kingdom.mp3",
+      "dr72-kingsbridge-armory-living-wages-and-vetoed-dreams.mp3",
+      "dr72-kingsbridge-armory-ice-palaces-and-broken-leases.mp3",
+      "dr72-kingsbridge-armory-emergency-room-for-the-borough.mp3",
+      "dr72-kingsbridge-armory-still-becoming-something.mp3"
+    ],
+    "durations": {
+      "dr72-kingsbridge-armory-flight-context.mp3": 46.278875,
+      "dr72-kingsbridge-armory-intro.mp3": 56.5831666,
+      "dr72-kingsbridge-armory-a-castle-without-a-kingdom.mp3": 54.81575,
+      "dr72-kingsbridge-armory-living-wages-and-vetoed-dreams.mp3": 54.291375,
+      "dr72-kingsbridge-armory-ice-palaces-and-broken-leases.mp3": 58.7770833,
+      "dr72-kingsbridge-armory-emergency-room-for-the-borough.mp3": 38.4118333,
+      "dr72-kingsbridge-armory-still-becoming-something.mp3": 65.2809583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

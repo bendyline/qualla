@@ -1373,5 +1373,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u5j7-trollstigen-flight-context.mp3",
+      "u5j7-trollstigen-intro.mp3",
+      "u5j7-trollstigen-eight-years-of-dynamite-and-determination.mp3",
+      "u5j7-trollstigen-the-waterfall-and-the-viewing-platform.mp3",
+      "u5j7-trollstigen-a-road-that-closes-itself.mp3",
+      "u5j7-trollstigen-trolls-and-telecommunications.mp3"
+    ],
+    "durations": {
+      "u5j7-trollstigen-flight-context.mp3": 65.3465833,
+      "u5j7-trollstigen-intro.mp3": 50.493125,
+      "u5j7-trollstigen-eight-years-of-dynamite-and-determination.mp3": 62.4687916,
+      "u5j7-trollstigen-the-waterfall-and-the-viewing-platform.mp3": 66.1901666,
+      "u5j7-trollstigen-a-road-that-closes-itself.mp3": 61.8257916,
+      "u5j7-trollstigen-trolls-and-telecommunications.mp3": 54.0014166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

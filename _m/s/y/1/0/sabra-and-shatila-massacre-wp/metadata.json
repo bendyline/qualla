@@ -366,5 +366,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sy10-sabra-and-shatila-massacre-flight-context.mp3",
+      "sy10-sabra-and-shatila-massacre-intro.mp3",
+      "sy10-sabra-and-shatila-massacre-the-weeks-before.mp3",
+      "sy10-sabra-and-shatila-massacre-forty-hours.mp3",
+      "sy10-sabra-and-shatila-massacre-what-the-world-concluded.mp3",
+      "sy10-sabra-and-shatila-massacre-the-weight-of-names.mp3",
+      "sy10-sabra-and-shatila-massacre-a-place-that-persists.mp3"
+    ],
+    "durations": {
+      "sy10-sabra-and-shatila-massacre-flight-context.mp3": 36.356,
+      "sy10-sabra-and-shatila-massacre-intro.mp3": 38.1862083,
+      "sy10-sabra-and-shatila-massacre-the-weeks-before.mp3": 61.5513333,
+      "sy10-sabra-and-shatila-massacre-forty-hours.mp3": 59.3779583,
+      "sy10-sabra-and-shatila-massacre-what-the-world-concluded.mp3": 55.2582916,
+      "sy10-sabra-and-shatila-massacre-the-weight-of-names.mp3": 53.2975,
+      "sy10-sabra-and-shatila-massacre-a-place-that-persists.mp3": 55.9895
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

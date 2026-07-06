@@ -1,0 +1,73 @@
+# Jakarta
+
+Where eleven million people crowd the sinking capital of the world's largest archipelago nation, where Dutch colonialism built a port and independence built a sprawl, where Indonesia decides its future.
+
+**Location:** -6.2088, 106.8456
+
+**Categories:** indonesia, megacity, sinking, colonial, traffic, capital
+
+## Introduction
+
+Jakarta is sinking. The northern districts have subsided up to four meters in the past three decades, the result of groundwater extraction that has caused the land to compact while sea levels rise. Floods that were once occasional are now annual; some neighborhoods flood monthly during monsoon season. The Indonesian government has announced plans to move the capital to Nusantara, a new city being built on Borneo, escaping the problems that Jakarta has accumulated. But Jakarta is not just a city - it is the largest metropolitan area in Southeast Asia, home to over 30 million people in the greater region, the political and economic heart of the world's fourth most populous nation. Moving the government will not move the city. Jakarta will remain, sinking and growing simultaneously, a megacity that cannot stop either process.
+
+## The Dutch Port
+
+The Dutch East India Company established Batavia in 1619 on the site of the Javanese port of Jayakarta, building a colonial capital that would control the spice trade for three centuries. The canals they dug to drain the swampy land gave Batavia its nickname - the Queen of the East - and also created the conditions for disease that made the city notorious among colonials. The Dutch quarter, Kota Tua (Old Town), preserves what remains of that era: the former city hall, now the Jakarta History Museum; the drawbridge over the canal; the warehouses converted to cafes.
+
+The Dutch controlled the Indonesian archipelago until Japanese invasion in 1942, returned briefly after the war, and finally recognized independence in 1949. The city they built became the capital of a nation that stretched from Sumatra to Papua, 17,000 islands unified by a colonial power and kept unified by a nationalist movement. Batavia became Jakarta, the Dutch names replaced, but the infrastructure remained - the canals that now overflow with each monsoon, the low-lying land that now sinks beneath the sea.
+
+## The Sinking Capital
+
+Jakarta extracts groundwater faster than aquifers can recharge, compacting the soil beneath the city's foundations. The northern districts have sunk four meters since 1990; some areas sink 25 centimeters annually. The sea walls that protect the coast are inadequate, overtopped during high tides, breached during storms. The floods that result damage homes, close roads, and spread disease through a population that has nowhere else to go.
+
+The government's response has been to plan an exit. Nusantara, the new capital being built on Borneo, will host the government by 2045 if the project stays on schedule. But Jakarta holds 30 million people who cannot relocate to a planned city in the jungle. The sinking will continue; the floods will worsen; the eleven million who live in the city proper and the twenty million more in the surrounding region will adapt or suffer or both. The capital can move; the megacity cannot.
+
+## The Traffic Nightmare
+
+Jakarta's traffic is legendary - the city consistently ranks among the world's most congested, with average speeds below 10 kilometers per hour during rush hours that extend for most of the day. The metro, opened in 2019, has helped; the busway system, running on dedicated lanes since 2004, moves millions daily. But the city was built for far fewer people than it holds, and the infrastructure has never caught up.
+
+The traffic shapes daily life. Commutes of two or three hours each way are normal. Meetings are scheduled around traffic patterns. The ride-hailing motorbikes called ojek online provide flexibility that cars cannot match, weaving through gridlock that would trap larger vehicles. The government has tried everything: odd-even license plate restrictions, congestion pricing, rapid transit expansion. Nothing has solved the problem because nothing can - the city holds too many people in too little space, all trying to move at the same time.
+
+## The Many Jakartas
+
+Jakarta is not one city but many, layered by class and ethnicity and history. The gleaming towers of the central business district, where Indonesian conglomerates and multinational corporations occupy glass skyscrapers. The kampungs, the urban villages that persist in the interstices, where migrants from across the archipelago recreate the communities they left. The malls, which serve as public space in a city that lacks parks, their air conditioning and entertainment drawing crowds that have nowhere else to go.
+
+The ethnic Chinese minority, roughly 1% of Indonesia's population, dominates Jakarta's commerce to a degree that has provoked periodic violence - the riots of 1998, during the Asian financial crisis, targeted Chinese businesses and residents. The divisions that define Indonesian politics - between Java and the outer islands, between Muslims and minorities, between established wealth and new aspiration - concentrate in Jakarta. The city is the prize that everyone fights over, the place where Indonesia's future is decided even as that future relocates to Borneo.
+
+## The Megacity Continues
+
+Jakarta will not disappear when the government moves. The banks and corporations and markets and ports that make the city Indonesia's economic center have no plans to follow politicians to the jungle. The universities and hospitals and cultural institutions that serve the nation's largest population will remain. The eleven million who live in Jakarta proper and work in its offices and factories cannot relocate en masse.
+
+The megacity will continue to sink and grow, to flood and rebuild, to sprawl across the coastal plain until it merges with Bogor and Bekasi and Tangerang in an unbroken urban mass. The problems that drove the capital relocation will remain for those who cannot leave. Jakarta's future is the future of megacities everywhere: too big to manage, too important to abandon, a permanent emergency that millions navigate daily because the alternative is worse. The Queen of the East has become something uglier and more human, a city that refuses to stop growing even as it sinks beneath the sea.
+
+## Flight Context
+
+Jakarta (6.21S, 106.85E) lies on the northwest coast of Java, spread across flat coastal and alluvial plain. Soekarno-Hatta International Airport (WIII/CGK) is located 20km west of the city center with three runways: 07L/25R (3,660m), 07R/25L (3,600m), and 06/24 (2,555m). The airport is Indonesia's busiest. Halim Perdanakusuma Airport (WIHH/HLP) on the eastern edge handles some domestic traffic. The city sprawl is visible extending in all directions. Jakarta Bay opens to the north. The National Monument (Monas, 132m) is the central landmark. Flooding is visible in northern districts during wet season. The Thousand Islands chain extends north into the Java Sea. Weather is tropical monsoon - wet season October-April with heavy afternoon thunderstorms, dry season May-September. Flooding affects ground access during monsoon peaks. Visibility can be reduced by pollution and haze.
+
+## Sources
+
+- [Jakarta - Wikipedia](https://en.wikipedia.org/wiki/Jakarta)
+  - ~11 million city proper
+  - 30+ million metro
+  - sinking up to 25cm annually in places
+- [Batavia, Dutch East Indies - Wikipedia](https://en.wikipedia.org/wiki/Batavia,_Dutch_East_Indies)
+  - established 1619
+  - Dutch control until 1942
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 6 facts verified · 0 corrections
+
+Story overlay verified
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Where eleven million people crowd the sinking capital
+- A city that refuses to stop growing even as it sinks beneath the sea
+
+---
+
+*Word count: 1,150*
+*Read time: 6 minutes*

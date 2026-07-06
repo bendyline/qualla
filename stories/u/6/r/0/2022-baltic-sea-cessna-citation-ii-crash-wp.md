@@ -1,0 +1,66 @@
+# 2022 Baltic Sea Cessna Citation II Crash
+
+A ghost plane's haunting final journey across Europe, flying silently on autopilot with an unconscious crew until fuel exhaustion sent it spiraling into the Baltic Sea.
+
+**Location:** 57.6650, 21.0940
+
+**Categories:** Aviation accidents and incidents, 2022 disasters, Baltic Sea, Latvia, Pilot incapacitation
+
+## Introduction
+
+For nearly four hours on September 4, 2022, a Cessna 551 Citation II flew in eerie silence across European skies. French Rafale fighters scrambled to intercept it, their pilots peering through the cockpit windows to see motionless figures slumped in their seats. German jets took over the escort as the business jet crossed into their airspace, powerless to help as the aircraft continued its ghostly trajectory northeast, unresponsive to all radio calls. The plane would not stop until physics demanded it: somewhere over the cold waters of the Baltic Sea, 43 years of flying came to an end.
+
+## A Routine Flight Turns Fatal
+
+The day began with promise. Karl-Peter Griesemann, a prominent businessman from Cologne and a respected figure in the city's famous carnival society, was returning from Jerez, Spain with his wife Juliane, their daughter Lisa (herself a licensed pilot), and Lisa's boyfriend Paul. The chartered Cessna 551, registered as OE-FGR, lifted off for what should have been a straightforward journey home to Cologne. Shortly after takeoff, Griesemann radioed Spanish air traffic control with troubling news: the cabin was losing pressure. He requested permission to descend. Those were the last coherent words anyone would hear from the cockpit. As the aircraft crossed the Iberian Peninsula and entered French airspace, silence fell. The cabin pressure failure had done its deadly work, starving all four occupants of oxygen until consciousness slipped away.
+
+## The Ghost Plane
+
+At 14:25 UTC, a Dassault Rafale fighter from Mont-de-Marsan Air Base screamed into the sky on an intercept mission. What the French pilot found was chilling: the Cessna flying straight and level, its occupants visible but motionless. A second Rafale from Saint-Dizier-Robinson Air Base took over the escort as the aircraft continued its programmed course. The French Air Force followed helplessly as the Citation passed near Paris, then approached Cologne, where it should have landed. But there was no one conscious to begin the descent. The autopilot, faithfully executing its last instructions, held course. When the jet crossed into German airspace around 15:57 UTC, German Air Force jets took over the grim escort, trailing the aircraft as it flew over Germany and out across the Baltic Sea.
+
+## A Flight Without End
+
+The 43-year-old Cessna, built in 1979 and powered by twin Pratt & Whitney JT15D-4 engines, had no flight data recorder to capture its final moments. The aircraft simply flew on, passing Denmark, skirting Swedish airspace, continuing its relentless northeastern course. For almost two hours, the ghost plane traced a line across the Baltic, gradually exhausting its fuel reserves. When the tanks finally ran dry approximately 20 kilometers off the coast of Ventspils, Latvia, the engines fell silent. Without power, without control inputs, the aircraft entered an uncontrolled descent. It spiraled down into the cold Baltic waters, ending a journey that had begun under sunny Spanish skies.
+
+## Recovery and Investigation
+
+Swedish maritime rescue personnel were first to spot the wreckage: traces of oil on the water's surface, fragments of debris scattered across the waves. Within hours, Latvian Naval Forces had recovered 11 pieces of the aircraft, including passenger seats. Shortly before midnight, the grim discovery of human remains confirmed what everyone feared. The German Federal Bureau of Aircraft Accident Investigation took over the case on September 8, 2022. Their provisional findings painted a tragic picture: hypoxia had claimed the crew and passengers within moments of the initial pressure malfunction. The autopilot, designed as a safety feature, had instead become the instrument of a prolonged, inevitable conclusion. The Griesemann family and Paul were simply passengers on a plane that had become their airborne tomb.
+
+## The Lesson in Silence
+
+The crash site lies in the gray waters of the Baltic, a cold and remote final resting place for four people who left Spain expecting to be home for dinner. The incident underscores the ruthless mathematics of high-altitude flight: at cruising altitude, a loss of cabin pressure leaves occupants just seconds to don oxygen masks before hypoxia begins its rapid onset. The Cessna 551 carried no supplemental oxygen system capable of sustaining consciousness through such a failure. For pilots and aviation safety experts, the 2022 Baltic crash stands as a stark reminder that at 36,000 feet, the thin line between routine flight and catastrophe can vanish in a single breath.
+
+## Flight Context
+
+The crash site is located at 57.665°N, 21.094°E in the Baltic Sea, approximately 20 km off the coast of Ventspils, Latvia. The area is open water with no visual landmarks. Nearby airports include Ventspils International Airport (EVVA) approximately 20 km to the east, and Liepaja International Airport (EVLA) about 80 km to the south. The flight path of the ghost plane crossed from Spain over France, past Paris and Cologne, over Germany, and across the Baltic passing Denmark and Sweden before the crash. Flying this route provides sobering context for the nearly four-hour journey of the stricken aircraft.
+
+## Sources
+
+- [2022 Baltic Sea Cessna Citation II crash - Wikipedia](https://en.wikipedia.org/?curid=71675266)
+- [Wikipedia - 2022 Baltic Sea Cessna Citation crash](https://en.wikipedia.org/wiki/2022_Baltic_Sea_Cessna_Citation_crash)
+  - September 4, 2022 date
+  - Cessna 551 Citation II built 1979
+  - Registration OE-FGR
+  - Karl-Peter Griesemann pilot with wife, daughter Lisa, boyfriend Paul
+  - Departed Jerez for Cologne
+  - Crashed off Ventspils Latvia
+- [CBS News - Ghost Plane Crash](https://www.cbsnews.com/news/ghost-plane-crash-baltic-sea-human-remains-debris-karl-peter-griesemann/)
+  - Griesemann prominent Cologne businessman
+  - Fighter jet intercepts confirmed
+  - Hypoxia suspected cause
+- [Aviation Safety Network](https://aviation-safety.net/database/record.php?id=20220904-0)
+  - German BFU took over investigation September 8
+  - No flight data recorder on aircraft
+
+## Review Notes
+
+**Reviewed:** 2026-02-04 · 12 facts verified · 0 corrections
+
+Verified date, aircraft details, passengers names, flight path, crash location off Ventspils, hypoxia cause. Well-documented recent incident.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 815*
+*Read time: 4 minutes*

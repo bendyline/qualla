@@ -1,0 +1,55 @@
+# Pandharpur Wari
+
+An 800-year-old Hindu pilgrimage in which a million devotees walk 250 kilometers across Maharashtra carrying saints' sacred sandals in palanquins, converging on the Vithoba Temple at Pandharpur.
+
+**Location:** 17.4040, 75.1940
+
+**Categories:** pilgrimage, festival, cultural-tradition, sacred-site
+
+## Introduction
+
+Every year in the Hindu month of Ashadha, a sound moves across Maharashtra before the pilgrims do: the tutari, a wind instrument blown three times at dawn. At the first signal, a million Warkaris prepare to walk. At the second, they form their lines. At the third, they begin moving -- and they will not stop for 21 days, covering 250 kilometers on foot from Pune district to the Vithoba Temple at Pandharpur. They carry palanquins bearing the sacred sandals of medieval poet-saints, wear strands of holy basil beads, and sing devotional songs that have not changed in eight centuries. The Pandharpur Wari is one of the oldest and largest annual pilgrimages on Earth.
+
+## Saints' Sandals and the Road to Pandharpur
+
+The Wari centers on two palanquins, or palkhis, each carrying the paduka -- sacred footwear -- of a beloved Varkari saint. Sant Dnyaneshwar's palkhi departs from Alandi, while Sant Tukaram's begins at Dehu, both towns in Pune district. Along the way, dozens of other palkhis from across Maharashtra join the procession like tributaries feeding a river. The destination is the Vithoba Temple at Pandharpur, and the timing is precise: the pilgrims must arrive on Shayani Ekadashi, the eleventh lunar day of the bright fortnight of Ashadha, falling in June or July. Upon reaching Pandharpur, devotees bathe in the sacred Bhima River before entering the temple. The tradition of carrying the saints' sandals in procession was begun in 1685 by Narayan Maharaj, Tukaram's youngest son.
+
+## Eight Centuries of Walking
+
+The origins of the Wari are debated, but its antiquity is not. One theory holds that Vitthalpant, the father of the poet-saint Dnyaneshwar, began making the pilgrimage to Pandharpur in the Hindu months of Ashadha and Kartik, establishing a tradition now generally regarded as more than 800 years old. In the 1820s, a devotee named Haibatravbaba Arphalkar, a courtier of the Scindia dynasty, reorganized the pilgrimage into something closer to its present form. He introduced the concept of the Dindi -- organized troupes of devotees from a single caste or village who travel together, share meals and lodging, and maintain their assigned place in the procession. Haibatravbaba's descendants and the Alandi Devasthan Trust continue to manage the Dnyaneshwar palkhi to this day.
+
+## The Discipline of Devotion
+
+What distinguishes the Wari from a simple march is its regimentation. The schedule is published in advance and followed to the minute. Every morning, after the saint's paduka are worshiped, the palkhi departs at six o'clock sharp. Flag and banner carriers lead each Dindi, with a drummer at its center keeping the rhythm of the march. After four or five kilometers, there is a quick breakfast stop. Managing members of each Dindi travel ahead to arrange food and shelter at the next stop. All registered Dindis are numbered and assigned their position relative to the palkhi -- some walk in front, others behind. The World Book of Records has classified the Pandharpur Wari as "one of the most visited places in a day," and an estimated one million pilgrims make the journey annually, requiring accommodation provided by religious mathas and temporary lodging houses.
+
+## Plagues, Pandemics, and Persistence
+
+A pilgrimage that funnels a million people through Maharashtra's towns and villages has always posed public health challenges. Since the British colonial period, authorities have required compulsory vaccinations against cholera and plague for participants. The early twentieth century saw medical staff attached to different palkhis, infected pilgrims removed from the procession, wells modified for safe drinking water, and sanitation workers deployed along the route. The requirement to be vaccinated against cholera and typhoid in order to join a Dindi has continued into the present. In 2020, the COVID-19 pandemic reduced the Wari to just fifty participants, and the saints' paduka were driven or flown to Pandharpur rather than carried on foot. But the tradition's resilience over eight centuries suggests that no disruption -- colonial, medical, or viral -- has the power to end what the Warkaris have sustained through walking, singing, and an unshakable faith that the road to Pandharpur is the road to God.
+
+## Flight Context
+
+The Pandharpur Wari route stretches approximately 250 km from the Pune district towns of Alandi and Dehu southeast to Pandharpur in Solapur district. Pandharpur itself is located at approximately 17.404N, 75.194E along the Bhima River. The Vithoba Temple complex is the central landmark. From the air during June-July (Ashadha month), the procession of over a million pilgrims may be visible as a long column moving along roads between Pune and Pandharpur. Nearest airports include Pune International (VAPO, approximately 200 km northwest) and Solapur Airport (VASL, approximately 75 km east). The terrain is flat Deccan Plateau farmland. Best viewed at 5,000-10,000 feet AGL.
+
+## Sources
+
+- [Pandharpur Vari - Wikipedia](https://en.wikipedia.org/?curid=47363315)
+  - 250 km pilgrimage distance confirmed
+  - 21-day duration confirmed
+  - Dnyaneshwar palkhi from Alandi confirmed
+  - Tukaram palkhi from Dehu confirmed
+  - Narayan Maharaj (Tukaram's youngest son) started palkhi tradition in 1685 confirmed
+  - Pilgrims arrive on Shayani Ekadashi confirmed
+  - Approximately one million pilgrims annually confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-07 · 9 facts verified · 0 corrections
+
+250km distance verified, 21-day duration verified, Alandi and Dehu start points verified, Narayan Maharaj (Tukaram's son) started palkhi tradition 1685 verified, Shayani Ekadashi timing verified, one million pilgrims verified. No corrections needed.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 770*
+*Read time: 4 minutes*

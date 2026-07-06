@@ -1,0 +1,54 @@
+# Dorasan Station
+
+South Korea's northernmost train station sits 650 meters from the DMZ, its platforms gleaming and its destination boards pointing toward Pyongyang -- a city no train from here has reached in decades.
+
+**Location:** 37.8987, 126.7101
+
+**Categories:** Railway stations in South Korea, Korean Demilitarized Zone, Korean reunification, Paju
+
+## Introduction
+
+Inside Dorasan Station, a sign on the platform reads "Not the last station from the South, but the first station toward the North." The phrasing is deliberate. This immaculate railway station, built in 2002 with polished floors and vaulted ceilings, was designed not for the traffic it handles today -- a single weekend shuttle to the next station down the line -- but for the day it might connect Seoul to Pyongyang, and eventually to the Trans-Siberian Railway and the whole of Eurasia. A map on the wall traces that imagined route. The tracks outside point north and vanish into the demilitarized zone.
+
+## A Station Built on Hope
+
+Dorasan Station sits on the Gyeongui-Jungang Line, approximately 650 meters from the southern boundary of the Korean Demilitarized Zone. It is the northernmost point on South Korea's rail network, the current terminus of a line that once ran continuously to Pyongyang and beyond. The station was built as a symbol of Korean reunification, its grand architecture far exceeding what a remote border outpost would require. Departure gates stand ready for passengers who have never come. Immigration counters wait for a border crossing that does not operate. The station embodies a very specific kind of Korean optimism -- investing in infrastructure for a future that may or may not arrive, but refusing to stop believing it will.
+
+## Brief Seasons of Connection
+
+For a few years, trains actually crossed the border. On December 11, 2007, freight services began running north from Dorasan into North Korea, carrying materials to the Kaesong Industrial Region and returning with finished goods. One 16-kilometer trip per weekday -- modest by any standard, but extraordinary given that the same tracks had been severed for more than half a century. The service lasted barely a year. On December 1, 2008, North Korea closed the border crossing, accusing the South of a confrontational policy. The crossing opened and closed repeatedly after that, subject to the volatile rhythms of inter-Korean relations, with the most recent reopening in September 2013. Before the freight service, four daily tourist trains ran from Seoul, giving visitors a glimpse of the DMZ. Those stopped too, victims of declining demand and worsening diplomacy.
+
+## The Quietest Platform in Korea
+
+Since December 2021, a 3.7-kilometer shuttle service has connected Dorasan to Imjingang Station, the next stop south. It runs once on weekends and public holidays. That is the entirety of Dorasan's scheduled service -- a single short trip for day-trippers and the curious. The station's true significance lies not in the trains that come but in the ones that don't. North of the platform, the tracks continue as the P'yongbu Line, operated by the Korean State Railway, running through territory no South Korean train has regularly serviced. The gap between the last South Korean rail and the first North Korean rail is measured in meters, not miles. It is one of the shortest and most impassable distances in the world.
+
+## Tracks Into the Unknown
+
+In October 2024, North Korea severed the last physical connections, digging trenches across roads and rail lines leading to South Korea. The gesture was grimly final, destroying what the builders of Dorasan Station had spent years constructing -- not just infrastructure, but the possibility of infrastructure. Yet the station remains open, its halls clean, its signs bilingual. The Pyongyang destination board has not been taken down. A Eurasian rail map still hangs on the wall, tracing a continuous route from Busan through Seoul, through Dorasan, through Pyongyang, through China, and on to Europe. Whether it represents foresight or wishful thinking depends on which decade you ask. For now, Dorasan Station waits, as it was always built to do.
+
+## Flight Context
+
+Located at 37.899N, 126.710E, approximately 650 meters south of the Korean DMZ. Visible from the air as a modern station complex amid otherwise sparse development near the border. Flight restrictions apply in this area due to proximity to the DMZ. Nearest airports: Gimpo International (RKSS, ~45 km south), Incheon International (RKSI, ~70 km southwest). Seoul Air Base (RKSM) lies to the southeast.
+
+## Sources
+
+- [Dorasan station - Wikipedia](https://en.wikipedia.org/?curid=7579767)
+  - Station located 650 meters from DMZ confirmed
+  - Freight services began December 11 2007 confirmed
+  - North Korea closed border crossing December 1 2008 confirmed
+  - 3.7-kilometer shuttle service from Imjingang confirmed
+  - Shuttle runs once on weekends and public holidays confirmed
+  - North Korea severed physical connections with trenches October 2024 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-19 · 6 facts verified · 0 corrections
+
+Key facts verified: 650m from DMZ, freight service dates, shuttle service, 2024 trench cutting confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 680*
+*Read time: 4 minutes*

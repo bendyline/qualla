@@ -340,5 +340,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kthy-mana-pools-national-park-flight-context.mp3",
+      "kthy-mana-pools-national-park-intro.mp3",
+      "kthy-mana-pools-national-park-the-pools-and-their-forest.mp3",
+      "kthy-mana-pools-national-park-five-hundred-rhinos-then-ten.mp3",
+      "kthy-mana-pools-national-park-dams-and-what-they-take.mp3",
+      "kthy-mana-pools-national-park-walking-with-elephants.mp3"
+    ],
+    "durations": {
+      "kthy-mana-pools-national-park-flight-context.mp3": 52.638,
+      "kthy-mana-pools-national-park-intro.mp3": 42.9386666,
+      "kthy-mana-pools-national-park-the-pools-and-their-forest.mp3": 67.892375,
+      "kthy-mana-pools-national-park-five-hundred-rhinos-then-ten.mp3": 58.1455833,
+      "kthy-mana-pools-national-park-dams-and-what-they-take.mp3": 58.57775,
+      "kthy-mana-pools-national-park-walking-with-elephants.mp3": 66.1049583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

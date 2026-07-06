@@ -470,5 +470,24 @@
     "_m/s/r/n/p/berat-wk/1999-kienzle-dia-26.jpg",
     "_m/s/r/n/p/berat-wk/1999-kienzle-dia-27.jpg"
   ],
-  "updatedAt": "2026-03-31T09:24:18.235Z"
+  "updatedAt": "2026-03-31T09:24:18.235Z",
+  "narration": {
+    "files": [
+      "srnp-berat-flight-context.mp3",
+      "srnp-berat-intro.mp3",
+      "srnp-berat-where-faiths-shared-walls.mp3",
+      "srnp-berat-a-castle-in-the-clouds.mp3",
+      "srnp-berat-tastes-of-the-valley.mp3",
+      "srnp-berat-the-river-below.mp3"
+    ],
+    "durations": {
+      "srnp-berat-flight-context.mp3": 45.0156666,
+      "srnp-berat-intro.mp3": 39.7414583,
+      "srnp-berat-where-faiths-shared-walls.mp3": 54.7218333,
+      "srnp-berat-a-castle-in-the-clouds.mp3": 55.7192916,
+      "srnp-berat-tastes-of-the-valley.mp3": 60.8553333,
+      "srnp-berat-the-river-below.mp3": 68.8480416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

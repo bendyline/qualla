@@ -1,0 +1,66 @@
+# Queen Anne's Revenge
+
+Blackbeard's legendary flagship lies in just 28 feet of water off Beaufort Inlet, North Carolina, where over 300,000 artifacts have been recovered since its 1996 discovery.
+
+**Location:** 34.6956, -76.6889
+
+**Categories:** maritime-history, archaeology, piracy, shipwrecks, north-carolina
+
+## Introduction
+
+In January 2018, archaeologists pulled sixteen fragments of paper from the sludge caked inside a cannon barrel. The scraps turned out to be pages torn from a 1712 book about a voyage around the world -- ripped out and stuffed into the gun as wadding. For three centuries, the words of Captain Edward Cooke had sat sealed inside a weapon aboard the most feared pirate ship in the Atlantic. The cannon belonged to Queen Anne's Revenge, the flagship of Edward Teach -- Blackbeard -- and it rests in just 28 feet of water about a mile off the North Carolina shore, one of the most significant maritime archaeological sites in the Western Hemisphere.
+
+## From Slaver to Pirate Flagship
+
+The ship began her career around 1710 as a 200-ton French vessel, likely built by French shipwrights based on distinctive fastening patterns found in her timbers. She served the renowned French corsair Rene Duguay-Trouin before being converted into a slave ship operated by Rene Montaudin of Nantes. Sold, re-acquired by the French Navy in November 1716, then sold again for the slave trade, she changed hands and purposes repeatedly. On November 28, 1717, near the island of Martinique, Blackbeard and his crew seized her. He added heavy cannons -- perhaps forty in all, sourced from England and Sweden and wherever else pirates could scavenge them -- and christened her Queen Anne's Revenge. The name likely referenced Queen Anne's War, the American theater of the War of the Spanish Succession, in which Blackbeard may have served with the Royal Navy. From the Caribbean, he sailed her on a rampage against British, Dutch, and Portuguese merchant ships.
+
+## The Blockade and the Betrayal
+
+In May 1718, Blackbeard used Queen Anne's Revenge to blockade the harbor of Charleston, South Carolina, holding the port hostage and capturing multiple vessels. He refused Governor Robert Johnson's offer of the King's Pardon. Then, on June 10, 1718, while entering Beaufort Inlet, he ran the ship aground. Captain David Herriot of the sloop Adventure later testified that "Thatch's ship Queen Anne's Revenge run a-ground off of the Bar of Topsail-Inlet." The Adventure ran aground too while trying to kedge the larger ship free. What happened next suggests calculation rather than accident: Blackbeard transferred supplies to a smaller vessel, abandoned most of his crew on a nearby island, and disappeared. Some historians believe he deliberately wrecked the ship to shed unwanted men and consolidate plunder. He briefly accepted a pardon from Governor Charles Eden at Bath, North Carolina, but returned to piracy and was killed in combat that November.
+
+## Raising a Pirate's Arsenal
+
+The wreck lay undisturbed until 1996, when Intersal's director of operations Mike Daniel located it using historical research compiled by Phil Masters and maritime archaeologist David Moore. The site sits about a mile offshore of Fort Macon State Park at Atlantic Beach. Thirty cannons have been identified, and twenty-four have been excavated. The guns tell the ship's multinational story: one carries an English proof mark; a 4-pounder bears the founder's mark of Major John Fuller of the Heathfield Furnace in East Sussex; four Swedish 1-pounders carry markings from Jesper Eliaeson Ehrencreutz's works in Sodermanland, with two dated 1713. All the cannons were found loaded -- ready for a fight that never came. More than 300,000 artifacts have surfaced, from ceramic and pewter fragments to a sword guard, canister shot, and bar shot halves.
+
+## Proof Beyond Doubt
+
+For years, North Carolina maintained the wreck's identity was unconfirmed. That changed on August 29, 2011, when the National Geographic Society reported the state had officially confirmed the ship as Queen Anne's Revenge. The evidence was compelling in its specificity: a brass coin weight bearing the bust of Queen Anne, cast during her 1702-1714 reign; a wine glass stem decorated with diamonds and tiny crowns commemorating the 1714 coronation of King George I; remains of a French hunting sword with a bust resembling King Louis XV, who claimed the throne in 1715; and a urethral syringe for treating venereal disease, manufactured between 1707 and 1715 in Paris. French foot measurements on recovered stern sections confirmed the ship's Continental origins. The wreck was added to the National Register of Historic Places in 2004, and artifacts are now displayed at the Smithsonian's National Museum of American History and the Musee national de la Marine in Paris.
+
+## A Modern Battle Over a Pirate Ship
+
+Queen Anne's Revenge has generated legal battles nearly as fierce as its pirate engagements. Archaeological recovery halted after the 2015 season due to lawsuits between Intersal and the State of North Carolina over contract violations. Meanwhile, when North Carolina posted underwater video of the wreck without permission, the filmmaker Nautilus Productions sued for copyright infringement. The state legislature had preemptively passed what became known as "Blackbeard's Law," declaring all documentary materials of shipwrecks in state custody to be public records. The case reached the U.S. Supreme Court in Allen v. Cooper, where the court ruled in North Carolina's favor in March 2020. Governor Roy Cooper signed a repeal of Blackbeard's Law in June 2023, eight years after its passage. The ownership dispute continues, with potential damages ranging from $15.6 million to $259.3 million -- a pirate's treasure in legal fees alone.
+
+## Flight Context
+
+The wreck site lies at approximately 34.696N, 76.689W, about one mile offshore of Fort Macon State Park at Atlantic Beach, North Carolina. At low altitude, look for the sandy barrier islands of the Outer Banks curving southward toward Beaufort Inlet. The Michael J. Smith Field (MRH/KMRH) at Beaufort is the nearest airport. Cape Lookout National Seashore extends to the east. The shallow waters around the inlet are visible from 2,000-3,000 feet, and the area where the wreck lies in just 28 feet of water is marked by research buoys when excavation is active.
+
+## Sources
+
+- [Queen Anne's Revenge - Wikipedia](https://en.wikipedia.org/?curid=1939721)
+  - Ship captured by Blackbeard November 28, 1717 near Martinique
+  - Ran aground June 10, 1718 entering Beaufort Inlet
+  - David Herriot's testimony quoted correctly
+  - Intersal discovered wreck in 1996
+  - Thirty cannons identified, 24 excavated
+  - More than 300,000 artifacts recovered (confirmed current figure)
+  - Added to National Register of Historic Places 2004
+  - NC officially confirmed identity August 29, 2011
+  - Allen v. Cooper Supreme Court ruling March 2020
+  - Governor Roy Cooper repealed Blackbeard's Law June 2023
+- [Queen Anne's Revenge Project - Discovery](https://www.qaronline.org/history/discovery-shipwreck)
+  - Wreck located about one mile offshore Fort Macon State Park
+  - 28 feet of water depth
+  - Mike Daniel of Intersal located wreck using research by Phil Masters and David Moore
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 10 facts verified · 0 corrections
+
+Facts verified: captured Nov 28, 1717 near Martinique; ran aground June 10, 1718 at Beaufort Inlet; Herriot testimony quoted; Intersal/Mike Daniel discovery 1996; 30 cannons identified, 24 excavated; 300,000+ artifacts (confirmed current count); NR Historic Places 2004; NC confirmed identity Aug 29, 2011; Supreme Court ruling March 2020; Blackbeard's Law repealed June 2023. All verified.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

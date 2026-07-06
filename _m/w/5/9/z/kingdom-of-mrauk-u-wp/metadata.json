@@ -424,5 +424,26 @@
     "_m/w/5/9/z/kingdom-of-mrauk-u-wp/kouthaung-temple-mrauk.png",
     "_m/w/5/6/y/rakhine-state-wp/koe-thaung-rakhine-ara.png",
     "_m/w/5/9/z/kingdom-of-mrauk-u-wp/sliver-coin-stamped-ki.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w59z-kingdom-of-mrauk-u-flight-context.mp3",
+      "w59z-kingdom-of-mrauk-u-intro.mp3",
+      "w59z-kingdom-of-mrauk-u-an-exiles-return.mp3",
+      "w59z-kingdom-of-mrauk-u-pirates-poets-and-portuguese-guns.mp3",
+      "w59z-kingdom-of-mrauk-u-the-golden-city-at-high-tide.mp3",
+      "w59z-kingdom-of-mrauk-u-the-mughal-reckoning.mp3",
+      "w59z-kingdom-of-mrauk-u-conquered-and-forgotten.mp3"
+    ],
+    "durations": {
+      "w59z-kingdom-of-mrauk-u-flight-context.mp3": 54.8276666,
+      "w59z-kingdom-of-mrauk-u-intro.mp3": 60.6299166,
+      "w59z-kingdom-of-mrauk-u-an-exiles-return.mp3": 58.264125,
+      "w59z-kingdom-of-mrauk-u-pirates-poets-and-portuguese-guns.mp3": 66.6064166,
+      "w59z-kingdom-of-mrauk-u-the-golden-city-at-high-tide.mp3": 78.91375,
+      "w59z-kingdom-of-mrauk-u-the-mughal-reckoning.mp3": 72.3882916,
+      "w59z-kingdom-of-mrauk-u-conquered-and-forgotten.mp3": 74.2744583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

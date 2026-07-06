@@ -1,0 +1,63 @@
+# 2011 Christchurch Earthquake
+
+A magnitude 6.3 earthquake struck Christchurch at lunchtime on February 22, 2011, killing 185 people and destroying the city center in what became New Zealand's deadliest natural disaster in eighty years.
+
+**Location:** -43.5834, 172.7010
+
+**Categories:** natural disaster, earthquake, New Zealand, modern history, memorial
+
+## Introduction
+
+It was 12:51 on a Tuesday afternoon, and Christchurch was at lunch. Office workers filled the sidewalks. Students crowded language schools. Shoppers moved through the central city's heritage buildings. Then the ground lurched -- not the rolling sway of the magnitude 7.1 earthquake five months earlier that had damaged buildings but killed no one, but a sharp, violent vertical thrust that lasted barely ten seconds and brought the city center down. The February 22, 2011, earthquake measured only 6.3, but its epicenter lay just 6.7 kilometers southeast of downtown, and its focus was shallow, only 5 kilometers underground. The peak ground acceleration exceeded 1.8 g in places, among the highest ever recorded anywhere in the world. One hundred and eighty-five people died. A city that had spent 150 years building itself was unmade in moments.
+
+## Why a Smaller Quake Was Deadlier
+
+The September 2010 Canterbury earthquake had been far more powerful at magnitude 7.1, yet no one died. The difference lay in timing, depth, and proximity. The September quake struck at 4:35 a.m., when streets were empty and buildings unoccupied. Its epicenter was 40 kilometers west of the city. The February earthquake hit during the busiest hour of the workday, centered almost directly beneath the southern suburbs. At only 5 kilometers deep -- half the depth of the September event -- it delivered ground forces that were, in engineering terms, almost impossible for buildings to survive intact. Many structures had already been weakened by the earlier quake and its aftershocks. The simultaneous vertical and horizontal acceleration snapped columns, sheared floors from walls, and turned unreinforced masonry into cascading rubble. Eighty percent of the city's water and sewerage system was severely damaged. The liquefaction that followed -- sand and water erupting through cracked streets, roads buckling and sinking -- was described as the worst ever recorded in a modern city.
+
+## The Buildings That Fell
+
+The Canterbury Television building collapsed completely, leaving only its lift shaft standing before fire consumed the wreckage. One hundred and fifteen people died inside -- office workers, medical clinic patients, and students from the Toyama College of Foreign Languages in Japan who had come to Christchurch to learn English. A government investigation later found that the building's construction was faulty and should never have been approved. Across town, the PGC Building on Cambridge Terrace pancaked, killing eighteen; a survivor was pulled from the rubble twenty-two hours later. The Forsyth Barr Building's stairwells collapsed, trapping occupants on upper floors and forcing some to abseil down the outside. The ChristChurch Cathedral -- the city's most recognizable landmark -- lost its spire and much of its tower. By March 3, inspectors had assessed 3,000 buildings within the central city's four avenues. Forty-five percent received red or yellow stickers restricting access. In the years that followed, more than 1,240 buildings within the city center were demolished.
+
+## The Search Through the Rubble
+
+The New Zealand Fire Service coordinated the rescue effort, joined by Urban Search and Rescue teams from Australia, the United Kingdom, the United States, Japan, Taiwan, China, and Singapore -- 150 New Zealand personnel and 429 from overseas. They worked alongside structural engineers, seismologists, crane operators, and demolition crews, picking through unstable concrete and twisted steel. The Japanese team, seventy strong with sniffer dogs, arrived quickly but had to leave before their work was done: on March 11, a magnitude 9.0 earthquake struck their own country. Australian teams flew in on military transport within twelve hours. The rescue operation at the CTV building site was halted on February 23, when police determined that no one inside could have survived. Recovery of remains continued for weeks. Across the city, two buses had been crushed by falling buildings. Cars lay buried under rubble. People who had been walking on footpaths at lunchtime were found beneath collapsed facades.
+
+## A City Emptied and Rebuilt
+
+An estimated 10,000 houses required demolition. Over 100,000 were damaged. Several neighborhoods in the eastern suburbs, where liquefaction had been worst, were placed into residential red zones -- deemed too damaged to rebuild. Through voluntary buyouts, the Crown and insurers demolished or removed more than 8,000 homes over the following decade, with the last demolition completed in October 2021. The central city became a fenced-off exclusion zone for months, then a construction site for years. The Canterbury Earthquake Recovery Authority was established on March 29, 2011, to manage the rebuilding, a task so vast it reshaped the city's economy, demographics, and identity. Schools held classes in tents. The University of Canterbury reopened with lectures in marquees. A provincial holiday was legislated so the entire region could attend the national memorial service on March 18 at North Hagley Park, where Prince William spoke on the Queen's behalf.
+
+## What the Earthquake Left Behind
+
+The 2011 Christchurch earthquake remains New Zealand's deadliest natural disaster since the 1931 Hawke's Bay earthquake. It killed people from more than a dozen countries and triggered the largest urban rebuild in Australasian history. The Canterbury Earthquake National Memorial, opened in 2017 on the banks of the Avon River, carries the names of all 185 people who died. Each February 22, Christchurch residents gather for the River of Flowers ceremony, dropping blossoms into the Otakaro to drift downstream past the memorial wall. The city that has emerged from the rebuild is different from the one that fell -- newer, more seismically resilient, with a changed skyline and gaps where heritage buildings once stood. But the lunchtime hour, 12:51, still carries weight. Church bells ring. The city pauses. Some silences need no explanation.
+
+## Flight Context
+
+The earthquake's epicenter was at 43.58S, 172.70E, approximately 6.7 km southeast of Christchurch's central business district on the South Island of New Zealand. From the air, the effects of the rebuild are visible in the city center's mix of new construction and open lots. Christchurch International Airport (NZCH) lies to the northwest. The Port Hills, where rockfalls killed residents, form the southern boundary. The flat Canterbury Plains extend west toward the Southern Alps.
+
+## Sources
+
+- [2011 Christchurch earthquake - Wikipedia](https://en.wikipedia.org/?curid=30965066)
+  - Magnitude 6.3 confirmed
+  - 185 deaths confirmed
+  - February 22, 2011 at 12:51 PM confirmed
+  - Epicenter 6.7 km southeast of CBD confirmed
+  - 5 km depth confirmed
+  - CTV building: 115 deaths confirmed
+  - PGC building: 18 deaths confirmed
+  - CERA established March 29, 2011 confirmed
+  - More than 1,240 buildings demolished in city center confirmed
+- [CTV Building collapse - Stuff.co.nz interactive](https://interactives.stuff.co.nz/2021/02/ctv-building-collapse-christchurch-earthquake/)
+  - 115 deaths at CTV building confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 12 facts verified · 0 corrections
+
+Verified: magnitude 6.3, 185 deaths, Feb 22 2011 at 12:51pm, epicenter 6.7km southeast CBD, CTV building 115 deaths, PGC 18 deaths, 1240+ buildings demolished, CERA established March 29 2011. All accurate.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 870*
+*Read time: 4 minutes*

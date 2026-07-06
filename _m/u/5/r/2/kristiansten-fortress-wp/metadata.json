@@ -602,5 +602,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u5r2-kristiansten-fortress-flight-context.mp3",
+      "u5r2-kristiansten-fortress-intro.mp3",
+      "u5r2-kristiansten-fortress-born-from-fire.mp3",
+      "u5r2-kristiansten-fortress-the-swedish-siege.mp3",
+      "u5r2-kristiansten-fortress-flags-guns-and-independence.mp3",
+      "u5r2-kristiansten-fortress-the-darker-legacy.mp3"
+    ],
+    "durations": {
+      "u5r2-kristiansten-fortress-flight-context.mp3": 38.52725,
+      "u5r2-kristiansten-fortress-intro.mp3": 44.92,
+      "u5r2-kristiansten-fortress-born-from-fire.mp3": 66.9425416,
+      "u5r2-kristiansten-fortress-the-swedish-siege.mp3": 69.0720416,
+      "u5r2-kristiansten-fortress-flags-guns-and-independence.mp3": 63.6192916,
+      "u5r2-kristiansten-fortress-the-darker-legacy.mp3": 68.2595
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1,0 +1,59 @@
+# Museum of the Islamic Era
+
+Part of Iran's National Museum, the Museum of the Islamic Era traces fourteen centuries of Islamic civilization through 1,500 objects arranged across seven halls -- from Kufic Qurans of early Islam to Qajar-dynasty decorative arts.
+
+**Location:** 35.6871, 51.4154
+
+**Categories:** museums, history, islamic-art, iran
+
+## Introduction
+
+At the entrance to the second floor, a large painting of an Iranian traditional coffeehouse stops visitors in their tracks. It is not the oldest object in the Museum of the Islamic Era, nor the most valuable. But it captures something the museum itself embodies: the idea that Islamic civilization is not a single story told in a single voice but a vast, layered conversation that unfolded across centuries, dynasties, and artistic traditions, all of it anchored in the daily life of people who drank tea, told stories, and decorated the spaces where they gathered.
+
+## A Palace Reborn as Gallery
+
+Construction began in 1944 on the grounds of the National Museum of Iran, near Imam Khomeini Square in central Tehran. The building's design drew inspiration from the Sasanian palace of Bishapur, linking Iran's pre-Islamic architectural heritage to the Islamic art it would eventually house. By 1950, the three-story structure was complete, covering approximately 4,000 square meters. But the Museum of the Islamic Era did not open until 1996. In 2006, it closed again for nine years of renovation -- expanding spaces, improving facilities, and reconsidering how its objects should be displayed. When the doors reopened on August 29, 2015, the museum had been reimagined for a new generation of visitors.
+
+## Seven Halls, Fourteen Centuries
+
+The museum organizes its 1,500 historical objects chronologically across seven halls on two floors. The first floor holds the Quran Hall, the Timurid Hall, Safavid Halls, and Qajar Halls. The second floor covers the earliest Islamic period, the Seljuk era, and the Ilkhanid period. Visitors are meant to begin on the second floor and work downward through time -- a journey that starts with the arrival of Islam in Iran and descends through the Mongol invasions, the Timurid renaissance, the Safavid golden age, and the Qajar period that preceded modern Iran. One hundred and seventy showcases hold the objects, each positioned within a historical narrative that gives it context.
+
+## Gold Script and Glazed Tile
+
+A substantial portion of the first floor is dedicated to Qurans and manuscripts. Gold-plated Qurans written in Kufic script -- the angular calligraphic style of early Islam -- sit alongside examples of later calligraphic traditions. There are manuscripts related to scientific, literary, and historical subjects, as well as objects drawn from the UNESCO-listed Sheikh Safi al-Din Shrine Ensemble in Ardabil. The collection encompasses painting, calligraphy, writing instruments, medical and astronomical tools, textiles, lighting fixtures, pottery, metalwork, and tilework. Plastered prayer niches and architectural decorations fill the second-floor halls, emphasizing the deep connection between Islamic art and the buildings it adorned.
+
+## Where Empires Left Their Mark
+
+What makes this museum worth the visit is the way it traces artistic change through political upheaval. The objects of the early Islamic period in Iran look nothing like those of the Seljuk era, which in turn differ sharply from the refined productions of the Safavid dynasty. Each conquest and each new ruling house brought different aesthetic sensibilities, different materials, and different relationships between art and power. The Ilkhanid halls show the impact of Mongol rule on Persian visual culture. The Safavid rooms display the era when Isfahan was the center of the world and Iranian art achieved some of its most refined expressions. The Qajar galleries bring the story to the threshold of modernity. Together, the seven halls demonstrate that Islamic art in Iran was never static but continuously reinvented itself in response to the political and cultural forces that shaped the region.
+
+## Flight Context
+
+Located at 35.687N, 51.415E in central Tehran, on the grounds of the National Museum of Iran near Imam Khomeini Square. The museum complex sits in one of Tehran's most historically significant zones, adjacent to the Golestan Palace and the Grand Bazaar. Nearest airports are Mehrabad International Airport (OIII), about 8 km west, and Tehran Imam Khomeini International Airport (OIIE), approximately 50 km southwest. The museum buildings are identifiable from the air as a cluster of institutional structures amid the dense commercial center. Best viewed on approach to Mehrabad.
+
+## Sources
+
+- [Museum of the Islamic Era - Wikipedia](https://en.wikipedia.org/?curid=67776835)
+  - Construction began in 1944 on grounds of National Museum of Iran
+  - Building inspired by Sasanian palace of Bishapur
+  - Three-story structure covering approximately 4,000 square meters
+  - Museum opened in 1996 as Museum of the Islamic Era
+  - Closed in 2006 for renovation, reopened August 2015
+  - 1,500 historical objects in 170 showcases across seven halls
+  - Second floor covers early Islamic, Seljuk, and Ilkhanid periods; first floor covers Timurid, Safavid, and Qajar periods
+  - Collection includes Qurans with Kufic script, manuscripts, metalwork, tilework, and objects from Sheikh Safi al-Din Shrine Ensemble in Ardabil
+- [National Museum of Iran - Official Website](https://irannationalmuseum.ir/en/)
+  - Museum location near Imam Khomeini Square, central Tehran
+  - Part of National Museum of Iran complex
+
+## Review Notes
+
+**Reviewed:** 2026-03-01 · 10 facts verified · 0 corrections
+
+All key facts verified: 1944 construction, Bishapur design, 1996 opening, 2006-2015 renovation, 1500 objects in 7 halls, 170 showcases. No corrections needed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 730*
+*Read time: 4 minutes*

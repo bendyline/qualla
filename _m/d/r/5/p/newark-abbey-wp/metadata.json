@@ -94,5 +94,24 @@
   ],
   "galleryPaths": [
     "_m/d/r/5/p/newark-abbey-wp/looking-north-long-hig.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr5p-newark-abbey-flight-context.mp3",
+      "dr5p-newark-abbey-intro.mp3",
+      "dr5p-newark-abbey-the-german-parish-that-became-an-abbey.mp3",
+      "dr5p-newark-abbey-ora-et-labora-the-school.mp3",
+      "dr5p-newark-abbey-the-church-above-the-city.mp3",
+      "dr5p-newark-abbey-fourteen-monks-in-an-urban-monastery.mp3"
+    ],
+    "durations": {
+      "dr5p-newark-abbey-flight-context.mp3": 43.20075,
+      "dr5p-newark-abbey-intro.mp3": 50.8440833,
+      "dr5p-newark-abbey-the-german-parish-that-became-an-abbey.mp3": 72.3793333,
+      "dr5p-newark-abbey-ora-et-labora-the-school.mp3": 68.9172916,
+      "dr5p-newark-abbey-the-church-above-the-city.mp3": 56.49225,
+      "dr5p-newark-abbey-fourteen-monks-in-an-urban-monastery.mp3": 53.8208333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

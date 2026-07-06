@@ -1,0 +1,72 @@
+# Hillsborough Disaster
+
+The 1989 crowd crush at Hillsborough Stadium that killed 97 Liverpool fans, and the families' thirty-year fight to overturn lies, blame, and institutional cover-up.
+
+**Location:** 53.4114, -1.5006
+
+**Categories:** disaster, football, history, justice
+
+## Introduction
+
+On the afternoon of 15 April 1989, ninety-seven people went to watch a football match and never came home. The FA Cup semi-final between Liverpool and Nottingham Forest at Hillsborough Stadium in Sheffield should have been a day of excitement. Instead, a catastrophic crowd crush in the standing-only central pens of the Leppings Lane terrace became the deadliest disaster in British sporting history. Ninety-four people died on the day. One more died in hospital days later. Two more, who suffered irreversible brain damage that afternoon, died in 1993 and 2021. What followed the crush was, if possible, worse than the crush itself: a systematic campaign of blame, cover-up, and institutional dishonesty that took the bereaved families more than three decades to dismantle.
+
+## The Crushing
+
+The disaster had a precise cause. Shortly before kick-off, with thousands of Liverpool fans still outside the Leppings Lane turnstiles, police match commander David Duckenfield ordered exit gate C opened to relieve the congestion. The fans who entered through the gate were funnelled by a tunnel directly into the two central pens of the standing terrace, which were already full. There was no stewarding to redirect them to the emptier side pens. The result was a fatal crush. People at the front of the pens were pressed against perimeter fences topped with overhanging steel barriers designed to prevent pitch invasions, fences that prevented any escape onto the pitch. Those caught in the crush could not breathe. They could not move. Some died standing up, held in place by the pressure of bodies around them. Children were passed overhead in desperate attempts to get them out. Officers on the pitch initially failed to recognise that a disaster was unfolding, treating the situation as a crowd control problem rather than a rescue emergency.
+
+## The Lies
+
+What happened after the crush compounded the tragedy with injustice. Duckenfield told FA officials that Liverpool fans had forced the gate open, a lie. The Sun newspaper ran a front page headlined 'THE TRUTH,' alleging that Liverpool fans had pickpocketed the dead, urinated on police officers, and attacked rescue workers. None of it was true. South Yorkshire Police systematically altered witness statements from their own officers, removing passages that criticised the police response and adding material that blamed the fans. The original inquest, concluded in 1991, returned a verdict of accidental death, having controversially imposed a 3:15 pm cut-off time that excluded evidence about the emergency response after that point, effectively preventing scrutiny of how many people might have been saved by a competent rescue effort. For years, the narrative stuck: the fans were drunk, the fans were late, the fans caused it. The bereaved families knew this was false, and they spent the next two decades proving it.
+
+## The Families' Fight
+
+The campaign for justice was led by ordinary people who had lost children, parents, siblings, and friends, and who refused to accept a lie as the final word. The Hillsborough Family Support Group, the Hillsborough Justice Campaign, and individual family members pushed for years against institutional resistance. In 2009, the Labour government established the Hillsborough Independent Panel under Bishop James Jones to review all documentary evidence. The panel's 2012 report was devastating. It found that police had altered 164 statements, that up to 41 of the 96 who had died by that point could potentially have been saved with a proper emergency response, and that fans bore no responsibility for the disaster. The original accidental death verdicts were quashed, and new inquests were ordered. In 2016, after the longest jury proceedings in English legal history, the new inquest jury concluded that the 96 had been unlawfully killed and that the behaviour of Liverpool supporters did not cause or contribute to the dangerous situation.
+
+## Ninety-Seven
+
+The human cost is not a statistic. The youngest victim, Jon-Paul Gilhooley, was ten years old. He was a cousin of Steven Gerrard, who would grow up to captain Liverpool. The oldest, Gerard Baron, was sixty-seven. Between them were teenagers, parents, brothers, sisters, couples, and friends who had travelled to Sheffield for a game of football. Andrew Devine, who suffered catastrophic brain damage in the crush and was left in a persistent vegetative state, became the ninety-seventh victim when he died in July 2021, more than thirty-two years after the disaster. The memorial at Anfield, Liverpool's home ground, lists every name. The Hillsborough memorial at the stadium in Sheffield marks the place where they died. Every year on 15 April, Liverpool's city stops. The story of Hillsborough is not ultimately about football or about policing. It is about what happens when institutions with power decide to protect themselves at the expense of people who have none, and about what happens when those people refuse to be silenced.
+
+## Flight Context
+
+Hillsborough Stadium is located at 53.411N, 1.500W in the Owlerton area of Sheffield, South Yorkshire. The Leppings Lane end, where the disaster occurred, faces west. Nearest airports: Sheffield City/Doncaster (EGCN, 20nm east), East Midlands (EGNX, 30nm south), Leeds Bradford (EGNM, 30nm north). The stadium is visible from 2,000ft among dense residential streets.
+
+## Sources
+
+- [Hillsborough disaster - Wikipedia](https://en.wikipedia.org/?curid=59687)
+  - Date 15 April 1989 — confirmed
+  - FA Cup semi-final between Liverpool and Nottingham Forest — confirmed
+  - Hillsborough Stadium, Sheffield — confirmed
+  - 97 total victims — confirmed (94 died that day, 1 days later, 2 in 1993 and 2021)
+  - Deadliest disaster in British sporting history — confirmed
+  - David Duckenfield ordered exit gate C opened — confirmed
+  - No stewarding to redirect fans from central pens to emptier side pens — confirmed
+  - Perimeter fences with overhanging steel barriers prevented escape to pitch — confirmed
+  - Duckenfield falsely told FA officials fans had forced the gate — confirmed
+  - The Sun's 'THE TRUTH' front page with false allegations — confirmed
+  - South Yorkshire Police altered 164 witness statements — confirmed (2012 report)
+  - Original inquest 1991 returned accidental death verdict — confirmed
+  - 3:15 pm cut-off time imposed at original inquest — confirmed
+  - Hillsborough Independent Panel established 2009 under Bishop James Jones — confirmed
+  - Panel's 2012 report: up to 41 of 96 could potentially have been saved — confirmed
+  - New inquest 2016: 96 unlawfully killed, fans bore no responsibility — confirmed
+  - Jon-Paul Gilhooley, age 10, youngest victim, cousin of Steven Gerrard — confirmed
+  - Gerard Baron, 67, oldest victim — confirmed
+  - Andrew Devine died July 2021, became 97th victim — confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 20 facts verified · 0 corrections
+
+All victim counts carefully verified: 94 died on day, 1 days later, 2 in 1993 and 2021 = 97 total. Jon-Paul Gilhooley age 10 youngest (Steven Gerrard's cousin) confirmed. Gerard Baron 67 oldest confirmed. Andrew Devine died July 2021 as 97th victim confirmed. 164 statements altered (2012 report) confirmed. Duckenfield opened gate C confirmed. 3:15pm cut-off in original inquest confirmed. 2016 verdict: 96 unlawfully killed confirmed. No corrections needed. Highly sensitive topic handled with appropriate dignity. Spiciness 3.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- What followed the crush was, if possible, worse than the crush itself: a systematic campaign of blame, cover-up, and institutional dishonesty
+- institutions with power decide to protect themselves at the expense of people who have none
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

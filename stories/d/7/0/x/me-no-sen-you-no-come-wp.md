@@ -1,0 +1,64 @@
+# Me-no-Sen-You-no-Come
+
+A hidden village founded by enslaved people who escaped Jamaica's sugar plantations and named their refuge with a warning: if I don't send for you, don't come.
+
+**Location:** 18.2732, -77.7117
+
+**Categories:** history, resistance, slavery, maroon-heritage, jamaica, self-determination
+
+## Introduction
+
+The name is a threat and a promise in the same breath. In Jamaican Patois, Me-no-Sen-You-no-Come translates roughly as: if I don't send for you, don't come. It is what you name a place when you have clawed your freedom from a sugar plantation, climbed into the limestone wilderness of Jamaica's Cockpit Country, and have no intention of being found. In 1812, a dozen men and several women escaped the estates of Trelawny Parish and disappeared into the cockpits. They built a village at 430 meters above sea level, near cliffs and fertile valleys, and gave it a name that was less an invitation than a locked gate.
+
+## Building from Nothing
+
+What began as a handful of fugitives grew into something far more substantial than a hideout. Within years, the community had constructed 14 buildings with shingle roofs and wooden floors. They raised poultry and hogs, cultivated nearly 200 acres of land thickly planted with provisions, and established trade networks with enslaved people on the north coast, exchanging their ground provisions for salt. The headmen of the community were escaped enslaved people named Warren and Forbes. By the 1820s, Me-no-Sen-You-no-Come housed between 50 and 60 people, a functioning village with agriculture, commerce, and leadership, all built by people whom the law considered someone else's property. It is believed that formerly enslaved people who had won their freedom during the Second Maroon War, including survivors from the community of Cuffee, joined the settlement in its early years.
+
+## The District of Look Behind
+
+Me-no-Sen-You-no-Come sat in the southwest corner of Cockpit Country, in a region the colonists called the District of Look Behind. The name tells its own story: British redcoats riding through these hills rode two to a horse, one man facing backward, nervously scanning the trees for ambush. The karst landscape of the cockpits, with its steep-sided sinkholes and razor-edged limestone ridges choked with vegetation, made conventional military operations nearly impossible. The terrain that had sheltered the Maroons during their wars against the British now sheltered a different kind of resistance. Where the Maroons had fought with organized guerrilla warfare and negotiated treaties, the people of Me-no-Sen-You-no-Come pursued a simpler strategy: disappearance. They wanted nothing from the colonial government except to be left alone.
+
+## Hunted by Their Own
+
+The cruelest irony of Me-no-Sen-You-no-Come's story is who came for them. Under the terms of their 1739 treaty with the British, the Maroons of nearby Accompong Town were obligated to return escaped enslaved people, and were paid bounties for doing so. In the 1820s, Accompong's Maroons attacked Me-no-Sen-You-no-Come. Some historians long believed the Maroons successfully destroyed the community, but recent research tells a different story. The Accompong warriors managed to kill one man and capture two women and three children, but after they withdrew back to their own town, the remaining villagers returned and rebuilt their huts. The community that had named itself as a warning proved as stubborn as its name suggested. Freedom, once tasted in these hills, was not easily surrendered.
+
+## Quickstep
+
+Me-no-Sen-You-no-Come survived in the Cockpit Country until emancipation swept Jamaica in the 1830s, making the legal distinction between free and enslaved irrelevant. The village did not vanish when its original reason for hiding ended. It persisted, absorbed into the broader community, becoming part of the Upper Aberdeen district. Today the place is called Quickstep, a name with its own velocity but none of the original's defiance. Jamaican poet Kei Miller wrote a poem about Me-no-Sen-You-no-Come, drawn to the same quality that makes the name unforgettable: it is a place that declared its own sovereignty in the act of naming itself. No treaty, no governor's seal, no act of Parliament. Just a sentence in Patois, carved into the hills: if I don't send for you, don't come. It remains one of the most eloquent statements of self-determination ever compressed into a place name.
+
+## Flight Context
+
+Located at 18.27N, 77.71W in the Cockpit Country of western Jamaica, St. Elizabeth Parish. The village site, now called Quickstep, sits at approximately 430 meters elevation in the District of Look Behind, a region of extreme karst terrain. From the air, Cockpit Country presents as a dense field of conical limestone hills and deep sinkholes, heavily forested and largely roadless. The terrain is among the most distinctive in the Caribbean when viewed from above. Nearest airports: Sangster International (MKJS) in Montego Bay approximately 60km northwest, and Norman Manley International (MKJP) in Kingston approximately 140km east. Best viewed at 3,000-5,000 feet to appreciate the karst landscape. The nearby Maroon village of Accompong is approximately 5km to the southwest.
+
+## Sources
+
+- [Me-no-Sen-You-no-Come - Wikipedia](https://en.wikipedia.org/?curid=58502141)
+  - Founded 1812 by escaped enslaved people from Trelawny Parish
+  - Village built at 430 meters above sea level
+  - Community built 14 buildings with shingle roofs and wooden floors
+  - Cultivated nearly 200 acres of land
+  - Between 50 and 60 people by the 1820s
+  - Headmen named Warren and Forbes
+  - Accompong Maroons attacked the community under terms of 1739 treaty
+  - Maroon raid killed one man and captured two women and three children
+  - Community rebuilt after raid
+  - Village now called Quickstep in Upper Aberdeen district
+  - Poet Kei Miller wrote about the place
+
+## Review Notes
+
+**Reviewed:** 2026-03-12 · 11 facts verified · 0 corrections
+
+Verified 1812 founding by escaped enslaved people from Trelawny Parish; 430m elevation; 14 buildings with shingle roofs; ~200 acres cultivated; 50-60 people by 1820s; headmen Warren and Forbes; Maroon raid killed one, captured two women and three children; rebuilt after raid; now called Quickstep. Uses 'escaped enslaved people' and 'formerly enslaved people' appropriately throughout. Spiciness 3.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Freedom, once tasted in these hills, was not easily surrendered
+- It is what you name a place when you have clawed your freedom from a sugar plantation
+
+---
+
+*Word count: 680*
+*Read time: 3 minutes*

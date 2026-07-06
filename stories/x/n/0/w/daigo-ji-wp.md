@@ -1,0 +1,66 @@
+# Daigo-ji: The Cream of Buddhist Thought
+
+A thousand-year-old Buddhist temple complex sprawling across 6.6 million square meters of Mount Daigo, where the oldest wooden building in Kyoto still stands beside a pagoda that has survived earthquakes, civil wars, and typhoons since 951 AD.
+
+**Location:** 34.9515, 135.8218
+
+**Categories:** temple, world-heritage, historic-site, kyoto, japan, buddhism
+
+## Introduction
+
+The name itself is a riddle. Daigo translates as ghee -- the richest extraction of butter -- and in Buddhist philosophy it serves as a metaphor for the purest essence of truth. In 874, when the monk Shobo climbed Mount Daigo southeast of Kyoto and discovered a sacred spring, he declared the water the spiritual equivalent of that supreme distillation. He carved two statues of Kannon with his own hands, enshrined them near the spring, and founded what would become one of the most extraordinary temple complexes in Japan. Today, Daigo-ji sprawls across more than 6.6 million square meters of mountainside, houses roughly 150,000 temple treasures, and holds the distinction of being both a UNESCO World Heritage Site and one of the 33 stops on the ancient Saigoku Kannon Pilgrimage. Its five-story pagoda, completed in 951, is the oldest wooden structure in Kyoto Prefecture -- a survivor of earthquakes, civil wars, fires, and typhoons that leveled nearly everything around it.
+
+## Three Realms on a Mountain
+
+Daigo-ji unfolds in three distinct zones, each progressively older, wilder, and higher up the mountain. At the base sits Sambo-in, a collection of walled compounds connected by cherry-blossom-lined streets. It includes the temple proper, a tea garden, and a museum, and draws enormous crowds during hanami season. Adjacent is Shimo-Daigo, or Lower Daigo, one large enclosure of detached halls and open spaces anchored by the Kondo and the five-story pagoda. Then there is Kami-Daigo -- Upper Daigo -- perched at 450 meters above sea level. Reaching it requires an hour-long climb up stone steps through deep forest. At the entrance stands Daigo-Sui, the holy spring that started everything, still flowing more than eleven centuries after Shobo first tasted it. Beyond the summit cluster of halls, a rough trail leads to the Oku-no-in grotto, so remote that even the temple holds an event there only once a year, on the first Sunday of March.
+
+## A Pagoda That Outlived Everything
+
+The five-story pagoda stands as the great survivor. Emperor Daigo's third son, Prince Yomei, vowed in 931 to build a tower to pray for the repose of his father's soul. The prince died six years later, and his brother Emperor Suzaku continued the work. It was not completed until 951, twenty years after the original vow. The tower rises 38 meters, its spire alone accounting for more than twelve meters -- over thirty percent of the total height. Inside the first story, Heian-period murals depict the Ryokai Mandala and the Eight Shingon Patriarchs, so important they are designated as separate National Treasures from the structure itself. The pagoda also contains the oldest surviving portrait of Kukai, the founder of Shingon Buddhism. While the Onin War of the 1460s burned Shimo-Daigo to ashes, the pagoda stood. The 1586 Tensho earthquake shook it badly; Toyotomi Hideyoshi funded its repair. Typhoon Jane battered it in 1950; it was restored by 1960. It remains one of only a handful of Heian-period buildings surviving anywhere in Kyoto.
+
+## Hideyoshi's Grand Blossom Party
+
+In the spring of 1598, the warlord Toyotomi Hideyoshi -- then the most powerful man in Japan -- chose Daigo-ji for a cherry blossom viewing party that would become legend. The event, known as Daigo no Hanami, was staged at the Sambo-in sub-temple after Hideyoshi poured resources into renovating its grounds. He had the Kondo physically relocated from a temple in Kii Province -- its original structure dates to the late Heian period -- and transported it to Daigo-ji to replace the main hall lost in the Onin War. Hideyoshi's son, Toyotomi Hideyori, continued the restoration after his father's death, rebuilding the West Gate in 1605 and the Nyoirin-do, Kaisan-do, and Godai-do in 1606. The Sambo-in garden that Hideyoshi laid out -- a Momoyama-period strolling pond garden combining pond-and-island and dry-landscape elements around a central waterfall -- earned the dual designation of Special Historic Site and Special Place of Scenic Beauty from the Japanese government.
+
+## Fire, Lightning, and Endurance
+
+Daigo-ji's history reads like a catalog of destruction and rebirth. The Onin War left Shimo-Daigo in ruins. In 1469, villagers rioted against the temple's tax demands; armed warrior monks put down the revolt. During the Meiji period, an anti-Buddhist movement shuttered temples across Japan, but Daigo-ji survived largely intact. In August 1939, a forest fire swept through Kami-Daigo, destroying the sutra repository and the Juntei-do -- the eleventh stop on the Saigoku Pilgrimage. The Juntei-do was painstakingly rebuilt by 1968, only to be struck by lightning and burned again on August 24, 2008. Its statue of Kannon Bosatsu now sits temporarily in the Kannon-do down the mountain. Through it all, the temple endures. Its collection of 69,393 documents spanning the Heian through Meiji periods constitutes one of the great archives of Japanese religious history, all designated as National Treasures.
+
+## An Emperor's Final Name
+
+The connection between the temple and the imperial family runs deep into the bedrock of Japanese history. When the emperor who had requested the construction of the Yakushi-do in 907 fell ill and abdicated in 930, he entered Buddhist priesthood at Daigo-ji and took the religious name Ho-kongo. He died shortly after, at the age of 46, and was buried on the temple grounds. Because of that burial, his posthumous name became Daigo -- he is known to history as Emperor Daigo, named not for his accomplishments on the throne but for the temple where he chose to die. Emperor Suzaku's mausoleum also sits nearby. Over the centuries, Daigo-ji became a monzeki temple, meaning the abbotship was held by members of the imperial family, cementing its place at the intersection of Buddhism and imperial power in Japan.
+
+## Flight Context
+
+Located at 34.9515N, 135.8218E in southeastern Kyoto, on the slopes of Mount Daigo (Kasatoriyama). The temple complex covers an enormous area -- over 6.6 million square meters -- visible as extensive forested grounds on the mountainside. The five-story pagoda is potentially visible at lower altitudes. Best viewed at 2,000-4,000 feet AGL approaching from the west or north for contrast against the mountain. Kyoto is served by Osaka Itami Airport (RJOO) approximately 30 nautical miles southwest, and Kansai International Airport (RJBB) approximately 50 nautical miles south. Chubu Centrair (RJGG) lies to the east.
+
+## Sources
+
+- [Daigo-ji - Wikipedia](https://en.wikipedia.org/?curid=4430932)
+- [Daigo-ji - Wikipedia](https://en.wikipedia.org/wiki/Daigo-ji)
+  - Founded 874 by monk Shobo who discovered sacred spring on Mount Daigo
+  - Temple complex covers more than 6.6 million square meters
+  - Roughly 150,000 temple treasures (some sources cite 100,000 pieces; 150,000 is consistent with official temple materials)
+  - Five-story pagoda completed 951, oldest wooden structure in Kyoto Prefecture
+  - Pagoda stands 38 meters tall, spire accounts for ~12.8 meters (over 30% of total height)
+  - Heian-period murals depict Ryokai Mandala and Eight Shingon Patriarchs
+  - UNESCO World Heritage Site 1994 (Historic Monuments of Ancient Kyoto)
+  - Juntei-do rebuilt 1968, struck by lightning and burned August 24, 2008
+  - Kannon statue temporarily enshrined in Kannon-do in Shimo-Daigo after 2008 fire
+  - 69,393 documents spanning Heian through Meiji periods designated National Treasures
+- [Daigo-ji Temple - Discover Kyoto](https://www.discoverkyoto.com/places-go/daigo-ji/)
+  - Hideyoshi's 1598 hanami (Daigo no Hanami) at Sambo-in with approximately 1,300 guests
+  - Kami-Daigo at 450 meters elevation reached by hour-long stone-step climb
+
+## Review Notes
+
+**Reviewed:** 2026-02-18 · 14 facts verified · 0 corrections
+
+All major facts verified: founded 874, pagoda completed 951 (oldest wooden structure in Kyoto), 38m height with 12.8m spire, Hideyoshi's 1598 hanami with ~1300 guests, Juntei-do rebuilt 1968 and destroyed by lightning Aug 24 2008, Kannon now in Kannon-do, UNESCO 1994. Document count of 69,393 is specific and consistent with National Treasure designation. Spiciness 2 - well-researched, factual tone.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 850*
+*Read time: 5 minutes*

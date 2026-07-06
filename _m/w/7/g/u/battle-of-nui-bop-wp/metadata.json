@@ -194,5 +194,26 @@
     "_m/w/7/g/u/battle-of-nui-bop-wp/french-map-battle-nui.jpg",
     "_m/w/7/g/u/battle-of-nui-bop-wp/general-lewal-french-m.jpg",
     "_m/w/7/g/u/battle-of-nui-bop-wp/general-campenon-frenc.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w7gu-battle-of-nui-bop-flight-context.mp3",
+      "w7gu-battle-of-nui-bop-intro.mp3",
+      "w7gu-battle-of-nui-bop-a-hungry-army-on-a-hill.mp3",
+      "w7gu-battle-of-nui-bop-the-flanking-march.mp3",
+      "w7gu-battle-of-nui-bop-midnight-at-phong-cot.mp3",
+      "w7gu-battle-of-nui-bop-a-private-named-meffret.mp3",
+      "w7gu-battle-of-nui-bop-what-victory-cost.mp3"
+    ],
+    "durations": {
+      "w7gu-battle-of-nui-bop-flight-context.mp3": 39.1166666,
+      "w7gu-battle-of-nui-bop-intro.mp3": 40.1241666,
+      "w7gu-battle-of-nui-bop-a-hungry-army-on-a-hill.mp3": 58.8537083,
+      "w7gu-battle-of-nui-bop-the-flanking-march.mp3": 62.727,
+      "w7gu-battle-of-nui-bop-midnight-at-phong-cot.mp3": 63.914,
+      "w7gu-battle-of-nui-bop-a-private-named-meffret.mp3": 79.9129166,
+      "w7gu-battle-of-nui-bop-what-victory-cost.mp3": 70.0094583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

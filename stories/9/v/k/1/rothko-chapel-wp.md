@@ -1,0 +1,85 @@
+# Rothko Chapel
+
+A non-denominational chapel in Houston where fourteen black paintings by Mark Rothko line the walls of an octagonal sanctuary that has become a global symbol of art, meditation, and human rights.
+
+**Location:** 29.7375, -95.3961
+
+**Categories:** chapel, art, human-rights, mark-rothko, houston, meditation
+
+## Introduction
+
+What does it mean to stare at a black painting until it is no longer black? Visitors to the Rothko Chapel in Houston's Montrose neighborhood discover the answer slowly. The fourteen canvases that line the octagonal interior appear, at first glance, to be uniformly dark - monoliths of pigment absorbing the room's quiet light. But sit on one of the eight simple benches, let your eyes adjust, and the surfaces begin to differentiate: deep plums emerge from charcoal fields, matte textures play against glossy ones, edges of maroon ghost beneath layers of black. Mark Rothko spent nearly three years painting these works, and he intended them to do exactly this - to slow the viewer down, to strip away distraction, to create a space where seeing becomes a form of prayer. He never saw the finished chapel. After a long struggle with depression, Rothko died by suicide in his New York studio on February 25, 1970, a year before the building opened its doors.
+
+## A Commission That Burned Through Architects
+
+In 1964, John and Dominique de Menil - the French-born Houston philanthropists who also founded the nearby Menil Collection - commissioned Rothko to create a meditative space filled with his paintings. The works were to be site-specific, designed for the building and inseparable from it. Rothko was given extraordinary creative license over the chapel's design, and he wielded it fiercely. He clashed with the project's original architect, Philip Johnson, over the plans. Johnson eventually departed, and Rothko continued working with Howard Barnstone and then Eugene Aubry, but the tension between painter and architects ran throughout the process. The resulting structure - an octagon inscribed in a Greek cross - bears Rothko's imprint as much as any architect's. Three walls hold triptychs; five walls hold single paintings. The building's shape ensures that every seat offers a slightly different relationship to the canvases, a slightly different conversation with darkness and light.
+
+## The Obelisk Houston Refused
+
+In front of the chapel stands Barnett Newman's Broken Obelisk, a monumental sculpture of an inverted obelisk balanced on the tip of a pyramid, installed in a reflecting pool designed by Philip Johnson. The work is dedicated to Martin Luther King Jr., who was assassinated in 1968. The de Menils originally offered the sculpture to the City of Houston as a memorial to King, proposing it stand in front of City Hall. Houston turned down the gift. The refusal became the seed of something larger: the de Menils donated both the sculpture and the Rothko paintings to establish the chapel as an independent institution. What the city rejected, the world embraced. About 110,000 people visit the Rothko Chapel each year, entering a space that belongs to no single religion and welcomes all of them. Holy books from several faiths sit on tables beside the benches. The chapel was placed on the National Register of Historic Places in 2000.
+
+## Where Mandela Spoke and Monks Chanted
+
+From 1973 onward, the Rothko Chapel doubled as a center for international colloquiums on justice and human freedom. The first drew scholars from Lebanon, Iran, India, Pakistan, Nigeria, Japan, Italy, the United States, and Canada. In 1981, the chapel established the Rothko Chapel Awards for Commitment to Truth and Freedom. Five years later, a second award honored the spirit of Archbishop Oscar Romero, murdered in El Salvador in 1980, recognizing individuals and organizations who denounce human rights violations at great personal risk. In 1991, the chapel's twentieth-anniversary celebration featured Nelson Mandela as keynote speaker; he received the special Rothko Chapel award, standing beneath the fourteen black paintings that had by then become a global symbol of contemplation and conscience. The chapel has also drawn musicians: Morton Feldman composed a piece for its acoustics in 1971, Peter Gabriel wrote 'Fourteen Black Paintings' after visiting in 1992, and Solange Knowles filmed scenes for her visual album When I Get Home inside the chapel in 2019.
+
+## Fifty Years of Light and Water
+
+For its fiftieth anniversary in 2021, the Rothko Chapel underwent a $30 million restoration designed to bring the building closer to Rothko's original vision. The baffled skylight that had long troubled curators - casting uneven light on the paintings - was replaced with a louvered system designed by George Sexton Associates, using 280 individually angled aluminum blades to distribute natural illumination evenly across the perimeter walls. Architecture Research Office added a new visitor center, re-landscaped the grounds, and removed glass doors that had altered the relationship between interior and exterior. The building barely had time to settle into its renewed form. In July 2024, Hurricane Beryl drove stormwater into the chapel, damaging three of Rothko's murals along with the ceiling and walls. The chapel closed in August for emergency restoration and reopened in December 2024 after repairs were completed - a reminder that even sacred spaces must contend with the physical world.
+
+## Fourteen Shades of Almost Nothing
+
+The chapel's power lies in its austerity. There are no stained glass windows, no icons, no figurative art of any kind. The irregular octagonal building, with its gray or rose stucco walls and simple brick exterior, offers nothing to distract from the paintings and the silence they create. The eight moveable benches are the only furnishings. Rothko began the commission in the fall of 1964 and worked through the spring of 1967, producing fourteen final canvases and four alternates that evolved from his earlier experiments with dark hues and layered textures. He wanted the paintings to envelop the viewer, to create an immersive encounter that transcended any single religious tradition. More than fifty years later, they still do. Visitors sit in the dim, warm light and watch the blacks become not-blacks, and something shifts. It is the kind of experience that resists description - which is, of course, exactly the point.
+
+## Flight Context
+
+Located at 29.7375N, 95.396W in Houston's Montrose neighborhood, approximately 3nm southwest of downtown Houston. The chapel is a small octagonal brick building adjacent to the Menil Collection campus - difficult to spot individually from altitude but identifiable as part of the gray-bungalow cluster surrounding the Menil campus. The Broken Obelisk sculpture in its reflecting pool may be visible at very low altitude. Nearby airports: William P. Hobby Airport (KHOU) approximately 11nm southeast; George Bush Intercontinental (KIAH) approximately 21nm north-northeast. The University of St. Thomas campus is immediately adjacent to the east. Best viewed at 1,500-2,000 feet AGL in context with the surrounding Menil campus and Montrose neighborhood grid.
+
+## Sources
+
+- [Rothko Chapel - Wikipedia](https://en.wikipedia.org/?curid=420945)
+  - 1964 commission date
+  - Rothko died Feb 25 1970
+  - Philip Johnson original architect then Barnstone and Aubry
+  - Broken Obelisk by Barnett Newman dedicated to MLK
+  - National Register of Historic Places September 16 2000
+  - Nelson Mandela 1991 keynote speaker
+  - Morton Feldman 1971 composition
+  - Peter Gabriel Fourteen Black Paintings 1992
+  - Solange Knowles 2019 filming
+- [Rothko Chapel Official Website](https://rothkochapel.org/learn/about/)
+  - Non-denominational chapel confirmed
+  - Fourteen paintings confirmed
+  - Octagonal structure confirmed
+  - Annual visitors approximately 100,000-110,000
+- [Houston Public Media - Rothko Chapel reopening after Beryl](https://www.houstonpublicmedia.org/articles/news/houston/2024/12/06/508090/houstons-rothko-chapel-battered-by-hurricane-beryl-set-to-reopen-dec-17/)
+  - Hurricane Beryl July 2024 damage confirmed
+  - Reopened December 17 2024
+  - CORRECTION: Article says 3 murals damaged but sources say 4 paintings sustained damage
+  - CORRECTION: Article says closed in August but chapel closed in July after storm
+- [Architect Magazine - Rothko Chapel skylight restoration](https://www.architectmagazine.com/technology/architectural-detail/restoring-the-rothko-chapel-skylight-to-achieve-the-artists-vision_o)
+  - USD 30 million renovation confirmed
+  - 280 individually angled aluminum blades confirmed
+  - George Sexton Associates designed skylight
+  - Architecture Research Office added visitor center
+- [Houston Chronicle - Broken Obelisk and MLK dedication](https://www.houstonchronicle.com/local/gray-matters/article/The-MLK-tribute-Houston-s-power-brokers-couldn-t-12805102.php)
+  - City accepted sculpture but rejected MLK dedication (article oversimplifies as turning down the gift)
+  - De Menils withdrew offer and purchased sculpture themselves
+
+## Review Notes
+
+**Reviewed:** 2026-02-07 · 18 facts verified · 3 corrections
+
+Verified: 1964 commission, Rothko death Feb 25 1970, architects Johnson/Barnstone/Aubry, Broken Obelisk/Newman/MLK, NRHP 2000, Mandela 1991, 30M renovation, 280 aluminum blades, Beryl 2024. CORRECTIONS: article says 3 murals damaged (actually 4), says closed August (actually July), oversimplifies Houston rejection of Broken Obelisk. Spiciness 3/5.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Frames Houstons rejection of MLK dedication as what the city rejected the world embraced
+- Describes Rothko paintings as creating a space where seeing becomes a form of prayer
+- Characterizes the experience as resisting description which is exactly the point
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

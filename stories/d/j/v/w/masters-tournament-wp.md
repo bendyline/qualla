@@ -1,0 +1,85 @@
+# Masters Tournament
+
+Golf's most exclusive invitational tournament, held each April at Augusta National, where the green jacket, the pimento cheese sandwich, and nearly a century of drama have made the Masters a sporting institution unlike any other.
+
+**Location:** 33.5025, -82.0200
+
+**Categories:** golf, major-championships, sporting-traditions, augusta-georgia, annual-events
+
+## Introduction
+
+In 1968, Argentine golfer Roberto De Vicenzo signed his scorecard with a wrong number. His playing partner Tommy Aaron had accidentally recorded a par 4 on the 17th hole instead of the birdie 3 De Vicenzo had actually made. Under the rules of golf, a signed scorecard stands -- and that single extra stroke cost De Vicenzo a playoff for the green jacket. His response entered sporting lore: "What a stupid I am." The Masters Tournament at Augusta National Golf Club has been producing moments like this since 1934 -- heartbreaking, exhilarating, absurd, and unforgettable. It is the smallest field in major championship golf, the most tradition-bound tournament in the sport, and the only major played at the same course every year.
+
+## From Nursery to National Treasure
+
+The land that became Augusta National was an indigo plantation in the early nineteenth century and a commercial plant nursery from 1857 onward. Bobby Jones, the greatest amateur golfer in history, found it after retiring from competitive play and reportedly said: "Perfect! And to think this ground has been lying here all these years waiting for someone to come along and lay a golf course upon it." Jones hired Scottish architect Alister MacKenzie to design the course, and construction began in 1931. The course opened in 1933, though MacKenzie died before the first tournament was played. That inaugural "Augusta National Invitation Tournament" took place on March 22, 1934, won by Horton Smith for a first prize of $1,500. The name "Masters" was adopted in 1939. Each of the 18 holes is named after the trees or shrubs from the old nursery -- Tea Olive, Pink Dogwood, Flowering Crab Apple, Azalea -- a botanical heritage threaded through every round ever played there.
+
+## Shots That Echoed Through Decades
+
+Gene Sarazen hit the "shot heard 'round the world" on the 15th hole in 1935, holing out from the fairway for a double eagle that tied him with Craig Wood and led to a 36-hole playoff victory. Arnold Palmer's back-to-back birdies on the final two holes to win in 1960 cemented his legend. Jack Nicklaus won six green jackets between 1963 and 1986, the last at age 46, when he charged through the back nine on Sunday to become the oldest Masters champion. Greg Norman suffered a mirror-image fate: eight top-five finishes and no victories, including a six-stroke final-round collapse in 1996 that handed the tournament to Nick Faldo. In 1997, 21-year-old Tiger Woods obliterated the field by 12 strokes with an 18-under-par 270, and in 2019, he won his fifth green jacket after an 11-year major drought. Ben Crenshaw's tearful victory in 1995, days after the death of his lifelong mentor Harvey Penick, remains one of sport's most emotional moments.
+
+## The Rituals of Augusta
+
+No sporting event is more layered with tradition. Since 1949, the champion has received a green jacket -- Pantone 342C, "Augusta Green" -- which he may take home for one year before returning it to a special cloakroom at the club. The defending champion hosts the Champions Dinner on the Tuesday before the tournament, selecting the menu: Sandy Lyle served haggis in 1989, Tiger Woods ordered cheeseburgers and milkshakes in 1998, and Phil Mickelson chose a Spanish-themed dinner in 2011 hoping his hero Seve Ballesteros might attend. Ballesteros was too ill; he died weeks later. Since 1963, honorary starters -- legends of the game -- have hit the ceremonial first tee shot. Arnold Palmer, Jack Nicklaus, and Gary Player shared the duty for years, and Lee Elder, the first African American to play in the Masters in 1975, joined them in 2021. Even the concession food is iconic: pimento cheese sandwiches have been served since the 1940s, and when Augusta switched suppliers in 2013, the altered recipe caused minor outrage among patrons.
+
+## A Closed World, Slowly Opening
+
+Augusta National has long been defined as much by what it excludes as what it celebrates. Until 1990, the club had no Black members. Until 2012, it had no women members -- a policy that drew national protests led by Martha Burk in 2003, after which chairman Hootie Johnson suspended all television sponsorship rather than yield to outside pressure. The club eventually admitted Condoleezza Rice and Darla Moore as its first female members. Lee Elder's groundbreaking appearance in 1975 came nearly two decades after the tournament's founding. In 2025, a monument by artist Baruti Tucker was erected in Augusta to honor the Black caddies who served players at the Masters for decades. Tickets remain among the hardest to obtain in sports, trailing only the Super Bowl. The patron waiting list opened in 1972, closed in 1978, reopened in 2000, and closed again. Cell phones, cameras on tournament days, and electronic devices are strictly prohibited -- payphones dot the grounds for anyone who needs to make a call. It is a place that moves at its own pace, answering to no one's calendar but its own.
+
+## Every April in Georgia
+
+The Masters is the first major championship of each year, with the final round scheduled for the second Sunday of April since 1948. The total purse has grown from $5,000 in 1934 to $21,000,000 in 2025, with the winner's share rising from $1,500 to $4,200,000. CBS has televised the tournament every year since 1956, when six cameras covered only the final four holes; today more than fifty cameras capture the action, though the club still limits commercial interruption to four minutes per hour. The Par-3 Contest on Wednesday carries its own superstition: no winner of the par-3 event has ever won the Masters in the same week. Through it all, the course itself keeps evolving -- greens reshaped, bunkers added, tees pushed back -- while remaining rooted in the nursery soil that Bobby Jones fell in love with nearly a century ago.
+
+## Flight Context
+
+Located at 33.50N, 82.02W in Augusta, Georgia. Augusta National Golf Club is identifiable from the air by its immaculate fairways and dense pine corridors, bounded by Washington Road (US-28) to the north and Berckmans Road to the west. The course layout follows the natural contours of a former plant nursery, with Rae's Creek winding through the lower portion near the famed Amen Corner (holes 11, 12, 13). Nearest airports: Augusta Regional Airport (KAGS) approximately 8nm south, Daniel Field (KDNL) approximately 3nm east. Best viewed at 2,000-3,000 feet AGL. The surrounding area includes residential neighborhoods and the Augusta National practice facility to the north.
+
+## Sources
+
+- [Masters Tournament - Wikipedia](https://en.wikipedia.org/?curid=157211)
+- [1968 Masters Tournament - Wikipedia](https://en.wikipedia.org/wiki/1968_Masters_Tournament)
+  - Roberto De Vicenzo signed incorrect scorecard in 1968
+  - Tommy Aaron recorded par 4 instead of birdie 3 on 17th hole
+  - De Vicenzo quote: What a stupid I am
+- [1934 Masters Tournament - Wikipedia](https://en.wikipedia.org/wiki/1934_Masters_Tournament)
+  - First tournament played March 22 1934
+  - Horton Smith won with first prize of $1,500
+  - Name Masters adopted in 1939
+- [1935 Masters Tournament - Wikipedia](https://en.wikipedia.org/wiki/1935_Masters_Tournament)
+  - Gene Sarazen double eagle on 15th hole in 1935
+  - Shot heard round the world tied him with Craig Wood
+  - 36-hole playoff victory confirmed
+- [Jack Nicklaus Masters Record - Golf Monthly](https://www.golfmonthly.com/tour/the-masters/17-masters-records-jack-nicklaus-holds-from-dominant-augusta-national-career)
+  - Jack Nicklaus won six green jackets between 1963 and 1986
+  - Oldest Masters champion at age 46 in 1986
+- [1997 Masters Tournament - Wikipedia](https://en.wikipedia.org/wiki/1997_Masters_Tournament)
+  - Tiger Woods age 21 won by 12 strokes with 270 (18-under)
+  - Tiger Woods 2019 fifth green jacket after 11-year major drought
+- [Augusta National membership history - ESPN](https://www.espn.com/golf/story/_/id/8284599/augusta-national-admits-condoleezza-rice-darla-moore-first-two-female-members)
+  - No Black members until 1990
+  - No women members until 2012
+  - Condoleezza Rice and Darla Moore first female members
+- [Lee Elder - PGA Tour](https://www.pgatour.com/article/news/latest/2021/11/29/lee-elder-passes-away-age-87-pga-tour)
+  - Lee Elder first African American to play Masters in 1975
+  - Lee Elder joined honorary starters in 2021
+- [2025 Masters purse - Sportico](https://www.sportico.com/leagues/golf/2025/masters-2025-prize-money-million-1234847369/)
+  - 2025 total purse $21,000,000
+  - Winner share $4,200,000
+- [CBS Masters broadcast history - Golf.com](https://golf.com/news/features/evolution-cbs-masters-broadcast/)
+  - CBS first broadcast Masters in 1956
+  - Initial coverage used approximately six cameras on final holes
+- [Augusta Black caddies monument 2025 - Augusta Good News](https://augustagoodnews.com/monument-dedicated-to-augustas-black-caddies/)
+  - Monument by Baruti Tucker unveiled April 2025 honoring Black caddies
+
+## Review Notes
+
+**Reviewed:** 2026-02-17 · 22 facts verified · 0 corrections
+
+All major facts verified: De Vicenzo 1968 scorecard, 1934 founding, Sarazen double eagle 1935, Nicklaus 6 wins, Tiger Woods 1997 and 2019, Augusta membership history, 2025 purse, CBS since 1956, Baruti Tucker monument. Minor note: some sources say 7 cameras not 6 for 1956 CBS debut. Well-written narrative, mild spiciness.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 900*
+*Read time: 5 minutes*

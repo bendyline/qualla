@@ -714,5 +714,24 @@
     "_m/d/r/5/r/hoboken-terminal-wp/hoboken-train-station-welcomes.jpg",
     "_m/d/r/5/r/hoboken-terminal-wp/hoboken-train-station-36517289.jpg"
   ],
-  "updatedAt": "2026-03-30T12:39:56.597Z"
+  "updatedAt": "2026-03-30T12:39:56.597Z",
+  "narration": {
+    "files": [
+      "dr5r-hoboken-terminal-flight-context.mp3",
+      "dr5r-hoboken-terminal-intro.mp3",
+      "dr5r-hoboken-terminal-the-lackawannas-grand-front-door.mp3",
+      "dr5r-hoboken-terminal-a-hub-that-refuses-to-shrink.mp3",
+      "dr5r-hoboken-terminal-storms-and-collisions.mp3",
+      "dr5r-hoboken-terminal-the-view-from-the-river.mp3"
+    ],
+    "durations": {
+      "dr5r-hoboken-terminal-flight-context.mp3": 55.0891666,
+      "dr5r-hoboken-terminal-intro.mp3": 54.6562916,
+      "dr5r-hoboken-terminal-the-lackawannas-grand-front-door.mp3": 64.0161666,
+      "dr5r-hoboken-terminal-a-hub-that-refuses-to-shrink.mp3": 57.5274166,
+      "dr5r-hoboken-terminal-storms-and-collisions.mp3": 63.2675,
+      "dr5r-hoboken-terminal-the-view-from-the-river.mp3": 56.14675
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

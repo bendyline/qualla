@@ -1,0 +1,55 @@
+# Issaquah Alps
+
+A chain of forested highlands east of Seattle, playfully named 'Alps' by conservationist Harvey Manning to shame developers into preserving them, these modest peaks guard some of the most accessible wilderness in the Pacific Northwest.
+
+**Location:** 47.5000, -122.0000
+
+**Categories:** Cascade Range, Mountain ranges, Pacific Northwest, Hiking
+
+## Introduction
+
+Harvey Manning lived in what he called his '200 meter hut' on Cougar Mountain, the westernmost and lowest of the hills he had christened the Issaquah Alps. The name was deliberate provocation. In his 1977 trail guidebook Footsore 1, Manning elevated a chain of wooded foothills east of Seattle from forgettable suburban backdrop to something worth fighting for. If they were Alps, they deserved Alpine protection. The trick worked. Nearly five decades later, thousands of acres of Cougar, Squak, and Tiger Mountains are public parkland, and Issaquah proudly calls itself 'Trailhead City.'
+
+## Fifty Million Years in the Making
+
+The geology of the Issaquah Alps tells a story far older than their whimsical name. The hills are composed of andesitic volcanic rock resting on top of tightly folded sedimentary layers from the coastal plain of the North Cascade subcontinent, which docked with what is now Washington State roughly 50 million years ago as the North American continent drifted westward. The Vashon lobe of the Cordilleran ice sheet, advancing south during the last ice age, sculpted these old volcanic ridges into their present form. The glacier carved Rattlesnake Ledge into a dramatic cliff face, gouged the steep flanks of Squak Mountain, and deposited a massive boulder on Cougar Mountain known as the Fantastic Erratic -- a glacial calling card left behind when the ice retreated. Cedar Butte, which rises abruptly from the glacial moraine near Rattlesnake Ledge, is a different creature entirely: a young, symmetrical volcanic cone more closely related to Mount Washington to the east than to the old, weathered Alps around it.
+
+## The Peaks and Their Character
+
+The Issaquah Alps stretch along Interstate 90 from the shore of Lake Washington nearly to the western face of the Cascade Range, a chain of seven named highlands each with its own personality. Cougar Mountain, at 1,614 feet, anchors the western end with its network of trails through second-growth forest and old coal mining sites. Squak Mountain rises to 2,024 feet, its steep east and west faces the work of glacial carving. Tiger Mountain is the giant of the group, with West Tiger Peak 1 reaching 2,948 feet -- the highest summit in the Alps. Tiger's multiple peaks (East Tiger, Middle Tiger, South Tiger, and three numbered West Tiger summits) offer everything from gentle woodland walks to grueling vertical climbs. Taylor Mountain, Rattlesnake Ridge, Rattlesnake Mountain, and Grand Ridge complete the chain, each offering distinct terrain and views of the Cascade front.
+
+## Manning's Campaign
+
+Harvey Manning was not content simply to name the Alps. In 1979, two years after coining the term, he helped found the Issaquah Alps Trails Club to maintain trails and advocate for public ownership of the land. The IATC, headquartered in Issaquah, organized frequent guided hikes to build a constituency of people who had walked the ridges and felt invested in their preservation. Manning understood that people protect what they know, and that naming something is the first step toward knowing it. His strategy worked against the suburban sprawl pressing in from all sides. Cougar Mountain became a regional wildland park. Tiger Mountain gained state forest and natural area status. Trail systems expanded across the chain, connecting neighborhoods to ridgelines. Manning himself continued to live on Cougar Mountain until his death in 2006, watching the hills he named outlast the developers who had eyed them.
+
+## The Alps from the Air
+
+From a few thousand feet above the I-90 corridor, the Issaquah Alps present as a green wall rising abruptly from the suburban flatlands east of Lake Washington. The chain runs roughly east-west, with Cougar Mountain closest to Bellevue and the higher Tiger Mountain peaks marking the transition to true Cascade foothills. Rattlesnake Ledge is unmistakable -- a bare rock face above Rattlesnake Lake that catches afternoon light. The paraglider launch at Poo Poo Point on Tiger Mountain is sometimes visible as a cleared slope on the western face. Below the ridgelines, trails thread through dense forest that appears unbroken from altitude, masking the fact that these hills sit within 30 miles of downtown Seattle and serve as the backyard wilderness for more than a million people.
+
+## Flight Context
+
+Located at 47.50N, 122.00W, the Issaquah Alps run parallel to I-90 between Lake Washington and the Cascade Range. Seattle-Tacoma International Airport (KSEA) lies 25 miles west-southwest. Renton Municipal Airport (KRNT) is closer at about 12 miles west. West Tiger Peak 1 at 2,948 feet is the highest point in the chain -- maintain safe altitude. Rattlesnake Ledge and Poo Poo Point are recognizable visual landmarks. Mount Rainier dominates the southern skyline in clear conditions, and the Cascade front rises sharply to the east beyond the Alps.
+
+## Sources
+
+- [Issaquah Alps - Wikipedia](https://en.wikipedia.org/?curid=600803)
+  - Harvey Manning named the Issaquah Alps in 1977 guidebook Footsore 1
+  - Manning helped found Issaquah Alps Trails Club in 1979
+  - West Tiger Peak 1 at 2,948 feet is the highest point in the Alps
+  - Manning died in 2006
+- [Our History - Issaquah Alps Trails Club](https://www.issaquahalps.org/history)
+  - IATC headquartered in Issaquah
+  - Manning lived on Cougar Mountain until his death
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 7 facts verified · 0 corrections
+
+Verified Harvey Manning named Issaquah Alps in 1977 Footsore 1 guidebook, founded IATC in 1979, West Tiger Peak 1 at 2,948 ft is highest, Manning died 2006. All facts accurate. Cougar Mountain 1,614 ft, Squak Mountain 2,024 ft also confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 720*
+*Read time: 4 minutes*

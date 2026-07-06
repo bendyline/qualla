@@ -361,5 +361,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qqy8-demak-sultanate-flight-context.mp3",
+      "qqy8-demak-sultanate-intro.mp3",
+      "qqy8-demak-sultanate-a-village-called-glagah-wangi.mp3",
+      "qqy8-demak-sultanate-the-lord-who-stood-for-all-of-java.mp3",
+      "qqy8-demak-sultanate-conquest-by-inheritance.mp3",
+      "qqy8-demak-sultanate-the-mosque-that-still-stands.mp3",
+      "qqy8-demak-sultanate-where-pilgrims-still-walk.mp3"
+    ],
+    "durations": {
+      "qqy8-demak-sultanate-flight-context.mp3": 44.385625,
+      "qqy8-demak-sultanate-intro.mp3": 43.0125416,
+      "qqy8-demak-sultanate-a-village-called-glagah-wangi.mp3": 62.0790416,
+      "qqy8-demak-sultanate-the-lord-who-stood-for-all-of-java.mp3": 65.647625,
+      "qqy8-demak-sultanate-conquest-by-inheritance.mp3": 67.3157916,
+      "qqy8-demak-sultanate-the-mosque-that-still-stands.mp3": 61.3227916,
+      "qqy8-demak-sultanate-where-pilgrims-still-walk.mp3": 54.9689166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

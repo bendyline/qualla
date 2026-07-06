@@ -1,0 +1,57 @@
+# Stone Circles of Junapani
+
+Three thousand years ago, people arranged stones into circles on the plains near Nagpur -- burial sites that may also encode astronomical knowledge in their cup-marked stones.
+
+**Location:** 21.1986, 78.9997
+
+**Categories:** archaeology, prehistoric-sites, megalithic-monuments, astronomy
+
+## Introduction
+
+Somewhere around 1000 BC, while the Vedic civilization was composing hymns to the east and Mediterranean empires were trading bronze for iron, people on the plains north of present-day Nagpur were arranging stones into circles and burying their dead beneath cairns of rock. They left no written language, no monumental architecture, no names. What they left instead were roughly 300 stone circles scattered across the landscape near the village of Junapani, each one a few meters across, many still holding the iron tools and copper bells placed there three millennia ago. The Archaeological Survey of India has designated the site a monument of national importance, and the Tata Institute of Fundamental Research has studied its cup-marked stones for clues to an astronomical purpose that the builders themselves can no longer explain.
+
+## Iron and Bone Beneath the Cairns
+
+When J. H. Rivett-Carnac first excavated Junapani in 1879, he found what archaeologists would come to call an "iron-using" culture. The burials yielded daggers, flat axes with cross-ring fasteners, hoes, rings, bracelets, horse bits, chisels with long blades, and pointed tongs that may have been fitted with wooden handles. Later excavations by the Archaeological Survey of India in 1962, led by B.K. Thapar, unearthed three circles. Two of them contained human remains alongside funerary objects, and one held the skeleton of an animal from the Equidae family -- a horse. Heaps of sticky black clay surrounded the funerary finds in three circles, a practice whose purpose remains unclear. A copper bell with an iron tongue turned up in another. These were not simple graves. Whatever rituals accompanied the burials, they were deliberate, repeated, and materially complex.
+
+## Reading the Cup Marks
+
+What sets Junapani apart from other megalithic sites in India is the cup marks carved into certain stones within the circles. Small, scooped depressions in the rock surface, they appear at specific locations with specific orientations. The Tata Institute of Fundamental Research undertook a systematic study of 56 circles and found cup marks on 20 of them, with seven bearing marks on their sides. The marks follow patterns: parallel lines, orthogonal sequences, and "+" sign formations aligned radially or tangentially within or around the circles. A consistent angular range appears across all the cup-marked stones, clustering into three distinct groups. Whether these markings encode astronomical observations, seasonal calendars, or something else entirely, the precision of their placement rules out decoration. Someone was recording information in stone, and the circles were oriented to hold it.
+
+## Central India's Northern Megalithic Frontier
+
+Junapani sits on the highway to Katol, forming the northern fringe of central India's megalithic distribution. It is the second-largest site in the region, with 150 documented circles out of 51 known sites around Nagpur and 89 across the wider Vidarbha region. The megaliths here span roughly 1,300 years, from about 1000 BC to 300 AD, making this landscape a layered record of a culture that persisted through enormous change elsewhere on the subcontinent. Notably, researchers have concluded that these circles have nothing in common with the menhirs, dolmens, and other megalithic structures of South India. The Junapani tradition appears to be its own phenomenon -- a distinct funerary and possibly astronomical practice developed by communities who occupied an important stretch of India's north-south corridor long before anyone thought to write the region's history down.
+
+## Silence and Persistence
+
+The stone circles of Junapani do not draw crowds. They sit on open ground near a highway, unremarkable at first glance, easy to drive past without knowing what lies beneath the soil. But that quietness is part of what makes the site extraordinary. For three thousand years, these stones have held their positions while empires rose and fell around them -- the Mauryas, the Vakatakas, the Mughals, the British. The iron corroded. The bones crumbled. But the circles remain, and the cup marks still point in the directions their makers intended. Local communities continue to identify the circles with different clans, suggesting a thread of memory, however frayed, connecting the living to the builders. In a country overflowing with grand temples and celebrated monuments, Junapani offers something rarer: evidence of ordinary people who marked their dead, measured the sky, and vanished without leaving their names.
+
+## Flight Context
+
+Located at 21.199N, 79.000E on the plains northwest of Nagpur, Maharashtra, along the highway to Katol. The stone circles are not individually visible from altitude but the site occupies open ground distinguishable from surrounding agricultural land. Nearest major airport is Dr. Babasaheb Ambedkar International Airport (VANP) in Nagpur, approximately 25 km southeast. Best appreciated at lower altitudes (2,000-4,000 feet AGL) in clear conditions. The flat Vidarbha terrain makes the site easy to locate relative to the Nagpur urban area.
+
+## Sources
+
+- [Stone circles of Junapani - Wikipedia](https://en.wikipedia.org/?curid=37104086)
+  - Approximately 300 stone circles at Junapani
+  - First excavated by J. H. Rivett-Carnac in 1879
+  - ASI excavation in 1962 led by B.K. Thapar unearthed three circles
+  - Iron artifacts: daggers, flat axes, hoes, horse bits, bracelets
+  - Skeleton of Equidae (horse) found in one circle
+  - Date range 1000 BC to 300 AD (most widely accepted; some sources extend to 700 AD)
+  - Junapani is second-largest site with 150 documented circles out of 51 sites around Nagpur
+  - 89 sites in wider Vidarbha region
+  - Cup marks studied by Tata Institute of Fundamental Research
+
+## Review Notes
+
+**Reviewed:** 2026-03-07 · 9 facts verified · 0 corrections
+
+Verified: ~300 stone circles confirmed. Rivett-Carnac 1879 excavation confirmed. ASI 1962 excavation by B.K. Thapar confirmed. Date range 1000 BC to 300 AD matches most widely accepted scholarship (some sources extend to 700 AD). Junapani is second-largest of 51 sites confirmed. 89 sites in Vidarbha region confirmed. Cup marks study by TIFR confirmed. No corrections needed.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 720*
+*Read time: 4 minutes*

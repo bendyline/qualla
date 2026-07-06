@@ -674,5 +674,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr5r-new-york-stock-exchange-flight-context.mp3",
+      "dr5r-new-york-stock-exchange-intro.mp3",
+      "dr5r-new-york-stock-exchange-under-the-buttonwood-tree.mp3",
+      "dr5r-new-york-stock-exchange-the-building-on-broad-street.mp3",
+      "dr5r-new-york-stock-exchange-crashes-bombs-and-bulletproof-glass.mp3",
+      "dr5r-new-york-stock-exchange-from-floor-to-fiber-optic.mp3"
+    ],
+    "durations": {
+      "dr5r-new-york-stock-exchange-flight-context.mp3": 50.8730833,
+      "dr5r-new-york-stock-exchange-intro.mp3": 37.1208333,
+      "dr5r-new-york-stock-exchange-under-the-buttonwood-tree.mp3": 59.450375,
+      "dr5r-new-york-stock-exchange-the-building-on-broad-street.mp3": 72.9295833,
+      "dr5r-new-york-stock-exchange-crashes-bombs-and-bulletproof-glass.mp3": 69.0836666,
+      "dr5r-new-york-stock-exchange-from-floor-to-fiber-optic.mp3": 69.422
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

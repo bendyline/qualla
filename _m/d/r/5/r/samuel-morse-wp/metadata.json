@@ -365,5 +365,26 @@
     "_m/d/r/5/r/samuel-morse-wp/samuel-morse-his-recor.png",
     "_m/d/r/5/r/samuel-morse-wp/samuel-finley-breese-m-1.jpg",
     "_m/d/r/5/r/samuel-morse-wp/samuel-morse-gravesite.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr5r-samuel-morse-flight-context.mp3",
+      "dr5r-samuel-morse-intro.mp3",
+      "dr5r-samuel-morse-the-painters-ambition.mp3",
+      "dr5r-samuel-morse-a-conversation-at-sea.mp3",
+      "dr5r-samuel-morse-what-hath-god-wrought.mp3",
+      "dr5r-samuel-morse-the-new-york-years.mp3",
+      "dr5r-samuel-morse-dots-dashes-and-a-lasting-signal.mp3"
+    ],
+    "durations": {
+      "dr5r-samuel-morse-flight-context.mp3": 45.3484166,
+      "dr5r-samuel-morse-intro.mp3": 52.7675833,
+      "dr5r-samuel-morse-the-painters-ambition.mp3": 56.0454583,
+      "dr5r-samuel-morse-a-conversation-at-sea.mp3": 55.649,
+      "dr5r-samuel-morse-what-hath-god-wrought.mp3": 71.7574166,
+      "dr5r-samuel-morse-the-new-york-years.mp3": 58.8010833,
+      "dr5r-samuel-morse-dots-dashes-and-a-lasting-signal.mp3": 56.4591666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1,0 +1,56 @@
+# Shichahai
+
+Three interconnected lakes northwest of the Forbidden City that once formed the northern terminus of the Grand Canal -- surrounded by ten temples, princely mansions, and the heartbeat of old Beijing.
+
+**Location:** 39.9380, 116.3871
+
+**Categories:** Beijing, lakes, Grand Canal, historic districts, Qing dynasty
+
+## Introduction
+
+The name means "the lake of ten temples," and the temples are still there -- ten Taoist and Buddhist sanctuaries scattered around three interconnected lakes in the north of central Beijing. But Shichahai is more than a body of water ringed by shrines. It is the last great fragment of what Beijing looked like before the twentieth century tore most of the old city down, a 147-hectare mirror reflecting hutong alleys, willow trees, princely gardens, and a way of life that predates the concrete and glass now pressing in from every direction.
+
+## Where the Grand Canal Ended
+
+Shichahai's three lakes -- Qianhai (Front Lake), Houhai (Rear Lake), and Xihai (West Lake) -- date back to the Jin dynasty, which ruled northern China from 1115 to 1234. During the Yuan dynasty, the lakes became the northernmost terminus of the Grand Canal, the vast waterway linking Hangzhou in the south to Beijing in the north. Because of this, the Shichahai area was Beijing's most important commercial district for centuries, a place where goods arrived from across the empire and merchants of every kind set up shop. The commercial energy that once defined this waterfront has given way to a different kind of commerce -- tourism, restaurants, and bar culture -- but the water remains, and with it the topography that made the district central to Beijing's economy for nearly a millennium.
+
+## Mansions and Temples
+
+Around the lakes, the landscape is studded with the residences of Qing-era aristocracy and the temples that give Shichahai its name. The most celebrated are the Prince Gong Mansion, built for the notoriously corrupt official Heshen and later home to one of the most important reformist statesmen of the late Qing, and the Prince Chun Mansion, birthplace of Puyi, the last emperor of China. Soong Ching-ling, the widow of Sun Yat-sen, spent her final years in the garden of the Prince Chun Mansion. Nearby stands the site of the former Fu Jen Catholic University, and the Drum Tower and Bell Tower mark the northern boundary of this historic district. The ten temples -- five Taoist, five Buddhist -- survive in varying states of restoration, their quiet courtyards offering counterpoint to the tourist bustle along the lakefront.
+
+## Silver Ingot Bridge
+
+The lakes are connected by the Yinding Bridge -- the Silver Ingot Bridge -- a narrow stone span that has become one of the most photographed spots in Beijing. On clear days, the view westward from the bridge once offered a glimpse of the Western Hills beyond the city; that sightline is now largely blocked by development, but the bridge remains a gathering point, especially at dusk when the willow-lined shores catch the evening light. In summer, tourists rent boats to paddle across the lakes. In winter, when the water freezes solid, Beijingers come to ice-skate, a tradition that stretches back generations. In 1992, the municipal government declared Shichahai a Historical and Cultural Scenic Area, formalizing what residents had always known: this is where old Beijing comes to breathe.
+
+## The Living Old City
+
+What makes Shichahai irreplaceable is not any single monument but the ensemble -- the way hutong alleys thread between lake shores and garden walls, the way a walk of a few hundred meters can take you from a 12th-century lake to a Qing prince's opera house to a neon-lit bar. The district is crowded with tourists and sometimes overwhelmed by commercial development, but the bones of the old city survive here in a way they do not elsewhere in Beijing. The lakes still reflect the sky. The trees still line the banks. And on winter mornings, when the ice is thick and the tourists are elsewhere, Shichahai looks much as it might have when the canal barges arrived from the south, loaded with rice and silk and the commerce of an empire.
+
+## Flight Context
+
+Located at 39.938N, 116.387E in Xicheng District, directly northwest of the Forbidden City. The three interconnected lakes are clearly visible from altitude as a chain of water bodies stretching north from Beihai Park. The Drum Tower and Bell Tower mark the district's northern edge. Nearby airports: Beijing Capital International (ZBAA) 26 km NE, Beijing Daxing International (ZBAD) 48 km S. Best viewed at 2,000-5,000 ft.
+
+## Sources
+
+- [Shichahai - Wikipedia](https://en.wikipedia.org/?curid=9208331)
+  - Shichahai 147 hectares confirmed
+  - Jin dynasty ruled northern China from 1115 to 1234 confirmed
+  - Lakes became northernmost terminus of Grand Canal during Yuan dynasty confirmed
+  - Three lakes: Qianhai, Houhai, Xihai confirmed
+  - Yinding Bridge (Silver Ingot Bridge) description confirmed
+  - 1992 Historical and Cultural Scenic Area designation confirmed
+  - Prince Gong Mansion and Prince Chun Mansion described confirmed
+  - Soong Ching-ling spent final years in Prince Chun Mansion garden confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-19 · 8 facts verified · 0 corrections
+
+Verified: 147 hectares, Jin dynasty 1115-1234, Grand Canal Yuan dynasty terminus, three lake names confirmed, Yinding Bridge, 1992 scenic area designation, Prince Gong and Prince Chun mansions, Soong Ching-ling residence. All facts confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 740*
+*Read time: 4 minutes*

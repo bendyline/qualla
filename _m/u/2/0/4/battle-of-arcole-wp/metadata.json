@@ -395,5 +395,26 @@
     "_m/u/2/0/4/battle-of-arcole-wp/le-petit-caporal-affiche-par-c.jpg",
     "_m/u/2/0/4/battle-of-arcole-wp/map-of-the-battle-of-arcole-no.jpg"
   ],
-  "updatedAt": "2026-03-31T18:37:43.667Z"
+  "updatedAt": "2026-03-31T18:37:43.667Z",
+  "narration": {
+    "files": [
+      "u204-battle-of-arcole-flight-context.mp3",
+      "u204-battle-of-arcole-intro.mp3",
+      "u204-battle-of-arcole-three-balls-in-the-air.mp3",
+      "u204-battle-of-arcole-into-the-marshes.mp3",
+      "u204-battle-of-arcole-the-third-day.mp3",
+      "u204-battle-of-arcole-the-cost-and-the-legend.mp3",
+      "u204-battle-of-arcole-where-the-legend-was-born.mp3"
+    ],
+    "durations": {
+      "u204-battle-of-arcole-flight-context.mp3": 36.8179583,
+      "u204-battle-of-arcole-intro.mp3": 52.1324583,
+      "u204-battle-of-arcole-three-balls-in-the-air.mp3": 63.799875,
+      "u204-battle-of-arcole-into-the-marshes.mp3": 63.6904583,
+      "u204-battle-of-arcole-the-third-day.mp3": 54.7417083,
+      "u204-battle-of-arcole-the-cost-and-the-legend.mp3": 61.0742916,
+      "u204-battle-of-arcole-where-the-legend-was-born.mp3": 64.7893333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

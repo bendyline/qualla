@@ -1,0 +1,51 @@
+# Lake Waiau
+
+The only lake on Hawaiʻi Island sits inside a cinder cone near the summit of Mauna Kea, fed by rain and possibly permafrost, and sacred in Hawaiian mythology as the bathing place of a snow goddess.
+
+**Location:** 19.8112, -155.4774
+
+**Categories:** Bodies of water of Hawaii (island), Lakes of Hawaii, Sacred lakes
+
+## Introduction
+
+Hawaiʻi is an island of rain, rivers, and waterfalls, but it has almost no lakes. Lake Waiau is the exception — and it exists in the last place you would expect to find standing water. Nestled inside the Puʻu Waiau cinder cone at 3,970 meters on Mauna Kea, this small, roughly heart-shaped pool is the only lake on Hawaiʻi Island and one of the highest lakes in the United States. It is about 100 meters across at its widest, fed entirely by precipitation, and named for the goddess Waiau, who — according to tradition — once bathed in its waters. Its name means "swirling water," though the surface is usually calm enough to mirror the sky.
+
+## A Lake That Breathes
+
+Lake Waiau is not a fixed body of water. It swells and shrinks with the seasons, reaching its greatest depth — between 2 and 2.5 meters — during spring, when winter precipitation has topped off the basin. By late summer, it can contract to a third of its spring size, with a depth below one meter. When the water rises past 2.3 meters, a small outlet stream spills over the northwest rim into Pohakuloa Gulch, but it never gets far: the porous volcanic ground absorbs it within a short distance. Scientists have debated why the lake loses water so quickly. The leading theories point to drought cycles and the possible thawing of a permafrost layer beneath the lake bed. If permafrost is indeed present near the tropical summit of Mauna Kea — a counterintuitive but documented possibility at this altitude — then warming temperatures could be increasing seepage through formerly frozen ground.
+
+## Where Snow Goddesses Bathed
+
+In Hawaiian mythology, Mauna Kea is home to three snow deities: Poliʻahu, Lilinoe, and Waiau. The lake takes its name from the last of these, a goddess said to have bathed in its waters. The scholar Westervelt recorded that the lake was "probably named after the goddess of the same, who used to bathe in it" — a simple sentence that carries the weight of centuries of belief. Originally, the entire peak region of Mauna Kea was considered sacred, and only priests and chieftains were permitted to ascend to the summit. After the establishment of the Hawaiian kingdom, members of the royal family occasionally made the journey. The last recorded royal visitor was Queen Emma in 1881, who climbed to the lake and bathed in it herself — a gesture that connected her to the goddess and to the spiritual authority the mountain represented.
+
+## An Alpine Lake in the Tropics
+
+The paradox of Lake Waiau is hard to overstate. At 20 degrees north latitude, in the middle of the Pacific Ocean, on an island famous for beaches and palm trees, there is a body of water that freezes over in winter. Aquatic insects — midges and beetles — breed in its waters during warmer months, but by December the surface turns to ice. The lake sits well above the tree line, surrounded by the barren cinder cones of Mauna Kea's summit region, a landscape that looks more like the Andes or the Tibetan Plateau than anything associated with Hawaiʻi. After the evaporation of Ka Wai o Pele in 2018 and the brief appearance and disappearance of a lake in Halemaʻumaʻu crater in 2020, Waiau became the sole surviving lake on an island with more rainfall per square foot than almost anywhere else on Earth. The rain simply moves too fast here, rushing down volcanic slopes and into the sea before it can collect. Only this cinder cone, with its impermeable bed, holds the water long enough for it to become a lake.
+
+## Flight Context
+
+Located at 19.81°N, 155.48°W near the summit of Mauna Kea at approximately 13,020 feet elevation. The lake is a small, roughly heart-shaped body of water inside the Puʻu Waiau cinder cone, visible only when directly overhead or at close range due to its small size (~100 m across). Best spotted from 14,000–16,000 feet MSL on a clear day. The Mauna Kea Observatory domes on nearby summits serve as a prominent visual reference. Nearest airport: Hilo International Airport (PHTO) approximately 25 nm east-southeast at sea level. Be aware of extreme altitude — Mauna Kea's summit is at 13,796 feet. Winds can be strong and turbulent near the summit, and cloud layers frequently form below the peak.
+
+## Sources
+
+- [Lake Waiau - Wikipedia](https://en.wikipedia.org/?curid=5804553)
+  - elevation 3,970 meters (13,025 feet) confirmed
+  - approximately 100 meters across confirmed
+  - depth 2–2.5 meters at fullest confirmed
+  - permafrost hypothesis confirmed
+  - Queen Emma visited and bathed 1881 confirmed
+  - lake freezes in winter confirmed
+  - only lake on Hawaii Island confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 7 facts verified · 0 corrections
+
+Key facts verified: elevation 3,970 meters (13,025 feet), ~100 meters across, depth 2-2.5 meters at fullest, permafrost hypothesis confirmed, Queen Emma visited and bathed 1881, lake freezes in winter, only lake on Hawaii Island. Spiciness 1.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 720*
+*Read time: 4 minutes*

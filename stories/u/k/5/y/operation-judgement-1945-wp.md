@@ -1,0 +1,66 @@
+# Operation Judgement (1945)
+
+On a sunny afternoon four days before VE Day, forty-four Fleet Air Arm aircraft attacked a German U-boat base at Kilbotn in what became the last air raid of the war in Europe.
+
+**Location:** 68.7250, 16.5650
+
+**Categories:** military-history, world-war-ii, naval-operations, norway
+
+## Introduction
+
+The war in Europe had four days left, though the pilots did not know that yet. On the afternoon of 4 May 1945, forty-four Fleet Air Arm aircraft swept over the mountains west of Kilbotn, a small village in northern Norway, and dove toward the German U-boat base hidden in the natural harbor below. The raid lasted seven minutes. It sank two ships and a submarine, killed or wounded an estimated 150 German personnel, and cost the British two aircraft and four aircrew. No Norwegian civilians were harmed. Operation Judgement was the last air raid of the Second World War in Europe -- a final violent punctuation mark on a conflict that was, unknown to the attackers, already ending.
+
+## The Wolves Move South
+
+For most of the war, German U-boats operating from bases in northern Norway had menaced the Allied convoys carrying supplies to Russian ports through the Arctic Ocean. It was dangerous, frigid work on both sides -- the convoy sailors enduring torpedoes and ice, the submariners enduring depth charges and the relentless Arctic cold. By autumn 1944, the German retreat from the extreme north forced the U-boat base at Hammerfest to relocate southward to Kilbotn, a sheltered harbor five miles south of the town of Harstad. The base was built around the depot ship Black Watch, a converted North Sea passenger ferry, and supported by Thetis, a Norwegian cruiser the Germans had fitted out as a flak ship. Anti-aircraft guns bristled from two barges and from emplacements ringing the harbor on land. Several smaller vessels, including the Norwegian cargo ship Senja, ferried supplies and ammunition. It was a formidable target, heavily defended and tucked into terrain that made approach difficult.
+
+## Forty-Four Aircraft, Seven Minutes
+
+The strike force sailed from Scapa Flow on 1 May under Vice Admiral Rhoderick McGrigor, second-in-command of the Home Fleet. Three escort carriers embarked the attacking squadrons: 846 and 853 Squadrons flew Grumman Avenger torpedo-bombers, while 882 Squadron contributed twenty Grumman Wildcat fighters. The plan was layered and precise. Wildcats would arrive first to strafe the gun emplacements and suppress the flak ship, while four more Wildcats flew top cover against German fighters from the nearby base at Bardufoss. Then the Avengers would come in on glide-bombing runs -- 846 Squadron targeting the Black Watch, 853 hitting the Senja. The German early-warning network -- radar stations, gun positions, spotters scattered across the islands -- could not have missed the incoming aircraft. But through what the British could only attribute to extraordinary luck, the headquarters staff at Harstad failed to circulate a warning. When the airborne force arrived over Kilbotn at 17:00 on a clear, sunny afternoon, the surprise was almost total.
+
+## The Crew Who Thought Their War Was Over
+
+In the harbor below, one of the vessels was the submarine U-711. What makes Operation Judgement haunting rather than merely dramatic is a detail that emerged decades later. In 2008, U-711's captain, Hans-Gunther Lange, was interviewed at the age of ninety-two for a Norwegian book about the attack. Lange stated that earlier that afternoon -- before the Fleet Air Arm aircraft appeared -- his boat had received a signal from Admiral Doenitz ordering the immediate cessation of all U-boat attacks on Allied shipping, part of the surrender of German naval forces. His crew believed their war was over. Then the bombs began falling. U-711 was damaged in the attack, and Lange and his seven-man harbor crew survived only by moving the boat away from the burning Black Watch. The submarine sank hours later, but all eight men were pulled from the water. A single errant bomb, released by an Avenger with a faulty launching mechanism, fell near houses in Kilbotn village a mile from the main target. Its time-delayed fuse drove it into soft ground, which absorbed most of the blast. Two houses lost their windows. No Norwegian was killed or injured.
+
+## The Last Raid
+
+Forty-two of the forty-four aircraft returned to their carriers. One Wildcat from 882 Squadron had been hit by flak and crashed into the water during the initial pass; its pilot was killed. An Avenger from 846 Squadron made a forced landing, and its crew was lost. The First Cruiser Squadron sailed south to provide air cover for Operation Cleaver in the Skagerrak, then returned to Scapa Flow on 10 May -- five days after Germany's unconditional surrender. Decorations were awarded in the King's Birthday Honours that June. Today, a memorial board stands on the hillside at Barnvika, overlooking the spot where the Black Watch once anchored. It was placed there in 2013 by residents of Kilbotn and Harstad -- a modest marker for the place where the last air raid in Europe's bloodiest war struck a harbor whose defenders had already received word that the fighting was done.
+
+## Flight Context
+
+Located at 68.72N, 16.57E in Kilbotn harbor, approximately 5 miles south of Harstad in northern Norway. The harbor is a natural inlet on the eastern shore of Hinnoya island, surrounded by mountains rising to 600+ meters. Best approached from the west, retracing the route the Fleet Air Arm aircraft flew. Harstad/Narvik Airport, Evenes (ENEV) is approximately 15 nm to the southeast. Bardufoss Airport (ENDU) lies further east. Clear weather offers dramatic views of the fjord system; the area is subject to rapid weather changes.
+
+## Sources
+
+- [Operation Judgement (1945) - Wikipedia](https://en.wikipedia.org/?curid=30038076)
+  - Date of raid: 4 May 1945 - confirmed
+  - 44 Fleet Air Arm aircraft - confirmed
+  - Raid lasted seven minutes - confirmed
+  - Two ships (Black Watch and Senja) and submarine U-711 sunk - confirmed
+  - Approximately 150 German personnel killed or wounded - confirmed
+  - Two British aircraft and four aircrew lost - confirmed
+  - No Norwegian civilians harmed - confirmed
+  - Operation was last air raid of WWII in Europe - confirmed
+  - Strike force commanded by Vice Admiral Rhoderick McGrigor - confirmed
+  - Squadrons: 846 and 853 (Avengers), 882 (Wildcats) - confirmed
+  - U-711 captain Hans-Gunther Lange interviewed in 2008 at age 92 - confirmed
+  - Lange stated his crew had received cease-fire order before attack - confirmed
+  - Memorial board at Barnvika placed in 2013 - confirmed
+  - Kilbotn is approximately 5 miles south of Harstad - confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 14 facts verified · 0 corrections
+
+All facts verified: 4 May 1945, 44 aircraft, 7-minute raid, Black Watch and Senja and U-711 sunk, ~150 German casualties, 2 British aircraft lost, confirmed as last air raid of WWII in Europe, U-711 captain Lange interview 2008 verified, memorial at Barnvika placed 2013
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- 'the last violent punctuation mark on a conflict that was, unknown to the attackers, already ending'
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

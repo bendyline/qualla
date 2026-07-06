@@ -1,0 +1,57 @@
+# Battle of Fort Coimbra
+
+The opening engagement of the Paraguayan War's Mato Grosso campaign, where a tiny Brazilian garrison held a river fortress against 3,200 Paraguayan troops before escaping by night without losing a single defender.
+
+**Location:** -19.9206, -57.7922
+
+**Categories:** history, military, battle, brazil
+
+## Introduction
+
+The letter was brief and unequivocal. When Colonel Vicente Barrios demanded the surrender of Fort Coimbra on December 27, 1864, Lieutenant Colonel Hermenegildo Portocarrero sent back a single sentence: "Only through luck and the honor of arms will we deliver the fort." He was bluffing magnificently. Behind the walls stood fewer than 200 defenders -- regulars, national guardsmen, customs officials, prisoners, and indigenous allies -- facing a Paraguayan invasion force of 3,200 men supported by eleven warships, twelve rifled guns, and a French-equipped rocket battery. The Battle of Fort Coimbra would become the first engagement of the Paraguayan War's Mato Grosso campaign, and its outcome -- tactical loss, moral victory -- would shape how Brazilians remembered the conflict for generations.
+
+## An Accidental Commander
+
+Portocarrero was not supposed to be there. The fort's official commander was Captain Benito de Faria, but Portocarrero -- a lieutenant colonel who oversaw all artillery in Mato Grosso and commanded the Lower Paraguay Military District -- happened to be conducting a routine inspection when the Paraguayan fleet appeared on the river. Seniority dictated that he assume command, and he did so without hesitation. The fort he inherited was in poor condition. Of its guns, only 11 bronze smoothbore cannons functioned; another 20 needed repairs. The garrison of 125 regular officers and soldiers was supplemented by 30 national guardsmen, a handful of customs guards, 6 prisoners pressed into service, and 24 indigenous allies. Against them, Colonel Barrios marshaled five infantry battalions and two dismounted cavalry regiments -- a force that outnumbered the defenders roughly sixteen to one.
+
+## Two Days Under Fire
+
+The Paraguayan assault began in earnest after the surrender demand was rejected. For two days, warships bombarded the fort from the river while infantry attempted to storm its walls. The star-shaped fortification, positioned on a hill where the Paraguay River narrowed, gave the defenders the advantage of elevation and converging fields of fire. But numbers and modern weapons -- the Paraguayans' rifled guns far outclassed the fort's smoothbore bronze cannons -- made the outcome inevitable. What the garrison lacked in firepower, it compensated for in determination. The soldiers' families, trapped inside the fort, took on the work of reloading muskets and tending the wounded. Every able body contributed. The Paraguayan assaults and reconnaissance probes cost Barrios's forces approximately 200 casualties, a toll inflicted entirely by a garrison that suffered not a single fatality.
+
+## Escape on the Anhambai
+
+By nightfall on December 28, Portocarrero faced a calculation with no good answer. His ammunition was dwindling, no reinforcements could reach the isolated fort, and the Paraguayan force showed no signs of withdrawal. Continued resistance meant annihilation. He ordered an evacuation. Under cover of darkness on the night of December 28-29, the entire garrison -- soldiers, families, wounded -- slipped down to the riverbank and boarded the gunboat Anhambai. The withdrawal was executed in good order, without alerting the besieging force. When the Paraguayans entered the fort at dawn, they found it empty. They claimed the guns, the stores, and the fortification itself, which would remain under Paraguayan control until April 1868, when they abandoned it, stripping away everything of military value before departing.
+
+## Controversy and Legacy
+
+The fall of Fort Coimbra was both celebrated and debated in Brazil. Portocarrero had inflicted disproportionate casualties on a vastly superior force and extracted his entire garrison without a single loss -- by any tactical measure, an impressive achievement. But the surrender of a frontier fortress at the war's very opening stung national pride. The swift evacuation became a subject of controversy: was it prudent generalship or premature retreat? The argument mattered less than the war it ignited. The Mato Grosso campaign rolled forward as Paraguayan forces pushed deeper into Brazilian territory, and the conflict that followed would last until 1870 and cost hundreds of thousands of lives across four nations. After the war, the fort was rebuilt from near-total ruin, its walls almost completely destroyed by the Paraguayan artillery that had battered them over those two December days. Fort Coimbra still stands on its hilltop above the river, a monument to the first shots of South America's deadliest modern war.
+
+## Flight Context
+
+Located at 19.92S, 57.79W on the Paraguay River near Corumba, Mato Grosso do Sul, Brazil. The fort sits on a hilltop at a narrowing of the river, the same strategic position that made it valuable in 1864. Best viewed at 2,000-4,000 feet AGL. Nearest airport: Corumba International Airport (SBCR). The river approach from the south, the direction from which the Paraguayan fleet arrived, is clearly visible from altitude.
+
+## Sources
+
+- [Battle of Fort Coimbra - Wikipedia](https://en.wikipedia.org/?curid=80964076)
+  - date December 27, 1864 confirmed
+  - Paraguayan force 3,200 men confirmed
+  - 11 warships, 12 rifled guns, French rocket battery confirmed
+  - garrison: 125 regulars, 30 national guardsmen, customs guards, 6 prisoners, 24 Indigenous allies confirmed
+  - Portocarrero took command on inspection visit confirmed
+  - surrender demand rejected with 'honor of arms' reply confirmed
+  - evacuation December 28-29 aboard gunboat Anhambai confirmed
+  - Paraguayan casualties approximately 200, Brazilian losses zero confirmed
+  - fort remained in Paraguayan hands until April 1868 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 12 facts verified · 0 corrections
+
+All key facts verified: date Dec 27, 1864; Paraguayan force 3,200; 11 warships, 12 rifled guns, French rocket battery; garrison 125 regulars + 30 guardsmen + 6 prisoners + 24 Indigenous allies; evacuation Dec 28-29 on Anhambai; ~200 Paraguayan casualties, zero Brazilian losses; fort held until April 1868. Spiciness: 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 740*
+*Read time: 4 minutes*

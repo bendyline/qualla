@@ -1,0 +1,63 @@
+# Eugene: Tracktown USA and the Hippie Mecca
+
+The Oregon college town where Nike was born, where the University of Oregon's Ducks became a football dynasty, and where Ken Kesey and the counterculture found a permanent home in the Willamette Valley.
+
+**Location:** 44.0519, -123.0867
+
+**Categories:** oregon, eugene, city, university, track
+
+## Introduction
+
+Bill Bowerman coached track at the University of Oregon; Phil Knight ran for him. In 1964, they founded Blue Ribbon Sports in Eugene, later renamed Nike. The waffle iron that Bowerman used to create the first Nike sole is enshrined in local legend. Eugene became Tracktown USA - home of Hayward Field, where Olympic Trials have been held more than any other venue, where Steve Prefontaine ran until his death in 1975, where track and field matters in ways it doesn't elsewhere in America. But Eugene's identity extends beyond athletics. Ken Kesey, author of 'One Flew Over the Cuckoo's Nest,' lived in nearby Springfield; the Grateful Dead made Eugene their second home; the counterculture that settled here in the 1960s never quite left. The Saturday Market has operated continuously since 1970. Eugene remains Oregon's hippie Mecca, a college town where environmentalism, coffee culture, and running culture merged into something distinctly Pacific Northwest.
+
+## Tracktown USA
+
+Hayward Field at the University of Oregon is American track and field's spiritual home. The stadium hosted the U.S. Olympic Trials in 1972, 1976, 1980, 2008, 2012, 2016, 2020, and 2024 - no other venue comes close. Steve Prefontaine, America's most charismatic distance runner, competed here until his death in a car crash in 1975 at age 24. Pre's Rock, a memorial at the crash site, remains a pilgrimage destination for runners. Bill Bowerman coached here for 24 years, developing the training methods and shoe innovations that became Nike. The Prefontaine Classic, held annually at Hayward Field, attracts the world's best runners. Eugene doesn't just host track meets; it cares about them in ways other cities reserve for football.
+
+## Nike's Birthplace
+
+Phil Knight sold running shoes from the trunk of his car at track meets; Bill Bowerman experimented with rubber and waffle irons in his garage. Blue Ribbon Sports became Nike in 1971; the 'swoosh' logo cost $35. Nike headquarters moved to Beaverton near Portland, but the company's DNA remains Eugene. The university's athletic programs are Nike's showcase - the Oregon Ducks play in more uniform combinations than any other team, modeling the latest designs. Knight's billions have rebuilt Hayward Field and the Oregon football program; his relationship with his alma mater shapes both institutions. Nike running shoes changed what runners wore; Nike marketing changed how sports are sold. It started here, with a coach who ruined his wife's waffle iron.
+
+## The Counterculture Capital
+
+Ken Kesey graduated from the University of Oregon and lived in nearby Springfield while writing 'One Flew Over the Cuckoo's Nest.' His Merry Pranksters and their psychedelic bus 'Further' passed through regularly. The Grateful Dead played Eugene frequently; Jerry Garcia considered the McDonald Theatre one of his favorite venues. The counterculture that arrived in the 1960s stayed - Eugene remains Oregon's most progressive city, a place where tie-dye isn't ironic and organic markets predate Whole Foods. The Whiteaker neighborhood (locals call it 'Whitaker') concentrates breweries, art studios, and alternative everything into a walkable district. The Saturday Market, operating since 1970, predates Portland's version and remains the community gathering place.
+
+## University Town
+
+The University of Oregon dominates Eugene's economy and identity - 23,000 students in a city of 175,000. The campus spreads along the Willamette River, its oldest buildings centered on the Pioneer Mother statue. Autzen Stadium, across the river, seats 54,000 for Ducks football; the program that was a national joke became a powerhouse under Nike sponsorship and Chip Kelly's coaching. Matthew Knight Arena hosts basketball in a facility named for Phil Knight's late son. The university shapes Eugene's demographics (younger, more educated), politics (more liberal), and economy (more service-oriented). Town-gown relations vary, but the relationship is permanent; Eugene without the university is unimaginable.
+
+## Willamette Valley Gateway
+
+Eugene Airport (EUG) offers connections to major West Coast hubs; Portland International (PDX) is two hours north. Amtrak's Cascades service connects to Portland and Seattle; the Coast Starlight passes through daily. I-5 runs through town, connecting to Portland (2 hours), Seattle (5 hours), and San Francisco (9 hours). The Willamette Valley wine country spreads north toward Portland; the Oregon Coast lies an hour west over the Coast Range. From altitude, Eugene appears as a city at the Willamette Valley's southern end - the river visible, the university campus spreading along its banks, the foothills of the Coast Range and Cascades visible on either horizon. What appears from the air as a mid-sized Oregon city is Tracktown USA, Nike's birthplace, and the counterculture capital of the Pacific Northwest.
+
+## Flight Context
+
+Located at 44.05°N, 123.09°W at the southern end of Oregon's Willamette Valley near the confluence of the McKenzie and Willamette rivers. From altitude, Eugene appears as a green city in the valley - the University of Oregon campus visible along the Willamette River, Autzen Stadium across the water, the foothills of the Cascades and Coast Range framing the horizon. What appears from the air as a typical Pacific Northwest college town is Tracktown USA, where Nike was born, and where Oregon's hippie culture never quite left.
+
+## Sources
+
+- [Eugene Oregon - Wikipedia](https://en.wikipedia.org/wiki/Eugene,_Oregon)
+  - University of Oregon location
+  - Nike origins
+  - Tracktown USA
+- [Steve Prefontaine - Wikipedia](https://en.wikipedia.org/wiki/Steve_Prefontaine)
+  - Pre's Rock memorial
+  - died 1975 age 24
+
+## Review Notes
+
+**Reviewed:** 2026-01-23 · 3 facts verified · 0 corrections
+
+Pre-existing sources verified.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Tracktown USA and the Hippie Mecca
+- Where Nike was born from a coach's waffle iron
+
+---
+
+*Word count: 830*
+*Read time: 5 minutes*

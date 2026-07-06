@@ -1,0 +1,61 @@
+# Exhumation and Reburial of Francisco Franco
+
+It took Spain eight years of parliamentary debates, court challenges, and one beauty queen's funeral request to move Franco's remains from the Valley of the Fallen to a municipal cemetery in 2019.
+
+**Location:** 40.6420, -4.1528
+
+**Categories:** spanish-history, politics, franco, memorials, 20th-century, 21st-century
+
+## Introduction
+
+Let the dead bury the dead. That was the biblical quotation a senator from Spain's conservative Popular Party used in 2012 to argue against exhuming Francisco Franco from the Valley of the Fallen, the monumental basilica cut into a mountainside northwest of Madrid where the dictator had lain since 1975. The senator's point was that Spain had more pressing problems -- an economic crisis, unemployment -- than reopening the wounds of history. But the dead, as it turned out, would not stay buried. For eight years, from the first formal recommendation in 2011 to the actual exhumation on October 24, 2019, Franco's remains became the most politically contentious corpse in Europe.
+
+## A Monument Built by the Defeated
+
+The Valley of the Fallen was Franco's grandest construction project. Built between 1940 and 1958, it consists of a massive basilica carved into the granite of the Sierra de Guadarrama, topped by a 150-meter stone cross visible for miles. The monument was officially dedicated to the memory of those who died on both sides of the Civil War, but its construction relied heavily on the forced labor of Republican political prisoners. Franco was interred there after his death in November 1975, buried behind the main altar alongside Jose Antonio Primo de Rivera, founder of the Falange, Spain's fascist party. For many Spaniards, particularly those whose relatives were among the approximately 33,000 Civil War dead interred in the basilica's mass crypts -- many without their families' knowledge or consent -- the Valley was not a place of reconciliation but a monument to the victors that forced the defeated to share their tomb.
+
+## The Long Parliamentary Argument
+
+In 2011, an Expert Commission formed under Prime Minister Zapatero's government recommended removing Franco's remains, arguing that someone who did not die in the Civil War should not occupy the monument's most honored position. The recommendation came nine days after the conservative Popular Party won a landslide election, and the new government of Mariano Rajoy refused to act. What followed was a parliamentary trench war that stretched across nearly a decade. Motion after motion was introduced -- by the Socialists, the Basque Nationalists, the Catalan parties -- and each was voted down or ignored by the PP majority. The arguments repeated themselves in cycles: the opposition invoked historical justice and the dignity of Civil War victims, while the PP cited a lack of consensus, economic priorities, and the principle of letting the past remain undisturbed. The Church added complexity, insisting that any action inside the basilica required ecclesiastical authorization.
+
+## The Helicopter and the Hearse
+
+The impasse broke in June 2018 when Pedro Sanchez became prime minister after a successful no-confidence vote against Rajoy. Sanchez announced his intention to exhume Franco, but with only 85 deputies in a parliament of 350, he needed coalition support and a legal path through the Franco family's objections, the Benedictine community's protests, and the Church's jurisdictional claims. The government amended the 2007 Historical Memory Law to permit the exhumation. The Franco family fought it through the Supreme Court, arguing the decree was unconstitutional and requesting reburial at the Cathedral of La Almudena in central Madrid -- a request the government denied on grounds of public order. On September 24, 2019, the Supreme Court unanimously ruled in favor of exhumation. A month later, on October 24, Franco's coffin was carried out of the basilica by his grandchildren, who shouted 'Viva Espana! Viva Franco!' as they lowered it into a hearse. A helicopter flew the remains to Mingorrubio Cemetery in El Pardo, where Franco was reburied beside his wife, Carmen Polo.
+
+## The Priest's Son
+
+One detail from the reburial ceremony captured Spain's tangled relationship with its past more than any parliamentary speech. The Franco family chose Ramón Tejero, a parish priest, to say Mass at the reinterment. Tejero's father was Antonio Tejero, the Civil Guard lieutenant colonel who stormed the Spanish Parliament with armed men during the failed military coup of February 23, 1981 -- the most serious threat to Spanish democracy since Franco's death. That the family of a dictator would select the son of a would-be putschist to consecrate the reburial suggested that for some Spaniards, the old loyalties had not faded so much as gone quiet. Franco now lies in a municipal cemetery rather than a national monument, but the arguments about what Spain owes its past -- and what it should be permitted to forget -- continue.
+
+## Flight Context
+
+The Valley of the Fallen (Valle de los Caidos) is located at 40.642N, 4.153W in the Sierra de Guadarrama, about 50 km northwest of Madrid. The 150-meter stone cross atop the basilica is visible from considerable distance and is one of the most recognizable aerial landmarks in the region. Mingorrubio Cemetery, where Franco was reburied, is in El Pardo, approximately 15 km north of central Madrid. Recommended viewing altitude 3,000-8,000 ft AGL. Nearest airports: Madrid-Barajas (LEMD) approximately 55 km east of the Valley, Cuatro Vientos (LECU) approximately 35 km southeast.
+
+## Sources
+
+- [Exhumation and reburial of Francisco Franco - Wikipedia](https://en.wikipedia.org/?curid=74104818)
+  - Valley of the Fallen built 1940-1958 - confirmed
+  - 150-meter stone cross - confirmed
+  - Approximately 33,000 Civil War dead interred in basilica - confirmed
+  - Supreme Court unanimously ruled September 24, 2019 - confirmed
+  - Exhumation on October 24, 2019 - confirmed
+  - Franco reburied at Mingorrubio Cemetery beside wife Carmen Polo - confirmed
+  - Corrected: 'Ramen Tejero' → 'Ramón Tejero' (typo fixed)
+  - Corrected: 'Andalusian parish priest' removed (origin unverified); confirmed as Catholic priest and son of Antonio Tejero
+
+## Review Notes
+
+**Reviewed:** 2026-03-17 · 7 facts verified · 2 corrections
+
+Fixed typo: 'Ramen Tejero' corrected to 'Ramon Tejero'. Removed unverified 'Andalusian' origin claim. All key facts verified: Valley of Fallen 1940-1958, 150m cross, 33000 interred, Supreme Court ruling Sept 24 2019, exhumation Oct 24 2019, reburied at Mingorrubio beside Carmen Polo.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Describes Franco's tomb as 'monument to the victors that forced the defeated to share their tomb'
+- Describes old loyalties as having 'gone quiet' rather than faded
+
+---
+
+*Word count: 800*
+*Read time: 4 minutes*

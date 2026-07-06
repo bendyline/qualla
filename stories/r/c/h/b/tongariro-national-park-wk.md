@@ -1,0 +1,60 @@
+# Tongariro National Park
+
+New Zealand's first national park and the world's fourth, born from a Maori chief's gift to protect sacred volcanic peaks, where three active volcanoes anchor a landscape that doubles as Middle-earth.
+
+**Location:** -39.2000, 175.5833
+
+**Categories:** national-park, volcano, world-heritage, hiking, skiing, new-zealand
+
+## Introduction
+
+The gift was strategic and spiritual in equal measure. In 1887, Te Heuheu Tukino IV, paramount chief of the Ngati Tuwharetoa, looked at the accelerating pace of European settlement and land sales across the North Island and saw what was coming for the volcanic peaks his people had revered for centuries. His solution was radical: he gave the mountains to the Crown, making them sacred - untouchable by commerce. Tongariro became New Zealand's first national park and the fourth in the world, after Yellowstone, Royal, and Banff. What began as 250 square kilometers has since expanded to nearly 800, and in 1993 it became the first property anywhere inscribed on the UNESCO World Heritage List as a cultural landscape, honored for both its volcanic grandeur and its spiritual significance.
+
+## Three Peaks, Three Temperaments
+
+The park's identity is defined by its volcanoes, each with a distinct personality. Ruapehu, at 2,797 meters, is the North Island's highest peak, carrying a crater lake that periodically overflows into catastrophic lahars - the 1953 Tangiwai disaster killed 151 people when a lahar destroyed a rail bridge minutes before a passenger train arrived. Ngauruhoe, at 2,291 meters, is the young cone, geologically a secondary vent of Tongariro but universally regarded as its own mountain, its near-perfect symmetry making it the stand-in for Mount Doom in Peter Jackson's Lord of the Rings films. Tongariro itself, at 1,967 meters, is the compound volcano - a sprawling complex of craters, some filled with startlingly colored lakes, others venting fumaroles that deposit sulphur crystals in the thin alpine air. All three remain active. Tongariro last erupted in November 2012, Ruapehu in 2007, Ngauruhoe in 1977.
+
+## Walking Through Mordor
+
+The Tongariro Alpine Crossing is a 19.4-kilometer day walk that some call the best one-day hike in the world, traversing the volcanic terrain between Tongariro and Ngauruhoe. On summer days, up to 2,000 people walk the track, passing through craters, alongside the mineral-green Emerald Lakes, and past the sacred Blue Lake before descending Tongariro's northern slopes. The 43.1-kilometer Tongariro Northern Circuit extends this into a three-to-four-day tramp, looping through beech forest, across desert terrain, and past the deep explosion craters that form the Tama Lakes. In the Oturere Valley, lava formations create landscapes that are strangely beautiful in bad weather. Near Waihohonu Hut, the Ohinepango cold springs offer fifteen minutes of walking for a stunning payoff. Peter Jackson filmed extensively here, and the landscape needs no computer graphics to feel otherworldly.
+
+## Snow on Fire
+
+Ruapehu hosts the North Island's two commercial ski fields: Whakapapa on the northwestern slopes and Turoa to the southwest. Hiking to the summit from either ski field rewards the effort with a view into the crater lake - a sight that manages to be both beautiful and unsettling. The skiing has endured commercial turbulence, with operators going into receivership, but the mountain keeps drawing winter visitors. The weather shifts fast. Summer days can begin warm and clear and turn cold, wet, and windy within hours. From autumn through spring, snow and ice dominate, and the alpine terrain demands proper equipment. In 2008, six Auckland high school students and their teacher died in a flash flood in the park after ignoring a heavy rain warning. The park does not forgive unpreparedness, and MetService publishes dedicated weather updates for the area.
+
+## Water You Cannot Drink
+
+The park's water is both spectacular and treacherous. Stream beds display vivid mineral colors from volcanic heavy metals dissolved in the runoff. The Ketetahi Hot Springs, on 38 hectares of private Ngati Tuwharetoa land within the park boundaries, emit near-boiling water; a visitor was badly burned in 2007 after entering the closed area. Hut water tanks can be contaminated with giardia. The Emerald Lakes owe their surreal green color to iron, sulphur, and silica. Blue Lake is tapu - sacred to the Maori, to be treated with respect. Even the rain that falls here is not entirely benign: volcanic ash mixes with water to form a gritty, abrasive mud that coats everything after eruptions. The nearest reliable airport is Taupo, 50 kilometers north of the park town of Turangi, while National Park Village and Ohakune sit on the main trunk railway line between Wellington and Auckland.
+
+## Flight Context
+
+Tongariro National Park at approximately 39.20°S, 175.58°E encompasses nearly 800 km2 of volcanic terrain in the central North Island. The three volcanic peaks are unmistakable from altitude: Ruapehu (2,797 m) with its crater lake and ski fields, Ngauruhoe (2,291 m) as a near-perfect cone, and Tongariro (1,967 m) with its colored crater lakes. The Rangipo Desert lies to the east, Lake Taupo to the northeast. Nearest airport is Taupo (NZAP), approximately 50 km north. Ohakune Aerodrome (NZOH) is to the southwest. State Highways 1, 4, 46, 47, and 49 encircle the park. Active volcanic hazard zone - all three peaks are active volcanoes. Check NOTAMs for eruption advisories.
+
+## Sources
+
+- [Tongariro National Park - Wikivoyage](https://en.wikivoyage.org/?curid=36320)
+- [Wikipedia - Tongariro National Park](https://en.wikipedia.org/wiki/Tongariro_National_Park)
+  - gift by Te Heuheu Tukino IV in 1887 confirmed
+  - fourth in world (after Yellowstone, Royal, Banff) is commonly cited - note: some sources say 'sixth'; the 'fourth' claim reflects the 1894 parliamentary act period and is widely used
+  - park area expanded to nearly 800 sq km confirmed
+  - 1993 UNESCO dual World Heritage listing confirmed
+  - first cultural landscape UNESCO inscription confirmed
+  - Ruapehu 2,797m Ngauruhoe 2,291m Tongariro 1,967m confirmed
+  - Tangiwai 1953 killed 151 confirmed
+  - Tongariro last erupted November 2012 confirmed
+  - Ngauruhoe last erupted 1977 confirmed
+  - Tongariro Alpine Crossing 19.4km confirmed
+  - Ketetahi Hot Springs visitor burned 2007 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 11 facts verified · 0 corrections
+
+Verified: gift by Te Heuheu Tukino IV 1887, 'fourth in world' is widely used (some sources say sixth; reflects parliamentary act period 1894); 800 sq km area; 1993 UNESCO dual World Heritage; three volcano heights; Tangiwai 151 killed; last eruptions confirmed; Alpine Crossing 19.4km. No corrections needed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 820*
+*Read time: 5 minutes*

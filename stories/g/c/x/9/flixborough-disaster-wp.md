@@ -1,0 +1,61 @@
+# Flixborough Disaster
+
+On 1 June 1974, a temporary bypass pipe at the Nypro chemical plant in Flixborough failed, releasing a massive cloud of cyclohexane that ignited in an explosion estimated at 15 to 45 tonnes of TNT equivalent, killing 28 workers.
+
+**Location:** 53.6200, -0.7000
+
+**Categories:** 1974 disasters in the United Kingdom, Chemical plant explosions, Disasters in Lincolnshire, Engineering failures
+
+## Introduction
+
+It was a Saturday afternoon, which is why the death toll was not far higher. On 1 June 1974, at 4:53 p.m., the Nypro UK chemical plant at Flixborough in North Lincolnshire ceased to exist. The explosion that destroyed it was heard more than thirty miles away. Twenty-eight workers died. Thirty-six were injured. Nearly two thousand properties in the surrounding villages were damaged. In the language of industrial safety, Flixborough became a single word for catastrophe.
+
+## A Temporary Fix
+
+The Nypro plant manufactured caprolactam, a raw material for nylon, through the oxidation of cyclohexane. The process required a series of six large reactors operating at high temperature and pressure, connected in sequence. In March 1974, a crack was discovered in Reactor No. 5. Rather than shut down the entire plant for a lengthy repair, the decision was made to remove the damaged reactor and install a temporary bypass pipe connecting Reactor No. 4 directly to Reactor No. 6. The bypass was designed and installed without a full engineering assessment. The two reactors it connected sat at slightly different heights and had larger-diameter openings than the bypass pipe, requiring adapter pieces called dog-leg bends. The assembly was supported by scaffolding. No hydraulic pressure test was conducted. No specialist pipe engineer reviewed the design. The plant returned to operation.
+
+## Fifty-Three Minutes Past Four
+
+On the afternoon of 1 June, the bypass pipe failed. The rupture released an enormous cloud of cyclohexane vapor, which found an ignition source within seconds. The resulting vapor cloud explosion was later estimated as equivalent to between fifteen and forty-five tonnes of TNT. The blast wave flattened the entire plant. The main control room, an ordinary brick building with no blast protection, was destroyed, killing all eighteen occupants instantly. Ten more workers died elsewhere on the site. The explosion created a fireball visible for miles and set off secondary fires that burned for days. In the villages of Flixborough, Amcotts, and Burton upon Stather, windows shattered, roofs collapsed, and walls cracked. Some homes were rendered uninhabitable. That it happened on a Saturday, when the plant was operating with a reduced weekend crew of roughly seventy people rather than the weekday complement of several hundred, was the only reason the death toll stayed at twenty-eight.
+
+## What Went Wrong
+
+The official Court of Inquiry, chaired by Roger Parker, identified the bypass pipe as the immediate cause. The assembly had been designed by people who were not qualified to design it. The plant's only qualified chemical engineer had left months earlier and had not been replaced. The temporary pipe was asked to carry cyclohexane at 155 degrees Celsius and nearly nine atmospheres of pressure, conditions under which any failure would be sudden and total. But critics within the process safety community argued that the bypass was not a freak occurrence. It was a symptom. The plant's modification procedures had broken down entirely. Changes to critical equipment were being made without proper engineering review, without hazard assessment, without the institutional safeguards that should have caught a dangerous improvisation before it killed anyone. The errors were not multiple unlikely coincidences. They were multiple instances of one underlying failure: a collapse of the safety management system itself.
+
+## The Legacy
+
+Flixborough transformed industrial safety regulation in Britain. The Court of Inquiry's roughly thirty recommendations on plant design, modification control, and siting of occupied buildings near hazardous processes became the foundation of new legislation. The Health and Safety at Work Act had been passed just weeks before the explosion; Flixborough gave it urgency and teeth. The Advisory Committee on Major Hazards, established in response to the disaster, produced reports that led directly to the Control of Major Accident Hazards Regulations, which remain the framework for chemical plant safety in the United Kingdom today. ICI, which operated similar cyclohexane oxidation plants, immediately reviewed its own modification procedures and found a troubling history of near-misses and small-scale incidents that had been inadequately investigated. The Nypro site was never rebuilt. It was demolished in 1981. The ground where the plant stood is quiet agricultural land now, on the south bank of the River Trent near Scunthorpe. Twenty-eight people went to work on a Saturday and did not come home, because a temporary pipe was asked to do a job it was never designed to do, and no one with the authority and expertise to say no was there to say it.
+
+## Flight Context
+
+Located at 53.62N, 0.70W on the south bank of the River Trent, approximately 5 miles west of Scunthorpe in North Lincolnshire. The former plant site is now cleared land near the village of Flixborough. The River Trent is the dominant feature from the air. Nearest airport: EGNJ (Humberside) approximately 12 miles northeast. The flat Lincolnshire terrain provides wide visibility.
+
+## Sources
+
+- [Flixborough disaster - Wikipedia](https://en.wikipedia.org/?curid=671092)
+  - Date 1 June 1974 confirmed
+  - 28 workers killed confirmed
+  - 36 seriously injured confirmed
+  - TNT equivalent 15–45 tonnes confirmed (best fit 16±2 t)
+  - Plant manufactured caprolactam for nylon confirmed
+  - Temporary bypass connected Reactors 4 and 6 confirmed
+  - Control room destroyed killing all occupants confirmed
+  - Health and Safety at Work Act passed shortly before explosion confirmed
+  - Nypro site demolished and not rebuilt confirmed
+  - Corrected: summary changed from '15 tonnes of TNT' to '15 to 45 tonnes of TNT equivalent' to reflect official range
+- [Flixborough 50 Years On - The Chemical Engineer](https://www.thechemicalengineer.com/features/flixborough-50-years-on-lessons-for-managers-and-engineers-today/)
+  - Safety management system failure as root cause confirmed
+  - Court of Inquiry chaired by Roger Parker confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 10 facts verified · 1 correction
+
+All key facts verified: 28 killed, 36 injured, 1 June 1974, 15-45 tonnes TNT equivalent, caprolactam plant, bypass connected Reactors 4 and 6, control room destroyed, Health and Safety at Work Act timing confirmed. Correction: summary updated from '15 tonnes of TNT' to '15 to 45 tonnes of TNT equivalent' to match the actual estimated range per the Advisory Committee on Major Hazards.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 730*
+*Read time: 4 minutes*

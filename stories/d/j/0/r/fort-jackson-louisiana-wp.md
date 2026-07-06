@@ -1,0 +1,78 @@
+# Fort Jackson
+
+A masonry fortress on the Mississippi River whose garrison mutinied during the Civil War, whose walls once imprisoned a French champagne tycoon, and whose greatest enemy has always been the water it was built to command.
+
+**Location:** 29.3569, -89.4556
+
+**Categories:** military, historical-site, civil-war, coastal-defense, national-historic-landmark, mississippi-river
+
+## Introduction
+
+The mutiny started after twelve days of bombardment. Confederate soldiers garrisoning Fort Jackson on the lower Mississippi had endured nearly two weeks of mortar fire from Flag Officer David Farragut's Union fleet, beginning April 16, 1862. When Farragut's warships finally ran past the fort's guns on April 24, the garrison knew the game was up. The enlisted men turned on their officers, refused further orders, and the fort surrendered on April 28. Within weeks, New Orleans fell to the Union. Fort Jackson had been built specifically to prevent this -- a massive masonry stronghold designed after the War of 1812 on the advice of Andrew Jackson himself, positioned to make the Mississippi impassable to hostile fleets. It took Farragut twelve days to prove the theory wrong.
+
+## Jackson's Fortress on the River
+
+Construction began in 1822 on the western bank of the Mississippi, roughly 70 miles south of New Orleans in Plaquemines Parish. The site was chosen on the recommendation of Andrew Jackson, the hero of the Battle of New Orleans, who understood that the city's defense depended on controlling the river's lower reaches. Fort St. Philip already stood on the eastern bank, but Jackson argued that a second fort on the opposite side would create an unrunnable gauntlet. The new fortification took a decade to complete, finished in 1832, and bore Jackson's name. Its thick masonry walls, moat, and gun emplacements represented the best military engineering of the era. The fort served various military purposes through the decades that followed, never quite finding a war to justify its construction -- until 1862.
+
+## Twelve Days Under Fire
+
+The Battle of Forts Jackson and St. Philip remains one of the pivotal engagements of the Civil War's western theater. Farragut assembled a fleet of 47 vessels, including mortar schooners that lobbed explosive shells in high arcs over the fort's walls. For twelve days the bombardment continued, cratering the interior and battering the masonry. On the night of April 24, Farragut made his move, running his warships past both forts under heavy fire. The Confederate garrison, already demoralized by the ceaseless shelling, broke. A mutiny erupted among the enlisted men, who refused to continue fighting under conditions they considered hopeless. Fort Jackson surrendered on April 28, and Fort St. Philip followed. The fall of these twin fortifications opened the river to New Orleans, which Farragut captured with barely a fight.
+
+## The Champagne Spy
+
+After the battle, Fort Jackson served as a Union prison, and among its more unlikely inmates was Charles Heidsieck -- the French champagne magnate whose family name still appears on bottles worldwide. Heidsieck had traveled to the American South on business, attempting to collect debts owed to his firm by cotton merchants. Union authorities suspected him of spying for the Confederacy, arrested him, and held him at Fort Jackson for seven months. The champagne king endured the damp, mosquito-plagued confines of a Louisiana river fort far removed from the vineyards of Reims. He was eventually released through diplomatic intervention. The fort continued to see intermittent military use through World War I, when it served as a training station, before being sold as surplus property in 1927.
+
+## Drowned History
+
+Water has always been Fort Jackson's most persistent adversary. Hurricane Betsy inundated it in 1965. Hurricane Camille struck in 1969. But nothing compared to 2005, when Hurricane Katrina's catastrophic storm surge submerged the fort under deep floodwaters that lingered for six weeks after Katrina and Hurricane Rita hit back-to-back. Historic exhibits were destroyed, brick walls cracked, foundations shifted, and the moat drainage system failed. A rehabilitation project completed in 2011 rebuilt pumps, replaced water lines, and restored electrical systems, but the fort remains acutely vulnerable to future storms and rising sea levels. It was designated a National Historic Landmark in 1960 and listed on the National Register of Historic Places in 1967. Mr. and Mrs. H. J. Harvey donated the property and its 82 acres to Plaquemines Parish in 1960, hoping it would be restored. That restoration is a project without end.
+
+## Oranges, Oil Birds, and the Parish Fair
+
+Since 1970, the grounds of Fort Jackson have hosted the Plaquemines Parish Fair and Orange Festival, an annual celebration that fills the old military grounds with the scent of citrus and the sound of carnival rides -- a vivid contrast to its wartime past. In 2010, the fort found itself in the news again when it was pressed into service as a treatment facility for birds coated in oil from the Deepwater Horizon spill. Workers cleaned pelicans and gulls within sight of the same walls that once absorbed Farragut's mortar shells. The treatment center was relocated to Hammond, Louisiana on July 4, 2010, to reduce vulnerability to hurricanes. Today, the fort's exterior grounds are open to visitors, though the interior is accessible only on occasion. The Fort Jackson Museum operates not at the fort itself but at the Plaquemines Parish District 9 office in Buras, roughly 15 miles southwest.
+
+## Flight Context
+
+Located at 29.36N, 89.46W on the western bank of the Mississippi River in Plaquemines Parish, Louisiana, approximately 70 miles south of New Orleans. The star-shaped masonry fort is visible from moderate altitude along the river's final stretch before the Delta. Fort St. Philip sits directly across the river on the eastern bank. The Mississippi's distinctive meanders and the bird-foot delta provide unmistakable navigation references. Nearest airports: Belle Chasse Naval Air Station (KNBG) approximately 40nm upriver; Louis Armstrong New Orleans International (KMSY) approximately 55nm north-northwest. Extremely low-lying terrain; the fort sits barely above sea level. Watch for restricted airspace near naval facilities. Expect river fog in early mornings and Gulf haze in warmer months.
+
+## Sources
+
+- [Fort Jackson, Louisiana - Wikipedia](https://en.wikipedia.org/?curid=2297001)
+  - Construction began 1822, completed 1832 confirmed
+  - Built on recommendation of Andrew Jackson confirmed
+  - Located on western bank of Mississippi, roughly 70 miles south of New Orleans confirmed (Wikipedia says 40 miles upriver from mouth)
+  - Fort St. Philip on eastern bank confirmed
+  - National Historic Landmark 1960 confirmed
+  - National Register of Historic Places 1967 confirmed
+  - H.J. Harvey donated property and 82 acres to Plaquemines Parish in 1960 confirmed
+  - Plaquemines Parish Fair and Orange Festival since 1970 confirmed
+  - Hurricane Betsy 1965, Hurricane Camille 1969 confirmed
+  - Hurricane Katrina 2005 submerged fort, six weeks underwater with Rita confirmed
+  - Rehabilitation project completed 2011 confirmed
+  - Deepwater Horizon bird treatment 2010 confirmed
+  - Bird treatment relocated to Hammond July 4, 2010 confirmed
+- [Wikipedia - Battle of Forts Jackson and St. Philip](https://en.wikipedia.org/wiki/Battle_of_Forts_Jackson_and_St._Philip)
+  - Farragut passed forts on night of April 24, 1862 confirmed
+  - Fort Jackson surrendered April 28 confirmed
+  - Mutiny among enlisted men confirmed
+  - ISSUE: Article says bombardment began 'April 16, 1862' but sources consistently say April 18, 1862
+  - Battle lasted April 18-28 (about 10 days), not 12 days from April 16 as article implies
+- [Wikipedia - Charles Heidsieck](https://en.wikipedia.org/wiki/Charles_Heidsieck)
+  - Charles Heidsieck champagne magnate imprisoned at Fort Jackson confirmed
+  - Imprisoned for seven months confirmed (May to November 1862)
+  - Released through diplomatic intervention confirmed (Napoleon III wrote to Lincoln)
+  - NOTE: Article simplifies arrest reason as 'collecting debts from cotton merchants'; actual trigger was carrying diplomatic pouch with documents about Confederate uniform supply
+- [Plaquemines Parish - Fort Jackson Museum](https://www.plaqueminesparish.gov/272/Fort-Jackson-Museum)
+  - FACTUAL ERROR: Article says museum is 'roughly 15 miles southwest' of fort; Wikipedia says 'approximately 1 mile (1.6 km) southwest' at 38039 Hwy 23 in Buras
+
+## Review Notes
+
+**Reviewed:** 2026-02-11 · 13 facts verified · 2 corrections
+
+Two factual issues: (1) bombardment start date stated as April 16, 1862 but sources say April 18; (2) museum distance stated as 15 miles southwest but is actually ~1 mile. Heidsieck imprisonment narrative simplified but acceptable. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

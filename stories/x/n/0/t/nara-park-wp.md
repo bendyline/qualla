@@ -1,0 +1,65 @@
+# Nara Park: Where Sacred Deer Have Owned the Land for a Thousand Years
+
+Over 1,200 wild sika deer roam freely through a 660-hectare cultural landscape of World Heritage temples, ancient shrines, and primeval forest -- and genetic research confirms the Japanese people have been protecting this exact deer population for more than a millennium.
+
+**Location:** 34.6850, 135.8500
+
+**Categories:** park, wildlife, world-heritage, cultural-heritage, nara
+
+## Introduction
+
+Killing a deer in Nara was a capital offense. The last person executed for it died in 1637, but the law reflected something far older than any statute: a belief, stretching back to the founding of Kasuga Grand Shrine in 768 AD, that the deer of this park are sacred messengers of the god Takemikazuchi. According to tradition, Takemikazuchi arrived from Kashima Shrine in present-day Ibaraki Prefecture riding a white deer, and from that moment the animals became divine. In 2023, large-scale genetic research confirmed what legend had long claimed. The sika deer of Nara Park carry a single mitochondrial DNA genotype not found anywhere else on the Kii Peninsula -- a genetic signature that diverged from the surrounding population roughly 1,400 years ago, aligning almost exactly with the year the shrine was built. The Japanese people have been protecting these specific deer for more than a thousand years, and the deer carry the proof in their DNA.
+
+## From Temple Grounds to Public Park
+
+Nara Park began modestly in 1880, when fourteen hectares within the government-owned grounds of Kofuku-ji were designated as parkland. The park expanded dramatically in 1889 when Todai-ji, the Kasugano meadows, and mountainous areas including Mount Wakakusa were incorporated, pushing the total to 535 hectares. Between 1949 and 1951, temple grounds lost their park designation, trimming the area to 500 hectares. In 1960, the Urban Park Act formally established Nara Park at 502 hectares. But the Nara Prefectural Government considers the real park to be something larger -- 660 hectares that include the surrounding Shinto shrines, Buddhist temples, and cultural sites. Within this broader landscape sit World Heritage Sites registered as the Historic Monuments of Ancient Nara: Todai-ji, Kofuku-ji, Kasuga Grand Shrine, and the Kasugayama Primeval Forest. There are 47 buildings designated as National Treasures or Important Cultural Properties, and 374 designated works of art and craft scattered among the temples.
+
+## The Deer and Their Domain
+
+More than 1,200 wild sika deer roam freely through Nara Park, classified as a natural treasure by the Ministry of Education, Culture, Sports, Science and Technology. They wander between temple compounds, across lawns, and among the more than 1,000 stone lanterns of Kasuga Grand Shrine. After World War II, the deer were officially stripped of their sacred status, but that administrative change did nothing to alter the reality on the ground -- the deer still own the park. They share the landscape with wild boar, Japanese raccoon dogs, Japanese giant flying squirrels, and Japanese squirrels, among pine, cherry blossom, maple, plum, and Japanese cedar. But the deer dominate. They approach tourists, they block pathways, and they have learned to bow -- or at least dip their heads in what looks like a bow -- for the wheat flour and rice bran crackers that visitors buy from stands throughout the park.
+
+## The Problem of Being Loved Too Much
+
+The relationship between tourists and deer has grown complicated. In 2016, a record 121 people were injured by deer in the park. By 2017-2018, at least 164 injuries had been recorded, most involving tourists who teased the animals during feeding. In April 2018, Nara city installed multilingual signs warning visitors that these are wild animals. The deer population reached roughly 1,500 by 2017, well above the estimated carrying capacity of 780 derived from the park's lawn area. A 2009 study by Harumi Torii at Nara University of Education found that park deer were malnourished -- male deer weighed only about 30 kilograms compared to the 50-kilogram average elsewhere, and femur marrow coloring confirmed chronic nutritional stress. The tourist crackers that supplement their diet are nutritionally unbalanced. Yet the average deer lifespan in the park reaches 20 years, far exceeding wild populations, because humans care for injured, sick, and pregnant animals. In 2017, authorities began a limited culling program in zones outside the park core.
+
+## When the Tourists Stopped Coming
+
+The COVID-19 pandemic in 2020 created an unintended experiment. Travel restrictions emptied the park of the tourists who had been a major food source. Deer wandered beyond park boundaries in search of food, raising fears of vehicle strikes and plastic ingestion. Some deer, apparently dependent on crackers, stood in front of grass and refused to eat it. Others adapted, returning to natural grazing -- researchers noted that their intestinal health and feces quality actually improved. The deer population dipped in 2020 and 2021 before climbing over the next four years to 1,465 in 2025, a record high. Injuries to humans have also risen since 2021 as tourist numbers recovered. The pandemic revealed the fragility of the arrangement: wild animals whose survival had become partly dependent on the rhythms of global tourism, living in a park whose cultural significance stretches back to the eighth century.
+
+## A Living World Heritage
+
+Nara Park is one of the oldest parks in Japan, established in 1880, but the landscape it protects is far older. The Kasugayama Primeval Forest on its eastern border has been off-limits to logging for centuries -- a rare patch of old-growth forest within an urban area. The park shelters natural monuments including the habitat of the Panchala ganesa butterfly and the Nageia nagi tree forest of Kasuga Grand Shrine. From the foot of Mount Wakakusa, the view sweeps across temple rooftops, deer-dotted meadows, and forest canopy in a scene that has remained remarkably unchanged for generations. The park is served by Kintetsu Nara Station, connecting it to Osaka in under an hour. It has appeared in works from Alt-J's 2014 album to the anime My Deer Friend Nokotan. But no cultural reference captures what the genetic research proved: this is a place where humans and deer have kept a covenant, unbroken, for more than a thousand years.
+
+## Flight Context
+
+Located at 34.69°N, 135.85°E at the foot of Mount Wakakusa (342m) in the city of Nara. From altitude, the park appears as a large green expanse on the eastern side of Nara city, with the massive roof of Todai-ji's Great Buddha Hall (Daibutsuden) clearly visible as a landmark. The Kasugayama Primeval Forest forms a dark green canopy to the east. Best viewed at 2,000-3,000 feet AGL to appreciate the park's scale and the temple compounds within it. Osaka Itami Airport (RJOO) lies approximately 25 nautical miles west. Kansai International Airport (RJBB) is about 40 nautical miles south-southwest. The park covers roughly 660 hectares including surrounding temple grounds.
+
+## Sources
+
+- [Nara Park - Wikipedia](https://en.wikipedia.org/?curid=9907259)
+  - 1637 last execution for killing a deer
+  - Kasuga Grand Shrine 768 AD
+  - 2023 genetic research confirmed unique mitochondrial DNA
+  - 1,465 deer in 2025 record high
+  - 2016 injury record ~121 (minor source variance 118-121)
+  - 1880 park establishment
+  - 660 hectares including surrounding sites
+  - COVID-2020 tourist absence deer behavior changes noted
+
+## Review Notes
+
+**Reviewed:** 2026-02-18 · 9 facts verified · 0 corrections
+
+9 facts verified: 1637 last execution, Kasuga 768 AD, 2023 genetic research unique DNA, 1465 deer 2025 record, 2016 injury ~121, 1880 park establishment, 660 ha, COVID deer behavior. All clear.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- 'the deer still own the park'
+- 'loved too much' framing
+
+---
+
+*Word count: 870*
+*Read time: 5 minutes*

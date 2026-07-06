@@ -1,0 +1,70 @@
+# Akal Takht
+
+The highest seat of Sikh temporal authority, the Akal Takht has been built, destroyed, and rebuilt across four centuries, embodying the faith's insistence that spiritual life and political sovereignty are inseparable.
+
+**Location:** 31.6206, 74.8753
+
+**Categories:** religion, history, architecture, india, sikhism
+
+## Introduction
+
+Two swords, not one. That was the statement Guru Hargobind made in 1606 when he ascended a nine-foot-high platform directly facing the Harmandir Sahib in Amritsar and strapped on a blade for each hand. One sword represented piri -- spiritual authority. The other represented miri -- temporal power over worldly affairs. The platform was the Akal Bunga, later known as the Akal Takht, and its message was radical: the Sikh faith would not retreat from politics. It would govern. Situated just meters from what the world calls the Golden Temple, the Akal Takht has served as the supreme seat of earthly authority for the Khalsa, the collective body of initiated Sikhs, for over four hundred years.
+
+## A Throne Facing a Temple
+
+The deliberate placement tells the entire story. The Harmandir Sahib, the holiest Sikh shrine, represents the divine. The Akal Takht, built directly opposite, represents the human obligation to act in the world. Guru Hargobind, the sixth Sikh Guru, constructed the original platform with the help of Baba Buddha and Bhai Gurdas, two of the most revered figures in early Sikh history. From this raised slab of brick and concrete, the Guru addressed the congregation on matters of justice, defense, and community welfare. Over time, a hall was erected around the platform, and the Akal Takht became the place where hukamnamas -- edicts binding on all Sikhs -- were issued. The jathedar of the Akal Takht is the supreme spokesperson for the Sikh community worldwide, a position of enormous moral and political weight.
+
+## The June That Scarred a Faith
+
+In the early 1980s, the Akal Takht became a flashpoint in the conflict between the Indian government and Sikh separatists. Jarnail Singh Bhindranwale, a militant leader, fortified himself within the Golden Temple complex, eventually taking position in the Akal Takht itself. Between 1 and 10 June 1984, Prime Minister Indira Gandhi ordered Operation Blue Star, a military assault to dislodge him. Indian Army tanks and artillery pounded the Akal Takht. Bhindranwale was killed in the ensuing firefight. The building -- centuries of accumulated architecture, frescoes, and sacred memory -- was left in ruins. For Sikhs around the world, the destruction was not merely architectural. It was an assault on the seat of their sovereignty, a violation that no military justification could erase. Gandhi herself was assassinated by her Sikh bodyguards five months later, an act widely understood as revenge for the operation.
+
+## Rebuilt, Demolished, Rebuilt Again
+
+What followed was almost as painful as the destruction. The Indian government dispatched Buta Singh, the union home minister, to arrange reconstruction. Baba Santa Singh, jathedar of the Budha Dal, agreed to lead the rebuilding using government resources and personnel. Many Sikhs were furious, dismissing the effort as "sarkari seva" -- government service -- a tainted restoration directed by the very power that had ordered the attack. Marble lion figurines were added to the structure, but they survived only until January 1986, when the entire government-built Akal Takht was demolished to make way for a new structure built by the Sikh community on its own terms. During the demolition, the original raised platform Guru Hargobind had consecrated nearly four centuries earlier was nearly destroyed as well. Only the protest of Giani Mohinder Singh, an elderly former SGPC secretary who alerted the jathedar, saved the ancient slab from oblivion.
+
+## What Was Lost in the Rebuilding
+
+The present-day Akal Takht gleams with fresh paint and gilding, but conservators have raised alarms about what it lacks. The original structure contained frescoes painted with naturally sourced pigments in the traditional Sikh art style -- intricate floral motifs and spiritual imagery that had developed over centuries. The current building uses enamel and synthetic paints, bright colors that the Indian National Trust for Art and Cultural Heritage has called "alien to the traditional Sikh school of art." Sukhdev Singh, INTACH's state convener, urged renovators to use "old materials and styles, in consonance with what is in the sanctum sanctorum of the Golden Temple." The SGPC supervisor countered that traditional methods were "impracticable." It is a debate that extends beyond aesthetics. What does authenticity mean when the original was destroyed by force? Can heritage be rebuilt, or only remembered?
+
+## Authority, Contested and Enduring
+
+The Akal Takht remains the supreme governing institution of the Sikh faith, but even its leadership is now divided. The Shiromani Gurdwara Parbandhak Committee, which manages Sikh gurdwaras, appointed Giani Kuldip Singh Gargaj as acting jathedar in 2025. However, a Sarbat Khalsa -- a grand assembly of the Sikh community organized in 2015 by dissident groups -- had already declared Jagtar Singh Hawara as jathedar. Hawara remains politically imprisoned, and the Sarbat Khalsa appointed Dhian Singh Mand as acting jathedar in his place. The SGPC refuses to recognize these appointments. The dispute mirrors a tension embedded in the Akal Takht's DNA since 1606: who speaks for the Sikhs? The institution Guru Hargobind built to unify spiritual and temporal authority now embodies the difficulty of that very aspiration. The two swords still hang in the balance.
+
+## Flight Context
+
+Located at 31.62N, 74.88E in the heart of Amritsar, Punjab. The Golden Temple complex, including the Akal Takht, is visible as a bright golden structure surrounded by the sacred pool (Amrit Sarovar) in the dense urban fabric of the old city. Nearest airport is Sri Guru Ram Dass Jee International Airport (VIAR), approximately 11 km northwest. Best viewed at 5,000-8,000 feet. The glistening golden dome of the Harmandir Sahib is a strong visual landmark even at higher altitudes.
+
+## Sources
+
+- [Akal Takht - Wikipedia](https://en.wikipedia.org/?curid=2641294)
+  - Guru Hargobind established Akal Takht in 1606 confirmed (platform built 1606, construction completed ~1609)
+  - Guru Hargobind is the sixth Sikh Guru confirmed
+  - Two swords representing miri (temporal) and piri (spiritual) authority confirmed
+  - Corrected: 'Between 3 and 8 June 1984' → 'Between 1 and 10 June 1984' (Operation Blue Star ran June 1-10, 1984; main assault on Akal Takht was June 5-6)
+  - Bhindranwale killed in Operation Blue Star confirmed
+  - Indira Gandhi assassinated by Sikh bodyguards five months later confirmed
+  - Government-built Akal Takht demolished January 1986 confirmed
+  - Buta Singh sent to arrange reconstruction confirmed
+  - Baba Santa Singh led government-funded rebuilding confirmed
+  - Giani Mohinder Singh saved original platform from destruction confirmed
+  - INTACH concerns about synthetic paints replacing traditional frescoes confirmed
+- [Operation Blue Star - Wikipedia](https://en.wikipedia.org/wiki/Operation_Blue_Star)
+  - Operation dates June 1-10, 1984 confirmed
+  - Tanks and artillery damaged Akal Takht confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 11 facts verified · 1 correction
+
+Corrected: 'Between 3 and 8 June 1984' changed to 'Between 1 and 10 June 1984' — Operation Blue Star ran June 1-10 1984, with the main assault on the Akal Takht on June 5-6. Verified: Guru Hargobind sixth Sikh Guru, miri-piri doctrine 1606, two swords, government-rebuilt Akal Takht demolished January 1986, Buta Singh arranged reconstruction, Baba Santa Singh led rebuilding, Giani Mohinder Singh saved original platform, INTACH concerns about synthetic paints.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- For Sikhs around the world, the destruction was not merely architectural. It was an assault on the seat of their sovereignty, a violation that no military justification could erase.
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

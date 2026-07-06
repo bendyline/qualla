@@ -981,5 +981,24 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u22h-innsbruck-flight-context.mp3",
+      "u22h-innsbruck-intro.mp3",
+      "u22h-innsbruck-where-mountains-frame-everything.mp3",
+      "u22h-innsbruck-two-olympics-and-a-snowboard-revolution.mp3",
+      "u22h-innsbruck-the-golden-roof-and-the-old-town.mp3",
+      "u22h-innsbruck-a-city-built-for-movement.mp3"
+    ],
+    "durations": {
+      "u22h-innsbruck-flight-context.mp3": 54.9152916,
+      "u22h-innsbruck-intro.mp3": 47.9478333,
+      "u22h-innsbruck-where-mountains-frame-everything.mp3": 57.3332083,
+      "u22h-innsbruck-two-olympics-and-a-snowboard-revolution.mp3": 65.3936666,
+      "u22h-innsbruck-the-golden-roof-and-the-old-town.mp3": 61.2144166,
+      "u22h-innsbruck-a-city-built-for-movement.mp3": 58.3284583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

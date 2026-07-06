@@ -1,0 +1,65 @@
+# Staten Island Ferry
+
+The fare-free ferry that has carried New Yorkers across the harbor since 1817 offers one of the world's great commutes -- 25 minutes past the Statue of Liberty, free of charge, 24 hours a day.
+
+**Location:** 40.7014, -74.0132
+
+**Categories:** transportation, maritime, history, new-york-city
+
+## Introduction
+
+Cornelius Vanderbilt was sixteen years old in 1810 when he borrowed $100 from his mother and bought a small sailboat to ferry passengers between Staten Island and Manhattan. It was the start of a career that would make him one of the richest men in the world -- and the beginning of a transit service that, more than two centuries later, still runs the same route across New York Harbor. The Staten Island Ferry today is fare-free, operates around the clock, and carries over 25 million passengers a year on its 5.2-mile crossing. It is one of the last great bargains in New York City, and one of the best ways to see the harbor without paying a cent.
+
+## From Periaugers to Steam
+
+Long before European colonization, the Lenape people navigated the waterways around what is now Staten Island, Manhattan, and New Jersey in bark canoes and dugouts. The Dutch established New Netherland in 1624, and ferry service between the islands became a commercial necessity. Young Cornelius Vanderbilt, son of a Staten Island ferryman from Stapleton, grew up sailing his father's periauger through the harbor estuary. His own ferry operation launched an empire: within decades, he controlled steamship lines across the Eastern Seaboard. The Richmond Turnpike Company began regular steamboat service between Staten Island and Manhattan in 1817, and by the mid-nineteenth century, the Baltimore and Ohio Railroad operated the route as part of its rail-to-ferry network. The City of New York took over operations on October 25, 1905, purchasing the boats and terminals from the railroad.
+
+## The Five-Cent Ride
+
+For most of its history, the Staten Island Ferry charged a fare -- but always a remarkably low one. The nickel fare became legendary, holding steady for decades while subway and bus fares climbed. Riders paid five cents well into the twentieth century, and even when the fare eventually rose, it remained far below the cost of any comparable transit trip. In 1997, Mayor Rudy Giuliani eliminated the fare entirely, making the Staten Island Ferry one of the few free mass-transit routes in the country. The decision was partly practical -- collecting fares from the enormous passenger volume cost almost as much as the fares themselves generated -- and partly political, a gesture toward the borough that had long felt neglected by City Hall. Today, passengers board without tickets, turnstiles, or any kind of fare barrier. The only cost is your time: about 25 minutes each way.
+
+## Terminals at Both Ends
+
+The ferry route connects two terminals with very different characters. At the Manhattan end, Whitehall Terminal sits at the southern tip of the island near Battery Park, with connections to the subway's South Ferry station and several bus routes. The original 1903 terminal featured Beaux-Arts architecture identical to the Battery Maritime Building that still stands next door; it burned down in a fire on September 8, 1991, and was replaced with the current modern structure. On Staten Island, St. George Terminal anchors the borough's modest civic center, offering transfers to the Staten Island Railway and a sprawling bus terminal. A fire on June 25, 1946, killed three people and destroyed the Whitehall-route slips at St. George, disrupting service for months and permanently ending the ferry's Brooklyn route to 39th Street in Sunset Park.
+
+## Tragedy and Resilience
+
+The ferry's long history includes one devastating disaster. On October 15, 2003, at 3:21 in the afternoon, the MV Andrew J. Barberi slammed into a pier at St. George Terminal, tearing a massive gash in the lowest passenger deck. Eleven people were killed and dozens seriously injured -- the city's deadliest mass-transit incident in half a century. The captain, who had been incapacitated at the controls, was later fired, and the crash led to sweeping safety reforms across the ferry system. The Barberi was repaired and returned to service in 2004. Smaller incidents followed: the Sen. John J. Marchi lost power and hit a pier at full speed in 2009, injuring fifteen, and the same vessel struck the St. George terminal again in 2010. Each collision prompted further safety reviews. The newest generation of ferries -- the Ollis class, named for Army Staff Sergeant Michael Ollis of Staten Island, killed in Afghanistan -- entered service beginning in 2022.
+
+## The Best Free Ride in New York
+
+For tourists, the Staten Island Ferry is a revelation: a free, 25-minute cruise past the Statue of Liberty, Ellis Island, Governors Island, and the full sweep of the Lower Manhattan skyline. For commuters, it is simply the way home. The ferry departs every 15 to 20 minutes during rush hours and every 30 minutes at other times, running 24 hours a day, seven days a week. The boats themselves range from the hulking Barberi-class vessels, capable of carrying 6,000 passengers, to the newer Ollis-class ferries with their retro-inspired design. Film crews have used the route as a backdrop for decades. On a clear evening, riding the upper deck as Manhattan's lights come on across the water, it is easy to understand why. No other commute in the world offers this particular combination of grandeur and ordinariness -- a harbor crossing that doubles as one of the great views on earth, available to anyone willing to walk aboard.
+
+## Flight Context
+
+The ferry route runs 5.2 miles through New York Harbor between Whitehall Terminal at the southern tip of Manhattan (40.701N, 74.013W) and St. George Terminal on Staten Island's northeast shore. The orange-hulled ferries are clearly visible from the air crossing the harbor, often passing near the Statue of Liberty and Governors Island. Nearby landmarks include Battery Park, Ellis Island, the Verrazano-Narrows Bridge, and the full Lower Manhattan skyline. Closest airports: Newark Liberty (KEWR, 8 nm west), LaGuardia (KLGA, 12 nm northeast), JFK International (KJFK, 14 nm southeast). Best viewed at 1,500-3,000 ft AGL over the Upper Bay.
+
+## Sources
+
+- [Staten Island Ferry - Wikipedia](https://en.wikipedia.org/wiki/Staten_Island_Ferry)
+  - Vanderbilt borrowed $100 from mother at age 16 in 1810 to buy sailboat - confirmed
+  - Richmond Turnpike Company began regular steamboat service in 1817 - confirmed
+  - City of New York took over October 25, 1905 - confirmed
+  - Mayor Giuliani eliminated fare in 1997 - confirmed
+  - Ferry carries over 25 million passengers a year - confirmed
+  - 5.2-mile crossing - confirmed
+  - Original 1903 Whitehall Terminal burned September 8, 1991 - confirmed
+  - St. George Terminal fire June 25, 1946 killed three people - confirmed
+  - MV Andrew J. Barberi crash October 15, 2003 at 3:21 p.m. - confirmed
+  - Eleven people killed in 2003 crash - confirmed
+  - Sen. John J. Marchi lost power in 2009 injuring fifteen - confirmed
+  - Ollis class ferries entered service beginning 2022 - confirmed
+  - Barberi-class vessels capacity 6,000 passengers - confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 13 facts verified · 0 corrections
+
+Verified Vanderbilt age/year/loan, 1817 Richmond Turnpike steamboat service, City takeover Oct 25 1905, Giuliani fare elimination 1997, 25 million passengers, 5.2 miles, 1991 Whitehall Terminal fire, 1946 St George fire, Oct 15 2003 Barberi crash 11 killed, 2009 Marchi incident, Ollis class 2022. All confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 860*
+*Read time: 4 minutes*

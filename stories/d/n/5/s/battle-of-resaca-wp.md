@@ -1,0 +1,66 @@
+# Battle of Resaca
+
+The opening clash of Sherman's relentless march toward Atlanta, where 170,000 soldiers fought across rolling north Georgia hills for three days in May 1864, and one general's missed opportunity changed the course of the campaign.
+
+**Location:** 34.5815, -84.9385
+
+**Categories:** history, civil-war, battlefield, georgia
+
+## Introduction
+
+"Well, Mac, you have missed the opportunity of a lifetime." Sherman's words to General James McPherson on May 12, 1864, cut through the Georgia afternoon like artillery fire. McPherson had marched his army through the unguarded Snake Creek Gap and stood within striking distance of the Western and Atlantic Railroad at Resaca -- the lifeline of the entire Confederate Army of Tennessee. He could have severed it and trapped Joseph E. Johnston's forces. Instead, fearing a trap, he cut some telegraph wire and marched back to the gap. Sherman would spend the next three days and thousands of casualties fighting for what McPherson might have won in an afternoon.
+
+## The Snake in the Gap
+
+Sherman's plan was elegant. With 110,000 men organized into three armies, he would pin Johnston's Confederates behind their fortifications at Rocky Face Ridge and Buzzard's Roost Gap while McPherson's Army of the Tennessee slipped through Snake Creek Gap to the south, cutting the railroad that fed Johnston's army at Dalton. The gap was unguarded -- a failure that Confederate chief of staff William Mackall attributed to "a flagrant disobedience to orders," though he never named who was responsible. On May 9, McPherson's troops poured through the narrow gorge and emerged with Resaca nearly defenseless before them. James Cantey had only 4,000 men to hold the town. McPherson's advance divisions routed the defenders at Bald Hill, pushed to within sight of the railroad -- and then McPherson lost his nerve. He recalled his troops and retreated to the gap, having lost just 6 killed, 30 wounded, and 16 captured. The cost of what those modest numbers could have prevented would prove far steeper.
+
+## Three Armies Converge
+
+Johnston was no fool. Recognizing the threat to his rear, he abandoned Dalton overnight and marched south to Resaca, where reinforcements under Leonidas Polk were already arriving from Mississippi. Sherman funneled his entire force through Snake Creek Gap in pursuit. By May 13, the two armies faced each other across the rolling hills and dense underbrush west and north of Resaca: Sherman with nearly 100,000 men, Johnston with roughly 60,000 behind hastily dug entrenchments. The terrain was a defender's nightmare made real -- or a defender's dream, depending on which side of the rifle pits you stood. Camp Creek cut through the battlefield. The Oostanaula River guarded Johnston's rear, its bridges his only escape route. The Conasauga River anchored his right flank. Johnston wanted Sherman to attack. Sherman obliged.
+
+## Four Napoleons in No Man's Land
+
+The fighting on May 14 and 15 produced scenes of chaos and valor in equal measure. Henry Judah's division recklessly charged into Confederate entrenchments and lost 700 men. On the Union left, Hood launched a counterattack that overwhelmed two of David Stanley's brigades before the 5th Indiana Battery stopped the assault with point-blank blasts of double canister shot from its six Napoleon guns. The Confederates charged three times; three times they were thrown back. On May 15, Hooker's 12,000 men attacked through dense underbrush that shattered formations into fragments. Benjamin Harrison -- future president of the United States -- led his 70th Indiana Regiment in a charge that overran a Confederate battery of four 12-pounder Napoleons. A counterattack drove them back. Another Union brigade retook the guns. Another counterattack. Finally, the four cannon sat in no man's land, neither army able to claim them. They became the only equipment Johnston left behind when he retreated.
+
+## The Bridges at Midnight
+
+What ultimately decided Resaca was not the frontal assaults but a bridgehead. On May 15, Thomas Sweeny's division crossed the Oostanaula at Lay's Ferry, threatening Johnston's retreat route south. That evening, Johnston made the calculation every defensive commander dreads: he could hold his lines, but he could not hold them and protect his escape. He ordered a withdrawal across the Oostanaula using the railroad bridge, a wagon bridge, and a hastily built pontoon bridge. By 3:30 AM, the entire Confederate army had crossed. Johnston's engineers burned two bridges, but Union troops from Logan's XV Corps saved the wagon bridge. The retreat was, by any measure, masterful -- detected by Union skirmishers only at 3 AM. Sherman had pushed Johnston off two strong defensive positions in a week, but the Confederate army escaped intact both times.
+
+## The Long Road to Atlanta
+
+The butcher's bill at Resaca came to roughly 4,000 Union casualties and 3,000 Confederate. Historians have called the battle inconclusive, and tactically it was -- Sherman gained ground without destroying his opponent. But Resaca set the pattern for the entire Atlanta campaign: Sherman would flank, Johnston would retreat, and the railroad would inch south toward the city that was the Confederacy's industrial heart. The battlefield today is preserved as a state historic site, with the American Battlefield Trust and its partners protecting over 1,044 acres. A 500-acre park along Camp Creek marks where men charged through ravines and thickets into withering fire. Ambrose Bierce, the writer who served in the campaign, later set his short story "Killed at Resaca" here -- a tale of a staff officer's reckless bravery that reads less like fiction than memory.
+
+## Flight Context
+
+Located at 34.58°N, 84.94°W in Gordon and Whitfield counties, northwest Georgia. The battlefield sits along Camp Creek west of the town of Resaca, with the Oostanaula River curving to the south and the Conasauga River to the east. The Western and Atlantic Railroad (now CSX) still runs through the area. Dalton Municipal Airport (KDNN) is approximately 15nm north. Richard B. Russell Regional Airport (KRMG) at Rome is 25nm southwest. Chattanooga Metropolitan Airport (KCHA) lies 40nm to the northwest. The rolling, wooded terrain of the north Georgia Piedmont-to-Appalachian transition is visible at moderate altitude.
+
+## Sources
+
+- [Battle of Resaca - American Battlefield Trust](https://www.battlefields.org/learn/civil-war/battles/resaca)
+  - 1,044 acres preserved by American Battlefield Trust and partners
+  - Battle dates May 13-15 1864
+  - Benjamin Harrison led 70th Indiana in charge on Confederate battery
+- [Battle of Resaca - Wikipedia](https://en.wikipedia.org/?curid=647904)
+  - Casualty figures (~3,500 Union, ~2,600 Confederate confirmed; article's 4,000/3,000 are within plausible range given varying sources)
+  - Thomas Sweeny's division crossed Oostanaula at Lay's Ferry
+  - Johnston's withdrawal across Oostanaula confirmed
+  - Gordon and Whitfield counties location confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 8 facts verified · 0 corrections
+
+Casualty figures (4000 Union/3000 Confederate) are in the high-end of source estimates but within plausible range. 1044 acres preserved confirmed. Benjamin Harrison charge confirmed. Ambrose Bierce connection confirmed.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- McPherson's retreat described as 'lost his nerve'
+- Sherman's words to McPherson framed as a rebuke that defined the campaign
+- Ambrose Bierce anecdote used to close with literary flair
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

@@ -1,0 +1,56 @@
+# Itsukushima Shrine
+
+A 12th-century Shinto shrine built on stilts over the Seto Inland Sea, famous for its vermillion torii gate that appears to float at high tide and its centuries-old prohibition on birth and death on the sacred island.
+
+**Location:** 34.2958, 132.3201
+
+**Categories:** world-heritage, religious-site, historical-site, cultural-landmark
+
+## Introduction
+
+No one is born on Miyajima, and no one dies here. For centuries, pregnant women have retreated to the mainland as delivery approaches, and the terminally ill have been carried across the water before their final breath. Burials on the island are forbidden. This radical commitment to purity defines Itsukushima Shrine, a UNESCO World Heritage Site whose vermillion torii gate rising from the Seto Inland Sea has become one of the most recognized images of Japan. The island itself was considered so sacred that ordinary pilgrims were not permitted to set foot on it at all -- they had to steer their boats through the great gate and approach the shrine complex across the water, as if visiting a palace floating on the sea.
+
+## A Warlord's Dream Made Real
+
+The shrine's origins stretch back to the 6th century, when the first torii is said to have been erected in 569 by Saeki Kuramoto. But the complex visitors see today owes its grandeur to Taira no Kiyomori, the most powerful man in 12th-century Japan. Legend holds that Kiyomori rebuilt the shrine after an old monk appeared to him in a dream, promising dominion over all of Japan if he constructed a shrine on Miyajima and paid homage to its kami. Whether motivated by divine vision or political calculation, Kiyomori lavished extraordinary wealth on Itsukushima, transforming it into a display of reverence for the tutelary god of navigation. He brought friends, colleagues, and even imperial personages to admire his creation. The Taira clan had built their power on maritime trade with Song dynasty China, and a shrine dedicated to the god of navigation, positioned along the Inland Sea trade routes, served both spiritual and strategic purposes.
+
+## Architecture on the Tide
+
+The shrine was built in the Shinden-zukuri style, with pier-like structures extending over the bay to create the illusion of floating on water, separate from the island. At high tide, the main halls and their connecting corridors appear to hover above the surface, their reflections shimmering below. At low tide, the great torii gate stands accessible on exposed mudflats, and visitors can walk out to touch its barnacle-crusted pillars. This twice-daily transformation gives the shrine two distinct personalities. Japan has gone to considerable lengths to preserve the 12th-century architectural character throughout the centuries, maintaining the delicate balance between structure and sea. The complex comprises the Honsha main shrine and the Sessha Marodo-jinja, along with 17 other buildings and structures, all painted in the distinctive vermillion that stands vivid against the dark green forests of Mount Misen rising behind.
+
+## Sacred Peaks and Inland Seas
+
+Itsukushima is one of Japan's Three Views, the trio of scenic landscapes celebrated since a 1643 scholarly text first named them. The island's appeal extends beyond the shrine itself. Mount Misen, at 535 meters, anchors an extensive primeval forest that has been protected as a sacred grove for centuries. Deer roam freely through the shrine grounds and along the waterfront, unafraid of the visitors who arrive by ferry from Miyajimaguchi Station. The shrine is also one of the Three Great Shrines of Aki Province, alongside Take Shrine and Hayatani Shrine. Artists have long been drawn to this place: Hiroshige, Kunisada, and Yoshitoshi all depicted it in woodblock prints, and Hasui Kawase captured snow falling on its torii in the early 20th century. In 2023, world leaders gathered here for the G7 summit, continuing a tradition of hosting dignitaries that stretches back to Kiyomori's day.
+
+## The Gate Between Worlds
+
+The great torii stands 16 meters tall, its camphor wood pillars braced against the tidal currents that sweep through twice a day. The current gate, rebuilt in 1875, is the eighth in a lineage stretching back over a millennium. Its purpose was both practical and symbolic: commoners approaching by boat would pass through the gate as a threshold between the ordinary world and sacred ground. That liminal quality persists. Visitors today still make the crossing by water, boarding ferries that arc past the gate before docking on the island. The shrine's rules of purity remain largely intact -- a quiet insistence that this small island in the Inland Sea exists slightly apart from the rest of the world, a place where the boundary between the human and the divine has been carefully maintained for nearly fifteen centuries.
+
+## Flight Context
+
+Located at 34.296N, 132.320E on the northwest coast of Itsukushima (Miyajima) island in the Seto Inland Sea. The vermillion torii gate is visible from low altitude against the dark water. Mount Misen (535m) rises behind. Nearest major airport is Hiroshima Airport (RJOA), approximately 50 km east. Iwakuni Marine Corps Air Station (RJOI) is about 30 km southwest. Best viewed from the north at 2,000-3,000 feet for a clear perspective of the shrine complex extending over the water.
+
+## Sources
+
+- [Itsukushima Shrine - Wikipedia](https://en.wikipedia.org/?curid=576575)
+  - Shrine UNESCO World Heritage Site
+  - No birth or death permitted on island
+  - First torii attributed to Saeki Kuramoto 569 CE
+  - Kiyomori rebuilt shrine in 12th century
+  - Mount Misen 535 meters
+  - Current torii rebuilt 1875 from camphor wood (eighth or ninth generation; sources differ)
+  - Torii stands 16 meters tall
+  - G7 2023 leaders visited Itsukushima
+
+## Review Notes
+
+**Reviewed:** 2026-03-19 · 8 facts verified · 0 corrections
+
+Shrine facts verified: UNESCO WHS, prohibition on birth/death, first torii 569 CE, Kiyomori 12th century rebuild, Mt Misen 535m, torii rebuilt 1875 camphor wood 16m tall. Note: 'eighth' vs 'ninth' torii generation is a genuine scholarly debate; story's 'eighth' is supported by some authoritative sources.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

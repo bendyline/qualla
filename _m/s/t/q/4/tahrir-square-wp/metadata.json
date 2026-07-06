@@ -704,5 +704,24 @@
     "_m/s/t/q/4/tahrir-square-wp/kairo-tahrir-platz-01.jpg",
     "_m/s/t/q/4/tahrir-square-wp/kairo-tahrir-platz-02.jpg"
   ],
-  "updatedAt": "2026-03-31T11:04:32.928Z"
+  "updatedAt": "2026-03-31T11:04:32.928Z",
+  "narration": {
+    "files": [
+      "stq4-tahrir-square-flight-context.mp3",
+      "stq4-tahrir-square-intro.mp3",
+      "stq4-tahrir-square-the-geometry-of-protest.mp3",
+      "stq4-tahrir-square-eighteen-days.mp3",
+      "stq4-tahrir-square-ancient-monuments-modern-makeover.mp3",
+      "stq4-tahrir-square-a-square-that-cannot-be-neutral.mp3"
+    ],
+    "durations": {
+      "stq4-tahrir-square-flight-context.mp3": 48.4206666,
+      "stq4-tahrir-square-intro.mp3": 51.7264166,
+      "stq4-tahrir-square-the-geometry-of-protest.mp3": 68.2465833,
+      "stq4-tahrir-square-eighteen-days.mp3": 84.073375,
+      "stq4-tahrir-square-ancient-monuments-modern-makeover.mp3": 71.9590416,
+      "stq4-tahrir-square-a-square-that-cannot-be-neutral.mp3": 65.251125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

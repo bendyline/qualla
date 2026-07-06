@@ -1,0 +1,62 @@
+# Mausoleum of Gasr Doga
+
+A monumental first-century tomb rising from the Libyan hills near Tarhuna, where a wealthy Libyco-Punic elite member blended Hellenistic, Roman, and Numidian traditions into one of ancient Tripolitania's most imposing funerary monuments.
+
+**Location:** 32.4880, 13.6988
+
+**Categories:** archaeological sites, ancient Rome, funerary monuments, Libya, Punic culture
+
+## Introduction
+
+Sixty kilometers southwest of the ruins of Leptis Magna, on a limestone terrace overlooking Wadi Doga, a stone structure 16 meters long, 11 meters wide, and 9 meters tall has been standing for two thousand years. It is not a temple. It is not a palace. It is a tomb. The Mausoleum of Gasr Doga was built in the first century CE for a single wealthy individual, a member of the Libyco-Punic elite who controlled the hilly farmland of the Gebel Tarhuna region. Whoever they were, they wanted the world to remember them in stone, and the world has obliged.
+
+## On the Frontier Between Empires
+
+The mausoleum sits roughly 900 meters northwest of the ancient remains of Medina Doga, a settlement likely identifiable as Mesphe from Roman-era records, which has never been formally excavated. Boundary stones found nearby reveal that this landscape was a contested frontier between the territories of Leptis and Oea, the ancient city that would become modern Tripoli. In the first century AD, disputes and raids plagued the zone. Building a monumental tomb here was not merely an act of memorialization; it was a territorial claim, a statement in stone that someone of importance lived and died on this ground, and that their heirs intended to stay.
+
+## A Tomb That Speaks Three Languages
+
+The architecture of Gasr Doga draws from at least three cultural traditions. Its Corinthian column capitals and ashlar masonry construction echo Hellenistic and Roman models, with column bases resembling those from the Macellum at Leptis Magna. The monumental scale and funerary ambition reflect Numidian burial practices, which themselves borrowed from Hellenistic traditions. And the Neo-Punic inscription found on limestone blocks at the site, skillfully crafted in monumental script and estimated to have spanned at least four meters, ties the structure to the indigenous Libyco-Punic culture that predated Roman dominance. The mausoleum's owner lived at a cultural crossroads, benefiting from Romanization and the road that Aelius Lamia's proconsulate built connecting Gebel Tarhuna to the coast, while maintaining the burial traditions of their Numidian ancestors.
+
+## Beneath the Steps
+
+The mausoleum rests on a platform of four steps, rising in two superimposed storeys of ashlar masonry: a lower storey measuring 3.45 meters in height and an upper storey of 2.9 meters. Both feature socles at the bottom, cornices at the top, and shallow angle pilasters at the corners. A distinctive U-shaped plan, created by adding wings to a rectangular core, gives the southern facade a dramatic frontality. Traces of a colonnaded portico that once crowned the podium remain visible, with alternating projecting blocks that served as pedestals for column bases. But the most evocative spaces are underground. A short flight of steps descends from the facade to a shaft, which opens into a series of corridors and vaulted funerary chambers, identical in shape and size, where the dead were laid to rest in darkness while their monument blazed above them in the Libyan sun.
+
+## Castle After the Tomb
+
+The Arabic word gasr, commonly used across North Africa for ancient mausoleums, translates to "castle" or "fortified structure," and in Gasr Doga's case the name became literally true. In late antiquity, the monument was converted into a fortified watchtower, surrounded by a village with a defensive ditch. The original stone was repurposed for houses and walls. Pottery recovered from the site spans the fourth to twelfth centuries AD, including fragments of late Tripolitanian Red Slip Ware and a fifth-century bronze coin. The podium's surface is covered with graffiti ranging from Arabic inscriptions to figurative drawings depicting hunting scenes, artistic expressions of the local Libyco-Berber culture dating from the fifth to the twelfth century. A monument built for the dead became a village for the living, and its walls accumulated new stories for a thousand years.
+
+## Rediscovery in the Wadi
+
+European scholars first noticed Gasr Doga in the nineteenth century. William H. Smyth documented the site in 1817, followed by Heinrich Barth in 1849, who produced the first published image. Gerhard Rohlfs visited in 1887, Henry S. Cowper in 1897, and Federico Minutilli in 1912. Their accounts describe structures in significantly better condition than what survives today. In the early twentieth century, Salvatore Aurigemma conducted extensive documentation, and his 1954 publication remains a key reference. Modern archaeological campaigns from 1999 to 2001, led by the Roma Tre University under Professor Luisa Musso, brought contemporary methods to bear on the site. Two inscribed limestone blocks discovered in 1995 and 1999, bearing grey stone with a pink patina, may hold clues to the identity of the person who built this imposing monument at the edge of two empires. The inscription remains only partially deciphered, the tomb's occupant still guarding their name after twenty centuries.
+
+## Flight Context
+
+Located at 32.49N, 13.70E near Tarhuna in the hilly interior of northwestern Libya, approximately 60 km southwest of Leptis Magna. The mausoleum sits on a limestone terrace overlooking Wadi Doga. Mitiga International Airport (HLLM) in Tripoli is approximately 75 km to the northwest. Tripoli International Airport (HLLT) is about 60 km to the west-northwest. From 3,000-5,000 ft, the structure may be visible on the terrace edge, though the surrounding terrain of rolling hills and wadi channels makes it easier to spot from lower altitudes.
+
+## Sources
+
+- [Mausoleum of Gasr Doga - Wikipedia](https://en.wikipedia.org/?curid=76701138)
+  - Dimensions: 16 meters long, 11 meters wide, 9 meters tall confirmed
+  - First-century CE construction confirmed
+  - Located near Tarhuna approximately 60 km southwest of Leptis Magna confirmed
+  - Built for member of Libyco-Punic elite confirmed
+  - Architecture draws from Hellenistic, Roman, and Numidian traditions confirmed
+  - William H. Smyth documented site in 1817 confirmed
+  - Heinrich Barth visited in 1849 confirmed
+  - Roma Tre University excavations 1999-2001 under Professor Luisa Musso confirmed
+  - Neo-Punic inscription found on limestone blocks confirmed
+  - Medieval pottery and Arabic graffiti found on site confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 10 facts verified · 0 corrections
+
+All facts verified: dimensions 16x11x9 meters, first-century CE date, location 60km SW of Leptis Magna, Libyco-Punic elite attribution, Roma Tre University excavations 1999-2001 under Luisa Musso, Smyth 1817 visit. No corrections needed.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 810*
+*Read time: 4 minutes*

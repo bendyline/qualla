@@ -717,5 +717,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wd0k-south-china-sea-flight-context.mp3",
+      "wd0k-south-china-sea-intro.mp3",
+      "wd0k-south-china-sea-where-continents-drowned.mp3",
+      "wd0k-south-china-sea-crossroads-of-empires.mp3",
+      "wd0k-south-china-sea-over-two-hundred-islands-nobody-owns.mp3",
+      "wd0k-south-china-sea-the-nine-dash-line-and-the-worlds-response.mp3"
+    ],
+    "durations": {
+      "wd0k-south-china-sea-flight-context.mp3": 65.7030833,
+      "wd0k-south-china-sea-intro.mp3": 48.7247916,
+      "wd0k-south-china-sea-where-continents-drowned.mp3": 74.4945,
+      "wd0k-south-china-sea-crossroads-of-empires.mp3": 73.29275,
+      "wd0k-south-china-sea-over-two-hundred-islands-nobody-owns.mp3": 84.378625,
+      "wd0k-south-china-sea-the-nine-dash-line-and-the-worlds-response.mp3": 91.2799583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

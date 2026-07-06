@@ -671,5 +671,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qux2-tennant-creek-flight-context.mp3",
+      "qux2-tennant-creek-intro.mp3",
+      "qux2-tennant-creek-warumungu-country.mp3",
+      "qux2-tennant-creek-australias-last-gold-rush.mp3",
+      "qux2-tennant-creek-rocky-ranges-and-brilliant-skies.mp3",
+      "qux2-tennant-creek-the-long-road-in.mp3"
+    ],
+    "durations": {
+      "qux2-tennant-creek-flight-context.mp3": 58.218875,
+      "qux2-tennant-creek-intro.mp3": 41.39825,
+      "qux2-tennant-creek-warumungu-country.mp3": 69.4689166,
+      "qux2-tennant-creek-australias-last-gold-rush.mp3": 80.1784583,
+      "qux2-tennant-creek-rocky-ranges-and-brilliant-skies.mp3": 77.2299583,
+      "qux2-tennant-creek-the-long-road-in.mp3": 75.156125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

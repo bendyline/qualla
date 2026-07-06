@@ -55,5 +55,24 @@
     "sourceGeohash4": "dr5r"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "dr5r-crown-heights-riot-flight-context.mp3",
+      "dr5r-crown-heights-riot-intro.mp3",
+      "dr5r-crown-heights-riot-a-neighborhood-already-on-edge.mp3",
+      "dr5r-crown-heights-riot-three-days-of-violence.mp3",
+      "dr5r-crown-heights-riot-grief-justice-and-politics.mp3",
+      "dr5r-crown-heights-riot-toward-mending.mp3"
+    ],
+    "durations": {
+      "dr5r-crown-heights-riot-flight-context.mp3": 52.9035416,
+      "dr5r-crown-heights-riot-intro.mp3": 37.630125,
+      "dr5r-crown-heights-riot-a-neighborhood-already-on-edge.mp3": 54.9626666,
+      "dr5r-crown-heights-riot-three-days-of-violence.mp3": 70.8480833,
+      "dr5r-crown-heights-riot-grief-justice-and-politics.mp3": 70.996625,
+      "dr5r-crown-heights-riot-toward-mending.mp3": 66.8836666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

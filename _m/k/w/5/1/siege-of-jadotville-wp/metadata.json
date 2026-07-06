@@ -120,5 +120,26 @@
   "galleryPaths": [
     "_m/k/w/5/1/siege-of-jadotville-wp/photo-d-un-fouga-lors.jpg",
     "_m/k/w/5/1/siege-of-jadotville-wp/duty-congo.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kw51-siege-of-jadotville-flight-context.mp3",
+      "kw51-siege-of-jadotville-intro.mp3",
+      "kw51-siege-of-jadotville-the-congos-unraveling.mp3",
+      "kw51-siege-of-jadotville-trapped-at-the-end-of-a-road.mp3",
+      "kw51-siege-of-jadotville-the-perimeter-holds.mp3",
+      "kw51-siege-of-jadotville-decades-of-derision.mp3",
+      "kw51-siege-of-jadotville-the-day-hammarskjold-died.mp3"
+    ],
+    "durations": {
+      "kw51-siege-of-jadotville-flight-context.mp3": 53.3924166,
+      "kw51-siege-of-jadotville-intro.mp3": 48.4011666,
+      "kw51-siege-of-jadotville-the-congos-unraveling.mp3": 58.61575,
+      "kw51-siege-of-jadotville-trapped-at-the-end-of-a-road.mp3": 59.839375,
+      "kw51-siege-of-jadotville-the-perimeter-holds.mp3": 70.372375,
+      "kw51-siege-of-jadotville-decades-of-derision.mp3": 74.5867083,
+      "kw51-siege-of-jadotville-the-day-hammarskjold-died.mp3": 64.205875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

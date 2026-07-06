@@ -1,0 +1,51 @@
+# Ji Xiaolan Residence
+
+A Qing dynasty courtyard house in Beijing where the scholar Ji Xiaolan wrote his famous ghost stories, later home to an opera legend, a Communist Party school, and a restaurant where presidents ate crispy duck.
+
+**Location:** 39.8886, 116.3811
+
+**Categories:** history, literature, architecture, beijing
+
+## Introduction
+
+The wisteria Ji Xiaolan planted in his courtyard more than two centuries ago still blooms each spring, draping purple flowers so thick they touch the ground. Ji wrote about these vines himself in his famous collection Fantastic Tales by Ji Xiaolan: "When it blooms, the flowers hang down to the ground like purple clouds, overwhelming people with their fragrance." The plants have outlasted every human drama that has unfolded in the courtyard around them -- the scholar's own decades of writing, the procession of notable owners who followed, the near-demolition in 2000, and the restaurant whose crispy fried duck drew American presidents through the front door.
+
+## The Scholar and the Stone
+
+The residence at No. 241 West Main Street at Zhushikou originally belonged to Yue Zhongqi, a descendant of the famous Song dynasty general Yue Fei and himself a powerful Minister of War and Governor-General of Shanxi and Gansu provinces under the Yongzheng Emperor. Ji Yun, known by his literary name Ji Xiaolan, lived in the house during two periods of his life: from age 11 to 39, and again from 48 to 82. He called it Yuewei Cottage, and it was here that he composed his most celebrated work, a vast collection of supernatural tales blending ghost stories with social commentary. In the courtyard stood a Taihu stone about seven or eight feet tall, said to be a gift from the Yongzheng Emperor, transported from Tuer Mountain. Ji called himself "The Old Man of the Lonely Stone" in its honor. The original stones were later moved to Yingtai in Zhongnanhai, the compound that now serves as China's seat of government.
+
+## From Opera to Shanxi Cuisine
+
+After Ji Xiaolan's death, the residence passed through a remarkable series of hands. The Zhili Guild Hall claimed the inscribed board reading "Yuewei Cottage" from above one doorway. Mei Lanfang, arguably the most famous Peking opera performer in Chinese history, owned the property at one point and established the National Opera Association there. Other notable owners included the connoisseur Zhang Boju and opera artist Xiao Changhua. In the 1950s, the courtyard became a Communist Party school in Xuanwu District. Then, in October 1959, with the support of Peng Zhen, then mayor of Beijing, a Shanxi cuisine restaurant called Jinyang Restaurant opened within the historic walls. The literary connection drew writers to the tables -- Lao She, Zang Kejia, and Cao Yu all gathered there to admire the ancient vines.
+
+## Presidents and Preservation
+
+The Jinyang Restaurant became internationally known for its crispy fried duck, a Shanxi specialty that attracted some unexpected diners. Former U.S. President George H.W. Bush dined there, as did Secretaries of State George Shultz and Colin Powell. The residence earned protected status in 1986 as a Major Site Protected for Its Historical and Cultural Value. In 2000, the widening of Liangguang Road threatened to demolish the courtyard entirely. Experts protested, the public rallied, and the construction plans were revised to save the building. In 2002, the Jinyang Restaurant relocated to a hall on the east side, and the government invested in restoring the residence, opening it to the public. In 2003, it was elevated to Beijing's municipal-level list of protected heritage sites. The flowering quince and wisteria that Ji Xiaolan planted still grow in the courtyard, producing their remarkable aroma each spring -- living links to a scholar who wrote about ghosts in a house that itself refused to die.
+
+## Flight Context
+
+Located at 39.889N, 116.381E in the Zhushikou area of Xicheng District, Beijing. The residence is at No. 241 West Main Street, south of Tiananmen Square near the intersection of major roads. Nearest airports: ZBAA (Beijing Capital International, 27 km NE) and ZBAD (Beijing Daxing International, 44 km S). The courtyard is not individually visible from altitude but sits in the dense historic fabric of southern Beijing. Best viewed at 2,000-3,000 ft AGL.
+
+## Sources
+
+- [Ji Xiaolan Residence - Wikipedia](https://en.wikipedia.org/?curid=35408314)
+  - Residence at No. 241 West Main Street at Zhushikou
+  - Ji Yun (Ji Xiaolan) lived there age 11-39 and 48-82
+  - Named the residence Yuewei Cottage
+  - Mei Lanfang owned property and established National Opera Association there
+  - Jinyang Restaurant opened October 1959 with support of Beijing mayor Peng Zhen
+  - Protected status granted 1986
+  - In 2000 widening of Liangguang Road threatened demolition; saved by public protest
+
+## Review Notes
+
+**Reviewed:** 2026-03-19 · 7 facts verified · 0 corrections
+
+Verified address at 241 West Main Street Zhushikou, Ji Yun lived there two periods, named Yuewei Cottage, Mei Lanfang owned property, Jinyang Restaurant opened October 1959, protected 1986, saved from demolition 2000. All facts accurate.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 710*
+*Read time: 4 minutes*

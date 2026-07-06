@@ -135,5 +135,26 @@
     "_m/w/2/1/z/battlebox-wp/door-of-the-battle-box-singapo.jpg",
     "_m/w/2/1/z/battlebox-wp/the-battle-box-ticketing-offic.jpg"
   ],
-  "updatedAt": "2026-04-01T10:21:52.242Z"
+  "updatedAt": "2026-04-01T10:21:52.242Z",
+  "narration": {
+    "files": [
+      "w21z-battlebox-flight-context.mp3",
+      "w21z-battlebox-intro.mp3",
+      "w21z-battlebox-the-fortress-that-wasnt.mp3",
+      "w21z-battlebox-thirty-feet-down.mp3",
+      "w21z-battlebox-nine-days-in-february.mp3",
+      "w21z-battlebox-lost-and-found.mp3",
+      "w21z-battlebox-below-the-park-above-the-past.mp3"
+    ],
+    "durations": {
+      "w21z-battlebox-flight-context.mp3": 43.8327083,
+      "w21z-battlebox-intro.mp3": 46.696375,
+      "w21z-battlebox-the-fortress-that-wasnt.mp3": 62.9354166,
+      "w21z-battlebox-thirty-feet-down.mp3": 62.7241666,
+      "w21z-battlebox-nine-days-in-february.mp3": 59.885875,
+      "w21z-battlebox-lost-and-found.mp3": 57.6300833,
+      "w21z-battlebox-below-the-park-above-the-past.mp3": 68.3340833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

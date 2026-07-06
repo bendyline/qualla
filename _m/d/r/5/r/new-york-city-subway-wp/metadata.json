@@ -1074,5 +1074,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr5r-new-york-city-subway-flight-context.mp3",
+      "dr5r-new-york-city-subway-intro.mp3",
+      "dr5r-new-york-city-subway-a-tunnel-under-broadway.mp3",
+      "dr5r-new-york-city-subway-three-systems-become-one.mp3",
+      "dr5r-new-york-city-subway-never-closed-never-finished.mp3",
+      "dr5r-new-york-city-subway-the-culture-below.mp3",
+      "dr5r-new-york-city-subway-a-map-of-the-city-itself.mp3"
+    ],
+    "durations": {
+      "dr5r-new-york-city-subway-flight-context.mp3": 44.106,
+      "dr5r-new-york-city-subway-intro.mp3": 39.2465,
+      "dr5r-new-york-city-subway-a-tunnel-under-broadway.mp3": 69.067,
+      "dr5r-new-york-city-subway-three-systems-become-one.mp3": 67.129875,
+      "dr5r-new-york-city-subway-never-closed-never-finished.mp3": 71.0217083,
+      "dr5r-new-york-city-subway-the-culture-below.mp3": 62.4497083,
+      "dr5r-new-york-city-subway-a-map-of-the-city-itself.mp3": 60.2799583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

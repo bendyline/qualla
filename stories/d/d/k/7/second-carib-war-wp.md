@@ -1,0 +1,61 @@
+# Second Carib War
+
+From 1795 to 1797, the Garifuna people of Saint Vincent fought to defend their homeland against British colonial forces. Their resistance ended in mass deportation: nearly 5,000 people shipped to the barren island of Baliceaux, where roughly half died, before survivors were exiled to Roatan, Honduras.
+
+**Location:** 13.2500, -61.2000
+
+**Categories:** Wars involving Saint Vincent and the Grenadines, Garifuna, 18th century in the Caribbean, Slavery in the British West Indies
+
+## Introduction
+
+Joseph Chatoyer did not start a rebellion. He defended his people's land. In March 1795, the Paramount Chief of the Garifuna -- the people the British called "Black Caribs" -- led a coordinated uprising against a colonial administration that had been encroaching on Garifuna territory for decades. Chatoyer divided command of the resistance with his brother Duvalle, one covering the leeward coast, the other the windward, with the aim of converging on Kingstown. Within weeks, the Garifuna controlled most of Saint Vincent. It was a remarkable military achievement by an indigenous people fighting to remain on the land they had inhabited for generations. It would end, two years later, in one of the Caribbean's most devastating acts of forced removal.
+
+## Generations of Grievance
+
+The roots of the conflict ran deep. The First Carib War, fought from 1769 to 1773, had ended in a stalemate and a peace treaty that was supposed to guarantee Garifuna land rights. The British largely ignored it. After France captured Saint Vincent in 1779 during the American War of Independence, the Treaty of Paris in 1783 returned the island to British control, and the cycle of colonial encroachment resumed. The Garifuna watched their territory shrink as plantation owners expanded sugar cultivation into lands the treaty had set aside. By the 1790s, French Revolutionary advisors saw an opportunity to undermine Britain in the Caribbean and offered support to the Garifuna cause. The alliance was pragmatic: the Garifuna wanted their land, and the French wanted to weaken a rival empire. But the grievances that drove the uprising were not French inventions. They were the accumulated injuries of three decades of broken promises.
+
+## A War the British Nearly Lost
+
+What followed was not the swift colonial suppression the British anticipated. The Garifuna, allied with French forces and formerly enslaved people, proved formidable fighters on terrain they knew intimately. They held most of the island for months, driving British forces back to the area immediately around Kingstown. Repeated British attempts to push into the mountainous interior and windward coast were frustrated by disease, logistical failures, and Garifuna defensive skill. The arrival of French troops further strengthened the resistance. Only when the British captured Saint Lucia to the north in 1796, cutting off French supplies and reinforcements, did the tide begin to turn. In 1797, a major military expedition under General Ralph Abercromby finally overwhelmed the Garifuna resistance. Chatoyer himself had been killed in March 1795, struck down by Major Alexander Leith at Dorsetshire Hill on the very first day of the war. But the people he had united fought on for two more years without him.
+
+## The Deportation
+
+What the British did next went beyond military victory. They rounded up nearly 5,000 Garifuna men, women, and children and deported them to Baliceaux, a small, barren island in the Grenadines with no fresh water and no infrastructure. Conditions there were catastrophic. Starvation, disease, and exposure killed roughly half the captives during seven months of imprisonment. Of the 4,776 people sent to Baliceaux, approximately 2,445 died before the British loaded the survivors onto transport ships. On April 12, 1797, a total of 2,026 Garifuna -- 664 men and 1,362 women and children -- arrived on the island of Roatan, off the coast of Honduras. They had been removed not just from their homes but from their homeland, deposited 1,700 miles away on a Spanish-ruled island where they knew no one. The graves of those who died on Baliceaux have never been officially marked or excavated.
+
+## A People Who Survived
+
+The British intended the deportation as a final solution to the Garifuna presence on Saint Vincent. It was not. From Roatan, the survivors spread along the Central American coast, establishing communities in what are now Honduras, Belize, Guatemala, and Nicaragua. They carried their language, their music, their spiritual practices, and their memory of Yurumein -- their name for Saint Vincent. Today, Garifuna communities number in the hundreds of thousands across Central America and the United States. Their language is recognized by UNESCO. Garifuna Settlement Day is a national holiday in Belize, celebrated each November 19. And every March, on National Heroes Day in Saint Vincent, Garifuna descendants make a pilgrimage to Baliceaux to honor the ancestors who perished there. Joseph Chatoyer, the chief who fell on the first day of the war he organized, was declared Saint Vincent's first National Hero in 2002. The story the British tried to end continues to be told by the people who lived it.
+
+## Flight Context
+
+The Second Carib War took place across the island of Saint Vincent, centered around 13.25N, 61.20W. Kingstown, the colonial capital the Garifuna besieged, lies on the southwestern coast. Dorsetshire Hill, where Chatoyer was killed, overlooks the capital. Nearest airport: Argyle International Airport (TVSA/SVD). The mountainous interior that frustrated British military campaigns is visible as densely forested terrain rising toward La Soufriere in the north. Baliceaux (12.95N, 61.13W), the island where Garifuna prisoners were held, is visible as a small island southeast of Saint Vincent among the northern Grenadines.
+
+## Sources
+
+- [Second Carib War - Wikipedia](https://en.wikipedia.org/?curid=35760342)
+- [Garifuna People - EBSCO Research Starters](https://www.ebsco.com/research-starters/language-and-linguistics/garifuna-people)
+  - First Carib War 1769-1773 ended in stalemate and treaty
+  - Chatoyer led uprising March 1795, divided command with brother Duvalle
+  - Chatoyer killed March 1795 by Major Alexander Leith at Dorsetshire Hill
+  - 4,776 Garifuna sent to Baliceaux (4,633 Garifuna, 102 Yellow Caribs, 41 enslaved Africans)
+  - 2,445 died on Baliceaux; 2,026 arrived at Roatan April 12, 1797 (664 men, 1,362 women and children)
+  - Chatoyer declared Saint Vincent's first National Hero in 2002
+  - Garifuna Settlement Day national holiday in Belize, November 19
+
+## Review Notes
+
+**Reviewed:** 2026-03-12 · 12 facts verified · 0 corrections
+
+Sensitive article — Garifuna dignity and agency are centered throughout with excellent framing. Key facts verified: First Carib War 1769-1773, Chatoyer Paramount Chief killed March 1795 by Maj Alexander Leith at Dorsetshire Hill, 4,776 total sent to Baliceaux (4,633 Garifuna + 102 Yellow Caribs + 41 enslaved Africans), 2,445 died, 2,026 arrived Roatan April 12 1797 (664 men, 1,362 women and children). Chatoyer declared first National Hero 2002. Garifuna Settlement Day November 19 Belize national holiday. Language is respectful and dignified throughout. Added sources and editorial metadata.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Joseph Chatoyer did not start a rebellion. He defended his people's land.
+- What the British did next went beyond military victory.
+
+---
+
+*Word count: 790*
+*Read time: 4 minutes*

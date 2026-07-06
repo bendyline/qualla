@@ -942,5 +942,24 @@
         "aerialBonus": 15
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w5cr-chittagong-war-cemetery-flight-context.mp3",
+      "w5cr-chittagong-war-cemetery-intro.mp3",
+      "w5cr-chittagong-war-cemetery-gathered-from-scattered-ground.mp3",
+      "w5cr-chittagong-war-cemetery-beyond-the-commonwealth-rows.mp3",
+      "w5cr-chittagong-war-cemetery-a-landscape-of-remembrance.mp3",
+      "w5cr-chittagong-war-cemetery-chittagongs-forgotten-landmark.mp3"
+    ],
+    "durations": {
+      "w5cr-chittagong-war-cemetery-flight-context.mp3": 42.3809583,
+      "w5cr-chittagong-war-cemetery-intro.mp3": 46.0945416,
+      "w5cr-chittagong-war-cemetery-gathered-from-scattered-ground.mp3": 65.62425,
+      "w5cr-chittagong-war-cemetery-beyond-the-commonwealth-rows.mp3": 54.750375,
+      "w5cr-chittagong-war-cemetery-a-landscape-of-remembrance.mp3": 56.7815416,
+      "w5cr-chittagong-war-cemetery-chittagongs-forgotten-landmark.mp3": 54.8987083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

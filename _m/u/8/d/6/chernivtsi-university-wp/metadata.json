@@ -590,5 +590,24 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u8d6-chernivtsi-university-flight-context.mp3",
+      "u8d6-chernivtsi-university-intro.mp3",
+      "u8d6-chernivtsi-university-an-empires-eastern-bet.mp3",
+      "u8d6-chernivtsi-university-hlavkas-masterwork.mp3",
+      "u8d6-chernivtsi-university-six-flags-one-campus.mp3",
+      "u8d6-chernivtsi-university-cosmopolitan-roots-modern-reach.mp3"
+    ],
+    "durations": {
+      "u8d6-chernivtsi-university-flight-context.mp3": 53.8327916,
+      "u8d6-chernivtsi-university-intro.mp3": 50.6489166,
+      "u8d6-chernivtsi-university-an-empires-eastern-bet.mp3": 66.0128333,
+      "u8d6-chernivtsi-university-hlavkas-masterwork.mp3": 79.4845833,
+      "u8d6-chernivtsi-university-six-flags-one-campus.mp3": 69.4704583,
+      "u8d6-chernivtsi-university-cosmopolitan-roots-modern-reach.mp3": 58.038875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

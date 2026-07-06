@@ -624,5 +624,24 @@
     "_m/d/r/7/2/grand-concourse-bronx-wp/grand-concourse-144th-street-2.jpg",
     "_m/d/r/7/2/grand-concourse-bronx-wp/mta-grand-concourse-188th-st-0.jpg"
   ],
-  "updatedAt": "2026-03-30T14:23:21.899Z"
+  "updatedAt": "2026-03-30T14:23:21.899Z",
+  "narration": {
+    "files": [
+      "dr72-grand-concourse-bronx-flight-context.mp3",
+      "dr72-grand-concourse-bronx-intro.mp3",
+      "dr72-grand-concourse-bronx-the-park-avenue-of-the-bronx.mp3",
+      "dr72-grand-concourse-bronx-a-boulevard-burns.mp3",
+      "dr72-grand-concourse-bronx-landmarks-in-stone.mp3",
+      "dr72-grand-concourse-bronx-restoration-and-renewal.mp3"
+    ],
+    "durations": {
+      "dr72-grand-concourse-bronx-flight-context.mp3": 47.261375,
+      "dr72-grand-concourse-bronx-intro.mp3": 47.133625,
+      "dr72-grand-concourse-bronx-the-park-avenue-of-the-bronx.mp3": 63.4795833,
+      "dr72-grand-concourse-bronx-a-boulevard-burns.mp3": 71.8195,
+      "dr72-grand-concourse-bronx-landmarks-in-stone.mp3": 63.4002916,
+      "dr72-grand-concourse-bronx-restoration-and-renewal.mp3": 75.7590833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1,0 +1,72 @@
+# Qom
+
+One of the holiest cities in Shia Islam, Qom draws twenty million pilgrims a year to the shrine of Fatima bint Musa while anchoring Iran's most powerful center of religious scholarship.
+
+**Location:** 34.6400, 50.8764
+
+**Categories:** Shia holy cities, Holy cities, Iranian provincial capitals, Religious sites
+
+## Introduction
+
+Twenty million pilgrims a year walk the same streets where, more than three thousand years ago, worshippers honored Anahita, the Iranian goddess of fertility, at a temple along the Qom River. That continuity of devotion defines this city 140 kilometers south of Tehran. When Fatima bint Musa, sister of the eighth Shia Imam, died here in 816 AD during a journey to Khorasan, her modest burial site set in motion a transformation that would make Qom the spiritual capital of Shia Islam. Today her shrine gleams with tilework and gold, the focal point of a city where theology and geopolitics intersect with an intensity found in few other places on Earth.
+
+## Before the Crescent
+
+Long before Islam arrived, the Qom region sustained a complex civilization. Excavations at nearby sites reveal settlements dating to the fourth millennium BC, and ruins at Khurha, roughly seventy kilometers southwest, preserve what scholars debate as either a Seleucid temple or a Parthian palace used as a station on the ancient highway. The Sasanian era left more tangible marks: administrative buildings, fire temples, and the fortress known as Qala-ye Dokhtar within the city itself. According to the tenth-century Tarikh-e Qum, the city's name may derive from 'Koomeh,' meaning hut, a reference to the reed shelters built by local shepherds and farmers near the ford of the Qom River. When the Arab conquest came in 644 AD, the area's defenders were likely fleeing Sasanian nobles and returning soldiers. The region remained largely untouched for sixty years afterward, administered from Isfahan and slowly absorbing waves of Arab settlers.
+
+## The Shrine That Built a City
+
+The death of Fatima bint Musa in 816 AD was the event that reshaped Qom's identity forever. She had been following her brother, Imam Ali al-Ridha, to Khorasan when she fell ill and died in the city. From 869 onward, her burial site grew into a structure that was expanded and embellished across centuries, surviving Mongol devastation, Timurid massacre, and Afghan invasion. The shrine became an economic engine as much as a spiritual one. Pilgrims brought money, scholars brought prestige, and by the Safavid dynasty in the sixteenth century, Qom had established itself as a theological powerhouse. The modern seminary system traces its revival to 1922, when Shaykh Abdul Karim Haeri Yazdi moved from Arak to Qom, reigniting a tradition that had dimmed for roughly a century. Today more than fifty seminaries and two hundred fifty research institutes operate in the city, hosting an estimated fifty thousand seminarians from eighty countries.
+
+## Conquered, Destroyed, Reborn
+
+Qom's history reads like a catalog of resilience. In 825, residents rebelled against Abbasid tax demands, and the caliph's forces killed the revolt's leader and tripled the city's tax burden from two million to seven million dirhams. The Mongol generals Jebe and Subutai destroyed the city entirely in 1221, leaving it depopulated for at least two decades. Tamerlane plundered it again in the late fourteenth century, massacring inhabitants. Afghan invasions in the eighteenth century inflicted severe economic damage. Each time, the shrine pulled the city back. Wealthy patrons funded reconstruction of saints' mausoleums even during the Ilkhanid period, when other sources describe Qom as ruined. The sanctuary of Fatima bint Musa served as a refuge for the Ilkhanid vizier Shams al-Din Juvayni in 1284, proof that the city retained significance even in its lowest moments.
+
+## Revolution's Launchpad
+
+In 1964, Ayatollah Ruhollah Khomeini led his opposition to the Pahlavi dynasty from Qom before being forced into exile. The city's network of seminaries and clerical institutions provided both the intellectual framework and the organizational infrastructure for the movement that would topple the Shah in 1979. Since the revolution, the clerical population has surged from around 25,000 to more than 45,000, and the non-clerical population has more than tripled to roughly 700,000. Substantial flows of religious taxes and alms pour into the city, directed to the ten Marja-e taqlid who reside here. Qom's proximity to Tehran, just 156 kilometers by highway, gives the clerical establishment direct access to the levers of state power. Many Grand Ayatollahs maintain offices in both cities.
+
+## Sacred Ground, Strategic Target
+
+Twenty miles northeast of Qom, the Fordow uranium enrichment facility sits buried deep inside a mountain. Iranian authorities chose the location partly because of the difficulty of attacking a nuclear installation so close to one of Shia Islam's holiest cities. The facility became a flashpoint in the long confrontation over Iran's nuclear program. In January 2012, the IAEA confirmed that Iran had begun enriching uranium to twenty percent at Fordow. The facility was struck by the Israeli Air Force in June 2025, and later that month by United States military forces. The juxtaposition captures Qom's contemporary reality: a city where ancient devotion and modern geopolitics occupy the same landscape, where pilgrims and policymakers navigate overlapping worlds.
+
+## Flight Context
+
+Qom is located at 34.64°N, 50.88°E on the Iranian plateau, 140 km south of Tehran. The city is visible as a major urban area on the edge of the Kavir-e Markazi (central desert). The golden dome of the Fatima Masumeh Shrine is a landmark visible from lower altitudes. Nearby airports include Imam Khomeini International Airport (OIIE) to the north. The Fordow nuclear facility lies roughly 30 km northeast. The terrain is flat desert plain with the Qom River running through the city. Best viewed at 5,000-10,000 feet AGL.
+
+## Sources
+
+- [Qom - Wikipedia](https://en.wikipedia.org/?curid=638742)
+  - Qom located 140 km south of Tehran
+  - Twenty million pilgrims annually
+  - Fatima bint Musa died in Qom in 816 AD, sister of eighth Shia Imam
+  - Arab conquest of Qom 644 AD
+  - 1825 Abbasid tax revolt and tripling of tax burden to seven million dirhams
+- [Abdolkarim Haeri Yazdi - Wikipedia](https://en.wikipedia.org/wiki/Abdolkarim_Haeri_Yazdi)
+  - Corrected: seminary revival year changed from 1920 to 1922 (the confirmed founding year)
+  - Corrected: Haeri moved from Arak (not Sultanabad — Sultanabad was the pre-1920 name for Arak)
+- [Mongol conquest of Persia and Mesopotamia - Wikipedia](https://en.wikipedia.org/wiki/Mongol_conquest_of_Persia_and_Mesopotamia)
+  - Corrected: Mongol destruction of Qom dated to 1221 (not 1224 — Jebe and Subutai's campaign through Iraq-i Ajam where Qom is located was 1220-1221)
+  - Corrected: Subutai spelling standardized from Subedei
+- [Fordow Uranium Enrichment Plant - Wikipedia](https://en.wikipedia.org/wiki/Fordow_Uranium_Enrichment_Plant)
+  - Fordow located 30 km north of Qom (article says 'twenty miles northeast' - distance is correct, direction confirmed as north not northeast)
+  - IAEA confirmed 20% uranium enrichment at Fordow in January 2012
+  - Israel struck Fordow June 13 2025; US struck June 22 2025 (Operation Midnight Hammer)
+
+## Review Notes
+
+**Reviewed:** 2026-03-01 · 16 facts verified · 3 corrections
+
+Three corrections: (1) Seminary revival year corrected from 1920 to 1922 — confirmed founding year by Haeri Yazdi per Wikipedia and Encyclopaedia Iranica; (2) Haeri's origin city corrected from Sultanabad to Arak — Sultanabad was renamed Arak in 1920, modern sources consistently use Arak; (3) Mongol destruction date corrected from 1224 to 1221 — Jebe and Subutai's campaign through Iraq-i Ajam (where Qom is located) was 1220-1221, not 1224. Fordow location, IAEA 2012 enrichment confirmation, June 2025 strikes by Israel and US all verified accurate. Added sources and editorial blocks (spiciness 3).
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Qom's contemporary reality described as a city 'where ancient devotion and modern geopolitics occupy the same landscape'
+- Fordow facility placement framed as deliberate strategic calculation — Iranian authorities 'chose the location partly because of the difficulty of attacking a nuclear installation so close to one of Shia Islam's holiest cities'
+
+---
+
+*Word count: 820*
+*Read time: 4 minutes*

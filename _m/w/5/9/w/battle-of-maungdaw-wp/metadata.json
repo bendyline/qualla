@@ -116,5 +116,26 @@
   "galleryPaths": [
     "_m/w/5/9/w/battle-of-maungdaw-wp/flag-rohingya-solidari.png",
     "_m/w/5/9/w/battle-of-maungdaw-wp/reconstruction-flag-us.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w59w-battle-of-maungdaw-flight-context.mp3",
+      "w59w-battle-of-maungdaw-intro.mp3",
+      "w59w-battle-of-maungdaw-a-border-town-under-siege.mp3",
+      "w59w-battle-of-maungdaw-the-slow-tightening.mp3",
+      "w59w-battle-of-maungdaw-the-siege-of-bgp5.mp3",
+      "w59w-battle-of-maungdaw-caught-between-armies.mp3",
+      "w59w-battle-of-maungdaw-a-new-map-an-uncertain-future.mp3"
+    ],
+    "durations": {
+      "w59w-battle-of-maungdaw-flight-context.mp3": 48.0606666,
+      "w59w-battle-of-maungdaw-intro.mp3": 48.1420416,
+      "w59w-battle-of-maungdaw-a-border-town-under-siege.mp3": 45.7729166,
+      "w59w-battle-of-maungdaw-the-slow-tightening.mp3": 66.680125,
+      "w59w-battle-of-maungdaw-the-siege-of-bgp5.mp3": 73.755375,
+      "w59w-battle-of-maungdaw-caught-between-armies.mp3": 61.5320416,
+      "w59w-battle-of-maungdaw-a-new-map-an-uncertain-future.mp3": 54.7139583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

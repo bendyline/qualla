@@ -782,5 +782,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "s14h-badagry-flight-context.mp3",
+      "s14h-badagry-intro.mp3",
+      "s14h-badagry-refugees-traders-and-the-lagoon.mp3",
+      "s14h-badagry-the-first-sermon-the-first-school.mp3",
+      "s14h-badagry-destruction-and-decline.mp3",
+      "s14h-badagry-eight-quarters-and-a-kingdom.mp3",
+      "s14h-badagry-coconuts-and-memory.mp3"
+    ],
+    "durations": {
+      "s14h-badagry-flight-context.mp3": 47.5838333,
+      "s14h-badagry-intro.mp3": 43.7562083,
+      "s14h-badagry-refugees-traders-and-the-lagoon.mp3": 55.8354583,
+      "s14h-badagry-the-first-sermon-the-first-school.mp3": 61.14175,
+      "s14h-badagry-destruction-and-decline.mp3": 56.6294166,
+      "s14h-badagry-eight-quarters-and-a-kingdom.mp3": 67.0035,
+      "s14h-badagry-coconuts-and-memory.mp3": 60.01825
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

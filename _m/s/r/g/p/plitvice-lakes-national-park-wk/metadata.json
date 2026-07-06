@@ -65,5 +65,26 @@
     "sourceGeohash4": "srgp"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "srgp-plitvice-lakes-national-park-flight-context.mp3",
+      "srgp-plitvice-lakes-national-park-intro.mp3",
+      "srgp-plitvice-lakes-national-park-water-becomes-architecture.mp3",
+      "srgp-plitvice-lakes-national-park-palette-of-a-karst-basin.mp3",
+      "srgp-plitvice-lakes-national-park-the-forest-around-the-water.mp3",
+      "srgp-plitvice-lakes-national-park-from-illyrians-to-holidaymakers.mp3",
+      "srgp-plitvice-lakes-national-park-the-staircase-from-above.mp3"
+    ],
+    "durations": {
+      "srgp-plitvice-lakes-national-park-flight-context.mp3": 56.926375,
+      "srgp-plitvice-lakes-national-park-intro.mp3": 49.1034166,
+      "srgp-plitvice-lakes-national-park-water-becomes-architecture.mp3": 71.8655833,
+      "srgp-plitvice-lakes-national-park-palette-of-a-karst-basin.mp3": 63.7350416,
+      "srgp-plitvice-lakes-national-park-the-forest-around-the-water.mp3": 62.8395416,
+      "srgp-plitvice-lakes-national-park-from-illyrians-to-holidaymakers.mp3": 70.4860416,
+      "srgp-plitvice-lakes-national-park-the-staircase-from-above.mp3": 56.517625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

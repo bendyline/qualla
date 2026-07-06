@@ -1,0 +1,58 @@
+# SS Maori
+
+A British refrigerated cargo ship that spent sixteen years hauling frozen mutton from New Zealand to London before running aground in a winter storm on the Cape Peninsula, taking 32 of her crew with her.
+
+**Location:** -34.0344, 18.3132
+
+**Categories:** shipwreck, maritime-trade, diving, cape-peninsula, south-africa
+
+## Introduction
+
+For sixteen years, the SS Maori made the same journey: New Zealand to London, loaded to her waterline with frozen mutton carcasses, back again for more. She was not glamorous. She was a refrigerated freighter, purpose-built for the colonial meat trade, her insulated holds capable of carrying 70,000 carcasses of mutton at a time. On 5 August 1909, during one of her regular runs, a winter storm drove her onto the rocks south of Llandudno on the Cape Peninsula's Atlantic coast. Thirty-two people died, including her master and most of his navigating officers.
+
+## Built to Carry the Cold
+
+Shaw, Savill & Albion Co. commissioned the Maori in 1893 as a replacement for an older ship of the same name, ordering a larger vessel from C.S. Swan & Hunter of Wallsend-on-Tyne. She was launched on 14 August 1893, a three-deck freighter specially designed for the frozen meat trade between New Zealand, South America, and the United Kingdom. Her holds were subdivided by six watertight bulkheads and fully insulated, cooled by six refrigerating engines from the Haslam Engineering & Foundry Company. She had a steel hull, a single triple-expansion steam engine, and a top speed of 11 knots -- not fast, but steady and reliable. Eight steam winches handled the loading and unloading that was her entire reason for existence.
+
+## The Long Haul
+
+The Maori's maiden voyage set the pattern for the rest of her career. She departed Gravesend on 11 December 1893 with 5,900 tons of general cargo, reached Port Chalmers, New Zealand, on 30 January 1894, and then worked her way around the New Zealand coast -- Lyttelton, Timaru, Whanganui, Auckland, Gisborne, Napier, Wellington -- picking up frozen mutton at every stop, along with wool, margarine, pelts, and tallow. By 13 March she had loaded her fill and sailed for London via the Cape of Good Hope and Tenerife, arriving on 2 May. It was unglamorous work, the maritime equivalent of a long-haul truck route, but it fed an empire. The frozen meat trade connected New Zealand's farms to British dinner tables, and ships like the Maori were the cold chain that made it possible.
+
+## The Storm off Llandudno
+
+On 5 August 1909, the Maori ran aground in a storm a few kilometers south of the suburb of Llandudno, on the wild Atlantic coast of the Cape Peninsula near Cape Town. The coast here is remote, brutally rocky, and exposed to the full force of the Atlantic. Enormous winter rollers crashed against granite cliffs that towered above the stricken vessel. It was late winter, and the water was bitterly cold. The crew managed to launch three lifeboats, but the master and fourteen crew members remained aboard -- whether by choice or because they could not reach the boats. Thirty-two people died that night and in the days that followed, among them the master and most of his navigating officers. These were working sailors who had made this run many times before, men for whom the Cape was a familiar waypoint, not a death sentence.
+
+## Wine, Linoleum, and Dynamite
+
+The wreck lies in about 24 meters of water between granite boulders, and since the 1960s it has been a popular scuba diving site when weather permits. The Maori went down carrying not only frozen cargo but general merchandise bound for London: crockery, rolls of linoleum, champagne, and red wine. In the 1970s, divers could still find wine bottles scattered in the sand around the wreck. Most exploded when brought to the surface, the pressure differential shattering the glass. The few that survived intact contained wine that was, by all accounts, undrinkable. The same decade saw treasure hunters dynamite the hull to reach non-ferrous metals, inflicting more damage than the ocean had managed in sixty years.
+
+## Protected at Last
+
+South Africa's National Heritage Resources Act now protects what remains of the Maori. The hull, battered by both the sea and human scavengers, still holds its shape between the boulders. Diving the wreck requires calm weather and low southwesterly swell -- conditions that may arrive only a handful of times each year along this coast. When they do, divers descend into a world where the mundane machinery of global trade has become an artificial reef. Engine components, hull plates, and the scattered remnants of cargo sit among the granite, colonized by marine life and slowly dissolving back into the elements. The Maori was never a famous ship. She was a workhorse that fed a distant nation, and her grave on the rocks south of Llandudno is a quiet monument to the ordinary sailors who kept the cold chain running.
+
+## Flight Context
+
+The wreck lies at approximately 34.03S, 18.31E, on the Atlantic coast of the Cape Peninsula south of the suburb of Llandudno, near Cape Town. From altitude, the dramatic granite cliffs of the coastline are clearly visible. Cape Town International Airport (FACT) is approximately 25 km to the northeast. The wreck site is only accessible in calm weather with low southwesterly swell.
+
+## Sources
+
+- [SS Maori (1893) - Wikipedia](https://en.wikipedia.org/?curid=3739829)
+  - Launched 14 August 1893 by C.S. Swan & Hunter for Shaw, Savill & Albion Co.
+  - Grounded 5 August 1909 south of Llandudno
+  - 32 crew died including master
+  - Cargo capacity: frozen meat trade between New Zealand and UK
+  - Wreck lies in approximately 24 metres of water
+  - Protected under National Heritage Resources Act
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 6 facts verified · 0 corrections
+
+32 crew died confirmed. Grounded 5 Aug 1909 south of Llandudno confirmed. Wreck at 24m depth confirmed.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 770*
+*Read time: 4 minutes*

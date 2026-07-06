@@ -285,5 +285,24 @@
     "_m/s/v/8/v/battles-of-latrun-1948-wp/memorial-fallen-soldie.jpg",
     "_m/s/v/8/v/battles-of-latrun-1948-wp/gallery-9.jpg",
     "_m/s/v/8/v/battles-of-latrun-1948-wp/armored-commemoration.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sv8v-battles-of-latrun-1948-flight-context.mp3",
+      "sv8v-battles-of-latrun-1948-intro.mp3",
+      "sv8v-battles-of-latrun-1948-the-road-to-jerusalem.mp3",
+      "sv8v-battles-of-latrun-1948-five-assaults-five-failures.mp3",
+      "sv8v-battles-of-latrun-1948-the-burma-road.mp3",
+      "sv8v-battles-of-latrun-1948-whose-defeat-whose-memory.mp3"
+    ],
+    "durations": {
+      "sv8v-battles-of-latrun-1948-flight-context.mp3": 51.692625,
+      "sv8v-battles-of-latrun-1948-intro.mp3": 64.611625,
+      "sv8v-battles-of-latrun-1948-the-road-to-jerusalem.mp3": 70.5289166,
+      "sv8v-battles-of-latrun-1948-five-assaults-five-failures.mp3": 74.7619166,
+      "sv8v-battles-of-latrun-1948-the-burma-road.mp3": 74.7031666,
+      "sv8v-battles-of-latrun-1948-whose-defeat-whose-memory.mp3": 93.804875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

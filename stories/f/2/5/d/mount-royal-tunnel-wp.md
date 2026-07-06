@@ -1,0 +1,61 @@
+# Mount Royal Tunnel
+
+Born from railway rivalry and melon-farm buyouts, Montreal's third-longest railway tunnel survived financial ruin, two world wars, and a Spanish flu opening night before reinventing itself as the backbone of the city's automated light-rail future.
+
+**Location:** 45.5113, -73.6200
+
+**Categories:** railway-infrastructure, engineering, montreal-landmarks, transit, canadian-history
+
+## Introduction
+
+The first train entered the Mount Royal Tunnel on October 21, 1918, and almost nobody noticed. A world war was grinding toward its final weeks. The Spanish flu had banned large gatherings across Montreal. So locomotive 601 slipped beneath the mountain with no fanfare, capping six years of blasting, boring, and financial catastrophe -- a quiet debut for an engineering marvel that would shape the city's transit map for more than a century. The tunnel threads through Mount Royal for roughly five kilometres, connecting Downtown Montreal's Central Station with the northern reaches of the island and the suburbs of Laval beyond. It is the third longest railway tunnel in Canada, and its story is less about geology than about ambition, bankruptcy, and reinvention.
+
+## Melon Farms and Million-Dollar Dirt
+
+The Canadian Northern Railway needed a way downtown. By the early 1900s, rival lines -- the Canadian Pacific and the Grand Trunk -- had already locked up the easy routes along Mount Royal's southern flank. Rather than cross their tracks or detour around the mountain's eastern shoulder, Canadian Northern chose the audacious option: go straight through. To finance the tunnel, the railway planned a real estate play. The low-valued farmland north of the mountain would become a model suburb, the Town of Mount Royal. Downtown, cheap parcels near de la Gauchetiere Street would anchor a grand terminal and commercial complex. But first, they had to buy out the melon farmers. The Montreal melon was famous, and its growers knew their leverage. More than $1.5 million in cash -- delivered by satchel, according to contemporary accounts -- went to purchase the farms. One farmer walked away with $117,000. Another's land fetched $781,783. Construction began at the west portal on July 8, 1912, and on December 10, 1913, crews tunneling from opposite ends met beneath the mountain.
+
+## An Empire Built on Debt
+
+Canadian Northern's tunnel ambitions outran its finances. The company ordered six boxcab electric locomotives from General Electric in 1914, lined the bore with concrete by 1916, and installed two standard-gauge tracks with 2,400-volt DC catenary by September 1918. But the First World War drained labor and capital. By mid-decade, Canadian Northern was insolvent. On September 6, 1918, the federal government nationalized the railway, replacing its board of directors. Weeks later, the newly created Canadian National Railways inherited the just-finished tunnel. Then came the ultimate irony: when Canadian National absorbed the Grand Trunk Railway in 1923, it suddenly owned better routes to Ottawa and Toronto through the rival's existing lines. The tunnel that had nearly bankrupted its builder was relegated to branch-line duty. Still, Canadian National made the most of the land deals. Central Station opened in 1943. The Queen Elizabeth Hotel followed in 1958. Place Ville-Marie rose in 1962. The tunnel's real estate gamble finally paid off -- just not for the people who dug it.
+
+## Seventy-Seven Years of Electric Boxcabs
+
+Those six General Electric boxcab locomotives delivered to Canadian Northern in 1914-1917 became some of the longest-serving electric locomotives in North American history. They hauled commuter trains and Via Rail services through the tunnel for nearly eight decades. The catenary voltage was upgraded from the original 2,400 volts DC to 3,000 volts DC in the early 1980s, but the venerable boxcabs kept running. On June 2, 1995, locomotive 601 -- the same engine that pulled the first train into the tunnel in 1918 -- made its final run, now renumbered as Canadian National 6711. It hauled the last outbound train, then assisted sister engine 6710 on the return trip. After 77 years of continuous service, the old fleet gave way to 58 new MR-90 electric multiple units built by Bombardier, part of a $289-million modernization that also replaced the catenary, signaling, stations, and track.
+
+## Dynamite in the Walls
+
+In May 2020, the tunnel closed for what was supposed to be a three-year refurbishment. It stayed shut for more than five. Workers converting the tunnel for the Reseau express metropolitain -- Montreal's new automated light-rail system -- discovered leftover explosives embedded in the rock from the original 1912 excavation. The south end of the tunnel had deteriorated far worse than engineers expected. COVID-19 compounded every delay. When the tunnel finally reopened in November 2025, it carried something its original builders could never have imagined: driverless trains running on a fully automated network. Two entirely new stations were carved into the tunnel's midsection, directly beneath existing Montreal Metro stops at Edouard-Montpetit and McGill. The Edouard-Montpetit REM station plunges so deep into the rock that it became Canada's deepest transit station, requiring a long elevator ride to reach the surface. A passage that once served melon-farm speculators and wartime commuters now anchors Montreal's transit future.
+
+## Flight Context
+
+The Mount Royal Tunnel runs beneath Mount Royal at 45.51N, 73.62W, connecting Central Station downtown with the island's north side. The tunnel itself is invisible from the air, but its endpoints and the mountain above are unmistakable. The west portal emerges near the Town of Mount Royal, a planned suburb visible as a grid of streets north of the mountain. Central Station and Place Ville-Marie mark the east end downtown. Montreal/Pierre Elliott Trudeau International Airport (CYUL) lies 10 nm west. Best viewed at 3,000-4,000 feet AGL where Mount Royal's forested summit, the illuminated cross, and the downtown skyline all come into frame.
+
+## Sources
+
+- [Mount Royal Tunnel - Wikipedia](https://en.wikipedia.org/?curid=2282667)
+  - Third longest railway tunnel in Canada confirmed
+  - First train October 21 1918 confirmed
+  - Construction began west portal July 8 1912 confirmed
+  - Crews met December 10 1913 beneath the mountain confirmed
+  - Tunnel closed May 2020 reopened November 2025 confirmed
+  - Edouard-Montpetit REM station is Canada's deepest transit station confirmed
+  - Central Station opened 1943 confirmed
+  - 58 MR-90 units built by Bombardier confirmed
+  - Corrected: boxcab locomotive delivery dates from '1916-1917' to '1914-1917' (CN 6711 and 6710 built 1914, CN 6715 built 1916)
+- [Canadian National Class Z-1-a - Wikipedia](https://en.wikipedia.org/wiki/Canadian_National_Class_Z-1-a)
+  - Six GE boxcab electric locomotives delivered 1914-1917
+  - June 2 1995 final run confirmed
+  - Locomotive 6711 is the same as original CNoR 601 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-27 · 9 facts verified · 1 correction
+
+Corrected boxcab locomotive delivery dates from 1916-1917 to 1914-1917. Verified: third-longest tunnel in Canada, Oct 21 1918 opening, REM reopened Nov 2025, Edouard-Montpetit deepest station in Canada, Central Station 1943. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

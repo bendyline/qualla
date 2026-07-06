@@ -354,5 +354,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "z0m9-sakhalin-railway-flight-context.mp3",
+      "z0m9-sakhalin-railway-intro.mp3",
+      "z0m9-sakhalin-railway-two-empires-two-gauges.mp3",
+      "z0m9-sakhalin-railway-improvisation-on-an-island.mp3",
+      "z0m9-sakhalin-railway-stalins-tunnel-medvedevs-bridge.mp3",
+      "z0m9-sakhalin-railway-the-long-conversion.mp3"
+    ],
+    "durations": {
+      "z0m9-sakhalin-railway-flight-context.mp3": 42.9662083,
+      "z0m9-sakhalin-railway-intro.mp3": 39.1671666,
+      "z0m9-sakhalin-railway-two-empires-two-gauges.mp3": 64.5251666,
+      "z0m9-sakhalin-railway-improvisation-on-an-island.mp3": 64.1626666,
+      "z0m9-sakhalin-railway-stalins-tunnel-medvedevs-bridge.mp3": 70.7902083,
+      "z0m9-sakhalin-railway-the-long-conversion.mp3": 64.2792916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

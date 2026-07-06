@@ -58,5 +58,24 @@
     "sourceGeohash4": "dr5p"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "dr5p-upsala-college-flight-context.mp3",
+      "dr5p-upsala-college-intro.mp3",
+      "dr5p-upsala-college-three-addresses-in-thirty-years.mp3",
+      "dr5p-upsala-college-the-long-decline.mp3",
+      "dr5p-upsala-college-the-final-class.mp3",
+      "dr5p-upsala-college-the-radio-station-that-survived.mp3"
+    ],
+    "durations": {
+      "dr5p-upsala-college-flight-context.mp3": 38.5736666,
+      "dr5p-upsala-college-intro.mp3": 50.1667916,
+      "dr5p-upsala-college-three-addresses-in-thirty-years.mp3": 53.5467916,
+      "dr5p-upsala-college-the-long-decline.mp3": 60.3614166,
+      "dr5p-upsala-college-the-final-class.mp3": 60.899375,
+      "dr5p-upsala-college-the-radio-station-that-survived.mp3": 57.0126666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

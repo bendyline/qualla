@@ -91,5 +91,24 @@
   ],
   "galleryPaths": [
     "_m/s/b/1/7/kerio-valley-wp/kerio-valley-tugen-hil.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sb17-kerio-valley-flight-context.mp3",
+      "sb17-kerio-valley-intro.mp3",
+      "sb17-kerio-valley-between-two-walls.mp3",
+      "sb17-kerio-valley-furrows-from-the-forgotten.mp3",
+      "sb17-kerio-valley-the-people-of-the-escarpment.mp3",
+      "sb17-kerio-valley-a-rift-within-the-rift.mp3"
+    ],
+    "durations": {
+      "sb17-kerio-valley-flight-context.mp3": 43.5219166,
+      "sb17-kerio-valley-intro.mp3": 50.9742916,
+      "sb17-kerio-valley-between-two-walls.mp3": 60.6271666,
+      "sb17-kerio-valley-furrows-from-the-forgotten.mp3": 70.1590416,
+      "sb17-kerio-valley-the-people-of-the-escarpment.mp3": 61.6696666,
+      "sb17-kerio-valley-a-rift-within-the-rift.mp3": 62.5605416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -844,5 +844,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "z0m7-yuzhno-sakhalinsk-flight-context.mp3",
+      "z0m7-yuzhno-sakhalinsk-intro.mp3",
+      "z0m7-yuzhno-sakhalinsk-convicts-colonists-conquerors.mp3",
+      "z0m7-yuzhno-sakhalinsk-soviet-concrete-japanese-bones.mp3",
+      "z0m7-yuzhno-sakhalinsk-black-gold-at-the-edge-of-the-world.mp3",
+      "z0m7-yuzhno-sakhalinsk-mountains-and-mud-volcanoes.mp3"
+    ],
+    "durations": {
+      "z0m7-yuzhno-sakhalinsk-flight-context.mp3": 38.6157916,
+      "z0m7-yuzhno-sakhalinsk-intro.mp3": 39.0110416,
+      "z0m7-yuzhno-sakhalinsk-convicts-colonists-conquerors.mp3": 56.088375,
+      "z0m7-yuzhno-sakhalinsk-soviet-concrete-japanese-bones.mp3": 54.4180833,
+      "z0m7-yuzhno-sakhalinsk-black-gold-at-the-edge-of-the-world.mp3": 54.9797916,
+      "z0m7-yuzhno-sakhalinsk-mountains-and-mud-volcanoes.mp3": 56.536
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1,0 +1,63 @@
+# Aichi Museum of Flight
+
+A hangar-turned-museum beside Nagoya Airfield where Japan's first postwar passenger plane and a reconstructed Zero fighter sit just 300 meters from an active runway.
+
+**Location:** 35.2478, 136.9227
+
+**Categories:** History museums in Japan, Aerospace museums in Japan, Military and war museums in Japan, Museums in Aichi Prefecture, Toyoyama, Aichi, Museums established in 2017, 2017 establishments in Japan
+
+## Introduction
+
+The first thing visitors notice is the sound. Every few minutes, a rumble builds to a roar as an aircraft lifts off from the runway just 300 meters away, visible through floor-to-ceiling windows. The Aichi Museum of Flight does not merely display aviation history behind glass -- it breathes alongside a working airfield, the same strip where Japan's first domestically built postwar passenger plane, the NAMC YS-11, made its maiden flight in 1962. Opened on November 30, 2017, the museum occupies a cavernous hangar-like building next to Airport Walk Nagoya, a shopping complex built inside the old international terminal that fell quiet after Chubu Centrair International Airport opened on an artificial island in Ise Bay in 2005.
+
+## Where Zeros Once Flew
+
+Aichi Prefecture holds an outsized place in Japanese aviation. Mitsubishi Heavy Industries has maintained major aerospace manufacturing facilities around Nagoya Airfield for decades, and during the Second World War, factories in the region produced the legendary Mitsubishi A6M Zero fighter. The museum nods to that legacy with a full-scale Zero replica, its dark green fuselage gleaming under hangar lights. Nearby sits the YS-11, the turboprop that proved Japan could build commercial aircraft again after the war. Visitors can sometimes step inside its cabin, running their hands over the narrow seats and overhead bins of a machine that represented an entire nation's technological rebirth. Other aircraft on display include the Mitsubishi MU-2 turboprop, the MU-300 business jet, and the MH2000 helicopter -- the first helicopter designed and produced entirely in Japan.
+
+## A Field Museum for the Jet Age
+
+The museum was conceived as more than a static collection. When Aichi Prefecture announced the project at a May 2015 press conference, officials described a vision modeled on the aviation ecosystems surrounding Boeing's facilities in Seattle and the Airbus headquarters in Toulouse. The idea was to weave together the museum, the adjacent MRJ final assembly plant where Mitsubishi Aircraft was building its next-generation regional jet, JAXA research facilities, and Japan Air Self-Defense Force installations into a single field museum -- an entire landscape dedicated to flight. Inside the building, a Science Laboratory lets visitors experiment with aerodynamic principles, an Orientation Theater screens 3D films about the region's aerospace heritage, and the Flying Box offers a virtual flight experience that puts passengers over Nagoya's sprawl from above.
+
+## The Runway Next Door
+
+What sets the Aichi Museum of Flight apart from most aviation museums is its rooftop observation deck. From this perch, just a few hundred meters from the runway threshold of Nagoya Airfield, visitors watch real aircraft taxi, take off, and land. Nagoya Airfield -- known locally as Komaki Airport -- served as the city's main gateway until 2005, when commercial traffic shifted to Centrair. Today it handles general aviation, military operations, and Fuji Dream Airlines regional flights, giving the observation deck a steady stream of activity. The museum drew roughly 650,000 visitors in its first year, and it has since settled into a steady annual pace of around 350,000. A cooperative alliance with the Museum of Flight in Seattle, established at opening, underscores its ambition to stand among the world's notable aviation collections.
+
+## Owari's Aerospace Corridor
+
+The museum sits at the heart of what the Japanese government designated the Asia No. 1 Aerospace Industry Cluster Formation Special Zone. Within a short drive of the airfield, Mitsubishi Heavy Industries operates its Nagoya Aerospace Systems manufacturing complex, one of the most important aircraft production facilities in Asia. The region's aerospace roots run deep -- wartime production, the postwar YS-11 program, components for Boeing widebodies, and now next-generation regional jets have all been built in Owari Province's industrial flatlands. For visitors arriving through Airport Walk Nagoya, the old international terminal turned shopping mall, the transition from retail to museum is seamless: a boarding pass to the museum even earns discounts at the mall's shops, a playful reminder that everything here orbits around flight.
+
+## Flight Context
+
+Located at 35.248N, 136.923E, directly adjacent to Nagoya Airfield (RJNA). The museum building is visible on the southwest side of the airfield. Approach from 2,000-3,000 feet AGL for a clear view of the airfield layout and museum hangar. Chubu Centrair International Airport (RJGG) lies 35 km to the south on an artificial island in Ise Bay. Nagoya Castle is visible roughly 10 km to the southwest.
+
+## Sources
+
+- [Aichi Museum of Flight - Wikipedia](https://en.wikipedia.org/?curid=55658672)
+  - Museum opened November 30, 2017 confirmed
+  - Located adjacent to Nagoya Airfield (Komaki Airport, RJNA) confirmed
+  - Built next to Airport Walk Nagoya in former international terminal confirmed
+  - Chubu Centrair International Airport opened 2005 confirmed
+- [NAMC YS-11 - Wikipedia](https://en.wikipedia.org/wiki/NAMC_YS-11)
+  - YS-11 maiden flight on August 30, 1962 confirmed
+  - Japan's first domestically built postwar passenger aircraft confirmed
+  - Turboprop design confirmed
+- [Aichi Museum of Flight - AichiNow](https://aichinow.pref.aichi.jp/en/spots/detail/2217/)
+  - Museum located in Toyoyama, Aichi Prefecture confirmed
+  - Runway-side observation deck confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 8 facts verified · 0 corrections
+
+YS-11 maiden flight 1962 confirmed. Museum opened Nov 30 2017. MRJ program mentioned in past-tense context of founding vision. No factual errors found.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Story references the MRJ regional jet program in present tense; the MRJ/SpaceJet program was suspended in 2023 - this context should be noted but does not invalidate the museum's founding vision
+
+---
+
+*Word count: 720*
+*Read time: 4 minutes*

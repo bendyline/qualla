@@ -1008,5 +1008,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "srff-zadar-flight-context.mp3",
+      "srff-zadar-intro.mp3",
+      "srff-zadar-thirty-four-churches-on-a-peninsula.mp3",
+      "srff-zadar-the-sea-organ-and-the-greeting-to-the-sun.mp3",
+      "srff-zadar-venetian-walls-and-deeper-layers.mp3",
+      "srff-zadar-the-adriatics-living-room.mp3",
+      "srff-zadar-gateway-to-wild-places.mp3"
+    ],
+    "durations": {
+      "srff-zadar-flight-context.mp3": 52.7808333,
+      "srff-zadar-intro.mp3": 51.0765416,
+      "srff-zadar-thirty-four-churches-on-a-peninsula.mp3": 74.30175,
+      "srff-zadar-the-sea-organ-and-the-greeting-to-the-sun.mp3": 73.5420416,
+      "srff-zadar-venetian-walls-and-deeper-layers.mp3": 63.2819583,
+      "srff-zadar-the-adriatics-living-room.mp3": 68.4360833,
+      "srff-zadar-gateway-to-wild-places.mp3": 66.1140416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

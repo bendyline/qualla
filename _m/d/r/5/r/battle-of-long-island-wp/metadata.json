@@ -643,5 +643,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr5r-the-battle-of-long-island-washingtons-worst-day-an-flight-context.mp3",
+      "dr5r-the-battle-of-long-island-washingtons-worst-day-an-intro.mp3",
+      "dr5r-the-battle-of-long-island-washingtons-worst-day-an-an-army-that-had-never-fought.mp3",
+      "dr5r-the-battle-of-long-island-washingtons-worst-day-an-the-maryland-400.mp3",
+      "dr5r-the-battle-of-long-island-washingtons-worst-day-an-trapped-on-the-heights.mp3",
+      "dr5r-the-battle-of-long-island-washingtons-worst-day-an-the-midnight-crossing.mp3",
+      "dr5r-the-battle-of-long-island-washingtons-worst-day-an-what-remains-in-brooklyn.mp3"
+    ],
+    "durations": {
+      "dr5r-the-battle-of-long-island-washingtons-worst-day-an-flight-context.mp3": 60.1669166,
+      "dr5r-the-battle-of-long-island-washingtons-worst-day-an-intro.mp3": 50.7501666,
+      "dr5r-the-battle-of-long-island-washingtons-worst-day-an-an-army-that-had-never-fought.mp3": 50.2279583,
+      "dr5r-the-battle-of-long-island-washingtons-worst-day-an-the-maryland-400.mp3": 48.7088333,
+      "dr5r-the-battle-of-long-island-washingtons-worst-day-an-trapped-on-the-heights.mp3": 44.9643333,
+      "dr5r-the-battle-of-long-island-washingtons-worst-day-an-the-midnight-crossing.mp3": 57.0180833,
+      "dr5r-the-battle-of-long-island-washingtons-worst-day-an-what-remains-in-brooklyn.mp3": 66.8044166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

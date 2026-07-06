@@ -1,0 +1,57 @@
+# La Amistad
+
+A Spanish schooner whose name meant 'Friendship' became the site of one of history's most consequential slave revolts, sparking a Supreme Court case that galvanized the American abolitionist movement.
+
+**Location:** 41.3610, -71.9660
+
+**Categories:** history, maritime, civil-rights, legal-history, slavery, abolition
+
+## Introduction
+
+On the third night out of Havana, a man named Sengbe Pieh found a rusty file in the hold of a two-masted schooner called La Amistad -- The Friendship. He used it to saw through his manacles. Within hours, 53 Mende captives from West Africa had broken free below decks. Armed with machete-like cane knives they found in the cargo, they climbed into the tropical darkness and took the ship. They killed the captain and the cook. Two of their own died in the fighting. And then Pieh gave the two surviving Spanish plantation owners an order: sail us back to Africa. It was July 1, 1839, and what followed would become one of the most important legal battles in American history, reaching the Supreme Court, dividing a nation already fracturing over slavery, and giving the abolitionist movement the human face it desperately needed.
+
+## Stolen Twice Over
+
+The 53 Africans aboard La Amistad had already survived one nightmare. Captured in what is now Sierra Leone, they had been sold to European slave traders and transported across the Atlantic aboard the Portuguese slave ship Tecora, a voyage that violated treaties both the United States and Britain had enacted to ban the international slave trade. In Havana, Spanish plantation owners Don Jose Ruiz and Don Pedro Montes purchased the captives, including four children, and loaded them aboard the Amistad for transport to their sugar plantations near Puerto Principe. The schooner was not a purpose-built slave ship. It was a coastal trading vessel that normally carried sugar-industry products around Cuba and the Caribbean. The crew, lacking dedicated slave quarters, placed half the captives in the main hold and the other half on deck. That relative freedom of movement proved to be a fatal miscalculation for the ship's captain, Ramon Ferrer.
+
+## The Treacherous Course North
+
+After Pieh and his companions seized La Amistad, they faced an immediate problem: none of them knew how to navigate. Pieh ordered Ruiz and Montes to steer toward Africa, toward the rising sun. But the Spaniards had a plan of their own. By day, they sailed east as commanded. By night, they quietly turned the ship north and west, creeping up the eastern coast of the United States, confident that some patrol vessel would intercept them and return the Africans to slavery in Cuba. The deception worked, in part. After weeks of zigzagging up the coast, the revenue cutter Washington seized La Amistad off Montauk Point on Long Island, New York. Pieh and several others who had gone ashore were captured by local citizens who immediately claimed them as property. The ship was towed to New London, Connecticut, and the remaining captives were arrested and jailed in New Haven on charges of murder and piracy. There was one devastating complication: none of the 43 surviving Africans spoke English. They could not tell anyone what had happened to them.
+
+## A Nation on Trial
+
+The case that followed entangled three governments and tested the conscience of a young republic. Spain demanded that President Martin Van Buren return the captives to Cuba under international treaty. The officers of the Washington filed salvage claims, asserting the Africans were property they had lawfully recovered at sea. Abolitionists rallied to the defense of the Mende people, arguing they had been kidnapped in violation of international law and had every right to fight for their freedom. The ship's owners had fraudulently documented the captives as Cuban-born enslaved people to circumvent the ban on the African slave trade. The question before the courts was stark: were these human beings free people who had been illegally abducted, or were they cargo to be returned to their owners? The breakthrough came when Yale language professor Josiah Gibbs found a sailor named James Covey who spoke Mende, and for the first time the captives could tell their story. The case rose through the courts as United States v. The Amistad. Former President John Quincy Adams, then 73 years old, argued on behalf of the Africans before the Supreme Court. In 1841, the Court ruled in favor of the Mende, declaring them free people who had been illegally enslaved.
+
+## Echoes Across Centuries
+
+The Amistad case became a rallying cry for the American abolitionist movement, a concrete demonstration that the legal system could, when pressed, recognize the humanity of enslaved people. The Mende survivors eventually raised enough money to return to Sierra Leone. La Amistad itself had a quieter fate: moored behind the U.S. Custom House in New London for a year and a half, it was auctioned off in October 1840. Captain George Hawford of Newport, Rhode Island, bought it, renamed it Ion, and sailed it to Bermuda and Saint Thomas carrying a cargo of onions, apples, live poultry, and cheese. He sold it in Guadeloupe in 1844, and the vessel that had carried one of history's great dramas vanished into the Caribbean. Today, the Amistad Memorial stands before New Haven City Hall, and a replica schooner named Freedom Schooner Amistad sails from New Haven as a floating classroom on the history of slavery, abolition, and civil rights. Yale University holds a collection of portraits of La Amistad survivors, drawn by William H. Townsend during the trial.
+
+## Where the Waters Remember
+
+The Connecticut coastline where this story played out looks deceptively peaceful from above. The waters off Montauk Point where the Washington intercepted La Amistad are the same waters that fishermen and sailors navigate today. New London, where the ship was towed and the captives first set foot on American soil, still sits at the mouth of the Thames River. New Haven, where the trial unfolded and where abolitionists organized one of the first great human rights campaigns in American history, spreads across its harbor below. Sengbe Pieh, the man who found the rusty file in the dark hold, returned to Africa after the trial. In the United States, he became known as Joseph Cinque, and his act of resistance aboard a small Spanish schooner in the summer of 1839 helped set in motion forces that would, within two decades, tear the country apart and ultimately end the institution of slavery.
+
+## Flight Context
+
+Located at 41.361N, 71.966W off the southeastern Connecticut coast near Mystic and New London. The story spans multiple coastal Connecticut locations: Montauk Point (visible to the southwest on Long Island), New London (mouth of the Thames River), and New Haven (harbor visible to the west). Best viewed at 3,000-5,000 feet AGL following the Connecticut coastline. Nearby airports: Groton-New London Airport (KGON) is 3 nm north, Westerly State Airport (KWST) is 10 nm east. Long Island Sound provides the dominant visual landmark.
+
+## Sources
+
+- [La Amistad - Wikipedia](https://en.wikipedia.org/?curid=4533817)
+- [Amistad (schooner) - Wikipedia](https://en.wikipedia.org/wiki/Amistad_(schooner))
+  - 53 Mende captives including four children confirmed
+  - Revenue cutter Washington seized Amistad off Montauk confirmed
+  - John Quincy Adams age 73 at trial confirmed
+  - Supreme Court ruled March 9 1841 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-27 · 13 facts verified · 0 corrections
+
+All facts verified. Revolt date genuinely contested; story consistent with National Archives.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 855*
+*Read time: 4 minutes*

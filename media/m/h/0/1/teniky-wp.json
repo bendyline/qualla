@@ -1,0 +1,77 @@
+{
+  "id": "teniky-wp",
+  "patch": {
+    "media": {
+      "hero": {
+        "path": "_m/m/h/0/1/teniky-wp/hero.png",
+        "filename": "Teniky site map.png",
+        "caption": "Map of the Teniky complex",
+        "alt": "Map of the Teniky complex",
+        "width": 1465,
+        "height": 1154,
+        "mimeType": "image/png",
+        "license": "CC BY-SA 4.0",
+        "artist": "Zanahary",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teniky_site_map.png",
+        "sourceType": "core",
+        "sourceArticleId": "teniky-wp",
+        "sourceGeohash4": "mh01",
+        "categories": [
+          "CC-BY-SA-4.0",
+          "Self-published work",
+          "Teniky"
+        ]
+      },
+      "images": [
+        {
+          "path": "_m/m/h/0/1/teniky-wp/siraf-rock-cut-cemeter.jpg",
+          "filename": "QANRESTAN SIRAAF.jpg",
+          "caption": "Siraf Rock-cut Cemetery.",
+          "alt": "Siraf Rock-cut Cemetery.",
+          "width": 543,
+          "height": 740,
+          "mimeType": "image/jpeg",
+          "license": "Public domain",
+          "artist": "Aaabdolrashidi",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:QANRESTAN_SIRAAF.jpg",
+          "sourceType": "core",
+          "sourceArticleId": "teniky-wp",
+          "sourceGeohash4": "mh01",
+          "categories": [
+            "2009 in Bandar Siraf",
+            "PD-self",
+            "Self-published work",
+            "Siraf Rock-cut Cemetery"
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "path": "_m/m/h/0/1/teniky-wp/teniky-rock-architecture-in-madagascar.mp4",
+          "posterPath": "_m/m/h/0/1/teniky-wp/teniky-rock-architecture-in-madagascar-poster.jpg",
+          "audioPath": "_m/m/h/0/1/teniky-wp/teniky-rock-architecture-in-madagascar-audio.mp3",
+          "filename": "Teniky Rock Architecture in Madagascar.webm",
+          "caption": "scans of rock-cut architecture at Teniky",
+          "width": 960,
+          "height": 720,
+          "duration": 73.481,
+          "mimeType": "video/mp4",
+          "originalMimeType": "video/webm",
+          "license": "CC BY 3.0",
+          "artist": "Guido Schreurs",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Teniky_Rock_Architecture_in_Madagascar.webm",
+          "accessedAt": "2026-06-27T21:50:50.884Z",
+          "sourceType": "core",
+          "sourceArticleId": "teniky-wp",
+          "relevanceScore": 40,
+          "scoringFactors": {
+            "titleRelevance": 20,
+            "descriptionRelevance": 20,
+            "historicalBonus": 0,
+            "aerialBonus": 0
+          }
+        }
+      ]
+    }
+  }
+}

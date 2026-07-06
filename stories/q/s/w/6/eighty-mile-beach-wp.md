@@ -1,0 +1,58 @@
+# Eighty Mile Beach
+
+A 220-kilometre ribbon of sand where the Great Sandy Desert meets the Indian Ocean, Eighty Mile Beach hosts over 400,000 migratory shorebirds and is arguably the longest beach on Earth.
+
+**Location:** -19.2697, 121.3970
+
+**Categories:** coastal, wildlife, indigenous-culture, conservation, ramsar-site
+
+## Introduction
+
+In the Karajarri language, this place is called Wender -- "a creaking noise" -- for the sound your feet make walking through its dry sand. The name captures something essential about Eighty Mile Beach: it is a place defined by texture and scale, a 220-kilometre ribbon of shell-flecked sand stretching along northwestern Australia where the Great Sandy Desert slides into the Indian Ocean. Despite its English name, it is far longer than eighty miles. Despite its apparent emptiness, it is one of the most important shorebird habitats on the planet, a Ramsar-listed wetland where more than 400,000 birds gather each year at the end of migration routes spanning half the globe.
+
+## A Beach Without End
+
+Eighty Mile Beach curves gently from Cape Missiessy in the northeast to Cape Keraudren in the southwest, forming the coastline of the Dampierland bioregion within the Shire of Broome. The beach itself is about 100 metres wide with a gentle gradient, composed of sand mixed with a high proportion of shell fragments. What makes it extraordinary is the tidal range -- up to nine metres in amplitude, among the largest in Australia. When the tide withdraws, mudflats stretching one to five kilometres wide emerge, glistening with trapped water and teeming with the invertebrates that sustain vast flocks of wading birds. Behind the beach, primary dunes stabilized by green birdflower and beach spinifex give way to a narrow floodplain and then to pindan woodland. Four large pastoral leases -- Anna Plains, Mandora, Wallal, and Pardoo -- cover most of the hinterland, operating principally as cattle stations.
+
+## Gateway of Wings
+
+Each year, shorebirds breeding in northern Asia and Alaska begin their southward migration along the East Asian-Australasian Flyway, one of the great avian highways of the world. Eighty Mile Beach is where many of them land. Surveys regularly count more than 400,000 birds here, making it one of the most important non-breeding sites in the flyway. The beach is one of the world's most critical locations for the great knot, with up to 169,000 individuals counted in a single survey. Bar-tailed godwits number around 110,000, red knots 80,000. Curlew sandpipers, red-necked stints, large sand plovers, and Oriental plovers each appear in tens of thousands. Since 1981, the Australasian Wader Studies Group has conducted nearly annual expeditions here, banding and counting birds as part of a long-term monitoring program. Since 1992, most captured birds have also been leg-flagged to trace their precise migration routes and staging sites across the hemisphere.
+
+## Country and Conflict
+
+Traditional ownership of the northern section of Eighty Mile Beach is shared between the Nyangumarta and Karajarri peoples, whose overlapping native title claims were determined together in May 2012. Many Aboriginal people with connections to the area now live at Bidyadanga, formerly known as the La Grange Mission. Behind the beach, freshwater soaks called lirri were traditionally vital water sources, and several became water reserves along the Kimberley-De Grey Stock Route, used for long-distance cattle droving until the 1960s. The Cold War left its own marks: the Talgarno military base, east of Anna Plains homestead, was used to monitor and recover British Blue Streak rockets test-fired from Woomera, South Australia. Concrete blockhouses, artesian bores, and a gravel airstrip remain. In 1999, the Department of Defence test-fired a missile from Anna Plains in connection with the Jindalee over-the-horizon radar network.
+
+## Desert Meets Sea
+
+Inland from the beach, Mandora Marsh -- a diverse wetland complex based on a palaeo-river system -- lies at the western edge of the Great Sandy Desert. Though included in the Eighty Mile Beach Ramsar Site, its environmental values are distinct: the salt marsh supports different species and ecological processes from the tidal flats along the coast. On the coastal plains of Anna Plains Station, Australian bustards stride through the grassland and red kangaroos concentrate in unusually high densities. Euros -- the stocky common wallaroo -- thrive on the western part of Wallal Downs. Flatback turtles nest along scattered sections of the beach between October and April. Tourism remains low, though it is increasing: a caravan park on Wallal Downs offers one of the few access points, 250 kilometres north of Port Hedland and 365 kilometres south of Broome. Visitors come for fishing, shell collecting, and the simple astonishment of standing on a beach that stretches to the vanishing point in both directions.
+
+## Flight Context
+
+Centered at approximately 19.27S, 121.40E. The beach extends roughly 220 km from Cape Missiessy (northeast) to Cape Keraudren (southwest), forming a shallow arc visible from altitude as a pale line between the red-brown desert and turquoise ocean. No major airport nearby; the nearest airfields are Broome Airport (YBRM, 365 km north) and Port Hedland Airport (YPPD, 250 km south). The Great Northern Highway runs inland roughly parallel to the beach. At low tide, the extensive mudflats are clearly visible from the air, with the tidal range creating dramatic differences in the coastline's appearance. The Mandora Salt Marsh complex is visible inland to the east.
+
+## Sources
+
+- [Eighty Mile Beach - Wikipedia](https://en.wikipedia.org/?curid=2831097)
+  - 220-kilometre length confirmed
+  - More than 400,000 shorebirds confirmed
+  - Ramsar-listed wetland confirmed
+  - Great knot up to 169,000 confirmed
+  - Bar-tailed godwit 110,000 confirmed
+  - Red knot 80,000 confirmed
+  - Tidal range up to nine metres confirmed
+  - Karajarri and Nyangumarta native title determined May 2012 confirmed
+  - Australasian Wader Studies Group since 1981 confirmed
+  - Leg-flagging since 1992 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 8 facts verified · 0 corrections
+
+Verified: 220 km length confirmed, 400,000+ shorebirds confirmed, Ramsar listed confirmed, great knot 169,000 confirmed, bar-tailed godwit 110,000 confirmed, Karajarri name Wender confirmed, tidal range 9m confirmed, native title 2012 confirmed.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 740*
+*Read time: 4 minutes*

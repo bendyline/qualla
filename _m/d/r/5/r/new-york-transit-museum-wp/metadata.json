@@ -1424,5 +1424,24 @@
     "_m/d/r/5/r/new-york-transit-museum-wp/r110b-3007.jpg",
     "_m/d/r/5/r/new-york-transit-museum-wp/ingersoll-rand-compressor.jpg"
   ],
-  "updatedAt": "2026-03-30T13:10:28.038Z"
+  "updatedAt": "2026-03-30T13:10:28.038Z",
+  "narration": {
+    "files": [
+      "dr5r-new-york-transit-museum-flight-context.mp3",
+      "dr5r-new-york-transit-museum-intro.mp3",
+      "dr5r-new-york-transit-museum-a-station-that-couldnt-earn-its-keep.mp3",
+      "dr5r-new-york-transit-museum-one-token-for-admission.mp3",
+      "dr5r-new-york-transit-museum-railcars-you-can-board.mp3",
+      "dr5r-new-york-transit-museum-where-tracks-meet-memory.mp3"
+    ],
+    "durations": {
+      "dr5r-new-york-transit-museum-flight-context.mp3": 45.1759166,
+      "dr5r-new-york-transit-museum-intro.mp3": 45.202375,
+      "dr5r-new-york-transit-museum-a-station-that-couldnt-earn-its-keep.mp3": 70.992125,
+      "dr5r-new-york-transit-museum-one-token-for-admission.mp3": 59.9335833,
+      "dr5r-new-york-transit-museum-railcars-you-can-board.mp3": 71.121125,
+      "dr5r-new-york-transit-museum-where-tracks-meet-memory.mp3": 64.3047916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

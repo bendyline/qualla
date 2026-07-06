@@ -1,0 +1,60 @@
+# Fort Pasir Panjang
+
+A 19th-century British coastal fort on Singapore's Labrador Point that guarded Keppel Harbour with mines and heavy guns -- and witnessed one of World War II's most brutal hospital massacres.
+
+**Location:** 1.2659, 103.8030
+
+**Categories:** fort, coastal-defense, world-war-ii, colonial-history, heritage-site, military-history
+
+## Introduction
+
+Two craggy granite outcrops once stood at the entrance to Singapore's New Harbour, guiding ancient mariners through what the Chinese called Long Ya Men -- the Dragon's Teeth Gate. In 1848, a British surveyor blew them up to widen the channel. The empire that destroyed the Dragon's Teeth then spent the next three decades building something far more lethal in the same spot: Fort Pasir Panjang, a coastal artillery position on the Labrador cliffs designed to ensure that no uninvited ship would ever pass through the harbour entrance again. The fort's guns would eventually fire -- but not at the ships they were built to stop.
+
+## Where the Dragon's Teeth Once Stood
+
+Labrador's strategic value was obvious as early as 1843, when the British began planning defenses for Singapore, the trading post Stamford Raffles had founded for the East India Company in 1819. The harbour below -- renamed Keppel Harbour in 1900 after Admiral Sir Henry Keppel, who had fought pirates there in 1842 -- was the gateway to Singapore's commercial wealth. By the 1850s, the piracy that had plagued the strait was subsiding, but European imperial rivalries were heating up. In 1878, the British decided to build forts on both sides of the harbour entrance: Fort Pasir Panjang on the Labrador cliffs and Fort Siloso on Pulau Blakang Mati, the island now known as Sentosa. Steep cliffs and dense mangrove swamps formed natural barriers around both positions. By 1881, underwater mines tethered to the seabed floated invisibly between the two forts, with a single safe channel threading the minefield for friendly ships. The narrow gap -- just 240 meters -- spawned rumors of tunnels connecting the two forts beneath the water, though no evidence of such tunnels has ever been found.
+
+## The Worst Guns in the Service
+
+The fort's first weapons were two 7-inch rifled muzzle-loading guns, installed in 1878 as a temporary measure. They were removed, then reinstalled alongside 9.2-inch guns after an 1885 defense review. But the 7-inch guns were slow -- two to three rounds per minute -- and inaccurate. The fort's own engineer, H.E. McCallum, called them "the worst in the service." By 1896, the proposal came to replace them with 6-inch quick-firing guns, weapons that could hurl 45-kilogram shells at 25 to 30 rounds per minute, fast enough to engage the motor torpedo boats that had begun appearing in the 1880s. The casemate built in 1886 at the hill's highest point stored ammunition and sheltered gunners. Its four rooms included a tunnel entrance to underground storerooms beneath the gun emplacements -- a network that remains the most extensive tunnel system discovered at Labrador Park. Among the bricks in the casemate walls are some supplied by Lim Bo Seng, later celebrated as one of Singapore's greatest war heroes, who in the 1930s was a major brick contractor for the colonial government.
+
+## Forty-Eight Hours on the Ridge
+
+By 13 February 1942, the Japanese advance had reached Pasir Panjang Ridge. The men of the 1st Battalion, Charlie Company, Malay Regiment, led by Lieutenant Adnan Bin Saidi, held the position at what is now Kent Ridge Park. They fought for 48 hours. The guns of Fort Pasir Panjang fired high-explosive shells at the advancing Japanese forces, supporting the Malay Regiment's stand -- one of the most determined defenses of the entire Battle of Singapore. A persistent myth holds that Singapore's coastal guns could only fire seaward. In fact, with the exception of the 15-inch guns at Buona Vista Battery, all of Singapore's large guns had 360-degree traverse. The Labrador Battery's guns could and did fire inland. But the ammunition allocated to them was primarily armor-piercing rounds, designed to penetrate ship hulls rather than kill infantry. Against troops in the open, these rounds were largely ineffective. The wrong shells for the right guns -- a detail that mattered enormously.
+
+## The Hospital That Became a Killing Ground
+
+On 14 February 1942, the day after the ridge battle, Japanese soldiers entered nearby Alexandra Hospital. Enraged by their losses and by retreating Indian Brigade soldiers who had fired from the hospital grounds, three groups of Japanese troops bayoneted everyone they encountered -- soldiers, patients, medical staff. Lieutenant W.E.J. Weston, a British officer carrying a white flag, was killed. Corporal Holden, lying on an operating table, was stabbed where he lay. Approximately 200 people were killed, though some survived by falling to the floor and pretending to be dead. The following day, Lieutenant-General Renya Mutaguchi, commander of the Japanese 18th Division, toured the hospital, distributed tinned fruit to the remaining staff, apologized for what had happened, and ordered the execution of the soldiers responsible. On 15 February, the British destroyed their remaining coastal artillery and surrendered Singapore.
+
+## Ruins That Remember
+
+After the war, advances in air defense made coastal forts obsolete worldwide, and Singapore's ring of fortifications was abandoned. The British dismantled what they could before leaving. But at Labrador Park, the ruins endure -- gun emplacements overgrown with tropical vegetation, tunnel entrances that still descend into darkness, the casemate walls still standing with Lim Bo Seng's bricks embedded in them. In 1995, the National Heritage Board gazetted Fort Pasir Panjang as one of Singapore's 11 official World War II sites. A white obelisk still stands at Tanjong Berlayer Point, near where the Dragon's Teeth once rose, marking what was once considered the southernmost tip of the Asian continent. The fort that was built to defend against threats from the sea ultimately faced its greatest test from the land. Its story is Singapore's in miniature: a place that planned for one future and got another entirely.
+
+## Flight Context
+
+Located at 1.266N, 103.803E on Labrador Point at Singapore's southern coast, overlooking Keppel Harbour and Sentosa Island (where Fort Siloso stands opposite). Visible as a green coastal headland. The ruins are within Labrador Nature Reserve. Singapore Changi Airport (WSSS) is approximately 20 km to the northeast. Seletar Airport (WSSL) is to the north. Best viewed at 1,000-2,000 ft for the harbour entrance context.
+
+## Sources
+
+- [Fort Pasir Panjang - Wikipedia](https://en.wikipedia.org/?curid=11960386)
+  - British began planning Singapore defenses in 1843 - confirmed
+  - Keppel Harbour renamed 1900 after Admiral Henry Keppel - confirmed
+  - Fort Pasir Panjang and Fort Siloso built in 1878 on opposing harbour shores - confirmed
+  - Adnan Bin Saidi led C Company, 1st Battalion Malay Regiment at Pasir Panjang Ridge (now Kent Ridge Park) - confirmed
+  - Battle of Pasir Panjang: 13-14 February 1942, approximately 48 hours - confirmed
+  - Alexandra Hospital massacre on 14 February 1942, approximately 200-250 killed - confirmed
+  - Mutaguchi visited hospital, distributed tinned fruit, ordered execution of soldiers responsible - partially supported by some sources though Mutaguchi later denied the apology
+  - National Heritage Board gazetted Fort Pasir Panjang in 1995 as one of 11 official WWII sites - confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 8 facts verified · 0 corrections
+
+Key facts verified: Adnan Bin Saidi in C Company 1st Battalion Malay Regiment at Pasir Panjang Ridge/Bukit Chandu (now Kent Ridge Park), battle 13-14 Feb 1942, Alexandra Hospital massacre 14 Feb approximately 200 killed. Mutaguchi visited, distributed tinned fruit, ordered executions - partially supported by historical sources (Mutaguchi later denied the apology but some sources confirm the order). Fort gazetted 1995 as one of 11 WWII sites.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 860*
+*Read time: 5 minutes*

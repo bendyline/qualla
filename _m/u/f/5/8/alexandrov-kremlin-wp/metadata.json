@@ -503,5 +503,24 @@
     "_m/u/f/5/8/alexandrov-kremlin-wp/aleksandrov-monument-to-the-pr.jpg",
     "_m/u/f/5/8/alexandrov-kremlin-wp/alexandrov-kremlin-carriage-ba.jpg"
   ],
-  "updatedAt": "2026-04-01T05:50:53.708Z"
+  "updatedAt": "2026-04-01T05:50:53.708Z",
+  "narration": {
+    "files": [
+      "uf58-alexandrov-kremlin-flight-context.mp3",
+      "uf58-alexandrov-kremlin-intro.mp3",
+      "uf58-alexandrov-kremlin-a-country-palace-turned-capital.mp3",
+      "uf58-alexandrov-kremlin-ivans-shadow-capital.mp3",
+      "uf58-alexandrov-kremlin-departure-and-afterlife.mp3",
+      "uf58-alexandrov-kremlin-between-museum-and-monastery.mp3"
+    ],
+    "durations": {
+      "uf58-alexandrov-kremlin-flight-context.mp3": 42.2382916,
+      "uf58-alexandrov-kremlin-intro.mp3": 40.609,
+      "uf58-alexandrov-kremlin-a-country-palace-turned-capital.mp3": 52.645875,
+      "uf58-alexandrov-kremlin-ivans-shadow-capital.mp3": 65.9912083,
+      "uf58-alexandrov-kremlin-departure-and-afterlife.mp3": 47.684375,
+      "uf58-alexandrov-kremlin-between-museum-and-monastery.mp3": 51.2345833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

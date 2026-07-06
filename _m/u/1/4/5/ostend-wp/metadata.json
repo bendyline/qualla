@@ -114,5 +114,26 @@
     "_m/u/1/4/5/ostend-wp/oostende-airport-1.jpg",
     "_m/u/1/4/5/ostend-wp/ensormuseum.jpg"
   ],
-  "updatedAt": "2026-02-20T16:02:14.025Z"
+  "updatedAt": "2026-02-20T16:02:14.025Z",
+  "narration": {
+    "files": [
+      "u145-ostend-flight-context.mp3",
+      "u145-ostend-intro.mp3",
+      "u145-ostend-the-queen-of-the-belgian-coast.mp3",
+      "u145-ostend-ensors-masks.mp3",
+      "u145-ostend-the-most-bombed-city-in-belgium.mp3",
+      "u145-ostend-where-marvin-gaye-got-clean.mp3",
+      "u145-ostend-coast-time.mp3"
+    ],
+    "durations": {
+      "u145-ostend-flight-context.mp3": 50.4387916,
+      "u145-ostend-intro.mp3": 35.4369166,
+      "u145-ostend-the-queen-of-the-belgian-coast.mp3": 53.55,
+      "u145-ostend-ensors-masks.mp3": 53.8535833,
+      "u145-ostend-the-most-bombed-city-in-belgium.mp3": 62.6259583,
+      "u145-ostend-where-marvin-gaye-got-clean.mp3": 56.1130416,
+      "u145-ostend-coast-time.mp3": 51.8484166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

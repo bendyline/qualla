@@ -115,5 +115,26 @@
   "galleryPaths": [
     "_m/w/2/1/z/bombing-of-singapore-1944-1945-wp/primary-targets-united.png",
     "_m/w/2/1/z/bombing-of-singapore-1944-1945-wp/map-singapore-showing.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w21z-bombing-of-singapore-1944-1945-flight-context.mp3",
+      "w21z-bombing-of-singapore-1944-1945-intro.mp3",
+      "w21z-bombing-of-singapore-1944-1945-the-prize-at-sembawang.mp3",
+      "w21z-bombing-of-singapore-1944-1945-superfortresses-over-the-straits.mp3",
+      "w21z-bombing-of-singapore-1944-1945-mines-in-the-moonlight.mp3",
+      "w21z-bombing-of-singapore-1944-1945-a-propaganda-war-in-the-skies.mp3",
+      "w21z-bombing-of-singapore-1944-1945-the-calculus-of-restraint.mp3"
+    ],
+    "durations": {
+      "w21z-bombing-of-singapore-1944-1945-flight-context.mp3": 45.2764166,
+      "w21z-bombing-of-singapore-1944-1945-intro.mp3": 53.367125,
+      "w21z-bombing-of-singapore-1944-1945-the-prize-at-sembawang.mp3": 65.8089583,
+      "w21z-bombing-of-singapore-1944-1945-superfortresses-over-the-straits.mp3": 84.46875,
+      "w21z-bombing-of-singapore-1944-1945-mines-in-the-moonlight.mp3": 59.462375,
+      "w21z-bombing-of-singapore-1944-1945-a-propaganda-war-in-the-skies.mp3": 68.5729166,
+      "w21z-bombing-of-singapore-1944-1945-the-calculus-of-restraint.mp3": 76.61875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

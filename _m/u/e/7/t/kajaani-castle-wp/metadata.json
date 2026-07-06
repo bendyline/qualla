@@ -501,5 +501,24 @@
     "_m/u/e/7/t/kajaani-castle-wp/kajaneborg.jpg",
     "_m/u/e/7/t/kajaani-castle-wp/former-chapel-of-the-kajaani-c.jpg"
   ],
-  "updatedAt": "2026-04-01T05:17:08.829Z"
+  "updatedAt": "2026-04-01T05:17:08.829Z",
+  "narration": {
+    "files": [
+      "ue7t-kajaani-castle-flight-context.mp3",
+      "ue7t-kajaani-castle-intro.mp3",
+      "ue7t-kajaani-castle-a-prison-before-it-was-finished.mp3",
+      "ue7t-kajaani-castle-the-counts-brief-golden-age.mp3",
+      "ue7t-kajaani-castle-siege-explosion-and-silence.mp3",
+      "ue7t-kajaani-castle-granite-memory-on-the-rapids.mp3"
+    ],
+    "durations": {
+      "ue7t-kajaani-castle-flight-context.mp3": 40.9275,
+      "ue7t-kajaani-castle-intro.mp3": 42.9360416,
+      "ue7t-kajaani-castle-a-prison-before-it-was-finished.mp3": 59.3495416,
+      "ue7t-kajaani-castle-the-counts-brief-golden-age.mp3": 72.1766666,
+      "ue7t-kajaani-castle-siege-explosion-and-silence.mp3": 60.7614583,
+      "ue7t-kajaani-castle-granite-memory-on-the-rapids.mp3": 61.6962916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

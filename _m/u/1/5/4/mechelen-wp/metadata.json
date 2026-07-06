@@ -1,6 +1,53 @@
 {
   "articleId": "mechelen-wp",
-  "gallery": [],
-  "galleryPaths": [],
-  "updatedAt": "2026-02-20T16:46:26.688Z"
+  "gallery": [
+    {
+      "filename": "Mechelen town square 3.jpg",
+      "title": "File:Mechelen town square 3.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Mechelen_town_square_3.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Mechelen_town_square_3.jpg",
+      "width": 2272,
+      "height": 1704,
+      "mime": "image/jpeg",
+      "license": "Public domain",
+      "description": "Picture of Mechelen (Belgium) town square. Picture taken from cathedral Sint-Rombouts.",
+      "dateCreated": "2006-09-03 19:00:52",
+      "categories": [
+        "Files with no machine-readable author",
+        "Grote Markt (Mechelen)",
+        "Media lacking author information",
+        "PD-self",
+        "Self-published work",
+        "Views from Sint-Romboutskathedraal"
+      ],
+      "sourceType": "poi",
+      "sourceArticleId": "mechelen-wp",
+      "sourceGeohash4": "u154",
+      "mediumPath": "_m/u/1/5/4/mechelen-wp/mechelen-town-square-3-medium.webp",
+      "smallPath": "_m/u/1/5/4/mechelen-wp/mechelen-town-square-3-small.webp"
+    }
+  ],
+  "galleryPaths": [
+    "_m/u/1/5/4/mechelen-wp/mechelen-town-square-3.jpg"
+  ],
+  "updatedAt": "2026-05-19T13:19:10.798Z",
+  "narration": {
+    "files": [
+      "u154-mechelen-flight-context.mp3",
+      "u154-mechelen-intro.mp3",
+      "u154-mechelen-margaret-of-austrias-court.mp3",
+      "u154-mechelen-the-tower-that-stayed-half-built.mp3",
+      "u154-mechelen-lace-tapestries-furniture.mp3",
+      "u154-mechelen-what-the-casern-dossin-remembers.mp3"
+    ],
+    "durations": {
+      "u154-mechelen-flight-context.mp3": 47.33225,
+      "u154-mechelen-intro.mp3": 49.6362916,
+      "u154-mechelen-margaret-of-austrias-court.mp3": 61.3272083,
+      "u154-mechelen-the-tower-that-stayed-half-built.mp3": 62.4097916,
+      "u154-mechelen-lace-tapestries-furniture.mp3": 63.52375,
+      "u154-mechelen-what-the-casern-dossin-remembers.mp3": 62.167375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

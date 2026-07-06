@@ -1,0 +1,64 @@
+# Lake Memphremagog
+
+A glacial lake split between Vermont and Quebec where the international border bisects an island, ten lighthouses once guided paddlewheelers, and something large may still lurk in the depths.
+
+**Location:** 45.1116, -72.2785
+
+**Categories:** lake, border, lighthouse, cryptid, indigenous-history, environmental
+
+## Introduction
+
+The Abenaki called it Mamlawbagak - a long and large sheet of water. The word was a precise description, not poetry, though the lake earns both. Lake Memphremagog stretches between Newport, Vermont and Magog, Quebec, its long, irregular body crossing the international border in a way that makes cartographers and customs agents equally nervous. Province Island, the lake's largest, is itself divided by the boundary line - roughly one-tenth American, the rest Canadian. The lake provides drinking water for 200,000 people, contains 21 islands, and has been home to at least ten lighthouses, a fleet of paddlewheelers, and a creature called Memphre that locals have reported seeing since the 18th century.
+
+## Two Countries, One Lake
+
+The arithmetic of Memphremagog is wonderfully lopsided. Seventy-three percent of the lake's surface area lies in Quebec, but three-quarters of its watershed sits in Vermont. This means most of the water feeding the lake originates in one country while most of the lake itself belongs to another - a hydrological arrangement that has complicated environmental management for over a century. Four Vermont rivers empty directly into the lake: the Clyde, Barton, Black, and Johns. The Magog River drains it northeast into Quebec, where the Memphremagog Dam generates hydroelectric power and regulates water levels under a 1935 treaty between the United States and Canada. The lake bottom drops dramatically on the Canadian side, plunging opposite Mont Owl's Head to its maximum recorded depth near Jewett Point, making it the third deepest lake in Vermont despite being mostly in Quebec.
+
+## Lighthouses on an Inland Sea
+
+For a freshwater lake in the rural borderlands, Memphremagog once boasted a surprising maritime infrastructure. At least three lighthouses stood on the Vermont shore and seven on the Quebec side, most of the Canadian ones established in 1878. The Maxfield Point Light was a conical cast-iron tower 25 feet tall, its fixed white light visible for ten miles. The Newport Wharf Light was a red steel skeleton on a concrete foundation. Whipple Point Light, a hexagonal wooden tower on a pier, was deactivated around 1906. On the Quebec side, the Witch Shoal Lighthouse has been destroyed three times - by ice in 1933, swept away by spring ice again in 1978, and since 1980 replaced by a seasonal mast installed only from May to October. These lights guided the paddlewheelers that once plied the lake: the Mountain Maid from 1850 to 1870, the Lady of the Lake from 1867 to 1917, and the Anthemis, built in 1909 to carry 300 passengers.
+
+## Rangers, Captives, and War
+
+The lake's history runs deeper than resort tourism. In 1753, Abenaki brought the ransomed John Stark - who would later become a general in the American Revolution and coin New Hampshire's state motto, 'Live Free or Die' - down the lake to the site where Newport now stands. Six years later, Rogers' Rangers retreated south along the lake after their infamous raid on the Abenaki village of Saint-Francis in 1759, splitting up along the east shore to evade pursuing forces. The first accurate map depicting the lake appeared in 1776, marking the beginning of settler interest in a body of water the Abenaki had known intimately for centuries. The name Memphremagog itself comes from the Algonkian Memrahabegek, meaning 'where there is a big expanse of water' - a description that remains as accurate as the day it was first spoken.
+
+## The Monster in the Deep
+
+Every proper lake needs a monster, and Memphremagog has Memphre. Sightings of the cryptid date to the 18th century and continue through modern times - a report surfaced as recently as 2000. The creature joins a crowded field of North American lake monsters, from Champlain's Champ to Okanagan's Ogopogo, but Memphre has the advantage of inhabiting a genuinely deep and murky lake that straddles an international border, making comprehensive sonar surveys a diplomatic as well as scientific challenge. Whether Memphre is a large fish, a misidentified log, or something stranger, the folklore has embedded itself into the cultural identity of both the Vermont and Quebec communities along the shore. The lake has also inspired fiction: Chris Bohjalian set a nuclear meltdown here, Kenneth Roberts wrote Rogers' Rangers retreating along its banks, and the 1986 film The Decline of the American Empire was shot on its shores.
+
+## Clean Water, Dirty Runoff
+
+The lake that provides drinking water for 200,000 people faces a persistent tension between its ecological importance and the agricultural economy of its watershed. A 2010 study found that while farms account for just 16 percent of total land use in the drainage area, they produce 44 percent of the nutrient runoff. Phosphorus levels measured at 17 micrograms per liter - 18 percent above baseline standards for a healthy lake. The Lake Memphremagog Watershed Association, formed in 1994, has worked to address these issues, but progress is complicated by the cross-border nature of the problem. Vermont invested $10 million in clean water projects from 2016 to 2021, yet the lake still fails to meet water quality standards. In September 2020, a sewage treatment facility in Newport leaked roughly 7,000 gallons of effluent directly into the lake - a reminder that the Abenaki's 'big expanse of water' remains both precious and vulnerable.
+
+## Flight Context
+
+Located at 45.11N, 72.28W, Lake Memphremagog stretches roughly north-south across the Quebec-Vermont border. The lake is unmistakable from altitude: a long, narrow, irregular body of water with 21 islands, the largest being Province Island which is bisected by the international border. Mont Owl's Head rises on the western shore. Newport, Vermont sits at the southern end; Magog, Quebec at the northern end. Nearest airports: Newport State Airport (KEFK) at the lake's southern tip; Sherbrooke (CYSC) approximately 40 km northeast. Burlington International (KBTV) is about 100 km west. Recommended viewing altitude: 3,000-6,000 feet AGL for the full length of the lake. The cleared border corridor crosses Province Island and is visible from altitude. Watch for terrain rising along the western shore.
+
+## Sources
+
+- [Lake Memphremagog - Wikipedia](https://en.wikipedia.org/?curid=3645527)
+  - 73% of lake surface in Quebec, watershed majority in Vermont
+  - 21 islands including Province Island divided by the international border
+  - Third deepest lake in Vermont; maximum depth opposite Jewett Point
+  - At least 3 lighthouses on Vermont shore, 7 on Quebec side
+  - Witch Shoal Lighthouse destroyed by ice in 1933, swept away in 1978, replaced by seasonal mast since 1980
+  - John Stark ransomed in 1753 and brought down the lake to Newport site
+  - Rogers' Rangers retreated along the lake in 1759 after St. Francis raid
+  - Decline of the American Empire (1986) filmed on lake shores
+  - Chris Bohjalian set a nuclear meltdown at Lake Memphremagog in novel Close Your Eyes Hold Hands
+- [New England Historical Society - John Stark](https://newenglandhistoricalsociety.com/john-stark-runs-gauntlet-way/)
+  - John Stark captured by Abenaki in 1752, ransomed spring 1753
+  - Stark coined New Hampshire state motto 'Live Free or Die'
+
+## Review Notes
+
+**Reviewed:** 2026-02-27 · 9 facts verified · 0 corrections
+
+All key facts verified: 73% Quebec/watershed majority Vermont, 21 islands, Province Island bisected by border, third deepest lake in Vermont, lighthouses 3 VT/7 QC, Witch Shoal destroyed 1933/1978/seasonal mast since 1980, John Stark ransomed 1753, Rogers Rangers 1759 retreat confirmed, Decline of the American Empire 1986 filmed here, Bohjalian nuclear novel confirmed. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 840*
+*Read time: 4 minutes*

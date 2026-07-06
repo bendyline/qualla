@@ -149,5 +149,26 @@
     "_m/9/y/7/t/woolaroc-museum-wk/hero.jpg",
     "_m/s/m/c/7/siege-of-tripoli-1551-wp/ambasciatore.jpg",
     "_m/s/m/c/7/siege-of-tripoli-1551-wp/sujet-theatre-de-la-gu.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "smc7-siege-of-tripoli-1551-flight-context.mp3",
+      "smc7-siege-of-tripoli-1551-intro.mp3",
+      "smc7-siege-of-tripoli-1551-a-gift-nobody-wanted.mp3",
+      "smc7-siege-of-tripoli-1551-the-storm-from-gozo.mp3",
+      "smc7-siege-of-tripoli-1551-six-days-of-bombardment.mp3",
+      "smc7-siege-of-tripoli-1551-draguts-inheritance.mp3",
+      "smc7-siege-of-tripoli-1551-blame-and-aftermath.mp3"
+    ],
+    "durations": {
+      "smc7-siege-of-tripoli-1551-flight-context.mp3": 45.9658333,
+      "smc7-siege-of-tripoli-1551-intro.mp3": 41.442375,
+      "smc7-siege-of-tripoli-1551-a-gift-nobody-wanted.mp3": 63.4335416,
+      "smc7-siege-of-tripoli-1551-the-storm-from-gozo.mp3": 44.6096666,
+      "smc7-siege-of-tripoli-1551-six-days-of-bombardment.mp3": 63.7354583,
+      "smc7-siege-of-tripoli-1551-draguts-inheritance.mp3": 52.6666666,
+      "smc7-siege-of-tripoli-1551-blame-and-aftermath.mp3": 57.9457916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1,0 +1,60 @@
+# USS Somers (DD-947)
+
+A Cold War destroyer that served eleven deployments from the North Atlantic to Vietnam, USS Somers was reinvented as a guided missile destroyer before ending her days as a target off Kauai, sunk by B-52 missiles at a depth of 2,800 fathoms.
+
+**Location:** 22.3500, -160.9670
+
+**Categories:** military-history, cold-war, vietnam-war, maritime, naval-history
+
+## Introduction
+
+Two B-52 Stratofortresses from the 20th Bomb Squadron each launched an AGM-142 Have Nap missile at the drifting hull. Both hit. The next day, an explosive ordnance disposal team rappelled from a helicopter onto the listing wreck and set charges. USS Somers sank for the last time on July 22, 1998, thirty nautical miles northwest of Kauai. She came to rest at 2,800 fathoms -- more than three miles down. It was a violent end for a ship that had spent nearly four decades serving her country, but the Navy has its own ideas about retirement.
+
+## Bath-Built and Bound for the World
+
+The sixth ship to carry the name Somers was laid down at Bath Iron Works in Maine on March 4, 1957, and launched the following May. She was commissioned on April 3, 1959, as a Forrest Sherman-class destroyer -- a fast, versatile warship designed for the open-ocean demands of the Cold War. Her maiden voyage took her to the ports of northern Europe: Copenhagen, Stockholm, Portsmouth, and Kiel, where she represented the Navy during Kiel Week. After transiting the Panama Canal, she arrived at her home port of San Diego in July 1959. Over the next six years, Somers alternated between West Coast operations and deployments to the 7th Fleet in the western Pacific. Twice she steamed to Australia to help commemorate the Battle of the Coral Sea.
+
+## Into the Tonkin Gulf
+
+As American involvement in Vietnam escalated, Somers found herself in the thick of it. She plied the Gulf of Tonkin on plane guard duty, shadowing aircraft carriers as their strike groups pounded supply lines in North Vietnam. The work was relentless and unglamorous: station-keeping in tropical heat, ready to recover downed aviators, punctuated by the thunder of naval gunfire support along the coast. Between 1969 and 1973, she returned to the Gulf of Tonkin repeatedly, plane-guarding carriers like Hancock, rendering gunfire support, and standing watch on search and rescue stations. In the gaps between line periods, she made port calls that traced the arc of American power across Asia -- Subic Bay, Hong Kong, Singapore, Sasebo, Keelung, Penang.
+
+## A Ship Rebuilt
+
+In April 1966, Somers entered San Francisco Naval Shipyard at Hunters Point for a transformation. Over the next twenty-two months, ninety percent of her superstructure was torn out and replaced. She received the AN/SPS-48A three-dimensional air search radar, the Tartar surface-to-air missile system, and the ASROC antisubmarine rocket system. Her engineering plant was completely overhauled. When she emerged in February 1968, she was reclassified as DDG-34, a guided missile destroyer -- essentially a new ship on an old hull. The conversion reflected the Navy's Cold War calculus: it was cheaper to modernize an existing destroyer than to build one from scratch, and the Forrest Sherman class had proven hulls worth the investment.
+
+## The Pacific's Largest Exercise
+
+After Vietnam, Somers shifted her home port to Pearl Harbor in 1973 and continued western Pacific deployments through the late 1970s. In July 1981, she participated in FLEETEX 1-81, described as the largest U.S. Navy exercise in history at that time. Her final deployment came later that year with Battle Group Delta, led by USS Constellation. She operated primarily in the Indian Ocean, making port calls in Guam, the Philippines, Diego Garcia, Bunbury in Australia, the Maldive Islands, and Singapore. Returning to Pearl Harbor in May 1982, her crew was preparing for more operations when word came that she was to be decommissioned. The announcement was abrupt -- Somers had earned two Marjorie Sterrett Battleship awards, a Meritorious Unit Commendation, and three Battle Efficiency E awards. She was decommissioned on November 19, 1982.
+
+## Three Miles Down
+
+After decommissioning, Somers sat in the Inactive Ship Facility at Pearl Harbor until about 1988, then was transferred to the Maritime Administration and towed to Port Hueneme, California, where she served as an experimental ship for several years. On May 20, 1998, she was towed out of Port Hueneme for the last time. During the Rim of the Pacific 1998 exercise -- RIMPAC, the world's largest international maritime exercise -- she was set adrift northwest of Kauai as a target. The B-52 strikes and the demolition charges that followed sent her to the bottom in deep Pacific water. For a ship that had crossed the Pacific dozens of times, visited ports from Kiel to Penang, survived Vietnam and the Cold War, the ocean off Hawaii became both her final port and her grave.
+
+## Flight Context
+
+USS Somers rests at approximately 22.35N, 160.97W, about 30 nautical miles northwest of Kauai, Hawaii, at a depth of 2,800 fathoms (approximately 16,800 feet). The nearest airports are Lihue Airport (PHLI) on Kauai and Barking Sands Pacific Missile Range Facility (PHBK) on Kauai's west coast. From the air, the sinking site is open ocean with no surface markers. The western coast of Kauai is visible to the southeast, and on a clear day Ni'ihau may be visible to the south-southwest.
+
+## Sources
+
+- [USS Somers (DD-947) - Wikipedia](https://en.wikipedia.org/?curid=527662)
+  - Laid down March 4, 1957, launched May 1957, commissioned April 3, 1959 confirmed
+  - Forrest Sherman-class destroyer confirmed
+  - Reclassified DDG-34 after modernization confirmed
+  - Decommissioned November 19, 1982 confirmed
+  - Two B-52s from 20th Bomb Squadron each launched one AGM-142 Have Nap missile confirmed
+  - Both missiles hit; sunk July 22, 1998 confirmed
+  - Sank 30 nm northwest of Kauai at 2,800 fathoms depth confirmed
+  - RIMPAC 1998 exercise confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 8 facts verified · 0 corrections
+
+Verified all key facts: dates, B-52 strike, missile type, sinking location and depth, decommission date. All confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 770*
+*Read time: 4 minutes*

@@ -1,0 +1,67 @@
+# Estadio Nacional Disaster
+
+On May 24, 1964, a disputed referee call at a Peru-Argentina football match in Lima triggered a police response that killed 328 people -- the deadliest disaster in the history of association football.
+
+**Location:** -12.0673, -77.0337
+
+**Categories:** history, disaster, sports
+
+## Introduction
+
+The match was nearly over when the referee disallowed Peru's equalizing goal. It was May 24, 1964, and Peru was playing Argentina at the Estadio Nacional in Lima in an Olympic qualifying match. The decision enraged the Peruvian fans. Some invaded the pitch. What happened next unfolded with the terrible logic of a disaster that needed only a spark: police fired tear gas into a packed stadium whose exits were sealed with corrugated steel shutters. Three hundred and twenty-eight people died, most of them crushed in the enclosed stairwells between the stands and the locked gates below. No one who stayed inside the stadium was killed. Everyone who died was trying to get out.
+
+## A Country on Edge
+
+Peru in 1964 was a nation straining at its seams. Labor disputes and worker demonstrations rippled across the country. Leftist and communist movements clashed frequently with police. President Fernando Belaunde Terry's government faced pressure from multiple directions, and the security forces operated with a heavy hand that would later become characteristic of the era. Football, in this atmosphere, was not merely sport -- it was a pressure valve, a proxy arena where national pride and frustration found expression simultaneously. The Olympic qualifying match against Argentina carried enormous weight: a chance for Peru to compete on the world stage, and a crowd that packed the Estadio Nacional to capacity to witness it.
+
+## Steel Shutters and Stairwells
+
+The stadium's design contained a fatal flaw that transformed a crowd disturbance into a catastrophe. Unlike standard gates, the exits at street level were sealed with solid corrugated steel shutters -- locked, as they were at every match, to prevent ticketless entry. Between the seating areas above and these shutters below ran enclosed stairwells, several flights of steps descending through tunnel-like passages. When police fired tear gas canisters into the northern grandstand and shot into the air, tens of thousands of spectators surged toward these exits. The people at the front of the stairwells hit the locked shutters and stopped. The crowd behind them, unable to see what was happening below, kept pushing. Bodies compressed against steel in the darkness of those tunnels until the shutters finally burst outward from the sheer mass of human pressure. Most of the dead were killed by internal hemorrhaging or asphyxiation -- crushed before they ever reached the street.
+
+## Rage in the Streets
+
+The violence did not end at the stadium gates. In the streets around the Estadio Nacional, the surviving crowd turned its grief and fury on everything within reach. Private houses and businesses were set on fire. Factory windows were smashed. Reports described individuals throwing petrol-soaked paper into a nearby garage. One mob headed for the home of Commander Jorge de Asumbuja, whom they blamed for ordering the tear gas. Another surged toward President Belaunde Terry's residence to protest police brutality. Mounted police fought a running three-hour battle to establish a cordon and contain the destruction. In the midst of this chaos, one extraordinary detail emerged from the stadium itself: a baby had been born inside the arena at the height of the panic. Whether the child or mother survived was never confirmed.
+
+## Silence Where Answers Should Be
+
+The government's response was swift and blunt. Civil liberties were suspended. A state of emergency was declared. A modified form of martial law was imposed. A period of national mourning followed, and Pope Paul VI called on football fans worldwide to temper their celebrations out of respect for the dead. But what did not follow was an investigation. As of 2025, more than six decades after the disaster, the Peruvian government has never conducted an in-depth inquiry into what happened that night. No one was held accountable for the decision to fire tear gas into a sealed stadium, or for the design that placed locked steel shutters at the bottom of enclosed stairwells. The official death toll of 328 may itself be an undercount -- deaths by gunshot were reportedly excluded from the tally.
+
+## A Record That Endures
+
+The Estadio Nacional disaster remains the deadliest incident in the history of association football. Its death toll exceeds those of the Hillsborough disaster, the Bradford City fire, the Heysel Stadium disaster, the 1902 Ibrox disaster, the 1971 Ibrox disaster, and the Burnden Park disaster -- combined. The stadium's seating capacity was reduced after the tragedy, though it was later increased again when Lima hosted the 2004 Copa America. The Estadio Nacional still stands in the same location, still hosts matches, still fills with crowds. The difference is in the exits: the steel shutters are gone. But the questions the disaster raised about crowd control, police use of force, and stadium safety design echo through every subsequent stadium tragedy around the world. Lima got there first, and paid the highest price.
+
+## Flight Context
+
+Located at 12.07S, 77.03W in central Lima, Peru. The Estadio Nacional is a large oval stadium visible from low altitude in Lima's urban core, situated southeast of the historic center near the junction of major avenues. Nearest major airport: Jorge Chavez International (SPJC), approximately 10 km northwest. The stadium sits near the Paseo de la Republica expressway, a useful visual reference when approaching from the air.
+
+## Sources
+
+- [Estadio Nacional disaster - Wikipedia](https://en.wikipedia.org/?curid=28108359)
+  - Official death toll of 328 confirmed
+  - Date of May 24, 1964 confirmed
+  - Olympic qualifying match against Argentina confirmed
+  - Police fired tear gas into northern grandstand confirmed
+  - Sealed corrugated steel shutters at exits confirmed
+  - Most deaths from crushing/asphyxiation in stairwells confirmed
+  - Seating capacity later increased for 2004 Copa America confirmed
+  - Death toll exceeds Hillsborough, Bradford, Heysel, Ibrox, Burnden Park combined confirmed
+  - State of emergency and suspension of civil liberties declared confirmed
+  - Pope Paul VI called on football fans worldwide to temper celebrations confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 10 facts verified · 0 corrections
+
+All key facts verified: death toll 328, date May 24 1964, Olympic qualifying match vs Argentina, tear gas into sealed stadium, crushing deaths in stairwells, seating capacity changes, deadliest in football history confirmed. No corrections needed. Spiciness 3.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- No one who stayed inside the stadium was killed -- a striking framing of the tragedy's preventable nature
+- As of 2025, more than six decades after the disaster, the Peruvian government has never conducted an in-depth inquiry
+
+---
+
+*Word count: 840*
+*Read time: 4 minutes*

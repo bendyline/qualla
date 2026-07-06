@@ -1,0 +1,58 @@
+# National Women's Monument
+
+A 35-meter obelisk outside Bloemfontein commemorates the roughly 27,000 Boer women and children who died in British concentration camps during the Second Boer War -- and the English activist who could not look away.
+
+**Location:** -29.1416, 26.2083
+
+**Categories:** history, memorials, boer-war, colonial-era, south-africa
+
+## Introduction
+
+Emily Hobhouse described a scene she witnessed at the Springfontein concentration camp on 15 May 1901: a woman who would not look at her own child, because the child was starving and her grief had gone beyond tears. Hobhouse sketched the image -- two women and a dying child -- and years later that sketch became the central bronze sculpture of the National Women's Monument outside Bloemfontein. She was unsatisfied with the finished work. The sculptor Anton van Wouw, she complained, had made the child look merely asleep rather than at death's door. Hobhouse understood something the aesthetics could not fully convey: what happened in these camps was not peaceful. Roughly 27,000 Boer women and children died in British concentration camps during the Second Boer War, and this monument, standing on the hills south of the city, exists so that number is never just a number.
+
+## Camps of the Scorched Earth
+
+The British adopted a scorched-earth policy during the Second Boer War to deny Boer commandos the farms and supply lines that sustained their guerrilla campaign. Farmsteads were burned, livestock slaughtered, and the women and children left behind were herded into camps. Conditions were atrocious. Overcrowding, contaminated water, inadequate food, and rampant disease turned the camps into death traps. Measles, typhoid, and dysentery killed thousands of children who had committed no offense except being born to families on the wrong side of a colonial war. Emily Hobhouse, an English anti-war activist, traveled to South Africa and documented what she found. Her reports shocked the British public, though not enough to stop the policy. The camps remain among the most contested episodes in South African history -- a wound that never fully closed.
+
+## An Obelisk Born from Resistance
+
+The idea for the monument came from Martinus Steyn, the last president of the Orange Free State Republic, while he was recovering from illness in Europe after the war. His wife Rachel Isabella Steyn -- known as Tibbie -- had lost family members in the camps and maintained a close friendship with Hobhouse. Back in South Africa, Steyn organized a committee and began fundraising. The Afrikaner community raised ten thousand pounds over four years, from 1907 to 1911. Not everyone welcomed the project. English-speaking members of the Bloemfontein Town Council tried to delay construction, arguing the memorial would reflect poorly on Britain. Even Prime Minister Louis Botha, pursuing reconciliation between Boer and Briton, disapproved. The monument was built anyway. Architect Frans Soff designed an obelisk roughly 37 meters tall, flanked by low semicircular walls, with Hobhouse's bronze scene at its center.
+
+## Unveiling and Aftermath
+
+On 16 December 1913, roughly 20,000 South Africans gathered for the unveiling. The date was significant -- it was Geloftedag, the anniversary of the Battle of Blood River, already a day of Afrikaner commemoration. Thirteen years later, Emily Hobhouse died in England, and her ashes were brought to South Africa and interred at the foot of the monument she had helped inspire. Over time, the site became a place of burial for other figures from the Boer War era. Christiaan de Wet, the guerrilla general, was buried there in 1922. President Steyn was interred in 1916, and Reverend John Daniel Kestell in 1941. When Tibbie Steyn died in 1955, she was buried beside her husband despite her own protests that the graves of war veterans were diluting the monument's original focus on the suffering of women and children.
+
+## Contested Ground
+
+The monument's meaning has shifted over the decades. For years it stood as the primary symbol of Afrikaner suffering and resilience. Then the Voortrekker Monument was erected in Pretoria in 1949, shortly after the National Party came to power, and it eclipsed the Women's Monument as a national symbol. Since 1960, additional memorials to Boer War civilians, volunteers, prisoners of war, and the so-called Bittereinders -- those who fought to the bitter end -- have been added to the grounds. The Anglo-Boer War Museum sits permanently on the same premises. The Women's Monument has become less a single monument than a memorial complex, layered with competing narratives. Tibbie Steyn's worry proved prescient: the focus on women and children has broadened into a general war memorial. But the bronze group at the center has not changed. Two women. A dying child. A grief that went beyond tears.
+
+## Flight Context
+
+The National Women's Monument is located at approximately 29.14S, 26.21E, about 3 km south of central Bloemfontein in the Free State province of South Africa. From the air, the monument's obelisk is visible against the backdrop of the hills south of the city. The surrounding landscape is the characteristic flat to gently rolling highveld terrain of the central Free State. Bloemfontein Airport (FABL) is the nearest commercial airport, located northeast of the city center. The Voortrekker Monument, referenced in the story, is in Pretoria roughly 400 km to the northeast. Best viewed at 2,000-4,000 ft AGL for the obelisk to be visible in context with the surrounding memorial grounds and the Anglo-Boer War Museum on the same site.
+
+## Sources
+
+- [National Women's Monument - Wikipedia](https://en.wikipedia.org/?curid=15360681)
+  - Unveiled 16 December 1913 confirmed
+  - Roughly 27,000 Boer women and children died confirmed (sources range 26,370 to 27,927)
+  - Correction: obelisk height corrected from '35 meters' to '37 meters' (121 feet per Wikipedia)
+  - Emily Hobhouse ashes interred at monument confirmed
+  - Christiaan de Wet buried 1922 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 5 facts verified · 1 correction
+
+Corrected obelisk height from '35 meters' to '37 meters' (121 feet per Wikipedia). Facts verified: unveiled 16 Dec 1913, ~27,000 deaths confirmed, Emily Hobhouse ashes, de Wet buried 1922. Spiciness 3.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- What happened in these camps was not peaceful
+- children who had committed no offense except being born to families on the wrong side of a colonial war
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

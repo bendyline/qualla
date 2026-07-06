@@ -84,5 +84,26 @@
   ],
   "galleryPaths": [
     "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kr4z-georgian-airways-flight-834-flight-context.mp3",
+      "kr4z-georgian-airways-flight-834-intro.mp3",
+      "kr4z-georgian-airways-flight-834-into-the-storm.mp3",
+      "kr4z-georgian-airways-flight-834-a-decision-that-could-not-be-undone.mp3",
+      "kr4z-georgian-airways-flight-834-the-microburst.mp3",
+      "kr4z-georgian-airways-flight-834-thirty-two-lives.mp3",
+      "kr4z-georgian-airways-flight-834-failures-layered-on-failures.mp3"
+    ],
+    "durations": {
+      "kr4z-georgian-airways-flight-834-flight-context.mp3": 36.003375,
+      "kr4z-georgian-airways-flight-834-intro.mp3": 47.47625,
+      "kr4z-georgian-airways-flight-834-into-the-storm.mp3": 66.0407916,
+      "kr4z-georgian-airways-flight-834-a-decision-that-could-not-be-undone.mp3": 61.550125,
+      "kr4z-georgian-airways-flight-834-the-microburst.mp3": 67.9003333,
+      "kr4z-georgian-airways-flight-834-thirty-two-lives.mp3": 57.2291666,
+      "kr4z-georgian-airways-flight-834-failures-layered-on-failures.mp3": 68.479
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

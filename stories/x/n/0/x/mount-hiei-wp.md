@@ -1,0 +1,62 @@
+# Mount Hiei
+
+An 848-meter sacred peak northeast of Kyoto that served as the spiritual shield of the ancient capital, home to warrior monks who terrorized emperors, marathon monks who run 40,000 kilometers in seven years, and a surprise collection of French impressionist gardens at its summit.
+
+**Location:** 35.0667, 135.8383
+
+**Categories:** religion, history, world-heritage-site, military-history, kyoto
+
+## Introduction
+
+For more than a thousand years, the emperors of Japan slept easier knowing Mount Hiei stood between them and the demon gate. In the ancient practice of geomancy, the northeast was the direction from which malevolent forces approached a city, and Hiei -- rising 848 meters on the border of Kyoto and Shiga Prefectures -- occupied precisely that cardinal position relative to the imperial capital of Heian-kyo. The monk Saicho climbed this mountain in 788, built a small lamp that has reportedly burned without interruption ever since, and founded a temple complex that would grow to 3,000 buildings, produce nearly every major school of Japanese Buddhism, field armies of warrior monks that made the imperial court tremble, and survive total annihilation at the hands of the most ruthless warlord in Japanese history.
+
+## The Cradle of Japanese Buddhism
+
+Saicho returned from studying in China to establish Enryaku-ji as the headquarters of the Tendai sect, the first major Buddhist school to take root in Japan. Emperor Kanmu granted his patronage, and the monastery became the training ground for the nation's religious elite. For twelve years, monks studied in complete seclusion on the mountain before being permitted to descend. What makes Mount Hiei extraordinary is not just Tendai's own significance but what its graduates went on to create. Honen founded Jodo-shu. Nichiren launched the school that bears his name. Dogen brought Soto Zen from China. Shinran established Jodo Shinshu. Virtually every branch of Japanese Buddhism traces its intellectual roots back to this single forested peak. By the Heian period, Enryaku-ji had become the most powerful religious institution in the country, its influence extending far beyond matters of the spirit.
+
+## Swords Behind the Sutras
+
+The monastery's power curdled into something dangerous. By the tenth century, succession disputes between followers of monks Ennin and Enchin fractured the Tendai sect, and both factions recruited sohei -- warrior monks -- who carried weapons as readily as prayer beads. The monks of Mount Hiei did not confine themselves to theological debates. They descended on Kyoto with armies, issuing demands to the imperial court while carrying sacred objects that no soldier dared obstruct. For centuries, the mountain represented one of the most feared military forces in Japan, its monks occupying a blind spot in the political order: too sacred to attack, too aggressive to ignore. When Oda Nobunaga laid siege to the mountain in September 1571, he resolved this contradiction with characteristic brutality. His soldiers burned all 3,000 structures and killed everyone they found -- monks, women, children. The complex that stands today was rebuilt in the decades that followed, designated a UNESCO World Heritage Site in 1994.
+
+## Running Toward Enlightenment
+
+The most striking practice on Mount Hiei is the kaihogyo, a grueling test of endurance that has no parallel in any other religious tradition. Monks who undertake the sennichi kaihogyo -- the thousand-day marathon -- commit to walking and jogging circuits around the mountain that total roughly 40,000 kilometers over seven years, the approximate circumference of the Earth. During the most intense phases, practitioners cover marathon distances daily for one hundred consecutive days. They walk in handmade straw sandals through rain and snow, stopping to pray at hundreds of stations along the route. Those who begin must finish or, by tradition, take their own life -- though no practitioner has been forced to this extreme since 1885. The practice continues today, with a handful of monks completing the full thousand-day circuit in recent decades, earning them the informal title of living Buddhas.
+
+## French Impressionism at the Summit
+
+For all its gravitas, Mount Hiei harbors a genuinely unexpected attraction. The Garden Museum Hiei sits near the summit, a landscaped park themed entirely around French impressionism, displaying reproductions of paintings by Monet, Renoir, and Cezanne amid flower gardens designed to evoke the artists' compositions. A French-themed hotel, L'hotel de Hiei, operates nearby. The juxtaposition is surreal -- Buddhist warrior monks and Giverny water lilies sharing the same ridgeline. But the mountain has always been a place of contrasts. Its three temple precincts are spread across densely forested slopes, connected by hiking trails that offer views of Kyoto to the west, Lake Biwa to the east, and the hills of Ohara to the north. Two funicular railways climb the mountain from opposite sides, the Eizan Cable from Kyoto and the Sakamoto Cable from Shiga, delivering visitors to a peak that has been both a fortress and a sanctuary for over twelve centuries.
+
+## Flight Context
+
+Located at 35.07N, 135.84E, Mount Hiei rises to 848 meters (2,782 feet) on the border between Kyoto and Shiga Prefectures. The mountain forms the prominent ridgeline immediately northeast of Kyoto's urban grid, separating the city from the vast expanse of Lake Biwa -- Japan's largest freshwater lake and an unmistakable visual reference from the air. The Enryaku-ji temple complex spreads across the forested summit ridge and is difficult to distinguish individually, but the mountain itself dominates the skyline. Look for cable car lines ascending the western slope. Nearest airports: Osaka Itami (RJOO) approximately 30nm southwest, Kansai International (RJBB) approximately 80nm south. Expect mountain turbulence and possible reduced visibility when flying at or below ridgeline altitude.
+
+## Sources
+
+- [Mount Hiei - Wikipedia](https://en.wikipedia.org/?curid=459908)
+- [Mt. Hiei Enryakuji Temple - Japan National Tourism Organization](https://www.japan.travel/en/spot/1075/)
+  - Mount Hiei elevation 848 meters confirmed
+  - Enryakuji Temple founded in 788 by Saicho
+  - Tendai sect headquarters confirmed
+  - UNESCO World Heritage designation 1994 confirmed as part of Historic Monuments of Ancient Kyoto
+- [Kaihogyo - Wikipedia](https://en.wikipedia.org/wiki/Kaih%C5%8Dgy%C5%8D)
+  - Thousand-day marathon spread over seven years confirmed
+  - Total distance approximately 38,000 km (article says roughly 40,000 km — close to circumference of Earth, acceptable approximation)
+  - Monks walk in handmade sandals confirmed
+  - Practice continues in modern times confirmed
+- [Garden Museum Hiei - Kanpai Japan](https://www.kanpai-japan.com/otsu/enryaku-ji-mount-hiei)
+  - Eizan Cable and Sakamoto Cable funicular railways confirmed
+  - Oda Nobunaga's 1571 destruction of Enryaku-ji confirmed
+  - Three temple precincts confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 10 facts verified · 0 corrections
+
+Elevation 848m confirmed, Enryaku-ji founded 788 by Saicho confirmed, UNESCO 1994 confirmed, kaihogyo distance approximately 38-40k km (article says roughly 40k, acceptable), Oda Nobunaga 1571 destruction confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

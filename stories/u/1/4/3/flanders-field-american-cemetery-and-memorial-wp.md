@@ -1,0 +1,62 @@
+# Flanders Field American Cemetery and Memorial
+
+The only permanent American World War I cemetery in Belgium holds 368 graves arranged beneath a chapel ceiling where doves of peace fly toward a lamp of remembrance.
+
+**Location:** 50.8736, 3.4539
+
+**Categories:** Waregem, World War I memorials in Belgium, World War I cemeteries in Belgium, American Battle Monuments Commission, United States military memorials and cemeteries
+
+## Introduction
+
+'In Flanders fields the poppies blow, between the crosses, row on row.' When Canadian physician John McCrae wrote those words near Ypres in 1915, he gave the world an image that would define how we remember the Great War. A few kilometers from where McCrae composed his poem, 368 American soldiers now rest beneath white Carrara marble headstones in the only permanent American World War I cemetery in Belgium. The cemetery takes its name from McCrae's verse, and its chapel ceiling shows doves of peace flying toward a lighted lamp beneath the stars of Heaven.
+
+## The Final Weeks
+
+The soldiers buried at Flanders Field represent the American push in the war's final weeks. Four divisions fought across this ground in 1918. The 27th New York and 30th Old Hickory Divisions saw action near Ypres from August 18 to September 4. The 37th Buckeye and 91st Wild West Divisions pushed west from Waregem and across the Scheldt River at Oudenaarde from October 30 until the Armistice on November 11. The cemetery itself sits on a battlefield where the 91st Division suffered heavy casualties securing a wooded area called Spitaals Bosschen. What began as a temporary battlefield burial ground became the only place in Belgium where Americans who died in the Great War could be laid to rest permanently.
+
+## A Chapel of Stone and Memory
+
+At the center of the six-acre cemetery stands a small memorial chapel of white Pouillenay stone. Above the bronze entrance door, an inscription welcomes visitors. Inside, an altar of Grand Antique black and white marble bears a Crusader's sword outlined in gold on a rose-tinted panel above. Bronze candelabras depicting cannons flank the altar, along with the flags of the United States, Belgium, France, Great Britain, and Italy. On the side walls, panels of rose St. George marble carry the names of 43 American soldiers who lost their lives in Belgium and whose graves were never found. Above these names appears the Great Seal of the United States.
+
+## Four Plots, 368 Souls
+
+The graves area consists of four rectangular plots, each containing 92 graves marked with white Carrara marble headstones set in four rows. Eight Stars of David mark the graves of soldiers of Jewish faith. Twenty-one headstones bear no name, marking the resting places of soldiers who could not be identified. The government of Belgium granted the United States free use of this ground in perpetuity, without charge or taxation. The American Battle Monuments Commission administers the site, maintaining the lawns and headstones as a permanent reminder of the alliance that fought together in the war that was supposed to end all wars.
+
+## The Poem and the Place
+
+John McCrae wrote 'In Flanders Fields' after attending the funeral of his friend, Lieutenant Alexis Helmer, who was killed near Ypres. The poem spread across the English-speaking world and became the defining verse of World War I remembrance. Poppies, which grew in the churned soil of the battlefields, became symbols of sacrifice. That this American cemetery bears the name of McCrae's poem connects the Canadian doctor's grief to the American soldiers who would arrive three years later and fight across the same Flanders landscape. The doves on the chapel ceiling still fly toward the light, and the poppies still grow in the fields nearby.
+
+## Flight Context
+
+Located at 50.874N, 3.454E in Waregem, Belgium. The cemetery occupies a six-acre site visible as a carefully maintained green space with white headstones arranged in geometric patterns. The white Pouillenay stone chapel at the center is the most prominent structure. Located between Kortrijk (10km southwest) and Ghent (30km northeast) along the E17 motorway corridor. Nearest airports: Kortrijk-Wevelgem (EBKT) 15km southwest, Ghent (EBGT) 25km northeast. The Scheldt River valley runs through this region.
+
+## Sources
+
+- [Flanders Field American Cemetery - ABMC](https://www.abmc.gov/Flanders-Field)
+  - 368 graves
+  - only permanent American WWI cemetery in Belgium
+  - 6-acre site
+  - 43 names on Walls of Missing
+- [Flanders Field American Cemetery and Memorial - Wikipedia](https://en.wikipedia.org/?curid=1707460)
+  - 4 plots of 92 graves each
+  - 8 Stars of David
+  - 21 unknowns
+  - 91st Division fought at Spitaals Bosschen
+  - chapel ceiling doves flying toward lamp under stars
+- [In Flanders Fields - Wikipedia](https://en.wikipedia.org/wiki/In_Flanders_Fields)
+  - John McCrae wrote poem May 1915 near Ypres
+  - Written after funeral of Lieutenant Alexis Helmer
+  - Poem became defining verse of WWI remembrance
+
+## Review Notes
+
+**Reviewed:** 2026-01-23 · 12 facts verified · 0 corrections
+
+All facts verified: 368 graves, 6 acres, 4 plots of 92, 43 missing, McCrae poem history. Spiciness 1/5.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 680*
+*Read time: 4 minutes*

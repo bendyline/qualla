@@ -922,5 +922,24 @@
     "_m/d/r/5/r/verrazzano-narrows-bridge-wp/a-perfect-journey.jpg",
     "_m/d/r/5/r/verrazzano-narrows-bridge-wp/erie-basin.jpg"
   ],
-  "updatedAt": "2026-03-30T13:48:08.307Z"
+  "updatedAt": "2026-03-30T13:48:08.307Z",
+  "narration": {
+    "files": [
+      "dr5r-verrazzano-narrows-bridge-flight-context.mp3",
+      "dr5r-verrazzano-narrows-bridge-intro.mp3",
+      "dr5r-verrazzano-narrows-bridge-forty-years-of-plans-that-went-nowhere.mp3",
+      "dr5r-verrazzano-narrows-bridge-building-the-longest-span.mp3",
+      "dr5r-verrazzano-narrows-bridge-what-the-opening-cost.mp3",
+      "dr5r-verrazzano-narrows-bridge-what-the-bridge-became.mp3"
+    ],
+    "durations": {
+      "dr5r-verrazzano-narrows-bridge-flight-context.mp3": 44.8992083,
+      "dr5r-verrazzano-narrows-bridge-intro.mp3": 47.6003333,
+      "dr5r-verrazzano-narrows-bridge-forty-years-of-plans-that-went-nowhere.mp3": 55.8481666,
+      "dr5r-verrazzano-narrows-bridge-building-the-longest-span.mp3": 52.41475,
+      "dr5r-verrazzano-narrows-bridge-what-the-opening-cost.mp3": 40.7935833,
+      "dr5r-verrazzano-narrows-bridge-what-the-bridge-became.mp3": 46.5095416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -49,5 +49,22 @@
     "sourceGeohash4": "qtpu"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qtpu-cockatoo-island-western-australia-flight-context.mp3",
+      "qtpu-cockatoo-island-western-australia-intro.mp3",
+      "qtpu-cockatoo-island-western-australia-from-ballast-to-boom.mp3",
+      "qtpu-cockatoo-island-western-australia-the-mine-runs-dry.mp3",
+      "qtpu-cockatoo-island-western-australia-below-sea-level-and-who-owns-it.mp3"
+    ],
+    "durations": {
+      "qtpu-cockatoo-island-western-australia-flight-context.mp3": 43.7580416,
+      "qtpu-cockatoo-island-western-australia-intro.mp3": 38.0276666,
+      "qtpu-cockatoo-island-western-australia-from-ballast-to-boom.mp3": 66.6205416,
+      "qtpu-cockatoo-island-western-australia-the-mine-runs-dry.mp3": 68.9354583,
+      "qtpu-cockatoo-island-western-australia-below-sea-level-and-who-owns-it.mp3": 80.2915
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

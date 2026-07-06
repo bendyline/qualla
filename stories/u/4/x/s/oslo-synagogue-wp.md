@@ -1,0 +1,59 @@
+# Oslo Synagogue
+
+A modest stuccoed building in Oslo's St. Hanshaugen became a symbol of interfaith solidarity when a thousand people formed a human ring of peace around it in 2015.
+
+**Location:** 59.9258, 10.7433
+
+**Categories:** history, religion, culture, peace
+
+## Introduction
+
+Architectural historian Carol Herselle Krinsky once described the Oslo Synagogue as resembling a simple and charming country chapel. The two-story stuccoed building, crowned by a round tower with a spire supporting a Star of David, does not announce itself as a place of consequence. It sits quietly in the St. Hanshaugen district, modest among the apartment blocks. But this small building carries the weight of Norwegian Jewish history on its shoulders, and on a February afternoon in 2015, it became the site of one of the most widely photographed acts of interfaith solidarity in modern European history.
+
+## A Congregation Finds Its Home
+
+The Det Mosaiske Trossamfund, Oslo's Orthodox Jewish congregation, was established in 1892, part of a small but persistent Jewish community in a country that had only lifted its constitutional ban on Jewish settlement in 1851. For nearly three decades, the congregation worshipped without a permanent building. The present synagogue was erected in 1920, a period when Jewish communities across Scandinavia were building institutions that balanced visibility with discretion. The result in Oslo was a building that blended into its residential neighborhood, its Star of David the only outward signal of what happened within its walls. King Harald V and Crown Prince Haakon visited the synagogue in June 2009, a gesture that acknowledged the community's place in Norwegian civic life.
+
+## Shots in the Dark
+
+On a night in 2006, gunfire shattered the synagogue's windows. Police suspected four men in a car had carried out the shooting. Among the accused was Arfan Bhatti, a 29-year-old with a criminal history who had embraced radical Islamism. No one was physically injured, but the attack struck at something deeper. When the case reached court, Bhatti was acquitted of terror charges but convicted of co-conspiracy to the shooting, which the court characterized as coarse vandalism rather than terrorism. The three other defendants were acquitted entirely. For Norway's small Jewish community, numbering only about 1,300 people at the time, the legal outcome felt inadequate to the fear the attack had provoked.
+
+## A Ring of Peace
+
+Nine years after the shooting, on February 21, 2015, roughly a thousand people gathered outside the synagogue on Shabbat. They had come in response to a string of attacks targeting Jews across Europe, including the January 2015 attacks in Paris and the Copenhagen shootings that had killed a volunteer security guard at a bat mitzvah celebration. What made this gathering remarkable was who organized it: a group of young Norwegian Muslims. Hajrah Arshad, one of the organizers, said they wanted to show that Islam is about love and unity. Co-organizer Zeeshan Abdullah put it more directly: they did not want individuals to define what Islam meant for the rest of them. As the crowd linked hands around the synagogue, Norway's Chief Rabbi Michael Melchior sang Eliyahu Hanavi, the traditional song after Havdalah.
+
+## What the Ring Revealed
+
+The image of Muslims, Jews, and others holding hands around a synagogue in a Scandinavian capital city traveled across the world within hours. International media coverage was enormous, though some reports noted that a precise count of how many participants were Muslim was impossible to determine. Ervin Kohn, president of the Norwegian Jewish community, told reporters he could not quantify the exact number. The uncertainty mattered less than the gesture itself. In a continent where Jewish communities had been reinforcing security and debating whether to remain, where Muslim communities faced rising suspicion and surveillance, and where both groups were being pushed toward mutual distrust, a thousand people stood in a circle on a cold Oslo afternoon and chose a different narrative. The synagogue that Carol Herselle Krinsky had called a charming country chapel had become something larger than its architecture.
+
+## Flight Context
+
+Located at 59.93N, 10.74E in Oslo's St. Hanshaugen district, a residential area north of the city center. The synagogue's round tower with Star of David spire is a small landmark amid apartment buildings. Nearest major airport is Oslo Gardermoen (ENGM), approximately 40 km northeast. The building sits roughly 1 km north of Old Aker Church. Best viewed at low altitude, 1,500-2,500 ft AGL.
+
+## Sources
+
+- [Oslo Synagogue - Wikipedia](https://en.wikipedia.org/?curid=23194051)
+  - Det Mosaiske Trossamfund established 1892 confirmed
+  - Norway lifted constitutional ban on Jewish settlement in 1851 confirmed
+  - Synagogue erected in 1920 confirmed
+  - Ring of peace February 21 2015 confirmed
+  - Chief Rabbi Michael Melchior sang Eliyahu Hanavi confirmed
+  - 2006 shooting of synagogue windows confirmed
+  - Arfan Bhatti acquitted of terror charges but convicted of conspiracy confirmed
+- [1000 join Muslim ring of peace outside Oslo synagogue - Times of Israel](https://www.timesofisrael.com/1000-join-muslim-ring-of-peace-outside-oslo-synagogue/)
+  - Roughly 1,000 people gathered confirmed
+  - Organizers Hajrah Arshad and Zeeshan Abdullah named confirmed
+  - Response to Paris and Copenhagen attacks confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 7 facts verified · 0 corrections
+
+All facts verified. Synagogue erected 1920, ring of peace Feb 21 2015, Chief Rabbi Melchior sang Eliyahu Hanavi, 2006 shooting, Bhatti acquitted of terror charges all confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 700*
+*Read time: 4 minutes*

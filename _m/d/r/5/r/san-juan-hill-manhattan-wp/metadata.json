@@ -55,5 +55,26 @@
     "sourceGeohash4": "dr5r"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "dr5r-san-juan-hill-manhattan-flight-context.mp3",
+      "dr5r-san-juan-hill-manhattan-intro.mp3",
+      "dr5r-san-juan-hill-manhattan-the-jungles.mp3",
+      "dr5r-san-juan-hill-manhattan-a-neighborhood-of-many-peoples.mp3",
+      "dr5r-san-juan-hill-manhattan-the-wrecking-ball.mp3",
+      "dr5r-san-juan-hill-manhattan-echoes-in-the-rubble.mp3",
+      "dr5r-san-juan-hill-manhattan-a-belated-reckoning.mp3"
+    ],
+    "durations": {
+      "dr5r-san-juan-hill-manhattan-flight-context.mp3": 51.2005,
+      "dr5r-san-juan-hill-manhattan-intro.mp3": 43.8145833,
+      "dr5r-san-juan-hill-manhattan-the-jungles.mp3": 58.3798333,
+      "dr5r-san-juan-hill-manhattan-a-neighborhood-of-many-peoples.mp3": 70.397375,
+      "dr5r-san-juan-hill-manhattan-the-wrecking-ball.mp3": 57.2654583,
+      "dr5r-san-juan-hill-manhattan-echoes-in-the-rubble.mp3": 56.4476666,
+      "dr5r-san-juan-hill-manhattan-a-belated-reckoning.mp3": 58.6998333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

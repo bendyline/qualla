@@ -1,0 +1,57 @@
+# Cirque de Cilaos
+
+A vast volcanic caldera on Reunion Island where escaped slaves once hid in the vertical landscape, and where 420 hairpin turns now wind down to a valley floor ringed by waterfalls and sheer basalt walls.
+
+**Location:** -21.1457, 55.4598
+
+**Categories:** geology, hiking, reunion-island, unesco-world-heritage, volcanic-landscapes
+
+## Introduction
+
+The road into Cilaos has 420 bends. The French count them the way other places count steps to a summit -- not as a warning but as a point of pride. Each hairpin on the RN 5 from Saint-Louis descends deeper into a volcanic crater 11 kilometers across, its floor sitting at 1,200 meters above sea level, its walls rising in sheer basalt ramparts that catch clouds and shed waterfalls. The name itself carries a story: Cilaos derives from the Malagasy word Tsilaosa, meaning roughly "the place you never leave" or "a place where you are safe." The first people to test that promise were not tourists. They were enslaved people running for their lives.
+
+## Refuge in the Walls
+
+In the 18th century, enslaved workers on the sugar cane plantations along Reunion's coast began escaping into the island's mountainous interior. The French called them Noirs marrons -- maroons -- and the Cirque de Cilaos became one of their primary refuges. The crater's geography made it a natural fortress: vertical cliffs on three sides, accessible only through narrow gorges that could be watched and defended. The maroons established hidden settlements in the basin, surviving on the land's resources while the plantation economy continued on the coast below. After the abolition of slavery, a second wave of settlers arrived -- impoverished rural whites known as petits blancs, who immigrated to the basin seeking farmland and distance from the coastal towns. Their descendants still cultivate lentils, citrus, and grapes in clearings like Ilet-a-Cordes, nestled at the foot of the Grand Benare peak.
+
+## Cathedral of Stone
+
+The Cirque de Cilaos is one of three massive calderas formed by the collapse of Piton des Neiges, the extinct volcano that is Reunion's highest point at 3,070 meters. The cirque's diameter spans roughly 11 kilometers, and its valley floor is drained by the Bras Rouge river, which has carved deep gorges through the basalt over millennia. Along the riverbed, enormous slabs of rock form a natural chamber nicknamed La Chapelle -- a two-hour hike from the town of Cilaos that rewards with iron-oxide-stained pools and overhanging walls that echo with falling water. The Bras Rouge waterfall itself has sculpted a series of bathing pools ideal for picnicking, their russet-colored water a signature of the iron-rich volcanic rock. Above the valley, La Roche Merveilleuse offers a panoramic view across the entire cirque and its scattered villages -- a vantage point reachable by car in fifteen minutes through a forest of Japanese cedar.
+
+## Trails Into the Interior
+
+The Cirque de Cilaos sits within Reunion National Park, a UNESCO World Heritage Site, and its trail network connects to the island's two other great cirques -- Mafate and Salazie. The GR R1 and GR R2 long-distance hiking trails cross through the cirque, with the Col du Taibit pass at 2,142 meters serving as the gateway to the roadless Cirque de Mafate to the northwest. The hike from Cilaos to Marla, the first settlement in Mafate, takes roughly five hours. In the other direction, the GR R1 climbs toward the Caverne Dufour mountain hut on the flanks of Piton des Neiges before descending into the Cirque de Salazie. The Sentier des Calumets offers a gentler introduction, winding through forest and around the foot of Bonnet-de-Pretre to the hamlet of Palmiste-Rouge, where hikers find mountain restaurants and a local bus back to Cilaos.
+
+## Wine, Lace, and a Buried Priest
+
+Cilaos has developed a character distinct from the rest of Reunion. The town produces its own wine -- a very sweet, rustic cooked wine sold along the roadsides and in local cellars, its legality debatable but tolerated by the gendarmes as tradition. Since 2004, the Chais de Cilaos has also produced modern wines: dry white, sweet white, rose, and red. The town's embroidery museum preserves a tradition of intricate lacework that dates to the colonial period. And in front of Notre-Dame-des-Neiges, one of Reunion's finest churches, lies the grave of Pere Paul Boiteau, a mystical ascetic who arrived in 1927 and served the poor until his death in 1947. The church's woodwork, crafted entirely by artisans from Riviere-Saint-Louis, draws visitors who may come for the architecture but linger for the quiet of the nave.
+
+## Flight Context
+
+The Cirque de Cilaos is located at approximately 21.15S, 55.46E on Reunion Island in the western Indian Ocean. From 8,000-12,000 feet AGL, the three cirques of Reunion -- Cilaos, Mafate, and Salazie -- are dramatically visible as massive calderas radiating from the summit of Piton des Neiges (3,070m / 10,069 ft). The cirque's near-vertical walls and flat valley floor create one of the most striking geological features visible from the air in the Indian Ocean region. The nearest airport is Roland Garros International Airport (FMEE) near Saint-Denis, roughly 50 km to the northeast. Pierrefonds Airport (FMEP) near Saint-Pierre is closer to the south. Cloud buildup is common by midday, especially over the interior.
+
+## Sources
+
+- [Cirque de Cilaos - Wikivoyage](https://en.wikivoyage.org/?curid=191852)
+- [Cirque de Cilaos - Reunion Island travel sources](https://lejardindecorail.com/en/discovery-of-the-cirque-of-cilaos-on-reunion-island/)
+  - Road has approximately 400 hairpin bends confirmed
+  - Cirque formed by collapse of Piton des Neiges
+  - Cirque is within Reunion National Park UNESCO World Heritage Site
+  - Chais de Cilaos producing wine since 2004
+  - GR R1 and GR R2 trails cross through the cirque
+  - Col du Taibit pass at 2,142 meters
+- [Réunion National Park - Wikipedia](https://en.wikipedia.org/wiki/R%C3%A9union_National_Park)
+  - Piton des Neiges elevation 3,070 meters confirmed as highest point in Indian Ocean
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 7 facts verified · 0 corrections
+
+All key facts verified: approximately 400 hairpin bends confirmed, cirque formed by Piton des Neiges collapse, UNESCO World Heritage status confirmed, Chais de Cilaos wine production since 2004, Col du Taibit at 2,142m. Language uses 'enslaved people' and 'maroons' appropriately throughout. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

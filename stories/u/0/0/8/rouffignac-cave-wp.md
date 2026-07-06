@@ -1,0 +1,56 @@
+# Rouffignac Cave
+
+A vast cave system in the Dordogne where 158 mammoths parade across limestone ceilings, drawn by artists who lived 13,000 years ago -- some of them children barely three years old.
+
+**Location:** 45.0088, 0.9876
+
+**Categories:** prehistoric-art, caves, world-heritage, archaeology, paleolithic
+
+## Introduction
+
+Somewhere in the dark, two kilometers from daylight, a mammoth raises its trunk. It has been raising that trunk for thirteen thousand years. The Rouffignac cave -- known locally as the Cave of the Hundred Mammoths -- holds over 250 engravings and paintings from the Upper Paleolithic, and reaching them requires an electric train that rumbles deep into one of the longest cave systems in the Perigord. The journey takes visitors past eight kilometers of underground passageways, through chambers formed when water dissolved limestone during the Pliocene, two to three million years ago. By the time the train stops beneath Le Grand Plafond, the great ceiling where sixty-three animals crowd together in permanent stampede, the modern world feels very far away.
+
+## The Mammoth Obsession
+
+Whoever painted these walls was fixated on mammoths. Of the 224 animal figures identified so far, 158 are mammoths -- seventy percent of all represented creatures. Bison account for 28, horses for 15, ibex for 12, and woolly rhinoceros for 10. A single cave bear completes the menagerie. Unlike the polychrome masterpieces of Lascaux or Altamira, Rouffignac's artists worked in monochrome: black contour drawings and engravings scratched into stone. The restraint gives the images a skeletal clarity. Each mammoth is rendered with careful attention to the curve of its back, the droop of its belly, the tusk's long arc. Four human figures also appear among the animals, outnumbered and seemingly incidental, as though the artists considered themselves less interesting than their subjects.
+
+## Small Fingers on the Ceiling
+
+In 2011, Cambridge archaeologist Jess Cooney and Dr. Leslie Van Gelder of Walden University announced a discovery that reframed how we understand these caves. Across five hundred square meters of walls and ceilings, finger flutings -- wavy, macaroni-like traces dragged through soft surfaces -- had been left by children as young as three years old. These were not idle scribbles. The flutings follow patterns, cover vast areas, and intermingle with the work of adults. Whatever was happening in Rouffignac thirteen millennia ago, it involved entire families. Toddlers were lifted to the ceiling, their small fingers pressed into clay and drawn across stone. The image of a parent hoisting a child overhead in the deep dark, guiding those tiny hands across a surface neither could properly see, collapses the distance between then and now more effectively than any mammoth portrait.
+
+## Centuries of Seeing and Not Seeing
+
+Rouffignac's art hid in plain sight for centuries. Francois de Belleforest mentioned the cave in 1575, noting "paintings and animal traces" in his Cosmographie universelle. By the 1800s, the cave was a tourist attraction. The pioneering speleologist Edouard-Alfred Martel spent eighteen hours inside in 1893 and reported nothing of significance. Henri Breuil and Andre Glory visited in the early twentieth century and likewise missed what was there. In 1939, four members of the Cambridge University Speleologic Society explored the cave and emerged without having noticed the art. It was not until 1956 that Louis-Rene Nougier and Romain Robert, two prehistorians from the Pyrenees, formally identified and confirmed the paintings. Even then, controversy erupted. Editor O.G.S. Crawford of the journal Antiquity declared the believers had been "victims of a hoax," comparing the dispute to the Piltdown Man fraud. The art was real. The skeptics were wrong.
+
+## A Cave That Remembers Its Bears
+
+Before humans came, cave bears claimed these passages. Their presence endures in claw marks scored into the limestone walls and in the shallow depressions they wore into the cave floor -- hollowed resting places where massive bodies curled through winters that ended tens of thousands of years ago. During World War II, the cave found a different purpose entirely, serving as a hideout for the French Resistance. The cave was classified as a Monument historique in 1957 and became part of a UNESCO World Heritage Site in 1979 alongside other decorated caves and rock shelters of the Vezere Valley. Today, only 550 visitors per day are admitted between April and November, boarding that electric train for the two-kilometer ride into darkness where the mammoths still march.
+
+## Flight Context
+
+Located at 45.01N, 0.99E in the Dordogne department of southwestern France, approximately 5 km south of the town of Rouffignac-Saint-Cernin-de-Reilhac. The cave entrance sits on a hillside along the Binche river valley. From the air, the rolling limestone plateau of Legal is visible between the Lisle and Vezere river drainages. Nearest airport is Bergerac Dordogne Perigord (LFBE), about 45 km south. Brive-Souillac (LFSL) lies roughly 60 km to the east. Best viewed at 3,000-5,000 feet AGL in clear conditions to appreciate the wooded river valleys of the Perigord.
+
+## Sources
+
+- [Rouffignac Cave - Wikipedia](https://en.wikipedia.org/?curid=28412338)
+  - 158 mammoth figures (70% of animals) confirmed
+  - 255 total figurative representations confirmed
+  - 28 bisons, 15 horses, 12 ibex, 10 woolly rhinoceros, 1 cave bear confirmed
+  - Over 8 km of underground passages confirmed
+  - Art formally identified in 1956 by Nougier and Robert confirmed
+  - UNESCO World Heritage 1979 confirmed
+  - 550 visitors per day limit April-November confirmed
+  - Jess Cooney / Leslie Van Gelder 2011 children's finger flutings study confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 8 facts verified · 0 corrections
+
+158 mammoths, 255 total figures, over 8km passages, formally identified 1956, UNESCO 1979, 550 daily visitors, 2011 children's flutings study all verified. No factual errors.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 725*
+*Read time: 4 minutes*

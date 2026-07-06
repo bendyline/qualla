@@ -697,5 +697,24 @@
     "_m/s/b/9/x/lake-turkana-wk/lake-turkana-inlets.jpg",
     "_m/s/b/9/x/lake-turkana-wk/iss063-e-98558-view-of-kenya.jpg"
   ],
-  "updatedAt": "2026-03-31T05:46:51.410Z"
+  "updatedAt": "2026-03-31T05:46:51.410Z",
+  "narration": {
+    "files": [
+      "sb9x-lake-turkana-flight-context.mp3",
+      "sb9x-lake-turkana-intro.mp3",
+      "sb9x-lake-turkana-the-cradle-no-one-expected.mp3",
+      "sb9x-lake-turkana-crocodile-island-and-volcanic-fire.mp3",
+      "sb9x-lake-turkana-the-people-of-the-jade-sea.mp3",
+      "sb9x-lake-turkana-getting-there-is-the-point.mp3"
+    ],
+    "durations": {
+      "sb9x-lake-turkana-flight-context.mp3": 51.5419583,
+      "sb9x-lake-turkana-intro.mp3": 55.4364583,
+      "sb9x-lake-turkana-the-cradle-no-one-expected.mp3": 71.8105,
+      "sb9x-lake-turkana-crocodile-island-and-volcanic-fire.mp3": 66.4432916,
+      "sb9x-lake-turkana-the-people-of-the-jade-sea.mp3": 66.0322083,
+      "sb9x-lake-turkana-getting-there-is-the-point.mp3": 63.136125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

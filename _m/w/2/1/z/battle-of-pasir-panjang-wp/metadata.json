@@ -84,5 +84,26 @@
   ],
   "galleryPaths": [
     "_m/w/2/1/z/battle-of-pasir-panjang-wp/february-1942-lightnin.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w21z-battle-of-pasir-panjang-flight-context.mp3",
+      "w21z-battle-of-pasir-panjang-intro.mp3",
+      "w21z-battle-of-pasir-panjang-the-tide-rolls-south.mp3",
+      "w21z-battle-of-pasir-panjang-opium-hill.mp3",
+      "w21z-battle-of-pasir-panjang-the-trick-that-failed.mp3",
+      "w21z-battle-of-pasir-panjang-the-last-stand.mp3",
+      "w21z-battle-of-pasir-panjang-memory-on-the-ridge.mp3"
+    ],
+    "durations": {
+      "w21z-battle-of-pasir-panjang-flight-context.mp3": 42.5475833,
+      "w21z-battle-of-pasir-panjang-intro.mp3": 43.6689583,
+      "w21z-battle-of-pasir-panjang-the-tide-rolls-south.mp3": 66.665625,
+      "w21z-battle-of-pasir-panjang-opium-hill.mp3": 52.1751666,
+      "w21z-battle-of-pasir-panjang-the-trick-that-failed.mp3": 46.676875,
+      "w21z-battle-of-pasir-panjang-the-last-stand.mp3": 65.95275,
+      "w21z-battle-of-pasir-panjang-memory-on-the-ridge.mp3": 59.5575833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

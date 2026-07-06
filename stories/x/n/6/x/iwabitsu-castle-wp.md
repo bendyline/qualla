@@ -1,0 +1,57 @@
+# Iwabitsu Castle
+
+A vanished mountain fortress in Gunma Prefecture where the legendary Sanada clan once plotted their rise to power during Japan's bloodiest century of civil war.
+
+**Location:** 36.5592, 138.8048
+
+**Categories:** castles, history, military, archaeology, japan
+
+## Introduction
+
+Takeda Katsuyori never made it. In 1582, with his clan collapsing around him and enemies closing in from every direction, the last lord of the Takeda was supposed to find refuge here, on Mount Iwabitsu, behind the walls of a fortress perched high above the Agatsuma River valley. But treachery among his own retainers cut the escape route short, and Katsuyori committed seppuku before reaching safety. The castle that might have saved him still stands in ruin on this mountainside in northwestern Gunma Prefecture, a silent monument to the ambitions and betrayals of Japan's Sengoku period.
+
+## A Fortress Between Provinces
+
+Iwabitsu Castle occupies a commanding position in the long valley carved by the Agatsuma River, a tributary of the Tone. This was no accident. The valley formed the route of the Shinshu Kaido, the highway connecting Takasaki to Shinano Province via the Torii Pass. Whoever held this castle controlled the flow of armies, merchants, and information between two provinces. Built as a yamashiro, a mountain castle designed to exploit natural terrain rather than rely solely on stone walls and moats, Iwabitsu turned the steep slopes of Mount Iwabitsu into its primary defense. The local Agatsuma clan is believed to have raised the first fortifications here sometime in the 13th century. By the Muromachi period, the Saito clan held it as their stronghold, but the real drama was still centuries away.
+
+## The Sanada Gambit
+
+The Sanada clan changed everything. Sanada Yukitaka, expanding from Shinano Province into northern Kozuke with the formidable Takeda Shingen backing his moves, set his sights on Iwabitsu. The Saito clan turned to Uesugi Kenshin of distant Echigo Province for help, but the geography that made the castle strategic also made reinforcement difficult. Through a combination of military pressure and cunning stratagems, the Sanada took Iwabitsu in 1563. Sanada Masayuki then transformed the castle into something far more ambitious. Using it as a base, he captured Numata Castle in 1579 and rebuilt the castle town into a fortified post station, ringing the entire settlement with a network of forts and gates. This innovative design became a template he later used when planning Shinpu Castle for the Takeda clan. The famed samurai Karasawa Genba served as an officer within these walls.
+
+## A Family Divided
+
+The death of Toyotomi Hideyoshi in 1598 fractured Japan once again, and the Sanada family fractured with it. Father and son chose opposite sides. Sanada Masayuki stayed loyal to the Toyotomi heir and his regent Ishida Mitsunari. His son Sanada Nobuyuki, who had received Iwabitsu and Numata as his domain, sided with Tokugawa Ieyasu. When Tokugawa forces won the decisive Battle of Sekigahara in 1600, Nobuyuki's gamble paid off and he kept his holdings. But the castle's days were numbered. In 1615, the Tokugawa shogunate imposed its rule of one domain, one castle, and Iwabitsu was ordered abolished. The castle town survived as a post station on the highway but was relocated closer to the Agatsuma River. The fortress itself was left to the forest and the mountain.
+
+## Ghost Stones on the Mountain
+
+Today, nothing survives of the original castle structures. The site requires commitment to visit: a thirty-minute walk from Gunma-Haramachi Station on the JR East Agatsuma Line brings you to the trailhead, followed by another thirty-minute hike up the mountainside to reach where the inner bailey once stood. What rewards the climb is not architecture but atmosphere. The mountain still commands the valley the way it did five centuries ago, and standing where the Sanada once plotted their expansion, you can trace the Agatsuma River's path and understand immediately why this position mattered. In 2017, Iwabitsu Castle was named to the Continued Top 100 Japanese Castles, and in 2019, the ruins received designation as a National Historic Site, formal recognition that even a vanished fortress can carry centuries of meaning.
+
+## Flight Context
+
+Located at 36.559N, 138.805E in the Agatsuma River valley of northwestern Gunma Prefecture. The castle site sits on Mount Iwabitsu, visible as a forested peak above the narrow river valley. The Shinshu Kaido highway corridor runs through the valley below. Nearest airport is RJAH (Ibaraki Airport), approximately 150 km to the southeast. The terrain is mountainous with elevations ranging from 500 to 800 meters. Best viewed at 3,000-5,000 feet AGL to appreciate the valley chokepoint the castle once controlled.
+
+## Sources
+
+- [Iwabitsu Castle - Wikipedia](https://en.wikipedia.org/?curid=17935643)
+  - Sanada Yukitaka captured Iwabitsu Castle in 1563 with backing of Takeda Shingen
+  - Agatsuma clan built first fortifications in 13th century, Saito clan held it in Muromachi period
+  - Sanada Masayuki captured Numata Castle in 1579
+  - Castle abolished in 1615 under Tokugawa one-domain-one-castle rule
+  - Designated National Historic Site in 2019
+  - Takeda Katsuyori planned to escape to Iwabitsu Castle in 1582 but was prevented by treachery and committed seppuku before reaching it
+- [Takeda Katsuyori - Wikipedia](https://en.wikipedia.org/wiki/Takeda_Katsuyori)
+  - Katsuyori's escape route to Iwabitsu was cut short by retainer betrayals (Oyamada Nobushige denied him entry to Iwadono Castle)
+  - Katsuyori committed seppuku in 1582 at Tenmokuzan, not at Iwabitsu
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 9 facts verified · 0 corrections
+
+Facts verified: Sanada takeover 1563, Agatsuma/Saito clan history, Katsuyori escape route to Iwabitsu in 1582 cut short by treachery (retainer Oyamada betrayal), committed seppuku at Tenmokuzan not at Iwabitsu as article correctly implies, National Historic Site 2019. No corrections needed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 720*
+*Read time: 4 minutes*

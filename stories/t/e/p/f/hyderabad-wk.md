@@ -1,0 +1,70 @@
+# Hyderabad
+
+Where Nizams built palaces and biryani became legend, where tech parks rise beside ancient monuments, where Telugu and Urdu cultures meet.
+
+**Location:** 17.3850, 78.4867
+
+**Categories:** india, nizams, biryani, tech, charminar, islamic
+
+## Introduction
+
+Two cultures built Hyderabad. The Nizams' Urdu-speaking court created one tradition; Telugu-speaking Andhra created another. Together they made a Telangana capital of 10 million people. Charminar anchors the old city while tech parks fill the new, and everyone here claims the biryani is best. How does an Islamic princely state become an Indian tech center? Hyderabad answers that question daily. Pearl traders still work these streets alongside the monuments that Qutb Shahi and Nizam rulers raised centuries ago. Microsoft and Google campuses inspire a generation of startups just a few miles away. Most cities separate their pasts from their futures. Hyderabad combines them.
+
+## The Charminar
+
+Muhammad Quli Qutb Shah built the Charminar in 1591, and the old city grew around it. Four minarets rise from a grand gateway at the heart of Hyderabad's most recognizable landmark. Legend holds he commissioned it to commemorate the end of plague. In reality, he planned an entire city with this monument at its center. Either way, the Charminar is where Hyderabad displays its Islamic heritage.
+
+Old Hyderabad survives in the surrounding streets. Bazaars sell pearls and bangles. Mosques echo with the call to prayer. Narrow lanes wind through neighborhoods where the city's Muslim population concentrates. Start here if you want to understand what Hyderabad was before tech arrived.
+
+## The Biryani
+
+Hyderabadi biryani emerged from the Nizams' royal kitchens, and local chefs insist no other city makes it correctly. Cooks seal rice and meat in a pot using the dum method, slow-cooking until the spices meld and the meat falls from the bone. This is what Hyderabad contributes to global cuisine.
+
+Tourists and locals gather at biryani restaurants across the city, debating fiercely over which serves the best. Prices range from street-stall affordable to fine-dining extravagant. The dish is serious business; criticism of local biryani is not taken lightly.
+
+## The Tech Industry
+
+HITEC City is Hyderabad's answer to Bangalore. Microsoft, Google, and Amazon all established campuses in this tech park district, and Indian IT companies followed. When the industry arrived in the 2000s, it transformed a declining princely capital into a serious competitor for Bangalore's crown.
+
+New Hyderabad rose from what was recently farmland. Glass towers now line broad highways connecting the old city to the tech corridors. Well-paid workers concentrate here, generating wealth that reshapes neighborhoods and draws ambitious young Indians from across the country. Hyderabad is now a destination, not just a heritage city.
+
+## The Nizams
+
+From 1724 until Indian independence in 1948, the Nizams ruled Hyderabad as India's largest princely state. Their wealth was legendary. They built palaces, accumulated vast collections, and created an administration that governed millions.
+
+That heritage survives in monuments and museums scattered across the city. Chowmahalla Palace preserves where the family lived, while the Salar Jung Museum fills an entire building with one family member's staggering collection. Nizam wealth created what tourism now showcases. Their descendants, meanwhile, live far more modestly than their ancestors.
+
+## The Golconda Fort
+
+Golconda Fort predates Hyderabad itself. The Qutb Shahi dynasty built this citadel before founding the city below it. Its acoustics are remarkable: a clap at the main gate can be heard at the summit. Walls thick enough to withstand prolonged siege held firm for years, until betrayal from within finally opened the gates.
+
+Today the fort draws tourists who climb through layered gates and terraced gardens to reach panoramic views at the top. Evening sound-and-light shows dramatize its history. Golconda is where Hyderabad's story began, the stronghold of a dynasty the Mughals eventually displaced and the Nizams eventually replaced.
+
+## Flight Context
+
+Hyderabad (17.39N, 78.49E) sits on the Deccan Plateau in south-central India. Rajiv Gandhi International Airport (VOHS/HYD) is located 22km south with one runway 09L/27R (4,260m) and one runway 09R/27L (3,800m). The Charminar in the old city is a landmark. HITEC City with its tech parks is visible to the northwest. Hussain Sagar Lake separates the old city from newer areas. Weather is tropical - hot and dry most of the year with monsoon June-October. Summer temperatures can exceed 40C. Located on Deccan Plateau at ~500m elevation.
+
+## Sources
+
+- [Hyderabad - Wikipedia](https://en.wikipedia.org/wiki/Hyderabad)
+  - 10 million population
+  - Charminar 1591
+  - Nizams 1724-1948
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 6 facts verified · 0 corrections
+
+Story overlay verified
+
+**Spiciness:** 1/5
+
+**Strong opinions:**
+
+- Where Nizams built palaces and biryani became legend
+- The dish is serious business; criticism of local biryani is not taken lightly
+
+---
+
+*Word count: 1,050*
+*Read time: 5 minutes*

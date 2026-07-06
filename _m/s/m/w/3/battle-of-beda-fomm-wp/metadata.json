@@ -117,5 +117,26 @@
   "galleryPaths": [
     "_m/s/m/w/3/battle-of-beda-fomm-wp/map-northern-cyrenaica.jpg",
     "_m/s/m/w/3/battle-of-beda-fomm-wp/iwm-caption-cruiser-ta.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "smw3-battle-of-beda-fomm-flight-context.mp3",
+      "smw3-battle-of-beda-fomm-intro.mp3",
+      "smw3-battle-of-beda-fomm-thirty-minutes-to-spare.mp3",
+      "smw3-battle-of-beda-fomm-tank-duels-among-the-ridges.mp3",
+      "smw3-battle-of-beda-fomm-burning-lorries-at-dusk.mp3",
+      "smw3-battle-of-beda-fomm-the-last-tank-at-the-officers-mess.mp3",
+      "smw3-battle-of-beda-fomm-the-gambles-price.mp3"
+    ],
+    "durations": {
+      "smw3-battle-of-beda-fomm-flight-context.mp3": 42.2892916,
+      "smw3-battle-of-beda-fomm-intro.mp3": 49.406875,
+      "smw3-battle-of-beda-fomm-thirty-minutes-to-spare.mp3": 57.689625,
+      "smw3-battle-of-beda-fomm-tank-duels-among-the-ridges.mp3": 68.36925,
+      "smw3-battle-of-beda-fomm-burning-lorries-at-dusk.mp3": 65.2437083,
+      "smw3-battle-of-beda-fomm-the-last-tank-at-the-officers-mess.mp3": 70.4107916,
+      "smw3-battle-of-beda-fomm-the-gambles-price.mp3": 53.929125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

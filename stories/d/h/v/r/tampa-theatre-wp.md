@@ -1,0 +1,71 @@
+# Tampa Theatre
+
+A 1926 atmospheric movie palace in downtown Tampa that was rescued from demolition by citizen activism and became a national model for historic theater preservation.
+
+**Location:** 27.9500, -82.4589
+
+**Categories:** historic-landmarks, performing-arts, architecture, movie-palaces, historic-preservation, tampa
+
+## Introduction
+
+Every evening before the film begins, a Mighty Wurlitzer organ rises from beneath the stage, and a volunteer organist plays while the audience settles into seats modeled on the originals from 1926. This is the Tampa Theatre, and it has been pulling off this trick -- making the present feel like the past without a trace of kitsch -- for nearly a century. Designed by architect John Eberson as an atmospheric theater, the building's interior was never meant to look like the inside of a building at all. Look up and you see a Mediterranean courtyard open to a night sky scattered with twinkling stars. Gargoyles perch on balconies. Statuary and flowers crowd the walls. When it opened on October 15, 1926, it was the first commercial building in Tampa to have air conditioning, and audiences came as much to sit in the cool dark as to watch the screen.
+
+## A Night Sky Built by Hand
+
+John Eberson was the master of atmospheric theater design, a style that turned auditoriums into outdoor fantasias. Rather than the gilded opera-house interiors popular with other movie palace architects, Eberson created the illusion of open-air spaces -- Italian gardens, Spanish courtyards, Moorish plazas -- with painted ceilings that mimicked twilight skies. For the Tampa Theatre, he chose a romantic Mediterranean courtyard theme. The walls rise like the facades of old stone buildings, punctuated by balconies, ornamental ironwork, and carved figures. Above it all, the ceiling spreads like a deep blue evening sky, its stars created by small lights embedded in plaster. The effect is simultaneously theatrical and intimate, as though the audience has wandered into a private garden in some coastal village. Nearly a hundred years later, the illusion still works. Visitors entering from the bright Florida sun step into perpetual dusk.
+
+## Saved from the Wrecking Ball
+
+By the 1960s and 1970s, the economics of American movie palaces had inverted. The land beneath grand old theaters was often worth more than the theaters themselves, and across the country, these buildings were demolished for parking lots and office towers. In 1973, Tampa Theatre faced the same fate. But something unusual happened: the citizens of Tampa fought back. Committees formed, city leaders intervened, and a deal was reached for the City of Tampa to assume the theater's leases and keep it alive. The Arts Council of Hillsborough County took over programming and management, filling the schedule with films, concerts, and special events. When the theater reopened in early 1978, it had become a national model for how communities could rescue endangered theaters. That same year, Tampa Theatre was listed on the National Register of Historic Places.
+
+## Fire, Restoration, and the Long Game
+
+Survival was only the beginning. In 1991, a fire damaged the building, and the Tampa Theatre Foundation led restoration efforts the following year. Since then, the theater has undergone a series of painstaking renovations designed to honor the original 1926 design while modernizing the infrastructure. In late 2017, a $6 million renovation updated the electrical systems, installed storm-rated windows and doors, added an emergency power system, and re-seated the auditorium with chairs designed to replicate the original look. Seating capacity dropped from 1,446 to 1,238 to improve comfort and legroom. A new carpet matched the original 1926 pattern. Crews from EverGreene Studios in New York restored the lobby paint and plaster to their original palette and replicated four tapestries to replace the worn originals, which were transferred to the Tampa Bay History Center for preservation. In April 2023, the City of Tampa's Community Redevelopment Agency approved $14 million for Phase II restoration work.
+
+## The Wurlitzer Still Plays
+
+The Tampa Theatre's Mighty Wurlitzer theatre organ is not a museum piece behind a velvet rope. It is played before nightly films by a team of volunteer organists from the Central Florida Theatre Organ Society, who also maintain the instrument. In 2013, during the theater's 87th year, the switch to digital projection was completed at a cost of $150,000 -- a free screening of the documentary Samsara celebrated the transition -- but the Wurlitzer remained analog, mechanical, and irreplaceable. The marquee and vertical blade sign, replaced in late 2003 with a public lighting ceremony held on January 16, 2004, glow over Franklin Street like a beacon from another era. The theater now hosts over 700 events annually, from independent and foreign films to live concerts, and has welcomed more than five million guests since its 1978 rescue, including over one million schoolchildren through field trips and summer camps.
+
+## Where B.B. King Played Nine Times
+
+The roster of performers who have taken the Tampa Theatre stage reads like a roll call of American music. B.B. King played there nine times. Ray Charles, The Police, Ramones, Blondie, David Byrne, Iggy Pop, Elvis Costello, Wilco, and Warren Zevon have all performed beneath the artificial stars. The theater's intimacy -- 1,238 seats in a room designed to feel like an open courtyard -- gives concerts a quality that arenas cannot replicate. You sit in a seat that echoes the design of 1926, look up at a painted night sky, and listen to music in a space where the architecture itself is performing. Tampa's only non-profit movie palace, supported by members, donors, and sponsors, the Tampa Theatre is not simply preserved. It is used, worn in, filled nightly -- a building that survived because a city decided it mattered.
+
+## Flight Context
+
+Located at 27.95N, 82.46W on Franklin Street in downtown Tampa. The theater sits within the downtown grid, identifiable by its vertical blade sign and marquee on the building's facade. Nearest airports: KTPA (Tampa International Airport), approximately 6 nm west; KTPF (Peter O. Knight Airport) on Davis Islands, roughly 2 nm south. The Hillsborough River, curving through downtown, and the distinctive minarets of the University of Tampa (former Tampa Bay Hotel) provide strong visual references. Best viewed at low altitude where the downtown streetscape is visible.
+
+## Sources
+
+- [Tampa Theatre - Official History](https://tampatheatre.org/about/history/)
+  - Opened October 15 1926
+  - First commercial air-conditioned building in Tampa
+  - City of Tampa assumed leases to save theater
+  - Reopened early 1978
+  - Listed National Register of Historic Places 1978
+  - 1991 fire followed by 1992 restoration
+  - 2017 renovation $6 million
+  - Seating reduced from 1446 to 1238
+  - New carpet matched 1926 pattern
+  - $14 million Phase II approved April 2023
+- [Tampa Theatre - Wikipedia](https://en.wikipedia.org/?curid=943702)
+  - John Eberson atmospheric theater design
+  - Mediterranean courtyard interior theme
+  - Mighty Wurlitzer organ played before films
+  - EverGreene Studios New York lobby restoration
+  - Four tapestries replicated replaced worn originals
+- [Central Florida Theatre Organ Society - Tampa Theatre Wurlitzer](https://cftos.org/tampa-theatre)
+  - Wurlitzer maintained and played by volunteer organists from CFTOS
+  - Analog mechanical instrument still in regular use
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 10 facts verified · 0 corrections
+
+Tampa Theatre facts verified: 1926 opening, air conditioning, 1978 save and NRHP listing, 1991 fire/1992 restoration, 2017 renovation seating 1446 to 1238, 4M Phase II 2023, Wurlitzer organ. All key claims confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 820*
+*Read time: 4 minutes*

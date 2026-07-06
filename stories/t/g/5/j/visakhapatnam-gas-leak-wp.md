@@ -1,0 +1,62 @@
+# Visakhapatnam Gas Leak
+
+A chemical plant left unattended during India's COVID-19 lockdown released a toxic styrene cloud over five villages in the early hours of May 7, 2020, killing thirteen people and sickening over a thousand.
+
+**Location:** 17.7553, 83.2089
+
+**Categories:** disaster, industry, environment, history
+
+## Introduction
+
+The people of R. R. Venkatapuram were asleep when the gas reached them. Between 2:30 and 3:00 a.m. on May 7, 2020, a cloud of vaporized styrene drifted out of the LG Polymers chemical plant on the outskirts of Visakhapatnam and rolled through five villages on the coastal plain of Andhra Pradesh. Residents woke to a pungent smell and a burning sensation in their eyes. Some collapsed in the streets. Hundreds were rushed to hospitals with breathing difficulties. By the time the sun rose over the Bay of Bengal, the death toll stood at eleven. It would climb to thirteen. More than a thousand people had been exposed to the toxic vapor, and the questions about how a chemical plant could fail so catastrophically had only begun.
+
+## Two Thousand Tons of Styrene
+
+The LG Polymers plant had a history that predated its South Korean ownership. Originally an Indian operation, it was merged with McDowell Holdings, a subsidiary of the United Breweries Group, in 1978. LG Chem acquired it in 1997 and renamed it LG Polymers India. The facility stored 2,000 metric tons of styrene monomer in large tanks on the plant grounds. Styrene is a volatile organic compound used in manufacturing polystyrene and various plastics, and it requires careful temperature management: the monomer must be kept between approximately 20 and 25 degrees Celsius, because higher temperatures cause rapid vaporization. When India imposed a nationwide COVID-19 lockdown in March 2020, the plant shut down. The chemical tanks sat unattended for weeks, their refrigeration systems no longer monitored by the skeleton crew that remained.
+
+## A Cooling System Fails in the Dark
+
+Investigators believe a malfunction in the factory's refrigeration system allowed tank temperatures to climb past safe thresholds. Without functioning temperature sensors, which a later report would reveal the outdated tanks lacked entirely, the styrene began to vaporize undetected. The plant was in the process of reopening on May 7 when maintenance workers discovered the leak already underway. By then the damage was spreading. The vapor cloud drifted southeast across R. R. Venkatapuram, Padmapuram, BC Colony, Gopalapatnam, and Kamparapalem, covering a radius of roughly three kilometers. People who inhaled the gas experienced nausea, dizziness, and respiratory distress. Animals in the affected area were found dead or unconscious along roadsides. Late that night, police ordered the evacuation of everyone within a two-kilometer radius as a precaution.
+
+## "Gross Human Failure"
+
+The investigation that followed painted a picture of systemic negligence. LG Chem had acknowledged in a May 2019 affidavit that the plant lacked a legitimate environmental clearance from India's Ministry of Environment, Forest and Climate Change. The company argued that it had consulted the ministry and been told no clearance was required, but India's Environment Secretary contradicted this claim, stating that clearance was mandatory for any expansion or production change after 2006. The National Green Tribunal ordered LG Polymers to deposit an initial sum with the District Magistrate of Visakhapatnam and constituted a five-member fact-finding committee. That committee's report, issued on May 28, 2020, concluded that the storage tanks were outdated, lacked temperature sensors, and were managed by workers inexperienced in handling such dangerous chemicals. The verdict was blunt: the disaster resulted from "gross human failure" and a lack of basic safety norms.
+
+## The Weight of What Was Lost
+
+Thirteen people died. Behind that number were families disrupted in the middle of the night, parents who could not protect their children from invisible gas, workers at the plant who had no warning of what was happening. The National Human Rights Commission declared the incident a gross violation of India's constitutional right to life. More than a thousand people required medical treatment, some on ventilator support. The Andhra Pradesh government directed LG Chem to remove 13,000 metric tons of material from the facility entirely, arranging two vessels to ship the chemicals back to the company's headquarters in Seoul. Experts who inspected the plant's other storage facilities after the leak warned that a second, larger catastrophe had been narrowly averted. The Vizag gas leak joined an unwelcome lineage of Indian industrial disasters, most prominently the 1984 Bhopal tragedy, that exposed the deadly consequences of insufficient regulation and corporate negligence.
+
+## Flight Context
+
+Located at 17.755°N, 83.209°E on the outskirts of Visakhapatnam, in the Gopalapatnam area. The LG Polymers plant site sits on the coastal plain roughly 10 km west of the city center. Nearest airport is Visakhapatnam (VOVZ/VTZ), approximately 12 km to the northeast. The industrial zone is identifiable from the air by its large tank farms and factory structures amid the surrounding residential neighborhoods and agricultural land.
+
+## Sources
+
+- [Visakhapatnam gas leak - Wikipedia](https://en.wikipedia.org/?curid=63883487)
+  - Incident occurred early morning 7 May 2020 confirmed
+  - Death toll: 13 confirmed (NDRF official figure)
+  - Over 1,000 people exposed confirmed
+  - LG Chem acquired plant in 1997 and renamed it LG Polymers India
+  - Plant shut down during COVID-19 lockdown starting March 2020
+  - NGT fact-finding committee report issued 28 May 2020 confirmed
+  - Report conclusion of 'gross human failure' confirmed
+  - National Human Rights Commission declared incident gross violation of right to life
+  - Vapor cloud covered approximately 3 km radius confirmed
+  - AP government directed removal of styrene to Seoul confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-07 · 10 facts verified · 0 corrections
+
+Verified: 7 May 2020, death toll 13 per NDRF, over 1000 exposed, LG Chem acquired 1997, NGT report 28 May 2020, gross human failure verdict. All facts accurate.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- comparison to 1984 Bhopal tragedy as lineage of Indian industrial disasters
+
+---
+
+*Word count: 735*
+*Read time: 4 minutes*

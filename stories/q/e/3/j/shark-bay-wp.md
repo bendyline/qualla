@@ -1,0 +1,63 @@
+# Shark Bay
+
+A World Heritage Site where living stromatolites echo the dawn of life on Earth, and 10,000 dugongs graze the largest seagrass beds on the planet.
+
+**Location:** -25.7912, 113.9420
+
+**Categories:** nature, world-heritage, marine-life, geology, conservation
+
+## Introduction
+
+In the shallows of Hamelin Pool, dark cushion-shaped mounds break the surface of water twice as salty as the open ocean. They look like rocks. They are not. These are stromatolites -- living structures built by cyanobacteria, the same organisms that began oxygenating Earth's atmosphere roughly 3.5 billion years ago. Nowhere else on the planet do they grow in such abundance, and nowhere else can you stand at the edge of a boardwalk and watch biology operating on a timescale that makes human civilization look like a footnote.
+
+## Where Time Pools
+
+Shark Bay sprawls across 23,000 square kilometres of Western Australia's Gascoyne coast, about 800 kilometres north of Perth. It became the state's first World Heritage Site in 1991, and was added to the Australian National Heritage List in 2007. The designation rests on four criteria -- natural beauty, geological processes, ecological significance, and biodiversity -- and the bay meets all of them. Roughly 70 percent of the heritage area is marine, a patchwork of shallow bays, peninsulas, and more than a dozen islands that together create one of the most ecologically complex coastal environments in Australia. The water ranges from turquoise over sand flats to deep blue in the channels, and on a calm day the whole system shimmers with a clarity that makes the seabed visible from the air at several thousand feet.
+
+## Architects of the Ancient World
+
+The stromatolites of Hamelin Pool are what draw geologists from around the world. Cyanobacteria began building these structures here roughly 1,000 years ago, trapping sediment grain by grain into layered domes that grow at an almost imperceptible rate. Their ancient relatives left fossil records dating back 3.5 billion years -- found near Marble Bar in Western Australia's Pilbara region -- making stromatolites the longest continuously present fossil type in Earth's geological record. What makes Hamelin Pool exceptional is the hypersaline water. Evaporation in this hot desert climate far outpaces rainfall, and the bay's vast seagrass beds restrict tidal flow, preventing the ocean from diluting the concentrated water. The result is an environment too salty for the grazing organisms that would normally consume cyanobacterial mats, allowing the stromatolites to thrive unchallenged.
+
+## The Seagrass Engine
+
+Twelve species of seagrass have been recorded in Shark Bay, more than anywhere else on Earth, with up to nine coexisting in a single location. Over millennia, sediment and shell fragments have accumulated among the grass blades, gradually raising the sea floor and making the bay shallower. This is not a passive process. The seagrass meadows function as the engine of the entire ecosystem -- sheltering juvenile fish, anchoring the sediment against storms, and feeding the bay's most conspicuous residents. Around 10,000 dugongs live here, approximately 10 percent of the global population, drifting through the shallows like slow grey dirigibles. At Monkey Mia, Indo-Pacific bottlenose dolphins have been approaching the beach to interact with people since the 1960s, a behaviour so consistent it has become one of Western Australia's most famous wildlife encounters.
+
+## Islands as Lifeboats
+
+The islands scattered across Shark Bay serve a purpose beyond scenery. Free of the foxes, cats, and rabbits that devastated mainland wildlife after European settlement, several islands have become arks for threatened species. Project Eden, based in Francois Peron National Park on the Peron Peninsula, breeds animals like the banded hare-wallaby and the western barred bandicoot, then releases them onto predator-free islands. In 1999, the Australian Wildlife Conservancy acquired Faure Island's 5,816-hectare pastoral lease and converted it into a conservation reserve. Sea turtles nest on its beaches seasonally. Dirk Hartog Island, the largest in the bay, carries its own historical weight -- Dutch explorer Dirk Hartog landed there in 1616, leaving an inscribed pewter plate that became one of the earliest European markers on Australian soil.
+
+## A Landscape That Remembers
+
+Aboriginal occupation of Shark Bay extends thousands of years into the past, when much of the current bay was dry land and rising seas had not yet flooded the coastal plains. Midden sites on the Peron Peninsula and Dirk Hartog Island record the foods gathered from these waters and adjacent land. European visitors arrived in waves -- Louis de St Aloüarn in 1772, Nicolas Baudin from 1801 to 1803, Louis de Freycinet in 1818 -- each charting a coast that had already been known intimately for millennia. Today, fewer than a thousand people live across the heritage area, clustered in a half-dozen small communities that occupy less than one percent of the land. The town of Denham, the westernmost settlement in Australia, hosts the Shark Bay World Heritage Discovery Centre. Beyond Denham, the 150-kilometre World Heritage Drive connects to the North West Coastal Highway, and Shark Bay Airport provides air access. The landscape remains vast, quiet, and older than almost anything you will ever see.
+
+## Flight Context
+
+Shark Bay is located at approximately 25.79S, 113.94E on the westernmost point of the Australian continent, about 800 km north of Perth. From altitude, the bay's distinctive Y-shape is clearly visible, with the Peron Peninsula dividing the water into two arms. The turquoise shallows contrast sharply with deeper blue channels. Shark Bay Airport (ICAO: YSHK) provides access to the area. Nearby, the town of Denham sits on the western shore. Best viewed at 5,000-15,000 ft for the full panoramic effect of the peninsula system and island chain.
+
+## Sources
+
+- [Shark Bay - Wikipedia](https://en.wikipedia.org/?curid=421247)
+  - Shark Bay 23,000 sq km confirmed
+  - First World Heritage Site in Western Australia, inscribed 1991 confirmed
+  - Added to Australian National Heritage List 2007 confirmed
+  - 70 percent of heritage area is marine confirmed
+  - 12 seagrass species confirmed
+  - Up to 9 seagrass species coexisting in one location confirmed
+  - Corrected: '12.5 percent of the global dugong population' → 'approximately 10 percent' (sources consistently cite ~10%)
+  - 10,000 dugongs confirmed
+  - Stromatolites in Hamelin Pool confirmed
+  - Dirk Hartog landed 1616 confirmed
+  - Faure Island acquired by Australian Wildlife Conservancy in 1999 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 11 facts verified · 1 correction
+
+Corrected '12.5 percent of global dugong population' to 'approximately 10 percent' (multiple authoritative sources cite ~10%). All other facts verified: 23,000 sq km, World Heritage 1991, National Heritage 2007, 12 seagrass species, 10,000 dugongs, stromatolites confirmed, Faure Island AWC 1999. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 810*
+*Read time: 4 minutes*

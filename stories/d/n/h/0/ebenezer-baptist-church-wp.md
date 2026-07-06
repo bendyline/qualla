@@ -1,0 +1,66 @@
+# Ebenezer Baptist Church
+
+The spiritual home of the American civil rights movement, where three generations of the King family preached and the Southern Christian Leadership Conference was born.
+
+**Location:** 33.7553, -84.3742
+
+**Categories:** historical-site, civil-rights, atlanta, georgia, church
+
+## Introduction
+
+The name means "stone of help," taken from the Books of Samuel, and for more than a century this modest red-brick church on Auburn Avenue has lived up to that promise. Ebenezer Baptist Church has anchored the Sweet Auburn neighborhood of Atlanta since 1886, when Pastor John A. Parker and just eight congregants gathered on Airline Street to found a church. What they could not have imagined is that their little congregation would become the spiritual epicenter of the American civil rights movement, the pulpit from which Martin Luther King Jr. would help reshape the conscience of a nation, and the place where presidents, senators, and mourners from every corner of the world would one day gather.
+
+## A Dynasty of Purpose
+
+The Kings did not arrive at Ebenezer by accident. Adam Daniel Williams, the maternal grandfather of Martin Luther King Jr., took over as pastor in 1894 when the church had a mere 13 members. Under his leadership, the congregation swelled to 400 by 1903 and 750 by 1913. Williams built the church into an institution. In 1927, a young minister named Martin Luther King Sr. joined as assistant pastor, and by 1931 he had ascended to the senior role. "Daddy King," as he was known, would hold that position for more than four decades, shepherding the church through the Depression, a world war, and the seismic upheavals of the civil rights era. When his son Martin Luther King Jr. returned to Atlanta in 1960 to serve as co-pastor, three generations of the family had shaped Ebenezer into something far greater than a neighborhood church.
+
+## Where a Movement Found Its Voice
+
+In 1957, Martin Luther King Jr. invited Baptist leaders from across the South to meet at Ebenezer. The gathering produced the Southern Christian Leadership Conference, an organization that would become the strategic backbone of the civil rights movement and the campaign to end racial segregation in the United States. The church was no stranger to activism; its Auburn Avenue neighborhood was the commercial and cultural heart of Black Atlanta, a street so vibrant that Fortune magazine once called it "the richest Negro street in the world." From this address, King Jr. preached sermons that blended theology with urgent moral argument, delivered in the cadences of the Black Baptist tradition that had been refined at Ebenezer for decades. When he was assassinated in Memphis on April 4, 1968, his body came home. The funeral on April 9, 1968, filled the sanctuary and spilled out onto Auburn Avenue, watched by millions on television.
+
+## Grief and Resilience
+
+The losses came in waves. Martin Luther King Jr. was shot in April 1968. His brother A. D. King, who had served as co-pastor alongside him, died in 1969. Martin Luther King Sr. continued to preach, a figure of immense dignity carrying unimaginable grief. In 1974, his wife Alberta was shot and killed by a gunman while she played the organ during a Sunday service at Ebenezer. Through it all, the church endured. Joseph L. Roberts Jr. became senior pastor in 1975 and guided the congregation for three decades, maintaining its dual role as a house of worship and a living monument to its history. In 1999, a new 1,700-seat Horizon Sanctuary was dedicated within what had become the Martin Luther King Jr. National Historical Park, expanding the church's capacity to meet a congregation that continued to grow.
+
+## From Pulpit to Senate
+
+In 2005, Raphael Warnock became the fifth senior pastor in Ebenezer's history. He inherited a church with 6,000 members and a legacy that placed enormous expectations on its leader. Warnock proved equal to the task, carrying the tradition of prophetic preaching into the twenty-first century. In January 2021, he made history of his own by winning a special runoff election to become the first Black senator from the state of Georgia. On December 6, 2022, he won election to a full six-year term, cementing the achievement. His dual role as pastor and senator echoes the long Ebenezer tradition: faith expressed not only in worship but in public action. The same sanctuary that hosted King's funeral also hosted the funeral of congressman John Lewis, another civil rights icon, connecting the generations of struggle that define this church.
+
+## Sacred Ground on Auburn Avenue
+
+Today, the original brick church building stands preserved as part of the Martin Luther King Jr. National Historical Park, its wooden pews and stained glass frozen in time. Visitors can stand at the pulpit where three generations of Kings preached and look out at the same sanctuary where Coretta Scott King comforted five-year-old Bernice during her father's funeral, a moment captured in a Pulitzer Prize-winning photograph. Across the street, King's birth home and the King Center continue the story. The Horizon Sanctuary next door hums with Sunday services, its modern architecture a deliberate contrast to the preserved original. Ebenezer remains what it has always been: a working church with a living congregation, not a museum. The stone of help still stands on Auburn Avenue, still offering what its biblical name promised.
+
+## Flight Context
+
+Located at 33.755N, 84.374W in Atlanta's Sweet Auburn neighborhood, east of downtown. From altitude, look for the Martin Luther King Jr. National Historical Park complex along Auburn Avenue, between the downtown skyline and the I-75/I-85 interchange known as the Downtown Connector. The historic church and Horizon Sanctuary sit adjacent to each other. Hartsfield-Jackson Atlanta International (KATL) is 9nm south. DeKalb-Peachtree Airport (KPDK) is 8nm northeast. Fulton County Airport (KFTY) is 12nm northwest. Atlanta's distinctive sprawl and highway interchange pattern make orientation straightforward in VFR conditions.
+
+## Sources
+
+- [Ebenezer Baptist Church - Wikipedia](https://en.wikipedia.org/?curid=39459819)
+  - founded 1886 by John A. Parker confirmed
+  - A.D. Williams became pastor 1894 confirmed
+  - SCLC founded at Ebenezer 1957 confirmed
+  - Alberta King shot during service 1974 confirmed
+  - Horizon Sanctuary 1999 dedication confirmed
+- [Raphael Warnock - Ebenezer Baptist Church](https://www.ebenezeratl.org/raphael-warnock/)
+  - Warnock became senior pastor 2005 confirmed
+  - first Black senator from Georgia January 2021 confirmed
+  - December 6, 2022 full six-year term election confirmed
+  - fifth senior pastor in history confirmed
+- [Ebenezer Baptist Church - Britannica](https://www.britannica.com/topic/Ebenezer-Baptist-Church)
+  - King Jr. returned to Atlanta 1960 as co-pastor confirmed
+  - A.D. King died 1969 confirmed
+  - King funeral April 9 1968 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 14 facts verified · 0 corrections
+
+Verified 1886 founding by John A. Parker, A.D. Williams pastor from 1894, SCLC founding 1957, Alberta King murder 1974, Warnock elected 2005 as pastor and 2021 as senator. All key facts confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

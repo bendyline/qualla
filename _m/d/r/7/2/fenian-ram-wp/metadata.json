@@ -84,5 +84,26 @@
   ],
   "galleryPaths": [
     "_m/d/r/7/2/fenian-ram-wp/banner-variant-sunburs.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr72-fenian-ram-flight-context.mp3",
+      "dr72-fenian-ram-intro.mp3",
+      "dr72-fenian-ram-the-schoolteachers-weapon.mp3",
+      "dr72-fenian-ram-armed-and-ingenious.mp3",
+      "dr72-fenian-ram-stolen-by-its-own-side.mp3",
+      "dr72-fenian-ram-from-madison-square-garden-to-the-junkyard.mp3",
+      "dr72-fenian-ram-hollands-longer-legacy.mp3"
+    ],
+    "durations": {
+      "dr72-fenian-ram-flight-context.mp3": 44.9167083,
+      "dr72-fenian-ram-intro.mp3": 44.0510833,
+      "dr72-fenian-ram-the-schoolteachers-weapon.mp3": 66.8654166,
+      "dr72-fenian-ram-armed-and-ingenious.mp3": 69.8614583,
+      "dr72-fenian-ram-stolen-by-its-own-side.mp3": 58.985,
+      "dr72-fenian-ram-from-madison-square-garden-to-the-junkyard.mp3": 51.2091666,
+      "dr72-fenian-ram-hollands-longer-legacy.mp3": 64.06575
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

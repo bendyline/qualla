@@ -1,0 +1,73 @@
+# Fort Pickens
+
+Built with 21.5 million bricks on the western tip of Santa Rosa Island, this pentagonal fortress never fell to the Confederacy - and later held Geronimo as a prisoner of war.
+
+**Location:** 30.3270, -87.2907
+
+**Categories:** military-history, civil-war, coastal-fortification, national-park, barrier-island
+
+## Introduction
+
+Around midnight on January 8, 1861, guards at Fort Barrancas on the Pensacola mainland repelled a group of local civilians trying to seize the fort. Lieutenant Adam Slemmer made a quick decision: abandon the mainland, spike the guns, and move his tiny force of 51 soldiers and 30 sailors across the water to Fort Pickens on Santa Rosa Island. It was a gamble. The pentagonal brick fortress had been vacant since the Mexican-American War and sat in disrepair. But Slemmer judged it the most defensible position in the area, and he was right. Some historians argue that the shots his guards fired that night were the first of the entire Civil War - two months before Fort Sumter.
+
+## Twenty-One Million Bricks
+
+After the War of 1812 exposed America's coastal vulnerabilities, the government commissioned a massive program of harbor fortifications. French engineer Simon Bernard designed Fort Pickens as part of this Third System of Fortifications, a generation of masonry forts that would ring the nation's coastline. Construction began in 1829 and consumed five years and 21.5 million bricks. Much of the labor was performed by enslaved people. The fort's pentagonal layout placed broader western walls facing Pensacola Bay, providing maximum firepower over the channel entrance. A counterscarp on the eastern side created a defensive moat against land attack, while mine chambers in the westernmost bastions offered a last-ditch defense against invaders. Colonel William H. Chase of the U.S. Army Corps of Engineers supervised the construction - the same man who would later, as a Confederate colonel, twice demand the fort's surrender.
+
+## The Fort That Never Fell
+
+Slemmer's refusal to surrender made Fort Pickens a Union stronghold throughout the entire Civil War. On January 15 and again on January 18, 1861, Colonel Chase - the fort's own builder - demanded Slemmer hand it over to the Florida militia. Slemmer refused both times. Reinforcements arrived on April 12, and the garrison grew through 1861. The Confederates launched a ground assault on October 9 in the Battle of Santa Rosa Island, landing over a thousand men four miles east of the fort. Artillery and gunfire drove them back with 90 casualties. Then came the bombardments. On November 22, Union warships Niagara and Richmond sailed into the bay and shelled the Confederate positions for two days, nearly destroying Fort McRee across the pass and leveling the town of Warrington. Fort Pickens was one of only four Southern forts to remain in Union hands for the entire war, alongside Fort Taylor, Fort Jefferson, and Fort Monroe.
+
+## Geronimo Behind Bars
+
+Fort Pickens' role shifted dramatically after the Civil War. In October 1886, the Apache war leader Geronimo arrived at the fort as a prisoner of war, along with several of his warriors. Their families were held separately at Fort Marion in St. Augustine, hundreds of miles away across the Florida peninsula. Geronimo remained imprisoned at Fort Pickens until May 1887. The fort had become a place of confinement rather than defense - a role reversal that spoke to the changing nature of American military power in the late nineteenth century. The Indian Wars prisoners brought a strange celebrity to the remote barrier island; tourists arrived by ferry to catch a glimpse of the famous captive behind the fort's massive walls.
+
+## Concrete Over Brick
+
+The Endicott Board reforms of the 1890s brought a new generation of weapons to Fort Pickens, and the old brick fortress paid the price. Battery Pensacola, mounting 12-inch guns, was built within the fort's walls, requiring the demolition of the south wall parapet and the officers' quarters beneath it. The southeast barbette and casemate arches of the southernmost bastion were torn away to clear firing arcs. Then on June 20, 1899, a fire in Bastion D reached its powder magazine. The explosion killed one soldier and obliterated the entire bastion - bricks from its walls were found across the bay at Fort Barrancas, more than 1.5 miles away. During World War II, the fort gained new relevance against German U-boats operating in the Gulf of Mexico. Battery Langdon received 17 feet of concrete overhead in 1943, creating bomb-proof casemates buried under artificial hills of sand and earth.
+
+## Barrier Island Time Capsule
+
+Fort Pickens was deactivated in 1947 and now stands as part of the Gulf Islands National Seashore, administered by the National Park Service. The ruins tell the story of American coastal defense in layers: Third System brickwork from the 1830s, Endicott-era concrete batteries from the 1890s, World War II casemates with their steel blast doors. The concrete aiming rings from the 1942 GPF battery emplacements still circle Battery Cooper, though the 155mm guns are long gone. Hurricane damage, salt air, and shifting sands continuously reshape the site. Across Pensacola Pass, the ruins of Fort McRee have nearly vanished entirely - storms and erosion have reduced it to scattered foundations accessible only by boat. Fort Pickens endures, a pentagonal monument to the conviction that this narrow strip of sand between bay and Gulf was worth defending for more than a century.
+
+## Flight Context
+
+Fort Pickens sits at 30.327N, 87.291W on the western tip of Santa Rosa Island, a barrier island forming the southern boundary of Pensacola Bay. The pentagonal fort and surrounding battery ruins are clearly visible from the air, with the white sand of the island contrasting sharply against the Gulf waters. Fort McRee ruins (barely visible) lie across Pensacola Pass to the west on Perdido Key. Fort Barrancas is visible on the mainland bluffs to the north-northeast. Best viewed from 1,000-2,000 ft AGL. The island is narrow here - less than half a mile wide - making the fort's strategic position obvious from above. NAS Pensacola (KNPA) lies 3 nm to the north. Pensacola International (KPNS) is approximately 7 nm northeast. Watch for military traffic from NAS Pensacola.
+
+## Sources
+
+- [Fort Pickens - Wikipedia](https://en.wikipedia.org/?curid=705068)
+- [Fort Pickens - Wikipedia / Pensapedia / NPS](https://en.wikipedia.org/wiki/Fort_Pickens)
+  - Simon Bernard designed Fort Pickens - confirmed
+  - Construction 1829-1834, 21.5 million bricks - confirmed
+  - Enslaved labor used in construction - confirmed
+  - William H. Chase supervised construction and later demanded surrender as Confederate - confirmed
+  - Slemmer moved 51 soldiers and 30 sailors to Fort Pickens - confirmed
+- [Battle of Santa Rosa Island - Wikipedia / American Battlefield Trust](https://en.wikipedia.org/wiki/Battle_of_Santa_Rosa_Island)
+  - October 9 1861 Confederate ground assault - confirmed
+  - Over 1000 men (actually 1200) landed 4 miles east - confirmed
+  - Confederate casualties: 87 total (article says 90 - minor rounding)
+  - Fort Pickens one of four Southern forts remaining in Union hands - confirmed
+- [Geronimo at Fort Pickens - NPS / visitpensacolabeach.com](https://visitpensacolabeach.com/geronimo-pensacolas-first-major-tourist-attraction-blog/)
+  - Geronimo arrived October 1886 - confirmed (Oct 25)
+  - Families held separately at Fort Marion in St. Augustine - confirmed
+  - CORRECTION: Article says 'remained imprisoned until May 1887' but Geronimo stayed until May 1888 (18 months); May 1887 was when families were reunited, not when he departed
+  - Tourists visited by ferry to see Geronimo - confirmed
+- [Fort Pickens Bastion D Explosion - Pensapedia / HMDB](https://www.pensapedia.com/wiki/Fort_Pickens)
+  - June 20 1899 fire in Bastion D - confirmed
+  - Explosion killed one soldier (Pvt. Earle Welles) - confirmed
+  - Bricks found at Fort Barrancas 1.5 miles away - confirmed
+  - Battery Pensacola 12-inch guns built within fort walls - confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-11 · 15 facts verified · 1 correction
+
+One significant error: Geronimo stayed at Fort Pickens until May 1888 not May 1887. Minor: Confederate casualties 87 rounded to 90. Three Chase surrender demands but only two mentioned. Spiciness 2/5. Excellent writing quality.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 870*
+*Read time: 4 minutes*

@@ -1,0 +1,65 @@
+# 2024 Finneidfjord Train Derailment
+
+A rockslide on the Nordland Line in October 2024 killed the train driver, severed Norway's only continuous north-south road and rail links, and effectively cut the country in two for weeks.
+
+**Location:** 66.1733, 13.8207
+
+**Categories:** 2024 in Norway, Rail transport in Norway
+
+## Introduction
+
+Norway is a country held together by a single thread. One continuous road, European route E6, runs the length of its coastline. One railway, the Nordland Line, connects Trondheim to Bodø. On the afternoon of October 24, 2024, a rockslide dropped boulders onto both, and the thread snapped. Passenger train number 471, carrying 46 passengers and 3 crew members northbound from Trondheim, struck the debris between Bjerka Station and Finneidfjord. The locomotive and lead wagons derailed, the locomotive's nose coming to rest dangling over the edge of the E6. The train driver was killed. Four passengers were hospitalized with minor injuries. And Norway, quite literally, was cut in two.
+
+## A Mountainside with a History
+
+The stretch of track between Bjerka and Finneidfjord had been telling anyone who would listen that it was dangerous. There had been landslides in the area since at least 1984. A major beach-zone landslide struck Tuvsletta in Sørfjorden in 1996 during construction of the Finneidfjord tunnel. In October 2016, almost exactly at the location of the 2024 derailment, a southbound evening train from Bodø struck a one-cubic-meter boulder, derailing a single bogie and injuring two of its 14 passengers. The Norwegian Safety Investigation Authority noted in 2017 that the area had been inspected and protected against rockfall by Bane NOR, the state railway infrastructure agency. The next inspection was scheduled for 2023. Whether that inspection occurred, and what it found, became immediate questions after the 2024 disaster.
+
+## The Day the Country Split
+
+With both the E6 and the Nordland Line blocked at the same point, northern Norway was severed from the south. The only road detours were punishing: one ran through Grane and Hattfjelldal on Norwegian national road 73, then through Storuman in Sweden via the Blue Highway, and back into Norway on the E12. Both detours added hours to every journey and were themselves periodically closed by weather and accidents. On October 31, a car with three Norwegians crashed into a stopped truck on the Swedish detour road near Bredviken; one occupant later died. Meanwhile, a local couple in Finneidfjord began ferrying people across the fjord in their own boat, completing over 200 crossings before the municipality took over the service on October 28.
+
+## Weeks of Recovery
+
+Removing the derailed train was a painstaking operation complicated by the very geology that had caused the crash. Workers cleared 30 cubic meters of loose vegetation on October 28 and used explosives and airbags the following day to break apart the boulder perched above the wreckage. Storm Jakob swept through on October 29, triggering landslide warnings and delaying the locomotive's extraction. The passenger coaches were craned out on November 3 and 4, with the locomotive finally removed on November 5. The E6 reopened the following day, but the Nordland Line required extensive rockfall protection work before trains could return. Goods trains were permitted on November 30, and passenger service resumed on December 2. The destroyed locomotive, Di 4.653, was written off, worsening an already critical shortage of locomotives on the Nordland Line and hampering service for months afterward.
+
+## The Fragility of One Road North
+
+The Finneidfjord derailment laid bare a vulnerability that Norwegians have long understood but rarely confronted so starkly. Northern Norway depends on a single road and a single railway to maintain its connection to the rest of the country. When both fail simultaneously, there is no domestic alternative. The detours run through Sweden. Supplies, medical transport, commuters, and commerce all bottleneck or stop entirely. NRK documented at least five major disruptions caused by the E6 closure alone. The accident forced a national conversation about infrastructure redundancy in a country where geography makes redundancy extraordinarily expensive, and where the mountains that create the scenery also create the landslides that periodically tear the transportation network apart.
+
+## Flight Context
+
+Located at 66.17°N, 13.82°E along the Nordland Line between Bjerka Station and Finneidfjord in Hemnes Municipality, Nordland county, Norway. The derailment site is where the railway and E6 highway run parallel along the fjord shore beneath steep mountainsides. Best viewed at 3,000-5,000 feet altitude to see the narrow coastal corridor where road and rail are squeezed between mountain and water. Nearest airport: Mo i Rana Airport, Røssvoll (ENRA) approximately 30 km north. Expect variable weather with potential for low clouds along the fjord.
+
+## Sources
+
+- [2024 Finneidfjord train derailment - Wikipedia](https://en.wikipedia.org/?curid=78312678)
+  - Derailment on 24 October 2024 confirmed
+  - 46 passengers and 3 crew members aboard confirmed
+  - Train driver killed, four passengers hospitalized confirmed
+  - Both E6 and Nordland Line blocked simultaneously confirmed
+  - Previous incident in October 2016 with boulder and bogie derailment confirmed
+  - Locomotive Di 4.653 written off confirmed
+  - E6 reopened November 6, passenger service resumed December 2 confirmed
+  - Goods trains permitted November 30 confirmed
+  - Rockfall boulders cleared with explosives and airbags confirmed
+  - Passenger coaches removed November 3-4, locomotive November 5 confirmed
+- [Norway fatal derailment - Railtech](https://www.railtech.com/all/2024/10/30/norway-fatal-derailment-on-key-route-raises-questions-about-landslide-threat/)
+  - Bane NOR responsible for railway infrastructure confirmed
+  - History of landslides in area since 1984 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 10 facts verified · 0 corrections
+
+Key facts confirmed: date Oct 24 2024, 46 passengers + 3 crew, driver killed, 4 injured, both E6 and Nordland Line blocked, recovery timeline, locomotive Di 4.653 written off. No errors.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Norway is a country held together by a single thread
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

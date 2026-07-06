@@ -1,0 +1,61 @@
+# Gateway Arch
+
+The 630-foot stainless steel catenary curve on the Mississippi - America's tallest monument, designed by Eero Saarinen, honoring westward expansion while standing on land cleared by demolishing 40 blocks of historic riverfront.
+
+**Location:** 38.6247, -90.1848
+
+**Categories:** missouri, st-louis, monument, architecture, national-park
+
+## Introduction
+
+On the banks of the Mississippi River in St. Louis, a stainless steel arch curves 630 feet into the sky - the tallest monument in the United States. The Gateway Arch was designed by Finnish-American architect Eero Saarinen in 1947, though construction didn't begin until 1963 and wasn't completed until 1965. The arch commemorates westward expansion and St. Louis's role as the 'Gateway to the West.' Its form is a catenary curve - the shape a chain makes hanging between two points, inverted. The arch is elegant, iconic, and controversial: building it required demolishing 40 blocks of historic riverfront, including century-old buildings that preservationists mourned. The arch that celebrates American progress was built by erasing American history.
+
+## The Competition
+
+The idea for a riverfront memorial emerged in the 1930s, championed by civic boosters who saw the decaying riverfront as blight. President Franklin Roosevelt endorsed the project; 40 blocks of 19th-century buildings were demolished in the 1940s, creating a cleared site. A design competition in 1947 drew 172 entries. Eero Saarinen's arch design won - a simple, powerful form that would dominate the skyline. Saarinen was 37 years old; the arch would become his most famous work, though he died in 1961 before seeing it built. The competition remains controversial: the demolished buildings included significant architecture, and the arch's celebratory message about westward expansion ignores Indigenous displacement.
+
+## The Construction
+
+Construction began in 1963 and required innovative engineering. The arch is a hollow structure with double walls of stainless steel - an outer skin and an inner skin separated by concrete and steel reinforcement. The two legs rose independently, meeting at the top. The final segment was inserted on October 28, 1965, requiring hydraulic jacks to adjust the legs (thermal expansion from morning sun had shifted them). Inside each leg, a unique tram system carries visitors to the observation deck at the apex. The trams are capsules that rotate to keep passengers level as they travel up the curve. The construction cost $13 million (about $130 million today).
+
+## The Experience
+
+Visiting the arch involves descending into the underground visitor center, passing through security, and boarding the tram capsules - five-person pods that climb the leg's interior. The ride takes four minutes. At the top, small windows in both directions offer views of St. Louis to the west and the Mississippi River and Illinois to the east. The observation deck is cramped - the arch's apex is narrow - and busy on popular days. The view extends 30 miles on clear days. The experience is about being inside the arch as much as seeing from it - feeling the slight sway in wind, understanding the structure from within. Return trams descend a different leg.
+
+## The Park
+
+Gateway Arch National Park (formerly Jefferson National Expansion Memorial) surrounds the arch with 91 acres of grounds along the riverfront. The Museum of Westward Expansion, beneath the arch, explores the Lewis and Clark expedition and westward settlement - though recent updates address Indigenous perspectives more honestly than earlier exhibits. The Old Courthouse, where the Dred Scott case began, is part of the park. The grounds were renovated in 2018, improving access between downtown St. Louis and the riverfront. The park hosts events, concerts, and offers riverboat cruises on the Mississippi. The arch is illuminated at night, visible for miles.
+
+## Visiting the Gateway Arch
+
+Gateway Arch National Park is located on the St. Louis riverfront, accessible from downtown. Tram ride tickets should be reserved in advance, especially in summer and on weekends. The underground museum is included with tram tickets or free to visit alone. The grounds are open daily; the arch and museum close Thanksgiving and Christmas. Security screening is required. St. Louis Lambert International Airport is 15 miles northwest. Downtown St. Louis hotels are within walking distance. Allow 2-3 hours for the full experience (museum, tram, grounds). The view from the top is best on clear days; the tram operates in most weather. Evening visits offer sunset views and nighttime illumination.
+
+## Flight Context
+
+Located at 38.62°N, 90.19°W on the Mississippi River in St. Louis, Missouri. From altitude, the Gateway Arch is unmistakable - a gleaming silver curve on the river's western bank, its stainless steel reflecting sunlight. The arch dominates the St. Louis skyline. The Mississippi River curves past; the Illinois shore is visible to the east. Downtown St. Louis spreads west of the arch grounds. The Eads Bridge (1874) and other crossings connect Missouri and Illinois. Lambert-St. Louis International Airport is northwest of the city. The confluence of the Missouri and Mississippi Rivers - which made St. Louis the gateway to the West - is 15 miles north.
+
+## Sources
+
+- [Gateway Arch - Wikipedia](https://en.wikipedia.org/?curid=53353)
+  - 630 feet tall
+  - Eero Saarinen designed 1947
+  - completed 1965
+  - 40 blocks demolished
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 6 facts verified · 0 corrections
+
+Story overlay verified with sources
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- America's tallest monument
+- The arch that celebrates American progress was built by erasing American history
+
+---
+
+*Word count: 840*
+*Read time: 5 minutes*

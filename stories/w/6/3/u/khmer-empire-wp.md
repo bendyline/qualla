@@ -1,0 +1,63 @@
+# Khmer Empire
+
+For six centuries, the Khmer Empire dominated mainland Southeast Asia from its hydraulic capital at Angkor, building the largest pre-industrial city on Earth before drought and invasion brought it down.
+
+**Location:** 13.4333, 103.8333
+
+**Categories:** empires, cambodia, khmer, ancient-history, southeast-asia
+
+## Introduction
+
+In a 947 book called "Meadows of Gold and Mines of Gems," the Arab historian Masoudi retold a story first recorded by a Persian merchant in 851. A young Khmer king had publicly mocked the Maharaja of the Javanese Sailendras, boasting that he wanted the Maharaja's head on a dish. The Sailendras responded with a surprise naval attack up the river to the Khmer capital. The young king lost his throne and his kingdom became a vassal state. But within a generation, the Khmer had absorbed the lesson and turned it outward. By the 12th century, their empire stretched from the tip of the Malay Peninsula to southern China, ruled from a capital that may have housed a million people -- at a time when London held perhaps 30,000.
+
+## A Crown Forged in Fire
+
+The empire dates its founding to a ceremony on Mount Mahendraparvata in 802 AD. The Khmer prince Jayavarman II, who had spent years defeating rival kings and absorbing the remnants of the old Chenla kingdom, performed a Hindu consecration ritual and declared himself chakravartin -- universal monarch. The ritual carried a political message as pointed as any military campaign: Kambuja, as the Khmer called their land, would no longer submit to Javanese authority. Jayavarman established his base at Hariharalaya, near the northern shore of Tonle Sap, Southeast Asia's largest freshwater lake. From there, his dynasty would rule for over six centuries. Each king aimed to outbuild his predecessor, and the landscape filled with temples, reservoirs, and causeways. The result was not merely a capital but an engineered landscape spanning hundreds of square kilometers.
+
+## Gods in Stone, Water in Channels
+
+The Khmer kings styled themselves devarajas -- god-kings whose authority was inseparable from the Hindu cosmos. Every major temple was a model of Mount Meru, home of the gods, its towers representing sacred peaks, its moats the cosmic ocean. Vishnu and Shiva received the grandest shrines; Brahmin priests performed royal ceremonies. But the empire's true genius was hydraulic, not theological. The Khmer built an intricate system of reservoirs called barays and distribution canals that captured monsoon rainfall and released it gradually during dry months to irrigate rice paddies. The East Baray stretched over seven kilometers. The West Baray, even larger, held enough water to sustain the capital through seasons of drought. This mastery of water fed the population that built the temples, and the temples glorified the kings who commanded the water. Faith and engineering reinforced each other in a single system.
+
+## Suryavarman's Ambition, Jayavarman's Legacy
+
+Two kings bookend the empire's golden age. Suryavarman II, who seized the throne around 1113 after killing a rival prince on the back of a war elephant, built Angkor Wat -- the largest religious monument ever constructed. He waged war against the Cham and the Dai Viet, extending Khmer influence across mainland Southeast Asia. After his death around 1150, the empire fractured. In 1177, Cham forces launched a devastating naval invasion across Tonle Sap, sacking the capital and killing the king. From the wreckage, Jayavarman VII drove out the invaders and unified the empire one final time. He built the walled city of Angkor Thom with the Bayon temple at its heart -- 216 giant stone faces gazing in every direction. A Mahayana Buddhist rather than a Hindu, he shifted the empire's spiritual orientation and built hospitals and rest houses across his domain. No king after him would build on such a scale.
+
+## The Unraveling
+
+The decline was not sudden but compounding. Jayavarman VII's massive building campaigns may have exhausted both labor and resources. The conversion from Hinduism to Theravada Buddhism, introduced from Sri Lanka in the 13th century, eroded the concept of divine kingship that had justified the state's coercive power. Meanwhile, the Ayutthaya Kingdom consolidated to the west and launched repeated invasions. The Chinese envoy Zhou Daguan, visiting in 1296, noted that recent wars had devastated the countryside and that the entire population had been pressed into service. Scientific research has added another factor: tree-ring data reveals that severe droughts in the 14th and 15th centuries, alternating with heavy flooding, overwhelmed the hydraulic infrastructure. Canals silted up. Reservoirs could not buffer the extremes. In 1431, Ayutthaya forces sacked Angkor, and the population scattered south toward what would become Phnom Penh.
+
+## Echoes Across the Plain
+
+What the Khmer Empire left behind is staggering in scale. Over a thousand temple sites have been identified across the Angkor region. NASA radar imaging revealed a canal and reservoir network covering an area larger than modern Los Angeles. The empire's cultural influence persists across Southeast Asia -- in Thai art, in Lao temple forms, in the Cambodian language itself, where the word for city, nokor, derives from the Sanskrit nagara. The temples endured because one never fell entirely silent: Angkor Wat remained an active Buddhist shrine even after the empire collapsed, maintained by monks while the jungle consumed everything around it. Today, the Khmer Empire's greatest monuments draw millions of visitors. The faces of the Bayon still gaze outward, half-smiling, as if they know something about permanence that the rest of us have yet to learn.
+
+## Flight Context
+
+The Khmer Empire was centered at 13.43°N, 103.83°E in present-day Siem Reap Province, Cambodia, though its territory stretched across much of mainland Southeast Asia. The archaeological remains cover over 1,000 square kilometers of forested terrain north of Tonle Sap lake. Key landmarks visible from altitude include the West Baray (8km x 2km rectangular reservoir), Angkor Wat's moat complex, and the walled square of Angkor Thom. Siem Reap-Angkor International Airport (VDSR/REP) provides access. Tonle Sap, the great lake that sustained the empire, stretches south as the largest body of fresh water in Southeast Asia -- its seasonal flooding visible as dramatic changes in shoreline.
+
+## Sources
+
+- [Khmer Empire - Wikipedia](https://en.wikipedia.org/?curid=222431)
+  - Jayavarman II founding ceremony 802 AD on Mahendraparvata (Phnom Kulen) confirmed
+  - Suryavarman II seized throne around 1113, killed rival on war elephant confirmed
+  - Angkor Wat is largest religious monument ever constructed confirmed
+  - Suryavarman II death around 1150 confirmed
+  - Cham naval invasion 1177, sacked capital confirmed
+  - Jayavarman VII drove out Cham, assumed throne 1181 confirmed
+  - Bayon: 216 giant stone faces on towers confirmed
+  - Theravada Buddhism introduced from Sri Lanka in 13th century confirmed
+  - Zhou Daguan visited 1296 confirmed
+  - Ayutthaya sacked Angkor in 1431 confirmed
+  - Canal network larger than Los Angeles (NASA imaging) confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 14 facts verified · 0 corrections
+
+Verified: 802 AD founding ceremony, Suryavarman II throne ~1113 and death ~1150, Angkor Wat largest monument, Cham invasion 1177, Jayavarman VII 1181 throne, 216 Bayon faces, Theravada Buddhism from Sri Lanka 13th c, Zhou Daguan 1296, Ayutthaya 1431, NASA canal network finding. No errors. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 850*
+*Read time: 5 minutes*

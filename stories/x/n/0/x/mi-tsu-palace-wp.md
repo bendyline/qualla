@@ -1,0 +1,59 @@
+# Omi Otsu Palace: The Five-Year Capital That Changed Japan Forever
+
+For just five years, an imperial palace on the shore of Lake Biwa served as the capital of Japan -- long enough to produce the legal code that shaped the nation, and short enough to vanish so completely that archaeologists spent centuries searching for it.
+
+**Location:** 35.0283, 135.8550
+
+**Categories:** historic-site, archaeology, japan, imperial-palace, ancient-capital
+
+## Introduction
+
+Thirteen holes in the ground changed everything historians thought they knew about seventh-century Japan. In 1974, construction crews in the Nishikiori neighborhood of Otsu were preparing foundations for a new residential area when archaeologists intervened for a rescue excavation. What they found -- thirteen pillar holes arranged in the pattern of a monumental south-facing gate -- finally pinpointed the location of a palace that had been lost for over a thousand years. The Omi Otsu Palace had served as the capital of Japan from 667 to 672 AD, a turbulent five-year window during which Emperor Tenchi rewrote the rules of governance, provoked riots in the old capital, and set in motion a succession crisis that would end in civil war and the palace's own destruction.
+
+## A Defeat That Built a Capital
+
+The palace exists because Japan lost a war. In 660 AD, the Korean kingdom of Baekje -- a close ally of the Yamato court -- fell to a coalition of Silla and Tang dynasty China. Crown Prince Naka no Oe, the future Emperor Tenchi, sent an expeditionary force to restore Baekje, but it was crushed at the Battle of Baekgang in 663 AD. The defeat ended Japanese involvement on the Korean Peninsula for centuries and left the court terrified of a counter-invasion. Mountain-top fortresses went up across western Japan. Then Emperor Tenchi made a more radical decision: he abandoned the old capital at Asuka entirely and moved the seat of imperial power to the shore of Lake Biwa in Omi Province. The location offered strategic advantages -- access to the Sea of Japan coast, position on the Tosando and Hokurikudo highways -- and political freedom. In Asuka, entrenched factions resisted reform. On the lakeshore, Tenchi could build something new. The people of Asuka responded with riots and arson.
+
+## The Laws That Outlasted the Walls
+
+What Emperor Tenchi accomplished during those five years at Otsu proved more durable than the palace itself. It was here that the Omi Code was promulgated -- one of Japan's earliest comprehensive legal frameworks -- along with a family registry system that organized the population for taxation and governance. These reforms laid the groundwork for the ritsuryō system, the Chinese-influenced legal and bureaucratic structure that would define the Japanese state for centuries. Tenchi was not just relocating a court; he was remaking a government. The urgency born of military defeat drove him to centralize authority and modernize administration at a pace that the old Asuka establishment found threatening. The palace on Lake Biwa became the laboratory for a new kind of Japanese governance, one that would persist in various forms long after the building itself had been reduced to postholes and pottery fragments.
+
+## A Throne Contested, a Palace in Flames
+
+Emperor Tenchi died in 671, leaving behind a succession dispute that would tear his legacy apart. He had initially designated his brother, Prince Oama, as heir, but changed his mind in favor of his son, Prince Otomo. Prince Otomo took the throne but held it for less than a year. Prince Oama raised an army and marched on the capital in what became known as the Jinshin War -- one of the most consequential civil conflicts in Japanese history. The war ended with Prince Otomo's death and the Otsu Palace in flames. Prince Oama became Emperor Tenmu and moved the capital back to Asuka, as if the five years at Lake Biwa had been an interruption to be erased. The palace, built without roof tiles and intended perhaps as a temporary seat of power, left almost no physical trace. Over the following centuries, even its precise location was forgotten.
+
+## Rediscovering the Lost Capital
+
+The search for the Otsu Palace became something of a national obsession, particularly during the nationalism of the late Meiji and Taisho periods. Theories multiplied whenever ruins were found in the general area -- the site of Sufuku-ji temple, the Minamishigacho temple ruins, and numerous other candidates were all proposed and debated. The breakthrough came in 1974 with the rescue excavation in Nishikiori. Subsequent digs revealed Sue and Haji ware pottery, a double corridor extending from the south gate to a large main hall, and remnants of moats and earthen ramparts. The layout resembled the nearly contemporary Naniwa Palace discovered in Osaka. The total site is estimated at 700 meters north-to-south by 400 meters east-to-west. Japan designated it a National Historic Site in 1979 and expanded the protected area in 2007. Today the ruins are preserved as an archaeological park in the western part of Otsu, a short walk from Omijingumae Station on the Keihan Electric Railway.
+
+## Flight Context
+
+Located at 35.03°N, 135.86°E in the western part of Otsu city, on the southwestern shore of Lake Biwa. From altitude, the archaeological park appears as a green open space within the urban fabric of Otsu. Lake Biwa stretches dramatically to the northeast. The site sits between the lakeshore and the mountains to the west. Best viewed at 2,000-4,000 feet AGL. Nearest airports: Kansai International Airport (RJBB) approximately 65 nm southwest, Osaka Itami Airport (RJOO) approximately 35 nm southwest. Lake Biwa's distinctive shape serves as the primary visual landmark for orientation.
+
+## Sources
+
+- [Ōmi Ōtsu Palace - Wikipedia](https://en.wikipedia.org/?curid=69194199)
+- [Jinshin War - Wikipedia](https://en.wikipedia.org/wiki/Jinshin_War)
+  - Prince Oama raised army against Prince Otomo
+  - Prince Otomo died, palace burned
+  - Prince Oama became Emperor Tenmu
+- [Remains of Otsu-kyo - Encyclopedia of Biwako Otsu History](https://rekishihyakka.jp/en/culturalheritages/128-2/)
+  - Capital from 667 to 672 AD
+  - National Historic Site designation 1979, expanded 2007
+  - 1974 rescue excavation discovered pillar holes
+- [Battle of Baekgang - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Baekgang)
+  - Battle of Baekgang in 663 AD
+  - Defeat ended Japanese involvement in Korean Peninsula
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 8 facts verified · 0 corrections
+
+Article already contained sources and editorial from prior review. Capital 667-672 AD confirmed, 1974 rescue excavation confirmed, Battle of Baekgang 663 AD confirmed, Jinshin War facts confirmed, National Historic Site 1979 confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 770*
+*Read time: 4 minutes*

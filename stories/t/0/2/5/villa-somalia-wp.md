@@ -1,0 +1,63 @@
+# Villa Somalia
+
+The Art Deco presidential palace in Mogadishu, built by Italian colonial authorities in 1936, that has served as the seat of power for every faction that has controlled Somalia's capital.
+
+**Location:** 2.0397, 45.3347
+
+**Categories:** presidential palaces, colonial architecture, Art Deco, government buildings, Mogadishu
+
+## Introduction
+
+Every force that has held Mogadishu has held Villa Somalia. Built by Italian colonial authorities and inaugurated in October 1936 as the Villa del Vicere, the Art Deco palace on high ground above the Indian Ocean was designed as a residence for colonial governors. After independence in 1960, it became the presidential palace of the Somali Republic. When the civil war shattered central authority in 1991, warlords fought over it. The Islamic Courts Union seized it in 2006. Ethiopian troops escorted a transitional president back to it in 2007. Today, after a comprehensive renovation completed in 2025, it serves as the office of President Hassan Sheikh Mohamud. The building's history is Somalia's history, compressed into a single compound.
+
+## Colonial Modernism on the Heights
+
+The Italians built Villa Somalia in the new section of Mogadishu they were developing in the late 1930s. It sat on elevated ground overlooking the city and the Indian Ocean, with access to both the harbor and Petrella airport, now known as Aden Adde International. The original structure was a large, squarish stucco building with a tiled roof, designed in the Art Deco style that was fashionable in Italian colonial architecture of the period. Contemporary accounts described it as a symbol of modernist ambition, though it was modernism in the service of empire. The Italians had built the building to house their governors; the Somalis who gained independence in 1960 repurposed it as their presidential palace without fundamentally altering its form. Architecture outlasts the intentions of its builders.
+
+## A Palace Held by Warlords
+
+In the chaos that followed the collapse of Siad Barre's government in 1991, Villa Somalia became a prize. By the early 2000s, it was under the control of Hussein Farah Aidid, son of the warlord Mohamed Farrah Aidid and himself a powerful figure in the Somali National Alliance. Aidid used the compound as a base to attack the newly formed Transitional National Government. In June 2003, an internal dispute among his forces led to the discharge of a heavy weapon on the Villa's grounds, producing one of the largest explosions in the capital since the civil war began. The presidential palace had become a military position, its symbolic authority reduced to the practical advantage of its high ground and thick walls.
+
+## Three Flags in Two Years
+
+The summer of 2006 brought rapid changes. When the Islamic Courts Union defeated the Alliance for the Restoration of Peace and Counter-Terrorism, Villa Somalia was one of the last warlord holdouts in the city, held by militia loyal to Hussein Aidid. The ICU eventually seized it and established their headquarters inside. Their control lasted months, not years. In January 2007, following Ethiopia's military intervention, Transitional Federal Government president Abdullahi Yusuf arrived at Mogadishu airport and was escorted by Ethiopian troops to Villa Somalia. The TFG relocated its seat of government from Baidoa to the capital. The Ethiopian embassy soon set up within the Villa Somalia compound itself, and Ethiopian Colonel Gabre Heard directed military operations against insurgent groups from inside the presidential palace. Three different authorities in roughly two years, each inheriting the same building and the same unresolved question of who truly governed.
+
+## Renovation and Revival
+
+Under President Hassan Sheikh Mohamud, Villa Somalia underwent its most significant transformation since the colonial era. The compound was comprehensively renovated and reconstructed, with new buildings added to the original complex. On October 1, 2025, the modernized presidential complex was reopened. The renovation represented something more than new offices and facilities. For a country where the seat of government had been a battlefield, a weapons depot, and a foreign military base within living memory, the act of rebuilding the presidential palace was itself a statement about the possibility of stable governance. Villa Somalia remains what it has always been: a barometer of who holds power in Mogadishu, expressed in stucco and tile on the highest ground in the city.
+
+## Flight Context
+
+Located at 2.040N, 45.335E on elevated terrain in Mogadishu. The compound is visible from altitude as a cluster of buildings on a prominent hill overlooking the city and ocean. Aden Abdulle International Airport (HCMM) is approximately 5 km to the south-southwest. The building's hilltop position and compound walls make it one of the more identifiable government structures from the air. The Indian Ocean coastline to the east provides orientation.
+
+## Sources
+
+- [Villa Somalia - Wikipedia](https://en.wikipedia.org/?curid=8837069)
+  - Inaugurated October 1936 as Villa del Viceré — confirmed (article spells it 'Villa del Vicere', which is the anglicized version)
+  - Built in Art Deco style — confirmed
+  - Became presidential palace after independence in 1960 — confirmed
+  - Hussein Farah Aidid controlled compound in early 2000s — confirmed
+  - Islamic Courts Union seized Villa Somalia in 2006 — confirmed
+  - Transitional Federal Government relocated from Baidoa in January 2007 — confirmed
+  - Ethiopian embassy set up within Villa Somalia compound — confirmed
+  - Renovation completed October 1, 2025 under President Hassan Sheikh Mohamud — confirmed
+- [Villa Somalia upgraded with new offices and modern facilities - Halqabsi News](https://halqabsi.com/2025/10/somali-presidency-upgraded-with-new-offices-and-modern-facilities/)
+  - Renovation and reopening October 1, 2025 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 8 facts verified · 0 corrections
+
+Inaugurated October 1936 as Villa del Viceré confirmed. Art Deco style confirmed. Became presidential palace 1960 confirmed. Hussein Farah Aidid control early 2000s confirmed. ICU seized 2006 confirmed. TFG moved from Baidoa January 2007 confirmed. Ethiopian embassy set up inside compound confirmed. Renovation reopened October 1 2025 confirmed. No factual errors. Spiciness 2.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Opening framing: 'Every force that has held Mogadishu has held Villa Somalia'
+- Architecture described as 'modernism in the service of empire'
+
+---
+
+*Word count: 720*
+*Read time: 4 minutes*

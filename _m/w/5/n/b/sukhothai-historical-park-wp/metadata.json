@@ -1332,5 +1332,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w5nb-sukhothai-historical-park-flight-context.mp3",
+      "w5nb-sukhothai-historical-park-intro.mp3",
+      "w5nb-sukhothai-historical-park-a-kingdom-born-from-rebellion.mp3",
+      "w5nb-sukhothai-historical-park-the-lotus-bud-stupas.mp3",
+      "w5nb-sukhothai-historical-park-ramkhamhaengs-mark-on-stone.mp3",
+      "w5nb-sukhothai-historical-park-abandonment-and-rediscovery.mp3",
+      "w5nb-sukhothai-historical-park-giants-in-stone-and-shadow.mp3"
+    ],
+    "durations": {
+      "w5nb-sukhothai-historical-park-flight-context.mp3": 42.4775833,
+      "w5nb-sukhothai-historical-park-intro.mp3": 37.2095833,
+      "w5nb-sukhothai-historical-park-a-kingdom-born-from-rebellion.mp3": 57.0492916,
+      "w5nb-sukhothai-historical-park-the-lotus-bud-stupas.mp3": 71.1559166,
+      "w5nb-sukhothai-historical-park-ramkhamhaengs-mark-on-stone.mp3": 57.2236666,
+      "w5nb-sukhothai-historical-park-abandonment-and-rediscovery.mp3": 56.495875,
+      "w5nb-sukhothai-historical-park-giants-in-stone-and-shadow.mp3": 70.8802916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1,0 +1,85 @@
+# San Jacinto Battleground State Historic Site
+
+Where eighteen minutes of furious combat in 1836 created the Republic of Texas, now marked by the world's tallest memorial column and the last surviving dreadnought battleship.
+
+**Location:** 29.7489, -95.0803
+
+**Categories:** battlefields, monuments, Texas history, state parks, National Historic Landmarks
+
+## Introduction
+
+It took eighteen minutes. On the afternoon of April 21, 1836, General Sam Houston's ragged army of 910 Texans charged across an open prairie near Buffalo Bayou, screaming "Remember the Alamo! Remember Goliad!" By the time the gun smoke cleared, more than 630 Mexican soldiers lay dead, 730 were prisoners, and General Antonio Lopez de Santa Anna's siesta had become the most catastrophic nap in military history. Houston himself took a musket ball to the ankle, accepting Santa Anna's surrender while propped on a blanket beneath a live oak tree. That muddy stretch of coastal grassland along the Houston Ship Channel became the birthplace of an independent Texas, and today a 567-foot monument of concrete, steel, and Texas limestone stands sentinel over the ground where a nation was won.
+
+## The Column That Dwarfs Washington
+
+The San Jacinto Monument rises 567.31 feet from the coastal plain, making it the tallest memorial column in the world, surpassing even the Washington Monument by more than twelve feet and the Juche Tower in North Korea by nearly ten. Constructed between 1936 and 1939 to mark the centennial of the battle, it is crowned by a 220-ton star symbolizing the Lone Star Republic. Visitors ride an elevator to the observation deck, where the panorama stretches from the tanker-choked Houston Ship Channel to the skyscrapers of downtown Houston sixteen miles to the west. Inside the base, the San Jacinto Museum traces Texan culture from Mayan and Spanish roots through the revolution and the Republic, while the 160-seat Jesse H. Jones Theatre screens a film on the battle. The monument's scale matches the outsized mythology Texans attach to San Jacinto, the place where their state's identity was forged in a single explosive afternoon.
+
+## From Ten Acres to Texas' First State Park
+
+Preserving the battleground began in the 1880s, when the State of Texas purchased ten acres along Buffalo Bayou ahead of the revolution's fiftieth anniversary. The Daughters of the Republic of Texas lobbied the legislature for more, and in 1897 Senator Waller Thomas Burns of Houston secured $10,000 to establish a public park. That money bought an additional 336 acres of battlefield land. By 1907, another $25,000 in state appropriations went to improvements, and the site was officially designated San Jacinto State Park, making it the first state park in Texas. The park saw further upgrades before Houston hosted the 1928 Democratic National Convention, cementing its place as a civic landmark. What started as a modest ten-acre memorial purchase grew into one of the most significant historical preserves in the American South.
+
+## The Last Dreadnought Comes Home
+
+Anchored near the monument for decades was the USS Texas (BB-35), the last surviving dreadnought battleship in the world. Launched in 1912 and commissioned in 1914, the Texas served in both World Wars, shelling the beaches at Normandy on D-Day and earning five battle stars in the Pacific. In 1948, the Texas Legislature established the Battleship Texas Commission, and after a $225,000 journey from Baltimore, the ship arrived at San Jacinto on April 20, 1948, one day before the anniversary of the battle. She was turned over to the State of Texas on April 21, becoming the first battleship memorial museum in the nation and the commissioned flagship of the Texas Navy. The battleship has since moved to Galveston for a major $60 million restoration, but her long tenure at San Jacinto added a twentieth-century layer of military heritage to an already hallowed site.
+
+## Ground That Keeps Sinking
+
+The battleground faces an enemy no monument can defeat: the earth itself. Underground water extraction has triggered severe land subsidence along the Galveston Bay shoreline, particularly in the Baytown-Pasadena corridor. Since the early twentieth century, portions of the original battlefield have slipped beneath the bay, slowly erasing the very terrain where Houston's soldiers charged. Seawall repairs funded by a $2.6 million U.S. Fish and Wildlife Service grant have shored up some of the erosion, but the landscape that visitors walk today is measurably smaller than the one the Texan army crossed in 1836. It is a sobering reminder that even sacred ground is subject to geology, and that the effort to preserve history here is as much about engineering as memory.
+
+## Flight Context
+
+Located at 29.749N, 95.080W along the Houston Ship Channel in Harris County. The 567-foot San Jacinto Monument is unmistakable from the air. Best viewed at 2,000-3,000 feet AGL. Nearby airports: KHPY (Baytown), KDWH (David Wayne Hooks Memorial), KHOU (William P. Hobby). The Houston Ship Channel and Galveston Bay provide strong visual references for navigation.
+
+## Sources
+
+- [San Jacinto Battleground State Historic Site - Wikipedia](https://en.wikipedia.org/?curid=13023061)
+- [Wikipedia - San Jacinto Monument](https://en.wikipedia.org/wiki/San_Jacinto_Monument)
+  - Monument height 567.31 feet confirmed
+  - Tallest memorial column in world confirmed
+  - Surpasses Washington Monument by 12.698 feet confirmed
+  - Surpasses Juche Tower by 9.6 feet confirmed
+  - Constructed 1936-1939 confirmed
+  - 220-ton Lone Star confirmed
+- [Wikipedia - Battle of San Jacinto](https://en.wikipedia.org/wiki/Battle_of_San_Jacinto)
+  - April 21 1836 date confirmed
+  - 18 minutes of combat confirmed
+  - 910 Texans confirmed
+  - 630 Mexican dead and 730 prisoners confirmed
+  - Sam Houston ankle wound confirmed
+  - Santa Anna surrender under live oak confirmed
+- [Wikipedia - USS Texas (BB-35)](https://en.wikipedia.org/wiki/USS_Texas_(BB-35))
+  - Launched 1912 and commissioned 1914 confirmed
+  - Last surviving dreadnought confirmed
+  - Five battle stars in WWII confirmed
+  - Normandy D-Day shelling confirmed
+  - 25,000 tow from Baltimore confirmed
+  - Arrived April 20 1948 confirmed
+  - First battleship memorial museum confirmed
+  - Flagship of Texas Navy confirmed as ceremonial
+- [TSHA - San Jacinto Battleground State Historical Park](https://www.tshaonline.org/handbook/entries/san-jacinto-battleground-state-historical-park)
+  - Ten acres purchased in 1880s confirmed
+  - Senator Waller Thomas Burns 0,000 in 1897 confirmed
+  - 5,000 in 1907 confirmed
+  - First state park in Texas confirmed
+  - 1928 Democratic National Convention in Houston confirmed
+- [Battleship Texas Foundation - restoration updates](https://battleshiptexas.org/)
+  - Restoration cost originally 0M now expanded to 5M
+  - Ship moved to Galveston for restoration confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-07 · 27 facts verified · 0 corrections
+
+All key facts verified: battle details (date, casualties, 18 min duration), monument height 567.31 ft, tallest memorial column, USS Texas history and dates, state park history, land subsidence. Restoration cost noted as 0M (originally announced) though now expanded to 5M. Spiciness 2 - mild editorial color.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Santa Anna's siesta called 'the most catastrophic nap in military history'
+- Monument scale described as matching 'outsized mythology Texans attach to San Jacinto'
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

@@ -205,5 +205,24 @@
     "_m/u/s/2/m/operation-tungsten-wp/commonwealth-war-graves-graves.jpg",
     "_m/u/s/2/m/operation-tungsten-wp/commonwealth-war-graves-graves-1.jpg"
   ],
-  "updatedAt": "2026-04-01T07:21:43.795Z"
+  "updatedAt": "2026-04-01T07:21:43.795Z",
+  "narration": {
+    "files": [
+      "us2m-operation-tungsten-flight-context.mp3",
+      "us2m-operation-tungsten-intro.mp3",
+      "us2m-operation-tungsten-a-battleship-holding-the-allies-hostage.mp3",
+      "us2m-operation-tungsten-four-months-of-rehearsal.mp3",
+      "us2m-operation-tungsten-surprise-at-dawn.mp3",
+      "us2m-operation-tungsten-wounded-but-not-killed.mp3"
+    ],
+    "durations": {
+      "us2m-operation-tungsten-flight-context.mp3": 44.4217083,
+      "us2m-operation-tungsten-intro.mp3": 39.7224583,
+      "us2m-operation-tungsten-a-battleship-holding-the-allies-hostage.mp3": 72.081,
+      "us2m-operation-tungsten-four-months-of-rehearsal.mp3": 71.199125,
+      "us2m-operation-tungsten-surprise-at-dawn.mp3": 67.8681666,
+      "us2m-operation-tungsten-wounded-but-not-killed.mp3": 78.8914583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -758,5 +758,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr5r-gowanus-canal-flight-context.mp3",
+      "dr5r-gowanus-canal-intro.mp3",
+      "dr5r-gowanus-canal-oysters-and-the-dutch.mp3",
+      "dr5r-gowanus-canal-one-hundred-ships-a-day.mp3",
+      "dr5r-gowanus-canal-lavender-lake.mp3",
+      "dr5r-gowanus-canal-superfund-and-sludgy.mp3",
+      "dr5r-gowanus-canal-what-grows-in-lavender-lake.mp3"
+    ],
+    "durations": {
+      "dr5r-gowanus-canal-flight-context.mp3": 48.429625,
+      "dr5r-gowanus-canal-intro.mp3": 59.0415833,
+      "dr5r-gowanus-canal-oysters-and-the-dutch.mp3": 80.4172916,
+      "dr5r-gowanus-canal-one-hundred-ships-a-day.mp3": 65.6552083,
+      "dr5r-gowanus-canal-lavender-lake.mp3": 74.2893333,
+      "dr5r-gowanus-canal-superfund-and-sludgy.mp3": 84.1796666,
+      "dr5r-gowanus-canal-what-grows-in-lavender-lake.mp3": 87.1364583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

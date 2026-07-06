@@ -379,5 +379,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr4z-nathan-cooper-gristmill-flight-context.mp3",
+      "dr4z-nathan-cooper-gristmill-intro.mp3",
+      "dr4z-nathan-cooper-gristmill-oliver-evans-on-the-black-river.mp3",
+      "dr4z-nathan-cooper-gristmill-milltowns-main-street.mp3",
+      "dr4z-nathan-cooper-gristmill-the-wheels-stop-turning.mp3",
+      "dr4z-nathan-cooper-gristmill-stone-and-water.mp3"
+    ],
+    "durations": {
+      "dr4z-nathan-cooper-gristmill-flight-context.mp3": 49.8305416,
+      "dr4z-nathan-cooper-gristmill-intro.mp3": 50.9699166,
+      "dr4z-nathan-cooper-gristmill-oliver-evans-on-the-black-river.mp3": 52.1475833,
+      "dr4z-nathan-cooper-gristmill-milltowns-main-street.mp3": 54.6125833,
+      "dr4z-nathan-cooper-gristmill-the-wheels-stop-turning.mp3": 58.0962916,
+      "dr4z-nathan-cooper-gristmill-stone-and-water.mp3": 52.33275
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

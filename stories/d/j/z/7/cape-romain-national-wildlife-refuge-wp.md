@@ -1,0 +1,68 @@
+# Cape Romain National Wildlife Refuge
+
+A 66,000-acre wilderness of barrier islands, salt marsh, and tidal creeks north of Charleston, Cape Romain shelters loggerhead sea turtles, red wolf reintroduction experiments, and a boneyard beach where the forest surrenders to the sea.
+
+**Location:** 32.9925, -79.5639
+
+**Categories:** wildlife-refuge, barrier-islands, coastal, charleston, south-carolina, wilderness
+
+## Introduction
+
+The trees died standing up. On the northern shore of Bull Island, the Atlantic has been creeping inland for decades, drowning a maritime forest one root system at a time. What remains is Boneyard Beach -- a stretch of pale sand littered with the bleached, sculptural skeletons of oaks and pines, their bare limbs twisted against the sky like driftwood monuments. It is one of the most photographed landscapes on the South Carolina coast, and it exists because of a simple, relentless fact: the barrier islands of Cape Romain National Wildlife Refuge are moving. The sea is rising, the land is shifting, and 66,287 acres of salt marsh, tidal creek, and island wilderness are engaged in the slow, ongoing negotiation between ocean and shore that has defined this coast for millennia.
+
+## Barrier Islands and Tidal Creeks
+
+Cape Romain National Wildlife Refuge stretches along the South Carolina coast northeast of Charleston, near the small community of Awendaw. Established in 1932 as a haven for migratory birds, the refuge encompasses a sprawling mosaic of water impoundments, creeks, bays, emergent salt marsh, and barrier islands. Most of this landscape is accessible only by boat -- the Intracoastal Waterway threads past the refuge, and the mainland facilities are limited to a headquarters and visitor center on U.S. Highway 17, about thirty minutes from Charleston. Much of the refuge holds federal wilderness designation, meaning it is managed to remain as close to its natural state as possible. From the air, the landscape reads as a pattern of greens, browns, and silvers -- marsh grass, tidal mud, and the glint of water in a thousand winding channels.
+
+## The Return of the Red Wolf
+
+In December 1976, two red wolves stepped onto the sand of Bulls Island. They were among the most endangered canids on Earth, and this was an experiment -- the first attempt to test and refine methods for reintroducing a nearly extinct predator to the wild. The mated pair was monitored day and night with remote telemetry for eleven days before being recaptured. A second translocation followed in 1978 with a different pair, allowed to roam the island for close to nine months. These were not meant to establish a permanent population; they were dress rehearsals for the larger recovery program that would eventually establish red wolves in the Alligator River National Wildlife Refuge in North Carolina. But Bulls Island proved the concept. The wolves could survive, hunt, and navigate a barrier island ecosystem. Cape Romain played a quiet, pivotal role in pulling one of North America's rarest predators back from the edge of extinction.
+
+## Loggerheads by Moonlight
+
+Every summer, loggerhead sea turtles haul themselves onto three of the refuge's barrier islands to nest. Cape Romain supports approximately 23 percent of the northern subpopulation of loggerhead sea turtles -- the largest nesting concentration north of Florida. For more than thirty years, refuge staff have patrolled these beaches during nesting season, identifying nests in areas vulnerable to overwash and tidal inundation, and carefully relocating them to higher ground. The work is painstaking and seasonal, timed to the rhythms of turtle biology and Atlantic weather. A single loggerhead female may lay over a hundred eggs in a nest, then return to the sea, leaving her offspring to incubate in the sand for roughly sixty days. The refuge's protection of these nesting sites is critical -- loggerhead sea turtles are listed as a threatened species under the Endangered Species Act, and every successfully hatched clutch matters. Wood storks and piping plovers, both federally protected, also depend on the refuge.
+
+## Two Lighthouses and a Lost Third
+
+On Lighthouse Island, two historic lighthouses still stand within the refuge, both listed on the National Register of Historic Places. The Cape Romain Lighthouses have guided mariners along this stretch of coast for generations, marking the shoals and shifting sandbars that make the waters off the barrier islands treacherous. Bull Island once had a third lighthouse -- Bulls Bay Light, deactivated in 1913. It is gone now, claimed by the sea that it was built to warn sailors about. The loss of that third lighthouse is a reminder of the impermanence built into this coastline. Barrier islands migrate, inlets open and close, and the structures humans place on these shifting sands are temporary at best. The two surviving lighthouses endure for now, their towers visible from the water and from the air, landmarks in a landscape that refuses to hold still.
+
+## The Sewee Legacy
+
+The Sewee Visitor and Environmental Education Center, jointly operated by the U.S. Fish and Wildlife Service and the U.S. Forest Service, sits on the mainland and serves as the gateway to both Cape Romain and the neighboring Francis Marion National Forest. The center's exhibits cover the marine and terrestrial ecosystems of the South Carolina Lowcountry, offering a grounding in the natural history of a coast that European settlers found already richly inhabited. The SEWEE Association -- the refuge's friends group -- supports education and conservation programs that connect visitors to a landscape most will only ever see from the deck of a boat or the window of a low-flying aircraft. Cape Romain is not an easy place to visit, and that is partly the point. Its wildness is its value, and the difficulty of access is what has kept sixty-six thousand acres of salt marsh and barrier island looking much as it did when the first lighthouse keeper trimmed his wick and watched the Atlantic roll in.
+
+## Flight Context
+
+Located at 33.00°N, 79.56°W along the South Carolina coast northeast of Charleston, near Awendaw. From the air, the refuge appears as a vast mosaic of barrier islands, salt marsh, and tidal creeks stretching along the coast. Bull Island is the largest barrier island and is easily identifiable. Look for the two historic lighthouses on Lighthouse Island and the Boneyard Beach on Bull Island's north shore. The Intracoastal Waterway runs along the western edge of the refuge. Charleston International Airport (KCHS) is approximately 25 miles to the southwest. Best viewed at 1,500-3,000 feet AGL to appreciate the scale of the marsh-island complex and the intricate patterns of tidal channels.
+
+## Sources
+
+- [Cape Romain National Wildlife Refuge - Wikipedia](https://en.wikipedia.org/?curid=15023644)
+  - 66,287 acres confirmed
+  - Established 1932 as migratory bird haven confirmed
+  - Red wolf release Dec 1976 on Bulls Island, 11 days telemetry confirmed
+  - Second translocation 1978 different pair, close to nine months confirmed
+  - Alligator River NWR in North Carolina as larger reintroduction site confirmed
+  - 23% of northern subpopulation of loggerhead sea turtles confirmed from Wikipedia source
+  - Largest nesting concentration north of Florida confirmed
+- [Wikipedia - Cape Romain Lighthouses](https://en.wikipedia.org/wiki/Cape_Romain_Lighthouses)
+  - Two lighthouses on Lighthouse Island listed on National Register of Historic Places confirmed
+  - Lighthouses built 1827 and 1857 confirmed
+- [Wikipedia - Bulls Bay Light](https://en.wikipedia.org/wiki/Bulls_Bay_Light)
+  - Bulls Bay Light deactivated in 1913 confirmed
+  - Third lighthouse lost to the sea confirmed
+- [U.S. Fish & Wildlife Service - Cape Romain NWR](https://www.fws.gov/refuge/cape-romain)
+  - Sewee Visitor Center jointly operated by FWS and USFS confirmed
+  - Refuge accessible primarily by boat confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-17 · 13 facts verified · 0 corrections
+
+All key facts verified: 66,287 acres, est. 1932, red wolf 1976/1978 experiments, 23% loggerhead subpopulation, two lighthouses NRHP, Bulls Bay Light 1913, Sewee Center joint FWS/USFS. Spiciness 2. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

@@ -678,5 +678,24 @@
     "_m/d/r/5/r/intrepid-museum-wp/antennas-radar-and-communicati.jpg",
     "_m/d/r/5/r/intrepid-museum-wp/a-uss-intrepid-cv-11.jpg"
   ],
-  "updatedAt": "2026-03-30T12:43:29.744Z"
+  "updatedAt": "2026-03-30T12:43:29.744Z",
+  "narration": {
+    "files": [
+      "dr5r-intrepid-museum-flight-context.mp3",
+      "dr5r-intrepid-museum-intro.mp3",
+      "dr5r-intrepid-museum-from-scrap-heap-to-pier-86.mp3",
+      "dr5r-intrepid-museum-a-ship-that-would-not-sink.mp3",
+      "dr5r-intrepid-museum-enterprise-and-concorde.mp3",
+      "dr5r-intrepid-museum-a-carrier-on-the-west-side.mp3"
+    ],
+    "durations": {
+      "dr5r-intrepid-museum-flight-context.mp3": 62.559,
+      "dr5r-intrepid-museum-intro.mp3": 53.3233333,
+      "dr5r-intrepid-museum-from-scrap-heap-to-pier-86.mp3": 63.5934166,
+      "dr5r-intrepid-museum-a-ship-that-would-not-sink.mp3": 60.1390833,
+      "dr5r-intrepid-museum-enterprise-and-concorde.mp3": 62.4915416,
+      "dr5r-intrepid-museum-a-carrier-on-the-west-side.mp3": 67.3695416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

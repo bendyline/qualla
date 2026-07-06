@@ -1,0 +1,70 @@
+# Tangier
+
+Where Africa meets Europe across the Strait of Gibraltar, where Beat writers found freedom and smugglers found opportunity, where Morocco meets the world.
+
+**Location:** 35.7673, -5.7998
+
+**Categories:** morocco, gibraltar, beat-writers, international-zone, medina, gateway
+
+## Introduction
+
+Tangier is the city between worlds. Morocco's port of 1 million sits exactly where the Mediterranean meets the Atlantic, with Europe visible just 14 kilometers across the strait. From 1923 to 1956, it served as an international zone where anything was legal and everything was possible, drawing writers, spies, and criminals who needed what no other city could offer. The Beat Generation made it famous. The medina still confuses visitors. In cafes where Paul Bowles once wrote, Tangier remains Morocco's door to the world and the world's door to Morocco.
+
+## The International Zone
+
+From 1923 to 1956, Tangier operated as international territory administered by multiple European powers. The usual rules simply did not apply here. Banking flourished because regulation barely existed. Espionage concentrated because every nation had agents in the city. And a culture of radical permissiveness took root because freedom, once planted, grows fast.
+
+When Morocco gained independence, the international zone ended. Its legacy, however, did not. Tangier still trades on that old reputation - the freedom, the intrigue, the sense of possibilities unavailable in more structured societies. What the zone created, the city remembers.
+
+## The Writers
+
+Beat writers discovered Tangier in the 1950s. William Burroughs wrote Naked Lunch here. Paul Bowles settled permanently, chronicling Morocco until his death in 1999. They came for the freedom of the international zone and stayed for the cheap living and the creative spark that difference provides. Through their work, Tangier became famous among audiences who would never visit.
+
+Cafe Hafa is where they gathered. Modest hotel rooms served as writing studios. Some of the writers never left - their graves dot the city. Today the literary heritage draws a particular kind of visitor, one searching for the ghosts of that era. The writers are gone, and the Tangier they found has changed. But literary tourism endures.
+
+## The Medina
+
+From the port, Tangier's medina climbs upward through the kasbah to viewpoints overlooking the strait. Its streets twist without logic, disorienting visitors almost by design. Shops sell what tourists want; the Grand Socco marks the boundary where old city meets new. Despite steady tourism, the medina has not been overwhelmed.
+
+Before the international zone existed, this was Tangier - the city Morocco built, with architecture shaped by function rather than spectacle. Navigating it is a challenge. Persisting through the confusion is the reward.
+
+## The Strait
+
+Everything strategic about Tangier comes down to the Strait of Gibraltar. Only 14 kilometers of water separate Africa from Europe here, and every ship passing between the Mediterranean and the Atlantic must transit this narrow funnel. Empires have fought to control it. Modern shipping still depends on it. Migrants attempt to cross it in boats that too often fail.
+
+On clear days, the Spanish coast is plainly visible. Ships pass constantly, tracing routes as old as maritime trade. This geography explains why Tangier matters - it is a gateway, and being a gateway is what made the city interesting in the first place.
+
+## The Modern City
+
+Beyond the medina, modern Tangier is spreading fast. Investment from both Morocco and abroad has funded new container ports, business districts, and beach resorts. The city is outgrowing its reputation.
+
+This expansion represents what Tangier is becoming: a place with the infrastructure the old city lacked, a Morocco looking forward rather than back. Visitors do not come for the modern development. But Tangier's future depends on it.
+
+## Flight Context
+
+Tangier (35.77N, 5.80W) sits at the northwestern tip of Morocco where the Mediterranean meets the Atlantic at the Strait of Gibraltar. Ibn Battouta Airport (GMTT/TNG) lies 9km south with one runway 10/28 (3,500m). Spain is only 14km away, clearly visible across the strait. Below, the medina and kasbah overlook the port, while the new Tangier Med port sits 40km to the east. Expect Mediterranean weather: mild wet winters and warm dry summers. Strong winds can funnel through the strait, and fog sometimes forms where Atlantic and Mediterranean air masses collide.
+
+## Sources
+
+- [Tangier - Wikipedia](https://en.wikipedia.org/wiki/Tangier)
+  - 1 million population
+  - international zone 1923-1956
+  - 14km from Spain
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 6 facts verified · 0 corrections
+
+Story overlay verified
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Where Beat writers found freedom and smugglers found opportunity
+- The international zone made Tangier what it became
+
+---
+
+*Word count: 1,000*
+*Read time: 5 minutes*

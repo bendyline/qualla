@@ -90,5 +90,24 @@
   ],
   "galleryPaths": [
     "_m/k/m/4/8/operation-protea-wp/brdm-2-1-tank-regiment.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "km48-operation-protea-flight-context.mp3",
+      "km48-operation-protea-intro.mp3",
+      "km48-operation-protea-the-logic-of-the-border-war.mp3",
+      "km48-operation-protea-canberras-over-cunene.mp3",
+      "km48-operation-protea-three-thousand-tons-of-war.mp3",
+      "km48-operation-protea-the-occupation-and-its-aftermath.mp3"
+    ],
+    "durations": {
+      "km48-operation-protea-flight-context.mp3": 50.9334166,
+      "km48-operation-protea-intro.mp3": 51.6954583,
+      "km48-operation-protea-the-logic-of-the-border-war.mp3": 70.721125,
+      "km48-operation-protea-canberras-over-cunene.mp3": 74.694875,
+      "km48-operation-protea-three-thousand-tons-of-war.mp3": 70.279625,
+      "km48-operation-protea-the-occupation-and-its-aftermath.mp3": 75.0854166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

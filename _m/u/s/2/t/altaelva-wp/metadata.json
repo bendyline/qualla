@@ -322,5 +322,24 @@
     "_m/u/s/2/t/altaelva-wp/johannes-rach-and-odvardt-helm.jpg",
     "_m/u/s/2/t/altaelva-wp/residential-of-stenfossholmen-.jpg"
   ],
-  "updatedAt": "2026-04-01T07:23:18.204Z"
+  "updatedAt": "2026-04-01T07:23:18.204Z",
+  "narration": {
+    "files": [
+      "us2t-altaelva-flight-context.mp3",
+      "us2t-altaelva-intro.mp3",
+      "us2t-altaelva-the-canyon-called-sautso.mp3",
+      "us2t-altaelva-the-river-of-salmon-kings.mp3",
+      "us2t-altaelva-the-dam-that-changed-norway.mp3",
+      "us2t-altaelva-a-thousand-chains-and-a-cruise-ship.mp3"
+    ],
+    "durations": {
+      "us2t-altaelva-flight-context.mp3": 35.9325416,
+      "us2t-altaelva-intro.mp3": 51.807375,
+      "us2t-altaelva-the-canyon-called-sautso.mp3": 52.6522083,
+      "us2t-altaelva-the-river-of-salmon-kings.mp3": 51.2034583,
+      "us2t-altaelva-the-dam-that-changed-norway.mp3": 50.5129166,
+      "us2t-altaelva-a-thousand-chains-and-a-cruise-ship.mp3": 60.3480833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

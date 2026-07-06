@@ -57,5 +57,22 @@
     "sourceGeohash4": "qtr3"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qtr3-kimberley-marine-park-flight-context.mp3",
+      "qtr3-kimberley-marine-park-intro.mp3",
+      "qtr3-kimberley-marine-park-the-scale-of-it.mp3",
+      "qtr3-kimberley-marine-park-what-lives-here.mp3",
+      "qtr3-kimberley-marine-park-whose-waters.mp3"
+    ],
+    "durations": {
+      "qtr3-kimberley-marine-park-flight-context.mp3": 49.2468333,
+      "qtr3-kimberley-marine-park-intro.mp3": 45.1292083,
+      "qtr3-kimberley-marine-park-the-scale-of-it.mp3": 67.2111666,
+      "qtr3-kimberley-marine-park-what-lives-here.mp3": 62.5389166,
+      "qtr3-kimberley-marine-park-whose-waters.mp3": 72.43175
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

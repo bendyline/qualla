@@ -1,0 +1,65 @@
+# Stuckey's Bridge
+
+A rusting iron truss bridge over the Chunky River near Meridian carries no traffic anymore -- just the legend of an innkeeper who murdered twenty guests and was hanged from its beams.
+
+**Location:** 32.2556, -88.8553
+
+**Categories:** bridge, haunted, history, landmark, folklore
+
+## Introduction
+
+Nobody crosses Stuckey's Bridge at night if they can help it. The old iron truss spans the Chunky River a few miles southwest of Meridian, Mississippi, carrying nothing now but rust and legend. According to local lore, a man named Stuckey once ran an inn on the riverbank where he robbed and murdered his guests, burying the bodies in the soft earth along the water's edge. After twenty victims, Stuckey was caught and hanged from the newly built bridge over the very river that had hidden his crimes. The bridge that stands today is not that original structure -- it was built in 1901 by the Virginia Bridge and Iron Company, replacing an earlier crossing that dates to around 1850 -- but the ghost stories cling to the iron as if they were riveted on.
+
+## The Inn at the River's Edge
+
+The legend of Stuckey's Bridge has been told in Lauderdale County for generations, though the line between fact and folklore dissolved long ago. The story goes that a man called Stuckey -- sometimes linked to the Dalton Gang, though no historical evidence supports that connection -- operated a roadside inn near the Chunky River crossing. Travelers passing through the Mississippi backcountry would stop for the night, and some of them never left. Stuckey allegedly robbed his guests, killed them, and disposed of the remains along the riverbank. The number that legend has settled on is twenty victims before the community caught up with him. According to the tale, Stuckey was hanged from the bridge that crossed the Chunky at the scene of his murders. Whether the man named Stuckey existed at all remains unverifiable, but the story has burrowed deep into the identity of this stretch of river. Lauderdale County archives confirm a contract to build a bridge at this location was written in 1847, and construction is estimated around 1850 -- placing the original crossing in the right era for the legend.
+
+## Iron and Rust
+
+The bridge standing today is not the one from the legend. In 1901, the Virginia Bridge and Iron Company erected the current iron through-truss structure to replace the earlier crossing. It served as the main route over the Chunky River for decades before modern road construction rendered it obsolete. The bridge was designated a Mississippi Landmark on August 4, 1984, and added to the National Register of Historic Places on November 16, 1988. Stripped of its function, the bridge now exists in that eerie middle ground between infrastructure and relic. The metal framework has oxidized to a deep reddish brown. The wooden deck planks, where they remain, show decades of weathering. Trees crowd in from both banks, and the Chunky River moves slowly beneath -- dark water over a sandy bottom, cypress roots twisting along the margins. It is the kind of place that feels abandoned even in daylight, which is precisely why the ghost stories thrive.
+
+## The Ghost on the Riverbank
+
+Locals and thrill-seekers have reported the same handful of phenomena for decades. The most persistent sighting is an old man carrying a lantern, walking along the river's edge below the bridge. Some visitors describe hearing loud splashes in the water beneath the span -- said to represent the sound of Stuckey's body hitting the Chunky after his noose was cut. Others claim to have seen the silhouette of a corpse hanging from the bridge beams themselves. Whether these accounts stem from genuine experience, overactive imagination, or the power of a story told too many times around campfires, they have given Stuckey's Bridge a reputation that extends far beyond Lauderdale County. In 2018, the Travel Channel featured the bridge on its series Most Terrifying Places in America, in a special episode titled 'Haunted Road Trips.' The segment referred to the site as 'Old Man Stuckey's Bridge,' cementing the legend in the vocabulary of paranormal tourism.
+
+## A Crossing Worth Preserving
+
+Ghost stories aside, Stuckey's Bridge matters as a piece of Mississippi's engineering heritage. Iron truss bridges built at the turn of the twentieth century are vanishing across the rural South, replaced by concrete and steel beam spans that carry heavier loads but lack any architectural personality. The Virginia Bridge and Iron Company produced dozens of these structures across the region, and surviving examples grow rarer each year. Stuckey's Bridge endures partly because of its landmark designations and partly because the legend generates enough public interest to discourage demolition. The Chunky River itself adds to the atmosphere -- a slow, tannin-stained waterway winding through pine and hardwood bottomland typical of east-central Mississippi. From the air, the bridge is a slender line across the dark ribbon of the river, easy to miss if you do not know to look. On the ground, it is something else entirely: a place where local history, folk horror, and industrial craftsmanship converge on a single rusting span.
+
+## Flight Context
+
+Located at 32.256N, 88.855W, spanning the Chunky River southwest of Meridian, Mississippi. The bridge is a small iron truss structure in a wooded river corridor -- difficult to spot from high altitude. Best viewed below 2,000 feet AGL following the winding course of the Chunky River. Nearest airport: Meridian Regional Airport/Key Field (KMEI), approximately 10nm northeast. The bridge lies off old county roads west of I-59 between Meridian and Enterprise.
+
+## Sources
+
+- [Stuckey's Bridge - Wikipedia](https://en.wikipedia.org/?curid=23679127)
+  - Bridge built 1901 by Virginia Bridge and Iron Company
+  - Mississippi Landmark August 4, 1984
+  - National Register of Historic Places November 16, 1988
+  - Original bridge contract 1847, construction ~1850
+  - Legend of 20 victims
+  - No evidence connecting Stuckey to Dalton Gang
+- [Travel Channel - Stuckey's Bridge Featured](https://www.wtok.com/content/news/Stuckeys-Bridge-featured-on-Travel-Channel-494837021.html)
+  - Featured on Travel Channel Most Terrifying Places in America in 2018
+  - Episode titled Haunted Road Trips
+- [Southern Gothic - Stuckey's Bridge](https://www.southerngothicmedia.com/stuckeys-bridge)
+  - Haunting reports include lantern-carrying figure and splashing sounds
+  - Bridge spans Chunky River southwest of Meridian
+
+## Review Notes
+
+**Reviewed:** 2026-02-11 · 10 facts verified · 0 corrections
+
+All facts verified: Virginia Bridge and Iron Company 1901, MS Landmark 1984, NRHP 1988, 1847 contract, Travel Channel 2018 feature. Legend details accurately presented as folklore not fact. Dalton Gang connection correctly noted as unsupported. Spiciness 3.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- 'the ghost stories cling to the iron as if they were riveted on' -- evocative literary metaphor
+- 'a place where local history, folk horror, and industrial craftsmanship converge on a single rusting span' -- strong interpretive framing
+
+---
+
+*Word count: 740*
+*Read time: 4 minutes*

@@ -1,0 +1,66 @@
+# Coltejer Building
+
+A 36-story needle-shaped skyscraper in downtown Medellin that pays homage to the textile company whose looms helped industrialize an entire city.
+
+**Location:** 6.2501, -75.5661
+
+**Categories:** architecture, landmarks, industry, Colombia
+
+## Introduction
+
+The eye at the top gives it away. Near the pinnacle of Medellin's tallest building, a narrow opening pierces the concrete like the eye of a sewing needle -- because that is exactly what it is meant to be. The Coltejer Building, completed in 1972, rises 175 meters above the Aburra Valley in a shape that tapers to a point, a brutalist monument to the textile industry that transformed a regional trading town into Colombia's industrial powerhouse. It is an audacious piece of corporate architecture: an entire skyscraper designed to look like the tool of the trade.
+
+## From Coffee Patio to Textile Empire
+
+The name on the building tells a story that begins in 1907, when Alejandro Echavarria imported four power looms and set them running in the patio of his coffee-processing plant with just twelve workers. That modest start became Coltejer, which would grow into the largest textile complex in Latin America. During the Great Depression, the company bought discarded looms cheaply from shuttered American mills and hauled them into the Andes on muleback. By World War II, Coltejer was running 70,000 spindles and 1,900 looms, employing 4,000 workers at its Medellin plant alone. Profits surged twentyfold between 1940 and 1949, from 830,000 pesos to over 16 million. The Echavarria family's bet on textiles had paid off spectacularly, and the city grew around the industry they built.
+
+## A Needle in the Skyline
+
+When Colombia entered its skyscraper era in the 1960s, Medellin led the way. Architects Raul Fajardo, Anibal Saldarriaga, German Samper, and Jorge Manjarres designed the Coltejer tower as a statement of industrial pride. Construction began in 1968 and took four years. The design draws from the brutalist movement -- raw concrete surfaces, imposing geometric forms -- but the silhouette is unmistakably symbolic. The gradually tapering profile, the pointed crest, and the threaded opening near the top all evoke a giant sewing needle, a fitting emblem for a company that clothed a nation. At its completion, the Coltejer Building was the tallest in South America. Its 36 floors contain 42,000 square meters of space, served by eleven elevators.
+
+## What Was Lost
+
+Progress exacted a price. The Coltejer tower's foundation required demolishing the Edificio Gonzalo Mejia, an art nouveau landmark that housed both the Junin Theatre and the Hotel Europa. That earlier building had been a cultural anchor for downtown Medellin, and its destruction remains a sore point for preservationists. The trade-off -- a theatrical palace for a corporate needle -- captures a tension that defined midcentury Latin American cities: the pull between heritage and modernization, between the ornate and the monumental. Whether the exchange was worth it depends on whom you ask, but the needle has become inseparable from the city's identity, appearing on postcards, T-shirts, and the mental map of every paisa who has ever oriented themselves by skyline.
+
+## The View from Botero Plaza
+
+Today the Coltejer Building anchors the northeast corner of Medellin's historic center. From Botero Plaza, a few blocks south, the needle rises above Fernando Botero's voluminous bronze sculptures, the contrast almost comic -- all that roundness at ground level, all that sharpness overhead. The building's ground-floor commercial spaces open onto streets thick with foot traffic, street vendors, and the hum of a city that still moves fast. Coltejer the company has weathered decades of competition and restructuring, but Coltejer the building stands as stubbornly as ever, a concrete reminder that this valley's fortunes were stitched together on industrial looms.
+
+## Flight Context
+
+Located at 6.250N, 75.566W in downtown Medellin, the Coltejer Building's needle-like spire is the tallest structure in the city and visible from considerable distance when approaching the Aburra Valley. Recommended viewing altitude: 3,000-5,000 feet AGL. The building sits roughly 2 nautical miles northwest of Olaya Herrera Airport (SKMD), which lies within the city. Jose Maria Cordova International Airport (SKRG) is approximately 18 nautical miles southeast in Rionegro. The Aburra Valley's mountain-ringed geography can create turbulence and reduced visibility, particularly during afternoon convective weather.
+
+## Sources
+
+- [Coltejer Building - Wikipedia](https://en.wikipedia.org/?curid=10106850)
+  - Height of 175 meters confirmed
+  - Completed in 1972 confirmed
+  - Architects Raul Fajardo, Anibal Saldarriaga, German Samper, and Jorge Manjarres confirmed
+  - Tallest building in South America at completion confirmed
+  - 36 floors confirmed per Wikipedia (Skyscraper Center lists 37; discrepancy noted, Wikipedia figure used)
+  - 42,000 square meters of space confirmed
+  - Coltejer founded 1907 by Alejandro Echavarria confirmed
+  - Sewing needle design symbolism confirmed
+- [Coltejer company history - Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/coltejer)
+  - Alejandro Echavarria imported four power looms in 1907 confirmed
+  - Started with 12 workers confirmed
+  - By 1943 Coltejer had 1,900 looms and ~4,000 workers confirmed
+  - Company grew to be largest textile company in Latin America confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-07 · 8 facts verified · 0 corrections
+
+All key facts verified: 175m height, completed 1972, Fajardo/Saldarriaga/Samper/Manjarres architects, tallest in South America at completion. 36 floors matches Wikipedia (Skyscraper Center says 37 - noted discrepancy). Coltejer founded 1907 by Alejandro Echavarria. Spiciness 3 - editorial voice on demolition trade-off.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- The trade-off -- a theatrical palace for a corporate needle -- captures a tension that defined midcentury Latin American cities
+- Whether the exchange was worth it depends on whom you ask
+
+---
+
+*Word count: 720*
+*Read time: 4 minutes*

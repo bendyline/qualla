@@ -1,0 +1,56 @@
+# The Catlins
+
+A wild, sparsely populated stretch of New Zealand's southern coast named after a whaling captain, where Jurassic fossils, rare penguins, and native bush survive in one of the South Island's last undeveloped corners.
+
+**Location:** -46.5000, 169.5000
+
+**Categories:** coastal, wildlife, nature, new-zealand, ecotourism
+
+## Introduction
+
+Captain Edward Cattlin never got to keep the land that bears his name. In February 1840, just weeks before the signing of the Treaty of Waitangi, he purchased a large block along the Catlins River from Kai Tahu chief Hone Tuhawaiki for muskets and 30 pounds. New Zealand's land commissioners later rejected the sale, and much of the territory was returned to Maori after negotiations that outlasted Cattlin himself. But the name stuck, and today the Catlins refers to a hilly, forested coastal area in the southeastern corner of the South Island that remains one of the most sparsely populated and ecologically intact stretches of coastline in New Zealand.
+
+## Where the Bush Meets the Sea
+
+The Catlins occupies the territory where the Otago and Southland regions meet the Southern Ocean, a corrugated coastline of headlands, bays, and river mouths backed by native podocarp forest that extends nearly to the waterline. The largest town is Owaka, population 400, which serves as the unofficial capital of a region where petrol stations are landmarks and cellphone reception arrived only in 2013. The North Catlins falls within Otago; the South Catlins belongs to Southland. Between them, the Southern Scenic Route threads along gravel and sealed roads past a succession of natural features that individually would anchor a national park but here exist almost casually, one after another along a coastline that most travellers drive past on the way between Dunedin and Invercargill. Much of the interior is protected within the Catlins Conservation Park, a patchwork of native bush that shelters species found nowhere else.
+
+## An Inventory of Rarities
+
+The wildlife that congregates along the Catlins coast reads like a checklist of threatened species. Hector's dolphins, the world's smallest and rarest dolphin, patrol the waters off Porpoise Bay, identifiable by their distinctive rounded dorsal fins. Yellow-eyed penguins, the hoiho, nest in coastal scrub at several bays, waddling ashore at dusk with the wariness of a species in serious trouble -- fewer than 200 breeding pairs survive on the New Zealand mainland and Stewart Island. New Zealand sea lions haul out on beaches, and fur seal colonies cluster at Nugget Point, where a lighthouse built in 1869 perches on a headland surrounded by rocky islets that give the point its name. The Jurassic petrified forest at Curio Bay, 180 million years old, exposes fossilised tree stumps at low tide. Nugget Point draws royal spoonbills, gannets, and both blue and yellow-eyed penguins. At the Catlins River, hikers on the five-hour river walk through native bush might spot a mohua, the rare yellowhead, or tomtits clinging to tree trunks with the flat posture of butterflies.
+
+## Getting Lost on Purpose
+
+Self-driving is the only practical way to explore the Catlins, and the journey is the point as much as any single destination. The Southern Scenic Route enters from Balclutha in the north and Invercargill in the south, connecting a series of side roads and short walks that lead to waterfalls, lookouts, and empty beaches. Florence Hill offers a panoramic view over Tautuku Bay and its peninsula, where a whaling station operated in 1839. The Catlins River walk, starting from the Tawanui campsite, follows the riverbed through five hours of native forest where the river floor is exposed sheer rock, giving the water a polished, formal quality. Wire bridges cross at intervals, described locally as scary but apparently never fatal. Dining options are sparse. Two names circulate with the reliability of local folklore: Niagara Falls Cafe and the Whistling Frog. In the Catlins, even the restaurants sound like they belong to a different kind of guidebook.
+
+## The Quiet Edge
+
+What distinguishes the Catlins from more celebrated New Zealand landscapes is not the absence of spectacular scenery but the absence of the infrastructure that usually accompanies it. There are no gondolas, no adventure tourism operators, no towns large enough to support a supermarket. The coast remains functionally wild, shaped more by weather and tides than by human development. This is partly geographic accident. The Catlins sits at the bottom of the South Island, between two regional centres but belonging fully to neither, bypassed by the main highway and served by roads that discourage speed. The result is a coastline where the bush still grows to the cliff edge, where penguins nest undisturbed a short walk from the road, and where a petrified Jurassic forest lies exposed on a tidal platform with nothing between it and the visitor but a viewing deck and a sense of scale. Captain Cattlin's rejected land purchase left this coast in a kind of administrative limbo that may have been the best thing that ever happened to it.
+
+## Flight Context
+
+Located at approximately 46.50°S, 169.50°E, the Catlins stretches along the southeastern coast of the South Island between Balclutha to the north and Invercargill to the southwest. The coastline is characterised by a series of prominent headlands including Nugget Point (with its lighthouse visible from the air) at the northern end and Slope Point at the southern tip. Dense native bush covers the interior hills, contrasting with farmland on the margins. The Southern Scenic Route is visible as a winding road through the terrain. Nearest airports: Invercargill (NZNV) to the southwest, Dunedin (NZDN) to the northeast. Best viewed at 3,000-6,000 feet to appreciate the interplay of forested hills, coastal headlands, and river valleys. Weather is frequently overcast with strong southerly winds off the Southern Ocean.
+
+## Sources
+
+- [The Catlins - Wikivoyage](https://en.wikivoyage.org/?curid=35754)
+- [The Catlins - Wikipedia](https://en.wikipedia.org/wiki/The_Catlins)
+  - Captain Edward Cattlin purchased land February 1840 from Kai Tahu confirmed
+  - Owaka as largest town with population ~400 confirmed
+  - Nugget Point lighthouse built 1869 confirmed
+  - Curio Bay petrified forest 180 million years old confirmed
+  - Corrected: '1,600 breeding pairs' hoiho figure updated to current population (fewer than 200 breeding pairs on NZ mainland and Stewart Island per DOC 2024/25)
+- [Hoiho/yellow-eyed penguin nest numbers down - DOC 2025](https://www.doc.govt.nz/news/media-releases/2025-media-releases/hoihoyellow-eyed-penguin-nest-numbers-down/)
+  - Hoiho population on mainland NZ + Stewart Island: 143 breeding pairs in 2024/25, critical decline confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 9 facts verified · 1 correction
+
+Verified Catlins history, Captain Cattlin 1840 purchase, Nugget Point lighthouse 1869, 180M year petrified forest. Corrected outdated hoiho population from ~1,600 to fewer than 200 breeding pairs (DOC 2024/25).
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 810*
+*Read time: 4 minutes*

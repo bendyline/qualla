@@ -55,5 +55,24 @@
     "sourceGeohash4": "dr72"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "dr72-happy-land-fire-flight-context.mp3",
+      "dr72-happy-land-fire-intro.mp3",
+      "dr72-happy-land-fire-eighty-seven.mp3",
+      "dr72-happy-land-fire-the-arsonist.mp3",
+      "dr72-happy-land-fire-failures-of-the-system.mp3",
+      "dr72-happy-land-fire-the-plaza-of-the-eighty-seven.mp3"
+    ],
+    "durations": {
+      "dr72-happy-land-fire-flight-context.mp3": 43.9544583,
+      "dr72-happy-land-fire-intro.mp3": 41.2908333,
+      "dr72-happy-land-fire-eighty-seven.mp3": 63.133625,
+      "dr72-happy-land-fire-the-arsonist.mp3": 49.499875,
+      "dr72-happy-land-fire-failures-of-the-system.mp3": 68.0484166,
+      "dr72-happy-land-fire-the-plaza-of-the-eighty-seven.mp3": 63.29875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

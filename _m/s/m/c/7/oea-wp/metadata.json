@@ -91,5 +91,26 @@
   ],
   "galleryPaths": [
     "_m/s/m/c/7/oea-wp/tripoli-fragment-tempe.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "smc7-oea-flight-context.mp3",
+      "smc7-oea-intro.mp3",
+      "smc7-oea-the-harbor-that-drew-empires.mp3",
+      "smc7-oea-languages-of-the-living-city.mp3",
+      "smc7-oea-bishops-vandals-and-the-desert-frontier.mp3",
+      "smc7-oea-the-city-that-refused-to-disappear.mp3",
+      "smc7-oea-restoration-and-what-lies-below.mp3"
+    ],
+    "durations": {
+      "smc7-oea-flight-context.mp3": 40.424375,
+      "smc7-oea-intro.mp3": 48.1287083,
+      "smc7-oea-the-harbor-that-drew-empires.mp3": 63.3925833,
+      "smc7-oea-languages-of-the-living-city.mp3": 59.604375,
+      "smc7-oea-bishops-vandals-and-the-desert-frontier.mp3": 61.65525,
+      "smc7-oea-the-city-that-refused-to-disappear.mp3": 65.0815416,
+      "smc7-oea-restoration-and-what-lies-below.mp3": 58.22
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

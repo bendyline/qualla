@@ -1,0 +1,64 @@
+# Guadalupe Mountains: The Fossil Reef That Became Texas's Highest Peak
+
+The West Texas range where an ancient sea built a reef now 8,751 feet above the desert - where Carlsbad Caverns hides inside the stone, where the Butterfield Overland Mail passed at the base, and where the same limestone that creates caves creates the highest point in Texas.
+
+**Location:** 31.8913, -104.8605
+
+**Categories:** texas, guadalupe-mountains, fossil, reef, peak
+
+## Introduction
+
+The Guadalupe Mountains are a fossil reef, built by organisms that lived in the Permian sea 265 million years ago, uplifted and exposed to become the highest point in Texas. Guadalupe Peak rises to 8,751 feet from Chihuahuan Desert that spreads below 3,000 feet - a vertical relief that creates climate zones from cactus to conifer within a single hike. The reef structure continues underground, where Carlsbad Caverns developed through the same limestone just across the New Mexico border. The mountains remain wild, visited by fewer people annually than Carlsbad receives in a week. The isolation that preserved the ecosystem also preserved the obscurity; most Texans haven't heard of their state's highest point.
+
+## The Reef
+
+The Permian sea covered this region 265 million years ago, its waters warm and shallow, ideal for the sponges, algae, and other organisms that build reefs. The Capitan Reef stretched 400 miles, a massive horseshoe-shaped structure comparable to today's Great Barrier Reef. When the sea retreated, the reef was buried under sediments; when the Basin and Range faulting lifted the region, erosion exposed the ancient limestone. The reef structure is visible in the cliff faces, fossils of sea creatures embedded in rock now two miles above sea level. The same formation that creates the dramatic Guadalupe escarpment also creates the caves beneath it.
+
+## The Wilderness
+
+Guadalupe Mountains National Park protects 86,416 acres of desert and mountain terrain, most of it designated wilderness. The backcountry is genuine - no roads, minimal facilities, permits required for camping. The ecosystems layer by elevation: Chihuahuan Desert at the base, pinyon-juniper woodland on the slopes, relict conifer forest on the high ridges. The McKittrick Canyon drainage supports a ribbon of deciduous forest, famous for fall color in a state not known for autumn. The wildlife includes mountain lions, black bears, and elk; all were extirpated historically and have returned on their own from New Mexico.
+
+## The Trail
+
+Guadalupe Peak Trail climbs 3,000 feet in 4.2 miles to the highest point in Texas, a strenuous dayhike rewarding effort with views that extend 100 miles. The trail was built by youth crews and is remarkably engineered for such a remote location. A stainless steel pyramid marks the summit, placed in 1958 by American Airlines to commemorate the Butterfield Overland Mail route that passed at the mountain's base. The hike is exposed to weather; afternoon thunderstorms are common in summer. Camping is available at Pine Springs; backpackers can base deeper in the wilderness.
+
+## The Butterfield
+
+The Butterfield Overland Mail, from 1858 to 1861, carried mail from St. Louis to San Francisco on a southern route avoiding winter snows. The Pinery Station sat at the base of the Guadalupes, a stone structure where passengers and horses could rest. The station remains visible, one of the best-preserved Butterfield stations on the route. The Civil War closed the mail route; the telegraph and railroad made it obsolete. But for three years, the fastest communication across the continent passed through one of its most remote landscapes, riders driving through terrain that remains as isolated now as it was then.
+
+## Visiting Guadalupe Mountains
+
+Guadalupe Mountains National Park is located in far West Texas, 110 miles east of El Paso. The park has no lodging or food; Whites City (7 miles at Carlsbad Caverns) or Dell City (45 miles) provide services. Camping at Pine Springs is first-come; backcountry permits available at the visitor center. The Guadalupe Peak Trail is the park's signature hike; McKittrick Canyon offers a less strenuous alternative, especially in fall. Summer brings extreme heat at lower elevations and afternoon thunderstorms at higher elevations. Spring and fall offer the best conditions. Cell service is unreliable; bring water, maps, and self-sufficiency. The experience rewards those who make the effort - one of the least-visited national parks protects ecosystems and solitude increasingly rare in accessible America.
+
+## Flight Context
+
+Located at 31.89°N, 104.86°W in far West Texas, extending into New Mexico. From altitude, the Guadalupe Mountains appear as a dramatic escarpment rising abruptly from the desert floor - the ancient reef uplifted and tilted, its exposed edge forming the cliffs visible for many miles. Guadalupe Peak is the highest point, visible at the escarpment's southern end. McKittrick Canyon cuts into the range to the northeast. Carlsbad Caverns National Park lies just across the New Mexico border, part of the same geological formation. The Salt Basin spreads to the west, the Chihuahuan Desert extending in all directions. El Paso is visible far to the west. What appears from altitude as a rugged desert mountain range is a fossil reef built 265 million years ago - sea creatures become stone become the highest point in Texas.
+
+## Sources
+
+- [Guadalupe Mountains - Wikipedia](https://en.wikipedia.org/?curid=1650175)
+- [Wikipedia - Guadalupe Peak](https://en.wikipedia.org/wiki/Guadalupe_Peak)
+  - 8751 feet highest Texas
+  - Capitan Reef 265 million years
+- [UT Bureau of Economic Geology](https://www.beg.utexas.edu/texas-through-time/el-capitan.html)
+  - 400 mile reef
+  - Permian sea
+- [SummitPost - Guadalupe Peak](https://www.summitpost.org/guadalupe-peak/150689)
+  - American Airlines pyramid 1958
+  - Butterfield Mail
+
+## Review Notes
+
+**Reviewed:** 2026-01-12 · 12 facts verified
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- The Fossil Reef That Became Texas's Highest Peak
+- Most Texans haven't heard of their state's highest point
+
+---
+
+*Word count: 855*
+*Read time: 5 minutes*

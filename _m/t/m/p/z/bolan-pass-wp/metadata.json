@@ -363,5 +363,24 @@
     "_m/t/m/p/z/bolan-pass-wp/streckenprofil-bolanbahn.png",
     "_m/t/m/p/z/bolan-pass-wp/bolan-pass-after-railway2.jpg"
   ],
-  "updatedAt": "2026-03-31T14:36:51.413Z"
+  "updatedAt": "2026-03-31T14:36:51.413Z",
+  "narration": {
+    "files": [
+      "tmpz-bolan-pass-flight-context.mp3",
+      "tmpz-bolan-pass-intro.mp3",
+      "tmpz-bolan-pass-where-continents-collide.mp3",
+      "tmpz-bolan-pass-the-southern-gate-of-invasion.mp3",
+      "tmpz-bolan-pass-steel-through-the-gorge.mp3",
+      "tmpz-bolan-pass-a-pass-that-refuses-quiet.mp3"
+    ],
+    "durations": {
+      "tmpz-bolan-pass-flight-context.mp3": 51.994375,
+      "tmpz-bolan-pass-intro.mp3": 44.3391666,
+      "tmpz-bolan-pass-where-continents-collide.mp3": 52.933375,
+      "tmpz-bolan-pass-the-southern-gate-of-invasion.mp3": 69.0146666,
+      "tmpz-bolan-pass-steel-through-the-gorge.mp3": 67.4921666,
+      "tmpz-bolan-pass-a-pass-that-refuses-quiet.mp3": 56.5805
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

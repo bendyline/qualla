@@ -508,5 +508,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "tm6h-lut-desert-flight-context.mp3",
+      "tm6h-lut-desert-intro.mp3",
+      "tm6h-lut-desert-anatomy-of-an-inferno.mp3",
+      "tm6h-lut-desert-wind-as-sculptor.mp3",
+      "tm6h-lut-desert-seven-thousand-years-at-the-edge.mp3",
+      "tm6h-lut-desert-a-desert-seen-from-space.mp3"
+    ],
+    "durations": {
+      "tm6h-lut-desert-flight-context.mp3": 63.9065833,
+      "tm6h-lut-desert-intro.mp3": 59.1030416,
+      "tm6h-lut-desert-anatomy-of-an-inferno.mp3": 73.3479166,
+      "tm6h-lut-desert-wind-as-sculptor.mp3": 72.5829583,
+      "tm6h-lut-desert-seven-thousand-years-at-the-edge.mp3": 63.979,
+      "tm6h-lut-desert-a-desert-seen-from-space.mp3": 65.316375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -734,5 +734,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kz8z-maasai-mara-national-reserve-flight-context.mp3",
+      "kz8z-maasai-mara-national-reserve-intro.mp3",
+      "kz8z-maasai-mara-national-reserve-land-of-the-maasai.mp3",
+      "kz8z-maasai-mara-national-reserve-the-big-nine-and-beyond.mp3",
+      "kz8z-maasai-mara-national-reserve-four-landscapes-in-one-reserve.mp3",
+      "kz8z-maasai-mara-national-reserve-the-river-crossing.mp3",
+      "kz8z-maasai-mara-national-reserve-arriving-by-air-or-endurance.mp3"
+    ],
+    "durations": {
+      "kz8z-maasai-mara-national-reserve-flight-context.mp3": 66.5113333,
+      "kz8z-maasai-mara-national-reserve-intro.mp3": 45.942875,
+      "kz8z-maasai-mara-national-reserve-land-of-the-maasai.mp3": 59.9522083,
+      "kz8z-maasai-mara-national-reserve-the-big-nine-and-beyond.mp3": 59.7960833,
+      "kz8z-maasai-mara-national-reserve-four-landscapes-in-one-reserve.mp3": 61.232125,
+      "kz8z-maasai-mara-national-reserve-the-river-crossing.mp3": 60.587,
+      "kz8z-maasai-mara-national-reserve-arriving-by-air-or-endurance.mp3": 57.0165416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

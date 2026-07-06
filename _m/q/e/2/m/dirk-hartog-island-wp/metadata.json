@@ -118,10 +118,55 @@
       "sourceType": "core",
       "sourceArticleId": "dirk-hartog-island-wp",
       "sourceGeohash4": "qe2m"
+    },
+    {
+      "filename": "Monke2.jpg",
+      "title": "File:Monke2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Monke2.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Monke2.jpg",
+      "width": 800,
+      "height": 600,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Andrzej Kulka",
+      "description": "Monkey Mia. Miejscowość w Zachodniej Australii",
+      "dateCreated": "2008-05-24 08:30:32",
+      "categories": [
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "GFDL",
+        "License migration redundant",
+        "Monkey Mia",
+        "Self-published work"
+      ],
+      "sourceType": "poi",
+      "sourceArticleId": "dirk-hartog-island-wp",
+      "sourceGeohash4": "qe2m"
     }
   ],
   "galleryPaths": [
     "_m/q/e/2/m/dirk-hartog-island-wp/melchisedech-thevenot.png",
-    "_m/6/x/m/q/amazon-rainforest-wk/aegopodium-podagraria.jpg"
-  ]
+    "_m/6/x/m/q/amazon-rainforest-wk/aegopodium-podagraria.jpg",
+    "_m/q/e/2/m/dirk-hartog-island-wp/monke2.jpg"
+  ],
+  "narration": {
+    "files": [
+      "qe2m-dirk-hartog-island-flight-context.mp3",
+      "qe2m-dirk-hartog-island-intro.mp3",
+      "qe2m-dirk-hartog-island-a-parade-of-plates.mp3",
+      "qe2m-dirk-hartog-island-the-plates-odyssey.mp3",
+      "qe2m-dirk-hartog-island-from-sheep-station-to-national-park.mp3",
+      "qe2m-dirk-hartog-island-return-to-1616.mp3"
+    ],
+    "durations": {
+      "qe2m-dirk-hartog-island-flight-context.mp3": 46.182,
+      "qe2m-dirk-hartog-island-intro.mp3": 36.9565,
+      "qe2m-dirk-hartog-island-a-parade-of-plates.mp3": 61.4748333,
+      "qe2m-dirk-hartog-island-the-plates-odyssey.mp3": 59.193625,
+      "qe2m-dirk-hartog-island-from-sheep-station-to-national-park.mp3": 54.3007083,
+      "qe2m-dirk-hartog-island-return-to-1616.mp3": 75.3780833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  },
+  "updatedAt": "2026-06-27T22:39:13.040Z"
 }

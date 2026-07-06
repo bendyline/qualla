@@ -722,5 +722,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kee2-pilanesberg-national-park-flight-context.mp3",
+      "kee2-pilanesberg-national-park-intro.mp3",
+      "kee2-pilanesberg-national-park-a-volcano-turned-sanctuary.mp3",
+      "kee2-pilanesberg-national-park-operation-genesis.mp3",
+      "kee2-pilanesberg-national-park-wings-over-the-caldera.mp3",
+      "kee2-pilanesberg-national-park-the-sun-city-neighbor.mp3",
+      "kee2-pilanesberg-national-park-billion-year-horizons.mp3"
+    ],
+    "durations": {
+      "kee2-pilanesberg-national-park-flight-context.mp3": 46.8552916,
+      "kee2-pilanesberg-national-park-intro.mp3": 40.156875,
+      "kee2-pilanesberg-national-park-a-volcano-turned-sanctuary.mp3": 63.5785416,
+      "kee2-pilanesberg-national-park-operation-genesis.mp3": 60.95625,
+      "kee2-pilanesberg-national-park-wings-over-the-caldera.mp3": 56.056375,
+      "kee2-pilanesberg-national-park-the-sun-city-neighbor.mp3": 57.890625,
+      "kee2-pilanesberg-national-park-billion-year-horizons.mp3": 59.9865
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

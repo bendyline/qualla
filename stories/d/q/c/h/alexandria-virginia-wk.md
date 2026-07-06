@@ -1,0 +1,60 @@
+# Alexandria: George Washington's Hometown on the Potomac
+
+The colonial port surveyed in 1749 where George Washington worshipped and Robert E. Lee grew up, where nearly 4,000 18th-century buildings line cobblestone streets, and where Old Town's brick sidewalks preserve Virginia's past just outside the nation's capital.
+
+**Location:** 38.8047, -77.0472
+
+**Categories:** virginia, alexandria, city, colonial, washington
+
+## Introduction
+
+Scottish merchants laid out Alexandria in 1749, naming the new tobacco port for the Alexander family who owned the land. George Washington helped survey the original streets as a teenage apprentice; he later worshipped at Christ Church, attended balls at Gadsby's Tavern, and served as a trustee. The town prospered shipping tobacco down the Potomac, then suffered Union occupation during the Civil War - Robert E. Lee's hometown taken by Federal troops on the first day of hostilities. The cobblestone streets survived, the Georgian townhouses survived, and when the capital expanded after World War II, Alexandria's Old Town became an improbable village preserved within the Washington suburbs - 4,000 buildings predating 1900, gas-style lamps illuminating brick sidewalks, the Potomac still flowing past the waterfront where colonial ships once loaded tobacco for London.
+
+## Washington's Town
+
+George Washington's connection to Alexandria runs deeper than mere residence. He surveyed the town's boundaries in 1749, aged seventeen. He purchased a pew at Christ Church in 1773 (still marked with his nameplate). He drilled Virginia militia on Market Square before the Revolution. He attended birthday balls at Gadsby's Tavern (a tradition continuing annually). His Masonic lodge met in Alexandria; the George Washington Masonic National Memorial now towers over the city from Shooter's Hill, a 333-foot ziggurat visible for miles. Mount Vernon lies eight miles south along the Potomac - Washington commuted to Alexandria for supplies, worship, and society throughout his life. The Old Town streets he surveyed retain their colonial pattern: King Street running from the river west, cross streets intersecting at right angles.
+
+## The Slave Trade's Shadow
+
+Alexandria was among the largest slave trading markets in the antebellum South. The firm of Franklin and Armfield shipped an estimated 1,000 enslaved people per year from their Duke Street headquarters to New Orleans and Natchez between 1828 and 1836. The building still stands - now the Freedom House Museum, preserving a history the city long preferred to forget. Robert E. Lee grew up at 607 Oronoco Street; his father, 'Light-Horse Harry' Lee, was a Revolutionary War hero who died in debt and disgrace. When Virginia seceded in April 1861, Union troops occupied Alexandria the next day - the first Confederate territory to fall. The city remained under Federal control throughout the war, its population swelling with freedom seekers who had escaped slavery.
+
+## Old Town's Preservation
+
+Alexandria's historic survival was not inevitable. In the early 20th century, Old Town was a declining industrial district, its colonial buildings subdivided into tenements or demolished for warehouses. The Old and Historic Alexandria District, established in 1946, was among the first historic preservation districts in the nation - protecting the colonial core before urban renewal could replace it with parking lots. The preservation worked: King Street's brick buildings now house galleries, restaurants, and boutiques rather than rooming houses. Nearly 4,000 buildings constructed before 1900 survive in Old Town, including structures from the 1600s. The Torpedo Factory - a World War I munitions plant - reopened in 1974 as an arts center, its industrial spaces divided among artist studios.
+
+## Potomac Waterfront
+
+The Potomac waterfront defined Alexandria's colonial purpose - ships loading tobacco for England, later grain and manufactured goods bound for Baltimore and beyond. The wharves fell into disuse as commerce moved to railroad hubs, but recent decades brought new life. Water taxis now connect King Street's pier to Georgetown and National Harbor. The Mount Vernon Trail follows the riverbank north to Theodore Roosevelt Island and south to Washington's plantation. Saturday mornings bring the nation's oldest continuously operating farmers' market to Market Square - vendors selling produce from the same location since 1753. The waterfront promenade offers views across the Potomac to Maryland, tugboats pushing barges past the same channel that colonial ships navigated.
+
+## Just Outside the Capital
+
+Reagan National Airport (DCA) lies three miles north in Arlington; the Blue and Yellow Metro lines connect King Street-Old Town station to the capital in minutes. Yet Old Town maintains its distinct identity - red brick sidewalks and gas-style lamps rather than federal marble. From altitude, Alexandria appears as a separate core south of the Potomac, the colonial street grid visible against modern development, the Masonic Memorial's stepped tower marking the old town center. What appears from the air as Washington suburb began as an independent port town, Washington's hometown before there was a Washington D.C., a colonial village that refused to become another government office park.
+
+## Flight Context
+
+Located at 38.80°N, 77.05°W on the Potomac River's Virginia shore, six miles south of downtown Washington D.C. From altitude, Alexandria appears as a distinct urban core separate from the capital's sprawl - the colonial grid of Old Town visible, the stepped pyramid of the Masonic Memorial marking the western edge. What appears from the air as a Potomac River suburb is George Washington's hometown, where he surveyed streets as a teenager and worshipped as president, where 4,000 buildings survive from before the 20th century.
+
+## Sources
+
+- [Alexandria, Virginia - Wikipedia](https://en.wikipedia.org/wiki/Alexandria,_Virginia)
+  - Founded 1749
+  - Washington surveyed town
+  - Franklin and Armfield slave trading
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 6 facts verified · 0 corrections
+
+Story overlay verified
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- George Washington's Hometown on the Potomac
+- Alexandria was among the largest slave trading markets in the antebellum South
+
+---
+
+*Word count: 830*
+*Read time: 5 minutes*

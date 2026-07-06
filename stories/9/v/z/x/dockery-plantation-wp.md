@@ -1,0 +1,73 @@
+# Dockery Plantation
+
+A cotton plantation in the Mississippi Delta where Charley Patton, Robert Johnson, and Howlin' Wolf forged the sound of Delta blues, Dockery Plantation is widely regarded as the birthplace of an art form that changed American music forever.
+
+**Location:** 33.7290, -90.6130
+
+**Categories:** music-history, blues, plantation, cultural-heritage, mississippi-delta
+
+## Introduction
+
+Somewhere around 1900, a young man named Charley Patton arrived at a cotton plantation on the Sunflower River and heard an older musician named Henry Sloan playing something that did not yet have a name. The sound was raw, rhythmic, and full of ache -- a music born from the fields and the heat and the particular loneliness of the Mississippi Delta. Patton listened, learned, and then transformed what he heard into something wilder, louder, and more fiercely original. Within two decades, the boardinghouses and juke joints of Dockery Plantation had become the crucible of Delta blues, nurturing a lineage of musicians -- Willie Brown, Son House, Tommy Johnson, Robert Johnson, Howlin' Wolf, Pops Staples -- whose influence would ripple outward into rock and roll, rhythm and blues, and virtually every form of popular music that followed. The plantation itself sits between Ruleville and Cleveland, Mississippi, on flat Delta land so fertile and so haunted that the music could have come from nowhere else.
+
+## Wilderness into Empire
+
+Will Dockery was a University of Mississippi graduate who came to the Delta in 1895 looking for timber. What he found instead was some of the richest soil on earth, a floodplain of the Mississippi built up over millennia. At the time, much of the Delta was still untamed -- cypress and gum trees, panthers, wolves, and swarms of mosquitoes. Dockery cleared the land and drained it for cotton, and laborers poured in from across the South, drawn by his reputation for fair dealing. Some became sharecroppers, working a portion of the land in exchange for a share of the crop. Others were itinerant workers who moved with the seasons. The plantation grew into a self-contained world: over 2,000 workers, paid in the plantation's own coins, served by a company store, post office, school, doctor, and churches. Around 1900, Dockery built a rail terminal connecting his land to the Yazoo and Mississippi Valley Railroad -- the line locals called the Yellow Dog -- and its branch known as the Pea Vine for its winding route to Rosedale.
+
+## The Sound That Had No Name
+
+The music started in the boardinghouses. Workers who spent their days chopping and picking cotton gathered in the evenings to socialize, gamble, and play guitars -- instruments that had been introduced to the area by Mexican laborers in the 1890s. Will Dockery took no interest in his workers' music, but he gave them something rare for the era: the freedom to travel and spend their leisure as they pleased. That freedom mattered. When Charley Patton settled at Dockery around 1900, he found a community where music could take root and grow. Under the influence of Henry Sloan, Patton developed a style that was percussive, theatrical, and electrifying -- he played guitar behind his head, between his legs, slapping the body for rhythm. He became the center of gravity for a circle of musicians who played at plantation gatherings, country stores, and Saturday night fish fries across the Delta. The sound they made together was something new: deeply personal, improvisational, shaped by the rhythms of hard labor and the emotional terrain of lives lived under Jim Crow.
+
+## A Constellation of Genius
+
+By the mid-1920s, Dockery had attracted a younger generation of players who would carry the blues far beyond the Delta. Robert Johnson, the most mythologized figure in blues history, played around the plantation and absorbed the styles of Patton and Son House. Chester Burnett -- who became Howlin' Wolf -- learned guitar from Patton himself and later electrified the blues in Chicago, his massive voice and raw energy becoming foundational to rock and roll. Roebuck "Pops" Staples took what he learned in the Delta and built a gospel dynasty with the Staple Singers. David "Honeyboy" Edwards wandered the South as an itinerant musician for decades, one of the last living links to the original Delta sound. These artists did not merely play the blues; they invented its vocabulary. The walking bass lines, the bottleneck slide, the call-and-response patterns, the emotional directness -- all of it flowed from the cultural ferment of places like Dockery, where music was not a profession but a way of surviving.
+
+## Cotton Fades, the Music Carries
+
+When Will Dockery died in 1936, his son Joe Rice Dockery inherited the plantation. But the world that had produced the blues was already disappearing. Agricultural mechanization replaced field hands with machines. The Great Migration drew Black workers northward to Chicago, Detroit, and Memphis, and the blues traveled with them, plugging into amplifiers and electric guitars and becoming something urban and urgent. The plantation settlements emptied out. The cotton fields gave way to soybeans, rice, and corn. Some of the original buildings survive -- weathered structures that look exactly like the kind of place where American music was born, because they are. The property was added to the National Register of Historic Places in 2006, and a marker on the Mississippi Blues Trail acknowledges its singular contribution. The Dockery family established a foundation to fund Delta blues research, and the site today hosts private tours and events in partnership with the Thelonious Monk Institute of Jazz and Delta State University. Dockery is still a working farm, but its true harvest was always the music.
+
+## Flight Context
+
+Located at 33.729N, 90.613W in the flat Mississippi Delta between Ruleville and Cleveland, Mississippi, along the Sunflower River. From the air, the Delta is unmistakable -- an immense, perfectly flat alluvial plain of cultivated fields stretching to the horizon. The plantation site is visible as a cluster of structures amid agricultural land. Nearby airports include Cleveland Municipal Airport (KRNV), approximately 8 nm northwest, and Greenville Mid-Delta Airport (KGLH), about 30 nm west. Recommended viewing altitude: 1,500-2,500 ft AGL to see the layout of the plantation and its relationship to the Sunflower River and surrounding farmland.
+
+## Sources
+
+- [Dockery Plantation - Wikipedia](https://en.wikipedia.org/?curid=4239527)
+  - Will Dockery founded plantation in 1895
+  - Dockery was University of Mississippi graduate
+  - Charley Patton arrived around 1900 under influence of Henry Sloan
+  - Added to National Register of Historic Places in 2006
+  - Located between Ruleville and Cleveland on Sunflower River
+  - 25,600-acre cotton plantation
+  - Pea Vine rail line connection
+  - Will Dockery died 1936, son Joe Rice Dockery inherited
+- [Mississippi Blues Trail - Birthplace of the Blues marker](https://msbluestrail.org/blues-trail-markers/birthplace-of-the-blues)
+  - Mississippi Blues Trail marker acknowledges Dockery's contribution
+  - Musicians associated: Charley Patton, Howlin' Wolf, Willie Brown, Tommy Johnson, Pops Staples
+- [Wikipedia - Will Dockery](https://en.wikipedia.org/wiki/Will_Dockery)
+  - Will Dockery (1865-1936) death confirmed
+  - Joe Rice Dockery (1906-1982) inherited plantation
+- [Herbie Hancock Institute of Jazz (formerly Thelonious Monk Institute)](https://en.wikipedia.org/wiki/Herbie_Hancock_Institute_of_Jazz)
+  - CORRECTION: Thelonious Monk Institute renamed to Herbie Hancock Institute of Jazz effective January 1, 2019 - article uses outdated name
+- [Mississippi Encyclopedia - Dockery Farms](https://mississippiencyclopedia.org/entries/dockery-farms/)
+  - Dockery Farms Foundation established by family
+  - Partnership with Delta State University confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-07 · 12 facts verified · 2 corrections
+
+12 facts verified. 2 corrections: (1) Thelonious Monk Institute renamed to Herbie Hancock Institute of Jazz in 2019 - article uses outdated name; (2) claim that guitars were introduced by Mexican laborers in 1890s could not be corroborated. Spiciness 3 - clear literary voice with some romantic determinism. Language quality excellent.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- the music could have come from nowhere else - romantic determinism tying land to musical creation
+- so fertile and so haunted - loaded, evocative characterization of the Delta
+- its true harvest was always the music - editorial flourish elevating cultural over economic legacy
+
+---
+
+*Word count: 856*
+*Read time: 4 minutes*

@@ -81,5 +81,24 @@
   "galleryPaths": [
     "_m/t/m/m/v/camp-rhino-wp/john-walker-lindh-custody.jpg"
   ],
-  "updatedAt": "2026-03-31T14:36:03.052Z"
+  "updatedAt": "2026-03-31T14:36:03.052Z",
+  "narration": {
+    "files": [
+      "tmmv-camp-rhino-flight-context.mp3",
+      "tmmv-camp-rhino-intro.mp3",
+      "tmmv-camp-rhino-four-days-of-watching.mp3",
+      "tmmv-camp-rhino-an-airfield-in-an-hour.mp3",
+      "tmmv-camp-rhino-the-foothold-that-tipped-the-balance.mp3",
+      "tmmv-camp-rhino-gone-by-christmas.mp3"
+    ],
+    "durations": {
+      "tmmv-camp-rhino-flight-context.mp3": 48.1656666,
+      "tmmv-camp-rhino-intro.mp3": 46.099375,
+      "tmmv-camp-rhino-four-days-of-watching.mp3": 59.872375,
+      "tmmv-camp-rhino-an-airfield-in-an-hour.mp3": 65.7941666,
+      "tmmv-camp-rhino-the-foothold-that-tipped-the-balance.mp3": 61.7655,
+      "tmmv-camp-rhino-gone-by-christmas.mp3": 67.3338333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

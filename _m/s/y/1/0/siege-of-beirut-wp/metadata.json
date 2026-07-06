@@ -85,5 +85,26 @@
   ],
   "galleryPaths": [
     "_m/s/y/1/0/siege-of-beirut-wp/communist-action-organ.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sy10-siege-of-beirut-flight-context.mp3",
+      "sy10-siege-of-beirut-intro.mp3",
+      "sy10-siege-of-beirut-operation-peace-for-galilee.mp3",
+      "sy10-siege-of-beirut-the-ring-closes.mp3",
+      "sy10-siege-of-beirut-seven-weeks-of-bombardment.mp3",
+      "sy10-siege-of-beirut-reagans-phone-call.mp3",
+      "sy10-siege-of-beirut-departure-and-aftermath.mp3"
+    ],
+    "durations": {
+      "sy10-siege-of-beirut-flight-context.mp3": 40.8102083,
+      "sy10-siege-of-beirut-intro.mp3": 37.480375,
+      "sy10-siege-of-beirut-operation-peace-for-galilee.mp3": 64.8612083,
+      "sy10-siege-of-beirut-the-ring-closes.mp3": 59.4967083,
+      "sy10-siege-of-beirut-seven-weeks-of-bombardment.mp3": 64.4728333,
+      "sy10-siege-of-beirut-reagans-phone-call.mp3": 60.8150833,
+      "sy10-siege-of-beirut-departure-and-aftermath.mp3": 66.2045416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

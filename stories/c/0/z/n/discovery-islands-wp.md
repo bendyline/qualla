@@ -1,0 +1,55 @@
+# Discovery Islands
+
+A labyrinth of forested islands between Vancouver Island and the mainland where geography itself becomes a puzzle, and most shorelines can only be reached by private boat or floatplane.
+
+**Location:** 50.2781, -125.1520
+
+**Categories:** Discovery Islands, South Coast of British Columbia, Central Coast of British Columbia, Archipelagoes of British Columbia, Archipelagoes of the Pacific Ocean
+
+## Introduction
+
+From the air, the Discovery Islands look like a jigsaw puzzle someone shook apart and never quite reassembled. Dozens of forested landmasses crowd the waters between Vancouver Island and the British Columbia mainland, separated by channels so narrow and convoluted that even experienced mariners struggle to tell island from shore. The Strait of Georgia funnels northward here into Discovery Passage and Johnstone Strait, and the tidal currents that rip through these bottlenecks have shaped both the landscape and the character of the people who live among it. Only two of the islands have ferry service. The rest belong to those willing to arrive by private boat or floatplane.
+
+## A Geography That Defies Certainty
+
+The fundamental challenge of the Discovery Islands is knowing where you are. Travelling by boat through Pryce Channel or Homfray Channel, a forested ridge that appears to be the mainland may reveal itself, around the next headland, as the far shore of East Redonda Island. What looks like a continuous coastline splits into two islands separated by a passage barely wider than the boat. The archipelago spans roughly from Quadra Island in the south to the Thurlow Islands and Hardwicke Island in the north, with the Redonda Islands pushing east toward the mainland fjords. Altogether, the group includes more than two dozen named islands and countless smaller rocks and islets, all within the Strathcona Regional District, except for a handful of southern outliers like Hernando Island and Savary Island that fall within the qathet Regional District.
+
+## Where Currents Collide
+
+Discovery Passage, the waterway that gives the archipelago its name, begins where the Strait of Georgia narrows between Quadra Island and Campbell River on Vancouver Island. It runs north to Chatham Point, where it meets Nodales Channel and the open reach of Johnstone Strait. The tidal forces through these passages are formidable. Seymour Narrows, just north of Quadra Island, was once home to Ripple Rock, a submerged twin-peaked hazard that sank over a hundred vessels before engineers detonated it in 1958 in what was then the largest non-nuclear planned explosion in history. The currents still demand respect, but the waterways now serve as the primary Inside Passage route for vessels heading between Vancouver and Alaska.
+
+## Islands of Solitude
+
+Life on the Discovery Islands runs at a pace set by tide tables and weather forecasts. Quadra Island, the most populated, supports a community with schools, shops, and a fifteen-minute ferry crossing to Campbell River. Cortes Island, one step further removed, requires two ferries to reach from the highway system and draws artists, organic farmers, and those seeking deliberate distance from the grid. Beyond these two, the islands grow progressively wilder. Read Island has a handful of year-round residents. Sonora Island hosts a luxury resort that arrives guests by water taxi. Stuart Island's old schoolhouse stands empty. On Mitlenatch Island, a nature provincial park protects one of the largest seabird colonies on the Strait of Georgia, and human visitors are restricted to a single trail.
+
+## Salmon, Kayaks, and the Pull of the Wild
+
+The Discovery Islands sit at the intersection of some of the richest marine habitats on the Pacific coast. Salmon returning to the Campbell, Toba, and mainland rivers pass through these channels, and the sport fishing here has drawn anglers for generations. Kayakers paddle between islands, camping on shell-beach coves backed by old-growth cedar. Sailors navigating the Inside Passage treat the archipelago as either a waypoint or a destination, anchoring in protected bays where the only sound at night is the slap of tide against hull. For those approaching from above, the islands present a mosaic of dark forest, grey rock, and channels that shift from emerald to ink depending on the depth and the angle of the light. It is a landscape built for getting lost in, and most who visit consider that the point.
+
+## Flight Context
+
+Centered at 50.28°N, 125.15°W between Vancouver Island and the BC mainland. Best viewed at 3,000-5,000 ft to appreciate the intricate channel geography. Discovery Passage runs north-south between Quadra Island and Campbell River (CYBL, Campbell River Airport). Nearby airports include CYBL to the west and Powell River (CYPW) to the southeast. The islands stretch roughly 50 nm north-south. In clear weather, the contrast between forested islands and deep blue channels is striking.
+
+## Sources
+
+- [Discovery Islands - Wikipedia](https://en.wikipedia.org/?curid=2892196)
+  - Only two islands (Quadra and Cortes) have ferry service
+  - Ripple Rock in Seymour Narrows exploded in 1958 in one of the largest non-nuclear planned explosions in history
+  - Discovery Passage runs between Quadra Island and Campbell River to Chatham Point
+- [Ripple Rock - Wikipedia](https://en.wikipedia.org/wiki/Ripple_Rock)
+  - Ripple Rock was a submerged twin-peaked hazard that damaged or sank vessels before engineers detonated it in 1958
+  - Explosion on April 5, 1958 was one of the largest non-nuclear planned explosions on record
+  - Between 1875 and 1958, at least 20 large and 100 smaller vessels were badly damaged or sunk
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 3 facts verified · 0 corrections
+
+Verified Ripple Rock explosion 1958 (largest non-nuclear planned), Discovery Passage geography, only two ferry-served islands. No corrections needed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 730*
+*Read time: 4 minutes*

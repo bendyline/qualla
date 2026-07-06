@@ -625,5 +625,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sr4n-blue-grotto-capri-flight-context.mp3",
+      "sr4n-blue-grotto-capri-intro.mp3",
+      "sr4n-blue-grotto-capri-the-physics-of-enchantment.mp3",
+      "sr4n-blue-grotto-capri-known-long-before-it-was-discovered.mp3",
+      "sr4n-blue-grotto-capri-a-cave-that-summoned-artists.mp3",
+      "sr4n-blue-grotto-capri-the-price-of-entry.mp3"
+    ],
+    "durations": {
+      "sr4n-blue-grotto-capri-flight-context.mp3": 56.818125,
+      "sr4n-blue-grotto-capri-intro.mp3": 34.740375,
+      "sr4n-blue-grotto-capri-the-physics-of-enchantment.mp3": 67.5521666,
+      "sr4n-blue-grotto-capri-known-long-before-it-was-discovered.mp3": 59.995125,
+      "sr4n-blue-grotto-capri-a-cave-that-summoned-artists.mp3": 62.5186666,
+      "sr4n-blue-grotto-capri-the-price-of-entry.mp3": 62.6675
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

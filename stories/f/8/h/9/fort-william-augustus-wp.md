@@ -1,0 +1,63 @@
+# Fort William Augustus
+
+A British fort on a tiny Nova Scotia island, built in defiance of Mi'kmaq treaties, besieged repeatedly over three wars, and finally destroyed by the very enemies it was meant to contain.
+
+**Location:** 45.3373, -60.9730
+
+**Categories:** military-history, colonial-history, historic-sites
+
+## Introduction
+
+Grassy Island is barely more than a speck off the coast of Canso, Nova Scotia -- a low, wind-scoured patch of ground at the mouth of a harbor that once held the richest fishery in the region. In 1720, New Englanders began building a fort there, naming it after Prince William, Duke of Cumberland. They called it Fort William Augustus, though it was also known as Fort Phillips after Governor Richard Philipps of Nova Scotia. The construction was provocative by design. It violated long-standing agreements between the Mi'kmaq and the British, and the Mi'kmaq knew exactly what it meant: permanent occupation of land they had never ceded. Within months, they attacked. Within years, the fort would be at the center of three colonial wars.
+
+## A Fort Built on Broken Promises
+
+The backstory begins with the Squirrel Affair and the earlier destruction of Fort Saint-Louis at nearby Guysborough. Captain Cyprian Southack, the same officer who had led the 1690 raid on Chedabucto, urged Governor Philipps to establish a permanent military presence at Canso to protect New England's fishing interests. The problem was that a permanent facility was precisely what the Mi'kmaq had been promised would not be built. On 7 August 1720, before the fort was even finished, a party of 60 to 75 Mi'kmaq, joined by French fishermen from Petit de Grats, attacked the construction site. They killed three men, wounded four, and inflicted significant damage. The New Englanders responded by taking 21 prisoners and transporting them to Annapolis Royal. Rather than discouraging further construction, the attack accelerated it -- and helped precipitate Father Rale's War, which broke out two years later.
+
+## Under Siege, Again and Again
+
+Father Rale's War began on 25 July 1722 and raged for more than three years. Canso bore the brunt repeatedly. On 23 July 1723, Mi'kmaq raiders struck the village again, killing three men, a woman, and a child. The New Englanders responded by building a twelve-gun blockhouse to guard the settlement and its fishery. In 1725, sixty Abenaki and Mi'kmaq fighters launched yet another assault, destroying two houses and killing six people. The Province of Massachusetts, which regarded the Canso fisheries as its own, had already sent HMS Seahorse to patrol the waters in 1721, and the warship was eventually replaced by a New England vessel named, fittingly, William Augustus, under Southack's command. Each attack brought a stronger response, and each response provoked further resistance. The cycle was self-reinforcing: the fort existed to protect the fishery, the fishery attracted settlers, and the settlers' presence violated the treaties that the Mi'kmaq had every reason to defend.
+
+## Destruction and a Larger Purpose
+
+Edward How rebuilt the fort's structures in the 1730s, adding a new blockhouse. But during King George's War, the French and Mi'kmaq finally accomplished what decades of raids had attempted: in 1744, they destroyed Fort William Augustus entirely in the Raid on Canso. The garrison was overwhelmed, the buildings burned, and British control of the site ended. Ironically, the destruction of Canso helped set the stage for one of the most significant military operations in North American colonial history. The following year, New England forces used the Canso area as a staging ground for the Siege of Louisbourg in 1745, the audacious campaign that captured France's great Atlantic fortress. A new blockhouse was built and named Fort Prince William, but Canso never regained its former importance.
+
+## What the Island Remembers
+
+Grassy Island Fort was designated a National Historic Site of Canada in 1962. The remains are modest -- traces of the 1720 redoubt, the 1723-24 fort, and the 1735 blockhouse can still be identified by archaeologists, though the casual visitor sees mostly grass and foundation outlines. What makes the site significant is not what survives above ground but what it represents: the contested boundary between two ways of life, two ideas of sovereignty, played out on a windswept island at the edge of the Atlantic. The Mi'kmaq fought to preserve agreements that the British broke. The British fought to protect a fishery that fed New England. Neither side could afford to lose, and the island changed hands accordingly -- built up, torn down, rebuilt, and destroyed again across three colonial wars before the contest moved elsewhere.
+
+## Flight Context
+
+Fort William Augustus stood on Grassy Island off Canso, Nova Scotia, at approximately 45.34°N, 60.97°W. The island is a small, low-lying landmass visible at the mouth of Canso Harbour on the northeastern tip of mainland Nova Scotia. The Canso Causeway connecting to Cape Breton Island is a prominent landmark to the northwest. Best viewed at 1,500-3,000 feet AGL to distinguish the island from the surrounding coastline. Nearest airport: Port Hawkesbury Airport (CYPD), approximately 30 km northwest. The Strait of Canso is an excellent visual navigation reference.
+
+## Sources
+
+- [Fort William Augustus - Wikipedia](https://en.wikipedia.org/?curid=42749017)
+  - Fort built 1720 confirmed
+  - Named after Prince William, Duke of Cumberland confirmed
+  - Also known as Fort Phillips confirmed
+  - Mi'kmaq attack August 7, 1720 confirmed: 60-75 Mi'kmaq, 3 killed, 4 wounded, 21 prisoners taken
+  - National Historic Site designated 1962 confirmed
+- [Parks Canada - Grassy Island Fort National Historic Site](https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=261)
+  - Grassy Island location confirmed
+  - Father Rale's War connection confirmed
+  - 1744 Raid on Canso destruction confirmed
+  - Remains of 1720 redoubt, 1723-24 fort, 1735 blockhouse confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 7 facts verified · 0 corrections
+
+All facts verified: 1720 construction, Mi'kmaq attack Aug 7 1720 (60-75 attackers), 3 killed 4 wounded, 21 prisoners, National Historic Site 1962, Father Rale's War connection, 1744 Raid on Canso destruction.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Frames British fort construction as a deliberate treaty violation
+- Characterizes the cycle of attack-and-response as self-reinforcing
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

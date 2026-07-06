@@ -1,0 +1,59 @@
+# Kyai Gede Mosque
+
+A 350-year-old mosque built entirely of ironwood on the banks of the Lamandau River marks the spot where a Javanese cleric founded a sultanate in the jungles of Central Kalimantan.
+
+**Location:** -2.4858, 111.4443
+
+**Categories:** Javanese culture, Cultural Properties of Indonesia in Kalimantan, Mosques in Central Kalimantan
+
+## Introduction
+
+Somewhere around 1675, a Javanese cleric arrived at a small settlement on the Lamandau River in the interior of Borneo. He had left the Demak Sultanate after a conflict with its sultan, traveled to the Sultanate of Banjar in southern Kalimantan, and been sent westward by Sultan Mustain Billah to expand Banjarese influence. His name -- or at least the title history remembers him by -- was Kyai Gede, Javanese for "great kyai," a term of deep respect for an Islamic teacher. The mosque he built still stands, constructed entirely of ulin ironwood, its three-tiered roof rising above the riverbank as it has for more than three centuries.
+
+## An Exile's Mission Upriver
+
+The story of the Kyai Gede Mosque is inseparable from the story of the man himself. After his break with the Sultan of Demak -- the details of the conflict lost to time -- Kyai Gede traveled to the Sultanate of Banjar, the dominant Malay power in southern Kalimantan. Sultan Mustain Billah recognized his abilities and gave him a mission: journey upstream along the Lamandau River and extend Banjarese authority into the western interior. When Kyai Gede reached the settlement of Kotawaringin, he found a community led by seven brothers known as the Demang. Rather than conquering, he won the townspeople over by resolving local disputes and staying to teach Islam. In time, Kyai Gede and a local prince, Adipati Antakesuma, decided to formalize what had grown organically: they established the Sultanate of Kotawaringin, complete with a palace and a mosque.
+
+## Every Plank of Ironwood
+
+The mosque that Kyai Gede built -- assumed to date from after 1675, when Pangeran Antakusuma became ruler -- is remarkable for its material consistency. It is constructed entirely of ulin wood, the Bornean ironwood known scientifically as Eusideroxylon zwageri. Floor, walls, roof frames, shingles: everything is ulin. This is a timber of extraordinary density and durability, resistant to rot, insects, and the relentless tropical humidity that degrades lesser materials within decades. The mosque proper is a square measuring roughly 15.5 by 15.5 meters, elevated on a one-meter wooden platform. Four saka guru -- the great central pillars of traditional Javanese mosque architecture -- support three tiers of wooden pyramidal roofing. The posts rest on wooden bases rather than being driven into the ground, a design choice that protects them from moisture and allows the structure to breathe.
+
+## Banjarese Roots, Demak Echoes
+
+Architecturally, the Kyai Gede Mosque represents the Banjarese variation of Javanese mosque design, a tradition that traces its lineage to the Great Mosque of Demak, one of the oldest mosques in Java. The Banjarese style diverges in telling ways. Where Javanese mosques feature relatively low-angled roofs, the Banjarese version steepens the uppermost tier dramatically, giving the silhouette a sharper, more vertical profile. The serambi -- the roofed porch that is a standard feature of Javanese mosques -- is absent entirely. Scholars have noted similarities between Banjarese mosques and those found in West Sumatra and peninsular Malaysia, suggesting a network of architectural exchange across the Malay world. At the Kyai Gede Mosque, foliage-like finials crown each corner of the roofline and the peak of the uppermost tier, a decorative touch that softens the building's angular geometry.
+
+## Centuries of Community Care
+
+The mosque has survived not through institutional preservation but through the persistent devotion of the people of Kotawaringin. In 1951, community fundraising paid for a new terrace and restored roof shingles. In 1968, a roof was added over the outward-protruding minbar, though this was later removed to return the mosque to its original appearance. Between 1980 and 1981, the Lamandau riverbank was reinforced with paving to protect the structure from erosion -- a reminder that the mosque has always existed in conversation with the river beside it. Further restorations followed in 1982-1983 and 1985-1986. Each intervention has been careful, aimed at preservation rather than transformation. The people who maintain it understand what they are keeping alive: not just a building, but the founding gesture of their community.
+
+## A Living Foundation
+
+Today, the Kyai Gede Mosque is both a historical monument and a functioning house of worship. The people of Kotawaringin still gather here for prayer and Islamic instruction, continuing a tradition that Kyai Gede himself established when he first settled among the seven brothers of Demang and began teaching. Sultan Mustain Billah honored him with the titles Patih Hamengubumi and Adipati Gede Ing Kotawaringing for his services in spreading Islam and founding the sultanate. Those titles have faded from use, but the mosque endures -- every ulin plank still holding firm, every tier of the pyramidal roof still rising above the Lamandau, a three-and-a-half-century-old testament to ironwood and faith.
+
+## Flight Context
+
+Located at 2.486S, 111.444E near the town of Kotawaringin Lama on the Lamandau River in West Kotawaringin Regency, Central Kalimantan, Indonesia. The mosque sits on the riverbank and is identifiable from low altitude by its distinctive three-tiered pyramidal roof. The surrounding terrain is flat tropical lowland with dense vegetation. Nearest airports include Iskandar Airport in Pangkalan Bun (WAOI), approximately 25 km to the south. Expect tropical conditions year-round with high humidity and frequent rain.
+
+## Sources
+
+- [Kyai Gede Mosque - Wikipedia](https://en.wikipedia.org/?curid=55853269)
+  - Founded ~1675 by Kyai Gede from Demak Sultanate confirmed
+  - Sent by Sultan Mustain Billah of Banjar confirmed
+  - Built entirely of ulin/Eusideroxylon zwageri ironwood confirmed
+  - Square structure approximately 15.5 x 15.5 meters confirmed
+  - Four saka guru central pillars supporting three-tiered roof confirmed
+  - 1951 community restoration with new terrace and roof shingles confirmed
+  - 1968 minbar roof addition (later removed) confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 7 facts verified · 0 corrections
+
+Founding ~1675 confirmed; ulin/Eusideroxylon zwageri ironwood construction confirmed; 15.5x15.5m dimensions confirmed; four saka guru pillars confirmed; 1951 and 1968 restoration dates confirmed; Sultan Mustain Billah of Banjar confirmed
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

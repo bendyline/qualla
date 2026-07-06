@@ -334,5 +334,24 @@
     "_m/s/r/v/1/sarajevo-haggadah-wp/donor-plaque-of-sarajevo-hagga.jpg",
     "_m/s/r/v/1/sarajevo-haggadah-wp/sarajevohaggadah.png"
   ],
-  "updatedAt": "2026-03-31T10:10:26.418Z"
+  "updatedAt": "2026-03-31T10:10:26.418Z",
+  "narration": {
+    "files": [
+      "srv1-sarajevo-flight-context.mp3",
+      "srv1-sarajevo-intro.mp3",
+      "srv1-sarajevo-where-the-empires-overlapped.mp3",
+      "srv1-sarajevo-the-shot-the-games-the-siege.mp3",
+      "srv1-sarajevo-bascarsija-after-dark.mp3",
+      "srv1-sarajevo-the-mountains-that-embraced-and-trapped.mp3"
+    ],
+    "durations": {
+      "srv1-sarajevo-flight-context.mp3": 55.216875,
+      "srv1-sarajevo-intro.mp3": 60.5844583,
+      "srv1-sarajevo-where-the-empires-overlapped.mp3": 73.0479166,
+      "srv1-sarajevo-the-shot-the-games-the-siege.mp3": 77.313125,
+      "srv1-sarajevo-bascarsija-after-dark.mp3": 68.8832083,
+      "srv1-sarajevo-the-mountains-that-embraced-and-trapped.mp3": 71.4598333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

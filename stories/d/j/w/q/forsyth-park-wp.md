@@ -1,0 +1,69 @@
+# Forsyth Park: Savannah's Green Heart
+
+Savannah's iconic thirty-acre park, home to the most photographed fountain in Georgia - cast by the same ironworks that built the Capitol dome - and the backdrop for Forrest Gump, Midnight in the Garden of Good and Evil, and 180 years of Southern life.
+
+**Location:** 32.0676, -81.0963
+
+**Categories:** georgia, urban-park, historic-district, savannah, fountain
+
+## Introduction
+
+Every St. Patrick's Day, they turn the fountain green. It is a perfectly Savannah gesture - equal parts reverence and mischief, applied to a cast-iron fountain installed in 1858 and modeled after the fountains at the Place de la Concorde in Paris. Forsyth Park occupies thirty acres in Savannah's historic district, and that fountain anchors the whole composition. It was manufactured by Janes, Beebe & Company, an iron foundry in the Bronx whose other credits include structural work for the U.S. Capitol dome and railings for the Brooklyn Bridge. In Savannah, their creation has become the city's signature image - more photographed than any of the twenty-two squares, more recognized than any single building in the historic district.
+
+## Oglethorpe's Vision, Forsyth's Name
+
+The park traces its origins to the 1840s, when William Brown Hodgson donated land that would become its first acres. In 1851, the park was expanded and named for Georgia Governor John Forsyth. But its existence was anticipated decades earlier by General James Oglethorpe's original city plan - the famous grid of wards and squares that makes Savannah's historic district one of the most celebrated pieces of urban planning in America. By 1853, all of Oglethorpe's original planned wards were occupied, and the city was growing south. An 18.9-acre parcel was added as a Military Parade Ground, officially transferred to the Military Captains Association in 1859. The arrangement was practical: the military got a permanent drill ground, and the city gained public green space. Volunteer companies held regimental drills on the extension while civilians enjoyed the shaded paths to the north. That dual identity - military ground and pleasure garden - persisted through ordinances in 1914 and 1923.
+
+## The Fountain That Connects Two Continents
+
+The Forsyth Park Fountain sits on a direct line along the Bull Street corridor, the central spine of Savannah's grid. Installed in 1858, its design by John Howard draws from the work of French sculptor Michel Lienard and deliberately echoes Parisian urbanism - at the time, the model for building residential neighborhoods radiating from central green spaces was being exported from Paris to cities across the world. Identical versions of this fountain exist in Poughkeepsie, New York; Madison, Indiana; and Cuzco, Peru. But Savannah's is the most famous. The fountain appears in film after film: The Longest Yard, Cape Fear, Forrest Gump, and Midnight in the Garden of Good and Evil. It underwent a major restoration beginning in June 2025, completed six months later. The ironwork endures because the foundry that cast it - Janes, Beebe & Company, owned by Adrian Janes - built things to last. When you build the Capitol dome and the Brooklyn Bridge railings, a park fountain is not where you cut corners.
+
+## Monuments to Soldiers
+
+Forsyth Park carries the weight of multiple wars. The Confederate Memorial, built in 1874, was one of the first and largest in Georgia. The bronze statue of a Confederate soldier was added in 1879. At the park's southern end stands "The Hiker," officially called "The Georgia Volunteer" - a statue by sculptor Theo Alice Ruggles Kitson commemorating soldiers who fought in the Spanish-American War, the Boxer Rebellion, and the Philippine-American War. The first version was created for the University of Minnesota in 1906. Savannah's copy was erected because the city contributed more Spanish-American War soldiers per capita than any other city in Georgia. In January 2025, a drunk driver crashed into the statue, damaging it. The piece was restored and returned to the park by July 2025. Nearby Bonaventure Cemetery maintains the nation's second-largest area dedicated to Spanish-American War dead, connecting the park's memorials to a broader landscape of remembrance.
+
+## A Literary Park
+
+John Berendt lived in the Forsyth Park Apartments, in the southwestern corner of the park, while writing his 1994 bestseller "Midnight in the Garden of Good and Evil." The book spent four years on the New York Times bestseller list and transformed Savannah into a literary tourism destination. The fountain, the squares, the moss-draped oaks - Berendt captured the atmosphere that makes Forsyth Park feel like a stage set for Southern gothic storytelling. The park's surroundings reinforce the effect. The ten blocks flanking the northern half are noted as historic structures by the Chatham County-Savannah Metropolitan Planning Commission, falling across four wards: Monterey, Calhoun, Forsyth, and Chatham. The architecture is a catalog of nineteenth-century Southern styles. Walking the perimeter of Forsyth Park is a survey course in antebellum and Victorian Savannah.
+
+## The Living Park
+
+Forsyth Park today is bounded by Gaston Street to the north, Drayton Street to the east, Park Avenue to the south, and Whitaker Street to the west. Within those borders, the park holds walking paths, a children's play area, tennis and basketball courts, soccer fields, and a Fragrant Garden designed for the blind. The Savannah Shamrocks Rugby Club uses it as their home field. Concerts draw crowds under the oaks. The park functions as Savannah's living room - the place where residents walk dogs, throw frisbees, and gather for events ranging from the Savannah Jazz Festival to Saturday morning farmers markets. Beneath the casual atmosphere lies nearly two centuries of deliberate design, from Oglethorpe's original grid to the Parisian fountain to the military parade ground that became a public playground. Every layer of Savannah's history is compressed into these thirty acres.
+
+## Flight Context
+
+Located at 32.07°N, 81.10°W in the southern portion of Savannah's historic district. Forsyth Park is clearly identifiable from the air as a large rectangular green space, approximately thirty acres, contrasting sharply with the surrounding urban grid of streets and buildings. The park sits along the Bull Street corridor, the central north-south axis of Savannah's famous planned grid. The fountain is not visible at altitude, but the park's distinctive shape and tree canopy are unmistakable. The park lies about 1.5 miles south of the Savannah River waterfront. Savannah/Hilton Head International Airport (KSAV) is approximately 10 miles to the northwest. Best viewed at 2,000-3,000 feet when the contrast between the park's canopy and the surrounding historic architecture is most dramatic.
+
+## Sources
+
+- [Forsyth Park - Wikipedia](https://en.wikipedia.org/?curid=2673184)
+  - Fountain installed 1858 by Janes, Beebe & Company
+  - Fountain design derived from Michel Lienard, echoing Place de la Concorde
+  - Park named for Governor John Forsyth in 1851
+  - William Brown Hodgson donated original 10 acres in 1840s
+  - Identical fountains exist in Poughkeepsie, Madison, and Cuzco
+  - Confederate Memorial built 1874, bronze soldier added 1879
+  - 18.9-acre Military Parade Ground added as extension
+- [The Hiker (Kitson) - Wikipedia](https://en.wikipedia.org/wiki/The_Hiker_(Kitson))
+  - Theo Alice Ruggles Kitson sculptor of The Hiker
+  - First version unveiled at University of Minnesota 1906
+  - Commemorates Spanish-American War, Boxer Rebellion, Philippine-American War
+- [Savannah Forsyth Fountain Restoration Project - City of Savannah](https://www.savannahga.gov/4152/Forsyth-Fountain-Restoration-Project)
+  - Major restoration began June 2025
+  - Fountain returned September 2025, project completed by October 2025 (not six months as stated)
+- [Spanish-American War statue returns to Forsyth Park - The Current GA](https://thecurrentga.org/2025/07/15/spanish-american-war-statue-returns-to-forsyth-park-after-repair/)
+  - Drunk driver damaged The Hiker statue in January 2025
+  - Statue restored and returned to park by July 2025
+
+## Review Notes
+
+**Reviewed:** 2026-02-17 · 14 facts verified · 0 corrections
+
+All major facts verified. Minor imprecision: fountain restoration described as 6 months but was ~4 months (June-Oct 2025). The Hiker first version date (1906) refers to unveiling not creation (1902). Spiciness 2/5. Engaging tone without strong opinions.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 5 minutes*

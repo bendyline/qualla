@@ -261,5 +261,26 @@
     "_m/d/r/7/2/central-park-wp/strawberry-fields-cent.jpg",
     "_m/d/r/5/r/murder-of-john-lennon-wp/imagine-peace-tower-vi.jpg",
     "_m/d/r/5/r/murder-of-john-lennon-wp/new-york-city-police-d.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr5r-murder-of-john-lennon-flight-context.mp3",
+      "dr5r-murder-of-john-lennon-intro.mp3",
+      "dr5r-murder-of-john-lennon-the-man-with-the-paperback.mp3",
+      "dr5r-murder-of-john-lennon-five-shots-in-the-archway.mp3",
+      "dr5r-murder-of-john-lennon-a-monday-night-in-america.mp3",
+      "dr5r-murder-of-john-lennon-the-world-responds.mp3",
+      "dr5r-murder-of-john-lennon-the-silence-and-after.mp3"
+    ],
+    "durations": {
+      "dr5r-murder-of-john-lennon-flight-context.mp3": 48.8283333,
+      "dr5r-murder-of-john-lennon-intro.mp3": 37.5257916,
+      "dr5r-murder-of-john-lennon-the-man-with-the-paperback.mp3": 55.5849583,
+      "dr5r-murder-of-john-lennon-five-shots-in-the-archway.mp3": 57.3094166,
+      "dr5r-murder-of-john-lennon-a-monday-night-in-america.mp3": 59.7275,
+      "dr5r-murder-of-john-lennon-the-world-responds.mp3": 55.850375,
+      "dr5r-murder-of-john-lennon-the-silence-and-after.mp3": 58.8047083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

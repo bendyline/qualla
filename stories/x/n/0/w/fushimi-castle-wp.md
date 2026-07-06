@@ -1,0 +1,69 @@
+# Fushimi Castle: Blood Ceilings and a Golden Tea Room
+
+The retirement palace of Japan's most powerful warlord gave its name to an entire historical era, was destroyed by earthquake and siege, and lives on through blood-stained ceilings scattered across Kyoto's temples.
+
+**Location:** 34.9375, 135.7812
+
+**Categories:** castle, historic-site, military-history, kyoto, japan
+
+## Introduction
+
+Several temples in Kyoto have ceilings stained dark reddish-brown with centuries-old blood. The boards were once the floor of a corridor at Fushimi Castle, where samurai loyal to Tokugawa Ieyasu committed seppuku in 1600 after an eleven-day siege breached the walls. When the castle was dismantled in 1623, those bloodied floorboards were installed as ceilings in temples like Yogen-in, Genko-an, and Hosen-in -- placed overhead so that worshippers would look up and remember the sacrifice. The castle that produced those relics had one of the strangest biographies in Japanese architecture: built as a retirement palace with a room covered entirely in gold leaf, leveled by an earthquake after just two years, rebuilt as a fortress, besieged in one of the pivotal battles of Japanese history, demolished, and eventually replaced by a concrete replica that became a theme park attraction called Castle Land.
+
+## A Warlord's Gilded Retirement
+
+In 1592, the year after stepping down from the regency, Toyotomi Hideyoshi began construction of Fushimi Castle as his retirement residence. Twenty provinces contributed between 20,000 and 30,000 laborers, and the project was completed in 1594. Though the structure bore the martial architecture of a Japanese castle -- stone walls, watchtowers, defensive gates -- its interior was pure luxury. The most famous room was the Golden Tea Room, where both the walls and the tea implements were covered in gold leaf. Hideyoshi intended the castle as the venue for peace negotiations with Chinese diplomats seeking to end the Seven-Year War in Korea. Fushimi-Momoyama, as the castle was also known, became so emblematic of its era that historians named the entire period after it: the Azuchi-Momoyama period, one of the defining chapters of Japanese history.
+
+## Two Years and an Earthquake
+
+The castle stood for barely two years. In 1596, the Keicho-Fushimi earthquake struck, destroying the structure entirely. Hideyoshi rebuilt it soon after, but the rebuilt castle would serve a very different purpose from the gilded retirement palace he had originally envisioned. After Hideyoshi's death in 1598, control of Fushimi Castle passed to Torii Mototada, a vassal of the rising Tokugawa Ieyasu. The castle was no longer a place for golden tea ceremonies -- it was a military fortress positioned at a critical junction of power in the struggle that would determine who ruled Japan.
+
+## Eleven Days That Changed Japan
+
+In 1600, Ishida Mitsunari led a massive army against Fushimi Castle. Torii Mototada knew the siege was coming and knew he could not win. His purpose was delay -- to hold the castle long enough for his lord Tokugawa Ieyasu to gather his own forces. Torii defended Fushimi for eleven days in what became one of the most celebrated acts of samurai loyalty in Japanese history. When the castle's defenses were finally breached, the surviving garrison members committed seppuku rather than surrender. The delay proved decisive. It gave Tokugawa the time to assemble the army that won the Battle of Sekigahara shortly afterward -- the battle that effectively ended Japan's age of warring states and established the Tokugawa shogunate, which would rule for more than 250 years.
+
+## Scattered Across Kyoto
+
+In 1623, Fushimi Castle was dismantled. But unlike most demolished structures, its components did not vanish. Rooms and architectural elements were distributed to castles and temples throughout Japan. The most haunting relics are the blood ceilings -- chi-tenjo -- installed in several Kyoto temples. At Yogen-in, Genko-an, and Hosen-in, visitors can look up and see the dark stains left by the corridor where Torii's men made their final stand. The boards were deliberately placed as ceilings so they could not be stepped on, a gesture of respect for the dead. Some of the castle's ornamental gates were relocated as well, including a karamon gate that was moved to Nishi Hongan-ji temple, where it remains today.
+
+## From Emperor's Tomb to Castle Land
+
+In 1912, the original castle site gained a solemn new purpose: it became the burial ground for Emperor Meiji, the leader who had transformed Japan from a feudal society into a modern nation. The castle itself was not rebuilt until 1964, when a concrete replica was constructed near the original site. The replica served as a museum dedicated to Hideyoshi's life and campaigns, and became the centerpiece of a small theme park called Castle Land. The park operated until 2003, when it closed to the public. The grounds were reopened in 2007, but the concrete castle remains closed. What stands there today is a strange layering of Japanese history: the grave of a modernizing emperor on the site of a warlord's golden retirement palace, with a concrete replica nearby that once hosted theme park visitors.
+
+## Flight Context
+
+Located at 34.9375N, 135.7812E in Fushimi Ward, southern Kyoto. The concrete replica castle with its distinctive Japanese castle architecture is visible from the air, sitting among the forested hills near Emperor Meiji's tomb (Fushimi Momoyama no Misasagi). Best viewed at 2,000-3,000 feet AGL. The site is roughly 3 kilometers south of central Kyoto. Nearest major airports: Osaka Itami (RJOO) approximately 25 nautical miles southwest, Kansai International (RJBB) approximately 50 nautical miles south.
+
+## Sources
+
+- [Fushimi Castle - Wikipedia](https://en.wikipedia.org/?curid=870402)
+- [Wikipedia - Fushimi Castle](https://en.wikipedia.org/wiki/Fushimi_Castle)
+  - Construction began 1592 and completed 1594 with 20,000-30,000 laborers from twenty provinces
+  - Keicho-Fushimi earthquake of 1596 destroyed the castle
+  - Torii Mototada defended the castle for eleven days in 1600 before garrison committed seppuku
+  - Castle dismantled in 1623; blood-stained floorboards installed as ceilings in Kyoto temples including Yogen-in, Genko-an, Hosen-in
+  - Karamon gate relocated to Nishi Hongan-ji
+  - Emperor Meiji's tomb placed on the site; concrete replica built 1964; Castle Land theme park closed 2003; grounds reopened 2007
+  - Azuchi-Momoyama period named partly for this castle (along with Oda Nobunaga's Azuchi Castle)
+- [The Blood-Stained Ceilings of Kyoto's Temples - Amusing Planet](https://www.amusingplanet.com/2018/05/the-blood-stained-ceilings-of-kyotos.html)
+  - Blood ceilings (chi-tenjo) installed in five Kyoto temples: Yogen-in, Genko-an, Shoden-ji, Hosen-in, Myoshinji
+  - Boards placed overhead as ceilings so they could not be stepped on, as gesture of respect
+
+## Review Notes
+
+**Reviewed:** 2026-02-18 · 12 facts verified · 0 corrections
+
+All key facts verified: construction dates 1592-1594, 1596 earthquake, 11-day siege by Torii Mototada in 1600, blood ceilings at 5 temples (story lists 3 correctly as 'several'), karamon gate to Nishi Hongan-ji, Castle Land closed 2003, grounds reopened 2007. Note: Azuchi-Momoyama period named for TWO castles (Azuchi + Fushimi/Momoyama) - story says 'historians named the entire period after it' which is slightly imprecise but not incorrect as Fushimi is one of the two namesakes. Spiciness 3: dramatic macabre hook, editorial framing of layered history.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Describes Castle Land as a 'theme park attraction' in a slightly diminishing tone
+- Calls the modern site 'a strange layering of Japanese history' -- editorial framing
+- Opening hook with blood-stained ceilings is deliberately dramatic and macabre
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

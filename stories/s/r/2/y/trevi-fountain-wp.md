@@ -1,0 +1,59 @@
+# Trevi Fountain
+
+Rome's largest Baroque fountain stands at the terminus of a 2,000-year-old aqueduct, collecting roughly 3,000 euros in tossed coins each day while Oceanus commands his chariot from the palace wall behind.
+
+**Location:** 41.9008, 12.4831
+
+**Categories:** fountain, rome, baroque, architecture, landmark
+
+## Introduction
+
+Every day, roughly 3,000 euros rain into the turquoise water of the Trevi Fountain. Tourists line up, turn their backs, and toss coins over their left shoulders with their right hands, buying themselves a superstition: throw one coin, and you will return to Rome. The ritual is modern, popularized by a 1954 film, but the water beneath those coins is ancient. It arrives through the Acqua Vergine, a channel first built in 19 BC to feed the Baths of Agrippa. The fountain is where two millennia of Roman engineering surface into the open air, crash over sculpted rock, and invite you to make a wish.
+
+## Virgin Water
+
+The name Acqua Vergine comes from a legend: Roman technicians, searching for a pure water source, were led to one by a young virgin some 13 kilometers from the city. The aqueduct they built ran an indirect 22 kilometers before reaching Rome. It served the city for over 400 years before the Ostrogoths damaged the system during their siege in 537 AD. But unlike Rome's other aqueducts, the Acqua Vergine never fully died. Restorations in the 8th and 12th centuries kept it flowing through the Middle Ages. Today, the same channel still carries calcium-free water to the fountain, making it one of the longest continuously used water systems in the Western world. The name "Trevi" derives from the Latin trivium, meaning the junction of three streets, which is precisely where the fountain sits.
+
+## A Pope's Ambition, an Architect's Obsession
+
+In 1629, Pope Urban VIII declared the existing fountain at the trivium insufficiently dramatic and commissioned Gian Lorenzo Bernini to reimagine it. Bernini sketched plans, but the pope died before work could begin, and the project stalled for decades. When construction finally started in 1732 under architect Nicola Salvi, Bernini's influence persisted in the theatrical fusion of architecture and sculpture. Salvi built the fountain into the rear wall of the Palazzo Poli, transforming an entire palace facade into a stage for water. He died in 1751 with the work half finished, but not before settling a personal grudge: a barber's sign that marred his sightlines was hidden behind a sculpted vase the Romans nicknamed the Ace of Cups for its resemblance to a Tarot card. Four sculptors completed the decorative work, and Giuseppe Pannini finished the fountain in 1762. Pope Clement XIII inaugurated it on May 22 of that year.
+
+## Oceanus at the Center
+
+The fountain's central figure is Oceanus, sculpted by Pietro Bracci, standing in a shell chariot pulled by two hippocamps guided by tritons. One horse is calm, the other wild, representing the contrasting moods of the sea. The entire composition tumbles forward from the Palazzo Poli's facade, which was rebuilt with a giant order of Corinthian pilasters linking its two main stories. Rockwork and cascading water fill the small piazza, blurring the line between architecture and nature. The piece is carved primarily from travertine stone quarried near Tivoli, about 35 kilometers east of Rome. Standing 26.3 meters high and stretching 49.15 meters wide, it remains the largest Baroque fountain in the city. The theme is the taming of the waters, and the fountain makes the case dramatically, turning a public utility into mythology.
+
+## Coins, Cinema, and the Sweet Life
+
+The coin-tossing tradition was cemented in popular culture by the 1954 film Three Coins in the Fountain, whose Academy Award-winning title song became a standard. But the fountain's most iconic cinematic moment came six years later, when Anita Ekberg waded into the basin in Federico Fellini's La Dolce Vita, with Marcello Mastroianni following her. That scene defined an era. The fountain has since appeared in Roman Holiday, The Lizzie McGuire Movie, and dozens of other films. In 2016, an estimated 1.4 million euros were thrown into the water. The money is collected and donated to Caritas, which uses it for charitable work. By late 2024, Rome implemented a queuing system with a cap of 400 visitors at a time, an acknowledgment that the fountain's fame had begun to overwhelm the small piazza it occupies.
+
+## Restoration and Resilience
+
+Time and pollution have tested the fountain repeatedly. Major restorations in 1988 and 1998 scrubbed away smog discoloration, repaired cracks, and added recirculating pumps. The most extensive restoration ran from June 2014 to November 2015, reopening with a ceremony that included the installation of more than 100 LED lights for nighttime illumination. In May 2023, climate activists from Ultima Generazione dyed the fountain's water with charcoal, requiring the draining and replacement of 300,000 liters of recirculated water. The fountain endures these assaults as it has endured centuries of weather, earthquakes, and the weight of its own fame. The water still flows through the channel a Roman virgin supposedly revealed, still crashes over Salvi's rocks, still catches the coins of strangers who believe that a wish and a toss can bring them back to Rome.
+
+## Flight Context
+
+The Trevi Fountain (41.90N, 12.48E) is located in central Rome's Trevi district. The fountain is nestled in a small piazza at the junction of three streets and is difficult to spot from altitude due to surrounding buildings. Rome Fiumicino Airport (LIRF) is 30km southwest; Ciampino (LIRA) is 15km southeast. The area is in the heart of Rome's historic center, near the Quirinal Palace and Piazza Venezia.
+
+## Sources
+
+- [Trevi Fountain - Wikipedia](https://en.wikipedia.org/?curid=335740)
+  - Acqua Vergine aqueduct first built 19 BC to supply Baths of Agrippa
+  - Acqua Vergine runs 22 kilometers (indirect route) confirmed
+  - Construction started 1732, Nicola Salvi died 1751, Giuseppe Pannini finished 1762 confirmed
+  - Fountain 26.3m high, 49.15m wide - largest Baroque fountain in Rome confirmed
+  - Three Coins in the Fountain (1954 film) won Academy Award for Best Original Song confirmed
+  - La Dolce Vita (Fellini) features Anita Ekberg in the fountain
+  - Coin donations go to Caritas
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 9 facts verified · 0 corrections
+
+Verified: Acqua Vergine 19 BC for Baths of Agrippa, 22km indirect route, Salvi 1732-1751, Pannini completed 1762, dimensions 26.3m high 49.15m wide confirmed, coin-tossing film Three Coins in Fountain (1954) won Academy Award for Best Original Song, Ekberg in La Dolce Vita. All facts confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 810*
+*Read time: 4 minutes*

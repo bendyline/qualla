@@ -1,0 +1,52 @@
+# Erie Canal
+
+The audacious 363-mile ditch across New York State that connected the Atlantic to the Great Lakes, made New York City the nation's premier port, and changed the trajectory of American expansion.
+
+**Location:** 42.7834, -73.6767
+
+**Categories:** history, engineering, canal, transportation, new-york, 19th-century
+
+## Introduction
+
+Jesse Hawley wrote his most consequential work from a debtors' prison cell. A grain merchant in Canandaigua, New York, Hawley had gone bankrupt trying to ship western New York grain to the coast -- the overland costs simply ate the profits. Sitting in jail, he began publishing essays arguing for a canal along the Mohawk River Valley, the one natural break in the Appalachian Mountains north of Alabama. President Thomas Jefferson read the proposal and called it "little short of madness." He was wrong. Completed in 1825, the Erie Canal slashed transportation costs by 95 percent, cut the travel time from New York to Cleveland from two and a half weeks to days, and transformed a young republic's geography of ambition. It was, at the time, the second-longest canal in the world, behind only China's Grand Canal.
+
+## Clinton's Big Ditch
+
+The idea had floated around New York for decades before anyone took it seriously. As early as 1724, provincial official Cadwallader Colden noted the potential of improving western New York's waterways. Gouverneur Morris and Elkanah Watson pushed the concept in the 1790s, leading to the creation of navigation companies that took first steps but ran out of private capital. The breakthrough came when Hawley's prison essays caught the attention of Governor DeWitt Clinton. Opponents mocked the project as "Clinton's Folly" and "Clinton's Big Ditch." In 1817, Clinton secured $7 million from the state legislature -- a staggering sum for the era. Construction began that same year. The surveyors who laid out the route, James Geddes and Benjamin Wright, were not engineers but judges whose surveying experience came from settling boundary disputes. Geddes had used a surveying instrument for only a few hours before starting work on the canal.
+
+## Blasting Through Stone
+
+Building the canal meant cutting a channel 40 feet wide and 4 feet deep across 363 miles of New York terrain. Irish immigrants, roughly 5,000 of them and mostly Catholic in a Protestant country, formed a large portion of the labor force and faced violent prejudice along the way. The middle section from Utica to Syracuse opened first in 1820, and traffic started immediately. The eastern stretch to Albany opened in 1823. The hardest challenges lay west. Near Rochester, crews built the Great Embankment to carry the canal high above Irondequoit Creek, then crossed the Genesee River on a stone aqueduct supported by eleven arches. In 1823, construction reached the Niagara Escarpment -- a sheer wall of dolomitic limestone. Two sets of five locks, carved along a ravine, gave rise to the community of Lockport. The final stretches required blasting through the Onondaga limestone ridge with black powder; the inexperience of the crews led to frequent accidents and rocks tumbling onto nearby homes.
+
+## The Water That Made New York
+
+The entire canal opened on October 26, 1825, and toll revenue covered the state's construction debt within the first year. The impact was transformative. New York City vaulted past every other American port to become the gateway to the interior. Canal cities -- Albany, Utica, Syracuse, Rochester, Buffalo -- boomed. Buffalo grew from 200 settlers in 1820 to over 18,000 by 1840. Packet boats carried passengers at speeds that put stagecoaches to shame, accommodating up to 40 travelers at night and three times that by day. The canal opened eastern and overseas markets to Midwestern farm products, effectively making the port of New York the Atlantic home port for the entire Midwest. Repeal of Britain's Corn Laws sent waves of exported wheat flowing eastward along the Erie. The canal's $7 million construction loan was paid off by 1837. Its success prompted a rash of canal-building across the nation, and concern that logging-caused erosion in the Adirondacks might silt up the canal contributed to the creation of Adirondack Forest Preserve in 1885.
+
+## Rails, Roads, and Decline
+
+The canal's peak year was 1855, when 33,000 commercial shipments passed through its locks. Even as late as 1852, it carried thirteen times more freight than all of New York's railroads combined. But the Mohawk and Hudson Railroad had opened in 1837, and the relentless expansion of rail eventually pulled passengers away and began eating into freight traffic. Tolls were abolished in 1883. A major expansion from 1905 to 1918 rebuilt the canal as the New York State Barge Canal, widening and deepening it while abandoning more than half the original route. Freight reached 5.2 million tons by 1951, but the opening of the St. Lawrence Seaway in 1959 and the growth of the Interstate Highway System dealt fatal blows to commercial traffic. The last regularly scheduled hauler, the Day Peckinpaugh, ended service in 1994.
+
+## A Living Landmark
+
+Today the Erie Canal carries recreational boats, cyclists on the 360-mile Canalway Trail, and tourists from around the world. Its 35 locks still operate from May through November, including the Waterford Flight -- one of the steepest lock sequences on Earth. The canal system generates an estimated $6.2 billion in annual economic impact, and about 75 percent of central and western New York's population lives near its banks. Congress designated the Erie Canalway National Heritage Corridor in 2000. Stretches of the old canal have been repurposed: Erie Boulevard in Syracuse, Broad Street in Rochester, and the Rochester Subway all trace the original route. A 36-mile section from DeWitt to Rome is preserved as the Old Erie Canal State Historic Park. Herman Melville, Nathaniel Hawthorne, Harriet Beecher Stowe, and Mark Twain all wrote about the canal. Thomas S. Allen memorialized its mule-drawn heyday in the 1905 song "Low Bridge, Everybody Down." The ditch that Jefferson called madness became the waterway that built a nation.
+
+## Flight Context
+
+The Erie Canal runs 363 miles east-west across New York State from Albany (42.65N, 73.75W) to Buffalo (42.88N, 78.88W), following the Mohawk River Valley -- the only natural gap in the Appalachians visible from altitude. The canal is recognizable from the air as a narrow waterway paralleling the Mohawk River and the New York State Thruway (I-90). Key landmarks: the Waterford Flight of locks near Troy; the canal crossing the Genesee River at Rochester; Lockport where the canal descends the Niagara Escarpment. The terrain transitions from the Hudson Valley lowlands to rolling Finger Lakes country to the Lake Erie plain. Nearest major airports: Albany International (KALB), Syracuse Hancock (KSYR), Greater Rochester (KROC), Buffalo Niagara (KBUF). Best viewed at 3,000-5,000ft AGL following the Mohawk Valley corridor. The Canalway Trail is visible as a linear path along much of the route.
+
+## Sources
+
+- [Erie Canal - Wikipedia](https://en.wikipedia.org/?curid=10046)
+
+## Review Notes
+
+**Reviewed:** 2026-02-27 · 10 facts verified · 1 correction
+
+Corrected: Adirondack Park->Adirondack Forest Preserve (park formally created 1892). All other facts verified.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 860*
+*Read time: 4 minutes*

@@ -1,0 +1,67 @@
+# White Shoal Light
+
+The only barber-pole-striped lighthouse in the United States, White Shoal Light has guarded a treacherous Lake Michigan shoal since 1910 and become so iconic that it graces Michigan's 'Save Our Lights' license plate.
+
+**Location:** 45.8422, -85.1353
+
+**Categories:** lighthouses, great-lakes, historic-preservation, national-register
+
+## Introduction
+
+There is only one lighthouse in the United States painted like a barber pole. Rising from a submerged shoal west of the Mackinac Bridge in northern Lake Michigan, the White Shoal Light wears diagonal red and white candy-cane stripes that make it unmistakable from miles away -- by sea, by land, or by air. That bold daymark was no whim of fashion. It was engineered to be seen, a visual shout across open water warning mariners away from the shallow reef below. Commissioned in 1910, the lighthouse replaced a lightship that had guarded the same spot, and it has been an active aid to navigation ever since. Michigan claimed it as a state icon, stamping its silhouette on the "Save Our Lights" license plate. But White Shoal is more than a pretty paint job. Inside that striped tower sits an engineering story that begins with a crib pier built in St. Ignace and a French lens floating on liquid mercury.
+
+## Building on Water
+
+Construction of White Shoal Light began in 1908, replacing Lightship LV56 that had bobbed on station for years. Building a permanent lighthouse miles from shore on a submerged shoal was, as engineers of the era described it, a "major engineering feat" -- comparable in difficulty to the construction of nearby Waugoshance Light decades earlier. Workers built the crib pier in St. Ignace, then transported it by ship to the site. The keeper's house, fog signal building, and tower all rose atop this artificial island. A diaphone fog signal was installed alongside a submersible bell that tolled the number 23 to warn approaching mariners, an audible precursor to the RACON radar technology that would later be installed at the same location. The final cost came in at $225,000, under the $250,000 budget -- a rare feat for any government construction project. The light was officially commissioned on September 1, 1910.
+
+## A Lens Floating on Mercury
+
+The heart of White Shoal Light was its optic: a massive 2nd Order Fresnel lens manufactured by Barbier, Benard & Turenne of Paris. The lens featured a bi-valve configuration with two sides, each containing seven refracting and fifteen reflecting prisms, all precisely arranged to focus the light into a beam visible for miles. What made the mechanism remarkable was its rotation system -- the entire lens assembly floated on a bed of liquid mercury, turned by a clockwork mechanism suspended in the tower. This nearly frictionless arrangement allowed the heavy glass apparatus to spin smoothly, generating 1.2 million candlepower. Similar lenses were installed at Grosse Point Light -- the only remaining 2nd Order Fresnel still operating on the Great Lakes -- and Rock of Ages Light. White Shoal's light was automated in 1976, ending the era of resident keepers.
+
+## The Candy-Cane Tower
+
+White Shoal Light stands alone among American lighthouses for its distinctive diagonal red and white striped daymark. While Cape Hatteras Light and St. Augustine Light sport black and white helical patterns, no other lighthouse in the country wears the bold candy-cane coloration that has made White Shoal famous. The aluminum-topped lantern room is equally singular -- it is the only aluminum-capped lighthouse on the Great Lakes, where cast iron is the norm. This combination of striking color and unusual materials has made White Shoal Light one of the most photographed, painted, and illustrated lighthouses in America. It has even been rendered in needlepoint. The State of Michigan recognized its power as a symbol and placed the lighthouse prominently on the "Save Our Lights" specialty license plate, the proceeds of which fund lighthouse preservation across the state. Michigan is the only state with such a program, providing annual grants to local preservation groups.
+
+## From Auction Block to Preservation
+
+In September 2016, the General Services Administration auctioned White Shoal Light. The winning bid of $110,009 came from the White Shoal Light Historical Preservation Society, based in Traverse City, Michigan. The Society took ownership and began offering public access -- boat tours ranging from short excursions to full-day trips with meals and even overnight stays at the lighthouse, beginning in July 2019. Michigan has more lighthouses than any other state -- over 150 past and present -- and the network of preservation societies, volunteers, and organizations working to maintain them is unmatched. The Michigan Lighthouse Conservancy and the Great Lakes Lighthouse Keepers Association both operate from within the state. White Shoal's survival is part of that larger effort, a commitment to keeping the lights that once guided Great Lakes commerce from disappearing into the water that surrounds them.
+
+## A Replica in the Desert
+
+In one of those delightful incongruities that make American geography interesting, a scaled-down replica of White Shoal Light stands not on the Great Lakes but in the Arizona desert. Built on Lake Havasu at Lake Havasu City -- the same town that purchased London Bridge -- the miniature lighthouse sits on the Lake Havasu Island Golf Course. Operational and equipped with a red light flashing sixty times per minute, it was dedicated on November 2, 2008, built by Jack Hensley and members of the Lake Havasu Lighthouse Club. The original, meanwhile, continues its work in far harsher conditions, its red and white stripes visible to anyone crossing northern Lake Michigan -- a barber pole standing watch where the water runs dangerously thin.
+
+## Flight Context
+
+White Shoal Light sits at approximately 45.8422N, -85.1353W in open water west of the Mackinac Bridge in northern Lake Michigan. From the air at 2,000-3,000 feet AGL, the distinctive red and white barber-pole stripes make this lighthouse one of the easiest to spot on the Great Lakes. The Mackinac Bridge is a major visual reference to the east. Nearby airports include Pellston Regional Airport (KPLN) about 18 nm to the southeast and Mackinac Island Airport (KMCD) roughly 14 nm east. The lighthouse is surrounded by open water with no nearby land -- approach from the south along the Lake Michigan shoreline for the best viewing angle. Fog is frequent in this area during spring and early summer.
+
+## Sources
+
+- [White Shoal Light (Michigan) - Wikipedia](https://en.wikipedia.org/?curid=13217990)
+  - Construction began 1908, commissioned September 1, 1910
+  - Final cost $225,000 under $250,000 budget
+  - 2nd Order Fresnel lens by Barbier, Benard & Turenne of Paris
+  - Bi-valve configuration with 7 refracting and 15 reflecting prisms per side
+  - Grosse Point Light is only remaining 2nd Order Fresnel on Great Lakes
+  - Automated in 1976
+  - Only barber-pole-striped lighthouse in the United States
+- [White Shoal Light Historical Preservation Society](https://www.preservewhiteshoal.org/about-us)
+  - GSA auction in September 2016
+  - Winning bid of $110,009 confirmed
+  - Organization name: White Shoal Light Historical Preservation Society, based in Traverse City MI
+  - 501c3 nonprofit established 2016
+- [Save Our Lights - Michigan Economic Development Corporation](https://www.miplace.org/historic-preservation/programs-and-services/save-our-lights/)
+  - Save Our Lights license plate proceeds fund lighthouse preservation grants annually
+  - Michigan Lighthouse Assistance Program awards competitive grants
+
+## Review Notes
+
+**Reviewed:** 2026-02-27 · 12 facts verified · 0 corrections
+
+All facts verified: 1910 commissioning, Fresnel lens specs, 10,009 GSA auction bid, Traverse City org, barber-pole claim. Michigan lighthouse count 'over 150 past and present' is defensible. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

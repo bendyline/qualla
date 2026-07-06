@@ -1,0 +1,58 @@
+# Smoo Cave
+
+Where the sea and a freshwater stream collide underground, Smoo Cave is Britain's largest sea cave entrance and a place where Norse sailors once repaired their boats.
+
+**Location:** 58.5631, -4.7200
+
+**Categories:** caves, geology, archaeology, Norse history, north coast Scotland
+
+## Introduction
+
+The name likely comes from the Old Norse smjuga, meaning a narrow cleft or hole, though some scholars favour the Gaelic smuid -- fine spray -- for the waterfall that crashes through the cave's interior. Either way, when you stand before the entrance of Smoo Cave near Durness on Scotland's north coast, vocabulary feels inadequate. The opening yawns 40 metres wide and 15 metres high, the largest sea cave entrance in the British Isles, set at the end of a 600-metre tidal gorge called Geodha Smoo that was itself once part of the cave before its roof collapsed. This is a place where two geological forces -- the Atlantic Ocean and an inland stream called the Allt Smoo -- have been working from opposite directions for millennia, and the result is unlike anything else in Britain.
+
+## Two Caves in One
+
+Smoo Cave is unique in the United Kingdom because it was formed by two entirely different mechanisms. The outer chamber was carved by the sea, pounding into Early Ordovician dolomites of the Durness Group along geological lines of weakness. The inner chambers, by contrast, are freshwater passages dissolved by rainwater percolating through the carbonate rock. The two systems have gradually merged. Upstream, the Allt Smoo crosses impermeable quartzite before meeting the permeable dolomite; at that geological boundary, the stream sinks underground and drops into the cave as a 20-metre waterfall. The present-day cave extends 83 metres to a terminal sump, but dye-testing has traced an underwater connection to a sink point 100 metres upstream, suggesting the true system is at least twice as long as the accessible passages.
+
+## Layers of Human Time
+
+Archaeological investigations in 1995 uncovered artefacts spanning thousands of years -- Neolithic, Iron Age, and Norse -- though the majority of finds related to Viking-era activity between the 8th and 11th centuries AD. Fish bones, marine shells, and mammal remains indicated that people processed and consumed food here. Iron slag and boat nails told a more specific story: the sheltered inlet at the cave's mouth served as a boat repair station, a Norse workshop hidden from the open sea. The cave complex is now protected as a scheduled monument. Evidence of human habitation reaching back to the Mesolithic period has also been found, making Smoo Cave a site of remarkable continuity -- people have been drawn to its shelter for the better part of ten thousand years.
+
+## Leopard Rock and Deep Divers
+
+The geology at Smoo rewards close attention. The cave formed along the boundary between two formations within the Durness Group: the light grey Sangomore Formation and the dark grey, mottled Sailmhor Formation, sometimes called "Leopard Rock" for its spotted appearance. Abundant chert nodules -- left behind after the surrounding dolomite dissolved -- litter the floor of the inner stream chamber. At the back of the third chamber, an active stream resurges from a sump that cave divers from the Grampian Speleological Group have explored for about 40 metres, though heavy loads of silt and peat in the water have prevented further progress. The cave's main waterfall is often dry, flowing only when the upstream sink overflows after heavy rain.
+
+## Durness and the North Coast
+
+Smoo Cave lies two kilometres east of the village of Durness, on a stretch of Scotland's north coast where the landscape is treeless, wind-scoured, and startlingly beautiful. Some 40,000 visitors come each year, descending a staircase to the cave entrance where boardwalks lead into the outer chamber. Summer boat tours carry visitors deeper, into the inner waterfall chamber where the Allt Smoo drops through the roof. The land has undergone isostatic uplift since the ice ages, so the sea now rarely enters the cave except during spring tides -- a reminder that this is a landscape still adjusting to the retreat of glaciers that left it only 10,000 years ago.
+
+## Flight Context
+
+Located at 58.563N, 4.720W on Scotland's north coast near Durness, Sutherland. The cave entrance and Geodha Smoo tidal gorge are visible from the air as a distinct coastal indentation. Best viewed at 1,500-3,000 ft AGL. Nearest airport: Wick (EGPC) 55 nm east. Cape Wrath lies 15 nm to the northwest. The north coast road (A838) runs nearby.
+
+## Sources
+
+- [Smoo Cave - Wikipedia](https://en.wikipedia.org/?curid=1729799)
+  - Entrance is 40 metres wide and 15 metres high confirmed
+  - Largest sea cave entrance in the British Isles confirmed
+  - Cave extends 83 metres to a terminal sump confirmed
+  - Allt Smoo drops as a 20-metre waterfall into the cave confirmed
+  - Archaeological finds include Norse artefacts from 8th-11th centuries confirmed
+  - Sir Walter Scott's 1814 visit confirmed
+  - Geodha Smoo tidal gorge described as 600 metres long confirmed
+  - Old Norse smjuga origin of name confirmed
+  - Approximately 40,000 visitors per year confirmed
+  - Summer boat tours operate into the inner chambers confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 10 facts verified · 0 corrections
+
+Entrance dimensions 40m wide, 15m high confirmed as largest sea cave entrance in British Isles. Cave extends 83m. 20m waterfall confirmed. Norse archaeological finds 8th-11th century confirmed. Walter Scott 1814 visit confirmed. 40000 visitors annually confirmed. No factual errors. No empathy issues.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 760*
+*Read time: 4 minutes*

@@ -1,0 +1,61 @@
+# Edison and Ford Winter Estates
+
+The adjacent winter retreats of Thomas Edison and Henry Ford on the Caloosahatchee River, where two of America's greatest inventors tested 17,000 plant samples in search of domestic rubber and planted a botanical garden that still flourishes over a century later.
+
+**Location:** 26.6347, -81.8800
+
+**Categories:** historic-home, botanical-garden, museum, inventor, florida
+
+## Introduction
+
+Thomas Edison arrived in Fort Myers half-dead. His doctor had sent him south in the winter of 1885, hoping warmer air would cure an illness that had left the inventor weakened and gaunt. Edison recuperated in St. Augustine, then wandered across Florida -- Cedar Key, then down the Gulf coast to a small cattle town on the Caloosahatchee River. Something about Fort Myers stuck. He bought riverfront property that same year and built a winter home he called Seminole Lodge, completed in 1886. For the next forty-five years, until his death in 1931, Edison returned to this quiet stretch of subtropical river to rest, to think, and eventually to conduct some of the most ambitious botanical research of his career. His friend Henry Ford liked the place enough to buy the house next door.
+
+## Next-Door Neighbors, National Icons
+
+The friendship between Edison and Ford was one of mutual admiration and shared obsession with American self-sufficiency. Ford purchased the adjoining property, known as The Mangoes, in 1916 -- a craftsman-style bungalow built five years earlier by Robert Smith of New York. The two men and their wives spent winters side by side on the Caloosahatchee, entertaining guests who included Harvey Firestone and naturalist John Burroughs. Photos from 1914 show the three men -- Edison, Burroughs, and Ford -- posed together on the estate grounds, looking like a board meeting of the American imagination. After Edison's death, his widow Mina deeded Seminole Lodge to the City of Fort Myers in 1947, fulfilling her husband's wish that the public might enjoy it. Ford's estate was purchased separately in 1988 and opened for tours in 1990. Today the combined 21-acre property draws more than 200,000 visitors each year.
+
+## The Rubber Obsession
+
+World War I taught Edison a lesson about vulnerability. America depended on foreign rubber, and if supply lines were cut, the entire industrial economy could seize up. Starting in 1914, Edison partnered with Ford and Firestone to find a domestic rubber source -- a plant that could grow quickly on American soil. In 1927 the three men each contributed $25,000 to create the Edison Botanic Research Corporation, and the following year a dedicated research laboratory was built on the Fort Myers property. Edison threw himself into the work with characteristic intensity, testing over 17,000 plant samples from around the world. He eventually found a promising source in a species of flowering goldenrod, Solidago leavenworthii, which could yield latex in usable quantities. Edison died in 1931 before the project could reach industrial scale. Five years later, the research was transferred to the United States Department of Agriculture. The 1928 laboratory still stands, recognized by the American Chemical Society as a National Historic Chemical Landmark -- the first site in Florida to receive that honor.
+
+## A Living Collection Under the Canopy
+
+The botanical gardens are not a manicured afterthought. They are the direct expression of Edison's curiosity and Mina Edison's love of beauty. Today the grounds hold more than 1,750 plants spanning over 890 species and varieties from six continents: 370 species of ornamentals, 178 species of trees, 85 varieties of fruit trees, 106 species of palms, 12 species of bamboo, 23 species of cycads, and 36 types of vines. An African sausage tree still grows here. A massive banyan tree, planted in the mid-1920s, now dominates a wide swath of the property with its aerial roots. Some of the plantings were practical -- Edison used bamboo for light bulb filaments. Others were purely aesthetic: Mina's roses, orchids, and bromeliads still bloom in the Moonlight Garden, which was designed by pioneering landscape architect Ellen Biddle Shipman. Walking the grounds feels less like visiting a museum garden and more like wandering through the greenhouse of a man who wanted to grow everything the planet had to offer.
+
+## Preservation Against the Odds
+
+After Mina Edison's gift to the city in 1947, the estates became one of Fort Myers' most popular attractions. But popularity alone does not preserve century-old buildings in subtropical humidity. By the early 2000s, the site needed serious intervention. In 2003, governance was transferred from the city to a new nonprofit corporation, Edison and Ford Winter Estates, Inc., whose mission was to protect, preserve, and interpret the property. A $14 million restoration followed, supported by a separate fundraising foundation. The American Institute of Architects' Florida Chapter placed the estates on its list of Florida Architecture: 100 Years, 100 Places in 2012. The site holds designations as a National Register Historic Site, a Florida Historic Landmark, and a National Historical Chemical Landmark. The estates' research library contains over a thousand books on Fort Myers history and botany, plus biographies of both Edison and Ford -- open by appointment for anyone wanting to dig deeper into the lives that shaped this riverside compound.
+
+## Flight Context
+
+Located at 26.63N, 81.88W on the south bank of the Caloosahatchee River in Fort Myers, Florida. The estates sit along McGregor Boulevard, recognizable from the air by the dense tree canopy and the large banyan tree on the grounds. Nearest airports: Page Field (KFMY) approximately 3 miles southeast, and Southwest Florida International (KRSW) approximately 12 miles southeast. Recommended viewing altitude: 1,500-2,000 feet AGL for best view of the riverfront property and gardens. The Caloosahatchee River is the dominant visual landmark running east-west.
+
+## Sources
+
+- [Edison and Ford Winter Estates - Wikipedia](https://en.wikipedia.org/?curid=1825332)
+  - Edison arrived Fort Myers 1885, built Seminole Lodge completed 1886
+  - Ford purchased adjoining property (The Mangoes) in 1916
+  - Edison, Ford, and Firestone each contributed $25,000 in 1927 to create Edison Botanic Research Corporation
+  - Research lab built 1928
+  - Over 17,000 plant samples tested
+  - Solidago leavenworthii goldenrod identified as promising rubber source
+  - Research transferred to USDA after Edison died in 1931
+  - Mina Edison deeded Seminole Lodge to City of Fort Myers in 1947
+  - Ford estate opened for tours in 1990
+  - 21-acre combined property draws more than 200,000 visitors per year
+- [Fort Myers Thomas Edison Research Laboratory - Edison Ford Winter Estates official site](https://www.edisonfordwinterestates.org/what-to-see/laboratory/)
+  - 1928 laboratory recognized by American Chemical Society as National Historic Chemical Landmark
+  - First site in Florida to receive that honor - confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 10 facts verified · 0 corrections
+
+All major facts verified: Edison arrived 1885, Seminole Lodge 1886, Ford bought The Mangoes 1916, EBRC 1927 each contributing 5k, 17000 plant samples, Solidago leavenworthii goldenrod, research to USDA 1936, Mina deeded to Fort Myers 1947, Ford estate tours 1990, ACS landmark confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

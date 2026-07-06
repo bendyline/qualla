@@ -387,5 +387,26 @@
     "_m/z/9/y/2/commander-islands-wp/mapa-komandorskych-ostrovu.png",
     "_m/z/9/y/2/commander-islands-wp/mapa-komandorske-ostrovy.jpg"
   ],
-  "updatedAt": "2026-04-01T20:00:46.955Z"
+  "updatedAt": "2026-04-01T20:00:46.955Z",
+  "narration": {
+    "files": [
+      "z9y2-commander-islands-flight-context.mp3",
+      "z9y2-commander-islands-intro.mp3",
+      "z9y2-commander-islands-berings-final-landfall.mp3",
+      "z9y2-commander-islands-a-kingdom-of-seals-and-whales.mp3",
+      "z9y2-commander-islands-displaced-peoples-mixed-tongues.mp3",
+      "z9y2-commander-islands-tundra-without-trees.mp3",
+      "z9y2-commander-islands-edge-of-the-world.mp3"
+    ],
+    "durations": {
+      "z9y2-commander-islands-flight-context.mp3": 46.3487916,
+      "z9y2-commander-islands-intro.mp3": 49.4760833,
+      "z9y2-commander-islands-berings-final-landfall.mp3": 52.1851666,
+      "z9y2-commander-islands-a-kingdom-of-seals-and-whales.mp3": 60.0309166,
+      "z9y2-commander-islands-displaced-peoples-mixed-tongues.mp3": 57.6745416,
+      "z9y2-commander-islands-tundra-without-trees.mp3": 60.82775,
+      "z9y2-commander-islands-edge-of-the-world.mp3": 52.31
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

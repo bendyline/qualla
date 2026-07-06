@@ -360,5 +360,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sr2y-assassination-of-julius-caesar-flight-context.mp3",
+      "sr2y-assassination-of-julius-caesar-intro.mp3",
+      "sr2y-assassination-of-julius-caesar-the-three-last-straws.mp3",
+      "sr2y-assassination-of-julius-caesar-sixty-men-and-a-secret.mp3",
+      "sr2y-assassination-of-julius-caesar-a-morning-of-omens.mp3",
+      "sr2y-assassination-of-julius-caesar-twenty-three-wounds-at-pompeys-feet.mp3",
+      "sr2y-assassination-of-julius-caesar-the-republics-last-act.mp3"
+    ],
+    "durations": {
+      "sr2y-assassination-of-julius-caesar-flight-context.mp3": 43.1080416,
+      "sr2y-assassination-of-julius-caesar-intro.mp3": 41.8369166,
+      "sr2y-assassination-of-julius-caesar-the-three-last-straws.mp3": 65.5712916,
+      "sr2y-assassination-of-julius-caesar-sixty-men-and-a-secret.mp3": 54.9475,
+      "sr2y-assassination-of-julius-caesar-a-morning-of-omens.mp3": 51.9659583,
+      "sr2y-assassination-of-julius-caesar-twenty-three-wounds-at-pompeys-feet.mp3": 66.059125,
+      "sr2y-assassination-of-julius-caesar-the-republics-last-act.mp3": 69.0008333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

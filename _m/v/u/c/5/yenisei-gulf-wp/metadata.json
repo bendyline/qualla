@@ -84,5 +84,24 @@
   ],
   "galleryPaths": [
     "_m/v/6/f/r/dyatlov-pass-wk/hero.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "vuc5-yenisei-gulf-flight-context.mp3",
+      "vuc5-yenisei-gulf-intro.mp3",
+      "vuc5-yenisei-gulf-where-the-river-becomes-the-sea.mp3",
+      "vuc5-yenisei-gulf-islands-in-the-current.mp3",
+      "vuc5-yenisei-gulf-life-at-the-edge.mp3",
+      "vuc5-yenisei-gulf-winters-that-define-everything.mp3"
+    ],
+    "durations": {
+      "vuc5-yenisei-gulf-flight-context.mp3": 40.554125,
+      "vuc5-yenisei-gulf-intro.mp3": 38.4674166,
+      "vuc5-yenisei-gulf-where-the-river-becomes-the-sea.mp3": 49.147,
+      "vuc5-yenisei-gulf-islands-in-the-current.mp3": 52.4622083,
+      "vuc5-yenisei-gulf-life-at-the-edge.mp3": 52.5207083,
+      "vuc5-yenisei-gulf-winters-that-define-everything.mp3": 51.8415
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

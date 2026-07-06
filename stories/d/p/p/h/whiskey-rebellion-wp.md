@@ -1,0 +1,73 @@
+# Whiskey Rebellion
+
+In 1794, western Pennsylvania farmers -- who used whiskey as currency because coins were scarce -- took up arms against the new federal government's first domestic tax, prompting George Washington to personally ride at the head of 13,000 troops to crush the rebellion.
+
+**Location:** 40.2002, -79.9226
+
+**Categories:** history, rebellion, pennsylvania, colonial-america, politics
+
+## Introduction
+
+On the western Pennsylvania frontier in the 1790s, whiskey was money. Hard currency -- gold and silver coins -- barely circulated beyond the Appalachian Mountains, so farmers distilled their surplus grain into spirits that could be bartered, traded, and stored. When Alexander Hamilton's treasury pushed through the new republic's first tax on a domestic product in 1791, targeting distilled spirits, he struck directly at the economic lifeblood of 75,000 frontier settlers. They did not take it well. What followed was the young nation's first great constitutional crisis: three years of tarring and feathering tax collectors, armed standoffs, a 7,000-person march that threatened to burn Pittsburgh to the ground, and finally George Washington himself riding west at the head of an army larger than any he had commanded in the Revolution.
+
+## Hamilton's Gamble
+
+The whiskey tax was born from debt. The new federal government had inherited $54 million in obligations from the Revolutionary War, plus another $25 million owed by the states. Secretary of the Treasury Alexander Hamilton consolidated this mountain of IOUs into a single national debt funded by the federal government, a financial maneuver designed to bind the states together through shared obligation. But the debt needed servicing, and by 1790 Hamilton concluded that import duties -- the primary revenue source -- had been pushed as high as they could go. His solution was an excise on domestically distilled spirits. Hamilton considered it a luxury tax, the least objectionable option available. Social reformers backed it as a 'sin tax' that might curb drinking. The whiskey excise act became law in March 1791, and George Washington personally appointed the revenue supervisors. What Hamilton failed to anticipate was the fury of the people who would actually have to pay it.
+
+## Frontier Fury
+
+The tax was structurally rigged against small producers. Large eastern distilleries could pay a flat annual fee per still, which dropped their effective rate as low as 6 cents per gallon the more they produced. Small frontier farmers, who ran their stills only during surplus seasons, ended up paying 9 cents per gallon -- 50 percent more -- and were legally required to pay in the specie they did not have. To make matters worse, anyone accused of tax evasion had to appear at the only federal courthouse, in Philadelphia, some 300 miles of rough mountain roads from Pittsburgh. Resistance was immediate and visceral. In September 1791, tax collector Robert Johnson was tarred and feathered by a disguised gang in Washington County. The man sent to serve warrants on Johnson's attackers was himself whipped, tarred, and feathered. Anonymous notes signed by 'Tom the Tinker' threatened anyone who cooperated with federal officials; non-compliant neighbors might find their barns burned or their stills smashed. By 1793, the tax was essentially uncollectable across western Pennsylvania.
+
+## The Battle of Bower Hill
+
+The crisis exploded in July 1794. Federal marshal David Lenox arrived in western Pennsylvania to serve writs on more than 60 delinquent distillers, summoning them to appear in Philadelphia. On July 15, he was joined by General John Neville, the federal tax inspector for the region -- himself a wealthy distiller who had initially opposed the tax before switching sides, a reversal that enraged his neighbors. That evening, shots were fired at the men. The next morning, at least 30 Mingo Creek militiamen surrounded Neville's fortified estate, Bower Hill, demanding the marshal's surrender. Neville fired, mortally wounding rebel Oliver Miller. The rebels retreated, then returned the next day, nearly 600 strong, under Revolutionary War veteran Major James McFarlane. After an hour of gunfire, McFarlane called a ceasefire. As he stepped into the open, a shot from the house killed him. The enraged rebels burned Bower Hill to the ground, including the slave quarters.
+
+## Seven Thousand Strong at Braddock's Field
+
+McFarlane's death radicalized the countryside. Radical leader David Bradford -- who compared himself to Robespierre -- robbed the U.S. mail leaving Pittsburgh, hoping to identify local loyalists. He then called for a military assembly at Braddock's Field, east of Pittsburgh. On August 1, 1794, roughly 7,000 people gathered. Most were landless poor, not distillers; the whiskey grievance had become a vessel for broader economic rage. Radicals praised the French Revolution and proposed marching on Pittsburgh -- which they called 'Sodom' -- to loot the wealthy and burn the town. Others discussed declaring independence from the United States and joining Spain or Great Britain. They flew a flag with six stripes, one for each participating county. Only the skillful intervention of moderates like Hugh Henry Brackenridge prevented wholesale destruction; the crowd settled for a defiant march through Pittsburgh, where only one man's barns were burned.
+
+## Washington Rides West
+
+President Washington responded with both diplomacy and overwhelming force. While peace commissioners negotiated with rebel leaders in western Pennsylvania, he called upon the governors of Virginia, Maryland, New Jersey, and Pennsylvania to provide militia. An army of 13,000 men assembled -- larger than any Washington had commanded during the Revolution. In October 1794, the President himself rode at its head, the only sitting American president to lead troops in the field. The show of force was decisive and anticlimactic. The rebel leaders fled before the army arrived. About 150 men were arrested, but only 20 were held for trial in Philadelphia, and just two were convicted -- both later pardoned. The Whiskey Rebellion proved that the new federal government had the will and the military capacity to enforce its laws. It also deepened the partisan divisions that were already forming between Federalists and what would become the Democratic-Republican Party. The whiskey tax itself remained nearly impossible to collect and was repealed in 1802 under President Thomas Jefferson.
+
+## Flight Context
+
+The Whiskey Rebellion centered on western Pennsylvania, particularly the area around modern-day Pittsburgh and the counties to its south and east. The coordinates 40.20°N, 79.92°W place it in the Allegheny River valley region. Bower Hill, the Neville estate that was besieged and burned, stood near present-day Woodville in Collier Township, Allegheny County. Braddock's Field, where 7,000 rebels gathered, is modern-day Braddock, east of Pittsburgh along the Monongahela River. Nearest major airport: Pittsburgh International Airport (KPIT), approximately 15 miles west. The terrain is hilly Appalachian river country with wooded ridges and river valleys. Allegheny County Airport (KAGC) is also nearby. The landscape from altitude reveals the pattern of rivers -- the Allegheny, Monongahela, and Ohio -- that defined the frontier economy this rebellion fought to protect.
+
+## Sources
+
+- [Whiskey Rebellion - Wikipedia](https://en.wikipedia.org/?curid=143541)
+  - Whiskey excise act became law in March 1791
+  - Federal debt of $54 million from Revolutionary War plus $25 million in state debts
+  - Small frontier farmers paid 9 cents per gallon vs lower effective rate for large eastern distilleries
+  - Robert Johnson tarred and feathered September 1791
+  - Battle of Bower Hill July 1794, Oliver Miller mortally wounded
+  - About 7,000 assembled at Braddock's Field August 1, 1794
+  - Washington led 13,000 troops - larger than any Revolutionary War army
+  - Washington personally rode with the army (only sitting president to lead troops in field)
+  - About 150 arrested, only 20 held for trial, 2 convicted and later pardoned
+  - Whiskey tax repealed in 1802 under Jefferson
+- [Whiskey Rebellion - George Washington's Mount Vernon](https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/whiskey-rebellion)
+  - Washington organized militia force of approximately 12,950-13,000 men
+  - Rebel leaders fled before army arrived
+  - David Bradford compared himself to Robespierre and robbed U.S. mail
+  - McFarlane's death radicalized the countryside
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 10 facts verified · 0 corrections
+
+Facts verified: whiskey excise act March 1791, federal debt 4M + 5M state, Robert Johnson tarred Sept 1791, 7000 at Braddock's Field Aug 1 1794, Washington led 13000 troops, two convicted both pardoned, tax repealed 1802 under Jefferson. All facts accurate. Spiciness 3.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Hamilton's tax was structurally rigged against small producers
+- the first great constitutional crisis of the young nation
+- the whiskey grievance had become a vessel for broader economic rage
+
+---
+
+*Word count: 860*
+*Read time: 5 minutes*

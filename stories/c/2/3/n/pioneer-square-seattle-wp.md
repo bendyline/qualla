@@ -1,0 +1,64 @@
+# Pioneer Square, Seattle
+
+Seattle's oldest neighborhood rose from ashes and landfill, where a stolen totem pole stands in a triangular plaza above buried storefronts, and the term 'Skid Row' was born on the very street that once hauled logs to Henry Yesler's mill.
+
+**Location:** 47.6017, -122.3319
+
+**Categories:** Pioneer Square, Seattle, Tourist attractions in Seattle, National Register of Historic Places in Seattle, Historic districts, Seattle neighborhoods
+
+## Introduction
+
+Beneath the brick sidewalks of Pioneer Square lies another city entirely. Walk into the Seattle Underground and you are standing on the original ground level of the 1880s, looking up at old storefronts whose doors once opened to daylight. After the Great Seattle Fire of 1889 leveled every wooden structure in the neighborhood, Seattle made a decision that still defines this corner of downtown: instead of rebuilding at the old elevation, where sewage backed up with every high tide, the city raised the streets by one to two full stories. New buildings went up with two entrances, one at the old level and one at the new. Within a decade, the underground passageways were sealed off, and an entire layer of history disappeared beneath the feet of passersby.
+
+## Where Seattle Put Down Roots
+
+Pioneer Square is where Seattle began. In 1852, the city's founders abandoned their initial settlement at Alki Point on the far side of Elliott Bay and moved to this sheltered shoreline, drawn by Henry Yesler's decision to build his lumber mill at the foot of what is now Yesler Way. The mill's location was strategic: it sat on the boundary between land claims platted by Doc Maynard to the south and Arthur Denny and Carson Boren to the north. Logs skidded downhill along a greased track to the mill, and the road they traveled earned a name that would enter the American vocabulary. 'Skid Road' originally described this literal chute of greased timbers. Over the decades, as the neighborhood south of Yesler Way became a district of brothels, gambling dens, pawnshops, and box houses, the term evolved into 'Skid Row,' a phrase that spread across the country to describe any area of urban decline. Much of the neighborhood itself stands on landfill; in the 1850s, the area between First and Second Avenue was a low-lying offshore island, and the mainland shore roughly followed what is now Yesler Way.
+
+## Below the Line
+
+The neighborhood south of Yesler Way earned a staggering number of nicknames: the Great Restricted District, Maynardtown, Down on the Sawdust, the Lava Beds, the Tenderloin, White Chapel, Wappyville. It was a place where, as Henry Broderick wrote in 1959, 'perhaps never in all history, certainly not in America, has there ever existed such a massive collection of the demimonde grouped in a restricted area.' Gambling thrived. Box houses combined theater, bar, and brothel under one roof. Police entered only in teams. The sole safe haven was a saloon called 'Our House,' which rented safe deposit boxes. Yet even here, contradictions flourished. In 1870, Father Francis Xavier Prefontaine founded Seattle's first Catholic Church in the heart of this district, at Third Avenue South and Washington Street. Two decades later, Lou Graham opened the city's most famous parlor house diagonally across the street. A street in the neighborhood, Prefontaine Place, honors the priest. The madam's legacy is less publicly commemorated.
+
+## Fire, Rebirth, and the Rush for Gold
+
+On June 6, 1889, when Seattle's population had reached 40,000, the Great Fire destroyed Pioneer Square completely. But the economy was booming, and the neighborhood rebuilt within a year. Dozens of brick and stone buildings rose in the Richardsonian Romanesque style, heavy-arched and solid, their massive walls a rebuke to the wooden structures they replaced. These are the buildings that still define the neighborhood's character. New development was deliberately raised above the old street level to solve chronic drainage problems, burying the original storefronts underground. Then came gold. During the Klondike Gold Rush of 1897 and 1898, thousands of 'stampeders' passed through Pioneer Square on their way to Alaska, filling the neighborhood's hotels, outfitters, and saloons with money and chaos. In 1914, the Smith Tower rose 462 feet above the neighborhood, the tallest building west of the Mississippi at the time. But by then, downtown Seattle's center of gravity had already shifted north, and Pioneer Square began a long, slow decline.
+
+## The Stolen Totem and the Saved Neighborhood
+
+The Tlingit totem pole in Pioneer Place Park has a complicated origin. In 1899, a group of Seattle citizens traveled to a Tlingit village in Alaska and simply took it. When the Tlingit demanded compensation, the group paid a settlement of $500. After an arsonist damaged the pole in 1938, the U.S. Forest Service hired Tlingit artisans through the Civilian Conservation Corps to carve a replacement, installed in 1940. Nearby stand an iron and glass pergola designed by Julian F. Everett and a bust of Chief Seattle, both added in 1909. By the 1960s, the entire neighborhood faced demolition. City planners proposed replacing it with parking garages and high-rise development. Preservationists Bill Speidel, Victor Steinbrueck, and others fought back, and in 1970 Pioneer Square was listed on the National Register of Historic Places, becoming one of Seattle's first preservation districts. Architect Ralph Anderson's rehabilitation of the Union Trust Building set the template for restoring the neighborhood's historic structures.
+
+## Layers Still Showing
+
+Today Pioneer Square is home to art galleries, cafes, bookstores, and a unit of the Klondike Gold Rush National Historical Park, the only national park unit dedicated to telling the story of the Seattle side of the gold rush. The other unit is 1,000 miles away in Skagway, Alaska. The Merchants Cafe remains Seattle's oldest restaurant. Contemporary art initiatives like Forest for the Trees have turned building facades and alleyways into a year-round open-air gallery. Each spring, the Pioneer Square Fire Festival commemorates the anniversary of the 1889 blaze with antique fire apparatus, demonstrations, and a parade. But the real attraction is the architecture itself, those massive Romanesque Revival buildings with their arched windows and rusticated stone. And underneath it all, the old city waits. The Seattle Underground Tour takes visitors down through sealed passageways where 1880s storefronts still display their original signage, a time capsule entombed beneath the streets of a neighborhood that has been reinventing itself since before the concrete set.
+
+## Flight Context
+
+Pioneer Square sits at 47.602N, 122.332W in the southwest corner of downtown Seattle, immediately north of the stadiums district (T-Mobile Park and Lumen Field are visible just to the south). From the air, look for the cluster of low-rise brick buildings contrasting with the modern towers of downtown to the north. The triangular Pioneer Place Park with its totem pole marks the neighborhood's heart, near First Avenue and Yesler Way. The waterfront and Elliott Bay lie immediately to the west. Nearest airports: Boeing Field/King County International (KBFI) 3nm south, Seattle-Tacoma International (KSEA) 11nm south. Renton Municipal (KRNT) 10nm southeast.
+
+## Sources
+
+- [Pioneer Square, Seattle](https://en.wikipedia.org/wiki/Pioneer_Square%2C_Seattle)
+- [Smith Tower - Wikipedia](https://en.wikipedia.org/wiki/Smith_Tower)
+  - Smith Tower rose 462 feet in 1914 confirmed
+  - Was tallest building west of the Mississippi confirmed (tallest west of Mississippi until 1931, tallest on US West Coast until 1962)
+- [Great Seattle Fire - Wikipedia](https://en.wikipedia.org/wiki/Great_Seattle_Fire)
+  - Great Seattle Fire date June 6 1889 confirmed
+  - Seattle population of 40,000 at time of fire consistent with historical record
+  - Neighborhood rebuilt with raised street levels confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 8 facts verified · 0 corrections
+
+Key facts verified: Great Seattle Fire June 6 1889, Smith Tower 462 feet 1914 tallest west of Mississippi, Pioneer Square on NRHP 1970, Skid Road origin story confirmed. Spiciness 3 for strong historical editorial voice.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Perhaps never in all history, certainly not in America, has there ever existed such a massive collection of the demimonde grouped in a restricted area
+- a neighborhood that has been reinventing itself since before the concrete set
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

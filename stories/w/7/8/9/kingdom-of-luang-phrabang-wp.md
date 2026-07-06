@@ -1,0 +1,61 @@
+# Kingdom of Luang Phrabang
+
+Born from the fracture of the great Lao kingdom of Lan Xang in 1707, Luang Phrabang endured two and a half centuries as a small monarchy caught between Burmese, Siamese, and French ambitions before merging into the modern nation of Laos.
+
+**Location:** 19.8931, 102.1381
+
+**Categories:** History of Laos by period, Early modern history of Thailand, Former countries in Laotian history, Former kingdoms, Former monarchies of Southeast Asia, 18th century in Laos, 19th century in Laos, 20th century in Laos
+
+## Introduction
+
+In 1707, the Kingdom of Lan Xang -- the "Land of a Million Elephants" -- broke apart. It had been one of the largest kingdoms in Southeast Asia, stretching across what is now Laos and beyond. But succession disputes and internal rivalries fractured it into three smaller states: Luang Phrabang in the north, Vientiane in the center, and Champassak in the south. Of these fragments, Luang Phrabang would prove the most enduring, its royal line surviving foreign occupations, forced vassalage, and colonial absorption to outlast the kingdom that gave it birth by nearly two and a half centuries.
+
+## Vassals of Every Neighbor
+
+From the moment of its founding, the Kingdom of Luang Phrabang existed at the mercy of its more powerful neighbors. The Burmese Konbaung dynasty exerted control from 1765 to 1788, treating the kingdom as a tributary state under kings Sotika-Kuomane and Surinyavong II. When Burmese power receded, Siam filled the vacuum. The Siamese occupied Luang Phrabang directly in 1791-1792, installed and removed kings at will, and treated the kingdom as a buffer against rivals to the north and east. King Anurutha ruled twice, separated by a Siamese occupation -- his first reign ended when Bangkok intervened, and his second began only after Siamese authorities permitted it. Under Manthaturath, the royal court's subordination reached its nadir: the king lived as a monk in Bangkok from 1825 to 1826 while Thai officials administered the kingdom in his absence.
+
+## The Black Flag Attack
+
+France had been eyeing mainland Southeast Asia throughout the nineteenth century, and by 1885 a French consulate operated in the capital. The Siamese, recognizing the threat, negotiated a treaty in May 1886 that France acknowledged their suzerainty over Luang Phrabang and the neighboring Lao kingdoms. But treaties meant less than events on the ground. In 1887, during the Haw wars, the Chinese Black Flag Army launched a devastating attack on Luang Phrabang that exposed the limits of Siamese protection. The raiders swept through the capital with a ferocity that left King Oun Kham with few options. He turned to France and requested protection directly. On 27 March 1889, over Siamese protests, the French accepted -- and the kingdom's independence, already nominal under Siam, became nominal under Paris instead.
+
+## Warships in Bangkok
+
+The final act of Siamese authority over Luang Phrabang ended not in Laos but in Thailand. In 1893, France and Siam went to war, and the French escalated dramatically with the Paknam incident: warships entered Bangkok harbor, breaking promises made to Great Britain and forcing Siam into a humiliating ultimatum. Siam ceded all territory east of the Mekong, including its islands. The French Protectorate of Laos was officially established, and the administrative capital moved south from Luang Phrabang to Vientiane. The royal family stayed in Luang Phrabang but ruled over nothing consequential. Real authority passed to French officials -- the vice consulate and the Resident-General -- who governed through the monarchy's prestige while stripping it of actual power.
+
+## A Crown Preserved, Then Given Away
+
+Remarkably, the institution of the monarchy outlived even colonialism. In January 1896, France and Britain formalized the border between French Laos and British Burma, fixing the kingdom's western boundary. Under French protection, Luang Phrabang became the principal kingdom within French Laos, its royal line lending legitimacy to the colonial administration. King Zakarine served from 1895 to 1904 as a protectorate monarch, succeeded by Sisavang Vong, who would navigate the kingdom through both World Wars. On 11 May 1947, France reorganized the three historical Lao kingdoms -- Luang Phrabang, Vientiane, and Champassak -- into the unified Kingdom of Laos, with Sisavang Vong ascending as its first king. Full independence from France came in 1954. The royal line that began with Kitsarat in 1707 had threaded itself through Burmese domination, Siamese occupation, Chinese raids, French colonization, and two global conflicts to arrive at sovereignty over a unified nation.
+
+## The River Capital
+
+Luang Phrabang sits at the confluence of the Mekong and Nam Khan rivers, a geography that shaped its identity as both trading hub and spiritual center. The city's Buddhist temples, many dating to the royal period, earned UNESCO World Heritage status in 1995 -- recognition of an urban landscape where gilded wats, French colonial architecture, and traditional Lao wooden houses exist side by side. The morning alms procession, in which monks walk through the streets collecting offerings from kneeling residents, continues a practice that predates the kingdom itself. From above, the town appears as a narrow peninsula of low buildings between two broad rivers, wrapped in tropical green, with temple spires catching the light. It is a quiet place now, its centuries of political turbulence compressed into the gold-leafed murals of its monastery walls.
+
+## Flight Context
+
+Located at 19.89°N, 102.14°E at the confluence of the Mekong and Nam Khan rivers in northern Laos. The town is visible as a narrow peninsula between two rivers surrounded by mountainous jungle terrain. Nearest airport is Luang Prabang International Airport (VLLB), located approximately 4 km northeast of the city center. At 3,000-5,000 feet AGL, the Mekong's winding course and the golden temple spires of the old town are the primary visual landmarks. The surrounding terrain is mountainous karst with dense vegetation.
+
+## Sources
+
+- [Kingdom of Luang Phrabang - Wikipedia](https://en.wikipedia.org/?curid=28834539)
+  - Kingdom founded 1707 from Lan Xang fracture confirmed
+  - Burmese Konbaung dynasty controlled kingdom 1765-1788 confirmed
+  - Siamese occupied Luang Phrabang 1791-1792 confirmed
+  - Black Flag Army attack on Luang Phrabang 1887 confirmed
+  - French accepted King Oun Kham's protection request March 27, 1889 confirmed
+  - France-Siam treaty May 1886 acknowledged Siamese suzerainty confirmed
+  - Three kingdoms unified into Kingdom of Laos May 11, 1947 confirmed
+  - Independence from France in 1954 confirmed
+  - Luang Prabang UNESCO World Heritage Site 1995 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 10 facts verified · 0 corrections
+
+All facts verified: 1707 founding, Burmese control 1765-1788, Siamese 1791-1792, Black Flag attack 1887, French protection 1889, 1886 treaty, unified Kingdom of Laos May 11 1947, independence 1954, UNESCO 1995. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 840*
+*Read time: 4 minutes*

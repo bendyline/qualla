@@ -55,5 +55,24 @@
     "sourceGeohash4": "s2px"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "s2px-maringa-lopori-wamba-landscape-flight-context.mp3",
+      "s2px-maringa-lopori-wamba-landscape-intro.mp3",
+      "s2px-maringa-lopori-wamba-landscape-slave-traders-at-the-head-of-the-river.mp3",
+      "s2px-maringa-lopori-wamba-landscape-the-rubber-that-ate-the-forest.mp3",
+      "s2px-maringa-lopori-wamba-landscape-bonobos-in-the-canopy.mp3",
+      "s2px-maringa-lopori-wamba-landscape-poverty-bushmeat-and-a-fragile-plan.mp3"
+    ],
+    "durations": {
+      "s2px-maringa-lopori-wamba-landscape-flight-context.mp3": 51.0887916,
+      "s2px-maringa-lopori-wamba-landscape-intro.mp3": 54.1515833,
+      "s2px-maringa-lopori-wamba-landscape-slave-traders-at-the-head-of-the-river.mp3": 65.6575833,
+      "s2px-maringa-lopori-wamba-landscape-the-rubber-that-ate-the-forest.mp3": 64.992625,
+      "s2px-maringa-lopori-wamba-landscape-bonobos-in-the-canopy.mp3": 59.52025,
+      "s2px-maringa-lopori-wamba-landscape-poverty-bushmeat-and-a-fragile-plan.mp3": 76.5696666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

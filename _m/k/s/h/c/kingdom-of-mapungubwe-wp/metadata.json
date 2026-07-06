@@ -352,5 +352,24 @@
     "_m/k/s/h/c/kingdom-of-mapungubwe-wp/golden-rhinoceros-w-en.jpg",
     "_m/k/s/h/c/kingdom-of-mapungubwe-wp/vue-du-limpopo-en-afri.jpg",
     "_m/k/s/h/c/kingdom-of-mapungubwe-wp/map-trade-centres-rout.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kshc-kingdom-of-mapungubwe-flight-context.mp3",
+      "kshc-kingdom-of-mapungubwe-intro.mp3",
+      "kshc-kingdom-of-mapungubwe-a-place-of-jackals.mp3",
+      "kshc-kingdom-of-mapungubwe-gold-cattle-and-the-indian-ocean.mp3",
+      "kshc-kingdom-of-mapungubwe-rainmakers-on-the-hill.mp3",
+      "kshc-kingdom-of-mapungubwe-the-discovery-they-tried-to-bury.mp3"
+    ],
+    "durations": {
+      "kshc-kingdom-of-mapungubwe-flight-context.mp3": 53.049875,
+      "kshc-kingdom-of-mapungubwe-intro.mp3": 55.9214166,
+      "kshc-kingdom-of-mapungubwe-a-place-of-jackals.mp3": 61.9242916,
+      "kshc-kingdom-of-mapungubwe-gold-cattle-and-the-indian-ocean.mp3": 65.507375,
+      "kshc-kingdom-of-mapungubwe-rainmakers-on-the-hill.mp3": 68.1852916,
+      "kshc-kingdom-of-mapungubwe-the-discovery-they-tried-to-bury.mp3": 78.1325
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

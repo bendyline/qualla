@@ -102,13 +102,56 @@
       "sourceGeohash4": "u141",
       "mediumPath": "_m/u/1/4/1/ypres-wp/bellewaerde-ingang-medium.webp",
       "smallPath": "_m/u/1/4/1/ypres-wp/bellewaerde-ingang-small.webp"
+    },
+    {
+      "filename": "Ieper Lakenhal R02.jpg",
+      "title": "File:Ieper Lakenhal R02.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Ieper_Lakenhal_R02.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Ieper_Lakenhal_R02.jpg",
+      "width": 3254,
+      "height": 2344,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Marc Ryckaert",
+      "description": "Ypres (Belgium): cloth hall and belfry",
+      "dateCreated": "2018-08-31 11:01:18",
+      "sourceType": "poi",
+      "sourceArticleId": "ypres-wp",
+      "sourceGeohash4": "u141",
+      "mediumPath": "_m/u/1/4/1/ypres-wp/ieper-lakenhal-r02-medium.webp",
+      "smallPath": "_m/u/1/4/1/ypres-wp/ieper-lakenhal-r02-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/u/1/4/1/ypres-wp/het-treurende-ouderpaar-kathe-.jpg",
     "_m/u/1/4/1/ypres-wp/ypres-town-centre.jpg",
     "_m/u/1/4/1/ypres-wp/het-kasteel.jpg",
-    "_m/u/1/4/1/ypres-wp/bellewaerde-ingang.jpg"
+    "_m/u/1/4/1/ypres-wp/bellewaerde-ingang.jpg",
+    "_m/u/1/4/1/ypres-wp/ieper-lakenhal-r02.jpg"
   ],
-  "updatedAt": "2026-02-20T15:29:02.371Z"
+  "updatedAt": "2026-05-19T07:00:33.147Z",
+  "narration": {
+    "files": [
+      "u141-ypres-flight-context.mp3",
+      "u141-ypres-intro.mp3",
+      "u141-ypres-before-the-guns-came.mp3",
+      "u141-ypres-wipers.mp3",
+      "u141-ypres-five-battles-one-town.mp3",
+      "u141-ypres-the-decision-to-rebuild.mp3",
+      "u141-ypres-eight-oclock-at-the-menin-gate.mp3",
+      "u141-ypres-city-of-peace.mp3"
+    ],
+    "durations": {
+      "u141-ypres-flight-context.mp3": 67.462375,
+      "u141-ypres-intro.mp3": 51.6658333,
+      "u141-ypres-before-the-guns-came.mp3": 60.6645,
+      "u141-ypres-wipers.mp3": 57.2514583,
+      "u141-ypres-five-battles-one-town.mp3": 69.962,
+      "u141-ypres-the-decision-to-rebuild.mp3": 66.753375,
+      "u141-ypres-eight-oclock-at-the-menin-gate.mp3": 61.9537083,
+      "u141-ypres-city-of-peace.mp3": 60.0629166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

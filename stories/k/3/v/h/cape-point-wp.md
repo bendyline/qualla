@@ -1,0 +1,60 @@
+# Cape Point
+
+The dramatic promontory at the southeastern corner of the Cape Peninsula, where two lighthouses stand watch over the collision zone of Atlantic and Indian Ocean currents.
+
+**Location:** -34.3572, 18.4975
+
+**Categories:** geography, lighthouse, cape-peninsula, national-park, oceanography
+
+## Introduction
+
+The old lighthouse at the top of Cape Point stood 262 meters above the sea, and that was the problem. On 18 April 1911, the Portuguese liner Lusitania ran onto Bellows Rock just south of the point, her crew having spotted the light too early and steered too close. The lighthouse was so high that fog and cloud regularly swallowed it, leaving ships blind precisely when they needed guidance most. The disaster prompted what might seem like an illogical response: they built a second lighthouse, lower down, at just 87 meters. It worked. The new light, with a range of 63 kilometers and an intensity of 10 megacandelas per flash, is now the most powerful on the South African coast.
+
+## The Corner of the Peninsula
+
+Cape Point is a promontory at the southeastern corner of the Cape Peninsula, a mountainous landform that runs roughly 30 kilometers north-south at the extreme southwestern tip of the African continent. Table Mountain and Cape Town anchor the northern end; Cape Point and its neighbor, the Cape of Good Hope, occupy the southern tip. The two capes are often confused. Cape Point lies about 2.3 kilometers east and slightly north of the Cape of Good Hope, and its peak rises higher. Neither is the southernmost point of Africa -- that title belongs to Cape Agulhas, 150 kilometers to the east-southeast. But Cape Point's dramatic cliffs, crashing surf, and position at the edge of the known world have made it one of the most visited landmarks in South Africa.
+
+## Where Currents Collide
+
+Cape Point is often claimed to be the meeting place of the Atlantic and Indian oceans, the spot where you can see the cold Benguela current and the warm Agulhas current crash together in a visible line across the water. It is a captivating image, but it is not true. There is no line in the ocean where the water changes color. The actual meeting point of the two current systems fluctuates along the southern and southwestern Cape coast, usually somewhere between Cape Agulhas and Cape Point. What is true is that the intermingling of warm and cold water creates powerful, unpredictable currents, swells, and tides around the point. These troubled waters have produced centuries of maritime disasters and continue to claim lives: fishermen are regularly swept from the rocky platforms by freak waves.
+
+## Two Lights on One Mountain
+
+The rugged sandstone ridge above Cape Point develops into two peaks, the higher one crowned by the original lighthouse that operated from 1860 to 1919. The Flying Dutchman Funicular now carries tourists from a parking area to a viewing platform near the old light, offering panoramic views of False Bay to the east and the open Atlantic to the west. The new lighthouse, completed in 1919, sits at a lower elevation on Dias Point, essentially the tip of Cape Point itself. Its positioning was deliberate: invisible from the west until ships have cleared the point and reached safe water to the south. The engineering logic is elegant -- a light must be seen at the right time, not too early, not too late, and certainly not obscured by the clouds that gather on high ground.
+
+## Wild Ground Within the Park
+
+Cape Point lies within the Table Mountain National Park, in a section that covers the entire southern tip of the peninsula -- roughly 20 percent of the park's total area. This section is largely wild, unspoiled, and undeveloped, a refuge for seabirds and the distinctive vegetation called Peninsula Sandstone Fynbos. The landscape is raw sandstone cliffs, wind-sculpted scrub, and exposed rock, interspersed with protected coves where the surf relents. False Bay, opening to the east and north, is home to the naval port of Simon's Town and to the great white sharks that hunt Cape fur seals in the area. The combination of naval history, apex predators, and dramatic geology makes this one of the most layered landscapes on the continent.
+
+## Watching the Atmosphere Change
+
+Cape Point hosts one of the Global Atmosphere Watch's atmospheric research stations, taking advantage of its position at the edge of a continent and the meeting zone of two ocean systems. In the early twentieth century, icebergs from Antarctica were occasionally sighted from Cape Point -- a reminder that the Southern Ocean is not far away. No authentic sightings of ice have been recorded in recent decades, a shift some climatologists attribute to warming seas. From above, Cape Point's position is unmistakable: a narrow finger of land reaching into turbulent water, surf breaking white against dark rock, the peninsula's spine of sandstone mountains trailing northward toward Table Mountain. It has always been a place where observation matters -- whether you are watching for ships, for weather, or for the slow changes rewriting the planet's margins.
+
+## Flight Context
+
+Cape Point is at approximately 34.36S, 18.50E, forming the southeastern corner of the Cape Peninsula. The old lighthouse on the peak and the new lighthouse at lower elevation are both visible from the air. False Bay opens to the east with Simon's Town naval base on its western shore. Cape Town International Airport (FACT) is approximately 60 km to the north-northeast. From altitude, the dramatic cliffs, white surf, and the narrow promontory jutting into the ocean are unmistakable landmarks. Recommended viewing: 2,000-4,000 feet for detail of the two lighthouses.
+
+## Sources
+
+- [Cape Point - Wikipedia](https://en.wikipedia.org/?curid=652573)
+  - Portuguese liner Lusitania grounding April 18 1911 confirmed
+  - Old lighthouse at 262 meters confirmed
+  - New lighthouse at 87 meters confirmed
+  - New lighthouse range 63 km and 10 megacandela confirmed
+  - Old lighthouse operated 1860-1919 confirmed
+  - Flying Dutchman Funicular confirmed
+  - Global Atmosphere Watch station at Cape Point confirmed
+  - Cape Agulhas as true southernmost point confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 8 facts verified · 0 corrections
+
+Portuguese liner Lusitania grounding April 18 1911 confirmed, old lighthouse 262m confirmed, new lighthouse 87m / 63km range / 10 megacandela confirmed, old light 1860-1919 confirmed, Flying Dutchman Funicular confirmed, Global Atmosphere Watch station confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

@@ -56,5 +56,26 @@
     "sourceGeohash4": "tw1w"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "tw1w-battle-of-alasay-flight-context.mp3",
+      "tw1w-battle-of-alasay-intro.mp3",
+      "tw1w-battle-of-alasay-three-years-of-insurgent-rule.mp3",
+      "tw1w-battle-of-alasay-before-dawn-in-the-valley.mp3",
+      "tw1w-battle-of-alasay-a-day-of-close-fights.mp3",
+      "tw1w-battle-of-alasay-the-evening-assault.mp3",
+      "tw1w-battle-of-alasay-outposts-and-olive-branches.mp3"
+    ],
+    "durations": {
+      "tw1w-battle-of-alasay-flight-context.mp3": 41.365375,
+      "tw1w-battle-of-alasay-intro.mp3": 46.5645,
+      "tw1w-battle-of-alasay-three-years-of-insurgent-rule.mp3": 54.0847083,
+      "tw1w-battle-of-alasay-before-dawn-in-the-valley.mp3": 56.479125,
+      "tw1w-battle-of-alasay-a-day-of-close-fights.mp3": 57.62725,
+      "tw1w-battle-of-alasay-the-evening-assault.mp3": 59.0997083,
+      "tw1w-battle-of-alasay-outposts-and-olive-branches.mp3": 59.45325
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

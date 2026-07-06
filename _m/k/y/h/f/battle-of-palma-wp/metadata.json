@@ -242,5 +242,24 @@
     "_m/k/y/h/f/battle-of-palma-wp/rwandanpatrolmocimboa.png",
     "_m/k/y/h/f/battle-of-palma-wp/nyusicabodelgado.png"
   ],
-  "updatedAt": "2026-03-30T20:54:55.009Z"
+  "updatedAt": "2026-03-30T20:54:55.009Z",
+  "narration": {
+    "files": [
+      "kyhf-battle-of-palma-flight-context.mp3",
+      "kyhf-battle-of-palma-intro.mp3",
+      "kyhf-battle-of-palma-a-slow-burning-crisis.mp3",
+      "kyhf-battle-of-palma-three-directions-at-once.mp3",
+      "kyhf-battle-of-palma-escape-and-abandonment.mp3",
+      "kyhf-battle-of-palma-palma-after-the-battle.mp3"
+    ],
+    "durations": {
+      "kyhf-battle-of-palma-flight-context.mp3": 49.0821666,
+      "kyhf-battle-of-palma-intro.mp3": 44.0631666,
+      "kyhf-battle-of-palma-a-slow-burning-crisis.mp3": 63.71375,
+      "kyhf-battle-of-palma-three-directions-at-once.mp3": 69.6765,
+      "kyhf-battle-of-palma-escape-and-abandonment.mp3": 71.1174583,
+      "kyhf-battle-of-palma-palma-after-the-battle.mp3": 67.786625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

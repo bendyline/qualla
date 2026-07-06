@@ -1,0 +1,73 @@
+# Miracle Strip Amusement Park
+
+A beloved Florida panhandle amusement park where you entered a ride by walking through the mouth of a devil, ducking under a giant snowman's legs, or crawling through spider-webbed tunnels - all gone now, replaced by weeds and concrete foundations.
+
+**Location:** 30.1910, -85.8250
+
+**Categories:** amusement-park, defunct, florida, nostalgia, coastal-tourism, roller-coaster
+
+## Introduction
+
+To ride the Abominable Snowman, you had to walk between its legs. The massive igloo-shaped dome on Panama City Beach housed nothing more exotic than an Eli Bridge Scrambler, but inside the dark, smoky interior - mirrors lining the walls, strobes slicing through artificial fog, cool air a mercy from the Florida summer - it felt like something from another world. Miracle Strip Amusement Park ran on that kind of magic for 41 years: take an ordinary carnival ride, wrap it in elaborate theatrical packaging, and transform a strip of Gulf Coast sand into a place where families came back summer after summer. When it closed on September 5, 2004, the magic did not transfer to the condominiums that were supposed to replace it. By 2010, only sidewalks, concrete foundations, and weeds remained.
+
+## Starliner and a Handshake
+
+The park began with a wooden roller coaster and a partnership. In late 1962, a group led by James I. Lark Sr. pooled their money to build Starliner, an out-and-back coaster designed by the legendary John Allen. Don and Julian Bennet owned the land, and their contribution slashed startup costs. The park opened Memorial Day weekend 1963 to immediate popularity. Starliner was Florida's first roller coaster, and it remained the park's crown jewel for its entire 41-year run. In the mid-1960s, Ed Nelson left his municipal park operation in Birmingham, Alabama, to join the growing enterprise, bringing arcade machines and a carnival operator's instinct for what draws a crowd. The early years were scrappy - rides rented from traveling carnivals, a mix of old and new arcade hardware, food stands, and the wooden coaster thundering above it all.
+
+## Rides Inside Monsters
+
+What set Miracle Strip apart from countless other small coastal parks was its dome rides - ordinary spinning machines enclosed in elaborate themed buildings that turned a two-minute thrill into a full sensory experience. Dante's Inferno required riders to walk through the mouth of a giant devil before boarding a Chance Trabant inside a dome lined with red lights and strobes. The Dungeon sent visitors through spider-webbed tunnels into a dome housing a Tilt-A-Whirl, where the ride sometimes spun in complete darkness. The Haunted Castle, built by legendary dark ride designer Bill Tracy in 1965, ran two-seater cars through blacklit scenes of electrocution and dismemberment, its second-floor break-away girder visible from outside to give those waiting in line a preview scare. A diesel-engine train wound through a wooded area the park never developed, and near the bumper cars, a coin-operated exhibit let visitors feed chickens and ducks that performed tricks for dispensed food.
+
+## Spring Break's Shadow
+
+Panama City Beach grew, and in growing, changed. As the strip became synonymous with spring break - the MTV specials, the beer-soaked college crowds - the family-friendly amusement park found itself increasingly out of step with its surroundings. Families still came, drawn by Starliner and the dome rides and the sticky-fingered joy of winning prizes at the arcade, but the broader tourist economy was tilting toward a different clientele. Operating costs climbed. Ride maintenance on aging equipment grew expensive. The park that had defined Panama City Beach entertainment since 1963 was quietly falling behind. In 2004, the owner announced the final season, selling the land for condominium development under the optimistically named 'Miracle Condominiums' project. The last day of operation was September 5, 2004.
+
+## Scattered to the Winds
+
+A park does not simply disappear. It disperses. The log flume was dismantled and shipped to Wild Adventures Park in Valdosta, Georgia, where it was renamed the Shaka Zulu Water Ride but never actually opened to visitors. The Paratrooper ended up at Fun Spot in Atlanta. The powered Sports Cars drove to Lake Compounce in Bristol, Connecticut, and reopened as Zoomer's Gas-N-Go. The carousel was relocated to Pier Park in 2009. Starliner found a second life at Cypress Gardens, where it ran for two years before that park's own theme attractions closed in November 2008 - briefly holding the title of oldest operating roller coaster in Florida. The Haunted Castle's components were purchased by anonymous enthusiasts who reassembled the dark ride for annual Halloween events. Even the skeleton mannequin named Jones, who once rose from a grave in the shooting gallery with a 'Don't Do Drugs' message strapped to his bones, made it to Lake Winnepesaukah near Chattanooga before being quietly stored away.
+
+## What Remains
+
+Fly over the site today and you see a flat stretch of Panama City Beach's front road, unremarkable among the condos and tourist shops. The Miracle Condominiums never materialized. The remaining structures were demolished by 2010. Walk the ground and you can still find sidewalks, concrete barriers, and the main thoroughfare - the bones of a park that entertained Gulf Coast families for four decades. The Abominable Snowman dome stood empty for years before the bulldozers came, the giant figure still guarding its entrance long after the Scrambler inside had been stripped away. Miracle Strip was never a major destination park. It never had a corporate parent or a marketing department or a mascot with a merchandise line. It was a collection of rides wrapped in handmade theatrics on a strip of Florida sand, and for 41 summers, that was enough.
+
+## Flight Context
+
+Located at 30.19N, 85.83W on Panama City Beach, Florida, along the Gulf Coast. The former park site is on Front Beach Road (US-98A) in the heart of the Panama City Beach tourist strip. The nearest airport is Northwest Florida Beaches International (KECP), approximately 10 nautical miles northwest. Panama City-Bay County International (KPFN) is also nearby. From the air, Panama City Beach is a distinctive narrow barrier peninsula with dense beachfront development along the Gulf side. Recommended viewing altitude: 2,000-3,000 feet to see the coastal strip. The former park site is no longer distinguishable from surrounding development.
+
+## Sources
+
+- [Miracle Strip Amusement Park - Wikipedia](https://en.wikipedia.org/?curid=7654126)
+  - Operated May 25 1963 to September 5 2004 confirmed
+  - Starliner designed by John Allen confirmed
+  - Florida first roller coaster in 1963 confirmed
+  - Haunted Castle built by Bill Tracy in 1965 confirmed
+  - Dante's Inferno housed a Chance Trabant confirmed
+  - Abominable Snowman housed Eli Bridge Scrambler confirmed
+  - Land sold for Miracle Condominiums project confirmed
+  - Log flume moved to Wild Adventures as Shaka Zulu ride never opened confirmed
+  - Sports Cars moved to Lake Compounce as Zoomer's Gas-N-Go confirmed
+  - Carousel relocated to Pier Park in 2009 confirmed
+- [Coasterpedia - Starliner at Cypress Gardens](https://coasterpedia.net/wiki/Starliner_(Cypress_Gardens_Adventure_Park))
+  - Starliner operated at Cypress Gardens confirmed
+  - Cypress Gardens closed November 2008 confirmed - article says theme attractions closed November 2008 which is accurate
+- [Abandoned Florida - Miracle Strip Amusement Park](https://abandonedfl.com/miracle-strip-amusement-park/)
+  - Remaining structures demolished by 2010 confirmed
+  - Park had dome rides with themed enclosures confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-11 · 12 facts verified · 0 corrections
+
+All facts verified: opening/closing dates, Starliner designer, dome rides, Bill Tracy Haunted Castle, ride relocations (log flume, Sports Cars, carousel, Starliner). No factual corrections needed.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- The magic did not transfer to the condominiums that were supposed to replace it
+- Miracle Strip was never a major destination park - it never had a corporate parent or a marketing department or a mascot with a merchandise line
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

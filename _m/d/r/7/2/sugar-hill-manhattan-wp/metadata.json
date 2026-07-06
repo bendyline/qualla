@@ -541,5 +541,24 @@
     "_m/d/r/7/2/sugar-hill-manhattan-wp/mta-nyct-nfi-new-flyer-xn60-xc.jpg",
     "_m/d/r/7/2/sugar-hill-manhattan-wp/garrisonapts-435conventave-nyn.jpg"
   ],
-  "updatedAt": "2026-03-30T15:19:00.854Z"
+  "updatedAt": "2026-03-30T15:19:00.854Z",
+  "narration": {
+    "files": [
+      "dr72-sugar-hill-manhattan-flight-context.mp3",
+      "dr72-sugar-hill-manhattan-intro.mp3",
+      "dr72-sugar-hill-manhattan-the-sweet-life-on-the-hill.mp3",
+      "dr72-sugar-hill-manhattan-neighbors-on-the-stoop.mp3",
+      "dr72-sugar-hill-manhattan-a-name-that-traveled.mp3",
+      "dr72-sugar-hill-manhattan-elevation-and-endurance.mp3"
+    ],
+    "durations": {
+      "dr72-sugar-hill-manhattan-flight-context.mp3": 47.3774583,
+      "dr72-sugar-hill-manhattan-intro.mp3": 50.6090416,
+      "dr72-sugar-hill-manhattan-the-sweet-life-on-the-hill.mp3": 61.989,
+      "dr72-sugar-hill-manhattan-neighbors-on-the-stoop.mp3": 54.0452083,
+      "dr72-sugar-hill-manhattan-a-name-that-traveled.mp3": 57.743375,
+      "dr72-sugar-hill-manhattan-elevation-and-endurance.mp3": 52.028
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

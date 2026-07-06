@@ -228,5 +228,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qs65-operation-mosaic-flight-context.mp3",
+      "qs65-operation-mosaic-intro.mp3",
+      "qs65-operation-mosaic-the-road-back-to-the-montebellos.mp3",
+      "qs65-operation-mosaic-g1-the-first-shot.mp3",
+      "qs65-operation-mosaic-g2-the-largest-blast-on-australian-soil.mp3",
+      "qs65-operation-mosaic-contested-legacy.mp3"
+    ],
+    "durations": {
+      "qs65-operation-mosaic-flight-context.mp3": 46.5075833,
+      "qs65-operation-mosaic-intro.mp3": 42.0567083,
+      "qs65-operation-mosaic-the-road-back-to-the-montebellos.mp3": 62.5742916,
+      "qs65-operation-mosaic-g1-the-first-shot.mp3": 59.1647083,
+      "qs65-operation-mosaic-g2-the-largest-blast-on-australian-soil.mp3": 61.88425,
+      "qs65-operation-mosaic-contested-legacy.mp3": 80.8868333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

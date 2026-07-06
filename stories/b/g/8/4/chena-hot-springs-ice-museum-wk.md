@@ -1,0 +1,60 @@
+# The Aurora Ice Museum: Drinking Appletinis in a Freezer
+
+The Alaska hotel where everything is made of ice - beds, chandeliers, martini glasses - kept frozen year-round by geothermal power in a place where you can soak in hot springs while watching the northern lights and then sleep on an ice block if you're crazy enough.
+
+**Location:** 65.0500, -146.0500
+
+**Categories:** alaska, hot-springs, ice, aurora, geothermal
+
+## Introduction
+
+Sixty miles from Fairbanks, at the end of Chena Hot Springs Road, a resort has figured out how to freeze a building using volcanic heat. The Aurora Ice Museum is kept at 25°F year-round - even when it's 90°F outside in July - using a geothermal absorption chiller powered by hot springs. Inside, everything is ice: carved beds, ice bar stools, chandeliers that glitter without melting, and martini glasses that are themselves frozen. You put on a parka, walk into a world of blue-lit ice, drink an appletini from a frozen glass, and try to comprehend that the same earth producing 165°F hot springs is also keeping this room below freezing. Alaska doesn't believe in making sense. It believes in extremes.
+
+## The Hot Springs
+
+Chena Hot Springs have been known since gold rush days - miners discovered the geothermal waters in 1905. The resort developed gradually, attracting visitors who wanted to soak in naturally heated pools while surrounded by subarctic wilderness. The springs produce water at 165°F, hot enough to power much of the resort through geothermal systems. In winter, the hot springs become surreal: steam rises from pools while temperatures drop to -40°F, and northern lights dance overhead while bathers float in 106°F water. The resort has become a prime aurora viewing destination, combining celestial spectacle with terrestrial warmth.
+
+## The Ice Museum
+
+World champion ice carver Steve Brice created the Aurora Ice Museum in 2003, and it's been frozen ever since. The museum is kept at 25°F by absorption chillers that use geothermal heat to generate cooling - the same principle as propane refrigerators, scaled up. Inside, Brice's sculptures fill the space: a polar bear, jousting knights, a frozen forest of illuminated trees. The ice beds are functional - you can actually sleep on them, protected by insulated sleeping bags. The ice bar serves real drinks in real ice glasses; you wear provided parkas to prevent hypothermia while sipping. It's a fever dream made frozen, maintained year-round by the contradiction of using heat to create cold.
+
+## The Aurora
+
+Chena Hot Springs sits in the auroral zone - the ring around the magnetic north pole where northern lights appear most frequently. Clear dark nights between September and April bring regular displays: green curtains, pink edges, occasional purple coronas directly overhead. The resort has optimized for aurora viewing: wake-up calls when lights appear, heated outdoor viewing areas, and the unique experience of watching the sky while soaking in hot water. The combination is unforgettable - celestial fire above, geothermal fire below, and you floating between them. The ice museum adds another layer: frozen art beneath dancing lights.
+
+## The Engineering
+
+What makes Chena Hot Springs unusual isn't the hot springs or the ice museum individually - it's the integration. The resort uses geothermal energy for heating, electricity generation, and cooling, creating a closed system that demonstrates geothermal versatility. The same thermal gradient that makes hot springs possible also makes absorption chilling possible. The resort has experimented with geothermal agriculture, growing vegetables in greenhouses heated by the springs. It's a laboratory for renewable energy in extreme conditions - proof that Earth's internal heat can replace fossil fuels even in the coldest places.
+
+## Visiting Chena Hot Springs
+
+Chena Hot Springs Resort is located 60 miles northeast of Fairbanks, Alaska, via Chena Hot Springs Road (paved, year-round access). The resort offers lodging from cabins to hotel rooms, hot spring pools, and ice museum tours. Aurora viewing packages include wake-up calls and heated outdoor areas. Dog sledding, snow machines, and other winter activities are available. Summer offers midnight sun, hiking, and the surreal experience of touring the ice museum when it's 90°F outside. Fairbanks International Airport provides access; rent a car or arrange shuttle service. The ice museum requires a parka (provided) and warm clothes. Reservations are recommended, especially for winter aurora season. The experience is pure Alaska: extremes embraced and combined.
+
+## Flight Context
+
+Located at 65.05°N, 146.05°W in interior Alaska. From altitude, Chena Hot Springs is visible as a cluster of buildings at the end of a dead-end road 60 miles from Fairbanks. The Chena River valley extends westward; the Alaska Range rises to the south. The terrain is boreal forest and muskeg - classic interior Alaska landscape. Fairbanks is the nearest city, visible to the southwest. The road snakes through wilderness with no services between. Winter brings darkness and aurora; summer brings endless daylight. The geothermal activity isn't visible from altitude, but the steam rising from outdoor pools can sometimes be seen on cold days. This is deep Alaska - accessible but genuinely remote.
+
+## Sources
+
+- [Chena Hot Springs - Wikipedia](https://en.wikipedia.org/wiki/Chena_Hot_Springs)
+  - discovered 1905
+  - 165F water temperature
+  - Aurora Ice Museum
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 6 facts verified · 0 corrections
+
+Story overlay verified with sources
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Drinking Appletinis in a Freezer
+- Alaska doesn't believe in making sense. It believes in extremes.
+
+---
+
+*Word count: 850*
+*Read time: 5 minutes*

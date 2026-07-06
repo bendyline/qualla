@@ -534,5 +534,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qqfv-krakatoa-flight-context.mp3",
+      "qqfv-krakatoa-intro.mp3",
+      "qqfv-krakatoa-the-island-before-the-fire.mp3",
+      "qqfv-krakatoa-august-27-1883.mp3",
+      "qqfv-krakatoa-the-child-rises.mp3",
+      "qqfv-krakatoa-life-from-ashes.mp3",
+      "qqfv-krakatoa-a-restless-strait.mp3"
+    ],
+    "durations": {
+      "qqfv-krakatoa-flight-context.mp3": 53.169875,
+      "qqfv-krakatoa-intro.mp3": 51.9039583,
+      "qqfv-krakatoa-the-island-before-the-fire.mp3": 81.6047916,
+      "qqfv-krakatoa-august-27-1883.mp3": 87.6267083,
+      "qqfv-krakatoa-the-child-rises.mp3": 74.8637916,
+      "qqfv-krakatoa-life-from-ashes.mp3": 77.4432083,
+      "qqfv-krakatoa-a-restless-strait.mp3": 75.8941666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

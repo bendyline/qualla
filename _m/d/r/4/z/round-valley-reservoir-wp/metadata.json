@@ -226,5 +226,24 @@
     "_m/d/r/4/z/round-valley-reservoir-wp/roundvalleybl.jpg",
     "_m/d/r/4/z/round-valley-reservoir-wp/roundvalleyshoreline.jpg",
     "_m/d/r/4/z/round-valley-reservoir-wp/roundvalleytree.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr4z-round-valley-reservoir-flight-context.mp3",
+      "dr4z-round-valley-reservoir-intro.mp3",
+      "dr4z-round-valley-reservoir-a-valley-shaped-by-fire-and-water.mp3",
+      "dr4z-round-valley-reservoir-the-town-below.mp3",
+      "dr4z-round-valley-reservoir-the-bermuda-triangle-of-new-jersey.mp3",
+      "dr4z-round-valley-reservoir-trout-trails-and-clear-blue.mp3"
+    ],
+    "durations": {
+      "dr4z-round-valley-reservoir-flight-context.mp3": 52.9340416,
+      "dr4z-round-valley-reservoir-intro.mp3": 46.6354583,
+      "dr4z-round-valley-reservoir-a-valley-shaped-by-fire-and-water.mp3": 66.9742083,
+      "dr4z-round-valley-reservoir-the-town-below.mp3": 55.7030833,
+      "dr4z-round-valley-reservoir-the-bermuda-triangle-of-new-jersey.mp3": 56.2886666,
+      "dr4z-round-valley-reservoir-trout-trails-and-clear-blue.mp3": 74.4645833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

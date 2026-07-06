@@ -241,5 +241,24 @@
     "_m/z/1/c/b/shantar-islands-wp/podismopsis-insularis-male-fro.png",
     "_m/z/1/c/b/shantar-islands-wp/podismopsis-insularis-female-f.png"
   ],
-  "updatedAt": "2026-04-01T19:26:24.825Z"
+  "updatedAt": "2026-04-01T19:26:24.825Z",
+  "narration": {
+    "files": [
+      "z1cb-shantar-islands-flight-context.mp3",
+      "z1cb-shantar-islands-intro.mp3",
+      "z1cb-shantar-islands-cossacks-and-cartographers.mp3",
+      "z1cb-shantar-islands-the-whaling-years.mp3",
+      "z1cb-shantar-islands-islands-of-the-taiga-and-the-ice.mp3",
+      "z1cb-shantar-islands-a-fragile-sanctuary.mp3"
+    ],
+    "durations": {
+      "z1cb-shantar-islands-flight-context.mp3": 44.4590416,
+      "z1cb-shantar-islands-intro.mp3": 48.32375,
+      "z1cb-shantar-islands-cossacks-and-cartographers.mp3": 58.21225,
+      "z1cb-shantar-islands-the-whaling-years.mp3": 57.18,
+      "z1cb-shantar-islands-islands-of-the-taiga-and-the-ice.mp3": 68.7134583,
+      "z1cb-shantar-islands-a-fragile-sanctuary.mp3": 52.0610416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

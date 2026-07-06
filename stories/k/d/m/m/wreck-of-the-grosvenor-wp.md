@@ -1,0 +1,60 @@
+# Wreck of the Grosvenor
+
+In 1782, the East Indiaman Grosvenor ran aground on the Pondoland coast of South Africa, stranding 150 people in a wilderness hundreds of miles from the nearest European settlement -- a disaster whose survivors, salvagers, and mysteries shaped the region for centuries.
+
+**Location:** -31.3739, 29.9147
+
+**Categories:** shipwrecks, maritime-history, colonial-history, south-africa, wild-coast
+
+## Introduction
+
+At four in the morning on 4 August 1782, a sailor named Thomas Lewis peered into the darkness off the South African coast and said he thought he could see land. The officer of the watch dismissed him. Everyone aboard the Grosvenor was certain they were at least two hundred miles out to sea. They were wrong. Within the hour, the three-masted East Indiaman -- carrying 132 crew, 18 passengers including six children, and cargo valued at 75,000 pounds -- struck the rocks of the Pondoland coast and broke apart. What followed was not just a shipwreck but a survival ordeal that would haunt the British imagination for generations, spawning rescue missions, treasure hunts, and rumors of castaways living among the Pondo people that persisted for decades.
+
+## Mistaken Lights
+
+The Grosvenor had left Trincomalee, Ceylon, on 13 June 1782, bound for England under Captain John Coxon. She had sailed from Madras in March carrying a rich cargo from the East India trade. As the ship approached the Cape coast in the small hours, the crew spotted lights to the west and dismissed them as something like the aurora borealis. In fact, the lights were grassfires burning on a headland directly in their path. When the fires disappeared behind the brow of a hill, the crew gave them no further thought. After Lewis's warning was rejected, the quartermaster Mixon hesitated -- then alerted the captain. Coxon rushed on deck and attempted to club haul the ship, a desperate maneuver to swing the bow away from danger. It failed. The Grosvenor ground onto the rocks. In the confusion of darkness, the crew believed they had struck an uncharted reef far from shore. A shift in the wind eventually allowed the stern section, where most passengers huddled, to be hauled into a sheltered inlet. One hundred and eight people survived the wreck itself.
+
+## The Fatal Miscalculation
+
+Dawn revealed the Pondoland coast -- green, wild, and impossibly remote. Captain Coxon mustered the survivors on the beach while they salvaged what they could from the wreckage. Pondo tribesmen arrived but showed more interest in recovering iron nails from the ship than in assisting the castaways. Coxon knew they were stranded between two distant European settlements: the Dutch Cape Colony to the south and the Portuguese colony at Delagoa Bay to the north. He chose south, insisting they could walk to the Cape in ten to seventeen days. It was a catastrophic misjudgment. The true distance was four hundred miles, not the two hundred and fifty he believed -- and Delagoa Bay was actually closer. The group set out on foot along the coast. Within days, most had collapsed. The captain and his passengers never completed the journey. They made camp and most died of starvation. Only the fittest pressed on, receiving help at several Pondo settlements along the way. Of the original survivors, just eighteen reached Cape Town alive.
+
+## Those Who Stayed
+
+The official inquiry told a more complicated story than simple tragedy. Alexander Dalrymple's report to the East India Company concluded that the heavy death toll resulted principally from "want of management with the natives," noting pointedly that "the individuals that fell singly among them" had been treated "rather with kindness than with brutality." Two sailors, Joshua Glover and John Bryan, walked away from the main group to live with the Pondo -- Glover's shipmates dismissed him as disturbed, but both men survived and were later found living contentedly among their hosts. Persistent rumors circulated that some of the women passengers had survived in the same way. Eight years after the wreck, a rescue mission of Boer farmers set out to investigate and found three white women living at a settlement near the Umgazana River. The historian Stephen Taylor has argued that two of them were Grosvenor survivors, though conclusive proof was never established. The question of what happened to the missing passengers became one of the enduring mysteries of South African colonial history.
+
+## Treasure and Ambition
+
+Nearly a century after the wreck, the Grosvenor attracted a different kind of fortune-seeker. In 1880, Captain Sidney Turner sailed to the wreck site and began blasting the rocks with dynamite, recovering Indian coins, Venetian ducats, and several of the ship's cannon -- two of which ended up in Durban's Local History Museum. A silversmith fashioned a goblet from recovered silver rupees. Turner parlayed his salvage profits into something grander: a deal with the local Pondo chief Mqikela, who granted him twenty thousand acres of coastline, including the wreck site, in exchange for building a harbor. Turner named it Port Grosvenor and installed himself as port captain and harbormaster. For a brief moment, this former wreck site became a functioning port. But the Cape Government declared the concession illegal under tribal law, and Turner lost everything -- his land, his home, his position. He retreated to nearby Port St Johns with his wife and seven children. The last ship called at Port Grosvenor in January 1886, and the place faded into the landscape, as if the coast had simply reclaimed it.
+
+## A Coast That Remembers
+
+The Grosvenor was not even the first ship to founder on this stretch of coast. The Portuguese vessel Sao Joao had wrecked at nearly the same spot more than two centuries earlier, in 1552. The Pondoland shore, beautiful and treacherous, has been breaking ships for as long as ships have sailed it. In 1896, a further 340 gold and silver coins were recovered from the Grosvenor site, and the wreck has continued to draw divers and treasure seekers into the modern era. Today the stretch of coast near Port Grosvenor remains remote and largely undeveloped, part of the Wild Coast that runs along the Eastern Cape. The cliffs and rocky shores look much as they did on that dark August morning in 1782, when a crew dismissed the grassfires on the headland and sailed straight into them.
+
+## Flight Context
+
+The Grosvenor wreck site lies at approximately 31.37S, 29.91E on the Pondoland coast (Wild Coast) of the Eastern Cape, South Africa, north of the Umzimvubu River mouth near Port Grosvenor. From the air, this stretch of coast is characterized by dramatic cliffs, rocky shoreline, and green rolling hills with minimal development. The nearest significant town is Port St Johns to the south. The nearest airports are Mthatha Airport (FAUT) approximately 80 km inland and East London Airport (FAEL) approximately 200 km to the southwest. Best viewed at 2,000-4,000 ft AGL to appreciate the rugged coastline and the remote character of the wreck site.
+
+## Sources
+
+- [Wreck of the Grosvenor - Wikipedia](https://en.wikipedia.org/?curid=21520334)
+  - Shipwreck on 4 August 1782 confirmed
+  - 132 crew and 18 passengers confirmed
+  - Captain John Coxon confirmed
+  - 18 survivors reached Cape Town confirmed
+  - distance miscalculation 400 miles vs 250 believed confirmed
+  - Port Grosvenor concession history confirmed
+  - Sao Joao wreck at same location 1552 confirmed
+  - 1880 salvage by Sidney Turner confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 8 facts verified · 0 corrections
+
+Verified shipwreck date, survivor count, captain name, Port Grosvenor history, Sao Joao 1552. All facts confirmed. No errors found.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 870*
+*Read time: 4 minutes*

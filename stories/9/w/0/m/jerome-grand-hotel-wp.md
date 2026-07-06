@@ -1,0 +1,66 @@
+# Jerome Grand Hotel
+
+A 1926 hospital built into a 50-degree mountainside for copper miners -- fireproof, earthquake-proof, and now one of Arizona's most haunted hotels.
+
+**Location:** 34.7536, -112.1114
+
+**Categories:** history, architecture, mining, hotels, ghost-town, arizona
+
+## Introduction
+
+The elevator moves at fifty feet per minute. In a modern high-rise, you would be climbing at eight hundred. But this is not a modern high-rise. This is a 1926 Otis elevator -- Arizona's first self-service model -- originally designed to carry hospital gurneys and wheelchairs through five floors of poured concrete built into a fifty-degree mountainside. The Jerome Grand Hotel was never meant to be a hotel. It was the United Verde Hospital, the crown jewel of a copper empire that once made Jerome one of the wealthiest towns in the American West. When the copper ran out, the building sat empty for forty-four years. Now it is a hotel, and guests ride that same slow elevator to rooms where thousands once came to be healed -- or to die.
+
+## Copper Kingdom on Cleopatra Hill
+
+Jerome clings to the side of Cleopatra Hill between Prescott and Flagstaff, and at its peak in the early 1900s, the town held nearly 15,000 people and over thirty nationalities. The United Verde Copper Company was the engine driving it all, producing copper, gold, silver, lead, and zinc from an ore body that yielded metals worth more than a billion dollars over seventy-seven years. By the 1920s, Jerome needed a hospital worthy of its ambitions. The United Verde Hospital opened in January 1927 -- the fourth and final hospital built in Jerome. By 1930, it was listed as the most modern and well-equipped hospital in Arizona, and possibly in all of the western states. It was also the highest commercial building in the Verde Valley, sitting at 5,240 feet above sea level.
+
+## Built to Withstand Dynamite
+
+The hospital's architects faced a problem unique to Jerome: the building had to survive not just earthquakes but the daily detonation of 260,000 pounds of dynamite in the mines below. Their solution was a 30,000-square-foot structure of poured-in-place concrete anchored to solid bedrock on a fifty-degree slope against the flanks of Mingus Mountain. Not a single piece of wood went into the framework -- the entire building was designed to be fireproof. The Mission Revival structure became the last major building constructed in Jerome, a monument to engineering confidence in a town that was already beginning to slide. In 1938, a powerful mining blast jostled Jerome's jail building off its foundations, sending it 225 feet downhill across the road. The hospital held firm.
+
+## The Long Silence
+
+Copper production peaked in 1929, and the Depression accelerated Jerome's decline. The Little Daisy mine shut down in 1938. When Phelps Dodge closed its operations for good in 1953, Jerome's population collapsed from thousands to fewer than one hundred. The hospital had already closed in 1950, its medical staff transferring to the neighboring community of Cottonwood. For the next forty-four years, the concrete fortress sat empty on its mountainside, its cast-iron Kewanee boiler cold, its Otis elevator still. Jerome was designated a National Historic District in 1967, and artists and craftspeople began trickling into the ghost town in the 1960s and 70s, converting crumbling miners' buildings into galleries and studios. But the hospital waited.
+
+## Checking In to a Former Hospital
+
+In 1994, Larry Altherr purchased the abandoned hospital from Phelps Dodge and began the transformation. The Jerome Grand Hotel opened for business in 1996, and Altherr remains the owner. The original Otis elevator still operates, regularly maintained and inspected, ferrying guests at its deliberate fifty-feet-per-minute pace. The 1926 Kewanee boiler -- a cast-iron unit originally designed to run on wood, coal, or oil -- has been converted to natural gas and still provides low-pressure steam heat throughout the building, producing between 800,000 and 2,500,000 BTUs. Its dual pump system means it never needs to be shut down for maintenance. The hotel's motto is fitting: "Arizona's mile high historic landmark." At 5,240 feet, perched on Cleopatra Hill with panoramic views across the Verde Valley, the Jerome Grand Hotel is a place where copper-era engineering and modern hospitality coexist inside walls that were built to outlast explosions.
+
+## Flight Context
+
+The Jerome Grand Hotel is located at 34.754N, 112.111W in Jerome, Arizona, on the slopes of Cleopatra Hill at 5,240 feet elevation. Jerome is dramatically visible from the air -- a cluster of buildings clinging to a steep mountainside above the Verde Valley. The hotel is the large white Mission Revival structure near the top of town. Mingus Mountain rises behind Jerome to the west. Nearest airports include Cottonwood Airport (P52) approximately 8 nm east in the Verde Valley and Sedona Airport (KSEZ) approximately 20 nm northeast. SR-89A winds up the mountain through Jerome, connecting Prescott to the southwest with Sedona to the northeast. Best viewed at 6,000-8,000 feet AGL approaching from the Verde Valley side.
+
+## Sources
+
+- [Jerome Grand Hotel - Wikipedia](https://en.wikipedia.org/?curid=34605211)
+  - United Verde Hospital opened January 1927
+  - 4th and final hospital in Jerome
+  - most modern hospital in Arizona by 1930
+  - 30,000 sq ft poured concrete construction
+  - 50-degree slope on solid bedrock
+  - 260,000 lbs dynamite in mines below
+  - first self-service Otis elevator in Arizona (1926)
+  - hospital closed 1950
+- [Jerome Grand Hotel Official - Hotel History](https://jeromegrandhotel.net/hotel-history/)
+  - Larry Altherr purchased from Phelps Dodge in 1994
+  - hotel opened 1996
+  - Kewanee boiler still in operation
+  - 5,240 feet elevation
+  - hotel currently open and operating as of 2026
+- [Arizona State Parks - Jerome State Historic Park](https://azstateparks.com/jerome/about-the-mansion/park-history)
+  - Douglas Mansion built 1916 by James S. Douglas
+  - Jerome State Historic Park opened 1965
+  - Little Daisy Mine shut down 1938
+
+## Review Notes
+
+**Reviewed:** 2026-01-31 · 11 facts verified · 0 corrections
+
+All facts verified: hospital opened Jan 1927, 4th hospital, most modern by 1930, 30K sq ft concrete, 50-degree slope, 260K lbs dynamite, Otis elevator 1926, hospital closed 1950, Altherr purchased 1994, opened 1996, hotel operating 2026. Spiciness 2 - mild descriptive tone.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

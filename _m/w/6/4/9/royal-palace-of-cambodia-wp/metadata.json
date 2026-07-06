@@ -744,5 +744,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w649-royal-palace-of-cambodia-flight-context.mp3",
+      "w649-royal-palace-of-cambodia-intro.mp3",
+      "w649-royal-palace-of-cambodia-a-wandering-throne.mp3",
+      "w649-royal-palace-of-cambodia-the-sacred-seat-of-judgement.mp3",
+      "w649-royal-palace-of-cambodia-an-iron-house-and-a-moonlit-stage.mp3",
+      "w649-royal-palace-of-cambodia-silver-floors-and-diamond-buddhas.mp3",
+      "w649-royal-palace-of-cambodia-still-a-living-palace.mp3"
+    ],
+    "durations": {
+      "w649-royal-palace-of-cambodia-flight-context.mp3": 42.9549583,
+      "w649-royal-palace-of-cambodia-intro.mp3": 46.926375,
+      "w649-royal-palace-of-cambodia-a-wandering-throne.mp3": 64.7610416,
+      "w649-royal-palace-of-cambodia-the-sacred-seat-of-judgement.mp3": 70.3855,
+      "w649-royal-palace-of-cambodia-an-iron-house-and-a-moonlit-stage.mp3": 69.6094166,
+      "w649-royal-palace-of-cambodia-silver-floors-and-diamond-buddhas.mp3": 66.9930416,
+      "w649-royal-palace-of-cambodia-still-a-living-palace.mp3": 64.7804166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

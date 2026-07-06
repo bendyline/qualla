@@ -1,0 +1,68 @@
+# Battle of Midtskogen
+
+A desperate night firefight where Norwegian volunteers armed with hunting rifles stopped a German paratroop assault aimed at capturing the king.
+
+**Location:** 60.8767, 11.4681
+
+**Categories:** Battles and operations of World War II involving Norway, Battles of World War II involving Germany, Norwegian campaign, 1940 in Norway, Military history of Norway during World War II, Elverum Municipality, History of Innlandet, April 1940 in Europe
+
+## Introduction
+
+At two o'clock in the morning on April 10, 1940, a convoy of German buses crashed into a roadblock of civilian automobiles stretched across a snowy Norwegian road. Somewhere in those buses rode over a hundred elite Fallschirmjäger paratroopers with orders to capture King Haakon VII and his entire cabinet, an action that would have ended Norwegian resistance before it truly began. What stopped them was an improvised force of Royal Guardsmen, military volunteers, and local rifle club members armed primarily with bolt-action hunting rifles designed in the 1890s. The firefight at Midtskogen Farm lasted barely an hour, but its consequences altered the course of Norway's war.
+
+## The Sinking That Bought Time
+
+The German assault on Norway, Operation Weserübung, had proceeded with terrifying efficiency throughout April 9. Major cities fell in rapid succession as German forces landed by sea. Only one thing went wrong: the heavy cruiser Blücher, sailing up the Oslofjord toward the capital, came under fire from the antiquated guns of Oscarborg Fortress at Drøbak. Two torpedoes struck the warship, sending it to the bottom with over a thousand men. That disaster forced the German fleet to withdraw temporarily, buying precious hours. King Haakon VII and Prime Minister Johan Nygaardsvold's cabinet fled Oslo by train, first to Hamar and then to Elverum at the mouth of the Østerdalen valley. The Germans immediately dispatched a raiding party to pursue them.
+
+## The Hunters Against the Elite
+
+Military attaché Hauptmann Eberhard Spiller commanded the German pursuit force, approximately 100-120 paratroopers traveling in four commandeered buses, a captured army truck, and Spiller's private car. They carried modern submachine guns, light machine guns, and hand grenades. Against them stood a hastily assembled Norwegian force of perhaps 50 to 60 defenders: 20-30 Royal Guardsmen from the 1st Guard Company, volunteers from the Terningmoen military camp, and members of local rifle clubs who had grabbed their Krag-Jørgensen hunting rifles and headed into the night. The Norwegians possessed exactly two machine guns, Colt M/29s that had been designed for the American Army in 1917.
+
+## Fire in the Snow
+
+The Norwegian plan called for stopping the German convoy at Midtskogen Farm with a roadblock while flanking units engaged from the sides and two machine guns provided covering fire from fixed positions. The roadblock, improvised from civilian cars forced off the road and wedged between each other, grew to over a hundred meters long due to the heavy traffic fleeing Oslo that night. When the German buses hit this obstacle around 02:00, they stopped further west than the Norwegians had anticipated, throwing the defensive plan into chaos. As flanking units scrambled to redeploy, German illumination rounds struck the nearby barn, setting it ablaze and revealing the Norwegian positions at the farm.
+
+## Frozen Guns and Burning Barns
+
+The two machine guns that were supposed to anchor Norwegian firepower could not engage initially because the firefight developed too far from their emplacement. When the Germans finally advanced into their field of fire, the freezing temperatures had seized the mechanisms. Frantic efforts in the bitter cold eventually freed one gun, which began laying down suppressive fire that covered the Norwegian retreat toward the secondary position at Sagstuen. For an hour the firefight continued, the barn burning orange against the snow, until both sides pulled back around 03:00. The Germans had lost five men killed, including Hauptmann Spiller who was mortally wounded. Norwegian casualties amounted to three wounded, at least one severely.
+
+## The Authorization That Changed Everything
+
+The German retreat gave King Haakon and his cabinet the time they desperately needed. That same night they completed the Elverum Authorization, an emergency decree granting the cabinet absolute authority to govern since the Storting parliament could no longer meet in ordinary session. This legal framework allowed the Norwegian government to continue functioning in exile for the next five years. On April 11, German bombers leveled the town of Elverum in retaliation, but the king and cabinet had already escaped further into the mountains. Though militarily minor, Midtskogen became a crucial symbol of Norwegian resistance. The 2016 film The King's Choice brought the story to international audiences. A memorial stone now stands where volunteer hunters armed with obsolete rifles faced down Hitler's paratroopers and won.
+
+## Flight Context
+
+Located at 60.88N, 11.47E, approximately 10 kilometers west of the town of Elverum at the mouth of the Østerdalen valley in Innlandet county. The site is Midtskogen Farm, visible as agricultural land along the road between Terningmoen military camp and the town center. The Glomma River flows nearby to the south. Nearest airports include Oslo Gardermoen (ENGM) approximately 100km southwest. The terrain is rolling farmland and forest typical of southern Norwegian valleys.
+
+## Sources
+
+- [Battle of Midtskogen - Wikipedia](https://en.wikipedia.org/?curid=1615962)
+  - Battle on night of April 9-10, 1940
+  - 100-120 German paratroopers in convoy
+  - Norwegian force of 50-60 defenders
+  - Hauptmann Eberhard Spiller commanded German force
+  - Spiller mortally wounded
+  - five German dead, three Norwegians wounded
+- [Wikipedia - Battle of Drøbak Sound](https://en.wikipedia.org/wiki/Battle_of_Dr%C3%B8bak_Sound)
+  - Cruiser Blücher sunk by Oscarborg Fortress at Drøbak
+  - two torpedoes struck the ship
+  - bought time for royal family escape
+- [Wikipedia - Elverum Authorization](https://en.wikipedia.org/wiki/Elverum_Authorization)
+  - Authorized April 9, 1940 at Elverum
+  - gave cabinet absolute authority
+  - enabled government to function in exile for five years
+- [Wikipedia - The King's Choice](https://en.wikipedia.org/wiki/The_King's_Choice)
+  - 2016 Norwegian film depicting these events
+
+## Review Notes
+
+**Reviewed:** 2026-02-03 · 12 facts verified · 0 corrections
+
+Verified April 9-10 1940 battle date, German force size, Blücher sinking at Drøbak, Elverum Authorization, 2016 film The King's Choice. All facts accurate.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 790*
+*Read time: 4 minutes*

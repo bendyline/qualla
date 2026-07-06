@@ -1,0 +1,66 @@
+# Atal Tunnel
+
+A 9.02-kilometer passage blasted through the Pir Panjal range that turned a deadly six-hour mountain crossing into a two-hour drive beneath the Himalayas.
+
+**Location:** 32.3982, 77.1475
+
+**Categories:** engineering, tunnels, infrastructure, himalayas
+
+## Introduction
+
+For six months of every year, the Rohtang Pass simply ceased to exist. Snow buried it, avalanches swept its approaches, and the people of Lahaul and Spiti were sealed off from the rest of India as completely as if the mountains had closed a door. Supplies dwindled, medical emergencies became death sentences, and the strategic road to Ladakh went silent. In 1860, Moravian missionaries first proposed the obvious solution: go through the mountain instead of over it. It took 160 years, the labor of thousands, and the lives of at least 42 workers before the Atal Tunnel finally opened in October 2020, carrying two lanes of highway through 9.02 kilometers of Himalayan rock at an altitude above 3,000 meters. It is the longest highway single-tube tunnel above 10,000 feet in the world.
+
+## A Century of Waiting
+
+The tunnel's backstory reads like a lesson in bureaucratic geology. In 1942, Dr. John Bicknell Auden of the Geological Survey of India visited Rohtang Pass with the idea of diverting the Chandra River into the Beas, and the concept of boring through the Pir Panjal entered official imagination. Nothing happened for decades. In June 2000, Prime Minister Atal Bihari Vajpayee announced the project. By 2002, the Border Roads Organisation was put in charge. By 2003, the work had not advanced beyond felling trees. Cost estimates ballooned from early projections to 900 crore rupees by late 2004. An Australian firm won the contract in 2007 with a 2014 deadline, then produced no progress for three years. It was not until 2009 that a joint venture between India's AFCONS Infrastructure and Austria's STRABAG AG was awarded the work. Drilling finally began on 28 June 2010 at the south portal, 25 kilometers north of Manali.
+
+## Blasting Through the Impossible
+
+The Pir Panjal did not yield easily. Workers used the drill-and-blast method with the New Austrian Tunnelling Method for support, reinforcing the horseshoe-shaped bore with fiber-reinforced concrete and rock bolts up to nine meters long. Tunnel boring machines were rejected because the mountain's interior geology was too unpredictable to risk a machine that could not adapt to surprises. The surprises came anyway. At the Serri Nullah fault zone, groundwater poured in at rates reaching three million liters per day, turning excavation into a battle against flooding. Progress dropped from five meters a day to half a meter. In October 2013, a 30-meter section of the roof collapsed near the north portal, halting work entirely. Because Rohtang Pass closes in winter, the north portal was unreachable for months at a time, so three-quarters of the tunnel was dug from the south end alone. More than 46 avalanche sites threatened the approach roads.
+
+## The Human Cost
+
+On 8 August 2003, while crews were still building the temporary access road, a cloudburst triggered a flash flood that killed 42 laborers. Their deaths are a reminder that the tunnel's gleaming concrete interior was carved not just from rock but from enormous human sacrifice over two decades. Workers endured altitude sickness, subzero temperatures, and the constant risk of unstable geology. Over 800,000 cubic meters of excavated rock and soil had to be disposed of in an environmentally sensitive alpine zone, and the felling of more than 700 trees drew criticism from ecologists. When both ends of the tunnel finally met on 13 October 2017, the achievement was as much a testament to the endurance of the laborers as to any engineering plan. The tunnel was used for emergency evacuations even before completion: in September 2018, people stranded in Lahaul by a sudden snowfall were brought through the unfinished bore.
+
+## What Changes When a Road Opens
+
+The numbers tell the transformation plainly. The old route from Manali to Keylong ran 116 kilometers through Gramphu and took five to six hours in good conditions. The new route cuts the distance to 71 kilometers and the travel time to roughly two hours. But the real change is measured in months, not hours. Before the tunnel, Lahaul and Spiti were effectively cut off every winter. Now the road stays open year-round, connecting roughly 30,000 residents to hospitals, markets, and the rest of their country. In November 2019, even before the tunnel was finished, a trial bus service began ferrying 44 passengers at a time through the unfinished bore. For five winter months, that single bus route was the valley's lifeline. The tunnel also serves a strategic military purpose, maintaining a year-round supply route toward Ladakh and the contested border regions to the north.
+
+## Nine Kilometers of Mountain Air
+
+Driving through the Atal Tunnel today, you pass through a horseshoe-shaped corridor 10 meters wide at road level, lit by overhead panels and monitored by CCTV cameras linked to control rooms at both portals. A semi-transverse ventilation system pushes fresh air through the bore while pollution sensors track air quality in real time. Beneath the road surface, a separate emergency tunnel runs the full length, 2.25 meters high and 3.6 meters wide, ready for evacuation. Fire hydrants stand at regular intervals, and a public announcement system can reach every section. The design speed is 80 kilometers per hour. At that pace, the crossing takes about seven minutes. Seven minutes to pass through rock that blocked human movement for millennia. The tunnel was renamed from Rohtang Tunnel to Atal Tunnel on 25 December 2019, honoring the prime minister who announced the project, and inaugurated by Prime Minister Narendra Modi on 3 October 2020.
+
+## Flight Context
+
+Located at 32.40°N, 77.15°E in the eastern Pir Panjal range of the Himalayas, Himachal Pradesh. The south portal is 25 km north of Manali, and the north portal opens toward Keylong in the Lahaul valley. The tunnel runs beneath terrain with up to 1,900 meters of overburden. Nearest major airport is Kullu-Manali Airport (Bhuntar, VIBR), approximately 50 km south. Leh Kushok Bakula Rimpochee Airport (VILH) lies further north along the route the tunnel serves. Terrain is extremely mountainous with limited VFR windows, especially during winter months when Rohtang Pass is snow-covered.
+
+## Sources
+
+- [Atal Tunnel - Wikipedia](https://en.wikipedia.org/?curid=23637621)
+  - Longest highway single-tube tunnel above 10,000 feet in the world confirmed (World Book of Records certified)
+  - Length 9.02 km confirmed
+  - South portal 25 km north of Manali confirmed
+  - Drilling began June 28, 2010 confirmed
+  - Both ends met October 13, 2017 confirmed
+  - Renamed Atal Tunnel December 25, 2019 confirmed
+  - Inaugurated by PM Modi October 3, 2020 confirmed
+  - 42 workers killed in August 8, 2003 flash flood confirmed
+  - AFCONS Infrastructure and STRABAG AG joint venture from 2009 confirmed
+  - Old route 116 km five-six hours, new route 71 km two hours confirmed
+  - Design speed 80 km/h confirmed
+  - Emergency tunnel 2.25m high, 3.6m wide confirmed
+- [Atal Tunnel officially recognised as Longest Highway Tunnel above 10,000 feet - PIB India](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1796961&reg=3&lang=2)
+  - World Book of Records certification of superlative confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 12 facts verified · 0 corrections
+
+Key facts verified: 9.02 km, longest highway single-tube tunnel above 10,000 ft in world (World Book of Records certified), 42 workers killed August 8 2003 flash flood, drilling began June 28 2010, breakthrough October 13 2017, renamed December 25 2019, inaugurated October 3 2020 by PM Modi, design speed 80 km/h, emergency tunnel dimensions confirmed. No corrections needed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

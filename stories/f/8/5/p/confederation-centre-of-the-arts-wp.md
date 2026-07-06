@@ -1,0 +1,65 @@
+# Confederation Centre of the Arts
+
+Canada's national memorial to the Fathers of Confederation doubles as a cultural powerhouse in Charlottetown, home to a Guinness World Record-holding musical and a permanent art collection of over 17,000 works.
+
+**Location:** 46.2345, -63.1269
+
+**Categories:** National Historic Sites in Prince Edward Island, Arts centres in Canada, Performing arts centres in Canada, Brutalist architecture in Canada, Culture of Charlottetown
+
+## Introduction
+
+Every summer for over half a century, a red-haired orphan girl took the stage in Charlottetown and refused to leave. Anne of Green Gables -- The Musical ran at the Confederation Centre of the Arts from 1965 to 2019, earning the Guinness World Record for the longest-running annual musical theatre production. But the building that hosted Anne was never meant to be merely a theatre. It was built as a national memorial -- a Brutalist block of concrete and purpose planted on Queen's Square, directly facing the room where, in September 1864, delegates from across British North America first imagined a country called Canada.
+
+## A Memorial in Concrete
+
+Construction began in 1960, funded jointly by all ten provincial governments and the federal government. Queen Elizabeth II officially opened the centre on October 6, 1964, exactly one hundred years after the Charlottetown Conference that inspired it. The building was conceived as Canada's National Memorial to the Fathers of Confederation -- the politicians from Nova Scotia, New Brunswick, Prince Edward Island, and the Province of Canada who gathered in the Confederation Chamber of Province House to discuss the union that became Canadian Confederation. The centre was placed immediately west of Province House, its Memorial Hall facing east toward the very room where those discussions took place. The symbolism is architectural and deliberate: the past and its commemoration stare directly at each other across a single city block.
+
+## Three Buildings That Are One
+
+At street level, the Confederation Centre appears to be three separate structures clustered around Memorial Hall, bounded by Grafton, Queen, and Richmond Streets in Charlottetown's central business district. It is, in fact, one contiguous building -- a characteristic of its Brutalist design that prioritizes mass and function over the kind of visual fragmentation that might make a building this size feel lighter. Inside, the spaces divide into distinct purposes. The art gallery pavilion occupies the northeast, a three-storey structure with over 3,250 square metres of exhibition space and a permanent collection that has grown to more than 17,000 works. The performing arts side includes the 1,109-seat Homburg Theatre, the largest mainstage in Canada east of Montreal, along with two studio theatres for more intimate productions.
+
+## The Charlottetown Festival
+
+Since 1965, the Charlottetown Festival has filled summer evenings at the centre with music, drama, and the particular energy of a city that knows its historical moment. Anne of Green Gables -- The Musical anchored the festival for decades, but hundreds of other productions have passed through the centre's stages. The festival was interrupted only once, in 2020, when the global COVID-19 pandemic silenced theatres everywhere. In 2011, the mainstage Homburg Theatre underwent a 17-million-dollar renovation, improving acoustics, seating, lighting, and rigging -- work completed in time for the centre's 50th anniversary in 2014. The centre was designated a National Historic Site of Canada in 2003, recognizing not just its architecture but its sustained role as a living memorial.
+
+## A Place That Earns Its Keep
+
+Unlike many cultural institutions that depend primarily on government funding, the Confederation Centre generates 65 percent of its operating budget through ticket sales, memberships, donations, and sponsorships. Canadian Heritage provides 25 percent, the Province of Prince Edward Island contributes 6 percent, and other granting bodies cover the remaining 4 percent. This mix of self-reliance and public support reflects the centre's dual identity as both national monument and working arts venue. It is not a shrine to a single historical moment, preserved under glass. It is a building that fills its seats, hangs new art on its walls, and stages performances that draw audiences from across the Maritimes and beyond -- a memorial that stays alive by doing what memorials rarely do: looking forward.
+
+## Flight Context
+
+Located at 46.234N, 63.127W in the heart of Charlottetown's business district, on Queen's Square adjacent to Province House. The large Brutalist building covers an entire city block, visible from above as a substantial grey structure among the smaller Victorian-era buildings of downtown Charlottetown. Nearest airport is Charlottetown Airport (CYYG), approximately 5 km north. Best viewed at 1,500-2,000 ft AGL on approach to the Charlottetown waterfront.
+
+## Sources
+
+- [Confederation Centre of the Arts - Wikipedia](https://en.wikipedia.org/?curid=865885)
+  - Opened October 6, 1964 by Queen Elizabeth II verified
+  - Funded jointly by ten provincial and federal governments verified
+  - Anne of Green Gables musical 1965-2019 Guinness World Record verified
+  - Homburg Theatre 1,109-seat capacity verified (Wikipedia; other sources cite 1,102)
+  - Art gallery 3,250 sq metres exhibition space verified
+  - Collection over 17,000 works verified
+  - National Historic Site designated June 30, 2003 verified
+  - $17-million Homburg Theatre renovation 2011 verified
+  - COVID-19 interrupted festival 2020 verified
+  - Operating budget 65% self-generated, 25% Canadian Heritage, 6% PEI, 4% other from Wikipedia
+- [Confederation Centre of the Arts - Official Website](https://confederationcentre.com/about-the-centre/our-history/)
+  - Charlottetown Festival history since 1965 verified
+  - Largest mainstage east of Montreal claim from official site
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 10 facts verified · 0 corrections
+
+All facts verified: Oct 6 1964 opening by Queen Elizabeth II, Anne of Green Gables musical 1965-2019 Guinness record, Homburg Theatre 1,109 seats (matches Wikipedia; some sources cite 1,102), 17,000+ art collection, 3,250 sq m gallery, NHS designated 2003, 2011 renovation.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- a memorial that stays alive by doing what memorials rarely do: looking forward
+
+---
+
+*Word count: 660*
+*Read time: 3 minutes*

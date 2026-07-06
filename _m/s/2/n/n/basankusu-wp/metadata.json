@@ -843,5 +843,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "s2nn-basankusu-flight-context.mp3",
+      "s2nn-basankusu-intro.mp3",
+      "s2nn-basankusu-life-at-the-confluence.mp3",
+      "s2nn-basankusu-the-barkless-dogs-of-the-congo.mp3",
+      "s2nn-basankusu-bonobos-and-the-vanishing-forest.mp3",
+      "s2nn-basankusu-scars-of-war-and-neglect.mp3"
+    ],
+    "durations": {
+      "s2nn-basankusu-flight-context.mp3": 54.9610833,
+      "s2nn-basankusu-intro.mp3": 58.2912916,
+      "s2nn-basankusu-life-at-the-confluence.mp3": 69.15225,
+      "s2nn-basankusu-the-barkless-dogs-of-the-congo.mp3": 52.7097916,
+      "s2nn-basankusu-bonobos-and-the-vanishing-forest.mp3": 73.2731666,
+      "s2nn-basankusu-scars-of-war-and-neglect.mp3": 66.6197083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

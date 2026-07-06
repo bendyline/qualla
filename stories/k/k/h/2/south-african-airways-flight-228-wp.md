@@ -1,0 +1,57 @@
+# South African Airways Flight 228
+
+On a moonless night in 1968, a brand-new Boeing 707 took off from Windhoek into what investigators would call a 'black hole' -- and crashed fifty seconds later, killing 123 people in Namibia's deadliest aviation disaster.
+
+**Location:** -22.4494, 17.5339
+
+**Categories:** aviation, disasters, history, Namibia
+
+## Introduction
+
+The Boeing 707 was six weeks old. Registration ZS-EUW, it was the newest aircraft in the South African Airways fleet when it pushed back from the gate at Windhoek's JG Strijdom Airport on the evening of April 20, 1968. Forty-six passengers had just boarded for the next leg of a long journey from Johannesburg to London, with stops still ahead in Luanda, Las Palmas, and Frankfurt. At 20:49 local time, the aircraft rolled down runway 08 and lifted into a darkness so complete that the official accident report would use a term borrowed from pilot training: a "black hole."
+
+## Fifty Seconds
+
+What happened next unfolded with terrible speed. The 707 climbed to approximately 650 feet above ground level, then leveled off. After thirty seconds, it began to descend. The crew -- Captain Eric Ray Smith, 49; First Officer John Peter Holliday, 34; Relief First Officer Richard Fullarton Armstrong, 26; Flight Navigator Harry Charles Howe, 44; and Flight Engineer Phillip Andrew Minnaar, 50 -- apparently did not recognize the descent. Fifty seconds after takeoff, still in flight configuration and traveling at roughly 271 knots, the aircraft struck the ground. Its four engines hit first, gouging deep furrows in the desert soil before the fuselage broke apart and two fires erupted from ruptured fuel tanks.
+
+## The Black Hole
+
+The crash site lay just 5,327 meters from the end of the runway, but the rugged terrain east of Windhoek delayed emergency crews for forty minutes. It was a dark, moonless night with no lights on the ground -- the open desert offered no visual horizon, no reference points, nothing to tell a pilot's eyes that the aircraft was descending. Nine passengers in the forward fuselage initially survived, but four of them died in the hours and days that followed. The final toll: 123 dead, five survivors. It remains the deadliest aviation accident in Namibian history. The investigation found the aircraft and its engines were in working order. The board concluded that the captain and first officer had "failed to maintain a safe airspeed and altitude and a positive climb by not observing flight instruments during take-off." One possibility considered was that the crew misread their altitude by 1,000 feet.
+
+## A Missing Safeguard
+
+ZS-EUW lacked two technologies that might have prevented the disaster. Flight data recorders had become mandatory on January 1, 1968, but the airline had been unable to procure them in time; several SAA aircraft, including ZS-EUW, flew without them. More critically, no ground proximity warning system existed on any commercial aircraft in 1968. The concept did not yet exist as a regulatory requirement. The investigation into Flight 228, alongside several other controlled-flight-into-terrain accidents of the era, helped change that. The Federal Aviation Administration determined that a ground proximity warning system would have alerted the crew to their fatal descent. By December 1974, new FAA regulations required all large turbojet aircraft to carry one.
+
+## Legacy in the Desert
+
+The crash of Flight 228 belongs to a grim category in aviation safety: the disaster that forces change. The concept of controlled flight into terrain -- a perfectly functioning aircraft flown into the ground by a crew unaware of their proximity to it -- was not well understood in 1968. The sensory illusions created by dark, featureless terrain were known to military pilots but poorly addressed in commercial aviation training and technology. The five who survived owed their lives to their position in the forward fuselage and to chance. The 123 who died contributed, through the investigation that followed, to a safety system now standard on every commercial aircraft in the world. The desert east of Windhoek, flat and featureless in daylight, remains a stark reminder of what darkness can conceal from experienced eyes.
+
+## Flight Context
+
+The crash site lies approximately 5.3 km east of what is now Hosea Kutako International Airport (FYWH), at roughly 22.45S, 17.53E, elevation approximately 5,500 feet AMSL. The terrain east of Windhoek is open, semi-arid desert with few visual references at night -- the same 'black hole' conditions that contributed to the accident. Windhoek (FYWH) is the primary airport; Eros Airport (FYWE) serves general aviation closer to the city center.
+
+## Sources
+
+- [South African Airways Flight 228 - Wikipedia](https://en.wikipedia.org/?curid=30484720)
+  - Aircraft registration ZS-EUW, Boeing 707, six weeks old at crash
+  - Departed Windhoek JG Strijdom Airport on April 20, 1968 at 20:49 local time
+  - Crash site 5,327 metres from end of runway
+  - Emergency crews took 40 minutes to reach site due to rugged terrain
+  - 9 initial survivors; 4 died later; final toll 123 dead, 5 survivors
+  - Flight data recorders became mandatory January 1, 1968 but SAA could not procure in time
+  - Corrected: GPWS regulations required by December 1974 (not February 1972)
+- [Ground Proximity Warning System - Wikipedia](https://en.wikipedia.org/wiki/Ground_proximity_warning_system)
+  - FAA mandated GPWS on all large turbine-powered aircraft by December 1974
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 7 facts verified · 1 correction
+
+Verified crash date April 20 1968, ZS-EUW registration, 5,327m from runway, 40-min emergency response, 9 initial survivors/4 died/5 final survivors/123 dead, FDR mandatory Jan 1 1968. Corrected: GPWS FAA regulation was December 1974 not February 1972. Spiciness 1.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 700*
+*Read time: 4 minutes*

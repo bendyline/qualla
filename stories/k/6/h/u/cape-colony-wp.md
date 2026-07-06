@@ -1,0 +1,66 @@
+# Cape Colony
+
+From a Dutch East India Company supply station in 1652 to a British colony that shaped modern South Africa, the Cape Colony's 258-year history is a story of trade, dispossession, migration, and the long consequences of colonialism.
+
+**Location:** -33.0000, 18.0000
+
+**Categories:** Cape Colony, 1795 establishments in Africa, 1910 disestablishments in South Africa, Former British colonies and protectorates in Africa, History of the British Empire
+
+## Introduction
+
+It began as a vegetable garden. In 1652, Jan van Riebeeck led an expedition of the Dutch East India Company to the Cape of Good Hope with a straightforward mandate: establish a supply station where ships on the long voyage between Europe and Asia could take on fresh water, meat, and produce. The garden would grow into a colony, the colony into a contested territory, and the territory into one of the foundational pieces of modern South Africa. Along the way, the Khoekhoe and San peoples who had lived on the land for millennia were dispossessed through violence and displacement, thousands of enslaved people were imported from Southeast Asia and other parts of Africa, and successive waves of European settlers reshaped the landscape and its power structures in ways that would reverberate for centuries.
+
+## Company Men and Free Citizens
+
+The VOC ran the Cape as a corporate enterprise. Within three decades of Van Riebeeck's arrival, the colony had attracted a community of vrijburgers -- free citizens, former company employees who committed to farming the land for at least twenty years in exchange for tax exemptions, tools, and seeds. They were Dutch, Swiss, Scandinavian, and German, reflecting the multinational workforce of the early trading companies. In 1688, nearly two hundred French Huguenot refugees arrived, fleeing persecution after the Edict of Fontainebleau. The colonial authorities called the Huguenot resettlement a failure within a decade -- many lacked farming experience and became a financial burden -- but their descendants would become a permanent part of the Cape's cultural fabric. Dutch cultural hegemony prevailed, and the Huguenots largely adopted the Dutch language. Meanwhile, the frontier was pushing outward. Colonists known as Boers migrated inland, some becoming nomadic trekboers who penetrated nearly a thousand kilometers beyond the colony's original borders.
+
+## The Human Cost of Settlement
+
+The colony's growth came at devastating cost to the people who were already there. The VOC period saw bitter, often genocidal conflicts between colonists and the Khoekhoe-speaking indigenous peoples, who were pushed off prime farmland through a combination of warfare, disease, and legal dispossession. The San, hunter-gatherers of the interior, faced settler violence that continued largely unabated well into the British period. At the same time, VOC traders imported thousands of enslaved people to the Cape from the Dutch East Indies and other parts of Africa. By the end of the eighteenth century, the colony's population included about 26,000 people of European descent and 30,000 enslaved individuals -- a ratio that speaks plainly about who built the colony and who profited from it. Slavery was not abolished at the Cape until 1834, under British rule, and the social hierarchies it created persisted long after the legal institution ended.
+
+## Flags Over the Cape
+
+The Cape changed hands with the tides of European war. When France occupied the Dutch Republic in 1795, Britain seized the colony to control the sea routes to India, winning the Battle of Muizenberg against VOC militia. The Treaty of Amiens returned the Cape to the Batavian Republic in 1803, but when war resumed, the British took it back after the Battle of Blaauwberg in 1806 and never left. At the time, the white colonial population numbered about 25,000, scattered across 100,000 square miles of territory. Cape Town itself had just 16,000 inhabitants, and the colony was three months' sailing from London. The British formally acquired sovereignty in 1814, then began reshaping the colony in their own image -- importing the 1820 Settlers to the Eastern Cape, introducing English as the language of government, and eventually abolishing slavery. These changes drove many Boers to trek inland in the Great Trek, founding their own republics and setting the stage for conflicts that would culminate in the Second Boer War at the turn of the twentieth century.
+
+## From Colony to Province
+
+Self-governance came in 1872 under Prime Minister John Molteno, and with it a period of economic growth and political cautious inclusivity. The Cape Qualified Franchise, established in 1854, had allowed residents to vote based on property ownership regardless of race -- an imperfect but notable experiment in multiracial democracy. But the discovery of diamonds near Kimberley and gold in the Transvaal destabilized this fragile progress. Cecil Rhodes, who became prime minister in 1890, pursued aggressive imperial expansion and introduced the first formal restrictions on the political rights of Black African citizens. His disastrous Jameson Raid in 1895 failed to seize the Transvaal but helped trigger the Second Boer War. In 1910, the Cape Colony merged with three other colonies to form the Union of South Africa, becoming the Cape Province. The arc from Van Riebeeck's vegetable garden to the modern provinces of the Eastern Cape, Northern Cape, and Western Cape -- the province was finally partitioned in 1994 -- spans 342 years, an era whose consequences South Africa continues to reckon with.
+
+## Flight Context
+
+Located at 33.00S, 18.00E, centered on the Cape of Good Hope region of South Africa. The historical Cape Colony eventually encompassed roughly half of modern South Africa, from the Atlantic coast to the Fish River in the east and the Orange River in the north. Best viewed at 5,000-10,000 ft AGL for the Table Bay and Cape Town area, the colony's administrative heart. Key landmarks: Table Mountain, Cape Town harbor, Robben Island. Nearest airports: Cape Town International (FACT). The modern city of Cape Town overlays the original VOC settlement site.
+
+## Sources
+
+- [Cape Colony - Wikipedia](https://en.wikipedia.org/?curid=44554)
+  - Jan van Riebeeck arrived 1652 with VOC mandate — confirmed
+  - French Huguenot refugees arrived 1688 — confirmed
+  - Slavery abolished at Cape December 1, 1834 under British rule — confirmed
+  - Battle of Muizenberg 1795 — confirmed
+  - Battle of Blaauwberg 1806 — confirmed
+  - British formally acquired sovereignty 1814 — confirmed
+  - Self-governance came 1872 under Prime Minister John Molteno — confirmed
+  - Cape Qualified Franchise established 1854 — confirmed
+  - Cecil Rhodes became prime minister 1890 — confirmed
+  - Jameson Raid 1895 — confirmed
+  - Union of South Africa formed 1910 — confirmed
+  - Province partitioned 1994 — confirmed
+  - Slavery terminology audit: story uses 'enslaved people' and 'enslaved individuals' correctly throughout — no bare 'slaves' found
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 14 facts verified · 0 corrections
+
+Verified all key dates and facts. Slavery terminology uses 'enslaved people' correctly throughout. No corrections needed. Cape Qualified Franchise 1854, Great Trek, Battle of Blaauwberg, Union 1910 all confirmed.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- 'a ratio that speaks plainly about who built the colony and who profited from it'
+- describes colonial dispossession as 'devastating' and 'often genocidal'
+
+---
+
+*Word count: 870*
+*Read time: 5 minutes*

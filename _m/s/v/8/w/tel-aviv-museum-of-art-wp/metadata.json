@@ -716,5 +716,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sv8w-tel-aviv-museum-of-art-flight-context.mp3",
+      "sv8w-tel-aviv-museum-of-art-intro.mp3",
+      "sv8w-tel-aviv-museum-of-art-a-mayors-gift-a-nations-cradle.mp3",
+      "sv8w-tel-aviv-museum-of-art-masterworks-in-mediterranean-light.mp3",
+      "sv8w-tel-aviv-museum-of-art-architecture-as-statement.mp3",
+      "sv8w-tel-aviv-museum-of-art-art-in-a-time-of-conflict.mp3"
+    ],
+    "durations": {
+      "sv8w-tel-aviv-museum-of-art-flight-context.mp3": 39.508875,
+      "sv8w-tel-aviv-museum-of-art-intro.mp3": 40.445,
+      "sv8w-tel-aviv-museum-of-art-a-mayors-gift-a-nations-cradle.mp3": 59.1912083,
+      "sv8w-tel-aviv-museum-of-art-masterworks-in-mediterranean-light.mp3": 64.1159583,
+      "sv8w-tel-aviv-museum-of-art-architecture-as-statement.mp3": 65.3989583,
+      "sv8w-tel-aviv-museum-of-art-art-in-a-time-of-conflict.mp3": 60.1343333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

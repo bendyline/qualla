@@ -1,0 +1,71 @@
+# The Flannan Isles Mystery: The Lighthouse Keepers Who Vanished
+
+Where three lighthouse keepers disappeared from a remote Scottish island in December 1900, leaving behind an untouched meal and a mystery that has never been solved.
+
+**Location:** 58.2886, -7.5872
+
+**Categories:** disappearance, lighthouse, mystery, scotland, maritime, quirky-history
+
+## Introduction
+
+On December 26, 1900, a relief vessel arrived at the Flannan Isles lighthouse on Eilean Mòr, a tiny island in the Outer Hebrides of Scotland. The lighthouse was dark - it had not been lit for days, causing concern among passing ships. When Joseph Moore, the relief keeper, reached the lighthouse, he found it empty. The three keepers - Thomas Marshall, James Ducat, and Donald MacArthur - were gone. The clock had stopped. A meal lay untouched on the table. Two sets of oilskins were missing from their hooks. The third was still there. The three men were never found. The Flannan Isles mystery became one of the most famous disappearances in maritime history.
+
+## The Lighthouse
+
+The Flannan Isles are a group of small, uninhabited islands about 20 miles west of the Isle of Lewis in Scotland's Outer Hebrides. The lighthouse on Eilean Mòr was completed in 1899, built to warn ships of the treacherous waters. Three keepers staffed it at all times, with relief arriving every two weeks.
+
+Life on the Flannan Isles was isolated and harsh. The keepers' only company was each other. The sea was rough. The winds were fierce. The islands were said to be haunted by spirits - local tradition required visitors to walk clockwise around the island and avoid killing any birds. Thomas Marshall, James Ducat, and Donald MacArthur were experienced keepers. They knew the dangers.
+
+## The Alarm
+
+On December 15, 1900, a passing steamer noted that the Flannan Isles light was dark. The ship's report reached the Northern Lighthouse Board, but bad weather delayed any investigation. The relief vessel Hesperus, scheduled to arrive on December 20, was further delayed by storms until December 26.
+
+When the Hesperus finally reached Eilean Mòr, no flag was flying. No keepers appeared on the landing platform. Joseph Moore rowed to shore alone. He climbed to the lighthouse and found it empty. The keepers were gone.
+
+## The Scene
+
+Moore found the lighthouse in a strange state. The door was closed but not locked. The clock had stopped. The fire in the grate was cold. A meal - apparently the midday meal of December 15 - sat uneaten on the table. The beds were unmade.
+
+The oilskins told a story. Two sets of outdoor gear were missing from their hooks, suggesting two keepers had left the lighthouse. But the third set remained, meaning one man had gone outside without protection - in December, in a storm. What would make a man run out into a gale without his coat?
+
+## The Theories
+
+The official investigation concluded that the keepers had been swept away by a freak wave while trying to secure equipment on the western landing platform. Evidence suggested that a massive wave had struck the island, damaging equipment on the west side. The keepers may have been caught by the sea while attempting to recover supplies or equipment.
+
+But the theory doesn't explain everything. Why would one man leave without his oilskins? Why was the meal untouched if they had just sat down to eat? Other theories - madness, murder, abduction by supernatural forces - have been proposed over the years. None have been proven.
+
+## The Legend
+
+The Flannan Isles mystery captured the public imagination. Wilfrid Wilson Gibson's 1912 poem 'Flannan Isle' dramatized the story, embellishing details (a meal still warm, a chair overturned) that weren't in the original reports. The poem made the mystery famous and fixed certain images in the public mind.
+
+The lighthouse was automated in 1971. No keepers have lived on Eilean Mòr since. Visitors to the islands report an eerie atmosphere. What happened to Thomas Marshall, James Ducat, and Donald MacArthur will probably never be known. The sea keeps its secrets. The Flannan Isles lighthouse still shines, warning ships away from the island where three men vanished into nothing.
+
+## Flight Context
+
+The Flannan Isles (58.29N, 7.59W) lie 20 miles west of the Isle of Lewis in Scotland's Outer Hebrides. Stornoway Airport (EGPO) on Lewis is 75km east. The islands are uninhabited and accessible only by boat. The lighthouse is visible from the air on Eilean Mòr, the largest island. The terrain is rocky and treeless. Weather is harsh North Atlantic maritime - strong winds, frequent storms, cold year-round.
+
+## Sources
+
+- [Flannan Isles - Wikipedia](https://en.wikipedia.org/?curid=582467)
+- [Flannan Isles Lighthouse - Wikipedia](https://en.wikipedia.org/wiki/Flannan_Isles_Lighthouse#Disappearance_of_the_keepers)
+  - December 1900
+  - 3 keepers vanished
+  - never found
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 6 facts verified · 0 corrections
+
+Story overlay verified
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- The Lighthouse Keepers Who Vanished
+- The sea keeps its secrets
+
+---
+
+*Word count: 900*
+*Read time: 5 minutes*

@@ -1,0 +1,56 @@
+# Baalbek
+
+Home to the largest Roman temple complex ever built, Baalbek in Lebanon's Beqaa Valley contains stones so massive that engineers still debate how ancient builders moved them, and ruins so magnificent that UNESCO called them among the finest examples of Imperial Roman architecture.
+
+**Location:** 34.0061, 36.2086
+
+**Categories:** roman-ruins, world-heritage-site, ancient-temple, archaeology, beqaa-valley
+
+## Introduction
+
+The six remaining columns of the Temple of Jupiter stand nineteen meters above the ground, their Corinthian capitals worn smooth on the north side by centuries of Beqaa Valley wind. There were once fifty-four columns encircling the temple. Twenty-seven still stood in the sixteenth century. Nine survived the devastating earthquakes of 1759. Today, six remain, and they are enough. Rising from a platform built on monoliths weighing three hundred tonnes each, backed by the famous Trilithon of three stones weighing eight hundred tonnes apiece, the ruins at Baalbek are not merely large. They are an argument in stone that the Roman Empire could reshape the earth itself.
+
+## Stones Beyond Reason
+
+The numbers at Baalbek defeat comprehension. The Trilithon, three limestone blocks each over nineteen meters long, 4.3 meters high, and 3.6 meters broad, forms the western retaining wall of the temple platform. In a nearby quarry, a fourth stone known as the Stone of the Pregnant Woman lies abandoned, weighing an estimated one thousand tonnes. A fifth stone, known as the Stone of the South, was rediscovered in the same quarry in the 1990s and weighs approximately 1,242 tonnes. A sixth, called the Forgotten Stone, was discovered in 2014 by a team from the German Archaeological Institute and is estimated at 1,650 tonnes, making it the largest ancient block ever quarried. The quarry sits slightly higher than the temple complex, so no vertical lifting was required, but the sheer scale of the stones raises questions that have never been fully answered. In 1977, Jean-Pierre Adam estimated that moving a 557-tonne block on rollers with capstans and pulleys would require 512 workers. The largest stones at Baalbek weigh three times that.
+
+## Temples of Borrowed Gods
+
+Baalbek's temple complex was not built in a single campaign but accumulated over centuries, each emperor adding to what came before. The Julio-Claudian dynasty enriched the sanctuary. Nero built the tower-altar opposite the Temple of Jupiter in the mid-first century. Trajan added the forecourt with porticos of pink granite shipped from Aswan in the early second century. The Temple of Bacchus, the best-preserved structure on the site, was likely completed under Septimius Severus in the 190s. Its forty-two columns, nearly twenty meters high, were probably erected rough and then rounded, polished, and carved in place. The interior divides into a 98-foot nave and a 36-foot adytum raised five feet above it, fronted by thirteen steps. Nearby, the circular Temple of Venus, added under Septimius Severus, was described by nineteenth-century visitors as the gem of the complex. Constantine demolished it and raised a basilica in its place, beginning the long process of Christian overwriting that would see the Temple of Jupiter's stones recycled into churches and eight of its columns shipped to Constantinople for use in the Hagia Sophia.
+
+## Conquerors, Earthquakes, and Keys
+
+The list of powers that have claimed Baalbek reads like an index of Mediterranean and Middle Eastern history: Phoenicians, Romans, Byzantines, Arab caliphates, Crusaders, Mamluks, Mongols, Ottomans. The Muslim army took the city around 637 AD. The ruined temple complex was fortified and renamed al-Qala, the Fortress. In 1260, the Mongol general Kitbuqa dismantled its walls; the Mamluk sultan Qalawun rebuilt them in the 1280s with great blocks of recycled stone. A catastrophic flood in 1318 killed 194 people and destroyed 1,500 houses. Timur pillaged the town in 1400. An earthquake struck in 1459. Through it all, the great columns kept standing, even as the iron bands that once held them together were gouged out by the emirs of Damascus for the metal.
+
+## Ruins That Inspired a World
+
+European travelers began arriving in the sixteenth century, misidentifying the Temple of Bacchus as the Temple of the Sun and declaring it the best-preserved Roman temple on earth. The Englishman Robert Wood published his Ruins of Balbec in 1757, with engravings so precise that they influenced a generation of Neoclassical architects. Robert Adam modeled a bed and ceiling on the Temple of Bacchus's interior. The portico inspired St George's church in Bloomsbury, London. Emperor Wilhelm II of Germany visited in 1898, noted the magnificence of the ruins and the drabness of the modern town, and dispatched an archaeological team that worked until 1904. UNESCO inscribed Baalbek as a World Heritage Site in 1984, calling its colossal structures among the finest examples of Imperial Roman architecture at its apogee. Excavations continue to push the site's history deeper: recent work beneath the Roman flagstones uncovered settlement evidence dating to the Neolithic period and pottery from the early Bronze Age.
+
+## Flight Context
+
+Located at 34.006°N, 36.209°E in Lebanon's Beqaa Valley, roughly 85 km northeast of Beirut. The temple complex is visible from altitude as a large rectangular platform on the western edge of town. Rayak Air Base (OLRA) lies 17 km to the southwest. The Beqaa Valley runs north-south between the Lebanon and Anti-Lebanon mountain ranges; Baalbek sits near its northern end. Best viewed at 5,000-10,000 ft AGL for a sense of the complex's scale relative to the modern town.
+
+## Sources
+
+- [Baalbek Stones - Wikipedia](https://en.wikipedia.org/wiki/Baalbek_Stones)
+  - Corrected: fifth stone (Stone of the South, ~1,242t, 1990s) and sixth stone (Forgotten Stone, ~1,650t, discovered 2014 by German Archaeological Institute)
+  - Trilithon blocks each ~750-800 tonnes
+  - Stone of the Pregnant Woman ~1,000 tonnes
+  - UNESCO inscribed Baalbek World Heritage Site 1984
+- [Baalbek - Wikipedia](https://en.wikipedia.org/?curid=58207)
+  - 54 original columns on Temple of Jupiter, 27 standing in 16th century, 9 before 1759 earthquakes, 6 today
+  - Robert Wood published Ruins of Balbec in 1757
+  - Temple of Bacchus completed under Septimius Severus
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 10 facts verified · 2 corrections
+
+Corrected quarry stone descriptions: fifth stone is Stone of the South (~1,242t, 1990s discovery); sixth stone is Forgotten Stone (~1,650t, discovered 2014 by German Archaeological Institute). Article had wrong weight for 2014 stone (said 1,200t) and invented a separate sixth stone at 1,650t. Fixed to accurately name and date all three quarry stones.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 5 minutes*

@@ -1,0 +1,54 @@
+# Kjosfossen
+
+A 225-meter waterfall on Europe's steepest standard-gauge railway, where 900,000 visitors a year watch a dancer from the Norwegian ballet school perform as a mythical forest spirit in the spray.
+
+**Location:** 60.7461, 7.1375
+
+**Categories:** nature, waterfalls, railways, tourism, folklore
+
+## Introduction
+
+The train slows, then stops. Through the windows, passengers see nothing but falling water. Kjosfossen drops 225 meters beside the tracks of the Flam Railway, close enough that spray drifts into the carriages when the doors open. Then, somewhere in the mist at the base of the falls, a figure appears. A woman in a flowing red dress begins to dance on the rocks, moving through the spray with the fluid grace of someone who belongs to the waterfall rather than to any audience. She is a huldra, the seductive forest spirit of Scandinavian folklore, and she is also a student from the Norwegian ballet school, performing a three-minute piece that has become one of the most photographed moments in Norwegian tourism. The train waits five minutes, long enough for passengers to step onto the platform, take their photos, and feel the cold mist on their faces before continuing the descent.
+
+## The Railway That Made a Waterfall Famous
+
+Kjosfossen would be remarkable anywhere, but its location along the Flam Line transforms it from a waterfall into an event. The Flam Railway drops 863 meters over 20 kilometers between Myrdal Station, perched at 864 meters above sea level in a mountain pass on the Bergen Line, and the village of Flam at sea level on the Aurlandsfjord. It is the steepest standard-gauge railway in Europe, with gradients reaching 5.5 percent, and its construction required 20 tunnels carved through the mountain rock. Kjosfossen sits about 1.5 kilometers northeast of Myrdal, near the top of the descent, where the railway passes directly in front of and over the upper section of the waterfall. The falls continue much further down the gorge to the east, but it is the section visible from the train platform that draws the crowds. A small hydroelectric power station on the waterfall generates electricity for the railway itself, meaning Kjosfossen both entertains passengers and moves them.
+
+## The Huldra in the Mist
+
+In Norse folklore, the huldra is a beautiful woman who lives in the forest, enchanting men with her appearance and her singing. She is recognizable by a cow's tail hidden beneath her dress and a hollow back, like a rotting tree trunk. The stories are old, rooted in the pre-Christian belief systems of Scandinavia, and the huldra occupies the ambiguous territory between alluring and dangerous. At Kjosfossen, the folklore has been reimagined as a dance performance that plays to every trainload of tourists during the summer season. The music begins through speakers as the train stops, and the dancer emerges from the rocks beside the waterfall, her movements choreographed to suggest both human grace and something wilder. The performers are all students from the Norwegian ballet school, and the role rotates throughout the season. It is a peculiar and effective piece of theater, using the natural amphitheater of the waterfall and the captive audience of a stopped train to bring an ancient myth into physical presence.
+
+## Nine Hundred Thousand Witnesses
+
+Kjosfossen receives approximately 900,000 visitors per year, making it one of Norway's most visited natural tourist attractions. Nearly all of them arrive by train, which makes the waterfall unusual among major natural landmarks: there is no parking lot, no gift shop at the falls themselves, and no way to reach the viewing platform except by rail. The Flam Railway was originally built as a branch line connecting the fjord village of Flam to the Bergen-Oslo main line at Myrdal, a feat of engineering completed in 1940 after twenty years of construction. Today the railway operates primarily as a tourist attraction rather than a commuter service, and the five-minute stop at Kjosfossen is the climax of the journey. Passengers pour out of the carriages, crowd the platform edge, and aim their cameras at the wall of falling water. The lucky ones catch the huldra mid-dance. The unlucky ones arrive outside the summer performance season and see only the waterfall itself, which, at 225 meters of thundering white water pouring through a mountain gorge, is more than enough.
+
+## Flight Context
+
+Located at 60.75N, 7.14E in Aurland Municipality, Vestland county, along the Flam Railway line between Myrdal and Flam. The waterfall is in a narrow mountain gorge and difficult to see from high altitude, but the railway line threading through the valley is traceable. The Aurlandsfjord and its junction with the Sognefjord are major visual landmarks to the west. Nearest airports: Bergen/Flesland (ENBR) approximately 150 km west, Sogndal/Haukasen (ENSG) approximately 60 km north. Best viewed below 2,000 meters. Valley fog and cloud are common.
+
+## Sources
+
+- [Kjosfossen - Wikipedia](https://en.wikipedia.org/?curid=25952998)
+  - 225m total height confirmed (93m main vertical drop, 225m total)
+  - Flam Railway 863m drop over 20km confirmed
+  - 5.5% gradient confirmed
+  - steepest standard-gauge railway in Europe confirmed
+  - 20 tunnels confirmed
+  - opened 1940 confirmed
+  - 5-minute stop confirmed
+- [Technical Information - Flam Railway](https://www.norwaysbest.com/en/flam/flam-railway-technical-information)
+  - Myrdal station at 864m above sea level confirmed
+  - Flam at sea level confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 7 facts verified · 0 corrections
+
+Verified 225m total waterfall height, Flam Railway steepest standard gauge in Europe at 5.5%, 863m drop over 20km, 20 tunnels, huldra performance. All facts confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 720*
+*Read time: 4 minutes*

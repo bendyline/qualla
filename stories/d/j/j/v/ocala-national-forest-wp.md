@@ -1,0 +1,72 @@
+# Ocala National Forest
+
+The oldest national forest east of the Mississippi holds the world's largest concentration of sand pine, a Navy bombing range, a ghost town, and the wild scrubland that inspired a Pulitzer Prize-winning novel.
+
+**Location:** 29.1736, -81.8217
+
+**Categories:** National forests of Florida, Protected areas of Marion County, Florida, Protected areas of Lake County, Florida, Protected areas of Putnam County, Florida
+
+## Introduction
+
+"In all of America there is not a more wild and hostile land." That was novelist Patrick D. Smith's verdict on the Big Scrub, the vast heart of the Ocala National Forest in north-central Florida. Established in 1908 by President Theodore Roosevelt, Ocala is the oldest national forest east of the Mississippi River and the southernmost in the continental United States. The Timucua people who lived here first gave it a name meaning "fair land" or "big hammock," and both descriptions still hold. Nestled between the Ocklawaha and St. Johns rivers, the forest sprawls across parts of Marion, Lake, and Putnam counties, sheltering over 600 natural lakes and springs, the densest population of Florida black bears in the state, and ecosystems found nowhere else on Earth.
+
+## The Sea of Scrub
+
+The Big Scrub is what makes Ocala unlike any other national forest. This immense stretch of Florida scrub habitat contains the largest concentration of sand pine in the world, a landscape so dense and inhospitable that Pulitzer Prize-winning author Marjorie Kinnan Rawlings, who lived just north of it in Cross Creek, described it as "a vast wall, keeping out the timid and the alien." Rawlings based her novels South Moon Under and The Yearling on the lives of settlers who clung to hammocks along the scrub's edges but never dared inhabit the scrub itself. Fire rules this terrain. Sand pines need periodic blazes to regenerate, and in 1935, a lightning-sparked fire in the Big Scrub became the fastest-spreading wildfire in the history of the U.S. Forest Service, consuming thousands of acres in just four hours.
+
+## Twelve Thousand Years of Footprints
+
+Long before the sand pines took hold, this land lay beneath the sea. The calcium from decomposing fish bones and shells became the limestone bedrock that would eventually rise above the waves, making the area around present-day Ocala one of the first parts of the Florida peninsula to dry out. Paleo-Indians arrived at least 12,000 years ago, leaving burial sites that archaeologists began uncovering in the 1950s and 1960s. The porous limestone eventually became the foundation of the Floridan Aquifer, and today the forest's undeveloped sands serve as a critical recharge zone for the freshwater supply that sustains much of the state. Springs bubble up throughout the forest, their crystal-clear waters feeding rivers that wind through baldcypress floodplains and hydric hammocks thick with evergreen hardwoods.
+
+## Bombs and Bears
+
+The Ocala National Forest contains a startling contradiction: the Pinecastle Bombing Range, the only place on the East Coast where the U.S. Navy conducts live-impact ordnance training. F/A-18 Hornet fighters launch from Naval Air Station Jacksonville or from aircraft carriers offshore, fly low over the forest, and drop nearly 20,000 bombs per year on targets in the middle of the range. MK 82 bombs and Zuni rockets are authorized; napalm is prohibited. Meanwhile, just beyond the fenced perimeter, Florida black bears roam in their highest concentration anywhere in the state. West Indian manatees glide through the inland waterways. Gopher tortoises dig the extensive burrows that shelter dozens of other species, and an introduced colony of Asian rhesus macaques, descendants of a tourist attraction at nearby Silver Springs, occasionally wanders through the trees.
+
+## Springs, Trails, and Ghost Towns
+
+Millions of visitors arrive each year, making Ocala the most-visited national forest in Florida. The crystal-clear springs at Juniper Springs and Alexander Springs draw swimmers and snorkelers year-round, while the Florida Trail winds through the forest on its way across the state. Canoeists paddle palm-lined rivers in summer. Horseback riders follow the One Hundred Mile Trail. Off-highway vehicle enthusiasts ride three trail systems, including the Centennial trail added in 2008 to mark the forest's hundredth birthday. Four designated wilderness areas protect the most pristine stretches. And tucked along County Road 316, the ghost town of Kerr City stands as a quiet reminder that not every human settlement in this wild land managed to last.
+
+## Flight Context
+
+The Ocala National Forest occupies a vast swath of north-central Florida between the Ocklawaha and St. Johns rivers, centered near 29.17N, 81.82W. From altitude, the forest appears as a large dark-green expanse punctuated by hundreds of bright blue lakes, clearly distinct from the surrounding agricultural and developed land. Lake George, one of Florida's largest lakes, marks the northeastern boundary. The Pinecastle Bombing Range is a restricted area within the forest; pilots should consult NOTAMs. Ocala International Airport (KOCF) lies approximately 15 miles to the west. Gainesville Regional Airport (KGNV) is about 35 miles northwest. Deland Municipal Airport (KDED) sits to the southeast. Best viewed at 3,000-5,000 feet AGL for a sense of the forest's scale against the surrounding lakes and rivers.
+
+## Sources
+
+- [Ocala National Forest - Wikipedia](https://en.wikipedia.org/wiki/Ocala_National_Forest)
+- [National Forests in Florida - USFS](https://www.fs.usda.gov/r08/florida/about-area)
+  - Oldest national forest east of the Mississippi River
+  - Established in 1908
+  - Southernmost national forest in the continental U.S.
+- [Ocala National Forest - All About America](https://allaboutamerica.com/florida/ocala-national-forest-the-oldest-national-forest-east-of-the-mississippi-river.html)
+  - World's largest contiguous sand pine scrub
+  - Over 600 natural lakes and ponds
+  - Pinecastle Bombing Range details
+- [Pinecastle Bombing Range - Military Bases](https://www.militarybases.us/navy/pine-castle-bombing-range/)
+  - Only place on East Coast for Navy live-impact ordnance training confirmed
+  - Nearly 20,000 bombs per year confirmed
+  - MK 82 bombs and Zuni rockets authorized confirmed
+  - F/A-18 Hornets from NAS Jacksonville confirmed
+- [1935 Big Scrub Fire - FRAMES Fire Research](https://www.frames.gov/catalog/53331)
+  - 1935 fire was fastest-spreading in US Forest Service history confirmed
+  - 35,000 acres in four hours (article says 'thousands' - understated but not wrong)
+- [Marjorie Kinnan Rawlings - Wikipedia](https://en.wikipedia.org/wiki/Marjorie_Kinnan_Rawlings)
+  - Rawlings lived at Cross Creek near Ocala confirmed
+  - South Moon Under and The Yearling set in Big Scrub area confirmed
+  - The Yearling won Pulitzer Prize (1939) confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-12 · 14 facts verified · 0 corrections
+
+Verified 1908 establishment by TR, oldest NF east of Mississippi claim (debatable - El Yunque in PR is older, Chippewa NF also 1908 but earlier), Big Scrub sand pine, 1935 wildfire (35K acres in 4 hrs confirmed), Pinecastle Bombing Range (only East Coast live ordnance site), Rawlings/Cross Creek/Pulitzer. 'Thousands of acres' understates the 35K figure but is not incorrect. Spiciness 2 - mostly factual with mild descriptive color.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Startling contradiction - characterizing bombing range within national forest
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

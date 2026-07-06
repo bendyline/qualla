@@ -526,5 +526,24 @@
     "_m/u/5/r/f/falstad-concentration-camp-wp/albumside-fra-viggo-heirungs-a.jpg",
     "_m/u/5/r/f/falstad-concentration-camp-wp/arkitekt-semmelmann-1942-archi.jpg"
   ],
-  "updatedAt": "2026-04-01T02:00:05.813Z"
+  "updatedAt": "2026-04-01T02:00:05.813Z",
+  "narration": {
+    "files": [
+      "u5rf-falstad-concentration-camp-flight-context.mp3",
+      "u5rf-falstad-concentration-camp-intro.mp3",
+      "u5rf-falstad-concentration-camp-from-schoolhouse-to-prison.mp3",
+      "u5rf-falstad-concentration-camp-the-forest-of-falstadskogen.mp3",
+      "u5rf-falstad-concentration-camp-lives-held-and-lost.mp3",
+      "u5rf-falstad-concentration-camp-a-place-that-remembers.mp3"
+    ],
+    "durations": {
+      "u5rf-falstad-concentration-camp-flight-context.mp3": 39.106875,
+      "u5rf-falstad-concentration-camp-intro.mp3": 27.012125,
+      "u5rf-falstad-concentration-camp-from-schoolhouse-to-prison.mp3": 63.249875,
+      "u5rf-falstad-concentration-camp-the-forest-of-falstadskogen.mp3": 71.0226666,
+      "u5rf-falstad-concentration-camp-lives-held-and-lost.mp3": 72.8617916,
+      "u5rf-falstad-concentration-camp-a-place-that-remembers.mp3": 66.5399583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

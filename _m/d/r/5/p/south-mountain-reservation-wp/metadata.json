@@ -488,5 +488,24 @@
     "_m/d/r/5/p/south-mountain-reservation-wp/2021-09-20-15-32-03-view-east-.jpg",
     "_m/d/r/5/p/south-mountain-reservation-wp/2021-09-20-15-30-35-view-west-.jpg"
   ],
-  "updatedAt": "2026-03-30T11:28:30.706Z"
+  "updatedAt": "2026-03-30T11:28:30.706Z",
+  "narration": {
+    "files": [
+      "dr5p-south-mountain-reservation-flight-context.mp3",
+      "dr5p-south-mountain-reservation-intro.mp3",
+      "dr5p-south-mountain-reservation-olmsteds-wild-garden.mp3",
+      "dr5p-south-mountain-reservation-beacon-fires-on-the-ridge.mp3",
+      "dr5p-south-mountain-reservation-from-wilderness-to-suburbia.mp3",
+      "dr5p-south-mountain-reservation-a-living-park.mp3"
+    ],
+    "durations": {
+      "dr5p-south-mountain-reservation-flight-context.mp3": 40.861,
+      "dr5p-south-mountain-reservation-intro.mp3": 39.2422083,
+      "dr5p-south-mountain-reservation-olmsteds-wild-garden.mp3": 60.5877916,
+      "dr5p-south-mountain-reservation-beacon-fires-on-the-ridge.mp3": 58.3237916,
+      "dr5p-south-mountain-reservation-from-wilderness-to-suburbia.mp3": 47.209,
+      "dr5p-south-mountain-reservation-a-living-park.mp3": 54.3435833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

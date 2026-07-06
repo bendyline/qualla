@@ -857,5 +857,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "k76b-kolmanskop-flight-context.mp3",
+      "k76b-kolmanskop-intro.mp3",
+      "k76b-kolmanskop-a-diamond-in-the-railway-gravel.mp3",
+      "k76b-kolmanskop-bavarian-mirage.mp3",
+      "k76b-kolmanskop-the-diamonds-moved-south.mp3",
+      "k76b-kolmanskop-sand-reclaims-everything.mp3"
+    ],
+    "durations": {
+      "k76b-kolmanskop-flight-context.mp3": 47.81175,
+      "k76b-kolmanskop-intro.mp3": 43.9118333,
+      "k76b-kolmanskop-a-diamond-in-the-railway-gravel.mp3": 52.9981666,
+      "k76b-kolmanskop-bavarian-mirage.mp3": 64.1112916,
+      "k76b-kolmanskop-the-diamonds-moved-south.mp3": 62.7637083,
+      "k76b-kolmanskop-sand-reclaims-everything.mp3": 57.2362916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

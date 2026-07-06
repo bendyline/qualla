@@ -627,5 +627,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qux2-tennant-creek-flight-context.mp3",
+      "qux2-tennant-creek-intro.mp3",
+      "qux2-tennant-creek-telegraph-wire-and-red-dust.mp3",
+      "qux2-tennant-creek-the-rush-that-built-a-town.mp3",
+      "qux2-tennant-creek-desert-climate-desert-resilience.mp3",
+      "qux2-tennant-creek-where-the-highways-cross.mp3"
+    ],
+    "durations": {
+      "qux2-tennant-creek-flight-context.mp3": 58.4915,
+      "qux2-tennant-creek-intro.mp3": 43.5195,
+      "qux2-tennant-creek-telegraph-wire-and-red-dust.mp3": 74.845875,
+      "qux2-tennant-creek-the-rush-that-built-a-town.mp3": 80.2179166,
+      "qux2-tennant-creek-desert-climate-desert-resilience.mp3": 85.3836666,
+      "qux2-tennant-creek-where-the-highways-cross.mp3": 85.34975
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

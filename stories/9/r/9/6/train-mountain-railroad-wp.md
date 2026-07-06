@@ -1,0 +1,66 @@
+# Train Mountain Railroad
+
+The world's largest miniature railroad sprawls across Oregon high desert, where 40 miles of track wind through forests and meadows, and serious engineers pilot scaled-down steam locomotives on journeys lasting up to eight hours.
+
+**Location:** 42.5600, -121.8900
+
+**Categories:** 7.5 inch gauge railways in the United States, Rail transport modelling, Live steam, Steam museums in the United States, Railroad museums in Oregon, Transportation museums in Oregon, Museums in Klamath County, Oregon
+
+## Introduction
+
+Quentin Breen had a dream. Not a modest dream of a backyard loop of track, but something far grander: a miniature railroad so vast it would take an entire day to explore. In the high desert of southern Oregon, between Klamath Falls and Crater Lake, that dream now sprawls across 2,200 acres of forest and meadow. Train Mountain Railroad holds the Guinness World Record as the longest miniature hobby railroad on Earth, with over 40 miles of track threading through terrain that rises and falls across 500 feet of elevation change.
+
+These are not toy trains. The 7.5-inch gauge locomotives weigh hundreds of pounds, their steam-powered engines burning real coal or wood to pull passengers along narrow-gauge rails. Engineers perch atop their creations like cowboys on mechanical horses, guiding them through mountain passes, across trestle bridges, and around sweeping curves that reveal new vistas of pine forest with each turn.
+
+## A Railroad Measured in Miles
+
+When Guinness recognized Train Mountain in 2004, the facility already had 25 miles of mainline track plus additional yards, sidings, and spurs. Since then, approximately 10 more miles have been added, creating a network so extensive that the longest tours still cannot cover it all. The track layout includes multiple loops, passing sidings, and roundabouts that allow dozens of trains to operate simultaneously without conflict. A computer-controlled Central Train Control system manages switching and signals, bringing sophisticated railroad operations to miniature scale. From satellite imagery, the track network appears as thin lines etched through the forest, betraying little of the engineering complexity required to maintain grades and curves suitable for heavy miniature locomotives.
+
+## The Triennial Gathering
+
+Every three years since 2000, Train Mountain hosts the Triennial, an international gathering that draws train enthusiasts from Australia, Switzerland, Canada, Germany, the United Kingdom, and across North America. The 2018 event attracted trains totaling more than 10,000 feet in length. The 2022 Triennial saw approximately 888 participants arrive with their locomotives and rolling stock, a slight decline from previous years but with even more trains making the journey. The celebration culminates in the Big Toot: on the final Saturday, every assembled train blows its whistle for one full minute, filling the Oregon forest with a cacophony of steam and sound that echoes across the high desert. Seven additional train meets throughout the year keep the tracks humming with activity.
+
+## Museum of the Full-Size
+
+Alongside the miniature marvels, Train Mountain maintains a museum of full-size railroad equipment that connects the hobby to its industrial ancestry. The collection's crown jewel is Southern Pacific MW206, a rotary snowplow built by ALCo in November 1923. Originally steam-powered, later converted to diesel-electric, this machine once cleared snow from the tracks between Klamath Falls and Eugene. It arrived at Train Mountain in November 2008. In August 2024, the museum acquired Weyerhaeuser Timber Company 101, a Baldwin DS-4-4-750 diesel locomotive built in May 1950. This engine served the Oregon, California and Eastern Railway until 1990, making it Train Mountain's first full-size display locomotive and a tangible link between the timber railroads of the past and the model railroads of today.
+
+## Live Steam and Scale Engineering
+
+The serious practitioners of live steam modeling congregate at Train Mountain because the layout accommodates locomotives that would overwhelm smaller club tracks. The 7.5-inch gauge supports both 1.5-inch scale (approximately 1/8 actual size) and 2.5-inch scale (approximately 1/5 actual size) equipment. Some of the larger steam locomotives, fully loaded with water and fuel, weigh over 2,000 pounds. These are precision machines, their boilers generating real steam pressure, their valve gear replicating the mechanics of full-size locomotives in exacting detail. Oregon Public Broadcasting featured Train Mountain on Oregon Field Guide in 2005 and again in 2017, introducing the wider world to this community of engineers, machinists, and dreamers who build and operate their own railroads.
+
+## Journeys of Discovery
+
+Train Mountain operates as a club and museum rather than an amusement park, but visitors can experience the railroad through guided tours ranging from 30 minutes to eight hours. Even the longest excursions cannot traverse the entire network. The adjacent Klamath and Western Railroad, a separate nonprofit organization, offers free public rides on Saturdays from Memorial Day through Labor Day. Originally founded as the Over The Hill Live Steamers, this group predates Train Mountain itself and maintains its own collection of antique railroad artifacts, including a train order semaphore signal from the Southern Pacific station in Junction City, Oregon. Together, these organizations preserve not just equipment but the culture and craft of railroading in miniature.
+
+## Flight Context
+
+Located at 42.56N, 121.89W in south-central Oregon, the 2,200-acre property is bounded by Highway 97 to the east, Highway 62 (Crater Lake Highway) to the west, and Highway 422 to the north. From the air, the track network appears as thin lines threading through clearings in the ponderosa pine forest. Central Station sits at approximately 4,240 feet elevation, with the highest point accessible by train at Ward Passing Track. Nearby airports include Klamath Falls (KLMT) approximately 25 miles south and Crater Lake-Klamath Regional Airport. Crater Lake National Park lies directly to the north. Best aerial viewing at 2,000-4,000 feet AGL on clear days.
+
+## Sources
+
+- [Train Mountain Railroad - Wikipedia](https://en.wikipedia.org/?curid=34541858)
+  - Guinness World Record 2004
+  - 2,205-acre property
+  - 7.5-inch gauge track
+  - Located between Klamath Falls and Crater Lake
+  - Southern Pacific MW206 rotary snowplow built 1923 by ALCo
+- [Train Mountain Official Website - About Us](https://trainmountain.org/about/)
+  - Over 35 miles of track
+  - World's Longest Rideable Miniature Hobby Railway
+- [Train Mountain Triennial 2022 - 7idea Productions](https://www.7ideaproductions.com/products/train-mountain-triennial-2022)
+  - 2022 Triennial (Triennial VIII)
+  - Approximately 888 participants
+  - Big Toot event
+
+## Review Notes
+
+**Reviewed:** 2026-01-24 · 12 facts verified · 0 corrections
+
+Verified Guinness record 2004, track length 35+ miles, 2205 acres, Triennial 2022 had 888 participants, MW206 rotary snowplow built 1923. All facts accurate.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 825*
+*Read time: 4 minutes*

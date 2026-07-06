@@ -124,5 +124,26 @@
     "_m/w/1/5/c/operation-cockpit-wp/surprise-raid-sabang-n.jpg",
     "_m/w/1/5/c/operation-cockpit-wp/map-front-against-japa.jpg",
     "_m/w/1/5/c/operation-cockpit-wp/view-attack-japanese-s.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w15c-operation-cockpit-flight-context.mp3",
+      "w15c-operation-cockpit-intro.mp3",
+      "w15c-operation-cockpit-a-fleet-reborn-from-the-mediterranean.mp3",
+      "w15c-operation-cockpit-sabang-in-the-crosshairs.mp3",
+      "w15c-operation-cockpit-dawn-over-weh-island.mp3",
+      "w15c-operation-cockpit-friendly-fire-and-rainstorms.mp3",
+      "w15c-operation-cockpit-a-rehearsal-that-changed-nothing.mp3"
+    ],
+    "durations": {
+      "w15c-operation-cockpit-flight-context.mp3": 53.2237083,
+      "w15c-operation-cockpit-intro.mp3": 50.260375,
+      "w15c-operation-cockpit-a-fleet-reborn-from-the-mediterranean.mp3": 64.7011666,
+      "w15c-operation-cockpit-sabang-in-the-crosshairs.mp3": 59.2685833,
+      "w15c-operation-cockpit-dawn-over-weh-island.mp3": 73.626625,
+      "w15c-operation-cockpit-friendly-fire-and-rainstorms.mp3": 54.677375,
+      "w15c-operation-cockpit-a-rehearsal-that-changed-nothing.mp3": 65.1465833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

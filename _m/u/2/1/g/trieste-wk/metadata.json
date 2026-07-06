@@ -1280,5 +1280,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u21g-trieste-flight-context.mp3",
+      "u21g-trieste-intro.mp3",
+      "u21g-trieste-the-city-that-belongs-to-everyone.mp3",
+      "u21g-trieste-where-empires-left-their-marks.mp3",
+      "u21g-trieste-coffee-cuisine-and-the-art-of-the-buffet.mp3",
+      "u21g-trieste-a-literary-coastline.mp3",
+      "u21g-trieste-the-adriatic-edge.mp3"
+    ],
+    "durations": {
+      "u21g-trieste-flight-context.mp3": 49.8370833,
+      "u21g-trieste-intro.mp3": 50.9414583,
+      "u21g-trieste-the-city-that-belongs-to-everyone.mp3": 57.8474166,
+      "u21g-trieste-where-empires-left-their-marks.mp3": 59.13825,
+      "u21g-trieste-coffee-cuisine-and-the-art-of-the-buffet.mp3": 68.928125,
+      "u21g-trieste-a-literary-coastline.mp3": 58.92575,
+      "u21g-trieste-the-adriatic-edge.mp3": 45.467375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

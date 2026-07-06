@@ -1,0 +1,65 @@
+# Abaco Islands
+
+A Bahamian archipelago shaped by Loyalist refugees, shipwrecked enslaved people freed by local authorities, an independence movement that nearly succeeded, and a Category 5 hurricane that nearly destroyed it all.
+
+**Location:** 26.4667, -77.0833
+
+**Categories:** islands, bahamas, colonial-history, natural-disaster, archipelago
+
+## Introduction
+
+Juan de la Cosa's map of the New World, printed in 1500, labels these islands Habacoa. The Turin map of 1523 calls them Iucayonique. By the time English cartographers caught up decades later, the name had simplified to Abaco, though nothing else about these islands has ever been simple. Sitting 193 miles east of Miami in the northern Bahamas, the Abaco chain stretches across Great Abaco and Little Abaco and a constellation of smaller cays, barrier islands that enclose turquoise shallows on one side and face the open Atlantic on the other. Protected by the third-largest barrier reef in the world, the islands have attracted and repelled settlers for five centuries, from the Lucayan people who were seized and enslaved by the Spanish until none remained, to the American Loyalists who arrived fleeing one revolution and nearly started another.
+
+## Before the Maps Had Names
+
+The Lucayans were the first people to inhabit Abaco. A branch of the Taino who populated much of the Caribbean, they were also the first inhabitants of the Americas encountered by Christopher Columbus. What followed was swift and total. The Spanish began seizing Lucayans as slaves within a few years of Columbus's arrival, and by 1520, every Lucayan had been removed from the Bahamas. The islands stood empty for approximately 130 years. Spain claimed them but showed little interest: the reefs were treacherous, the land unprofitable, and the Spanish empire was focused on Havana. In 1513, Juan Ponce de Leon landed on Abaco. In 1561, a Spanish ordinance forbade any merchant ship to enter the Bahamas without escort. In 1593, a fleet of seventeen Spanish ships wrecked off the Abaco coast. Pirates and freebooters, both English and French, preyed on Spanish vessels in the channels north of Cuba. Ownership of the islands passed back and forth between Spain and Great Britain for 150 years before a 1783 treaty settled the matter, with Britain ceding East Florida to Spain and receiving the Bahamas in return.
+
+## The Loyalists' Gamble
+
+That same year, 1783, a call went out in the Royal Gazette of New York City for volunteers to settle Abaco. About 1,500 Loyalists, refugees from the newly independent American states, sailed south and founded the town of Carleton near modern-day Treasure Cay, naming it after Sir Guy Carleton. The settlement fractured almost immediately. Disputes over food distribution and exaggerated claims about available resources drove a group of disgruntled settlers to establish a rival town near Marsh Harbour called Maxwell. Conflict between settlers and officials became a defining feature of life on the islands. They tried farming sea island cotton, and the crops of 1786 and 1787 were promising, but caterpillars devastated the 1788 harvest. The Loyalists fell back on what the sea provided: salvaging wrecks, building wooden boats, and fishing. Shipbuilding became the islands' signature craft, a tradition that persisted for centuries and produced builders like Thomas Winer Malone, whose boats were known throughout the Bahamas.
+
+## Wrecked Chains
+
+The waters off Abaco became the site of a different kind of reckoning. In December 1830, the American slave ship Comet wrecked off the coast. Bahamian customs officers in Nassau seized the 165 enslaved people aboard and freed them, despite furious protests from the American crew. Four years later, the Encomium met the same fate; its 48 enslaved passengers were likewise freed. In 1840, the Hermosa, another slave ship, wrecked on the Abaco reefs, and again Bahamian authorities unilaterally emancipated those aboard. These acts of liberation were not symbolic gestures. They created real diplomatic crises between Britain and the United States, resulting in an indemnity settlement in 1855. More importantly, they influenced the enslaved people who heard about them. The revolt led by Madison Washington aboard the slave ship Creole in 1841, one of the most successful slave revolts in American history, was shaped in part by the knowledge that Bahamian shores meant freedom.
+
+## The Islands That Almost Left
+
+When Bahamian Prime Minister Lynden Pindling announced independence from Britain in June 1971, Abaco pushed back. The Greater Abaco Council formed to lobby for continued British rule and submitted a petition to the Queen asking that Abaco become a self-contained territory under British jurisdiction. The petition was defeated in the House of Commons. A similar motion was defeated in the House of Lords three weeks later. A final attempt at a United Nations-supervised referendum failed in the Bahamas House of Assembly in June 1973. The Bahamas became independent on July 10, 1973. One month later, the Abaco Independence Movement formed as a political party seeking self-determination within a federal Bahamas. Chuck Hall and Bert Williams led the effort. It lasted four years. The Progressive Liberal Party's victory in the 1977 general election effectively ended the movement, but the impulse behind it, a fierce attachment to local identity, never entirely faded.
+
+## Dorian's Mark
+
+On September 1, 2019, Hurricane Dorian made landfall on Elbow Cay in the Abaco Islands as a Category 5 storm, tying the 1935 Labor Day hurricane as the strongest landfalling Atlantic hurricane on record. The damage was described as catastrophic. Seventy-five percent of homes across the islands were damaged or destroyed. Seventy people were confirmed dead, with 282 still missing as of October 2019, with the final official toll later reaching 74. The total cost to the Bahamas reached $3.4 billion, and Abaco bore the worst of it: 87 percent of the losses and 76 percent of the physical damage. The islands that had survived five centuries of colonial turnover, piracy, slavery disputes, and political upheaval faced a different kind of erasure. Rebuilding continues. Marsh Harbour, the commercial hub and the Bahamas' third-largest city, still anchors the chain. Six national parks maintained by the Bahamas National Trust protect what nature has not lost. Among the losses that cannot be rebuilt: the Abaco Barb, a breed of feral horse descended from Spanish stock, went extinct in 2015, four years before the storm arrived.
+
+## Flight Context
+
+The Abaco Islands stretch roughly north-south at 26.47N, 77.08W, about 193 miles east of Miami. Marsh Harbour Airport (MYAM/MHH) and Treasure Cay Airport (MYAT/TCB) are the two main airfields. From cruising altitude, the chain is distinctive: a long main island flanked by a necklace of barrier cays on the Atlantic side, with the third-largest barrier reef in the world visible as a color break in the water. At 5,000-8,000 feet, you can trace the full length of Great Abaco and pick out the individual cays. The Hope Town lighthouse on Elbow Cay, with its red and white stripes, is a notable visual landmark from lower altitudes. Disney's Castaway Cay (formerly Gorda Cay) is visible off the southwest coast near Sandy Point.
+
+## Sources
+
+- [Abaco Islands - Wikipedia](https://en.wikipedia.org/?curid=856364)
+  - Abaco 193 miles east of Miami confirmed
+  - Lucayans removed by Spanish by 1520 confirmed
+  - 1783 Loyalists settled Abaco from Royal Gazette New York confirmed
+  - Comet 1830 wreck and 165 enslaved freed confirmed
+  - Encomium 1834 wreck and 48 enslaved freed confirmed
+  - Hermosa 1840 wreck confirmed
+  - Creole revolt 1841 Madison Washington confirmed
+  - Bahamas independence July 10 1973 confirmed
+  - Hurricane Dorian September 1 2019 Category 5 landfall confirmed
+  - Corrected: death toll from 67 to 70 (official) with note final toll was 74
+  - 282 missing as of October 2019 confirmed
+  - $3.4 billion total damage confirmed
+  - Abaco Barb horse extinct 2015 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-12 · 13 facts verified · 1 correction
+
+Corrected death toll from 67 to 70 (official initial confirmed count) with note final toll reached 74. Verified Abaco 193 miles from Miami, Lucayans removed by 1520, 1783 Loyalist settlement, Comet/Encomium/Hermosa slave ship liberations, Creole revolt 1841, Bahamas independence July 10 1973, Dorian Category 5 confirmed, 282 missing, .4B damage, Abaco Barb extinct 2015.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 850*
+*Read time: 5 minutes*

@@ -1,0 +1,62 @@
+# Indus River
+
+One of Asia's great civilizational arteries, the Indus River rises near Mount Kailash in Tibet and travels over 3,000 kilometers through Pakistan before reaching the Arabian Sea.
+
+**Location:** 24.0000, 67.5000
+
+**Categories:** rivers, geography, history, civilization, environment
+
+## Introduction
+
+Somewhere near the sacred Mount Kailash in western Tibet, a spring emerges from the earth and begins a journey of over 3,000 kilometers. By the time it reaches the Arabian Sea near Karachi, this water has carved through the Himalayas, sustained one of humanity's earliest civilizations, fed the breadbasket of Pakistan, and shaped the political boundaries of South Asia. The Indus is not just a river. It gave its name to India, to Hinduism, and to the subcontinent itself.
+
+## Born from Collision
+
+The Indus begins its life along the Indus-Yarlung suture zone, the geological scar where the Indian tectonic plate slammed into the Eurasian plate roughly 50 million years ago. Fed by glaciers from the Himalayan, Karakoram, and Hindu Kush ranges, the river gathers tributaries as it drops from the Tibetan Plateau through Ladakh. At the Nanga Parbat massif, one of the world's highest peaks at over 8,000 meters, the Indus bends sharply and plunges south through some of the deepest gorges on earth. The five rivers of Punjab -- the Chenab, Jhelum, Ravi, Beas, and Sutlej -- join it from the east, while the Kabul, Gilgit, and Shyok rivers feed it from the west and north. Together, they drain an area exceeding one million square kilometers.
+
+## Cradle of Cities
+
+Around 3300 BCE, the Indus Valley Civilization emerged along this river's banks. At its height, it covered parts of modern Pakistan and northwestern India, with major urban centers at Mohenjo-daro and Harappa. These cities had sophisticated drainage systems, standardized weights, and planned street grids at a time when much of the world lived in scattered settlements. The civilization's decline around 1900 BCE may have been driven in part by shifts in the Indus and its tributaries. The river has been reshaping human life ever since -- Alexander the Great sailed down it in 326 BCE, Mughal emperors built empires beside it, and the 1960 Indus Waters Treaty between India and Pakistan divided its flow in one of the Cold War era's most consequential water agreements.
+
+## Pakistan's Lifeline
+
+Today, the Indus irrigates the largest contiguous irrigation system in the world. The river and its tributaries water the agricultural heartland of Pakistan, feeding cotton, wheat, and rice crops that sustain roughly 200 million people. Major dams and barrages -- Tarbela, Mangla, Guddu, Sukkur -- regulate its flow, generating hydroelectric power and channeling water through thousands of kilometers of canals. The Sukkur Barrage alone, completed in 1932, transformed the economy of Sindh province. But this control comes with consequences. Upstream diversions have starved the Indus delta of the sediment and freshwater it needs, shrinking mangrove forests and allowing saltwater intrusion that threatens coastal communities.
+
+## A Delta in Retreat
+
+Where the Indus meets the Arabian Sea, a vast delta once spread across thousands of square kilometers of creeks, mudflats, and mangrove forests. The Indus River dolphin, a nearly blind freshwater species found nowhere else, still navigates its murky waters. But the delta is shrinking. Reduced water flows from upstream barrages, combined with rising sea levels, have transformed once-fertile land into salt-crusted flats. Fishing communities that sustained themselves for centuries now struggle with saltwater contamination of their wells. The mangroves that once buffered the coast against cyclones are thinning. Climate change projections suggest the river's glacial sources in the Himalayas will initially increase flow as ice melts, then decline sharply in coming decades -- a reckoning for a civilization built on meltwater.
+
+## Flight Context
+
+The Indus delta is visible at approximately 24.0°N, 67.5°E. From altitude, the braided channels of the delta fan outward into the Arabian Sea. Nearby airports include Karachi's Jinnah International Airport (OPKC) to the northeast. The river's course can be traced northward across Pakistan's flat agricultural plains. Best viewed in clear weather; haze from agricultural burning may reduce visibility during harvest season.
+
+## Sources
+
+- [Indus River - Wikipedia](https://en.wikipedia.org/?curid=15490)
+  - Length over 3,000 km confirmed (modern figure is 3,180 km)
+  - Originates near Mount Kailash in Tibet confirmed
+  - Drainage area exceeding one million square kilometers confirmed (approx. 1,120,000 km2)
+  - Indus Valley Civilization emerged around 3300 BCE confirmed
+  - Civilization decline around 1900 BCE confirmed
+  - Alexander the Great sailed down the Indus in 326 BCE confirmed
+  - Indus Waters Treaty signed in 1960 confirmed
+  - Sukkur Barrage completed in 1932 confirmed
+  - Indus River dolphin described as nearly blind freshwater species confirmed
+  - Five tributaries of Punjab (Chenab, Jhelum, Ravi, Beas, Sutlej) confirmed
+  - No factual errors found requiring correction
+- [Indus Waters Treaty - Wikipedia](https://en.wikipedia.org/wiki/Indus_Waters_Treaty)
+  - 1960 Indus Waters Treaty between India and Pakistan confirmed
+  - Treaty described as consequential water agreement confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-01 · 11 facts verified · 0 corrections
+
+All key facts verified: length over 3,000 km (modern figure 3,180 km) confirmed, origin near Mount Kailash in Tibet confirmed, drainage area exceeding one million km2 confirmed (~1,120,000 km2), Indus Valley Civilization emergence ~3300 BCE confirmed, decline ~1900 BCE confirmed, Alexander sailed it 326 BCE confirmed, Indus Waters Treaty 1960 confirmed, Sukkur Barrage completed 1932 confirmed, Indus River dolphin as nearly blind freshwater species confirmed, five Punjab tributaries confirmed. No factual errors or empathy/dignity issues found. Spiciness: 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 680*
+*Read time: 4 minutes*

@@ -1,0 +1,59 @@
+# Făgăraș Citadel
+
+A Transylvanian fortress that evolved from a twelfth-century wooden stockade into a princely residence, then became one of communist Romania's most notorious political prisons before its transformation into a museum.
+
+**Location:** 45.8452, 24.9739
+
+**Categories:** fortifications, castles, political-history, communism, prisons, museums, transylvania
+
+## Introduction
+
+The moat still encircles the Făgăraș Citadel, wide and dark, reflecting walls that are two to three meters thick. For most of its seven centuries, that moat was a statement of military strength -- first against Mongol invaders, then Ottoman raiders, then whatever army happened to be contesting Transylvania that particular decade. But between 1950 and 1960, the moat served a different purpose entirely. It made escape impossible for the roughly 5,000 political prisoners the Romanian communist regime confined within these walls, many of them held without trial, some of them tortured, at least 161 of them dead from the conditions inside. The citadel's architecture did not change. Only its function did.
+
+## From Timber Walls to Princely Halls
+
+The site began as a wooden fortification with earthen ramparts, built sometime in the twelfth century. Archaeological excavations suggest this early structure was violently destroyed around the mid-thirteenth century, almost certainly during the Mongol invasion of 1241 that devastated much of Eastern Europe. Construction of the stone citadel began in 1310, positioned strategically halfway between Brașov and Sibiu and within striking distance of Wallachia to the south. For centuries it served as a military strongpoint guarding southeastern Transylvania against incursions. Its importance grew in the seventeenth century when Prince Gabriel Bethlen prioritized modernizing Făgăraș over the traditional capital at Alba Iulia. His successor, Michael I Apafi, took the upgrade further and transformed the citadel into a full princely residence, its geometric layout and reinforced walls reflecting the evolving demands of both warfare and statecraft. After 1689, it functioned as a garrison, a role it maintained even after the union of Transylvania with Romania.
+
+## Behind the Walls, Without Trial
+
+In 1950, Romania's communist authorities recognized what medieval builders had always known: Făgăraș was virtually escape-proof. The citadel was converted into a prison for political detainees. The Securitate -- Romania's secret police -- used the outer fortifications as an operational base for hunting anti-communist partisans hiding in the nearby Făgăraș Mountains. The prisoners who arrived were a cross-section of everyone the regime considered dangerous: former police and intelligence officers, generals who had served in the previous government, peasants who resisted the collectivization of their farms, and supporters of Ion Gavrilă Ogoranu's mountain partisan movement. Over 800 political prisoners were transferred from Târgșor prison in the autumn of 1950 alone. None of them had been convicted in court. They were held without trial or sentence, their confinement limited only by the regime's discretion.
+
+## The Cost of Confinement
+
+Conditions inside the prison were deliberately harsh. Food consisted of bread -- sometimes relatively fresh, sometimes not -- and a corn gruel that former inmates described as barely edible. No doctors attended to sick prisoners. The bathrooms did not function properly, filling the cells with a stench that intensified unbearably in summer. Brooms for cleaning were almost nonexistent. Winter cold penetrated the thick stone walls that had been designed to withstand cannon fire, not to provide comfort. During the decade the prison operated, at least 161 detainees died from these conditions; former prisoners insisted the real toll was significantly higher. In 1957, eighty sympathizers of the Hungarian Revolution of 1956 were brought from Sibiu, including the scholar Onisifor Ghibu. By then the facility was overcrowded, with some prisoners still confined despite their arrest warrants having expired. Some 400 inmates were sent to forced labor at the Danube-Black Sea Canal between 1951 and 1952, returning broken in 1954.
+
+## From Prison to Museum
+
+The prison chapter ended in early 1960. Groups of over 100 detainees were transferred to Gherla prison in February, and the citadel was handed over to the regional council, which had been requesting it since late 1959 on the grounds that the historic structure needed proper maintenance. Between 1965 and 1977, restoration work repaired damage from decades of institutional neglect and centuries of military use. Today the Făgăraș Citadel operates as a museum, its halls displaying artifacts from its long history. The moat is quiet. Visitors walk through the same geometric corridors that princes once governed from and prisoners later paced in circles. Romania's Institute for the Investigation of Communist Crimes has documented the prison's history, ensuring that the citadel's most painful decade is not erased from its story. The fortress that began as protection against Mongol invaders and ended as a cage for a regime's own citizens now serves as a reminder of both.
+
+## Flight Context
+
+Făgăraș Citadel sits at 45.845°N, 24.974°E in the town of Făgăraș, Brașov County, on the northern edge of the Făgăraș Mountains -- the highest range in Romania's Southern Carpathians. From 3,000-5,000 feet AGL, the citadel's geometric star-fort layout with its surrounding moat is clearly visible in the center of town. Sibiu International Airport (LRSB) is approximately 60 km to the west, and Brașov-Ghimbav International Airport (LRBV) is roughly 70 km to the east. The Făgăraș Mountains rise dramatically to the south, with peaks exceeding 2,500 meters. The Olt River valley provides a natural east-west corridor. Expect mountain-influenced weather with turbulence possible near the peaks.
+
+## Sources
+
+- [Făgăraș Citadel - Wikipedia](https://en.wikipedia.org/?curid=32704030)
+  - Stone construction began in 1310
+  - Prison operated 1950–1960
+  - 161 detainees died from conditions
+  - Over 800 political prisoners transferred from Târgșor in autumn 1950
+  - Prisoners held without trial or sentence
+  - Securitate used exterior fortifications as base against mountain partisans
+  - Groups transferred to Gherla prison in February 1960
+- [Fagaras Fortress - History and Facts | History Hit](https://www.historyhit.com/locations/fagaras-fortress/)
+  - Wooden fortification with earthen ramparts built in 12th century
+  - Destroyed around mid-13th century during Mongol invasion of 1241
+  - Prince Gabriel Bethlen modernization and princely residence use confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 7 facts verified · 0 corrections
+
+All key facts verified: 1310 stone construction, 1950-1960 prison, 161 deaths, 800+ prisoners from Targsor, held without trial, Gherla transfer 1960. No empathy issues. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

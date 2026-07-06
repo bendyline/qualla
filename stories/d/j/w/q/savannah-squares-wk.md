@@ -1,0 +1,61 @@
+# Savannah: The City Built on Squares and Secrets
+
+The Georgia port where Oglethorpe's original grid of shaded squares survives - where Spanish moss drapes live oaks, where Forrest Gump's bench sat, and where the city Sherman spared became the South's most haunted, most beautiful, most unrepentant destination.
+
+**Location:** 32.0809, -81.0912
+
+**Categories:** georgia, savannah, historic, squares, architecture
+
+## Introduction
+
+Sherman gave it as a Christmas present. In December 1864, after burning Atlanta and marching 285 miles to the sea, General William Tecumseh Sherman wired Lincoln: 'I beg to present you as a Christmas gift the city of Savannah.' Why he spared it remains debated - some say the city surrendered peacefully, others claim he admired its beauty, still others note a rumored Savannah mistress. Whatever the reason, Savannah survived to become what Atlanta's ashes became: a living museum of antebellum architecture, laid out on the original 1733 grid that James Oglethorpe designed with military precision and humanitarian vision. The squares he created still anchor the city - green oases in the grid where moss-draped oaks shade benches and monuments while tourists drink cocktails legally on the streets.
+
+## The Grid
+
+James Oglethorpe landed in 1733 with a plan. The colony of Georgia would be different: no slavery (initially), no lawyers, no strong drink. And the capital would be designed rationally. Oglethorpe's grid created wards, each centered on a public square, surrounded by lots for houses, churches, and public buildings. The pattern repeated as the city grew: eventually 24 squares, 22 of which survive. The design was practical - fire breaks, military assembly points, social centers - but became beautiful over centuries. The live oaks grew massive; the Spanish moss accumulated; the brick townhouses rose around the squares. Oglethorpe's grid was preservation before the word existed.
+
+## The Contradictions
+
+Oglethorpe's prohibition on slavery lasted barely two decades. Georgia's trustees reversed the ban in 1751, and Savannah became a major slave-trading port. The economy that built those beautiful townhouses depended on enslaved labor; the bricks were made by enslaved hands. The city's wealth came from cotton shipped through the port, harvested by enslaved people on surrounding plantations. When war came, Savannah fell easily - too strategic to defend, too valuable to destroy. Sherman's mercy preserved architecture that memorializes both grace and brutality. The city interprets both now, though the balance remains contested.
+
+## The Ghosts
+
+Savannah claims to be America's most haunted city, and the tourism industry embraces it. Ghost tours wind through squares and alleys nightly, repeating tales of Yellow Fever epidemics, dueling deaths, and unquiet spirits. The Mercer-Williams House, where antiques dealer Jim Williams shot young hustler Danny Hansford in 1981, draws visitors who've read 'Midnight in the Garden of Good and Evil,' John Berendt's book that made Savannah's eccentric characters internationally famous. The book's success transformed the city's tourism - suddenly people came for the weirdness, the drag queen who walked her invisible dog, the voodoo priestess who shaped trial outcomes. The ghosts are marketing now, but the city earned them.
+
+## The Modern City
+
+Savannah is more than museum. The Savannah College of Art and Design (SCAD) has revitalized historic buildings and added youth to an aging population. The port remains major - the fourth busiest in the United States, serving ships that dwarf the cotton packets of antebellum days. The city's party reputation rivals New Orleans; open-container laws allow drinking while walking, and St. Patrick's Day turns the city into America's second-largest celebration (after New York). River Street's cobblestones, once ballast from cotton ships, now anchor bars and tourist shops. The preservation is genuine but so is the development; Savannah remains a working city that happens to be gorgeous.
+
+## Visiting Savannah
+
+Savannah is located on the Georgia coast, accessible via Savannah/Hilton Head International Airport or I-95. The Historic District is walkable; trolley tours provide overview and hop-on access. The squares are the experience - Forsyth Park's fountain, Chippewa Square where Forrest Gump's bench was filmed, Monterey Square facing the Mercer-Williams House. Cathedral of St. John the Baptist offers architectural splendor. River Street restaurants and bars line the waterfront. Ghost tours run nightly; book 'Midnight in the Garden' tours for literary context. Summer heat is oppressive; spring (azaleas) and fall are ideal. Carry your drink - it's legal in the Historic District within plastic cups. The experience rewards wandering; every square reveals another angle of a city that's beautiful, complicated, and knows it.
+
+## Flight Context
+
+Located at 32.08°N, 81.09°W on the Savannah River near the Georgia-South Carolina border. From altitude, Savannah's grid is distinctive - the regular pattern of squares visible as green dots in the street matrix, the Historic District compact on the river's south bank. The Savannah River widens toward the Atlantic; the port's container terminals and cranes dominate the waterfront. Tybee Island lies 18 miles east, accessible via a causeway. The terrain is flat coastal plain; salt marshes extend in all directions. What appears from altitude as a small Southern city is the best-preserved example of colonial urban planning in America - the grid Sherman admired too much to burn, now hosting millions who come to walk among ghosts and oaks and the questions the beautiful architecture asks about who built it and how.
+
+## Sources
+
+- [Squares of Savannah, Georgia - Wikipedia](https://en.wikipedia.org/?curid=5613537)
+- [Savannah, Georgia - Wikipedia](https://en.wikipedia.org/wiki/Savannah,_Georgia)
+  - Founded 1733 by Oglethorpe
+  - 24 original squares, 22 surviving
+  - Fourth busiest US port
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 10 facts verified · 0 corrections
+
+Verified: Oglethorpe 1733, 24 original squares 22 survive, Sherman Christmas gift Dec 1864, 4th busiest port.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- The City Built on Squares and Secrets
+- The city interprets both now, though the balance remains contested
+
+---
+
+*Word count: 855*
+*Read time: 5 minutes*

@@ -1,0 +1,60 @@
+# Shakespeare's Globe
+
+An American actor spent 23 years fighting to rebuild Shakespeare's theatre on the Thames, and died before he could see a play performed there.
+
+**Location:** 51.5081, -0.0972
+
+**Categories:** theatres, london landmarks, shakespeare, bankside, reconstructed buildings
+
+## Introduction
+
+Sam Wanamaker first visited the south bank of the Thames in 1949 and found a dirty bronze plaque on a brewery wall. It marked the approximate site of the original Globe Theatre, built in 1599 by the Lord Chamberlain's Men, where Shakespeare staged his greatest works. That was all -- a plaque, a brewery, and the indifference of a city that had let one of its most significant cultural sites vanish under warehouses and car parks. Wanamaker, an American actor who had come to London to escape the McCarthy blacklist, decided to rebuild it. The project consumed the next 23 years of his life. He died in 1993, four years before the new Globe opened.
+
+## An Impossible Obsession
+
+In 1970, Wanamaker founded the Shakespeare Globe Trust and began what many dismissed as a quixotic fantasy. A faithful reconstruction of a 16th-century open-air theatre in modern London seemed impossible -- fire regulations alone appeared to rule it out. But Wanamaker and his associate Diana Devlin persisted through decades of fundraising, planning disputes, and skepticism. Historical adviser John Orrell led the research into the original Globe's design, drawing on evidence from the surviving Fortune Playhouse building contract, contemporary drawings, descriptions of the first Globe, and the archaeological remains of the nearby Rose Theatre, which were discovered during the project's final planning stages. The design team -- architect Theo Crosby of Pentagram, structural engineers Buro Happold, and builders McCurdy & Co -- worked to recreate the 1599 building rather than its 1614 replacement.
+
+## The Theatre That Rains On Its Audience
+
+The new Globe opened in 1997 with a production of Henry V, and its first audiences discovered what Elizabethan theatregoing actually felt like. The open-air amphitheatre holds around 1,400 spectators -- less than half the original's 3,000, thanks to modern safety requirements -- in three tiers of raked seating surrounding a thrust stage. But 700 of those places are standing room in the yard, where "groundlings" watch the performance from below, just as they did four centuries ago. Rain falls on them. The sun shifts across the stage as the afternoon progresses. Actors and audience share the same light and can see each other's faces, creating an intimacy that enclosed theatres cannot replicate. For its first eighteen seasons, the Globe used no spotlights, no microphones, and no amplification. All music was played live on period instruments.
+
+## English Oak and Mortise Joints
+
+The building itself is constructed entirely of English oak, using mortise and tenon joints that a Tudor carpenter would recognize. It sits on Bankside, about 230 metres from the original Globe's location -- the original site now lies beneath listed Georgian townhouses that could not be demolished. The reconstruction was as faithful as research allowed, though compromises were necessary: the external staircases come from the 1614 rebuilding rather than the 1599 original, and a fire sprinkler system lurks beneath the thatch. The thatched roof, incidentally, made the Globe the first thatched building permitted in London since the Great Fire of 1666. Adjacent to the main theatre stands the Sam Wanamaker Playhouse, a candlelit indoor space modelled on a Jacobean-era theatre, which opened in 2014 for winter performances.
+
+## A Living Experiment
+
+Mark Rylance, the founding artistic director, established the Globe's identity as a place of theatrical experiment rather than museum-piece reverence. The theatre generates 24 million pounds in annual revenue without public subsidy, a remarkable feat for a venue that cannot stage performances in winter and deliberately eschews many of the technologies modern audiences expect. Under current artistic director Michelle Terry, the Globe has returned to original playing conditions after a brief period of experimentation with lighting and sound rigs. The theatre also runs an extensive education programme and the Read Not Dead series, which presents staged readings of plays by Shakespeare's contemporaries. In 2015, it became the first theatre in the world to make its productions available as video-on-demand through its Globe Player platform. Wanamaker, blacklisted in one country, built a theatre in another that has become one of the most visited cultural sites in London.
+
+## Flight Context
+
+Located at 51.508N, 0.097W on Bankside, Southwark, on the south bank of the Thames. The Globe's distinctive circular thatched-roof structure is visible from low altitude, sitting between Tate Modern and the Millennium Bridge. Nearest airports: EGLC (London City, 5nm E), EGLL (Heathrow, 14nm W). Best viewed at 1,500-2,500 ft AGL.
+
+## Sources
+
+- [Shakespeare's Globe - Wikipedia](https://en.wikipedia.org/?curid=2116548)
+  - original Globe built 1599 by Lord Chamberlain's Men confirmed
+  - Wanamaker first visited 1949 confirmed
+  - Shakespeare Globe Trust founded 1970 confirmed
+  - Wanamaker died 1993 confirmed
+  - new Globe opened 1997 confirmed (four years after Wanamaker's death)
+  - holds around 1,400 spectators confirmed
+  - 700 standing places in the yard confirmed
+  - opened with Henry V production confirmed
+  - Sam Wanamaker Playhouse opened 2014 confirmed
+  - theatre generates revenue without public subsidy confirmed
+  - reconstruction in English oak with mortise-tenon joints confirmed
+  - first thatched roof permitted in London since Great Fire of 1666 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 12 facts verified · 0 corrections
+
+Verified original Globe built 1599 by Lord Chamberlain's Men, Wanamaker first visited 1949, Trust founded 1970, died 1993, new Globe opened 1997 (4 years after death), seating ~1400 with 700 standing, opened with Henry V, Sam Wanamaker Playhouse 2014, no public subsidy, first thatched roof since Great Fire. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

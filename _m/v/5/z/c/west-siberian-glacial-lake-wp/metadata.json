@@ -131,5 +131,24 @@
     "_m/c/4/h/w/spatsizi-plateau-wilderness-wk/hero.png",
     "_m/u/6/w/z/archipelago-sea-wp/sea-storm-pacifica-w-c.jpg",
     "_m/9/r/r/d/great-salt-lake-wk/walden-pond-massachuse.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "v5zc-west-siberian-glacial-lake-flight-context.mp3",
+      "v5zc-west-siberian-glacial-lake-intro.mp3",
+      "v5zc-west-siberian-glacial-lake-the-ice-sheet-that-built-a-sea.mp3",
+      "v5zc-west-siberian-glacial-lake-a-river-that-ran-to-the-mediterranean.mp3",
+      "v5zc-west-siberian-glacial-lake-what-the-lake-left-behind.mp3",
+      "v5zc-west-siberian-glacial-lake-reading-the-invisible.mp3"
+    ],
+    "durations": {
+      "v5zc-west-siberian-glacial-lake-flight-context.mp3": 50.596125,
+      "v5zc-west-siberian-glacial-lake-intro.mp3": 34.2455,
+      "v5zc-west-siberian-glacial-lake-the-ice-sheet-that-built-a-sea.mp3": 58.1044166,
+      "v5zc-west-siberian-glacial-lake-a-river-that-ran-to-the-mediterranean.mp3": 56.8018333,
+      "v5zc-west-siberian-glacial-lake-what-the-lake-left-behind.mp3": 58.1689166,
+      "v5zc-west-siberian-glacial-lake-reading-the-invisible.mp3": 61.1215416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

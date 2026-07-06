@@ -61,5 +61,24 @@
     "sourceGeohash4": "kv1n"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "kv1n-chiradzulu-mountain-flight-context.mp3",
+      "kv1n-chiradzulu-mountain-intro.mp3",
+      "kv1n-chiradzulu-mountain-the-man-who-laughs.mp3",
+      "kv1n-chiradzulu-mountain-ghosts-and-leopards.mp3",
+      "kv1n-chiradzulu-mountain-a-colonial-plateau.mp3",
+      "kv1n-chiradzulu-mountain-making-the-mountain-green-again.mp3"
+    ],
+    "durations": {
+      "kv1n-chiradzulu-mountain-flight-context.mp3": 40.5146666,
+      "kv1n-chiradzulu-mountain-intro.mp3": 42.251625,
+      "kv1n-chiradzulu-mountain-the-man-who-laughs.mp3": 62.0200416,
+      "kv1n-chiradzulu-mountain-ghosts-and-leopards.mp3": 62.8922083,
+      "kv1n-chiradzulu-mountain-a-colonial-plateau.mp3": 62.478625,
+      "kv1n-chiradzulu-mountain-making-the-mountain-green-again.mp3": 64.3602083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

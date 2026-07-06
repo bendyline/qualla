@@ -1,0 +1,86 @@
+# The Citadel
+
+Born from fear of slave rebellion and forged in the opening shots of the Civil War, The Citadel has spent nearly two centuries producing soldiers, governors, and astronauts from a Spanish Moorish campus on the banks of the Ashley River in Charleston.
+
+**Location:** 32.7972, -79.9611
+
+**Categories:** military-college, charleston, south-carolina, education, civil-war
+
+## Introduction
+
+In January 1861, cadets from the South Carolina Military Academy manned a battery on Morris Island and fired on the Union steamship Star of the West as it attempted to resupply Fort Sumter. Those shots preceded the bombardment of Fort Sumter by three months, making these college students the first Southerners to fire on the United States. The school that trained them still stands on the banks of the Ashley River in Charleston, its Spanish Moorish buildings arranged around a grass parade ground where cadets march in formations that have barely changed in over a century. This is The Citadel, the third-oldest senior military college in America, and its history is inseparable from the history of the city and the nation it was built to defend.
+
+## An Arsenal Against Rebellion
+
+The Citadel's origins are rooted in the aftermath of Denmark Vesey's thwarted slave uprising of 1822. State authorities constructed arsenals in both Charleston and Columbia to defend white residents against future insurrections, and in 1842, the state legislature transformed these armories into the South Carolina Military Academy. Classes began in 1843. The school originally operated as two campuses - the Citadel Academy in Charleston and the Arsenal Academy in Columbia. General Sherman's forces burned the Arsenal during the Civil War, and it never reopened. The Citadel Academy was occupied by Union troops in 1865 and did not resume instruction until 1882. During the war, the Corps of Cadets formed the Battalion of State Cadets, which fought in nine engagements including the Battle of Tulifinny, where cadets made up more than a third of the Confederate force defending a strategic rail line. The Citadel is one of only five American colleges to receive a battle streamer for the participation of its student body in wartime service.
+
+## The Long Gray Line of the Lowcountry
+
+In 1922, The Citadel relocated from its original home on Marion Square in downtown Charleston to a new campus along the Ashley River. Twenty-seven buildings in Spanish Moorish style ring a broad parade ground dominated by the tower of Padgett-Thomas Barracks. Every weekday begins with a formal muster and room inspection, followed by cadets marching to structured meals. The Fourth Class System subjects first-year students - called "knobs" for their formerly mandatory shaved heads - to a demanding indoctrination of discipline, physical training, and obedience to upperclassmen. Challenge Week, informally known as "Hell Week," greets incoming cadets before classes even start. Despite the rigor, roughly one-third of graduates each year accept military commissions. All cadets participate in ROTC representing all six military branches. Over the years, 299 alumni have reached flag officer rank. Nine have flown with the Thunderbirds and Blue Angels. Graduates have served as governors, senators, college presidents, and astronauts - including International Space Station Commander Colonel Randy Bresnik.
+
+## Breaking Ranks
+
+The Citadel's most publicized battles in recent decades have been fought not on foreign soil but over who gets to wear the uniform. In 1995, Shannon Faulkner became the first woman admitted to the Corps of Cadets after a two-and-a-half-year court battle, but she withdrew soon after, citing death threats against herself and her family. Four years later, Nancy Mace - daughter of the school's own Commandant of Cadets - became the first woman to graduate from the Corps, earning a degree in business administration. In 2018, Sarah Zorn was appointed the first female Regimental Commander, leading the entire South Carolina Corps of Cadets. The school's relationship with its past has been equally complex: Pat Conroy's 1980 novel The Lords of Discipline drew on his experiences as a cadet in the 1960s and outraged fellow alumni who considered it an unflattering portrait of campus life. The rift between Conroy and The Citadel took twenty years to heal.
+
+## Pipes, Guards, and Unwritten Drills
+
+Some of The Citadel's most distinctive traditions exist nowhere on paper. The Summerall Guards, a 61-member silent drill team founded in 1932, performs a precision routine called The Citadel Series that has never been written down - passed entirely through demonstration from one class to the next. The Guards have performed at five presidential inaugurations, the National Cherry Blossom Festival, and Mardi Gras in New Orleans. The Regimental Band and Pipes, established in 1909, has represented the United States three times at the Royal Edinburgh Military Tattoo in Scotland. The Citadel Pipe Band, created by General Mark W. Clark in 1955, is one of the few college bagpipe bands in the country. Clark himself - the youngest lieutenant general in the U.S. Army during World War II, later Supreme Commander of UN forces in Korea - served as Citadel president from 1954 to 1965 and is buried on campus between Summerall Chapel and the hall that bears his name.
+
+## Monuments and Memory
+
+The campus itself is a memorial landscape. The Howie Bell Tower honors Major Thomas D. Howie, Class of 1929, who was killed during the liberation of Saint-Lo, France. So respected was Howie that his flag-draped body was carried on the hood of a Jeep at the head of the column so he could be the first American to enter the city. The tower's carillon holds 59 bronze bells cast at the Royal Bergen Foundry in the Netherlands, making it one of the largest in the Western Hemisphere. Nearby, the Citadel War Memorial bears the 759 names of alumni killed in every American conflict from the Mexican-American War to modern operations. On the parade ground stand monuments to every branch of the military: a Marine landing craft, a Sherman tank, an F-4C Phantom, a Cobra helicopter gunship, and an anchor from the aircraft carrier USS Coral Sea. From the air, the campus reads as what it is - a place where the past is not something to study but something to inhabit.
+
+## Flight Context
+
+Located at 32.80N, 79.96W on the banks of the Ashley River, northwest of downtown Charleston, South Carolina. The campus is recognizable from the air by its Spanish Moorish architecture arranged around a large rectangular grass parade ground. The distinctive Padgett-Thomas Barracks tower is a useful landmark. Johnson Hagood Stadium sits just off the main campus. Hampton Park lies to the east. Charleston Executive Airport (JZI) is approximately 4 miles to the southwest; Charleston International Airport (KCHS) is 10 miles northwest. Best viewed at 1,500-3,000 feet for building detail and parade ground layout.
+
+## Sources
+
+- [The Citadel - Wikipedia](https://en.wikipedia.org/?curid=1523877)
+- [History of The Citadel - Wikipedia](https://en.wikipedia.org/wiki/History_of_The_Citadel)
+  - Founded 1842 as South Carolina Military Academy
+  - Classes began 1843
+  - Origins in Denmark Vesey's 1822 thwarted uprising
+  - Third oldest of six senior military colleges
+  - Arsenal Academy burned by Sherman, never reopened
+  - Nine battle streamers for Civil War service
+  - One of five American colleges to receive battle streamer for student body wartime participation
+- [Star of the West - Wikipedia / HISTORY.com](https://en.wikipedia.org/wiki/Star_of_the_West)
+  - Cadets fired on Star of the West from Morris Island January 9, 1861
+  - Preceded Fort Sumter bombardment by approximately three months
+  - Ship was attempting to resupply Fort Sumter
+- [The Citadel - Women's History / Shannon Faulkner / Nancy Mace / Sarah Zorn](https://www.citadel.edu/womens-history/)
+  - Shannon Faulkner admitted 1995 after court battle, withdrew shortly after
+  - Nancy Mace graduated 1999, first woman to graduate from Corps
+  - Nancy Mace's father Brigadier General Emory Mace was Commandant of Cadets
+  - Sarah Zorn appointed first female Regimental Commander May 2018
+- [The Summerall Guards - The Citadel / Wikipedia](https://en.wikipedia.org/wiki/The_Summerall_Guards)
+  - 61-member silent drill team founded 1932
+  - Citadel Series never written down, passed by demonstration
+  - Performed at five presidential inaugurations (corrected from four)
+- [General Mark W. Clark - The Citadel / Wikipedia](https://en.wikipedia.org/wiki/Mark_W._Clark)
+  - Youngest lieutenant general in US Army during WWII at age 46
+  - Citadel president 1954-1965
+  - Buried on campus
+  - Pipe Band created 1955 during Clark's presidency
+- [Randolph Bresnik - NASA / Wikipedia](https://en.wikipedia.org/wiki/Randolph_Bresnik)
+  - Citadel graduate (NROTC commission 1989)
+  - ISS Commander for Expedition 53
+
+## Review Notes
+
+**Reviewed:** 2026-02-17 · 18 facts verified · 1 correction
+
+Corrected Summerall Guards presidential inaugurations from four to five. Verified: Star of the West Jan 9 1861, Denmark Vesey 1822, founded 1842, third oldest senior military college, Shannon Faulkner 1995, Nancy Mace 1999 first woman graduate and father was Commandant, Sarah Zorn 2018 first female Regimental Commander, Summerall Guards 61 members founded 1932 drill never written down, Mark Clark youngest LTG president 1954-1965 buried on campus, Pipe Band 1955 Edinburgh Tattoo 3 times, Battle of Tulifinny cadets, Pat Conroy Lords of Discipline 1980 reconciliation ~20 years later, Bresnik ISS Commander, Howie Tower 59 bells. 299 flag officers slightly dated (now 319+). Spiciness 3.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Summary frames founding as 'Born from fear of slave rebellion' - accurate but provocative framing
+- Pat Conroy section characterizes alumni reaction as 'outraged' and frames it as a 'rift'
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

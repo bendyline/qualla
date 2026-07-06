@@ -240,5 +240,24 @@
     "_m/d/r/7/2/audubon-ballroom-wp/trude-berliner-004.jpg",
     "_m/d/r/7/2/audubon-ballroom-wp/the-malcolm-x-dr-betty-shabazz.jpg"
   ],
-  "updatedAt": "2026-03-30T14:02:30.524Z"
+  "updatedAt": "2026-03-30T14:02:30.524Z",
+  "narration": {
+    "files": [
+      "dr72-audubon-ballroom-flight-context.mp3",
+      "dr72-audubon-ballroom-intro.mp3",
+      "dr72-audubon-ballroom-foxs-palace-of-frolic.mp3",
+      "dr72-audubon-ballroom-february-21-1965.mp3",
+      "dr72-audubon-ballroom-the-fight-over-memory.mp3",
+      "dr72-audubon-ballroom-neptune-abides.mp3"
+    ],
+    "durations": {
+      "dr72-audubon-ballroom-flight-context.mp3": 46.6335833,
+      "dr72-audubon-ballroom-intro.mp3": 55.1900416,
+      "dr72-audubon-ballroom-foxs-palace-of-frolic.mp3": 57.01475,
+      "dr72-audubon-ballroom-february-21-1965.mp3": 57.0365833,
+      "dr72-audubon-ballroom-the-fight-over-memory.mp3": 55.0325,
+      "dr72-audubon-ballroom-neptune-abides.mp3": 57.362875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

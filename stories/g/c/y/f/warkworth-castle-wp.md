@@ -1,0 +1,59 @@
+# Warkworth Castle
+
+A medieval castle in a river loop where the Percy family built a keep so architecturally brilliant it has been called a masterpiece, then let it fall to ruin when they no longer needed it.
+
+**Location:** 55.3452, -1.6118
+
+**Categories:** Medieval castles, Percy family, English Heritage sites, Northumberland, Grade I listed buildings
+
+## Introduction
+
+Shakespeare set a scene of Henry IV here, and the Percy family -- earls and later dukes of Northumberland -- held Warkworth for so long that the castle's story is essentially theirs. But the most striking thing about Warkworth is not its history of rebellion and siege. It is the keep. Built in the form of a Greek cross in the late fourteenth century, probably by the mason John Lewyn, it was described by the architectural historian John Goodall as "a masterpiece of medieval English architecture." Carved angels carrying shields once crowned its parapet. A great stone lion, painted in the Percy colours, glared north toward Scotland from its face.
+
+## The River Loop
+
+Warkworth Castle occupies a superb defensive position at the southern end of a loop in the River Coquet, less than a mile from the Northumberland coast. The river wraps around three sides of the village, and the castle guards the narrow neck of land connecting the loop to the countryside beyond. A fortified bridge once defended the northern approach. The settlement dates to at least the eighth century, but the first castle was built after the Norman Conquest. Its origins are uncertain -- it may have been established by Prince Henry of Scotland around 1139, or by King Henry II of England when he took control of the northern counties in the 1150s. The first documented mention comes in a charter of 1157-1164, when Henry II granted the castle and manor to Roger fitz Richard.
+
+## The Percys Take Hold
+
+The castle changed hands through inheritance and royal grant until 1345, when the Percy family took possession. By the late fourteenth century, the Percys were the most powerful dynasty in northern England -- "for they have the hertes of the people by north and ever had," as the chronicler John Hardyng wrote. Henry Percy, 1st Earl of Northumberland, commissioned the distinctive keep shortly after receiving his earldom. The timing was not coincidental. John of Gaunt was rebuilding nearby Dunstanburgh Castle, and the House of Neville was constructing at Raby, Brancepeth, and Middleham. The keep at Warkworth was a statement of competitive lordship, designed to assert the Percys' primacy in the region through architectural magnificence.
+
+## Rebellion and Decline
+
+The Percy earls were not content with regional power. The 1st Earl helped dethrone Richard II and then rebelled against Henry IV. His son Harry Hotspur died at the Battle of Shrewsbury in 1403, and the castle surrendered under threat of bombardment. During the Wars of the Roses, the Percys fought for Lancaster and two earls died in battle -- the 2nd at St Albans in 1455 and the 3rd at Towton in 1461. The castle changed hands repeatedly before the Percys regained it in 1470. By the mid-sixteenth century, with the Anglo-Scottish border less volatile, the family maintained Alnwick Castle at Warkworth's expense. The keep was reduced to storing oats and holding manor courts.
+
+## The Keep's Ingenious Design
+
+Goodall believed the keep was used only for short stays, with the great hall in the west range serving as the preferred residence for longer visits. But the keep itself was a self-contained residence of remarkable sophistication. The ground floor held food and wine stores, plus a room with a basement chamber roughly nine feet square that may have served as a strongroom. Kitchens occupied the west side of the first floor, connected to the stores below by internal staircases. The second floor was entirely domestic -- bedrooms and withdrawing chambers arranged around a central lightwell with interior windows. At the foot of the lightwell, a tank collected rainwater for cleaning. Even the building's exterior was designed for display: the carved angels, the great lion, and what may have been decorative statues were probably painted, standing out vividly against the plain stone.
+
+## Ruin and Recovery
+
+The English Civil War brought further damage. Initially held by Royalists, the castle was forced to surrender when the Scots invaded in 1644. After the last Percy earl died in 1670, the property eventually passed to Hugh Smithson, who married the Percy heiress, adopted the surname, and founded the line of the Dukes of Northumberland. The dukes used the keep's second-floor chambers for occasional picnics when visiting from Alnwick but otherwise let the castle moulder. In the late nineteenth century, the architect Anthony Salvin was commissioned to restore the keep, and in 1922 the 8th Duke gave custody to the Office of Works. English Heritage has managed the site since 1984. The castle remains officially owned by the 12th Duke of Northumberland -- a Percy still, after nearly seven centuries.
+
+## Flight Context
+
+Warkworth Castle is at 55.345N, 1.612W, prominently situated in the loop of the River Coquet near the Northumberland coast. The castle keep and bailey are clearly visible from the air, with the river curving around the village. The fortified bridge site is visible to the north. Best viewed at 1,500-3,000 ft AGL. The coastline is less than a mile to the east. Nearest ICAO: EGNT (Newcastle) approximately 25nm south.
+
+## Sources
+
+- [Warkworth Castle - Wikipedia](https://en.wikipedia.org/?curid=30322770)
+  - Castle in river loop of River Coquet, under a mile from Northumberland coast — confirmed
+  - Percy family took possession in 1345 — confirmed
+  - Keep built in form of Greek cross, late 14th century, attributed to mason John Lewyn — confirmed
+  - 2nd Earl killed at St Albans 1455, 3rd Earl at Towton 1461 — confirmed
+  - English Heritage has managed the site since 1984, 8th Duke gave custody to Office of Works in 1922 — confirmed
+  - 12th Duke of Northumberland (Ralph Percy) still owns the castle — confirmed
+  - Shakespeare set scene of Henry IV at Warkworth — confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 7 facts verified · 0 corrections
+
+Verified Percy family took possession 1345, keep attributed to mason John Lewyn late 14th century, 2nd Earl at St Albans 1455, 3rd Earl at Towton 1461, 8th Duke gave custody to Office of Works 1922, English Heritage managing since 1984, 12th Duke still owns. All facts confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

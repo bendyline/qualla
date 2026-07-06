@@ -122,5 +122,24 @@
   "galleryPaths": [
     "_m/k/u/1/h/bazaruto-island-wp/bazaruto-lighthouse-mo.jpg",
     "_m/k/u/1/h/bazaruto-island-wp/um-ehrlich-zu-sein-hat.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "ku1h-bazaruto-island-flight-context.mp3",
+      "ku1h-bazaruto-island-intro.mp3",
+      "ku1h-bazaruto-island-persian-porcelain-on-a-sand-island.mp3",
+      "ku1h-bazaruto-island-gifted-to-a-crown-emptied-by-a-trade.mp3",
+      "ku1h-bazaruto-island-refuge-and-strain.mp3",
+      "ku1h-bazaruto-island-fourteen-mammals-and-a-fragile-balance.mp3"
+    ],
+    "durations": {
+      "ku1h-bazaruto-island-flight-context.mp3": 55.8657083,
+      "ku1h-bazaruto-island-intro.mp3": 47.5364583,
+      "ku1h-bazaruto-island-persian-porcelain-on-a-sand-island.mp3": 69.3259583,
+      "ku1h-bazaruto-island-gifted-to-a-crown-emptied-by-a-trade.mp3": 65.620875,
+      "ku1h-bazaruto-island-refuge-and-strain.mp3": 76.148125,
+      "ku1h-bazaruto-island-fourteen-mammals-and-a-fragile-balance.mp3": 81.2835
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

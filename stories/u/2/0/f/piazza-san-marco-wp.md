@@ -1,0 +1,61 @@
+# Piazza San Marco
+
+The only space in Venice deemed worthy of the title 'piazza,' where Napoleon saw the drawing room of Europe and where the Adriatic now floods the floor.
+
+**Location:** 45.4340, 12.3380
+
+**Categories:** architecture, public-square, venice, basilica, historic-site
+
+## Introduction
+
+Every other public square in Venice is called a campo. Only this one earns the title piazza. The distinction tells you everything about how Venetians regard the space that Napoleon allegedly called the finest drawing room in Europe -- a trapezoidal expanse of marble and stone, bounded by arcaded walkways, a soaring bell tower, and a basilica encrusted with gold mosaics and stolen horses. For more than a thousand years, Piazza San Marco has been the civic, religious, and ceremonial heart of the Venetian Republic and the city that inherited it. Processions of doges crossed this pavement. Merchants struck deals under its arcades. Today, the pigeons and the tourists have inherited what emperors once envied.
+
+## Bones, Horses, and Byzantine Gold
+
+The Basilica di San Marco anchors the piazza's eastern end, its five domes and gilded facade unlike anything else in Western Europe. The church exists because of a theft: in 828, Venetian merchants smuggled the remains of St. Mark the Evangelist out of Alexandria, hiding the relics -- legend claims -- beneath a layer of pork to discourage Muslim customs inspectors. Venice had its patron saint and needed a church to match. The current basilica, begun in 1063, was modeled on Constantinople's Church of the Holy Apostles, its interior sheathed in over 85,000 square feet of gold-ground mosaics depicting biblical scenes. Above the entrance, four bronze horses preside over the piazza. Looted from Constantinople during the Fourth Crusade in 1204, they were themselves looted by Napoleon in 1797 and sent to Paris, returning to Venice only after Waterloo. The originals now stand inside the basilica; the horses on the facade are replicas.
+
+## The Campanile and the Clocktower
+
+The Campanile di San Marco rises 98.6 meters above the piazza, a brick shaft capped by a pyramidal spire and a golden angel. Galileo demonstrated his telescope to the Venetian Senate from its summit in 1609. On July 14, 1902, the tower collapsed without warning into a heap of rubble, destroying the loggia at its base but killing no one except the custodian's cat. Venice rebuilt it exactly as it had been -- "dov'era e com'era," where it was and how it was -- completing the reconstruction in 1912. At the piazza's northern edge, the Torre dell'Orologio has displayed the time since 1499, its astronomical clock face showing hours, zodiac signs, and moon phases. Two bronze figures, known as the Mori for their dark patina, strike a bell on the hour.
+
+## Procuratie and the Drawing Room
+
+Three sides of the piazza are enclosed by long arcaded buildings called the procuratie, originally the residences and offices of the procurators of St. Mark. The Procuratie Vecchie on the north side date to the early sixteenth century, their two-story arcades running in a rhythm of fifty arches. Across the square, Vincenzo Scamozzi began the Procuratie Nuove in 1586, completing a grander three-story range that Baldassare Longhena later extended. Napoleon's architects connected the two wings with the Ala Napoleonica at the western end, demolishing a church to do it, creating the enclosed rectangle that gives the piazza its drawing-room quality. Beneath the arcades, Caffe Florian has served espresso since 1720, making it one of the oldest continuously operating coffee houses in the world. Across the piazza, Caffe Quadri opened in 1775. Both still employ orchestras that play to the open air on summer evenings, their competing melodies drifting across the marble pavement.
+
+## The Piazzetta and the Waterfront
+
+South of the main square, the Piazzetta extends to the waterfront of the lagoon, flanked by the Doge's Palace on one side and Sansovino's Biblioteca Marciana on the other. Two tall granite columns mark the entrance from the water -- one topped by a winged lion representing St. Mark, the other by a statue of St. Theodore standing on a crocodile. Public executions once took place between these columns, and superstitious Venetians still avoid walking between them. The Doge's Palace, with its pink-and-white diamond-pattern facade and Gothic arcades, housed the government of the Republic for seven centuries. The Bridge of Sighs connects it to the adjacent prison, its name -- coined in the nineteenth century -- evoking the laments of prisoners who crossed it. Byron popularized the image, though the bridge's small windows offer only the narrowest glimpse of the lagoon.
+
+## The Tides Arrive
+
+Piazza San Marco sits barely above sea level, making it the first part of Venice to flood during acqua alta -- the surge tides driven by sirocco winds and Adriatic storms. Water rises through the piazza's drains, which connect directly to the Grand Canal, turning the drawing room into a shallow lake. Tourists wade on raised platforms; orchestras play above the waterline. The catastrophic flood of November 1966 pushed tides to 194 centimeters, damaging the basilica's mosaics. In November 2019, waters reached 187 centimeters, the worst in half a century. The MOSE barrier system, finally activated in 2020 after decades of construction delays and corruption, now raises barriers at the lagoon's inlets to hold back the worst surges. Whether it can protect the piazza's ancient pavement from the long-term rise of the Adriatic remains the question that Venice cannot yet answer.
+
+## Flight Context
+
+Piazza San Marco (45.434N, 12.338E) is located at the southeastern edge of Venice's main island, facing the Bacino di San Marco basin. The Campanile is the tallest structure and most visible landmark from the air. Venice Marco Polo Airport (LIPZ/VCE) lies 8 km north on the mainland. The piazza's distinctive L-shape (main piazza plus piazzetta extending to the waterfront) is recognizable from altitude, as is the adjacent Doge's Palace. The Grand Canal terminates nearby at the San Marco basin. Best viewed from 2,000-5,000 feet for detail of the square's geometry against the surrounding rooftops.
+
+## Sources
+
+- [Piazza San Marco - Wikipedia](https://en.wikipedia.org/?curid=101348)
+- [St Mark's Campanile - Wikipedia](https://en.wikipedia.org/wiki/St_Mark%27s_Campanile)
+  - Campanile height 98.6 meters confirmed
+  - Collapsed July 14, 1902 killing no one except caretaker's cat
+  - Rebuilt exactly as before ('dov'era e com'era'), completed 1912
+  - 1966 flood reached 194 centimeters confirmed
+  - 2019 flood reached 187 centimeters confirmed (second worst on record)
+  - MOSE barriers first activated October 3, 2020
+  - Torre dell'Orologio displaying time since 1499 confirmed
+  - Caffe Florian serving since 1720 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 8 facts verified · 0 corrections
+
+Verified campanile height 98.6m, collapse July 14 1902, rebuilt 1912, 1966 flood 194cm, 2019 flood 187cm, MOSE activated Oct 2020, Florian serving since 1720. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

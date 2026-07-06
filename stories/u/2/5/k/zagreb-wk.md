@@ -1,0 +1,70 @@
+# Zagreb
+
+Where Croatia's capital spreads from medieval hill to Habsburg plain, where museums surprise with broken relationships and torture devices, where Central European culture meets Balkan intensity.
+
+**Location:** 45.8150, 15.9819
+
+**Categories:** croatia, habsburg, museums, earthquake, coffee, capital
+
+## Introduction
+
+Zagreb is Croatia's capital and largest city, holding 800,000 people in a metropolitan area that dominates a nation of 4 million. The city divides into upper town (Gornji Grad) and lower town (Donji Grad), the medieval settlement on Gradec hill distinct from the Habsburg-era grid that developed on the plain below. Zagreb has always been overshadowed by the coast - tourists fly through on their way to Dubrovnik and Split, spending perhaps a night in a city that deserves longer. The 2020 earthquake that damaged the historic center, the strongest to hit Zagreb in 140 years, revealed how fragile the architectural heritage was and how slowly reconstruction proceeds. Zagreb is working city rather than tourist destination, the place where Croatians live while visitors head elsewhere.
+
+## The Upper Town
+
+Gornji Grad, the upper town, holds Zagreb's medieval heritage - the Cathedral whose spires dominate the skyline, the Stone Gate with its miraculous icon, the churches and palaces that survived the 1880 earthquake that destroyed much else. The funicular that climbs from the lower town is the shortest in the world; the cable cars that replaced street-running trams offer the easier alternative. The upper town is tourist territory, its streets pedestrianized, its restaurants and cafes priced for visitors.
+
+The 2020 earthquake damaged the Cathedral severely, its south tower losing its cross, its structure requiring repairs that continue years later. The cathedral has been scaffolded and stabilized, but full restoration will take decades. The upper town's other buildings suffered varying damage; the reconstruction that Zagreb needs competes with government priorities and limited funds.
+
+## The Museum City
+
+Zagreb's museums are more interesting than the city's reputation suggests. The Museum of Broken Relationships displays objects from ended relationships, each with a story - the axe a woman used to destroy her ex's furniture, the wedding dress never worn, the keys to a home that no longer exists. The Technical Museum holds Nikola Tesla's equipment. The Museum of Torture displays implements whose existence troubles visitors.
+
+The museums represent Zagreb's creative class, the curators and artists who have built institutions from concepts that traditional museums would not pursue. The Croatian naive art collection, the contemporary art spaces in former industrial buildings, the archaeological collections that document millennia of settlement - Zagreb's museums reward visitors who give them time. The city's cultural life is genuine rather than performed for tourists, the benefit of being somewhere tourists overlook.
+
+## The Lower Town
+
+Donji Grad, the lower town, displays Habsburg urbanism at its most systematic - the green horseshoe of squares and parks that Austro-Hungarian planners created, the grand buildings that house museums and theaters, the cafes that maintain Viennese culture centuries after the empire dissolved. The main square, Ban Jelacic, anchors the system; the streets that radiate from it organize commercial life.
+
+The lower town is where Zagreb works. The offices and shops, the trams that carry commuters, the apartment buildings where residents live - these are the fabric of the city, less photogenic than the upper town but more representative of how the city functions. The cafes that fill on Saturday mornings, the parks that fill on summer evenings, the rhythm that work and weather impose - these define Zagreb for those who live here rather than visit.
+
+## The War's Shadow
+
+The Croatian War of Independence (1991-1995) touched Zagreb less directly than other Croatian cities - the frontlines were elsewhere, the siege and destruction happened in Vukovar and other eastern towns. Yet Zagreb was rocketed in 1995, seven people killed when Serbian missiles hit the city center. The war shaped Croatia's politics and identity; the memorial that marks the rocket attack reminds visitors that the conflict reached even the capital.
+
+The war's legacy persists in politics more than architecture. The nationalism that independence movements can produce, the veterans' groups that maintain political influence, the debates about what happened and who is responsible - these continue decades after fighting ended. Zagreb is capital of a nation still processing what it experienced, the wounds healing but not healed.
+
+## The Coffee Culture
+
+Zagreb's cafe culture rivals Vienna's in intensity if not history. The kafici that fill terraces and sidewalks, the hours that Zagrebians spend over single coffees, the social function that cafes serve - these represent how the city works. The morning coffee, the afternoon coffee, the coffee that serves as meeting place and workstation and refuge from small apartments - Zagreb runs on espresso consumed slowly.
+
+The culture is performative in ways that reveal social dynamics. The see-and-be-seen crowds on Tkalciceva Street, the business discussions conducted over cups, the dating rituals that cafes enable - coffee is pretext for whatever actually happens. The visitor who sits and watches learns more about Zagreb than museum visits provide. The cafe is Zagreb's public living room, the space where the city reveals itself.
+
+## Flight Context
+
+Zagreb (45.81N, 15.98E) lies on the Sava River plain in northwestern Croatia. Franjo Tudman Airport (LDZA/ZAG) is located 10km southeast of the city center with one runway 05/23 (3,252m). The Cathedral's twin spires are visible landmarks (though currently scaffolded). The upper town rises on Gradec hill. The Sava River flows along the city's southern edge. The terrain is flat plain with hills to the north. Weather is humid continental - warm summers, cold winters. Fog is common in autumn and winter. The Alps are visible to the northwest on clear days.
+
+## Sources
+
+- [Zagreb - Wikipedia](https://en.wikipedia.org/wiki/Zagreb)
+  - 800,000 metro population
+  - 2020 earthquake
+  - Museum of Broken Relationships
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 6 facts verified · 0 corrections
+
+Story overlay verified
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Where Central European culture meets Balkan intensity
+- Working city rather than tourist destination
+
+---
+
+*Word count: 1,050*
+*Read time: 5 minutes*

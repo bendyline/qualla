@@ -1,0 +1,65 @@
+# Ile aux Noix
+
+A small island in the Richelieu River that served as a military flashpoint for three empires across two centuries, from French defenses against the British to an internment camp for Jewish refugees during World War II.
+
+**Location:** 45.1231, -73.2644
+
+**Categories:** military-history, historic-site, colonial-history, island, war-of-1812, american-revolution
+
+## Introduction
+
+More than 900 American soldiers lie buried in two mass graves on an island barely large enough for a fort. They died not from enemy fire but from smallpox, huddled on Ile aux Noix during the Continental Army's desperate retreat from Canada in the summer of 1776. That grim chapter is just one layer in a history that spans the French empire, the American Revolution, the War of 1812, and a World War II internment camp -- all compressed onto a sliver of land in the Richelieu River, a few kilometers from where Quebec meets the United States.
+
+## France's Last Stand on the Richelieu
+
+The French built the first fort on Ile aux Noix in 1759, during the final agonizing years of New France. The colony's strategists understood what geography made obvious: the Richelieu River was the highway between Lake Champlain and Montreal, and whoever blocked this waterway controlled access to the heart of French Canada. But France was hemorrhaging resources on the European continent, and the soldiers posted to Ile aux Noix knew they were fighting a rearguard action. In August 1760, Colonel Bougainville commanded the defense when William Haviland's British forces laid siege to the island. After twelve days, Bougainville recognized the position was hopeless. On the night of August 27, he ordered his troops to slip away silently in the darkness toward Montreal. The next morning, roughly forty French soldiers who had stayed behind surrendered. Within weeks, the last French governor-general surrendered all of Canada to the British. General Amherst ordered the French fortifications razed, their materials salvaged for reuse at Crown Point.
+
+## The Island of the Dead
+
+When American forces seized Ile aux Noix in 1775, generals Philip Schuyler and Richard Montgomery used it as a staging base for their invasion of Montreal and Quebec. The island served its strategic purpose well -- it was the perfect launching point for the campaign that would take Montgomery all the way to the walls of Quebec City. But the retreat was catastrophic. After their defeat at Quebec and the abandonment of Montreal in 1776, the broken Continental Army regrouped on Ile aux Noix. For ten days, soldiers ravaged by smallpox crowded the small island. Disease killed more than 900 men, and they were buried where they fell, in two mass graves that remain on the island to this day. The British reclaimed the site and built a new fort in 1778, constructing blockhouses in 1779 to resist any further American incursion. Between 1779 and 1782, a much more substantial fortification took shape -- one that would prove its worth in the next conflict.
+
+## Warships in a River
+
+The War of 1812 transformed Ile aux Noix from a frontier outpost into a naval base. The race for supremacy on Lake Champlain re-established the island's military importance, and it became the main support point for the British navy along this stretch of the border. The Royal Navy operated a shipyard on the island from 1812 to 1834, and it was here that HMS Confiance was built -- a 36-gun fifth-rate frigate that became the largest vessel ever constructed at Ile aux Noix. The idea of a full-rigged warship being assembled on a small river island, then launched to patrol a lake, captures the peculiar intensity of the War of 1812 in this region. After the war, engineers and naval officers debated whether to fortify Ile aux Noix or nearby Saint-Jean-sur-Richelieu. The naval officers won the argument, pointing to the island's proven advantages for waterborne defense. The construction of American Fort Montgomery just across the border settled the question, and the present Fort Lennox rose between 1819 and 1829.
+
+## Refugees Behind Barbed Wire
+
+The darkest chapter in the island's history came in 1940, when Ile aux Noix became an internment camp for European Jewish refugees who had been forcibly deported from Britain. Known first as Camp I and later as Camp No. 41, the camp held men who had fled Nazi persecution only to find themselves classified as enemy aliens by the Canadian authorities. The bitter irony was total: people who had escaped one form of imprisonment found themselves behind barbed wire on an island in a Quebec river. Only after a full year did the Canadian government begin treating the internees as refugees rather than enemies, but even then many were not free to leave until 1944. The episode remains one of the more troubling footnotes in both British and Canadian wartime policy, a reminder that fear and bureaucratic inertia can turn sanctuary into confinement.
+
+## Three Centuries in One Place
+
+Ile aux Noix ceased to be a military post in 1870, and today Fort Lennox National Historic Site draws visitors who arrive by ferry to walk the star-shaped ramparts and stone barracks. The island sits in the municipality of Saint-Paul-de-l'Ile-aux-Noix, surrounded by the quiet farmland of the Monteregie. But beneath the calm surface, the layers of history run deep. French earthworks, American mass graves, British naval infrastructure, and a World War II internment camp all share this compact piece of land. Few places in North America have been so consistently contested or have witnessed such a range of human experience -- from colonial ambition to revolutionary fervor, from imperial rivalry to wartime injustice -- all concentrated on an island you can walk across in minutes.
+
+## Flight Context
+
+Located at 45.12N, 73.26W in the Richelieu River, just north of the Canada-US border. The island and Fort Lennox's star-shaped fortifications are clearly visible from low altitude. The Richelieu runs north-south connecting Lake Champlain to the St. Lawrence River. Nearby airports include Montreal-Saint-Hubert (CYHU) approximately 45 km northwest and Plattsburgh International (KPBG) roughly 40 km south across the border. Best viewed at 2,000-3,000 feet AGL. The island is small -- roughly the size of the fort itself -- making it easy to identify from above.
+
+## Sources
+
+- [Île aux Noix - Wikipedia](https://en.wikipedia.org/?curid=4255407)
+  - French built first fort on Ile aux Noix in 1759
+  - Colonel Bougainville commanded defense; British under Haviland laid siege in August 1760
+  - Evacuation night of August 27; roughly forty French soldiers surrendered the next day
+  - American generals Philip Schuyler and Richard Montgomery used island as staging base 1775
+  - More than 900 American soldiers died from smallpox in 1776 retreat, buried in two mass graves
+  - British built new fort in 1778, blockhouses in 1779
+  - Royal Navy shipyard operated on island from 1812 to 1834
+  - HMS Confiance was a 36-gun fifth-rate frigate, largest vessel ever built at Ile aux Noix
+  - Present Fort Lennox built between 1819 and 1829
+  - Fort Lennox ceased as military post in 1870
+- [Parks Canada - Fort Lennox National Historic Site - War of 1812 and the Naval Shipyard](https://parks.canada.ca/lhn-nhs/qc/lennox/culture/site/1812)
+  - HMS Confiance built at Ile aux Noix Naval Shipyard, launched August 25 1814
+  - Ile aux Noix became main support point for British navy on this stretch of the border during War of 1812
+
+## Review Notes
+
+**Reviewed:** 2026-02-27 · 10 facts verified · 0 corrections
+
+All key facts verified: French fort 1759, Bougainville evacuation August 27 1760, ~40 French soldiers surrendered, American generals Schuyler and Montgomery 1775, 900+ soldiers died of smallpox in 1776 in two mass graves, British fort 1778-1779, Royal Navy shipyard 1812-1834, HMS Confiance 36-gun fifth-rate frigate largest vessel built at Ile aux Noix, Fort Lennox 1819-1829. No factual errors found.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 815*
+*Read time: 4 minutes*

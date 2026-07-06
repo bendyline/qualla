@@ -708,5 +708,24 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sr4p-sorrento-flight-context.mp3",
+      "sr4p-sorrento-intro.mp3",
+      "sr4p-sorrento-the-cliff-top-crossroads.mp3",
+      "sr4p-sorrento-piazza-tasso-after-dark.mp3",
+      "sr4p-sorrento-two-marinas-and-a-hidden-cove.mp3",
+      "sr4p-sorrento-the-scooter-and-the-narrow-road.mp3"
+    ],
+    "durations": {
+      "sr4p-sorrento-flight-context.mp3": 56.1694166,
+      "sr4p-sorrento-intro.mp3": 44.284125,
+      "sr4p-sorrento-the-cliff-top-crossroads.mp3": 59.813,
+      "sr4p-sorrento-piazza-tasso-after-dark.mp3": 58.545625,
+      "sr4p-sorrento-two-marinas-and-a-hidden-cove.mp3": 66.3710416,
+      "sr4p-sorrento-the-scooter-and-the-narrow-road.mp3": 65.24325
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -121,5 +121,24 @@
   "galleryPaths": [
     "_m/k/q/b/v/padrao-wp/namibia-cape-cross-pad.jpg",
     "_m/k/q/b/v/padrao-wp/cross-vasco-da-gama-pi.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kqbv-padrao-flight-context.mp3",
+      "kqbv-padrao-intro.mp3",
+      "kqbv-padrao-stone-flags-on-foreign-shores.mp3",
+      "kqbv-padrao-from-the-congo-to-calicut.mp3",
+      "kqbv-padrao-found-in-pieces.mp3",
+      "kqbv-padrao-sovereignty-in-stone.mp3"
+    ],
+    "durations": {
+      "kqbv-padrao-flight-context.mp3": 45.8740416,
+      "kqbv-padrao-intro.mp3": 48.2921666,
+      "kqbv-padrao-stone-flags-on-foreign-shores.mp3": 69.340875,
+      "kqbv-padrao-from-the-congo-to-calicut.mp3": 72.2434166,
+      "kqbv-padrao-found-in-pieces.mp3": 62.3407083,
+      "kqbv-padrao-sovereignty-in-stone.mp3": 64.4322083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

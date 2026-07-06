@@ -822,5 +822,24 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kr4z-brazzaville-flight-context.mp3",
+      "kr4z-brazzaville-intro.mp3",
+      "kr4z-brazzaville-a-city-named-for-an-explorer.mp3",
+      "kr4z-brazzaville-between-two-wars.mp3",
+      "kr4z-brazzaville-the-neighborhoods-that-tell-the-story.mp3",
+      "kr4z-brazzaville-expensive-resilient-alive.mp3"
+    ],
+    "durations": {
+      "kr4z-brazzaville-flight-context.mp3": 44.6055,
+      "kr4z-brazzaville-intro.mp3": 51.9229583,
+      "kr4z-brazzaville-a-city-named-for-an-explorer.mp3": 66.8146666,
+      "kr4z-brazzaville-between-two-wars.mp3": 62.4574583,
+      "kr4z-brazzaville-the-neighborhoods-that-tell-the-story.mp3": 60.1067083,
+      "kr4z-brazzaville-expensive-resilient-alive.mp3": 76.19275
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

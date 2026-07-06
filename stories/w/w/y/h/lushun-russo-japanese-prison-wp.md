@@ -1,0 +1,55 @@
+# Lushun Russo-Japanese Prison
+
+Built by Russia in 1902 and expanded by Japan in 1907, this prison held over 20,000 detainees including Korean independence hero An Jung-geun, and stands today as a national memorial to colonial-era suffering.
+
+**Location:** 38.8240, 121.2612
+
+**Categories:** Defunct prisons in China, Prison museums in China, History of Dalian, Korean independence movement, 1902 establishments in China
+
+## Introduction
+
+Cell number 14 is the one visitors seek out. It is small, dark, and unremarkable in every physical respect -- except that An Jung-geun, the Korean independence activist who assassinated Japan's first Resident-General of Korea, spent his final months here before his execution in 1910. His cell sits within a larger complex that Russia built, Japan expanded, and China eventually transformed into a memorial. The Lushun Russo-Japanese Prison is one of the few places in the world where two colonial powers left their architectural fingerprints on the same instrument of incarceration.
+
+## Built by One Empire, Expanded by Another
+
+The Russian Empire constructed the prison in 1902, three years after leasing the Liaodong Peninsula from a weakened Qing government. The original facility was designed for a modest number of inmates, consistent with the garrison town that Port Arthur was at the time. When Japan took control of Lushunkou after the Russo-Japanese War, the prison took on new purpose and new scale. In 1907, Japan expanded the facility significantly, adding cell blocks, workshops, and an execution chamber. By 1939, the growing complex was simply called the Lushun Prison. The architecture tells the story of succession: Russian-era brick walls abut Japanese additions in a different construction style, two imperial aesthetics joined at the mortar line.
+
+## Twenty Thousand Lives Behind Walls
+
+Between 1906 and 1936, more than 20,000 people were detained in the Lushun Prison. The inmates were overwhelmingly activists -- independence fighters from Manchuria and Korea who resisted Japanese colonial rule, along with anti-war dissidents from the Soviet Union, Egypt, and even Japan itself. The most famous prisoner was An Jung-geun, who assassinated Ito Hirobumi at Harbin railway station in October 1909 and was executed at Lushun the following March. Other notable detainees included Lee Hoe-yeong and Sin Chaeho, both prominent figures in the Korean independence movement. Between 1942 and August 1945, approximately 700 prisoners were executed. The prison housed torture chambers, solitary confinement blocks, and an execution room -- all of which are preserved in the current museum. Each cell originally held up to ten prisoners, watched from guard towers positioned to surveil multiple cell blocks simultaneously.
+
+## From Incarceration to Remembrance
+
+When Soviet troops entered Lushunkou in August 1945, the prison was shut down. For over two decades it sat empty, until July 1971 when the facility was reopened as the Former Japanese Lushun Prison memorial. In 1988, the site was designated as one of China's Major Historical and Cultural Sites Protected at the National Level, a recognition that placed it among the country's most important heritage properties. It now operates as the Former Lushun Russo-Japanese Prison Museum, drawing visitors from China, Korea, and Japan alike. The museum preserves the original cell blocks, workshops, torture rooms, and burial grounds. Exhibition buildings -- converted from prison warehouses -- house artifacts including Nogi Maresuke's poem stele from the Battle of Nanshan. For Korean visitors especially, the prison holds deep national significance: it was here that some of their country's most revered independence fighters were imprisoned and killed. The prison stands as testimony that colonial rule was sustained not only by armies and navies but by the quieter machinery of detention, punishment, and execution.
+
+## Flight Context
+
+Located at 38.82N, 121.26E in central Lushunkou District, Dalian. The prison complex is identifiable from altitude as a cluster of low buildings with distinctive courtyard layouts. Dalian Zhoushuizi International Airport (ZYTL) is approximately 36 km northeast. The prison sits near the Lushun Naval Port. Best observed at 2,000-3,000 ft.
+
+## Sources
+
+- [An Jung-geun - Wikipedia](https://en.wikipedia.org/wiki/An_Jung-geun)
+  - An Jung-geun assassinated Ito Hirobumi at Harbin railway station October 1909
+  - Ito Hirobumi was Japan's first Resident-General of Korea
+  - An executed at Lushun prison March 26, 1910
+  - Lee Hoe-yeong and Sin Chaeho also held at Lushun prison
+- [Lüshun Russo-Japanese Prison - Wikipedia](https://en.wikipedia.org/?curid=73616168)
+  - Russian Empire built prison 1902
+  - Japan expanded 1907
+  - more than 20,000 detained between 1906 and 1936
+  - approximately 700 executed between 1942 and August 1945
+  - reopened as memorial July 1971
+  - designated Major Historical and Cultural Site 1988
+
+## Review Notes
+
+**Reviewed:** 2026-03-19 · 7 facts verified · 0 corrections
+
+Verified Russian Empire built prison 1902, Japan expanded 1907, over 20,000 detained 1906-1936, An Jung-geun assassinated Ito Hirobumi at Harbin Oct 1909, executed at Lushun prison March 26 1910, reopened as memorial July 1971, designated national heritage 1988. All facts confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 640*
+*Read time: 4 minutes*

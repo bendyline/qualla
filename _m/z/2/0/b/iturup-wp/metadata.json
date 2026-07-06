@@ -683,5 +683,26 @@
     "_m/z/2/0/b/iturup-wp/iturup-ocean-coast.jpg",
     "_m/z/2/0/b/iturup-wp/iturup-kasatka-bay.jpg"
   ],
-  "updatedAt": "2026-04-01T19:36:15.733Z"
+  "updatedAt": "2026-04-01T19:36:15.733Z",
+  "narration": {
+    "files": [
+      "z20b-iturup-flight-context.mp3",
+      "z20b-iturup-intro.mp3",
+      "z20b-iturup-fire-beneath-the-fog.mp3",
+      "z20b-iturup-empires-passing-through.mp3",
+      "z20b-iturup-the-dispossession.mp3",
+      "z20b-iturup-a-modern-outpost.mp3",
+      "z20b-iturup-between-two-claims.mp3"
+    ],
+    "durations": {
+      "z20b-iturup-flight-context.mp3": 57.998125,
+      "z20b-iturup-intro.mp3": 35.73725,
+      "z20b-iturup-fire-beneath-the-fog.mp3": 66.3120416,
+      "z20b-iturup-empires-passing-through.mp3": 59.9449583,
+      "z20b-iturup-the-dispossession.mp3": 58.506125,
+      "z20b-iturup-a-modern-outpost.mp3": 58.9176666,
+      "z20b-iturup-between-two-claims.mp3": 45.6166666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

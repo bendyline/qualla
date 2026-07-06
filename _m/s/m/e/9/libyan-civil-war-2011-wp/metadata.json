@@ -916,5 +916,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sme9-libyan-civil-war-2011-flight-context.mp3",
+      "sme9-libyan-civil-war-2011-intro.mp3",
+      "sme9-libyan-civil-war-2011-the-green-books-last-chapter.mp3",
+      "sme9-libyan-civil-war-2011-from-housing-protests-to-revolution.mp3",
+      "sme9-libyan-civil-war-2011-the-world-intervenes.mp3",
+      "sme9-libyan-civil-war-2011-the-fall-of-a-capital.mp3",
+      "sme9-libyan-civil-war-2011-liberation-without-peace.mp3"
+    ],
+    "durations": {
+      "sme9-libyan-civil-war-2011-flight-context.mp3": 45.8685416,
+      "sme9-libyan-civil-war-2011-intro.mp3": 42.4545,
+      "sme9-libyan-civil-war-2011-the-green-books-last-chapter.mp3": 62.1260833,
+      "sme9-libyan-civil-war-2011-from-housing-protests-to-revolution.mp3": 76.8500416,
+      "sme9-libyan-civil-war-2011-the-world-intervenes.mp3": 63.1571666,
+      "sme9-libyan-civil-war-2011-the-fall-of-a-capital.mp3": 58.2840833,
+      "sme9-libyan-civil-war-2011-liberation-without-peace.mp3": 63.5758333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

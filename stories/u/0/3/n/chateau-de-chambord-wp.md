@@ -1,0 +1,54 @@
+# Chateau de Chambord
+
+A Renaissance colossus in the Loire Valley with 440 rooms and a double-spiral staircase possibly designed by Leonardo da Vinci, Chambord was built for a king who barely lived in it.
+
+**Location:** 47.6161, 1.5172
+
+**Categories:** architecture, renaissance, loire-valley, chateau, french-history, world-heritage
+
+## Introduction
+
+Henry James looked up at the roofline and saw a city. Towers, cupolas, gables, lanterns, chimneys -- he counted eleven different kinds of towers and three types of chimneys, none of them symmetrical, all of them jostling for attention against the Loire Valley sky. The Chateau de Chambord does that to visitors. It overwhelms, then confuses, then overwhelms again. With 440 rooms, 282 fireplaces, and 84 staircases crammed into a building that no king ever truly called home, Chambord is less a residence than a statement -- a Renaissance shout across the marshlands of the Sologne, declaring that France could match anything Italy had built and then some.
+
+## The Staircase That Leonardo May Have Dreamed
+
+At the center of the keep, two spiral staircases intertwine without ever meeting. Climb one helix and you can watch someone descend the other, always visible, never touching. The design has no equivalent in architecture of its period, and many scholars now attribute it to Leonardo da Vinci, who was living as a guest of King Francis I at nearby Clos Luce when plans for Chambord were being drawn. Leonardo's notebooks are full of double-helix designs, hydraulic turbines, and centralized building plans -- all of which echo in Chambord's layout. The Italian architect Domenico da Cortona built a wooden model for the original staircase, but what was constructed departed from his plans, replacing parallel flights with the interlocking spirals that became the chateau's most famous feature. Whether Leonardo sketched it on a napkin or labored over formal drawings, the staircase remains one of the great architectural puzzles of the Renaissance.
+
+## A Palace for Passing Through
+
+Construction began on September 6, 1519, but Chambord was never really finished and never truly occupied. The Italian Wars drained royal funds. By 1524, the walls were barely above ground level. Francis I visited roughly 72 times over his reign -- impressive until you realize each visit lasted only a few days, the king arriving with his entire court, its furniture, tapestries, and provisions loaded onto wagons because the chateau had none of its own. The open loggias and vast rooftop terrace, borrowed from Italian architecture, made little sense in the damp cold of the Loire Valley. Louis XIV came, staged Moliere's first performance of Le Bourgeois Gentilhomme here in 1670, then abandoned the place by 1685. A deposed Polish king lived here for eight years. Marshal Maurice de Saxe installed his regiment in the hallways before dying in 1750. Then silence descended again, the enormous chateau sitting empty in its 5,440-hectare walled park.
+
+## Revolution, Ruin, and the Mona Lisa
+
+The French Revolution stripped Chambord to the bone. The government ordered the furnishings sold. Workers ripped out wall paneling and pulled up floors for the value of their timber. According to one account, the paneled doors were burned simply to keep the rooms warm during the sales. Napoleon gave the empty shell to one of his marshals. Longfellow visited in the 1830s and found grass growing through the courtyard pavement, the sculpture broken and defaced. During the Franco-Prussian War, it served as a field hospital. Ownership bounced between the Dukes of Parma, the French state, and various claimants until well after World War II. But Chambord had one last act of service. In 1939, curators packed the Louvre's art collections -- including the Mona Lisa -- into crates and shipped them to this remote chateau for safekeeping. An American B-24 Liberator crashed onto the lawn in 1944, but neither bombs nor neglect could destroy the building itself.
+
+## The Chateau That Built a Continent's Architecture
+
+Chambord's influence radiates far beyond the Loire. When the architects of Schwerin Palace in Germany sought a model between 1845 and 1857, they looked to Chambord. The Founder's Building at Royal Holloway in London borrowed its silhouette. Fettes College in Edinburgh, designed by David Bryce in 1870, echoed its massing. Waddesdon Manor in Buckinghamshire, built for the Rothschilds between 1874 and 1889, replicated its twin staircase towers -- though the Rothschilds, characteristically, glazed the windows that Chambord had left open to the elements. Today some 700,000 visitors a year walk through the chateau, making it one of France's most visited monuments. Floods breached the 31-kilometer perimeter wall in 2016 and tore away metal gates, but the chateau itself stood untouched, rising from the waters exactly as Francis I had once imagined it -- a castle that appears to float above the Loire.
+
+## Flight Context
+
+Located at 47.616N, 1.517E in the Loire Valley, roughly 170 km south-southwest of Paris. The chateau and its 5,440-hectare walled park are unmistakable from the air -- look for the massive white limestone structure surrounded by forest and a distinctive 31 km perimeter wall. Best viewed from 2,000-3,000 feet AGL. Nearest airports include Tours Val de Loire (LFOT) approximately 70 km southwest, and Blois-Le Breuil (LFOQ) approximately 15 km west. The Loire River is a reliable visual navigation reference running roughly east-west through the region.
+
+## Sources
+
+- [Château de Chambord - Wikipedia](https://en.wikipedia.org/?curid=88848)
+  - 440 rooms, 282 fireplaces, 84 staircases confirmed
+  - Construction begun September 6 1519 confirmed
+  - Leonardo da Vinci staircase attribution debated but widely credited confirmed
+  - Molière's Le Bourgeois Gentilhomme performed 1670 confirmed
+  - 5,440-hectare walled park confirmed
+  - Louvre art including Mona Lisa stored here 1939 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 6 facts verified · 0 corrections
+
+All facts verified: 440 rooms/282 fireplaces/84 staircases, construction Sept 6 1519, Leonardo attribution debated, Moliere 1670, 5440-hectare park, Mona Lisa stored 1939.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

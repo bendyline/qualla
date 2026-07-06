@@ -1,0 +1,57 @@
+# Sak Tz'i': The Kingdom Found in a Farmer's Backyard
+
+For decades, scholars knew the ancient Maya kingdom of Sak Tz'i' - 'White Dog' - only from inscriptions at rival cities that described capturing its lords. In 2020, researchers finally identified its capital at a site called Plan de Ayutla, in the backyard of a Mexican rancher in Chiapas.
+
+**Location:** 16.7850, -91.2799
+
+**Categories:** archaeology, maya-civilization, chiapas, ancient-kingdoms, discovery
+
+## Introduction
+
+For years, the Maya kingdom of Sak Tz'i' existed only as a name carved into other people's monuments. Rival cities like Piedras Negras and Bonampak recorded capturing its lords, attacking its territories, installing its rulers. Scholars could read the name - it means "White Dog" in ancient Maya - but they could not find the place itself. Then, in 2020, researchers led by anthropologist Charles Golden and bioarchaeologist Andrew Scherer announced they had identified the kingdom's capital at a site called Plan de Ayutla, in the municipality of Ocosingo, Chiapas. The ruins had been hiding in plain sight, partly in the backyard of a Mexican rancher. The Lacandon Maya had known about them for far longer than that.
+
+## A Ghost in the Inscriptions
+
+The history of Sak Tz'i' reads like a chronicle of survival under pressure. A stela from Piedras Negras records the capture of Lord K'ab' Chan Te' of Sak Tz'i' in 628 CE. What happened next is debated. One hypothesis holds that K'ab' Chan Te' survived as a vassal of Piedras Negras and aided his new overlord against Bonampak and La Mar in 641. Another theory suggests he retaliated against his captors, defeating Bonampak and La Mar in the process. The confusion deepens because K'ab' Chan Te' was a recurring name among Sak Tz'i' rulers - the lord mentioned in 641 may be an entirely different person. What is clear is that by the seventh century, Sak Tz'i' controlled a polity stretching from La Mar to Bonampak, punching well above its weight in the tangled politics of the Upper Usumacinta. By 787, the tables had turned again: Bonampak, with assistance from Yaxchilan, rebelled and captured two of Sak Tz'i's lords. Those events became the subject of Bonampak's famous murals.
+
+## The Oldest Urban Heart of the Usumacinta
+
+Plan de Ayutla sits in the mountainous Sierra de Jalapa, a rugged section of the Lacandon Jungle about 35 kilometers northwest of Bonampak. The first architectural evidence at the site dates to around 150 BCE, but urban settlement appears sometime after 50 BCE - making it the earliest known urban center in the Upper Usumacinta region. Structures from this early period, discovered beneath later buildings of the North Acropolis in 2011, feature rounded corners characteristic of early Maya architecture. Most were eventually torn down, their upper walls used as fill to level the ground for newer construction - a common Maya building practice that literally buries the past beneath the present. The site grew across three acropolises built on adapted natural hills. The North Acropolis alone rises 45 meters and supports at least 19 structures, including elite dwellings, temples, and meeting spaces. Its terraced northern face closely resembles the Grand Acropolis of Piedras Negras, hinting at the political ties between the two cities.
+
+## A Theater for the Few
+
+In 2012, archaeologists discovered something unprecedented at Plan de Ayutla: an ancient theater. A patio that had been surrounded by buildings dating from 250 to 500 CE was modified during the Terminal Classic period, around 800 to 900 CE, to accommodate three wide bleachers. The external wall of an adjacent structure was demolished to create a stage. The space could seat 120 people at most - this was elite entertainment, not public spectacle. Archaeologists believe the theater may have been built to legitimize a new dynasty that came to power around 850 CE, in the turbulent final century of Classic Maya civilization. At the same structure, excavators found a bath complete with a drainage system, one of only four pre-Hispanic baths discovered in Mexico, the others being at Palenque, Tonina, and Teotihuacan. In an adjoining room, ceramics used to hold water for the bath were still in place. These discoveries hint at a sophisticated court culture that persisted even as the broader Maya world was fragmenting.
+
+## Rediscovery in Layers
+
+Archaeologist Peter Schmidt first documented Plan de Ayutla in 1975 after being guided to the site by Lacandon people who had long known of its existence. Then the jungle closed over it again for nearly two decades. Alejandro Tovalin of the Bonampak project revisited in 1994, but reported only on the North Acropolis, not realizing it was one of three major complexes. In 2001, the local community began clearing jungle from the ruins, hoping to attract tourists, and requested a formal archaeological visit. Excavations started in 2003 under Luis Alberto Martos Lopez, and by 2004, the full scope of the site emerged. Restoration work focusing on the North Acropolis and the ballcourt began in 2008. Meanwhile, cooking utensils found in Structure 4 date to 900-1000 CE, well after the Classic collapse. Two burials from that same period were discovered in a modified staircase nearby, one of them a woman interred with female clay figurines and cooking implements. The site was not abandoned all at once. People lingered, adapted, carried on.
+
+## Flight Context
+
+Located at 16.79N, 91.28W in the Sierra de Jalapa region of the Lacandon Jungle, Chiapas, Mexico. The site is approximately 35 km northwest of Bonampak and near the Guatemalan border. From the air, the three acropolises are built on natural hills rising above the surrounding jungle canopy. Nearest airport: Palenque International Airport (MMPQ/PQM), approximately 140 km to the northwest. The surrounding Lacandon Jungle and mountainous terrain dominate the view. Best viewed at 3,000-5,000 feet to distinguish the hill formations from surrounding jungle.
+
+## Sources
+
+- [Sak Tz'i' (Maya site) - Wikipedia](https://en.wikipedia.org/wiki/Sak_tz%CA%BCi_(Maya_site))
+  - Kingdom name means 'White Dog' confirmed
+  - Researchers Charles Golden (anthropologist) and Andrew Scherer (bioarchaeologist) confirmed
+  - Announcement in 2020 confirmed (field research was 2018, publication 2020)
+  - Site at Plan de Ayutla, municipality of Ocosingo, Chiapas confirmed
+  - Stela from Piedras Negras records capture of Lord K'ab' Chan Te' of Sak Tz'i' in 628 CE confirmed
+  - Ancient theater seating ~120 people discovered confirmed
+  - Peter Schmidt first documented Plan de Ayutla in 1975 confirmed
+  - Pre-Hispanic bath found, one of only four in Mexico confirmed
+  - North Acropolis rises 45 meters with 19+ structures confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 9 facts verified · 0 corrections
+
+Verified 2020 announcement, researchers Golden and Scherer, Plan de Ayutla location, theater seating ~120, bath (one of four pre-Hispanic baths in Mexico), North Acropolis 45m height. All facts check out. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 810*
+*Read time: 4 minutes*

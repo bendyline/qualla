@@ -731,5 +731,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "srg3-krka-national-park-flight-context.mp3",
+      "srg3-krka-national-park-intro.mp3",
+      "srg3-krka-national-park-stone-that-breathes.mp3",
+      "srg3-krka-national-park-a-rivers-menagerie.mp3",
+      "srg3-krka-national-park-islands-in-the-current.mp3",
+      "srg3-krka-national-park-from-roman-amphitheaters-to-hydroelectric-ambition.mp3",
+      "srg3-krka-national-park-the-view-from-above.mp3"
+    ],
+    "durations": {
+      "srg3-krka-national-park-flight-context.mp3": 45.1154583,
+      "srg3-krka-national-park-intro.mp3": 44.804,
+      "srg3-krka-national-park-stone-that-breathes.mp3": 73.2400416,
+      "srg3-krka-national-park-a-rivers-menagerie.mp3": 72.545875,
+      "srg3-krka-national-park-islands-in-the-current.mp3": 71.805,
+      "srg3-krka-national-park-from-roman-amphitheaters-to-hydroelectric-ambition.mp3": 69.9555833,
+      "srg3-krka-national-park-the-view-from-above.mp3": 50.58125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

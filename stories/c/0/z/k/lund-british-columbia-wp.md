@@ -1,0 +1,57 @@
+# Lund, British Columbia
+
+Where Highway 101 ends and the water begins, a tiny harbour village founded by Swedish brothers in 1889 serves as the last outpost before Desolation Sound and the islands beyond.
+
+**Location:** 49.9667, -124.7667
+
+**Categories:** villages, harbours, coastal, history
+
+## Introduction
+
+Highway 101, the longest north-south highway route on the continent, runs from southern Mexico through the United States and up the British Columbia coast. It ends here, at a small craft harbour where fishing boats rock against a government wharf and water taxis idle before their afternoon run to Savary Island. Lund is the kind of place that exists because the road ran out of land. Two Swedish brothers, Frederick and Charles Thulin, arrived at this harbour in December 1889 and named it after Lund, Sweden, because the word was short, Swedish, and pronounceable by anyone. What they found when they arrived was not an empty harbour but a Tla'amin village called Klah ah men.
+
+## The Thulin Brothers' Harbour
+
+Frederick and Charles Thulin came from Tryserum, near Valdemarsvik in southeastern Sweden. They built a store first, then added a post office in 1892, and two years later opened the first licensed hotel north of Vancouver. Logging and fishing drove the economy. Transportation was entirely by water in those early decades, and the Thulins built a second hotel, the Malaspina, to accommodate the traffic that coastal steamship lines brought to the harbour. When the original hotel burned in a forest fire in 1918, the Malaspina was renamed the Lund Hotel. It continues to operate today, the village's most recognizable landmark. A paved road south to Vancouver was not completed until 1954, the same year a storm damaged the Thulins' original wharf. Coastal steamer service ended two years later. The road replaced the sea as the primary connection to the outside world, though Lund's identity as a harbour village, oriented toward the water rather than the highway behind it, never changed.
+
+## End of the Road, Start of the Water
+
+Lund sits at the northern terminus of Highway 101, locally known as the Sunshine Coast Highway. Powell River is twenty-two kilometers south by road, and from there BC Ferries crosses the Strait of Georgia to Comox on Vancouver Island. Pacific Coastal Airlines offers half-hour flights from Powell River to Vancouver. But Lund's real importance is as a gateway to water. The harbour provides marine access to the Copeland Islands, a chain of small forested islets that mark the entrance to Desolation Sound, British Columbia's most celebrated marine cruising ground. Water taxis depart regularly for Savary Island, and chartered floatplanes touch down in the harbour for those heading to more remote destinations. In summer, Lund's docks are crowded with kayaks lashed to car roofs, sailboats topping up fuel tanks, and water taxi passengers laden with coolers and camping gear. Everything beyond Lund requires a boat or a plane.
+
+## A Village That Publishes Itself
+
+Lund's permanent population is small enough that a quarterly volunteer-run magazine, The Lund Barnacle, has covered the community's events and stories since its founding in 1988. The magazine is available at local shops and online, a testament to the particular kind of community that forms in places where everyone knows the ferry schedule and the general store closes when the owner feels like it. Lund is an unincorporated community governed by the qathet Regional District. There is no mayor, no town council in the conventional sense. The Northside Volunteer Fire Department provides emergency services. A preschool called Puddle Jumpers operates twice a week out of the community recreation centre, serving about thirteen children. Art galleries and studios, including the Tidal Art Centre and Rare Earth Pottery, line the harbour area, reflecting the creative population that remote coastal BC villages tend to attract.
+
+## Tla'amin Land
+
+Before the Thulins named this harbour after a Swedish city, it was a Tla'amin village. The Tla'amin Nation's traditional territory encompasses the area around Lund and extends across the northern Strait of Georgia, including Savary Island, the Copeland Islands, and parts of Desolation Sound. The name Lund sits atop a much older geography, one defined by salmon runs, shellfish beaches, and cedar forests rather than highways and harbours. The Tla'amin presence here predates European contact by thousands of years, and their modern community of Teeshohsum is nearby. Today, Lund exists on Tla'amin land in a way that most visitors registering the end-of-the-road charm of the village may not immediately recognize. The harbour that Frederick Thulin found so promising in 1889 was promising for exactly the reasons the Tla'amin had known for millennia: sheltered water, abundant marine life, and proximity to the richest cruising waters on the coast.
+
+## Flight Context
+
+Lund is located at 49.97N, 124.77W at the northern tip of the Sunshine Coast Highway on the BC mainland. From the air, the harbour is visible as a small cluster of buildings and docks at the end of a road that terminates at the waterline. The Copeland Islands are visible just offshore to the northwest, with Savary Island beyond. Desolation Sound opens to the north. Best viewed at 2,000-3,000 feet AGL. Nearest airport is Powell River (CYPW), approximately 22 km south by road.
+
+## Sources
+
+- [Lund, British Columbia - Wikipedia](https://en.wikipedia.org/?curid=7249066)
+  - Frederick and Charles Thulin arrived in December 1889 from Tryserum near Valdemarsvik, Sweden
+  - Post office established 1892
+  - First licensed hotel north of Vancouver built in 1894
+  - Malaspina Hotel built second, renamed Lund Hotel after original burned in 1918
+  - Paved road south completed in 1954
+  - Lund is northern terminus of Highway 101
+- [About Lund - Savary Island Ferry](https://savaryislandferry.com/about-lund)
+  - Water taxis depart for Savary Island from Lund harbour
+  - Lund serves as gateway to Copeland Islands and Desolation Sound
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 6 facts verified · 0 corrections
+
+Verified Thulin brothers history, post office 1892, hotel 1894, fire 1918, road 1954, Highway 101 terminus. No corrections needed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

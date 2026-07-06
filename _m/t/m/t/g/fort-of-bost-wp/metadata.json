@@ -102,5 +102,24 @@
   "galleryPaths": [
     "_m/t/q/h/5/herat-citadel-wp/qala-ikhtyaruddin-cita.jpg",
     "_m/t/m/t/g/fort-of-bost-wp/fortress-arch-qala-e-b.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "tmtg-fort-of-bost-flight-context.mp3",
+      "tmtg-fort-of-bost-intro.mp3",
+      "tmtg-fort-of-bost-where-two-rivers-meet.mp3",
+      "tmtg-fort-of-bost-the-arch-that-outlasted-everything.mp3",
+      "tmtg-fort-of-bost-from-micheners-pages-to-modern-ruin.mp3",
+      "tmtg-fort-of-bost-shelter-among-the-ruins.mp3"
+    ],
+    "durations": {
+      "tmtg-fort-of-bost-flight-context.mp3": 50.4912916,
+      "tmtg-fort-of-bost-intro.mp3": 52.155,
+      "tmtg-fort-of-bost-where-two-rivers-meet.mp3": 53.6388333,
+      "tmtg-fort-of-bost-the-arch-that-outlasted-everything.mp3": 58.9624166,
+      "tmtg-fort-of-bost-from-micheners-pages-to-modern-ruin.mp3": 57.88425,
+      "tmtg-fort-of-bost-shelter-among-the-ruins.mp3": 64.218625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

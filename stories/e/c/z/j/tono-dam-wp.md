@@ -1,0 +1,57 @@
+# Tono Dam
+
+One of West Africa's largest irrigation dams transformed subsistence farming in Ghana's Upper East Region, feeding seven communities year-round while creating an unexpected lake habitat -- and an unwelcome parasite.
+
+**Location:** 10.8821, -1.1654
+
+**Categories:** infrastructure, agriculture, west-africa
+
+## Introduction
+
+From the air, the Tono reservoir appears as a startling blue interruption in the dry brown landscape of Ghana's Upper East Region. Two kilometers of earthen dam hold back enough water to irrigate nearly 2,500 hectares of farmland year-round in a region where rain falls for only a few months. The Tono Dam is not a marvel of engineering spectacle -- there are no soaring concrete walls, no dramatic spillways. Its power lies in what it does quietly: it turned one of the poorest, most food-insecure corners of West Africa into a place where rice, tomatoes, and soybeans grow in every season.
+
+## A Decade in the Building
+
+Construction began in 1975, when the Ghana government commissioned Taysec, a British engineering company, to build a dam that would break the region's dependence on seasonal rainfall. The Kassena-Nankana District, stretching across the flat savanna south of the Burkina Faso border, had rich soil but unpredictable water. Farmers planted when the rains came and waited when they did not. The dam took a full decade to complete, finally becoming operational in 1985. To manage the ambitious irrigation scheme, the government established the Irrigation Company of Upper Region, known as ICOUR, which would oversee water distribution, canal maintenance, and the coordination of roughly 2,500 smallholder farmers spread across nine villages, each cultivating an average of just 0.6 hectares.
+
+## Water in Every Season
+
+The dam's impact was transformative. Seven communities that had depended on a single growing season suddenly had water year-round. Rice became the dominant crop -- by recent estimates, it covers roughly 98 percent of the irrigated land -- but farmers also grow tomatoes, soybeans, onions, peppers, and leafy vegetables across the scheme's canal network. The irrigation infrastructure includes a main gravity canal lined with concrete slabs, feeding a network of smaller channels that distribute water across the fields. For families accustomed to food scarcity during the long dry season, the dam represented a fundamental shift: farming became a year-round livelihood rather than a seasonal gamble. Livelihoods improved. Nutrition improved. The calculus of survival in the Upper East changed.
+
+## The Lake and Its Uninvited Guest
+
+Behind the dam, an artificial lake formed that became something the engineers had not planned for: a bird habitat. The reservoir's shallow margins and seasonal water-level fluctuations created conditions that attracted wading birds and waterfowl, adding an ecological dimension to what was designed as pure agricultural infrastructure. But the lake also brought a less welcome inhabitant. The still, warm waters proved ideal breeding ground for the schistosomiasis parasite, a waterborne organism that penetrates human skin on contact and lodges in the intestinal tract or bladder walls. Left untreated, it causes painful bleeding and can lead to sterility. For farmers and children who work and play in the irrigation canals, the parasite became an unavoidable cost of the dam's benefits -- a reminder that engineering solutions in tropical environments rarely come without biological complications.
+
+## Rehabilitation and the Rice Economy
+
+By 2008, decades of use had degraded the main canal's concrete lining, and the Ghana government undertook rehabilitation with funding from the World Bank and USAID through the Ghana Commercial Agriculture Project. The investment reflected the dam's continued strategic importance: Tono is not just a local irrigation project but one of the largest agricultural dams in all of West Africa. For the smallholder farmers of Kassena-Nankana, the dam remains the foundation of economic life. Their plots are small, their margins thin, but the water flows reliably, and the rice grows. In a region where climate uncertainty defined existence for generations, that reliability is worth more than any statistic can convey.
+
+## Flight Context
+
+Located at 10.88N, 1.17W in the Kassena-Nankana District, Upper East Region, Ghana. The reservoir is clearly visible from altitude as a large body of water surrounded by green irrigated farmland contrasting sharply with drier land beyond the scheme's boundaries. The 2 km dam structure runs roughly east-west. Navrongo, the nearest town, is just a few kilometers to the east. Nearest airport is Navrongo/Paga Airstrip (ICAO: DGLN). Tamale (ICAO: DGLE) is the nearest major airport, approximately 200 km south. Flat terrain, excellent visibility outside harmattan season.
+
+## Sources
+
+- [Tono Dam (Ghana) - Wikipedia](https://en.wikipedia.org/?curid=32769272)
+  - Construction began 1975, dam operational 1985 - confirmed
+  - Built by Taysec, a British engineering company - confirmed
+  - Irrigates approximately 2,490-2,500 hectares year-round - confirmed
+  - Managed by Irrigation Company of Upper Region (ICOUR) - confirmed
+  - Main canal rehabilitated in 2008 with World Bank and USAID funding - confirmed
+  - Rice covers roughly 98 percent of irrigated land - consistent with sources
+  - One of the largest agricultural dams in West Africa - confirmed
+- [World Bank - Final Dam Assessment Report, Tono](https://documents1.worldbank.org/curated/en/261981551366998141/pdf/Final-Dam-Assessment-Report-Tono.pdf)
+  - Dam dimensions and structural details consistent with official assessment
+
+## Review Notes
+
+**Reviewed:** 2026-03-07 · 7 facts verified · 0 corrections
+
+Verified: construction 1975, operational 1985, built by Taysec (British), irrigates ~2,500 hectares, managed by ICOUR, rice ~98% of irrigated area, canal rehabilitation 2008 via World Bank and USAID Ghana Commercial Agriculture Project, one of largest agricultural dams in West Africa. Nine villages for ICOUR scheme, seven communities for direct benefit - both figures appear in sources for different administrative contexts. No factual errors found.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 740*
+*Read time: 4 minutes*

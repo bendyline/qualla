@@ -577,5 +577,26 @@
     "_m/k/v/8/0/lilongwe-wk/lilongwe-city-location-map.png",
     "_m/k/v/8/0/lilongwe-wk/lilongwe-malawi-aster.jpg"
   ],
-  "updatedAt": "2026-03-30T19:27:37.108Z"
+  "updatedAt": "2026-03-30T19:27:37.108Z",
+  "narration": {
+    "files": [
+      "kv80-lilongwe-flight-context.mp3",
+      "kv80-lilongwe-intro.mp3",
+      "kv80-lilongwe-a-capital-by-presidential-decree.mp3",
+      "kv80-lilongwe-navigating-by-numbers.mp3",
+      "kv80-lilongwe-where-carlsberg-is-local.mp3",
+      "kv80-lilongwe-the-food-that-maps-a-continent.mp3",
+      "kv80-lilongwe-gateway-to-the-lake.mp3"
+    ],
+    "durations": {
+      "kv80-lilongwe-flight-context.mp3": 43.0648333,
+      "kv80-lilongwe-intro.mp3": 39.0755416,
+      "kv80-lilongwe-a-capital-by-presidential-decree.mp3": 59.5109166,
+      "kv80-lilongwe-navigating-by-numbers.mp3": 53.326125,
+      "kv80-lilongwe-where-carlsberg-is-local.mp3": 67.8487083,
+      "kv80-lilongwe-the-food-that-maps-a-continent.mp3": 66.1613333,
+      "kv80-lilongwe-gateway-to-the-lake.mp3": 58.1429166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

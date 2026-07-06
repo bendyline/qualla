@@ -359,5 +359,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "t4ff-hadhramaut-flight-context.mp3",
+      "t4ff-hadhramaut-intro.mp3",
+      "t4ff-hadhramaut-court-of-death-garden-of-incense.mp3",
+      "t4ff-hadhramaut-the-wadi-and-the-plateau.mp3",
+      "t4ff-hadhramaut-merchants-mercenaries-and-a-diaspora.mp3",
+      "t4ff-hadhramaut-sultanates-revolution-and-the-unfinished-story.mp3"
+    ],
+    "durations": {
+      "t4ff-hadhramaut-flight-context.mp3": 46.5637916,
+      "t4ff-hadhramaut-intro.mp3": 54.5352083,
+      "t4ff-hadhramaut-court-of-death-garden-of-incense.mp3": 69.8970833,
+      "t4ff-hadhramaut-the-wadi-and-the-plateau.mp3": 71.2134166,
+      "t4ff-hadhramaut-merchants-mercenaries-and-a-diaspora.mp3": 69.2650833,
+      "t4ff-hadhramaut-sultanates-revolution-and-the-unfinished-story.mp3": 89.7526666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

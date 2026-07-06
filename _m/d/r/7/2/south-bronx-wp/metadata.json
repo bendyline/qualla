@@ -600,5 +600,26 @@
     "_m/d/r/7/2/south-bronx-wp/view-of-new-york-from-the-air-.jpg",
     "_m/d/r/7/2/south-bronx-wp/con-edison-versorgungsbrucke-u.jpg"
   ],
-  "updatedAt": "2026-03-30T15:13:09.028Z"
+  "updatedAt": "2026-03-30T15:13:09.028Z",
+  "narration": {
+    "files": [
+      "dr72-south-bronx-flight-context.mp3",
+      "dr72-south-bronx-intro.mp3",
+      "dr72-south-bronx-from-morris-manor-to-the-jewish-borough.mp3",
+      "dr72-south-bronx-the-unraveling.mp3",
+      "dr72-south-bronx-when-burning-became-strategy.mp3",
+      "dr72-south-bronx-1520-sedgwick-avenue.mp3",
+      "dr72-south-bronx-ashes-and-renaissance.mp3"
+    ],
+    "durations": {
+      "dr72-south-bronx-flight-context.mp3": 53.5277083,
+      "dr72-south-bronx-intro.mp3": 36.5580833,
+      "dr72-south-bronx-from-morris-manor-to-the-jewish-borough.mp3": 49.333875,
+      "dr72-south-bronx-the-unraveling.mp3": 54.71025,
+      "dr72-south-bronx-when-burning-became-strategy.mp3": 55.0829583,
+      "dr72-south-bronx-1520-sedgwick-avenue.mp3": 57.719625,
+      "dr72-south-bronx-ashes-and-renaissance.mp3": 70.970125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -759,5 +759,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w0qr-lake-toba-flight-context.mp3",
+      "w0qr-lake-toba-intro.mp3",
+      "w0qr-lake-toba-the-scar-that-became-a-sea.mp3",
+      "w0qr-lake-toba-homeland-of-the-batak.mp3",
+      "w0qr-lake-toba-flavors-from-the-caldera.mp3",
+      "w0qr-lake-toba-a-slower-rhythm.mp3",
+      "w0qr-lake-toba-deep-time-present-tense.mp3"
+    ],
+    "durations": {
+      "w0qr-lake-toba-flight-context.mp3": 50.751125,
+      "w0qr-lake-toba-intro.mp3": 57.3993333,
+      "w0qr-lake-toba-the-scar-that-became-a-sea.mp3": 59.979375,
+      "w0qr-lake-toba-homeland-of-the-batak.mp3": 61.464375,
+      "w0qr-lake-toba-flavors-from-the-caldera.mp3": 61.7832916,
+      "w0qr-lake-toba-a-slower-rhythm.mp3": 58.606,
+      "w0qr-lake-toba-deep-time-present-tense.mp3": 64.0536666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

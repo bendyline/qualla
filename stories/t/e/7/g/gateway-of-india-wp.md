@@ -1,0 +1,60 @@
+# Gateway of India
+
+Mumbai's triumphal arch on the waterfront, built to welcome a king and emperor in 1924, became the ceremonial door through which the British left India forever.
+
+**Location:** 18.9218, 72.8347
+
+**Categories:** architecture, colonial-history, landmark, waterfront, mumbai
+
+## Introduction
+
+The last British soldiers to leave India walked through the Gateway of India on 28 February 1948. They passed beneath the same arch that had been built to welcome King George V and Queen Mary to Bombay in 1911 -- though the royal couple never actually used it, since the monument wasn't completed until 1924, thirteen years after their visit. That gap between intention and reality makes the Gateway one of history's great architectural ironies: a triumphal arch conceived to celebrate the arrival of empire, finished just in time to witness its departure.
+
+## Stone, Ambition, and the Arabian Sea
+
+Scottish architect George Wittet designed the Gateway in the Indo-Saracenic style, blending Hindu and Muslim architectural elements with the triumphal arch tradition of Europe. The foundation stone was laid in March 1913, but construction didn't begin in earnest until 1915. Years of land reclamation at Apollo Bunder had to happen first -- the promontory where the Gateway stands was literally pulled from the sea. Built of yellow basalt and reinforced concrete, the arch rises 26 meters high, with a central dome 15 meters in diameter. Intricate latticework, or jali, decorates the arches, while muqarnas designs adorn the interior of the dome. The monument faces the harbor, its back to the city, as if perpetually watching for ships that no longer carry colonists.
+
+## Where Bombay Meets the Water
+
+Stand at the Gateway today and Mumbai unfolds in every direction. Behind you rises the Taj Mahal Palace Hotel, its Indo-Saracenic dome echoing the Gateway's own architectural vocabulary. Ferries depart from nearby jetties for the Elephanta Caves, a fifty-minute ride to the UNESCO World Heritage rock-cut temples on Elephanta Island. Street vendors sell roasted peanuts and balloon animals. Photographers offer instant portraits with the arch as backdrop. On any given evening, the plaza fills with families, couples, and tourists navigating through the crowd while pigeons wheel overhead against the fading light. The Archaeological Survey of India protects the monument, but it belongs, in practice, to everyone who shows up.
+
+## Witness to a Restless City
+
+The Gateway has served as more than a monument. After the devastating November 2008 Mumbai terror attacks -- which targeted the Taj Mahal Palace Hotel directly across the plaza, killing 166 people -- crowds gathered at the Gateway in grief and defiance. A solidarity march on 3 December 2008 drew thousands. In February 2019, protesters congregated at the Gateway following the Pulwama attack. In January 2020, overnight demonstrations under the banner "Occupy Gateway" erupted in response to the attack on Jawaharlal Nehru University in Delhi. Each time, Mumbai's citizens have instinctively returned to this spot where the city meets the sea, transforming a colonial relic into a place where the living assert their right to be heard.
+
+## Preservation Against Salt and Time
+
+The Arabian Sea is not kind to stonework. Studies conducted between 2001 and 2002 found that the Gateway's basalt darkens during the monsoon season, with the inner portions showing greater color change than the exterior -- sheltered from sunlight and rain, they respond more acutely to shifts in humidity and temperature. Algae growth, surface cracks, and blackening have prompted periodic conservation efforts. In 2019, the Maharashtra state government approved a four-stage management plan following UNESCO guidance: physical conservation, a sound-and-light show, relocation of the surrounding anchorage, and a streamlined ticketed entry system. The renovation work uses white marble from Makrana in Rajasthan. Corporate houses including the Tata Group have expressed interest in adopting the Gateway as a heritage monument, funding its upkeep through corporate social responsibility programs.
+
+## Flight Context
+
+Located at 18.922N, 72.835E on the southern tip of Mumbai's Colaba district, directly on the waterfront. The Gateway is visible from low altitude as a distinct arch structure at the end of Apollo Bunder promontory. The Taj Mahal Palace Hotel dome sits immediately to the northwest. Best viewed from approaches over the Arabian Sea at 1,500-3,000 feet. Nearest airport: Chhatrapati Shivaji Maharaj International Airport (VABB/BOM), approximately 25 km north. Mumbai's coastline and harbor provide excellent visual references for navigation.
+
+## Sources
+
+- [Gateway of India - Wikipedia](https://en.wikipedia.org/?curid=494788)
+  - Last British soldiers departed 28 February 1948 confirmed (1st Battalion Somerset Light Infantry)
+  - King George V and Queen Mary visited Bombay in 1911 confirmed
+  - Gateway not completed until 1924 confirmed
+  - George Wittet designed in Indo-Saracenic style confirmed
+  - Foundation stone laid March 1913 confirmed
+  - Construction began in earnest 1915 confirmed
+  - Arch rises 26 meters high confirmed
+  - Central dome 15 meters in diameter confirmed
+  - Built of yellow basalt and reinforced concrete confirmed
+  - Corrected: death toll in 2008 attacks changed from 'at least 167' to '166' (Wikipedia: 166 victims)
+- [Imperial War Museums - Departure of British Troops from India, 28 February 1948](https://www.iwm.org.uk/collections/item/object/205041021)
+  - 28 February 1948 departure date confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-07 · 10 facts verified · 1 correction
+
+Corrected 2008 attacks death toll from 'at least 167' to '166' (Wikipedia/Britannica: 166 victims). All other facts verified: 28 Feb 1948 British departure, George Wittet Indo-Saracenic design, foundation stone 1913, completion 1924, arch 26m high, dome 15m.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 710*
+*Read time: 4 minutes*

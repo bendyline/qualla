@@ -764,5 +764,24 @@
     "_m/s/1/0/9/fort-prinzenstein-wp/artillery-used-at-fort-prinzen.jpg",
     "_m/s/1/0/9/fort-prinzenstein-wp/fort-prinzenstein-keta.jpg"
   ],
-  "updatedAt": "2026-03-31T03:43:38.610Z"
+  "updatedAt": "2026-03-31T03:43:38.610Z",
+  "narration": {
+    "files": [
+      "s109-fort-prinzenstein-flight-context.mp3",
+      "s109-fort-prinzenstein-intro.mp3",
+      "s109-fort-prinzenstein-victory-and-conquest.mp3",
+      "s109-fort-prinzenstein-the-dungeons-below.mp3",
+      "s109-fort-prinzenstein-flags-over-keta.mp3",
+      "s109-fort-prinzenstein-what-the-walls-remember.mp3"
+    ],
+    "durations": {
+      "s109-fort-prinzenstein-flight-context.mp3": 50.2868333,
+      "s109-fort-prinzenstein-intro.mp3": 42.8892083,
+      "s109-fort-prinzenstein-victory-and-conquest.mp3": 59.8039583,
+      "s109-fort-prinzenstein-the-dungeons-below.mp3": 56.5431666,
+      "s109-fort-prinzenstein-flags-over-keta.mp3": 51.8427083,
+      "s109-fort-prinzenstein-what-the-walls-remember.mp3": 56.5840416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

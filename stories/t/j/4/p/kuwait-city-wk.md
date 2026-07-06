@@ -1,0 +1,66 @@
+# Kuwait City
+
+A capital rebuilt from the ashes of invasion, Kuwait City pairs futuristic towers and gleaming malls with the ancient rhythms of a pearl-diving port on the Persian Gulf.
+
+**Location:** 29.3750, 47.9800
+
+**Categories:** cities, history, middle-east
+
+## Introduction
+
+Three towers rise from a peninsula at the edge of the Persian Gulf, their blue-tiled spheres catching the desert light like enormous jewels. The Kuwait Towers, designed by Danish architect Malene Bjorn and inaugurated in 1979, were built to store water, but they became something else entirely: the symbol of a nation that would be invaded, burned, and rebuilt within a single generation. Today they anchor a skyline of glass and steel that stretches along Kuwait Bay, a city of 3.4 million people that feels both ancient and impatiently modern.
+
+## From Pearl Beds to Petroleum
+
+Before oil transformed everything, Kuwait City lived by the sea. Dhow captains sailed from this bay to harvest pearls from the Gulf floor, expeditions lasting three to four months through the brutal summer heat. The pearl trade sustained the city for centuries, connecting it to markets in Mesopotamia, India, and Persia. Then came the Burgan field discovery, one of the largest oil reserves on Earth, and the old harbor economy gave way to something far more lucrative. The Souk Al Mubarakiya still occupies the heart of downtown, its stalls heaped with spices, gold, and dates, a remnant of the trading city that once was. But the modern skyline tells a different story. Wide boulevards radiate outward from the old quarter, lined with malls so vast they contain their own weather systems of air conditioning against the summer heat that regularly exceeds 50 degrees Celsius.
+
+## A Capital Under Fire
+
+On August 2, 1990, Iraqi forces crossed the border and seized Kuwait in two days. The occupation lasted seven months. Oil wells were set ablaze, buildings were looted, and the Kuwait Towers themselves became a contested symbol. The Liberation Tower, originally planned as a telecommunications structure before the invasion, was renamed after its completion in 1993 to mark the country's deliverance. Standing 372 meters tall, it remains one of the tallest telecommunications towers in the world. The scars of that year have largely been erased from the physical landscape, but they persist in the national memory. February 25, Kuwait's National Day, draws crowds who celebrate not just independence but survival.
+
+## Crossroads of the Gulf
+
+Walk through the Souk Al-Watiya on a Friday afternoon, and the city's true character reveals itself. Filipino workers gather near the churches, Indian families browse fabric shops, Egyptian traders call out prices in Arabic. Nearly two-thirds of Kuwait's population are expatriates, a staggering demographic that shapes everything from the restaurant scene to the rhythm of daily life. Iranian, Lebanese, and Bedouin cuisines compete for attention along Gulf Road. The Sadu House, built from coral and gypsum beside the National Museum, preserves the arts and crafts of Bedouin society, while nearby, Bayt Al-Badr stands as one of the last examples of traditional Kuwaiti architecture. The contrast is deliberate: Kuwait City holds its heritage in one hand and its ambitions in the other.
+
+## Desert Extremes
+
+Kuwait City tests the limits of habitability. Summer daytime temperatures push past 50 degrees Celsius for weeks on end, hot enough to make outdoor life genuinely dangerous. December nights, by contrast, can dip below freezing. Spring offers a brief reprieve, a window of pleasant weather in March and April before the furnace reignites. The city has engineered its way around the climate rather than surrendering to it. Malls serve as climate-controlled public squares. The Aqua Park near the Kuwait Towers offers relief through water rides and pools. Coastal walkways come alive at dusk, when residents emerge to sit across from Souq Sharq and watch the sun sink into the Arabian Gulf. Alcohol is illegal, so evening socializing revolves around shisha cafes, fruit juice shops, and the communal ritual of grilled fish chosen fresh from the Souq Sharq fish market.
+
+## The View from Above
+
+From the air, Kuwait City reads as a thin ribbon of towers pressed against the curve of the bay, desert stretching endlessly behind it. The peninsula that holds the old city juts into turquoise water, and the Kuwait Towers are unmistakable, three white needles tipped with blue. At night, the Liberation Tower glows against the dark, and the coastal highway traces a line of light along the shore. It is a city that has compressed centuries of change into decades, where pearl divers' grandchildren work in skyscrapers, and where the memory of invasion coexists with an almost defiant embrace of the future.
+
+## Flight Context
+
+Kuwait City sits at 29.375N, 47.98E on a peninsula at the southern edge of Kuwait Bay. The Kuwait Towers and Liberation Tower are prominent visual landmarks from altitude. Kuwait International Airport (OKKK/KWI) lies south of the city center. Best viewed from 5,000-10,000 feet approaching from the Gulf side, where the coastal skyline and bay are fully visible. Expect haze and reduced visibility in summer months due to dust and extreme heat.
+
+## Sources
+
+- [Kuwait City - Wikivoyage](https://en.wikivoyage.org/?curid=18546)
+- [Kuwait Towers - Wikipedia](https://en.wikipedia.org/wiki/Kuwait_Towers)
+  - Designed by Danish architect Malene Bjørn (confirmed Danish, from Copenhagen)
+  - Opened to public March 1, 1979 (inaugurated 1979 confirmed)
+  - Towers designed to store water (confirmed — part of Kuwait Water Towers system)
+- [Liberation Tower (Kuwait) - Wikipedia](https://en.wikipedia.org/wiki/Liberation_Tower_(Kuwait))
+  - Height of 372 meters confirmed
+  - Completed/renamed 1993 after Kuwait's liberation confirmed
+  - Originally planned as telecommunications structure confirmed
+- [Kuwait City Metro Population - MacroTrends](https://www.macrotrends.net/global-metrics/cities/21769/kuwait-city/population)
+  - Metro area population 3.4 million confirmed (3,354,000 in 2024)
+- [Burgan Field - Wikipedia](https://en.wikipedia.org/wiki/Burgan_field)
+  - Burgan field confirmed as one of the largest oil reserves on Earth (world's second-largest oil field)
+- [Kuwait National Day - National Today](https://nationaltoday.com/kuwait-national-day/)
+  - Kuwait National Day is February 25 — confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-01 · 9 facts verified · 0 corrections
+
+All key facts verified: Kuwait Towers (Danish architect Malene Bjorn, 1979 inauguration, water storage purpose confirmed), Liberation Tower (372m height, 1993 completion confirmed), population 3.4M metro confirmed, Burgan field as world's second-largest confirmed, National Day Feb 25 confirmed. No empathy/dignity issues. No factual errors found. Spiciness: 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

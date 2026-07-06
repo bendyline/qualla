@@ -890,5 +890,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "s2v0-bangui-flight-context.mp3",
+      "s2v0-bangui-intro.mp3",
+      "s2v0-bangui-iron-age-to-triumphal-arch.mp3",
+      "s2v0-bangui-equatorial-heat-and-the-rainy-season.mp3",
+      "s2v0-bangui-french-delicacies-and-congolese-beer.mp3",
+      "s2v0-bangui-a-city-of-caution.mp3"
+    ],
+    "durations": {
+      "s2v0-bangui-flight-context.mp3": 50.27075,
+      "s2v0-bangui-intro.mp3": 49.8848333,
+      "s2v0-bangui-iron-age-to-triumphal-arch.mp3": 61.3881666,
+      "s2v0-bangui-equatorial-heat-and-the-rainy-season.mp3": 48.2797916,
+      "s2v0-bangui-french-delicacies-and-congolese-beer.mp3": 53.673,
+      "s2v0-bangui-a-city-of-caution.mp3": 64.3427083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1,0 +1,77 @@
+# Letchworth State Park
+
+The Seneca called it Sehgahunda - the Vale of the Three Falls - and believed the middle waterfall was so beautiful it made the sun stop at midday. A Buffalo industrialist saved it from development and gave it to New York.
+
+**Location:** 42.6347, -77.9833
+
+**Categories:** new-york, state-park, waterfalls, gorge, conservation
+
+## Introduction
+
+The Seneca had a name for this place: Sehgahunda, the Vale of the Three Falls. They believed the middle waterfall - Ska-ga-dee - was so wondrous that the sun itself paused at midday to watch the water pour over the ledge. It is the kind of claim that sounds like embellishment until you stand at the overlook and watch the Genesee River drop through a gorge whose sheer rock walls rise hundreds of feet on either side, and you realize you have been standing there for twenty minutes without moving. In 1859, a Buffalo industrialist named William Pryor Letchworth began buying land around these falls. By the time he died in 1910, he had built an estate, assembled a library, and made a decision that would preserve this canyon for everyone: he gave it all to New York State.
+
+## The Grand Canyon of the East
+
+The comparison to the Grand Canyon is the kind of boosterism that usually invites eye-rolling, but Letchworth earns it on its own terms. The Genesee River has carved a gorge through western New York that runs roughly 17 miles through the park, with rock walls climbing as high as 600 feet in places. Three major waterfalls punctuate the river's course - Upper, Middle, and Lower - and as many as 50 smaller cascades tumble in from tributaries along the canyon walls. Where the gorge narrows above the Middle Falls, the walls pinch close enough to feel the mist on both cheeks at once. A paved road traces the western rim, offering overlook after overlook. The geology is Devonian-era shale and sandstone, layers of ancient seabed exposed by millennia of river erosion.
+
+## The Man Who Gave It Away
+
+William Pryor Letchworth made his fortune in hardware and saddlery in Buffalo, then spent it creating something he would never truly own. Starting in 1859, he purchased parcels around the Middle Falls and built his Glen Iris Estate - a gentleman's country retreat with gardens, a library, and one of the finest private collections of books on charitable work in the country. He also became a quiet preservationist. Letchworth relocated the last remaining Seneca council house to his property and commissioned a memorial to Mary Jemison, "The White Indian of the Genesee," a colonial-era captive who chose to remain with the Seneca and is buried on the park grounds. In 1906, he bequeathed the entire estate to the state. He was granted "life-residence" at Glen Iris, and died there on December 1, 1910. The Glen Iris Inn still operates today, perched above the Middle Falls.
+
+## Iron and Fire Over the Gorge
+
+In the early hours of May 6, 1875, the great wooden railroad bridge spanning the gorge above the Upper Falls caught fire and was destroyed completely - a total loss leaving only the concrete abutments. The Erie Railroad moved with astonishing speed: construction of an iron replacement began on June 8, and the Portage Viaduct opened for traffic on July 31 - less than two months later, an engineering feat remarkable for any era. The iron bridge stood for 142 years, becoming a landmark in its own right despite being an active railroad crossing where trespassing tourists routinely ignored warning signs to walk out over the gorge. Norfolk Southern demolished it in 2017 and built a new arch bridge slightly to the south. Train-activated gates now keep visitors off the new structure when no freight train is approaching.
+
+## Holding Back the River
+
+At the park's north end, the Mount Morris Dam rises from the gorge floor - the largest concrete gravity flood control structure east of the Mississippi River. The Army Corps of Engineers built it between 1948 and 1954 under the Flood Control Act of 1944. The dam proved its worth spectacularly during the Flood of 1972, when Hurricane Agnes stalled over north-central Pennsylvania and dumped enormous rainfall across the region. The dam held back the swollen Genesee, saving thousands of acres of farmland and the city of Rochester from catastrophic flooding. Within the park itself, the flood scoured the Lower Falls trail and the path to Sugar Loaf, which did not reopen for years. Visitors can still see the scars the floodwaters carved into the canyon walls more than fifty years later.
+
+## Seasons in the Gorge
+
+Letchworth is a park that changes character with the calendar. Summer brings hikers to the gorge rim trails, kayakers to the whitewater below the falls, and hot air balloons drifting above the canyon at dawn. Autumn turns the hardwood forests along the canyon walls into a corridor of orange and crimson so vivid that the park regularly tops lists of the best state parks in America. Winter sheathes the waterfalls in ice and opens the trails to cross-country skiers and snowmobilers. The park's Civilian Conservation Corps legacy is visible everywhere - the cabins, overlooks, and stone bridges built by CCC workers during the 1930s still anchor the visitor experience. The Humphrey Nature Center, opened in 2016, offers year-round programming in a sustainable building connected to the trail network. All of it unfolds in a gorge the Seneca considered sacred enough to stop the sun.
+
+## Flight Context
+
+Located at 42.63°N, 77.98°W in Livingston and Wyoming counties, western New York. The park is roughly 17 miles long, following the Genesee River gorge. From altitude, the deep gorge is clearly visible as a dark slash through the green landscape, with the three waterfalls marking the central section. The Mount Morris Dam is prominent at the north end. The Genesee Arch Bridge (railroad) spans the gorge near the Upper Falls. Located southwest of Rochester and southeast of Buffalo. Nearest airports include Greater Rochester International (KROC), about 35 miles northeast, and Buffalo Niagara International (KBUF), about 60 miles northwest.
+
+## Sources
+
+- [Letchworth State Park - Wikipedia](https://en.wikipedia.org/?curid=75267)
+- [Portage Viaduct - Wikipedia](https://en.wikipedia.org/wiki/Portage_Viaduct)
+  - Wooden bridge destroyed by fire in early morning hours of May 6, 1875
+  - Iron replacement construction began June 8, 1875
+  - Iron bridge opened for traffic July 31, 1875
+  - Norfolk Southern demolished old bridge in 2017 and built new arch bridge
+- [Mount Morris Dam - Wikipedia](https://en.wikipedia.org/wiki/Mount_Morris_Dam)
+  - Largest concrete gravity flood control dam east of the Mississippi River
+  - Army Corps of Engineers built it between 1948 and 1954
+  - Flood Control Act of 1944 authorized construction
+  - Located at the park's north end
+- [Letchworth State Park flood 1972 - New York Heritage](https://nyheritage.org/exhibits/agnes-flood/letchworth-state-park)
+  - Hurricane Agnes 1972 caused major flooding of the Genesee River
+  - Mount Morris Dam held back the flood, preventing catastrophic downstream damage
+  - Lower Falls trail and Sugar Loaf path did not reopen for years
+  - Flood scars still visible on canyon walls
+- [William Pryor Letchworth - Wikipedia](https://en.wikipedia.org/wiki/William_Pryor_Letchworth)
+  - Letchworth began purchasing land in 1859
+  - Bequeathed estate to New York State in 1906
+  - Died December 1, 1910 at Glen Iris
+  - Relocated last remaining Seneca council house to his property
+  - Commissioned memorial to Mary Jemison
+
+## Review Notes
+
+**Reviewed:** 2026-02-27 · 11 facts verified · 0 corrections
+
+All key facts verified: Portage bridge fire May 6 1875 and iron replacement July 31 1875 correct. Mount Morris Dam largest east of Mississippi correct. Hurricane Agnes 1972 correct. Letchworth dates 1859/1906/1910 correct. No corrections needed. Spiciness 2 - mild descriptive color, balanced voice.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Acknowledges 'Grand Canyon of the East' comparison as boosterism before affirming it earns the comparison
+
+---
+
+*Word count: 840*
+*Read time: 4 minutes*

@@ -1,0 +1,54 @@
+# Freemasonry in Venezuela
+
+Founded in 1824, just three years after Venezuela's independence, the Grand Lodge in Caracas reveals how deeply Freemasonry shaped the young republic's political class -- its first Grand Master was a former vice president.
+
+**Location:** 10.4806, -66.9036
+
+**Categories:** history, fraternal-organizations, politics, culture
+
+## Introduction
+
+The first Grand Master of Venezuela's Masonic Grand Lodge was a man who had already served as vice president of the republic. That detail -- a former head of state leading a fraternal order in a country barely three years old -- tells you everything about how deeply Freemasonry was embedded in the political fabric of early Venezuela. Founded in 1824, the Gran Logia de la Republica de Venezuela predates most of the country's civilian institutions, and its membership rolls read like a roster of the men who built the nation.
+
+## Born with the Republic
+
+Venezuela declared independence from Spain in 1811, but the wars of liberation dragged on for another decade. By 1824, when the Grand Lodge was formally established in Caracas, the country was still part of Gran Colombia -- the sprawling, short-lived federation that Simon Bolivar had forged from the wreckage of Spanish colonial rule. Freemasonry had arrived in Latin America with the independence movements themselves. Many of the liberators, Bolivar included, had encountered Masonic lodges during their European educations and saw in the fraternity's ideals of reason, liberty, and brotherhood a philosophical framework for the new republics they were building. The Venezuelan lodge's first Grand Master, Diego Bautista Urbaneja, had served as vice president, establishing from the outset a pattern of overlap between Masonic leadership and political power that would persist for nearly two centuries.
+
+## A Lodge Refounded
+
+When Gran Colombia dissolved in 1830 and Venezuela emerged as a fully sovereign nation, the Grand Lodge needed to reconstitute itself. In 1838, it was formally refounded as a specifically Venezuelan institution, no longer part of a federation that no longer existed. Urbaneja remained its guiding figure. The roster of Grand Masters that followed him traces the arc of Venezuelan history like a parallel timeline. Manuel Felipe Tovar, who served as Grand Master from 1854 to 1856, was also the country's president. The names shift through the turbulent decades of the 19th century -- through civil wars, caudillo strongmen, and the discovery of oil that would transform the nation -- each Grand Master serving a two-year term in an orderly rotation that contrasted sharply with the upheavals in the political world outside the lodge.
+
+## The Quiet Network
+
+By the early 20th century, Venezuelan Freemasonry had settled into a steady institutional rhythm. Grand Masters served their terms and passed the gavel. The lodge claimed 121 member lodges as of 2006, organized under the umbrella of the national Grand Lodge based in Caracas. It maintained affiliations with the Confederacion Masonica Interamericana, linking Venezuelan Masons to their counterparts across Latin America, and with the Confederacion Masonica Bolivariana, an alliance of lodges in countries that had once been part of Bolivar's Gran Colombia. These networks connected Venezuelan Masons to a hemispheric fraternity that transcended national borders -- a quiet echo of Bolivar's own continental ambitions, maintained not through armies or treaties but through ritual, correspondence, and mutual recognition.
+
+## Two Centuries of Continuity
+
+What makes Venezuelan Freemasonry notable is less any single dramatic episode than its sheer persistence. From 1824 through 2017 -- the last year for which Grand Master records are available -- the lodge maintained an unbroken chain of leadership through every political upheaval the country experienced: the Federal War of the 1860s, the dictatorships of Juan Vicente Gomez and Marcos Perez Jimenez, the democratic era, and the Bolivarian Revolution under Hugo Chavez. The Grand Lodge survived them all, passing its leadership every two years with a regularity that most Venezuelan political institutions could not match. Whether that continuity reflects the fraternity's irrelevance to the powers that were, or a careful ability to navigate around them, is a question the lodge's own discretion makes difficult to answer. What is clear is that in a country defined by political discontinuity, the Masons kept meeting, kept electing, and kept the lights on at the temple in Caracas.
+
+## Flight Context
+
+The Grand Lodge is located at 10.481N, 66.904W in central Caracas, near the university district. The building sits within the dense urban core of the Libertador Municipality. Simon Bolivar International Airport (SVMI) is approximately 22 km to the northwest near Maiquetia. Caracas occupies a narrow east-west valley at roughly 900 meters elevation, with the dramatic wall of El Avila (Waraira Repano) National Park rising to the north. The Grand Lodge building itself is not a major visual landmark from the air, but the university campus and surrounding institutional district are identifiable at lower altitudes.
+
+## Sources
+
+- [Freemasonry in Venezuela - Wikipedia](https://en.wikipedia.org/?curid=10536028)
+  - Grand Lodge founded 1824 as part of Gran Colombia confirmed; refounded as Venezuela-specific institution in 1838 confirmed
+  - Diego Bautista Urbaneja was first Grand Master — had served as vice president confirmed
+  - Manuel Felipe Tovar served as Grand Master 1854-1856 and was also country's president confirmed
+  - 121 member lodges as of 2006 confirmed
+  - Confederacion Masonica Interamericana affiliation confirmed
+  - Unbroken chain of leadership through Venezuelan political upheavals confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-12 · 6 facts verified · 0 corrections
+
+Facts verified: Grand Lodge founded 1824 as part of Gran Colombia, refounded as Venezuelan institution 1838 confirmed; Diego Bautista Urbaneja as first Grand Master (former VP) confirmed; Manuel Felipe Tovar served as Grand Master 1854-1856 and was also president confirmed; 121 member lodges 2006 confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 710*
+*Read time: 4 minutes*

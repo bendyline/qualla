@@ -1,0 +1,71 @@
+# West Coast (New Zealand)
+
+New Zealand's last frontier - a narrow strip of wild coast squeezed between the Tasman Sea and the Southern Alps, where glaciers descend toward rainforest, Pancake Rocks blow spray skyward, and 33,000 hardy 'Coasters' live by their own rules.
+
+**Location:** -42.7000, 170.0000
+
+**Categories:** new-zealand, glaciers, wilderness, coast, rainforest, frontier
+
+## Introduction
+
+The locals call it simply 'The Coast' - and the possessive simplicity tells you something about how they see their place in the world. The West Coast of New Zealand's South Island is a 600-kilometer strip of wilderness squeezed between the Tasman Sea and the Southern Alps, one of the wettest, most isolated, least populated regions in a country that already feels remote by global standards. Only 33,000 people live here, scattered through settlements connected by what some locals call 'the longest main street in the world' - State Highway 6, the only through road. The rest is rainforest, glacier, river, and beach. It was the last frontier New Zealand's colonists exploited, the gold and coal and timber extracted in a frenzy before conservation attitudes caught up. Now the mines have mostly closed, the forests are protected, and the Coast survives on its otherworldly beauty - a place where glaciers descend nearly to sea level, where rocks have been carved into shapes that look like breakfast, where the sandflies bite and the rain falls and the Coasters wouldn't live anywhere else.
+
+## The Ice Rivers
+
+Franz Josef and Fox Glaciers are freaks of geography - rivers of ice that descend from the Southern Alps into temperate rainforest, reaching elevations lower than almost any other glaciers on Earth. Walk through lush, dripping forest for an hour and suddenly you're at the terminus of a glacier, blue ice calving into a milky river, the cold breath of the ice field palpable on your face.
+
+The glaciers exist because of the extreme precipitation on the West Coast - up to 10 meters of snow falls annually in the upper catchments, compressing into ice that flows downward through steep valleys. They advance and retreat on cycles that confound simple climate narratives; Franz Josef grew significantly in the early 2000s even as glaciers worldwide shrank. Both glaciers have retreated dramatically since then, their terminus points pulling back into the mountains. Helicopter flights land on the upper glaciers where the ice is still blue and solid, where you can walk in crampons across a frozen landscape that seems to belong to another era entirely.
+
+## The Pancake Rocks
+
+At Punakaiki, the limestone has been carved into formations that look like stacks of pancakes - horizontal layers weathered by rain and sea spray into something surreal and almost edible-looking. The Pancake Rocks are the Coast's most photographed attraction, a short boardwalk loop past blowholes that send spray roaring upward when the tide and swell align.
+
+The formations are 30 million years old, created when marine organisms died and compressed into limestone, then carved by eons of weathering into their current layered appearance. At high tide with a heavy sea, the blowholes put on a show that draws crowds despite the spray that soaks the boardwalks. At low tide or calm seas, the rocks are merely strange and beautiful. Either way, the coastline stretching away to the south is dramatic - cliffs and headlands disappearing into the haze, the Tasman Sea showing its teeth against the rock.
+
+## The Coasters
+
+Living on the West Coast takes a particular temperament. The rain is legendary - some areas receive over 5,000mm annually, making the Coast one of the wettest inhabited places on Earth. The isolation is real - Christchurch is hours away over mountain passes, and the Coast has no cities of its own, just Greymouth with 10,000 residents and smaller settlements strung along the highway. Cell phone coverage vanishes between towns. Help, if you need it, might wear whatever uniform happens to be available.
+
+The Coasters who remain are fiercely independent, shaped by generations of mining, logging, and farming on marginal land. Hokitika once had over 100 pubs during the gold rush; now the entire region might have a fraction of that. The breweries in Westport and Greymouth carry on the tradition, but the Coast's isolation has bred resilience rather than consumption. The annual Wild Foods Festival in Hokitika celebrates the local cuisine, which includes possum pies and whitebait fritters - the tiny transparent fish that Coasters catch in the river mouths and fry whole into patties.
+
+## The Mirror Lake
+
+Lake Matheson lies near Fox Glacier, and on still mornings it performs its famous trick: the surface becomes so calm that it reflects Aoraki/Mount Cook and Mount Tasman with perfect clarity, a mirror image of New Zealand's highest peaks. The effect requires specific conditions - no wind, clear skies, ideally dawn or dusk light - but when it works, the photographs are extraordinary.
+
+The lake is 'blackwater' - stained dark brown by organic material from the surrounding rainforest - which paradoxically makes its reflections clearer and more dramatic. A walking trail circuits the lake through kahikatea forest, past viewing platforms positioned for the best reflective views. The mountains rise 30 kilometers away, across the coastal plain and up into the ice field, but in the mirror they seem close enough to touch. Visitors come from around the world for this view, timing their visits to the stillest part of the stillest possible day.
+
+## The Old and New Frontier
+
+The West Coast was gold country in the 1860s, coal country for a century after, timber country throughout. The remains of that exploitation are everywhere: rusting equipment in the bush, rail grades carved into hillsides, ghost towns where only foundations remain. Denniston's incline - a near-vertical coal railway - is now a heritage site where visitors marvel at the engineering required to move coal down cliffs in an era before trucks. Shantytown, a reconstructed gold mining town near Greymouth, lets tourists pan for gold and ride a steam train through what's left of the mining landscape.
+
+But the new frontier is conservation. Much of the Coast is now protected in national parks and reserves - Paparoa, Westland Tai Poutini, portions of Kahurangi. The forests are regrowing where logging once cleared them. The wildlife is returning as stoat and possum trapping intensifies. The Coast that was once exploited is now conserved, though the tension between development and preservation hasn't entirely faded. Some Coasters resent the 'greenies' who locked up the land. Others see tourism as the future, the glaciers and forests and wild coast as resources more valuable alive than extracted. Both groups are probably right about something.
+
+## Flight Context
+
+The West Coast stretches 600km along New Zealand's South Island western coast, roughly 42°S to 44°S latitude. The region is squeezed between the Tasman Sea and the Southern Alps - from altitude, look for the dramatic transition from coast to mountains with almost no intermediate terrain. Key landmarks: Franz Josef and Fox Glaciers descending from the Main Divide (visible as white tongues extending toward green rainforest), Pancake Rocks at Punakaiki (distinctive coastal rock formations), and the scattered small towns along Highway 6. Hokitika (HKK) has the region's only commercial airport with daily flights to Christchurch. Greymouth is the largest town (visible as the main urban concentration on Grey River mouth). Westport serves the northern section. The region receives extreme rainfall (5,000mm+ annually in places) - expect frequent cloud, limited visibility, and rapidly changing conditions. Arthur's Pass and Haast Pass are the only road connections to the east; both close in severe weather. The coast is remote - fuel and services are limited between settlements.
+
+## Sources
+
+- [West Coast (New Zealand) - Wikivoyage](https://en.wikivoyage.org/?curid=38882)
+- [West Coast, New Zealand - Wikipedia](https://en.wikipedia.org/wiki/West_Coast,_New_Zealand)
+  - 33,000 population
+  - 600km coastline
+  - Franz Josef and Fox glaciers
+
+## Review Notes
+
+**Reviewed:** 2026-01-16 · 5 facts verified
+
+No factual issues found
+
+**Spiciness:** 1/5
+
+**Strong opinions:**
+
+- New Zealand's last frontier
+- The sandflies bite and the rain falls and the Coasters wouldn't live anywhere else
+
+---
+
+*Word count: 900*
+*Read time: 5 minutes*

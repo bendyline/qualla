@@ -1,0 +1,60 @@
+# São Tomé Island
+
+A volcanic island sitting just two kilometers north of the equator in the Gulf of Guinea, São Tomé is a shield volcano rising from the Atlantic floor where Portuguese colonial history, endemic wildlife, and cocoa plantations coexist in miniature.
+
+**Location:** 0.2200, 6.6100
+
+**Categories:** islands, volcanoes, west-africa, biodiversity
+
+## Introduction
+
+The name means Saint Thomas in Portuguese, but what the early navigators found when they arrived in the 15th century was no holy sanctuary. It was a volcanic peak jutting from the Gulf of Guinea, uninhabited, blanketed in tropical forest, and sitting so close to the equator that the line itself crosses the tiny islet of Rolas just off its southern tip. São Tomé is the larger of the two islands that form the nation of São Tomé and Principe, home to about 193,380 people -- 96 percent of the country's entire population -- packed onto a landmass just 48 kilometers long and 32 wide.
+
+## A Volcano from the Ocean Floor
+
+The entire island is a massive shield volcano that rises from the floor of the Atlantic, built over millions of years along the Cameroon line, a chain of volcanoes extending from mainland Cameroon southwest into the ocean. Most of the lava erupted here over the past million years has been basalt. The youngest dated rock on the island is about 100,000 years old, but more recent cinder cones dot the southeastern coast, hinting that the geological story is not finished. Pico de São Tomé, the summit, reaches 2,024 meters -- a startling altitude for an island you can drive across in an hour. The peak disappears into cloud most days, its upper slopes wrapped in the primary forest of the Parque Natural Obo de São Tomé. Offshore, the dramatic volcanic needle of Pico Cão Grande rises 370 meters as a sheer phonolite spire, one of the most striking geological formations in all of Africa.
+
+## Cocoa, Coffee, and Colonial Ghosts
+
+The Portuguese colonized São Tomé in the late 1400s, transforming it into one of the world's earliest plantation economies. Sugar came first, then cocoa, coffee, copra, and palm products -- crops that still dominate the island's exports today. The old plantation estates, called roças, remain scattered across the landscape, some crumbling into the forest, others converted into community cooperatives or modest tourist lodges. These roças were built on the labor of enslaved Africans brought from the mainland, and later on contract workers whose conditions differed from slavery mostly in name. The island's population reflects these layers of forced migration: alongside Portuguese, many residents speak Forro and Angolar, two Portuguese-based creole languages that evolved in isolation on the island, each carrying the linguistic DNA of African peoples uprooted and deposited here centuries ago.
+
+## An Island of Endemics
+
+Isolation breeds uniqueness, and São Tomé delivers. The island hosts around 176 bird species, of which approximately 25 are found nowhere else on Earth. The São Tomé fiscal and the São Tomé grosbeak are both critically endangered, their entire world populations confined to patches of forest on this single island. The local subspecies of the olive ibis and the maroon pigeon are also endemic and critically imperiled. Six additional species carry vulnerable status. Beyond birds, the forests harbor endemic reptiles, insects, and plants that scientists are still describing. In 2025, UNESCO designated São Tomé as a biosphere reserve, making São Tomé and Principe the first country to achieve biosphere reserve status across its entire territory, following the earlier designation of Principe island in 2012.
+
+## Blessings and Curses Beneath the Waves
+
+Large oil reserves sit in the waters between São Tomé and Nigeria, a discovery that has generated both hope and anxiety. Some see petroleum as the path to development for one of Africa's smallest nations. Others warn that oil wealth in a country with weak institutions could destabilize the very qualities that make São Tomé distinctive -- its relative peace, its intact ecosystems, its unhurried pace. The government has drafted legislation aimed at managing oil revenues equitably over time, though whether paper safeguards can withstand the pressures of extraction remains an open question. For now, the island's economy still runs on cocoa beans drying in the sun, fishing boats returning to shore in the afternoon, and the slow cultivation of a tourism sector that remains small enough to feel personal.
+
+## The Equator at Your Feet
+
+São Tomé sits two kilometers north of the equator, a position that shapes everything from its climate to its appeal. The capital city of São Tomé occupies the northeast coast, facing Gabon 240 kilometers across the Gulf of Guinea -- the nearest mainland city is Port Gentil. Smaller islands surround the main landmass: Ilheu das Rolas to the south, where tourists stand with one foot in each hemisphere; Ilheu das Cabras and Ilheu Gabado nearby. The island is divided into six districts, each with its own character, from the busy commercial energy of Agua Grande around the capital to the remote southern forests of Caue district. A ring road connects the coastal villages, passing through communities with names like Monte Cafe, Porto Alegre, and Saudade -- the last word untranslatable from Portuguese, meaning something close to a longing for what has passed.
+
+## Flight Context
+
+Located at 0.22N, 6.61E in the Gulf of Guinea, approximately 240 km west of Gabon. São Tomé International Airport (FPST) is on the northeast coast near the capital. The island is clearly visible from cruising altitude as a dark green volcanic mass surrounded by deep blue ocean. Pico de São Tomé (2,024 m) and the dramatic needle of Pico Cão Grande are unmistakable landmarks. Principe island is visible roughly 150 km to the northeast. Best viewed at 10,000-20,000 feet to appreciate the volcanic topography and the equatorial position.
+
+## Sources
+
+- [São Tomé (island) - Wikipedia](https://en.wikipedia.org/?curid=1724243)
+  - Pico de São Tomé at 2,024 meters confirmed
+  - Island 48 km long and 32 km wide confirmed
+  - Population ~193,380 / 96% of country's population confirmed
+  - Pico Cão Grande phonolite spire ~370 meters confirmed
+  - UNESCO biosphere reserve designated September 2025 confirmed
+  - Corrected: '63 regular bird species, of which 19 are found nowhere else on Earth' → 'around 176 bird species, of which approximately 25 are endemic' (actual count per multiple ornithological sources)
+  - São Tomé fiscal and São Tomé grosbeak critically endangered confirmed
+  - Principe biosphere reserve 2012 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 7 facts verified · 1 correction
+
+Corrected major error: '63 regular bird species, 19 endemic' → 'around 176 bird species, approximately 25 endemic' (confirmed by multiple ornithological sources including Wikipedia and BirdLife); Pico de Sao Tome 2,024m confirmed; population 193,380/96% confirmed; UNESCO biosphere 2025 confirmed; Pico Cao Grande ~370m confirmed
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 815*
+*Read time: 4 minutes*

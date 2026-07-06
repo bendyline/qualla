@@ -845,5 +845,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "s17h-osun-osogbo-sacred-grove-flight-context.mp3",
+      "s17h-osun-osogbo-sacred-grove-intro.mp3",
+      "s17h-osun-osogbo-sacred-grove-the-covenant-at-the-river.mp3",
+      "s17h-osun-osogbo-sacred-grove-an-austrian-in-the-sacred-forest.mp3",
+      "s17h-osun-osogbo-sacred-grove-the-two-week-festival.mp3",
+      "s17h-osun-osogbo-sacred-grove-world-heritage-on-the-osuns-banks.mp3"
+    ],
+    "durations": {
+      "s17h-osun-osogbo-sacred-grove-flight-context.mp3": 49.8480833,
+      "s17h-osun-osogbo-sacred-grove-intro.mp3": 47.9122083,
+      "s17h-osun-osogbo-sacred-grove-the-covenant-at-the-river.mp3": 59.6280833,
+      "s17h-osun-osogbo-sacred-grove-an-austrian-in-the-sacred-forest.mp3": 73.2768333,
+      "s17h-osun-osogbo-sacred-grove-the-two-week-festival.mp3": 67.662125,
+      "s17h-osun-osogbo-sacred-grove-world-heritage-on-the-osuns-banks.mp3": 58.45175
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -181,5 +181,24 @@
     "_m/d/r/5/r/new-york-airways-wp/n617pa-sikorsky-s-61-n.jpg",
     "_m/d/r/5/r/new-york-airways-wp/crash-site-of-n619pa.jpg"
   ],
-  "updatedAt": "2026-03-30T12:59:22.646Z"
+  "updatedAt": "2026-03-30T12:59:22.646Z",
+  "narration": {
+    "files": [
+      "dr5r-new-york-airways-flight-context.mp3",
+      "dr5r-new-york-airways-intro.mp3",
+      "dr5r-new-york-airways-rotors-over-the-river.mp3",
+      "dr5r-new-york-airways-the-rooftop-era.mp3",
+      "dr5r-new-york-airways-catastrophe-on-the-rooftop.mp3",
+      "dr5r-new-york-airways-ghosts-in-the-sky.mp3"
+    ],
+    "durations": {
+      "dr5r-new-york-airways-flight-context.mp3": 51.4818333,
+      "dr5r-new-york-airways-intro.mp3": 48.83325,
+      "dr5r-new-york-airways-rotors-over-the-river.mp3": 63.9077916,
+      "dr5r-new-york-airways-the-rooftop-era.mp3": 68.6033333,
+      "dr5r-new-york-airways-catastrophe-on-the-rooftop.mp3": 64.0155416,
+      "dr5r-new-york-airways-ghosts-in-the-sky.mp3": 55.6687083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

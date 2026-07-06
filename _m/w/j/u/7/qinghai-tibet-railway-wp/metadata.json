@@ -889,5 +889,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wju7-qinghai-tibet-railway-flight-context.mp3",
+      "wju7-qinghai-tibet-railway-intro.mp3",
+      "wju7-qinghai-tibet-railway-building-on-frozen-ground.mp3",
+      "wju7-qinghai-tibet-railway-records-in-thin-air.mp3",
+      "wju7-qinghai-tibet-railway-the-view-from-the-carriage-window.mp3",
+      "wju7-qinghai-tibet-railway-contested-rails.mp3"
+    ],
+    "durations": {
+      "wju7-qinghai-tibet-railway-flight-context.mp3": 56.2124166,
+      "wju7-qinghai-tibet-railway-intro.mp3": 52.490375,
+      "wju7-qinghai-tibet-railway-building-on-frozen-ground.mp3": 77.5029583,
+      "wju7-qinghai-tibet-railway-records-in-thin-air.mp3": 72.0290416,
+      "wju7-qinghai-tibet-railway-the-view-from-the-carriage-window.mp3": 61.819125,
+      "wju7-qinghai-tibet-railway-contested-rails.mp3": 65.9060416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

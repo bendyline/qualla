@@ -1,0 +1,58 @@
+# Savary Island
+
+A tiny island in the Strait of Georgia where the Tla'amin people saw a double-headed serpent, where a frontier murder sparked a multinational manhunt, and where artists have gathered for over a century to paint the light.
+
+**Location:** 49.9406, -124.8172
+
+**Categories:** islands, indigenous-history, art-culture, coastal
+
+## Introduction
+
+In the Ayajuthem language of the Tla'amin people, this island has two names. The first is Ihohs, meaning "double-headed serpent." The second is Kayaykwon, an allusion to the three freshwater springs that sustain life on what is essentially a ribbon of glacial sand adrift in the northern Strait of Georgia. Both names capture something essential about Savary Island: it is a place of duality, of fresh water emerging from salt surroundings, of wildness persisting within reach of civilization. Just 7.5 kilometers long and barely a kilometer wide, Savary shelters roughly a hundred year-round residents while swelling to two thousand in summer, when seaplanes buzz the Friday evening sky and water taxis shuttle passengers from the nearby hamlet of Lund.
+
+## The Serpent's Back
+
+The Tla'amin have known this island for over four thousand years. Archaeological evidence across more than thirteen registered sites documents millennia of Coast Salish habitation, from a large settlement along the eastern shore to a signal station perched on the island's highest crest. Every feature carries a name in Ayajuthem: the western tip is Thetik, meaning "broken off." The meadows are T'it'may, "wild cherry trees." The spring at Beacon Point is Xixajayis. When European ships arrived in June 1792, the Spanish vessels Sutil and Mexicana sailing alongside George Vancouver's Discovery and Chatham, the island was already a landscape written in language. Vancouver gave it a colonial name on June 25, but Peter Puget, who actually camped ashore and met Indigenous people at the eastern end, called it simply "Indian Island." The Tla'amin name endured longer than Puget's. In the 1960s, ancestral remains found on Savary were taken to UBC's Laboratory of Archaeology. They were returned to the Tla'amin in a repatriation ceremony in June 2006, forty years overdue.
+
+## Murder at the Edge of the Map
+
+Jack Green arrived around 1886, the first non-Indigenous permanent resident, building a cabin and store on the point that bore his name. For a few years, Savary's tiny European settlement operated in the manner of remote frontier outposts everywhere: quietly, and mostly on trust. That ended around 1893, when Green and his business partner Taylor were murdered during a store robbery. The killer, Hugh Lynn of the Lynn Valley clan, did not vanish quietly into the bush. His capture required a multi-thousand-mile, multinational pursuit that ended at the gallows. Hotels followed the homesteaders. "The Savary" opened near the Government Wharf in 1914 and burned in 1932. The Ashworth family's Royal Savary Hotel stood at the opposite end of the island until it was demolished in 1982. Between them, steamships from Union and Gulf lines delivered visitors until service ended in the 1940s and 1950s. An airstrip briefly operated but was closed after two children were killed in an ATV accident on the runway. Today, seaplanes and water taxis from Lund remain the primary connections to the outside world.
+
+## Sand Dunes and Arbutus Groves
+
+Savary is geology in motion. Composed almost entirely of glacial till, marine clay, and sand deposited by Pleistocene meltwater over twenty thousand years ago, the island has no bedrock except at its eastern tip around Mace Point. Without external sediment sources, erosion and accretion continuously reshape the shoreline. As one geological study put it, "the Island will continue to cannibalize its south coast." Sitting in Vancouver Island's rain shadow, Savary receives less precipitation than much of the BC coast, creating conditions unusual for this latitude. A tiny population of Garry oak survives at the eastern end, the northernmost natural occurrence of this species along the coast. One of the largest arbutus trees in the world reportedly grows here, surrounded by groves of Douglas-fir, western red cedar, and bigleaf maple. The absence of raccoons, which never established themselves on the island, has allowed ground-nesting birds to thrive in a way that mainland populations cannot.
+
+## An Island of Light and Paint
+
+From the early 1900s, visual artists were drawn to Savary's particular quality of light. By the 1930s, the Vancouver School of Art established summer sketch camps based at the Royal Savary Hotel, where students produced a mimeographed newsletter called The Savary Pudding. Painters E. J. Hughes, Toni Onley, and Charles Hepburn Scott all worked here, capturing the interplay of arbutus bark, sand cliffs, and the shifting blues of the Strait of Georgia. Poet Alice Brewer distilled the island into verse in her 1926 chapbook Spring in Savary. The creative tradition continues. Contemporary artists working in various media have followed the path those early painters cut, finding in this sliver of sand and forest the same qualities that keep a hundred people here through winter: solitude, beauty, and the feeling of being suspended between the open water and the forested mainland, belonging fully to neither.
+
+## Flight Context
+
+Savary Island sits at 49.94N, 124.82W in the northern Strait of Georgia. From the air, it appears as a narrow sand-colored sliver roughly 7.5 km long, distinctive against the darker forested islands nearby. Best viewed at 2,000-3,000 feet AGL. Nearest airport is Powell River (CYPW), approximately 25 km southeast. The Copeland Islands chain is visible just to the northwest, with Desolation Sound beyond.
+
+## Sources
+
+- [Savary Island - Wikipedia](https://en.wikipedia.org/?curid=6225777)
+  - Tla'amin people occupied Savary Island for over 4,000 years confirmed
+  - Ayajuthem names Ihohs (double-headed serpent) and Kayaykwon (three freshwater springs) confirmed
+  - Island 7.5 km long confirmed
+  - The Savary hotel opened near Government Wharf in 1914 confirmed
+  - Royal Savary Hotel demolished in 1982 confirmed
+  - Ancestral remains returned to Tla'amin in repatriation ceremony June 2006 confirmed
+  - Artists E.J. Hughes, Toni Onley, and Charles Hepburn Scott worked here confirmed
+- [About Savary - Savary Island Tourism](https://www.savaryisland.ca/about-savary/)
+  - Garry oak at eastern end is northernmost natural occurrence along the coast confirmed
+  - Composed of glacial till and sand, no bedrock except at eastern tip confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 7 facts verified · 0 corrections
+
+All facts verified: Tla'amin 4000+ years confirmed, Ihohs and Kayaykwon names confirmed, The Savary hotel 1914 confirmed, Royal Savary Hotel demolished 1982 confirmed, repatriation ceremony June 2006 confirmed, artists Hughes/Onley/Scott confirmed. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

@@ -578,5 +578,24 @@
     "_m/s/v/8/9/israeli-air-force-museum-wp/equipment-hatzerim-3-1.jpg",
     "_m/s/v/8/9/israeli-air-force-museum-wp/equipment-hatzerim-4-1.jpg"
   ],
-  "updatedAt": "2026-03-31T11:31:44.555Z"
+  "updatedAt": "2026-03-31T11:31:44.555Z",
+  "narration": {
+    "files": [
+      "sv89-israeli-air-force-museum-flight-context.mp3",
+      "sv89-israeli-air-force-museum-intro.mp3",
+      "sv89-israeli-air-force-museum-machines-with-kill-marks.mp3",
+      "sv89-israeli-air-force-museum-spoils-and-trophies.mp3",
+      "sv89-israeli-air-force-museum-a-generals-obsession.mp3",
+      "sv89-israeli-air-force-museum-desert-airfield-living-history.mp3"
+    ],
+    "durations": {
+      "sv89-israeli-air-force-museum-flight-context.mp3": 47.685625,
+      "sv89-israeli-air-force-museum-intro.mp3": 47.4311666,
+      "sv89-israeli-air-force-museum-machines-with-kill-marks.mp3": 53.8883333,
+      "sv89-israeli-air-force-museum-spoils-and-trophies.mp3": 56.586,
+      "sv89-israeli-air-force-museum-a-generals-obsession.mp3": 69.0618333,
+      "sv89-israeli-air-force-museum-desert-airfield-living-history.mp3": 62.7784583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

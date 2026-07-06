@@ -1,0 +1,57 @@
+# Museum of Libya
+
+Once a royal palace, then a dictator's symbol, then shuttered for fourteen years, the Museum of Libya reopened in 2025 with fog-screen projections and 5,000 years of history inside its walls.
+
+**Location:** 32.8878, 13.1894
+
+**Categories:** Museums in Tripoli, Libya, Archaeological museums in Libya
+
+## Introduction
+
+Walk through a wall. Not a doorway, not an archway, but a wall of fog generated from tap water, serving as a projection screen that dissolves at your touch. This is the Museum of Libya's signature trick, and it captures something essential about the building itself: nothing here is quite what it appears to be. The structure was completed in 1939 as a royal palace. King Idris used it during his reign. After Muammar Gaddafi's 1969 revolution, it became the People's Palace. After Gaddafi's fall in 2011, it sat empty for fourteen years. In late 2025, it reopened as a museum, and Libyans lined up to walk through the fog.
+
+## A Palace That Keeps Changing Names
+
+The building's identity has shifted with each political upheaval in Libya. Completed in 1939 during the Italian colonial period, its original purpose was to project authority, the kind of grand structure that colonial powers built to convince themselves and their subjects that their presence was permanent. When Libya gained independence in 1951, King Idris claimed the building as his royal palace, and for nearly two decades it served as the seat of the monarchy. Gaddafi's coup in 1969 brought yet another renaming. The royal palace became the People's Palace, a title that carried all the irony that revolutionary nomenclature usually does. After the 2011 uprising that ended Gaddafi's rule, the building fell into disuse, closed to the public over security concerns. Each name told a different story about who owned Libya. The building outlasted all of them.
+
+## Septimius Severus Comes Home
+
+Among the museum's collections, one exhibit carries particular weight. A dedicated gallery honors the Roman emperor Septimius Severus, who was born not in Rome but in the Libyan city of Leptis Magna, about 120 kilometers east of Tripoli. Severus ruled the Roman Empire from 193 to 211 AD, the first emperor born in Africa, and his hometown became one of the most magnificent cities in the Roman world. The exhibit places Libya at the center of imperial history rather than at its margins. Alongside the Severus gallery, visitors find Greek and Roman antiquities excavated from sites across the country, Ottoman-era weapons and jewelry, and a natural history exhibition that traces Libya's story back well before human habitation. The collection spans 5,000 years, from prehistoric artifacts to the independence era of the 1950s.
+
+## Fourteen Years of Silence
+
+When the 2011 revolution toppled Gaddafi, it also closed the museum. Rebels entered the building during the conflict, and items associated with Gaddafi were damaged. But the museum staff, in a quiet act of cultural preservation, had already moved the most valuable artifacts to a secure location. Remaining Gaddafi-related items were placed in storage rather than destroyed. Then the doors shut. For fourteen years, the museum sat closed while Libya fractured into competing governments, militias carved up territory, and the country's cultural institutions became afterthoughts. The reopening in December 2025 drew coverage from Reuters, The Guardian, France 24, and Africanews, all noting that the event carried significance beyond the cultural. In a country still searching for unity, a shared museum offered something rare: a place where Libyans from all factions could stand in the same room and look at the same history.
+
+## Through the Fog
+
+The fog-screen projections that greet visitors are the museum's most visually striking feature. Generated from ordinary tap water, the fog walls serve as translucent screens for projected images and video. Visitors can walk straight through them, passing from one gallery to the next through a curtain of mist and light. It is a deliberately theatrical effect, designed by Italian firm Studio Crachi, and it accomplishes something that traditional museum design rarely attempts: it makes the boundary between past and present feel permeable. In a country where the past fourteen years have been defined by division and conflict, that permeability carries meaning. The museum does not pretend that Libya's history is simple or settled. It invites visitors to step through the haze and see what they find on the other side.
+
+## Flight Context
+
+Located at 32.89N, 13.19E in central Tripoli, south of the old medina. The museum building is a large former palace visible from moderate altitude. Nearest major airport is Mitiga International Airport (HLLM), about 8 km east. From 3,000-4,000 ft, the museum complex is identifiable near the city center. The Mediterranean coastline and old medina are prominent visual references to the north.
+
+## Sources
+
+- [Museum of Libya - Wikipedia](https://en.wikipedia.org/?curid=32852645)
+  - Building completed 1939 during Italian colonial period confirmed
+  - Used by King Idris confirmed
+  - Became People's Palace after Gaddafi's 1969 revolution confirmed
+  - Closed after 2011 uprising confirmed
+  - Reopened December 2025 confirmed
+  - Fog-screen projections from tap water confirmed
+  - Studio Crachi designed the museum confirmed
+  - Septimius Severus born at Leptis Magna confirmed
+  - 14-year closure confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 9 facts verified · 0 corrections
+
+1939 build, King Idris use, 1969 revolution renaming, closed 2011, reopened Dec 2025, fog-screen Studio Crachi, Septimius Severus exhibit all verified.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 720*
+*Read time: 4 minutes*

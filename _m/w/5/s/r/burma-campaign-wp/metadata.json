@@ -640,5 +640,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w5sr-burma-campaign-flight-context.mp3",
+      "w5sr-burma-campaign-intro.mp3",
+      "w5sr-burma-campaign-the-fall-and-the-forgotten.mp3",
+      "w5sr-burma-campaign-learning-to-fight-in-the-jungle.mp3",
+      "w5sr-burma-campaign-the-tide-turns-at-imphal-and-kohima.mp3",
+      "w5sr-burma-campaign-the-race-for-rangoon.mp3",
+      "w5sr-burma-campaign-a-legacy-written-in-the-jungle.mp3"
+    ],
+    "durations": {
+      "w5sr-burma-campaign-flight-context.mp3": 55.0107916,
+      "w5sr-burma-campaign-intro.mp3": 44.4217916,
+      "w5sr-burma-campaign-the-fall-and-the-forgotten.mp3": 61.2425416,
+      "w5sr-burma-campaign-learning-to-fight-in-the-jungle.mp3": 66.3390833,
+      "w5sr-burma-campaign-the-tide-turns-at-imphal-and-kohima.mp3": 75.1417083,
+      "w5sr-burma-campaign-the-race-for-rangoon.mp3": 76.2522083,
+      "w5sr-burma-campaign-a-legacy-written-in-the-jungle.mp3": 60.19625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

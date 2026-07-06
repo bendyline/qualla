@@ -57,5 +57,24 @@
     "sourceGeohash4": "dr4z"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "dr4z-far-hills-races-flight-context.mp3",
+      "dr4z-far-hills-races-intro.mp3",
+      "dr4z-far-hills-races-a-century-over-the-fences.mp3",
+      "dr4z-far-hills-races-the-tailgate-as-art-form.mp3",
+      "dr4z-far-hills-races-racing-for-a-cause.mp3",
+      "dr4z-far-hills-races-the-somerset-hills-stage.mp3"
+    ],
+    "durations": {
+      "dr4z-far-hills-races-flight-context.mp3": 40.5916666,
+      "dr4z-far-hills-races-intro.mp3": 39.854375,
+      "dr4z-far-hills-races-a-century-over-the-fences.mp3": 76.5789166,
+      "dr4z-far-hills-races-the-tailgate-as-art-form.mp3": 65.7299166,
+      "dr4z-far-hills-races-racing-for-a-cause.mp3": 56.107,
+      "dr4z-far-hills-races-the-somerset-hills-stage.mp3": 54.8727083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

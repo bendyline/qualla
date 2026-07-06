@@ -708,5 +708,26 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sv94-masada-flight-context.mp3",
+      "sv94-masada-intro.mp3",
+      "sv94-masada-herods-desert-refuge.mp3",
+      "sv94-masada-the-last-holdout.mp3",
+      "sv94-masada-what-josephus-wrote-and-what-scholars-question.mp3",
+      "sv94-masada-a-symbol-remade.mp3",
+      "sv94-masada-the-plateau-today.mp3"
+    ],
+    "durations": {
+      "sv94-masada-flight-context.mp3": 47.651,
+      "sv94-masada-intro.mp3": 39.81575,
+      "sv94-masada-herods-desert-refuge.mp3": 64.9679166,
+      "sv94-masada-the-last-holdout.mp3": 78.2390416,
+      "sv94-masada-what-josephus-wrote-and-what-scholars-question.mp3": 67.4219583,
+      "sv94-masada-a-symbol-remade.mp3": 75.898625,
+      "sv94-masada-the-plateau-today.mp3": 67.0263333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

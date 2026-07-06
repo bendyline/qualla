@@ -55,5 +55,24 @@
     "sourceGeohash4": "sb0z"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sb0z-kapenguria-flight-context.mp3",
+      "sb0z-kapenguria-intro.mp3",
+      "sb0z-kapenguria-the-trial-that-named-a-movement.mp3",
+      "sb0z-kapenguria-where-runners-make-peace.mp3",
+      "sb0z-kapenguria-capital-of-the-pokot-frontier.mp3",
+      "sb0z-kapenguria-the-weight-of-a-name.mp3"
+    ],
+    "durations": {
+      "sb0z-kapenguria-flight-context.mp3": 42.963625,
+      "sb0z-kapenguria-intro.mp3": 43.21425,
+      "sb0z-kapenguria-the-trial-that-named-a-movement.mp3": 69.9715,
+      "sb0z-kapenguria-where-runners-make-peace.mp3": 61.2727083,
+      "sb0z-kapenguria-capital-of-the-pokot-frontier.mp3": 58.2147916,
+      "sb0z-kapenguria-the-weight-of-a-name.mp3": 62.0464583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

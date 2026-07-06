@@ -162,5 +162,24 @@
     "_m/g/c/n/n/tintern-wp/tintern-village.jpg",
     "_m/g/c/n/n/tintern-wp/tintern-abbey-exterior-monmout.jpg"
   ],
-  "updatedAt": "2026-03-20T02:25:08.555Z"
+  "updatedAt": "2026-03-20T02:25:08.555Z",
+  "narration": {
+    "files": [
+      "gcnn-tintern-flight-context.mp3",
+      "gcnn-tintern-intro.mp3",
+      "gcnn-tintern-king-tewdrigs-ford.mp3",
+      "gcnn-tintern-the-abbey.mp3",
+      "gcnn-tintern-wire-forges-and-a-hidden-tunnel.mp3",
+      "gcnn-tintern-picturesque-to-the-present.mp3"
+    ],
+    "durations": {
+      "gcnn-tintern-flight-context.mp3": 51.9820416,
+      "gcnn-tintern-intro.mp3": 60.1825833,
+      "gcnn-tintern-king-tewdrigs-ford.mp3": 57.4777916,
+      "gcnn-tintern-the-abbey.mp3": 63.2007083,
+      "gcnn-tintern-wire-forges-and-a-hidden-tunnel.mp3": 79.5005416,
+      "gcnn-tintern-picturesque-to-the-present.mp3": 74.17775
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

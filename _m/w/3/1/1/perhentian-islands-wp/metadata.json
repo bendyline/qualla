@@ -569,5 +569,24 @@
     "_m/w/3/1/1/perhentian-islands-wp/afternoon-scenery-of-perhentia.jpg",
     "_m/w/3/1/1/perhentian-islands-wp/jewel-of-island-in-terengganu.jpg"
   ],
-  "updatedAt": "2026-04-01T11:40:17.998Z"
+  "updatedAt": "2026-04-01T11:40:17.998Z",
+  "narration": {
+    "files": [
+      "w311-perhentian-islands-flight-context.mp3",
+      "w311-perhentian-islands-intro.mp3",
+      "w311-perhentian-islands-two-islands-two-personalities.mp3",
+      "w311-perhentian-islands-beneath-the-surface.mp3",
+      "w311-perhentian-islands-refuge-and-arrival.mp3",
+      "w311-perhentian-islands-paradise-under-pressure.mp3"
+    ],
+    "durations": {
+      "w311-perhentian-islands-flight-context.mp3": 37.498625,
+      "w311-perhentian-islands-intro.mp3": 42.6359583,
+      "w311-perhentian-islands-two-islands-two-personalities.mp3": 60.5699583,
+      "w311-perhentian-islands-beneath-the-surface.mp3": 63.3701666,
+      "w311-perhentian-islands-refuge-and-arrival.mp3": 45.3193333,
+      "w311-perhentian-islands-paradise-under-pressure.mp3": 58.639125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

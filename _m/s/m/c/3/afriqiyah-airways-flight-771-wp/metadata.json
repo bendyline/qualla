@@ -110,5 +110,26 @@
     "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png",
     "_m/s/m/c/3/afriqiyah-airways-flight-771-wp/vliegtuigcrash-tripoli.jpg"
   ],
-  "updatedAt": "2026-03-31T06:24:49.460Z"
+  "updatedAt": "2026-03-31T06:24:49.460Z",
+  "narration": {
+    "files": [
+      "smc3-afriqiyah-airways-flight-771-flight-context.mp3",
+      "smc3-afriqiyah-airways-flight-771-intro.mp3",
+      "smc3-afriqiyah-airways-flight-771-a-long-nights-final-minutes.mp3",
+      "smc3-afriqiyah-airways-flight-771-the-black-hole.mp3",
+      "smc3-afriqiyah-airways-flight-771-grief-across-continents.mp3",
+      "smc3-afriqiyah-airways-flight-771-the-boy-who-survived.mp3",
+      "smc3-afriqiyah-airways-flight-771-what-the-wreckage-revealed.mp3"
+    ],
+    "durations": {
+      "smc3-afriqiyah-airways-flight-771-flight-context.mp3": 42.3804583,
+      "smc3-afriqiyah-airways-flight-771-intro.mp3": 52.1112083,
+      "smc3-afriqiyah-airways-flight-771-a-long-nights-final-minutes.mp3": 56.561875,
+      "smc3-afriqiyah-airways-flight-771-the-black-hole.mp3": 55.6302916,
+      "smc3-afriqiyah-airways-flight-771-grief-across-continents.mp3": 54.0627083,
+      "smc3-afriqiyah-airways-flight-771-the-boy-who-survived.mp3": 55.9299166,
+      "smc3-afriqiyah-airways-flight-771-what-the-wreckage-revealed.mp3": 59.3435
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

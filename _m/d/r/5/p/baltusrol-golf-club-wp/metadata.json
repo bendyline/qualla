@@ -118,5 +118,24 @@
   "galleryPaths": [
     "_m/d/r/5/p/baltusrol-golf-club-wp/baltusrol-golf-club-pg.jpg",
     "_m/9/y/u/y/harry-s-truman-national-historic-site-wp/hero.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr5p-baltusrol-golf-club-flight-context.mp3",
+      "dr5p-baltusrol-golf-club-intro.mp3",
+      "dr5p-baltusrol-golf-club-louis-kellers-five-hundred-acres.mp3",
+      "dr5p-baltusrol-golf-club-two-courses-two-geologies.mp3",
+      "dr5p-baltusrol-golf-club-a-stage-for-champions.mp3",
+      "dr5p-baltusrol-golf-club-refined-but-not-reinvented.mp3"
+    ],
+    "durations": {
+      "dr5p-baltusrol-golf-club-flight-context.mp3": 50.4064166,
+      "dr5p-baltusrol-golf-club-intro.mp3": 53.4884583,
+      "dr5p-baltusrol-golf-club-louis-kellers-five-hundred-acres.mp3": 57.8891666,
+      "dr5p-baltusrol-golf-club-two-courses-two-geologies.mp3": 51.5648333,
+      "dr5p-baltusrol-golf-club-a-stage-for-champions.mp3": 62.0540416,
+      "dr5p-baltusrol-golf-club-refined-but-not-reinvented.mp3": 64.187125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

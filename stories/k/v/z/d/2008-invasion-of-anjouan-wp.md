@@ -1,0 +1,59 @@
+# 2008 Invasion of Anjouan
+
+An African Union amphibious assault on the Comoran island of Anjouan to depose a renegade colonel who declared independence after a disputed election -- dubbed the strangest invasion in history.
+
+**Location:** -12.2500, 44.4170
+
+**Categories:** military history, African Union, Comoros, political crisis, amphibious assault
+
+## Introduction
+
+Before the telephone lines were cut on the night of March 24, 2008, an Anjouan government spokesperson managed one last defiant statement to the outside world: "They have decided to kill but we are not afraid. We are well prepared. Our forces are ready and it's going to work!" By dawn, the island's capital, airport, seaport, and second city had all fallen. The Comoros -- a nation that had already endured more than 20 coups since independence -- had just mounted its own invasion, backed by an unlikely coalition of African Union forces, to reclaim one of its own islands from a colonel who refused to leave power.
+
+## The Colonel Who Printed His Own Ballots
+
+Mohamed Bacar was a military officer who had seized control of Anjouan, one of three islands in the Comoros archipelago. When the federal government delayed elections on Anjouan due to alleged irregularities and voter intimidation, Bacar took matters into his own hands: he printed ballots, held his own election in June 2007, and claimed a landslide victory with 90 percent of the vote. By July, he declared Anjouan independent from the union entirely. The African Union refused to recognize the result. The Comoran federal government, led by President Ahmed Abdallah Mohamed Sambi, called for Bacar's removal. In an archipelago where secessionism had been a recurring crisis since 1975 -- Anjouan and Moheli had both declared independence in 1997 -- this was not abstract politics. It was a question of whether the Comoros would hold together at all.
+
+## Assembling on Moheli
+
+In March 2008, the invasion force gathered on Moheli, the small island nearest to Anjouan. Hundreds of Comoran government troops assembled alongside African Union contingents: 750 soldiers from Sudan and Senegal, with 500 Tanzanian troops expected soon after. Libya provided logistical support. France, the former colonial power, airlifted AU troops to the staging area, transporting 300 Tanzanian soldiers and 30 tons of freight to Grande Comore between March 14 and 16. The buildup did not go smoothly. On March 3, a fuel ship supplying the Comoran army caught fire in Moroni's port under mysterious circumstances. On March 14, a premature incursion -- a fishing boat carrying roughly 50 Comoran soldiers -- landed in southern Anjouan and attempted to capture a police station in the town of Domoni. The operation went badly, with conflicting reports of casualties on both sides, and the troops retreated to Moheli.
+
+## A French Helicopter in the Wrong Place
+
+France's role became murkier on March 19, when a French police helicopter from nearby Mayotte -- a Comoran island still under French administration -- crashed into the sea near the city of Sima on Anjouan. The helicopter was on what officials called an unauthorized, clandestine mission. Critics alleged it was attempting to extract Bacar into French exile, and that the colonel had been holding out precisely because he believed France would protect him. The Comoran government spokesman, Lieutenant-Colonel Salimou Mohamed Amiri, condemned the incident. France maintained it was favorable to dialogue, but only if Bacar accepted African troops at Anjouan's port and airport. Behind the diplomatic language, the lines were tangling: South African President Thabo Mbeki had phoned AU chair Jakaya Kikwete on March 14 trying to stall the operation, while France quietly continued airlifting the very troops that would carry it out.
+
+## Dawn Assault
+
+On the morning of March 24, five boats carrying approximately 1,500 AU soldiers departed from Fomboni, Moheli's capital. The runway at Ouani Airport near the Anjouan capital of Mutsamudu had been blocked with baggage trolleys. At dawn on March 25, about 450 troops landed on the north side of Anjouan Bay. The first shots rang out around 5 a.m. near Ouani, close to the airport and the presidential residence. The combined forces secured the airfield quickly, then split: one column pushed southwest toward the capital Mutsamudu to engage Bacar loyalists, while the other moved southeast, capturing the port of Bambao M'Sanga and the second city of Domoni without resistance. The BBC reported that the local population greeted the invaders with jubilation.
+
+## Escape to Mayotte
+
+Bacar fled Anjouan by speedboat on March 26, reaching Mayotte, where he requested political asylum from France. The irony was acute: the man accused of tearing the Comoros apart sought refuge on the one Comoran island that France had never let go. He was moved to Reunion, charged with illegally entering French territory while carrying weapons, and held alongside 23 of his followers. By month's end, prominent supporters had been arrested across Anjouan, including a former vice-president, two former prime ministers, and a former president of the Constitutional Court. France rejected Bacar's asylum request on May 15, though the refugee office ruled he could not be extradited to the Comoros due to risk of persecution. Presidential elections followed in June 2008, won by Moussa Toybou. One journalist called it "the strangest invasion in history" -- a nation invading itself, with the help of half a continent, to bring a single island back into the fold.
+
+## Flight Context
+
+Anjouan island located at 12.25S, 44.42E, the easternmost of the three main Comoran islands. Ouani Airport (FMCV) on the northwest coast was the primary military objective of the invasion. Mutsamudu, the island capital, sits on the western coast. Moheli (staging area for the invasion) lies approximately 40 km to the west. Mayotte (French-administered, where Bacar fled) is visible to the southeast. From 8,000-12,000 feet, the proximity of Moheli to Anjouan -- and the narrow channel the invasion force crossed -- is clearly apparent. Grande Comore with FMCH airport lies further northwest.
+
+## Sources
+
+- [2008 invasion of Anjouan - Wikipedia](https://en.wikipedia.org/?curid=16256457)
+  - Operation Democracy name confirmed
+  - Invasion date March 25 2008 confirmed
+  - Sudan and Senegal AU forces confirmed
+  - Bacar fled to Mayotte by speedboat confirmed
+  - France airlifted 300 Tanzanian soldiers March 14-16 confirmed
+  - Bacar asylum rejected May 15 confirmed
+  - Moussa Toybou won June 2008 elections confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 7 facts verified · 0 corrections
+
+Verified operation date, AU force composition, Bacar flight to Mayotte, France airlift details, asylum rejection. No factual errors found. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

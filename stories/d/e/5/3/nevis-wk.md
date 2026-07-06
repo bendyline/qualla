@@ -1,0 +1,56 @@
+# Nevis
+
+A quiet volcanic island where Alexander Hamilton was born, Horatio Nelson married, and the ruins of sugar plantations built on enslaved labor still punctuate a landscape that has outlived the empire that exploited it.
+
+**Location:** 17.1500, -62.5833
+
+**Categories:** Caribbean islands, Saint Kitts and Nevis, Colonial history, Volcanic islands, Leeward Islands
+
+## Introduction
+
+Alexander Hamilton was born here in 1755 or 1757 -- even the year is uncertain, because detailed records of births on a small Caribbean island were not a priority of the British colonial administration. What is certain is that the boy who would become America's first Treasury Secretary grew up on an island whose entire economy rested on the labor of enslaved people grinding sugarcane in conical stone mills. Nevis, the smaller half of the Federation of Saint Kitts and Nevis, is only 36 square miles of dormant volcano and coastal plain, separated from its sister island by a two-mile channel called The Narrows. It became independent from Britain in 1983, but the ruins of its plantation past are everywhere -- in the crumbling estate walls, in the restored mills, and in the island's complicated relationship with the wealth that was extracted from this soil.
+
+## A Volcano Wrapped in Sugar
+
+Nevis is almost circular in outline, dominated by Nevis Peak, a dormant volcano so steep that it was never cleared for farming. The peak gave the island its name: when Columbus sighted it in 1493, the cloud cover reminded someone of snow, and it became "Nuestra Senora de las Nieves" -- Our Lady of the Snows. Below the peak, the island divides into five pie-slice parishes that all converge at the summit: Saint George Gingerland, Saint James Windward, Saint John Figtree, Saint Paul Charlestown, and Saint Thomas Lowland. During the seventeenth, eighteenth, and nineteenth centuries, virtually every less-steep acre of Nevis was cleared of natural vegetation and turned into sugar plantations. The conical ruins of the grinding mills are still scattered across the landscape, stone monuments to an industry that enriched European planters through the forced labor of thousands of enslaved Africans.
+
+## Hamilton, Nelson, and the Plantation Economy
+
+Two famous names are stamped on Nevis. Hamilton, born in Charlestown to an unmarried mother, left the island as a teenager and never returned. His birthplace is now a museum operated by the Nevis Historical and Conservation Society. Horatio Nelson arrived under different circumstances: stationed on Nevis as a young Royal Navy captain, he met and married Fanny Nisbet, a plantation widow. The Nelson Museum chronicled this period until its closure in 2019. Both men's stories are entangled with the plantation system that defined life here. The sugar economy that supported Fanny Nisbet's family, that shaped the island Hamilton fled, depended entirely on enslaved labor. By the early twentieth century, the sugar industry was collapsing, and eventually every mill on the island closed. What the plantation owners left behind -- the ruins, the churches, the Georgian stone buildings of Charlestown with their breezy balconies and wooden upper floors -- became the architectural heritage the island now preserves.
+
+## Island Time, Unrushed
+
+Modern Nevis has resisted the commercial development that transformed larger Caribbean islands. It remains quiet, safe, and unhurried in ways that can surprise visitors accustomed to resort-driven tourism. Buses are privately owned vans with green license plates starting with the letter H; you flag one down on the main road with a downward wave and pay a dollar or two to ride anywhere along its circuit. Restaurants close between meals and shut down early at night. Service is slow by mainland standards -- locals expect patience, not complaints. Cursing in public is against the law. Nevisians who do not work in tourism tend toward shyness, but a greeting of "good morning" or "good afternoon" to everyone you pass is expected and warmly received. The island has one of the highest literacy rates in the world, and education and religion anchor daily life.
+
+## Monkeys, Mountains, and the Living Coast
+
+Hundreds of green vervet monkey troupes sleep in the forests of Nevis Peak and forage through farms and gardens at dawn and dusk, their olive-green fur blending so perfectly with the vegetation that a motionless monkey is nearly invisible. Locals consider them pests; tourists find them delightful. Pinney's Beach on the Caribbean side stretches several miles of sand past the Four Seasons Resort and a string of beach bars, while Oualie Beach to the north offers sheltered, calm water and a scuba center. The hike to the summit of Nevis Peak is a challenging climb, often shrouded in cloud, but on clear days the views encompass the entire island chain. At the Hermitage Plantation in Saint John parish, a building constructed of lignum vitae wood in 1640 still stands -- the oldest surviving wooden structure in active use in the Caribbean, three and a half centuries of tropical weather absorbed into its dense, iron-hard grain.
+
+## Flight Context
+
+Nevis is centered approximately at 17.150N, 62.583W in the Leeward Islands of the Caribbean. From the air, the island is unmistakable: an almost perfectly round volcanic cone (Nevis Peak, 3,232 feet) rising from the sea, separated from the larger, more elongated St. Kitts by the two-mile-wide channel called The Narrows. Charlestown, the capital, is visible as a small port town on the western coast. Pinney's Beach runs along the Caribbean side northwest of town. Nearest airport: Vance W. Amory International Airport (TKPN) on the north end of Nevis, with a short runway suitable for small aircraft. Robert L. Bradshaw International Airport (TKPK) on St. Kitts handles larger jets, approximately 10nm northwest. Recommended viewing altitude: 4,000-6,000 feet for the full island panorama.
+
+## Sources
+
+- [Nevis - Wikivoyage](https://en.wikivoyage.org/?curid=24187)
+- [Wikipedia - Alexander Hamilton birth year controversy](https://constitutioncenter.org/blog/happy-birthday-alexander-hamilton-but-what-year-were-you-born)
+  - Hamilton birth year 1755 or 1757 uncertainty confirmed; article correctly notes the ambiguity
+  - Nevis Peak height 3,232 feet (985 meters) confirmed
+  - Nevis 36 square miles confirmed
+  - Independence from Britain 1983 confirmed
+  - Columbus sighted 1493 confirmed
+  - Nelson married Fanny Nisbet on Nevis confirmed
+  - Nelson Museum closed 2019 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-12 · 7 facts verified · 0 corrections
+
+All facts verified: Hamilton birth year ambiguity correctly noted, Nevis Peak 3232 ft confirmed, independence 1983 confirmed, Nelson Museum closed 2019 confirmed. No corrections needed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

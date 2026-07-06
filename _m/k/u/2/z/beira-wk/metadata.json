@@ -428,6 +428,58 @@
       "sourceArticleId": "beira-wk",
       "sourceGeohash4": "ku2z",
       "smallPath": "_m/k/u/2/z/beira-wk/etiqueta-beira-interior-doc-small.webp"
+    },
+    {
+      "filename": "Sé da Beira.jpg",
+      "title": "File:Sé da Beira.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/S%C3%A9_da_Beira.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:S%C3%A9_da_Beira.jpg",
+      "width": 1843,
+      "height": 2764,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Rosino",
+      "description": "Beira Cathedral, Beira, Moçambique",
+      "dateCreated": "2009-08-15 15:00",
+      "categories": [
+        "2009 photographs of Mozambique",
+        "Beira in the 2000s",
+        "CC-BY-SA-2.0",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Rosino",
+        "Saint Mary churches in Mozambique",
+        "Sé da Beira",
+        "Taken with Nikon D50"
+      ],
+      "sourceType": "sibling",
+      "sourceArticleId": "beira-wk",
+      "sourceGeohash4": "ku2z"
+    },
+    {
+      "filename": "Bahnhof in Beira (6207008226).jpg",
+      "title": "File:Bahnhof in Beira (6207008226).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bahnhof_in_Beira_%286207008226%29.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Bahnhof_in_Beira_(6207008226).jpg",
+      "width": 2816,
+      "height": 2112,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Christian Spannagel",
+      "description": "Beira train station, Mozambique",
+      "dateCreated": "2011-09-24 16:48",
+      "categories": [
+        "2011 in Mozambique",
+        "Beira train station",
+        "CC-BY-SA-2.0",
+        "Files from cspannagel Flickr stream",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "sourceType": "sibling",
+      "sourceArticleId": "beira-wk",
+      "sourceGeohash4": "ku2z"
     }
   ],
   "galleryPaths": [
@@ -445,7 +497,30 @@
     "_m/k/u/2/z/beira-wk/vergilbte-gaswerbung-236040732.jpg",
     "_m/k/u/2/z/beira-wk/ciclone-mozambico-40597512083.jpg",
     "_m/k/u/2/z/beira-wk/2023-09-13-bristol-twin-towns-.jpg",
-    "_m/k/u/2/z/beira-wk/etiqueta-beira-interior-doc.jpg"
+    "_m/k/u/2/z/beira-wk/etiqueta-beira-interior-doc.jpg",
+    "_m/k/u/2/z/beira-wk/se-da-beira.jpg",
+    "_m/k/u/2/z/beira-wk/bahnhof-in-beira-6207008226.jpg"
   ],
-  "updatedAt": "2026-03-30T18:59:33.198Z"
+  "updatedAt": "2026-06-27T21:32:45.926Z",
+  "narration": {
+    "files": [
+      "ku2z-beira-flight-context.mp3",
+      "ku2z-beira-intro.mp3",
+      "ku2z-beira-a-playground-between-empires.mp3",
+      "ku2z-beira-scars-and-resilience.mp3",
+      "ku2z-beira-life-on-the-indian-ocean.mp3",
+      "ku2z-beira-the-rail-lines-return.mp3",
+      "ku2z-beira-still-standing.mp3"
+    ],
+    "durations": {
+      "ku2z-beira-flight-context.mp3": 37.76675,
+      "ku2z-beira-intro.mp3": 43.9934583,
+      "ku2z-beira-a-playground-between-empires.mp3": 60.2587916,
+      "ku2z-beira-scars-and-resilience.mp3": 58.3480833,
+      "ku2z-beira-life-on-the-indian-ocean.mp3": 49.0845416,
+      "ku2z-beira-the-rail-lines-return.mp3": 50.8755833,
+      "ku2z-beira-still-standing.mp3": 45.024375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

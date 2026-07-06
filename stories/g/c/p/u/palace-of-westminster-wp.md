@@ -1,0 +1,69 @@
+# Palace of Westminster
+
+The seat of the British Parliament since the thirteenth century, rebuilt in Gothic Revival splendour after an 1834 fire, and crowned by the iconic Elizabeth Tower and its Great Bell, Big Ben.
+
+**Location:** 51.4995, -0.1248
+
+**Categories:** parliament, government, architecture, london, gothic-revival
+
+## Introduction
+
+On the evening of 16 October 1834, two workmen were ordered to burn a heap of wooden tally sticks in a furnace beneath the House of Lords. The tally sticks, notched pieces of wood used as accounting records since the Middle Ages, had been redundant for decades but nobody had bothered to dispose of them. The resulting blaze consumed nearly the entire Palace of Westminster. What rose from the ashes over the next thirty years was one of the most recognizable buildings on Earth and a defining monument of the Gothic Revival.
+
+## A Thousand Years on the Thames
+
+Long before it housed Parliament, the site served as a royal residence. The palace dates to the reign of Canute the Great in the early eleventh century, and Edward the Confessor made it his principal residence when he moved the court from Winchester to London. William the Conqueror held court here after 1066, and his son William Rufus built Westminster Hall in 1097, a vast great hall that survives to this day. For centuries, the Palace of Westminster was both the seat of government and a functioning royal palace, but after Henry VIII acquired Whitehall Palace in 1530, the monarch's residence moved elsewhere, leaving Westminster to Parliament. By 1834, the sprawling complex had grown into a labyrinth of medieval, Tudor, and Georgian additions, much of it cramped and fire-prone.
+
+## Barry, Pugin, and the Gothic Dream
+
+The competition to rebuild the palace stipulated that the design must be in either the Gothic or Elizabethan style, a deliberate statement of national identity. Charles Barry won with a symmetrical plan combining classical proportions with Gothic detailing, but the real genius of the interiors belonged to Augustus Welby Northmore Pugin, who designed the wallpapers, tiles, furniture, metalwork, and stained glass with an almost fevered intensity. Pugin drove himself to exhaustion on the project, producing thousands of drawings before his death at age forty in 1852. The result is a building that looks medieval but thinks modern: behind the carved stone facades, Barry incorporated innovative ventilation systems, fireproof iron-framed floors, and a sophisticated water-supply network. The palace covers about eight acres, contains over 1,100 rooms, and stretches along 266 metres of Thames riverfront.
+
+## The Voice of the Clock Tower
+
+The Elizabeth Tower, renamed in 2012 for the Queen's Diamond Jubilee but known worldwide by the nickname of its Great Bell, Big Ben, rises 96 metres above the north end of the palace. The bell, cast in 1858 at the Whitechapel Bell Foundry, weighs 13.7 tonnes and cracked shortly after it was installed. Rather than replace it, engineers simply rotated the bell so the hammer strikes an undamaged section, and the crack gives Big Ben its distinctive, slightly imperfect tone. The clock mechanism, designed by Edmund Beckett Denison, was considered one of the most accurate public clocks in the world. During the five-year restoration project that began in 2017, the tower was encased in scaffolding, its chimes silenced for the first time in peacetime since installation.
+
+## Democracy Under Siege
+
+The palace has endured plots, protests, and bombardment. Guy Fawkes's failed attempt to blow up the House of Lords on 5 November 1605 is still commemorated annually. During the Blitz, the palace was hit by bombs fourteen times. On the night of 10 May 1941, an incendiary bomb ignited the roof of the Commons chamber, and firefighters had to choose between saving it and saving Westminster Hall. They chose the medieval hall. The Commons was rebuilt in a restrained modern style by Sir Giles Gilbert Scott, deliberately keeping its intimate scale despite calls to enlarge it. Churchill insisted the chamber remain too small to seat all members, believing that the sense of urgency and crowd created better debate. Today the palace faces a new existential challenge: decades of deferred maintenance have left its stonework crumbling, its wiring dangerous, and its infrastructure failing, prompting an ongoing multi-billion-pound restoration programme.
+
+## Flight Context
+
+Located at 51.4995N, 0.1248W on the north bank of the Thames in Westminster, London. The palace complex and Elizabeth Tower (Big Ben) are unmistakable from the air. Nearest airports: London Heathrow (EGLL) 14 nm west, London City (EGLC) 6 nm east. Best viewed at 1,500-2,500 ft AGL. Westminster Bridge and Lambeth Bridge flank the complex.
+
+## Sources
+
+- [Palace of Westminster - Wikipedia](https://en.wikipedia.org/?curid=24170)
+  - Fire occurred 16 October 1834 confirmed
+  - Tally sticks burned in furnace beneath House of Lords caused fire confirmed
+  - Canute the Great / Edward the Confessor / William the Conqueror history confirmed
+  - Westminster Hall built 1097 by William Rufus confirmed
+  - Henry VIII acquired Whitehall Palace 1530 confirmed
+  - Competition stipulated Gothic or Elizabethan style confirmed
+  - Charles Barry won the competition confirmed
+  - Augustus Welby Northmore Pugin designed interiors confirmed
+  - Pugin died at age 40 in 1852 confirmed
+  - Palace covers about 8 acres, over 1,100 rooms confirmed
+  - Elizabeth Tower renamed 2012 for Diamond Jubilee confirmed
+  - Tower rises 96 metres confirmed
+  - Big Ben bell cast 1858 at Whitechapel Bell Foundry confirmed
+  - Bell weighs 13.7 tonnes confirmed
+  - Guy Fawkes plot 5 November 1605 confirmed
+  - Palace hit 14 times during Blitz confirmed
+  - Commons rebuilt by Sir Giles Gilbert Scott confirmed
+  - Churchill insisted chamber remain too small to seat all members confirmed
+- [The Great Fire of 1834 - UK Parliament](https://www.parliament.uk/about/living-heritage/building/palace/architecture/palacestructure/great-fire/)
+  - Tally sticks fire cause confirmed
+  - 16 October 1834 date confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 18 facts verified · 0 corrections
+
+All key facts verified: tally sticks fire 16 Oct 1834, Canute/Edward Confessor/William Rufus history, Westminster Hall 1097, Henry VIII Whitehall 1530, Gothic/Elizabethan competition, Barry won, Pugin interiors died age 40 1852, 8 acres 1100 rooms, Elizabeth Tower 96m renamed 2012, Big Ben cast 1858 Whitechapel Bell Foundry 13.7 tonnes, Guy Fawkes 1605, 14 Blitz hits, Scott Commons rebuild, Churchill intimate chamber confirmed. No errors.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

@@ -915,5 +915,26 @@
     "_m/s/c/t/u/harar-wk/et-harar-0203-006-17063276099.jpg",
     "_m/s/c/t/u/harar-wk/et-harar-0203-005-17061934560.jpg"
   ],
-  "updatedAt": "2026-03-31T05:05:40.573Z"
+  "updatedAt": "2026-03-31T05:05:40.573Z",
+  "narration": {
+    "files": [
+      "sctu-harar-flight-context.mp3",
+      "sctu-harar-intro.mp3",
+      "sctu-harar-the-city-behind-the-walls.mp3",
+      "sctu-harar-where-coffee-began.mp3",
+      "sctu-harar-crossroads-of-the-horn.mp3",
+      "sctu-harar-beyond-the-gates.mp3",
+      "sctu-harar-a-city-that-keeps-its-own-time.mp3"
+    ],
+    "durations": {
+      "sctu-harar-flight-context.mp3": 48.1193333,
+      "sctu-harar-intro.mp3": 64.0175416,
+      "sctu-harar-the-city-behind-the-walls.mp3": 67.3975,
+      "sctu-harar-where-coffee-began.mp3": 61.7214166,
+      "sctu-harar-crossroads-of-the-horn.mp3": 64.56,
+      "sctu-harar-beyond-the-gates.mp3": 62.0957083,
+      "sctu-harar-a-city-that-keeps-its-own-time.mp3": 63.810125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

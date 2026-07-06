@@ -1,0 +1,80 @@
+# Battle of New Orleans
+
+The decisive thirty-minute bloodbath fought on January 8, 1815 -- two weeks after the peace treaty was signed -- that killed the British commander, made Andrew Jackson president, and gave a young nation the myth it needed.
+
+**Location:** 29.9425, -89.9908
+
+**Categories:** military-history, war-of-1812, battlefield, national-park, american-history
+
+## Introduction
+
+The peace treaty had already been signed. On December 24, 1814, British and American diplomats in Ghent, Belgium, put their names to a document ending the War of 1812. But news traveled by sailing ship, and the word would not reach Louisiana for weeks. So on the morning of January 8, 1815, roughly five miles southeast of the French Quarter of New Orleans, in the sugar cane fields of Chalmette, 8,000 British regulars -- many of them veterans of the Napoleonic Wars -- formed ranks and marched toward a muddy canal defended by Andrew Jackson's ragtag army of 4,700 frontiersmen, free men of color, Choctaw warriors, pirates, and U.S. regulars. The main assault lasted thirty minutes. The British suffered over 2,000 casualties. The Americans lost 71.
+
+## The Approach Through the Swamp
+
+The British campaign against New Orleans began not with infantry but with rowboats. In mid-December 1814, Vice Admiral Alexander Cochrane anchored a fleet in the Gulf of Mexico east of Lake Borgne. To reach the city, the British first had to neutralize an American flotilla of five gunboats blocking access to the lakes. On December 14, nearly a thousand British sailors and Royal Marines in 42 small boats attacked and captured the gunboats in a bloody engagement. From there, 1,600 soldiers under General John Keane were ferried 60 miles by rowboat to Pea Island, a journey that took six days and nights with each transit lasting ten hours. On December 23, Keane's vanguard reached the Mississippi River south of New Orleans. He could have marched up the undefended river road and taken the city. Instead, he waited for reinforcements -- a decision that gave Jackson time to prepare the defenses that would destroy the British assault.
+
+## Line Jackson
+
+Jackson transformed a drainage ditch called the Rodriguez Canal into a killing field. The canal ran from the Mississippi River to a cypress swamp, creating a natural chokepoint that the British would have to cross under fire. American troops dug in behind earthworks and timber breastworks, installing eight artillery batteries armed with everything from 6-pounders to a massive 32-pound naval gun salvaged from the schooner USS Carolina before the British sank her with heated shot on December 27. On the opposite bank of the Mississippi, Commodore Daniel Patterson established a flanking battery that could fire across the river into the side of any attacking column. By the morning of January 8, the American position bristled with guns. Jackson had assembled one of the most diverse fighting forces in American military history: Tennessee and Kentucky militia, the 7th U.S. Infantry, two battalions of free men of color, Choctaw Indian volunteers, Jean Lafitte's Baratarian pirates, and Mississippi dragoons.
+
+## Thirty Minutes of Slaughter
+
+Everything went wrong for the British before the first shot was fired. Colonel Thomas Mullins of the 44th Regiment of Foot had been ordered to bring fascines and ladders to the front so troops could cross the canal and scale the American earthworks. Mullins, described as haughty and negligent, failed to locate the supplies the night before and marched his regiment to the wrong position in the predawn darkness. By the time 300 of his men were sent scrambling back to retrieve the equipment, the attack was already underway without it. A signal rocket arced into the sky at 6:20 a.m. The assault began in fog, but the mist lifted as the British closed on the American line, exposing dense columns of red-coated soldiers to withering artillery fire. American cannon opened at 500 yards, rifles at 300, muskets at 100. Major General Samuel Gibbs was killed leading the main column. General Pakenham himself rode to the front to rally the 44th and was cut down by grapeshot. Without fascines and ladders, British soldiers threw themselves into the canal, huddled behind the parapet, or were shredded by grapeshot. The main assault collapsed in half an hour.
+
+## The Myth That Built a Presidency
+
+The lopsided casualty figures -- 2,037 British losses against 71 American -- made the battle a sensation. News arrived in Washington alongside word of the Treaty of Ghent, and Americans fused the two events into a narrative of triumphant victory. January 8 became a federal holiday, called "The Eighth," celebrated from 1828 to 1861. Popular songs like "The Hunters of Kentucky" credited backwoods riflemen with the win, though modern historians have concluded that Jackson's artillery inflicted the majority of British casualties. The myth of the frontier sharpshooter proved more durable than the facts. For Jackson, the battle was a political launchpad. He became the most famous man in America, parlaying his military reputation into the presidency in 1829. The battle also destroyed the Federalist Party: New England delegates who had met at the Hartford Convention to discuss grievances against the war arrived in Washington to find the nation celebrating, and their party was permanently branded as unpatriotic.
+
+## What Remains at Chalmette
+
+The battlefield today is part of the Jean Lafitte National Historical Park and Preserve. The 100-foot Chalmette Monument marks the site -- it was designed to reach 150 feet, but the soft, wet Louisiana soil would not support the weight. The Chalmette National Cemetery, established during the Civil War, adjoins the battlefield. Earthwork reconstructions trace the line where Jackson's army stood, and artillery pieces are positioned along the rampart to approximate the battery placements of January 8, 1815. The hundreds of British dead were likely buried at Jacques Villere's plantation, which served as the British headquarters during the campaign, though the exact location of their graves has never been determined. The only British officers returned to England were Generals Pakenham and Gibbs, whose bodies were preserved in casks of rum for the Atlantic crossing. A memorial statue to both men stands in St. Paul's Cathedral in London.
+
+## Flight Context
+
+Located at 29.94N, 89.99W in Chalmette, Louisiana, approximately 5 miles southeast of the French Quarter of New Orleans. The Chalmette Battlefield and National Cemetery are clearly visible from the air along the east bank of the Mississippi River, identifiable by the white Chalmette Monument obelisk and the cemetery's orderly grid of headstones. The battlefield is bordered by the river to the south and suburban development to the north. Nearest airports: Louis Armstrong New Orleans International (KMSY) approximately 15nm west, Lakefront Airport (KNEW) approximately 5nm north-northwest. Follow the Mississippi River east from downtown New Orleans to locate the site. Low altitude provides the best view of the earthwork reconstructions and monument.
+
+## Sources
+
+- [Battle of New Orleans - Wikipedia](https://en.wikipedia.org/?curid=147394)
+  - January 8 1815 date confirmed
+  - Treaty of Ghent signed December 24 1814 confirmed
+  - British casualties over 2000 confirmed (2037: 291 killed, 1262 wounded, 484 captured/missing)
+  - American casualties 71 confirmed (13 killed, 39 wounded, 19 missing per some sources)
+  - Colonel Mullins and 44th Regiment fascines/ladders failure confirmed
+  - General Pakenham killed confirmed
+  - General Gibbs killed confirmed
+  - January 8 holiday 'The Eighth' from 1828-1861 confirmed
+- [Britannica - Battle of New Orleans](https://www.britannica.com/event/Battle-of-New-Orleans-United-States-United-Kingdom-1815)
+  - 8000+ British troops vs ~4700-5300 Americans confirmed
+  - Location at Chalmette approximately 5 miles SE of New Orleans confirmed
+  - Diverse American force composition confirmed
+- [Wikipedia - Thomas Mullins (British Army officer)](https://en.wikipedia.org/wiki/Thomas_Mullins_(British_Army_officer))
+  - Mullins was Lieutenant Colonel (Brevet Lt-Col), not Colonel as article states
+  - Failed to locate fascines and ladders, marched regiment to wrong position confirmed
+  - Sent 300 men back to retrieve equipment confirmed
+  - Court-martialed and cashiered confirmed
+- [SAH Archipedia - Chalmette Battlefield and Cemetery](https://sah-archipedia.org/buildings/LA-02-SB2)
+  - Chalmette Monument is 100 feet (102 ft per some sources) confirmed
+  - NOTE: Article says 'designed to reach 150 feet' but sources vary - SAH says originally planned at 200 feet; other sources say 'at least 150 feet'. The 150-foot claim is within range but may understate the original design
+  - Chalmette National Cemetery adjoins battlefield confirmed
+  - Part of Jean Lafitte National Historical Park and Preserve confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-11 · 14 facts verified · 0 corrections
+
+Major facts verified: dates, casualties, treaty timing, troop compositions, holiday status. Minor issues: Mullins was Lt Col not Col; Chalmette Monument original design 150-200ft depending on source; 4700 American figure is left bank only, total was ~5000-5300. Spiciness 3/5.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Characterizes Mullins as 'haughty and negligent' - editorial judgment, though he was court-martialed and cashiered
+- Calls the battle a 'myth' that 'built a presidency' - strong interpretive framing though historically supported
+- Describes American force as 'ragtag' - somewhat dismissive though commonly used
+
+---
+
+*Word count: 870*
+*Read time: 4 minutes*

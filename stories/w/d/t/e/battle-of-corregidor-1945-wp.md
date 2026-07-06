@@ -1,0 +1,63 @@
+# Battle of Corregidor (1945)
+
+In February 1945, American paratroopers dropped onto a tiny island fortress to reclaim the Rock that had become a symbol of defiance and defeat three years earlier.
+
+**Location:** 14.6667, 120.4170
+
+**Categories:** world-war-ii, military-history, pacific-war, philippines, airborne-operations
+
+## Introduction
+
+They jumped at 08:33 on the morning of February 16, 1945, one thousand paratroopers of the 503rd Parachute Regimental Combat Team falling from C-47 transports into 18-knot winds above a tadpole-shaped island barely five square miles in area. Below them lay Corregidor -- the Rock, the Gibraltar of the East -- a fortress that had surrendered to Japanese forces three years earlier in one of the most painful American defeats of the Pacific War. General Douglas MacArthur had left this island under cover of darkness in March 1942, vowing to return. Now his paratroopers were making good on that promise in the most audacious way imaginable: dropping onto a hilltop so small and so improbable that the Japanese would never expect it.
+
+## A Fortress Worth Reclaiming
+
+Corregidor had earned its nickname honestly. Sitting at the mouth of Manila Bay, the island controlled access to one of the finest natural harbors in the Pacific. Its tunnel network under Malinta Hill -- a main passage 1,400 feet long with 25 lateral branches -- had sheltered MacArthur's headquarters, an underground hospital, President Quezon's quarters, and thousands of American and Filipino troops during the 1942 siege. When the garrison finally surrendered on May 6, 1942, some 11,000 defenders marched into captivity. The fall haunted MacArthur with what he called a particular sense of moral purpose. Corregidor was more than a military objective; it had become a symbol, the last Pacific outpost of any size to fall to the enemy in the war's early months. By 1945, the island no longer held the same strategic importance for the Japanese that it once had for the Americans, but it still commanded the entrance to Manila Bay. American planners determined it merited a separate assault.
+
+## Touchdown on Topside
+
+MacArthur's plan was deliberately reckless: a combined airborne and amphibious assault, one of the most difficult maneuvers in modern warfare. The paratroopers had to land on Topside, the island's highest and most heavily defended terrain feature. MacArthur's own staff balked, but the logic was inescapable -- the Japanese could dominate every amphibious approach from that hilltop, and they would never expect an airborne drop on such an absurdly small target. Three weeks of bombardment preceded the assault. Heavy bombers flew 2,028 sorties and dropped over 3,100 tons of explosives. Navy cruisers and destroyers shelled from close to shore. When the paratroopers finally descended, the Japanese defenders were dazed but not broken. Fierce fighting erupted almost immediately. Private Lloyd G. McCarter, a scout, crossed 30 yards of open ground under withering fire and silenced a machine gun with hand grenades. Over the following days, he inflicted devastating casualties before being seriously wounded. He received the Medal of Honor.
+
+## The Night at Banzai Point
+
+The most ferocious moment came two nights later. On February 18, under a moonless sky, 500 Japanese marines poured out of the Battery Smith armory and charged American positions near Cheney Trail. Fifty paratroopers of F Company held the line. With no moonlight to see by -- only the intermittent flare of naval illumination rounds fired from warships offshore -- the three-hour battle was decided at close range. When dawn broke, more than 250 Japanese bodies lay along a 200-yard stretch of trail. F Company had lost 14 dead and 15 wounded. Official historians of the 503rd would rename the place Banzai Point. Meanwhile, the 3rd Battalion of the 34th Infantry Regiment had waded ashore at Black Beach on the island's eastern end. For eight consecutive days, units from the 34th held the entrances to Malinta Hill, fending off banzai charges, mortar attacks, and suicide squads carrying strapped-on explosives. They killed over 300 Japanese soldiers while keeping the garrison sealed inside the tunnels.
+
+## The Tunnels Fall Silent
+
+On February 21, a massive explosion near Malinta Hill killed the remaining Japanese defenders who had attempted a breakout. Two nights later, another explosion followed. American engineers then poured gasoline into the tunnel entrances and ignited it. The silence that followed told the story. Across the island, thousands of Japanese troops chose death over surrender, sealing themselves inside caves and subterranean passages. Corregidor reverberated with underground explosions for days. Of the estimated 6,700 Japanese defenders, only 50 survived. Another 19 were taken prisoner, and 20 holdouts did not emerge until January 1, 1946. The American cost was steep but far lighter: the 503rd suffered 169 dead and 531 wounded, while the 34th Infantry lost 38 killed and 153 wounded. A wayward tank shell struck a sealed tunnel packed with ammunition rather than soldiers, and the resulting blast threw the 30-ton Sherman dozens of feet, killing its crew and 48 nearby soldiers.
+
+## The Old Flagpole Still Stands
+
+On March 2, 1945, MacArthur returned to the island he had fled three years before. Standing before the battered garrison, he looked up at the flagpole that had survived the bombardment and said: "I see that the old flagpole still stands. Have your troops hoist the colors to its peak and let no enemy ever again haul it down." Manila Bay officially opened to Allied shipping the day before. The battle had accomplished its objective. Today, Corregidor is a national shrine and tourist destination accessible by ferry from Manila. The crumbling Mile-Long Barracks, the restored gun batteries, and the echoing passages of Malinta Tunnel all bear witness to what happened here -- not once but twice. The ruins do not distinguish between the soldiers who fought on either side, between the 1942 defenders who held out for months and the 1945 paratroopers who reclaimed the island in ten brutal days. They remember only that ordinary men were asked to do extraordinary things, and they did.
+
+## Flight Context
+
+Corregidor Island sits at 14.38N, 120.57E at the mouth of Manila Bay, about 48 km west of Manila. The tadpole-shaped island is roughly 6 km long and clearly visible from altitude. Topside, the elevated western plateau, and Malinta Hill on the eastern tail are distinguishable features. Nearby airports include Ninoy Aquino International (RPLL) about 50 km east. Best viewed from 3,000-5,000 ft AGL approaching from the south over the South China Sea, where the island's strategic position guarding Manila Bay becomes immediately apparent.
+
+## Sources
+
+- [Battle of Corregidor (1945) - Wikipedia](https://en.wikipedia.org/?curid=2617909)
+  - Drop began at 08:33 on February 16, 1945
+  - 503rd Parachute Regimental Combat Team; 18-knot winds confirmed (16-18 knots)
+  - 25% jump injury rate noted in Fort Mills Wikipedia article
+  - Battery Smith armory attack on night of February 18 confirmed
+  - 500 Japanese marines, 50 paratroopers F Company held the line
+  - More than 250 Japanese bodies along 200-yard stretch; F Company 14 dead 15 wounded
+  - 3rd Battalion 34th Infantry held Malinta Hill entrances for eight days
+  - 503rd suffered 169 dead and 531 wounded; 34th Infantry 38 killed and 153 wounded
+  - Estimated 6,700 Japanese defenders (Wikipedia 1945 battle article; Fort Mills article says 5,000)
+  - Private Lloyd G. McCarter received Medal of Honor
+  - MacArthur returned March 2, 1945
+
+## Review Notes
+
+**Reviewed:** 2026-03-29 · 11 facts verified · 0 corrections
+
+Verified 503rd PRCT drop time 08:33, wind speeds 16-18 knots, 25% injury rate, Battery Smith banzai charge Feb 18, F Company casualties (14 dead 15 wounded), 250 Japanese KIA, 503rd final casualties (169 dead 531 wounded), 34th Infantry (38 dead 153 wounded), MacArthur returned March 2 1945. Japanese defender count: Fort Mills Wikipedia says 5,000, 1945 battle article says 6,700 - story uses 6,700 which is more specific source.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

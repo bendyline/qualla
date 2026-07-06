@@ -160,5 +160,26 @@
     "_m/t/m/s/0/sistan-wp/map-southeastern-part.jpg",
     "_m/t/m/s/0/sistan-wp/sakaurakae-sakastan-ta.jpg",
     "_m/t/m/s/0/sistan-wp/map-attested-hypotheti.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "tms0-sistan-flight-context.mp3",
+      "tms0-sistan-intro.mp3",
+      "tms0-sistan-the-burned-city-and-the-bronze-age.mp3",
+      "tms0-sistan-empires-stacked-like-sediment.mp3",
+      "tms0-sistan-the-saffarids-and-the-forge-of-dynasties.mp3",
+      "tms0-sistan-where-zoroasters-seed-waits.mp3",
+      "tms0-sistan-a-border-drawn-through-sand.mp3"
+    ],
+    "durations": {
+      "tms0-sistan-flight-context.mp3": 44.633375,
+      "tms0-sistan-intro.mp3": 55.0950833,
+      "tms0-sistan-the-burned-city-and-the-bronze-age.mp3": 62.86525,
+      "tms0-sistan-empires-stacked-like-sediment.mp3": 77.7679583,
+      "tms0-sistan-the-saffarids-and-the-forge-of-dynasties.mp3": 69.4654166,
+      "tms0-sistan-where-zoroasters-seed-waits.mp3": 63.490875,
+      "tms0-sistan-a-border-drawn-through-sand.mp3": 71.425125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

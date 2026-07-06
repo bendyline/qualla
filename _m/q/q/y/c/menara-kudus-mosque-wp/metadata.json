@@ -762,5 +762,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qqyc-menara-kudus-mosque-flight-context.mp3",
+      "qqyc-menara-kudus-mosque-intro.mp3",
+      "qqyc-menara-kudus-mosque-the-saint-who-built-in-brick.mp3",
+      "qqyc-menara-kudus-mosque-gates-between-worlds.mp3",
+      "qqyc-menara-kudus-mosque-the-tower-and-the-drum.mp3",
+      "qqyc-menara-kudus-mosque-the-tomb-that-draws-the-faithful.mp3",
+      "qqyc-menara-kudus-mosque-where-synthesis-endures.mp3"
+    ],
+    "durations": {
+      "qqyc-menara-kudus-mosque-flight-context.mp3": 46.430375,
+      "qqyc-menara-kudus-mosque-intro.mp3": 48.5275416,
+      "qqyc-menara-kudus-mosque-the-saint-who-built-in-brick.mp3": 57.281875,
+      "qqyc-menara-kudus-mosque-gates-between-worlds.mp3": 59.920625,
+      "qqyc-menara-kudus-mosque-the-tower-and-the-drum.mp3": 57.5149166,
+      "qqyc-menara-kudus-mosque-the-tomb-that-draws-the-faithful.mp3": 62.316875,
+      "qqyc-menara-kudus-mosque-where-synthesis-endures.mp3": 56.1117916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -913,5 +913,24 @@
         "aerialBonus": 15
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "t1b5-berbera-flight-context.mp3",
+      "t1b5-berbera-intro.mp3",
+      "t1b5-berbera-the-ancient-port-of-malao.mp3",
+      "t1b5-berbera-empires-at-the-harbor.mp3",
+      "t1b5-berbera-superpower-playground.mp3",
+      "t1b5-berbera-the-port-reborn.mp3"
+    ],
+    "durations": {
+      "t1b5-berbera-flight-context.mp3": 46.7577916,
+      "t1b5-berbera-intro.mp3": 42.8587083,
+      "t1b5-berbera-the-ancient-port-of-malao.mp3": 65.6526666,
+      "t1b5-berbera-empires-at-the-harbor.mp3": 73.2777916,
+      "t1b5-berbera-superpower-playground.mp3": 65.5675416,
+      "t1b5-berbera-the-port-reborn.mp3": 73.2735
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

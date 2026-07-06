@@ -348,5 +348,24 @@
     "_m/s/r/v/1/sarajevo-haggadah-wp/donor-plaque-of-sarajevo-hagga.jpg",
     "_m/s/r/v/1/sarajevo-haggadah-wp/sarajevohaggadah.png"
   ],
-  "updatedAt": "2026-03-31T10:06:02.790Z"
+  "updatedAt": "2026-03-31T10:06:02.790Z",
+  "narration": {
+    "files": [
+      "srv1-sarajevo-haggadah-flight-context.mp3",
+      "srv1-sarajevo-haggadah-intro.mp3",
+      "srv1-sarajevo-haggadah-from-barcelona-to-the-balkans.mp3",
+      "srv1-sarajevo-haggadah-saved-by-a-muslim-librarian.mp3",
+      "srv1-sarajevo-haggadah-surviving-another-war.mp3",
+      "srv1-sarajevo-haggadah-a-book-that-belongs-to-everyone.mp3"
+    ],
+    "durations": {
+      "srv1-sarajevo-haggadah-flight-context.mp3": 47.4549166,
+      "srv1-sarajevo-haggadah-intro.mp3": 53.301625,
+      "srv1-sarajevo-haggadah-from-barcelona-to-the-balkans.mp3": 54.7437083,
+      "srv1-sarajevo-haggadah-saved-by-a-muslim-librarian.mp3": 57.0909166,
+      "srv1-sarajevo-haggadah-surviving-another-war.mp3": 63.6485416,
+      "srv1-sarajevo-haggadah-a-book-that-belongs-to-everyone.mp3": 77.5177083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

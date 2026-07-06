@@ -1,0 +1,58 @@
+# Mindrolling Monastery
+
+One of the six mother monasteries of Tibet's oldest Buddhist school, founded in 1676 and nearly destroyed twice -- by Mongol invaders and Communist revolution -- yet reborn in exile as one of India's largest Buddhist institutes.
+
+**Location:** 29.1837, 91.4062
+
+**Categories:** Buddhist monasteries in Tibet, Nyingma monasteries and temples, Tibetan Buddhism, Cultural heritage
+
+## Introduction
+
+The name means "Place of Perfect Emancipation," and Mindrolling Monastery has tested that concept against three and a half centuries of violence, exile, and reconstruction. Founded in 1676 by Rigzin Terdak Lingpa on the south bank of the Tsangpo River in what is now Zhanang County, Tibet, Mindrolling is one of the six mother monasteries of the Nyingma school -- the oldest lineage of Tibetan Buddhism. For nearly 300 years, its monastic university trained scholars and yogis from across Tibet. Then the 20th century arrived, and the monastery's story became one of survival through scattering.
+
+## The Nyo Lineage
+
+Terdak Lingpa established Mindrolling within the Nyo lineage, and the monastery became the seat of a tradition that placed special emphasis on a breadth of learning unusual even by Tibetan monastic standards. Monks studied not only the thirteen major sutra and tantra texts of the Nyingma but also astronomy, the Tibetan lunar calendar, calligraphy, rhetoric, and traditional Tibetan medicine. The practices taught here drew heavily from terma -- hidden treasure teachings believed to have been concealed by Padmasambhava for later discovery. At its peak, the monastery had over one hundred satellite institutions across Tibet, and its throne holder was among the most revered in the country. This network made Mindrolling more than a single building; it was an intellectual and spiritual infrastructure woven across the plateau.
+
+## Burned and Rebuilt
+
+In 1718, Dzungar Mongols swept down from Dzungaria and devastated Mindrolling. The destruction was severe, but the lineage survived through Terdak Lingpa's own children. His son Dungsay Rinchen-namgyel and his daughter Jetsunma Mingyur Paldron supervised the monastery's reconstruction during the reign of the Seventh Dalai Lama, who ruled from 1708 to 1757. The monastery rose again and continued its work for two more centuries. Then came 1959 and the revolt against Chinese Communist rule in Central Tibet. At that time, approximately 300 monks lived at Mindrolling. The buildings suffered damage in the years that followed, though less catastrophically than at other institutions -- Ganden Monastery, for comparison, was virtually leveled. At Mindrolling, the physical structures endured, even as the monastic community that gave them meaning was scattered into exile.
+
+## Exile and Rebirth in Dehradun
+
+Among those who fled was Khochhen Rinpoche, born in 1937 in Gonjo in eastern Tibet. Recognized as a young child as the reincarnation of Namdrol Sangpo Rinpoche, he had spent over ten years studying Buddhist philosophy, calligraphy, and ritual at Mindrolling before the invasion forced him into exile at age 22. In 1965, Khochhen Rinpoche and a small group of monks selected land near Clement Town in Dehradun, Uttarakhand, and began the painstaking process of re-establishing Mindrolling on Indian soil. The new monastery grew into something the Tibetan original had never been: a hub for the global spread of Nyingma Buddhism. In 1991, Khochhen Rinpoche established the Ngagyur Nyingma College, a nine-year institute of advanced Buddhist studies that became one of the largest in India. Near the monastery, he erected a 190-foot stupa dedicated to world peace, inaugurated in 2002.
+
+## Seeds Across Continents
+
+From Dehradun, the Mindrolling lineage branched outward in ways its 17th-century founder could not have imagined. Khochhen Rinpoche built a branch monastery in Delhi, inaugurated in 2005, where 65 monks perform pujas. In Kalimpong, Darjeeling, he established another monastery along with a school for village children and a medical clinic, inaugurated in 2007. In Taiwan, Mindrolling dharma centers took root in Taipei, Changhua, Taichung, and Kaohsiung. A large temple complex rose in Puli. In Sikkim, the land traditionally associated with Guru Rinpoche, Khochhen Rinpoche at age 81 established the Zangdokpalri Temple -- named for the copper-colored abode of Padmasambhava -- in Tumlong, North Sikkim. Meanwhile, in Tibet itself, the original monastery is still being reconstructed, its ancient walls slowly reassembling around a diminished but persistent community. The place that means "Perfect Emancipation" has become a diaspora, its teachings no longer confined to one valley above the Tsangpo but scattered deliberately across nations, rooted wherever monks carry the lineage forward.
+
+## Flight Context
+
+Mindrolling Monastery is located at 29.18N, 91.41E in Zhanang County, Shannan Prefecture, on the south side of the Tsangpo (Yarlung Zangbo) River. The monastery is approximately 43 km east of Lhasa Gonggar Airport (ICAO: ZULS), making it relatively accessible by air. The Tsangpo River valley provides clear visual reference for navigation. The re-established Mindrolling in Dehradun, India is a separate site. Expect high-altitude conditions around 3,600-3,800 meters. Clear weather offers views across the broad river valley to the mountains beyond.
+
+## Sources
+
+- [Mindrolling Monastery - Wikipedia](https://en.wikipedia.org/?curid=3171771)
+  - Founded 1676 by Rigzin Terdak Lingpa
+  - One of the six mother monasteries of the Nyingma school
+  - Located in Zhanang County, Shannan Prefecture
+  - Destroyed by Dzungar Mongols in 1718
+  - Rebuilt during reign of the Seventh Dalai Lama (1708-1757)
+  - Khochhen Rinpoche born 1937 in Gonjo, eastern Tibet
+  - Ngagyur Nyingma College established 1991 in Dehradun
+- [The Great Peace Stupa - Mindrolling Monastery](https://www.mindrolling.org/the-great-peace-stupa/)
+  - Peace stupa inaugurated 2002
+  - Height 185-190 feet (Wikipedia cites 190 feet)
+
+## Review Notes
+
+**Reviewed:** 2026-03-29 · 7 facts verified · 0 corrections
+
+Verified: founded 1676 by Terdak Lingpa, one of six Nyingma mother monasteries, Zhanang County, Dzungar attack 1718, rebuilt under 7th Dalai Lama, Khochhen Rinpoche born 1937, Ngagyur Nyingma College 1991 Dehradun. Peace stupa height cited as 185-190ft - article says 190ft which is within range. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 770*
+*Read time: 4 minutes*

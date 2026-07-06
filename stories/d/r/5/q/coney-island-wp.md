@@ -1,0 +1,66 @@
+# Coney Island
+
+Brooklyn's legendary seaside playground has spent 150 years reinventing itself - from gilded Victorian resorts to electric-lit wonderlands to gritty decline and back again, always refusing to disappear.
+
+**Location:** 40.5750, -73.9825
+
+**Categories:** amusement-park, beach, new-york-city, brooklyn, entertainment-history, urban-renewal
+
+## Introduction
+
+The Lenape called it the land without shadows - a south-facing spit of sand where the sun hit the beach all day long. Dutch settlers named it Conyne Eylandt on their 1639 maps, and by the time the entirety of southern Brooklyn was purchased from the Lenape in 1645 for a gun, a blanket, and a kettle, the little strip of sand had already changed hands. That pattern of reinvention has never stopped. Coney Island has been a wealthy resort, a horse-racing capital, the largest amusement area in the United States, a symbol of urban decay, and a phoenix rising from its own ashes - sometimes all within a single generation. What it has never been is boring.
+
+## Three Parks and a Million Lights
+
+Between 1880 and World War II, Coney Island was America's playground. At its peak, three competing amusement parks - Luna Park, Dreamland, and Steeplechase Park - packed the narrow strip between Surf Avenue and the ocean with electric spectacle that drew millions of visitors each year. It started modestly: Charles I. D. Looff, a Danish woodcarver, hand-carved the first carousel in 1876 at a West 6th Street bathhouse. Sea Lion Park opened in 1895 as the first amusement park to charge admission. George C. Tilyou's Steeplechase Park followed in 1897, Luna Park in 1903, and Dreamland in 1904. The parks lit up the night sky with hundreds of thousands of electric bulbs at a time when most American homes still used gas lamps. They were laboratories of popular culture - testing grounds for new rides, new foods, new ways of having fun. The era was also marked by devastating fires: Steeplechase burned in 1907 and had to be entirely rebuilt; Dreamland burned in 1911 and never came back.
+
+## The Rides That Survived
+
+Three iconic structures have outlasted everything else. The Wonder Wheel, opened in 1920, is a steel Ferris wheel with both stationary and rocking cars that slide along internal tracks - 144 riders at a time, swaying over the boardwalk. The Coney Island Cyclone, opened in 1927, remains one of the oldest wooden roller coasters still operating in the United States, featuring a 58-degree first drop that still terrifies riders nearly a century later. It is New York City's only remaining wooden coaster and is considered irreplaceable, since modern building codes no longer permit timber-supported coasters to be built. Then there is the Parachute Jump - originally built for the 1939 World's Fair, it hoisted riders 250 feet into the air before dropping them on guy-wired parachutes. It closed in the 1960s but still stands, a skeletal steel landmark against the sky, preserved as a city landmark since 1989. Locals call it the Eiffel Tower of Brooklyn.
+
+## Decline and the Moses Years
+
+Robert Moses arrived in 1937 with a parks commissioner's vision and a wrecking ball's instinct. Coney Island was so crowded on summer weekends that Moses quipped a coffin would provide more space per person. His solution was housing, not amusement. After Luna Park burned in 1944 and never reopened, Moses had the land rezoned for residential development. Steeplechase Park, the last of the great three, closed after the 1964 season. In its place rose middle-income housing complexes - Trump Village, Warbasse Houses, Luna Park Apartments. The peninsula's population surged from 34,000 in 1961 to nearly 100,000 by 1966, but the amusement area shrank to a shadow. By the late 1980s, Mermaid Avenue had lost 90 percent of its storefronts. Deadly shootings plagued the housing projects. The Parachute Jump stood abandoned. Prostitutes walked the boardwalk at night. New Yorkers spoke of Coney Island in the past tense.
+
+## The Boardwalk's Second Act
+
+Coney Island refused to die. A new Luna Park opened in 2010 on the site where Astroland had operated since 1962. In April 2011, the first new roller coasters built at Coney Island in eighty years began operating. The historic B&B Carousell, built around 1906 with a traditional roll-operated fairground organ, was restored and reopened at Luna Park's Steeplechase Plaza in 2013. The Riegelmann Boardwalk - stretching nearly three miles from Sea Gate through Brighton Beach - still anchors the neighborhood, lined with Nathan's Famous hot dogs, the New York Aquarium, and Maimonides Park, home of the minor league Brooklyn Cyclones. Every summer, the Mermaid Parade fills Surf Avenue with floats and costumes. The Polar Bear Club takes its annual New Year's Day plunge. Hurricane Sandy devastated the area in 2012, but Luna Park reopened on schedule the following spring.
+
+## Sand, Sea, and Subway
+
+From the air, Coney Island reads as a narrow peninsula jutting into the Atlantic at the southwestern tip of Brooklyn - not truly an island at all since the creek connecting it to the mainland was partially filled in the 1920s and 1930s. The broad public beach runs unbroken for nearly three miles, divided by rock groynes built in the 1920s to fight erosion. Four subway lines terminate at the Coney Island-Stillwell Avenue station, one of the largest elevated transit stations in the world, with eight tracks and four platforms. This direct subway connection to Manhattan - the same link that made Coney Island accessible to working-class New Yorkers over a century ago - remains its lifeline. For a few dollars and about an hour's ride, millions of New Yorkers can trade concrete canyons for salt air, sand, and the distant clatter of the Cyclone climbing its first hill.
+
+## Flight Context
+
+Located at 40.575N, 73.98W on the southwestern tip of Brooklyn, New York. Coney Island is a narrow peninsula extending into the Atlantic Ocean, clearly visible from altitude as a developed strip between the ocean and Jamaica Bay. Key landmarks: the Parachute Jump tower, the Cyclone roller coaster, the Wonder Wheel, and the long Riegelmann Boardwalk running east-west along the beach. The Coney Island Creek separates the peninsula from mainland Brooklyn to the north. Recommended viewing altitude: 2,000-4,000 feet for best perspective of the boardwalk, amusement area, and beach. Nearby airports: John F. Kennedy International (KJFK) approximately 8 nm east; Floyd Bennett Field (disused, visible landmark); LaGuardia (KLGA) approximately 15 nm north. Note: this area falls under New York Class B airspace with strict altitude and clearance requirements.
+
+## Sources
+
+- [Coney Island - Wikipedia](https://en.wikipedia.org/?curid=151663)
+- [Coney Island Cyclone - Wikipedia](https://en.wikipedia.org/wiki/Coney_Island_Cyclone)
+  - Cyclone opened June 26 1927 confirmed
+  - first drop 58 degrees confirmed
+  - NYC landmark designation 1988 confirmed
+  - NYC's only remaining wooden coaster confirmed
+- [Wonder Wheel - Wikipedia](https://en.wikipedia.org/wiki/Wonder_Wheel)
+  - Wonder Wheel opened 1920 confirmed
+  - 144 riders capacity confirmed (24 cars x 6 passengers)
+  - stationary and rocking/swinging cars confirmed
+  - steel Ferris wheel confirmed
+- [Coney Island - current status 2025](https://travelpander.com/does-coney-island-still-exist/)
+  - Luna Park still operating confirmed
+  - Cyclone and Wonder Wheel still operational confirmed
+  - new Luna Park opened 2010 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 12 facts verified · 0 corrections
+
+All key facts verified: Cyclone opened 1927, Wonder Wheel 1920, 144 rider capacity, both still operating. Luna Park opened 2010. Parachute Jump NYC landmark 1989. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 870*
+*Read time: 4 minutes*

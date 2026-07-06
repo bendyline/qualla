@@ -1,0 +1,83 @@
+# Murder of Jacob Wetterling
+
+The 1989 abduction and murder of 11-year-old Jacob Wetterling in St. Joseph, Minnesota, went unsolved for 27 years, but his parents' grief became the foundation of America's first sex offender registry laws.
+
+**Location:** 45.5757, -94.3958
+
+**Categories:** crime, missing-persons, child-safety, legislation, minnesota, cold-case
+
+## Introduction
+
+Every child in Minnesota knew his name. For 27 years, Jacob Wetterling's face stared out from missing-child posters, milk cartons, and the collective memory of a state that refused to forget an 11-year-old boy who vanished on an October evening in 1989. He had been biking home from a convenience store in St. Joseph, Minnesota, with his younger brother and a friend. A masked man stepped from a driveway with a revolver. He told the boys to lie face down, asked their ages, and then chose Jacob. The other two boys were ordered to run and not look back. It would take nearly three decades before anyone learned what happened next.
+
+## A Sunday Night in October
+
+The evening of October 22, 1989, was unremarkable in every way that mattered. Jacob Wetterling, age 11, his younger brother Trevor, age 10, and their friend Aaron Larson, also 11, had biked to a convenience store in St. Joseph to rent a video. On the way home, just after 9:00 p.m., Danny Heinrich emerged from a driveway wearing a stocking cap mask and carrying an unloaded revolver. He ordered the three boys to throw their bikes into a ditch and lie face down on the ground. After asking each boy his age, he told Trevor to run toward a nearby wooded area without looking back or he would be shot. He studied the faces of the two remaining boys, selected Jacob, and ordered Aaron to run as well. The massive search that followed involved local police, the FBI, and the National Guard. Thousands of tips poured in. None led to Jacob.
+
+## A Pattern Hidden in Plain Sight
+
+Nine months before Jacob's abduction, on January 13, 1989, a 12-year-old boy named Jared Scheierl had been kidnapped and sexually assaulted in Cold Spring, Minnesota, by an unknown man who used the same method: a gun, a command to lie down, and a warning to run and not look back. That crime scene was only a short distance from where Heinrich would later stop the Wetterling brothers and their friend. Going further back, between the summer of 1986 and the spring of 1987, five teenage boys were attacked in the Paynesville area, about 40 minutes from the Wetterling abduction site. No one was arrested. It was not until May 2014 that investigators, aided by amateur researcher Joy Baker, began connecting these incidents. The FBI had actually questioned Heinrich on December 16, 1989, less than two months after Jacob disappeared, and obtained a DNA sample. He was released without being charged.
+
+## Twenty-Seven Years of Silence
+
+In October 2015, Heinrich was publicly named a person of interest in the Wetterling case after his DNA was matched to the Scheierl assault. The statute of limitations had expired on that crime, but a search of Heinrich's home turned up child sexual abuse material, leading to his arrest on October 28, 2015. Under a plea bargain, Heinrich agreed to lead investigators to Jacob's remains in exchange for pleading guilty to a single federal child pornography charge. On September 1, 2016, he brought them to a pasture near Paynesville. Jacob's clothing and bones were unearthed from ground that had concealed them for nearly 27 years. Heinrich confessed that he had kidnapped and handcuffed the boy, driven him to a gravel pit, assaulted and killed him, and buried his body. He later returned to move the remains after noticing the jacket had become exposed. He had evaded police on the night of the crime by listening to a police scanner.
+
+## A Judge's Words
+
+At his sentencing hearing, Heinrich received the maximum 20-year federal prison sentence. Judge John Tunheim of the United States District Court for the District of Minnesota addressed him directly: "We won't pretend that this crime and sentence is about child pornography. It is also about changing the lives of so many children and parents, who prayed for Jacob's return, and also feared you coming out of the dark. Every child knows the story of Jacob Wetterling. You stole the innocence of children in small towns, in the cities of Minnesota and beyond." Tunheim added that given the heinous nature of the crime, "it is unlikely society will ever let you go free." The plea agreement allows state authorities to seek Heinrich's civil commitment as a sexual predator at the end of his federal sentence. In January 2017, he was transferred to Federal Medical Center, Devens, in Massachusetts.
+
+## Jacob's Law
+
+Four months after their son's disappearance, Jerry and Patty Wetterling founded the Jacob Wetterling Foundation, an advocacy group dedicated to children's safety. Their work led to the passage of the federal Jacob Wetterling Act in 1994, the first law to create a state sex offender registry in the United States. That law became the foundation for Megan's Law in 1996 and the Adam Walsh Child Protection and Safety Act in 2006. The foundation evolved into the Jacob Wetterling Resource Center in 2008, continuing the family's mission to educate the public about child abduction. The Bridge of Hope, a crossing of the Mississippi River near St. Cloud, bears Jacob's name. What began as one family's unimaginable loss became the legal framework through which America tracks and monitors convicted sex offenders -- a legacy that reaches into every county in every state.
+
+## Flight Context
+
+Located at 45.58°N, 94.40°W in St. Joseph, Minnesota, Stearns County, at approximately 1,100 feet MSL. St. Joseph is a small community just west of St. Cloud in central Minnesota. The town sits along Interstate 94 and is immediately adjacent to the College of Saint Benedict campus. St. Cloud Regional Airport (KSTC) is approximately 8 miles to the east. The area is characterized by flat to gently rolling agricultural land with scattered woodlots and lakes typical of the glaciated central Minnesota landscape. The Bridge of Hope, named for Jacob Wetterling, crosses the Mississippi River near St. Cloud and is visible from the air.
+
+## Sources
+
+- [Murder of Jacob Wetterling - Wikipedia](https://en.wikipedia.org/?curid=649492)
+  - Abduction date October 22, 1989 in St. Joseph, Minnesota confirmed
+  - Jacob was 11 years old confirmed
+  - Danny Heinrich was the perpetrator confirmed
+  - Heinrich used an unloaded revolver confirmed
+  - Brother Trevor and friend Aaron Larson were with Jacob confirmed
+  - Remains found September 1, 2016 near Paynesville confirmed
+- [DOJ - Danny Heinrich Sentenced](https://www.justice.gov/usao-mn/pr/danny-heinrich-sentenced-20-years-prison)
+  - Heinrich received 20-year federal prison sentence confirmed
+  - Judge John Tunheim of U.S. District Court for District of Minnesota confirmed
+  - Sentenced on federal child pornography charge as part of plea deal confirmed
+- [CBS Minnesota - Heinrich transferred to Federal Medical Center Devens](https://www.cbsnews.com/minnesota/news/danny-heinrich-sentencing-jacob-wetterling-death/)
+  - Heinrich transferred to Federal Medical Center, Devens in January 2017 confirmed
+  - Tunheim quote about unlikely society will let him go free confirmed
+- [Jacob Wetterling Act - Wikipedia](https://en.wikipedia.org/wiki/Jacob_Wetterling_Crimes_Against_Children_and_Sexually_Violent_Offender_Registration_Act)
+  - Jacob Wetterling Act passed 1994 as part of Violent Crime Control Act confirmed
+  - First federal law to create state sex offender registries confirmed
+  - Led to Megans Law 1996 and Adam Walsh Act 2006 confirmed
+- [Zero Abuse Project - JWRC History](https://zeroabuseproject.org/victim-assistance/jwrc/who-we-are/history/)
+  - Jacob Wetterling Foundation formed four months after abduction confirmed (announced Feb 17, 1990)
+  - Founded by Jerry and Patty Wetterling confirmed
+  - Later became Jacob Wetterling Resource Center confirmed
+- [APM Reports - Jared Scheierl](https://www.apmreports.org/story/2016/09/13/jared-scheierl)
+  - Jared Scheierl assault in Cold Spring January 1989 confirmed
+  - Scheierl was 12 years old confirmed
+  - Same methods used as Wetterling abduction confirmed
+  - DNA matched Heinrich to Scheierl assault confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-06 · 16 facts verified · 0 corrections
+
+All major facts verified: abduction date Oct 22 1989, Danny Heinrich, Jared Scheierl Jan 1989, Judge Tunheim, 20-year sentence, FMC Devens Jan 2017, Wetterling Foundation Feb 1990, Jacob Wetterling Act 1994, Megans Law 1996, Adam Walsh Act 2006. Article accurate throughout. Spiciness 2/5.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Opening line Every child in Minnesota knew his name is dramatic but contextually appropriate
+- Judge Tunheim quote about stealing innocence of children is directly sourced
+
+---
+
+*Word count: 830*
+*Read time: 5 minutes*

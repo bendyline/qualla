@@ -1,0 +1,60 @@
+# The Pope Lick Monster
+
+The Kentucky legend of a half-man, half-goat creature living under a railroad trestle - a myth so compelling that multiple people have died trying to see it, killed by trains while walking the active tracks.
+
+**Location:** 38.2200, -85.5200
+
+**Categories:** kentucky, cryptid, urban-legend, danger, folklore
+
+## Introduction
+
+Beneath a 100-foot railroad trestle in Louisville's far eastern suburbs, something allegedly lives. The Pope Lick Monster - described as a hybrid of man and goat, or man and sheep - has been part of local legend since at least the 1940s. The creature supposedly lurks under the Norfolk Southern trestle that crosses Pope Lick Road, luring victims onto the tracks where they're struck by trains. The legend is almost certainly fiction; the deaths are not. At least four people have been killed on the trestle while hunting for the monster, hit by trains while trying to cross or flee on the narrow structure. The railroad has posted warnings, installed fencing, and begged thrill-seekers to stay away. The legend's body count continues to grow. Pope Lick has become a study in how myths kill.
+
+## The Legend
+
+The Pope Lick Monster is described as a large humanoid with the body of a man and the legs and horns of a goat - or alternatively, a sheep. Origins vary: it escaped from a circus train wreck; it's the product of a farmer's unnatural relationship with livestock; it's a deformed hermit who retreated from society. The creature allegedly lures victims onto the trestle, either by mimicking their loved ones' voices, by hypnotizing them, or simply by presenting an irresistible mystery. Some versions claim it drops from the trestle onto car roofs. The details shift; the trestle remains constant.
+
+## The Trestle
+
+The Norfolk Southern trestle over Pope Lick Road is a working railroad bridge, 772 feet long and about 100 feet above the creek valley below. Trains use it regularly, passing multiple times daily. The trestle is narrow - no walkway, no escape route if a train comes. Anyone on the tracks when a train approaches has only terrible choices: run (the trestle is too long to outrun a train), jump (100 feet onto rocks), or be hit. The trestle is fenced and posted. It is private property. Yet people keep climbing up to look for the monster.
+
+## The Deaths
+
+In 1987, a teenager was killed by a train while crossing the trestle. In 2016, a woman fell from the trestle while fleeing an approaching train; she died from her injuries. In 2019, a woman was struck and killed by a train on the trestle. Others have been injured. Each death brings attention to the legend, which brings more thrill-seekers, which brings more danger. The railroad, police, and local officials have tried everything - better fencing, security cameras, increased patrols, public awareness campaigns. Nothing stops the flow of legend-hunters willing to risk their lives for a glimpse of something that almost certainly doesn't exist.
+
+## The Persistence
+
+Why does the Pope Lick Monster persist? The trestle is genuinely atmospheric - a massive structure in an otherwise suburban area, easy to reach but forbidden, dangerous enough to feel transgressive. The legend provides narrative: visitors aren't just trespassing, they're monster-hunting. The deaths add to the mythology rather than diminishing it - proof that the trestle is dangerous, which some interpret as proof the monster is real. Researchers have studied Pope Lick as an example of 'legend tripping' - the practice of visiting legendary locations as a rite of passage. The psychology is complex; the consequences are simple.
+
+## Visiting (Safely)
+
+Do not attempt to walk on the Pope Lick trestle. It is active railroad property; trespassing is illegal; and people die there. The trestle can be viewed safely from Pope Lick Road below. The Pope Lick Monster has appeared in films, including a 2016 horror movie. The surrounding area is suburban Louisville; there's nothing else to see. If you want to experience the legend, watch the documentary footage. If you want atmospheric railroad trestles, there are many that are abandoned and safe. The myth of Pope Lick has already claimed too many lives. Don't add to the count.
+
+## Flight Context
+
+Located at 38.22°N, 85.52°W in eastern Jefferson County, Kentucky, about 15 miles east of downtown Louisville. From altitude, the Pope Lick trestle is visible as a railroad crossing over a small creek valley in an otherwise suburban landscape. The Norfolk Southern line continues northeast and southwest. Louisville's sprawl surrounds the area. Louisville International Airport is 20 miles southwest. The trestle is unremarkable from the air - its legend is invisible, its danger only apparent at ground level.
+
+## Sources
+
+- [Pope Lick Monster - Wikipedia](https://en.wikipedia.org/wiki/Pope_Lick_Monster)
+  - trestle 772 feet long
+  - multiple deaths
+  - legend since 1940s
+
+## Review Notes
+
+**Reviewed:** 2026-01-17 · 3 facts verified · 0 corrections
+
+Verified trestle, multiple deaths, 1940s legend
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- A myth so compelling that multiple people have died trying to see it
+- Pope Lick has become a study in how myths kill
+
+---
+
+*Word count: 850*
+*Read time: 5 minutes*

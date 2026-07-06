@@ -650,5 +650,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wj28-drepung-monastery-flight-context.mp3",
+      "wj28-drepung-monastery-intro.mp3",
+      "wj28-drepung-monastery-the-nalanda-of-tibet.mp3",
+      "wj28-drepung-monastery-where-the-dalai-lamas-lived.mp3",
+      "wj28-drepung-monastery-what-survived-and-what-did-not.mp3",
+      "wj28-drepung-monastery-a-monastery-in-two-countries.mp3",
+      "wj28-drepung-monastery-the-weight-of-the-name.mp3"
+    ],
+    "durations": {
+      "wj28-drepung-monastery-flight-context.mp3": 44.2287916,
+      "wj28-drepung-monastery-intro.mp3": 39.7448333,
+      "wj28-drepung-monastery-the-nalanda-of-tibet.mp3": 58.242125,
+      "wj28-drepung-monastery-where-the-dalai-lamas-lived.mp3": 56.0816666,
+      "wj28-drepung-monastery-what-survived-and-what-did-not.mp3": 52.981875,
+      "wj28-drepung-monastery-a-monastery-in-two-countries.mp3": 54.3847083,
+      "wj28-drepung-monastery-the-weight-of-the-name.mp3": 49.8995
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

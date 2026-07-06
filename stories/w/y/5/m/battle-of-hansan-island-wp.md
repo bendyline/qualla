@@ -1,0 +1,58 @@
+# Battle of Hansan Island
+
+Admiral Yi Sun-sin's crane wing formation destroyed a Japanese fleet off Hansan Island in 1592, a victory later compared to Salamis and praised by British admirals as unsurpassed in maritime history.
+
+**Location:** 34.7622, 128.5025
+
+**Categories:** battles, naval-history, south-korea, japan, imjin-war
+
+## Introduction
+
+The Japanese took the bait. On August 15, 1592, a small detachment of Korean warships appeared near Gyeonnaeryang Strait, spotted a Japanese scout vessel, gave chase, then abruptly broke off and retreated toward open water. Wakizaka Yasuharu, commanding 73 Japanese ships, saw what he believed was a fleeing enemy and ordered pursuit. His fleet poured out of the narrow strait into the broad waters off Hansan Island, where Admiral Yi Sun-sin was waiting with 56 warships arranged in a formation shaped like the wings of a crane.
+
+## The Crane Opens Its Wings
+
+Yi Sun-sin had spent the early weeks of the war establishing a pattern that his opponents never learned to counter: lure the Japanese out of confined waters where boarding tactics favored their skilled swordsmen, then destroy them at range with Korean naval cannon. The Japanese warships of the Imjin War were designed for close combat. Their crews excelled at grappling alongside enemy vessels, boarding them, and fighting hand-to-hand with katana and arquebus. Korean panokseon warships, by contrast, were floating artillery platforms, multi-decked and heavily armed with cannon that could shatter wooden hulls at distances where Japanese arquebuses were ineffective. Yi's genius was tactical: he understood that geography determined the terms of engagement, and he consistently forced battles on terms that favored Korean firepower. The crane wing formation at Hansan Island was this principle perfected. Two turtle ships anchored the center while lighter vessels extended outward on both flanks, creating a U-shaped killing ground.
+
+## A Day of Fire on the Water
+
+When Wakizaka's fleet entered the open waters off Hansan Island, the trap closed. Korean cannon opened fire from three directions. The Japanese, unable to close the distance for boarding, were systematically destroyed. Ship after ship burned, broke apart, or capsized under the barrage. The battle raged throughout the day, with Korean warships pursuing the remnants until exhaustion forced them to withdraw. Of Wakizaka's 73 ships, only 14 that had not entered the engagement escaped. Wakizaka himself managed to retreat to Gimhae, but his fleet was finished as a fighting force. News of the catastrophe reached Busan within hours. Two Japanese commanders, Kuki Yoshitaka and Kato Yoshiaki, immediately sailed with 42 ships to Angolpo, hoping to confront the Koreans in shallower coastal waters. When Yi advanced to meet them, the Japanese refused to leave shore. Yi's fleet simply stood off and bombarded the anchored ships for hours until the Japanese crews fled inland, later escaping on small boats.
+
+## Hideyoshi's Navy Stops
+
+The twin engagements at Hansan Island and Angolpo cost Japan roughly 100 warships in a single day. More importantly, they shattered Japanese confidence at sea. On August 23, 1592, Hideyoshi ordered naval commander Todo Takatora to reinforce Korean operations and halted offensive naval operations at Busan. The Japanese army, which had swept through Korea on land with devastating speed, suddenly found its supply lines from the home islands imperiled. Without naval control of the southern coast, reinforcements, ammunition, and food could not reliably reach the Japanese forces pushing north toward Pyongyang and the Chinese border. Yi Sun-sin had turned the war's momentum with ship-killing firepower and tactical discipline, achieving in roughly nine weeks of campaigning what Japanese ground forces could not reverse.
+
+## Korea's Salamis
+
+The Battle of Hansan Island entered Korean history as the equivalent of Thermopylae and Salamis combined, a moment when a smaller force used superior strategy to turn back an invasion. The comparison to Salamis was made explicitly by the historian Homer Hulbert, who called the battle the death sentence for Hideyoshi's invasion. George Alexander Ballard, a British Royal Navy vice admiral, wrote that in nine weeks Yi had achieved a series of successes unsurpassed in the whole annals of maritime war, adding that not even Nelson, Blake, or Jean Bart could have done more than this scarcely known representative of a small and cruelly oppressed nation. The waters off Hansan Island, quiet today beneath the flight paths of seabirds and fishing boats, witnessed a turning point not just in a single war but in the balance of power across East Asia. The 2022 film Hansan: Rising Dragon brought the battle to modern audiences, but for Koreans, Yi Sun-sin's crane formation has never needed Hollywood to remain vivid in national memory.
+
+## Flight Context
+
+Located at 34.76°N, 128.50°E in the coastal waters south of Tongyeong, South Korea. Hansan Island (Hansando) is visible from altitude as a mountainous island in the chain off the southern Korean coast, with the Gyeonnaeryang Strait to its north. Nearest airports include Sacheon Airport (RKPS) approximately 40 km to the west and Gimhae International Airport (RKPK) about 100 km to the northeast. The surrounding waters contain numerous small islands and the narrow straits that were central to the battle.
+
+## Sources
+
+- [Battle of Hansan Island - Wikipedia](https://en.wikipedia.org/?curid=2617010)
+  - Date August 15, 1592 (Gregorian) confirmed - corresponds to 8th day of 7th lunar month
+  - Wakizaka Yasuharu commanded 73 Japanese ships (36 atakebune, 24 seki bune, 13 kobaya)
+  - Yi Sun-sin's crane wing (hakikjin) formation with 2 turtle ships in center
+  - Yi destroyed at least 47 Japanese ships; only 14 escaped without entering engagement
+  - Hideyoshi halted offensive naval operations at Busan on August 23, 1592
+  - 2022 film Hansan: Rising Dragon brought battle to modern audiences
+
+## Review Notes
+
+**Reviewed:** 2026-03-19 · 8 facts verified · 0 corrections
+
+Fact-checked article
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- not even Nelson, Blake, or Jean Bart could have done more than this scarcely known representative of a small and cruelly oppressed nation
+
+---
+
+*Word count: 790*
+*Read time: 4 minutes*

@@ -575,5 +575,24 @@
     "_m/k/m/c/8/benguela-wp/ao-benguela-punta-albina-bahia.png",
     "_m/k/m/c/8/benguela-wp/benguela-road-from-bellin-s-pe.jpg"
   ],
-  "updatedAt": "2026-03-30T17:04:56.022Z"
+  "updatedAt": "2026-03-30T17:04:56.022Z",
+  "narration": {
+    "files": [
+      "kmc8-benguela-flight-context.mp3",
+      "kmc8-benguela-intro.mp3",
+      "kmc8-benguela-iron-rails-to-the-copperbelt.mp3",
+      "kmc8-benguela-when-the-railway-died.mp3",
+      "kmc8-benguela-rebuilding-the-line.mp3",
+      "kmc8-benguela-a-coast-that-remembers.mp3"
+    ],
+    "durations": {
+      "kmc8-benguela-flight-context.mp3": 50.3959166,
+      "kmc8-benguela-intro.mp3": 46.9398333,
+      "kmc8-benguela-iron-rails-to-the-copperbelt.mp3": 70.3962916,
+      "kmc8-benguela-when-the-railway-died.mp3": 65.187875,
+      "kmc8-benguela-rebuilding-the-line.mp3": 72.1254583,
+      "kmc8-benguela-a-coast-that-remembers.mp3": 62.5729583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

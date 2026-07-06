@@ -1,0 +1,54 @@
+# Hobbiton Movie Set
+
+Where a New Zealand sheep farm became Middle-earth's most beloved village, and the temporary film set that rain saved from demolition became a permanent pilgrimage for Tolkien fans worldwide.
+
+**Location:** -37.8575, 175.6797
+
+**Categories:** film-location, tourism, tolkien, new-zealand, waikato
+
+## Introduction
+
+Heavy rain saved Hobbiton. After filming wrapped on The Lord of the Rings in the early 2000s, the production crew was supposed to tear down every last hobbit hole on the Alexander family's farm near Matamata. They had already demolished most of the set - filling holes with soil, stripping facades - when persistent downpours made the remaining 18 of 37 hobbit holes impossible to reach with heavy equipment. The crew left, planning to return. The Alexanders, sensing an opportunity, struck a deal to keep the remnants standing. What began as a rainy-day reprieve on a 500-hectare sheep station in the Waikato has become one of New Zealand's most visited tourist attractions, a place where the boundary between fiction and farmland dissolved so thoroughly that visitors genuinely forget which world they are standing in.
+
+## A Slice of Ancient England
+
+Peter Jackson first spotted the Alexander Farm from a helicopter during an aerial location scout, and the rolling green hills convinced him immediately. The landscape looked, as he put it, "like a slice of ancient England" - the kind of gently contoured pastoral countryside that Tolkien had imagined for the Shire. The property had the right bones: a lake with an elongated arm that could pass for a river, grassy slopes perfectly scaled for hobbit holes, and the isolation needed to keep modern New Zealand out of frame. The Alexander family had been farming this land since 1978 - running 13,000 sheep and 300 Angus beef cattle across its hills. The geology beneath those hills dates to the Last Glacial Period, when alluvial silts and gravels were deposited across what was once marshland, later drained and transformed into some of the Waikato's most fertile agricultural land.
+
+## Built to Last, the Second Time
+
+The original Hobbiton was never meant to survive. The facades were constructed from untreated timber, plywood, and polystyrene - materials chosen for camera, not longevity. When Jackson returned to film The Hobbit trilogy, beginning in 2011, the production rebuilt the entire village in permanent materials. This time, the hobbit holes were made to endure. There are now 44 on display, designed at three different scales to serve the story's visual tricks: the smallest are built to correct hobbit proportions, mid-size ones make hobbit actors look smaller by comparison, and the largest accommodate scenes with dwarves. The color of each front door quietly signals which scale you are looking at - blue doors, for instance, mark the human-scale holes. Martin Freeman, who played Bilbo Baggins, captured the effect when he said the rebuilt set "just looked like a place where people lived and where people worked." As of December 2024, some hobbit holes have been fully furnished with interiors visitors can enter.
+
+## Bagshot Row and the Green Dragon
+
+The tour route threads past the landmarks that Tolkien readers and film audiences know by heart. Bagshot Row climbs the hillside with its row of round doors and cottage gardens. The Party Tree stands where Bilbo made his famous disappearing speech. At the top of the hill, the circular green door of Bag End sits beneath its oak tree, though the interiors of Bilbo's home were always filmed in a Wellington studio, not here. In 2012, a replica of the Green Dragon inn opened on the set - a functioning pub where visitors can order a drink in a space modeled on the tavern from both film trilogies. The Shires Rest Cafe serves breakfast and "Second Breakfast," a nod to hobbit eating habits that tourists seem to find irresistible. Evening events began in 2014, and the set has continued to expand with new hobbit hole interiors opening in December 2023 after nine months of construction.
+
+## From Sheep Station to Pilgrimage Site
+
+By 2013, Hobbiton had welcomed its 500,000th guest - a remarkable number for a location that sits 8 kilometers west of the small town of Hinuera and 10 kilometers from Matamata, neither of which would otherwise draw international tourists. The set has become a cornerstone of what the tourism industry calls Tolkien tourism, a phenomenon that has reshaped New Zealand's international identity. The country marketed itself as Middle-earth during the films' release, and the strategy stuck. Visitors arrive from around the world not for New Zealand's mountains or fiords but specifically for this farm, this particular arrangement of green hills and round doors. The Alexander family still farms the property around the set - the sheep and cattle that predated Hollywood continue their work alongside the tour buses. It is an unlikely coexistence, a working agricultural operation that happens to contain one of cinema's most recognizable fictional villages.
+
+## Flight Context
+
+Hobbiton Movie Set (37.86S, 175.68E) sits on farmland in the Waikato region, about 8 km west of Hinuera and 10 km southwest of Matamata. The nearest major airport is Hamilton Airport (NZHN), approximately 45 km to the west. Auckland Airport (NZAA) is about 165 km to the northwest. From the air, look for the distinctive green rolling hills with the small lake - the hobbit holes are visible at lower altitudes as dots of color on the hillside. The Waikato region is generally flat to rolling agricultural land, making the set's gentle hills distinctive. Weather is temperate with rainfall distributed throughout the year.
+
+## Sources
+
+- [Hobbiton Movie Set - Wikipedia](https://en.wikipedia.org/?curid=45237613)
+  - Alexander family has farmed the 500-hectare property since 1978 confirmed
+  - Peter Jackson found location during aerial scout confirmed
+  - 18 of 37 hobbit holes left standing due to heavy rain confirmed
+  - Permanent rebuild for The Hobbit filming beginning 2011 confirmed
+  - 44 hobbit holes on display confirmed
+  - Green Dragon Inn opened 2012 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 6 facts verified · 0 corrections
+
+Verified Alexander family 1978, aerial scout, 18 of 37 hobbit holes saved by rain, 2011 rebuild, 44 holes, Green Dragon 2012. All facts confirmed.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

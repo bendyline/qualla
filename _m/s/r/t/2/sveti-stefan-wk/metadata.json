@@ -629,5 +629,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "srt2-sveti-stefan-flight-context.mp3",
+      "srt2-sveti-stefan-intro.mp3",
+      "srt2-sveti-stefan-war-trophies-in-stone.mp3",
+      "srt2-sveti-stefan-the-place-of-justice.mp3",
+      "srt2-sveti-stefan-from-fishing-village-to-celebrity-retreat.mp3",
+      "srt2-sveti-stefan-an-island-you-cannot-enter.mp3"
+    ],
+    "durations": {
+      "srt2-sveti-stefan-flight-context.mp3": 53.9175833,
+      "srt2-sveti-stefan-intro.mp3": 54.9829166,
+      "srt2-sveti-stefan-war-trophies-in-stone.mp3": 54.229875,
+      "srt2-sveti-stefan-the-place-of-justice.mp3": 56.2945416,
+      "srt2-sveti-stefan-from-fishing-village-to-celebrity-retreat.mp3": 66.604125,
+      "srt2-sveti-stefan-an-island-you-cannot-enter.mp3": 53.9555
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -59,5 +59,24 @@
     "sourceGeohash4": "sc16"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sc16-omo-national-park-flight-context.mp3",
+      "sc16-omo-national-park-intro.mp3",
+      "sc16-omo-national-park-a-landscape-carved-by-water.mp3",
+      "sc16-omo-national-park-the-animals-that-remain.mp3",
+      "sc16-omo-national-park-people-and-parkland-in-collision.mp3",
+      "sc16-omo-national-park-the-view-from-above.mp3"
+    ],
+    "durations": {
+      "sc16-omo-national-park-flight-context.mp3": 58.210125,
+      "sc16-omo-national-park-intro.mp3": 56.5770416,
+      "sc16-omo-national-park-a-landscape-carved-by-water.mp3": 61.465375,
+      "sc16-omo-national-park-the-animals-that-remain.mp3": 65.2700833,
+      "sc16-omo-national-park-people-and-parkland-in-collision.mp3": 63.6155,
+      "sc16-omo-national-park-the-view-from-above.mp3": 54.04125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -78,5 +78,26 @@
   ],
   "galleryPaths": [
     "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "t02h-daallo-airlines-flight-159-flight-context.mp3",
+      "t02h-daallo-airlines-flight-159-intro.mp3",
+      "t02h-daallo-airlines-flight-159-the-blast-at-fourteen-thousand-feet.mp3",
+      "t02h-daallo-airlines-flight-159-a-cancelled-flight-and-a-diverted-plot.mp3",
+      "t02h-daallo-airlines-flight-159-a-laptop-a-wheelchair-and-a-broken-system.mp3",
+      "t02h-daallo-airlines-flight-159-justice-and-defiance.mp3",
+      "t02h-daallo-airlines-flight-159-what-twenty-minutes-means.mp3"
+    ],
+    "durations": {
+      "t02h-daallo-airlines-flight-159-flight-context.mp3": 42.0845416,
+      "t02h-daallo-airlines-flight-159-intro.mp3": 59.126125,
+      "t02h-daallo-airlines-flight-159-the-blast-at-fourteen-thousand-feet.mp3": 56.2077916,
+      "t02h-daallo-airlines-flight-159-a-cancelled-flight-and-a-diverted-plot.mp3": 50.9092916,
+      "t02h-daallo-airlines-flight-159-a-laptop-a-wheelchair-and-a-broken-system.mp3": 64.353125,
+      "t02h-daallo-airlines-flight-159-justice-and-defiance.mp3": 59.285,
+      "t02h-daallo-airlines-flight-159-what-twenty-minutes-means.mp3": 57.4946666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

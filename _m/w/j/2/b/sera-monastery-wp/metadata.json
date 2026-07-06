@@ -959,5 +959,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wj2b-sera-monastery-flight-context.mp3",
+      "wj2b-sera-monastery-intro.mp3",
+      "wj2b-sera-monastery-wild-roses-and-a-vision-in-the-sky.mp3",
+      "wj2b-sera-monastery-three-colleges-three-purposes.mp3",
+      "wj2b-sera-monastery-1959-and-the-road-to-bylakuppe.mp3",
+      "wj2b-sera-monastery-the-hermitages-above.mp3"
+    ],
+    "durations": {
+      "wj2b-sera-monastery-flight-context.mp3": 42.2262083,
+      "wj2b-sera-monastery-intro.mp3": 47.55325,
+      "wj2b-sera-monastery-wild-roses-and-a-vision-in-the-sky.mp3": 65.5797916,
+      "wj2b-sera-monastery-three-colleges-three-purposes.mp3": 62.21725,
+      "wj2b-sera-monastery-1959-and-the-road-to-bylakuppe.mp3": 75.2721666,
+      "wj2b-sera-monastery-the-hermitages-above.mp3": 74.2487083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

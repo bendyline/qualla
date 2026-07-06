@@ -1,0 +1,62 @@
+# Indravati River
+
+A 536-kilometer lifeline flowing from the Eastern Ghats through some of India's densest forests, the Indravati feeds the widest waterfall in the country before joining the mighty Godavari.
+
+**Location:** 18.7245, 80.2711
+
+**Categories:** Rivers of Chhattisgarh, Rivers of Maharashtra, Rivers of Odisha, Rivers of Telangana, Tributaries of the Godavari River
+
+## Introduction
+
+Hindu mythology says the river was born from heartbreak. Indrani, consort of the god Indra, discovered her husband's infatuation with a mortal woman named Udanti in the forests near Sunabeda. Consumed by grief, she cursed the lovers to flow as separate rivers that would never meet, and she herself became the Indravati, weeping westward through the hills forever. Whether or not the gods had a hand in it, the Indravati does begin as a modest stream high in the Eastern Ghats of Odisha and flows 536 kilometers before joining the Godavari River at the triple junction of Chhattisgarh, Maharashtra, and Telangana. Along the way, it drops 832 meters in elevation, carves through some of the most inaccessible forests in India, and creates the country's widest waterfall.
+
+## Born in the Eastern Ghats
+
+The Indravati rises at an elevation of 914 meters in the Kalahandi district of Odisha, on the western slopes of the Eastern Ghats. The hilltop village of Mardiguda, in Thuamula Rampur Block, marks the area where three small streams converge to form the river's headwaters. From here it flows westward through the districts of Kalahandi, Nabarangapur, and Koraput for 164 kilometers before crossing into Chhattisgarh. The river's total drainage area covers roughly 41,665 square kilometers, with about 7,435 square kilometers falling within Odisha. During monsoon floods, the Indravati overflows into the Sabari River through the Jaura Nallah, a natural connection that links two of the Godavari's major tributaries.
+
+## The Horseshoe at Chitrakoot
+
+About 40 kilometers west of Jagdalpur, the Indravati plunges 29 meters over a horseshoe-shaped cliff face that stretches roughly 300 meters wide during the monsoon. This is Chitrakoot Falls, often called the Niagara of India. During the rains, the water takes on a reddish hue from the laterite soils upstream, and the roar of the cascade can be heard from a considerable distance. In summer, however, the spectacle diminishes sharply. Check dams upstream and the diversion of water through the Jaura Nallah near the Odisha-Chhattisgarh border have reduced the dry-season flow to a trickle. Environmental activists have pushed to restore the falls, but for now its full power belongs to the monsoon months alone.
+
+## Lifeline of Bastar
+
+Locals call the Indravati the oxygen of Bastar, and the metaphor is apt. Most of the river's course runs through the dense forests of the Bastar division, one of the greenest and most ecologically rich regions in all of India. The Indravati National Park and its associated tiger reserves occupy the forested corridor along the river in Chhattisgarh, sheltering wildlife that depends on the waterway for survival. The river's importance extends beyond ecology. It is the agricultural backbone for tribal communities along its banks, who have farmed its floodplains for generations. The Upper Indravati Hydro Power Project, built near Mukhiguda in Kalahandi, diverts water into the Mahanadi valley and generates 600 megawatts of electricity, making it one of the largest dams in eastern India.
+
+## Dams Built and Dams Blocked
+
+Five hydroelectric projects were planned at various points along the Indravati: Kutru I, Kutru II, Nugur I, Nugur II, and Bhopalpatnam. None of them were built. Ecological concerns raised in various forums stalled every proposal, a rare instance in Indian development history where environmental objections carried the day against energy infrastructure. The Godavari Water Disputes Tribunal added another layer of complexity, requiring Odisha to ensure 45,000 million cubic feet of water at the state border with Chhattisgarh. Managing the Indravati's flow has become a balancing act between the water needs of multiple states, the ecological requirements of the forests and falls downstream, and the livelihoods of the tribal communities who depend on the river year-round.
+
+## Where Three States Meet
+
+After flowing 233 kilometers through Chhattisgarh, the Indravati turns south and traces the border between Chhattisgarh and Maharashtra for about 129 kilometers. It finally joins the Godavari near the village of Bhadrakali in Bijapur district, at the tri-state junction where Chhattisgarh, Maharashtra, and Telangana converge. Fed by tributaries like the Bhaskel, Parlkota, Kotri, and Nandiraj, the Indravati delivers a substantial volume of water to the Godavari system. From the air, the confluence is unmistakable: the Indravati's forest-dark waters meet the broader, silt-laden Godavari, and the two rivers merge into a single current flowing east toward the Bay of Bengal.
+
+## Flight Context
+
+The Indravati River flows from approximately 19.5°N, 83.2°E (source in the Eastern Ghats, Odisha) to approximately 18.7°N, 80.3°E (confluence with the Godavari). Chitrakoot Falls is at roughly 19.2°N, 81.7°E, about 40 km west of Jagdalpur. Nearest airport is Maa Danteswari Airport, Jagdalpur (VEJR). The river is a prominent navigation feature, winding through dense forest. Best viewed at 3,000-5,000 feet during monsoon months when flow is strongest. The horseshoe shape of Chitrakoot Falls is visible from lower altitudes.
+
+## Sources
+
+- [Indravati River - Wikipedia](https://en.wikipedia.org/?curid=2224362)
+  - River length ~536 km confirmed (Wikipedia: 535.80 km)
+  - Source elevation 914 meters in Kalahandi district, Odisha, Eastern Ghats confirmed
+  - 164 km course through Odisha before entering Chhattisgarh confirmed
+  - Total drainage area ~41,665 sq km confirmed
+  - Chitrakoot Falls height 29 meters confirmed
+  - Chitrakoot Falls width ~300 meters during monsoon confirmed (widest waterfall in India)
+  - Distance from Jagdalpur ~38-40 km west confirmed
+  - Five unbuilt hydroelectric projects confirmed
+  - Godavari Water Disputes Tribunal requirement confirmed
+  - Confluence at tri-state junction of Chhattisgarh, Maharashtra, Telangana confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-07 · 10 facts verified · 0 corrections
+
+All facts verified: length 536km (actual 535.80km), source at 914m in Kalahandi, 164km Odisha section, Chitrakoot Falls height 29m and width ~300m during monsoon, 38-40km from Jagdalpur, five unbuilt dams, Godavari Water Disputes Tribunal requirements, tri-state confluence confirmed. No corrections needed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

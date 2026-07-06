@@ -131,5 +131,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "ukmk-operation-catechism-flight-context.mp3",
+      "ukmk-operation-catechism-intro.mp3",
+      "ukmk-operation-catechism-the-third-attempt.mp3",
+      "ukmk-operation-catechism-a-failure-of-warning.mp3",
+      "ukmk-operation-catechism-fourteen-minutes.mp3",
+      "ukmk-operation-catechism-the-reckoning.mp3",
+      "ukmk-operation-catechism-celebration-and-doubt.mp3"
+    ],
+    "durations": {
+      "ukmk-operation-catechism-flight-context.mp3": 50.1047916,
+      "ukmk-operation-catechism-intro.mp3": 47.9862916,
+      "ukmk-operation-catechism-the-third-attempt.mp3": 65.7542916,
+      "ukmk-operation-catechism-a-failure-of-warning.mp3": 75.3272916,
+      "ukmk-operation-catechism-fourteen-minutes.mp3": 75.6409166,
+      "ukmk-operation-catechism-the-reckoning.mp3": 70.2715,
+      "ukmk-operation-catechism-celebration-and-doubt.mp3": 66.461
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

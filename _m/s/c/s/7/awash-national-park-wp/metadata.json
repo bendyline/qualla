@@ -597,5 +597,24 @@
     "_m/s/c/s/7/awash-national-park-wp/parc-national-d-awash-ethiopie.jpg",
     "_m/s/c/s/7/awash-national-park-wp/parc-national-d-awash-ethiopie-1.jpg"
   ],
-  "updatedAt": "2026-03-31T06:02:28.089Z"
+  "updatedAt": "2026-03-31T06:02:28.089Z",
+  "narration": {
+    "files": [
+      "scs7-awash-national-park-flight-context.mp3",
+      "scs7-awash-national-park-intro.mp3",
+      "scs7-awash-national-park-volcano-on-the-rift.mp3",
+      "scs7-awash-national-park-the-oryx-and-the-vanished.mp3",
+      "scs7-awash-national-park-a-sky-full-of-wings.mp3",
+      "scs7-awash-national-park-the-people-who-were-here-first.mp3"
+    ],
+    "durations": {
+      "scs7-awash-national-park-flight-context.mp3": 40.5848333,
+      "scs7-awash-national-park-intro.mp3": 54.2168333,
+      "scs7-awash-national-park-volcano-on-the-rift.mp3": 61.11725,
+      "scs7-awash-national-park-the-oryx-and-the-vanished.mp3": 71.3842083,
+      "scs7-awash-national-park-a-sky-full-of-wings.mp3": 67.4602083,
+      "scs7-awash-national-park-the-people-who-were-here-first.mp3": 70.9909583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

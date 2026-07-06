@@ -1,0 +1,68 @@
+# Ryogoku Kokugikan
+
+Tokyo's cathedral of sumo wrestling, where three annual grand tournaments unfold beneath a roof that collects rainwater and a basement that produces thousands of yakitori skewers.
+
+**Location:** 35.6937, 139.7925
+
+**Categories:** Sumo venues in Japan, Sports venues in Tokyo, Indoor arenas in Japan, Venues of the 2020 Summer Olympics, Buildings and structures in Sumida, Tokyo
+
+## Introduction
+
+In the basement of the Ryogoku Kokugikan, workers thread chicken onto bamboo skewers by the thousands. The yakitori is not an afterthought. Chickens stand on two feet and never touch the ground with their hands, which makes them a lucky charm for sumo wrestlers, who lose the moment a hand or knee hits the clay. This is the kind of place the Kokugikan is: a building where even the snack bar carries the weight of tradition. Since 1985, this arena in Tokyo's Sumida ward has hosted every January, May, and September grand tournament, continuing a lineage of sumo halls in the Ryogoku neighborhood that stretches back to 1909.
+
+## The First Hall and Its Dome of Ambition
+
+Before there was a Kokugikan, sumo bouts depended on the weather. Wrestlers competed in temple precincts under open sky, and rain meant cancellation. In March 1906, the Imperial Diet authorized construction of an indoor sumo facility within the grounds of the Ekoin temple in Ryogoku, and the architects Tatsuno Kingo and his collaborators designed Japan's first dome-shaped steel-framed building. When it opened on June 2, 1909, Tokyoites nicknamed it "the great umbrella" for its enormous roof, which imitated the kondo of Horyuji Temple despite the Western steel underneath. The arena could hold 13,000 spectators. Its very existence marked a turning point: sumo was no longer just a Shinto ritual performed outdoors. It had become a national sport with a permanent home.
+
+## Fire, Earthquake, Bombs, and Occupation
+
+The first Kokugikan endured a punishing century. In November 1917, a fire during a series of blazes across Tokyo collapsed the great roof, causing 1.2 million yen in damage. Tournaments moved to Yasukuni Shrine until the arena was rebuilt in January 1920 with a zinc-reinforced roof. Three years later, the Great Kanto earthquake of September 1923 destroyed it again. By 1944, the military had requisitioned the building and converted it into a balloon bomb factory. American air raids damaged it in March 1945, and after Japan's surrender, Allied occupation forces seized the arena, renaming it Ryogoku Memorial Hall. The last sumo tournament there took place in November 1946. The building limped on as a venue for boxing and pro wrestling before Nihon University purchased it in 1958. It was finally dismantled in 1983, its aging bones no longer meeting fire codes. Today a circle on the ground in a courtyard marks where the ring once stood.
+
+## A Modern Cathedral Built on a Rail Yard
+
+The current Kokugikan rose from the site of a defunct freight rail yard beside Ryogoku Station. The Japan Sumo Association negotiated the purchase from Japanese National Railways in the late 1970s, buying the Ryogoku land for 9.4 billion yen while selling its previous Kuramae property to the Tokyo Metropolitan Government for 14.3 billion yen. The new arena, which opened on January 9, 1985, seats 11,098 across three above-ground floors and two underground levels. Its 35,700 square meters of floor space include a movable ring and seating system that can be stowed for non-sumo events. At the inauguration, yokozuna Kitanoumi and Chiyonofuji performed ring-entering ceremonies, and Emperor Showa attended the first tournament, the first time an emperor had watched sumo on opening day of the new year.
+
+## Where Ritual Meets Engineering
+
+The Kokugikan's design bridges ancient ceremony and modern technology. Sumida ward required a rainwater collection system for the flood-prone site, so the arena's 8,360 square meters of roof feed a 1,000-cubic-meter underground tank that supplies 70 percent of the building's non-potable water and doubles as emergency reserve during earthquakes. The ring is lit by 124 individually angled lights, calibrated to avoid glare from wrestlers' sweat on camera while compensating for dark hair against audience backgrounds on television. Behind the arena sits the Sumo School, where new recruits spend six months studying calligraphy, sports science, sumo history, and civics alongside wrestling technique. Near the entrance, twin Inari shrines called Toyokuni Inari and Shusse Inari, originally built in the backyard of the first Kokugikan and relocated twice since, watch over wrestlers' safety and success.
+
+## Tea House Street and Tournament Days
+
+Inside the Kokugikan, a flower-decorated corridor called Chaya-dori, or Tea House Street, preserves a tradition older than the building itself. Twenty teahouse businesses operate here under a system of inheritance, the oldest dating to 1818. Attendants called dekata, dressed in traditional attire, guide patrons to their seats and deliver refreshments. Beyond the three annual grand tournaments, the Kokugikan hosts retirement ceremonies where top-division wrestlers ritually cut their topknot, kanreki celebrations for former yokozuna turning sixty, children's sumo events, and NHK's annual charity sumo festival each February. Professional wrestling has also claimed the arena as hallowed ground: New Japan Pro Wrestling's G1 Climax became a regular fixture, and the venue hosted boxing at the 2020 Summer Olympics.
+
+## Flight Context
+
+Located at 35.694N, 139.793E in the Yokoami neighborhood of Sumida, Tokyo, on the east bank of the Sumida River. The distinctive green-roofed arena is visible adjacent to Ryogoku Station and near the former Edo-Tokyo Museum. Nearest major airport is Tokyo Haneda (RJTT), approximately 15 km to the south-southwest. Narita International (RJAA) lies 60 km northeast. The arena sits within the dense urban fabric of eastern Tokyo; best spotted at 2,000-4,000 feet AGL by its large roof footprint near the river.
+
+## Sources
+
+- [Ryōgoku Kokugikan - Wikipedia](https://en.wikipedia.org/?curid=6995089)
+  - current Kokugikan opened January 9, 1985
+  - capacity 11,098 seats
+  - three annual tournaments: January, May, September
+  - land purchased from JNR for 9.4 billion yen
+  - Kuramae property sold to Tokyo Metropolitan Government for 14.3 billion yen
+  - first Kokugikan opened June 2, 1909 at Ekoin temple
+  - first Kokugikan capacity 13,000
+  - Tatsuno Kingo as architect of first Kokugikan
+  - 1917 fire, 1920 rebuild, 1923 earthquake destruction
+  - Nihon University purchased the old building in 1958
+  - old building dismantled 1983
+  - rainwater collection system confirmed
+- [Ryogoku Kokugikan Sumo Hall - THE GATE](https://thegate12.com/article/6)
+  - yakitori tradition linked to sumo luck confirmed
+  - Tea House Street (Chaya-dori) tradition confirmed
+  - 2020 Olympics boxing venue confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 11 facts verified · 0 corrections
+
+All facts verified: current arena opened Jan 9 1985, seats 11098, three annual basho in Jan/May/Sept, land bought from JNR for 9.4 billion yen, Kuramae sold for 14.3 billion yen, first Kokugikan opened June 2 1909 at Ekoin temple, capacity 13000, Tatsuno Kingo as architect, 1917 fire, 1923 earthquake, 1958 Nihon University purchase, 1983 dismantled. Rainwater collection system confirmed. Yakitori tradition confirmed. 2020 Olympics boxing venue confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

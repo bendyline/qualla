@@ -278,5 +278,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "v4j4-udmurt-language-flight-context.mp3",
+      "v4j4-udmurt-language-intro.mp3",
+      "v4j4-udmurt-language-distant-cousins-across-a-continent.mp3",
+      "v4j4-udmurt-language-five-extra-letters-and-fifteen-cases.mp3",
+      "v4j4-udmurt-language-three-dialects-and-a-fading-continuum.mp3",
+      "v4j4-udmurt-language-a-language-fighting-for-its-future.mp3"
+    ],
+    "durations": {
+      "v4j4-udmurt-language-flight-context.mp3": 40.2704166,
+      "v4j4-udmurt-language-intro.mp3": 37.4066666,
+      "v4j4-udmurt-language-distant-cousins-across-a-continent.mp3": 60.6457083,
+      "v4j4-udmurt-language-five-extra-letters-and-fifteen-cases.mp3": 74.6395416,
+      "v4j4-udmurt-language-three-dialects-and-a-fading-continuum.mp3": 60.081375,
+      "v4j4-udmurt-language-a-language-fighting-for-its-future.mp3": 77.4107083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

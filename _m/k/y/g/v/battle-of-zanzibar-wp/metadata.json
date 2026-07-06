@@ -55,5 +55,24 @@
     "sourceGeohash4": "kygv"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "kygv-battle-of-zanzibar-flight-context.mp3",
+      "kygv-battle-of-zanzibar-intro.mp3",
+      "kygv-battle-of-zanzibar-the-hunter-and-the-sitting-duck.mp3",
+      "kygv-battle-of-zanzibar-forty-minutes-of-fire.mp3",
+      "kygv-battle-of-zanzibar-the-aftermath-at-grave-island.mp3",
+      "kygv-battle-of-zanzibar-the-predator-becomes-prey.mp3"
+    ],
+    "durations": {
+      "kygv-battle-of-zanzibar-flight-context.mp3": 49.2825,
+      "kygv-battle-of-zanzibar-intro.mp3": 37.573125,
+      "kygv-battle-of-zanzibar-the-hunter-and-the-sitting-duck.mp3": 63.2919166,
+      "kygv-battle-of-zanzibar-forty-minutes-of-fire.mp3": 64.123625,
+      "kygv-battle-of-zanzibar-the-aftermath-at-grave-island.mp3": 55.0802916,
+      "kygv-battle-of-zanzibar-the-predator-becomes-prey.mp3": 67.4421666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

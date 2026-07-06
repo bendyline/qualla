@@ -66,5 +66,24 @@
     "sourceGeohash4": "smc7"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "smc7-museum-of-libya-flight-context.mp3",
+      "smc7-museum-of-libya-intro.mp3",
+      "smc7-museum-of-libya-a-palace-that-keeps-changing-names.mp3",
+      "smc7-museum-of-libya-septimius-severus-comes-home.mp3",
+      "smc7-museum-of-libya-fourteen-years-of-silence.mp3",
+      "smc7-museum-of-libya-through-the-fog.mp3"
+    ],
+    "durations": {
+      "smc7-museum-of-libya-flight-context.mp3": 35.9536666,
+      "smc7-museum-of-libya-intro.mp3": 48.9279166,
+      "smc7-museum-of-libya-a-palace-that-keeps-changing-names.mp3": 63.78025,
+      "smc7-museum-of-libya-septimius-severus-comes-home.mp3": 59.9301666,
+      "smc7-museum-of-libya-fourteen-years-of-silence.mp3": 64.1435833,
+      "smc7-museum-of-libya-through-the-fog.mp3": 53.1044583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

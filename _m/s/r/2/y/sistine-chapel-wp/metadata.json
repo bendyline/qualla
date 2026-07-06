@@ -480,5 +480,26 @@
     "_m/s/r/2/y/sistine-chapel-wp/trinity-cathedral-choir.jpg",
     "_m/s/r/2/y/sistine-chapel-wp/papa-leao-xvi.jpg"
   ],
-  "updatedAt": "2026-03-31T07:45:00.866Z"
+  "updatedAt": "2026-03-31T07:45:00.866Z",
+  "narration": {
+    "files": [
+      "sr2y-sistine-chapel-flight-context.mp3",
+      "sr2y-sistine-chapel-intro.mp3",
+      "sr2y-sistine-chapel-before-michelangelo.mp3",
+      "sr2y-sistine-chapel-a-sculptors-ceiling.mp3",
+      "sr2y-sistine-chapel-the-wall-of-judgment.mp3",
+      "sr2y-sistine-chapel-covered-and-uncovered.mp3",
+      "sr2y-sistine-chapel-the-conclave-room.mp3"
+    ],
+    "durations": {
+      "sr2y-sistine-chapel-flight-context.mp3": 39.8212916,
+      "sr2y-sistine-chapel-intro.mp3": 42.438875,
+      "sr2y-sistine-chapel-before-michelangelo.mp3": 65.2878333,
+      "sr2y-sistine-chapel-a-sculptors-ceiling.mp3": 64.9087916,
+      "sr2y-sistine-chapel-the-wall-of-judgment.mp3": 64.5326666,
+      "sr2y-sistine-chapel-covered-and-uncovered.mp3": 63.5425416,
+      "sr2y-sistine-chapel-the-conclave-room.mp3": 59.4997083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

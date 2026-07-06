@@ -65,5 +65,24 @@
     "sourceGeohash4": "qv0m"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qv0m-montgomery-reef-flight-context.mp3",
+      "qv0m-montgomery-reef-intro.mp3",
+      "qv0m-montgomery-reef-the-worlds-largest-inshore-reef.mp3",
+      "qv0m-montgomery-reef-the-tidal-engine.mp3",
+      "qv0m-montgomery-reef-when-the-tide-goes-out.mp3",
+      "qv0m-montgomery-reef-named-for-a-ships-surgeon.mp3"
+    ],
+    "durations": {
+      "qv0m-montgomery-reef-flight-context.mp3": 49.1069583,
+      "qv0m-montgomery-reef-intro.mp3": 35.8244583,
+      "qv0m-montgomery-reef-the-worlds-largest-inshore-reef.mp3": 41.8422083,
+      "qv0m-montgomery-reef-the-tidal-engine.mp3": 47.1135416,
+      "qv0m-montgomery-reef-when-the-tide-goes-out.mp3": 52.4256666,
+      "qv0m-montgomery-reef-named-for-a-ships-surgeon.mp3": 54.6685833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

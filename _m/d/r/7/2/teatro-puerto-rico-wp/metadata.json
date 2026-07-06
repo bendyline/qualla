@@ -86,5 +86,24 @@
   ],
   "galleryPaths": [
     "_m/d/r/7/2/teatro-puerto-rico-wp/teatro-puerto-rico-fly.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr72-teatro-puerto-rico-flight-context.mp3",
+      "dr72-teatro-puerto-rico-intro.mp3",
+      "dr72-teatro-puerto-rico-la-farandula.mp3",
+      "dr72-teatro-puerto-rico-nine-year-old-on-stage.mp3",
+      "dr72-teatro-puerto-rico-the-barrios-take-root.mp3",
+      "dr72-teatro-puerto-rico-curtain-call.mp3"
+    ],
+    "durations": {
+      "dr72-teatro-puerto-rico-flight-context.mp3": 43.0142916,
+      "dr72-teatro-puerto-rico-intro.mp3": 57.484625,
+      "dr72-teatro-puerto-rico-la-farandula.mp3": 54.3265416,
+      "dr72-teatro-puerto-rico-nine-year-old-on-stage.mp3": 61.75125,
+      "dr72-teatro-puerto-rico-the-barrios-take-root.mp3": 53.061,
+      "dr72-teatro-puerto-rico-curtain-call.mp3": 46.387125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

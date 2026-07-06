@@ -224,5 +224,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "us9q-northern-fleet-flight-context.mp3",
+      "us9q-northern-fleet-intro.mp3",
+      "us9q-northern-fleet-from-fishing-boats-to-nuclear-arsenals.mp3",
+      "us9q-northern-fleet-the-great-patriotic-war-in-arctic-waters.mp3",
+      "us9q-northern-fleet-cold-war-beneath-the-ice.mp3",
+      "us9q-northern-fleet-decline-and-arctic-revival.mp3",
+      "us9q-northern-fleet-the-closed-city-on-kola-bay.mp3"
+    ],
+    "durations": {
+      "us9q-northern-fleet-flight-context.mp3": 40.4635,
+      "us9q-northern-fleet-intro.mp3": 41.4992083,
+      "us9q-northern-fleet-from-fishing-boats-to-nuclear-arsenals.mp3": 56.2275,
+      "us9q-northern-fleet-the-great-patriotic-war-in-arctic-waters.mp3": 58.8484166,
+      "us9q-northern-fleet-cold-war-beneath-the-ice.mp3": 57.6100833,
+      "us9q-northern-fleet-decline-and-arctic-revival.mp3": 52.37,
+      "us9q-northern-fleet-the-closed-city-on-kola-bay.mp3": 53.6027916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

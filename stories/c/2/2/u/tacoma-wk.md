@@ -1,0 +1,76 @@
+# Tacoma
+
+The City of Destiny in the mountain's shadow - a gritty port city reinventing itself with world-class glass art, while Mount Rainier looms impossibly close on the eastern horizon.
+
+**Location:** 47.2410, -122.4600
+
+**Categories:** city, washington, pacific-northwest, arts, port
+
+## Introduction
+
+Mount Rainier doesn't just appear on Tacoma's horizon - it dominates it. The mountain rises 14,410 feet, seemingly close enough to touch from the city's hillsides, its glaciers catching alpenglow while the port below still sits in shadow. The Puyallup people called both mountain and city 'Tahoma' - the source of nourishment - and their descendants still live in these lands, their name memorialized in the city that grew around Commencement Bay. Tacoma was once Washington's most important city, the terminus of the Northern Pacific Railroad, a rough-and-tumble port that earned notoriety for its industrial grit. Now it's reinventing itself as an arts destination, anchored by glass artist Dale Chihuly's spectacular work and a revitalized downtown that still remembers where it came from.
+
+## The Mountain Looms
+
+No city in America has a more dramatic mountain view than Tacoma. Mount Rainier fills the eastern sky, its mass so immense that it creates its own weather, so close that its glaciers are visible without binoculars. The Puyallup Valley spreads between city and peak, farmland and suburbs that would be buried in minutes if another lahar - a volcanic mudflow - descended as they have repeatedly in geologic time.
+
+Visitors often assume the mountain must be closer than it actually is - the 54 miles between downtown and summit seem to collapse into nothing on clear days. The mountain appears on clear mornings with startling clarity, vanishes behind clouds for weeks during winter storms, and reemerges transformed by fresh snow. Residents orient themselves by it, check on it like a neighbor, and accept that beneath its beauty lies the most dangerous volcano in the Cascades.
+
+## Glass City
+
+Dale Chihuly was born in Tacoma, and he's repaid his hometown with some of his most spectacular work. The Museum of Glass rises on the waterfront, its 90-foot steel cone housing a hot shop where artists work in public, molten glass glowing orange as it's shaped into impossible forms. The Chihuly Bridge of Glass connects the museum to downtown, its ceiling embedded with thousands of blown glass sculptures, its towers holding installations that glow against the gray sky.
+
+The museum anchors a cultural revival. The Washington State History Museum and Tacoma Art Museum cluster nearby. The UW Tacoma campus has colonized historic warehouses. And the glass connection runs deeper than one artist: the city has become a center for glass arts education and production, drawing students and professionals who study at the Hilltop Artists program and other studios. Tacoma went all-in on an art form that requires fire, risk, and bold vision - fitting for a city reinventing itself.
+
+## The Port That Built the West
+
+Tacoma exists because of its harbor. Commencement Bay offered deep water access that early railroad builders prized, and when the Northern Pacific Railroad chose Tacoma as its western terminus in 1873, the city's future was sealed. Lumber poured through the port. Mills lined the waterfront. Boats departed for Alaska and Asia. The 'City of Destiny' nickname came from that railroad decision, and for decades Tacoma rivaled Seattle as the Pacific Northwest's commercial center.
+
+The port still operates, container ships and bulk carriers loading at terminals that stretch for miles. But the industrial waterfront is softening. The Foss Waterway, once jammed with tugboats and barges, now holds parks, restaurants, and the museums. Point Ruston, a former smelter site, has been cleaned and developed into a walkable community. The industrial heritage remains - you can't erase a century of manufacturing - but Tacoma is learning to live with its past while building something new.
+
+## Stadium to Hilltop
+
+Tacoma's neighborhoods tell its history. The Stadium District, north of downtown, preserves Victorian mansions from the railroad boom days, its namesake stadium - a castle-like high school built in 1906 - still hosting games beneath its turreted facade. Old Town, Tacoma's original settlement, clusters near the waterfront with small businesses and restaurants occupying historic buildings.
+
+Hilltop, east of downtown, has a more complex story. Once the heart of Tacoma's Black community, it was hit hard by urban renewal and disinvestment, gained notoriety during the crack epidemic, and is now experiencing rapid change as artists and young professionals discover affordable housing. The Link light rail extension connects Hilltop to downtown, bringing transit and development but also displacement concerns. Tacoma is growing, changing, gentrifying - the same story playing out in cities across America, but here with that mountain always watching.
+
+## Point Defiance
+
+Point Defiance Park occupies a peninsula jutting into Puget Sound, 760 acres of old-growth forest, waterfront trails, and gardens. It's one of the largest urban parks in the country, and from its beaches and bluffs, the views are spectacular: Mount Rainier to the southeast, the Narrows Bridge to the west, Vashon Island across the sound, the Olympics in the distance.
+
+Within the park, the zoo and aquarium showcase Pacific Northwest wildlife. Five Mile Drive loops the perimeter, passing through forest so dense the city vanishes entirely. Fort Nisqually, a reconstructed Hudson's Bay Company trading post, offers a glimpse at pre-American history. But most visitors come simply to walk the trails, watch ferries cross the sound, and feel the particular calm of old forest meeting salt water. Point Defiance is Tacoma's gift to itself - a wild space preserved when the city was young, now irreplaceable.
+
+## Flight Context
+
+Located at 47.24°N, 122.46°W on Commencement Bay. The city sits on hills rising from the industrial waterfront, with Mount Rainier dominating the eastern horizon (the mountain appears extraordinarily close from this angle). Look for Point Defiance Park as a dark green peninsula at the north end of the city, the Tacoma Narrows Bridge crossing to the west. The port facilities extend along the waterway. Stadium High School's castle-like structure is visible in the Stadium District. The Museum of Glass's distinctive cone marks the revitalized waterfront. Tacoma Dome is visible as a white dome south of downtown. Nearby airports: Seattle-Tacoma International (KSEA) 22nm north, Tacoma Narrows (KTIW) 8nm west. The Tacoma Narrows can experience strong winds.
+
+## Sources
+
+- [Tacoma - Wikivoyage](https://en.wikivoyage.org/?curid=35031)
+- [Mount Rainier - U.S. Geological Survey](https://www.usgs.gov/volcanoes/mount-rainier)
+  - 14,410 ft elevation
+  - Most dangerous volcano in Cascades
+- [Museum of Glass - Official Website](https://www.museumofglass.org/)
+  - Located on Tacoma waterfront
+  - Features hot shop for glassblowing
+- [Dale Chihuly - Wikipedia](https://en.wikipedia.org/wiki/Dale_Chihuly)
+  - Born in Tacoma
+  - Chihuly Bridge of Glass connects museum to downtown
+
+## Review Notes
+
+**Reviewed:** 2026-01-16 · 8 facts verified · 1 correction
+
+Fixed Mount Rainier height from 14,411 to 14,410 feet per USGS
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- The City of Destiny in the mountain's shadow
+- No city in America has a more dramatic mountain view than Tacoma
+
+---
+
+*Word count: 880*
+*Read time: 5 minutes*

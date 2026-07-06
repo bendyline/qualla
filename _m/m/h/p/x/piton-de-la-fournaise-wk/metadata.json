@@ -473,5 +473,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "mhpx-piton-de-la-fournaise-flight-context.mp3",
+      "mhpx-piton-de-la-fournaise-intro.mp3",
+      "mhpx-piton-de-la-fournaise-a-furnace-with-a-long-memory.mp3",
+      "mhpx-piton-de-la-fournaise-the-language-of-lava.mp3",
+      "mhpx-piton-de-la-fournaise-walking-into-the-moon.mp3",
+      "mhpx-piton-de-la-fournaise-when-the-furnace-lights-up.mp3",
+      "mhpx-piton-de-la-fournaise-life-reclaiming-the-rock.mp3"
+    ],
+    "durations": {
+      "mhpx-piton-de-la-fournaise-flight-context.mp3": 47.9670833,
+      "mhpx-piton-de-la-fournaise-intro.mp3": 48.1544166,
+      "mhpx-piton-de-la-fournaise-a-furnace-with-a-long-memory.mp3": 57.1622083,
+      "mhpx-piton-de-la-fournaise-the-language-of-lava.mp3": 59.0455416,
+      "mhpx-piton-de-la-fournaise-walking-into-the-moon.mp3": 65.0689166,
+      "mhpx-piton-de-la-fournaise-when-the-furnace-lights-up.mp3": 64.6172916,
+      "mhpx-piton-de-la-fournaise-life-reclaiming-the-rock.mp3": 63.055625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

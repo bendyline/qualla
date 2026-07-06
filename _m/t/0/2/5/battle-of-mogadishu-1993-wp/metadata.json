@@ -322,5 +322,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "t025-battle-of-mogadishu-1993-flight-context.mp3",
+      "t025-battle-of-mogadishu-1993-intro.mp3",
+      "t025-battle-of-mogadishu-1993-the-road-to-gothic-serpent.mp3",
+      "t025-battle-of-mogadishu-1993-fifteen-hours-in-the-dust.mp3",
+      "t025-battle-of-mogadishu-1993-the-somali-side-of-the-story.mp3",
+      "t025-battle-of-mogadishu-1993-the-withdrawal-that-changed-everything.mp3"
+    ],
+    "durations": {
+      "t025-battle-of-mogadishu-1993-flight-context.mp3": 43.7107916,
+      "t025-battle-of-mogadishu-1993-intro.mp3": 68.696875,
+      "t025-battle-of-mogadishu-1993-the-road-to-gothic-serpent.mp3": 76.4724166,
+      "t025-battle-of-mogadishu-1993-fifteen-hours-in-the-dust.mp3": 74.9884166,
+      "t025-battle-of-mogadishu-1993-the-somali-side-of-the-story.mp3": 74.989,
+      "t025-battle-of-mogadishu-1993-the-withdrawal-that-changed-everything.mp3": 70.5100833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

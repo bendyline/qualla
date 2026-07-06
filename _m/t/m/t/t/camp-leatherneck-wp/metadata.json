@@ -61,5 +61,26 @@
     "sourceGeohash4": "tmtt"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "tmtt-camp-leatherneck-flight-context.mp3",
+      "tmtt-camp-leatherneck-intro.mp3",
+      "tmtt-camp-leatherneck-a-city-built-on-speed.mp3",
+      "tmtt-camp-leatherneck-the-weight-of-war.mp3",
+      "tmtt-camp-leatherneck-thirty-four-million-dollars-and-a-ghost.mp3",
+      "tmtt-camp-leatherneck-flags-furled-anthems-played.mp3",
+      "tmtt-camp-leatherneck-what-the-desert-keeps.mp3"
+    ],
+    "durations": {
+      "tmtt-camp-leatherneck-flight-context.mp3": 38.5835416,
+      "tmtt-camp-leatherneck-intro.mp3": 48.385,
+      "tmtt-camp-leatherneck-a-city-built-on-speed.mp3": 56.6559583,
+      "tmtt-camp-leatherneck-the-weight-of-war.mp3": 59.2250833,
+      "tmtt-camp-leatherneck-thirty-four-million-dollars-and-a-ghost.mp3": 61.7634166,
+      "tmtt-camp-leatherneck-flags-furled-anthems-played.mp3": 53.412,
+      "tmtt-camp-leatherneck-what-the-desert-keeps.mp3": 38.532875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

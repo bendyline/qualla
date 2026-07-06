@@ -398,5 +398,24 @@
     "_m/s/c/v/x/lake-abbe-wp/lake-abbe-map.png",
     "_m/s/c/v/x/lake-abbe-wp/iss012-e-11366-view-of-ethiopi.jpg"
   ],
-  "updatedAt": "2026-03-31T06:08:35.660Z"
+  "updatedAt": "2026-03-31T06:08:35.660Z",
+  "narration": {
+    "files": [
+      "scvx-lake-abbe-flight-context.mp3",
+      "scvx-lake-abbe-intro.mp3",
+      "scvx-lake-abbe-where-the-earth-comes-apart.mp3",
+      "scvx-lake-abbe-the-chimneys.mp3",
+      "scvx-lake-abbe-a-lake-that-is-disappearing.mp3",
+      "scvx-lake-abbe-the-people-of-the-furnace.mp3"
+    ],
+    "durations": {
+      "scvx-lake-abbe-flight-context.mp3": 49.7530833,
+      "scvx-lake-abbe-intro.mp3": 63.3338333,
+      "scvx-lake-abbe-where-the-earth-comes-apart.mp3": 68.425625,
+      "scvx-lake-abbe-the-chimneys.mp3": 59.4659583,
+      "scvx-lake-abbe-a-lake-that-is-disappearing.mp3": 70.1810416,
+      "scvx-lake-abbe-the-people-of-the-furnace.mp3": 61.114875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

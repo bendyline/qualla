@@ -1,0 +1,60 @@
+# War Museum Cambodia
+
+An open-air museum in Siem Reap where rusting Soviet tanks and battle-scarred helicopters, rescued from jungle battlefields for the price of scrap metal, preserve the memory of Cambodia's decades of civil war.
+
+**Location:** 13.3875, 103.8313
+
+**Categories:** military-history, museum, war-memorial, cambodia
+
+## Introduction
+
+A T-54 tank sits beneath a mango tree, its turret frozen mid-traverse, rust bleeding through olive drab paint in long streaks that trace the path of monsoon rains. Beside it, a Mil Mi-8 helicopter lists on deflated tires, rotor blades drooping like wilted leaves. These machines once fought across Cambodia's jungles and rice paddies during decades of civil war. Now they rest on two hectares of land just off National Road 6 in Siem Reap, between the city center and the international airport, and they have a different mission: to make sure no one forgets.
+
+## Salvaged from the Jungle
+
+The collection began in 1999, years before the museum itself existed. Teams ventured into former combat zones around Anlong Veng, Siem Reap, and Oddar Meanchey to recover abandoned military hardware. The work was grueling and dangerous. Most of the machinery was enormously heavy, stranded in dense jungle where roads had long since been swallowed by vegetation. Getting a tank out of the forest required ingenuity and persistence in equal measure. Complicating matters, scrap metal dealers were racing to buy the same equipment. A tank could be had for $300 to $400 at scrap prices, and dealers were eager to melt down history for profit. The museum's collectors had to outbid them or arrive first. What they gathered was a remarkable cross-section of Cold War armament: Chinese, American, and Soviet hardware that told the story of how global superpowers armed Cambodia's warring factions. Some pieces had seen action as far back as World War II before being passed along supply chains that eventually reached Southeast Asia.
+
+## Iron Under the Mangoes
+
+Walk the museum grounds today and the collection sprawls beneath the shade of mango trees, an unlikely pairing of tropical canopy and military steel. Russian T-54 and T-55 tanks bear the scars of actual combat, their armor dented and punctured. A Shenyang F-6 jet fighter, the Chinese-manufactured variant of the Soviet MiG-19, sits with its nose cone pointed skyward as if still expecting a scramble order. The Mil Mi-8 transport helicopter, one of the most widely produced helicopters in aviation history, dwarfs the visitors who peer into its cargo bay. Artillery pieces line the paths: an 85-millimeter field gun, a D-44 divisional gun. Inside display cases, the scale shifts to the personal. AK-47 assault rifles, ubiquitous in every faction's hands during the conflict, lie next to claymore antipersonnel mines and an array of landmines that once lurked beneath Cambodian soil. Uniforms, flags, and rare wartime photographs round out the exhibition, putting human faces on a conflict that killed an estimated 275,000 combatants and civilians.
+
+## A Museum That Nearly Died
+
+When the museum opened in February 2001, it was called the Siem Reap War Museum. For its first years it drew curious visitors who came to Siem Reap primarily for the temples of Angkor. But attention faded. By around 2008, the museum had been neglected for years and was deteriorating rapidly. Visitor numbers dwindled to roughly 20 people a day, barely enough to keep the gates open. The collection rusted in the rain, and the grounds grew wild. It seemed the museum might become an artifact of abandonment itself. Then in 2013 a new general manager, R.S. Esselaar, was appointed. He renamed the institution War Museum Cambodia and began an ambitious renovation. A tornado on May 18, 2015, badly damaged the site, but rather than signal the end, the destruction accelerated rebuilding. By 2016, a full reconstruction was underway. The new Landmine House opened in 2018, giving the collection of explosive ordnance a dedicated, purpose-built space. Visitor records followed.
+
+## Preserving What War Left Behind
+
+Project Preservation, launched in 2015, marked a philosophical shift. Rather than simply displaying found objects, the museum began restoring certain artifacts to their original condition while deliberately leaving others in their battle-damaged state. The juxtaposition is intentional: a restored tank shows what these machines looked like when they rolled off factory floors in the Soviet Union or China, while its scarred neighbor shows what happened when they reached the Cambodian countryside. Over the years, private military collectors like Geoffrey Oldham donated additional pieces. Esselaar himself contributed artifacts found during visits to remote villages, where weapons from the conflict still surface in fields and forest clearings. The museum exists not as a celebration of weaponry but as a memorial. Cambodia's civil war, the Khmer Rouge genocide, and the Vietnamese occupation left scars that are still healing. The hardware under the mango trees is a physical record of that suffering, preserved so that future generations can understand what their country endured.
+
+## Witness from Above
+
+From the air, the museum grounds appear as a green rectangle of mango canopy punctuated by the angular shapes of military vehicles. Siem Reap spreads to the south and east, while the temples of Angkor begin just a few kilometers to the north. The contrast is striking: one of humanity's greatest architectural achievements and one of its darkest modern chapters, separated by a short drive along National Road 6. Siem Reap International Airport lies nearby to the west, making the museum one of the first landmarks visible on approach. For anyone flying into this region, the proximity of ancient grandeur and modern tragedy is inescapable. The tanks beneath the trees are a reminder that history is not only carved in stone.
+
+## Flight Context
+
+Located at 13.388°N, 103.831°E in Siem Reap, Cambodia. The museum sits just off National Road 6 between Siem Reap city center and Siem Reap-Angkor International Airport (ICAO: VDSR). Best viewed at 2,000-3,000 feet where the open-air collection is visible as military vehicles arranged beneath mango tree canopy. The temples of Angkor Wat lie approximately 7 km to the north. Tonle Sap lake is visible to the south. Tropical climate with monsoon season June-October; dry season offers best visibility.
+
+## Sources
+
+- [War Museum Cambodia - Wikipedia](https://en.wikipedia.org/?curid=45634639)
+  - Museum collection salvaged from combat zones including Anlong Veng, Siem Reap, Oddar Meanchey confirmed
+  - Museum opened February 2001 confirmed
+  - R.S. Esselaar appointed general manager in 2013, renamed to War Museum Cambodia confirmed
+  - Tornado on May 18, 2015 damaged the site confirmed
+  - Landmine House opened 2018 confirmed
+  - Two hectares of land off National Road 6 confirmed
+  - Tank at scrap price of $300-$400 confirmed
+  - Chinese, US, Soviet hardware mix confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 10 facts verified · 0 corrections
+
+Verified: collection salvage from Anlong Veng/Siem Reap/Oddar Meanchey, opened Feb 2001, Esselaar appointed 2013 and renamed museum, tornado May 18 2015, Landmine House 2018, 2 hectares on Road 6, tank 00-400 scrap, Chinese/US/Soviet hardware mix. No errors. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 815*
+*Read time: 4 minutes*

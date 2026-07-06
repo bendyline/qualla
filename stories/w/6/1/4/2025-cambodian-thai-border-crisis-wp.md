@@ -1,0 +1,70 @@
+# 2025 Cambodian-Thai Border Crisis
+
+In mid-2025, a series of border incidents between Cambodia and Thailand escalated into the worst armed confrontation between the two nations in over a decade, involving airstrikes, rocket barrages, and tens of thousands of displaced civilians before a fragile peace accord was signed in Kuala Lumpur.
+
+**Location:** 11.6515, 102.9091
+
+**Categories:** conflict, border-dispute, cambodia, thailand, southeast-asia, contemporary
+
+## Introduction
+
+The ceasefire collapsed before the ink was dry. In late July 2025, as Cambodian and Thai delegations prepared for peace talks in Malaysia, fighting erupted across at least eight sectors of their shared border at three in the morning. Surin Province, on the Thai side, was declared a disaster area before breakfast. Within days, F-16 fighter jets were striking Cambodian artillery positions, BM-21 rockets were landing on Thai soil, and the International Committee of the Red Cross was visiting eighteen Cambodian prisoners of war in Thai custody. What had begun with landmine incidents along disputed border markers in May had become the most serious military confrontation between the two Southeast Asian neighbors since the Preah Vihear clashes of 2008-2011 -- a crisis that would eventually draw in mediators from the United States, China, and Malaysia before a peace accord was signed in October, only to unravel again in December.
+
+## A Border Wired with History
+
+The Cambodia-Thailand border has been contested for centuries, but the modern flashpoints cluster around ancient temple complexes and poorly marked frontier zones. Satellite analysis by the Australian Strategic Policy Institute found that Cambodian forces had reinforced multiple positions before the first incident on 28 May 2025, constructing new bunkers, access roads, and defensive positions near Trapeang Kul. Thailand's military responded in kind. The disputed areas -- around Prasat Ta Khwai, Prasat Ta Muen Thom, and the Chong Ahn Ma corridor -- sit in forested, hilly terrain where exact borders have been argued over since French colonial cartographers drew them in the early twentieth century. On 2 June, Cambodian Prime Minister Hun Manet announced his government would file a complaint at the International Court of Justice. By mid-July, soldiers on both sides were stepping on landmines during routine patrols, and each nation was accusing the other of provocation.
+
+## Five Days in July
+
+The full-scale fighting began on 24 July 2025. According to BBC correspondent Jonathan Head and analysts at Janes Information Services, the initial engagement started with a Cambodian rocket barrage into Thailand, followed by retaliatory Thai airstrikes. Cambodia disputed this account. Over the next five days, 48 people were confirmed killed: sixteen Thai soldiers and civilians, and at least thirty-two Cambodians. Cambodia accused Thailand of deploying chemical weapons -- a claim circulated with an image that fact-checkers traced to a Reuters photograph of a California wildfire from January 2025. Thailand acknowledged using white phosphorus munitions but emphasized that white phosphorus is not classified as a chemical weapon under the Chemical Weapons Convention. On 28 July, the two sides agreed to a ceasefire in Putrajaya, Malaysia, with U.S. ambassador to Malaysia Edgard Kagan and Chinese ambassador Ouyang Yujing serving as co-facilitators. The ceasefire held -- tenuously.
+
+## The Civilians Between
+
+For the people living along the border, the crisis was measured not in diplomatic communiques but in displacement, violence, and fear. Tens of thousands of Cambodian migrant workers in Thailand faced rising discrimination and harassment. After the initial ceasefire in August, Thai media reported traffic jams stretching eight kilometers at the Ban Laem border checkpoint as roughly 20,000 Cambodian nationals tried to return home. In November, an eighteen-year-old Cambodian migrant worker was reportedly raped by Thai paramilitary soldiers while traveling back to Cambodia, prompting condemnation from over two hundred Cambodian organizations. At least four other Cambodian workers were assaulted amid social media posts urging Thai citizens to demonstrate patriotism by attacking Cambodians. Cambodia closed the Poipet border crossing in October, stranding thousands of Thai citizens. The conflict's human toll extended well beyond the soldiers and diplomats negotiating in foreign capitals.
+
+## Peace Signed, Peace Broken
+
+On 26 October 2025, at the Kuala Lumpur Convention Centre during the 47th ASEAN Summit, Thai Prime Minister Anutin Charnvirakul and Cambodian Prime Minister Hun Manet signed the Kuala Lumpur Peace Accord. U.S. President Donald Trump and Malaysian Prime Minister Anwar Ibrahim witnessed the ceremony. The accord called for withdrawal of heavy weapons, ASEAN ceasefire monitors, joint landmine clearance, release of the eighteen Cambodian prisoners of war, and a task force to address cross-border scam centers. Cambodia nominated Trump for the 2025 Nobel Peace Prize for his mediation role. The peace lasted six weeks. On 10 November, a landmine exploded in Sisaket Province, injuring two Thai soldiers. Tensions ratcheted back up through November as both sides accused the other of violations. Then, on the morning of 8 December, fighting erupted again across the border.
+
+## December's Escalation
+
+The December clashes were fiercer than July's. Thailand's air force launched airstrikes along the border, deployed F-16 jets against Cambodian positions, and announced an operation codenamed Sattawat in honor of a fallen Thai soldier. Cambodia reported that Thai shelling killed seven civilians, including an infant, and wounded twenty others. Thailand bombed a casino complex near the Trat Province border and an oil depot in Oddar Meanchey Province. Cambodia withdrew its entire delegation from the 2025 SEA Games, which Thailand was hosting. The Royal Thai Army declared martial law and a nighttime curfew across four districts of Sa Kaeo Province, while Cambodia accused Thailand of employing Ukrainian-style FPV suicide drones controlled by foreign mercenaries. Cultural heritage sites, including areas near the Preah Vihear temple complex, suffered damage that Cambodia's Ministry of Culture called profoundly immoral. As 2025 drew to a close, the border remained militarized, the peace accord was suspended, and the ancient question of where exactly Cambodia ends and Thailand begins remained as unresolved as it had been for centuries.
+
+## Flight Context
+
+The Cambodia-Thailand border crisis zone (approximately 11.65N, 102.91E) stretches across several hundred kilometers of the shared frontier, with major flashpoints near Prasat Ta Khwai, Prasat Ta Muen Thom, and the Chong Ahn Ma corridor in the Dangrek Mountains. The terrain is hilly, forested, and dotted with ancient Khmer temple ruins. From altitude, the border area appears as a mix of dense forest and cleared agricultural land. Key nearby airports: Siem Reap-Angkor International Airport (VDSR), approximately 150km east on the Cambodian side; Ubon Ratchathani Airport (VTUU) on the Thai side, approximately 180km north. The Poipet-Aranyaprathet border crossing, a major commercial gateway, is visible as a densely built-up corridor along the frontier. Military activity may restrict airspace in the border zone.
+
+## Sources
+
+- [2025 Cambodian–Thai border crisis - Wikipedia](https://en.wikipedia.org/?curid=80127921)
+  - Fighting began July 24 2025 confirmed
+  - 48 killed over five days: 16 Thai, 32 Cambodian confirmed
+  - Cambodia accused Thailand of chemical weapons; image traced to California wildfire photo confirmed
+  - Thailand acknowledged white phosphorus use, noted it is not classified as chemical weapon under CWC confirmed
+  - Ceasefire agreed July 28 in Putrajaya Malaysia confirmed
+  - U.S. ambassador Edgard Kagan and Chinese ambassador Ouyang Yujing as co-facilitators confirmed
+  - Kuala Lumpur Peace Accord signed October 26 2025 at 47th ASEAN Summit confirmed
+  - Trump and Anwar Ibrahim witnessed signing ceremony confirmed
+  - 18 Cambodian POWs in Thai custody confirmed
+  - Cambodia nominated Trump for 2025 Nobel Peace Prize confirmed
+  - November 10 landmine explosion in Sisaket Province injuring Thai soldiers confirmed
+  - December 8 fighting resumed confirmed
+  - Thailand bombed casino complex near Trat Province border confirmed
+  - Cambodia withdrew from 2025 SEA Games confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 14 facts verified · 0 corrections
+
+Verified fighting began July 24 2025. 48 killed: 16 Thai, 32 Cambodian confirmed. Chemical weapons claim and California wildfire photo fact-check confirmed. White phosphorus use acknowledged. Ceasefire July 28 Putrajaya. KL Peace Accord Oct 26 2025, 47th ASEAN Summit, Trump and Anwar Ibrahim witnessed. Nov 10 landmine Sisaket. Dec 8 fighting resumed. Spiciness 3.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- the ancient question of where exactly Cambodia ends and Thailand begins remained as unresolved as it had been for centuries
+
+---
+
+*Word count: 890*
+*Read time: 5 minutes*

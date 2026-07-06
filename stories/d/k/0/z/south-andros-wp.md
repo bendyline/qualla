@@ -1,0 +1,65 @@
+# South Andros
+
+The remote southern third of the Bahamas' largest island, where the mail boat brings everything from milk to petrol once a week, the road ends at Mars Bay, and the world-famous bonefish flats draw anglers to one of the Caribbean's least-developed coasts.
+
+**Location:** 23.9000, -77.6000
+
+**Categories:** island, bahamas, fishing, remote, caribbean
+
+## Introduction
+
+The mail boat leaves Nassau on Monday night. It arrives at Drigg's Hill on Tuesday morning carrying everything South Andros needs for the week: milk, petrol, building supplies, natural gas tanks, and whatever else 3,711 people require to live on an island with no traffic lights, no chain restaurants, and a bank that opens for public business on Wednesdays. This is the southernmost third of Andros - the largest landmass in the Bahamas, though you would never guess it from the ground. South Andros is 20 miles wide at its broadest point, but only the eastern fringe is inhabited. The rest is salt marsh, tidal estuary, and mangrove, stretching west toward a coast that has no roads, no docks, and no reason for either.
+
+## One Road, No Lights
+
+The Queen's Highway runs 40 miles from Drigg's Hill in the north to Mars Bay in the south. It is paved, two lanes wide, and illuminated at night - modest infrastructure that nonetheless represents a significant investment for a place this remote. There are no traffic lights along its entire length. The highway crosses two bridges, one at Deep Creek and one at Little Creek, both refurbished in 2012. At Mars Bay, the road ends in a cul-de-sac, but the island continues for another 20 miles to the south - trackless, uninhabited, accessible only by boat.
+
+Almost everyone on South Andros lives along this single road or on the few short paved spurs that branch off it. One side road leads west along Deep Creek to Black Point, where a handful of homes sit at the edge of the inhabited world. Beyond them, the marsh takes over. Houses are built of cement block and local limestone because wood is expensive to import and cannot survive hurricanes. The building material tells you everything about life here: permanence wrested from what the island itself provides.
+
+## The Bonefish Frontier
+
+Fly fishermen speak of South Andros the way surfers speak of Indonesia's outer islands - with reverence and a hint of possessiveness. The southeastern fringe of the island is fringed by vast, shallow flats where bonefish school in water so clear you can spot their shadows before you see the fish themselves. These are among the most productive bonefish flats in the world, and a small industry has grown to serve the anglers who seek them out.
+
+As of the mid-2000s, four to six bonefish lodges operated on South Andros, each maintaining between 4 and 12 guest rooms, offering all-inclusive packages that pair guided fishing with simple accommodations. A small upscale ecotourism lodge and a 36-room traditional hotel round out the options. The tourist traffic is deliberately low - few restaurants operate, and shopping consists of basic hardware and grocery stores. The economy this tourism supports is real but fragile, supplementing the island's older trades in fresh conch, spiny lobster, and land crab, all harvested seasonally and sold to distributors in Nassau.
+
+## Island Rhythms
+
+South Andros runs on schedules that would baffle anyone accustomed to mainland convenience. The mail boat comes weekly. Commercial flights from Nassau arrive twice daily at South Andros Airport, and a couple of flights connect directly to Fort Lauderdale. A public ferry links South Andros to Mangrove Cay, its neighboring district to the north, across one of the broad, unspanned tidal creeks that divide Andros into its separate districts. Without this ferry or a private boat, there is no way to travel between the districts by land - the creeks are too wide to bridge, or at least no one has bridged them yet.
+
+The majority of residents belong to Baptist or Seventh-day Adventist congregations, with Catholic, Anglican, and other denominations each represented by a church or two. There are no movie theaters. There are no video rental stores. The Bank of the Bahamas branch in Kemp's Bay has an ATM, which counts as modern convenience. Life here is not lacking - it is simply calibrated to a different standard, one where community and self-sufficiency substitute for the amenities that larger populations take for granted.
+
+## Where the Map Goes Blank
+
+South of Mars Bay, Andros continues but civilization does not. The island stretches roughly 20 more miles through uninhabited terrain - a maze of mangrove creeks, salt pans, and tidal flats where the boundary between land and sea dissolves into ambiguity. No roads penetrate this wilderness. No power lines cross it. From the air, the transition from inhabited to wild is abrupt: the thin line of the Queen's Highway and its scatter of limestone houses simply stops, and beyond it spreads a green and brown emptiness that extends to the island's southern tip.
+
+This uninhabited expanse is part of what makes Andros ecologically extraordinary. The island's western coast faces the Tongue of the Ocean, a deep oceanic trench that plunges over 6,000 feet just offshore - one of the most dramatic depth changes in the Atlantic. Underground, freshwater lenses accumulate in the limestone, supplying wells and catchment systems for the southern settlements where municipal water does not reach. Between the freshwater below and the salt marsh above, South Andros exists in a precarious balance, inhabited at its edges, wild at its core, dependent on a weekly boat from Nassau and the stubborn self-reliance of people who chose to stay.
+
+## Flight Context
+
+Located at 23.90N, 77.60W in the central Bahamas. South Andros is the southern third of Andros Island, the largest landmass in the Bahamas. South Andros Airport (MYAK/TZN) handles commercial flights from Nassau and Fort Lauderdale with a single paved runway. From altitude, the island is unmistakable: a vast expanse of green and brown marsh with habitation visible only as a thin strip along the eastern coast. The Queen's Highway is traceable as a line running north-south. To the west, the Tongue of the Ocean - a deep oceanic trench - creates a dramatic color shift from shallow turquoise to deep blue just offshore. The broad tidal creeks separating South Andros from Mangrove Cay and Central Andros are clearly visible, dividing the landmass into distinct sections. Best viewed at 3,000-8,000 feet to appreciate the contrast between inhabited coast and wild interior. Nassau (MYNN) lies approximately 30 miles to the northeast across the shallow Great Bahama Bank.
+
+## Sources
+
+- [South Andros - Wikipedia](https://en.wikipedia.org/?curid=2469926)
+  - Queen's Highway 40 miles confirmed
+  - Mars Bay is road's southern terminus confirmed
+  - Two bridges at Deep Creek and Little Creek refurbished 2012 confirmed
+  - Population approximately 3,711 confirmed
+  - South Andros Airport (MYAK/TZN) confirmed
+  - Mail boat from Nassau confirmed
+  - Tongue of the Ocean plunges over 6,000 feet confirmed
+  - Andros largest landmass in Bahamas confirmed
+  - Bonefish fishing lodges confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-12 · 9 facts verified · 0 corrections
+
+All facts verified: Queen's Highway 40 miles confirmed, Mars Bay terminal confirmed, bridges refurbished 2012 confirmed, population 3711 confirmed, Tongue of the Ocean 6000+ feet confirmed, Andros largest Bahamas landmass confirmed. No corrections needed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

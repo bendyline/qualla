@@ -1,0 +1,54 @@
+# Western Cape Karoo
+
+A semi-desert valley between mountain ranges where ostrich feather millionaires built red-stone palaces, Khoisan heritage lingers in place names, and the only way in or out is through gorges cut by ancient rivers.
+
+**Location:** -32.6900, 21.8100
+
+**Categories:** Karoo, Western Cape
+
+## Introduction
+
+The feather millionaires of Oudtshoorn built their palaces from red rock. In the 1880s, when ostrich plumes commanded extravagant prices in the fashion capitals of Europe, the Little Karoo's dry climate and plentiful streams produced the finest ostriches in Africa, and the fortunes that followed transformed a remote farming valley into something improbable -- a semi-desert lined with Victorian mansions built from the red sandstone of the Enon Conglomerate. Those grand palaces still stand along Oudtshoorn's streets, monuments to a boom that went bust and a landscape that has always rewarded those who understand its extremes.
+
+## Walled In by Mountains
+
+The Western Cape Karoo encompasses two distinct semi-arid regions -- the Little Karoo (Klein Karoo) and the fringes of the Great Karoo -- separated by the Swartberg mountains. The Little Karoo is a 290-kilometer-long valley, only 40 to 60 kilometers wide, formed by two parallel Cape Fold Mountain ranges: the Swartberg to the north and the continuous Langeberg-Outeniqua range to the south. It is a landscape defined by its enclosure. The only way in or out is through narrow defiles where ancient rivers have cut through the surrounding mountains, or over passes built with enormous effort across the ranges. The Swartberg Pass, built with convict labor between 1881 and 1888, connects Oudtshoorn to Prince Albert across the Swartberg. The Outeniqua Pass links the valley to George on the coastal plain. The sole exit that does not require crossing a mountain range is the 150-kilometer-long Langkloof valley between Uniondale and Humansdorp.
+
+## A Place Rich in Water
+
+European settlers explored this region in the late 17th century, encountering the Khoisan people who had lived here for thousands of years and knew the landscape intimately. The Khoisan called the Swartberg Mountains kango -- a place rich in water -- and the famous Cango Caves bear that name today. It was an accurate description: the northern strip of the Little Karoo, within ten to twenty kilometers of the Swartberg's base, is surprisingly well-watered. Rain cascades down the mountain slopes, and streams pour through narrow defiles from the Great Karoo beyond. The main towns of the region -- Montagu, Barrydale, Ladismith, Calitzdorp, Oudtshoorn, and De Rust -- all sit along this fertile northern strip, along with historic mission stations like Zoar, Amalienstein, and Dysselsdorp. Further south, toward the Langeberg range, the valley turns arid, as dry as the Karoo plains beyond.
+
+## Ostriches, Palaces, and Meerkats
+
+Oudtshoorn's claim as the ostrich capital of the world is not hyperbole. The Little Karoo's combination of dry weather and available water created ideal habitat for the large flightless birds, whose males grow over two meters tall and whose plumes were prized across cultures for thousands of years. The feather industry peaked in the 1880s and early 1900s, creating sudden wealth that expressed itself in architecture -- the so-called Feather Palaces of Oudtshoorn, built from the distinctive red rocks of the Enon Conglomerate and Kirkwood Formation. Today, the region's economy has diversified, but ostriches remain central to its identity. Visitors come for the farms, for the Cango Caves, and for early-morning meerkat tours outside Oudtshoorn, where they watch the small sentinels sun themselves at dawn before heading out to forage. Beaufort West, the largest town in the Great Karoo section, remains a center for sheep farming, while De Rust sits near the Meiringspoort pass, where a 25-kilometer road crosses the same river 25 times through a Swartberg gorge.
+
+## The Valley's Character
+
+What gives the Western Cape Karoo its particular character is the tension between enclosure and grandeur. The valley is narrow, bounded, accessible only through gaps in the rock -- yet within those bounds, the landscape is enormous. The Sanbona Wildlife Reserve covers 750 square kilometers of semi-desert sanctuary where springbok, oryx, and rhinoceros range across terrain that looks much as it did before European settlement. Graaff-Reinet and other towns preserve authentic Cape Dutch, Karoo, and Victorian architecture. San rock art and ancient stone formations speak to inhabitation that predates written history by tens of thousands of years. The Swartberg Pass, untarred and sometimes treacherously slippery after rain or impassable after heavy snowfall, remains the most dramatic entrance to this world -- a reminder that the Karoo has never made things easy for those who wish to cross its thresholds.
+
+## Flight Context
+
+Coordinates: 32.69S, 21.81E. The Western Cape Karoo is visible as a long valley running east-west between the Swartberg (north) and Langeberg-Outeniqua (south) ranges. Oudtshoorn is the primary landmark town. The Meiringspoort gorge and Swartberg Pass switchbacks are identifiable from altitude. Best viewed at 10,000-12,000 ft AGL. Nearest airports: Oudtshoorn (FAOH), George (FAGG), Beaufort West. Hot thermals and turbulence common over the semi-arid terrain in summer.
+
+## Sources
+
+- [Western Cape Karoo - Wikivoyage](https://en.wikivoyage.org/?curid=5882)
+- [Wikipedia - Klein Karoo](https://en.wikipedia.org/wiki/Klein_Karoo)
+  - Little Karoo is approximately 290km long and 40-60km wide
+  - Swartberg to the north and Langeberg-Outeniqua range to the south
+  - Khoisan name 'kango' meaning water-rich
+  - ostrich feather industry peaked 1880s-1900s creating Feather Palaces
+  - Meiringspoort passes through the same river 25 times over 25km
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 7 facts verified · 0 corrections
+
+Verified: Little Karoo 290km long, 40-60km wide, Khoisan name kango, ostrich feather boom 1880s-1900s, Meiringspoort 25km crossing river 25 times. All facts confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 770*
+*Read time: 4 minutes*

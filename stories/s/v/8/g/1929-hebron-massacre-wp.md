@@ -1,0 +1,63 @@
+# 1929 Hebron Massacre
+
+On August 24, 1929, sixty-seven Jewish residents of Hebron were killed by Arab rioters, ending centuries of Jewish presence in one of Judaism's holiest cities -- though some were saved by Arab neighbors who risked their lives to shelter them.
+
+**Location:** 31.5330, 35.0950
+
+**Categories:** massacre, history, conflict, heritage
+
+## Introduction
+
+Abu Shaker was seventy-five years old, but he lay across the doorway of his home and refused to move. Behind him, in a sealed room, Jewish families waited in silence, straining to keep their children from crying. Outside, a mob armed with knives and clubs surged through the streets of Hebron, and a man with a blade stood over Abu Shaker, screaming that he was a traitor. The knife cut his leg. His blood ran onto the stones. He did not move. 'Only over my dead body will you pass through here,' he said. The rioters, after a moment of consultation, moved on. The families survived. This act of individual courage took place on August 24, 1929, a day when sixty-seven Jewish men, women, and children were killed in Hebron -- a day that ended centuries of continuous Jewish life in one of the holiest cities in Judaism.
+
+## Two Communities, One City
+
+In 1929, Hebron was home to roughly 20,000 people, the vast majority Muslim Arabs. Around 700 Jews lived in and around the city, their community divided between long-established Sephardic families who spoke Arabic and wore Arab dress, and a newer Ashkenazi population that included students at the Hebron Yeshiva. The Sephardic community had deep roots -- their presence predated the Ottoman period -- and they lived in close quarters with their Arab neighbors, sharing commerce and, in many cases, genuine friendship. The Ashkenazi community, with its foreign customs and European ways, was less well integrated. Tensions between these two Jewish sub-communities were real but cultural, not ideological. The broader friction came from outside: the Balfour Declaration of 1917 had promised a Jewish national home in Palestine, and Arab resentment of Zionist immigration was growing throughout the territory. During the 1920 and 1921 riots, Hebron's Jews had been spared violence. By 1929, that immunity had run out.
+
+## The Spark and the Fire
+
+The trigger came from Jerusalem. Disputes over access to the Western Wall -- sacred to Jews, adjacent to the Al-Aqsa compound sacred to Muslims -- had been escalating for months. On August 14, hundreds of Jewish nationalists marched to the Wall, shouting 'The Wall is Ours' and raising the Zionist flag. The following day, a Muslim counter-demonstration at the Wall turned violent, with prayer books burned and a Jewish beadle injured. By August 22, armed Arab villagers were gathering at Jerusalem's Haram al-Sharif. Rumors -- false, but incendiary -- spread that Jews had massacred Arabs in the capital. When those rumors reached Hebron on the evening of August 23, the fuse was lit. The city's police force consisted of a single British officer, Superintendent Raymond Cafferata, and roughly forty Arab policemen, only one of whom was Jewish. Cafferata later testified that it was impossible to keep the situation under control. He was right.
+
+## A Day of Slaughter
+
+On the morning of August 24, mobs poured through Hebron's streets. The violence was intimate and terrible -- carried out with knives, clubs, and swords at close range, in homes and synagogues. Cafferata, the lone British officer, witnessed an Arab man attempting to behead a child with a sword and shot him. Behind the attacker, a policeman from his own force stood over a blood-soaked Jewish woman, dagger in hand. Torah scrolls in gold and silver casings were looted from synagogues. The library of Rabbi Judah Bibas, founded in 1852, was partly burned. A rabbi who rescued a Torah scroll from a blazing synagogue later died from his burns. Twelve women and three children under five were among the dead. The killing lasted approximately ninety minutes; only after the violence subsided did police fire shots into the air, at which point the crowds immediately dispersed. In all, sixty-seven Jews were killed and scores more maimed.
+
+## The Ones Who Sheltered
+
+Against the horror stands a counter-narrative of extraordinary moral courage. By some estimates, as many as two-thirds of Hebron's surviving Jewish community owed their lives to Arab neighbors who hid them. Aharon Reuven Bernzweig recalled that an Arab named Haj Eissa El Kourdieh sheltered thirty-three Jews in his cellar, while Arab women stood outside the door and repeatedly denied the screaming mob's accusations that they were harboring fugitives. The family of Abu Id Zaitoun rescued Zmira Mani and others, hiding them and defending the cellar with swords. Musa Agima's father sent employees with donkeys to evacuate a Jewish family all the way to Jerusalem. At least nineteen Arab families -- and likely more -- opened their homes at mortal risk. Israeli historian Benny Morris has argued that most survivors were actually rescued by British police intervention, but the testimony of survivors themselves consistently credits their Arab neighbors.
+
+## The End and the Echo
+
+The British authorities evacuated all surviving Jews from Hebron after the massacre. Some returned in 1931, but nearly all left again during the Arab revolt of 1936-1939, bringing Hebron's centuries-old Jewish presence to a close. The Shaw Commission, appointed to investigate, condemned the killings. Three Arabs were ultimately hanged, and fines were imposed on twenty-two Arab communities. The massacre, together with the simultaneous killing of Jews in Safed, sent shockwaves through Palestine and the wider Jewish world. It led directly to the reorganization and strengthening of the Haganah, the Jewish paramilitary organization that became the nucleus of the Israel Defense Forces. After 1967, Israeli settlers established a new Jewish community in Hebron, one that descendants of the original community have publicly disavowed as alien to the culture of peaceful coexistence their families had built. The legacy remains contested and painful -- a story of neighborly bonds destroyed by nationalist fury, and of individual Arabs and Jews whose courage and suffering deserve to be remembered in the same breath.
+
+## Flight Context
+
+Located at 31.53N, 35.10E in the Judean Hills, approximately 30 km south of Jerusalem. Hebron sits at an elevation of about 930 meters (3,050 ft) in hilly terrain. The old city center where the massacre occurred is adjacent to the Cave of the Patriarchs / Ibrahimi Mosque compound, visible as a large stone structure. Nearest airports: Ben Gurion International (ICAO: LLBG) approximately 60 km to the northwest. Fly at 4,000-6,000 ft AGL for terrain clearance in the Judean Hills.
+
+## Sources
+
+- [1929 Hebron massacre - Wikipedia](https://en.wikipedia.org/?curid=17626789)
+  - 67 killed confirmed (some sources say 67-69)
+  - August 24, 1929 date confirmed
+  - Approximately 700 Jewish residents confirmed
+  - Western Wall tensions as trigger confirmed
+  - Three Arabs hanged and fines imposed on 22 communities confirmed
+  - Arab neighbors saving two-thirds of survivors confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 9 facts verified · 0 corrections
+
+Facts verified: 67 killed confirmed, August 24 1929 date, ~700 Jewish residents, Western Wall trigger, three Arabs hanged. No corrections needed.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Opening anecdote of Abu Shaker with strong moral framing
+- Ending argues settlers are 'alien to the culture of peaceful coexistence'
+
+---
+
+*Word count: 870*
+*Read time: 5 minutes*

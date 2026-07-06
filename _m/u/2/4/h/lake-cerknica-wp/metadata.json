@@ -361,5 +361,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u24h-lake-cerknica-flight-context.mp3",
+      "u24h-lake-cerknica-intro.mp3",
+      "u24h-lake-cerknica-the-breathing-earth.mp3",
+      "u24h-lake-cerknica-a-polymaths-puzzle.mp3",
+      "u24h-lake-cerknica-a-sanctuary-between-appearances.mp3",
+      "u24h-lake-cerknica-where-water-writes-the-rules.mp3"
+    ],
+    "durations": {
+      "u24h-lake-cerknica-flight-context.mp3": 51.9612916,
+      "u24h-lake-cerknica-intro.mp3": 56.6054166,
+      "u24h-lake-cerknica-the-breathing-earth.mp3": 66.6680833,
+      "u24h-lake-cerknica-a-polymaths-puzzle.mp3": 64.0870416,
+      "u24h-lake-cerknica-a-sanctuary-between-appearances.mp3": 64.5620833,
+      "u24h-lake-cerknica-where-water-writes-the-rules.mp3": 56.7705833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

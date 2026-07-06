@@ -305,5 +305,24 @@
     "_m/d/r/5/r/collect-pond-wp/albert-capsouto-park-td-2018-1.jpg",
     "_m/d/r/5/r/collect-pond-wp/a-plan-of-the-city-of-new-york.jpg"
   ],
-  "updatedAt": "2026-03-30T12:08:01.329Z"
+  "updatedAt": "2026-03-30T12:08:01.329Z",
+  "narration": {
+    "files": [
+      "dr5r-collect-pond-flight-context.mp3",
+      "dr5r-collect-pond-intro.mp3",
+      "dr5r-collect-pond-from-picnic-ground-to-open-sewer.mp3",
+      "dr5r-collect-pond-the-road-not-taken.mp3",
+      "dr5r-collect-pond-sinking-into-infamy.mp3",
+      "dr5r-collect-pond-a-pond-remembered.mp3"
+    ],
+    "durations": {
+      "dr5r-collect-pond-flight-context.mp3": 46.7842083,
+      "dr5r-collect-pond-intro.mp3": 33.4296666,
+      "dr5r-collect-pond-from-picnic-ground-to-open-sewer.mp3": 51.9955,
+      "dr5r-collect-pond-the-road-not-taken.mp3": 51.9731666,
+      "dr5r-collect-pond-sinking-into-infamy.mp3": 69.8264583,
+      "dr5r-collect-pond-a-pond-remembered.mp3": 58.9939166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

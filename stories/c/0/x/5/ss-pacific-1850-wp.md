@@ -1,0 +1,64 @@
+# SS Pacific (1850)
+
+A wooden sidewheel steamer that carried gold miners, Brazilian soldiers, and Nicaraguan intrigue for twenty-five years before a collision southwest of Cape Flattery killed an estimated 275 people -- the deadliest maritime disaster on the West Coast in its era.
+
+**Location:** 48.3831, -125.0014
+
+**Categories:** shipwreck, maritime-disaster, gold-rush, cape-flattery
+
+## Introduction
+
+On the evening of November 4, 1875, the sidewheel steamer Pacific pulled away from Victoria's dock with perhaps 275 souls aboard, bound for San Francisco. She never arrived. Somewhere southwest of Cape Flattery, where the Strait of Juan de Fuca meets the open Pacific, the sailing ship Orpheus cut across her bow in the dark. Within forty minutes, Pacific was gone. Two men survived. The rest -- gold miners heading south before winter, families, a lumberman who had founded a town, a former Gold Commissioner, forty-one Chinese laborers whose names went unrecorded -- vanished into water so cold that screams lasted only minutes. It was the worst maritime disaster the West Coast had ever seen, and the ship at its center had already lived a dozen lives.
+
+## Gold Dust and Gunfire
+
+Pacific was built in 1850 at William H. Brown's shipyard on New York's East River, her oak hull fastened with iron and copper nails, powered by a vertical beam steam engine that could push her past sixteen knots. She was fast, and the California Gold Rush needed fast ships. Her first commercial run took her from New York to New Orleans, and from there she shuttled miners and fortune-seekers between Havana, Chagres, and the Panama crossing. The cargoes she carried back were staggering: $287,000 in California gold dust on a single November 1850 voyage, along with Prince Paul of Wurttemberg. She carried news, too. In an era before transcontinental telegraph, word from California reached the eastern United States through ships like Pacific, the dispatches telegraphed across the country from New Orleans.
+
+## Vanderbilt's Shortcut
+
+Cornelius Vanderbilt saw a faster path to the goldfields. Rather than crossing Panama, he charted a route through Nicaragua -- up the San Juan River, across Lake Nicaragua, and overland to the Pacific coast. He chartered Pacific for the western leg, San Juan del Sur to San Francisco. She carried passengers and gold through an increasingly unstable country. In September 1853, she left San Francisco with 460 passengers and $1.5 million in gold aboard. But Nicaragua's civil war was making the route dangerous. When American mercenary William Walker seized the country and confiscated Vanderbilt's assets in 1855, the Nicaragua gamble collapsed. Pacific sailed on into the chaos until at least August of that year, then disappeared from the record for three years.
+
+## The Northwest Workhorse
+
+Pacific resurfaced in 1858, now working the coastal run between San Francisco, Portland, Puget Sound, and Victoria for the Pacific Mail Steamship Company. The Fraser Canyon Gold Rush brought miners north; Pacific carried them. She ferried troops to the San Juan Islands during border tensions with Britain. She hauled flour, apples, butter, eggs, and chickens between Portland and Victoria. In 1861, running the Columbia River at night, she struck Coffin Rock at seventeen knots and nearly went down -- her bow stove in, flooding immediate. Captain Staples beached her on the Washington shore with seventy passengers aboard. No one died. She was refloated, repaired, and back in service within months. Through rate wars, corporate mergers, a refit with a new engine, and a charter to carry General Halleck on his inspection of newly acquired Alaska in 1868, Pacific kept running. She was twenty-five years old in 1875 -- ancient for a wooden steamer -- and showing it.
+
+## Forty Minutes
+
+Captain Jefferson Davis Howell, brother-in-law of the former Confederate president, commanded Pacific on her final voyage. Among the passengers boarding at Victoria were Sewell Moody, who had built the lumber town of Moodyville, and Captain Otis Parsons, who had just sold his fleet of Fraser River steamers. An unknown number rushed aboard without tickets. Children sailed free and went uncounted. Around 9:30 that night, the sailing ship Orpheus struck Pacific near the bow. The collision tore into the aging hull. Howell fired five blue distress flares. Passengers scrambled for lifeboats, but most had no oars, some still held water from earlier use as ballast. The crew could barely launch any of them. Within forty minutes, Pacific sank. Survivor Neil Henly described the water filled with 'a floating mass of human beings, whose screams for help were fearful, but which soon ceased.' Orpheus sailed on into the night, eventually wrecking in Barclay Sound after mistaking a new lighthouse for Cape Flattery.
+
+## A Century of Searching
+
+The wreck has never been easy to find. No officer from Pacific survived to report her position. The crew of Orpheus did not know precisely where they were. The water off Cape Flattery is deep and uneven, and after more than a century on the seafloor, a wooden hull decomposes to little more than a flat debris field beneath the silt. At least six expeditions searched for her after 1993. In 2016, a company called Rockfish, Inc. began a systematic effort. Bottom-trawling fishermen had been pulling up chunks of coal in their nets -- coal that chemical analysis matched to a mine in Coos Bay, Oregon owned by the same company that operated Pacific. By 2022, Rockfish had invested $2.1 million and filed for salvage rights based on sonar data, photography, and recovered artifacts. The ship that carried gold dust from California and oranges from Los Angeles, that survived Nicaraguan gunfire and a collision on the Columbia, lies somewhere in the cold water southwest of Cape Flattery, still holding whatever her passengers could not take with them.
+
+## Flight Context
+
+The sinking occurred southwest of Cape Flattery at approximately 48.38°N, 125.00°W, in open water where the Strait of Juan de Fuca meets the Pacific Ocean. From altitude, Cape Flattery is the prominent northwestern tip of the Olympic Peninsula, with Tatoosh Island and its lighthouse visible just offshore. The wreck site lies in deep water with no surface markers. Nearest airports are William R. Fairchild International (KCLM) in Port Angeles, approximately 65 nautical miles to the east, and Quillayute Airport (KUIL) near Forks, about 40 nm to the south. Weather in this area is frequently overcast with low visibility, especially in autumn and winter months. Strong currents and rough seas are common where the strait meets the open Pacific.
+
+## Sources
+
+- [SS Pacific (1850) - Wikipedia](https://en.wikipedia.org/wiki/SS_Pacific_(1850))
+- [SS Pacific founders off Cape Flattery - HistoryLink.org](https://www.historylink.org/File/8914)
+  - sinking date November 4 1875 confirmed
+  - estimated 275 aboard with only 2 survivors confirmed
+  - captain Jefferson Davis Howell brother-in-law of Confederate president confirmed
+  - worst maritime disaster on West Coast at time confirmed
+  - built 1850 at William H. Brown's shipyard on East River confirmed
+  - top speed just over 16 knots confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 9 facts verified · 0 corrections
+
+Verified: sinking date Nov 4 1875 confirmed, ~275 aboard 2 survivors confirmed, built 1850 William H. Brown East River confirmed, 16 knots confirmed, Howell as brother-in-law of Confederate president confirmed, Sewell Moody and Moodyville confirmed. No errors. Summary correctly says 275 in both title and story. Spiciness 3.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- forty-one Chinese laborers whose names went unrecorded
+- The ship that carried gold dust from California... lies somewhere in the cold water southwest of Cape Flattery, still holding whatever her passengers could not take with them
+
+---
+
+*Word count: 870*
+*Read time: 4 minutes*

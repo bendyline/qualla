@@ -644,5 +644,26 @@
     "_m/d/r/5/p/airtrain-newark-wp/p3-airtrain-station-ewr.jpg",
     "_m/d/r/5/p/airtrain-newark-wp/terminal-b-airtrain-station-ew.jpg"
   ],
-  "updatedAt": "2026-03-30T11:13:46.478Z"
+  "updatedAt": "2026-03-30T11:13:46.478Z",
+  "narration": {
+    "files": [
+      "dr5p-airtrain-newark-flight-context.mp3",
+      "dr5p-airtrain-newark-intro.mp3",
+      "dr5p-airtrain-newark-late-from-the-start.mp3",
+      "dr5p-airtrain-newark-a-system-that-cannot-stop-breaking.mp3",
+      "dr5p-airtrain-newark-three-and-a-half-billion-dollars-to-replace-a-mono.mp3",
+      "dr5p-airtrain-newark-construction-amid-chaos.mp3",
+      "dr5p-airtrain-newark-the-airports-circulatory-system.mp3"
+    ],
+    "durations": {
+      "dr5p-airtrain-newark-flight-context.mp3": 42.3657916,
+      "dr5p-airtrain-newark-intro.mp3": 50.601,
+      "dr5p-airtrain-newark-late-from-the-start.mp3": 62.1135,
+      "dr5p-airtrain-newark-a-system-that-cannot-stop-breaking.mp3": 54.5558333,
+      "dr5p-airtrain-newark-three-and-a-half-billion-dollars-to-replace-a-mono.mp3": 67.9227916,
+      "dr5p-airtrain-newark-construction-amid-chaos.mp3": 55.863,
+      "dr5p-airtrain-newark-the-airports-circulatory-system.mp3": 50.3682083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

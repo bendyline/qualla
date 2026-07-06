@@ -1,0 +1,62 @@
+# Laguna Blanca (Paraguay)
+
+A spring-fed lake in Paraguay's interior so clear you can drink from it untreated, Laguna Blanca sits atop calcareous sand in a rare patch of Cerrado ecosystem that harbors 283 bird species and carnivorous plants.
+
+**Location:** -23.8133, -56.2950
+
+**Categories:** nature, lakes, south-america
+
+## Introduction
+
+You can see the bottom. Not just at the edges where wading is easy, but out toward the center, where the 147-hectare lake deepens to seven meters and the calcareous sand below still glows white through the water column. Laguna Blanca, tucked into the San Pedro Department of northeastern Paraguay about 28 kilometers east of Santa Rosa del Aguaray, is spring-fed and so pure that you can drink it without treatment. The stream near the lake's edge flows outward, not inward -- the water comes from below, filtered through permeable soil that also feeds the vast Guarani Aquifer beneath. In a country where the most famous lake has turned toxic green, Laguna Blanca is the opposite: a window into clean water and the ecosystem it sustains.
+
+## Paraguay's Only Natural Lake
+
+Specialists consider Laguna Blanca to be the only truly natural lake in Paraguay -- a distinction that sounds improbable until you understand the criteria. The lake lacks thermostatic stratification, has no depth greater than seven meters, and has no independent source feeding it from the surface. It exists because of the springs beneath it, which push water upward through calcareous sand that gives the lake its name and its clarity. The Duarte family has owned the surrounding ranch since 1997, and their management has helped preserve what state protection has not. An original 70-hectare government reserve adjacent to the lake was gradually encroached upon -- parcels sold to local businessmen, land occupied by settlers -- until only a narrow strip along the lakeshore remained in public hands. The ranch has stepped into the gap, pursuing designation as a Private Natural Reserve with support from Guyra Paraguay and the Natural Land Trust.
+
+## Where the Cerrado Survives
+
+Laguna Blanca sits within one of Paraguay's best-preserved remnants of the Cerrado, a vast tropical savanna ecosystem that stretches primarily across Brazil but extends into eastern Paraguay. The Cerrado here is excellent -- the forest is relatively intact, water sources are abundant, and the biodiversity reflects what the ecosystem looks like when it has not been stripped for agriculture. Ornithologists have documented 283 bird species at Laguna Blanca, making it one of the most thoroughly studied birding sites in the country. BirdLife International has designated it an Important Bird Area under code PY030. Beyond birds, the ecology grows stranger and more compelling: anacondas -- called mboi yagua locally -- inhabit the waterways, while drosera, a carnivorous plant that traps insects on sticky tendrils, grows in the sandy soil. According to Paraguay's Mines and Energy Ministry, the entire area around the lake serves as a recharge zone for the Guarani Aquifer, one of the world's largest underground freshwater reserves.
+
+## Science in the Sand
+
+Research has given Laguna Blanca an international profile that its remote location might not otherwise support. The organization Para la Tierra hosts science interns who study the region's ecology, focusing particularly on animal populations and habitat health. A formal Quick Ecological Evaluation has cataloged the soil composition, fauna, and flora, with findings now held by the Natural Land Trust as part of the technical justification for reserve status. The studies have confirmed what visitors already sense: this is a place where ecological systems remain connected and functional. Fish species in the lake include piranhas and smaller varieties like tare'yi and piky. The soil's permeability -- the same quality that makes the water drinkable -- means that rain filters directly down to replenish the aquifer, making conservation here an act of protecting not just a lake but an underground water system that extends across four countries.
+
+## Ranching, Kayaks, and Paraguayan Cooking
+
+Tourism at Laguna Blanca is deliberately low-impact. The ranch offers camping for about 40 families and rustic inns that serve traditional Paraguayan meals -- breakfast, lunch, and dinner with an emphasis on local cuisine. Activities include kayaking, horseback riding, beach volleyball, sailing, and photographic safaris through the surrounding landscape. Underwater swimming in the crystalline water is a draw that few other Paraguayan sites can match. Only activities that pose no threat to the natural environment are permitted, and anything requiring professional guidance must be booked in advance. Getting here requires commitment: from Asuncion, the drive takes roughly 300 kilometers north along Route 3 to Santa Rosa del Aguaray, then 27 kilometers east on a pebbled road that demands dry weather or a high-clearance vehicle. The difficulty of access is part of the point. Laguna Blanca has survived because it is hard to reach, and the people who manage it intend to keep it that way.
+
+## Flight Context
+
+Located at 23.81S, 56.30W in San Pedro Department, northeastern Paraguay. From the air, the lake appears as a bright white-blue oval amid green Cerrado vegetation, strikingly different from surrounding terrain due to the calcareous sand bottom. Approximately 28 km east of Santa Rosa del Aguaray and 270 km from Asuncion. Nearest major airport is Silvio Pettirossi International (SGAS) in Asuncion. The region is flat to gently rolling, with dense forest and savanna surrounding the lake. Look for the cleared ranch area and access road approaching from the west.
+
+## Sources
+
+- [Laguna Blanca (Paraguay) - Wikipedia](https://en.wikipedia.org/?curid=17099332)
+  - Lake is 147 hectares confirmed
+  - Maximum depth of seven meters confirmed
+  - Spring-fed, water drinkable without treatment confirmed
+  - Located approximately 28 km east of Santa Rosa del Aguaray confirmed
+  - San Pedro Department location confirmed
+  - 283 bird species documented confirmed
+  - BirdLife International IBA designation PY030 confirmed
+  - Anacondas (mboi yagua) and drosera carnivorous plants confirmed
+  - Guaraní Aquifer recharge zone confirmed
+  - Duarte family ownership since 1997 confirmed
+- [Cerrado de Laguna Blanca IBA - BirdLife International](https://datazone.birdlife.org/site/factsheet/cerrado-de-laguna-blanca-iba-paraguay/summary)
+  - IBA code PY030 confirmed
+  - 283 bird species count confirmed
+  - 14 globally threatened bird species confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 10 facts verified · 0 corrections
+
+All key facts verified: 147 hectares, 7m max depth, spring-fed, 28 km east of Santa Rosa del Aguaray, 283 bird species, BirdLife IBA PY030, anacondas, drosera carnivorous plants, Guarani Aquifer recharge zone, Duarte family since 1997. No errors found.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 790*
+*Read time: 4 minutes*

@@ -1,0 +1,68 @@
+# Attempted Assassination of Theodore Roosevelt
+
+On an October evening in 1912, a bullet struck Theodore Roosevelt in the chest outside a Milwaukee hotel - and the former president, blood soaking his shirt, delivered a 50-minute speech before accepting medical attention.
+
+**Location:** 43.0408, -87.9147
+
+**Categories:** history, presidential-history, assassination-attempt, milwaukee, theodore-roosevelt
+
+## Introduction
+
+The folded speech was fifty pages thick. The steel eyeglass case sat in the breast pocket beside it. Together, they stopped a bullet that would have killed Theodore Roosevelt on the night of October 14, 1912, outside the Gilpatrick Hotel in Milwaukee. The former president looked down at the hole in his coat, felt his chest, checked his handkerchief for blood, and made a calculation. He was an experienced hunter and anatomist. He was not coughing blood, so the bullet had not reached his lung. He waved off suggestions to go to the hospital. He had a speech to deliver at the Milwaukee Auditorium, and he intended to deliver it. "Ladies and gentlemen," he told the crowd, "I don't know whether you fully understand that I have just been shot, but it takes more than that to kill a bull moose."
+
+## The Stalker from New York
+
+John Schrank was a Bavarian-born saloonkeeper from New York who had drifted along the East Coast for years after selling his properties. He was deeply religious, a fluent Bible scholar whose debating skills were known around his neighborhood's watering holes and parks. He wrote poetry. He walked city streets at night and caused no documented trouble. But something broke inside him during the 1912 presidential campaign. Schrank became fixated on the idea that no president should serve a third term. He later claimed that the ghost of William McKinley - the president whose 1901 assassination had elevated Roosevelt to the presidency - visited him in a dream and demanded vengeance. Schrank followed Roosevelt from New Orleans to Milwaukee, waiting for his moment. Roosevelt himself later noted that Schrank had the presence of mind to wait until he reached Wisconsin rather than attempt the murder in a Southern state, where he would likely have been lynched.
+
+## "He Pinked Me, Harry"
+
+Roosevelt had just finished dinner at the Gilpatrick Hotel and stepped into an open car when the crowd began cheering. He stood to acknowledge them. Schrank fired one shot from a Colt Police Positive revolver. The bullet pierced Roosevelt's heavy overcoat, passed through the steel eyeglass case and the folded fifty-page speech in his breast pocket, and lodged in the muscle of his chest without penetrating the pleura. Elbert E. Martin, one of Roosevelt's secretaries and a former football player, was first to react, tackling Schrank and wrestling away his gun. A. O. Girard, a former Rough Rider serving as Roosevelt's bodyguard, piled on with several policemen. The crowd went wild. Men pummeled Schrank and screamed to kill him, to hang him. Roosevelt's aide Harry Cochems asked if he was hit. "He pinked me, Harry," Roosevelt said simply. Then he shouted over the mob: "Don't hurt him. Bring him here. I want to see him."
+
+## Face to Face
+
+What happened next is one of the most remarkable moments in American political history. Roosevelt ordered Schrank brought before him. The two men looked into each other's eyes. Roosevelt placed his hands on Schrank's head, studying the face of the man who had just shot him, trying to determine if he recognized him. "What did you do it for?" Roosevelt asked. Schrank said nothing. "Oh, what's the use? Turn him over to the police," Roosevelt said. Then, looking down at his would-be assassin: "You poor creature." He ordered the officers to ensure no violence was done to Schrank, climbed back into the car, and rode to the Milwaukee Auditorium. With blood spreading beneath his shirt, he spoke for fifty minutes. Only then did he agree to go to the hospital. An x-ray confirmed the bullet was lodged in his chest muscle. Doctors decided it was safer to leave it in place. Roosevelt carried that bullet for the rest of his life, later telling a friend: "I do not mind it any more than if it were in my waistcoat pocket."
+
+## The Bull Moose Stumbles
+
+The assassination attempt came at the peak of one of the most dramatic presidential campaigns in American history. Roosevelt had served as president from 1901 to 1909, ascending after McKinley's assassination and winning election in his own right in 1904. He endorsed William Howard Taft as his successor but grew dissatisfied with Taft's conservative turn. When Roosevelt failed to wrest the Republican nomination from Taft at the bitter 1912 convention, he bolted the party entirely and ran on the Progressive Party ticket - the 'Bull Moose Party,' named for Roosevelt's boast that he felt 'strong as a bull moose.' Both Taft and Democratic nominee Woodrow Wilson suspended their campaigns after the shooting until Roosevelt recovered. He spent two weeks recuperating and made only two more campaign speeches. Although Roosevelt outpolled Taft in both popular and electoral votes, the Republican split handed the presidency to Wilson.
+
+## Where It Happened
+
+The Gilpatrick Hotel where the shooting occurred no longer stands. Its site on West Kilbourn Avenue in downtown Milwaukee is now occupied by the Hyatt Regency Milwaukee. A memorial marker at 333 West Kilbourn Avenue commemorates the event. In 2012, for the centennial of the assassination attempt, Historic Milwaukee Inc. staged a reenactment at the Hyatt site, attended by Mayor Tom Barrett. Schrank was committed to the Central State Hospital for the Criminally Insane in Waupun, Wisconsin, in 1914 after being found not guilty by reason of insanity. He received no visitors for twenty-nine years and died there of pneumonia on September 15, 1943. His body was donated to Marquette University's medical school for dissection. Roosevelt's bloodstained shirt, the bullet-pierced speech, and the dented eyeglass case survive in museum collections - physical proof that sometimes history turns on what a man keeps in his breast pocket.
+
+## Flight Context
+
+Coordinates: 43.0408N, 87.9147W. The assassination attempt occurred at the former Gilpatrick Hotel site in downtown Milwaukee, Wisconsin, now the Hyatt Regency Milwaukee at 333 W. Kilbourn Avenue. The Milwaukee Auditorium (now the Miller High Life Theatre) where Roosevelt gave his speech is nearby at 500 W. Kilbourn Avenue. Best viewed at 2,000-4,000 feet AGL over downtown Milwaukee. Nearest major airport: Milwaukee Mitchell International (KMKE), approximately 7nm south. Lawrence J. Timmerman Airport (KMWC) is roughly 7nm northwest. The Milwaukee River and Lake Michigan shoreline provide clear orientation landmarks. The Hyatt building is in the western portion of downtown, near the Milwaukee River's west bank.
+
+## Sources
+
+- [Attempted assassination of Theodore Roosevelt - Wikipedia](https://en.wikipedia.org/?curid=1056273)
+  - October 14 1912 date confirmed
+  - Gilpatrick Hotel location confirmed
+  - John Schrank identity and motive confirmed
+  - bullet lodged in chest muscle confirmed
+  - Colt revolver weapon confirmed
+  - Milwaukee Auditorium speech delivered after shooting confirmed
+- [John Schrank - Wikipedia](https://en.wikipedia.org/wiki/John_Schrank)
+  - Schrank committed 1914 to Central State Hospital Waupun confirmed
+  - Schrank died September 15 1943 confirmed
+  - body donated to Marquette University confirmed
+  - no visitors claim: article says 31 years but sources indicate approximately 29 years (1914-1943) - minor error in article
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 12 facts verified · 1 correction
+
+Facts verified: October 14 1912 date, Gilpatrick Hotel, Schrank motive, speech duration, Colt revolver, Milwaukee Auditorium. Minor error: article says Schrank had no visitors for 31 years but sources indicate approximately 29 years (committed 1914, died 1943). Spiciness 3 - strong narrative voice with dramatic framing.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- 'one of the most remarkable moments in American political history'
+- dramatic scene framing of Roosevelt examining Schrank's face and calling him 'You poor creature'
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

@@ -110,5 +110,26 @@
   ],
   "galleryPaths": [
     "_m/d/r/5/r/pavonia-new-netherland-wp/map-lenape-languages-t.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr72-lenapehoking-flight-context.mp3",
+      "dr72-lenapehoking-intro.mp3",
+      "dr72-lenapehoking-the-real-people.mp3",
+      "dr72-lenapehoking-the-names-that-remained.mp3",
+      "dr72-lenapehoking-dispossession.mp3",
+      "dr72-lenapehoking-nations-that-endure.mp3",
+      "dr72-lenapehoking-a-word-reclaimed.mp3"
+    ],
+    "durations": {
+      "dr72-lenapehoking-flight-context.mp3": 54.928625,
+      "dr72-lenapehoking-intro.mp3": 69.669125,
+      "dr72-lenapehoking-the-real-people.mp3": 59.2241666,
+      "dr72-lenapehoking-the-names-that-remained.mp3": 66.7095416,
+      "dr72-lenapehoking-dispossession.mp3": 51.3749166,
+      "dr72-lenapehoking-nations-that-endure.mp3": 56.7965833,
+      "dr72-lenapehoking-a-word-reclaimed.mp3": 59.1615
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

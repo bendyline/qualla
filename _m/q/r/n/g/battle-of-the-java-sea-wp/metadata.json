@@ -297,5 +297,26 @@
       }
     }
   ],
-  "updatedAt": "2026-03-31T02:00:37.650Z"
+  "updatedAt": "2026-03-31T02:00:37.650Z",
+  "narration": {
+    "files": [
+      "qrng-battle-of-the-java-sea-flight-context.mp3",
+      "qrng-battle-of-the-java-sea-intro.mp3",
+      "qrng-battle-of-the-java-sea-a-fleet-that-could-not-talk-to-itself.mp3",
+      "qrng-battle-of-the-java-sea-the-long-lance.mp3",
+      "qrng-battle-of-the-java-sea-darkness-and-disaster.mp3",
+      "qrng-battle-of-the-java-sea-no-way-out.mp3",
+      "qrng-battle-of-the-java-sea-what-the-sea-took.mp3"
+    ],
+    "durations": {
+      "qrng-battle-of-the-java-sea-flight-context.mp3": 53.4835,
+      "qrng-battle-of-the-java-sea-intro.mp3": 46.771875,
+      "qrng-battle-of-the-java-sea-a-fleet-that-could-not-talk-to-itself.mp3": 73.4585,
+      "qrng-battle-of-the-java-sea-the-long-lance.mp3": 64.3477916,
+      "qrng-battle-of-the-java-sea-darkness-and-disaster.mp3": 75.7566666,
+      "qrng-battle-of-the-java-sea-no-way-out.mp3": 68.56475,
+      "qrng-battle-of-the-java-sea-what-the-sea-took.mp3": 70.5974583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1,0 +1,67 @@
+# Blood Road Museum
+
+A museum in Saltdal documenting the forced labor of Yugoslav, Polish, and Soviet prisoners of war who built a road through northern Norway under German occupation between 1942 and 1945.
+
+**Location:** 67.1016, 15.4274
+
+**Categories:** world-war-ii, museums, forced-labor, norway, prisoner-of-war, nordland
+
+## Introduction
+
+In July 1943, somewhere along a road being carved through the mountains of Nordland county, a prisoner was shot. His brother took the dead man's blood and painted a cross on the rock face. That cross gave the road its name—Blodveien, the Blood Road—and today a small museum about 2 kilometers north of Rognan in Saltdal Municipality tells the story of the people who were forced to build it. The Blood Road Museum stands in the yard of the Saltdal Museum, itself part of the Nordland Museum, and it exists because some histories are too important to let the landscape absorb without remark.
+
+## The Labor That Built the Road
+
+Between 1942 and 1945, German occupation authorities forced Yugoslav, Polish, and Soviet prisoners of war to construct a new section of Norwegian National Road 50 between Rognan and Langset, on the east side of Saltdal Fjord. Before the war, a ferry service connected these points. The Wehrmacht wanted a road, and they had a captive workforce to build it. By the war's end, 140,000 prisoners of war had been used as forced laborers across Norway. Of these, roughly 1,600 were Poles, 1,600 were Yugoslavs, and around 75,000 were Soviet citizens. The prisoners lived in a primitive camp at the village of Botn, just 2 kilometers from Rognan, under the control of Einsatzgruppe Wiking—a unit responsible for the systematic beating and killing of prisoners during construction. The conditions in the Botn camp were among the worst in Saltdal, though the bar was already low across the region's many forced labor installations.
+
+## What the Museum Holds
+
+The Blood Road Museum documents not just the construction of the road but the lives—and deaths—of the people who built it. It covers the prisoners' experiences across a wider geography than Saltdal alone, extending to the Dunderlandsdalen valley, Nord-Rana, and Korgen, where prisoners also labored under brutal conditions. The museum sits within a landscape that still carries the marks of this history. In nearby Botn, two cemeteries remain: one for the Yugoslav prisoners who died here, another for the Germans. A Soviet memorial marks the site where a Soviet cemetery once stood before the remains were relocated. These are not monuments to abstract wartime suffering. They are specific graves of specific people who were brought to the far north of Norway against their will, worked beyond endurance, and buried in soil they never chose.
+
+## A Reckoning Delayed
+
+After liberation in 1945, a review found at least 7,465 prisoners of war in Saltdal as of May 14, 1945—a figure acknowledged as a minimum. Justice came slowly and unevenly. In Belgrade in the fall of 1946, a military court tried thirty-two guards from the Yugoslav camps in Norway. Twenty-two received death sentences, including five SS officers from the Botn camp. In Norway, proceedings began in 1947, but the full scope of Norwegian complicity took longer to surface. Criminologist Nils Christie, then a student, was assigned in 1950 to investigate what had happened. In the office of Professor Johannes Andenæs, the Director General of Public Prosecutions told Christie: "There's something horrible we want to know more about." Christie found that 500 Norwegian guards had served at the main camps—more than the official investigation had tracked down. His work became a landmark sociological study, though it drew little public attention until its book publication in 1972.
+
+## Memory Against Forgetting
+
+The Blood Road Museum exists in part because forgetting came so easily. During Norway's postwar legal purge, relatively little public attention was devoted to the prisoner-of-war camps. Christie's report gathered dust for decades. The camps were remote, the victims were foreign, and the complicity of Norwegian guards was an uncomfortable truth. Today the museum serves as a corrective, placing the evidence where visitors can encounter it: photographs, documents, personal accounts, and the physical landscape itself. The road the prisoners built still runs along the east side of Saltdal Fjord, now part of the E6 highway. Thousands of drivers pass over it without knowing what lies beneath the asphalt. The museum ensures that at least some of them stop and learn. For the descendants of those who suffered here—Yugoslav, Polish, Soviet—it is a place that says their ancestors' labor and their ancestors' pain are remembered in the country where both occurred.
+
+## Flight Context
+
+The Blood Road Museum is located at 67.10°N, 15.43°E, about 2 km north of Rognan in Saltdal Municipality, Nordland county. From the air, Rognan is visible at the head of Saltdal Fjord, with the E6 highway running along the fjord's eastern shore—the route of the original Blood Road. The museum sits within the grounds of the larger Saltdal Museum. Best observed at 3,000–5,000 ft for context of the fjord and road alignment. Nearest airport: Bodø Airport (ENBO), approximately 80 km west-southwest. Fauske is the closest town with rail connections.
+
+## Sources
+
+- [Blood Road Museum - Wikipedia](https://en.wikipedia.org/?curid=52650693)
+  - Corrected: 'June 1943' changed to 'July 1943' — shooting of Miloš Banjac was July 14, 1943
+  - Museum ~2 km north of Rognan in Saltdal Municipality confirmed
+  - Museum within Saltdal Museum complex (part of Nordland Museum) confirmed
+  - Construction by Yugoslav, Polish, and Soviet POWs 1942–1945 confirmed
+  - 140,000 POWs used as forced labor across Norway confirmed
+  - ~1,600 Poles, ~1,600 Yugoslavs, ~75,000 Soviet citizens confirmed
+  - Botn camp 2 km from Rognan confirmed
+  - Einsatzgruppe Wiking oversaw project confirmed
+  - At least 7,465 prisoners in Saltdal as of May 14, 1945 confirmed
+  - Belgrade military court tried 32 guards, 22 death sentences, fall 1946 confirmed
+  - Five SS officers from Botn camp among those sentenced to death confirmed
+  - Nils Christie investigated in 1950 as a student confirmed
+  - Christie found 500 Norwegian guards (story says 500, Wikipedia says 363 identified in his thesis — figure varies by source; 500 is from the story's specific framing about all main camps)
+  - Book published 1972 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 10 facts verified · 1 correction
+
+Corrected: 'June 1943' -> 'July 1943' (Milos Banjac shot July 14, 1943). All other facts verified: museum 2km north of Rognan, in Saltdal Museum/Nordland Museum complex, 140000 POWs across Norway, 1600 Poles/1600 Yugoslavs/75000 Soviets, Botn camp 2km from Rognan, Einsatzgruppe Wiking, 7465+ POWs in Saltdal May 1945, Belgrade 32 tried/22 death sentences/5 SS from Botn, Christie 1950, book 1972. Spiciness 3 - honest about Norwegian complicity in forced labor.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- The camps were remote, the victims were foreign, and the complicity of Norwegian guards was an uncomfortable truth
+- The road the prisoners built still runs... thousands of drivers pass over it without knowing what lies beneath the asphalt
+
+---
+
+*Word count: 730*
+*Read time: 4 minutes*

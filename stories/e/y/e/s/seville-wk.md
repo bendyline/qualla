@@ -1,0 +1,71 @@
+# Seville
+
+Where the Moors built the Alcazar and Columbus sailed for the New World, where flamenco was born in the barrios and Holy Week processions fill the streets with incense and passion.
+
+**Location:** 37.3891, -5.9845
+
+**Categories:** spain, andalusia, flamenco, moorish, cathedral, columbus
+
+## Introduction
+
+Seville held a monopoly on trade with the Americas for over two centuries - every ship sailing to or from the New World passed through its Casa de Contratacion, every fortune made in gold and silver flowed through its counting houses. The city that Columbus departed from and returned to became the richest in Spain, perhaps in Europe, the gateway between old and new worlds. The wealth built the cathedral, expanded the Alcazar, financed the architecture that makes Seville a museum of Andalusian beauty. The trade shifted to Cadiz in 1717 when the Guadalquivir silted up; Seville's decline was gradual but real. Today the city holds 690,000 people, the fourth largest in Spain, a place that has learned to sell its past - the flamenco, the orange trees, the religious fervor of Semana Santa - to tourists who come seeking something more passionate than the rest of Europe offers.
+
+## The Cathedral and the Giralda
+
+Seville Cathedral is the largest Gothic church in the world, built on the site of the Almohad mosque that the Christians conquered in 1248. The construction, which took over a century from 1401 to 1506, was meant to demonstrate that Seville could build on a scale that would seem beyond reason - the chapter allegedly declared 'Let us build a church so beautiful and so grand that those who see it finished will think we were mad.' They succeeded.
+
+The Giralda tower survives from the mosque, its minaret converted to bell tower with a Renaissance belfry added on top. The ramp that winds to the viewing platform was designed for horses, allowing the muezzin to ride rather than climb. The tower defines Seville's skyline as it has for 800 years, the Islamic base supporting the Christian addition, the hybrid representing Andalusia's layered history. Columbus is buried inside the cathedral - or at least some of him is; his remains were moved repeatedly, and DNA testing confirms the Seville tomb holds bones, though not necessarily all of them.
+
+## The Alcazar
+
+The Real Alcazar began as an Abbadid Muslim fortress in the 10th century, was expanded by the Almohads in the 12th, then rebuilt by the Christian King Pedro I in the 14th century using Moorish craftsmen who created a palace in Islamic style for a Christian ruler. The result is mudéjar architecture at its finest - horseshoe arches, intricate tilework, carved stucco, and the gardens that have made the Alcazar a filming location for Game of Thrones and countless other productions.
+
+The palace remains a royal residence - the Spanish royal family uses the upper floors when visiting Seville - making it the oldest European palace in continuous use. The gardens stretch for acres, fountains and pavilions and orange groves that suggest what paradise might look like if paradise were in Andalusia. The layers of construction, Islamic and Christian and Renaissance and modern, create a space that defies simple characterization - neither mosque nor church, neither Spanish nor Moorish, a hybrid that represents Seville's complicated identity.
+
+## Semana Santa
+
+Holy Week in Seville is Spain's most intense religious experience - brotherhood processions winding through narrow streets, floats bearing statues of Christ and the Virgin carried by teams of dozens, hooded penitents whose pointed capirotes disturb Americans unfamiliar with the tradition. The processions run from Palm Sunday through Easter Sunday, filling the city with incense and candle wax and the saetas - flamenco laments sung from balconies as the statues pass.
+
+The brotherhoods, some centuries old, compete in devotion and display. The most prestigious processions pass through the official route past the cathedral; the neighborhood processions reveal a different intensity, the statues familiar from lifetimes of worship, the emotion genuine rather than performed. Tourism has discovered Semana Santa, complicating the experience without destroying it. The faith that drives the processions is real, even if cameras now document what was once purely devotional.
+
+## Flamenco's Home
+
+Flamenco emerged in the barrios of Seville and the surrounding region - the Gypsy neighborhoods where Romani culture merged with Andalusian music to create something that sounds like nothing else. The cante jondo, the deep song, expresses duende - the spirit of heightened emotion that Federico Garcia Lorca tried to define and others have been attempting to capture ever since. The guitar, the voice, the dance, the palmas (hand clapping) that drives the rhythm - flamenco is collaborative art that looks improvised but follows strict forms.
+
+Triana, across the river, was the traditional flamenco neighborhood; gentrification has dispersed the community but the peñas (clubs) remain. The tourist tablaos offer packaged shows; the authentic experience requires knowing where to look or being lucky. Flamenco has been exported worldwide, but its heart remains in the cities of the Guadalquivir valley. Seville claims primacy; Jerez disputes it; the rivalry is itself part of the tradition.
+
+## The City of Light
+
+Seville is hot - summer temperatures regularly exceed 40 degrees Celsius, making the city one of the hottest in Europe. The response has been architectural: narrow streets that shade themselves, thick walls that store coolness, patios with fountains that provide refuge from the furnace outside. The siesta is not laziness but survival; the city comes alive at night when temperatures drop and the terraces fill.
+
+The heat shapes culture. The Feria de Abril, the spring fair that follows Semana Santa, runs through the night, casetas (tents) serving rebujito (sherry and lemonade) until dawn. The evening paseo, the stroll that fills the streets as heat fades, is social ritual and survival strategy simultaneously. Seville's beauty reveals itself in the golden light of late afternoon, when the cathedral and Giralda glow against the sky. The harsh midday belongs to tourists who don't know better; Sevillanos wait for the hours that belong to them.
+
+## Flight Context
+
+Seville (37.39N, 5.99W) lies in the Guadalquivir River valley in southwestern Spain, approximately 85km from the Atlantic coast. Seville Airport (LEZL/SVQ) is located 10km northeast of the city center with a single runway (09/27, 3,360m). The Cathedral and Giralda tower are identifiable in the city center. The Plaza de Espana semicircle is visible south of center. The Guadalquivir River curves through the city with the Triana neighborhood on the west bank. The terrain is flat with the Sierra Morena hills to the north. Weather is Mediterranean - hot dry summers (regularly exceeding 40C) and mild wet winters. Summer heat is extreme; afternoon flying can be challenging due to thermal activity. Visibility is generally excellent.
+
+## Sources
+
+- [Seville - Wikipedia](https://en.wikipedia.org/?curid=37770)
+- [Seville Cathedral - Wikipedia](https://en.wikipedia.org/wiki/Seville_Cathedral)
+  - largest Gothic church in world
+  - built 1401-1506
+  - contains Columbus tomb
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 6 facts verified · 0 corrections
+
+Story overlay verified
+
+**Spiciness:** 1/5
+
+**Strong opinions:**
+
+- Where Columbus sailed for the New World
+- Flamenco has been exported worldwide, but its heart remains in the cities of the Guadalquivir valley
+
+---
+
+*Word count: 1,100*
+*Read time: 5 minutes*

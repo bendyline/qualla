@@ -1,0 +1,57 @@
+# Pisagua, Chile
+
+Once Chile's third-largest port, this isolated coastal village rose on nitrate wealth, fell when the boom ended, and served as a prison camp under three different regimes.
+
+**Location:** -19.5972, -70.2133
+
+**Categories:** history, port, ghost-town, political-history, chile
+
+## Introduction
+
+The name means "place of scarce water" in Quechua, and the description could not be more precise. Pisagua clings to a narrow strip of flat ground between the Pacific Ocean and the Atacama Desert, hemmed in by cliffs on one side and open water on the other. There is no easy way in or out. That isolation made it useful twice over: first as a port for exporting saltpeter from the interior, and later as a place to put people a government wanted forgotten.
+
+## From Pirate Watchtower to Nitrate Boomtown
+
+Pisagua was founded in 1611 by edict of the Viceroy of Peru, not as a settlement for settlers but as a surveillance post. Gold and silver flowing from the mines of Potosi and Oruro were being intercepted by British and Dutch pirates operating along the coast, and the viceroy needed a garrison to stem the traffic. The original settlement, known today as Pisagua Viejo, grew on the south side of the Quebrada Tiliviche atop an ancient midden deposit. Some adobe ruins still stand. For two centuries, Pisagua remained a minor port subordinate to Arica. That changed in 1810 with the discovery of vast nitrate deposits in the Tarapaca interior. A tsunami in 1836 forced the town to relocate three kilometers south to its present site, a small plain between the peninsulas of Punta Pichalo and Punta Pisagua. By the 1870s, Pisagua had become one of the most important ports on the South Pacific coast.
+
+## Zig-Zag Rails to the Pampa
+
+Construction of a standard-gauge railway connecting Pisagua to the nitrate works of the interior began around 1865, when the port was still Peruvian territory. After Chile took possession in the War of the Pacific, work continued, and by 1935 Pisagua served as the northern terminus of a 400-mile rail network linking to Iquique. The engineering was dramatic: trains climbed from sea level to the interior plateau via three reversing zigzags on a heavily graded line. Nitrate ore descended to the coast for export, while fuel, water, passengers, and general merchandise rode back up. The system's lifeblood was water. Steam locomotives and the entire town relied on two wells at Dolores, 33 miles inland. During the early twentieth century, with banks opening offices and ornate buildings rising along the waterfront, Pisagua ranked behind only Valparaiso and Iquique among Chilean ports.
+
+## A Natural Prison
+
+Pisagua's geography made it ideal for a purpose no one advertises. Ocean on one side, desert on the other, no road worth the name. Three different Chilean governments exploited that isolation to confine political prisoners. Under Carlos Ibanez del Campo, the camp held men detained for homosexuality. Under Gabriel Gonzalez Videla, it held communists, anarchists, and revolutionaries. Under Augusto Pinochet's military dictatorship, it held left-wing militants. After the dictatorship ended, investigators discovered mass graves near the town. Bodies were found beneath the waters of the port. Pisagua's isolation, the same quality that once made it a strategic port and a profitable terminus, had also made it a place where people could be made to disappear.
+
+## The Ghost of What It Was
+
+Today, 260 people live in Pisagua, a village within the municipality of Huara, which itself has only 2,600 inhabitants. The earthworks, embankments, and cuttings that once carried the railway into town are still visible on the bare ground, empty tracks leading nowhere. The old railway station still stands, along with a handful of semi-derelict buildings constructed from Oregon pine during the nitrate era: a clock tower, a municipal theater, a hospital. A modest open-boat fishing fleet and occasional tourists provide what income there is. The fishmeal industry briefly sustained the port after nitrate declined, but by the end of the 1950s even that was gone. Pisagua is no longer proud, no longer rich. It endures, as it always has, on the narrow margin between desert and sea.
+
+## Flight Context
+
+Located at 19.60°S, 70.21°W on the northern Chilean coast in Tarapaca Region. From altitude, Pisagua appears as a tiny cluster of buildings on a narrow coastal shelf, dramatically squeezed between the Pacific and the steep escarpment of the Atacama Desert. The old railway cuttings zigzagging up the cliff face are visible from above. Nearest major airport is Diego Aracena International (SCDA/IQQ) in Iquique, approximately 130 km south. Elevation is sea level with the plateau rising abruptly to roughly 800 meters.
+
+## Sources
+
+- [Pisagua, Chile - Wikipedia](https://en.wikipedia.org/?curid=4521492)
+  - Founded 1611 by Viceroy of Peru to stem pirate traffic confirmed
+  - Standard-gauge railway construction began ~1865 confirmed
+  - By 1935 Pisagua was northern terminus of 400-mile network confirmed
+  - Carlos Ibanez del Campo used camp for homosexuals confirmed
+  - Gabriel Gonzalez Videla used for communists and anarchists confirmed
+  - Augusto Pinochet dictatorship used for left-wing militants confirmed
+  - Mass graves and bodies found in port after dictatorship ended confirmed
+  - Current population tiny village with ~260 residents consistent with sources
+  - Ranked behind Valparaiso and Iquique among Chilean ports confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 9 facts verified · 0 corrections
+
+All facts verified. Founded 1611 confirmed. Railway dates confirmed. Political prisoner use under three regimes confirmed. Mass graves confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 710*
+*Read time: 4 minutes*

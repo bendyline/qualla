@@ -1,0 +1,63 @@
+# Assassination of Mahatma Gandhi
+
+On a January evening in 1948, three bullets fired at a prayer meeting in New Delhi's Birla House ended the life of the man who had led India to independence through nonviolence.
+
+**Location:** 28.6013, 77.2137
+
+**Categories:** history, memorial, assassination, indian-independence
+
+## Introduction
+
+"Tell them that, if I remain alive, they can talk to me after the prayer on my walk." These were among the last recorded words Mahatma Gandhi spoke on the afternoon of January 30, 1948, relayed to two Kathiawar leaders who had hoped for an audience. The conditional phrasing -- if I remain alive -- was not premonition so much as habit. Gandhi had survived multiple assassination attempts, and he spoke of death with the matter-of-factness of a man who had long made peace with it. Within hours, in the garden of Birla House in central New Delhi, that peace would be tested for the final time.
+
+## The Last Ordinary Day
+
+Gandhi's final morning unfolded with the rhythms he had maintained for decades. He listened to a recitation of the Bhagavad Gita, then turned to drafting a new constitution for the Indian National Congress, work he intended to publish in the Harijan. His bath came at eight o'clock, followed by a massage. He weighed himself afterward: 109.5 pounds, light even for his spare frame at age 78. Over lunch with his secretary Pyarelal, he discussed the communal violence still tearing through Noakhali in East Bengal -- the same violence that had drawn him on a peace mission the previous year. After a nap, he met with Sardar Vallabhbhai Patel, a meeting that ran long. By the time he rose to walk to his evening prayer gathering, he was ten minutes late.
+
+## Five-Seventeen in the Garden
+
+Gandhi walked toward the raised lawn behind Birla House leaning on two young women -- his great-niece Manuben to his right and Abha Chatterjee to his left. He used them, as he often said, as his walking sticks. The crowd had swelled to several hundred: schoolboys, businessmen, soldiers, holy men, vendors selling pictures of Bapu. A stout young man in khaki pushed forward through the crowd, hands folded as though seeking a blessing. Manuben tried to wave him off -- Bapu was already late, she told him. The man shoved her aside so forcefully that her rosary, notebook, and Gandhi's spittoon scattered across the ground. As she bent to collect them, she heard what she would later describe as resounding booms. Smoke filled the air. Gandhi's hands were still folded. "Hey Ram... Hey Ram..." he murmured -- an invocation of God -- and collapsed into Abha's lap. Manuben's watch read 5:17 p.m. Blood soaked their white clothes. It took ten agonizing minutes to carry Gandhi back into the house. No doctor could be reached. The household opened a first aid kit and found nothing useful for bullet wounds. Colonel Bhargava, when he finally arrived, could only pronounce what everyone already knew.
+
+## The Assassin's Path
+
+Nathuram Godse was 37 years old, a journalist and Hindu nationalist from Pune with ties to the Rashtriya Swayamsevak Sangh and the Hindu Mahasabha. His grievance against Gandhi had been building for years. As early as 1944, Godse had led a group to block Gandhi's passage from Sevagram to Mumbai and was arrested carrying a dagger. Gandhi, characteristically, declined to press charges. What finally drove Godse to act was a sequence of events in January 1948. India and Pakistan were at war over Kashmir, and Prime Minister Nehru had withheld a financial payment owed to Pakistan as part of the post-Partition division of British India's assets. Gandhi opposed the decision and launched a fast-unto-death on January 13 to pressure the government into releasing the funds. The government yielded. To Godse and his conspirators, this was the final proof that Gandhi wielded undue power over the new nation -- and wielded it, in their view, against Hindu interests.
+
+## The American Who Broke the Spell
+
+In the seconds after the shots, the crowd froze. BBC reporter Robert Stimson, who was present, described the scene: "For a few seconds, no one could believe what had happened; everyone seemed dazed and numb." It was Herbert Reiner Jr., a 32-year-old American vice-consul who had arrived at Birla House after work, who broke the paralysis. Reiner had positioned himself near the terrace steps out of simple curiosity -- an impulse, he later said, to see this Indian leader up close. He had noticed the stocky man in khaki step into Gandhi's path, but his view was then blocked by Gandhi's entourage. The sounds that followed struck him as oddly muted, "not loud, not ringing, and not unlike the reports of damp firecrackers." When he realized what had happened, he rushed forward and seized Godse by the shoulders. That single act shattered the collective shock. Others surged in, and Godse was overpowered. Reiner's role made front pages around the world, though he rarely spoke of it afterward. He died in 1999.
+
+## Birla House Remembers
+
+The mansion where Gandhi spent the last 144 days of his life is now Gandhi Smriti, a memorial and museum in the heart of New Delhi. The path he walked to the prayer meeting is preserved, and concrete footsteps mark the route from the main building to the spot where he fell. A Martyrs' Column stands at the exact location of the shooting. Visitors walk the same ground Gandhi crossed that evening, past the room where the Bhagavad Gita was read over his body, past the first aid kit that held nothing of use. The site sits along Tees January Marg -- 30 January Road -- named for the date that transformed a prayer garden into a place of national mourning. From the air, Birla House is a patch of green in the dense grid of central Delhi, unremarkable until you know what happened there.
+
+## Flight Context
+
+Located at 28.601N, 77.214E in central New Delhi. Birla House (Gandhi Smriti) sits near the intersection of Tees January Marg and Sardar Patel Marg. Nearest major airport is Indira Gandhi International Airport (VIDP), approximately 14 km southwest. The site is surrounded by diplomatic enclaves and government buildings. Best viewed at lower altitudes in clear conditions; the green compound is distinguishable amid the dense urban layout of Lutyens' Delhi.
+
+## Sources
+
+- [Assassination of Mahatma Gandhi - Wikipedia](https://en.wikipedia.org/?curid=3578420)
+  - Gandhi assassinated January 30, 1948 at Birla House, New Delhi
+  - Nathuram Godse age 37, journalist and Hindu nationalist from Pune, ties to RSS and Hindu Mahasabha
+  - Gandhi's weight 109.5 pounds at age 78 confirmed
+  - Gandhi's fast-unto-death began January 13, 1948 over Pakistan payment
+  - Manuben's watch read 5:17 pm at moment of shooting
+  - Gandhi's last words 'Hey Ram' consistent with primary accounts
+  - Corrected: Herbert Reiner Jr. died December 28, 1999 (story said 2000)
+- [Herbert Reiner Jr. - Wikipedia](https://en.wikipedia.org/wiki/Herbert_Reiner_Jr.)
+  - Herbert Reiner Jr. born September 21, 1916; died December 28, 1999
+  - Rank of vice-consul at US Embassy New Delhi confirmed
+  - Role in seizing Godse confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 12 facts verified · 1 correction
+
+Corrected Herbert Reiner Jr. death year from 2000 to 1999 (died December 28, 1999). Verified Gandhi assassination details, Godse age/background, Manuben's watch time 5:17pm, fast-unto-death date January 13 1948, BBC reporter Robert Stimson presence.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 820*
+*Read time: 4 minutes*

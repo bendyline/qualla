@@ -50,5 +50,24 @@
     "sourceGeohash4": "dr5p"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "dr5p-houdaille-quarry-flight-context.mp3",
+      "dr5p-houdaille-quarry-intro.mp3",
+      "dr5p-houdaille-quarry-a-century-of-rock.mp3",
+      "dr5p-houdaille-quarry-crystals-in-the-cliff.mp3",
+      "dr5p-houdaille-quarry-rewilding-without-a-plan.mp3",
+      "dr5p-houdaille-quarry-the-devils-teeth-and-an-unsolved-mystery.mp3"
+    ],
+    "durations": {
+      "dr5p-houdaille-quarry-flight-context.mp3": 45.3537083,
+      "dr5p-houdaille-quarry-intro.mp3": 44.1672916,
+      "dr5p-houdaille-quarry-a-century-of-rock.mp3": 56.0055833,
+      "dr5p-houdaille-quarry-crystals-in-the-cliff.mp3": 53.032,
+      "dr5p-houdaille-quarry-rewilding-without-a-plan.mp3": 53.3442916,
+      "dr5p-houdaille-quarry-the-devils-teeth-and-an-unsolved-mystery.mp3": 43.2252916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

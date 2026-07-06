@@ -1,0 +1,59 @@
+# Key Marco
+
+A shell mound island near Marco Island where a Smithsonian expedition in 1896 unearthed more than a thousand wooden artifacts from a muck pond -- including the famous Key Marco Cat -- the largest collection of prehistoric wooden objects ever found in the eastern United States.
+
+**Location:** 25.9594, -81.7281
+
+**Categories:** Archaeological sites in Florida, Geography of Collier County, Florida, Indigenous culture of the Southeastern Woodlands, Shell middens in Florida, Islands of Collier County, Florida, Native American history of Florida
+
+## Introduction
+
+When the colors appeared, no one was prepared. As Frank Hamilton Cushing's team pulled carved wooden masks from the muck of a small pond on Key Marco in 1896, the painted surfaces blazed with pigments that had been sealed in wet darkness for centuries -- vivid reds, blacks, and whites as fresh as the day they were applied. Within hours, exposed to air and sunlight for the first time, the colors began to fade. The masks began to crack. The Smithsonian's Pepper-Hearst Expedition had stumbled onto one of the most extraordinary archaeological finds in North American history, and they were watching it deteriorate before their eyes. What they managed to save -- more than a thousand wooden artifacts pulled from a pond covering less than an acre -- remains the largest collection of prehistoric wooden objects from any archaeological site in the eastern United States.
+
+## The Court of the Pile Dwellers
+
+Key Marco was a shell works island adjacent to Marco Island on Florida's southwestern Gulf coast. Built up over centuries by the Muspa people -- a group within the Glades culture of the Ten Thousand Islands -- the island was composed almost entirely of deposited shells and sand. On its surface sat a small muck pond, barely an acre in size, that would later be designated archaeological site 8CR49 and given the evocative name the Court of the Pile Dwellers. The anaerobic conditions in the waterlogged muck created a near-perfect preservation environment. Wood, bone, fiber, rawhide, gut, natural gum -- materials that normally decompose within years -- survived for centuries. When Cushing's team excavated the pond in 1896, they found bowls, mortars and pestles, spears, atlatls, cords, ropes, nets, net floats, fishhooks, carved clubs, wooden tablets, ear spools, and dozens of realistically carved animal heads. Many of these objects had been painted in bold colors that remained vivid until the moment of excavation.
+
+## The Cat That Crossed Centuries
+
+Among the artifacts pulled from the muck was a small carved figure that has become one of the most recognized objects in Native American art: the Key Marco Cat. Part feline, part human, the wooden figure crouches with an expression that seems to hold some private knowledge. It is now displayed at the National Museum of Natural History at the Smithsonian Institution in Washington, D.C. The broader collection is divided among three major institutions -- the University of Pennsylvania Museum of Archaeology and Anthropology, the Smithsonian's Department of Anthropology, and the Florida Museum of Natural History at the University of Florida. Dating the finds proved difficult because no record of the stratification was kept during the 1896 excavation, a limitation of archaeological methods at the time. A radiocarbon dating attempt in the 1960s yielded a date of 1670 AD, while a second attempt in 1975 using five different objects produced dates ranging from 55 AD to 850 AD. No European trade goods or influences were found among the artifacts.
+
+## Layers Beneath the Shell
+
+The 1896 expedition was not the last investigation of Key Marco. In 1965, Van Beck and Van Beck excavated part of a tall mound northeast of the Court of the Pile Dwellers, recovering a large number of potsherds in distinct strata. All belonged to Glades periods II and III, and the density of the finds indicated that Key Marco supported a high population and considerable political complexity. Three decades later, in 1995, the Collier County Historical Society commissioned a salvage excavation on an undeveloped portion of the island, supervised by archaeologists Randolph J. Widmer and Rebecca Storey. Their team uncovered evidence of three platform mound stages with large houses built on pilings, along with 55 discrete stratigraphic layers revealed by changes in the shell and sand mixture. Numerous postholes indicated structures deliberately raised above the mound surface. The Muspa people who built this community were connected to the broader Glades culture, and around 1300 AD their pottery and artifact styles shifted to closely resemble those of the powerful Calusa people to the north -- evidence of a close alliance or outright absorption.
+
+## A Name Twice Borrowed
+
+The history of the name Key Marco is itself a tangle. In the 19th century, the island was distinct from Marco Island, home to a settlement called Marco Village and the Olde Marco Inn, founded in 1887. The settlement was renamed Collier City in 1927. By the late 20th century, Key Marco had been physically connected to Marco Island, its shell mounds leveled and covered by a housing subdivision -- including the site of the original Court of the Pile Dwellers, which was excavated, refilled, and built over. The area is now known as Old Marco Village. To add to the confusion, in the 1980s a development company appropriated the name Key Marco for the former Horr's Island, itself a significant archaeological site with one of the oldest indigenous burial mounds in the eastern United States, dating to about 1450 BCE, and evidence of the largest permanently occupied Archaic-period community in the southeastern United States.
+
+## What the Muck Preserved
+
+The tragedy and the miracle of Key Marco are the same. The muck pond preserved artifacts for centuries in conditions so perfect that their painted colors survived -- and then the moment of discovery became the beginning of their destruction. Techniques for stabilizing waterlogged wood did not exist in 1896. A photographer traveling with the expedition recorded the objects as quickly as possible, and watercolorist Wells M. Sawyer documented the painted surfaces, preserving a record of what the colors looked like before they faded. These photographs and paintings are now among the most valuable documents in American archaeology. The original pond is gone, paved over by development. But the objects that survived -- displayed in museums in Philadelphia, Washington, and Gainesville -- remain testimony to the sophistication of the Muspa and the broader Glades culture, people who built a complex society on islands of shell in the warm waters of the Gulf.
+
+## Flight Context
+
+Located at 25.96°N, 81.73°W on the northwestern side of Marco Island, Collier County, Florida. The original Key Marco shell mound site is now covered by the Old Marco Village residential area and not visually distinguishable from the air. Best viewed at 2,000-4,000 feet AGL in the context of the broader Marco Island and Ten Thousand Islands coastline. The nearest airport is Marco Island Executive (KMKY) approximately 3 nm south. Naples Municipal (KAPF) is approximately 12 nm north. The surrounding Ten Thousand Islands mangrove maze is visually striking from low altitude.
+
+## Sources
+
+- [Key Marco - Wikipedia](https://en.wikipedia.org/?curid=4288060)
+  - Pepper-Hearst Expedition led by Frank Hamilton Cushing in 1896
+  - More than 1,000 wooden artifacts recovered - largest collection of prehistoric wooden objects from any site in the eastern United States
+  - Key Marco Cat displayed at National Museum of Natural History, Smithsonian
+  - Collection divided among University of Pennsylvania Museum, Smithsonian, and Florida Museum of Natural History
+- [More Than 9 Lives: The Key Marco Cat - Smithsonian Magazine](https://www.smithsonianmag.com/sponsored/more-9-lives-preserved-against-odds-key-marco-cat-returning-marco-island-florida-180970215/)
+  - Key Marco Cat is approximately six inches tall, carved from native hardwood
+  - Wells M. Sawyer documented painted surfaces as photographer and watercolorist
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 4 facts verified · 0 corrections
+
+Facts verified: Cushing 1896 Pepper-Hearst Expedition, 1000+ wooden artifacts largest collection in eastern US, Key Marco Cat at Smithsonian's NMNH, three-institution collection split confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

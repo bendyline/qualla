@@ -1,0 +1,65 @@
+# Telluride
+
+The box canyon they turned into a ski resort - where Butch Cassidy robbed his first bank in 1889, Victorian mining buildings survived because no one could afford to tear them down, and Hollywood discovered Colorado's most beautiful dead end.
+
+**Location:** 37.9375, -107.8123
+
+**Categories:** colorado, ski-resort, mining, film-festival, box-canyon
+
+## Introduction
+
+Telluride sits at the end of a box canyon in the San Juan Mountains, surrounded by 13,000-foot peaks on three sides. There's one road in and one road out - a geographic fact that has shaped its history. Gold and silver built the town in the 1870s; when the mines closed, the town nearly died. For decades, Telluride was a beautiful ghost, its Victorian buildings preserved by poverty. Then came the ski resort in 1972, then the film festival in 1974, then the real estate boom that turned a dying mining town into one of America's most expensive communities. The irony is sharp: the isolation that made Telluride poor now makes it exclusive. The box canyon that trapped the town has become its selling point. Butch Cassidy robbed the San Miguel Valley Bank here in 1889; today the building is a luxury retail space.
+
+## The Mining
+
+Prospectors reached the Telluride area in 1875, naming their camp 'Columbia' - later changed to Telluride (possibly from tellurium, a gold-bearing ore, or perhaps 'to hell you ride,' reflecting the journey in). Gold and silver poured from mines high in the surrounding peaks: the Smuggler-Union, Tomboy, and Liberty Bell. Aerial tramways carried ore down mountainsides; stamping mills thundered day and night. At its peak, Telluride had a population of 5,000. The 1893 silver crash was devastating, but gold mining continued into the 20th century. Labor conflicts were violent - the Western Federation of Miners fought pitched battles with mine owners and the National Guard.
+
+## The Outlaw
+
+On June 24, 1889, Butch Cassidy (Robert LeRoy Parker) robbed the San Miguel Valley Bank of approximately $20,000 - his first major heist. He and accomplices escaped through the canyons that Cassidy knew from his days working at a nearby ranch. The robbery launched his career as America's most famous outlaw. The bank building still stands, now retail space rather than financial institution. The robbery is commemorated with pride in a town that has embraced its outlaw heritage. The escape route - through canyons and over mountain passes - demonstrates why this wild country attracted those who preferred not to be found.
+
+## The Revival
+
+Telluride nearly died when mining ended. By 1970, the population had fallen to around 500. The Victorian buildings survived because no one could afford to demolish them. In 1972, Joe Zoline opened Telluride Ski Resort, transforming the dying town. Two years later, filmmakers Bill Pence and Stella Pence founded the Telluride Film Festival, which became one of the world's most prestigious. The festivals - film, bluegrass, blues, jazz, balloon - created a cultural identity. Celebrity homes and real estate speculation followed. Today, median home prices exceed $1 million, and the working-class town has become a wealthy enclave.
+
+## The Access
+
+The box canyon defines Telluride's character. Colorado Highway 145 is the only road in - and it dead-ends at the base of the ski slopes. For decades, this isolation limited growth. The free gondola connecting Telluride to Mountain Village provided a second access point (sort of), and the regional airport at the top of a mountain offers dramatic landings. But the basic geography hasn't changed: Telluride is at the end of the road, surrounded by peaks that rise 4,000 feet above town. The limitation is also the attraction - Telluride feels removed from the world in ways that other resorts don't.
+
+## Visiting Telluride
+
+Telluride is located in San Miguel County, southwestern Colorado. Access is via Highway 145 from the north (from Ridgway) or south (from Cortez/Dolores). The main street is a National Historic Landmark District with preserved Victorian buildings. The free gondola connects Telluride (8,750 feet) to Mountain Village. Skiing is world-class; summer offers hiking, mountain biking, and festivals. The Telluride Film Festival (Labor Day weekend) is invite-only for attendees but screens are open. The town is small and walkable. Telluride Regional Airport (TEX) offers commercial service but is known for challenging approaches; most visitors drive from Montrose (MTJ, 65 miles) or fly into Denver and drive 6 hours. Accommodations are expensive; book early.
+
+## Flight Context
+
+Located at 37.94°N, 107.81°W in a box canyon in the San Juan Mountains of southwestern Colorado. From altitude, Telluride is visible as a tiny town at the end of a valley, surrounded on three sides by peaks rising above 13,000 feet. The ski runs stripe the mountain above town. Bridal Veil Falls cascades at the canyon's head. The single road in is visible snaking up the valley. The regional airport, perched at 9,078 feet on a mesa above town, requires one of the most dramatic approaches in commercial aviation.
+
+## Sources
+
+- [Telluride - Wikipedia](https://en.wikipedia.org/?curid=44959)
+- [Wikipedia - Butch Cassidy](https://en.wikipedia.org/wiki/Butch_Cassidy)
+  - June 24 1889 first bank robbery
+  - San Miguel Valley Bank
+  - 20000 dollars stolen
+- [Atlas Obscura - Mahr Building](https://www.atlasobscura.com/places/mahr-building)
+  - bank building location
+  - historical marker
+- [True West Magazine](https://www.truewestmagazine.com/article/bank-robbery-at-telluride/)
+  - Matt Warner accomplice
+  - escape through canyons
+
+## Review Notes
+
+**Reviewed:** 2026-01-12 · 12 facts verified
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- The box canyon they turned into a ski resort
+- The isolation that made Telluride poor now makes it exclusive
+
+---
+
+*Word count: 895*
+*Read time: 5 minutes*

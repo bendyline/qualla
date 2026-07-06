@@ -91,5 +91,24 @@
   "galleryPaths": [
     "_m/d/r/5/p/merchants-and-drovers-tavern-wp/merchants-tavern-nj.jpg"
   ],
-  "updatedAt": "2026-03-30T11:25:36.728Z"
+  "updatedAt": "2026-03-30T11:25:36.728Z",
+  "narration": {
+    "files": [
+      "dr5p-merchants-and-drovers-tavern-flight-context.mp3",
+      "dr5p-merchants-and-drovers-tavern-intro.mp3",
+      "dr5p-merchants-and-drovers-tavern-where-the-road-passed-through.mp3",
+      "dr5p-merchants-and-drovers-tavern-saved-from-the-wrecking-ball.mp3",
+      "dr5p-merchants-and-drovers-tavern-the-unknown-woman-and-other-ghosts.mp3",
+      "dr5p-merchants-and-drovers-tavern-what-the-timbers-remember.mp3"
+    ],
+    "durations": {
+      "dr5p-merchants-and-drovers-tavern-flight-context.mp3": 45.1662083,
+      "dr5p-merchants-and-drovers-tavern-intro.mp3": 53.0394166,
+      "dr5p-merchants-and-drovers-tavern-where-the-road-passed-through.mp3": 47.9433333,
+      "dr5p-merchants-and-drovers-tavern-saved-from-the-wrecking-ball.mp3": 67.2422916,
+      "dr5p-merchants-and-drovers-tavern-the-unknown-woman-and-other-ghosts.mp3": 58.6138333,
+      "dr5p-merchants-and-drovers-tavern-what-the-timbers-remember.mp3": 48.3878333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

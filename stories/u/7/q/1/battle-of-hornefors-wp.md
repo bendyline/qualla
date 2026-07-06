@@ -1,0 +1,60 @@
+# Battle of Hörnefors
+
+A pivotal 1809 clash in the Finnish War where a false report of encirclement caused the Swedish commander to abandon a defensible position -- the last battle in which Finnish-born troops fought for Sweden.
+
+**Location:** 63.6242, 19.9119
+
+**Categories:** history, military, battle, finnish-war
+
+## Introduction
+
+A lie ended the Battle of Hornefors. On the evening of 5 July 1809, Swedish General Johan August Sandels was holding his own against a Russian force that outnumbered him along the Hornan river in northern Sweden. His flanks were holding, his center was intact, and the fighting -- fierce as it was -- had not broken his line. Then a messenger arrived with false intelligence: the Russians had encircled his left flank. Sandels ordered a retreat. The encirclement never existed. By the time the truth became clear, the battle was lost, the rearguard was shattered, and one of Sweden's most promising young officers lay dying on the riverbank.
+
+## A Commander Seizes His Chance
+
+Sandels had taken command of Swedish forces around Umea under desperate circumstances. After the Battle of Skelleftea and the Russian capture of Umea on 1 June, Sweden's position in the north was crumbling. The previous commander, Georg Carl von Dobeln, had been replaced, and Sandels inherited an army of roughly 1,450 men in a territory increasingly dominated by Russian forces. But the strategic picture was not entirely bleak. The Swedish fleet's arrival in the Gulf of Bothnia neutralized the Russian navy's ability to supply its troops by water or launch coastal landings. When intelligence reports suggested the Russian defensive line behind the Ume River held only 1,200 men with eight guns, Sandels saw an opportunity. His own force had grown to 2,400 men. He decided to go on the offensive, advancing through Hornefors to strike before the Russians could consolidate.
+
+## Surprise at Nine O'Clock
+
+The advance moved slower than planned, and the element of surprise evaporated. The Russians, now commanded by Ilya Alekseyev after illness sidelined Pavel Andreyevich Shuvalov, had gathered 3,350 men and four guns. Shuvalov, though too ill to command directly, remained with the army and urged Alekseyev to counterattack rather than retreat. The blow fell on the evening of 5 July, a full day earlier than Sandels expected. At nine o'clock, the main Russian force launched a frontal assault along the Hornan while two flanking columns attempted to encircle the Swedish position. The Osterbotten battalion stopped the northern column cold. To the south, Halsinge and Jamtland battalions held firm against the other flanking attempt. Along the river, Swedish troops defended two bridges with determination. The line was bending but not breaking.
+
+## Duncker's Last Stand
+
+Then came the false report. At half past ten, after more than two hours of intense combat, Sandels received word that Russians had encircled his left flank near Angersjo. He ordered a general retreat. The Savolax 2nd Battalion, under Joachim Zachris Duncker, drew the rearguard assignment -- the most dangerous role in any withdrawal. Duncker's men fought to buy time for the rest of the army to disengage, absorbing the full fury of the Russian pursuit. The pressure was relentless. Duncker himself was mortally wounded during the fighting, and his battalion dissolved under the strain, suffering significant casualties. The sacrifice was not wasted: the main body of the Swedish army escaped, crossing the Ore River by dawn on 6 July. But the cost of a retreat triggered by phantom intelligence weighed heavily on those who survived.
+
+## The Last Finnish Battle
+
+The engagement at Hornefors holds a distinction that resonates far beyond its modest scale. It was the last battle of the Finnish War in which troops from present-day Finland fought. The Osterbotten and Savolax battalions that held the flanks and covered the retreat were Finnish regiments serving under the Swedish crown -- a relationship that had endured for centuries but was now in its final weeks. Sweden had already accepted the inevitability of ceding Finland to Russia; the question was only where the new border would fall. Tsar Alexander I demanded the Kalix River, deep in Swedish territory. Sweden refused. On 16 August, just six weeks after Hornefors, a Swedish amphibious force landed at Ratan to liberate Vasterbotten and improve the peace terms. The battles of Savar and Ratan followed, then the Treaty of Fredrikshamn, which drew the border roughly where it remains today. Finland became a Russian Grand Duchy. The soldiers who fought at Hornefors -- Swedish and Finnish alike -- had fought not to win the war, but to shape the peace that followed.
+
+## Flight Context
+
+Located at 63.62N, 19.91E along the Hornan river near Hornefors, Sweden, approximately 30 km south of Umea. The battlefield is situated in the river valley where the Hornan flows into the Gulf of Bothnia. Umea Airport (ESNU) is approximately 25 km to the northeast. The terrain is relatively flat coastal lowland with forested hills, and the river crossing that was central to the battle is still visible. Best viewed at low altitude following the river valley.
+
+## Sources
+
+- [Battle of Hörnefors - Wikipedia](https://en.wikipedia.org/?curid=67523692)
+  - Battle fought 5 July 1809 — confirmed
+  - Swedish commander Johan August Sandels — confirmed
+  - False report of encirclement near Angersjo caused retreat — confirmed
+  - Swedish force grew to 2,400 men — confirmed
+  - Russian force: 3,350 men under Ilya Alekseyev (with Shuvalov present though ill) — confirmed
+  - Savolax 2nd Battalion under Joachim Zachris Duncker drew rearguard assignment — confirmed
+  - Duncker was mortally wounded during fighting — confirmed
+  - Swedish army escaped, crossing Ore River by dawn on 6 July — confirmed
+  - Last battle of Finnish War in which troops from present-day Finland fought — confirmed
+  - Swedish amphibious force landed at Ratan on 16 August — confirmed
+  - Treaty of Fredrikshamn ended the war — confirmed
+  - Russia under Tsar Alexander I demanded Kalix River as border — confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 12 facts verified · 0 corrections
+
+All key facts verified: July 5 1809, Sandels, 2400 Swedes vs 3350 Russians, false encirclement report at Angersjo, Duncker mortally wounded, Swedish army crossed Ore River by dawn July 6, amphibious landing at Ratan Aug 16, Treaty of Fredrikshamn, last battle with Finnish-born troops under Swedish crown. No empathy issues. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 760*
+*Read time: 4 minutes*

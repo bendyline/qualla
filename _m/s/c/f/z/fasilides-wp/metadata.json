@@ -50,5 +50,24 @@
     "sourceGeohash4": "scfz"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "scfz-fasilides-flight-context.mp3",
+      "scfz-fasilides-intro.mp3",
+      "scfz-fasilides-a-throne-won-through-abdication.mp3",
+      "scfz-fasilides-the-castles-of-gondar.mp3",
+      "scfz-fasilides-diplomacy-by-exclusion.mp3",
+      "scfz-fasilides-rebellion-imprisonment-and-a-shared-coffin.mp3"
+    ],
+    "durations": {
+      "scfz-fasilides-flight-context.mp3": 42.2517916,
+      "scfz-fasilides-intro.mp3": 57.2901666,
+      "scfz-fasilides-a-throne-won-through-abdication.mp3": 73.6190833,
+      "scfz-fasilides-the-castles-of-gondar.mp3": 69.5555833,
+      "scfz-fasilides-diplomacy-by-exclusion.mp3": 74.9131666,
+      "scfz-fasilides-rebellion-imprisonment-and-a-shared-coffin.mp3": 78.96825
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

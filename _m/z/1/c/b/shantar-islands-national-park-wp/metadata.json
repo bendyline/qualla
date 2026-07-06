@@ -106,5 +106,24 @@
   "galleryPaths": [
     "_m/v/4/e/k/koygorodsky-national-park-wp/map-russia-sunset-insi.png",
     "_m/v/6/f/r/dyatlov-pass-wk/hero.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "z1cb-shantar-islands-national-park-flight-context.mp3",
+      "z1cb-shantar-islands-national-park-intro.mp3",
+      "z1cb-shantar-islands-national-park-an-archipelago-untethered.mp3",
+      "z1cb-shantar-islands-national-park-whales-and-whalers.mp3",
+      "z1cb-shantar-islands-national-park-from-reserve-to-national-park.mp3",
+      "z1cb-shantar-islands-national-park-a-living-laboratory.mp3"
+    ],
+    "durations": {
+      "z1cb-shantar-islands-national-park-flight-context.mp3": 44.5779166,
+      "z1cb-shantar-islands-national-park-intro.mp3": 51.891625,
+      "z1cb-shantar-islands-national-park-an-archipelago-untethered.mp3": 60.6605,
+      "z1cb-shantar-islands-national-park-whales-and-whalers.mp3": 49.908625,
+      "z1cb-shantar-islands-national-park-from-reserve-to-national-park.mp3": 62.5689166,
+      "z1cb-shantar-islands-national-park-a-living-laboratory.mp3": 62.6682083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

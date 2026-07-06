@@ -1,0 +1,67 @@
+# Battle of Mullaitivu (1997)
+
+A nighttime naval engagement off Sri Lanka's northeastern coast, the 1997 Battle of Mullaitivu pitted the Sri Lanka Navy's conventional flotilla against the LTTE's Sea Tigers and their explosive-laden suicide craft in a brutal two-hour fight across open water.
+
+**Location:** 9.6667, 80.0000
+
+**Categories:** military, naval-battles, civil-war, south-asia
+
+## Introduction
+
+At 1:30 in the morning on March 23, 1997, the crew of SLNS Jagatha radioed a warning: two groups of small boats, four or five in each group, were heading straight for the flotilla. The Sri Lanka Navy ships were twenty nautical miles off the coast of Mullaitivu, sailing north through waters that had become some of the most dangerous in the Indian Ocean. The town of Mullaitivu itself had been in LTTE hands since the previous year's devastating battle, and the sea lanes between Trincomalee and Jaffna -- the navy's lifeline to its forces on the Jaffna Peninsula -- had turned into a gauntlet. What followed was a two-hour running fight in the dark, the kind of close-quarters naval combat that belongs more to the age of torpedo boats than to the late twentieth century.
+
+## A Lifeline Under Siege
+
+By early 1997, the Sri Lankan Civil War had entered its third phase -- Eelam War III -- and the sea had become a critical theater. The LTTE's Sea Tigers had developed from a coastal guerrilla force into something closer to a conventional navy, operating radar-equipped vessels captured from the Sri Lanka Navy itself. Their most feared weapon was the Black Sea Tiger: small, fast craft packed with explosives, crewed by suicide cadres who would ram their boats directly into enemy ships. This tactic had already sunk the SLNS Ranaviru off Mullaitivu in July 1996. Using naval radars seized from Mullaitivu and Nagathevanthurai, the Sea Tigers tracked and attacked military convoys moving between Trincomalee and Jaffna. The navy responded by pushing its convoy routes further out to sea, hoping the smaller LTTE craft would not venture into open water. It was a reasonable assumption. It was wrong.
+
+## The Convoy Sails
+
+On March 22, the navy's flagship SLNS Parakramabahu, a Chinese-built Type 037 corvette under Commander Nawan Tennekoon, sailed into Trincomalee harbor from Galle. It was the first convoy in eight weeks, and the navy suspected that LTTE spotters along the coast between Kattaiparichchan and Foul Point had watched it leave. The flotilla that formed east of Trincomalee harbor was substantial: three gunboats -- the Parakramabahu and two Type 062 fast gun boats, SLNS Jagatha and SLNS Ranadheera -- escorted by four Israeli-built Dvora fast attack craft. They set sail at 6 PM on an easterly heading, reached the high seas, then turned north, cruising twenty nautical miles offshore. Days earlier, a Sri Lanka Air Force Mi-24 helicopter gunship had gone missing while supporting naval operations off Trincomalee, and the entire Air Force helicopter fleet had been grounded amid fears of sabotage. The convoy would fight without air cover.
+
+## Two Hours in the Dark
+
+When the Sea Tiger boats appeared on Jagatha's radar, the LTTE force included captured naval water jets equipped with radar, larger vessels the navy personnel called "the bus," and the dreaded suicide craft crewed by two or three Black Sea Tiger cadres. SLNS Parakramabahu opened fire with its 37mm and 14.5mm guns and destroyed the first suicide craft. Able Seaman G.A.K. Dimbulatenna was killed in the exchange -- the battle's first fatality on the navy side. The Dvoras, faster but further behind, accelerated to reach the fight and engaged a second group of Sea Tiger boats approaching from the rear. What followed was a moving battle that ranged from twenty to thirty nautical miles offshore, the combatants maneuvering in darkness lit only by muzzle flashes and burning wreckage. The gunboats pulled seaward to give the nimbler Dvoras room to fight at close range.
+
+## The Cost of Contested Waters
+
+By 3:30 AM, the Sri Lanka Navy held the advantage. Seven navy personnel had been wounded, one Dvora disabled by enemy fire, another suffering engine trouble, and all vessels carried battle damage. When Rear Admiral Daya Sandagiri dispatched two additional Dvoras for casualty evacuation, even those relief boats were intercepted by Sea Tiger craft -- one managed to sink an attacker while the others completed their mission. The surviving Sea Tiger boats withdrew toward the Mullaitivu coast, unloading their dead and wounded onto the beach, where tractors carried the injured inland. The boats themselves were hauled ashore and hidden. Casualty figures, as in much of the civil war, remained contested. The Ministry of Defence claimed 80 to 100 Sea Tigers killed; LTTE radio communications suggested 30 cadres dead and eight boats sunk. As journalist Iqbal Athas noted, official casualty figures from the war routinely strained credibility -- if taken at face value across all engagements, they would have exceeded the LTTE's total strength.
+
+## War Without End
+
+The flotilla of three gunboats and six Dvoras limped back to the SLN Dockyard by 11 AM. The following day, the Parakramabahu and two Dvoras sailed north again to Jaffna -- the convoy route had to be maintained regardless of cost. The Battle of Mullaitivu was a tactical victory for the Sri Lanka Navy, but it changed nothing strategically. The Sea Tigers continued to control the waters off the northeastern coast. The convoys continued to sail. The ambushes continued. The civil war itself would not end for another twelve years, concluding in 2009 with the final defeat of the LTTE in the same Mullaitivu district where so much blood had already been spilled. The waters off this coast are quiet now, but the men who fought there in the dark -- on both sides -- were sailors doing what sailors do in wartime, and many of them did not come home.
+
+## Flight Context
+
+The battle occurred approximately 20-30 nautical miles off the coast of Mullaitivu, northeastern Sri Lanka, at approximately 9.67N, 80.00E. The town of Mullaitivu sits on the coast, visible as a small settlement along an otherwise sparsely developed stretch of shoreline. The naval route between Trincomalee (to the south, VCCT) and Jaffna (to the northwest, VCCJ/JAF) runs along this coast. From altitude, the northeastern Sri Lankan coastline is a long, gentle curve of lagoons and palm-fringed beaches. China Bay Airport at Trincomalee (VCCT) lies approximately 60 nautical miles to the south.
+
+## Sources
+
+- [Battle of Mullaitivu (1997) - Wikipedia](https://en.wikipedia.org/?curid=73245203)
+  - Battle fought 23 March 1997 confirmed
+  - SLNS Jagatha spotted two groups of boats around 1:30 AM confirmed
+  - SLNS Parakramabahu described as Chinese-built corvette confirmed
+  - SLNS Parakramabahu used 37mm and 14.5mm guns confirmed
+  - Able Seaman G.A.K. Dimbulatenna killed - first navy fatality confirmed
+  - Flotilla included Dvora fast attack craft confirmed
+  - Sea Tigers used radar-equipped vessels captured from Sri Lanka Navy confirmed
+  - SLNS Ranaviru sunk off Mullaitivu July 1996 confirmed
+  - Seven navy personnel wounded confirmed
+  - MoD claimed 80-100 Sea Tigers killed; LTTE radio said 30 dead, 8 boats sunk confirmed
+  - Civil war ended in 2009 with LTTE defeated in Mullaitivu district confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 11 facts verified · 0 corrections
+
+Facts verified: March 23 1997, SLNS Jagatha radar warning at 1:30 AM, SLNS Parakramabahu Chinese-built corvette, Able Seaman Dimbulatenna killed first, Dvora craft, MoD claimed 80-100 dead vs LTTE radio 30 dead 8 boats sunk, civil war ended 2009. All accurate. Sources and editorial added.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- The men who fought there in the dark — on both sides — were sailors doing what sailors do in wartime, and many of them did not come home.
+
+---
+
+*Word count: 870*
+*Read time: 5 minutes*

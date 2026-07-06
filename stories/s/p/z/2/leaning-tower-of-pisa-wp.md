@@ -1,0 +1,60 @@
+# Leaning Tower of Pisa
+
+The most famous architectural mistake in history took 199 years to build, started leaning almost immediately, survived four earthquakes because of the same soft soil that made it lean, and was saved by removing 38 cubic meters of dirt.
+
+**Location:** 43.7230, 10.3966
+
+**Categories:** bell towers, Pisa, World Heritage Sites in Italy, Romanesque architecture, engineering history
+
+## Introduction
+
+The foundation is three meters deep. For a tower that would rise to 56 meters and weigh 14,500 tons, three meters of foundation in soft alluvial soil was a miscalculation of spectacular proportions. The Leaning Tower of Pisa began tilting before the builders reached the third floor. They kept building anyway -- adjusting, compensating, curving the structure upward like a banana as they tried to correct the lean even as they added to it. Construction stretched across 199 years, interrupted by wars, bankruptcies, and the naval catastrophe at the Battle of Meloria. The result is arguably the world's most beloved engineering failure: a building that attracts over five million visitors a year precisely because it does not do what buildings are supposed to do.
+
+## A Widow's Sixty Soldi
+
+The tower's origin can be traced to a specific act of generosity. On 5 January 1172, a widow named Donna Berta di Bernardo bequeathed sixty soldi to the Opera Campanilis -- the fund for the cathedral's bell tower. Her donation purchased the first stones of the foundation. Work on the white marble campanile began on 14 August 1173, during a period of military prosperity for the Republic of Pisa. The ground floor is a blind arcade ringed by columns with classical Corinthian capitals. The architect's identity remains disputed -- Bonanno Pisano has long been credited, though a 2001 study suggests Diotisalvi, who also designed the baptistery nearby. By 1178, when the builders reached the second floor, the tower had already begun to sink on its south side. The foundation, set in weak subsoil, could not bear the load. Construction halted. The Republic of Pisa was at war with Genoa, Lucca, and Florence. Paradoxically, those wars saved the tower: the long pause allowed the soil beneath to compress and settle, preventing a total collapse.
+
+## Built Crooked on Purpose
+
+When construction resumed in 1272 under Giovanni di Simone -- the same architect who designed the Camposanto -- the builders faced an impossible choice. They could not straighten the tower, but they could not leave it leaning at its current angle without risking collapse as it grew taller. Their solution was ingenious and visible to this day: they built the upper floors with one side slightly taller than the other, compensating for the lean by curving the tower's axis. The result is not merely a leaning tower but a curved one, shaped like a banana when seen in profile. Work halted again in 1284 after Pisa's defeat at the Battle of Meloria against the Genoese. The seventh floor was completed in 1319. The bell chamber, crowning the structure at last, was added in 1372 by Tommaso di Andrea Pisano, who harmonized Gothic elements with the Romanesque arcade below. Seven bells were installed, one for each note of the musical major scale. The largest, L'Assunta, weighing 3,620 kilograms, was hung in 1655.
+
+## The Sergeant Who Held His Fire
+
+By the 20th century, the lean had reached alarming proportions. The tilt increased to 5.5 degrees by 1990 -- far beyond anything the medieval builders had contended with. The tower was closed to the public on 7 January 1990, prompted in part by the sudden collapse of the Civic Tower of Pavia the previous year. Residents living in the path of a potential fall were evacuated. But the tower had already survived greater threats. During World War II, the Allies suspected the Germans were using the tower as an observation post. U.S. Army Sergeant Leon Weckstein was sent to confirm the presence of German troops. Approaching the cathedral and its campanile, Weckstein was so struck by their beauty that he refrained from calling in an artillery strike, a decision that likely saved both structures from destruction. The tower had also survived at least four strong earthquakes since 1280. A 2018 engineering study explained why: the same soft soil that caused the lean absorbs seismic vibrations, preventing the tower from resonating with earthquake ground motion.
+
+## Saving the Lean
+
+The challenge was never to straighten the tower but to stabilize its lean without destroying the very quality that made it famous. The Italian government requested international aid in 1964. Over the following decades, most interventions failed; some actually worsened the tilt. In 1993, engineers added 870 tons of lead counterweights to the north side. The final solution was elegant in its simplicity: 38 cubic meters of soil were carefully extracted from beneath the tower's raised northern edge, allowing the structure to settle back toward vertical. The tilt was reduced by 45 centimeters, returning the tower to roughly its 1838 position. After a decade of stabilization work, the tower reopened on 15 December 2001 and was declared stable for at least 300 years. In May 2008, engineers announced that the tower had stopped moving for the first time in its 835-year history. From the air, the tower is visible in the northwest corner of the Piazza del Duomo, its lean discernible even from altitude -- a white cylinder tilting south, surrounded by the cathedral, baptistery, and the scarred rectangle of the Camposanto.
+
+## Flight Context
+
+Located at 43.72N, 10.40E in the Piazza del Duomo (Piazza dei Miracoli) in Pisa. The tower is a distinctive white cylindrical structure visible from altitude, its lean discernible in the right conditions. It stands northwest of the cathedral in a cluster of four major structures including the baptistery and Camposanto. Nearest airport is Pisa-San Giusto (LIRP), approximately 2 km south of the piazza. The Arno River passes through the city to the south. The Tuscan coast lies a few kilometers to the west.
+
+## Sources
+
+- [Leaning Tower of Pisa - Wikipedia](https://en.wikipedia.org/?curid=46889)
+  - Donna Berta di Bernardo bequest 5 January 1172 confirmed
+  - Foundations laid 9 August 1173, ground floor work began 14 August 1173 confirmed
+  - Weight 14,500 tonnes confirmed
+  - 199 years of construction confirmed
+  - Closed 7 January 1990 confirmed
+  - 38 cubic meters of soil extracted confirmed
+  - Reopened 15 December 2001 confirmed
+  - May 2008 tower stopped moving confirmed
+- [Britannica - Leaning Tower of Pisa](https://www.britannica.com/topic/Leaning-Tower-of-Pisa)
+  - Height 55.86-56.67m confirmed
+  - Foundation depth 3 meters (design flaw context) confirmed
+  - Bonanno Pisano attribution disputed, Diotisalvi alternative per 2001 study confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-14 · 14 facts verified · 0 corrections
+
+Verified Donna Berta bequest 1172, construction 1173, 14,500 tonnes, 199 years, closed 1990, 38 cubic meters soil, reopened 2001, stopped moving 2008, Bonanno Pisano/Diotisalvi dispute. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 810*
+*Read time: 4 minutes*

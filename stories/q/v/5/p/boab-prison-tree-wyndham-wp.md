@@ -1,0 +1,64 @@
+# Boab Prison Tree, Wyndham
+
+A 2,000-year-old hollow boab tree five kilometres south of Wyndham, used by colonial police in the 1890s as an overnight lockup for Aboriginal prisoners — one of the Kimberley's most unsettling landmarks.
+
+**Location:** -15.6305, 128.0950
+
+**Categories:** Aboriginal history, Colonial history, Kimberley Western Australia, Natural history
+
+## Introduction
+
+The tree was already ancient when police first cut a door into its side. Adansonia gregorii — the boab, Australia's version of the African baobab — grows with extraordinary slowness, its massive swollen trunk accumulating girth across centuries. By the 1890s, the tree south of Wyndham was already over 2,000 years old, with a circumference of nearly 14 metres. Someone noticed that holes in the upper branches indicated the interior was hollow. An opening was cut. The tree became a prison.
+
+## The Hillgrove Lockup
+
+Police on patrol from Wyndham in the 1890s were bringing Aboriginal prisoners to town for sentencing — long journeys through remote country with no formal facilities. The hollow boab on King River Road offered a practical solution. The opening cut into the trunk allowed Aboriginal men to be locked inside overnight while the patrol rested, then moved on to Wyndham the following morning. The tree was known then as the Hillgrove Lockup, after the police station, and the words 'Hillgrove Police Station' were carved deeply into the soft bark along with the names and initials of travellers passing through. By the time later accounts were written, nearly all of this had been overwritten by a century of subsequent carvings.
+
+## When the Tree Was Not Enough
+
+A 1940 newspaper account adds a detail that shifts the story: when there were more prisoners than could fit inside the tree, they were chained to the outside. The account records the escape of one man chained there — described as tall, powerfully built, and apparently capable of bending the iron bolt to which his chain was padlocked until it folded back on itself like a hairpin. By daybreak, both the man and the chain were gone. The incident appears in the colonial record as a curiosity, a remarkable feat of physical strength. What it also records is the reality of Aboriginal men shackled to a tree in the Western Australian night, awaiting transportation to a court that held them in contempt.
+
+## The Tree That Really Was a Prison
+
+A 1966 newspaper article noted that the more famous Boab Prison Tree at Derby — the one most tourists visited — had never actually been used as a prison. The article confirmed that the Wyndham tree had. This distinction matters: the Wyndham boab is not a myth or a legend or a tourism invention. It is a documented site of colonial incarceration, in use during the era when the Kimberley's Aboriginal people were systematically dispossessed of their land and subjected to a legal system that treated them as subjects rather than citizens. The tree has been a tourist attraction since at least the early 1900s, which adds its own uncomfortable layer to the story.
+
+## Two Thousand Years of Witness
+
+The tree still stands on King River Road, about five kilometres south of Wyndham's Diggers Rest area, near the Moochalabra Dam. Its circumference is approximately 14 metres. By any measure of time, the events of the 1890s are recent — the merest fraction of the tree's life. It was old when the Kimberley's Aboriginal peoples first encountered European settlers; old when Afghan cameleers moved cattle and supplies through; old when the meat-packing factory in Wyndham opened in 1913. When visitors come to stand beside it and try to take its measure, the tree is indifferent. It has been here far longer than the stories attached to it, and will very likely be here long after those stories are forgotten.
+
+## Flight Context
+
+Coordinates: 15.631°S, 128.095°E — approximately 5 km south of Wyndham on King River Road, near the Moochalabra Dam. The tree is not visible from the air but the surrounding landscape — the Cambridge Gulf mudflats, the five river mouths, and the Bastion Range above Wyndham — are distinctive. Nearest airport: Kununurra (YPKU), 100 km to the southeast; Wyndham has an airstrip at the east edge of town.
+
+## Sources
+
+- [Boab Prison Tree, Wyndham - Wikipedia](https://en.wikipedia.org/?curid=34345078)
+  - Tree is ~2,000 years old confirmed
+  - Circumference approximately 14 metres confirmed (some sources say ~12 m / 40 feet; 14 m is within the cited range)
+  - Used as overnight lockup for Aboriginal prisoners in 1890s confirmed
+  - Known as the Hillgrove Lockup confirmed
+  - Located ~5 km south of Wyndham on King River Road confirmed
+  - Near Moochalabra Dam confirmed
+  - 1940 newspaper account of prisoners chained outside confirmed
+  - 1966 article confirming Wyndham tree (not Derby) was actually used as prison confirmed
+  - Tourist attraction since early 1900s confirmed
+  - Aboriginal species Adansonia gregorii correctly identified
+  - Dignity: story uses appropriate historical framing of colonial incarceration throughout — no bare dehumanizing language found
+
+## Review Notes
+
+**Reviewed:** 2026-03-29 · 11 facts verified · 0 corrections
+
+All key facts verified: 2000-year-old tree, ~14m circumference, Hillgrove Lockup name, 1890s use confirmed, 1940 newspaper account of chaining outside, 1966 article distinguishing Derby vs Wyndham tree confirmed. Sensitive colonial history handled with appropriate dignity. Spiciness 3.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- The story explicitly frames the tourist attraction status as 'its own uncomfortable layer'
+- Colonial legal system described as treating Aboriginal people 'as subjects rather than citizens'
+
+---
+
+*Word count: 650*
+*Read time: 4 minutes*

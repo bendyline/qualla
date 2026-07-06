@@ -676,5 +676,24 @@
     "_m/t/1/9/8/las-anod-wp/las-anod-ssc-khatumo-night-hab.png",
     "_m/t/1/9/8/las-anod-wp/las-anod-ssc-khatumo-city.png"
   ],
-  "updatedAt": "2026-03-31T13:39:49.954Z"
+  "updatedAt": "2026-03-31T13:39:49.954Z",
+  "narration": {
+    "files": [
+      "t198-las-anod-flight-context.mp3",
+      "t198-las-anod-intro.mp3",
+      "t198-las-anod-lines-on-a-map.mp3",
+      "t198-las-anod-the-seat-of-garad-ali.mp3",
+      "t198-las-anod-a-city-between-armies.mp3",
+      "t198-las-anod-february-2023.mp3"
+    ],
+    "durations": {
+      "t198-las-anod-flight-context.mp3": 39.2364166,
+      "t198-las-anod-intro.mp3": 41.2322083,
+      "t198-las-anod-lines-on-a-map.mp3": 64.0243333,
+      "t198-las-anod-the-seat-of-garad-ali.mp3": 60.90175,
+      "t198-las-anod-a-city-between-armies.mp3": 53.7845833,
+      "t198-las-anod-february-2023.mp3": 72.1798333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

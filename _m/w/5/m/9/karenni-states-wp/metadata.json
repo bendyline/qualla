@@ -118,5 +118,26 @@
   "galleryPaths": [
     "_m/w/5/m/9/karenni-states-wp/parts-shan-state-annex.png",
     "_m/w/5/m/9/karenni-states-wp/map-karenni-states.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w5m9-karenni-states-flight-context.mp3",
+      "w5m9-karenni-states-intro.mp3",
+      "w5m9-karenni-states-five-principalities-on-the-salween.mp3",
+      "w5m9-karenni-states-neither-burmas-nor-britains.mp3",
+      "w5m9-karenni-states-war-and-partition.mp3",
+      "w5m9-karenni-states-a-people-displaced.mp3",
+      "w5m9-karenni-states-the-fight-that-never-ended.mp3"
+    ],
+    "durations": {
+      "w5m9-karenni-states-flight-context.mp3": 47.66575,
+      "w5m9-karenni-states-intro.mp3": 43.4723333,
+      "w5m9-karenni-states-five-principalities-on-the-salween.mp3": 62.0016666,
+      "w5m9-karenni-states-neither-burmas-nor-britains.mp3": 76.134625,
+      "w5m9-karenni-states-war-and-partition.mp3": 65.2927083,
+      "w5m9-karenni-states-a-people-displaced.mp3": 72.1590833,
+      "w5m9-karenni-states-the-fight-that-never-ended.mp3": 59.195625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

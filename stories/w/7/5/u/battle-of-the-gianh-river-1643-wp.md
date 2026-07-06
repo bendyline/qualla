@@ -1,0 +1,62 @@
+# Battle of the Gianh River (1643)
+
+In the summer of 1643, a fleet of small Vietnamese junks attacked three Dutch East India Company warships off the Gianh River, destroying one in a gunpowder explosion and reshaping European ambitions in Southeast Asia.
+
+**Location:** 17.5903, 106.7028
+
+**Categories:** Naval battles involving the Dutch East India Company, Naval battles involving Vietnam, 17th century in Vietnam, Conflicts in 1643
+
+## Introduction
+
+A single bullet changed everything. Somewhere in the chaos off the Gianh River in the summer of 1643, a shot from a Vietnamese junk struck the powder magazine of the Dutch warship Wijdenes. The explosion tore the vessel apart and killed its captain, Pieter Baeck. The two surviving Dutch ships, damaged and outnumbered, fled north into the Gulf of Tonkin. It was a defeat that would end the Dutch East India Company's military adventures in Vietnam -- delivered not by a rival European navy, but by a fleet of small coastal junks that had no business taking on ocean-going galleons.
+
+## A Civil War Invites an Empire
+
+The roots of the battle lay in a Vietnamese conflict that had nothing to do with Europe. Since the early seventeenth century, the kingdom of Dai Viet had been split between two rival clans: the Trinh lords in the north and the Nguyen lords in the south. The Trinh-Nguyen War ground on for decades along a fortified line near the Gianh River, neither side able to deliver a decisive blow. Into this stalemate stepped the Dutch East India Company. Lord Trinh Trang welcomed the VOC when they arrived in northern Dai Viet in 1637, offering trading privileges in exchange for military help against the Nguyen. The Nguyen, for their part, allied with Portugal -- the Dutch Company's primary commercial rival. By 1641, the VOC was entangled in a war it barely understood, backing one Vietnamese lord against another in pursuit of trade advantages.
+
+## Escalation on the Coast
+
+The Company's early forays were clumsy and brutal. In late May 1642, five VOC warships carrying 222 men under Jan van Linga raided the central Vietnamese coast held by the Nguyen, burning houses and seizing civilians as hostages before sailing north to rendezvous with Trinh forces. Off the Cham Islands near Quang Nam, the Nguyen navy repulsed the Dutch fleet, killing ten men including Captain Jacob van Liesvelt. The Nguyen lord subsequently released fifty Dutch prisoners, allowing them to sail for Java on 19 May 1643 aboard a junk. Two days out, a Portuguese warship attacked the vessel, killing thirty-two of the freed Dutchmen. Only one survivor made it back to Batavia. The VOC was losing men to enemies on every side -- and still it pressed forward, sending fresh ships to try again.
+
+## The Battle at the River's Mouth
+
+In the summer of 1643, Batavia dispatched three warships -- the Wijdenes, Waterhond, and Vos -- under Captain Pieter Baeck to the Gianh River, where a Trinh army of 10,000 men under Trinh Tac waited to launch a coordinated assault on the Nguyen south. But prince Nguyen Phuc Tan moved first. He sent fifty to sixty junks -- small, shallow-draft vessels designed for coastal waters -- to intercept the Dutch galleons five miles south of the river mouth. What followed defied expectations. The Dutch opened fire and sank seven junks, but the Nguyen fleet pressed the attack at close range. When the Nguyen struck the Wijdenes' powder magazine, the resulting explosion destroyed the ship entirely. The Waterhond and the Vos, battered and leaking, broke off and ran north. The Trinh army, stationed close enough to hear the gunfire, never intervened.
+
+## The Allies Who Watched
+
+The Trinh failure to support their Dutch allies during the battle proved as consequential as the battle itself. Whether the Trinh held back out of caution, confusion, or calculation, their inaction left the VOC exposed and furious. Jan van Elseracq, writing to the Trinh lords afterward, tried to save face by claiming a Dutch victory -- insisting the Company had inflicted 800 casualties and sunk seven Nguyen junks. The Trinh were unconvinced. Disappointed by their allies' naval losses, they aborted the entire campaign against the south. The alliance that was supposed to crack the Nguyen defenses had instead revealed its fragility. Neither partner trusted the other, and neither had achieved what it wanted.
+
+## The Long Withdrawal
+
+The aftermath unfolded in stages. In 1644, the Dutch blockaded Hoi An in a last attempt to pressure the Nguyen into releasing fourteen remaining prisoners. It accomplished nothing lasting. By 1651, the VOC finally negotiated peace with Lord Nguyen Phuc Tan, the same prince who had commanded the junks at the Gianh River and who now ruled the southern domain. The Company abandoned its military alliance with the Trinh lords for good. The Trinh, meanwhile, turned on themselves -- two brothers of Trinh Tac fought a bloody succession struggle that spilled into the streets of Hanoi in 1645. The Gianh River had exposed a truth that would echo across Southeast Asian history: European naval power, formidable on the open ocean, could be challenged in coastal waters by determined local forces who understood the terrain, the currents, and the stakes.
+
+## Flight Context
+
+Located at 17.59°N, 106.70°E at the mouth of the Gianh River where it meets the Gulf of Tonkin in Quang Binh Province, central Vietnam. The river mouth is visible as a wide estuary cutting through the narrow coastal plain between the Annamite Mountains and the South China Sea. Nearest airport is Dong Hoi Airport (VVDH), approximately 40 km south. At cruising altitude, the Gianh River is distinguishable as it snakes eastward through flat agricultural land before widening at the coast. The 17th parallel, which later divided North and South Vietnam, runs near this area.
+
+## Sources
+
+- [Battle of the Gianh River (1643) - Wikipedia](https://en.wikipedia.org/?curid=69692696)
+  - Three Dutch warships: Wijdenes, Waterhond, and Vos under Captain Pieter Baeck confirmed
+  - VOC arrived in northern Dai Viet 1637 confirmed
+  - Attack by 50-60 junks confirmed
+  - Wijdenes powder magazine struck, ship destroyed, Pieter Baeck killed confirmed
+  - VOC fleet fought Nguyen near Cham Islands May 1642 confirmed
+  - Jan van Elseracq claimed 800 Nguyen casualties and 7 junks sunk confirmed
+  - VOC negotiated peace with Lord Nguyen Phuc Tan 1651 confirmed
+- [Trinh-Nguyen War - Wikipedia](https://en.wikipedia.org/wiki/Tr%E1%BB%8Bnh%E2%80%93Nguy%E1%BB%85n_War)
+  - Trinh-Nguyen civil war context confirmed
+  - Portugal allied with Nguyen confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 10 facts verified · 0 corrections
+
+All facts verified: three Dutch ships Wijdenes/Waterhond/Vos, Captain Pieter Baeck killed, 50-60 junks attacked, Wijdenes powder magazine struck, VOC-Trinh alliance 1637, Nguyen-Portuguese alliance confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

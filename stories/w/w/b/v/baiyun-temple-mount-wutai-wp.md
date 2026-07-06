@@ -1,0 +1,55 @@
+# Baiyun Temple (Mount Wutai)
+
+A Tang dynasty temple on Mount Wutai destroyed by war and revolution, then painstakingly rebuilt over a decade by a single determined monk.
+
+**Location:** 38.9476, 113.5927
+
+**Categories:** buddhist-temples, historical-sites, chinese-heritage, mount-wutai
+
+## Introduction
+
+There is a saying among pilgrims on Mount Wutai: "Jinding Temple in Mount Jiuhua in southern China, and Baiyun Temple in Mount Wutai in northern China." The pairing links two of Buddhism's most sacred Chinese mountains across a thousand kilometers, suggesting that Baiyun Temple -- the White Cloud Temple -- once carried a spiritual weight far beyond its modest size. That weight endured even after the temple itself did not.
+
+## Foundations in the Golden Age
+
+Baiyun Temple was first established during the Tang dynasty (618-907) by a devout Buddhist from Taiyuan, the provincial capital of Shanxi. The Tang era was a golden age for Buddhism in China, when imperial patronage sent monasteries spreading across the country's sacred peaks. Mount Wutai, revered as the earthly abode of the bodhisattva Manjushri, drew particular attention. Temples clustered in the valleys between its five flat-topped peaks, and Baiyun Temple took its place among them -- its name evoking the white clouds that drift through these mountain passes like incense smoke writ large.
+
+## Imperial Favor and Fiery Ruin
+
+For centuries, the temple drew worshippers and scholars. During the reign of the Kangxi Emperor (1654-1722), the ruler himself visited Baiyun Temple and composed a poem in its honor -- an act of imperial devotion that conferred lasting prestige. But prestige did not protect it from disaster. In 1748, during the Qianlong Emperor's reign, a fire tore through the compound and destroyed two-thirds of its buildings. What fire left standing, history would eventually take. During the Second Sino-Japanese War (1937-1945), Japanese forces ravaged Mount Wutai's temples. The Cultural Revolution that followed completed the destruction, as zealots dismantled what the invaders had damaged.
+
+## A Monk's Ten-Year Mission
+
+By the late twentieth century, Baiyun Temple existed only in memory and in the old literary records. Then in 1995, a monk named Changlong set out to rebuild it. Over the next decade, he oversaw the restoration of the entire complex: the Lotus Throne of Guanyin, the Hall of Four Heavenly Kings, the grand Mahavira Hall, the Bell and Drum towers, the Hall of Kshitigarbha, the Hall of Bhaisajyaguru, and more. The project was completed in 2005, giving Baiyun Temple a new incarnation that honors its Tang dynasty origins while standing as testament to one man's resolve. The white clouds still gather around the peaks above, indifferent to the centuries of construction and destruction below.
+
+## Sacred Geography
+
+Baiyun Temple sits in Taihuai Town, the spiritual heart of the Mount Wutai complex in Wutai County, Xinzhou. This cluster of valleys and ridges in northeastern Shanxi Province holds one of the densest concentrations of Buddhist architecture anywhere in China. Mount Wutai is one of the Four Sacred Mountains of Chinese Buddhism, and its temples span nearly every dynasty from the Northern Wei to the present. Baiyun Temple's story -- ancient founding, imperial attention, wartime destruction, modern rebirth -- mirrors the broader arc of Buddhist life on these peaks.
+
+## Flight Context
+
+Located at 38.95N, 113.59E in the Mount Wutai temple complex, Shanxi Province, China. The temple sits at approximately 1,700 meters elevation in Taihuai Town valley. From the air, the cluster of temple rooftops is visible amid forested mountain terrain. Nearest major airport is Taiyuan Wusu International Airport (ZBYN), approximately 230 km to the southwest. Wutai Mountain Airport (ZBWT) is closer at roughly 50 km. Recommend viewing altitude of 3,000-5,000 feet AGL for temple complex detail. The five flat-topped peaks of Mount Wutai are distinctive navigational landmarks.
+
+## Sources
+
+- [Baiyun Temple (Mount Wutai) - Wikipedia](https://en.wikipedia.org/?curid=56070082)
+  - Founded Tang dynasty confirmed
+  - Kangxi Emperor (1654-1722) visited and composed poem confirmed
+  - Fire 1748 Qianlong Emperor reign destroyed two-thirds confirmed
+  - Damaged in Second Sino-Japanese War 1937-1945 confirmed
+  - Cultural Revolution completed destruction confirmed
+  - Monk Changlong began restoration 1995 confirmed
+  - Restoration completed 2005 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-19 · 5 facts verified · 0 corrections
+
+Batch 17 review complete. Sources added.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 620*
+*Read time: 3 minutes*

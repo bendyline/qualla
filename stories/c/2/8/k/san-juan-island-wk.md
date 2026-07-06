@@ -1,0 +1,53 @@
+# San Juan Island
+
+An island where a single gunshot aimed at a pig nearly started a war between two great empires, San Juan Island now offers peaceful harbors and world-class whale watching.
+
+**Location:** 48.5333, -123.0830
+
+**Categories:** islands, history, wildlife, pacific-northwest
+
+## Introduction
+
+On June 15, 1859, an American settler named Lyman Cutlar raised his rifle at a pig rooting through his garden. The animal belonged to the Hudson's Bay Company, and when Cutlar pulled the trigger, he sparked an international crisis that would bring the United States and Great Britain to the brink of war. For twelve years afterward, soldiers from both nations occupied this small island in the Pacific Northwest, watching each other warily across rolling meadows where sheep once grazed along trails cut by Cowichan workers from Vancouver Island. Today, those same paths wind through San Juan Island National Historical Park, where visitors can stand at British Camp near Roche Harbor or walk the grounds of the American Camp south of Friday Harbor, imagining the tension that once crackled between two encampments separated by mere miles.
+
+## The Pig War That Wasn't
+
+What makes the Pig War remarkable is not its violence but its restraint. After Cutlar shot the pig, British authorities threatened arrest. American settlers petitioned for military protection. Both sides escalated their presence on the island. Yet President James Buchanan, shocked that a farmer's frustration could balloon into an international incident, dispatched the commanding general of the U.S. Army to contain the crisis. His diplomacy held until 1871, when Kaiser Wilhelm I of Germany was asked to arbitrate. The following year, his commission ruled in favor of the United States, establishing the boundary through Haro Strait and settling forever the line between Canada and its southern neighbor. The only casualty of the entire conflict remained that unfortunate pig.
+
+## Friday Harbor and Roche Harbor
+
+Friday Harbor serves as the county seat for San Juan County and anchors the island's largest town. The Whale Museum chronicles the pods of orcas that patrol these waters, while the San Juan Islands Museum of Art brings culture to this maritime community. Across the island, Roche Harbor offers a different flavor of island life: a bustling harbor resort where the San Juan Islands Sculpture Park displays more than 150 outdoor works among gardens and forest paths. Between these two settlements, the island unfolds in pastoral beauty, its roads tracing the old sheep runs established by Hudson's Bay Company workers more than a century and a half ago.
+
+## Kingdom of the Orcas
+
+The waters surrounding San Juan Island rank among the premier whale watching destinations in North America. Resident orca pods, including the famous J, K, and L pods, follow salmon runs through these cold, productive waters. Lime Kiln Point State Park on the island's west side has earned its reputation as one of the best land-based whale watching spots anywhere, where patient observers can watch the distinctive black-and-white forms breach and spy-hop against a backdrop of distant Olympic Mountains. Kayaking outfitters in Friday Harbor offer a more intimate encounter, guiding paddlers through kelp forests where seals haul out on rocky islets and bald eagles wheel overhead.
+
+## Getting There
+
+Washington State Ferries connects San Juan Island to the mainland at Anacortes, about ninety minutes north of Seattle. The ferry also serves Lopez, Shaw, and Orcas islands, creating a web of maritime transportation through the archipelago. Summer weekends can mean long waits for vehicles, so reservations are strongly recommended. Walk-on passengers have an easier time, though arriving thirty minutes before sailing remains wise. Once on island, a small bus service and taxi options help visitors explore, though many rent mopeds or bicycles to feel the salt air as they travel between harbors and historical sites.
+
+## Flight Context
+
+Located at 48.53N, 123.08W in the San Juan Islands archipelago between Washington State and Vancouver Island. Friday Harbor (KFHR) serves general aviation on the island. Nearby airports include Bellingham International (KBLI, 25nm NE), Victoria International (CYYJ, 15nm NW), and Seattle-Tacoma (KSEA, 75nm S). From altitude, the island appears as the second-largest in the San Juan chain, with Roche Harbor visible at the northwest tip and Friday Harbor along the eastern shore.
+
+## Sources
+
+- [San Juan Island - Wikivoyage](https://en.wikivoyage.org/?curid=31220)
+- [Pig War (1859) - Wikipedia](https://en.wikipedia.org/wiki/Pig_War_(1859))
+  - June 15 1859 Lyman Cutlar shot pig
+  - Kaiser Wilhelm I arbitration 1872
+  - 12 years joint occupation
+  - Only casualty was the pig
+
+## Review Notes
+
+**Reviewed:** 2026-01-23 · 28 facts verified · 2 corrections
+
+Verified populations, dates, route lengths. Fixed Lopez population and Amtrak mileage.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 720*
+*Read time: 4 minutes*

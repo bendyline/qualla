@@ -1,0 +1,77 @@
+# Oakland Cemetery
+
+Atlanta's oldest surviving landmark, where 70,000 residents -- from Confederate dead to Margaret Mitchell, Bobby Jones, and Kenny Rogers -- tell the story of a city that burned and rebuilt itself around their graves.
+
+**Location:** 33.7486, -84.3714
+
+**Categories:** cemetery, landmark, historical-site, georgia, civil-war
+
+## Introduction
+
+Dr. James Nissen, Oakland Cemetery's first resident, was so terrified of being buried alive that he asked doctors to slit his jugular vein before lowering him into the ground. That was 1850, when the place was simply called Atlanta Cemetery and occupied six acres of land southeast of a small railroad town. Nearly two centuries later, the cemetery sprawls across 48 acres in the center of a metropolis, cradling an estimated 70,000 souls beneath oaks and magnolias. When Sherman burned Atlanta in 1864, Oakland survived -- making it one of the oldest historical plots of land in a city that has a habit of erasing its past. The names on the headstones here are the names on Atlanta's streets, parks, buildings, and subdivisions. To walk Oakland is to walk through every chapter of the city's story, from its founding as a rail junction to its emergence as the capital of the New South.
+
+## The Businessman Who Hated Neckties
+
+The first thing most visitors notice upon entering Oakland's gates -- erected in 1896, the date carved into the keystone of the highest arch -- is the mausoleum of Jasper Newton Smith, topped with a life-size stone statue of the man himself. Smith was a real estate investor who rose during Reconstruction-era Atlanta, and he was famous for refusing to wear a necktie, reportedly because of a traumatic childhood experience. When the sculptor carved Smith's likeness wearing a cravat, Smith refused to pay until the offending neckwear was chiseled off the stone. He later visited the cemetery in person to remove a vine that had wrapped around the statue's neck. Nearby rest Martha Lumpkin Compton, whose father Governor Wilson Lumpkin gave Atlanta its temporary name of Marthasville from 1843 to 1845, and Bobby Jones, the amateur golfer whose grave visitors perpetually adorn with golf balls. The eighteen flower-bearing plants surrounding Jones's plot are the namesakes of the holes at Augusta National.
+
+## Six Thousand Nine Hundred Soldiers
+
+During the Civil War, Atlanta was a critical transportation and medical hub for the Confederacy. Several of the largest military hospitals stood within a half mile of Oakland, and soldiers who died from their wounds were buried here by the hundreds. After the war ended, thousands more fallen from the Atlanta campaign were relocated from battlefield graves to Oakland's Confederate section. The 65-foot obelisk marking the section was quarried from Stone Mountain granite and dedicated on April 26, 1874 -- the anniversary of Joseph E. Johnston's surrender to Sherman. For years it stood as the tallest structure in Atlanta. Four Confederate generals rest near its base. Among the approximately 6,900 burials, about 3,000 remain unidentified. In a rare wartime gesture, 16 Union soldiers lie buried alongside their former enemies, likely placed there because the cemetery was simply running out of room. The Lion of the Confederacy sculpture, carved in 1894 as a near-copy of the Swiss Lion of Lucerne, guarded the unknown dead until it was removed by the city in August 2021 following repeated vandalism.
+
+## A Mirror of Division and Change
+
+Oakland's layout is a physical map of Atlanta's social history. The segregated Black section, adjacent to Potter's Field, tells the story of Jim Crow-era Georgia with an absence as much as a presence -- many grave markers here were made of wood and other biodegradable materials that have long since rotted away, rendering thousands of burial sites unknown. Yet this section holds remarkable figures: Bishop Wesley John Gaines, Reverend Frank Quarles who was an early benefactor of Morehouse College, and Carrie Steele Logan, founder of Georgia's first Black orphanage. Potter's Field itself holds an estimated 17,000 people, according to a 1978 archaeological survey by Georgia State University. In the new Jewish section, acquired by the Hebrew Benevolent Congregation in 1878 and 1892, the headstones reveal a cultural dialogue -- German-Jewish immigrants blending into American life alongside Eastern European Orthodox families who carved their stones in Hebrew and preserved traditional symbols.
+
+## Gone with the Wind, Resting in the Oaks
+
+Margaret Mitchell Marsh lies in the original section of Oakland, her grave adorned with roses. The author of Gone with the Wind set scenes in this very cemetery -- in her 1936 novel, Oakland is the final resting place of Scarlett O'Hara's first husband, Charles Hamilton. Near Mitchell's grave stands a gas lamp, one of the original 50 installed by the Atlanta Gas Light Company in 1856, bearing scars from the shelling of Atlanta in 1864. The lamp was donated by Franklin Miller Garrett, dubbed Atlanta's Official Historian, who spent decades cataloging the cemetery's graves and Atlanta's broader history. On a hill nearby rises the Austell Mausoleum, built in Gothic Revival style in the 1880s for Alfred Austell, a founder of Atlanta National Bank. It cost $90,000 then -- over $3 million in today's terms. The Bell Tower, built in 1899 on the site of a farmhouse from which General John Bell Hood directed Confederate forces during the Battle of Atlanta on July 22, 1864, now serves as the Historic Oakland Foundation's offices and visitor center.
+
+## Surviving Sherman, Surviving the Storm
+
+Oakland has endured what few Atlanta landmarks can claim: it outlasted Sherman's fires and a direct hit from a tornado. On March 14, 2008, a tornado tore through downtown Atlanta -- the first to strike the city center since weather records began in the 1880s. The storm's greatest intensity was centered directly over the cemetery. City Sexton Sam Reed estimated 50 to 60 trees toppled, dozens of headstones and obelisks destroyed, and debris from surrounding buildings scattered across the grounds. A shredded window blind was found draped around a grave marker like a necklace. Oakland was never a perpetual care cemetery; maintenance fell to the families of the interred. As generations moved away and connections faded, many graves fell into neglect. The Historic Oakland Foundation, established shortly after Oakland was placed on the National Register of Historic Places in 1976, has worked to restore what time and weather have degraded. The last traditional plots were sold in 1884, but burials continue on family-owned land. Among the most recent: former mayor Maynard Jackson, Atlanta's first African American mayor, laid to rest on a plot contributed by the city itself.
+
+## Flight Context
+
+Located at 33.749N, 84.371W in the Grant Park neighborhood of central Atlanta, Georgia. Oakland Cemetery covers approximately 48 acres and is clearly visible as a large green space east of downtown. Nearest airports: Hartsfield-Jackson Atlanta International Airport (KATL) approximately 7nm south, DeKalb-Peachtree Airport (KPDK) approximately 7nm northeast, Fulton County Airport-Brown Field (KFTY) approximately 10nm northwest. The cemetery's tree canopy, pathways, and the Confederate Obelisk are distinguishable from low altitudes. Best viewed at 1,500-3,000 feet AGL. Adjacent to Grant Park and the Atlanta Zoo.
+
+## Sources
+
+- [Oakland Cemetery (Atlanta) - Wikipedia](https://en.wikipedia.org/?curid=1558495)
+  - Founded 1850 as Atlanta Cemetery on six acres
+  - Now 48 acres with approximately 70,000 burials
+  - Survived Sherman's 1864 burning of Atlanta
+  - Gates erected 1896 with date on keystone
+  - 6,900 Confederate soldiers including about 3,000 unknown
+  - 16 Union soldiers buried in Confederate section
+  - Obelisk dedicated April 26, 1874
+  - National Register of Historic Places 1976
+  - Potter's Field estimated 17,000 burials per 1978 GSU survey
+- [Historic Oakland Foundation - Famous Residents](https://www.oaklandcemetery.com/famous-residents)
+  - Margaret Mitchell Marsh buried at Oakland Cemetery
+  - Bobby Jones buried at Oakland with golf balls left by visitors
+  - Maynard Jackson buried on city-donated plot
+  - Kenny Rogers buried at Oakland Cemetery
+- [NWS - 2008 Atlanta tornado outbreak](https://www.weather.gov/ffc/pns31408)
+  - EF2 tornado struck downtown Atlanta March 14, 2008
+  - First tornado to strike Atlanta city center since weather records began in 1880s
+  - 50-60 trees toppled at Oakland Cemetery
+  - Window blind found draped around grave marker
+- [AJC - Lion of the Confederacy removal from Oakland Cemetery](https://www.ajc.com/news/atlanta-news/atlanta-to-remove-lion-of-the-confederacy-statue-from-oakland-cemetery/SXR6Q3UP2REKXP2VMXJZHBCJ5Q/)
+  - Lion of the Confederacy carved 1894 modeled on Swiss Lion of Lucerne
+  - Removed by city August 2021 following repeated vandalism
+- [New Georgia Encyclopedia - Carrie Steele Logan](https://www.georgiaencyclopedia.org/articles/history-archaeology/carrie-steele-logan-1829-1900/)
+  - Carrie Steele Logan founded first Black orphanage in Georgia (1888)
+  - Buried at Oakland Cemetery
+
+## Review Notes
+
+**Reviewed:** 2026-02-17 · 17 facts verified · 0 corrections
+
+All key facts verified: founded 1850 on 6 acres, now 48 acres 70000 burials, survived Sherman, gates 1896, Jasper Newton Smith necktie story confirmed, Marthasville 1843-1845, Bobby Jones golf balls, 6900 Confederate soldiers, 16 Union soldiers, Lion removed Aug 2021, Potter Field 17000 per 1978 GSU survey, Carrie Steele Logan orphanage, 2008 tornado March 14, Maynard Jackson burial, Kenny Rogers confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 870*
+*Read time: 4 minutes*

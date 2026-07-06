@@ -1,0 +1,53 @@
+# Albrook Air Force Station
+
+A U.S. Air Force base beside the Panama Canal that spent sixty-five years defending the waterway, then became a civilian airport and shopping mall.
+
+**Location:** 8.9759, -79.5555
+
+**Categories:** military, aviation, panama-canal-zone, historical-sites
+
+## Introduction
+
+The officers' quarters are private homes now. The hangars hold shops, a mall, and the Panamanian Red Cross. Building 805 houses the Civil Aviation Authority. What was once Albrook Air Force Station -- the primary American air base guarding the Panama Canal for sixty-five years -- is today Albrook "Marcos A. Gelabert" International Airport, Panama's domestic air terminal. The transformation happened almost overnight. On September 30, 1997, the United States Air Force lowered its flag for the last time, fulfilling the terms of the Torrijos-Carter Treaties. By January 1999, the first civilian flights were operating from the same runways where pursuit squadrons had once scrambled to defend the Western Hemisphere's most strategically important waterway.
+
+## Guardian of the Canal
+
+Albrook opened in 1932 on the east side of the Panama Canal, wedged between Fort Clayton to the north and the township of Balboa to the south. Its mission was straightforward: protect the canal from air attack. The 16th Pursuit Group, with squadrons like the 24th and 29th Pursuit, flew from Albrook's runways through the 1930s, when the canal's vulnerability to bombing was a real strategic concern. The base's command structure shifted repeatedly -- from the Panama Canal Department to the Panama Canal Air Force, then the Caribbean Air Force, and eventually the Sixth Air Force during World War II. Bombardment groups and troop carrier squadrons rotated through as the war demanded. The XXVI Fighter Command operated from Albrook from March 1942 to August 1946, overseeing the air defense of the entire Canal Zone throughout the conflict.
+
+## Cold War Outpost
+
+After 1945, Albrook's role evolved from canal defense to broader hemispheric operations. The Caribbean Air Command took over in 1946, followed by the United States Air Forces Southern Command in 1963. The base became a hub for American military operations across Latin America during the Cold War, a period when the Canal Zone was both a strategic asset and a political flashpoint. The 830th Air Division was stationed at Albrook during two separate periods -- 1976 to 1977 and again from 1989 to 1991. Air Forces Panama operated from the base during the tense months surrounding Operation Just Cause in December 1989, when the United States invaded Panama to depose Manuel Noriega. By the early 1990s, however, the political winds had shifted decisively. The Torrijos-Carter Treaties, signed in 1977, set a firm deadline: all American military facilities in the Canal Zone would be turned over to Panama by the end of the century.
+
+## Second Life
+
+The handover in September 1997 could have been a story of abandonment. Instead, Panama refurbished the base with remarkable speed. A new operations and control tower went up. A passenger terminal was constructed near Building 446, the hangar that had previously housed the Air Force post office. When domestic and commercial air service relocated from Punta Paitilla Airport across Panama City to Albrook in January 1999, the transition was seamless. The International Maritime University of Panama moved into old base buildings. Government agencies set up offices in former hangars. The mall that now draws Panamanian shoppers occupies space where mechanics once serviced military aircraft. Most striking of all, the officers' quarters -- the houses where American military families lived for decades -- are now private Panamanian homes, their lawns shaded by the same tropical trees that lined them when the base was active.
+
+## What the Runways Remember
+
+From the air, Albrook still looks like a military installation. The runway layout, the taxiway geometry, the spacing of the old hangars -- all betray the base's origins, even as civilian aircraft taxi where fighter planes once did. The Civil Aeronautics Authority of Panama now governs the field, and the flights that depart carry passengers to Bocas del Toro and the San Blas Islands rather than patrol bombers over the Caribbean. But the base's sixty-five years as an American military installation left marks that no renovation can erase. The concrete, the sight lines, the relationship of the runway to the canal -- all of it was designed with one purpose: to keep the waterway open. That the same infrastructure now serves Panamanian commerce is perhaps the most fitting legacy a Cold War air base could hope for.
+
+## Flight Context
+
+Located at 8.976N, 79.556W on the east side of the Panama Canal, just south of the former Fort Clayton. Now operating as Albrook 'Marcos A. Gelabert' International Airport (ICAO: MPMG). The single runway is clearly visible from altitude, with the canal immediately to the west. Best viewed from 2,000-3,000 feet AGL. The Bridge of the Americas crosses the canal nearby. Tocumen International Airport (MPTO) is approximately 15 nm east.
+
+## Sources
+
+- [Albrook Air Force Station - Wikipedia](https://en.wikipedia.org/?curid=7285058)
+  - opened 1932 (commissioned April 1932)
+  - closed September 30 1997 under Torrijos-Carter Treaties
+  - civilian flights began January 1999
+  - 16th Pursuit Group with 24th and 29th Pursuit Squadrons confirmed
+  - XXVI Fighter Command March 1942 to August 1946
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 7 facts verified · 0 corrections
+
+Verified 1932 opening, September 30 1997 closure, civilian flights January 1999, 16th Pursuit Group, XXVI Fighter Command dates. All facts correct. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 740*
+*Read time: 4 minutes*

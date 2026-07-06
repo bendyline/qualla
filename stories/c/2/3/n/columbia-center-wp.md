@@ -1,0 +1,62 @@
+# Columbia Center
+
+Seattle's tallest skyscraper, a 76-story tower born from a legal loophole that redefined the city's skyline and sparked a building-height revolution.
+
+**Location:** 47.6045, -122.3307
+
+**Categories:** architecture, skyscraper, seattle, landmark
+
+## Introduction
+
+A developer walks a steep stretch of Cherry Street in downtown Seattle, one of the steepest in the Central Business District at 17.1% grade, and sees not a limitation but an opportunity. Because three separate stories of his proposed tower can touch the street on this sloped site, Martin Selig realizes he can claim a retail-space bonus for each one -- an unintended loophole in Seattle's land-use code. The result: a 76-story skyscraper in a city that intended to cap buildings at 50 stories. Columbia Center, completed in 1985, rises 933 feet above downtown Seattle, making it the tallest building in Washington state and, at the time, the tallest on the entire West Coast.
+
+## The Loophole Tower
+
+Martin Selig announced his ambitions in October 1980: a 75-story office building at 4th Avenue and Columbia Street, funded by the Seafirst Mortgage Company and built by Howard S. Wright. The $120 million project grew -- Selig borrowed $205 million by 1981 to develop the property. The original design called for an even taller tower, but the Federal Aviation Administration intervened, worried about proximity to Sea-Tac Airport just miles to the south. Selig negotiated, shrinking the tower slightly while exploiting the retail-bonus loophole that let him build far taller than Seattle's zoning intended. Construction began in 1982 with one of the largest foundation excavations in Seattle history, concrete footings driven deep below street level. Steel went up at the remarkable pace of two floors per week. When the building opened on March 2, 1985, it stood approximately 50% taller than the previous city record-holder, the Seattle First National Bank Building.
+
+## Three Towers in One
+
+Architect Chester L. Lindsey gave Columbia Center a distinctive silhouette that no other Seattle building shares. The structure is composed of three geometric concave facades with two setbacks, creating the illusion of three slender towers standing side by side rather than one massive block. The base is clad in Rosa Purino Carnelian granite, a warm reddish stone that catches the low Pacific Northwest light. From the observation deck on the upper floors -- renovated in 2013 from a 270-degree to a full 360-degree panorama, and again in 2018 with express elevators and a new lounge -- the view reaches across Puget Sound to the Olympic Mountains, south to Mount Rainier, and north to the Cascades. The Space Needle, Seattle's most famous silhouette, appears surprisingly small from up here, a reminder of how completely Columbia Center redefined the city's vertical ambitions.
+
+## A Price Tag That Kept Climbing
+
+Columbia Center's ownership history reads like a barometer of American real estate cycles. Selig held the building until 1989, when financial troubles forced a sale to Seafirst Corporation for $354 million. The controversy over its size helped push through the 1989 Citizens' Alternative Plan, enforcing stricter limits on downtown building heights -- closing the very loophole that made Columbia Center possible. EQ Office acquired the tower in 1998 for $404 million. In 2007, Boston-based Beacon Capital Partners paid $621 million, only to default on the loan in 2010 during the Great Recession, when vacancies hit 40%. By 2015, Hong Kong-based Gaw Capital Partners purchased it for $711 million. From a $120 million concept to a $711 million acquisition, Columbia Center's financial trajectory mirrors the rise of Seattle itself from regional hub to global city.
+
+## The Shadow It Cast
+
+The building's significance extends beyond real estate. In 2004, the 9/11 Commission revealed that the original plan for the September 11 attacks called for the hijacking of ten planes, with targets including the tallest buildings in California and Washington state -- the U.S. Bank Tower in Los Angeles and Columbia Center, respectively. The tower that Selig built through a zoning loophole had become prominent enough to land on a list no building ever wants to be on. Yet every year, Columbia Center transforms that gravity into something redemptive. The LLS Firefighter Stairclimb brings approximately 2,000 firefighters from around the world to race up 69 floors in full structural turnout gear while on air, raising money for the Leukemia and Lymphoma Society. Its sister event, the Big Climb, draws about 6,000 participants and has raised more than $3 million. In a city that prizes its connection between ambition and community, the tower's stairwell has become as meaningful as its skyline profile.
+
+## Flight Context
+
+Located at 47.6045°N, 122.3307°W in downtown Seattle. At 933 feet, Columbia Center is the tallest structure visible in the Seattle skyline -- look for the distinctive three-faceted dark tower southeast of the Space Needle. The building's proximity to Sea-Tac Airport (KSEA, approximately 10nm south) was a factor in its design, with the FAA originally restricting its height. Boeing Field (KBFI) lies closer, about 3nm south. Two broadcast antennas on top were approved in 1990. Best viewed on approach from the south or west, where the concave facade design is most distinctive against the Cascade Range backdrop.
+
+## Sources
+
+- [Columbia Center - Wikipedia](https://en.wikipedia.org/?curid=366576)
+- [Columbia Center - HistoryLink.org](https://www.historylink.org/File/2627)
+  - Opened March 2, 1985 (corrected from January 12 in original story)
+  - 933 feet tall
+  - 76 stories
+  - Tallest in Pacific Northwest at completion
+- [LLS Firefighter Stairclimb](https://pages.lls.org/events/wa/firefighterstairclimb26)
+  - 69 flights of stairs
+  - Approximately 2,000 firefighters participate
+  - Benefits Leukemia and Lymphoma Society
+- [Sky View Observatory - Columbia Center Seattle](https://skyviewobservatory.com/about/)
+  - Observation deck renovated in 2013 to full 360-degree panorama
+  - 2018 renovation added express elevators and new lounge
+- [Seattle high-rise once 9/11 target - Spokesman-Review](https://www.spokesman.com/stories/2004/jun/17/seattle-high-rise-once-9-11-target/)
+  - 9/11 Commission 2004 report confirmed Columbia Center was a target in original 10-plane plan
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 10 facts verified · 1 correction
+
+CORRECTION: Story said building 'opened on January 12, 1985' - HistoryLink confirms opening was March 2, 1985 (January 12 was completion/certificate date). Corrected. Other facts confirmed: 933 feet, 76 stories, loophole story, Seafirst sale 1989, 54M, 21M 2007 sale, Gaw Capital 11M 2015, 9/11 Commission target 2004, observation deck 2013/2018 renovations. Spiciness 2/5.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

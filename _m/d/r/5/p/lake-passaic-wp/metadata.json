@@ -147,5 +147,26 @@
     "_m/c/4/h/w/spatsizi-plateau-wilderness-wk/hero.png",
     "_m/u/6/w/z/archipelago-sea-wp/sea-storm-pacifica-w-c.jpg",
     "_m/9/r/r/d/great-salt-lake-wk/walden-pond-massachuse.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr5p-lake-passaic-flight-context.mp3",
+      "dr5p-lake-passaic-intro.mp3",
+      "dr5p-lake-passaic-when-the-ice-plugged-the-gap.mp3",
+      "dr5p-lake-passaic-five-thousand-years-of-shifting-shorelines.mp3",
+      "dr5p-lake-passaic-the-detectives-who-found-a-missing-lake.mp3",
+      "dr5p-lake-passaic-the-great-swamp-and-its-citizen-army.mp3",
+      "dr5p-lake-passaic-the-lake-that-keeps-coming-back.mp3"
+    ],
+    "durations": {
+      "dr5p-lake-passaic-flight-context.mp3": 46.24175,
+      "dr5p-lake-passaic-intro.mp3": 41.0054583,
+      "dr5p-lake-passaic-when-the-ice-plugged-the-gap.mp3": 49.3600416,
+      "dr5p-lake-passaic-five-thousand-years-of-shifting-shorelines.mp3": 55.8563333,
+      "dr5p-lake-passaic-the-detectives-who-found-a-missing-lake.mp3": 51.5765416,
+      "dr5p-lake-passaic-the-great-swamp-and-its-citizen-army.mp3": 55.073375,
+      "dr5p-lake-passaic-the-lake-that-keeps-coming-back.mp3": 49.2066666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

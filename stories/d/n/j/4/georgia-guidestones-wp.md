@@ -1,0 +1,65 @@
+# Georgia Guidestones
+
+A mysterious granite monument commissioned under a pseudonym stood in rural Georgia for 42 years, inscribed with ten guidelines for humanity in eight languages, before a bombing destroyed it in 2022.
+
+**Location:** 34.2321, -82.8944
+
+**Categories:** history, mysteries, monuments, georgia, landmarks
+
+## Introduction
+
+Nobody in Elberton, Georgia, knew what to make of the well-dressed stranger who walked into the Elberton Granite Finishing Company in June 1979. He introduced himself as Robert C. Christian, a name he admitted was a pseudonym, and said he represented a small group of loyal Americans who wanted to erect a monument to guide humanity through a future catastrophe. Joe Fendley, the company's president, assumed the man was unhinged and quoted an absurdly high price, hoping he would leave. He did not leave. Within months, six granite slabs weighing a combined 237,746 pounds were rising from a hilltop in Elbert County, and the mystery of who built them and why would outlast the monument itself.
+
+## Instructions for the Apocalypse
+
+The monument was unveiled on March 22, 1980, before an audience of 200 to 300 people, with Congressman Doug Barnard presiding. It stood 19 feet 3 inches tall: four upright slabs arranged in a star pattern around a central pillar, capped by a horizontal stone. Ten guidelines for humanity were sandblasted into the four outer slabs in eight modern languages -- English, Spanish, Swahili, Hindi, Hebrew, Arabic, Chinese, and Russian. The messages addressed population control, international governance, environmental stewardship, and the role of reason and faith. The first and most controversial guideline called for maintaining humanity under 500 million people in perpetual balance with nature. Along the capstone, translations appeared in four ancient scripts: Babylonian cuneiform, Classical Greek, Sanskrit, and Egyptian hieroglyphs. The creators believed an imminent catastrophe, whether nuclear, social, or economic, would devastate civilization, and they wanted their monument to serve as a guide for whatever society emerged from the wreckage.
+
+## A Monument That Told Time
+
+The Guidestones were not merely a message board. They were an astronomical instrument. A hole drilled through the center pillar aligned with the North Star, Polaris, visible through the stone at any time of night. A slot carved into the same pillar framed the sunrise on the summer and winter solstices and the spring and fall equinoxes. A 22-millimeter aperture in the capstone allowed a shaft of sunlight to pass through at noon each day, striking the center pillar at a point that indicated the day of the year. The design married the monument's philosophical ambitions with practical astronomy, as if its anonymous creators wanted survivors of a future catastrophe to be able to track the seasons and navigate by the stars using nothing but the stones themselves.
+
+## The Granite Capital's Strangest Commission
+
+Elberton calls itself the Granite Capital of the World, and for good reason: the region's quarries have produced headstones, monuments, and building stone for over a century. But nothing in the town's long history of stonework prepared it for Robert C. Christian's order. Banker Wyatt Martin served as the sole intermediary between Christian and the community, holding the true identity of the patron in confidence. Martin reportedly transferred funds and relayed instructions but never disclosed who Christian really was. The land was purchased, the slabs quarried and precision-cut, and the astronomical alignments calculated with help from the University of Georgia. Joe Fendley, who had initially tried to scare Christian off with his price quote, came to believe the monument would become a regional tourist attraction. He was right. For 42 years, the Guidestones drew curiosity-seekers, conspiracy theorists, spiritual pilgrims, and road-trippers to a remote hilltop in northeast Georgia.
+
+## Vandals, Conspiracies, and a Bomb
+
+The monument attracted controversy from the start. Some evangelical Christians condemned the stones as satanic, pointing to the population guideline and the use of ancient scripts. Conspiracy theorists connected the pseudonym R.C. Christian to Christian Rosenkreuz, the legendary founder of the Rosicrucian Order, and alleged ties to a New World Order agenda. In 2008, vandals defaced the stones with spray paint and graffiti reading "Death to the New World Order," prompting the installation of security cameras. Then, in the early morning hours of July 6, 2022, a bomb destroyed one of the four upright slabs. Surveillance footage captured a vehicle fleeing the scene moments before the blast. Authorities demolished the remaining stones later that day for safety reasons. The Georgia Bureau of Investigation opened a case, but no suspects were publicly identified, and no motive was confirmed. Prosecutors noted that since the county maintained the monument, its destruction qualified as damage to a public building, carrying a minimum sentence of 20 years.
+
+## An Empty Hilltop
+
+In the weeks following the bombing, Elberton Mayor Daniel Graves initially pledged to rebuild the monument exactly as it was. That resolve did not last. On August 8, 2022, the city council voted to return the five-acre site to its previous owner, a local farmer, and to donate the remains of the stones to the Elberton Granite Association. Both the association and the city expressed doubt that reconstruction would happen, though they held out hope for the future. The hilltop where six slabs once tracked the stars and addressed the species in eight languages is now an open field in rural Elbert County. The mystery of who Robert C. Christian really was remains unsolved. The guidelines he inscribed endure only in photographs, archives, and the memories of the thousands who made the drive to stand before a monument that no longer stands.
+
+## Flight Context
+
+Located at 34.23°N, 82.89°W on a hilltop in rural Elbert County, Georgia, approximately 7 miles north of Elberton. The site is now an empty field following the monument's destruction in 2022. Nearby airports include Elbert County-Patz Field (K27A) approximately 7 miles south. Anderson Regional Airport (KAND) in South Carolina is approximately 25 miles northeast. Recommended viewing altitude: 3,000-4,000 feet MSL. The hilltop location in gently rolling Piedmont farmland made the monument visible from a distance; the cleared site may still be distinguishable from surrounding agricultural land.
+
+## Sources
+
+- [Georgia Guidestones - Wikipedia](https://en.wikipedia.org/?curid=1097646)
+  - 237,746 pounds weight confirmed
+  - 19 feet 3 inches height confirmed
+  - unveiled March 22 1980 confirmed
+  - eight languages confirmed (English Spanish Swahili Hindi Hebrew Arabic Chinese Russian)
+  - four ancient scripts on capstone confirmed
+  - first guideline re 500 million population confirmed
+- [GBI Investigates Explosion in Elbert County](https://gbi.georgia.gov/press-releases/2022-07-07/gbi-investigates-explosion-elbert-county)
+  - July 6 2022 bombing confirmed
+  - surveillance footage of vehicle fleeing confirmed
+  - no suspects publicly identified confirmed
+- [Georgia Guidestones monument demolished after bombing - NPR](https://www.npr.org/2022/07/07/1110338563/georgia-guidestones-monument-has-been-demolished-after-being-bombed)
+  - remaining stones demolished same day for safety confirmed
+  - 200-300 people at unveiling referenced in sources
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 10 facts verified · 0 corrections
+
+All key facts verified: 237746 lbs weight, 19ft3in height, unveiled March 22 1980, 8 languages, July 6 2022 bombing, demolition same day confirmed. No suspects identified. August 2022 city council vote to return site to farmer confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

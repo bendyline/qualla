@@ -1,0 +1,73 @@
+# Launch Complex 14: From Glenn's Orbit to the Next Frontier
+
+The Cape Canaveral launch pad where John Glenn became the first American to orbit Earth in February 1962, later abandoned to salt air and rust, then partially restored as a memorial -- and now being rebuilt for a new generation of reusable rockets.
+
+**Location:** 28.4911, -80.5469
+
+**Categories:** space, nasa, florida, project-mercury, historic-site, launch-complex
+
+## Introduction
+
+On February 20, 1962, John Glenn squeezed into his Friendship 7 capsule atop an Atlas rocket at Launch Complex 14 and rode a column of flame into orbit. He circled Earth three times in just under five hours, and when he splashed down in the Atlantic, the United States had finally matched the Soviet Union's orbital achievement. The pad that launched him -- a concrete apron on the Florida coast with a blockhouse, a gantry, and an ocean view -- became one of the most significant launch sites in American history. It also launched the remaining three crewed Mercury flights and the Agena target vehicles for Project Gemini. Then it fell silent. The red metal gantries rusted. Salt air ate at the steel. The pad that put America in orbit sat empty for decades. Now, in a twist that Glenn himself might have appreciated, Launch Complex 14 is being rebuilt -- this time for a fully reusable rocket that did not exist when the pad was abandoned.
+
+## The First Atlas Pad
+
+LC-14 was the first operational Atlas launch pad at Cape Canaveral, hosting initial Atlas A and Atlas B test flights in 1957 and 1958. These were not space launches but ballistic missile tests during the early years of the Cold War arms race. The pad saw its share of failures -- Missile 7D exploded shortly after launch in 1959 when improperly renovated hold-down arms damaged the rocket. The first space launch from LC-14 was the Big Joe test flight in September 1959, an uncrewed Mercury capsule test. As the designated Mercury-Atlas facility, LC-14 became the only Atlas pad equipped for crewed launches. It hosted early MIDAS missile defense satellite launches and Atlas-Able missions before NASA took full control. By the time Glenn strapped in for Friendship 7, the pad had already survived years of explosions, rebuilds, and the intense pressure of making intercontinental ballistic missiles reliable enough to carry a human being.
+
+## Four Rides to Orbit
+
+LC-14's claim to history rests on four crewed Mercury-Atlas flights. Glenn's Friendship 7 mission in February 1962 was the most celebrated, but three more followed: Scott Carpenter's Aurora 7 in May 1962, Wally Schirra's Sigma 7 in October 1962, and Gordon Cooper's Faith 7 in May 1963, which completed 22 orbits over 34 hours. Each mission pushed the envelope of what America's single-seat capsule could accomplish. After Mercury concluded, the pad transitioned to supporting Atlas-Agena launches for Project Gemini, sending unmanned Agena target vehicles into orbit where two-person Gemini crews practiced the rendezvous and docking techniques that Apollo would need to reach the Moon. When those missions ended, so did LC-14's active service.
+
+## Rust, Salt, and Memory
+
+Abandonment came quickly. The proximity to the Atlantic Ocean meant salt-laden air corroded every exposed metal surface. The distinctive red gantry structures that had cradled Atlas rockets were dismantled for safety reasons during the 1970s, leaving the concrete pad and blockhouse to weather alone. In 1997, the 45th Space Wing began a volunteer-driven restoration. Boeing, Johnson Controls, Lockheed Martin, and Brown and Root contributed labor, but no military construction funds were used -- every hour of work was donated. The blockhouse interior was fully renovated and converted into a conference facility. At the dedication in May 1998, Mercury astronauts Gordon Cooper and Scott Carpenter stood before the restored building. John Glenn sent his regrets; he was preparing for his return to space aboard Space Shuttle Discovery on STS-95 at age 77. Alan Shepard, suffering from terminal leukemia he had not publicly disclosed, also could not attend. He died shortly after.
+
+## A Time Capsule for the Ages
+
+The entrance road to LC-14 is lined with memorials to Project Mercury and the four crewed missions that launched from the pad. The most striking is a large sculpture of the Mercury program symbol constructed of titanium. Buried beneath it is a time capsule containing technical documents from the Mercury program, sealed with instructions not to open it until the year 2464 -- five hundred years after the program's official conclusion. A granite memorial marker sits at the base of the concrete ramp leading to the launch pad. Two outdoor kiosks display historical photographs of the pad in its operational days. Inside the blockhouse, documents, photographs, and memorabilia tell the story of Project Mercury from the engineers' perspective. It is a quiet place, tucked behind security fences on an active military installation, where the early space program is preserved in concrete, titanium, and silence.
+
+## Nova Rising
+
+In March 2023, the U.S. Space Force allocated LC-14 to Stoke Space, a company building a fully reusable launch vehicle called Nova. Space Launch Delta 45 made the decision to put excess launch property back to work along Florida's Eastern Range. Construction on the pad began in October 2024 following an environmental assessment. Stoke Space CEO Andy Lapsa has stated the pad should be operational by late 2026, with the first Nova launch targeted for that year. The irony is rich: a pad built for expendable Atlas missiles, famous for single-use Mercury capsules, is being rebuilt for a rocket designed to land and fly again. Glenn's Friendship 7 capsule splashed into the ocean and was fished out by a destroyer. The rockets that will someday rise from LC-14 are designed to come back and land on their own. The pad's story, it turns out, was not finished.
+
+## Flight Context
+
+Launch Complex 14 is located at 28.491°N, 80.547°W on Cape Canaveral Space Force Station, part of the Missile Row lineup of historic launch pads along the Florida coast. From the air, the pad is identifiable by its concrete apron and the restored blockhouse structure. The Mercury memorial and titanium sculpture are visible at ground level. LC-14 sits among a row of decommissioned and active pads along the coastline, including LC-13 (now used by SpaceX), LC-19 (Gemini launches), and LC-34 (Apollo 1 memorial). Nearby airports: KTIX (Space Coast Regional, Titusville), KMLB (Melbourne Orlando International), KCOF (Patrick Space Force Base). Best viewed at 2,000-4,000 feet AGL along the coast. The blockhouse and pad are clearly distinguishable from adjacent launch complexes.
+
+## Sources
+
+- [Cape Canaveral Launch Complex 14 - Wikipedia](https://en.wikipedia.org/?curid=5692356)
+- [Mercury-Atlas 6 (Friendship 7) - NASA](https://www.nasa.gov/mission/mercury-atlas-6-friendship-7/)
+  - John Glenn orbited Earth February 20, 1962 from LC-14
+  - Friendship 7 completed 3 orbits in 4 hours 55 minutes (article says 'just under five hours' -- accurate)
+  - Glenn was first American to orbit Earth
+- [Mercury-Atlas 9 (Faith 7) - NASA](https://www.nasa.gov/mission/mercury-atlas-9-faith-7/)
+  - Gordon Cooper's Faith 7 completed 22 orbits in 34 hours 19 minutes (article says '34 hours' -- accurate)
+  - Faith 7 launched May 15, 1963 from LC-14
+  - Four crewed Mercury-Atlas flights from LC-14 confirmed
+- [Stoke Space Allocated Launch Complex 14 - Stoke Space](https://www.stokespace.com/stoke-space-has-been-allocated-historic-launch-complex-14-at-cape-canaveral/)
+  - Stoke Space allocated LC-14 in March 2023 by Space Launch Delta 45
+  - Nova is a fully reusable launch vehicle
+  - Environmental assessment completed October 2024, construction began shortly after
+  - Pad activation scheduled for early 2026
+- [Alan Shepard - Wikipedia](https://en.wikipedia.org/wiki/Alan_Shepard)
+  - Alan Shepard diagnosed with chronic lymphocytic leukemia in 1996
+  - Shepard died July 21, 1998 -- approximately 2 months after May 1998 dedication
+  - Leukemia was not publicly disclosed at time of dedication
+- [Project Mercury Monument and Time Capsule - Space.com](https://www.space.com/project-mercury-monument-time-capsule-60-years)
+  - Time capsule to be opened in 2464 (500 years after Mercury program conclusion)
+  - Titanium sculpture of Mercury symbol with '7' at center
+  - Mercury Monument dedicated November 10, 1964 (separate from 1998 blockhouse restoration)
+
+## Review Notes
+
+**Reviewed:** 2026-02-12 · 15 facts verified · 0 corrections
+
+All key facts verified: Glenn orbit date/duration, Cooper orbits, Stoke Space allocation March 2023, Shepard leukemia/death, time capsule 2464, Big Joe September 1959, blockhouse restoration 1998. Spiciness 2/5. No factual corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 870*
+*Read time: 5 minutes*

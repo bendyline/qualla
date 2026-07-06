@@ -1,0 +1,76 @@
+# Seppuku: The Blade, the Bow, and the Code
+
+The ritualized practice of self-disembowelment that defined samurai honor for nearly a thousand years -- from desperate battlefield acts in the Heian period to the elaborately choreographed ceremonies of the Edo era and Yukio Mishima's shocking public death in 1970.
+
+**Location:** 34.9975, 135.7515
+
+**Categories:** culture, history, military, japan, kyoto
+
+## Introduction
+
+In 1868, seven foreign diplomats sat inside the temple of Seifukuji in the port city of Hyogo and watched a man named Taki Zenzaburo open his kimono, take up a short blade, and draw it deliberately across his own abdomen from left to right. He did not flinch. He did not cry out. When his kaishakunin's sword fell, severing the head in a single stroke, the silence that followed was broken only by the sound of blood. It was the first time any foreigner had witnessed seppuku -- the Japanese ritual of self-disembowelment that had governed questions of samurai honor, protest, punishment, and death for nearly a thousand years. The practice is inseparable from Kyoto, the imperial city where the warrior code of bushido was refined, where the earliest rituals were codified, and where the temples that witnessed so many of these acts still stand.
+
+## A Thousand Years of the Blade
+
+The roots of seppuku reach back to the Heian period (794-1185), when defeated samurai chose the blade over the humiliation of capture and torture. One of the earliest recorded cases was that of Minamoto no Tametomo, a warrior exiled to Oshima after his defeat in the Hogen rebellion. In those early centuries, there was no kaishakunin -- no second standing by with a sword to deliver a merciful finishing stroke. The samurai plunged the blade in alone, sometimes a tachi longsword, sometimes a wakizashi shortsword, sometimes a tanto knife, slicing horizontally across the abdomen. If the cut was deep enough, it severed the abdominal aorta. If not, the warrior stabbed himself in the throat or fell forward onto the blade positioned against his heart. The pain was extraordinary and the death was slow.
+
+## The Ceremony Takes Shape
+
+By the Edo period (1600-1867), seppuku had evolved from a desperate battlefield act into one of the most elaborate rituals in Japanese culture. A samurai sentenced to die -- or choosing death voluntarily -- was bathed in cold water to slow bleeding, dressed in a white kimono, and served his favorite meal for the last time. He wrote a death poem. He drank a ceremonial cup of sake. A tanto was placed on a wooden sanbo tray before him. With his chosen kaishakunin standing ready, the samurai opened his kimono, gripped the blade through a cloth wrapping to prevent his hand from slipping, and made the left-to-right cut. The kaishakunin then struck -- not a full decapitation, but a precise cut called dakikubi, leaving a thin band of flesh so the head dangled forward as if embraced. The maneuver required extraordinary swordsmanship. Over time, the ritual became so formalized that the mere act of reaching for the blade triggered the kaishakunin's stroke. Eventually, even the blade became unnecessary -- an elderly or dangerous samurai might reach for a fan, and that gesture alone was enough.
+
+## Protest, Punishment, and the Price of Honor
+
+Seppuku served multiple purposes in feudal Japan. Voluntary seppuku was considered the most honorable death available to a samurai. As capital punishment, it was the lightest sentence for a warrior who had committed a serious offense -- far preferable to public decapitation and display of the head, or the torturous executions reserved for commoners. A specialized form called kanshi allowed a retainer to protest a lord's decision: the samurai would make one deep horizontal cut, bandage the wound, appear before his lord to deliver a speech of dissent, and then reveal the mortal wound. Some chose the even more agonizing jumonji giri -- a cross-shaped cut with no kaishakunin, the samurai expected to bear the suffering in silence with hands covering his face until death came. The Sakai Incident of 1868 showed the practice's visceral power: when French Captain Abel-Nicolas Bergasse du Petit-Thouars watched the sequential ritual disembowelment of samurai sentenced for killing eleven French sailors, the violence so shocked him that he begged for a pardon, saving nine of the condemned men.
+
+## Echoes Into the Modern Age
+
+The Meiji Restoration of 1868 began dismantling the feudal structures that had sustained seppuku, but the practice did not vanish. Many high-ranking officers of Imperial Japan performed seppuku in the final months of World War II in 1944 and 1945 as defeat became certain. The most dramatic modern instance came on November 25, 1970, when the ultranationalist novelist Yukio Mishima -- one of Japan's greatest literary figures -- stormed the Japan Self-Defense Forces headquarters in Tokyo with followers, attempted to incite a coup, and then performed seppuku in the office of General Kanetoshi Mashita. His kaishakunin, a 25-year-old named Masakatsu Morita, failed three times to complete the beheading; a former kendo champion named Hiroyasu Koga finally delivered the stroke. The practice left deep marks on global culture as well, from Puccini's 1904 opera Madame Butterfly to James Clavell's 1975 novel Shogun, whose 1980 television adaptation brought seppuku to mainstream Western awareness.
+
+## The Words We Use
+
+Even the terminology carries layers of meaning. English speakers often say harakiri -- frequently mispronounced as 'hari-kari' -- but in Japanese, the two terms are not interchangeable. Both are written with the same kanji characters, but in reverse order. Seppuku, the Chinese-derived on'yomi reading, was the formal written term used in official documents and spoken among the samurai class. Harakiri, the native Japanese kun'yomi reading, was the spoken term used by commoners. The distinction matters: harakiri refers specifically to the physical act of cutting the belly, while seppuku encompasses the entire ritual -- the bathing, the poem, the last meal, the kaishakunin, the carefully calibrated cut. In Kyoto's temples and historic sites, that distinction between a desperate act and a ceremony of meaning still resonates across centuries of Japanese history.
+
+## Flight Context
+
+Coordinates: 35.00N, 135.75E, placing this story in Kyoto, Japan -- the imperial capital where samurai culture and the bushido code were refined over centuries. From the air, Kyoto's grid pattern of streets and dense temple clusters are visible. The article references Seifukuji temple in Hyogo (Kobe area, roughly 30nm southwest). Nearby airports include Osaka Itami (RJOO) approximately 20nm south and Kansai International (RJBB) approximately 45nm south-southwest. Best viewed at 3,000-5,000 feet AGL to appreciate the concentration of historic temple compounds in Kyoto's eastern hills.
+
+## Sources
+
+- [Seppuku - Wikipedia](https://en.wikipedia.org/?curid=26538695)
+- [Seppuku - Wikipedia](https://en.wikipedia.org/wiki/Seppuku)
+  - Taki Zenzaburo performed seppuku at Seifukuji temple in Hyogo in 1868, witnessed by seven foreigners - confirmed
+  - First time any foreigner witnessed seppuku - confirmed
+  - Minamoto no Tametomo among earliest recorded cases after Hogen rebellion exile to Oshima - confirmed
+  - Sakai Incident 1868: French Captain Abel-Nicolas Bergasse du Petit-Thouars witnessed seppuku, 11 samurai performed it, he begged pardon saving nine - confirmed
+  - Yukio Mishima performed seppuku November 25, 1970 at JSDF headquarters - confirmed
+  - Mishima's kaishakunin Masakatsu Morita failed three times; Hiroyasu Koga (former kendo champion) completed beheading - confirmed
+  - Puccini's opera Madame Butterfly premiered 1904 - confirmed (February 17, 1904)
+  - James Clavell's novel Shogun published 1975, TV adaptation 1980 - confirmed
+- [Mishima Incident - Wikipedia](https://en.wikipedia.org/wiki/Mishima_Incident)
+  - Mishima stormed JSDF headquarters November 25, 1970 - confirmed
+  - Attempted to incite coup d'etat - confirmed
+  - Committed seppuku in office of General Mashita - confirmed
+  - Morita made three failed attempts; Hiroyasu Koga finally beheaded Mishima - confirmed
+- [Sakai Incident - Wikipedia](https://en.wikipedia.org/wiki/Sakai_incident)
+  - Incident involved killing of eleven French sailors - confirmed
+  - French Captain Abel-Nicolas Bergasse du Petit-Thouars present for seppuku - confirmed
+  - After 11 samurai performed seppuku, French captain was satisfied/pardoned nine remaining men - confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 11 facts verified · 0 corrections
+
+All major facts verified: Taki Zenzaburo at Seifukuji temple Hyogo 1868, seven foreign witnesses confirmed. Sakai Incident: French captain pardoned nine samurai after 11 performed seppuku. Mishima incident November 25 1970: General Mashita's office, Morita failed three beheading attempts, Koga completed it. Puccini Madame Butterfly 1904 confirmed. Clavell Shogun 1975 novel, 1980 TV adaptation confirmed. Note: article says Mishima 'stormed the Japan Self-Defense Forces headquarters' - technically it was the Ichigaya garrison (Eastern Command headquarters), a minor precision issue but not a factual error. Article has cinematic intensity befitting the subject.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Opening scene framing Taki Zenzaburo's death in present-tense cinematic detail is vivid and deliberate
+- Article positions seppuku as inseparable from Kyoto, a geographic claim that stretches the connection
+- The contrast between the Edo ceremony's beauty and the physical horror is handled with restraint but the juxtaposition is implicit editorial
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

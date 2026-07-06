@@ -91,5 +91,24 @@
   ],
   "galleryPaths": [
     "_m/t/0/2/5/mogadishu-wk/blank-physical-map-som.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "t11k-battle-of-bandiradley-flight-context.mp3",
+      "t11k-battle-of-bandiradley-intro.mp3",
+      "t11k-battle-of-bandiradley-decades-of-disputed-borders.mp3",
+      "t11k-battle-of-bandiradley-the-slow-buildup.mp3",
+      "t11k-battle-of-bandiradley-three-days-before-christmas.mp3",
+      "t11k-battle-of-bandiradley-the-vacuum-after-victory.mp3"
+    ],
+    "durations": {
+      "t11k-battle-of-bandiradley-flight-context.mp3": 44.6884166,
+      "t11k-battle-of-bandiradley-intro.mp3": 48.875125,
+      "t11k-battle-of-bandiradley-decades-of-disputed-borders.mp3": 66.77575,
+      "t11k-battle-of-bandiradley-the-slow-buildup.mp3": 67.8282916,
+      "t11k-battle-of-bandiradley-three-days-before-christmas.mp3": 66.1904583,
+      "t11k-battle-of-bandiradley-the-vacuum-after-victory.mp3": 73.2149583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

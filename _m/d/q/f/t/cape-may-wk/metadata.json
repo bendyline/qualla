@@ -142,5 +142,26 @@
     "_m/d/q/f/t/cape-may-wk/dolphins-and-the-cape-may-lewe.jpg",
     "_m/d/q/f/t/cape-may-wk/cape-may-lighthouse-in-cape-ma.jpg"
   ],
-  "updatedAt": "2026-02-19T22:06:05.002Z"
+  "updatedAt": "2026-02-19T22:06:05.002Z",
+  "narration": {
+    "files": [
+      "dqft-cape-may-flight-context.mp3",
+      "dqft-cape-may-intro.mp3",
+      "dqft-cape-may-the-first-resort.mp3",
+      "dqft-cape-may-the-painted-ladies.mp3",
+      "dqft-cape-may-an-island-by-a-canal.mp3",
+      "dqft-cape-may-two-ocean-currents.mp3",
+      "dqft-cape-may-diamonds-on-the-sand.mp3"
+    ],
+    "durations": {
+      "dqft-cape-may-flight-context.mp3": 47.7739166,
+      "dqft-cape-may-intro.mp3": 54.2144583,
+      "dqft-cape-may-the-first-resort.mp3": 49.8596666,
+      "dqft-cape-may-the-painted-ladies.mp3": 55.3262916,
+      "dqft-cape-may-an-island-by-a-canal.mp3": 44.925125,
+      "dqft-cape-may-two-ocean-currents.mp3": 50.0204583,
+      "dqft-cape-may-diamonds-on-the-sand.mp3": 52.5245
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

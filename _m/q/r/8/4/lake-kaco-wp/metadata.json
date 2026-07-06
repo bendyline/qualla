@@ -59,5 +59,24 @@
     "sourceGeohash4": "qr84"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qr84-lake-kaco-flight-context.mp3",
+      "qr84-lake-kaco-intro.mp3",
+      "qr84-lake-kaco-the-color-that-wont-be-explained.mp3",
+      "qr84-lake-kaco-a-pocket-of-pristine-water.mp3",
+      "qr84-lake-kaco-kerincis-hidden-crown.mp3",
+      "qr84-lake-kaco-reaching-the-glow.mp3"
+    ],
+    "durations": {
+      "qr84-lake-kaco-flight-context.mp3": 45.93275,
+      "qr84-lake-kaco-intro.mp3": 56.620625,
+      "qr84-lake-kaco-the-color-that-wont-be-explained.mp3": 66.7245833,
+      "qr84-lake-kaco-a-pocket-of-pristine-water.mp3": 63.4765416,
+      "qr84-lake-kaco-kerincis-hidden-crown.mp3": 63.5752083,
+      "qr84-lake-kaco-reaching-the-glow.mp3": 60.4416666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

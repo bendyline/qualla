@@ -1,0 +1,66 @@
+# Fort Montgomery (Lake Champlain)
+
+Originally built on the wrong side of the border and nicknamed 'Fort Blunder,' this massive moated fortress at the northern tip of Lake Champlain was rebuilt, armed with 125 cannons, and then abandoned -- and later put up for sale on eBay.
+
+**Location:** 45.0056, -73.3490
+
+**Categories:** military-history, historic-site, fortification, border-history
+
+## Introduction
+
+They built it in the wrong country. In 1816, the United States Army began constructing an octagonal fort at Rouses Point, New York, on the northernmost tip of Lake Champlain, designed to guard against another British invasion like the one that had produced the Battle of Plattsburgh just two years earlier. President James Monroe himself visited the rising fortification in July 1817. Then a new survey revealed an embarrassing truth: the 45th parallel -- the border with Canada -- actually lay some distance south of where the old markers indicated. The fort was in Canada. Construction halted, the site was abandoned, locals scavenged its stone for their own buildings, and the unfinished fortress earned a nickname that would stick for two centuries: Fort Blunder.
+
+## A Second Chance at the Border
+
+The story might have ended there, an amusing footnote in the annals of military surveying errors. But in 1842, the Webster-Ashburton Treaty redrew the boundary, and the disputed point at Rouses Point returned to American territory. Two years later, construction began on a second fortification on the same spot, this one properly named Fort Montgomery. Built between 1844 and 1871, the new fort was one of the rare "Third System" or "Permanent" forts constructed along the Northern Frontier rather than the Atlantic Coast. Over a roughly thirty-year construction period, no expense was spared. At peak activity, some 400 stonecutters and masons worked the site, shaping the massive stone walls that would rise to imposing height with gun emplacements for 125 cannons arranged across three tiers.
+
+## Surrounded on All Sides by Water
+
+Fort Montgomery was one of only nine forts in the United States constructed with a moat, sharing that distinction with Fort Jefferson in Florida's Dry Tortugas. The moat, combined with Lake Champlain itself, meant the fortress was essentially an island accessible only by retractable drawbridge. The drawbridge mechanism was an engineering marvel of its era: it pivoted on a central balance point like a seesaw, one end rising to block the entrance while the other dropped into a curved pit in the postern behind the doorway. Raising it left the fort's entrance suspended high above the water of the moat below, cutting off all access by land. A second drawbridge on the lake side -- a "water gate" -- connected to a dock extending into Champlain. Behind the fort, between its walls and the shoreline, engineers constructed a manmade earthen berm called the "cover face," standing higher than the fort itself to shield it from siege artillery on land.
+
+## Civil War Urgency
+
+Construction accelerated to a frenzied pace during the American Civil War, fueled by rumors that Britain might intervene against the Union from Canada. A detachment of the 14th U.S. Infantry garrisoned the fort for three months in 1862 to signal American resolve. Those fears proved less far-fetched than they might have seemed: in 1864, twenty-one Confederate soldiers launched the St. Albans Raid from Canadian territory into nearby Vermont, the northernmost military action of the Civil War. During this period, Chief Engineer of the U.S. Army Joseph Totten invented an iron-reinforced embrasure for cannon to better protect gunners inside a fort, and this innovation was retrofitted into Fort Montgomery's upper gun tier while the lower level retained its original brick embrasures.
+
+## Armed to the Teeth, Aimed at Canada
+
+Fort Montgomery was designed to hold 800 men, yet it was never fully garrisoned. Like many Third System forts, it served primarily as a deterrent -- a massive stone warning aimed squarely northward. By 1886, its peak armament year, the fort mounted 74 of its 125 cannon capacity, including Rodman cannons, most pointed toward Canada. Two additional large Rodmans sat on the parade ground for years, waiting to be hoisted atop the walls but never installed. In 1880, Commanding General of the Army William Tecumseh Sherman toured the site, was so impressed by its scale that he wanted to relocate the nearby Plattsburgh Barracks garrison to the fort. Local citizens protested, and the move never happened. As the century turned and explosive shells and rapid-firing rifled artillery rendered masonry forts obsolete, the guns were slowly removed. By 1901, only twenty remained.
+
+## The Fort Nobody Wants
+
+Fort Montgomery's later history reads like a dark comedy. The military abandoned it, and the property eventually passed into private hands. In the mid-1980s, the owner worked with local historical societies to have New York State purchase the fort for possible restoration. The state declined -- even when offered the property for free. In May 2006, the owner's heirs listed the fort on eBay. The auction closed on June 5 with a winning bid of $5,000,310, but the sale fell through. The fort remains unsold. Meanwhile, preservationists warn that the ruins face catastrophic structural collapse. Iron reinforcing rods installed around 1886 to support the massive outer wall were likely cut out for scrap during World War II metal drives, undermining the fort's structural integrity. A third bastion on the northern side already collapsed completely in 1980, tumbling into the moat. In 2008, the Preservation League of New York State named Fort Montgomery one of its "Seven to Save" properties -- a recognition of both its historical importance and its precarious future.
+
+## Flight Context
+
+Located at 45.01N, 73.35W at Island Point in Rouses Point, New York, at the very northern tip of Lake Champlain on the Canada-US border. The fort ruins and moat are visible from low altitude on the lakeshore. Lake Champlain stretches south providing a clear navigational reference. Nearby airports include Plattsburgh International (KPBG) approximately 20 km south and Montreal-Saint-Hubert (CYHU) roughly 55 km north. Best viewed at 1,500-2,500 feet AGL.
+
+## Sources
+
+- [Fort Montgomery (Lake Champlain) - Wikipedia](https://en.wikipedia.org/?curid=13252359)
+  - Construction began 1816, fort in Canadian territory due to surveying error
+  - Webster-Ashburton Treaty (1842) moved border north to resolve dispute
+  - Second fort built 1844-1871 (Third System fort on Northern Frontier)
+  - 400 stonecutters and masons at peak activity
+  - Gun emplacements for 125 cannons on three tiers
+  - Designed to hold 800 men, never fully garrisoned
+  - One of only nine US forts with a moat; Fort Jefferson in Dry Tortugas is the other named example
+  - Drawbridge pivoted on central balance point like a seesaw
+  - St. Albans Raid 1864 - 21 Confederate soldiers from Canada into Vermont
+  - eBay auction closed June 5, 2006 with winning bid of $5,000,310, sale fell through
+  - Preservation League of New York State named it a 'Seven to Save' property in 2008
+- [New England Historical Society - Fort Blunder](https://newenglandhistoricalsociety.com/fort-blunder-american-most-embarrassing-gun-battery/)
+  - Fort earned nickname 'Fort Blunder' for border error
+  - Locals scavenged stone from abandoned fort for homes and shops
+
+## Review Notes
+
+**Reviewed:** 2026-02-27 · 11 facts verified · 0 corrections
+
+All key facts verified: Fort Blunder border error, Webster-Ashburton Treaty 1842, construction 1844-1871, 125 cannon capacity, 800 men design, nine-fort moat claim, eBay bid ,000,310, Preservation League 2008. St. Albans Raid 21 Confederate soldiers confirmed. No factual errors found.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

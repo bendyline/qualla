@@ -220,5 +220,24 @@
     "_m/d/r/4/z/columbia-trail-wp/columbia-trail-bridge-washingt.jpg",
     "_m/d/r/4/z/columbia-trail-wp/columbia-trail-and-highlands-t.jpg"
   ],
-  "updatedAt": "2026-03-30T11:03:40.725Z"
+  "updatedAt": "2026-03-30T11:03:40.725Z",
+  "narration": {
+    "files": [
+      "dr4z-columbia-trail-flight-context.mp3",
+      "dr4z-columbia-trail-intro.mp3",
+      "dr4z-columbia-trail-iron-rails-to-iron-ore.mp3",
+      "dr4z-columbia-trail-death-and-rebirth-of-a-railroad.mp3",
+      "dr4z-columbia-trail-through-the-gorge.mp3",
+      "dr4z-columbia-trail-two-counties-one-corridor.mp3"
+    ],
+    "durations": {
+      "dr4z-columbia-trail-flight-context.mp3": 52.74,
+      "dr4z-columbia-trail-intro.mp3": 37.5991666,
+      "dr4z-columbia-trail-iron-rails-to-iron-ore.mp3": 52.6077083,
+      "dr4z-columbia-trail-death-and-rebirth-of-a-railroad.mp3": 51.8824166,
+      "dr4z-columbia-trail-through-the-gorge.mp3": 51.868,
+      "dr4z-columbia-trail-two-counties-one-corridor.mp3": 63.2747916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

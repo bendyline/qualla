@@ -1,0 +1,51 @@
+# Imperial Ancestral Temple
+
+The most sacred ritual site in imperial Beijing, where emperors honored their ancestors on a three-tiered platform shared by only three other buildings in the entire capital, now doubles as a public park and once staged a legendary production of Turandot.
+
+**Location:** 39.9100, 116.3936
+
+**Categories:** history, architecture, religion, cultural-heritage, park
+
+## Introduction
+
+Only four buildings in all of Beijing were important enough to stand on a three-tiered platform. The Hall for Worship of Ancestors, inside the Imperial Ancestral Temple just east of the Forbidden City, was one of them. For more than five centuries, this cluster of buildings in three walled courtyards served as the spiritual heart of imperial power -- the place where Ming and Qing emperors came to honor their forebears on the most important festival occasions of the calendar. In Chinese political cosmology, the emperor's right to rule rested not just on military strength or administrative competence but on the unbroken chain connecting him to his ancestors. To neglect the rituals at the Taimiao was to risk the very legitimacy of the dynasty.
+
+## Tablets, Incense, and the Weight of Dynasty
+
+The temple complex mirrors the Forbidden City's ground plan in miniature -- a deliberate echo of the imperial residence that reinforced the connection between the living emperor and his deceased predecessors. The Hall for Worship of Ancestors, the central and most important building, housed seats and beds for the spirit tablets of emperors and empresses, surrounded by incense burners and ritual offerings. Flanking the main courtyard are two long, narrow worship halls: the Western Wing held the spirit tablets of meritorious courtiers who had served the dynasty with distinction, while the Eastern Wing enshrined various princes. Behind the main hall stand two additional halls, the oldest of which was built in 1420 and used to store the imperial spirit tablets when they were not required for ceremonies.
+
+## From Imperial Rite to People's Park
+
+By the 1920s, the end of imperial rule had stripped the temple of its original purpose, and the surrounding grounds were opened as a public park. That park has since expanded well beyond its original boundaries and is now known as the Working People's Cultural Palace, a name that deliberately inverts the site's imperial origins. The park sits east of Tiananmen, while Zhongshan Park -- built on the former Altar of Earth and Harvests -- lies to the west. Together with Beihai Park and Jingshan, these green spaces form a network of former imperial grounds that now serve as public recreation areas, each one a reminder that Beijing's modern civic landscape is layered directly atop its dynastic geography.
+
+## Opera Under the Stars
+
+In 1998, the temple platform served as the stage for one of the most spectacular opera productions in modern memory. Puccini's Turandot, a story set in the court of a fictional Chinese princess, was performed at the Imperial Ancestral Temple with the Forbidden City as its backdrop. The production, directed by Zhang Yimou and conducted by Zubin Mehta, was recorded and broadcast internationally as Turandot at the Forbidden City. The temple's bilingual name plaque -- Chinese characters on the left column, Manchu script on the right -- watched silently as Western opera filled halls designed for ancestral sacrifice. It was exactly the kind of cultural collision that makes the site so compelling: a building conceived to venerate the past, hosting an art form imported from the other side of the world, in a city that has always absorbed the foreign without quite surrendering the indigenous.
+
+## Flight Context
+
+Located at 39.9100N, 116.3936E just east of the Forbidden City in central Beijing. The temple compound sits between the Forbidden City moat and Tiananmen Square, identifiable from the air as a tree-covered park (the Working People's Cultural Palace) adjacent to the southeast corner of the palace complex. Zhongshan Park sits symmetrically to the west. Beijing Capital International Airport (ZBAA) is approximately 29 km to the northeast. Best viewed at 2,000-4,000 ft AGL.
+
+## Sources
+
+- [Imperial Ancestral Temple - Wikipedia](https://en.wikipedia.org/?curid=15998626)
+- [Wikipedia - Turandot at the Forbidden City](https://en.wikipedia.org/wiki/Turandot_at_the_Forbidden_City)
+  - Turandot production at Imperial Ancestral Temple 1998 confirmed
+  - Directed by Zhang Yimou confirmed
+  - Conducted by Zubin Mehta confirmed
+  - Recorded and broadcast internationally as Turandot at the Forbidden City confirmed
+  - Temple platform serves as Working People's Cultural Palace public park confirmed
+  - Temple complex mirrors Forbidden City layout in miniature confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-19 · 6 facts verified · 0 corrections
+
+Key facts verified: Turandot 1998 at temple directed by Zhang Yimou conducted by Zubin Mehta, Working People's Cultural Palace confirmed, temple mirrors Forbidden City layout. No empathy issues. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 650*
+*Read time: 3 minutes*

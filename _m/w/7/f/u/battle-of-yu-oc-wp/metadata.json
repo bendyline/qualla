@@ -120,5 +120,26 @@
   "galleryPaths": [
     "_m/w/7/f/u/battle-of-yu-oc-wp/lieutenant-goeury-fren.jpg",
     "_m/w/7/f/u/battle-of-hoa-moc-wp/french-map-battles-yu.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w7fu-battle-of-yu-oc-flight-context.mp3",
+      "w7fu-battle-of-yu-oc-intro.mp3",
+      "w7fu-battle-of-yu-oc-strangled-on-the-clear-river.mp3",
+      "w7fu-battle-of-yu-oc-approach-through-silence.mp3",
+      "w7fu-battle-of-yu-oc-the-flank-through-the-forest.mp3",
+      "w7fu-battle-of-yu-oc-the-convoy-gets-through.mp3",
+      "w7fu-battle-of-yu-oc-prelude-to-a-siege.mp3"
+    ],
+    "durations": {
+      "w7fu-battle-of-yu-oc-flight-context.mp3": 45.7159166,
+      "w7fu-battle-of-yu-oc-intro.mp3": 50.880125,
+      "w7fu-battle-of-yu-oc-strangled-on-the-clear-river.mp3": 69.9044583,
+      "w7fu-battle-of-yu-oc-approach-through-silence.mp3": 70.7390416,
+      "w7fu-battle-of-yu-oc-the-flank-through-the-forest.mp3": 80.7765416,
+      "w7fu-battle-of-yu-oc-the-convoy-gets-through.mp3": 70.92375,
+      "w7fu-battle-of-yu-oc-prelude-to-a-siege.mp3": 68.0177916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

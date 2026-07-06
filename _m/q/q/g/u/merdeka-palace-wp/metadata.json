@@ -412,5 +412,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qqgu-merdeka-palace-flight-context.mp3",
+      "qqgu-merdeka-palace-intro.mp3",
+      "qqgu-merdeka-palace-a-palace-for-the-governor-general.mp3",
+      "qqgu-merdeka-palace-occupation-and-independence.mp3",
+      "qqgu-merdeka-palace-rooms-that-remember.mp3",
+      "qqgu-merdeka-palace-ceremony-at-the-gates.mp3"
+    ],
+    "durations": {
+      "qqgu-merdeka-palace-flight-context.mp3": 54.3219583,
+      "qqgu-merdeka-palace-intro.mp3": 47.5191666,
+      "qqgu-merdeka-palace-a-palace-for-the-governor-general.mp3": 67.3750833,
+      "qqgu-merdeka-palace-occupation-and-independence.mp3": 55.8820416,
+      "qqgu-merdeka-palace-rooms-that-remember.mp3": 56.9805416,
+      "qqgu-merdeka-palace-ceremony-at-the-gates.mp3": 51.037125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

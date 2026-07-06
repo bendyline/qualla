@@ -79,5 +79,26 @@
   ],
   "galleryPaths": [
     "_m/w/0/x/n/battle-of-the-malacca-strait-wp/british-destroyer-hms.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w0xn-battle-of-the-malacca-strait-flight-context.mp3",
+      "w0xn-battle-of-the-malacca-strait-intro.mp3",
+      "w0xn-battle-of-the-malacca-strait-a-cruiser-running-errands.mp3",
+      "w0xn-battle-of-the-malacca-strait-two-attempts-through-the-strait.mp3",
+      "w0xn-battle-of-the-malacca-strait-lightning-and-radar.mp3",
+      "w0xn-battle-of-the-malacca-strait-the-kill.mp3",
+      "w0xn-battle-of-the-malacca-strait-the-wreck-and-its-fate.mp3"
+    ],
+    "durations": {
+      "w0xn-battle-of-the-malacca-strait-flight-context.mp3": 41.3683333,
+      "w0xn-battle-of-the-malacca-strait-intro.mp3": 46.6775,
+      "w0xn-battle-of-the-malacca-strait-a-cruiser-running-errands.mp3": 51.3036666,
+      "w0xn-battle-of-the-malacca-strait-two-attempts-through-the-strait.mp3": 63.123375,
+      "w0xn-battle-of-the-malacca-strait-lightning-and-radar.mp3": 61.520125,
+      "w0xn-battle-of-the-malacca-strait-the-kill.mp3": 63.7879583,
+      "w0xn-battle-of-the-malacca-strait-the-wreck-and-its-fate.mp3": 64.35475
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1,0 +1,57 @@
+# Battle of the Pass of Brander
+
+The 1308 battle where Robert the Bruce broke the power of the MacDougalls in a narrow pass beneath Ben Cruachan, ending the last internal threat to his crown and clearing the way to Bannockburn.
+
+**Location:** 56.4131, -5.1803
+
+**Categories:** battle, wars-of-independence, argyll, medieval
+
+## Introduction
+
+The Pass of Brander is a place designed for ambush. The River Awe slices through the southern slope of Ben Cruachan on its way down from Loch Awe, and the passage between mountain and water is narrow enough that a small force can block a large one. In the late summer of 1308, John Bacach MacDougall positioned his army in that passage to stop Robert the Bruce. It was a reasonable plan in a war that had been full of them. But Bruce had spent two years learning how to fight in the Highlands, and the men of Argyll were about to discover that the fugitive king who had once hidden in caves and scrambled over mountains was no longer running.
+
+## Murder, Crown, and Exile
+
+The battle at Brander was the last act of a civil war within the wider Wars of Scottish Independence. In 1306, Bruce had killed John Comyn -- the Red Comyn -- at Dumfries, an act that guaranteed the enmity of the Comyn family network across Scotland. The MacDougalls of Argyll, kinsmen of Comyn by marriage, were among the most powerful of these enemies. After Bruce was crowned, he faced not only the English army but a coalition of Scottish clans who considered him a murderer and a usurper. The MacDougalls' Alexander, Lord of Lorne, controlled much of Argyll. His son John Bacach -- John the Lame -- mauled Bruce's retreating army at the Battle of Dalrigh near Tyndrum shortly after Bruce's defeat by the English at Methven. The king, who narrowly escaped capture, spent months in hiding before beginning his remarkable recovery.
+
+## Harrowing the North
+
+Bruce's comeback began in Ayrshire in the spring of 1307 and was aided by an extraordinary stroke of fortune: Edward I of England died in July 1307, just short of the Scottish border, leaving the less capable Edward II to manage English interests. Bruce moved fast. He attacked Galloway, forcing the local chiefs to pay tribute. He marched north into Lochaber, supported by a fleet of galleys sailing up Loch Linnhe. John Bacach, unable to resist the combined onslaught, asked for a truce. Bruce then wheeled northeast to defeat the Earl of Buchan at the Battle of Inverurie in May 1308. With the north secured, he turned his full attention back to unfinished business in the west. Alexander MacDougall, too old and sick to fight, lay in his castle at Dunstaffnage. His son John would have to face Bruce alone.
+
+## Into the Pass
+
+John Bacach chose the Pass of Brander because it offered the MacDougalls their best chance of stopping a superior force. The narrow defile between Ben Cruachan's slopes and the River Awe negated Bruce's numerical advantage and allowed the defenders to fight on ground they knew intimately. But Bruce had anticipated the ambush. The details of the engagement are sparse -- medieval sources do not provide the precision of modern battle accounts -- but the outcome was decisive. The men of Argyll wavered and then broke. They were chased westward across the River Awe toward Dunstaffnage. John Bacach escaped down the loch in his galley, eventually taking refuge in England. His father surrendered and did homage to Bruce, but joined his son in exile the following year, dying in 1310 in the service of Edward II.
+
+## The End of Internal Resistance
+
+The campaign of 1307 and 1308 destroyed the internal threat to Bruce's crown. Every one of his Comyn enemies had been exiled, defeated, or stripped of their lands. The survivors could continue the fight only as volunteers in the English army -- which they did, bitterly, for years to come. But they no longer had a power base in Scotland. Six years later, at Bannockburn, Bruce would face only the English. The landscape of the Pass of Brander still tells the story of why the MacDougalls chose it and why they lost. The defile remains narrow, the mountain still looms above, and the River Awe still runs through the bottom. Historians continue to debate the exact site -- R. A. MacDonald argued in 1997 that the battle took place further north on the shores of Loch Etive -- but the pass itself, walked today by hikers and railway passengers on the West Highland Line, carries the weight of a moment when Scotland's future was decided in a Highland gorge.
+
+## Flight Context
+
+Located at 56.41N, 5.18W in the Pass of Brander, where the River Awe flows between Ben Cruachan and Loch Awe in Argyll. The narrow pass is clearly visible from the air, with the West Highland Line and A85 road running through it. Nearest airport is Oban Airport (no ICAO code); nearest major airports are Glasgow (EGPF) and Inverness (EGPE). Best viewed at 3,000-5,000 feet with Ben Cruachan (1,126m) dominating the scene.
+
+## Sources
+
+- [Battle of the Pass of Brander - Wikipedia](https://en.wikipedia.org/?curid=5583163)
+  - Battle took place in late summer 1308
+  - Bruce killed John Comyn (the Red Comyn) at Dumfries in 1306
+  - MacDougalls were kinsmen of Comyn by marriage
+  - Battle of Dalrigh near Tyndrum — MacDougalls mauled Bruce's retreating army
+  - Edward I of England died in July 1307
+  - Bruce defeated Earl of Buchan at Battle of Inverurie in May 1308
+  - John Bacach escaped down loch in his galley, took refuge in England
+  - Alexander MacDougall died in 1310 in service of Edward II
+  - R. A. MacDonald argued in 1997 that battle may have taken place further north on shores of Loch Etive
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 9 facts verified · 0 corrections
+
+Facts verified: battle August 1308, Comyn killed 1306 at Dumfries, Edward I died July 1307, Inverurie May 1308, John Bacach escaped by galley. R.A. MacDonald 1997 alternative location theory noted. No errors. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

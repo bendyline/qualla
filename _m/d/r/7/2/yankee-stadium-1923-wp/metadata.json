@@ -1280,5 +1280,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr72-yankee-stadium-1923-flight-context.mp3",
+      "dr72-yankee-stadium-1923-intro.mp3",
+      "dr72-yankee-stadium-1923-opening-day-1923.mp3",
+      "dr72-yankee-stadium-1923-death-valley-and-the-short-porch.mp3",
+      "dr72-yankee-stadium-1923-renovation-and-reinvention.mp3",
+      "dr72-yankee-stadium-1923-rituals-and-ghosts.mp3",
+      "dr72-yankee-stadium-1923-the-last-game-and-what-remains.mp3"
+    ],
+    "durations": {
+      "dr72-yankee-stadium-1923-flight-context.mp3": 55.3852083,
+      "dr72-yankee-stadium-1923-intro.mp3": 52.8942916,
+      "dr72-yankee-stadium-1923-opening-day-1923.mp3": 63.0884583,
+      "dr72-yankee-stadium-1923-death-valley-and-the-short-porch.mp3": 57.1439166,
+      "dr72-yankee-stadium-1923-renovation-and-reinvention.mp3": 70.783375,
+      "dr72-yankee-stadium-1923-rituals-and-ghosts.mp3": 58.409125,
+      "dr72-yankee-stadium-1923-the-last-game-and-what-remains.mp3": 69.0049166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1023,5 +1023,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "srt3-bay-of-kotor-flight-context.mp3",
+      "srt3-bay-of-kotor-intro.mp3",
+      "srt3-bay-of-kotor-four-gulfs-two-straits.mp3",
+      "srt3-bay-of-kotor-perast-and-the-invented-island.mp3",
+      "srt3-bay-of-kotor-where-empires-left-their-walls.mp3",
+      "srt3-bay-of-kotor-the-bay-from-above.mp3"
+    ],
+    "durations": {
+      "srt3-bay-of-kotor-flight-context.mp3": 61.8540833,
+      "srt3-bay-of-kotor-intro.mp3": 55.83025,
+      "srt3-bay-of-kotor-four-gulfs-two-straits.mp3": 67.6644166,
+      "srt3-bay-of-kotor-perast-and-the-invented-island.mp3": 53.5068333,
+      "srt3-bay-of-kotor-where-empires-left-their-walls.mp3": 54.0507083,
+      "srt3-bay-of-kotor-the-bay-from-above.mp3": 58.90525
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

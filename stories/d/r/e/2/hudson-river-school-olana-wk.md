@@ -1,0 +1,61 @@
+# Olana: The Persian Castle a Painter Built to Frame the Hudson
+
+The New York hilltop where America's most famous landscape painter built a Persian fantasy castle - designed so every window framed a perfect composition, including the view that made him famous.
+
+**Location:** 42.2200, -73.8300
+
+**Categories:** new-york, hudson-river, art, architecture, historic-house
+
+## Introduction
+
+Frederic Church painted the Hudson River Valley until he became America's most celebrated artist. Then he built a castle on a hilltop so he could see his paintings come to life every day. Olana rises above the Hudson River in Columbia County, New York - a Persian-inspired fantasy of towers, arches, and polychrome patterns that Church designed with architect Calvert Vaux. Every window frames a landscape composition. The view south across the river shows the Catskill Mountains that Church painted obsessively for decades. He didn't just capture the view; he created it, planting trees and clearing brush for years to perfect sightlines. Olana is a house designed by a painter's eye - architecture in service of landscape, built to make looking out the window feel like seeing a masterpiece.
+
+## The Painter
+
+Frederic Edwin Church was the superstar artist of 19th-century America. His massive canvases of Niagara Falls, Andean volcanoes, and Arctic icebergs drew crowds who paid admission to see them. Critics hailed him as the American Turner. He was rich, famous, and obsessed with the Hudson River Valley where he'd studied under Thomas Cole, founder of the Hudson River School. In 1860, Church bought a farm overlooking the river, planning a modest studio. The modest plans didn't last. Neither did his career - rheumatism crippled his painting hand in the 1870s. Unable to create new landscapes, he created Olana instead.
+
+## The Design
+
+Church spent years designing Olana with architect Calvert Vaux, who'd designed Central Park. The house defies categories: Persian arches, Italian towers, Victorian massing, polychrome brickwork inspired by churches in Constantinople. Church had traveled the Middle East; the paintings he couldn't make with his damaged hands became the house he could design. The interior is equally extraordinary: stenciled walls, carved woodwork, and windows positioned precisely to frame specific views. Church called it 'personal Persia.' Critics call it eclectic, singular, a one-of-a-kind fusion of travel memory and artistic vision.
+
+## The Landscape
+
+Church treated Olana's 250 acres as his final canvas. He spent decades shaping the grounds - planting trees to frame views, clearing others to open sightlines, creating a designed landscape meant to be seen from specific points. The road approaching the house curves deliberately, revealing and concealing views as it climbs. A lake Church dug reflects the sky. Every window shows a composed scene: the Catskills to the south, the Hudson glinting below, the farms and forests of Columbia County arranged like brushstrokes. The landscape is art; the house is its frame.
+
+## The Preservation
+
+Church died in 1900; his widow stayed until 1899. The house passed through family hands, never sold, never significantly altered. In 1966, facing potential development, the estate became a state historic site. The preservation is extraordinary: original furniture, original art, original paint schemes - even Church's studio remains as he left it. The grounds have been restored to Church's designed landscape. Modern highways and cell towers intrude on some views, but the composition survives. Standing in the drawing room, looking south toward the Catskills, you see what Church saw, designed to be seen exactly this way.
+
+## Visiting Olana
+
+Olana State Historic Site is located in Hudson, New York, overlooking the Hudson River. House tours are available by timed ticket and book in advance for weekends; grounds are open for walking year-round. The carriage roads Church designed make excellent walking paths with views he composed. The visitor center provides context on Church's life and work. The nearby town of Hudson has galleries, restaurants, and antique shops. The Thomas Cole National Historic Site is 20 minutes north - visiting both shows two poles of the Hudson River School. Fall foliage season is spectacular but crowded. Spring and winter offer solitude. New York City is two hours south by car or Amtrak.
+
+## Flight Context
+
+Located at 42.22°N, 73.83°W in Columbia County, New York, on a hilltop above the Hudson River. From altitude, Olana is visible as an exotic structure on a prominent hill - its polychrome towers distinctive against the green landscape. The designed grounds extend across the hilltop; the lake Church dug is visible below the house. The Hudson River flows south toward New York City; the Catskill Mountains rise across the river to the west. The town of Hudson is visible nearby. The Rip Van Winkle Bridge crosses the river just north. This is Hudson River School country - the landscape that defined American art, seen from the house its greatest painter built.
+
+## Sources
+
+- [Hudson River School - Wikipedia](https://en.wikipedia.org/?curid=400641)
+- [Olana State Historic Site - Wikipedia](https://en.wikipedia.org/wiki/Olana_State_Historic_Site)
+  - Frederic Church designed with Calvert Vaux
+  - Church died 1900
+  - State historic site 1966
+
+## Review Notes
+
+**Reviewed:** 2026-01-23 · 5 facts verified · 0 corrections
+
+Previously verified with sources and editorial.
+
+**Spiciness:** 1/5
+
+**Strong opinions:**
+
+- The Persian Castle a Painter Built to Frame the Hudson
+- Olana is a house designed by a painter's eye - architecture in service of landscape
+
+---
+
+*Word count: 855*
+*Read time: 5 minutes*

@@ -1046,5 +1046,26 @@
         "aerialBonus": 15
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "tm1t-arg-e-bam-flight-context.mp3",
+      "tm1t-arg-e-bam-intro.mp3",
+      "tm1t-arg-e-bam-empires-in-unbaked-clay.mp3",
+      "tm1t-arg-e-bam-a-fortress-fit-for-film.mp3",
+      "tm1t-arg-e-bam-the-morning-everything-fell.mp3",
+      "tm1t-arg-e-bam-the-paradox-of-preservation.mp3",
+      "tm1t-arg-e-bam-rising-from-rubble.mp3"
+    ],
+    "durations": {
+      "tm1t-arg-e-bam-flight-context.mp3": 39.2276666,
+      "tm1t-arg-e-bam-intro.mp3": 52.1927083,
+      "tm1t-arg-e-bam-empires-in-unbaked-clay.mp3": 58.0847916,
+      "tm1t-arg-e-bam-a-fortress-fit-for-film.mp3": 59.51825,
+      "tm1t-arg-e-bam-the-morning-everything-fell.mp3": 57.2551666,
+      "tm1t-arg-e-bam-the-paradox-of-preservation.mp3": 56.949375,
+      "tm1t-arg-e-bam-rising-from-rubble.mp3": 51.442
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -697,5 +697,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w286-batu-caves-flight-context.mp3",
+      "w286-batu-caves-intro.mp3",
+      "w286-batu-caves-layers-of-occupation.mp3",
+      "w286-batu-caves-the-weight-of-devotion.mp3",
+      "w286-batu-caves-a-darkness-full-of-life.mp3",
+      "w286-batu-caves-stone-and-faith-unresolved.mp3"
+    ],
+    "durations": {
+      "w286-batu-caves-flight-context.mp3": 67.6299583,
+      "w286-batu-caves-intro.mp3": 69.1377916,
+      "w286-batu-caves-layers-of-occupation.mp3": 79.587375,
+      "w286-batu-caves-the-weight-of-devotion.mp3": 78.7022083,
+      "w286-batu-caves-a-darkness-full-of-life.mp3": 88.2020416,
+      "w286-batu-caves-stone-and-faith-unresolved.mp3": 80.8406666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

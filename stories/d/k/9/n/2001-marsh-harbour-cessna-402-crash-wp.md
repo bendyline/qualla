@@ -1,0 +1,63 @@
+# 2001 Marsh Harbour Cessna 402 Crash
+
+On a summer evening in 2001, a dangerously overloaded charter plane crashed seconds after takeoff from a Bahamian runway, killing R&B star Aaliyah and eight others in a disaster rooted in negligence.
+
+**Location:** 26.5097, -77.0975
+
+**Categories:** aviation-disaster, bahamas, music-history, investigation
+
+## Introduction
+
+Aaliyah had not wanted to get on the plane. According to a biography published years later, the 22-year-old singer was a nervous flier, and the Cessna 402B waiting on the tarmac at Marsh Harbour Airport looked wrong to her. It was smaller than the aircraft that had brought her group to the Abaco Islands three days earlier. The luggage and video equipment were already loaded, and the plane was visibly heavy. She refused to board, retreated to a taxicab on the airport grounds, and told people she had a headache. Someone gave her a pill. She fell asleep. She was carried onto the aircraft. Minutes later, at 6:50 p.m. on August 25, 2001, the Cessna lifted off runway 27, pitched nose-down, and crashed into a marsh 200 feet from the end of the pavement. All nine people aboard died.
+
+## Rock the Boat
+
+The trip to the Bahamas had been for a music video. Aaliyah, already a defining voice in R&B with albums that had sold millions, was shooting the video for "Rock the Boat," a track from her self-titled third album. Nearly sixty people worked on the production. On August 22, she filmed dance sequences against a green screen in Miami and shot underwater footage that same evening. The next day, she and employees of Virgin Records America flew to the Abaco Islands aboard a Fairchild Metro III chartered through a company called Sky Limo. Three days of filming on the beaches followed. When her portions wrapped on August 25, the crew chartered a return flight to Opa-locka Airport in Florida. The plane that arrived was a Cessna 402B, registration N8097W, operated by Blackhawk International Airways. It was late, arriving at 6:15 p.m. instead of the scheduled 4:30. The passengers were impatient. They loaded up and left.
+
+## A Chain of Failures
+
+The investigation that followed uncovered a cascade of negligence. The Cessna was over its maximum takeoff weight by more than 700 pounds and carried one more passenger than it was certified for. The pilot, Luis Morales, was not the pilot authorized on Blackhawk's operating papers to fly the aircraft. He had received his pilot's license only in February 2000, had recently been fired from Golden Airlines in Florida for failing to show up to work, and may have falsified his logged flight hours to get hired by Blackhawk. His toxicology report revealed traces of cocaine and alcohol. Blackhawk itself had been cited four times in the three years before the crash: fined for safety violations in 1998, warned for not testing employees for drugs in 1999, and cited for maintenance failures in 2000. The company's head, Gilbert Chacon, had pleaded guilty to bankruptcy fraud involving another charter service in 1993. Neither Blackhawk nor its booking partner Skystream had permits to operate commercial charter flights in the Bahamas.
+
+## The People on Board
+
+Nine people boarded that plane. Aaliyah Dana Haughton, 22, was among the most successful artists of her generation, with a career that stretched back to a television appearance on Star Search at age ten. Scott Gallin was her bodyguard. According to paramedics who reached the crash site, Gallin initially survived the impact and spent his last moments asking about Aaliyah's condition. Keith Wallace, a hairdresser. Anthony Dodd, a Virgin Records executive. Gina Smith, Douglas Kratz, and Eric Foreman, members of the production team. Christopher Maldonado, another crew member. And Morales, the pilot who should never have been at the controls. Each had a life beyond that runway. Gladys Knight, who had known Aaliyah since childhood, said she had watched her grow from a young performer in Las Vegas into someone with an intrinsic gift. Beyonce Knowles called her one of the nicest celebrities she had ever met.
+
+## Aftermath and Accountability
+
+The legal reckoning stretched for years. Families of the victims sued Virgin Records America, alleging the label was negligent in chartering the aircraft. Attorney Brian Panish accused Virgin of putting "profits over people." Aaliyah's parents, Diane and Michael Haughton, filed their own negligence suit in May 2002, naming Blackhawk, Virgin Records, the video's production companies, and several other entities. That case settled in September 2003 with confidential terms. Meanwhile, the Nassau funeral home that had prepared the victims' bodies accused Virgin of refusing to pay its $68,000 bill, even after executives had verbally promised to cover all costs. The NTSB's final finding was blunt: the aircraft's maximum gross weight had been "substantially exceeded" and its center of gravity was beyond the rear limit. An independent expert from the Cessna Pilots Association confirmed the overloading. Every safeguard that should have prevented this flight from departing had been bypassed, overruled, or ignored.
+
+## What Remains at Marsh Harbour
+
+Marsh Harbour Airport still operates today, serving as one of two airports for the Abaco Islands alongside Treasure Cay. Flights connect to Florida and Atlanta, the same routes they always have. The runway where the Cessna went down still runs east-west, and the marsh at its southern edge is still there. For the residents of Abaco, the crash became part of the island's fabric. Silbert Mills, a local official, described how people across the island played Aaliyah's music in the days after the disaster. "That's the whole tragedy of it," he said. "We felt as if we knew her, yet we didn't." In New York, nearly 6,000 people emailed BBC News expressing shock. Five hundred bouquets arrived at the hotel where Aaliyah's family was staying. Lenny Kravitz sent his private jet to the Bahamas to collect the stranded video crew, who were too shaken to board a commercial flight. The crash was not caused by weather or mechanical failure. It was caused by human decisions, each one avoidable, stacked one on top of another until they became lethal.
+
+## Flight Context
+
+Marsh Harbour Airport (MYAM/MHH) sits at 26.51N, 77.10W on Great Abaco Island, Bahamas. Runway 09/27 is where the crash occurred. The airport is clearly visible from 3,000-5,000 feet, with the marsh area at the southern end of the runway still discernible. Treasure Cay Airport (MYAT/TCB) is nearby to the north. Approaching from Florida, the Abaco chain appears as a long, narrow landmass with barrier cays along its eastern edge. The area is typically VFR with good visibility, though afternoon convective weather is common in summer months.
+
+## Sources
+
+- [2001 Marsh Harbour Cessna 402 crash - Wikipedia](https://en.wikipedia.org/?curid=43885123)
+  - Crash August 25 2001 at 6:50 p.m. confirmed
+  - All 9 aboard died confirmed
+  - Aircraft overloaded by more than 700 pounds confirmed
+  - One passenger more than certified capacity confirmed
+  - Pilot Luis Morales had cocaine and alcohol in toxicology confirmed
+  - Pilot fired from Golden Airlines confirmed
+  - Blackhawk cited four times in three years prior confirmed
+  - Aaliyah age 22 confirmed
+  - Music video was for Rock the Boat confirmed
+  - Crash site 200 feet from runway end confirmed
+  - Return destination was Opa-locka Airport confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-12 · 11 facts verified · 0 corrections
+
+Verified crash August 25 2001, all 9 killed, overloaded by 700+ lbs, one extra passenger, pilot Luis Morales cocaine and alcohol, fired from Golden Airlines, Blackhawk cited 4 times in 3 years, Aaliyah age 22, video for Rock the Boat, 200 feet from runway end, destination Opa-locka. All facts accurate.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 870*
+*Read time: 5 minutes*

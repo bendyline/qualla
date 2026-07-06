@@ -1,0 +1,62 @@
+# Mangazeya
+
+A vanished 17th-century Siberian trading city once called "the Baghdad of Siberia," whose location was deliberately erased from maps and forgotten for three centuries until archaeologists found its wooden kremlin in the tundra.
+
+**Location:** 66.6894, 82.2533
+
+**Categories:** Geography of Krasnoyarsk Krai, History of Siberia, Pomors, Populated places of Arctic Russia, 1600 establishments in Russia, Populated places established in 1600, Archaeological sites in Russia, Taz basin, Cultural heritage monuments in Yamalo-Nenets Autonomous Okrug, Objects of cultural heritage of Russia of federal significance
+
+## Introduction
+
+They called it the Baghdad of Siberia -- a city-state so wealthy and so isolated that it operated almost independently of the Russian Empire, accumulating fortunes in fur and walrus ivory while the Arctic ice locked it away from the world for most of the year. Mangazeya, founded in 1600 by Cossacks from Tobolsk on the banks of the Taz River between the Ob and Yenisei, was not merely abandoned. It was erased. The state sealed the sea route, tore up navigational markers, posted guards to intercept travelers, and falsified the maps. By the time the last residents fled a catastrophic fire in 1678, the city had already been strangled into irrelevance. Its location was forgotten for three hundred years.
+
+## The Fur Road North
+
+Mangazeya's wealth came from the Arctic trade in furs and walrus tusks. Russian settlers from the White Sea coast -- the pomors, seafaring traders who had navigated the Arctic for generations -- established a route along the northern coast to Arkhangelsk, where they traded with Norwegian, English, and Dutch merchants. Mangazeya sat at the end of this chain, a collection point where furs gathered from across Western Siberia were stored through the long winter and shipped out during the brief northern summer. The Siberian River Routes' Northern Route also funneled goods through the settlement. The name itself came from a Nenets ethnonym, Monkansi or Mongandi, a reminder that the land had its own people and its own names long before the Cossacks arrived to extract what they could carry.
+
+## A City Sentenced to Die
+
+In 1619, the Russian state banned the Northern Sea Route under penalty of death. The reasons were multiple and reinforcing: Moscow could not collect taxes from a city-state that traded freely with foreign merchants; English commercial ambitions in Siberia alarmed the government; and inland merchants working out of the Urals, Tyumen, and Tobolsk resented a competitor siphoning off commerce that would otherwise flow through their hands. The shutdown was comprehensive. Navigational markings were destroyed, patrol posts were established to catch anyone attempting the route, and cartographers were instructed to misrepresent the geography. Mangazeya, cut off from its lifeline, declined over the following decades. When fire consumed the city in 1678, the remaining population was evacuated south to Turukhansk at the junction of the Yenisei and Lower Tunguska rivers, a settlement known as New Mangazeya until the 1780s.
+
+## Lost and Found
+
+For three centuries, the location of Mangazeya vanished from collective memory as thoroughly as the state had intended. The falsified maps did their work. It was not until the 20th century that archaeologists rediscovered the site on the Taz River and unearthed the remains of a wooden kremlin -- a fortified enclosure -- and a gostiny dvor, the trading center where furs and ivory had once changed hands. The artifacts recovered from the site, now held at the State Historical Museum in Moscow, reveal a settlement that was far more substantial than a frontier outpost: buildings of considerable craftsmanship, evidence of organized commerce, and the material culture of a community that had built something approaching permanence in one of the most inhospitable environments on Earth.
+
+## Ghost of the Taz
+
+Today, there is nothing at the site of Mangazeya but the Taz River and the tundra. No town replaced it; no roads lead to it. The archaeological remains lie in a landscape that has reclaimed everything the Cossacks built, swallowing timber walls and trading posts back into the permafrost. From the air, the Taz winds through a flat, treeless expanse toward the Kara Sea, and the spot where a city of several thousand once conducted trade with half of Europe is indistinguishable from the surrounding wilderness. Mangazeya is classified as a site of federal cultural significance by Russia, but its real monument is its absence -- a reminder that empires can unmake what they make, and that a place erased from maps can be erased from memory for centuries.
+
+## Flight Context
+
+The site of Mangazeya lies at approximately 66.69N, 82.25E on the Taz River in Yamalo-Nenets Autonomous Okrug, well above the Arctic Circle. No structures remain visible from the air; the site is marked only by the river's course through flat tundra. The nearest airfields are at Krasnoselkup to the southeast and Tarko-Sale (TQL) further south. The landscape is treeless tundra and river delta. Expect extreme Arctic conditions in winter with limited daylight; summer brings midnight sun but persistent fog.
+
+## Sources
+
+- [Mangazeya - Wikipedia](https://en.wikipedia.org/?curid=475866)
+  - Founded 1600 by Cossacks from Tobolsk on the Taz River confirmed
+  - Northern Sea Route banned 1619 under penalty of death confirmed
+  - City abandoned after catastrophic fire in 1678 confirmed
+  - Population evacuated to Turukhansk (known as New Mangazeya until 1780s) confirmed
+  - Located between Ob and Yenisei rivers confirmed
+  - Archaeological site rediscovered in 20th century confirmed
+  - Wooden kremlin and gostiny dvor excavated confirmed
+  - Artifacts held at State Historical Museum in Moscow confirmed
+  - Classified as federal cultural heritage site confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 9 facts verified · 0 corrections
+
+Verified: founded 1600 by Cossacks from Tobolsk, Northern Sea Route banned 1619 under penalty of death, fire and abandonment 1678, evacuation to Turukhansk (New Mangazeya until 1780s), wooden kremlin excavated, artifacts at State Historical Museum Moscow, federal cultural significance. All facts confirmed.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Mangazeya described as 'erased' from maps — a place unmade by its own empire
+- the real monument is its absence
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

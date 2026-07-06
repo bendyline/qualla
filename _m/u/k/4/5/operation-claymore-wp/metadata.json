@@ -52,5 +52,26 @@
     "sourceGeohash4": "uk45"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "uk45-operation-claymore-flight-context.mp3",
+      "uk45-operation-claymore-intro.mp3",
+      "uk45-operation-claymore-churchills-hunter-class.mp3",
+      "uk45-operation-claymore-nine-hundred-miles-to-the-arctic.mp3",
+      "uk45-operation-claymore-the-prize-no-one-discussed.mp3",
+      "uk45-operation-claymore-two-views-of-success.mp3",
+      "uk45-operation-claymore-echoes-across-the-war.mp3"
+    ],
+    "durations": {
+      "uk45-operation-claymore-flight-context.mp3": 44.725875,
+      "uk45-operation-claymore-intro.mp3": 44.8888333,
+      "uk45-operation-claymore-churchills-hunter-class.mp3": 55.4910416,
+      "uk45-operation-claymore-nine-hundred-miles-to-the-arctic.mp3": 60.3157916,
+      "uk45-operation-claymore-the-prize-no-one-discussed.mp3": 64.2448333,
+      "uk45-operation-claymore-two-views-of-success.mp3": 65.2005833,
+      "uk45-operation-claymore-echoes-across-the-war.mp3": 54.4626666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

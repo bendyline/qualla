@@ -621,5 +621,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u5nd-dovrefjell-sunndalsfjella-national-park-flight-context.mp3",
+      "u5nd-dovrefjell-sunndalsfjella-national-park-intro.mp3",
+      "u5nd-dovrefjell-sunndalsfjella-national-park-an-alpine-ark.mp3",
+      "u5nd-dovrefjell-sunndalsfjella-national-park-snohettas-domain.mp3",
+      "u5nd-dovrefjell-sunndalsfjella-national-park-the-waterfall-at-amotan.mp3",
+      "u5nd-dovrefjell-sunndalsfjella-national-park-managed-by-mayors.mp3"
+    ],
+    "durations": {
+      "u5nd-dovrefjell-sunndalsfjella-national-park-flight-context.mp3": 61.6580416,
+      "u5nd-dovrefjell-sunndalsfjella-national-park-intro.mp3": 53.1949166,
+      "u5nd-dovrefjell-sunndalsfjella-national-park-an-alpine-ark.mp3": 75.7574166,
+      "u5nd-dovrefjell-sunndalsfjella-national-park-snohettas-domain.mp3": 57.766,
+      "u5nd-dovrefjell-sunndalsfjella-national-park-the-waterfall-at-amotan.mp3": 58.5013333,
+      "u5nd-dovrefjell-sunndalsfjella-national-park-managed-by-mayors.mp3": 66.1690833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -107,6 +107,30 @@
       "sourceGeohash4": "gc3g",
       "mediumPath": "_m/g/c/3/g/limerick-wp/a-walk-around-limerick-city-in-medium.webp",
       "smallPath": "_m/g/c/3/g/limerick-wp/a-walk-around-limerick-city-in-small.webp"
+    },
+    {
+      "filename": "GlenstalAbbeyHouse.jpg",
+      "title": "File:GlenstalAbbeyHouse.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/GlenstalAbbeyHouse.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:GlenstalAbbeyHouse.jpg",
+      "width": 4224,
+      "height": 3168,
+      "mime": "image/jpeg",
+      "license": "Public domain",
+      "artist": "JohnArmagh",
+      "description": "Photograph of Glenstal Abbey house, Co. Limerick, Ireland",
+      "dateCreated": "2010-05-02",
+      "categories": [
+        "Abbeys in Ireland",
+        "Glenstal Abbey",
+        "Monasteries in Ireland",
+        "PD-self",
+        "Self-published work",
+        "Taken with Sony DSC-W300"
+      ],
+      "sourceType": "poi",
+      "sourceArticleId": "limerick-wp",
+      "sourceGeohash4": "gc3g"
     }
   ],
   "galleryPaths": [
@@ -114,7 +138,29 @@
     "_m/g/c/3/g/limerick-wp/hunt-museum.jpg",
     "_m/g/c/3/g/limerick-wp/limerick-0103.jpg",
     "_m/g/c/3/g/limerick-wp/hunt-museum-limerick.jpg",
-    "_m/g/c/3/g/limerick-wp/a-walk-around-limerick-city-in.jpg"
+    "_m/g/c/3/g/limerick-wp/a-walk-around-limerick-city-in.jpg",
+    "_m/g/c/3/g/limerick-wp/glenstalabbeyhouse.jpg"
   ],
-  "updatedAt": "2026-02-20T05:07:41.087Z"
+  "updatedAt": "2026-06-20T03:16:28.233Z",
+  "narration": {
+    "files": [
+      "gc3g-limerick-flight-context.mp3",
+      "gc3g-limerick-intro.mp3",
+      "gc3g-limerick-hlymrekr-on-the-shannon.mp3",
+      "gc3g-limerick-newtown-perys-grid.mp3",
+      "gc3g-limerick-the-soviet-of-1919.mp3",
+      "gc3g-limerick-angelas-ashes-and-after.mp3",
+      "gc3g-limerick-munster-the-cranberries-and-a-famous-tie.mp3"
+    ],
+    "durations": {
+      "gc3g-limerick-flight-context.mp3": 65.0785833,
+      "gc3g-limerick-intro.mp3": 33.427625,
+      "gc3g-limerick-hlymrekr-on-the-shannon.mp3": 67.2537083,
+      "gc3g-limerick-newtown-perys-grid.mp3": 59.7306666,
+      "gc3g-limerick-the-soviet-of-1919.mp3": 69.1529166,
+      "gc3g-limerick-angelas-ashes-and-after.mp3": 69.4918333,
+      "gc3g-limerick-munster-the-cranberries-and-a-famous-tie.mp3": 64.0914583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

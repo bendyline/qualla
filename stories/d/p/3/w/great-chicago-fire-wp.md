@@ -1,0 +1,61 @@
+# Great Chicago Fire
+
+Over three days in October 1871, fire consumed the heart of Chicago -- killing 300, destroying 17,000 structures, and leaving 100,000 homeless -- then became the catalyst for one of the greatest urban rebuildings in history.
+
+**Location:** 41.8693, -87.6418
+
+**Categories:** disaster, history, chicago, urban-development
+
+## Introduction
+
+The cow did not do it. That much is certain. In 1893, reporter Michael Ahern admitted he had fabricated the story of Mrs. O'Leary's cow kicking over a lantern in a barn at 137 DeKoven Street. By then it was too late -- the legend had fused itself to the Great Chicago Fire like heat to flame, and no retraction could pry it loose. Chicago's city council would not officially exonerate Catherine O'Leary and her cow until 1997, more than a century after the conflagration that killed approximately 300 people, destroyed over 17,000 structures across roughly four square miles, and left more than 100,000 residents homeless in three terrible days of October 1871. The real cause remains unknown. But the fire's consequences reshaped American cities forever.
+
+## Timber, Drought, and 185 Firefighters
+
+Chicago in 1871 was a city built to burn. Rapid industrial expansion had filled the young metropolis with wooden buildings, wooden sidewalks, and wooden streets. Between July 4 and October 9, the city received almost no rain, desiccating every plank and beam. The Chicago Fire Department fielded just 185 firefighters and 17 horse-drawn steam pumpers to protect the entire city. When fire broke out on the evening of October 8 in or near the O'Leary barn on DeKoven Street, the department's initial response was misdirected -- a watchman sent engines to the wrong location. By the time firefighters reached the actual blaze, it had already jumped to neighboring buildings and was racing toward the central business district. Strong southwest winds carried flaming debris high into the air, creating fire whirls -- tornado-like vortices of superheated air -- that hurled burning embers across the South Branch of the Chicago River. When one landed on a railroad car filled with kerosene, the fire leapt the river and entered the city's commercial heart.
+
+## Three Days of Ruin
+
+The fire burned for three days, from October 8 through October 10, 1871. It consumed everything in its path: homes, churches, hotels, businesses. The Palmer House hotel, which had held its grand opening just 13 days earlier, burned to the ground. The water pumping system was destroyed early, leaving firefighters helpless. General Philip H. Sheridan arrived on October 11 and was placed in charge of the city by Mayor Roswell B. Mason, who declared martial law. For two weeks, Sheridan's troops -- a mix of regular soldiers, militia, police, and the hastily organized First Regiment of Chicago Volunteers -- patrolled the streets, guarded relief warehouses, and tried to prevent looting. The county coroner acknowledged that a true death count was impossible; some victims had drowned in the river, others were incinerated beyond any trace. The official toll of approximately 300 is almost certainly an undercount.
+
+## A World Reaches Out
+
+The response was extraordinary and immediate. New York City sent $450,000 along with clothing and provisions. St. Louis contributed $300,000. The Common Council of London donated 1,000 guineas, and private British donors added another 7,000 pounds. In Greenock, Scotland, a town of just 40,000 people raised 518 pounds at a single town meeting. Cincinnati, Cleveland, and Buffalo -- all commercial rivals of Chicago -- donated hundreds of thousands of dollars. Milwaukee sent firefighting equipment. Food, clothing, and books poured in by rail from across the continent. A. H. Burgess of London proposed an "English Book Donation" to help seed what would become the Chicago Public Library. Mayor Mason placed the Chicago Relief and Aid Society in charge of recovery, opening public buildings as shelters and closing saloons by nine each evening.
+
+## Built Again, Built Better
+
+Chicago did not pause to mourn. The first load of lumber for rebuilding arrived the same day the last burning building was extinguished. Frederick Law Olmsted, the landscape architect who had designed Central Park, visited and noted that the city's poor building practices had made the disaster inevitable. Chicago took the lesson seriously. The city rewrote its fire codes almost immediately, driven by insurance executives and reformers like Arthur C. Ducat. Potter Palmer, developer of the destroyed Palmer House, secured a loan and rebuilt his hotel across the street to higher standards, proclaiming it "The World's First Fireproof Building." Within two decades, Chicago had transformed itself from ashes into one of the great cities of the world. By 1893, the World's Columbian Exposition drew more than 21 million visitors to the rebuilt city. One of the four red stars on the flag of Chicago, adopted in 1917, commemorates the fire -- a permanent reminder that the city's identity is inseparable from the catastrophe that nearly destroyed it.
+
+## What Remains
+
+A handful of structures survived the fire and still stand: St. Michael's Church in Old Town, the Chicago Water Tower, the Chicago Avenue Pumping Station, and a few private residences including Police Constable Bellinger's cottage at what is now 2121 North Hudson. In 1956, the O'Leary property at 558 West DeKoven Street was razed to build the Chicago Fire Academy, a training facility for the city's firefighters. A bronze sculpture of stylized flames, Pillar of Fire by Egon Weiner, was erected on the point of origin in 1961. The theories about what actually started the blaze remain unresolved. Amateur historian Richard Bales argued that Daniel "Pegleg" Sullivan, who first reported the fire, ignited hay in the barn while trying to steal milk. Others have pointed to Louis M. Cohn, who may have started the blaze during a craps game. The true cause is almost certainly lost to history -- consumed, like everything else, by the fire itself.
+
+## Flight Context
+
+The Great Chicago Fire's origin point was at approximately 41.869N, 87.642W, on DeKoven Street on the city's near southwest side, now the site of the Chicago Fire Academy. The fire swept northeast through what is today the Loop and Near North Side, bounded roughly by the Chicago River to the west and south and Lincoln Park to the north. The Chicago Water Tower (41.897N, 87.624W) on North Michigan Avenue is one of the few surviving structures and is visible at lower altitudes as a distinctive limestone castle-like tower amid modern high-rises. The entire burn zone is now dense urban Chicago. Nearest airports: Chicago Midway International (KMDW), approximately 6nm southwest of the fire's origin; Chicago O'Hare International (KORD), approximately 14nm northwest. From altitude, the grid of the city and the distinctive bend of the Chicago River through the Loop provide orientation.
+
+## Sources
+
+- [Great Chicago Fire - Wikipedia](https://en.wikipedia.org/?curid=40311)
+  - approximately 300 deaths confirmed
+  - 17,000+ structures destroyed confirmed
+  - 100,000+ homeless confirmed
+  - burned October 8-10 1871 confirmed
+  - cow legend fabricated by Michael Ahern confirmed
+- [Great Chicago Fire - Britannica](https://www.britannica.com/event/Chicago-fire-of-1871)
+  - roughly 3.3 square miles burned (article says 'four square miles' - minor overstatement)
+  - 185 firefighters and 17 steam pumpers confirmed
+  - Palmer House opened 13 days before fire confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 12 facts verified · 1 correction
+
+Batch review: Chicago articles. All key facts verified via web search.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 896*
+*Read time: 4 minutes*

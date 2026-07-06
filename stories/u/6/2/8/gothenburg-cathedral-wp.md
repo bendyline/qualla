@@ -1,0 +1,61 @@
+# Gothenburg Cathedral
+
+Burned twice, rebuilt three times, stabilized by 313 concrete piles driven into bedrock, Gothenburg Cathedral has outlasted every disaster the city could throw at it.
+
+**Location:** 57.7044, 11.9653
+
+**Categories:** religious-sites, architecture, cathedrals, sweden
+
+## Introduction
+
+The architect who designed the third Gothenburg Cathedral did not attend its inauguration. Carl Wilhelm Carlberg died in April 1814, a year before the building was consecrated, but his pupil Justus Frederick Weinberg, who completed the work, reportedly stayed away for a different reason: he feared the thin, flat arches might collapse during the ceremony. They did not. Two centuries later, the cathedral still stands, though not without help. In the early twentieth century, the tower began leaning precariously to the southwest, and in the 1950s, workers drove 313 concrete piles into the bedrock to stabilize a building that has survived fire, flood, and the slow settling of marshy ground.
+
+## Before the Stone
+
+The first church on this site was not the cathedral but a wooden stave church that served Gothenburg for roughly twelve years before the first stone cathedral was inaugurated in 1633. This was one of the earliest buildings in the current city of Gothenburg, which is actually the third settlement founded at the mouth of the Gota River and the second to bear that name. King Gustavus Adolphus funded construction through a tax demanding a barrel of grain from each church-owned property in Vastergotland province. Master mason Lars Nilsson laid the foundation stone on June 19, 1626. By the time superintendent Andreas Prytz consecrated the building in August 1633 with sermons titled 'On the right use of churches' and 'On the consecration of churches,' construction costs had reached 8,387 Swedish riksdaler. The church would not officially become a cathedral until the 1680s.
+
+## Fire and Phoenix
+
+The night of April 15, 1721 destroyed the cathedral, the high school, and 211 residential buildings in the surrounding neighborhood. But the cathedral walls remained standing, and remarkably, the building reopened just thirteen months later, on May 25, 1722, rebuilt to the same dimensions. This second cathedral served Gothenburg for eighty years until another fire, in 1802, damaged the structure so severely that the walls could not be reused. The third cathedral, the one standing today, was designed by Carl Wilhelm Carlberg and begun in 1804. Bishop Johan Wingard consecrated it on Trinity Sunday, May 21, 1815. The tower came a decade later, inaugurated in 1825, its copper cladding completed by 1827. When the end walls of the tower's lateral extensions were demolished in 1832 and replaced with iron railings, the exterior took essentially its current form.
+
+## What the Flames Spared
+
+Not everything burned. The white, partly gold-plated grandfather clock in the cathedral dates to the eighteenth century and survived the 1802 fire. Watchmaker Olof Rising crafted it in 1751 in Gothenburg, and it still keeps time, its painted cover with gilded moldings matching the church's furnishings. During the 1954-1957 restoration, the clock was moved from the southern wall to the southeast transept entrance. Clock specialist Arthur Johnson refurbished it thoroughly in 1957, including the chimes. The current organ dates from 1962 but maintains its original white-and-gold facade, a visual connection to earlier instruments. The previous organ, contracted to Stockholm builder Olof Schwan in 1805, was not finished until 1816, four years after Schwan's death, when his successor John Eberhard completed the work.
+
+## The Leaning Tower
+
+Gothenburg sits on marshy ground, and the cathedral's foundations have always struggled against it. By 1645, the swampy area around the first cathedral had been filled with sand to create a burial ground. Between 1635 and 1802, approximately 3,000 people were buried inside the church; another 20,000 in the surrounding churchyard. But the ground remained unstable. In the early twentieth century, the tower began tilting dangerously to the southwest. The church and Cathedral Close were shut down for extended reinforcement. High Mass moved to the German Church; evensong to Landala Chapel. A comprehensive restoration in 1904 brought new flooring, windows, doors, benches, and heating. The definitive fix came in 1954-1957 when workers drove 313 concrete piles into the bedrock beneath the building, finally anchoring it to something more stable than sand and centuries of graves.
+
+## Hidden Beneath the Floor
+
+In November 2013, workers installing a new elevator made an unexpected discovery: the walls of the first cathedral, buried beneath the floor of the third. The building layers of Gothenburg's religious history lie stacked beneath the neoclassical interior, evidence of the wooden stave church, the first stone cathedral of 1633, the quickly rebuilt second version of 1722, and the current structure with its 59.4-meter length, 38-meter width, and nave rising 14.25 meters to the ceiling, 52.85 meters to the top of the tower. Until the late 1990s, visitors could ride an elevator and climb 151 steps to stand on one of the tower's eight small balconies. The view of Gothenburg from there encompasses a city that, like its cathedral, has burned and rebuilt itself multiple times, always on the same marshy ground at the mouth of the Gota River.
+
+## Flight Context
+
+Located at 57.704N, 11.965E in central Gothenburg, Sweden. The cathedral's neoclassical tower rises prominently in the city center, visible when flying along the Gota River or approaching from the harbor. Nearby airports include Gothenburg Landvetter (ESGG, 20nm east) and Gothenburg City Airport Save (ESGP, 8nm northwest). Best viewed at 1,500-2,000 feet AGL when approaching from the west along the waterfront. The tower and copper-clad roof are distinctive landmarks.
+
+## Sources
+
+- [Gothenburg Cathedral - Wikipedia](https://en.wikipedia.org/?curid=15875235)
+  - First cathedral 1633
+  - Fire April 15, 1721
+  - Fire December 20, 1802 (article says 1802)
+  - Carl Wilhelm Carlberg architect died April 14, 1814
+  - Bishop Johan Wingard consecrated Trinity Sunday May 21, 1815
+  - 313 concrete piles 1954-1957
+  - Foundation stone June 19, 1626
+  - Approximately 3,000 buried inside church 1635-1802
+  - 20,000 buried in churchyard
+
+## Review Notes
+
+**Reviewed:** 2026-02-03 · 13 facts verified · 0 corrections
+
+Verified first cathedral 1633, fires 1721 and 1802, Carlberg architect died 1814, consecrated May 21 1815 by Bishop Wingard, 313 concrete piles 1954-1957, burial counts. All facts confirmed.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 820*
+*Read time: 4 minutes*

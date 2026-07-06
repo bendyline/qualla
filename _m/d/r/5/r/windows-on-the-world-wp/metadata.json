@@ -90,5 +90,24 @@
   "galleryPaths": [
     "_m/d/r/5/r/windows-on-the-world-wp/107e-etage-du-world-trade-cent.jpg"
   ],
-  "updatedAt": "2026-03-30T13:52:41.375Z"
+  "updatedAt": "2026-03-30T13:52:41.375Z",
+  "narration": {
+    "files": [
+      "dr5r-windows-on-the-world-flight-context.mp3",
+      "dr5r-windows-on-the-world-intro.mp3",
+      "dr5r-windows-on-the-world-a-table-in-the-sky.mp3",
+      "dr5r-windows-on-the-world-surviving-once-then-not-again.mp3",
+      "dr5r-windows-on-the-world-the-last-calls.mp3",
+      "dr5r-windows-on-the-world-what-endures.mp3"
+    ],
+    "durations": {
+      "dr5r-windows-on-the-world-flight-context.mp3": 49.543125,
+      "dr5r-windows-on-the-world-intro.mp3": 40.1494166,
+      "dr5r-windows-on-the-world-a-table-in-the-sky.mp3": 52.9955,
+      "dr5r-windows-on-the-world-surviving-once-then-not-again.mp3": 69.7830833,
+      "dr5r-windows-on-the-world-the-last-calls.mp3": 55.9710833,
+      "dr5r-windows-on-the-world-what-endures.mp3": 59.3854583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

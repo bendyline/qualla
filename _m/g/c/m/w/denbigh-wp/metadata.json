@@ -29,5 +29,24 @@
   "galleryPaths": [
     "_m/g/c/m/w/denbigh-wp/denbighfriary.jpg"
   ],
-  "updatedAt": "2026-03-20T01:06:23.587Z"
+  "updatedAt": "2026-03-20T01:06:23.587Z",
+  "narration": {
+    "files": [
+      "gcmw-denbigh-flight-context.mp3",
+      "gcmw-denbigh-intro.mp3",
+      "gcmw-denbigh-edwards-castle-and-the-welsh-risings.mp3",
+      "gcmw-denbigh-the-cathedral-that-wasnt.mp3",
+      "gcmw-denbigh-stanley-potter-and-the-towns-famous-children.mp3",
+      "gcmw-denbigh-boxing-day-barrels-and-the-hospital-that-closed.mp3"
+    ],
+    "durations": {
+      "gcmw-denbigh-flight-context.mp3": 64.4814166,
+      "gcmw-denbigh-intro.mp3": 48.13075,
+      "gcmw-denbigh-edwards-castle-and-the-welsh-risings.mp3": 78.815125,
+      "gcmw-denbigh-the-cathedral-that-wasnt.mp3": 74.9007083,
+      "gcmw-denbigh-stanley-potter-and-the-towns-famous-children.mp3": 97.5767916,
+      "gcmw-denbigh-boxing-day-barrels-and-the-hospital-that-closed.mp3": 79.4316666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

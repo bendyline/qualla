@@ -1,0 +1,58 @@
+# Yarloop Workshops
+
+A heritage railway workshop in rural Western Australia that hand-built machinery for 26 timber mills, manufactured wartime armaments, and survived cyclone and bushfire before beginning its resurrection.
+
+**Location:** -32.9593, 115.9000
+
+**Categories:** railway-workshops, heritage-sites, industrial-history, western-australia
+
+## Introduction
+
+Somewhere in the wooden pattern collection at Yarloop, there are moulds that no one alive today knows the purpose of. Thousands of them, carved from jarrah and karri, each one shaped to cast a specific gear, valve, or bracket for machinery that once powered 26 sawmills across southwestern Western Australia. The Yarloop Workshops operated for most of the twentieth century as the beating mechanical heart of the Millars timber empire, a place where skilled tradesmen forged, lathed, and assembled virtually every part their sprawling rail-and-mill network required. That self-sufficiency was born not from ambition but from necessity: waiting months for replacement parts to arrive by ship from Britain was simply not an option when production depended on keeping the saws turning.
+
+## The Millar Brothers' Forge
+
+Charles and Edwin Millar built their first timber mill on the Yarloop site in 1895, drawn by the towering forests of karri and jarrah that blanketed the Darling Scarp foothills south of Perth. As production scaled up, so did the strain on equipment. Rather than operate a timber mill and a separate repair depot, the brothers gradually converted the entire site into a dedicated workshop by 1901, serving nothing but maintenance and fabrication. At its peak in the 1930s, the operation supported Millars Karri and Jarrah Forests Limited's network of 26 sawmills connected by an extensive private railway system. More than a hundred workers staffed the site, and the foundry alone could cast parts on demand from those meticulously carved wooden patterns, the largest such collection of its kind. The workshops were not merely a repair shop. They were a manufacturing facility that rendered the entire Millars operation independent of overseas supply chains, a remarkable feat for a regional Australian town.
+
+## From Timber to Armaments
+
+When global conflict reached even this remote corner of Western Australia, the Yarloop Workshops proved their versatility. During both World War I and World War II, the foundry and machine shops pivoted from casting mill parts to manufacturing armaments for the Allied war effort. The same skills that shaped locomotive components and sawmill blades turned to military production, and the transition underscored just how sophisticated the workshops' capabilities had become. Yarloop was no backwater shed with a few lathes. It was an industrial facility whose workers possessed the precision and metallurgical knowledge to meet wartime specifications. When peace returned each time, the workshops shifted back to their timber-industry purpose, resuming the rhythms of maintenance and fabrication that kept the mills running and the trains rolling through the jarrah forests.
+
+## Cyclone, Fire, and Silence
+
+Cyclone Alby struck Western Australia in April 1978, and the Yarloop Workshops took extensive damage. Millars decided against rebuilding on the original site, relocating operations to a new facility along the South Western Highway just outside town. The old workshops changed hands several times until Bunnings acquired the property in 1983. For decades afterward, the site sat largely dormant, its corrugated iron roofs rusting, its foundry cooling, its wooden patterns gathering dust. Then, in January 2016, the Waroona-Yarloop bushfire tore through the town with devastating force, destroying 166 buildings and leaving only 90 standing. The workshops, already battered by years of neglect, suffered further damage. The fire killed two people and effectively wiped Yarloop off the map, reducing its population from 395 to just 120 by 2018.
+
+## Rebuilding What Was Lost
+
+In January 2022, authorities announced that the Yarloop Workshops would be rebuilt, beginning with the steam workshops that had once been the site's core function. The reconstruction effort is part of a broader plan to restore Yarloop's heritage identity after the bushfire. The workshops had already been listed on the State Register of Heritage Places for the Shire of Harvey, recognizing their significance as one of Western Australia's most intact examples of early industrial infrastructure. The wooden pattern collection, remarkably, survived and remains on site. Each mould is a tangible record of the engineering problems the Millars workforce solved over nearly eight decades. The rebuilding is not merely about preserving old buildings. It is about reclaiming a story of ingenuity, self-reliance, and the kind of skilled labor that built regional Australia from the forest floor up.
+
+## Flight Context
+
+Located at 32.96S, 115.90E in the town of Yarloop, Shire of Harvey, Western Australia. The workshops site is visible from low altitude near the South Western Highway corridor. Nearest significant airfield is Bunbury Airport (YBUN) approximately 45 km south. The town sits on the Swan Coastal Plain west of the Darling Scarp, with the surrounding landscape showing a mix of cleared farmland and remnant jarrah forest. Fly over at 2,000-3,000 ft for context of the town's scale relative to the forested hills to the east.
+
+## Sources
+
+- [Yarloop Workshops - Wikipedia](https://en.wikipedia.org/?curid=20580385)
+  - Confirmed: Charles and Edwin Millar built first timber mill on site 1895
+  - Confirmed: Became dedicated workshop by 1901
+  - Confirmed: At peak in 1930s supported 26 sawmills and private railway network
+  - Confirmed: Over 100 workers at peak
+  - Confirmed: Armaments manufactured during both World War I and World War II
+  - Confirmed: Cyclone Alby struck April 1978, extensive damage
+  - Confirmed: Millars relocated operations to South Western Highway site after Alby
+  - Confirmed: Bunnings acquired property 1983
+  - Confirmed: 2016 bushfire destroyed workshops (166 buildings in Yarloop, only 90 survived)
+  - Confirmed: Rebuild announced January 2022
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 10 facts verified · 0 corrections
+
+All facts verified: Millar brothers 1895 mill confirmed, became dedicated workshop 1901 confirmed, 26 sawmills at peak 1930s confirmed, WWI and WWII armaments production confirmed, Cyclone Alby 1978 confirmed, Bunnings acquired 1983 confirmed, rebuild announced 2022 confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 730*
+*Read time: 4 minutes*

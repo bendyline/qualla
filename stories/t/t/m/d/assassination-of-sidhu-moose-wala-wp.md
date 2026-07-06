@@ -1,0 +1,67 @@
+# Assassination of Sidhu Moose Wala
+
+The 2022 murder of Punjabi music star Sidhu Moose Wala in Mansa, shot the day after his police security was withdrawn, exposing the intersection of celebrity, gang violence, and politics in modern Punjab.
+
+**Location:** 29.9676, 75.4047
+
+**Categories:** crime, music, politics, contemporary-events
+
+## Introduction
+
+On 28 May 2022, the Punjab government withdrew police security from 424 people across the state, a routine precaution ahead of the anniversary of Operation Blue Star. Sidhu Moose Wala, the 28-year-old Punjabi rapper and Congress politician whose music had made him one of the most recognized voices in South Asia, was among them. His protection dropped from four commandos to two. The next day, he drove out of Jawaharke village in Mansa district in his private SUV instead of his bulletproof vehicle -- his friends later said the Thar could not fit five people. He never came home.
+
+## The Voice of a Generation, Silenced
+
+Shubhdeep Singh Sidhu -- known to the world as Sidhu Moose Wala, after his native village of Moosa -- had become a phenomenon that transcended music. His Punjabi-language tracks blended hip-hop, folk, and raw autobiography into something that resonated from the wheat fields of the Malwa region to the Punjabi diaspora in Canada, the UK, and beyond. He had entered politics, running for the Indian National Congress in the 2022 Punjab assembly elections. Punjab Chief Minister Bhagwant Mann would later call him "a cultural icon of Punjab." His reach made him powerful, but it also made him a target. His father told police that Moose Wala had been receiving death threats from gangsters demanding extortion payments, a claim corroborated by fellow singer Mika Singh.
+
+## Thirty Rounds on a Village Road
+
+The attack was swift and overwhelming. On 29 May 2022, assailants intercepted Moose Wala's vehicle near Jawaharke village and opened fire. Police later recovered bullets from an AN-94 Russian assault rifle and a pistol at the scene. The autopsy, conducted by five doctors and videographed in its entirety, recorded 19 bullet wounds. Moose Wala died within 15 minutes. He was 28 years old. Two companions in the car survived. The killing sent shockwaves through Punjab and beyond; within hours, celebrities, politicians, and millions of fans were mourning on social media. He was cremated the following day on his own farmland in his ancestral village, his father performing a final gesture that drew national attention.
+
+## A Web of Gangs and Grudges
+
+Responsibility claims came quickly. Canada-based gangster Satinder Singh, known as Goldy Brar, posted that his "Punjab module" had carried out the shooting. Police traced the conspiracy to Lawrence Bishnoi, a notorious gangster who was already in custody on other charges and who authorities described as the "mastermind" behind the murder. The Bishnoi gang's stated motive was revenge for the 2021 killing of Akali Youth leader Vicky Middukhera -- they claimed Moose Wala's aide had played a role in that murder, though no legal evidence supported the accusation. What emerged was a picture of organized crime networks that stretched from Punjab's jails to Canada's Punjabi diaspora, capable of coordinating sophisticated assassinations using military-grade weapons while their leaders operated from behind bars or from foreign soil.
+
+## Aftermath and Accountability
+
+The investigation unfolded in stages. Six suspects were detained in Uttarakhand within a day; one was found hiding among pilgrims at Gurudwara Shri Hemkund Sahib. On 3 June, Bishnoi admitted his gang's involvement and acknowledged a personal rivalry with the singer. Shooter Ankit Sirsa was arrested in Delhi on 3 July. On 20 July, two suspects -- Manpreet Mannu and Jagrup Rupa -- were killed in a police encounter in Amritsar. The last identified shooter, Deepak Mundi, was arrested near the Bengal-Nepal border in September. Even in jail, the violence continued: two of the accused were killed in a fight with gang rivals at Goindwal Sahib Central Jail in Tarn Taran district. The case became a political flashpoint, with the Indian National Congress staging protests near Delhi Chief Minister Arvind Kejriwal's residence, blaming the AAP-ruled Punjab government's decision to reduce security.
+
+## A Name That Belongs to No Party
+
+In death, Moose Wala became something politicians wanted to claim and his family fought to protect. Before the 2022 Sangrur Lok Sabha by-election, the Congress party used his image in campaign materials. His family issued a public appeal asking all political parties and individuals to stop using his name for political or personal gain. The Aam Aadmi Party criticized the exploitation as well. The village of Jawaharke, where the bullets struck, sits on flat agricultural land in Mansa district -- an unremarkable crossroads in the Punjab countryside that now carries an indelible mark. Moose Wala's music continues to stream in the hundreds of millions. His murder exposed fissures in Punjab's relationship with celebrity, security, and the organized crime networks that operate in the spaces between them.
+
+## Flight Context
+
+Located at 29.97N, 75.40E near Jawaharke village in Mansa district, Punjab, India. The area is flat agricultural land in the Malwa region. Nearest airport is Bathinda Airport (VIBT), approximately 50 km to the west. Chandigarh Airport (VICG) is roughly 250 km to the northeast. The village is indistinguishable from surrounding farmland at altitude; Mansa town provides the closest landmark. Best viewed at low altitude for context of the rural Punjab setting.
+
+## Sources
+
+- [Assassination of Sidhu Moose Wala - Wikipedia](https://en.wikipedia.org/?curid=71362308)
+  - Killed on 29 May 2022 near Jawaharke village, Mansa district
+  - Age 28 at time of death — confirmed
+  - AN-94 Russian assault rifle bullets recovered at scene — confirmed
+  - Autopsy conducted by five doctors and videographed — confirmed; 19 bullet injury marks per Tribune India autopsy report
+  - Died within 15 minutes of attack — confirmed
+  - Goldy Brar (Canada-based, Lawrence Bishnoi gang) claimed responsibility
+  - Lawrence Bishnoi identified as mastermind, already in custody
+  - Stated motive: revenge for 2021 killing of Vicky Middukhera
+  - Security reduced from four commandos to two the day before assassination
+  - Ankit Sirsa arrested in Delhi on 3 July
+  - Deepak Mundi arrested near Bengal-Nepal border in September
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 11 facts verified · 0 corrections
+
+Verified: killed 29 May 2022 age 28, AN-94 at scene, 19 bullet wounds per Tribune India autopsy report (other outlets cite 24-25 due to counting methodology differences), died within 15 minutes, Goldy Brar/Lawrence Bishnoi gang responsibility, security reduction day before. All major claims confirmed.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- His murder exposed fissures in Punjab's relationship with celebrity, security, and the organized crime networks that operate in the spaces between them
+
+---
+
+*Word count: 820*
+*Read time: 4 minutes*

@@ -473,5 +473,26 @@
     "_m/s/r/s/w/mostar-wk/bazar-mostar.jpg",
     "_m/s/r/s/w/mostar-wk/viewing-platform-hill.jpg",
     "_m/s/r/s/w/mostar-wk/cat-mostar.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "srsw-mostar-flight-context.mp3",
+      "srsw-mostar-intro.mp3",
+      "srsw-mostar-where-the-neretva-divides-and-connects.mp3",
+      "srsw-mostar-the-city-that-was-most-diverse.mp3",
+      "srsw-mostar-ruins-and-rebuilding.mp3",
+      "srsw-mostar-the-everyday-pleasures.mp3",
+      "srsw-mostar-a-city-still-becoming.mp3"
+    ],
+    "durations": {
+      "srsw-mostar-flight-context.mp3": 48.4968333,
+      "srsw-mostar-intro.mp3": 51.6964166,
+      "srsw-mostar-where-the-neretva-divides-and-connects.mp3": 56.0355416,
+      "srsw-mostar-the-city-that-was-most-diverse.mp3": 68.8179166,
+      "srsw-mostar-ruins-and-rebuilding.mp3": 59.209625,
+      "srsw-mostar-the-everyday-pleasures.mp3": 62.0085,
+      "srsw-mostar-a-city-still-becoming.mp3": 61.3669166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

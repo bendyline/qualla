@@ -1,0 +1,61 @@
+# Spectacle Reef Light
+
+The most expensive lighthouse ever built on the Great Lakes rises from a reef shaped like eyeglasses, a monument to the engineering ambition that followed shipwreck and disaster in northern Lake Huron.
+
+**Location:** 45.7733, -84.1367
+
+**Categories:** Lighthouses completed in 1874, Lighthouses on the National Register of Historic Places in Michigan, National Register of Historic Places in Cheboygan County, Michigan, Lighthouses of Lake Huron
+
+## Introduction
+
+When keepers returned to the newly completed tower after the winter of 1873-74, they found ice piled against the walls higher than the doorway. They could not enter the lighthouse until they had cut their way through an iceberg with the tower frozen at its core. This was the reality of Spectacle Reef Light, the most expensive lighthouse ever constructed on the Great Lakes, planted on a submerged reef east of the Straits of Mackinac where Lake Huron's fury meets the shipping lanes that connect the upper and lower Great Lakes.
+
+## A Reef That Eats Ships
+
+The reef earned its name from its shape: two lobes connected by a narrow bar, like a pair of eyeglasses lying on the lake bottom. Through the 1860s, this hidden formation devoured vessels. Two schooners ran aground and broke apart on the reef in 1867 alone. The cumulative cost of lost ships and cargo eventually persuaded Congress that building a light would be cheaper than continued wreckage. A buoy marked the site beginning in 1868, but a buoy was not enough. The reef sat directly in the path of commercial traffic moving through the Straits of Mackinac. Lake freighters and passenger steamers passing between Lake Huron and Lake Michigan had to thread past Spectacle Reef, and without a proper light, they were doing it blind in fog and storms.
+
+## Engineering at the Edge
+
+Colonel Orlando Metcalfe Poe and Major Godfrey Weitzel, both veterans of the Civil War, designed and oversaw the construction. The challenge was extraordinary: building a permanent stone tower on a submerged reef in open water, exposed to ice, wind, and waves with no natural shelter. Construction began in 1870. The builders first sank a massive timber crib to the lake floor, constructing it on slipways at a depot like a ship, then launching and towing it by tugboat to the reef site, where it was grounded and sunk into position. Inside this protective crib, workers laid the foundation within a cofferdam, working in conditions that tested endurance and nerve. The lighthouse that rose above the reef was monumental, with attached fog signal building, oil house, and storage facilities. Davits allowed keepers to raise and lower boats in seas too rough for a conventional dock.
+
+## Gales and Icebergs
+
+In September 1872, before construction was even complete, a severe gale damaged the lighthouse badly enough to require expensive repairs. The isolation of the reef made every repair a logistical ordeal. No wind speed instruments monitored the site in winter, though comparable storms on Lake Superior at Granite Island produced recorded wind speeds that suggest what Spectacle Reef endured. The winter ice posed a threat that no amount of engineering could fully neutralize. Season after season, Lake Huron packed ice around the tower until the lighthouse became the frozen core of an enormous iceberg. Keepers arriving in spring had to hack through walls of ice just to reach the door. The conditions demanded a particular kind of person: someone willing to live for months on a rock in the middle of a lake that could kill them.
+
+## A Century of Light and Legacy
+
+The United States Lighthouse Board operated an enormous network on the Great Lakes. By the turn of the twentieth century, the Board ran 334 major lights, 67 fog horns, and 563 buoys across the lakes. Spectacle Reef was among the most significant and most costly of these installations. In the 1870s alone, the Board built 43 new lights on the lakes; during the 1880s, more than 100. Spectacle Reef represented the pinnacle of that building campaign, proof that American engineering could plant a permanent structure on virtually any hazard. The lighthouse's Fresnel lens was removed in 1982 and now sits on display at the Inland Seas Maritime Museum, also known as the Great Lakes Historical Society Museum. In 1995, the United States Postal Service chose Spectacle Reef as one of five lighthouses for the Lighthouses of the Great Lakes stamp series, designed by Howard Koslow. One lighthouse was selected from each Great Lake: Split Rock on Superior, St. Joseph on Michigan, Spectacle Reef on Huron, Marblehead on Erie, and Thirty Mile Point on Ontario.
+
+## Rescue and Restoration
+
+For decades after automation, Spectacle Reef Light stood alone on its reef, battered by the same forces that had always tried to destroy it. Paint peeled, metal corroded, and the interior deteriorated without the daily maintenance that keepers once provided. In 2020, the Spectacle Reef Preservation Society formed and began the work of restoring the lighthouse. The effort requires hauling materials across open water to a reef with no harbor, no dock, and no shelter from the weather, echoing the original construction challenges of the 1870s. The preservation work represents a broader movement across the Great Lakes to save these isolated reef lights before Lake Huron reclaims them. Every repair on Spectacle Reef is a small victory against the same ice, wind, and waves that Orlando Poe and Godfrey Weitzel battled a century and a half ago.
+
+## Flight Context
+
+Spectacle Reef Light stands at 45.773N, 84.137W in open water in northern Lake Huron, east of the Straits of Mackinac. The solitary tower rises from the lake surface with no surrounding land, making it a dramatic sight from altitude. Look for the white tower structure surrounded by blue water between Bois Blanc Island to the west and the open lake to the east. Nearest airports: Pellston Regional Airport (KPLN) approximately 20nm northwest, Mackinac Island Airport (KMCD) approximately 12nm west. Best viewed at 2,000-4,000 feet AGL. Weather in the Straits area can change rapidly.
+
+## Sources
+
+- [Spectacle Reef Light - Wikipedia](https://en.wikipedia.org/?curid=19991599)
+  - Most expensive lighthouse ever built on the Great Lakes confirmed
+  - Construction began 1870, completed/entered service June 1874 confirmed
+  - Designed and built by Colonel Orlando Metcalfe Poe and Major Godfrey Weitzel confirmed
+  - Fresnel lens removed 1982 and now on display at Inland Seas Maritime Museum confirmed
+  - 1995 USPS stamp series 'Lighthouses of the Great Lakes' designed by Howard Koslow confirmed
+  - Corrected: stamp list previously omitted Marblehead on Lake Erie; five stamps cover all five Great Lakes: Superior, Michigan, Huron, Erie, Ontario
+- [Spectacle Reef Preservation Society](https://spectaclereef.org/)
+  - Spectacle Reef Preservation Society actively working on restoration confirmed
+  - Reef sits approximately 11 miles east of Straits of Mackinac confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-27 · 10 facts verified · 1 correction
+
+Facts verified: most expensive Great Lakes lighthouse, construction 1870-1874, Poe and Weitzel design, Fresnel lens removed 1982 now at Inland Seas Maritime Museum, 1995 USPS stamp series. Fixed: stamp list omitted Marblehead on Lake Erie - article claimed one lighthouse from each Great Lake but only listed 4 of 5; added Marblehead on Erie to complete the list.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 790*
+*Read time: 4 minutes*

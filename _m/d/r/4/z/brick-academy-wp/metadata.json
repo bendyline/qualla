@@ -86,5 +86,24 @@
   "galleryPaths": [
     "_m/d/r/4/z/brick-academy-wp/basking-ridge-classical-school.jpg"
   ],
-  "updatedAt": "2026-03-30T11:03:30.504Z"
+  "updatedAt": "2026-03-30T11:03:30.504Z",
+  "narration": {
+    "files": [
+      "dr4z-brick-academy-flight-context.mp3",
+      "dr4z-brick-academy-intro.mp3",
+      "dr4z-brick-academy-the-reverends-pipeline-to-princeton.mp3",
+      "dr4z-brick-academy-brick-and-mortar-name-and-legend.mp3",
+      "dr4z-brick-academy-from-schoolhouse-to-municipal-building.mp3",
+      "dr4z-brick-academy-a-classroom-that-outlasted-its-students.mp3"
+    ],
+    "durations": {
+      "dr4z-brick-academy-flight-context.mp3": 42.069125,
+      "dr4z-brick-academy-intro.mp3": 37.2611666,
+      "dr4z-brick-academy-the-reverends-pipeline-to-princeton.mp3": 63.559125,
+      "dr4z-brick-academy-brick-and-mortar-name-and-legend.mp3": 54.6207916,
+      "dr4z-brick-academy-from-schoolhouse-to-municipal-building.mp3": 53.1512916,
+      "dr4z-brick-academy-a-classroom-that-outlasted-its-students.mp3": 55.6599583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

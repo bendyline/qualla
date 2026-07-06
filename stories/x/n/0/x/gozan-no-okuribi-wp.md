@@ -1,0 +1,53 @@
+# Gozan no Okuribi
+
+Every August 16, five enormous bonfires blaze to life on the mountains ringing Kyoto, each burning a giant kanji character or sacred shape into the night sky -- the city's way of guiding ancestral spirits back to the world beyond.
+
+**Location:** 35.0231, 135.8039
+
+**Categories:** festival, cultural-heritage, buddhism, kyoto, fire-ceremony
+
+## Introduction
+
+Darkness has barely settled over Kyoto when the first fire appears. At precisely 8 pm on August 16, the character dai -- meaning "great" -- ignites on the slopes of Daimonji-yama, its strokes stretching across the mountainside in lines of flame visible from nearly every rooftop in the city. Within twenty minutes, four more fires follow on surrounding peaks: a second dai, the kanji for "wondrous dharma," the outline of a boat, and the silhouette of a torii gate. For half an hour, the ancient capital burns with a light that has nothing to do with destruction and everything to do with farewell. This is Gozan no Okuribi, the culmination of Obon, and its purpose is singular: to light the way home for the dead.
+
+## The Five Fires
+
+Each of the five bonfires carries its own meaning and occupies its own mountain. The first and most famous dai blazes on Nyoigatake in the Higashiyama range, its three bold strokes of the character for "great" the signature image of the festival. Five minutes later, the characters for myo and ho -- together meaning "wondrous dharma," a reference to Buddhist teachings -- appear on the twin peaks of Matsugasaki. At 8:10, the shape of a boat ignites on Funa-yama in Nishigamo. At 8:15, a second, smaller dai blazes on Hidaridaimonji-san. The final fire, a torii shrine gate, flares on Mandara-san at 8:20. By half past eight, all five burn together. Each lasts roughly thirty minutes. The sequence is not random but choreographed, a slow unfolding calibrated so that watchers can turn from mountain to mountain as each new fire reveals itself against the summer sky.
+
+## Sending Off the Dead
+
+Gozan no Okuribi belongs to Obon, the Buddhist observance when the spirits of deceased ancestors are believed to return to the living world. For three days, families clean graves, set out offerings of fruit and flowers, and light small welcome fires at their doorways to guide the returning spirits home. The bonfires on August 16 serve the opposite purpose: they are farewell fires, okuribi, meant to illuminate the path for spirits departing back to the other world. The name itself -- gozan, five mountains; okuribi, sending-off fire -- describes the act plainly. There is grief in the ceremony, but also a certain tenderness. The fires say: we welcomed you, we fed you, we remembered you, and now we light your way as you leave. The origins of the tradition are obscure, with no firm historical record of when the custom began, though it is believed to be ancient. What is clear is that specific Kyoto families have held the hereditary duty of organizing the bonfires for generations, volunteering many hours each year to maintain the fires and their mountainside infrastructure.
+
+## A City Built for Watching
+
+Kyoto's geography makes the festival a citywide spectacle. The mountains form a natural amphitheater around the basin where the city sits, and the fires burn high enough to be seen from miles away. The best vantage points cluster around Nakagyo Ward in the central city, where hotels offer special rooftop viewing packages. Along the Kamo River between Sanjo and Imadegawa streets, crowds gather on the banks and bridges, their faces lit orange by the reflections off the water. Some viewers try to spot all five fires from a single location, though the surrounding terrain makes this a challenge -- each bonfire reveals different aspects of the city's relationship to the mountains that frame it. The atmosphere is contemplative rather than boisterous. Families sit on mats along the riverbanks, eating quietly, pointing toward the peaks as each successive fire catches.
+
+## Resilience in Flame
+
+The festival has endured centuries of upheaval in Kyoto -- civil wars, fires that consumed much of the city, and the radical modernization of the Meiji era. In 2020, the COVID-19 pandemic forced the most dramatic alteration in living memory: instead of the full blazing characters, only six scattered points of light were lit on the main Daimonji slope, with a single point at each of the other four sites. The skeletal fires were an eerie sight, the familiar shapes reduced to constellations rather than conflagrations. Yet the ceremony still took place. The families who tend the fires still climbed the mountains, still set torch to wood, still performed the rites. The message endured even when the medium shrank: the dead were still sent home. By the following years, the full fires returned, the mountains once again ablaze with characters large enough to read from across the valley.
+
+## Flight Context
+
+Centered at 35.023N, 135.804E on the mountains surrounding the Kyoto basin. The five fire sites are spread across peaks northeast, north, and northwest of central Kyoto. Best viewed from 3,000-5,000 feet AGL on the evening of August 16. The Kyoto basin is ringed by mountains on three sides, with the city grid clearly visible below. Nearest major airports: Osaka Itami (RJOO) approximately 20nm southwest, Kansai International (RJBB) approximately 45nm south. Kyoto itself has no commercial airport. Summer weather brings warm, humid conditions with occasional thunderstorm activity; clear evenings reveal the city's grid-pattern streets aligned with the surrounding topography.
+
+## Sources
+
+- [Gozan no Okuribi - Wikipedia](https://en.wikipedia.org/?curid=3225440)
+  - August 16 date confirmed
+  - 8:00 PM start for Daimonji confirmed
+  - Myoho at 8:05, Funagata at 8:10, Hidari Daimonji at 8:15, Toriigata at 8:20 confirmed (corrected simultaneous error)
+  - each fire burns approximately 30 minutes confirmed
+  - Daimonji on Nyoigatake in Higashiyama range confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 5 facts verified · 1 correction
+
+Corrected fire timing error: story said Funagata and Hidari Daimonji ignite simultaneously at 8:15, but correct schedule is Funagata 8:10 then Hidari Daimonji 8:15. Also verified Aug 16 date, 8pm start, 30-minute burn duration, Daimonji on Nyoigatake. Spiciness 2 - factual, atmospheric but no strong opinions.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 740*
+*Read time: 4 minutes*

@@ -636,5 +636,24 @@
     "_m/s/0/w/z/palace-of-king-bell-wp/palais-du-roi-bell.jpg",
     "_m/s/0/w/z/palace-of-king-bell-wp/le-palace-des-king-bell.jpg"
   ],
-  "updatedAt": "2026-03-31T03:38:32.694Z"
+  "updatedAt": "2026-03-31T03:38:32.694Z",
+  "narration": {
+    "files": [
+      "s0wz-palace-of-king-bell-flight-context.mp3",
+      "s0wz-palace-of-king-bell-intro.mp3",
+      "s0wz-palace-of-king-bell-a-kings-fortune.mp3",
+      "s0wz-palace-of-king-bell-the-hanging-of-rudolph.mp3",
+      "s0wz-palace-of-king-bell-an-empty-throne.mp3",
+      "s0wz-palace-of-king-bell-between-monument-and-memory.mp3"
+    ],
+    "durations": {
+      "s0wz-palace-of-king-bell-flight-context.mp3": 40.759625,
+      "s0wz-palace-of-king-bell-intro.mp3": 44.8593333,
+      "s0wz-palace-of-king-bell-a-kings-fortune.mp3": 61.554875,
+      "s0wz-palace-of-king-bell-the-hanging-of-rudolph.mp3": 60.2870833,
+      "s0wz-palace-of-king-bell-an-empty-throne.mp3": 48.993875,
+      "s0wz-palace-of-king-bell-between-monument-and-memory.mp3": 62.4424583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

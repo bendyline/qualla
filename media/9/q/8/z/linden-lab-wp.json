@@ -1,0 +1,37 @@
+{
+  "id": "linden-lab-wp",
+  "patch": {
+    "media": {
+      "hero": {
+        "path": "_m/9/q/8/z/linden-lab-wp/hero.jpg",
+        "filename": "SL Catfish.jpg",
+        "caption": "Second Life Vehicles",
+        "alt": "Second Life Vehicles",
+        "width": 800,
+        "height": 600,
+        "mimeType": "image/jpeg",
+        "license": "CC BY-SA 3.0",
+        "artist": "Walt Faulds",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:SL_Catfish.jpg",
+        "sourceType": "core",
+        "sourceArticleId": "linden-lab-wp",
+        "sourceGeohash4": "9q8z",
+        "categories": [
+          "CC-BY-SA-3.0",
+          "Images from Second Life",
+          "Self-published work",
+          "Ships from Second Life"
+        ],
+        "smallPath": "_m/9/q/8/z/linden-lab-wp/hero-small.webp"
+      },
+      "narration": [
+        "_m/9/q/8/z/linden-lab-wp/9q8z-linden-lab-flight-context.mp3",
+        "_m/9/q/8/z/linden-lab-wp/9q8z-linden-lab-intro.mp3",
+        "_m/9/q/8/z/linden-lab-wp/9q8z-linden-lab-building-a-world.mp3",
+        "_m/9/q/8/z/linden-lab-wp/9q8z-linden-lab-the-early-metaverse.mp3",
+        "_m/9/q/8/z/linden-lab-wp/9q8z-linden-lab-still-running.mp3"
+      ],
+      "combinedNarration": "_m/9/q/8/z/linden-lab-wp/9q8z-linden-lab-combined.mp3"
+    }
+  }
+}

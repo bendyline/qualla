@@ -57,5 +57,24 @@
     "sourceGeohash4": "qun4"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qun4-coniston-massacre-flight-context.mp3",
+      "qun4-coniston-massacre-intro.mp3",
+      "qun4-coniston-massacre-the-fourth-year-of-drought.mp3",
+      "qun4-coniston-massacre-the-killing-of-fred-brooks.mp3",
+      "qun4-coniston-massacre-the-punitive-expeditions.mp3",
+      "qun4-coniston-massacre-exoneration-and-memory.mp3"
+    ],
+    "durations": {
+      "qun4-coniston-massacre-flight-context.mp3": 51.93225,
+      "qun4-coniston-massacre-intro.mp3": 43.9347083,
+      "qun4-coniston-massacre-the-fourth-year-of-drought.mp3": 46.1830416,
+      "qun4-coniston-massacre-the-killing-of-fred-brooks.mp3": 59.75475,
+      "qun4-coniston-massacre-the-punitive-expeditions.mp3": 50.7048333,
+      "qun4-coniston-massacre-exoneration-and-memory.mp3": 52.1035416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

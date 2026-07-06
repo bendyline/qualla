@@ -1258,5 +1258,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sy5h-palmyra-flight-context.mp3",
+      "sy5h-palmyra-intro.mp3",
+      "sy5h-palmyra-oasis-of-ambition.mp3",
+      "sy5h-palmyra-the-caravan-kingdom.mp3",
+      "sy5h-palmyra-the-queen-who-challenged-rome.mp3",
+      "sy5h-palmyra-two-millennia-of-survival.mp3",
+      "sy5h-palmyra-what-remains.mp3"
+    ],
+    "durations": {
+      "sy5h-palmyra-flight-context.mp3": 56.7285833,
+      "sy5h-palmyra-intro.mp3": 50.9472083,
+      "sy5h-palmyra-oasis-of-ambition.mp3": 67.4664583,
+      "sy5h-palmyra-the-caravan-kingdom.mp3": 66.225125,
+      "sy5h-palmyra-the-queen-who-challenged-rome.mp3": 72.2504166,
+      "sy5h-palmyra-two-millennia-of-survival.mp3": 56.2771666,
+      "sy5h-palmyra-what-remains.mp3": 71.374125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

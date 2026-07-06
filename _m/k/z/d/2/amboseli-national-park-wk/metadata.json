@@ -555,5 +555,24 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kzd2-amboseli-national-park-flight-context.mp3",
+      "kzd2-amboseli-national-park-intro.mp3",
+      "kzd2-amboseli-national-park-the-mountains-gift.mp3",
+      "kzd2-amboseli-national-park-nine-hundred-elephants.mp3",
+      "kzd2-amboseli-national-park-observation-hill.mp3",
+      "kzd2-amboseli-national-park-dust-and-distance.mp3"
+    ],
+    "durations": {
+      "kzd2-amboseli-national-park-flight-context.mp3": 54.4129166,
+      "kzd2-amboseli-national-park-intro.mp3": 46.0221666,
+      "kzd2-amboseli-national-park-the-mountains-gift.mp3": 70.4831666,
+      "kzd2-amboseli-national-park-nine-hundred-elephants.mp3": 60.036375,
+      "kzd2-amboseli-national-park-observation-hill.mp3": 72.8942916,
+      "kzd2-amboseli-national-park-dust-and-distance.mp3": 72.0352083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

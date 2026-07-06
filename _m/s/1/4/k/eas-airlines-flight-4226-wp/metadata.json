@@ -52,5 +52,26 @@
     "sourceGeohash4": "s14k"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "s14k-eas-airlines-flight-4226-flight-context.mp3",
+      "s14k-eas-airlines-flight-4226-intro.mp3",
+      "s14k-eas-airlines-flight-4226-an-aircraft-with-many-lives.mp3",
+      "s14k-eas-airlines-flight-4226-the-wrong-runway-the-wrong-habits.mp3",
+      "s14k-eas-airlines-flight-4226-dust-impact-and-descent.mp3",
+      "s14k-eas-airlines-flight-4226-a-neighborhood-in-ashes.mp3",
+      "s14k-eas-airlines-flight-4226-the-reckoning-that-followed.mp3"
+    ],
+    "durations": {
+      "s14k-eas-airlines-flight-4226-flight-context.mp3": 45.1021666,
+      "s14k-eas-airlines-flight-4226-intro.mp3": 59.7253333,
+      "s14k-eas-airlines-flight-4226-an-aircraft-with-many-lives.mp3": 69.0417916,
+      "s14k-eas-airlines-flight-4226-the-wrong-runway-the-wrong-habits.mp3": 59.13825,
+      "s14k-eas-airlines-flight-4226-dust-impact-and-descent.mp3": 64.568125,
+      "s14k-eas-airlines-flight-4226-a-neighborhood-in-ashes.mp3": 64.9901666,
+      "s14k-eas-airlines-flight-4226-the-reckoning-that-followed.mp3": 72.205875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

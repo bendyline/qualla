@@ -1,0 +1,70 @@
+# Pad 39A: The Most Storied Launch Pad on Earth
+
+From the Apollo 11 moonshot to the final Space Shuttle flight to SpaceX's Falcon Heavy maiden voyage, Launch Complex 39A has hosted more historic launches than any other pad in the world -- and it is still adding to the list.
+
+**Location:** 28.6083, -80.6044
+
+**Categories:** space, nasa, apollo, spacex, florida, engineering, artemis
+
+## Introduction
+
+On the morning of July 16, 1969, the Saturn V rocket carrying Apollo 11 cleared the tower at Pad 39A and climbed into a Florida sky watched by an estimated one million spectators lining the highways and beaches of Brevard County. Four days later, Neil Armstrong stepped onto the Moon. That single launch would have been enough to secure 39A's place in history. But the pad was not finished. Over the next five decades, it would host 12 Saturn V launches, 82 Space Shuttle missions, and then -- after sitting dormant for nearly six years -- roar back to life under new management. In 2014, SpaceX signed a 20-year lease, and Pad 39A became the unlikely meeting point of government-era space hardware and Silicon Valley ambition.
+
+## Moonport Origins
+
+Pad 39A was built in the mid-1960s as part of NASA's massive expansion onto Merritt Island. President Kennedy's 1961 challenge to land a man on the Moon by decade's end demanded launch infrastructure on a scale never attempted. The pad was originally designated 39C in early plans that numbered the complex's pads from north to south, but when NASA decided to build only two of three planned pads in March 1963, the naming flipped. The southernmost pad became 39A. It was designed from the start for the Saturn V -- at 363 feet, the tallest and most powerful rocket ever flown. The first launch from 39A came on November 9, 1967, when the uncrewed Apollo 4 mission validated the entire Saturn V system in a single all-up test. Every crewed Apollo lunar mission except Apollo 10 launched from this pad. The Skylab space station also departed from 39A on May 14, 1973, riding a modified Saturn V originally built for the cancelled Apollo 18.
+
+## The Shuttle Years
+
+After Apollo, Pad 39A was remodeled for the Space Shuttle program. The Apollo-era mobile service structure gave way to a Fixed Service Structure and a Rotating Service Structure, which swung into position to enclose the Shuttle orbiter for payload installation. In 1979, the prototype orbiter Enterprise arrived at the pad for fit-check testing before the first operational launch. STS-1 launched from 39A on April 12, 1981, with astronauts John Young and Robert Crippen aboard Columbia. For the next three decades, 39A was the workhorse pad. It hosted 82 of the 135 Shuttle missions, including both triumphant returns to flight after the Challenger and Columbia disasters. The final Space Shuttle launch -- Atlantis on STS-135, July 8, 2011 -- departed from 39A, leaving the pad quiet for the first time since the 1960s. In total, 94 launches rose from this single slab of concrete between 1967 and 2011: 12 Saturn Vs and 82 Shuttles.
+
+## A Bidding War for History
+
+After the Shuttle retired, Pad 39A's future was uncertain. NASA considered handing it to Space Florida, the state's aerospace development agency, but no agreement materialized. In May 2013, NASA formally solicited commercial proposals. Two bidders emerged: SpaceX, seeking exclusive use, and Blue Origin, proposing a shared multi-user arrangement that would have included United Launch Alliance. Blue Origin filed a protest with the Government Accountability Office before NASA had even announced results, arguing that the process favored SpaceX. The GAO denied the protest in December 2013, ruling that NASA's solicitation made no distinction between exclusive and shared use. On April 14, 2014, SpaceX CEO Elon Musk stood at a podium near the pad and signed the 20-year lease. The company immediately began transforming the site, constructing a Horizontal Integration Facility to assemble Falcon rockets on their sides -- a fundamental departure from the vertical stacking that had defined the pad for half a century.
+
+## The SpaceX Era
+
+SpaceX's first launch from 39A came on February 19, 2017 -- a Falcon 9 carrying cargo to the International Space Station, the first uncrewed launch from the pad since Skylab in 1973. The pace accelerated quickly. On February 6, 2018, the Falcon Heavy's maiden flight departed from 39A, carrying Elon Musk's cherry-red Tesla Roadster on a trajectory beyond Mars while two side boosters returned to synchronized landings at Cape Canaveral. On May 30, 2020, astronauts Bob Behnken and Doug Hurley launched aboard Crew Dragon from 39A for the Demo-2 mission, the first crewed orbital flight from American soil since the Shuttle's retirement. By May 2024, the Falcon 9 had launched from 39A 83 times, surpassing the Space Shuttle's 82-launch record from the same pad. SpaceX also returned the pad to lunar missions in February 2024, launching the Intuitive Machines IM-1 lander for NASA's Commercial Lunar Payload Services program.
+
+## Building for Starship
+
+Even as Falcon 9 and Falcon Heavy continue to launch regularly from 39A, SpaceX has been constructing a separate Starship orbital launch facility on the same site. Tower segments began arriving in June 2022. The Starship launch mount, designed to handle the thrust of 33 Raptor engines producing a combined 16.5 million pounds of force, is under construction adjacent to the Falcon infrastructure. In early 2025, SpaceX scrapped the original launch mount design in favor of a new one fabricated at the company's Roberts Road facility, which was transported to the pad in November 2025. Future plans include two landing zones for Falcon booster return-to-launch-site operations and a catch-only tower for recovering Starship vehicles. Pad 39A, built for one rocket and one government agency, is becoming a multi-vehicle commercial spaceport -- still launching, still evolving, still writing history on the same patch of Florida coastline where the Moon shots began.
+
+## Flight Context
+
+Launch Complex 39A is located at 28.608°N, 80.604°W on Merritt Island, Kennedy Space Center, Florida. The pad is situated on the Atlantic coast east-northeast of the Vehicle Assembly Building. From the air, the pad structure, flame trench, and SpaceX's Horizontal Integration Facility are visible. The Starship launch tower under construction is an increasingly prominent landmark. Best viewed at 3,000-5,000 feet AGL. Nearby airports include KTIX (Space Coast Regional, Titusville) and KMLB (Melbourne Orlando International). Kennedy Space Center lies within restricted airspace (P-093); verify NOTAMs and obtain clearance before overflying. On launch days, temporary flight restrictions extend considerably further.
+
+## Sources
+
+- [Kennedy Space Center Launch Complex 39A - Wikipedia](https://en.wikipedia.org/?curid=1098230)
+- [Apollo 4 was First-Ever Launch from NASA Kennedy Space Center - NASA](https://www.nasa.gov/centers-and-facilities/kennedy/apollo-4-was-first-ever-launch-from-nasas-kennedy-space-center/)
+  - Apollo 4 first launch from 39A on November 9, 1967
+  - Saturn V uncrewed all-up test
+- [GAO Denies Blue Origin Bid Protest of Pad 39A Lease - SpaceNews](https://spacenews.com/38641gao-denies-blue-origins-bid-protest-of-pad-39a-lease/)
+  - Blue Origin filed GAO protest
+  - GAO denied protest December 2013
+  - SpaceX signed 20-year lease April 2014
+- [SpaceX breaks Space Shuttle pad record - Spaceflight Now](https://spaceflightnow.com/2024/05/08/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-florida/)
+  - Falcon 9 surpassed 82 Shuttle launches from 39A by May 2024
+  - STS-135 Atlantis last shuttle launch July 8 2011 from 39A
+- [Starship program at Cape Canaveral - NASASpaceFlight.com](https://www.nasaspaceflight.com/2025/02/starship-program-at-cape/)
+  - Starship launch mount scrapped early 2025
+  - New mount transported November 2025
+  - 33 Raptor engines on Super Heavy
+
+## Review Notes
+
+**Reviewed:** 2026-02-12 · 15 facts verified · 0 corrections
+
+All key facts verified: Apollo 4 date, Saturn V count, Shuttle count, SpaceX lease details, GAO protest, Falcon 9/Heavy launch milestones, Starship construction timeline. Minor stylistic note about Silicon Valley ambition metaphor. No factual corrections needed.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Silicon Valley ambition
+
+---
+
+*Word count: 860*
+*Read time: 5 minutes*

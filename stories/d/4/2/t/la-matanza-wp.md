@@ -1,0 +1,68 @@
+# La Matanza
+
+In January 1932, a peasant uprising in western El Salvador was crushed in days -- the government killings that followed lasted weeks, and the silence imposed on indigenous communities lasted generations.
+
+**Location:** 13.6660, -89.1660
+
+**Categories:** 1932 in El Salvador, Conflicts in 1932, Massacres in El Salvador, Pipil people, History of El Salvador
+
+## Introduction
+
+"The peasants will win with their machetes the rights you are denying them," Alfonso Luna told Colonel Joaquin Valdes during a last-ditch negotiation at El Salvador's National Palace in January 1932. Valdes replied: "You have machetes; we have machine guns." The exchange proved prophetic. Within days, thousands of Pipil peasants and communist organizers rose up across western El Salvador with sticks, machetes, and poor-quality shotguns. Within a week, the army had crushed them. What followed was not a restoration of order but a campaign of extermination -- indiscriminate mass killings that lasted two weeks and claimed between 10,000 and 40,000 lives, most of them indigenous civilians who had never taken up arms. The event became known simply as La Matanza: The Massacre.
+
+## Coffee, Hunger, and the Fourteen Families
+
+The roots of the uprising lay in El Salvador's coffee economy. By 1929, coffee and coffee beans accounted for 75 to 95 percent of the country's exports, and the profits were concentrated in the hands of the so-called Fourteen Families -- the landed oligarchy that controlled the plantations. Below them, a rigid class structure held peasants and workers at the bottom. When the Great Depression collapsed global coffee prices, plantation owners could no longer pay their laborers. National income fell by half. Wages dropped from 40-50 cents per day to 20 cents. Rural El Salvador was starving while the political system offered no relief. In 1920, a coalition of students, teachers, and artisans had founded the Regional Federation of Salvadoran Workers, the country's first trade union. By 1930, Farabundo Marti and Miguel Marmol had established the Communist Party of El Salvador. A presidential election in 1931 -- considered the first free and fair vote in Salvadoran history -- briefly raised hopes, but a military coup in December of that year brought General Maximiliano Hernandez Martinez to power and extinguished them.
+
+## Stolen Elections and a Doomed Revolt
+
+Martinez's government scheduled municipal and legislative elections for January 1932. When communist candidates began winning municipal races in western El Salvador, the government canceled the results. The legislative elections proceeded, but early returns showing a communist victory in San Salvador were overridden by delayed official tallies declaring non-communist winners. At least thirty communists were killed in Ahuachapan during the electoral process. Convinced that legal paths to power had been closed, party leaders began planning an armed revolt. Before they could act, Marti, Luna, and Mario Zapata were arrested on January 18 -- though the arrests were not announced publicly until the 20th. The government even instructed newspapers to report on January 21 that a rebellion was planned for the following day. Some historians have argued that Martinez deliberately allowed the revolt to proceed, knowing it would fail, so he could crush it and consolidate his power. Whether by design or indifference, the trap was set.
+
+## Three Days of Uprising
+
+Late on the night of January 22, 1932, thousands of peasants in western El Salvador rose in rebellion. Armed with machetes, sticks, and a few shotguns, they attacked telegraph offices, captured towns, and turned their fury on symbols of wealth. Rebels took control of Colon, Juayua, Nahuizalco, Salcoatitan, Sonzacate, and Tacuba. In Izalco, the influential Pipil leader Feliciano Ama rallied indigenous rebels to join the communist insurgents. Businesses and homes were destroyed, with property damage estimated at around 300,000 Salvadoran colones. An estimated 2,000 people were killed during the uprising itself. But the rebels were outmatched from the start. A telegram from Izalco reached the military garrison in Sonsonate before the telegraph office was destroyed, and soldiers moved quickly to engage. By January 25, the army had recaptured every town. The rebellion was over. What came next was not.
+
+## The Killing Fields of Western El Salvador
+
+On January 25, reinforcements under General Jose Tomas Calderon arrived in Sonsonate and began systematic reprisals. The targets were not combatants but communities -- specifically, indigenous Pipil communities. Soldiers used appearance, dress, and language to decide who would live and who would die. In several towns, the entire male population was gathered in the central square and cut down by machine gun fire. The killings continued for two weeks, until the government decided the region had been sufficiently "pacified." Marti, Luna, and Zapata were executed by firing squad on February 1. Ama was captured on January 25 and lynched in a plaza in Izalco on January 28. Refugees who tried to flee to Guatemala were turned back at the border by President Jorge Ubico and handed over to the Salvadoran Army. On July 11, 1932, the Legislative Assembly passed Directive 121, granting unconditional amnesty to anyone who had committed crimes in order to "restore order" -- an amnesty that shielded the perpetrators while burying the victims' claims to justice.
+
+## A Language Nearly Silenced
+
+Scholars have described the government's campaign as an ethnocide. Because the army used indigenous identity markers to select its victims, the message to surviving Pipil communities was unmistakable: being visibly indigenous was dangerous. In the decades that followed, Salvadoran indigenous peoples abandoned their traditional dress and languages. The Pipil-speaking population, already devastated by the killings, dwindled further as survivors and their children chose Spanish and Western clothing to avoid being targeted again. By the 21st century, the recorded population willing to self-identify as indigenous had fallen to roughly 10 percent. The massacre shaped El Salvador's political future as well. Martinez consolidated power, ruling as dictator until 1944. In 1980, left-wing groups formed the Farabundo Marti National Liberation Front -- the FMLN -- naming it after the executed communist leader. In 2010, President Mauricio Funes became the first Salvadoran head of state to formally apologize to the country's indigenous communities. In Izalco, survivors and their descendants still gather every January 22 to remember what happened -- and what was nearly erased.
+
+## Flight Context
+
+The events of La Matanza took place across western El Salvador, centered on towns including Izalco (13.745N, 89.673W), Juayua, Nahuizalco, and Sonsonate. The article's coordinates (13.666N, 89.166W) place it near San Salvador's historic center, which served as the political command center for the government response. The region is a lush volcanic landscape of coffee-growing highlands. Nearest major airport is El Salvador International (MSLP). The volcanic cones of Izalco and Santa Ana are prominent visual landmarks from the air.
+
+## Sources
+
+- [La Matanza - Wikipedia](https://en.wikipedia.org/?curid=4110820)
+  - January 22 1932 uprising date confirmed
+  - Death toll range 10,000-40,000 confirmed as cited range (though many sources cite 10,000-30,000 as more common estimate)
+  - Farabundo Marti, Alfonso Luna, Mario Zapata arrested January 18 confirmed
+  - Rebels took Colon, Juayua, Nahuizalco, Salcoatitan, Sonzacate, Tacuba confirmed
+  - Feliciano Ama rallied indigenous rebels at Izalco confirmed
+  - Property damage ~300,000 colones confirmed
+  - Marti, Luna, Zapata executed by firing squad February 1 confirmed
+  - Ama lynched in Izalco plaza January 28 confirmed
+  - Legislative Assembly amnesty Directive 121 July 11 1932 confirmed
+  - President Mauricio Funes apology to indigenous communities 2010 confirmed
+  - FMLN founded 1980 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 11 facts verified · 0 corrections
+
+All key facts verified: January 22 1932 date, death toll 10000-40000 range cited in Wikipedia, Marti/Luna/Zapata arrested January 18, towns confirmed, property damage 300000 colones confirmed, Ama lynched January 28, amnesty law July 11 1932, Funes apology 2010, FMLN 1980.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- described as an ethnocide
+- campaign of extermination -- indiscriminate mass killings
+
+---
+
+*Word count: 880*
+*Read time: 5 minutes*

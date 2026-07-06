@@ -123,5 +123,24 @@
   "galleryPaths": [
     "_m/s/0/r/0/monte-alen-national-park-wp/goliathfrosch-conraua.jpg",
     "_m/s/0/r/0/monte-alen-national-park-wp/monte-alen-national-pa.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "s0r0-monte-al-n-national-park-flight-context.mp3",
+      "s0r0-monte-al-n-national-park-intro.mp3",
+      "s0r0-monte-al-n-national-park-a-countrys-green-heart.mp3",
+      "s0r0-monte-al-n-national-park-primates-and-pachyderms.mp3",
+      "s0r0-monte-al-n-national-park-from-logging-concessions-to-protected-ground.mp3",
+      "s0r0-monte-al-n-national-park-the-silence-of-the-canopy.mp3"
+    ],
+    "durations": {
+      "s0r0-monte-al-n-national-park-flight-context.mp3": 52.581375,
+      "s0r0-monte-al-n-national-park-intro.mp3": 40.699625,
+      "s0r0-monte-al-n-national-park-a-countrys-green-heart.mp3": 63.587375,
+      "s0r0-monte-al-n-national-park-primates-and-pachyderms.mp3": 67.3542083,
+      "s0r0-monte-al-n-national-park-from-logging-concessions-to-protected-ground.mp3": 60.245,
+      "s0r0-monte-al-n-national-park-the-silence-of-the-canopy.mp3": 52.450625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

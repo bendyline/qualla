@@ -1,0 +1,70 @@
+# Shigisan Castle: The Fortress of the Smashed Tea Kettle
+
+A Sengoku-period castle atop Mount Shigi where warlord Matsunaga Hisahide chose to destroy his priceless tea kettle and himself rather than surrender either to Oda Nobunaga -- one of the most defiant deaths in Japanese history.
+
+**Location:** 34.6127, 135.6682
+
+**Categories:** castle, historic-site, military, sengoku-period, japan
+
+## Introduction
+
+Oda Nobunaga wanted two things from Matsunaga Hisahide: his submission, and his tea kettle. He got neither. In October 1577, as 40,000 soldiers swarmed the slopes of Mount Shigi in what is now Nara Prefecture, the cornered warlord took the Hiragumo -- an iron tea kettle shaped like a flat spider, one of the most coveted objects in Japan -- and smashed it to pieces. Then he killed himself. His son grabbed his father's severed head and leapt from the castle wall with a sword through his own throat, ensuring Nobunaga would claim no trophies from Shigisan. Today only earthworks and shallow moats mark the place where this act of theatrical defiance unfolded, but the mountain itself still carries the weight of a story far older than any castle.
+
+## Sacred Ground Before the Stones
+
+Mount Shigi sits on the border between the old provinces of Kawachi and Yamato, straddling what is now the boundary between Osaka and Nara Prefectures. Long before any fortification crowned its summit, the mountain held spiritual significance. The temple of Chogosonshi-ji occupies the mountainside below the castle ruins, and the site is claimed as the place where, in 587, Prince Shotoku Taishi defeated the powerful Mononobe no Moriya in the Battle of Shigisan -- a conflict that helped establish Buddhism's foothold in Japan. Shigisan became the central mountain of the Shingon sect of Buddhism. The temple that grew here drew pilgrims for centuries, and its presence made the mountaintop something more than a military position. Whoever held Shigisan controlled both a strategic pass and a place of profound religious meaning.
+
+## Warlords on the Mountain
+
+The castle itself rose in 1536, built by Kizawa Nagamasa on behalf of the Hatakeyama clan, who held the title of shugo -- shogunal governor -- of Yamato Province. From Shigisan's summit, the governors of Yamato wielded control over the mountain passes connecting their province to Kawachi and the trade routes beyond. In 1559, Matsunaga Hisahide seized and expanded the castle while serving the powerful Miyoshi clan. Under his hand, Shigisan grew to roughly 700 meters from north to south and 550 meters from east to west, a substantial fortification crowned by a four-story yagura watchtower. In 1562, the provincial seat shifted to Tamonyama Castle, but Shigisan remained a critical stronghold. The castle changed hands briefly in 1568 when Miyoshi rivals overran it, only for Matsunaga to recapture it when those attackers turned to face a new threat: Oda Nobunaga marching on the capital.
+
+## The Siege That Ended Everything
+
+Matsunaga Hisahide was legendary even before his final stand. He had assassinated a shogun, burned the great Todai-ji temple in Nara, and betrayed nearly every lord he served. When Nobunaga appointed a rival as military governor of Yamato, Hisahide launched his rebellion from Shigisan in 1577. Nobunaga's response was overwhelming. An army of 40,000 descended on the mountain fortress in the tenth month of that year. The siege lasted from the fifth to the tenth day, and though the castle's defenses resisted the initial mass assault, the outcome was never in doubt. Hisahide, a passionate practitioner of the tea ceremony who understood the symbolic power of objects, chose to deny Nobunaga the one prize he reportedly coveted above all others -- the Hiragumo tea kettle. By destroying it and then himself, Hisahide ensured his final act would be remembered as pure defiance. The castle was razed. Nothing was rebuilt.
+
+## What the Mountain Remembers
+
+Today, little remains of Shigisan Castle beyond earthen ramparts and the traces of moats cut into the mountaintop. The forest has reclaimed most of the castle's footprint. But Chogosonshi-ji temple still thrives on the slopes below, its vermilion buildings and tiger statues drawing visitors who climb the wooded paths that Matsunaga's soldiers once patrolled. The Shigisan-engi, a celebrated set of twelfth-century narrative picture scrolls depicting miracles associated with the temple, is considered one of Japan's earliest examples of emakimono storytelling art. Mount Shigi itself rises in the Ikoma mountain range, a green wall separating the Osaka plain from the ancient Yamato heartland. The castle is listed among Nara Prefecture's historic sites, a quiet monument to a place that witnessed both the dawn of Japanese Buddhism and one of the most spectacularly petulant exits in samurai history.
+
+## Flight Context
+
+Located at 34.613N, 135.668E atop Mount Shigi in the Ikoma mountain range, on the border between Osaka and Nara Prefectures. From altitude, look for the forested ridge running north-south between the flat Osaka plain to the west and the Yamato basin to the east. Chogosonshi-ji temple is visible on the mountainside with its distinctive vermilion structures. Kansai International Airport (RJBB) is approximately 25 nautical miles to the south-southwest. Osaka Itami Airport (RJOO) is about 12 nautical miles to the northwest. Yao Airport (RJOY) is the closest airfield at roughly 7 nautical miles to the west. Best viewed at 3,000-4,000 feet AGL approaching from the Osaka plain side.
+
+## Sources
+
+- [Shigisan Castle - Wikipedia](https://en.wikipedia.org/?curid=15099087)
+  - Castle built 1536 by Kizawa Nagamasa for Hatakeyama clan
+  - Matsunaga Hisahide seized castle 1559 for Miyoshi clan
+  - Four-story yagura watchtower confirmed
+  - Castle dimensions approximately 700m x 550m
+- [Wikipedia - Matsunaga Hisahide](https://en.wikipedia.org/wiki/Matsunaga_Hisahide)
+  - Assassination of shogun Ashikaga Yoshiteru (1565) confirmed
+  - Burning of Todai-ji Great Buddha Hall confirmed (though direct responsibility debated)
+  - Hiragumo tea kettle destruction before seppuku confirmed
+  - Death date November 19, 1577 confirmed
+- [Wikipedia - Siege of Shigisan](https://en.wikipedia.org/wiki/Siege_of_Shigisan)
+  - 1577 siege by Oda Nobunaga forces confirmed
+  - Hiragumo kettle described as iron tea kettle shaped like flat spider
+- [Nara Sightseeing - Mt. Shigi and Chogosonshi-ji Temple](https://nara-sightseeing.com/blog/naras-mt-shigi-and-chogosonshi-ji-temple/)
+  - Prince Shotoku connection to Mt. Shigi and 587 battle confirmed
+  - Chogosonshi-ji affiliated with Shingon Buddhism confirmed
+  - Shigisan-engi scrolls from mid-12th century confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-18 · 12 facts verified · 0 corrections
+
+All key facts verified: 1536 castle construction, 1559 Matsunaga seizure, 1577 siege, Hiragumo tea kettle destruction. Spiciness 3.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Describes Hisahide's death as 'one of the most defiant deaths in Japanese history'
+- Calls Hisahide's final act 'theatrical defiance'
+- Describes the ending as 'one of the most spectacularly petulant exits in samurai history'
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

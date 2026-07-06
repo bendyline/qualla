@@ -1,0 +1,54 @@
+# Heijo Palace: The Capital That Vanished Into Rice Paddies
+
+For seventy-five years, Heijo Palace was the nerve center of the Japanese empire -- a walled city-within-a-city modeled on Tang China's Chang'an, where emperors held court and eight ministries governed the nation. Then the capital moved to Kyoto, and the palace simply disappeared beneath centuries of farmland.
+
+**Location:** 34.6911, 135.7956
+
+**Categories:** palace, historic-site, world-heritage, archaeology, nara, japan
+
+## Introduction
+
+In 708 AD, Empress Genmei issued a rescript that would reshape Japan: move the capital north from Fujiwara-kyo to the edge of the Nara basin, and build a city worthy of an empire. The new capital, Heijo-kyo, was laid out on a grid modeled directly on Chang'an, the Tang dynasty capital in China. At its northern edge, anchoring the entire city like a crown at the top of a skull, sat Heijo Palace -- the imperial residence and administrative heart of Japan. Suzaku Street, the grand central boulevard running 3.7 kilometers from the southern Rajomon Gate to the palace's Suzakumon Gate, was designed not merely as a road but as a stage for foreign envoys, its width stretching roughly 74 meters between the drainage gutters. For seventy-five years, every significant decision in Japan passed through this complex. Then, in 784, the capital moved to Nagaoka-kyo and eventually to Heian-kyo -- modern Kyoto. Heijo Palace was simply abandoned. By the twelfth century, nothing remained above ground.
+
+## A Grid of Power and Geomancy
+
+The designers of Heijo-kyo did not just copy Chang'an's street grid -- they imported its cosmology. The Chinese system of geomancy dictated that the imperial palace must sit at the northern end of the city, aligned with a central north-south axis. Protective shrines and temples were positioned at specific cardinal directions around the perimeter. Heijo Palace occupied the north-central position within this grid, a walled compound containing the Daigoku-den where state affairs were conducted, the Chodo-in where formal ceremonies unfolded, and the Dairi -- the emperor's personal residence. Within the Dairi, a second set of walls enclosed the Inner Palace, holding the residences of imperial consorts alongside ceremonial buildings tied directly to the sovereign. The entire arrangement was designed to manifest in physical form the Daijo-kan system of centralized government -- the Grand Council of State and its subsidiary Eight Ministries, a bureaucratic apparatus borrowed from China and adapted for Japanese rule.
+
+## The Restless Emperors
+
+Heijo Palace's seventy-five-year reign as the seat of power was not uninterrupted. Emperor Shomu, ruling during a turbulent mid-century marked by epidemic and political instability, relocated the capital twice between 740 and 745 -- first to Kuni-kyo, then to Shigaraki-kyo -- before returning to Nara. Each move triggered drastic transformations of the imperial compound. In the later Nara period, a new audience hall was erected in the eastern section of the palace grounds, south of the imperial residence. Buildings within the Dairi and government offices were replaced and renovated multiple times, suggesting not routine maintenance but fundamental reorganizations of how the court presented itself and conducted its business. The palace was a living organism, constantly rebuilt to reflect the shifting priorities of whoever sat on the Chrysanthemum Throne.
+
+## Centuries Under Soil
+
+When the capital moved to Heian-kyo in 784, no one burned Heijo Palace or tore it down for materials. It was simply left behind. Some structures were relocated to the new capital; the rest were left to rain, wind, and fire. By the beginning of the Kamakura period in the late twelfth century, every building had vanished. The site became farmland. Rice paddies covered the halls where emperors once received foreign ambassadors. Yet the location was never truly forgotten -- local knowledge preserved the general boundaries of the old palace compound even as every physical trace disappeared. When systematic archaeological excavations began in 1959, led by the Nara National Research Institute for Cultural Properties, the underground remains proved remarkably well preserved. Foundations, post holes, drainage channels, and artifacts emerged from beneath the soil, mapping the outlines of buildings that had stood for less than a century but whose underground footprints endured for more than a thousand years.
+
+## Rebuilding the Eighth Century
+
+Excavations since 1974 have revealed the full scope of Suzaku-oji, the great central street, confirming its width of approximately 74 meters between drainage gutters and roughly 85 meters between embankments. Beneath the Nara-period road surface, archaeologists discovered the remains of an older 23-meter-wide road, evidence of an earlier settlement. In 2010, a 70-meter-wide, 210-meter-long section of Suzaku-oji was restored south of Suzakumon Gate. The Suzakumon Gate itself was reconstructed in the late twentieth century, and in 2022 the Daigoku Gate -- the southern gate of the First Daigokuden Compound -- was reconstructed based on excavation data. The Daigoku-den Great Hall of State itself had been rebuilt for the 1,300th anniversary celebrations in 2010. Today the Nara Palace Site Museum displays the ongoing results of more than six decades of archaeological work. The entire site, along with other monuments in Nara, was designated a UNESCO World Heritage Site in 1998. The palace that vanished into rice paddies has been coaxed back out of the earth, not as a ruin but as a reconstruction -- a physical argument that seventy-five years of imperial grandeur were worth remembering.
+
+## Flight Context
+
+Located at 34.69°N, 135.80°E in the northern section of Nara city. From altitude, the palace site is recognizable as a large, flat, open green space in the midst of the urban fabric -- distinctly less developed than surrounding neighborhoods. The reconstructed vermilion Suzakumon Gate and Daigoku-den Hall are visible as bright red-orange structures. Osaka Itami Airport (RJOO) is approximately 30 km west-northwest. Kansai International Airport (RJBB) is roughly 60 km to the southwest. Best viewed at 2,000-3,000 feet AGL approaching from the south to appreciate how the palace anchors the northern end of the city grid. Nara's famous Todai-ji complex is approximately 2 km to the east.
+
+## Sources
+
+- [Heijō Palace - Wikipedia](https://en.wikipedia.org/?curid=1537049)
+  - Empress Genmei rescript corrected to 708 AD
+  - Suzaku Street width ~74 meters between drainage gutters
+  - 2010 Suzaku-oji restoration (70m wide, 210m long)
+  - Excavations since 1959 by Nara National Research Institute
+  - UNESCO 1998
+  - 2022 Daigoku Gate completion corrected (not Daigoku-den hall which was rebuilt in 2010)
+
+## Review Notes
+
+**Reviewed:** 2026-02-18 · 7 facts verified · 2 corrections
+
+7 facts verified. Corrections: (1) Empress Genmei rescript date 707 corrected to 708 AD; (2) 2022 reconstruction was the Daigoku Gate not the Daigoku-den hall (which was rebuilt in 2010) - both corrected in text.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 815*
+*Read time: 5 minutes*

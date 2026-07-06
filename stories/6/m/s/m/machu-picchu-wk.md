@@ -1,0 +1,65 @@
+# Machu Picchu
+
+The 'Lost City of the Incas' perches on a mountain saddle 8,000 feet above sea level, its dry-stone temples and terraces overlooking the Urubamba River in Peru's Sacred Valley.
+
+**Location:** -13.1631, -72.5456
+
+**Categories:** unesco, peru, inca, mountains, ruins
+
+## Introduction
+
+For nearly four centuries after the Spanish conquest, Machu Picchu slumbered in the clouds. The conquistadors never found it. The ruins on this precipitous saddle between two peaks - Machu Picchu ('Old Mountain') and Huayna Picchu ('Young Mountain') - remained known only to local farmers until 1911, when American archaeologist Hiram Bingham was led there by an eleven-year-old boy. What Bingham found astonished the world: a complex of temples, terraces, and residences built in the classical Inca style, its polished dry-stone walls still standing after five centuries, its location so remote and so spectacular that it seemed designed to touch the sky. Today Machu Picchu draws over a million visitors annually, yet something of that original astonishment remains. The clouds still part to reveal walls that seem to grow from the mountain itself.
+
+## A Royal Retreat
+
+Current archaeological evidence suggests Machu Picchu was built around 1450 as an estate for the Inca emperor Pachacuti, the ruler who transformed the Inca realm from a regional kingdom into a continental empire. At most, 750 people lived here at any time - far fewer during the rainy season when the jungle trails became impassable. The site served as a country retreat for Inca elite, a place of religious ceremony, and perhaps an astronomical observatory. The Intihuatana stone, carved to cast specific shadows at the solstices, speaks to sophisticated understanding of celestial movements. When the Spanish arrived in the 1530s, Machu Picchu was apparently abandoned - whether from plague, civil war, or simple logistics remains unknown. Its obscurity saved it from destruction: unlike Cusco's temples, these walls were never torn down to build churches.
+
+## Stones Without Mortar
+
+Inca masonry at Machu Picchu represents some of the finest stonework ever achieved. The largest blocks weigh over 50 tons, yet they're fitted so precisely that a knife blade cannot slip between them. No mortar holds them; the stones' own weight and perfect shaping keep them in place through earthquakes that have toppled modern buildings. The Temple of the Sun, curving to follow the shape of a natural boulder, demonstrates how Inca builders worked with the mountain rather than against it. The Room of the Three Windows frames the rising sun at solstice. The terraces that cascade down the mountainside served as agricultural laboratories where crops from different climatic zones could be tested. Water channels still flow through the ruins, feeding fountains that worked when Bingham found them and work today.
+
+## The Inca Trail
+
+The four-day trek along the original Inca road to Machu Picchu has become South America's most famous hike. The trail climbs through cloud forest to passes above 13,000 feet, passes other Inca ruins less visited but equally impressive, and arrives at the Sun Gate - Intipunku - overlooking the citadel at dawn. The Peruvian government limits trail permits to 500 per day, including porters and guides, which means booking months ahead during peak season. Alternative treks - the Salkantay route, the Inca Jungle Trail - offer different perspectives and less crowding. For those who arrive by train to Aguas Calientes, the town at the mountain's base, a bus or a strenuous hour-and-a-half climb leads to the ruins. However you arrive, entering through the Sun Gate at first light, watching the mist rise from the citadel as the sun touches its walls, justifies every step.
+
+## Clouds and Altitude
+
+Machu Picchu sits at 7,970 feet - high enough that visitors from sea level may feel breathless on the steep climbs, low enough that altitude sickness is rare for those who've spent a few days acclimatizing in Cusco. The climate surprises those expecting equatorial heat: nights can drop near freezing, and clouds often shroud the peaks until mid-morning. The rainy season runs from October through April, with the heaviest precipitation in January and February when the Inca Trail closes. The dry season brings clearer skies but larger crowds. Whenever you visit, the sun's intensity at this altitude demands protection - Cusco holds the dubious distinction of having the highest average UV radiation of any major city on Earth, and Machu Picchu, though lower, shares this fierce light.
+
+## Preserving a Wonder
+
+The very popularity that sustains Machu Picchu also threatens it. The Peruvian government has responded with increasing restrictions: daily visitor caps, mandatory guides, timed-entry tickets, one-way paths through the ruins. The peak of Huayna Picchu, the steep pinnacle that provides the classic view looking down on the citadel, limits access to 400 climbers per day in two timed groups. Machu Picchu Mountain, the taller peak on the opposite side, offers similar views with less demand for permits. These measures have reduced the free-roaming exploration that earlier visitors enjoyed but have also preserved the site from deterioration. UNESCO declared it a World Heritage Site in 1983; a 2007 poll named it one of the New Seven Wonders of the World. Such recognition brings responsibility - to the ruins themselves and to the indigenous communities who maintained their knowledge of this place through centuries when the rest of the world had forgotten it existed.
+
+## Flight Context
+
+Located at 13.16°S, 72.55°W in southeastern Peru's Andes Mountains. The ruins occupy a narrow ridge between Machu Picchu Mountain and Huayna Picchu, with the Urubamba River visible 1,500 feet below. Cusco's Alejandro Velasco Astete International Airport (CUZ) is 50nm southeast; there is no direct air access to the site. The citadel and its terraces are visible from altitude in clear conditions, though cloud cover is frequent. The contrast between the green jungle slopes and the grey stone ruins is distinctive. The Sacred Valley and other Inca sites are visible in the surrounding landscape.
+
+## Sources
+
+- [Machu Picchu - Wikivoyage](https://en.wikivoyage.org/?curid=20674)
+- [Machu Picchu - Wikipedia](https://en.wikipedia.org/wiki/Machu_Picchu)
+  - built around 1450
+  - Pachacuti's estate
+  - elevation 2,430m (7,970 ft)
+  - Hiram Bingham 1911
+- [Hiram Bingham III - Wikipedia](https://en.wikipedia.org/wiki/Hiram_Bingham_III)
+  - July 24, 1911 discovery
+  - guided by local farmers and young boy
+
+## Review Notes
+
+**Reviewed:** 2026-01-16 · 7 facts verified · 0 corrections
+
+All facts verified via Wikipedia and tourism statistics; spiciness 3 for colonial critique
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- The Lost City of the Incas
+- The clouds still part to reveal walls that seem to grow from the mountain itself
+
+---
+
+*Word count: 920*
+*Read time: 5 minutes*

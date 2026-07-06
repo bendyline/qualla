@@ -1,0 +1,60 @@
+# Yamalia
+
+Russia's northernmost Urals region, where Nenets reindeer herders, Tatar khans' legacy, and Gazprom's gas empire share the frozen Yamal Peninsula along the Arctic Ocean coast.
+
+**Location:** 67.2500, 74.6667
+
+**Categories:** Regions of Russia, Arctic, Yamalo-Nenets Autonomous Okrug
+
+## Introduction
+
+Before it was a gas province, before it was Russian, before it was anything that appears on modern maps, the land now called Yamalia was the Khanate of Sibir. The Tatar Khan Kuchum ruled a diverse confederation of Siberian Tatars, Khanty, Mansi, Nenets, Yamals, and Selkups, and he fought hard to keep it. He attempted to unify his peoples through conversion to Islam, hoping a shared faith would steel them against the Cossacks advancing from the west. It did not. Yermak Timofeyich, the Cossack leader who led the Russian conquest, was killed in the process, but the conquest succeeded anyway. In 1595, colonists established Salekhard, the region's first Russian settlement. Today it is the only city in the world that sits directly on the Arctic Circle.
+
+## Where the Map Runs Out
+
+Yamalia, formally the Yamalo-Nenets Autonomous Okrug, occupies Russia's northwestern Arctic coast. The Gulf of Ob splits the region's coastline in two. To the northeast lies Taymyria; to the east, the Krasnoyarsk region; to the south, Khantia-Mansia; and to the west, the Komi Republic and Nenetsia. The Yamal Peninsula extends northward into the Kara Sea, a finger of frozen land pointing toward the Arctic Ocean. This is about as remote as inhabited territory gets. The region is rarely visited by anyone not connected to the oil and gas industry, and its few settlements are separated by distances that make roads impractical and rivers essential. The landscape is tundra in the north and taiga in the south, with permafrost underlying nearly everything.
+
+## The Towns Gas Built
+
+Yamalia's cities exist because of what lies underground. Salekhard, the administrative capital, predates the gas era by four centuries, but its modern significance is bureaucratic rather than industrial. Novy Urengoy, the largest town and the last stop on the Tyumen railway, is the operational heart of the gas industry. Nadym, the second largest city, offers little reason to visit unless you work in oil. For those seeking the truly remote, smaller towns like Noyabrsk offer modest museums and the distinctive atmosphere of places that exist at the exact boundary between civilization and wilderness. Airports connect Salekhard, Novy Urengoy, and Nadym to Moscow, Tyumen, and a handful of other cities. Novy Urengoy also receives flights from Ufa. Beyond the airports, river travel is the traditional and sometimes only way to move through the region.
+
+## Three Thousand Kilometers by River
+
+The Ob-Irtysh river system is Yamalia's highway. Severflot operates passenger boats from Antipayuta in the far north through Salekhard and Tobolsk all the way to Omsk in the south, a journey of more than 3,000 kilometers along waterways that have served as transportation corridors for centuries. In summer, the rivers are navigable and relatively reliable. In winter, they freeze solid and become roads of a different kind, supporting ice highways that connect communities otherwise cut off from the outside world. The Obskaya-Bovanenkovo railway line provides another transport link, connecting the coast to the gas fields of the Bovanenkovo area on the Yamal Peninsula. Rail is limited, however, and the broader railway network that would cross the region east to west, the Northern Latitudinal Railway, remains unfinished.
+
+## The Khanate's Ghost
+
+Yamalia's history before Russian conquest is more dramatic than its bleak modern reputation suggests. The Khanate of Sibir was a genuine state, with diplomatic relationships, military capacity, and religious ambitions. Khan Kuchum's attempt to convert his multi-ethnic subjects to Islam was a political strategy as much as a religious one: a unified faith might produce a unified resistance to the Cossack advance. The strategy failed, and Yermak's forces eventually prevailed, though Yermak himself drowned in the Irtysh River during the campaign, weighed down by his own armor. The region's indigenous peoples, particularly the Nenets, survived conquest, survived collectivization, survived Soviet industrialization, and continue to herd reindeer across the tundra today. Their persistence is quieter than the khanate's resistance but no less remarkable.
+
+## Edge of the Known World
+
+Among Yamalia's more unusual destinations is the Gydansky Nature Reserve, located on the Arctic tundra along the Kara Sea in the region's northeastern corner. The nearest inhabited place is Gyda. Visitors will encounter neither long lines nor souvenir vendors. The Polar Urals offer the region's highest mountain terrain along the western border. Belyy Island, north of the Yamal Peninsula, hosts a research station and is reachable by the Obskaya-Bovanenkovo railway line. The bigger oil and gas towns carry their own cautions: drug-related crime is significant enough that official travel guides warn visitors to be wary. Yamalia is a place where the harshness of the environment and the wealth beneath it create a particular tension, a region that the world depends on for energy but that few people outside the industry ever choose to see.
+
+## Flight Context
+
+Yamalia (Yamalo-Nenets Autonomous Okrug) is centered approximately at 67.25°N, 74.67°E, spanning Russia's Arctic coast along the Kara Sea. Major airports: Salekhard (USDD), Novy Urengoy (USMU), Nadym (USMM), Noyabrsk (USRO). The Yamal Peninsula extends northward into the Kara Sea. The Gulf of Ob splits the coastline. Terrain is flat tundra and taiga with extensive river systems (Ob, Irtysh, Nadym, Pur, Taz). Gas infrastructure (pipelines, drilling pads) visible from altitude. Expect extreme subarctic conditions. Recommended viewing altitude: 10,000-30,000 feet to appreciate the peninsula's scale.
+
+## Sources
+
+- [Yamalia - Wikivoyage](https://en.wikivoyage.org/?curid=39906)
+- [Khanate of Sibir - Wikipedia](https://en.wikipedia.org/wiki/Khanate_of_Sibir)
+  - Corrected: Khan Kumuch → Khan Kuchum (correct spelling of the Siberian khan)
+  - Khanate of Sibir had diverse population including Tatars, Khanty, Mansi, Nenets, Selkup confirmed
+  - Kuchum fought against Cossack conquest confirmed
+  - Yermak Timofeyich drowned in the Irtysh River confirmed
+- [Salekhard - Wikipedia](https://en.wikipedia.org/wiki/Salekhard)
+  - Salekhard is the only city in the world on the Arctic Circle confirmed
+  - Founded as first Russian settlement in the region confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 7 facts verified · 2 corrections
+
+Corrected Khan name: Kumuch → Kuchum (appears twice in story). Salekhard as only city on Arctic Circle confirmed. Yermak drowned in Irtysh confirmed. Nenets reindeer herding confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

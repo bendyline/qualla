@@ -91,5 +91,26 @@
   "galleryPaths": [
     "_m/d/r/7/2/battle-of-harlem-heights-wp/battle-of-harlem-heights-map.jpg"
   ],
-  "updatedAt": "2026-03-30T14:03:15.120Z"
+  "updatedAt": "2026-03-30T14:03:15.120Z",
+  "narration": {
+    "files": [
+      "dr72-battle-of-harlem-heights-flight-context.mp3",
+      "dr72-battle-of-harlem-heights-intro.mp3",
+      "dr72-battle-of-harlem-heights-a-fox-hunt-in-reverse.mp3",
+      "dr72-battle-of-harlem-heights-the-trap-that-almost-worked.mp3",
+      "dr72-battle-of-harlem-heights-buckwheat-and-bayonets.mp3",
+      "dr72-battle-of-harlem-heights-the-cost-of-confidence.mp3",
+      "dr72-battle-of-harlem-heights-where-the-buckwheat-grew.mp3"
+    ],
+    "durations": {
+      "dr72-battle-of-harlem-heights-flight-context.mp3": 43.0386666,
+      "dr72-battle-of-harlem-heights-intro.mp3": 38.759375,
+      "dr72-battle-of-harlem-heights-a-fox-hunt-in-reverse.mp3": 51.0825416,
+      "dr72-battle-of-harlem-heights-the-trap-that-almost-worked.mp3": 56.2164166,
+      "dr72-battle-of-harlem-heights-buckwheat-and-bayonets.mp3": 50.826125,
+      "dr72-battle-of-harlem-heights-the-cost-of-confidence.mp3": 65.2971666,
+      "dr72-battle-of-harlem-heights-where-the-buckwheat-grew.mp3": 57.8434166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

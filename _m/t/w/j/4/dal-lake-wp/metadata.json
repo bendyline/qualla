@@ -1064,5 +1064,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "twj4-dal-lake-flight-context.mp3",
+      "twj4-dal-lake-intro.mp3",
+      "twj4-dal-lake-a-lake-that-remembers-empires.mp3",
+      "twj4-dal-lake-floating-gardens-and-frozen-winters.mp3",
+      "twj4-dal-lake-palaces-on-the-water.mp3",
+      "twj4-dal-lake-a-jewel-under-pressure.mp3",
+      "twj4-dal-lake-the-cemetery-of-poets.mp3"
+    ],
+    "durations": {
+      "twj4-dal-lake-flight-context.mp3": 46.0863333,
+      "twj4-dal-lake-intro.mp3": 51.6804583,
+      "twj4-dal-lake-a-lake-that-remembers-empires.mp3": 72.022375,
+      "twj4-dal-lake-floating-gardens-and-frozen-winters.mp3": 62.5534583,
+      "twj4-dal-lake-palaces-on-the-water.mp3": 71.8274583,
+      "twj4-dal-lake-a-jewel-under-pressure.mp3": 70.5439166,
+      "twj4-dal-lake-the-cemetery-of-poets.mp3": 72.1352916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

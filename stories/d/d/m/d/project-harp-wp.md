@@ -1,0 +1,57 @@
+# Project HARP: The Space Gun of Barbados
+
+On the eastern coast of Barbados, a rusting 120-foot cannon points skyward -- the remains of a Cold War program that tried to shoot objects into orbit and set a world altitude record that still stands.
+
+**Location:** 13.0773, -59.4756
+
+**Categories:** barbados, military-history, cold-war, space-exploration, engineering
+
+## Introduction
+
+Forget rockets. Gerald Bull wanted to shoot satellites into space with a cannon. The Canadian ballistics engineer was convinced that a gun big enough, aimed straight up, could loft payloads past the atmosphere for a fraction of what NASA spent on boosters. In 1962, he shipped two 140-ton naval gun barrels to Barbados, hired hundreds of locals to drag them overland on a purpose-built railway, and pointed them at the sky. What followed was one of the strangest chapters in the history of space exploration -- a program that achieved a world record still unbroken, rattled the windows of every house within miles, and ended in bureaucratic cancellation, international arms dealing, and assassination.
+
+## A Brilliant Obsession
+
+Gerald Bull was not a man who thought small. Born in Ontario in 1928, he earned his PhD at the University of Toronto at age 22, making him the youngest person to receive a doctorate in Canada at the time. By the late 1950s, he was conducting launch experiments at Canada's Defence Research Establishment using guns as small as 76 millimeters, testing whether ballistic projectiles could gather atmospheric data more cheaply than sounding rockets. The U.S. Army's Ballistic Research Laboratory took notice. So did Lieutenant General Arthur Trudeau, the Army's Chief of Research and Development. Bull pitched them on something far more ambitious: a supergun capable of reaching orbit. The Army responded with two surplus 16-inch naval gun barrels, a heavy-duty crane, a $750,000 radar tracking system, and substantial financial backing. In 1961, Bull resigned from government research, joined McGill University, and began building his dream.
+
+## Thunder on the East Coast
+
+The choice of Barbados was strategic. Donald Mordell, McGill's Dean of Engineering and Bull's collaborator, argued that a launch site near the equator would harness Earth's rotation to give projectiles extra velocity. The island's Atlantic coastline provided a safe splashdown zone for anything that came back down. Barbados, still a British colony, welcomed the project enthusiastically -- at first. When the gun barrels arrived, they were too heavy to land at the chosen site. Instead, they were offloaded at Foul Bay, seven miles up the coast, and transported overland on temporary tracks. The assembled weapon eventually stretched to 120 feet and weighed nearly 200 tons, making it the largest operational artillery piece in the world. Each firing launched a Martlet projectile wrapped in a wooden sabot that split apart after leaving the barrel. The blasts shook houses for miles. Walls cracked. The Barbados government refused to recognize damage claims, and the initial excitement curdled into resentment among residents living within earshot of what amounted to the world's loudest science experiment.
+
+## Breaking Through the Sky
+
+The results were extraordinary. By the end of 1965, Project HARP had fired more than one hundred missiles above 80 kilometers, well into the ionosphere. The Martlets carried payloads of metallic chaff, chemical smoke canisters, and meteorological balloons to gather data on the upper atmosphere -- information that aircraft engineers desperately needed but found prohibitively expensive to collect by rocket. On November 19, 1966, the program's crowning achievement came not from Barbados but from a third HARP gun at Yuma Proving Ground in Arizona: a 185-pound Martlet projectile reached an altitude of 180 kilometers, soaring past the Karman line that marks the conventional boundary of outer space. That record for a gun-fired projectile has never been broken. Annual funding grew from $250,000 to $1.5 million, and by 1964, Canada's Department of Defence Production had committed $3 million per year to the joint program.
+
+## The Unraveling
+
+Politics killed what physics could not. Throughout 1966, critics in the Canadian government mounted fierce opposition, and bureaucratic pressures compounded funding delays. In November of that year, Canada announced it would pull all HARP funding after June 30, 1967. Without Canadian partnership, the U.S. Army withdrew its support as well. The Vietnam War was consuming military budgets, and NASA's preference for conventional rockets left little institutional appetite for a gun-launched alternative. Bull spent years trying to resurrect the concept. He eventually designed Project Babylon, an even larger supergun, for Saddam Hussein's Iraq -- a decision that ended when Bull was assassinated outside his Brussels apartment in March 1990, almost certainly by Israeli intelligence. Today, the original HARP gun sits rusting in the Barbadian undergrowth near the eastern coast, its barrel still angled toward the sky. It is a monument to an idea that worked but could not survive the world around it.
+
+## Flight Context
+
+Located at 13.08°N, 59.48°W on the eastern coast of Barbados, approximately 2 miles inland from the beach near Foul Bay. The gun emplacement is in the parish of Christ Church. From the air, look for the southeastern coastline of Barbados where the terrain is relatively flat. Grantley Adams International Airport (TBPB) is approximately 4 miles to the southwest. Recommended viewing altitude: 2,000-3,000 feet. The rusting gun barrel may be visible in cleared areas near the coast on low approaches.
+
+## Sources
+
+- [Project HARP - Wikipedia](https://en.wikipedia.org/?curid=292089)
+  - 180 km altitude record set at Yuma Proving Ground
+  - Gun assembled to 120 feet in Barbados
+  - Gerald Bull assassinated March 1990 in Brussels
+  - Record still unbroken
+  - 185-pound Martlet projectile weight consistent with sources
+- [Gerald Bull - Intel Today](https://inteltoday.org/2020/03/22/30-years-ago-gerald-bull-is-assassinated-in-brussels-march-22-1990/)
+  - Assassination date March 22, 1990
+  - Shot outside Brussels apartment
+  - Mossad widely suspected
+
+## Review Notes
+
+**Reviewed:** 2026-03-12 · 8 facts verified · 0 corrections
+
+Verified altitude record 180km at Yuma 1966, gun length 120ft, Bull assassination March 1990 Brussels. All facts check out. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

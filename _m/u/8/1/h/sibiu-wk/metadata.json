@@ -1174,5 +1174,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u81h-sibiu-flight-context.mp3",
+      "u81h-sibiu-intro.mp3",
+      "u81h-sibiu-three-squares-one-old-town.mp3",
+      "u81h-sibiu-saxon-fortresses-in-the-countryside.mp3",
+      "u81h-sibiu-what-the-table-tells.mp3",
+      "u81h-sibiu-the-astra-museum-and-the-living-countryside.mp3"
+    ],
+    "durations": {
+      "u81h-sibiu-flight-context.mp3": 43.332,
+      "u81h-sibiu-intro.mp3": 65.02025,
+      "u81h-sibiu-three-squares-one-old-town.mp3": 71.697125,
+      "u81h-sibiu-saxon-fortresses-in-the-countryside.mp3": 61.877,
+      "u81h-sibiu-what-the-table-tells.mp3": 61.1091666,
+      "u81h-sibiu-the-astra-museum-and-the-living-countryside.mp3": 64.6040833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

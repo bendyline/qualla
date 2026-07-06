@@ -1,0 +1,54 @@
+# SMS Wiesbaden
+
+Crippled between the two battle fleets at Jutland, the German light cruiser SMS Wiesbaden became the center of a desperate fight that lasted hours, with only one of her 590 crew surviving.
+
+**Location:** 57.0167, 5.8833
+
+**Categories:** Wiesbaden-class cruisers, Ships sunk at the Battle of Jutland, World War I cruisers of Germany, Maritime incidents in 1916
+
+## Introduction
+
+One man survived. Of the nearly 590 sailors aboard the German light cruiser SMS Wiesbaden, a single crew member was found alive, picked up by a Norwegian steamer the day after the Battle of Jutland. The rest -- including the novelist Johann Kinau, known by his pen name Gorch Fock, who wrote of the sea and the men who worked it -- died in the North Sea on the night of June 1, 1916. Wiesbaden's agony was among the longest of the battle. Crippled by a single devastating hit to her engine room, she lay immobilized between the British and German fleets for hours, unable to move, unable to be rescued, unable to sink.
+
+## Built for Speed, Not Survival
+
+Wiesbaden was a light cruiser of the class that bore her name, built for the Imperial German Navy at the AG Vulcan shipyard in Stettin. Laid down on November 10, 1913, and launched without ceremony on January 30, 1915 -- wartime austerity having stripped away the usual pageantry -- she was commissioned on August 23, 1915. At 145 meters long and displacing 6,601 tons at full load, she carried eight 15-centimeter guns in single mounts and four torpedo tubes. Her turbines could push her to 27.5 knots. She was designed for scouting, screening, and fast raiding, and her armor reflected that mission: a waterline belt sufficient to deflect splinters and small-caliber fire, but nothing that could withstand the heavy shells of battlecruisers. Named for the city of Wiesbaden, she was assigned to the II Scouting Group.
+
+## The Short Career of a Scout
+
+Wiesbaden's active service lasted barely nine months. After working up in the Baltic, she joined sweeps through the Skagerrak and Kattegat, patrolled the North Sea, and sortied twice to rescue distressed zeppelins. Her most significant pre-Jutland action came during the bombardment of Yarmouth and Lowestoft on April 24-25, 1916, when she helped engage the British Harwich Force -- three light cruisers and eighteen destroyers. The engagement was brief, fought mostly at long range, and ended when German reports of submarines in the area prompted a withdrawal. It was an uneventful prelude to what was coming.
+
+## Trapped Between the Lines
+
+At Jutland, Wiesbaden screened for Hipper's battlecruisers as part of the II Scouting Group. Around 18:30 on May 31, the cruiser group encountered British forces, and in the exchange of fire Rear Admiral Horace Hood's flagship scored a hit on Wiesbaden that exploded in her engine room. The ship went dead in the water. What followed was nightmarish. Immobilized in the no-man's-land between the two battle fleets, Wiesbaden became an inadvertent focal point. German dreadnoughts maneuvered to cover her. British light cruisers, pressing forward for torpedo attacks on the German line, hammered her with their guns as they passed. A British destroyer closed to within 2,000 yards and put a torpedo directly under her conning tower. The ship absorbed the blow and stayed afloat. Even crippled, Wiesbaden's crew launched their own torpedoes, scoring a hit on a British battleship. In the chaos swirling around the stricken cruiser, two British armored cruisers were destroyed.
+
+## No Rescue Possible
+
+As evening drew on, the German III Flotilla of torpedo boats made two attempts to reach Wiesbaden and take off her crew. Both were driven back by heavy fire from the British battle line. The torpedo boat crews lost sight of the cruiser in the gathering darkness and could not find her again. Wiesbaden, battered beyond recognition, remained afloat through the night. She sank sometime between 01:45 and 02:45 on June 1. Among the dead was Gorch Fock -- the pen name of Johann Kinau -- a writer celebrated for his fiction and poetry about North Sea fishermen and sailors. Germany later honored him by naming two sailing training ships after him: the original Gorch Fock of the Kriegsmarine and its postwar successor in the German Navy. Wiesbaden's wreck was located in 1983 by German Navy divers, who found the ship resting upside down on the seabed. She was the last German cruiser sunk at Jutland to be found.
+
+## Flight Context
+
+Coordinates: 57.02N, 5.88E. The wreck lies inverted on the North Sea floor in the Jutland battlefield area. No surface features mark the location. Nearest airports: Esbjerg Airport (EKEB) in Denmark, Stavanger Airport (ENZV) in Norway. The site is approximately 100 km west of the Danish coast in open water.
+
+## Sources
+
+- [SMS Wiesbaden - Wikipedia](https://en.wikipedia.org/?curid=8327437)
+  - one survivor rescued by Norwegian steamer confirmed
+  - Gorch Fock (Johann Kinau) died aboard confirmed
+  - wartime crew of approximately 590 confirmed
+  - commissioned August 23 1915 confirmed
+  - sank between 01:45 and 02:45 June 1 confirmed
+  - wreck found 1983 confirmed upside down
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 6 facts verified · 0 corrections
+
+SMS Wiesbaden facts verified: one survivor, Gorch Fock (Johann Kinau) died aboard, wartime crew approximately 590, commissioned August 23 1915, sank early June 1, wreck found 1983 upside down. No errors found.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 720*
+*Read time: 4 minutes*

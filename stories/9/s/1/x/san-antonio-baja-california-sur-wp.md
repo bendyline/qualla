@@ -1,0 +1,57 @@
+# San Antonio, Baja California Sur
+
+A tiny mining town in the mountains of Baja California Sur that witnessed conquistadors, Dutch pirates, and a filibuster's short-lived republic.
+
+**Location:** 23.8081, -110.0569
+
+**Categories:** town, mining-history, colonial-history
+
+## Introduction
+
+Four hundred meters above sea level, tucked along Federal Highway 1 near its neighbor El Triunfo, the village of San Antonio holds fewer than five hundred people. The 2010 census counted 463. But this small settlement in the mountains of Baja California Sur sits at a crossroads of outsized history -- a place where conquistadors, Jesuit missionaries, Dutch pirates, American filibusters, and silver miners all left their marks on a landscape that seems too quiet and too remote to have attracted so much attention.
+
+## Conquistadors and Pirates
+
+The broader region's European history begins in 1535, when Hernan Cortes sailed into what is now the Bay of La Paz with the ships St. Lazarus, Santa Agueda, and St. Thomas, naming it Bay of Santa Cruz. Admiral Sebastian Vizcaino arrived in 1596 and christened the area La Paz -- the name that stuck. By 1616, Dutch pirates known as the Pichilingues were anchoring their vessels, the Great Sun and the Full Moon, in a bay near La Paz that still carries their nickname today. Isidro de Atondo y Antillon formally took possession of the port in 1683 on behalf of King Charles II of Spain, designating it the Port of Our Lady of La Paz. In 1720, Jesuit fathers Juan Ugarte and Jaime Bravo founded Mission La Paz, extending the chain of missions that would define Baja California's colonial era.
+
+## The Filibuster's Republic
+
+The most improbable chapter in the region's history arrived in 1853, when the American filibuster William Walker sailed his schooner Caroline into La Paz harbor and caught the garrison completely off guard. Walker took the political chief prisoner, seized the government offices, and declared what he grandly called the Republic of Lower California -- envisioning a state that would encompass both Baja California and the Mexican state of Sonora. His flag bore two stars to represent these territories. The adventure was short-lived. When troops from Todos Santos under Lieutenant Colonel Manuel Marquez de Leon threatened Walker's position, the self-proclaimed president abandoned La Paz and eventually retreated across the border. It was a bizarre episode that revealed how thinly the Mexican government's authority stretched across this vast, sparsely populated peninsula in the mid-19th century.
+
+## Silver in the Sierra
+
+San Antonio and its neighbor El Triunfo owe their existence to silver. Mining brought people to these mountain settlements when the surrounding desert offered little else to sustain a community. The municipality of La Paz's coat of arms still reflects this heritage: an eagle clutching a gold and silver inner frame symbolizing the wealth extracted from the local mines. The Latin motto on the municipal shield reads "Coellum, Aqua et Tellusque Valde Bona" -- sky, water, and good land, lavish and abundant. The four pearls in the emblem represent the four principal towns of the municipality: La Paz, San Antonio, San Jose del Cabo, and Todos Santos. Today, the mines are silent, but their ruins and old chimneys still punctuate the landscape around the two villages, drawing visitors who make the detour from Highway 1 to explore what remains of the mining era.
+
+## A Quiet Crossroads
+
+Modern San Antonio is a quiet place, easily passed through on the drive between La Paz and Cabo San Lucas. The capital of the Californias transferred to La Paz in 1830, and Baja California Sur achieved full statehood in 1975, leaving these small mountain communities far from the centers of political and economic power. Yet San Antonio endures as one of the four towns the municipality considers foundational -- a place whose history, compressed into a few centuries, mirrors the entire arc of European ambition on the Baja Peninsula. Conquistadors came looking for riches, missionaries came looking for souls, pirates came looking for safe harbor, and a filibuster came looking for a country. Each found something here, though none found quite what they expected. The town's elevation gives it a cooler climate than the coastal lowlands, and the surrounding Sierra, with its remnants of the Guaycura people's ancient presence, remains the gateway to the region's deeper past.
+
+## Flight Context
+
+Located at 23.81N, 110.06W in the mountains of Baja California Sur at an elevation of 400 meters (1,312 feet). Best viewed at 4,000-6,000 feet AGL. The town sits along Federal Highway 1 between La Paz and Cabo San Lucas, near the neighboring mining village of El Triunfo. Nearest airport is La Paz International (MMLP/LAP), approximately 45 km to the south-southwest. The Sierra de la Laguna mountains are visible to the south and west.
+
+## Sources
+
+- [San Antonio, Baja California Sur - Wikipedia](https://en.wikipedia.org/?curid=4108068)
+- [Expedition of William Walker to Baja California and Sonora - Wikipedia](https://en.wikipedia.org/wiki/Expedition_of_William_Walker_to_Baja_California_and_Sonora)
+  - Corrected: ship name 'Carolina' → 'Caroline' (schooner Caroline, confirmed)
+  - Corrected: republic name 'Republic of the Two Stars' → 'Republic of Lower California' (two stars on the flag represented the two territories)
+  - Cortes naming Bay of Santa Cruz in 1535 verified
+  - Walker's 1853 expedition date and La Paz capture confirmed
+- [William Walker (filibuster) - Wikipedia](https://en.wikipedia.org/wiki/William_Walker_(filibuster))
+  - Walker declared Republic of Lower California (not Republic of the Two Stars)
+  - Mexican resistance from Todos Santos confirmed
+  - Walker retreated and crossed US border May 1854
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 12 facts verified · 2 corrections
+
+Fixed ship name 'Carolina' to 'Caroline'; fixed republic name 'Republic of the Two Stars' to 'Republic of Lower California' (two-star flag represented territories). All other historical facts verified.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 720*
+*Read time: 4 minutes*

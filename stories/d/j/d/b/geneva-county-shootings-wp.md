@@ -1,0 +1,65 @@
+# Geneva County Shootings
+
+A 2009 shooting spree across three small Alabama towns left ten dead and became the deadliest mass shooting in the state's history, but the community's response defined what followed.
+
+**Location:** 31.0381, -85.8767
+
+**Categories:** disaster, history, crime, community, memorial
+
+## Introduction
+
+Kinston, Alabama has 540 residents. Samson has about 2,000. Geneva is the county seat, a quiet Wiregrass town in the southeastern corner of the state. On the afternoon of March 10, 2009, a 28-year-old man named Michael Kenneth McLendon drove a path of destruction through all three communities in less than an hour, killing ten people and wounding six others in what remains the deadliest mass shooting in Alabama history. The rampage began at his mother's house and ended at a metal building products factory where he had once worked. In between, he murdered members of his own family, shot strangers from his car window, and wounded the Geneva police chief. The towns he tore through were the kind of places where everyone knew everyone, and that closeness, which made the violence so devastating, also shaped the response.
+
+## An Afternoon Shattered
+
+At approximately 3:30 p.m. on March 10, McLendon shot and killed his mother at the house they shared in Kinston, then set the interior on fire. He drove to his uncle's house in Samson, where family members and neighbors were gathered on the porch. He opened fire, killing his uncle, two cousins, and a neighbor. The neighbor's four-month-old daughter was also shot but survived. His maternal grandmother, who lived next door, was killed as well. His aunt survived only because she was inside the house at the moment of the attack. McLendon then drove along Alabama State Route 52 toward Geneva, firing from his vehicle at people along the road and killing strangers who had no connection to him whatsoever. Law enforcement attempted a PIT maneuver to stop his car, but McLendon shot at officers with a rifle, wounding Geneva police chief Frankie Lindsey in the arm.
+
+## The End at Reliable Building Products
+
+McLendon's final destination was Reliable Building Products, a facility owned by Ruskin Company in Geneva where he had worked in 2003. He entered the building and engaged in a shootout with pursuing officers before taking his own life. When law enforcement found him dead at 4:17 p.m., the entire spree had lasted less than an hour. The amount of ammunition recovered from his vehicle suggested he had planned to kill far more people. Investigators later found a handwritten list at his Kinston home identifying people from previous jobs with notations about perceived slights, described as individuals who had disciplined him or reported him to supervisors. A letter found at the scene stated he had killed his mother and planned to die. He wrote that he and his mother had "suffered enough" and referenced a dispute with his mother's family over a family Bible.
+
+## What Led Here
+
+McLendon was born on September 19, 1980, in southern Alabama. After his parents divorced, he was largely raised by his aunt and uncle, Phyllis and James White, in Samson, the same family members he would later target. Witnesses said he had been disturbed by the divorce for years. He had tried and failed to qualify for the U.S. Marines and for law enforcement careers, and he struggled to hold steady employment. Those who knew him described him as quiet and deeply familiar with firearms. Investigators found dozens of ammunition boxes, military and survival gear, and medical supplies stockpiled at his home. The combination of long-simmering resentment, personal failure, and isolation had been building toward violence that the people closest to him never anticipated. He was 28 years old.
+
+## A Community Holds Together
+
+Alabama Governor Bob Riley traveled to Geneva County the following day, pledging state support to the shattered communities. The Andalusia radio station WAAO-FM organized a fundraising drive with a goal of $10,000 to benefit the victims' families. The response overwhelmed the organizers: more than $47,000 in cash poured in, along with donated caskets and concrete burial vaults for each of the victims, pushing the total value of contributions past $100,000. In towns where annual household incomes are modest and population counts are measured in hundreds, the scale of the giving reflected something deeper than charity. Samson, Kinston, and Geneva had lost neighbors, and the surviving neighbors answered in the only way they knew how. The shootings remain the worst mass killing in Alabama history, a distinction no community would choose to carry, but the response that followed has become part of the story too.
+
+## Flight Context
+
+The Geneva County shootings occurred across three communities in southeastern Alabama. The primary locations are Kinston (31.22N, 85.98W), Samson (31.11N, 85.99W), and Geneva (31.04N, 85.88W), spread along a corridor roughly 15 miles long. The nearest airport is Geneva Municipal Airport (33J), approximately 2 nm north of downtown Geneva. Dothan Regional Airport (KDHN) is about 35 nm to the east. Fort Novosel (formerly Fort Rucker, KOZR) is approximately 20 nm to the northeast. The terrain is flat Wiregrass country with pine forests and agricultural fields, typical of Alabama's coastal plain.
+
+## Sources
+
+- [Geneva County shootings - Wikipedia](https://en.wikipedia.org/?curid=21912742)
+  - March 10, 2009; Michael Kenneth McLendon, 28, killed 10 and wounded 6
+  - Deadliest mass shooting in Alabama history confirmed
+  - Spree began at ~3:30 p.m. at mother's house in Kinston; ended at 4:17 p.m.
+  - Reliable Building Products owned by Ruskin Company; McLendon worked there in 2003
+  - McLendon born September 19, 1980; failed to qualify for Marines and law enforcement
+  - Four-month-old Ella Myers survived; airlifted to Sacred Heart Hospital in Pensacola
+  - Handwritten list found identifying people from previous jobs
+  - Letter referenced dispute over family Bible
+  - WAAO-FM organized fundraiser with $10,000 goal; raised $47,000 cash plus donated caskets/vaults totaling over $100,000
+  - Geneva police chief Frankie Lindsey wounded in arm
+- [CNN - Gunman in Alabama slayings](https://www.cnn.com/2009/CRIME/03/11/alabama.shooting.spree/index.html)
+  - McLendon was briefly a police officer
+  - Parents' divorce contributed to long-term disturbance
+  - Raised by aunt and uncle Phyllis and James White in Samson
+- [WDHN - Remembering the deadliest mass shooting in Alabama history](https://www.wdhn.com/news/local-news/geneva-county/remembering-the-deadliest-mass-shooting-in-alabama-history/)
+  - Victims included grandmother Virginia White, uncle James White, cousin Tracy Wise, second cousin Dean Wise
+  - PIT maneuver attempted by law enforcement
+
+## Review Notes
+
+**Reviewed:** 2026-02-11 · 13 facts verified · 1 correction
+
+Key facts verified: March 10 2009, McLendon age 28 (DOB Sept 19 1980), 10 killed 6 wounded, deadliest in AL history, spree 3:30-4:17pm, Reliable Building Products/Ruskin Company, WAAO-FM raised 7K/00K total, police chief Lindsey wounded. One correction: section title said Reliable Metal Products but should be Reliable Building Products (body text was correct). Spiciness 2 - factual and measured tone.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 800*
+*Read time: 4 minutes*

@@ -647,5 +647,24 @@
     "_m/u/2/0/5/basilica-palladiana-wp/vicenza-300-01.jpg",
     "_m/u/2/0/5/basilica-palladiana-wp/vicenza-300-02.jpg"
   ],
-  "updatedAt": "2026-03-31T18:42:18.711Z"
+  "updatedAt": "2026-03-31T18:42:18.711Z",
+  "narration": {
+    "files": [
+      "u205-basilica-palladiana-flight-context.mp3",
+      "u205-basilica-palladiana-intro.mp3",
+      "u205-basilica-palladiana-a-shell-around-a-shell.mp3",
+      "u205-basilica-palladiana-five-ducats-a-month.mp3",
+      "u205-basilica-palladiana-the-tower-that-came-first.mp3",
+      "u205-basilica-palladiana-restoration-and-recognition.mp3"
+    ],
+    "durations": {
+      "u205-basilica-palladiana-flight-context.mp3": 40.24225,
+      "u205-basilica-palladiana-intro.mp3": 52.6527083,
+      "u205-basilica-palladiana-a-shell-around-a-shell.mp3": 78.249875,
+      "u205-basilica-palladiana-five-ducats-a-month.mp3": 64.3936666,
+      "u205-basilica-palladiana-the-tower-that-came-first.mp3": 58.7395833,
+      "u205-basilica-palladiana-restoration-and-recognition.mp3": 67.6995416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

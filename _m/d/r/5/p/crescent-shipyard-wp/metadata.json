@@ -52,5 +52,24 @@
     "sourceGeohash4": "dr5p"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "dr5p-crescent-shipyard-flight-context.mp3",
+      "dr5p-crescent-shipyard-intro.mp3",
+      "dr5p-crescent-shipyard-two-men-from-cramps.mp3",
+      "dr5p-crescent-shipyard-the-holland-dives.mp3",
+      "dr5p-crescent-shipyard-from-submarines-to-steel.mp3",
+      "dr5p-crescent-shipyard-a-quiet-legacy.mp3"
+    ],
+    "durations": {
+      "dr5p-crescent-shipyard-flight-context.mp3": 35.420125,
+      "dr5p-crescent-shipyard-intro.mp3": 34.788125,
+      "dr5p-crescent-shipyard-two-men-from-cramps.mp3": 51.229375,
+      "dr5p-crescent-shipyard-the-holland-dives.mp3": 65.1685833,
+      "dr5p-crescent-shipyard-from-submarines-to-steel.mp3": 58.141625,
+      "dr5p-crescent-shipyard-a-quiet-legacy.mp3": 54.435125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

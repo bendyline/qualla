@@ -1,0 +1,63 @@
+# Dunedin Railway Station
+
+Dubbed 'Gingerbread George' for its ornate Flemish Renaissance styling, Dunedin's railway station once handled 100 trains a day and now hosts a farmers market, fashion shows, and the New Zealand Sports Hall of Fame.
+
+**Location:** -45.8753, 170.5089
+
+**Categories:** architecture, heritage, transport, landmarks
+
+## Introduction
+
+Walk the length of the main platform and you will cover almost 500 metres -- the longest in New Zealand, built for a volume of rail traffic that no longer exists. In its early years, Dunedin railway station handled up to 100 trains a day: suburban services to Mosgiel and Port Chalmers, railcars to Palmerston, trains threading the Otago Central Railway into the interior, long-haul connections to Christchurch and Invercargill. Today, a handful of tourist services rattle out toward the Taieri Gorge, and the building has found a second life stranger and more varied than anything its architect imagined. The platform becomes the world's longest catwalk every March. The booking hall, with its floor of nearly 750,000 hand-laid mosaic tiles, is a restaurant. Upstairs, the New Zealand Sports Hall of Fame shares space with the Otago Art Society.
+
+## Dark Stone, Pink Pillars, and a Roof from Marseille
+
+George Troup designed the station in an eclectic Flemish Renaissance Revival style, and locals loved it so much they nicknamed the architect 'Gingerbread George.' The building's distinctive zebra-stripe appearance comes from its materials: dark basalt quarried from Kokonga in the Strath-Taieri, faced with pale Oamaru stone -- the same limestone that gives many of Dunedin's and Christchurch's grandest buildings their visual punch. A colonnade of pink granite pillars lines the front facade. The roof tiles are terracotta shingles imported from Marseille, topped with copper-domed cupolas that have weathered to green. At the southern end, a 37-metre clocktower anchors the composition and remains visible from much of central Dunedin. The foundation stone was laid on 3 June 1904 by Minister of Railways Joseph Ward, with Prime Minister Richard Seddon in attendance. When Ward -- by then Prime Minister himself -- officially opened the station on 12 November 1906, the whole project had come in on budget at 40,000 pounds.
+
+## The Floor You Stand On
+
+Step into the booking hall and look down. Almost 750,000 Minton tiles form a mosaic across the floor, depicting a steam locomotive surrounded by scrollwork and railway symbols. The design is invisible at ground level -- you need the balcony above to read it properly, and when you look up to find that vantage point, you discover a Royal Doulton porcelain frieze running the full perimeter. These are not modest finishes for a provincial railway station. They are the material evidence of a city that, at the turn of the twentieth century, was New Zealand's commercial capital, wealthy from gold, wool, and grain, and determined to build accordingly. Dunedin spent on its station the way Florence spent on its churches -- as a statement of civic identity that would outlast the economy that paid for it.
+
+## A Grand Building Finds New Purpose
+
+Dunedin's economic decline through the twentieth century drained the station of its original function. The suburban services disappeared. The intercity routes dwindled. The vast shunting yards to the south were subdivided into industrial lots. By the time the Dunedin City Council purchased the building in 1994, it was a monument to a city that no longer existed in quite the same form. But the station proved adaptable. Dunedin Railways still runs tourist trains to Middlemarch and Pukerangi through the spectacular Taieri Gorge. The Otago Farmers Market fills the northern grounds every Saturday morning. In 2021, Jane Campion's film The Power of the Dog -- filmed partly at the station in 2020 -- was released, earning Campion the Academy Award for Best Director. And in 2013, a baker named Steve Mee from the Scenic Southern Cross Hotel recreated the entire building in gingerbread -- 1.5 metres long, entirely edible, a fitting tribute to Gingerbread George's original confection.
+
+## The View Down Stuart Street
+
+The station was designed as a terminating vista. Stand in The Octagon -- Dunedin's central square -- and look down Lower Stuart Street, and the building closes the view with its clocktower and facade. This was not an accident. Immediately outside the station lies Anzac Square, triangular despite its name, remodelled in the 1990s as a formal knot garden. Beyond it, Anzac Avenue runs a kilometre northward, tree-lined and parallel to the railway, leading to Logan Park -- the site of the 1925 New Zealand and South Seas Exhibition. The square and avenue were named for the ANZACs of the First World War, and a plaque honouring New Zealand's Victoria Cross recipients has moved around the precinct over the years before settling near the Dunedin Cenotaph in Queen's Gardens, 400 metres south. The station anchors this entire civic axis, a building designed not just to move people but to tell them, as they arrived, what kind of city they had come to.
+
+## Flight Context
+
+Located at 45.88°S, 170.51°E in central Dunedin, the station is unmistakable from the air: a long, dark-and-light-striped building with a prominent clocktower at its southern end, running parallel to the railway corridor. Anzac Square and the formal gardens in front face Lower Stuart Street toward The Octagon. Best viewed at 1,000-2,000 feet. The adjacent Chinese Garden, Toitu Museum, and Queen's Gardens form a distinctive cluster of landmarks. Nearest airport: NZDN (Dunedin International), approximately 25 km to the southwest.
+
+## Sources
+
+- [Dunedin railway station - Wikipedia](https://en.wikipedia.org/?curid=1621822)
+  - foundation stone laid 3 June 1904 by Joseph Ward confirmed
+  - officially opened 12 November 1906 confirmed
+  - George Troup 'Gingerbread George' nickname confirmed
+  - Flemish Renaissance Revival style confirmed
+  - dark basalt from Kokonga confirmed
+  - pale Oamaru stone confirmed
+  - 37-metre clocktower confirmed
+  - Minton tiles floor with steam locomotive mosaic confirmed
+  - Royal Doulton porcelain frieze confirmed
+  - Corrected: film release year changed from 2020 to 2021 for The Power of the Dog (filmed 2020, released 2021)
+  - cost: £40,000 direct; £120,000 total including railway labour and materials confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 10 facts verified · 1 correction
+
+Verified foundation stone 3 June 1904, opened 12 Nov 1906, George Troup 'Gingerbread George', Flemish Renaissance Revival, basalt from Kokonga, Oamaru stone, 37m clocktower, Minton tiles, Royal Doulton frieze, cost 40,000 pounds. Corrected Power of the Dog release year from 2020 to 2021 (filming was 2020, release was 2021).
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- 'Dunedin spent on its station the way Florence spent on its churches'
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

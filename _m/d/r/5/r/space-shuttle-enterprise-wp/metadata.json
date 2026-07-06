@@ -528,5 +528,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr5r-space-shuttle-enterprise-flight-context.mp3",
+      "dr5r-space-shuttle-enterprise-intro.mp3",
+      "dr5r-space-shuttle-enterprise-built-to-fall-not-to-fly.mp3",
+      "dr5r-space-shuttle-enterprise-riding-a-747.mp3",
+      "dr5r-space-shuttle-enterprise-the-understudys-career.mp3",
+      "dr5r-space-shuttle-enterprise-a-final-flight-over-manhattan.mp3",
+      "dr5r-space-shuttle-enterprise-weathering-the-storm.mp3"
+    ],
+    "durations": {
+      "dr5r-space-shuttle-enterprise-flight-context.mp3": 63.1593333,
+      "dr5r-space-shuttle-enterprise-intro.mp3": 50.1731666,
+      "dr5r-space-shuttle-enterprise-built-to-fall-not-to-fly.mp3": 62.4757916,
+      "dr5r-space-shuttle-enterprise-riding-a-747.mp3": 61.3335416,
+      "dr5r-space-shuttle-enterprise-the-understudys-career.mp3": 63.1245416,
+      "dr5r-space-shuttle-enterprise-a-final-flight-over-manhattan.mp3": 55.8597083,
+      "dr5r-space-shuttle-enterprise-weathering-the-storm.mp3": 58.553625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

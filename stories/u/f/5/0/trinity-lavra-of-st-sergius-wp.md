@@ -1,0 +1,65 @@
+# Trinity Lavra of St. Sergius
+
+Russia's most important monastery, founded in 1337 by St. Sergius of Radonezh, has survived Tatar raids, Polish sieges, Soviet closure, and nearly seven centuries of Russian history.
+
+**Location:** 56.3103, 38.1307
+
+**Categories:** religious-sites, historical-sites, architecture, world-heritage
+
+## Introduction
+
+In 1380, before marching to the Battle of Kulikovo, Grand Prince Dmitri Donskoi knelt before a forest hermit and asked for a blessing. The hermit was Sergius of Radonezh, and the place was a small monastery he had built on Makovets Hill, about 70 kilometers northeast of Moscow. Sergius sent two of his monks -- Peresvet and Oslyabya -- to fight alongside the prince. At the battle's opening, Peresvet died in single combat against a Tatar champion. That monastery on the hill, where a saint blessed a prince and monks went to war, grew into the Trinity Lavra of St. Sergius: the spiritual heart of the Russian Orthodox Church, a UNESCO World Heritage Site, and home to over 300 monks today.
+
+## From Forest Hermitage to Spiritual Capital
+
+Sergius founded the monastery in 1337, building a simple wooden church dedicated to the Holy Trinity. By 1355 he had introduced a monastic charter requiring communal buildings -- refectory, kitchen, bakery -- that became the model for his followers across Russia. Those followers went on to establish more than 400 monasteries, including the celebrated Solovetsky and Kirillo-Belozersky complexes. After Sergius was declared patron saint of the Russian state in 1422, Serbian monks who had fled the Battle of Kosovo built the first stone cathedral to house his relics. To decorate it, the greatest icon painters in medieval Russia were summoned: Andrei Rublev and Daniil Chyorny. Rublev's icon of the Trinity, painted for the cathedral's iconostasis, became one of the most revered works of art in Russian history.
+
+## Fortress of Faith
+
+The monastery grew wealthy, and wealth demanded walls. In the 1550s, a wooden palisade gave way to stone fortifications with twelve towers -- defenses that proved their worth during a celebrated sixteen-month siege by Polish-Lithuanian forces in 1608-1610. Orthodox monks led by the chronicler Avraamy Palitsyn held out against the besiegers until relief came. A shell hole in the cathedral gates still commemorates a second Polish assault in 1618. Young Peter the Great took refuge within these walls twice when fleeing his enemies, and the complex kept accumulating splendor: a baroque patriarchal palace, a royal palace painted in checkerboard design, and the refectory of St. Sergius, which at 510 square meters was once the largest hall in Russia. Ivan the Terrible commissioned the six-pillared Assumption Cathedral in 1559; it took twenty-six years to complete and contains the burial vault of Boris Godunov and his family.
+
+## Imperial Favor and Soviet Ruin
+
+In 1744, Empress Elizabeth elevated the monastery to the rank of Lavra -- the highest distinction for an Orthodox monastery. She walked the 70 kilometers from Moscow on foot every year. Her patronage produced an 88-meter baroque bell tower, one of the tallest structures in Russia at the time, designed by architects Ivan Michurin and Dmitry Ukhtomsky. The 19th century saw the Lavra become Russia's richest monastery, with a seminary that grew into an ecclesiastical academy and a manuscript collection of extraordinary scope. Then came the Revolution. The Soviet government closed the Lavra in 1920. Its halls were repurposed for training electrical engineers and demonstrating radio technology to peasants and soldiers. In 1930, the monastery's bells were destroyed, including a 65-ton Tsar-Bell. The mathematician and theologian Pavel Florensky fought to save the sacristy collection from theft, but many treasures were lost.
+
+## Resurrection and Legacy
+
+Stalin's wartime tolerance of the church brought an unexpected reprieve. In 1945, the Lavra was returned to the Russian Orthodox Church, and divine service resumed at the Assumption Cathedral on April 16, 1946. The monastery served as the seat of the Moscow Patriarchate until 1983, when the patriarch relocated to the Danilov Monastery in Moscow. Major restorations in the 1960s and 1970s restored much of what neglect had damaged. In 1993, UNESCO inscribed the Trinity Lavra on its World Heritage List, recognizing it as an outstanding example of an active Orthodox monastery with architectural masterpieces spanning six centuries. Today the Lavra's reach extends from sketes on the remote Anzer Island in the White Sea to a Trinity Church on King George Island in the Antarctic -- a monastery that began with one hermit's wooden chapel on a hill, now present on every continent.
+
+## Flight Context
+
+Located at 56.31°N, 38.13°E in Sergiyev Posad, about 70 km northeast of Moscow. The monastery complex is visible from altitude as a large walled compound with multiple colorful domes -- the 88-meter baroque bell tower is the tallest structure. Best viewed at 3,000-8,000 feet. Nearest airports: Sheremetyevo (UUEE) approximately 55 km southwest, Chkalovsky (UUMU) approximately 40 km south.
+
+## Sources
+
+- [Trinity Lavra of St. Sergius - Wikipedia](https://en.wikipedia.org/?curid=784459)
+  - Founded in 1337 by Sergius of Radonezh confirmed
+  - Located on Makovets Hill about 70 km northeast of Moscow confirmed
+  - Sergius sent monks Peresvet and Oslyabya to fight at Kulikovo confirmed
+  - Monastic charter introduced in 1355 confirmed
+  - Followers founded more than 400 monasteries confirmed
+  - Sergius declared patron saint and stone cathedral built in 1422 confirmed
+  - Andrei Rublev and Daniil Chyorny decorated the cathedral confirmed
+  - 16-month Polish-Lithuanian siege 1608-1610 confirmed
+  - Ivan the Terrible commissioned Assumption Cathedral in 1559 confirmed
+  - Empress Elizabeth elevated monastery to Lavra rank in 1744 confirmed
+  - Bell tower 88 meters high, architects Ivan Michurin and Dmitry Ukhtomsky confirmed
+  - Soviet government closed Lavra in 1920 confirmed
+  - Returned to Orthodox Church in 1945, divine service resumed April 16 1946 confirmed
+  - UNESCO World Heritage inscription in 1993 confirmed
+  - Monastery seat of Moscow Patriarchate until 1983 confirmed
+- [UNESCO World Heritage - Trinity Sergius Lavra](https://whc.unesco.org/en/list/657/)
+  - UNESCO inscription year 1993 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 15 facts verified · 0 corrections
+
+Verified founding 1337, monastic charter 1355, Rublev/Chyorny painters, 16-month Polish siege 1608-1610, Ivan IV's Assumption Cathedral 1559, Empress Elizabeth elevated to Lavra 1744, bell tower 88m by Michurin and Ukhtomsky, Soviet closure 1920, returned to Church 1945, UNESCO inscription 1993. All facts confirmed accurate.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

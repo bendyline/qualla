@@ -1381,5 +1381,24 @@
     "_m/s/1/4/k/lagos-city-wk/abeokuta-express-road.jpg",
     "_m/s/1/4/k/lagos-city-wk/abandoned-tractor.jpg"
   ],
-  "updatedAt": "2026-03-31T04:16:05.013Z"
+  "updatedAt": "2026-03-31T04:16:05.013Z",
+  "narration": {
+    "files": [
+      "s14k-lagos-city-flight-context.mp3",
+      "s14k-lagos-city-intro.mp3",
+      "s14k-lagos-city-islands-and-bridges.mp3",
+      "s14k-lagos-city-five-centuries-of-reinvention.mp3",
+      "s14k-lagos-city-the-art-of-getting-around.mp3",
+      "s14k-lagos-city-where-the-music-never-stops.mp3"
+    ],
+    "durations": {
+      "s14k-lagos-city-flight-context.mp3": 51.625,
+      "s14k-lagos-city-intro.mp3": 50.695875,
+      "s14k-lagos-city-islands-and-bridges.mp3": 56.4314583,
+      "s14k-lagos-city-five-centuries-of-reinvention.mp3": 54.4457083,
+      "s14k-lagos-city-the-art-of-getting-around.mp3": 61.02675,
+      "s14k-lagos-city-where-the-music-never-stops.mp3": 54.4716666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

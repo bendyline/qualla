@@ -316,5 +316,26 @@
     "_m/z/0/1/0/terney-wk/iss021-e-5210-view-of-russia.jpg",
     "_m/z/0/1/0/terney-wk/category-10.jpg"
   ],
-  "updatedAt": "2026-04-01T19:09:56.081Z"
+  "updatedAt": "2026-04-01T19:09:56.081Z",
+  "narration": {
+    "files": [
+      "z010-terney-flight-context.mp3",
+      "z010-terney-intro.mp3",
+      "z010-terney-where-north-meets-south.mp3",
+      "z010-terney-la-p-rouses-bay.mp3",
+      "z010-terney-upolnomochenny-bay-and-the-abrek-coast.mp3",
+      "z010-terney-the-rarest-rhododendron.mp3",
+      "z010-terney-migration-crossroads.mp3"
+    ],
+    "durations": {
+      "z010-terney-flight-context.mp3": 46.218375,
+      "z010-terney-intro.mp3": 48.9963333,
+      "z010-terney-where-north-meets-south.mp3": 64.3495416,
+      "z010-terney-la-p-rouses-bay.mp3": 59.7202083,
+      "z010-terney-upolnomochenny-bay-and-the-abrek-coast.mp3": 64.6059166,
+      "z010-terney-the-rarest-rhododendron.mp3": 57.1855,
+      "z010-terney-migration-crossroads.mp3": 63.7989166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

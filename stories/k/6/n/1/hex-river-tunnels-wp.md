@@ -1,0 +1,53 @@
+# Hex River Tunnels
+
+A century-long engineering saga to bore through South Africa's formidable Hex River Mountains, where more than half the railway track runs underground.
+
+**Location:** -33.4058, 19.9008
+
+**Categories:** Railway tunnels in South Africa, Tunnels in South Africa, Engineering, History
+
+## Introduction
+
+Of the 30 kilometres of track between De Doorns and Kleinstraat, 16.8 run underground. That single statistic captures the audacity of the Hex River Tunnels, a set of four passages bored through the Hex River Mountains of the Western Cape to connect Cape Town's coast with the vast interior of southern Africa. What began in 1872 as a political decree to conquer an impassable mountain barrier became one of the longest-running engineering projects in South African railway history, spanning delays, deferrals, and financial crises across more than a century before the final tunnel opened in 1989.
+
+## The Mountain That Blocked a Nation
+
+The Cape Fold Belt, that enormous wall of folded rock running along South Africa's southwestern coast, did more than shape the landscape. It shaped the colony's ambitions. In 1872, Prime Minister John Molteno ordered the Cape Government Railways to punch a line through the Hex River Mountains, linking the coastal settlements to the diamond fields at Kimberley and beyond. Surveyor Wells Hood found a route in 1874, but it demanded gradients of 1 in 40 and curves with a minimum radius of just 100 metres, punishing conditions by any railway standard. A short tunnel was bored, and for 53 years that single passage carried every train crossing between coast and Karoo. The first tunnel served until 1929, when a second was excavated alongside it to accommodate larger locomotives. Together, the old pass served South African Railways for more than a century, the starting point for the country's first railway line to the Witwatersrand gold fields.
+
+## A Project That Refused to Stay Dead
+
+Plans for a proper tunnel route through the mountains surfaced repeatedly, only to be shelved each time. Work began in earnest in 1943, when engineers started excavating what would become tunnels number 2 and 3. By 1949, financial constraints froze construction, leaving both tunnels partially bored and lined, abandoned in the rock. The scheme was briefly revived in 1965 and deferred again in 1966. Construction resumed in 1974, and the twin tunnels of number 1 were completed in 1976, but money ran out once more. Authority to finish the project only came in late 1979. The longest tunnel, number 4, stretches 13.5 kilometres through the mountain with a maximum rock cover of 250 metres overhead. Five ventilation shafts, each 1.8 metres in diameter, were sunk to a combined depth of 1,000 metres to keep air moving through the passage. Inside the tunnel, engineers carved a passing loop where the cross-section balloons from 30 to 66 square metres, wide enough for two trains to pass one another deep inside the mountain.
+
+## Through the Witch River Mountains
+
+The name Hex River derives from the Afrikaans for 'witch,' and the mountains earned their reputation. When tenders were finally invited for tunnel number 4, engineers debated two routes: a straight line through uncertain geology, or a curved path through shale that would accommodate a tunnel boring machine. After weighing the engineering, geological, and economic factors, they chose the straight route with a horseshoe profile and concrete lining. The western portal enters directly into an almost vertical mountain face, while the eastern portal sits in a cutting 600 metres long and 16 metres deep. Tunnels 2 and 3, each roughly a kilometre long, had to be widened from their 1949 dimensions to meet modern standards for overhead electrification and broader loading gauges. The project was finally completed in November 1988, and the new route opened in 1989, reducing the ruling grade to a manageable 1 in 66.
+
+## From Rails to Trails
+
+When the Hexton tunnel route opened, the old Hex River rail pass became redundant. The steep, winding line that had carried trains for over a century was closed to rail traffic and its electrification infrastructure stripped away. But the track between Matroosberg and Osplaas stations was left in place, and the abandoned railway has found a second life as the Hexpas Ecotrek, a popular hiking and adventure trail that traces the original route through the mountains. Walkers now follow the path that steam locomotives once struggled to climb, crossing the same bridges and passing through the same cuttings that Wells Hood surveyed in 1874. The conversion from railway bottleneck to tourist attraction completed a transformation that took 117 years from the first political order to the last train on the old pass.
+
+## Flight Context
+
+Coordinates: 33.41S, 19.90E. The tunnel portals are visible along the Hex River valley between De Doorns and Kleinstraat. The N1 national road runs nearby. From altitude, look for the narrow valley cutting through the Cape Fold Belt mountains. Nearest airport: Worcester is roughly 50 km west. George Airport (FAGG) lies about 200 km east. Cape Town International (FACT) is approximately 140 km southwest.
+
+## Sources
+
+- [Hex River Tunnels - Wikipedia](https://en.wikipedia.org/?curid=23088956)
+  - Tunnel 4 is 13.5km long confirmed
+  - Maximum rock cover 250m confirmed
+  - Project completed November 1988, route opened 1989 confirmed
+  - Construction began 1943, frozen 1949, resumed 1974, twin tunnels 1 completed 1976 confirmed
+  - Five ventilation shafts confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 10 facts verified · 0 corrections
+
+Tunnel 4 length 13.5km confirmed. Maximum rock cover 250m confirmed. Completed November 1988, opened 1989 confirmed. 5 ventilation shafts confirmed. Ruling grade 1:66 confirmed. Spiciness 1.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

@@ -1,0 +1,74 @@
+# Isaac N. Ebey
+
+The first permanent white settler of Whidbey Island, whose violent death at the hands of northern raiders in 1857 became one of Puget Sound's most haunting frontier stories.
+
+**Location:** 48.2057, -122.7057
+
+**Categories:** history, frontier, historical-figures, military
+
+## Introduction
+
+On the hot evening of August 11, 1857, a knock came at Isaac Ebey's door. The visitors were not neighbors. They were warriors from Alaska who had paddled canoes hundreds of miles south into Puget Sound, searching for a white chief to kill in retaliation for the deaths of their own people. When Ebey stepped outside, they shot him dead and took his scalp. It would be nearly three years before his family recovered it, and the macabre relic would pass through generations of Ebey descendants for more than half a century. The story of Isaac Neff Ebey is the story of the Pacific Northwest frontier itself -- ambition and beauty tangled with violence and loss.
+
+## From Ohio to the Edge of the Continent
+
+Born in Columbus, Ohio, in 1818, Isaac Ebey grew up in Adair County, Missouri, where he trained as a lawyer. At 25, he married Rebecca Davis, and they had two sons, Eason and Ellison. But the law could not contain his restlessness. Leaving his young family in Missouri, Ebey headed west, tried his hand at gold mining in California, then pushed north into Oregon Territory. He found work with the U.S. Customs Service and spent time in Olympia, a city he is credited with naming after the snow-capped mountains visible to the west. He also sponsored the statute naming King County. But it was Whidbey Island that captured him. Hearing about the rich prairies and temperate climate at the north end of Puget Sound, Ebey arrived and fell in love with the land overlooking Admiralty Inlet.
+
+## Claiming the Prairie
+
+In October 1850, Ebey became the first permanent white settler on Whidbey Island, claiming 640 acres under the Donation Land Claim Act. He wrote to Rebecca to prepare for the move west. The rest of the Ebey clan followed in 1854 -- parents Jacob and Sarah, siblings Mary, Winfield, and Ruth, nieces, nephews, and a cousin. Jacob claimed the ridge land above what became Ebey's Prairie, and Isaac built a blockhouse on the same ridge for defense. Their farmland proved extraordinarily productive, and word traveled fast. By 1853 most of the prairie had been claimed by incoming settlers; by 1860, every good acre was spoken for. Ebey planted wheat, potatoes, onions, and barley, and built a dock at the natural landing below his bluff. Because Puget Sound commerce moved by water, Ebey's Landing sat on a main shipping route, making it a low-cost gateway for trade with Port Townsend and the Olympic Peninsula.
+
+## A Territorial Builder
+
+During nine years in the Pacific Northwest, Ebey shaped the very map of Washington. He served as prosecuting attorney for the Whidbey Island community and represented Thurston County in the Oregon Territorial Legislature when that county still stretched to the 49th parallel. He helped persuade the legislature to sign the Monticello Memorial, which separated Oregon and Washington Territories in 1853, and he carved Thurston County into four smaller units: Island, Jefferson, King, and Pierce. President Franklin Pierce appointed him collector for the Puget Sound district, and Ebey moved the customs office to Port Townsend, establishing it as the official port of entry. In 1855, the territorial legislature created the volunteer militia, and Ebey was elected colonel for Jefferson and Island counties. Volunteers refused to enlist unless they could serve under his command.
+
+## A Knock at the Door
+
+Rebecca Ebey never took to frontier life. Living apart from other settlers, managing the household during Isaac's long absences, she weakened from tuberculosis and died in 1853 after a difficult childbirth that also claimed their newborn daughter. Isaac married Emily Palmer Sconce, a widow, but tragedy was not finished with the Ebey homestead. In 1857, a party of northern Indigenous warriors -- likely from the Kake Tribe of Alaska -- paddled into Puget Sound seeking a white Hyas Tyee, a great chief, to avenge the deaths of a chief and 27 tribal members killed by the USS Massachusetts the previous year. Unable to find their original target, Dr. John Coe Kellogg, they beached at Ebey's Landing, climbed the bluff, and knocked on Isaac's door. He was 39 years old. The Puget Sound Herald later attributed the killing to the Kake and Stikine nations, though the specific perpetrators were never confirmed.
+
+## The Long Return of a Sad Memento
+
+Ebey's headless remains were buried in the family cemetery on the bluff overlooking his homestead, beside Rebecca and their daughter. Recovering the scalp became an obsession for his brother Winfield. Captains from the Hudson's Bay Company steamer Beaver tried to purchase it a year after the killing, but the Kake initially refused. Captain Charles Dodd eventually acquired it for six blankets, three pipes, a cotton handkerchief, six heads of tobacco, and a fathom of cotton. On April 5, 1860, Winfield recorded the return of his brother's "poor head" in his diary. After Winfield's death in 1865, the relic passed to Isaac's sister Mary Ebey Bozarth, then to his niece Almira Enos. Albert Kellogg, son of the man the raiders originally sought, recalled seeing the scalp at Bozarth's home and the cold chills it gave him. The last confirmed sighting was in 1914, in the possession of the Enos family in California. Today, the farmland Isaac and Jacob claimed is still called Ebey's Prairie and is still farmed. Ebey's Landing became the first National Historical Reserve in the United States in 1978, a living memorial to the man who staked everything on this windswept bluff above Admiralty Inlet.
+
+## Flight Context
+
+Located at 48.21N, 122.71W on central Whidbey Island overlooking Admiralty Inlet. From the air, Ebey's Prairie is a distinctive open expanse amid the island's forests. The bluff above the landing drops sharply to the beach. Nearest airport is KNUW (NAS Whidbey Island), 8 nm north. Recommended viewing altitude 1,500-2,500 ft AGL for the full sweep of prairie, bluff, and shoreline.
+
+## Sources
+
+- [Isaac N. Ebey - Wikipedia](https://en.wikipedia.org/?curid=6337726)
+  - Born January 22, 1818, in Columbus, Ohio; grew up in Adair County, Missouri
+  - Married Rebecca Davis at age 25; two sons Eason and Ellison
+  - First permanent white settler on Whidbey Island, filed claim October 15, 1850 under Donation Land Claim Act
+  - Claimed 640 acres on Whidbey Island
+  - Rest of Ebey clan arrived in 1854
+  - Served as prosecuting attorney and Oregon Territorial Legislature representative for Thurston County
+  - Helped pass Monticello Memorial separating Oregon and Washington Territories in 1853
+  - Carved Thurston County into Island, Jefferson, King, and Pierce counties
+  - President Franklin Pierce appointed him customs collector for Puget Sound district
+  - Rebecca Ebey died in 1853 from tuberculosis and difficult childbirth
+  - Killed August 11, 1857 by raiders likely from the Kake Tribe of Alaska (Kake Tlingit)
+  - Raiders sought revenge for deaths of 27 tribal members killed by USS Massachusetts
+  - Scalp/head returned April 5, 1860 — Captain Dodd purchased it for six blankets and other goods
+  - Ebey's Landing became first National Historical Reserve in United States in 1978
+  - Credited with naming Olympia
+- [Battle of Port Gamble - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Port_Gamble)
+  - USS Massachusetts killed 27 Kake Tlingit including a chief at Port Gamble
+  - This triggered the retaliatory raid on Whidbey Island in 1857
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 15 facts verified · 0 corrections
+
+All key facts verified: birth date/place, education/law training, sons' names Eason and Ellison, first white settler October 1850, 640-acre claim, family arrived 1854, Teresa County carved into 4 counties, President Pierce appointment, Rebecca died 1853, killed August 11 1857 by Kake Tlingit, 27 tribal members killed by USS Massachusetts, scalp returned April 5 1860 for stated price, Ebey's Landing first National Historical Reserve 1978, credited with naming Olympia.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- The story of Isaac Neff Ebey is the story of the Pacific Northwest frontier itself -- ambition and beauty tangled with violence and loss
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

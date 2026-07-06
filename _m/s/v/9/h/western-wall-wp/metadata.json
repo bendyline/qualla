@@ -1026,5 +1026,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sv9h-western-wall-flight-context.mp3",
+      "sv9h-western-wall-intro.mp3",
+      "sv9h-western-wall-the-wall-itself.mp3",
+      "sv9h-western-wall-centuries-of-forbidden-return.mp3",
+      "sv9h-western-wall-the-narrow-alley.mp3",
+      "sv9h-western-wall-the-plaza.mp3",
+      "sv9h-western-wall-what-the-wall-means.mp3"
+    ],
+    "durations": {
+      "sv9h-western-wall-flight-context.mp3": 40.03175,
+      "sv9h-western-wall-intro.mp3": 47.4240833,
+      "sv9h-western-wall-the-wall-itself.mp3": 62.6052083,
+      "sv9h-western-wall-centuries-of-forbidden-return.mp3": 67.6531666,
+      "sv9h-western-wall-the-narrow-alley.mp3": 61.0424166,
+      "sv9h-western-wall-the-plaza.mp3": 63.7908333,
+      "sv9h-western-wall-what-the-wall-means.mp3": 68.3007083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

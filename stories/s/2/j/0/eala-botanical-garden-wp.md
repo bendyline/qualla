@@ -1,0 +1,54 @@
+# Eala Botanical Garden
+
+Founded in 1900 on the banks of the Ruki River near the equator, the Eala Botanical Garden was once among the world's most important tropical gardens before war, neglect, and Zairianisation left it struggling to survive.
+
+**Location:** 0.0550, 18.3111
+
+**Categories:** botanical gardens, Democratic Republic of the Congo, colonial history, conservation
+
+## Introduction
+
+As of 2022, a single crocodile in a small enclosure was the last surviving animal from what had once been a zoological collection at the Eala Botanical Garden. That lone reptile is an unintentional monument to what this place has endured: conceived in the ambition of colonial science, built into one of the world's great tropical gardens, and then slowly dismantled by decades of political upheaval, armed conflict, and institutional neglect. The garden sits seven kilometers east of Mbandaka, on the south bank of the Ruki River just above its confluence with the Congo, almost exactly on the equator.
+
+## A Garden Born of Empire
+
+The site was originally called Bokoto. Belgian botanist Emile-Ghislain Laurent, employed by King Leopold II's Congo Free State, championed its creation. On 2 February 1900, the garden was inaugurated with a mandate to inventory the region's flora and assess its agricultural potential. Laurent came from the Faculte Universitaire des Sciences Agronomiques de Gembloux, and his scientific ambition shaped the garden from the start. Covering 371 hectares, the site encompassed primary forest, swamp forest, and savanna -- a cross-section of equatorial Central Africa compressed into a single managed landscape. The garden's primary purpose evolved toward testing exotic plant species introduced to Africa, especially those with economic promise. Its herbarium held roughly 7,760 specimens. Fruit trees from across the tropics grew here: mangosteen from Southeast Asia, rambutan, Brazil nut. In 1908, the garden published its first catalog of plants and seeds available for exchange or sale, establishing Eala as a node in the global network of botanical science.
+
+## The Golden Decades
+
+A model farm was added to promote livestock breeds suited to the equatorial climate. The garden became a place where colonial agriculture and tropical science intersected -- not merely a collection but a working laboratory. In 1958, King Leopold III of Belgium inaugurated a zoological and botanical museum on the grounds, a mark of the institution's prestige even as the colonial era was drawing to a close. Until the early 1970s, Eala regularly sent samples of tropical species to laboratories in Belgium and Italy, maintaining its relevance to international research. The garden's 371 hectares were organized into specialized zones: 125 hectares of curated collections, 190 of forest, 50 of marsh, and 7 hectares of the distinctive Euobe savanna. Due to its size, its equatorial location, and the sheer diversity of its holdings, Eala was considered one of the most important tropical gardens in the world.
+
+## Unraveling
+
+The decline began in 1974 with Zairianisation, President Mobutu's policy of nationalizing foreign-owned assets and replacing colonial-era institutional structures. Funding dried up. The international connections that had sustained Eala's research mission withered. The garden fell into disuse, its specimens unattended, its catalog unrevised -- the last complete inventory had been published in 1924, and no comparable effort replaced it. In 1977, animals from the Mbandaka Zoo were transferred to the garden grounds, an improvised solution to another failing institution. Then came the war. During the conflict of 1997 to 2000, Zimbabwean and Rwandan troops occupied the garden and looted what remained of its collections. The museum that Leopold III had inaugurated four decades earlier was stripped. The garden, unfenced and unprotected, became subject to illegal logging by local residents who had their own pressing needs for wood and land.
+
+## What Remains, What Returns
+
+Today the Eala Botanical Garden still holds almost 3,200 species of trees and herbaceous plants used for food or medicine -- a diminished but still significant collection. The Arboretum, the Rocaille, the Palmetum, and stands of conifers and rubber tree clones persist. Little survives of the museum's collection, and that single crocodile is all that is left of the zoo. Since 2009, the European Union's ECOFAC program has been sponsoring renovation work, aiming to revive the garden's research capacity and its role in environmental education. The task is enormous. Restoring a 371-hectare botanical garden that has been looted, occupied, neglected, and left unfenced for decades requires not just money but institutional will and community engagement. Whether Eala can reclaim its former standing among the world's great tropical gardens remains an open question. But the fact that 3,200 species still grow here, after everything this place has survived, suggests that the garden's roots run deeper than any of the forces that have tried to uproot them.
+
+## Flight Context
+
+The Eala Botanical Garden is at 0.055°N, 18.311°E, seven kilometers east of Mbandaka on the south bank of the Ruki River near its confluence with the Congo River. From altitude, the 371-hectare garden is distinguishable as a managed green area amid the surrounding tropical landscape. Mbandaka Airport (ICAO: FZEA) is the nearest airfield. The garden sits almost exactly on the equator, within the Tumba-Ngiri-Maindombe wetland region. The Congo River is the dominant geographic feature visible from the air.
+
+## Sources
+
+- [Eala Botanical Garden - Wikipedia](https://en.wikipedia.org/?curid=70173939)
+  - Garden inaugurated on 2 February 1900
+  - Founded by Belgian botanist Emile-Ghislain Laurent for Leopold II's Congo Free State
+  - 371 hectares covering primary forest, swamp forest, and savanna
+  - Decline began in 1974 with Zairianisation under Mobutu
+  - EU ECOFAC renovation program began in 2009
+  - Site is 7 kilometres east of Mbandaka on south bank of Ruki River
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 6 facts verified · 0 corrections
+
+Verified founding date February 2, 1900, Emile Laurent's role, 371 hectares, Zairianisation decline from 1974, EU ECOFAC renovation from 2009. All facts confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 720*
+*Read time: 4 minutes*

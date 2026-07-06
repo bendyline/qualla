@@ -1,0 +1,60 @@
+# Noel Kempff Mercado National Park
+
+A UNESCO World Heritage Site in northeastern Bolivia, Noel Kempff Mercado National Park protects over 1.5 million hectares where the Amazon rainforest meets the cerrado savanna, sheltering jaguars, river dolphins, and an estimated 4,000 plant species.
+
+**Location:** -14.2303, -60.8467
+
+**Categories:** national park, UNESCO World Heritage, Bolivia, biodiversity, conservation
+
+## Introduction
+
+The Huanchaca Plateau rises from the Bolivian lowlands like a fortress wall -- 42,000 hectares of undisturbed cerrado grassland sitting atop ancient sandstone, separated from the surrounding rainforest by sheer cliffs. Waterfalls plunge over the escarpment's edge: the 80-meter El Encanto Falls, the Frederico Ahlfeld Falls, the Arcoiris (Rainbow) Falls. Below the plateau, the forest shifts through a mosaic of habitats so varied that the park harbors an estimated 4,000 species of vascular plants and some of the most diverse bird communities in the Americas. Noel Kempff Mercado National Park, covering over 1.5 million hectares on Bolivia's border with Brazil, is where two of South America's great biomes collide.
+
+## Where Two Worlds Meet
+
+The park sits on the Brazilian Shield in northeastern Santa Cruz Department, with the Itenez River forming its eastern and northern border against Brazil. This is a transition zone, and the geography makes the transitions visible. Amazon rainforest dominates the western lowlands, where Cenozoic alluvial sediments blanket the plains. Move south and the forest dries out, canopies thin, and trees begin shedding their leaves seasonally. Climb the Huanchaca Plateau and you enter the cerrado -- open savanna sustained by thin soils over weathered sandstone, a landscape that looks more like African grassland than South American jungle. The annual precipitation averages 1,500 millimeters but arrives unevenly, with a marked dry season in winter that amplifies the contrast between habitats. The result is a park that contains tall evergreen rainforest, gallery forest, deciduous forest, liana-dominated forest, flooded savanna, palm swamps, and cerrado grassland all within a single protected boundary.
+
+## A Biologist's Name on the Map
+
+Founded on June 28, 1979, the park was originally named Parque Nacional Huanchaca after the plateau at its heart. Less than a decade later, in 1988, it was renamed in honor of Noel Kempff Mercado, a pioneering Bolivian biologist and conservationist who had championed the region's ecological importance. UNESCO designated the park a World Heritage Site in 2000, recognizing its extraordinary array of habitat types and its viable populations of globally threatened large vertebrates. The Huanchaca Plateau itself holds special significance: at 42,000 hectares, it is one of the largest protected tracts of undisturbed cerrado in the world, an ecosystem that has been heavily converted to agriculture across much of Brazil.
+
+## The Menagerie Below the Plateau
+
+The park's fauna inventory reads like a field guide to South American wildlife. At least 139 mammal species have been recorded, including jaguars, lowland tapirs, giant anteaters, giant armadillos, spider monkeys, howler monkeys, river dolphins, and maned wolves. The 620 bird species -- including nine species of macaw and twenty species of parrot -- make this one of the most avian-diverse protected areas in the Americas. Reptiles number approximately 74 species, from green and yellow anacondas to black caimans and yacare caimans. There are 62 known amphibian species. Several of these animals appear in Bolivia's Red Book of threatened vertebrates: Pampas deer, marsh deer, greater rheas, and giant anteaters all find refuge here. The humid forests harbor most of the mammalian diversity, though researchers acknowledge that entire groups -- particularly bats -- remain poorly studied. The park's remoteness, which makes it difficult to reach, is also what has kept it intact.
+
+## Forests in the Balance
+
+Research into the park's fifty-thousand-year vegetation history reveals that the boundary between rainforest and savanna has shifted repeatedly in response to climate. During wetter periods, tropical forest expanded onto the plateau and into areas currently held by cerrado. A drier future climate could reverse this -- increasing fire frequency, thinning forest canopy, and allowing savanna to reclaim ground. But the park has an advantage that other Bolivian protected areas lack: latitudinal landscape corridors that would allow species to shift their ranges as conditions change. Of the 2,705 plant species identified so far, 1,500 grow in moist forest, 800 in cerrado, 700 in dry forest, and 500 each in savanna wetlands and aquatic habitats. Another 6,000 specimens await evaluation. In a world where biomes are contracting and fragmenting, Noel Kempff Mercado preserves something rare: a complete gradient, from rainforest floor to savanna hilltop, in a single unbroken landscape.
+
+## Flight Context
+
+Located at 14.23S, 60.85W in northeastern Bolivia, on the border with Brazil. The park covers over 1.5 million hectares of remote wilderness. The Huanchaca Plateau is a dramatic flat-topped mesa visible from high altitude, with waterfalls cascading off its edges. The Itenez River marks the park's eastern boundary against Brazil. Nearest airports are small regional strips; the closest major airport is Viru Viru International (SLVR) at Santa Cruz de la Sierra, approximately 600 km to the southwest. The park is extremely remote with limited road access. From cruising altitude, the plateau is the most visible feature -- a light-colored savanna block rising above the surrounding dark green rainforest canopy.
+
+## Sources
+
+- [Noel Kempff Mercado National Park - UNESCO World Heritage Centre](https://whc.unesco.org/en/list/967)
+  - UNESCO World Heritage designation in 2000 confirmed
+  - Park covers over 1.5 million hectares confirmed
+  - Contains Amazon rainforest and cerrado habitats confirmed
+- [Noel Kempff Mercado National Park - Wikipedia](https://en.wikipedia.org/?curid=4615749)
+  - Founded June 28, 1979 as Huanchaca National Park confirmed
+  - Renamed 1988 in honor of biologist Noel Kempff Mercado confirmed
+  - Huanchaca Plateau 42,000 hectares confirmed
+  - Located in Santa Cruz Department on Bolivia-Brazil border confirmed
+  - El Encanto Falls 80 meters confirmed
+- [Noel Kempff Mercado - Wikipedia (biologist biography)](https://en.wikipedia.org/wiki/Noel_Kempff_Mercado)
+  - Noel Kempff Mercado was a Bolivian biologist and conservationist confirmed
+  - Murdered in 1986 by drug traffickers at cocaine lab on Huanchaca Plateau (park renamed 1988)
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 12 facts verified · 0 corrections
+
+All key facts verified: founded 1979 as Huanchaca National Park, renamed 1988 after biologist Noel Kempff Mercado (murdered 1986 by drug traffickers), UNESCO 2000, 1.5M+ hectares, Huanchaca Plateau 42,000 ha, El Encanto Falls 80m. No errors found.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

@@ -31,5 +31,26 @@
   "galleryPaths": [
     "_m/s/v/9/5/dead-sea-wp/dead-sea-banner-jordanian-part.jpg"
   ],
-  "updatedAt": "2026-03-31T11:44:20.973Z"
+  "updatedAt": "2026-03-31T11:44:20.973Z",
+  "narration": {
+    "files": [
+      "sv95-dead-sea-flight-context.mp3",
+      "sv95-dead-sea-intro.mp3",
+      "sv95-dead-sea-a-name-earned-over-millennia.mp3",
+      "sv95-dead-sea-geology-at-the-lowest-point.mp3",
+      "sv95-dead-sea-life-in-a-lifeless-place.mp3",
+      "sv95-dead-sea-shrinking-toward-crisis.mp3",
+      "sv95-dead-sea-where-salt-meets-history.mp3"
+    ],
+    "durations": {
+      "sv95-dead-sea-flight-context.mp3": 64.6694583,
+      "sv95-dead-sea-intro.mp3": 44.2619166,
+      "sv95-dead-sea-a-name-earned-over-millennia.mp3": 66.9143333,
+      "sv95-dead-sea-geology-at-the-lowest-point.mp3": 64.637,
+      "sv95-dead-sea-life-in-a-lifeless-place.mp3": 68.971625,
+      "sv95-dead-sea-shrinking-toward-crisis.mp3": 73.6219166,
+      "sv95-dead-sea-where-salt-meets-history.mp3": 68.5507916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

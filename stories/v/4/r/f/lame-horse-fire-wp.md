@@ -1,0 +1,67 @@
+# Lame Horse Fire
+
+A nightclub fire in Perm on December 5, 2009 that killed 158 people when indoor pyrotechnics ignited flammable ceiling decorations, exposing a catastrophic chain of safety failures.
+
+**Location:** 58.0136, 56.2319
+
+**Categories:** Building and structure fires in Russia, Nightclub fires started by pyrotechnics
+
+## Introduction
+
+The ceiling caught fire first. A performance artist at the Lame Horse nightclub on Kuybyshev Street in Perm threw cold-flame pyrotechnics into the air just after 1:00 AM on December 5, 2009. Sparks hit the plastic covering overhead and the willow twig decorations beneath it, and within seconds the ceiling was burning. The master of ceremonies told the roughly 300 guests to evacuate. They began to leave calmly. Then the wooden wall decorations ignited, the electrical wiring failed, the lights went out, and calm became panic. One hundred and fifty-eight people died. It was the deadliest fire in Russia since the fall of the Soviet Union.
+
+## A Party Becomes a Trap
+
+The Lame Horse -- Khromaya Loshad in Russian -- was celebrating its eighth anniversary that night. An estimated 282 people had been invited to the party, though approximately 300 were inside when the fire began. The ignition sequence was swift and merciless. After the ceiling caught, the rush of oxygen through exits turned the main hall into a fire tube, accelerating the blaze through the interior. Witnesses reported that one leaf of the club's double doors was sealed shut, funneling the stampede through a single opening. A back exit behind the stage existed but was not marked by emergency lighting, and most patrons had no idea it was there. The club's license permitted only 50 visitors. Investigators later found that large windows in the original building design had been bricked over during renovations, leaving just two exits for hundreds of people. Most victims died of smoke inhalation and carbon monoxide poisoning rather than burns.
+
+## The Safety That Wasn't
+
+The investigation that followed uncovered a building whose safety infrastructure was almost entirely fictional. A fire safety compliance report from 2003 had been signed by an inspector dismissed a year earlier. The club's premises certificate was obtained fraudulently in 2007. Construction work done between 2004 and 2006 was never officially inspected. The club's name had not been registered with any tax authority in Perm Krai, and taxes were not being paid. The next scheduled fire safety inspection was due on December 7 -- two days after the fire. Every layer of oversight that should have prevented the disaster had been circumvented, ignored, or simply never applied.
+
+## A Nation Responds
+
+President Dmitry Medvedev declared December 7 a national day of mourning and dispatched high-level officials to Perm. Prime Minister Vladimir Putin sent planes equipped to transport burn victims to specialized hospitals. Emergency Situations Minister Sergei Shoigu banned fireworks at upcoming New Year's and Christmas celebrations, and Medvedev ordered a national review of fire safety regulations. St. Petersburg's fire authority conducted surprise inspections and moved to suspend operations at 25 venues. Within days, the head of Perm's city administration, Arkady Kats, announced his resignation. The regional governor accepted the resignation of the local government. During a Moscow concert on December 9, Whitney Houston dedicated her song 'I Look to You' to the victims, telling the audience, 'I want to sing this song in memory of those who died in the Russian city of Perm.'
+
+## Justice, Slowly
+
+Criminal proceedings moved through the courts for years. Anatoly Zak, identified as a co-owner of the club, initially fled Perm before being captured. Another co-owner, Alexandr Titlyanov, died of burns covering 80 percent of his body on December 9, before charges could be filed. The art director, Oleg Fetkulov, lost his wife Yevgeniya in the fire -- she died on December 13 from burns and smoke inhalation. Investigators allowed him to see her one final time at the morgue before her funeral. The trials stretched into 2013, when verdicts were announced. Zak received nine years and ten months. Sentences for the other convicted ranged from fines to six years. Konstantin Mrykhin, another co-owner arrested in Barcelona in 2010, received six and a half years and was ordered to pay 200 million rubles in compensation. The disaster bore grim parallels to the 2003 Station nightclub fire in Rhode Island, where indoor pyrotechnics also killed 100 people. Survivors of that American tragedy expressed sadness that such a similar catastrophe had happened again.
+
+## Flight Context
+
+Located at 58.014N, 56.232E in central Perm, on Kuybyshev Street. The site is in the city center near the Kama River. Perm International Airport (USPP) is to the southwest. From altitude, Perm stretches along both banks of the Kama; the city center is identifiable by the dense urban grid on the south bank.
+
+## Sources
+
+- [Lame Horse fire - Wikipedia](https://en.wikipedia.org/?curid=25314896)
+  - Date: December 5, 2009, just after 1:00 AM
+  - Location: Kuybyshev Street, Perm (9 Kuybyshev Street)
+  - 158 deaths confirmed - deadliest fire in Russia since fall of Soviet Union
+  - Approximately 300 people inside when fire started
+  - Club's eighth anniversary party
+  - Club's license permitted only 50 visitors
+  - Ceiling caught fire first from pyrotechnic sparks onto plastic cover and willow twig decorations
+  - One leaf of double doors sealed shut
+  - Back exit not marked by emergency lighting
+  - Large windows bricked over during renovations
+  - Most victims died of smoke inhalation and carbon monoxide rather than burns
+  - Fire safety compliance report from 2003 signed by inspector dismissed a year earlier
+  - Club premises certificate obtained fraudulently in 2007
+  - December 7 declared national day of mourning by President Medvedev
+  - Co-owner Alexandr Titlyanov died December 9 from burns covering 80% of body
+  - Art director Oleg Fetkulov's wife Yevgeniya died December 13
+  - Anatoly Zak received 9 years 10 months; Mrykhin 6.5 years, 200 million rubles compensation
+  - Verdicts announced 2013
+  - Station nightclub fire Rhode Island 2003 killed 100 people - confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 18 facts verified · 0 corrections
+
+All key facts verified: 158 deaths, December 5 2009, 8th anniversary party, ~300 people inside, license for only 50, willow twig ceiling, single door leaf sealed, back exit unmarked, windows bricked over, falsified safety reports, owner deaths and sentences, Whitney Houston tribute, Station nightclub comparison (100 killed) confirmed. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 740*
+*Read time: 4 minutes*

@@ -1,0 +1,59 @@
+# Bagan
+
+A UNESCO World Heritage Site where over two thousand Buddhist temples and pagodas rise from a dusty plain along the Irrawaddy River, Bagan is the architectural legacy of a medieval kingdom that built with an intensity unmatched in Southeast Asia.
+
+**Location:** 21.1725, 94.8600
+
+**Categories:** Bagan, Buddhist temples in Myanmar, UNESCO World Heritage Sites, architecture, history
+
+## Introduction
+
+From a hot air balloon at dawn, Bagan looks like a fever dream of devotion. Thousands of temple spires pierce the morning mist across an 8,000-hectare plain along the Irrawaddy River in central Myanmar. Between the ninth and thirteenth centuries, the rulers of the Pagan Kingdom built more than 10,000 Buddhist monuments here. Over 2,000 survive. No other place on Earth concentrates so much sacred architecture in so small a space, and UNESCO recognized as much when it inscribed Bagan as a World Heritage Site in 2019.
+
+## A Kingdom Built in Brick
+
+Bagan's construction boom was not gradual. It accelerated dramatically under King Anawrahta in the mid-eleventh century, after his conversion to Theravada Buddhism sparked a campaign to make the Pagan Kingdom a center of the faith. His successors continued the work with an intensity that bordered on compulsion. The temples fall into two broad categories: solid stupa-style pagodas, evolved from earlier Pyu designs that themselves drew on prototypes from the Andhra region of southeastern India and from Ceylon, and hollow gu-style temples used for meditation and worship. The gu temples came in "one-face" and "four-face" designs, essentially one or four main entrances, with origins traceable to the second-century city of Beikthano and seventh-century Sri Ksetra. The Shwezigon Pagoda and Shwesandaw Pagoda represent the earliest mature examples of the stupa type, with their distinctive bell-shaped forms, terraced bases lined with terra-cotta jataka tiles, and the banana-bud finials that became the standard apex of Burmese pagodas for centuries to come.
+
+## Vaults Before Europe
+
+Bagan's builders solved structural problems that their contemporaries elsewhere had not. The earliest vaulted temples in Bagan date to the eleventh century, while vaulting did not become widespread in India until the late twelfth century. The masonry displays what scholars have called "an astonishing degree of perfection," a claim supported by the fact that many of these immense brick structures survived the 1975 earthquake more or less intact. The Thatbyinnyu Temple, completed around 1150 under King Sithu I, remains the tallest structure in Bagan. Inside the temples, pointed arches and vaulted chambers create cool, resonant spaces. Terra-cotta plaques depicting jataka tales line the terraces, while stone sculptures and wall paintings fill interior corridors. Guardian ogre figures in stucco, called bilu, watch from pediments. The fusion of Mon, Pyu, Indian, and possibly Ceylonese influences produced something original: an architectural tradition that became the foundation for all Burmese temple design that followed.
+
+## The Walled Heart and the River's Appetite
+
+Old Bagan, the walled core of the ancient city, covers just 140 hectares along the riverbank, surrounded by three surviving walls. A fourth wall on the western side may have once existed before the Irrawaddy ate it. The river has not finished its work. Buildings continue to collapse into the water both upstream and downstream from the walled core. This small fortified area represents what scholars believe was an elite center rather than the full extent of the city, since it is far smaller than the walled areas of earlier Pyu capitals like Sri Ksetra, which enclosed 1,400 hectares. The Tharabha Gate, built by King Pyinbya in 849 AD, is the only surviving entrance. Its name derives from the Pali word meaning "shielded against arrows," and stucco carvings of guardian spirits still mark its posts. Until tourism arrived in the 1990s, only a few villagers lived within the walls. Now permanent dwellings are banned inside Old Bagan, pushing the population of some 200,000 to New Bagan to the south and Nyaung-U to the north.
+
+## Earthquakes and Afterlives
+
+Bagan has endured repeated seismic damage. The 1975 earthquake damaged hundreds of monuments, and another struck in August 2016, prompting an international response. The Zamani Project from the University of Cape Town documented twelve monuments using LiDAR technology between 2017 and 2018, creating precise three-dimensional records of structures including the Sulamani Temple, the Gubyaukgyi, and the Ananda Monastery. This digital preservation acknowledges what the Irrawaddy and the fault lines make plain: Bagan is fragile. Yet the plain endures. Visitors arrive by air through Nyaung U Airport, by rail on the spur from the Yangon-Mandalay line, or by riverboat down the Irrawaddy. Balloon flights at sunrise have become the iconic way to see the site, drifting above the mist as thousands of spires emerge below. Bagan is sister cities with Luang Prabang in Laos and Siem Reap in Cambodia, places that understand what it means to carry the weight of monumental heritage in a developing nation.
+
+## Flight Context
+
+Located at 21.17N, 94.86E on the Irrawaddy River in Myanmar's Mandalay Region. The archaeological zone spans approximately 8,000 hectares of flat plain dotted with over 2,000 visible temples and pagodas, making it unmistakable from altitude. Nyaung U Airport (VYNU) serves as the gateway, with domestic flights to Yangon (600 km, 80 minutes), Mandalay (30 minutes), and Heho (40 minutes). The Irrawaddy River provides a strong visual reference along the western edge of the temple zone. Old Bagan's walled core sits on the riverbank. Best visibility in the dry season (November-February); monsoon (May-October) brings heavy cloud cover.
+
+## Sources
+
+- [Bagan - Wikipedia](https://en.wikipedia.org/?curid=222414)
+  - UNESCO World Heritage inscription 2019 confirmed
+  - Over 2,000 monuments survive from original 10,000+ built between 9th and 13th centuries confirmed
+  - Archaeological zone spans approximately 8,000 hectares confirmed
+  - Old Bagan walled core covers 140 hectares confirmed
+  - Thatbyinnyu Temple tallest structure in Bagan confirmed
+  - Tharabha Gate built by King Pyinbya in 849 AD confirmed
+  - 1975 earthquake damaged hundreds of monuments confirmed
+  - August 2016 earthquake prompted Zamani Project documentation confirmed
+  - Bagan sister cities with Luang Prabang and Siem Reap confirmed
+- [Bagan - UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1588)
+  - UNESCO inscribed Bagan on 6 July 2019 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 9 facts verified · 0 corrections
+
+Verified UNESCO inscription 2019 (July 6, 2019) confirmed, 2000+ monuments from 10,000+ originals confirmed, 8,000 hectare zone confirmed, Old Bagan 140 hectares confirmed, Tharabha Gate 849 AD confirmed, 1975 and 2016 earthquakes confirmed, Zamani Project documentation confirmed, sister cities with Luang Prabang and Siem Reap confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 790*
+*Read time: 4 minutes*

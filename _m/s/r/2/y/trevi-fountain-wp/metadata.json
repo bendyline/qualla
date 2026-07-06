@@ -709,5 +709,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sr2y-trevi-fountain-flight-context.mp3",
+      "sr2y-trevi-fountain-intro.mp3",
+      "sr2y-trevi-fountain-virgin-water.mp3",
+      "sr2y-trevi-fountain-a-popes-ambition-an-architects-obsession.mp3",
+      "sr2y-trevi-fountain-oceanus-at-the-center.mp3",
+      "sr2y-trevi-fountain-coins-cinema-and-the-sweet-life.mp3",
+      "sr2y-trevi-fountain-restoration-and-resilience.mp3"
+    ],
+    "durations": {
+      "sr2y-trevi-fountain-flight-context.mp3": 39.5031666,
+      "sr2y-trevi-fountain-intro.mp3": 41.6281666,
+      "sr2y-trevi-fountain-virgin-water.mp3": 55.2516666,
+      "sr2y-trevi-fountain-a-popes-ambition-an-architects-obsession.mp3": 69.4632916,
+      "sr2y-trevi-fountain-oceanus-at-the-center.mp3": 63.6699583,
+      "sr2y-trevi-fountain-coins-cinema-and-the-sweet-life.mp3": 60.4109166,
+      "sr2y-trevi-fountain-restoration-and-resilience.mp3": 62.8645
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -45,5 +45,24 @@
     "sourceGeohash4": "kmnk"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "kmnk-mavinga-national-park-flight-context.mp3",
+      "kmnk-mavinga-national-park-intro.mp3",
+      "kmnk-mavinga-national-park-a-landscape-shaped-by-fire-and-war.mp3",
+      "kmnk-mavinga-national-park-building-a-park-from-scratch.mp3",
+      "kmnk-mavinga-national-park-the-kavango-zambezi-vision.mp3",
+      "kmnk-mavinga-national-park-the-slow-return.mp3"
+    ],
+    "durations": {
+      "kmnk-mavinga-national-park-flight-context.mp3": 48.5945,
+      "kmnk-mavinga-national-park-intro.mp3": 57.9055,
+      "kmnk-mavinga-national-park-a-landscape-shaped-by-fire-and-war.mp3": 71.630875,
+      "kmnk-mavinga-national-park-building-a-park-from-scratch.mp3": 68.4215,
+      "kmnk-mavinga-national-park-the-kavango-zambezi-vision.mp3": 69.0263333,
+      "kmnk-mavinga-national-park-the-slow-return.mp3": 70.11
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

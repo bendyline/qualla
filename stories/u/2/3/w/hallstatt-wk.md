@@ -1,0 +1,60 @@
+# Hallstatt
+
+The world's oldest salt mining village clings to an Austrian lakeside cliff - so picturesque that China built a replica, and so small that its 750 residents now navigate more tourists than the entire Salzkammergut once saw in a year.
+
+**Location:** 47.5622, 13.6493
+
+**Categories:** unesco, austria, village, mining, lakes
+
+## Introduction
+
+Hallstatt appears impossible at first sight: a jumble of alpine houses cascading down a near-vertical slope to a mirror-calm lake, backed by mountains that rise directly from the water's edge. There is barely room for a road. The village is so compressed that its cemetery had to recycle graves, exhuming bones after ten years and stacking painted skulls in the Beinhaus (charnel house) - a practice continued until 1995. Yet people have lived here for at least 7,000 years, drawn by one thing: salt. The prehistoric salt mines above the village gave their name to an entire archaeological period, the Hallstatt Culture, and produced wealth that supported communities here since the Bronze Age. Today salt tourists vastly outnumber salt miners, but the mines still operate, and the village that salt built remains one of the most photographed places in Austria.
+
+## The White Gold of Hallstatt
+
+Salt made Hallstatt wealthy before wealth existed. Archaeological excavations in the mines above the village have recovered artifacts dating back 7,000 years - tools, clothing, food preserved in the salt, even the world's oldest known wooden staircase. By the Iron Age (800-400 BCE), Hallstatt had become prosperous enough that its burial goods defined what archaeologists now call the Hallstatt Culture, a Celtic civilization that spread across Central Europe. The mine shafts extend deep into the Salzberg mountain, following salt deposits laid down 250 million years ago when this region lay beneath a tropical sea. Mining continues today, making these the world's oldest salt mines still in operation. Visitors can tour the mines via a funicular and underground railway, sliding down wooden chutes that miners have used for centuries.
+
+## A Village Vertical
+
+Hallstatt's geography forced creative solutions. The lake and the mountainside leave almost no flat ground - houses stack on top of each other, connected by steep staircases and narrow passages rather than streets. The main square barely deserves the name, more a widening of the lakefront path. Traditional Hallstatt houses feature wooden upper stories projecting over stone lower floors, maximizing interior space on minimal footprints. The famous view from across the lake - pastel buildings reflected in still water, the church spire rising against the mountain - has appeared on countless calendars, postcards, and social media feeds. It has also been reproduced wholesale: a Chinese developer built a full-scale replica of Hallstatt in Guangdong Province in 2012, complete with artificial lake.
+
+## The Bone House
+
+Space limitations extended even to the dead. Hallstatt's tiny cemetery, terraced into the hillside beside the Catholic parish church, could not accommodate all the village's deceased. The solution, practiced from at least the twelfth century: after ten or fifteen years, graves were opened, bones exhumed, and skulls cleaned and painted with the deceased's name, profession, and floral decorations before being stacked in the Beinhaus (charnel house). Over 600 skulls now line the shelves of this small chapel, arranged by family, their painted decorations ranging from simple ivy leaves to elaborate roses and crosses. The most recent addition came in 1995 - a woman who had requested this traditional treatment. The practice has since ended, but the bone house remains open to visitors as a testament to the village's cramped geography and its long continuity of habitation.
+
+## Overtourism and Adaptation
+
+Hallstatt's perfection became its problem. As Instagram and Chinese tour operators discovered the village, visitor numbers exploded from manageable thousands to over a million annually - in a village of 750 residents. Buses clogged the single access road, tourists wandered into private gardens, and dawn brought photographers staking out positions for the classic view. The village fought back: limiting tour buses, installing noise barriers, banning drones, even erecting a screen to block the most photographed viewpoint during early morning hours. The COVID pandemic brought temporary relief, but crowds have returned. The challenge now is managing tourism rather than attracting it - preserving enough of Hallstatt's character that visitors still find what drew them here, while maintaining quality of life for residents increasingly outnumbered by day-trippers from Salzburg and Vienna.
+
+## Visiting the Salzkammergut
+
+Hallstatt sits at the heart of the Salzkammergut, a lake district of exceptional beauty stretching across Upper Austria and into Salzburg and Styria. Arriving by train means disembarking across the lake and taking a ferry to the village - an approach that provides the classic view and avoids driving Hallstatt's challenging access road. Day trips from Salzburg (75km) prove most common, but overnight stays allow experiencing the village after the buses depart, when the lakeside paths empty and the lights reflect in the still water. Beyond the salt mines and bone house, attractions include the Dachstein ice caves high above the valley, the Five Fingers viewing platform overlooking the region, and the other Salzkammergut lakes - Wolfgang, Mondsee, Attersee - each with their own character. The region offers hiking in summer, skiing in winter, and that particular Austrian combination of natural beauty and well-organized tourism infrastructure year-round.
+
+## Flight Context
+
+Located at 47.56°N, 13.65°E in Austria's Salzkammergut lake district. The village appears from altitude as a thin line of buildings between the Hallstätter See (lake) and the steep Salzberg mountain. The lake fills a glacial valley oriented roughly north-south. The Dachstein massif rises to the south with its glaciers visible in clear conditions. Salzburg Airport (SZG) lies 75km northwest. The village is notable for its extreme compression between water and cliff, with virtually no flat terrain visible.
+
+## Sources
+
+- [Hallstatt - Wikipedia](https://en.wikipedia.org/wiki/Hallstatt)
+  - 7000 years of salt mining
+  - 750 residents
+  - China replica 2012
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 6 facts verified · 0 corrections
+
+Story overlay verified
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- So picturesque that China built a replica
+- 750 residents now navigate more tourists than the entire Salzkammergut once saw in a year
+
+---
+
+*Word count: 890*
+*Read time: 5 minutes*

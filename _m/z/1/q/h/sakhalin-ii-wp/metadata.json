@@ -112,5 +112,26 @@
   "galleryPaths": [
     "_m/v/6/f/r/dyatlov-pass-wk/hero.png",
     "_m/z/1/q/h/sakhalin-ii-wp/lunskoye-platform-sakh.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "z1qh-sakhalin-ii-flight-context.mp3",
+      "z1qh-sakhalin-ii-intro.mp3",
+      "z1qh-sakhalin-ii-the-consortium-that-changed-hands.mp3",
+      "z1qh-sakhalin-ii-engineering-against-the-elements.mp3",
+      "z1qh-sakhalin-ii-whales-in-the-crosshairs.mp3",
+      "z1qh-sakhalin-ii-a-geopolitical-weathervane.mp3",
+      "z1qh-sakhalin-ii-the-view-from-the-ice.mp3"
+    ],
+    "durations": {
+      "z1qh-sakhalin-ii-flight-context.mp3": 38.4862083,
+      "z1qh-sakhalin-ii-intro.mp3": 40.9605,
+      "z1qh-sakhalin-ii-the-consortium-that-changed-hands.mp3": 59.9775416,
+      "z1qh-sakhalin-ii-engineering-against-the-elements.mp3": 64.5732916,
+      "z1qh-sakhalin-ii-whales-in-the-crosshairs.mp3": 46.3591666,
+      "z1qh-sakhalin-ii-a-geopolitical-weathervane.mp3": 68.0659583,
+      "z1qh-sakhalin-ii-the-view-from-the-ice.mp3": 51.1867916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

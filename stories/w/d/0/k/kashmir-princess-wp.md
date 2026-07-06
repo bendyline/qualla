@@ -1,0 +1,65 @@
+# Kashmir Princess
+
+A Cold War assassination plot targeting Chinese Premier Zhou Enlai turned a chartered Air India Constellation into a bomb over the South China Sea in 1955, killing sixteen and igniting an espionage scandal that stretched from Hong Kong to Taipei to Washington.
+
+**Location:** 12.0000, 113.0000
+
+**Categories:** aviation-disaster, cold-war, espionage, assassination, south-china-sea
+
+## Introduction
+
+Zhou Enlai was supposed to be on that plane. On 11 April 1955, a chartered Air India Lockheed L-749A Constellation designated Flight 300 lifted off from Hong Kong's Kai Tak Airport before dawn, carrying Chinese and Eastern European delegates to the Bandung Conference in Indonesia. Somewhere over the South China Sea, a time bomb detonated. The aircraft, christened the Kashmir Princess, crashed into the water at roughly 12 degrees north, 113 degrees east. Sixteen people died. Three survived. The man the bomb was meant to kill was not aboard.
+
+## The Target Who Wasn't There
+
+Zhou Enlai had every reason to be on Flight 300. As Chinese Premier, he was heading to the Afro-Asian Bandung Conference in Jakarta, a landmark gathering of newly independent nations seeking a voice between the superpowers. The conference represented exactly the kind of diplomatic stage the West feared China would use to expand its influence. But Zhou changed his travel plans at the last minute -- whether due to appendicitis or, as historian Steve Tsang later concluded from British and Taiwanese archives, because he had received prior intelligence about the plot. He left China three days after the crash, flying instead to Rangoon to meet Indian Prime Minister Jawaharlal Nehru and Burmese Prime Minister U Nu before continuing on to Bandung. The sixteen who died in his place were mostly journalists, people whose work was to observe history rather than make it.
+
+## A Janitor, a Bomb, and Six Hundred Thousand Dollars
+
+The Indonesian board of inquiry announced on 26 May that a time bomb fitted with an American-made MK-7 detonator had brought down the Kashmir Princess, and that the device was almost certainly planted in Hong Kong. Suspicion quickly fell on Chow Tse-ming, a janitor at Hong Kong Aircraft Engineering Company whose job gave him routine access to aircraft on the tarmac. Before investigators could reach him, Chow stowed away to Taiwan aboard a Civil Air Transport plane -- an airline secretly owned by the CIA. Hong Kong police issued an arrest warrant for murder conspiracy, but Taiwan refused extradition and denied Chow was a Kuomintang agent. The evidence told a different story. Tsang's archival research revealed that the KMT maintained a special-operations group in Hong Kong under Major-General Kong Hoi-ping, running a network of ninety agents tasked with assassination and sabotage. In March 1955, the group recruited Chow specifically because of his airport access, offering him HK$600,000 and sanctuary in Taiwan. Before fleeing, Chow bragged to friends about his role and spent money lavishly. A Chinese Foreign Ministry document declassified in 2004 corroborated the KMT's responsibility.
+
+## Shadows Within Shadows
+
+China accused the United States of orchestrating the bombing from the start. The CIA had indeed considered assassinating Zhou Enlai around this time, though the Church Committee -- the US Senate investigation into intelligence abuses -- reported that such plans were disapproved and "strongly censured" by Washington. Chow's escape aboard a CIA-owned aircraft only deepened suspicion. In 1967, an American defector in Moscow named John Discoe Smith claimed he had delivered a suitcase containing an explosive mechanism to a Chinese nationalist in Hong Kong. The accusation lingered for decades. When Zhou Enlai finally met Henry Kissinger face-to-face in the Great Hall of the People in Beijing in 1971, the Premier asked directly about American involvement. Kissinger's response has become one of the Cold War's more darkly comic lines: "As I told the Prime Minister the last time, he vastly overestimates the competence of the CIA."
+
+## A Sea That Holds Its Secrets
+
+The Kashmir Princess went down in one of the world's most contested bodies of water. The South China Sea, where the wreckage settled, would become the stage for decades of territorial disputes, naval standoffs, and competing sovereignty claims that continue today. In 2005, the Xinhua News Agency held a symposium to mark the fiftieth anniversary of the crash. Three of its own journalists had been among the sixteen killed. The ceremony was a reminder that the victims of Cold War espionage were rarely the intended targets -- they were the delegates, the reporters, the crew members who happened to be aboard a flight that someone else was supposed to take. The Kashmir Princess remains one of aviation's most brazen acts of political sabotage, a crime whose perpetrators were identified but never prosecuted, and whose full dimensions may never be entirely known.
+
+## Flight Context
+
+Crash site located at approximately 12.00°N, 113.00°E in the South China Sea, roughly equidistant between southern Vietnam and the northern Philippines. From cruising altitude, this is open ocean with no land features visible. The nearest major airports are Ninoy Aquino International (RPLL) in Manila approximately 900 km to the east, and Tan Son Nhat (VVTS) in Ho Chi Minh City approximately 850 km to the west. The flight originated from Hong Kong's former Kai Tak Airport (now closed; replaced by VHHH, Chek Lap Kok). Recommended viewing altitude: FL350 for broad ocean context.
+
+## Sources
+
+- [Kashmir Princess - Wikipedia](https://en.wikipedia.org/?curid=6428392)
+  - Incident date April 11, 1955 - confirmed
+  - Air India Lockheed L-749A Constellation, Flight 300 - confirmed
+  - Departed Hong Kong Kai Tak Airport - confirmed
+  - Sixteen killed, three survived - confirmed
+  - Crash site approximately 12N 113E in South China Sea - confirmed
+  - Indonesian board of inquiry announced May 26 bomb had MK-7 detonator - confirmed
+  - Chow Tse-ming, janitor at Hong Kong Aircraft Engineering Company - confirmed
+  - Chow escaped to Taiwan via Civil Air Transport plane - confirmed
+  - KMT special-ops group in Hong Kong under Major-General Kong Hoi-ping - confirmed
+  - KMT offered Chow HK$600,000 - confirmed
+  - Zhou met Nehru and Burmese PM U Nu in Rangoon before continuing to Bandung - confirmed
+  - Church Committee reported CIA plans disapproved and 'strongly censured' - confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 12 facts verified · 0 corrections
+
+All facts verified: April 11 1955, Air India L-749A Constellation Flight 300, Kai Tak departure, 16 killed 3 survived, MK-7 detonator, Chow Tse-ming janitor at HAECO, escaped on CAT plane, KMT group under Major-General Kong Hoi-ping, HK00,000 offered, Zhou met Nehru and U Nu in Rangoon, Church Committee confirmed CIA plans censured. No errors found.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Kissinger's CIA competence quip described as 'darkly comic'
+- Victims described as 'people whose work was to observe history rather than make it'
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

@@ -1,0 +1,77 @@
+# Cape Town
+
+Where Table Mountain watches over the collision of two oceans, where Dutch settlers became Afrikaners, where Mandela was imprisoned and apartheid finally died.
+
+**Location:** -33.9258, 18.4232
+
+**Categories:** south-africa, mountains, colonial-history, apartheid, unesco, coastal
+
+## Introduction
+
+Table Mountain has been a landmark for sailors since the first Portuguese navigator Bartolomeu Dias rounded the Cape of Good Hope in 1488. The flat-topped massif rises 1,085 meters above sea level, its iconic silhouette visible from 200 kilometers out to sea, a beacon that for centuries told European sailors they had reached the turning point between the Atlantic and Indian Oceans. The Dutch East India Company established a supply station here in 1652 - not a colony, just a vegetable garden to provision ships on the six-month voyage to the spice islands of Indonesia. But gardens need gardeners, and gardeners need houses, and settlements have a way of expanding. The vegetable garden became Cape Town, the supply station became a colony, and the colony became the seed of a nation whose history would be defined by the meeting and clashing of peoples - Khoikhoi herders displaced by Dutch farmers, enslaved people imported from Madagascar and Indonesia and Malaysia, British imperialists who took the colony in 1806, Afrikaners who trekked north to escape them, and always the African majority whose dispossession would not be reversed until 1994. Cape Town today holds 4.6 million people, a city of staggering beauty and staggering inequality, where the legacy of three and a half centuries refuses to stay buried.
+
+## The Mountain Above
+
+Table Mountain is not one mountain but a massif stretching from Signal Hill in the north to Cape Point sixty kilometers south. The sandstone that forms it is over 600 million years old, laid down in horizontal layers that weathered into the distinctive flat top. The mountain hosts over 2,200 plant species - more than the entire British Isles - many found nowhere else on Earth. The fynbos vegetation that covers its slopes is one of six floral kingdoms, the smallest and richest per square kilometer.
+
+The cableway that carries tourists to the summit opened in 1929, replacing the arduous three-hour climb with a five-minute ride in rotating cars that give 360-degree views. Over 30 million passengers have made the trip. But the mountain remains untamed - mists roll in without warning, temperatures drop sharply at the top, and hikers who underestimate the terrain still require rescue. The 'tablecloth' - the layer of cloud that spills over the flat summit when the southeaster blows - can descend in minutes, turning visibility to zero. The mountain gives Cape Town its beauty and its character, but it demands respect.
+
+## The Cape of Storms
+
+Dias originally named it Cabo das Tormentas - Cape of Storms - and the name was apt. The convergence of the cold Benguela Current from the Atlantic and the warm Agulhas Current from the Indian Ocean creates violent weather where they meet. Ships rounding the Cape faced mountainous seas, unpredictable winds, and a rocky coastline that has claimed over 2,000 vessels. The lighthouse at Cape Point, built in 1859, sits 238 meters above sea level - so high that fog often obscures it. A lower lighthouse was added in 1914 after the wreck of the Portuguese liner Lusitania (not the famous one) demonstrated the original's inadequacy.
+
+The danger drew a peculiar response: the Dutch built a supply station precisely because the passage was so treacherous. Ships needed fresh water, fresh vegetables, and repairs. The Cape became essential because it was terrible. The fortifications at the Castle of Good Hope, completed in 1679, protected not against African attack but against European rivals who might seize this strategic chokepoint. The castle remains, the oldest colonial building in South Africa, a pentagon of stone that witnessed the birth of a troubled nation.
+
+## The Malay Quarter
+
+The Bo-Kaap neighborhood climbs the slopes of Signal Hill in a cascade of painted houses - pink, turquoise, lime green, orange. The colors are recent, a post-apartheid assertion of identity, but the community is old. The Cape Malays, as they are known, descend from enslaved people and political exiles brought by the Dutch from Indonesia, Malaysia, India, and Madagascar starting in 1658. The term 'Malay' is misleading - it refers not to ethnic origin but to the Muslim faith that unified disparate peoples.
+
+The community developed its own culture: Cape Malay cuisine blending Asian spices with African ingredients, a distinctive Afrikaans dialect, the kramats (shrines) of Muslim saints scattered across the Cape Peninsula. The Auwal Mosque, established in 1794, was the first mosque in South Africa. During apartheid, the Group Areas Act tried to force the community from their historic neighborhood. They resisted, and the Bo-Kaap survived - one of the few neighborhoods where people of color retained their homes through the apartheid years. Today the painted houses draw tourists, and gentrification pressures threaten what apartheid could not destroy.
+
+## Robben Island
+
+The island lies 6.9 kilometers off the coast, visible from the waterfront, a flat patch of land that served as a prison for nearly 400 years. The Dutch imprisoned indigenous leaders here. The British used it for lepers and the mentally ill. The apartheid government made it the maximum-security prison for political prisoners - including, for eighteen of his twenty-seven years of imprisonment, Nelson Mandela.
+
+Mandela arrived in 1964, prisoner number 466/64, and spent the next eighteen years in a cell measuring 2.4 by 2.1 meters. He quarried limestone that damaged his eyes, studied law by correspondence, taught and was taught by fellow prisoners in what they called 'the University.' The lime quarry where prisoners worked is now a memorial; former prisoners lead tours through the cell blocks, telling their own stories. The island became a UNESCO World Heritage Site in 1999, a museum of suffering and resistance. Mandela was released in 1990, elected president in 1994, and died in 2013. His cell remains exactly as he left it - a cot, a bucket, a small table - testament to what it cost to end apartheid.
+
+## The Unfinished City
+
+Cape Town in 2026 is a city of contradictions visible from any elevated point. The waterfront gleams with malls and hotels, the Victoria and Alfred Basin converted from working harbor to tourist attraction. Behind it rise the office towers of the central business district. But look south and east and the Cape Flats spread - townships where apartheid relocated people of color, now home to over two million in conditions ranging from modest houses to corrugated iron shacks. The distance from waterfront hotel to Khayelitsha township is 25 kilometers; the gap in life expectancy is decades.
+
+The city nearly ran out of water in 2018, 'Day Zero' looming as reservoirs dropped below 13% capacity. Rationing cut consumption, rains finally came, and the crisis passed - but it exposed the fragility beneath the beauty. Climate change threatens the fynbos, sea level rise threatens the coast, and the inequality apartheid created persists despite twenty years of democracy. Table Mountain still watches over it all, indifferent to human struggles, beautiful beyond politics, the same landmark that guided Dias five centuries ago now guiding tourists to a city still deciding what it wants to become.
+
+## Flight Context
+
+Cape Town (33.92°S, 18.42°E) occupies a dramatic setting between Table Mountain (1,085m) and the Atlantic Ocean at the southwestern tip of Africa. Cape Town International (FACT/CPT) lies 20km east of the city center with two runways: 01/19 (3,201m) and 16/34 (1,604m). The Table Mountain massif dominates the western approach - pilots should note the 1,085m elevation and associated turbulence during strong southeaster winds. Signal Hill and Lions Head are lower prominences to the north. The Cape of Good Hope peninsula extends 60km south. Robben Island is visible 7km offshore to the north. The Cape Flats spread east of the mountain as relatively flat terrain. Weather features strong seasonal winds: the 'Cape Doctor' southeaster in summer (Oct-Mar) causes turbulence and the tablecloth cloud effect on the mountain; northwesterly fronts bring rain and low visibility in winter (May-Aug). The Benguela Current keeps coastal waters cold year-round.
+
+## Sources
+
+- [Cape Town - Wikipedia](https://en.wikipedia.org/?curid=6653)
+- [Table Mountain - Wikipedia](https://en.wikipedia.org/wiki/Table_Mountain)
+  - 1,085m elevation
+  - 600+ million year old sandstone
+  - 2,200+ plant species
+  - cableway opened 1929
+- [Robben Island - Wikipedia](https://en.wikipedia.org/wiki/Robben_Island)
+  - 6.9km offshore
+  - Mandela prisoner 466/64
+  - 18 years on island
+  - UNESCO 1999
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 6 facts verified · 0 corrections
+
+Story overlay verified
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Where Mandela was imprisoned and apartheid finally died
+- Cape Town today holds 4.6 million people, a city of staggering beauty and staggering inequality
+
+---
+
+*Word count: 1,220*
+*Read time: 6 minutes*

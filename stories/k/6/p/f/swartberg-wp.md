@@ -1,0 +1,57 @@
+# Swartberg
+
+A 230-kilometer fold mountain range that forms the boundary between South Africa's Great and Little Karoo, home to the Western Cape's highest peak, a UNESCO World Heritage landscape, and engineering feats carved through its ancient quartzite.
+
+**Location:** -33.3667, 22.3542
+
+**Categories:** Mountain ranges of the Western Cape, Karoo
+
+## Introduction
+
+According to legend, a bolt of lightning split the summit of Towerkop -- Bewitch Peak -- after a spell was cast upon it. The cleft peak still towers at 2,189 meters over the Klein Karoo town of Ladismith, its broken profile visible for miles. Whether you believe the story or not, the Swartberg has always been the kind of mountain range that invites mythmaking. Stretching 230 kilometers across the Western Cape, its peaks rising above 2,000 meters, the Swartberg is simultaneously a geological textbook, a botanical treasure house, and the wall that separates two very different desert worlds.
+
+## Two Ranges, One Name
+
+The Swartberg -- black mountain in Afrikaans -- actually consists of two distinct ranges. The Klein Swartberge, the smaller in name, is ironically the taller, claiming the Western Cape's highest point: Seweweekspoortpiek, or Seven Weeks Gorge Peak, at 2,325 meters. To the east, the Groot Swartberge is divided from its sibling by the Gamka River, which has carved a gorge directly through the mountains. The Greater Swartberg reaches 2,132 meters at Tierberg -- Leopard Mountain -- and harbors the Cango Caves in exposed limestone basement rock along a 300-kilometer fault line running the range's southern flank. These are not merely tall mountains. They are part of the Cape Fold Belt, a geological system where ancient sedimentary layers have been compressed and folded like crumpled paper, creating some of the most visually dramatic rock formations anywhere on Earth.
+
+## The Barrier and the Bridge
+
+For centuries, the Swartberg was virtually insurmountable. It cut the Great Karoo off from the Little Karoo and from the coast, a wall of rock and altitude that defined settlement patterns and trade routes. The story of breaching it begins in 1854, when John Molteno -- a Beaufort West businessman who would later become Prime Minister of the Cape Colony -- rode out on horseback with Andrew and Thomas Bain to survey the range for a possible pass. The Meiringspoort, completed in a remarkable 223 working days in 1858, followed a river route through the mountains and transformed the region's economy. By 1870, one-eighth of the Cape Colony's wool exports passed through it. The Seweweekspoort followed in 1862, built initially by convicts without engineers. And then came the crown jewel: the Swartberg Pass of 1888, Thomas Bain's masterwork, with its dry-stone hairpin bends and views that stretch across both Karoos.
+
+## Folds in Deep Time
+
+The Swartberg's geology reads like a chapter from the story of Gondwana. The Cape Fold Belt, of which these mountains are a part, formed roughly 250 to 330 million years ago when tectonic forces compressed sedimentary layers into great folds and thrust sheets. The result is a landscape where quartzite cliffs stand tilted at ninety degrees or more, where anticlines and synclines are exposed in cross-section, and where the rock itself takes on vivid coloration -- reds, ochres, greys -- that shifts with the light. Along the southern edge of the range, a fault line runs for nearly 300 kilometers. Movement along this fault lifted the Swartberg to its current heights, exposing basement rocks in the Oudtshoorn region that are probably continuous with the Malmesbury Group underlying Table Mountain on the Cape Peninsula. The mountains are, quite literally, related to Cape Town's most famous landmark.
+
+## A World Heritage of Green and Stone
+
+Much of the Swartberg is designated a UNESCO World Heritage Site, and the reason is as much botanical as geological. The range sits within the Cape Floral Region, one of the world's six floral kingdoms, where hundreds of plant species -- many endemic -- cling to slopes, fill kloofs, and colonize rocky outcrops. Fynbos dominates the higher elevations, while succulent vegetation takes hold in the more arid lower zones. The biodiversity is staggering for a mountain range in a semi-arid region. Runners in the annual Swartberg Pass Half Marathon, which departs from Prince Albert each May during the town's Olive Festival, experience this landscape in motion: twisted rock formations on both sides, the smell of mountain fynbos, and the knowledge that the stones beneath their feet are older than any animal that has ever lived. The Swartberg is not a backdrop. It is the main character in every story told in the Karoo.
+
+## Flight Context
+
+Coordinates: 33.37S, 22.35E. The Swartberg range is a dominant east-west ridgeline visible from significant distance, separating the Little Karoo (south) from the Great Karoo (north). Best viewed at 10,000-15,000 ft AGL to appreciate the full 230 km extent. Key features: the cleft peak of Towerkop near Ladismith, the Swartberg Pass switchbacks, the Meiringspoort gorge. Nearest airports: Oudtshoorn (FAOH), George (FAGG), Beaufort West. Expect mountain-wave turbulence in strong northwesterly conditions.
+
+## Sources
+
+- [Swartberg - Wikipedia](https://en.wikipedia.org/?curid=1679035)
+  - Seweweekspoortpiek at 2,325 meters is the highest peak in the Western Cape and the Klein Swartberge
+  - Swartberg range extends approximately 230km east-west
+  - Cape Fold Belt formation 250-330 million years ago
+  - Meiringspoort completed in 223 working days in 1858
+  - by 1870 one-eighth of Cape Colony wool exports passed through Meiringspoort
+  - Seweweekspoort pass built in 1862 initially by convicts without engineers
+  - Swartberg Pass opened 1888 as Thomas Bain's masterwork
+- [Seweweekspoortpiek - Wikipedia](https://en.wikipedia.org/wiki/Seweweekspoortpiek)
+  - 2,325 meters confirmed as highest peak in Western Cape
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 9 facts verified · 0 corrections
+
+Verified: Seweweekspoortpiek 2,325m is highest peak in Western Cape (confirmed), range approx 230km, Meiringspoort built in 223 working days 1858, Cape Fold Belt formation 250-330mya. All facts confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 770*
+*Read time: 4 minutes*

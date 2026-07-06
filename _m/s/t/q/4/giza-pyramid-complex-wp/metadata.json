@@ -691,5 +691,24 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "stq4-giza-pyramid-complex-flight-context.mp3",
+      "stq4-giza-pyramid-complex-intro.mp3",
+      "stq4-giza-pyramid-complex-three-pyramids-one-dynasty.mp3",
+      "stq4-giza-pyramid-complex-the-workers-who-built-eternity.mp3",
+      "stq4-giza-pyramid-complex-astronomers-in-stone.mp3",
+      "stq4-giza-pyramid-complex-from-sacred-ground-to-global-stage.mp3"
+    ],
+    "durations": {
+      "stq4-giza-pyramid-complex-flight-context.mp3": 57.2733333,
+      "stq4-giza-pyramid-complex-intro.mp3": 51.2977083,
+      "stq4-giza-pyramid-complex-three-pyramids-one-dynasty.mp3": 60.5596666,
+      "stq4-giza-pyramid-complex-the-workers-who-built-eternity.mp3": 66.9697083,
+      "stq4-giza-pyramid-complex-astronomers-in-stone.mp3": 59.8218333,
+      "stq4-giza-pyramid-complex-from-sacred-ground-to-global-stage.mp3": 60.035375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

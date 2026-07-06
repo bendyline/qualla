@@ -115,5 +115,24 @@
   "galleryPaths": [
     "_m/u/6/2/8/gothenburg-wp/blank-relief-location.jpg",
     "_m/u/7/q/1/battle-of-hornefors-wp/gallery-2.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u7q1-battle-of-h-rnefors-flight-context.mp3",
+      "u7q1-battle-of-h-rnefors-intro.mp3",
+      "u7q1-battle-of-h-rnefors-a-commander-seizes-his-chance.mp3",
+      "u7q1-battle-of-h-rnefors-surprise-at-nine-oclock.mp3",
+      "u7q1-battle-of-h-rnefors-dunckers-last-stand.mp3",
+      "u7q1-battle-of-h-rnefors-the-last-finnish-battle.mp3"
+    ],
+    "durations": {
+      "u7q1-battle-of-h-rnefors-flight-context.mp3": 43.6225416,
+      "u7q1-battle-of-h-rnefors-intro.mp3": 46.7794583,
+      "u7q1-battle-of-h-rnefors-a-commander-seizes-his-chance.mp3": 63.6750416,
+      "u7q1-battle-of-h-rnefors-surprise-at-nine-oclock.mp3": 57.7575833,
+      "u7q1-battle-of-h-rnefors-dunckers-last-stand.mp3": 59.0380416,
+      "u7q1-battle-of-h-rnefors-the-last-finnish-battle.mp3": 77.6655416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

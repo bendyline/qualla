@@ -83,5 +83,24 @@
   ],
   "galleryPaths": [
     "_m/k/p/z/7/ngounie-river-wp/gabun-karte-politisch.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kpz7-ngounie-river-flight-context.mp3",
+      "kpz7-ngounie-river-intro.mp3",
+      "kpz7-ngounie-river-down-from-the-chaillu.mp3",
+      "kpz7-ngounie-river-the-empress-falls.mp3",
+      "kpz7-ngounie-river-explorers-and-etymologists.mp3",
+      "kpz7-ngounie-river-a-valley-of-towns-and-tributaries.mp3"
+    ],
+    "durations": {
+      "kpz7-ngounie-river-flight-context.mp3": 48.9818333,
+      "kpz7-ngounie-river-intro.mp3": 45.4142916,
+      "kpz7-ngounie-river-down-from-the-chaillu.mp3": 64.7209166,
+      "kpz7-ngounie-river-the-empress-falls.mp3": 67.0331666,
+      "kpz7-ngounie-river-explorers-and-etymologists.mp3": 68.9285,
+      "kpz7-ngounie-river-a-valley-of-towns-and-tributaries.mp3": 58.006
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

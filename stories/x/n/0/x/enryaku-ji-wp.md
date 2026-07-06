@@ -1,0 +1,61 @@
+# Enryaku-ji
+
+A 1,200-year-old Tendai Buddhist monastery on Mount Hiei that once commanded an army of warrior monks, was burned to the ground by warlord Oda Nobunaga in 1571, and remains the training ground for marathon monks who run the equivalent of the Earth's circumference in seven years.
+
+**Location:** 35.0706, 135.8411
+
+**Categories:** religion, history, world-heritage-site, military-history, kyoto
+
+## Introduction
+
+The monks who train at Enryaku-ji do not merely pray. For seven years, they run. The practice is called kaihogyo, and its most extreme form requires a monk to walk and jog a marathon-length circuit around Mount Hiei every day for a hundred consecutive days, then increase the distance, then do it again -- a thousand marathons over seven years, totaling roughly 40,000 kilometers. Those who falter carry a rope and a knife, the traditional instruments of ritual suicide, though no practitioner has needed them since 1885. This is the temple complex that gave Japanese Buddhism four of its major schools, fielded mercenary armies that terrorized Kyoto for centuries, and was so powerful that a warlord had to massacre its inhabitants to unify the country.
+
+## The Mountain That Shaped a Religion
+
+In 788, the Buddhist monk Saicho climbed Mount Hiei on the northeastern edge of Kyoto and built a small hermitage. He had a specific reason for the location: northeast was the direction from which evil spirits were believed to approach, and the new capital of Heian-kyo -- present-day Kyoto -- needed spiritual protection. With backing from Emperor Kanmu, Saicho traveled to China and brought back the teachings of the Tiantai school, founding the Tendai sect of Japanese Buddhism. His monks lived in strict seclusion for twelve years of study and meditation. The best students stayed; the rest entered government service. By the Heian period's peak, Enryaku-ji had swelled to 3,000 sub-temples and become the most influential religious institution in Japan. The founders of Jodo-shu, Soto Zen, and Nichiren Buddhism all trained within its halls before departing to establish their own schools.
+
+## When Monks Went to War
+
+Power corrupted the mountain monastery in spectacular fashion. By the tenth century, succession disputes between followers of the monks Ennin and Enchin split the Tendai sect into warring factions based at Enryaku-ji and the rival temple of Mii-dera. Both sides recruited warrior monks -- sohei -- who did far more than settle theological disagreements. Tendai leaders hired mercenary armies that marched on Kyoto itself to enforce demands on the imperial court. For centuries, the monks of Mount Hiei represented one of the most feared military forces in Japan, their sacred status making them politically untouchable. The capital cowered when the mountain rumbled.
+
+## Fire on the Mountain
+
+On September 30, 1571, warlord Oda Nobunaga decided that no power in Japan would rival his own. His army attacked Enryaku-ji from every direction, setting fire to the 3,000 sub-temples and slaughtering monks, women, and children sheltering on the mountain. The destruction was total and deliberate -- Nobunaga intended to erase not just the monastery's military threat but its very existence. Only one minor building survived: the Ruri-do, a small structure hidden down an unmarked path, dating to the thirteenth century. Everything visitors see today was rebuilt between the late sixteenth and mid-seventeenth centuries. The main hall was reconstructed in 1642 under Tokugawa Iemitsu. Some buildings were transferred whole from other temples, including ironically from Mii-dera, the old rival.
+
+## Three Precincts on a Sacred Peak
+
+Modern Enryaku-ji clusters its buildings in three areas spread across Mount Hiei's forested ridgeline. The Todo (Eastern Pagoda) precinct holds the monastery's most important structures and serves as its spiritual heart. The Saito (Western Pagoda) precinct lies a twenty-minute walk downhill, with several significant halls of its own. Yokokawa, the most remote of the three, sits about ninety minutes away on foot and is most easily reached by bus. The entire complex is part of the UNESCO World Heritage Site covering the Historic Monuments of Ancient Kyoto. Thick cedar forests blanket the mountain slopes between the precincts, and on clear days the view eastward extends across Lake Biwa, Japan's largest freshwater lake. The monastery remains the active headquarters of the Tendai sect, its bells still ringing across the same ridgeline where Saicho built his hermitage over twelve centuries ago.
+
+## Flight Context
+
+Located at 35.07N, 135.84E atop Mount Hiei (848m / 2,782ft), on the border between Kyoto and Shiga Prefecture. The mountain is the prominent ridgeline immediately northeast of Kyoto's urban grid, separating the city from Lake Biwa. Look for the cable car lines ascending the western slope. The temple complex is spread across the forested summit ridge and is difficult to spot individually but the mountain itself is unmistakable. Nearest airports: Osaka Itami (RJOO) approximately 30nm southwest, Kansai International (RJBB) approximately 80nm south. Lake Biwa's vast expanse on the east side of the mountain serves as an excellent visual reference. Expect mountain turbulence and reduced visibility in cloud when flying at or below ridge height.
+
+## Sources
+
+- [Enryaku-ji - Wikipedia](https://en.wikipedia.org/?curid=384114)
+- [Enryaku-ji - Wikipedia](https://en.wikipedia.org/wiki/Enryaku-ji)
+  - Founded 788 by Saicho on Mount Hiei northeast of Kyoto
+  - Saicho established Tendai sect, bringing teachings from Tiantai school in China
+  - Enryaku-ji had up to 3,000 sub-temples at its peak
+  - Nobunaga attacked September 30, 1571, destroying the complex
+  - Main hall reconstructed in 1642 under Tokugawa Iemitsu
+  - UNESCO World Heritage Site as part of Historic Monuments of Ancient Kyoto
+  - Complex organized into three precincts: Todo, Saito, and Yokokawa
+- [Kaihogyo - Wikipedia](https://en.wikipedia.org/wiki/Kaih%C5%8Dgy%C5%8D)
+  - Kaihogyo practice confirmed as ascetic marathon circuit around Mount Hiei
+  - 1000-day practice spread over seven years
+  - Total distance approximately 38,000+ km (story says 'roughly 40,000 km' -- slight overstatement but within rounding)
+  - Practitioners traditionally carried rope and knife as symbols of ritual suicide if unable to complete
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 11 facts verified · 0 corrections
+
+Facts verified: founded 788 by Saicho, Tendai from Tiantai school China, 3000 sub-temples at peak, warrior monk sohei factions confirmed, Nobunaga attack Sep 30 1571 confirmed, main hall rebuilt 1642 under Tokugawa Iemitsu, UNESCO World Heritage confirmed, three precincts (Todo/Saito/Yokokawa) confirmed. Kaihogyo distance: story says 'roughly 40,000 km', sources indicate ~38,000+ km - minor overstatement within rounding range, not corrected. Spiciness 2: factual with strong opening hook.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 790*
+*Read time: 4 minutes*

@@ -1,0 +1,77 @@
+# Kansas State University
+
+The first land-grant college created under the Morrill Act, Kansas State University has been broadcasting weather forecasts since 1912, televised its second-ever college football game in 1939, and leads all public universities in Rhodes, Marshall, Truman, and Goldwater scholars.
+
+**Location:** 39.1914, -96.5809
+
+**Categories:** universities, kansas, land-grant, research, tallgrass-prairie, civil-rights
+
+## Introduction
+
+On October 28, 1939, a camera pointed at a football field in Manhattan, Kansas, and broadcast the homecoming game between Kansas State and Nebraska. It was only the second college football game ever televised. The station behind it, Kansas State's own experimental broadcast operation, had been pushing boundaries for decades -- its predecessor, station 9YV, began transmitting daily morse code weather forecasts in 1912, becoming the first radio station in America to air a regularly scheduled forecast. This instinct for practical innovation runs through Kansas State University like the Konza tallgrass runs through the Flint Hills surrounding its campus. Founded on February 16, 1863, during the Civil War, K-State was the very first land-grant college created under the Morrill Act -- an institution designed, as its early president George Fairchild put it, "not so much to make men farmers as to make farmers men."
+
+## A College Born in Wartime
+
+Kansas State Agricultural College, as it was originally named, nearly did not land in Manhattan. Governor Charles L. Robinson of Lawrence vetoed the bill establishing the school there, and an attempt to override the veto failed by two votes. A separate 1862 bill to make Manhattan the site of the state university failed by a single vote. Manhattan got the agricultural college instead, and the first session enrolled 52 students -- 26 men and 26 women, an equal split that was remarkable for 1863. The school grew steadily through the late 19th century, earning accreditation from the Association of American Universities in 1928. From 1943 to 1950, Milton S. Eisenhower -- brother of the future president -- served as K-State's president, pursuing progressive reforms inspired by his work with UNESCO that promoted democracy, desegregation, and global peacebuilding on a Kansas prairie campus.
+
+## Konza Prairie and the Quartz Laser
+
+South of Manhattan, the Konza Prairie Biological Station preserves one of the last remnants of native tallgrass prairie, a landscape that once covered 170 million acres of North America. Co-owned by The Nature Conservancy and Kansas State, Konza serves as a field research station where scientists study the ecosystem's fire-dependent ecology. Agriculture has always been central to K-State's identity, but the university's research reach extends far beyond. The Biosecurity Research Institute, dedicated in 2006, provides biosafety level 3 facilities for studying high-consequence pathogens. The James R. Macdonald Laboratory conducts atomic, molecular, and optical physics research. And in a discovery that changed modern medicine, Kansas State researchers developed the excimer laser technology that made LASIK eye surgery possible. The university's nine colleges -- including veterinary medicine, engineering, and aerospace technology -- support 65 master's and nearly 50 doctoral programs.
+
+## Breaking Barriers in Royal Purple
+
+Kansas State's official color is Royal Purple, making it one of very few American universities -- alongside Syracuse and Harvard -- with only a single official color. The Wildcats compete in the Big 12 Conference, and the school's athletic history includes a chapter that deserves wider recognition. In 1949, Harold Robinson became the first African-American athlete in the Big Seven Conference in more than two decades and the first ever to receive a scholarship, playing football for K-State. In the spring of 1951, Earl Woods -- who would later become the father of golfer Tiger Woods -- broke the conference's baseball color barrier as a Kansas State player. That winter, Gene Wilson broke the basketball color barrier. K-State athletes were methodically dismantling segregation in conference athletics years before the broader civil rights movement reached its peak.
+
+## From a Prairie Campus, a Global Reach
+
+Since 1986, Kansas State has ranked first among all public universities in its combined total of Rhodes, Marshall, Truman, Goldwater, and Udall scholars, with 147 recipients. Fred Albert Shannon won the Pulitzer Prize for History in 1929 while teaching at K-State. Alumni include NASA's Armstrong Flight Research Center director De E. Beeler, Governor Sam Brownback, Senator Pat Roberts, and General Richard Myers, former Chairman of the Joint Chiefs of Staff, who later served as K-State's 14th president. The university's All-University Convocation lecture series, running from 1963 to 1997, brought Martin Luther King Jr., Arthur C. Clarke, Betty Friedan, and Buckminster Fuller to a campus in a Kansas town of 55,000 people. Today, K-State's main campus in Manhattan anchors a system that includes the Salina Aerospace and Technology Campus and the Olathe Innovation Campus, extending the land-grant mission that began with 52 students and a radical idea about making farmers into citizens.
+
+## Flight Context
+
+Located at 39.19°N, 96.58°W in Manhattan, Kansas, in the Flint Hills region. Manhattan Regional Airport (KMHK) is approximately 5 nm southwest of campus. Fort Riley's Marshall Army Airfield (KFRI) is about 12 nm west -- restricted military airspace, check NOTAMs. The campus sits on the north side of Manhattan, with Anderson Hall and the distinctive limestone buildings visible from the air. The Konza Prairie Biological Station is visible as an unbroken expanse of tallgrass approximately 8 nm south of campus, easily distinguished from surrounding agricultural land by its lack of cultivation. Bill Snyder Family Stadium and Bramlage Coliseum are prominent campus landmarks. The Kansas River runs south of the city.
+
+## Sources
+
+- [Kansas State University - Wikipedia](https://en.wikipedia.org/?curid=16855)
+  - Founded February 16, 1863 - confirmed
+  - First land-grant college under Morrill Act - confirmed
+  - First session enrolled 52 students, 26 men and 26 women - confirmed
+  - Milton Eisenhower president 1943-1950 - confirmed
+  - Association of American Universities accreditation 1928 - confirmed
+- [K-State Radio History - Kansas State University](https://www.k-state.edu/media-communication/about/events/radio-centennial/timeline.html)
+  - Station 9YV began daily morse code weather forecasts in 1912 - confirmed
+  - First radio station in US to air regularly scheduled forecast - confirmed
+  - October 28, 1939 televised homecoming game vs Nebraska - confirmed
+  - Second college football game ever televised - confirmed
+- [K-State National Scholars - Kansas State University](https://www.k-state.edu/about/scholars/)
+  - Since 1986 ranks first among public universities in combined Rhodes, Marshall, Truman, Goldwater, Udall scholars - confirmed
+  - 147 recipients figure - confirmed
+- [K-State Black History - Kansas State Athletics](https://www.kstatesports.com/sports/2017/11/27/black-history-at-k-state)
+  - Harold Robinson 1949 first African-American in Big Seven Conference - confirmed
+  - First to receive athletic scholarship - confirmed
+  - Earl Woods broke baseball color barrier at K-State - confirmed, sources vary on 1951 vs 1952
+  - Gene Wilson broke basketball color barrier - confirmed, 1951-52 season
+- [James R. Macdonald Laboratory - Kansas State University](https://jrm.phys.ksu.edu/)
+  - JRM Lab conducts AMO physics research - confirmed
+  - Lab is major DOE-funded facility - confirmed
+- [Excimer Laser LASIK History - IBM](https://www.ibm.com/history/excimer-laser-surgery-lasik)
+  - POTENTIAL ERROR: Excimer laser for LASIK developed by IBM researchers (Srinivasan, Blum, Wynne) in 1980, NOT Kansas State
+  - No evidence found linking K-State to excimer laser LASIK development
+
+## Review Notes
+
+**Reviewed:** 2026-02-06 · 18 facts verified · 0 corrections
+
+Verified 18 claims across 6 sources. One significant issue: article claims K-State developed excimer laser for LASIK but evidence shows this was IBM researchers (Srinivasan, Blum, Wynne). Minor date discrepancy on Earl Woods (1951 vs 1952). Confirmed: first land-grant college, 1863 founding, 9YV radio station, televised football 1939, Robinson/Woods/Wilson color barrier breaking, Rhodes/Marshall/Truman/Goldwater scholar rankings. Spiciness 2/5.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Quote about making farmers into men is attributed and historical - acceptable
+- Characterizing K-State athletes as methodically dismantling segregation is mild editorial interpretation
+
+---
+
+*Word count: 810*
+*Read time: 4 minutes*

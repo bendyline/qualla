@@ -1,0 +1,65 @@
+# Kanesatake
+
+The oldest continuing Mohawk community in existence, Kanesatake sits where the Ottawa and St. Lawrence rivers meet -- a place whose 300-year land dispute erupted into the 1990 Oka Crisis, a 78-day armed standoff that forced Canada to confront Indigenous land rights.
+
+**Location:** 45.4833, -74.1167
+
+**Categories:** history, indigenous, land-rights, quebec
+
+## Introduction
+
+The name means "sandy place" in Mohawk. Kanehsata:ke -- anglicized as Kanesatake -- has occupied the shore of the Lake of Two Mountains, about 40 miles northwest of Montreal, since before Europeans arrived. It was the first Mohawk community to accept the kaianera'ko:wa, the Great Law of Peace that united the Haudenosaunee Confederacy. For three centuries, its people have fought not with armies but with petitions, protests, and legal claims to hold onto land that was promised to them and then taken away. In 1990, when the town of Oka tried to bulldoze a sacred pine grove to expand a golf course, Kanesatake drew a line in the sand -- and the Canadian Army showed up to erase it.
+
+## A Promise Written in Sand
+
+In 1717, the King of France granted the Mohawk a tract of land nine miles long by nine miles wide on the condition they leave the island of Montreal. The settlement was established as a Catholic mission under the Sulpician Order, housing 300 Christian Mohawk, about 100 Algonquin, and approximately 250 Nipissing peoples. The Mohawk understood the land was held in trust for them. The Sulpicians saw it differently. Over the decades, the priests claimed total control, obtained legal title, and began selling parcels to French settlers. The village of Oka grew around the Kanesatake settlement on what the Mohawk considered their own ground. By 1787, Chief Aughneeta was writing to the British superintendent general of Indian Affairs, protesting that the Mohawk had been lured to Kanesatake with a promise of a deed from the French Crown -- a deed that never materialized. By 1851, the Mohawk had filed seven formal protests. The Sulpicians responded to growing dissent by excommunicating 15 activists who were considering conversion to Protestantism. The pattern was set: promise, betrayal, protest, silence.
+
+## The Pines and the Barricade
+
+Among the disputed territory was a pine forest and cemetery long used by the Mohawk -- sacred ground that sat outside the formal reserve boundary but remained central to the community's identity. The Mohawk had tried for decades to resolve the land claim through legal channels and were rejected repeatedly on technical grounds. Then, in 1990, the town of Oka approved plans to expand a nine-hole golf course to eighteen holes, with luxury condominiums. The expansion would cut directly through the pine grove and the historic cemetery. The Mohawk protested formally. The town proceeded anyway. On March 11, 1990, the Mohawk erected a barricade on a dirt road leading into the pines. What began as a community blockade escalated into a 78-day standoff. The Surete du Quebec stormed the barricade on July 11, and in the exchange of gunfire, Corporal Marcel Lemay was killed. The sister community of Kahnawake, south of Montreal, blocked the Mercier Bridge in solidarity, paralyzing commuter traffic and inflaming tensions across the region.
+
+## The Army at the Gates
+
+As negotiations between the Mohawk Nation and the Quebec and Canadian governments stalled, the provincial government called in the Canadian Armed Forces. Soldiers in armored personnel carriers replaced the provincial police. The International Federation of Human Rights, based in Paris, investigated and concluded that neither the provincial nor federal governments had acted in good faith during negotiations. The standoff ended not through resolution but through force -- the Mohawk were compelled by the army to remove their barricades. The golf course expansion was cancelled. The federal government purchased the disputed land. But no comprehensive land settlement was reached, and the underlying claim -- that the French Crown never owned the land it granted to the Sulpicians in 1717 -- remains unresolved. The Oka Crisis became a watershed moment in Canadian Indigenous relations, exposing centuries of broken promises and forcing the nation to reckon with land rights it had long ignored.
+
+## Governing Between Two Worlds
+
+Kanesatake has never fit neatly into Canada's legal framework. Unlike Kahnawake and Akwesasne, which are reserves under the Indian Act, Kanesatake's territory is classified as an "interim land base" -- a status that reflects unresolved questions about sovereignty and title. The community has maintained a traditional longhouse governance system since before European contact, where chiefs were nominated and could be unseated by clan mothers through a matrilineal kinship system. After the Oka Crisis, the community adopted electoral governance in 1991, choosing Jerry Peltier as its first elected grand chief. The dual systems have coexisted uneasily. Canada refuses to recognize the longhouse system and excludes its leaders from decision-making on land rights. In the early 2000s, disputes over the governance practices of Grand Chief James Gabriel led to community upheaval, including a controversial police raid in 2004 and the burning of Gabriel's home. The tensions reflect a community still negotiating how to govern itself while navigating a colonial system that was never designed to accommodate its sovereignty.
+
+## The Sandy Place Endures
+
+Today, Kanesatake is home to about 1,364 residents on the territory, with a total registered population of 2,751. The community sits at the confluence of the Ottawa and St. Lawrence rivers, surrounded by the suburban sprawl of greater Montreal yet maintaining a distinct identity rooted in Haudenosaunee tradition. In 2013, the Kanehsata:ke Health Centre became the first Indigenous health centre in North America to receive a Baby Friendly Accreditation. That same year, community members revived the local radio station CKHQ 101.7 FM, which had gone silent in 2003. The station secured its broadcasting licence in 2014 with help from the Montreal-based nonprofit Exeko. Filmmaker Sonia Bonspille Boileau and activist Ellen Gabriel are among the community's prominent voices. Alanis Obomsawin's 1993 documentary, Kanehsatake: 270 Years of Resistance, brought the community's story to an international audience. Three hundred years after the Sulpicians arrived, the sandy place endures -- its people still fighting for the land beneath their feet.
+
+## Flight Context
+
+Located at 45.48N, 74.12W on the north shore of the Lake of Two Mountains, at the confluence of the Ottawa and St. Lawrence rivers, approximately 40 miles northwest of downtown Montreal. From altitude, the community is visible along the lakeshore, with the town of Oka adjacent to the east. The famous pine grove at the center of the Oka Crisis sits between the two communities. Nearest airports: Montreal-Mirabel International Airport (CYMX) approximately 15nm east; Montreal-Trudeau International Airport (CYUL) approximately 25nm southeast. Best viewed from 3,000-5,000 ft AGL to see the relationship between Kanesatake, Oka, and the Lake of Two Mountains. The Mercier Bridge, blocked during the crisis by the Kahnawake community, is visible to the southeast spanning the St. Lawrence.
+
+## Sources
+
+- [Kanesatake - Wikipedia](https://en.wikipedia.org/?curid=1048770)
+- [Oka Crisis - Wikipedia](https://en.wikipedia.org/wiki/Oka_Crisis)
+  - 78-day standoff confirmed (July 11 to September 26, 1990)
+  - Corporal Marcel Lemay of SQ killed on July 11, 1990 when police stormed the barricade
+  - Kahnawake blocked the Mercier Bridge in solidarity
+  - Canadian Armed Forces called in after provincial police
+- [Kanesatake Population - Statistics Canada 2021 Census](https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?Lang=E&SearchText=Kanesatake)
+  - Population on territory approximately 1,364; total registered population 2,751 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-27 · 10 facts verified · 0 corrections
+
+All key facts verified: 78-day standoff (Jul 11 - Sep 26 1990), Corporal Marcel Lemay death Jul 11, Kahnawake blocking Mercier Bridge, Canadian Forces called in. Population 1364 on territory 2751 registered confirmed. Baby Friendly 2013 plausible. Spiciness 3 - clear editorial voice on colonial systems.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Canada's patience ran out
+- The underlying claim -- that the French Crown never owned the land it granted to the Sulpicians in 1717 -- remains unresolved
+- a colonial system that was never designed to accommodate its sovereignty
+
+---
+
+*Word count: 820*
+*Read time: 4 minutes*

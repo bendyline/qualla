@@ -146,5 +146,24 @@
     "_m/v/s/e/m/sabetta-wp/category-2.jpg",
     "_m/v/s/e/m/sabetta-wp/category-3.jpg"
   ],
-  "updatedAt": "2026-04-01T08:30:31.906Z"
+  "updatedAt": "2026-04-01T08:30:31.906Z",
+  "narration": {
+    "files": [
+      "vsem-sabetta-flight-context.mp3",
+      "vsem-sabetta-intro.mp3",
+      "vsem-sabetta-built-on-nothing.mp3",
+      "vsem-sabetta-ice-class-logistics.mp3",
+      "vsem-sabetta-the-money-behind-the-ice.mp3",
+      "vsem-sabetta-a-port-without-a-city.mp3"
+    ],
+    "durations": {
+      "vsem-sabetta-flight-context.mp3": 50.6055416,
+      "vsem-sabetta-intro.mp3": 48.2538333,
+      "vsem-sabetta-built-on-nothing.mp3": 63.5279583,
+      "vsem-sabetta-ice-class-logistics.mp3": 66.492375,
+      "vsem-sabetta-the-money-behind-the-ice.mp3": 66.8114166,
+      "vsem-sabetta-a-port-without-a-city.mp3": 61.6492916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

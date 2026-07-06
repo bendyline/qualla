@@ -275,5 +275,24 @@
     "_m/9/q/j/z/mojave-desert-wp/mojave-desert-banner.jpg",
     "_m/9/q/j/z/mojave-desert-wp/ladwp-mojave-district-headquar.jpg"
   ],
-  "updatedAt": "2026-02-18T00:49:57.678Z"
+  "updatedAt": "2026-02-18T00:49:57.678Z",
+  "narration": {
+    "files": [
+      "9qjz-mojave-desert-flight-context.mp3",
+      "9qjz-mojave-desert-intro.mp3",
+      "9qjz-mojave-desert-francisco-garc-s-and-jedediah-smith.mp3",
+      "9qjz-mojave-desert-the-joshua-tree.mp3",
+      "9qjz-mojave-desert-the-geology-beneath.mp3",
+      "9qjz-mojave-desert-the-cultural-desert.mp3"
+    ],
+    "durations": {
+      "9qjz-mojave-desert-flight-context.mp3": 45.7371666,
+      "9qjz-mojave-desert-intro.mp3": 50.2847916,
+      "9qjz-mojave-desert-francisco-garc-s-and-jedediah-smith.mp3": 55.1304583,
+      "9qjz-mojave-desert-the-joshua-tree.mp3": 61.9987916,
+      "9qjz-mojave-desert-the-geology-beneath.mp3": 65.1145,
+      "9qjz-mojave-desert-the-cultural-desert.mp3": 66.238375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

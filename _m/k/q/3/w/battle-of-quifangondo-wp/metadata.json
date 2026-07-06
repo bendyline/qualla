@@ -264,5 +264,26 @@
     "_m/k/q/3/w/battle-of-quifangondo-wp/esta-obra-e-de-autoria.jpg",
     "_m/k/q/3/w/battle-of-quifangondo-wp/avenida-comandante-val.jpg",
     "_m/k/q/3/w/battle-of-quifangondo-wp/kamp-van-angolese-bevr.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kq3w-battle-of-quifangondo-flight-context.mp3",
+      "kq3w-battle-of-quifangondo-intro.mp3",
+      "kq3w-battle-of-quifangondo-a-war-before-the-war.mp3",
+      "kq3w-battle-of-quifangondo-the-road-to-death-road.mp3",
+      "kq3w-battle-of-quifangondo-forty-minutes-that-changed-everything.mp3",
+      "kq3w-battle-of-quifangondo-collapse-on-the-highway.mp3",
+      "kq3w-battle-of-quifangondo-independence-at-midnight.mp3"
+    ],
+    "durations": {
+      "kq3w-battle-of-quifangondo-flight-context.mp3": 39.8582916,
+      "kq3w-battle-of-quifangondo-intro.mp3": 47.968,
+      "kq3w-battle-of-quifangondo-a-war-before-the-war.mp3": 67.964125,
+      "kq3w-battle-of-quifangondo-the-road-to-death-road.mp3": 81.402,
+      "kq3w-battle-of-quifangondo-forty-minutes-that-changed-everything.mp3": 79.4925833,
+      "kq3w-battle-of-quifangondo-collapse-on-the-highway.mp3": 70.0658333,
+      "kq3w-battle-of-quifangondo-independence-at-midnight.mp3": 78.0069583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

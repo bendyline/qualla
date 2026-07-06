@@ -651,5 +651,24 @@
     "_m/d/r/5/p/drew-university-wp/drewpath.jpg",
     "_m/d/r/5/p/drew-university-wp/drewscenery.jpg"
   ],
-  "updatedAt": "2026-03-30T11:19:00.458Z"
+  "updatedAt": "2026-03-30T11:19:00.458Z",
+  "narration": {
+    "files": [
+      "dr5p-drew-university-flight-context.mp3",
+      "dr5p-drew-university-intro.mp3",
+      "dr5p-drew-university-the-robber-barons-gift.mp3",
+      "dr5p-drew-university-from-seminary-to-university.mp3",
+      "dr5p-drew-university-a-campus-between-worlds.mp3",
+      "dr5p-drew-university-firsts-and-futures.mp3"
+    ],
+    "durations": {
+      "dr5p-drew-university-flight-context.mp3": 38.7197083,
+      "dr5p-drew-university-intro.mp3": 48.160375,
+      "dr5p-drew-university-the-robber-barons-gift.mp3": 61.7865833,
+      "dr5p-drew-university-from-seminary-to-university.mp3": 62.4998333,
+      "dr5p-drew-university-a-campus-between-worlds.mp3": 56.6058333,
+      "dr5p-drew-university-firsts-and-futures.mp3": 68.4782083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

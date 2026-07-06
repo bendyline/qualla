@@ -671,5 +671,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "s14k-freedom-park-lagos-flight-context.mp3",
+      "s14k-freedom-park-lagos-intro.mp3",
+      "s14k-freedom-park-lagos-bricks-fire-and-colonial-priorities.mp3",
+      "s14k-freedom-park-lagos-the-prisoners-who-changed-a-nation.mp3",
+      "s14k-freedom-park-lagos-from-dumping-ground-to-creative-space.mp3",
+      "s14k-freedom-park-lagos-where-lagos-comes-to-breathe.mp3"
+    ],
+    "durations": {
+      "s14k-freedom-park-lagos-flight-context.mp3": 43.93,
+      "s14k-freedom-park-lagos-intro.mp3": 42.2689583,
+      "s14k-freedom-park-lagos-bricks-fire-and-colonial-priorities.mp3": 58.2468333,
+      "s14k-freedom-park-lagos-the-prisoners-who-changed-a-nation.mp3": 55.0420833,
+      "s14k-freedom-park-lagos-from-dumping-ground-to-creative-space.mp3": 64.6715833,
+      "s14k-freedom-park-lagos-where-lagos-comes-to-breathe.mp3": 51.7851666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

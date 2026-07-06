@@ -879,5 +879,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w56y-rakhine-state-flight-context.mp3",
+      "w56y-rakhine-state-intro.mp3",
+      "w56y-rakhine-state-a-kingdom-behind-the-mountains.mp3",
+      "w56y-rakhine-state-conquest-and-the-colonial-pivot.mp3",
+      "w56y-rakhine-state-war-independence-and-unrest.mp3",
+      "w56y-rakhine-state-fractures-and-crisis.mp3",
+      "w56y-rakhine-state-the-arakan-armys-rise.mp3"
+    ],
+    "durations": {
+      "w56y-rakhine-state-flight-context.mp3": 39.8576666,
+      "w56y-rakhine-state-intro.mp3": 56.0365833,
+      "w56y-rakhine-state-a-kingdom-behind-the-mountains.mp3": 66.145,
+      "w56y-rakhine-state-conquest-and-the-colonial-pivot.mp3": 77.48925,
+      "w56y-rakhine-state-war-independence-and-unrest.mp3": 63.7246666,
+      "w56y-rakhine-state-fractures-and-crisis.mp3": 54.1815416,
+      "w56y-rakhine-state-the-arakan-armys-rise.mp3": 64.743375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

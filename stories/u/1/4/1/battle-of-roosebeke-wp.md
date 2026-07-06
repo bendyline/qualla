@@ -1,0 +1,69 @@
+# Battle of Roosebeke
+
+The 1382 clash where Flemish urban militia met French chivalry on a foggy hillside, and a rebellion died with its leader.
+
+**Location:** 50.9300, 3.0136
+
+**Categories:** Battles involving France, Battles involving Flanders, Battles of the Hundred Years' War, History of West Flanders, 1382 in Europe, Conflicts in 1382
+
+## Introduction
+
+When Count Louis II of Flanders demanded that the men of Ghent present themselves with halters around their necks so he could choose whom to pardon and whom to execute, they chose instead to fight. On May 3rd, 1382, led by Philip van Artevelde, they smashed Louis's overconfident army at Beverhoutsveld. But victories by commoners against nobles could not be tolerated in fourteenth-century Europe. The French nobility, facing their own peasant unrest at home, assembled an army that would meet the Flemish rebels on the Goudberg hill at Roosebeke six months later.
+
+## A City That Would Not Bow
+
+Ghent in 1382 was one of the great commercial cities of northern Europe, its wealth built on the cloth trade. The citizens had rebelled against Count Louis II's rule, and when he besieged them and offered his brutal terms of surrender, they turned to Philip van Artevelde, son of a famous rebel leader from an earlier generation. Van Artevelde was a merchant, not a soldier, but he understood that submission meant death. The victory at Beverhoutsveld stunned Flanders. Towns across the county declared for Ghent. But Louis fled to his son-in-law, Philip the Bold of Burgundy, who effectively ruled France during the childhood of King Charles VI. The Flemish rebellion now threatened not just a count but the entire feudal order.
+
+## The Gathering Storm
+
+The French assembled 10,000 men south of Arras in early November: 6,500 men-at-arms, 2,000 pikemen, and 1,500 crossbowmen and archers. King Charles VI himself rode with the army, along with the dukes of Burgundy, Bourbon, and Berry. Most significantly, they carried the Oriflamme, the sacred battle standard of France that had not been unfurled since the disastrous Battle of Poitiers in 1356. Its presence signaled that no quarter would be given. Philip van Artevelde had perhaps 30,000 to 40,000 men, mostly urban levies from Ghent and allied towns. He had been besieging Oudenaarde when news came of the French advance. Leaving a skeleton force, he moved west to intercept them.
+
+## The Crossing at Comines
+
+Van Artevelde assured the people of Ypres that the French would never cross the Lys River. He was wrong. At Comines, 900 Flemish soldiers under Peter van den Bossche and Peter de Winter held the broken bridge. But the French commander Olivier de Clisson ferried 400 knights across the river in boats. These volunteers spent an anxious night on the far bank, then joined battle in the morning. The bridge was soon rebuilt, the bulk of the French army crossed, and the superior force quickly routed the Flemish spearmen. Van den Bossche escaped wounded. In the aftermath, several Flemish towns quietly paid ransoms to the French king and withdrew from the rebellion. The momentum had shifted.
+
+## Fog on the Goudberg
+
+Van Artevelde made his stand on the Goudberg, a hill between Oostnieuwkerke and Passendale. On the morning of November 27th, dense fog blanketed the slopes. Van Artevelde planned to use the mist for a surprise attack, ordering his men to advance in a tight square formation to prevent cavalry from breaking through. The French, remembering the catastrophic defeat at the Battle of the Golden Spurs eighty years earlier when Flemish infantry had slaughtered French knights, sent their own infantry forward first. Van Artevelde's militia repelled this initial assault and pressed forward. Then Olivier de Clisson struck. Heavy cavalry smashed into the Flemish flanks, which had become exposed during the advance. Panic spread through the rear ranks, who began to flee.
+
+## The Death of a Dream
+
+The main body of Flemish troops had no choice but to form a circle, the classic defensive posture of desperate infantry. But surrounded and compressed, they could not maneuver. French cavalry and infantry pushed inward. Philip van Artevelde was killed in the crush. His body was found after the battle, stripped, and put on public display as a warning to other would-be rebels. Yet Philip the Bold, who would become Count of Flanders when Louis II died two years later, could not simply crush Ghent. He needed the city's economic power. The rebellion continued for three more years until the Peace of Tournai was signed on December 8th, 1385, restoring a measure of autonomy to the stubborn city. The Goudberg today is quiet farmland. No monuments mark where the Flemish militia made their stand, where medieval Europe's urban middle class briefly challenged the mounted aristocracy and lost.
+
+## Flight Context
+
+Located at 50.93N, 3.014E near Westrozebeke (modern Passendale area) in West Flanders, Belgium. The Goudberg hill where the battle was fought lies between Oostnieuwkerke and Passendale, in the same region that would see intense fighting 535 years later during World War I. The terrain is flat Flemish farmland with gentle rises. Nearest major city is Ypres (Ieper), approximately 12km southwest. Nearest airports: Kortrijk-Wevelgem (EBKT) 20km south, Ostend-Bruges International (EBOS) 35km northwest.
+
+## Sources
+
+- [Battle of Roosebeke - Wikipedia](https://en.wikipedia.org/?curid=3190738)
+  - November 27, 1382 date
+  - fought on Goudberg hill
+  - Philip van Artevelde killed
+  - Flemish 30,000-40,000 troops
+  - French 10,000 troops (6,500 men-at-arms, 2,000 pikemen, 1,500 crossbowmen/archers)
+- [The Hundred Years War - Battle of Roosebeke](https://thehundredyearswar.co.uk/battle-of-roosebeke/)
+  - Oriflamme unfurled for first time since Battle of Poitiers 1356
+  - Olivier de Clisson as French commander
+  - King Charles VI present with army
+- [Wikipedia - Battle of Beverhoutsveld](https://en.wikipedia.org/wiki/Battle_of_Beverhoutsveld)
+  - May 3, 1382 Battle of Beverhoutsveld
+  - Louis II demanded surrender with halters around necks
+  - Ghent rebellion against Count Louis II
+- [Britannica - Battle of Roosebeke](https://www.britannica.com/topic/Battle-of-Roosebeke)
+  - Peace of Tournai December 8, 1385
+  - Philip the Bold became Count of Flanders
+  - dense fog on morning of battle
+
+## Review Notes
+
+**Reviewed:** 2026-01-23 · 14 facts verified · 0 corrections
+
+Verified: November 27 1382 date, Goudberg location, Philip van Artevelde death, Oriflamme first use since Poitiers 1356, French army composition (10,000 troops), Flemish army size (30-40k), Peace of Tournai December 8 1385, halter surrender terms, May 3 1382 Beverhoutsveld. All major facts confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 783*
+*Read time: 4 minutes*

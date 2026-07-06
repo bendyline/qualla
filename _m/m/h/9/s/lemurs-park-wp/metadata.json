@@ -553,5 +553,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "mh9s-lemurs-park-flight-context.mp3",
+      "mh9s-lemurs-park-intro.mp3",
+      "mh9s-lemurs-park-second-chances-in-pine-and-bamboo.mp3",
+      "mh9s-lemurs-park-six-thousand-trees.mp3",
+      "mh9s-lemurs-park-thirty-seven-thousand-students.mp3",
+      "mh9s-lemurs-park-a-short-drive-from-the-capital.mp3"
+    ],
+    "durations": {
+      "mh9s-lemurs-park-flight-context.mp3": 42.3255416,
+      "mh9s-lemurs-park-intro.mp3": 47.527,
+      "mh9s-lemurs-park-second-chances-in-pine-and-bamboo.mp3": 54.723875,
+      "mh9s-lemurs-park-six-thousand-trees.mp3": 56.4824583,
+      "mh9s-lemurs-park-thirty-seven-thousand-students.mp3": 69.6425833,
+      "mh9s-lemurs-park-a-short-drive-from-the-capital.mp3": 60.767
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

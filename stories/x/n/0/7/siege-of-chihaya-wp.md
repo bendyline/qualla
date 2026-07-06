@@ -1,0 +1,62 @@
+# Siege of Chihaya: The Mountain That Broke a Shogunate
+
+In 1333, a vastly outnumbered garrison on Mount Kongo used dummy soldiers, rolling boulders, and brilliant deception to hold Chihaya Castle against the Kamakura shogunate's army for three months -- a siege that changed the course of Japanese history.
+
+**Location:** 34.4172, 135.6512
+
+**Categories:** military-history, historic-site, medieval-japan, siege, mountain
+
+## Introduction
+
+Five hundred samurai crouched in the darkness behind straw figures dressed in armor. Below them, torches bobbed through the forest as thousands of Hojo warriors advanced up Mount Kongo toward what they believed was a sortie force. When the attackers were close enough to see the crude faces painted on cloth, Kusunoki Masashige gave the signal. Fifty boulders thundered down the mountainside. Three hundred men died in minutes. It was one stratagem among many that Kusunoki employed during the spring of 1333, and it turned a desperate mountain holdout into the most celebrated siege in Japanese military history.
+
+## A Fortress Among the Clouds
+
+Chihaya Castle was never meant to be beautiful. Built in 1332 on the upper slopes of Mount Kongo in Kawachi Province, it existed for a single purpose: to be impossible to take. The site rises to the southeast of modern-day Osaka, where the Kongo mountain range forms a natural wall between the Osaka Plain and the Yamato Basin. Steep valleys drop away to the east and west. Rugged peaks guard the approaches from north and south. Kusunoki Masashige chose this ground deliberately after learning a bitter lesson at the nearby siege of Akasaka in 1331, where the Hojo had starved his garrison into surrender by cutting off water supplies. At Chihaya, there would be no such vulnerability. He stockpiled provisions, fortified every approach with felled trees and loose boulders, and prepared archer screens of brush along the ridgelines. The mountain itself would fight alongside his men.
+
+## The Trickster General
+
+Kusunoki Masashige is remembered in Japan as the ideal of samurai loyalty -- a warrior who served Emperor Go-Daigo unto death. But at Chihaya, he was something more unusual: a tactical genius who fought with wit rather than honor codes. His garrison numbered perhaps a thousand against a besieging army that swelled into the tens of thousands. Rather than meet force with force, Kusunoki fought with deception. The dummy soldier ruse was his most famous trick, but it was only the beginning. When the Hojo built a massive movable bridge to span a ravine and reach the castle walls, Kusunoki's men waited until it was packed with soldiers, then set it ablaze. He launched surprise night sorties that killed hundreds and vanished before dawn. He rolled logs and boulders down prepared chutes onto massed infantry. Each stratagem cost the Hojo men, morale, and time -- the one resource Kusunoki needed most.
+
+## Three Months That Shattered an Era
+
+The siege lasted from roughly March to late June of 1333, and its consequences reached far beyond the mountain. While the Hojo committed ever more troops to the slopes of Mount Kongo, their grip on the rest of Japan loosened. Pro-imperial revolts flickered across the provinces. Samurai clans that had been waiting to see which way the wind blew watched Kusunoki's impossible stand and chose their side. Prince Morinaga rallied supporters in the mountains of Yoshino. Emperor Go-Daigo, who had been exiled to the Oki Islands, escaped and returned to the mainland with growing support. The Hojo commanders at Chihaya could not break through; they could not withdraw without admitting defeat. When word reached the besiegers that the Hojo's Rokuhara headquarters in Kyoto had fallen to Ashikaga Takauji's forces, the siege collapsed. The army melted away. Chihaya had held.
+
+## A Warrior's Legacy
+
+The victory at Chihaya helped trigger the end of the Kamakura shogunate and the brief Kenmu Restoration of imperial rule under Go-Daigo. Kusunoki Masashige became the emperor's most trusted commander, but his story did not end in triumph. Three years later, in 1336, he died at the Battle of Minatogawa fighting against Ashikaga Takauji, who had turned against the emperor. Legend says Kusunoki knew the battle was unwinnable but marched to his death out of loyalty. That devotion made him one of Japan's most revered historical figures for centuries. Chihaya Castle itself continued to serve as a fortification until 1390, when it fell to the Ashikaga shogunate. Today the castle site on Mount Kongo is marked by Chihaya Shrine, built in Kusunoki's honor during the Meiji era, surrounded by cedar forest and the steep terrain that once made a small garrison invincible.
+
+## Flight Context
+
+Located at 34.42N, 135.65E on the upper slopes of Mount Kongo (1,125 meters / 3,691 feet), the highest peak in the Kongo mountain range on the border of Osaka and Nara prefectures. The castle site sits along the ridgeline southeast of the Osaka Plain. From altitude, the Kongo range appears as a forested wall separating the flat Osaka basin to the west from the Yamato Basin to the east. Best viewed at 3,000-5,000 feet AGL. Kansai International Airport (RJBB) lies approximately 30 nautical miles to the southwest. Osaka Itami Airport (RJOO) is approximately 20 nautical miles to the northwest. Be aware of mountainous terrain and potential cloud cover around the summit.
+
+## Sources
+
+- [Siege of Chihaya - Wikipedia](https://en.wikipedia.org/?curid=7021452)
+- [Siege of Chihaya, March-22 June 1333 - History of War](https://www.historyofwar.org/articles/siege_chihaya_1333.html)
+  - Siege lasted from March to late June 1333
+  - Siege was the turning point of the Genko War
+  - Hojo failure to capture castle pinned down their main army
+- [Samurai Kusunoki Masashige - Warfare History Network](https://warfarehistorynetwork.com/article/samurai-kusunoki-masashige/)
+  - Dummy soldiers dressed in armor stratagem
+  - 500 samurai concealed behind dummies
+  - 50 boulders dropped killing 300 and wounding 500
+  - Movable bridge burned with soldiers on it
+  - Night sorties launched against besiegers
+- [Chihaya Castle - Jcastle.info](https://jcastle.info/view/Chihaya_Castle)
+  - Castle built 1332 on Mount Kongo
+  - Steep valleys east and west, rugged peaks north and south
+  - Chihaya Shrine built on castle site during Meiji era
+
+## Review Notes
+
+**Reviewed:** 2026-02-18 · 12 facts verified · 0 corrections
+
+Pre-existing review verified and confirmed. Castle built 1332, siege March-June 1333, dummy soldiers and boulder tactics confirmed, Rokuhara HQ fall confirmed, castle fell 1390 to Ashikaga confirmed, Chihaya Shrine Meiji era confirmed, Minatogawa 1336 confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

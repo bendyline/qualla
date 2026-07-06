@@ -1,0 +1,62 @@
+# Operation Tungsten
+
+The only successful Fleet Air Arm strike against the battleship Tirpitz caught the warship by surprise in a Norwegian fjord, landing fifteen bombs and killing 122 of her crew in a devastating dawn raid.
+
+**Location:** 69.9353, 23.0454
+
+**Categories:** World War II naval operations, Fleet Air Arm, Arctic convoys, Tirpitz attacks
+
+## Introduction
+
+The airmen chalked messages on the bombs before loading them. It was 4 a.m. on 3 April 1944, still dark over the Norwegian Sea, and the five aircraft carriers of the British Home Fleet were 120 miles from Kaafjord. Within the hour, 42 Fairey Barracuda dive bombers and 80 escort fighters would be airborne, heading for the most dangerous ship in the Arctic. Operation Tungsten was the Fleet Air Arm's best chance to neutralize the German battleship Tirpitz, and everything depended on catching her before her defenders could light the smokescreens.
+
+## A Battleship Holding the Allies Hostage
+
+Tirpitz arrived in Norway in January 1942 and immediately reshaped Allied naval strategy. From anchorages deep in Norwegian fjords, the battleship threatened the Arctic convoys carrying war material to the Soviet Union. She rarely put to sea, but the possibility that she might forced the British to keep a powerful Home Fleet at permanent readiness. Capital ships had to accompany convoys partway to Russia, pulling warships from other theaters. Attempts to neutralize the threat had failed repeatedly: torpedo bombers from HMS Victorious missed with all twenty torpedoes in March 1942, and RAF and Soviet bombers attacked her anchorages multiple times without scoring a hit. Midget submarines finally damaged Tirpitz in September 1943 during Operation Source, putting her out of action for six months. By early 1944, repairs were nearly complete, and British intelligence tracked the progress through decoded German radio signals and Norwegian agents. The fear that Tirpitz might sortie against convoys or divert forces needed for the coming invasion of France made another attack urgent.
+
+## Four Months of Rehearsal
+
+Planning began in December 1943 under Vice Admiral Sir Henry Moore. First Sea Lord Sir Andrew Cunningham had to persuade Vice Admiral Bruce Fraser, the Home Fleet commander, that the operation was worth the risk. The Americans agreed to loan a carrier to the Eastern Fleet so that HMS Victorious could stay in the North Sea. The plan centered on two rapid dive-bombing waves of 21 Barracudas each, escorted by Corsairs, Wildcats, and Hellcats. Strike Leader Roy Sydney Baker-Falkner would lead both waves. A new 1,600-pound armor-piercing bomb offered hope of penetrating at least the first layer of Tirpitz's deck armor if dropped from above 3,500 feet. The squadrons trained relentlessly at Loch Eriboll in northern Scotland, where the terrain mirrored Kaafjord so closely that post-attack reports would describe the actual raid as 'almost an exercise which they had frequently carried out before.' Norwegian intelligence agents near Alta began sending hourly weather reports to the Admiralty on 1 April.
+
+## Surprise at Dawn
+
+Fortune favored the British. Decoded German signals revealed that Tirpitz's sea trials had slipped to 3 April, and Fraser advanced the attack by 24 hours to catch the ship preparing to leave her berth. When the first wave crossed the Norwegian coastline, a German radar station detected the aircraft but failed to warn Tirpitz promptly. The battleship's crew were busy unmooring for trials, her five protective destroyers already gone to the trials area in Stjern Sound. Not all watertight doors were closed when the Hellcats and Wildcats screamed in low, strafing the anti-aircraft guns and killing many of the exposed gunners. Ten bombs struck Tirpitz during the first wave. The second wave launched at 5:25 a.m. and arrived over Kaafjord before the artificial smokescreen could fully form; five more bombs hit the battleship within a minute. In total, fifteen bombs landed on target. Tirpitz's funnel, catapult, floatplanes, and several gun turrets were destroyed or badly damaged. Fires and smoke filled the ship.
+
+## Wounded But Not Killed
+
+The raid killed 122 of Tirpitz's crew and wounded 316, roughly 15 percent of the ship's company. Many casualties were anti-aircraft gunners caught in the open by fighter strafing. Nine British airmen died, including the crews of two Barracudas that crashed. Vice Admiral Moore considered a third strike the following afternoon but decided against it: photos suggested serious damage, his aircrew were exhausted, and the fjord's defenses would now be on full alert. The fleet returned to Scapa Flow on 6 April. The damage was real but not fatal. Most bombs had been dropped below the planned minimum altitude, reducing their velocity and penetrating power. The armor deck held. Grand Admiral Karl Donitz ordered repairs, which were completed by mid-July using equipment and workmen shipped from Germany. Tungsten remained the only carrier raid to seriously hurt Tirpitz. Every subsequent attempt between April and August 1944 failed, stymied by bad weather and smokescreens, until the task was finally handed to RAF Bomber Command and its heavy Tallboy bombs in September.
+
+## Flight Context
+
+Coordinates: 69.94°N, 23.05°E, at Kaafjord in Altafjord, northern Norway. The carrier strike force launched from approximately 120 miles offshore. The fjord anchorage is surrounded by steep terrain that the British replicated during training at Loch Eriboll, Scotland. Nearest airports: Alta (ENAT) approximately 10 km southwest; Lakselv/Banak (ENNA) approximately 100 km east. From altitude, the branching fjord system is clearly visible against the mountainous coastline.
+
+## Sources
+
+- [Operation Tungsten - Wikipedia](https://en.wikipedia.org/?curid=3282123)
+  - 3 April 1944 date confirmed
+  - 42 Fairey Barracuda dive bombers confirmed
+  - 80 escort fighters confirmed
+  - five aircraft carriers confirmed
+  - strike leader Roy Sydney Baker-Falkner confirmed
+  - 120 miles from Kaafjord confirmed
+  - first wave ten bombs hit Tirpitz confirmed
+  - second wave five more bombs confirmed
+  - fifteen bombs total confirmed
+  - 122 crew killed confirmed
+  - 316 wounded confirmed
+  - nine British airmen died confirmed
+  - Kaafjord location confirmed
+  - German sea trials slipped to 3 April and attack advanced 24 hours confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 13 facts verified · 0 corrections
+
+Verified 3 April 1944, 42 Barracudas, 80 escort fighters, 5 carriers, strike leader Baker-Falkner, 120 miles offshore, 15 bombs hit, 122 killed, 316 wounded, 9 British airmen died, repairs complete by mid-July. All key facts confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 810*
+*Read time: 4 minutes*

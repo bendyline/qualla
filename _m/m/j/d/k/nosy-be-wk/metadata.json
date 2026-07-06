@@ -506,5 +506,24 @@
     "_m/m/j/d/k/nosy-be-wk/grue-au-port-de-nosy-be.jpg",
     "_m/m/j/d/k/nosy-be-wk/la-poste-nosy-be.jpg"
   ],
-  "updatedAt": "2026-03-30T22:32:01.443Z"
+  "updatedAt": "2026-03-30T22:32:01.443Z",
+  "narration": {
+    "files": [
+      "mjdk-nosy-be-flight-context.mp3",
+      "mjdk-nosy-be-intro.mp3",
+      "mjdk-nosy-be-hell-ville-and-the-beaches-beyond.mp3",
+      "mjdk-nosy-be-lokobe-and-the-living-forest.mp3",
+      "mjdk-nosy-be-the-satellite-islands.mp3",
+      "mjdk-nosy-be-paradise-with-edges.mp3"
+    ],
+    "durations": {
+      "mjdk-nosy-be-flight-context.mp3": 52.825875,
+      "mjdk-nosy-be-intro.mp3": 48.9749166,
+      "mjdk-nosy-be-hell-ville-and-the-beaches-beyond.mp3": 64.9042083,
+      "mjdk-nosy-be-lokobe-and-the-living-forest.mp3": 70.8672083,
+      "mjdk-nosy-be-the-satellite-islands.mp3": 70.43725,
+      "mjdk-nosy-be-paradise-with-edges.mp3": 74.8655
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

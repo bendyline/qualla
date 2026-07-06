@@ -1,0 +1,68 @@
+# The Don CeSar
+
+A lovestruck real estate developer poured his heartbreak into a pink Moorish palace on the Gulf Coast, and the Jazz Age playground he built has survived bankruptcy, war, and abandonment to remain one of Florida's most iconic landmarks.
+
+**Location:** 27.7089, -82.7375
+
+**Categories:** architecture, history, hotels, landmark
+
+## Introduction
+
+Thomas Rowe never got over Lucinda. The young Englishman had fallen for an opera singer in London, but her parents forbade the match, and the couple parted forever. Decades later, living in Florida, Rowe channeled that unresolved passion into architecture. In 1924, he purchased land on the barrier island between St. Petersburg and Pass-a-Grille and announced he would build a pink castle on the sand. The result, which opened in January 1928, was The Don CeSar -- a flamboyant confection of Mediterranean arches, Moorish towers, and candy-pink stucco that became the Gulf Coast's most glamorous resort during the final roaring years of the Jazz Age. Named after the swashbuckling hero of the opera Maritana by William Vincent Wallace, the hotel was Rowe's monument to a love he could never have.
+
+## A Castle Built on Heartbreak
+
+Rowe hired architect Henry Dupont and contractor Carlton Beard, and together they studied the grand hotels of Palm Beach, Coral Gables, and Boca Raton before settling on a design that borrowed freely from all of them: arched openings, red clay tile roofs, ornamental balconies, and tower-like upper stories rendered in stucco over hollow tile. The original plan called for a six-story, 110-room hotel at a cost of $450,000. By the time Beard finished, it had 220 rooms and 220 baths, and the budget had soared to $1.25 million -- 300 percent over the original estimate. Building on a barrier island posed its own challenge. Rather than driving hundreds of pilings into the shifting sand, Beard devised a system of floating concrete pads and pyramid footings. Nearly a century later, the hotel shows no sign of settling. On the fifth floor, Rowe installed a fountain -- a replica of the one in London where he and Lucinda had first met.
+
+## Playground of the Pampered Rich
+
+Through the late 1920s and into the 1930s, The Don CeSar became the winter escape of choice for the wealthy and famous. Franklin D. Roosevelt visited, as did a parade of presidents that would eventually include every commander-in-chief from Gerald Ford onward, with the sole exception of Ronald Reagan. The hotel's pink towers became a beacon visible for miles along the flat Gulf shoreline, a landmark for fishermen and aviators alike. But the good times depended on Rowe's relentless energy. When he died suddenly without a will, the property passed to his estranged wife, and The Don began a slow slide into disrepair. By the early 1940s, the Gulf Coast's most glamorous address was fading into a shadow of its former self, its ballrooms quiet, its pink walls peeling in the salt air.
+
+## From Ballroom to Hospital Ward
+
+World War II gave the building a second life, though not the one Rowe had imagined. The U.S. Army purchased The Don CeSar in 1942 for $450,000 -- the same price Rowe had originally budgeted for the entire construction -- and converted it into a military hospital. Elegant guest rooms became medical wards, and the grand lobby gave way to operating rooms. By February 1944, the hotel had been redesignated a convalescent center for the Army Air Corps. After the war ended, the building was ordered closed in June 1945 and sat vacant until the Veterans Administration took it over as a regional office by the end of that year. The VA employed more than 1,400 people in the repurposed hotel before finally relocating to downtown St. Petersburg in 1967, leaving the building empty once again.
+
+## The Pink Palace Returns
+
+Abandoned for the second time, The Don CeSar faced demolition. But the building's sheer spectacle -- that unmistakable mass of pink standing against the blue Gulf -- had made it a part of the community's identity. Preservation efforts eventually succeeded, and the hotel was restored and reopened as a luxury resort. Hollywood took notice: parts of Once Upon a Time in America were filmed there, Robert Altman shot his film Health inside its walls, and Tom Petty and The Heartbreakers used it as a backdrop for a 1985 music video. Today The Don CeSar is a member of Historic Hotels of America through the National Trust for Historic Preservation. The building stands on the National Register of Historic Places, its pink towers still rising above the white sand beach exactly as Rowe envisioned them a century ago.
+
+## Ghosts and Legends
+
+Staff and guests have long reported the ghost of Thomas Rowe wandering the hallways of the hotel he built for a woman he could never marry. The story fits the building's temperament -- theatrical, romantic, a little excessive. The Don CeSar has always been more than a place to sleep. It is a physical expression of one man's refusal to let go of a grand feeling, translated into arches and towers and an audacious shade of pink. The fountain Rowe built on the fifth floor -- the replica of the one where he met Lucinda -- was eventually removed during a renovation, but the sentiment it represented has proven more durable than any fixture. From the air, the hotel is impossible to miss: a pink rectangle on a narrow strip of sand between the Gulf of Mexico and Boca Ciega Bay, as conspicuous and unapologetic as the love story that inspired it.
+
+## Flight Context
+
+Located at 27.71N, 82.74W on St. Pete Beach, a barrier island on Florida's Gulf Coast. The Don CeSar's distinctive pink facade is visible from considerable altitude against the white sand -- look for it on the narrow island between the Gulf of Mexico to the west and Boca Ciega Bay to the east. Nearby airports: KSPG (Albert Whitted Airport, 8nm north on the St. Petersburg waterfront), KPIE (St. Pete-Clearwater International, 15nm north), KTPA (Tampa International, 25nm northeast). Best viewed at 2,000-3,000 ft AGL. The Sunshine Skyway Bridge is visible to the south across the mouth of Tampa Bay.
+
+## Sources
+
+- [The Don CeSar - Wikipedia](https://en.wikipedia.org/?curid=1968300)
+  - Opened 1928 confirmed
+  - Thomas Rowe purchased land in 1924 for $100,000 confirmed
+  - Architect Henry Dupont and contractor Carlton Beard confirmed
+  - Original 110 rooms expanded to 220 rooms confirmed
+  - Budget overrun from $450,000 to $1.25 million confirmed
+  - Named after Don Cesar de Bazan from opera Maritana by William Vincent Wallace confirmed
+  - Army purchased for $450,000 in 1942 confirmed
+  - Converted to military hospital December 1942 confirmed
+  - Convalescent center for Army Air Corps February 1944 confirmed
+  - VA regional office from end of 1945 to 1967 confirmed
+  - FDR and every president since Ford except Reagan visited confirmed
+  - Tom Petty music video 1985 confirmed
+  - Robert Altman film Health confirmed
+  - Once Upon a Time in America filmed there confirmed
+  - Rowe and Lucinda love story confirmed
+  - Floating concrete pad and pyramid footings confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 16 facts verified · 1 correction
+
+All historical facts verified from prior review. Fixed spiciness from invalid value 0 to 2 (mild - story has romantic framing but no strong opinions). Hotel opened January 16 1928. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

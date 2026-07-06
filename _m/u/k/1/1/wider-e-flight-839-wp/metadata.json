@@ -115,5 +115,24 @@
   "galleryPaths": [
     "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png",
     "_m/9/t/s/p/las-cruces-bowling-alley-massacre-wp/hero.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "uk11-wider-e-flight-839-flight-context.mp3",
+      "uk11-wider-e-flight-839-intro.mp3",
+      "uk11-wider-e-flight-839-an-airport-the-wind-owned.mp3",
+      "uk11-wider-e-flight-839-the-fallout.mp3",
+      "uk11-wider-e-flight-839-a-question-of-metal.mp3",
+      "uk11-wider-e-flight-839-vindication-and-legacy.mp3"
+    ],
+    "durations": {
+      "uk11-wider-e-flight-839-flight-context.mp3": 46.623625,
+      "uk11-wider-e-flight-839-intro.mp3": 43.6247083,
+      "uk11-wider-e-flight-839-an-airport-the-wind-owned.mp3": 59.364,
+      "uk11-wider-e-flight-839-the-fallout.mp3": 52.8720416,
+      "uk11-wider-e-flight-839-a-question-of-metal.mp3": 69.6000416,
+      "uk11-wider-e-flight-839-vindication-and-legacy.mp3": 66.0930416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -47,5 +47,24 @@
     "sourceGeohash4": "ku14"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "ku14-chibuene-flight-context.mp3",
+      "ku14-chibuene-intro.mp3",
+      "ku14-chibuene-shark-hunters-and-ocean-traders.mp3",
+      "ku14-chibuene-beads-that-traveled-the-world.mp3",
+      "ku14-chibuene-under-the-influence-of-manyikeni.mp3",
+      "ku14-chibuene-drought-change-and-persistence.mp3"
+    ],
+    "durations": {
+      "ku14-chibuene-flight-context.mp3": 40.5519583,
+      "ku14-chibuene-intro.mp3": 51.8534583,
+      "ku14-chibuene-shark-hunters-and-ocean-traders.mp3": 71.2620416,
+      "ku14-chibuene-beads-that-traveled-the-world.mp3": 75.0866666,
+      "ku14-chibuene-under-the-influence-of-manyikeni.mp3": 73.7170416,
+      "ku14-chibuene-drought-change-and-persistence.mp3": 63.7049166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

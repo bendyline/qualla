@@ -1,0 +1,60 @@
+# Jotunheimen National Park
+
+The Home of the Giants: 1,151 square kilometers of Norway's highest mountains, where more than 250 peaks exceed 1,900 meters, Stone Age hunting camps lie beside melting glaciers that are yielding 1,500-year-old Viking arrowheads, and Peer Gynt took his famous fictional reindeer ride along the Besseggen Ridge.
+
+**Location:** 61.5000, 8.3667
+
+**Categories:** national-parks, mountains, hiking, archaeology, literature
+
+## Introduction
+
+In 1862, a Norwegian poet named Aasmund Olavsson Vinje stood among these peaks and gave them a name borrowed from Norse mythology: Jotunheimen, the Home of the Giants. The name stuck, not because it was accurate in any geological sense but because it was exactly right in every other way. More than 250 peaks in this range exceed 1,900 meters, including Northern Europe's three highest: Galdhopiggen at 2,469 meters, Glittertind at 2,452 meters, and Store Skagastolstind at 2,405 meters. The landscape is built from Precambrian gabbro, some of the oldest and hardest rock on the planet, carved by glaciers that have left behind a topography of knife-edge ridges, hanging valleys, and lakes so deep their water appears black. Jotunheimen National Park protects 1,151 square kilometers of this terrain, established by Royal Decree in December 1980. It is practically roadless. To see it, you walk.
+
+## Deep Time and Deeper Ice
+
+The geology of Jotunheimen is ancient even by geological standards. The gabbro rock that forms its highest peaks dates to the Precambrian era, more than 500 million years ago. Glaciers have been sculpting this rock for the past 2.5 million years, grinding U-shaped valleys and depositing moraines that now dam the mountain lakes. Those glaciers are still at work, though diminished. In February 2020, researchers from the Secrets of the Ice Program announced the discovery of a 1,500-year-old Viking arrowhead, dating to the Germanic Iron Age, that had emerged from a melting glacier in the Jotunheimen mountains. The iron arrowhead, 17 centimeters long and weighing just 28 grams, was found with its cracked wooden shaft and the remains of a feather still attached. Climate change is revealing what the ice preserved for centuries: artifacts from hunters who stalked reindeer across these peaks long before anyone thought to name them after giants.
+
+## The Besseggen Ridge and Peer Gynt's Ride
+
+Henrik Ibsen set the most famous scene in Norwegian literature on a knife-edge ridge above Lake Gjende. In his 1867 verse drama Peer Gynt, the title character describes riding a wild reindeer along the Besseggen Ridge, a narrow spine of rock that separates the emerald-green Gjende from the blue-black Bessvatnet, 400 meters below on the other side. Whether Ibsen intended the Besseggen or the Knutsho ridge on Gjende's opposite shore remains a literary debate, but the Besseggen has claimed the association, and roughly 30,000 hikers walk the ridge each summer to prove it. The hike is one of Norway's most popular, a full-day traverse from Memurubu to Gjendesheim that requires scrambling over exposed rock with steep drops on both sides. Gjende itself is the park's most recognizable lake, 18 kilometers long, its vivid green color produced by glacial sediment suspended in the water.
+
+## Royal Roads and Mountain Huts
+
+Long before Jotunheimen was a national park, it was a trade route. A 15th-century Royal Road decree required the residents of Lom to keep the mountain crossing over Sognefjell passable, giving farmers from the Gudbrandsdal valley access to their trading town of Bergen on the western coast. Caravans carried agricultural products down the mountains and returned with salt, iron, cloth, and lutefisk. The high pastures served as seters, summer mountain farms, for at least a thousand years. Stone Age hunting camps have been found near the lakes Gjende and Russvatnet, with remains extending through the Bronze and Iron Ages. In 1869, the Norwegian Mountain Touring Association, known as DNT, built its first hut on the shores of Lake Tyin. Today, the DNT operates a network of staffed and unstaffed cabins across Jotunheimen that makes it one of the best-developed touring areas in Europe, allowing hikers to walk from hut to hut across the mountains for days without carrying a tent.
+
+## Where the Poets and Composers Walked
+
+Jotunheimen has drawn writers and musicians since Vinje coined its name. His poetry collection of 1864 celebrated the mountains with the romantic nationalism typical of 19th-century Norway, a movement that sought national identity in landscape. In 1889, the English composer Frederick Delius sketched his symphonic poem On the Mountains during a walking holiday here with Edvard Grieg and Christian Sinding, three composers absorbing the scale of the peaks and translating it into orchestral sound. A memorial to Vinje was erected in 1909 at the western end of Lake Bygdin, at Eidsbugarden, where he had kept a private hut. Today Eidsbugarden is a mountain tourist center with a restored hotel, a DNT cabin, and approximately 160 private huts. Wildlife in the park includes lynx, moose, reindeer, wolverine, and Norwegian red deer. Most lakes and rivers hold trout. The park's practical roadlessness is deliberate: only one blind road penetrates its boundary, leading up the Veodalen to the Glitterheim hut near the base of Glittertind.
+
+## Flight Context
+
+Located at 61.50N, 8.37E spanning Innlandet and Vestland counties. The park contains Northern Europe's highest peaks, visible as a rugged massif of bare rock and glaciers. From the air, key landmarks include the distinctive green Lake Gjende, the Besseggen Ridge, and the Galdhopiggen summit. Norwegian County Road 55 crosses the plateau between Jotunheimen and Breheimen to the west. Nearest airports: Fagernes/Leirin (ENFG) approximately 60 km southeast, Sogndal/Haukasen (ENSG) approximately 65 km west. Best viewed at 10,000-15,000 feet; the terrain is extremely mountainous with peaks approaching 8,100 feet MSL.
+
+## Sources
+
+- [Jotunheimen National Park - Wikipedia](https://en.wikipedia.org/?curid=1652453)
+  - 1,151 sq km area confirmed
+  - established December 1980 confirmed
+  - 250+ peaks over 1,900m confirmed
+  - Galdhopiggen 2,469m confirmed
+  - Glittertind 2,452m confirmed (glacier cap now gone as of 2023)
+  - Store Skagastolstind 2,405m confirmed
+  - Besseggen Ridge and Gjende lake confirmed
+  - 30,000 hikers annually on Besseggen confirmed
+  - Viking arrowhead found 2020 confirmed
+  - DNT first hut on Lake Tyin 1869 confirmed
+- [Glittertind - Wikipedia](https://en.wikipedia.org/wiki/Glittertind)
+  - Glittertind elevation 2,452m confirmed as rock summit (glacier cap disappeared September 2023)
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 10 facts verified · 0 corrections
+
+Verified 1151sqkm area, Galdhopiggen 2469m, Glittertind 2452m (rock summit, glacier cap gone 2023), Store Skagastolstind 2405m, established December 1980, Viking arrowhead found 2020. All facts confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

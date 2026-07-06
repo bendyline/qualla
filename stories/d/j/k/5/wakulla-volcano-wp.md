@@ -1,0 +1,79 @@
+# Wakulla Volcano
+
+For over two centuries, a mysterious column of smoke rose from the swamps of Wakulla County, Florida, convincing settlers they lived near an active volcano -- until the 1886 Charleston earthquake silenced it forever.
+
+**Location:** 30.1875, -84.0853
+
+**Categories:** Florida Folklore, Mysteries, Geological Curiosities, Wakulla County, Historical Phenomena
+
+## Introduction
+
+The word Wakulla may mean "mist" or "misting" in the Seminole language, and for centuries, the name was literal. A dark column of smoke rose persistently from the dense, impassable swamps southeast of Tallahassee, visible from as far as twenty miles away. Seminoles living nearby knew about it long before European settlers arrived. By the 1830s, white settlers had given it a name that captured both their fascination and their dread: the Wakulla Volcano. No one could reach its source. No one could explain it. And on August 31, 1886, the same day a catastrophic earthquake leveled much of Charleston, South Carolina, the smoke vanished and never returned.
+
+## Smoke Without Fire
+
+The earliest recorded accounts come from the Seminoles, who noted the persistent smoke without alarm. As American settlement pushed into northwest Florida in the early nineteenth century, newcomers offered their own theories. Some blamed campfires from hidden Indian settlements. Others suspected pirates using the deep swamp as a hideout, or renegades on the run. The most dramatic explanation, and the one that stuck, was that an active volcano smoldered somewhere in the wetlands. Sightings were reported throughout the nineteenth century, and the phenomenon was consistent enough to earn mention in geological surveys and newspaper columns from New Orleans to New York. The smoke appeared as both dark billows and pale wisps, sometimes accompanied by a strange glow at night, which only reinforced the volcanic theory.
+
+## Expeditions into the Unknown
+
+The mystery was irresistible. Several teams of investigators set out to find the source during the late nineteenth century, hacking through some of the most impenetrable swampland in the Southeast. The Smithsonian Institution holds correspondence from A. W. Barber, who explored the area between 1890 and 1894, documenting his attempts to locate the origin of the smoke. In the 1920s, expeditions led by Kirkland and Porter pushed deeper into the swamp. William Wyatt conducted multiple searches in the 1930s. None of them found a volcano. None of them found anything that definitively explained what generations of witnesses had seen. The swamp, thick with cypress and muck, kept its secret.
+
+## The Day the Smoke Died
+
+August 31, 1886 brought one of the most powerful earthquakes ever recorded in the eastern United States. The magnitude 7.0 Charleston earthquake killed approximately 100 people, destroyed much of the city, and was felt across a vast swath of the Southeast. On that same day, the Wakulla smoke ceased. The coincidence was too striking to ignore. Researcher Wilfred Neil later theorized that the seismic activity may have collapsed underground passages or shifted the water table, snuffing out whatever had been burning deep in the swamp. After more than two centuries of persistent sightings, the phenomenon simply stopped. No one ever saw the smoke again.
+
+## A Volcano That Never Was
+
+Modern geologists are quite certain that no volcano could exist in Florida. The state sits on a thick platform of limestone and sedimentary rock, far from any tectonic plate boundary or volcanic hotspot. University of Florida researchers have confirmed that while volcanic rock does exist roughly 7,500 feet below the surface of Wakulla County, it shows no signs of recent activity. The leading scientific explanation is far more mundane: a deep-burning peat fire. Florida's swamps accumulate thick layers of organic peat that, once ignited by lightning or spontaneous combustion, can smolder underground for decades, producing persistent columns of smoke. State Librarian W. T. Cash endorsed this theory in the 1930s, noting that his own mother had witnessed the smoke around 1870. Similar subterranean fires have burned for years in Pennsylvania's coal country.
+
+## The Mystery Endures
+
+Despite the peat fire theory, the Wakulla Volcano has never been fully explained. A 1997 expedition to the suspected area found only scattered limestone outcrops, common formations throughout the region. Some locals over the years offered more colorful explanations: moonshine stills hidden deep in the swamp, pockets of flammable gas escaping through fissures, even hot springs. Folklore gave it names like "the Devil's tar kiln" and "the Old Man smoking his pipe." The truth is that no one ever pinpointed the source before it disappeared, and the swamp has long since reclaimed whatever evidence may have existed. What remains is one of Florida's most enduring mysteries, a reminder that this flat, seemingly familiar landscape still holds secrets in its deepest places.
+
+## Flight Context
+
+The Wakulla Volcano's approximate location is at 30.188N, 84.085W in the swamplands of Wakulla County, Florida, southeast of Tallahassee. From the air, the area appears as dense, unbroken wetland forest with no distinguishing features -- fitting for a mystery that was never solved on the ground. The surrounding landscape is part of the Wacissa Swamp and St. Marks National Wildlife Refuge complex. Nearest airport: Tallahassee International (KTLH), approximately 18nm to the north-northwest. Best viewed at 2,000-3,000 feet AGL, though there is nothing visible today to mark where the smoke once rose.
+
+## Sources
+
+- [Wakulla Volcano](https://en.wikipedia.org/wiki/Wakulla_Volcano)
+- [The Wakulla Volcano, Part 3: A Florida Mystery Solved](https://flowriter.net/2018/12/11/the-wakulla-volcano-part-3-a-florida-mystery-solved/)
+  - W.T. Cash endorsed peat fire theory in 1930s
+  - Cash's mother witnessed smoke around 1870
+  - William Wyatt conducted multiple searches in 1930s
+  - Kirkland and Porter expeditions in 1920s
+  - 1997 expedition found only scattered limestone
+  - University of Florida confirmed volcanic rock at 7,500 feet with no recent activity
+  - Wilfred Neil theorized peat fires ended due to seismic activity
+- [This Florida 'swamp volcano' remains a mystery](https://www.clickorlando.com/features/2024/01/25/this-florida-swamp-volcano-remains-a-mystery-heres-why/)
+  - Smoke visible from 20 miles away
+  - Charleston earthquake magnitude approximately 7.0
+  - Approximately 100 killed in Charleston earthquake
+  - Smoke ceased on August 31 1886
+- [1886 Charleston earthquake - Wikipedia](https://en.wikipedia.org/wiki/1886_Charleston_earthquake)
+  - Earthquake magnitude estimated 6.9-7.3 (article's 7.0 within range)
+  - Death toll disputed: 60-110 (article says approximately 100, within range)
+  - Occurred August 31, 1886
+  - One of most powerful earthquakes in eastern US history
+- [Wakulla Volcano - Wikipedia](https://en.wikipedia.org/wiki/Wakulla_Volcano)
+  - Smithsonian holds A.W. Barber correspondence 1890-1894
+  - Smoke ceased same day as Charleston earthquake
+  - Florida sits on limestone platform far from tectonic boundaries
+  - Peat fire theory is leading scientific explanation
+- [The Wakulla Volcano Part 2: In Search Of - FloWriter](https://flowriter.net/2018/12/04/the-wakulla-volcano-part-2-in-search-of/)
+  - Kirkland and Porter expeditions in 1920s confirmed
+  - William Wyatt searches in 1930s confirmed
+  - 1997 expedition found scattered limestone outcrops
+
+## Review Notes
+
+**Reviewed:** 2026-02-12 · 14 facts verified · 0 corrections
+
+All major facts verified: smoke visible 20mi, August 31 1886 cessation matching Charleston earthquake, magnitude 7.0 within confirmed range, death toll approximately 100 within disputed 60-110 range, AW Barber Smithsonian 1890-1894, Kirkland/Porter 1920s, Wyatt 1930s, WT Cash peat fire theory, 1997 expedition, volcanic rock 7500ft depth. No factual errors found. Spiciness 1.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

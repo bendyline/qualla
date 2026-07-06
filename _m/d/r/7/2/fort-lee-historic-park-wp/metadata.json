@@ -548,5 +548,24 @@
     "_m/d/r/7/2/fort-lee-historic-park-wp/fort-lee-historic-park-02-sold.jpg",
     "_m/d/r/7/2/fort-lee-historic-park-wp/fort-lee-historic-park-04-visi.jpg"
   ],
-  "updatedAt": "2026-03-30T14:20:47.633Z"
+  "updatedAt": "2026-03-30T14:20:47.633Z",
+  "narration": {
+    "files": [
+      "dr72-fort-lee-historic-park-flight-context.mp3",
+      "dr72-fort-lee-historic-park-intro.mp3",
+      "dr72-fort-lee-historic-park-twin-fortresses-on-a-doomed-river.mp3",
+      "dr72-fort-lee-historic-park-the-view-from-the-bluff.mp3",
+      "dr72-fort-lee-historic-park-the-retreat-that-saved-a-revolution.mp3",
+      "dr72-fort-lee-historic-park-cannons-and-bridges.mp3"
+    ],
+    "durations": {
+      "dr72-fort-lee-historic-park-flight-context.mp3": 48.05475,
+      "dr72-fort-lee-historic-park-intro.mp3": 32.6308333,
+      "dr72-fort-lee-historic-park-twin-fortresses-on-a-doomed-river.mp3": 57.8574166,
+      "dr72-fort-lee-historic-park-the-view-from-the-bluff.mp3": 59.8087083,
+      "dr72-fort-lee-historic-park-the-retreat-that-saved-a-revolution.mp3": 61.895,
+      "dr72-fort-lee-historic-park-cannons-and-bridges.mp3": 62.5421666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

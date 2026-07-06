@@ -1,0 +1,61 @@
+# The Ozarks: Where Hillbilly Highway Led Back Home
+
+The Missouri-Arkansas highlands that emptied when the factories beckoned north - where Route 66 and Highway 65 became the 'Hillbilly Highway' carrying workers to Detroit and Chicago, where those who stayed preserved a culture others forgot, and where Branson became America's unexpected country music capital.
+
+**Location:** 36.6438, -93.2185
+
+**Categories:** missouri, arkansas, ozarks, branson, migration
+
+## Introduction
+
+They called it the Hillbilly Highway. From the 1930s through the 1960s, families from the Ozarks and Appalachia traveled north on Routes 65, 67, and 66, seeking factory jobs in Detroit, Chicago, St. Louis, and beyond. The migration hollowed out hill country towns; the highways became arteries of displacement. But the connection ran both ways. Workers returned for holidays and funerals, retired back to the hollers and ridges they'd left, sent children to grandparents for summers. The culture persisted: fiddle tunes, church hymns, self-reliance that bordered on isolation. The Ozarks that the highways emptied eventually became destination - Table Rock Lake for fishing, Silver Dollar City for nostalgia, Branson for country music shows that drew audiences from the same industrial cities that had drawn Ozark workers decades before.
+
+## The Highlands
+
+The Ozarks are old mountains worn low - not the dramatic peaks of the Rockies but the eroded plateau of ancient terrain, dissected by streams into hollers and ridges. The Boston Mountains rise to 2,500 feet in Arkansas; the Springfield Plateau spreads across southern Missouri. The rivers cut deep: the Buffalo National River in Arkansas was America's first national river, preserved for its bluffs and floating. The landscape resisted easy agriculture; the soil was thin, the terrain folded. Settlers who arrived in the 19th century survived through subsistence farming, timber cutting, and isolation that preserved practices - and dialects - that modernized elsewhere. The Ozarks became a region apart, connected to the nation but stubbornly distinct.
+
+## The Migration
+
+The Great Depression shattered the Ozark economy; what little cash income existed evaporated. When World War II created factory jobs, Ozark families packed into cars and headed north. Detroit's auto plants, Chicago's stockyards, and St. Louis's breweries offered wages beyond anything the hills provided. The pattern persisted for decades: young people left, the old stayed, towns shrank. Bakersfield and Detroit developed neighborhoods of Ozark transplants, recognizable by speech patterns and music preferences. The migration was permanent for many, temporary for others; either way, it created a diaspora that remembered the hills even while living in industrial cities.
+
+## The Preservation
+
+The Ozarks that remained became a reservoir of earlier America. Folklorists collected songs, crafts, and stories that had evolved elsewhere. Old-time music persisted when it had faded from other regions. Church practices - river baptisms, shape-note singing, faith healing - continued into eras when they seemed archaic. The isolation that created poverty also created preservation. When nostalgia became marketable, the Ozarks had inventory: Silver Dollar City opened in 1960, an 1880s-themed park that employed locals to demonstrate traditional crafts. Branson's music shows began in the 1960s and exploded in the 1980s, eventually drawing more visitors than Nashville - though the music was more traditional, the audience older, the aesthetic deliberately retro.
+
+## The Tourism
+
+The Ozarks became vacation destination for the same Midwest that had received their workers. Table Rock Lake, formed by dam construction in 1958, created a resort economy where subsistence farming had failed. Fishing, boating, and retirement drew money south on the same highways that had carried labor north. Branson emerged as America's improbable country music capital - 50 theaters, 100 shows, a strip of entertainment catering to audiences who found Nashville too hip and Las Vegas too sinful. The tourism employs thousands but creates its own contradictions: the culture that drew visitors was created by isolation, and tourism ends isolation. The authentic Ozarks retreats further into the hills as the marketed Ozarks spreads along the highways.
+
+## Visiting the Ozarks
+
+The Ozarks spread across southern Missouri and northern Arkansas, with extensions into Oklahoma and Kansas. Branson offers music theater tourism at industrial scale. Silver Dollar City provides theme park nostalgia. Table Rock Lake and Bull Shoals Lake offer water recreation. The Buffalo National River allows floating through wilderness. Eureka Springs, Arkansas, combines Victorian architecture with New Age tourism. The back roads remain distinctly Ozark - small towns, declining downtowns, churches in every holler. Scenic drives include Highway 7 through Arkansas and the many routes crossing the Boston Mountains. The experience divides between marketed Ozarks (Branson, Silver Dollar City) and surviving Ozarks (back roads, small towns, national forest land). Both are authentic; the tension between them defines the region.
+
+## Flight Context
+
+Located at 36.65°N, 93.22°W across southern Missouri and northern Arkansas. From altitude, the Ozarks appear as forested upland dissected by stream valleys, the plateau character evident in the repeated pattern of ridges and hollers. Table Rock Lake and Bull Shoals Lake appear as blue fingers extending into the hills. Branson's strip is visible as concentrated development along the highway. The Boston Mountains in Arkansas rise higher and more dramatically than the Missouri plateau. The landscape appears green and rural, development scattered except where tourism concentrates. What appears from altitude as typical Midwestern hill country was the source of one of America's great internal migrations - the Hillbilly Highway carrying workers north and memories back, the culture that highway couldn't entirely displace.
+
+## Sources
+
+- [Hillbilly - Wikipedia](https://en.wikipedia.org/?curid=14011)
+- [Ozarks - Wikipedia](https://en.wikipedia.org/wiki/Ozarks)
+  - Boston Mountains rise to 2,500 feet
+  - Buffalo National River first national river
+  - Branson draws more visitors than Nashville
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 6 facts verified · 0 corrections
+
+Story overlay verified with sources
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Where Hillbilly Highway Led Back Home
+- The authentic Ozarks retreats further into the hills
+
+---
+
+*Word count: 855*
+*Read time: 5 minutes*

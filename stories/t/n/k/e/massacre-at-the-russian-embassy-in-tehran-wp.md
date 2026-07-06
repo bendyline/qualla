@@ -1,0 +1,68 @@
+# Massacre at the Russian Embassy in Tehran
+
+In January 1829, an angry mob stormed the Russian Embassy in Tehran and killed nearly everyone inside, including the celebrated playwright Alexander Griboyedov, in a violent collision of diplomacy, imperial humiliation, and religious fury.
+
+**Location:** 35.7000, 51.4167
+
+**Categories:** history, diplomacy, conflict, 19th-century
+
+## Introduction
+
+Alexander Griboyedov was better known for writing comedies. His play Woe from Wit had made him one of Russia's most celebrated literary figures, a sharp satirist who skewered Moscow's aristocratic pretensions with a wit that still echoes through Russian theater. But in the winter of 1829, the 34-year-old playwright found himself in Tehran, serving as Russia's ambassador to Qajar Persia -- a posting that would cost him his life and leave his body so mutilated that it could only be identified by a duel wound to his left hand.
+
+## A Treaty Written in Humiliation
+
+The roots of the massacre lay in the Treaty of Turkmenchay, signed in February 1828 to end the Russo-Persian War of 1826-1828. The treaty was devastating for Persia. It forced the Qajar dynasty to cede territories across the South Caucasus -- including the khanates of Erivan and Nakhchivan -- and pay a crippling indemnity of 20 million silver rubles. Fath-Ali Shah Qajar, the Persian ruler, bore the humiliation with barely concealed rage. When Griboyedov arrived in Tehran that autumn as Russia's envoy, he carried with him the authority to demand what remained unpaid. He also carried the right, under the treaty, to repatriate any subjects of the former Persian territories who wished to leave -- a provision that would soon ignite the crisis.
+
+## Refuge and Provocation
+
+In January 1829, two Armenian women who had been kept as concubines fled the harem of a Persian nobleman and sought protection at the Russian Embassy. Shortly afterward, a eunuch named Yakub Mirza escaped from the Shah's own harem and joined them. Griboyedov, invoking the repatriation clause of the Turkmenchay Treaty, sheltered all three. He refused to return them. The decision was legally defensible but politically incendiary. Persian clergy declared that the Russian ambassador had violated Islamic law and the precepts of Sharia by harboring women from a Muslim household. In a city still seething over the treaty's humiliations, these pronouncements landed like sparks on dry kindling. The grievance was no longer merely political. It had become religious.
+
+## The Day the Embassy Fell
+
+On January 30, 1829, a massive crowd surged toward the Russian residence. Estimates placed the mob at tens of thousands, armed with knives, stones, and sticks. They broke through the compound gates. Yakub Mirza was killed first, and the two Armenian women were seized and returned. But the violence did not stop. The crowd attacked the embassy building itself. Griboyedov and his Cossack guards fought back desperately. According to accounts, the playwright killed 18 attackers before he was overwhelmed. When it was over, the toll was staggering: Griboyedov, 16 Cossacks, 30 servants, and five other embassy members lay dead. Only one member of the diplomatic mission -- a secretary named Ivan Maltsov -- survived by hiding in another part of the compound.
+
+## The Diamond That Bought Silence
+
+Russia, the dominant military power in the region, could have used the massacre as a pretext for another war. Tsar Nicholas I chose otherwise. Persia dispatched Fath-Ali Shah's grandson, Khosrow Mirza, to St. Petersburg on a mission of apology. He brought with him the Shah Diamond, one of the most famous jewels in the world, as an offering of regret. The Tsar accepted both the apology and the diamond, reportedly declaring, 'I consign this unhappy Tehran incident to eternal oblivion.' The diplomatic calculation was pragmatic: Russia was already embroiled in war with the Ottoman Empire and had little appetite for a second front. The massacre was officially forgotten, its victims traded for a gemstone and geopolitical convenience.
+
+## A Writer's Ghost in Tehran
+
+Griboyedov's remains were transported from Tehran to Tiflis, present-day Tbilisi in Georgia, where he was buried at the Mtatsminda Pantheon. His widow, the Georgian princess Nino Chavchavadze, whom he had married just months before his death, is said to have had inscribed on his tomb the words: 'Your thoughts and actions are immortal in Russian memory; yet, why did my love outlive you?' A memorial stone stands at the Armenian St. Thaddaeus Church in Tehran, marking the site of one of the nineteenth century's most violent diplomatic incidents. The embassy itself was rebuilt. The treaty endured. But the playwright who went to Persia carrying the authority of an empire came home in a coffin, a reminder that the distance between diplomacy and catastrophe can collapse in a single winter morning.
+
+## Flight Context
+
+Located at 35.70N, 51.42E in central Tehran, Iran. The site of the former Russian Embassy sits in the dense urban core of the city, visible only at low altitude. Mehrabad International Airport (OIII) is approximately 10 km to the west. Imam Khomeini International Airport (OIIE) lies about 50 km to the south. The Alborz Mountains rise prominently to the north, providing a dramatic backdrop when approaching Tehran from any direction.
+
+## Sources
+
+- [Massacre at the Russian Embassy in Tehran - Wikipedia](https://en.wikipedia.org/?curid=78329484)
+  - Treaty of Turkmenchay signed February 1828, ending Russo-Persian War of 1826-1828
+  - Griboyedov was 34 years old at time of death (born January 15, 1795; died February 11, 1829)
+  - Two Armenian women and a eunuch named Yakub Mirza sought refuge at the embassy
+  - Massacre occurred January 30 (Julian calendar), February 11 (Gregorian) 1829
+  - Corrected: 'childhood injury to his left hand' changed to 'duel wound to his left hand' -- scar was from his duel with Yakubovich
+  - Corrected: tomb inscription 'Your mind and works' changed to 'Your thoughts and actions' per Presidential Library of Russia source
+  - Death toll: Griboyedov plus approximately 16 Cossacks, 30 servants, 5 embassy members -- consistent with sources
+  - Only survivor was secretary Ivan Maltsev/Maltsov
+  - Khosrow Mirza delivered Shah Diamond (88.7-carat) to Tsar Nicholas I as apology
+  - Russia was engaged in war with Ottoman Empire at the time -- motive for restraint verified
+  - Griboyedov buried at Mtatsminda Pantheon (St. David's Church), Tbilisi
+
+## Review Notes
+
+**Reviewed:** 2026-03-01 · 11 facts verified · 2 corrections
+
+Fixed 2 factual errors: (1) 'childhood injury to his left hand' corrected to 'duel wound to his left hand' -- the identifying scar was from Griboyedov's duel with Yakubovich, not a childhood injury; (2) Nino Chavchavadze tomb inscription corrected from 'Your mind and works are immortal' to 'Your thoughts and actions are immortal' per Presidential Library of Russia source. All other facts verified: Treaty dates, Griboyedov's age (34), death toll, Shah Diamond, Khosrow Mirza mission, burial at Mtatsminda Pantheon. Spiciness 3.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- The massacre was officially forgotten, its victims traded for a gemstone and geopolitical convenience
+- The playwright who went to Persia carrying the authority of an empire came home in a coffin
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

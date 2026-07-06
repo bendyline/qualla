@@ -1,0 +1,57 @@
+# Botswana
+
+A landlocked southern African nation where a river vanishes into the Kalahari to create the world's largest inland delta, where currency is named for rain because rain is that precious, and where diamonds and good governance transformed one of the poorest countries on Earth into a model of stability.
+
+**Location:** -22.2000, 23.7000
+
+**Categories:** countries, southern-africa, wildlife, history, culture
+
+## Introduction
+
+The currency is called the pula. It means "rain" in Setswana. In a country that contains much of the Kalahari Desert, where water is scarce enough to shape an entire culture's vocabulary of value, naming your money after rainfall is not whimsy -- it is theology. The smaller denomination, the thebe, means "shield." Rain and protection: the two things Botswana has pursued most deliberately since independence in 1966, and the two things that explain how a landlocked nation surrounded by Namibia, South Africa, Zambia, and Zimbabwe became one of Africa's most stable, prosperous, and quietly remarkable countries.
+
+## The Protectorate That Refused to Be Colonized
+
+Botswana was never truly colonized. In 1885, the Scottish missionary John Mackenzie, alarmed by Boer encroachment on the territory of the Bamangwato people, helped arrange an extraordinary diplomatic mission: three chiefs of the major Tswana tribes travelled to Britain to negotiate directly for protection. The result was the Bechuanaland Protectorate, ruled from London but with local rulers left in power. British administration amounted to little more than a police force guarding borders against Boer settlers and rival European colonial ventures. The protectorate remained impoverished -- its economy dependent on cattle herding and remittances from workers in South African mines -- but its political structures survived intact. That foundation mattered. When Seretse Khama, born in 1921 into a Tswana chieftain family, returned from exile to lead the independence movement, he inherited a society whose traditional governance had never been dismantled.
+
+## A Marriage That Changed a Nation
+
+While studying law in London, Seretse Khama married Ruth Williams, a white English clerk. The interracial union provoked fury from apartheid South Africa, discomfort in London, and opposition from Khama's own family. The British government, under pressure from Pretoria, exiled him for five years. The exile backfired spectacularly. Khama became a symbol of resistance and dignity, and when Britain accepted proposals for democratic self-government in 1964, he was the obvious leader. Botswana gained independence on September 30, 1966, with Khama as its first president. What followed was a masterclass in governance. Diamond deposits discovered at Orapa in 1967 could have become the "resource curse" that has ruined so many African economies. Instead, Khama's government crushed corruption, established a meritocratic civil service staffed partly with foreign advisors, invested diamond revenues wisely, and actively courted foreign enterprise. Diamond mining now comprises roughly half of national revenue, and Botswana has achieved an upper-middle-income status that few of its neighbors can match.
+
+## Where a River Disappears Into the Desert
+
+The Okavango River flows southeast from the Angolan highlands, crosses Namibia's Caprivi Strip, and then does something almost no other major river does: instead of reaching the sea, it fans out across the Kalahari sands into the world's largest inland delta. During peak flood in July and August, the Okavango Delta triples to 100,000 square kilometres, drawing animals from thousands of kilometres around to a labyrinth of channels, lagoons, and islands. Part of the delta is designated as the Moremi Game Reserve. Nearby, Chobe National Park holds the greatest concentration of elephants in Africa. The Central Kalahari Game Reserve is the second-largest wildlife reserve in the world. Nearly one-fifth of Botswana's land area is protected parkland. From the bleak salt pans of Makgadikgadi, where flamingos gather in vast pink congregations, to the Tsodilo Hills, where over 4,500 rock paintings span more than 100,000 years, the country's natural and cultural heritage is immense.
+
+## Seswaa, Mopane Worms, and the Kalahari Table
+
+Botswana's national dish is seswaa: beef, goat, or lamb boiled slowly until tender, then shredded or pounded and served with pap -- a stiff maize porridge that is the starch backbone of southern African cooking. The meat is seasoned with "just enough salt" and nothing more; the flavour comes from the animal and the patience. For the more adventurous, mopane worms -- the caterpillars of the emperor moth, dried or fried -- are a protein-rich delicacy found throughout the region. The official languages are English and Tswana, and while English is widely spoken in business and tourism, the Tswana majority, comprising 79% of the population, conducts daily life in their own language. The principal Tswana tribes -- Bakwena, Bangwato, and Bangwaketse -- trace their separation to the 17th century, when three brothers broke away from their father, Chief Malope, to establish new pastures during a drought. The modern nation they eventually formed has not forgotten the scarcity that shaped it. Rain remains the blessing. The pula remains the prayer.
+
+## Flight Context
+
+Located at 22.2S, 23.7E in the heart of southern Africa. Botswana is a vast, flat, landlocked country dominated by the Kalahari Desert. From altitude, the Okavango Delta in the northwest is spectacularly visible as a green fan of waterways spreading across brown desert -- one of the most distinctive geographic features on the continent. The salt pans of Makgadikgadi appear as bright white expanses to the east. Sir Seretse Khama International Airport (FBSK) serves the capital Gaborone in the southeast. Maun Airport (FBMN) in the north is the gateway to the Okavango Delta. The Chobe River along the northern border with Namibia and the Limpopo along the southern border with South Africa are visible watercourse landmarks.
+
+## Sources
+
+- [Botswana - Wikivoyage](https://en.wikivoyage.org/?curid=4409)
+- [Seretse Khama - Wikipedia](https://en.wikipedia.org/wiki/Seretse_Khama)
+  - Botswana independence September 30, 1966 confirmed
+  - Seretse Khama born 1921 confirmed
+  - Khama married Ruth Williams, a white English clerk
+  - British government exiled Khama for five years confirmed
+  - Orapa diamond deposit discovered 1967 confirmed
+  - Central Kalahari Game Reserve second-largest wildlife reserve in the world confirmed
+  - Tsodilo Hills over 4,500 rock paintings confirmed
+  - Okavango Delta triples to 100,000 square kilometres at peak flood confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 8 facts verified · 0 corrections
+
+Verified: independence September 30 1966, Seretse Khama born 1921 married Ruth Williams, Orapa diamonds 1967, Central Kalahari second-largest reserve, Okavango triples to 100000 sq km at peak. No errors found.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

@@ -1,0 +1,62 @@
+# Rab'-e Rashidi: The Mongol University
+
+In early 14th-century Tabriz, a Mongol chancellor built one of the medieval world's greatest centers of learning -- endowed with 50,000 dinars, staffed by scholars from four countries, and equipped with its own book workshop. Then they executed him, and it all fell apart.
+
+**Location:** 38.0792, 46.3294
+
+**Categories:** archaeology, iran, tabriz, ilkhanid, medieval, education, history
+
+## Introduction
+
+Rashid al-Din Hamadani was the chief minister of the Mongol Ilkhanid Empire, a physician-turned-statesman who served Ghazan Khan in Tabriz, the capital of an empire that stretched from Anatolia to Afghanistan. In the early 1300s, he poured a fortune into building something unprecedented: a vast academic complex in northeastern Tabriz that gathered the finest minds from Iran, China, Egypt, and Syria under one roof. He called it Rab'-e Rashidi. Students studied philosophy, science, and medicine. A workshop produced manuscripts, including the Jami' al-tawarikh, one of the most important works of world history ever written. Then, in 1318, Rashid al-Din was executed on false charges. The institution he built began to die.
+
+## An Endowment for Knowledge
+
+The foundation document survives, dated August 1307, and it reveals a remarkably detailed plan. The endowment totaled nearly 50,000 dinars. Two professors led the academic program -- the senior one earning 500 dinars annually, his assistant 200. Ten salaried students received 30 dinars over a five-year course of study. A hospital operated with a head doctor earning 330 dinars and a surgeon at 100. There was a special area for Sufi devotions, staffed by a shaikh and five other Sufis. Twenty-four Quran reciters chanted at the tomb around the clock. One hundred of the poor were fed daily. The complex sat atop a hill, entered through a grand portal flanked by minarets, opening onto a courtyard with four iwans.
+
+## Where the Great Shahnameh Was Made
+
+The complex included a workshop dedicated to producing books -- an operation that was part scriptorium, part factory, part art studio. Here, early manuscripts of the Jami' al-tawarikh, Rashid al-Din's comprehensive history of the world from China to Europe, were created. In the 1330s, the workshop probably produced the Great Mongol Shahnameh, one of the most celebrated illustrated manuscripts in Islamic art. The combination of scholarship and book production made Rab'-e Rashidi unique in the medieval world. It was not merely a school; it was a center where knowledge was both studied and physically manufactured for distribution.
+
+## The Fall of Rashid al-Din
+
+Rashid al-Din's execution in 1318 came from what historians believe was a political conspiracy. He was falsely accused of poisoning Oljeitu Khan. The charges destroyed his reputation, and his foundation was plundered. His son Muhammed Ghiyath tried to revive the complex, expanding it after his father's death, but he too was killed in 1336, and the institution was looted again. Later rumors compounded the disgrace: during the reign of Miran Shah in the early 1400s, claims circulated that Rashid al-Din had been Jewish. His remains were exhumed from the tomb he had prepared at Rab'-e Rashidi and moved to a Jewish cemetery. The building complex that surrounded the residential quarter had grown to include shops, baths, caravanserais, and thirty thousand houses. All of it declined.
+
+## Ruins Upon Ruins
+
+Shah Abbas chose the site for a fort centuries later, including the governor's palace. By the end of the 17th century, those buildings too were in ruins. Today, most of Rab'-e Rashidi lies underground. What survives above the surface are masonry bases of fortifications -- it is unclear whether they date from the 14th century or from Shah Abbas's later construction. One rectangular projection may be the foundation of an astronomical observatory mentioned in Rashid al-Din's writings. Mosaic fragments found on the site span from his era to the Safavid period. Archaeologists continue to excavate, peeling back the layers of a complex that was, for a brief and extraordinary moment, one of the great intellectual centers of the world.
+
+## Flight Context
+
+Located at 38.08N, 46.33E in the northeastern part of Tabriz, East Azerbaijan Province, Iran. The archaeological site occupies elevated ground on the outskirts of the modern city. Tabriz International Airport (OITT) is roughly 15 km to the northwest. From altitude, the ruins are not easily visible amid the expanding suburbs of Tabriz, but the hilltop location is distinguishable. The surrounding terrain is semi-arid plateau, with the Sahand volcanic massif visible to the south.
+
+## Sources
+
+- [Rab'-e Rashidi - Wikipedia](https://en.wikipedia.org/?curid=22519330)
+  - Foundation document dated August 1307 confirmed
+  - Endowment of nearly 50,000 dinars confirmed
+  - Senior professor salary of 500 dinars confirmed
+  - Hospital head doctor salary of 330 dinars confirmed
+  - Ten salaried students at 30 dinars for five-year period confirmed
+  - Great Mongol Shahnameh produced in 1330s confirmed as probable attribution
+- [Rashid al-Din Hamadani - Wikipedia](https://en.wikipedia.org/wiki/Rashid_al-Din_Hamadani)
+  - Execution in 1318 confirmed
+  - Charged with poisoning Öljaitü confirmed
+  - Role as chief minister (vizier) of Ilkhanid Empire confirmed
+  - Jewish ancestry and posthumous exhumation to Jewish cemetery confirmed
+  - Son Ghiyath al-Din Muhammad revived complex in 1330s and was murdered in 1336 confirmed
+- [Great Mongol Shahnameh - Wikipedia](https://en.wikipedia.org/wiki/Great_Mongol_Shahnameh)
+  - Manuscript dates to 1330s and was produced at Rab'-e Rashidi under Ghiyath al-Din Muhammad confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-01 · 12 facts verified · 0 corrections
+
+All key facts verified: foundation document date 1307, endowment 50,000 dinars, salary figures, execution 1318, son Ghiyath al-Din murdered 1336, Great Mongol Shahnameh 1330s attribution. No factual errors found. No empathy/dignity issues. Spiciness 2 (mild).
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 730*
+*Read time: 4 minutes*

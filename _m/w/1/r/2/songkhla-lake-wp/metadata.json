@@ -381,5 +381,24 @@
     "_m/w/1/r/2/songkhla-lake-wp/20160502-4285.jpg",
     "_m/w/1/r/2/songkhla-lake-wp/phap-mueang-thai-1943-p-110.jpg"
   ],
-  "updatedAt": "2026-04-01T10:09:55.686Z"
+  "updatedAt": "2026-04-01T10:09:55.686Z",
+  "narration": {
+    "files": [
+      "w1r2-songkhla-lake-flight-context.mp3",
+      "w1r2-songkhla-lake-intro.mp3",
+      "w1r2-songkhla-lake-three-waters-in-one.mp3",
+      "w1r2-songkhla-lake-paperbark-islands-and-reed-weavers.mp3",
+      "w1r2-songkhla-lake-the-last-fourteen.mp3",
+      "w1r2-songkhla-lake-where-the-lake-meets-the-sky.mp3"
+    ],
+    "durations": {
+      "w1r2-songkhla-lake-flight-context.mp3": 51.498625,
+      "w1r2-songkhla-lake-intro.mp3": 45.8748333,
+      "w1r2-songkhla-lake-three-waters-in-one.mp3": 60.4645833,
+      "w1r2-songkhla-lake-paperbark-islands-and-reed-weavers.mp3": 64.6155833,
+      "w1r2-songkhla-lake-the-last-fourteen.mp3": 55.268125,
+      "w1r2-songkhla-lake-where-the-lake-meets-the-sky.mp3": 52.510125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

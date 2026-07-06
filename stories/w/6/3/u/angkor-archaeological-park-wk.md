@@ -1,0 +1,65 @@
+# Angkor Archaeological Park
+
+The thousand-year-old temples of the Khmer Empire rise from the Cambodian jungle, including Angkor Wat - the largest religious monument ever built - and the enigmatic stone faces of the Bayon.
+
+**Location:** 13.4333, 103.8333
+
+**Categories:** unesco, cambodia, temples, khmer, ruins
+
+## Introduction
+
+In the forests of northern Cambodia, a thousand years ago, the Khmer kings built what may have been the largest pre-industrial city on Earth. At its peak, Angkor supported a population of perhaps one million people - comparable to contemporaneous Paris - fed by an ingenious network of canals and reservoirs that tamed the seasonal monsoons. When the city fell to Thai invasions in the 15th century and the Khmer court retreated south, the jungle reclaimed the temples. For centuries, only local farmers knew of the great stone faces watching from the trees. French explorers 'rediscovered' Angkor in the 1860s; since then, archaeologists have identified over a thousand sites scattered across 400 square kilometers. At the center stands Angkor Wat, the world's largest religious monument, its five lotus-shaped towers rising above a moat that reflects the sky.
+
+## Temple Mountains
+
+The temples of Angkor embody the Hindu concept of the temple-mountain - earthly representations of Mount Meru, home of the gods. Each major temple rises in pyramidal tiers, surrounded by a moat representing the cosmic ocean, topped by precisely five towers representing Meru's five peaks. King Suryavarman II built Angkor Wat in the early 12th century as both state temple and royal mausoleum, orienting it unusually to the west - the direction of death. The temple's bas-reliefs extend over half a mile, depicting scenes from Hindu epics and historical battles with such detail that observers can identify individual military units by their hairstyles. The stone blocks fit so precisely that mortar was unnecessary. When the afternoon sun strikes the western galleries, the apsaras - celestial dancing girls carved by the thousands - seem almost to move.
+
+## The Faces of Bayon
+
+King Jayavarman VII, who converted the empire to Mahayana Buddhism around 1200 AD, built the walled city of Angkor Thom with the Bayon temple at its center. Unlike the geometric precision of Angkor Wat, the Bayon seems almost organic - a mountain of stone from which 216 giant faces emerge, their eyes half-closed in meditative smiles. Scholars debate whether the faces represent the Buddha, the bodhisattva Avalokiteshvara, or the king himself. The answer may be all three: in Khmer belief, the king embodied divine qualities. The bas-reliefs at the Bayon differ dramatically from those at Angkor Wat, depicting not mythology but daily life - markets, cockfights, childbirth, fishing - a window into 13th-century Cambodia that no text survives to provide.
+
+## Jungle Temples
+
+Some temples were never fully cleared of forest after the French arrived. Ta Prohm, built as a Buddhist monastery, is the most famous: silk-cotton trees grip its walls with roots thick as pythons, prying apart stones while simultaneously holding them together. The compromise between restoration and romantic decay was deliberate - the temple preserved as 'the jungle found it.' Nearby Preah Khan, once a Buddhist university, stretches through ruins only partially mapped. Beyond the main circuits, outlying temples reward those willing to venture further: Banteay Srei, small but carved in pink sandstone of extraordinary delicacy; Beng Mealea, collapsed and overgrown, accessible only to adventurous explorers until recent clearing. Each temple holds different qualities of light, different moods, different relationships between stone and sky.
+
+## Water Engineering
+
+The Khmer empire's survival depended on controlling water. The monsoons that flood Cambodia for half the year must be captured and stored to irrigate rice paddies through the dry months. The West Baray, an artificial reservoir measuring eight kilometers by two, held enough water to supply the city through any drought. Channels distributed water throughout the temple complex and agricultural zones. When archaeologists began mapping Angkor using NASA radar imaging, they discovered the full extent of the hydraulic network: a system of canals and reservoirs covering an area larger than modern Los Angeles. The system's collapse - possibly from overuse, possibly from sedimentation, possibly from deliberate Thai destruction - may have contributed as much to Angkor's fall as military defeat.
+
+## Visiting the Temples
+
+Angkor demands at least two days to appreciate - three or more to explore beyond the most famous sites. The small circuit covers Angkor Wat, Angkor Thom, and the major temples nearby; the large circuit extends to more distant ruins. Most visitors base themselves in Siem Reap, six kilometers south, where tuk-tuks and guides can be arranged. The peak season runs from November to February, when weather is coolest and driest, but crowds thickest. March through May brings brutal heat. The rainy season from June to October sees fewer tourists but possible flooding at remote sites. Whenever you visit, arriving at Angkor Wat before dawn to watch the sun rise behind its towers remains one of travel's great spectacles - though you will share it with hundreds of others, all equally awed by what human hands created here a thousand years ago.
+
+## Flight Context
+
+Located at 13.43°N, 103.83°E in northern Cambodia near Siem Reap. The temple complex covers approximately 400 square kilometers of forested land. Angkor Wat's moat and central towers are visible from altitude; the West Baray reservoir appears as a rectangular lake 8km by 2km. Siem Reap-Angkor International Airport (REP) is 7km from Angkor Wat. The temples are scattered through forested terrain, with Angkor Wat and Angkor Thom forming the central cluster. Best viewed in clear conditions when the intricate temple layouts and surrounding moats are visible.
+
+## Sources
+
+- [Angkor Archaeological Park - Wikivoyage](https://en.wikivoyage.org/?curid=1173)
+- [Angkor Wat - Wikipedia](https://en.wikipedia.org/wiki/Angkor_Wat)
+  - Suryavarman II 1113-1150
+  - largest religious monument
+  - oriented west
+- [Bayon - Wikipedia](https://en.wikipedia.org/wiki/Bayon)
+  - Jayavarman VII late 12th/early 13th century
+  - 216 faces
+  - 54 towers originally
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 6 facts verified · 0 corrections
+
+Story overlay verified
+
+**Spiciness:** 1/5
+
+**Strong opinions:**
+
+- The world's largest religious monument
+- Human hands created here a thousand years ago
+
+---
+
+*Word count: 890*
+*Read time: 5 minutes*

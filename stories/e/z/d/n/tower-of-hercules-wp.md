@@ -1,0 +1,56 @@
+# Tower of Hercules
+
+The oldest functioning Roman lighthouse in the world, guiding ships into A Coruna's harbor for nearly two thousand years from the windswept tip of Galicia.
+
+**Location:** 43.3858, -8.4064
+
+**Categories:** world-heritage, ancient-roman, lighthouse, architecture, coastal-landmark
+
+## Introduction
+
+A cornerstone at the base of the tower settles the question of authorship with Roman directness: the architect Gaius Sevius Lupus, from Aeminium in Lusitania, dedicated his work to the god Mars. That inscription has survived nearly two millennia of Atlantic gales, Viking raids, and the slow creep of lichen across granite -- and so has the tower itself. The Tower of Hercules, perched on a rocky peninsula 2.4 kilometers from the center of A Coruna in northwestern Spain, is the oldest known extant Roman lighthouse still in operation. It has been guiding ships since the 2nd century.
+
+## Roman Engineering on the Edge of the World
+
+The Romans who built this tower were not building at the center of their empire but at its edge. Galicia's Atlantic coast was the northwestern frontier of Hispania, and the port they called Brigantium served as a staging point for voyages to Britannia and a watchtower over the ocean they knew marked the boundary of the known world. The lighthouse's design drew from the Lighthouse of Alexandria, the ancient wonder that set the template for all towers built to hold fire above the sea. The original Roman structure was shorter and wider than what stands today, its core wrapped in a spiral external ramp that carried fuel to the beacon at the summit. That ramp is gone, but its outline remains visible in the restored exterior -- a ghost staircase tracing the tower's original geometry. The historian Paulus Orosius, writing around 415, described it as "a very tall lighthouse erected among a few commemorative works, for looking towards Britannia."
+
+## Crusaders, Vikings, and the Legend of Caesar
+
+The tower survived the collapse of Rome, though the settlement around it did not. During the early Middle Ages, Viking raids drove the inhabitants of Brigantium inland, and the lighthouse stood alone on its headland for generations. Yet it never entirely lost its purpose. Medieval crusading fleets heading to the Holy Land made the tower an obligatory navigational waypoint, and their crews often disembarked to walk to the shrine of Saint James at Santiago de Compostela before continuing their voyage. These stopovers fed a persistent legend that Julius Caesar himself had built the lighthouse -- a misreading, it seems, of the ancient inscription that medieval visitors could no longer properly parse. The confusion gave the tower its modern name: Hercules, conflated with the Roman mythological tradition, replaced the actual architect in popular memory.
+
+## A Neoclassical Rebirth
+
+By the 18th century, the surviving Roman core stood 34 meters tall but had lost its upper works. In 1788, the Spanish military engineer Eustaquio Giannini directed a neoclassical restoration that added a new 21-meter fourth story, bringing the total height to 55 meters and making it the second-tallest lighthouse in Spain, surpassed only by the Faro de Chipiona. Giannini wrapped the ancient core in clean geometric lines that gave the tower its present appearance -- a fusion of Roman bones and Enlightenment skin. The restoration preserved the essential character of the original while ensuring the light could reach farther across an ocean that, by the late 18th century, carried Spanish galleons, British frigates, and French warships in roughly equal measure.
+
+## Two Thousand Years of Continuous Light
+
+What makes the Tower of Hercules extraordinary is not just its age but its continuity. Lighthouses are practical structures, and practical structures get demolished when they stop being useful. This one never did. From Roman oil lamps to medieval bonfires to modern electric optics, the technology at the summit has changed while the stone below has remained. In 1992, the oil tanker Aegean Sea ran aground near the tower and burned spectacularly in its shadow -- a reminder that the navigational hazards the Romans sought to mitigate still exist. UNESCO recognized the tower as a World Heritage Site in 2009, citing it as the only Roman lighthouse with preserved structural integrity still serving its original function. The tower appears on the coat of arms of A Coruna, and on clear days its silhouette is the first thing mariners see as they round the headland into the harbor, just as it was when Gaius Sevius Lupus finished his work and carved his name into the stone.
+
+## Flight Context
+
+Located at 43.39N, 8.41W on a rocky peninsula northwest of A Coruna's city center. The tower is a prominent coastal landmark visible from considerable distance, standing 55 meters tall on the headland. Nearest airport: LECO (A Coruna Airport, ~10 km south). Best viewed from a low-altitude coastal approach from the north or west, where the tower stands silhouetted against the harbor behind it.
+
+## Sources
+
+- [Tower of Hercules - Wikipedia](https://en.wikipedia.org/?curid=1412910)
+  - Tower stands 55 meters tall confirmed
+  - Roman core 34 meters, Giannini added 21-meter fourth story confirmed
+  - Eustaquio Giannini directed 18th-century restoration confirmed
+  - UNESCO World Heritage Site 2009 confirmed
+  - Second-tallest lighthouse in Spain (after Faro de Chipiona) confirmed
+  - 1992 Aegean Sea oil tanker grounding near tower confirmed
+  - Oldest functioning Roman lighthouse still in operation confirmed
+  - Paulus Orosius wrote about the tower around 415 CE confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-17 · 8 facts verified · 0 corrections
+
+All key facts verified: 55m height (34m Roman + 21m Giannini addition), UNESCO 2009, second-tallest lighthouse in Spain behind Faro de Chipiona, 1992 Aegean Sea grounding. No errors found.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

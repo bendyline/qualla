@@ -83,5 +83,24 @@
   "galleryPaths": [
     "_m/d/r/4/z/jacobus-vanderveer-house-wp/jacobus-vanderveer-house-somer.jpg"
   ],
-  "updatedAt": "2026-03-30T11:04:23.795Z"
+  "updatedAt": "2026-03-30T11:04:23.795Z",
+  "narration": {
+    "files": [
+      "dr4z-jacobus-vanderveer-house-flight-context.mp3",
+      "dr4z-jacobus-vanderveer-house-intro.mp3",
+      "dr4z-jacobus-vanderveer-house-a-house-built-between-wars.mp3",
+      "dr4z-jacobus-vanderveer-house-knox-at-pluckemin.mp3",
+      "dr4z-jacobus-vanderveer-house-a-constellation-of-headquarters.mp3",
+      "dr4z-jacobus-vanderveer-house-what-remains.mp3"
+    ],
+    "durations": {
+      "dr4z-jacobus-vanderveer-house-flight-context.mp3": 48.3170416,
+      "dr4z-jacobus-vanderveer-house-intro.mp3": 36.0325416,
+      "dr4z-jacobus-vanderveer-house-a-house-built-between-wars.mp3": 67.23875,
+      "dr4z-jacobus-vanderveer-house-knox-at-pluckemin.mp3": 57.286375,
+      "dr4z-jacobus-vanderveer-house-a-constellation-of-headquarters.mp3": 52.7806666,
+      "dr4z-jacobus-vanderveer-house-what-remains.mp3": 47.21175
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -48,5 +48,24 @@
     "sourceGeohash4": "ku0c"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "ku0c-manyikeni-flight-context.mp3",
+      "ku0c-manyikeni-intro.mp3",
+      "ku0c-manyikeni-limestone-instead-of-granite.mp3",
+      "ku0c-manyikeni-beads-shells-and-beef.mp3",
+      "ku0c-manyikeni-five-centuries-of-occupation.mp3",
+      "ku0c-manyikeni-ruins-at-the-edge-of-memory.mp3"
+    ],
+    "durations": {
+      "ku0c-manyikeni-flight-context.mp3": 52.2855833,
+      "ku0c-manyikeni-intro.mp3": 36.140125,
+      "ku0c-manyikeni-limestone-instead-of-granite.mp3": 57.1032916,
+      "ku0c-manyikeni-beads-shells-and-beef.mp3": 61.170375,
+      "ku0c-manyikeni-five-centuries-of-occupation.mp3": 59.6607916,
+      "ku0c-manyikeni-ruins-at-the-edge-of-memory.mp3": 57.0690416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

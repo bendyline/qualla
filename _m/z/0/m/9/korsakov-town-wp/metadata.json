@@ -492,5 +492,24 @@
     "_m/z/0/m/9/korsakov-town-wp/korsakov-city-2022-08-2.jpg",
     "_m/z/0/m/9/korsakov-town-wp/korsakovsky-district-sakhalin-.jpg"
   ],
-  "updatedAt": "2026-04-01T19:17:40.837Z"
+  "updatedAt": "2026-04-01T19:17:40.837Z",
+  "narration": {
+    "files": [
+      "z0m9-korsakov-flight-context.mp3",
+      "z0m9-korsakov-intro.mp3",
+      "z0m9-korsakov-before-the-flags.mp3",
+      "z0m9-korsakov-colonial-ping-pong.mp3",
+      "z0m9-korsakov-crab-cash-and-collapse.mp3",
+      "z0m9-korsakov-the-port-at-the-end-of-the-line.mp3"
+    ],
+    "durations": {
+      "z0m9-korsakov-flight-context.mp3": 36.489875,
+      "z0m9-korsakov-intro.mp3": 39.3272916,
+      "z0m9-korsakov-before-the-flags.mp3": 54.9044583,
+      "z0m9-korsakov-colonial-ping-pong.mp3": 58.2708333,
+      "z0m9-korsakov-crab-cash-and-collapse.mp3": 60.9937916,
+      "z0m9-korsakov-the-port-at-the-end-of-the-line.mp3": 66.7703333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -827,5 +827,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "strn-suez-canal-flight-context.mp3",
+      "strn-suez-canal-intro.mp3",
+      "strn-suez-canal-the-dream-that-would-not-die.mp3",
+      "strn-suez-canal-blood-cholera-and-forced-labor.mp3",
+      "strn-suez-canal-empires-chokepoint.mp3",
+      "strn-suez-canal-wars-closure-and-the-yellow-fleet.mp3",
+      "strn-suez-canal-the-modern-passage.mp3"
+    ],
+    "durations": {
+      "strn-suez-canal-flight-context.mp3": 60.723875,
+      "strn-suez-canal-intro.mp3": 68.1836666,
+      "strn-suez-canal-the-dream-that-would-not-die.mp3": 78.2187083,
+      "strn-suez-canal-blood-cholera-and-forced-labor.mp3": 77.873,
+      "strn-suez-canal-empires-chokepoint.mp3": 76.5367083,
+      "strn-suez-canal-wars-closure-and-the-yellow-fleet.mp3": 72.15425,
+      "strn-suez-canal-the-modern-passage.mp3": 76.4055416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

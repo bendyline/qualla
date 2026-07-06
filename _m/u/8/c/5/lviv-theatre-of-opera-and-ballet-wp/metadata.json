@@ -757,5 +757,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u8c5-lviv-theatre-of-opera-and-ballet-flight-context.mp3",
+      "u8c5-lviv-theatre-of-opera-and-ballet-intro.mp3",
+      "u8c5-lviv-theatre-of-opera-and-ballet-a-river-runs-beneath-it.mp3",
+      "u8c5-lviv-theatre-of-opera-and-ballet-an-opening-night-for-the-ages.mp3",
+      "u8c5-lviv-theatre-of-opera-and-ballet-empires-come-and-go.mp3",
+      "u8c5-lviv-theatre-of-opera-and-ballet-a-catalogue-of-polish-masters.mp3",
+      "u8c5-lviv-theatre-of-opera-and-ballet-the-anthem-and-the-architect.mp3"
+    ],
+    "durations": {
+      "u8c5-lviv-theatre-of-opera-and-ballet-flight-context.mp3": 40.9542916,
+      "u8c5-lviv-theatre-of-opera-and-ballet-intro.mp3": 47.8429166,
+      "u8c5-lviv-theatre-of-opera-and-ballet-a-river-runs-beneath-it.mp3": 59.2992083,
+      "u8c5-lviv-theatre-of-opera-and-ballet-an-opening-night-for-the-ages.mp3": 61.876125,
+      "u8c5-lviv-theatre-of-opera-and-ballet-empires-come-and-go.mp3": 56.0569166,
+      "u8c5-lviv-theatre-of-opera-and-ballet-a-catalogue-of-polish-masters.mp3": 61.7292916,
+      "u8c5-lviv-theatre-of-opera-and-ballet-the-anthem-and-the-architect.mp3": 48.2277083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

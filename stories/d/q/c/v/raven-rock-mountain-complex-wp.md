@@ -1,0 +1,65 @@
+# Raven Rock Mountain Complex
+
+Hollowed from half a million cubic yards of greenstone, America's underground Pentagon hides inside a Pennsylvania mountain six miles from Camp David, waiting for a doomsday that has arrived exactly once.
+
+**Location:** 39.7340, -77.4190
+
+**Categories:** military, cold-war, underground-facility, government, pennsylvania, historical
+
+## Introduction
+
+You will not see it from the air. That is the point. Beneath the forested ridgeline of Raven Rock Mountain, behind two pairs of blast doors weighing thirty-four tons each, the United States maintains a parallel Pentagon -- five three-story buildings carved into solid greenstone, connected by tunnels stretching over three hundred meters, sheltering enough office space, dormitories, and communications equipment for up to five thousand people. The mountain near Blue Ridge Summit, Pennsylvania, has kept this secret in plain sight since 1953, its entrance roads gated, its perimeter fenced, its airspace restricted. Locals call it simply "The Rock." The government calls it Site R. In the arithmetic of nuclear survival, it is the place where the nation's military command would continue to function after everything above ground ceased to exist.
+
+## Cold War Calculus
+
+The logic was grimly straightforward. By 1948, the Soviet Union was months from detonating its first atomic bomb, and Washington's military planners faced an uncomfortable truth: the Pentagon, that iconic five-sided fortress, was a single target. One bomb could decapitate the entire command structure of the American military. President Harry Truman approved the construction of an alternate facility, and on January 19, 1951, bulldozers broke ground on a mountainside in Adams County, Pennsylvania. Workers blasted half a million cubic yards of superhard greenstone in ten months, hollowing out a cavern large enough for five freestanding buildings, each three stories tall. The "Declaration of Taking" filed at the Adams County courthouse on January 23, 1951, seized 280 acres from four properties. By 1953, the underground Pentagon was operational -- hidden, hardened, and ready for a war everyone hoped would never come.
+
+## The Mountain's One Emergency
+
+For nearly five decades, Raven Rock waited. Staffed and maintained through every crisis of the Cold War -- the Cuban Missile Crisis, the Berlin Wall, the collapse of the Soviet Union -- it never once activated for its intended purpose. Then, on the morning of September 11, 2001, the mountain finally answered its call. As smoke poured from the Pentagon and the World Trade Center towers fell, Vice President Dick Cheney was evacuated to Site R. Deputy Secretary of Defense Paul Wolfowitz followed. For the first time in its history, the underground complex hummed with the urgent traffic of a government under attack, its communications systems linking scattered leaders across a nation in chaos. It was the single emergency use the facility had been built to serve -- not the nuclear apocalypse its designers imagined, but a different kind of unthinkable day.
+
+## Behind the Blast Doors
+
+The complex sprawls across 650 acres on the surface, but the real infrastructure lies within the mountain. Behind those massive blast doors -- designed to absorb the shockwave of a nuclear detonation -- tunnels open into 84,000 square meters of operational space. The five underground buildings contain offices, dormitories, dining facilities, a medical ward, and communications centers capable of maintaining contact with military assets worldwide. The facility can sustain between three thousand and five thousand personnel for extended periods, with its own power generation, water supply, and air filtration systems. Much of the complex remains classified, its full capabilities known only to those with the appropriate clearances. What is known suggests a facility designed not merely to survive a catastrophe but to govern through one.
+
+## Neighbors in the Mountains
+
+Raven Rock sits in remarkable company. Camp David, the presidential retreat, lies just six miles to the south in Maryland's Catoctin Mountains. The two facilities share more than geography -- they represent complementary nodes in the nation's continuity-of-government infrastructure. During the Eisenhower administration, the president's fondness for the nearby Monterey Country Club in Blue Ridge Summit meant that the leader of the free world regularly relaxed within sight of his doomsday bunker. Today, the 650-acre installation remains active under the Defense Threat Reduction Agency, its mission adapted from Cold War nuclear survival to broader continuity-of-operations planning. The mountain endures, patient and prepared, its greenstone walls indifferent to the politics of whatever era requires its protection.
+
+## Flight Context
+
+Located at 39.734N, 77.419W in Adams County, Pennsylvania, near Blue Ridge Summit along the Pennsylvania-Maryland border. Elevation approximately 1,519 feet. The facility is largely invisible from the air -- look for the cleared perimeter and access roads on the eastern slope of Raven Rock Mountain along PA Route 16. Restricted airspace applies. Camp David lies 6 miles south. Nearest airports: Gettysburg Regional Airport (W05) approximately 15nm northeast, Hagerstown Regional Airport (KHGR) approximately 18nm west. The Blue Ridge mountains and South Mountain ridgeline provide visual navigation references. Approach from the east over the rolling farmland of Adams County for the best perspective on the mountain's position along the ridge.
+
+## Sources
+
+- [Raven Rock Mountain Complex - Wikipedia](https://en.wikipedia.org/wiki/Raven_Rock_Mountain_Complex)
+  - Construction began January 19, 1951
+  - Half million cubic yards of greenstone blasted
+  - Two pairs of 34-ton blast doors
+  - Five 3-story buildings inside mountain
+  - 84,000 square meters of office space
+  - Can accommodate 3,000-5,000 personnel
+  - 280 acres seized from four properties
+  - 650-acre installation
+- [Veteran.com - Raven Rock Mountain Complex](https://veteran.com/raven-rock-mountain-complex/)
+  - Dick Cheney evacuated there on September 11, 2001
+  - Paul Wolfowitz remained at Raven Rock during 9/11 aftermath
+  - Only emergency use in facility history
+  - 10 km north-northeast of Camp David
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 8 facts verified · 0 corrections
+
+Facts verified: construction date Jan 1951, greenstone excavation, blast doors, 9/11 use by Cheney/Wolfowitz all confirmed. Site R is active under Defense Threat Reduction Agency. Story well-written, spiciness 2.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- The mountain endures, patient and prepared, its greenstone walls indifferent to the politics of whatever era requires its protection
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

@@ -1,0 +1,60 @@
+# Battle of Mang Yang Pass
+
+In June 1954, a retreating French convoy was shattered in five days of ambushes along Route Coloniale 19 in one of the bloodiest defeats of the First Indochina War, foreshadowing the American struggles that would follow on the same ground.
+
+**Location:** 14.0000, 108.2500
+
+**Categories:** Conflicts in 1954, History of Gia Lai province, Battles involving Vietnam, Ambushes in Vietnam, Battles and operations of the First Indochina War, 1954 in French Indochina
+
+## Introduction
+
+Bernard Fall, the French-American journalist who chronicled France's defeat in Indochina, titled his classic account "Street Without Joy." He might have been describing Route Coloniale 19 between An Khe and Pleiku, the 80-kilometer stretch of road through Vietnam's Central Highlands where, in late June 1954, a French mobile group was methodically destroyed over five days. The Viet Minh called it a victory to match Dien Bien Phu. The French called it the end. And when American soldiers arrived in the same highlands a decade later, they would find wooden crosses still marking the roadside where Groupement Mobile 100 had died.
+
+## An Elite Column in Retreat
+
+Groupement Mobile 100 was not an ordinary unit. Assembled as a regimental task force of the French Far East Expeditionary Corps, it included the Bataillon de Coree, elite veterans who had fought alongside American forces at Chipyong-ni, Wonju, and Heartbreak Ridge during the Korean War. These were soldiers who had survived some of the most intense combat of the early 1950s. But by February 1954, G.M. 100 had already suffered a defeat at the Siege of Dak Doa, and the fall of Dien Bien Phu in May made the French position in the Central Highlands untenable. Anxious to avoid a second catastrophic siege, the French Chief of Staff ordered G.M. 100 to abandon its isolated positions and fall back to Pleiku. The withdrawal was given the code name Operation Eglantine. It would prove to be a death sentence.
+
+## Five Days on Route 19
+
+On June 24, 1954, G.M. 100 received orders to leave An Khe and head west along Route Coloniale 19 toward Pleiku. The column had barely covered 15 kilometers when Viet Minh troops of the 803rd Regiment sprang the first ambush. The fighting was savage and the losses immediate. The remnants of G.M. 100 broke through, joining forces with G.M. 42 and the 1st Airborne Group. Together they still had to traverse 30 kilometers of road controlled by the enemy. On June 28 and 29, the column was ambushed again at Dak Ya-Ayun, this time by the Viet Minh 108th Regiment. Each engagement peeled away more men and equipment. The survivors who staggered into Pleiku on June 30 were barely recognizable as a fighting force. In five days of running battle, the column had been gutted.
+
+## The Arithmetic of Destruction
+
+The numbers told the story with brutal clarity. G.M. 100 lost 85 percent of its vehicles, every one of its artillery pieces, 68 percent of its signal equipment, and half its crew-served weapons. The Headquarters Company, which had started with 222 men, counted 84 at roll call. The 43rd Colonial Infantry mustered 452 of its original 834. The 1st Korea Battalion had 497 remaining, the 2nd just 345. The 2nd Group of the 10th Colonial Artillery, forced to fight as infantry after losing all their guns, shrank from 475 to 215 soldiers. Colonel Barrou and several of his men were taken prisoner. Against these devastating losses, the Viet Minh 96th Regiment reported just over 100 killed. The disparity reflected both the effectiveness of the ambush tactics and the hopelessness of defending a road-bound column in terrain that the enemy knew intimately.
+
+## A Warning Unheeded
+
+The Battle of Mang Yang Pass was one of the last engagements of the First Indochina War, fought just weeks before the Geneva Accords ended French involvement in Vietnam. Along with Dien Bien Phu, it demonstrated that a technologically superior Western army could be defeated by forces who understood the terrain and were willing to accept casualties to exploit it. The lesson was specific and geographic: the Central Highlands, with their dense jungle, narrow passes, and limited road networks, favored the defender who knew the ground. When American forces established themselves in the same region in 1965, the ghost of Mang Yang Pass hung over every operation. The Viet Minh commanders who had orchestrated the ambush trained the next generation of North Vietnamese officers, and the roads that had swallowed G.M. 100 remained just as dangerous. Bernard Fall, who documented both wars, was himself killed by a mine on a road outside Hue in 1967.
+
+## The Valley of Crosses
+
+For years after the battle, wooden crosses lined the stretch of Route 19 where the heaviest fighting occurred. American soldiers passing through the area in the mid-1960s reported seeing them still standing, weathered markers of a defeat that preceded their own arrival by a decade. The French had named it the Valley of Crosses, and the name stuck. The landscape itself has changed little. The pass still cuts through the highlands between An Khe and Pleiku, the road still threads through terrain that offers ample cover for anyone waiting in ambush. The Viet Minh veterans who fought there went on to command regiments in the war against the Americans, bringing with them the tactical knowledge that the Central Highlands rewarded patience and punished those who moved in predictable columns along predictable roads. Mang Yang Pass endures as a reminder that the ground itself has a memory, and armies that ignore it do so at their peril.
+
+## Flight Context
+
+Located at 14.00°N, 108.25°E along Route 19 (formerly Route Coloniale 19) in Vietnam's Central Highlands, between the towns of An Khe to the east and Pleiku to the west. The terrain is mountainous and forested, with the pass cutting through at approximately 500 meters elevation. Nearest airport is Pleiku (VVPK) to the west. The Mang Yang Pass area is visible from altitude as a gap in the highland ridgeline. Best visibility in the dry season (November-April).
+
+## Sources
+
+- [Battle of Mang Yang Pass - Wikipedia](https://en.wikipedia.org/?curid=7005939)
+  - G.M. 100 received orders on June 24, 1954 to withdraw along Route Coloniale 19
+  - First ambush by Viet Minh 803rd Regiment at km 15
+  - G.M. 100 lost 85% of vehicles and all artillery pieces
+  - 43rd Colonial Infantry mustered 452 of 834; 1st Korea Battalion 497; 2nd Korea Battalion 345
+  - Viet Minh 96th Regiment suffered just over 100 killed
+  - Battle fought June 24-29, 1954 (five days total)
+- [French Battalion (Bataillon de Coree) - Wikipedia](https://en.wikipedia.org/wiki/French_Battalion)
+  - Bataillon de Coree fought at Chipyong-ni, Wonju, and Heartbreak Ridge during Korean War
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 6 facts verified · 0 corrections
+
+Verified: GM100 withdrawal June 24-29, 1954; Viet Minh 803rd and 96th regiment details; Bataillon de Coree Korean War battles; casualty figures accurate. No corrections needed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 790*
+*Read time: 4 minutes*

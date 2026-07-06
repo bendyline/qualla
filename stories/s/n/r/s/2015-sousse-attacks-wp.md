@@ -1,0 +1,64 @@
+# 2015 Sousse Attacks
+
+On a June afternoon in 2015, a gunman disguised as a tourist killed 38 people at a Tunisian beach resort, devastating families across three continents and shaking a young democracy's fragile stability.
+
+**Location:** 35.9124, 10.5806
+
+**Categories:** terrorism, modern-history, tunisia
+
+## Introduction
+
+He arrived at the beach with a Kalashnikov hidden inside a beach umbrella. On the afternoon of 26 June 2015, at the resort hotel in Port El Kantaoui, ten kilometers north of Sousse, 22-year-old Seifeddine Rezgui began shooting tourists as they sunbathed on the Mediterranean shore. By the time security forces killed him in an exchange of fire, 38 people were dead -- making it the deadliest terrorist attack in the history of modern Tunisia and one of the worst attacks on British citizens abroad. Thirty of the victims were from the United Kingdom.
+
+## A Contradiction in Human Form
+
+Rezgui did not fit the profile of a fanatic. An electrical engineering student at the University of Kairouan, he came from Gaafour in northwestern Tunisia. Neighbors knew him as a skilled breakdancer. He had a girlfriend. He drank alcohol. He followed Real Madrid. The Islamic State claimed him as a soldier, assigning him the nom de guerre Abu Yahya al-Qayrawani, but the path from breakdancing student to mass murderer traced through the chaos that followed the Arab Spring and the collapse of neighboring Libya. His radicalization appeared to accelerate during the fall of Muammar Gaddafi's regime and the rise of the Syrian civil war -- the same geopolitical upheavals that were destabilizing an entire generation across North Africa and the Middle East.
+
+## Three Months of Terror
+
+The Sousse attack came barely three months after gunmen killed 22 people, mostly European tourists, at the Bardo National Museum in Tunis on 18 March 2015. Both attacks were claimed by the Islamic State. Together, they struck at the foundation of Tunisia's post-revolutionary economy: tourism. The attacks also fell on the same day as three other Islamist attacks worldwide -- a beheading at a French factory, a mosque bombing in Kuwait City that killed 27, and an assault on an African Union base in Somalia that killed 70. An IS leader had called for attacks during Ramadan days earlier, though no direct coordination between the incidents has been established.
+
+## The Human Cost
+
+The 38 people who died on the beach were not abstractions. They were retirees on package holidays, couples celebrating anniversaries, families with children. Among them was Denis Thwaites, a former Birmingham City footballer, and his wife Elaine. Three Irish citizens died, including a nurse well known in her community in Athlone. A German citizen, a Portuguese national, a Belgian, and a Russian were also killed. The British Foreign and Commonwealth Office changed Tunisia's travel advisory to 'advise against all but essential travel,' triggering the evacuation of an estimated 3,000 British nationals. Tour operators First Choice, TUI, and Thomson suspended all trips to Tunisia through at least October 2015. The country's tourism industry, which employed hundreds of thousands, faced collapse.
+
+## Aftermath and Memory
+
+Tunisia's government responded with sweeping measures. Eighty mosques accused of inciting extremism were closed. New counter-terrorism legislation debated in parliament proposed expanded surveillance powers and the death penalty for terrorism-related offenses. The governor of Sousse and several local police officials were dismissed. On 4 March 2019, Prince Harry unveiled a memorial called Infinite Wave in Cannon Hill Park, Birmingham, honoring the British victims and a victim of the Bardo museum attack. The sculpture's curved steel bands evoke both ocean waves and the continuity of memory. Tunisia's young democracy -- the only Arab Spring country to emerge with a functioning democratic system -- faced the impossible task of protecting an open, tourist-dependent economy from the kind of violence that no security apparatus can fully prevent. The beach at Port El Kantaoui remains open. The hotels are still there. What changed was the understanding that even paradise has no immunity.
+
+## Flight Context
+
+Located at 35.91N, 10.58E on the Mediterranean coast of Tunisia, at Port El Kantaoui resort area roughly 10 km north of Sousse. The coastal resort strip is visible from altitude. Nearest airports: Monastir Habib Bourguiba International (DTMB), approximately 20 km south, and Enfidha-Hammamet International (DTNH), approximately 40 km north. Sousse's medina and port are visible landmarks along the coast.
+
+## Sources
+
+- [2015 Sousse attacks - Wikipedia](https://en.wikipedia.org/?curid=47084203)
+  - Date June 26, 2015 confirmed
+  - Port El Kantaoui location 10km north of Sousse confirmed
+  - Seifeddine Rezgui as attacker confirmed
+  - 22-year-old electrical engineering student from Gaafour confirmed
+  - 38 victims total confirmed
+  - 30 British victims confirmed
+  - Islamic State claimed responsibility confirmed
+  - Bardo museum attack March 18, 2015 killed 22 confirmed
+  - Denis Thwaites former Birmingham City footballer confirmed
+  - Prince Harry unveiled Infinite Wave memorial March 4, 2019 confirmed
+  - 80 mosques closed after attack confirmed
+  - Kuwait City mosque bombing same day killed 27 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 12 facts verified · 0 corrections
+
+June 26, 2015 date, Port El Kantaoui, 22yo Seifeddine Rezgui, 38 total victims, 30 British, IS claimed, Bardo attack March 18 killed 22, Denis Thwaites Birmingham City footballer, Prince Harry memorial March 4 2019, 80 mosques closed, Kuwait bombing same day killed 27 all verified. Spiciness 3.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- 'even paradise has no immunity' — editorial close
+
+---
+
+*Word count: 700*
+*Read time: 4 minutes*

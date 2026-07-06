@@ -79,5 +79,24 @@
   ],
   "galleryPaths": [
     "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "ue46-finnish-air-force-museum-flight-context.mp3",
+      "ue46-finnish-air-force-museum-intro.mp3",
+      "ue46-finnish-air-force-museum-borrowed-wings.mp3",
+      "ue46-finnish-air-force-museum-from-propellers-to-cold-war-jets.mp3",
+      "ue46-finnish-air-force-museum-pioneers-and-prototypes.mp3",
+      "ue46-finnish-air-force-museum-the-museum-at-the-airfield.mp3"
+    ],
+    "durations": {
+      "ue46-finnish-air-force-museum-flight-context.mp3": 38.9406666,
+      "ue46-finnish-air-force-museum-intro.mp3": 51.4893333,
+      "ue46-finnish-air-force-museum-borrowed-wings.mp3": 63.6042083,
+      "ue46-finnish-air-force-museum-from-propellers-to-cold-war-jets.mp3": 62.3587916,
+      "ue46-finnish-air-force-museum-pioneers-and-prototypes.mp3": 63.7406666,
+      "ue46-finnish-air-force-museum-the-museum-at-the-airfield.mp3": 57.7654166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

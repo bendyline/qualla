@@ -370,5 +370,24 @@
     "_m/k/q/b/v/soyo-wp/school-in-sessions.jpg",
     "_m/k/q/b/v/soyo-wp/armor-on-the-move.jpg"
   ],
-  "updatedAt": "2026-03-30T17:32:08.245Z"
+  "updatedAt": "2026-03-30T17:32:08.245Z",
+  "narration": {
+    "files": [
+      "kqbv-soyo-flight-context.mp3",
+      "kqbv-soyo-intro.mp3",
+      "kqbv-soyo-the-lord-of-soyo.mp3",
+      "kqbv-soyo-the-count-who-said-no.mp3",
+      "kqbv-soyo-the-battle-that-broke-portuguese-ambitions.mp3",
+      "kqbv-soyo-from-slave-port-to-oil-capital.mp3"
+    ],
+    "durations": {
+      "kqbv-soyo-flight-context.mp3": 42.1975,
+      "kqbv-soyo-intro.mp3": 45.0450416,
+      "kqbv-soyo-the-lord-of-soyo.mp3": 66.548375,
+      "kqbv-soyo-the-count-who-said-no.mp3": 73.5350416,
+      "kqbv-soyo-the-battle-that-broke-portuguese-ambitions.mp3": 72.898375,
+      "kqbv-soyo-from-slave-port-to-oil-capital.mp3": 63.1019583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

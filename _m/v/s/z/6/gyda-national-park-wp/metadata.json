@@ -228,5 +228,24 @@
     "_m/v/s/z/6/gyda-national-park-wp/category-3.jpg",
     "_m/v/s/z/6/gyda-national-park-wp/category-4.jpg"
   ],
-  "updatedAt": "2026-04-01T08:30:42.825Z"
+  "updatedAt": "2026-04-01T08:30:42.825Z",
+  "narration": {
+    "files": [
+      "vsz6-gyda-national-park-flight-context.mp3",
+      "vsz6-gyda-national-park-intro.mp3",
+      "vsz6-gyda-national-park-geography-at-the-edge.mp3",
+      "vsz6-gyda-national-park-survivors-of-the-cold.mp3",
+      "vsz6-gyda-national-park-closed-to-the-world.mp3",
+      "vsz6-gyda-national-park-pressure-from-beneath.mp3"
+    ],
+    "durations": {
+      "vsz6-gyda-national-park-flight-context.mp3": 51.8488333,
+      "vsz6-gyda-national-park-intro.mp3": 63.0955833,
+      "vsz6-gyda-national-park-geography-at-the-edge.mp3": 65.696875,
+      "vsz6-gyda-national-park-survivors-of-the-cold.mp3": 70.542375,
+      "vsz6-gyda-national-park-closed-to-the-world.mp3": 63.7154583,
+      "vsz6-gyda-national-park-pressure-from-beneath.mp3": 62.0658333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

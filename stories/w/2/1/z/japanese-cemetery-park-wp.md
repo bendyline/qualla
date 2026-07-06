@@ -1,0 +1,61 @@
+# Japanese Cemetery Park
+
+Southeast Asia's largest Japanese cemetery began as a burial ground for young women who died in destitution in colonial Singapore, and grew to hold the ashes of field marshals, secret agents, literary pioneers, and executed war criminals - a single park containing nearly every chapter of Japan's complicated presence in the region.
+
+**Location:** 1.3654, 103.8770
+
+**Categories:** cemetery, memorial, world-war-ii, colonial-history, japanese-diaspora, singapore
+
+## Introduction
+
+In 1891, a brothel owner named Tagajiro Fukaki donated seven acres of his rubber plantation in Hougang for a specific purpose: burying the young Japanese women who died in his care. These were the Karayuki-san, women trafficked from impoverished communities - many from the stigmatized Christian enclaves of the Amakusa Islands in Kumamoto Prefecture - who worked the red-light streets of Hylam, Malabar, Malay, and Bugis until disease or despair claimed them. Fukaki, along with fellow brothel owners Shibuya Ginji and Nakagawa Kikuzo, secured permission from the British colonial government on June 26, 1891. The cemetery they established would outlast them all, growing into the largest Japanese burial ground in Southeast Asia - 29,359 square metres holding 910 tombstones. What began as a repository for the forgotten became, over the next century, a cross-section of Japan's entire entanglement with Singapore: civilians and soldiers, literary figures and war criminals, a spy nicknamed "Tiger" and the son of a mosquito coil inventor.
+
+## The Women Who Came First
+
+The cemetery's origin story is inseparable from the exploitation that created it. The Karayuki-san - a term meaning roughly "those who went abroad" - were young women sent or sold into sexual servitude across Southeast Asia during the Meiji era. Many came from the Amakusa Islands, a remote archipelago in Kumamoto Prefecture where a historically persecuted Christian community lived in deep poverty. The women worked Singapore's Japanese enclave along streets that are now tourist districts, their lives largely unrecorded except in the headstones Fukaki's donation made possible. That the cemetery exists at all is a testament to a grim pragmatism: even the men who profited from these women's labor recognized they needed somewhere to be buried. The oldest graves in the park belong to them, and they remain its moral center - a reminder that the history preserved here began not with generals or diplomats but with the most vulnerable members of a diaspora community.
+
+## A Field Marshal's Samurai Swords
+
+Among the 910 tombstones lies one connected to a remarkable act of wartime protocol. Terauchi Hisaichi, born in 1879, was the son of Japan's 18th prime minister and a relative of Emperor Hirohito. He rose through the military ranks to become Commander of the Southern Army - Japan's equivalent of the British South East Asia Command - and worked alongside Isoroku Yamamoto to plan the conquest of Southeast Asia. After establishing his headquarters in Singapore, he was promoted to field marshal and later relocated to the Philippines and then Saigon. A stroke in April 1945 left him incapacitated, so when Japan formally surrendered in Singapore on September 12, 1945, it was General Itagaki Seishiro who represented the Japanese forces before Lord Mountbatten. But when Terauchi learned that Mountbatten wished to have his samurai swords, the ailing field marshal flew from Saigon to Singapore to present them personally. Accused of war crimes and imprisoned in Johor, he died in June 1946. Some of his ashes are believed to rest in this park.
+
+## Tigers, Realists, and Mosquito Coils
+
+The cemetery holds stories that verge on the improbable. Tani Yutaka, known as "Harimao" - Malay for "tiger" - was a Japanese military agent who grew up in Terengganu after his family moved there when he was two. His life inspired novels and a film called Marai no Tora. Nearby stands a memorial to Futabatei Shimei, the writer credited with introducing literary realism to Japanese literature. Fluent in Russian, Futabatei translated works by Ivan Turgenev for the Asahi Shimbun before falling ill aboard a ship returning from Russia and dying en route in 1909. His structure in the cemetery is not a tomb but a memorial. Then there is the lantern-shaped monument to Ueyama Kantaro, first son of Ueyama Eiichiro - the inventor of the mosquito coil. Kantaro died in 1942 when his plane crashed at Sembawang airport. Each grave tells a fragment of a larger story about the Japanese who came to Southeast Asia across two centuries, for reasons ranging from commerce to conquest.
+
+## Abandonment and Return
+
+Japan's defeat in 1945 emptied the cemetery of the living. The British repatriated all Japanese nationals from Singapore in 1948 and barred their return, fearing the complications of their wartime past. The Singapore government assumed control of the site, which sat disused until the 1951 peace treaty reopened diplomatic channels. In November 1952, Ken Ninomiya arrived as the first postwar Japanese Consul-General and was tasked with determining the fate of Japanese war remains. The cemetery also holds the ashes of executed war criminals from Changi Prison, making it a site where victims and perpetrators share the same ground. In 2004, a quieter act of reconciliation unfolded when Leong Foke Meng of the Singapore Land Authority helped locate the remains of Otokichi, a Japanese castaway from the early 19th century, buried at Choa Chu Kang. The remains were exhumed, cremated, and placed in the cemetery's columbarium. In February 2005, a delegation of 100 residents from Mihama Town carried a portion of his ashes back to Japan - a homecoming 173 years in the making.
+
+## Living Roots
+
+The Singapore government gazetted the site as a memorial park in 1987, and the Japanese Association of Singapore maintains it today. Beneath the canopy of tropical trees, an old lychee tree stands designated as a Heritage Tree by the National Parks Board - despite the climate, it bears no fruit. A rubber tree survives from the plantation era, a living link to the land Fukaki donated more than a century ago. Japanese students, veterans, residents, and tourists visit regularly, each group carrying different reasons and different weight. The park serves as proof that a single piece of ground can hold contradictions without resolving them: exploitation and remembrance, conquest and defeat, the ashes of war criminals beside the graves of women who had no choice in how they lived or where they died.
+
+## Flight Context
+
+Japanese Cemetery Park (1.365°N, 103.877°E) is located in the Hougang residential district of northeastern Singapore, identifiable from the air as a large green space amid dense HDB housing blocks. At lower altitudes, the park's mature tree canopy and memorial structures are visible. The nearest major airport is Singapore Changi (WSSS), approximately 8km to the east. Seletar Airport (WSSL) lies about 4km to the north-northwest. Approach from the east or south offers the best perspective on the park's setting within Singapore's suburban landscape. Equatorial weather prevails - expect afternoon thunderstorms and year-round humidity.
+
+## Sources
+
+- [Japanese Cemetery Park - Wikipedia](https://en.wikipedia.org/?curid=11465552)
+  - Cemetery established June 26, 1891, by Tagajiro Fukaki with Shibuya Ginji and Nakagawa Kikuzo - confirmed
+  - 7 acres of rubber plantation donated - confirmed
+  - 29,359 square metres, 910 tombstones - confirmed
+  - Largest Japanese cemetery in Southeast Asia - confirmed
+  - Terauchi Hisaichi born 1879, son of Japan's 18th prime minister (Terauchi Masatake) - confirmed per official Japanese government cabinet records
+  - Terauchi Hisaichi died June 1946 in Johor, some ashes believed to rest in the park - confirmed
+  - Site gazetted as memorial park in 1987 - confirmed
+  - Futabatei Shimei credited with introducing literary realism to Japanese literature - confirmed
+  - Otokichi remains exhumed 2004, returned to Japan February 2005 - confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 9 facts verified · 0 corrections
+
+Key facts verified: Fukaki donated 7 acres 26 June 1891, 29,359 sq metres 910 tombstones, Southeast Asia's largest Japanese cemetery. Terauchi Hisaichi son of Japan's 18th PM (Terauchi Masatake) confirmed per official Japanese govt records. Gazetted 1987. Futabatei Shimei literary realism claim confirmed. Otokichi repatriation 2004-2005 confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 870*
+*Read time: 4 minutes*

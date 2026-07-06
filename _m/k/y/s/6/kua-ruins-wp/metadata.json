@@ -51,5 +51,24 @@
     "sourceGeohash4": "kys6"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "kys6-kua-ruins-flight-context.mp3",
+      "kys6-kua-ruins-intro.mp3",
+      "kys6-kua-ruins-shirazi-founders-and-arab-geographers.mp3",
+      "kys6-kua-ruins-coral-and-community.mp3",
+      "kys6-kua-ruins-destruction-and-abandonment.mp3",
+      "kys6-kua-ruins-endangered-and-unexcavated.mp3"
+    ],
+    "durations": {
+      "kys6-kua-ruins-flight-context.mp3": 43.1224166,
+      "kys6-kua-ruins-intro.mp3": 59.178625,
+      "kys6-kua-ruins-shirazi-founders-and-arab-geographers.mp3": 65.3059583,
+      "kys6-kua-ruins-coral-and-community.mp3": 64.4004583,
+      "kys6-kua-ruins-destruction-and-abandonment.mp3": 51.5107083,
+      "kys6-kua-ruins-endangered-and-unexcavated.mp3": 64.2105416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

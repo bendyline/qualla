@@ -63,5 +63,26 @@
     "sourceGeohash4": "tmwn"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "tmwn-siege-of-sangin-flight-context.mp3",
+      "tmwn-siege-of-sangin-intro.mp3",
+      "tmwn-siege-of-sangin-two-tribes-and-a-powder-keg.mp3",
+      "tmwn-siege-of-sangin-the-compound.mp3",
+      "tmwn-siege-of-sangin-under-fire.mp3",
+      "tmwn-siege-of-sangin-bryan-budds-last-fight.mp3",
+      "tmwn-siege-of-sangin-seventy-nine-attacks-in-twenty-days.mp3"
+    ],
+    "durations": {
+      "tmwn-siege-of-sangin-flight-context.mp3": 49.5255,
+      "tmwn-siege-of-sangin-intro.mp3": 46.8782083,
+      "tmwn-siege-of-sangin-two-tribes-and-a-powder-keg.mp3": 56.0953333,
+      "tmwn-siege-of-sangin-the-compound.mp3": 53.522625,
+      "tmwn-siege-of-sangin-under-fire.mp3": 62.5053333,
+      "tmwn-siege-of-sangin-bryan-budds-last-fight.mp3": 59.68675,
+      "tmwn-siege-of-sangin-seventy-nine-attacks-in-twenty-days.mp3": 61.6287083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

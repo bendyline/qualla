@@ -1,0 +1,60 @@
+# Lahore Fort
+
+A citadel rebuilt by every power that conquered Lahore, the Lahore Fort contains a millennium of layered history from the Delhi Sultanate through the Mughals, Sikhs, and British, crowned by one of the greatest works of decorative art in South Asia.
+
+**Location:** 31.5903, 74.3097
+
+**Categories:** architecture, history, UNESCO World Heritage, Pakistan, Mughal Empire, fortification
+
+## Introduction
+
+Dig anywhere inside the Lahore Fort and you hit history. During excavations in 1959, workers found a gold coin dated 1025 CE belonging to Mahmud of Ghazni buried 25 feet below the lawn in front of the Diwan-i-Am. Beneath that, cultural layers stretched down another 15 feet, evidence of habitation older than any conqueror whose name survives. In 2007, workers relaying the deteriorated floor near the Akbari Gate uncovered three successive pavements: British brick, Sikh burnt brick, and Mughal pebble, stacked like pages in a book no one intended to write. The fort, spread over more than 20 hectares at the northern end of Lahore's Walled City, is less a single monument than a palimpsest, each ruling power scraping away just enough of its predecessor to leave room for itself.
+
+## Destroyed, Rebuilt, Destroyed Again
+
+The earliest recorded fort here was a mud structure during the rule of Mahmud of Ghazni in the 11th century. The Mongols destroyed it during the Siege of Lahore in 1241. Sultan Balban of the Mamluk dynasty rebuilt it in 1267. Timur's invading forces levelled it again in 1398. Mubarak Shah Sayyid reconstructed it in 1421, only for Shaikh Ali of Kabul to seize it in the 1430s. The fort then passed through Lodi dynasty hands until the Mughal Emperor Babur captured Lahore in 1526. This cycle of destruction and reconstruction, five times in five centuries, was not mere misfortune. Lahore sat on the strategic corridor between the Mughal heartland and the frontier strongholds of Kabul, Multan, and Kashmir. Whoever held the fort controlled the road west.
+
+## The Mughal Transformation
+
+The fort as it exists today began in 1566, when Emperor Akbar dismantled the old mud walls and rebuilt them in solid brick masonry. Over the next century, three emperors reshaped it. Akbar added the Doulat Khana and Akbari Gate. Jahangir, beginning in 1612, contributed the Kala Burj pavilion with its European-inspired angels and, most dramatically, commissioned the Picture Wall, a 1,450-foot-long, 50-foot-high expanse of glazed tile, faience mosaics, and frescoes depicting elephant fights, polo games, and angelic figures. Shah Jahan built the luminous Sheesh Mahal, or Palace of Mirrors, along with the Summer Palace beneath it, a labyrinth of underground chambers cooled by an elaborate system of 42 waterfalls and cascades flowing with rose-scented water. His Naulakha Pavilion, named for its cost of 900,000 rupees, was inlaid with precious stones and later inspired Rudyard Kipling to name his Vermont home after it. Aurangzeb added the imposing Alamgiri Gate in 1674, its lotus-petal base opening toward the Badshahi Mosque he had just completed across the Hazuri Bagh.
+
+## From Diamond to Gunpowder
+
+After the Mughals, the fort passed through Afghan Durrani, Maratha, and Bhangi Misl hands before Ranjit Singh captured it in 1799. The Sikh maharaja made it his own with pragmatic flair: the Hazuri Bagh garden and its central baradari were built to celebrate his capture of the Koh-i-Noor diamond, which he displayed in the Shah Burj atop the Sheesh Mahal. He used the Summer Palace as his residence. His elder son Kharak Singh was born within the fort walls, and his youngest, Duleep Singh, arrived in 1838 at the Mai Jindan Haveli. The Sikhs also added the Sehdari pavilion, decorated with frescoes of floral designs and Hindu religious themes, and converted the Moti Masjid into a Sikh temple renamed Moti Mandir, using the building as a state treasury. When the East India Company took Punjab in 1849, they found precious stones wrapped in cloth and scattered inside.
+
+## The Wall That Tells Everything
+
+If the fort has a single masterpiece, it is the Picture Wall. Begun under Jahangir and likely completed under Shah Jahan through the 1620s, this monumental section of the outer rampart is covered in a vibrant mosaic of glazed tiles and frescoes. Unlike the red sandstone ramparts of Delhi's Red Fort or the Agra Fort, Lahore's walls were brick, and the Picture Wall transformed that humble material into something extraordinary. Each panel stands alone: an elephant wrestling scene here, angels there, a polo match beside them, no overarching narrative, just an exuberant catalogue of Mughal visual imagination. Centuries of neglect and damage took their toll, but in 2015 the Aga Khan Trust for Culture and the Walled City of Lahore Authority began conservation work. They completed detailed 3D scanning of the entire wall in July 2016, building a digital record of what weather and war had not yet erased.
+
+## A World Heritage Survivor
+
+UNESCO designated the Lahore Fort and the Mughal-era Shalimar Gardens as a joint World Heritage Site in 1981. By 2000, deterioration was severe enough that Pakistan requested both be placed on the endangered list. International funding from Norway, Hong Kong, the United Kingdom, and France supported restoration of the Sheesh Mahal, Alamgiri Gate, Hazuri Bagh, and Shah Burj Gate, the last completed in March 2020 by Aga Khan Cultural Service Pakistan. In June 2012, the sites were removed from the endangered list. The fort remains a place where the layers refuse to settle quietly. In 1990, UNESCO barred its use for state or private events, yet a wedding reception was held inside in December 2010 and a dinner in the Diwan-i-Khas the following month. Lahore's relationship with its fort has always been more personal than reverential, more lived-in than curated. That is perhaps why it has survived at all.
+
+## Flight Context
+
+Located at 31.59°N, 74.31°E at the northern edge of Lahore's Walled City. The fort's roughly rectangular perimeter (365 x 320 metres) is clearly visible from altitude, adjacent to the Badshahi Mosque to its west and the Hazuri Bagh between them. The Ravi River runs to the north. Nearest major airport is Allama Iqbal International Airport (OPLA), approximately 12 km southeast. The Alamgiri Gate, Badshahi Mosque, and fort complex form a distinctive cluster identifiable at moderate altitude.
+
+## Sources
+
+- [Lahore Fort - Wikipedia](https://en.wikipedia.org/?curid=530363)
+  - UNESCO World Heritage inscription 1981 confirmed (joint with Shalimar Gardens)
+  - Fort spread over more than 20 hectares confirmed
+  - Fort dimensions 365 x 320 metres confirmed
+  - Akbar rebuilt fort in solid brick masonry in 1566 confirmed
+  - Picture Wall dimensions: 1,450 feet long, 50 feet high confirmed
+  - Picture Wall begun under Jahangir (1624-25) and completed under Shah Jahan confirmed
+  - Endangered list placement 2000, removed 2012 confirmed
+  - UNESCO barred events in 1990 noted
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 8 facts verified · 0 corrections
+
+All key facts verified: UNESCO inscription 1981, fort dimensions 365x320m over 20 hectares, Akbar's 1566 reconstruction, Picture Wall dimensions 1450 feet x 50 feet begun by Jahangir completed by Shah Jahan, endangered list 2000 removed 2012. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 870*
+*Read time: 4 minutes*

@@ -1,0 +1,61 @@
+# Quecreek Mine Rescue
+
+In July 2002, nine Pennsylvania coal miners were trapped 240 feet underground for 77 hours after breaching a flooded abandoned mine -- rescued one by one through a 26-inch borehole drilled through solid rock, in a race against rising water, broken drill bits, and hypothermia.
+
+**Location:** 40.0783, -79.0855
+
+**Categories:** pennsylvania, mining, rescue, disaster, history
+
+## Introduction
+
+They roped themselves together to die as a family. Nine coal miners, soaked and shivering in four-foot-high tunnels 240 feet below the fields of Dormel Farm in Somerset County, Pennsylvania, watched the water rise and wrote goodbye notes to their wives. It was July 25, 2002, and miner Randy Fogle estimated they had about an hour left to live. Then the water stopped rising. And above them, on the surface, a drill was boring through rock toward the exact spot where they huddled, guided by GPS coordinates and desperation. The Quecreek Mine rescue became one of the most dramatic underground rescues in American history -- 77 hours of improvisation, engineering, and sheer determination that ended with nine men alive.
+
+## Nine Taps on a Pipe
+
+At approximately 9 PM on Wednesday, July 24, 2002, eighteen miners working the evening shift at the Quecreek Mine in Lincoln Township accidentally broke through into the abandoned Harrison No. 2 mine. The old mine was flooded, and millions of gallons of water began pouring into the active tunnels. Nine miners in the 2-Left panel received a phone call from their coworkers and escaped within 45 minutes. But the nine men in the 1-Left panel were cut off. They tried twice to reach the exit through four-foot-high tunnels, but every route was flooded. By 2:05 AM Thursday, a rescue team began drilling a six-inch borehole to push air down to the trapped miners. When the drill broke through at 5:06 AM, workers tapped on the inserted pipe. At 5:12 AM, they heard three strong bangs in return. Then, at 11:40 AM, nine distinct taps -- one for each man alive.
+
+## An Untested Gamble
+
+The air hole confirmed the miners were alive, but the water was still rising. Mine ventilation expert John Urosek of the U.S. Mine Safety and Health Administration proposed something that had never been attempted in the United States: seal the borehole and pump compressed air down to create a pressurized pocket that would hold back the water. The plan was theoretical. The math was uncertain. But with the water approaching the miners' refuge, there was no alternative. The drill operator pumped 920 cubic feet of air per minute through the hole. The roaring compressed air deafened the miners and hurt their ears, but it held the water at bay. Meanwhile, pumps worked around the clock at the surface, eventually reaching a discharge rate of 27,000 gallons per minute. The battle was to drain water faster than it could flood in -- a race measured in inches of elevation and hours of battery life on the miners' headlamps.
+
+## The Drill Bit Breaks
+
+A massive drill capable of boring a 30-inch rescue shaft had arrived from West Virginia with a police escort. Drilling began Thursday evening at 6:45 PM, but at 1:12 AM Friday the bit broke, and part of it lodged deep in the hole. Normally, fabricating a retrieval tool for such a job took three or four days. A 95-member machine shop in Big Run, Jefferson County, built one in three hours. A National Guard helicopter flew it to the site. The broken bit was extracted by 4:09 PM Friday, but the delay had cost 18 hours. Underground, the miners heard the drilling stop and feared the worst. Fogle reassured the others that it would start again. On the surface, Governor Mark Schweiker told reporters they were in a fragile state and that they might need help from the Almighty. Many journalists covering the story were staying in the same Somerset hotels they had used less than a year earlier while reporting on the United Airlines Flight 93 crash site, located nearby.
+
+## A Corned Beef Sandwich and Two Mountain Dews
+
+Underground, survival was measured in small mercies. Dennis Hall's lunch pail floated past and was retrieved -- inside, a still-dry corned beef sandwich his wife had made him and a bottle of Pepsi. Thomas Foy found two Mountain Dews on one of the mining machines. The men shared everything. To fight hypothermia in the cold water, they sat back to back, pooling body heat. Crew chief Fogle kept spirits up, confident that rescue would come. They had no way to communicate after rising water covered the air shaft. For a time they banged on the rock ceiling with a hammer, and federal officials detected the vibrations with seismic equipment brought to the surface. When a new 26-inch drill bit finally reached the mine void at 10:16 PM on Saturday, July 27, the miners were still alive -- barely. Their cap lamps were nearly dead. Ron Hileman and Thomas Foy happened to be checking the drilling area when the bit broke through.
+
+## All Nine Alive
+
+A communication device with a child's glow stick attached was lowered through the air pipe. All nine men confirmed they were alive. At 12:30 AM on Sunday, July 28, an eight-and-a-half-foot steel mesh rescue capsule descended into the mine. Foreman Randy Fogle, suffering chest pains, went first, reaching the surface at about 1:00 AM. The remaining eight miners were brought up at 15-minute intervals, heaviest to lightest, since the last man would have no help getting into the capsule. By 2:45 AM, all nine were on the surface. None suffered decompression sickness, though doctors had prepared ten portable hyperbaric chambers just in case. Their extremities were purple and mottled from prolonged immersion. Trauma surgeon Dr. Russell Dumire reported that the skin on their feet could have been rubbed right off. All nine eventually made full recoveries. A memorial park now stands at Dormel Farms where the rescue drill broke through, and the MSHA investigation traced the root cause to an inaccurate, uncertified map of the abandoned mine that should never have been relied upon.
+
+## Flight Context
+
+Located at 40.078N, 79.086W in Somerset County, Pennsylvania, in the rolling farmland of the Allegheny Plateau. The rescue site at Dormel Farms is visible as open fields near Lincoln Township. The terrain is gently undulating agricultural land that gives no hint of the coal seams below. Nearby airports include Somerset County Airport (2G9) approximately 10 miles to the southeast and John Murtha Johnstown-Cambria County Airport (KJST) about 20 miles to the northeast. The Flight 93 National Memorial is located approximately 10 miles to the south-southeast. Best viewed at 3,000-5,000 feet AGL in clear conditions.
+
+## Sources
+
+- [Quecreek Mine rescue - Wikipedia](https://en.wikipedia.org/?curid=3612881)
+  - Nine miners trapped 240 feet underground
+  - Trapped July 24-28, 2002 (77 hours)
+  - Broke into abandoned Harrison No. 2 mine
+  - Rescue capsule raised miners one at a time
+  - Root cause: inaccurate uncertified mine map
+- [Quecreek Mine Rescue Fast Facts - CNN](https://www.cnn.com/2013/09/12/us/quecreek-mine-rescue-fast-facts/index.html)
+  - Nine miners rescued in Lincoln Township, Somerset County
+  - Randy Fogle was first miner raised to surface
+  - All nine made full recoveries
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 8 facts verified · 0 corrections
+
+Final review complete - all key claims verified via web search
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

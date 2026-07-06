@@ -1,0 +1,59 @@
+# Snowdonia National Park
+
+Wales's mountain heartland -- officially renamed Eryri in 2022 -- where the last Welsh princes held out against English kings, slate quarries scarred the valleys, and Snowdon trained Edmund Hillary for Everest.
+
+**Location:** 52.9333, -3.9333
+
+**Categories:** national-park, mountains, hiking, history, wales
+
+## Introduction
+
+Legend says that if you spend the night on the summit of Cadair Idris, you will wake up either dead, insane, or a poet. That kind of wager suits a national park where the mountains have always demanded something from the people who live among them. Snowdonia -- officially renamed Eryri National Park in 2022, though the old English name persists -- covers 2,142 square kilometers of northwestern Wales, a landscape of sharp ridges, deep lakes, and valley towns where Welsh is spoken as fluently as English and the signs switch between both languages with the ease of people who have always lived in two worlds. The park was established in 1951, the third in the United Kingdom and the first in Wales, but the mountains had been serving as a natural fortress for centuries before any government drew a boundary around them.
+
+## Fortress of the Last Princes
+
+The Princes of Gwynedd understood what the mountains offered. While English kings controlled the lowlands and the coast, the Welsh rulers retreated into the high country of Snowdonia, where narrow valleys and exposed ridges made invasion costly. Llywelyn ap Gruffudd, the last native Prince of Wales, held this terrain until Edward I of England broke Welsh resistance in the 1280s and ringed the region with castles. Most of Edward's fortifications -- Caernarfon, Conwy, Harlech, Beaumaris -- were deliberately sited on the coast, forming what historians call the Ring of Steel. The Welsh princes, by contrast, built their strongholds in the mountain interior, where they hoped terrain would do what armies could not. Several of these castles survive within the park, maintained by Cadw, the Welsh historic environment service. The mountains themselves remain the more enduring fortification: centuries later, the same landscape that sheltered medieval princes became a training ground for Edmund Hillary, who used Snowdon's slopes to prepare for his 1953 ascent of Mount Everest.
+
+## The Bones of the Earth
+
+Snowdon -- Yr Wyddfa in Welsh -- stands at 1,085 meters, the highest point in Wales and in all of England and Wales combined. Half a million people climb it every year, via routes that range from the gentle Llanberis Path, which follows the mountain railway track, to the Crib Goch arete, a knife-edge scramble that is emphatically not a walk and demands a head for exposure. But Snowdon is only the most famous peak in a park that contains at least eight distinct mountain groups. Tryfan, in the Glyderau range, is said to be the only mountain in Britain south of the Scottish Highlands that cannot be climbed without using your hands. Two standing rocks at its summit, known as Adam and Eve, invite a tradition of jumping between them to earn the mountain's freedom -- a leap more psychological than physical, given the drops on either side. To the south, Cadair Idris rises to 892 meters, the second-most climbed mountain in Wales, and Cnicht earns the affectionate nickname of the Welsh Matterhorn, more for its pyramidal shape than for any comparable height.
+
+## Slate, Water, and the Gwyniad
+
+Much of the world's roofing slate once came from these valleys. The quarries at Blaenau Ffestiniog and elsewhere cut deep terraces into the hillsides, scars that remain visible today as stacked grey ledges against green slopes. Some quarries are still active, but the industry's peak has long passed, leaving behind an industrial heritage that Wales now preserves alongside the natural landscape. Water is equally defining. Lakes fill nearly every valley, fed by rainfall that makes Snowdonia one of the wettest places in the United Kingdom. Several hydroelectric schemes harness the elevation drop, including the Dinorwig Power Station, a pumped-storage facility hidden inside a mountain. Liverpool's drinking water comes from these Welsh lakes -- a fact that still carries political charge. In Bala Lake, the Gwyniad, a whitefish found nowhere else on Earth, inhabits the deep cold waters. Between 2003 and 2007, conservationists introduced the species to a second lake as insurance against catastrophe. Bala's deep waters are also said to harbor Tegi, the lake's own answer to the Loch Ness Monster.
+
+## Narrow-Gauge and Mountain Railway
+
+Steam railways thread through Snowdonia like veins through marble. The Ffestiniog Railway, originally built to carry slate from the quarries at Blaenau Ffestiniog to the coast at Porthmadog, now carries tourists through some of the park's finest scenery on its narrow-gauge track. The Welsh Highland Railway connects Porthmadog to Caernarfon, passing through Beddgelert and the Aberglaslyn Pass. And the Snowdon Mountain Railway, the only rack-and-pinion railway in the United Kingdom, hauls passengers to within a few meters of Snowdon's summit, where a cafe serves hot drinks to walkers and rail passengers alike. These heritage lines are not mere nostalgia. They connect communities, move visitors through landscapes that roads cannot easily reach, and preserve the engineering of an industrial era when Welsh slate roofed buildings across the British Empire. The Cambrian Coast Line, a mainline service, runs along the southern edge of the park through Barmouth, Harlech, and Porthmadog, offering one of the most scenic rail journeys in Britain.
+
+## Mist, Rain, and Wild Things
+
+Snowdonia's weather is the park's most honest feature: it does not pretend. Cloud often shrouds the peaks even when the valleys are clear, and rain arrives with a frequency that locals accept with the resignation of people who have learned that complaining changes nothing. Around 70 people are seriously injured on Snowdon each year, and roughly 10 die, mostly on descent when fatigue and overconfidence combine. The park authorities do not sugarcoat this. Yet the same weather that makes the mountains dangerous also makes them beautiful. Mist transforms familiar ridges into something otherworldly, and when the cloud lifts suddenly to reveal a lake below or Anglesey's coastline in the distance, the effect is worth every sodden hour of waiting. Buzzards, ospreys, peregrines, and choughs patrol the skies. Red squirrels, polecats, and badgers inhabit the forests. Offshore, seals and dolphins are spotted with enough regularity that their appearance no longer surprises. Snowdonia is not gentle country, and it does not try to be. That is the point.
+
+## Flight Context
+
+Snowdonia (Eryri) National Park is located at approximately 52.93N, 3.93W in northwestern Wales. From the air, the park is immediately recognizable by its rugged mountain terrain contrasting sharply with the surrounding lower Welsh countryside and the Irish Sea coastline to the west and north. Snowdon (Yr Wyddfa, 1,085m) is the dominant peak, often cloud-capped. The slate quarry terraces near Blaenau Ffestiniog are distinctive grey scars. The castle towns of Harlech, Caernarfon, and Conwy are visible along the coast. Best viewed at 3,000-6,000 feet AGL. The nearest airports are Manchester (EGCC) and Liverpool (EGGP) across the border in England. RAF Valley (EGOV) on Anglesey is closest. Holyhead port and the Menai Strait crossings are visible to the northwest.
+
+## Sources
+
+- [Snowdonia National Park - Wikivoyage](https://en.wikivoyage.org/?curid=33120)
+- [Wikipedia - Snowdonia](https://en.wikipedia.org/wiki/Snowdonia)
+  - Snowdon elevation 1,085 meters confirmed as highest point in Wales
+  - Park established 1951, third national park in UK confirmed
+  - Welsh name Eryri adopted/prioritized from 2022 announcement confirmed
+  - Area cited as 2,142 sq km — within range of sources (2,130–2,142 km²)
+  - Snowdon Mountain Railway is only rack-and-pinion railway in UK confirmed
+  - Edmund Hillary used Snowdon to train for 1953 Everest ascent
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 7 facts verified · 0 corrections
+
+Verified Snowdon 1,085m elevation; park established 1951 as third UK national park; Eryri name prioritized from 2022; park area 2,142 sq km within published range; Snowdon Mountain Railway is UK's only rack-and-pinion railway; Hillary trained on Snowdon for Everest 1953
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 880*
+*Read time: 5 minutes*

@@ -974,5 +974,24 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u2ed-ringstrasse-flight-context.mp3",
+      "u2ed-ringstrasse-intro.mp3",
+      "u2ed-ringstrasse-an-emperors-will-made-stone.mp3",
+      "u2ed-ringstrasse-a-museum-every-few-steps.mp3",
+      "u2ed-ringstrasse-catastrophe-and-protest-on-the-boulevard.mp3",
+      "u2ed-ringstrasse-the-ring-today.mp3"
+    ],
+    "durations": {
+      "u2ed-ringstrasse-flight-context.mp3": 52.772,
+      "u2ed-ringstrasse-intro.mp3": 61.4125833,
+      "u2ed-ringstrasse-an-emperors-will-made-stone.mp3": 72.50125,
+      "u2ed-ringstrasse-a-museum-every-few-steps.mp3": 70.7685,
+      "u2ed-ringstrasse-catastrophe-and-protest-on-the-boulevard.mp3": 64.7495416,
+      "u2ed-ringstrasse-the-ring-today.mp3": 73.525875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1,0 +1,68 @@
+# Coober Pedy
+
+A town where people live underground to escape 48-degree heat, play golf at night with glowing balls, and supply most of the world's gem-quality opal.
+
+**Location:** -29.0139, 134.7550
+
+**Categories:** mining-towns, underground-cities, outback, unique-communities
+
+## Introduction
+
+The golf course has no grass. Players carry a small square of artificial turf with them, placing it down to tee off on bare earth, then picking it up again for the next hole. They play at night, with glowing balls, because daytime temperatures in Coober Pedy regularly exceed 40 degrees Celsius and have reached 48.3. This is not eccentricity. This is adaptation. Coober Pedy, halfway between Adelaide and Alice Springs on the Stuart Highway, is a town that long ago decided the surface was optional. Its residents live in dugouts -- cave homes bored into the hillsides -- where the temperature holds steady year-round while the desert above bakes or freezes. Churches, hotels, and even a museum operate underground. The name derives from Aboriginal words that linguists believe combine Parnkalla and Kokatha language elements, roughly translating to 'white man's hole in the ground.'
+
+## Fire in the Ground
+
+Opal was discovered near Coober Pedy in 1915 by a gold prospector who found something more valuable than what he was looking for. Aboriginal oral history suggests that local people had long known where the opals were but did not value them -- food mattered more in this landscape. Miners began arriving around 1916, and the town grew into the opal capital of the world. Today, Coober Pedy supplies most of the planet's gem-quality opal, drawn from over 70 opal fields. In 1956, the Olympic Australis was unearthed at the Eight Mile field -- the largest and most valuable opal ever found, weighing 17,000 carats, consisting of 99 percent gem opal. It was valued at AU$2.5 million in 1997. Walking through town requires care: unmarked and abandoned mine shafts dot the landscape, and local laws reflect the genuine hazard of stepping where the ground has been hollowed out beneath you.
+
+## Living Below
+
+The dugout is not a novelty -- it is Coober Pedy's most practical form of housing. A standard three-bedroom cave home with lounge, kitchen, and bathroom can be excavated from the hillside for roughly the same cost as building on the surface. The difference is that a dugout needs no air conditioning. While surface temperatures swing between summer extremes above 40 degrees and winter lows near freezing, underground spaces maintain a constant, comfortable temperature. The town's underground architecture extends to two churches -- a Serbian Orthodox church and a Catholic church -- as well as hotels, a bookshop, and the Umoona Opal Mine and Museum. The relative humidity rarely exceeds 20 percent on hot days, the skies are almost perpetually clear, and the town's water, drawn from the Great Artesian Basin, carries the highest consumer charges in South Australia.
+
+## Outback Peculiarities
+
+Coober Pedy's isolation breeds a kind of determined self-invention. The local golf club is the only one in the world to enjoy reciprocal rights with The Royal and Ancient Golf Club of St Andrews -- a relationship established by correspondence between two clubs that could hardly be more different. The town's football team, the Coober Pedy Saints, must travel over 900 kilometers round-trip to Roxby Downs for every match, making it one of the most committed sporting sides in Australia. The drive-in theater, opened in 1965, declined after television arrived in 1980, closed in 1984, reopened in 1996, and is now the last drive-in operating in South Australia. And then there are the films: Mad Max Beyond Thunderdome, The Adventures of Priscilla Queen of the Desert, Mortal Kombat, and others have used the town and its alien-looking hinterland as sets.
+
+## The People Underground
+
+Coober Pedy's population of roughly 3,500 includes people from more than 45 nationalities, drawn by the opal fields over the past century. Aboriginal communities maintain a significant presence: the Umoona Tjutagku Health Service Aboriginal Corporation provides health services, and Indigenous artists from the region have joined the APY Art Centre Collective, exhibiting in Adelaide galleries. The Umoona Community Art Centre, established with a board in 2021, seeks government funding for a permanent space. The town is a microcosm of outback Australia -- small, multicultural, resourceful, and stubbornly rooted in a place that by most measures should not sustain a community at all.
+
+## Gateway to Deeper Isolation
+
+Coober Pedy sits at a crossroads of outback routes. The Stuart Highway connects it north to Alice Springs and south to Adelaide. To the west, the Anne Beadell Highway -- a 1,350-kilometer dirt track through the Great Victoria Desert -- leads to Laverton in Western Australia. To the north, the Oodnadatta Track reaches the desert communities of Oodnadatta and William Creek, served by a twice-weekly mail run that carries letters, freight, and passengers across some of the loneliest country on Earth. The Ghan train stops at Manguri Siding, 42 kilometers away, but passengers are not permitted to disembark without prearranged transport because the siding is so remote and night temperatures so extreme. Rex Airlines provides the most convenient access, with direct flights to Adelaide from Coober Pedy Airport.
+
+## Flight Context
+
+Coober Pedy is located at approximately 29.01S, 134.76E along the Stuart Highway in South Australia's Far North region. Coober Pedy Airport (YCBP) offers direct flights to Adelaide. From the air, the town is recognizable by the distinctive white spoil heaps from opal mining that dot the surrounding desert, giving the terrain a lunar or pockmarked appearance. The flat, treeless landscape makes the town visible from considerable altitude. The Breakaways, an eroded mesa formation, are visible to the north. Nearest alternate airfields include Woomera (YPWR) to the southeast and Olympic Dam (YOLD).
+
+## Sources
+
+- [Coober Pedy - Wikipedia](https://en.wikipedia.org/?curid=183930)
+  - Opal discovered 1915 confirmed (first opal found 1 February 1915 by Willie Hutchison)
+  - Miners arriving around 1916 confirmed
+  - Town supplies most of world's gem-quality opal confirmed
+  - Over 70 opal fields confirmed
+  - Olympic Australis found 1956 at Eight Mile field confirmed
+  - Olympic Australis weight 17,000 carats confirmed
+  - Olympic Australis 99% gem opal confirmed
+  - Valued at AU$2.5 million in 1997 confirmed
+  - Temperature reaching 48.3 degrees Celsius confirmed
+  - Dugout homes with constant temperature confirmed
+  - Underground Serbian Orthodox and Catholic churches confirmed
+  - Umoona Opal Mine and Museum confirmed
+  - Reciprocal rights with Royal and Ancient Golf Club of St Andrews confirmed
+  - Population ~3,500 from 45+ nationalities confirmed
+  - Rex Airlines flights to Adelaide confirmed
+  - Ghan stops at Manguri Siding 42 km away confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 16 facts verified · 0 corrections
+
+All facts verified: opal discovery 1915, miners arriving 1916, Olympic Australis (1956, Eight Mile, 17000 carats, 99% gem opal, AU.5M 1997), temperature 48.3C, golf club reciprocal rights with R&A, Manguri Siding 42km. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

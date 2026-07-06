@@ -553,5 +553,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qr55-way-kambas-national-park-flight-context.mp3",
+      "qr55-way-kambas-national-park-intro.mp3",
+      "qr55-way-kambas-national-park-a-forest-that-grew-back.mp3",
+      "qr55-way-kambas-national-park-ghosts-in-the-undergrowth.mp3",
+      "qr55-way-kambas-national-park-the-rhinos-last-bet.mp3",
+      "qr55-way-kambas-national-park-elephants-at-the-edge.mp3",
+      "qr55-way-kambas-national-park-holding-the-line.mp3"
+    ],
+    "durations": {
+      "qr55-way-kambas-national-park-flight-context.mp3": 40.6518333,
+      "qr55-way-kambas-national-park-intro.mp3": 53.454125,
+      "qr55-way-kambas-national-park-a-forest-that-grew-back.mp3": 54.011125,
+      "qr55-way-kambas-national-park-ghosts-in-the-undergrowth.mp3": 61.7368333,
+      "qr55-way-kambas-national-park-the-rhinos-last-bet.mp3": 57.7806666,
+      "qr55-way-kambas-national-park-elephants-at-the-edge.mp3": 63.5381666,
+      "qr55-way-kambas-national-park-holding-the-line.mp3": 52.1320833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

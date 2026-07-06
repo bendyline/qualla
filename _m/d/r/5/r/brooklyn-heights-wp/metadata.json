@@ -821,5 +821,26 @@
     "_m/d/r/5/r/brooklyn-heights-wp/210-220-columbia-heights.jpg",
     "_m/d/r/5/r/brooklyn-heights-wp/55-75-joralemon-street.jpg"
   ],
-  "updatedAt": "2026-03-30T11:55:26.557Z"
+  "updatedAt": "2026-03-30T11:55:26.557Z",
+  "narration": {
+    "files": [
+      "dr5r-brooklyn-heights-flight-context.mp3",
+      "dr5r-brooklyn-heights-intro.mp3",
+      "dr5r-brooklyn-heights-clover-hill-to-commuter-haven.mp3",
+      "dr5r-brooklyn-heights-the-underground-railroads-grand-central-station.mp3",
+      "dr5r-brooklyn-heights-bridges-subways-and-the-brownstone-revival.mp3",
+      "dr5r-brooklyn-heights-a-literary-perch-above-the-river.mp3",
+      "dr5r-brooklyn-heights-the-view-from-the-promenade.mp3"
+    ],
+    "durations": {
+      "dr5r-brooklyn-heights-flight-context.mp3": 58.72825,
+      "dr5r-brooklyn-heights-intro.mp3": 38.12475,
+      "dr5r-brooklyn-heights-clover-hill-to-commuter-haven.mp3": 64.8617083,
+      "dr5r-brooklyn-heights-the-underground-railroads-grand-central-station.mp3": 54.8544583,
+      "dr5r-brooklyn-heights-bridges-subways-and-the-brownstone-revival.mp3": 63.5154583,
+      "dr5r-brooklyn-heights-a-literary-perch-above-the-river.mp3": 53.261125,
+      "dr5r-brooklyn-heights-the-view-from-the-promenade.mp3": 66.339375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

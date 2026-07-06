@@ -633,5 +633,24 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr5r-pulaski-skyway-flight-context.mp3",
+      "dr5r-pulaski-skyway-intro.mp3",
+      "dr5r-pulaski-skyway-the-super-highway-dream.mp3",
+      "dr5r-pulaski-skyway-hagues-highway.mp3",
+      "dr5r-pulaski-skyway-frozen-in-time.mp3",
+      "dr5r-pulaski-skyway-the-view-from-above.mp3"
+    ],
+    "durations": {
+      "dr5r-pulaski-skyway-flight-context.mp3": 50.8554583,
+      "dr5r-pulaski-skyway-intro.mp3": 60.6361666,
+      "dr5r-pulaski-skyway-the-super-highway-dream.mp3": 65.6007916,
+      "dr5r-pulaski-skyway-hagues-highway.mp3": 60.9273333,
+      "dr5r-pulaski-skyway-frozen-in-time.mp3": 61.9799583,
+      "dr5r-pulaski-skyway-the-view-from-above.mp3": 52.8630833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

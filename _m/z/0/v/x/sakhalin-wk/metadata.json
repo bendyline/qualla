@@ -740,5 +740,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "z0vx-sakhalin-flight-context.mp3",
+      "z0vx-sakhalin-intro.mp3",
+      "z0vx-sakhalin-an-island-between-empires.mp3",
+      "z0vx-sakhalin-taiga-tundra-and-two-mountain-ranges.mp3",
+      "z0vx-sakhalin-oil-gas-and-the-boomtown-effect.mp3",
+      "z0vx-sakhalin-the-last-indigenous-voices.mp3",
+      "z0vx-sakhalin-getting-there-is-half-the-adventure.mp3"
+    ],
+    "durations": {
+      "z0vx-sakhalin-flight-context.mp3": 44.47375,
+      "z0vx-sakhalin-intro.mp3": 42.8573333,
+      "z0vx-sakhalin-an-island-between-empires.mp3": 59.712125,
+      "z0vx-sakhalin-taiga-tundra-and-two-mountain-ranges.mp3": 50.6929583,
+      "z0vx-sakhalin-oil-gas-and-the-boomtown-effect.mp3": 59.68675,
+      "z0vx-sakhalin-the-last-indigenous-voices.mp3": 50.8265833,
+      "z0vx-sakhalin-getting-there-is-half-the-adventure.mp3": 54.5764166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

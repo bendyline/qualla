@@ -1,0 +1,61 @@
+# Baba Jan Tepe
+
+A multi-period archaeological mound in Iran's Lorestan Province, Baba Jan Tepe preserves 4,000 years of settlement from the Chalcolithic through the Achaemenid period, including a painted ceremonial hall destroyed by fire in the 8th century BC.
+
+**Location:** 34.0236, 47.9358
+
+**Categories:** Tells (archaeology), Archaeological sites in Iran, Former populated places in Iran, Buildings and structures in Lorestan province
+
+## Introduction
+
+The fire that destroyed the Painted Chamber at Baba Jan Tepe sometime near the end of the 8th century BC preserved it. Walls that had been decorated in red paint on white plaster, a ceiling made of painted tiles, a columned hall that opened onto an enclosed courtyard -- all of it collapsed and carbonized in a single catastrophic event. When British archaeologist Clare Goff excavated the site between 1966 and 1969, she found the ruins exactly as the flames had left them, sealed beneath centuries of later occupation on the southern edge of the Delfan plain in Iran's Lorestan Province.
+
+## Two Mounds, Four Millennia
+
+Baba Jan Tepe consists of two mounds joined by a saddle of earth, roughly 10 kilometers from the town of Nurabad. The East Mound, 85 meters in diameter and 9 meters high, yielded a sequence of first-millennium BC buildings above earlier Bronze Age graves. The Central Mound, larger at 120 meters across and 15 meters high, contained the remains of a manor house on its summit and, deep below, traces of occupation stretching back to the late fourth millennium BC. A deep sounding only 8 by 6 meters wide on the Central Mound opened a window into this earlier history. At its lowest levels, Goff found Chalcolithic pottery from around 3500 BC, comparable to material from Godin Tepe. Above that lay domestic architecture from 2300-2100 BC and 1800-1500 BC, separated by a gap during which the site was used only for burials.
+
+## The Painted Chamber
+
+The most remarkable discovery at Baba Jan was the Painted Chamber on the East Mound. This ceremonial hall, measuring 10 by 12 meters, was attached to a larger fortified complex. Two columns supported its roof. A niche and a doorway with reveals -- recessed frames indicating careful architectural planning -- opened into the space. The walls were plastered white and decorated with red paint. Above, the ceiling was assembled from individually painted tiles, a technique sophisticated enough to prompt later scholars to propose alternative reconstructions of its pattern. The hall opened southward onto an enclosed courtyard. Adjacent to it stood the Fort, a larger structure whose walls survived to 3 or 4 meters in height. Its central room contained four irregularly placed columns, and a spiral ramp led to either a second story or the roof. Together, the Fort and Painted Chamber were probably the seat of a local ruler.
+
+## The Pottery Called Genre Luristan
+
+Baba Jan Tepe gave archaeologists a name for an entire ceramic tradition. The handmade, buff-colored pottery found in the Level III occupation, finished on a turntable and decorated with thick red-brown matte paint, became known as Genre Luristan ware. Its motifs were geometric: ladders, pendant triangles filled with hatching or crosshatching. The vessel forms were practical -- wide-bodied jars with narrow necks, small bowls with incurved rims and loop handles, conical bowls, cups. Iron weapons and tools appeared alongside the ceramics, though classic Luristan bronzes, the famous animal-headed pins and finials that had long defined the region's archaeology, were surprisingly uncommon. This suggested that the people of Baba Jan were connected to but distinct from the bronze-working traditions for which Lorestan is famous.
+
+## Squatters in the Ruins
+
+After fire destroyed the Fort and Painted Chamber, the site was not immediately abandoned. The walls of the ruined Fort remained standing for decades, and during what archaeologists call Level II, squatters briefly reoccupied its eastern rooms. Small structures were built in the area where the Painted Chamber's courtyard had been. A new type of wheel-made pottery appeared, buff with golden mica inclusions, featuring deep bowls with thickened rims and jars with trefoil-mouth spouts. This ware closely resembles pottery from Tepe Nush-i Jan on the Malayer plain, pointing to connections across western Iran during the 7th century BC. By Level I, poorly preserved village houses covered the East Mound's summit and terraced down its eastern slope. The pottery of this final phase, with its proliferation of bowl forms, aligns with the Achaemenid period. The Genre Luristan tradition had vanished entirely. Whatever local culture had produced the Painted Chamber had been absorbed into the broader world of the Persian Empire.
+
+## Flight Context
+
+Located at 34.02N, 47.94E on the southern edge of the Delfan plain in Lorestan Province, Iran, approximately 10 km from Nurabad. The site consists of two mounds visible as low hills in the agricultural plain. Nearest major airport is Khorramabad (OICK). The Zagros Mountains frame the landscape to the west and south. Fly at 5,000-7,000 feet AGL to see the mounds against the flat plain. The Gamasiab River drainage is visible nearby.
+
+## Sources
+
+- [Bābā Jān Tepe - Wikipedia](https://en.wikipedia.org/?curid=43140201)
+  - Clare Goff excavated 1966-1969
+  - East Mound: 85m diameter, 9m high
+  - Central Mound: 120m diameter, 15m high
+  - Deep Sounding: 8x6m
+  - Painted Chamber: 10x12 meters, two columns, white walls with red paint
+  - Fort walls survived 3-4 meters
+  - Fort central room had four irregularly placed columns
+  - Site located ~10 km from Nurabad on Delfan plain
+- [BĀBĀ JĀN TEPE - Encyclopaedia Iranica](https://www.iranicaonline.org/articles/baba-jan-tepe/)
+  - Level V Chalcolithic material comparable to Godin Tepe (late 4th millennium BC)
+  - Level IV domestic architecture 2300-2100 BC and 1800-1500 BC confirmed
+  - Genre Luristan pottery description confirmed
+  - Tepe Nush-i Jan on Malayer plain confirmed as parallel pottery type
+
+## Review Notes
+
+**Reviewed:** 2026-03-01 · 12 facts verified · 0 corrections
+
+All key facts verified against Wikipedia and Encyclopaedia Iranica: Clare Goff 1966-1969 excavation, mound dimensions, Painted Chamber 10x12m with two columns, Genre Luristan pottery, Bronze Age stratigraphy. No errors found. No empathy/dignity issues.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 730*
+*Read time: 4 minutes*

@@ -117,5 +117,24 @@
     "_m/v/k/9/1/kara-strait-wp/map-shows-area-around.png",
     "_m/v/k/9/1/kara-strait-wp/locatie-karische-poort.png"
   ],
-  "updatedAt": "2026-04-01T08:22:54.676Z"
+  "updatedAt": "2026-04-01T08:22:54.676Z",
+  "narration": {
+    "files": [
+      "vk91-kara-strait-flight-context.mp3",
+      "vk91-kara-strait-intro.mp3",
+      "vk91-kara-strait-depths-and-temperatures.mp3",
+      "vk91-kara-strait-the-ice-calendar.mp3",
+      "vk91-kara-strait-gateway-of-the-northern-sea-route.mp3",
+      "vk91-kara-strait-between-two-worlds.mp3"
+    ],
+    "durations": {
+      "vk91-kara-strait-flight-context.mp3": 55.425375,
+      "vk91-kara-strait-intro.mp3": 51.2062916,
+      "vk91-kara-strait-depths-and-temperatures.mp3": 60.4505416,
+      "vk91-kara-strait-the-ice-calendar.mp3": 52.341,
+      "vk91-kara-strait-gateway-of-the-northern-sea-route.mp3": 64.6448333,
+      "vk91-kara-strait-between-two-worlds.mp3": 61.9135
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

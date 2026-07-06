@@ -421,5 +421,24 @@
     "_m/u/7/p/r/replot-bridge-wp/replot-bridge-snow.jpg",
     "_m/u/7/p/r/replot-bridge-wp/raippaluodon-sillalla.jpg"
   ],
-  "updatedAt": "2026-04-01T02:46:08.207Z"
+  "updatedAt": "2026-04-01T02:46:08.207Z",
+  "narration": {
+    "files": [
+      "u7pr-replot-bridge-flight-context.mp3",
+      "u7pr-replot-bridge-intro.mp3",
+      "u7pr-replot-bridge-steel-and-cables-over-the-gulf.mp3",
+      "u7pr-replot-bridge-island-life-before-the-span.mp3",
+      "u7pr-replot-bridge-a-presidential-ribbon.mp3",
+      "u7pr-replot-bridge-the-view-from-above.mp3"
+    ],
+    "durations": {
+      "u7pr-replot-bridge-flight-context.mp3": 42.7493333,
+      "u7pr-replot-bridge-intro.mp3": 40.31375,
+      "u7pr-replot-bridge-steel-and-cables-over-the-gulf.mp3": 57.0624166,
+      "u7pr-replot-bridge-island-life-before-the-span.mp3": 53.4314583,
+      "u7pr-replot-bridge-a-presidential-ribbon.mp3": 52.9563333,
+      "u7pr-replot-bridge-the-view-from-above.mp3": 59.54875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

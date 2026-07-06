@@ -542,5 +542,24 @@
     "_m/d/r/7/2/colt-paterson-wp/colt-paterson-no-5-texas-revol.jpg",
     "_m/d/r/7/2/colt-paterson-wp/colt-walker.jpg"
   ],
-  "updatedAt": "2026-03-30T14:14:48.221Z"
+  "updatedAt": "2026-03-30T14:14:48.221Z",
+  "narration": {
+    "files": [
+      "dr72-colt-paterson-flight-context.mp3",
+      "dr72-colt-paterson-intro.mp3",
+      "dr72-colt-paterson-the-factory-on-the-passaic.mp3",
+      "dr72-colt-paterson-ten-shots-on-horseback.mp3",
+      "dr72-colt-paterson-the-battle-that-proved-the-concept.mp3",
+      "dr72-colt-paterson-from-paterson-to-empire.mp3"
+    ],
+    "durations": {
+      "dr72-colt-paterson-flight-context.mp3": 41.1294583,
+      "dr72-colt-paterson-intro.mp3": 49.388375,
+      "dr72-colt-paterson-the-factory-on-the-passaic.mp3": 67.4902916,
+      "dr72-colt-paterson-ten-shots-on-horseback.mp3": 45.5514583,
+      "dr72-colt-paterson-the-battle-that-proved-the-concept.mp3": 58.126,
+      "dr72-colt-paterson-from-paterson-to-empire.mp3": 54.9139166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

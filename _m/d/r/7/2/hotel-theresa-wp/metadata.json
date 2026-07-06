@@ -275,5 +275,24 @@
     "_m/d/r/7/2/hotel-theresa-wp/harlem-hotel-theresa-485553101.jpg",
     "_m/d/r/7/2/hotel-theresa-wp/chicago-19950702-01-125th-st-h.jpg"
   ],
-  "updatedAt": "2026-03-30T14:32:34.183Z"
+  "updatedAt": "2026-03-30T14:32:34.183Z",
+  "narration": {
+    "files": [
+      "dr72-hotel-theresa-flight-context.mp3",
+      "dr72-hotel-theresa-intro.mp3",
+      "dr72-hotel-theresa-a-palace-on-125th-street.mp3",
+      "dr72-hotel-theresa-the-waldorf-of-harlem.mp3",
+      "dr72-hotel-theresa-cold-war-stage.mp3",
+      "dr72-hotel-theresa-decline-by-desegregation.mp3"
+    ],
+    "durations": {
+      "dr72-hotel-theresa-flight-context.mp3": 33.902,
+      "dr72-hotel-theresa-intro.mp3": 44.8264583,
+      "dr72-hotel-theresa-a-palace-on-125th-street.mp3": 57.5795416,
+      "dr72-hotel-theresa-the-waldorf-of-harlem.mp3": 57.1562083,
+      "dr72-hotel-theresa-cold-war-stage.mp3": 49.6129166,
+      "dr72-hotel-theresa-decline-by-desegregation.mp3": 74.8017916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

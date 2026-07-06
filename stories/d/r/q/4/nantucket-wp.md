@@ -1,0 +1,57 @@
+# Nantucket
+
+A crescent-shaped island thirty miles off Cape Cod that rose from a Wampanoag homeland to the world's whaling capital, burned in catastrophic fire, and reinvented itself as one of America's most exclusive destinations.
+
+**Location:** 41.2828, -70.0994
+
+**Categories:** island, whaling, maritime-history, historic-district, new-england
+
+## Introduction
+
+The Wampanoag called it something like natocke or nantican -- the meaning uncertain, though it may have translated to "far away island" or, less charitably, "sandy, sterile soil tempting no one." Herman Melville had a different view. "Two thirds of this terraqueous globe are the Nantucketer's," he wrote in Moby-Dick. "For the sea is his; he owns it, as Emperors own empires." Thirty miles south of Cape Cod, this crescent of sand and moor became the whaling capital of the world, saw its fortunes literally go up in flames, and then lay forgotten long enough for its 18th-century streets to survive intact into the modern era. The National Park Service calls Nantucket the "finest surviving architectural and environmental example of a late 18th- and early 19th-century New England seaport town."
+
+## Two Beaver Hats and a Deal
+
+European settlement began with a transaction that sounds like folklore but sits in the historical record. In 1659, Thomas Mayhew sold nine-tenths of his interest in the island to a group of investors led by Tristram Coffin "for the sum of thirty pounds, also two beaver hats, one for myself, and one for my wife." Nine original purchasers arrived, then took on partners, dividing the island into twenty-seven shares among thirty-one owners by 1667. They needed tradesmen -- weavers, millers, builders -- and offered half-shares to anyone who would live on Nantucket and practice their craft for at least three years. The first settlers tried farming and sheep, but overgrazing made the sandy soil even less productive. The islanders turned to the sea. Before long, the Wampanoag, who outnumbered the colonists well into the 1720s, made up half or more of whaling ship crews. Author Nathaniel Philbrick notes that "without the native population, the island would never have become a successful whaling port."
+
+## Empire Built on Whale Oil
+
+Whaling on Nantucket started small -- seven-meter boats launched from shore, towing killed whales onto the beach for processing. By the mid-18th century, Nantucket ships were hunting sperm whales across the Atlantic and Pacific. The island's fleet grew into the largest whaling armada in the world. The tragedy of the whaleship Essex, which was rammed and sunk by a sperm whale in 1820, inspired Melville's Moby-Dick; the novel's Captain Ahab and his first mate Starbuck are both Nantucketers. But the industry that built Nantucket also destroyed it. On July 13, 1846, the Great Fire -- fueled by whale oil and lumber stored throughout the waterfront -- devastated the main town, leaving hundreds homeless. By 1850, New Bedford had surpassed Nantucket as America's whaling center. The harbor silted up, blocking large ships. Railroads gave mainland ports the advantage of easy transshipment. The California Gold Rush of 1849 lured workers west. Confederate commerce raiders during the Civil War destroyed virtually all remaining whaling vessels.
+
+## The Little Grey Lady's Many Peoples
+
+Nantucket's nickname -- "The Little Grey Lady of the Sea" -- comes from how the island appears from the ocean when wrapped in fog. But behind that monochrome image lies a remarkably diverse history. The Wampanoag maintained their community through the colonial period, though a devastating 1763 epidemic of unknown origin killed 222 of their 358 remaining members while leaving colonists unaffected. Freed African Americans established the neighborhood of New Guinea on the southwest outskirts of town in the early 18th century, building shops, churches, a school, and a dance hall. The predominantly Quaker island became part of the Underground Railroad, sheltering African Americans escaping slavery. New Guinea was also home to Hawaiian Islanders who crewed whaling ships and Wampanoag who had married into the community. Azorean Portuguese sailors arrived on what they called a "bridge of whale ships," establishing a community that thrives in the region to this day.
+
+## Frozen in Time
+
+Nantucket's decline saved its architecture. The island depopulated so thoroughly after the Civil War that it remained under-developed and isolated until the mid-20th century. No one had the money or motivation to tear down the old buildings. Pre-Civil War structures stood untouched for decades, preserved by neglect. In 1966, the entire island was designated a National Historic Landmark District -- expanded in 1975 to encompass every structure on Nantucket. The Jethro Coffin House, built around 1686, is the oldest house on the island. Brant Point Light and Sankaty Head Light mark the harbor and eastern bluff. By the 1950s, developers recognized what isolation had preserved, and began restoring properties to attract wealthy visitors from the northeastern United States. Today the average single-family home sells for over $2 million.
+
+## Island of Arrivals and Departures
+
+Nantucket has always been defined by the challenge of getting there. From 1900 to 1918, the island was one of the few places in America that banned automobiles entirely. A narrow-gauge railroad connected the town to Surfside and Siasconset from 1881 to 1917. Today, year-round ferry service from the Steamship Authority and Hy-Line Cruises links the island to the mainland, while Nantucket Memorial Airport (IATA: ACK) becomes one of the busiest in Massachusetts during summer, handling waves of private aircraft alongside Cape Air's regional flights and seasonal jet service from JetBlue, American Airlines, Delta Connection, and United Express. The waters around the island have witnessed some of the most dramatic maritime disasters in history: the SS Andrea Doria collided with the MS Stockholm in fog south of Nantucket in 1956, killing 51 people. The island's famous residents range from astronomer Maria Mitchell to Rowland Hussey Macy, founder of the department store, to abolitionist Lucretia Coffin Mott.
+
+## Flight Context
+
+Nantucket Island sits at 41.2828N, 70.0994W, roughly 30 nm south of Cape Cod. The island is crescent-shaped and clearly visible from altitude, surrounded by Nantucket Sound to the north and the open Atlantic to the south. Nantucket Memorial Airport (KACK) is on the south side of the island. From above, look for the compact historic town at the western end of the harbor, the network of bike paths, and the distinctive lighthouses at Brant Point, Sankaty Head, and Great Point. Best viewed at 3,000-5,000 feet AGL. Cape Cod Gateway Airport (KHYA) is about 25 nm to the northwest on the mainland.
+
+## Sources
+
+- [Nantucket - Wikipedia](https://en.wikipedia.org/?curid=62254)
+- [Nantucket Historical Association](https://nha.org/research/nantucket-history/history-topics/indian-sickness-of-1763/)
+  - 1763 epidemic killed 222 of 358 Wampanoag confirmed
+  - Great Fire July 13 1846 confirmed
+  - Mayhew sold island to Coffin 1659 for thirty pounds plus two beaver hats confirmed
+  - Andrea Doria collision 1956 51 killed confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-27 · 14 facts verified · 0 corrections
+
+All facts verified. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

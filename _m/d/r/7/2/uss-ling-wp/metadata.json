@@ -169,5 +169,24 @@
     "_m/d/r/7/2/uss-ling-wp/80-g-207951-23726119754.jpg",
     "_m/d/r/7/2/uss-ling-wp/u-s-s-ling.jpg"
   ],
-  "updatedAt": "2026-03-30T15:20:51.688Z"
+  "updatedAt": "2026-03-30T15:20:51.688Z",
+  "narration": {
+    "files": [
+      "dr72-uss-ling-flight-context.mp3",
+      "dr72-uss-ling-intro.mp3",
+      "dr72-uss-ling-a-submarine-without-a-war.mp3",
+      "dr72-uss-ling-seventy-eight-river-street.mp3",
+      "dr72-uss-ling-storm-vandals-and-silt.mp3",
+      "dr72-uss-ling-trapped-in-the-hackensack.mp3"
+    ],
+    "durations": {
+      "dr72-uss-ling-flight-context.mp3": 43.3254583,
+      "dr72-uss-ling-intro.mp3": 56.58775,
+      "dr72-uss-ling-a-submarine-without-a-war.mp3": 51.348875,
+      "dr72-uss-ling-seventy-eight-river-street.mp3": 69.08325,
+      "dr72-uss-ling-storm-vandals-and-silt.mp3": 54.625,
+      "dr72-uss-ling-trapped-in-the-hackensack.mp3": 60.7524583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

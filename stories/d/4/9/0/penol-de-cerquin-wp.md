@@ -1,0 +1,59 @@
+# Penol de Cerquin
+
+A mountaintop Lenca fortress in southern Honduras where the indigenous leader Lempira made his last stand against the Spanish conquest -- and was killed during a parley by a hidden gunman.
+
+**Location:** 14.1806, -88.4925
+
+**Categories:** archaeological-sites, fortifications, indigenous-history, honduras
+
+## Introduction
+
+Hardened Spanish conquistadores who had stormed fortresses across Europe and the Americas looked up at the Penol de Cerquin and admitted they had never seen anything stronger. The mountaintop fortress in southern Honduras, with its sheer slopes and a ridgeline summit of roughly 4,000 square meters, was the stronghold of Lempira, the Lenca war leader who united the indigenous peoples of western Honduras in open revolt against Spanish rule in 1537. The Spanish would spend months trying to take it. In the end, they could not win by force. They won by treachery.
+
+## Sacred Ground Turned Stronghold
+
+Long before Lempira fortified its slopes, the Penol de Cerquin held meaning for the Lenca people. Petroglyphs carved into the rock -- small ovals, sub-circular shapes made by picketing, quadrangular forms and a spiral cut with unbroken lines -- suggest the mountain served as a sacred site well before the Spanish arrived. A polychrome ceramic fragment found at the summit resembles Late Classic Maya ceramics from the Copan valley, dating to roughly 600-900 AD, hinting at connections to the wider Mesoamerican world. Investigators in the 1940s climbed the Penol and found the remains of buildings, fortification walls, retaining walls, and what may have been a reservoir. Worked obsidian and metates -- grinding stones used for processing corn -- were scattered across the site. When Lempira chose this mountain as his base, he was not building from nothing. He was pressing a place already layered with history into urgent new service.
+
+## The Sieges Begin
+
+Pedro de Alvarado passed near the Penol in early 1536 with eighty Spanish soldiers and some 3,000 native Guatemalan auxiliaries, but he did not attempt an assault -- he had a beleaguered garrison to relieve elsewhere. Months later, Alvarado sent his lieutenant Juan de Chavez with 40 to 50 Spanish soldiers and up to 2,000 auxiliaries. Chavez launched a direct attack and was beaten back before he could even reach the mountain's base. He settled into a siege, but the Lenca had stripped the surrounding countryside of food, and his soldiers, short on supplies and far from home, grew mutinous. Chavez was forced to withdraw. The Spanish considered the region pacified afterward, but they were badly mistaken. Lempira had been quietly fortifying the Penol in secret, amassing warriors, weapons, and provisions for the open war he would declare in late 1537.
+
+## Lempira's Revolt
+
+When Lempira raised the banner of rebellion, the response was total. Indigenous families across the province -- men, women, and children -- abandoned their villages and gathered at the fortress. The Penol de Cerquin became more than a military stronghold; it was a symbol of resistance that resonated with indigenous peoples throughout Honduras and beyond. Governor Francisco de Montejo dispatched his lieutenant Alonso de Caceres with eighty Spanish soldiers and a large force of native auxiliaries from Mexico and Guatemala. Caceres arrived around November 1, 1537, and immediately began a siege. The mountain had eight approaches, and the Spanish blocked them all, but they could not advance. Five Spaniards died in the initial fighting. Caceres himself was wounded. Months of constant combat ground on through the winter, with the Spanish struggling to maintain supply lines through hostile territory. When the spring rains arrived in 1538, conditions worsened further.
+
+## The Parley
+
+Desperate to end the siege, Caceres called for a parley. Lempira came forward in full battle regalia -- feathered headdress, cotton armor -- and refused the demand to submit. At that moment, a hidden Spanish arquebusier shot Lempira through the head. It was the signal for a surprise assault. The defenders, shocked and demoralized by the sudden death of their leader, were quickly overrun. Many warriors surrendered. Others fled into the surrounding mountains. Elderly people, women, and children were captured by the Spanish. The fortress fell not because its walls were breached or its defenders starved, but because a commander violated the sanctity of negotiation to murder the man who held it all together. Lempira's name endures in Honduras -- it belongs to a department, a currency, and the memory of a people who fought with everything they had. Conquistador Francisco de Montejo himself described the fortress in a letter to the king of Spain, dated June 10, 1539. Even in the language of the conquerors, the Penol de Cerquin commanded respect.
+
+## Flight Context
+
+Located at 14.18N, 88.49W in the southeastern Lempira Department of Honduras, south of the town of Cerquin and beyond the Sierra de las Neblinas. The Penol is a prominent mountaintop feature visible from altitude. Best viewed from 3,000-4,000 feet AGL. The terrain is mountainous with limited flat land. Nearest airports: Toncontin International (MHTG) in Tegucigalpa, approximately 130 km east; Ramon Villeda Morales (MHLM) in San Pedro Sula is roughly 180 km north.
+
+## Sources
+
+- [Lempira (Lenca ruler) - Wikipedia](https://en.wikipedia.org/wiki/Lempira_(Lenca_ruler))
+  - Lempira was Lenca war leader confirmed
+  - 1537 revolt against Spanish confirmed
+  - Alonso de Cáceres besieged the fortress confirmed
+  - Lempira killed during parley by hidden arquebusier confirmed
+  - Letter from Francisco de Montejo to king of Spain June 10, 1539 confirmed
+  - Lempira's name on Honduran currency and department confirmed
+  - Pedro de Alvarado passed near Penol in early 1536 confirmed
+- [Peñol de Cerquín - Wikipedia](https://en.wikipedia.org/?curid=53451184)
+  - Summit of roughly 4,000 square meters confirmed
+  - Petroglyphs at site confirmed
+  - Pre-Hispanic sacred site confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 7 facts verified · 0 corrections
+
+Verified Lempira 1537 revolt, Alonso de Caceres siege, killed during parley by hidden arquebusier, Montejo letter June 10 1539, summit 4000 sq m, petroglyphs confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

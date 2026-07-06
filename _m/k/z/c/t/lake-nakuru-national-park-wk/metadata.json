@@ -680,5 +680,24 @@
     "_m/k/z/c/t/lake-nakuru-national-park-wk/flooded-lake-nakuru.jpg",
     "_m/k/z/c/t/lake-nakuru-national-park-wk/iss030-e-297563-view-of-kenya.jpg"
   ],
-  "updatedAt": "2026-03-30T21:20:30.380Z"
+  "updatedAt": "2026-03-30T21:20:30.380Z",
+  "narration": {
+    "files": [
+      "kzct-lake-nakuru-national-park-flight-context.mp3",
+      "kzct-lake-nakuru-national-park-intro.mp3",
+      "kzct-lake-nakuru-national-park-from-bird-sanctuary-to-fortress.mp3",
+      "kzct-lake-nakuru-national-park-the-alkaline-world.mp3",
+      "kzct-lake-nakuru-national-park-a-census-of-the-visible.mp3",
+      "kzct-lake-nakuru-national-park-the-rift-valley-corridor.mp3"
+    ],
+    "durations": {
+      "kzct-lake-nakuru-national-park-flight-context.mp3": 48.9846666,
+      "kzct-lake-nakuru-national-park-intro.mp3": 40.819125,
+      "kzct-lake-nakuru-national-park-from-bird-sanctuary-to-fortress.mp3": 63.8905416,
+      "kzct-lake-nakuru-national-park-the-alkaline-world.mp3": 63.4465,
+      "kzct-lake-nakuru-national-park-a-census-of-the-visible.mp3": 77.1205416,
+      "kzct-lake-nakuru-national-park-the-rift-valley-corridor.mp3": 70.7940416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

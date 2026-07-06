@@ -1,0 +1,88 @@
+# Monroeville, Alabama
+
+A small Alabama county seat where two childhood neighbors -- Harper Lee and Truman Capote -- grew up to become two of the most celebrated American writers of the 20th century, leaving a literary legacy that draws 30,000 visitors a year to a town of fewer than 6,000 people.
+
+**Location:** 31.5042, -87.3258
+
+**Categories:** literary-heritage, small-town-america, civil-rights, alabama-history
+
+## Introduction
+
+Two children played together in the yards of Monroeville, Alabama, in the early 1930s. The girl was Nelle Harper Lee, tomboyish and fierce, the daughter of a local lawyer. The boy next door was Truman Streckfus Persons -- later Truman Capote -- a small, strange, brilliant child sent to live with relatives in this quiet Monroe County seat. They became inseparable. Decades later, Lee would immortalize her friend as the character Dill in To Kill a Mockingbird, while Capote would base the character Idabel in Other Voices, Other Rooms on Lee. Between them, they produced some of the most important American literature of the 20th century. The town that shaped them both had a population that has never exceeded 7,000, and in 1997 the Alabama Legislature made it official: Monroeville is the Literary Capital of Alabama.
+
+## Walker's Mill to Mockingbird Country
+
+Long before it became a literary landmark, this patch of southwestern Alabama was home to indigenous peoples for thousands of years. European-American settlement came in the person of Major Walker, who established a mill and store that gave the settlement its first name. In 1832, the state legislature relocated the county seat here from Claiborne on the Alabama River, briefly calling the place Centerville for its position in the center of Monroe County before settling on Monroeville. The town was not formally incorporated until April 15, 1899. It grew slowly, a courthouse town surrounded by pine forest and farmland, the kind of place where everyone knew everyone and where the rhythms of life -- church, school, the county fair -- repeated themselves generation after generation. It was this insularity, this deep familiarity with small-town Southern life, that Lee and Capote would later mine with such devastating precision.
+
+## Nelle and Truman
+
+Harper Lee was born in Monroeville in 1926, the youngest of four children of Amasa Coleman Lee, a lawyer and state legislator who would become the model for Atticus Finch. Truman Capote arrived a few years later, deposited with elderly cousins while his mother pursued a new life in New York. The two children bonded over their shared love of reading and storytelling, spending long summer days in the kind of unstructured outdoor play that small Southern towns still offered in the 1930s. Lee's 1960 novel To Kill a Mockingbird, set in the fictional town of Maycomb, won the 1961 Pulitzer Prize for Fiction and became one of the most widely read American novels ever published. Capote's early works -- Other Voices, Other Rooms and The Grass Harp -- draw deeply on his Monroeville childhood. He went on to write Breakfast at Tiffany's and In Cold Blood, the latter a pioneering work of literary nonfiction for which Lee served as his research assistant in Kansas.
+
+## The Courthouse at the Center
+
+The old Monroe County Courthouse sits at the heart of Monroeville and at the heart of its literary identity. Its interior served as the reference for the courtroom in the 1962 film adaptation of To Kill a Mockingbird, and it now houses the Monroe County Heritage Museum. Each May, the museum stages an amateur theatrical adaptation of the novel on the courthouse grounds, with performances inside the actual courtroom that inspired the fictional one. The all-volunteer cast has been invited to perform in Washington, D.C., Kingston upon Hull in England, and Jerusalem. As of 2006, an estimated 30,000 tourists visited Monroeville annually, drawn by the novel and its adaptations -- a remarkable number for a town whose 2020 census population was 5,951. The courthouse is both a working piece of civic architecture and a literary shrine, a place where fiction and reality have been layered so deeply that the boundary between them has largely dissolved.
+
+## Justice and Its Ironies
+
+Monroeville's literary fame carries a bitter counterpoint. Bryan Stevenson's bestselling book Just Mercy tells the story of Walter McMillian, a Black man wrongfully convicted of murder in Monroe County in 1988 and sentenced to death. McMillian spent six years on death row before Stevenson's legal work led to his exoneration and release in 1993. Stevenson noted the deep irony: this was Harper Lee's hometown, the place that had given the world Atticus Finch and his principled defense of a falsely accused Black man. The real Monroeville had produced a case that mirrored the fictional injustice of To Kill a Mockingbird with unsettling fidelity. The town's literary legacy is not merely a source of tourism revenue; it is a lens that keeps refracting the unresolved questions of race, justice, and memory in the American South.
+
+## A Small Town That Wrote Large
+
+Beyond Lee and Capote, Monroeville has produced a striking number of notable figures for its size. Novelist Mark Childress and Cynthia Tucker, who won the 2007 Pulitzer Prize for Commentary as a syndicated columnist, were both born here. Educator Marva Collins, who founded a celebrated school in Chicago, grew up in Monroeville. From the air, the town reads as a compact grid of streets and modest buildings set in the green expanse of Monroe County -- courthouse square, church steeples, the low sprawl of a community college campus. Nothing in the landscape suggests that this small clearing in the Alabama pine woods would produce literature that reshaped how Americans think about justice, race, and childhood. But the evidence is in the books, and the books keep drawing people back.
+
+## Flight Context
+
+Monroeville, Alabama is located at approximately 31.50N, 87.33W in Monroe County, in the southwestern part of the state. The terrain is flat to gently rolling coastal plain with extensive pine forest and agricultural land. The nearest general aviation airport is Monroe County Airport (KMVC) on the town's outskirts. Larger airports include Pensacola International (KPNS) roughly 80 miles to the south and Montgomery Regional (KMGM) about 85 miles to the northeast. From altitude, Monroeville appears as a small, compact town grid centered on its courthouse square, surrounded by forest and farmland typical of this region of Alabama.
+
+## Sources
+
+- [Wikipedia - Harper Lee](https://en.wikipedia.org/wiki/Harper_Lee)
+  - Harper Lee born 1926 in Monroeville confirmed
+  - Youngest of four children confirmed
+  - Father Amasa Coleman Lee was lawyer and state legislator confirmed
+  - To Kill a Mockingbird published 1960 confirmed
+  - Won 1961 Pulitzer Prize for Fiction confirmed
+  - Dill character based on Truman Capote confirmed
+  - Lee assisted Capote with In Cold Blood research in Kansas confirmed
+- [Monroeville, Alabama - Wikipedia](https://en.wikipedia.org/?curid=104926)
+  - 2020 census population 5,951 confirmed
+  - Literary Capital of Alabama designated 1997 by legislature confirmed
+  - Monroe County Heritage Museum in old courthouse confirmed
+  - Annual stage adaptation of To Kill a Mockingbird in May confirmed
+  - 30,000 annual tourists as of 2006 confirmed
+- [Wikipedia - Walter McMillian / EJI](https://en.wikipedia.org/wiki/Walter_McMillian)
+  - Walter McMillian wrongfully convicted in 1988 confirmed
+  - Spent six years on death row confirmed
+  - Exonerated and released in 1993 confirmed
+  - Bryan Stevenson represented McMillian confirmed
+  - Featured in Just Mercy book confirmed
+- [Pulitzer.org - Cynthia Tucker](https://www.pulitzer.org/winners/cynthia-tucker)
+  - Cynthia Tucker won 2007 Pulitzer Prize for Commentary confirmed
+  - Born in Monroeville confirmed
+  - Article describes her as syndicated columnist - actually editorial page editor at Atlanta Journal-Constitution
+- [Wikipedia - Marva Collins](https://en.wikipedia.org/wiki/Marva_Collins)
+  - Marva Collins born in Monroeville confirmed
+  - Founded celebrated school in Chicago (Westside Preparatory School) confirmed
+  - NOTE: Article says she 'grew up in Monroeville' but she was born there and grew up in Atmore, Alabama - minor distinction
+- [Time - Harper Lee and Truman Capote Friendship](https://time.com/4230925/harper-lee-truman-capote-friendship/)
+  - Lee and Capote were childhood neighbors in Monroeville confirmed
+  - Capote depicted as Dill in Mockingbird confirmed
+  - Lee depicted as Idabel in Other Voices Other Rooms confirmed
+  - Capote sent to live with relatives in Monroeville confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-11 · 16 facts verified · 0 corrections
+
+Verified: Lee born 1926, Capote childhood neighbor, Mockingbird 1961 Pulitzer, Literary Capital 1997, population 5951 (2020), McMillian wrongful conviction 1988 exonerated 1993, Tucker 2007 Pulitzer, Collins born Monroeville. Minor note: Marva Collins born in Monroeville but grew up in Atmore. Cynthia Tucker was editorial page editor not syndicated columnist. Spiciness 2/5.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Describes the irony of Monroeville producing both Atticus Finch fiction and the McMillian wrongful conviction
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

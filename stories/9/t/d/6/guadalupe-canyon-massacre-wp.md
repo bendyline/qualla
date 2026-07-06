@@ -1,0 +1,66 @@
+# Guadalupe Canyon Massacre
+
+A dawn ambush in 1881 killed Old Man Clanton and four others in this remote smugglers' pass, setting the stage for the Gunfight at the O.K. Corral.
+
+**Location:** 31.3394, -109.0924
+
+**Categories:** Conflicts in 1881, 1881 murders in the United States, 1881 in Arizona Territory, Massacres in 1881, August 1881, 19th-century mass murders in the United States, Arizona Territory, New Mexico Bootheel, Massacres in the United States, Murder in Arizona
+
+## Introduction
+
+Newman Haynes Clanton was cooking breakfast when the bullets found him. He fell forward into the cookfire on that August morning in 1881, one of five Cowboys who would die before the sun cleared the Peloncillo Mountains. The attackers waited until dawn to strike the camp in Guadalupe Canyon, a rocky passage straddling the Arizona-New Mexico line that had served smugglers since the Spanish colonial era. Two men survived to tell the tale, and their account pointed fingers south of the border. But in the lawless country around Tombstone, rumors spread that the Earp brothers had finally settled their score with the Clanton clan. Two months later, the Gunfight at the O.K. Corral would write the Clantons into American legend.
+
+## The Smugglers' Highway
+
+Guadalupe Canyon cuts through the southern Peloncillo Mountains where Arizona meets New Mexico, connecting the Animas Valley to the San Bernardino Valley and, beyond that, Mexico. During the American Old West, this rocky passage served as a key route for smugglers moving contraband across the international boundary. Silver flowed north, cattle moved south, and the law held little sway in either direction. Old Man Clanton operated a ranch in the Animas Valley that never registered a brand, despite running one of the most profitable cattle operations in the region. The ranch served as a way station for the Cowboys, the loose confederation of outlaws who controlled much of Cochise County's rustling and smuggling trade. Everyone suspected what passed through Guadalupe Canyon in the dark hours.
+
+## Blood in Skeleton Canyon
+
+The massacre had a prelude. In July 1881, Mexican smugglers carrying silver toward Tucson or Tombstone were ambushed and killed in Skeleton Canyon, not far from Guadalupe. The attackers were never identified, but Mexicans across the border blamed the Cowboys. Captain Alfredo Carrillo of the Rurales had survived a similar massacre in Skeleton Canyon two years earlier, and the border country simmered with demands for revenge. When Mexican Commandant Felipe Neri dispatched troops to patrol the frontier in August, they were hunting more than smugglers. They were hunting Americans.
+
+## The Dawn Attack
+
+The Mexicans found Old Man Clanton and six others camped in Guadalupe Canyon with a herd of cattle on the night of August 12, 1881. They waited for first light. Crane and Gray died in their bedrolls or while dressing. Clanton died at the cookfire. Only Will Lang managed to fight back before he fell. Harry Ernshaw, a milk farmer, took a bullet graze across his nose but survived. Billy Byers played dead until the attackers withdrew. When Ernshaw stumbled to John Pleasant Gray's ranch and a rescue party returned to the canyon, they found the dead men stripped naked. Byers wandered up five miles away, dazed but alive. Snow was buried where he fell, the desert heat already claiming his body. The others were hauled by wagon to a grave ten miles east of Cloverdale.
+
+## Rumors of the Earps
+
+The survivors insisted their attackers were Mexican, and contemporary evidence supports them. Ike and Phin Clanton later sent a photograph of their father to the Byers family with an inscription naming Mexicans as the killers. But in Tombstone, where the Clantons had powerful enemies, whispers blamed Virgil, Morgan, and Wyatt Earp. The first recorded accusation came from attorney William R. McLaury in a letter dated November 19, 1881, just weeks after the Earps and Doc Holliday killed his brothers Frank and Tom at the O.K. Corral. McLaury was consumed by grief and convinced of Earp treachery. His assertion entered the historical record, repeated in publications ever since, though no evidence beyond his word supports it. The truth lies buried in Guadalupe Canyon with the men who died there.
+
+## The Canyon Today
+
+In 1882, Ike and Phin Clanton returned to exhume their father's body. They carried him to Tombstone and buried him in Boot Hill beside their brother Billy, who had died two months after the massacre in the most famous gunfight in American history. The canyon that witnessed Old Man Clanton's death remains a remote and lonely place, the smuggling trails now watched by Border Patrol rather than Mexican Rurales. The Peloncillo Mountains still rise rugged and beautiful above the desert floor, indifferent to the violence that marked this pass. From the air, Guadalupe Canyon appears as a crease in the mountains, a natural route through terrain that otherwise forbids passage, its strategic value as obvious today as it was to the smugglers and soldiers of 1881.
+
+## Flight Context
+
+Guadalupe Canyon is located at 31.339N, 109.092W in the southern Peloncillo Mountains, straddling the Arizona-New Mexico border. The canyon is visible from altitude as a distinct cut through the mountain range, connecting the Animas Valley (east) with the San Bernardino Valley (west). Nearest airports are Bisbee Douglas International (KDUG), approximately 40 nm west, and Lordsburg Municipal (KLSB), approximately 50 nm northeast. Best viewed at 5,000-8,000 ft AGL. The terrain is rugged mountain and high desert; maintain situational awareness near the international border. The massacre site lies in extremely remote territory with no nearby development.
+
+## Sources
+
+- [Guadalupe Canyon massacre - Wikipedia](https://en.wikipedia.org/?curid=7079752)
+  - Five men killed in dawn ambush confirmed
+  - Old Man Clanton among the dead confirmed
+  - Survivors Harry Ernshaw and Billy Byers confirmed
+  - McLaury letter dated November 19, 1881 confirmed
+  - Ike and Phin Clanton photograph to Byers family confirmed
+  - Reburial at Boot Hill confirmed
+  - DATE CORRECTION: Article says August 12 but sources confirm August 13, 1881
+  - NAME CORRECTION: Article says Will Lang but sources confirm Billy Lang (William H. Lang)
+- [Wikipedia - Newman Haynes Clanton](https://en.wikipedia.org/wiki/Newman_Haynes_Clanton)
+  - Clanton operated ranch in Animas Valley confirmed
+  - Cowboys as loose outlaw confederation confirmed
+- [True West Magazine - Ambush at Guadalupe Pass](https://truewestmagazine.com/article/ambush-at-guadalupe-pass/)
+  - Mexican forces or Rurales as likely attackers confirmed
+  - Skeleton Canyon prelude massacre confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-05 · 12 facts verified · 3 corrections
+
+Date should be Aug 13 not Aug 12; Will Lang should be Billy Lang; Snow killing order slightly misstated. McLaury letter, Clanton reburial, Mexican attackers all verified.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 820*
+*Read time: 4 minutes*

@@ -817,5 +817,24 @@
     "_m/u/8/4/1/sinaia-wk/forest-sinaia.jpg",
     "_m/u/8/4/1/sinaia-wk/sinaia-labw-staatsarchiv-freib.jpg"
   ],
-  "updatedAt": "2026-03-31T10:13:26.149Z"
+  "updatedAt": "2026-03-31T10:13:26.149Z",
+  "narration": {
+    "files": [
+      "u841-sinaia-flight-context.mp3",
+      "u841-sinaia-intro.mp3",
+      "u841-sinaia-a-kings-summer-capital.mp3",
+      "u841-sinaia-the-monastery-and-the-mountain.mp3",
+      "u841-sinaia-gateway-to-the-carpathians.mp3",
+      "u841-sinaia-beyond-the-castle-walls.mp3"
+    ],
+    "durations": {
+      "u841-sinaia-flight-context.mp3": 49.739875,
+      "u841-sinaia-intro.mp3": 48.8834583,
+      "u841-sinaia-a-kings-summer-capital.mp3": 56.3626666,
+      "u841-sinaia-the-monastery-and-the-mountain.mp3": 54.3907083,
+      "u841-sinaia-gateway-to-the-carpathians.mp3": 48.0969583,
+      "u841-sinaia-beyond-the-castle-walls.mp3": 62.975
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

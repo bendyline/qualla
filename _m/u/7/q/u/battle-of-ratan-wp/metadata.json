@@ -125,5 +125,26 @@
   "galleryPaths": [
     "_m/u/7/q/e/battle-of-savar-wp/memorial-battle-savar.jpg",
     "_m/u/6/2/8/gothenburg-wp/blank-relief-location.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u7qu-battle-of-ratan-flight-context.mp3",
+      "u7qu-battle-of-ratan-intro.mp3",
+      "u7qu-battle-of-ratan-a-kingdom-losing-its-eastern-half.mp3",
+      "u7qu-battle-of-ratan-the-fleet-sails-north.mp3",
+      "u7qu-battle-of-ratan-blood-at-s-var.mp3",
+      "u7qu-battle-of-ratan-one-hundred-cannons-at-the-waters-edge.mp3",
+      "u7qu-battle-of-ratan-the-border-that-saved-a-fortune.mp3"
+    ],
+    "durations": {
+      "u7qu-battle-of-ratan-flight-context.mp3": 43.9618333,
+      "u7qu-battle-of-ratan-intro.mp3": 37.0327083,
+      "u7qu-battle-of-ratan-a-kingdom-losing-its-eastern-half.mp3": 62.5014583,
+      "u7qu-battle-of-ratan-the-fleet-sails-north.mp3": 52.1762083,
+      "u7qu-battle-of-ratan-blood-at-s-var.mp3": 53.7805833,
+      "u7qu-battle-of-ratan-one-hundred-cannons-at-the-waters-edge.mp3": 65.8651666,
+      "u7qu-battle-of-ratan-the-border-that-saved-a-fortune.mp3": 60.6480416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

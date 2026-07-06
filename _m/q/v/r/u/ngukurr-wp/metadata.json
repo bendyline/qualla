@@ -60,5 +60,24 @@
     "sourceGeohash4": "qvru"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qvru-ngukurr-flight-context.mp3",
+      "qvru-ngukurr-intro.mp3",
+      "qvru-ngukurr-the-weight-of-history.mp3",
+      "qvru-ngukurr-a-community-of-languages.mp3",
+      "qvru-ngukurr-artists-musicians-activists.mp3",
+      "qvru-ngukurr-learning-two-ways.mp3"
+    ],
+    "durations": {
+      "qvru-ngukurr-flight-context.mp3": 57.9236666,
+      "qvru-ngukurr-intro.mp3": 44.0955416,
+      "qvru-ngukurr-the-weight-of-history.mp3": 64.7847083,
+      "qvru-ngukurr-a-community-of-languages.mp3": 71.083,
+      "qvru-ngukurr-artists-musicians-activists.mp3": 96.4440416,
+      "qvru-ngukurr-learning-two-ways.mp3": 80.714
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

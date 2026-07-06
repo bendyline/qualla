@@ -931,5 +931,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "s28j-yaound-flight-context.mp3",
+      "s28j-yaound-intro.mp3",
+      "s28j-yaound-an-ivory-post-becomes-a-capital.mp3",
+      "s28j-yaound-seven-hills-a-thousand-quartiers.mp3",
+      "s28j-yaound-the-yellow-tide.mp3",
+      "s28j-yaound-markets-and-monuments.mp3",
+      "s28j-yaound-a-city-on-its-own-terms.mp3"
+    ],
+    "durations": {
+      "s28j-yaound-flight-context.mp3": 43.70725,
+      "s28j-yaound-intro.mp3": 43.7250833,
+      "s28j-yaound-an-ivory-post-becomes-a-capital.mp3": 60.92,
+      "s28j-yaound-seven-hills-a-thousand-quartiers.mp3": 72.3449166,
+      "s28j-yaound-the-yellow-tide.mp3": 67.587125,
+      "s28j-yaound-markets-and-monuments.mp3": 71.0334583,
+      "s28j-yaound-a-city-on-its-own-terms.mp3": 56.549
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

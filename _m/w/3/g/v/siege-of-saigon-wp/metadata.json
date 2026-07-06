@@ -146,5 +146,26 @@
   "galleryPaths": [
     "_m/w/3/g/v/siege-of-saigon-wp/french_capture_of_saig.jpg",
     "_m/w/3/g/v/siege-of-saigon-wp/personnalites-francais.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w3gv-siege-of-saigon-flight-context.mp3",
+      "w3gv-siege-of-saigon-intro.mp3",
+      "w3gv-siege-of-saigon-a-war-born-from-missionary-grievance.mp3",
+      "w3gv-siege-of-saigon-five-days-upriver.mp3",
+      "w3gv-siege-of-saigon-a-victory-too-big-to-hold.mp3",
+      "w3gv-siege-of-saigon-wars-on-three-continents.mp3",
+      "w3gv-siege-of-saigon-seventy-ships-and-the-battle-of-ky-hoa.mp3"
+    ],
+    "durations": {
+      "w3gv-siege-of-saigon-flight-context.mp3": 53.0400416,
+      "w3gv-siege-of-saigon-intro.mp3": 45.8274166,
+      "w3gv-siege-of-saigon-a-war-born-from-missionary-grievance.mp3": 57.752,
+      "w3gv-siege-of-saigon-five-days-upriver.mp3": 73.4561666,
+      "w3gv-siege-of-saigon-a-victory-too-big-to-hold.mp3": 65.8087083,
+      "w3gv-siege-of-saigon-wars-on-three-continents.mp3": 75.5840416,
+      "w3gv-siege-of-saigon-seventy-ships-and-the-battle-of-ky-hoa.mp3": 73.9778333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

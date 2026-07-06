@@ -1,0 +1,65 @@
+# Robison Family Murders
+
+In the summer of 1968, a wealthy Detroit family of six was shot dead in their secluded Lake Michigan vacation cottage near Good Hart, Michigan -- their bodies undiscovered for nearly a month, their killer never convicted.
+
+**Location:** 45.5672, -85.1133
+
+**Categories:** true-crime, unsolved-mystery, michigan-history, cold-case, lake-michigan
+
+## Introduction
+
+For twenty-seven days, the curtains stayed drawn at Summerset cottage. The heating ran. The door stayed locked. Inside, six members of the Robison family lay where they had fallen on June 25, 1968, shot with two different calibers of ammunition, two of them also bludgeoned with a claw hammer. It was not until July 22 that a neighbor's complaint about a terrible smell brought the caretaker to pry open the door of the secluded log-and-stone cottage near Good Hart, Michigan. What he found inside became the worst mass murder in Michigan history -- and a case that, officially, remains open to this day.
+
+## The Family at Summerset
+
+Richard Carl Robison was a self-made man from Wayne County who had built a small advertising empire. His firm, R.C. Robison & Associates, ran campaigns for businesses across the Detroit region. He published Impresario magazine, a cultural journal covering arts, theater, and music, from a one-story office in Southfield. The family was markedly wealthy -- they owned a private Learjet and lived in the affluent suburb of Lathrup Village. Richard and his wife Shirley, who had met in college in the mid-1940s and married in 1947, had four children: Richard Jr., a student at Eastern Michigan University; Gary, at Southfield-Lathrup High School; Randall, in middle school; and eight-year-old Susan, described by those who knew her as 'pony mad.' The family neither drank, smoked, nor gambled. They attended church regularly. On June 16, 1968, they drove north in two cars to begin a three-week vacation at Summerset, the five-room cottage they had purchased in the 1950s for $15,000, set at the end of a long private driveway in heavy woods along a hundred-foot bluff above the Lake Michigan shoreline.
+
+## The Morning Call
+
+The trouble started with a phone call. On the morning of June 25, Richard Sr. rang his personal banker at the National Bank of Detroit, Frank Joity, to discuss an expected $200,000 deposit. The money was not there. Worse, Joity informed him of financial irregularities in his business accounts over recent weeks -- the balance had dwindled to just $15,000. Furious, Robison called his receptionist and demanded to speak with Joseph Scolaro III, the only employee with direct access to company accounts. The last confirmed sighting of any Robison alive came at approximately 4:30 that afternoon, when two workers finished trimming trees on the Summerset grounds and left the property. Sometime after, shots were fired through a rear window of the cottage at Richard Sr. as he sat in a chair. All six family members were killed. Susan and her father were also beaten with a claw hammer found at the scene. Fifteen spent shell casings -- eleven .22-caliber and four .25-caliber -- littered the floor.
+
+## Twenty-Seven Days of Silence
+
+The killer had been methodical. Investigators determined a single person committed the murders, based on a single bloody footprint left on the floor. After the killings, this individual closed every curtain in the cottage, attempted to cover the bullet holes in the rear window with a piece of cardboard, turned on the heating, and locked the door before leaving. The Robisons were not expected back from a planned side trip to Kentucky and Florida until at least July 15 -- Richard Sr. had told acquaintances as much just two days before the murders, after attending to a friend's son killed in a motorcycle accident near Cross Village. The bodies were not discovered until July 22, when Chauncey Bliss, the owner and caretaker of the resort, responded to a neighbor's complaint about a pungent odor she had noticed while playing cards on her own property nearby. Bliss pried open the cottage molding to gain entry. He immediately called the authorities.
+
+## A Suspect Who Never Stood Trial
+
+The Michigan State Police and Emmet County Sheriff's Office launched an exhaustive investigation. Suspicion centered on Joseph Scolaro III, the Robison employee with access to company finances -- the man Richard Sr. had desperately tried to reach on the morning of the murders. Scolaro was identified as the sole and prime suspect. He was never charged. On March 9, 1973, Scolaro was found dead of suicide. His note reportedly stated: 'I did not kill the Robisons.' The case file remains officially open. Over the decades, journalists and investigators have revisited the evidence, and the murders have been described as 'considered solved by many' despite the absence of a conviction. The secluded shoreline near Good Hart remains quiet. Summerset cottage is gone. But the questions raised on that June afternoon have never been fully answered.
+
+## A Place That Remembers
+
+Good Hart sits in Readmond Township, Emmet County, along one of the most beautiful and remote stretches of Michigan's Lake Michigan coast. The area draws summer visitors to its wooded bluffs, private lanes, and wide views of the water. It is the kind of place people come to disappear for a while -- to shed the city and settle into the rhythms of a northern Michigan summer. In 1968, that very seclusion became the thing that allowed six bodies to remain undiscovered for nearly a month. The case resurfaced in public memory at its twentieth, fortieth, and fiftieth anniversaries, each time producing new newspaper features and renewed calls for closure. A 2009 book and a documentary titled 'Unthinkable' brought the story to wider audiences. For the communities of northern Michigan, the Good Hart murders remain a wound that never fully closed -- a reminder that even the most idyllic landscapes carry their darkest chapters.
+
+## Flight Context
+
+Located at 45.57N, 85.11W along the Lake Michigan shoreline in Emmet County, Michigan. Good Hart is a tiny, secluded resort community in Readmond Township, situated along the 'Tunnel of Trees' scenic drive (M-119) between Harbor Springs and Cross Village. The terrain is heavily wooded with high bluffs along the lakeshore. No significant structures mark the murder site today. Nearest airports: Pellston Regional Airport (KPLN) approximately 12nm east-northeast, Harbor Springs Airport (KMGN) approximately 8nm south. Recommended viewing altitude: 2,000-3,000 feet to appreciate the isolated, wooded shoreline character. The Lake Michigan coast runs roughly north-south here. Cross Village is visible to the north.
+
+## Sources
+
+- [Robison family murders - Wikipedia](https://en.wikipedia.org/?curid=23883340)
+  - Murder date June 25, 1968 confirmed
+  - Bodies discovered July 22 (27 days) confirmed
+  - Six family members killed confirmed
+  - Fifteen shell casings (eleven .22-caliber, four .25-caliber) confirmed
+  - Richard and Susan bludgeoned with claw hammer confirmed
+  - Richard Sr. telephoned National Bank of Detroit banker Frank Joity about expected $200,000 deposit; balance showed $15,000 confirmed
+  - Joseph Scolaro III identified as sole prime suspect, never charged confirmed
+  - Scolaro's suicide note stated 'I did not kill the Robisons' confirmed
+  - Note on suicide date: story says March 9, 1973; one source says March 8, 1973 — minor discrepancy, likely filing date vs. event date
+- [Northern Express - The Good Hart Murders: Case Closed](https://www.northernexpress.com/news/feature/case-closed/)
+  - Case considered 'solved by many' despite no conviction confirmed
+  - Case remains officially open confirmed
+  - Emmet County Sheriff's Office and Michigan State Police investigated confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-27 · 10 facts verified · 0 corrections
+
+Verified murder date, body discovery timeline (27 days), victim count, shell casing details (11x .22, 4x .25), Scolaro as prime suspect, banker/bank name, deposit amounts, suicide note text. Scolaro suicide date shows March 8 in some sources vs. March 9 in story -- minor discrepancy (possible date-line difference), not corrected. No significant factual errors.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

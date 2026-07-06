@@ -1,0 +1,60 @@
+# 1998 Killing of Iranian Diplomats in Afghanistan
+
+When Taliban forces overran Mazar-i-Sharif in August 1998, eleven Iranians at the consulate were killed, bringing Iran and Afghanistan to the brink of open war.
+
+**Location:** 36.7000, 67.1170
+
+**Categories:** diplomatic-incidents, afghan-civil-war, iran-afghanistan-relations, conflict, historical-events
+
+## Introduction
+
+Eleven men walked into a consulate and never walked out. On August 8, 1998, as Taliban fighters swept through the streets of Mazar-i-Sharif in one of the most decisive battles of the Afghan civil war, they stormed the Iranian consulate in the city. Eight diplomats, two other officials, and Mahmoud Saremi, a correspondent for Iran's state news agency IRNA, were killed. The attack was not a random act of battlefield chaos. It was a deliberate strike at Iran's presence in a city that had served as a lifeline for the Northern Alliance, the coalition Iran had backed against the Taliban for years.
+
+## A City Caught Between Powers
+
+Mazar-i-Sharif was no ordinary Afghan city. Sitting in the northern plains of Balkh Province, it had become a headquarters of the Northern Alliance, the multi-ethnic coalition resisting Taliban control. Iran, a Shia-majority nation sharing a long border with western Afghanistan, had thrown its support behind the Alliance. The city was a proxy battleground where regional rivalries played out through local commanders. Between May and July 1997, Northern Alliance general Abdul Malik Pahlawan had invited Taliban forces into the city, then turned on them. The resulting slaughter of up to 3,000 Taliban prisoners set the stage for a savage retaliation. When the Taliban finally captured Mazar-i-Sharif on August 8, 1998, they came with scores to settle.
+
+## The Attack on the Consulate
+
+As Taliban forces fanned out through the city, targeting Hazara and Uzbek communities accused of complicity in the 1997 killings, they turned their attention to the Iranian consulate. The eleven Iranians inside, including diplomats Nasser Rigi, Noorollah Norouzi, Karim Heydarian, and journalist Mahmoud Saremi, were attacked and subsequently disappeared. For weeks, unofficial reports from the city suggested they were dead, but the Taliban claimed ignorance, attributing the killings to rogue fighters acting without orders. Eventually the deaths of all eleven were confirmed. Taliban spokesmen continued to deny official responsibility, a position that satisfied no one. Iran's Ministry of Foreign Affairs would later describe the matter as still under pursuit, the perpetrators and masterminds unidentified decades later.
+
+## On the Brink of War
+
+The killings ignited fury across Iran. Public outrage was immediate and intense. More than 70,000 Iranian troops deployed to the Afghan border, and military strikes seemed imminent. For weeks, the prospect of a direct Iran-Taliban war dominated regional headlines. The two sides represented fundamentally opposed visions of Islam: Iran's Shia theocracy and the Taliban's hardline Sunni emirate. United Nations mediation eventually defused the crisis. Hostages held elsewhere were released, and in February 1999, the Taliban and Iran held direct talks. But the talks changed nothing. Relations between the two remained hostile, and the episode confirmed Iran's commitment to supporting the Northern Alliance as its primary instrument against the Taliban.
+
+## The Journalist Remembered
+
+Among the dead, one name carries particular weight in Iran. Mahmoud Saremi, the IRNA correspondent, was a journalist doing his job in a war zone. His death transformed August 8 into Iran's National Journalists' Day, observed every year as a reminder of the risks journalists face in conflict. In 2015, Iranian filmmaker Abdolhassan Barzideh made the feature film Mazar Sharif, dramatizing the events at the consulate. The film brought the story back to public attention, but the underlying questions remained unresolved. The killings sit within a broader pattern of violence that consumed Mazar-i-Sharif in August 1998, when thousands of civilians died in sectarian massacres and the city's multiethnic fabric was torn apart.
+
+## Flight Context
+
+Coordinates: 36.70N, 67.12E. The former Iranian consulate is located in the city center of Mazar-i-Sharif, capital of Balkh Province in northern Afghanistan. The nearest airport is Mazar-i-Sharif International Airport (OAMS). Approaching from the west, the blue dome of the Shrine of Hazrat Ali is a prominent landmark in the city center. Elevation approximately 380 meters (1,247 feet) above sea level.
+
+## Sources
+
+- [1998 killing of Iranian diplomats in Afghanistan - Wikipedia](https://en.wikipedia.org/?curid=20072274)
+  - Total of 11 Iranians killed: eight named diplomats (Nasser Rigi, Noorollah Norouzi, Karim Heydarian, Rashid Paryav Fallah, Heydar-Ali Bagheri, Mohammad-Ali Ghiyasi, Majid Nouri Niyarki, Mohammad-Nasser Naseri), two other officials, and journalist Mahmoud Saremi
+  - Attack occurred August 8, 1998 during Taliban capture of Mazar-i-Sharif
+  - Taliban claimed rogue fighters acted without orders
+  - August 8 designated Iran's National Journalists' Day in memory of Mahmoud Saremi
+  - Iranian film Mazar Sharif made in 2015 by filmmaker Abdolhassan Barzideh
+- [Iran urges Taliban to clarify dimensions of 1998 attack that killed 9 Iranians - Anadolu Agency](https://www.aa.com.tr/en/asia-pacific/iran-urges-taliban-to-clarify-dimensions-of-1998-attack-that-killed-9-iranians/2963675)
+  - Over 70,000 Iranian troops deployed to Afghan border following the killings
+  - UN mediation defused the military crisis
+  - Iran's Foreign Ministry continued to seek accountability from the Taliban
+- [Abdul Malik Pahlawan - Wikipedia](https://en.wikipedia.org/wiki/Abdul_Malik_Pahlawan)
+  - Abdul Malik Pahlawan invited Taliban into Mazar-i-Sharif in May 1997, then turned on them
+  - Up to 3,000 Taliban prisoners killed in 1997 after Malik switched sides — confirmed as widely attributed to Malik/his brother
+
+## Review Notes
+
+**Reviewed:** 2026-03-01 · 10 facts verified · 0 corrections
+
+Verified: 11 Iranians killed (8 named diplomats + 2 additional officials + journalist Saremi), Aug 8 1998, Taliban denied responsibility, 70,000 Iranian troops mobilized, UN mediation, Saremi death created National Journalists Day, 2015 film by Barzideh. No factual errors found. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 670*
+*Read time: 4 minutes*

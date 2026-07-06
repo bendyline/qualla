@@ -1440,5 +1440,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr5r-brooklyn-museum-flight-context.mp3",
+      "dr5r-brooklyn-museum-intro.mp3",
+      "dr5r-brooklyn-museum-from-apprentices-library-to-cultural-powerhouse.mp3",
+      "dr5r-brooklyn-museum-a-building-that-never-finished-growing.mp3",
+      "dr5r-brooklyn-museum-the-perennial-struggle-to-stay-open.mp3",
+      "dr5r-brooklyn-museum-sensation-and-reinvention.mp3",
+      "dr5r-brooklyn-museum-half-a-million-objects-and-counting.mp3"
+    ],
+    "durations": {
+      "dr5r-brooklyn-museum-flight-context.mp3": 54.4241666,
+      "dr5r-brooklyn-museum-intro.mp3": 48.3125,
+      "dr5r-brooklyn-museum-from-apprentices-library-to-cultural-powerhouse.mp3": 58.644,
+      "dr5r-brooklyn-museum-a-building-that-never-finished-growing.mp3": 70.8119583,
+      "dr5r-brooklyn-museum-the-perennial-struggle-to-stay-open.mp3": 68.9624166,
+      "dr5r-brooklyn-museum-sensation-and-reinvention.mp3": 58.464625,
+      "dr5r-brooklyn-museum-half-a-million-objects-and-counting.mp3": 68.5082916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1,0 +1,64 @@
+# Bombing of Guernica
+
+The 1937 destruction of the Basque spiritual capital by Nazi Germany's Condor Legion, an atrocity that Picasso immortalized and the world has never forgotten.
+
+**Location:** 43.3167, -2.6667
+
+**Categories:** spanish-civil-war, aerial-warfare, military-history, tragedies, world-war-ii-precursors
+
+## Introduction
+
+It was market day in Guernica. The town, population 5,000, was the spiritual capital of the Basque people, home to the ancient oak under which Basque liberties had been sworn for centuries. At 4:30 in the afternoon on April 26, 1937, a single Dornier Do 17 appeared from the south and dropped twelve 50-kilogram bombs. It was the first of seven waves. Over the next three hours, the Condor Legion and the Italian Aviazione Legionaria would reduce the town center to rubble. The attack became the defining atrocity of the Spanish Civil War and the subject of one of the most famous paintings ever made.
+
+## Market Day, 4:30 PM
+
+The bombing unfolded in methodical waves. After the lone Dornier came three Italian SM.79 bombers with orders to hit the road and bridge east of town and block the enemy's retreat. The third wave brought the heaviest aircraft: Junkers Ju 52 transport planes converted into bombers, each loaded with a mix of high-explosive and incendiary devices. Heinkel He 111 bombers followed, then more Ju 52s. Between the heavy bomber runs, flights of Heinkel He 51 and Messerschmitt Bf 109 fighters swept in low to strafe civilians fleeing through the streets. The attacks lasted approximately three hours. The town center was destroyed. Estimates of the dead have been debated for decades; modern consensus based on Basque government research places the toll at around 150 to 300 people.
+
+## The Question of Intent
+
+The diaries of Oberstleutnant Wolfram von Richthofen, who commanded the Condor Legion mission, became public in the 1970s and revealed that the attack was part of a broader Nationalist offensive involving 25 battalions. The military objective was to destroy a crossroads and a bridge to prevent the retreat of Basque forces. But the concentrated incendiary bombing of the town center went far beyond what hitting a bridge required. Von Richthofen wrote in his diary that day: "Guernica, a town of 5,000 inhabitants, has been literally razed to the ground." Whether the intent was strategic or terroristic has been argued ever since, but the result was unambiguous: the near-total destruction of a town with profound cultural significance.
+
+## Lies and Revelations
+
+The Nationalist response was immediate and false. They blamed the destruction on retreating Republican forces, claiming Basque "dynamiters" and "Asturian incendiaries" had burned their own town. This narrative was amplified in the international press by sympathetic correspondents. But journalists who reached the scene, including George Steer of The Times, reported what they found: bomb craters, German-made incendiary shells, and a pattern of destruction consistent with aerial bombardment, not ground demolition. Steer's April 27 dispatch, published simultaneously in The Times and The New York Times, broke the Nationalist cover story and turned world opinion against Franco. The Francoist denial persisted officially until 1997, sixty years after the attack.
+
+## Picasso's Response
+
+Pablo Picasso, living in Paris, had already been commissioned by the Spanish Republic to create a mural for the 1937 World's Fair. News of Guernica gave him his subject. Working with furious speed, he completed the massive canvas -- 3.49 meters tall and 7.76 meters wide -- in just over a month. The painting depicts fragmented figures in agony: a screaming horse, a dismembered soldier, a mother cradling a dead child, a bull surveying the chaos. Rendered in stark black, white, and gray, it rejected any romanticism of war. Guernica toured internationally to raise awareness, then spent decades at the Museum of Modern Art in New York before returning to Spain in 1981, six years after Franco's death, in accordance with Picasso's wishes.
+
+## The Oak Still Stands
+
+Guernica was rebuilt after the war. The Tree of Guernica, the ancient oak that symbolized Basque self-governance, survived the bombing -- the area around it was largely spared. The town's assembly house, where Basque leaders had gathered for centuries, also survived. Today Guernica houses the Guernica Peace Museum and serves as a symbol of both the horrors of aerial warfare against civilians and the resilience of the Basque people. A full-size reproduction of Picasso's painting is displayed in the town. The original hangs in Madrid's Museo Reina Sofia, where it remains one of the most visited works of art in the world -- an image so powerful that a tapestry copy at the United Nations was famously covered with a curtain in 2003 when Colin Powell made his case for the Iraq War nearby.
+
+## Flight Context
+
+Located at 43.32N, 2.67W in the Oka River valley of Biscay, approximately 30km east of Bilbao. The town sits in a valley surrounded by green hills. The Tree of Guernica and assembly house are in the old quarter. Nearest airport is Bilbao (LEBB). Best viewed at 2,000-4,000 feet AGL. The rebuilt town center and surrounding valley are clearly visible from the air.
+
+## Sources
+
+- [Bombing of Guernica - Wikipedia](https://en.wikipedia.org/?curid=731923)
+  - Bombing took place April 26, 1937 confirmed
+  - Town population ~5,000 confirmed
+  - Attack started at 4:30 pm confirmed
+  - First aircraft was a single Dornier Do 17 dropping 12 50-kilogram bombs confirmed
+  - Three Italian SM.79 bombers in second wave confirmed
+  - Heinkel He 51 and Messerschmitt Bf 109 fighters strafed civilians confirmed
+  - Death toll consensus ~150-300 (modern Basque government research) confirmed
+  - Wolfram von Richthofen commanded the Condor Legion mission confirmed
+  - George Steer's April 27 dispatch in The Times and New York Times confirmed
+  - Francoist denial persisted until 1997 confirmed
+  - Picasso painting dimensions 3.49m x 7.76m confirmed
+  - Painting returned to Spain in 1981 and hangs at Museo Reina Sofia confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-17 · 12 facts verified · 0 corrections
+
+April 26 1937 confirmed. First aircraft Dornier Do 17 confirmed. SM.79 second wave confirmed. He 51 and Bf 109 strafing confirmed. Death toll 150-300 confirmed. Von Richthofen commanded Condor Legion confirmed. George Steer dispatches confirmed. Francoist denial until 1997 confirmed. Picasso painting dimensions 3.49x7.76m confirmed. Returned to Spain 1981 to Reina Sofia confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

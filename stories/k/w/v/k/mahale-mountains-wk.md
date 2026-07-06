@@ -1,0 +1,66 @@
+# Mahale Mountains
+
+One of Africa's most remote national parks, where chimpanzees inhabit forested peaks that plunge into Lake Tanganyika -- reachable only by boat, and explorable only on foot.
+
+**Location:** -6.2000, 30.0000
+
+**Categories:** tanzania, national-parks, chimpanzees, wildlife, lake-tanganyika
+
+## Introduction
+
+There are no roads to the Mahale Mountains. That single fact defines everything about this park -- who comes here, how they arrive, and what they find when they do. On the western shore of Lake Tanganyika, in a stretch of Tanzania that few maps bother to detail, a chain of forested peaks rises directly from the lake. The only way in is by water: the MV Liemba, a century-old ferry that was once a German warship, drops passengers at the beach settlement of Lagosa. From there, a park boat or a negotiated ride in a local craft covers the remaining distance. There are no vehicles inside the park. No paved paths. No crowds. What Mahale offers instead is one of the last places in Africa where wild chimpanzees can be tracked on foot through their own territory, in a landscape so inaccessible that the modern world has simply not bothered to arrive.
+
+## Arriving at the Edge of the Map
+
+Getting to Mahale is an expedition in itself, and the logistics are part of the experience. The journey begins in Kigoma, the railhead town on Lake Tanganyika's eastern shore. From there, the MV Liemba -- which has sailed these waters since 1927 -- makes the run south to Lagosa. The ferry can radio ahead to the park, and the park boat will meet arrivals at the beach for roughly two hundred US dollars. Those without that budget face a harder proposition: few people in Lagosa speak English, and arranging a local boat depends entirely on who happens to be at the water's edge. A motorcycle ride from Lagosa reaches the park's airstrip in thirty to forty minutes, where officials can arrange boat transport deeper into the park. Charter planes fly directly from Kigoma, usually as part of an all-inclusive package with one of the two luxury camps inside the park. Either way, the message is clear: Mahale does not make itself convenient.
+
+## The Chimpanzees of the Western Shore
+
+Mahale Mountains National Park is one of only two protected areas for chimpanzees in Tanzania. The park's research history stretches back to the 1960s, when Japanese primatologists from Kyoto University began long-term studies of the chimpanzee communities here. The habituated M-group, numbering around sixty individuals, is the primary focus of trekking visits. Tracking them means following guides through steep, forested terrain -- scrambling over roots, ducking under branches, climbing ridgelines where the canopy opens to sudden views of the lake below. Encounters are not guaranteed, but when they happen, the proximity is startling. Unlike gorilla trekking, where the animals are often stationary, chimpanzees move constantly through the trees, calling, grooming, squabbling, and occasionally regarding their human visitors with expressions that feel uncomfortably like appraisal.
+
+## A Park Without Wheels
+
+Mahale is one of the very few national parks in Africa that must be experienced entirely on foot. No game drives. No safari vehicles. The park headquarters sits at the shore, and everything beyond it requires walking, with a hired guide who is mandatory for all visitors. Beyond the chimpanzees, the park shelters hippos, crocodiles, several species of monkey, and the occasional leopard -- though sightings of the last are vanishingly rare. The lake itself is part of the experience. Its waters are clean enough to purify with tablets and drink, and the beaches where the forest meets the shore have a clarity that feels closer to the Caribbean than to the East African interior. Kayaking and fishing are available for those who want time on the water rather than in the canopy.
+
+## Sleeping Where the Forest Meets the Lake
+
+Accommodation splits sharply by budget. The Kasiha Bandas, self-catering huts at the park's core, offer queen-sized beds and basic kitchen equipment at forty US dollars per person per night. Guests bring their own food -- there is nowhere to buy any. The two luxury camps, Mbali Mbali and Nomad, charge considerably more and provide full board, charter flights, and the kind of service that makes the remoteness feel like a feature rather than a hardship. Camping is not permitted. There are no ATMs anywhere in the region, though park fees can be paid by Visa credit card. The park entrance fee is eighty US dollars per person per twenty-four hours, with an additional twenty dollars per group for chimpanzee trekking. These prices reflect both the cost of maintaining infrastructure in one of Africa's least accessible parks and the simple economics of scarcity: fewer than a few hundred visitors make it here each year.
+
+## The Lake at Dusk
+
+At the end of a trekking day, the lake becomes the reward. The sun drops behind the mountains of the Congo on the far shore, and the water turns from blue to bronze to black. Crocodiles have been spotted along certain stretches of the shore -- guides know which beaches are safe -- but in the right spot, the swimming is extraordinary. The isolation that makes Mahale difficult to reach is also what preserves it. There are no towns nearby, no light pollution, no engine noise after dark. The MV Liemba returns every two weeks, continuing south to Zambia or north back to Kigoma, and her passing is an event. Between visits, the park belongs to the chimpanzees, the forest, and the handful of people who made the journey to be here. It is not a place for those who want Africa made easy. It is a place for those who want Africa as it was.
+
+## Flight Context
+
+Located at 6.20S, 30.00E on the eastern shore of Lake Tanganyika in western Tanzania. From altitude, the Mahale Mountains are a prominent north-south ridge dropping steeply to the lakeshore, densely forested and uninhabited. The park's airstrip is at approximately 6.01S, 29.76E near the northern boundary. Lake Tanganyika stretches north toward Kigoma and south toward Zambia. The MV Liemba may be visible as a vessel on the lake. Nearest airport with regular service is Kigoma Airport (HTKA), approximately 180 km north by lake. The western shore, visible across the lake, is the Democratic Republic of the Congo.
+
+## Sources
+
+- [Mahale Mountains - Wikivoyage](https://en.wikivoyage.org/?curid=20841)
+- [Mahale Mountains National Park - Wikipedia](https://en.wikipedia.org/wiki/Mahale_Mountains_National_Park)
+  - No roads into the park confirmed
+  - MV Liemba drops passengers at Lagosa confirmed
+  - MV Liemba has sailed since 1927 confirmed
+  - Japanese primatologists from Kyoto University began studies in 1960s confirmed
+  - Habituated M-group is primary trekking focus confirmed
+  - M-group numbers approximately 60-73 individuals (story says 'around sixty', current sources suggest up to 73)
+  - Park entrance fee and pricing information approximate (prices change; verify at time of visit)
+  - One of only two protected areas for chimpanzees in Tanzania confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 7 facts verified · 0 corrections
+
+Verified: no roads into park, MV Liemba drops at Lagosa, Kyoto University research since 1960s, M-group habituated chimpanzees (story says ~60, current count is 60-73), park is one of two chimpanzee protected areas in Tanzania. Story's pricing information flagged as subject to change.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Mahale does not make itself convenient
+- It is not a place for those who want Africa made easy
+
+---
+
+*Word count: 820*
+*Read time: 4 minutes*

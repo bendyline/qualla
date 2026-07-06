@@ -618,5 +618,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "ukmk-german-battleship-tirpitz-flight-context.mp3",
+      "ukmk-german-battleship-tirpitz-intro.mp3",
+      "ukmk-german-battleship-tirpitz-the-lonely-queen-of-the-north.mp3",
+      "ukmk-german-battleship-tirpitz-death-by-a-thousand-cuts.mp3",
+      "ukmk-german-battleship-tirpitz-tallboys-over-tromso.mp3",
+      "ukmk-german-battleship-tirpitz-what-remains.mp3"
+    ],
+    "durations": {
+      "ukmk-german-battleship-tirpitz-flight-context.mp3": 48.7990833,
+      "ukmk-german-battleship-tirpitz-intro.mp3": 52.1089166,
+      "ukmk-german-battleship-tirpitz-the-lonely-queen-of-the-north.mp3": 87.9019166,
+      "ukmk-german-battleship-tirpitz-death-by-a-thousand-cuts.mp3": 77.5765,
+      "ukmk-german-battleship-tirpitz-tallboys-over-tromso.mp3": 83.010625,
+      "ukmk-german-battleship-tirpitz-what-remains.mp3": 55.0489166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -316,5 +316,24 @@
     "_m/w/5/g/2/bagan-wp/train-to-bagan-from-mandalay-4.jpg",
     "_m/w/5/g/2/bagan-wp/sunrise-in-bagan.jpg"
   ],
-  "updatedAt": "2026-04-01T12:32:03.873Z"
+  "updatedAt": "2026-04-01T12:32:03.873Z",
+  "narration": {
+    "files": [
+      "w5g2-bagan-flight-context.mp3",
+      "w5g2-bagan-intro.mp3",
+      "w5g2-bagan-a-kingdom-built-in-brick.mp3",
+      "w5g2-bagan-vaults-before-europe.mp3",
+      "w5g2-bagan-the-walled-heart-and-the-rivers-appetite.mp3",
+      "w5g2-bagan-earthquakes-and-afterlives.mp3"
+    ],
+    "durations": {
+      "w5g2-bagan-flight-context.mp3": 55.1638333,
+      "w5g2-bagan-intro.mp3": 37.4785833,
+      "w5g2-bagan-a-kingdom-built-in-brick.mp3": 72.7742916,
+      "w5g2-bagan-vaults-before-europe.mp3": 71.3693333,
+      "w5g2-bagan-the-walled-heart-and-the-rivers-appetite.mp3": 76.7386666,
+      "w5g2-bagan-earthquakes-and-afterlives.mp3": 72.3895833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

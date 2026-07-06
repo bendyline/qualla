@@ -1,0 +1,58 @@
+# Shimotsuke Yakushi-ji
+
+One of only three temples in ancient Japan authorized to ordain Buddhist priests, Shimotsuke Yakushi-ji was built in the 7th century with Korean engineering and survived a millennium of political upheaval before finally falling to the wars of the Sengoku era.
+
+**Location:** 36.4020, 139.8761
+
+**Categories:** japanese-history, buddhist-temple, archaeology, national-historic-site, tochigi-prefecture
+
+## Introduction
+
+Only three temples in all of ancient Japan possessed a kaidan -- an ordination platform where new Buddhist priests could officially receive their vows. One was the great Todai-ji in Nara. Another was Kanzeon-ji in Kyushu. The third stood here, on the right bank of the Kinugawa River, in what was then the distant frontier province of Shimotsuke. That a temple of such authority existed this far from the imperial capital tells you something about the ambitions of the 7th-century emperors who ordered it built, and about the Korean engineers from the kingdom of Silla who crossed the sea to make it real.
+
+## The Buddha of Healing on the Frontier
+
+Shimotsuke Yakushi-ji was dedicated to Yakushi Nyorai, the Buddha of Healing, one of the earliest objects of Buddhist worship to reach Japan. The temple's exact founding date remains uncertain, but historical chronicles narrow the window. According to the Shoku Nihon Koki, in 684 AD Emperor Shomu elevated the chieftains of local clans in what would become Shimotsuke Province to the rank of ason. Shortly after -- in 687, 689, or 690 AD -- he ordered the construction of a major temple in the province, dispatching missionaries and engineers from the Korean kingdom of Silla to supervise the work. The resulting complex was unprecedented in scale for a provincial temple, rivaling the great sanctuaries of Yamato Province in the imperial heartland. The Shoku Nihongi records that by the Nara period, the temple held national significance as one of only three sites in the country authorized to perform ordinations.
+
+## A Compound Built to Impress
+
+Archaeological excavations conducted between 1966 and 1972 -- the sixth formal dig at the site -- confirmed the temple's massive footprint. Roof tiles dating to the reign of Emperor Tenmu established the construction period, and the compound stretched 252 meters east to west and 340 meters north to south. A moat and earthen rampart surrounded the entire precinct, with gates opening to each cardinal direction. Inside, the layout followed a formal axial plan: a Kondo (main hall), Lecture Hall, and Rectory stood in a straight line with the pagoda and South Gate. A covered cloister connected the Middle Gate to the Kondo, encircling the pagoda and two smaller buildings. A second pagoda stood outside the cloister. The scale was extraordinary -- this was not a rustic provincial outpost but a monument to centralized imperial authority at the edge of the known realm.
+
+## Exile of a Fallen Monk
+
+In 770 AD, the monk Dokyo attempted to seize political power through his relationship with Empress Koken. His scheme collapsed, and the punishment was fitting: exile to the most prestigious temple in the distant east. Dokyo was sent to Shimotsuke Yakushi-ji, where he lived out his remaining years and eventually died. His grave still exists on the grounds, within a modern temple called Jizo-in that occupies the southern portion of the ancient complex. The choice of exile location was deliberate -- it removed Dokyo completely from the capital while placing him under the supervision of the religious establishment he had tried to subvert. The temple's authority made it both prison and monastery.
+
+## A Thousand Years of Slow Decline
+
+The temple's prestige eroded gradually across centuries. During the Heian period, the rise of the Tendai sect on Mount Hiei -- with its own kaidan -- undercut Shimotsuke Yakushi-ji's monopoly on ordination. Without a supporting sect to supply monks and political backing, the temple's role as a seminary faded, though it remained one of the highest-ranking temples in eastern Japan through the end of the Heian era. Minamoto no Yoritomo briefly revived it at the start of the Kamakura period as a Shingon temple, but the growing popularity of Zen among the warrior elite pushed it further to the margins. In 1339, Ashikaga Takauji ordered the temple renamed Ankoku-ji, intending to fold it into his nationwide network of memorial temples for the dead of the Genko War. The temple quietly refused, continuing to use its original name. The final blow came during the Sengoku period, when the temple was destroyed in fighting between the Later Hojo clan and the Yuki clan.
+
+## Foundations That Endure
+
+Two modern temples now stand on fragments of the ancient site. One, built on the ruins of the former Jizo-in, preserves the grave of Dokyo. The other occupies the grounds of the Takashi-ji Fudo-in and encompasses the remains of the original kaidan. The rest is archaeology -- stone foundations, excavated postholes, and the outlines of vanished walls visible as subtle contours in the earth. The site has been protected as a National Historic Site since 1921, one of the earliest designations of its kind in Japan. From the ground, the scattered foundations hint at the compound's original scale. From the air, the rectangular outline of the moat and rampart system becomes legible against the surrounding farmland, a ghost blueprint of a temple that once stood at the threshold between civilization and frontier.
+
+## Flight Context
+
+Located at 36.40N, 139.88E on the Kanto plain in Tochigi Prefecture, near the city of Shimotsuke on the right bank of the Kinugawa River. From the air, look for the rectangular outline of the ancient temple compound visible against surrounding farmland and suburban development. The site sits on flat terrain between the Kinugawa River to the east and the urban area of Shimotsuke to the west. Nearest airports: RJTU (Utsunomiya Airfield, JASDF) approximately 10nm north, RJAH (Ibaraki Airport) approximately 35nm east-southeast, RJAA (Narita International) approximately 50nm south. Best viewed at 2,000-4,000 feet AGL to appreciate the compound outline. The Kanto plain stretches flat in all directions, with mountains visible to the north toward Nikko.
+
+## Sources
+
+- [Shimotsuke Yakushi-ji - Wikipedia](https://en.wikipedia.org/?curid=65291669)
+  - One of only three temples with kaidan ordination platform (Todai-ji, Kanzeon-ji, Shimotsuke Yakushi-ji) confirmed
+  - Founded with Silla Korean engineers 687-690 AD confirmed
+  - Temple compound 252m east-west by 340m north-south confirmed
+  - Dokyo exiled here after Empress Koken died in 770 confirmed
+  - National Historic Site since 1921 confirmed
+  - Destroyed during Sengoku period fighting between Later Hojo and Yuki clan confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 6 facts verified · 0 corrections
+
+Three kaidan temples confirmed (Todai-ji, Kanzeon-ji, Shimotsuke Yakushi-ji), Silla Korean engineers 687-690 AD confirmed, compound dimensions 252x340m confirmed, Dokyo exiled here confirmed, National Historic Site 1921 confirmed, destroyed in Sengoku period by Later Hojo vs Yuki fighting confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 815*
+*Read time: 4 minutes*

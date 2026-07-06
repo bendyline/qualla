@@ -701,5 +701,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "srev-hvar-flight-context.mp3",
+      "srev-hvar-intro.mp3",
+      "srev-hvar-stone-sea-and-marble.mp3",
+      "srev-hvar-before-the-greeks.mp3",
+      "srev-hvar-the-fortress-above.mp3",
+      "srev-hvar-lavender-and-the-interior.mp3",
+      "srev-hvar-island-time.mp3"
+    ],
+    "durations": {
+      "srev-hvar-flight-context.mp3": 56.1670833,
+      "srev-hvar-intro.mp3": 45.9269166,
+      "srev-hvar-stone-sea-and-marble.mp3": 64.29775,
+      "srev-hvar-before-the-greeks.mp3": 66.8865416,
+      "srev-hvar-the-fortress-above.mp3": 57.2249166,
+      "srev-hvar-lavender-and-the-interior.mp3": 61.4346666,
+      "srev-hvar-island-time.mp3": 56.2344166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

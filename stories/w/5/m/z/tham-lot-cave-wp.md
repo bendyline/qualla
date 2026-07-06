@@ -1,0 +1,56 @@
+# Tham Lot Cave
+
+A 1,666-meter cave system in northwestern Thailand where a river flows through cathedral-sized chambers of stalactites and ancient teakwood coffins rest in the darkness, placed there by the Lawa people thousands of years ago.
+
+**Location:** 19.5719, 98.2772
+
+**Categories:** Caves of Thailand, Geography of Mae Hong Son province
+
+## Introduction
+
+Every evening at dusk, hundreds of thousands of Himalayan swiftlets funnel into a hole in the limestone hills of Pang Mapha district like smoke running in reverse. They pour through the entrance of Tham Lot, a cave that stretches 1,666 meters through Permian-age limestone, following the Nam Lang River into darkness. The birds know this place by instinct and echolocation. The Lawa people knew it too, thousands of years ago, when they carved teakwood coffins and placed them deep inside -- offerings or burials whose meaning has been lost to time. The water, the stone, the animals, and the dead: Tham Lot holds all of them together in a single underground passage.
+
+## A River Runs Through It
+
+Tham Lot is not a static cavern. It is a living system, shaped and reshaped by the Nam Lang River, which enters at one end and emerges at the other after winding through more than a kilometer and a half of carved limestone. The cave is a karst formation -- the product of slightly acidic water dissolving rock over millions of years, creating the stalactites, stalagmites, columns, and flowstone formations that fill the chambers. During the rainy season, the river rises and parts of the cave become impassable. During the dry season, visitors can navigate stretches by bamboo raft, drifting beneath formations that drip and gleam in lamplight. The scale is immense. Chambers open into cathedral-like spaces where the ceiling disappears into shadow, and the sound of the river echoes off walls that were old when the first humans arrived in Southeast Asia.
+
+## Coffins in the Dark
+
+Deep within Tham Lot and other caves in the surrounding hills, archaeologists have discovered teakwood coffins -- long, carved vessels placed on natural rock ledges and elevated platforms within the cave. They are attributed to the Lawa people, an indigenous group with deep roots in the highlands of what is now northern Thailand and Myanmar. The coffins are thought to be thousands of years old, though precise dating remains difficult. Why the Lawa chose caves as resting places for their dead is not fully understood. What is clear is that these were deliberate, carefully executed acts: teak is a dense, durable hardwood, and carving a coffin from it would have required significant labor and skill. Carrying the finished product into the depths of a river cave would have required even more. The coffins speak to a relationship between the living and the underground world that went far beyond shelter -- the caves were sacred spaces, thresholds between the world above and something deeper.
+
+## The Kingdom of Caves
+
+Tham Lot is the most visited cave in the Pang Mapha district, but it is far from the only one. This corner of Mae Hong Son Province contains one of Southeast Asia's densest concentrations of cave systems. Tham Mae Lana, twelve kilometers long, ranks as the second longest known cave in Thailand and was explored by Australian expeditions between 1984 and 1986. Tham Nam Lang stretches 8,550 meters. Tham Bung Hu reaches 4,442 meters. At least nine caves in the area exceed one kilometer in length. South of Highway 1095, Spirit Well -- known locally as Nam Bua Phi -- drops into a collapsed sinkhole more than 200 meters across and up to 130 meters deep, one of the largest natural holes in Thailand. Australians first descended it in 1985. The geology that created this landscape -- Permian limestone, hundreds of millions of years old, dissolved by tropical rainfall into a maze of underground rivers and vertical shafts -- also created the conditions that drew prehistoric humans here. Caves offered shelter, water, and reliable microclimates in a monsoon-driven world.
+
+## Wings at Twilight
+
+The daily spectacle at Tham Lot's entrance has become one of the region's most celebrated natural events. As the sun drops behind the limestone ridges, Himalayan swiftlets return to roost inside the cave by the hundreds of thousands, threading through the entrance in tight, spiraling flocks. Bats stream out in the opposite direction, beginning their nightly hunt. For a few minutes, the two flows cross -- one coming in, one going out -- in a choreography governed entirely by light and instinct. The swiftlets nest on the cave walls and ceiling, building small cups of moss and saliva. Their presence, along with the large bat population, creates a rich ecosystem within the cave itself: guano deposits feed insects, which feed other organisms, which sustain a food web that begins in total darkness. Tham Lot is not merely a geological formation or an archaeological site. It is a living place -- occupied continuously, in one form or another, for longer than human memory can reach.
+
+## Flight Context
+
+Located at 19.57N, 98.28E near Sop Pong in Pang Mapha District, Mae Hong Son Province, northwestern Thailand. The cave entrance is set in dramatic karst limestone terrain near the Nam Lang River. Recommended viewing altitude 3,000-5,000 feet AGL to see the karst tower landscape. Nearest airport is Mae Hong Son (VTCH). Look for the river valley cutting through limestone hills -- the cave entrance is where the Nam Lang River disappears underground. Spirit Well (Nam Bua Phi), a massive sinkhole over 200m across, is visible nearby south of Highway 1095.
+
+## Sources
+
+- [Tham Lot cave - Wikipedia](https://en.wikipedia.org/?curid=3673579)
+  - Cave system length confirmed at 1,666 meters
+  - Nam Lang River flows through the cave
+  - Teakwood coffins attributed to Lawa people, thousands of years old
+  - Tham Mae Lana is 12 km long, second longest known cave in Thailand
+  - Tham Nam Lang stretches 8,550 meters; Tham Bung Hu 4,442 meters
+  - Spirit Well (Nam Bua Phi) sinkhole is over 200 meters across and up to 130 meters deep
+  - Himalayan swiftlets roost inside cave by hundreds of thousands
+  - Australian expeditions explored Tham Mae Lana between 1984 and 1986
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 8 facts verified · 0 corrections
+
+Verified cave length 1666 meters, Nam Lang River, Lawa coffins, Tham Mae Lana 12 km second longest, Tham Nam Lang 8550 m, Tham Bung Hu 4442 m, Spirit Well sinkhole 200+ m across. Australian expeditions Tham Mae Lana 1984-1986. All facts confirmed.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 770*
+*Read time: 4 minutes*

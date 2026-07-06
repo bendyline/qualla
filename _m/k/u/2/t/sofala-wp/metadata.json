@@ -54,5 +54,24 @@
     "sourceGeohash4": "ku2t"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "ku2t-sofala-flight-context.mp3",
+      "ku2t-sofala-intro.mp3",
+      "ku2t-sofala-gold-river.mp3",
+      "ku2t-sofala-the-spy-who-walked-in.mp3",
+      "ku2t-sofala-malaria-and-shifting-sands.mp3",
+      "ku2t-sofala-a-city-the-ocean-took-back.mp3"
+    ],
+    "durations": {
+      "ku2t-sofala-flight-context.mp3": 58.31775,
+      "ku2t-sofala-intro.mp3": 54.1114583,
+      "ku2t-sofala-gold-river.mp3": 58.6951666,
+      "ku2t-sofala-the-spy-who-walked-in.mp3": 76.70275,
+      "ku2t-sofala-malaria-and-shifting-sands.mp3": 70.9178333,
+      "ku2t-sofala-a-city-the-ocean-took-back.mp3": 71.2030833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

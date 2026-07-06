@@ -1,0 +1,63 @@
+# Werowocomoco
+
+The lost capital of the Powhatan Confederacy, where Wahunsenacawh ruled over dozens of Algonquian tribes and where John Smith was brought as a captive in 1607 - rediscovered on the York River after centuries of misidentification.
+
+**Location:** 37.4120, -76.6490
+
+**Categories:** archaeology, native-american-history, colonial-virginia, national-register, powhatan-confederacy
+
+## Introduction
+
+The name translates roughly as 'settlement of the leader,' and for centuries after the English arrived, nobody could find it. Werowocomoco, the political and spiritual capital of the most powerful Native American confederacy on the Atlantic seaboard, simply vanished from the landscape. Local tradition placed it near a lonely chimney ruin on Timberneck Bay. Scholars guessed it sat at the confluence of the Pamunkey and Mattaponi rivers at West Point. Both were wrong. In 2003, archaeologists confirmed what one researcher had suspected since 1977: the true site lay on Purtan Bay, a quiet inlet on the north bank of the York River in Gloucester County, Virginia. Beneath plowed farm fields, they found a settlement that stretched back to 1270 CE - more than three centuries before any English ship reached the Chesapeake.
+
+## Earthworks Before Empire
+
+Long before Wahunsenacawh made Werowocomoco his seat of power, the site held deep significance for Virginia's indigenous people. Radiocarbon dating of riverfront middens places the first settlement at around 1270 CE, during the Late Woodland period. As the village grew, the surrounding forest receded - archaeobotanical data shows a steady decline in deciduous wood and nutshell through the centuries, evidence of land being cleared for an expanding community. Around 1400 CE, two hundred years before any Englishman set foot in the region, the inhabitants built two massive curved earthwork ditches, each stretching hundreds of feet in length, set back from the riverbank. These D-shaped constructions, possibly visible on John Smith's 1612 map, likely defined a ceremonial or sacred precinct. Earthwork constructions of this scale were integral to ceremonial centers across eastern North America, and their presence at Werowocomoco marks the site as a regional center of power well before the Powhatan Confederacy took shape.
+
+## The Paramount Chief's Court
+
+By the time the English founded Jamestown in 1607, Wahunsenacawh - known to the colonists as Powhatan, after his birthplace at the fall line of the James River - had consolidated authority over roughly thirty Algonquian-speaking tribes across Tidewater Virginia. From Werowocomoco, he received tribute from subject communities: food, furs, copper, and prized shell beads. In return, he offered military protection, aid in times of famine, and access to sacred materials. The name Werowocomoco itself reflects this function, derived from the Powhatan words for 'leader' and 'settlement.' It was not so much a fixed place name as a description - the lands where the paramount chief resided. The Gloucester County Board of Supervisors later noted that in the Algonquian language, the designation carried this fluid meaning. The culture frequently relocated quarters within a general area, and the territory that constituted Werowocomoco may have encompassed both the Purtan Bay archaeological site and the nearby chimney ruins that later confused scholars.
+
+## A Captive Brought to the King
+
+In December 1607, John Smith was captured by Opechancanough, Wahunsenacawh's brother, while foraging along the Chickahominy River. Smith was taken to Werowocomoco to meet the paramount chief. What happened there has fueled one of American history's most enduring legends. In Smith's 1624 account, written seventeen years after the event, he claimed that Pocahontas, Wahunsenacawh's young daughter, threw herself over him to prevent her father from having him executed. Most historians are skeptical: Smith made no mention of this dramatic rescue in his earlier 1608 and 1612 writings. By the time he published the story, Pocahontas had become a celebrity in England through her 1616-17 visit and had died, leaving Smith free to embellish their acquaintance without contradiction. What is certain is that Werowocomoco was the stage for tense negotiations between two cultures, both maneuvering for advantage in a land being reshaped by drought, trade, and the pressure of colonial expansion.
+
+## Abandoned Overnight
+
+By January 1609, trust between the English and Powhatan had collapsed. Smith returned to Werowocomoco seeking corn, having sent four German craftsmen ahead to build a house for the chief. Both sides attempted to ambush the other during the negotiations. After the English secured their corn and traveled up the Pamunkey River to trade at gunpoint with Opechancanough, they returned to find the house unfinished and the entire town deserted. Wahunsenacawh had decided to move his capital beyond easy reach of the colonists. He relocated first to Orapakes, a swamp-sheltered site at the head of the Chickahominy River near where Interstates 64 and 295 intersect today, and later to Matchut on the Pamunkey River. After his death in 1618, Opechancanough succeeded him but governed from nearby Youghtanund. Werowocomoco, the center of a political world, fell silent.
+
+## Unearthed After Four Centuries
+
+The location drifted from English memory within decades. In 1977, archaeologist Daniel Mouer of Virginia Commonwealth University collected pottery fragments from plowed fields and beaches along Purtan Bay, ranging from the Late Woodland period through European contact, and flagged the area as a possible site. But it was not until 2002, when landowners authorized a full survey, that the scope of the discovery became clear. Between 2002 and 2003, researchers dug 603 test holes across the property and found thousands of artifacts - Native pottery, stone tools, European trade goods of glass and copper that matched colonial accounts of trading with Powhatan. The Werowocomoco Research Group, a collaboration between the College of William and Mary, the Virginia Department of Historic Resources, and eastern Virginia tribes including the Mattaponi, Pamunkey, and Upper Mattaponi, has led excavations since. The site was listed on the National Register of Historic Places in 2006. In 2016, the National Park Service completed acquisition of the property. After four centuries of silence, the settlement of the leader belongs to the public once more.
+
+## Flight Context
+
+Located at 37.412°N, 76.649°W on the north bank of the York River at Purtan Bay in Gloucester County, Virginia. The site is a flat, formerly agricultural area along the river - look for the broad curve of Purtan Bay as a visual reference. The York River provides a strong navigational corridor. Best viewed at 2,000-3,000 feet AGL. Nearby airports: Williamsburg-Jamestown Airport (KJGG) approximately 15nm southwest; Newport News/Williamsburg International Airport (KPHF) approximately 20nm southeast. Langley Air Force Base (KLFI) is to the southeast - be aware of restricted airspace in the area. Historic Jamestown is visible across the Virginia Peninsula to the south along the James River.
+
+## Sources
+
+- [Werowocomoco - Wikipedia](https://en.wikipedia.org/?curid=4545445)
+  - Site confirmed in 2003 on Purtan Bay, Gloucester County, York River
+  - Radiocarbon dating places first settlement at around 1270 CE
+  - Two curved earthwork ditches built circa 1400 CE, hundreds of feet long
+  - John Smith captured by Opechancanough in December 1607
+  - Smith's 1624 account mentioned Pocahontas rescue - not in 1608 or 1612 writings
+  - Wahunsenacawh abandoned Werowocomoco by January 1609
+  - Site listed on National Register of Historic Places in 2006
+  - National Park Service completed acquisition in 2016
+- [Lost City of Powhatan - Smithsonian Magazine](https://www.smithsonianmag.com/history/lost-city-of-powhatan-149908455/)
+  - Daniel Mouer flagged area in 1977 based on pottery fragments
+  - 2002-2003 full survey with 603 test holes
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 8 facts verified · 0 corrections
+
+Verified site confirmed 2003 on Purtan Bay Gloucester County, radiocarbon dating to 1270 CE, earthworks circa 1400 CE, Smith captured December 1607, site abandoned January 1609, NPS acquisition 2016; all facts confirmed
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

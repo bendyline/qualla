@@ -121,5 +121,24 @@
   "galleryPaths": [
     "_m/z/d/6/s/volcanoes-of-kamchatka-wp/astronaut-photograph-s.jpg",
     "_m/v/6/f/r/dyatlov-pass-wk/hero.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "zd6s-volcanoes-of-kamchatka-flight-context.mp3",
+      "zd6s-volcanoes-of-kamchatka-intro.mp3",
+      "zd6s-volcanoes-of-kamchatka-a-peninsula-on-fire.mp3",
+      "zd6s-volcanoes-of-kamchatka-giants-and-beauties.mp3",
+      "zd6s-volcanoes-of-kamchatka-geyser-valley-and-the-2007-mudslide.mp3",
+      "zd6s-volcanoes-of-kamchatka-a-seismic-ledger.mp3"
+    ],
+    "durations": {
+      "zd6s-volcanoes-of-kamchatka-flight-context.mp3": 56.941875,
+      "zd6s-volcanoes-of-kamchatka-intro.mp3": 45.859375,
+      "zd6s-volcanoes-of-kamchatka-a-peninsula-on-fire.mp3": 61.5405416,
+      "zd6s-volcanoes-of-kamchatka-giants-and-beauties.mp3": 56.5528333,
+      "zd6s-volcanoes-of-kamchatka-geyser-valley-and-the-2007-mudslide.mp3": 43.5509166,
+      "zd6s-volcanoes-of-kamchatka-a-seismic-ledger.mp3": 61.2005833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

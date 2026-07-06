@@ -1,0 +1,62 @@
+# Battle of the Overpass
+
+A 1937 ambush on a pedestrian overpass at Ford's River Rouge plant that turned a leaflet handout into a nationally photographed beating -- and changed the course of American labor.
+
+**Location:** 42.3076, -83.1558
+
+**Categories:** Labor history, Detroit history, Civil rights, Industrial heritage
+
+## Introduction
+
+The photographer asked them to pose. Walter Reuther and Richard Frankensteen, two of the United Auto Workers' most visible organizers, stood on the Miller Road overpass above Gate 4 of Ford's River Rouge plant on May 26, 1937, the Ford sign looming behind them. Detroit News photographer James "Scotty" Kilpatrick wanted a picture for the next day's paper. Before the shutter finished clicking, as many as forty men from Ford's Service Department rushed from behind and attacked. Frankensteen's jacket was pulled over his head; he was kicked and punched while pinned. Organizer Richard Merriweather suffered a broken back. Ford's men then turned on the photographers, smashing cameras and seizing film. But Kilpatrick had already passed his negatives to a colleague. The pictures ran nationally. Ford won the overpass that afternoon and lost the war.
+
+## The Rouge and Its Shadow Army
+
+By 1937, the Ford River Rouge complex in Dearborn, Michigan, was the largest industrial facility on earth, employing roughly 90,000 workers. It was also a fortress. Harry Bennett, head of Ford's Service Department, commanded what historians have called a "quasi-military" security force that maintained order through surveillance and intimidation. Bennett's men had already drawn blood five years earlier during the 1932 Ford Hunger March, when a peaceful procession of unemployed workers walking from Detroit to the Rouge employment office on Miller Road was met with fire hoses and, ultimately, machine gun fire. Five marchers were killed and dozens wounded. The message was clear: Ford would tolerate no challenges at its gates. The very overpass where the 1937 attack took place overlooked the same Miller Road entrance.
+
+## "Unionism, Not Fordism"
+
+The UAW had been founded only two years earlier, in 1935, but momentum was building fast. A sit-down strike at the Kelsey-Hayes Wheel Company in Detroit in late 1936 disrupted parts flowing to the Rouge and swelled UAW Local 174's membership. Tactics refined at Kelsey-Hayes were deployed at the Flint sit-down strike against General Motors that winter, winning the UAW national recognition. By spring 1937, General Motors and Chrysler had both signed contracts. Ford alone held out. Local 174 planned a leaflet campaign timed to the afternoon shift change, when thousands of workers would stream across the overpass. The leaflets demanded a six-hour workday, cited UAW victories at GM, Chrysler, and Briggs Manufacturing, and carried a simple headline: "Unionism, Not Fordism." The organizers never got to hand one out.
+
+## The Photographs That Backfired
+
+Ford's Service Department understood the power of images -- which is exactly why they tried to destroy them. After the beating, Bennett's men seized cameras and exposed film from every journalist they could reach. But Kilpatrick's negatives survived, smuggled out in a colleague's car. The photographs showed Frankensteen, bloodied and dazed, his jacket torn half off. They showed Reuther being shoved down metal stairs. Published in newspapers across the country, the images accomplished what the leaflets never could: they turned public opinion decisively against Ford. The National Labor Relations Board cited the attack in an unfair labor practices case. Ford appealed and delayed, but the tide had turned. The surviving photographs earned a Pulitzer Prize citation and became some of the most reproduced images in American labor history.
+
+## The Contract That Ended the Fight
+
+Four years passed before Ford capitulated. The Battle of the Overpass set off a chain of organizing drives, legal challenges, and escalating tensions that culminated in a full-scale strike at the Rouge in April 1941. When it ended, Ford signed a contract with the UAW -- the last of the Big Three automakers to do so. The agreement went further than anyone expected, granting the union shop and dues checkoff provisions that even GM and Chrysler had resisted. The Miller Road overpass still stands today, rebuilt but recognizable, bearing the logos of both the Ford Motor Company and the United Auto Workers side by side. It is a rare piece of infrastructure that serves as both a pedestrian crossing and a monument -- a reminder that one of the most significant turning points in American labor history happened not inside a factory, but on a bridge above the road leading to it.
+
+## Flight Context
+
+The Battle of the Overpass site is at 42.308N, 83.156W, on the Miller Road pedestrian overpass at Gate 4 of the Ford River Rouge complex in Dearborn, Michigan. The massive Rouge plant is unmistakable from the air -- a sprawling industrial complex along the Rouge River south of Michigan Avenue. The overpass itself is a small structure near the plant's northwest corner. Nearest airports: Detroit Metropolitan Wayne County (KDTW) 12nm southwest, Coleman A. Young International (KDET) 8nm east, Willow Run (KYIP) 17nm west-southwest. Best viewed at 2,000-3,000 feet AGL to see the plant's full scale and the Miller Road entrance.
+
+## Sources
+
+- [Battle of the Overpass - Wikipedia](https://en.wikipedia.org/?curid=1524926)
+- [How the Ford Motor Company Won a Battle and Lost Ground](https://www.smithsonianmag.com/history/how-the-ford-motor-company-won-a-battle-and-lost-ground-45814533/)
+- [The Battle of the Overpass](https://reuther.wayne.edu/ex/exhibits/battle.html)
+- [Battle of the Overpass - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_the_Overpass)
+  - Attack occurred May 26, 1937 confirmed
+  - Walter Reuther and Richard Frankensteen present confirmed
+  - Ford River Rouge employed ~90,000 workers confirmed
+  - Photographer James 'Scotty' Kilpatrick confirmed
+  - Ford signed UAW contract in 1941 after April strike confirmed
+  - UAW founded 1935 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 8 facts verified · 0 corrections
+
+Final review complete - all key claims verified via web search
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Ford won the overpass that afternoon and lost the war
+- Harry Bennett commanded a 'quasi-military' security force that maintained order through surveillance and intimidation
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

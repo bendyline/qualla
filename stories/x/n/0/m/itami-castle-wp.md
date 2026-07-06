@@ -1,0 +1,70 @@
+# Itami Castle: The Fortress That Swallowed a City
+
+A Muromachi-era castle in present-day Itami, Hyogo Prefecture, Itami Castle was rebuilt by the rebel warlord Araki Murashige into a massive fortification that absorbed an entire town into its defenses -- then withstood Oda Nobunaga's army for a year before falling to a tunnel.
+
+**Location:** 34.7813, 135.4209
+
+**Categories:** castle, historic-site, military-history, japan
+
+## Introduction
+
+The tunnel was what finally broke it. For a full year, Oda Nobunaga -- the warlord who would unify Japan -- threw his armies against the walls of Arioka Castle, the fortress that Araki Murashige had built from the bones of old Itami Castle. The moats held. The rivers held. The ring of townhouses and streets that Araki had woven into the defensive perimeter held. Then Nobunaga's engineers dug a tunnel beneath the walls, burrowing unseen until they emerged near the castle keep, and the year-long siege ended in 1579. Today the ruins sit in a public park in front of Itami Station, an unassuming patch of green in a commuter city near Osaka. But the stones underfoot tell a different story -- one of ambition, rebellion, and a radical idea about what a castle could be.
+
+## Samurai of the Northern Plains
+
+Itami Castle began modestly. The Itami clan, minor samurai lords who controlled a stretch of Settsu Province in what is now Hyogo Prefecture, built the original fortification during the Nanboku-cho period, the era of warring imperial courts that tore through fourteenth-century Japan. The castle served as their seat of power in the flatlands north of modern Osaka, a region crisscrossed by rivers -- the Itami, the Daroku, the Ina -- that provided natural defensive lines. In 1472, the castle underwent extensive remodeling, but it remained a conventional stronghold of its era, a feudal lord's residence ringed by moats and earthen walls. It would take a more ambitious, more reckless man to transform it into something unprecedented.
+
+## Araki's Radical Redesign
+
+That man was Araki Murashige. In 1574, Araki demolished the old Itami Castle and rebuilt it on a scale that dwarfed anything the region had seen. He renamed it Arioka Castle and turned it into an early example of a sōkamae -- a fortification in which the entire castle town becomes part of the defensive structure. The concept was radical: rather than placing walls around a keep and leaving the town outside, Araki encircled everything -- houses, streets, merchant shops, temples -- within a continuous ring of moats and earthen ramparts. The castle stretched 1.7 kilometers from north to south and 0.8 kilometers from east to west. The rivers became part of the moat system, connected by channels on the west and south. Three satellite fortresses anchored the outer defense line. The arrangement of streets and buildings was not organic growth but deliberate military planning, every alley and intersection designed to confuse and slow an attacker.
+
+## A Year Against Nobunaga
+
+Araki Murashige's fatal miscalculation was political, not architectural. He rebelled against Oda Nobunaga, and in 1578 Nobunaga's forces laid siege to Arioka Castle. The defenses Araki had built proved devastatingly effective. Nobunaga, who had conquered much of central Japan with armies that overwhelmed opponents through sheer numbers and gunpowder, could not break through. The sōkamae design forced his troops to fight through layer after layer of built-up town, each block a potential ambush. The siege dragged on for a year. When the castle finally fell in 1579, it was not through a frontal assault but through a tunnel dug from outside the walls to a point near the keep. Nobunaga awarded the castle to his general Ikeda Motosuke in 1580, but when Ikeda was transferred to Mino Province in 1583, the castle was abandoned entirely.
+
+## Gravestones in the Walls
+
+The castle slept for centuries. In 1891, railway construction destroyed the eastern portion of the site, and most of the honmaru -- the inner bailey, the heart of any Japanese castle -- was lost under tracks and platforms. But when archaeologists began excavating in 1975, what they found beneath the surface told a story of desperate construction. The stone walls contained gravestones and stone pagodas plundered from Buddhist temples in the surrounding countryside. Araki had built his fortress in a hurry, grabbing whatever shaped stone was available, and the sacred markers of the dead had been pressed into military service. Remnants of moats, wells, and wall foundations emerged from the earth, tracing the outlines of the sōkamae that had held off Nobunaga's army. In 1979, the Japanese government designated the ruins a National Historic Site, and the grounds were opened as a public park.
+
+## Commuter City, Castle Memory
+
+Modern Itami gives little outward sign of its violent past. The city sits in the shadow of Osaka International Airport, and commuters pass through Itami Station on the JR Fukuchiyama Line and the Hankyu Itami Line without necessarily realizing they are walking over the ruins of a fortress that once defied the most powerful warlord in Japan. The park that covers the castle site is quiet, shaded, unremarkable at first glance. But the excavated foundations are visible, the moat lines still traceable in the landscape, and the story of Araki Murashige's rebellion lingers in the ground itself -- in the stolen gravestones embedded in the walls, in the tunnel that ended a siege, in the radical idea that a whole town could become a weapon.
+
+## Flight Context
+
+Located at 34.781N, 135.421E in the city of Itami, Hyogo Prefecture, directly adjacent to Itami Station (JR West). The castle ruins are a small public park just east of the station platform. Osaka International Airport at Itami (RJOO) is approximately 1.5 nautical miles to the northwest, making this site visible on final approach or departure from runway 32L/14R. From altitude, look for the railway lines converging at Itami Station; the park is the green patch immediately to the east. Kansai International Airport (RJBB) is approximately 30 nautical miles to the south-southwest. Kobe Airport (RJBE) is approximately 12 nautical miles to the south.
+
+## Sources
+
+- [Itami Castle - Wikipedia](https://en.wikipedia.org/?curid=10117222)
+- [Siege of Itami (1579) - Wikipedia](https://en.wikipedia.org/wiki/Siege_of_Itami_(1579))
+  - Araki Murashige rebellion 1578
+  - siege lasted approximately one year ending 1579
+  - Nobunaga forces retook castle
+- [Itami Castle - Jcastle.info](https://jcastle.info/view/Itami_Castle)
+  - sokamae fortification design confirmed
+  - dimensions 1.7km N-S by 0.8km E-W
+  - 1891 railway destruction of eastern portion
+  - 1975 archaeological excavations
+  - 1979 National Historic Site designation
+- [Araki Murashige - Wikipedia](https://en.wikipedia.org/wiki/Araki_Murashige)
+  - Araki captured Itami Castle 1574
+  - renamed to Arioka Castle
+  - Ikeda Motosuke awarded castle 1580
+  - castle abandoned 1583 when Ikeda transferred to Mino
+- [Castle sites in Hyogo Prefecture - Hyogo History Station](https://www.hyogo-c.ed.jp/~rekihaku-bo/historystation/sp/rekihaku-db/castle/hyogo/ca_05_en.html)
+  - Settsu Province location confirmed
+  - gravestones and stone pagodas found in walls during excavation
+
+## Review Notes
+
+**Reviewed:** 2026-02-18 · 12 facts verified · 0 corrections
+
+All key facts verified: 1574 rebuild by Araki Murashige, sokamae dimensions, siege 1578-1579, Ikeda Motosuke 1580, 1891 railway destruction, 1975 excavations, 1979 National Historic Site. Spiciness 2/5. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 810*
+*Read time: 4 minutes*

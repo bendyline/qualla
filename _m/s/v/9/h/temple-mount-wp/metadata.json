@@ -1046,5 +1046,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sv9h-temple-mount-flight-context.mp3",
+      "sv9h-temple-mount-intro.mp3",
+      "sv9h-temple-mount-bedrock-of-faith.mp3",
+      "sv9h-temple-mount-three-claims-one-plateau.mp3",
+      "sv9h-temple-mount-the-long-struggle-over-access.mp3",
+      "sv9h-temple-mount-since-1967.mp3",
+      "sv9h-temple-mount-standing-on-contested-ground.mp3"
+    ],
+    "durations": {
+      "sv9h-temple-mount-flight-context.mp3": 46.8403333,
+      "sv9h-temple-mount-intro.mp3": 49.73625,
+      "sv9h-temple-mount-bedrock-of-faith.mp3": 75.5012916,
+      "sv9h-temple-mount-three-claims-one-plateau.mp3": 68.3051666,
+      "sv9h-temple-mount-the-long-struggle-over-access.mp3": 67.415125,
+      "sv9h-temple-mount-since-1967.mp3": 64.314375,
+      "sv9h-temple-mount-standing-on-contested-ground.mp3": 63.8145416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

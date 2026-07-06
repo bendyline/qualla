@@ -130,5 +130,24 @@
   "galleryPaths": [
     "_m/q/s/y/c/cable-beach-wk/cable-beach-broome-wes.jpg",
     "_m/q/s/y/c/cable-beach-wk/cable-beach-broome-tak.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qsyc-cable-beach-flight-context.mp3",
+      "qsyc-cable-beach-intro.mp3",
+      "qsyc-cable-beach-the-wire-that-changed-a-continent.mp3",
+      "qsyc-cable-beach-white-sand-nine-metre-tides.mp3",
+      "qsyc-cable-beach-camels-at-sunset.mp3",
+      "qsyc-cable-beach-where-the-lagoon-floods.mp3"
+    ],
+    "durations": {
+      "qsyc-cable-beach-flight-context.mp3": 49.4082083,
+      "qsyc-cable-beach-intro.mp3": 49.6279583,
+      "qsyc-cable-beach-the-wire-that-changed-a-continent.mp3": 60.037,
+      "qsyc-cable-beach-white-sand-nine-metre-tides.mp3": 64.1349166,
+      "qsyc-cable-beach-camels-at-sunset.mp3": 57.2139166,
+      "qsyc-cable-beach-where-the-lagoon-floods.mp3": 59.5477916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

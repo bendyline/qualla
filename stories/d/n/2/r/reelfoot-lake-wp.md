@@ -1,0 +1,68 @@
+# Reelfoot Lake
+
+Born from the most powerful earthquakes in American history, Reelfoot Lake is Tennessee's only large natural lake -- a haunted cypress swamp where bald eagles nest and legends of a buried chief still echo.
+
+**Location:** 36.3889, -89.3889
+
+**Categories:** Lakes of Tennessee, National Natural Landmarks in Tennessee, Bodies of water of Lake County, Tennessee, Bodies of water of Obion County, Tennessee, New Madrid earthquakes
+
+## Introduction
+
+On a winter night in 1811, the ground beneath northwest Tennessee cracked open. The New Madrid earthquakes -- among the most powerful ever to strike North America, with shocks felt as far as Quebec -- buckled the landscape, reversed the flow of the Mississippi River, and swallowed an entire river valley. Where the Reelfoot River once meandered toward the Mississippi, the earth subsided by as much as six meters in places, and floodwaters rushed in to fill the void. By the time the shaking stopped in 1812, a new body of water had appeared on the map. Reelfoot Lake, covering some 15,000 acres of northwest Tennessee, remains the only large natural lake in the state -- and the only one born of catastrophe.
+
+## A Landscape Shaken Into Being
+
+The 1811-12 New Madrid earthquakes were centered around New Madrid, Missouri, just across the Mississippi River. They reshaped landforms across a vast region, creating waterfalls where none had existed and permanently altering the course of rivers. Henry Rutherford's 1785 land survey had identified the Reelfoot River flowing through this territory -- a waterway that Jedidiah Morse described in 1797 as thirty yards wide, seven miles from its mouth. That river is now extinct, drowned beneath the shallow, cypress-studded lake that took its place. Early maps called the new body of water Line Lake or Wood Lake before the old river's name finally stuck. Much of the submerged Bayou de Chien feeds the lake today, along with Reelfoot Creek and Indian Creek. Radiocarbon dating of artifacts from the Otto Sharpe site reveals a Native American presence in the basin around 1650 AD, hinting at centuries of human connection to this land before the earthquakes remade it entirely.
+
+## The Legend of Chief Kolopin
+
+A legend -- not claimed by the Chickasaw Nation Historical Society -- tells of a prince born with a deformed foot who walked with a rolling gait. His people called him Kolopin, meaning Reelfoot. When the young chief determined to marry a Choctaw princess, her father refused. The Great Spirit warned Kolopin that kidnapping the maiden would bring destruction upon his village. He defied the warning, seized the princess, and carried her to Chickasaw territory for a marriage ceremony. Mid-ceremony, the Great Spirit stamped his foot in fury, the earth shook, and the Mississippi flooded the homeland. The water pooled in the imprint left by the Spirit's foot, forming a lake beneath which Kolopin, his bride, and his people lie buried forever. Though the Chickasaw and Choctaw had left this area by the early 14th century, reserving it as hunting grounds, the story endures as the lake's founding myth -- a tale that gives poetic shape to the very real seismic violence that created it.
+
+## Night Riders and the Battle for Common Waters
+
+For decades after the earthquakes, local farmers and fishermen treated the lake as a shared resource. But in the early 1900s, a group of investors organized as the West Tennessee Land Company and began buying up shoreline, threatening to privatize access. In the spring of 1908, residents organized as Night Riders -- masked groups who terrorized the land company's operations and resisted the expansion of large-scale cotton cultivation that was displacing yeomen farmers across western Tennessee and Kentucky. The violence escalated to murder: Waverly's fire chief was not the only public servant to fall victim to the region's conflicts. Governor Malcolm Rice Patterson sent the state militia to suppress the violence, and convictions followed -- though the Tennessee Supreme Court later overturned them. The governor declared the lake part of the public domain in 1909, but court battles over water rights dragged on for years. The state finally secured full control after constructing levees from 1917 to 1920, and the Tennessee State Park and Forestry Commission assumed responsibility. The fight for Reelfoot Lake helped establish the principle that some natural resources belong to everyone.
+
+## Cypress Cathedral
+
+Today Reelfoot Lake sprawls across parts of Lake and Obion Counties, much of it swamp-like, with bayou-like ditches connecting open basins -- the largest called Blue Basin. The water is shallow, averaging just five and a half feet deep with a maximum of about eighteen feet, and bald cypress trees rise from the surface like columns in a flooded cathedral. Nesting pairs of bald eagles soar above the canopy. Until 2003, the lake operated the world's only legal commercial fishery for crappie, a species of sunfish served in shoreline restaurants. Designated a National Natural Landmark in 1966, the area now encompasses Reelfoot Lake State Park, the Lake Isom National Wildlife Refuge to the south, and a network of public boat ramps and recreation areas. A spillway at the southern end has regulated water levels since 1930 -- a structure so controversial that local residents tried to blow it up in 1939. A replacement, completed in 2013, now helps sustain the overall health of the lake and its species. The tiny town of Samburg remains the only incorporated municipality on its shores.
+
+## Reel to Reel
+
+Reelfoot Lake's eerie beauty has drawn Hollywood three times: as a filming location for the 1957 drama Raintree County, the 1967 Oscar-winning In the Heat of the Night, and 1998's U.S. Marshals. Fourteen miles away in Union City, Discovery Park of America tells the story of the lake's seismic birth through an earthquake simulator. The lake itself, though, needs no special effects. On a still morning, when mist threads through the cypress trunks and an eagle circles overhead, the place feels less like a state park and more like a landscape that remembers what created it -- a world shaken into existence two centuries ago and still settling into its strange, beautiful shape.
+
+## Flight Context
+
+Reelfoot Lake sits at 36.39N, 89.39W in the extreme northwest corner of Tennessee, near the Kentucky and Missouri borders. The lake is unmistakable from the air: a vast, irregularly shaped body of shallow water studded with bald cypress trees, distinctly different from surrounding farmland. Best viewed at 2,000-4,000 feet AGL. The nearest significant airports include Union City (UCY) and Dyersburg Regional (DYR/KDYR) to the south. The Mississippi River is visible just to the west. The lake covers roughly 15,000 acres and appears swamp-like from altitude, with bayous and open basins. Look for the cypress canopy and the distinctive irregular shoreline. Weather in the Mississippi River valley can bring low-visibility conditions, especially in winter months.
+
+## Sources
+
+- [Reelfoot Lake - Wikipedia](https://en.wikipedia.org/?curid=639761)
+  - Lake covers approximately 15,000 acres confirmed
+  - Only large natural lake in Tennessee confirmed
+  - New Madrid earthquakes 1811-1812 created the lake confirmed
+  - Lake in Lake and Obion Counties confirmed
+  - Average depth five and a half feet maximum about eighteen feet confirmed
+  - National Natural Landmark designation 1966 confirmed
+  - Spillway at southern end constructed with replacement completed 2013 confirmed
+  - Samburg only incorporated municipality on shores confirmed
+  - Filming location for In the Heat of the Night 1967 confirmed
+  - Night Riders resistance to West Tennessee Land Company confirmed
+- [Reelfoot Lake - Britannica](https://www.britannica.com/place/Reelfoot-Lake)
+  - New Madrid fault zone earthquakes created lake
+  - Mississippi River temporarily reversed confirmed
+  - Lake size approximately 15,000 acres confirmed
+- [In the Heat of the Night (1967) filming locations - IMDb](https://www.imdb.com/title/tt0061811/locations/)
+  - Reelfoot Lake Tennessee confirmed as filming location for In the Heat of the Night
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 12 facts verified · 0 corrections
+
+All key facts verified: 15,000 acres, only large natural lake in Tennessee, New Madrid earthquakes 1811-1812 created it, Lake and Obion Counties, average depth 5.5 ft max ~18 ft, National Natural Landmark 1966, spillway replacement 2013, In the Heat of the Night 1967 filming location confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

@@ -1,0 +1,65 @@
+# The Girl Puzzle: Nellie Bly's Monument on the Island Where She Went Undercover
+
+On the northern tip of Roosevelt Island, five seven-foot bronze faces and three mirrored steel spheres honor Nellie Bly -- the journalist who feigned insanity to expose the horrors of the asylum that once stood on this very ground.
+
+**Location:** 40.7726, -73.9404
+
+**Categories:** public-art, journalism, women-history, new-york, monument
+
+## Introduction
+
+On January 25, 1885, a twenty-year-old woman from a working-class family in Pittsburgh published her first newspaper article. It was a response to a misogynist column complaining about women wage-earners, and the editor of the Pittsburgh Dispatch liked it enough to offer her a job. She chose the pen name Nellie Bly, after a Stephen Foster song -- though the newspaper misspelled it, and the error stuck. Two years later, she would get herself committed to the notorious New York City Lunatic Asylum on Blackwell's Island, endure its abuse, and write the book that changed how America treated the mentally ill. A century and a half after that first article, a sculptural installation bearing its title stands at the northern tip of Roosevelt Island -- the very place once known as Blackwell's Island -- honoring the woman who made journalism a form of activism.
+
+## Ten Days in a Mad-House
+
+In 1887, Bly arrived in New York City and became the first female reporter for the New York World. Her editor gave her an assignment that would have seemed insane to anyone else: get admitted to the Blackwell's Island asylum, document what happened there, and get out alive. Assuming the name Nellie Brown, she began her performance at a boarding house for women, convincing the matron, the police, a judge, and finally the asylum's overworked psychiatrists that she had lost her mind. Once inside, she found filth, rancid food, ice-cold baths, and staff who treated patients with casual brutality. Women who were not mentally ill -- many of them immigrants who spoke little English -- had been committed and could not make themselves understood. After several days, Bly tried to tell the staff she was sane. They did not believe her. It took a lawyer sent by the New York World to secure her release. Her first article, "Behind Asylum Bars," ran on October 9, 1887. The city aldermen responded by allotting an extra one million dollars per year to reform the asylum system.
+
+## From Factory Workers to the World
+
+Bly's asylum investigation was not her first act of courage. At the Pittsburgh Dispatch, her articles exposing the conditions faced by women factory workers drew the fury of local industrialists, and she eventually left to work as a foreign correspondent in Mexico. At the New York World, she went on to circle the globe in seventy-two days, mostly traveling alone, beating the fictional record set by Jules Verne's Phileas Fogg. Over the course of her career she became an investigative journalist, a women's rights advocate, an inventor, and a patent holder. The monument's three stainless steel spheres represent these stages of her life, growing in size from two feet to four feet to six feet, symbolizing her amplifying voice. The largest sphere represents that journey around the world. For visitors, the mirrored surfaces allow them to see themselves reflected in the story -- a deliberate choice by artist Amanda Matthews.
+
+## Five Faces, Five Stories
+
+The installation's centerpiece is a row of five seven-foot bronze faces. One is Bly herself, cast in silver bronze as a young woman. The other four are rendered in broken sections, appearing as puzzle pieces -- faces that are simultaneously shattered and repaired. They are not portraits of specific historical figures but were inspired by women in the artist's own life: an Asian-American woman who at eighteen was imprisoned in the Rohwer War Relocation Center by executive order during World War II; an African-American mother who devoted herself to helping others after the death of her infant child; a young girl who was the subject of court cases in which she had no voice; and an older LGBTQ woman who has publicly advocated for civil rights. Words written by Nellie Bly are inscribed on the inside of each face, visible only to those who look closely -- providing clues to the stories of marginalized women across American history.
+
+## Between the Octagon and the Light
+
+The placement of the installation is as deliberate as its design. Lighthouse Park occupies the northern tip of Roosevelt Island, a 3.5-acre green space designed by landscape architect Nicholas Quennell in 1977 and anchored by a 50-foot stone lighthouse built in 1872 by asylum patients and listed on the National Register of Historic Places. At the park's southern edge stands the Octagon, the last surviving remnant of the original New York Insane Asylum -- the building Bly infiltrated. The Girl Puzzle's 60-foot walkway connects these two landmarks, binding the asylum's history to the lighthouse's endurance. The plaza evokes the essence of a Japanese Zen garden, honoring Bly's love of Japan, and includes fully ADA-accessible pathways with braille plaques and audio links describing each face. Officially opened on December 10, 2021 -- International Human Rights Day -- by Governor Kathy Hochul, the monument arrived a year later than planned, delayed by the COVID-19 pandemic. Amanda Matthews, who won the commission through an open call for artists, described Bly's legacy simply: she "gave a voice and a face to women who had no visibility or prominence in society."
+
+## Flight Context
+
+The Girl Puzzle is at the northern tip of Roosevelt Island in Lighthouse Park (40.7726N, 73.9404W), in the East River between Manhattan and Queens. From the air, Roosevelt Island is a narrow, two-mile-long strip running north-south in the East River, easily identifiable by the Ed Koch Queensboro Bridge crossing its southern section. Lighthouse Park is at the island's tapered northern end, with the stone lighthouse visible as a small point structure. Nearby airports: KLGA (LaGuardia, 7km NE), KJFK (John F. Kennedy, 20km SE), KEWR (Newark Liberty, 18km W). Best viewed at 1,500-3,000 feet AGL approaching from the north along the East River.
+
+## Sources
+
+- [The Girl Puzzle - Wikipedia](https://en.wikipedia.org/?curid=66965564)
+  - Nellie Bly's first article published January 25, 1885 in Pittsburgh Dispatch, confirmed
+  - Pen name Nellie Bly taken from a Stephen Foster song, confirmed
+  - 'Behind Asylum Bars' ran October 9, 1887, confirmed
+  - Bly assumed alias Nellie Brown at the asylum, confirmed
+  - City allotted extra funding to reform asylum system after her reporting, confirmed
+  - Monument opened December 10, 2021 on International Human Rights Day, confirmed
+  - Opened by Governor Kathy Hochul, confirmed
+  - Artist is Amanda Matthews, confirmed
+  - Five seven-foot bronze faces, confirmed
+  - Lighthouse Park northern tip of Roosevelt Island, confirmed
+  - Lighthouse built in 1872 by asylum patients, confirmed
+  - The Octagon is the last surviving remnant of the original asylum, confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 12 facts verified · 0 corrections
+
+Verified Nellie Bly's first article Jan 25 1885, 'Behind Asylum Bars' ran Oct 9 1887, monument opened Dec 10 2021 by Gov Hochul, artist Amanda Matthews, five seven-foot bronze faces, lighthouse built 1872. No corrections needed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Journalism described as 'a form of activism'
+- Bly 'gave a voice and a face to women who had no visibility or prominence in society'
+
+---
+
+*Word count: 810*
+*Read time: 4 minutes*

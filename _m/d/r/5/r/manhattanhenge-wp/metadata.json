@@ -546,5 +546,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr5r-manhattanhenge-flight-context.mp3",
+      "dr5r-manhattanhenge-intro.mp3",
+      "dr5r-manhattanhenge-twenty-nine-degrees-off-true.mp3",
+      "dr5r-manhattanhenge-a-childhood-visit-to-stonehenge.mp3",
+      "dr5r-manhattanhenge-full-sun-and-half-sun.mp3",
+      "dr5r-manhattanhenge-the-urban-canyon-effect.mp3",
+      "dr5r-manhattanhenge-a-city-of-accidental-temples.mp3"
+    ],
+    "durations": {
+      "dr5r-manhattanhenge-flight-context.mp3": 53.54125,
+      "dr5r-manhattanhenge-intro.mp3": 54.215375,
+      "dr5r-manhattanhenge-twenty-nine-degrees-off-true.mp3": 54.3892916,
+      "dr5r-manhattanhenge-a-childhood-visit-to-stonehenge.mp3": 52.8128333,
+      "dr5r-manhattanhenge-full-sun-and-half-sun.mp3": 48.84225,
+      "dr5r-manhattanhenge-the-urban-canyon-effect.mp3": 51.07575,
+      "dr5r-manhattanhenge-a-city-of-accidental-temples.mp3": 63.565125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

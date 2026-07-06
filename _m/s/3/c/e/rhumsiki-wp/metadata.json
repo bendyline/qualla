@@ -371,5 +371,24 @@
     "_m/s/3/c/e/rhumsiki-wp/moody-sunrise-in-rhumsiki.jpg",
     "_m/s/3/c/e/rhumsiki-wp/man-vs-wild-nature.jpg"
   ],
-  "updatedAt": "2026-03-31T05:02:43.885Z"
+  "updatedAt": "2026-03-31T05:02:43.885Z",
+  "narration": {
+    "files": [
+      "s3ce-rhumsiki-flight-context.mp3",
+      "s3ce-rhumsiki-intro.mp3",
+      "s3ce-rhumsiki-refuge-in-stone.mp3",
+      "s3ce-rhumsiki-the-view-everyone-describes.mp3",
+      "s3ce-rhumsiki-the-paradox-of-being-found.mp3",
+      "s3ce-rhumsiki-stone-pillars-at-sunset.mp3"
+    ],
+    "durations": {
+      "s3ce-rhumsiki-flight-context.mp3": 46.799125,
+      "s3ce-rhumsiki-intro.mp3": 44.2659583,
+      "s3ce-rhumsiki-refuge-in-stone.mp3": 58.82925,
+      "s3ce-rhumsiki-the-view-everyone-describes.mp3": 65.021375,
+      "s3ce-rhumsiki-the-paradox-of-being-found.mp3": 64.2354166,
+      "s3ce-rhumsiki-stone-pillars-at-sunset.mp3": 47.9372916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

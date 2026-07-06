@@ -1,0 +1,65 @@
+# Carnton
+
+A Tennessee plantation house that became a blood-soaked field hospital during the Battle of Franklin, where four Confederate generals' bodies were laid on the back porch and one woman devoted 41 years to tending the dead.
+
+**Location:** 35.9031, -86.8583
+
+**Categories:** historic-site, civil-war, plantation, battlefield
+
+## Introduction
+
+The bloodstains are still in the floor. In an upstairs bedroom of Carnton, a Federal-style plantation house in Franklin, Tennessee, dark splotches mark the pine boards where surgeons operated on wounded soldiers through the night of November 30, 1864. Blood soaked through the carpets and seeped into the wood so deeply that no amount of cleaning could remove it. On the back porch below, the bodies of four Confederate generals were laid side by side in the hours after the Battle of Franklin, one of the Civil War's most devastating engagements. More than 1,750 Confederate soldiers died that day, and Carnton, sitting less than a mile from the Union Army's eastern flank, became the principal field hospital. The woman who opened her home to the dying, Carrie McGavock, would spend the next four decades as the self-appointed guardian of their graves.
+
+## A Cairn in Tennessee
+
+Randal McGavock named his property after his father's birthplace in County Antrim, Ireland. The word Carnton derives from the Gaelic cairn, meaning a pile of stones, a term that sometimes marks a burial site. The name would prove grimly prophetic. McGavock built the first structure on the property, a smokehouse, in 1815, and completed the main house in 1826 using slave labor. The red brick Federal-style residence sat on 1,400 acres, 500 of which were farmed for wheat, corn, oats, hay, and potatoes. Randal served as Mayor of Nashville for a one-year term in 1824 and counted President Andrew Jackson as a close friend. Jackson, who lived at The Hermitage nearby, visited the McGavocks on more than one occasion. A rocking chair he gave the family still sits in the house today, along with the family's original 200-piece china set and a working clock on the parlor mantel.
+
+## Greek Revival and a Garden for a Bride
+
+When Randal died in 1843, his son John inherited Carnton and transformed it. In 1847, John added a two-story Greek Revival portico with four square Ionic columns to the front facade, and a rear gallery stretching the full length of the house with seven Doric columns. That same year, preparing for his marriage to his cousin Carrie Winder from Ducros Plantation in Thibodaux, Louisiana, John created an elaborate garden to the west of the house based on the writings of Andrew Jackson Downing, considered the father of American landscape architecture. Vegetable squares were surrounded by ornamental borders, and the garden was enclosed by a white picket fence and a high board fence on the north side, shielding the house's occupants from the outbuildings and the enslaved workers who moved about the grounds. The McGavocks also bred livestock and thoroughbred horses; Randal's daughter Elizabeth had married William Giles Harding of Belle Meade Plantation, which became an internationally renowned thoroughbred farm.
+
+## The Night the Floors Turned Dark
+
+The Battle of Franklin erupted on November 30, 1864, when Confederate forces under General John Bell Hood launched a massive frontal assault against entrenched Union positions. The fighting lasted five hours, producing some of the highest casualty rates of the entire war. With Carnton sitting just behind the Confederate lines, the wounded flooded in by the hundreds. Every room became a ward. The southern-facing bedroom served as the operating room, and the blood that pooled there stained the wood floors permanently. Outside on the gallery, with its graceful Doric columns, the bodies of Generals Patrick Cleburne, Hiram B. Granbury, John Adams, and Otho F. Strahl were arranged in a row for identification. The central passage downstairs still appears much as it did that terrible night, its wallpaper pattern a reproduction of the popular design that witnessed the carnage.
+
+## The Widow Who Kept Watch
+
+In the aftermath, many Union dead were reinterred at Stones River National Cemetery in Murfreesboro. But the Confederate fallen had no such organized burial ground. Over 18 months, their grave markers rotted or were taken for firewood, and the inscriptions faded. John and Carrie McGavock donated a portion of their land to create the McGavock Confederate Cemetery, and the citizens of Franklin raised funds to rebury the soldiers at five dollars per man. George Cuppett led the reburial of 1,481 soldiers in the spring of 1866; his brother Marcellus died during the effort and was buried alongside them. Cuppett recorded each soldier's name in a cemetery record book, and Carrie McGavock took possession of it. She maintained the cemetery for 41 years until her death in 1905. Her devotion to the dead inspired Robert Hicks's 2005 bestselling novel The Widow of the South. The house was listed on the National Register of Historic Places in 1973, and after decades of decline, was restored by the late 1990s. Today it is managed by the Battle of Franklin Trust as a museum.
+
+## Flight Context
+
+Located at 35.903N, 86.858W in Franklin, Tennessee, approximately 15 nm south of Nashville. Best viewed at 1,500-2,500 feet AGL. The red brick mansion and the adjacent McGavock Confederate Cemetery are visible in the suburban landscape south of downtown Franklin. Nearby airports include Nashville International (KBNA) approximately 18 nm northeast and Williamson County Regional (M33, now defunct; use Franklin area landmarks). The Harpeth River winds through the area as a visual reference, and the Franklin battlefield sites stretch to the northeast.
+
+## Sources
+
+- [Carnton - Wikipedia](https://en.wikipedia.org/?curid=12094312)
+- [McGavock Confederate Cemetery - Wikipedia](https://en.wikipedia.org/wiki/McGavock_Confederate_Cemetery)
+  - 1,481 Confederate soldiers buried confirmed
+  - George Cuppett led reburial in spring 1866 confirmed
+  - Carrie McGavock maintained cemetery until her death in 1905 (41 years) confirmed
+  - Largest private military cemetery in US by number of burials confirmed
+- [Carnton - Battle of Franklin Trust](https://boft.org/carnton-history)
+  - Four generals' bodies laid on back porch (Cleburne, Granbury, Adams, Strahl) confirmed
+  - Carnton served as largest field hospital after battle confirmed
+  - National Register listing 1973 confirmed
+  - Robert Hicks novel The Widow of the South 2005 bestseller confirmed
+  - Randal McGavock built main house 1826 confirmed
+  - John added Greek Revival portico 1847 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 8 facts verified · 0 corrections
+
+All key facts confirmed: four generals on back porch, 1481 soldiers in McGavock Confederate Cemetery, Carrie McGavock maintained cemetery 41 years until 1905, George Cuppett led reburial 1866, National Register 1973, Robert Hicks novel 2005. Managed by Battle of Franklin Trust confirmed.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- 'The bloodstains are still in the floor' -- stark opening serves as powerful hook but is factually supported
+- Carrie McGavock framed as 'self-appointed guardian' -- respectful editorial tone
+
+---
+
+*Word count: 800*
+*Read time: 4 minutes*

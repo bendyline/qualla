@@ -1,0 +1,54 @@
+# Matsugaoka: Where Samurai Became Silk Farmers
+
+After losing the Boshin War, over 3,000 former samurai of Shonai Domain traded their swords for mulberry seedlings and built Japan's largest silk cooperative on reclaimed mountain land -- and 64 descendant families still work there today.
+
+**Location:** 38.7003, 139.8861
+
+**Categories:** historic-site, agriculture, meiji-era, samurai, yamagata, japan
+
+## Introduction
+
+In 1872, a man named Suge Mitsuhide faced a problem that no amount of swordsmanship could solve. As a former senior retainer of Shonai Domain -- a domain that had backed the losing side in Japan's Boshin War -- he commanded thousands of unemployed samurai in a country that had just abolished the feudal system. The warrior class was obsolete overnight. Suge's answer was radical: clear the forested mountainside at the foot of Mount Gassan, plant it with mulberry trees, and turn his samurai into silk farmers. He organized 3,000 men into 34 companies, gave them axes instead of katanas, and marched them into the forest. The enterprise they built at Matsugaoka would become the largest sericulture cooperative in Meiji-era Japan.
+
+## Swords into Seedlings
+
+The scale of the Matsugaoka project was staggering. Suge began modestly in 1872, relocating the old post-station headquarters and recruiting 360 former samurai organized into six companies to cultivate the riverside of the Akagawa in Tsuruoka's eastern suburbs. But that was merely the prologue. Within months he had assembled 3,000 more men and set them to clearing 106 hectares of mountain forest at Gotayama. By 1873 an additional 204 hectares of mountainside had been stripped of trees. In 1874, across 311 hectares of newly open fields, workers planted 551,600 mulberry seedlings -- the food source for silkworms. The former daimyo of Shonai Domain, Sakai Tadaaki, visited the site and gave it its name: Matsugaoka, meaning "Pine Hill." The Meiji government watched approvingly. Raw silk was Japan's most important export commodity, the one product that could earn the foreign currency a modernizing nation desperately needed.
+
+## From Cocoons to Commerce
+
+By 1875 the first silkworms were raised at Matsugaoka, and their cocoons were shipped to the international trading port of Yokohama. Production of raw silk thread began the same year. Between 1875 and 1877, ten large rearing buildings were constructed on the site -- and in a detail that captures the era's upheaval perfectly, their roof tiles were salvaged from the demolished Tsuruoka Castle. The feudal fortress literally became the factory. A silk mill followed in 1887. While sericulture cooperatives sprang up across Meiji Japan, none approached Matsugaoka's scale. In 1881, the 458 households that remained with the project signed the "Matsuoka Company Pledge," formalizing their commitment. It was a rare thing: a community of former warriors who had genuinely reinvented themselves, bound now not by feudal loyalty but by a shared commercial enterprise.
+
+## The Samurai Legacy That Endured
+
+Silk's fortunes eventually waned. Synthetic fibers and the devastation of World War II eroded demand for Japanese raw silk dramatically. In 1947, Emperor Hirohito visited Matsugaoka -- a gesture that acknowledged both the site's historical significance and the resilience of its community. The visit came at a moment when the entire industry was contracting, yet the Matsugaoka families held on. Today, 64 families claiming direct descent from the original ex-Shonai samurai pioneers still live and work in the area. One of the original ten sericulture buildings has been preserved as a museum, furnished as it would have appeared during the early Meiji period, with displays on silkworm rearing and thread production. In 1989, the building and surrounding grounds were designated a National Historic Site of Japan, recognizing Matsugaoka as a place where the collision of feudal collapse and industrial ambition produced something genuinely lasting.
+
+## A Landscape Shaped by Reinvention
+
+From the air, the Matsugaoka area reads as a patchwork of cultivated fields and scattered structures at the base of the mountains south of Tsuruoka, with the sacred peak of Mount Gassan rising beyond. The land itself tells the story: where dense forest once covered the slopes, orderly agricultural plots now stretch across what 3,000 samurai cleared by hand over 150 years ago. The Akagawa River traces the northern edge of the old reclamation zone. The site sits roughly 20 minutes by car from Tsuruoka Station on the JR East Uetsu Main Line, in a landscape that still carries the geometry of Suge Mitsuhide's grand experiment -- straight rows of cultivated ground running up against the wild mountain ridges of the Dewa range.
+
+## Flight Context
+
+Located at 38.70°N, 139.89°E at the eastern foot of the Dewa Mountains near Tsuruoka, Yamagata Prefecture. The reclamation area spreads across cleared agricultural land at the base of Mount Gassan (1,984 m), visible as a prominent peak to the south. The Shonai Plain stretches north and west toward the Sea of Japan. Shonai Airport (RJSY) lies approximately 15 nautical miles to the northwest along the coast. Yamagata Airport (RJSC) is roughly 50 nautical miles to the southeast beyond the mountain range. The Akagawa River and the grid pattern of the reclaimed agricultural fields provide ground-level visual references.
+
+## Sources
+
+- [Matsugaoka Land Reclamation Area - Wikipedia](https://en.wikipedia.org/?curid=64718819)
+- [Matsugaoka Reclamation Land - Japan Heritage Samurai-Yukarino-Silk](https://samurai-yukarino-silk.jp/en/cultural_properties/matsugaoka_reclamation_land/)
+  - Reclamation began 1872 with over 3,000 former samurai
+  - 225 hectares cleared and mulberry trees cultivated
+  - 1874: 551,600 mulberry seedlings planted across 311 hectares
+  - 1875: first silkworms raised and cocoons shipped to Yokohama
+  - Designated National Historic Site of Japan in 1989
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 8 facts verified · 0 corrections
+
+3,000 samurai in reclamation project 1872 verified. 551,600 mulberry seedlings in 1874 confirmed. First silkworms 1875 verified. National Historic Site designation 1989 confirmed. Sakai Tadaaki naming the site Matsugaoka verified. Added sources and editorial.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

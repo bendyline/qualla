@@ -83,5 +83,26 @@
   ],
   "galleryPaths": [
     "_m/w/j/h/b/battle-of-walong-wp/helmet-top-memorial-wa.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wjhb-battle-of-walong-flight-context.mp3",
+      "wjhb-battle-of-walong-intro.mp3",
+      "wjhb-battle-of-walong-a-line-drawn-in-1914.mp3",
+      "wjhb-battle-of-walong-four-weeks-of-fighting.mp3",
+      "wjhb-battle-of-walong-the-last-stand-on-west-ridge.mp3",
+      "wjhb-battle-of-walong-helmets-on-the-mountain.mp3",
+      "wjhb-battle-of-walong-what-the-mountain-remembers.mp3"
+    ],
+    "durations": {
+      "wjhb-battle-of-walong-flight-context.mp3": 45.004375,
+      "wjhb-battle-of-walong-intro.mp3": 52.7858333,
+      "wjhb-battle-of-walong-a-line-drawn-in-1914.mp3": 53.6441666,
+      "wjhb-battle-of-walong-four-weeks-of-fighting.mp3": 54.9827083,
+      "wjhb-battle-of-walong-the-last-stand-on-west-ridge.mp3": 60.4587916,
+      "wjhb-battle-of-walong-helmets-on-the-mountain.mp3": 62.8862916,
+      "wjhb-battle-of-walong-what-the-mountain-remembers.mp3": 62.0264166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -52,5 +52,24 @@
     "sourceGeohash4": "v405"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "v405-kitezh-flight-context.mp3",
+      "v405-kitezh-intro.mp3",
+      "v405-kitezh-two-cities-and-a-khan.mp3",
+      "v405-kitezh-the-waters-rise.mp3",
+      "v405-kitezh-bells-under-water.mp3",
+      "v405-kitezh-from-opera-houses-to-video-games.mp3"
+    ],
+    "durations": {
+      "v405-kitezh-flight-context.mp3": 50.68125,
+      "v405-kitezh-intro.mp3": 45.9556666,
+      "v405-kitezh-two-cities-and-a-khan.mp3": 60.564875,
+      "v405-kitezh-the-waters-rise.mp3": 53.7242916,
+      "v405-kitezh-bells-under-water.mp3": 48.5147083,
+      "v405-kitezh-from-opera-houses-to-video-games.mp3": 62.9374166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

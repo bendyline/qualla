@@ -1,0 +1,58 @@
+# Cal Orck'o: Where 68 Million Years Walked Uphill
+
+A limestone cliff near Sucre, Bolivia holds over 12,000 dinosaur footprints from nine different species - the largest such collection on Earth - preserved when tectonic forces tilted a Cretaceous lakebed nearly vertical.
+
+**Location:** -19.0028, -65.2372
+
+**Categories:** paleontology, fossils, dinosaurs, national-monuments, geological-sites, bolivia
+
+## Introduction
+
+Sixty-eight million years ago, this was a lakeshore. Theropods stalked the muddy banks. Sauropods lumbered along the water's edge, their massive feet sinking deep into soft sediment. Ankylosaurs plodded through on shorter legs, leaving their distinctive four-toed prints. Then the mud dried, hardened, and was buried under new layers of sediment - and the memory of those passing animals was sealed in stone. Millions of years later, the Andes began to rise, and the flat lakebed tilted. What had been horizontal became nearly vertical: a 300-foot-high limestone cliff face outside the Bolivian city of Sucre, bearing over 12,000 individual dinosaur tracks. Cal Orck'o - Quechua for "lime hill" - is the largest dinosaur tracksite on Earth.
+
+## Discovered by Dynamite
+
+The tracks owe their discovery to the cement industry. In 1994, workers quarrying limestone for FANCESA - Fabrica Nacional de Cemento S.A. - blasted into the cliff face and exposed the first footprints. The quarrying that revealed the tracks also threatened them, but the site's extraordinary significance quickly became apparent. Between 1998 and 2015, high-resolution mapping documented 12,092 individual tracks arranged in 465 distinct trackways across a surface area of approximately 65,000 square meters. Nine different morphotypes were identified, representing theropods, ornithopods, ankylosaurs, and sauropods. Sauropod tracks alone account for 26 percent of the total trackways. One sauropod morphotype, designated Calorckosauripus lazari, was named after the site itself - a species known to science only from the impressions its feet left in Bolivian mud during the Late Cretaceous.
+
+## The Physics of Preservation
+
+How do footprints survive 68 million years? At Cal Orck'o, the answer involves a specific sequence of conditions. The lakeshore's oolitic fossiliferous limestone provided a surface firm enough to hold shape but soft enough to take deep impressions. Alternating wet and dry weather patterns were critical: each period of drying baked the tracks into harder material, while subsequent wet periods deposited new sediment layers that sealed them from erosion. The presence of freshwater stromatolites - layered structures built by microbial colonies - confirms that the lake had active biological processes that contributed to sediment stability. Over millions of years, the flat lakebed was compressed into rock. Then the tectonic forces that raised the Andes tilted the entire formation, rotating what had been a horizontal surface into the near-vertical wall that confronts visitors today.
+
+## A Gallery of Cretaceous Life
+
+The trackways at Cal Orck'o read like a census of Late Cretaceous fauna. Theropod prints show the sharp, three-toed pattern of bipedal predators - animals that walked on two legs and likely hunted along the lakeshore. Ornithopod tracks, blunt-toed and broader, belonged to herbivorous dinosaurs that grazed the vegetation. The sauropod prints are the most dramatic: large oval rear-foot impressions paired with smaller front-foot marks, tracing the paths of the largest animals ever to walk the Earth. Two distinct sauropod track types have been documented - one attributed to titanosaurids, narrow-gauge walkers that kept their feet close to the body's centerline, and the other, Calorckosauripus lazari, likely belonging to a more primitive titanosaur. Ankylosaur tracks, with their characteristic four-toed pattern, round out the picture of a diverse ecosystem gathered at a single water source.
+
+## Monument and Museum
+
+Cal Orck'o was declared a National Monument in 1998, four years after its discovery. The FANCESA Paleontological Reserve now protects the site, and Parque Cretacico - the Cretaceous Park - offers guided tours, educational exhibits, and close-up views of track sections that would otherwise require scaling a cliff. The park sits on UNESCO's Tentative List for World Heritage status, recognition of both the site's scientific importance and its vulnerability. In 2010, a large section of the track wall collapsed, a reminder that the same geological forces that exposed the prints continue to reshape the cliff. Extensive photographic documentation, completed during the mapping campaigns, ensures that the scientific record survives even if the rock does not. The site lies just 4.4 kilometers from the center of Sucre, an easy excursion from a city better known for colonial architecture than for paleontology - a juxtaposition that captures something essential about Bolivia, where deep time and human history lie improbably close together.
+
+## Flight Context
+
+Located at 19.003S, 65.237W, approximately 4.4 km northwest of Sucre, Bolivia, at roughly 2,800 meters (9,200 feet) elevation. The limestone cliff face - nearly vertical and approximately 300 feet high - is the dominant feature, visible from the air as a pale scar on the hillside. The FANCESA cement quarry adjacent to the site provides additional visual reference. Nearest airport: Alcantari Airport (SLAL), approximately 32 km southeast. Best viewed at 10,000-12,000 feet to see the cliff face's scale and its proximity to Sucre's colonial center. The track-bearing wall faces roughly south-southwest.
+
+## Sources
+
+- [Cal Orck'o - Wikipedia](https://en.wikipedia.org/?curid=49434674)
+  - 12,092 individual tracks in 465 trackways confirmed
+  - Nine different morphotypes confirmed
+  - Sauropods 26% of trackways confirmed
+  - Discovered 1994 during FANCESA quarrying confirmed
+  - Declared National Monument 1998 confirmed
+  - Surface area ~65,000 square meters confirmed
+  - Calorckosauripus lazari sauropod species confirmed
+  - Section of wall collapsed in 2010 confirmed
+  - 4.4 km from Sucre center confirmed
+  - Corrected: Airport ICAO code changed from SLSU (old closed airport) to SLAL (Alcantari), and distance/direction corrected from 28 km southwest to 32 km southeast
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 9 facts verified · 2 corrections
+
+Corrected airport ICAO code from SLSU (old closed airport) to SLAL (Alcantari Airport). Corrected distance/direction from 28km southwest to 32km southeast. All other facts verified: 12092 tracks, 465 trackways, 9 morphotypes, discovered 1994 FANCESA, declared monument 1998, wall collapse 2010.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

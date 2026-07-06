@@ -108,5 +108,24 @@
   "galleryPaths": [
     "_m/u/s/2/m/operation-paravane-wp/60-00-76-00-39-00-x-ex.jpg",
     "_m/u/s/2/m/operation-paravane-wp/no-617-squadron-lancas.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "us2m-operation-paravane-flight-context.mp3",
+      "us2m-operation-paravane-intro.mp3",
+      "us2m-operation-paravane-what-the-fleet-air-arm-could-not-finish.mp3",
+      "us2m-operation-paravane-lancasters-over-the-arctic.mp3",
+      "us2m-operation-paravane-ten-minutes-of-smoke.mp3",
+      "us2m-operation-paravane-a-ship-beyond-saving.mp3"
+    ],
+    "durations": {
+      "us2m-operation-paravane-flight-context.mp3": 42.0869583,
+      "us2m-operation-paravane-intro.mp3": 42.881625,
+      "us2m-operation-paravane-what-the-fleet-air-arm-could-not-finish.mp3": 73.05075,
+      "us2m-operation-paravane-lancasters-over-the-arctic.mp3": 63.73625,
+      "us2m-operation-paravane-ten-minutes-of-smoke.mp3": 69.945875,
+      "us2m-operation-paravane-a-ship-beyond-saving.mp3": 82.620125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

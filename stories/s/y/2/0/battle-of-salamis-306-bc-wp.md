@@ -1,0 +1,63 @@
+# Battle of Salamis (306 BC)
+
+A decisive naval battle off Cyprus where Demetrius destroyed Ptolemy's fleet and triggered the age of Hellenistic kingship.
+
+**Location:** 35.1667, 33.9167
+
+**Categories:** ancient-battles, hellenistic-period, naval-warfare, cyprus
+
+## Introduction
+
+When Demetrius raised a gilded shield at dawn and his fleet charged toward Ptolemy's warships off the coast of Salamis, he was twenty-nine years old and gambling everything on a single engagement. The year was 306 BC. Alexander the Great had been dead for seventeen years, and his empire had shattered into warring fragments controlled by his former generals -- the Diadochi. What happened that morning in the waters off eastern Cyprus would not merely decide who controlled a strategic island. It would determine whether anyone dared call himself king again.
+
+## An Island Worth Fighting For
+
+Cyprus had been seized by Ptolemy I Soter, ruler of Egypt, who used it as a forward base to raid Antigonid territories along the coasts of Syria and Asia Minor. For Antigonus I Monophthalmus, the one-eyed dynast who controlled most of the eastern Mediterranean, this was intolerable. In early 306 BC, he sent his son Demetrius to take the island. Demetrius sailed from Athens with 30 Athenian quadriremes, gathered reinforcements in Cilicia, and crossed to Cyprus with 15,000 infantry, 400 cavalry, and a fleet of over 160 warships. Opposing him was Ptolemy's brother Menelaus, commanding 12,000 infantry, 800 cavalry, and 60 ships. The stage was set for what would become the largest naval engagement since Alexander's conquests.
+
+## The Besieger's First Siege
+
+Demetrius landed on the Karpas Peninsula and marched on Salamis, defeating Menelaus in an initial land battle that cost the defenders 1,000 dead and 3,000 captured. Menelaus retreated behind the city walls, and Demetrius began the first of the sieges that would earn him the nickname Poliorcetes -- "the Besieger." He ordered the construction of enormous siege engines: two battering rams shielded by protective canopies, and a massive nine-level helepolis bristling with catapults and ballistae, crewed by over 200 men. The machines breached Salamis's walls, and Demetrius's assault nearly succeeded before nightfall halted the fighting. During the night, Menelaus's men gathered flammable material and set the largest siege engines ablaze. But the real contest was already shifting from land to sea: Ptolemy himself was sailing from Alexandria with 140 warships and 200 troop transports.
+
+## A Race Between Two Fleets
+
+Ptolemy's plan was straightforward -- combine his 140 ships with Menelaus's 60, then overwhelm Demetrius with superior numbers. Demetrius saw the trap and positioned his fleet outside Salamis harbor, bottling up Menelaus while facing Ptolemy's approaching armada. It was a calculated gamble: he had to destroy Ptolemy before Menelaus could break out and attack from behind. As historian Richard Billows writes, the battle became "a race to see which of the two dynasts could first defeat the enemy's right wing and turn to attack the enemy's center." Demetrius concentrated his heaviest ships -- seven Phoenician heptereis, the Athenian squadron, and twenty more warships -- on his left wing under Admiral Medius of Larissa, with himself aboard his flagship. When the two fleets were three stadia apart, both commanders raised gilded shields as the signal to attack.
+
+## Blood in the Harbor
+
+The engagement was savage. Ptolemy's men boarded Demetrius's flagship, and the young commander fought them off personally with javelin and spear. One of his three bodyguards was killed; the other two were badly wounded. The Athenian ships fought with enough distinction that Demetrius later awarded Athens 1,200 suits of captured armor in gratitude. Both left wings won their respective contests, but Demetrius won the decisive race. By the time Ptolemy turned from his own victory to attack the Antigonid center, he found his fleet shattered and fleeing. Menelaus's ships finally broke through the harbor blockade under Menoetius's command, only to arrive too late. Ptolemy lost at least 80 ships and had 40 more captured intact; some 8,000 of his soldiers were taken prisoner along with over 100 transports. Demetrius had just 20 ships damaged, all repairable.
+
+## The Return of Kings
+
+Ptolemy retreated to Egypt. Menelaus surrendered Salamis and its garrison, adding 16,000 infantry and 800 cavalry to Demetrius's forces. Yet the battle's most lasting consequence had nothing to do with ships or soldiers. When news reached Antigonus, he proclaimed himself king -- basileus -- the royal title that had been vacant since the murder of Alexander's young son in 309 BC. Demetrius became co-king. Within months, every other Diadochi followed, declaring themselves monarchs of their own domains. The age of Hellenistic kingship had begun. Even the chivalry of the era persisted: despite their bitter rivalry, Ptolemy and Demetrius repeatedly released each other's captured relatives unharmed. Modern scholars have suggested that the Nike of Samothrace -- now standing headless in the Louvre -- may have been erected to commemorate this very battle, a monument to victory carved in marble and set upon a stone ship's prow.
+
+## Flight Context
+
+Located at 35.17N, 33.92E off the eastern coast of Cyprus near the ruins of ancient Salamis, just north of modern Famagusta. The site is visible from altitude as the flat coastal plain meets the Mediterranean. The Karpas Peninsula extends to the northeast. Nearest airports include Ercan International Airport (LCEN) approximately 40 km to the west. The ruins of Salamis are visible along the coast as an archaeological site with remnants of Roman-era columns and structures.
+
+## Sources
+
+- [Battle of Salamis (306 BC) - Wikipedia](https://en.wikipedia.org/?curid=890934)
+  - Corrected: Demetrius had 15,000 infantry and 400 cavalry (not 500)
+  - Demetrius fleet of over 160 warships confirmed
+  - Ptolemy arrived with 140 warships and 200 troop transports
+  - Ptolemy's brother Menelaus commanded 12,000 infantry, 800 cavalry, 60 ships
+  - Ptolemy lost 80 ships with 40 captured; Demetrius had only 20 damaged
+  - Antigonus proclaimed himself king after learning of the victory
+  - Demetrius became co-king; all Diadochi followed suit
+  - Alexander's son murdered 309 BC — royal title had been vacant
+- [Demetrius I Poliorcetes - Wikipedia](https://en.wikipedia.org/wiki/Demetrius_I_Poliorcetes)
+  - Demetrius was 29 years old at the time of the battle
+  - Earned nickname Poliorcetes (the Besieger) from siege warfare
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 9 facts verified · 1 correction
+
+Corrected Demetrius cavalry count from 500 to 400 (Wikipedia Battle of Salamis 306 BC confirms 400). Ptolemy 140 warships + 200 transports confirmed. Ptolemy lost 80 ships with 40 captured confirmed. Antigonus proclaimed king after battle confirmed. Diadochi all taking royal titles confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

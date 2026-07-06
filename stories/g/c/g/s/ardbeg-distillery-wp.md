@@ -1,0 +1,68 @@
+# Ardbeg Distillery
+
+A distillery on Islay's south coast that sent its whisky to the International Space Station, sold a single cask for sixteen million pounds, and inspired a Finnish composer to write a symphony.
+
+**Location:** 55.6405, -6.1083
+
+**Categories:** distilleries, scotland, whisky, islay
+
+## Introduction
+
+In 2011, twenty vials of Ardbeg spirit and oak wood particles were launched to the International Space Station. The experiment was straightforward: investigate how the interaction between whisky and wood behaves in microgravity. The vials orbited the Earth for three years before returning on 12 September 2014. It was an eccentric project, but it suited a distillery that has never quite fit the conventional mold. Ardbeg sits on a small promontory -- An Aird Bheag, "The Small Promontory" in Gaelic -- on the south coast of Islay, producing whisky since 1798 and making a particular virtue of extremity. Where other distilleries aim for balance, Ardbeg embraces intensity.
+
+## Two Centuries on the Promontory
+
+Commercial production began in 1815, but distillation on the site dates to at least 1798. For most of its history, Ardbeg's heavily peated spirit was blended anonymously into other whiskies -- a powerful flavoring ingredient rather than a product in its own right. By 1886, the distillery was producing 300,000 gallons per year and employing sixty workers. The twentieth century brought decline. Ownership changed repeatedly, and the distillery fell silent. Revival came in 1997, when Glenmorangie plc purchased and reopened it, with limited production resuming on 25 June of that year and full production following in 1998. Glenmorangie was subsequently acquired by LVMH in 2004, placing Ardbeg under the same corporate umbrella as Louis Vuitton and Moet Hennessy -- a rather unlikely home for a rugged Hebridean distillery, but one that has funded its ambitions.
+
+## The Sixteen-Million-Pound Cask
+
+In July 2022, Ardbeg sold a 1975 cask to a private collector for sixteen million pounds, shattering the previous world record for a single cask sale -- a record held by Macallan at one million. The figure is staggering, but it reflects a broader phenomenon in the whisky world: aged single casks from iconic distilleries have become alternative investments, collected by people who may never taste their contents. What makes Ardbeg casks particularly sought after is the combination of rarity and character. Ardbeg's production was interrupted or reduced for decades during the twentieth century, meaning that older vintages exist in very small quantities. Each cask is singular -- shaped by the original spirit, the type of wood, the warehouse conditions, and the decades of quiet chemistry that transform raw distillate into something irreplaceable.
+
+## Smoke, Spice, and Chocolate
+
+Ardbeg uses malted barley sourced from the maltings in Port Ellen, at the other end of Islay's south coast. The barley is heavily peated, giving the spirit its signature smokiness. But compared to other Islay malts, Ardbeg is distinctive for what lies beneath the peat: aromas of spice, malt, vanilla, and chocolate rather than the briny, maritime character that defines some of its neighbors. The core range includes the Ardbeg TEN, Wee Beastie, An Oa, Uigeadail -- named after the loch in the hills four kilometres north of the distillery that supplies its water -- and Corryvreckan, named after the famous whirlpool between Jura and Scarba. The distillery has won repeated international accolades, including World Whisky of the Year in Jim Murray's Whisky Bible in 2008, 2009, and 2010.
+
+## The Sound of Peat
+
+Finnish composer Osmo Tapio Raihala visited Ardbeg and was moved to write a symphonic poem: "Ardbeg -- The Ultimate Piece For Orchestra," composed in 2003 and recorded by the Finnish Radio Symphony Orchestra in 2011. It is perhaps the only distillery in the world that has inspired orchestral music. The connection makes a strange kind of sense. There is something symphonic about the way Ardbeg layers its flavors -- the deep bass note of peat smoke, the midrange warmth of spice and chocolate, the high clear finish that cuts through everything else. The distillery operates with just two pot stills -- a wash still of about 18,000 litres and a spirit still of about 17,000 -- producing a surprisingly large output for such a compact setup. A new still house, under construction since 2018, will double capacity. About sixty people work at the distillery, many living in accommodation provided on site. On an island of three thousand residents, that makes Ardbeg not just a whisky producer but a community anchor, as it has been since the eighteenth century.
+
+## Flight Context
+
+Located at 55.64N, 6.11W on the south coast of Islay, in the Inner Hebrides. Ardbeg sits on a small headland between Lagavulin to the west and the open sea to the east, part of the famous trio of southern Islay distilleries (Ardbeg, Lagavulin, Laphroaig). Islay Airport (EGPI) is approximately 15 km to the west. The distillery buildings are visible from the air along the coastal road. Port Ellen, the island's ferry terminal, lies about 5 km to the west.
+
+## Sources
+
+- [Ardbeg distillery - Wikipedia](https://en.wikipedia.org/?curid=1259117)
+  - distillation on site dates to at least 1798
+  - commercial production began 1815
+  - producing 300,000 gallons per year by 1886 employing 60 workers
+  - Glenmorangie plc purchased and reopened 1997
+  - limited production resumed 25 June 1997
+  - full production resumed 1998
+  - Glenmorangie acquired by LVMH 28 December 2004
+  - space station experiment: 20 vials launched 2011, returned 12 September 2014
+  - 1975 cask sold July 2022 for £16 million (world record for single cask)
+  - barley sourced from Port Ellen maltings
+  - Uigeadail loch four kilometres north of distillery supplies water
+  - Corryvreckan whirlpool between Jura and Scarba
+  - World Whisky of the Year Jim Murray's Whisky Bible 2008 2009 2010
+  - Finnish composer Osmo Tapio Raihala wrote symphonic poem 2003, recorded 2011
+  - wash still approximately 18,000 litres, spirit still approximately 17,000 litres
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 13 facts verified · 0 corrections
+
+Verified distillation since 1798, commercial production 1815, Glenmorangie purchase 1997, LVMH acquisition 2004, ISS experiment 2011 return Sept 2014, 1975 cask sold July 2022 for £16m world record, barley from Port Ellen maltings, Osmo Tapio Raihala symphony 2003 recorded 2011, Corryvreckan between Jura and Scarba, still sizes ~18k/17k litres. No errors. Spiciness 3.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- the article frames Ardbeg as distinctive for 'embracing intensity' where others 'aim for balance'
+- the £16 million cask sale framed as collectors who 'may never taste their contents'
+
+---
+
+*Word count: 760*
+*Read time: 4 minutes*

@@ -1,0 +1,67 @@
+# Sans-Souci Palace
+
+Built on the site where its builder murdered a rival, this Haitian palace was designed by a formerly enslaved king to prove that Black sovereignty could produce architecture to rival anything in Europe.
+
+**Location:** 19.6047, -72.2186
+
+**Categories:** heritage, palace, UNESCO, Caribbean, revolution, architecture
+
+## Introduction
+
+The name means "carefree" in French. It was also the name of the man Henri Christophe had bayoneted to death on this very spot. Colonel Jean-Baptiste Sans Souci, an African-born guerrilla leader who had fought the French since 1791, refused to join Christophe's ranks after the revolution. When Christophe lured him to the Grand Pre plantation under a flag of truce, his guards killed Sans Souci and his small retinue. A few years later, Christophe built his royal palace just yards from where his rival fell -- perhaps directly over the site -- and gave it the dead man's name. Whether this was an act of erasure or a kind of dark tribute, no one can say for certain. But the palace that rose from that ground between 1810 and 1813 became the most ambitious architectural statement in the post-revolutionary Caribbean: proof that formerly enslaved people could build a kingdom, not just win a war.
+
+## A Kingdom Built from Nothing
+
+Henri Christophe was born enslaved. He fought in the Haitian Revolution, the only slave uprising in history to produce an independent nation, and after independence declared himself King Henri I of the northern kingdom. He commissioned nine palaces, fifteen chateaux, numerous forts, and sprawling summer homes across twenty plantations. Sans-Souci was the crown jewel. Designed by his military engineer Henri Barre, the palace featured immense gardens, artificial springs, and an elaborate waterworks system. The residence housed the king, Queen Marie-Louise, their children, and a full court of advisors. Foreign visitors marveled at its grandeur. One American physician wrote that it had "the reputation of having been one of the most magnificent edifices of the West Indies." Christophe was building more than a home. He was building an argument -- that Black people, freshly liberated from bondage, could create civilization to match anything the European powers had produced.
+
+## The Ghost in the Name
+
+Haitian historian Michel-Rolph Trouillot spent years untangling the palace's name. Western scholars long assumed Christophe was imitating Frederick the Great's Sanssouci in Potsdam, casting a Black king as a copyist of European grandeur. Trouillot calls this unfounded -- an "accident product of historical silence." Haitian architect Patrick Delatour, who worked on restoring the palace, insisted its design resembles French urban planning, not German. Austro-German geographer Karl Ritter, who visited just eight days after Christophe's death, described it as "European" but never once mentioned Potsdam. The real link, Trouillot argues, runs not to Prussia but to the man buried beneath its foundations. In Dahoman oral tradition, a king builds on the ground where he killed his enemy -- a practice that transforms a site of violence into a monument of power. Christophe, whose actions aligned with these narratives, may have been following a logic far older than the Enlightenment.
+
+## Opulence and Ruthlessness
+
+The palace was a place of contradiction. Under its roof, Christophe hosted opulent feasts and dances that astonished visiting diplomats. Outside, an unknown number of laborers died during its construction -- contemporaries noted the king's ruthlessness without recording the cost in lives. The site itself held layers of irony: before it was a palace, it was a French plantation. Before Christophe was a king, he had worked these same fields. The man who built one of the Caribbean's finest buildings had once been considered property on the land where it stood. Close to the palace, a trail leads uphill to the Citadelle Laferriere, the massive mountaintop fortress Christophe built to repel a French invasion that never came. Together, the palace and the citadelle formed the architectural heart of a kingdom that lasted barely a decade.
+
+## The Silver Bullet
+
+On August 15, 1820, a stroke left Christophe partially paralyzed. His grip on power weakened rapidly. Less than two months later, on October 8, he shot himself with a silver bullet on the grounds of his palace. The kingdom collapsed. The palace was never maintained. An earthquake in 1842 devastated northern Haiti and accelerated the ruin. Today Sans-Souci stands as an empty shell -- walls without roofs, staircases leading to open sky, gardens reclaimed by tropical growth. UNESCO designated the palace and the Citadelle as World Heritage Sites in 1982, calling them global symbols of liberty. Yet the palace remains, in the words of one assessment, "seldom visited by foreigners" due to decades of instability in Haiti. It is one of the most remarkable ruins in the Western Hemisphere, and one of the least seen.
+
+## What the Ruins Say
+
+The palace tells at least three stories at once. There is the story of revolutionary ambition -- enslaved people who overthrew their masters and built a nation with palaces and fortresses. There is the story of power's corruption -- a king who murdered rivals and drove laborers to their deaths. And there is the story of historical silence, the way the world chose to remember Sans-Souci as a French word meaning "carefree" rather than as the name of the man killed so the palace could rise. Trouillot wrote that history is not simply what happened but what gets remembered, and Sans-Souci is a monument to both. The walls still stand in the green hills of northern Haiti, five kilometers from the Citadelle, thirteen from the coast. They are crumbling, magnificent, and full of ghosts.
+
+## Flight Context
+
+Coordinates: 19.605N, 72.219W, in the mountains of northern Haiti near the town of Milot. The Citadelle Laferriere is a massive stone fortress visible on a nearby mountaintop from considerable distance, serving as the primary visual landmark. Sans-Souci Palace ruins sit in the valley below. Nearest major airport: MTCH (Cap-Haitien International Airport), approximately 12 nautical miles to the north. Terrain is mountainous and heavily forested. Best viewed at 5,000-10,000 feet to appreciate both the palace ruins and the citadelle above.
+
+## Sources
+
+- [Sans-Souci Palace - Wikipedia](https://en.wikipedia.org/?curid=7551510)
+  - Sans-Souci Palace built between 1810 and 1813 confirmed
+  - Henri Christophe born enslaved confirmed
+  - Christophe declared himself King Henri I confirmed
+  - Colonel Jean-Baptiste Sans Souci killed by Christophe confirmed
+  - Christophe suffered stroke August 15, 1820 confirmed
+  - Shot himself with silver bullet October 8, 1820 confirmed
+  - UNESCO World Heritage designation 1982 confirmed
+  - 1842 earthquake damaged palace, which was never rebuilt confirmed
+  - Haitian historian Michel-Rolph Trouillot's analysis of the name confirmed
+  - Karl Ritter visited 8 days after Christophe's death confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-12 · 10 facts verified · 0 corrections
+
+All facts verified: palace built 1810-1813, Christophe born enslaved, crowned King Henri I, Jean-Baptiste Sans Souci killed by Christophe, stroke Aug 15 1820, shot himself with silver bullet Oct 8 1820, UNESCO 1982, 1842 earthquake, Trouillot analysis confirmed. Empathy excellent - 'formerly enslaved people', 'enslaved people'. Spiciness 4.
+
+**Spiciness:** 4/5
+
+**Strong opinions:**
+
+- The palace tells at least three stories at once
+- Trouillot wrote that history is not simply what happened but what gets remembered
+
+---
+
+*Word count: 820*
+*Read time: 4 minutes*

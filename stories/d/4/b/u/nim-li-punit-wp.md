@@ -1,0 +1,56 @@
+# Nim Li Punit
+
+A Maya city named 'Big Hat' after the towering headdress on one of its carved stelae, where astronomers tracked solstices and jaguars still roam the surrounding jungle.
+
+**Location:** 16.3167, -88.8000
+
+**Categories:** belize, maya-archaeology, ancient-cities, pre-columbian, toledo-district
+
+## Introduction
+
+The stela shows a king wearing a headdress so enormous it dwarfs the figure beneath it -- an elaborate crown of feathers, jade, and carved stone that soars upward like a second monument balanced on the ruler's head. The Q'eqchi' Maya who knew the ruins long before any archaeologist arrived called the place Nim Li Punit: "Big Hat." It is the kind of name that sticks because it is so precisely right. Located in Belize's Toledo District, 50 kilometers north of Punta Gorda and adjacent to the village of Indian Creek, this Classic Period city left behind 26 stelae -- the most of any site in Belize -- and a story written in stone that spans the decades from 721 to 790 AD.
+
+## Carved in Calendar Rounds
+
+Nim Li Punit's stelae are its defining feature. At least six carry actual Maya calendar dates, providing one of the most precise chronological records in southern Belize. The inscriptions document the site's active period between 721 and 790 AD, a window of barely 70 years during which its rulers commissioned monument after monument. Barbara McLeod of the University of Texas at Austin produced the first detailed analyses of the stelae inscriptions after Norman Hammond's initial investigation in 1976, and in 2015, a tomb excavation directed by Geoffrey Braswell of the Toledo Regional Interaction Project unearthed a large jade pendant inscribed with Maya hieroglyphs -- a find that confirmed the site's connections to broader Maya political networks. The pendant and the stelae together tell of a city that, while modest in size, commanded genuine authority in its corner of the Maya world.
+
+## Observatory on a Hilltop
+
+Within the Plaza of the Stelae in the South Group, archaeologists identified an E-Group geometry -- an architectural arrangement designed for astronomical observation. Several monuments positioned before a long terrace called Structure One mark the locations of solstices and equinoxes, turning the plaza into a calendar built from stone and sunlight. Unlike its neighbor Lubaantun, where buildings were constructed from dry-stacked black slate, Nim Li Punit's builders used mortar to cement their stone structures. The elaborate notched jointing found at Lubaantun is absent here; the two cities, only kilometers apart, developed distinctly different architectural traditions. Obsidian artifacts found at both sites originated primarily from El Chayal and Ixtepeque in the Guatemalan highlands, evidence of trade networks that stretched hundreds of kilometers from the Caribbean lowlands into the volcanic interior.
+
+## Five Thousand Voices in the Forest
+
+At its peak during the Late Classic period, Nim Li Punit supported an estimated 5,000 to 7,000 people. Early residents likely migrated from Guatemala, and the population is thought to have spoken a dialect of Cholan, the language family common across the Maya heartland. The city aligned politically with major settlements such as Tikal in the Peten Basin. Then, like so many Maya centers, Nim Li Punit was abandoned suddenly in the ninth century -- probably when overpopulation exceeded the carrying capacity of the milpa farming system that sustained the region. The jungle reclaimed the plazas. Today, the surrounding broadleaf tropical rainforest teems with the species that would have been familiar to Nim Li Punit's inhabitants: Yucatan black howler monkeys bellowing from the canopy, spider monkeys swinging through the branches, pacas foraging in the undergrowth, and jaguars and pumas prowling the forest floor.
+
+## The Diggers and the Pendant
+
+Although local Maya communities had always known about the ruins, outside archaeologists first investigated in 1976, when Norman Hammond of the British Museum and Cambridge University produced the first site map and excavated a portion of the central plaza. Richard Levanthal bored test pits in 1983 as part of a broader southern Belize mapping project. Minor excavations followed in the 1990s under the Belize Department of Archaeology, supervised by John Morris and Juan Luis Bonor. The breakthrough came in 2015, when Braswell's team opened a tomb and found the jade pendant -- a flat, carved stone bearing hieroglyphs that connected Nim Li Punit to the wider Maya political world of ritual and alliance. The site today is open to visitors, a grass-covered ruin ringed by jungle where the carved stelae still stand, each one topped by a king in a hat too large to be believed if you had not seen the stone yourself.
+
+## Flight Context
+
+Located at 16.32N, 88.80W in the Toledo District of southern Belize, adjacent to the village of Indian Creek along the Southern Highway. From the air, the site appears as a cleared hilltop terrace surrounded by dense tropical broadleaf forest, with the Maya Mountains rising to the west. The Toledo lowlands stretch east to the Caribbean coast. Nearest airport is Punta Gorda airstrip (MZPG), approximately 50 km to the south. Lubaantun, a related Maya site, lies approximately 20 km to the southwest. The Belize Barrier Reef is visible offshore.
+
+## Sources
+
+- [Nim Li Punit - Wikipedia](https://en.wikipedia.org/?curid=209538)
+  - Corrected: 26 stelae total (only 8 were carved, not all 26)
+  - Named Nim Li Punit ('Big Hat') by Q'eqchi' Maya for enormous headdress on one stela
+  - Located in Toledo District, 50 km north of Punta Gorda, adjacent to Indian Creek village
+  - Active period documented between 721 and 790 AD
+  - Norman Hammond first investigated the site in 1976
+  - 2015 jade pendant discovery by Geoffrey Braswell confirmed political network connections
+  - E-Group astronomical arrangement for solstice and equinox observation confirmed
+  - Obsidian from El Chayal and Ixtepeque in Guatemalan highlands found at site
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 8 facts verified · 1 correction
+
+Corrected: article said '26 carved stelae' but only 8 of the 26 total stelae were carved -- changed to '26 stelae'. Verified location 50km north of Punta Gorda, active period 721-790 AD, Hammond's 1976 investigation, 2015 jade pendant by Braswell, E-Group astronomical arrangement. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 740*
+*Read time: 4 minutes*

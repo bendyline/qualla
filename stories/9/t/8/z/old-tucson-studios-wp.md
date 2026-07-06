@@ -1,0 +1,75 @@
+# Old Tucson Studios
+
+A Depression-era movie set built in 40 days that became the enduring backdrop for Hollywood's Western mythology.
+
+**Location:** 32.2161, -111.1307
+
+**Categories:** American film studios, Buildings and structures in Tucson, Arizona, Culture of Tucson, Arizona, History of Tucson, Arizona, Landmarks in Tucson, Arizona, Tourist attractions in Tucson, Arizona, Western (genre) theme parks, 1939 establishments in Arizona
+
+## Introduction
+
+Workers built more than fifty buildings in forty days. It was 1939, and Columbia Pictures needed 1860s Tucson for a film called Arizona. What they created in the Sonoran Desert, nestled against the Tucson Mountains and within sight of the towering saguaros, would become something far more lasting than a temporary film set. Old Tucson Studios has hosted over four hundred productions, from John Wayne classics to Kurt Russell's Tombstone, transforming a replica ghost town into hallowed ground for the American Western.
+
+## The Hotel Manager's Gamble
+
+Nick C. Hall arrived in Tucson in late 1934 to manage the Santa Rita Hotel during the depths of the Great Depression. He saw opportunity in the desert landscape and started making trips to Hollywood, pitching the Old Pueblo to film producers hungry for authentic Western scenery. His persistence paid off when Columbia Pictures came to town researching Arizona, a film about pioneer Phoebe Titus set during the Civil War. Hall convinced the studio to shoot the movie about Tucson in Tucson itself. The cast playfully elected him mayor of Old Tucson in August 1939, a title the Arizona governor made official months later. Hall oversaw everything from lodging the crew at his hotel to chaperoning them to the construction site, where adobe walls rose from the desert floor to recreate his adopted city's frontier past.
+
+## Building a Legend
+
+The park grew building by building with each production. John Wayne alone starred in four films here, each one adding structures that remain today. Rio Bravo brought a saloon, bank, and doctor's office. McLintock! added its namesake hotel. El Dorado renovated Front Street's storefronts. Rio Lobo contributed a cantina, granite-lined creek, jail, and ranch house. By 1968, a 13,000-square-foot soundstage expanded Old Tucson's capabilities. Television embraced the location too: The High Chaparral filmed here for four seasons, Little House on the Prairie used the sets throughout the 1970s and 80s, and Kung Fu's David Carradine walked these dusty streets. When it opened to the public in 1960, visitors could watch staged gunfights, ride a narrow-gauge railroad, and walk through the same doors that framed Hollywood's greatest cowboys.
+
+## Trial by Fire
+
+On April 24, 1995, flames swept through Old Tucson Studios. High winds fed the blaze while firefighters faced an impossible choice: propane tanks, black powder stores used for gunfight effects, and diesel fuel all demanded attention. They flooded surrounding areas to prevent explosions, creating mud that slowed their own efforts. After four hours, twenty-five buildings lay in ruins. The wardrobe from Little House on the Prairie was gone forever, along with the only copy of a documentary containing rare footage of William Holden, John Wayne, and Angie Dickinson on set. The historic locomotive Reno, a Virginia and Truckee Railroad veteran, sat damaged among the ashes. Damage reached ten million dollars. Yet remarkably, no one died.
+
+## Phoenix Rising
+
+Twenty months later, on January 2, 1997, Old Tucson reopened. The new design featured wider streets and entirely new buildings rather than recreations of what had burned. The Reno locomotive received cosmetic restoration and appeared in Wild Wild West before suffering damage in a filmed explosion. In 2011, the Heritage Square Project added twelve new buildings across three streets, designed by Gene Rudolf, whose credits include Young Guns II, The Right Stuff, and Raging Bull. A reconstructed Tohono O'odham village now teaches visitors about the region's Indigenous peoples. COVID-19 forced closure in September 2020, but American Heritage Railways took over in 2022. The Nightfall Halloween event returned that October, and Arizona's new film tax incentive promises fresh productions on these storied streets.
+
+## Where Westerns Live
+
+The filmography reads like a course in Western cinema: Winchester '73 with James Stewart, Gunfight at the O.K. Corral, 3:10 to Yuma, The Outlaw Josey Wales, Three Amigos, and the definitive Tombstone. Ronald Reagan made The Last Outpost here. Elvis Presley shot Charro! among the saguaros. Even the original Westworld used these sets. Walk down Front Street and you're following in the bootprints of Burt Lancaster, Kirk Douglas, Steve Martin, and Val Kilmer. The Tucson Mountains provide the same dramatic backdrop they did in 1939. The saguaros have only grown taller. And somewhere in the afternoon light, you can almost hear a director call action on another take of the American West.
+
+## Flight Context
+
+Old Tucson Studios sits at 32.22°N, 111.13°W in the Tucson Mountains, adjacent to the western unit of Saguaro National Park. From the air, look for the cluster of Western-style buildings contrasting with the surrounding desert and distinctive saguaro forests. Best viewed at 3,000-5,000 feet AGL. Nearest airports: Tucson International (KTUS) 18 miles southeast, Ryan Airfield (KRYN) 8 miles south. The Arizona-Sonora Desert Museum lies just north along the mountain slopes.
+
+## Sources
+
+- [Old Tucson Studios - Wikipedia](https://en.wikipedia.org/?curid=5015745)
+  - built 1939 for Columbia Pictures Arizona film
+  - 50+ buildings in 40 days
+  - April 24 1995 fire
+  - 25 buildings destroyed
+  - $10M damage
+  - reopened January 2 1997
+  - John Wayne four films
+- [The Long-Forgotten Mayor of Old Tucson - KGUN9](https://www.kgun9.com/absolutely-az/the-long-forgotten-mayor-of-old-tucson)
+  - Nick C. Hall arrived Tucson 1934
+  - Hall connected Columbia Pictures to Tucson
+  - cast voted him mayor of Old Tucson - NOTE: article says he came to manage Santa Rita Hotel but source says he was part of group that purchased it
+- [Old Tucson Heritage Square Project - Inside Tucson Business](https://www.insidetucsonbusiness.com/construction_real_estate/old-tucson-starts-heritage-square-as-living-museum-revival/article_7a0406de-a349-11e0-9796-001cc4c002e0.html)
+  - Heritage Square Project 2011
+  - 12 new buildings
+  - Gene Rudolf production designer
+  - Young Guns II and Raging Bull credits confirmed
+- [Old Tucson - American Heritage Railways](https://www.americanheritagerailways.com/visit-us/old-tucson/)
+  - American Heritage Railways took over operations 2022
+  - Nightfall Halloween event returned
+- [Virginia and Truckee 11 Reno - Wikipedia](https://en.wikipedia.org/wiki/Virginia_and_Truckee_11_Reno)
+  - Reno locomotive from Virginia and Truckee Railroad
+  - damaged in 1995 fire
+  - cosmetically restored for Wild Wild West film
+
+## Review Notes
+
+**Reviewed:** 2026-02-05 · 14 facts verified · 0 corrections
+
+All major facts verified. Built 1939 for Arizona film, 50 buildings in 40 days, Nick Hall 1934, April 24 1995 fire, 25 buildings destroyed, 0M damage, reopened Jan 2 1997, John Wayne 4 films confirmed, Heritage Square 2011 Gene Rudolf confirmed, American Heritage Railways 2022 confirmed. Minor note: article says Hall came to manage Santa Rita Hotel but source says he was part of group that purchased it. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 812*
+*Read time: 4 minutes*

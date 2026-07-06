@@ -1,0 +1,72 @@
+# Wesleydale Mission
+
+New Zealand's first Wesleyan mission, founded in 1823 beside the Kaeo River and destroyed by warriors in 1827 -- a brief, desperate experiment in faith on a contested frontier.
+
+**Location:** -35.1000, 173.7833
+
+**Categories:** new-zealand, colonial-history, religion, northland
+
+## Introduction
+
+Nathaniel Turner returned to Wesleydale in October 1836, nine years after fleeing. At his feet lay a few broken bricks -- all that remained of the mission he had helped build, the school where he had preached to growing crowds, the house where his infant son Nathaniel Bailey had been born and died. The soil over the child's grave was sunken and disturbed. Someone had dug there. Turner had known hardship in New Zealand's Northland -- he had been struck unconscious by a chief, had evacuated his wife and children through hostile territory, had watched his life's work burn from a safe distance. But standing over that violated grave in 1836, he confronted what the word "destroyed" actually meant when applied to a place where people had lived and buried their dead.
+
+## An Ailing Missionary's Dream
+
+The idea for Wesleydale came from exhaustion. Samuel Leigh, a Wesleyan Missionary Society preacher working in New South Wales since 1815, was breaking down physically by 1818. His friend Samuel Marsden, the Anglican clergyman who had established New Zealand's first Christian mission at Oihi Bay in the Bay of Islands on Christmas Day 1814, suggested a restorative voyage across the Tasman. What Leigh found in New Zealand was not rest but purpose. He returned to England in 1820 and spent the next year touring cities to raise funds and convince the Wesleyan conference to authorize a permanent mission. Appointed as the Wesleyan Missionary to New Zealand, Leigh sailed back to the Bay of Islands in February 1822 aboard Marsden's ship The Active, carrying supplies for a station that did not yet exist.
+
+## A Hillside Beside the Kaeo
+
+Leigh waited sixteen months at the Anglican station, learning Maori, until colleague William White arrived in May 1823. Together they spent a month searching for the right site -- by boat along the coast, on foot through the interior. On 11 June 1823 they chose a hillside twelve miles inland from Whangaroa Harbour, beside the Kaeo River, where the village of Kaeo stands today. Reinforcements arrived in August: Nathaniel Turner, newly ordained and newly married, with his wife Anne, their infant daughter, and lay preacher John Hobbs. It took them three days of overland trekking to find the mission. When they arrived, Leigh was gravely ill. Marsden persuaded him to return to Sydney for treatment, and within days the mission's founder was gone. The community he left behind consisted of Turner, Anne and their baby, a nanny named Miss Davies, White, Hobbs, Navy veteran James Stack, and servant Luke Wade.
+
+## Growing Congregations, Growing Tension
+
+For a time, the mission worked. By June 1824 the missionaries had built rough chapels in nearby villages -- the first Wesleyan churches in New Zealand. Turner preached to congregations that swelled past two hundred. Children attended school, up to twenty at a time. But Wesleydale sat in the territory of the Ngati Uru people, and the son of their chief was Te Ara -- the same man whose flogging aboard the Boyd in 1809 had triggered the massacre of up to 70 Europeans at Whangaroa Harbour. Te Ara, known to the missionaries as George, had become chief himself after his father's death, and he treated the mission as a source of supplies to be taken rather than traded for. His brother Te Puhi was more directly violent: in March 1825 he attacked Turner, knocking him unconscious. Turner evacuated Anne and the children to the Anglican mission at Kerikeri, an eight-hour walk to the south. She returned weeks later when Te Ara died and the prospect of calm seemed plausible. It was not.
+
+## Twenty Miles in January
+
+The force that ultimately destroyed Wesleydale was not hostility toward the missionaries but warfare between Maori peoples. Hongi Hika, the powerful Ngapuhi rangatira from Waimate -- 26 kilometres to the south -- moved into the Whangaroa region in 1826, asserting his father's territorial claims and wielding European muskets that gave him overwhelming advantage in the ongoing Musket Wars. He valued the European missionaries and intended to protect them. But on 9 January 1827, some of his own warriors disobeyed his orders and ransacked the mission's outhouses, threatening to return the next day. They did. By dawn on 10 January, they had broken into the tool house, the store rooms, and the main building. The missionaries had no choice but to run. Turner, Anne, and their three surviving children -- the eldest three years old, the youngest one month -- set off with the nanny, Hobbs, Wade and his wife, and seven Ngati Uru children who had stayed loyal to the mission. Sixteen people walked twenty miles through Northland bush to the Anglican station at Kerikeri, arriving at seven in the evening. Days later, word came that Wesleydale had been burned completely: buildings, cattle, wheat stores, everything. The mission party left New Zealand on 28 January 1827, less than four years after its founding.
+
+## What Remained
+
+The failure of Wesleydale did not end Wesleyan ambitions in New Zealand. In 1828, Hobbs and Stack established the Mangungu Mission at Hokianga Harbour on the Northland peninsula's western coast -- a second attempt that succeeded where the first had not. The Turners were sent to Tonga but returned to New Zealand in 1836, when Nathaniel made his pilgrimage back to the Kaeo hillside. The broken bricks and disturbed grave he found there became, in missionary literature, an image of sacrifice and perseverance. Today the village of Kaeo occupies the site. There is no monument to the mission that stood there for three and a half years, no marker for the infant buried in soil that strangers later violated. The Kaeo River still runs past the hillside where Leigh and White chose to build, where Turner preached to hundreds, where Anne gave birth and buried a child, and where warriors who had nothing against missionaries specifically destroyed everything they had made.
+
+## Flight Context
+
+Wesleydale Mission site / modern Kaeo village (35.10S, 173.78E) sits twelve miles inland from Whangaroa Harbour on the Kaeo River in New Zealand's Northland region. Kaikohe Airport (NZKK) lies approximately 30 km to the southwest. The Bay of Islands, where the Anglican CMS missions were based, is visible to the southeast. From the air, Kaeo is a small village on the river flat surrounded by green hills -- the terrain the missionaries navigated on foot in January 1827. Whangaroa Harbour's narrow entrance is visible to the northwest. Weather is subtropical maritime with warm, humid conditions.
+
+## Sources
+
+- [Wesleydale Mission - Wikipedia](https://en.wikipedia.org/?curid=80542421)
+  - Founded June 1823 by Samuel Leigh and William White confirmed
+  - Located twelve miles inland from Whangaroa Harbour beside Kaeo River confirmed
+  - Nathaniel Turner arrived August 1823 confirmed
+  - Samuel Leigh working in NSW since 1815 confirmed
+  - Samuel Marsden established Oihi Bay mission Christmas Day 1814 confirmed
+  - Leigh returned to England 1820 to raise funds confirmed
+  - Leigh sailed back February 1822 aboard The Active confirmed
+  - Leigh gravely ill when Turner arrived confirmed
+  - Te Ara same person whose flogging triggered Boyd massacre confirmed
+  - Te Puhi attacked Turner March 1825 confirmed
+  - Turner evacuated to Kerikeri mission (eight-hour walk) confirmed
+  - Hongi Hika moved into Whangaroa region 1826 confirmed
+  - Warriors ransacked mission outhouses 9 January 1827 confirmed
+  - Main building broken into 10 January 1827 confirmed
+  - 16 people walked 20 miles to Kerikeri arriving 7pm confirmed
+  - Mission burned completely after departure confirmed
+  - Mission party left NZ 28 January 1827 confirmed
+  - Mangungu Mission established at Hokianga 1828 by Hobbs and Stack confirmed
+  - Turners sent to Tonga, returned 1836 confirmed
+  - First Wesleyan churches in New Zealand built by June 1824 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 20 facts verified · 0 corrections
+
+Verified mission founded June 1823, Leigh and White chose site 11 June 1823, Nathaniel Turner arrived August 1823, Te Ara (from Boyd massacre) became chief after his father's death, Te Puhi attacked Turner March 1825, Hongi Hika arrived 1826, ransacked 9-10 January 1827, 16 people walked 20 miles to Kerikeri, departed NZ 28 January 1827, Mangungu Mission 1828 confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 870*
+*Read time: 4 minutes*

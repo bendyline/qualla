@@ -1,0 +1,61 @@
+# Edo Castle
+
+The castle that became a capital: built in 1457, expanded into the largest fortress in the world by the Tokugawa shoguns, burned repeatedly, and now sits beneath the Tokyo Imperial Palace as the hidden foundation of everything Tokyo became.
+
+**Location:** 35.6883, 139.7544
+
+**Categories:** castle, historic-site, imperial-palace, military-history
+
+## Introduction
+
+A Spanish governor once counted 20,000 servants between the first gate and the shogun's palace. He passed ranks of a thousand soldiers armed with muskets, stables sized for 200 horses, and an armory stocked for 100,000 men. This was Edo Castle at its peak -- not just a fortress but a city within a city, ringed by concentric moats that stretched for 16 kilometers and enclosed what is now Tokyo Station, the Marunouchi business district, and the Nippon Budokan arena. Today the grounds serve as the Tokyo Imperial Palace, and visitors stroll past stone walls and water-filled moats with little sense of the staggering military machine that once operated here. But look carefully at the layout of central Tokyo, and you are still reading the blueprint of the castle that created it.
+
+## A Fortress Built by Rivals
+
+Ota Dokan, a retainer of the Ogigayatsu Uesugi family, built the first castle on this site in 1457. It was a modest fortification on flat marshland near the mouth of the Sumida River. When Tokugawa Ieyasu claimed it in 1590, he saw something the earlier builders had not: a place where land and sea and politics converged perfectly. Construction began in earnest in 1593 and continued for over four decades, completed under Ieyasu's grandson Tokugawa Iemitsu in 1636. The shogun required feudal lords -- the daimyo -- to supply materials proportional to their wealth. Wealthier lords hauled enormous granite blocks from distant provinces; those who could not provide stone were put to work digging moats and leveling hills. The excavated earth became landfill, pushing the shoreline outward and creating the flat commercial districts where Edo's merchant class would settle. At least 10,000 men labored in the first construction phase and more than 300,000 in the middle phase. When the work was done, the castle had 38 gates and walls that formed roughly concentric circles reaching as far as modern Ichigaya and Yotsuya.
+
+## The Tallest Tower in Japan
+
+The main keep stood in the northern corner of the Honmaru, the innermost ward. It was five stories tall, the highest castle tower in all of Japan, and its roofs were ornamented with gold. The first keep was built in 1607, rebuilt in 1623, and rebuilt again in 1638. Each iteration was grander than the last. Then the Great Fire of Meireki struck in 1657, consuming the keep and much of Edo along with it. The shogunate built new stone foundations in preparation for reconstruction, but the tower was never rebuilt. Those empty foundations remain today, a grass-covered platform that tourists photograph without quite understanding what once stood there. The Fujimi-yagura, a three-story watchtower constructed in 1659, assumed the keep's symbolic role afterward. Its name means 'Mount Fuji-viewing tower,' because in the 17th century you could see the sacred mountain from its upper story.
+
+## Gates Designed to Confuse
+
+Thirty-six major gates protected the castle, and they were arranged with deliberate disorientation in mind. The French trader Francois Caron, visiting from the Dutch colony at Dejima, described gates and courts laid out to bewilder any outsider. No two gates stood in a straight line. Each forced a 90-degree turn, so that an invading force could never charge straight through. The main entrance, Ote-mon, was the most heavily fortified -- a visitor had to pass through three additional gates after it before reaching the shogun's quarters. Today Nishinomaru-mon serves as the primary entrance to the Imperial Palace, but the twin bridge Nijubashi in front of it has become more famous than the gate itself, and most visitors refer to the entire entrance simply as Nijubashi. Inside the castle, the Honmaru Palace divided into three zones: the Omote for public audiences, the Naka-oku where the shogun met his counselors, and the Ooku -- the great interior -- where the shogun's private apartments and those of his ladies-in-waiting spread across a thousand tatami mats, partitioned by painted sliding doors and strictly off-limits to outsiders.
+
+## Fire After Fire After Fire
+
+Edo was a timber city, and fire was its constant companion. Between 1844 and 1863, the Honmaru alone burned three times. After each blaze the shogun relocated to the Nishinomaru residences until rebuilding was complete. In 1853, both the Honmaru and Nishinomaru burned simultaneously, forcing the shogun to shelter in a daimyo's mansion. When the shogunate fell in 1867 and the emperor moved to Tokyo the following year, the castle compound was renamed and absorbed into the new imperial government. A final fire consumed the remaining old structures on the night of May 5, 1873. Rather than rebuild on the Honmaru, the imperial government constructed a new palace in the Nishinomaru ward, breaking the centuries-old pattern of rebuilding on the same ground. World War II inflicted further damage, but the moats, stone walls, and watchtowers that survived tell the story of a fortress that shaped the very geography of the city that grew around it.
+
+## The Castle Beneath the City
+
+Walk through central Tokyo today and you are walking through Edo Castle's footprint. Place names like Toranomon (Tiger Gate), Akasaka (Red Slope), and Kandabashi (Kanda Bridge) all derive from castle features demolished in the 1870s. The concentric moats, though partially filled in during the Meiji era, still define the layout of major roads and rail lines. Kitanomaru, once a medicinal garden and residence for collateral Tokugawa branches, is now the public Kitanomaru Park. The Ninomaru's garden, originally designed by Kobori Enshu -- considered the founder of Japanese landscaping -- was replanted after the Meiji Restoration around a pond that dates to the Edo period. Three original guardhouses still stand: the Doshin-bansho, the Hyakunin-bansho that once housed a hundred Tokugawa-affiliated guards, and the O-bansho at the inner gate. A nonprofit group called the Rebuilding Edo-jo Association has drawn reconstruction blueprints for the main keep based on historical documents, arguing that the capital deserves its symbolic tower back. For now, the stone foundations sit open to the sky, waiting.
+
+## Flight Context
+
+Located at 35.688N, 139.754E in the heart of Chiyoda, Tokyo. The castle grounds -- now the Tokyo Imperial Palace -- appear from altitude as a large dark-green expanse of gardens and moats surrounded by dense urban development. The concentric moat system is clearly visible, with water reflecting light in arcs around the grounds. Tokyo Station (immediately east) and the Marunouchi skyscraper district provide reference points. Nearest airport is Tokyo Haneda (RJTT), approximately 14 km south-southwest. Narita International (RJAA) is about 60 km east-northeast. The Imperial Palace East Gardens are the publicly accessible portion. Yokota Air Base (RJTY) lies 40 km to the west.
+
+## Sources
+
+- [Edo Castle - Wikipedia](https://en.wikipedia.org/?curid=617169)
+  - Built 1457 by Ota Dokan
+  - Tokugawa Ieyasu claimed site in 1590
+  - Construction completed under Iemitsu in 1636
+  - 16km moat perimeter
+  - Great Fire of Meireki 1657 destroyed keep
+  - Fujimi-yagura constructed 1659
+- [Edo Castle - World History Encyclopedia](https://www.worldhistory.org/Edo_Castle/)
+  - 38 gates confirmed
+  - Largest castle in the world during Tokugawa era
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 12 facts verified · 0 corrections
+
+All key facts verified: 1457 founding by Ota Dokan, Tokugawa construction 1593-1636, 16km moat perimeter, Great Fire of Meireki 1657, Fujimi-yagura 1659. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 870*
+*Read time: 4 minutes*

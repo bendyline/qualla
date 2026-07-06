@@ -1267,5 +1267,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "whem-nagaland-flight-context.mp3",
+      "whem-nagaland-intro.mp3",
+      "whem-nagaland-from-headhunters-to-hymn-singers.mp3",
+      "whem-nagaland-a-mosaic-of-voices.mp3",
+      "whem-nagaland-the-land-of-festivals.mp3",
+      "whem-nagaland-terraced-hills-and-traded-rice.mp3",
+      "whem-nagaland-quiet-indicators-of-progress.mp3"
+    ],
+    "durations": {
+      "whem-nagaland-flight-context.mp3": 54.4105,
+      "whem-nagaland-intro.mp3": 46.169625,
+      "whem-nagaland-from-headhunters-to-hymn-singers.mp3": 71.19225,
+      "whem-nagaland-a-mosaic-of-voices.mp3": 66.9637916,
+      "whem-nagaland-the-land-of-festivals.mp3": 67.7338333,
+      "whem-nagaland-terraced-hills-and-traded-rice.mp3": 66.82975,
+      "whem-nagaland-quiet-indicators-of-progress.mp3": 69.2994583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

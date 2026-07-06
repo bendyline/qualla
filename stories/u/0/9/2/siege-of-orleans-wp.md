@@ -1,0 +1,65 @@
+# Siege of Orleans
+
+For seven months the English strangled Orleans, and with it France's last hope. Then a seventeen-year-old peasant girl arrived, and nine days later the siege was broken.
+
+**Location:** 47.9025, 1.9039
+
+**Categories:** sieges, Hundred Years' War, Joan of Arc, France, medieval history
+
+## Introduction
+
+The consensus among contemporaries was simple: if Orleans fell, England would conquer all of France. By the spring of 1429, that outcome seemed almost inevitable. English forces and their Burgundian allies had besieged the city since October 1428, constructing a ring of fortified bastilles that slowly choked the life from France's most strategically vital stronghold on the Loire. The defenders were demoralized, supplies dwindling, the Dauphin Charles powerless to help. Then, on 29 April 1429, a seventeen-year-old girl in armor rode through the gates. Nine days later, the English were gone.
+
+## The Last City Standing
+
+Orleans occupied a position of extraordinary strategic and symbolic importance. Sitting on the Loire, it was the last major obstacle between English-controlled northern France and the Dauphin's remaining territories in the south. The English regent, John of Lancaster, Duke of Bedford, understood that taking Orleans would effectively end French resistance. The Dauphin Charles, disinherited by the Treaty of Troyes and recognized as king only in unoccupied southern France, could not afford to lose it. The siege began on 12 October 1428 when the Earl of Salisbury arrived with an English army and began constructing fortified positions around the city. Salisbury was mortally wounded by a cannonball on 27 October while surveying the city from a captured tower -- one of the first notable casualties of gunpowder artillery in the Hundred Years' War -- and died a week later on 3 November 1428. Command passed to the Earl of Suffolk, then to Lord Talbot, but the ring of English bastilles continued to tighten.
+
+## A Siege Like No Other
+
+The English approach at Orleans was unconventional. Rather than surrounding the city completely -- they lacked the manpower for a full encirclement -- they built a series of fortified bastilles at key points around the walls, particularly controlling the bridge over the Loire at the southern end. The bridge itself was partially destroyed, with the English holding a massive fortification called Les Tourelles at its southern terminus. French convoys could still slip supplies into the city through gaps in the English lines, but each month the noose drew tighter. Inside Orleans, the garrison mounted sorties and kept communication open with the Dauphin's court, but morale was eroding. An attempt to intercept an English supply convoy resulted in the humiliating Battle of the Herrings in February 1429, where the English successfully defended their wagons loaded with Lenten provisions. The city sent desperate appeals to the Dauphin, to the Duke of Burgundy, to anyone who might help.
+
+## The Maid Arrives
+
+Joan of Arc reached Orleans on 29 April 1429 after a remarkable journey from the Dauphin's court at Chinon, where she had convinced Charles to give her a military command. She arrived with a supply convoy that entered the city from the east, exploiting a gap in the English siege lines. Her presence electrified the garrison and the citizens. Joan was not a military strategist in the conventional sense -- her captains provided tactical expertise -- but she brought something the French had lacked for years: absolute conviction that they would win. She immediately began pushing for offensive action against the English bastilles, overriding the caution of experienced commanders who preferred to wait for reinforcements. On 4 May, the French attacked and captured the bastille of Saint-Loup east of the city. On 6 May, they crossed the Loire and assaulted the fortifications on the south bank. The decisive moment came on 7 May, when Joan led an attack on Les Tourelles itself.
+
+## The Arrow and the Assault
+
+During the assault on Les Tourelles, Joan was struck by a crossbow bolt between her neck and shoulder. She withdrew briefly to have the wound dressed, then returned to the fighting. Her reappearance on the battlefield, visibly wounded but pressing forward, shattered whatever remained of English confidence. The French stormed the fortification. The English commander, William Glasdale, drowned when the drawbridge he was retreating across collapsed after French fire ships ignited it from below. The fall of Les Tourelles severed the English position south of the Loire. The next morning, 8 May 1429, the remaining English forces formed up in battle order outside the city walls. The French came out to face them, and the two armies stared at each other across the field. After about an hour, the English withdrew. They marched away without a fight, abandoning the siege they had maintained for nearly seven months. The city that contemporaries believed would decide the fate of France was free.
+
+## Nine Days That Saved a Kingdom
+
+The relief of Orleans transformed the war. From a military standpoint, it broke the English stranglehold on the Loire and opened the path for the campaign that would recapture Jargeau, Meung-sur-Loire, Beaugency, and culminate in the devastating French cavalry victory at Patay. From a political standpoint, it made possible the march to Reims, where the Dauphin was crowned King Charles VII on 17 July 1429 -- the coronation that legitimized his claim and undermined the English-backed dual monarchy. From a psychological standpoint, it proved that the English could be beaten, shattering the aura of invincibility that had hung over English arms since Agincourt. Joan of Arc would be captured by Burgundians in 1430, sold to the English, tried for heresy, and burned at the stake in Rouen on 30 May 1431. She was nineteen years old. But the siege she broke in nine days had already decided the outcome of the Hundred Years' War. France would never again be seriously threatened with complete English conquest.
+
+## Flight Context
+
+Located at 47.90°N, 1.90°E, Orleans sits on the Loire river in north-central France. The city's historic center and the cathedral are visible from the air, along with the broad Loire channel and its bridges. Nearest airport is Orleans-Bricy (LFOJ) approximately 10 km to the northwest. Best viewed from 3,000-5,000 feet AGL. The flat Loire valley terrain surrounding the city makes clear why control of the river crossings was so strategically critical during the Hundred Years' War.
+
+## Sources
+
+- [Siege of Orléans (1428–1429) - Wikipedia](https://en.wikipedia.org/?curid=60984)
+  - Siege began 12 October 1428 confirmed
+  - Joan of Arc arrived 29 April 1429 confirmed
+  - Siege lasted approximately seven months confirmed
+  - Battle of the Herrings: 12 February 1429 confirmed
+  - Salisbury mortally wounded 27 October, died 3 November 1428 — corrected from 'killed on 27 October'
+  - Glasdale drowned when drawbridge collapsed after French fire ships set it ablaze — corrected from 'collapsed under weight of armored men'
+  - Fall of Les Tourelles 7 May confirmed, English withdrew 8 May confirmed
+  - Joan captured by Burgundians 1430 confirmed
+  - Joan burned at Rouen 30 May 1431 confirmed, age 19 confirmed
+  - Charles VII crowned at Reims 17 July 1429 confirmed
+- [Joan of Arc - Britannica](https://www.britannica.com/biography/Saint-Joan-of-Arc)
+  - Joan of Arc age 19 at execution confirmed
+  - Execution date 30 May 1431 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 10 facts verified · 2 corrections
+
+Fixed 2 errors: (1) Salisbury 'killed on 27 October' corrected to 'mortally wounded on 27 October, died 3 November 1428'; (2) Glasdale drowning cause corrected from 'drawbridge collapsed under weight of armored men' to 'collapsed after French fire ships ignited it from below'. All other facts verified: siege start 12 Oct 1428, Joan arrived 29 Apr 1429, Battle of Herrings Feb 1429, Joan burned 30 May 1431 age 19. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 870*
+*Read time: 4 minutes*

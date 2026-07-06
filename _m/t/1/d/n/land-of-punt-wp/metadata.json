@@ -190,5 +190,24 @@
     "_m/t/1/d/n/land-of-punt-wp/land-of-punt.png",
     "_m/t/1/d/n/land-of-punt-wp/punt-location-per-animal-depic.jpg"
   ],
-  "updatedAt": "2026-03-31T13:49:44.820Z"
+  "updatedAt": "2026-03-31T13:49:44.820Z",
+  "narration": {
+    "files": [
+      "t1dn-land-of-punt-flight-context.mp3",
+      "t1dn-land-of-punt-intro.mp3",
+      "t1dn-land-of-punt-gods-land.mp3",
+      "t1dn-land-of-punt-the-expedition-of-hatshepsut.mp3",
+      "t1dn-land-of-punt-following-the-baboons.mp3",
+      "t1dn-land-of-punt-a-mystery-that-endures.mp3"
+    ],
+    "durations": {
+      "t1dn-land-of-punt-flight-context.mp3": 48.0780416,
+      "t1dn-land-of-punt-intro.mp3": 59.2982916,
+      "t1dn-land-of-punt-gods-land.mp3": 66.0009166,
+      "t1dn-land-of-punt-the-expedition-of-hatshepsut.mp3": 71.0362083,
+      "t1dn-land-of-punt-following-the-baboons.mp3": 81.897125,
+      "t1dn-land-of-punt-a-mystery-that-endures.mp3": 76.745625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

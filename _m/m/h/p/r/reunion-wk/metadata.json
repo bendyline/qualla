@@ -1839,5 +1839,26 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "mhpr-reunion-flight-context.mp3",
+      "mhpr-reunion-intro.mp3",
+      "mhpr-reunion-an-ocean-crossroads.mp3",
+      "mhpr-reunion-fire-and-rain.mp3",
+      "mhpr-reunion-the-creole-table.mp3",
+      "mhpr-reunion-ears-and-tongues.mp3",
+      "mhpr-reunion-getting-there-and-getting-lost.mp3"
+    ],
+    "durations": {
+      "mhpr-reunion-flight-context.mp3": 69.700875,
+      "mhpr-reunion-intro.mp3": 41.3074166,
+      "mhpr-reunion-an-ocean-crossroads.mp3": 70.665875,
+      "mhpr-reunion-fire-and-rain.mp3": 63.968375,
+      "mhpr-reunion-the-creole-table.mp3": 82.5769166,
+      "mhpr-reunion-ears-and-tongues.mp3": 59.8141666,
+      "mhpr-reunion-getting-there-and-getting-lost.mp3": 59.2394166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

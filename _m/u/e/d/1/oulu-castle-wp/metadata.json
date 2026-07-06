@@ -455,5 +455,24 @@
     "_m/u/e/d/1/oulu-castle-wp/exhibition-castle-ruins-oulu-2.jpg",
     "_m/u/e/d/1/oulu-castle-wp/exhibition-castle-ruins-oulu-2-1.jpg"
   ],
-  "updatedAt": "2026-04-01T05:21:12.564Z"
+  "updatedAt": "2026-04-01T05:21:12.564Z",
+  "narration": {
+    "files": [
+      "ued1-oulu-castle-flight-context.mp3",
+      "ued1-oulu-castle-intro.mp3",
+      "ued1-oulu-castle-fortress-at-the-rivers-mouth.mp3",
+      "ued1-oulu-castle-the-kings-stone-decree.mp3",
+      "ued1-oulu-castle-fire-war-and-lightning.mp3",
+      "ued1-oulu-castle-from-powder-magazine-to-coffee-cup.mp3"
+    ],
+    "durations": {
+      "ued1-oulu-castle-flight-context.mp3": 42.2690833,
+      "ued1-oulu-castle-intro.mp3": 42.9635833,
+      "ued1-oulu-castle-fortress-at-the-rivers-mouth.mp3": 51.0149166,
+      "ued1-oulu-castle-the-kings-stone-decree.mp3": 55.0434166,
+      "ued1-oulu-castle-fire-war-and-lightning.mp3": 56.6166666,
+      "ued1-oulu-castle-from-powder-magazine-to-coffee-cup.mp3": 60.0196666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

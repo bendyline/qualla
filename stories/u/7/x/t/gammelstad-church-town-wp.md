@@ -1,0 +1,58 @@
+# Gammelstad Church Town
+
+A UNESCO World Heritage Site near Lulea where 404 wooden cottages cluster around a 15th-century stone church -- weekend houses for worshippers who traveled too far to return home the same day.
+
+**Location:** 65.6461, 22.0286
+
+**Categories:** world-heritage, architecture, religious-site, sweden
+
+## Introduction
+
+Four hundred and four small wooden houses, and not one of them was anyone's permanent home. That is the paradox at the heart of Gammelstad Church Town, a UNESCO World Heritage Site ten kilometers north of Lulea in Swedish Norrbotten. The cottages exist for a single purpose: to shelter worshippers who journeyed too far through the harsh subarctic landscape to attend Sunday services and return home before dark. This arrangement -- a kyrkstad, or church town -- was once common across northern Scandinavia. Gammelstad is the last one standing intact.
+
+## A Town Shaped by Faith, Not Commerce
+
+Most settlements grow around trade routes, harbors, or natural resources. Gammelstad grew around a need to pray. Farming communities scattered across the interior of Norrbotten faced distances that made a Sunday round trip to church impossible, especially in winter when darkness swallowed most of the day. The solution was practical Scandinavian ingenuity: build a cottage near the church, stay overnight on Saturday, attend services on Sunday, and head home afterward. The cottages were never meant for daily life. They had no kitchens, no workshops, no gardens. They were shelter, nothing more -- 404 church cottages divided into roughly 552 separate chambers, clustered tightly around the late 15th-century Nederluleaa Church, the only stone building in the settlement.
+
+## The Harbor That Disappeared
+
+Gammelstad's survival as a church town rather than a commercial center owes everything to geology. The settlement originally served as a trading post as well as a place of worship, but natural land upheaval -- the post-glacial rebound that continues to lift Scandinavia's coastline by roughly a centimeter each year -- gradually rendered the town's harbor unusable by the 17th century. Citizens relocated their commercial activities to a new coastal site that took the name Lulea, while the old settlement was rechristened Gammelstad, literally 'Old Town.' That accident of geology froze Gammelstad in time. When 19th-century industrialization transformed the region, it transformed Lulea, not Gammelstad. The church town sat quietly on its hill, its radial street pattern and timber cottages untouched by factories or railway yards.
+
+## Timber, Snow, and Constant Vigilance
+
+Preserving 520 buildings constructed primarily of timber in a subarctic climate demands relentless attention. Rot is the constant enemy -- surveys document its extent across the settlement, and snow must be cleared from roofs and pathways throughout the long winter to prevent structural damage. The layout itself has been preserved in its entirety: roads radiate outward from the church and circle the hill in concentric arcs, a plan that grew organically over several centuries rather than following any master design. A wall with gates once enclosed the church, though the current wall is a reconstruction. Among the notable structures beyond the cottages are the Chapel of Bethel, the Cottage of the Separatists, the Parish House, the Tithe Barn, and the residences of the Mayor, the Captain, and visiting guests.
+
+## Weekend Pilgrims in a Modern World
+
+UNESCO inscribed Gammelstad as a World Heritage Site in 1996, recognizing it as the best-preserved example of a settlement type shaped entirely by religious and social needs rather than economics or geography. The larger permanent houses of officials and merchants who once lived in the town year-round stand alongside the tiny church cottages, making visible the social hierarchy of a rural Swedish parish. Nederluleaa Church itself, built in the late 1400s, reflects the prosperity of the region in its size and stone construction -- a rare material this far north. Walking through the settlement today, the compact timber houses crowd the narrow lanes so tightly that in winter their snow-covered roofs almost touch, creating a hushed, intimate landscape that feels more like a village in a folk tale than a satellite of modern Lulea, just ten kilometers to the south.
+
+## Flight Context
+
+Located at 65.65°N, 22.03°E, roughly 10 km north of Lulea on the Gulf of Bothnia coast in northern Sweden. Nearest airport is Lulea Airport (ESPA), approximately 15 km south. From the air, look for the dense cluster of small wooden buildings surrounding the stone church on a hill beside the Lule River. The settlement's radial pattern is visible at lower altitudes. Recommended viewing altitude: 2,000-4,000 ft to appreciate the layout of the church town against the surrounding landscape.
+
+## Sources
+
+- [Gammelstad Church Town - Wikipedia](https://en.wikipedia.org/?curid=4968065)
+  - Corrected: 424 cottages → 404 cottages (UNESCO official count is 404 church cottages in ~552 chambers)
+  - UNESCO inscribed in 1996 confirmed
+  - Located ~10 km north of Luleå confirmed
+  - 404 church cottages in ~552 separate chambers confirmed
+  - 520 total protected buildings confirmed
+  - Nederluleå Church built in late 15th century (1492) confirmed
+  - Gammelstad means 'Old Town' confirmed
+  - Post-glacial rebound made harbor unusable by 17th century confirmed
+  - Radial street pattern confirmed
+  - Best-preserved example of church town (kyrkstad) in Scandinavia confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 10 facts verified · 1 correction
+
+Corrected: '424 cottages' → '404 cottages' in both summary and intro (UNESCO official count is 404 church cottages in ~552 chambers, 520 total protected buildings). All other facts verified: UNESCO 1996, 10 km north of Luleå, Nederluleå Church built late 1400s, post-glacial rebound made harbor unusable by 17th century, radial street pattern.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 650*
+*Read time: 3 minutes*

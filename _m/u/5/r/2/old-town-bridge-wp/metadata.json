@@ -546,5 +546,24 @@
     "_m/u/5/r/2/old-town-bridge-wp/gamle-bybroa-tunliweb-no.jpg",
     "_m/u/5/r/2/old-town-bridge-wp/chinesische-brucke-trondheim.jpg"
   ],
-  "updatedAt": "2026-04-01T01:49:29.392Z"
+  "updatedAt": "2026-04-01T01:49:29.392Z",
+  "narration": {
+    "files": [
+      "u5r2-old-town-bridge-flight-context.mp3",
+      "u5r2-old-town-bridge-intro.mp3",
+      "u5r2-old-town-bridge-born-from-ashes.mp3",
+      "u5r2-old-town-bridge-toll-gates-and-transformations.mp3",
+      "u5r2-old-town-bridge-a-waltz-for-the-river.mp3",
+      "u5r2-old-town-bridge-where-two-trondheims-meet.mp3"
+    ],
+    "durations": {
+      "u5r2-old-town-bridge-flight-context.mp3": 48.216125,
+      "u5r2-old-town-bridge-intro.mp3": 48.3187083,
+      "u5r2-old-town-bridge-born-from-ashes.mp3": 61.4210416,
+      "u5r2-old-town-bridge-toll-gates-and-transformations.mp3": 64.6435416,
+      "u5r2-old-town-bridge-a-waltz-for-the-river.mp3": 62.3024166,
+      "u5r2-old-town-bridge-where-two-trondheims-meet.mp3": 59.2438333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1,0 +1,65 @@
+# Battle of the North Cape
+
+Fought on December 26, 1943 in Arctic darkness and gale-force seas, the Battle of the North Cape was the last duel between British and German capital ships -- ending with the destruction of the Scharnhorst and 1,932 of her crew.
+
+**Location:** 72.5167, 28.2500
+
+**Categories:** World War II, naval battles, Arctic, Norwegian Sea, military history
+
+## Introduction
+
+The signal from Admiral Fraser was two words: "Scharnhorst sunk." The Admiralty's reply was four: "Grand, well done." In between those terse exchanges lay a day of running battle through Arctic darkness, force-8 gales, and freezing spray -- a fight that killed 1,932 German sailors and ended the era of battleship warfare in European waters. The Battle of the North Cape, fought on December 26, 1943, was the penultimate engagement between battleships in history, surpassed only by the Battle of Surigao Strait ten months later. It was also a masterpiece of naval planning, intelligence, and nerve.
+
+## The Bait and the Trap
+
+Vice Admiral Sir Bruce Fraser wanted this fight. As commander-in-chief of the Home Fleet, he understood that as long as Scharnhorst lurked in the Norwegian fjords, every Arctic convoy to the Soviet Union required massive escorts that stretched the Royal Navy thin. The solution was to lure the German battleship into the open. Convoy JW 55B, nineteen merchant ships sailing from Loch Ewe on December 20, would serve as bait. Fraser layered his forces with precision: a close escort of destroyers and corvettes with the convoy, a cruiser force under Vice Admiral Robert Burnett positioned to intercept from the east, and his own Force 2 -- built around the battleship Duke of York and including the Norwegian destroyer Stord -- approaching from the west. The trap's geometry depended on Scharnhorst sailing into the gap between the convoy and its Norwegian base, where Fraser would close to short range in the Arctic night and open fire.
+
+## Blind in the Storm
+
+On Christmas Day, Scharnhorst sailed from Altenfjord under Rear Admiral Erich Bey with five destroyers. The Luftwaffe, which had been shadowing the convoy for days, was grounded by the very storm Bey was sailing into. He had no air reconnaissance and was operating on stale position reports. Bey detached his destroyers to widen the search -- a decision that left Scharnhorst alone when Burnett's cruisers found her shortly after 09:00 on December 26. Belfast detected the German ship on radar first, and the cruisers closed rapidly. In the opening exchange, an 8-inch shell destroyed Scharnhorst's forward Seetakt radar controls. The German battleship was now effectively blind in a mounting snowstorm, her gunners forced to aim at muzzle flashes -- made harder because two British cruisers used a new flashless propellant. Bey turned south, believing he had engaged a battleship, and used Scharnhorst's superior speed to break contact.
+
+## The Noose Tightens
+
+Burnett made the critical decision of the battle. Instead of chasing, he positioned his cruisers to protect the convoy, gambling correctly that Bey would circle back for another attempt. Shortly after noon, Scharnhorst reappeared on radar, trying to reach the merchant ships from a different angle. This time the exchange was sharper: Scharnhorst's 11-inch guns disabled a turret and the radar on the cruiser Norfolk. But Bey, twice thwarted, turned for home -- sailing directly toward Fraser's heavy force without knowing it. Belfast, the lone undamaged cruiser still in pursuit, tracked Scharnhorst by radar and broadcast a continuous stream of position reports. At 16:15, Duke of York's radar picked up the German ship. At 16:48, Belfast fired star shells. Scharnhorst was illuminated with her turrets trained fore and aft, completely unprepared. Duke of York's first salvo hit, disabling the forward turrets.
+
+## Until the Last Shell
+
+What followed was a running fight through darkness and heavy seas. Scharnhorst's speed kept her in the game -- she even managed to damage Duke of York's foremast with 11-inch shells, knocking the gunnery radar offline until Lieutenant Harold Bates climbed the mast in a force-8 gale and restored it. At 18:20, a shell from Duke of York at extreme range pierced Scharnhorst's lower armor deck and destroyed her No. 1 boiler room. Speed collapsed to 10 knots. Bey's final signal: "We will fight on until the last shell is fired." Destroyers Savage, Saumarez, Scorpion, and the Norwegian Stord attacked with torpedoes, scoring five hits. Duke of York and the cruisers closed to point-blank range, star shells hanging over Scharnhorst "like a chandelier." At 19:45, she capsized and sank, propellers still turning. Of 1,968 men aboard, 36 survived. Fraser paid tribute that evening: "I hope that if any of you are ever called upon to lead a ship into action against an opponent many times superior, you will command your ship as gallantly as Scharnhorst was commanded today." Grossadmiral Karl Donitz drew a different lesson: "Surface ships are no longer able to fight without effective radar equipment."
+
+## Flight Context
+
+The Battle of the North Cape occurred at approximately 72.52N, 28.25E in the Norwegian Sea, north of Norway's North Cape. This is open ocean with no land features. Nearest airports: Banak (ENNA) approximately 180 km to the south, Hammerfest airport (ENHF) to the southwest. The area experiences extreme darkness in December (polar night) and frequent severe weather. In clear conditions, the North Cape cliff face is visible to the south.
+
+## Sources
+
+- [Battle of the North Cape - Wikipedia](https://en.wikipedia.org/?curid=887626)
+  - Corrected: 'Admiral Sir Bruce Fraser' → 'Vice Admiral Sir Bruce Fraser' (promoted to full Admiral February 7, 1944, after the battle)
+  - 1,932 killed from crew of 1,968 confirmed (36 survivors)
+  - Convoy JW 55B of 19 ships from Loch Ewe December 20, 1943 confirmed
+  - Scharnhorst sailed Christmas Day from Altenfjord with five destroyers confirmed
+  - Bey detached destroyers, leaving Scharnhorst alone confirmed
+  - 8-inch shell from HMS Norfolk destroyed Scharnhorst's forward Seetakt radar confirmed
+  - Belfast detected Scharnhorst by radar shortly after 09:00 December 26 confirmed
+  - Scharnhorst sank at 19:45 with propellers still turning confirmed
+  - Last battleship duel in European waters confirmed
+  - Fraser's tribute quote to his officers confirmed
+  - Dönitz quote about surface ships and radar confirmed
+  - Lieutenant Harold Bates climbed mast in force-8 gale to restore radar confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 12 facts verified · 1 correction
+
+Corrected: 'Admiral Sir Bruce Fraser' to 'Vice Admiral Sir Bruce Fraser' (Fraser was promoted to full Admiral only on February 7, 1944, six weeks after the battle). Verified 36 survivors of 1968 crew, Scharnhorst sank 19:45, 8-inch Norfolk shell destroyed Seetakt radar, Bey's signals, Fraser's tribute quote, Donitz radar quote, Bates climbing mast in gale.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Describes the battle as 'a masterpiece of naval planning, intelligence, and nerve'
+- Notes that the era of battleship warfare in European waters ended with this engagement
+
+---
+
+*Word count: 820*
+*Read time: 4 minutes*

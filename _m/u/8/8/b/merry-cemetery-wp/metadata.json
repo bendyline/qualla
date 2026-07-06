@@ -796,5 +796,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u88b-merry-cemetery-flight-context.mp3",
+      "u88b-merry-cemetery-intro.mp3",
+      "u88b-merry-cemetery-one-mans-first-cross.mp3",
+      "u88b-merry-cemetery-epitaphs-that-bite-and-bless.mp3",
+      "u88b-merry-cemetery-a-philosophy-in-blue-paint.mp3",
+      "u88b-merry-cemetery-sapanta-at-the-edge-of-everything.mp3"
+    ],
+    "durations": {
+      "u88b-merry-cemetery-flight-context.mp3": 49.3082916,
+      "u88b-merry-cemetery-intro.mp3": 46.4747916,
+      "u88b-merry-cemetery-one-mans-first-cross.mp3": 63.54175,
+      "u88b-merry-cemetery-epitaphs-that-bite-and-bless.mp3": 60.5491666,
+      "u88b-merry-cemetery-a-philosophy-in-blue-paint.mp3": 62.6499583,
+      "u88b-merry-cemetery-sapanta-at-the-edge-of-everything.mp3": 55.9755833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

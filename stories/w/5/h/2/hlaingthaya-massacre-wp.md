@@ -1,0 +1,68 @@
+# Hlaingthaya Massacre
+
+On a single Sunday in March 2021, Myanmar's military killed at least 65 civilians in this working-class Yangon township, transforming a garment workers' protest into one of the deadliest crackdowns of the post-coup era.
+
+**Location:** 16.8778, 96.0758
+
+**Categories:** history, human-rights, massacre, myanmar, protest
+
+## Introduction
+
+Fifty women arrived at dawn on 14 March 2021, chanting Buddhist parittas -- protective prayers -- at a barricade of cement blocks and bamboo on Hlaing River Road. By nightfall, at least 65 people were dead, martial law had been declared, and Hlaingthaya Township had become a name the world would not forget. This working-class suburb on the western fringe of Yangon, home to more than 850 garment factories and hundreds of thousands of displaced migrants, had mounted some of the largest and most organized protests against the military coup that had seized Myanmar six weeks earlier. The soldiers who came that Sunday did not come to disperse a crowd. They came to break a movement.
+
+## A Township Built on Displacement
+
+Hlaingthaya was never meant to be a center of resistance. The township sprawls across the western bank of the Hlaing River, separated from downtown Yangon by water and by class. Its population swelled after Cyclone Nargis devastated the Ayeyarwady Delta in 2008, driving internally displaced migrants into the township's dense grid of factory housing and informal settlements. More than 850 garment factories crowd the area, stitching clothes for global brands, and it was the trade union members and factory workers who gave the anti-coup protests their organizational backbone. These were people who understood collective action -- who knew how to coordinate shifts and supply chains -- and they applied those skills to building barricades and organizing sit-in strikes along Nyaungdon Road.
+
+## The Hours That Changed Everything
+
+The coup had come on 1 February, when the Myanmar Armed Forces deposed the democratically elected National League for Democracy government and established the State Administration Council as a ruling junta. Protests erupted across the country, but in Hlaingthaya they were particularly fierce. On the morning of 14 March, protesters erected sandbag barriers at major bus stops along Hlaing River Road. The women who arrived first to chant parittas believed the prayers would protect the demonstrators. By 9:30 AM, thousands had gathered. What followed was not a confrontation between two sides -- no security force casualties were reported. The death toll climbed to 58 by the following afternoon. Including subsequent killings in the days that followed, the total reached at least 65, making it one of the deadliest single incidents since the coup began.
+
+## Silence Imposed by Force
+
+That evening, the military regime declared martial law over Hlaingthaya and neighboring Shwepyitha Township, transferring judicial and executive authority to the army commander of Yangon Region. The message was unmistakable: civilian governance, already suspended at the national level, was now erased at the local level too. Three days later, on 17 March, security forces killed at least six more workers and arrested 70 others following a wage dispute at a Chinese-owned shoe factory in the township. Thousands of migrant workers fled, abandoning the jobs and homes they had scraped together since Nargis. The factories that had given Hlaingthaya its economic pulse fell quiet. Streets that had throbbed with protest were patrolled by soldiers instead.
+
+## A World Responds, Unevenly
+
+International reaction split along predictable fault lines. The UN High Commissioner for Human Rights and the International Organization for Migration condemned the killings. Christine Schraner Burgener, the UN Secretary-General's special envoy on Myanmar, and the British ambassador Dan Chugg called for an immediate end to the violence. The European Union imposed sanctions and travel bans on 11 individuals tied to the junta -- the first such EU measures since the February coup. China's response followed a different calculus. Chinese state media emphasized the financial damage to Chinese-owned enterprises in Hlaingthaya, and the Chinese embassy called on Myanmar's security forces to protect Chinese companies and personnel. The gap between outrage over human life and concern over investment spoke its own kind of truth about how the world weighs competing interests.
+
+## What Remains
+
+In the months after the massacre, Burmese poet Thitsar Ni published a poem simply titled "Hlaingthaya," drawn from what he had witnessed that day. An English translation appeared in a poetry anthology in January 2022, carrying the events beyond Myanmar's borders in a form that statistics alone cannot. Hlaingthaya remains part of Yangon's industrial fringe, its factories still producing garments, its streets still home to workers who came from somewhere else and stayed because they had nowhere else to go. The barricades are gone. The parittas have faded from the morning air. But the township's name now carries a weight it did not have before -- a marker of what ordinary people risked, and what they lost, in the struggle against a military that would not yield.
+
+## Flight Context
+
+Located at 16.88°N, 96.08°E in the western outskirts of Yangon, Myanmar. The township sits on the west bank of the Hlaing River, identifiable from the air by its dense industrial zone of garment factories. Nearest major airport is Yangon International (VYYY), approximately 15 km to the northeast. Viewing altitude of 3,000-5,000 feet recommended to distinguish the industrial district from surrounding residential areas.
+
+## Sources
+
+- [Hlaingthaya massacre - Wikipedia](https://en.wikipedia.org/?curid=73152012)
+  - Date March 14, 2021 confirmed
+  - Death toll at least 65 confirmed (Human Rights Watch December 2021 report)
+  - Coup date February 1 confirmed
+  - Martial law declared that evening confirmed
+  - Cyclone Nargis 2008 displacement context confirmed
+  - More than 850 garment factories confirmed
+  - EU sanctions on 11 individuals confirmed
+  - Shwepyitha Township also placed under martial law confirmed
+- [Myanmar: Protesters Targeted in March Massacre - Human Rights Watch](https://www.hrw.org/news/2021/12/02/myanmar-protesters-targeted-march-massacre)
+  - At least 65 killed confirmed by HRW investigation
+  - Victims aged 17-78 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 12 facts verified · 0 corrections
+
+Verified date March 14 2021, death toll 65, coup February 1, martial law declared same evening, 850+ garment factories, EU sanctions on 11 individuals, Cyclone Nargis 2008 displacement. All confirmed by HRW report and Wikipedia. Spiciness 3.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Military described as coming 'to break a movement' not merely disperse a crowd
+- China's response characterized as prioritizing investment over human life
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

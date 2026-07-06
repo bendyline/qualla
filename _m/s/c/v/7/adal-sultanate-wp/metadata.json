@@ -28,7 +28,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "adal-sultanate-wp",
-    "sourceGeohash4": "scv7"
+    "sourceGeohash4": "scv7",
+    "mediumPath": "_m/s/c/v/7/adal-sultanate-wp/hero-medium.webp",
+    "smallPath": "_m/s/c/v/7/adal-sultanate-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "YagbeaSionBattlingAdaSultan.JPG",
@@ -420,5 +422,24 @@
     "_m/s/c/v/7/adal-sultanate-wp/garad-wiil-waal.jpg",
     "_m/s/c/v/7/adal-sultanate-wp/category-11.jpg"
   ],
-  "updatedAt": "2026-03-31T06:06:43.330Z"
+  "updatedAt": "2026-03-31T06:06:43.330Z",
+  "narration": {
+    "files": [
+      "scv7-adal-sultanate-flight-context.mp3",
+      "scv7-adal-sultanate-intro.mp3",
+      "scv7-adal-sultanate-a-kingdom-forged-in-vengeance.mp3",
+      "scv7-adal-sultanate-the-emirs-who-overruled-sultans.mp3",
+      "scv7-adal-sultanate-imam-ahmads-conquest.mp3",
+      "scv7-adal-sultanate-the-long-unraveling.mp3"
+    ],
+    "durations": {
+      "scv7-adal-sultanate-flight-context.mp3": 43.6897083,
+      "scv7-adal-sultanate-intro.mp3": 55.3398333,
+      "scv7-adal-sultanate-a-kingdom-forged-in-vengeance.mp3": 67.202875,
+      "scv7-adal-sultanate-the-emirs-who-overruled-sultans.mp3": 71.2625416,
+      "scv7-adal-sultanate-imam-ahmads-conquest.mp3": 75.5287083,
+      "scv7-adal-sultanate-the-long-unraveling.mp3": 78.7208333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

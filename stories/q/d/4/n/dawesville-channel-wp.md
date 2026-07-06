@@ -1,0 +1,54 @@
+# Dawesville Channel
+
+An artificial channel carved through the Western Australian coast in the 1990s to rescue a dying estuary from decades of toxic algal blooms, transforming it into one of the region's great environmental success stories.
+
+**Location:** -32.6071, 115.6411
+
+**Categories:** engineering, environmental-restoration, western-australia, coastal-infrastructure
+
+## Introduction
+
+By the mid-1980s, the Peel-Harvey Estuary stank. Not the faint brackish odor of healthy tidal flats, but the unmistakable reek of rotting algae baking in the Western Australian summer sun. Thick mats of blue-green cyanobacteria choked the shallows, fish and crab stocks collapsed, and residents who had once enjoyed boating and swimming on the estuary found themselves living beside what amounted to a vast, warm, nutrient-saturated petri dish. The political arguments were as toxic as the water. For over two decades, farmers blamed industry, industry blamed farmers, and the estuary kept getting worse. The solution, when it finally came, was as blunt as it was effective: carve a 2.5-kilometer channel straight through the coastline and let the Indian Ocean flush the system clean.
+
+## A Century of Slow Poisoning
+
+The Peel-Harvey Estuary system collects runoff from the Murray, Serpentine, and Harvey rivers and their tributaries across a catchment area that receives nearly all its rainfall between May and October, typical of the region's Mediterranean climate. European settlers in the nineteenth century found the flatlands above the estuary impassable during winter floods and undertook massive drainage works to free the land for livestock. Over a hundred years of clearing, draining, and farming degraded the soil until farmers began applying excessive amounts of superphosphate fertilizer to compensate for lost nutrients. By the 1970s, piggeries, sheep paddocks, and industrial runoff were dumping phosphorus into the rivers at rates the estuary could not absorb. The tipping point arrived when seasonal blooms of Nodularia spumigena, a toxic cyanobacterium, began appearing with devastating regularity. Sunlight, stagnant water, and nutrients combined to produce massive blue-green algal blooms that turned the estuary eutrophic.
+
+## Twenty Years of Failed Remedies
+
+Governments and agricultural groups tried nearly everything. Fertilizer manufacturer CSBP developed a slow-release "sandplain" superphosphate. Alcoa's bauxite mine tailings were spread across farmland to bind phosphorus in the soil. Cleared land was reforested. Work-for-the-Dole crews refurbished aquatic habitats. The worst industrial polluters, including a large piggery, were removed. Graders scraped algae off estuary foreshores and trucked it away, while engineers tested automated mechanical harvesting systems. Each measure helped to some degree, but none came close to solving the fundamental problem: too many nutrients were entering a system with too little water exchange. Environmental scientists Professor Arthur McComb and Ernest Hodgkin identified the phosphorus load as the primary culprit and concluded that while better fertilizer practices would improve things over time, only a dramatic increase in ocean flushing would rescue the estuary in the short term.
+
+## Cutting Through the Coast
+
+After years of deliberation, the Western Australian government committed $54 million to build an artificial channel from the estuary to the Indian Ocean at Dawesville, south of Mandurah. Construction began in 1990 and was completed in April 1994. Workers excavated approximately 4.5 million cubic meters of material to create a channel 2.5 kilometers long and 200 meters wide. Breakwaters, training walls, and the four-lane Port Bouvard Bridge were constructed as part of the project, along with a sand bypassing system to prevent the channel from silting shut. The engineering was straightforward in concept but massive in scale. The channel introduced a daily tidal movement of about one meter into the estuary, raising salinity to levels that suppressed cyanobacterial germination and flushing accumulated nutrients out to sea. The natural opening near Mandurah was also widened and deepened to further improve water exchange.
+
+## The Estuary Reborn
+
+The results were unambiguous. Since the Dawesville Channel opened, no blue-green algal blooms have occurred in the Peel-Harvey Estuary. Fish and crab populations recovered. Recreational use of the waterway resumed. The Port Bouvard Bridge now carries approximately 40,000 vehicles daily along the Old Coast Road, and residential canal developments including the suburb of Wannanup have been built along the channel's edges. A golf course occupies the landscaped banks. The sand bypassing system moves roughly 85,000 cubic meters of sand annually from south to north, counteracting the natural coastal drift driven by prevailing southwesterly winds. Without this constant mechanical intervention, the channel would silt up within years. The Dawesville Channel is not a set-and-forget solution; it requires ongoing maintenance. But as a demonstration that humans can reverse the environmental damage they cause, it stands as one of Western Australia's most instructive success stories.
+
+## Flight Context
+
+Located at 32.61S, 115.64E, the Dawesville Channel is strikingly visible from the air as a straight, wide cut through the coastline connecting the Peel-Harvey Estuary to the Indian Ocean. The Port Bouvard Bridge crossing is a clear landmark. Fly south from Mandurah (approximately 10 km north) along the coast to spot the channel. The broader estuary system spreads inland to the east. Nearest airport is Murrayfield Airport (YMUR) near Mandurah. At 3,000-5,000 ft, the contrast between the estuary's protected waters and the open ocean on either side of the channel is dramatic. Yalgorup National Park begins immediately to the south.
+
+## Sources
+
+- [Dawesville Channel - Wikipedia](https://en.wikipedia.org/?curid=12003226)
+  - Corrected: Cost updated from '$37 million' (initial estimate) to '$54 million' (actual completed cost per official government media statements)
+  - Confirmed: Construction began 1990, completed April 1994
+  - Confirmed: 2.5 km long, 200 metres wide channel
+  - Confirmed: Approximately 4.5 million cubic metres of material excavated
+  - Confirmed: No blue-green algal blooms since channel opened
+  - Confirmed: Sand bypassing system moves roughly 85,000 cubic metres annually
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 6 facts verified · 1 correction
+
+CORRECTION: Construction cost corrected from '7 million' (initial estimate) to '4 million' (actual completed cost, per official WA government media statements at opening). All other facts verified: 1990 start date, April 1994 completion, 2.5km length, 200m width, 4.5 million cubic metres excavated, sand bypassing 85,000 cubic metres annually. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

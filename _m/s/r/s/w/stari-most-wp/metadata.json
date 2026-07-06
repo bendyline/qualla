@@ -779,5 +779,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "srsw-stari-most-flight-context.mp3",
+      "srsw-stari-most-intro.mp3",
+      "srsw-stari-most-the-sultans-commission.mp3",
+      "srsw-stari-most-a-bridge-and-its-city.mp3",
+      "srsw-stari-most-nine-minutes-four-centuries-gone.mp3",
+      "srsw-stari-most-pulling-stones-from-the-river.mp3",
+      "srsw-stari-most-leaping-from-the-arch.mp3"
+    ],
+    "durations": {
+      "srsw-stari-most-flight-context.mp3": 42.01675,
+      "srsw-stari-most-intro.mp3": 58.6915833,
+      "srsw-stari-most-the-sultans-commission.mp3": 74.1459166,
+      "srsw-stari-most-a-bridge-and-its-city.mp3": 44.7644166,
+      "srsw-stari-most-nine-minutes-four-centuries-gone.mp3": 62.162375,
+      "srsw-stari-most-pulling-stones-from-the-river.mp3": 56.5534166,
+      "srsw-stari-most-leaping-from-the-arch.mp3": 60.8555416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

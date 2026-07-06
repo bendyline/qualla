@@ -1,0 +1,73 @@
+# Enola Gay
+
+The Boeing B-29 that dropped the first atomic bomb on Hiroshima sits fully restored in a Virginia hangar, still carrying the weight of the moment that split history in two.
+
+**Location:** 38.9108, -77.4442
+
+**Categories:** history, military, aviation, world-war-ii, atomic-age
+
+## Introduction
+
+A young Army maintenance man named Nelson Miller painted the name in the early morning darkness of August 6, 1945, just below the pilot's window: Enola Gay, after Colonel Paul Tibbets' mother. Hours later, that name would become the most recognized in aviation history. The Boeing B-29 Superfortress carried a single weapon -- a uranium gun-type bomb code-named "Little Boy" -- from Tinian Island in the Pacific to the city of Hiroshima, Japan, destroying three-quarters of it in a single blinding flash. Today, the fully restored aircraft occupies a place of uneasy prominence at the Smithsonian's Steven F. Udvar-Hazy Center near Dulles Airport, elevated eight feet above the hangar floor -- close enough to read the hand-painted nose art, far enough to take in the sheer scale of what happened.
+
+## Built for a Secret
+
+The aircraft that would change the world rolled off the assembly line at the Glenn L. Martin Company plant in Bellevue, Nebraska, as one of fifteen B-29s built to the classified "Silverplate" specification. These were no ordinary bombers. Their bomb bays were extensively modified with pneumatic doors and British bomb-release systems. Protective armor and gun turrets were stripped away. Engines received fuel injection and improved cooling, and reversible-pitch propellers provided extra braking on landing -- all modifications designed for a single purpose no one on the assembly line was told about. Colonel Tibbets personally selected the aircraft on May 9, 1945, while it was still being assembled. Accepted by the Army Air Forces nine days later, it was assigned to the 509th Composite Group, a unit so secret that its members were forbidden from telling even their families what they did.
+
+## Fifty-Three Seconds
+
+The mission launched from North Field, Tinian, in the Northern Mariana Islands, the takeoff illuminated by floodlights because Manhattan Project director General Leslie Groves wanted the moment recorded for posterity. Tibbets leaned out the window to wave bystanders away from his taxiing path. Three B-29s flew in loose formation: Enola Gay carrying the weapon, The Great Artiste carrying instruments, and a third aircraft -- later named Necessary Evil -- carrying cameras. Navy Captain William "Deak" Parsons armed Little Boy during flight to avoid the risk of a catastrophic accident on takeoff. At 8:15 a.m. Hiroshima time, bombardier Thomas Ferebee released the bomb. It fell for 53 seconds. The detonation killed between 70,000 and 80,000 people instantly -- 30 percent of the city's population -- and injured another 70,000. Japanese officials later determined that 69 percent of Hiroshima's buildings were destroyed. Enola Gay felt the shock waves from eleven and a half miles away, but returned to Tinian undamaged after 12 hours and 13 minutes aloft. Tibbets stepped off the plane and was handed the Distinguished Service Cross on the tarmac.
+
+## The Wandering Bomber
+
+After the war, Enola Gay drifted through a series of temporary homes like a relic no one quite knew what to do with. It returned to Roswell Army Air Field, New Mexico, flew to Kwajalein for the 1946 Operation Crossroads nuclear tests but was not selected for the drop, then was transferred to the Smithsonian Institution on August 30, 1946. For the next fifteen years, the aircraft sat at various air bases exposed to weather and souvenir hunters -- Davis-Monthan in Arizona, Orchard Place in Illinois, Pyote in Texas, Andrews in Maryland. In 1960, Smithsonian staff finally began dismantling the bomber, moving the pieces to a storage facility in Suitland, Maryland. There it sat for over two decades, deteriorating quietly, until 509th veterans Don Rehl and Frank Stewart enlisted Tibbets and Senator Barry Goldwater in a campaign to restore it.
+
+## Three Hundred Thousand Hours
+
+The restoration that followed was the most extensive in Smithsonian history, consuming some 300,000 staff hours over nearly two decades. Two engines were rebuilt at the Garber facility, two more at the San Diego Air and Space Museum. Missing parts and instruments were located or fabricated from scratch, each replacement carefully marked so future curators could distinguish original components from reproductions. In 1995, the cockpit and nose section went on display at the National Air and Space Museum on the National Mall for the bombing's 50th anniversary -- and ignited a firestorm. The planned exhibit, The Crossroads, was attacked by veterans' groups for focusing too heavily on Japanese casualties; protesters threw ash, blood, and red paint; the museum director was forced to resign. The full aircraft was finally reunited in 2003 at the Udvar-Hazy Center, its fuselage and wings joined for the first time since 1960. The signage beside it offers only technical data, the same stripped-down label given to every other aircraft in the collection.
+
+## The Weight of Silence
+
+The Enola Gay now rests on three eight-foot stands in the Boeing Aviation Hangar, positioned so visitors can walk beneath its wings and study it from multiple levels. It is one of the most visited artifacts in the Smithsonian system, and one of the most quietly controversial. The deliberate absence of interpretive context -- no discussion of the bombing's strategic rationale, no mention of casualties, no acknowledgment of the debate that has raged for eight decades -- is itself a statement. The last surviving crew member, navigator Theodore "Dutch" Van Kirk, died on July 28, 2014, at the age of 93. Jacob Beser, the radar countermeasures officer, holds a distinction no one envied: he was the only person to fly on both atomic bombing missions, aboard Enola Gay over Hiroshima and Bockscar over Nagasaki. The aircraft sits in its hangar, gleaming and silent, a machine that once carried a weapon weighing roughly 9,700 pounds and delivered consequences that still shape the world.
+
+## Flight Context
+
+Located at 38.91N, 77.44W at the Steven F. Udvar-Hazy Center, directly adjacent to Washington Dulles International Airport (KIAD). The massive hangar complex is visible on approach to Dulles, sitting just south of the main runways. The museum is connected to the airport via a private taxiway. Look for the distinctive observation tower alongside the long, low hangar structures. Manassas Regional Airport (KHEF) lies about 12 miles to the south. Best viewed at 2,000-3,000 feet AGL on approach from the south or west. The aircraft is displayed indoors and not visible from the air, but the hangar that houses it is unmistakable.
+
+## Sources
+
+- [Enola Gay - Wikipedia](https://en.wikipedia.org/?curid=9597)
+  - Named after Colonel Paul Tibbets' mother
+  - Carried uranium gun-type bomb code-named 'Little Boy' from Tinian Island
+  - Built by Glenn L. Martin Company in Bellevue, Nebraska as Silverplate B-29
+  - Tibbets selected the aircraft on May 9, 1945 while still on assembly line
+  - Navy Captain William Parsons armed Little Boy during flight
+  - Bombardier Thomas Ferebee released the bomb at 8:15 a.m. Hiroshima time
+  - Bomb fell for 53 seconds
+  - Killed between 70,000 and 80,000 people instantly
+  - Japanese officials determined 69 percent of Hiroshima's buildings were destroyed
+  - Theodore 'Dutch' Van Kirk, last surviving crew member, died July 28, 2014, age 93
+  - Little Boy weighed roughly 9,700 pounds -- confirmed
+  - Jacob Beser flew on both atomic bombing missions
+- [Boeing B-29 Superfortress Enola Gay - National Air and Space Museum](https://airandspace.si.edu/collection-objects/boeing-b-29-superfortress-enola-gay/nasm_A19500100000)
+  - Restoration consumed approximately 300,000 staff hours
+  - Full aircraft reunited at Udvar-Hazy Center in 2003
+  - 1995 exhibit controversy caused museum director to resign
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 12 facts verified · 0 corrections
+
+Verified Tibbets named plane after mother, Little Boy weighed 9700 lbs, bomb fell 53 seconds, 70000-80000 killed instantly, 69% buildings destroyed, Van Kirk died July 28 2014 age 93, Jacob Beser flew both missions, 300000 restoration hours. All facts confirmed.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Deliberate absence of interpretive context 'is itself a statement'
+- Aircraft described as carrying 'consequences that still shape the world'
+
+---
+
+*Word count: 870*
+*Read time: 4 minutes*

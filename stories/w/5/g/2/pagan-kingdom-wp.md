@@ -1,0 +1,60 @@
+# Pagan Kingdom
+
+On the banks of the Irrawaddy, over 2,000 Buddhist temples rise from the plains of Bagan -- the remnants of a medieval empire that unified Burma and gave Theravada Buddhism its greatest stronghold.
+
+**Location:** 21.1722, 94.8603
+
+**Categories:** ancient-civilization, buddhism, archaeology, myanmar, southeast-asia
+
+## Introduction
+
+More than two thousand temples still stand on the plains of Bagan, their spires and domes scattered across forty square kilometers of dry scrubland along the Irrawaddy River. Some are massive, with vaulted corridors and towering brick facades. Others are small, barely taller than the surrounding palm trees, crumbling into the red earth. Together they are the legacy of the Pagan Kingdom, the first Burmese empire, which between the 9th and 13th centuries unified the Irrawaddy valley, spread Theravada Buddhism across mainland Southeast Asia, and forged the cultural identity of a nation.
+
+## A Kingdom Built on Rice and Water
+
+The story of Pagan begins not with conquest but with irrigation. Burmese settlers, believed to have descended from the Nanzhao kingdom of Yunnan, arrived in the mid-to-late 9th century and settled at the confluence of the Irrawaddy and Chindwin rivers. They found a semi-arid landscape, the dry zone of Upper Myanmar, where rain alone could not sustain large populations. What transformed this modest settlement into an empire was the development of weirs, canals, and sluices -- particularly around the Kyaukse district east of Pagan. When King Anawrahta came to power in 1044, he invested his first decade in expanding these irrigation systems, turning parched land into rice paddies. The region became known as Ledwin, "rice country," and its surplus grain fed a growing population that could be levied into armies. Control of Kyaukse became the key to power in Upper Myanmar, a pattern that would hold for centuries.
+
+## The Empire of Anawrahta
+
+By the mid-1050s, Anawrahta had built enough strength to look beyond his borders. Over the next decade, he founded what historians call the First Burmese Empire, extending his authority from the Irrawaddy heartland south to the Tenasserim coast, northeast into the Shan Hills, and west into northern Arakan. The conquest of Lower Myanmar checked the expanding Khmer Empire and secured control of peninsular ports that served as transit points between the Indian Ocean and China. But Anawrahta's most enduring legacy was religious. He converted from the local Ari Buddhism -- a syncretic tradition whose monks drank liquor, presided over animal sacrifices, and reportedly practiced a form of ius primae noctis -- to the Theravada school. At a time when Theravada Buddhism was in retreat across South and Southeast Asia, Pagan became its greatest refuge. In 1071, the kingdom helped restart Theravada ordination in Ceylon after the Chola invasions had wiped out the island's Buddhist clergy.
+
+## Golden Age on the Irrawaddy
+
+Anawrahta's successors built on his foundations. King Kyansittha, who reigned from 1084 to 1112, was a masterful synthesizer. He patronized Mon scholars and artisans, linked his genealogy to the ancient Pyu civilization of Sri Ksetra, and called the kingdom "Pyu" even as Burman military rule went unquestioned. Under his grandson Alaungsithu, standardized weights and measures were introduced across the empire, and frontier colonies expanded the agricultural base. Temple construction, which had begun modestly, grew grandiose. The masonry of Pagan's builders shows what one scholar called "an astonishing degree of perfection" -- structures so well engineered that many survived the devastating 1975 earthquake more or less intact. By the reign of Sithu II in the late 12th century, Pagan's influence extended to the Strait of Malacca. He founded a standing army, the Palace Guards, in 1174. Burmese replaced Pyu and Mon as the kingdom's primary written language, and the term Mranma -- Burmans -- appeared openly in inscriptions for the first time.
+
+## The Generosity That Destroyed an Empire
+
+Pagan's downfall is one of history's great ironies. The Buddhist piety that defined the kingdom also hollowed it out. For two centuries, royals, officials, and wealthy laypeople had donated enormous tracts of agricultural land to monasteries and temples, along with hereditary laborers -- all permanently exempt from taxation. The practice initially stimulated the economy by anchoring new population centers around monastery complexes. But the empire eventually stopped expanding while the donations did not. By 1280, between one-third and two-thirds of Upper Myanmar's cultivable land belonged to the Buddhist clergy. The crown tried periodic purges of the sangha to reclaim property, but the powerful clergy resisted. Without revenue, the throne could not pay its soldiers or retain the loyalty of its governors. When the Mongols of Kublai Khan demanded tribute in 1271 and again in 1273, King Narathihapate refused both times. The Mongols invaded, defeating the Burmese at the Battle of Ngasaunggyan in 1277 and pushing south to Hanlin by 1285. Narathihapate fled his own capital and was assassinated by his son in 1287.
+
+## What Survived the Fall
+
+The city of Pagan, once home to 200,000 people, shrank to a small town and never recovered its former status. But the kingdom's cultural legacy proved more durable than its walls. The administrative systems, legal codes, and cultural norms established during Pagan's 250-year rule became the template for every successor state -- not only the Burmese-speaking Ava Kingdom but also the Mon-speaking Hanthawaddy Kingdom and the Shan states. The Burmese alphabet, likely developed from the Mon script in 1058 following Anawrahta's conquests, spread with the language. Where the Khmer Empire, toppled by the same Mongol tide, never recovered its former greatness, Myanmar's cultural continuity enabled eventual reunification under the Toungoo dynasty in the 16th century. Today the temples of Bagan remain, their brick corridors still cool against the midday heat, their frescoes of Jataka stories faded but legible. They are monuments not just to faith but to the civilization that gave Myanmar its language, its religion, and its sense of itself.
+
+## Flight Context
+
+The Bagan archaeological zone is located at 21.17N, 94.86E on the east bank of the Irrawaddy River in central Myanmar's dry zone. Over 2,000 temples are visible from altitude, spread across a flat plain that contrasts sharply with the green river corridor. The nearest airport is Nyaung-U Airport (VYBG), adjacent to the site. Mandalay International Airport (VYMD) is approximately 150 km to the northeast. Best viewed in early morning or late afternoon when shadows define the temple silhouettes against the dusty plain.
+
+## Sources
+
+- [Pagan Kingdom - Wikipedia](https://en.wikipedia.org/?curid=6688093)
+  - Anawrahta came to power in 1044
+  - Theravada Buddhism help restart ordination in Ceylon in 1071 confirmed
+  - Mongols demanded tribute 1271 and 1273, invaded and defeated Burmese at Battle of Ngasaunggyan 1277
+  - Narathihapate fled and was assassinated by his son in 1287
+  - Sithu II founded Palace Guards standing army in 1174
+- [Anawrahta - Wikipedia](https://en.wikipedia.org/wiki/Anawrahta)
+  - Anawrahta accession to throne confirmed as 1044
+  - Extended authority from Irrawaddy heartland south to Tenasserim coast, northeast to Shan Hills, west into Arakan confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 12 facts verified · 0 corrections
+
+Verified Anawrahta 1044 accession, Mongol invasion timeline, Ngasaunggyan 1277, Narathihapate assassination 1287, Theravada ordination help in Ceylon 1071. No corrections needed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

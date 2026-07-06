@@ -64,5 +64,24 @@
     "sourceGeohash4": "ue4m"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "ue4m-konginkangas-bus-disaster-flight-context.mp3",
+      "ue4m-konginkangas-bus-disaster-intro.mp3",
+      "ue4m-konginkangas-bus-disaster-black-ice-at-two-in-the-morning.mp3",
+      "ue4m-konginkangas-bus-disaster-thirty-two-causes.mp3",
+      "ue4m-konginkangas-bus-disaster-young-lives-long-consequences.mp3",
+      "ue4m-konginkangas-bus-disaster-trials-and-reforms.mp3"
+    ],
+    "durations": {
+      "ue4m-konginkangas-bus-disaster-flight-context.mp3": 47.1765416,
+      "ue4m-konginkangas-bus-disaster-intro.mp3": 53.5724583,
+      "ue4m-konginkangas-bus-disaster-black-ice-at-two-in-the-morning.mp3": 57.9337083,
+      "ue4m-konginkangas-bus-disaster-thirty-two-causes.mp3": 59.9396666,
+      "ue4m-konginkangas-bus-disaster-young-lives-long-consequences.mp3": 59.2051666,
+      "ue4m-konginkangas-bus-disaster-trials-and-reforms.mp3": 68.369
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

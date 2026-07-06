@@ -1,0 +1,39 @@
+{
+  "id": "kayoa-wp",
+  "patch": {
+    "media": {
+      "hero": {
+        "path": "_m/w/b/4/8/kayoa-wp/hero.png",
+        "filename": "Maluku Islands en.png",
+        "caption": "Map of Maluku Islands",
+        "alt": "Map of Maluku Islands",
+        "width": 1489,
+        "height": 1640,
+        "mimeType": "image/png",
+        "license": "CC BY-SA 3.0",
+        "artist": "Lencer",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maluku_Islands_en.png",
+        "sourceType": "core",
+        "sourceArticleId": "kayoa-wp",
+        "sourceGeohash4": "wb48",
+        "categories": [
+          "CC-BY-SA-3.0",
+          "Kartenwerkstatt",
+          "Locator map images that should use vector graphics",
+          "Maps of the Moluccas",
+          "PNG that should use vector graphics",
+          "Self-published work"
+        ]
+      },
+      "narration": [
+        "_m/w/b/4/8/kayoa-wp/wb48-kayoa-flight-context.mp3",
+        "_m/w/b/4/8/kayoa-wp/wb48-kayoa-intro.mp3",
+        "_m/w/b/4/8/kayoa-wp/wb48-kayoa-the-spice-that-launched-a-thousand-ships.mp3",
+        "_m/w/b/4/8/kayoa-wp/wb48-kayoa-stone-coral-and-fire.mp3",
+        "_m/w/b/4/8/kayoa-wp/wb48-kayoa-where-two-language-families-meet.mp3",
+        "_m/w/b/4/8/kayoa-wp/wb48-kayoa-echoes-in-the-cave.mp3"
+      ],
+      "combinedNarration": "_m/w/b/4/8/kayoa-wp/wb48-kayoa-combined.mp3"
+    }
+  }
+}

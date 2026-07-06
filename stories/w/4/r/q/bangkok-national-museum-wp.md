@@ -1,0 +1,58 @@
+# Bangkok National Museum
+
+Southeast Asia's largest museum occupies a former royal palace and houses treasures spanning Thai history from Neolithic times to recently repatriated Khmer bronzes.
+
+**Location:** 13.7578, 100.4923
+
+**Categories:** museum, history, art, culture, Bangkok
+
+## Introduction
+
+In May 2024, a four-foot-tall bronze statue arrived at the Bangkok National Museum after a journey of roughly 900 years and 8,000 miles. Known as the Golden Boy, the figure -- possibly Shiva, possibly a Khmer king -- had been unearthed by a villager in northeast Thailand decades earlier, smuggled out of the country, and displayed at the Metropolitan Museum of Art in New York for thirty years. Its homecoming marked a rare victory in Thailand's long campaign to recover looted antiquities, and it landed in exactly the right place: a museum whose own history is a story of collection, loss, and reclamation.
+
+## A Son's Tribute, A Kingdom's Memory
+
+The museum traces its origins to 1874, when King Chulalongkorn, Rama V, opened a public exhibition at the Concordia Pavilion inside the Grand Palace. The display featured the antiquities collection of his father, King Mongkut, Rama IV -- a ruler who had spent 27 years as a Buddhist monk before ascending the throne and who accumulated objects with a scholar's curiosity. The Fine Arts Department marks 19 September 1874 as the birthday of Thailand's first national museum. In 1887, Chulalongkorn moved the collection to the Front Palace, the Wang Na, which had been built for the vice king -- a position roughly equivalent to crown prince, though in a kingdom with no law of primogeniture, the title often passed to a brother rather than a son. Chulalongkorn had abolished the position entirely, leaving an empty palace that became the museum's permanent home.
+
+## Civilizations Under One Roof
+
+Walk through the galleries today and you cross centuries with each doorway. The Thai History Gallery fills the front of Siwamokhaphiman Hall, a former ceremonial audience chamber, where the Ram Khamhaeng Inscription sits behind glass -- a 13th-century stone tablet describing early Thai script, governance, and religion that earned a place on UNESCO's Memory of the World Register in 2003. Behind this hall, the Prehistory Gallery covers Thailand's deep past, from Neolithic tools to Bronze Age settlements. The North Wing Building picks up the thread with sculptures and art spanning the Dvaravati, Srivijaya, and Lopburi periods, before the Sukhothai and Ayutthaya kingdoms emerge. The range extends well beyond Thailand. Indian Gandhara sculptures, Chinese Tang dynasty pieces, Vietnamese Cham art, Javanese reliefs, and Cambodian Khmer works fill adjacent rooms, making this one of the most comprehensive collections of Asian Buddhist art anywhere in Southeast Asia.
+
+## The Golden Boy Comes Home
+
+The repatriation of the Golden Boy and a companion sculpture known as the Kneeling Lady represents something larger than two bronzes returning to their country of origin. Both pieces are stylistically linked to the Khmer Empire art tradition that flourished in present-day Buriram province between the 11th and 12th centuries. They entered the Met's collection in the late 1980s through antiquities networks associated with Douglas Latchford, a dealer later charged with art trafficking. After years of diplomatic negotiation and provenance research, the Met agreed in 2023 to return the two statues to Thailand, alongside fourteen Khmer works to Cambodia. At the May 2024 repatriation ceremony, Thai cultural officials and U.S. representatives stood together in the museum -- a gesture of international commitment to addressing the colonial-era and postwar trade in looted antiquities. Thailand's Ministry of Culture noted that requests were being pursued for roughly thirty more artifacts believed to have been removed during the 20th century.
+
+## Three Buildings, Three Worlds
+
+The museum campus is itself a collection of historical layers. Siwamokhaphiman Hall dates to the founding of the Front Palace under Maha Sura Singhanat, the Prince Successor to Rama I, and once served as an audience hall before its conversion into gallery space. The Buddhaisawan Chapel, built in 1787, houses the Phra Phuttha Sihing, one of Thailand's most revered Buddha images, surrounded by interior murals depicting scenes from the Buddha's life. Then there is the Red House -- a teak residence originally belonging to Princess Sri Sudarak, elder sister of Rama I. The building was physically moved from the old palace in Thonburi across the river to the Grand Palace for Queen Sri Suriyendra, wife of Rama II. Now furnished in early Rattanakosin-period style, it offers a glimpse into royal domestic life, down to the queen's personal possessions. A decade-long renovation has already updated twelve exhibition halls with new interiors, improved lighting, and multimedia displays; four more halls remain in the queue.
+
+## Flight Context
+
+Located at 13.7578N, 100.4923E on Rattanakosin Island in Bangkok's historic core, between Thammasat University and the National Theater, facing the open field of Sanam Luang. The museum complex is visible as a cluster of traditional Thai rooflines near the Grand Palace. Best viewed at 2,000-3,000 feet. Nearest airport: Don Mueang (VTBD) approximately 15 nm north. Suvarnabhumi (VTBS) approximately 18 nm east-southeast.
+
+## Sources
+
+- [Bangkok National Museum - Wikipedia](https://en.wikipedia.org/?curid=12068538)
+  - Museum founded 1874 at Concordia Pavilion by Chulalongkorn confirmed
+  - Fine Arts Department marks 19 September 1874 as founding date confirmed
+  - Collection moved to Front Palace (Wang Na) in 1887 confirmed
+  - Golden Boy and Kneeling Lady returned from Met May 2024 confirmed
+  - Both bronzes linked to Khmer Empire art from Buriram province 11th-12th century confirmed
+  - Douglas Latchford named as dealer associated with entry into Met collection confirmed
+  - Met agreed 2023 to return two statues to Thailand confirmed
+  - Ram Khamhaeng Inscription on UNESCO Memory of the World Register since 2003 confirmed
+  - Buddhaisawan Chapel built 1787 confirmed
+  - Red House originally belonged to Princess Sri Sudarak confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-07 · 10 facts verified · 0 corrections
+
+All facts verified: founded 1874 at Concordia Pavilion confirmed, moved to Front Palace 1887 confirmed, Golden Boy repatriation May 2024 confirmed, Khmer Empire art from Buriram 11th-12th century confirmed, Ram Khamhaeng Inscription UNESCO 2003 confirmed, Buddhaisawan Chapel 1787 confirmed. Added sources and editorial metadata.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 740*
+*Read time: 4 minutes*

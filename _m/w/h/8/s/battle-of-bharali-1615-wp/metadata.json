@@ -113,5 +113,24 @@
   "galleryPaths": [
     "_m/w/h/8/s/battle-of-bharali-1615-wp/reconstructed-design-m.png",
     "_m/t/c/3/3/kandy-wp/south-asia-non-political-with-.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wh8s-battle-of-bharali-1615-flight-context.mp3",
+      "wh8s-battle-of-bharali-1615-intro.mp3",
+      "wh8s-battle-of-bharali-1615-an-empire-reaches-east.mp3",
+      "wh8s-battle-of-bharali-1615-the-ahom-kingdom-expands.mp3",
+      "wh8s-battle-of-bharali-1615-night-falls-on-the-mughals.mp3",
+      "wh8s-battle-of-bharali-1615-aftershocks-along-the-brahmaputra.mp3"
+    ],
+    "durations": {
+      "wh8s-battle-of-bharali-1615-flight-context.mp3": 50.5774166,
+      "wh8s-battle-of-bharali-1615-intro.mp3": 44.8218333,
+      "wh8s-battle-of-bharali-1615-an-empire-reaches-east.mp3": 58.3890833,
+      "wh8s-battle-of-bharali-1615-the-ahom-kingdom-expands.mp3": 60.2000416,
+      "wh8s-battle-of-bharali-1615-night-falls-on-the-mughals.mp3": 61.811375,
+      "wh8s-battle-of-bharali-1615-aftershocks-along-the-brahmaputra.mp3": 70.4879583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

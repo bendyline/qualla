@@ -1,0 +1,56 @@
+# Tamozawa Imperial Villa: Three Eras Under One Roof
+
+A 106-room wooden palace in Nikko that began as a Tokugawa clan residence in Edo-era Tokyo, was transplanted to the mountains as an imperial summer retreat in 1899, and sheltered two emperors during World War II before falling into decades of silence.
+
+**Location:** 36.7525, 139.5914
+
+**Categories:** historic-site, museum, imperial-residence, architecture, nikko
+
+## Introduction
+
+Eighty-three of the 106 rooms were reserved for the emperor's entourage -- court ladies, attendants, and officials whose presence required an entire wing of the building. That ratio tells you everything about the scale of imperial life at Tamozawa. This is not a villa in any Western sense of the word. It is an architectural palimpsest, a building written and rewritten across three centuries of Japanese history, standing quietly in the cedar forests of Nikko while tour buses rumble past toward the famous shrines a short walk away. Most visitors to Nikko never set foot inside Tamozawa. Those who do find something the shrines cannot offer: intimacy with the private world of Japan's emperors, laid out room by room in wood, paper, and glass.
+
+## A House That Traveled
+
+The oldest timbers in Tamozawa Imperial Villa were cut during the Edo period for the Tokyo residence of the Kishu branch of the Tokugawa clan. That mansion, known as the Akasaka Riyu, became imperial property in 1872 after the Meiji Restoration swept the Tokugawa shogunate from power. Every chrysanthemum seal in the building replaced a Tokugawa crest -- a symbolic overwriting of one dynasty by another. For twenty-six years the residence served emperors and crown princes in Tokyo. Then, in 1899, the entire structure was disassembled and transported to Nikko, where it was reassembled and expanded into a summer retreat for Crown Prince Yoshihito, the future Emperor Taisho. The villa also incorporated the residence of banker Kobayashi Nempo, on whose grounds the reconstruction took place. The result was a building layered like geological strata: Edo bones, Meiji additions, Taisho refinements.
+
+## Where Tatami Meets Chandelier
+
+Walking through Tamozawa is an exercise in cultural whiplash. One room features tatami flooring, sliding shoji screens, and the restrained geometry of classical Japanese design. The next room hangs a crystal chandelier over carpeted floors and heavy Western furniture. This blend was deliberate. The Meiji and Taisho eras were periods of aggressive modernization, when Japan adopted Western technology, dress, and architecture while struggling to preserve its own traditions. Tamozawa embodies that tension in wood and glass. The 106 rooms range from formal audience chambers to private studies with round windows framing garden views. The throne room opens onto a corridor that leads to meticulously maintained gardens -- though today's park represents only one quarter of the grounds that existed during the villa's imperial heyday.
+
+## Wartime Refuge in the Mountains
+
+Nikko's mountain remoteness, which made it attractive as a summer escape from Tokyo's heat, took on a different significance during World War II. Emperor Hirohito used Tamozawa as a wartime retreat, and in 1944, the young Crown Prince Akihito -- then ten years old -- was evacuated to the villa, where he lived for more than a year as American bombing campaigns devastated Tokyo. The cedar-shaded grounds that had once hosted summer leisure became a refuge from firebombs. After 1947, the imperial family stopped visiting Tamozawa entirely. The villa fell into disuse and was gradually forgotten, its rooms darkening as maintenance ceased and the mountain climate took its toll on the wooden structure.
+
+## A Half-Century of Silence, Then Light
+
+For decades, Tamozawa sat empty in the Nikko forests, one of the largest wooden buildings in Japan slowly surrendering to neglect. The Tochigi Prefectural Government eventually undertook a major renovation, carefully restoring the Edo, Meiji, and Taisho elements to their original condition. In 2000, the villa reopened as the Nikko Tamozawa Imperial Villa Memorial Park, a public museum and garden. Visitors now walk the same corridors where emperors once moved between Western-style reception rooms and Japanese-style private quarters. The restoration preserved the layered character that makes Tamozawa unique -- not a shrine frozen in one historical moment, but a living document of Japan's transformation from feudal shogunate to modern empire, written in joinery, glass, and garden stone.
+
+## Flight Context
+
+Located at 36.7525N, 139.5914E in Nikko, Tochigi Prefecture, Japan, nestled in forested hills west of the Daiya River. The villa grounds appear as a manicured clearing among dense cedar forest, close to the famous Nikko shrine complex. Best viewed at 2,000-3,000 feet AGL. The nearest airport with an ICAO code is Utsunomiya (RJTU), a JSDF field approximately 30 nautical miles southeast. Tokyo Narita (RJAA) lies roughly 80 nautical miles to the south. Expect mountain weather and reduced visibility in the Nikko valley, especially during autumn fog.
+
+## Sources
+
+- [Tamozawa Imperial Villa - Wikipedia](https://en.wikipedia.org/?curid=57940356)
+- [Tamozawa Imperial Villa - japan-guide.com](https://www.japan-guide.com/e/e3808.html)
+  - 106 rooms, 83 for liege and court ladies
+  - Blend of Edo, Meiji, and Taisho architecture
+  - Opened as public museum in 2000 after Tochigi Prefectural renovation
+- [Nikko Tamozawa Imperial Villa Memorial Park - Official Site](https://www.park-tochigi.com/tamozawa/news/info/english)
+  - One of the largest wooden buildings in Japan
+  - Built 1899 for Crown Prince (later Emperor Taisho)
+  - Former Kishu Tokugawa residence relocated from Tokyo
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 5 facts verified · 0 corrections
+
+Previously reviewed with sources. Editorial added. 106 rooms confirmed, opened 2000 confirmed, Kishu Tokugawa residence origin confirmed, Crown Prince Yoshihito/Emperor Taisho confirmed.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 720*
+*Read time: 4 minutes*

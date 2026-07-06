@@ -108,5 +108,24 @@
   "galleryPaths": [
     "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png",
     "_m/q/g/m/p/uluru-kata-tjuta-national-park-wp/relief-location-map-no.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qvqj-raaf-base-tindal-flight-context.mp3",
+      "qvqj-raaf-base-tindal-intro.mp3",
+      "qvqj-raaf-base-tindal-designed-for-silence-built-for-war.mp3",
+      "qvqj-raaf-base-tindal-crisis-and-deployment.mp3",
+      "qvqj-raaf-base-tindal-the-b-52s-are-coming.mp3",
+      "qvqj-raaf-base-tindal-an-exclusively-uniformed-base.mp3"
+    ],
+    "durations": {
+      "qvqj-raaf-base-tindal-flight-context.mp3": 60.1872083,
+      "qvqj-raaf-base-tindal-intro.mp3": 58.2755416,
+      "qvqj-raaf-base-tindal-designed-for-silence-built-for-war.mp3": 56.7221666,
+      "qvqj-raaf-base-tindal-crisis-and-deployment.mp3": 57.3275833,
+      "qvqj-raaf-base-tindal-the-b-52s-are-coming.mp3": 71.098625,
+      "qvqj-raaf-base-tindal-an-exclusively-uniformed-base.mp3": 60.658375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

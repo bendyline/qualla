@@ -744,5 +744,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wdtf-manila-bay-flight-context.mp3",
+      "wdtf-manila-bay-intro.mp3",
+      "wdtf-manila-bay-gateway-of-empires.mp3",
+      "wdtf-manila-bay-a-living-ecosystem-under-siege.mp3",
+      "wdtf-manila-bay-polluted-waters-contested-shores.mp3",
+      "wdtf-manila-bay-between-the-tides-and-the-future.mp3"
+    ],
+    "durations": {
+      "wdtf-manila-bay-flight-context.mp3": 51.959625,
+      "wdtf-manila-bay-intro.mp3": 46.0723333,
+      "wdtf-manila-bay-gateway-of-empires.mp3": 78.4127083,
+      "wdtf-manila-bay-a-living-ecosystem-under-siege.mp3": 88.4819583,
+      "wdtf-manila-bay-polluted-waters-contested-shores.mp3": 80.8985,
+      "wdtf-manila-bay-between-the-tides-and-the-future.mp3": 67.2924583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

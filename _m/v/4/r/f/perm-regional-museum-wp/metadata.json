@@ -271,5 +271,24 @@
     "_m/v/4/r/f/perm-regional-museum-wp/1.jpg",
     "_m/v/4/r/f/perm-regional-museum-wp/zertsalo-perm-regional-museum.jpg"
   ],
-  "updatedAt": "2026-04-01T07:57:02.326Z"
+  "updatedAt": "2026-04-01T07:57:02.326Z",
+  "narration": {
+    "files": [
+      "v4rf-perm-regional-museum-flight-context.mp3",
+      "v4rf-perm-regional-museum-intro.mp3",
+      "v4rf-perm-regional-museum-born-from-curiosity.mp3",
+      "v4rf-perm-regional-museum-science-on-petropavlovskaya-street.mp3",
+      "v4rf-perm-regional-museum-layers-of-time-under-glass.mp3",
+      "v4rf-perm-regional-museum-the-house-on-monastyrskaya.mp3"
+    ],
+    "durations": {
+      "v4rf-perm-regional-museum-flight-context.mp3": 31.3282916,
+      "v4rf-perm-regional-museum-intro.mp3": 42.1827083,
+      "v4rf-perm-regional-museum-born-from-curiosity.mp3": 51.5957916,
+      "v4rf-perm-regional-museum-science-on-petropavlovskaya-street.mp3": 51.9269166,
+      "v4rf-perm-regional-museum-layers-of-time-under-glass.mp3": 44.8451666,
+      "v4rf-perm-regional-museum-the-house-on-monastyrskaya.mp3": 55.094
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

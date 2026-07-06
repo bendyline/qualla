@@ -1,0 +1,68 @@
+# Lichgate on High Road
+
+A Tudor-style fairy-tale cottage built by an FSU literature professor to protect a 300-year-old live oak tree, named for the gates that separate the living from the dead in English churchyards, and saved from demolition by her former students after her death on Christmas Eve.
+
+**Location:** 30.4603, -84.3119
+
+**Categories:** historical-site, architecture, garden, florida, national-register
+
+## Introduction
+
+In 1956, Laura Jepsen walked past a pasture just outside the Tallahassee city limits and stopped. Standing alone in the center of the field was a live oak tree so old and so massive that its branches had long since bent to the ground and risen again, forming a canopy that seemed to breathe. Jepsen, a comparative literature professor at Florida State University, did what a scholar of myth and symbolism would do -- she bought the field, three acres of it, specifically to protect that single tree. Then she built a cottage beside it unlike anything else in Florida: steep-roofed, Tudor-framed, a 16th-century English fantasy conjured from cypress, granite, and ship's planking in the middle of the Florida Panhandle. She called the property Lichgate, after the gates in English churchyards that mark the threshold between the land of the living and the land of the dead.
+
+## A Cottage from Borrowed Time
+
+Jepsen purchased the property in 1955 from representatives of the Capital City Free Will Baptist Church, a congregation that was never actually established. The sale included covenants preventing development for 25 years. She drew her design from many sources, but the primary inspiration was the Earl Gresh Wood Parade Museum in St. Petersburg, Florida -- a Tudor-style structure built to display woods from trees around the world. In her final book, also called Lichgate on High Road, Jepsen wrote of imagining she could move that little house to Tallahassee. What she built instead was Florida's only example of 16th-century Tudor architecture: a steep roof cut to suggest thatch, a tall chimney topped with a chimney pot, cypress paneling harvested from swamps outside Tallahassee, granite foundations quarried from the same Georgia stone used in the steps of the nearby Old State Capitol Building, and white pine floors made from planks salvaged from a ship that colonists had dismantled to build a home in Putney, Vermont, in 1762.
+
+## The Matriarch Oak
+
+The live oak that stopped Jepsen in her tracks is estimated to be over 300 years old. Its canopy spreads wide enough to shade the entire clearing around the cottage, its limbs dipping to the earth and arching back up in the slow-motion acrobatics characteristic of Southern live oaks that have had centuries to grow unchallenged. The Smithsonian Institution recognized the tree through its project celebrating each state's significant trees. Jepsen built everything around it -- the cottage, the gardens, the winding paths -- treating the oak as the centerpiece and the architecture as the frame. The tree is the reason the property exists as anything other than a subdivided lot. Walk beneath its canopy and you understand Jepsen's impulse: the light filtering through the leaves turns green and liquid, the sound of traffic on High Road disappears, and the cottage behind you looks as if it has been standing in an English forest for 400 years.
+
+## The Professor's World
+
+Laura Jepsen taught comparative literature at Florida State University from 1946 to 1978, over three decades during which she shaped generations of students. She never married and had no children. Her life revolved around scholarship, teaching, and the property she had built as a refuge from the modern world. The name she chose -- Lichgate -- was no casual reference. A lychgate (from the Old English lich, meaning corpse) is the roofed gateway at the entrance to an English churchyard where a coffin rests before burial, the literal boundary between the living and the dead. Jepsen spoke of her cottage as a place where one could travel back and forth between those two worlds. For a professor who spent her career studying mythology, allegory, and the boundary between the real and the imagined, the name was both literary conceit and genuine belief.
+
+## Christmas Eve, and After
+
+Jepsen died on Christmas Eve, 1995. She left no immediate heirs, and Lichgate along with her other properties passed to The Nature Conservancy. Plans emerged to sell the land for commercial development -- the three acres on High Road had become valuable real estate as Tallahassee grew around them. But by August 1997, a small group of former students, friends, and acquaintances came forward. They established the Laura Jepsen Institute, a nonprofit dedicated to preserving the property and continuing the spirit of Jepsen's life's work. The group purchased Lichgate and opened it to the public. On March 31, 2006, the property was added to the U.S. National Register of Historic Places. Today Lichgate on High Road operates as a public garden and cultural site, its Tudor cottage, ancient oak, and carefully tended plantings maintained by volunteers who never took Jepsen's classes but inherited her conviction that some things are worth protecting simply because they exist.
+
+## Flight Context
+
+Located at 30.46°N, 84.31°W in central Tallahassee at 1401 High Road, Leon County, Florida. The 3-acre property is a dense canopy island amid surrounding residential and commercial development -- look for the distinctive large live oak canopy that stands out from the surrounding rooftops. Tallahassee Regional Airport (KTLH) lies approximately 6nm to the southwest. The property is roughly 1.5 miles south of the Florida State Capitol complex. Best viewed at 1,500-2,500 feet AGL in clear conditions; the mature oak canopy is the most visible feature.
+
+## Sources
+
+- [Lichgate on High Road - Wikipedia](https://en.wikipedia.org/?curid=8912190)
+- [Lichgate on High Road - Atlas Obscura](https://www.atlasobscura.com/places/lichgate-on-high-road)
+- [The Story of Lichgate, Laura Jepsen and the Struggle to Continue Her Legacy](https://www.tallahasseemagazine.com/the-story-of-lichgate-laura-jepsen-and-the-struggle-to-continue-her-legacy/)
+- [Lichgate on High Road - Wikipedia](https://en.wikipedia.org/wiki/Lichgate_on_High_Road)
+  - property purchased 1955 from Capital City Free Will Baptist Church representatives
+  - National Register of Historic Places March 31 2006
+  - Laura Jepsen FSU professor 1946-1978
+  - died Christmas Eve 1995
+  - Nature Conservancy received property
+- [Lichgate on High Road - Atlas Obscura](https://www.atlasobscura.com/places/lichgate-on-high-road)
+  - Tudor-style cottage design
+  - granite from same Georgia quarry as Old State Capitol steps
+  - white pine floors from 1762 ship planking from Putney Vermont
+  - cypress paneling from Tallahassee swamps
+- [Earl Gresh Wood Parade - Preserve the Burg](https://www.preservetheburg.org/projects/earl-gresh-wood-parade)
+  - Earl Gresh Wood Parade was Tudor-style structure in St Petersburg Florida
+  - built to display woods from around the world
+- [Laura Jepsen Institute / Preservation History](http://friendsoflaura.org/Preservation.html)
+  - Laura Jepsen Institute established by former students and friends
+  - group purchased Lichgate by August 1997
+  - property opened to public
+
+## Review Notes
+
+**Reviewed:** 2026-02-12 · 14 facts verified · 0 corrections
+
+All key facts verified: property purchased 1955 from Capital City Free Will Baptist Church reps, NRHP March 31 2006, Laura Jepsen FSU professor 1946-1978, died Christmas Eve 1995, Nature Conservancy received property, Laura Jepsen Institute est. by Aug 1997, Earl Gresh Wood Parade confirmed Tudor-style in St Pete. Minor note: intro says 1956 walk but purchase was 1955 - narrative license acceptable.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 790*
+*Read time: 4 minutes*

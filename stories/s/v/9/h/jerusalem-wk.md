@@ -1,0 +1,74 @@
+# Jerusalem
+
+Where three faiths claim the same stones, where David built his capital and Christ was crucified, where holiness and conflict have been inseparable for three millennia.
+
+**Location:** 31.7683, 35.2137
+
+**Categories:** israel, palestine, holy-city, three-faiths, unesco, conflict
+
+## Introduction
+
+The Temple Mount measures roughly 35 acres - a trapezoid platform in the center of Jerusalem's Old City, sacred to three religions for different reasons that have made it perhaps the most contested piece of real estate on Earth. Jews believe Abraham bound Isaac for sacrifice here, and that Solomon built the First Temple on this spot. Muslims believe Muhammad ascended to heaven from the rock now covered by the Dome of the Rock. Christians honor the site Jesus visited and the city where he died. The platform has been destroyed and rebuilt, conquered and reconquered, forbidden to and fought over by the peoples who consider it holy. Today it holds the Dome of the Rock and the Al-Aqsa Mosque, administered by a Jordanian-led Islamic trust while Israeli security controls access. Jews pray at the Western Wall below, the last remnant of the Second Temple destroyed in 70 AD. The arrangements are fragile; violence erupts periodically; the old city remains divided into quarters - Muslim, Christian, Jewish, Armenian - whose boundaries reflect centuries of sectarian geography. Jerusalem holds 900,000 people in a city whose significance vastly exceeds its size.
+
+## The Temple Mount
+
+Solomon built the First Temple in the 10th century BC, creating a permanent home for the Ark of the Covenant that his father David had brought to Jerusalem. The Babylonians destroyed it in 586 BC, exiling the Jews to Mesopotamia. The Second Temple was built after the return from exile, expanded magnificently by Herod the Great in the 1st century BC, and destroyed by the Romans in 70 AD. The Western Wall - the Kotel - is a retaining wall of Herod's platform, the closest point Jews can approach to where the Temple stood.
+
+The Dome of the Rock was built by the Umayyad Caliph Abd al-Malik in 691 AD, one of the oldest and most beautiful Islamic structures in the world. The golden dome covers the Foundation Stone where, in Islamic tradition, Muhammad began his night journey to heaven. The Al-Aqsa Mosque at the platform's southern end is the third holiest site in Islam. Non-Muslims cannot enter the mosque or the Dome; Jews debate whether they can ascend to the Mount at all without risking inadvertent trespass on the Holy of Holies. The site generates conflict because each faith's claims are absolute and overlapping.
+
+## The Church of the Holy Sepulchre
+
+The Church of the Holy Sepulchre stands on the site where tradition holds Jesus was crucified, buried, and resurrected. The original church was built by Constantine's mother Helena in 335 AD, after excavations uncovered what she identified as the True Cross. The church has been destroyed and rebuilt multiple times; the current structure dates largely to Crusader reconstruction in the 12th century, incorporating earlier Byzantine elements and later additions.
+
+Six Christian denominations share control of the church under arrangements dating to the Ottoman era - Greek Orthodox, Roman Catholic, Armenian Apostolic, Coptic, Syriac Orthodox, and Ethiopian Orthodox. The divisions are literal: each controls specific chapels, altars, and sections of floor, the boundaries marked by centuries of dispute. A ladder placed on a ledge above the entrance in the 18th century remains there because no denomination has the authority to move it. The Church of the Holy Sepulchre is Christianity's holiest site and also its most visibly fractured, the place where the faith began and where its divisions are on permanent display.
+
+## The Old City Quarters
+
+The Old City measures less than one square kilometer, enclosed by walls built by Suleiman the Magnificent in the 16th century, divided into four quarters that reflect the religious geography of centuries. The Muslim Quarter is largest and most densely populated, its souks leading to the Temple Mount. The Christian Quarter surrounds the Holy Sepulchre. The Jewish Quarter, destroyed in 1948 and rebuilt after 1967, occupies the southeastern section. The Armenian Quarter, the smallest, preserves the presence of a community that has lived in Jerusalem since the 4th century.
+
+The boundaries were never absolute - Muslims lived in the Jewish Quarter, Christians in the Armenian - but they hardened through conflict. The 1948 war drove all Jews from the Old City; the 1967 war brought Israeli control and Jewish return. The quarters remain distinct, their character visible in architecture and signage and the faces in the streets. The gates - Damascus, Jaffa, Zion, Dung, Lions, Herod's, New - connect the Old City to the modern one that surrounds it, bridges between a walled medieval town and a sprawling modern capital whose status remains internationally disputed.
+
+## The Divided City
+
+From 1948 to 1967, Jerusalem was physically divided: Jordan controlled the Old City and East Jerusalem, Israel the western neighborhoods. A concrete wall and barbed wire ran through the city center. Jews could not reach the Western Wall; Arabs could not reach their families in the west. The Six-Day War of 1967 ended the division; Israel captured the Old City and shortly after annexed East Jerusalem, a move recognized by few countries but enforced on the ground.
+
+The annexation created facts without creating consensus. Palestinians consider East Jerusalem the capital of their future state; Israel considers unified Jerusalem its eternal capital. The demographics reflect the conflict: Palestinian neighborhoods in the east, Jewish neighborhoods in the west and in settlements that ring the eastern part of the city. The international community largely does not recognize Israeli sovereignty over East Jerusalem; the US moved its embassy there in 2018 anyway. The city that three faiths consider holy is also a city whose political status remains unresolved, holiness and sovereignty entangled in ways that seem to permit no compromise.
+
+## The New City
+
+Beyond the Old City walls, modern Jerusalem spreads across the Judean hills. The western neighborhoods - Rehavia, German Colony, Katamon - were built in the 19th and 20th centuries as the city expanded beyond its medieval confines. The Israel Museum holds the Dead Sea Scrolls in a building shaped like the lids of the jars that preserved them for two millennia. Yad Vashem, the Holocaust memorial, occupies a hillside where forests planted by the Jewish National Fund mark the landscape.
+
+The new city is administratively unified but practically divided. East Jerusalem neighborhoods like Sheikh Jarrah and Silwan are predominantly Palestinian, served differently by municipal services, subject to planning restrictions that limit construction. The light rail that opened in 2011 connects western and eastern neighborhoods, its route sometimes blocked by protests, its very existence a statement about whose city this is. Jerusalem in 2026 is modern and ancient, divided and unified, a city where every decision - where to build, where to dig, where to pray - carries weight that would be absurd anywhere else. The stones matter here in ways they matter nowhere else on Earth.
+
+## Flight Context
+
+Jerusalem (31.77°N, 35.23°E) lies in the Judean Mountains at 754m elevation, approximately 60km east of the Mediterranean coast. Ben Gurion International Airport (LLBG/TLV) at Tel Aviv, 50km west, is the primary commercial gateway with two parallel runways (08/26 and 12/30). Ramon Airport (LLER/ETM) near Eilat provides secondary access. No commercial airport serves Jerusalem directly due to terrain constraints. The Old City with its walls and golden Dome of the Rock is identifiable from altitude. The Judean Desert drops steeply to the east toward the Dead Sea (430m below sea level), creating dramatic elevation changes. The Mount of Olives rises east of the Old City. Modern Jerusalem spreads across hilltops to the west and north. Weather is Mediterranean - hot dry summers, cool wet winters. The terrain creates significant wind effects; valley channeling can affect approaches to Ben Gurion. Visibility is generally excellent but dust can reduce it during chamsin (sharav) conditions.
+
+## Sources
+
+- [Temple Mount - Wikipedia](https://en.wikipedia.org/wiki/Temple_Mount)
+  - ~35 acres
+  - Dome of the Rock built 691 AD
+  - Second Temple destroyed 70 AD
+- [Jerusalem - Wikipedia](https://en.wikipedia.org/?curid=16043)
+  - Old City ~1 sq km
+  - divided 1948-1967
+  - annexed by Israel 1967
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 6 facts verified · 0 corrections
+
+Story overlay verified
+
+**Spiciness:** 4/5
+
+**Strong opinions:**
+
+- Where three faiths claim the same stones, where holiness and conflict have been inseparable for three millennia
+- Holiness and sovereignty entangled in ways that seem to permit no compromise
+
+---
+
+*Word count: 1,200*
+*Read time: 6 minutes*

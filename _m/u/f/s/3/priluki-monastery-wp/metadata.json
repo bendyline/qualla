@@ -277,5 +277,24 @@
     "_m/u/f/s/3/priluki-monastery-wp/category-6.jpg",
     "_m/u/f/s/3/priluki-monastery-wp/category-7.jpg"
   ],
-  "updatedAt": "2026-04-01T06:27:37.594Z"
+  "updatedAt": "2026-04-01T06:27:37.594Z",
+  "narration": {
+    "files": [
+      "ufs3-priluki-monastery-flight-context.mp3",
+      "ufs3-priluki-monastery-intro.mp3",
+      "ufs3-priluki-monastery-a-monks-retreat-a-dukes-outpost.mp3",
+      "ufs3-priluki-monastery-the-cross-and-the-conqueror.mp3",
+      "ufs3-priluki-monastery-cells-turned-to-cages.mp3",
+      "ufs3-priluki-monastery-restoration-and-memory.mp3"
+    ],
+    "durations": {
+      "ufs3-priluki-monastery-flight-context.mp3": 44.2794166,
+      "ufs3-priluki-monastery-intro.mp3": 53.3072083,
+      "ufs3-priluki-monastery-a-monks-retreat-a-dukes-outpost.mp3": 45.897875,
+      "ufs3-priluki-monastery-the-cross-and-the-conqueror.mp3": 61.4225,
+      "ufs3-priluki-monastery-cells-turned-to-cages.mp3": 45.7237083,
+      "ufs3-priluki-monastery-restoration-and-memory.mp3": 58.9664583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

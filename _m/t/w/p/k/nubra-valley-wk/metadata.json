@@ -896,5 +896,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "twpk-nubra-valley-flight-context.mp3",
+      "twpk-nubra-valley-intro.mp3",
+      "twpk-nubra-valley-the-old-silk-road-still-legible.mp3",
+      "twpk-nubra-valley-villages-at-the-edge.mp3",
+      "twpk-nubra-valley-over-the-passes.mp3",
+      "twpk-nubra-valley-living-in-nubra.mp3"
+    ],
+    "durations": {
+      "twpk-nubra-valley-flight-context.mp3": 55.52075,
+      "twpk-nubra-valley-intro.mp3": 55.2665833,
+      "twpk-nubra-valley-the-old-silk-road-still-legible.mp3": 66.7717083,
+      "twpk-nubra-valley-villages-at-the-edge.mp3": 60.8476666,
+      "twpk-nubra-valley-over-the-passes.mp3": 60.3692083,
+      "twpk-nubra-valley-living-in-nubra.mp3": 67.7514583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

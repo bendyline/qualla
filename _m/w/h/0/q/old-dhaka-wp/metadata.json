@@ -934,5 +934,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wh0q-old-dhaka-flight-context.mp3",
+      "wh0q-old-dhaka-intro.mp3",
+      "wh0q-old-dhaka-twenty-five-centuries-in-a-few-square-miles.mp3",
+      "wh0q-old-dhaka-where-neighbors-still-know-your-name.mp3",
+      "wh0q-old-dhaka-a-capital-of-taste.mp3",
+      "wh0q-old-dhaka-magnificent-ruins-uncertain-futures.mp3"
+    ],
+    "durations": {
+      "wh0q-old-dhaka-flight-context.mp3": 38.3120833,
+      "wh0q-old-dhaka-intro.mp3": 42.0747083,
+      "wh0q-old-dhaka-twenty-five-centuries-in-a-few-square-miles.mp3": 68.083125,
+      "wh0q-old-dhaka-where-neighbors-still-know-your-name.mp3": 58.5159583,
+      "wh0q-old-dhaka-a-capital-of-taste.mp3": 62.2139166,
+      "wh0q-old-dhaka-magnificent-ruins-uncertain-futures.mp3": 73.3374583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

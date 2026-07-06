@@ -1,0 +1,57 @@
+# Kiyamachi Street
+
+A Kyoto street born from a 1611 canal excavation that evolved from lumber warehouses to samurai hideouts to one of the city's liveliest nightlife corridors.
+
+**Location:** 35.0132, 135.7704
+
+**Categories:** streets, nightlife, japanese-history, kyoto, edo-period, bakumatsu
+
+## Introduction
+
+The name gives it away if you know the old Japanese: kiya means lumber yard, and four centuries ago, that is exactly what lined both sides of this narrow Kyoto street. When the merchant Suminokura Ryoi began digging the Takase River canal in 1611, he needed somewhere to store the charcoal and timber floating in from Osaka. Warehouses rose along the water's edge, and a working-class commercial strip was born. Today, Kiyamachi Street runs for roughly two kilometers along the eastern bank of that same canal, threading between the Takase and the broader Kamo River. But the lumber is long gone. In its place: cherry blossom trees arching over the waterway, lantern-lit bars tucked into converted machiya townhouses, and a concentration of nightlife that makes this one of Kyoto's most electric after-dark destinations. The transformation from industrial canal to pleasure quarter is itself a story of how Kyoto reinvents itself century after century while keeping its bones intact.
+
+## A Canal Built for the Great Buddha
+
+Suminokura Ryoi was no ordinary merchant. A shipping magnate who had already opened river routes across central Japan, he undertook the excavation of the Takase River canal in 1611, during the Keicho Era, to transport materials needed for the reconstruction of the Great Buddha at Hokoji temple. The canal ran from Nijoukirimachi southward, and shallow-draft boats called takasebune carried lumber, charcoal, rice, and other goods between the port of Fushimi and central Kyoto. The street that grew along its eastern bank was first called Korikichou Street. But as warehouses multiplied -- timber yards, charcoal depots, rice stores -- the district earned the name that stuck: Kiyamachi. Neighboring streets still bear the names of their original trades: Zaimokumachi for lumber, Komeyamachi for rice, Nabeyamachi for pots. By 1762, topographical records defined Kiyamachi as the stretch from Kitanijou Street to Minamigojou.
+
+## Where Revolutionaries Whispered
+
+By the mid-Edo period in the eighteenth century, the warehouses began giving way to inns, restaurants, and drinking establishments as travelers and merchants flooded the district. But it was in the final turbulent years of the Edo era -- the 1850s and 1860s -- that Kiyamachi took on a darker, more dramatic role. The narrow street and its warren of back rooms became a meeting ground for loyalists plotting the overthrow of the Tokugawa shogunate. Sakamoto Ryoma, perhaps the most famous revolutionary of the Bakumatsu period, frequented Kiyamachi's establishments. So did Kido Takayoshi, Omura Masujiro, and Sakuma Shozan -- men whose secret conversations in these teahouses and inns helped shape the Meiji Restoration. Stone monuments scattered through the downtown stretch of Kiyamachi commemorate these loyalists today, standing quietly among the neon signs and cocktail bars.
+
+## Rails, Then Blossoms
+
+In 1895, during the Meiji period's rush toward modernization, a streetcar line was laid along Kiyamachi, running from Nijo to Gojo. For a few decades, electric trams rattled past the old canal where takasebune boats had once glided. But by the 1920s, the expanding Kawaramachi Street absorbed the tram route, and Kiyamachi returned to quieter rhythms. The twentieth century brought a new kind of beauty to the street: cherry blossom trees planted along the Takase River. Every spring, the pale pink canopy transforms the canal into one of Kyoto's most beloved hanami spots, the blossoms reflected in the shallow water below. A paved sidewalk now runs the length of the street, and in 2003, the Kiyamachi district was officially designated a beautifully developed community of importance in Kyoto.
+
+## After Dark on the Canal
+
+Walk Kiyamachi Street between Sanjo and Shijo after sunset and the lumber-yard origins feel impossibly remote. The narrow lane pulses with the soft glow of lanterns from izakaya, the chatter spilling from second-floor cocktail bars, the aroma of yakitori grills mixing with the green scent of the canal. Restaurants serve not only Japanese food but cuisines from around the world, reflecting Kyoto's quiet cosmopolitanism. Tea houses and coffee shops occupy the quieter blocks to the north and south. The Takase River itself, barely a few meters wide, still flows alongside the street, a living thread connecting today's nightlife corridor to the seventeenth-century merchant who dug it. That continuity is the real magic of Kiyamachi: four hundred years of reinvention layered onto the same narrow strip of land beside the same shallow canal, each era leaving its mark without erasing the last.
+
+## Flight Context
+
+Located at 35.013N, 135.770E, running north-south through central Kyoto along the narrow Takase River canal, just west of the broader Kamo River. From the air, the Kamo River is the dominant visual reference bisecting the city. Kiyamachi Street parallels it one block to the west. The street stretches roughly from Nijo in the north to Shichijo in the south. Nearest airports: Osaka Itami (RJOO, 36 km southwest), Kansai International (RJBB, 100 km south). Best viewed at 2,000-4,000 ft AGL. At night, the entertainment district between Sanjo and Shijo glows visibly against the darker residential blocks.
+
+## Sources
+
+- [Kiyamachi Street - Wikipedia](https://en.wikipedia.org/?curid=19943903)
+  - Suminokura Ryoi excavated Takase River canal in 1611 during Keicho Era
+  - Canal purpose was to transport materials for reconstruction of Great Buddha at Hokoji
+  - Street originally called Korikichou Street before becoming Kiyamachi
+  - Neighboring streets bear names of original trades (Zaimokumachi, Komeyamachi, Nabeyamachi)
+  - Suminokura Ryoi was a prominent shipping merchant of the Edo period
+- [Takase River - Wikipedia](https://en.wikipedia.org/wiki/Takase_River)
+  - Shallow-draft boats called takasebune used on canal
+  - Canal connected Fushimi port to central Kyoto
+  - Canal used for water transport for about 300 years until 1920
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 8 facts verified · 0 corrections
+
+All key facts verified: Suminokura Ryoi 1611 canal excavation, takasebune boats, Great Buddha transport purpose, street name etymology, neighboring trade streets, Bakumatsu revolutionary connections. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 770*
+*Read time: 4 minutes*

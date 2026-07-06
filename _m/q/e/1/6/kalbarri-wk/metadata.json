@@ -126,5 +126,26 @@
   "galleryPaths": [
     "_m/q/e/1/6/kalbarri-wk/kalbarri-western-austr.jpg",
     "_m/q/e/1/6/kalbarri-wk/kalbarri-town.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qe16-kalbarri-flight-context.mp3",
+      "qe16-kalbarri-intro.mp3",
+      "qe16-kalbarri-stone-that-remembers-spiders.mp3",
+      "qe16-kalbarri-the-gorge-and-the-cliffs.mp3",
+      "qe16-kalbarri-cyclone-whales-and-wildflowers.mp3",
+      "qe16-kalbarri-pink-lakes-and-convict-roads.mp3",
+      "qe16-kalbarri-a-town-between-extremes.mp3"
+    ],
+    "durations": {
+      "qe16-kalbarri-flight-context.mp3": 40.444625,
+      "qe16-kalbarri-intro.mp3": 43.3776666,
+      "qe16-kalbarri-stone-that-remembers-spiders.mp3": 65.239625,
+      "qe16-kalbarri-the-gorge-and-the-cliffs.mp3": 56.085125,
+      "qe16-kalbarri-cyclone-whales-and-wildflowers.mp3": 64.562,
+      "qe16-kalbarri-pink-lakes-and-convict-roads.mp3": 54.0612083,
+      "qe16-kalbarri-a-town-between-extremes.mp3": 58.6738333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

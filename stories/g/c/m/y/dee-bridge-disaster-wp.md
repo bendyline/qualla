@@ -1,0 +1,57 @@
+# Dee Bridge Disaster
+
+The 1847 collapse of Robert Stephenson's cast-iron bridge at Chester killed five people and changed the future of British engineering forever.
+
+**Location:** 53.1863, -2.9050
+
+**Categories:** Bridge disasters in the United Kingdom, Railway accidents and incidents in Cheshire, History of Chester, Bridges across the River Dee, Wales
+
+## Introduction
+
+Robert Stephenson was the son of George Stephenson, the father of railways, and by 1847 he was one of the most famous engineers in Britain. When the cast-iron bridge he had designed for the Chester and Holyhead Railway collapsed on 24 May of that year, sending a passenger train into the River Dee and killing five people, it was not merely a disaster but a reckoning. The accident exposed a fatal flaw in the engineering orthodoxy of the age and launched one of the first major investigations by the newly formed Railway Inspectorate, an inquiry whose conclusions would reshape how Britain built its bridges.
+
+## The Flaw in the Iron
+
+The bridge was built using cast-iron girders produced by the Horseley Ironworks, each assembled from three large castings dovetailed together and bolted to a reinforcing piece. Wrought-iron bars ran along the length of each girder, intended to add strength. The structure was finished in September 1846 and approved for traffic by General Charles Pasley, the first Railway Inspector. Cast iron was strong in compression but known to be brittle under tension or bending, a property that made it a risky choice for bridge spans. On the day of the accident, Stephenson had ordered the bridge deck covered with track ballast to prevent the oak beams from catching fire, a precaution prompted by a recent fire on the Great Western Railway at Hanwell where a Brunel-designed bridge had collapsed. The added weight proved catastrophic.
+
+## Into the River
+
+On the afternoon of 24 May 1847, a local passenger train bound for Ruabon was crossing the bridge when the central girder fractured. The carriages fell through into the River Dee below, killing three passengers, the train guard, and the locomotive fireman. Nine others suffered serious injuries. The locomotive and tender remained on the tracks at the far side, a detail that would prove crucial during the investigation. The locomotive driver raced to the next station to warn of the accident and prevent further traffic on the line, then doubled back to Chester to raise the alarm. Stephenson later maintained that the locomotive had derailed first, and the impact caused the girder to break. But eyewitnesses contradicted him: they saw the iron give way beneath the train, the bridge failing before the wheels left the rails.
+
+## The Investigation That Changed Everything
+
+Captain Simmons of the Royal Engineers led the investigation for the Railway Inspectorate, making it one of the first major inquiries the newly formed body had conducted. His findings were damning. He examined the broken girder and confirmed it had fractured in two places, with the first break at the center. When he tested the remaining girders by driving a locomotive across them, they deflected by several inches under the moving load. His conclusion was unequivocal: the design was fundamentally flawed. The wrought-iron trusses that were supposed to reinforce the girders were anchored to the cast iron itself, so they deformed alongside the very structure they were meant to strengthen. It was an elegant idea that failed in practice, a reinforcement system that reinforced nothing.
+
+## The Long Shadow of Cast Iron
+
+A Royal Commission reporting in 1849 condemned the use of trussed cast iron in railway bridges, but the problem was far from solved. Similar failures plagued British railways for decades afterward: the Wootton bridge collapse, the Bull bridge accident, the Inverythan crash, and the Norwood Junction disaster in 1891. The catastrophic failure of the first Tay Rail Bridge in 1879, which killed seventy-five people, was caused in part by cast-iron lugs placed in tension. It took the Norwood accident to trigger a comprehensive review by Sir John Fowler, who recommended replacing all similar structures. The Dee bridge disaster had been the first warning. The Forth Bridge of 1890, built entirely in steel, stands as the monument to the lessons finally learned. The Dee bridge itself was rebuilt using wrought iron, the material that had been its inadequate reinforcement now becoming its principal structure, a quiet acknowledgment that Stephenson's original design had been wrong.
+
+## Flight Context
+
+Located at 53.186N, 2.905W where the Chester and Holyhead Railway crosses the River Dee at Chester. The modern replacement railway bridge spans the river between Curzon Park and the Roodee racecourse. The site is at the southern edge of Chester's walled city. Nearest airports include Hawarden (EGNR, 5nm west) and Liverpool John Lennon (EGGP, 20nm northwest). The River Dee's course through Chester provides clear visual orientation.
+
+## Sources
+
+- [Dee Bridge disaster - Wikipedia](https://en.wikipedia.org/?curid=3831299)
+  - Disaster date 24 May 1847 confirmed
+  - Five deaths: three passengers, train guard, locomotive fireman confirmed
+  - Nine serious injuries confirmed
+  - Cast-iron girders by Horseley Ironworks confirmed
+  - Approved by General Charles Pasley confirmed
+  - Train bound for Ruabon confirmed
+  - Captain Simmons led investigation confirmed
+  - Girder fractured in two places with first break at centre confirmed
+  - Locomotive and tender remained on far track confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 9 facts verified · 0 corrections
+
+All facts verified: 24 May 1847, five deaths (3 passengers + guard + fireman), nine injured, Horseley Ironworks, Pasley approved, Captain Simmons investigation, train to Ruabon
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

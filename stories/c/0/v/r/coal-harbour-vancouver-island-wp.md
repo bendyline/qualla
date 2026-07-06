@@ -1,0 +1,61 @@
+# Coal Harbour (Vancouver Island)
+
+A tiny community on northern Vancouver Island where a failed coal mine gave way to a wartime seaplane base, then British Columbia's last whaling station, leaving behind concrete bunkers, a blue whale jawbone, and a museum in the sole surviving aircraft hangar.
+
+**Location:** 50.6000, -127.5830
+
+**Categories:** Whaling stations in Canada, Northern Vancouver Island, World War II sites in Canada, Maritime heritage
+
+## Introduction
+
+On August 23, 1942, a Stranraer flying boat lifted off from the calm waters of Coal Harbour on a routine submarine patrol and never came back. Nine hours into the flight, the crew of eight radioed that rough seas had forced them down. Rescue planes scrambled from the base and spotted the aircraft sinking, but the waves made landing impossible. As darkness fell, the Stranraer and her crew vanished. A spotter plane reported what looked like a Japanese submarine nearby. Whether Stranraer 951 was claimed by the storm or by the enemy remains unknown -- the aircraft and crew were never recovered. That unsolved disappearance is just one layer in a place where every generation has left behind a different kind of ruin.
+
+## Seaplanes Over the North Pacific
+
+Coal Harbour takes its name from a small, unsuccessful coal mine founded in 1883 on the north side of Holberg Inlet, deep within the Quatsino Sound region of northern Vancouver Island. The coal never amounted to much. What did matter was the harbour itself -- a long, sheltered stretch of water perfect for landing seaplanes. When the Second World War brought fears of Japanese attack to the Pacific coast, the Royal Canadian Air Force established a base here in August 1940. At its peak, over 700 personnel were stationed at Coal Harbour, swelling the local population to roughly 1,500. Supermarine Stranraers and later Canso-A flying boats -- the Canadian-built version of the Consolidated PBY Catalina -- patrolled the shipping lanes from this remote outpost. The military built anti-aircraft emplacements, ammunition bunkers for depth charges, and concrete fortifications that still punctuate the shoreline. When Japan's surrender ended the war in August 1945, the base closed and the population collapsed to around 100 almost overnight.
+
+## The Smell That Defined a Village
+
+The abandoned military infrastructure did not sit idle for long. In 1948, Western Whaling Ltd -- initially a Canadian-owned company anchored by B.C. Packers -- converted the seaplane base into a whaling station. The main slipway that once hauled flying boats ashore now dragged whale carcasses up from the water. A fleet of up to five small "chasers" armed with harpoon guns ranged into the open Pacific, and the kills were winched ashore with a steam windlass, then flensed -- stripped of blubber -- on the concrete concourse where aircraft had once been serviced. Two salvaged U.S. Navy destroyer steam engines powered the processing plant, which rendered the blubber into oil and converted the remains into animal feed and fertilizer. The Japanese Taiyo group operated the fishery from 1962 to 1967, catching over 4,000 whales in those final years alone: 2,153 sei, 1,108 sperm, and 837 fin whales, along with some blue and humpback whales. Coal Harbour was the last whaling station on the British Columbia coast when it closed in 1967.
+
+## What Remains
+
+After Taiyo pulled out, Canada Packers held the facility but never restarted operations. Between 1972 and 1975, Argus Salvage of Qualicum dismantled the plant for scrap. A copper mine opened nearby in the 1970s and operated until 1996, providing one more economic chapter. Today, few of the original wartime buildings survive. The general store -- once the RCAF gymnasium -- still stands, as do the commanding officer's barracks overlooking the water. In the sole remaining Canso hangar, a private individual has built and maintains a small, free museum dedicated to the RCAF station, filled with wartime artifacts and photographs. But the village's most arresting landmark requires no admission fee: the gigantic jawbone of a blue whale, displayed outdoors, a monument to the industrial-scale harvest that once defined this place.
+
+## Neighbors on the Sound
+
+Coal Harbour is now a quiet bedroom community linked by paved road to Port Hardy, the largest town in the region. The local school closed years ago and students commute northeast for their education. What keeps the village from being a simple residential appendage is its working waterfront: seaplane services operate from the harbour, connecting sports fishing lodges scattered across the remote inlets of Quatsino Sound. A government wharf and general store anchor the community's commercial life. Nearby lies the headquarters of the Quatsino First Nation, the band government of the Gwat'sinux, one of the Kwakwaka'wakw peoples who have inhabited these waters and forests long before coal mines, air bases, and whaling stations came and went. Their presence is a reminder that Coal Harbour's layered history of extraction and abandonment is only the most recent chapter in a much longer story.
+
+## Flight Context
+
+Coal Harbour sits on the north side of Holberg Inlet within Quatsino Sound at 50.60N, 127.58W. The community is visible along the shoreline with a government wharf and small marina. Look for the sheltered harbour waters running east-west. The former seaplane base and whaling station sites are along the waterfront. Nearest airport: Port Hardy Airport (CYZT) approximately 12nm northeast. Coal Harbour Water Aerodrome (CAQ3) is located on site. Best viewed below 3,000 feet AGL for detail on the remaining wartime structures along the shore.
+
+## Sources
+
+- [Coal Harbour (Vancouver Island)](https://en.wikipedia.org/wiki/Coal_Harbour_(Vancouver_Island))
+- [RCAF Station Coal Harbour - 101 NI Squadron](https://www.101nisquadron.org/wwii-rcaf-bases/rcaf-coal-harbour/)
+  - RCAF station opened August 1940 confirmed
+  - Over 700 personnel at peak confirmed
+  - Stranraer 951 lost August 23 1942 with eight crew confirmed
+  - Station closed August 1945 confirmed
+- [Remembering the Forgotten War in Coal Harbour - Wings Magazine](https://www.wingsmagazine.com/remembering-the-forgotten-war-in-coal-harbour/)
+  - Stranraer 951 crew loss details and rescue attempt confirmed
+  - Population peak of approximately 1500 confirmed
+- [You Never Forget the Smell - Hakai Magazine](https://hakaimagazine.com/features/you-never-forget-the-smell/)
+  - Corrected: Western Whaling Ltd was initially Canadian-owned (not a joint venture with Japanese interests); Taiyo partnership began in 1960/1962
+  - Whale counts (2,153 sei, 1,108 sperm, 837 fin) confirmed for 1962–1967 Taiyo period
+  - Coal Harbour last whaling station on BC coast, closed 1967, confirmed
+  - Dismantled by Argus Salvage 1972–1975, confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 11 facts verified · 1 correction
+
+Fixed: Western Whaling Ltd described as 'joint venture with Japanese interests' from 1948 — corrected to 'initially Canadian-owned'; Japanese partnership (Taiyo) began 1960/1962. All whale counts, RCAF dates, and closure dates confirmed. Verification source and editorial added.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

@@ -109,5 +109,26 @@
   "galleryPaths": [
     "_m/c/4/h/w/spatsizi-plateau-wilderness-wk/hero.png",
     "_m/2/0/4/m/chatham-islands-wp/.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qtz6-ashmore-and-cartier-islands-flight-context.mp3",
+      "qtz6-ashmore-and-cartier-islands-intro.mp3",
+      "qtz6-ashmore-and-cartier-islands-coral-kingdoms-in-empty-water.mp3",
+      "qtz6-ashmore-and-cartier-islands-a-reef-richer-than-it-should-be.mp3",
+      "qtz6-ashmore-and-cartier-islands-between-two-worlds.mp3",
+      "qtz6-ashmore-and-cartier-islands-the-art-of-arriving.mp3",
+      "qtz6-ashmore-and-cartier-islands-sovereignty-over-sand.mp3"
+    ],
+    "durations": {
+      "qtz6-ashmore-and-cartier-islands-flight-context.mp3": 45.893875,
+      "qtz6-ashmore-and-cartier-islands-intro.mp3": 33.5374583,
+      "qtz6-ashmore-and-cartier-islands-coral-kingdoms-in-empty-water.mp3": 63.673875,
+      "qtz6-ashmore-and-cartier-islands-a-reef-richer-than-it-should-be.mp3": 65.5969166,
+      "qtz6-ashmore-and-cartier-islands-between-two-worlds.mp3": 53.9925416,
+      "qtz6-ashmore-and-cartier-islands-the-art-of-arriving.mp3": 67.0965,
+      "qtz6-ashmore-and-cartier-islands-sovereignty-over-sand.mp3": 64.8514583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

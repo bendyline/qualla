@@ -660,5 +660,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "s14h-gberefu-island-flight-context.mp3",
+      "s14h-gberefu-island-intro.mp3",
+      "s14h-gberefu-island-the-threshold.mp3",
+      "s14h-gberefu-island-salt-merchants-and-fishermen.mp3",
+      "s14h-gberefu-island-the-spirit-attenuation-well.mp3",
+      "s14h-gberefu-island-returning-to-the-point-of-no-return.mp3"
+    ],
+    "durations": {
+      "s14h-gberefu-island-flight-context.mp3": 54.7023333,
+      "s14h-gberefu-island-intro.mp3": 49.6182083,
+      "s14h-gberefu-island-the-threshold.mp3": 55.5249583,
+      "s14h-gberefu-island-salt-merchants-and-fishermen.mp3": 60.2052916,
+      "s14h-gberefu-island-the-spirit-attenuation-well.mp3": 55.309875,
+      "s14h-gberefu-island-returning-to-the-point-of-no-return.mp3": 62.7965
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

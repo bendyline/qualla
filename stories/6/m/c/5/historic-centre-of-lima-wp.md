@@ -1,0 +1,60 @@
+# Historic Centre of Lima
+
+The grid Francisco Pizarro scratched into the Rímac Valley in 1535 became the political and religious capital of Spanish South America, and today its concentration of colonial churches, convents, and palaces makes it one of the most intact viceregal city centers on the continent.
+
+**Location:** -12.0514, -77.0431
+
+**Categories:** world-heritage-sites, historic-districts, colonial-history, architecture, peru
+
+## Introduction
+
+Francisco Pizarro drew thirteen blocks by nine, oriented the grid to the Rímac River, and called it the City of Kings. That was January 18, 1535. Nearly five centuries later, the grid still holds. Lima's Historic Centre occupies the same footprint — a rectangle of colonial churches, baroque balconies, and republican-era palaces that UNESCO designated a World Heritage Site in 1988 for its "originality and high concentration of historic monuments." What Pizarro laid down as a plan for conquest became, over the following centuries, the administrative capital of an empire that stretched from Panama to Patagonia.
+
+## Capital of an Empire
+
+Lima was not just a colonial city — it was the colonial city. As the seat of the Viceroyalty of Peru, it governed Spanish South America's political, administrative, religious, and economic affairs. Religious orders arrived in force during the late 16th century, building the churches and convents that still define the skyline: Santo Domingo, San Francisco, La Merced, San Agustín. The University of San Marcos, called the "Dean of the Americas," was founded on May 12, 1551, and began classes on January 2, 1553, in the Convent of Santo Domingo. The city's concentration of ecclesiastical and institutional architecture was unmatched in the Western Hemisphere. Originally enclosed by defensive walls — now demolished — the Cercado de Lima developed as a city designed to project authority, with the Plaza Mayor at its center anchoring the cathedral, the Government Palace, and the archbishop's residence.
+
+## Earthquake and Reinvention
+
+Building a monumental city on seismically active ground requires either stubbornness or ingenuity; Lima developed both. The earthquake of 1687 damaged or destroyed much of the colonial fabric. The catastrophe of 1746 was worse — a massive quake followed by a tsunami that obliterated the port of Callao. Each time, Lima rebuilt, and the reconstructions introduced new architectural languages: Baroque gave way to Rococo, then to Neoclassical. The flexible construction technique called quincha — a lattice of wood and cane covered in plaster — became standard, producing buildings that bent with the shaking rather than collapsing. Many of the colonial balconies that project from the facades today are quincha work, light enough to survive tremors that would shatter stone. The result is a city where architectural style is also a record of seismic history.
+
+## A World Heritage Site
+
+UNESCO's 1988 designation recognized what visitors can see from the ground: block after block of 16th-, 17th-, and 18th-century buildings packed into a walkable area. The boundaries were modified in 1991, and the site was further expanded to include the Rímac district across the river, linked by the colonial-era Stone Bridge. In 2021, as part of Peru's bicentennial celebrations, the Metropolitan Municipality of Lima installed 206 QR codes across the centre's landmarks, each opening a video about the building's history. In 2024, President Dina Boluarte announced a "special regime" to accelerate restoration work. The challenges are real: centuries of earthquake damage, urban density, vehicular traffic, and the sheer scale of maintenance required for hundreds of heritage structures. But the core remains intact — the cathedral, the Government Palace, the monasteries, and the republican-era buildings that layer 19th-century ambition over colonial foundations.
+
+## The Grid Beneath the Grid
+
+Beneath the streets of the Historic Centre runs a network of colonial-era tunnels and crypts, remnants of the catacomb systems built under the major churches. The catacombs of San Francisco, the most famous, hold the remains of an estimated 25,000 people in subterranean bone-lined chambers. Archaeological work in the Plazuela San Francisco uncovered sections of the colonial underground infrastructure. The city above, too, preserves layers: original stone street signs from the viceregal period, many of them painted over during the 20th century, have been uncovered and restored. Research projects have identified the original color palettes of colonial buildings, revealing that the Historic Centre was once more vivid than its current appearance suggests — facades in ochre, terracotta, and deep blue rather than the uniform pastels of later repainting campaigns.
+
+## Still the Centre
+
+Lima has grown into a metropolitan area of roughly ten million people, sprawling far beyond Pizarro's original grid. But the Historic Centre remains the symbolic and institutional heart. The Government Palace occupies its original location on the Plaza Mayor. The cathedral stands where it was first built. The street names — jirón Camaná, jirón de la Unión, jirón Ancash — trace routes that predate the republic. In 2025, the municipal authorities relaunched "Lima, Ciudad de los Reyes" as a cultural tourism initiative, leaning into the city's full title. Walking the Historic Centre today means crossing nearly five centuries in a few blocks: from the 16th-century convent cloisters where the Americas' first university held its classes, past the baroque bell towers rebuilt after each earthquake, to the republican palaces where Peru's modern government still operates.
+
+## Flight Context
+
+Located at 12.051°S, 77.043°W, the Historic Centre of Lima occupies a compact area along the south bank of the Rímac River. From 3,000–5,000 feet AGL, the colonial grid is visible as a denser, older urban pattern distinct from the surrounding modern city. Key landmarks include the Plaza Mayor, the cathedral's twin towers, the Government Palace, and the large footprint of the San Francisco monastery. The Rímac district across the river is included in the UNESCO site. Jorge Chávez International Airport (SPJC/LIM) lies approximately 10 km west. Lima's characteristic marine fog layer (garua) is common June through November.
+
+## Sources
+
+- [Historic Centre of Lima - Wikipedia](https://en.wikipedia.org/?curid=2114955)
+- [Historic Centre of Lima - UNESCO World Heritage Centre](https://whc.unesco.org/en/list/500/)
+  - UNESCO designation in 1988 confirmed
+  - 1991 boundary expansion to include Rimac district confirmed
+  - Corrected: 'Dean University of the Americas' → 'Dean of the Americas' (official title of University of San Marcos)
+- [National University of San Marcos - Wikipedia](https://en.wikipedia.org/wiki/National_University_of_San_Marcos)
+  - Founded May 12, 1551 confirmed
+  - Classes began January 2, 1553 at Convent of Santo Domingo confirmed
+  - Called 'Dean of the Americas' as oldest continuously operating university in Western Hemisphere confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 8 facts verified · 1 correction
+
+UNESCO 1988 designation and 1991 expansion confirmed. Corrected 'Dean University of the Americas' to 'Dean of the Americas' (official title of University of San Marcos). All dates confirmed accurate. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 810*
+*Read time: 4 minutes*

@@ -55,5 +55,26 @@
     "sourceGeohash4": "twsf"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "twsf-wakhjir-pass-flight-context.mp3",
+      "twsf-wakhjir-pass-intro.mp3",
+      "twsf-wakhjir-pass-a-corridor-between-empires.mp3",
+      "twsf-wakhjir-pass-footprints-in-the-ice.mp3",
+      "twsf-wakhjir-pass-the-locked-door.mp3",
+      "twsf-wakhjir-pass-ice-cave-and-frozen-ground.mp3",
+      "twsf-wakhjir-pass-between-two-worlds.mp3"
+    ],
+    "durations": {
+      "twsf-wakhjir-pass-flight-context.mp3": 62.4600416,
+      "twsf-wakhjir-pass-intro.mp3": 34.8834166,
+      "twsf-wakhjir-pass-a-corridor-between-empires.mp3": 54.8124583,
+      "twsf-wakhjir-pass-footprints-in-the-ice.mp3": 67.931875,
+      "twsf-wakhjir-pass-the-locked-door.mp3": 62.584,
+      "twsf-wakhjir-pass-ice-cave-and-frozen-ground.mp3": 51.8424166,
+      "twsf-wakhjir-pass-between-two-worlds.mp3": 62.0120416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

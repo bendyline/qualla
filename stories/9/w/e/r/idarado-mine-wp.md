@@ -1,0 +1,61 @@
+# Idarado Mine
+
+A five-mile tunnel bored straight through the San Juan Mountains connected two mining towns and became Colorado's second-largest mine before economics brought it all crashing down.
+
+**Location:** 37.9151, -107.7003
+
+**Categories:** mining, ghost-town, colorado, san-juan-mountains, world-war-ii
+
+## Introduction
+
+Five miles of tunnel through 13,000-foot mountains. That is the distance separating the ghost town of Guston, near Red Mountain Pass, from the Pandora Mill outside Telluride -- a journey of more than 60 miles by highway, but a straight shot underground through the Idarado Mine. The tunnels of this sprawling operation honeycomb the San Juan Mountains of Ouray County, Colorado, connecting what were once dozens of independent claims into a single industrial enterprise that produced lead, zinc, silver, gold, and copper for nearly four decades. The remains are still visible from the Million Dollar Highway, rusting quietly against the alpine landscape.
+
+## Hammond's Gamble
+
+The story begins with William Hammond Jr. and his Treasury Tunnel Mining and Reduction Company, created in 1896. Hammond believed a parallel vein structure existed between the established mines of Red Mountain and Telluride. He drove the Treasury Tunnel approximately 2,000 feet into the mountain, hoping to intercept it. He found some ore, but never struck it rich. The tunnel operated for about ten years with limited success before being abandoned, a monument to optimistic geology. It sat dormant for decades until 1939, when Newmont Mining's lead exploration geologist, Fred Searls, recognized its potential. Searls saw that the Barstow and Black Bear Mines still held large reserves of lead and zinc beneath their historic workings -- reserves the previous owners had left untouched because extracting them was uneconomical. Hammond's abandoned tunnel was the key to reaching them.
+
+## Born for War
+
+Searls convinced the Sunshine Mining Company of Wallace, Idaho, to form a joint venture. They named it the Idarado Mining Company, blending the identities of both states. Then world events accelerated everything. After America entered World War II, the War Production Board issued Order L-208 in 1942, shutting down gold mines nationwide to redirect labor and resources toward strategic metals. In 1943, the Board created the Domestic Metals Procurement Program to fast-track base metal development. The Idarado was a perfect candidate. The federal government leased the mine in June 1943 and paid to extend the Treasury Tunnel an additional 7,000 feet to reach beneath the old Black Bear workings. Miners created a 600-foot vertical raise to intersect and drain those workings, then built ore chutes, laid rail, and strung electrical and ventilation lines. By the time the mine was ready to produce, the war was in its final year.
+
+## Through the Mountain
+
+In June 1944, Newmont bought back the government lease and built a 250-ton-per-day selective flotation mill. By January 1945, the mine was in full production. Newmont eventually bought out Sunshine Mining's stake and became sole owner. Then came the master stroke. On the Telluride side of the mountain, Telluride Mines Inc. controlled the fabled Smuggler-Union mine and most other historic producers -- Liberty Bell, Tomboy, Ajax, Argentine, and Montana. When metal prices crashed in 1953 and Telluride Mines announced it would close and lay off all 230 workers, Newmont stepped in and purchased everything. With both sides of the mountain under one roof, engineers extended the Idarado workings to connect with the raises Telluride Mines had already created. Miners could now travel all the way through the mountain from Red Mountain to Telluride. The old Pandora Mill, better situated than the remote Treasury Mill, was refitted in 1956. The timing proved fortunate: the Treasury Mill burned down shortly after.
+
+## Boom, Bust, and 80,000 Pounds of Dynamite
+
+By 1959, Idarado was producing 400,000 tons of ore annually. But the mine's fortunes rose and fell with global metal prices. A profitable stretch ended in 1971 when low prices, a smelter strike, and a labor shortage in Telluride combined to erase margins. Recovery came in 1973 when miners struck a rich new ore body. During the 1973-1974 boom, Idarado ran around the clock, blasting through 80,000 pounds of dynamite per week. With over 500 employees, it became Colorado's second-largest mine behind Climax Molybdenum near Leadville. Sales reached $21 million in 1974. But 1975 was the peak. Both smelters that processed Idarado's concentrates -- in Leadville and Corpus Christi -- closed, forcing the company to ship ores overseas at ruinous cost. The rich ore body was exhausted, leaving only low-value deposits at the fringes. On September 30, 1978, the Idarado Mine closed for good. Today, reclaimed tailings ponds appear as flat, grassy meadows along the highway -- quiet evidence of the mountain's hollowed-out interior.
+
+## Flight Context
+
+Located at 37.92N, 107.70W near Red Mountain Pass on the Million Dollar Highway (US-550) between Ouray and Silverton, Colorado. Mine structures, trestle remains, and reclaimed tailings ponds are visible from altitude along the highway corridor. The mine extends approximately 5 miles west through 13,000-foot peaks to the Pandora Mill near Telluride. Red Mountain Pass sits at 11,018 feet. The ghost town of Guston and slag piles are visible near the eastern portal. Nearest airports: KTEX (Telluride Regional Airport), KCEZ (Cortez), KDRO (Durango-La Plata County). Caution: high terrain, mountain weather, and strong updrafts common in this area.
+
+## Sources
+
+- [Idarado Mine - Wikipedia](https://en.wikipedia.org/?curid=5388443)
+  - Treasury Tunnel founded 1896 by W.J. Hammond Jr.
+  - Idarado Mining Company formed 1939 as Newmont/Sunshine joint venture
+  - Name blends Idaho and Colorado
+  - Government lease June 1943
+  - 400,000 tons annually by 1959
+  - Closed September 30 1978
+- [The Idarado Mine Historical Marker - HMDB](https://www.hmdb.org/m.asp?m=179028)
+  - Pandora Mill refitted 1956
+  - $21 million sales in 1974
+  - Second largest mine in Colorado behind Climax
+- [Order L-208 Mining History Association](https://www.mininghistoryassociation.org/Journal/MHJ-v25-2018-McKinney.pdf)
+  - War Production Board Order L-208 issued 1942
+  - Domestic Metals Procurement Program created 1943
+
+## Review Notes
+
+**Reviewed:** 2026-01-31 · 12 facts verified · 0 corrections
+
+All major facts verified: Treasury Tunnel 1896, Newmont/Sunshine JV 1939, WPB Order L-208 1942, government lease 1943, production dates, 1M sales 1974, closure Sept 30 1978. Well-written factual mining history.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

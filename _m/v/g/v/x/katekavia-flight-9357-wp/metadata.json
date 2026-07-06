@@ -53,5 +53,24 @@
     "sourceGeohash4": "vgvx"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "vgvx-katekavia-flight-9357-flight-context.mp3",
+      "vgvx-katekavia-flight-9357-intro.mp3",
+      "vgvx-katekavia-flight-9357-a-town-at-the-edge-of-the-arctic.mp3",
+      "vgvx-katekavia-flight-9357-seven-hundred-meters-short.mp3",
+      "vgvx-katekavia-flight-9357-a-warning-ignored.mp3",
+      "vgvx-katekavia-flight-9357-the-pattern-in-the-wreckage.mp3"
+    ],
+    "durations": {
+      "vgvx-katekavia-flight-9357-flight-context.mp3": 50.8444166,
+      "vgvx-katekavia-flight-9357-intro.mp3": 52.8613333,
+      "vgvx-katekavia-flight-9357-a-town-at-the-edge-of-the-arctic.mp3": 58.5956666,
+      "vgvx-katekavia-flight-9357-seven-hundred-meters-short.mp3": 62.0194166,
+      "vgvx-katekavia-flight-9357-a-warning-ignored.mp3": 68.6567916,
+      "vgvx-katekavia-flight-9357-the-pattern-in-the-wreckage.mp3": 54.96775
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

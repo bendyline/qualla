@@ -1,0 +1,65 @@
+# Attica Prison
+
+The uprising that became a massacre - where inmates seized control of a New York prison in 1971, negotiated on national television, and were killed along with hostages when Governor Rockefeller ordered state troopers to retake it by force.
+
+**Location:** 42.8645, -78.2803
+
+**Categories:** new-york, prison, uprising, 1971, civil-rights
+
+## Introduction
+
+On September 9, 1971, inmates at Attica Correctional Facility in upstate New York seized control of the prison, taking 42 staff members hostage and occupying D Yard. For four days, the rebellion made national news. Inmates, mostly Black and Latino, demanded basic human rights: better food, more showers, religious freedom, an end to brutal treatment. They negotiated with officials, journalists, and observers. Governor Nelson Rockefeller refused to visit. On September 13, he ordered the retaking of the prison. State troopers stormed Attica with rifles, shotguns, and tear gas. When the shooting stopped, 43 people were dead - 29 inmates and 10 hostages. The state initially claimed inmates had killed the hostages by cutting their throats. Autopsies revealed the truth: nearly all had been shot by troopers. Attica became synonymous with the failures of American incarceration and the violence the state will use to maintain control.
+
+## The Prison
+
+Attica Correctional Facility, built in the 1930s, held 2,200 inmates in a facility designed for 1,600. The population was 54% Black, 9% Puerto Rican - guarded by an entirely white staff. Conditions were brutal: one shower per week, one roll of toilet paper per month, censored mail, arbitrary punishment. Inmates earned as little as 25 cents a day. Medical care was primitive. Educational programs were minimal. The prison was a warehouse, and its inmates knew it. By 1971, the Black Power and prisoners' rights movements had reached behind the walls. Inmates organized, studied, and prepared. When violence erupted on September 9 after guards beat an inmate, the uprising spread through the cellblocks in minutes.
+
+## The Occupation
+
+Within hours, inmates controlled D Yard, a large open area in the prison's center. They held 42 hostages - guards and civilian employees. Leaders emerged: L.D. Barkley, a 21-year-old who would become the uprising's voice, read a list of demands into television cameras. The inmates wanted amnesty, minimum wage for prison labor, freedom to practice religion, adequate medical care - and the removal of the prison superintendent. Outside observers arrived, including lawyer William Kunstler and New York Times columnist Tom Wicker. Negotiations continued for four days. The inmates protected hostages; they organized food distribution; they maintained discipline. But they couldn't get what they most needed: amnesty and safe passage.
+
+## The Assault
+
+Governor Rockefeller refused to come to Attica. He wouldn't negotiate with criminals. On September 13, he authorized the retaking of the prison. At 9:46 AM, state police helicopters dropped CS gas into D Yard. Then 550 state troopers, sheriffs' deputies, and correctional officers stormed the prison with shotguns and rifles. They had no training in riot control. They fired indiscriminately into the gas-shrouded yard. The assault lasted six minutes. When it ended, 29 inmates and 10 hostages were dead or dying. Troopers and guards then beat surrendered inmates systematically. More inmates died of wounds in the following days. The state immediately claimed inmates had killed hostages by slitting their throats. Medical examiner reports proved this was a lie.
+
+## The Aftermath
+
+The truth about Attica emerged slowly. All deaths were caused by the assault, almost all by state gunfire. No weapons capable of causing the hostages' wounds were found among inmates. The state's lie had been deliberate. Investigations followed: a special commission, a grand jury. Sixty-two inmates were indicted; charges against all but one were eventually dropped or dismissed. No law enforcement officer was ever criminally charged. Civil suits took decades; in 2000, the state paid $12 million to surviving inmates. In 2011, Rockefeller's recorded phone calls were released, revealing he had been told hostages might die and authorized the assault anyway. The survivors are mostly dead now. Attica remains a maximum-security prison, holding 2,000 inmates.
+
+## Visiting Attica
+
+Attica Correctional Facility is located in the town of Attica, New York, about 35 miles east of Buffalo. The prison is not open to visitors except for scheduled visitation of inmates. The imposing gray walls and guard towers are visible from Exchange Street. There is no memorial to the 43 who died - neither inmates nor hostages have been officially commemorated at the site. The town of Attica is a small rural community; the prison is its largest employer. For those seeking to understand what happened, the documentary 'Attica' (2021) presents the story through archival footage and survivor interviews. The New York State Archives holds documents from the McKay Commission investigation. Buffalo Niagara International Airport (BUF) is 35 miles west. The experience of visiting is one of absence - the terrible events happened behind walls that reveal nothing.
+
+## Flight Context
+
+Located at 42.86°N, 78.28°W in the town of Attica, Wyoming County, New York, about 35 miles east of Buffalo. From altitude, Attica Correctional Facility appears as a large rectangular complex with distinctive walls and guard towers surrounded by farmland. The prison dominates the small town. D Yard, where the uprising and massacre occurred, is visible within the walls.
+
+## Sources
+
+- [Attica Prison riot - Wikipedia](https://en.wikipedia.org/?curid=308458)
+  - September 9-13 1971
+  - 42 hostages
+  - 43 total dead
+  - 29 inmates 10 hostages in assault
+- [Attica Timeline - NY Archives](https://www.archives.nysed.gov/research/topic-attica-timeline)
+  - Rockefeller refused to visit
+  - assault 9:46 AM Sept 13
+  - autopsies proved cover-up
+
+## Review Notes
+
+**Reviewed:** 2026-01-17 · 4 facts verified · 0 corrections
+
+Verified Sept 1971, 43 dead, autopsies proved cover-up
+
+**Spiciness:** 5/5
+
+**Strong opinions:**
+
+- The uprising that became a massacre
+- Attica became synonymous with the failures of American incarceration and the violence the state will use to maintain control
+
+---
+
+*Word count: 895*
+*Read time: 5 minutes*

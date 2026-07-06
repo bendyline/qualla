@@ -1,0 +1,68 @@
+# Anosy
+
+A southeastern Madagascar region whose name means 'islands' in Malagasy, where Portuguese shipwrecks, French colonial ambitions, uranium mining, and extraordinary biodiversity have collided for five centuries.
+
+**Location:** -24.1000, 46.3000
+
+**Categories:** history, region, mining, conservation
+
+## Introduction
+
+Portuguese cartographer Jean Parmentier called the waters off this coast "the ocean without reason." Between 1504 and 1507, at least five European ships broke apart on the reefs of southeastern Madagascar, and the survivors who crawled ashore found themselves in a place that would resist outside control for centuries. Anosy, whose name means "islands" in Malagasy, is one of Madagascar's 23 regions, a stretch of coastline, mountains, and river valleys that has been coveted by the Portuguese, the French, and multinational mining corporations, each arriving with plans that the land and its people have repeatedly complicated.
+
+## Shipwrecks and Stone Forts
+
+On 10 August 1500, a Portuguese crew separated from the 2nd India Armada by a storm became the first Europeans to sight Madagascar, near what is now Fort-Dauphin. They named it Ilha de Sao Lourenco. The shipwrecks that followed left survivors who built Tranovato, a 10-meter stone blockhouse on a hill nine kilometers west of the present town, likely the first European building on the island. Some survivors assimilated into the local Zafiraminia dynasty, possibly aided by their lighter skin resembling the ruling class who claimed Arab descent. When a Portuguese expedition visited in 1613, they found the stone fort occupied by a local king named Chambanga. A treaty was struck and a church built, but the relationship soured when sailors kidnapped the king's son to send him to Goa for Catholic education. The Jesuits returned in 1616 to negotiate the boy's release, beginning a pattern of forceful European engagement followed by awkward attempts at diplomacy.
+
+## France's First Indian Ocean Colony
+
+In 1642, Cardinal Richelieu dispatched Captain Rigault to claim Madagascar for France. The first settlement at swampy Manafiafy killed many colonists, likely from malaria and dysentery, so the survivors relocated 40 kilometers southwest to a defensible peninsula 150 feet above sea level. This became Fort Dauphin, France's first colony in the Indian Ocean. Governor Etienne de Flacourt recorded that Anosy was one of the most densely populated parts of Madagascar, with considerable agricultural surpluses. The colony obtained food from the Malagasy through trade or by force, and sold indigo, tobacco, and sugarcane. The region's exports over the centuries tell a grim story of extraction: enslaved people shipped to the Mascarene Islands and the United States in the 1700s, live cattle to Reunion for almost 300 years, then sisal, natural rubber, graphite, and uranothorianite. Madagascar formally became a French colony on 6 August 1896, and French troops took Fort-Dauphin.
+
+## Rebellion and the Weight of Empire
+
+French colonial rule introduced a labor tax requiring every able-bodied man to provide 50 days of unpaid work per year. Head taxes were imposed under penalty of forced labor. Roads were built, villages relocated, and European plantations established. The accumulated resentment erupted in a general uprising in 1904-1905. Antanosy king Befanatrika led rebels who captured Esira, Fort Dauphin, and Manambaro, with widespread looting. Catholic churches were burned while Protestants generally supported the revolt. The French retaliated by closing Lutheran schools and churches, believing them complicit. During World War II, the Vichy governor-general retreated southward through Madagascar but surrendered rather than enter Anosy. When France refused to support a democratic path to independence, the Malagasy Uprising of 1947-1949 began, attracting as many as one million peasants in the south alone. Madagascar finally gained independence by referendum in 1958.
+
+## The Black Rocks of Ambatomika
+
+Anosy's geology has attracted prospectors for over a century. Mica mining began in 1912, with 50 companies operating by 1947. But the most remarkable chapter involved uranothorianite, a dense, highly radioactive uranium ore. Local people called the black rocks vatovy and used them as slingshot ammunition and fishing weights. When French surveyors identified the mineral in 1953, the Atomic Energy Commission established a mining center and extracted nearly 4,000 tonnes between 1954 and 1963, making it briefly Madagascar's second-most valuable export. More recently, Rio Tinto subsidiary QIT Madagascar Minerals has mined 750,000 tons of ilmenite per year from the coastal sands, spending almost a billion dollars on infrastructure including the new harbor at Port d'Ehola, opened in 2009. The mine contaminated Lake Besaroy in 2014-2015 and sparked local protests in 2013 and 2022. High-quality blue sapphires found near Andranondambo in 1991 briefly attracted a rush of 10,000 miners.
+
+## Living on the Edge
+
+Today, Anosy's population of over 800,000 faces stark challenges. Eighty percent of inhabitants lack access to clean water, literacy sits below 20 percent, and an estimated GDP per capita in 2004 was just $180. Fort-Dauphin promotes itself as the "Malagasy Riviera," and tourism has grown around the region's beaches, pleasant climate, and nature reserves where several lemur species can be seen. Andohahela National Park was established as a natural reserve in 1932 and is now a UNESCO World Heritage Site. In 1996, Anosy was recognized as one of the most ecologically diverse regions in all of Madagascar. But that biodiversity faces threats from rising sea levels, coastal erosion, and deforestation driven by Fort-Dauphin's rapid growth. The region contains 18 ethnic groups, the Antanosy people along the coast, Antandroy in the southwest, and Bara in the rural interior, all navigating a landscape shaped by centuries of outside ambition and resilient local identity.
+
+## Flight Context
+
+Located at 24.10S, 46.30E in southeastern Madagascar. The region stretches roughly 150 km along the coastline and 250 km inland. Fort-Dauphin/Taolagnaro (FMSD) is the main airport, served by Air Madagascar from Antananarivo. The Vohimana mountain range dominates the landscape, terminating at Mount Bezavona (529 m) just outside Fort-Dauphin. Coastal lagoons, sandy hills, and the contrast between green forest patches and cleared land are visible from altitude. The Mandrare River along the southwestern border is a major landmark. Recommended viewing altitude: 5,000-8,000 ft AGL.
+
+## Sources
+
+- [Anôsy - Wikipedia](https://en.wikipedia.org/?curid=16041969)
+- [Anosy Region - Wikipedia](https://en.wikipedia.org/wiki/Anosy_Region)
+  - Portuguese first sighted Madagascar 10 August 1500 confirmed
+  - Tranovato stone blockhouse 10 meters, 9 km west of Fort-Dauphin confirmed
+  - Fort Dauphin: France's first colony in the Indian Ocean confirmed
+  - French troops took Fort-Dauphin on 6 August 1896 confirmed
+  - Uranothorianite mining began 1953-54, extracted nearly 4,000 tonnes 1954-1963 confirmed
+  - Andohahela National Park UNESCO World Heritage Site confirmed
+  - Corrected: 'human slaves shipped' → 'enslaved people shipped'
+- [History of Madagascar - Wikipedia](https://en.wikipedia.org/wiki/History_of_Madagascar)
+  - Cardinal Richelieu dispatched expedition to claim Madagascar for France in 1642 confirmed
+  - Fort Dauphin described as France's first Indian Ocean colony confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 8 facts verified · 1 correction
+
+Corrected empathy issue: 'human slaves shipped' changed to 'enslaved people shipped'. Key facts verified: Portuguese sighted Madagascar 10 August 1500, Fort Dauphin as France's first Indian Ocean colony, uranothorianite mining 1954-1963, Andohahela UNESCO status.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- The region's exports over the centuries tell a grim story of extraction.
+- each arriving with plans that the land and its people have repeatedly complicated
+
+---
+
+*Word count: 870*
+*Read time: 5 minutes*

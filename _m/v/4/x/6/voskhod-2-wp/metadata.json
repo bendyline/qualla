@@ -290,5 +290,24 @@
     "_m/v/4/x/6/voskhod-2-wp/voskhod2-patch.png",
     "_m/v/4/x/6/voskhod-2-wp/avenue-of-cosmonauts-in-yarosl.jpg"
   ],
-  "updatedAt": "2026-04-01T07:57:18.921Z"
+  "updatedAt": "2026-04-01T07:57:18.921Z",
+  "narration": {
+    "files": [
+      "v4x6-voskhod-2-flight-context.mp3",
+      "v4x6-voskhod-2-intro.mp3",
+      "v4x6-voskhod-2-twelve-minutes-outside.mp3",
+      "v4x6-voskhod-2-the-suit-that-swelled.mp3",
+      "v4x6-voskhod-2-a-landing-nobody-expected.mp3",
+      "v4x6-voskhod-2-two-nights-in-the-taiga.mp3"
+    ],
+    "durations": {
+      "v4x6-voskhod-2-flight-context.mp3": 43.37325,
+      "v4x6-voskhod-2-intro.mp3": 49.8728333,
+      "v4x6-voskhod-2-twelve-minutes-outside.mp3": 51.0060833,
+      "v4x6-voskhod-2-the-suit-that-swelled.mp3": 59.00725,
+      "v4x6-voskhod-2-a-landing-nobody-expected.mp3": 55.1117916,
+      "v4x6-voskhod-2-two-nights-in-the-taiga.mp3": 75.17
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

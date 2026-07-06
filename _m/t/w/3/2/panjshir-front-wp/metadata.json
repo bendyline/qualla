@@ -55,5 +55,26 @@
     "sourceGeohash4": "tw32"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "tw32-panjshir-front-flight-context.mp3",
+      "tw32-panjshir-front-intro.mp3",
+      "tw32-panjshir-front-a-valley-built-for-resistance.mp3",
+      "tw32-panjshir-front-guerrilla-architecture.mp3",
+      "tw32-panjshir-front-the-emerald-treasury.mp3",
+      "tw32-panjshir-front-enemies-within.mp3",
+      "tw32-panjshir-front-symbol-and-legacy.mp3"
+    ],
+    "durations": {
+      "tw32-panjshir-front-flight-context.mp3": 40.7395,
+      "tw32-panjshir-front-intro.mp3": 34.0621666,
+      "tw32-panjshir-front-a-valley-built-for-resistance.mp3": 63.23825,
+      "tw32-panjshir-front-guerrilla-architecture.mp3": 67.6983333,
+      "tw32-panjshir-front-the-emerald-treasury.mp3": 73.8971666,
+      "tw32-panjshir-front-enemies-within.mp3": 67.2349583,
+      "tw32-panjshir-front-symbol-and-legacy.mp3": 59.5181666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

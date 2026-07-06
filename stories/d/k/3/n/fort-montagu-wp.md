@@ -1,0 +1,53 @@
+# Fort Montagu
+
+The oldest surviving fort in the Bahamas witnessed the first amphibious assault in United States Marine Corps history and was recaptured from Spain through one of the most inventive bluffs in colonial warfare.
+
+**Location:** 25.0737, -77.3066
+
+**Categories:** history, military, colonial, caribbean
+
+## Introduction
+
+Before dawn on March 3, 1776, eight small warships flying the Continental flag crept toward the eastern shore of New Providence Island. Their target was a squat limestone fortification armed with cannons and gunpowder that the British colony could not afford to lose. What happened next would enter the record books as the first amphibious assault by the United States Marine Corps. But Fort Montagu's story neither begins nor ends with that single morning. Built in 1741, this unassuming four-cannon stronghold on Nassau's eastern shore has changed hands more times than most forts five times its size, not always through force of arms and not always with a shot fired in anger.
+
+## Limestone and Gunpowder
+
+When Governor John Tinker arrived in Nassau in 1741, he found a colony defended by a single aging fort. One fortification for an entire island struck him as reckless, particularly given how frequently the Spanish raided these waters. He commissioned military engineer Peter Henry Bruce to build a second stronghold at the island's eastern approach. Construction took barely a year. By 1742, Fort Montagu stood finished: walls of local limestone, twenty-three cannons pointed seaward, and over ninety-five barrels of gunpowder stored in its magazine. The site commanded the eastern entrance to Nassau Harbour, making any approach from that direction a dangerous gamble for an attacker. For decades, the fort saw no combat. It stood watch over turquoise shallows while trade ships and fishing boats passed beneath its guns, a deterrent whose value lay precisely in the fact that it never had to prove itself.
+
+## The Marines' First Beach
+
+Thirty-four years of quiet ended in 1776. Commodore Esek Hopkins sailed a small Continental Navy fleet south from Philadelphia with orders to seize British military stores in Nassau. His initial plan called for a stealthy approach from the north, but a cannon fired prematurely aboard one of his ships eliminated any element of surprise. Hopkins adjusted, swinging his squadron around to attack from the east, directly into Fort Montagu's line of fire. Governor Montfort Browne ordered the garrison to fire three warning shots, a gesture of defiance that proved to be the fort's last act of resistance. Rather than fight, the soldiers abandoned their posts. Some walked home; others retreated to Fort Nassau deeper in town. The Continental Marines landed unopposed, seized Fort Montagu without a casualty, and marched on Fort Nassau, which surrendered shortly afterward. It was an anticlimactic baptism for what would become one of the world's most storied fighting forces, but the historical milestone was set: the Marines had made their first amphibious landing.
+
+## The Rowboat Ruse
+
+Fort Montagu changed hands again in 1782 when a Spanish fleet of more than eighty ships appeared off Nassau. The British garrison surrendered without resistance. The following year, Colonel Andrew Deveaux, an American Loyalist living in St. Augustine, Florida, decided to take the Bahamas back for the Crown. His resources were modest: 220 militia and 150 muskets, a force absurdly small compared to the Spanish garrison. What Deveaux lacked in manpower he made up for in theatrical ingenuity. He ordered his men to row from their ship toward shore in full view of the Spanish sentries, then duck below the gunwales once out of sight and row back to the ship. They repeated the circuit again and again, creating the illusion of a vast landing force pouring onto the island. The panicked Spanish, convinced they were hopelessly outnumbered, attempted to burn Fort Montagu rather than let it fall. Deveaux's men prevented the destruction and captured the fort intact, then pressed on to retake Fort Nassau. The Bahamas returned to British control through a bluff and a handful of rowboats.
+
+## A Quiet Sentinel
+
+Today Fort Montagu is the oldest surviving fort in the Bahamas, a modest limestone structure that sits in a small park overlooking the harbor where cruise ships now anchor. Only four of its original twenty-three cannons remain, their barrels weathered green by centuries of salt air. The walls are low enough that a tall person can peer over them, a reminder that this was never meant to be an imposing citadel but rather a practical coastal battery built quickly and cheaply from the rock underfoot. Visitors walking the grounds can stand roughly where Continental Marines splashed ashore in 1776 and look out across the same waters that Deveaux's men rowed back and forth across seven years later. The fort's power was never in its walls. It lay in its position at the mouth of the harbor, a chokepoint that three different nations fought over in the span of a single decade, each time deciding the fate of an entire colony.
+
+## Flight Context
+
+Fort Montagu sits at 25.074°N, 77.307°W on the eastern shoreline of New Providence Island. From the air, look for the small limestone structure and park area on the harbor's eastern approach, just east of downtown Nassau. The nearest major airport is Lynden Pindling International Airport (MYNN/NAS), approximately 10 nautical miles to the west. At lower altitudes, the fort is visible as a cleared area along the waterfront east of the cruise ship terminal. Nassau Harbour and the bridge to Paradise Island serve as prominent visual landmarks for orientation.
+
+## Sources
+
+- [Fort Montagu - Wikipedia](https://en.wikipedia.org/?curid=24882357)
+  - Fort built 1741-1742 by Peter Henry Bruce confirmed
+  - 23 cannons and 95+ barrels of gunpowder confirmed
+  - first USMC amphibious assault March 3 1776 confirmed
+  - Deveaux rowboat ruse confirmed
+  - fort is oldest surviving fort in Bahamas confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-12 · 5 facts verified · 0 corrections
+
+Verified fort built 1741-1742 by Peter Henry Bruce, 23 cannons and 95+ barrels gunpowder, first USMC amphibious assault March 3 1776, Deveaux rowboat ruse. Oldest surviving Bahamas fort confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 770*
+*Read time: 4 minutes*

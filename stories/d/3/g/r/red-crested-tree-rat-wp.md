@@ -1,0 +1,64 @@
+# Red-Crested Tree-Rat
+
+A critically endangered rodent, unseen for 113 years, walked out of the Colombian cloud forest and into a nature lodge one night in 2011.
+
+**Location:** 11.1008, -74.0720
+
+**Categories:** wildlife, conservation, endangered-species, colombia, biodiversity
+
+## Introduction
+
+On the night of May 4, 2011, two volunteers at the El Dorado ProAves Reserve in Colombia's Sierra Nevada de Santa Marta were monitoring frogs when a rust-colored rodent the size of a guinea pig ambled onto the railing of the lodge's veranda. It sat there for nearly two hours, seemingly unbothered by the humans staring at it with growing disbelief. The creature was a red-crested tree-rat, a species no scientist had confirmed alive since 1898. For 113 years, the animal had existed only as two museum specimens and a question mark in the margins of taxonomy.
+
+## A Ghost in the Collection
+
+The story begins on Christmas Eve, 1898, when the American naturalist Herbert Huntingdon Smith cataloged a peculiar rodent from the mountains near Santa Marta, Colombia. The specimen -- reddish-brown, woolly, with a strikingly long tail -- was unlike anything else in his collection. Joel Asaph Allen formally described it in 1899 as Isothrix rufodorsalis. Fifteen years later, in 1913, the ornithologist Melbourne Armstrong Carriker collected a second specimen from the same mountain range. Then silence. No traps caught another. No surveys turned one up. Taxonomists shuffled the species between genera -- from Isothrix to Diplomys -- until Louise Emmons of the Smithsonian Institution created an entirely new genus for it in 2005: Santamartamys, named for the only place on Earth where it had ever been found. The animal was, by that point, little more than a taxonomic ghost: a species known from two skins and a handful of skulls, presumed extinct by most who thought about it at all.
+
+## Two Hours on a Railing
+
+Lizzie Noble and Simon McKeown were not looking for mammals that May evening. They were ProAves volunteers stationed at El Dorado Reserve, a patch of protected cloud forest at 1,958 meters elevation on the northern slopes of the Sierra Nevada. When the rodent appeared, they photographed it carefully, unsure of what they were seeing. Its coat was dense and soft, rufous across the back with a lighter belly, and it bore tufts of long black hair between its eyes and ears. Paul Salaman, then head of the Rainforest Trust and a former ProAves researcher, identified it from their photographs. The news traveled fast. NPR called it a return from presumed extinction. The IUCN declared it a spectacular rediscovery. For the first time in over a century, science had a living encounter with Santamartamys rufodorsalis -- and it had come not from a carefully planned expedition, but from a creature that simply walked up to a lodge and sat down.
+
+## An Island in the Sky
+
+The Sierra Nevada de Santa Marta, where every confirmed sighting has occurred, is one of the most biologically isolated mountain ranges on the planet. Rising from the Caribbean coast to nearly 5,700 meters in just 42 kilometers, it is separated from the main Andes chain by lowlands below 200 meters on all sides. This isolation has made it a crucible for evolution. The red-crested tree-rat is endemic to a narrow band of cloud forest between 700 and 2,000 meters elevation -- a habitat squeezed between the tropical lowlands below and the high-altitude paramo above. The species is nocturnal and arboreal, capable of climbing vertical wooden surfaces with ease. Beyond that, almost nothing is known about its behavior. It is believed to eat plant matter. The specimen observed in 2011 made no sounds. With a body length of roughly 20 inches including its tail and a weight up to 500 grams, it occupies a world that scientists have barely begun to map.
+
+## Vanishing Habitat, Persistent Threats
+
+The IUCN lists the red-crested tree-rat as critically endangered, and the reasons are not hard to find. Feral cats introduced to the region are efficient predators of arboreal rodents. Climate change is shifting the boundaries of the cloud forest upslope, compressing the already narrow elevation band where the species survives. Deforestation across northern Colombia has reduced the Sierra Nevada's forests to less than twenty percent of their original extent. El Dorado Reserve, where the 2011 sighting occurred, protects roughly 1,024 hectares of cloud forest -- a fragment, but a critical one. The reserve was originally established to protect the Santa Marta parakeet and other endemic birds, but it has become a refuge for an entire community of species that exist nowhere else. Whether the red-crested tree-rat has a viable population or whether it clings to survival in scattered remnants of forest remains unknown. Three confirmed individuals in 113 years is not a population estimate. It is a measure of how little we know.
+
+## The Value of Showing Up
+
+What makes the red-crested tree-rat remarkable is not just its rarity but the manner of its rediscovery. There was no search party, no tracking dogs, no camera traps. An animal that science had written off simply appeared on a veranda at a bird lodge, as if checking in after a long absence. The encounter underscores a truth about the Sierra Nevada de Santa Marta: the mountain still holds secrets. With 440 recorded bird species and countless endemic plants and animals, the range remains one of the most biodiverse and least explored regions in South America. The red-crested tree-rat is a reminder that the absence of evidence is not evidence of absence -- and that conservation of intact habitat matters most precisely when we do not yet know everything that depends on it.
+
+## Flight Context
+
+Located at 11.10N, 74.07W in the Sierra Nevada de Santa Marta, northern Colombia. The El Dorado ProAves Reserve sits at approximately 1,958 meters elevation on the northern slopes. When flying over, the Sierra Nevada is unmistakable -- a massive triangular massif rising directly from the Caribbean coast. The nearest major airport is Simon Bolivar International Airport (SKSM) in Santa Marta. Approach from the north over the Caribbean for dramatic views of the coastal range. Expect cloud cover and turbulence over the mountain slopes, especially in the afternoon.
+
+## Sources
+
+- [Red-crested tree-rat - Wikipedia](https://en.wikipedia.org/?curid=12520873)
+  - Rediscovery date May 4 2011 verified
+  - Volunteers Lizzie Noble and Simon McKeown verified
+  - El Dorado ProAves Reserve verified
+  - 113 years since 1898 verified
+  - First specimen described by Joel Asaph Allen 1899 verified
+  - Second specimen collected by Melbourne Armstrong Carriker 1913 verified
+  - Genus Santamartamys created by Louise Emmons 2005 verified
+  - Body length approximately 51 cm (20 in) including tail verified
+  - Weight up to 500g verified
+  - IUCN Critically Endangered status verified
+  - El Dorado Reserve area 1,024 hectares verified
+  - Elevation range 700-2,000 meters verified
+
+## Review Notes
+
+**Reviewed:** 2026-03-07 · 12 facts verified · 0 corrections
+
+All facts verified: May 4 2011 rediscovery, volunteers Lizzie Noble and Simon McKeown, El Dorado ProAves Reserve, 113 years since 1898, Joel Asaph Allen 1899 description, Carriker 1913 second specimen, Louise Emmons Smithsonian genus 2005, body 51cm/500g, IUCN Critically Endangered, 1024 hectares reserve, 700-2000m elevation range.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

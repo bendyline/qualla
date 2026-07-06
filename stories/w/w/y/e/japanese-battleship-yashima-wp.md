@@ -1,0 +1,59 @@
+# Japanese Battleship Yashima
+
+Japan's first-generation battleship Yashima struck Russian mines off Port Arthur in 1904 and capsized under tow -- a loss so sensitive that the navy kept it secret for over a year, reassigning surviving crew to write letters as if still aboard.
+
+**Location:** 38.5667, 121.6667
+
+**Categories:** military, maritime, shipwreck
+
+## Introduction
+
+For more than a year after the battleship Yashima sank, her crew kept writing letters home as though nothing had happened. The surviving sailors had been reassigned to auxiliary gunboats but were ordered to address their correspondence as if they were still serving aboard the battleship. The deception was extraordinary: Japan hid the loss of one of its six capital ships not just from the enemy, but from its own public, knowing that the news would shatter confidence in a war that was far from won. The ruse held until June 1905, when the government finally admitted that Yashima had struck a mine a year earlier.
+
+## Japan's First Battleships
+
+Yashima and her sister Fuji were the Imperial Japanese Navy's first true battleships, ordered from Britain in direct response to two German-built Chinese ironclads that had outclassed everything Japan possessed during the First Sino-Japanese War. Designed by Philip Watts as smaller versions of the Royal Navy's Royal Sovereign class, they were faster than their British counterparts and carried a better grade of armor. Yashima was laid down at Armstrong Whitworth's Elswick shipyard on 6 December 1894 and completed on 9 September 1897, at a cost of 10.5 million yen. Unlike her sister, Yashima was fitted out as a flagship, with accommodations for an admiral and his staff. Her main battery of four 12-inch guns in twin turrets, backed by ten quick-firing 6-inch guns, made her one of the most powerful warships in the western Pacific.
+
+## Blind Bombardment
+
+In the opening weeks of the Russo-Japanese War, Yashima and Fuji attempted indirect bombardment of Port Arthur harbor -- firing 154 twelve-inch shells over the Liaodong Peninsula from Pigeon Bay on 10 March 1904, aiming at Russian ships they could not see. The results were negligible. When they tried again on 22 March, they found that Vice Admiral Stepan Makarov, the new Russian commander, had transferred coast-defense guns to positions overlooking Pigeon Bay. Russian ships in the harbor, using spotters on the heights, directed return fire that struck Fuji with a twelve-inch shell and forced the Japanese to disengage. The lesson was clear: blind bombardment at 9.5 kilometers was an expensive way to accomplish nothing.
+
+## The Minelayer's Revenge
+
+On 14 May 1904, Rear Admiral Nashiba Tokioki put to sea with his flagship Hatsuse, Yashima, and several other vessels to relieve the blockading force off Port Arthur. The next morning, the squadron sailed into a minefield laid by the Russian minelayer Amur. Hatsuse struck a mine first, disabling her steering. Yashima, moving to help, struck two mines in quick succession. One blew a hole in her starboard aft boiler room; the other detonated against the forward starboard hull near the underwater torpedo room. Yashima developed a 9-degree list to starboard that worsened throughout the day. Less than two hours after Yashima's first mine strike, Hatsuse drifted onto another mine that triggered a magazine explosion, killing 496 of her crew and sinking the ship almost instantly.
+
+## A Secret Sinking
+
+Yashima did not sink as quickly as Hatsuse. She remained afloat long enough to be taken under tow, listing ever more heavily as her crew fought to control the flooding. But the battle was lost. Later that day, Yashima capsized and went down. In a single morning, Japan had lost a third of its battleship strength -- a disaster that could have changed the course of the war if Russia had known about it. The Japanese high command made the extraordinary decision to classify both losses, but they went further with Yashima: the surviving crewmen were distributed among four auxiliary gunboats tasked with guarding Port Arthur, and they were instructed to continue writing letters as if serving aboard the battleship. For over a year, families received mail from a ship that lay on the seabed.
+
+## The Cost of Secrecy
+
+Japan's ability to hide the loss of two battleships for more than a year speaks to the tight information control of the Meiji-era military -- and to the geographic reality of the Yellow Sea, where the sinkings occurred far from neutral observers. The deception worked: Russia never adjusted its strategy to exploit Japan's weakened battle line. But the loss shaped Japanese naval thinking for decades. Mines, not enemy gunfire, had destroyed two capital ships in a single morning. The Amur, a humble minelayer, had achieved what the entire Russian Pacific Squadron could not. When the New York Times finally reported the loss on 2 June 1905, the headline read simply: 'Loss of Yashima Admitted.' By then, the Battle of Tsushima had already decided the war.
+
+## Flight Context
+
+The sinking site is located at approximately 38.57N, 121.67E in the Yellow Sea, off the southern approaches to Port Arthur (modern Lushunkou). Open water with the Liaodong Peninsula visible to the north. Nearest airport: Dalian Zhoushuizi International Airport (ZYTL), approximately 40 km north-northeast. Best observed from high altitude where the strategic chokepoint between the Liaodong Peninsula and the Shandong Peninsula becomes visible.
+
+## Sources
+
+- [Japanese battleship Yashima - Wikipedia](https://en.wikipedia.org/?curid=3798521)
+  - laid down Armstrong Whitworth Elswick December 6, 1894, completed September 9, 1897
+  - cost 10.5 million yen
+  - struck two mines May 15, 1904 from Russian minelayer Amur
+  - capsized later same day while under tow
+  - loss kept secret for over a year - crew wrote letters as if still aboard
+  - New York Times reported loss June 2, 1905
+  - first Japanese battleships were Yashima and Fuji ordered in response to Chinese Dingyuan and Zhenyuan
+
+## Review Notes
+
+**Reviewed:** 2026-03-19 · 7 facts verified · 0 corrections
+
+Verified laid down Armstrong Whitworth Dec 6 1894 completed Sep 9 1897, cost 10.5M yen, struck mines May 15 1904 from Amur, capsized under tow, crew wrote letters as if still aboard for over a year, NYT reported loss Jun 2 1905. All facts confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 790*
+*Read time: 4 minutes*

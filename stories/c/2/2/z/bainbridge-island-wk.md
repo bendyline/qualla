@@ -1,0 +1,64 @@
+# Bainbridge Island
+
+A 35-minute ferry ride from Seattle to an island of rolling hills, artists' studios, and the gentle rhythm of life lived between boats.
+
+**Location:** 47.6543, -122.5350
+
+**Categories:** island, washington, ferry, kayaking, seattle-area
+
+## Introduction
+
+The ferry pulls away from downtown Seattle, the city skyline receding behind as the M/V Wenatchee - or Tacoma, or Spokane, whichever vessel is running today - churns across Elliott Bay. Thirty-five minutes later, you step off in Winslow and into a different world. Bainbridge Island sits close enough to Seattle for daily commuting yet feels genuinely removed, a place where the ferry schedule still shapes the day's rhythm and where eagles outnumber stoplights. The island was a poets' commune in the 1970s and 1980s, when artists, musicians, and writers retreated here seeking inspiration in the quiet. That creative spirit persists, visible in galleries, coffeehouses, and the improv troupe that performs at the local arts center.
+
+## The Ferry Commute
+
+No bridge connects Bainbridge Island to the mainland - only the ferries that run throughout the day between the island and Seattle's downtown terminal. This maritime commute has become iconic, the stuff of tourism brochures and lifestyle articles, but for residents it's simply the way to work.
+
+The boats themselves are floating communities. Regular commuters claim favorite seats, recognize fellow travelers, read or work or simply watch the water slip past. On clear mornings, Mount Rainier rises above the southern horizon. On cloudy days, the city emerges from mist like a developing photograph. Either way, the crossing offers a decompression that no highway can match - a forced pause between the intensity of the city and the calm of the island.
+
+## Winslow and Beyond
+
+The ferry docks at the island's eastern shore, where the village of Winslow clusters around the terminal. A short walk brings you to the town center - restaurants, galleries, a bookstore, coffee shops where regulars linger over cups, and the kind of small-town retail that thrives when competition is a ferry ride away.
+
+Beyond Winslow, the island spreads across 28 square miles of rolling terrain. Roads wind past farms, forests, and waterfront estates. Battle Point Park offers baseball fields and open meadows. The Bloedel Reserve provides 150 acres of gardens and forest preserves, a legacy of lumber wealth turned to horticultural beauty. In summer, bicyclists take over the ferry, arriving for the annual Chilly Hilly ride or simply to explore the quiet roads.
+
+## Water on All Sides
+
+Island life means water everywhere. Sea kayakers launch from public beaches to explore the intricate coastline, paddling past harbor seals hauled out on rocks and great blue herons fishing the shallows. The island's many bays and inlets create miles of protected paddling, suitable for beginners and experts alike.
+
+Fort Ward State Park, on the island's southern tip, has been named to the Great Audubon Birding Trail, one of the few sites in the region to earn the designation. The park sits along a major migration flyway, drawing birders who track the seasonal arrivals and departures of species traveling between Alaska and Patagonia. Underwater, the cold waters of Puget Sound harbor giant Pacific octopus, colorful anemones, and the other creatures that make this region a world-class destination for cold-water diving.
+
+## The Weight of History
+
+Bainbridge Island carries a darker history that many visitors never learn. In 1942, residents of Japanese descent were among the first in the nation to be forcibly removed under Executive Order 9066. The Japanese American Exclusion Memorial, located where the ferry once departed carrying 227 islanders to internment camps, ensures this history isn't forgotten.
+
+Before European settlement, the Suquamish people used these waters for fishing and gathering. Chief Seattle - for whom the city across the water is named - was born on nearby Blake Island, visible from Bainbridge's shores. The island's Salish name has been lost, but the waters remain, connecting past and present across the same currents that carried cedar canoes and now carry ferries painted green and white.
+
+## Flight Context
+
+Located at 47.65N, 122.53W in Puget Sound, directly west of downtown Seattle. The island is clearly visible from altitude, roughly 10 miles long and 5 miles wide, separated from Seattle by about 8 miles of water. Look for the Washington State Ferry routes crossing Elliott Bay - the ferries are large, distinctive vessels making regular crossings. The Agate Pass Bridge connects the island's northern tip to the Kitsap Peninsula. Eagle Harbor indents the eastern shore near the ferry terminal at Winslow. Seattle-Tacoma International Airport (KSEA) is approximately 20 miles to the southeast.
+
+## Sources
+
+- [Bainbridge Island - Wikivoyage](https://en.wikivoyage.org/?curid=2351)
+- [Bainbridge Island - Wikipedia](https://en.wikipedia.org/wiki/Bainbridge_Island,_Washington)
+  - 35-minute ferry
+  - 1942 Japanese internment
+  - 227 islanders removed
+
+## Review Notes
+
+**Reviewed:** 2026-01-16 · 3 facts verified · 0 corrections
+
+Batch verified: dates, locations, facts accurate
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Bainbridge Island carries a darker history that many visitors never learn
+
+---
+
+*Word count: 720*
+*Read time: 4 minutes*

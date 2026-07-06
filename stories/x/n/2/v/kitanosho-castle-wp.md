@@ -1,0 +1,75 @@
+# Kitanosho Castle
+
+A colossal nine-story fortress that stood for only eight years before its master chose to burn it down rather than surrender, taking one of Japan's most famous women with him.
+
+**Location:** 36.0601, 136.2197
+
+**Categories:** castle, historic-site, samurai-history, sengoku-period, archaeological-site
+
+## Introduction
+
+Eight years. That is how long Kitanosho Castle existed, from the laying of its first stone in 1575 to the night its master set it ablaze in 1583. In that brief span, it held one of the tallest castle towers ever built in Japan, anchored the ambitions of one of the Sengoku period's most formidable generals, and witnessed a final act of defiance so absolute that it passed into legend. Today, only a few excavated stone foundations remain in downtown Fukui, alongside a shrine to the man who built the castle and destroyed it himself. But the story of those eight years contains a full arc of Japanese feudal history: loyalty, ambition, betrayal, war, and an ending that left no room for compromise.
+
+## The General's Commission
+
+In 1573, Oda Nobunaga was systematically conquering central Japan. After the Siege of Ichijodani Castle broke the power of the Asakura clan in Echizen Province, Nobunaga needed a trusted commander to hold the territory. He chose Shibata Katsuie, a veteran general known for his ferocity in battle and his absolute loyalty. Katsuie assessed the Asakura clan's old mountain stronghold and dismissed it as too confined. Instead, he selected a site on the wide Echizen plain where the Ashimori and Yoshiko rivers met, and began building Kitanosho Castle in 1575. The flatland location, or hirashiro, gave him room for something extraordinary: a nine-story donjon that towered over the surrounding landscape, the tallest castle keep in Japan at the time. Stone-faced earthen ramparts ringed the complex, and a network of water moats made the approach treacherous. Around the castle, Katsuie laid out a town that would eventually grow into the modern city of Fukui.
+
+## A Warlord's Reach
+
+From Kitanosho, Shibata Katsuie projected power across northern Japan. His chief rival was Uesugi Kenshin, the formidable lord of Echigo Province, and the two clashed repeatedly along their shared frontier. After Kenshin's death, Katsuie pushed into Kaga and Etchu Provinces, expanding his territory and his influence within Nobunaga's coalition. He was rewarded with a politically significant marriage: Nobunaga gave him the hand of Oichi, his own younger sister and one of the most renowned beauties of the age. Oichi had previously been married to Azai Nagamasa, another of Nobunaga's enemies, and she brought her three young daughters from that marriage into Katsuie's household. For a brief moment, Shibata Katsuie seemed destined to become one of the most powerful figures in Japan, his nine-story tower a physical declaration of that ambition.
+
+## The Unraveling
+
+Everything changed on the night of June 21, 1582, when Akechi Mitsuhide, one of Nobunaga's own commanders, attacked and killed him at Honno-ji temple in Kyoto. The assassination threw Japan into chaos. Toyotomi Hideyoshi, another of Nobunaga's generals, moved with astonishing speed to avenge his lord, defeating Mitsuhide within days and positioning himself as Nobunaga's true successor. Katsuie, pinned at Kitanosho by local unrest, could not march south in time to compete. A power struggle erupted over the succession, and Katsuie aligned himself against Hideyoshi. The confrontation came to a head in the spring of 1583 at the Battle of Shizugatake, where Hideyoshi's forces routed Katsuie's army. The old general retreated to Kitanosho for the last time.
+
+## The Last Night
+
+What happened inside Kitanosho Castle in the days after Shizugatake has been told and retold across centuries of Japanese literature and drama. Hideyoshi's forces surrounded the castle, and Katsuie knew there would be no relief. Rather than allow his family to fall into enemy hands, he made a decision that would define his legacy. According to accounts, he killed Oichi and members of his household, though Oichi's three young daughters by her first marriage were spared and allowed to leave the castle unharmed. They would later become Hideyoshi's adopted daughters, and the eldest, Chacha, would become his most powerful consort. With his household settled, Katsuie set fire to the nine-story keep and committed seppuku as the flames consumed everything he had built. The castle that had taken years to construct was gone in a single night.
+
+## Stones That Remember
+
+Today, Kitanosho Castle exists only as an archaeological trace. A few stone foundations, uncovered by excavation, mark the outline of what was once the grandest fortress in Echizen. Shibata Shrine, built on the castle grounds, honors Katsuie and Oichi with a quiet dignity that contrasts sharply with the violence of their end. Cherry trees line the walkways where moats once ran. The site sits in central Fukui, just a short walk from the moats of Fukui Castle, which was built directly over Kitanosho's ruins less than two decades later by Tokugawa Ieyasu's son. Some of Kitanosho's original stones were pulled from the rubble and reused in the newer castle's walls, where they remain embedded to this day. It is a fitting coda: the castle that burned in a single night was not truly destroyed. Its bones were simply folded into the next layer of history.
+
+## Flight Context
+
+Kitanosho Castle ruins sit at 36.060N, 136.220E in central Fukui city, immediately adjacent to the Fukui Castle moat complex. From the air, the site is indistinguishable from the surrounding urban area, as only below-ground archaeological remains survive. Look for Shibata Shrine and the park adjacent to the Fukui Castle moats as landmarks. Nearest airports: Fukui Airport (RJNF) approximately 10 km north, and Komatsu Airport (RJNK) approximately 40 km northeast. The flat terrain of the Echizen plain makes the city easily identifiable from altitude.
+
+## Sources
+
+- [Kitanosho Castle - Wikipedia](https://en.wikipedia.org/?curid=17366747)
+  - Built 1575 by Shibata Katsuie
+  - Nine-story donjon tallest of its time
+  - Castle existed only 8 years (1575-1583)
+  - Shibata Katsuie fought Uesugi Kenshin
+  - Oichi was Nobunaga's younger sister brought to Kitanosho on marriage to Katsuie
+  - Honno-ji Incident June 21 1582
+  - Battle of Shizugatake 1583 routed Katsuie
+  - Katsuie killed household members, set fire to castle, committed seppuku
+  - Oichi's three daughters spared
+  - Chacha (eldest daughter) became Hideyoshi's most powerful consort
+- [Battle of Shizugatake - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Shizugatake)
+  - Battle took place 1583 between Hideyoshi and Katsuie
+  - Katsuie retreated to Kitanosho after defeat
+  - Hideyoshi's forces besieged and destroyed the castle
+- [Kitanosho Castle - Japan Experience](https://www.japan-experience.com/all-about-japan/fukui/attractions-excursions/kitanosho-castle)
+  - Shibata Shrine honors Katsuie and Oichi
+  - Archaeological stone foundations survive
+  - Fukui Castle built over Kitanosho ruins by Tokugawa Ieyasu's son
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 13 facts verified · 0 corrections
+
+All facts verified: built 1575, nine-story donjon tallest of time, 8 years existence, Honno-ji Incident June 21 1582, Battle of Shizugatake 1583, Oichi was Nobunaga's sister, three daughters spared, Chacha became Hideyoshi's consort, Katsuie seppuku and castle burning. Strong narrative prose, spiciness 3.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- 'a final act of defiance so absolute that it passed into legend' -- strong framing
+- 'The castle that burned in a single night was not truly destroyed. Its bones were simply folded into the next layer of history' -- evocative literary close
+
+---
+
+*Word count: 845*
+*Read time: 4 minutes*

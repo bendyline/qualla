@@ -372,5 +372,26 @@
     "_m/v/k/9/1/northeast-passage-wp/nordenskiold-lettres-1880-cart.jpg",
     "_m/v/k/9/1/northeast-passage-wp/linschoten-map-of-scandinavia.jpg"
   ],
-  "updatedAt": "2026-04-01T08:23:38.447Z"
+  "updatedAt": "2026-04-01T08:23:38.447Z",
+  "narration": {
+    "files": [
+      "vk91-northeast-passage-flight-context.mp3",
+      "vk91-northeast-passage-intro.mp3",
+      "vk91-northeast-passage-ghosts-on-the-ice.mp3",
+      "vk91-northeast-passage-the-soviet-highway.mp3",
+      "vk91-northeast-passage-a-warming-corridor.mp3",
+      "vk91-northeast-passage-between-two-oceans.mp3",
+      "vk91-northeast-passage-the-next-frontier.mp3"
+    ],
+    "durations": {
+      "vk91-northeast-passage-flight-context.mp3": 52.6521666,
+      "vk91-northeast-passage-intro.mp3": 47.152375,
+      "vk91-northeast-passage-ghosts-on-the-ice.mp3": 57.5775833,
+      "vk91-northeast-passage-the-soviet-highway.mp3": 52.8844583,
+      "vk91-northeast-passage-a-warming-corridor.mp3": 58.98625,
+      "vk91-northeast-passage-between-two-oceans.mp3": 50.5108333,
+      "vk91-northeast-passage-the-next-frontier.mp3": 48.68125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

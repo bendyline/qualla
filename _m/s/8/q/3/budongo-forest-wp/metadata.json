@@ -196,5 +196,24 @@
     "_m/s/8/q/3/budongo-forest-wp/the-royal-mile-budongo-forest-.jpg",
     "_m/s/8/q/3/budongo-forest-wp/the-royal-mile-budongo-forest--1.jpg"
   ],
-  "updatedAt": "2026-03-31T05:27:04.783Z"
+  "updatedAt": "2026-03-31T05:27:04.783Z",
+  "narration": {
+    "files": [
+      "s8q3-budongo-forest-flight-context.mp3",
+      "s8q3-budongo-forest-intro.mp3",
+      "s8q3-budongo-forest-cathedral-of-mahogany.mp3",
+      "s8q3-budongo-forest-wings-in-the-understory.mp3",
+      "s8q3-budongo-forest-the-chimps-that-endured.mp3",
+      "s8q3-budongo-forest-a-field-station-rises.mp3"
+    ],
+    "durations": {
+      "s8q3-budongo-forest-flight-context.mp3": 42.9315,
+      "s8q3-budongo-forest-intro.mp3": 43.8726666,
+      "s8q3-budongo-forest-cathedral-of-mahogany.mp3": 64.9875416,
+      "s8q3-budongo-forest-wings-in-the-understory.mp3": 56.2815,
+      "s8q3-budongo-forest-the-chimps-that-endured.mp3": 64.72125,
+      "s8q3-budongo-forest-a-field-station-rises.mp3": 69.532625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

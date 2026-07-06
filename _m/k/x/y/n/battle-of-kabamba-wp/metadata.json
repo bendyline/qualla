@@ -59,5 +59,24 @@
     "sourceGeohash4": "kxyn"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "kxyn-battle-of-kabamba-flight-context.mp3",
+      "kxyn-battle-of-kabamba-intro.mp3",
+      "kxyn-battle-of-kabamba-the-flat-tire-that-changed-everything.mp3",
+      "kxyn-battle-of-kabamba-an-hour-at-the-armory.mp3",
+      "kxyn-battle-of-kabamba-two-presidents-in-the-bush.mp3",
+      "kxyn-battle-of-kabamba-tarehe-sita.mp3"
+    ],
+    "durations": {
+      "kxyn-battle-of-kabamba-flight-context.mp3": 41.4937916,
+      "kxyn-battle-of-kabamba-intro.mp3": 43.1805833,
+      "kxyn-battle-of-kabamba-the-flat-tire-that-changed-everything.mp3": 55.5589166,
+      "kxyn-battle-of-kabamba-an-hour-at-the-armory.mp3": 50.9038333,
+      "kxyn-battle-of-kabamba-two-presidents-in-the-bush.mp3": 56.0559166,
+      "kxyn-battle-of-kabamba-tarehe-sita.mp3": 57.444625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

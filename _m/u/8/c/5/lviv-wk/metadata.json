@@ -1576,5 +1576,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u8c5-lviv-flight-context.mp3",
+      "u8c5-lviv-intro.mp3",
+      "u8c5-lviv-seven-centuries-of-changing-hands.mp3",
+      "u8c5-lviv-the-communities-that-vanished.mp3",
+      "u8c5-lviv-the-capital-of-ukrainian-culture.mp3",
+      "u8c5-lviv-coffee-craft-beer-and-cobblestones.mp3",
+      "u8c5-lviv-a-city-at-war-and-at-peace.mp3"
+    ],
+    "durations": {
+      "u8c5-lviv-flight-context.mp3": 42.0174166,
+      "u8c5-lviv-intro.mp3": 41.5185833,
+      "u8c5-lviv-seven-centuries-of-changing-hands.mp3": 64.4827083,
+      "u8c5-lviv-the-communities-that-vanished.mp3": 59.746,
+      "u8c5-lviv-the-capital-of-ukrainian-culture.mp3": 52.6983333,
+      "u8c5-lviv-coffee-craft-beer-and-cobblestones.mp3": 55.833625,
+      "u8c5-lviv-a-city-at-war-and-at-peace.mp3": 57.58775
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

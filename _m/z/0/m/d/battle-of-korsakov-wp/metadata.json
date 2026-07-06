@@ -93,5 +93,26 @@
   ],
   "galleryPaths": [
     "_m/z/0/m/d/battle-of-korsakov-wp/russian-protected-crui.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "z0md-battle-of-korsakov-flight-context.mp3",
+      "z0md-battle-of-korsakov-intro.mp3",
+      "z0md-battle-of-korsakov-a-lone-ships-desperate-gambit.mp3",
+      "z0md-battle-of-korsakov-through-enemy-waters.mp3",
+      "z0md-battle-of-korsakov-fire-in-the-harbor.mp3",
+      "z0md-battle-of-korsakov-salvage-and-second-life.mp3",
+      "z0md-battle-of-korsakov-the-waters-remember.mp3"
+    ],
+    "durations": {
+      "z0md-battle-of-korsakov-flight-context.mp3": 32.393375,
+      "z0md-battle-of-korsakov-intro.mp3": 37.210875,
+      "z0md-battle-of-korsakov-a-lone-ships-desperate-gambit.mp3": 44.9339166,
+      "z0md-battle-of-korsakov-through-enemy-waters.mp3": 47.397125,
+      "z0md-battle-of-korsakov-fire-in-the-harbor.mp3": 43.3694583,
+      "z0md-battle-of-korsakov-salvage-and-second-life.mp3": 53.7974583,
+      "z0md-battle-of-korsakov-the-waters-remember.mp3": 43.598375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

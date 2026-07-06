@@ -567,5 +567,24 @@
     "_m/s/r/4/r/ravello-wk/costiera-amalfitana-mix-2019-b-1.jpg",
     "_m/s/r/4/r/ravello-wk/costieraamalfitana.jpg"
   ],
-  "updatedAt": "2026-03-31T08:27:32.673Z"
+  "updatedAt": "2026-03-31T08:27:32.673Z",
+  "narration": {
+    "files": [
+      "sr4r-ravello-flight-context.mp3",
+      "sr4r-ravello-intro.mp3",
+      "sr4r-ravello-two-villas-two-infinities.mp3",
+      "sr4r-ravello-a-festival-born-from-admiration.mp3",
+      "sr4r-ravello-wine-from-the-vertical-hillside.mp3",
+      "sr4r-ravello-the-quiet-above-the-coast.mp3"
+    ],
+    "durations": {
+      "sr4r-ravello-flight-context.mp3": 56.8296666,
+      "sr4r-ravello-intro.mp3": 40.8168333,
+      "sr4r-ravello-two-villas-two-infinities.mp3": 64.50125,
+      "sr4r-ravello-a-festival-born-from-admiration.mp3": 60.4767916,
+      "sr4r-ravello-wine-from-the-vertical-hillside.mp3": 58.4574166,
+      "sr4r-ravello-the-quiet-above-the-coast.mp3": 70.4075416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

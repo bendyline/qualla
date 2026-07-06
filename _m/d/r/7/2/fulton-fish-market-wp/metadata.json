@@ -267,5 +267,24 @@
     "_m/d/r/7/2/fulton-fish-market-wp/coney-island-steamboat-co-fish.jpg",
     "_m/d/r/7/2/fulton-fish-market-wp/view-of-new-york-from-the-air-.jpg"
   ],
-  "updatedAt": "2026-03-30T14:21:39.110Z"
+  "updatedAt": "2026-03-30T14:21:39.110Z",
+  "narration": {
+    "files": [
+      "dr72-fulton-fish-market-flight-context.mp3",
+      "dr72-fulton-fish-market-intro.mp3",
+      "dr72-fulton-fish-market-salt-water-and-cobblestones.mp3",
+      "dr72-fulton-fish-market-the-five-families-cut.mp3",
+      "dr72-fulton-fish-market-the-move-to-hunts-point.mp3",
+      "dr72-fulton-fish-market-what-the-numbers-revealed.mp3"
+    ],
+    "durations": {
+      "dr72-fulton-fish-market-flight-context.mp3": 45.988125,
+      "dr72-fulton-fish-market-intro.mp3": 51.7443333,
+      "dr72-fulton-fish-market-salt-water-and-cobblestones.mp3": 58.3594166,
+      "dr72-fulton-fish-market-the-five-families-cut.mp3": 59.143375,
+      "dr72-fulton-fish-market-the-move-to-hunts-point.mp3": 58.26425,
+      "dr72-fulton-fish-market-what-the-numbers-revealed.mp3": 61.393
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

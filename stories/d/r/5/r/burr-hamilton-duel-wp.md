@@ -1,0 +1,61 @@
+# The Burr-Hamilton Duel: Dawn at Weehawken
+
+On the morning of July 11, 1804, the sitting Vice President of the United States shot and killed the former Secretary of the Treasury on a narrow ledge above the Hudson River in Weehawken, New Jersey.
+
+**Location:** 40.7703, -74.0169
+
+**Categories:** history, duel, political-history, landmark, new-jersey, founding-era
+
+## Introduction
+
+The seconds rowed them across the Hudson before dawn. Aaron Burr, the sitting Vice President of the United States, and Alexander Hamilton, the former Secretary of the Treasury, climbed to a narrow ledge on the Weehawken Palisades overlooking the river. It was July 11, 1804. By the time the sun cleared Manhattan's skyline, Hamilton had a lead ball lodged in his abdomen and Burr had destroyed his own political career. The duel lasted seconds, but the rivalry behind it had been building for thirteen years, and its consequences would reshape American politics. Hamilton's son Philip had been fatally wounded on the same ledge, in a separate duel, just three years earlier.
+
+## Thirteen Years of Poison
+
+The feud began in 1791, when Burr won a United States Senate seat from Philip Schuyler, Hamilton's father-in-law and a reliable supporter of Federalist policies. Hamilton, then serving as Secretary of the Treasury, took the loss personally. The enmity deepened during the 1800 presidential election, when a deadlock in the Electoral College threw the contest between Thomas Jefferson and Burr into the House of Representatives. Hamilton worked furiously behind the scenes to ensure Jefferson won, viewing Burr as far more dangerous despite Hamilton's own long-standing rivalry with Jefferson. On the 36th ballot, the House gave Jefferson the presidency. Burr became vice president, but the damage was done. When Burr ran for governor of New York in 1804, Hamilton openly opposed him again, and Burr lost to Morgan Lewis. The final insult came in April 1804, when a letter by Charles D. Cooper surfaced in the Albany Register, reporting that Hamilton had expressed a 'despicable opinion' of Burr at a dinner.
+
+## The Exchange of Letters
+
+Burr demanded an explanation. Through his second, William P. Van Ness, he sent Hamilton a letter pointing to Cooper's use of the word 'despicable' and insisting on 'a prompt and unqualified acknowledgment or denial.' Hamilton's reply, delivered on June 20, 1804, was careful and lawyerly: he could not be held responsible for Cooper's interpretations, though he notably did not deny them. He concluded that he would 'abide the consequences' if Burr remained unsatisfied. Burr wrote back the next day, arguing that 'political opposition can never absolve gentlemen from the necessity of a rigid adherence to the laws of honor.' Over the following weeks, the two men exchanged letters through their seconds, each round hardening positions. Hamilton insisted the demand was too vague; Burr insisted the insult was clear enough. Neither man would yield. By late June, the challenge had been issued, and the terms were set: pistols at ten paces, on the dueling ground at Weehawken.
+
+## Ten Paces on the Palisades
+
+They met at dawn on July 11, 1804. The dueling ground was a narrow ledge about twenty feet wide, perched on the cliffs above the Hudson River on the New Jersey side. New York had recently toughened its anti-dueling laws, making Weehawken the preferred site for New York gentlemen who wanted to settle affairs of honor just across the state line. Hamilton had written the night before that he intended to withhold his first fire, perhaps even his second, on moral and religious grounds. When the command was given, Burr fired and struck Hamilton in the abdomen. The ball fractured a rib, tore through Hamilton's liver and diaphragm, and lodged in his spine. Hamilton's pistol discharged, but his shot hit a tree branch above and behind Burr's head. Hamilton collapsed. His seconds carried him to the boat and rowed him back across the Hudson to the home of William Bayard Jr. in present-day Greenwich Village, where he died the following afternoon, July 12, 1804.
+
+## A Vice President in Exile
+
+Hamilton's death sent shockwaves through the young republic. Murder charges were filed against Burr in both New York and New Jersey. He fled south, eventually returning to Washington to finish his term as vice president, presiding over the Senate with the same detachment as if nothing had happened. But his political career was finished. The Federalist Party, which Hamilton had founded in 1789, was permanently weakened by the loss of its intellectual leader. Burr, vilified in the press and by the public, never held office again. He later embarked on a mysterious expedition into the western territories that led to his arrest and trial for treason, though he was acquitted. Hamilton was buried at Trinity Church in Lower Manhattan, where his grave remains a popular pilgrimage site. The duel itself became one of the most infamous events in American political history, a stark reminder of the passions and personal vendettas that shaped the early republic.
+
+## The Ledge That Remembers
+
+The Weehawken dueling ground no longer exists in its original form. Erosion and development along the Palisades have altered the narrow ledge where Hamilton fell. A bust of Hamilton was placed near the site in 1935, and a boulder with an explanatory plaque marks the general location in what is now Hamilton Park. The spot offers a clear view across the Hudson to Manhattan, the city Hamilton helped build as the nation's financial capital. Three years before his own death, Hamilton had stood on or near the same ledge after his eldest son, Philip Hamilton, was mortally wounded in a duel with George Eacker in November 1801. Philip had been just nineteen years old. The coincidence haunted Hamilton and may have influenced his decision to withhold his fire. Today, the park is a quiet residential area, its dramatic history visible only in the memorial and the unchanged sweep of the river below.
+
+## Flight Context
+
+The Burr-Hamilton duel site (40.7703N, 74.0169W) is located on the Weehawken waterfront along the New Jersey Palisades, directly across the Hudson River from Midtown Manhattan. The modern Hamilton Park sits atop the bluffs near the original dueling ground. Lincoln Tunnel entrance is just to the south. Nearby airports: KTEB (Teterboro, 12km NW), KEWR (Newark Liberty, 14km SW), KLGA (LaGuardia, 15km NE), KJFK (John F. Kennedy, 28km SE). Best viewed at 1,500-2,500 feet AGL approaching along the Hudson River from the south. The Weehawken waterfront and the cliff face of the Palisades are visible landmarks.
+
+## Sources
+
+- [Burr–Hamilton duel - Wikipedia](https://en.wikipedia.org/?curid=3445146)
+  - July 11, 1804 date confirmed
+  - Weehawken NJ location confirmed
+  - Hamilton died July 12 at William Bayard Jr. home confirmed
+  - Ball struck Hamilton in abdomen confirmed
+  - Hamilton's shot hit tree branch confirmed
+- [Philip Hamilton - Wikipedia](https://en.wikipedia.org/wiki/Philip_Hamilton)
+  - Philip Hamilton died November 23, 1801 confirmed
+  - Philip was 19 years old confirmed
+  - Duel opponent was George Eacker confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 9 facts verified · 0 corrections
+
+All key facts verified: July 11 1804 date, Weehawken NJ location, Hamilton died July 12, shot to abdomen, Philip Hamilton duel November 1801 with George Eacker at age 19. Historically accurate and well-written. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 848*
+*Read time: 4 minutes*

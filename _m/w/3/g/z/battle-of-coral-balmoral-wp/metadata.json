@@ -105,5 +105,26 @@
   "galleryPaths": [
     "_m/w/3/g/z/battle-of-coral-balmoral-wp/civilians-sort-ruins-t.jpg",
     "_m/w/3/g/z/battle-of-coral-balmoral-wp/royal-australian-air-f.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w3gz-battle-of-coral-balmoral-flight-context.mp3",
+      "w3gz-battle-of-coral-balmoral-intro.mp3",
+      "w3gz-battle-of-coral-balmoral-a-base-built-on-borrowed-time.mp3",
+      "w3gz-battle-of-coral-balmoral-the-night-the-jungle-erupted.mp3",
+      "w3gz-battle-of-coral-balmoral-centurions-in-the-rubber-trees.mp3",
+      "w3gz-battle-of-coral-balmoral-the-cost-of-twenty-six-days.mp3",
+      "w3gz-battle-of-coral-balmoral-a-watershed-in-the-jungle.mp3"
+    ],
+    "durations": {
+      "w3gz-battle-of-coral-balmoral-flight-context.mp3": 47.2510833,
+      "w3gz-battle-of-coral-balmoral-intro.mp3": 45.7879583,
+      "w3gz-battle-of-coral-balmoral-a-base-built-on-borrowed-time.mp3": 67.4315,
+      "w3gz-battle-of-coral-balmoral-the-night-the-jungle-erupted.mp3": 73.6674583,
+      "w3gz-battle-of-coral-balmoral-centurions-in-the-rubber-trees.mp3": 74.117375,
+      "w3gz-battle-of-coral-balmoral-the-cost-of-twenty-six-days.mp3": 81.0732083,
+      "w3gz-battle-of-coral-balmoral-a-watershed-in-the-jungle.mp3": 54.059875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

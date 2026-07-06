@@ -600,5 +600,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kv8b-lake-malawi-national-park-flight-context.mp3",
+      "kv8b-lake-malawi-national-park-intro.mp3",
+      "kv8b-lake-malawi-national-park-a-rift-in-the-earth-a-cradle-of-species.mp3",
+      "kv8b-lake-malawi-national-park-the-mbuna-and-their-miniature-kingdoms.mp3",
+      "kv8b-lake-malawi-national-park-beyond-the-fish.mp3",
+      "kv8b-lake-malawi-national-park-livingstones-baobab.mp3",
+      "kv8b-lake-malawi-national-park-islands-in-a-living-museum.mp3"
+    ],
+    "durations": {
+      "kv8b-lake-malawi-national-park-flight-context.mp3": 46.7704166,
+      "kv8b-lake-malawi-national-park-intro.mp3": 45.66175,
+      "kv8b-lake-malawi-national-park-a-rift-in-the-earth-a-cradle-of-species.mp3": 57.74275,
+      "kv8b-lake-malawi-national-park-the-mbuna-and-their-miniature-kingdoms.mp3": 65.4174583,
+      "kv8b-lake-malawi-national-park-beyond-the-fish.mp3": 66.01425,
+      "kv8b-lake-malawi-national-park-livingstones-baobab.mp3": 57.5724166,
+      "kv8b-lake-malawi-national-park-islands-in-a-living-museum.mp3": 69.7849583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -731,5 +731,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "z085-khabarovsk-flight-context.mp3",
+      "z085-khabarovsk-intro.mp3",
+      "z085-khabarovsk-city-at-the-confluence.mp3",
+      "z085-khabarovsk-the-trans-siberians-eastern-terminus.mp3",
+      "z085-khabarovsk-museums-better-than-moscows-eastern-cousins.mp3",
+      "z085-khabarovsk-where-russia-looks-east.mp3",
+      "z085-khabarovsk-nanai-country.mp3"
+    ],
+    "durations": {
+      "z085-khabarovsk-flight-context.mp3": 43.8410416,
+      "z085-khabarovsk-intro.mp3": 67.8567916,
+      "z085-khabarovsk-city-at-the-confluence.mp3": 74.3384583,
+      "z085-khabarovsk-the-trans-siberians-eastern-terminus.mp3": 61.546,
+      "z085-khabarovsk-museums-better-than-moscows-eastern-cousins.mp3": 61.891,
+      "z085-khabarovsk-where-russia-looks-east.mp3": 57.8104166,
+      "z085-khabarovsk-nanai-country.mp3": 64.5557916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

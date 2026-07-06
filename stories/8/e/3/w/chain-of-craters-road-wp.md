@@ -1,0 +1,53 @@
+# Chain of Craters Road
+
+A 19-mile road through Hawaii Volcanoes National Park that has been buried by lava in 41 of the past 53 years -- a drive where the destination is the road itself and the volcanic forces that keep erasing it.
+
+**Location:** 19.4050, -155.2530
+
+**Categories:** roads, hawaii, national-parks, volcanoes, scenic-drives
+
+## Introduction
+
+Somewhere beneath the lava fields at the southern end of Chain of Craters Road, there is a town. Kalapana once sat at the end of this 19-mile route through Hawaii Volcanoes National Park, connected to the summit of Kilauea by a winding road built in 1928 and extended in 1959. The town is gone now, buried. The road is buried too, at least the last 7.5 miles of it. As of 2018, lava had covered portions of Chain of Craters Road in 41 of the past 53 years. This is not a road that was built and finished. It is a road that is perpetually being unmade.
+
+## Descending into the Rift
+
+The road begins near the summit of Kilauea, at the junction with Crater Rim Drive, in dense tropical rainforest fed by frequent rains at the top of the eastern rift zone. Within three miles, the landscape shifts. The road passes the vent of Kilauea, then descends through the chain of pit craters that give the route its name. Lua Manu comes first -- a crater formed not by eruption but by the ground simply sinking. Then Puhimau, 500 feet deep, collapsed and filled with rubble. Kookoolau, a dirt-walled pit with pumice cones on its rim, hints at an older eruptive origin. In all, the road drops 3,700 feet between the caldera and the south coast, crossing lava flows from 1974 and passing through Kipuka Nene, where 1,100-year-old trees stand surrounded by fresh basalt.
+
+## A Road That Lava Keeps Claiming
+
+The original 1928 road connected Crater Rim Drive to Makaopuhi Crater. Its 1959 extension to Kalapana lasted just ten years before lava flows from Kilauea closed it in 1969. The road reopened in 1979. It was cut again in 1986 by flows from the Pu'u 'O'o eruption, which would continue for 35 years. Each reopening was provisional, each closure a reminder that asphalt is no match for basalt. In 2014, engineers rushed to reopen the road as a one-lane gravel emergency route when lava threatened to cut off Lower Puna residents by crossing Highway 130. The flow stalled on the outskirts of Pahoa, but the road was buried again by the "61G" flow in 2016, and again disrupted during the 2018 lower Puna eruption.
+
+## The Craters and What They Teach
+
+Each crater along the road tells a different geologic story. Lua Manu formed through subsidence, not eruption -- the ground simply dropped. Pauahi Crater, 300 feet wide and 500 feet deep, last erupted in 1979 and sits beside fault scarps that have been active for more than a thousand years. The Hilina Pali Road branches off and winds eight miles to a dead end along cliffs that mark the volcano's mobile southern flank, which creeps seaward under the weight of accumulated lava. Where the road crosses pahoehoe flows, the rope-like texture of the cooled lava is visible from the car. In the early 2000s, steam from active lava tubes could be seen rising from the landscape near the coast.
+
+## Where the Pavement Ends
+
+Today, Chain of Craters Road terminates at Holei Sea Arch, a dramatic natural arch carved by Pacific waves into the volcanic coast. Beyond this point, the road simply disappears under lava. There are no shops, no gas stations, no services along the route except a refreshment kiosk and restrooms near the turnaround. The 35-year Pu'u 'O'o eruption ended in 2018, so active lava is no longer visible from the road, but the drive remains one of the most remarkable in the national park system. Every mile is a cross-section through volcanic time: old-growth forest giving way to fresh flows, craters marking where the earth opened and collapsed, and at the end, the Pacific crashing against a coastline that Kilauea is still building.
+
+## Flight Context
+
+Chain of Craters Road runs from Crater Rim Drive (19.44°N, 155.26°W) southeast to the coast at Holei Sea Arch (19.31°N, 155.10°W), descending 3,700 feet over 19 miles within Hawaii Volcanoes National Park. From altitude, the road is visible as a thin line cutting through contrasting terrain: green rainforest at the summit transitioning to black lava fields along the coast. The buried southern terminus and surrounding lava flows from Pu'u 'O'o are clearly visible. Nearest airport is Hilo International (PHTO). Volcanic emissions may reduce visibility.
+
+## Sources
+
+- [Chain of Craters Road - Wikipedia](https://en.wikipedia.org/?curid=16886061)
+  - road built in 1928 confirmed
+  - lava covered road in 41 of past 53 years as of 2018 confirmed
+  - Pu'u O'o eruption began 1983 and ended 2018 (35 years confirmed)
+  - 2016 61G flow buried road confirmed
+  - 2014 lava threatened Pahoa confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 5 facts verified · 0 corrections
+
+Key facts verified: built 1928, lava coverage history, Pu'u O'o 35-year eruption 1983-2018. Note: sources differ on whether road reached Kalapana in 1959 vs 1965; 1959 date cited in some sources as intermediate extension.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 730*
+*Read time: 4 minutes*

@@ -53,5 +53,24 @@
     "sourceGeohash4": "dr5p"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "dr5p-national-airlines-flight-101-flight-context.mp3",
+      "dr5p-national-airlines-flight-101-intro.mp3",
+      "dr5p-national-airlines-flight-101-two-minutes-after-takeoff.mp3",
+      "dr5p-national-airlines-flight-101-the-third-time-in-two-months.mp3",
+      "dr5p-national-airlines-flight-101-nine-months-closed.mp3",
+      "dr5p-national-airlines-flight-101-the-novel-that-remembers.mp3"
+    ],
+    "durations": {
+      "dr5p-national-airlines-flight-101-flight-context.mp3": 41.6512916,
+      "dr5p-national-airlines-flight-101-intro.mp3": 46.2820833,
+      "dr5p-national-airlines-flight-101-two-minutes-after-takeoff.mp3": 46.1080416,
+      "dr5p-national-airlines-flight-101-the-third-time-in-two-months.mp3": 56.2987916,
+      "dr5p-national-airlines-flight-101-nine-months-closed.mp3": 49.4860416,
+      "dr5p-national-airlines-flight-101-the-novel-that-remembers.mp3": 50.538
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

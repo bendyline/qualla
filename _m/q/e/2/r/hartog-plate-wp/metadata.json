@@ -55,5 +55,24 @@
     "sourceGeohash4": "qe2r"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qe2r-hartog-plate-flight-context.mp3",
+      "qe2r-hartog-plate-intro.mp3",
+      "qe2r-hartog-plate-october-1616.mp3",
+      "qe2r-hartog-plate-the-replacement.mp3",
+      "qe2r-hartog-plate-french-custody-and-a-century-lost.mp3",
+      "qe2r-hartog-plate-homecoming.mp3"
+    ],
+    "durations": {
+      "qe2r-hartog-plate-flight-context.mp3": 41.1359166,
+      "qe2r-hartog-plate-intro.mp3": 39.6667083,
+      "qe2r-hartog-plate-october-1616.mp3": 54.2370416,
+      "qe2r-hartog-plate-the-replacement.mp3": 54.07475,
+      "qe2r-hartog-plate-french-custody-and-a-century-lost.mp3": 55.2456666,
+      "qe2r-hartog-plate-homecoming.mp3": 50.7443333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

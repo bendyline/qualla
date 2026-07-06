@@ -117,5 +117,26 @@
     "_m/g/c/p/k/berkshire-wp/queen-st-geograph-org-uk-71695.jpg",
     "_m/g/c/p/k/berkshire-wp/yorktown-road-sandhurst-geogra.jpg"
   ],
-  "updatedAt": "2026-03-20T03:30:03.003Z"
+  "updatedAt": "2026-03-20T03:30:03.003Z",
+  "narration": {
+    "files": [
+      "gcpk-berkshire-flight-context.mp3",
+      "gcpk-berkshire-intro.mp3",
+      "gcpk-berkshire-assers-wood.mp3",
+      "gcpk-berkshire-windsor-and-the-royal-connection.mp3",
+      "gcpk-berkshire-the-m4-corridor.mp3",
+      "gcpk-berkshire-reading-gaol.mp3",
+      "gcpk-berkshire-the-royal-berkshire-today.mp3"
+    ],
+    "durations": {
+      "gcpk-berkshire-flight-context.mp3": 61.3702916,
+      "gcpk-berkshire-intro.mp3": 53.66875,
+      "gcpk-berkshire-assers-wood.mp3": 63.962,
+      "gcpk-berkshire-windsor-and-the-royal-connection.mp3": 70.883875,
+      "gcpk-berkshire-the-m4-corridor.mp3": 70.7370833,
+      "gcpk-berkshire-reading-gaol.mp3": 70.9186666,
+      "gcpk-berkshire-the-royal-berkshire-today.mp3": 69.8325833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

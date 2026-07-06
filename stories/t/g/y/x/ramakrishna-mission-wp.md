@@ -1,0 +1,59 @@
+# Ramakrishna Mission
+
+Born from a dying mystic's gift of ochre cloth to his young disciples, the Ramakrishna Mission grew from a humble riverside monastery into a global spiritual and humanitarian movement with 263 centres across the world.
+
+**Location:** 22.3700, 88.2100
+
+**Categories:** religion, history, architecture, education, humanitarian
+
+## Introduction
+
+On the night of December 24, 1886, a group of young men gathered in a crumbling house in Baranagore, on the outskirts of Calcutta, and took informal monastic vows. Their teacher, the mystic Ramakrishna Paramahamsa, had died five months earlier. Shortly before his death, he had given each of them ochre cloth -- the traditional mark of Hindu renunciation -- and entrusted their care to one disciple above all: a young man named Narendranath Datta, who would soon become Swami Vivekananda. From that modest beginning, in a rented house near the Ganges, emerged one of the most influential spiritual and humanitarian movements in modern Indian history.
+
+## Sisters and Brothers of America
+
+Vivekananda spent years as a wandering monk, crisscrossing India on foot before travelling to the United States. In 1893, he stood before the Parliament of the World's Religions in Chicago and opened with four words that electrified the audience: "Sisters and Brothers of America." The speech brought him immediate recognition and launched a series of lecture tours across the West. He founded the first Vedanta Society in New York, carrying his teacher's message that all religions lead to the same truth. When he returned to India in 1897, he channeled that global momentum into something concrete. On May 1, 1897, he founded the Ramakrishna Mission -- not simply as a monastic order, but as an organization dedicated to serving God through serving humanity.
+
+## Forty Acres on the Hooghly
+
+The monastery moved several times in its early years, shifting from Baranagore to Alambazar in 1892, then to a garden house farther south. In January 1899, Vivekananda finally settled the community on a forty-acre plot at Belur, on the western bank of the Hooghly River in Howrah district. Belur Math became the permanent headquarters of both the Ramakrishna Math, the monastic order, and the Ramakrishna Mission, the service organization. The main temple, consecrated in 1938, was designed to embody religious harmony in its very architecture -- blending Hindu, Islamic, Buddhist, and Christian motifs. Vivekananda himself designed the Mission's emblem: wavy waters for Karma, a lotus for Bhakti, the rising sun for Jnana, an encircling serpent for Yoga, and a swan for the Supreme Self. Together, they express the idea that the union of all paths leads to spiritual realization.
+
+## The Work That Endures
+
+What sets the Ramakrishna Mission apart from many spiritual organizations is the scale and seriousness of its humanitarian work. The Mission runs its own hospitals, dispensaries, maternity clinics, and tuberculosis treatment centers. It operates orphanages and homes for the elderly. Its educational footprint includes a university, colleges, vocational training centers, primary and high schools, teacher-training institutes, and schools for the visually impaired. In rural and tribal areas across India, the Mission has maintained sustained welfare programs for decades. After natural disasters, its monks are often among the first responders. All of this is carried out as a direct expression of Vivekananda's teaching: that serving the poor and the suffering is itself a form of worship.
+
+## A Global Quiet Presence
+
+As of 2025, the Ramakrishna Math and Mission operate 263 centres worldwide: 200 in India, 26 in Bangladesh, 14 in the United States, and others scattered across Argentina, Australia, Japan, Singapore, the United Kingdom, and beyond. In South Asia, the centres mirror the Indian model of education and social service. In the West, they tend to focus on Vedanta teaching, book publishing, and personal spiritual guidance -- many operating under the name "Vedanta Society" or "Vedanta Centre." The Mission's approach has earned recognition from UNESCO, which gave it an honorary mention for its work promoting tolerance and nonviolence in 2002. A Jesuit scholar at Sophia University in Tokyo once described the monks as "extremely well respected both in India and abroad" and called them the Hindu group most open to interreligious dialogue.
+
+## Harmony as Practice
+
+The Mission's founding principle -- that all religions lead to the same goal if followed sincerely -- has occasionally created tension with its own identity. In 1980, the leadership petitioned Indian courts to declare the movement a non-Hindu minority religion, partly to protect its educational institutions from state interference. The Calcutta High Court agreed, but the Supreme Court of India overruled the decision in 1995, finding that the organization had all the characteristics of a Hindu body. The episode sparked considerable internal debate. Today, the Mission embraces a dual identity: it is a Hindu organization that emphasizes the harmony of all faiths. Among the earliest rules Vivekananda laid down was this: "Due respect and reverence should be paid to all religions, all preachers, and to the deities worshiped in all religions." At Belur Math, that principle is not merely stated but practiced, day after day, in the rhythm of communal prayer, chanting, and the ceremonial waving of lights known as arati.
+
+## Flight Context
+
+Located at 22.37N, 88.21E on the western bank of the Hooghly River in Howrah district, near Kolkata. The sprawling Belur Math campus (40 acres) is visible along the riverbank. Nearest major airport is Netaji Subhash Chandra Bose International Airport (VECC), approximately 20 km northeast. Recommended viewing altitude: 2,000-3,000 feet for campus detail. The Hooghly River and Howrah Bridge provide strong visual navigation references.
+
+## Sources
+
+- [Ramakrishna Mission - Wikipedia](https://en.wikipedia.org/?curid=583691)
+  - Mission founded May 1, 1897 by Vivekananda
+  - Vivekananda at Parliament of World's Religions 1893, opened with 'Sisters and Brothers of America'
+  - Monastery moved from Baranagore to Alambazar in 1892
+  - Settled at Belur on the Hooghly in January 1899 on 40-acre plot
+  - Main temple consecrated 1938
+  - 263 centres worldwide: 200 in India, 26 in Bangladesh, 14 in US as of 2025
+  - Supreme Court overruled Calcutta High Court in 1995 regarding minority religion petition
+
+## Review Notes
+
+**Reviewed:** 2026-03-07 · 12 facts verified · 0 corrections
+
+All facts verified: Mission founded May 1 1897, Vivekananda at Parliament of World's Religions 1893, Belur Math 40 acres settled January 1899, main temple consecrated 1938, 263 centres worldwide as of 2025 (200 India, 26 Bangladesh, 14 US), Supreme Court overruled minority religion petition in 1995. No factual errors found. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 800*
+*Read time: 4 minutes*

@@ -127,5 +127,24 @@
     "_m/t/t/s/x/battle-of-ramnagar-wp/cavalry-skirmish-at-ramnuggur.jpg",
     "_m/t/t/s/x/battle-of-ramnagar-wp/charge-of-h-m-14th-light-drago.png"
   ],
-  "updatedAt": "2026-03-31T16:30:46.119Z"
+  "updatedAt": "2026-03-31T16:30:46.119Z",
+  "narration": {
+    "files": [
+      "ttsx-battle-of-ramnagar-flight-context.mp3",
+      "ttsx-battle-of-ramnagar-intro.mp3",
+      "ttsx-battle-of-ramnagar-a-war-born-of-betrayal.mp3",
+      "ttsx-battle-of-ramnagar-the-chenab-trap.mp3",
+      "ttsx-battle-of-ramnagar-charges-into-sand.mp3",
+      "ttsx-battle-of-ramnagar-lessons-written-in-sand.mp3"
+    ],
+    "durations": {
+      "ttsx-battle-of-ramnagar-flight-context.mp3": 42.4787083,
+      "ttsx-battle-of-ramnagar-intro.mp3": 44.2943333,
+      "ttsx-battle-of-ramnagar-a-war-born-of-betrayal.mp3": 68.2777083,
+      "ttsx-battle-of-ramnagar-the-chenab-trap.mp3": 67.933875,
+      "ttsx-battle-of-ramnagar-charges-into-sand.mp3": 71.927375,
+      "ttsx-battle-of-ramnagar-lessons-written-in-sand.mp3": 72.4960416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

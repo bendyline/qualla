@@ -596,5 +596,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "s8qt-murchison-falls-national-park-flight-context.mp3",
+      "s8qt-murchison-falls-national-park-intro.mp3",
+      "s8qt-murchison-falls-national-park-where-the-nile-breaks-through.mp3",
+      "s8qt-murchison-falls-national-park-the-prehistoric-bird-in-the-papyrus.mp3",
+      "s8qt-murchison-falls-national-park-rothschilds-last-stand.mp3",
+      "s8qt-murchison-falls-national-park-chimpanzees-in-the-southern-forest.mp3",
+      "s8qt-murchison-falls-national-park-getting-to-the-edge.mp3"
+    ],
+    "durations": {
+      "s8qt-murchison-falls-national-park-flight-context.mp3": 49.646625,
+      "s8qt-murchison-falls-national-park-intro.mp3": 59.0619166,
+      "s8qt-murchison-falls-national-park-where-the-nile-breaks-through.mp3": 62.1374166,
+      "s8qt-murchison-falls-national-park-the-prehistoric-bird-in-the-papyrus.mp3": 60.4960833,
+      "s8qt-murchison-falls-national-park-rothschilds-last-stand.mp3": 68.899625,
+      "s8qt-murchison-falls-national-park-chimpanzees-in-the-southern-forest.mp3": 62.192875,
+      "s8qt-murchison-falls-national-park-getting-to-the-edge.mp3": 66.5750833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

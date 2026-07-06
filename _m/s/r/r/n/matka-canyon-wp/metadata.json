@@ -785,5 +785,24 @@
     "_m/s/r/r/n/matka-canyon-wp/get-to-the-boat-and-get-lost-i.jpg",
     "_m/s/r/r/n/matka-canyon-wp/matka-014.jpg"
   ],
-  "updatedAt": "2026-03-31T09:39:31.971Z"
+  "updatedAt": "2026-03-31T09:39:31.971Z",
+  "narration": {
+    "files": [
+      "srrn-matka-canyon-flight-context.mp3",
+      "srrn-matka-canyon-intro.mp3",
+      "srrn-matka-canyon-into-the-depths-of-vrelo.mp3",
+      "srrn-matka-canyon-a-biodiversity-hotspot-at-the-capitals-edge.mp3",
+      "srrn-matka-canyon-monasteries-on-the-ledge.mp3",
+      "srrn-matka-canyon-a-canyon-for-the-weekend.mp3"
+    ],
+    "durations": {
+      "srrn-matka-canyon-flight-context.mp3": 47.7475833,
+      "srrn-matka-canyon-intro.mp3": 53.3789166,
+      "srrn-matka-canyon-into-the-depths-of-vrelo.mp3": 55.144,
+      "srrn-matka-canyon-a-biodiversity-hotspot-at-the-capitals-edge.mp3": 60.0515416,
+      "srrn-matka-canyon-monasteries-on-the-ledge.mp3": 70.4874583,
+      "srrn-matka-canyon-a-canyon-for-the-weekend.mp3": 64.96025
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

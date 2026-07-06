@@ -1,0 +1,70 @@
+# Murud-Janjira
+
+An island fortress off Maharashtra's coast that was never conquered -- not by the Marathas, not by the Portuguese, not by the British -- until India gained independence in 1947.
+
+**Location:** 18.2998, 72.9642
+
+**Categories:** historical-site, fort, maritime-history, unconquered-fortress
+
+## Introduction
+
+No one ever took Janjira by force. Not Shivaji, who tried to scale its 12-meter granite walls. Not his son Sambhaji, who attempted to tunnel underneath them and once tried filling an 800-yard-wide channel with stones to build a causeway for his assault parties. Not the Portuguese, not the British, and not the Peshwas who sent 10,000 soldiers only to be roundly repulsed. The oval-shaped fortress, perched on a rock in the Arabian Sea 165 kilometers south of Mumbai, remained in the hands of the Siddis -- rulers of Abyssinian descent -- from the time they built it in the sixteenth century until India's independence in 1947. Its name comes from the Arabic word "jazira," meaning island. For nearly four centuries, that island proved unconquerable.
+
+## From Wooden Stockade to Stone Citadel
+
+The fort's origin is humbler than its reputation suggests. In the fifteenth century, Koli fishermen from the village of Rajapuri built a small wooden stockade on a large rock offshore, seeking protection from the pirates who plagued the Konkan coast. The structure caught the attention of the Nizam Shahi Sultan of the Ahmadnagar Sultanate, who saw its strategic value and sent General Piram Khan to seize it. Once captured, Malik Ambar -- an Abyssinian regent serving the Sultanate -- replaced the wooden fort with a solid rock fortress around 1567. He named it Jazeera Mahroob. The island changed hands between the Adil Shahi dynasty of Bijapur and the Siddis before Siddi Ambar the Little, in 1621, defied his overlord Malik Ambar's attempt to replace him, effectively declaring independence and becoming the first Nawab of Janjira state.
+
+## 572 Cannons and a Hidden Gate
+
+At its peak, Janjira bristled with 572 cannons. The fort's main gate faces Rajapuri on the shore but remains invisible until a boat approaches within about 40 feet -- a deliberate deception that must have rattled approaching enemies. A second gate, the Darya Darwaza, opens toward the open sea, offering an escape route. Twenty-six artillery towers still stand, and the walls rise 40 feet high with 19 rounded arches, some still mounting cannons of both Indian and European manufacture. Three gigantic cannons -- Kalaal Baangadi, Chavri, and Landa Kasam -- were feared for their range. Inside the walls, the ruins reveal what was once a self-sufficient world: a mosque, a palace, officers' quarters, barracks, and two 60-foot freshwater ponds. A deep well still produces fresh water despite the salt sea surrounding it on every side. On the outer wall near the main gate, a sculpture of a tiger-like beast clutching elephants in its claws announced the fort's attitude toward visitors.
+
+## Every Empire's Frustration
+
+The Siddis allied themselves with the Mughal Empire and used that backing to resist every comber. In 1676, the Maratha Peshwa Moropant Trimbak Pingle sent 10,000 soldiers against the fort. They failed -- the Siddis, backed by a Mughal fleet, destroyed Moropant's floating batteries and forced a retreat. Sambhaji tried a different approach in 1682, dispatching General Dadaji Raghunath Deshpande with orders to dig, deceive, and besiege -- he even sent allies to fake defection to the Janjira side. But a Mughal attack on the Maratha capital forced Sambhaji to withdraw before he could finish. He built a rival sea fort, Padmadurg, on 22 acres northwest of Janjira, a project that took 22 years to complete. The Janjira mariners, meanwhile, had their own ambitions beyond defense. In 1539, 200 sailors from Janjira joined an Ottoman fleet bound for Southeast Asia. In 1587, a combined Ottoman-Janjira force routed a Portuguese fleet at Yemen.
+
+## A Slow Diminishment
+
+By 1736, the Siddis' power had contracted dramatically. A battle with the forces of Peshwa Baji Rao ended with 1,500 Siddis killed, including their leader Siddi Sat. Peace was brokered in September 1736, but the Siddis were confined to just Janjira, Gowalkot, and Anjanvel. When Tulaji Angre captured Gowalkot and Anjanvel in 1745, Janjira became the Siddis' only remaining possession. Yet even then, the island fortress held. During the late 1600s, Mughal emperor Aurangzeb had subsidized Sidi Yaqut with 400,000 rupees, and the Siddis had owned ships weighing 300 to 400 tons -- too unwieldy for open-sea battles against European warships but effective for amphibious operations. That era of imperial backing was long past by the eighteenth century, but the walls endured. Janjira remained unconquered until it merged into the Indian union after independence from the British in 1947.
+
+## The Island Today
+
+Visitors reach Janjira by sailboat from the Rajapuri jetty, the same approach that generations of attackers attempted and failed. The palace of the Nawabs of Janjira at Murud -- on the mainland -- remains in good condition, commanding a panoramic view of the Arabian Sea and the fort it once governed. On the hilltop 32 kilometers east, the outpost fort of Ghosalgad once served as the Janjira rulers' inland strongpoint. The oval shape of the island fort, unusual among Indian fortifications, is visible from the water: not the standard oblong or square, but a form dictated by the rock itself. Inside, the mosque and palace are in ruins, but the freshwater well still works, and the cannons rust quietly on their towers. Murud was once known in Marathi as Habsan -- "of the Habshi," the Abyssinians. The Siddis' African heritage, woven into the Konkan coast across centuries, survives in the fort's very name.
+
+## Flight Context
+
+Murud-Janjira is located at 18.30N, 72.96E, an oval-shaped island fort visible in the Arabian Sea just off the coastal town of Murud, Raigad district, Maharashtra. Best viewed at 1,500-3,000 feet AGL. The fort is a distinctive dark rock formation surrounded by water, approximately 165 km south of Mumbai. Look for the oval shape and the adjacent Rajapuri jetty on the mainland. Nearby airports: Mumbai (VABB) to the north. The Konkan coastline provides strong visual references with its headlands, beaches, and fishing harbors.
+
+## Sources
+
+- [Murud-Janjira - Wikipedia](https://en.wikipedia.org/?curid=2739606)
+  - Janjira from Arabic 'jazira' meaning island confirmed
+  - Fort 165 km south of Mumbai confirmed
+  - 12-meter granite walls confirmed
+  - 572 cannons at peak confirmed
+  - 26 artillery towers still standing confirmed
+  - Walls 40 feet high with 19 rounded arches confirmed
+  - Three named cannons: Kalaal Baangadi, Chavri, Landa Kasam confirmed
+  - Koli fishermen built wooden stockade, Malik Ambar replaced with stone fort around 1567 confirmed
+  - Siddi Ambar the Little declared independence from Malik Ambar confirmed
+  - Fort remained unconquered until 1947 merger with Indian union confirmed
+  - Corrected: '10,000 soldiers and Shivaji himself led the scaling' → 10,000 soldiers under Peshwa Moropant Trimbak Pingle; Shivaji made separate earlier attempts to scale walls
+- [Wikipedia - Shivaji's invasions of Janjira](https://en.wikipedia.org/wiki/Shivaji%27s_invasions_of_Janjira)
+  - 1676 attack led by Peshwa Moropant Trimbak Pingle with 10,000 soldiers, not personally by Shivaji
+  - Siddis backed by Mughal fleet destroyed Maratha floating batteries, forced retreat
+
+## Review Notes
+
+**Reviewed:** 2026-03-07 · 11 facts verified · 1 correction
+
+Corrected: story conflated Shivaji personally leading the 1676 10,000-soldier attack; that force was led by Peshwa Moropant Trimbak Pingle. Shivaji made separate earlier personal attempts to scale the walls. Fixed to accurately attribute the 1676 attack to Moropant and clarify why it failed (Mughal fleet support). All other facts confirmed: 'jazira' means island, 572 cannons, 26 towers, 40-foot walls, 19 arches, 3 named cannons, Koli fishermen wooden stockade, Malik Ambar stone fort ~1567, unconquered until 1947.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Fort described as unconquerable and frustration of every empire -- framing celebrates Siddi resistance to Marathas, Mughals, Portuguese and British
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

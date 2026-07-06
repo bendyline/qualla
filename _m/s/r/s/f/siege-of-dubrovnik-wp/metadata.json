@@ -662,5 +662,26 @@
     "_m/s/r/s/f/siege-of-dubrovnik-wp/muzej-domovinskog-rata-13.jpg",
     "_m/s/r/s/f/siege-of-dubrovnik-wp/muzej-domovinskog-rata-14.jpg"
   ],
-  "updatedAt": "2026-03-31T09:45:13.635Z"
+  "updatedAt": "2026-03-31T09:45:13.635Z",
+  "narration": {
+    "files": [
+      "srsf-siege-of-dubrovnik-flight-context.mp3",
+      "srsf-siege-of-dubrovnik-intro.mp3",
+      "srsf-siege-of-dubrovnik-a-city-without-an-army.mp3",
+      "srsf-siege-of-dubrovnik-three-months-without-light-or-water.mp3",
+      "srsf-siege-of-dubrovnik-december-6th.mp3",
+      "srsf-siege-of-dubrovnik-the-world-responds.mp3",
+      "srsf-siege-of-dubrovnik-what-the-walls-held.mp3"
+    ],
+    "durations": {
+      "srsf-siege-of-dubrovnik-flight-context.mp3": 41.903,
+      "srsf-siege-of-dubrovnik-intro.mp3": 49.9913333,
+      "srsf-siege-of-dubrovnik-a-city-without-an-army.mp3": 60.38975,
+      "srsf-siege-of-dubrovnik-three-months-without-light-or-water.mp3": 57.1609166,
+      "srsf-siege-of-dubrovnik-december-6th.mp3": 63.44575,
+      "srsf-siege-of-dubrovnik-the-world-responds.mp3": 68.001875,
+      "srsf-siege-of-dubrovnik-what-the-walls-held.mp3": 62.1151666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

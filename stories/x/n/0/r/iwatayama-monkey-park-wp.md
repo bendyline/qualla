@@ -1,0 +1,61 @@
+# Iwatayama Monkey Park: Where the Monkeys Run the Mountain
+
+Atop a mountain in Kyoto's Arashiyama district, over 120 wild Japanese macaques have turned the tables on the typical zoo -- here, humans climb into a cage to feed the monkeys, not the other way around.
+
+**Location:** 35.0089, 135.6747
+
+**Categories:** wildlife, park, research-site, kyoto, japan
+
+## Introduction
+
+The rules are posted at the base of the trail: do not look the monkeys directly in the eyes. Do not show them food outside the feeding shelter. Do not touch them. Do not crouch down to their level. These are not suggestions -- they are the terms of a very old arrangement between humans and Japanese macaques on a mountain called Iwatayama, in the Arashiyama district of western Kyoto. The monkeys were here first. They have lived on this forested slope above the Oi River for generations, and when visitors arrive each morning after climbing the steep trail to the summit, they are entering the monkeys' territory, not the other way around.
+
+## A Businessman's Gift, A Researcher's Dream
+
+The story of the park begins with businessman Sonosuke Iwata, whose family name is also the mountain's name. In 1954, a young researcher named Naonosuke Hazama partnered with local business leaders to develop a plan for the mountain's resident macaque troop: acclimate the wild monkeys to human presence through controlled feeding, creating both a tourist attraction and a living laboratory. Iwata donated the land. Hazama began the painstaking work of identifying and naming individual monkeys -- pioneering a system that became the cornerstone of primate social research in Japan. By the time the park officially opened to the public in March 1957, Hazama had established a naming tradition that extended through matrilineal lines, tracking kinship networks across generations.
+
+## The Climb
+
+Reaching the monkeys requires effort. The trail begins near the south end of the Togetsukyo Bridge and climbs 1.45 kilometers up the mountainside, gaining 160 meters in altitude -- a twenty-minute hike through forest that grows quieter as the sounds of Arashiyama's tourist streets fade below. As visitors approach the summit, the first macaques appear on the trail, utterly unbothered by the human presence. They sit on railings, groom each other on boulders, or simply watch passersby with the calm appraisal of longtime residents sizing up newcomers. At the top, a large open platform offers panoramic views over Kyoto's skyline, with the city spreading east toward the distant mountains. The feeding shelter is here -- and this is where the park's central joke becomes clear. The humans are inside the wire mesh enclosure, pushing peanuts and apple slices through the gaps. The monkeys roam free outside.
+
+## Names, Families, and Seventy Years of Watching
+
+Research at Iwatayama began in 1948, even before the park formally opened, and has never stopped. Over 115 researchers have studied or advised on projects at the site, making it one of the longest-running primate observation stations in the world. Each macaque receives a formal name based on its matriline -- a family name followed by numbers indicating the birth year of the direct female ancestor. The system allows scientists to track social hierarchies, mating patterns, and behavioral inheritance across decades. Studies have spanned basic ecology, social behavior, endocrinology, genetics, and reproductive physiology. The troop currently numbers over 120 individuals, fed on a schedule of corn and wheat distributed five times daily. Some monkeys have earned nicknames from the staff -- including one called Cooper -- though each maintains its formal genealogical designation in the research records.
+
+## Wild Animals on Their Own Terms
+
+What makes Iwatayama unusual is that the macaques are genuinely wild. They are not captive animals trained to perform; they choose to remain on the mountain because the feeding program makes it advantageous. They forage in the surrounding forest, establish their own social hierarchies, raise their young according to instinct, and could leave at any time. In winter, the macaques huddle together for warmth in tight clusters, their thick fur dusted with frost. In spring, tiny infants cling to their mothers' bellies as the troop moves through budding cherry trees. The park closes at five in the afternoon and during heavy rain or snow, but the monkeys stay. When the last visitor descends the trail and the feeding shelter goes dark, the troop settles into the trees above the Oi River -- the same river whose current has carved this valley since long before Kyoto existed -- and the mountain belongs entirely to them again.
+
+## Flight Context
+
+Located at 35.01°N, 135.67°E atop Mount Iwatayama in the Arashiyama district of western Kyoto. From altitude, the forested mountain is visible on the west bank of the Oi River (Katsura River), with the distinctive Togetsukyo Bridge crossing the river nearby. The park occupies the summit and upper slopes of the mountain, surrounded by dense forest. Best viewed at 2,000-4,000 feet AGL from the east, looking across the river toward the wooded hillside. The nearest major airport is Osaka Itami (RJOO), approximately 24 nautical miles south-southeast. Arashiyama's bamboo groves and temple complex spread along the riverbank below.
+
+## Sources
+
+- [Iwatayama Monkey Park - Wikipedia](https://en.wikipedia.org/?curid=3630263)
+  - Sonosuke Iwata donated land, mountain named after his family confirmed
+  - Naonosuke Hazama pioneered naming system for macaques confirmed
+  - Park opened March 1957 confirmed
+  - Research began 1948 (before park opened) confirmed
+  - Over 115 researchers have studied at the site confirmed
+  - Over 120 macaques in current troop confirmed
+- [Iwatayama Monkey Park - Japan Travel](https://en.japantravel.com/kyoto/kyoto-s-wild-monkey-park/20734)
+  - Trail is 1.45 km with 160m altitude gain confirmed
+  - Humans feed monkeys from inside wire mesh enclosure confirmed
+  - Macaques are wild and free-roaming confirmed
+- [Arashiyama Monkey Park Official Site](http://www.monkeypark.jp/eng-index.html)
+  - Park located on Mount Iwatayama in Arashiyama confirmed
+  - Togetsukyo Bridge nearby confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-18 · 11 facts verified · 0 corrections
+
+All key facts verified: founding 1957, Iwata land donation, Hazama naming system, trail specs, macaque count. Spiciness 2/5. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

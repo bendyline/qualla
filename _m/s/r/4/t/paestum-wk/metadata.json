@@ -1250,5 +1250,24 @@
     "_m/s/r/4/t/paestum-wk/paestum-via-sacra.jpg",
     "_m/s/r/4/t/paestum-wk/knight-funeral-painting-from-p.jpg"
   ],
-  "updatedAt": "2026-03-31T08:33:51.513Z"
+  "updatedAt": "2026-03-31T08:33:51.513Z",
+  "narration": {
+    "files": [
+      "sr4t-paestum-flight-context.mp3",
+      "sr4t-paestum-intro.mp3",
+      "sr4t-paestum-three-temples-twenty-five-centuries.mp3",
+      "sr4t-paestum-a-city-named-and-renamed.mp3",
+      "sr4t-paestum-what-the-graves-revealed.mp3",
+      "sr4t-paestum-mozzarella-and-the-modern-plain.mp3"
+    ],
+    "durations": {
+      "sr4t-paestum-flight-context.mp3": 47.474625,
+      "sr4t-paestum-intro.mp3": 36.3766666,
+      "sr4t-paestum-three-temples-twenty-five-centuries.mp3": 85.3390833,
+      "sr4t-paestum-a-city-named-and-renamed.mp3": 68.429375,
+      "sr4t-paestum-what-the-graves-revealed.mp3": 62.549625,
+      "sr4t-paestum-mozzarella-and-the-modern-plain.mp3": 58.3314166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

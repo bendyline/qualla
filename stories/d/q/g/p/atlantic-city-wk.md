@@ -1,0 +1,60 @@
+# Atlantic City: America's Playground on the Boardwalk
+
+The New Jersey shore town that invented the boardwalk, inspired Monopoly, became the East Coast's answer to Las Vegas, and still draws millions to its casinos and beaches despite decades of boom and bust.
+
+**Location:** 39.3650, -74.4390
+
+**Categories:** new-jersey, atlantic-city, city, gambling, beach
+
+## Introduction
+
+The wooden boards started it all. In 1870, a hotel owner named Alexander Boardman convinced Atlantic City to build a walkway above the sand so guests wouldn't track beach into the lobbies. The Boardwalk became the template for every seaside resort in America, and Atlantic City became the nation's playground. By 1900, the city was welcoming millions of vacationers from Philadelphia and New York who came for the beaches, the Steel Pier, and the saltwater taffy. Charles Darrow walked these streets during the Depression, naming Monopoly's properties after what he saw - Baltic Avenue, Mediterranean Avenue, the Boardwalk itself. When the casinos arrived in 1978, Atlantic City became the only place east of Nevada where you could legally gamble. The boom was spectacular; the bust that followed nearly destroyed the city. But the Boardwalk remains - America's original, four miles of wooden planks between the casinos and the sea.
+
+## The Boardwalk Empire
+
+Atlantic City's rise began with the railroad. The Camden and Atlantic Railroad connected Philadelphia to Absecon Island in 1854, bringing city workers to the shore for day trips that became weekends that became the American beach vacation. The grand hotels followed - Traymore, Marlborough-Blenheim, Chalfonte-Haddon Hall - palaces of recreation rising along the shore. Prohibition made Atlantic City infamous; the city's political boss Enoch 'Nucky' Johnson (inspiration for HBO's 'Boardwalk Empire') ran a corrupt machine that winked at bootlegging while skimming profits from every speakeasy and gambling den. The 1929 Atlantic City Conference gathered mob leaders from across America to divide territories and reduce violence. Crime was organized in Atlantic City.
+
+## Miss America and the Steel Pier
+
+The Steel Pier jutted 2,000 feet into the Atlantic, offering amusement rides, circus acts, and the famous diving horse - a horse and rider plunging from a 40-foot platform into a tank of water. The spectacle ran from 1929 to 1978, controversial even then, drawing crowds who couldn't look away. The Miss America Pageant began in Atlantic City in 1921 as a scheme to extend the summer tourist season past Labor Day - young women parading the Boardwalk in swimsuits while judges selected the 'most beautiful.' The pageant remained in Atlantic City until 2006, returning briefly before departing permanently. The Steel Pier still operates, though the diving horse is history and the rides are smaller. The Boardwalk's original attractions gave way to casinos.
+
+## Gambling's Resurrection
+
+By the 1970s, Atlantic City was dying. The grand hotels had closed or deteriorated; the Boardwalk was seedy; the tourists had moved on. New Jersey voters approved casino gambling in 1976, restricted to Atlantic City alone, as an urban renewal strategy. Resorts International opened in 1978, the first legal casino outside Nevada since 1910. The money poured in - $5 billion annually by 2006, twelve operating casinos, hotels that employed tens of thousands. But regional competition arrived: Pennsylvania, Delaware, Maryland, and New York all legalized gambling. Atlantic City's revenue halved between 2006 and 2014. Four casinos closed in 2014 alone; the Taj Mahal followed in 2016. The survivors consolidated, renovated, fought for market share. Atlantic City learned that gambling alone couldn't save it.
+
+## The Monopoly Connection
+
+Charles Darrow was an unemployed salesman during the Depression when he created (or, more accurately, adapted) the game that would make him wealthy. The street names came from Atlantic City - the progression from Mediterranean and Baltic (cheap lodgings near the inlet) through the colored sets to Park Place and the Boardwalk reflects the city's actual geography. The railroads are real: Pennsylvania, B&O, Reading, Short Line. Darrow claimed to have invented the game from scratch; historians later discovered similar games predating his, but Parker Brothers bought his version in 1935, and Monopoly became the world's bestselling board game. Atlantic City's streets achieved immortality through cardboard and dice.
+
+## Jersey Shore Forever
+
+Atlantic City International Airport (ACY) is 10 miles northwest, though most visitors fly into Philadelphia (PHL), 60 miles away. NJ Transit's Atlantic City Line connects to Philadelphia's 30th Street Station. The Boardwalk runs four miles from the inlet to Ventnor, lined with casinos, shops, and rolling chair attendants pushing tourists in covered wicker carts - a tradition since 1887. From altitude, Atlantic City appears as high-rise towers clustered on a barrier island - the casino hotels rising incongruously from the beach, the Boardwalk a thin line between buildings and surf. What appears from the air as a dense strip of development is America's oldest resort boardwalk, where the beach vacation was invented and where the dice still roll.
+
+## Flight Context
+
+Located at 39.36°N, 74.44°W on Absecon Island, a barrier island on the New Jersey shore, 60 miles southeast of Philadelphia. From altitude, Atlantic City appears as a cluster of high-rise casino hotels on a narrow island - the four-mile Boardwalk visible as a line between the towers and the beach, the inlet to the north, the Atlantic stretching east. What appears from the air as New Jersey beach development is the city that invented the boardwalk, inspired Monopoly, and became the East Coast's casino capital.
+
+## Sources
+
+- [Atlantic City, New Jersey - Wikipedia](https://en.wikipedia.org/wiki/Atlantic_City,_New_Jersey)
+  - First boardwalk 1870
+  - Casino gambling legalized 1976
+  - Monopoly property names from Atlantic City
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 6 facts verified · 0 corrections
+
+Story overlay verified
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- America's Playground on the Boardwalk
+- Atlantic City learned that gambling alone couldn't save it
+
+---
+
+*Word count: 870*
+*Read time: 5 minutes*

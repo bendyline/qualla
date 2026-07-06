@@ -347,5 +347,26 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wdtw-mount-pinatubo-flight-context.mp3",
+      "wdtw-mount-pinatubo-intro.mp3",
+      "wdtw-mount-pinatubo-the-mountain-nobody-knew.mp3",
+      "wdtw-mount-pinatubo-black-saturday.mp3",
+      "wdtw-mount-pinatubo-a-world-turned-cold.mp3",
+      "wdtw-mount-pinatubo-spirit-of-the-mountain.mp3",
+      "wdtw-mount-pinatubo-pinatubo-today.mp3"
+    ],
+    "durations": {
+      "wdtw-mount-pinatubo-flight-context.mp3": 51.4359166,
+      "wdtw-mount-pinatubo-intro.mp3": 49.4143333,
+      "wdtw-mount-pinatubo-the-mountain-nobody-knew.mp3": 70.1301666,
+      "wdtw-mount-pinatubo-black-saturday.mp3": 78.0552916,
+      "wdtw-mount-pinatubo-a-world-turned-cold.mp3": 60.8352916,
+      "wdtw-mount-pinatubo-spirit-of-the-mountain.mp3": 75.7817916,
+      "wdtw-mount-pinatubo-pinatubo-today.mp3": 71.2252083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

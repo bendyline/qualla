@@ -52,5 +52,24 @@
     "sourceGeohash4": "qeby"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qeby-willem-janszoon-flight-context.mp3",
+      "qeby-willem-janszoon-intro.mp3",
+      "qeby-willem-janszoon-a-mate-from-amsterdam.mp3",
+      "qeby-willem-janszoon-the-duyfkens-violent-landfall.mp3",
+      "qeby-willem-janszoon-return-and-a-name-that-traveled.mp3",
+      "qeby-willem-janszoon-from-navigator-to-governor.mp3"
+    ],
+    "durations": {
+      "qeby-willem-janszoon-flight-context.mp3": 39.0515833,
+      "qeby-willem-janszoon-intro.mp3": 33.5498333,
+      "qeby-willem-janszoon-a-mate-from-amsterdam.mp3": 54.9187916,
+      "qeby-willem-janszoon-the-duyfkens-violent-landfall.mp3": 78.810625,
+      "qeby-willem-janszoon-return-and-a-name-that-traveled.mp3": 57.4956666,
+      "qeby-willem-janszoon-from-navigator-to-governor.mp3": 64.813875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

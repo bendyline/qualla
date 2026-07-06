@@ -155,5 +155,24 @@
     "_m/s/v/8/v/battle-of-montgisard-wp/baldwin-iv-in-battle.jpg",
     "_m/s/v/8/v/battle-of-montgisard-wp/baldwin-iv-cropped-image.jpg"
   ],
-  "updatedAt": "2026-03-31T11:35:40.891Z"
+  "updatedAt": "2026-03-31T11:35:40.891Z",
+  "narration": {
+    "files": [
+      "sv8v-battle-of-montgisard-flight-context.mp3",
+      "sv8v-battle-of-montgisard-intro.mp3",
+      "sv8v-battle-of-montgisard-a-kingdom-left-bare.mp3",
+      "sv8v-battle-of-montgisard-the-sultans-miscalculation.mp3",
+      "sv8v-battle-of-montgisard-prayer-and-slaughter.mp3",
+      "sv8v-battle-of-montgisard-victorys-price.mp3"
+    ],
+    "durations": {
+      "sv8v-battle-of-montgisard-flight-context.mp3": 48.7151666,
+      "sv8v-battle-of-montgisard-intro.mp3": 57.736,
+      "sv8v-battle-of-montgisard-a-kingdom-left-bare.mp3": 64.815875,
+      "sv8v-battle-of-montgisard-the-sultans-miscalculation.mp3": 64.0940416,
+      "sv8v-battle-of-montgisard-prayer-and-slaughter.mp3": 70.2517083,
+      "sv8v-battle-of-montgisard-victorys-price.mp3": 69.6312083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

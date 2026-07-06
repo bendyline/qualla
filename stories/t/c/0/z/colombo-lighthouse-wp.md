@@ -1,0 +1,56 @@
+# Colombo Lighthouse
+
+A 1952 lighthouse that became Colombo's saluting battery - where naval guns fire 25-round salvos on Independence Day, Princess Elizabeth never arrived, and land reclamation has marooned a coastal beacon inland.
+
+**Location:** 6.9362, 79.8408
+
+**Categories:** lighthouse, military, harbor, sri-lanka, colonial-history
+
+## Introduction
+
+Every 4th of February, guns thunder at the base of the Colombo Lighthouse. Twenty-five rounds, one for each year of tradition stretched back to 1948, when sailors of the Ceylon Royal Naval Volunteer Reserve fired a 15-gun salute at Galle Face Green to mark the first Independence Day. The lighthouse itself was not yet built then - it arrived in 1952, opened by Prime Minister D.S. Senanayake, the man who had steered Ceylon to sovereignty. Built to replace the Old Colombo Lighthouse whose beam had been swallowed by the growing city, this concrete tower with four stone lions at its base was meant to guide ships into one of the Indian Ocean's busiest harbors. Instead, it became something stranger: a military landmark, a restricted monument, and finally, thanks to the construction of Colombo Port City, a lighthouse stranded on dry land.
+
+## Light Above the Harbor
+
+The Colombo Lighthouse stands 29 meters tall on a concrete base that adds another 12 meters of elevation at Galbokka Point, south of the Port of Colombo along the marine drive. It replaced the Old Colombo Lighthouse, a Victorian-era clock tower whose navigational light had been rendered useless by the very buildings the harbor's prosperity had attracted. When harbor expansion demanded a clear signal for approaching ships, the Sri Lanka Ports Authority built this tower on the waterfront where the Indian Ocean met the breakwater. Four lion statues guard its base - an echo of the lion on Sri Lanka's flag, carved in stone and facing the sea. The panoramic view of the ocean from the top made it a beloved city landmark, a place where Colombo residents could see their city from the perspective of the ships arriving at its shore.
+
+## The Guns That Speak for a Nation
+
+The saluting battery at the lighthouse base holds a history more tangled than the lighthouse itself. The tradition began modestly: a 15-gun salute on 4 February 1948. When the Royal Ceylon Navy formed and acquired its first warship, HMCyS Vijaya, the salute grew to 25 rounds, fired from the ship's single QF 4-inch naval gun on 4 February 1951. The following year, two additional QF 4-inch guns arrived from the United Kingdom, mounted at Galle Buck Bay in preparation for a royal visit by Princess Elizabeth. She never made it to Colombo - her father, King George VI, died during the journey, and she turned back halfway to become Queen. The Royal Ceylon Navy fired a 56-gun salute on the day of the King's funeral. After HMCyS Vijaya was decommissioned, its gun joined the battery. In 2000, the Indian Navy gifted three 52mm guns, and all were moved to the lighthouse. For two decades, the Independence Day salute echoed from this spot.
+
+## Behind the Security Fence
+
+As the Sri Lankan Civil War escalated, the lighthouse disappeared behind security cordons. Its location - directly across the street from the Naval Headquarters at SLNS Parakrama and within the restricted zone surrounding the Port of Colombo - placed it in the most sensitive security zone in the capital. Public access ended. The panoramic view that had drawn visitors became a strategic vantage point, useful to the military and forbidden to everyone else. The lighthouse continued to function as a navigational aid, its beam still sweeping the harbor approaches, but it ceased to be a place Colombo's residents could visit. The city landmark became a military one, visible from a distance but unreachable, its four stone lions guarding a perimeter of razor wire and checkpoints rather than an open waterfront.
+
+## A Lighthouse Without a Shore
+
+In 2021, the Independence Day gun salute was fired not from the lighthouse battery but from SLNS Samudura, a naval vessel. The reason was literal: the Colombo Port City project, a massive land reclamation effort, had pushed the coastline seaward, leaving the Colombo Lighthouse landlocked. A beacon built to stand where ocean met shore now sits surrounded by construction - new land rising from the sea on fill material dredged from the harbor floor. The saluting tradition moved to ships, and the lighthouse's future became uncertain. Whether it will be preserved as a monument, adapted for some new purpose, or simply absorbed into the expanding port infrastructure remains an open question. For now, it stands where it has stood since 1952 - four lions at its base, a light at its crown - waiting to see what the city builds around it next.
+
+## Flight Context
+
+Located at 6.936°N, 79.841°E at Galbokka Point, south of the Port of Colombo. From the air, look for the lighthouse tower on the southern edge of the harbor complex, near the marine drive. The Colombo Port City land reclamation project is visible as a large area of new land extending seaward west of the lighthouse. Bandaranaike International Airport (VCBI) lies 30 km north. Ratmalana Airport (VCCC) is 12 km south along the coast. Best viewed at 1,500-3,000 ft. The harbor breakwaters and twin towers of the World Trade Centre are nearby orientation landmarks. Tropical weather year-round.
+
+## Sources
+
+- [Colombo Lighthouse - Wikipedia](https://en.wikipedia.org/?curid=16940803)
+  - Lighthouse stands 29 meters on 12-meter concrete base confirmed
+  - Built 1952 confirmed
+  - 25-gun salute tradition on February 4 Independence Day confirmed
+  - First salute was 15 guns on 1948 Independence Day confirmed
+  - HMCyS Vijaya fired 25-round salute February 4 1951 confirmed
+  - Princess Elizabeth never arrived - King George VI died during journey confirmed
+  - Colombo Port City land reclamation landlocked the lighthouse confirmed
+  - 2021 Independence Day salute fired from SLNS Samudra confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 8 facts verified · 0 corrections
+
+Verified 1952 construction, 29m height on 12m base, saluting battery history, Princess Elizabeth visit cancellation, land reclamation landlocking. All facts confirmed. Added sources and editorial.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 740*
+*Read time: 4 minutes*

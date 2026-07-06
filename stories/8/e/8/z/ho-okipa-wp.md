@@ -1,0 +1,48 @@
+# Ho'okipa
+
+Maui's north shore beach where four distinct reef breaks, relentless trade winds, and winter swells up to 30 feet created the birthplace of competitive windsurfing.
+
+**Location:** 20.9332, -156.3580
+
+**Categories:** beaches, surfing, windsurfing, sports, hawaiian-culture
+
+## Introduction
+
+The name means "hospitality" in Hawaiian, which is either deeply appropriate or deeply ironic depending on your skill level. Ho'okipa Beach, on Maui's north shore along the Hana Highway, is among the most celebrated windsurfing locations on Earth, a place where consistent trade winds from the east-northeast meet large, well-shaped waves rolling across a reef system that spans the entire bay. For the professionals who compete here, and for the sea turtles that haul themselves onto the rocks each afternoon to bask in the sun, Ho'okipa is welcoming. For the unprepared, the reef, the current, and the winter swells that reach 30 feet offer a far less gentle reception.
+
+## Four Breaks, One Bay
+
+Ho'okipa is not a single wave but a complex of four distinct surf breaks, each with its own character. Pavilions, the easternmost break off the lookout parking area, produces primarily a right-hand wave with a shorter left. West of it, Middles faces the main parking lot and is usually surfed as a left. Between the two lies a deeper channel that catches fewer breaking sets, known informally as Girlie Bowls. Further west, The Point breaks right in front of the lifeguard tower and the narrow sand beach where windsurfers launch. It is the most popular break for wind riding, and with the prevailing trade winds blowing from the east, conditions are most frequently starboard tack -- wind hitting the right cheek as you face the waves from shore. Past the rocky headland sits Lanes, a left-hand break that comes alive during the rare Kona conditions, when southwest winds replace the trades for a few days each year and flip the tack entirely.
+
+## Where Windsurfing Grew Up
+
+Windsurfing existed before Ho'okipa, but Ho'okipa is where it became a competitive sport capable of producing genuinely jaw-dropping athleticism. The Aloha Classic, a Pro-Am wave competition with age categories for contestants, has been running here for decades, drawing the world's best riders to a break that rewards aggression and punishes hesitation in equal measure. Red Bull held its King of the Air international kitesurfing competition at Ho'okipa from 1999 through 2005, further cementing the beach's reputation as the proving ground for wind-powered wave riding. What makes the spot work is the consistency: the trade winds blow most days from the east to east-northeast, the reef shapes the waves into clean, predictable faces, and the channel between breaks provides a relatively safe zone for launching and recovering. On the observation decks above the parking area, spectators can watch riders throw aerials and ride barrel sections from a comfortable distance, which is the recommended vantage point for anyone not carrying a sail.
+
+## The Neighborhood Next Door
+
+Ho'okipa shares Maui's north shore with a more famous, more dangerous wave. Just a few miles east along the Hana Highway, the deep-water break at Pe'ahi -- known worldwide as Jaws -- produces swells exceeding 60 feet during the winter months. Ho'okipa's waves close out when faces approach about 25 feet, which means that on the biggest winter days, the serious big-wave riders drive past Ho'okipa on their way to Pe'ahi while the windsurfers and regular surfers stay behind and enjoy what remains -- which is still, by any normal standard, enormous surf. The relationship between the two breaks defines Maui's north shore culture: Ho'okipa is the everyday arena, the training ground, the place where you can watch the sunset from the parking lot with a cooler of beer and a pair of binoculars. Jaws is the cathedral. On December 15, 2004, waves reaching 30 feet pounded Ho'okipa's shore while officials warned tourists to stay well clear of the water. It was a large day at Ho'okipa. At Jaws, the same swell was producing faces twice that size.
+
+## Flight Context
+
+Located at 20.93N, 156.36W on the north shore of Maui, along the Hana Highway east of Paia. The beach is recognizable by its reef-lined bay, parking area, and, on windy days, the colorful sails of windsurfers dotting the water. The break at Pe'ahi (Jaws) is visible about 3 miles to the east. Nearest airport: Kahului Airport (PHOG, approximately 7 miles west). Best viewed at 1,500-3,000 feet AGL to see individual surfers and the reef structure. Trade wind conditions produce choppy surface texture visible from above.
+
+## Sources
+
+- [Hoʻokipa - Wikipedia](https://en.wikipedia.org/?curid=2210685)
+  - four surf breaks (Pavilions, Middles, Girlie Bowls, The Point, Lanes) confirmed
+  - Aloha Classic running for decades confirmed
+  - Red Bull King of the Air kitesurfing competition 1999–2005 confirmed
+  - trade winds from east-northeast confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 4 facts verified · 0 corrections
+
+Key facts verified: four surf breaks named correctly, Aloha Classic long-running competition confirmed, Red Bull King of the Air 1999-2005 confirmed, trade winds from east-northeast confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 700*
+*Read time: 4 minutes*

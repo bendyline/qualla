@@ -418,5 +418,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kpwg-loango-national-park-flight-context.mp3",
+      "kpwg-loango-national-park-intro.mp3",
+      "kpwg-loango-national-park-where-the-forest-meets-the-sea.mp3",
+      "kpwg-loango-national-park-born-from-a-presidential-decree.mp3",
+      "kpwg-loango-national-park-surfing-hippos-and-beach-elephants.mp3",
+      "kpwg-loango-national-park-a-church-by-eiffel-a-lodge-in-the-wild.mp3"
+    ],
+    "durations": {
+      "kpwg-loango-national-park-flight-context.mp3": 44.620625,
+      "kpwg-loango-national-park-intro.mp3": 48.0284166,
+      "kpwg-loango-national-park-where-the-forest-meets-the-sea.mp3": 60.9405833,
+      "kpwg-loango-national-park-born-from-a-presidential-decree.mp3": 58.3867083,
+      "kpwg-loango-national-park-surfing-hippos-and-beach-elephants.mp3": 53.6084166,
+      "kpwg-loango-national-park-a-church-by-eiffel-a-lodge-in-the-wild.mp3": 55.5733333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

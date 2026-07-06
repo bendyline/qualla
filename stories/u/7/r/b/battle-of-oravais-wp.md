@@ -1,0 +1,62 @@
+# Battle of Oravais
+
+A seventeen-hour bloodbath in western Finland that sealed Sweden's loss of its eastern half and redrew the map of Northern Europe.
+
+**Location:** 63.2827, 22.3750
+
+**Categories:** history, military, battle
+
+## Introduction
+
+Fifteen-year-old Wilhelm von Schwerin stood behind a single artillery piece, covering the retreat of an entire army. It was the morning of 14 September 1808, and the Swedish forces falling back through the forests near Oravais had left him and his gun as the last thing between them and the advancing Russians. He held. That act of teenage defiance became one of the indelible images of a battle that would rage for seventeen hours and decide the fate of Finland.
+
+## An Empire Closing In
+
+The Finnish War erupted in February 1808 when Russia, allied with Napoleon's France, invaded Sweden's eastern territory. By late summer, the campaign had swung wildly. Swedish forces initially retreated all the way to Oulu, then rallied and pushed south into Savonia, winning several engagements. But the momentum reversed again. Russia recuperated quickly, and by September the Swedish army was retreating northward along the western Finnish coast, showing what contemporary accounts described as signs of panic and collapse. The fortress of Sveaborg had already capitulated. Colonel Georg Carl von Dobeln was dispatched ahead to Nykarleby with a brigade to prevent encirclement. On 13 September, the main Swedish army halted at Oravais to await news from von Dobeln, who was fighting the Russians at Jutas. Distantly, they could hear his cannons.
+
+## Daybreak on the Ridge
+
+The Russian main army, under Count Nikolay Kamensky, had marched from Vasa in furious pursuit. At dawn on 14 September, the first shots were exchanged between the advance troops of General-Major Yakov Kulnev and a Swedish outpost by a forest bridge. The Swedes fell back to a defensive position along a ridge, its northern flank protected by a Baltic inlet and the Fjärdså stream flowing south to north. They had cleared the forest in front of their line to give their eighteen guns a clear field of fire. The artillery duel that followed lasted an hour before the Russians mounted a frontal assault. Kulnev struck at the Swedish right but bogged down in the marshy banks of the Fjärdså. A second assault on the left was repelled, but then something inexplicable happened: Swedish troops abandoned their strong positions and counterattacked without orders. They ran straight into overwhelming fire and were forced back with heavy losses.
+
+## The Tide That Almost Turned
+
+By 2:00 in the afternoon, the battle hung in the balance. The Russians had thinned their center to reinforce flanking attempts, and the Swedish commander Adlercreutz ordered a forceful attack to exploit the gap. The assault went forward swiftly, carrying the entire Swedish line with it. For a brief, electric moment, the whole Russian army was forced to retire back into the forest where the fighting had begun that morning. Sweden was winning. Then the ammunition ran out. As Swedish soldiers searched their cartridge pouches and found them empty, Russian reinforcements poured onto the field. The exhausted Swedes withdrew to their ridge one more time, but there would be no more decisive strokes.
+
+## Seventeen Hours of Darkness
+
+Night fell, and the killing continued. The battle had already raged for fourteen hours when Kamensky ordered one final push against the weakened Swedish left flank, telling his officers not to stop fighting until the Swedes were driven from their position. Russian bayonets came out of the darkness. It was too much. The Swedish army broke and fled north, burning the bridge behind them. Lieutenant Carl Johan Ljunggren later described the retreat: the darkness so thick that men could not see who was shoving them, the wounded wailing in multiple languages, artillerymen cursing at exhausted horses stuck in the mud, wheels and weapons rattling, everyone staggering from tiredness and hunger. They stumbled into Nykarleby. The Russians did not pursue. They were spent too.
+
+## The Road to Final Defeat
+
+Casualty figures remain disputed. Regimental reports suggest 103 Swedes killed, 276 wounded, and 361 missing, though Russian sources claim Swedish losses of 1,000 to 1,500. The Russians themselves reported 121 killed, 665 wounded, and 109 missing. What is not disputed is the outcome. Oravais proved that the Swedish army was not tactically inferior to Russia, but tactical competence could not overcome strategic reality. Sweden stood alone against Napoleon's continental system, allied only with Britain, and the Finnish War was one campaign among many in the vast Napoleonic upheaval reshaping Europe. Oravais was the last real chance to turn the war, and the empty cartridge pouches at the moment of potential breakthrough ensured that chance was lost. Finland, Swedish for over six centuries, became Russian. A stone memorial now overlooks the battlefield from a hill above the ridge where the Swedes made their stand, a quiet monument to a seventeen-hour day that changed the map of Northern Europe.
+
+## Flight Context
+
+Located at 63.28°N, 22.38°E in modern-day Vörå, western Finland, on the coast of the Gulf of Bothnia. The battlefield lies along a ridge near the Fjärdså stream, visible from altitude as low agricultural land bordered by forest. Nearby airports include Vaasa Airport (EFVA), approximately 50 km to the south. The coastal road along which both armies marched is today roughly paralleled by Highway 8. The stone war memorial on the hilltop overlooking the battlefield may be visible at lower altitudes.
+
+## Sources
+
+- [Battle of Oravais - Wikipedia](https://en.wikipedia.org/?curid=2080742)
+  - Battle fought on 14 September 1808 confirmed
+  - Finnish War erupted in February 1808 confirmed
+  - Swedish casualties: 103 killed, 276 wounded, 361 missing confirmed
+  - Russian casualties: 121 killed, 665 wounded, 109 missing confirmed
+  - Battle lasted approximately seventeen hours confirmed
+  - Swedish army broke and fled north at night confirmed
+  - Swedish commander was Adlercreutz confirmed
+  - Russian commander was Count Nikolay Kamensky confirmed
+  - Stone memorial now overlooks the battlefield confirmed
+  - Fortress of Sveaborg capitulated before the battle confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 10 facts verified · 0 corrections
+
+All key facts verified: 14 Sep 1808 date, Swedish casualties (103 killed/276 wounded/361 missing), Russian casualties (121/665/109), ~17 hour battle, commanders Adlercreutz and Kamensky, fortress of Sveaborg capitulation. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 810*
+*Read time: 4 minutes*

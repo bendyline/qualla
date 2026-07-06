@@ -65,5 +65,24 @@
     "sourceGeohash4": "dr5p"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "dr5p-caldwell-parsonage-flight-context.mp3",
+      "dr5p-caldwell-parsonage-intro.mp3",
+      "dr5p-caldwell-parsonage-the-fighting-parson.mp3",
+      "dr5p-caldwell-parsonage-two-destructions.mp3",
+      "dr5p-caldwell-parsonage-the-sentrys-bullet.mp3",
+      "dr5p-caldwell-parsonage-what-endures.mp3"
+    ],
+    "durations": {
+      "dr5p-caldwell-parsonage-flight-context.mp3": 36.8127916,
+      "dr5p-caldwell-parsonage-intro.mp3": 42.6740833,
+      "dr5p-caldwell-parsonage-the-fighting-parson.mp3": 45.1535416,
+      "dr5p-caldwell-parsonage-two-destructions.mp3": 54.4152916,
+      "dr5p-caldwell-parsonage-the-sentrys-bullet.mp3": 36.53325,
+      "dr5p-caldwell-parsonage-what-endures.mp3": 63.1019166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

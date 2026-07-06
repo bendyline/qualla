@@ -359,5 +359,24 @@
     "_m/d/r/5/p/watchung-reservation-wp/smooth-earth-snake-mad.jpg",
     "_m/d/r/5/p/watchung-reservation-wp/usgs-watchung-reservation-map.jpg"
   ],
-  "updatedAt": "2026-03-30T11:33:33.561Z"
+  "updatedAt": "2026-03-30T11:33:33.561Z",
+  "narration": {
+    "files": [
+      "dr5p-watchung-reservation-flight-context.mp3",
+      "dr5p-watchung-reservation-intro.mp3",
+      "dr5p-watchung-reservation-written-in-stone.mp3",
+      "dr5p-watchung-reservation-the-deserted-village-and-its-hidden-murals.mp3",
+      "dr5p-watchung-reservation-missiles-highways-and-the-fight-to-preserve.mp3",
+      "dr5p-watchung-reservation-trails-water-and-the-loop.mp3"
+    ],
+    "durations": {
+      "dr5p-watchung-reservation-flight-context.mp3": 43.8199583,
+      "dr5p-watchung-reservation-intro.mp3": 40.525625,
+      "dr5p-watchung-reservation-written-in-stone.mp3": 50.8600416,
+      "dr5p-watchung-reservation-the-deserted-village-and-its-hidden-murals.mp3": 70.8060833,
+      "dr5p-watchung-reservation-missiles-highways-and-the-fight-to-preserve.mp3": 63.9455833,
+      "dr5p-watchung-reservation-trails-water-and-the-loop.mp3": 66.745625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

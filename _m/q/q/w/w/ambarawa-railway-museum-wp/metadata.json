@@ -925,5 +925,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qqww-ambarawa-railway-museum-flight-context.mp3",
+      "qqww-ambarawa-railway-museum-intro.mp3",
+      "qqww-ambarawa-railway-museum-a-forts-railway.mp3",
+      "qqww-ambarawa-railway-museum-the-rack-line-that-climbed-the-mountains.mp3",
+      "qqww-ambarawa-railway-museum-iron-survivors.mp3",
+      "qqww-ambarawa-railway-museum-riding-the-heritage-line.mp3",
+      "qqww-ambarawa-railway-museum-what-the-gauges-remember.mp3"
+    ],
+    "durations": {
+      "qqww-ambarawa-railway-museum-flight-context.mp3": 49.9697083,
+      "qqww-ambarawa-railway-museum-intro.mp3": 46,
+      "qqww-ambarawa-railway-museum-a-forts-railway.mp3": 67.9420416,
+      "qqww-ambarawa-railway-museum-the-rack-line-that-climbed-the-mountains.mp3": 71.134625,
+      "qqww-ambarawa-railway-museum-iron-survivors.mp3": 72.126375,
+      "qqww-ambarawa-railway-museum-riding-the-heritage-line.mp3": 61.5174166,
+      "qqww-ambarawa-railway-museum-what-the-gauges-remember.mp3": 65.282125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

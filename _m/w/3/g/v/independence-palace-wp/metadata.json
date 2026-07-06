@@ -693,5 +693,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w3gv-independence-palace-flight-context.mp3",
+      "w3gv-independence-palace-intro.mp3",
+      "w3gv-independence-palace-a-palace-born-from-wreckage.mp3",
+      "w3gv-independence-palace-power-and-paranoia-underground.mp3",
+      "w3gv-independence-palace-the-last-days-of-april.mp3",
+      "w3gv-independence-palace-frozen-in-1975.mp3"
+    ],
+    "durations": {
+      "w3gv-independence-palace-flight-context.mp3": 40.6330416,
+      "w3gv-independence-palace-intro.mp3": 46.6067083,
+      "w3gv-independence-palace-a-palace-born-from-wreckage.mp3": 74.5782083,
+      "w3gv-independence-palace-power-and-paranoia-underground.mp3": 72.293,
+      "w3gv-independence-palace-the-last-days-of-april.mp3": 75.8862083,
+      "w3gv-independence-palace-frozen-in-1975.mp3": 68.5225416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -373,5 +373,24 @@
     "_m/s/c/4/g/lake-abaya-wp/iss012-e-23405-view-of-ethiopi.jpg",
     "_m/s/c/4/g/lake-abaya-wp/wolaita-sodo-page-banner.jpg"
   ],
-  "updatedAt": "2026-03-31T05:49:15.357Z"
+  "updatedAt": "2026-03-31T05:49:15.357Z",
+  "narration": {
+    "files": [
+      "sc4g-lake-abaya-flight-context.mp3",
+      "sc4g-lake-abaya-intro.mp3",
+      "sc4g-lake-abaya-three-rivers-one-red-lake.mp3",
+      "sc4g-lake-abaya-islands-in-the-red-water.mp3",
+      "sc4g-lake-abaya-a-lake-that-barely-overflows.mp3",
+      "sc4g-lake-abaya-arba-minchs-forty-springs.mp3"
+    ],
+    "durations": {
+      "sc4g-lake-abaya-flight-context.mp3": 48.1175833,
+      "sc4g-lake-abaya-intro.mp3": 51.5965,
+      "sc4g-lake-abaya-three-rivers-one-red-lake.mp3": 62.4050416,
+      "sc4g-lake-abaya-islands-in-the-red-water.mp3": 58.3711666,
+      "sc4g-lake-abaya-a-lake-that-barely-overflows.mp3": 71.3694166,
+      "sc4g-lake-abaya-arba-minchs-forty-springs.mp3": 57.307375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -109,5 +109,24 @@
     "_m/g/c/r/d/corby-wp/kirby-hall-from-the-south-west.jpg",
     "_m/g/c/r/d/corby-wp/lyveden-new-bield-july-2016.jpg"
   ],
-  "updatedAt": "2026-03-20T07:24:17.350Z"
+  "updatedAt": "2026-03-20T07:24:17.350Z",
+  "narration": {
+    "files": [
+      "gcrd-corby-flight-context.mp3",
+      "gcrd-corby-intro.mp3",
+      "gcrd-corby-from-village-to-steel-town.mp3",
+      "gcrd-corby-little-scotland.mp3",
+      "gcrd-corby-the-closure-that-broke-a-town.mp3",
+      "gcrd-corby-toxic-town.mp3"
+    ],
+    "durations": {
+      "gcrd-corby-flight-context.mp3": 59.6924583,
+      "gcrd-corby-intro.mp3": 55.328875,
+      "gcrd-corby-from-village-to-steel-town.mp3": 70.631375,
+      "gcrd-corby-little-scotland.mp3": 59.4030833,
+      "gcrd-corby-the-closure-that-broke-a-town.mp3": 65.9647083,
+      "gcrd-corby-toxic-town.mp3": 78.7072916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

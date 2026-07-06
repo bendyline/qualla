@@ -729,5 +729,24 @@
     "_m/u/8/4/4/peles-castle-wp/castelul-peles-23.jpg",
     "_m/u/8/4/4/peles-castle-wp/castelul-peles-25.jpg"
   ],
-  "updatedAt": "2026-04-01T04:10:22.870Z"
+  "updatedAt": "2026-04-01T04:10:22.870Z",
+  "narration": {
+    "files": [
+      "u844-peles-castle-flight-context.mp3",
+      "u844-peles-castle-intro.mp3",
+      "u844-peles-castle-a-kings-eye-for-the-mountains.mp3",
+      "u844-peles-castle-every-room-a-different-world.mp3",
+      "u844-peles-castle-cradle-of-the-dynasty.mp3",
+      "u844-peles-castle-seized-sealed-and-returned.mp3"
+    ],
+    "durations": {
+      "u844-peles-castle-flight-context.mp3": 44.35225,
+      "u844-peles-castle-intro.mp3": 54.8519583,
+      "u844-peles-castle-a-kings-eye-for-the-mountains.mp3": 71.2502916,
+      "u844-peles-castle-every-room-a-different-world.mp3": 71.390625,
+      "u844-peles-castle-cradle-of-the-dynasty.mp3": 62.722875,
+      "u844-peles-castle-seized-sealed-and-returned.mp3": 80.89025
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

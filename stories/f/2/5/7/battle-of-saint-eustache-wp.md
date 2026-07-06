@@ -1,0 +1,67 @@
+# Battle of Saint-Eustache
+
+On December 14, 1837, 201 poorly armed Patriotes barricaded inside a church faced 1,280 British regulars and artillery in the decisive battle of the Lower Canada Rebellion -- a four-hour siege that ended with the church in flames and 70 rebels dead, their leader shot jumping from a window.
+
+**Location:** 45.5575, -73.8897
+
+**Categories:** history, battlefield, rebellion, quebec
+
+## Introduction
+
+The bullet holes are still in the facade. The Church of Saint-Eustache was rebuilt after British soldiers burned it to the ground on December 14, 1837, but the builders kept the original stone front, and the cannon and musket impacts remain visible nearly two centuries later. Inside that church, 201 men -- most without firearms -- made their last stand against 1,280 British regulars backed by artillery. It was the decisive battle of the Lower Canada Rebellion, a four-hour fight that ended with the rebel leader dead, the village in ashes, and a political movement crushed into the ground. The scars on the facade are a reminder that the ground remembers what governments prefer to forget.
+
+## The Rebellion's Last Card
+
+By mid-December 1837, the Lower Canada Rebellion was already failing. The Patriote movement -- French-Canadian reformers demanding democratic self-governance and an end to British colonial control -- had seen early success at the Battle of Saint-Denis on November 23, where they repelled a government column. But two days later, at the Battle of Saint-Charles, government forces crushed the southern Patriote camp. Commander-in-chief John Colborne now turned his attention north, where two rebel camps remained: Saint-Benoit and Saint-Eustache, in the county of Deux-Montagnes northwest of Montreal. Colborne assembled an overwhelming force: 1,280 regular soldiers from the 1st, 32nd, and newly arrived 83rd Regiments of Foot, supported by field artillery and 220 Loyalist volunteers. Against this, the Patriotes at Saint-Eustache had hoped to muster 800 fighters. Only 201 showed up, led by a local doctor named Jean-Olivier Chenier and the Swiss-born adventurer Amury Girod.
+
+## Refuge in Stone
+
+The Patriotes knew they were outmatched. They barricaded themselves in the strongest buildings in the village center -- the convent, the church, the rectory, and the manor -- and waited. Many had nothing more than pitchforks and farm implements. Before the first shot was fired, Amury Girod rode away, claiming he would fetch reinforcements from Saint-Benoit. His fellow Patriotes suspected treason. They were probably right; Girod was pursued by his own men and eventually took his own life. The defense fell entirely to Chenier and the men trapped inside the stone buildings. Colborne positioned his troops around the village and advanced methodically, tightening a vice. Toward noon, he ordered the artillery to open fire on the village center. The guns walked up the main street, and soldiers broke down the church doors.
+
+## The Burning Church
+
+Two companies of the 1st Regiment of Foot seized the rectory and set it ablaze, using the smoke to blind the defenders in the church. The grenadiers took the manor and torched it as well. They entered the church through the vestry, set fire to it, and withdrew under fire from Patriotes in the balcony. The defenders were now trapped inside a burning building. As the flames consumed the structure, the Patriotes began jumping from windows. Government soldiers fired on them as they leaped. Chenier was among those who attempted to escape through a window. He was shot and killed. The battle lasted at least four hours. When it was over, 70 Patriotes lay dead against just three government soldiers. The lopsided toll reflected the brutal arithmetic of the engagement: untrained men with improvised weapons trapped in a burning building against professional soldiers with cannon.
+
+## Ashes Across the County
+
+Colborne was not finished. In the days following the battle, soldiers and Loyalist volunteers swept through the county of Deux-Montagnes in a campaign of destruction. Saint-Eustache and Saint-Benoit were put to the torch. In Saint-Joachim, Sainte-Scholastique, and Sainte-Therese, the army burned the homes of rebellion leaders. Hundreds of rebels were taken prisoner. Patriote leaders Dr. Wolfred Nelson and journalist Jean-Philippe Boucher-Belleville were captured. Some of those who tried to reach the Canada-United States border were intercepted. A number of prisoners were eventually transported to the penal colony of New South Wales in Australia, where they were put to forced labor. The suburb of Canada Bay in Sydney is named for these exiled rebels who helped build the area -- a strange memorial to men whose fight for self-governance in Quebec left its mark on the other side of the world.
+
+## The Facade That Survived
+
+The Church of Saint-Eustache was rebuilt, but its original facade was preserved -- a deliberate choice that turned the building into a monument. The pockmarks from British cannon and musket fire remain embedded in the stone, visible to anyone who stands in the square. Jean-Olivier Chenier became a martyr figure in Quebec's national memory, honored as a man who chose to die rather than surrender. The Lower Canada Rebellion, despite its military failure, transformed the political landscape. The British government sent Lord Durham to investigate, and his report led directly to the union of Upper and Lower Canada and, eventually, to the path toward Canadian Confederation in 1867. The rebellion also cemented the tension between English and French Canada that has defined the country's politics ever since. Saint-Eustache stands today as a quiet suburban town north of Montreal, but the church at its center still carries the evidence of the day when a colonial government decided that democratic aspirations could be answered with grapeshot.
+
+## Flight Context
+
+Located at 45.56N, 73.89W in Saint-Eustache, a town on the north shore of the Riviere des Mille Iles, approximately 20 miles northwest of downtown Montreal. The Church of Saint-Eustache, the focal point of the battle, stands in the town center near the waterfront and is identifiable by its distinctive stone facade. The surrounding area is now suburban but was farmland in 1837. Saint-Benoit, the other Patriote camp destroyed in the aftermath, lies further northwest near modern-day Mirabel. Nearest airports: Montreal-Mirabel International Airport (CYMX) approximately 10nm north; Montreal-Trudeau International Airport (CYUL) approximately 15nm southeast. Best viewed from 2,000-4,000 ft AGL to see the town center, the church, and the river setting. The county of Deux-Montagnes, where the post-battle reprisals occurred, spreads north and west.
+
+## Sources
+
+- [Battle of Saint-Eustache - Wikipedia](https://en.wikipedia.org/?curid=3891578)
+- [Battle of Saint-Eustache - The Canadian Encyclopedia](https://thecanadianencyclopedia.ca/en/article/battle-of-st-eustache)
+  - 201 Patriotes vs 1,280 British regulars and 220 Loyalist volunteers confirmed
+  - Battle date December 14, 1837 confirmed
+  - 70 Patriote dead vs 3 government soldiers confirmed
+  - Jean-Olivier Chenier shot escaping through window confirmed
+  - Amury Girod left claiming to fetch reinforcements, later committed suicide confirmed
+  - Battle of Saint-Denis November 23, 1837 Patriote victory confirmed
+  - Regiments: 1st, 32nd, and 83rd Regiments of Foot confirmed
+  - Lord Durham report and union of Upper and Lower Canada leading to Confederation confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-27 · 8 facts verified · 0 corrections
+
+Facts well-verified: 201 Patriotes vs 1280 British, 70 dead vs 3, Dec 14 1837 date, Chenier death, Girod suicide, Saint-Denis Nov 23 victory. Spiciness raised to 3 for editorial voice ('governments prefer to forget', 'democratic aspirations answered with grapeshot').
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- The scars on the facade are a reminder that the ground remembers what governments prefer to forget.
+- The brutal arithmetic of the engagement: untrained men with improvised weapons trapped in a burning building against professional soldiers with cannon.
+- a colonial government decided that democratic aspirations could be answered with grapeshot
+
+---
+
+*Word count: 810*
+*Read time: 4 minutes*

@@ -1,0 +1,60 @@
+# Gas Works Park
+
+The sole remaining coal gasification plant in the United States stands not behind a fence but inside a public park, its rusting towers and machinery preserved as industrial archaeology on a promontory jutting into Seattle's Lake Union.
+
+**Location:** 47.6460, -122.3350
+
+**Categories:** Industrial archaeology, Seattle parks, National Register of Historic Places, Lake Union, Adaptive reuse
+
+## Introduction
+
+Children play inside the guts of a coal gasification plant. A ten-ton flywheel that once ran twenty-four hours a day powering compressors now sits motionless in what the city calls the "play barn," surrounded by the original pumps, pipes, and machinery of the Seattle Gas Light Company. Outside, six generator towers rise against the Seattle skyline like the fingers of an industrial hand reaching up from a grassy hillside. Gas Works Park occupies a 20.5-acre promontory on the north shore of Lake Union, and it is, as the Seattle Times once put it, "easily the strangest park in Seattle and may rank among the strangest in the world." The strangeness is the point. When landscape architect Richard Haag convinced the city to keep the rusting towers instead of demolishing them, he created a prototype for industrial site conversions that has been studied and imitated worldwide ever since.
+
+## Fifty Years of Fire and Gas
+
+The Seattle Gas Light Company began purchasing lots on the Lake Union promontory in 1900, and its coal gas plant went into operation in 1906. For half a century, the facility manufactured illuminating gas, the energy source that lit Seattle's streets and heated its homes before natural gas arrived. Coal was hauled in by rail along the Burlington Northern right-of-way, hoisted up concrete trestles, and dumped into hoppers. The gas produced from it flowed through 1,071 miles of main to serve Seattle, Renton, Kent, and Tukwila. In 1937, rising costs forced a switch from coal to oil as the primary feedstock, and new generator pairs were built in the 1940s to meet wartime demand. The plant also produced toluene, an essential ingredient in TNT and gunpowder, making it a contributor to the national war effort. By 1954, the plant served 36,200 customers with a rotating workforce of about 130 employees. Production ceased in 1956 when Seattle converted to natural gas, and the towers fell silent.
+
+## An Architect's Radical Idea
+
+When the city purchased the abandoned gas works for $1.34 million using Forward Thrust bonds, the assumption was that everything would be torn down. Richard Haag had a different vision. Retained by the Seattle Park Board in 1970, Haag opened an on-site office and realized he was looking at the last coal gasification plant in the United States, a piece of industrial archaeology that deserved preservation rather than demolition. His 1971 master plan proposed something unprecedented: keep the towers, recycle the buildings and machinery, and remediate the contaminated soil through biophytoremediation, layering sewage sludge and sawdust over the poisoned ground to let biology do the cleaning. The public needed convincing. Myrtle Edwards, the city councilwoman who had championed acquiring the site, died in a car crash in 1969 before seeing the park realized. Her family later asked that her name be removed from the project because the design retained the industrial structures. The Park Board approved Haag's plan unanimously.
+
+## Towers, Trestles, and a Human Sundial
+
+The park opened to the public in 1975 and was added to the National Register of Historic Places in 2013. Its seven areas each repurpose the industrial landscape differently. The Great Mound, built from thousands of cubic yards of rubble from demolished building foundations and topped with fresh soil, serves as a kite-flying hill. At its summit, artists Chuck Greening and Kim Lazare created a sundial made of concrete, rocks, shells, glass, and bronze that uses the visitor's own body as the gnomon: you stand on the dial and your shadow tells the time and season. The old pump house became the play barn, with most of the original compressors and piping still in place. The boiler house became a picnic shelter, its original boiler tubes still visible. Concrete train trestles from 1906 now form the park entrance. Even the Prow, a concrete platform built in 1936 for unloading coal, was fitted with handrails and integrated into the design. Paul Goldberger of the New York Times called it "one of the nation's most advanced pieces of urban landscape design."
+
+## Where Industry Meets the Everyday
+
+Gas Works Park has become one of Seattle's most intensively used public spaces. It hosts Independence Day fireworks, serves as the traditional endpoint of the Fremont Solstice Cyclists, and marks the starting point of Seattle's World Naked Bike Ride. The Burke-Gilman Trail passes through it, connecting the park to a network of cycling and walking paths that stretches to Redmond. Political rallies have filled the lawns. Peace concerts once drew crowds here every summer. But the park carries a tension between preservation and safety that remains unresolved. Since 2008, the industrial towers have been the site of at least fourteen documented fall-related incidents, including three fatalities. The city's Parks Department has recommended removing ladders, catwalks, and platforms from the structures, but the Landmarks Preservation Board has resisted, calling for further study. The debate over whether these towers are monuments or hazards continues, a question Haag's original vision did not anticipate. The soil beneath the lawns, though bioremediated, still carries traces of its industrial past, and swimming in Lake Union near the park remains prohibited.
+
+## Flight Context
+
+Gas Works Park occupies a distinctive promontory at 47.646N, 122.335W, projecting 400 feet into Lake Union from its north shore. The six generator towers are visible from altitude as a tight cluster of dark vertical structures on a green peninsula, unmistakable against the blue water. The Great Mound (kite hill) is visible as a raised green dome. Lake Union itself is the central body of water in Seattle's urban core, connected to Puget Sound via the Lake Washington Ship Canal. Nearest airports: Boeing Field (KBFI) 5nm south, Kenmore Air Harbor (S60) 7nm north, Renton Municipal (KRNT) 10nm southeast. Best viewed at 2,000-3,000 feet approaching from the south, where the towers silhouette against the Wallingford neighborhood and the Cascade foothills beyond.
+
+## Sources
+
+- [Gas Works Park - Wikipedia](https://en.wikipedia.org/?curid=757623)
+- [Gas Works Park (Seattle) - HistoryLink.org](https://www.historylink.org/File/20978)
+  - Seattle Gas Light Company began purchasing lots in 1900; plant went into operation 1906
+  - Production ceased 1956 when Seattle converted to natural gas
+  - City purchased site using Forward Thrust bonds for $1.34 million
+  - Richard Haag retained by Seattle Park Board in 1970
+  - Park opened to public 1975
+  - Added to National Register of Historic Places in 2013
+  - Park acreage: story says 20.5 acres; Wikipedia cites 19.1 acres upland; total with water area varies by source (19-21 acres); 20.5 is within the range cited by some sources
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 9 facts verified · 0 corrections
+
+Verified: plant operation 1906-1956, city purchased for .34M via Forward Thrust bonds, Haag retained 1970, park opened 1975, NRHP listed 2013. Acreage 20.5 (story) vs 19.1 (Wikipedia upland only) — discrepancy due to different boundary definitions; within acceptable range per multiple sources. Spiciness 2.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- The debate over whether the towers are monuments or hazards is framed as unresolved, with implicit sympathy for the Landmarks Preservation Board's preservationist position
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

@@ -1,0 +1,68 @@
+# Battle of Camaron
+
+On April 30, 1863, sixty-five French Foreign Legionnaires held off 2,000 Mexican soldiers for nearly eleven hours at a hacienda near Veracruz -- a tactical defeat that became the Legion's founding myth and is commemorated every year by both nations.
+
+**Location:** 19.0231, -96.6136
+
+**Categories:** battles, military-history, french-foreign-legion, mexico, veracruz, last-stands, nineteenth-century
+
+## Introduction
+
+Captain Jean Danjou had already lost his left hand in Algeria. He wore a wooden prosthesis, carved and articulated, that allowed him to grip a sword. On the morning of April 30, 1863, he led sixty-four men of the French Foreign Legion's 3rd Company on a routine convoy escort through the lowlands west of Veracruz. By nightfall, Danjou was dead, most of his men were dead or wounded, and the wooden hand had begun its long journey toward becoming the most venerated relic in French military history. The Battle of Camaron -- Camerone in French -- was a catastrophe by any tactical measure. But for the Legion, it became something more potent than a victory: a founding myth built on the refusal to surrender.
+
+## Sixty-Five Against Two Thousand
+
+The French were in Mexico as part of the Second French Intervention, supporting Emperor Napoleon III's plan to install Maximilian of Habsburg on a Mexican throne. A French army under General Forey was besieging the city of Puebla, and the Legion's 1st and 2nd Battalions, under Colonel Pierre Jeanningros, had arrived in Veracruz on March 26 to guard the supply lines. On April 30, Danjou's company was escorting a convoy when it encountered a force of approximately 2,000 Mexican soldiers -- cavalry and infantry -- near the village of Camaron de Tejeda. Outnumbered more than thirty to one, the legionnaires took refuge in the Hacienda Camaron, a walled compound that offered some defensive cover. The Mexicans called on them to surrender repeatedly. Danjou refused each time, and his men swore an oath to fight to the death.
+
+## Eleven Hours in the Hacienda
+
+The fighting lasted nearly eleven hours. Danjou was killed by a bullet around midday. Command passed to Lieutenant Vilain, who was also killed. Sub-Lieutenant Maudet took over what remained of the defense. The Mexicans set fire to parts of the hacienda, filled the compound with smoke, and pressed attacks from multiple directions. By late afternoon, only five legionnaires were still standing. When the Mexicans finally overran the position, Maudet led a bayonet charge with the last three men able to fight. They were surrounded. A Mexican officer, reportedly moved by the defense, offered the survivors terms: they could keep their weapons and tend to their wounded commander. The survivors accepted. The engagement inflicted over 300 casualties on the Mexican forces -- a staggering toll given the size of the French detachment. The battle had no strategic consequence. The convoy it was meant to protect was rerouted, and the French intervention in Mexico ended in withdrawal a few years later.
+
+## A Wooden Hand and a Founding Myth
+
+Danjou's wooden prosthetic hand was recovered from the battlefield. It now resides in a glass case at the Legion's headquarters in Aubagne, France, brought out once a year on April 30 for the Camerone Day ceremony. The ritual has been observed since 1906. The youngest officer present reads aloud the account of the battle while legionnaires stand at attention. The names of Danjou, Vilain, and Maudet are inscribed on a plaque at Les Invalides in Paris. The 1st Foreign Regiment carries the Mexican eagle on its unit badge, and the "Camerone" battle streamer sits atop its standard. After the Franco-Prussian War, which dissolved the France that had sent troops to Mexico, the Legion embraced the Camaron tradition as the story that defined what it meant to be a legionnaire: fidelity to the mission, regardless of the odds or the outcome.
+
+## Two Nations Remember
+
+In the village of Camaron de Tejeda -- formerly known as El Camaron -- a monument erected by the Mexican government in 1964 honors the Mexican soldiers who fought in the battle. On the outskirts of the village, a memorial and parade ground called El Mausoleo covers the resting place of French and Mexican remains disinterred in the 1960s. A Latin inscription on the platform reads: "Here no more than sixty opposed a whole army. The mass overwhelmed them. Life rather than courage abandoned these French soldiers." Every April 30, the Mexican government holds ceremonies at the site with political speeches and a parade of military units. The village holds a fiesta on the same day. Representatives of the French military sometimes attend, and retired legionnaires visit the site. It is tradition that any Mexican soldier passing the monument turns toward it and offers a salute -- an acknowledgment that courage, even in a losing cause, earns respect from both sides of the battlefield.
+
+## Flight Context
+
+Located at 19.023N, 96.614W, approximately 64 km west of the city of Veracruz, in the lowland interior of the state of Veracruz. The village of Camaron de Tejeda sits along secondary roads roughly 25-30 km west of Soledad de Doblado. From altitude, the area is flat agricultural terrain with scattered small towns. The memorial site (El Mausoleo) is on the edge of the village near the cemetery. Nearest major airport is Veracruz International (MMVR), approximately 65 km east. Tropical conditions; expect humidity and possible afternoon convective activity.
+
+## Sources
+
+- [Battle of Camarón - Wikipedia](https://en.wikipedia.org/?curid=4342598)
+  - April 30, 1863 date confirmed
+  - 65 men total (Danjou + 64) confirmed
+  - ~2,000 Mexican soldiers confirmed
+  - Captain Jean Danjou lost left hand, wore wooden prosthesis confirmed
+  - Fighting lasted nearly eleven hours confirmed
+  - Danjou killed around midday confirmed
+  - Command passed to Vilain then Maudet confirmed
+  - Final bayonet charge by last three able men confirmed
+  - Mexican officer offered survivors terms to keep weapons and tend wounded confirmed
+  - Danjou's wooden hand now at Legion headquarters in Aubagne confirmed
+  - Camerone Day ceremony observed since 1906 confirmed
+  - Names inscribed at Les Invalides confirmed
+  - Monument erected by Mexican government in 1964 confirmed
+- [Battle of Camarón - Britannica](https://www.britannica.com/event/Battle-of-Camaron)
+  - Over 300 casualties on Mexican side verified (noting sources vary; some cite 800+ total including wounded)
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 13 facts verified · 0 corrections
+
+Verified April 30 1863, 65 legionnaires vs ~2000 Mexicans, 11-hour battle, Danjou killed midday, Vilain/Maudet succession, Camerone Day since 1906, wooden hand at Aubagne, monument 1964. Casualty figure 300+ verified (sources vary 300-800+ for killed+wounded). Spiciness 3.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Describes the battle as a 'founding myth built on the refusal to surrender'
+- Frames Legion's embrace of defeat as 'more potent than a victory'
+
+---
+
+*Word count: 790*
+*Read time: 4 minutes*

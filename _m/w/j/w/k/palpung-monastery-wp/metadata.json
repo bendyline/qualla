@@ -146,5 +146,24 @@
     "_m/w/j/q/6/batang-sichuan-wp/maps-sichuan-province.png",
     "_m/w/j/q/6/batang-sichuan-wp/hero.jpg",
     "_m/w/j/w/k/palpung-monastery-wp/view-palpung-monastery.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wjwk-palpung-monastery-flight-context.mp3",
+      "wjwk-palpung-monastery-intro.mp3",
+      "wjwk-palpung-monastery-roots-in-12th-century-kham.mp3",
+      "wjwk-palpung-monastery-where-karmapas-were-crowned.mp3",
+      "wjwk-palpung-monastery-flight-and-rebuilding.mp3",
+      "wjwk-palpung-monastery-three-hundred-branches-one-root.mp3"
+    ],
+    "durations": {
+      "wjwk-palpung-monastery-flight-context.mp3": 44.0945416,
+      "wjwk-palpung-monastery-intro.mp3": 43.6737083,
+      "wjwk-palpung-monastery-roots-in-12th-century-kham.mp3": 60.03575,
+      "wjwk-palpung-monastery-where-karmapas-were-crowned.mp3": 65.781875,
+      "wjwk-palpung-monastery-flight-and-rebuilding.mp3": 59.7807083,
+      "wjwk-palpung-monastery-three-hundred-branches-one-root.mp3": 64.6960416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

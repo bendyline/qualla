@@ -118,5 +118,26 @@
   "galleryPaths": [
     "_m/u/k/y/m/convoy-pq-13-wp/british-fiji-class-cru.jpg",
     "_m/u/k/y/m/convoy-pq-13-wp/image-enigma-machine-i.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "ukym-convoy-pq-13-flight-context.mp3",
+      "ukym-convoy-pq-13-intro.mp3",
+      "ukym-convoy-pq-13-churchills-arctic-promise.mp3",
+      "ukym-convoy-pq-13-a-war-of-codes.mp3",
+      "ukym-convoy-pq-13-scattered-by-the-storm.mp3",
+      "ukym-convoy-pq-13-attacked-from-every-direction.mp3",
+      "ukym-convoy-pq-13-the-cost-of-the-arctic-run.mp3"
+    ],
+    "durations": {
+      "ukym-convoy-pq-13-flight-context.mp3": 41.0572916,
+      "ukym-convoy-pq-13-intro.mp3": 49.7286666,
+      "ukym-convoy-pq-13-churchills-arctic-promise.mp3": 59.7722916,
+      "ukym-convoy-pq-13-a-war-of-codes.mp3": 53.0458333,
+      "ukym-convoy-pq-13-scattered-by-the-storm.mp3": 47.5536666,
+      "ukym-convoy-pq-13-attacked-from-every-direction.mp3": 73.5595416,
+      "ukym-convoy-pq-13-the-cost-of-the-arctic-run.mp3": 58.5948333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

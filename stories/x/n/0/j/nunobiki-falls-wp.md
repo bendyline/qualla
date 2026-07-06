@@ -1,0 +1,69 @@
+# Nunobiki Falls
+
+One of Japan's three sacred waterfalls hides in plain sight, a fifteen-minute walk from the bullet train station in downtown Kobe -- where tenth-century poets once held verse contests beneath the cascade.
+
+**Location:** 34.7097, 135.1939
+
+**Categories:** waterfall, natural-landmark, japanese-literature, cultural-heritage, kobe
+
+## Introduction
+
+Fifteen minutes. That is all it takes to walk from the Shin-Kobe bullet train station -- where salarymen clutch briefcases and tourists consult departure boards -- into a mountain gorge where water has been falling over granite for millennia. Nunobiki Falls sits so close to central Kobe that you can hear the city below while standing in its mist. The name means "pulled cloth," and the comparison is exact: the tallest cascade, Ontaki, drops 43 meters in a single white sheet that looks less like falling water than a bolt of silk unrolled from the mountainside. For over a thousand years, this improbable urban wilderness has drawn poets, painters, ascetic monks, and now hikers in running shoes, all of them pausing beneath the same spray that inspired some of the oldest verses in Japanese literature.
+
+## Four Falls in a Single Gorge
+
+Nunobiki is not one waterfall but four, stacked along a forested ravine on the lower slopes of Mount Rokko. Ontaki, the grandest, commands the upper gorge with its unbroken 43-meter plunge. Below it, Mentaki splits its flow around mossy boulders in a gentler, more intimate cascade. Tsutsumigadaki pools briefly before tumbling onward, and Meotodaki -- the "husband and wife falls" -- runs as a pair of streams that merge at the base. Together they form one of Japan's three "divine waterfalls," a designation shared only with Kegon Falls in Tochigi Prefecture and Nachi Falls in Wakayama Prefecture. The ranking is ancient, rooted in Shinto reverence for places where water, stone, and forest converge with particular force. At Nunobiki, that convergence happens within earshot of a major metropolitan transit hub, a juxtaposition that still catches visitors off guard.
+
+## Ink and Verse at the Cascade
+
+The falls entered Japanese literature more than a thousand years ago through the Tales of Ise, a tenth-century collection of poems and narrative episodes that ranks among the foundational works of Japanese prose. In one famous passage, a minor court official brings his guests to Nunobiki for a poetry contest. A commander of the guards composes a verse comparing the height of the waterfall to the fall of his own tears as he waits in vain for a promotion: "Which, I wonder, is higher -- this waterfall or the fall of my tears, as I wait in vain, hoping today or tomorrow to rise in the world." The host answers with his own poem, likening the cascading water to unstrung gems too numerous for his sleeves to hold. Centuries of artists followed. Meiji-era photographers Kusakabe Kimbei among them made the falls a favorite subject, their hand-tinted prints of Ontaki circulating through parlors in Boston and London. A dedicated anthology, The Poems of Nunobiki Falls, compiled by David Farrah and Michio Nakano, gathers the centuries of verse this single gorge inspired.
+
+## Legends in the Mist
+
+Kobe City has preserved a cycle of folk tales tied to the falls, each layering another strand of meaning onto the site. One story places Sarasvati, the Buddhist deity of water and music, within the cascade itself. Another connects the falls to Ariwara no Yukihira and Ariwara no Narihira, the aristocratic brothers whose romantic exploits fill the Tales of Ise and other Heian-period classics. A third credits the mountain ascetic En-no-Gyoja, the semi-legendary founder of Shugendo mountain worship, with discovering the sacred power of the gorge. The most enigmatic tale describes a mysterious palace hidden beneath the waterfall basin, a submerged otherworld that echoes similar stories told at sacred water sites across Japan. These are not dusty museum pieces. The trails that connect the four falls still carry the atmosphere of a pilgrimage path, with stone steps worn smooth and cedar shade so deep that midday feels like dusk.
+
+## An Oasis Above the Skyline
+
+The modern trail system links Nunobiki Falls to the Kobe Nunobiki Herb Gardens, accessible by ropeway from the hillside above Shin-Kobe Station. The gondola ride offers a striking reversal of perspective: riders ascend from the dense urban grid of Kobe into forest canopy, passing over the falls gorge with Osaka Bay spreading out behind them. At the top, terraced gardens hold some 200 varieties of herbs and flowers, with a glasshouse, a fragrance museum, and panoramic decks overlooking the city, the port, and on clear days, Awaji Island across the water. The falls themselves remain free to visit year-round, their trails maintained by the city as a public park. In summer, the gorge is measurably cooler than the streets below, drawing lunchtime joggers and dog-walkers who treat one of Japan's most celebrated natural landmarks as a neighborhood shortcut.
+
+## Flight Context
+
+Located at 34.71N, 135.19E on the lower slopes of Mount Rokko, directly behind downtown Kobe. The falls gorge is not easily visible from altitude, but the Nunobiki Herb Gardens ropeway line cutting up the hillside provides a visual reference. Kobe Airport (RJBE) sits on an artificial island approximately 8 km south in the harbor. Kansai International Airport (RJBB) is 43 km to the southwest across Osaka Bay. Osaka Itami Airport (RJOO) is roughly 25 km to the northeast. The coastline of Kobe, with its distinctive artificial islands (Port Island and Rokko Island) and the red lattice of Kobe Port Tower, provides excellent landmarks for orientation. Best viewed at lower altitudes when approaching from over the harbor toward the Rokko mountain range.
+
+## Sources
+
+- [Nunobiki Falls - Wikipedia](https://en.wikipedia.org/?curid=4709077)
+  - Four separate falls: Ontaki, Mentaki, Tsutsumigadaki, Meotodaki confirmed
+  - One of three divine waterfalls alongside Kegon Falls and Nachi Falls confirmed
+  - Tales of Ise poetry contest passage confirmed with quoted verses
+  - Kusakabe Kimbei Meiji-era photographer confirmed
+  - David Farrah and Michio Nakano compiled The Poems of Nunobiki Falls confirmed
+  - Folk tales collected by Kobe City (Sarasvati, Ariwara brothers, En-no-Gyoja, mysterious palace) confirmed
+- [Japan National Tourism Organization - Nunobiki Falls](https://www.japan.travel/en/spot/1035/)
+  - Ontaki height of 43 meters confirmed
+  - Name meaning 'pulled cloth' from draped appearance confirmed
+  - Proximity to Shin-Kobe Station confirmed
+- [Kobe Nunobiki Herb Gardens - feel-kobe.jp](https://www.feel-kobe.jp/en/facilities/detail/?id=1712)
+  - Herb gardens accessible by ropeway above Shin-Kobe Station confirmed
+- [Final review - independent verification](https://en.wikipedia.org/wiki/Nunobiki_Falls)
+  - Four waterfalls (Ontaki, Mentaki, Tsutsumigadaki, Meotodaki) confirmed
+  - Ontaki 43 meters confirmed via JNTO
+  - One of three divine waterfalls with Kegon Falls (Tochigi) and Nachi Falls (Wakayama) confirmed
+  - Tales of Ise episode 87 poetry contest at Nunobiki confirmed via Smithsonian and Harvard Art Museums
+  - Commander of guards verse about tears and promotion confirmed
+  - Kusakabe Kimbei Meiji-era photographer documented falls circa 1890 confirmed
+  - Herb gardens ~200 varieties confirmed via official site (75,000 plants of about 200 kinds)
+  - Ropeway from near Shin-Kobe Station confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-18 · 12 facts verified · 0 corrections
+
+All facts verified: four waterfalls, Ontaki 43m, three divine waterfalls designation, Tales of Ise episode 87, Kusakabe Kimbei photographer, herb gardens 200 varieties, ropeway access. Spiciness 1.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

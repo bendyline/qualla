@@ -782,5 +782,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wdqp-taal-volcano-flight-context.mp3",
+      "wdqp-taal-volcano-intro.mp3",
+      "wdqp-taal-volcano-the-lake-that-hides-a-monster.mp3",
+      "wdqp-taal-volcano-the-afternoon-everything-changed.mp3",
+      "wdqp-taal-volcano-a-volcano-that-never-sleeps.mp3",
+      "wdqp-taal-volcano-reading-the-warning-signs.mp3",
+      "wdqp-taal-volcano-living-on-the-edge-of-the-caldera.mp3"
+    ],
+    "durations": {
+      "wdqp-taal-volcano-flight-context.mp3": 46.4743333,
+      "wdqp-taal-volcano-intro.mp3": 46.828875,
+      "wdqp-taal-volcano-the-lake-that-hides-a-monster.mp3": 64.7943333,
+      "wdqp-taal-volcano-the-afternoon-everything-changed.mp3": 65.093875,
+      "wdqp-taal-volcano-a-volcano-that-never-sleeps.mp3": 72.538,
+      "wdqp-taal-volcano-reading-the-warning-signs.mp3": 75.4073333,
+      "wdqp-taal-volcano-living-on-the-edge-of-the-caldera.mp3": 61.5790833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

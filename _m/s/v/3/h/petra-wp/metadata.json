@@ -1086,5 +1086,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sv3h-petra-flight-context.mp3",
+      "sv3h-petra-intro.mp3",
+      "sv3h-petra-desert-engineers.mp3",
+      "sv3h-petra-carved-from-the-living-rock.mp3",
+      "sv3h-petra-from-kingdom-to-province.mp3",
+      "sv3h-petra-rediscovery-and-recognition.mp3",
+      "sv3h-petra-the-city-that-endures.mp3"
+    ],
+    "durations": {
+      "sv3h-petra-flight-context.mp3": 53.2785,
+      "sv3h-petra-intro.mp3": 49.7185416,
+      "sv3h-petra-desert-engineers.mp3": 56.21825,
+      "sv3h-petra-carved-from-the-living-rock.mp3": 68.0260416,
+      "sv3h-petra-from-kingdom-to-province.mp3": 69.4185,
+      "sv3h-petra-rediscovery-and-recognition.mp3": 69.70875,
+      "sv3h-petra-the-city-that-endures.mp3": 81.1142083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

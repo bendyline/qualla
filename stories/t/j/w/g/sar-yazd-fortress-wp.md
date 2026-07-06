@@ -1,0 +1,62 @@
+# Sar Yazd Fortress
+
+A Sassanid-era fortress in Yazd province that served as the ancient world's safe deposit box -- 480 locked rooms where merchants on the Silk Road and Spice Route could store gold, grain, and anything else they could not afford to lose.
+
+**Location:** 31.6011, 54.5276
+
+**Categories:** Castles in Iran, Buildings and structures on the Iran National Heritage List, Sasanian castles
+
+## Introduction
+
+Four hundred and eighty rooms, each one locked, each one accessible only to its owner. Sar Yazd Fortress was not a palace or a barracks. It was a vault -- a community strongbox built from adobe on the Iranian plateau, positioned at the crossroads where the Silk Road met the Spice Route. For centuries, the people of Yazd province entrusted their gold, their jewels, and their grain to its walls, knowing that a moat and two concentric rings of fortification stood between their valuables and anyone who came to take them. The concept is strikingly modern. The execution is roughly 1,500 years old.
+
+## Where Two Roads Crossed
+
+Location determined everything for Sar Yazd. The fortress sits 50 kilometers south of the city of Yazd, which during the Sassanid era was a major urban center and one of the heartlands of Zoroastrian religious life. The region sat at the junction of two of the ancient world's most important trade networks: the Silk Road, carrying goods between China and the Mediterranean, and the Spice Route, linking the Indian Ocean trade to overland caravans heading west. Where trade routes cross, wealth accumulates. And where wealth accumulates, someone always comes to take it. Raiding parties and invading armies looked for two things above all: portable valuables and food. Sar Yazd was designed to deny them both.
+
+## The Architecture of Distrust
+
+Built sometime between the 3rd and 7th centuries AD, Sar Yazd Fortress is constructed entirely of adobe -- sun-dried mud brick that has proved remarkably durable in the arid climate of central Iran. Its defenses follow a layered logic. The outer wall rises six meters from the ground. Behind it, the inner wall climbs to nine meters. A moat circles the entire structure, adding yet another barrier. Inside, the fortress contains 480 individual rooms, each fitted with locks that only the depositor could open. Think of it as a Sassanid-era bank: merchants passing through on caravan routes could store their most valuable cargo here rather than risk it on the open road, retrieving it on the return journey or sending trusted agents to collect it.
+
+## A Zoroastrian Stronghold
+
+The fortress did not exist in isolation. Yazd and its surrounding region were deeply connected to Zoroastrianism, the dominant religion of pre-Islamic Iran. The Sassanid dynasty, which ruled from roughly 224 to 651 AD, made Zoroastrianism the state religion, and Yazd remained one of its most important centers. The communal nature of Sar Yazd -- a shared fortress where everyone's goods were protected equally -- reflects a social structure built on mutual obligation and trust. The castle was not a king's treasury. It belonged to the community, a collective answer to the collective problem of living on a route that attracted both commerce and violence in equal measure.
+
+## Ruins and Caravansaries
+
+Today, Sar Yazd Fortress stands in varying states of ruin. Wind and time have softened the adobe walls, and sections have crumbled back into the earth from which they were shaped. But the concentric fortifications remain visible, and the scale of the structure -- hundreds of rooms arrayed within double walls and a moat -- still impresses visitors who make the journey south from Yazd. Two caravansaries stand nearby, remnants of the inn system that once served the Silk Road, where merchants and their animals could rest before continuing their journeys. The Iranian Cultural Heritage Organization recognized the fortress's significance in 1975, registering it as a national heritage site under number 1084. The desert has not been kind to the adobe, but the bones of the building endure.
+
+## Flight Context
+
+Located at 31.6011N, 54.5276E in the village of Sar Yazd, roughly 50 km south of the city of Yazd in central Iran. Nearest airport is Yazd Shahid Sadooghi Airport (OIYY), approximately 55 km to the north-northwest. The fortress is visible from moderate altitude as a large adobe compound with concentric wall rings set against the desert floor. Two nearby caravansary ruins mark the old trade route. The terrain is flat, arid plateau with excellent visibility in clear weather. The nearby Mehrpadin Castle at Mehriz lies a few kilometers to the west.
+
+## Sources
+
+- [Sar Yazd Fortress - Wikipedia](https://en.wikipedia.org/?curid=61541460)
+  - 480 rooms figure confirmed (Wikipedia and Lonely Planet; note: many Iranian tourism sources cite 468 — discrepancy in survey counts)
+  - Constructed between 3rd and 7th centuries AD (Sassanid era) confirmed
+  - Outer wall 6 meters height confirmed
+  - Inner wall 9 meters height confirmed
+  - Located 50 km south of Yazd confirmed
+  - Moat surrounding structure confirmed
+  - Adobe construction confirmed
+  - National heritage registration number 1084 (1975) confirmed
+  - Sassanid dynasty ruled 224 to 651 AD confirmed
+  - Two caravansaries nearby confirmed
+  - Fortress at intersection of Silk Road and Spice Route confirmed
+- [Saryazd Fortress - Lonely Planet](https://www.lonelyplanet.com/iran/saryazd/attractions/saryazd-fortress/a/poi-sig/1443863/1332596)
+  - 480 rooms figure corroborated
+  - Adobe construction and communal storage purpose confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-01 · 11 facts verified · 0 corrections
+
+Verified all key facts: 480 rooms (consistent with Wikipedia and Lonely Planet; many Iranian sources cite 468 — noted in claimsVerified), Sassanid era 3rd-7th century AD, outer wall 6m/inner wall 9m, 50km south of Yazd, national heritage number 1084 registered 1975, moat, adobe construction, two caravansaries nearby, Silk Road/Spice Route intersection. No factual errors found. No empathy/dignity issues. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 710*
+*Read time: 4 minutes*

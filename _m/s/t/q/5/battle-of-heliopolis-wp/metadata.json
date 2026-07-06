@@ -65,5 +65,24 @@
     "sourceGeohash4": "stq5"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "stq5-battle-of-heliopolis-flight-context.mp3",
+      "stq5-battle-of-heliopolis-intro.mp3",
+      "stq5-battle-of-heliopolis-two-empires-exhausted.mp3",
+      "stq5-battle-of-heliopolis-the-blow-that-broke-byzantiums-grip.mp3",
+      "stq5-battle-of-heliopolis-the-conquest-unfolds.mp3",
+      "stq5-battle-of-heliopolis-a-mediterranean-divided.mp3"
+    ],
+    "durations": {
+      "stq5-battle-of-heliopolis-flight-context.mp3": 42.7977083,
+      "stq5-battle-of-heliopolis-intro.mp3": 50.7169583,
+      "stq5-battle-of-heliopolis-two-empires-exhausted.mp3": 53.5653333,
+      "stq5-battle-of-heliopolis-the-blow-that-broke-byzantiums-grip.mp3": 54.9540416,
+      "stq5-battle-of-heliopolis-the-conquest-unfolds.mp3": 57.57175,
+      "stq5-battle-of-heliopolis-a-mediterranean-divided.mp3": 64.7365833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

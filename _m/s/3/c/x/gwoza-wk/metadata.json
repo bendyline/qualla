@@ -83,5 +83,24 @@
   ],
   "galleryPaths": [
     "_m/s/3/c/x/gwoza-wk/map-locator-nigeria.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "s3cx-gwoza-flight-context.mp3",
+      "s3cx-gwoza-intro.mp3",
+      "s3cx-gwoza-where-mountains-meet-the-sahel.mp3",
+      "s3cx-gwoza-the-year-the-insurgents-came.mp3",
+      "s3cx-gwoza-rebuilding-in-the-shadow-of-the-mountains.mp3",
+      "s3cx-gwoza-a-landscape-worth-knowing.mp3"
+    ],
+    "durations": {
+      "s3cx-gwoza-flight-context.mp3": 46.7140416,
+      "s3cx-gwoza-intro.mp3": 46.3886666,
+      "s3cx-gwoza-where-mountains-meet-the-sahel.mp3": 70.4705833,
+      "s3cx-gwoza-the-year-the-insurgents-came.mp3": 60.6158333,
+      "s3cx-gwoza-rebuilding-in-the-shadow-of-the-mountains.mp3": 62.2639583,
+      "s3cx-gwoza-a-landscape-worth-knowing.mp3": 56.9787083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

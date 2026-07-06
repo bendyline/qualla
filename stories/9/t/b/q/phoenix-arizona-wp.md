@@ -1,0 +1,71 @@
+# Phoenix, Arizona
+
+America's fifth-largest city rose from the ruins of the Hohokam civilization, transforming ancient irrigation canals into a modern metropolis where five million people thrive in the Sonoran Desert.
+
+**Location:** 33.4483, -112.0739
+
+**Categories:** Cities, State Capitals, American Southwest, Desert Communities, Urban History
+
+## Introduction
+
+The name came from Lord Darrell Duppa, an English settler who saw something profound in the dirt mounds scattered across the Salt River Valley in 1867. Those eroded ridges marked ancient canals - waterways carved by the Hohokam people who had farmed this desert for 2,000 years before mysteriously vanishing around 1450. Duppa recognized a city being born from the ruins of a former civilization. He called it Phoenix. Today, that symbolic rebirth has produced America's fifth-largest city, where 1.6 million people live in a metropolitan area of over five million - the hottest, sunniest major city on Earth.
+
+## The Canals That Made a City
+
+The Hohokam created roughly 500 miles of irrigation canals, making the Sonoran Desert bloom long before Europeans arrived. They traded with Ancestral Puebloans, Mogollon, and distant Mesoamerican civilizations. When prolonged droughts and catastrophic floods drove them away between 1300 and 1450, the Akimel O'odham (Pima), Tohono O'odham, and Maricopa tribes moved in, establishing their own agricultural communities. The old canal paths never disappeared. When Confederate veteran Jack Swilling rode through in 1867 and recognized the potential for farming, he founded the Swilling Irrigation and Canal Company and began digging along those ancient routes. Modern Phoenix's water infrastructure - the Arizona Canal, Central Arizona Project Canal, and Hayden-Rhodes Aqueduct - all follow paths first carved by Hohokam engineers over a thousand years ago.
+
+## The Five C's
+
+Phoenix incorporated as a city in 1881 with just 2,500 residents. By 1889, it had become the territorial capital. The Santa Fe, Prescott and Phoenix Railway arrived in 1895, connecting the young city to northern Arizona. Then came President Theodore Roosevelt's National Reclamation Act of 1902, enabling construction of Salt River Dam No. 1 - the first multi-purpose dam, supplying both water and electricity. Roosevelt dedicated it personally on March 18, 1911; at the time, it was the largest masonry dam in the world. Arizona achieved statehood on February 14, 1912, making Phoenix a state capital. The economy ran on what locals called the Five C's: cotton, cattle, citrus, climate, and copper. These agricultural and mining foundations sustained the city for decades, even as the population grew from 29,000 in 1920 to 48,000 by 1930.
+
+## Air-Conditioned Dreams
+
+World War II transformed everything. Phoenix became a distribution center and embryonic industrial city, producing military supplies and hosting training bases. After the war, servicemen who had trained in Arizona's year-round sunshine returned with their families. The labor pool attracted high-tech companies. But the real revolution was mechanical: air conditioning. A city that had just 65,000 residents in 1940 exploded to over 105,000 by 1950. The population doubled each decade through the mid-2000s, driven by affordable housing, plentiful jobs, and the promise of eternal summers made bearable by refrigerated air. Phoenix became the nation's fastest-growing major city, a sprawling grid of wide streets and tract homes spreading across the Valley of the Sun.
+
+## The Hottest City
+
+Phoenix receives 3,872 hours of bright sunshine annually - more than any other major city on Earth, comparable to the Sahara. Average summer highs exceed 100 degrees Fahrenheit for over 100 days per year. The all-time recorded high reached 122 degrees on June 26, 1990. In 2024, the city endured an unprecedented 113-day streak of temperatures above 100 degrees, lasting from late May through mid-September. The urban heat island effect means the pavement, sidewalks, and buildings store the sun's heat and radiate it at night, keeping summer lows in the 90s. Yet people keep coming. The monsoon season brings dramatic thunderstorms, flash floods, and haboobs - massive dust storms that can engulf the city. Water remains the eternal question: in June 2023, Arizona halted new housing developments in the Phoenix area that rely solely on groundwater.
+
+## Desert Metropolis
+
+From the air, Phoenix reveals itself as a precise grid interrupted by scattered mountain ranges: Camelback Mountain and Piestewa Peak rise from the valley floor, while South Mountain forms a southern boundary and the Superstition Mountains mark the eastern horizon. The Salt River runs through but is usually dry, its waters diverted for irrigation. Fifteen urban villages, from Ahwatukee Foothills to Paradise Valley, form distinct neighborhoods within the greater city. The Sonoran Desert's signature saguaro cacti stand sentinel in the suburbs, while rosy-faced lovebirds - escaped pets that established a feral population - nest in untrimmed palm trees. Phoenix defies nature through sheer determination: 1.6 million people living where summer temperatures regularly kill, sustained by ancient canal routes and modern engineering, rising eternally from the desert like its mythical namesake.
+
+## Flight Context
+
+Located at 33.45N, 112.07W in the Salt River Valley. Phoenix Sky Harbor International Airport (KPHX) sits just east of downtown, one of the busiest airports in the Southwest. The city sprawls across a flat valley floor punctuated by Camelback Mountain (2,704 feet) to the northeast and South Mountain (2,690 feet) to the south. Approach from the east for views of the Superstition Mountains, or from the west over the White Tank Mountains. Phoenix Deer Valley Airport (KDVT) serves general aviation north of the city. Expect extreme turbulence on summer afternoons during monsoon season (June 15-September 30). Visibility typically excellent except during dust storms.
+
+## Sources
+
+- [Phoenix, Arizona - Wikipedia](https://en.wikipedia.org/?curid=49121)
+  - Fifth-largest US city confirmed (population ~1.68 million, metro 4.8+ million)
+  - Hohokam civilization farmed Salt River Valley for roughly 2,000 years
+  - Lord Darrell Duppa named the settlement Phoenix in 1867
+  - Arizona statehood February 14, 1912 confirmed
+- [USBR - Theodore Roosevelt Dam History](https://www.usbr.gov/lc/phoenix/projects/rooseveltdam/rdhistory.html)
+  - Roosevelt Dam was first major project under 1902 Reclamation Act
+  - Dam dedicated March 18, 1911 (article incorrectly states May 18, 1911 - CORRECTED)
+  - Was world's largest masonry dam at time of completion
+- [AZPM - Phoenix ends streak of 100-degree days at 113](https://news.azpm.org/p/weather/2024/9/17/221828-phoenix-ends-its-streak-of-100-degree-days-at-113-consecutive-days/)
+  - 113 consecutive days above 100 degrees in 2024 confirmed
+  - Streak ran from May 27 through mid-September 2024
+- [CNN - Arizona Phoenix groundwater limits](https://www.cnn.com/2023/06/01/us/arizona-phoenix-groundwater-limits-development-climate/index.html)
+  - June 2023 Arizona halted new housing developments relying on groundwater confirmed
+  - Record high of 122 degrees on June 26, 1990 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-05 · 14 facts verified · 1 correction
+
+Corrected Roosevelt Dam dedication date from May 18 to March 18, 1911. Verified population rank, Hohokam history, Duppa naming, 2024 heat streak (113 days), all-time temp record (122F), 2023 groundwater halt. Spiciness 2.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Phoenix defies nature through sheer determination
+- Air conditioning as 'the real revolution'
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

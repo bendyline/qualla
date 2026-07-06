@@ -1,0 +1,62 @@
+# Copper Basin (Tennessee)
+
+A valley in the Appalachian Mountains where copper mining created one of America's worst environmental disasters, visible from space, and sparked a landmark Supreme Court case.
+
+**Location:** 35.0200, -84.3600
+
+**Categories:** Mining History, Environmental Disasters, Tennessee, Appalachian Mountains, Civil War History
+
+## Introduction
+
+For decades, astronauts could spot it from orbit: a rust-colored scar in the green folds of the southern Appalachians where nothing grew. The Copper Basin, tucked into the southeastern corner of Tennessee near the Georgia and North Carolina borders, covers roughly 60,000 acres of Polk County. Copper was discovered here in 1843, and the mining that followed produced strategic metal for a nation at war with itself, sulfuric acid for twentieth-century industry, and an environmental catastrophe that left 32,000 acres of landscape barren for more than a century.
+
+## The Confederacy's Copper Vein
+
+German-born businessman Julius Eckhardt Raht spearheaded large-scale mining operations in the basin by the 1850s, after a British agent had purchased the first mining land in 1849 for $30,000. The Hiwassee Mine, the basin's first deep underground operation, opened in 1850, and by 1853 the Old Copper Road connected the basin through the Ocoee Gorge to the East Tennessee and Georgia Railroad at Cleveland. When the Civil War erupted, the Confederacy seized the mines. About 90 percent of the copper used by the Confederate Army came from this remote Appalachian valley. The Union recognized the strategic importance: after the Confederate defeat at the Battle of Missionary Ridge in Chattanooga, control of the mines was restored to Union forces, dealing a major blow to the Southern war effort.
+
+## The Land That Died
+
+The real devastation came after the war. Open-roast heap smelting, introduced in 1891 by the London-based Ducktown Sulphur, Copper and Iron Company, burned sulfur from the ore in open-air heaps. The fumes rose and fell as acid rain across the surrounding hills. Forests had already been logged to fuel the smelters. Without trees, the acidified soil washed away. By the early 1900s, the basin resembled a red desert ringed by green mountains. Georgia sued, claiming the pollution was destroying its forests and crops. In 1907, the U.S. Supreme Court ruled in Georgia v. Tennessee Copper Company that a state could order a private company to stop polluting across state lines. It was a landmark environmental law decision. The company responded by building facilities to condense the toxic fumes into sulfuric acid, turning a waste product into a commodity.
+
+## Boom, Bust, and Dynamite
+
+The basin's labor history was as turbulent as its landscape. A strike in 1899 ended when the Ducktown Sulphur, Copper and Iron Company reaffirmed its policy of refusing to hire union members. In 1939, a more violent strike led to six explosions on Tennessee Valley Authority transmission lines in April 1940, briefly cutting power to the entire basin. Eight miners were convicted of conspiracy against the United States, though the Supreme Court overturned the conviction in 1943. That same year, on January 5, an explosion in the Boyd Mine killed nine workers, injured eleven, and trapped thirty-four others for hours before they were rescued by opening a compressed air line for oxygen. The Burra Burra Mine, the basin's largest, closed in 1958. The final mine shut down on August 27, 1987, and the Tennessee Chemical Company filed for bankruptcy two years later.
+
+## Green Returns to Red Earth
+
+Reforestation began in the 1930s, when the Tennessee Valley Authority and the Tennessee Copper Company launched a joint effort to replant trees and treat the acidic soil with lime. Recovery was painfully slow. For decades, satellite images still showed the copper-red scar amid the Cherokee National Forest. Today, the Ducktown Basin Museum, established in 1978 and housed in the former Tennessee Copper Company headquarters at the Burra Burra Mine, preserves the story of what happened here. The Burra Burra Mine was listed on the National Register of Historic Places in 1983. Many original mining structures still stand. The Ocoee River, which flows through the basin's southwestern section entering from Georgia where it is called the Toccoa, now draws whitewater rafters rather than ore barges. The land is healing, though the memory of what industry did to these mountains has not faded.
+
+## Flight Context
+
+The Copper Basin is located at 35.02N, 84.36W in the Blue Ridge Mountains of southeastern Tennessee, near the Georgia and North Carolina borders. From the air, the basin appears as a broad valley surrounded by mountains including Big Frog Mountain and Little Frog Mountain to the west, and Pack Mountain to the east. While reforestation has significantly reduced the once-barren appearance, the landscape still shows visible differences from surrounding Cherokee National Forest. The Ocoee River gorge is a striking visual landmark to the west. Nearest airports: Copperhill/Ducktown area has no nearby commercial airports; Chattanooga Metropolitan (KCHA) approximately 50nm west-northwest; Lee Gilmer Memorial (KGVL) in Gainesville, GA approximately 60nm south.
+
+## Sources
+
+- [Copper Basin environmental history - Appalachian History](https://www.appalachianhistory.net/2017/08/acid-rain-devastates-tennessees-copper.html)
+  - copper discovered 1843 confirmed
+  - open-roast heap smelting introduced after Civil War confirmed
+  - acid rain devastation confirmed
+  - about 50 square miles stripped of vegetation confirmed
+- [Georgia v. Tennessee Copper Co. - Wikipedia](https://en.wikipedia.org/wiki/Georgia_v._Tennessee_Copper_Co.)
+  - 1907 Supreme Court ruling confirmed
+  - Georgia sued claiming pollution destroying forests and crops confirmed
+  - landmark environmental law decision confirmed
+  - company then built sulfuric acid production facilities confirmed
+- [Copper Basin - Wikipedia](https://en.wikipedia.org/wiki/Copper_Basin)
+  - Ducktown Basin Museum established 1978 confirmed
+  - Burra Burra Mine listed on NRHP 1983 confirmed
+  - final mine shut down August 27 1987 confirmed
+  - TVA and Tennessee Copper Company reforestation effort 1930s confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 11 facts verified · 0 corrections
+
+Verified copper discovery 1843, Georgia v. Tennessee Copper Company 1907 ruling, open-roast heap smelting environmental devastation, TVA reforestation 1930s, Ducktown Basin Museum 1978, Burra Burra Mine NRHP 1983, final mine closed Aug 27 1987. All key facts confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 790*
+*Read time: 4 minutes*

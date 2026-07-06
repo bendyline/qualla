@@ -1,0 +1,63 @@
+# Texada Island
+
+The largest of the Gulf Islands once boasted an opera house, a Chinatown, and J.D. Rockefeller's money -- now its southern half sits virtually deserted, reclaimed by forest.
+
+**Location:** 49.6525, -124.3908
+
+**Categories:** Texada Island, Mining communities in British Columbia, Gulf Islands, Strait of Georgia
+
+## Introduction
+
+Van Anda once had an opera house. It also had a Chinatown, a smelter belching copper fumes, and investors with names like Rockefeller and Mackenzie pouring money into holes punched through the island's bedrock. By 1917, a series of fires had leveled the townsite. Today, Texada Island -- the largest of British Columbia's Gulf Islands at 300 square kilometers -- is a place where the southern half has no permanent residents, the single dirt track connecting it to the populated north deteriorates a little more each year, and the forest is slowly erasing what industry built and abandoned.
+
+## A Name Borrowed Twice
+
+Spanish naval explorer Jose Maria Narvaez originally gave the name Isla de Texada to what is now Lasqueti Island, honoring rear-admiral Felix de Tejada during the 1791 expedition of Francisco de Eliza. When Eliza and Juan Carrasco drew their maps later that year, the name migrated to the present Texada Island. It was a clerical shuffle that stuck, and the Tla'amin Nation -- whose traditional territory includes these waters -- had their own names for these places long before any Spanish cartographer arrived. By Confederation, the north end of the island had become a fishing outport, the beginning of a pattern where Texada's resources would attract outsiders, sustain them briefly, then watch them leave.
+
+## Boom, Bust, and Brimstone
+
+Copper changed everything around 1898 when Olive and Harry Treat discovered the Cornell Mine, rich in copper and gold. A smelter and tramway went up almost overnight, and the settlement named for Carrie Van Anda -- wife of mining capitalist Edward Blewett -- swelled into something resembling a real town. J.D. Rockefeller invested in the iron mines but pulled out quickly, burned by losses from a venture near Everett, Washington. The Union Iron Works of San Francisco picked up the iron operations. Canadian railway magnates William Mackenzie and Donald Mann speculated in the Van Anda mines too. For a few giddy years, Texada produced ore, hosted sail races from Vancouver, and supported enough cultural ambition to warrant an opera house. Then the copper played out, the fires came, and by the early twentieth century the boom was a memory. The island once produced five million tons of limestone annually. Now only a few quarries remain.
+
+## An Island Split in Two
+
+Geography tells the story of modern Texada as clearly as any census. The three settlements -- Gillies Bay, Blubber Bay, and Van Anda -- all cluster on the northern half, connected by two paved roads that meet rural highway standards. South of there, the island is another world entirely. A single deteriorating dirt track leads through unbroken forest toward Anderson Bay, where the last permanent resident left in the 2000s. The journey from the ferry terminal to the southern tip takes three hours on rough four-wheel-drive roads. Two provincial parks occupy the far south, but South Texada Island Provincial Park is accessible only by boat or a long bushwhack through the undergrowth. Mount Shepherd, the island's highest point at 852 meters, rises near the southeastern tip, overlooking territory that is reverting to wilderness in real time.
+
+## Predator-Free No More
+
+Texada has historically lacked the wolves, cougars, and bears found on neighboring islands and the mainland. Without predators, black-tailed Sitka deer multiplied until they became a fixture along the island's roads and a draw for fall hunters. That ecological exception may be ending. In May 2025, a grizzly bear was spotted on Texada after swimming across Malaspina Strait from Powell River. The island's forests -- dominated by unusually large inland lodgepole pines with trunks over half a meter in diameter and heights exceeding 60 meters -- also shelter bald eagles, turkey vultures, and garter snakes. Offshore, all five species of Pacific salmon run through the surrounding Strait of Georgia, and orcas patrol close to shore, hunting the seals that breed on Texada's rocky margins.
+
+## The Quiet That Followed
+
+With a permanent population estimated at roughly 1,200 and shrinking, Texada has settled into a quieter identity. BC Ferries runs ten daily sailings from Powell River to Blubber Bay. The Texada/Gillies Bay Airport offers a 3,000-foot paved runway for private and charter aircraft. Warm summer waters reaching 20 degrees Celsius draw kayakers, swimmers, and campers to Shelter Point Regional Park and the more remote Shingle Beach. A yearly farmers' market, two museums, and farms selling produce to tourists round out the offerings. It is the kind of place where the infrastructure of a vanished economy -- logging roads, abandoned wharves, overgrown airstrips -- becomes the landscape itself, and visitors come precisely because Texada is not trying to be anything other than what it is.
+
+## Flight Context
+
+Located at 49.65°N, 124.39°W in the Strait of Georgia. Texada is unmistakable from altitude -- at 50 km long and 10 km wide, it is the largest Gulf Island. The island runs northwest-southeast with Mount Shepherd (852 m) prominent at the southern tip. Texada/Gillies Bay Airport (CAH3) has a 3,000-ft paved runway near Gillies Bay on the northwest coast. Powell River Airport (CYPW) is 8 km northeast. The BC Hydro Cheekye-Dunsmuir transmission line crosses the island's midsection east-west, visible as a powerline corridor through the forest. Malaspina Strait separates Texada from the mainland to the northeast.
+
+## Sources
+
+- [Texada Island - Wikipedia](https://en.wikipedia.org/?curid=2062734)
+  - Texada Island is the largest of the Gulf Islands at 300.45 km²
+  - Copper discovered around 1898 with the Cornell Mine
+  - Three fires destroyed Van Anda townsite in 1910, 1912, and 1917
+  - Population approximately 1,200 permanent residents
+  - BC Ferries runs sailings from Powell River to Blubber Bay
+  - Texada/Gillies Bay Airport has a 3,000-foot paved runway
+  - Jose Maria Narvaez original naming history and Spanish expedition of 1791
+- [Texada Island History - Gulf Islands Guide](https://www.gulfislandsguide.com/history/texada-island-history/)
+  - Van Anda had an opera house described as the only one north of San Francisco
+  - J.D. Rockefeller invested in iron mines and pulled out
+  - William Mackenzie and Donald Mann speculated in the Van Anda mines
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 7 facts verified · 0 corrections
+
+All facts verified: 300 km² area as largest Gulf Island confirmed, copper discovery ~1898, three fires 1910/1912/1917, population ~1200, Van Anda opera house and Chinatown confirmed. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 850*
+*Read time: 5 minutes*

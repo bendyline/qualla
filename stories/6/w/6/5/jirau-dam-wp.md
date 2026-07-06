@@ -1,0 +1,73 @@
+# Jirau Dam
+
+A colossal hydroelectric dam on the Madeira River that generates 3,750 megawatts of power, earned a UN clean energy certification, and is haunted by worker riots, uncontacted indigenous peoples, and the murder of an environmental activist.
+
+**Location:** -9.2661, -64.6485
+
+**Categories:** Dams in Rondônia, Hydroelectric power stations in Brazil
+
+## Introduction
+
+On 21 June 2016, workers at the Jirau Dam pulled the body of Nilce de Souza Magalhães from the reservoir. Known as Nicinha, she had been missing since January. Her hands and feet were bound with rope, tied to a rock, her body found 400 meters from where she had lived before the dam's construction displaced her. The daughter of rubber tappers from Acre, Nicinha had spent years denouncing human rights violations by the consortium that built the dam. Her murder is not incidental to the story of Jirau — it is the story of Jirau, condensed into a single life and a single act of violence.
+
+## Engineering on a Continental Scale
+
+The Jirau Dam is a 1,100-meter-long structure on the Madeira River in Rondônia, combining an 800-meter arched embankment with concrete sections for its power station and spillway. The embankment stands 63 meters tall with an asphalt core — 17,000 cubic meters of asphalt within 2 million cubic meters of structural material. Its 21 spillway gates can discharge up to 82,000 cubic meters of water per second. Fifty bulb turbines, each rated at 75 megawatts, give the plant a total installed capacity of 3,750 MW, making it one of the largest hydroelectric facilities in the Amazon basin. The reservoir covers 258 square kilometers, of which 135 were the original riverbed. Most of that power flows southeast through the Rio Madeira high-voltage direct current transmission system to feed the cities of southern Brazil.
+
+## The Price Tag and the Politics
+
+Jirau is one half of a twin project. Together with the 3,580 MW Santo Antônio Dam at Porto Velho, it forms the core of the Madeira River hydroelectric complex — a planned four-dam system that would eventually extend to the Brazilian-Bolivian border and into Bolivia itself. The estimated cost of the two Brazilian dams reached $15.6 billion, with $8 billion attributed to Jirau alone. The Brazilian Development Bank added another $1.6 billion in September 2012 to fund six additional turbines and transmission lines. Accelerated after Brazil's 2001–2002 power crisis, the project is part of the Initiative for the Integration of the Regional Infrastructure of South America, a continent-wide effort linking transportation, energy, and communications. If the upstream dams are completed, Bolivian vessels and the Bolivian navy would gain access to the open ocean for the first time in 120 years.
+
+## Riots, Strikes, and Fire
+
+Construction did not proceed smoothly. On 18 March 2011, workers rioted — setting fire to buses and destroying portions of the worker housing. Low wages and the behavior of security officials were blamed. National security forces had to be dispatched, and construction halted. In February 2012, work stopped again. April 2013 brought a strike at both Jirau and Santo Antônio after workers rejected a salary proposal. The New York Times described the pattern as a recurring feature of Brazil's rush to develop hydroelectric power in the Amazon: massive infrastructure projects in remote locations, staffed by thousands of laborers who lived in conditions that bred resentment. The first turbine was commissioned in September 2013 despite the disruptions, the 24th came online in February 2015, and the final unit was operational by December 2016.
+
+## The People the Dam Displaced
+
+The Worldwatch Institute called the licensing process a dangerous precedent, warning that no project should fast-track approval for new dams in Amazonia or circumvent Brazil's environmental laws. The most persistent criticism was social. FUNAI, Brazil's indigenous protection foundation, warned that uncontacted indigenous populations may exist in the region affected by the Madeira complex, with most of the affected communities nearest to Jirau. Nicinha, the murdered activist, was among the fishers evicted by the dam's construction. She and others had been relocated to an encampment without clean water or electricity. For years she attended public hearings, filed complaints about predatory fishing in the Madeira, and challenged the consortium's monitoring reports. Her complaints generated two civil investigations by federal and state prosecutors. Her killer, Edione Pessoa da Silva, confessed — then escaped from prison in April 2016.
+
+## Clean Energy, Dirty Legacy
+
+Because Jirau is a run-of-the-river project, it does not impound a traditional large reservoir, and it includes environmental remediation efforts. These features earned the plant registration under the United Nations Clean Development Mechanism — making Jirau the largest renewable energy facility to receive the CDM designation. Critics note the irony: a dam certified as environmentally friendly whose fish ladders, if they fail, could drive several migratory species to near-extinction. The Madeira is one of the Amazon's most important rivers for fish migration, and the dams now block that ancient route. Jirau generates clean electricity for millions. It also displaced communities, sparked riots, and left Nicinha's body in its reservoir. Both things are true, and the dam stands as a monument to the impossibility of separating one from the other.
+
+## Flight Context
+
+Located at 9.27°S, 64.65°W on the Madeira River in Rondônia. The dam structure and reservoir (258 sq km) are visible from cruising altitude. The companion Santo Antônio Dam is approximately 100 km downstream near Porto Velho. Nearest major airport: Porto Velho (SBPV), approximately 100 km east-southeast. Recommended viewing altitude: 5,000-15,000 feet. The dam's spillway and powerhouse structures are identifiable along the river. The HVDC transmission lines extend southeast toward Brazil's population centers.
+
+## Sources
+
+- [Jirau Dam - Wikipedia](https://en.wikipedia.org/?curid=30811847)
+  - 50 bulb turbines each rated 75 MW, total 3,750 MW confirmed
+  - 1,100-meter-long structure confirmed
+  - Reservoir covers 258 square kilometers confirmed
+  - Worker riot on 18 March 2011 confirmed
+  - First turbine commissioned September 2013 confirmed
+  - 24th turbine online February 2015 confirmed
+  - Final unit operational December 2016 confirmed
+  - Santo Antonio Dam 3,580 MW confirmed
+  - Combined cost $15.6 billion confirmed
+  - Jirau cost $8 billion confirmed
+- [Nilce de Souza Magalhães (Nicinha) - Front Line Defenders](https://www.frontlinedefenders.org/en/case/Case-History-Nilce-de-Souza-Magalhaes)
+  - Body found 21 June 2016 confirmed
+  - Hands and feet bound with rope tied to a rock confirmed
+  - Missing since January (2016) confirmed
+  - Daughter of rubber tappers from Acre (Xapuri, Acre) confirmed
+  - Killer Edione Pessoa da Silva confessed then escaped from prison confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-07 · 12 facts verified · 0 corrections
+
+All key facts verified: 50 turbines x 75 MW = 3,750 MW total capacity, riot 18 March 2011, first turbine Sept 2013, 24th Feb 2015, final Dec 2016, Santo Antonio 3,580 MW, combined cost 5.6B, Jirau B, reservoir 258 sq km. Nicinha body found 21 June 2016, missing since January, killer Edione confessed and escaped. Daughter of rubber tappers from Xapuri, Acre confirmed. No factual errors. Spiciness 4 for strong editorial on activism murder and dam legacy.
+
+**Spiciness:** 4/5
+
+**Strong opinions:**
+
+- Her murder is not incidental to the story of Jirau — it is the story of Jirau, condensed into a single life and a single act of violence
+- Both things are true, and the dam stands as a monument to the impossibility of separating one from the other
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

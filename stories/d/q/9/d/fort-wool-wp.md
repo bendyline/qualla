@@ -1,0 +1,68 @@
+# Fort Wool
+
+A fortress built on an artificial island of dumped ballast stones, designed by one of Napoleon's engineers and assigned to a young Robert E. Lee - Fort Wool spent 134 years guarding the mouth of Hampton Roads.
+
+**Location:** 36.9867, -76.3011
+
+**Categories:** military-history, fort, civil-war, coastal-defense, artificial-island
+
+## Introduction
+
+The island should not exist. It was built from ballast stones - granite boulders dumped by sailing ships as they entered Hampton's harbor, lightening their hulls before taking on cargo. In 1819, Army engineers began piling more rock onto this shallow shoal at the mouth of Hampton Roads, southeast of Old Point Comfort, stacking boulders until a six-foot-tall artificial island rose from the Chesapeake Bay. It took four years just to build the island. Three more years to lay a foundation. And then the real trouble started: the island kept sinking. Fort Wool, the fortress intended to crown this man-made rock pile, was never completed as planned. Yet for over a century, from the War of 1812 era through World War II, it helped guard one of the most strategically vital harbors in America.
+
+## Napoleon's Engineer, America's Fortress
+
+After the War of 1812, when British forces sailed up the Chesapeake Bay and burned Washington, the United States embarked on an ambitious coastal defense program. More than forty new forts were planned under what became known as the Third System of U.S. fortifications. The man tasked with designing many of them was Brigadier General Simon Bernard, a French expatriate who had served as a general of engineers under Napoleon himself.
+
+Bernard's plan for Fort Wool - originally named Fort Calhoun after Secretary of War John C. Calhoun - was grand. Four tiers of casemates and a barbette tier, housing 216 muzzle-loading cannon, manned by a garrison of a thousand soldiers. It was to be the first "tower fort" of the Third System, modeled after the four-tier Castle Williams in New York Harbor. Working in tandem with Fort Monroe directly across the channel, the two forts would create a devastating crossfire over any hostile fleet attempting to enter Hampton Roads.
+
+## Lee's First Command
+
+Construction began in 1826, and the problems were immediate. The artificial island kept subsiding under the weight of the stonework. By 1830, only two-thirds of the first level of casemates had been completed. By 1834, half of the second tier was up, and the foundations were still settling. Reports to the chief of engineers repeated the same optimistic refrain year after year: the island had stabilized and construction could continue "the next year." It never did stabilize - in fact, the island continues to settle in the twenty-first century.
+
+Into this engineering nightmare stepped a young second lieutenant named Robert E. Lee. Transferred to Fort Wool to assist Captain Andrew Talcott, the Army engineer overseeing construction of both Fort Wool and its larger companion Fort Monroe, Lee was given the task of stabilizing the sinking island as his first independent command. He brought in more stone to shore up the foundation, but concluded that the rock base simply could not support the weight of the planned four-tier fortress. Fort Wool would never reach its intended size.
+
+## Crossfire Over the Ironclads
+
+When the Civil War erupted, Fort Wool sat at the center of the action. Originally named Fort Calhoun, it was renamed on March 18, 1862 - just ten days after one of the most significant naval engagements in history unfolded in the waters it guarded. The Battle of Hampton Roads, fought on March 8 and 9, 1862, saw CSS Virginia and USS Monitor clash in the first combat between ironclad warships. Fort Wool's guns joined the fight. A Sawyer rifle mounted at the fort fired on Virginia as the ironclad operated in the roadstead, though the shots did no damage to her armored hull.
+
+The fort's position proved its strategic worth. Together with Fort Monroe across the channel, Fort Wool helped the Union maintain control of the entrance to Hampton Roads throughout the war, keeping the blockade of Norfolk and Richmond intact. Anti-submarine nets were later stretched between the two forts during both World Wars, sealing the harbor entrance against underwater threats.
+
+## Reinvention and Retirement
+
+In 1885, the Endicott Board recommended sweeping modernization of America's coast defenses. At Fort Wool, this meant demolishing nearly everything Simon Bernard had designed - all but eight casemates at the western end - and replacing the old masonry with modern gun batteries. Five batteries were constructed after 1902, armed with six-inch guns on disappearing carriages and three-inch rapid-fire guns meant to defend the harbor's underwater minefields against enemy minesweepers.
+
+World War I stripped most of the heavy guns for potential use on the Western Front. World War II brought a new battery with long-range six-inch guns, though the gun tubes were never actually mounted. Radar was installed for fire control. By 1953, the military decommissioned Fort Wool for good. The artificial island that Napoleon's engineer designed, that Robert E. Lee tried to stabilize, that guarded Hampton Roads through four wars, had finally outlived its purpose. Today it sits beside the Hampton Roads Bridge-Tunnel, seven feet above sea level and still settling, a small monument to the outsized ambitions of coastal defense.
+
+## Flight Context
+
+Located at 36.99°N, 76.30°W in the mouth of Hampton Roads, adjacent to the Hampton Roads Bridge-Tunnel (I-64/HRBT). Fort Wool is visible from the air as a small artificial island southeast of Old Point Comfort, roughly one mile south of Fort Monroe. The island sits between the main shipping channel and the HRBT, making it a distinctive landmark. Fort Monroe, the larger companion fort, is clearly visible on the mainland at Old Point Comfort. The Norfolk Naval Station lies to the southeast across the harbor. Nearest airports: Langley AFB (KLFI) 4nm north, Norfolk International (KORF) 10nm southeast, Newport News/Williamsburg (KPHF) 12nm northwest. The waters surrounding the fort are among the busiest shipping lanes on the East Coast.
+
+## Sources
+
+- [Fort Wool - Wikipedia](https://en.wikipedia.org/?curid=414984)
+  - Artificial island built on ballast stone confirmed
+  - Originally named Fort Calhoun after Secretary of War John C. Calhoun confirmed
+  - Designed by Brigadier General Simon Bernard who served under Napoleon confirmed
+  - Planned for 216 muzzle-loading cannon and garrison of 1,000 soldiers confirmed
+  - Robert E. Lee assigned as young second lieutenant to assist Captain Andrew Talcott confirmed
+  - Construction began 1826 confirmed
+  - Fort renamed on March 18 1862 confirmed -- renamed for Major General John Ellis Wool
+  - Fort decommissioned in 1953 confirmed
+  - Fort Wool adjacent to Hampton Roads Bridge-Tunnel confirmed
+- [Fort Wool - Army Historical Foundation](https://armyhistory.org/fort-wool-virginia/)
+  - Simon Bernard served as general of engineers under Napoleon confirmed
+  - Third System of U.S. fortifications confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 9 facts verified · 0 corrections
+
+All facts verified: built on ballast stone, originally Fort Calhoun, Simon Bernard designed it having served under Napoleon, 216 cannon for garrison of 1000, Robert E. Lee assigned to stabilize island as first independent command, Captain Andrew Talcott in charge, renamed March 18 1862 for Major General John Ellis Wool, decommissioned 1953.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

@@ -1,0 +1,60 @@
+# Cleveland: Where Rock and Roll Found Its Hall and the River Caught Fire
+
+Ohio's second-largest city where the Rock and Roll Hall of Fame preserves music history on Lake Erie's shore, where the Cuyahoga River's 1969 fire sparked the environmental movement, where the Cleveland Clinic treats the world, and where the Guardians carry baseball's oldest traditions.
+
+**Location:** 41.5045, -81.6906
+
+**Categories:** ohio, cleveland, city, rock-and-roll, great-lakes, rust-belt
+
+## Introduction
+
+On June 22, 1969, the Cuyahoga River caught fire. Oil and debris floating on the polluted waterway ignited near Republic Steel, and the burning river became a symbol of industrial America's environmental destruction. The fire helped spark the first Earth Day in 1970, the creation of the EPA, and the Clean Water Act - the Cuyahoga's shame became the nation's wake-up call. Today the river runs clean through the Cuyahoga Valley National Park, and Cleveland has transformed from rust belt cautionary tale to comeback city. The Rock and Roll Hall of Fame rises on the Lake Erie shore, designed by I.M. Pei, honoring the music that Cleveland disc jockey Alan Freed named in 1951. The Cleveland Clinic has become one of the world's great medical centers, treating patients from 185 countries. The Cleveland Museum of Art, free since 1916, houses a collection rivaling any in America. University Circle concentrates more cultural institutions in one square mile than almost anywhere else on Earth. The Guardians play at Progressive Field, continuing the baseball tradition that dates to 1901. Cleveland was once America's fifth-largest city; it's smaller now, but the culture the industrial wealth created remains immense.
+
+## Rock and Roll Hall of Fame
+
+Cleveland disc jockey Alan Freed did not invent rock and roll, but he named it. In 1951, Freed began playing rhythm and blues for white audiences on WJW radio, calling the music rock and roll and hosting the Moondog Coronation Ball in 1952 - often considered the first rock concert. When the Rock and Roll Hall of Fame needed a home in 1986, Cleveland fought for and won it. I.M. Pei designed the building, a glass pyramid on the Lake Erie shore that opened in 1995. Inside, the history of rock unfolds - Elvis's jumpsuits, Jimi Hendrix's guitars, handwritten lyrics from John Lennon and Bruce Springsteen, exhibits tracing the music from its Delta blues and gospel roots through punk, hip-hop, and beyond. The induction ceremony alternates between Cleveland and New York. The museum draws 500,000 visitors annually to a shore that was once industrial wasteland. Rock and roll was born in Memphis and Detroit and a dozen other places, but Cleveland gave it a name and a hall of fame.
+
+## The Burning River
+
+The Cuyahoga River had caught fire before - at least thirteen times since 1868 - but the 1969 fire arrived at the right moment. Time magazine covered it with photos actually from a 1952 fire (the 1969 blaze was extinguished before photographers arrived), but the image crystallized public outrage about industrial pollution. Cleveland became a symbol of environmental destruction, the mistake on the lake. But the shame motivated action. The Clean Water Act of 1972 forced industries to stop dumping; the Cuyahoga became one of the country's most monitored rivers; the fish returned. Today the Cuyahoga flows clean through the Cuyahoga Valley National Park, Ohio's only national park, where the towpath trail follows the historic Ohio and Erie Canal. Kayakers paddle the river through downtown. Breweries named for the burning river line the Flats entertainment district. Cleveland turned its greatest embarrassment into an environmental triumph - the burning river now a source of ironic pride.
+
+## University Circle and the Clinic
+
+University Circle packs more cultural institutions into one square mile than almost anywhere in America. The Cleveland Museum of Art, free since its 1916 founding, houses 61,000 works spanning 6,000 years - armor and Asian art, Impressionists and African sculpture, a collection rivaling the Met or the Art Institute of Chicago. The Cleveland Museum of Natural History, the Cleveland Botanical Garden, the Cleveland Orchestra at Severance Hall, Case Western Reserve University, and the Cleveland Institute of Art all cluster within walking distance. The Cleveland Clinic, founded in 1921, has grown into one of the world's great medical centers, its main campus visible from miles away, treating 8 million patients annually from 185 countries. The Clinic's heart surgery program pioneered coronary bypass; its rankings consistently place it among America's top hospitals. University Circle was designed as Cleveland's cultural district when the city was among America's largest; the institutions remain world-class even as the city has shrunk.
+
+## Rust Belt Revival
+
+Cleveland was America's fifth-largest city in 1920, its wealth built on steel, oil, and manufacturing. John D. Rockefeller founded Standard Oil here; the steel mills lined the Cuyahoga. The population peaked at 914,000 in 1950, then collapsed - to 750,000 by 1970, to 478,000 by 2000, to 372,000 by 2020. The story of decline was real, but so is the comeback. Downtown has revived around sports venues - Progressive Field for the Guardians, the arena where LeBron James led the Cavaliers to their 2016 championship, FirstEnergy Stadium for the Browns. The Warehouse District and Tremont neighborhoods have gentrified. Ohio City's West Side Market, a 1912 landmark, sells ethnic foods reflecting Cleveland's immigrant heritage - Hungarian, Polish, Slovenian, Italian, Puerto Rican. The revival is uneven - East Cleveland remains desperately poor - but the downtown that was dying in 1980 is alive again.
+
+## Great Lake Geography
+
+Cleveland Hopkins International Airport (CLE) serves as a United hub with connections across North America. I-90 runs east-west along the lake shore; I-71 runs southwest to Columbus; I-77 runs south to Akron and Canton. Lake Erie defines Cleveland's northern edge - the shallowest and warmest of the Great Lakes, frozen enough in winter to create lake-effect snow that buries the eastern suburbs. The Cuyahoga River divides the city into East Side and West Side, a social and cultural boundary that matters to locals. From altitude, Cleveland appears where the Cuyahoga meets Lake Erie - the Rock Hall's glass pyramid visible on the shore, the downtown skyline rising from the river's mouth, the lake stretching north toward invisible Canada. What appears from the air as a Great Lakes port city is where rock and roll found its hall of fame, where a burning river sparked environmentalism, where the Cleveland Clinic treats the world, and where a rust belt city keeps reinventing itself.
+
+## Flight Context
+
+Located at 41.50°N, 81.69°W where the Cuyahoga River meets Lake Erie on Ohio's north coast. From altitude, Cleveland appears at the river's mouth - the Rock and Roll Hall of Fame's glass pyramid visible on the shore, Progressive Field's distinctive design in the Gateway District, Lake Erie stretching north toward Canada. What appears from the air as a Great Lakes industrial city is where Alan Freed named rock and roll and where a burning river sparked the environmental movement.
+
+## Sources
+
+- [Cleveland - Wikipedia](https://en.wikipedia.org/wiki/Cleveland)
+  - Cuyahoga River fire June 22, 1969
+  - Alan Freed coined rock and roll 1951
+  - Cleveland Clinic treats patients from 185 countries
+
+## Review Notes
+
+**Reviewed:** 2026-01-23 · 3 facts verified · 0 corrections
+
+Lake Erie waterfront, Progressive Field verified
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Where Rock and Roll Found Its Hall and the River Caught Fire
+- Cleveland turned its greatest embarrassment into an environmental triumph
+
+---
+
+*Word count: 890*
+*Read time: 5 minutes*

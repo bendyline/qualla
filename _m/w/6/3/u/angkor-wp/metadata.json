@@ -1028,5 +1028,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w63u-angkor-flight-context.mp3",
+      "w63u-angkor-intro.mp3",
+      "w63u-angkor-the-king-who-made-himself-a-god.mp3",
+      "w63u-angkor-a-warrior-on-an-elephant.mp3",
+      "w63u-angkor-the-last-great-king.mp3",
+      "w63u-angkor-death-by-water.mp3",
+      "w63u-angkor-what-the-jungle-kept.mp3"
+    ],
+    "durations": {
+      "w63u-angkor-flight-context.mp3": 55.6554166,
+      "w63u-angkor-intro.mp3": 59.188,
+      "w63u-angkor-the-king-who-made-himself-a-god.mp3": 70.0115833,
+      "w63u-angkor-a-warrior-on-an-elephant.mp3": 57.468125,
+      "w63u-angkor-the-last-great-king.mp3": 64.8118333,
+      "w63u-angkor-death-by-water.mp3": 59.4391666,
+      "w63u-angkor-what-the-jungle-kept.mp3": 60.573375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

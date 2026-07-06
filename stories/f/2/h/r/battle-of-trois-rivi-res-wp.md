@@ -1,0 +1,68 @@
+# Battle of Trois-Rivières
+
+A local farmer's deliberate misdirection through a swamp sealed the fate of 2,000 Continental soldiers on June 8, 1776, ending America's ill-fated invasion of Quebec at the last battle of the Revolutionary War fought on Canadian soil.
+
+**Location:** 46.3500, -72.5500
+
+**Categories:** military-history, revolutionary-war, colonial-history, national-historic-site
+
+## Introduction
+
+Antoine Gautier knew these swamps. The local farmer watched the American soldiers file off their boats at Pointe du Lac in the darkness of June 7, 1776, and when they asked him to guide them to Trois-Rivieres, he agreed readily. Then he led 2,000 Continental Army troops straight into a waterlogged morass from which it took them hours to escape. By the time the mud-caked Americans stumbled out the other side, the British had formed battle lines, warships had cut off the retreat, and the last battle of the American Revolutionary War fought on Quebec soil was already decided. The engagement at Trois-Rivieres was brief, chaotic, and thoroughly one-sided, but it carried enormous consequences: it ended the American dream of making Canada the fourteenth colony.
+
+## An Invasion Already Failing
+
+The Continental Army had invaded Quebec in September 1775, buoyed by the hope that French-speaking Canadians would join the revolution. The campaign peaked with a disastrous assault on Quebec City on New Year's Eve, where American commander Richard Montgomery was killed and Benedict Arnold was wounded. Arnold and the remnants besieged Quebec through a brutal winter, but on May 6, 1776, three Royal Navy ships sailed into Quebec Harbour carrying British reinforcements. Governor Guy Carleton wasted no time: he marched fresh troops directly at the American siege camp. General John Thomas, commanding the tattered American force, had already been planning a retreat, but the British arrival turned withdrawal into panic. The Americans fled upriver to Sorel, arriving around May 18. Thomas contracted smallpox on May 21 and died on June 2. By then, Carleton had added six full regiments of foot, General John Burgoyne, and Hessian troops from Brunswick to his command. The Americans had no idea how large the force arrayed against them had grown.
+
+## Into the Morass
+
+Command of the American forces fell briefly to Brigadier General William Thompson before General John Sullivan arrived at Sorel on June 5 with reinforcements from Fort Ticonderoga. Just hours before Sullivan appeared, Thompson had already dispatched 600 men under Colonel Arthur St. Clair toward Trois-Rivieres, hoping to surprise what they believed was a small British garrison. Sullivan sent Thompson himself with 1,600 more men to follow. They caught up with St. Clair at Nicolet and, on the night of June 7, roughly 2,000 Americans crossed the Saint Lawrence to Pointe du Lac. A local militia captain spotted the crossing and raced to alert British Brigadier General Simon Fraser. Thompson left 250 men to guard the landing boats and pressed forward with the rest, hiring Gautier as guide. Whether out of loyalty to the Crown or simple self-preservation, Gautier led the army deep into swampland. Hours passed as soldiers struggled through muck and standing water, their element of surprise evaporating with every minute. Meanwhile, the British landed troops from their fleet and formed up on the road outside the village.
+
+## Grapeshot and Retreat
+
+When Thompson and a portion of his men finally emerged from the swamp, they were met not by a sleepy garrison but by HMS Martin, which blasted them back into the mire with grapeshot. A column under Colonel Anthony Wayne, the future "Mad Anthony" of Revolutionary War fame, fared little better. Emerging from the bog, Wayne's men found Fraser's disciplined formation waiting. A brief exchange of fire made the mismatch plain: the Americans broke and ran, leaving arms and supplies scattered behind them. Those who reached the tree line attempted to regroup, but British musket fire kept them off the road while warships patrolled the shoreline. Upriver at Pointe du Lac, British vessels had already driven away the American guards and seized most of the boats. The trap was closing. Carleton arrived late in the action and made a curious decision: he ordered Major Grant to withdraw from a bridge over the Riviere-du-Loup that controlled the Americans' last escape route. Whether from mercy or strategic calculation, Carleton let most of the battered army slip away. General Thompson and much of his staff were among those captured.
+
+## The End of the Northern Dream
+
+The defeat at Trois-Rivieres broke the back of the American invasion. Sullivan, now commanding the remnants, ordered a full retreat, first to Fort Saint-Jean and then to Fort Ticonderoga. By June 17, the last Continental soldiers had left Quebec. Benedict Arnold, fittingly, was reported as the very last American to depart, pushing off from the burning remains of Fort Saint-Jean as British troops arrived. The retreating Americans attempted to burn Montreal and destroyed any boats on Lake Champlain that might serve the British pursuit. The invasion of Canada was over. It had cost hundreds of lives and achieved nothing, though it delayed Carleton's counteroffensive and inadvertently contributed to the British defeat at Saratoga the following year by consuming time and resources.
+
+## Remembered in Three Plaques
+
+Today the city of Trois-Rivieres commemorates the battle with three plaques, each reflecting a different perspective on the same June morning. The Historic Sites and Monuments Board of Canada placed one at the National Historic Site honoring the British participants. In August 1985, the Daughters of the American Revolution installed a plaque in Parc Champlain honoring the American dead. And on July 4, 2009, during the town's 375th anniversary celebrations, American Consul-General David Fetter symbolically repaid a long-standing debt to the Ursuline nuns who had cared for wounded American soldiers, handing over a payment of 130 Canadian dollars. The quiet riverside city, where the Saint-Maurice River meets the Saint Lawrence, bears little trace of the morning when a farmer's local knowledge decided the fate of an army and helped end a continent-spanning gamble for a fourteenth colony.
+
+## Flight Context
+
+Coordinates: 46.35°N, 72.55°W. Trois-Rivieres sits at the confluence of the Saint-Maurice and Saint Lawrence Rivers in Quebec. The battle site is on the north shore of the Saint Lawrence, near the modern city center. Look for the distinctive meeting point of the two rivers. Recommended viewing altitude: 3,000-5,000 feet AGL. Nearest airports: CYRQ (Trois-Rivieres, directly adjacent), CYQB (Quebec City, approx. 65 nm northeast), CYHU (Saint-Hubert, approx. 60 nm southwest). The broad Saint Lawrence and the narrower Saint-Maurice River provide excellent visual navigation landmarks.
+
+## Sources
+
+- [Battle of Trois-Rivières - Wikipedia](https://en.wikipedia.org/?curid=1428356)
+  - Battle fought June 8, 1776 confirmed
+  - ~2,000 Americans crossed Saint Lawrence to Pointe du Lac confirmed
+  - Farmer led Americans into swamp confirmed
+  - General Thompson captured along with much of his staff confirmed
+  - Anthony Wayne's column confirmed
+  - Last battle of the war fought on Quebec soil confirmed
+  - Sullivan ordered retreat to Fort Saint-Jean then Fort Ticonderoga confirmed
+  - By June 17 all Continental soldiers had left Quebec confirmed
+  - Benedict Arnold reported as last American to depart confirmed
+  - Trois-Rivieres 375th anniversary in 2009 confirmed (founded 1634)
+  - DAR plaque installed August 1985 confirmed
+  - American Consul-General David Fetter payment July 4, 2009 confirmed
+- [Battle of Three Rivers - Revolutionary War Journal](https://revolutionarywarjournal.com/american-tragedy-retreat-from-quebec-january-june-1776-the-battle-of-three-rivers-resulting-in-the-loss-of-canada/)
+  - Richard Montgomery killed and Benedict Arnold wounded at Quebec City New Year's Eve 1775 confirmed
+  - British reinforcements arrived May 6, 1776 via Royal Navy ships confirmed
+  - General John Thomas contracted smallpox and died June 2, 1776 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-27 · 12 facts verified · 0 corrections
+
+All key facts verified: June 8 1776 date, ~2000 Americans, swamp misdirection, Thompson captured, Wayne's role, last battle on Quebec soil confirmed, Sullivan's retreat to Fort Saint-Jean then Ticonderoga, Benedict Arnold last to leave, Trois-Rivieres 1634 founding and 375th anniversary in 2009, DAR plaque Aug 1985, Consul-General Fetter payment July 4 2009. No factual errors found. Spiciness 2 - straightforward historical narrative.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

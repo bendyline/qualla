@@ -1,0 +1,56 @@
+# Boomplaas Cave
+
+A cave in the Cango Valley whose five-meter-deep archaeological layers preserve 80,000 years of human habitation, from Middle Stone Age tool-makers to Khoi herders who painted eland on river cobbles.
+
+**Location:** -33.3706, 22.1586
+
+**Categories:** Archaeological sites in South Africa, Caves of South Africa, Stone Age Africa
+
+## Introduction
+
+Someone placed a painted river cobble face-down into the dirt, deliberately, while the red ochre depicting an ostrich with outstretched wings was still wet. That gesture -- careful, intentional, perhaps ritualistic -- happened thousands of years ago in a cave at the foot of the Swartberg mountains. It is one small detail in a record of human presence at Boomplaas Cave that reaches back 60,000 to 80,000 years, preserved in five meters of stratified sediment that archaeologists have been reading like a book since the 1970s.
+
+## Layers Upon Layers
+
+Boomplaas Cave sits in the Cango Valley, in the foothills of the Swartberg range north of Oudtshoorn in the Western Cape. Hilary Deacon of the University of Stellenbosch led excavations here from 1974 to 1979, uncovering a stratified sequence that spans from the Middle Stone Age through the Later Stone Age and into the period of herder contact. The cave was not continuously occupied -- the layers represent episodes, people arriving and departing over millennia as climates shifted and rainfall patterns changed. What they left behind tells a story of adaptation. Stone tools evolved from the backed bladelets of the Howiesons Poort industry, through the tiny quartz microbladelets of the Robberg period -- roughly sixteen millimeters long, struck from pyramidal cores -- to the adzes and scrapers of the Wilton tradition. Each toolkit represents not just different techniques but different ways of engaging with the landscape.
+
+## The Painted Stones
+
+Among Boomplaas's most striking finds are four painted stones from Holocene-era layers, a regional tradition in the Southern Cape where hunter-gatherers marked river cobbles and limestone with images of animals. Three of the stones were associated with storage pits containing Pappea capensis fruits, as if they served as markers indicating where the oil-rich food was cached. One depicts a red antelope on weathered limestone. Another shows a black-and-white eland with a dewlap, rendered on a stone block with careful attention to the animal's distinctive profile. The ostrich cobble -- the one placed face-down while still wet -- was found in a different context, its paint streaking into the sediment below. A fourth stone, from a separate occupation layer, shows a red amorphous figure with two legs descending from it, white paint smudged across its surface. These are not cave wall paintings but portable art, objects that could be carried, positioned, and perhaps hidden.
+
+## Khoi Pottery and Shifting Worlds
+
+The upper layers at Boomplaas document a transition that fascinates archaeologists: the shift from hunter-gatherer to herder societies. Pottery sherds excavated from the most recent major layer include fine clay vessels with ochre applied to their outer surfaces, fired at high temperatures that produced a distinctive red coloring. These are consistent with Cape Coastal Pottery traditions, and their production is attributed to ancestral Khoi people who brought herding practices into the region. The cave itself served different purposes across the millennia. At various times it was a kraal for penning animals, a storage depot for gathered fruits, and a home base for foraging groups. The faunal remains and plant material preserved in the sediments have allowed researchers to reconstruct what people ate and how the surrounding environment changed as ice ages advanced and retreated.
+
+## Digging Deeper
+
+Boomplaas nearly fell into neglect before a 2015 effort, supported by the Leakey Foundation, helped refurbish its decaying research infrastructure. In 2020, J. Tyler Faith and Brian M. Chase joined the excavation team to reestablish research, focusing on the critical transition between the Middle and Later Stone Ages -- a period that may illuminate how modern human behavior emerged. New methods including optical luminescence dating, radiocarbon analysis, and micromorphological sampling of sediments are being combined with 3D GIS mapping of every artifact's position. Recent botanical research by Marlize Lombard and Justin Pargeter has catalogued the plant species surrounding the cave, building a baseline for understanding what Stone Age foragers had available and how they may have processed toxic plant foods through cooking. Boomplaas is no longer just an archive of the past. It is an active laboratory where each centimeter of earth may yield another clue to the long, resourceful story of human survival in the Swartberg foothills.
+
+## Flight Context
+
+Coordinates: 33.37S, 22.16E, in the Cango Valley at the foot of the Swartberg range. The cave is not visible from altitude but the valley is identifiable between the Swartberg ridgeline and the town of Oudtshoorn. Best orientation: approach from the south over Oudtshoorn. Nearest airports: Oudtshoorn (FAOH), George (FAGG). Altitude recommendation: 5,000-8,000 ft AGL for valley context.
+
+## Sources
+
+- [Boomplaas Cave - Wikipedia](https://en.wikipedia.org/?curid=51292589)
+  - Hilary Deacon of University of Stellenbosch led excavations 1974-1979
+  - cave deposits span 60,000-80,000 years
+  - Robberg microbladelets ~16mm long
+  - Howiesons Poort industry identified
+  - Wilton tradition tools
+  - 2015 Leakey Foundation infrastructure refurbishment via Justin Pargeter
+  - J. Tyler Faith and Brian M. Chase joined team in 2020
+  - painted river cobbles including ostrich and eland depictions
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 9 facts verified · 0 corrections
+
+Verified: Hilary Deacon excavations 1974-1979, 60,000-80,000 years occupation, Robberg microbladelets, Leakey Foundation 2015 refurbishment via Justin Pargeter, J.T. Faith and B.M. Chase joined 2020. All confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 730*
+*Read time: 4 minutes*

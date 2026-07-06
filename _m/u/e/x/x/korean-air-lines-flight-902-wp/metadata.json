@@ -145,5 +145,26 @@
     "_m/u/e/x/x/korean-air-lines-flight-902-wp/707-kal902.png",
     "_m/u/e/x/x/korean-air-lines-flight-902-wp/kal-flight-902-s-flightplan.png"
   ],
-  "updatedAt": "2026-04-01T05:39:38.544Z"
+  "updatedAt": "2026-04-01T05:39:38.544Z",
+  "narration": {
+    "files": [
+      "uexx-korean-air-lines-flight-902-flight-context.mp3",
+      "uexx-korean-air-lines-flight-902-intro.mp3",
+      "uexx-korean-air-lines-flight-902-a-compass-spinning-wrong.mp3",
+      "uexx-korean-air-lines-flight-902-wings-waggling-in-the-dark.mp3",
+      "uexx-korean-air-lines-flight-902-shrapnel-and-a-frozen-lake.mp3",
+      "uexx-korean-air-lines-flight-902-captivity-and-confession.mp3",
+      "uexx-korean-air-lines-flight-902-a-warning-unheeded.mp3"
+    ],
+    "durations": {
+      "uexx-korean-air-lines-flight-902-flight-context.mp3": 58.3509166,
+      "uexx-korean-air-lines-flight-902-intro.mp3": 39.7590833,
+      "uexx-korean-air-lines-flight-902-a-compass-spinning-wrong.mp3": 60.3802083,
+      "uexx-korean-air-lines-flight-902-wings-waggling-in-the-dark.mp3": 62.7406666,
+      "uexx-korean-air-lines-flight-902-shrapnel-and-a-frozen-lake.mp3": 58.2425833,
+      "uexx-korean-air-lines-flight-902-captivity-and-confession.mp3": 65.09725,
+      "uexx-korean-air-lines-flight-902-a-warning-unheeded.mp3": 67.6538333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

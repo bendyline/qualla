@@ -1,0 +1,59 @@
+# Karoo
+
+South Africa's vast semi-desert heartland, a Khoikhoi-named landscape of extremes where 250-million-year-old fossils lie beneath flat-topped koppies, mountain zebras were saved from extinction, and the night sky is dark enough for the Square Kilometre Array.
+
+**Location:** -32.2700, 22.3100
+
+**Categories:** Karoo, Geography of South Africa, Natural regions of South Africa
+
+## Introduction
+
+Rudyard Kipling, stationed in South Africa during the Boer War, wrote of a blockhouse soldier on the Dwyka River, guarding the Karoo railway track in isolation so complete that the landscape itself became the enemy. "The shadow deepens down on the karroo," Robert W. Service wrote from a different angle, imagining an emigrant watching the Winterberg's crimson peaks fade into dusk. The Karoo has always inspired this kind of writing -- lonely, vast, slightly awed -- because the place demands it. A semi-desert that covers a significant portion of South Africa's interior, the Karoo has no precise boundaries, no exact definition, and no shortage of extremes. Its name comes from a Khoikhoi word, and like many Khoikhoi place names, it captures essence rather than geography: a land of thirst.
+
+## A Land Without Edges
+
+Defining the Karoo is an exercise in approximation. Its southern boundary is sharp -- the Cape Fold Mountains mark it clearly. But to the north, the Karoo fades gradually into the increasingly arid Bushmanland and eventually the Kalahari Desert. To the northeast, it dissolves into the grasslands and savannah of Griqualand West and the Highveld. The Great Karoo, the larger portion, is itself divided by the Great Escarpment into the Upper Karoo on the Central Plateau and the Lower Karoo on the plains below. A constellation of local names marks its subregions: the Tankwa Karoo in the arid southwest, the Moordenaarskaroo, the Koup, the Camdeboo Plains. The Klein Karoo -- the Little Karoo -- is a separate entity altogether, a 290-kilometer-long valley only 40 to 60 kilometers wide, walled between the Swartberg mountains and the Langeberg-Outeniqua range. The San people lived across these landscapes for thousands of years, their rock art and stone tools a record of deep human engagement with a terrain that European arrivals found terrifying.
+
+## Three Hundred Million Years of Stone
+
+Beneath the Karoo's sparse vegetation lies a geological record spanning 180 to 310 million years. The Karoo Supergroup, an extensive sequence of sedimentary and igneous rocks, underlies not just the Great Karoo but extends into Lesotho, across South Africa's borders, and onto continents that once formed part of Gondwana. At its base, the Dwyka Group tells of a time when glaciers and ice sheets carved across the land, depositing a kilometer-thick layer of mud studded with dropstones of varying sizes. Above that, the Beaufort Group preserves a flourishing reptile ecosystem that ended roughly 180 million years ago when volcanic activity occurred on a titanic scale. Dinosaur nests containing eggs -- some with fetal skeletons still inside -- have been found in the Stormberg Group rocks near what was once a swampy pan. The Karoo's flat-topped hills, or koppies, are iconic features created by erosion exposing these ancient layers, each one a cross-section of deep time standing in the semi-desert sun.
+
+## Zebras, Jackals, and Ostriches
+
+The Cape mountain zebra nearly vanished. By the 1930s, fewer than a hundred individuals remained, hunted almost to extinction across the mountain regions of the Cape Fold Belt and the Great Escarpment where they were endemic. Conservation efforts have since brought their numbers to roughly 1,200, concentrated in protected areas like the Mountain Zebra National Park near Cradock and nature reserves managed by Cape Nature. The black-backed jackal, weighing six to ten kilograms, is now arguably the largest predator commonly seen in the Great Karoo, though leopards haunt the mountains in secrecy. The ostrich found its ideal habitat in the Klein Karoo, where dry weather and plentiful streams produced birds over two meters tall weighing more than 100 kilograms, their plumes fueling the feather trade that made Oudtshoorn wealthy. And then there is the quagga -- a subspecies of zebra once confined to the Karoo plains, now extinct, its absence a reminder that this landscape's ecological story includes loss as well as persistence.
+
+## Dark Skies and Deep Listening
+
+The qualities that made the Karoo forbidding to travelers make it ideal for science. Sutherland, at 1,456 meters above sea level, is reputedly the coldest town in South Africa, but its clear, dry, dark skies drew astronomers who built the Southern African Large Telescope there. Northwest of Carnarvon, in the Upper Karoo, radio dishes form part of the Square Kilometre Array -- a network that will eventually include 2,500 dishes scattered across South Africa and Australia, surveying the southern skies at radio frequencies. The site was chosen because the Upper Karoo is tectonically inactive, free of artificial light, and far from the electromagnetic noise of cities. The Milky Way, one of the array's primary targets, is best viewed from the Southern Hemisphere, and few places in the Southern Hemisphere offer skies as clean as the Karoo's. In a landscape that early travelers unanimously denounced as frightening, scientists have found the quietest listening post on the planet.
+
+## Rails, Roads, and the River
+
+The railway that opened the Karoo began at Worcester and entered the Lower Karoo through the Hex River Valley, passing the Victorian village of Matjiesfontein with its historic Lord Milner Hotel. It reached Beaufort West in 1878, then climbed the Great Escarpment along a valley so gradual that passengers barely noticed they were ascending to the Central Plateau. From there it pushed through the Upper Karoo to De Aar and crossed the Orange River at Hopetown -- where South Africa's first diamond, the Eureka, had been discovered. The Orange River at Hopetown forms the unofficial boundary between the Karoo and the Highveld, and crossing it meant entering a different South Africa. Today, the N1 highway follows much the same route, and the Karoo remains what it has always been: the vast middle passage between Cape Town and the interior, a landscape you must cross but can never quite conquer.
+
+## Flight Context
+
+Coordinates: 32.27S, 22.31E. The Karoo is an enormous semi-desert covering much of South Africa's interior -- from the air, it appears as brown and ochre terrain with scattered flat-topped koppies, sparse vegetation, and widely separated settlements. Key landmarks: the Swartberg range to the south, the Great Escarpment, the N1 highway corridor, and Beaufort West. Nearest airports: Beaufort West, George (FAGG), Cape Town (FACT). Best appreciated at 15,000+ ft AGL for the full sense of scale. The region offers excellent visibility in clear conditions, but summer thermals can be severe. The Square Kilometre Array near Carnarvon is visible as a cluster of white dishes.
+
+## Sources
+
+- [Karoo - Wikipedia](https://en.wikipedia.org/?curid=1312499)
+  - Little Karoo is 290km long and 40-60km wide
+  - Cape mountain zebra numbers reduced to fewer than 100 by 1930s, now approximately 1,200
+  - Southern African Large Telescope at Sutherland
+  - Square Kilometre Array northwest of Carnarvon
+  - railway reached Beaufort West in 1878
+  - Eureka diamond found at Hopetown
+  - quagga was a subspecies of zebra extinct from Karoo plains
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 9 facts verified · 0 corrections
+
+Verified: Cape mountain zebra fewer than 100 by 1930s, now ~1,200; quagga extinct subspecies; SALT at Sutherland; SKA northwest of Carnarvon; railway reached Beaufort West 1878; Eureka diamond at Hopetown. All facts confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 890*
+*Read time: 5 minutes*

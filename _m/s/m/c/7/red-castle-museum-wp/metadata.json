@@ -551,5 +551,24 @@
     "_m/s/m/c/7/red-castle-museum-wp/1010-kreuzfahrt-g-498-51290928.jpg",
     "_m/s/m/c/7/red-castle-museum-wp/1010-kreuzfahrt-g-501-51296969.jpg"
   ],
-  "updatedAt": "2026-03-31T06:28:30.834Z"
+  "updatedAt": "2026-03-31T06:28:30.834Z",
+  "narration": {
+    "files": [
+      "smc7-red-castle-museum-flight-context.mp3",
+      "smc7-red-castle-museum-intro.mp3",
+      "smc7-red-castle-museum-the-fortress-on-the-promontory.mp3",
+      "smc7-red-castle-museum-from-colonial-project-to-national-collection.mp3",
+      "smc7-red-castle-museum-five-thousand-years-in-five-wings.mp3",
+      "smc7-red-castle-museum-reopening-after-the-silence.mp3"
+    ],
+    "durations": {
+      "smc7-red-castle-museum-flight-context.mp3": 42.0896666,
+      "smc7-red-castle-museum-intro.mp3": 42.272,
+      "smc7-red-castle-museum-the-fortress-on-the-promontory.mp3": 56.4576666,
+      "smc7-red-castle-museum-from-colonial-project-to-national-collection.mp3": 67.231,
+      "smc7-red-castle-museum-five-thousand-years-in-five-wings.mp3": 65.55125,
+      "smc7-red-castle-museum-reopening-after-the-silence.mp3": 58.2285
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

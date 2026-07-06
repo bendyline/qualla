@@ -102,13 +102,52 @@
       "sourceArticleId": "county-louth-wp",
       "sourceGeohash4": "gce6",
       "smallPath": "_m/g/c/e/6/county-louth-wp/dundalkmontage-small.webp"
+    },
+    {
+      "filename": "Drogheda - St Laurence Gate - geograph.org.uk - 4636621.jpg",
+      "title": "File:Drogheda - St Laurence Gate - geograph.org.uk - 4636621.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Drogheda_-_St_Laurence_Gate_-_geograph.org.uk_-_4636621.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Drogheda_-_St_Laurence_Gate_-_geograph.org.uk_-_4636621.jpg",
+      "width": 1024,
+      "height": 768,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Colin Park",
+      "description": "Drogheda - St Laurence Gate",
+      "dateCreated": "2015-05-06",
+      "sourceType": "poi",
+      "sourceArticleId": "county-louth-wp",
+      "sourceGeohash4": "gce6"
     }
   ],
   "galleryPaths": [
     "_m/g/c/e/6/county-louth-wp/monasterboice-22.jpg",
     "_m/g/c/e/6/county-louth-wp/carlingford03.jpg",
     "_m/g/c/e/6/county-louth-wp/cuchulain-in-battle.jpg",
-    "_m/g/c/e/6/county-louth-wp/dundalkmontage.png"
+    "_m/g/c/e/6/county-louth-wp/dundalkmontage.png",
+    "_m/g/c/e/6/county-louth-wp/drogheda-st-laurence-gate-geog.jpg"
   ],
-  "updatedAt": "2026-03-19T21:24:14.786Z"
+  "updatedAt": "2026-06-20T13:31:00.737Z",
+  "narration": {
+    "files": [
+      "gce6-county-louth-flight-context.mp3",
+      "gce6-county-louth-intro.mp3",
+      "gce6-county-louth-named-for-a-god.mp3",
+      "gce6-county-louth-three-kingdoms-and-a-norman-border.mp3",
+      "gce6-county-louth-the-wars-of-the-17th-century.mp3",
+      "gce6-county-louth-the-last-gaeltacht-in-leinster.mp3",
+      "gce6-county-louth-the-wee-county-today.mp3"
+    ],
+    "durations": {
+      "gce6-county-louth-flight-context.mp3": 52.9716666,
+      "gce6-county-louth-intro.mp3": 43.6429583,
+      "gce6-county-louth-named-for-a-god.mp3": 57.7196666,
+      "gce6-county-louth-three-kingdoms-and-a-norman-border.mp3": 62.8126666,
+      "gce6-county-louth-the-wars-of-the-17th-century.mp3": 63.558375,
+      "gce6-county-louth-the-last-gaeltacht-in-leinster.mp3": 62.386,
+      "gce6-county-louth-the-wee-county-today.mp3": 64.4645
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

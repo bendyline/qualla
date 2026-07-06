@@ -1,0 +1,68 @@
+# Elliott Key
+
+The northernmost true Florida Key - a sliver of ancient coral reef where pirates hid, pineapple farmers prospered, and developers bulldozed a spite highway that the tropical forest quietly erased.
+
+**Location:** 25.4431, -80.1972
+
+**Categories:** florida-keys, island, conservation, historic-site, national-park
+
+## Introduction
+
+In 1910, more than a dozen families on Elliott Key harvested between 50,000 and 75,000 dozen pineapples and loaded them onto schooners bound for New York. A century later, the island has no permanent residents, no road to the mainland, and no pineapples. What happened in between is a story of pirates, developers, a phantom city, a CIA training ground, and a Category 5 hurricane - all compressed onto a narrow strip of coral limestone barely wider than a football field in places, accessible only by boat, and now protected as part of Biscayne National Park. Elliott Key is the northernmost of the true Florida Keys, meaning it is built from ancient coral reef lifted above sea level rather than wave-deposited sand. It is also the largest key north of Key Largo, a thin ribbon of land stretching roughly seven miles long, bordered by the Atlantic Ocean to the east and Biscayne Bay to the west.
+
+## Pirates, Wreckers, and Pineapple Kings
+
+Long before the pineapple farmers, the Tequesta Indians used Elliott Key on a transient basis for millennia. The key's earlier name was Ledbury Key, after a snow - a type of sailing vessel - that was driven ashore in 1769. Legend claims the pirate Black Caesar, said to have escaped from a slave ship, used Elliott Key as his base of operations. Caesar's Creek, the waterway between Elliott Key and Old Rhodes Key to the south, preserves his name. In the 19th century, fishermen and wreckers from the lower Florida Keys worked these waters, salvaging cargo from the ships that broke apart on the offshore reefs. By the late 1800s, settlers arrived to grow pineapples, and for a brief period Elliott Key was a working agricultural community, its fruit shipped north by schooner to New York markets. The pineapple era faded in the early 20th century, but it left behind the notion that this remote key could support human enterprise.
+
+## The City That Never Was
+
+In the 1950s, a plan emerged to build a causeway across the Safety Valve - the shallow shoals between Key Biscayne and the upper keys - connecting Elliott Key to the mainland and to Key Largo via the Overseas Highway. The idea electrified landowners. In 1960, twelve of them voted to incorporate the City of Islandia, encompassing the keys north of Key Largo up to the Ragged Keys. Islandia was meant to become a rival to Miami Beach, a tropical paradise linked to the mainland by bridges and highways. Developers cleared land and dredged channels around Elliott Key in anticipation. But conservationists fought back. When Biscayne National Monument was established in 1968, Islandia's supporters bulldozed a six-lane-wide highway down the center of the island, destroying the forest along its length. They hoped the damage would dissuade the government from protecting the land. It did not. The money allocated for the proposed causeway was redirected to build a replacement Card Sound Bridge connecting Key Largo to the mainland instead. The City of Islandia lingered as a legal entity until 2012, when it was finally abolished.
+
+## The Spite Highway Grows Back
+
+What the developers could not have predicted was the resilience of subtropical forest. In the near-tropical climate of southern Florida, vegetation reclaims cleared land with remarkable speed. The raw, bulldozed gash of Elliott Key Boulevard - the Spite Highway - began to heal almost immediately. Seeds germinated in the exposed coral rock. Hardwood hammock species pushed upward. Within decades, the forest had closed over the scar, converting a monument to spite into the island's principal hiking trail. Today, an unimproved road runs longitudinally through the center of Elliott Key, following the old highway alignment. It is the only significant path on the island, shaded by the very forest the developers tried to destroy. The irony is perfect: the most destructive act in Elliott Key's history created its most useful feature.
+
+## Storm, Silence, and Solitude
+
+On August 24, 1992, Hurricane Andrew made landfall on Elliott Key with winds that would classify it as a Category 5 storm. The hurricane devastated the island and the surrounding keys, reshaping the landscape and destroying structures that had stood for decades. But Elliott Key, like the rest of Biscayne National Park, is adapted to hurricanes. The natural systems bend, break, and regenerate. It is the human additions that do not survive. Today, Elliott Key has a National Park Service campground and a seasonally staffed ranger station, but it is otherwise uninhabited. Visitors arrive by boat to camp, hike the old Spite Highway trail, or simply stand on a shore where the only sounds are wind, water, and birds. The key that once grew pineapples for New York, harbored pirates, hosted a phantom city, and weathered the strongest hurricane in modern Florida history now offers something rarer than any of those things: genuine solitude, surrounded by shallow turquoise water, with no road leading anywhere.
+
+## Flight Context
+
+Located at 25.44°N, 80.20°W, Elliott Key appears from the air as a narrow dark green ribbon running roughly north-south in Biscayne Bay, east of Homestead, Florida. The key is approximately 7 miles long but extremely narrow - less than a quarter mile wide on average. Look for the thin line of vegetation between the lighter shallow waters of Biscayne Bay to the west and the deeper blue Atlantic to the east. Sands Key lies to the north across Sands Cut; Old Rhodes Key is to the south across Caesar Creek. Adams Key sits just west of Elliott Key's southern tip. Homestead Air Reserve Base (KHST) is roughly 12nm to the west. Miami International Airport (KMIA) is approximately 28nm to the north-northeast. Best viewed at 2,000-4,000 feet AGL to appreciate the key's striking thinness against the surrounding water. The remnant of the Spite Highway is visible as a faint lighter line down the island's center in some lighting conditions. Winter months offer the best visibility; summer brings haze and frequent thunderstorms.
+
+## Sources
+
+- [Elliott Key - Wikipedia](https://en.wikipedia.org/?curid=3315107)
+  - Northernmost true Florida Key
+  - Largest key north of Key Largo
+  - Located entirely within Biscayne National Park
+  - Earlier name was Ledbury Key, after a snow driven ashore in 1769
+  - Black Caesar legend - escaped slave ship, used Elliott Key as base
+  - In 1910, more than a dozen families raising pineapples
+  - Average crop 50,000 to 75,000 dozen fruits sent by schooner to New York
+  - 1950s causeway proposal across Safety Valve
+  - City of Islandia incorporated, abolished in 2012
+  - Biscayne National Monument established 1968
+  - Developers cleared land and bulldozed Spite Highway
+  - Card Sound Bridge built with redirected causeway funds
+  - Hurricane Andrew made landfall August 24, 1992
+  - Accessible only by boat
+  - NPS campground, otherwise uninhabited
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 15 facts verified · 0 corrections
+
+All key facts verified. City of Islandia abolished March 2012 (article says 2012 - correct). Spite Highway facts accurate. Hurricane Andrew August 24 1992 confirmed. Pineapple harvest figures verified. Good narrative quality with dry irony about the Spite Highway becoming a nature trail.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Describes Islandia's developers' bulldozing as an act of spite with irony - 'most destructive act...created its most useful feature'
+- Calls the key's current offering 'rarer than any of those things: genuine solitude'
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

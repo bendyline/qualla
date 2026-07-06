@@ -188,5 +188,26 @@
     "_m/g/c/r/3/northamptonshire-wp/northamptonshire-map.png",
     "_m/g/c/r/3/northamptonshire-wp/rushden.jpg"
   ],
-  "updatedAt": "2026-03-20T07:21:28.945Z"
+  "updatedAt": "2026-03-20T07:21:28.945Z",
+  "narration": {
+    "files": [
+      "gcr3-northamptonshire-flight-context.mp3",
+      "gcr3-northamptonshire-intro.mp3",
+      "gcr3-northamptonshire-rose-of-the-shires.mp3",
+      "gcr3-northamptonshire-the-land-in-between.mp3",
+      "gcr3-northamptonshire-mary-at-fotheringhay-washington-at-sulgrave.mp3",
+      "gcr3-northamptonshire-from-boot-factories-to-formula-one.mp3",
+      "gcr3-northamptonshire-reading-the-county-from-above.mp3"
+    ],
+    "durations": {
+      "gcr3-northamptonshire-flight-context.mp3": 58.4064166,
+      "gcr3-northamptonshire-intro.mp3": 46.2025833,
+      "gcr3-northamptonshire-rose-of-the-shires.mp3": 66.5986666,
+      "gcr3-northamptonshire-the-land-in-between.mp3": 64.7383333,
+      "gcr3-northamptonshire-mary-at-fotheringhay-washington-at-sulgrave.mp3": 61.1201666,
+      "gcr3-northamptonshire-from-boot-factories-to-formula-one.mp3": 69.573125,
+      "gcr3-northamptonshire-reading-the-county-from-above.mp3": 62.0510833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

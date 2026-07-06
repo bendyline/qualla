@@ -1,0 +1,64 @@
+# Mazar-e Sharif
+
+A city born from a dream about a saint's hidden grave, Mazar-e Sharif grew around the Blue Mosque to become northern Afghanistan's capital after the ancient city of Balkh was abandoned to disease.
+
+**Location:** 36.7000, 67.1200
+
+**Categories:** cities, historical-sites, religious-sites, central-asia
+
+## Introduction
+
+A mullah's dream changed the map of Central Asia. Sometime in the twelfth century, a religious figure in northern Afghanistan claimed to have received a vision revealing the secret burial place of Ali ibn Abi Talib, cousin and son-in-law of the Prophet Muhammad, and the fourth caliph of Islam. Most Muslims believe Ali rests in Najaf, Iraq. But in Balkh Province, that dream became stone and tile. A shrine rose over the alleged grave, was rebuilt as the magnificent Blue Mosque, and a city condensed around it like a pearl forming around a grain of sand. They called it Mazar-e Sharif -- "Noble Shrine" -- and its identity has been inseparable from that glittering turquoise dome ever since.
+
+## The Dream That Built a City
+
+Mazar-e Sharif owes its existence to faith made physical. The Blue Mosque, formally known as the Shrine of Hazrat Ali, dominates the city center with its soaring turquoise domes and intricate tile work. White doves flock to the shrine's courtyard by the hundreds, a living tradition that locals consider sacred. During Nowruz, the Persian New Year, tens of thousands gather here for celebrations that predate Islam itself, blending ancient Zoroastrian spring rituals with Islamic devotion. The shrine's blue tiles catch the Afghan sun and throw it back in a shade that appears to shift between cobalt and sky depending on the hour. For a city with relatively few tourist attractions, the Blue Mosque is more than enough -- it is not merely a building people come to see, but a living center of gravity around which all of Mazar orbits.
+
+## Heir to Ancient Bactria
+
+For most of recorded history, the regional capital was not Mazar but Balkh, just twenty kilometers to the west. Balkh was the heart of ancient Bactria, a center of trade and learning that Alexander the Great passed through and the Mongols devastated. The city endured invasion after invasion, but what finally emptied it was microscopic: a disease epidemic in the mid-nineteenth century drove the population east to Mazar-e Sharif. The smaller town inherited the mantle of regional power almost by accident, a role it has held ever since. Today, with a population exceeding 485,000 as of 2020, Mazar-e Sharif is Afghanistan's fourth-largest city and the capital of Balkh Province. Its position at a crossroads of trade routes to Uzbekistan, Kabul, and Herat has made the region more ethnically diverse than most of Afghanistan, with Tajik, Uzbek, Hazara, and Pashtun communities sharing the city's streets.
+
+## Crossroads and Carpets
+
+Sitting on the northern plains with mountains rising on two sides, Mazar has long been a market town. Its bazaars sell hand-woven carpets -- both the fine geometric patterns of Turkoman rugs and the coarser, more affordable Afghan varieties. Food stalls line the roads near the shrine, offering bagels stuffed with green vegetables, tomato, and french fries, alongside banana shakes blended with almonds and dates. Persimmon slushies appear in season, their deep orange competing with the mosque's blue for the city's defining color. After Kabul, Mazar is considered the most open and cosmopolitan of Afghan cities. Dari is the dominant language, but you might hear Pashto, Tajik, Uzbek, or Russian on any given street corner, a reminder that the Uzbekistan border lies just thirty minutes north by car.
+
+## Between Empires and Eras
+
+Mazar-e Sharif has rarely been far from conflict. The city sat at the intersection of the Great Game between the British and Russian empires, and in more recent decades it became a strategic prize during the Soviet-Afghan War, the Taliban years, and the post-2001 American campaign. The road from Kabul crosses the Salang Pass, a route through the Hindu Kush that has served as a military corridor for centuries. Yet Mazar has maintained a reputation as one of Afghanistan's relatively more stable cities, a place where life persists with a stubbornness that matches the shrine at its center. Destroyed tanks and armored personnel carriers still dot the landscape on the road to nearby Balkh, rusting reminders of wars layered upon wars. But at the Blue Mosque, the white doves still circle, and the faithful still come to pray.
+
+## A City of Persistence
+
+What makes Mazar-e Sharif remarkable is not any single monument or historical event but the sheer persistence of the place. A city that grew from a vision, that inherited its role from a plague-emptied predecessor, that has survived Mongol invasions, imperial rivalries, and modern warfare -- Mazar endures. The shrine draws pilgrims from across Afghanistan and beyond, its courtyard alive with devotion and commerce and the flutter of white wings. Modern monuments sit atop traffic circles, marking a city that continues to build even amid uncertainty. English schools operate alongside traditional madrassas. The internet reaches the upper floors of hotels near the shrine. Mazar-e Sharif is not a museum of the past but a living city, one that has been reinventing itself for nearly a thousand years and shows no intention of stopping.
+
+## Flight Context
+
+Located at 36.70N, 67.12E in the northern Afghan plains, south of the Uzbekistan border. The Blue Mosque complex is visible from altitude as a distinctive turquoise cluster in the city center. Mountains frame the city on two sides. Mazar-e Sharif International Airport (OAMS) serves the city. The Salang Pass route from Kabul to the south crosses the Hindu Kush range. Balkh lies approximately 20 km to the west. Best viewed in clear conditions at 5,000-10,000 feet AGL.
+
+## Sources
+
+- [Mazar-e Sharif - Wikivoyage](https://en.wikivoyage.org/?curid=21728)
+- [Mazar-i-Sharif - Wikipedia](https://en.wikipedia.org/wiki/Mazar-i-Sharif)
+  - City name means Noble Shrine - confirmed
+  - Balkh lies approximately 20 km to the west - confirmed
+  - Population exceeding 485,000 as of 2020 - confirmed (484,500-485,000 per multiple sources)
+  - Fourth-largest city in Afghanistan - confirmed
+  - Mid-19th century disease epidemic drove population from Balkh to Mazar-e Sharif - confirmed
+  - Ali described as cousin and son-in-law of the Prophet Muhammad - confirmed
+  - Shrine of Hazrat Ali / Blue Mosque dominates city center with turquoise domes - confirmed
+  - White doves flock to shrine courtyard - confirmed
+  - Balkh devastated by Mongols (Genghis Khan) - confirmed, destroyed 1220
+- [Mazar-e Sharif - Britannica](https://www.britannica.com/place/Mazar-e-Sharif)
+  - Population estimate 484,500 for 2020 - consistent with story claim of 485,000
+
+## Review Notes
+
+**Reviewed:** 2026-03-01 · 9 facts verified · 0 corrections
+
+All key facts verified: population 485,000 (2020) confirmed as 4th largest Afghan city; Balkh 20km west confirmed; mid-19th century epidemic driving population shift confirmed; White doves and shrine traditions confirmed. Ali correctly identified as cousin and son-in-law of Muhammad and fourth caliph. No factual errors found. Language clean, respectful treatment of complex religious and political context. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

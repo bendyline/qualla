@@ -134,5 +134,24 @@
     "_m/q/d/6/6/perth-wp/australia-relief-map.jpg",
     "_m/q/s/6/5/operation-hurricane-wp/operationhurricane.png"
   ],
-  "updatedAt": "2026-03-31T02:10:35.223Z"
+  "updatedAt": "2026-03-31T02:10:35.223Z",
+  "narration": {
+    "files": [
+      "qs65-operation-hurricane-flight-context.mp3",
+      "qs65-operation-hurricane-intro.mp3",
+      "qs65-operation-hurricane-from-tube-alloys-to-cold-war-necessity.mp3",
+      "qs65-operation-hurricane-finding-a-place-to-split-the-atom.mp3",
+      "qs65-operation-hurricane-the-day-the-plym-vanished.mp3",
+      "qs65-operation-hurricane-the-fallout-that-lingers.mp3"
+    ],
+    "durations": {
+      "qs65-operation-hurricane-flight-context.mp3": 48.1745416,
+      "qs65-operation-hurricane-intro.mp3": 45.0627916,
+      "qs65-operation-hurricane-from-tube-alloys-to-cold-war-necessity.mp3": 60.936375,
+      "qs65-operation-hurricane-finding-a-place-to-split-the-atom.mp3": 75.4392916,
+      "qs65-operation-hurricane-the-day-the-plym-vanished.mp3": 78.20225,
+      "qs65-operation-hurricane-the-fallout-that-lingers.mp3": 81.5248333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

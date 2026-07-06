@@ -246,6 +246,23 @@
       "sourceArticleId": "county-kilkenny-wp",
       "sourceGeohash4": "gc6g",
       "smallPath": "_m/g/c/6/g/county-kilkenny-wp/newross2011-small.webp"
+    },
+    {
+      "filename": "New Ross - aerial - 2026-04-18 04.jpg",
+      "title": "File:New Ross - aerial - 2026-04-18 04.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/New_Ross_-_aerial_-_2026-04-18_04.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:New_Ross_-_aerial_-_2026-04-18_04.jpg",
+      "width": 4032,
+      "height": 2268,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "瑞丽江的河水",
+      "description": "New Ross aerial photo",
+      "dateCreated": "2026-04-18 16:48:03",
+      "sourceType": "poi",
+      "sourceArticleId": "county-kilkenny-wp",
+      "sourceGeohash4": "gc6g"
     }
   ],
   "galleryPaths": [
@@ -258,7 +275,31 @@
     "_m/g/c/6/g/county-kilkenny-wp/kellskilkvillage.jpg",
     "_m/g/c/6/g/county-kilkenny-wp/castlecomer-in-county-kilkenny.jpg",
     "_m/g/c/6/g/county-kilkenny-wp/img-freshfordshop1817.jpg",
-    "_m/g/c/6/g/county-kilkenny-wp/newross2011.jpg"
+    "_m/g/c/6/g/county-kilkenny-wp/newross2011.jpg",
+    "_m/g/c/6/g/county-kilkenny-wp/new-ross-aerial-2026-04-18-04.jpg"
   ],
-  "updatedAt": "2026-03-19T19:44:46.317Z"
+  "updatedAt": "2026-06-20T06:20:55.582Z",
+  "narration": {
+    "files": [
+      "gc6g-county-kilkenny-flight-context.mp3",
+      "gc6g-county-kilkenny-intro.mp3",
+      "gc6g-county-kilkenny-a-geography-of-rivers.mp3",
+      "gc6g-county-kilkenny-the-kingdom-of-osraige.mp3",
+      "gc6g-county-kilkenny-strongbows-wedding-and-what-came-after.mp3",
+      "gc6g-county-kilkenny-abbey-country.mp3",
+      "gc6g-county-kilkenny-hurling-country.mp3",
+      "gc6g-county-kilkenny-living-memory.mp3"
+    ],
+    "durations": {
+      "gc6g-county-kilkenny-flight-context.mp3": 54.4927916,
+      "gc6g-county-kilkenny-intro.mp3": 46.9992083,
+      "gc6g-county-kilkenny-a-geography-of-rivers.mp3": 62.3005,
+      "gc6g-county-kilkenny-the-kingdom-of-osraige.mp3": 62.180875,
+      "gc6g-county-kilkenny-strongbows-wedding-and-what-came-after.mp3": 59.1495,
+      "gc6g-county-kilkenny-abbey-country.mp3": 54.8894166,
+      "gc6g-county-kilkenny-hurling-country.mp3": 58.17325,
+      "gc6g-county-kilkenny-living-memory.mp3": 52.0265833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

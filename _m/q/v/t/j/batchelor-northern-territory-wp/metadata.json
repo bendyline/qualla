@@ -118,5 +118,24 @@
   "galleryPaths": [
     "_m/q/v/t/j/batchelor-northern-territory-wp/batchelor-general-stor.jpg",
     "_m/q/v/t/j/batchelor-northern-territory-wp/rum-jungle-lake.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qvtj-batchelor-northern-territory-flight-context.mp3",
+      "qvtj-batchelor-northern-territory-intro.mp3",
+      "qvtj-batchelor-northern-territory-country-before-the-colony.mp3",
+      "qvtj-batchelor-northern-territory-war-comes-to-the-scrub.mp3",
+      "qvtj-batchelor-northern-territory-after-the-mine.mp3",
+      "qvtj-batchelor-northern-territory-seasons-and-scale.mp3"
+    ],
+    "durations": {
+      "qvtj-batchelor-northern-territory-flight-context.mp3": 45.8162083,
+      "qvtj-batchelor-northern-territory-intro.mp3": 40.863625,
+      "qvtj-batchelor-northern-territory-country-before-the-colony.mp3": 56.1490416,
+      "qvtj-batchelor-northern-territory-war-comes-to-the-scrub.mp3": 64.9255833,
+      "qvtj-batchelor-northern-territory-after-the-mine.mp3": 48.953625,
+      "qvtj-batchelor-northern-territory-seasons-and-scale.mp3": 46.519625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

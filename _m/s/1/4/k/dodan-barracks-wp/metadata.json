@@ -75,5 +75,24 @@
     "sourceGeohash4": "s14k"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "s14k-dodan-barracks-flight-context.mp3",
+      "s14k-dodan-barracks-intro.mp3",
+      "s14k-dodan-barracks-where-coups-come-home.mp3",
+      "s14k-dodan-barracks-coffins-presidents-and-a-palace-coup.mp3",
+      "s14k-dodan-barracks-under-fire-at-dawn.mp3",
+      "s14k-dodan-barracks-the-slow-fade.mp3"
+    ],
+    "durations": {
+      "s14k-dodan-barracks-flight-context.mp3": 40.0342083,
+      "s14k-dodan-barracks-intro.mp3": 40.2164166,
+      "s14k-dodan-barracks-where-coups-come-home.mp3": 54.5235833,
+      "s14k-dodan-barracks-coffins-presidents-and-a-palace-coup.mp3": 66.87975,
+      "s14k-dodan-barracks-under-fire-at-dawn.mp3": 55.3580833,
+      "s14k-dodan-barracks-the-slow-fade.mp3": 65.587375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

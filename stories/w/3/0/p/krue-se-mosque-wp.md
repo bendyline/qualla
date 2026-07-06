@@ -1,0 +1,62 @@
+# Krue Se Mosque
+
+An unfinished 16th-century mosque in southern Thailand where centuries of Malay-Muslim identity, Siamese conquest, and modern tragedy converge in crumbling brick and pointed arches.
+
+**Location:** 6.8730, 101.3030
+
+**Categories:** 16th-century mosques in Asia, Buildings and structures in Pattani province, Mosques in Thailand, Registered ancient monuments in Thailand, Sunni mosques in Thailand
+
+## Introduction
+
+The building has no roof. It never did. Krue Se Mosque in Pattani province has stood incomplete since the 16th century, its brick walls and Persian-style arches open to the sky for more than four hundred years. Local legend offers a curse as explanation; historians point to the turbulent politics of the Sultanate of Patani. Whatever stopped the builders, the result is one of Southeast Asia's most haunting religious structures -- a place where the unfinished architecture mirrors an unfinished struggle over identity, sovereignty, and belonging that continues to this day.
+
+## Walls Without a Ceiling
+
+The mosque sits on a brick base measuring 15.1 meters wide and 29.6 meters long, with walls rising 6.5 meters from floor to what would have been a ceiling. Its pointed arches, arched doorways, and rounded windows have been described as European Gothic, but scholars believe they more likely reflect Middle Eastern or Persian architectural traditions carried to the Malay Peninsula through centuries of Indian Ocean trade. Patani was a major trading port in the 16th and 17th centuries, drawing merchants from China, India, Persia, and Europe. The mosque's hybrid design speaks to that cosmopolitan past. Designated a historical site by Thailand's Department of Fine Arts in 1935, the structure has undergone major restorations in 1957, 1982, and 2005, each effort preserving what exists rather than completing what was never finished.
+
+## The Sultanate's Fall
+
+For centuries, Patani was an independent Malay sultanate with its own rulers, language, and Islamic traditions. That independence ended when Siamese forces captured and sacked the city in 1785, looting its treasures and carrying away Phaya Tani, the sultanate's legendary cannon, to Bangkok. The mosque may have already been in ruins by then; its reconstruction is attributed to Tuan Sulong, who governed Pattani from 1816 to 1832. The name "Krue Se" derives from the Malay kampung name Kerisik, likely from the word gersek meaning "coarse-grained sand" -- a reference to the sandy ground on which the mosque stands. For the Malay-Muslim population of Thailand's deep south, the mosque became more than a religious site. It became a symbol of a distinct identity that predates Thai sovereignty over the region by centuries.
+
+## April 28, 2004
+
+The date changed everything the mosque represented. On that morning, more than 100 militants launched coordinated attacks on ten police outposts across Pattani, Yala, and Songkhla provinces during a period of escalating insurgency by Islamic nationalists. Thirty-two gunmen retreated into Krue Se Mosque, where a seven-hour standoff with the Thai military followed. The Minister of Defence ordered a peaceful resolution. The soldiers on the ground ignored those orders. All thirty-two men inside the mosque were killed. An international inquiry later concluded that the military used excessive force. The assault on a centuries-old house of worship -- on the holiest ground the Malay-Muslim community claimed -- deepened the wounds of a conflict that had already lasted decades. For many in the south, the mosque became a site of mourning as much as heritage.
+
+## The Cannon That Came Back Wrong
+
+In 2013, authorities placed a replica of Phaya Tani in front of the mosque, attempting a gesture of reconciliation. The original cannon, seized in 1785 and kept in Bangkok, remains one of the most potent symbols of Patani's lost sovereignty. The replica was supposed to acknowledge that loss. Instead, separatists bombed it. They viewed the copy as an insult -- a counterfeit substituted for something whose return they had long demanded. The damaged replica became its own kind of symbol: a reminder that symbolic gestures cannot substitute for genuine reckoning with the past. The original Phaya Tani remains in Bangkok. The mosque remains without a roof. And the conflict in Thailand's southernmost provinces, where Malay-Muslim communities navigate life under a Buddhist-majority state, remains unresolved.
+
+## Flight Context
+
+Located at 6.873N, 101.303E in Pattani province, southern Thailand near the Malaysian border. The mosque is a small ground-level structure best spotted at low altitude. Nearest significant airport is VTSK (Pattani Airport). The area sits along the coast of the Gulf of Thailand with flat terrain and scattered settlements visible from the air.
+
+## Sources
+
+- [Krue Se Mosque - Wikipedia](https://en.wikipedia.org/?curid=21908427)
+  - Mosque designated historical site by Department of Fine Arts in 1935
+  - Major restorations in 1957, 1982, and 2005 confirmed
+  - April 28 2004 date of siege confirmed
+  - 32 gunmen retreated into mosque and were killed confirmed
+  - Thai government investigation concluded military used excessive force confirmed
+- [Human Rights Watch - Thailand: Investigate Krue Se Mosque Raid](https://www.hrw.org/news/2006/04/28/thailand-investigate-krue-se-mosque-raid)
+  - Coordinated attacks on security posts across Pattani, Yala and Songkhla confirmed
+  - Minister of Defence ordered peaceful resolution - soldiers ignored orders confirmed
+  - All 32 men inside the mosque were killed confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 8 facts verified · 0 corrections
+
+All key facts verified: April 28 2004 siege, 32 militants killed, excessive force ruling, mosque dimensions, Department of Fine Arts 1935 designation, restorations 1957/1982/2005 confirmed. No corrections needed.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- The replica cannon 'became its own kind of symbol: a reminder that symbolic gestures cannot substitute for genuine reckoning with the past'
+- The mosque remains 'a site of mourning as much as heritage'
+
+---
+
+*Word count: 720*
+*Read time: 4 minutes*

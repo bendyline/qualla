@@ -656,5 +656,24 @@
     "_m/k/7/f/7/sandwich-harbour-wp/sandwich-harbour-2006-03.jpg",
     "_m/k/7/f/7/sandwich-harbour-wp/sandwich-harbour-2006-02.jpg"
   ],
-  "updatedAt": "2026-03-30T16:01:28.813Z"
+  "updatedAt": "2026-03-30T16:01:28.813Z",
+  "narration": {
+    "files": [
+      "k7f7-sandwich-harbour-flight-context.mp3",
+      "k7f7-sandwich-harbour-intro.mp3",
+      "k7f7-sandwich-harbour-where-the-namib-meets-the-atlantic.mp3",
+      "k7f7-sandwich-harbour-whalers-sealers-and-snoek-fishermen.mp3",
+      "k7f7-sandwich-harbour-the-jackal-problem.mp3",
+      "k7f7-sandwich-harbour-permit-required.mp3"
+    ],
+    "durations": {
+      "k7f7-sandwich-harbour-flight-context.mp3": 51.5492083,
+      "k7f7-sandwich-harbour-intro.mp3": 55.3895833,
+      "k7f7-sandwich-harbour-where-the-namib-meets-the-atlantic.mp3": 55.1994583,
+      "k7f7-sandwich-harbour-whalers-sealers-and-snoek-fishermen.mp3": 41.892875,
+      "k7f7-sandwich-harbour-the-jackal-problem.mp3": 49.0879166,
+      "k7f7-sandwich-harbour-permit-required.mp3": 57.976875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -95,5 +95,24 @@
   "galleryPaths": [
     "_m/d/r/7/2/apollo-theater-wp/harlem-apollo-theater.jpg"
   ],
-  "updatedAt": "2026-03-30T15:20:36.384Z"
+  "updatedAt": "2026-03-30T15:20:36.384Z",
+  "narration": {
+    "files": [
+      "dr72-sydenham-hospital-flight-context.mp3",
+      "dr72-sydenham-hospital-intro.mp3",
+      "dr72-sydenham-hospital-nine-houses-on-116th-street.mp3",
+      "dr72-sydenham-hospital-the-fiscal-knife.mp3",
+      "dr72-sydenham-hospital-the-peoples-administration.mp3",
+      "dr72-sydenham-hospital-an-unintended-consequence.mp3"
+    ],
+    "durations": {
+      "dr72-sydenham-hospital-flight-context.mp3": 39.4975416,
+      "dr72-sydenham-hospital-intro.mp3": 51.7751666,
+      "dr72-sydenham-hospital-nine-houses-on-116th-street.mp3": 62.9625416,
+      "dr72-sydenham-hospital-the-fiscal-knife.mp3": 65.936875,
+      "dr72-sydenham-hospital-the-peoples-administration.mp3": 53.0933333,
+      "dr72-sydenham-hospital-an-unintended-consequence.mp3": 60.9334583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

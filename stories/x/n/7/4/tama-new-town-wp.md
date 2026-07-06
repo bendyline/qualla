@@ -1,0 +1,57 @@
+# Tama New Town: The Planned City Where Raccoon Dogs Fought Back (In Film, at Least)
+
+Japan's largest housing development was built in the Tama Hills west of Tokyo to house 200,000 people in orderly neighborhoods -- and became famous worldwide as the setting for Studio Ghibli's Pom Poko, where shapeshifting tanuki wage a doomed battle against suburban expansion.
+
+**Location:** 35.6239, 139.4229
+
+**Categories:** planned-community, urban-development, residential, tokyo, japan
+
+## Introduction
+
+In the 1994 Studio Ghibli film Pom Poko, shapeshifting tanuki -- Japanese raccoon dogs -- watch in horror as bulldozers devour the Tama Hills to build an enormous housing development. They shapeshift into ghosts and monsters, stage elaborate illusions, and desperately try to stop construction. They fail. The development wins. The tanuki adapt or disappear. It is a bittersweet environmental fable, but the real Tama New Town is not a fable at all. Planned in 1965 during Japan's postwar economic miracle, built across 2,892 hectares of rolling hills west of central Tokyo, and home to roughly 200,000 people, it is the largest housing development in Japan. It straddles four cities -- Hachioji, Tama, Inagi, and Machida -- and hosts sixteen university campuses, a monorail, an indoor Hello Kitty theme park, and a main boulevard named after the Parthenon.
+
+## The Pressure That Built a City
+
+During the postwar economic miracle, Tokyo's population boomed and land prices soared. Workers who could not afford housing near the center of the capital pushed outward, creating rings of unplanned sprawl with inadequate infrastructure, poor transportation access, and few public amenities. The Japanese government feared the problem would only worsen. In 1965, planners proposed Tama New Town as a controlled alternative: a massive, centrally designed residential community in the Tama Hills, roughly thirty kilometers west of central Tokyo. The Housing and Urban Development Corporation, Tokyo Metropolitan Housing Supply Corporation, and the Tokyo Metropolitan Government jointly oversaw the project. The original plan called for a population of 342,200 across a designated area of 2,892.1 hectares. Construction began in 1966, and the first residents moved in when the initial phase opened in 1971.
+
+## Twenty-One Neighborhoods by Design
+
+Tama New Town was designed with an almost mathematical precision. Twenty-one neighborhoods, each containing between 3,000 and 5,000 housing units, each served by two elementary schools and one junior high school, each centered on a neighborhood hub with shops, a police box, a post office, and medical clinics. Several neighborhoods cluster around a commuter rail station, forming districts that connect directly to Shinjuku Station in central Tokyo via the Keio Sagamihara Line and the Odakyu Tama Line. More than ten railway stations serve the development. The JR Nambu Line and the Tama Toshi Monorail Line add further connections. Despite its enormous scale, Tama New Town is not its own municipality -- it straddles the pre-existing boundaries of four cities, each administering its own section under the jurisdiction of the Tokyo Metropolis.
+
+## Parthenon Avenue and the Heart of Tama
+
+The designated center of Tama New Town lies around the Tama Center Station complex, in the municipality of Tama. From the station, Parthenon Avenue stretches southward -- a broad thoroughfare famous for its elaborate winter illuminations. The avenue leads to Parthenon Tama, a massive cultural center perched on a hilltop and nicknamed after its Greek counterpart for that elevated position. Inside is a free museum documenting Tama New Town's own history. Behind the building lie Tama Central Park and a neighboring Shinto shrine. The surrounding blocks contain retail complexes, hotels, and Sanrio Puroland -- the indoor theme park dedicated to Hello Kitty and Sanrio's other characters. It is a neighborhood where a monorail glides overhead, families shop in modern arcades, and a theme park mascot is the area's most recognizable resident.
+
+## The Tanuki's Revenge: Tama in Fiction
+
+Tama New Town achieved international fame not through urban planning conferences but through animation. Isao Takahata's 1994 Pom Poko used the development's construction as its central drama, following communities of tanuki as their forest habitat is systematically cleared. The film made Tama New Town a symbol of Japan's tension between modernization and nature. A year later, Yoshifumi Kondo's Whisper of the Heart, also from Studio Ghibli, set its gentle coming-of-age story in the neighborhoods near Seiseki-Sakuragaoka Station on Tama New Town's eastern edge -- though the film depicted the area as more developed than it actually was at the time. In 2022, director Yui Kiyohara's film Remembering Every Night turned the development itself into a protagonist, its ensemble cast drifting through Tama's streets and parks. That same year, novelist Charles Stross set his novella Escape from Yokai Land inside Sanrio Puroland, where a supernatural Hello Kitty threatens to become a kaiju.
+
+## A City Still Finding Itself
+
+Tama New Town today is a mature community facing the challenges of aging infrastructure and an evolving population. The earliest apartment blocks from the 1970s now stand alongside newer commercial developments like Greenwalk Tama, which opened in Hachioji in 2007. Sixteen university and college campuses call the development home, including Chuo University, Tama Art University, and Tokyo Metropolitan University, giving the area a youthful energy that counterbalances its graying residential towers. FM Tama G-Wind broadcasts community news on 77.6 MHz, and Tama Television provides cable and internet service. The Wakabadai Station area in Inagi has seen rapid growth following the completion of Tama New Town's final construction phase, with multiple retail complexes and a planned cultural center featuring a 400-seat auditorium and library. Fifty years after the first residents arrived, the planned city is still planning its next chapter.
+
+## Flight Context
+
+Located at 35.62N, 139.42E in the Tama Hills, approximately 30 kilometers west of central Tokyo. From the air, Tama New Town appears as a vast grid of residential blocks, distinctive for its orderly layout contrasting with the more organic suburban sprawl surrounding it. The development stretches east-west across hilly terrain. Best viewed at 3,000-5,000 feet AGL to appreciate its enormous scale. Chofu Airport (RJTF) lies approximately 10 nautical miles to the east. Tokyo Narita (RJAA) and Haneda (RJTT) serve as major international airports. The Tama Toshi Monorail corridor is visible as a curving elevated track through the development.
+
+## Sources
+
+- [Tama New Town - Wikipedia](https://en.wikipedia.org/?curid=2954436)
+- [Tama New Town - UR Urban Development Corporation](https://www.ur-net.go.jp/overseas/achievements/tama.html)
+  - Planned 1965, 2892.1 hectares designated area
+  - Original planned population 342,200, current ~200,000
+  - Construction began 1966, first residents 1971
+  - Largest housing development in Japan
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 10 facts verified · 0 corrections
+
+Verified: Planned 1965, 2892.1 hectares, original planned population 342200, current ~200000. Construction began 1966, first residents 1971. Largest housing development in Japan. Straddles Hachioji, Tama, Inagi, Machida. Pom Poko 1994 Studio Ghibli confirmed, Whisper of the Heart 1995 confirmed. Sanrio Puroland confirmed at Tama Center. Tama Toshi Monorail confirmed. Spiciness 1: factual development history with cultural references.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

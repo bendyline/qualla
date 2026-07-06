@@ -1,0 +1,56 @@
+# Acapulco
+
+Mexico's original resort town where galleons once sailed from Manila and cliff divers still plunge into the Pacific, Acapulco remains a sun-drenched testament to glamour, grit, and the enduring pull of its legendary bay.
+
+**Location:** 16.8636, -99.8825
+
+**Categories:** coastal, historic, resort
+
+## Introduction
+
+The scent of salt and diesel mingles in the humid air as pink buses blast traditional Mexican music down La Costera, racing past high-rise hotels that line one of the most famous bays in the Americas. This is Acapulco, where Hollywood royalty once sipped cocktails beneath swaying palms and where, for nearly three centuries before that, galleons laden with silk and spices completed their grueling voyage from Manila. The bay itself, a near-perfect crescent of blue water embraced by steep green hills, possesses a beauty that tourism brochures cannot exaggerate. Here, time moves in layers: colonial-era fortifications guard the harbor entrance, mid-century modern towers crowd the waterfront, and the legendary cliff divers of La Quebrada still fling themselves into the churning Pacific at sunset, just as they have since 1934.
+
+## Gateway of the Pacific
+
+Before Acapulco became synonymous with beach vacations, it served as the terminus of one of history's most lucrative trade routes. For 250 years, the Manila Galleons crossed the Pacific carrying Chinese porcelain, Philippine textiles, and Asian spices to this sheltered harbor, where the cargo would be loaded onto mule trains bound for Mexico City and eventually Veracruz for shipment to Spain. The fortified walls of Fort San Diego, constructed in the early 17th century to protect this treasure from English and Dutch pirates, still stand guard over the harbor. Today the fort houses a museum chronicling this remarkable chapter of global commerce that made Acapulco one of the most important ports in the New World.
+
+## The Golden Age of Glamour
+
+The 1950s and 1960s transformed Acapulco into an international playground. Elizabeth Taylor, Frank Sinatra, and John F. Kennedy were photographed lounging at its legendary hotels, and the city's name became shorthand for exotic luxury. The beaches of Caleta and Caletilla, protected by La Roqueta island, offered calm waters for swimming, while the open-ocean swells at Playa Revolcadero attracted surfers and thrill-seekers. Nightclubs like Palladium were built into the hillsides with panoramic views of the glittering bay. Though time and changing travel patterns have weathered some of that glamour, the fundamental appeal remains: warm Pacific waters, dramatic topography, and a spirit of uninhibited festivity that pulses through the night along La Costera.
+
+## Life Along La Costera
+
+Acapulco's main boulevard traces the arc of the bay, a chaotic ribbon of traffic where taxi drivers negotiate fares in pesos and privately owned buses decorated with UV lights compete for passengers. The city's transport system offers an experience in itself: buses stop wherever you wave them down, each vehicle a unique expression of its owner's taste, some blaring club music, others traditional mariachi. At the western end, the old town clusters around the Zocalo with its colonial architecture and more affordable hotels. Eastward, past beaches named Hornos, Papagayo, and Icacos, the boulevard reaches the modern hotel zone where international chains tower over the sand.
+
+## The Divers of La Quebrada
+
+Since 1934, young men have climbed the rugged cliffs at La Quebrada and waited for the precise moment when incoming waves fill the narrow cove below with enough depth to cushion their 35-meter plunge. The timing must be perfect; miscalculate, and the rocks await. Performed multiple times daily, with evening shows illuminated by torches, this ritual has become Acapulco's most iconic spectacle. The divers, some from families who have practiced this tradition for generations, pray at a small shrine carved into the rock face before each jump. It is a visceral reminder that beneath the resort veneer, Acapulco retains a wild edge shaped by the collision of human daring and the relentless Pacific.
+
+## Flight Context
+
+Located at 16.86N, 99.88W on Mexico's southern Pacific coast. Elevation near sea level. The crescent bay is clearly visible from altitude. Nearest airport: General Juan N. Alvarez International Airport (MMAA/ACA). Regional airports include Zihuatanejo-Ixtapa International (MMZH) to the northwest and Puerto Escondido (MMPS) to the southeast.
+
+## Sources
+
+- [Acapulco - Wikivoyage](https://en.wikivoyage.org/?curid=147)
+- [La Quebrada Cliff Divers - Wikipedia](https://en.wikipedia.org/wiki/La_Quebrada_Cliff_Divers)
+  - Cliff diving since 1934
+  - 35-meter height
+  - Manila Galleons history
+
+## Review Notes
+
+**Reviewed:** 2026-01-23 · 3 facts verified · 0 corrections
+
+Verified: La Quebrada cliff diving since 1934, 35 meters.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- grit and enduring pull
+
+---
+
+*Word count: 720*
+*Read time: 4 minutes*

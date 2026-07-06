@@ -1,0 +1,63 @@
+# Second Battle of El Alamein
+
+The thirteen-day battle in October-November 1942 where Montgomery's Eighth Army broke through Rommel's defenses and turned the tide of World War II in North Africa.
+
+**Location:** 30.8414, 28.9428
+
+**Categories:** World War II, military history, North African campaign, El Alamein, Egypt, British Eighth Army
+
+## Introduction
+
+At 21:40 on October 23, 1942, under a full moon and a calm Egyptian sky, 882 guns opened fire simultaneously along the El Alamein front. The barrage lasted five and a half hours. By the time it ended, each gun had fired roughly 600 rounds, more than half a million shells in total. It was the opening of Operation Lightfoot, the first phase of what would become the decisive battle of the North African campaign. Over the next thirteen days, the British Eighth Army under Lieutenant-General Bernard Montgomery would grind through some of the most heavily mined and fortified terrain of the war, at a cost that Montgomery had predicted almost to the day.
+
+## Half a Million Mines
+
+Rommel had turned the El Alamein position into a fortress. Knowing he lacked the fuel for mobile warfare, he built his defense in depth: two belts of minefields separated by open ground, connected at intervals to create enclosed boxes the Germans called Devil's Gardens. Roughly half a million mines, mostly Teller anti-tank mines with S-mines scattered among them, covered the approaches. Many were British mines captured at Tobruk. The Italians dragged an axle and tires through the minefields to create tracks that looked like well-used paths, luring Allied vehicles onto live ordnance. Behind the second mine belt, Rommel placed his main defensive positions at least two kilometers deep. He interspersed German and Italian infantry to stiffen the line and split his armor into northern and southern groups, abandoning his usual practice of holding tanks in concentrated reserve. It was a gamble born of necessity: once his forces committed, the fuel shortage meant they could not move again.
+
+## The Deception That Bought Days
+
+Before a single shot was fired, the Eighth Army fought the battle with plywood and garbage. Operation Bertram, the deception plan, was elegant in its simplicity. In the northern sector, waste materials were dumped under camouflage nets, looking like ammunition stores. The Axis noticed them but when no attack followed, they stopped watching. At night, real ammunition and fuel replaced the rubbish. In the south, dummy tanks were built from plywood frames mounted on jeeps. In the north, real tanks were disguised as supply trucks with removable plywood shells. A dummy water pipeline was constructed, its slow progress suggesting the attack would come much later and much further south than Montgomery intended. The deception worked. Rommel, already in Germany on sick leave, did not return until the evening of October 25, two days after the battle began. His temporary replacement, General Georg Stumme, suffered a fatal heart attack on the morning of the 24th after driving forward to assess the situation.
+
+## Crumbling Through the Line
+
+Montgomery envisioned the battle in three stages: break-in, dogfight, and breakout. The break-in proved agonizing. Four infantry divisions of XXX Corps advanced on the first night while engineers cleared lanes through the minefields, each lane barely wide enough for a tank in single file. The 500 tanks of X Corps crawled forward at 02:00 but by 04:00 were mired in dust so thick that visibility dropped to zero. Traffic jams developed in the minefields. Only half the infantry reached their objectives, and none of the armor broke through. What followed was ten days of what Montgomery called crumbling: grinding, attritional combat designed to destroy Axis forces faster than they could be replaced. The 9th Australian Division attacked repeatedly toward the coast, the 51st Highland Division fought for the Kidney feature, and the 1st Armoured Division dueled Axis tanks in engagements where a hundred armored vehicles clashed and half were destroyed by nightfall.
+
+## The Sacrifice at Tel el Aqqaqir
+
+On November 2, Operation Supercharge launched the final phase. The 9th Armoured Brigade was ordered to break the Axis gun line on the Rahman Track, the spine of Rommel's defense. Brigadier John Currie warned that his brigade would suffer fifty percent casualties attacking on too wide a front with no reserves. The reply came down from Montgomery through Freyberg: the brigade was prepared to accept one hundred percent casualties. At 06:15, thirty minutes before dawn, the brigade advanced into the rising sun, silhouetted against the sky. German and Italian anti-tank guns, including twenty-four of the feared 88mm flak guns, opened fire. In thirty minutes, the brigade destroyed roughly thirty-five Axis guns and took several hundred prisoners, but the cost was devastating. Of 94 tanks that started the attack, only 24 survived. Of 400 men, 230 were killed, wounded, or captured. When Brigadier Gentry arrived and asked Currie where his armored regiments were, Currie waved at the burning wreckage around him: "There are my armoured regiments, Bill."
+
+## The Tide Turns
+
+The 9th Armoured Brigade had not achieved the clean breakthrough Montgomery wanted, but it had broken the back of Rommel's defense. The Axis counter-attack on November 2 cost roughly 100 tanks they could not replace; by that evening, General von Thoma reported only 35 tanks available for the next day. Rommel knew the battle was lost. He signaled Hitler for permission to retreat, but Hitler ordered him to hold at all costs. The delay proved fatal for the Italian infantry divisions, which were not motorized and could not withdraw. The Ariete, Littorio, and Trieste divisions were destroyed conducting rear-guard actions. The Bologna and Trento divisions marched into the desert and surrendered from dehydration. On the evening of November 4, unable to wait any longer, Rommel ordered a general retreat. Churchill, speaking at the Mansion House on November 10, called it the turning point. Looking back years later, he wrote: "Before Alamein we never had a victory. After Alamein we never had a defeat."
+
+## Flight Context
+
+Located at 30.84N, 28.94E on Egypt's Mediterranean coast, 106 km west of Alexandria. The battlefield extends from the coast south to the Qattara Depression, a vast below-sea-level salt marsh visible from altitude. The narrow corridor between the sea and the Depression that made flanking impossible is best appreciated from 10,000-15,000 ft AGL. El Alamein International Airport (HEAL) is nearby. Three war memorials (Commonwealth, German, Italian) are visible along the coastal highway. The Rahman Track, spine of the Axis defense, ran north-south through the battlefield roughly 15 km inland.
+
+## Sources
+
+- [Second Battle of El Alamein - Wikipedia](https://en.wikipedia.org/?curid=29587)
+  - 882 guns opened fire at 21:40 on October 23, 1942 confirmed
+  - Barrage lasted five and a half hours, each gun firing ~600 rounds (~529,000 shells total) confirmed
+  - Operation Lightfoot was the first phase of the battle
+  - 9th Armoured Brigade: 94 tanks at start, 24 survivors confirmed
+  - 9th Armoured Brigade: 230 of 400 men killed, wounded, or captured confirmed
+  - Brigadier Currie warned of 50% casualties; told 100% was acceptable
+  - Rommel absent in Germany on sick leave, returned evening of October 25
+  - General Georg Stumme died of a heart attack on October 24
+- [Second Battle of El Alamein - historyofwar.org](https://www.historyofwar.org/articles/battles_alamein_2nd.html)
+  - Operation Supercharge launched November 2 for the final phase
+  - Axis counter-attack on November 2 destroyed roughly 100 tanks they could not replace
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 10 facts verified · 0 corrections
+
+Verified 882 guns, 5.5-hour barrage, ~600 rounds per gun, ~529,000 shells total. 9th Armoured Brigade: 94 tanks, 24 survivors, 230/400 men casualties. Rommel absent returned Oct 25, Stumme fatal heart attack Oct 24. All key facts confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 900*
+*Read time: 5 minutes*

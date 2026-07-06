@@ -1,0 +1,64 @@
+# Aluminaut
+
+The world's first aluminum submarine, built by Reynolds Metals in 1964 to prove the metal's strength, went on to recover a lost hydrogen bomb off Spain and rescue a fellow submersible from the ocean floor.
+
+**Location:** 37.5630, -77.4664
+
+**Categories:** submarines, maritime history, Cold War, museums, Richmond
+
+## Introduction
+
+Somewhere in the pitch-black depths off the coast of Spain, an 80-ton aluminum cylinder crept along the seafloor, searching for a hydrogen bomb that should never have been there. The year was 1966, the Cold War was at full throttle, and a midair collision between a B-52 bomber and a refueling tanker had scattered four thermonuclear weapons across the fishing village of Palomares. Three fell on land. The fourth sank into the Mediterranean. For eighty days, the civilian crew of the Aluminaut hunted for it, proving along the way that their experimental vessel -- the world's first aluminum submarine -- was far more than a corporate publicity stunt.
+
+## A Metal Maker's Wild Idea
+
+The concept was born in 1942, in the middle of a world war, when Julian "Louis" Reynolds -- son of the founder of Reynolds Metals Company -- imagined building a submarine from aluminum. It was audacious. Steel had always been the material of choice for pressure hulls, but aluminum's strength-to-weight ratio actually exceeds steel's, meaning a lighter hull could withstand the same crushing depths. Reynolds Metals, already manufacturing aluminum buses and motor vehicles, saw the submarine as the ultimate demonstration of what their product could do. In 1964, they contracted the Electric Boat Division of General Dynamics in Groton, Connecticut -- the same shipyard that built America's nuclear submarine fleet -- to construct the vessel. The result was an 80-ton submersible with a hull of eleven forged aluminum cylinders, four viewports, active and passive sonar, robotic manipulators, and room for a crew of three plus four scientists.
+
+## Eighty Days in the Mediterranean
+
+On January 17, 1966, a B-52 carrying four hydrogen bombs collided with a KC-135 tanker during a routine midair refueling over Palomares, Spain. The Navy dispatched an 18-ship task force under Admiral William S. "Wild Bill" Guest to find the missing fourth bomb on the seafloor. The civilian-crewed Aluminaut and the Woods Hole submersible Alvin were both pressed into service alongside military assets. For eighty days the search dragged on, straining relations with Spain and handing Soviet propagandists what Time magazine called "a rich fallout of anti-American gibes." Alvin eventually spotted the weapon resting deep below the surface, and it was raised intact on April 7, 1966. Admiral Guest allowed the media to photograph a thermonuclear bomb for the first time, sitting on the fantail of the submarine rescue ship USS Petrel. The Aluminaut had earned its reputation in the most high-stakes proving ground imaginable.
+
+## Saving Alvin from the Deep
+
+Three years later, Aluminaut returned the favor to Alvin in one of the most remarkable rescue operations in deep-sea history. On October 16, 1968, Alvin was being lowered from its tender ship Lulu when two steel cables snapped. Three crew members were aboard, the hatch was open, and the submersible plunged through the gap between Lulu's pontoons with no deck to catch it. The crew scrambled out as seawater flooded in. Alvin sank to rest almost a mile beneath the surface. In September 1969, Aluminaut dove to the wreck, secured lines and a net around its smaller cousin, and the salvage ship USS Mizar hauled Alvin back to daylight. When the recovered vessel was opened, lunches left aboard nearly a year earlier were found soggy but edible -- a cheese sandwich was even tasted by a curious crew member. The discovery that near-freezing temperatures and oxygen-starved depths had preserved food opened new lines of scientific inquiry about deep-ocean preservation.
+
+## Films, Torpedoes, and Cousteau
+
+Between headline-grabbing missions, the Aluminaut kept busy with quieter work. It recovered a torpedo from the Navy's acoustic testing facility in the Bahamas. It made films for Jacques Cousteau and for Ivan Tors Studios, the production company behind the television series Flipper and the film Around the World Under the Sea. Operated by Reynolds Submarine Services Corporation out of Miami, the vessel surveyed ocean floor terrain for the U.S. Naval Oceanographic Office, reaching some of the deepest waters any crewed submersible had explored at the time. Every dive reinforced what Reynolds had set out to prove: aluminum was not just for foil and cookware but could endure the most punishing pressures on Earth.
+
+## A Quiet Retirement in Richmond
+
+In 1970, after six years of active service, the Aluminaut was retired. Reynolds Metals donated the submersible to the Science Museum of Virginia in Richmond, where it sits today in the Garner Pavilion -- an 80-ton aluminum cylinder resting on dry land in the former capital of the Confederacy, a long way from the Mediterranean seafloor. Visitors can walk around the vessel that once hunted hydrogen bombs and pulled a fellow submarine from the abyss. Remarkably, the museum continues to maintain the Aluminaut in operational readiness, just in case anyone ever needs the world's first aluminum submarine again.
+
+## Flight Context
+
+The Aluminaut is displayed at the Science Museum of Virginia, located at 37.563N, 77.466W in Richmond, Virginia, along Broad Street near the intersection with I-64/I-95. The museum occupies the former Broad Street Station, a distinctive Beaux-Arts building visible from the air. Nearest airports: Richmond International Airport (KRIC) approximately 7 nm east; Chesterfield County Airport (KFCI) approximately 10 nm southwest; Hanover County Municipal Airport (KOFP) approximately 12 nm north. Best viewed at 1,500-2,500 ft AGL approaching from the east along the I-64 corridor.
+
+## Sources
+
+- [Aluminaut - Wikipedia](https://en.wikipedia.org/?curid=11390211)
+  - world's first aluminum submarine
+  - built 1964 by Reynolds Metals
+  - 80-ton vessel confirmed
+  - Electric Boat Division of General Dynamics in Groton CT builder
+  - January 17 1966 B-52/KC-135 collision over Palomares Spain
+  - 18-ship task force under Admiral William S. Guest
+  - bomb raised intact April 7 1966
+  - Alvin sank October 16 1968 recovered September 1969 by Aluminaut
+  - retired 1970 donated to Science Museum of Virginia
+- [Science Museum of Virginia - Aluminaut](https://smv.org/explore/things-to-do/aluminaut/)
+  - displayed at Garner Pavilion Science Museum of Virginia Richmond
+  - maintained in operational readiness
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 10 facts verified · 0 corrections
+
+All key facts verified: world's first aluminum submarine 1964, 80-ton vessel, Electric Boat Division builder, January 17 1966 Palomares B-52 crash, 18-ship task force Admiral Guest, bomb raised April 7 1966, Alvin sank October 16 1968 recovered September 1969, retired 1970, displayed at Science Museum of Virginia Garner Pavilion.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 790*
+*Read time: 4 minutes*

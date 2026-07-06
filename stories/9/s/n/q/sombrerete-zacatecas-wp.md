@@ -1,0 +1,59 @@
+# Sombrerete, Zacatecas
+
+A Pueblo Magico founded in 1555 and named for a mountain shaped like a three-cornered hat, where silver mines funded a colonial dynasty, Benito Juarez sheltered during the French Intervention, and faith still places crosses on every surrounding peak.
+
+**Location:** 23.6347, -103.6424
+
+**Categories:** cities, mining, cultural-heritage, mexico
+
+## Introduction
+
+Friar Jeronimo de Mendoza looked up at the mountain and saw a hat. Viewed from the side, the Cerro de Sombreretillo resembled the common three-cornered sombrero of the mid-sixteenth century, and the friar gave the valley its name. In 1555, nine years after silver was discovered in what is now the city of Zacatecas, Juan de Tolosa and a small party of Spaniards and allied indigenous peoples arrived here following the veins. They settled near a small spring and called the place Real y Minas de Sombrerete. The mountain still looks like a hat. The silver is still in the ground. And every surrounding peak carries a cross hauled up by the faithful -- visible markers of a devotion as old as the town itself.
+
+## Before the Spanish Spring
+
+Long before the Spaniards arrived, the Chalchihuites culture occupied this region from the late Pre-classic period until approximately 900 CE. They were sedentary farmers, tending crops in the semi-arid valleys between the Sierra Madre foothills. Why they abandoned their settlements remains uncertain -- theories include prolonged drought, attacks by nomadic peoples, and the collapse of the great Mesoamerican cities that sustained their trade networks. After the Chalchihuites departed, nomadic Chichimec groups dominated the area for six centuries, leaving no permanent structures but a fierce reputation that the arriving Spaniards would soon encounter firsthand.
+
+## Silver, Mercury, and the Marquis
+
+By 1567, the San Mateo monastery had been established as the region's evangelical center, and the mines were producing gold, silver, lead, tin, and mercury. The settlement grew quickly. In 1570, the Audiencia de Guadalajara officially declared it a town under the name Villa de Llerena. During the colonial period, two mines -- Pabellon and Vetanegre -- proved so productive that they made the Fagoaga family wealthy enough to earn the title Marquesado del Apartado. By the seventeenth century, Sombrerete hosted a Royal House that collected taxes from territories as far-flung as Chihuahua and Sinaloa. At the start of the nineteenth century, the town had grown to 30,000 people and operated its own coin mint, producing a currency called the Vargas.
+
+## Revolutions and Ruins
+
+Sombrerete's miners quietly funded the Mexican War of Independence, sending money to the insurgent general Guadalupe Victoria. In 1824, the state of Zacatecas elevated the town to a city and regional capital. But the nineteenth century brought violence as well as status: an Apache raid from the United States struck in 1845. During the French Intervention and Reform War, Sombrerete served as the provisional capital of Zacatecas, and Benito Juarez himself passed through in 1866. The first local newspaper, La Campana, appeared in 1867. In 1897, a catastrophic accident in the San Amaro and San Francisco mines killed 116 workers. When the Mexican Revolution erupted, both haciendas and mines came under attack, devastating the economy even as the town was again made a provisional capital from 1913 to 1914 and received a visit from Venustiano Carranza.
+
+## Pan Ranchero and Crosses on the Peaks
+
+The end of revolution brought the end of the hacienda system, and the government's campaign to suppress the Catholic Church triggered the Cristero War, which ravaged the surrounding rural communities. Since then, Sombrerete has settled into a steadier rhythm as a mining and agricultural center for northern Zacatecas. About a third of the territory is grassland used for grazing; twenty-six percent is forested with pine, holm oak, and oak; the rest is cultivated with corn, beans, oats, and wheat. Traditional drinks include quince wine and rompope, a spiced eggnog. Pan ranchero -- bread made with lard and baked in adobe ovens -- appears on tables during Holy Week. In 1992, the city declared sister-city status with its colonial namesake, Llerena in Spain, closing a loop that had been open for four centuries. Designated a Pueblo Magico, Sombrerete today carries its history with the quiet confidence of a place that has been provincial capital, mining boomtown, revolutionary stronghold, and, always, a town where the faithful carry crosses up the mountains.
+
+## Flight Context
+
+Sombrerete is located at 23.63N, 103.64W in northwestern Zacatecas. The Cerro de Sombreretillo, the hat-shaped mountain that gives the town its name, is a useful visual landmark from altitude. Sierra de Organos National Park lies approximately 21 km to the northwest along Highway 45. The nearest airports are General Guadalupe Victoria International (ICAO: MMDO) in Durango, about 120 km to the northwest, and General Leobardo C. Ruiz International (ICAO: MMZC) in Zacatecas, about 170 km to the southeast. The terrain is rolling semi-arid plateau with scattered mining operations. Best viewed at 3,000-5,000 ft AGL.
+
+## Sources
+
+- [Sombrerete - Wikipedia](https://en.wikipedia.org/?curid=8059851)
+  - founded 1555 by Juan de Tolosa confirmed
+  - name from Friar Jeronimo de Mendoza and Cerro de Sombreretillo confirmed
+  - Villa de Llerena name 1570 confirmed
+  - San Mateo monastery 1567 confirmed
+  - Chalchihuites culture pre-colonial occupation confirmed
+  - mine accident 1897 killing 116 workers confirmed
+  - Pueblo Magico designation confirmed (2012)
+  - sister city with Llerena Spain 1992 confirmed
+- [Juan de Tolosa - Wikipedia](https://en.wikipedia.org/wiki/Juan_de_Tolosa)
+  - Juan de Tolosa arrival in Sombrerete area confirmed
+  - silver discovery context confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-27 · 12 facts verified · 0 corrections
+
+All facts verified: founded 1555 by Juan de Tolosa, name from Friar Jeronimo de Mendoza, Villa de Llerena 1570, San Mateo monastery 1567, Chalchihuites pre-colonial occupation, 1897 mine accident 116 workers, Pueblo Magico designation, sister city with Llerena Spain 1992. No errors found.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

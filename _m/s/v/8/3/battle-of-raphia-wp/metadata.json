@@ -66,5 +66,26 @@
     "sourceGeohash4": "sv83"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sv83-battle-of-raphia-flight-context.mp3",
+      "sv83-battle-of-raphia-intro.mp3",
+      "sv83-battle-of-raphia-two-kingdoms-one-prize.mp3",
+      "sv83-battle-of-raphia-the-armies-assembled.mp3",
+      "sv83-battle-of-raphia-elephants-and-phalanxes.mp3",
+      "sv83-battle-of-raphia-the-victory-that-changed-egypt.mp3",
+      "sv83-battle-of-raphia-a-turning-point-written-in-stone.mp3"
+    ],
+    "durations": {
+      "sv83-battle-of-raphia-flight-context.mp3": 43.3925,
+      "sv83-battle-of-raphia-intro.mp3": 52.571375,
+      "sv83-battle-of-raphia-two-kingdoms-one-prize.mp3": 57.1023333,
+      "sv83-battle-of-raphia-the-armies-assembled.mp3": 62.9490416,
+      "sv83-battle-of-raphia-elephants-and-phalanxes.mp3": 66.9475833,
+      "sv83-battle-of-raphia-the-victory-that-changed-egypt.mp3": 68.6472083,
+      "sv83-battle-of-raphia-a-turning-point-written-in-stone.mp3": 58.77475
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

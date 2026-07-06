@@ -604,5 +604,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qqsw-citarum-river-flight-context.mp3",
+      "qqsw-citarum-river-intro.mp3",
+      "qqsw-citarum-river-kingdom-of-indigo.mp3",
+      "qqsw-citarum-river-three-dams-one-lifeline.mp3",
+      "qqsw-citarum-river-a-river-buried-alive.mp3",
+      "qqsw-citarum-river-soldiers-in-the-current.mp3"
+    ],
+    "durations": {
+      "qqsw-citarum-river-flight-context.mp3": 49.7358333,
+      "qqsw-citarum-river-intro.mp3": 54.982875,
+      "qqsw-citarum-river-kingdom-of-indigo.mp3": 63.3605833,
+      "qqsw-citarum-river-three-dams-one-lifeline.mp3": 63.4919583,
+      "qqsw-citarum-river-a-river-buried-alive.mp3": 73.0239166,
+      "qqsw-citarum-river-soldiers-in-the-current.mp3": 83.798375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

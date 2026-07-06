@@ -112,5 +112,26 @@
   "galleryPaths": [
     "_m/t/w/q/k/1986-k2-disaster-wp/k2-summer.jpg",
     "_m/t/w/q/k/2008-k2-disaster-wp/k2-bottleneck-8-200m.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "twqk-2008-k2-disaster-flight-context.mp3",
+      "twqk-2008-k2-disaster-intro.mp3",
+      "twqk-2008-k2-disaster-a-crowded-bottleneck.mp3",
+      "twqk-2008-k2-disaster-the-serac-breaks.mp3",
+      "twqk-2008-k2-disaster-a-night-in-the-death-zone.mp3",
+      "twqk-2008-k2-disaster-what-happened-to-ger-mcdonnell.mp3",
+      "twqk-2008-k2-disaster-surviving-and-remembering.mp3"
+    ],
+    "durations": {
+      "twqk-2008-k2-disaster-flight-context.mp3": 65.842125,
+      "twqk-2008-k2-disaster-intro.mp3": 58.6338333,
+      "twqk-2008-k2-disaster-a-crowded-bottleneck.mp3": 58.56575,
+      "twqk-2008-k2-disaster-the-serac-breaks.mp3": 75.224125,
+      "twqk-2008-k2-disaster-a-night-in-the-death-zone.mp3": 62.14375,
+      "twqk-2008-k2-disaster-what-happened-to-ger-mcdonnell.mp3": 69.4295,
+      "twqk-2008-k2-disaster-surviving-and-remembering.mp3": 68.2589583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

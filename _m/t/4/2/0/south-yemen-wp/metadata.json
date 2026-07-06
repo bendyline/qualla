@@ -256,5 +256,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "t420-south-yemen-flight-context.mp3",
+      "t420-south-yemen-intro.mp3",
+      "t420-south-yemen-128-years-to-midnight.mp3",
+      "t420-south-yemen-the-corrective-move.mp3",
+      "t420-south-yemen-a-revolution-for-women.mp3",
+      "t420-south-yemen-vanishing-act.mp3"
+    ],
+    "durations": {
+      "t420-south-yemen-flight-context.mp3": 46.431375,
+      "t420-south-yemen-intro.mp3": 67.0950416,
+      "t420-south-yemen-128-years-to-midnight.mp3": 84.9259583,
+      "t420-south-yemen-the-corrective-move.mp3": 80.814875,
+      "t420-south-yemen-a-revolution-for-women.mp3": 74.5794166,
+      "t420-south-yemen-vanishing-act.mp3": 81.6976666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

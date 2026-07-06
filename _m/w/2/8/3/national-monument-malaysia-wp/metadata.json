@@ -594,5 +594,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w283-national-monument-malaysia-flight-context.mp3",
+      "w283-national-monument-malaysia-intro.mp3",
+      "w283-national-monument-malaysia-from-cenotaph-to-colossus.mp3",
+      "w283-national-monument-malaysia-bronze-cast-in-rome.mp3",
+      "w283-national-monument-malaysia-a-bomb-and-a-restoration.mp3",
+      "w283-national-monument-malaysia-sacred-or-idolatrous.mp3",
+      "w283-national-monument-malaysia-standing-in-the-garden.mp3"
+    ],
+    "durations": {
+      "w283-national-monument-malaysia-flight-context.mp3": 40.867375,
+      "w283-national-monument-malaysia-intro.mp3": 49.1757083,
+      "w283-national-monument-malaysia-from-cenotaph-to-colossus.mp3": 60.5653333,
+      "w283-national-monument-malaysia-bronze-cast-in-rome.mp3": 58.0717916,
+      "w283-national-monument-malaysia-a-bomb-and-a-restoration.mp3": 52.555,
+      "w283-national-monument-malaysia-sacred-or-idolatrous.mp3": 62.2345,
+      "w283-national-monument-malaysia-standing-in-the-garden.mp3": 50.2185833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

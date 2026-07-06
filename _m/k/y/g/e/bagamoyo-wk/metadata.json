@@ -757,5 +757,24 @@
     "_m/k/y/g/e/bagamoyo-wk/bundesarchiv-bild-105-doa0654-.jpg",
     "_m/k/y/g/e/bagamoyo-wk/bundesarchiv-bild-105-doa0656-.jpg"
   ],
-  "updatedAt": "2026-03-30T20:40:39.042Z"
+  "updatedAt": "2026-03-30T20:40:39.042Z",
+  "narration": {
+    "files": [
+      "kyge-bagamoyo-flight-context.mp3",
+      "kyge-bagamoyo-intro.mp3",
+      "kyge-bagamoyo-the-architecture-of-two-empires.mp3",
+      "kyge-bagamoyo-a-pilgrimage-of-sorts.mp3",
+      "kyge-bagamoyo-getting-there-and-getting-by.mp3",
+      "kyge-bagamoyo-coastline-beyond-the-town.mp3"
+    ],
+    "durations": {
+      "kyge-bagamoyo-flight-context.mp3": 42.6602916,
+      "kyge-bagamoyo-intro.mp3": 62.31675,
+      "kyge-bagamoyo-the-architecture-of-two-empires.mp3": 64.4165,
+      "kyge-bagamoyo-a-pilgrimage-of-sorts.mp3": 60.7872916,
+      "kyge-bagamoyo-getting-there-and-getting-by.mp3": 52.981375,
+      "kyge-bagamoyo-coastline-beyond-the-town.mp3": 65.4257083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

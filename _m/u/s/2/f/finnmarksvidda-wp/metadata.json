@@ -565,5 +565,24 @@
     "_m/u/s/2/f/finnmarksvidda-wp/finnmarksvidda-24600-mitternac.jpg",
     "_m/u/s/2/f/finnmarksvidda-wp/altakraftverk-skisse2.jpg"
   ],
-  "updatedAt": "2026-04-01T07:20:44.542Z"
+  "updatedAt": "2026-04-01T07:20:44.542Z",
+  "narration": {
+    "files": [
+      "us2f-finnmarksvidda-flight-context.mp3",
+      "us2f-finnmarksvidda-intro.mp3",
+      "us2f-finnmarksvidda-a-land-measured-in-horizons.mp3",
+      "us2f-finnmarksvidda-the-reindeer-people.mp3",
+      "us2f-finnmarksvidda-cold-beyond-comparison.mp3",
+      "us2f-finnmarksvidda-an-arctic-flyover.mp3"
+    ],
+    "durations": {
+      "us2f-finnmarksvidda-flight-context.mp3": 47.3612916,
+      "us2f-finnmarksvidda-intro.mp3": 40.259625,
+      "us2f-finnmarksvidda-a-land-measured-in-horizons.mp3": 62.5248333,
+      "us2f-finnmarksvidda-the-reindeer-people.mp3": 58.6669583,
+      "us2f-finnmarksvidda-cold-beyond-comparison.mp3": 65.8402083,
+      "us2f-finnmarksvidda-an-arctic-flyover.mp3": 66.1335
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

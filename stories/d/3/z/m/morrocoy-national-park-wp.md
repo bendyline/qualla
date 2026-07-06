@@ -1,0 +1,57 @@
+# Morrocoy National Park
+
+A Caribbean archipelago of mangrove-fringed cays and white sand beaches where scarlet ibises roost by the thousands, coral reefs shelter endangered sea turtles, and the shore itself is built from Tertiary-period limestone.
+
+**Location:** 10.8560, -68.3060
+
+**Categories:** national-park, caribbean-coast, mangrove-ecosystem, coral-reef, birdwatching, marine-wildlife
+
+## Introduction
+
+From the air, Morrocoy looks like someone scattered a handful of green islands across turquoise water. The cays have names that tell you what to expect: Borracho (drunk), Muerto (dead), Sombrero (hat). Between them, mangrove roots tangle into the shallow sea, creating nurseries for fish, shelter for crocodiles, and roosting platforms for one of Venezuela's densest concentrations of waterbirds. Declared a national park on May 26, 1974, Morrocoy covers 32,090 hectares of both land and water along the coast of Falcón State, where the Golfo Triste meets the Caribbean. It is a park built as much on water as on earth - a place where the boundary between the two has never been entirely clear.
+
+## Coral Bones and Mangrove Lungs
+
+The geology beneath Morrocoy is ancient reef. The Chichiriviche hills, rising to 285 meters at their highest point, sit on the Capadare-Agua Linda limestone formation, a structure of Tertiary-period coral origin. The park's cays and coastline are built from the skeletons of organisms that lived millions of years before the first mangrove seed floated into these shallows. Today, four species of mangrove - red, black, white, and buttonwood - dominate the landscape, covering roughly 4,500 hectares. They form the ecological lungs of the park, stabilizing the fragile coastline, filtering sediment, and sheltering juvenile fish and crustaceans in their submerged root systems. Underwater, seagrass meadows provide food for green sea turtles, while the coral reefs - though diminished by human activity in recent years - still support grouper, snapper, barracuda, and spiny lobsters.
+
+## The Island of Birds
+
+The mangrove-covered island of Pájaros sits in the central area of the park and functions as a bird sanctuary. Some 266 species have been recorded across the wider Morrocoy-Cuare region, a count derived partly from the adjacent Cuare Wildlife Refuge. Scarlet ibises roost in vivid red clusters against the green mangroves - one of those sights that looks improbable even when you are watching it happen. American flamingos, brown pelicans, and tricolored herons are listed as vulnerable species here. Ospreys hunt the shallows. Scaled piculets, orange-winged amazons, and neotropic cormorants favor the mangrove habitat. Magnificent frigatebirds, with their two-meter wingspans, patrol the outer cays. BirdLife International has designated Morrocoy an Important Bird Area for its significant populations across multiple species.
+
+## Teeth, Shells, and Flippers
+
+The waters around Morrocoy shelter species that are running out of places to hide. Green, hawksbill, leatherback, and olive ridley sea turtles all use the park, and all are considered threatened. American crocodiles inhabit the quieter mangrove channels. Dolphins and whales pass through the offshore waters, using the park as a seasonal refuge. On the Chichiriviche hills, the land fauna is surprisingly diverse: brocket deer and white-tailed deer, howler monkeys, three-toed sloths, crab-eating foxes, peccaries, pacas, agoutis, and anteaters. The reef systems host a catalog of commercially important fish - tarpon, snook, mackerel, sardines, corvina - alongside mangrove oysters, sea hares, and both species of Caribbean spiny lobster. The park's biodiversity is a measure of what coastal ecosystems can sustain when they are given protection, and a warning of what they lose when that protection falters.
+
+## White Sand, Warm Water
+
+Morrocoy's beaches read like a Caribbean postcard catalog: Sombrero Cay, Playuela, Playuelita, Alemán Cay, Mayorquina, Pescadores Cay, Mero Beach, Boca Seca, Los Juanes. Some are reached by road from the towns of Tucacas or Chichiriviche; others require a boat, which keeps them quieter. Los Juanes, accessible only by sea via private or fishing boat, offers two small islands ideal for snorkeling over coral reefs and through mangrove channels. Three islets beyond the park boundary - Norte, Medio, and Sur Cay, about 13 kilometers from Tucacas - sit in a Special Protection Area. The climate cooperates: trade winds keep temperatures between 27 and 35 degrees Celsius year-round, and the driest months offer warm water and visibility good enough to make the reef's remaining corals shimmer.
+
+## Flight Context
+
+Located at 10.856N, 68.306W on the west-central Venezuelan coast, in Falcón State along the Golfo Triste. From the air, Morrocoy is immediately recognizable: a scattered archipelago of green mangrove cays set in turquoise shallow water, with the Chichiriviche hills rising to 285 meters behind. The contrast between the dark green mangroves and white sand cays against the blue Caribbean is striking. The towns of Tucacas and Chichiriviche bracket the park to the south and north respectively. Nearest airport: José Antonio Anzoátegui International Airport (SVBC) in Barcelona is distant; closer options include small airstrips near Tucacas. Access from Caracas is via the Central Regional Highway (approximately 140 km to Guacara, then north via Morón). Expect clear, warm conditions most of the year with trade wind influence; the rainy season runs August through December.
+
+## Sources
+
+- [Morrocoy National Park - Wikipedia](https://en.wikipedia.org/?curid=28891577)
+  - Declared national park on May 26 1974
+  - 32,090 hectares total area
+  - Located in Falcón State along the Golfo Triste
+  - Cay names Borracho, Muerto, Sombrero confirmed
+  - Four mangrove species confirmed
+- [Morrocoy National Park - LAC Geo](https://lacgeo.com/morrocoy-national-park-venezuela)
+  - Chichiriviche and Tucacas as gateway towns
+  - Scarlet ibis and flamingo presence confirmed
+  - Four sea turtle species use the park
+
+## Review Notes
+
+**Reviewed:** 2026-03-07 · 7 facts verified · 0 corrections
+
+Key facts verified: established May 26 1974, 32090 hectares, Falcon State along Golfo Triste, four mangrove species, cay names confirmed. No factual errors. Spiciness 1.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 800*
+*Read time: 4 minutes*

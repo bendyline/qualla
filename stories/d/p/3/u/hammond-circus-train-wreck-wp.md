@@ -1,0 +1,63 @@
+# Hammond Circus Train Wreck
+
+At 4 a.m. on June 22, 1918, a sleep-deprived locomotive engineer plowed his troop train into the rear of a stopped circus train near Hammond, Indiana, killing 86 performers and roustabouts of the Hagenbeck-Wallace Circus in one of the worst rail disasters in American history.
+
+**Location:** 41.5983, -87.4214
+
+**Categories:** indiana, railroad-disaster, circus, 1918, train-wreck
+
+## Introduction
+
+The performers of the Hagenbeck-Wallace Circus were asleep in their wooden cars when the impact came at four in the morning. Engineer Alonzo Sargent, at the throttle of a Michigan Central troop train hauling twenty empty Pullman cars, had not slept in at least 24 hours. He missed two automatic signals and a brakeman's warning. His locomotive struck the rear of the stopped 26-car circus train at full speed near a rail crossing called Ivanhoe Interlocking, just east of Hammond, Indiana. The engine and tender passed completely through the wreck. The circus cars were old, built of wood and lit with oil lamps. The lamps shattered and ignited the splintered wreckage. Eighty-six people died. Another 127 were injured. It was June 22, 1918, and America was at war. The dead circus performers, clowns, and roustabouts were buried in a cemetery section that had been purchased only months earlier by the Showmen's League of America. Most of them were never identified.
+
+## A Train Stopped in the Dark
+
+The Hagenbeck-Wallace Circus traveled by rail, its equipment and performers split between two train segments. The animal cars had been dispatched earlier that night. The second segment, carrying 400 performers and roustabouts, was being moved toward Hammond when a mechanical problem - a hot box on one of the flatcars - forced an emergency stop on the main line. A brakeman went back along the tracks to set warning signals. The circus cars were old wooden stock, relics of an earlier era of railroading, illuminated by oil lamps that swung gently in their brackets as the sleeping occupants waited for the repair. It was the early morning hours of a Saturday, and most everyone aboard was asleep in their berths.
+
+## The Engineer Who Couldn't Stay Awake
+
+Alonzo Sargent knew he was following a slower circus train. He had been told. But he had not slept in more than 24 hours, and investigators later attributed his condition to the combined effects of sleep deprivation, several heavy meals, kidney medication he had taken, and the rhythmic motion of his locomotive. His troop train - Michigan Central engine number 8485, a class K80r Pacific - was hauling twenty empty Pullman cars, giving it enormous momentum. At approximately 4 a.m., Sargent's train blew past at least two automatic block signals and ignored the warning flares set by the circus train's brakeman. The locomotive slammed into the caboose and four rear sleeping cars at an estimated speed that left the engine and tender on the far side of the wreckage, still on their wheels but off the rails.
+
+## Wood, Oil, and Fire
+
+The collision crushed the wooden sleeping cars like matchboxes, but it was the fire that turned a wreck into a catastrophe. The oil lamps that illuminated the old wooden cars shattered on impact, and flames raced through the splintered debris. Survivors who were not killed instantly found themselves trapped in burning wreckage. The fire spread so quickly and burned so hot that many victims could not be identified afterward. Of the 86 people killed, only five were ever formally named. The rest were circus performers, clowns, acrobats, roustabouts - people who lived on the road, whose families often did not know where they were, whose real names were sometimes unknown even to their colleagues. The death toll made it one of the worst train wrecks in American history.
+
+## Showmen's Rest
+
+The dead were buried at Woodlawn Cemetery in Forest Park, Illinois, at the intersection of Cermak Road and Des Plaines Avenue, in a section called Showmen's Rest. The Showmen's League of America had purchased the burial plots only months before the disaster. Five elephant statues stand guard around the graves, their trunks lowered in a traditional mourning posture. The headstones of the unidentified dead bear only the word "Unknown" or sometimes a performer's stage name. In the years since, other circus people who traveled with shows and wanted to be buried among their own have been laid to rest there. It remains one of the most haunting cemetery sections in the Midwest - a place where the anonymity of circus life is preserved in stone.
+
+## The Show Goes On
+
+The wreck occurred on a Saturday. The Hagenbeck-Wallace Circus canceled its Hammond show and a performance scheduled for Monroe, Wisconsin, on June 24. But by June 25 - three days after 86 of its people burned to death in their sleep - the circus performed in Beloit, Wisconsin, with other circuses lending acts to fill the gaps. The show, as the saying goes, went on. The Ivanhoe Interlocking crossing where the wreck occurred sits east of downtown Hammond, near the Indiana-Illinois border. The site is unremarkable today, just a stretch of railroad track in the industrial flatlands south of Lake Michigan. No monument marks the spot where the circus train burned. The memorial is in the cemetery, where the elephants stand watch over the unnamed dead.
+
+## Flight Context
+
+Located at 41.598°N, 87.421°W near Hammond, Indiana, just east of the Indiana-Illinois state line. The wreck site at Ivanhoe Interlocking is in the flat industrial rail corridor south of Lake Michigan. From altitude, the area is a grid of rail lines and industrial development. Gary/Chicago International Airport (KGYY) is 8 nm east. Chicago Midway (KMDW) is 15 nm west-northwest. The Indiana Toll Road (I-90) and Borman Expressway (I-80/94) are visible navigation references. Showmen's Rest cemetery is in Forest Park, Illinois, approximately 25 nm northwest.
+
+## Sources
+
+- [Hammond Circus train wreck - Wikipedia](https://en.wikipedia.org/?curid=1855140)
+  - wreck occurred June 22, 1918 - confirmed
+  - 86 people killed, 127 injured - confirmed
+  - engineer Alonzo Sargent at throttle of Michigan Central troop train - confirmed
+  - circus train made emergency stop due to hot box on flatcar - confirmed
+  - wooden circus cars lit with oil lamps that ignited on impact - confirmed
+  - only five of 86 victims formally identified - confirmed
+  - Showmen's Rest at Woodlawn Cemetery in Forest Park, Illinois - confirmed
+  - Showmen's League of America purchased burial plots months before disaster - confirmed
+- [The Hammond Train Wreck of 1918 - Smithsonian Magazine](https://www.smithsonianmag.com/history/hammond-train-wreck-disaster-1918-killed-dozens-circus-performers-180969428/)
+  - circus train had 400 performers and roustabouts - confirmed
+  - wreck at Ivanhoe Interlocking east of Hammond, Indiana - confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 8 facts verified · 0 corrections
+
+All facts verified: June 22 1918, 86 killed 127 injured, engineer Alonzo Sargent, Michigan Central troop train, Ivanhoe Interlocking, Showmen's Rest at Woodlawn Cemetery Forest Park. Only 5 of 86 identified confirmed. Show went back on June 25 (Beloit) confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 815*
+*Read time: 4 minutes*

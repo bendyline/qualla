@@ -1,0 +1,54 @@
+# Fromm Brothers Fur and Ginseng Farm
+
+Four Wisconsin farm boys read about a $1,200 fox pelt, called themselves 'The Company,' and built the world's largest silver fox and ginseng operation from the fields of Marathon County.
+
+**Location:** 45.0919, -89.8789
+
+**Categories:** farming, historic, wildlife, agriculture, wisconsin
+
+## Introduction
+
+In 1901, four boys in rural Marathon County, Wisconsin -- ages eight to thirteen -- read a magazine article that would alter their lives. A single silver fox pelt had sold in London for $1,200, a sum that could buy an entire Wisconsin farm. Walter, Edward, John, and Henry Fromm made a pact on the spot. They would raise silver foxes. They called themselves "The Company," and they meant it. Over the next four decades, these brothers would mortgage their mother's dowry, survive two world wars, pioneer veterinary vaccines, and become the world's largest producers of both silver fox pelts and American ginseng. Their farm complex still stands in the Town of Hamburg, a place on the National Register of Historic Places, a monument to audacity, ingenuity, and the stubborn refusal of four brothers to quit.
+
+## The $1,200 Dream
+
+The silver fox is not a separate species but a rare genetic variant of the red fox, its dark pelt shimmering with silver-tipped guard hairs. In the 1880s, breeders on Prince Edward Island had figured out how to produce them in captivity, guarding the secret until an escaped fox literally led hounds back to their hidden farm. By 1909, the Fromm brothers managed to buy or catch twelve red foxes and penned them up, hoping for a silver miracle. None came that year. The next year brought twelve red pups -- valuable at $20 each, but a far cry from silver. A breeding pair of proven silver foxes cost $35,000, impossibly beyond their means. A dealer named James Kane offered a compromise: a black fox and a red fox with silver ancestry for $550. The 1912 litter was all red. Kane sold them another pair, but the male killed the female during shipping. In 1913, after years of patience and heartbreak, one pair finally produced a single silver pup among four reds. John and Henry climbed nearby Rib Mountain and chiseled their names into the rock to mark the occasion.
+
+## Mother's Gamble
+
+One silver fox was not an empire. The brothers needed more breeding stock, and in 1915, James Kane had three silver foxes for $6,500. The family's ginseng harvest hadn't yet produced that kind of money. While their father was away in Iowa, the brothers convinced their mother to mortgage the family farm -- her dowry, still in her name -- for the full amount. The timing was catastrophic. Within a month, World War I cratered the fur market. Those three foxes were suddenly worth $1,000. Ginseng prices collapsed to a third of their former value. But the Fromms possessed a trait that would define their entire enterprise: they bought when others sold. While competing fox breeders folded, the brothers scooped up breeding stock at fire-sale prices. By the next year, their farm produced seventeen silver fox pups, then twenty-five the year after. When the war ended and prices rebounded, the Fromms were already positioned as major producers. Their mother's gamble had paid off.
+
+## Roots and Remedies
+
+The ginseng operation ran in parallel with the foxes, and it demanded equal ingenuity. The brothers fought blight with slaked lime and blue vitriol, powered their root-washing pumps with a car engine, and dried their first harvests in the house's attic. When they needed forest loam for planting, they discovered they could produce it by plowing under green oats. Walter rigged a hose reel on a horse-drawn cart for spraying. When hand-planting became impractical, Walter and foreman Herbert Kleinschmidt built a semi-automated thirteen-row ginseng planter that could cover three acres a day. By 1919, the Fromms' ginseng sold for $40,000, making them the biggest producers in the country. Through the 1920s, annual ginseng harvests brought between $45,000 and $115,000. When the Great Depression tanked the ginseng market in the 1930s, most American growers quit. Edward had visited China in 1930 and believed demand would return. The Fromms stockpiled their harvest in barrels for fourteen years. When World War II ended and the Chinese market reopened, they sold their stockpile for a million dollars.
+
+## Vaccines Born of Desperation
+
+The brothers tinkered relentlessly with their foxes' diet, discovering that deboned horse meat caused rickets and that adding ground bones cured it. By 1922, their foxes ate a menu that included beef, mutton, veal, woodchuck, rabbit, fish, eggs, milk, bread, vegetables, and fruit. But diet alone could not protect the herd from disease. When foxes began dying in 1924 and 1925, the Fromms ruled out food poisoning and suspected distemper. They funded research by Dr. Robert G. Green of the University of Minnesota, who over a decade found encephalitis in the herd and created a vaccine for it. He also developed a serum against canine distemper. In 1938, when distemper began ripping through the Hamburg farm, the vaccine was not quite ready. Green and the Fromms administered it anyway, in desperation. It worked, halting the epidemic. This collaboration became Fromm Labs, which patented the vaccines -- a veterinary breakthrough born not from a university lab but from four farmers who refused to watch their animals die.
+
+## An Empire in the Fields
+
+By 1929, the Fromm brothers were the world's largest producer of both silver fox pelts and ginseng. Their cousin John Nieman and his son Edwin had partnered with them in 1920, and the enterprise had expanded to include a second operation in Thiensville, where the milder climate produced larger fox litters. The brothers discovered that Marathon County's colder winters produced finer pelts, so they devised a seasonal shuttle: breeding pairs stayed in Thiensville, and young foxes were trucked north each fall for finishing. The Hamburg operation grew so large it required a boarding house, a dairy barn to feed the workers, and a bunk house. The Fromms bought neighboring farms to accommodate their expanding ginseng acreage. The farm complex in Hamburg stands today as a testament to what four boys with a magazine clipping and an unyielding work ethic built from the Wisconsin soil. It was listed on the National Register of Historic Places in 2013, recognized at the national level -- not just for what the brothers produced, but for how they reinvented farming along the way.
+
+## Flight Context
+
+Located at 45.09°N, 89.88°W in the Town of Hamburg, Marathon County, Wisconsin. The farm complex sits in the rolling agricultural landscape of central Wisconsin. Nearby Rib Mountain (where the Fromm brothers chiseled their names in 1913) rises to 1,924 feet and is visible as a prominent quartzite ridge. Wausau Downtown Airport (KAUW) is approximately 15 miles to the northeast. Central Wisconsin Airport (KCWA) near Mosinee is about 20 miles southeast. Best viewed at 3,000-5,000 feet AGL to appreciate the farm's layout amid the surrounding farmland and forest. The area is typical north-central Wisconsin terrain: gently undulating with mixed agriculture and second-growth forest.
+
+## Sources
+
+- [Fromm Brothers Fur and Ginseng Farm - Wikipedia](https://en.wikipedia.org/?curid=45658742)
+  - Farm listed on National Register of Historic Places 2013 (NOT National Historic Landmark - corrected)
+  - Farm complex in Town of Hamburg confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-27 · 8 facts verified · 1 correction
+
+Corrected: National Historic Landmark -> National Register of Historic Places (2013).
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

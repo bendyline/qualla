@@ -367,5 +367,24 @@
     "_m/v/m/6/v/severny-island-wp/barents-bucht-1-2014-09-03.jpg",
     "_m/v/m/0/h/novaya-zemlya-wk/barents-bay-northern-i.jpg"
   ],
-  "updatedAt": "2026-04-01T08:28:30.002Z"
+  "updatedAt": "2026-04-01T08:28:30.002Z",
+  "narration": {
+    "files": [
+      "vm6v-severny-island-flight-context.mp3",
+      "vm6v-severny-island-intro.mp3",
+      "vm6v-severny-island-ice-at-the-edge-of-europe.mp3",
+      "vm6v-severny-island-a-name-repeated-a-history-forgotten.mp3",
+      "vm6v-severny-island-ground-zero.mp3",
+      "vm6v-severny-island-wildlife-and-wilderness.mp3"
+    ],
+    "durations": {
+      "vm6v-severny-island-flight-context.mp3": 56.8403333,
+      "vm6v-severny-island-intro.mp3": 39.3317916,
+      "vm6v-severny-island-ice-at-the-edge-of-europe.mp3": 55.4131666,
+      "vm6v-severny-island-a-name-repeated-a-history-forgotten.mp3": 47.4255833,
+      "vm6v-severny-island-ground-zero.mp3": 62.1675,
+      "vm6v-severny-island-wildlife-and-wilderness.mp3": 51.8657083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

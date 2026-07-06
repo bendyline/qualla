@@ -55,5 +55,26 @@
     "sourceGeohash4": "s11s"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "s11s-amazon-monument-benin-flight-context.mp3",
+      "s11s-amazon-monument-benin-intro.mp3",
+      "s11s-amazon-monument-benin-bronze-and-defiance.mp3",
+      "s11s-amazon-monument-benin-the-women-behind-the-bronze.mp3",
+      "s11s-amazon-monument-benin-a-chinese-sculptor-a-beninese-vision.mp3",
+      "s11s-amazon-monument-benin-identity-and-controversy.mp3",
+      "s11s-amazon-monument-benin-facing-the-atlantic.mp3"
+    ],
+    "durations": {
+      "s11s-amazon-monument-benin-flight-context.mp3": 38.474625,
+      "s11s-amazon-monument-benin-intro.mp3": 41.6535833,
+      "s11s-amazon-monument-benin-bronze-and-defiance.mp3": 53.5113333,
+      "s11s-amazon-monument-benin-the-women-behind-the-bronze.mp3": 62.50475,
+      "s11s-amazon-monument-benin-a-chinese-sculptor-a-beninese-vision.mp3": 53.5289166,
+      "s11s-amazon-monument-benin-identity-and-controversy.mp3": 66.295,
+      "s11s-amazon-monument-benin-facing-the-atlantic.mp3": 60.7832083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

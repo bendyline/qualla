@@ -121,5 +121,24 @@
   "galleryPaths": [
     "_m/w/j/5/p/lamaling-monastery-wp/en-lamaling-monastery.jpg",
     "_m/w/j/5/p/lamaling-monastery-wp/bayi-town-tibet.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wj5p-lamaling-monastery-flight-context.mp3",
+      "wj5p-lamaling-monastery-intro.mp3",
+      "wj5p-lamaling-monastery-the-daughter-who-rebuilt.mp3",
+      "wj5p-lamaling-monastery-eight-walls-four-colors.mp3",
+      "wj5p-lamaling-monastery-where-monks-and-nuns-chant-together.mp3",
+      "wj5p-lamaling-monastery-the-valley-of-the-ancient-ones.mp3"
+    ],
+    "durations": {
+      "wj5p-lamaling-monastery-flight-context.mp3": 52.0552916,
+      "wj5p-lamaling-monastery-intro.mp3": 49.061625,
+      "wj5p-lamaling-monastery-the-daughter-who-rebuilt.mp3": 60.146,
+      "wj5p-lamaling-monastery-eight-walls-four-colors.mp3": 71.3395833,
+      "wj5p-lamaling-monastery-where-monks-and-nuns-chant-together.mp3": 66.7285833,
+      "wj5p-lamaling-monastery-the-valley-of-the-ancient-ones.mp3": 65.4687916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

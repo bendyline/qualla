@@ -1,0 +1,59 @@
+# Kyoto National Museum
+
+One of Japan's premier art museums, the Kyoto National Museum has guarded over 12,000 works of pre-modern Japanese and Asian art since 1897, housed in buildings that are themselves designated cultural treasures.
+
+**Location:** 34.9900, 135.7730
+
+**Categories:** Art museums and galleries in Kyoto, National museums of Japan, Museums of Japanese art, Buildings of the Meiji era, Art museums and galleries established in 1897, 1897 establishments in Japan
+
+## Introduction
+
+The Scroll of Hungry Ghosts has watched visitors for over eight centuries. Painted during the twelfth century, the gakizoshi depicts emaciated spirits trapped in one of Buddhism's six realms of transmigration, their torment rendered in brushstrokes that remain unsettlingly vivid. It is one of more than 12,000 works held by the Kyoto National Museum, an institution in Higashiyama ward that has served as the custodian of Japan's artistic memory since the final years of the nineteenth century. The museum's buildings alone tell a story of architectural ambition spanning from the Meiji era to the twenty-first century.
+
+## An Imperial Vision Takes Shape
+
+The museum began as an idea in 1889, when the Japanese government proposed three imperial museums for Tokyo, Nara, and Kyoto. Construction on the Kyoto site finished in October 1895, and the Imperial Museum of Kyoto opened its doors in 1897. The original Special Exhibition Hall, designed by Katayama Tokuma, drew on French Renaissance and Baroque sensibilities filtered through Japanese aesthetic principles, creating a building that felt both cosmopolitan and rooted. The museum cycled through names as Japan's political landscape shifted: the Imperial Household Museum of Kyoto in 1900, the Imperial Gift Museum of Kyoto in 1924, and finally, in 1952, the Kyoto National Museum. Each renaming reflected a subtle realignment of the relationship between culture, state, and public.
+
+## Temples, Shrines, and the Art They Surrendered
+
+The museum was originally built to house art treasures privately owned by temples and shrines, along with items donated by the Imperial Household Ministry. That founding purpose persists: most items in the collection remain on permanent loan from religious institutions. This arrangement transformed the museum into something more than a gallery. It became a vault, protecting centuries of sacred art from fire, earthquake, and decay. The collection divides into three domains: Fine Arts, encompassing sculpture, painting, and calligraphy; Handicrafts, covering pottery, fabrics, lacquerware, and metalwork; and Archaeology, preserving objects of historical significance. In the Fine Arts collection alone, more than 230 pieces carry the designation of National Treasure or Important Cultural Property.
+
+## Where Centuries Converge on Canvas and Silk
+
+The museum holds what is considered the largest collection of Heian period artifacts in existence, spanning the era from 794 to 1185 when Kyoto served as Japan's capital and its artistic culture reached extraordinary heights. Ancient Chinese and Japanese sutras fill the archives, their calligraphy preserved across centuries. The eleventh-century senzui byobu, a landscape screen, captures a world of mountains and mist that still resonates with the hills visible outside the museum's windows. The photographic archives alone contain over 200,000 negatives and color transparencies, documenting Japan's artistic heritage with an obsessive thoroughness that matches the precision of the art itself. Around 6,000 works are on display at any given time, a rotating fraction of the full collection.
+
+## Old Stone Meets New Glass
+
+The museum's architecture tells its own story of reinvention. Katayama Tokuma's 1895 Special Exhibition Hall, the Main Gate, and the Ticket Area have all been designated Important Cultural Properties, monuments to Meiji-era ambition. In 1966, architect Morita Keiichi added the Collections Hall, bringing mid-century modernism to the grounds. Then, in September 2014, the Heisei Chishinkan Wing opened as a new permanent collections gallery, designed by Yoshio Taniguchi, the architect celebrated for his redesign of the Museum of Modern Art in New York and his Gallery of Horyuji Treasures at the Tokyo National Museum. Taniguchi's clean lines and restrained elegance create spaces where the art commands full attention, a philosophy of architecture as frame rather than spectacle.
+
+## A Living Archive in a Living City
+
+In 2007, the Kyoto National Museum joined the National Institutes for Cultural Heritage, linking it administratively with Japan's three other national museums and the cultural preservation institutes in Tokyo and Nara. The consolidation strengthened an institution that had already spent more than a century earning its place in Kyoto's cultural landscape. Sitting in Higashiyama, the museum occupies a neighborhood dense with temples, tea houses, and gardens. Visitors who come for the gakizoshi or the Heian sutras step back out into streets where the same aesthetic traditions remain alive, the museum serving not as a mausoleum but as a bridge between the art of the past and the city that produced it.
+
+## Flight Context
+
+Located at 34.990N, 135.773E in Kyoto's Higashiyama ward, on the eastern side of the city near the Higashiyama hills. The museum complex is identifiable from the air by its distinctive Western-style Meiji-era building alongside modern structures, situated near the iconic Sanjusangendo temple. Nearest airports are Osaka Itami (RJOO, 36 km southwest) for domestic flights and Kansai International (RJBB, 77 km south) for international service. Recommended viewing altitude: 3,000-5,000 feet. The Kamo River running north-south through Kyoto provides an excellent visual reference for locating the Higashiyama district along its eastern bank.
+
+## Sources
+
+- [Kyoto National Museum - Wikipedia](https://en.wikipedia.org/?curid=3173195)
+  - Museum proposed 1889, construction finished October 1895, opened 1897
+  - Original name: Imperial Museum of Kyoto; renamed Imperial Household Museum 1900, Imperial Gift Museum 1924, Kyoto National Museum 1952
+  - Designed by Katayama Tokuma
+  - Collection over 12,000 works, approximately 6,000 on display at any time
+  - More than 230 pieces designated National Treasure or Important Cultural Property in Fine Arts alone
+  - Heisei Chishinkan Wing designed by Yoshio Taniguchi, opened September 13, 2014
+  - Joined National Institutes for Cultural Heritage in April 2007
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 7 facts verified · 0 corrections
+
+All key facts verified: proposed 1889, opened 1897, Katayama Tokuma architect, 12000+ works, 230+ national treasures, Taniguchi Heisei Chishinkan opened Sept 2014, joined NICH April 2007. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 810*
+*Read time: 4 minutes*

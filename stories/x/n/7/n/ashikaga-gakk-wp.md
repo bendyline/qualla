@@ -1,0 +1,54 @@
+# Ashikaga Gakko: Japan's Oldest School and the Books That Survived Warlords
+
+Founded around 839 in what is now Tochigi Prefecture, the Ashikaga Gakko is Japan's oldest academic institution -- a school that survived fire, looting by Toyotomi Hideyoshi, and the end of Confucianism's dominance, only to be restored to its Edo-period form in the 1980s.
+
+**Location:** 36.3381, 139.4517
+
+**Categories:** historic-site, education, confucianism, tochigi, japan
+
+## Introduction
+
+A Jesuit missionary named Francisco Xavier arrived in Japan in 1549 and began sending detailed reports back to Rome. Among his observations was a superlative: the Ashikaga Gakko, he wrote, was 'the largest and most famous academy in Bando' and the greatest of the eleven universities in Japan. The school he described had already been operating for centuries, its founding traced to approximately 839 or 842 -- making it the oldest academic institution in Japan still standing. Located in the city of Ashikaga, Tochigi Prefecture, roughly 70 kilometers north of Tokyo, the campus today looks much as it did during the Edo period, a tranquil compound of timber halls, a Confucius temple, and gardens that once fed 3,000 students. The path from the main gate to the lecture hall follows the same stones that students walked when Japan's warlords were sending their sons here to study the I Ching.
+
+## A Revival Born of Books
+
+The school's early centuries are disputed. Historians place its founding anywhere from the Heian period to the Kamakura period, but documentary evidence points most strongly to around 839. By the early Muromachi period, the institution had declined into obscurity. Its resurrection came in 1432, when Uesugi Norizane became lord of the surrounding Shimotsuke Province and decided to rebuild the school as a center of serious learning. He invited Zen priests from Engaku-ji in Kamakura to serve as instructors and donated books from his personal collection to the library. The curriculum he established was rigorous and deliberately secular: Chinese classical literature, Confucianism, the philosophical texts of the Liezi and Zhuangzi, the historical chronicles of the Shiji, the divination system of the I Ching, and Chinese medicine. Buddhist theology was expressly excluded. Tuition was free. Students found lodging in local private homes, and the school maintained its own food garden and medicinal herb garden to sustain the community.
+
+## Warriors, Scholars, and a Practical Education
+
+As Japan fractured into the Sengoku period of warring states, the Ashikaga Gakko adapted. Alongside the classical curriculum, the school began teaching practical sciences -- skills useful to military commanders navigating an era of constant conflict. An alternative 'light curriculum' was developed specifically for the sons of warlords who could not commit to years of full-time scholarship. The flexibility worked. By the time Francisco Xavier encountered the school in the mid-sixteenth century, enrollment had swelled to an estimated 3,000 students. A devastating fire struck in 1530 and destroyed much of the campus, but Hojo Ujimasa provided patronage for rebuilding, and the school recovered. Its reputation extended beyond Japan; Xavier's reports gave the Ashikaga Gakko a place in European knowledge of Japanese civilization centuries before most Westerners had any concept of Japanese education.
+
+## Looted, Abandoned, Almost Forgotten
+
+The school's fortunes turned sharply in 1590. When Toyotomi Hideyoshi destroyed the Late Hojo clan, the Ashikaga Gakko lost both its military protectors and the estates that funded its operations. Hideyoshi's forces looted part of the library and carried the books to Kyoto. Under the Tokugawa shogunate, Tokugawa Ieyasu granted the school a modest fief of 100 koku for its upkeep, and the local daimyo of Ashikaga Domain offered protection. But the school's intellectual tradition -- rooted in classical Confucianism -- was being overtaken by the Neo-Confucianism of the Cheng-Zhu school, which became official orthodoxy. By the late Edo period, leading scholars dismissed the Ashikaga Gakko as little more than a library. After the Meiji Restoration, Confucianism itself fell from favor, and the school was closed. Half its grounds were converted into an elementary school. Buildings were torn down or left to deteriorate.
+
+## Stones and Timber Restored
+
+The rescue came in stages. In 1903, the local government established Tochigi Prefecture's first public library on the Ashikaga Gakko grounds, preserving the old collections while adding general books. In 1928, the site and its surviving structures -- including the Confucius Temple and the main gate -- received formal protection as a National Historic Site of Japan. But the most dramatic intervention began in the 1980s, when a large-scale restoration project removed the elementary school that had occupied half the campus and rebuilt the academic compound to reproduce its appearance during the middle Edo period. Today, visitors walk through the restored timber halls, past a portrait statue of Uesugi Norizane carved from wood with crystal eyes in 1535, and into the lecture hall where the I Ching was once taught to the sons of samurai. The gardens grow quietly. The books that survived Hideyoshi's raids still reside in the library.
+
+## Flight Context
+
+Located at 36.3381°N, 139.4517°E in Ashikaga, Tochigi Prefecture, approximately 70 km north of Tokyo on the northern edge of the Kanto Plain. The school compound is a small traditional Japanese campus with timber buildings and gardens, best identified from low altitude by its proximity to central Ashikaga city. The nearest major airport is Ibaraki Airport (RJAH), approximately 95 km east. Tokyo Haneda (RJTT) is roughly 130 km south, and Narita (RJAA) approximately 120 km southeast. The Watarase River runs nearby to the south, providing a useful visual reference.
+
+## Sources
+
+- [Ashikaga Gakkō - Wikipedia](https://en.wikipedia.org/?curid=17825964)
+- [Ashikaga Gakko - Japan Travel](https://en.japantravel.com/tochigi/ashikaga-gakko/3837)
+  - Founded approximately 839 confirmed
+  - Francisco Xavier described it as largest and most famous academy in Bando in 1549 confirmed
+  - Uesugi Norizane rebuilt school in 1432 confirmed
+  - Enrollment estimated at 3000 students confirmed
+  - Located in Ashikaga, Tochigi Prefecture ~70km north of Tokyo confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 5 facts verified · 0 corrections
+
+Xavier 1549 description confirmed, founding ~839 confirmed, Uesugi Norizane 1432 revival confirmed, 3000 students confirmed, location 70km north of Tokyo confirmed. All key facts verified.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 740*
+*Read time: 4 minutes*

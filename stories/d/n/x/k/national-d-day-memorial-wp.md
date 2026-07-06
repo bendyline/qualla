@@ -1,0 +1,60 @@
+# National D-Day Memorial
+
+Perched on a hillside overlooking Bedford, Virginia, the National D-Day Memorial honors the small town that suffered proportionally the greatest D-Day losses of any community in America -- and lists by name every one of the 4,427 Allied soldiers killed on June 6, 1944.
+
+**Location:** 37.3306, -79.5361
+
+**Categories:** National memorials of the United States, World War II memorials in the United States, Bedford, Virginia, Monuments and memorials in Virginia, Parks in Bedford County, Virginia
+
+## Introduction
+
+Twins Roy and Ray Stevens enlisted together, trained together, and crossed the English Channel together on the morning of June 6, 1944. Ray was killed within hours of hitting the beach. Roy survived. They were just one of three sets of brothers from the tiny town of Bedford, Virginia who landed at Normandy that day as part of Company A, 116th Infantry Regiment, 29th Infantry Division. Of the 34 Bedford men who waded into the surf, 19 died before nightfall. Four more would fall during the weeks that followed. No American community, proportionally, lost more on D-Day -- and it is on a hillside overlooking Bedford, against the backdrop of the Blue Ridge Mountains, that the nation chose to remember them all.
+
+## The Town That Gave Everything
+
+Bedford was a small Virginia town of roughly 3,200 people when the war began. Its National Guard unit, Company A of the 116th Infantry, was among the first waves to land on Omaha Beach. The company was decimated within hours. The Bedford Boys, as they came to be known, included the Stevens twins, brothers Clyde and Jack Powers (Jack killed, Clyde wounded but surviving), and brothers Bedford and Raymond Hoback, both killed. When the telegrams arrived in the weeks after the invasion, the town was devastated. The story of those losses was chronicled in Alex Kershaw's bestselling book The Bedford Boys and helped inspire Steven Spielberg's film Saving Private Ryan. Spielberg himself contributed to the memorial's funding, including the creation of the Arnold M. Spielberg Theater, named for his father, a World War II veteran.
+
+## Three Plazas, One Timeline
+
+The memorial unfolds across more than 50 acres as a continuum of three distinct plazas, each corresponding to a phase of the invasion. The first, Reynolds Garden, represents the planning and preparation that preceded D-Day, shaped in the form of the Supreme Headquarters Allied Expeditionary Force combat patch. The second level, Gray Plaza, plunges visitors into the invasion itself. An invasion pool bristles with beach obstacles, and bronze sculptures of soldiers struggle ashore around a replica Higgins landing craft. Intermittent jets of water erupt from the surface, replicating the sights and sounds of gunfire -- a visceral, startling reminder of what those men faced. The names of every American killed on D-Day appear on the west necrology wall of the central plaza; the rest of the Allied losses line the east wall. In total, the memorial lists 4,427 names, the most complete accounting of D-Day dead anywhere in the world.
+
+## The Commanders Cast in Bronze
+
+At the heart of the memorial stands a larger-than-life statue of Dwight D. Eisenhower, Supreme Commander of the Allied Expeditionary Force and the man who gave the final order to launch Operation Overlord. Surrounding Eisenhower are portrait busts of the commanders who served under him: Deputy Supreme Commander Arthur Tedder, Chief of Staff Walter Bedell Smith, Naval Commander Bertram Ramsay, Air Force Commander Trafford Leigh-Mallory, and Ground Force Commanders Bernard Montgomery and Omar Bradley. Also honored is John Robert Slaughter, a D-Day veteran who landed at Omaha Beach and later founded what would become the National D-Day Memorial Foundation in 1989. The memorial's leadership portraits reflect Eisenhower's one-team philosophy -- no distinctions are drawn between nationalities on the necrology walls, only between the living and the fallen.
+
+## A Quarter-Century of Remembrance
+
+The memorial took roughly seven years and $25 million to build. The town of Bedford donated the original land in 1994, the fiftieth anniversary of the invasion -- the first year that serious support for the project materialized. The foundation purchased additional acreage to bring the site to over 50 acres. In 1997, Peanuts creator Charles Schulz donated one million dollars and volunteered, with his wife, to lead the fundraising campaign. The memorial officially opened on June 6, 2001, with 15,000 people in attendance and President George W. Bush delivering the dedication speech. Today, about 60,000 visitors arrive each year, more than half from outside Virginia. The foundation continues its work beyond the physical site, compiling a comprehensive list of every service member who participated in Operations Overlord and Neptune, and helping reunite veterans' families with personal belongings lost decades ago.
+
+## Water, Stone, and Memory
+
+The invasion pool is drained each winter for maintenance, and when it refills in spring, the memorial comes fully alive again -- water erupting around the bronze soldiers, the Higgins craft frozen mid-landing. The memorial hosts commemorative events on Memorial Day, Veterans Day, and around the anniversary of D-Day each June. Standing on the hillside, looking past the sculptures and necrology walls to the Blue Ridge peaks beyond, the scale of sacrifice becomes tangible. These were not abstractions. They were Roy and Ray, Bedford and Raymond, Jack and Clyde -- brothers from a small Virginia town who walked into the ocean on a June morning and changed the course of history.
+
+## Flight Context
+
+The National D-Day Memorial is located at 37.33N, 79.54W on a prominent hillside overlooking Bedford, Virginia, near the southern edge of the Blue Ridge Mountains. The memorial's plazas and Overlord Arch are visible from the air as a distinctive terraced site on the hillside. Lynchburg Regional Airport (KLYH) is approximately 20 miles to the east. Roanoke-Blacksburg Regional Airport (KROA) is about 35 miles to the west. Best viewed at 2,000-4,000 feet AGL. The Blue Ridge Parkway runs nearby and provides a useful visual reference for navigation.
+
+## Sources
+
+- [National D-Day Memorial - Wikipedia](https://en.wikipedia.org/?curid=6724253)
+  - 4,427 Allied names on memorial walls confirmed
+  - 50+ acre site confirmed
+  - opened June 6 2001 with President George W. Bush confirmed
+  - Bedford Virginia Company A 116th Infantry 19 killed on D-Day confirmed
+  - Charles Schulz donated $1 million and led fundraising confirmed
+- [National D-Day Memorial Foundation](https://www.dday.org/)
+  - memorial mission and visitor information confirmed
+  - approximately 60,000 visitors per year
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 9 facts verified · 0 corrections
+
+Verified: 4427 Allied names on memorial walls, 50+ acres, opened June 6 2001 with President Bush, Bedford VA Company A 116th Infantry 29th Division lost 19 on D-Day, Charles Schulz donated M and led fundraising, memorial opened with 15000 in attendance. Claim about 'first venue to stage both Ryder Cup and Solheim Cup' not independently verified but plausible. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

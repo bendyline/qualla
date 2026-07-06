@@ -576,5 +576,24 @@
     "_m/k/y/g/u/house-of-wonders-wp/portuguese-cannon-stone-town-z.jpg",
     "_m/k/y/g/u/house-of-wonders-wp/house-of-wonders-stone-town.jpg"
   ],
-  "updatedAt": "2026-03-30T20:48:38.670Z"
+  "updatedAt": "2026-03-30T20:48:38.670Z",
+  "narration": {
+    "files": [
+      "kygu-house-of-wonders-flight-context.mp3",
+      "kygu-house-of-wonders-intro.mp3",
+      "kygu-house-of-wonders-a-sultans-statement.mp3",
+      "kygu-house-of-wonders-forty-five-minutes-of-war.mp3",
+      "kygu-house-of-wonders-revolution-and-reinvention.mp3",
+      "kygu-house-of-wonders-a-building-falls.mp3"
+    ],
+    "durations": {
+      "kygu-house-of-wonders-flight-context.mp3": 49.400375,
+      "kygu-house-of-wonders-intro.mp3": 40.5521666,
+      "kygu-house-of-wonders-a-sultans-statement.mp3": 70.8661666,
+      "kygu-house-of-wonders-forty-five-minutes-of-war.mp3": 57.6103333,
+      "kygu-house-of-wonders-revolution-and-reinvention.mp3": 63.5677083,
+      "kygu-house-of-wonders-a-building-falls.mp3": 59.8955833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

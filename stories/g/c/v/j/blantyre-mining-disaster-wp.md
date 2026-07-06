@@ -1,0 +1,65 @@
+# Blantyre Mining Disaster
+
+Scotland's worst mining disaster killed 207 miners in an 1877 explosion at Blantyre Colliery, leaving 92 widows, 250 fatherless children, and urgent questions about mine safety.
+
+**Location:** 55.7847, -4.1064
+
+**Categories:** Coal mining disasters in Scotland, 1877 mining disasters, History of South Lanarkshire, Blantyre, South Lanarkshire
+
+## Introduction
+
+The youngest was eleven years old. When an explosion tore through Pits No. 2 and No. 3 of William Dixon's Blantyre Colliery on the morning of 22 October 1877, it killed 207 miners, possibly more, in what remains Scotland's worst mining disaster. The blast left 92 widows and 250 children without fathers. It was a catastrophe that should have been preventable, and the investigation that followed laid bare a system in which profit had been allowed to override the most basic protections for human life.
+
+## Men Who Knew the Danger
+
+The miners of Blantyre knew their colliery was dangerous. Firedamp, the explosive methane gas that seeps from coal seams, was a constant presence in the workings. The year before the disaster, the colliers had asked for a wage rise to compensate for the hazardous conditions. They were refused. When they went on strike, they were immediately sacked, and since they lived in tied cottages owned by the mining company, they were evicted by force. The mine owners replaced them with Irish Catholic workers brought in from elsewhere. The ventilation system was condemned by experts after the disaster. Air from one pit was used to ventilate another, meaning that gas-laden air from No. 3 was being channelled through the workings of No. 2, where active stooping operations were releasing additional methane. The trade press called it "a very dangerous system" that should have been "abandoned at once."
+
+## Nine O'Clock
+
+At 4:40 a.m. on 22 October, four firemen descended to inspect No. 2 pit and pronounced it safe. The regular workforce began their descent at 5:30, reassured by the firemen's report. At approximately 9:00 a.m., a blast was heard on the surface. Flame and steam rushed up No. 3 shaft for several minutes, while smoke poured from the upcast pit. One hundred and thirty-five men were somewhere in the darkness below. Within an hour, the Inspector of Mines had been alerted by telegraph. But getting to the trapped miners was another matter entirely. No. 3 shaft was blocked by debris, its cages and ropes destroyed. No. 2 was passable, but rescue parties entering through it were stopped by roof collapses and the invisible, suffocating gases that follow an underground explosion: afterdamp and chokedamp.
+
+## The Living and the Dead
+
+By 10 p.m., rescue teams had managed to push through a passage called More's Dook and found four survivors, all critically injured. One, a boy, died almost immediately. The other three were brought to Glasgow Infirmary, but none survived the month. Those were the last survivors. Over the following days, as ventilation was gradually restored and the gases cleared, recovery teams moved through the workings. The men in the northern section had abandoned their work and headed for No. 2 shaft when they heard the explosion, but the chokedamp overtook them before they reached safety. Their bodies were found along the escape routes, grouped in clusters where they had fallen together. It was not until 1 November, ten days after the explosion, that the mine was sufficiently clear of gas to allow recovery operations from both shafts.
+
+## What the Dead Left Behind
+
+The investigation condemned naked flames in the mine, inadequate safety lamps, poor discipline around blasting, and the dangerous ventilation system. But no one was held to account. Six months after the disaster, Dixon's mining company raised legal summonses against 34 widows whose husbands had been killed, demanding they vacate the tied cottages they still occupied. The women were evicted two weeks later, on 28 May 1878. Blantyre suffered two more disasters: a cage accident in 1878 that killed six men, and another explosion in 1879 that killed more. The mine owner erected a 5.5-metre granite monument to mark the explosions, with an inscription reading: "William Dixon Ltd, in memory of 240 of their workmen who were killed by explosions in Blantyre Colliery." Irish folk artist Christy Moore later recorded "Blantyre Explosion," keeping the memory alive in song where official records had failed the dead.
+
+## Flight Context
+
+Located at 55.78N, 4.11W in Blantyre, South Lanarkshire, on the south bank of the River Clyde between Glasgow and Hamilton. The former colliery area is now residential. The memorial monument is at Blantyre Cross. Nearest airports: Glasgow (EGPF) approximately 8 nm northwest; Glasgow Prestwick (EGPK) approximately 22 nm southwest. Best viewed at 2,000-3,000 ft AGL.
+
+## Sources
+
+- [Blantyre mining disaster - Wikipedia](https://en.wikipedia.org/?curid=1019180)
+  - 22 October 1877 date confirmed
+  - 207 miners killed confirmed (with 'possibly more' qualifier, consistent with sources)
+  - 92 widows and 250 fatherless children confirmed
+  - Youngest victim was eleven years old confirmed
+  - William Dixon's Blantyre Colliery confirmed
+  - Scotland's worst mining disaster confirmed
+  - Firedamp (methane) caused explosion confirmed
+  - Dangerous ventilation system: air from one pit used to ventilate another, condemned by experts, confirmed
+  - 34 widows faced legal summonses to vacate tied cottages, evicted 28 May 1878, confirmed
+  - Monument erected by mine owner, inscription referencing '240 workmen' across multiple disasters, confirmed
+  - Christy Moore recorded 'Blantyre Explosion', confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 9 facts verified · 0 corrections
+
+All facts verified: 22 October 1877, 207 killed (possibly more), Scotland's worst mining disaster, 92 widows 250 fatherless children, youngest aged 11, firedamp cause, dangerous ventilation system condemned, 34 widows evicted May 1878, monument inscription '240 workmen' across multiple disasters, Christy Moore 'Blantyre Explosion', all confirmed. Spiciness 3 — strong editorial voice about profit over safety and accountability failures.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Profit had been allowed to override the most basic protections for human life
+- The investigation condemned multiple failures, but no one was held to account
+- Six months after the disaster, widows were evicted from their tied cottages by the same company
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

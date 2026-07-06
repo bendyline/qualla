@@ -1,0 +1,56 @@
+# Battle of Auberoche
+
+On the evening of October 21, 1345, Henry of Derby attacked a French army nearly six times his size at supper near Auberoche -- and won a victory so complete it shifted the balance of the Hundred Years' War.
+
+**Location:** 45.2089, 0.8958
+
+**Categories:** medieval-history, battles, hundred-years-war, military-history
+
+## Introduction
+
+The French were eating when the arrows arrived. On the evening of October 21, 1345, in a narrow meadow beside the River Auvezere, seven thousand French soldiers sat packed together in camp below the castle of Auberoche, nine miles east of Perigueux. They had been besieging the Anglo-Gascon garrison for days and had no reason to expect trouble. Henry, Earl of Derby, had only 1,200 men -- 400 men-at-arms and 800 mounted archers -- but he had surprise, darkness falling, and a plan that would earn him the title "one of the best warriors in the world."
+
+## Wine, Money, and the Roots of War
+
+The battle's origins lay in vineyards. Before the Hundred Years' War, at least a thousand ships departed Gascony each year, carrying more than 80,000 tuns of wine. The customs duty England collected on Bordeaux wine alone exceeded all other English duties combined, making it the Crown's largest source of revenue. Bordeaux itself had a population exceeding 50,000 -- larger and possibly richer than London. But by 1337, French encroachments had whittled English Gascony so thin that the territory depended on food imports from England. Any disruption to shipping could starve the province and bankrupt the Crown. When Philip VI of France declared on May 24, 1337, that the Duchy of Aquitaine should be seized from Edward III, he was attacking England's wallet as much as its pride. So began a war that would last 116 years.
+
+## Derby's Gamble in the Dordogne
+
+Edward III's strategic instructions to Derby were magnificently vague: "if there is war, do the best you can." Derby arrived in Bordeaux on August 9, 1345, with 500 men-at-arms, 500 mounted archers, and 1,000 foot archers. Where his predecessor had pursued cautious sieges, Derby struck directly. He routed the French at Bergerac, capturing their commander and sacking the town. He pushed north to Perigueux, seizing strongpoints along the way. When a French force of 20,000 under the Duke of Normandy drove him back, Derby withdrew -- but only temporarily. Learning that 7,000 French troops under Louis of Poitiers had besieged the castle of Auberoche, perched on a rocky promontory commanding a narrow valley, Derby turned around with a scratch force of just 1,200 men. The chronicler Froissart tells a story, likely apocryphal, that a messenger trying to reach English lines with a plea for help was captured and launched back into the castle by trebuchet.
+
+## The Evening Assault
+
+On the night of October 20, Derby marched his small force across a shallow river twice, positioning them on a wooded hill about a mile from the French camp. He personally scouted the enemy position at dawn. Unknown to him, another French army of 9,000 to 10,000 men under the Duke of Normandy was only twenty-five miles away. Waiting for reinforcements that were not coming, Derby chose to attack rather than risk discovery. His longbowmen opened fire from the treeline into the crowded meadow while the French sat unarmoured at their evening meal. The chronicler Adam Murimuth estimated that a thousand French fell in that first volley alone. As the arrows kept falling from the west, Derby charged from the south with his 400 men-at-arms. A small Anglo-Gascon infantry force emerged from the woods to the northwest. Then the garrison commander, Frank van Hallen, realized his guards had been pulled away to the fighting. He sallied from the castle and struck the French rear. The defense collapsed into a rout.
+
+## The Fortune of Ransom
+
+French casualties were, by every modern historian's account, staggering. The commander Louis of Poitiers died of his wounds. Among the prisoners were two counts, seven viscounts, three barons, the seneschals of Clermont and Toulouse, a nephew of Pope Clement VI, and so many knights that no one bothered to count them. Derby reportedly earned at least fifty thousand pounds from ransoms alone -- roughly equal to Edward III's entire annual income. The Duke of Normandy, despite outnumbering the Anglo-Gascon forces eight to one, lost heart upon hearing the news. He retreated to Angouleme and disbanded his army. The French abandoned all their ongoing sieges. Derby was left virtually unopposed for six months, during which he seized town after town, establishing an English regional dominance that would last over thirty years. The four-month campaign has been called "the first successful land campaign of the Hundred Years' War," fought eight years after the war officially began.
+
+## Flight Context
+
+Located at 45.21N, 0.90E, approximately 9 miles east of Perigueux in the Dordogne department. The castle of Auberoche perches on a rocky promontory above the River Auvezere, at a point where the valley narrows almost to a gorge -- still clearly visible from the air. The terrain of wooded hills and narrow river meadows that made the battle possible remains largely unchanged. Nearest airports: Bergerac Dordogne Perigord (LFBE) about 50 km south, Brive-Souillac (LFSL) about 55 km east. Best viewed at 2,000-4,000 feet AGL to appreciate the valley's tactical geography.
+
+## Sources
+
+- [Battle of Auberoche - Wikipedia](https://en.wikipedia.org/?curid=3216159)
+  - Date: October 21, 1345 confirmed
+  - Anglo-Gascon force of 1,200 men under Henry Earl of Derby confirmed
+  - French force of 7,000 under Louis of Poitiers confirmed
+  - Derby arrived in Bordeaux August 9, 1345 confirmed
+  - Battle located 9 miles east of Perigueux confirmed
+  - Louis of Poitiers died of wounds confirmed
+  - Ransom income estimated at fifty thousand pounds confirmed
+  - Duke of Normandy retreated after hearing news confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 8 facts verified · 0 corrections
+
+Date Oct 21 1345, Henry Earl of Derby with 1,200 vs 7,000 French, Derby arrived Bordeaux Aug 9, Louis of Poitiers died, Duke of Normandy retreated all verified. No factual errors.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

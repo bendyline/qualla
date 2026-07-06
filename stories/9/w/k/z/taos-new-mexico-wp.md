@@ -1,0 +1,69 @@
+# Taos, New Mexico: A Broken Wagon Wheel's Legacy
+
+A high desert town of 6,000 where a thousand-year-old pueblo, a famous art colony born from a broken wagon wheel, and a mysterious low-frequency hum converge beneath the Sangre de Cristo Mountains.
+
+**Location:** 36.3869, -105.5800
+
+**Categories:** town, art-colony, new-mexico, pueblo, historical
+
+## Introduction
+
+In September 1898, two painters named Ernest Blumenschein and Bert Phillips were hauling their equipment from Denver to Mexico when a wagon wheel broke 20 miles north of Taos. A coin toss decided who would ride into town for repairs. Blumenschein lost the toss, loaded the broken wheel onto a horse, and rode south into a valley where the Sangre de Cristo Mountains caught the afternoon light in colors he had never seen. He never made it to Mexico. Neither did Phillips. That broken wheel launched the Taos art colony, but the town's story runs far deeper: Taos Pueblo, just north of the plaza, has been continuously inhabited for over a thousand years, making it one of the oldest living communities in North America.
+
+## The Ancient Heart
+
+Taos Pueblo predates the town by centuries. The multi-story adobe structures, built between approximately 1000 and 1450 CE, stand as a UNESCO World Heritage Site and one of the oldest continuously occupied communities in the United States. About 150 people live in the main buildings year-round, by choice maintaining life without electricity or running water. Red Willow Creek flows through the pueblo, and the name Taos itself derives from the native Taos language, meaning "place of red willows." Spanish explorers first arrived in 1540 during Coronado's expedition. Tensions between the Puebloan people and Spanish colonizers erupted in the Pueblo Revolt of 1680, which drove the Spanish from the region for 12 years. The town of Taos was formally established as a permanent settlement in 1795 and incorporated in 1934.
+
+## The Artists Who Stayed
+
+Phillips and Blumenschein's broken wagon wheel in 1898 was the founding accident of what became the first significant art colony in the American West. By 1915, they had joined with Joseph Henry Sharp, Oscar Berninghaus, E. Irving Couse, and W. Herbert Dunton to form the Taos Society of Artists, promoting their work through traveling exhibitions to major Eastern cities. The Society operated until 1927, but the colony it seeded only grew. Mabel Dodge Luhan arrived and became a patron who drew more luminaries: Georgia O'Keeffe painted the landscape, D.H. Lawrence wrote at a ranch north of town where his ashes remain in a shrine, and Dennis Hopper later made Taos his home. Today the town supports more than 80 galleries and three museums, including the Harwood Museum of Art affiliated with the University of New Mexico.
+
+## The Hum Nobody Can Explain
+
+Since the early 1990s, some residents and visitors have reported hearing a persistent low-frequency noise in and around Taos. The Taos Hum, as it became known, is audible only to certain people, most often described as a faint diesel engine idling in the distance. Those who hear it usually locate it west of town near Tres Orejas. Despite investigations, no definitive source has been identified. The phenomenon attracted enough attention to be featured in a 1995 episode of Unsolved Mysteries, referenced in a 1998 episode of The X-Files, and depicted in a 2018 episode of Criminal Minds. Whether geologic, atmospheric, or something else entirely, the Hum adds another layer to a town that has always attracted people seeking something beyond the ordinary.
+
+## Earthships and Ski Runs
+
+West of town, architect Mike Reynolds built the Earthship Biotecture community, a collection of sustainable homes constructed from recycled tires, cans, and bottles, powered by solar energy and harvesting their own water. The Earthship Academy trains students in these construction methods, making Taos a center of experimental sustainable architecture. To the northeast, Taos Ski Valley offers challenging terrain in the Sangre de Cristo Mountains that draws serious skiers. Wheeler Peak, New Mexico's highest point at 13,167 feet, rises nearby. The mix is distinctly Taos: ancient pueblo traditions, a century-old art colony, New Age spirituality that arrived with the counterculture in the 1960s, environmental innovation, and world-class skiing, all compressed into a town of roughly 6,000 people.
+
+## The High Road and the Gorge
+
+Taos sits at nearly 7,000 feet elevation in a high valley where the Sangre de Cristo Mountains meet the sagebrush plateau. The Rio Grande Gorge cuts through the landscape to the west, and the Rio Grande Gorge Bridge on Highway 64 offers a 650-foot drop to the river below. El Crepusculo de la Libertad, published in 1834, was the first newspaper in Taos and operated the first printing press west of the Mississippi. Kit Carson made his home here; Charles Bent, the first Territorial Governor of New Mexico, was killed here during the Taos Revolt of 1847. The town's first newspaper predated its incorporation by a century. Taos Regional Airport (SKX) serves general aviation traffic, while Albuquerque International Sunport lies 130 miles to the south and Santa Fe Municipal Airport sits 70 miles away.
+
+## Flight Context
+
+Located at 36.39°N, 105.58°W in a high valley at approximately 6,950 feet elevation, at the western base of the Sangre de Cristo Mountains. The Rio Grande Gorge is visible to the west as a dramatic dark line across the plateau, with the Rio Grande Gorge Bridge on Highway 64. Taos Pueblo is visible north of the town center. Wheeler Peak (13,167 feet), New Mexico's highest, rises to the northeast. Taos Regional Airport (KSKX) is just north of town on U.S. Route 64. Santa Fe Municipal Airport (KSAF) approximately 60 nm south. Albuquerque International Sunport (KABQ) approximately 110 nm south. Mountain terrain with variable weather; excellent visibility typical in clear conditions.
+
+## Sources
+
+- [Taos, New Mexico - Wikipedia](https://en.wikipedia.org/?curid=53717)
+- [Taos Society of Artists - Wikipedia](https://en.wikipedia.org/wiki/Taos_Society_of_Artists)
+  - founded 1915 by six members confirmed
+  - Blumenschein and Phillips broken wagon wheel 1898
+  - Society operated until 1927
+  - founding members: Sharp, Berninghaus, Couse, Dunton confirmed
+- [Wheeler Peak (New Mexico) - Wikipedia](https://en.wikipedia.org/wiki/Wheeler_Peak_(New_Mexico))
+  - highest point in New Mexico
+  - elevation 13167 feet confirmed
+- [Rio Grande Gorge Bridge - Wikipedia](https://en.wikipedia.org/wiki/Rio_Grande_Gorge_Bridge)
+  - on Highway 64 confirmed
+  - 650-foot drop commonly cited though measurements vary 565-650ft
+  - located northwest of Taos
+- [The Hum - Wikipedia](https://en.wikipedia.org/wiki/The_Hum)
+  - Taos Hum reported since early 1990s
+  - Unsolved Mysteries 1995 episode confirmed
+  - X-Files 1998 Drive episode confirmed
+  - described as diesel engine idling
+
+## Review Notes
+
+**Reviewed:** 2026-01-31 · 14 facts verified · 0 corrections
+
+All major facts verified: Blumenschein/Phillips 1898, TSA founding 1915, six founding members, Society to 1927, Wheeler Peak 13167ft, Rio Grande Gorge Bridge 650ft drop, Taos Hum 1990s, Unsolved Mysteries 1995, X-Files 1998. El Crepusculo 1834 confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

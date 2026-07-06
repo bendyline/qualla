@@ -1,0 +1,71 @@
+# Centralia: The Town That Burns Beneath Your Feet
+
+In 1962, a trash fire in a small Pennsylvania coal town ignited an underground mine blaze that has been burning ever since - swallowing homes, erasing a ZIP code, and turning a once-thriving borough into America's most famous ghost town.
+
+**Location:** 40.8011, -76.3375
+
+**Categories:** pennsylvania, disaster, mining, ghost-town, environmental
+
+## Introduction
+
+In 1981, a twelve-year-old boy named Todd Domboski was walking through a backyard in Centralia, Pennsylvania when the ground opened beneath him. He dropped into a sinkhole four feet wide and plunged deep into the earth, grabbing a tree root as hot steam roiled up from below. His fourteen-year-old cousin Eric Wolfgang hauled him out. The steam pouring from the hole registered lethal levels of carbon monoxide. Beneath Centralia, a fire had been burning through abandoned coal mine tunnels for nearly two decades. It would continue burning for decades more. Today, the town that once held over a thousand residents has fewer than a handful. Its ZIP code has been revoked. Its streets are empty. And somewhere in the labyrinth of anthracite seams below, the fire still burns.
+
+## A Cleanup That Never Ended
+
+The most likely origin of the Centralia mine fire traces to May 27, 1962, when the borough council hired five volunteer firefighters to clean up an illegal dump in an abandoned strip mine pit by burning the trash. State law prohibited dump fires, which may be why the council minutes do not describe the procedure. Water was used to douse the visible flames that night, but they reappeared on May 29 and again on June 4. A bulldozer churned through the garbage to reach concealed layers of burning waste. Then workers discovered a hole several feet high in the base of the pit's north wall, hidden by garbage. That hole connected to the labyrinth of abandoned coal mines under Centralia. The fire had found a highway underground. An alternative theory holds that the Bast Colliery coal fire of 1932, supposedly extinguished, had actually smoldered for thirty years and reached the dump area in 1962. Frank Jurgill Sr., who ran a bootleg mine nearby between 1960 and 1962, disputed this, arguing that he and his brother would have been killed by the gases if the earlier fire had still been active.
+
+## Bureaucracy Meets an Inferno
+
+The early attempts to contain the fire read like a catalog of institutional failure. Deputy Secretary of Mines James Shober Sr. estimated the cost at $30,000 and expected the state would pay. Strip mine operator Alonzo Sanchez offered to dig out the fire for free in exchange for any coal he recovered, but his plan required exploratory drilling, which officials rejected. The engineering team that did take the job was forbidden from drilling to find the fire's perimeter and instead estimated its size by observing steam rising from the landfill. Contractor Bridy began excavating, but breaching the subterranean mine chambers flooded them with oxygen, feeding the blaze. The state limited his crew to single weekday shifts of eight hours. Work halted for five days over Labor Day weekend. The fire moved northward, deeper into the coal seam, outpacing the digging. By the time the project ran out of money on October 29, 1962, five months after the fire started, the opportunity for containment had passed.
+
+## The Slow Evacuation of a Borough
+
+Through the 1970s, Centralia residents lived above the spreading fire. By 1980, people were reporting health problems from carbon monoxide, carbon dioxide, and low oxygen levels. Todd Domboski's sinkhole incident in 1981 galvanized statewide attention. In 1984, Congress allocated more than $42 million for relocation, and most residents accepted buyout offers. A few refused to leave. In 1992, Pennsylvania Governor Bob Casey invoked eminent domain, condemning every building in the borough. In 2002, the U.S. Postal Service revoked Centralia's ZIP code, 17927. Governor Ed Rendell began formal evictions in 2009. By 2010, five occupied homes remained. The last holdouts lost their court appeal in 2012, but in October 2013, state and local officials reached an agreement allowing the seven remaining residents to live out their lives in Centralia, after which their properties would revert to the state through eminent domain. The fire also crept beneath nearby Byrnesville, which had to be abandoned and leveled entirely.
+
+## Ghost Town, Tourist Attraction, Geyser
+
+Centralia's emptiness became its draw. Visitors arrived to photograph steam rising from cracked pavement and peer down empty streets where houses once stood. The abandoned stretch of Pennsylvania Route 61, buried under layers of spray paint, became known as the Graffiti Highway - a pilgrimage site for urban explorers until the road's private owner buried it under dirt in April 2020. The mine fire even created something geologically improbable: Pennsylvania's only geyser. The Big Mine Run Geyser, which erupts on private property in nearby Ashland, formed when heat from the underground fire increased air pressure in the abandoned mines, and heavy rains rushed in to create periodic eruptions. The geyser has been kept open as a flood control measure. Centralia's story has rippled through popular culture, inspiring comparisons to Silent Hill and features on the Travel Channel, Radiolab, and 99% Invisible. The fire is expected to burn for 250 years or more. Centralia is not a ruin reclaimed by nature. It is a place being consumed from below, one coal seam at a time.
+
+## Flight Context
+
+Located at 40.801N, 76.337W in Columbia County, Pennsylvania, in the anthracite coal region of the state. From altitude, Centralia is identifiable by its conspicuous emptiness: a grid of streets and clearings where a town should be, surrounded by forest reclaiming former residential lots. On cool days, wisps of steam or smoke may be visible rising from fissures in the ground, particularly along the old Route 61 corridor south of town. The nearest airports are Williamsport Regional Airport (KIPT) approximately 43 miles to the northwest and Wilkes-Barre/Scranton International Airport (KAVP) approximately 59 miles to the northeast. Harrisburg International Airport (KMDT) lies about 80 miles to the southwest. The terrain is hilly with the ridges and valleys characteristic of Pennsylvania's coal country.
+
+## Sources
+
+- [Centralia mine fire - Wikipedia](https://en.wikipedia.org/?curid=5265813)
+  - Dump fire ignited May 27 1962
+  - Todd Domboski 12 years old fell into sinkhole 1981
+  - Eric Wolfgang 14 years old cousin saved him
+  - Steam contained lethal carbon monoxide levels
+  - Congress allocated over $42 million for relocation in 1984
+  - Governor Bob Casey invoked eminent domain 1992
+  - ZIP code 17927 revoked 2002
+  - Governor Ed Rendell began formal evictions 2009
+  - Seven residents allowed to stay per October 29 2013 agreement
+  - Byrnesville also abandoned due to fire
+  - Graffiti Highway covered with dirt April 2020
+  - Big Mine Run Geyser in Ashland, Pennsylvania's only geyser
+  - Bast Colliery fire of 1932 alternative theory
+  - Frank Jurgill Sr bootleg mine operator disputed Bast theory
+  - Bridy project ended October 29 1962 when money ran out
+- [How Long Will Centralia's Coal Seam Fire Burn? - CentraliaPA.org](https://www.centraliapa.org/long-will-centralias-coal-seam-fire-burn/)
+  - Fire could burn for over 250 years at current rate
+  - Fire advancing ~75 feet per year along four branches
+  - Todd Domboski sinkhole incident details confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 8 facts verified · 0 corrections
+
+Final review: facts verified via web search, editorial fields and verification sources added to story files
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Centralia is not a ruin reclaimed by nature. It is a place being consumed from below, one coal seam at a time
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

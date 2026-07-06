@@ -2,7 +2,15 @@
   "id": "fort-mandan-wp",
   "patch": {
     "media": {
-      "combinedNarration": "_m/c/b/2/j/fort-mandan-wp/cb2j-fort-mandan-combined.mp3"
+      "combinedNarration": "_m/c/b/2/j/fort-mandan-wp/cb2j-fort-mandan-combined.mp3",
+      "narration": [
+        "_m/c/b/2/j/fort-mandan-wp/cb2j-fort-mandan-flight-context.mp3",
+        "_m/c/b/2/j/fort-mandan-wp/cb2j-fort-mandan-intro.mp3",
+        "_m/c/b/2/j/fort-mandan-wp/cb2j-fort-mandan-building-against-the-cold.mp3",
+        "_m/c/b/2/j/fort-mandan-wp/cb2j-fort-mandan-diplomacy-on-the-frontier.mp3",
+        "_m/c/b/2/j/fort-mandan-wp/cb2j-fort-mandan-the-mandan-miscellany.mp3",
+        "_m/c/b/2/j/fort-mandan-wp/cb2j-fort-mandan-ashes-and-water.mp3"
+      ]
     }
   }
 }

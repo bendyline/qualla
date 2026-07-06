@@ -1,0 +1,64 @@
+# Jackson's Valley Campaign
+
+In the spring of 1862, Stonewall Jackson marched 17,000 men over 650 miles through the Shenandoah Valley, defeated three Union armies totaling 52,000 troops, and changed the course of the Civil War.
+
+**Location:** 38.6500, -78.6700
+
+**Categories:** civil-war, military-history, virginia, shenandoah-valley
+
+## Introduction
+
+Jedediah Hotchkiss unrolled his maps on a camp table at Narrow Passage, and Stonewall Jackson gave him a single instruction: 'I want you to make me a map of the Valley, from Harpers Ferry to Lexington, showing all the points of offense and defense.' It was the spring of 1862. Confederate morale had cratered. Union armies were closing on Richmond from multiple directions, and the Shenandoah Valley -- that 140-mile corridor of farmland running between the Blue Ridge and the Alleghenies -- looked ready to fall. What followed over the next three months was one of the most celebrated military campaigns in American history, a masterclass in speed, deception, and the exploitation of terrain that is still studied at war colleges today.
+
+## The Valley as Chessboard
+
+The Shenandoah Valley was not just scenic -- it was strategic. Running southwest to northeast between two mountain ranges, it served as a natural highway for Confederate forces moving toward Washington, D.C., while simultaneously threatening the flank of any Union army advancing on Richmond. Its farms fed Southern armies. Its geography -- narrow gaps, forested ridges, river fords -- rewarded the defender who knew the ground. Jackson, commanding an initial force of just 5,000 men in the Valley District, faced Union forces that would eventually total 52,000 troops under three separate commanders: Nathaniel Banks, John C. Fremont, and Irvin McDowell. The odds looked impossible. But Jackson had Hotchkiss's maps, his soldiers' extraordinary marching endurance, and a willingness to take risks that left his opponents perpetually off balance.
+
+## Defeat That Won a War
+
+Jackson's campaign opened with what looked like a blunder. At the Battle of Kernstown on March 23, 1862, he attacked a Union force he believed numbered 3,000 -- it was actually closer to 9,000. Confederate loyalists in Winchester had given Turner Ashby's cavalry bad intelligence, and Jackson's men paid for it. The assault failed. It was Jackson's only tactical defeat of the war. But the aggressiveness of the attack alarmed President Lincoln so badly that he diverted troops originally designated for George McClellan's Peninsula Campaign against Richmond to reinforce the Valley. Kernstown was a battlefield loss that became a strategic victory, keeping Union reinforcements away from the Confederate capital at the moment they were needed most. Jackson retreated south, regrouped, and began planning what would become a series of stunning offensive strokes.
+
+## The Foot Cavalry Marches
+
+Jackson's infantry earned the nickname 'foot cavalry' for a reason. In the weeks that followed Kernstown, they covered distances that seemed impossible for men on foot carrying rifles and packs. Jackson marched east over the Blue Ridge to use the Virginia Central Railroad, then swung west again to link up with Brigadier General Edward Johnson's forces near the town of McDowell. On May 8, the combined Confederate force repulsed a Union attack at McDowell, driving Fremont's advance guard back into the Alleghenies. Then Jackson turned north, rejoined Ewell's division, and struck the Union garrison at Front Royal on May 23. Using intelligence from a local Confederate spy named Belle Boyd, Jackson's men surprised and routed the Federal defenders. Two days later, on May 25, he smashed Banks's main army at Winchester, sending the Federals streaming north across the Potomac in a rout so complete that Banks lost so many supplies his men nicknamed him 'Commissary Banks.'
+
+## Lincoln's Trap That Never Closed
+
+Jackson's victories at Front Royal and Winchester sent a shudder through Washington. Lincoln, acting as his own strategic coordinator, devised an ambitious pincer movement: Fremont would march east from Franklin to Harrisonburg while McDowell's corps pushed west through Front Royal, trapping Jackson between them in the Valley. On paper, it was sound. In practice, Jackson was already moving. He withdrew south up the Valley Pike with the speed that had become his signature, slipping between the converging Union columns. Fremont arrived late. McDowell's lead division under James Shields advanced cautiously. Jackson positioned Ewell's division at Cross Keys to hold off Fremont while he turned the bulk of his force against Shields at Port Republic. On June 8, Ewell's 5,800 men held firm against Fremont's 11,500 at Cross Keys. The next morning, Jackson attacked at Port Republic in a confused, desperate fight that nearly turned into disaster before Confederate reinforcements overwhelmed the Union position.
+
+## A Valley's Lasting Echo
+
+By mid-June 1862, the campaign was over. Jackson had fought six battles, won five, and turned his single tactical defeat into a strategic triumph. His 17,000 men had marched over 650 miles in 48 days, tied down 52,000 Union troops, and prevented the reinforcement of McClellan's army outside Richmond. The Shenandoah Valley remained in Confederate hands. Lee, recognizing what Jackson had accomplished, summoned him and his veterans east to join the counterattack that became the Seven Days Battles. Jackson arrived exhausted -- his performance in those later battles was uncharacteristically sluggish, possibly from sheer fatigue. But the damage to Union strategy had already been done. Today the Valley's battlefields remain largely rural, their ridges and river crossings still recognizable from the terrain that Hotchkiss mapped and Jackson exploited with such devastating effect.
+
+## Flight Context
+
+Located at 38.65N, 78.67W in the Shenandoah Valley of Virginia. The campaign ranged from Kernstown (near Winchester, 39.17N 78.15W) south to Port Republic (38.31N 78.79W), a corridor of roughly 90 miles. Shenandoah Valley Regional Airport (KSHD) at Weyers Cave is centrally located. Winchester Regional Airport (KOKV) sits near the northern battlefields. The Valley Pike (modern US-11 and I-81) is visible as the main north-south corridor between the Blue Ridge to the east and the Alleghenies to the west. Best viewed at 3,000-5,000 feet AGL to appreciate the valley's strategic geography. Cross Keys and Port Republic battlefields are near the South Fork of the Shenandoah River southeast of Harrisonburg.
+
+## Sources
+
+- [Jackson's Valley campaign - Wikipedia](https://en.wikipedia.org/?curid=380151)
+  - 17,000 men marched 646 miles in 48 days (story says 650 - close approximation)
+  - six battles fought, five won confirmed
+  - Union forces totaling 52,000 troops under three commanders confirmed
+  - Kernstown date March 23 1862 confirmed
+  - Cross Keys June 8, Port Republic June 9 confirmed
+- [Kernstown: Stonewall Jackson's Only Defeat - American Battlefield Trust](https://www.battlefields.org/learn/articles/battle-kernstown-stonewall-jacksons-only-defeat)
+  - CORRECTED in story: Kernstown was Jackson's ONLY defeat (not 'second'), the sole tactical defeat during his entire Confederate service
+  - Ashby's faulty intelligence confirmed
+  - Union force was nearly 9,000 at Kernstown confirmed
+- [Shenandoah Valley Battlefields - Results of 1862 Valley Campaign](https://www.shenandoahatwar.org/results-of-the-1862-valley-campaign)
+  - Strategic victory despite Kernstown tactical loss confirmed
+  - Lincoln diverted troops from Peninsula Campaign confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 14 facts verified · 1 correction
+
+CORRECTED: Story claimed Kernstown was Jackson's 'second tactical defeat of the war' - corrected to 'only tactical defeat.' Multiple authoritative sources (ABT, NPS, Wikipedia) confirm Kernstown was Jackson's sole defeat during his entire Confederate service. Also verified: 17000 men, 646-650 miles in 48 days, six battles (five won), 52000 Union troops.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

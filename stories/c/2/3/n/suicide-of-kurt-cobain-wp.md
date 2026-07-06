@@ -1,0 +1,66 @@
+# The Death of Kurt Cobain
+
+On Lake Washington Boulevard in Seattle's Denny-Blaine neighborhood, a greenhouse above a garage became the site where the voice of a generation fell silent in April 1994, leaving behind music that redefined rock and questions that have never fully subsided.
+
+**Location:** 47.6196, -122.2824
+
+**Categories:** Seattle music history, 1990s cultural events, Grunge era, Lake Washington Boulevard
+
+## Introduction
+
+The electrician arrived on the morning of April 8, 1994, to install security lighting at a house on Lake Washington Boulevard East in Seattle's Denny-Blaine neighborhood. He found a figure in the greenhouse above the garage and assumed the man was asleep. Then he noticed the blood. Kurt Cobain, the 27-year-old lead singer and guitarist of Nirvana, had been dead for approximately three days. A suicide note, with a pen stuck through it, sat in a nearby flowerpot. The final line he borrowed from Neil Young: "It's better to burn out than to fade away." The discovery sent shockwaves through a generation that had made Cobain its reluctant spokesman, and turned a quiet lakeside address into one of the most significant locations in the history of American music.
+
+## The Weight He Carried
+
+Cobain's pain was not metaphorical. Throughout most of his life, he suffered from chronic bronchitis and an undiagnosed stomach condition that caused intense, persistent agony. He turned to heroin, he later said, because it was "the only thing that's saving me from shooting myself right now" during Nirvana's 1991 European tour. He also struggled with depression, alcoholism, and the attention-deficit hyperactivity disorder and bipolar disorder that his cousin Beverly, a nurse, said had been formally diagnosed. Two of his uncles had died by suicide. Six weeks before his death, Cobain had overdosed in Rome in what his management initially called an accident but what his wife, Courtney Love, later confirmed was a suicide attempt. Nirvana bassist Krist Novoselic, quoted in Charles Cross's biography Heavier Than Heaven, described Cobain in his final days as "estranged from all of his relationships" and not "connecting with anybody."
+
+## The Last Week
+
+On March 30, 1994, Cobain checked into Exodus Recovery Center, a drug rehabilitation clinic in Los Angeles. Two days later, on April 1, he scaled a six-foot wall and left. By April 2, he was back in Seattle. He took a taxi to a gun shop and purchased shotgun shells, telling the driver he needed them because he had been burglarized. His friend, musician Dylan Carlson, had previously purchased a Remington Model 11 20-gauge shotgun on Cobain's behalf; Cobain had not wanted the gun in his own name, fearing police would confiscate it. They had already seized his firearms twice in the preceding ten months. What followed were days of silence. Cobain retreated to the greenhouse above his garage on Lake Washington Boulevard, a room overlooking the lake and the Cascade Range beyond it, and did not emerge.
+
+## A City Mourns on the Shores of the Lake
+
+Seattle's reaction was immediate and visceral. A public vigil drew thousands to a park near the Space Needle, where fans wept, embraced strangers, and played Nirvana's music from portable speakers. Courtney Love arrived near the end and distributed some of Cobain's clothing to those who remained. In the days that followed, she consoled mourners who came to the house on Lake Washington Boulevard. The response extended far beyond Seattle. Anthony Kiedis of the Red Hot Chili Peppers wrote in his autobiography Scar Tissue that the news "sucked the air out of the entire house," adding: "I don't know why everyone on earth felt so close to that guy; he was beloved and endearing and inoffensive in some weird way. For all of his screaming and all of his darkness, he was just lovable." Cobain's body was cremated. Love kept some of his ashes in a teddy bear and an urn. She brought another portion to the Namgyal Buddhist Monastery in Ithaca, New York, where monks blessed the remains and mixed them into clay for ceremonial tsatsas.
+
+## Questions That Lingered
+
+The Seattle Police Department ruled Cobain's death a suicide, but questions persisted for years. Private investigator Tom Grant, hired by Love to find Cobain after he left rehab, publicly argued that the circumstances did not add up, pointing to the high concentration of heroin in Cobain's bloodstream and what he called inconsistencies in the evidence. Filmmaker Nick Broomfield investigated the theories for his 1998 documentary Kurt and Courtney, ultimately concluding: "I think that he committed suicide. I don't think that there's a smoking gun." The toxicological record itself proved ambiguous. Cobain's blood morphine level of 1.52 mg/L could represent either a survivable or a fatal dose, depending on whether the lab measured total or free morphine, a distinction the original report did not clarify. In 2014, Seattle police reopened the case briefly after developing four rolls of undeveloped film from the evidence vault, but the investigation confirmed the original finding.
+
+## The House on the Boulevard
+
+Lake Washington Boulevard is one of Seattle's most beautiful drives, curving along the western shore of the lake through neighborhoods of mature trees and expensive homes. The Denny-Blaine section, where Cobain lived, is quiet and residential, the kind of place where wealth prefers not to call attention to itself. The house itself has changed hands since 1994, but the address remains a site of private pilgrimage. Fans still leave notes, flowers, and guitar picks at a bench in nearby Viretta Park, which overlooks the property. Cobain was 27 when he died, joining a list of musicians who left at the same age that is too long and too painful to recite. What remains is the music: Nevermind, which sold more than 30 million copies worldwide, In Utero, and the MTV Unplugged session recorded five months before his death. Nirvana's influence on rock, alternative music, and youth culture in the 1990s was seismic, and it all radiates from a lakeside neighborhood in Seattle where the trees still lean toward the water.
+
+## Flight Context
+
+The Cobain residence is located at approximately 47.620N, 122.282W on Lake Washington Boulevard East in the Denny-Blaine neighborhood of Seattle. From the air, Lake Washington Boulevard traces the western lakeshore as a winding tree-lined road between the Madrona and Leschi neighborhoods. The Denny-Blaine area is characterized by dense tree canopy and large homes along the bluff above the lake. Nearby Viretta Park, at the end of 39th Avenue East, is a small green space adjacent to the property. Nearest airports: Boeing Field/King County International (KBFI) 5nm south-southwest, Seattle-Tacoma International (KSEA) 12nm south. Renton Municipal (KRNT) 8nm south-southeast.
+
+## Sources
+
+- [Suicide of Kurt Cobain](https://en.wikipedia.org/wiki/Suicide_of_Kurt_Cobain)
+- [Suicide of Kurt Cobain - Wikipedia](https://en.wikipedia.org/wiki/Suicide_of_Kurt_Cobain)
+  - Cobain found dead April 8, 1994, estimated death approximately April 5 confirmed
+  - Electrician arrived to install security lighting and found the body confirmed
+  - Cobain was 27 years old confirmed
+  - Gun was a Remington Model 11 20-gauge shotgun purchased by Dylan Carlson confirmed
+  - Cobain purchased shotgun shells April 2 at a gun shop confirmed
+  - Checked into Exodus Recovery Center March 30, left April 1 confirmed
+  - Suicide note included Neil Young line 'better to burn out than to fade away' confirmed
+  - Cobain's blood morphine level of 1.52 mg/L confirmed
+  - Seattle police reopened case in 2014 after developing undeveloped film confirmed
+  - MTV Unplugged recorded November 18, 1993 -- story says 'five months before death' (actually ~4.5 months, acceptable rounding)
+  - Nevermind sold more than 30 million copies worldwide confirmed
+- [MTV Unplugged in New York - Wikipedia](https://en.wikipedia.org/wiki/MTV_Unplugged_in_New_York)
+  - MTV Unplugged recorded November 18, 1993 at Sony Music Studios, New York
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 11 facts verified · 0 corrections
+
+All key facts verified: body found April 8, death ~April 5, 1994; electrician found body; Remington Model 11 20-gauge shotgun purchased by Dylan Carlson; shotgun shells purchased April 2; Exodus Recovery Center March 30, left April 1; Neil Young lyric in note confirmed; blood morphine 1.52 mg/L confirmed; 2014 case reopening confirmed. Nevermind 30M+ copies confirmed. MTV Unplugged Nov 18, 1993 (~4.5 months before death, story says 'five months' - acceptable rounding). Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

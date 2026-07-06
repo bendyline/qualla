@@ -197,5 +197,24 @@
     "_m/u/8/7/9/battle-of-vaslui-wp/vaslui-xve.png",
     "_m/u/8/7/9/battle-of-vaslui-wp/schlacht-von-vaslui.png"
   ],
-  "updatedAt": "2026-04-01T04:21:11.581Z"
+  "updatedAt": "2026-04-01T04:21:11.581Z",
+  "narration": {
+    "files": [
+      "u879-battle-of-vaslui-flight-context.mp3",
+      "u879-battle-of-vaslui-intro.mp3",
+      "u879-battle-of-vaslui-scorched-earth-and-poisoned-wells.mp3",
+      "u879-battle-of-vaslui-the-trap-at-the-high-bridge.mp3",
+      "u879-battle-of-vaslui-the-scale-of-the-slaughter.mp3",
+      "u879-battle-of-vaslui-victorys-short-half-life.mp3"
+    ],
+    "durations": {
+      "u879-battle-of-vaslui-flight-context.mp3": 50.9143333,
+      "u879-battle-of-vaslui-intro.mp3": 44.298125,
+      "u879-battle-of-vaslui-scorched-earth-and-poisoned-wells.mp3": 67.4368333,
+      "u879-battle-of-vaslui-the-trap-at-the-high-bridge.mp3": 58.6293333,
+      "u879-battle-of-vaslui-the-scale-of-the-slaughter.mp3": 60.9595416,
+      "u879-battle-of-vaslui-victorys-short-half-life.mp3": 70.5402083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

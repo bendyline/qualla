@@ -1,0 +1,71 @@
+# 2010 Thai Political Protests
+
+Bangkok's commercial heart became a battleground when tens of thousands of Red Shirt protesters occupied the Ratchaprasong intersection for weeks, ending in a military crackdown that killed more than eighty people.
+
+**Location:** 13.7500, 100.5170
+
+**Categories:** 2010 in Thailand, Protests in Thailand, Political violence in Thailand, 2010 in Bangkok
+
+## Introduction
+
+The intersection of Ratchaprasong is normally one of the most commercially saturated places on Earth, surrounded by CentralWorld, the Erawan Shrine, and luxury hotels. In the spring of 2010, it became a fortified camp. Tens of thousands of Red Shirt protesters erected barricades of sharpened bamboo poles, old tires, and razor wire across the junction, demanding that Prime Minister Abhisit Vejjajiva dissolve parliament and call elections. For more than two months, from March 12 to May 19, Bangkok's glittering shopping district was the front line of a confrontation that would leave more than eighty civilians and six soldiers dead.
+
+## The Roots of Red
+
+The United Front for Democracy Against Dictatorship, universally known as the Red Shirts or UDD, drew its support primarily from Thailand's rural north and northeast, regions that felt economically marginalized by Bangkok's urban elite. Their allegiance ran to former Prime Minister Thaksin Shinawatra, deposed in the 2006 military coup and living in exile. When the Democrat Party's Abhisit Vejjajiva assumed the premiership in December 2008 through a parliamentary process the Red Shirts viewed as illegitimate, they demanded fresh elections. The government refused. Negotiations over a possible election date collapsed repeatedly, and what began as political rallies hardened into an occupation that would paralyze central Bangkok for weeks.
+
+## Blood on the Streets
+
+On April 10, the army moved to disperse the protest camp. The confrontation turned lethal. Soldiers and protesters clashed through the night, and by morning more than twenty people lay dead, including a Reuters cameraman, Hiro Muramoto. The violence did not end the occupation. If anything, it entrenched the protesters further behind their barricades. On May 13, rogue army general Khattiya Sawasdipol, who had aligned himself with the Red Shirts, was shot in the head by an unidentified sniper while giving a media interview; he died four days later. Grenade attacks struck the financial district around Silom Road, and snipers operated from both sides. Medics reported being barred from entering "red zones" to treat the wounded, while the military declared areas under live-fire rules of engagement.
+
+## The Fall of Ratchaprasong
+
+On May 19, the army launched its final assault. Armored personnel carriers pushed through the bamboo-and-tire barricades. Soldiers fired live rounds, and the Red Shirt leaders surrendered one by one, broadcasting their capitulation via television. But the end of the occupation triggered a different kind of violence. Arsonists set fire to CentralWorld, Southeast Asia's second-largest shopping complex, and the blaze gutted large sections of the building. Across Bangkok and in provinces sympathetic to the Red Shirts, government buildings and shopping centers burned. More than thirty buildings were torched in the capital. The Mirror Foundation reported seventy-four people missing in the aftermath, of whom only twenty-three were later found.
+
+## Counting the Dead
+
+The final toll was staggering for a political protest in a country that had not experienced civil war. More than eighty civilians died, along with six soldiers, and over 2,100 people were injured across two months of intermittent violence. Amnesty International condemned the military's "reckless use of lethal force." The UN Secretary-General called on both sides to avert further bloodshed. Foreign journalists were among the casualties: Italian photographer Fabio Polenghi was killed during the final crackdown. The Department of Special Investigation later opened 153 cases related to the protests, but accountability for the deaths remained slow and incomplete, a pattern familiar in Thai political history.
+
+## A Wound Unhealed
+
+The 2010 protests did not resolve Thailand's political divisions. They deepened them. Abhisit's government survived the crisis but lost the 2011 election to Thaksin's sister, Yingluck Shinawatra, whose Pheu Thai Party won a commanding majority. That result validated the Red Shirts' central claim that they represented the democratic majority, but the cycle continued: Yingluck was herself removed from office, and another military coup followed in 2014. The scorched intersection at Ratchaprasong was rebuilt, CentralWorld reopened, and the Erawan Shrine resumed receiving offerings. But the fault lines that sent tens of thousands of rural Thais into Bangkok's commercial heart to demand a voice in their own governance did not disappear. They went underground, resurfacing in the student-led protests of 2020 and 2021.
+
+## Flight Context
+
+The Ratchaprasong intersection at 13.744N, 100.540E sits in the heart of Bangkok's commercial district, surrounded by the massive CentralWorld complex, Erawan Shrine, and major hotels. Victory Monument at 13.765N, 100.538E, another key protest site, is the large roundabout clearly visible from altitude. Bangkok sits at near sea level on the Chao Phraya River floodplain. Nearest airports: Don Mueang International (VTBD) 12nm north, Suvarnabhumi (VTBS) 15nm east. Best viewing altitude: 3,000-5,000 feet AGL.
+
+## Sources
+
+- [2010 Thai political protests - Wikipedia](https://en.wikipedia.org/?curid=26906468)
+  - Protests from 12 March to 19 May 2010
+  - More than 80 civilians and 6 soldiers killed
+  - Over 2100 injured
+  - UDD demanded PM Abhisit dissolve parliament
+  - CentralWorld set on fire during crackdown
+  - Khattiya Sawasdipol shot while giving interview
+  - Hiro Muramoto Reuters cameraman killed
+  - Mirror Foundation reported 74 missing
+  - DSI opened 153 cases
+  - Fabio Polenghi Italian photographer killed
+- [Khattiya Sawasdipol - Wikipedia](https://en.wikipedia.org/wiki/Khattiya_Sawasdipol)
+  - Corrected: Khattiya shot May 13 2010 (not April 10) while being interviewed by NYT reporter
+  - Khattiya died May 17 2010 from head wound
+  - Hiro Muramoto killed April 10 2010 confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-07 · 12 facts verified · 1 correction
+
+Fixed critical factual error: Khattiya Sawasdipol's shooting was placed in the April 10 section but he was actually shot May 13 2010 (died May 17). Separated events correctly. Added verification sources and editorial metadata.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- accountability for the deaths remained slow and incomplete, a pattern familiar in Thai political history
+- The 2010 protests did not resolve Thailand's political divisions. They deepened them.
+
+---
+
+*Word count: 800*
+*Read time: 4 minutes*

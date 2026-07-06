@@ -1,0 +1,66 @@
+# Odawara Castle
+
+A castle that survived Japan's most legendary warlords through cunning rather than force, Odawara's white tower rises above Sagami Bay as a monument to five centuries of siege, earthquake, demolition, and resurrection.
+
+**Location:** 35.2508, 139.1536
+
+**Categories:** Castles in Kanagawa Prefecture, Museums in Kanagawa Prefecture, History museums in Japan, 100 Fine Castles of Japan, Historic Sites of Japan, Buildings and structures in Odawara, Go-Hojo clan
+
+## Introduction
+
+Toyotomi Hideyoshi brought 200,000 soldiers to Odawara in 1590 and still could not take the castle by force. Instead, he threw a party. While his troops feasted on rice wine and watched acrobats and fire-eaters in what became known as the most unconventional siege lines in samurai history, the defenders inside slowly lost their nerve. After a hundred days, the supposedly impregnable fortress surrendered without a single wall being breached. That blend of defiance and theatricality has defined Odawara Castle for over five centuries, as it has endured warlords, earthquakes, government demolition orders, and the slow grind of modernity, only to rise again each time above the rooftops of this seaside city in Kanagawa Prefecture.
+
+## Five Generations of Fortress Builders
+
+The hilltop above Odawara has been fortified since the Kamakura period, when the Doi clan first recognized its strategic value controlling the approaches to the Kanto plain. But it was the Odawara Hojo clan who transformed a modest stronghold into one of Japan's most formidable defensive complexes. Beginning in 1495 when Ise Moritoki seized the castle from the Omori clan, five generations of Hojo lords expanded the walls, deepened the moats, and terraced the hillside into a layered labyrinth of stone, earth, and water. The castle's position was masterfully chosen: water-filled moats protected the lower approaches while dry ditches carved into the hillside guarded the upper flanks. Banks, walls, and natural cliffs completed the perimeter. This layered defense proved itself in 1561 when Uesugi Kenshin's forces broke against its walls, and again in 1569 when Takeda Shingen, one of the era's most feared commanders, was turned away. By the time Hideyoshi arrived with his enormous army in 1590, the Hojo had expanded their fortifications into a sprawling complex whose outer walls enclosed the entire town.
+
+## The Siege That Ended with a Bluff
+
+Hideyoshi understood that Odawara's defenses could absorb any direct assault. So he chose a different weapon: psychology. He ordered the overnight construction of Ishigakiyama Castle on a hilltop clearly visible from Odawara's towers, complete with stone walls and fortifications erected in a single night. To the stunned Hojo defenders, it appeared that Hideyoshi could conjure an entire castle from thin air. Meanwhile, his troops settled into a leisurely siege, entertained by musicians, performers, and markets that sprang up around the encampment. The message was unmistakable: Hideyoshi had resources and patience to spare. After three months, the Hojo surrendered. Hideyoshi awarded the entire domain to his most trusted general, Tokugawa Ieyasu, who would go on to unite Japan and establish the shogunate that ruled for 265 years. The castle was rebuilt on a smaller scale by the Okubo clan, fitting entirely within what had once been just the Hojo castle's third bailey.
+
+## Shaken to the Foundations
+
+If warfare shaped Odawara Castle's first centuries, earthquakes defined its later ones. The 1703 Genroku earthquake destroyed most of the castle structures; rebuilding the keep took three years and the outer works nearly two decades. The 1782 Tenmei earthquake inflicted further damage, and the 1853 Kaei earthquake struck yet again. Then came the Meiji Restoration of 1868, which proved more destructive than any tremor. The new government ordered all feudal fortifications demolished, and between 1870 and 1872, every structure at Odawara was pulled down. The bare stone foundations became the platform for a Shinto shrine dedicated to the Okubo lords. An Imperial Villa was built within the old baileys in 1901, only to be destroyed by the devastating 1923 Great Kanto Earthquake, which also collapsed many of the remaining stone ramparts. For decades, Odawara Castle existed only as rubble-strewn foundations and memories.
+
+## A Castle Reborn in Concrete
+
+Odawara's resurrection began in 1950 when the ruined stone base was repaired and the grounds became a public park. A decade later, to celebrate the twentieth anniversary of Odawara's designation as a city, the iconic three-tiered, five-story donjon was rebuilt in reinforced concrete. Purists note that the observation deck crowning the tower was never part of the original design, added at the insistence of tourism officials eager for a scenic overlook. But the reconstructed tower gave Odawara its silhouette back. Subsequent decades brought more authentic restorations: a copper gate in 1971, the Akagane Gate in 1997, and the Umadashi Gate in 2009, each carefully researched. In 2015, the tower closed for a year-long seismic retrofit and exhibit modernization. When it reopened in April 2016, the city donated that day's entire admission revenue to Kumamoto, whose own famous castle had just been damaged by earthquakes. The Japan Castle Foundation recognized the reconstructed Odawara Castle as one of the 100 Fine Castles of Japan in 2006. Today the castle grounds hold a history museum, and each spring the moats fill with the reflections of hundreds of cherry trees in full bloom.
+
+## The View from Above
+
+From the top of the donjon, the panorama explains everything about why this spot was fought over for centuries. Sagami Bay stretches south, its waters once patrolled by Hojo warships. To the west, the forested mountains of Hakone rise toward the volcanic ridges that sheltered hot spring towns even in the feudal era. The Tokaido road, the great highway connecting Kyoto to Edo, passes directly through town. Anyone controlling Odawara held the key to the Kanto plain and, by extension, to eastern Japan. Standing at the observation deck today, the castle's white walls gleaming above the tile rooftops, you can trace the same strategic geography that made this hilltop valuable to the Doi clan 800 years ago and that drew Hideyoshi's 200,000 soldiers to its gates.
+
+## Flight Context
+
+Odawara Castle is located at 35.2508N, 139.1536E in the city of Odawara, Kanagawa Prefecture, at the western edge of the Kanto plain where it meets the Hakone mountains. The white reconstructed donjon is visible from moderate altitude against the urban grid. Sagami Bay lies to the south. The nearest airports are RJTO (Oshima Airport) approximately 54 km southeast on Izu Oshima island, and RJTT (Tokyo Haneda) roughly 75 km northeast. Approach from the south over Sagami Bay for the best perspective, with the castle hill in the foreground and Hakone's forested ridges behind. The Shinkansen line and Odawara Station are visible just northeast of the castle grounds. Clear weather offers views of Mount Fuji to the northwest.
+
+## Sources
+
+- [Odawara Castle - Wikipedia](https://en.wikipedia.org/?curid=839646)
+  - Ise Moritoki seized castle from Omori clan in 1495 founding Odawara Hojo - confirmed
+  - Castle repelled Uesugi Kenshin in 1561 - confirmed
+  - 1703 Genroku earthquake destroyed most castle structures - confirmed
+  - Demolished 1870-1872 under Meiji government orders - confirmed
+  - Donjon rebuilt in reinforced concrete in 1960 to celebrate 20th anniversary of Odawara city designation - confirmed
+  - 100 Fine Castles of Japan designation by Japan Castle Foundation in 2006 - confirmed
+  - Observation deck was not part of original design, added by tourism officials - confirmed
+  - Copper gate 1971, Akagane Gate 1997, Umadashi Gate 2009 - confirmed
+  - Tower closed 2015 for seismic retrofit, reopened April 2016 - confirmed
+- [Siege of Odawara (1590) - Wikipedia](https://en.wikipedia.org/wiki/Siege_of_Odawara_(1590))
+  - Hideyoshi assembled army of approximately 200,000 (note: article inconsistently uses 200,000 in intro but quarter-million at end) - historical sources support approximately 200,000
+  - Hojo surrendered without walls being breached - confirmed
+  - Tokugawa Ieyasu awarded Hojo lands including Edo - confirmed
+  - Siege lasted about 100 days (three months) - confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 13 facts verified · 1 correction
+
+1495 Ise Moritoki seizure confirmed. 1703 Genroku earthquake confirmed. Demolished 1870-72 confirmed. 1960 concrete rebuild for 20th anniversary of city confirmed. 100 Fine Castles 2006 confirmed. Minor inconsistency flagged: intro says 200,000 troops but last section says quarter-million; historical sources support ~200,000 as more accurate.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 850*
+*Read time: 4 minutes*

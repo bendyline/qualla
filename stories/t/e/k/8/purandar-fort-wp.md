@@ -1,0 +1,58 @@
+# Purandar Fort
+
+A thousand-year-old mountain fortress in the Western Ghats where Shivaji won one of his first victories, signed a painful treaty with the Mughals, and where two treaties shaped the fate of the Maratha Empire.
+
+**Location:** 18.2833, 73.9833
+
+**Categories:** fort, historical-site, maratha-empire, india
+
+## Introduction
+
+Murarbaji Deshpande knew the fort was lost. In 1665, Mughal forces under the command of Jai Singh, assisted by Diler Khan, had besieged Purandar with overwhelming numbers. The killedar - keeper of the fort - refused to surrender. He fought until he was killed, defending walls that had stood on this Western Ghats hilltop since the Yadava dynasty fortified them in the 11th century. His death forced Shivaji's hand. Rather than lose his grandfather's fort entirely, the young Maratha leader signed the Treaty of Purandar with Aurangzeb, surrendering twenty-three forts and a territory worth four lakh hons in revenue. It was one of the bitterest moments in Maratha history. Five years later, the fort was recaptured. Purandar has always been that kind of place: lost, retaken, fought over, never quite abandoned.
+
+## Twin Peaks
+
+Purandar is actually two forts. The main fortification, also called Indraneel Parwat, stands at 1,374 meters above sea level, roughly 50 kilometers southeast of Pune. On its eastern flank rises Vajragad, also known as Rudramal, a smaller companion fort reaching 1,347 meters. Together they command the surrounding terrain with the authority that only high ground can provide. The main fort has two distinct levels: the lower machi, where a cantonment and hospital once operated, and the upper Ballekilla, reached by a staircase and entered through the imposing Dilli Darwaja - the Delhi Gate. Temples to Purandareshwar, the fort's patron deity and namesake, dot the complex. An ancient Kedareshwar temple dedicated to Shiva occupies the Ballekilla, and steep drops on three sides make the upper fort a natural redoubt. At the base of the hill, in the village of Narayanpur, a thousand-year-old Narayaneshwar temple built in Hemadpanthi style by the Yadavas still stands.
+
+## A Fort that Changed Hands
+
+The oldest reference to Purandar dates to the 11th-century Yadava dynasty. After the Yadavas fell, the fort passed to new rulers who reinforced it in 1350. Under the Bahamani Sultanate, it was besieged repeatedly. The methods used to secure it were brutal: according to historical accounts, a man and a woman were buried alive beneath a bastion to appease the fort's patron deity, and in a separate ritual, a minister named Yesaji Naik oversaw the burial of a first-born son and his mother into a bastion's foundation. These accounts speak to the desperation surrounding the fort's defense and the era's willingness to sacrifice human lives for supernatural protection. In 1596, the Ahmadnagar Sultanate granted the territory including Purandar to Malojiraje Bhosale, Shivaji's grandfather. By 1649, the young Shivaji had raided and taken control of the fort in one of his earliest victories for the nascent Maratha Empire.
+
+## Treaties and Captivity
+
+Purandar's name became synonymous with diplomacy under duress. The First Treaty of Purandar in 1665, signed after Murarbaji Deshpande's death and the Mughal siege, forced Shivaji to cede forts and territory. But the Marathas recaptured Purandar in March 1670, and the fort became a stronghold under the Peshwa rulers, serving as a fallback whenever their capital at Pune came under attack. In 1776, a second treaty was signed here between the British and the Maratha states, though its terms were never fulfilled, superseded by the Treaty of Salbai in 1782 at the close of the First Anglo-Maratha War. The British finally took the fort in March 1818 when General Pritzler's forces seized Vajragad first, its commanding position making Purandar's surrender inevitable. Under British rule, the fort served as a prison and sanatorium. During World War II, it became an internment camp for German families, including Jewish refugees from Germany. One prisoner, Dr. H. Goetz, spent his captivity studying the fort's architecture and later published a book on it.
+
+## The Mountain Today
+
+Local legend holds that Purandar is a fragment of Dronagiri Parvat, the mountain Hanuman carried in the Ramayana to retrieve life-saving herbs. Whether or not the myth holds, the fort is the birthplace of Sambhaji Maharaj, Shivaji's son and successor, a fact that deepens its significance in Maratha identity. A statue of Murarbaji Deshpande now stands within the complex, honoring the commander who chose death over surrender. Today the fort draws trekkers and paragliders who climb its slopes for views across the Western Ghats. The National Cadet Corps uses it as a training ground. The cannons are silent, the bastions weathered by centuries of monsoon rain, but the fortifications remain substantial enough to convey what it must have felt like to defend or assault this place. The temples still receive worshippers. The trade routes that once made Purandar strategically vital have become highways, but the fort endures on its hilltop, a monument to the centuries of conflict that shaped Maharashtra.
+
+## Flight Context
+
+Located at 18.28N, 73.98E in the Western Ghats, approximately 50 km southeast of Pune. The twin forts of Purandar (1,374m) and Vajragad (1,347m) are visible as hilltop fortifications on the ridgeline. Pune Airport (VAPO) is the nearest major field, approximately 50 km to the northwest. From 5,000-8,000 feet, look for the distinctive flat-topped hill with visible fortification walls against the surrounding green hillscape. The village of Narayanpur sits at the base. Best visibility in clear dry-season conditions (October-May); monsoon months may obscure the fort in cloud.
+
+## Sources
+
+- [Purandar Fort - Wikipedia](https://en.wikipedia.org/?curid=21123594)
+  - Purandar (Indraneel Parwat) elevation 1,374 meters; Vajragad elevation 1,347 meters - confirmed
+  - Located approximately 50 km southeast of Pune - confirmed
+  - Treaty of Purandar 1665 signed with Mirza Raja Jai Singh I; Shivaji surrendered 23 forts - confirmed
+  - 400,000 gold hun (4 lakh hons) compensation paid to Mughals - confirmed
+  - Maratha recaptured Purandar in 1670 - confirmed (March 8, 1670)
+  - Purandar is birthplace of Sambhaji Maharaj (born May 14, 1657) - confirmed
+  - British took fort in March 1818 - confirmed
+  - Second Treaty of Purandar signed in 1776 between British and Marathas - confirmed
+  - Superseded by Treaty of Salbai in 1782 at close of First Anglo-Maratha War - confirmed
+  - Statue of Murarbaji Deshpande stands within the complex - confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-07 · 10 facts verified · 0 corrections
+
+Key facts verified: fort elevations (1374m/1347m), Treaty of Purandar 1665 (23 forts, 4 lakh hun), recapture March 1670, Sambhaji birthplace, 1776 treaty with British, superseded by Treaty of Salbai 1782. Language good. No empathy issues. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

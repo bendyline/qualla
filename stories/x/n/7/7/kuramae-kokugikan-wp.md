@@ -1,0 +1,57 @@
+# Kuramae Kokugikan: The Arena Built from Scraps
+
+Built from the dismantled remains of a naval hangar in postwar Tokyo, Kuramae Kokugikan became sumo's sacred hall for three decades -- hosting grand tournaments, launching Antonio Inoki's wrestling career, and even serving as a filming location for James Bond.
+
+**Location:** 35.7023, 139.7916
+
+**Categories:** sports-venue, historic-site, sumo, tokyo, japan
+
+## Introduction
+
+Sean Connery sat ringside in September 1966, watching two sumo wrestlers collide with genuine force. The bout was real. The 8,000 spectators filling Kuramae Kokugikan had been lured there by the promise of a Bond movie shoot, but the wrestlers refused to fake a match -- not in this building, not on this ground. The arena in Tokyo's Kuramae neighborhood had been pieced together from wartime scrap metal barely a decade earlier, yet it already commanded that kind of reverence. For thirty years, Kuramae Kokugikan stood as the spiritual home of sumo, a place where ancient ritual met postwar reinvention, where the smell of fresh mawashi and the slap of flesh against clay defined six annual tournaments. The footage from that day made it into "You Only Live Twice," the 1967 Bond film. The building itself did not survive much longer.
+
+## From Naval Hangar to Sumo Hall
+
+The Japan Sumo Association had owned the land at the base of Kuramae Bridge since before World War II, planning a grand new arena since around 1940. The war shelved everything. When peace came, the old Ryogoku Kokugikan was occupied by Allied forces enforcing the budo ban, which prohibited martial arts. Sumo wrestlers were reduced to performing in Shinto shrines and borrowed baseball stadiums. The Association needed a home, but postwar Japan had no steel to spare. The solution was resourceful and blunt: dismantle the naval hangar at Atsugi air base and haul its bones across to Kuramae. Construction began with these salvaged materials, and from 1950 to 1953, tournaments were held inside the half-finished building -- wrestlers competing amid exposed beams and unfinished walls. The arena was officially completed in September 1954, with a target capacity of 11,000 spectators.
+
+## The Ring Under the Suspended Roof
+
+Kuramae Kokugikan was not just a venue; it became a stage for sumo's modernization. At the opening ceremony on September 18, 1954, both yokozuna Chiyonoyama and Kagamisato performed a rare ceremonial display. In September 1952, even before the arena's official completion, the four traditional pillars surrounding the ring -- the shihon-bashira, which had framed sumo bouts for centuries -- were removed and replaced by the tsuriyane, a suspended ceiling that cleared sightlines for the television cameras that were beginning to broadcast matches to the nation. It was a quietly revolutionary moment: ancient sport adapting to modern media. A Sumo Museum was established within the building to preserve the historical heritage of the sport, housing centuries of memorabilia. From 1953 to 1971, the arena underwent steady renovations, adding electric scoreboards, air conditioning, and heating -- each upgrade layering modernity onto a structure born from recycled scrap.
+
+## The Ring Ropes and the Turnbuckles
+
+Sumo did not have the building to itself. Kuramae Kokugikan became one of Tokyo's premier venues for professional wrestling, hosting sold-out cards for Tokyo Pro, the National Wrestling Alliance, and the Japan Pro Wrestling Alliance. On October 12, 1966, Tokyo Pro Wrestling held its debut show at Kuramae, and that night a young Antonio Inoki scored his biggest victory to date, defeating Johnny Valentine. Inoki would become one of the most famous athletes in Japanese history, and Kuramae was where his legend took shape. The arena also hosted the first women's professional wrestling tournament in Japan. Beyond wrestling, the building served as the venue for the first All Japan Kendo Championships in 1953, the inaugural World Judo Championships in 1956, and numerous boxing events. Kuramae Kokugikan was, for three decades, where Japan's fighting traditions -- ancient and modern, choreographed and genuine -- converged.
+
+## Closing the Doors
+
+By the early 1980s, the arena that recycled materials had built was showing its age. Originally assembled from salvaged metal and wartime surplus, the structure had endured decades of heavy use. The Japan Sumo Association debated whether to renovate or rebuild entirely. In 1982, the decision was made: a new Kokugikan would rise in Ryogoku, returning sumo to the neighborhood where it had been staged since the Edo period. Kuramae Kokugikan held its final tournament in 1984 and was demolished. The second Ryogoku Kokugikan opened in January 1985, a purpose-built modern arena with improved seating and facilities. The old Kuramae site was claimed by the Tokyo Metropolitan Government's Bureau of Sewage -- a fate that the wrestling fans and sumo devotees who had filled those 11,000 seats might have found difficult to imagine.
+
+## Flight Context
+
+Located at 35.702°N, 139.792°E in the Kuramae neighborhood of Taito ward, along the west bank of the Sumida River in eastern Tokyo. The original building no longer exists; the site is now occupied by the Tokyo Metropolitan Government Bureau of Sewage facility. From the air at 2,000-3,000 feet AGL, the Sumida River serves as the primary landmark, with Kuramae Bridge visible nearby. The replacement Ryogoku Kokugikan is located approximately 1 km south along the same riverbank. Tokyo Haneda Airport (RJTT) is approximately 12 nautical miles to the south-southwest. Tokyo Narita Airport (RJAA) is approximately 35 nautical miles to the east.
+
+## Sources
+
+- [Kuramae Kokugikan - Wikipedia](https://en.wikipedia.org/?curid=20241430)
+- [Tokyo Filming Locations - You Only Live Twice (1967)](https://tokyofox.net/2011/11/27/tokyo-filming-locations-pt-i-you-only-live-twice-updated-2/)
+  - Bond film scene shot at Kuramae Kokugikan in September 1966
+  - Sumo wrestlers refused to fake a match for the filming
+  - 8,000 spectators filled the arena for the shoot
+  - Featured wrestlers Kotozakura and Fujinishiki in a real bout
+- [Antonio Inoki biography - Inoki Genki Factory](https://www.inokigenki.com/en/history/index.html)
+  - Tokyo Pro Wrestling debut show at Kuramae October 12, 1966
+  - Inoki defeated Johnny Valentine that night
+- [Sumo 101: Kuramae Kokugikan - The Japan Times](https://www.japantimes.co.jp/sports/2019/09/10/sumo/sumo-101-kuramae-kokugikan/)
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 9 facts verified · 0 corrections
+
+Previously verified article. Bond film scene at Kuramae Sept 1966 confirmed. Antonio Inoki vs Johnny Valentine at Tokyo Pro debut Oct 12 1966 confirmed. Arena opened 1954, closed 1984, demolished confirmed. New Ryogoku Kokugikan opened January 1985 confirmed. Capacity 11000 confirmed. Site now Tokyo Metropolitan Bureau of Sewage confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 790*
+*Read time: 4 minutes*

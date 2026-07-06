@@ -762,5 +762,24 @@
     "_m/s/v/9/h/garden-tomb-wp/ceramic-warning-sign-in-jerusa.jpg",
     "_m/s/v/9/h/garden-tomb-wp/gartengrab.jpg"
   ],
-  "updatedAt": "2026-03-31T12:02:57.795Z"
+  "updatedAt": "2026-03-31T12:02:57.795Z",
+  "narration": {
+    "files": [
+      "sv9h-garden-tomb-flight-context.mp3",
+      "sv9h-garden-tomb-intro.mp3",
+      "sv9h-garden-tomb-the-skull-in-the-hillside.mp3",
+      "sv9h-garden-tomb-a-tomb-in-a-garden.mp3",
+      "sv9h-garden-tomb-the-weight-of-evidence.mp3",
+      "sv9h-garden-tomb-the-power-of-the-place.mp3"
+    ],
+    "durations": {
+      "sv9h-garden-tomb-flight-context.mp3": 44.1837083,
+      "sv9h-garden-tomb-intro.mp3": 50.0792916,
+      "sv9h-garden-tomb-the-skull-in-the-hillside.mp3": 57.892125,
+      "sv9h-garden-tomb-a-tomb-in-a-garden.mp3": 59.221,
+      "sv9h-garden-tomb-the-weight-of-evidence.mp3": 64.2728333,
+      "sv9h-garden-tomb-the-power-of-the-place.mp3": 69.958125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

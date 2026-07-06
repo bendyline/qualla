@@ -1,0 +1,64 @@
+# Japan Ukiyo-e Museum
+
+A single merchant family in Matsumoto spent two centuries amassing over 100,000 Japanese woodblock prints, creating the world's largest collection of ukiyo-e—pictures of the floating world.
+
+**Location:** 36.2318, 137.9344
+
+**Categories:** Art museums and galleries in Nagano Prefecture, Ukiyo-e, Japanese woodblock prints, Matsumoto
+
+## Introduction
+
+One hundred thousand woodblock prints, and they all belong to one family. The Sakai family of Matsumoto began collecting ukiyo-e in the early 1800s, when the art form was still being produced in the workshops of Edo. Five generations later, their private collection had grown into something no museum, university, or government could match. In 1982, they opened the doors to the Japan Ukiyo-e Museum, giving the world access to the largest single collection of Japanese woodblock prints ever assembled—housed in a building designed by one of Japan's most influential modernist architects, in a castle town at the foot of the Japanese Alps.
+
+## Pictures of the Floating World
+
+Ukiyo-e—literally "pictures of the floating world"—emerged in 17th-century Japan as an art form of the streets, not the courts. The term referred to the pleasure quarters and theater districts of Edo-period cities, the playgrounds of a newly wealthy merchant class. Artists like Katsushika Hokusai and Utagawa Hiroshige carved woodblocks that captured kabuki actors, courtesans, landscapes, and scenes from daily life. Production was collaborative: a publisher, a designer, a block cutter, and a printer worked together to produce full-color prints called nishiki-e, or "brocade pictures," perfected in 1765. Because these prints were inexpensive and mass-produced, they reached ordinary people in a way that painting never could. Fashions depicted in ukiyo-e spread from the licensed quarters to the general population. When these prints finally reached Europe in the 19th century, they stunned artists like Monet and Van Gogh, reshaping Western ideas about composition, color, and line.
+
+## Five Generations of Obsession
+
+The collection began with Sakai Yoshiaki, the sixth-generation head of the Sakai merchant house and the second wealthiest merchant in Matsumoto. Born in 1776, Yoshiaki built twelve warehouses behind his shop and filled them not just with trade goods but with art. His son Yoshitaka, born in 1810, deepened the family's involvement with the ukiyo-e world—Utagawa Hiroshige himself painted Yoshitaka's portrait in a kyoka poem book in 1836. The eighth generation, Sakai Touhyou-e, moved beyond collecting: in 1870, he established the Sakai Kou-ko-dou Gallery in Tokyo's Kanda district and became a patron who fostered scholars and students of ukiyo-e. His son Shoukichi, the ninth generation, founded an academic periodical simply called "Ukiyo-e" and became the first person to study the art form with scientific rigor. By the time Tokichi Sakai, the tenth generation, decided to open a public museum in 1982, the family had been collecting for nearly two centuries.
+
+## A Modernist Shell for Ancient Art
+
+To house the collection, Tokichi Sakai commissioned Kazuo Shinohara, one of the most important Japanese architects of the 20th century. Shinohara, who had established his practice in 1954, was known for a stripped-down aesthetic that drew on both traditional Japanese spatial concepts and avant-garde modernism. His design for the museum is characteristically spare—a building that lets the art command attention rather than competing with it. The structure was extended in 1995 by architect Haba Kuniharu, expanding the exhibition space to accommodate rotating displays drawn from the vast collection. Because 100,000 prints cannot be shown at once, the museum cycles through themed exhibitions that reveal different facets of the ukiyo-e tradition. The building sits adjacent to the Matsumoto Open Air Architectural Museum, creating a small cultural campus on the outskirts of the city.
+
+## Matsumoto's Cultural Constellation
+
+Matsumoto is a city that collects things. Its iconic black-and-white castle—one of Japan's twelve original keeps—has stood since the late 16th century. The former Kaichi School, a National Treasure, preserves the dawn of modern education in Japan. And tucked into the western edge of the city, the Ukiyo-e Museum holds an artistic heritage that has traveled the world. Items from the Sakai collection have been exhibited across Europe, North America, the Middle East, South America, and East Asia. The prints that once circulated for pennies in the streets of Edo now draw scholars and art lovers to a quiet museum in Nagano Prefecture, where the family that saved them still tends the collection. It is a fitting home: Matsumoto has always been a place where things of value are kept and cared for, generation after generation.
+
+## Flight Context
+
+Located at 36.232N, 137.934E on the western outskirts of Matsumoto city, Nagano Prefecture. The museum sits in a flat area near the Matsumoto Open Air Architectural Museum. Nearest airport is Matsumoto Airport (RJAF/MMJ), approximately 5 km to the southwest. The Japanese Alps rise dramatically to the west, providing a stunning backdrop. Matsumoto Castle is visible roughly 3 km to the northeast. Best viewed at lower altitudes where the cultural campus layout is distinguishable from the surrounding residential areas.
+
+## Sources
+
+- [Japan Ukiyo-e Museum - Wikipedia](https://en.wikipedia.org/?curid=27984978)
+  - Museum opened 1982, established by Tokichi (Toukichi) Sakai (10th generation)
+  - Over 100,000 woodblock prints - world's largest ukiyo-e collection
+  - Sakai Yoshiaki (sixth generation, born 1776) - second wealthiest merchant in Matsumoto
+  - Utagawa Hiroshige painted Yoshitaka's portrait in a kyoka poem book in 1836
+  - Kazuo Shinohara designed the museum building (established practice 1954)
+  - Full-color nishiki-e prints perfected in 1765
+  - Museum extended in 1995 by architect Haba Kuniharu
+- [Japan Ukiyo-e Museum Official Site](https://www.japan-ukiyoe-museum.com/about_en/)
+  - Collection began with Sakai family in early 1800s
+  - Sakai family business in Matsumoto across generations
+  - Items exhibited across Europe, North America, Middle East, South America, East Asia
+
+## Review Notes
+
+**Reviewed:** 2026-02-21 · 7 facts verified · 0 corrections
+
+All key facts verified: 100,000+ prints world's largest ukiyo-e collection, museum opened 1982, Sakai Yoshiaki sixth generation born 1776 second wealthiest Matsumoto merchant, Hiroshige painted Yoshitaka's portrait in 1836, Kazuo Shinohara designed museum (practice from 1954), nishiki-e full-color prints perfected 1765, extended 1995 by Haba Kuniharu. No corrections needed.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Frames the prints that once circulated for pennies as now drawing scholars and art lovers - contrast of historic/current value
+- Describes Matsumoto as a city that collects things - editorial characterization
+
+---
+
+*Word count: 720*
+*Read time: 4 minutes*

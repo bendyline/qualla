@@ -1,0 +1,39 @@
+{
+  "id": "operation-infinite-reach-wp",
+  "patch": {
+    "media": {
+      "hero": {
+        "path": "_m/s/d/z/1/operation-infinite-reach-wp/hero.png",
+        "filename": "Operation Infinite Reach map.png",
+        "caption": "Operation Infinite Reach map",
+        "alt": "Operation Infinite Reach map",
+        "width": 1086,
+        "height": 762,
+        "mimeType": "image/png",
+        "license": "CC BY-SA 4.0",
+        "artist": "Weaveravel",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Operation_Infinite_Reach_map.png",
+        "sourceType": "core",
+        "sourceArticleId": "operation-infinite-reach-wp",
+        "sourceGeohash4": "sdz1",
+        "categories": [
+          "CC-BY-SA-4.0",
+          "Military maps of the United States",
+          "Operation Infinite Reach",
+          "Self-published work"
+        ],
+        "smallPath": "_m/s/d/z/1/operation-infinite-reach-wp/hero-small.webp"
+      },
+      "narration": [
+        "_m/s/d/z/1/operation-infinite-reach-wp/sdz1-operation-infinite-reach-flight-context.mp3",
+        "_m/s/d/z/1/operation-infinite-reach-wp/sdz1-operation-infinite-reach-intro.mp3",
+        "_m/s/d/z/1/operation-infinite-reach-wp/sdz1-operation-infinite-reach-the-august-7-bombings.mp3",
+        "_m/s/d/z/1/operation-infinite-reach-wp/sdz1-operation-infinite-reach-the-al-shifa-plant.mp3",
+        "_m/s/d/z/1/operation-infinite-reach-wp/sdz1-operation-infinite-reach-the-evidence-unravels.mp3",
+        "_m/s/d/z/1/operation-infinite-reach-wp/sdz1-operation-infinite-reach-what-sudan-lost.mp3",
+        "_m/s/d/z/1/operation-infinite-reach-wp/sdz1-operation-infinite-reach-the-target-that-mattered-more.mp3"
+      ],
+      "combinedNarration": "_m/s/d/z/1/operation-infinite-reach-wp/sdz1-operation-infinite-reach-combined.mp3"
+    }
+  }
+}

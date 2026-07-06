@@ -613,5 +613,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "tw71-lowari-pass-flight-context.mp3",
+      "tw71-lowari-pass-intro.mp3",
+      "tw71-lowari-pass-gateway-to-chitral.mp3",
+      "tw71-lowari-pass-guardians-and-porters.mp3",
+      "tw71-lowari-pass-six-months-of-silence.mp3",
+      "tw71-lowari-pass-a-tunnel-beneath-the-mountain.mp3"
+    ],
+    "durations": {
+      "tw71-lowari-pass-flight-context.mp3": 52.0785833,
+      "tw71-lowari-pass-intro.mp3": 46.8435,
+      "tw71-lowari-pass-gateway-to-chitral.mp3": 52.9171666,
+      "tw71-lowari-pass-guardians-and-porters.mp3": 52.3604166,
+      "tw71-lowari-pass-six-months-of-silence.mp3": 57.1292916,
+      "tw71-lowari-pass-a-tunnel-beneath-the-mountain.mp3": 64.02275
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

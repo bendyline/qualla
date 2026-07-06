@@ -103,5 +103,26 @@
   "galleryPaths": [
     "_m/m/h/g/0/battle-of-tamatave-wp/battle-of-tamatave.jpg"
   ],
-  "updatedAt": "2026-03-30T21:57:31.770Z"
+  "updatedAt": "2026-03-30T21:57:31.770Z",
+  "narration": {
+    "files": [
+      "mhg0-battle-of-tamatave-flight-context.mp3",
+      "mhg0-battle-of-tamatave-intro.mp3",
+      "mhg0-battle-of-tamatave-a-colony-already-lost.mp3",
+      "mhg0-battle-of-tamatave-into-the-trap.mp3",
+      "mhg0-battle-of-tamatave-a-calm-that-favored-the-french.mp3",
+      "mhg0-battle-of-tamatave-the-commodores-last-fight.mp3",
+      "mhg0-battle-of-tamatave-judgment-at-brest.mp3"
+    ],
+    "durations": {
+      "mhg0-battle-of-tamatave-flight-context.mp3": 44.0815,
+      "mhg0-battle-of-tamatave-intro.mp3": 48.558875,
+      "mhg0-battle-of-tamatave-a-colony-already-lost.mp3": 67.2094166,
+      "mhg0-battle-of-tamatave-into-the-trap.mp3": 58.241625,
+      "mhg0-battle-of-tamatave-a-calm-that-favored-the-french.mp3": 56.1792916,
+      "mhg0-battle-of-tamatave-the-commodores-last-fight.mp3": 55.6869166,
+      "mhg0-battle-of-tamatave-judgment-at-brest.mp3": 66.1572916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

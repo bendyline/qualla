@@ -416,5 +416,24 @@
     "_m/v/4/b/c/veliky-ustyug-wk/category-10.jpg",
     "_m/v/4/b/c/veliky-ustyug-wk/20200104-133155.jpg"
   ],
-  "updatedAt": "2026-04-01T07:47:17.788Z"
+  "updatedAt": "2026-04-01T07:47:17.788Z",
+  "narration": {
+    "files": [
+      "v4bc-veliky-ustyug-flight-context.mp3",
+      "v4bc-veliky-ustyug-intro.mp3",
+      "v4bc-veliky-ustyug-gateway-to-the-unknown.mp3",
+      "v4bc-veliky-ustyug-spires-above-the-confluence.mp3",
+      "v4bc-veliky-ustyug-the-craft-of-black-silver.mp3",
+      "v4bc-veliky-ustyug-where-winter-has-an-address.mp3"
+    ],
+    "durations": {
+      "v4bc-veliky-ustyug-flight-context.mp3": 53.6955416,
+      "v4bc-veliky-ustyug-intro.mp3": 46.1253333,
+      "v4bc-veliky-ustyug-gateway-to-the-unknown.mp3": 58.706625,
+      "v4bc-veliky-ustyug-spires-above-the-confluence.mp3": 64.5217916,
+      "v4bc-veliky-ustyug-the-craft-of-black-silver.mp3": 52.7165,
+      "v4bc-veliky-ustyug-where-winter-has-an-address.mp3": 66.655875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

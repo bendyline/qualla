@@ -1,0 +1,60 @@
+# CSS Neuse
+
+Built from pine and scavenged iron on a riverbank in wartime North Carolina, the CSS Neuse was a Confederate ironclad that spent more time stuck in mud than fighting -- and yielded 15,000 artifacts when her hull was finally pulled from the Neuse River a century later.
+
+**Location:** 35.2604, -77.5814
+
+**Categories:** military-history, civil-war, maritime-history, museum, historic-site
+
+## Introduction
+
+The engine came from a sawmill. The iron plating arrived in batches so small that the builders left the deck unarmored rather than wait any longer. The crew was conscripted from the army because the Confederate Navy could not find enough sailors. And on her first real voyage, the CSS Neuse ran aground on a sandbar half a mile from her moorings in Kinston, North Carolina, her bow jutting four feet out of the water, and stayed stuck in the mud for nearly a month. This was the Confederacy's ironclad program in miniature: ambitious designs colliding with a collapsing industrial base, producing warships that were fearsome on paper and frequently immobile in practice. The Neuse spent more than two years under construction and barely two months in anything resembling service before her own crew set her on fire and blew her up to keep her out of Union hands.
+
+## Iron and Pine on the Neuse River
+
+On October 17, 1862, the Confederate Navy signed a contract with the shipbuilding firm of Howard and Ellis to construct an ironclad warship on the bank of the Neuse River at Whitehall, North Carolina -- present-day Seven Springs. The design came from John L. Porter, the Confederacy's chief naval architect, who had helped design the famous CSS Virginia. The Neuse would be 158 feet long and 34 feet wide, built primarily from locally abundant yellow pine with four inches of oak backing for her armor. The casemate -- the sloped, armored housing that protected the guns and crew -- was 60 feet long and octagonal in form, sheathed in two layers of wrought iron plate on the forward face. Her two 6.4-inch Brooke rifled cannon, each weighing over 12,000 pounds with carriage and fittings, would make her a formidable threat on the shallow inland waters of eastern North Carolina. That was the plan. Reality delivered chronic shortages of iron plate, disputes over pay that slowed work, and a Union raid on Whitehall in December 1862 that damaged the partially built hull. In March 1863, the unfinished hull was floated downriver to Kinston for fitting out. The ironclad would not get up steam for another thirteen months.
+
+## Stuck in the Mud
+
+The Neuse was finally launched in late 1863, but fitting out dragged on through the winter. Her engine, salvaged from a mill in New Bern, was underpowered. Her crew was a problem from the start -- Commander Sharp had only 28 sailors, far short of the roughly 100 men needed, and most reinforcements were army soldiers with no naval experience. Iron plate remained scarce; the deck was ultimately left unarmored, making the Neuse the first of several Confederate ironclads built without deck protection. When she finally got up steam in April 1864, General Robert F. Hoke was planning an assault on New Bern and wanted the ironclad's support. On April 22, the Neuse headed downriver. She made it about half a mile before running aground on a sandbar, her bow rising four feet above the waterline. The river was at historic low levels. The inexperienced crew could not free her. She sat in the mud until mid-May, when rising water finally lifted her off. By then, Hoke's New Bern operation had been called off. The Neuse returned to her moorings at Kinston, where she would remain for the next ten months, a floating battery that almost never floated.
+
+## Fire, Explosion, and the River Bottom
+
+In March 1865, Union forces under Major General Jacob D. Cox advanced on Kinston during the Carolinas campaign. After the Battle of Wyse Fork failed to stop the Federal advance, General Braxton Bragg ordered Captain Joseph H. Price, the Neuse's final commander, to cover the Confederate withdrawal and then destroy the vessel. On March 12, the crew fired the ironclad's Brooke rifles at advancing Union cavalry in what would be her only combat action. Then they stripped the ship of powder and stores, laid gunpowder trails to a cache of explosives in the bow, and set fires amidships and astern. A massive explosion on her port bow sent the burning ironclad to the bottom of the shallow river. The Neuse had been under construction or fitting out for over two years. She had been operational for less than one. Her entire combat career consisted of a few rounds fired at retreating range during the final hours before her destruction.
+
+## Fifteen Thousand Artifacts
+
+The Neuse lay in the river for nearly a century, her location known but her hull undisturbed. In the early 1960s, efforts began to raise what remained. The excavation produced approximately 15,000 artifacts -- the largest number ever recovered from a Confederate vessel. The collection included everything from cannon fittings and iron plate to personal items belonging to the crew, offering an extraordinarily detailed picture of life aboard a wartime ironclad. The remains of her lower hull and a selection of artifacts are now on display at the CSS Neuse Civil War Museum, a North Carolina State Historic Site in downtown Kinston. Since 2013, the collection has been housed in a climate-controlled building designed for long-term preservation. The ironclad is listed on the National Register of Historic Places. She is one of only four recovered Civil War-era ironclad wrecks in existence, alongside the CSS Jackson, the USS Cairo, and the USS Monitor turret. A full-size replica, CSS Neuse II, sits at a separate site in Kinston, built by volunteers between 2002 and 2009 under the leadership of activist Ted Sampley and builder Alton Stapleford. The replica contains a complete fitted-out interior showing every shipboard detail. It is the only Confederate ironclad with a full-scale replica on display anywhere in the world.
+
+## Flight Context
+
+Located at 35.26N, 77.58W in Kinston, North Carolina, along the Neuse River. The CSS Neuse Civil War Museum is in downtown Kinston near the river's south bank. The Neuse II replica is displayed at a separate site nearby. Best viewed at 1,500-3,000 feet AGL. Nearby airports: KISO (Kinston Regional Jetport, 3 nm southwest), KEWN (Craven County Regional / New Bern, 28 nm southeast). The Neuse River winding through Kinston is the primary visual landmark. The flat Coastal Plain terrain and the small-city grid of downtown Kinston are easily identifiable from the air.
+
+## Sources
+
+- [CSS Neuse - Wikipedia](https://en.wikipedia.org/?curid=15657847)
+  - construction contract signed October 17 1862 with Howard and Ellis
+  - built at Whitehall (present-day Seven Springs)
+  - 158 feet long, 34 feet wide
+  - two 6.4-inch Brooke rifled cannon
+  - launched late 1863
+  - ran aground April 22 1864 half mile from Kinston moorings
+  - 15,000 artifacts recovered - largest number from any recovered Confederate vessel
+  - CSS Neuse Civil War Museum a North Carolina State Historic Site since 2013 in climate-controlled building
+  - CSS Neuse II replica built by volunteers 2002-2009 by Ted Sampley and Alton Stapleford
+- [CSS Neuse State Historic Site - NC Historic Sites](https://historicsites.nc.gov/all-sites/css-neuse-and-governor-richard-caswell-memorial)
+  - museum in downtown Kinston on south bank of Neuse River
+  - CSS Neuse II is the only full-scale replica of a Confederate ironclad
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 10 facts verified · 0 corrections
+
+Verified October 17 1862 contract with Howard and Ellis at Whitehall (Seven Springs), 158 ft x 34 ft dimensions, two 6.4-inch Brooke rifles, launched late 1863, ran aground April 22 1864, 15,000 artifacts confirmed largest from Confederate vessel, climate-controlled museum since 2013, CSS Neuse II replica by Ted Sampley and Alton Stapleford 2002-2009. All facts accurate. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 810*
+*Read time: 4 minutes*

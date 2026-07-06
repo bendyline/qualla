@@ -1,0 +1,56 @@
+# Bimmah Sinkhole
+
+A turquoise pool in Oman's limestone coast that locals believed was created by a falling star, giving it the Arabic name Hawiyyat Najm -- 'the deep well of the star.'
+
+**Location:** 23.0361, 59.0711
+
+**Categories:** Sinkholes of Asia, Landforms of Oman, Tourist attractions in Muscat, Oman
+
+## Introduction
+
+The locals had a better explanation than the geologists. When they looked at this perfectly formed pool of turquoise water punched into the coastal limestone, they saw the work of a falling star. They named it Hawiyyat Najm -- the deep well of the star. Science eventually offered a more prosaic answer involving dissolved limestone and collapsed surface layers, but standing at the rim of Bimmah Sinkhole, watching light refract through water so clear it seems to glow from within, the meteor theory feels more honest.
+
+## A Star's Well
+
+Bimmah Sinkhole sits in eastern Muscat Governorate, just off the highway to Sur, a few kilometers before the coastal village of Tiwi. The depression measures roughly 50 meters by 70 meters across and approximately 20 meters deep at its center, though the deepest sections plunge beyond 300 feet. It lies only 600 meters from the sea, between the towns of Dibab and Bamah. The water is a vivid turquoise, fed by a mix of fresh groundwater and seawater that seeps through the porous limestone connecting the sinkhole to the Gulf of Oman. The Arabic name combines hawiyyat, meaning a deep well or abyss, with najm, meaning star. The name predates any geological survey and reflects a community's attempt to explain something genuinely inexplicable in their landscape.
+
+## Limestone and Gravity
+
+The formation is straightforward geology made spectacular by setting. Rainwater, slightly acidified by carbon dioxide absorbed from the atmosphere, percolated through the limestone over thousands of years, dissolving the rock from within. Cavities grew. Eventually, the surface layer could no longer support itself and collapsed, creating the sinkhole. The process is common across limestone terrain worldwide, but few sinkholes combine Bimmah's accessibility, its proximity to the coast, and the startling color of its water. The turquoise hue results from the depth, the clarity of the water, and the white limestone that lines the basin, reflecting and scattering light in ways that make the pool appear lit from below.
+
+## A Park Around an Abyss
+
+The local municipality recognized both the sinkhole's vulnerability and its appeal. They built Hawiyat Najm Park around it, enclosing the area with fences, adding facilities, and constructing a stairway that descends to the water's edge. Visitors swim in the pool, floating over depths that range from wading-shallow at the edges to genuinely bottomless in the center. The park transforms what could be a dangerous geological feature into something communal, a place where families picnic on weekends within sight of one of Oman's most unusual natural formations. The stairway is a practical concession: people were going to swim here regardless. Better to give them steps than to watch them scramble down crumbling limestone.
+
+## Between Highway and Sea
+
+Bimmah Sinkhole occupies an unlikely position in the Omani landscape. It sits between the modern highway that connects Muscat to Sur and the ancient coastline of the Gulf of Oman, a geological accident made accessible by infrastructure. Most visitors encounter it as a stop on a longer drive, a place to pause and cool off. The sinkhole asks nothing of its visitors except that they look down and recognize that the ground beneath their feet is not as solid as it appears. Six hundred meters away, the sea does the same work on a grander scale, dissolving the coast grain by grain. The sinkhole is simply the place where the process became visible.
+
+## Flight Context
+
+Coordinates: 23.04N, 59.07E, on the coast of eastern Muscat Governorate between Dibab and Tiwi. The sinkhole is visible from low altitude as a distinct turquoise oval in pale limestone near the highway. Best viewed at 2,000-4,000 ft. Located about 120 km southeast of Muscat International (OOMS). The highway to Sur runs directly past. Clear conditions typical.
+
+## Sources
+
+- [Bimmah Sinkhole - Wikipedia](https://en.wikipedia.org/?curid=51783712)
+  - Dimensions 50m x 70m wide, approximately 20m deep confirmed
+  - Deepest sections reach approximately 90 meters (~300 feet) confirmed
+  - Location 600m from the sea between Dibab and Bamah confirmed
+  - Formation by limestone dissolution/karst collapse confirmed
+  - Arabic name Hawiyyat Najm meaning 'the falling star' or 'deep well of the star' confirmed
+  - Location in eastern Muscat Governorate just off highway to Sur confirmed
+  - Hawiyat Najm Park enclosure with stairway to water confirmed
+  - 120km southeast of Muscat confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-01 · 8 facts verified · 0 corrections
+
+All key facts verified: dimensions (50x70m, 20m deep, deepest ~90m/300ft), 600m from sea, Hawiyyat Najm name and meaning, limestone dissolution formation, location in eastern Muscat Governorate, 120km from Muscat, park facilities. No factual errors found. No empathy/dignity issues. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 620*
+*Read time: 3 minutes*

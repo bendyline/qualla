@@ -50,5 +50,26 @@
     "sourceGeohash4": "w16m"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "w16m-katchal-island-flight-context.mp3",
+      "w16m-katchal-island-intro.mp3",
+      "w16m-katchal-island-ancient-trade-winds.mp3",
+      "w16m-katchal-island-the-protected-people.mp3",
+      "w16m-katchal-island-when-the-wave-came.mp3",
+      "w16m-katchal-island-life-at-the-edge-of-the-map.mp3",
+      "w16m-katchal-island-between-sunrise-and-aftermath.mp3"
+    ],
+    "durations": {
+      "w16m-katchal-island-flight-context.mp3": 60.89525,
+      "w16m-katchal-island-intro.mp3": 54.5428333,
+      "w16m-katchal-island-ancient-trade-winds.mp3": 61.4722083,
+      "w16m-katchal-island-the-protected-people.mp3": 64.7627083,
+      "w16m-katchal-island-when-the-wave-came.mp3": 54.592125,
+      "w16m-katchal-island-life-at-the-edge-of-the-map.mp3": 61.8035,
+      "w16m-katchal-island-between-sunrise-and-aftermath.mp3": 57.0298333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -196,5 +196,24 @@
     "_m/u/e/4/6/alvar-aalto-museum-wp/muuratsalo-experimenta-2.jpg",
     "_m/u/e/4/6/alvar-aalto-museum-wp/halla-ceramic-tiles.jpg",
     "_m/u/e/4/6/alvar-aalto-museum-wp/alvar-aalto-museum-jyv.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "ue46-alvar-aalto-museum-flight-context.mp3",
+      "ue46-alvar-aalto-museum-intro.mp3",
+      "ue46-alvar-aalto-museum-guardian-of-a-legacy.mp3",
+      "ue46-alvar-aalto-museum-the-lakeside-building.mp3",
+      "ue46-alvar-aalto-museum-the-playground-at-muuratsalo.mp3",
+      "ue46-alvar-aalto-museum-an-architects-city.mp3"
+    ],
+    "durations": {
+      "ue46-alvar-aalto-museum-flight-context.mp3": 46.074875,
+      "ue46-alvar-aalto-museum-intro.mp3": 49.4586666,
+      "ue46-alvar-aalto-museum-guardian-of-a-legacy.mp3": 54.9506666,
+      "ue46-alvar-aalto-museum-the-lakeside-building.mp3": 57.8096666,
+      "ue46-alvar-aalto-museum-the-playground-at-muuratsalo.mp3": 59.3203333,
+      "ue46-alvar-aalto-museum-an-architects-city.mp3": 61.4877083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

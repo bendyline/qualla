@@ -224,5 +224,26 @@
     "_m/v/6/f/r/dyatlov-pass-wk/hero.png",
     "_m/v/h/q/k/pechora-sea-wp/ja-ja.jpg",
     "_m/v/h/q/k/pechora-sea-wp/gfas.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "vhqk-pechora-sea-flight-context.mp3",
+      "vhqk-pechora-sea-intro.mp3",
+      "vhqk-pechora-sea-the-rivers-sea.mp3",
+      "vhqk-pechora-sea-ancient-passage-east.mp3",
+      "vhqk-pechora-sea-a-living-sea-floor.mp3",
+      "vhqk-pechora-sea-bears-belugas-and-walruses.mp3",
+      "vhqk-pechora-sea-the-drilling-platform.mp3"
+    ],
+    "durations": {
+      "vhqk-pechora-sea-flight-context.mp3": 45.2335416,
+      "vhqk-pechora-sea-intro.mp3": 50.1672083,
+      "vhqk-pechora-sea-the-rivers-sea.mp3": 62.8365,
+      "vhqk-pechora-sea-ancient-passage-east.mp3": 52.2162916,
+      "vhqk-pechora-sea-a-living-sea-floor.mp3": 51.2745833,
+      "vhqk-pechora-sea-bears-belugas-and-walruses.mp3": 49.8936666,
+      "vhqk-pechora-sea-the-drilling-platform.mp3": 47.8057083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

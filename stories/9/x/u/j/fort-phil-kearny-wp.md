@@ -1,0 +1,73 @@
+# Fort Phil Kearny
+
+The largest stockaded fort on the Bozeman Trail, known to the Lakota as 'the hated post on the Little Piney,' site of devastating battles before its abandonment and burning in 1868.
+
+**Location:** 44.5322, -106.8264
+
+**Categories:** Pre-statehood history of Wyoming, National Historic Landmarks in Wyoming, Red Cloud's War, Wyoming state historic sites, Military and war museums in Wyoming, Museums in Johnson County, Wyoming, Civilian Conservation Corps in Wyoming, Forts on the National Register of Historic Places in Wyoming, Protected areas of Johnson County, Wyoming, National Register of Historic Places in Johnson County, Wyoming
+
+## Introduction
+
+The Lakota called it 'the hated post on the Little Piney.' To the U.S. Army, it was the largest and most important fortification on the Bozeman Trail. Construction began on Friday, July 13, 1866, an unlucky date for an unlucky post. Over the next two years, Fort Phil Kearny would witness some of the bloodiest fighting of the Indian Wars, including the annihilation of an entire command. When the soldiers finally marched away in 1868, Cheyenne warriors burned every building to the ground.
+
+## Building in Hostile Country
+
+Colonel Henry B. Carrington led Companies A, C, E, and H of the 2nd Battalion, 18th Infantry into the Powder River Country in the summer of 1866. Their mission: build a fort to protect miners heading north from the Oregon Trail to the Montana gold fields. The site they chose sat along the east side of the Bighorn Mountains in present-day Johnson County, strategically positioned but deep in Lakota, Cheyenne, and Arapaho territory. The construction that followed was massive. Log walls enclosed an area requiring more than four thousand logs for the stockade perimeter alone. Further construction in 1867 consumed over 606,000 board feet of lumber and 130,000 adobe bricks. Fort Phil Kearny became the largest of three stockaded fortifications along the trail, larger than Fort Reno to the south or Fort C.F. Smith to the north.
+
+## The Fetterman Disaster
+
+On December 21, 1866, Captain William J. Fetterman led 80 soldiers out of the fort to relieve a wood train under attack. Fetterman had reportedly boasted that with 80 men he could ride through the entire Sioux nation. Warriors from a confederation of Lakota, Cheyenne, and Arapaho tribes lured his command over Lodge Trail Ridge and out of sight of the fort. Within forty minutes, all 81 men were dead, including two civilians who had joined the patrol. It was the worst military defeat on the northern plains until the Battle of the Little Bighorn a decade later. The Fetterman Fight, as it became known, shocked the nation and intensified Red Cloud's War.
+
+## Wagon Boxes and Last Stands
+
+The following summer brought the Wagon Box Fight. On August 2, 1867, warriors attacked soldiers and civilian woodcutters near a corral of wagon boxes about two miles from the fort. This time, the defenders held newly issued breech-loading Springfield rifles that allowed faster reloading than the old muzzle-loaders. Though heavily outnumbered, the soldiers repulsed repeated charges from their improvised fortification of wagon bodies. At its peak strength, Fort Phil Kearny's garrison numbered 400 troops and 150 civilians: infantry, cavalry, quartermasters, and contractors. They endured grinding routines broken by sudden violence, knowing that beyond the stockade walls, thousands of warriors considered their presence an act of war.
+
+## Treaty and Flames
+
+By 1868, the Union Pacific Railroad had pushed far enough west that emigrants could reach Montana through Idaho, bypassing the dangerous Bozeman Trail entirely. The Treaty of Fort Laramie that year ceded the Powder River Country to the Lakota. Red Cloud had won his war. Fort Phil Kearny, along with Fort Reno and Fort C.F. Smith, was abandoned as a condition of peace. The soldiers marched away. Shortly after, Cheyenne warriors set fire to everything. Today, the archaeological remains of the fort's buildings are marked within the Fort Phil Kearny State Historic Site. A cabin built by the Civilian Conservation Corps depicts period quarters. Visitors can walk interpretive trails at the nearby Fetterman and Wagon Box battle sites. The site was designated a National Historic Landmark in 1960, preserving the memory of the hated post where soldiers and warriors fought for control of the trail to Montana gold.
+
+## Flight Context
+
+Fort Phil Kearny is located at 44.5322N, 106.8264W in northern Johnson County, Wyoming, approximately 17 miles north of Buffalo along the east side of the Bighorn Mountains. The site is now Fort Phil Kearny State Historic Site with a visitor center. The nearest airports are Johnson County Airport (KBYG) in Buffalo and Sheridan County Airport (KSHR) in Sheridan. From the air at 3,000-4,000 feet AGL, the site is identifiable by the cleared grounds along Little Piney Creek with the Bighorns rising dramatically to the west. The Fetterman and Wagon Box battle sites are within a five-mile radius.
+
+## Sources
+
+- [Fort Phil Kearny - Wikipedia](https://en.wikipedia.org/?curid=1682881)
+  - Construction began July 13, 1866
+  - Colonel Henry B. Carrington commander
+  - Companies A, C, E, H of 2nd Battalion 18th Infantry
+  - garrison numbered 400 troops and 150 civilians
+  - Lakota called it 'hated post on Little Piney'
+- [Fetterman Fight - Wikipedia](https://en.wikipedia.org/wiki/Fetterman_Fight)
+  - December 21, 1866 battle date
+  - 81 soldiers killed (including 2 civilians)
+  - worst defeat until Little Bighorn
+  - Lakota, Cheyenne, and Arapaho confederation
+- [The Wagon Box Fight, 1867 - WyoHistory.org](https://www.wyohistory.org/encyclopedia/wagon-box-fight-1867)
+  - August 2, 1867 battle date
+  - breech-loading Springfield Model 1866 rifles
+  - soldiers repulsed repeated charges
+  - about two miles from fort
+- [Fort Phil Kearny - WyoHistory.org](https://www.wyohistory.org/encyclopedia/fort-phil-kearny)
+  - Treaty of Fort Laramie 1868
+  - forts abandoned as condition of peace
+  - National Historic Landmark in 1960
+  - Cheyenne burned fort after abandonment
+
+## Review Notes
+
+**Reviewed:** 2026-01-27 · 14 facts verified · 0 corrections
+
+All facts verified: July 13, 1866 construction, Carrington/18th Infantry, Fetterman Fight Dec 21 1866 with 81 killed, Wagon Box Fight Aug 2 1867, Treaty of Fort Laramie 1868, NHL 1960. Excellent historical accuracy.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- 'unlucky date for an unlucky post' adds narrative color
+- describing presence as 'act of war' from Native perspective is balanced historical framing
+
+---
+
+*Word count: 734*
+*Read time: 4 minutes*

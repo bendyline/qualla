@@ -1,0 +1,56 @@
+# Dovre National Park
+
+Established in 2003 to stitch together two older national parks, Dovre is a corridor of windswept plateaus where Europe's last truly wild reindeer trace migration routes their ancestors walked since the Ice Age.
+
+**Location:** 62.0833, 9.5333
+
+**Categories:** National parks of Norway, Protected areas established in 2003, Protected areas of Innlandet, Dovre Municipality
+
+## Introduction
+
+Most national parks are created to protect a single spectacular place. Dovre National Park was created to protect the space between two of them. Established in 2003, its 289 square kilometers of treeless plateaus and weathered mountain peaks fill the gap between Rondane National Park to the southeast and Dovrefjell-Sunndalsfjella National Park to the north. The logic was ecological rather than scenic: wild reindeer do not recognize park boundaries, and without a protected corridor connecting the two older parks, their migration routes would pass through unprotected land. Dovre is, in essence, a bridge -- a national park built not for views but for movement.
+
+## Corridors of the Ancient Herds
+
+The reindeer that cross Dovre's plateaus are not ordinary livestock. They are wild Fennoscandian reindeer of possible Beringia origin, descended from herds that have roamed these mountains since the retreat of the glaciers. Unlike the semi-domesticated reindeer found across much of Scandinavia -- animals that have interbred with managed herds for centuries -- the Dovrefjell population retains a genetic lineage that stretches back to the Ice Age. Together with the herds in Rondane, they represent the last surviving population of this ancient stock in Europe. The three adjacent parks -- Rondane, Dovre, and Dovrefjell-Sunndalsfjella -- form a contiguous protected area large enough to sustain their seasonal movements across the high country. Without Dovre in the middle, that chain would be broken.
+
+## Above the Treeline
+
+Dovre National Park begins where the trees end. The park's lowest elevations sit at roughly 1,000 meters, right at the treeline, and its terrain climbs to Fokstuhoe at 1,716 meters. Between those altitudes lies a world of open tundra-like plateau, rounded peaks worn smooth by millennia of frost and wind, and a sky that feels enormous without forest to frame it. The landscape is subtle rather than dramatic -- no sharp granite spires, no deep glacial cirques. Instead, Dovre offers the austere beauty of a land shaped primarily by weather: lichen-covered rocks, low shrubs, and expanses of moss that glow green against grey stone when the brief summer sun hits them. In winter, everything vanishes under snow, and the wind drives across the plateau with nothing to slow it.
+
+## Til Dovre Faller
+
+The park takes its name from Dovre Municipality, but the word Dovre carries weight far beyond local geography. The expression til Dovre faller -- "until the Dovre mountains fall apart" -- is the Norwegian equivalent of "until the end of time." It entered the national vocabulary in 1814, when the delegates who drafted Norway's constitution swore their loyalty with those words. From the earliest times, Dovrefjell has been the border between northern and southern Norway, the great barrier that travelers and armies had to cross. The road over the mountain was known in saga times, and the railway and E6 highway that now thread through the landscape follow the same ancient route. Dovre National Park protects a piece of that crossing -- a stretch of high ground where Norway's oldest cultural symbolism and its oldest wild animals share the same windswept terrain.
+
+## Walking with Care
+
+Norway has embraced ecotourism across its national parks, but Dovre comes with particular expectations. Camping, berry picking, and hiking are permitted, but organized tours require special permits. The park is managed by the National Park Board of Dovrefjell, which coordinates regulations across the broader protected landscape. Trails follow specially marked routes, and hikers are expected to stay on them. The wild reindeer here are far shyer than their semi-domesticated cousins -- if you see them, the guidance is to back off calmly rather than approach. This is a park that asks visitors to tread lightly, to accept that they are guests in a landscape managed first for the animals that have been here longest. The reward is proportional to the restraint: a chance to walk through terrain that has looked essentially the same for ten thousand years, under a sky uncluttered by anything except weather and birds.
+
+## Flight Context
+
+Located at 62.08N, 9.53E in Innlandet county, Norway. The park sits between Rondane National Park (southeast) and Dovrefjell-Sunndalsfjella National Park (north), visible as a treeless plateau corridor linking the two larger protected areas. The E6 highway and Dovre Line railway run along the western edge. Fokstuhoe (1,716 m) is the highest point. Nearest airports: Trondheim Airport Vaernes (ENVA) approximately 100 nm north, Oslo Airport Gardermoen (ENGM) approximately 140 nm south. The bare plateau contrasts sharply with forested valleys on either side -- a visible ecological transition from the air.
+
+## Sources
+
+- [Dovre National Park - Wikipedia](https://en.wikipedia.org/?curid=898221)
+  - Dovre National Park established 2003 confirmed
+  - 289 square kilometers confirmed
+  - located between Rondane National Park and Dovrefjell-Sunndalsfjella National Park confirmed
+  - ecological corridor purpose for wild reindeer confirmed
+  - Fennoscandian reindeer of possible Beringia origin confirmed
+  - park begins above treeline at roughly 1,000 meters confirmed
+  - highest point Fokstuhoe at 1,716 meters confirmed
+  - til Dovre faller expression and 1814 constitutional oath confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-28 · 8 facts verified · 0 corrections
+
+All key facts verified: established 2003, 289 sq km, corridor between Rondane and Dovrefjell-Sunndalsfjella, Fennoscandian reindeer Beringia origin, treeline at ~1,000m, Fokstuhoe 1,716m, til Dovre faller expression and 1814 oath. No errors found.
+
+**Spiciness:** 1/5
+
+---
+
+*Word count: 740*
+*Read time: 4 minutes*

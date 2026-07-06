@@ -1,0 +1,67 @@
+# Badajoz Massacre
+
+In August 1936, Nationalist forces captured Badajoz during the Spanish Civil War and carried out mass executions of Republican supporters in the city's bullring, killing between 500 and 4,000 people in one of the conflict's most notorious atrocities.
+
+**Location:** 38.8779, -6.9706
+
+**Categories:** spanish-civil-war, massacres, military-history, human-rights, 20th-century-history
+
+## Introduction
+
+Jay Allen arrived in Badajoz on August 23, 1936, nine days after the city fell. The American journalist from the Chicago Tribune walked streets still littered with glass and debris, past sidewalks that witnesses said had been soaked in blood. What he documented -- and what reporters from Le Temps, Le Figaro, and the Diario de Lisboa also recorded -- was one of the defining atrocities of the Spanish Civil War: the systematic execution of hundreds, possibly thousands, of Republican supporters in the days after Nationalist forces stormed the city on August 14, 1936.
+
+## A Province on Fire
+
+Extremadura had been burning before the war officially began. The Republican government's Agrarian Reform Law promised peasant farmers -- more than half the region's working population -- ownership of the land they labored on. In March 1936, impatient laborers in the Badajoz region occupied farmlands outright, igniting confrontations with major landowners. When the Nationalist military rebellion erupted on July 18, both sides committed violence. Republicans executed 243 people in western Badajoz province, including 28 Nationalist supporters killed in Almendralejo and 11 in Badajoz itself. But the scale of Nationalist retribution was of a different order entirely. As General Juan Yague's column advanced from Seville toward Badajoz, every city it took saw mass killings -- 325 Republicans executed after Fuente de Cantos fell, 403 after Almendralejo. Between 6,610 and 12,000 people were killed by Nationalist forces across western Badajoz province. Most were journeymen and farmers.
+
+## The Fall of the City
+
+Badajoz was strategically vital. Its capture would link the Nationalist Army of the South with Emilio Mola's forces in the north, unifying the rebellion's two halves. The city found itself isolated after Merida fell days earlier. On August 14, after a day of bombardment from land and air -- including German Junkers Ju 52 bombers -- 2,250 Spanish legionarios and 750 Moroccan Regulares under Lieutenant Colonel Yague breached the 18th-century walls at the Puerta de la Trinidad and Puerta de Carros. Defending the city were 2,000 Republican militiamen and 500 regular soldiers under Colonel Ildefonso Puigdendolas. After savage hand-to-hand fighting in the streets, Badajoz fell.
+
+## The Bullring
+
+What followed was not the chaos of battle but something deliberate. Yague ordered prisoners -- most of them civilians -- confined in the Plaza de Toros, the city's bullring. Executions began that night. Jacques Berthet of Le Temps reported on August 15 that roughly 200 people had been shot by firing squad, the sidewalks outside the military command post soaked in blood. Le Populaire reported 1,500 executed by August 17, listing officers who had defended the city among the dead. Allen's account in the Chicago Tribune spoke of 1,800 killed on the first night alone. The victims were shot in groups by legionarios, Regulares, Guardia Civil officers, and members of the fascist Falange, then trucked to the old cemetery, where their bodies were burned and buried in mass graves. Among the dead were workers, peasants, soldiers, local officials, and anyone merely suspected of Republican sympathies. The city's mayor and deputy mayor fled across the border to Portugal, but agents of the Salazar regime tracked them down and handed them back to the Nationalists, who executed them without trial on August 20.
+
+## The Weight of Witness
+
+Portuguese journalist Mario Neves witnessed the massacre firsthand, but Salazar's government -- an ally of the Nationalists -- censored his report for the Diario de Lisboa. Neves returned to Portugal horrified and swore he would never go back to Badajoz. He kept that promise for 46 years, finally returning in 1982 to retrace his steps for a television documentary. The Nationalists tried to conceal what had happened, threatening and discrediting foreign correspondents. But the truth traveled. In late August, as rebels shelled Basque towns in the north, they dropped pamphlets warning the population they would be treated as Badajoz had been. Panic-stricken refugees fled to France. The publicity forced Franco to order an end to such open massacres -- not from moral compunction, but because they damaged the Nationalist image abroad. German officer Hans von Funck, who witnessed the aftermath, wrote to Berlin advising against deploying regular German troops in Spain, calling the savagery of the African Expeditionary Force unlike anything he had experienced in World War I.
+
+## Counting the Dead
+
+The exact death toll remains contested. Estimates range from 500 to 4,000. Historian Francisco Espinosa identified 1,341 victims by name, but acknowledged this was only a partial accounting. Badajoz had 41,122 inhabitants in 1930; if the higher estimates are correct, nearly one in ten residents was killed. Since the Nationalist side won the war, no official investigation was ever conducted. Several human rights organizations have classified the events as crimes against humanity. Yague, who commanded the troops responsible, was rewarded after the war with appointment as Minister of the Air. He was popularly known as the Butcher of Badajoz.
+
+## Flight Context
+
+Located at 38.88N, 6.97W in Badajoz, on the Spanish-Portuguese border. The city's bullring, where many of the executions took place, and the 18th-century walls breached during the assault are visible from lower altitudes. Badajoz airport (LEBZ) lies approximately 14 km east. The Guadiana River runs along the southern edge of the city.
+
+## Sources
+
+- [Badajoz massacre - Wikipedia](https://en.wikipedia.org/?curid=19969994)
+  - City fell August 14, 1936 - confirmed
+  - Jay Allen reported for Chicago Tribune, article published August 30 - confirmed
+  - Allen estimated 1,800 killed on first night - confirmed
+  - Death toll range 500 to 4,000 - confirmed; Francisco Espinosa identified 1,341 by name - confirmed
+  - German Junkers Ju 52 bombers used in assault - confirmed
+  - 2,250 legionarios and 750 Moroccan Regulares under Lt. Col. Yagüe - confirmed
+  - Defending: 2,000 Republican militiamen and 500 regular soldiers - confirmed
+  - Badajoz 1930 population 41,122 - confirmed
+  - Yagüe appointed Minister of the Air Force after the war - confirmed (story's 'Minister of the Air' is an acceptable shorthand)
+
+## Review Notes
+
+**Reviewed:** 2026-03-17 · 9 facts verified · 0 corrections
+
+All key facts verified: August 14 1936 fall, Jay Allen Chicago Tribune, 1800 killed first night, death toll 500-4000, Espinosa identified 1341 by name, 2250 legionarios 750 Moroccan Regulares, defending 2000 militia 500 regulars, Yague Minister of Air Force, Badajoz 1930 population 41122. Strong editorial voice rating Nationalist actions: spiciness 4.
+
+**Spiciness:** 4/5
+
+**Strong opinions:**
+
+- The scale of Nationalist retribution was of a different order entirely
+- What followed was not the chaos of battle but something deliberate
+- The publicity forced Franco to order an end to such open massacres -- not from moral compunction, but because they damaged the Nationalist image abroad
+
+---
+
+*Word count: 800*
+*Read time: 4 minutes*

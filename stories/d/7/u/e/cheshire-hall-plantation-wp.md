@@ -1,0 +1,67 @@
+# Cheshire Hall Plantation
+
+The limestone ruins of a Loyalist cotton plantation on Providenciales, where a salt merchant from Cheshire tried to reinvent himself as a Caribbean planter - and where hundreds of enslaved people worked the land he named after his home county.
+
+**Location:** 21.7808, -72.2519
+
+**Categories:** plantation, colonial-era, caribbean, slavery, turks-and-caicos, historical-site
+
+## Introduction
+
+Thomas Stubbs named his plantation after a place he would never see again. He had left Cheshire, England - where his family produced salt - and crossed the Atlantic to grow cotton on a Caribbean hilltop because his brother Wade told him it was a good idea. Wade had already established himself on North Caicos with a plantation called Bellefield, later known as Wade's Green, and the Stubbs brothers saw opportunity in the aftermath of the American Revolution. What Thomas built on Providenciales lasted roughly two decades before the island's thin soil, scarce water, and relentless insects defeated him. He sold the land to Wade in 1810 and vanished from the historical record. The limestone walls he raised from local rock have outlasted everything else about his venture.
+
+## A Treaty's Unintended Consequences
+
+The 1783 Treaty of Paris ended the American Revolutionary War and reshuffled colonial territories across the Atlantic. Britain traded Florida to Spain in exchange for the Bahamas, which at the time included the Turks and Caicos Islands. For the Loyalists who had backed the British Crown from their homes in Florida, the deal was devastating. They had no desire to live under Spanish rule, and Britain offered them compensatory land in its newly acquired Caribbean territories.
+
+Wade Stubbs was among the Loyalists who accepted. He took his land grant on North Caicos and built a cotton plantation, bringing enslaved people to work it. His success - or at least his survival - attracted Thomas from England. The brothers were salt men by trade, not planters, but the post-war Caribbean offered cheap land and the promise of sea island cotton, a long-staple variety prized by British textile mills. Thomas arrived on Providenciales and claimed approximately 5,000 acres of hilltop scrubland that he would need to transform into productive farmland.
+
+## Limestone and Labor
+
+The buildings at Cheshire Hall rose from the land itself. Workers cut limestone blocks from the island's bedrock and assembled them into a main house, outbuildings, field walls, and the structures necessary for processing cotton - including a cotton press bale where the harvested fiber was compressed for shipping. A cistern and well provided the plantation's water supply, though never enough of it.
+
+Hundreds of enslaved people worked the 5,000-acre estate. They cleared scrub, planted and harvested the cotton and sisal, cut and hauled the limestone, and built the infrastructure of their own captivity. Their names do not appear in the records that survive. What remains of their presence is architectural: the dimensions of the quarters where they lived, the layout of the fields they worked, the walls they stacked stone by stone. The plantation's story cannot be told honestly without centering the people whose forced labor made it possible.
+
+## The Island Wins
+
+Providenciales was never good cotton country. The soil was thin and rocky, rainfall unpredictable, and fresh water perpetually scarce. The cistern and well at Cheshire Hall could not sustain the volume of irrigation that cotton demanded, especially sea island cotton, which required careful cultivation to produce the long fibers that commanded premium prices. Pest infestations compounded the water problems. Insects that thrived in the Caribbean heat attacked the crops with a persistence that no amount of labor could overcome.
+
+By 1810, Thomas Stubbs had spent roughly two decades fighting the island and losing. He sold Cheshire Hall to his brother Wade and left Providenciales. Whether he returned to England or moved elsewhere in the Caribbean, the record does not say. The plantation continued under Wade's ownership for a time, but the same environmental pressures that defeated Thomas eventually defeated the enterprise altogether. The Loyalist cotton experiment across the Turks and Caicos was, with few exceptions, a story of ambition undone by geography.
+
+## Ruins and Reconstruction
+
+For most of the 19th and 20th centuries, Cheshire Hall sat unprotected. Vandals and thieves stripped what they could carry. Development on Providenciales - which became the tourism hub of the Turks and Caicos - encroached on the site. Many of the outlying buildings were destroyed. The burial grounds, where both the Stubbs family and enslaved people were likely interred, were damaged or built over. Field walls that once marked the boundaries of a 5,000-acre operation disappeared under new construction.
+
+In the 1990s, the Turks and Caicos National Trust initiated a preservation project. The remaining structures - the main house ruins, the cotton press bale, the cistern, and the well - were stabilized and access was improved. Modern replications of the slave quarters and kitchen were added to help visitors understand the full scope of plantation life, not just the planter's house but the conditions endured by the people who built and worked it. Today, the site sits on a hilltop near downtown Providenciales, a quiet interruption in an island better known for its resorts and beaches than for its history of forced labor and failed agriculture.
+
+## Flight Context
+
+Located at 21.78N, 72.25W on Providenciales, the most developed island in the Turks and Caicos chain. The plantation site sits on a hilltop near the downtown area, identifiable from the air by the cleared area amid surrounding development. Providenciales International Airport (MBPV) is approximately 3 nm to the west - the island's main airport with regular commercial service. From the air at 2,000-3,000 feet, look for the contrast between the modern resort development along Grace Bay to the north and the historic hilltop site inland. The island is roughly 15 miles long and 3 miles wide, with the distinctive turquoise waters of the Caicos Bank visible to the south. Clear Caribbean weather typical; best flying conditions November through April.
+
+## Sources
+
+- [Cheshire Hall Plantation - Wikipedia](https://en.wikipedia.org/?curid=70300592)
+  - Thomas Stubbs from Cheshire, England confirmed
+  - Wade Stubbs at North Caicos (Wade's Green / Bellefield) confirmed
+  - 1783 Treaty of Paris Loyalist land grants confirmed
+  - Thomas sold Cheshire Hall to Wade in 1810 confirmed
+  - Hundreds of enslaved people worked the estate confirmed
+  - Turks and Caicos National Trust preservation project in 1990s confirmed
+  - Language uses 'enslaved people' throughout — empathy standard met
+
+## Review Notes
+
+**Reviewed:** 2026-03-12 · 7 facts verified · 0 corrections
+
+Empathy language checks out — uses 'enslaved people' throughout. Thomas Stubbs 1810 sale to Wade, Loyalist land grants all confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- States plantation story 'cannot be told honestly without centering' enslaved people's labor
+
+---
+
+*Word count: 790*
+*Read time: 4 minutes*

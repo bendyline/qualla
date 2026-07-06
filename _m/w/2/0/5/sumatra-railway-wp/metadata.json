@@ -95,5 +95,26 @@
   "galleryPaths": [
     "_m/w/2/0/5/sumatra-railway-wp/sumatra-railway-allied-pows.jpg"
   ],
-  "updatedAt": "2026-04-01T10:13:28.356Z"
+  "updatedAt": "2026-04-01T10:13:28.356Z",
+  "narration": {
+    "files": [
+      "w205-sumatra-railway-flight-context.mp3",
+      "w205-sumatra-railway-intro.mp3",
+      "w205-sumatra-railway-a-plan-twice-born.mp3",
+      "w205-sumatra-railway-built-on-suffering.mp3",
+      "w205-sumatra-railway-completed-and-abandoned.mp3",
+      "w205-sumatra-railway-echoes-in-stone-and-memory.mp3",
+      "w205-sumatra-railway-the-jungle-reclaims.mp3"
+    ],
+    "durations": {
+      "w205-sumatra-railway-flight-context.mp3": 42.4400416,
+      "w205-sumatra-railway-intro.mp3": 42.5085,
+      "w205-sumatra-railway-a-plan-twice-born.mp3": 65.8704166,
+      "w205-sumatra-railway-built-on-suffering.mp3": 69.2077916,
+      "w205-sumatra-railway-completed-and-abandoned.mp3": 56.31375,
+      "w205-sumatra-railway-echoes-in-stone-and-memory.mp3": 59.7416666,
+      "w205-sumatra-railway-the-jungle-reclaims.mp3": 45.0190416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

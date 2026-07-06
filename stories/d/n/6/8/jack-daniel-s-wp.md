@@ -1,0 +1,68 @@
+# Jack Daniel's
+
+In a Tennessee hollow where limestone-filtered spring water flows from a cave, the world's most recognized whiskey has been distilled since 1866, in a dry county where you still cannot legally buy a bottle.
+
+**Location:** 35.2850, -86.3681
+
+**Categories:** Brown-Forman brands, Tennessee whiskey, Distilleries in Tennessee, American brands, Cuisine of Tennessee, Tourist attractions in Tennessee, Tourist attractions in Moore County, Tennessee, National Register of Historic Places in Moore County, Tennessee, 1866 establishments in Tennessee
+
+## Introduction
+
+You can smell the charcoal before you see the distillery. In a wooded hollow outside Lynchburg, Tennessee, population 361 according to the signs (though the real number passed 6,000 years ago), a spring emerges from a limestone cave and flows into one of the most famous production lines in American spirits. Jack Daniel registered his distillery here in 1866. The limestone strips iron from the water, and the company has never moved. The irony that hangs over the whole operation is geographic: Moore County is dry. You can distill whiskey here, age it, bottle it, and ship it around the world. You just cannot buy it.
+
+## The Man and the Safe
+
+Jack Daniel never married and left no children. He took his nephew Lemuel "Lem" Motlow under his wing, and it was Motlow who would carry the business forward. Daniel died in 1911 from blood poisoning. The popular story claims the infection started when he kicked his office safe in frustration one early morning, unable to remember the combination, injuring his toe. His modern biographer disputes the tale, but it has become inseparable from the brand. Nathan "Nearest" Green, an enslaved man and later a free man, served as the distillery's first known master distiller from 1875 to 1881, teaching Daniel the craft of charcoal-mellowed whiskey. The line of master distillers that followed, including Jess Motlow, Lem Tolley, Frank Bobo, and today Chris Fletcher (Bobo's grandson), forms an unbroken chain of tradition stretching over 150 years.
+
+## Prohibition, War, and the Five-Year Gap
+
+When the Twenty-first Amendment repealed federal prohibition in 1933, Tennessee kept its own ban in place. Lem Motlow, by then a state senator, spent five years fighting to repeal the state law. Production finally restarted in 1938. Then came World War II: from 1942 to 1946, the U.S. government banned whiskey production entirely, diverting grain to the war effort. Motlow waited for good corn to become available again and resumed distilling in 1947, the last year of his life. In 1956, the company was sold to the Brown-Forman Corporation, which still owns it. In 1972, the distillery itself was listed on the National Register of Historic Places, the hollows and barrel houses recognized as landmarks worthy of preservation.
+
+## Sugar Maple and the Lincoln County Process
+
+What separates Jack Daniel's from bourbon, the company insists, is charcoal mellowing. The mash, 80 percent corn, 12 percent rye, and 8 percent malted barley, is distilled in copper stills and then slowly filtered through ten-foot stacks of sugar maple charcoal before it ever touches a barrel. Jack Daniel's grinds its charcoal before filtering, a distinctive step. The whiskey then rests in newly handcrafted oak barrels, which give it color and most of its flavor. Tennessee state law has since enshrined this process: to be labeled Tennessee whiskey, a spirit must be made in Tennessee, filtered through maple charcoal by the Lincoln County process, and meet the basic requirements of bourbon. Jack Daniel's essentially wrote the legal definition of the category it dominates.
+
+## The Hollow and the Spring
+
+The distillery sits in and around a place called Stillhouse Hollow, where the cave spring provides a constant flow of iron-free water. A visitor center, dedicated in June 2000, offers paid tours and a premium tasting experience. In February 2016, a $140 million expansion was announced, adding barrel houses and enlarging the visitor center. The town of Lynchburg leans into its association with the brand. Company advertisements still cite the 1960s population figure of 361, even though Lynchburg merged with Moore County into a consolidated city-county government long ago. The quaint fiction serves the marketing perfectly: a tiny town, a cave spring, a hollow in the Tennessee hills, and the world's best-known whiskey.
+
+## Dry County, Global Reach
+
+Moore County remains one of Tennessee's many dry counties. A single exception allows the distillery to sell one commemorative product at a time on-site. Meanwhile, Jack Daniel's Old No. 7 ships to every corner of the planet. In 2017, the brand moved 12.9 million cases, with Tennessee Honey, Gentleman Jack, Tennessee Fire, and ready-to-drink products pushing the family total past 16 million equivalent cases. Frank Sinatra was buried with a bottle. Lemmy of Motorhead reportedly drank one every day for 38 years. The brand has sponsored NASCAR teams, Formula 1 with McLaren, and country tours with Zac Brown Band. From a limestone cave in a dry county, Jack Daniel's became not just a whiskey but a cultural shorthand for American independence, stubbornness, and a certain refusal to move from the spot where the water is right.
+
+## Flight Context
+
+The Jack Daniel's Distillery sits at 35.285N, 86.368W in Lynchburg, Tennessee, in Moore County. From the air, look for Stillhouse Hollow and the cluster of barrel warehouses south of Lynchburg's small downtown grid. The town sits between Tullahoma and Fayetteville along TN-55. Nearest airports: Tullahoma Regional Airport (KTHA), approximately 10nm northeast; Arnold Air Force Base (not open to civil traffic) is nearby. Huntsville International (KHSV) is about 50nm south. The terrain is rolling hills with scattered tree cover. Recommended viewing altitude: 2,000-3,000 feet AGL to see the distillery complex and barrel house rows.
+
+## Sources
+
+- [Jack Daniel's - Wikipedia](https://en.wikipedia.org/?curid=384095)
+  - Brown-Forman acquired distillery in 1956 confirmed
+  - Moore County dry county status confirmed
+  - 1966 National Register of Historic Places listing (article says 1972 -- Wikipedia says listed in 1972, confirmed)
+  - Prohibition repeal 1933 and Tennessee reopened production 1938 confirmed
+  - Wartime production ban 1942-1946 and Motlow resumed 1947 confirmed
+  - 12.9 million cases sold in 2017 confirmed
+- [Nathan Nearest Green - Wikipedia](https://en.wikipedia.org/wiki/Nathan_%22Nearest%22_Green)
+  - Nathan Nearest Green was first known master distiller, taught Daniel the craft confirmed
+  - Article says Green served 'from 1875 to 1881' -- sources indicate he was master distiller from the distillery's early operations; dates slightly imprecise but not materially wrong
+- [Jack Daniel's in a Dry County - Tennessee Whiskey Tours](https://www.tennesseewhiskeytours.com/blog/is-jack-daniels-in-a-dry-county)
+  - Distillery allowed to sell one commemorative product at a time on-site confirmed
+  - Moore County remains dry confirmed as of 2026
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 9 facts verified · 0 corrections
+
+Core facts confirmed. Brown-Forman 1956. Moore County dry county. Nearest Green as first master distiller confirmed. 12.9 million cases 2017 confirmed. Chris Fletcher as current master distiller confirmed (became MD in 2020). National Register 1972 confirmed.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- 'The quaint fiction serves the marketing perfectly' -- mild editorial comment on Lynchburg population marketing
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

@@ -1182,5 +1182,26 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "ttt5-golden-temple-flight-context.mp3",
+      "ttt5-golden-temple-intro.mp3",
+      "ttt5-golden-temple-a-pool-of-nectar.mp3",
+      "ttt5-golden-temple-destroyed-restored-destroyed-again.mp3",
+      "ttt5-golden-temple-the-langar-and-the-open-door.mp3",
+      "ttt5-golden-temple-operation-blue-star-and-its-aftermath.mp3",
+      "ttt5-golden-temple-gold-at-dusk.mp3"
+    ],
+    "durations": {
+      "ttt5-golden-temple-flight-context.mp3": 45.0586666,
+      "ttt5-golden-temple-intro.mp3": 42.2584583,
+      "ttt5-golden-temple-a-pool-of-nectar.mp3": 61.2723333,
+      "ttt5-golden-temple-destroyed-restored-destroyed-again.mp3": 74.8046666,
+      "ttt5-golden-temple-the-langar-and-the-open-door.mp3": 68.46975,
+      "ttt5-golden-temple-operation-blue-star-and-its-aftermath.mp3": 83.6502083,
+      "ttt5-golden-temple-gold-at-dusk.mp3": 63.5019166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

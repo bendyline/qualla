@@ -1,0 +1,66 @@
+# Hattie Cotton Elementary School Bombing
+
+Hours after a six-year-old Black girl attended her first day at a formerly all-white Nashville school in September 1957, segregationists dynamited the building -- an act of terror that galvanized the city's civil rights movement and was never solved.
+
+**Location:** 36.1916, -86.7477
+
+**Categories:** civil-rights, history, education, tragedy, desegregation
+
+## Introduction
+
+She was six years old, and she had attended one day of school. That was enough. Just after midnight on September 10, 1957, a dynamite blast ripped through Hattie Cotton Elementary School in East Nashville, tearing down walls, shattering every window in the modern one-story building, and destroying classrooms, the library, interior walls, and lockers. The damage exceeded $71,000. The bomb was the response of segregationists to the enrollment of a single African American girl -- one of 19 Black six-year-olds who had attempted to attend Nashville's first integrated schools the previous morning. No one was ever charged. The bombing became a turning point for Nashville, transforming grief and rage into the disciplined resistance that would define the city's civil rights movement.
+
+## A School Named for a Teacher
+
+Hattie Cotton Elementary opened on September 1, 1950, at 1033 West Greenwood Avenue in East Nashville. It was designed by the Marr & Holman architectural firm and built by George E. Reese. The school was deliberately located west of Gallatin Pike so that young students would not need to cross the busy highway. Its namesake, Hattie R. Cotton, was a Nashville educator who had begun teaching in 1905 and risen to become the city's academic supervisor in 1919. She retired in 1924 and died two years later. The fact that the school bore her name -- honoring a woman who had devoted her life to education -- made the violence that followed its integration all the more bitter.
+
+## Nineteen Children and the First Day
+
+Nashville's school integration plan, one of the earliest in the South, designated six elementary schools -- Bailey, Buena Vista, Fehr, Glenn, Hattie Cotton, and Jones -- to integrate one grade level per year, beginning with first grade. On September 9, 1957, nineteen Black six-year-olds attempted to attend their first day of school across these six buildings. Four were turned away for administrative reasons. Hattie Cotton admitted one child, a six-year-old Black girl whose name was not widely reported. She attended class without incident. The day passed. The city held its breath. Then, in the hours after midnight, the dynamite answered.
+
+## The Blast That Rocked East Nashville
+
+The explosion just after midnight on September 10 caused at least $71,000 in damage, a substantial sum in 1957. Walls were torn apart, lockers crumpled, and the library was wrecked. The blast was powerful enough to rock the surrounding neighborhood. Nashville Police Chief Douglass E. Hosse responded bluntly: "This has gone beyond a matter of integration. These people have ignored the laws and they have shown no regard for you or any citizen." Nationally known segregationist John Kasper was questioned by police, who described him as having played a role in securing a cache of dynamite two days before the bombing. Despite this, and despite a $7,000 cash reward for information, Kasper was never charged for the school attack. He was, however, convicted in November 1958 for inciting a riot on the first day of school in Nashville, where he had predicted that "blood will run in the streets of Nashville before Negro children go to school with white."
+
+## Rage Channeled into Resolve
+
+In the days after the bombing, Reverend Kelly Miller Smith and Reverend Will Campbell convened a community meeting that revealed the depth of fury in Nashville's Black community. Speaker after speaker rose to denounce the bombing and demand reprisal. There was open talk of guns and retaliation. Smith, a founding member of the Nashville Christian Leadership Council, let the meeting run without interruption for most of the evening, as if he understood the rage needed to be voiced before it could be redirected. When he finally spoke, his words were measured: "We can go forward as planned and try to show them the right way." That moment of discipline -- rage acknowledged but channeled into nonviolent resistance -- became a hallmark of Nashville's civil rights movement. The Nashville Student Movement, which would later stage the landmark lunch counter sit-ins of 1960, drew strength from the community's response to the Hattie Cotton bombing.
+
+## From Rubble to STEM Lab
+
+Hattie Cotton Elementary reopened nine days after the bombing, and permanent repairs were completed in 1958. The school operated for decades as one of Nashville's integrated public schools. In the early 1990s, the original building was torn down and a new structure was built on the same site, reopening on April 9, 1996. In 2011, the school was transformed into Hattie Cotton STEM Magnet Elementary, partnering with Vanderbilt University for science instruction and project-based learning. Most of the six schools that first integrated in 1957 remain open today. A historic marker stands at the school, though it commemorates desegregation without mentioning the bombing itself -- a curious omission for an event that shaped a city. The children who walk through those doors today study science and engineering in a building that stands on ground once torn apart by dynamite, planted by people who believed a six-year-old girl did not belong.
+
+## Flight Context
+
+Located at 36.19N, 86.75W in the East Nashville neighborhood of Nashville, Tennessee. The school sits at 1033 W. Greenwood Avenue, west of Gallatin Pike. Nashville's skyline and the Cumberland River are visible nearby. Nearest airports: John C. Tune Airport (KJWN) approximately 8 nm west; Nashville International Airport (KBNA) approximately 7 nm southeast. Best viewed at 2,000-4,000 ft AGL. The school is in a residential neighborhood east of downtown Nashville.
+
+## Sources
+
+- [Hattie Cotton Elementary School bombing - Wikipedia](https://en.wikipedia.org/?curid=53160468)
+  - Dynamite blast just after midnight on September 10, 1957
+  - Damage exceeded $71,000
+  - $7,000 cash reward offered
+  - John Kasper questioned but never charged for the bombing
+  - Six elementary schools designated for integration in first wave
+  - School reopened nine days after bombing
+- [EJI - On Sep 09, 1957: White Residents in Nashville Use Religion to Justify Segregation; Elementary School Bombed](https://calendar.eji.org/racial-injustice/sep/9)
+  - Nineteen Black six-year-olds attempted to attend Nashville's first integrated schools
+  - Hattie Cotton admitted one Black child on September 9, 1957
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 8 facts verified · 0 corrections
+
+All key facts verified: date of bombing (Sept 10, 1957), damage over 1,000, ,000 reward, John Kasper questioned but never charged, six schools in integration wave. Story well-sourced with strong narrative. Spiciness 3.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- The bombing 'became a turning point for Nashville, transforming grief and rage into the disciplined resistance that would define the city's civil rights movement'
+- Description of the marker as 'a curious omission for an event that shaped a city'
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

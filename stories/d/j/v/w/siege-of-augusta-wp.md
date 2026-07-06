@@ -1,0 +1,67 @@
+# Siege of Augusta
+
+A wooden tower, a fake deserter, and a house rigged to explode -- the 1781 siege of Augusta reads like a thriller, pitting Patriot ingenuity against a Loyalist commander who refused to go quietly.
+
+**Location:** 33.4700, -81.9750
+
+**Categories:** Conflicts in 1781, 1781 in the United States, Sieges of the American Revolutionary War, 1781 in Georgia (U.S. state), History of Augusta, Georgia, Battles of the American Revolutionary War in Georgia (U.S. state), Battles in the Southern theater of the American Revolutionary War
+
+## Introduction
+
+Thomas Brown had already survived being scalped, tarred, and burned by Patriots in 1775. Six years later, he stood behind the walls of Fort Cornwallis in Augusta, Georgia, commanding 300 Loyalist militiamen and vowing he would not surrender the town he had held since the British reoccupied it in 1780. Outside those walls, two of the Revolution's sharpest commanders -- Brigadier General Andrew Pickens and Lieutenant Colonel Henry "Light Horse Harry" Lee -- were about to prove that sometimes the most effective weapon in a siege is a good idea borrowed from someone else.
+
+## A Town Worth Fighting Over
+
+Augusta had changed hands repeatedly since the British arrived in Georgia in 1778. Brown and his East Florida Rangers first occupied the town on January 31, 1779, only to retreat after the American victory at the Battle of Kettle Creek in February. When Colonel Elijah Clarke tried to retake Augusta later in 1780, his four-day siege failed and he was forced to withdraw. By the spring of 1781, Augusta was one of the last British strongholds in the Georgia backcountry, a supply hub that funneled weapons and goods to Native American allies. Recapturing it would sever a critical link in the British chain of control across the Southern frontier. In April, Patriot militia under Micajah Williamson arrived on the outskirts and dug in, while Pickens positioned 400 men between Augusta and the British outpost at Ninety Six, South Carolina, cutting off any chance of reinforcement.
+
+## Galphin's Prize and Grierson's End
+
+Before attacking Fort Cornwallis directly, the Patriots went after easier targets. On May 21, Clarke and Lee struck the stockaded house of George Galphin, a colonial Indian agent, located south of Augusta. The garrison of 126 men surrendered after a brief fight in which one American died of heatstroke. The real prize was the cache of supplies and military equipment stored there, goods intended for distribution to local Native American groups. Two days later, the Patriots encircled Fort Grierson, a secondary outpost half a mile from Cornwallis, defended by about 80 men. Brown attempted a sortie from Cornwallis to rescue Colonel Grierson, but Lee's forces turned him back. Grierson tried to flee along the riverbank. His entire company was captured, and Clarke's militia, burning with resentment over Brown's earlier brutalities, refused quarter. Grierson and all of his men were killed.
+
+## The Tower That Won the Siege
+
+Fort Cornwallis itself was a tougher proposition. Its walls were well-built, its 300 defenders were determined, and the Patriots had only a single cannon. Lee remembered a trick that had worked at the siege of Fort Watson in South Carolina: build a tower tall enough to fire down over the walls. Under cover of a nearby house, Patriot troops began stacking timbers. Brown sent sortie after sortie to stop the construction, but Lee's men drove each one back. By June 1, the tower topped the fort's walls and the Americans mounted their cannon on it, raining fire into the interior. That night, Brown led his garrison out in a desperate pitched battle, but was forced back behind his defenses. He then tried sabotage, sending a man out disguised as a deserter who offered to direct the cannon at the fort's powder magazine. The infiltrator nearly succeeded, but Lee grew suspicious and had him placed under guard.
+
+## Sappers, Birthday Truces, and Surrender
+
+With the cannon methodically destroying barracks and dismounting guns, Brown tried one last stratagem. He sent sappers to tunnel beneath a nearby house the Patriots planned to use for sharpshooters. On the night of June 3, the building exploded -- but the charge detonated before any Americans were inside. On the morning of June 4, Pickens and Lee sent a formal demand for surrender. Brown refused. In a peculiar gesture of wartime courtesy, the assault was postponed one day because it was the birthday of King George III. On June 5, Brown finally offered to negotiate. He had one condition: he would surrender only to Continental Army regulars from North Carolina, not to the local militia. Given what had happened to Grierson and his men, Brown had good reason to fear the backcountry fighters who wanted him dead for years of frontier brutality.
+
+## After the Walls Fell
+
+The siege ended on June 6, 1781, after sixteen days. Augusta was the second-to-last British post in the Deep South to fall, leaving only Savannah in Crown hands. The victory secured the Georgia backcountry for the Patriot cause and cut off British-allied Native American groups from their supply lines. Brown survived the war, unlike many of his Loyalist peers. He relocated first to Florida and then to the Bahamas, never returning to the Georgia frontier where his feud with the Patriots had burned for six years. Today, Augusta's modern cityscape covers the ground where the wooden tower rose and Brown's fort crumbled, but the site of Fort Cornwallis remains one of the most vivid examples of Revolutionary War siege craft in the Southern theater.
+
+## Flight Context
+
+The Siege of Augusta took place at approximately 33.47N, 81.975W, in what is now downtown Augusta, Georgia along the Savannah River. From the air, the city's grid plan and the wide curve of the Savannah River are clearly visible. Best viewed at 2,000-3,000 feet. Nearest airports: Augusta Regional Airport at Bush Field (KAGS) 6nm south, Daniel Field (KDNL) 3nm west. Columbia Metropolitan Airport (KCAE) is 74nm to the northeast in South Carolina.
+
+## Sources
+
+- [Siege of Augusta - Wikipedia](https://en.wikipedia.org/?curid=15907181)
+  - Brown commanded 300 Loyalist militiamen at Fort Cornwallis
+  - Pickens and Light Horse Harry Lee led Patriot forces
+  - Fort Grierson defended by about 80 men
+  - Grierson killed after attempting to flee
+  - Siege ended June 6, 1781
+  - Brown surrendered to Continental regulars from North Carolina
+  - Galphin post attacked May 21 with 126 men surrendering
+- [Siege of Augusta - Revolutionary War US](https://revolutionarywar.us/year-1781/siege-of-augusta/)
+  - Brown tarred and partially scalped by Patriots in 1775
+  - East Florida Rangers occupied Augusta January 1779
+  - Maham tower construction enabled cannon fire into fort
+  - June 4 truce for King George III birthday verified
+- [Explore Southern History - Siege of Augusta](https://www.exploresouthernhistory.com/augustasiege.html)
+  - Augusta second-to-last British post in Deep South
+  - Brown relocated to Florida then Bahamas after war
+
+## Review Notes
+
+**Reviewed:** 2026-02-17 · 16 facts verified · 0 corrections
+
+All key facts verified: Brown's 1775 tarring/scalping, 300 defenders at Fort Cornwallis, Pickens and Lee leadership, Galphin attack May 21, Fort Grierson 80 defenders, Grierson killed, Maham tower, King George III birthday June 4 truce, Brown surrender to NC Continentals, siege end June 6 1781. No factual errors. Spiciness 2/5.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

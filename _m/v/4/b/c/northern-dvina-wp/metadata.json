@@ -442,5 +442,24 @@
     "_m/v/4/b/c/northern-dvina-wp/arkhangelsk-ledohod-2.jpg",
     "_m/v/4/b/c/northern-dvina-wp/arkhangelsk-ledohod-3.jpg"
   ],
-  "updatedAt": "2026-04-01T07:48:34.685Z"
+  "updatedAt": "2026-04-01T07:48:34.685Z",
+  "narration": {
+    "files": [
+      "v4bc-northern-dvina-flight-context.mp3",
+      "v4bc-northern-dvina-intro.mp3",
+      "v4bc-northern-dvina-the-shape-of-water.mp3",
+      "v4bc-northern-dvina-merchants-on-the-portage.mp3",
+      "v4bc-northern-dvina-peters-pivot.mp3",
+      "v4bc-northern-dvina-a-river-of-battles.mp3"
+    ],
+    "durations": {
+      "v4bc-northern-dvina-flight-context.mp3": 61.729125,
+      "v4bc-northern-dvina-intro.mp3": 58.6380833,
+      "v4bc-northern-dvina-the-shape-of-water.mp3": 69.9018333,
+      "v4bc-northern-dvina-merchants-on-the-portage.mp3": 57.45075,
+      "v4bc-northern-dvina-peters-pivot.mp3": 60.8196666,
+      "v4bc-northern-dvina-a-river-of-battles.mp3": 60.0495833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

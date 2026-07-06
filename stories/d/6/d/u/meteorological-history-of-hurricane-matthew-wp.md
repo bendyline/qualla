@@ -1,0 +1,66 @@
+# Meteorological History of Hurricane Matthew
+
+The first Category 5 Atlantic hurricane since 2007 and the southernmost ever recorded at that intensity - Hurricane Matthew exploded from tropical wave to monster storm in 36 hours, devastated Haiti, and killed roughly 600 people across the Caribbean and the American Southeast in October 2016.
+
+**Location:** 14.8917, -74.5733
+
+**Categories:** hurricane, natural-disaster, caribbean, meteorology, weather
+
+## Introduction
+
+On the evening of September 29, 2016, a tropical storm northeast of Curacao did something forecasters did not expect. In roughly 36 hours, it went from a disorganized system with 74 mph winds to a Category 5 hurricane with sustained winds of 165 mph - the kind of explosive intensification that catches even the National Hurricane Center off guard. The models had predicted gradual strengthening. The wind shear analysis said the storm should have struggled. But Matthew had found a pocket of calm air within the broader turbulence, invisible to the standard 1,000-kilometer analysis grid. By the time post-storm analysis revealed that shear at the 400-kilometer scale was roughly half what models had calculated, the storm had already written itself into the record books as the southernmost Category 5 Atlantic hurricane ever observed, the first since Hurricane Felix nine years earlier.
+
+## Born Off Africa's Coast
+
+Matthew began with a tropical wave rolling off the west coast of Africa near Guinea-Bissau on September 22, riding unusually close to the equator at just 8 to 10 degrees north. Two days later, passing south of Cape Verde, the National Hurricane Center flagged it as likely to develop. Thunderstorm activity built as the wave approached the Lesser Antilles, and on September 28, hurricane hunters confirmed what radar from Barbados had been hinting at: a closed circulation had formed roughly 20 miles west-northwest of the island, with surface winds of 58 mph and gusts reaching hurricane force at flight level. Tropical Storm Matthew was born - fed by moisture from the Intertropical Convergence Zone and the heat stored in Caribbean waters that had baked under months of tropical sun.
+
+## The Forecasters' Blind Spot
+
+What happened next defied the textbooks. Strong southwesterly wind shear - normally a death sentence for hurricanes - blanketed the region around Matthew. The Statistical Hurricane Intensity Prediction Scheme, using its standard 1,000-kilometer grid, calculated shear values that should have prevented intensification. But the atmosphere is not a spreadsheet. At the localized scale around Matthew's core, shear was roughly half the analyzed value. On September 30, a 25-mile-wide eye snapped into focus, and by early October 1, Matthew had reached Category 5 with 165 mph winds. Satellite imagery from the Suomi NPP spacecraft revealed gravity waves radiating from the storm. Lightning crackled through the eyewall with unusual intensity. A massive convective complex - dubbed "the blob" by researchers - formed east of the core, potentially containing supercell thunderstorms. The roles of these phenomena in Matthew's intensification remain unknown.
+
+## Haiti's Reckoning
+
+Matthew weakened slightly from its Category 5 peak but remained a ferocious Category 4 storm, its winds oscillating between 145 and 155 mph as it turned northward. On October 3, it reached its minimum central pressure of 934 millibars. The next morning, it made landfall near Les Anglais, Haiti with 150 mph winds - the strongest hurricane to strike the country since Hurricane Cleo in 1964. The mountainous terrain disrupted the storm but could not break it. Matthew's eye remained visible as it crossed the Windward Passage, and by midnight it struck eastern Cuba near Juaco with 130 mph winds. Instruments at Punta de Maisi Airport recorded gusts to 152 mph. In Haiti, the damage was catastrophic. Over 500 people died. Communities were flattened. The country, still struggling to recover from the 2010 earthquake, faced another crisis it lacked the infrastructure to absorb.
+
+## Skirting the American Coast
+
+After raking Cuba and the Bahamas, Matthew re-strengthened briefly to Category 4 before an eyewall replacement cycle weakened it again. The storm that had threatened to become the first major hurricane to strike the United States since Wilma in 2005 instead tracked just offshore, paralleling Florida's east coast close enough to deliver punishing winds and storm surge but never making its feared direct hit. The close call was not mercy for the Carolinas. Torrential rainfall pounded North and South Carolina as Matthew finally made landfall at the Cape Romain National Wildlife Refuge in South Carolina on October 8, a Category 1 hurricane with 85 mph winds and a central pressure of 963 millibars - making it the most intense hurricane by pressure to strike the U.S. since Hurricane Irene in 2011. Rivers overflowed. Flash flooding submerged entire towns. Even after Matthew turned extratropical southeast of Cape Hatteras on October 9, the rivers kept rising for weeks. The storm caused $10 billion in damage across the United States alone and $15.1 billion overall.
+
+## The Loop That Never Came
+
+As Matthew bore down on the Southeast, one forecast scenario terrified emergency managers: a loop. The GFS model repeatedly showed Matthew curving back south after its Carolina landfall, re-entering the warm Atlantic, and striking the coast a second time - a track reminiscent of Hurricane Betsy's path into the Gulf of Mexico in 1965. For the loop to materialize, a jet stream trough would have had to miss the storm, allowing a ridge over New England to push Matthew back south. Interaction with Tropical Storm Nicole via the Fujiwhara effect could have further prevented escape to sea. The scenario never materialized. Matthew embedded itself in the mid-latitude westerlies and was absorbed by a cold front south of Canada on October 10. But for several days, the possibility had hung over a region already battered. When it was over, roughly 600 people were dead, and the 2016 hurricane season had delivered its most devastating blow - a storm that had outrun its forecasts from the moment it first tapped the Caribbean's stored heat.
+
+## Flight Context
+
+Hurricane Matthew's track crossed the central Caribbean near 14.9N, 74.6W before turning northward. Key landmarks along its path include Barbados (TBPB), where the storm was first classified; Curacao (TNCC), where the eye formed; the Windward Passage between Haiti and Cuba; and the Bahamas. The Haiti landfall occurred near Les Anglais on the Tiburon Peninsula - visible as the southwestern arm of Hispaniola. The U.S. landfall at Cape Romain NWR is north of Charleston, SC (KCHS). From altitude, the storm's path traces a classic recurving Caribbean hurricane track: west across the Lesser Antilles, northwest through the central Caribbean, north through the Windward Passage, then northeast along the U.S. East Coast. The Cayman Trough, which Matthew crossed, is visible as the dark channel between Jamaica (MKJP) and the Cayman Islands (MWCR). Best observed from high altitude during clear conditions outside hurricane season (June-November).
+
+## Sources
+
+- [Meteorological history of Hurricane Matthew - Wikipedia](https://en.wikipedia.org/?curid=51896428)
+- [NHC Tropical Cyclone Report - Hurricane Matthew (AL142016)](https://www.nhc.noaa.gov/data/tcr/AL142016_Matthew.pdf)
+  - Category 5 with 165 mph winds confirmed
+  - first Category 5 since Felix 2007 confirmed
+  - southernmost Category 5 Atlantic hurricane on record confirmed
+  - Haiti landfall near Les Anglais October 4 with 150 mph winds confirmed
+  - SC landfall at Cape Romain NWR October 8 confirmed
+  - 963 mb central pressure confirmed
+  - most intense US landfall by pressure since Irene 2011 confirmed
+  - US damage $10 billion confirmed
+  - total damage $15.1 billion confirmed
+- [Hurricane Matthew - Wikipedia](https://en.wikipedia.org/wiki/Hurricane_Matthew)
+  - over 500 deaths in Haiti confirmed
+  - strongest hurricane to strike Haiti since Cleo 1964 confirmed
+  - 585 total direct deaths confirmed across Caribbean and US Southeast
+
+## Review Notes
+
+**Reviewed:** 2026-03-12 · 12 facts verified · 0 corrections
+
+Category 5 first since Felix 2007 confirmed, 165 mph peak winds confirmed, southernmost Cat5 Atlantic on record confirmed, Haiti landfall Les Anglais Oct 4 150 mph confirmed, strongest since Cleo 1964 confirmed, over 500 Haiti deaths confirmed, SC landfall Cape Romain 963mb confirmed, most intense US landfall by pressure since Irene 2011 confirmed, total damage 5.1B confirmed. No corrections needed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 895*
+*Read time: 4 minutes*

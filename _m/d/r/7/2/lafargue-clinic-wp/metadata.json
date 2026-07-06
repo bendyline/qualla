@@ -61,5 +61,26 @@
     "sourceGeohash4": "dr72"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "dr72-lafargue-clinic-flight-context.mp3",
+      "dr72-lafargue-clinic-intro.mp3",
+      "dr72-lafargue-clinic-psychiatry-is-for-everybody-or-none-at-all.mp3",
+      "dr72-lafargue-clinic-two-rooms-in-a-basement.mp3",
+      "dr72-lafargue-clinic-making-segregation-a-public-health-issue.mp3",
+      "dr72-lafargue-clinic-the-closing-of-the-doors.mp3",
+      "dr72-lafargue-clinic-the-ironies-of-legacy.mp3"
+    ],
+    "durations": {
+      "dr72-lafargue-clinic-flight-context.mp3": 44.23675,
+      "dr72-lafargue-clinic-intro.mp3": 53.7207083,
+      "dr72-lafargue-clinic-psychiatry-is-for-everybody-or-none-at-all.mp3": 59.906375,
+      "dr72-lafargue-clinic-two-rooms-in-a-basement.mp3": 58.8905833,
+      "dr72-lafargue-clinic-making-segregation-a-public-health-issue.mp3": 60.3324166,
+      "dr72-lafargue-clinic-the-closing-of-the-doors.mp3": 48.9000833,
+      "dr72-lafargue-clinic-the-ironies-of-legacy.mp3": 65.14075
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

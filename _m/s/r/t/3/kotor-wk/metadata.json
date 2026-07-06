@@ -829,5 +829,24 @@
     "_m/s/r/t/3/kotor-wk/0296-july-2017-in-montenegro.jpg",
     "_m/s/r/t/3/kotor-wk/0297-july-2017-in-montenegro.jpg"
   ],
-  "updatedAt": "2026-03-31T10:04:45.968Z"
+  "updatedAt": "2026-03-31T10:04:45.968Z",
+  "narration": {
+    "files": [
+      "srt3-kotor-flight-context.mp3",
+      "srt3-kotor-intro.mp3",
+      "srt3-kotor-a-fjord-that-shouldnt-exist.mp3",
+      "srt3-kotor-venetian-stone-ottoman-echoes.mp3",
+      "srt3-kotor-climbing-the-fortress-at-dawn.mp3",
+      "srt3-kotor-a-town-that-runs-on-foot-traffic.mp3"
+    ],
+    "durations": {
+      "srt3-kotor-flight-context.mp3": 50.6290416,
+      "srt3-kotor-intro.mp3": 52.8020833,
+      "srt3-kotor-a-fjord-that-shouldnt-exist.mp3": 56.2410416,
+      "srt3-kotor-venetian-stone-ottoman-echoes.mp3": 66.4624166,
+      "srt3-kotor-climbing-the-fortress-at-dawn.mp3": 59.0015833,
+      "srt3-kotor-a-town-that-runs-on-foot-traffic.mp3": 68.4005833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

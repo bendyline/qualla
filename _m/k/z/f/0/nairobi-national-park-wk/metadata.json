@@ -713,5 +713,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kzf0-nairobi-national-park-flight-context.mp3",
+      "kzf0-nairobi-national-park-intro.mp3",
+      "kzf0-nairobi-national-park-a-paradise-quickly-disappearing.mp3",
+      "kzf0-nairobi-national-park-skyline-safari.mp3",
+      "kzf0-nairobi-national-park-ivory-in-flames.mp3",
+      "kzf0-nairobi-national-park-ten-minutes-from-downtown.mp3"
+    ],
+    "durations": {
+      "kzf0-nairobi-national-park-flight-context.mp3": 56.3675833,
+      "kzf0-nairobi-national-park-intro.mp3": 59.119125,
+      "kzf0-nairobi-national-park-a-paradise-quickly-disappearing.mp3": 75.6232916,
+      "kzf0-nairobi-national-park-skyline-safari.mp3": 65.0827083,
+      "kzf0-nairobi-national-park-ivory-in-flames.mp3": 63.455875,
+      "kzf0-nairobi-national-park-ten-minutes-from-downtown.mp3": 59.613
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

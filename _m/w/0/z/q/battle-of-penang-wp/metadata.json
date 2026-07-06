@@ -116,5 +116,26 @@
   "galleryPaths": [
     "_m/w/0/z/q/battle-of-penang-wp/imperial-russian-cruis.jpg",
     "_m/w/0/z/q/battle-of-penang-wp/le-mousquet-memorial-c.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w0zq-battle-of-penang-flight-context.mp3",
+      "w0zq-battle-of-penang-intro.mp3",
+      "w0zq-battle-of-penang-the-lone-wolf-of-the-indian-ocean.mp3",
+      "w0zq-battle-of-penang-fifteen-minutes-of-chaos.mp3",
+      "w0zq-battle-of-penang-honour-and-disgrace.mp3",
+      "w0zq-battle-of-penang-ten-more-days.mp3",
+      "w0zq-battle-of-penang-memory-in-the-strait.mp3"
+    ],
+    "durations": {
+      "w0zq-battle-of-penang-flight-context.mp3": 41.3886666,
+      "w0zq-battle-of-penang-intro.mp3": 39.9655,
+      "w0zq-battle-of-penang-the-lone-wolf-of-the-indian-ocean.mp3": 59.33275,
+      "w0zq-battle-of-penang-fifteen-minutes-of-chaos.mp3": 59.3457083,
+      "w0zq-battle-of-penang-honour-and-disgrace.mp3": 62.563875,
+      "w0zq-battle-of-penang-ten-more-days.mp3": 53.935,
+      "w0zq-battle-of-penang-memory-in-the-strait.mp3": 57.3223333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1,0 +1,76 @@
+# Athens
+
+Where democracy was invented beneath the Acropolis, where Socrates asked questions that got him killed, where Western philosophy began in the agora.
+
+**Location:** 37.9838, 23.7275
+
+**Categories:** greece, ancient, democracy, philosophy, unesco, olympic
+
+## Introduction
+
+In 508 BC, an Athenian nobleman named Cleisthenes introduced reforms that would change human history. He divided Athens into ten tribes based on geography rather than kinship, created a council of 500 chosen by lot, and gave every adult male citizen the right to speak and vote in the assembly. He called the system demokratia - rule by the people - and for 185 years Athens conducted an experiment that every modern democracy claims as ancestor. The experiment ended when Macedon conquered Greece, but it left behind the Parthenon, the dialogues of Plato, the tragedies of Sophocles, the histories of Herodotus and Thucydides - the intellectual foundations of Western civilization assembled in a city smaller than a modern suburb. Athens today holds 3.1 million people, its ancient ruins ringed by urban sprawl, the Acropolis rising from the center like a reminder of what one small city-state accomplished before the rest of the world caught up. The metro excavations revealed layer after layer of settlement - Bronze Age, Classical, Roman, Byzantine, Ottoman - 5,000 years of continuous habitation, making Athens one of the oldest cities in the world.
+
+## The Sacred Rock
+
+The Acropolis - literally 'high city' - rises 156 meters above Athens, a limestone outcrop that has been fortified since the Bronze Age. The Parthenon that crowns it was built between 447 and 432 BC under the supervision of Pericles, funded by tribute from the Athenian empire, designed by Ictinus and Callicrates, its sculptures by Phidias. The temple was dedicated to Athena Parthenos - Athena the Virgin - patron goddess of the city that bore her name.
+
+The Parthenon was a temple for 800 years, then a Christian church for 1,000, then a mosque after the Ottoman conquest in 1456. In 1687, a Venetian mortar ignited Ottoman gunpowder stored inside, blowing out the center of the building. Lord Elgin removed half the surviving sculptures between 1801 and 1812; they remain in the British Museum despite Greece's continuing demands for return. What stands today is partly original, partly reconstruction - the Greeks have been reassembling fallen stones and filling gaps with new marble for decades. The scaffolding has become part of the view.
+
+## The Agora
+
+Below the Acropolis, the ancient agora spreads across a valley that was once the heart of Athenian civic life. Here Socrates questioned passersby until they condemned him to death. Here Plato studied before founding his Academy. Here merchants sold olives and pottery, politicians campaigned for office, jurors cast their votes, and citizens debated the policies that would shape the Mediterranean world. The word 'agora' meant marketplace, but the space served every public function.
+
+The Stoa of Attalos, reconstructed in the 1950s with American funding, shows how the covered colonnades once looked - 116 meters long, two stories of shops and meeting spaces. The philosophers who met in such stoas became 'Stoics.' The Temple of Hephaestus survives nearly intact because it too became a church; its Doric columns and roof give the best impression of what the Parthenon once resembled. The agora is quieter now - tourists instead of traders, archaeologists instead of orators - but the foundations of Western philosophy lie beneath the olive trees.
+
+## The Modern Olympic City
+
+Athens hosted the first modern Olympics in 1896, reviving games that had been held at Olympia from 776 BC until the Christian Roman Emperor Theodosius banned them in 393 AD. Pierre de Coubertin's vision of international athletic competition returned to its homeland - symbolically if not geographically, since Olympia is 300 kilometers away. The Panathenaic Stadium, rebuilt in marble for the occasion, held 80,000 spectators for the first modern games.
+
+Athens hosted again in 2004, building venues that were supposed to transform the city. The new metro opened, the airport relocated, the infrastructure expanded. But the €9 billion cost contributed to the debt crisis that would devastate Greece after 2009. Many Olympic venues now stand abandoned - the baseball stadium overgrown, the beach volleyball arena shuttered, the canoe slalom course dry. The Olympic legacy Greece sought became a symbol of the excess that preceded economic collapse. The Panathenaic Stadium still hosts the marathon finish and the Olympic flame handover, but the 2004 dreams have largely rusted.
+
+## The Byzantine Churches
+
+When Constantine moved the Roman capital to Byzantium in 330 AD, Athens became a provincial backwater. The population shrank, the temples were converted to churches or quarried for building material, and the city that had shaped Western thought became a minor town in an empire centered on Constantinople. But the Byzantine millennium left its mark in small churches scattered through the modern city.
+
+The Church of Panagia Kapnikarea stands in the middle of Ermou Street, Athens's main shopping thoroughfare - 11th-century brickwork surrounded by 21st-century retail. Shoppers flow around it like water around a rock. The Church of the Holy Apostles in the agora preserves Byzantine frescoes. The monasteries of Daphni and Kaisariani, in the hills above the city, show what medieval Athens looked like - small, poor, clinging to fragments of ancient glory while the Orthodox faith provided continuity. The Parthenon was a church then, the Virgin Mary replacing Athena, the adaptation that preserved what paganism had built.
+
+## The Crisis and Recovery
+
+Between 2009 and 2018, Greece experienced the deepest economic depression in modern peacetime history. GDP fell by 25%. Youth unemployment reached 60%. The troika of EU, ECB, and IMF imposed austerity measures that closed hospitals, cut pensions, and sparked protests that sometimes turned violent. Athens became the symbol of European economic crisis - graffiti-covered storefronts, homeless encampments, tear gas in Syntagma Square.
+
+The city that invented democracy struggled with decisions imposed by foreign creditors, the irony lost on no one. But Athens survived, as it has survived conquest and occupation for millennia. The economy has slowly recovered. Tourism, always central, has expanded - the ancient sites draw visitors regardless of modern troubles. New museums have opened, the metro has extended, the street art that began as protest has become attraction. Athens in 2026 is neither the tourist paradise the Olympic planners imagined nor the failed state the crisis suggested. It is simply Athens - scarred, resilient, still trading on glories 2,500 years old, still figuring out what democracy means.
+
+## Flight Context
+
+Athens (37.98°N, 23.73°E) occupies the Attica plain between Mount Hymettus (1,026m) to the east and Mount Parnitha (1,413m) to the north. Athens International Airport Eleftherios Venizelos (LGAV/ATH) lies 33km east of the city center with two parallel runways (03L/21R and 03R/21L, both ~4,000m). The Acropolis (156m) is the dominant landmark in the city center, identifiable by its flat-topped rock and temple structures. The Saronic Gulf opens to the south, with Piraeus port visible on the coast. The urban sprawl extends in all directions across the Attica basin. Weather is Mediterranean - hot dry summers with excellent visibility, mild winters with occasional rain. The 'etesian' meltemi winds blow from the north in summer, providing relief from heat but sometimes causing turbulence. Smog can accumulate in the basin during temperature inversions, particularly in winter. The terrain rises sharply on three sides of the urban area.
+
+## Sources
+
+- [Athens - Wikipedia](https://en.wikipedia.org/?curid=1216)
+- [Parthenon - Wikipedia](https://en.wikipedia.org/wiki/Parthenon)
+  - built 447-432 BC
+  - architects Ictinus and Callicrates
+  - sculptures by Phidias
+  - 1687 Venetian explosion
+- [Athenian democracy - Wikipedia](https://en.wikipedia.org/wiki/Athenian_democracy)
+  - Cleisthenes reforms 508 BC
+  - 10 tribes
+  - council of 500
+
+## Review Notes
+
+**Reviewed:** 2026-01-20 · 6 facts verified · 0 corrections
+
+Story overlay verified
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Where democracy was invented beneath the Acropolis
+- Scarred, resilient, still trading on glories 2,500 years old
+
+---
+
+*Word count: 1,150*
+*Read time: 6 minutes*

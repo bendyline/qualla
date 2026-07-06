@@ -105,5 +105,24 @@
   "galleryPaths": [
     "_m/u/5/h/2/sagastad-wp/bugansicht-der-sagasta.jpg",
     "_m/u/5/h/2/sagastad-wp/ausstellungshalle-der.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u5h2-sagastad-flight-context.mp3",
+      "u5h2-sagastad-intro.mp3",
+      "u5h2-sagastad-rebuilding-from-fire.mp3",
+      "u5h2-sagastad-the-king-who-may-rest-nearby.mp3",
+      "u5h2-sagastad-where-fjord-meets-museum.mp3",
+      "u5h2-sagastad-stepping-into-the-ninth-century.mp3"
+    ],
+    "durations": {
+      "u5h2-sagastad-flight-context.mp3": 40.109,
+      "u5h2-sagastad-intro.mp3": 50.0350833,
+      "u5h2-sagastad-rebuilding-from-fire.mp3": 59.6167916,
+      "u5h2-sagastad-the-king-who-may-rest-nearby.mp3": 49.3416666,
+      "u5h2-sagastad-where-fjord-meets-museum.mp3": 47.8655416,
+      "u5h2-sagastad-stepping-into-the-ninth-century.mp3": 60.0962916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

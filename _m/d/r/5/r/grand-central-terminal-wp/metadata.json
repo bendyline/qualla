@@ -842,5 +842,26 @@
     "_m/d/r/5/r/grand-central-terminal-wp/whispering-gallery-gra.jpg",
     "_m/d/r/5/r/grand-central-terminal-wp/shuttle-passage-grand.jpg",
     "_m/d/r/5/r/grand-central-terminal-wp/single-black-brick-lef.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr5r-grand-central-terminal-flight-context.mp3",
+      "dr5r-grand-central-terminal-intro.mp3",
+      "dr5r-grand-central-terminal-a-rivalry-carved-in-stone.mp3",
+      "dr5r-grand-central-terminal-the-fight-to-save-it.mp3",
+      "dr5r-grand-central-terminal-bare-bulbs-and-red-caps.mp3",
+      "dr5r-grand-central-terminal-the-113-8-million-ceiling.mp3",
+      "dr5r-grand-central-terminal-cathedral-of-commuting.mp3"
+    ],
+    "durations": {
+      "dr5r-grand-central-terminal-flight-context.mp3": 53.1522916,
+      "dr5r-grand-central-terminal-intro.mp3": 52.313625,
+      "dr5r-grand-central-terminal-a-rivalry-carved-in-stone.mp3": 62.122375,
+      "dr5r-grand-central-terminal-the-fight-to-save-it.mp3": 72.076625,
+      "dr5r-grand-central-terminal-bare-bulbs-and-red-caps.mp3": 69.3510416,
+      "dr5r-grand-central-terminal-the-113-8-million-ceiling.mp3": 71.8643333,
+      "dr5r-grand-central-terminal-cathedral-of-commuting.mp3": 70.3967083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1,0 +1,77 @@
+# Battle of Ojinaga
+
+Pancho Villa's decisive victory that ended Federal control of northern Mexico, captured on film by American cameras while the legendary writer Ambrose Bierce vanished into history.
+
+**Location:** 29.5500, -104.4000
+
+**Categories:** 1914 in Mexico, Battles of the Mexican Revolution, Conflicts in 1914, History of Chihuahua (state)
+
+## Introduction
+
+Pancho Villa had a film deal. In January 1914, while preparing to assault the last Federal stronghold in northern Mexico, his representatives in El Paso signed a contract with Mutual Film Company: $25,000 in advance and one-fifth of all revenues for exclusive footage of his revolutionary campaigns. The Huertist newspaper El Pais condemned Villa for speculating on the blood of Mexicans. But the bandit-turned-general had bigger concerns than bad press. At Ojinaga, where the Rio Grande separates Mexico from Texas, 4,500 Federal soldiers with twelve generals had dug in for a last stand. Somewhere among the revolutionaries gathering for the attack was the 71-year-old American writer Ambrose Bierce, author of The Devil's Dictionary, who had crossed into Mexico to witness the revolution. He was never seen again.
+
+## The Making of a Revolutionary
+
+Villa had returned to Mexico in the spring of 1913 with just eight companions. The revolution that overthrew dictator Porfirio Diaz in 1911 had devoured itself: President Francisco Madero, the idealist who had sparked the uprising, was murdered by his own general, Victoriano Huerta, who seized power in a coup. Against this usurper, former revolutionaries united under Venustiano Carranza, governor of Coahuila. Villa threw in his lot with them. Within months, he had built the Division del Norte into an army of more than 5,000 men—infantry, cavalry, and artillery—complete with supply trains, medical services, and a commissary. After capturing Ciudad Juarez and Chihuahua City, Villa controlled the north. Only Ojinaga remained in Federal hands.
+
+## Defeat and Defiance
+
+General Salvador Mercado had fled Chihuahua City with his army at the end of November 1913, choosing Ojinaga precisely because it bordered the United States. If Villa pursued him to the frontier, Mercado calculated, the Americans would intervene. He was half right. Villa first sent General Panfilo Natera to take the town. Natera arrived on New Year's Eve with orders to attack at night. For three days he probed the Federal defenses. Then, at dawn on January 4, he launched a full assault—and was thrown back by a cavalry countercharge under Jose Ines Salazar. The Federals captured 130 revolutionaries and shot them immediately. Natera's demoralized troops fell to arguing among themselves. The offensive had stalled.
+
+## Villa Rides to the Sound of the Guns
+
+When word of the defeat reached Villa on January 4, he acted with characteristic speed. That same day, he alerted Roslio Hernandez to prepare his Leales de Camargo brigade and telegraphed Maclovio Herrera to bring his forces north. On January 5 at 2 p.m., Villa boarded a train for Chihuahua with Raul Madero and Luis Aguirre Benavides. From there, his 1,500-man force traveled by rail, then on horseback through extreme cold, eating unsalted beef from cattle taken along the way because they carried no provisions. They went three days without proper food. When Villa arrived at the San Juan hacienda where the revolutionary army had camped, his men's morale transformed instantly.
+
+## The Jaws Close
+
+On January 10, trumpets sounded at 6 a.m. Villa distributed 200 rounds of ammunition per man and convened a war council. The plan was elegant in its simplicity: three brigades under Hernandez, Toribio Ortega, and Herrera would form a semicircle around Ojinaga, leaving only the American side open. The attackers would go without hats so they could identify each other in darkness; the password would be each soldier's individual number. Anyone who ran would be shot. By evening, the revolutionaries had taken their positions. Artillery unlimbered 2,500 meters from the town. At 6 p.m. on January 11, the guns opened fire. Herrera and Hernandez's men penetrated the city through the cemetery, pushing toward the watchtower to squeeze the defenders against the Rio Grande.
+
+## Into the River
+
+The battle lasted only hours. Some villistas infiltrated the town and climbed the church bell tower. The Federal defense collapsed. Soldiers threw down their rifles and plunged into the river, swimming desperately for the Texas side. Pascual Orozco fled to San Antonio, where his wife waited. But the Americans were not entirely welcoming: 3,352 soldiers including eight generals and 1,607 women were arrested for violating the Neutrality Act and transported first to Marfa, then to Fort Bliss. Only 35 revolutionaries died. The loot was enormous: 14 cannons, 100,000 rounds of ammunition, and 2,000 Mauser rifles. The bodies had to be burned to prevent a typhus epidemic. With Ojinaga's fall, the constitutionalists controlled all of northern Mexico. The war could now turn south, toward Mexico City.
+
+## The Writer Who Vanished
+
+American writer Ambrose Bierce was last definitely seen in Chihuahua in December 1913. The acerbic 71-year-old journalist had told friends he intended to join Villa's army as an observer. His last known letter, dated December 26, ended: "As to me, I leave here tomorrow for an unknown destination." He may have died at Ojinaga—or in the earlier fighting for Chihuahua City, or of disease, or at the hands of either army. The films shot at Ojinaga premiered in New York, where the father of the Madero brothers discovered to his shock that his son Raul had been in the fighting. But Bierce appeared in no footage. His disappearance remains one of American literature's enduring mysteries.
+
+## Flight Context
+
+Located at 29.55°N, 104.40°W where the Rio Grande forms the U.S.-Mexico border. The town of Ojinaga, Chihuahua sits directly across from Presidio, Texas. The river bend and town layout remain visible from altitude. Presidio Lely International Airport (KPRS) is directly across the border, 2 miles northeast. The terrain is high Chihuahuan Desert with dramatic views of the Rio Grande valley. Best viewed at 2,000-4,000 feet AGL where both the historic town center and the river crossing points are visible. The area around Fort D.A. Russell (now ruins) marks where American troops observed the battle.
+
+## Sources
+
+- [Battle of Ojinaga - Wikipedia](https://en.wikipedia.org/?curid=67583730)
+  - Battle date January 11, 1914 confirmed
+  - 4,500 Federal soldiers at Ojinaga confirmed
+  - 35 revolutionary casualties confirmed
+  - Natera's attack repulsed January 4 confirmed
+  - Survivors fled to Texas and transported to Fort Bliss confirmed
+  - Loot included cannons, ammunition, and Mauser rifles
+- [Smithsonian Magazine - Pancho Villa Movie Star](https://www.smithsonianmag.com/history/uncovering-the-truth-behind-the-myth-of-pancho-villa-movie-star-110349996/)
+  - Mutual Film Company contract for $25,000 advance confirmed
+  - One-fifth (20%) of revenues confirmed
+  - Contract signed January 5, 1914
+- [Wikipedia - Ambrose Bierce](https://en.wikipedia.org/wiki/Ambrose_Bierce)
+  - Bierce age 71 in December 1913 confirmed
+  - Last letter dated December 26, 1913 confirmed
+  - Quote 'As to me, I leave here tomorrow for an unknown destination' confirmed
+  - Author of The Devil's Dictionary confirmed
+  - Disappearance remains unsolved confirmed
+- [Wikipedia - Pancho Villa](https://en.wikipedia.org/wiki/Pancho_Villa)
+  - Villa returned to Mexico March 1913 with eight men confirmed
+  - Division del Norte built to 5,000+ men confirmed
+  - Madero murdered February 1913 by Huerta confirmed
+  - Carranza was governor of Coahuila confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-05 · 15 facts verified · 0 corrections
+
+All major facts verified: battle date, combatant numbers, casualties, Mutual Film contract details, Ambrose Bierce age/last letter/disappearance, Villa's return with 8 companions, Madero assassination. Spiciness 2/5 - vivid narrative but factually grounded.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 875*
+*Read time: 4 minutes*

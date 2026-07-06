@@ -91,5 +91,24 @@
   ],
   "galleryPaths": [
     "_m/u/k/h/m/museum-nord-narvik-wp/malmtog-trukket-av-stk.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "ukhm-museum-nord-narvik-flight-context.mp3",
+      "ukhm-museum-nord-narvik-intro.mp3",
+      "ukhm-museum-nord-narvik-an-ice-free-fortune.mp3",
+      "ukhm-museum-nord-narvik-paul-dues-railway-palace.mp3",
+      "ukhm-museum-nord-narvik-a-century-of-reinvention.mp3",
+      "ukhm-museum-nord-narvik-iron-ore-and-arctic-light.mp3"
+    ],
+    "durations": {
+      "ukhm-museum-nord-narvik-flight-context.mp3": 40.176875,
+      "ukhm-museum-nord-narvik-intro.mp3": 39.5562083,
+      "ukhm-museum-nord-narvik-an-ice-free-fortune.mp3": 57.5725416,
+      "ukhm-museum-nord-narvik-paul-dues-railway-palace.mp3": 51.0850416,
+      "ukhm-museum-nord-narvik-a-century-of-reinvention.mp3": 53.5606666,
+      "ukhm-museum-nord-narvik-iron-ore-and-arctic-light.mp3": 59.4682083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

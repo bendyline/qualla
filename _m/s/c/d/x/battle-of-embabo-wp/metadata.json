@@ -50,5 +50,24 @@
     "sourceGeohash4": "scdx"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "scdx-battle-of-embabo-flight-context.mp3",
+      "scdx-battle-of-embabo-intro.mp3",
+      "scdx-battle-of-embabo-gold-trade-and-fertile-ground.mp3",
+      "scdx-battle-of-embabo-an-insult-that-demanded-armies.mp3",
+      "scdx-battle-of-embabo-kings-fighting-as-common-soldiers.mp3",
+      "scdx-battle-of-embabo-the-emperors-compromise.mp3"
+    ],
+    "durations": {
+      "scdx-battle-of-embabo-flight-context.mp3": 46.782125,
+      "scdx-battle-of-embabo-intro.mp3": 44.4484583,
+      "scdx-battle-of-embabo-gold-trade-and-fertile-ground.mp3": 62.8092916,
+      "scdx-battle-of-embabo-an-insult-that-demanded-armies.mp3": 47.4263333,
+      "scdx-battle-of-embabo-kings-fighting-as-common-soldiers.mp3": 78.8881666,
+      "scdx-battle-of-embabo-the-emperors-compromise.mp3": 74.2985833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

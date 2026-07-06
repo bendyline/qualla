@@ -555,5 +555,22 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qvth-adelaide-river-northern-territory-flight-context.mp3",
+      "qvth-adelaide-river-northern-territory-intro.mp3",
+      "qvth-adelaide-river-northern-territory-the-overnight-stop.mp3",
+      "qvth-adelaide-river-northern-territory-the-war-town.mp3",
+      "qvth-adelaide-river-northern-territory-after-the-guns-fell-silent.mp3"
+    ],
+    "durations": {
+      "qvth-adelaide-river-northern-territory-flight-context.mp3": 59.8571666,
+      "qvth-adelaide-river-northern-territory-intro.mp3": 34.69625,
+      "qvth-adelaide-river-northern-territory-the-overnight-stop.mp3": 73.002875,
+      "qvth-adelaide-river-northern-territory-the-war-town.mp3": 86.2637916,
+      "qvth-adelaide-river-northern-territory-after-the-guns-fell-silent.mp3": 97.2709583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

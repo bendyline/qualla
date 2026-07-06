@@ -160,5 +160,24 @@
     "_m/w/j/q/6/batang-sichuan-wp/maps-sichuan-province.png",
     "_m/w/j/x/q/larung-gar-wp/larung-gar-tibetan-cit.jpg",
     "_m/w/j/x/q/larung-gar-wp/larung-gar-five-scienc.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wjxq-larung-gar-flight-context.mp3",
+      "wjxq-larung-gar-intro.mp3",
+      "wjxq-larung-gar-from-hermitage-to-holy-city.mp3",
+      "wjxq-larung-gar-the-machinery-of-erasure.mp3",
+      "wjxq-larung-gar-re-education-and-resistance.mp3",
+      "wjxq-larung-gar-what-the-valley-holds.mp3"
+    ],
+    "durations": {
+      "wjxq-larung-gar-flight-context.mp3": 47.5266666,
+      "wjxq-larung-gar-intro.mp3": 35.653375,
+      "wjxq-larung-gar-from-hermitage-to-holy-city.mp3": 69.6784583,
+      "wjxq-larung-gar-the-machinery-of-erasure.mp3": 77.867375,
+      "wjxq-larung-gar-re-education-and-resistance.mp3": 78.5540833,
+      "wjxq-larung-gar-what-the-valley-holds.mp3": 69.78475
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

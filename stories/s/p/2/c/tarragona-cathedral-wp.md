@@ -1,0 +1,67 @@
+# Tarragona Cathedral
+
+A cathedral built where a Roman temple, a Visigothic church, and a Moorish mosque once stood, its stones blending Romanesque weight with Gothic aspiration across eight centuries of continuous worship.
+
+**Location:** 41.1192, 1.2581
+
+**Categories:** cathedral, architecture, romanesque, gothic, catalonia, religious-site
+
+## Introduction
+
+An Arab inscription from the year 960 still clings to the wall of the eastern cloister gallery. It belonged to the mosque that once occupied this hilltop, which itself had replaced a Visigothic cathedral, which had replaced a Roman temple built during the reign of Tiberius. The Primatial Cathedral of Tarragona does not merely stand on history - it is built from it, literally and architecturally. Begun in 1154 and declared a national monument in 1905, this transitional Romanesque-Gothic structure carries the DNA of every civilization that has claimed this corner of Catalonia. Its columns bear capitals with Moorish motifs. Its cloister drains rainwater through a Roman sewer that was still functioning when medieval masons laid their stones above it.
+
+## Where Romanesque Meets Gothic
+
+The cathedral's architecture captures a moment of stylistic transition. Its basilica plan - a nave and two aisles, a transept with unequal arms, three semicircular apses - speaks the language of Romanesque solidity, while the ogival windows and pointed arches reaching toward a 26-meter-high dome announce the Gothic ambitions that overtook the project as construction stretched across decades. The nave runs 101 meters from end to end, a substantial interior space where Romanesque archivolts and Gothic stained glass exist within the same walls. The octagonal tower-dome, built in the mid-13th century, bridges the two styles with a cross-vaulted ceiling that feels both grounded and reaching. Beneath it, the presbytery preserves a Romanesque pavement of colored stone and marble arranged in geometric patterns - a floor older than the walls above it.
+
+## A Gallery of Devotion
+
+Eighteen chapels line the cathedral's interior, each a capsule of its era's artistic ambitions. The Chapel of St. Mary of the Taylors, built before 1350, contains a polychrome stone altarpiece by Aloi de Montbrai from 1368 - work of extraordinary delicacy for carved stone. The Major Chapel holds Pere Johan's Gothic masterpiece in polychrome alabaster, created between 1426 and 1434, its figures alive with a naturalism that pushes against the conventions of medieval sculpture. The Chapel of the Holy Sepulchre houses a 4th-century Roman sarcophagus fitted with Gothic additions by an anonymous Valencian sculptor, a single object spanning over a thousand years of craftsmanship. Francisco Gomar carved the choir stalls from oak in the 15th century. The late 16th-century organ, designed by architect Jaume Amigo, still occupies its original position. Layer upon layer, the chapels accumulate like geological strata.
+
+## The Unfinished Face
+
+The main facade was never completed, and its unfinished state is part of its character. Three portals open onto the square - the central one Gothic, with ogival arcades echoing the cathedrals of Amiens and Reims, the flanking two Romanesque. Above the central portal, a rose window 11 meters in diameter dominates the facade, its twelve spokes representing either the twelve tribes of Israel or the twelve apostles, depending on which tradition you follow. Master Bartolomeu executed the main gate between 1277 and 1291, filling the tympanum with a Last Judgment scene presided over by Christ and angels. Jaume Cascalls and his workshop added figures of saints and prophets to the archivolts in 1375. A statue of the Virgin Mary divides the entrance in two; her pedestal depicts the creation of Adam and Eve and the Original Sin. The 15th-century cast iron doors still hang in their frames.
+
+## The Cloister and the Dancing Egg
+
+Construction of the cloister began around 1194, though some scholars push the date to 1214. Its nearly square plan - 47 by 46 meters - encloses a courtyard surrounded by four arcaded galleries, their vaults modeled on the nearby monasteries of Poblet and Vallbona de les Monges. The arcades group three circular arches beneath pairs of small rose windows, all crowned by a large ogival arch with a Moorish-style frieze above it. Sculpted capitals tell biblical stories: the visit of the angels to Abraham, Cain and Abel, scenes from the Genesis and New Testament. The 70-meter Gothic bell tower rises from the southern apse, commissioned by Bishop Roderic Tello between 1289 and 1308 and crowned by a small bell temple added in 1511. Since 1933, the cloister fountain has hosted the tradition of the dancing egg - a hollow egg set spinning on the jet of water during the Corpus Christi festival, bobbing and twirling without falling, a small miracle of physics celebrated as something more.
+
+## Flight Context
+
+Located at 41.12N, 1.26E atop the highest point of Tarragona's old city, overlooking the Mediterranean coast of Catalonia, Spain. The cathedral's 70-meter bell tower is the dominant vertical feature of the old town skyline and is visible from considerable distance. The large cloister and the unfinished facade are distinguishable from moderate altitudes. Nearest airports: Reus Airport (LERS) approximately 8 km west, Barcelona-El Prat (LEBL) 90 km northeast. The cathedral sits within a dense cluster of Roman-era ruins including the nearby amphitheatre and forum.
+
+## Sources
+
+- [Tarragona Cathedral - Wikipedia](https://en.wikipedia.org/?curid=27868254)
+  - Begun 1154 confirmed (some sources say main construction from 1171)
+  - National monument 1905 confirmed
+  - Nave 101 meters confirmed
+  - 26-meter-high dome confirmed
+  - Cloister plan 47 by 46 meters confirmed
+  - Cloister begun circa 1194 or 1214 confirmed (article notes both dates)
+  - 70-meter bell tower confirmed
+  - Bell tower commissioned by Bishop Roderic Tello 1289-1308 confirmed
+  - Small bell temple added 1511 confirmed
+  - Rose window 11 meters diameter confirmed
+  - Master Bartolomeu main gate 1277-1291 confirmed
+  - Jaume Cascalls figures 1375 confirmed
+  - Pere Johan altarpiece 1426-1434 polychrome alabaster confirmed
+  - Aloi de Montbrai altarpiece 1368 Chapel of Taylors confirmed
+  - Francisco Gomar choir stalls oak 15th century confirmed
+  - Dancing egg Corpus Christi tradition since 1933 confirmed
+- [Tarragona Cathedral Official Site](https://catedraldetarragona.com/en/history-cathedral/)
+  - Arab inscription in eastern cloister gallery confirmed
+  - Roman temple from reign of Tiberius confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-14 · 18 facts verified · 0 corrections
+
+All facts verified: construction date 1154, national monument 1905, nave 101m, dome 26m, cloister 47x46m, bell tower 70m, rose window 11m, Pere Johan altarpiece 1426-1434, Aloi de Montbrai 1368, Francisco Gomar choir stalls, Master Bartolomeu gate 1277-1291, Cascalls 1375, dancing egg tradition 1933. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

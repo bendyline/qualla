@@ -1,0 +1,57 @@
+# Simatai
+
+Clinging to the Yan Mountains at grades approaching 80 degrees, the Simatai section of the Great Wall is where the fortification becomes something closer to vertical -- and where, on clear nights, you can see Beijing's lights shimmering 120 km away.
+
+**Location:** 40.6591, 117.2818
+
+**Categories:** Great Wall of China, World Heritage Sites, Ming dynasty architecture, Beijing landmarks
+
+## Introduction
+
+"The Great Wall is the best of the Chinese buildings, and Simatai is the best of the Great Wall." Professor Luo Zhewen, one of China's foremost Great Wall scholars, did not make that claim lightly. At Simatai, 120 kilometers northeast of central Beijing, the wall stops being a horizontal structure and starts climbing nearly vertically up the Yan Mountains, passing through terrain so extreme that some sections are barely 40 centimeters wide. This is the Great Wall at its most dramatic, most dangerous, and most unforgettable.
+
+## Two Dynasties on One Ridge
+
+Simatai's original fortifications date to the Northern Qi dynasty, built between 550 and 577 AD as part of the defensive network protecting the northern frontier. But the wall that clings to these ridges today is primarily a Ming dynasty reconstruction, rebuilt during the reign of the Hongwu Emperor. The Ming builders did not merely follow the ridge; they exploited every defensive advantage the terrain offered, routing the wall along cliff edges and across kilometre-high peaks that would be nearly impossible for any attacking force to scale. A valley divides the Simatai section into eastern and western halves, each with its own character. The western side is more gently sloped, its 20 well-preserved watchtowers marching along a relatively accessible path. The eastern half is another matter entirely -- steeper, wilder, and far more challenging to traverse.
+
+## The Heavenly Ladder and the Sky Bridge
+
+Simatai's most famous features have names that would suit a fantasy novel. The Heavenly Ladder climbs the mountainside at an 80-degree gradient, a section so steep that it feels more like rock climbing than hiking. At its narrowest point, the wall is only half a meter wide. The Ladder leads to Tower 15, known as the Fairy Tower, whose arched doorways are crowned with a carved sculpture of twin lotus flowers. Legend claims it was the dwelling of an antelope reincarnated as an angel who fell in love with a shepherd. From the Fairy Tower, the Sky Bridge extends -- a 100-meter-long segment of wall that narrows to as little as 40 centimeters in places, connecting to the Watching-the-Capital Tower. Walking it requires nerve and a head for heights that most visitors discover they lack.
+
+## Towers That Remember
+
+Each of Simatai's 35 beacon towers carries a name and a story. Tower 14, the Cat's Eye Tower, gets its nickname from the distinctive window openings in its walls. Tower 16, the Watching-the-Capital Tower, stands at 986 meters elevation -- the highest cultural relic in Beijing. Its name is literal: on clear nights, the lights of Beijing shimmer in the distance 120 kilometers to the southwest. The bricks used to build this tower were stamped with the date of their manufacture and the code numbers of the military units that made them, a quality-control system that speaks to the Ming military's organizational precision. Tower 17, the Gathering-of-the-Immortals Tower, marks the eastern terminus accessible from the village of Tangjiazhai. UNESCO designated the Simatai section as part of the Great Wall World Heritage Site, recognizing it as one of the wall's most architecturally significant stretches.
+
+## Closed, Reopened, and Still Wild
+
+Simatai was closed to visitors in June 2010, partly for restoration and partly because the most extreme sections posed genuine safety risks. It reopened in 2014, though access to the steepest eastern portions remains restricted. Tower 12 is typically the last accessible point, generally watched over by a guard who prevents hikers from continuing to the more dangerous sections beyond. Open-air gondolas now carry visitors partway up the mountain, an acknowledgment that the terrain here demands more than casual sightseeing. Even with these concessions to modern tourism, Simatai retains the quality that earned Professor Luo's praise. The wall here was never smoothed out for visitors or rebuilt for photogenic perfection. It follows the mountain as the mountain demanded, tilting and narrowing and climbing in ways that force you to engage with the structure physically rather than merely observing it.
+
+## Flight Context
+
+Located at 40.66N, 117.28E in the Yan Mountains, Miyun District, northeastern Beijing. The wall is visible from the air as a dramatic line clinging to steep ridgelines. The section connects with Jinshanling to the west and guards the approach to Gubeikou pass. Nearest major airport is Beijing Capital International (ZBAA/PEK), approximately 120 km to the southwest. Terrain is extremely mountainous and rugged. Best viewed from 3,000-6,000 feet AGL.
+
+## Sources
+
+- [Simatai - Wikipedia](https://en.wikipedia.org/?curid=2646247)
+  - Northern Qi dynasty origins (550-577) confirmed
+  - Ming dynasty reconstruction under Hongwu Emperor confirmed
+  - 35 beacon towers confirmed
+  - Tower 16 Watching-the-Capital Tower at 986 meters elevation confirmed
+  - 120 km northeast of central Beijing confirmed
+  - Heavenly Ladder 80-degree gradient confirmed
+  - Closed June 2010 confirmed
+  - Reopened 2014 confirmed
+  - Quote from Professor Luo Zhewen confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-19 · 9 facts verified · 0 corrections
+
+Verified Northern Qi origins 550-577, Ming Hongwu reconstruction, 35 towers, Watching-the-Capital Tower 986m elevation, 120km from Beijing, closed 2010 reopened 2014, Professor Luo Zhewen quote. All facts confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 750*
+*Read time: 4 minutes*

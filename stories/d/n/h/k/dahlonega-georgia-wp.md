@@ -1,0 +1,62 @@
+# Dahlonega, Georgia
+
+The Cherokee word means 'yellow,' and the hills delivered on the name -- Dahlonega was the site of America's first significant gold rush, a decade before California, and the phrase 'Thar's gold in them thar hills' was born on its courthouse steps.
+
+**Location:** 34.5325, -83.9850
+
+**Categories:** history, georgia, gold-rush, college-town, wine-country
+
+## Introduction
+
+"Why go to California? In yonder hill lies more riches than anyone ever dreamed of. There's millions in it." In 1849, Dr. Matthew Fleming Stephenson stood on the balcony of the Lumpkin County Courthouse and pointed at the distant Findley Ridge, trying to keep his miners from leaving for the West. The phrase traveled with them anyway -- repeated in California mining camps until it reached the ears of a young Samuel Clemens, who used it so often in The Gilded Age that it entered the American language. Over time it mutated into its more famous form: "Thar's gold in them thar hills." The courthouse still stands in the center of Dahlonega's public square. The town's name comes from the Cherokee word Da-lo-ni-ge-i, meaning simply "yellow."
+
+## Gold Fever on Cherokee Land
+
+In 1829, the first documented discovery of gold in Georgia sent thousands of prospectors flooding into the North Georgia mountains. The frontier of Georgia bordered the Cherokee Nation, and during the winter of 1829 to 1830, white miners began illegally crossing the Chestatee River into Cherokee territory in search of the metal. Federal troops were sent to remove them, but it was futile. By 1831, Governor George Gilmer realized the trespassers could not be controlled and saw an opportunity to claim the remaining Cherokee lands. In 1832, the Georgia legislature carved ten new counties from the Cherokee Nation without regard to sovereignty. Lumpkin County, named for Governor Wilson Lumpkin, was created in December 1832. A year later the town of Taloneka was designated the county seat. The spelling was later changed to Dahlonega, derived from the Cherokee word for yellow.
+
+## The Mint That Stamped Gold Coins
+
+The abundance of gold in North Georgia prompted the United States Treasury Department to build a branch mint in Dahlonega. Constructed in 1838, the mint operated for twenty-four years, allowing local miners to convert raw gold into hard currency without the expense and risk of shipping it to Philadelphia. The Dahlonega Mint struck only gold coins -- in denominations of one dollar, two dollars and fifty cents (the quarter eagle), three dollars (in 1854 only), and five dollars (the half eagle). A sister mint opened the same year in Charlotte, North Carolina. When the Civil War began in 1861, the Dahlonega Mint closed for lack of materials and manpower. The government never reopened it. By then, the California rush had made the San Francisco and Philadelphia mints sufficient for the nation's coinage needs. Today, surviving Dahlonega-minted coins are among the most prized pieces in American numismatics.
+
+## From Mint to Military College
+
+After the Civil War, the vacant mint building served briefly as barracks for garrisoned Union troops and as a school for freed Black students. In 1871, Congressman William P. Price petitioned the government to convert the old mint into a college. Two years later, the North Georgia Agricultural College opened its doors on the site. The institution has changed names multiple times -- North Georgia College, North Georgia College and State University -- and is now the University of North Georgia, one of six senior military colleges in the country. Its administration building, Price Memorial Hall, carries a spire covered in gold leaf sourced from local deposits. That same Dahlonega gold also covers the rotunda dome of the Georgia State Capitol in Atlanta, a glittering reminder that Georgia's gold country delivered on its promises long before California ever did.
+
+## Wine Country and Bear Festivals
+
+Modern Dahlonega has traded gold pans for wine glasses. Lumpkin County has been recognized as the heart of North Georgia Wine Country, with multiple vineyards and five licensed wineries drawing tourists to the area. The historic Dahlonega Square, anchored by the old courthouse that now houses the Gold Museum, is filled with gift shops, restaurants, art galleries, and wine-tasting rooms. In 2015, a Georgia Senate resolution officially designated Lumpkin County the Wine Tasting Room Capital of Georgia. The town's festivals keep the square packed. "Bear on the Square," held each April, commemorates the day a black bear wandered into the town center and features bluegrass and old-time music. "Gold Rush Days" in October draws more than two hundred thousand visitors. Country artist Ashley McBryde put the town in a song -- "A Little Dive Bar in Dahlonega" -- and the video game Red Dead Redemption 2 used Dahlonega as the inspiration for the fictional town of Rhodes.
+
+## Flight Context
+
+Dahlonega is located at 34.53N, 83.99W in the foothills of the North Georgia mountains, at the northern terminus of Georgia Highway 400. The town sits on a low ridge, with Cane Creek draining to the west and Yahoola Creek to the east, both flowing south to the Chestatee River. From the air, look for the distinctive public square at the town center and the University of North Georgia campus with its gold-leafed spire on Price Memorial Hall. The nearest airport is Lee Gilmer Memorial Airport (KGVL) in Gainesville, approximately 20nm to the southeast. Amicalola Falls State Park is visible to the west. The surrounding terrain is mountainous and forested -- Crown Mountain anchors the southern part of the city. Approach carefully in the foothills; terrain rises quickly to the north. Best viewed from 3,000-4,000 feet AGL for context of the town nestled in the mountains.
+
+## Sources
+
+- [Dahlonega, Georgia - Wikipedia](https://en.wikipedia.org/?curid=110235)
+- [Dahlonega Mint - Wikipedia](https://en.wikipedia.org/wiki/Dahlonega_Mint)
+  - mint constructed 1838 confirmed
+  - coin denominations $1, $2.50, $3 (1854 only), $5 confirmed
+  - mint operated 1838-1861 = 24 years -- CORRECTED in story (was 'twenty-three years')
+  - sister mint in Charlotte NC confirmed
+  - Charlotte and Dahlonega mints opened same year confirmed
+- [Georgia Gold Rush - Wikipedia](https://en.wikipedia.org/wiki/Georgia_Gold_Rush)
+  - 1829 gold discovery confirmed
+  - Cherokee Nation territory flooding by miners confirmed
+  - Lumpkin County created December 1832 confirmed
+- [Dahlonega Gold Rush - Today In Georgia History](https://www.todayingeorgiahistory.org/tih-georgia-day/dahlonega-gold-rush/)
+  - 'Thar's gold in them thar hills' phrase origin at Dahlonega courthouse confirmed
+  - Dr. Matthew Fleming Stephenson speech in 1849 confirmed
+  - University of North Georgia formerly North Georgia Agricultural College confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 12 facts verified · 1 correction
+
+Verified 1829 gold rush, 1838 mint opening, coin denominations confirmed (/.50/ 1854 only/). Minor inaccuracy: story says mint operated 'twenty-three years' but it operated 24 years (1838-1861). University of North Georgia history confirmed. 'Thar's gold in them thar hills' origin at Dahlonega courthouse confirmed.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 810*
+*Read time: 4 minutes*

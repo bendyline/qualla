@@ -1,0 +1,61 @@
+# Battle of Weihaiwei
+
+The last major battle of the First Sino-Japanese War, where a Chinese admiral refused surrender and chose death, and the fall of a fortress considered superior to Hong Kong shattered Qing maritime power.
+
+**Location:** 37.4970, 122.1710
+
+**Categories:** military, history, maritime
+
+## Introduction
+
+"I am thankful for the admiral's friendship, but I cannot forsake my duties to the state. The only thing now remaining for me to do is to die." With those words, Admiral Ding Ruchang declined an offer of asylum from his old friend, Japanese Admiral Ito Sukeyuki, and swallowed a fatal dose of opium in his headquarters on Liugong Island. It was February 1895, and the naval base at Weihaiwei -- designed with German expertise and once boasted by a British advisor to be impregnable -- had fallen. China's last major fleet lay broken in the harbor. The First Sino-Japanese War was effectively over.
+
+## An Impregnable Fortress
+
+Weihaiwei was not supposed to fall. The base sat on the Shandong Peninsula's northeastern coast, its harbor guarded by twelve land fortifications bristling with Krupp and Armstrong cannons, two fortified islands, and booms stretched across the harbor entrances to block enemy ships. Inside the harbor rode seventeen warships of the Beiyang Fleet, including the battleship Dingyuen and several protected cruisers, plus thirteen torpedo boats. Captain William M. Lang, a British military advisor to the fleet, had declared the base impregnable as recently as autumn 1894. Western observers considered the defenses superior to Hong Kong. The garrison of 10,600 men, reinforced by naval personnel, seemed adequate to hold.
+
+## A Landing Timed to Chinese New Year
+
+The Japanese campaign was a model of combined-arms coordination. On January 18, 1895, cruisers bombarded the town of Dengzhou, a hundred miles west of Weihaiwei, as a diversion. While Chinese attention turned westward, the Japanese Second Army under General Oyama Iwao landed at Rongcheng to the east. The 2nd Division under Lieutenant General Sakuma Samata and the 6th Division under General Kuroki Tamemoto put troops ashore without opposition by January 22. The timing was deliberate: the invasion coincided with Chinese New Year. The two Japanese columns converged on Weihaiwei by January 29, encountering no resistance. On January 30, they launched a three-pronged attack on the landward fortifications in blizzard conditions with temperatures dropping to minus six degrees Celsius.
+
+## The Noose Tightens
+
+The Beiyang Army fought for roughly nine hours before retreating, leaving the fortifications largely intact -- and their guns in Japanese hands. Major General Odera Yasuzumi, the highest-ranking Japanese casualty of the entire war, fell during the assault. By February 2, Japanese troops entered the town of Weihai unopposed, its garrison having fled overnight. With captured Chinese guns now aimed at the Beiyang Fleet from the shore, Admiral Ding's position became desperate. On February 4, the Japanese removed the harbor boom, and torpedo boats began nightly attacks on the anchored Chinese ships. A combined fleet attack on February 7 severely damaged the Dingyuen and sank three other vessels. When Chinese torpedo boat crews mutinied and tried to escape, six boats were destroyed and seven captured.
+
+## An Admiral's Final Letter
+
+Admiral Ito's appeal to Ding Ruchang was remarkable for its personal tone. The two men knew each other, and Ito's letter expressed genuine regret at meeting his friend as an enemy. He urged Ding to capitulate, accept asylum in Japan, and return to China after the war to help reform the nation. Ding was visibly moved but chose suicide instead. His deputy, Admiral Liu Buchan, ordered his own warship scuttled by explosives, then also took his life. Command devolved to the Scottish-born Vice-Admiral John McClure, who wrote a surrender in Ding's name. Ito agreed to all terms, including safe passage for Chinese troops and civilians, and insisted that Ding's body be treated with respect. With Weihaiwei's fall, Prince Gong abolished China's Admiralty Board in Beijing. The country no longer had a navy to administer.
+
+## The Price of Defeat
+
+Weihaiwei was the last major battle before the Treaty of Shimonoseki forced China to cede Taiwan and recognize Korean independence. The Japanese had secured the seaward approach to Beijing and eliminated the Beiyang Fleet as a fighting force. Foreign observers praised the speed of the campaign, but the human cost weighed differently on either side of the conflict. Ding Ruchang, who chose death over surrender, became a tragic hero in both Chinese and Japanese memory. The Battle of Yingkou and minor skirmishes would follow, but the strategic question had been settled in Weihaiwei's harbor. China's attempt to build a modern navy capable of defending its coastline had ended in a defeat that would shape its national consciousness for generations.
+
+## Flight Context
+
+The battle took place at Weihaiwei (modern Weihai) at approximately 37.50N, 122.17E, on the northeastern tip of the Shandong Peninsula. Weihai Dashuibo Airport (ZSWH) serves the city. Liugong Island, where Admiral Ding's headquarters stood, is visible in the harbor. The harbor fortifications were on the hills surrounding the bay. The Shandong Peninsula coastline and the Yellow Sea are prominent visual features from altitude.
+
+## Sources
+
+- [Battle of Weihaiwei - Wikipedia](https://en.wikipedia.org/?curid=6566601)
+  - Admiral Ding Ruchang died by opium overdose at Liugong Island headquarters
+  - Ito Sukeyuki offered asylum; Ding declined
+  - fall occurred February 1895
+  - Liu Buchan ordered scuttling and took his own life
+  - Japanese controlled captured Chinese shore guns
+  - John McClure wrote surrender in Ding's name
+- [Ding Ruchang - Wikipedia](https://en.wikipedia.org/wiki/Ding_Ruchang)
+  - Ding was posthumously stripped of ranks by Qing government
+  - Ito's letter expressed personal regret at meeting friend as enemy
+
+## Review Notes
+
+**Reviewed:** 2026-03-19 · 6 facts verified · 0 corrections
+
+Verified Admiral Ding Ruchang's death by opium, Ito's asylum offer, Liu Buchan's actions, fortress details. All facts confirmed. Language clean, spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 830*
+*Read time: 5 minutes*

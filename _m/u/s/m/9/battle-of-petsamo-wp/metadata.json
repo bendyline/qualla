@@ -87,5 +87,24 @@
   ],
   "galleryPaths": [
     "_m/u/s/m/9/battle-of-petsamo-wp/murmansk_region_relief.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "usm9-battle-of-petsamo-flight-context.mp3",
+      "usm9-battle-of-petsamo-intro.mp3",
+      "usm9-battle-of-petsamo-a-detachment-named-for-its-captain.mp3",
+      "usm9-battle-of-petsamo-an-army-against-a-company.mp3",
+      "usm9-battle-of-petsamo-the-stand-at-nautsi.mp3",
+      "usm9-battle-of-petsamo-the-price-of-petsamo.mp3"
+    ],
+    "durations": {
+      "usm9-battle-of-petsamo-flight-context.mp3": 46.6379166,
+      "usm9-battle-of-petsamo-intro.mp3": 50.3752083,
+      "usm9-battle-of-petsamo-a-detachment-named-for-its-captain.mp3": 64.3524166,
+      "usm9-battle-of-petsamo-an-army-against-a-company.mp3": 52.93525,
+      "usm9-battle-of-petsamo-the-stand-at-nautsi.mp3": 62.8898333,
+      "usm9-battle-of-petsamo-the-price-of-petsamo.mp3": 74.366875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

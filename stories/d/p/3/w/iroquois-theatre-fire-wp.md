@@ -1,0 +1,65 @@
+# Iroquois Theatre Fire
+
+On December 30, 1903, a fire during a matinee at Chicago's "absolutely fireproof" Iroquois Theatre killed 602 people -- the deadliest single-building disaster in American history until September 11, 2001 -- and forever changed how buildings are designed for human escape.
+
+**Location:** 41.8847, -87.6286
+
+**Categories:** chicago, disaster, fire, theater, 1903, building-safety
+
+## Introduction
+
+The theater had been open for five weeks. The advertisements called it "absolutely fireproof." On the afternoon of December 30, 1903, an estimated 2,200 people -- many of them women and children on holiday outings -- packed the Iroquois Theatre on West Randolph Street for a matinee of the musical "Mr. Blue Beard." Comedian Eddie Foy, preparing to take the stage as Sister Anne, later wrote: "It struck me as I looked out over the crowd during the first act that I had never before seen so many women and children in the audience. Even the gallery was full of mothers and children." Within the hour, 575 of those people would be dead, with dozens more dying in the weeks that followed. The Iroquois Theatre fire remains the deadliest theater fire in American history and the deadliest single-building disaster in the nation's history until the destruction of the World Trade Center nearly a century later.
+
+## Sparks in the Pale Moonlight
+
+At about 3:15 PM, shortly after the second act began, eight men and eight women were performing the musical number "In the Pale Moonlight" under blue-tinted spotlights. Sparks from an arc lamp ignited a muslin curtain. Lamp operator William McMullen had reported that the lamp was too close to the curtain, but stage managers had offered no solution. McMullen clapped at the flames, but they raced up the fabric and into the fly gallery, where thousands of square feet of painted canvas scenery hung. Theater fireman William Sallers tried to fight the fire with Kilfyre canisters -- tin tubes of sodium bicarbonate powder meant for chimney fires, hurled at the base of flames. The fire was overhead. The powder fell uselessly to the ground.
+
+## A Curtain Made of Wood Pulp
+
+Stagehands tried to lower the asbestos safety curtain, the last line of defense between the stage and the audience. It jammed partway down, snagged on a light reflector protruding from under the proscenium arch. Later analysis revealed a crueler truth: the curtain was not even fireproof. Chemist Gustave Johnson of the Western Society of Engineers found it was "largely wood pulp" mixed with just enough asbestos to pass inspection. With the curtain stuck and the smoke vents above the stage nailed shut, the fire had nowhere to go but outward. A fireball ducked under the jammed curtain and streaked through the auditorium toward the dress circle and gallery, incinerating everything flammable in its path -- including people still trapped in their seats.
+
+## Locked Doors and Hidden Exits
+
+Those in the orchestra section escaped through the foyer. Those in the balconies faced a death trap. The theater had only one entrance. Exit doors were concealed behind drapery, with no exit signs. Some doors opened inward, jamming as crowds pressed against them. Others used an unfamiliar European bascule latch that locked tighter as people pushed. Iron gates blocked secondary stairways to prevent cheap-ticket holders from sneaking to better seats. There was no emergency lighting -- the electrical box was destroyed early, plunging the auditorium into darkness lit only by flames. The staff had never practiced a fire drill. There was no fire alarm box, no telephone. A stagehand had to run on foot to the nearest firehouse. Corpses were found stacked ten feet high at blocked exits.
+
+## The Alley Called Couch Place
+
+People who found the fire escapes on the north side encountered another horror. One escape was improperly installed, causing people to trip as they exited. The narrow, icy platforms hung above a cramped alley called Couch Place, too tight for aerial ladders and thick with smoke that hid the safety nets below. People jumped or fell to their deaths. Students from a Northwestern University building across the alley tried to bridge the gap with a ladder and then with boards, saving a few who could manage the makeshift crossover. The Chicago Fire Department's Engine 13 was not alerted until a stagehand reached them on foot. By the time firefighters arrived at approximately 3:33 PM, the worst was already over. An estimated 575 people had died in roughly fifteen minutes.
+
+## Every Exit Door You Have Ever Pushed Open
+
+The Iroquois Theatre fire killed 602 people in total, including those who died of injuries in the following weeks. Of the approximately 300 performers and stagehands, only five died -- among them aerialist Nellie Reed, who had been waiting above the stage for her entrance as a fairy, to shower the audience with pink carnations. The catastrophe reshaped building codes worldwide. The panic bar -- the horizontal push-bar on every emergency exit -- saw widespread adoption because of this fire. Fire curtains were required to be tested before each performance. Exit doors were mandated to open outward, so that the pressure of fleeing crowds would hold them open rather than slam them shut. Exit signs became mandatory. The theater was rebuilt and operated as the Colonial Theatre until 1925, when it was demolished and replaced by the Oriental Theatre, now called the Nederlander Theatre. The Iroquois Memorial Hospital was built as a memorial, with a bronze bas-relief by sculptor Lorado Taft. Chicago held an annual memorial service at City Hall until the last survivors died.
+
+## Flight Context
+
+Located at 41.88N, 87.63W on West Randolph Street in Chicago's Loop theater district, between State Street and Dearborn Street. The original theater site is now the Nederlander Theatre (formerly the Oriental Theatre), identifiable from low altitude as part of the dense theater district along Randolph Street. Chicago O'Hare International Airport (KORD) is 14 nautical miles northwest; Chicago Midway International Airport (KMDW) is 8 nautical miles southwest. The site sits within Class B airspace. The Chicago River to the north and the elevated 'L' tracks provide visual reference for locating the theater district.
+
+## Sources
+
+- [Iroquois Theatre fire - Wikipedia](https://en.wikipedia.org/?curid=737262)
+- [Iroquois Theatre Fire - Smithsonian Magazine](https://www.smithsonianmag.com/history/how-theater-blaze-killed-hundreds-forever-changed-way-we-approach-fire-safety-180969315/)
+  - 602 total deaths confirmed (575 on the day, additional deaths in following weeks)
+  - theater open approximately five weeks confirmed
+  - fire broke out December 30 1903 confirmed
+  - muslin curtain ignited by arc lamp confirmed
+  - asbestos curtain jammed confirmed
+  - bascule latch doors confirmed
+  - panic bar invention attributed to this fire confirmed
+  - exit doors mandated to open outward confirmed
+- [Iroquois Theatre fire - WTTW Chicago](https://www.wttw.com/chicago-stories/downtown-disasters/the-tragedy-of-the-iroquois-theater-fire)
+  - Couch Place alley confirmed
+  - approximately 2200 attendees confirmed
+  - theater replaced by Colonial Theatre then Oriental Theatre confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 12 facts verified · 1 correction
+
+Batch review: Chicago articles. All key facts verified via web search.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 870*
+*Read time: 4 minutes*

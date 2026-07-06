@@ -85,5 +85,26 @@
     "sourceGeohash4": "u82h"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "u82h-ip-massacre-flight-context.mp3",
+      "u82h-ip-massacre-intro.mp3",
+      "u82h-ip-massacre-borders-drawn-in-berlin.mp3",
+      "u82h-ip-massacre-the-week-between.mp3",
+      "u82h-ip-massacre-14-september-1940.mp3",
+      "u82h-ip-massacre-judgment-after-the-war.mp3",
+      "u82h-ip-massacre-what-remains-at-ip.mp3"
+    ],
+    "durations": {
+      "u82h-ip-massacre-flight-context.mp3": 44.96425,
+      "u82h-ip-massacre-intro.mp3": 41.44625,
+      "u82h-ip-massacre-borders-drawn-in-berlin.mp3": 60.2181666,
+      "u82h-ip-massacre-the-week-between.mp3": 65.4864583,
+      "u82h-ip-massacre-14-september-1940.mp3": 70.756125,
+      "u82h-ip-massacre-judgment-after-the-war.mp3": 56.1754166,
+      "u82h-ip-massacre-what-remains-at-ip.mp3": 69.526875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1,0 +1,62 @@
+# Duke of Kent House: Where Quebec Surrendered and a Prince Kept His Mistress
+
+One of the oldest surviving houses in Quebec City, where the Articles of Capitulation ending French rule were signed in 1759, and where a British prince lived for years with his secret lover behind the walls of Old Quebec.
+
+**Location:** 46.8116, -71.2066
+
+**Categories:** historic-buildings, quebec-city, colonial-history, french-canada, british-conquest
+
+## Introduction
+
+On September 18, 1759, five days after the Battle of the Plains of Abraham left both commanding generals dead, a French officer sat down inside a stone house on Rue Saint-Louis and signed away New France. The house belonged to Jean-Baptiste Nicolas Roch de Ramezay, the King's Lieutenant at Quebec, and it was the only suitable building left standing after General Wolfe's artillery had reduced much of the city to rubble. That signature changed a continent. But the house on the corner of Saint-Louis and Haldimand streets had already stood for over a century by then, and it would go on to shelter bishops, judges, a royal scandal, and eventually a foreign consulate -- accumulating nearly four hundred years of stories behind a facade that has barely changed since 1819.
+
+## Foundations of New France
+
+The house traces its origins to around 1650, when Louis d'Ailleboust de Coulonge, the fourth Governor of New France, and his wife Marie-Barbe de Boulogne had a home built on this site. That makes its foundations among the oldest in Quebec City. After the governor's wife died in 1665, the property passed to the Hotel-Dieu de Quebec, then was sold in 1671 to Louis-Theandre Chartier de Lotbiniere, the Lieutenant-General of Quebec's courts. The Lotbiniere family occupied the house for four generations. A 1713 sale document describes the building in remarkable detail: masonry construction, roughly fifty feet by thirty, two stories with a mansard roof, four rooms with fireplaces, a kitchen, storerooms, a masonry well in the front yard, and fruit trees and an ice house in the garden. It was a prosperous household in a frontier colony, solid and permanent in a way that declared its owners intended to stay.
+
+## The Signature That Ended an Empire
+
+In 1758, Jean-Baptiste Nicolas Roch de Ramezay purchased the house. He was the son of Governor Claude de Ramezay and had grown up in Montreal at the Chateau Ramezay his father had built. Promoted to King's Lieutenant at Quebec, de Ramezay arrived just as the Seven Years' War was closing in. After the devastating British bombardment of Quebec City and the French defeat on the Plains of Abraham, de Ramezay found himself in an impossible position. The house on Rue Saint-Louis was one of the few structures in the upper town that had escaped Wolfe's artillery. On September 18, 1759, de Ramezay met Governor-General James Murray there and signed the Articles of Capitulation of Quebec, formally surrendering the city. The document sealed inside those old stone walls marked the beginning of the end of French sovereignty in North America.
+
+## A Prince and His Forbidden Love
+
+The house's most colorful chapter began in August 1791, when Prince Edward, Duke of Kent and Strathearn -- the future father of Queen Victoria -- arrived in Quebec City. He leased the property from Judge Adam Mabane for 90 pounds per year and moved in with a woman he introduced as Julie de St. Laurent, described as a widow. She was actually Madame Alphonsine-Therese-Bernardine-Julie de Montgenet de St. Laurent, wife of Baron de Fortisson, a colonel in the French service. Edward had met her through her husband in Geneva; they became lovers, and King George III, furious at the affair, had his son posted to Gibraltar -- where Edward arranged to have Julie smuggled in. When the king discovered they were still together, he shipped Edward off to Quebec as colonel of the 7th Fusiliers. For three years, the prince and his companion hosted lavish dinners at what Pierre-Ignace Aubert de Gaspe called "his fine residence" on Saint-Louis Street, though Edward preferred their summer home near Montmorency Falls. Julie presided over the household "with dignity and propriety" for twenty-eight years before Edward's dynastic marriage in 1818 ended the relationship. She retreated to Paris, where she lived quietly among family and friends until her death in 1830, buried at Pere Lachaise Cemetery.
+
+## Survivors and Close Calls
+
+Judge Mabane, the house's owner during the prince's tenancy, died in 1792 after catching a cold while lost in a snowstorm on the Plains of Abraham. His sister Isabella inherited the property and leased it to Jacob Mountain, the first Anglican Bishop of Quebec. In 1819, Judge Olivier Perrault purchased and expanded the building, giving it the exterior appearance it retains to this day. The house survived its closest brush with destruction in 1927, when brothers William Evan and David Edward Price bought it with plans to demolish it and build modern offices for Price Brothers & Company. Public outcry forced them to build their office tower elsewhere in Old Quebec -- the Edifice Price, which itself became a landmark. The old house on the corner endured. From 1980 to 2015, it served as the French Consulate, a fitting role for a building that had witnessed the transfer of French sovereignty two centuries earlier.
+
+## Flight Context
+
+Located at 46.8116°N, 71.2066°W in the heart of Old Quebec, immediately behind the Chateau Frontenac hotel. From the air, look for the distinctive green copper roofs of the Frontenac on the promontory above the St. Lawrence River; Kent House sits on the corner of Rue Saint-Louis and Haldimand, one block south of the hotel. The fortified walls of Old Quebec are clearly visible, with the Citadelle to the southwest and the Plains of Abraham stretching behind the ramparts. Nearest airport is Quebec City Jean Lesage International (CYQB), approximately 15 km west. The St. Lawrence River narrows dramatically at this point, with the city of Levis visible on the south shore.
+
+## Sources
+
+- [Duke of Kent House, Quebec - Wikipedia](https://en.wikipedia.org/?curid=28260969)
+  - Articles of Capitulation signed September 18, 1759 at the house
+  - House foundations date to around 1650
+  - d'Ailleboust described as 4th Governor of New France (per Wikipedia source article)
+  - Prince Edward arrived August 1791 and leased from Judge Mabane for 90 pounds per year
+  - House served as French Consulate from 1980 to 2015
+- [Madame de Saint-Laurent - Wikipedia](https://en.wikipedia.org/wiki/Madame_de_Saint-Laurent)
+  - Corrected: story claimed Julie 'retired to a Paris convent, later remarried, and eventually returned to the Quebec City area' -- Wikipedia states she retreated to Paris, lived among family and friends, and died there in 1830 at Père Lachaise Cemetery; no convent, no remarriage, no return to Quebec
+  - 28-year relationship with Duke of Kent confirmed
+  - Edward's dynastic marriage in 1818 ended the relationship
+
+## Review Notes
+
+**Reviewed:** 2026-02-27 · 10 facts verified · 1 correction
+
+Corrected Julie de Saint-Laurent's fate after 1818: story falsely claimed she retired to a Paris convent, later remarried, and returned to Quebec City. Wikipedia and Dictionary of Canadian Biography confirm she retreated to Paris, lived quietly with family and friends, and died there in 1830 at Pere Lachaise. No convent, no remarriage, no return to Quebec.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- That signature changed a continent
+- It was culture as persistence, art as an act of identity (implied voice about Quebec identity)
+
+---
+
+*Word count: 815*
+*Read time: 4 minutes*

@@ -725,5 +725,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u24p-lake-bled-flight-context.mp3",
+      "u24p-lake-bled-intro.mp3",
+      "u24p-lake-bled-ice-stone-and-bronze.mp3",
+      "u24p-lake-bled-the-island-and-its-ninety-nine-steps.mp3",
+      "u24p-lake-bled-boats-built-by-hand-rowed-while-standing.mp3",
+      "u24p-lake-bled-a-castle-a-cream-cake-and-a-rowing-course.mp3"
+    ],
+    "durations": {
+      "u24p-lake-bled-flight-context.mp3": 48.4872916,
+      "u24p-lake-bled-intro.mp3": 38.8772916,
+      "u24p-lake-bled-ice-stone-and-bronze.mp3": 61.1123333,
+      "u24p-lake-bled-the-island-and-its-ninety-nine-steps.mp3": 45.7968333,
+      "u24p-lake-bled-boats-built-by-hand-rowed-while-standing.mp3": 62.2409583,
+      "u24p-lake-bled-a-castle-a-cream-cake-and-a-rowing-course.mp3": 85.061625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

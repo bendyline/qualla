@@ -1,0 +1,59 @@
+# Skippers Canyon
+
+A 22-kilometre gorge north of Queenstown where two Maori miners pulled 300 ounces of gold from a riverbank in a single afternoon, where New Zealand's first hydroelectric power was generated, and where the access road still voids your rental car insurance.
+
+**Location:** -44.8789, 168.6260
+
+**Categories:** canyon, gold-rush, historic, new-zealand
+
+## Introduction
+
+Rental car companies in Queenstown make you sign a waiver. Drive the road into Skippers Canyon, they warn, and your insurance ceases to exist. This is not a marketing gimmick or an abundance of caution - Skippers Road is a single-lane shelf carved into cliff faces, with sheer drops of several hundred metres and no guardrails, winding 22 kilometres into a gorge that once held one of the richest gold strikes in the Southern Hemisphere. The road was built to serve miners, not to comfort tourists, and it has not changed its mind about that in the century and a half since.
+
+## Four Ounces in Three Hours
+
+In November 1862, Thomas Arthur and Harry Redfern were prospecting near what is now Arthurs Point when they pulled four ounces of gold from the riverbed in three hours. They made no effort to keep it secret. Word spread through Otago with the speed that only the promise of gold can generate, and within weeks the hillsides above the Shotover River were crawling with men carrying pans and picks and ambitions. This was the beginning of one of the largest rushes in Otago's history, and the canyon that the Shotover had spent millennia carving became the stage for a frantic, improvised economy built on luck and labor. Miners scrambled over trackless hills to reach the river, because the Shotover itself was too deep and swift to follow. They descended wherever they could, working beaches that were often accessible only by rope or by nerve.
+
+## Gold at Maori Point
+
+Among the prospectors who pushed deeper into the canyon were two Maori miners, Dan Ellison - whose Maori name was Raniera Erihana - and Hakaria Maeroa. They reached a secluded gorge and spotted promising rock formations on the opposite shore. When they attempted to cross the river, one of their dogs was swept away by the current. Ellison plunged in after it, rescued the animal, and upon reaching the far bank noticed gold particles glinting in the rock crevices. He and Maeroa began working the sandy beach beneath. By nightfall, they had gathered 300 ounces of gold - roughly 8.5 kilograms of precious metal, pulled from the earth in a single afternoon. The site became known as Maori Point, and their strike remains one of the most remarkable individual finds of the entire Otago gold rush. It was wealth extracted not by industrial machinery but by observation, courage, and a dog that needed rescuing.
+
+## Powered by Falling Water
+
+By the 1880s, the easy gold was gone and what remained required industrial methods to extract. In 1886, Skippers Canyon became the first place in New Zealand where hydroelectric power was generated, harnessing the very river that had drawn the miners in the first place to power the equipment needed to continue mining its banks. It was a practical innovation born of necessity - the canyon was too remote for coal-fired steam engines to be viable, and the Shotover's gradient provided exactly the kind of reliable energy that sluicing and dredging demanded. The fact that New Zealand's hydroelectric story begins not in some purpose-built facility but in a remote gold-mining gorge speaks to the improvised ingenuity that defined the rush. Miners solved problems with whatever the landscape offered, and the landscape, in this case, offered a fast river with a steep drop.
+
+## The Bridge Above the Gorge
+
+The first bridge across the Shotover at Skippers Point was a suspension structure begun in 1866, slung just six metres above the water. It flooded regularly and was rebuilt in 1871 at the same low height, because the steep terrain on both banks made higher approaches impractical with the road engineering of the day. When a proper road to Skippers Point was finally completed decades later, plans for a new bridge followed. Construction began in 1898 and took two years. In March 1901, the Minister of Mines officially opened the replacement - a structure spanning the gorge roughly 91 metres above the river, with sheer rock faces dropping away on both sides. By then the gold rush was effectively over, and the bridge served a canyon that was emptying out rather than filling up. Today it is one of the major attractions for visitors, the stone approaches of the original 1866 bridge still visible from Skippers Road below. In the cemetery at the old settlement of Charlestown, a headstone for Lorraine Borrell reads: "My time is up, I've been clocked out. The judge has tapped the gavel. I'll retire the teapot, lay the knitting down and quietly unravel." The canyon has always attracted a certain kind of character.
+
+## Flight Context
+
+Skippers Canyon is located at 44.88S, 168.63E, a 22 km gorge carved by the Shotover River several kilometres north of Queenstown. From the air, the canyon is visible as a deep, narrow cleft cutting through the mountains, with the ribbon of Skippers Road tracing the cliff edges. The Skippers Bridge is identifiable as a crossing point roughly 100 metres above the river. Queenstown Airport (NZQN) is the nearest major airfield, approximately 15 km to the south. Coronet Peak ski area is visible on the southern slopes nearby. Approach with caution - terrain rises steeply on all sides and mountain weather can deteriorate rapidly. Best viewed at 4,000-6,000 feet AGL.
+
+## Sources
+
+- [Skippers Canyon - Wikipedia](https://en.wikipedia.org/?curid=29335175)
+  - Thomas Arthur and Harry Redfern got 4 ounces in 3 hours in November 1862 confirmed
+  - Maori miners Dan Ellison (Raniera Erihana) and Hakaria Maeroa found 300 oz confirmed
+  - Maori Point story confirmed
+  - Hydroelectric power in 1886 (Bullendale, first in New Zealand) confirmed
+  - First suspension bridge started 1866 at 6m above water confirmed
+  - New bridge opened March 1901, height corrected to ~91m (not 100m)
+  - Rental car insurance void on Skippers Road confirmed
+- [Engineering New Zealand - Skippers Canyon Suspension Bridge](https://www.engineeringnz.org/programmes/heritage/heritage-register/skippers-canyon-suspension-bridge/)
+  - Bridge height 91.4 metres above river (corrected from 100m in original text)
+  - Span 96.3 metres
+  - Construction began 1898, opened March 1901
+
+## Review Notes
+
+**Reviewed:** 2026-03-13 · 7 facts verified · 1 correction
+
+Corrected bridge height from 100m to ~91m (actual 91.4m). Verified 1862 discovery, 300 oz Maori Point find, 1886 hydroelectric power (first in NZ). Spiciness 2.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 780*
+*Read time: 4 minutes*

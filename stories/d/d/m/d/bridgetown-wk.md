@@ -1,0 +1,66 @@
+# Bridgetown: The Capital Built on a Bridge the Arawaks Left Behind
+
+Barbados's only city grew from a swampy river crossing where English colonists found an Arawak bridge, drained the estuary, and built a harbor that became the hub of Caribbean trade.
+
+**Location:** 13.0975, -59.6167
+
+**Categories:** barbados, caribbean, capital-city, colonial-history, harbor
+
+## Introduction
+
+The name is almost too literal. When English settlers arrived at the river estuary in 1628, they found a wooden bridge spanning the swamp, built by the Arawak people who had lived here before them. They called the settlement Indian Bridge, drained the marsh, and discovered they had stumbled onto something better than their original colony at St James Town seven miles north: a natural harbor, fertile land, and routes into the island's interior. By 1667, when Sir Tobias Bridge arrived as military commander, the locals saw an opportunity too good to waste. They renamed their town after him. Whether he appreciated the pun is lost to history.
+
+## The Careenage and the Art of Turning a Ship Sideways
+
+At Bridgetown's heart lies the Careenage, the sheltered creek that served as the island's original harbor. The word itself tells you what happened here: to careen a vessel meant hauling it onto a beach and tipping it on its side so workers could scrape barnacles from the hull. It was messy, physical work, and the creek was perfectly sized for it. As ships grew larger and steel-hulled, the method became impractical, so the Victorians built Blackwoods Screw Dock in the 19th century, an ingenious mechanism for jacking vessels out of the water entirely. That device still stands, rusted and forlorn but remarkable in its engineering ambition. The deep-water harbor eventually moved north, leaving the Careenage preserved from industrial development. Today the old warehouses that once stored ship supplies house restaurants and bars, and the south bank is pedestrianized. The Chamberlain Bridge, latest incarnation of the Arawak crossing that started it all, carries foot traffic across the creek.
+
+## A City That Almost Wasn't
+
+Bridgetown holds a peculiar distinction: it was officially incorporated as a city for only nine years, from 1958 to 1967. Before and after that brief spell, it has functioned as a constituency within the government of Barbados, a capital without formal city status. The irony is not lost on Barbadians. Parliament sits here. The political establishment operates here. The commercial center of the island radiates from its streets. Many islanders suspect that Bridgetown governs Barbados rather than the other way around, regardless of what the administrative designation says. The city center clusters around Broad Street, Swan Street, and the Cheapside Market, where the rhythms of daily commerce have continued largely unchanged even as cruise ships began disgorging tourists at the harbor a mile north.
+
+## The Garrison and a Founding Father's Sojourn
+
+A mile south of the Careenage, the Garrison Savannah district preserves Bridgetown's military past in coral stone and parade-ground geometry. Throughout the 18th and 19th centuries, this was a British military base, its Savannah serving as parade ground and sports field. The parade ground is now the island's horse-racing track, an elegant repurposing that would have amused the redcoats. Among the district's attractions is the George Washington House, where a 19-year-old George Washington stayed during his only trip outside what would become the United States, visiting Barbados in 1751 with his half-brother Lawrence, who was seeking treatment for tuberculosis. St Ann's Fort remains an active military installation and is off limits, but Needham's Point, beyond the base, offers Charles Fort's artillery position and a lighthouse within the grounds of the Hilton Hotel, accessible to the public.
+
+## Rum, Cricket, and the Barbadian Way
+
+Two institutions define Bridgetown's cultural identity. The first is rum. Mount Gay Distillery sits a mile north, and Stade's West Indies Rum Distillery, maker of Malibu liqueur, occupies North Brighton Road. The island's relationship with sugarcane and its distilled products runs centuries deep, and in Bridgetown you can trace that history from plantation economics to waterfront cocktails. The second is cricket. The Kensington Oval, just outside the city center, has hosted international matches since 1882, and Barbados has produced a disproportionate number of the sport's legends, including the celebrated "Three W's" -- Frank Worrell, Clyde Walcott, and Everton Weekes -- commemorated with a monument at the ground. In Bridgetown, rum and cricket are not leisure activities. They are the gravitational forces around which island life orbits.
+
+## Approaching from Above
+
+From the air, Bridgetown reveals its logic. The sheltered creek of the Careenage cuts into the coastline, the Garrison's grid spreads to the south, and the deep-water harbor extends northward where cruise ships dock. The island itself is only 21 miles long and 14 miles wide, and Bridgetown sits on its southwestern coast, the lee side sheltered from the Atlantic. Grantley Adams International Airport lies eight miles to the east, though departure boards worldwide still list it simply as Bridgetown. Almost all of the island's bus routes converge on the city, making it the transportation hub as well as the political and commercial center. For an island of roughly 280,000 people, this small capital punches far above its weight.
+
+## Flight Context
+
+Located at 13.10°N, 59.62°W on the southwestern coast of Barbados. From altitude, the city appears as the island's main urban concentration on the sheltered Caribbean side, with the Careenage creek and harbor visible along the coastline. The Garrison Savannah district is identifiable south of center. Grantley Adams International Airport (TBPB) lies 8 miles east. Barbados is the easternmost Caribbean island, roughly 100 miles east of St. Vincent. Recommended viewing altitude: 3,000-5,000 feet for city detail.
+
+## Sources
+
+- [Bridgetown - Wikivoyage](https://en.wikivoyage.org/?curid=4693)
+- [Bridgetown - Wikipedia](https://en.wikipedia.org/wiki/Bridgetown)
+  - English settlers arrived 1628 and found Arawak bridge confirmed
+  - Settlement called Indian Bridge confirmed
+  - City status 1958-1967 confirmed
+  - Careenage harbor described accurately
+  - George Washington visit 1751 with Lawrence confirmed
+  - Horse racing at Garrison Savannah confirmed
+  - Three Ws (Worrell, Walcott, Weekes) confirmed
+  - Population approximately 280,000 confirmed
+  - Island 21 miles long and 14 miles wide confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-12 · 9 facts verified · 0 corrections
+
+Verified 1628 founding with Arawak bridge, city status 1958-1967, George Washington 1751 visit, Three Ws cricket, population ~280,000, island dimensions. All facts confirmed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Many islanders suspect that Bridgetown governs Barbados rather than the other way around
+
+---
+
+*Word count: 810*
+*Read time: 4 minutes*

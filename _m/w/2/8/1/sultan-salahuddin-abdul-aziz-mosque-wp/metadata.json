@@ -517,5 +517,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w281-sultan-salahuddin-abdul-aziz-mosque-flight-context.mp3",
+      "w281-sultan-salahuddin-abdul-aziz-mosque-intro.mp3",
+      "w281-sultan-salahuddin-abdul-aziz-mosque-a-capital-demands-a-landmark.mp3",
+      "w281-sultan-salahuddin-abdul-aziz-mosque-where-light-turns-blue.mp3",
+      "w281-sultan-salahuddin-abdul-aziz-mosque-malay-roots-modern-form.mp3",
+      "w281-sultan-salahuddin-abdul-aziz-mosque-the-blue-dome-from-above.mp3"
+    ],
+    "durations": {
+      "w281-sultan-salahuddin-abdul-aziz-mosque-flight-context.mp3": 46.870125,
+      "w281-sultan-salahuddin-abdul-aziz-mosque-intro.mp3": 46.8110833,
+      "w281-sultan-salahuddin-abdul-aziz-mosque-a-capital-demands-a-landmark.mp3": 66.61475,
+      "w281-sultan-salahuddin-abdul-aziz-mosque-where-light-turns-blue.mp3": 64.8365833,
+      "w281-sultan-salahuddin-abdul-aziz-mosque-malay-roots-modern-form.mp3": 70.1860416,
+      "w281-sultan-salahuddin-abdul-aziz-mosque-the-blue-dome-from-above.mp3": 47.3582916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

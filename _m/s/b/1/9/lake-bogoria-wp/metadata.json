@@ -479,5 +479,24 @@
     "_m/s/b/1/9/lake-bogoria-wp/lake-bogoria-1.jpg",
     "_m/s/b/1/9/lake-bogoria-wp/iss064-e-46245-view-of-kenya.jpg"
   ],
-  "updatedAt": "2026-03-31T05:40:05.266Z"
+  "updatedAt": "2026-03-31T05:40:05.266Z",
+  "narration": {
+    "files": [
+      "sb19-lake-bogoria-flight-context.mp3",
+      "sb19-lake-bogoria-intro.mp3",
+      "sb19-lake-bogoria-born-of-fire-and-salt.mp3",
+      "sb19-lake-bogoria-where-the-earth-exhales.mp3",
+      "sb19-lake-bogoria-the-flamingo-congregation.mp3",
+      "sb19-lake-bogoria-the-endorois-and-the-right-to-return.mp3"
+    ],
+    "durations": {
+      "sb19-lake-bogoria-flight-context.mp3": 44.214625,
+      "sb19-lake-bogoria-intro.mp3": 44.5864583,
+      "sb19-lake-bogoria-born-of-fire-and-salt.mp3": 72.6217916,
+      "sb19-lake-bogoria-where-the-earth-exhales.mp3": 66.7355833,
+      "sb19-lake-bogoria-the-flamingo-congregation.mp3": 70.9223333,
+      "sb19-lake-bogoria-the-endorois-and-the-right-to-return.mp3": 73.4368333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

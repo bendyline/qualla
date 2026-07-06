@@ -598,5 +598,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr72-inwood-hill-park-flight-context.mp3",
+      "dr72-inwood-hill-park-intro.mp3",
+      "dr72-inwood-hill-park-before-the-city.mp3",
+      "dr72-inwood-hill-park-the-great-tulip-tree-and-its-myth.mp3",
+      "dr72-inwood-hill-park-robert-moses-and-the-scars-he-left.mp3",
+      "dr72-inwood-hill-park-wild-things-in-the-city.mp3"
+    ],
+    "durations": {
+      "dr72-inwood-hill-park-flight-context.mp3": 37.2487083,
+      "dr72-inwood-hill-park-intro.mp3": 42.657625,
+      "dr72-inwood-hill-park-before-the-city.mp3": 60.8859583,
+      "dr72-inwood-hill-park-the-great-tulip-tree-and-its-myth.mp3": 67.4046666,
+      "dr72-inwood-hill-park-robert-moses-and-the-scars-he-left.mp3": 62.7627083,
+      "dr72-inwood-hill-park-wild-things-in-the-city.mp3": 62.988125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

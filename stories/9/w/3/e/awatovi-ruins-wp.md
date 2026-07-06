@@ -1,0 +1,73 @@
+# Awatovi Ruins
+
+A Hopi pueblo on Antelope Mesa destroyed by its own people in 1700, whose vivid kiva murals survived centuries underground before a Harvard expedition unearthed them in the 1930s.
+
+**Location:** 35.7186, -110.2769
+
+**Categories:** archaeology, history, indigenous-culture, national-historic-landmark, arizona
+
+## Introduction
+
+In the winter of 1700, warriors from the neighboring Hopi villages descended on Awatovi in the darkness before dawn. They set fire to the kivas where the men slept, sealed the entrances, and razed the pueblo to its foundations. The largest and most powerful village on Antelope Mesa -- a community that had thrived for nearly four centuries -- was erased in a single night. The Hopi themselves had decided that Awatovi must end. What the attackers could not destroy, however, were the painted walls buried beneath the rubble: layers of extraordinary murals depicting ceremonies, deities, and daily life, sealed in the earth for more than two hundred years until archaeologists from Harvard's Peabody Museum began digging in 1935.
+
+## The Great Village on the Mesa
+
+Awatovi was founded sometime after 1300, and it grew quickly into the largest and most important settlement in the Hopi region. Perched on Antelope Mesa in what is now northeastern Arizona, the pueblo housed members of the Bow Clan and served as the leading village of a sprawling macro-cluster that included communities on First Mesa and an outlying group of villages at Homol'ovi on the Little Colorado River, roughly 50 miles to the south. The village's dominance extended across the mesa for generations. Recent archaeological research has raised questions about whether the Jeddito Phase inhabitants of Awatovi were ethnically Hopi at all, though modern Hopi people claim ancestral ties to the site. What is not in dispute is the scale: by the time Europeans arrived, Awatovi had been continuously occupied for roughly 450 years.
+
+## Coronado's Shadow
+
+In 1540, Pedro de Tovar rode into Hopi territory on orders from Francisco Vazquez de Coronado, arriving just a week after the Spanish had captured the Zuni pueblo of Hawikuh. Awatovi was the first Hopi village he reached. A brief skirmish gave way to peace offerings -- cloth, skins, turquoise, and maize -- and the five Hopi pueblos pledged allegiance to the King of Spain. Over the following century, Spanish missionaries built a church at Awatovi and attempted to convert its residents. The documentary record from the 1650s reveals abusive behavior by the resident priests. In 1656, a young Hopi man named Juan Suni was sent to Santa Fe as an indentured servant for impersonating the priest Alonso de Posada -- an act scholars believe was carried out in the spirit of traditional Hopi clowning, a sacred form of satire. When the Pueblo Revolt erupted in 1680, the Hopi razed the church at Awatovi and killed the priests at all the Hopi villages. No Spanish reprisals ever came.
+
+## Forsaken for a Reason
+
+The destruction of Awatovi around 1700 remains one of the most dramatic events in Hopi oral history. After the Pueblo Revolt, some residents of Awatovi began inviting Franciscan missionaries back, a decision that enraged the other Hopi villages. The attack that followed was deliberate and total. The site was never reoccupied. For the Hopi, Awatovi was forsaken for a reason -- a place of painful memory that was meant to remain undisturbed. When Harvard's Peabody Museum arrived in the 1930s under the direction of J. O. Brew, the excavation revealed extraordinary kiva murals depicting elaborate ceremonial scenes. Hopi artist Fred Kabotie was commissioned to reproduce the prehistoric murals, creating a remarkable bridge between ancient and modern Hopi artistic traditions. But not all Hopi approved of the dig. By 1939, the tribe declined to renew the excavation permit, and the site returned to Hopi control.
+
+## Painted Walls, Unfinished Reports
+
+Watson Smith, a former lawyer turned amateur archaeologist, joined the Awatovi Expedition as a volunteer in 1936 and became one of the Southwest's foremost archaeological scholars. His 1952 publication on the kiva murals -- vivid painted walls found in the underground ceremonial chambers -- remains a landmark in Puebloan archaeology. The Peabody Museum holds Brew's extensive artifact collections and archives to this day, though a final comprehensive report on the Awatovi Expedition has never been written. World War II delayed publication of most findings until 1978, when eleven reports finally began to appear. The Museum of Northern Arizona later undertook a study of the mural and pottery paintings, signing a memorandum of understanding with the Hopi Tribe in 2005 to continue the work respectfully. The site was designated a National Historic Landmark in 1964, and even the archaeologists' campsite is now considered an archaeological site worthy of further study.
+
+## Antelope Mesa from Above
+
+From the air, Antelope Mesa stretches across the high desert of northeastern Arizona, a flat-topped formation of reddish sandstone cut by dry washes and sparse juniper. The ruins of Awatovi are not visible to the casual observer -- most excavations have been backfilled, and the site sits on Hopi tribal land, closed to the public without tribal permission. But the landscape itself tells the story: the mesa's edge drops sharply to the desert floor, and the strategic advantage of the village's position is immediately apparent. The Hopi Reservation surrounds the site, entirely enclosed by the Navajo Nation. Nearby Keams Canyon serves as the administrative center. The nearest general aviation airport is Winslow-Lindbergh Regional (KINW), approximately 60 miles to the south. Fly over at 8,000 to 10,000 feet AGL for context on the mesa system; the interplay of mesas, washes, and villages across the reservation reveals the geographic logic of Hopi settlement.
+
+## Flight Context
+
+Awatovi Ruins are located at 35.719N, 110.277W on Antelope Mesa within the Hopi Reservation in northeastern Arizona. The site is on tribal land and not publicly accessible without permission. The mesa formation is visible from the air as a flat-topped sandstone promontory in the high desert. Nearest airports: Winslow-Lindbergh Regional (KINW) approximately 60 miles south, and Polacca Airport (P10) closer but limited facilities. The Hopi mesas (First, Second, Third) are distinctive formations running roughly east-west. Best viewed at 8,000-10,000 feet AGL in clear conditions. The reservation is entirely surrounded by the Navajo Nation.
+
+## Sources
+
+- [Awatovi Ruins - Wikipedia](https://en.wikipedia.org/?curid=13494415)
+  - Founded after 1300
+  - Destruction in 1700 by warriors from neighboring Hopi villages
+  - Pedro de Tovar first European visitor 1540
+  - National Historic Landmark designated 1964
+  - Site never reoccupied after destruction
+- [Awatovi Ruins - U.S. National Park Service](https://www.nps.gov/places/awatovi-ruins-arizona.htm)
+  - Located on Antelope Mesa, Hopi Reservation
+  - Site covers approximately 23 acres
+  - Contains 17th-century Spanish mission remains
+- [Remembering Awatovi - Peabody Museum, Harvard](https://peabody.harvard.edu/publications/remembering-awatovi-story-archaeological-expedition-northern-arizona-1935-1939)
+  - Peabody Museum expedition 1935-1939 under J.O. Brew
+  - Watson Smith joined 1936 as volunteer, former lawyer
+  - Fred Kabotie commissioned to reproduce murals
+- [Watson Smith - Kiva Mural Decorations at Awatovi - Harvard University Press](https://www.hup.harvard.edu/books/9780873651264)
+  - Watson Smith's 1952 publication on kiva murals
+  - Murals found in underground ceremonial chambers
+
+## Review Notes
+
+**Reviewed:** 2026-01-31 · 14 facts verified · 0 corrections
+
+All major facts verified: founded after 1300, Tovar 1540 first European contact, destruction 1700, Peabody expedition 1935-1939 under J.O. Brew, Watson Smith joined 1936 as volunteer/former lawyer, 1952 mural publication, Fred Kabotie commissioned, NHL 1964. Permit not renewed 1939 confirmed. No factual corrections needed.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Characterizes the destruction as Hopi deciding Awatovi 'must end' - a simplified framing of a complex event
+- Describes Spanish missionary behavior as 'abusive' based on documentary record
+
+---
+
+*Word count: 830*
+*Read time: 4 minutes*

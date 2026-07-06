@@ -173,5 +173,24 @@
     "_m/d/r/4/z/usga-museum-wp/hall-champions-rotunda.jpg",
     "_m/d/r/4/z/usga-museum-wp/walker-cup-2021-hole-4-william.jpg"
   ],
-  "updatedAt": "2026-03-30T11:12:40.504Z"
+  "updatedAt": "2026-03-30T11:12:40.504Z",
+  "narration": {
+    "files": [
+      "dr4z-usga-museum-flight-context.mp3",
+      "dr4z-usga-museum-intro.mp3",
+      "dr4z-usga-museum-a-putter-named-calamity-jane.mp3",
+      "dr4z-usga-museum-a-building-worth-visiting-on-its-own.mp3",
+      "dr4z-usga-museum-the-hall-of-champions.mp3",
+      "dr4z-usga-museum-guardians-of-the-game.mp3"
+    ],
+    "durations": {
+      "dr4z-usga-museum-flight-context.mp3": 42.4174166,
+      "dr4z-usga-museum-intro.mp3": 49.2387083,
+      "dr4z-usga-museum-a-putter-named-calamity-jane.mp3": 69.823625,
+      "dr4z-usga-museum-a-building-worth-visiting-on-its-own.mp3": 55.872375,
+      "dr4z-usga-museum-the-hall-of-champions.mp3": 55.5905416,
+      "dr4z-usga-museum-guardians-of-the-game.mp3": 45.4574583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

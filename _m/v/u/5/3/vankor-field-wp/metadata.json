@@ -90,5 +90,24 @@
   "galleryPaths": [
     "_m/v/u/5/3/vankor-field-wp/at-vankorskoe-oilfield.jpg"
   ],
-  "updatedAt": "2026-04-01T08:30:55.775Z"
+  "updatedAt": "2026-04-01T08:30:55.775Z",
+  "narration": {
+    "files": [
+      "vu53-vankor-field-flight-context.mp3",
+      "vu53-vankor-field-intro.mp3",
+      "vu53-vankor-field-a-prize-worth-fighting-for.mp3",
+      "vu53-vankor-field-engineering-against-the-elements.mp3",
+      "vu53-vankor-field-the-frozen-highway.mp3",
+      "vu53-vankor-field-the-weight-of-arctic-oil.mp3"
+    ],
+    "durations": {
+      "vu53-vankor-field-flight-context.mp3": 36.394,
+      "vu53-vankor-field-intro.mp3": 43.686375,
+      "vu53-vankor-field-a-prize-worth-fighting-for.mp3": 50.3954583,
+      "vu53-vankor-field-engineering-against-the-elements.mp3": 56.2212083,
+      "vu53-vankor-field-the-frozen-highway.mp3": 48.352875,
+      "vu53-vankor-field-the-weight-of-arctic-oil.mp3": 58.6494583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1,0 +1,62 @@
+# Upper Big Branch Mine Disaster
+
+Twenty-nine miners died in a coal dust explosion at Massey Energy's Upper Big Branch mine in 2010, a disaster investigators traced directly to systematic corporate negligence and over 1,300 ignored safety violations.
+
+**Location:** 37.9373, -81.5436
+
+**Categories:** mining-disaster, west-virginia, industrial-safety, coal-mining, memorial
+
+## Introduction
+
+The mine had received two safety citations the day before. Fifty-seven in the previous month. Six hundred in the preceding eighteen months. One thousand three hundred forty-two in the past five years. On April 5, 2010, at 3:27 p.m., a coal dust explosion ripped through Massey Energy's Upper Big Branch mine near Montcoal in Raleigh County, West Virginia, killing 29 of the 31 people working underground. It was the worst American mining disaster since 1970. A miner working seven miles away said the blast made his ears stop up and felt like being in the middle of a tornado. The independent investigation that followed would find Massey Energy directly responsible -- a company that, in the report's words, operated its mines in a profoundly reckless manner.
+
+## Three Twenty-Seven
+
+The explosion struck the Upper Big Branch South Mine, operated by Performance Coal Company, a subsidiary of Massey Energy, about 50 miles south of Charleston. One survivor described first feeling a rush of air, then a blast of hurricane-force winds, then flying debris as he fought his way out. Seven bodies were recovered that first day. The mine's two inflatable safety chambers -- stocked with air, water, and food enough to sustain a dozen miners for four days -- proved useless: none of the 29 who died had been able to reach either one. Rescue efforts were agonizing. At 2 a.m. on April 6, high methane and carbon monoxide levels forced rescuers to retreat. Crews drilled bore holes to vent the gases and test the air. On April 9, around midnight, the four remaining bodies were found. The miners had not made it to the safety chambers. Poor visibility inside the mine was so bad that rescuers had walked past their bodies on the first day without seeing them.
+
+## A Paper Trail of Warnings
+
+The Upper Big Branch mine had accumulated one of the worst safety records in the American coal industry. Between 1995 and 2010, the Mine Safety and Health Administration levied over $2.2 million in fines against Massey for more than 3,000 safety violations at the mine. In 2009 alone, the company was fined $382,000 for serious violations including inadequate ventilation and failure to follow its own safety plans. More than 10 percent of the previous year's citations were classified as unwarrantable failures to comply -- indicating willful or gross negligence -- compared to a 2 percent national average. Federal records showed the company was fighting many of its highest fines or simply refusing to pay them. Two fatalities had already occurred at the mine between 2000 and 2009. Days before the explosion, a Department of Labor report had revealed that federal mine inspectors themselves were not receiving the periodic retraining their positions required.
+
+## The Reckoning
+
+Investigators could not enter the mine until July 2, 2010 -- more than two months after the blast -- because of lingering toxic gases. When the independent investigation team released its report on May 19, 2011, it condemned both Massey Energy and the federal Mine Safety and Health Administration. The company's ventilation system had failed to clear explosive methane buildup. Numerous other state and federal safety standards had been violated. The MSHA issued 369 citations and assessed $10.8 million in penalties. Former superintendent Gary May pleaded guilty to conspiring to impede federal enforcement, admitting he gave advance warning of inspections and concealed violations including poor airflow, piles of loose combustible coal, and scarcities of rock dust. CEO Don Blankenship was indicted on four criminal counts in November 2014. He was convicted of a single misdemeanor -- conspiring to violate federal mine safety standards -- and sentenced to one year in prison.
+
+## When You Work for Massey
+
+One miner put it plainly: when you work for Massey, you give your life to Massey. The company was the sixth-largest coal producer in the country, operating 56 mines in a region historically dependent on the industry. Families of the dead were furious that they learned of their loved ones' fates from government officials and a company website rather than from Massey executives. Michelle McKinney, whose father was among the missing, said it simply: these guys took a chance every day to work and make them big, and they could not even call us. On April 25, President Obama and Vice President Biden traveled to Beckley, West Virginia, for a memorial service where Obama eulogized each of the 29 miners by name. A black granite monument now stands in Whitesville, West Virginia, with life-size silhouettes of the fallen miners etched on its face and the names of all 29 dead and two survivors inscribed alongside a tribute to every coal miner who has suffered in the industry.
+
+## Flight Context
+
+The Upper Big Branch mine site is located at approximately 37.937N, 81.544W near Montcoal in Raleigh County, West Virginia, about 50 miles south of Charleston. Yeager Airport (KCRW) in Charleston is roughly 45 nautical miles to the north. Raleigh County Memorial Airport (KBLF) in Beckley is about 15 nautical miles to the southeast. The terrain is rugged, heavily forested Appalachian plateau with narrow valleys and ridgelines. From 2,000-4,000 feet AGL, the mining operations and cleared ridgelines characteristic of the southern West Virginia coalfields are visible. The Upper Big Branch Miners Memorial in Whitesville is along Route 3 in the Coal River valley.
+
+## Sources
+
+- [Upper Big Branch Mine disaster - Wikipedia](https://en.wikipedia.org/?curid=26855067)
+  - 29 miners killed April 5 2010 at 3:27 pm
+  - worst US mining disaster since 1970
+  - Raleigh County West Virginia near Montcoal
+  - MSHA issued 369 citations and $10.8 million in penalties
+  - independent investigation report released May 19 2011
+- [Upper Big Branch Mine Disaster - MSHA](https://www.msha.gov/data-reports/upper-big-branch-mine-south-performance-coal-company)
+  - Don Blankenship convicted of misdemeanor conspiring to willfully violate safety standards
+  - sentenced to one year in prison
+
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 10 facts verified · 0 corrections
+
+Verified: 29 killed April 5 2010 at 3:27pm, Raleigh County WV near Montcoal, worst US mining disaster since 1970, MSHA 369 citations 0.8M penalties, independent report May 19 2011, Blankenship convicted of misdemeanor sentenced to one year. All key facts check out. Spiciness 4 - strong direct quotes about corporate negligence.
+
+**Spiciness:** 4/5
+
+**Strong opinions:**
+
+- operated its mines in a profoundly reckless manner
+- when you work for Massey, you give your life to Massey
+- they could not even call us
+
+---
+
+*Word count: 800*
+*Read time: 4 minutes*

@@ -532,5 +532,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "dr5r-winsor-mccay-flight-context.mp3",
+      "dr5r-winsor-mccay-intro.mp3",
+      "dr5r-winsor-mccay-drawing-before-he-could-write.mp3",
+      "dr5r-winsor-mccay-slumberland-and-the-architecture-of-dreams.mp3",
+      "dr5r-winsor-mccay-gertie-takes-a-bow.mp3",
+      "dr5r-winsor-mccay-the-man-behind-the-frames.mp3"
+    ],
+    "durations": {
+      "dr5r-winsor-mccay-flight-context.mp3": 45.9475,
+      "dr5r-winsor-mccay-intro.mp3": 37.1647916,
+      "dr5r-winsor-mccay-drawing-before-he-could-write.mp3": 54.8225416,
+      "dr5r-winsor-mccay-slumberland-and-the-architecture-of-dreams.mp3": 70.5692916,
+      "dr5r-winsor-mccay-gertie-takes-a-bow.mp3": 64.376375,
+      "dr5r-winsor-mccay-the-man-behind-the-frames.mp3": 55.4473333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

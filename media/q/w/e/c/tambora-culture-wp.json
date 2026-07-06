@@ -1,0 +1,64 @@
+{
+  "id": "tambora-culture-wp",
+  "patch": {
+    "media": {
+      "hero": {
+        "path": "_m/q/w/e/c/tambora-culture-wp/hero.png",
+        "filename": "1815 tambora explosion B.png",
+        "caption": "Die Eruption des Mount Tambora im Jahr 1815. Die roten Bereiche sind Karten mit der Dicke des vulkanischen Aschefalls.",
+        "alt": "Die Eruption des Mount Tambora im Jahr 1815. Die roten Bereiche sind Karten mit der Dicke des vulkanischen Aschefalls.",
+        "width": 1200,
+        "height": 537,
+        "mimeType": "image/png",
+        "license": "CC BY-SA 3.0",
+        "artist": "myself",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:1815_tambora_explosion_B.png",
+        "sourceType": "core",
+        "sourceArticleId": "tambora-culture-wp",
+        "sourceGeohash4": "qwec",
+        "categories": [
+          "CC-BY-SA-3.0-migrated",
+          "GFDL",
+          "License migration completed",
+          "Maps of 1815 Tambora eruptions",
+          "Volcanic eruptions in 1815"
+        ],
+        "smallPath": "_m/q/w/e/c/tambora-culture-wp/hero-small.webp"
+      },
+      "images": [
+        {
+          "path": "_m/q/w/e/c/mount-tambora-wp/mount-tambora-banner.jpg",
+          "filename": "Mount Tambora banner.jpg",
+          "caption": "Blick vom Ostrand in westlicher Richtung (GRV 2015)",
+          "alt": "Blick vom Ostrand in westlicher Richtung (GRV 2015)",
+          "width": 4320,
+          "height": 621,
+          "mimeType": "image/jpeg",
+          "license": "CC BY-SA 4.0",
+          "artist": "Georesearch Volcanedo BLN",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mount_Tambora_banner.jpg",
+          "sourceType": "poi",
+          "sourceArticleId": "mount-tambora-wp",
+          "sourceGeohash4": "qwec",
+          "categories": [
+            "CC-BY-SA-4.0",
+            "Extracted images",
+            "Hydrothermal alteration in Indonesia",
+            "Mount Tambora",
+            "Self-published work"
+          ]
+        }
+      ],
+      "narration": [
+        "_m/q/w/e/c/tambora-culture-wp/qwec-the-pompeii-of-the-east-flight-context.mp3",
+        "_m/q/w/e/c/tambora-culture-wp/qwec-the-pompeii-of-the-east-intro.mp3",
+        "_m/q/w/e/c/tambora-culture-wp/qwec-the-pompeii-of-the-east-a-kingdom-in-the-crossroads.mp3",
+        "_m/q/w/e/c/tambora-culture-wp/qwec-the-pompeii-of-the-east-the-last-words.mp3",
+        "_m/q/w/e/c/tambora-culture-wp/qwec-the-pompeii-of-the-east-digging-through-the-silence.mp3",
+        "_m/q/w/e/c/tambora-culture-wp/qwec-the-pompeii-of-the-east-the-year-without-a-summer.mp3",
+        "_m/q/w/e/c/tambora-culture-wp/qwec-the-pompeii-of-the-east-what-the-ash-preserved.mp3"
+      ],
+      "combinedNarration": "_m/q/w/e/c/tambora-culture-wp/qwec-tambora-culture-combined.mp3"
+    }
+  }
+}

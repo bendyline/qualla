@@ -1,6 +1,55 @@
 {
   "articleId": "dutch-language-wp",
-  "gallery": [],
-  "galleryPaths": [],
-  "updatedAt": "2026-02-20T17:12:30.074Z"
+  "gallery": [
+    {
+      "filename": "Netherlands banner.jpg",
+      "title": "File:Netherlands banner.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Netherlands_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Netherlands_banner.jpg",
+      "width": 4200,
+      "height": 600,
+      "mime": "image/jpeg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Arch",
+      "description": "Wikivoyage banner for the Netherlands. Cropped from this picture: File:Enkhuizen_aanzicht.JPG",
+      "dateCreated": "2013-06-19 19:11:53",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Views of Enkhuizen",
+        "Wikivoyage banners of North Holland"
+      ],
+      "sourceType": "poi",
+      "sourceArticleId": "dutch-language-wp",
+      "sourceGeohash4": "u15x",
+      "mediumPath": "_m/u/1/5/x/dutch-language-wp/netherlands-banner-medium.webp",
+      "smallPath": "_m/u/1/5/x/dutch-language-wp/netherlands-banner-small.webp"
+    }
+  ],
+  "galleryPaths": [
+    "_m/u/1/5/x/dutch-language-wp/netherlands-banner.jpg"
+  ],
+  "updatedAt": "2026-05-16T20:09:10.424Z",
+  "narration": {
+    "files": [
+      "u15x-dutch-language-flight-context.mp3",
+      "u15x-dutch-language-intro.mp3",
+      "u15x-dutch-language-roughly-in-between.mp3",
+      "u15x-dutch-language-the-long-quarrel-over-a-name.mp3",
+      "u15x-dutch-language-daughter-in-africa.mp3",
+      "u15x-dutch-language-the-reform-wars.mp3",
+      "u15x-dutch-language-dialects-pushed-toward-the-margin.mp3"
+    ],
+    "durations": {
+      "u15x-dutch-language-flight-context.mp3": 46.6660416,
+      "u15x-dutch-language-intro.mp3": 43.8565833,
+      "u15x-dutch-language-roughly-in-between.mp3": 54.8345416,
+      "u15x-dutch-language-the-long-quarrel-over-a-name.mp3": 60.7567083,
+      "u15x-dutch-language-daughter-in-africa.mp3": 61.390625,
+      "u15x-dutch-language-the-reform-wars.mp3": 61.05525,
+      "u15x-dutch-language-dialects-pushed-toward-the-margin.mp3": 69.527625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

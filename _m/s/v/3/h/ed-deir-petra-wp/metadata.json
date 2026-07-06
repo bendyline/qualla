@@ -624,5 +624,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sv3h-ed-deir-petra-flight-context.mp3",
+      "sv3h-ed-deir-petra-intro.mp3",
+      "sv3h-ed-deir-petra-where-three-traditions-meet.mp3",
+      "sv3h-ed-deir-petra-a-god-named-obodat.mp3",
+      "sv3h-ed-deir-petra-monks-among-the-ruins.mp3",
+      "sv3h-ed-deir-petra-the-view-from-the-monastery.mp3"
+    ],
+    "durations": {
+      "sv3h-ed-deir-petra-flight-context.mp3": 49.7383333,
+      "sv3h-ed-deir-petra-intro.mp3": 53.7259583,
+      "sv3h-ed-deir-petra-where-three-traditions-meet.mp3": 66.4482916,
+      "sv3h-ed-deir-petra-a-god-named-obodat.mp3": 57.4585416,
+      "sv3h-ed-deir-petra-monks-among-the-ruins.mp3": 53.51225,
+      "sv3h-ed-deir-petra-the-view-from-the-monastery.mp3": 69.0454583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

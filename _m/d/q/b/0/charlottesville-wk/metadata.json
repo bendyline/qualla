@@ -225,5 +225,24 @@
     "_m/d/q/b/0/charlottesville-wk/monticello-thomas-jefferson-s-.jpg",
     "_m/d/q/b/0/charlottesville-wk/virginia-film-festival-2019-di.jpg"
   ],
-  "updatedAt": "2026-02-19T21:04:15.456Z"
+  "updatedAt": "2026-02-19T21:04:15.456Z",
+  "narration": {
+    "files": [
+      "dqb0-charlottesville-flight-context.mp3",
+      "dqb0-charlottesville-intro.mp3",
+      "dqb0-charlottesville-two-presidents-many-wars.mp3",
+      "dqb0-charlottesville-the-university-and-the-lawn.mp3",
+      "dqb0-charlottesville-the-downtown-mall.mp3",
+      "dqb0-charlottesville-wine-country-and-mountain-country.mp3"
+    ],
+    "durations": {
+      "dqb0-charlottesville-flight-context.mp3": 39.698125,
+      "dqb0-charlottesville-intro.mp3": 47.0476666,
+      "dqb0-charlottesville-two-presidents-many-wars.mp3": 65.3100416,
+      "dqb0-charlottesville-the-university-and-the-lawn.mp3": 60.96075,
+      "dqb0-charlottesville-the-downtown-mall.mp3": 61.1414166,
+      "dqb0-charlottesville-wine-country-and-mountain-country.mp3": 60.09175
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1,0 +1,58 @@
+# Battle of the North Inch
+
+The 1396 trial by combat in Perth where thirty Highland champions from each side fought to the death in a purpose-built arena, watched by King Robert III -- a spectacle so vivid it inspired Walter Scott's novel The Fair Maid of Perth.
+
+**Location:** 56.4000, -3.4300
+
+**Categories:** 1396 in Scotland, Conflicts in 1396, History of the Scottish Highlands, History of Perth, Scotland, Trials by combat
+
+## Introduction
+
+The king took his seat on a raised platform overlooking the North Inch, a grassy island in the River Tay at Perth. Below him, barriers had been erected to keep the crowd back. Inside the enclosure, sixty men -- thirty on each side -- stood armed with swords, targes, bows, knives, and battle-axes. They were about to settle a Highland feud by killing each other, in what amounted to a royally sanctioned gladiatorial contest. The date was the Monday before Michaelmas, 1396. The Chamberlain Rolls record that roughly fourteen pounds was spent on timber, iron, and the construction of the arena. The cost in blood would be considerably higher.
+
+## A Feud Beyond Mediation
+
+The quarrel ran deep. Clan Chattan and its rival -- most likely the Clan Cameron, though historians have debated the identity for centuries -- had been at each other's throats for decades. They had already fought at the Battle of Invernahavon in 1370 or 1386, and the violence showed no sign of abating. King Robert III, whose reign was marked more by weakness than authority, ordered David Lindsay, 1st Earl of Crawford, to broker peace between the clans. Lindsay failed. The hatred was too entrenched for diplomacy. What emerged instead was an extraordinary proposal: a trial by combat, thirty champions from each side, fought to the death in a controlled setting. The king would award honours to the victors and a pardon to the defeated. Both chiefs agreed.
+
+## Hal o' the Wynd
+
+As the combatants prepared to fight, a complication arose. One of the Clan Chattan warriors fell sick -- whether from genuine illness or last-minute terror, the sources do not say. It was proposed that the opposing side should withdraw one man to keep the numbers even. Before this could be settled, a volunteer named Henry Gow, a Perth blacksmith nicknamed Hal o' the Wynd, stepped forward and offered to fight for Clan Chattan -- for a fee, if he survived. The story of the hired champion, the ordinary tradesman who joined a Highland death match for money, captured Walter Scott's imagination four centuries later. His 1828 novel The Fair Maid of Perth made Hal o' the Wynd its central figure, turning a footnote in the medieval chronicles into one of the great characters of Scottish Romantic fiction.
+
+## Sixty Enter, Twelve Leave
+
+The combat began, and what followed was exactly as medieval as it sounds. Armed men hacked at each other within the enclosed arena while the king and the citizens of Perth watched from behind the barriers. The fighting was described by near-contemporary chronicler Andrew of Wyntoun, writing around 1420, as a 'murderous conflict.' When it ended, nineteen of the thirty Clan Chattan warriors lay dead, including most of their champions. On the opposing side, the toll was far worse: twenty-nine of thirty killed. Only one survivor from the losing clan escaped, and he did so by jumping into the River Tay and swimming to the far bank. Wyntoun stated that fifty or more were slain in total. The eleven survivors of Clan Chattan, Henry Gow among them, were left standing in a field of the dead.
+
+## Spectacle and Memory
+
+The Battle of the North Inch settled nothing permanently. Clan Cameron and Clan Chattan fought again at the Battle of Palm Sunday in 1429. The feud continued in various forms for generations. But the spectacle of the 1396 combat embedded itself in Scottish memory with unusual tenacity. It was recorded by every major Scottish chronicler -- Wyntoun, Walter Bower in his Scotichronicon, Hector Boece, George Buchanan, John Lesley -- each adding details or disputing which clans were actually involved. The North Inch itself remains a public park in Perth today, the same flat ground where the barriers once stood. A Bond of Union was granted among Clan Chattan in 1397, possibly in response to the battle, though the original document has since been lost. What survives is the story: a king too weak to stop a feud, sixty men willing to die for clan honour, and a blacksmith who fought for pay on a September afternoon in Perth.
+
+## Flight Context
+
+The North Inch is a large public park at approximately 56.40N, 3.43W, on the west bank of the River Tay in Perth city centre. The flat, open ground is clearly visible from the air. Perth/Scone airfield (EGPT) is approximately 2 nm north. Best viewed at 1,500-2,500 ft AGL. The River Tay curves around the Inch, making it a distinctive landmark.
+
+## Sources
+
+- [Battle of the North Inch - Wikipedia](https://en.wikipedia.org/?curid=10617683)
+  - Battle date 1396, thirty champions per side, confirmed
+  - Clan Chattan vs rival (possibly Clan Cameron or Clan Davidson — identity disputed by historians), confirmed
+  - Prior Battle of Invernahavon between clans, dated 1370 or 1386 (dispute acknowledged in story), confirmed
+  - King Robert III oversaw the combat, confirmed
+  - David Lindsay 1st Earl of Crawford attempted mediation, confirmed
+  - Henry Gow 'Hal o' the Wynd' volunteer blacksmith, confirmed
+  - Walter Scott's novel The Fair Maid of Perth (1828) inspired by the battle, confirmed
+  - 19 Clan Chattan dead, 29 opposing clan dead, one survivor swam the Tay, confirmed
+  - Andrew of Wyntoun recorded the battle around 1420, confirmed
+  - Bond of Union among Clan Chattan in 1397, confirmed
+
+## Review Notes
+
+**Reviewed:** 2026-03-18 · 10 facts verified · 0 corrections
+
+All key facts verified: 1396 date, Clan Chattan vs uncertain opponent (Cameron or Davidson, story correctly notes debate), Walter Scott Fair Maid of Perth 1828, Henry Gow Hal o' the Wynd, 19 and 29 casualties, Andrew of Wyntoun chronicle, Bond of Union 1397. No errors found.
+
+**Spiciness:** 2/5
+
+---
+
+*Word count: 730*
+*Read time: 4 minutes*

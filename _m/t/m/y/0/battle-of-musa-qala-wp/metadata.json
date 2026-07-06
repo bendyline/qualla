@@ -141,5 +141,26 @@
   "galleryPaths": [
     "_m/t/m/y/0/battle-of-musa-qala-wp/sergeant-lee-johnno-jo.jpg",
     "_m/t/m/y/0/battle-of-musa-qala-wp/my-own-picture.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "tmy0-battle-of-musa-qala-flight-context.mp3",
+      "tmy0-battle-of-musa-qala-intro.mp3",
+      "tmy0-battle-of-musa-qala-a-deal-that-couldnt-hold.mp3",
+      "tmy0-battle-of-musa-qala-operation-snakepit.mp3",
+      "tmy0-battle-of-musa-qala-three-days-of-fighting.mp3",
+      "tmy0-battle-of-musa-qala-the-taliban-melt-away.mp3",
+      "tmy0-battle-of-musa-qala-victory-without-resolution.mp3"
+    ],
+    "durations": {
+      "tmy0-battle-of-musa-qala-flight-context.mp3": 49.4912083,
+      "tmy0-battle-of-musa-qala-intro.mp3": 38.4110416,
+      "tmy0-battle-of-musa-qala-a-deal-that-couldnt-hold.mp3": 66.9430833,
+      "tmy0-battle-of-musa-qala-operation-snakepit.mp3": 54.0569583,
+      "tmy0-battle-of-musa-qala-three-days-of-fighting.mp3": 62.861625,
+      "tmy0-battle-of-musa-qala-the-taliban-melt-away.mp3": 62.216625,
+      "tmy0-battle-of-musa-qala-victory-without-resolution.mp3": 60.1744166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }
