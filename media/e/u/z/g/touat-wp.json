@@ -19,7 +19,8 @@
         "categories": [
           "CC-BY-3.0",
           "Topographic maps of Algeria"
-        ]
+        ],
+        "smallPath": "_m/e/u/z/g/touat-wp/hero-small.webp"
       },
       "images": [
         {
@@ -42,7 +43,9 @@
             "Ksour in Algeria",
             "Self-published work",
             "Touat"
-          ]
+          ],
+          "mediumPath": "_m/e/u/z/g/touat-wp/timimoune-whereabouts-medium.webp",
+          "smallPath": "_m/e/u/z/g/touat-wp/timimoune-whereabouts-small.webp"
         },
         {
           "path": "_m/e/u/z/g/touat-wp/view-algeria-taken-iss.jpg",
@@ -66,7 +69,9 @@
             "PD NASA",
             "Photos of Algeria by ISS Expedition 20 Crew Earth Observations",
             "Taken with Nikon D3"
-          ]
+          ],
+          "mediumPath": "_m/e/u/z/g/touat-wp/view-algeria-taken-iss-medium.webp",
+          "smallPath": "_m/e/u/z/g/touat-wp/view-algeria-taken-iss-small.webp"
         }
       ],
       "narration": [
@@ -77,7 +82,11 @@
         "_m/e/u/z/g/touat-wp/euzg-touat-crossroads-of-the-sahara.mp3",
         "_m/e/u/z/g/touat-wp/euzg-touat-the-jews-of-tamentit.mp3",
         "_m/e/u/z/g/touat-wp/euzg-touat-coveted-ground.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/e/u/z/g/touat-wp/euzg-touat-combined.mp3",
+      "combinedNarrationBytes": 3820375,
+      "combinedNarrationDuration": 308,
+      "combinedCover": "_m/e/u/z/g/touat-wp/euzg-touat-combined-cover.jpg"
     }
   }
 }

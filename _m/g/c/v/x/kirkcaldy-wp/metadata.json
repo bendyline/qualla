@@ -21,11 +21,33 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "kirkcaldy-wp",
-      "sourceGeohash4": "gcvx"
+      "sourceGeohash4": "gcvx",
+      "smallPath": "_m/g/c/v/x/kirkcaldy-wp/kirkcaldy-station-buildings-ge-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/v/x/kirkcaldy-wp/kirkcaldy-station-buildings-ge.jpg"
   ],
-  "updatedAt": "2026-06-23T02:11:37.903Z"
+  "updatedAt": "2026-06-23T02:11:37.903Z",
+  "narration": {
+    "files": [
+      "gcvx-kirkcaldy-flight-context.mp3",
+      "gcvx-kirkcaldy-intro.mp3",
+      "gcvx-kirkcaldy-the-lang-toun-on-the-forth.mp3",
+      "gcvx-kirkcaldy-the-smell-of-money.mp3",
+      "gcvx-kirkcaldy-adam-smiths-high-street.mp3",
+      "gcvx-kirkcaldy-ravenscraig-and-the-harbour.mp3",
+      "gcvx-kirkcaldy-fly-past.mp3"
+    ],
+    "durations": {
+      "gcvx-kirkcaldy-flight-context.mp3": 51.004625,
+      "gcvx-kirkcaldy-intro.mp3": 41.19675,
+      "gcvx-kirkcaldy-the-lang-toun-on-the-forth.mp3": 64.1932083,
+      "gcvx-kirkcaldy-the-smell-of-money.mp3": 72.33875,
+      "gcvx-kirkcaldy-adam-smiths-high-street.mp3": 66.2824583,
+      "gcvx-kirkcaldy-ravenscraig-and-the-harbour.mp3": 60.9444583,
+      "gcvx-kirkcaldy-fly-past.mp3": 60.489125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -18,7 +18,9 @@
         "sourceGeohash4": "gcey",
         "categories": [
           "CC-BY-SA-3.0"
-        ]
+        ],
+        "mediumPath": "_m/g/c/e/y/clandeboye-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/e/y/clandeboye-wp/hero-small.webp"
       },
       "images": [
         {
@@ -88,7 +90,9 @@
             "Unknown painters",
             "Walter Devereux, 1st Earl of Essex",
             "Woodville arms"
-          ]
+          ],
+          "mediumPath": "_m/g/c/e/y/clandeboye-wp/arms-quarterly-16-sour-medium.webp",
+          "smallPath": "_m/g/c/e/y/clandeboye-wp/arms-quarterly-16-sour-small.webp"
         },
         {
           "path": "_m/g/c/e/y/clandeboye-wp/coat-arms-o-neill.png",
@@ -103,7 +107,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:O%27Neill_Tyrone.png",
           "sourceType": "core",
           "sourceArticleId": "clandeboye-wp",
-          "sourceGeohash4": "gcey"
+          "sourceGeohash4": "gcey",
+          "smallPath": "_m/g/c/e/y/clandeboye-wp/coat-arms-o-neill-small.webp"
         },
         {
           "path": "_m/g/c/e/y/clandeboye-wp/john-michael-wright-16.jpg",
@@ -117,7 +122,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Michael_Wright_(1617-1694)_-_Sir_Neil_O%27Neill_-_T00132_-_Tate.jpg",
           "sourceType": "core",
           "sourceArticleId": "clandeboye-wp",
-          "sourceGeohash4": "gcey"
+          "sourceGeohash4": "gcey",
+          "smallPath": "_m/g/c/e/y/clandeboye-wp/john-michael-wright-16-small.webp"
         },
         {
           "path": "_m/g/c/e/y/clandeboye-wp/county-down-coat-arms.png",
@@ -338,7 +344,11 @@
         "_m/g/c/e/y/clandeboye-wp/gcey-clandeboye-conn-oneills-bad-night.mp3",
         "_m/g/c/e/y/clandeboye-wp/gcey-clandeboye-the-princes-in-exile.mp3",
         "_m/g/c/e/y/clandeboye-wp/gcey-clandeboye-whats-left-to-see.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/e/y/clandeboye-wp/gcey-clandeboye-combined.mp3",
+      "combinedNarrationBytes": 4603752,
+      "combinedNarrationDuration": 377,
+      "combinedCover": "_m/g/c/e/y/clandeboye-wp/gcey-clandeboye-combined-cover.jpg"
     }
   }
 }

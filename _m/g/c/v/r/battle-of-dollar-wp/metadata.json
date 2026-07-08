@@ -25,7 +25,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "battle-of-dollar-wp",
-    "sourceGeohash4": "gcvr"
+    "sourceGeohash4": "gcvr",
+    "mediumPath": "_m/g/c/v/r/battle-of-dollar-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/v/r/battle-of-dollar-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Ochil Hills.jpg",
@@ -55,5 +57,24 @@
     "sourceGeohash4": "gcvr"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcvr-battle-of-dollar-flight-context.mp3",
+      "gcvr-battle-of-dollar-intro.mp3",
+      "gcvr-battle-of-dollar-the-heathen-army-goes-north.mp3",
+      "gcvr-battle-of-dollar-what-happened-at-dollar.mp3",
+      "gcvr-battle-of-dollar-the-end-of-the-picts.mp3",
+      "gcvr-battle-of-dollar-where-it-happened.mp3"
+    ],
+    "durations": {
+      "gcvr-battle-of-dollar-flight-context.mp3": 45.6539583,
+      "gcvr-battle-of-dollar-intro.mp3": 38.1490416,
+      "gcvr-battle-of-dollar-the-heathen-army-goes-north.mp3": 59.8420416,
+      "gcvr-battle-of-dollar-what-happened-at-dollar.mp3": 52.236375,
+      "gcvr-battle-of-dollar-the-end-of-the-picts.mp3": 62.0954166,
+      "gcvr-battle-of-dollar-where-it-happened.mp3": 64.4460416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

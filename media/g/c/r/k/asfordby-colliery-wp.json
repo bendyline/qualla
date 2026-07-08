@@ -21,7 +21,9 @@
           "CC-BY-SA-4.0",
           "Media needing categories as of 2 March 2026",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/g/c/r/k/asfordby-colliery-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/r/k/asfordby-colliery-wp/hero-small.webp"
       },
       "images": [
         {
@@ -44,7 +46,9 @@
             "Media needing categories as of 2 March 2026",
             "Scanned with Reflecta ProScan 10T",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/k/asfordby-colliery-wp/asfordby-super-pit-col-medium.webp",
+          "smallPath": "_m/g/c/r/k/asfordby-colliery-wp/asfordby-super-pit-col-small.webp"
         },
         {
           "path": "_m/g/c/r/k/asfordby-colliery-wp/london-transport-train.jpg",
@@ -64,7 +68,9 @@
             "CC-BY-SA-4.0",
             "Old Dalby Test Track",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/k/asfordby-colliery-wp/london-transport-train-medium.webp",
+          "smallPath": "_m/g/c/r/k/asfordby-colliery-wp/london-transport-train-small.webp"
         },
         {
           "path": "_m/g/c/r/k/asfordby-colliery-wp/train-loaded-coal-asfo.jpg",
@@ -85,7 +91,9 @@
             "Melton Mowbray",
             "Scanned with Minolta Dimage Scan Dual",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/k/asfordby-colliery-wp/train-loaded-coal-asfo-medium.webp",
+          "smallPath": "_m/g/c/r/k/asfordby-colliery-wp/train-loaded-coal-asfo-small.webp"
         },
         {
           "path": "_m/g/c/r/k/melton-mowbray-wp/st-mary-melton-mowbray-leics-g.jpg",
@@ -159,7 +167,19 @@
             "Wikivoyage banners of England"
           ]
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/r/k/asfordby-colliery-wp/gcrk-asfordby-colliery-flight-context.mp3",
+        "_m/g/c/r/k/asfordby-colliery-wp/gcrk-asfordby-colliery-intro.mp3",
+        "_m/g/c/r/k/asfordby-colliery-wp/gcrk-asfordby-colliery-the-last-super-pit.mp3",
+        "_m/g/c/r/k/asfordby-colliery-wp/gcrk-asfordby-colliery-the-geology-that-killed-it.mp3",
+        "_m/g/c/r/k/asfordby-colliery-wp/gcrk-asfordby-colliery-a-pit-without-a-pit-village.mp3",
+        "_m/g/c/r/k/asfordby-colliery-wp/gcrk-asfordby-colliery-what-remains.mp3"
+      ],
+      "combinedNarration": "_m/g/c/r/k/asfordby-colliery-wp/gcrk-asfordby-colliery-combined.mp3",
+      "combinedNarrationBytes": 3379381,
+      "combinedNarrationDuration": 273,
+      "combinedCover": "_m/g/c/r/k/asfordby-colliery-wp/gcrk-asfordby-colliery-combined-cover.jpg"
     }
   }
 }

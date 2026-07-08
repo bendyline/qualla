@@ -53,5 +53,24 @@
     "sourceGeohash4": "gctt"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gctt-seascale-lifeboat-station-flight-context.mp3",
+      "gctt-seascale-lifeboat-station-intro.mp3",
+      "gctt-seascale-lifeboat-station-why-seascale-at-all.mp3",
+      "gctt-seascale-lifeboat-station-the-problem-of-volunteers.mp3",
+      "gctt-seascale-lifeboat-station-the-isabella.mp3",
+      "gctt-seascale-lifeboat-station-closing-the-doors.mp3"
+    ],
+    "durations": {
+      "gctt-seascale-lifeboat-station-flight-context.mp3": 54.3545,
+      "gctt-seascale-lifeboat-station-intro.mp3": 47.1160833,
+      "gctt-seascale-lifeboat-station-why-seascale-at-all.mp3": 47.96925,
+      "gctt-seascale-lifeboat-station-the-problem-of-volunteers.mp3": 52.3112083,
+      "gctt-seascale-lifeboat-station-the-isabella.mp3": 49.1874583,
+      "gctt-seascale-lifeboat-station-closing-the-doors.mp3": 59.3528333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -22,7 +22,9 @@
           "Castletroy",
           "Images from Geograph Britain and Ireland",
           "Schools in County Limerick"
-        ]
+        ],
+        "mediumPath": "_m/g/c/3/g/castletroy-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/3/g/castletroy-wp/hero-small.webp"
       },
       "images": [
         {
@@ -42,7 +44,8 @@
           "categories": [
             "Jewish cemetery in Limerick",
             "PD-user"
-          ]
+          ],
+          "smallPath": "_m/g/c/3/g/castletroy-wp/jewish-graveyard-castl-small.webp"
         },
         {
           "path": "_m/g/c/3/g/castletroy-wp/monaleen-heights-seen.jpg",
@@ -64,7 +67,9 @@
             "Hotels in County Limerick",
             "Houses in County Limerick",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/g/castletroy-wp/monaleen-heights-seen-medium.webp",
+          "smallPath": "_m/g/c/3/g/castletroy-wp/monaleen-heights-seen-small.webp"
         },
         {
           "path": "_m/g/c/3/g/castletroy-wp/lidl-dublin-road-castl.jpg",
@@ -86,7 +91,8 @@
             "Images from Geograph Britain and Ireland",
             "Lidl supermarkets in the Republic of Ireland",
             "Shops in Limerick"
-          ]
+          ],
+          "smallPath": "_m/g/c/3/g/castletroy-wp/lidl-dublin-road-castl-small.webp"
         }
       ],
       "narration": [
@@ -97,7 +103,11 @@
         "_m/g/c/3/g/castletroy-wp/gc3g-castletroy-from-farmland-to-suburb.mp3",
         "_m/g/c/3/g/castletroy-wp/gc3g-castletroy-the-jewish-graveyard.mp3",
         "_m/g/c/3/g/castletroy-wp/gc3g-castletroy-what-remains.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/3/g/castletroy-wp/gc3g-castletroy-combined.mp3",
+      "combinedNarrationBytes": 4172630,
+      "combinedNarrationDuration": 343,
+      "combinedCover": "_m/g/c/3/g/castletroy-wp/gc3g-castletroy-combined-cover.jpg"
     }
   }
 }

@@ -24,7 +24,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "plunton-castle-wp",
-    "sourceGeohash4": "gctp"
+    "sourceGeohash4": "gctp",
+    "mediumPath": "_m/g/c/t/p/plunton-castle-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/t/p/plunton-castle-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Plunton Castle (geograph 4888972).jpg",
@@ -103,7 +105,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "plunton-castle-wp",
-      "sourceGeohash4": "gctp"
+      "sourceGeohash4": "gctp",
+      "mediumPath": "_m/g/c/t/p/plunton-castle-wp/plunton-castle-medium.webp",
+      "smallPath": "_m/g/c/t/p/plunton-castle-wp/plunton-castle-small.webp"
     },
     {
       "filename": "Gallovidiæ Pars Media - Atlas Maior, vol 6, map 15 - Joan Blaeu, 1667 - BL 114.h(star).6.(15) - Plunton Castle.jpg",
@@ -129,7 +133,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "plunton-castle-wp",
-      "sourceGeohash4": "gctp"
+      "sourceGeohash4": "gctp",
+      "smallPath": "_m/g/c/t/p/plunton-castle-wp/detail-map-published-j-small.webp"
     },
     {
       "filename": "Plunton Castle - geograph.org.uk - 494924.jpg",
@@ -154,7 +159,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "plunton-castle-wp",
-      "sourceGeohash4": "gctp"
+      "sourceGeohash4": "gctp",
+      "smallPath": "_m/g/c/t/p/plunton-castle-wp/plunton-castle-geograph-org-uk-small.webp"
     },
     {
       "filename": "Plunton Castle, Borgue. - geograph.org.uk - 2022557.jpg",
@@ -176,7 +182,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "plunton-castle-wp",
-      "sourceGeohash4": "gctp"
+      "sourceGeohash4": "gctp",
+      "smallPath": "_m/g/c/t/p/plunton-castle-wp/plunton-castle-borgue-geograph-small.webp"
     },
     {
       "filename": "Plunton Castle - geograph.org.uk - 4888926.jpg",
@@ -198,7 +205,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "plunton-castle-wp",
-      "sourceGeohash4": "gctp"
+      "sourceGeohash4": "gctp",
+      "mediumPath": "_m/g/c/t/p/plunton-castle-wp/plunton-castle-geograph-org-uk-1-medium.webp",
+      "smallPath": "_m/g/c/t/p/plunton-castle-wp/plunton-castle-geograph-org-uk-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -209,5 +218,26 @@
     "_m/g/c/t/p/plunton-castle-wp/plunton-castle-borgue-geograph.jpg",
     "_m/g/c/t/p/plunton-castle-wp/plunton-castle-geograph-org-uk-1.jpg"
   ],
-  "updatedAt": "2026-06-22T16:29:45.411Z"
+  "updatedAt": "2026-06-22T16:29:45.411Z",
+  "narration": {
+    "files": [
+      "gctp-plunton-castle-flight-context.mp3",
+      "gctp-plunton-castle-intro.mp3",
+      "gctp-plunton-castle-an-unusual-floor-plan.mp3",
+      "gctp-plunton-castle-burns-ditches-marsh.mp3",
+      "gctp-plunton-castle-the-great-hall-and-the-turrets.mp3",
+      "gctp-plunton-castle-how-the-estate-came-together.mp3",
+      "gctp-plunton-castle-devorgoil-and-the-future.mp3"
+    ],
+    "durations": {
+      "gctp-plunton-castle-flight-context.mp3": 46.1019583,
+      "gctp-plunton-castle-intro.mp3": 49.41725,
+      "gctp-plunton-castle-an-unusual-floor-plan.mp3": 57.9007916,
+      "gctp-plunton-castle-burns-ditches-marsh.mp3": 47.6024583,
+      "gctp-plunton-castle-the-great-hall-and-the-turrets.mp3": 56.6677083,
+      "gctp-plunton-castle-how-the-estate-came-together.mp3": 57.207375,
+      "gctp-plunton-castle-devorgoil-and-the-future.mp3": 53.8796666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

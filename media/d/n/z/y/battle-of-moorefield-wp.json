@@ -22,7 +22,8 @@
           "Details of old maps, defaced",
           "PD-US missing SDC copyright status",
           "PD US expired"
-        ]
+        ],
+        "smallPath": "_m/d/n/z/y/battle-of-moorefield-wp/hero-small.webp"
       },
       "images": [
         {
@@ -72,7 +73,9 @@
             "Old Fields, West Virginia",
             "Photographs by User:KLOTZ",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/d/n/z/y/battle-of-moorefield-wp/willow-wall-medium.webp",
+          "smallPath": "_m/d/n/z/y/battle-of-moorefield-wp/willow-wall-small.webp"
         },
         {
           "path": "_m/d/n/z/y/battle-of-moorefield-wp/moorefield-battlefield-west-vi.jpg",
@@ -93,7 +96,8 @@
             "CC-PD-Mark",
             "Maps of the American Battlefield Protection Program West Virginia",
             "PD US Government"
-          ]
+          ],
+          "smallPath": "_m/d/n/z/y/battle-of-moorefield-wp/moorefield-battlefield-west-vi-small.webp"
         },
         {
           "path": "_m/d/n/z/y/battle-of-moorefield-wp/chambersburg-moorefield-big-pi.png",
@@ -116,7 +120,8 @@
             "Details of old maps, defaced with circles",
             "John McCausland (general)",
             "PD US expired"
-          ]
+          ],
+          "smallPath": "_m/d/n/z/y/battle-of-moorefield-wp/chambersburg-moorefield-big-pi-small.webp"
         },
         {
           "path": "_m/d/n/z/y/battle-of-moorefield-wp/chambersburg-hancock-hagerstow.png",
@@ -136,7 +141,8 @@
             "1912 map of the American War in Virginia and Maryland by Sifton",
             "Battle of Moorefield",
             "Chambersburg, Pennsylvania"
-          ]
+          ],
+          "smallPath": "_m/d/n/z/y/battle-of-moorefield-wp/chambersburg-hancock-hagerstow-small.webp"
         },
         {
           "path": "_m/d/n/z/y/battle-of-moorefield-wp/csa-burn-chambersburg-map-1864.png",
@@ -151,7 +157,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:CSA_Burn_Chambersburg_Map_1864.png",
           "sourceType": "commons-category",
           "sourceArticleId": "battle-of-moorefield-wp",
-          "sourceGeohash4": "dnzy"
+          "sourceGeohash4": "dnzy",
+          "smallPath": "_m/d/n/z/y/battle-of-moorefield-wp/csa-burn-chambersburg-map-1864-small.webp"
         }
       ],
       "narration": [
@@ -161,7 +168,11 @@
         "_m/d/n/z/y/battle-of-moorefield-wp/dnzy-battle-of-moorefield-averells-pre-dawn-strike.mp3",
         "_m/d/n/z/y/battle-of-moorefield-wp/dnzy-battle-of-moorefield-sabers-against-long-enfields.mp3",
         "_m/d/n/z/y/battle-of-moorefield-wp/dnzy-battle-of-moorefield-the-cost-and-consequence.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/n/z/y/battle-of-moorefield-wp/dnzy-battle-of-moorefield-combined.mp3",
+      "combinedNarrationBytes": 3183656,
+      "combinedNarrationDuration": 259,
+      "combinedCover": "_m/d/n/z/y/battle-of-moorefield-wp/dnzy-battle-of-moorefield-combined-cover.jpg"
     }
   }
 }

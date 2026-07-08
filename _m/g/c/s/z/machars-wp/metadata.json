@@ -25,7 +25,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "machars-wp",
-    "sourceGeohash4": "gcsz"
+    "sourceGeohash4": "gcsz",
+    "smallPath": "_m/g/c/s/z/machars-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "St Ninian's Cave.jpg",
@@ -78,7 +79,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "machars-wp",
-      "sourceGeohash4": "gcsz"
+      "sourceGeohash4": "gcsz",
+      "smallPath": "_m/g/c/s/z/machars-wp/mapa-na-machrach-ghall-small.webp"
     },
     {
       "filename": "Machars Coastline.JPG",
@@ -101,7 +103,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "machars-wp",
-      "sourceGeohash4": "gcsz"
+      "sourceGeohash4": "gcsz",
+      "smallPath": "_m/g/c/s/z/machars-wp/machars-coastline-small.webp"
     },
     {
       "filename": "Beach, on the Machars peninsula.jpg",
@@ -125,7 +128,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "machars-wp",
-      "sourceGeohash4": "gcsz"
+      "sourceGeohash4": "gcsz",
+      "smallPath": "_m/g/c/s/z/machars-wp/beach-on-the-machars-peninsula-small.webp"
     }
   ],
   "galleryPaths": [
@@ -133,5 +137,24 @@
     "_m/g/c/s/z/machars-wp/machars-coastline.jpg",
     "_m/g/c/s/z/machars-wp/beach-on-the-machars-peninsula.jpg"
   ],
-  "updatedAt": "2026-06-22T14:52:38.301Z"
+  "updatedAt": "2026-06-22T14:52:38.301Z",
+  "narration": {
+    "files": [
+      "gcsz-machars-flight-context.mp3",
+      "gcsz-machars-intro.mp3",
+      "gcsz-machars-a-coastline-with-everything.mp3",
+      "gcsz-machars-saint-ninians-quiet-claim.mp3",
+      "gcsz-machars-two-halves-two-landscapes.mp3",
+      "gcsz-machars-wartime-wigtown.mp3"
+    ],
+    "durations": {
+      "gcsz-machars-flight-context.mp3": 55.538125,
+      "gcsz-machars-intro.mp3": 43.7524583,
+      "gcsz-machars-a-coastline-with-everything.mp3": 57.8771666,
+      "gcsz-machars-saint-ninians-quiet-claim.mp3": 49.2349583,
+      "gcsz-machars-two-halves-two-landscapes.mp3": 50.5657083,
+      "gcsz-machars-wartime-wigtown.mp3": 57.01775
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

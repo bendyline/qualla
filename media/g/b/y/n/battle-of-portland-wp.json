@@ -26,7 +26,8 @@
           "Images from the British Library Mechanical Curator collection",
           "PD-old-70-expired",
           "Uploaded by the British Library"
-        ]
+        ],
+        "smallPath": "_m/g/b/y/n/battle-of-portland-wp/hero-small.webp"
       },
       "images": [
         {
@@ -49,7 +50,9 @@
             "Images from Military Encyclopedia. Vol. 18 (Saint-Petersburg, 1915)",
             "PD-old-70-expired",
             "PD-old missing SDC copyright status"
-          ]
+          ],
+          "mediumPath": "_m/g/b/y/n/battle-of-portland-wp/battle-portland-medium.webp",
+          "smallPath": "_m/g/b/y/n/battle-of-portland-wp/battle-portland-small.webp"
         }
       ],
       "narration": [
@@ -60,7 +63,11 @@
         "_m/g/b/y/n/battle-of-portland-wp/gbyn-battle-of-portland-brederode-against-triumph.mp3",
         "_m/g/b/y/n/battle-of-portland-wp/gbyn-battle-of-portland-two-more-days-and-a-wound-in-the-thigh.mp3",
         "_m/g/b/y/n/battle-of-portland-wp/gbyn-battle-of-portland-the-bitter-lesson.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/b/y/n/battle-of-portland-wp/gbyn-battle-of-portland-combined.mp3",
+      "combinedNarrationBytes": 4477186,
+      "combinedNarrationDuration": 361,
+      "combinedCover": "_m/g/b/y/n/battle-of-portland-wp/gbyn-battle-of-portland-combined-cover.jpg"
     }
   }
 }

@@ -24,7 +24,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "maltby-main-colliery-wp",
-    "sourceGeohash4": "gcrp"
+    "sourceGeohash4": "gcrp",
+    "smallPath": "_m/g/c/r/p/maltby-main-colliery-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Maltby colliery.jpg",
@@ -53,5 +54,24 @@
     "sourceGeohash4": "gcrp"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcrp-maltby-main-colliery-flight-context.mp3",
+      "gcrp-maltby-main-colliery-intro.mp3",
+      "gcrp-maltby-main-colliery-sinking-the-shafts.mp3",
+      "gcrp-maltby-main-colliery-going-deeper-going-down.mp3",
+      "gcrp-maltby-main-colliery-the-geology-that-beat-them.mp3",
+      "gcrp-maltby-main-colliery-demolition-and-aftermath.mp3"
+    ],
+    "durations": {
+      "gcrp-maltby-main-colliery-flight-context.mp3": 49.5605833,
+      "gcrp-maltby-main-colliery-intro.mp3": 37.983125,
+      "gcrp-maltby-main-colliery-sinking-the-shafts.mp3": 48.121125,
+      "gcrp-maltby-main-colliery-going-deeper-going-down.mp3": 72.6688333,
+      "gcrp-maltby-main-colliery-the-geology-that-beat-them.mp3": 54.9123333,
+      "gcrp-maltby-main-colliery-demolition-and-aftermath.mp3": 64.0880833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

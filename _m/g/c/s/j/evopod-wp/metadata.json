@@ -25,7 +25,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "evopod-wp",
-    "sourceGeohash4": "gcsj"
+    "sourceGeohash4": "gcsj",
+    "mediumPath": "_m/g/c/s/j/evopod-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/s/j/evopod-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Evopod Pre-Launch, Portaferry Northern Ireland.jpg",
@@ -55,5 +57,24 @@
     "sourceGeohash4": "gcsj"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcsj-evopod-flight-context.mp3",
+      "gcsj-evopod-intro.mp3",
+      "gcsj-evopod-the-idea-of-a-floating-turbine.mp3",
+      "gcsj-evopod-the-rotating-buoy.mp3",
+      "gcsj-evopod-strangford-narrows-2008.mp3",
+      "gcsj-evopod-sanda-sound-and-after.mp3"
+    ],
+    "durations": {
+      "gcsj-evopod-flight-context.mp3": 68.8122916,
+      "gcsj-evopod-intro.mp3": 50.02425,
+      "gcsj-evopod-the-idea-of-a-floating-turbine.mp3": 64.8567916,
+      "gcsj-evopod-the-rotating-buoy.mp3": 69.5144166,
+      "gcsj-evopod-strangford-narrows-2008.mp3": 66.8837916,
+      "gcsj-evopod-sanda-sound-and-after.mp3": 71.59025
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

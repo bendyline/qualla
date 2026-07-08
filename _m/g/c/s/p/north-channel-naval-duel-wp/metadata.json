@@ -20,7 +20,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "north-channel-naval-duel-wp",
-    "sourceGeohash4": "gcsp"
+    "sourceGeohash4": "gcsp",
+    "smallPath": "_m/g/c/s/p/north-channel-naval-duel-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Carrickfergus-castle-1.jpg",
@@ -45,5 +46,26 @@
     "sourceGeohash4": "gcsp"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcsp-north-channel-naval-duel-flight-context.mp3",
+      "gcsp-north-channel-naval-duel-intro.mp3",
+      "gcsp-north-channel-naval-duel-a-cruise-among-the-trade-routes.mp3",
+      "gcsp-north-channel-naval-duel-whitehaven-selkirk-and-belfast-lough.mp3",
+      "gcsp-north-channel-naval-duel-drake-comes-out.mp3",
+      "gcsp-north-channel-naval-duel-the-battle.mp3",
+      "gcsp-north-channel-naval-duel-what-the-action-meant.mp3"
+    ],
+    "durations": {
+      "gcsp-north-channel-naval-duel-flight-context.mp3": 49.10575,
+      "gcsp-north-channel-naval-duel-intro.mp3": 49.22475,
+      "gcsp-north-channel-naval-duel-a-cruise-among-the-trade-routes.mp3": 63.4628333,
+      "gcsp-north-channel-naval-duel-whitehaven-selkirk-and-belfast-lough.mp3": 68.9431666,
+      "gcsp-north-channel-naval-duel-drake-comes-out.mp3": 64.7655833,
+      "gcsp-north-channel-naval-duel-the-battle.mp3": 87.537625,
+      "gcsp-north-channel-naval-duel-what-the-action-meant.mp3": 68.9992083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

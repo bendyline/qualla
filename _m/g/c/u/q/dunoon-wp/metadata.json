@@ -24,7 +24,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "dunoon-wp",
-      "sourceGeohash4": "gcuq"
+      "sourceGeohash4": "gcuq",
+      "mediumPath": "_m/g/c/u/q/dunoon-wp/hunters-quay-dunoon-argyll-sco-medium.webp",
+      "smallPath": "_m/g/c/u/q/dunoon-wp/hunters-quay-dunoon-argyll-sco-small.webp"
     },
     {
       "filename": "Northern Constabulary Pipe Band at Cowal Highland Games Dunoon Scotland (4949923566).jpg",
@@ -50,12 +52,35 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "dunoon-wp",
-      "sourceGeohash4": "gcuq"
+      "sourceGeohash4": "gcuq",
+      "mediumPath": "_m/g/c/u/q/dunoon-wp/northern-constabulary-pipe-ban-medium.webp",
+      "smallPath": "_m/g/c/u/q/dunoon-wp/northern-constabulary-pipe-ban-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/u/q/dunoon-wp/hunters-quay-dunoon-argyll-sco.jpg",
     "_m/g/c/u/q/dunoon-wp/northern-constabulary-pipe-ban.jpg"
   ],
-  "updatedAt": "2026-06-22T19:52:13.011Z"
+  "updatedAt": "2026-06-22T19:52:13.011Z",
+  "narration": {
+    "files": [
+      "gcuq-dunoon-flight-context.mp3",
+      "gcuq-dunoon-intro.mp3",
+      "gcuq-dunoon-castle-on-a-conical-hill.mp3",
+      "gcuq-dunoon-the-steam-years.mp3",
+      "gcuq-dunoon-garrison-town.mp3",
+      "gcuq-dunoon-highland-mary-and-the-annual-gathering.mp3",
+      "gcuq-dunoon-hills-behind-the-town.mp3"
+    ],
+    "durations": {
+      "gcuq-dunoon-flight-context.mp3": 51.0967083,
+      "gcuq-dunoon-intro.mp3": 52.3687083,
+      "gcuq-dunoon-castle-on-a-conical-hill.mp3": 56.942125,
+      "gcuq-dunoon-the-steam-years.mp3": 59.1007916,
+      "gcuq-dunoon-garrison-town.mp3": 64.682125,
+      "gcuq-dunoon-highland-mary-and-the-annual-gathering.mp3": 55.3310416,
+      "gcuq-dunoon-hills-behind-the-town.mp3": 55.3152916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

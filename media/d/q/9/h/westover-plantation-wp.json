@@ -23,7 +23,8 @@
           "National Register of Historic Places with known IDs",
           "Self-published work",
           "Westover Plantation"
-        ]
+        ],
+        "smallPath": "_m/d/q/9/h/westover-plantation-wp/hero-small.webp"
       },
       "images": [
         {
@@ -39,7 +40,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Georgian_-_Charles_City,_VA_-_Westover_Plantation_(3).jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "westover-plantation-wp",
-          "sourceGeohash4": "dq9h"
+          "sourceGeohash4": "dq9h",
+          "mediumPath": "_m/d/q/9/h/westover-plantation-wp/georgian-charles-city-va-westo-medium.webp",
+          "smallPath": "_m/d/q/9/h/westover-plantation-wp/georgian-charles-city-va-westo-small.webp"
         },
         {
           "path": "_m/d/q/9/h/westover-plantation-wp/georgian-charles-city-va-westo-1.jpg",
@@ -54,7 +57,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Georgian_-_Charles_City,_VA_-_Westover_Plantation_(2).jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "westover-plantation-wp",
-          "sourceGeohash4": "dq9h"
+          "sourceGeohash4": "dq9h",
+          "mediumPath": "_m/d/q/9/h/westover-plantation-wp/georgian-charles-city-va-westo-1-medium.webp",
+          "smallPath": "_m/d/q/9/h/westover-plantation-wp/georgian-charles-city-va-westo-1-small.webp"
         },
         {
           "path": "_m/d/q/9/h/westover-plantation-wp/portrait-william-byrd-iii-john.jpg",
@@ -69,7 +74,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait,_William_Byrd_III,_John_Hesselius.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "westover-plantation-wp",
-          "sourceGeohash4": "dq9h"
+          "sourceGeohash4": "dq9h",
+          "smallPath": "_m/d/q/9/h/westover-plantation-wp/portrait-william-byrd-iii-john-small.webp"
         }
       ],
       "narration": [
@@ -79,7 +85,11 @@
         "_m/d/q/9/h/westover-plantation-wp/dq9h-westover-plantation-tobacco-and-the-people-who-grew-it.mp3",
         "_m/d/q/9/h/westover-plantation-wp/dq9h-westover-plantation-civil-war-and-a-wing-on-fire.mp3",
         "_m/d/q/9/h/westover-plantation-wp/dq9h-westover-plantation-the-georgian-eye.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/q/9/h/westover-plantation-wp/dq9h-westover-plantation-combined.mp3",
+      "combinedNarrationBytes": 3553810,
+      "combinedNarrationDuration": 287,
+      "combinedCover": "_m/d/q/9/h/westover-plantation-wp/dq9h-westover-plantation-combined-cover.jpg"
     }
   }
 }

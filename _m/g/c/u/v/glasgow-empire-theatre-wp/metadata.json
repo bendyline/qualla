@@ -22,7 +22,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "glasgow-empire-theatre-wp",
-    "sourceGeohash4": "gcuv"
+    "sourceGeohash4": "gcuv",
+    "mediumPath": "_m/g/c/u/v/glasgow-empire-theatre-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/u/v/glasgow-empire-theatre-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Glasgow Empire 1931 interior of theatre.jpg",
@@ -72,7 +74,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "glasgow-empire-theatre-wp",
-      "sourceGeohash4": "gcuv"
+      "sourceGeohash4": "gcuv",
+      "mediumPath": "_m/g/c/u/v/glasgow-empire-theatre-wp/photo-public-brochure-medium.webp",
+      "smallPath": "_m/g/c/u/v/glasgow-empire-theatre-wp/photo-public-brochure-small.webp"
     },
     {
       "filename": "Glasgow Empire Theatre Sauchiehall Street about 1930.jpg",
@@ -94,12 +98,32 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "glasgow-empire-theatre-wp",
-      "sourceGeohash4": "gcuv"
+      "sourceGeohash4": "gcuv",
+      "smallPath": "_m/g/c/u/v/glasgow-empire-theatre-wp/glasgow-empire-theatre-sauchie-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/u/v/glasgow-empire-theatre-wp/photo-public-brochure.jpg",
     "_m/g/c/u/v/glasgow-empire-theatre-wp/glasgow-empire-theatre-sauchie.jpg"
   ],
-  "updatedAt": "2026-06-22T21:58:15.815Z"
+  "updatedAt": "2026-06-22T21:58:15.815Z",
+  "narration": {
+    "files": [
+      "gcuv-glasgow-empire-theatre-flight-context.mp3",
+      "gcuv-glasgow-empire-theatre-intro.mp3",
+      "gcuv-glasgow-empire-theatre-frank-matchams-stage.mp3",
+      "gcuv-glasgow-empire-theatre-everyone-played-there.mp3",
+      "gcuv-glasgow-empire-theatre-the-english-comics-grave.mp3",
+      "gcuv-glasgow-empire-theatre-final-curtain.mp3"
+    ],
+    "durations": {
+      "gcuv-glasgow-empire-theatre-flight-context.mp3": 49.8404166,
+      "gcuv-glasgow-empire-theatre-intro.mp3": 46.0635416,
+      "gcuv-glasgow-empire-theatre-frank-matchams-stage.mp3": 58.4882916,
+      "gcuv-glasgow-empire-theatre-everyone-played-there.mp3": 60.7357083,
+      "gcuv-glasgow-empire-theatre-the-english-comics-grave.mp3": 60.8329583,
+      "gcuv-glasgow-empire-theatre-final-curtain.mp3": 67.570875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -26,7 +26,9 @@
           "Images from Wiki Loves Monuments missing SDC location of creation",
           "Self-published work",
           "Uploaded via Campaign:wlm-ie"
-        ]
+        ],
+        "mediumPath": "_m/g/c/3/1/abbeydorney-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/3/1/abbeydorney-wp/hero-small.webp"
       },
       "images": [
         {
@@ -51,7 +53,9 @@
             "Files with coordinates missing SDC location of creation",
             "Republic of Ireland photographs taken on 2023-09-07",
             "Saint Brendan's Church, Abbeydorney"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/1/abbeydorney-wp/saint-brendan-s-church-medium.webp",
+          "smallPath": "_m/g/c/3/1/abbeydorney-wp/saint-brendan-s-church-small.webp"
         },
         {
           "path": "_m/g/c/3/1/abbeydorney-wp/sign-1200474-abbeydorney-co-ke.jpg",
@@ -118,7 +122,9 @@
             "White clouds with blue sky background",
             "White letter signs",
             "White letters with green background"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/1/abbeydorney-wp/sign-1200474-abbeydorney-co-ke-medium.webp",
+          "smallPath": "_m/g/c/3/1/abbeydorney-wp/sign-1200474-abbeydorney-co-ke-small.webp"
         },
         {
           "path": "_m/g/c/3/1/abbeydorney-wp/abbeydorneystormeowyn.jpg",
@@ -133,7 +139,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abbeydorneystormeowyn.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "abbeydorney-wp",
-          "sourceGeohash4": "gc31"
+          "sourceGeohash4": "gc31",
+          "smallPath": "_m/g/c/3/1/abbeydorney-wp/abbeydorneystormeowyn-small.webp"
         },
         {
           "path": "_m/g/c/3/1/tralee-wp/tralee.jpg",
@@ -253,7 +260,11 @@
         "_m/g/c/3/1/abbeydorney-wp/gc31-abbeydorney-rebuilding-with-american-help.mp3",
         "_m/g/c/3/1/abbeydorney-wp/gc31-abbeydorney-the-crossroads-problem.mp3",
         "_m/g/c/3/1/abbeydorney-wp/gc31-abbeydorney-hurling-on-a-sunday.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/3/1/abbeydorney-wp/gc31-abbeydorney-combined.mp3",
+      "combinedNarrationBytes": 4699446,
+      "combinedNarrationDuration": 381,
+      "combinedCover": "_m/g/c/3/1/abbeydorney-wp/gc31-abbeydorney-combined-cover.jpg"
     }
   }
 }

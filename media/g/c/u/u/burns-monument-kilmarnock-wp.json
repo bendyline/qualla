@@ -24,7 +24,8 @@
           "Images with extracted images",
           "Information field template with formatting",
           "United Kingdom photographs taken on 2016-08-09"
-        ]
+        ],
+        "smallPath": "_m/g/c/u/u/burns-monument-kilmarnock-wp/hero-small.webp"
       },
       "images": [
         {
@@ -69,7 +70,9 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "United Kingdom photographs taken on 2016-08-09"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/u/burns-monument-kilmarnock-wp/burns-monument-centre-medium.webp",
+          "smallPath": "_m/g/c/u/u/burns-monument-kilmarnock-wp/burns-monument-centre-small.webp"
         },
         {
           "path": "_m/g/c/u/u/burns-monument-kilmarnock-wp/burns-monument-centre-kilmarno.jpg",
@@ -93,7 +96,8 @@
             "Information field template with formatting",
             "Statues of Robert Burns",
             "William Grant Stevenson"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/u/burns-monument-kilmarnock-wp/burns-monument-centre-kilmarno-small.webp"
         },
         {
           "path": "_m/g/c/u/u/burns-monument-kilmarnock-wp/burns-monument-centre-kilmarno.jpg",
@@ -117,7 +121,9 @@
             "Information field template with formatting",
             "Statues of Robert Burns",
             "William Grant Stevenson"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/u/burns-monument-kilmarnock-wp/burns-monument-centre-kilmarno-medium.webp",
+          "smallPath": "_m/g/c/u/u/burns-monument-kilmarnock-wp/burns-monument-centre-kilmarno-small.webp"
         },
         {
           "path": "_m/g/c/u/u/burns-monument-kilmarnock-wp/burns-monument-centre-kay-park.jpg",
@@ -140,7 +146,8 @@
             "Images by Roger Griffith",
             "Monuments and memorials to Robert Burns",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/u/burns-monument-kilmarnock-wp/burns-monument-centre-kay-park-small.webp"
         },
         {
           "path": "_m/g/c/u/u/burns-monument-kilmarnock-wp/the-robert-burns-monument-kay-.jpg",
@@ -163,7 +170,9 @@
             "Images by Roger Griffith",
             "Monuments and memorials to Robert Burns",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/u/burns-monument-kilmarnock-wp/the-robert-burns-monument-kay--medium.webp",
+          "smallPath": "_m/g/c/u/u/burns-monument-kilmarnock-wp/the-robert-burns-monument-kay--small.webp"
         },
         {
           "path": "_m/tpc/so/ut/h-/ay/south-ayrshire/dean-castle.jpg",
@@ -246,7 +255,19 @@
           "sourceArticleId": "kilmarnock-wp",
           "sourceGeohash4": "gcuu"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/u/u/burns-monument-kilmarnock-wp/gcuu-burns-monument-kilmarnock-flight-context.mp3",
+        "_m/g/c/u/u/burns-monument-kilmarnock-wp/gcuu-burns-monument-kilmarnock-intro.mp3",
+        "_m/g/c/u/u/burns-monument-kilmarnock-wp/gcuu-burns-monument-kilmarnock-subscriptions-and-a-stone.mp3",
+        "_m/g/c/u/u/burns-monument-kilmarnock-wp/gcuu-burns-monument-kilmarnock-the-fire-of-2004.mp3",
+        "_m/g/c/u/u/burns-monument-kilmarnock-wp/gcuu-burns-monument-kilmarnock-the-carbuncle-question.mp3",
+        "_m/g/c/u/u/burns-monument-kilmarnock-wp/gcuu-burns-monument-kilmarnock-what-burns-would-have-made-of-it.mp3"
+      ],
+      "combinedNarration": "_m/g/c/u/u/burns-monument-kilmarnock-wp/gcuu-burns-monument-kilmarnock-combined.mp3",
+      "combinedNarrationBytes": 3389610,
+      "combinedNarrationDuration": 276,
+      "combinedCover": "_m/g/c/u/u/burns-monument-kilmarnock-wp/gcuu-burns-monument-kilmarnock-combined-cover.jpg"
     }
   }
 }

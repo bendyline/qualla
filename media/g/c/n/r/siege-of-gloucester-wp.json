@@ -15,7 +15,8 @@
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Essex_relief_of_Gloucester_1643.jpg",
         "sourceType": "core",
         "sourceArticleId": "siege-of-gloucester-wp",
-        "sourceGeohash4": "gcnr"
+        "sourceGeohash4": "gcnr",
+        "smallPath": "_m/g/c/n/r/siege-of-gloucester-wp/hero-small.webp"
       },
       "images": [
         {
@@ -44,7 +45,9 @@
             "PD-old missing SDC copyright status",
             "Portraits by Wenzel Hollar",
             "University of Toronto Wenceslas Hollar Digital Collection"
-          ]
+          ],
+          "mediumPath": "_m/g/c/n/r/siege-of-gloucester-wp/wenceslas-hollar-charl-medium.webp",
+          "smallPath": "_m/g/c/n/r/siege-of-gloucester-wp/wenceslas-hollar-charl-small.webp"
         },
         {
           "path": "_m/g/c/n/r/siege-of-gloucester-wp/wenceslas-hollar-earl.jpg",
@@ -74,7 +77,9 @@
             "University of Toronto Wenceslas Hollar Digital Collection",
             "Unknown date",
             "Warfare of the Early Modern era"
-          ]
+          ],
+          "mediumPath": "_m/g/c/n/r/siege-of-gloucester-wp/wenceslas-hollar-earl-medium.webp",
+          "smallPath": "_m/g/c/n/r/siege-of-gloucester-wp/wenceslas-hollar-earl-small.webp"
         },
         {
           "path": "_m/g/c/n/r/siege-of-gloucester-wp/relief-map-gloucesters.jpg",
@@ -94,7 +99,9 @@
             "CC-BY-SA-3.0",
             "Maps by Nilfanion",
             "Maps of Gloucestershire"
-          ]
+          ],
+          "mediumPath": "_m/g/c/n/r/siege-of-gloucester-wp/relief-map-gloucesters-medium.webp",
+          "smallPath": "_m/g/c/n/r/siege-of-gloucester-wp/relief-map-gloucesters-small.webp"
         },
         {
           "path": "_m/g/c/n/w/cotswolds-wk/parish-church-st-john.jpg",
@@ -129,7 +136,11 @@
         "_m/g/c/n/r/siege-of-gloucester-wp/gcnr-siege-of-gloucester-masseys-raids.mp3",
         "_m/g/c/n/r/siege-of-gloucester-wp/gcnr-siege-of-gloucester-miners-from-the-forest-of-dean.mp3",
         "_m/g/c/n/r/siege-of-gloucester-wp/gcnr-siege-of-gloucester-essex-arrives.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/n/r/siege-of-gloucester-wp/gcnr-siege-of-gloucester-combined.mp3",
+      "combinedNarrationBytes": 4493108,
+      "combinedNarrationDuration": 371,
+      "combinedCover": "_m/g/c/n/r/siege-of-gloucester-wp/gcnr-siege-of-gloucester-combined-cover.jpg"
     }
   }
 }

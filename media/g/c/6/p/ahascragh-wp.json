@@ -23,7 +23,9 @@
           "Pictures by Sarah777",
           "Roads in County Galway",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/g/c/6/p/ahascragh-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/6/p/ahascragh-wp/hero-small.webp"
       },
       "images": [
         {
@@ -39,7 +41,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dillon_family_group_including_Lord_Clonbrock_and_Lord_and_Lady_Clanmorris.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "ahascragh-wp",
-          "sourceGeohash4": "gc6p"
+          "sourceGeohash4": "gc6p",
+          "smallPath": "_m/g/c/6/p/ahascragh-wp/dillon-family-group-including--small.webp"
         },
         {
           "path": "_m/g/c/6/p/ahascragh-wp/ahascragh-county-galway-geogra.jpg",
@@ -54,7 +57,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ahascragh,_County_Galway_-_geograph.org.uk_-_1848256.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "ahascragh-wp",
-          "sourceGeohash4": "gc6p"
+          "sourceGeohash4": "gc6p",
+          "mediumPath": "_m/g/c/6/p/ahascragh-wp/ahascragh-county-galway-geogra-medium.webp",
+          "smallPath": "_m/g/c/6/p/ahascragh-wp/ahascragh-county-galway-geogra-small.webp"
         }
       ],
       "narration": [
@@ -65,7 +70,11 @@
         "_m/g/c/6/p/ahascragh-wp/gc6p-ahascragh-the-workmen-of-clonbrock.mp3",
         "_m/g/c/6/p/ahascragh-wp/gc6p-ahascragh-the-hat-maker-and-the-politicians.mp3",
         "_m/g/c/6/p/ahascragh-wp/gc6p-ahascragh-dont-feed-the-gondolas.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/6/p/ahascragh-wp/gc6p-ahascragh-combined.mp3",
+      "combinedNarrationBytes": 4220888,
+      "combinedNarrationDuration": 346,
+      "combinedCover": "_m/g/c/6/p/ahascragh-wp/gc6p-ahascragh-combined-cover.jpg"
     }
   }
 }

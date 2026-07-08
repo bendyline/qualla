@@ -21,7 +21,9 @@
           "Fairey Swordfish LS326",
           "PD US Government",
           "RAF Mildenhall Air Fete 1988"
-        ]
+        ],
+        "mediumPath": "_m/g/b/y/s/operation-donnerkeil-wp/hero-medium.webp",
+        "smallPath": "_m/g/b/y/s/operation-donnerkeil-wp/hero-small.webp"
       },
       "images": [
         {
@@ -42,7 +44,8 @@
             "Media missing infobox template",
             "PD NASA",
             "Satellite pictures of the English Channel"
-          ]
+          ],
+          "smallPath": "_m/g/b/y/s/operation-donnerkeil-wp/englishchannel-small.webp"
         },
         {
           "path": "_m/g/b/y/s/operation-donnerkeil-wp/vitebsk-obl-polotsk.png",
@@ -69,7 +72,8 @@
             "Operation Donnerkeil",
             "Operation Frühlingsfest",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/b/y/s/operation-donnerkeil-wp/vitebsk-obl-polotsk-small.webp"
         },
         {
           "path": "_m/g/b/y/s/operation-donnerkeil-wp/vitebsk-obl-vitebsk.png",
@@ -96,7 +100,8 @@
             "Operation Donnerkeil",
             "Operation Kugelblitz(SU)",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/b/y/s/operation-donnerkeil-wp/vitebsk-obl-vitebsk-small.webp"
         },
         {
           "path": "_m/g/b/y/s/operation-donnerkeil-wp/belarus-viciebskaja-voblasc-ha.png",
@@ -119,7 +124,9 @@
             "Operation Donnerkeil",
             "Operation Kugelblitz(SU)",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/b/y/s/operation-donnerkeil-wp/belarus-viciebskaja-voblasc-ha-medium.webp",
+          "smallPath": "_m/g/b/y/s/operation-donnerkeil-wp/belarus-viciebskaja-voblasc-ha-small.webp"
         },
         {
           "path": "_m/g/b/y/s/operation-donnerkeil-wp/belarus-viciebskaja-voblasc-po.png",
@@ -141,7 +148,9 @@
             "Operation Donnerkeil",
             "Operation Frühlingsfest",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/b/y/s/operation-donnerkeil-wp/belarus-viciebskaja-voblasc-po-medium.webp",
+          "smallPath": "_m/g/b/y/s/operation-donnerkeil-wp/belarus-viciebskaja-voblasc-po-small.webp"
         },
         {
           "path": "_m/g/b/y/s/operation-donnerkeil-wp/belarus-viciebskaja-voblasc-vi.png",
@@ -163,7 +172,9 @@
             "Operation Donnerkeil",
             "Operation Kugelblitz(SU)",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/b/y/s/operation-donnerkeil-wp/belarus-viciebskaja-voblasc-vi-medium.webp",
+          "smallPath": "_m/g/b/y/s/operation-donnerkeil-wp/belarus-viciebskaja-voblasc-vi-small.webp"
         }
       ],
       "narration": [
@@ -175,7 +186,11 @@
         "_m/g/b/y/s/operation-donnerkeil-wp/gbys-operation-donnerkeil-the-day-everything-went-right-for-the-germans.mp3",
         "_m/g/b/y/s/operation-donnerkeil-wp/gbys-operation-donnerkeil-esmondes-six-swordfish.mp3",
         "_m/g/b/y/s/operation-donnerkeil-wp/gbys-operation-donnerkeil-mines-aftermath-reckoning.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/b/y/s/operation-donnerkeil-wp/gbys-operation-donnerkeil-combined.mp3",
+      "combinedNarrationBytes": 6020641,
+      "combinedNarrationDuration": 496,
+      "combinedCover": "_m/g/b/y/s/operation-donnerkeil-wp/gbys-operation-donnerkeil-combined-cover.jpg"
     }
   }
 }

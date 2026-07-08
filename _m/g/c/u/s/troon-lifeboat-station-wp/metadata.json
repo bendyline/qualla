@@ -22,7 +22,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "troon-lifeboat-station-wp",
-    "sourceGeohash4": "gcus"
+    "sourceGeohash4": "gcus",
+    "mediumPath": "_m/g/c/u/s/troon-lifeboat-station-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/u/s/troon-lifeboat-station-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Lifeboat Station, Troon - geograph.org.uk - 6863025.jpg",
@@ -97,7 +99,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "troon-lifeboat-station-wp",
-      "sourceGeohash4": "gcus"
+      "sourceGeohash4": "gcus",
+      "smallPath": "_m/g/c/u/s/troon-lifeboat-station-wp/troon-lifeboat-bangor-small.webp"
     },
     {
       "filename": "Troon Lifeboat Station, troon Harbour - geograph.org.uk - 39817.jpg",
@@ -123,7 +126,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "troon-lifeboat-station-wp",
-      "sourceGeohash4": "gcus"
+      "sourceGeohash4": "gcus",
+      "smallPath": "_m/g/c/u/s/troon-lifeboat-station-wp/troon-lifeboat-station-troon-h-small.webp"
     },
     {
       "filename": "Troon, Inner Harbour - geograph.org.uk - 662255.jpg",
@@ -150,7 +154,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "troon-lifeboat-station-wp",
-      "sourceGeohash4": "gcus"
+      "sourceGeohash4": "gcus",
+      "smallPath": "_m/g/c/u/s/troon-lifeboat-station-wp/troon-inner-harbour-geograph-o-small.webp"
     },
     {
       "filename": "Troon Lifeboat Station in 2011.jpg",
@@ -179,7 +184,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "troon-lifeboat-station-wp",
-      "sourceGeohash4": "gcus"
+      "sourceGeohash4": "gcus",
+      "smallPath": "_m/g/c/u/s/troon-lifeboat-station-wp/troon-lifeboat-station-in-2011-small.webp"
     },
     {
       "filename": "Lifeboat Station, Troon - geograph.org.uk - 5718431.jpg",
@@ -201,7 +207,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "troon-lifeboat-station-wp",
-      "sourceGeohash4": "gcus"
+      "sourceGeohash4": "gcus",
+      "mediumPath": "_m/g/c/u/s/troon-lifeboat-station-wp/lifeboat-station-troon-geograp-medium.webp",
+      "smallPath": "_m/g/c/u/s/troon-lifeboat-station-wp/lifeboat-station-troon-geograp-small.webp"
     },
     {
       "filename": "Lifeboat Station, Troon - geograph.org.uk - 5718438.jpg",
@@ -223,7 +231,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "troon-lifeboat-station-wp",
-      "sourceGeohash4": "gcus"
+      "sourceGeohash4": "gcus",
+      "mediumPath": "_m/g/c/u/s/troon-lifeboat-station-wp/lifeboat-station-troon-geograp-1-medium.webp",
+      "smallPath": "_m/g/c/u/s/troon-lifeboat-station-wp/lifeboat-station-troon-geograp-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -235,5 +245,24 @@
     "_m/g/c/u/s/troon-lifeboat-station-wp/lifeboat-station-troon-geograp.jpg",
     "_m/g/c/u/s/troon-lifeboat-station-wp/lifeboat-station-troon-geograp-1.jpg"
   ],
-  "updatedAt": "2026-06-22T20:47:19.975Z"
+  "updatedAt": "2026-06-22T20:47:19.975Z",
+  "narration": {
+    "files": [
+      "gcus-troon-lifeboat-station-flight-context.mp3",
+      "gcus-troon-lifeboat-station-intro.mp3",
+      "gcus-troon-lifeboat-station-how-the-station-began.mp3",
+      "gcus-troon-lifeboat-station-the-three-medals.mp3",
+      "gcus-troon-lifeboat-station-the-boats-that-have-served-here.mp3",
+      "gcus-troon-lifeboat-station-what-a-lifeboat-station-actually-is.mp3"
+    ],
+    "durations": {
+      "gcus-troon-lifeboat-station-flight-context.mp3": 37.0014583,
+      "gcus-troon-lifeboat-station-intro.mp3": 40.2270833,
+      "gcus-troon-lifeboat-station-how-the-station-began.mp3": 68.0474166,
+      "gcus-troon-lifeboat-station-the-three-medals.mp3": 73.1695,
+      "gcus-troon-lifeboat-station-the-boats-that-have-served-here.mp3": 71.6529166,
+      "gcus-troon-lifeboat-station-what-a-lifeboat-station-actually-is.mp3": 48.2168333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

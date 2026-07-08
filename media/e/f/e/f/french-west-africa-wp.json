@@ -15,7 +15,9 @@
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:French_west_africa.png",
         "sourceType": "core",
         "sourceArticleId": "french-west-africa-wp",
-        "sourceGeohash4": "efef"
+        "sourceGeohash4": "efef",
+        "mediumPath": "_m/e/f/e/f/french-west-africa-wp/hero-medium.webp",
+        "smallPath": "_m/e/f/e/f/french-west-africa-wp/hero-small.webp"
       },
       "images": [
         {
@@ -60,7 +62,9 @@
             "PD-self",
             "Palais du Gouverneur de Gorée",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/e/f/e/f/french-west-africa-wp/ancien-palais-du-gouve-medium.webp",
+          "smallPath": "_m/e/f/e/f/french-west-africa-wp/ancien-palais-du-gouve-small.webp"
         },
         {
           "path": "_m/e/f/e/f/french-west-africa-wp/meeting-governors-muse.jpg",
@@ -84,7 +88,9 @@
             "Léon Geismar",
             "Self-published work",
             "Template Unknown (author)"
-          ]
+          ],
+          "mediumPath": "_m/e/f/e/f/french-west-africa-wp/meeting-governors-muse-medium.webp",
+          "smallPath": "_m/e/f/e/f/french-west-africa-wp/meeting-governors-muse-small.webp"
         },
         {
           "path": "_m/e/f/e/f/french-west-africa-wp/aouabou-traite-1892.jpg",
@@ -128,7 +134,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:AfrOcFr_1947_SW48.JPG",
           "sourceType": "core",
           "sourceArticleId": "french-west-africa-wp",
-          "sourceGeohash4": "efef"
+          "sourceGeohash4": "efef",
+          "smallPath": "_m/e/f/e/f/french-west-africa-wp/stamp-french-western-a-small.webp"
         },
         {
           "path": "_m/e/f/e/f/french-west-africa-wp/francois-edmond-fortie.jpg",
@@ -143,7 +150,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tombouctou-Revue_%C3%A0_l%27int%C3%A9rieur_du_fort_Bonnier_(AOF).jpg",
           "sourceType": "core",
           "sourceArticleId": "french-west-africa-wp",
-          "sourceGeohash4": "efef"
+          "sourceGeohash4": "efef",
+          "smallPath": "_m/e/f/e/f/french-west-africa-wp/francois-edmond-fortie-small.webp"
         },
         {
           "path": "_m/e/f/e/f/french-west-africa-wp/francois-edmond-fortie-1.jpg",
@@ -158,7 +166,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tombouctou-La_Place_du_March%C3%A9_(AOF).jpg",
           "sourceType": "core",
           "sourceArticleId": "french-west-africa-wp",
-          "sourceGeohash4": "efef"
+          "sourceGeohash4": "efef",
+          "smallPath": "_m/e/f/e/f/french-west-africa-wp/francois-edmond-fortie-1-small.webp"
         },
         {
           "path": "_m/e/f/e/f/french-west-africa-wp/ci-gdbassam-femmesfetiches.jpg",
@@ -674,7 +683,11 @@
         "_m/e/f/e/f/french-west-africa-wp/efef-french-west-africa-the-cercle-commander.mp3",
         "_m/e/f/e/f/french-west-africa-wp/efef-french-west-africa-the-end-of-slavery-the-limits-of-freedom.mp3",
         "_m/e/f/e/f/french-west-africa-wp/efef-french-west-africa-a-federation-comes-apart.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/e/f/e/f/french-west-africa-wp/efef-french-west-africa-combined.mp3",
+      "combinedNarrationBytes": 4251424,
+      "combinedNarrationDuration": 350,
+      "combinedCover": "_m/e/f/e/f/french-west-africa-wp/efef-french-west-africa-combined-cover.jpg"
     }
   }
 }

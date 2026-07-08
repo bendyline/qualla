@@ -28,7 +28,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "oliver-castle-wp",
-    "sourceGeohash4": "gcve"
+    "sourceGeohash4": "gcve",
+    "smallPath": "_m/g/c/v/e/oliver-castle-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "OliverHouse.jpg",
@@ -61,5 +62,24 @@
     "sourceGeohash4": "gcve"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcve-oliver-castle-flight-context.mp3",
+      "gcve-oliver-castle-intro.mp3",
+      "gcve-oliver-castle-oliver-fraser-and-a-line-of-sheriffs.mp3",
+      "gcve-oliver-castle-the-knight-who-could-not-choose.mp3",
+      "gcve-oliver-castle-sheep-feuds-and-the-lawless-march.mp3",
+      "gcve-oliver-castle-from-tower-to-farm-to-memory.mp3"
+    ],
+    "durations": {
+      "gcve-oliver-castle-flight-context.mp3": 47.4189166,
+      "gcve-oliver-castle-intro.mp3": 42.653,
+      "gcve-oliver-castle-oliver-fraser-and-a-line-of-sheriffs.mp3": 49.0615833,
+      "gcve-oliver-castle-the-knight-who-could-not-choose.mp3": 58.8256666,
+      "gcve-oliver-castle-sheep-feuds-and-the-lawless-march.mp3": 61.483625,
+      "gcve-oliver-castle-from-tower-to-farm-to-memory.mp3": 49.1852083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

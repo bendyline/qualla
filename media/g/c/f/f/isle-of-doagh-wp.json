@@ -24,7 +24,8 @@
           "PD-Art missing SDC copyright status",
           "PD-old missing SDC copyright status",
           "Sir William Smith"
-        ]
+        ],
+        "smallPath": "_m/g/c/f/f/isle-of-doagh-wp/hero-small.webp"
       },
       "images": [
         {
@@ -51,7 +52,9 @@
             "Photographs by Andreas F. Borchert",
             "Self-published work",
             "Taken with Canon EOS 30D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/f/f/isle-of-doagh-wp/west-view-carrickabrag-medium.webp",
+          "smallPath": "_m/g/c/f/f/isle-of-doagh-wp/west-view-carrickabrag-small.webp"
         }
       ],
       "narration": [
@@ -62,7 +65,11 @@
         "_m/g/c/f/f/isle-of-doagh-wp/gcff-isle-of-doagh-the-famine-on-doagh.mp3",
         "_m/g/c/f/f/isle-of-doagh-wp/gcff-isle-of-doagh-wrecks-and-stills.mp3",
         "_m/g/c/f/f/isle-of-doagh-wp/gcff-isle-of-doagh-the-famine-village.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/f/f/isle-of-doagh-wp/gcff-isle-of-doagh-combined.mp3",
+      "combinedNarrationBytes": 4435213,
+      "combinedNarrationDuration": 363,
+      "combinedCover": "_m/g/c/f/f/isle-of-doagh-wp/gcff-isle-of-doagh-combined-cover.jpg"
     }
   }
 }

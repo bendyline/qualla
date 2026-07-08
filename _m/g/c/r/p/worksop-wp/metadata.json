@@ -30,11 +30,31 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "worksop-wp",
-      "sourceGeohash4": "gcrp"
+      "sourceGeohash4": "gcrp",
+      "smallPath": "_m/g/c/r/p/worksop-wp/2018-at-worksop-station-the-fo-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/r/p/worksop-wp/2018-at-worksop-station-the-fo.jpg"
   ],
-  "updatedAt": "2026-06-22T10:14:04.793Z"
+  "updatedAt": "2026-06-22T10:14:04.793Z",
+  "narration": {
+    "files": [
+      "gcrp-worksop-flight-context.mp3",
+      "gcrp-worksop-intro.mp3",
+      "gcrp-worksop-burnt-lands-and-a-norman-castle.mp3",
+      "gcrp-worksop-dissenters-on-the-road-north.mp3",
+      "gcrp-worksop-canal-rail-coal.mp3",
+      "gcrp-worksop-a-town-between-two-visitors.mp3"
+    ],
+    "durations": {
+      "gcrp-worksop-flight-context.mp3": 51.5498333,
+      "gcrp-worksop-intro.mp3": 40.743875,
+      "gcrp-worksop-burnt-lands-and-a-norman-castle.mp3": 60.6522916,
+      "gcrp-worksop-dissenters-on-the-road-north.mp3": 59.9194166,
+      "gcrp-worksop-canal-rail-coal.mp3": 83.5134583,
+      "gcrp-worksop-a-town-between-two-visitors.mp3": 74.3656666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

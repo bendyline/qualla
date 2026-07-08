@@ -24,7 +24,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "siege-of-carlisle-november-1745-wp",
-    "sourceGeohash4": "gcvb"
+    "sourceGeohash4": "gcvb",
+    "smallPath": "_m/g/c/v/b/siege-of-carlisle-november-1745-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "CarlisleCastle001.JPG",
@@ -53,5 +54,24 @@
     "sourceGeohash4": "gcvb"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcvb-siege-of-carlisle-november-1745-flight-context.mp3",
+      "gcvb-siege-of-carlisle-november-1745-intro.mp3",
+      "gcvb-siege-of-carlisle-november-1745-was-wade-really-coming.mp3",
+      "gcvb-siege-of-carlisle-november-1745-the-council-at-brampton.mp3",
+      "gcvb-siege-of-carlisle-november-1745-bonnets-on-spades.mp3",
+      "gcvb-siege-of-carlisle-november-1745-the-keys-at-brampton.mp3"
+    ],
+    "durations": {
+      "gcvb-siege-of-carlisle-november-1745-flight-context.mp3": 46.9710416,
+      "gcvb-siege-of-carlisle-november-1745-intro.mp3": 46.101125,
+      "gcvb-siege-of-carlisle-november-1745-was-wade-really-coming.mp3": 55.1075,
+      "gcvb-siege-of-carlisle-november-1745-the-council-at-brampton.mp3": 50.5709166,
+      "gcvb-siege-of-carlisle-november-1745-bonnets-on-spades.mp3": 48.6778333,
+      "gcvb-siege-of-carlisle-november-1745-the-keys-at-brampton.mp3": 77.3123333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

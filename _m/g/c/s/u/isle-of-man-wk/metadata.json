@@ -16,7 +16,9 @@
       "dateCreated": "2009-08-12 09:45:53",
       "sourceType": "sibling",
       "sourceArticleId": "isle-of-man-wk",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "mediumPath": "_m/g/c/s/u/isle-of-man-wk/st-john-s-church-isle-of-man-medium.webp",
+      "smallPath": "_m/g/c/s/u/isle-of-man-wk/st-john-s-church-isle-of-man-small.webp"
     },
     {
       "filename": "Steamtrain Isle of Man.jpg",
@@ -33,7 +35,9 @@
       "dateCreated": "2009-12-22 20:42:39",
       "sourceType": "sibling",
       "sourceArticleId": "isle-of-man-wk",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "mediumPath": "_m/g/c/s/u/isle-of-man-wk/steamtrain-isle-of-man-medium.webp",
+      "smallPath": "_m/g/c/s/u/isle-of-man-wk/steamtrain-isle-of-man-small.webp"
     },
     {
       "filename": "The View From Douglas Head, Isle Of Man..jpg",
@@ -50,7 +54,9 @@
       "dateCreated": "2009-08-11 11:08:36",
       "sourceType": "sibling",
       "sourceArticleId": "isle-of-man-wk",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "mediumPath": "_m/g/c/s/u/isle-of-man-wk/the-view-from-douglas-head-isl-medium.webp",
+      "smallPath": "_m/g/c/s/u/isle-of-man-wk/the-view-from-douglas-head-isl-small.webp"
     }
   ],
   "galleryPaths": [
@@ -58,5 +64,26 @@
     "_m/g/c/s/u/isle-of-man-wk/steamtrain-isle-of-man.jpg",
     "_m/g/c/s/u/isle-of-man-wk/the-view-from-douglas-head-isl.jpg"
   ],
-  "updatedAt": "2026-06-22T13:10:19.780Z"
+  "updatedAt": "2026-06-22T13:10:19.780Z",
+  "narration": {
+    "files": [
+      "gcsu-isle-of-man-flight-context.mp3",
+      "gcsu-isle-of-man-intro.mp3",
+      "gcsu-isle-of-man-a-country-that-says-its-older-than-it-is.mp3",
+      "gcsu-isle-of-man-revestment.mp3",
+      "gcsu-isle-of-man-the-fortnight.mp3",
+      "gcsu-isle-of-man-travelling-the-island.mp3",
+      "gcsu-isle-of-man-what-to-carry-away.mp3"
+    ],
+    "durations": {
+      "gcsu-isle-of-man-flight-context.mp3": 54.3894583,
+      "gcsu-isle-of-man-intro.mp3": 44.1502083,
+      "gcsu-isle-of-man-a-country-that-says-its-older-than-it-is.mp3": 67.7582083,
+      "gcsu-isle-of-man-revestment.mp3": 71.2174166,
+      "gcsu-isle-of-man-the-fortnight.mp3": 63.3140833,
+      "gcsu-isle-of-man-travelling-the-island.mp3": 57.029625,
+      "gcsu-isle-of-man-what-to-carry-away.mp3": 57.588125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

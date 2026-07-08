@@ -23,7 +23,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "workington-lifeboat-station-wp",
-    "sourceGeohash4": "gctq"
+    "sourceGeohash4": "gctq",
+    "mediumPath": "_m/g/c/t/q/workington-lifeboat-station-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/t/q/workington-lifeboat-station-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Workington Lifeboat - geograph.org.uk - 8065962.jpg",
@@ -51,5 +53,24 @@
     "sourceGeohash4": "gctq"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gctq-workington-lifeboat-station-flight-context.mp3",
+      "gctq-workington-lifeboat-station-intro.mp3",
+      "gctq-workington-lifeboat-station-a-station-begun-in-grief.mp3",
+      "gctq-workington-lifeboat-station-return-and-service.mp3",
+      "gctq-workington-lifeboat-station-dorothy-may-white.mp3",
+      "gctq-workington-lifeboat-station-the-sea-the-same.mp3"
+    ],
+    "durations": {
+      "gctq-workington-lifeboat-station-flight-context.mp3": 48.5864166,
+      "gctq-workington-lifeboat-station-intro.mp3": 46.1649166,
+      "gctq-workington-lifeboat-station-a-station-begun-in-grief.mp3": 59.772875,
+      "gctq-workington-lifeboat-station-return-and-service.mp3": 58.9875416,
+      "gctq-workington-lifeboat-station-dorothy-may-white.mp3": 63.73525,
+      "gctq-workington-lifeboat-station-the-sea-the-same.mp3": 46.284875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

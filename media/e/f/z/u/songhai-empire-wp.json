@@ -30,7 +30,8 @@
           "PNG that should use vector graphics",
           "Sahel",
           "Self-published work"
-        ]
+        ],
+        "smallPath": "_m/e/f/z/u/songhai-empire-wp/hero-small.webp"
       },
       "images": [
         {
@@ -57,7 +58,8 @@
             "Photographs taken on 2007-11-11",
             "Taken with Canon EOS-1Ds Mark II",
             "Timbuktu manuscripts"
-          ]
+          ],
+          "smallPath": "_m/e/f/z/u/songhai-empire-wp/image-timbuktu-manuscr-small.webp"
         },
         {
           "path": "_m/e/f/z/u/songhai-empire-wp/bataille-de-tondibi.png",
@@ -83,7 +85,8 @@
             "Saadi dynasty",
             "Self-published work",
             "Songhai Empire"
-          ]
+          ],
+          "smallPath": "_m/e/f/z/u/songhai-empire-wp/bataille-de-tondibi-small.webp"
         },
         {
           "path": "_m/e/f/z/u/songhai-empire-wp/map-of-ancient-and-medieval-su.jpg",
@@ -130,7 +133,8 @@
           "categories": [
             "African clothing",
             "CC-Zero"
-          ]
+          ],
+          "smallPath": "_m/e/f/z/u/songhai-empire-wp/zarma-souban-cloth-stripes-small.webp"
         },
         {
           "path": "_m/e/f/z/u/songhai-empire-wp/beautiful-djerma-cloth-souban.jpg",
@@ -145,7 +149,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beautiful_Djerma_cloth_Souban.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "songhai-empire-wp",
-          "sourceGeohash4": "efzu"
+          "sourceGeohash4": "efzu",
+          "mediumPath": "_m/e/f/z/u/songhai-empire-wp/beautiful-djerma-cloth-souban-medium.webp",
+          "smallPath": "_m/e/f/z/u/songhai-empire-wp/beautiful-djerma-cloth-souban-small.webp"
         },
         {
           "path": "_m/e/f/z/u/songhai-empire-wp/flag-of-the-songhai-empire.jpg",
@@ -160,7 +166,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Songhai_Empire.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "songhai-empire-wp",
-          "sourceGeohash4": "efzu"
+          "sourceGeohash4": "efzu",
+          "smallPath": "_m/e/f/z/u/songhai-empire-wp/flag-of-the-songhai-empire-small.webp"
         }
       ],
       "narration": [
@@ -170,7 +177,11 @@
         "_m/e/f/z/u/songhai-empire-wp/efzu-songhai-empire-askia-the-great.mp3",
         "_m/e/f/z/u/songhai-empire-wp/efzu-songhai-empire-gold-salt-and-the-long-roads.mp3",
         "_m/e/f/z/u/songhai-empire-wp/efzu-songhai-empire-the-day-the-sahara-crossed-over.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/e/f/z/u/songhai-empire-wp/efzu-songhai-empire-combined.mp3",
+      "combinedNarrationBytes": 3276586,
+      "combinedNarrationDuration": 269,
+      "combinedCover": "_m/e/f/z/u/songhai-empire-wp/efzu-songhai-empire-combined-cover.jpg"
     }
   }
 }

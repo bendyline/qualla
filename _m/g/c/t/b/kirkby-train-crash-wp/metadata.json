@@ -23,7 +23,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "kirkby-train-crash-wp",
-    "sourceGeohash4": "gctb"
+    "sourceGeohash4": "gctb",
+    "smallPath": "_m/g/c/t/b/kirkby-train-crash-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Tpws loop.jpg",
@@ -51,5 +52,26 @@
     "sourceGeohash4": "gctb"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gctb-kirkby-train-crash-flight-context.mp3",
+      "gctb-kirkby-train-crash-intro.mp3",
+      "gctb-kirkby-train-crash-the-18-35-to-kirkby.mp3",
+      "gctb-kirkby-train-crash-the-collision.mp3",
+      "gctb-kirkby-train-crash-what-the-investigation-found.mp3",
+      "gctb-kirkby-train-crash-the-aftermath.mp3",
+      "gctb-kirkby-train-crash-flight-context-2.mp3"
+    ],
+    "durations": {
+      "gctb-kirkby-train-crash-flight-context.mp3": 28.0739583,
+      "gctb-kirkby-train-crash-intro.mp3": 45.8052916,
+      "gctb-kirkby-train-crash-the-18-35-to-kirkby.mp3": 48.786,
+      "gctb-kirkby-train-crash-the-collision.mp3": 50.7501666,
+      "gctb-kirkby-train-crash-what-the-investigation-found.mp3": 51.8445416,
+      "gctb-kirkby-train-crash-the-aftermath.mp3": 53.7289583,
+      "gctb-kirkby-train-crash-flight-context-2.mp3": 45.9663333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

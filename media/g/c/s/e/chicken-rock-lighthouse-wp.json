@@ -22,7 +22,9 @@
           "Images from Geograph Britain and Ireland",
           "Information field template with formatting",
           "Taken with Fujifilm FinePix S5600"
-        ]
+        ],
+        "mediumPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/hero-small.webp"
       },
       "images": [
         {
@@ -47,7 +49,8 @@
             "Images from Geograph Britain and Ireland missing SDC coordinates of the point of view",
             "Information field template with formatting",
             "On OSM"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/chicken-rock-small.webp"
         },
         {
           "path": "_m/g/c/s/e/chicken-rock-lighthouse-wp/caigher-point-and-the-chicken-.jpg",
@@ -96,7 +99,8 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "Seascapes of the Isle of Man"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/the-waters-between-the-calf-of-small.webp"
         },
         {
           "path": "_m/g/c/s/e/chicken-rock-lighthouse-wp/calf-of-man-geograph-org-uk-72.jpg",
@@ -140,7 +144,8 @@
             "Chicken Rock",
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/chicken-rock-lighthouse-geogra-small.webp"
         },
         {
           "path": "_m/g/c/s/e/chicken-rock-lighthouse-wp/the-chicken-rock-lighthouse-ge.jpg",
@@ -163,7 +168,8 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "Isle of Man photographs taken on 2014-03-11"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/the-chicken-rock-lighthouse-ge-small.webp"
         },
         {
           "path": "_m/g/c/s/e/chicken-rock-lighthouse-wp/view-to-chicken-rock-geograph-.jpg",
@@ -183,7 +189,9 @@
             "CC-BY-SA-2.0",
             "Chicken Rock",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "mediumPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/view-to-chicken-rock-geograph--medium.webp",
+          "smallPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/view-to-chicken-rock-geograph--small.webp"
         },
         {
           "path": "_m/g/c/s/e/chicken-rock-lighthouse-wp/chicken-rock-lighthouse-lookin.jpg",
@@ -204,7 +212,8 @@
             "Chicken Rock",
             "Images from Geograph Britain and Ireland",
             "Isle of Man"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/chicken-rock-lighthouse-lookin-small.webp"
         },
         {
           "path": "_m/g/c/s/e/chicken-rock-lighthouse-wp/chicken-rock-lighthouse-from-i.jpg",
@@ -219,7 +228,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicken_Rock_Lighthouse_from_incoming_flight_to_Ronaldsway_Airport_-_geograph.org.uk_-_8238146.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "chicken-rock-lighthouse-wp",
-          "sourceGeohash4": "gcse"
+          "sourceGeohash4": "gcse",
+          "mediumPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/chicken-rock-lighthouse-from-i-medium.webp",
+          "smallPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/chicken-rock-lighthouse-from-i-small.webp"
         },
         {
           "path": "_m/g/c/s/e/chicken-rock-lighthouse-wp/view-towards-chicken-rock-ligh.jpg",
@@ -234,7 +245,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_towards_Chicken_Rock_Lighthouse_-_geograph.org.uk_-_8247182.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "chicken-rock-lighthouse-wp",
-          "sourceGeohash4": "gcse"
+          "sourceGeohash4": "gcse",
+          "smallPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/view-towards-chicken-rock-ligh-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/cregneash-folk-museum-1988.jpg",
@@ -396,7 +408,19 @@
           "sourceArticleId": "isle-of-man-wp",
           "sourceGeohash4": "gcsu"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/s/e/chicken-rock-lighthouse-wp/gcse-chicken-rock-lighthouse-flight-context.mp3",
+        "_m/g/c/s/e/chicken-rock-lighthouse-wp/gcse-chicken-rock-lighthouse-intro.mp3",
+        "_m/g/c/s/e/chicken-rock-lighthouse-wp/gcse-chicken-rock-lighthouse-why-the-light-was-needed.mp3",
+        "_m/g/c/s/e/chicken-rock-lighthouse-wp/gcse-chicken-rock-lighthouse-life-on-the-rock.mp3",
+        "_m/g/c/s/e/chicken-rock-lighthouse-wp/gcse-chicken-rock-lighthouse-23-december-1960.mp3",
+        "_m/g/c/s/e/chicken-rock-lighthouse-wp/gcse-chicken-rock-lighthouse-the-light-today.mp3"
+      ],
+      "combinedNarration": "_m/g/c/s/e/chicken-rock-lighthouse-wp/gcse-chicken-rock-lighthouse-combined.mp3",
+      "combinedNarrationBytes": 3413126,
+      "combinedNarrationDuration": 280,
+      "combinedCover": "_m/g/c/s/e/chicken-rock-lighthouse-wp/gcse-chicken-rock-lighthouse-combined-cover.jpg"
     }
   }
 }

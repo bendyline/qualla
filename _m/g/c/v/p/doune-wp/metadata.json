@@ -61,5 +61,24 @@
     "_m/g/c/v/p/doune-wp/doune-banner-castle.jpg",
     "_m/g/c/v/p/doune-wp/the-david-stirling-and-sas-mem.jpg"
   ],
-  "updatedAt": "2026-03-20T15:43:36.305Z"
+  "updatedAt": "2026-03-20T15:43:36.305Z",
+  "narration": {
+    "files": [
+      "gcvp-doune-flight-context.mp3",
+      "gcvp-doune-intro.mp3",
+      "gcvp-doune-the-fort-by-the-waters.mp3",
+      "gcvp-doune-the-castle-on-the-bend.mp3",
+      "gcvp-doune-fairies-hillclimbs-and-sas-founders.mp3",
+      "gcvp-doune-names-that-stayed.mp3"
+    ],
+    "durations": {
+      "gcvp-doune-flight-context.mp3": 41.3800833,
+      "gcvp-doune-intro.mp3": 45.567875,
+      "gcvp-doune-the-fort-by-the-waters.mp3": 63.587,
+      "gcvp-doune-the-castle-on-the-bend.mp3": 62.7935,
+      "gcvp-doune-fairies-hillclimbs-and-sas-founders.mp3": 60.605125,
+      "gcvp-doune-names-that-stayed.mp3": 61.7340833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -22,7 +22,8 @@
           "Self-published work",
           "Taken with Olympus C-750UZ",
           "West Burton Power Station"
-        ]
+        ],
+        "smallPath": "_m/g/c/r/r/battle-of-gainsborough-wp/hero-small.webp"
       },
       "images": [
         {
@@ -48,7 +49,8 @@
             "Oliver Cromwell",
             "Self-published work",
             "Taken with Olympus C-750UZ"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/r/battle-of-gainsborough-wp/view-summit-foxby-hill-small.webp"
         },
         {
           "path": "_m/g/c/r/r/battle-of-gainsborough-wp/battlefield-monument-f.jpg",
@@ -74,7 +76,8 @@
             "Self-published work",
             "Square plaques in England",
             "Taken with Olympus C-750UZ"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/r/battle-of-gainsborough-wp/battlefield-monument-f-small.webp"
         },
         {
           "path": "_m/g/c/r/r/battle-of-gainsborough-wp/relief-map-lincolnshir.jpg",
@@ -96,7 +99,9 @@
             "Maps of Lincolnshire",
             "Ordnance Survey Boundary Line maps",
             "Topographic maps of England"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/r/battle-of-gainsborough-wp/relief-map-lincolnshir-medium.webp",
+          "smallPath": "_m/g/c/r/r/battle-of-gainsborough-wp/relief-map-lincolnshir-small.webp"
         },
         {
           "path": "_m/g/c/r/m/newark-on-trent-wk/hphastingt5-tg517.jpg",
@@ -319,7 +324,19 @@
           "sourceArticleId": "rotherham-wp",
           "sourceGeohash4": "gcrp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/r/r/battle-of-gainsborough-wp/gcrr-battle-of-gainsborough-flight-context.mp3",
+        "_m/g/c/r/r/battle-of-gainsborough-wp/gcrr-battle-of-gainsborough-intro.mp3",
+        "_m/g/c/r/r/battle-of-gainsborough-wp/gcrr-battle-of-gainsborough-a-town-on-a-river-crossing.mp3",
+        "_m/g/c/r/r/battle-of-gainsborough-wp/gcrr-battle-of-gainsborough-march-to-foxby-hill.mp3",
+        "_m/g/c/r/r/battle-of-gainsborough-wp/gcrr-battle-of-gainsborough-the-reserve-the-marsh-and-a-sword-thrust.mp3",
+        "_m/g/c/r/r/battle-of-gainsborough-wp/gcrr-battle-of-gainsborough-what-the-day-lost-and-what-it-made.mp3"
+      ],
+      "combinedNarration": "_m/g/c/r/r/battle-of-gainsborough-wp/gcrr-battle-of-gainsborough-combined.mp3",
+      "combinedNarrationBytes": 4040424,
+      "combinedNarrationDuration": 329,
+      "combinedCover": "_m/g/c/r/r/battle-of-gainsborough-wp/gcrr-battle-of-gainsborough-combined-cover.jpg"
     }
   }
 }

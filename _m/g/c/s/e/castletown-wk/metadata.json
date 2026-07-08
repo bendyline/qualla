@@ -23,7 +23,9 @@
       ],
       "sourceType": "sibling",
       "sourceArticleId": "castletown-wk",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "mediumPath": "_m/g/c/s/e/castletown-wk/castletown-castle-rushen-panor-medium.webp",
+      "smallPath": "_m/g/c/s/e/castletown-wk/castletown-castle-rushen-panor-small.webp"
     },
     {
       "filename": "Castletown - Buildings along Bridge St, Castletown Bay - geograph.org.uk - 1716868 Cropped.jpg",
@@ -45,7 +47,9 @@
       ],
       "sourceType": "sibling",
       "sourceArticleId": "castletown-wk",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "mediumPath": "_m/g/c/s/e/castletown-wk/castletown-buildings-along-bri-medium.webp",
+      "smallPath": "_m/g/c/s/e/castletown-wk/castletown-buildings-along-bri-small.webp"
     },
     {
       "filename": "Old Grammar School, Castletown.jpg",
@@ -68,7 +72,9 @@
       ],
       "sourceType": "sibling",
       "sourceArticleId": "castletown-wk",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "mediumPath": "_m/g/c/s/e/castletown-wk/old-grammar-school-castletown-medium.webp",
+      "smallPath": "_m/g/c/s/e/castletown-wk/old-grammar-school-castletown-small.webp"
     }
   ],
   "galleryPaths": [
@@ -76,5 +82,26 @@
     "_m/g/c/s/e/castletown-wk/castletown-buildings-along-bri.jpg",
     "_m/g/c/s/e/castletown-wk/old-grammar-school-castletown.jpg"
   ],
-  "updatedAt": "2026-06-22T11:15:29.132Z"
+  "updatedAt": "2026-06-22T11:15:29.132Z",
+  "narration": {
+    "files": [
+      "gcse-castletown-flight-context.mp3",
+      "gcse-castletown-intro.mp3",
+      "gcse-castletown-arriving.mp3",
+      "gcse-castletown-the-old-town.mp3",
+      "gcse-castletown-out-to-langness.mp3",
+      "gcse-castletown-eat-drink-stay.mp3",
+      "gcse-castletown-going-on.mp3"
+    ],
+    "durations": {
+      "gcse-castletown-flight-context.mp3": 44.353,
+      "gcse-castletown-intro.mp3": 45.579,
+      "gcse-castletown-arriving.mp3": 51.4224583,
+      "gcse-castletown-the-old-town.mp3": 51.7383333,
+      "gcse-castletown-out-to-langness.mp3": 58.3449583,
+      "gcse-castletown-eat-drink-stay.mp3": 46.6455,
+      "gcse-castletown-going-on.mp3": 42.18025
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

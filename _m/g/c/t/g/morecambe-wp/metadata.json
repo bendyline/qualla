@@ -21,7 +21,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "morecambe-wp",
-      "sourceGeohash4": "gctg"
+      "sourceGeohash4": "gctg",
+      "mediumPath": "_m/g/c/t/g/morecambe-wp/beach-morecambe-06-medium.webp",
+      "smallPath": "_m/g/c/t/g/morecambe-wp/beach-morecambe-06-small.webp"
     },
     {
       "filename": "Eric Morecambe 1.JPG",
@@ -43,12 +45,32 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "morecambe-wp",
-      "sourceGeohash4": "gctg"
+      "sourceGeohash4": "gctg",
+      "smallPath": "_m/g/c/t/g/morecambe-wp/eric-morecambe-1-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/t/g/morecambe-wp/beach-morecambe-06.jpg",
     "_m/g/c/t/g/morecambe-wp/eric-morecambe-1.jpg"
   ],
-  "updatedAt": "2026-06-22T16:11:03.425Z"
+  "updatedAt": "2026-06-22T16:11:03.425Z",
+  "narration": {
+    "files": [
+      "gctg-morecambe-flight-context.mp3",
+      "gctg-morecambe-intro.mp3",
+      "gctg-morecambe-bradford-on-sea.mp3",
+      "gctg-morecambe-decline-disaster-and-mr-blobby.mp3",
+      "gctg-morecambe-the-midland-and-the-mussels.mp3",
+      "gctg-morecambe-who-came-from-here.mp3"
+    ],
+    "durations": {
+      "gctg-morecambe-flight-context.mp3": 41.654875,
+      "gctg-morecambe-intro.mp3": 39.10725,
+      "gctg-morecambe-bradford-on-sea.mp3": 61.7457083,
+      "gctg-morecambe-decline-disaster-and-mr-blobby.mp3": 78.488125,
+      "gctg-morecambe-the-midland-and-the-mussels.mp3": 80.5282916,
+      "gctg-morecambe-who-came-from-here.mp3": 81.721875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

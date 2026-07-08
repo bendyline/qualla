@@ -23,7 +23,8 @@
           "Images from Geograph Britain and Ireland",
           "Information field template with formatting",
           "Kilcash Castle"
-        ]
+        ],
+        "smallPath": "_m/g/c/6/d/kilcash-castle-wp/hero-small.webp"
       },
       "images": [
         {
@@ -48,7 +49,8 @@
             "Kilcash Castle",
             "Republic of Ireland photographs taken on 2007-09-09",
             "Taken with Canon PowerShot S3 IS"
-          ]
+          ],
+          "smallPath": "_m/g/c/6/d/kilcash-castle-wp/kilcash-castle1-small.webp"
         },
         {
           "path": "_m/g/c/6/d/kilcash-castle-wp/kilcash-castle3.jpg",
@@ -71,7 +73,8 @@
             "Information field template with formatting",
             "Kilcash Castle",
             "Republic of Ireland photographs taken on 2006-08-13"
-          ]
+          ],
+          "smallPath": "_m/g/c/6/d/kilcash-castle-wp/kilcash-castle3-small.webp"
         },
         {
           "path": "_m/g/c/6/d/kilcash-castle-wp/kilcash-castle4.jpg",
@@ -94,7 +97,8 @@
             "Information field template with formatting",
             "Kilcash Castle",
             "Republic of Ireland photographs taken on 2006-06-24"
-          ]
+          ],
+          "smallPath": "_m/g/c/6/d/kilcash-castle-wp/kilcash-castle4-small.webp"
         },
         {
           "path": "_m/g/c/6/d/kilcash-castle-wp/kilcash-castle-geograph-org-uk.jpg",
@@ -118,7 +122,8 @@
             "Information field template with formatting",
             "Kilcash Castle",
             "Republic of Ireland photographs taken on 2006-06-24"
-          ]
+          ],
+          "smallPath": "_m/g/c/6/d/kilcash-castle-wp/kilcash-castle-geograph-org-uk-small.webp"
         },
         {
           "path": "_m/g/c/6/d/kilcash-castle-wp/kilcash-castle-and-church-ruin.jpg",
@@ -141,7 +146,9 @@
             "License migration redundant",
             "Self-published work",
             "Taken with Canon PowerShot G9"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/d/kilcash-castle-wp/kilcash-castle-and-church-ruin-medium.webp",
+          "smallPath": "_m/g/c/6/d/kilcash-castle-wp/kilcash-castle-and-church-ruin-small.webp"
         },
         {
           "path": "_m/g/c/6/d/kilcash-castle-wp/vcm-s-kf-repr-832x624.jpg",
@@ -167,7 +174,8 @@
             "Ruins of churches in County Tipperary",
             "Self-published work",
             "Taken with Canon PowerShot G9"
-          ]
+          ],
+          "smallPath": "_m/g/c/6/d/kilcash-castle-wp/vcm-s-kf-repr-832x624-small.webp"
         },
         {
           "path": "_m/g/c/6/d/kilcash-castle-wp/kilcash-scaffolding-2011.jpg",
@@ -187,7 +195,9 @@
             "CC-BY-SA-3.0",
             "GFDL",
             "Kilcash Castle"
-          ]
+          ],
+          "mediumPath": "_m/g/c/6/d/kilcash-castle-wp/kilcash-scaffolding-2011-medium.webp",
+          "smallPath": "_m/g/c/6/d/kilcash-castle-wp/kilcash-scaffolding-2011-small.webp"
         },
         {
           "path": "_m/g/c/6/d/kilcash-castle-wp/kilcash-castle-wall.png",
@@ -202,7 +212,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kilcash_Castle_Wall.png",
           "sourceType": "commons-category",
           "sourceArticleId": "kilcash-castle-wp",
-          "sourceGeohash4": "gc6d"
+          "sourceGeohash4": "gc6d",
+          "smallPath": "_m/g/c/6/d/kilcash-castle-wp/kilcash-castle-wall-small.webp"
         },
         {
           "path": "_m/g/c/6/d/kilcash-castle-wp/kilcash-church-ruin-and-castle.jpg",
@@ -217,7 +228,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kilcash_church_ruin_and_castle.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "kilcash-castle-wp",
-          "sourceGeohash4": "gc6d"
+          "sourceGeohash4": "gc6d",
+          "mediumPath": "_m/g/c/6/d/kilcash-castle-wp/kilcash-church-ruin-and-castle-medium.webp",
+          "smallPath": "_m/g/c/6/d/kilcash-castle-wp/kilcash-church-ruin-and-castle-small.webp"
         },
         {
           "path": "_m/g/c/6/3/cahir-wp/swiss-cottage-cahir-2005-08-08.jpg",
@@ -375,7 +388,11 @@
         "_m/g/c/6/d/kilcash-castle-wp/gc6d-kilcash-castle-confederate-catholics-and-civil-war.mp3",
         "_m/g/c/6/d/kilcash-castle-wp/gc6d-kilcash-castle-the-mermaid-and-the-butler-mausoleum.mp3",
         "_m/g/c/6/d/kilcash-castle-wp/gc6d-kilcash-castle-the-lament.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/6/d/kilcash-castle-wp/gc6d-kilcash-castle-combined.mp3",
+      "combinedNarrationBytes": 3679106,
+      "combinedNarrationDuration": 296,
+      "combinedCover": "_m/g/c/6/d/kilcash-castle-wp/gc6d-kilcash-castle-combined-cover.jpg"
     }
   }
 }

@@ -30,7 +30,9 @@
           "Volvo chassis buses in Ireland",
           "Wright Eclipse Metro",
           "Wrightbus buses in Ireland"
-        ]
+        ],
+        "mediumPath": "_m/g/c/4/p/mahon-cork-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/4/p/mahon-cork-wp/hero-small.webp"
       },
       "images": [
         {
@@ -53,7 +55,9 @@
             "Ringmahon Castle",
             "Ringmahon House",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/4/p/mahon-cork-wp/ringmahon-castle-gate-medium.webp",
+          "smallPath": "_m/g/c/4/p/mahon-cork-wp/ringmahon-castle-gate-small.webp"
         }
       ],
       "narration": [
@@ -64,7 +68,11 @@
         "_m/g/c/4/p/mahon-cork-wp/gc4p-mahon-penns-departure.mp3",
         "_m/g/c/4/p/mahon-cork-wp/gc4p-mahon-the-modern-reinvention.mp3",
         "_m/g/c/4/p/mahon-cork-wp/gc4p-mahon-corks-sporting-edge.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/4/p/mahon-cork-wp/gc4p-mahon-cork-combined.mp3",
+      "combinedNarrationBytes": 4689951,
+      "combinedNarrationDuration": 382,
+      "combinedCover": "_m/g/c/4/p/mahon-cork-wp/gc4p-mahon-cork-combined-cover.jpg"
     }
   }
 }

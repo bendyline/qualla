@@ -22,7 +22,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "maybole-castle-wp",
-    "sourceGeohash4": "gcud"
+    "sourceGeohash4": "gcud",
+    "smallPath": "_m/g/c/u/d/maybole-castle-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "The Victorian extension to Maybole Castle - geograph.org.uk - 2093482.jpg",
@@ -102,7 +103,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "maybole-castle-wp",
-      "sourceGeohash4": "gcud"
+      "sourceGeohash4": "gcud",
+      "smallPath": "_m/g/c/u/d/maybole-castle-wp/maybole-castle-geograph-org-uk-small.webp"
     },
     {
       "filename": "The Countess's Window - geograph.org.uk - 241392.jpg",
@@ -129,7 +131,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "maybole-castle-wp",
-      "sourceGeohash4": "gcud"
+      "sourceGeohash4": "gcud",
+      "smallPath": "_m/g/c/u/d/maybole-castle-wp/the-countess-s-window-geograph-small.webp"
     },
     {
       "filename": "Maybole Castle - geograph.org.uk - 1455411.jpg",
@@ -154,7 +157,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "maybole-castle-wp",
-      "sourceGeohash4": "gcud"
+      "sourceGeohash4": "gcud",
+      "smallPath": "_m/g/c/u/d/maybole-castle-wp/maybole-castle-geograph-org-uk-1-small.webp"
     },
     {
       "filename": "The head of the old market cross, Maybole, South Ayrshire.jpg",
@@ -178,7 +182,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "maybole-castle-wp",
-      "sourceGeohash4": "gcud"
+      "sourceGeohash4": "gcud",
+      "mediumPath": "_m/g/c/u/d/maybole-castle-wp/the-head-of-the-old-market-cro-medium.webp",
+      "smallPath": "_m/g/c/u/d/maybole-castle-wp/the-head-of-the-old-market-cro-small.webp"
     },
     {
       "filename": "Maybole Castle, Maybole, South Ayrshire.jpg",
@@ -202,7 +208,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "maybole-castle-wp",
-      "sourceGeohash4": "gcud"
+      "sourceGeohash4": "gcud",
+      "mediumPath": "_m/g/c/u/d/maybole-castle-wp/maybole-castle-maybole-south-a-medium.webp",
+      "smallPath": "_m/g/c/u/d/maybole-castle-wp/maybole-castle-maybole-south-a-small.webp"
     },
     {
       "filename": "Maybole's Castle, Maybole, South Ayrshire.jpg",
@@ -226,7 +234,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "maybole-castle-wp",
-      "sourceGeohash4": "gcud"
+      "sourceGeohash4": "gcud",
+      "mediumPath": "_m/g/c/u/d/maybole-castle-wp/maybole-s-castle-maybole-south-medium.webp",
+      "smallPath": "_m/g/c/u/d/maybole-castle-wp/maybole-s-castle-maybole-south-small.webp"
     },
     {
       "filename": "Maybole, Old town cross at Maybole Castle.Kennedy of Cassillis coat of arm.jpg",
@@ -251,7 +261,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "maybole-castle-wp",
-      "sourceGeohash4": "gcud"
+      "sourceGeohash4": "gcud",
+      "mediumPath": "_m/g/c/u/d/maybole-castle-wp/maybole-old-town-cross-at-mayb-medium.webp",
+      "smallPath": "_m/g/c/u/d/maybole-castle-wp/maybole-old-town-cross-at-mayb-small.webp"
     }
   ],
   "galleryPaths": [
@@ -264,5 +276,24 @@
     "_m/g/c/u/d/maybole-castle-wp/maybole-s-castle-maybole-south.jpg",
     "_m/g/c/u/d/maybole-castle-wp/maybole-old-town-cross-at-mayb.jpg"
   ],
-  "updatedAt": "2026-06-22T18:56:31.397Z"
+  "updatedAt": "2026-06-22T18:56:31.397Z",
+  "narration": {
+    "files": [
+      "gcud-maybole-castle-flight-context.mp3",
+      "gcud-maybole-castle-intro.mp3",
+      "gcud-maybole-castle-the-l-shape-on-high-street.mp3",
+      "gcud-maybole-castle-feud-and-ambush.mp3",
+      "gcud-maybole-castle-the-countess-and-the-gypsy.mp3",
+      "gcud-maybole-castle-mackintoshs-notebook.mp3"
+    ],
+    "durations": {
+      "gcud-maybole-castle-flight-context.mp3": 34.4312916,
+      "gcud-maybole-castle-intro.mp3": 33.6362916,
+      "gcud-maybole-castle-the-l-shape-on-high-street.mp3": 52.76125,
+      "gcud-maybole-castle-feud-and-ambush.mp3": 52.1406666,
+      "gcud-maybole-castle-the-countess-and-the-gypsy.mp3": 55.4165833,
+      "gcud-maybole-castle-mackintoshs-notebook.mp3": 64.738875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

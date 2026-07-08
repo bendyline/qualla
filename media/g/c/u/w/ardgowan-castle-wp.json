@@ -21,7 +21,9 @@
           "CC-BY-SA-4.0",
           "Files with coordinates missing SDC location of creation (55° N, 5° W)",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/g/c/u/w/ardgowan-castle-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/u/w/ardgowan-castle-wp/hero-small.webp"
       },
       "images": [
         {
@@ -44,7 +46,9 @@
             "CC-BY-SA-4.0",
             "Files with coordinates missing SDC location of creation (55° N, 5° W)",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/w/ardgowan-castle-wp/ardgowan-castle-15th-c-medium.webp",
+          "smallPath": "_m/g/c/u/w/ardgowan-castle-wp/ardgowan-castle-15th-c-small.webp"
         },
         {
           "path": "_m/g/c/u/w/ardgowan-castle-wp/ardgowan-castle-15th-c-1.jpg",
@@ -65,7 +69,9 @@
             "CC-BY-SA-4.0",
             "Files with coordinates missing SDC location of creation (55° N, 5° W)",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/w/ardgowan-castle-wp/ardgowan-castle-15th-c-1-medium.webp",
+          "smallPath": "_m/g/c/u/w/ardgowan-castle-wp/ardgowan-castle-15th-c-1-small.webp"
         },
         {
           "path": "_m/g/c/u/w/ardgowan-castle-wp/inverkip-castle-geograph-org-u.jpg",
@@ -90,7 +96,8 @@
             "January 2007 in Inverclyde",
             "Taken with Fujifilm FinePix S5600",
             "United Kingdom photographs taken on 2007-01-29"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/w/ardgowan-castle-wp/inverkip-castle-geograph-org-u-small.webp"
         },
         {
           "path": "_m/g/c/u/w/ardgowan-castle-wp/inverkip-castle-geograph-org-u-1.jpg",
@@ -115,7 +122,8 @@
             "January 2007 in Inverclyde",
             "Taken with Fujifilm FinePix S5600",
             "United Kingdom photographs taken on 2007-01-29"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/w/ardgowan-castle-wp/inverkip-castle-geograph-org-u-1-small.webp"
         },
         {
           "path": "_m/g/c/u/w/ardgowan-castle-wp/lunderston-bay-sunset-geograph.jpg",
@@ -135,7 +143,8 @@
             "Ardgowan Castle",
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/w/ardgowan-castle-wp/lunderston-bay-sunset-geograph-small.webp"
         },
         {
           "path": "_m/g/c/u/w/ardgowan-castle-wp/arran-sunset-from-lunderston-b.jpg",
@@ -150,7 +159,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arran_sunset_from_Lunderston_Bay_-_geograph.org.uk_-_8198886.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "ardgowan-castle-wp",
-          "sourceGeohash4": "gcuw"
+          "sourceGeohash4": "gcuw",
+          "smallPath": "_m/g/c/u/w/ardgowan-castle-wp/arran-sunset-from-lunderston-b-small.webp"
         },
         {
           "path": "_m/g/c/u/w/inverkip-wp/wemyss-bay-railway-station-con.jpg",
@@ -198,7 +208,20 @@
             "Wemyss Bay railway station ticket office"
           ]
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/u/w/ardgowan-castle-wp/gcuw-ardgowan-castle-flight-context.mp3",
+        "_m/g/c/u/w/ardgowan-castle-wp/gcuw-ardgowan-castle-intro.mp3",
+        "_m/g/c/u/w/ardgowan-castle-wp/gcuw-ardgowan-castle-a-promontory-and-a-watchtower.mp3",
+        "_m/g/c/u/w/ardgowan-castle-wp/gcuw-ardgowan-castle-inverkip-in-the-wars-of-scottish-independence.mp3",
+        "_m/g/c/u/w/ardgowan-castle-wp/gcuw-ardgowan-castle-escape-by-sea.mp3",
+        "_m/g/c/u/w/ardgowan-castle-wp/gcuw-ardgowan-castle-from-stewarts-to-shaw-stewarts.mp3",
+        "_m/g/c/u/w/ardgowan-castle-wp/gcuw-ardgowan-castle-a-ruin-in-a-garden.mp3"
+      ],
+      "combinedNarration": "_m/g/c/u/w/ardgowan-castle-wp/gcuw-ardgowan-castle-combined.mp3",
+      "combinedNarrationBytes": 3860654,
+      "combinedNarrationDuration": 305,
+      "combinedCover": "_m/g/c/u/w/ardgowan-castle-wp/gcuw-ardgowan-castle-combined-cover.jpg"
     }
   }
 }

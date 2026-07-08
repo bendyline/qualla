@@ -24,7 +24,8 @@
           "Images from the New York Public Library",
           "PD US",
           "Timbo"
-        ]
+        ],
+        "smallPath": "_m/e/9/z/s/timbo-guinea-wp/hero-small.webp"
       },
       "images": [
         {
@@ -48,7 +49,8 @@
             "Postcards of Guinea",
             "Template Unknown (author)",
             "Timbo"
-          ]
+          ],
+          "smallPath": "_m/e/9/z/s/timbo-guinea-wp/guinee-francaise-attelage-de-b-small.webp"
         },
         {
           "path": "_m/e/9/z/s/timbo-guinea-wp/jeunes-filles-de-la-region-de-.jpg",
@@ -73,7 +75,8 @@
             "Postcards of Guinea",
             "Postcards published by François-Edmond Fortier",
             "Timbo"
-          ]
+          ],
+          "smallPath": "_m/e/9/z/s/timbo-guinea-wp/jeunes-filles-de-la-region-de--small.webp"
         },
         {
           "path": "_m/e/9/z/s/timbo-guinea-wp/almamy-de-timba-et-ses-femmes-.jpg",
@@ -101,7 +104,8 @@
             "Postcards of Guinea",
             "Postcards published by François-Edmond Fortier",
             "Timbo"
-          ]
+          ],
+          "smallPath": "_m/e/9/z/s/timbo-guinea-wp/almamy-de-timba-et-ses-femmes--small.webp"
         },
         {
           "path": "_m/e/9/z/s/timbo-guinea-wp/le-tour-du-monde-03-p392.jpg",
@@ -125,7 +129,8 @@
             "PD-old missing SDC copyright status",
             "Timbo",
             "Volume 3 of Le Tour du Monde"
-          ]
+          ],
+          "smallPath": "_m/e/9/z/s/timbo-guinea-wp/le-tour-du-monde-03-p392-small.webp"
         },
         {
           "path": "_m/e/9/z/s/timbo-guinea-wp/afrique-occidentale-guinee-tim.jpg",
@@ -146,7 +151,9 @@
             "Artworks without Wikidata item",
             "CC-PD-Mark",
             "Files from Gallica"
-          ]
+          ],
+          "mediumPath": "_m/e/9/z/s/timbo-guinea-wp/afrique-occidentale-guinee-tim-medium.webp",
+          "smallPath": "_m/e/9/z/s/timbo-guinea-wp/afrique-occidentale-guinee-tim-small.webp"
         }
       ],
       "narration": [
@@ -156,7 +163,11 @@
         "_m/e/9/z/s/timbo-guinea-wp/e9zs-timbo-guinea-karamokho-alfa-and-the-imamate.mp3",
         "_m/e/9/z/s/timbo-guinea-wp/e9zs-timbo-guinea-the-prince-who-was-sold.mp3",
         "_m/e/9/z/s/timbo-guinea-wp/e9zs-timbo-guinea-what-the-hills-remember.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/e/9/z/s/timbo-guinea-wp/e9zs-timbo-guinea-combined.mp3",
+      "combinedNarrationBytes": 2772130,
+      "combinedNarrationDuration": 223,
+      "combinedCover": "_m/e/9/z/s/timbo-guinea-wp/e9zs-timbo-guinea-combined-cover.jpg"
     }
   }
 }

@@ -45,7 +45,9 @@
             "Old maps of Northern Ireland",
             "Old maps of Scotland",
             "UK Government artistic works"
-          ]
+          ],
+          "mediumPath": "_m/g/c/s/p/beaufort-s-dyke-wp/nautical-chart-western-medium.webp",
+          "smallPath": "_m/g/c/s/p/beaufort-s-dyke-wp/nautical-chart-western-small.webp"
         },
         {
           "path": "_m/g/c/s/p/beaufort-s-dyke-wp/map-showing-location-b.png",
@@ -68,7 +70,8 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/p/beaufort-s-dyke-wp/map-showing-location-b-small.webp"
         },
         {
           "path": "_m/g/c/s/p/beaufort-s-dyke-wp/admiralty-chart-no-2198-north-.jpg",
@@ -189,7 +192,19 @@
             "WLM-UK 2018 unfiltered 09-30"
           ]
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/s/p/beaufort-s-dyke-wp/gcsp-beauforts-dyke-flight-context.mp3",
+        "_m/g/c/s/p/beaufort-s-dyke-wp/gcsp-beauforts-dyke-intro.mp3",
+        "_m/g/c/s/p/beaufort-s-dyke-wp/gcsp-beauforts-dyke-a-tunnel-cut-by-ice.mp3",
+        "_m/g/c/s/p/beaufort-s-dyke-wp/gcsp-beauforts-dyke-the-convenience-of-depth.mp3",
+        "_m/g/c/s/p/beaufort-s-dyke-wp/gcsp-beauforts-dyke-what-washes-up.mp3",
+        "_m/g/c/s/p/beaufort-s-dyke-wp/gcsp-beauforts-dyke-the-bridge-that-wasnt-built.mp3"
+      ],
+      "combinedNarration": "_m/g/c/s/p/beaufort-s-dyke-wp/gcsp-beaufort-s-dyke-combined.mp3",
+      "combinedNarrationBytes": 3533323,
+      "combinedNarrationDuration": 284,
+      "combinedCover": "_m/g/c/s/p/beaufort-s-dyke-wp/gcsp-beaufort-s-dyke-combined-cover.jpg"
     }
   }
 }

@@ -23,7 +23,8 @@
           "Ramsey Lifeboat Station",
           "Ramsey Lifeboats",
           "Shannon class lifeboats"
-        ]
+        ],
+        "smallPath": "_m/g/c/s/v/ramsey-lifeboat-station-wp/hero-small.webp"
       },
       "images": [
         {
@@ -44,9 +45,22 @@
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland",
             "Ramsey Lifeboats"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/v/ramsey-lifeboat-station-wp/ann-james-ritchie-rams-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/s/v/ramsey-lifeboat-station-wp/gcsv-ramsey-lifeboat-station-flight-context.mp3",
+        "_m/g/c/s/v/ramsey-lifeboat-station-wp/gcsv-ramsey-lifeboat-station-intro.mp3",
+        "_m/g/c/s/v/ramsey-lifeboat-station-wp/gcsv-ramsey-lifeboat-station-the-first-boat-and-a-quiet-collapse.mp3",
+        "_m/g/c/s/v/ramsey-lifeboat-station-wp/gcsv-ramsey-lifeboat-station-two-sisters-many-lives.mp3",
+        "_m/g/c/s/v/ramsey-lifeboat-station-wp/gcsv-ramsey-lifeboat-station-the-ritchies.mp3",
+        "_m/g/c/s/v/ramsey-lifeboat-station-wp/gcsv-ramsey-lifeboat-station-the-people-who-go.mp3"
+      ],
+      "combinedNarration": "_m/g/c/s/v/ramsey-lifeboat-station-wp/gcsv-ramsey-lifeboat-station-combined.mp3",
+      "combinedNarrationBytes": 3934962,
+      "combinedNarrationDuration": 320,
+      "combinedCover": "_m/g/c/s/v/ramsey-lifeboat-station-wp/gcsv-ramsey-lifeboat-station-combined-cover.jpg"
     }
   }
 }

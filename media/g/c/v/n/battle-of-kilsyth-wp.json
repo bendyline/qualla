@@ -25,7 +25,9 @@
           "PD-old-70-expired",
           "PD-old missing SDC copyright status",
           "Uploaded by the British Library"
-        ]
+        ],
+        "mediumPath": "_m/g/c/v/n/battle-of-kilsyth-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/v/n/battle-of-kilsyth-wp/hero-small.webp"
       },
       "images": [
         {
@@ -53,7 +55,8 @@
             "Images from the British Library Mechanical Curator collection",
             "PD-old-70-expired",
             "Uploaded by the British Library"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/n/battle-of-kilsyth-wp/charge-clan-maclean-small.webp"
         },
         {
           "path": "_m/g/c/v/n/kilsyth-wp/antonine-wall-roman-forts.jpg",
@@ -80,7 +83,19 @@
             "Self-published work"
           ]
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/v/n/battle-of-kilsyth-wp/gcvn-battle-of-kilsyth-flight-context.mp3",
+        "_m/g/c/v/n/battle-of-kilsyth-wp/gcvn-battle-of-kilsyth-intro.mp3",
+        "_m/g/c/v/n/battle-of-kilsyth-wp/gcvn-battle-of-kilsyth-what-montrose-had-won-and-what-was-coming.mp3",
+        "_m/g/c/v/n/battle-of-kilsyth-wp/gcvn-battle-of-kilsyth-the-march-through-the-night.mp3",
+        "_m/g/c/v/n/battle-of-kilsyth-wp/gcvn-battle-of-kilsyth-the-committee-overrules.mp3",
+        "_m/g/c/v/n/battle-of-kilsyth-wp/gcvn-battle-of-kilsyth-what-the-bog-held.mp3"
+      ],
+      "combinedNarration": "_m/g/c/v/n/battle-of-kilsyth-wp/gcvn-battle-of-kilsyth-combined.mp3",
+      "combinedNarrationBytes": 4244217,
+      "combinedNarrationDuration": 339,
+      "combinedCover": "_m/g/c/v/n/battle-of-kilsyth-wp/gcvn-battle-of-kilsyth-combined-cover.jpg"
     }
   }
 }

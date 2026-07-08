@@ -29,7 +29,9 @@
           "PD-Art (PD-old-100-expired)",
           "PD-old-100-expired",
           "Paintings by Cándido López in the Museo Nacional de Bellas Artes (Argentina)"
-        ]
+        ],
+        "mediumPath": "_m/6/d/z/d/battle-of-yatay-wp/hero-medium.webp",
+        "smallPath": "_m/6/d/z/d/battle-of-yatay-wp/hero-small.webp"
       },
       "images": [
         {
@@ -52,7 +54,9 @@
             "L'Illustration, 1865",
             "PD-old missing SDC copyright status",
             "PD Old"
-          ]
+          ],
+          "mediumPath": "_m/6/d/z/d/battle-of-yatay-wp/combat-du-yatay-rive-d-medium.webp",
+          "smallPath": "_m/6/d/z/d/battle-of-yatay-wp/combat-du-yatay-rive-d-small.webp"
         },
         {
           "path": "_m/6/d/z/d/battle-of-yatay-wp/guerre-de-l-amerique-d.jpg",
@@ -76,7 +80,9 @@
             "PD Old",
             "Template Unknown (author)",
             "War of the Triple Alliance"
-          ]
+          ],
+          "mediumPath": "_m/6/d/z/d/battle-of-yatay-wp/guerre-de-l-amerique-d-medium.webp",
+          "smallPath": "_m/6/d/z/d/battle-of-yatay-wp/guerre-de-l-amerique-d-small.webp"
         },
         {
           "path": "_m/6/d/z/d/battle-of-yatay-wp/derrota-dos-paraguaios.jpg",
@@ -98,7 +104,8 @@
             "PD-old missing SDC copyright status",
             "PD Old",
             "Template Unknown (author)"
-          ]
+          ],
+          "smallPath": "_m/6/d/z/d/battle-of-yatay-wp/derrota-dos-paraguaios-small.webp"
         },
         {
           "path": "_m/6/d/z/d/battle-of-yatay-wp/yatay.png",
@@ -119,7 +126,8 @@
             "CC-BY-SA-4.0",
             "Decapitations of people in art",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/6/d/z/d/battle-of-yatay-wp/yatay-small.webp"
         }
       ],
       "narration": [
@@ -130,7 +138,11 @@
         "_m/6/d/z/d/battle-of-yatay-wp/6dzd-battle-of-yatay-two-hours-on-horseback.mp3",
         "_m/6/d/z/d/battle-of-yatay-wp/6dzd-battle-of-yatay-the-cost.mp3",
         "_m/6/d/z/d/battle-of-yatay-wp/6dzd-battle-of-yatay-what-remains.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/6/d/z/d/battle-of-yatay-wp/6dzd-battle-of-yatay-combined.mp3",
+      "combinedNarrationBytes": 3735967,
+      "combinedNarrationDuration": 308,
+      "combinedCover": "_m/6/d/z/d/battle-of-yatay-wp/6dzd-battle-of-yatay-combined-cover.jpg"
     }
   }
 }

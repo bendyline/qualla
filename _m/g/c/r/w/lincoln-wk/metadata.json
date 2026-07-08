@@ -24,7 +24,8 @@
       ],
       "sourceType": "sibling",
       "sourceArticleId": "lincoln-wk",
-      "sourceGeohash4": "gcrw"
+      "sourceGeohash4": "gcrw",
+      "smallPath": "_m/g/c/r/w/lincoln-wk/the-merry-adventures-of-robin--small.webp"
     },
     {
       "filename": "Museum of Lincolnshire Life - geograph.org.uk - 2194821.jpg",
@@ -54,7 +55,8 @@
       ],
       "sourceType": "sibling",
       "sourceArticleId": "lincoln-wk",
-      "sourceGeohash4": "gcrw"
+      "sourceGeohash4": "gcrw",
+      "smallPath": "_m/g/c/r/w/lincoln-wk/museum-of-lincolnshire-life-ge-small.webp"
     },
     {
       "filename": "Lincoln Castle view.jpg",
@@ -79,7 +81,9 @@
       ],
       "sourceType": "sibling",
       "sourceArticleId": "lincoln-wk",
-      "sourceGeohash4": "gcrw"
+      "sourceGeohash4": "gcrw",
+      "mediumPath": "_m/g/c/r/w/lincoln-wk/lincoln-castle-view-medium.webp",
+      "smallPath": "_m/g/c/r/w/lincoln-wk/lincoln-castle-view-small.webp"
     },
     {
       "filename": "Lincoln Cathedral from Castle Hill (crop).jpg",
@@ -95,7 +99,8 @@
       "dateCreated": "2006-02-25 14:51:59",
       "sourceType": "sibling",
       "sourceArticleId": "lincoln-wk",
-      "sourceGeohash4": "gcrw"
+      "sourceGeohash4": "gcrw",
+      "smallPath": "_m/g/c/r/w/lincoln-wk/lincoln-cathedral-from-castle--small.webp"
     },
     {
       "filename": "Newport Arch.jpg",
@@ -112,7 +117,9 @@
       "dateCreated": "2013-06-09",
       "sourceType": "sibling",
       "sourceArticleId": "lincoln-wk",
-      "sourceGeohash4": "gcrw"
+      "sourceGeohash4": "gcrw",
+      "mediumPath": "_m/g/c/r/w/lincoln-wk/newport-arch-medium.webp",
+      "smallPath": "_m/g/c/r/w/lincoln-wk/newport-arch-small.webp"
     },
     {
       "filename": "Jew's House, Lincoln.jpg",
@@ -129,7 +136,9 @@
       "dateCreated": "2013-06-09",
       "sourceType": "sibling",
       "sourceArticleId": "lincoln-wk",
-      "sourceGeohash4": "gcrw"
+      "sourceGeohash4": "gcrw",
+      "mediumPath": "_m/g/c/r/w/lincoln-wk/jew-s-house-lincoln-medium.webp",
+      "smallPath": "_m/g/c/r/w/lincoln-wk/jew-s-house-lincoln-small.webp"
     }
   ],
   "galleryPaths": [
@@ -140,5 +149,26 @@
     "_m/g/c/r/w/lincoln-wk/newport-arch.jpg",
     "_m/g/c/r/w/lincoln-wk/jew-s-house-lincoln.jpg"
   ],
-  "updatedAt": "2026-06-22T10:51:05.093Z"
+  "updatedAt": "2026-06-22T10:51:05.093Z",
+  "narration": {
+    "files": [
+      "gcrw-lincoln-flight-context.mp3",
+      "gcrw-lincoln-intro.mp3",
+      "gcrw-lincoln-steep-hill-which-is-honestly-named.mp3",
+      "gcrw-lincoln-the-summit-and-what-is-on-it.mp3",
+      "gcrw-lincoln-eat-drink-browse.mp3",
+      "gcrw-lincoln-getting-there-getting-around.mp3",
+      "gcrw-lincoln-when-you-have-done-the-cathedral.mp3"
+    ],
+    "durations": {
+      "gcrw-lincoln-flight-context.mp3": 46.4804166,
+      "gcrw-lincoln-intro.mp3": 46.373125,
+      "gcrw-lincoln-steep-hill-which-is-honestly-named.mp3": 70.8386666,
+      "gcrw-lincoln-the-summit-and-what-is-on-it.mp3": 74.2474583,
+      "gcrw-lincoln-eat-drink-browse.mp3": 65.9124166,
+      "gcrw-lincoln-getting-there-getting-around.mp3": 59.9763333,
+      "gcrw-lincoln-when-you-have-done-the-cathedral.mp3": 58.0988333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

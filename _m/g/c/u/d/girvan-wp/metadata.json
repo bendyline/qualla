@@ -22,11 +22,32 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "girvan-wp",
-      "sourceGeohash4": "gcud"
+      "sourceGeohash4": "gcud",
+      "mediumPath": "_m/g/c/u/d/girvan-wp/aeolus-at-girvan-geograph-org--medium.webp",
+      "smallPath": "_m/g/c/u/d/girvan-wp/aeolus-at-girvan-geograph-org--small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/u/d/girvan-wp/aeolus-at-girvan-geograph-org-.jpg"
   ],
-  "updatedAt": "2026-06-22T18:45:45.194Z"
+  "updatedAt": "2026-06-22T18:45:45.194Z",
+  "narration": {
+    "files": [
+      "gcud-girvan-flight-context.mp3",
+      "gcud-girvan-intro.mp3",
+      "gcud-girvan-layers-under-the-field.mp3",
+      "gcud-girvan-a-court-on-the-hill-of-justice.mp3",
+      "gcud-girvan-a-town-that-makes-things.mp3",
+      "gcud-girvan-lights-in-october.mp3"
+    ],
+    "durations": {
+      "gcud-girvan-flight-context.mp3": 37.0782083,
+      "gcud-girvan-intro.mp3": 39.1389166,
+      "gcud-girvan-layers-under-the-field.mp3": 65.5407083,
+      "gcud-girvan-a-court-on-the-hill-of-justice.mp3": 53.3294166,
+      "gcud-girvan-a-town-that-makes-things.mp3": 47.9584583,
+      "gcud-girvan-lights-in-october.mp3": 56.6967083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

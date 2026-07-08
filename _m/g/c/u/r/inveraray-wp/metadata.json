@@ -44,7 +44,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "inveraray-wp",
-      "sourceGeohash4": "gcur"
+      "sourceGeohash4": "gcur",
+      "mediumPath": "_m/g/c/u/r/inveraray-wp/inveraray-jail-geograph-org-uk-medium.webp",
+      "smallPath": "_m/g/c/u/r/inveraray-wp/inveraray-jail-geograph-org-uk-small.webp"
     },
     {
       "filename": "Armoury, Inveraray Castle - geograph.org.uk - 4052717.jpg",
@@ -66,7 +68,8 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "inveraray-wp",
-      "sourceGeohash4": "gcur"
+      "sourceGeohash4": "gcur",
+      "smallPath": "_m/g/c/u/r/inveraray-wp/armoury-inveraray-castle-geogr-small.webp"
     }
   ],
   "galleryPaths": [
@@ -74,5 +77,24 @@
     "_m/g/c/u/r/inveraray-wp/inveraray-jail-geograph-org-uk.jpg",
     "_m/g/c/u/r/inveraray-wp/armoury-inveraray-castle-geogr.jpg"
   ],
-  "updatedAt": "2026-06-22T19:54:55.978Z"
+  "updatedAt": "2026-06-22T19:54:55.978Z",
+  "narration": {
+    "files": [
+      "gcur-inveraray-flight-context.mp3",
+      "gcur-inveraray-intro.mp3",
+      "gcur-inveraray-old-town-to-new-town.mp3",
+      "gcur-inveraray-burned-sacked-rebuilt.mp3",
+      "gcur-inveraray-the-bell-tower-and-the-folly.mp3",
+      "gcur-inveraray-trained-for-d-day-filmed-for-netflix.mp3"
+    ],
+    "durations": {
+      "gcur-inveraray-flight-context.mp3": 60.311375,
+      "gcur-inveraray-intro.mp3": 47.92325,
+      "gcur-inveraray-old-town-to-new-town.mp3": 68.0409166,
+      "gcur-inveraray-burned-sacked-rebuilt.mp3": 63.1921666,
+      "gcur-inveraray-the-bell-tower-and-the-folly.mp3": 56.2897083,
+      "gcur-inveraray-trained-for-d-day-filmed-for-netflix.mp3": 67.6215
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

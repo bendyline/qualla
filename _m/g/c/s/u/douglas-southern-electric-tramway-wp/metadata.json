@@ -32,7 +32,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "douglas-southern-electric-tramway-wp",
-    "sourceGeohash4": "gcsu"
+    "sourceGeohash4": "gcsu",
+    "mediumPath": "_m/g/c/s/u/douglas-southern-electric-tramway-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/s/u/douglas-southern-electric-tramway-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Douglas Southern Electric Tram - 2010-05-08.jpg",
@@ -126,7 +128,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "douglas-southern-electric-tramway-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "smallPath": "_m/g/c/s/u/douglas-southern-electric-tramway-wp/douglas-head-marine-dr-small.webp"
     },
     {
       "filename": "Douglas Southern Electric Tramway.png",
@@ -153,7 +156,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "douglas-southern-electric-tramway-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "smallPath": "_m/g/c/s/u/douglas-southern-electric-tramway-wp/map-douglas-southern-e-small.webp"
     },
     {
       "filename": "Gate - Marine Drive. Isle of Man. - geograph.org.uk - 32197.jpg",
@@ -183,7 +187,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "douglas-southern-electric-tramway-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "smallPath": "_m/g/c/s/u/douglas-southern-electric-tramway-wp/gate-marine-drive-isle-of-man--small.webp"
     },
     {
       "filename": "Marine Drive geograph-1815149-by-Glyn-Baker.jpg",
@@ -209,7 +214,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "douglas-southern-electric-tramway-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "smallPath": "_m/g/c/s/u/douglas-southern-electric-tramway-wp/marine-drive-geograph-1815149--small.webp"
     }
   ],
   "galleryPaths": [
@@ -219,5 +225,24 @@
     "_m/g/c/s/u/douglas-southern-electric-tramway-wp/gate-marine-drive-isle-of-man-.jpg",
     "_m/g/c/s/u/douglas-southern-electric-tramway-wp/marine-drive-geograph-1815149-.jpg"
   ],
-  "updatedAt": "2026-06-22T13:26:51.526Z"
+  "updatedAt": "2026-06-22T13:26:51.526Z",
+  "narration": {
+    "files": [
+      "gcsu-douglas-southern-electric-tramway-flight-context.mp3",
+      "gcsu-douglas-southern-electric-tramway-intro.mp3",
+      "gcsu-douglas-southern-electric-tramway-how-it-worked.mp3",
+      "gcsu-douglas-southern-electric-tramway-the-fleet.mp3",
+      "gcsu-douglas-southern-electric-tramway-two-wars-one-closure.mp3",
+      "gcsu-douglas-southern-electric-tramway-what-survives.mp3"
+    ],
+    "durations": {
+      "gcsu-douglas-southern-electric-tramway-flight-context.mp3": 43.9037083,
+      "gcsu-douglas-southern-electric-tramway-intro.mp3": 50.3134583,
+      "gcsu-douglas-southern-electric-tramway-how-it-worked.mp3": 48.4499583,
+      "gcsu-douglas-southern-electric-tramway-the-fleet.mp3": 56.66925,
+      "gcsu-douglas-southern-electric-tramway-two-wars-one-closure.mp3": 53.4745833,
+      "gcsu-douglas-southern-electric-tramway-what-survives.mp3": 69.8055833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

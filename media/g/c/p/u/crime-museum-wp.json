@@ -21,7 +21,9 @@
           "Crime Museum",
           "Flickr images reviewed by FlickreviewR",
           "Photographs by Régine Debatty"
-        ]
+        ],
+        "mediumPath": "_m/g/c/p/u/crime-museum-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/p/u/crime-museum-wp/hero-small.webp"
       },
       "images": [
         {
@@ -49,7 +51,8 @@
             "Rodhullandemu images",
             "Sex offenders in the United Kingdom",
             "UK Government artistic works"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/u/crime-museum-wp/police-photograph-nevi-small.webp"
         }
       ],
       "narration": [
@@ -60,7 +63,11 @@
         "_m/g/c/p/u/crime-museum-wp/gcpu-crime-museum-an-index-of-cruelty.mp3",
         "_m/g/c/p/u/crime-museum-wp/gcpu-crime-museum-the-bulgarian-umbrella.mp3",
         "_m/g/c/p/u/crime-museum-wp/gcpu-crime-museum-a-museum-that-travels.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/p/u/crime-museum-wp/gcpu-crime-museum-combined.mp3",
+      "combinedNarrationBytes": 4369332,
+      "combinedNarrationDuration": 357,
+      "combinedCover": "_m/g/c/p/u/crime-museum-wp/gcpu-crime-museum-combined-cover.jpg"
     }
   }
 }

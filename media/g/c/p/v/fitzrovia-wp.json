@@ -21,7 +21,8 @@
           "Self-published work",
           "Taken with Canon EOS 400D",
           "Tottenham Street"
-        ]
+        ],
+        "smallPath": "_m/g/c/p/v/fitzrovia-wp/hero-small.webp"
       },
       "images": [
         {
@@ -44,7 +45,8 @@
             "PD-self",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/fitzrovia-wp/fitzroy-square-camden-small.webp"
         },
         {
           "path": "_m/g/c/p/v/fitzrovia-wp/sign-wall-fitzroy-tave.jpg",
@@ -67,7 +69,9 @@
             "Self-published work",
             "War memorials in the London Borough of Camden",
             "World War II memorials in London"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/v/fitzrovia-wp/sign-wall-fitzroy-tave-medium.webp",
+          "smallPath": "_m/g/c/p/v/fitzrovia-wp/sign-wall-fitzroy-tave-small.webp"
         },
         {
           "path": "_m/g/c/p/v/fitzrovia-wp/bt-tower-1.jpg",
@@ -113,7 +117,8 @@
             "Maps of the London Borough of Camden",
             "PD US",
             "Slums in London"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/fitzrovia-wp/st-giles-parish-1804-j-small.webp"
         },
         {
           "path": "_m/g/c/p/v/fitzrovia-wp/view-bt-tower-rathbone.jpg",
@@ -133,7 +138,8 @@
             "CC-BY-SA-3.0",
             "Charlotte Place",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/fitzrovia-wp/view-bt-tower-rathbone-small.webp"
         },
         {
           "path": "_m/g/c/p/v/fitzrovia-wp/map-showing-boundaries.png",
@@ -152,7 +158,8 @@
           "categories": [
             "CC-BY-SA-4.0",
             "Marylebone"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/fitzrovia-wp/map-showing-boundaries-small.webp"
         },
         {
           "path": "_m/g/c/p/v/fitzrovia-wp/wells-street-ordnance-survey-1.jpg",
@@ -178,7 +185,9 @@
             "Street maps of London",
             "UK Government artistic works",
             "Wells Street, London"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/v/fitzrovia-wp/wells-street-ordnance-survey-1-medium.webp",
+          "smallPath": "_m/g/c/p/v/fitzrovia-wp/wells-street-ordnance-survey-1-small.webp"
         },
         {
           "path": "_m/g/c/p/v/fitzrovia-wp/office-space-oxford-street-fit.jpg",
@@ -202,7 +211,9 @@
             "Private office hire London",
             "Self-published work",
             "Serviced offices"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/v/fitzrovia-wp/office-space-oxford-street-fit-medium.webp",
+          "smallPath": "_m/g/c/p/v/fitzrovia-wp/office-space-oxford-street-fit-small.webp"
         },
         {
           "path": "_m/g/c/p/v/fitzrovia-wp/bloomsbury-from-the-air-geogra.jpg",
@@ -227,7 +238,8 @@
             "Fitzrovia",
             "Images from Geograph Britain and Ireland",
             "Images from Geograph Britain and Ireland missing SDC coordinates of the point of view"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/fitzrovia-wp/bloomsbury-from-the-air-geogra-small.webp"
         },
         {
           "path": "_m/g/c/p/v/fitzrovia-wp/bloomsbury-from-the-air-geogra-1.jpg",
@@ -252,7 +264,8 @@
             "Fitzrovia",
             "Images from Geograph Britain and Ireland",
             "Images from Geograph Britain and Ireland missing SDC coordinates of the point of view"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/fitzrovia-wp/bloomsbury-from-the-air-geogra-1-small.webp"
         },
         {
           "path": "_m/g/c/p/v/fitzrovia-wp/central-london-from-the-air-ge.jpg",
@@ -280,7 +293,8 @@
             "Regent's Park",
             "Soho, London",
             "Soho, London in 2015"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/fitzrovia-wp/central-london-from-the-air-ge-small.webp"
         },
         {
           "path": "_m/g/c/p/v/fitzrovia-wp/central-london-from-the-air-ge-1.jpg",
@@ -304,7 +318,8 @@
             "Images from Geograph Britain and Ireland",
             "Images from Geograph Britain and Ireland missing SDC coordinates of the point of view",
             "Marylebone"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/fitzrovia-wp/central-london-from-the-air-ge-1-small.webp"
         }
       ],
       "narration": [
@@ -315,7 +330,11 @@
         "_m/g/c/p/v/fitzrovia-wp/gcpv-fitzrovia-the-tower-that-lost-its-top.mp3",
         "_m/g/c/p/v/fitzrovia-wp/gcpv-fitzrovia-the-people-live-here.mp3",
         "_m/g/c/p/v/fitzrovia-wp/gcpv-fitzrovia-charlotte-street-and-its-descendants.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/p/v/fitzrovia-wp/gcpv-fitzrovia-combined.mp3",
+      "combinedNarrationBytes": 4316603,
+      "combinedNarrationDuration": 350,
+      "combinedCover": "_m/g/c/p/v/fitzrovia-wp/gcpv-fitzrovia-combined-cover.jpg"
     }
   }
 }

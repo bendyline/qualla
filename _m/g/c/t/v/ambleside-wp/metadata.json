@@ -24,7 +24,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "ambleside-wp",
-      "sourceGeohash4": "gctv"
+      "sourceGeohash4": "gctv",
+      "mediumPath": "_m/g/c/t/v/ambleside-wp/potterhome-medium.webp",
+      "smallPath": "_m/g/c/t/v/ambleside-wp/potterhome-small.webp"
     },
     {
       "filename": "Ambleside Boats.jpg",
@@ -49,7 +51,8 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "ambleside-wp",
-      "sourceGeohash4": "gctv"
+      "sourceGeohash4": "gctv",
+      "smallPath": "_m/g/c/t/v/ambleside-wp/ambleside-boats-small.webp"
     },
     {
       "filename": "Ambleside Ducks.jpg",
@@ -74,7 +77,8 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "ambleside-wp",
-      "sourceGeohash4": "gctv"
+      "sourceGeohash4": "gctv",
+      "smallPath": "_m/g/c/t/v/ambleside-wp/ambleside-ducks-small.webp"
     },
     {
       "filename": "Ambleside WV Banner.jpg",
@@ -98,7 +102,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "ambleside-wp",
-      "sourceGeohash4": "gctv"
+      "sourceGeohash4": "gctv",
+      "mediumPath": "_m/g/c/t/v/ambleside-wp/ambleside-wv-banner-medium.webp",
+      "smallPath": "_m/g/c/t/v/ambleside-wp/ambleside-wv-banner-small.webp"
     },
     {
       "filename": "Wray Castle 2008.jpg",
@@ -125,7 +131,8 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "ambleside-wp",
-      "sourceGeohash4": "gctv"
+      "sourceGeohash4": "gctv",
+      "smallPath": "_m/g/c/t/v/ambleside-wp/wray-castle-2008-small.webp"
     }
   ],
   "galleryPaths": [
@@ -135,5 +142,26 @@
     "_m/g/c/t/v/ambleside-wp/ambleside-wv-banner.jpg",
     "_m/g/c/t/v/ambleside-wp/wray-castle-2008.jpg"
   ],
-  "updatedAt": "2026-06-22T16:53:11.652Z"
+  "updatedAt": "2026-06-22T16:53:11.652Z",
+  "narration": {
+    "files": [
+      "gctv-ambleside-flight-context.mp3",
+      "gctv-ambleside-intro.mp3",
+      "gctv-ambleside-charters-wool-and-packhorses.mp3",
+      "gctv-ambleside-when-the-trains-came-the-poet-was-already-there.mp3",
+      "gctv-ambleside-an-artist-in-exile.mp3",
+      "gctv-ambleside-hikers-pubs-and-michelin-stars.mp3",
+      "gctv-ambleside-mountain-rescue-and-the-climate.mp3"
+    ],
+    "durations": {
+      "gctv-ambleside-flight-context.mp3": 58.2146666,
+      "gctv-ambleside-intro.mp3": 36.7494583,
+      "gctv-ambleside-charters-wool-and-packhorses.mp3": 45.2546666,
+      "gctv-ambleside-when-the-trains-came-the-poet-was-already-there.mp3": 60.8064583,
+      "gctv-ambleside-an-artist-in-exile.mp3": 55.0647083,
+      "gctv-ambleside-hikers-pubs-and-michelin-stars.mp3": 58.2903333,
+      "gctv-ambleside-mountain-rescue-and-the-climate.mp3": 46.338375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

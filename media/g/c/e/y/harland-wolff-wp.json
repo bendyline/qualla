@@ -26,7 +26,9 @@
           "Harland and Wolff shipyard, Belfast",
           "Nomadic (ship, 1911)",
           "PD Old"
-        ]
+        ],
+        "mediumPath": "_m/g/c/e/y/harland-wolff-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/e/y/harland-wolff-wp/hero-small.webp"
       },
       "images": [
         {
@@ -51,7 +53,8 @@
             "Shipbuilding",
             "UK Government artistic works",
             "Welding"
-          ]
+          ],
+          "smallPath": "_m/g/c/e/y/harland-wolff-wp/shipbuilding-liverpool-small.webp"
         },
         {
           "path": "_m/g/c/e/y/harland-wolff-wp/hero.jpg",
@@ -87,7 +90,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samson_and_Goliath_2018-07-27.jpg",
           "sourceType": "core",
           "sourceArticleId": "harland-wolff-wp",
-          "sourceGeohash4": "gcey"
+          "sourceGeohash4": "gcey",
+          "mediumPath": "_m/g/c/e/y/harland-wolff-wp/enormous-gantry-cranes-medium.webp",
+          "smallPath": "_m/g/c/e/y/harland-wolff-wp/enormous-gantry-cranes-small.webp"
         },
         {
           "path": "_m/g/c/e/y/harland-wolff-wp/anvil-point-logistics.jpg",
@@ -102,7 +107,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anvil_Point,_Marchwood.jpg",
           "sourceType": "core",
           "sourceArticleId": "harland-wolff-wp",
-          "sourceGeohash4": "gcey"
+          "sourceGeohash4": "gcey",
+          "smallPath": "_m/g/c/e/y/harland-wolff-wp/anvil-point-logistics-small.webp"
         }
       ],
       "narration": [
@@ -113,7 +119,11 @@
         "_m/g/c/e/y/harland-wolff-wp/gcey-harland-wolff-the-protestant-closed-shop.mp3",
         "_m/g/c/e/y/harland-wolff-wp/gcey-harland-wolff-the-blitz-and-the-long-decline.mp3",
         "_m/g/c/e/y/harland-wolff-wp/gcey-harland-wolff-the-spanish-era-begins.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/e/y/harland-wolff-wp/gcey-harland-wolff-combined.mp3",
+      "combinedNarrationBytes": 4965991,
+      "combinedNarrationDuration": 405,
+      "combinedCover": "_m/g/c/e/y/harland-wolff-wp/gcey-harland-wolff-combined-cover.jpg"
     }
   }
 }

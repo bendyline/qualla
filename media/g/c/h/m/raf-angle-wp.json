@@ -21,7 +21,9 @@
           "De Havilland DH.98 Mosquito",
           "Template Unknown (author)",
           "UK Government artistic works"
-        ]
+        ],
+        "mediumPath": "_m/g/c/h/m/raf-angle-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/h/m/raf-angle-wp/hero-small.webp"
       },
       "images": [
         {
@@ -46,7 +48,9 @@
             "Photographs from the Imperial War Museum",
             "RNAS Yeovilton in World War II",
             "UK Government artistic works"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/m/raf-angle-wp/six-fleet-air-arm-hawk-medium.webp",
+          "smallPath": "_m/g/c/h/m/raf-angle-wp/six-fleet-air-arm-hawk-small.webp"
         },
         {
           "path": "_m/g/c/h/m/raf-angle-wp/royal-air-force-coasta.jpg",
@@ -71,7 +75,8 @@
             "Royal Air Force Coastal Command",
             "UK Government artistic works",
             "World War II on the Atlantic Ocean"
-          ]
+          ],
+          "smallPath": "_m/g/c/h/m/raf-angle-wp/royal-air-force-coasta-small.webp"
         },
         {
           "path": "_m/g/c/h/m/raf-angle-wp/c-n-cbaf-2405-actual-b.jpg",
@@ -95,7 +100,9 @@
             "Photographs by Alan Wilson",
             "R9649 (aircraft)",
             "Supermarine Spitfire at the Flying Legends air show 2016"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/m/raf-angle-wp/c-n-cbaf-2405-actual-b-medium.webp",
+          "smallPath": "_m/g/c/h/m/raf-angle-wp/c-n-cbaf-2405-actual-b-small.webp"
         },
         {
           "path": "_m/g/c/h/m/raf-angle-wp/target-dossier-angle-p.jpg",
@@ -109,7 +116,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Target_Dossier_for_Angle,_Pembrokeshire,_Wales_-_DPLA_-_7e0a8fe065a26e53586fa340e1263045_(page_1).jpg",
           "sourceType": "core",
           "sourceArticleId": "raf-angle-wp",
-          "sourceGeohash4": "gchm"
+          "sourceGeohash4": "gchm",
+          "mediumPath": "_m/g/c/h/m/raf-angle-wp/target-dossier-angle-p-medium.webp",
+          "smallPath": "_m/g/c/h/m/raf-angle-wp/target-dossier-angle-p-small.webp"
         },
         {
           "path": "_m/g/c/h/q/milford-haven-wp/milford-banner.jpg",
@@ -315,7 +324,11 @@
         "_m/g/c/h/m/raf-angle-wp/gchm-raf-angle-the-czech-squadron.mp3",
         "_m/g/c/h/m/raf-angle-wp/gchm-raf-angle-whirlwinds-and-coastal-trials.mp3",
         "_m/g/c/h/m/raf-angle-wp/gchm-raf-angle-memory-in-stone.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/h/m/raf-angle-wp/gchm-raf-angle-combined.mp3",
+      "combinedNarrationBytes": 4322052,
+      "combinedNarrationDuration": 353,
+      "combinedCover": "_m/g/c/h/m/raf-angle-wp/gchm-raf-angle-combined-cover.jpg"
     }
   }
 }

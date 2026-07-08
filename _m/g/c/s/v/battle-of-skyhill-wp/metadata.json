@@ -27,7 +27,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "battle-of-skyhill-wp",
-    "sourceGeohash4": "gcsv"
+    "sourceGeohash4": "gcsv",
+    "smallPath": "_m/g/c/s/v/battle-of-skyhill-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Skyhill Battleground.jpg",
@@ -84,11 +85,31 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-skyhill-wp",
-      "sourceGeohash4": "gcsv"
+      "sourceGeohash4": "gcsv",
+      "smallPath": "_m/g/c/s/v/battle-of-skyhill-wp/skyhill-battlefield-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/s/v/battle-of-skyhill-wp/skyhill-battlefield.jpg"
   ],
-  "updatedAt": "2026-06-22T14:15:28.300Z"
+  "updatedAt": "2026-06-22T14:15:28.300Z",
+  "narration": {
+    "files": [
+      "gcsv-battle-of-skyhill-flight-context.mp3",
+      "gcsv-battle-of-skyhill-intro.mp3",
+      "gcsv-battle-of-skyhill-the-kingdom-of-the-isles.mp3",
+      "gcsv-battle-of-skyhill-a-wood-above-the-harbour.mp3",
+      "gcsv-battle-of-skyhill-a-sanctioned-plundering.mp3",
+      "gcsv-battle-of-skyhill-seventy-four-years-of-his-line.mp3"
+    ],
+    "durations": {
+      "gcsv-battle-of-skyhill-flight-context.mp3": 44.496125,
+      "gcsv-battle-of-skyhill-intro.mp3": 48.905875,
+      "gcsv-battle-of-skyhill-the-kingdom-of-the-isles.mp3": 54.26825,
+      "gcsv-battle-of-skyhill-a-wood-above-the-harbour.mp3": 66.0565416,
+      "gcsv-battle-of-skyhill-a-sanctioned-plundering.mp3": 54.8493333,
+      "gcsv-battle-of-skyhill-seventy-four-years-of-his-line.mp3": 54.3196666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -20,7 +20,9 @@
           "Athena Theatre (Athens, Ohio)",
           "CC-BY-SA-4.0",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/d/n/v/x/athena-cinema-wp/hero-medium.webp",
+        "smallPath": "_m/d/n/v/x/athena-cinema-wp/hero-small.webp"
       },
       "images": [
         {
@@ -45,7 +47,8 @@
             "June 1915 in Ohio",
             "Mary Pickford in 1915",
             "PD US expired"
-          ]
+          ],
+          "smallPath": "_m/d/n/v/x/athena-cinema-wp/advertisement-featured-small.webp"
         },
         {
           "path": "_m/d/n/v/x/athena-cinema-wp/athena-theatre.jpg",
@@ -71,7 +74,9 @@
             "Self-published work",
             "Taken with Canon PowerShot SX130 IS",
             "WLM 2012 United States reviewed"
-          ]
+          ],
+          "mediumPath": "_m/d/n/v/x/athena-cinema-wp/athena-theatre-medium.webp",
+          "smallPath": "_m/d/n/v/x/athena-cinema-wp/athena-theatre-small.webp"
         },
         {
           "path": "_m/d/n/v/x/athena-cinema-wp/athena-cinema.jpg",
@@ -91,7 +96,9 @@
             "Athena Theatre (Athens, Ohio)",
             "CC-BY-SA-4.0",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/d/n/v/x/athena-cinema-wp/athena-cinema-medium.webp",
+          "smallPath": "_m/d/n/v/x/athena-cinema-wp/athena-cinema-small.webp"
         },
         {
           "path": "_m/d/n/v/x/athena-cinema-wp/downtown-athens-ohio-2004.jpg",
@@ -115,7 +122,8 @@
             "GFDL-en",
             "License migration completed",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/d/n/v/x/athena-cinema-wp/downtown-athens-ohio-2004-small.webp"
         },
         {
           "path": "_m/d/n/v/x/athena-cinema-wp/athena-cinema-uptown-range-boo.jpg",
@@ -139,7 +147,9 @@
             "Media contributed by the Digital Public Library of America",
             "Media contributed by the Ohio Digital Network",
             "PD US"
-          ]
+          ],
+          "mediumPath": "_m/d/n/v/x/athena-cinema-wp/athena-cinema-uptown-range-boo-medium.webp",
+          "smallPath": "_m/d/n/v/x/athena-cinema-wp/athena-cinema-uptown-range-boo-small.webp"
         }
       ],
       "narration": [
@@ -151,7 +161,11 @@
         "_m/d/n/v/x/athena-cinema-wp/dnvx-athena-cinema-sin-censorship-and-a-clockwork-orange.mp3",
         "_m/d/n/v/x/athena-cinema-wp/dnvx-athena-cinema-the-theater-that-students-run.mp3",
         "_m/d/n/v/x/athena-cinema-wp/dnvx-athena-cinema-flying-over-the-college-town.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/n/v/x/athena-cinema-wp/dnvx-athena-cinema-combined.mp3",
+      "combinedNarrationBytes": 4413708,
+      "combinedNarrationDuration": 359,
+      "combinedCover": "_m/d/n/v/x/athena-cinema-wp/dnvx-athena-cinema-combined-cover.jpg"
     }
   }
 }

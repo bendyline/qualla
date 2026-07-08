@@ -26,7 +26,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "edinburgh-vaults-wp",
-    "sourceGeohash4": "gcvw"
+    "sourceGeohash4": "gcvw",
+    "mediumPath": "_m/g/c/v/w/edinburgh-vaults-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/v/w/edinburgh-vaults-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Edinburgh valuts 2.jpg",
@@ -83,7 +85,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "edinburgh-vaults-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "smallPath": "_m/g/c/v/w/edinburgh-vaults-wp/edinburgh-vaults-scotl-small.webp"
     },
     {
       "filename": "Ghost Hunter Tour 03 (1232265752).jpg",
@@ -106,7 +109,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "edinburgh-vaults-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "smallPath": "_m/g/c/v/w/edinburgh-vaults-wp/ghost-hunter-tour-03-123226575-small.webp"
     },
     {
       "filename": "Ghost Hunter Tour 08 (1232270756).jpg",
@@ -129,7 +133,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "edinburgh-vaults-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "smallPath": "_m/g/c/v/w/edinburgh-vaults-wp/ghost-hunter-tour-08-123227075-small.webp"
     },
     {
       "filename": "Ghost Hunter Tour 10 (1232273092).jpg",
@@ -152,7 +157,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "edinburgh-vaults-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "smallPath": "_m/g/c/v/w/edinburgh-vaults-wp/ghost-hunter-tour-10-123227309-small.webp"
     },
     {
       "filename": "Ghost Hunter Tour 01 (1232263404).jpg",
@@ -175,7 +181,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "edinburgh-vaults-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "smallPath": "_m/g/c/v/w/edinburgh-vaults-wp/ghost-hunter-tour-01-123226340-small.webp"
     }
   ],
   "galleryPaths": [
@@ -185,5 +192,26 @@
     "_m/g/c/v/w/edinburgh-vaults-wp/ghost-hunter-tour-10-123227309.jpg",
     "_m/g/c/v/w/edinburgh-vaults-wp/ghost-hunter-tour-01-123226340.jpg"
   ],
-  "updatedAt": "2026-06-23T02:36:37.544Z"
+  "updatedAt": "2026-06-23T02:36:37.544Z",
+  "narration": {
+    "files": [
+      "gcvw-edinburgh-vaults-flight-context.mp3",
+      "gcvw-edinburgh-vaults-intro.mp3",
+      "gcvw-edinburgh-vaults-a-bridge-that-forgot-to-be-a-bridge.mp3",
+      "gcvw-edinburgh-vaults-when-the-water-won.mp3",
+      "gcvw-edinburgh-vaults-an-illegal-distillery-under-the-bridge.mp3",
+      "gcvw-edinburgh-vaults-rediscovery-and-oyster-shells.mp3",
+      "gcvw-edinburgh-vaults-pilgrims-at-the-fringe.mp3"
+    ],
+    "durations": {
+      "gcvw-edinburgh-vaults-flight-context.mp3": 56.2308333,
+      "gcvw-edinburgh-vaults-intro.mp3": 37.0815833,
+      "gcvw-edinburgh-vaults-a-bridge-that-forgot-to-be-a-bridge.mp3": 55.1442083,
+      "gcvw-edinburgh-vaults-when-the-water-won.mp3": 58.6702083,
+      "gcvw-edinburgh-vaults-an-illegal-distillery-under-the-bridge.mp3": 55.792625,
+      "gcvw-edinburgh-vaults-rediscovery-and-oyster-shells.mp3": 61.5040416,
+      "gcvw-edinburgh-vaults-pilgrims-at-the-fringe.mp3": 40.8330416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

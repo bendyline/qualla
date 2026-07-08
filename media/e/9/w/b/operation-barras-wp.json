@@ -15,7 +15,9 @@
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:RAF_Chinook.jpg",
         "sourceType": "core",
         "sourceArticleId": "operation-barras-wp",
-        "sourceGeohash4": "e9wb"
+        "sourceGeohash4": "e9wb",
+        "mediumPath": "_m/e/9/w/b/operation-barras-wp/hero-medium.webp",
+        "smallPath": "_m/e/9/w/b/operation-barras-wp/hero-small.webp"
       },
       "images": [
         {
@@ -36,7 +38,9 @@
             "Files with no machine-readable source",
             "Media missing infobox template",
             "Outdated maps of Sierra Leone"
-          ]
+          ],
+          "mediumPath": "_m/e/9/w/b/operation-barras-wp/unsierraleone-medium.webp",
+          "smallPath": "_m/e/9/w/b/operation-barras-wp/unsierraleone-small.webp"
         },
         {
           "path": "_m/e/9/w/b/operation-barras-wp/davos-klosters-switzer.jpg",
@@ -66,7 +70,9 @@
             "Items with ticket permission confirmed",
             "Taken with Canon EOS-1Ds Mark III",
             "Tony Blair in 2009"
-          ]
+          ],
+          "mediumPath": "_m/e/9/w/b/operation-barras-wp/davos-klosters-switzer-medium.webp",
+          "smallPath": "_m/e/9/w/b/operation-barras-wp/davos-klosters-switzer-small.webp"
         },
         {
           "path": "_m/e/9/w/b/operation-barras-wp/british-chief-defence.jpg",
@@ -81,7 +87,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gen._Sir_David_Richards_at_NATO_Summit_in_Chicago_May_20,_2012.jpg",
           "sourceType": "core",
           "sourceArticleId": "operation-barras-wp",
-          "sourceGeohash4": "e9wb"
+          "sourceGeohash4": "e9wb",
+          "smallPath": "_m/e/9/w/b/operation-barras-wp/british-chief-defence-small.webp"
         },
         {
           "path": "_m/e/9/w/b/operation-barras-wp/29-commando-regiment-m.jpg",
@@ -96,7 +103,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:29_Commando_Regiment_memorial,_Plymouth_2014-04-02_02.jpg",
           "sourceType": "core",
           "sourceArticleId": "operation-barras-wp",
-          "sourceGeohash4": "e9wb"
+          "sourceGeohash4": "e9wb",
+          "mediumPath": "_m/e/9/w/b/operation-barras-wp/29-commando-regiment-m-medium.webp",
+          "smallPath": "_m/e/9/w/b/operation-barras-wp/29-commando-regiment-m-small.webp"
         },
         {
           "path": "_m/e/9/w/b/operation-barras-wp/inscription-plaque-sou.jpg",
@@ -111,7 +120,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaque_on_south_side_of_29_Commando_Regiment_memorial,_Plymouth_2014-04-02.jpg",
           "sourceType": "core",
           "sourceArticleId": "operation-barras-wp",
-          "sourceGeohash4": "e9wb"
+          "sourceGeohash4": "e9wb",
+          "mediumPath": "_m/e/9/w/b/operation-barras-wp/inscription-plaque-sou-medium.webp",
+          "smallPath": "_m/e/9/w/b/operation-barras-wp/inscription-plaque-sou-small.webp"
         }
       ],
       "narration": [
@@ -121,7 +132,11 @@
         "_m/e/9/w/b/operation-barras-wp/e9wb-operation-barras-twenty-minutes-at-dawn.mp3",
         "_m/e/9/w/b/operation-barras-wp/e9wb-operation-barras-who-walked-out.mp3",
         "_m/e/9/w/b/operation-barras-wp/e9wb-operation-barras-what-the-raid-changed.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/e/9/w/b/operation-barras-wp/e9wb-operation-barras-combined.mp3",
+      "combinedNarrationBytes": 2939151,
+      "combinedNarrationDuration": 241,
+      "combinedCover": "_m/e/9/w/b/operation-barras-wp/e9wb-operation-barras-combined-cover.jpg"
     }
   }
 }

@@ -21,7 +21,9 @@
           "PD-self",
           "Self-published work",
           "Taken with Sony DSC-P200"
-        ]
+        ],
+        "mediumPath": "_m/g/c/t/t/calder-abbey-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/t/t/calder-abbey-wp/hero-small.webp"
       },
       "images": [
         {
@@ -48,7 +50,8 @@
             "November 2004 in Cumbria",
             "Taken with Canon PowerShot G5",
             "United Kingdom photographs taken on 2004-11-08"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/t/calder-abbey-wp/calder-abbey-cumbria-small.webp"
         },
         {
           "path": "_m/g/c/t/t/calder-abbey-wp/map-layout-buildings-c.jpg",
@@ -68,7 +71,9 @@
             "Calder Abbey",
             "PD US expired",
             "Plans of abbeys, convents, monasteries in England"
-          ]
+          ],
+          "mediumPath": "_m/g/c/t/t/calder-abbey-wp/map-layout-buildings-c-medium.webp",
+          "smallPath": "_m/g/c/t/t/calder-abbey-wp/map-layout-buildings-c-small.webp"
         },
         {
           "path": "_m/g/c/t/t/calder-abbey-wp/calderabbey1.jpg",
@@ -90,7 +95,8 @@
             "Images by Humphrey Bolton",
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/t/calder-abbey-wp/calderabbey1-small.webp"
         },
         {
           "path": "_m/g/c/t/t/calder-abbey-wp/calderabbey2.jpg",
@@ -113,7 +119,8 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "Taken with Olympus C-300Z / D-550Z"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/t/calder-abbey-wp/calderabbey2-small.webp"
         },
         {
           "path": "_m/g/c/t/t/calder-abbey-wp/calder-abbey-hall.jpg",
@@ -136,7 +143,8 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "Taken with Olympus C-300Z / D-550Z"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/t/calder-abbey-wp/calder-abbey-hall-small.webp"
         },
         {
           "path": "_m/g/c/t/t/calder-abbey-wp/calder-abbey-ice-house-geograp.jpg",
@@ -162,7 +170,8 @@
             "Information field template with formatting",
             "Listed buildings in England with known IDs",
             "United Kingdom photographs taken on 2005-11-10"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/t/calder-abbey-wp/calder-abbey-ice-house-geograp-small.webp"
         },
         {
           "path": "_m/g/c/t/t/calder-abbey-wp/ruins-of-calder-abbey-geograph.jpg",
@@ -185,9 +194,22 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "United Kingdom photographs taken on 2009-09-13"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/t/calder-abbey-wp/ruins-of-calder-abbey-geograph-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/t/t/calder-abbey-wp/gctt-calder-abbey-flight-context.mp3",
+        "_m/g/c/t/t/calder-abbey-wp/gctt-calder-abbey-intro.mp3",
+        "_m/g/c/t/t/calder-abbey-wp/gctt-calder-abbey-driven-out-twice.mp3",
+        "_m/g/c/t/t/calder-abbey-wp/gctt-calder-abbey-the-second-founding.mp3",
+        "_m/g/c/t/t/calder-abbey-wp/gctt-calder-abbey-the-end-of-monasteries.mp3",
+        "_m/g/c/t/t/calder-abbey-wp/gctt-calder-abbey-what-remains.mp3"
+      ],
+      "combinedNarration": "_m/g/c/t/t/calder-abbey-wp/gctt-calder-abbey-combined.mp3",
+      "combinedNarrationBytes": 3701605,
+      "combinedNarrationDuration": 297,
+      "combinedCover": "_m/g/c/t/t/calder-abbey-wp/gctt-calder-abbey-combined-cover.jpg"
     }
   }
 }

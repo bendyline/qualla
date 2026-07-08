@@ -21,7 +21,9 @@
           "PD-self",
           "Self-published work",
           "Taken with Fujifilm FinePix J50"
-        ]
+        ],
+        "mediumPath": "_m/g/c/8/u/glencastle-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/8/u/glencastle-wp/hero-small.webp"
       },
       "images": [
         {
@@ -72,7 +74,8 @@
             "CC-BY-SA-2.0",
             "Glencastle",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/8/u/glencastle-wp/attractive-fields-with-gravel--small.webp"
         },
         {
           "path": "_m/g/c/8/u/glencastle-wp/r313-wild-atlantic-way-geograp.jpg",
@@ -92,7 +95,8 @@
             "CC-BY-SA-2.0",
             "Glencastle",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/8/u/glencastle-wp/r313-wild-atlantic-way-geograp-small.webp"
         }
       ],
       "narration": [
@@ -102,7 +106,11 @@
         "_m/g/c/8/u/glencastle-wp/gc8u-glencastle-westropps-glen.mp3",
         "_m/g/c/8/u/glencastle-wp/gc8u-glencastle-old-stones-and-lost-stones.mp3",
         "_m/g/c/8/u/glencastle-wp/gc8u-glencastle-the-barretts-of-inver.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/8/u/glencastle-wp/gc8u-glencastle-combined.mp3",
+      "combinedNarrationBytes": 3328858,
+      "combinedNarrationDuration": 270,
+      "combinedCover": "_m/g/c/8/u/glencastle-wp/gc8u-glencastle-combined-cover.jpg"
     }
   }
 }

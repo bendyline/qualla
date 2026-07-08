@@ -22,7 +22,8 @@
           "Information field template with formatting",
           "Roads in County Mayo",
           "Townlands of County Mayo"
-        ]
+        ],
+        "smallPath": "_m/g/c/8/f/tonragee-wp/hero-small.webp"
       },
       "narration": [
         "_m/g/c/8/f/tonragee-wp/gc8f-tonragee-flight-context.mp3",
@@ -31,7 +32,11 @@
         "_m/g/c/8/f/tonragee-wp/gc8f-tonragee-a-band-of-pipers.mp3",
         "_m/g/c/8/f/tonragee-wp/gc8f-tonragee-the-railway-that-was.mp3",
         "_m/g/c/8/f/tonragee-wp/gc8f-tonragee-the-r319.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/8/f/tonragee-wp/gc8f-tonragee-combined.mp3",
+      "combinedNarrationBytes": 2650214,
+      "combinedNarrationDuration": 217,
+      "combinedCover": "_m/g/c/8/f/tonragee-wp/gc8f-tonragee-combined-cover.jpg"
     }
   }
 }

@@ -21,7 +21,8 @@
           "IMI Uzi",
           "PD-user",
           "Toyota Land Cruiser (J90)"
-        ]
+        ],
+        "smallPath": "_m/g/c/7/x/garda-emergency-response-unit-wp/hero-small.webp"
       },
       "images": [
         {
@@ -47,7 +48,8 @@
             "License migration redundant",
             "Self-published work",
             "Walther P99"
-          ]
+          ],
+          "smallPath": "_m/g/c/7/x/garda-emergency-response-unit-wp/walther-p99-chambered-small.webp"
         },
         {
           "path": "_m/g/c/7/x/garda-emergency-response-unit-wp/norwegian-army-heckler.png",
@@ -88,7 +90,9 @@
             "Heckler & Koch MP7",
             "PD-self",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/7/x/garda-emergency-response-unit-wp/german-heckler-koch-mp-medium.webp",
+          "smallPath": "_m/g/c/7/x/garda-emergency-response-unit-wp/german-heckler-koch-mp-small.webp"
         },
         {
           "path": "_m/g/c/7/x/garda-emergency-response-unit-wp/free-use-image-irish-g.jpg",
@@ -112,7 +116,8 @@
             "Heckler & Koch MP7",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/7/x/garda-emergency-response-unit-wp/free-use-image-irish-g-small.webp"
         },
         {
           "path": "_m/g/c/7/x/garda-emergency-response-unit-wp/garda-eru-maritime-operations.jpg",
@@ -139,7 +144,8 @@
             "Police rigid-hulled inflatable boats",
             "Rigid-hulled inflatable boats in Ireland",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/7/x/garda-emergency-response-unit-wp/garda-eru-maritime-operations-small.webp"
         },
         {
           "path": "_m/g/c/7/x/garda-emergency-response-unit-wp/blue-garda-eru-velcro-patch-ta.jpg",
@@ -160,7 +166,9 @@
             "Garda Emergency Response Unit",
             "Police patches of Ireland",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/7/x/garda-emergency-response-unit-wp/blue-garda-eru-velcro-patch-ta-medium.webp",
+          "smallPath": "_m/g/c/7/x/garda-emergency-response-unit-wp/blue-garda-eru-velcro-patch-ta-small.webp"
         }
       ],
       "narration": [
@@ -171,7 +179,11 @@
         "_m/g/c/7/x/garda-emergency-response-unit-wp/gc7x-garda-emergency-response-unit-dominic-mcglinchey-and-the-ira-years.mp3",
         "_m/g/c/7/x/garda-emergency-response-unit-wp/gc7x-garda-emergency-response-unit-john-carthy-and-abbeylara.mp3",
         "_m/g/c/7/x/garda-emergency-response-unit-wp/gc7x-garda-emergency-response-unit-the-atlas-network.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/7/x/garda-emergency-response-unit-wp/gc7x-garda-emergency-response-unit-combined.mp3",
+      "combinedNarrationBytes": 5935547,
+      "combinedNarrationDuration": 490,
+      "combinedCover": "_m/g/c/7/x/garda-emergency-response-unit-wp/gc7x-garda-emergency-response-unit-combined-cover.jpg"
     }
   }
 }

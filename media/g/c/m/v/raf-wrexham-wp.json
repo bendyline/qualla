@@ -22,7 +22,9 @@
           "Royal Air Force stations",
           "Taken with Nikon D40",
           "UK Government artistic works"
-        ]
+        ],
+        "mediumPath": "_m/g/c/m/v/raf-wrexham-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/m/v/raf-wrexham-wp/hero-small.webp"
       },
       "images": [
         {
@@ -44,7 +46,8 @@
             "Files with coordinates missing SDC location of creation (53° N, 3° W)",
             "History of Wrexham County Borough",
             "UK Government artistic works"
-          ]
+          ],
+          "smallPath": "_m/g/c/m/v/raf-wrexham-wp/aerial-reconnaissance-small.webp"
         }
       ],
       "narration": [
@@ -54,7 +57,11 @@
         "_m/g/c/m/v/raf-wrexham-wp/gcmv-raf-wrexham-night-fighters-and-decoy-fires.mp3",
         "_m/g/c/m/v/raf-wrexham-wp/gcmv-raf-wrexham-american-cub-strips-in-welsh-fields.mp3",
         "_m/g/c/m/v/raf-wrexham-wp/gcmv-raf-wrexham-the-cold-war-bunker-that-plays-records-now.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/m/v/raf-wrexham-wp/gcmv-raf-wrexham-combined.mp3",
+      "combinedNarrationBytes": 4239012,
+      "combinedNarrationDuration": 341,
+      "combinedCover": "_m/g/c/m/v/raf-wrexham-wp/gcmv-raf-wrexham-combined-cover.jpg"
     }
   }
 }

@@ -83,7 +83,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "turnberry-castle-wp",
-      "sourceGeohash4": "gcud"
+      "sourceGeohash4": "gcud",
+      "smallPath": "_m/g/c/u/d/turnberry-castle-wp/balkenna-isle-geograph-org-uk--small.webp"
     },
     {
       "filename": "Turnberry Castle.jpg",
@@ -108,7 +109,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "turnberry-castle-wp",
-      "sourceGeohash4": "gcud"
+      "sourceGeohash4": "gcud",
+      "smallPath": "_m/g/c/u/d/turnberry-castle-wp/turnberry-castle-small.webp"
     },
     {
       "filename": "Ailsa Craig with Turnberry Castle.jpg",
@@ -131,7 +133,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "turnberry-castle-wp",
-      "sourceGeohash4": "gcud"
+      "sourceGeohash4": "gcud",
+      "mediumPath": "_m/g/c/u/d/turnberry-castle-wp/ailsa-craig-with-turnberry-cas-medium.webp",
+      "smallPath": "_m/g/c/u/d/turnberry-castle-wp/ailsa-craig-with-turnberry-cas-small.webp"
     },
     {
       "filename": "Turnberry lighthouse and Castle, South Ayrshire.jpg",
@@ -157,7 +161,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "turnberry-castle-wp",
-      "sourceGeohash4": "gcud"
+      "sourceGeohash4": "gcud",
+      "mediumPath": "_m/g/c/u/d/turnberry-castle-wp/turnberry-lighthouse-and-castl-medium.webp",
+      "smallPath": "_m/g/c/u/d/turnberry-castle-wp/turnberry-lighthouse-and-castl-small.webp"
     },
     {
       "filename": "Turnberry's lighthouse and Castle site, South Ayrshire.jpg",
@@ -184,7 +190,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "turnberry-castle-wp",
-      "sourceGeohash4": "gcud"
+      "sourceGeohash4": "gcud",
+      "mediumPath": "_m/g/c/u/d/turnberry-castle-wp/turnberry-s-lighthouse-and-cas-medium.webp",
+      "smallPath": "_m/g/c/u/d/turnberry-castle-wp/turnberry-s-lighthouse-and-cas-small.webp"
     },
     {
       "filename": "The Turnberry Lighthouse and castle site. South Ayrshire.jpg",
@@ -210,7 +218,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "turnberry-castle-wp",
-      "sourceGeohash4": "gcud"
+      "sourceGeohash4": "gcud",
+      "mediumPath": "_m/g/c/u/d/turnberry-castle-wp/the-turnberry-lighthouse-and-c-medium.webp",
+      "smallPath": "_m/g/c/u/d/turnberry-castle-wp/the-turnberry-lighthouse-and-c-small.webp"
     }
   ],
   "galleryPaths": [
@@ -221,5 +231,24 @@
     "_m/g/c/u/d/turnberry-castle-wp/turnberry-s-lighthouse-and-cas.jpg",
     "_m/g/c/u/d/turnberry-castle-wp/the-turnberry-lighthouse-and-c.jpg"
   ],
-  "updatedAt": "2026-06-22T19:02:10.641Z"
+  "updatedAt": "2026-06-22T19:02:10.641Z",
+  "narration": {
+    "files": [
+      "gcud-turnberry-castle-flight-context.mp3",
+      "gcud-turnberry-castle-intro.mp3",
+      "gcud-turnberry-castle-a-reluctant-marriage.mp3",
+      "gcud-turnberry-castle-a-secret-meeting-in-1286.mp3",
+      "gcud-turnberry-castle-pulled-down-by-its-own-king.mp3",
+      "gcud-turnberry-castle-the-lighthouse-on-the-foundation.mp3"
+    ],
+    "durations": {
+      "gcud-turnberry-castle-flight-context.mp3": 50.344,
+      "gcud-turnberry-castle-intro.mp3": 36.1315,
+      "gcud-turnberry-castle-a-reluctant-marriage.mp3": 51.6317916,
+      "gcud-turnberry-castle-a-secret-meeting-in-1286.mp3": 49.5173333,
+      "gcud-turnberry-castle-pulled-down-by-its-own-king.mp3": 58.1124583,
+      "gcud-turnberry-castle-the-lighthouse-on-the-foundation.mp3": 53.34225
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

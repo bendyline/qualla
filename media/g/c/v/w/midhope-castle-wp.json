@@ -23,7 +23,8 @@
           "Midhope Castle",
           "Self-published work",
           "Taken with Vivitar ViviCam 8300s"
-        ]
+        ],
+        "smallPath": "_m/g/c/v/w/midhope-castle-wp/hero-small.webp"
       },
       "images": [
         {
@@ -48,7 +49,8 @@
             "Midhope Castle",
             "Self-published work",
             "Taken with Vivitar ViviCam 8300s"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/w/midhope-castle-wp/midhope-castle-general-small.webp"
         },
         {
           "path": "_m/g/c/v/w/midhope-castle-wp/view-dovecot-midhope-c.jpg",
@@ -71,7 +73,8 @@
             "Midhope Castle",
             "Self-published work",
             "Taken with Vivitar ViviCam 8300s"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/w/midhope-castle-wp/view-dovecot-midhope-c-small.webp"
         },
         {
           "path": "_m/g/c/v/w/midhope-castle-wp/midhope-tower-geograph-org-uk-.jpg",
@@ -94,7 +97,8 @@
             "Information field template with formatting",
             "Midhope Castle",
             "United Kingdom photographs taken on 2009-05-11"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/w/midhope-castle-wp/midhope-tower-geograph-org-uk--small.webp"
         },
         {
           "path": "_m/g/c/v/w/midhope-castle-wp/2018-07-07-schottland-77-midho.jpg",
@@ -115,7 +119,9 @@
             "Files with coordinates missing SDC location of creation (55° N, 4° W)",
             "Midhope Castle",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/v/w/midhope-castle-wp/2018-07-07-schottland-77-midho-medium.webp",
+          "smallPath": "_m/g/c/v/w/midhope-castle-wp/2018-07-07-schottland-77-midho-small.webp"
         },
         {
           "path": "_m/g/c/v/w/midhope-castle-wp/west-lothian-midhope-castle-20.jpg",
@@ -130,7 +136,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:West_Lothian_-_Midhope_Castle_-_2025-09-26_02-40-05_001.JPG",
           "sourceType": "commons-category",
           "sourceArticleId": "midhope-castle-wp",
-          "sourceGeohash4": "gcvw"
+          "sourceGeohash4": "gcvw",
+          "mediumPath": "_m/g/c/v/w/midhope-castle-wp/west-lothian-midhope-castle-20-medium.webp",
+          "smallPath": "_m/g/c/v/w/midhope-castle-wp/west-lothian-midhope-castle-20-small.webp"
         },
         {
           "path": "_m/g/c/v/w/south-queensferry-wp/hopetoun01.jpg",
@@ -375,7 +383,19 @@
           "sourceArticleId": "south-queensferry-wp",
           "sourceGeohash4": "gcvw"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/v/w/midhope-castle-wp/gcvw-midhope-castle-flight-context.mp3",
+        "_m/g/c/v/w/midhope-castle-wp/gcvw-midhope-castle-intro.mp3",
+        "_m/g/c/v/w/midhope-castle-wp/gcvw-midhope-castle-the-martins-and-the-drummonds.mp3",
+        "_m/g/c/v/w/midhope-castle-wp/gcvw-midhope-castle-a-servant-returns-the-queens-jewels.mp3",
+        "_m/g/c/v/w/midhope-castle-wp/gcvw-midhope-castle-the-1678-facelift.mp3",
+        "_m/g/c/v/w/midhope-castle-wp/gcvw-midhope-castle-becoming-lallybroch.mp3"
+      ],
+      "combinedNarration": "_m/g/c/v/w/midhope-castle-wp/gcvw-midhope-castle-combined.mp3",
+      "combinedNarrationBytes": 3464317,
+      "combinedNarrationDuration": 277,
+      "combinedCover": "_m/g/c/v/w/midhope-castle-wp/gcvw-midhope-castle-combined-cover.jpg"
     }
   }
 }

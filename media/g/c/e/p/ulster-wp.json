@@ -21,7 +21,9 @@
           "Flickr images uploaded by Flickr upload bot",
           "Taken with Canon Digital IXUS 400",
           "White Park Bay"
-        ]
+        ],
+        "mediumPath": "_m/g/c/e/p/ulster-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/e/p/ulster-wp/hero-small.webp"
       },
       "images": [
         {
@@ -52,7 +54,9 @@
             "PD US expired",
             "Photochrom pictures from the Library of Congress",
             "Royal Avenue, Belfast"
-          ]
+          ],
+          "mediumPath": "_m/g/c/e/p/ulster-wp/royal-avenue-belfast-c-medium.webp",
+          "smallPath": "_m/g/c/e/p/ulster-wp/royal-avenue-belfast-c-small.webp"
         },
         {
           "path": "_m/g/c/e/p/ulster-wp/fintown-railway-trackb.jpg",
@@ -67,7 +71,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fintown_Railway_on_trackbed_of_CDR_County_Donegal_Railway,_Lough_Finn_(5951398952).jpg",
           "sourceType": "core",
           "sourceArticleId": "ulster-wp",
-          "sourceGeohash4": "gcep"
+          "sourceGeohash4": "gcep",
+          "mediumPath": "_m/g/c/e/p/ulster-wp/fintown-railway-trackb-medium.webp",
+          "smallPath": "_m/g/c/e/p/ulster-wp/fintown-railway-trackb-small.webp"
         },
         {
           "path": "_m/g/c/e/p/ulster-wp/entrance-to-the-towpath-at-sol.jpg",
@@ -91,7 +97,8 @@
             "Towpaths in the United Kingdom",
             "Ulster",
             "United Kingdom photographs taken on 2007-11-29"
-          ]
+          ],
+          "smallPath": "_m/g/c/e/p/ulster-wp/entrance-to-the-towpath-at-sol-small.webp"
         },
         {
           "path": "_m/g/c/e/p/ulster-wp/map-showing-the-traditional-ge.png",
@@ -106,7 +113,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Map_showing_the_traditional,_geographical_counties_of_Northern_Ireland.png",
           "sourceType": "commons-category",
           "sourceArticleId": "ulster-wp",
-          "sourceGeohash4": "gcep"
+          "sourceGeohash4": "gcep",
+          "mediumPath": "_m/g/c/e/p/ulster-wp/map-showing-the-traditional-ge-medium.webp",
+          "smallPath": "_m/g/c/e/p/ulster-wp/map-showing-the-traditional-ge-small.webp"
         },
         {
           "path": "_m/g/c/e/p/ulster-wp/map-showing-the-traditional-ge-1.png",
@@ -121,7 +130,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Map_showing_the_traditional,_geographical_county_of_County_Fermanagh,_Northern_Ireland.png",
           "sourceType": "commons-category",
           "sourceArticleId": "ulster-wp",
-          "sourceGeohash4": "gcep"
+          "sourceGeohash4": "gcep",
+          "mediumPath": "_m/g/c/e/p/ulster-wp/map-showing-the-traditional-ge-1-medium.webp",
+          "smallPath": "_m/g/c/e/p/ulster-wp/map-showing-the-traditional-ge-1-small.webp"
         },
         {
           "path": "_m/g/c/e/p/ulster-wp/north-summit-slieve-gallion-ge.jpg",
@@ -136,7 +147,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:North_Summit,_Slieve_Gallion_-_geograph.org.uk_-_6556268.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "ulster-wp",
-          "sourceGeohash4": "gcep"
+          "sourceGeohash4": "gcep",
+          "smallPath": "_m/g/c/e/p/ulster-wp/north-summit-slieve-gallion-ge-small.webp"
         },
         {
           "path": "_m/g/c/e/p/ulster-wp/north-summit-slieve-gallion-ge-1.jpg",
@@ -151,7 +163,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:North_Summit,_Slieve_Gallion_-_geograph.org.uk_-_6556271.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "ulster-wp",
-          "sourceGeohash4": "gcep"
+          "sourceGeohash4": "gcep",
+          "smallPath": "_m/g/c/e/p/ulster-wp/north-summit-slieve-gallion-ge-1-small.webp"
         },
         {
           "path": "_m/g/c/g/0/county-londonderry-wp/mussenden-temple-2005.jpg",
@@ -242,7 +255,11 @@
         "_m/g/c/e/p/ulster-wp/gcep-ulster-the-province-divided.mp3",
         "_m/g/c/e/p/ulster-wp/gcep-ulster-the-lakes-and-the-lava.mp3",
         "_m/g/c/e/p/ulster-wp/gcep-ulster-tongues-and-triumphs.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/e/p/ulster-wp/gcep-ulster-combined.mp3",
+      "combinedNarrationBytes": 5016859,
+      "combinedNarrationDuration": 405,
+      "combinedCover": "_m/g/c/e/p/ulster-wp/gcep-ulster-combined-cover.jpg"
     }
   }
 }

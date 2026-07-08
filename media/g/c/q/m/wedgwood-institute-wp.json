@@ -2,28 +2,6 @@
   "id": "wedgwood-institute-wp",
   "patch": {
     "media": {
-      "hero": {
-        "path": "_m/g/c/q/m/wedgwood-institute-wp/hero.jpg",
-        "filename": "Burslem - Wedgwood Institute (Geograph-2410804-by-Dave-Bevis).jpg",
-        "caption": "Burslem - Wedgwood Institute",
-        "alt": "Burslem - Wedgwood Institute",
-        "width": 1600,
-        "height": 1230,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.0",
-        "artist": "Dave Bevis",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Burslem_-_Wedgwood_Institute_(Geograph-2410804-by-Dave-Bevis).jpg",
-        "sourceType": "core",
-        "sourceArticleId": "wedgwood-institute-wp",
-        "sourceGeohash4": "gcqm",
-        "categories": [
-          "CC-BY-SA-2.0",
-          "Images by Dave Bevis",
-          "Images from Geograph Britain and Ireland",
-          "Information field template with formatting",
-          "Wedgwood Institute"
-        ]
-      },
       "images": [
         {
           "path": "_m/g/c/q/m/wedgwood-institute-wp/josiah-wedgwood-memorial-insti.jpg",
@@ -46,7 +24,8 @@
             "Information field template with formatting",
             "Terracotta sculptures in England",
             "Wedgwood Institute"
-          ]
+          ],
+          "smallPath": "_m/g/c/q/m/wedgwood-institute-wp/josiah-wedgwood-memorial-insti-small.webp"
         },
         {
           "path": "_m/g/c/q/m/wedgwood-institute-wp/wedgwood-institute.jpg",
@@ -69,7 +48,8 @@
             "PD-user",
             "Photographs taken on 2008-05-17",
             "Wedgwood Institute"
-          ]
+          ],
+          "smallPath": "_m/g/c/q/m/wedgwood-institute-wp/wedgwood-institute-small.webp"
         },
         {
           "path": "_m/g/c/q/m/wedgwood-institute-wp/burslem-north-side-of-queen-st.jpg",
@@ -89,7 +69,8 @@
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland",
             "Wedgwood Institute"
-          ]
+          ],
+          "smallPath": "_m/g/c/q/m/wedgwood-institute-wp/burslem-north-side-of-queen-st-small.webp"
         },
         {
           "path": "_m/g/c/q/m/wedgwood-institute-wp/wedgwood-institute-burslem.jpg",
@@ -109,7 +90,9 @@
             "CC-BY-SA-4.0",
             "Self-published work",
             "Wedgwood Institute"
-          ]
+          ],
+          "mediumPath": "_m/g/c/q/m/wedgwood-institute-wp/wedgwood-institute-burslem-medium.webp",
+          "smallPath": "_m/g/c/q/m/wedgwood-institute-wp/wedgwood-institute-burslem-small.webp"
         },
         {
           "path": "_m/g/c/q/m/stoke-on-trent-wp/stoke-pb160864.jpg",
@@ -326,7 +309,11 @@
         "_m/g/c/q/m/wedgwood-institute-wp/gcqm-wedgwood-institute-kiplings-father-designed-the-frieze.mp3",
         "_m/g/c/q/m/wedgwood-institute-wp/gcqm-wedgwood-institute-the-long-decline.mp3",
         "_m/g/c/q/m/wedgwood-institute-wp/gcqm-wedgwood-institute-a-slow-rescue-still-in-progress.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/q/m/wedgwood-institute-wp/gcqm-wedgwood-institute-combined.mp3",
+      "combinedNarrationBytes": 4034044,
+      "combinedNarrationDuration": 326,
+      "combinedCover": "_m/g/c/q/m/wedgwood-institute-wp/gcqm-wedgwood-institute-combined-cover.jpg"
     }
   }
 }

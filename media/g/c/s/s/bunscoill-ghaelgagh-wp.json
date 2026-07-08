@@ -22,7 +22,9 @@
           "Flickr images uploaded by Flickr upload bot",
           "Manx-language signs",
           "School bells"
-        ]
+        ],
+        "mediumPath": "_m/g/c/s/s/bunscoill-ghaelgagh-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/s/s/bunscoill-ghaelgagh-wp/hero-small.webp"
       },
       "images": [
         {
@@ -45,7 +47,9 @@
             "CC-BY-2.0",
             "Files from the Scottish Government Flickr stream",
             "Flickr images reviewed by FlickreviewR 2"
-          ]
+          ],
+          "mediumPath": "_m/g/c/s/s/bunscoill-ghaelgagh-wp/first-minister-visits-manx-lan-medium.webp",
+          "smallPath": "_m/g/c/s/s/bunscoill-ghaelgagh-wp/first-minister-visits-manx-lan-small.webp"
         },
         {
           "path": "_m/g/c/s/s/bunscoill-ghaelgagh-wp/first-minister-visits-manx-lan-1.jpg",
@@ -67,7 +71,9 @@
             "CC-BY-2.0",
             "Files from the Scottish Government Flickr stream",
             "Flickr images reviewed by FlickreviewR 2"
-          ]
+          ],
+          "mediumPath": "_m/g/c/s/s/bunscoill-ghaelgagh-wp/first-minister-visits-manx-lan-1-medium.webp",
+          "smallPath": "_m/g/c/s/s/bunscoill-ghaelgagh-wp/first-minister-visits-manx-lan-1-small.webp"
         },
         {
           "path": "_m/g/c/s/s/bunscoill-ghaelgagh-wp/first-minister-visits-the-isle.jpg",
@@ -89,7 +95,8 @@
             "CC-BY-2.0",
             "Files from the Scottish Government Flickr stream",
             "Flickr images reviewed by FlickreviewR 2"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/s/bunscoill-ghaelgagh-wp/first-minister-visits-the-isle-small.webp"
         },
         {
           "path": "_m/g/c/s/s/bunscoill-ghaelgagh-wp/bunscoill-ghaelgagh-october-20.jpg",
@@ -109,9 +116,22 @@
             "Bunscoill Ghaelgagh",
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/s/bunscoill-ghaelgagh-wp/bunscoill-ghaelgagh-october-20-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/s/s/bunscoill-ghaelgagh-wp/gcss-bunscoill-ghaelgagh-flight-context.mp3",
+        "_m/g/c/s/s/bunscoill-ghaelgagh-wp/gcss-bunscoill-ghaelgagh-intro.mp3",
+        "_m/g/c/s/s/bunscoill-ghaelgagh-wp/gcss-bunscoill-ghaelgagh-a-parents-society.mp3",
+        "_m/g/c/s/s/bunscoill-ghaelgagh-wp/gcss-bunscoill-ghaelgagh-what-happens-in-the-classroom.mp3",
+        "_m/g/c/s/s/bunscoill-ghaelgagh-wp/gcss-bunscoill-ghaelgagh-an-award-and-a-visit.mp3",
+        "_m/g/c/s/s/bunscoill-ghaelgagh-wp/gcss-bunscoill-ghaelgagh-a-language-coming-back.mp3"
+      ],
+      "combinedNarration": "_m/g/c/s/s/bunscoill-ghaelgagh-wp/gcss-bunscoill-ghaelgagh-combined.mp3",
+      "combinedNarrationBytes": 3796477,
+      "combinedNarrationDuration": 309,
+      "combinedCover": "_m/g/c/s/s/bunscoill-ghaelgagh-wp/gcss-bunscoill-ghaelgagh-combined-cover.jpg"
     }
   }
 }

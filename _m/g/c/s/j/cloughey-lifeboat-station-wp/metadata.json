@@ -27,7 +27,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "cloughey-lifeboat-station-wp",
-    "sourceGeohash4": "gcsj"
+    "sourceGeohash4": "gcsj",
+    "mediumPath": "_m/g/c/s/j/cloughey-lifeboat-station-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/s/j/cloughey-lifeboat-station-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Former RNLI Lifeboat Station Cloughey Co. Down (two) Jan 2026.jpg",
@@ -114,11 +116,32 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "cloughey-lifeboat-station-wp",
-      "sourceGeohash4": "gcsj"
+      "sourceGeohash4": "gcsj",
+      "mediumPath": "_m/g/c/s/j/cloughey-lifeboat-station-wp/east-facing-aspect-for-medium.webp",
+      "smallPath": "_m/g/c/s/j/cloughey-lifeboat-station-wp/east-facing-aspect-for-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/e/k/kingsmill-massacre-wp/relief-map-northern-ir.png",
     "_m/g/c/s/j/cloughey-lifeboat-station-wp/east-facing-aspect-for.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcsj-cloughey-lifeboat-station-flight-context.mp3",
+      "gcsj-cloughey-lifeboat-station-intro.mp3",
+      "gcsj-cloughey-lifeboat-station-faith-hope-and-charity.mp3",
+      "gcsj-cloughey-lifeboat-station-the-beaconsfield-and-the-croisset.mp3",
+      "gcsj-cloughey-lifeboat-station-the-young-brothers-and-the-aruntzazu-mendi.mp3",
+      "gcsj-cloughey-lifeboat-station-the-end-at-manse-road.mp3"
+    ],
+    "durations": {
+      "gcsj-cloughey-lifeboat-station-flight-context.mp3": 73.86125,
+      "gcsj-cloughey-lifeboat-station-intro.mp3": 57.7699166,
+      "gcsj-cloughey-lifeboat-station-faith-hope-and-charity.mp3": 74.5445,
+      "gcsj-cloughey-lifeboat-station-the-beaconsfield-and-the-croisset.mp3": 73.468875,
+      "gcsj-cloughey-lifeboat-station-the-young-brothers-and-the-aruntzazu-mendi.mp3": 74.6509166,
+      "gcsj-cloughey-lifeboat-station-the-end-at-manse-road.mp3": 76.848
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -24,7 +24,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "grantham-rail-accident-wp",
-    "sourceGeohash4": "gcrs"
+    "sourceGeohash4": "gcrs",
+    "smallPath": "_m/g/c/r/s/grantham-rail-accident-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Grantham Railway Disaster.png",
@@ -53,5 +54,24 @@
     "sourceGeohash4": "gcrs"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcrs-grantham-rail-accident-flight-context.mp3",
+      "gcrs-grantham-rail-accident-intro.mp3",
+      "gcrs-grantham-rail-accident-the-train-that-would-not-stop.mp3",
+      "gcrs-grantham-rail-accident-fourteen-lives.mp3",
+      "gcrs-grantham-rail-accident-the-marie-celeste-of-the-railways.mp3",
+      "gcrs-grantham-rail-accident-the-year-of-three-wrecks.mp3"
+    ],
+    "durations": {
+      "gcrs-grantham-rail-accident-flight-context.mp3": 43.470625,
+      "gcrs-grantham-rail-accident-intro.mp3": 59.3285416,
+      "gcrs-grantham-rail-accident-the-train-that-would-not-stop.mp3": 67.6600833,
+      "gcrs-grantham-rail-accident-fourteen-lives.mp3": 58.009125,
+      "gcrs-grantham-rail-accident-the-marie-celeste-of-the-railways.mp3": 63.7832083,
+      "gcrs-grantham-rail-accident-the-year-of-three-wrecks.mp3": 63.51425
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

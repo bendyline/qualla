@@ -22,7 +22,8 @@
           "JPG images that should use vector graphics",
           "Oil refineries",
           "Self-published work"
-        ]
+        ],
+        "smallPath": "_m/g/c/4/n/whitegate-refinery-wp/hero-small.webp"
       },
       "narration": [
         "_m/g/c/4/n/whitegate-refinery-wp/gc4n-whitegate-refinery-flight-context.mp3",
@@ -31,7 +32,11 @@
         "_m/g/c/4/n/whitegate-refinery-wp/gc4n-whitegate-refinery-almost-lost.mp3",
         "_m/g/c/4/n/whitegate-refinery-wp/gc4n-whitegate-refinery-how-a-refinery-breathes.mp3",
         "_m/g/c/4/n/whitegate-refinery-wp/gc4n-whitegate-refinery-the-power-station-next-door.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/4/n/whitegate-refinery-wp/gc4n-whitegate-refinery-combined.mp3",
+      "combinedNarrationBytes": 3200362,
+      "combinedNarrationDuration": 263,
+      "combinedCover": "_m/g/c/4/n/whitegate-refinery-wp/gc4n-whitegate-refinery-combined-cover.jpg"
     }
   }
 }

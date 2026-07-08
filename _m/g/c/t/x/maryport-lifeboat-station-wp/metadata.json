@@ -22,7 +22,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "maryport-lifeboat-station-wp",
-    "sourceGeohash4": "gctx"
+    "sourceGeohash4": "gctx",
+    "smallPath": "_m/g/c/t/x/maryport-lifeboat-station-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "HM Coastguard and Maryport Inshore Rescue buildings - geograph.org.uk - 3045610.jpg",
@@ -80,5 +81,26 @@
   ],
   "galleryPaths": [
     "_m/g/c/t/p/kirkcudbright-lifeboat-station-wp/priscilla-macbean.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gctx-maryport-lifeboat-station-flight-context.mp3",
+      "gctx-maryport-lifeboat-station-intro.mp3",
+      "gctx-maryport-lifeboat-station-the-henry-dixson-arrives.mp3",
+      "gctx-maryport-lifeboat-station-coxswain-reay.mp3",
+      "gctx-maryport-lifeboat-station-closure-and-return.mp3",
+      "gctx-maryport-lifeboat-station-maryport-rescue-today.mp3",
+      "gctx-maryport-lifeboat-station-the-1934-naming.mp3"
+    ],
+    "durations": {
+      "gctx-maryport-lifeboat-station-flight-context.mp3": 51.9755833,
+      "gctx-maryport-lifeboat-station-intro.mp3": 55.63425,
+      "gctx-maryport-lifeboat-station-the-henry-dixson-arrives.mp3": 60.6332916,
+      "gctx-maryport-lifeboat-station-coxswain-reay.mp3": 61.652375,
+      "gctx-maryport-lifeboat-station-closure-and-return.mp3": 58.7324166,
+      "gctx-maryport-lifeboat-station-maryport-rescue-today.mp3": 67.6855416,
+      "gctx-maryport-lifeboat-station-the-1934-naming.mp3": 53.2498333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

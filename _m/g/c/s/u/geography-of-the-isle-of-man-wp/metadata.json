@@ -29,7 +29,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "geography-of-the-isle-of-man-wp",
-    "sourceGeohash4": "gcsu"
+    "sourceGeohash4": "gcsu",
+    "mediumPath": "_m/g/c/s/u/geography-of-the-isle-of-man-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/s/u/geography-of-the-isle-of-man-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Isle of Man Terrain - Snaefell Mountain View - kingsley - 24-JUN-09.jpg",
@@ -166,7 +168,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "geography-of-the-isle-of-man-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "smallPath": "_m/g/c/s/u/geography-of-the-isle-of-man-wp/bradda-hill-after-the-fire-small.webp"
     },
     {
       "filename": "Shielings north of Snaefell Isle of Man.jpg",
@@ -192,7 +195,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "geography-of-the-isle-of-man-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "smallPath": "_m/g/c/s/u/geography-of-the-isle-of-man-wp/shielings-north-of-snaefell-is-small.webp"
     },
     {
       "filename": "Niarbyl Bay - Isle of Man - kingsley - 23-JUN-09.jpg",
@@ -220,7 +224,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "geography-of-the-isle-of-man-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "mediumPath": "_m/g/c/s/u/geography-of-the-isle-of-man-wp/niarbyl-bay-isle-of-man-kingsl-medium.webp",
+      "smallPath": "_m/g/c/s/u/geography-of-the-isle-of-man-wp/niarbyl-bay-isle-of-man-kingsl-small.webp"
     },
     {
       "filename": "Foxdale and Kionslieau Reservoir - Isle of Man - kingsley - 23-JUN-09.jpg",
@@ -248,7 +254,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "geography-of-the-isle-of-man-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "smallPath": "_m/g/c/s/u/geography-of-the-isle-of-man-wp/foxdale-and-kionslieau-reservo-small.webp"
     },
     {
       "filename": "Bayr ny Skeddan (Herring Road on Isle of Man) (45) - geograph.org.uk - 2118293.jpg",
@@ -269,7 +276,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "geography-of-the-isle-of-man-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "smallPath": "_m/g/c/s/u/geography-of-the-isle-of-man-wp/bayr-ny-skeddan-herring-road-o-small.webp"
     },
     {
       "filename": "Landslip near Shellag Point - geograph.org.uk - 3620024.jpg",
@@ -286,7 +294,9 @@
       "dateCreated": "2013-08-21",
       "sourceType": "commons-category",
       "sourceArticleId": "geography-of-the-isle-of-man-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "mediumPath": "_m/g/c/s/u/geography-of-the-isle-of-man-wp/landslip-near-shellag-point-ge-medium.webp",
+      "smallPath": "_m/g/c/s/u/geography-of-the-isle-of-man-wp/landslip-near-shellag-point-ge-small.webp"
     },
     {
       "filename": "Langness arch - geograph.org.uk - 4677440.jpg",
@@ -318,5 +328,24 @@
     "_m/g/c/s/u/geography-of-the-isle-of-man-wp/landslip-near-shellag-point-ge.jpg",
     "_m/g/c/s/e/langness-peninsula-wp/langness-arch-geograph-org-uk-.jpg"
   ],
-  "updatedAt": "2026-06-22T13:30:02.165Z"
+  "updatedAt": "2026-06-22T13:30:02.165Z",
+  "narration": {
+    "files": [
+      "gcsu-geography-of-the-isle-of-man-flight-context.mp3",
+      "gcsu-geography-of-the-isle-of-man-intro.mp3",
+      "gcsu-geography-of-the-isle-of-man-the-shape-of-a-small-island.mp3",
+      "gcsu-geography-of-the-isle-of-man-rocks-and-rain.mp3",
+      "gcsu-geography-of-the-isle-of-man-an-island-under-many-protections.mp3",
+      "gcsu-geography-of-the-isle-of-man-where-the-people-live.mp3"
+    ],
+    "durations": {
+      "gcsu-geography-of-the-isle-of-man-flight-context.mp3": 48.042,
+      "gcsu-geography-of-the-isle-of-man-intro.mp3": 45.847125,
+      "gcsu-geography-of-the-isle-of-man-the-shape-of-a-small-island.mp3": 62.8738333,
+      "gcsu-geography-of-the-isle-of-man-rocks-and-rain.mp3": 81.613375,
+      "gcsu-geography-of-the-isle-of-man-an-island-under-many-protections.mp3": 86.2172916,
+      "gcsu-geography-of-the-isle-of-man-where-the-people-live.mp3": 81.6778333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -21,7 +21,8 @@
           "HMS Curacoa (D41)",
           "Ministry of Defence Foxhill Collection of Ship Photographs",
           "UK Government artistic works"
-        ]
+        ],
+        "smallPath": "_m/g/c/c/v/hms-curacoa-d41-wp/hero-small.webp"
       },
       "images": [
         {
@@ -52,7 +53,9 @@
             "Queen Mary (ship, 1936)",
             "Ship engine smoke",
             "United States photographs taken on 1945-06-20"
-          ]
+          ],
+          "mediumPath": "_m/g/c/c/v/hms-curacoa-d41-wp/british-liner-rms-quee-medium.webp",
+          "smallPath": "_m/g/c/c/v/hms-curacoa-d41-wp/british-liner-rms-quee-small.webp"
         },
         {
           "path": "_m/g/c/c/v/hms-curacoa-d41-wp/hms-curacoa.jpg",
@@ -73,7 +76,8 @@
             "HMS Curacoa (D41)",
             "Photographs from the Imperial War Museum",
             "UK Government artistic works"
-          ]
+          ],
+          "smallPath": "_m/g/c/c/v/hms-curacoa-d41-wp/hms-curacoa-small.webp"
         },
         {
           "path": "_m/g/c/c/v/hms-curacoa-d41-wp/light-cruiser-hms-curacoa-d41-.jpg",
@@ -88,7 +92,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Light_cruiser_HMS_Curacoa_(D41)_at_anchor_before_the_Second_World_War.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "hms-curacoa-d41-wp",
-          "sourceGeohash4": "gccv"
+          "sourceGeohash4": "gccv",
+          "mediumPath": "_m/g/c/c/v/hms-curacoa-d41-wp/light-cruiser-hms-curacoa-d41--medium.webp",
+          "smallPath": "_m/g/c/c/v/hms-curacoa-d41-wp/light-cruiser-hms-curacoa-d41--small.webp"
         },
         {
           "path": "_m/g/c/c/v/hms-curacoa-d41-wp/vj-day-at-the-national-memoria.jpg",
@@ -103,7 +109,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:VJ_Day_at_the_National_Memorial_Arboretum_(516)_-_geograph.org.uk_-_6586350.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "hms-curacoa-d41-wp",
-          "sourceGeohash4": "gccv"
+          "sourceGeohash4": "gccv",
+          "smallPath": "_m/g/c/c/v/hms-curacoa-d41-wp/vj-day-at-the-national-memoria-small.webp"
         }
       ],
       "narration": [
@@ -114,7 +121,11 @@
         "_m/g/c/c/v/hms-curacoa-d41-wp/gccv-hms-curacoa-d41-the-rendezvous.mp3",
         "_m/g/c/c/v/hms-curacoa-d41-wp/gccv-hms-curacoa-d41-the-wrong-assumption.mp3",
         "_m/g/c/c/v/hms-curacoa-d41-wp/gccv-hms-curacoa-d41-three-hundred-and-thirty-seven.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/c/v/hms-curacoa-d41-wp/gccv-hms-curacoa-d41-combined.mp3",
+      "combinedNarrationBytes": 4295075,
+      "combinedNarrationDuration": 352,
+      "combinedCover": "_m/g/c/c/v/hms-curacoa-d41-wp/gccv-hms-curacoa-d41-combined-cover.jpg"
     }
   }
 }

@@ -25,7 +25,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "murder-of-ross-parker-wp",
-    "sourceGeohash4": "gcrg"
+    "sourceGeohash4": "gcrg",
+    "smallPath": "_m/g/c/r/g/murder-of-ross-parker-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Ross Parker Crematorium Plaque.jpg",
@@ -81,10 +82,32 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "murder-of-ross-parker-wp",
-      "sourceGeohash4": "gcrg"
+      "sourceGeohash4": "gcrg",
+      "smallPath": "_m/g/c/r/g/murder-of-ross-parker-wp/location-murder-ross-p-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/r/g/murder-of-ross-parker-wp/location-murder-ross-p.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcrg-murder-of-ross-parker-flight-context.mp3",
+      "gcrg-murder-of-ross-parker-intro.mp3",
+      "gcrg-murder-of-ross-parker-who-he-was.mp3",
+      "gcrg-murder-of-ross-parker-the-attack.mp3",
+      "gcrg-murder-of-ross-parker-trial-at-northampton.mp3",
+      "gcrg-murder-of-ross-parker-a-story-that-should-have-been-bigger.mp3",
+      "gcrg-murder-of-ross-parker-what-remains.mp3"
+    ],
+    "durations": {
+      "gcrg-murder-of-ross-parker-flight-context.mp3": 57.0522083,
+      "gcrg-murder-of-ross-parker-intro.mp3": 50.0635,
+      "gcrg-murder-of-ross-parker-who-he-was.mp3": 42.8726666,
+      "gcrg-murder-of-ross-parker-the-attack.mp3": 60.2329583,
+      "gcrg-murder-of-ross-parker-trial-at-northampton.mp3": 81.4315,
+      "gcrg-murder-of-ross-parker-a-story-that-should-have-been-bigger.mp3": 71.56325,
+      "gcrg-murder-of-ross-parker-what-remains.mp3": 65.9514583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -46,7 +46,9 @@
           "PD-Art (PD-old-100-expired)",
           "PD-Art missing SDC copyright status",
           "PD-art-old-100-expired missing SDC copyright status"
-        ]
+        ],
+        "mediumPath": "_m/g/c/p/k/catharine-macaulay-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/p/k/catharine-macaulay-wp/hero-small.webp"
       },
       "images": [
         {
@@ -84,7 +86,9 @@
             "PD-old-100-expired",
             "Paintings in Beningbrough Hall",
             "Three-quarter view portrait paintings of women"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/k/catharine-macaulay-wp/catharine-macaulay-nee-medium.webp",
+          "smallPath": "_m/g/c/p/k/catharine-macaulay-wp/catharine-macaulay-nee-small.webp"
         },
         {
           "path": "_m/g/c/p/k/catharine-macaulay-wp/wollstonecraftmacaulayletter.jpg",
@@ -107,21 +111,8 @@
             "Manuscript letters (written messages)",
             "PD-old missing SDC copyright status",
             "Works by Mary Wollstonecraft"
-          ]
-        },
-        {
-          "path": "_m/g/c/p/k/catharine-macaulay-wp/an-address-to-the-people-of-en.jpg",
-          "filename": "An address to the people of England, Ireland, and Scotland.djvu",
-          "alt": "An address to the people of England, Ireland, and Scotland.djvu",
-          "width": 1747,
-          "height": 2620,
-          "mimeType": "image/vnd.djvu",
-          "license": "Public domain",
-          "artist": "Catharine Macaulay",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:An_address_to_the_people_of_England,_Ireland,_and_Scotland.djvu",
-          "sourceType": "commons-category",
-          "sourceArticleId": "catharine-macaulay-wp",
-          "sourceGeohash4": "gcpk"
+          ],
+          "smallPath": "_m/g/c/p/k/catharine-macaulay-wp/wollstonecraftmacaulayletter-small.webp"
         },
         {
           "path": "_m/g/c/p/k/catharine-macaulay-wp/catharine-macaulay.jpg",
@@ -136,7 +127,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catharine_Macaulay.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "catharine-macaulay-wp",
-          "sourceGeohash4": "gcpk"
+          "sourceGeohash4": "gcpk",
+          "smallPath": "_m/g/c/p/k/catharine-macaulay-wp/catharine-macaulay-small.webp"
         },
         {
           "path": "_m/g/c/p/k/catharine-macaulay-wp/statuette-of-catharine-macaula.jpg",
@@ -151,7 +143,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statuette_of_Catharine_Macaulay,_Derby_(c_1777).jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "catharine-macaulay-wp",
-          "sourceGeohash4": "gcpk"
+          "sourceGeohash4": "gcpk",
+          "smallPath": "_m/g/c/p/k/catharine-macaulay-wp/statuette-of-catharine-macaula-small.webp"
         }
       ],
       "narration": [
@@ -163,7 +156,11 @@
         "_m/g/c/p/k/catharine-macaulay-wp/gcpk-catharine-macaulay-america-and-wollstonecraft.mp3",
         "_m/g/c/p/k/catharine-macaulay-wp/gcpk-catharine-macaulay-the-reply-to-burke.mp3",
         "_m/g/c/p/k/catharine-macaulay-wp/gcpk-catharine-macaulay-recovered.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/p/k/catharine-macaulay-wp/gcpk-catharine-macaulay-combined.mp3",
+      "combinedNarrationBytes": 5678622,
+      "combinedNarrationDuration": 466,
+      "combinedCover": "_m/g/c/p/k/catharine-macaulay-wp/gcpk-catharine-macaulay-combined-cover.jpg"
     }
   }
 }

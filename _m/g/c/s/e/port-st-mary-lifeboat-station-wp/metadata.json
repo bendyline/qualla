@@ -26,7 +26,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "port-st-mary-lifeboat-station-wp",
-    "sourceGeohash4": "gcse"
+    "sourceGeohash4": "gcse",
+    "mediumPath": "_m/g/c/s/e/port-st-mary-lifeboat-station-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/s/e/port-st-mary-lifeboat-station-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Port St Mary IOM Trent class lifeboat RNLB 14-26 Gough Ritchie II (ON 1234) July 2019.jpg",
@@ -82,7 +84,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "port-st-mary-lifeboat-station-wp",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "mediumPath": "_m/g/c/s/e/port-st-mary-lifeboat-station-wp/port-st-mary-lifeboat-medium.webp",
+      "smallPath": "_m/g/c/s/e/port-st-mary-lifeboat-station-wp/port-st-mary-lifeboat-small.webp"
     },
     {
       "filename": "Port St Mary Lifeboat Station - geograph.org.uk - 4613571.jpg",
@@ -104,7 +108,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "port-st-mary-lifeboat-station-wp",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "smallPath": "_m/g/c/s/e/port-st-mary-lifeboat-station-wp/port-st-mary-lifeboat-station--small.webp"
     },
     {
       "filename": "Port St Mary Lifeboat Station - geograph.org.uk - 7753499.jpg",
@@ -126,7 +131,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "port-st-mary-lifeboat-station-wp",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "smallPath": "_m/g/c/s/e/port-st-mary-lifeboat-station-wp/port-st-mary-lifeboat-station--1-small.webp"
     },
     {
       "filename": "Port St Mary Lifeboat - geograph.org.uk - 7753503.jpg",
@@ -148,7 +154,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "port-st-mary-lifeboat-station-wp",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "smallPath": "_m/g/c/s/e/port-st-mary-lifeboat-station-wp/port-st-mary-lifeboat-geograph-small.webp"
     },
     {
       "filename": "Lifeboat Station - geograph.org.uk - 8104662.jpg",
@@ -170,7 +177,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "port-st-mary-lifeboat-station-wp",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "smallPath": "_m/g/c/s/e/port-st-mary-lifeboat-station-wp/lifeboat-station-geograph-org--small.webp"
     }
   ],
   "galleryPaths": [
@@ -180,5 +188,26 @@
     "_m/g/c/s/e/port-st-mary-lifeboat-station-wp/port-st-mary-lifeboat-geograph.jpg",
     "_m/g/c/s/e/port-st-mary-lifeboat-station-wp/lifeboat-station-geograph-org-.jpg"
   ],
-  "updatedAt": "2026-06-22T11:46:51.754Z"
+  "updatedAt": "2026-06-22T11:46:51.754Z",
+  "narration": {
+    "files": [
+      "gcse-port-st-mary-lifeboat-station-flight-context.mp3",
+      "gcse-port-st-mary-lifeboat-station-intro.mp3",
+      "gcse-port-st-mary-lifeboat-station-how-the-station-came-to-be.mp3",
+      "gcse-port-st-mary-lifeboat-station-from-oars-to-engines.mp3",
+      "gcse-port-st-mary-lifeboat-station-the-gough-ritchie-lifeboats.mp3",
+      "gcse-port-st-mary-lifeboat-station-the-night-of-6-november-2021.mp3",
+      "gcse-port-st-mary-lifeboat-station-today-and-the-new-boat.mp3"
+    ],
+    "durations": {
+      "gcse-port-st-mary-lifeboat-station-flight-context.mp3": 50.5931666,
+      "gcse-port-st-mary-lifeboat-station-intro.mp3": 57.6402916,
+      "gcse-port-st-mary-lifeboat-station-how-the-station-came-to-be.mp3": 57.2787916,
+      "gcse-port-st-mary-lifeboat-station-from-oars-to-engines.mp3": 56.3224166,
+      "gcse-port-st-mary-lifeboat-station-the-gough-ritchie-lifeboats.mp3": 64.811375,
+      "gcse-port-st-mary-lifeboat-station-the-night-of-6-november-2021.mp3": 61.277,
+      "gcse-port-st-mary-lifeboat-station-today-and-the-new-boat.mp3": 61.0408333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

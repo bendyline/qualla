@@ -24,7 +24,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "ballantrae-lifeboat-station-wp",
-    "sourceGeohash4": "gcu3"
+    "sourceGeohash4": "gcu3",
+    "mediumPath": "_m/g/c/u/3/ballantrae-lifeboat-station-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/u/3/ballantrae-lifeboat-station-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Old Boat House ruins, Ballantrae Harbour, South Ayrshire.jpg",
@@ -77,7 +79,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "ballantrae-lifeboat-station-wp",
-      "sourceGeohash4": "gcu3"
+      "sourceGeohash4": "gcu3",
+      "mediumPath": "_m/g/c/u/3/ballantrae-lifeboat-station-wp/relief-map-south-ayrsh-medium.webp",
+      "smallPath": "_m/g/c/u/3/ballantrae-lifeboat-station-wp/relief-map-south-ayrsh-small.webp"
     },
     {
       "filename": "Old lifeboat house and sheds, Ballantrae, South Ayrshire.jpg",
@@ -104,11 +108,32 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "ballantrae-lifeboat-station-wp",
-      "sourceGeohash4": "gcu3"
+      "sourceGeohash4": "gcu3",
+      "mediumPath": "_m/g/c/u/3/ballantrae-lifeboat-station-wp/old-lifeboat-house-she-medium.webp",
+      "smallPath": "_m/g/c/u/3/ballantrae-lifeboat-station-wp/old-lifeboat-house-she-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/u/3/ballantrae-lifeboat-station-wp/relief-map-south-ayrsh.jpg",
     "_m/g/c/u/3/ballantrae-lifeboat-station-wp/old-lifeboat-house-she.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcu3-ballantrae-lifeboat-station-flight-context.mp3",
+      "gcu3-ballantrae-lifeboat-station-intro.mp3",
+      "gcu3-ballantrae-lifeboat-station-how-a-lifeboat-got-to-ballantrae.mp3",
+      "gcu3-ballantrae-lifeboat-station-the-s-s-deloraine-january-1909.mp3",
+      "gcu3-ballantrae-lifeboat-station-the-quiet-closure.mp3",
+      "gcu3-ballantrae-lifeboat-station-what-still-stands.mp3"
+    ],
+    "durations": {
+      "gcu3-ballantrae-lifeboat-station-flight-context.mp3": 50.7162916,
+      "gcu3-ballantrae-lifeboat-station-intro.mp3": 48.4856666,
+      "gcu3-ballantrae-lifeboat-station-how-a-lifeboat-got-to-ballantrae.mp3": 56.3347083,
+      "gcu3-ballantrae-lifeboat-station-the-s-s-deloraine-january-1909.mp3": 65.6147083,
+      "gcu3-ballantrae-lifeboat-station-the-quiet-closure.mp3": 60.7709583,
+      "gcu3-ballantrae-lifeboat-station-what-still-stands.mp3": 52.186625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

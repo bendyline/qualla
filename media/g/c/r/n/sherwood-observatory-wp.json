@@ -21,7 +21,9 @@
           "Files with coordinates missing SDC location of creation (53° N, 2° W)",
           "Observatories",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/g/c/r/n/sherwood-observatory-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/r/n/sherwood-observatory-wp/hero-small.webp"
       },
       "images": [
         {
@@ -70,7 +72,8 @@
             "Observatories in the United Kingdom",
             "Self-published work",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/n/sherwood-observatory-wp/sherwood-observatory-2-small.webp"
         },
         {
           "path": "_m/g/c/r/q/nottinghamshire-wp/newark-on-trent-uk-market-squa.jpg",
@@ -175,7 +178,19 @@
           "sourceArticleId": "nottinghamshire-wp",
           "sourceGeohash4": "gcrq"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/r/n/sherwood-observatory-wp/gcrn-sherwood-observatory-flight-context.mp3",
+        "_m/g/c/r/n/sherwood-observatory-wp/gcrn-sherwood-observatory-intro.mp3",
+        "_m/g/c/r/n/sherwood-observatory-wp/gcrn-sherwood-observatory-a-society-on-a-hill.mp3",
+        "_m/g/c/r/n/sherwood-observatory-wp/gcrn-sherwood-observatory-grinding-the-mirror.mp3",
+        "_m/g/c/r/n/sherwood-observatory-wp/gcrn-sherwood-observatory-the-telescope.mp3",
+        "_m/g/c/r/n/sherwood-observatory-wp/gcrn-sherwood-observatory-the-planetarium-and-the-reservoir.mp3"
+      ],
+      "combinedNarration": "_m/g/c/r/n/sherwood-observatory-wp/gcrn-sherwood-observatory-combined.mp3",
+      "combinedNarrationBytes": 3258877,
+      "combinedNarrationDuration": 265,
+      "combinedCover": "_m/g/c/r/n/sherwood-observatory-wp/gcrn-sherwood-observatory-combined-cover.jpg"
     }
   }
 }

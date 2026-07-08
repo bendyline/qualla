@@ -22,7 +22,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "battle-of-stirling-1648-wp",
-    "sourceGeohash4": "gcvp"
+    "sourceGeohash4": "gcvp",
+    "mediumPath": "_m/g/c/v/p/battle-of-stirling-1648-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/v/p/battle-of-stirling-1648-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Mar's Wark.JPG",
@@ -111,5 +113,24 @@
   "galleryPaths": [
     "_m/g/c/v/p/stirling-wp/stirlingcastle.jpg",
     "_m/g/c/v/w/edinburgh-wp/scotland-relief-location-map.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcvp-battle-of-stirling-1648-flight-context.mp3",
+      "gcvp-battle-of-stirling-1648-intro.mp3",
+      "gcvp-battle-of-stirling-1648-covenanters-against-covenanters.mp3",
+      "gcvp-battle-of-stirling-1648-the-burgh-caught-mid-bite.mp3",
+      "gcvp-battle-of-stirling-1648-a-gesture-between-chiefs.mp3",
+      "gcvp-battle-of-stirling-1648-walking-the-battlefield-today.mp3"
+    ],
+    "durations": {
+      "gcvp-battle-of-stirling-1648-flight-context.mp3": 53.6814583,
+      "gcvp-battle-of-stirling-1648-intro.mp3": 41.1443333,
+      "gcvp-battle-of-stirling-1648-covenanters-against-covenanters.mp3": 59.4745416,
+      "gcvp-battle-of-stirling-1648-the-burgh-caught-mid-bite.mp3": 52.9767083,
+      "gcvp-battle-of-stirling-1648-a-gesture-between-chiefs.mp3": 57.815375,
+      "gcvp-battle-of-stirling-1648-walking-the-battlefield-today.mp3": 57.39725
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

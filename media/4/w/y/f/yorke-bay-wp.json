@@ -21,7 +21,9 @@
           "CC-Zero",
           "Files with coordinates missing SDC location of creation",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/4/w/y/f/yorke-bay-wp/hero-medium.webp",
+        "smallPath": "_m/4/w/y/f/yorke-bay-wp/hero-small.webp"
       },
       "images": [
         {
@@ -47,7 +49,8 @@
             "PD-Art (PD-old-100)",
             "PD-Art missing SDC copyright status",
             "PD-old missing SDC copyright status"
-          ]
+          ],
+          "smallPath": "_m/4/w/y/f/yorke-bay-wp/map-northeastern-east-small.webp"
         },
         {
           "path": "_m/4/w/y/f/yorke-bay-wp/gypsy-cove-east-falkla.jpg",
@@ -68,7 +71,9 @@
             "Files with coordinates missing SDC location of creation",
             "Gypsy Cove",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/4/w/y/f/yorke-bay-wp/gypsy-cove-east-falkla-medium.webp",
+          "smallPath": "_m/4/w/y/f/yorke-bay-wp/gypsy-cove-east-falkla-small.webp"
         }
       ],
       "narration": [
@@ -78,7 +83,11 @@
         "_m/4/w/y/f/yorke-bay-wp/4wyf-yorke-bay-the-penguins-that-would-not-explode.mp3",
         "_m/4/w/y/f/yorke-bay-wp/4wyf-yorke-bay-the-argument-for-leaving-well-enough-alone.mp3",
         "_m/4/w/y/f/yorke-bay-wp/4wyf-yorke-bay-reclaiming-the-beach.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/4/w/y/f/yorke-bay-wp/4wyf-yorke-bay-combined.mp3",
+      "combinedNarrationBytes": 3020539,
+      "combinedNarrationDuration": 246,
+      "combinedCover": "_m/4/w/y/f/yorke-bay-wp/4wyf-yorke-bay-combined-cover.jpg"
     }
   }
 }

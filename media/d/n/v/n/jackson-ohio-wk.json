@@ -25,7 +25,8 @@
           "Other people's pictures by User:Nyttend",
           "Photographs by Don O'Brien",
           "Taken with Canon PowerShot S3 IS"
-        ]
+        ],
+        "smallPath": "_m/d/n/v/n/jackson-ohio-wk/hero-small.webp"
       },
       "images": [
         {
@@ -50,7 +51,9 @@
             "Self-published work",
             "Taken with Canon PowerShot A540",
             "United States photographs taken on 2010-07-10"
-          ]
+          ],
+          "mediumPath": "_m/d/n/v/n/jackson-ohio-wk/comprehensive-view-nor-medium.webp",
+          "smallPath": "_m/d/n/v/n/jackson-ohio-wk/comprehensive-view-nor-small.webp"
         },
         {
           "path": "_m/d/n/v/n/jackson-ohio-wk/jackson-ohio-apple-wat.jpg",
@@ -72,7 +75,8 @@
             "GFDL",
             "License migration completed",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "smallPath": "_m/d/n/v/n/jackson-ohio-wk/jackson-ohio-apple-wat-small.webp"
         },
         {
           "path": "_m/d/n/v/n/jackson-ohio-wk/oak-hill-welsh-congreg.jpg",
@@ -104,7 +108,9 @@
             "Taken with Canon PowerShot SX40 HS",
             "Welsh churches in the United States",
             "Wooden fences in Ohio"
-          ]
+          ],
+          "mediumPath": "_m/d/n/v/n/jackson-ohio-wk/oak-hill-welsh-congreg-medium.webp",
+          "smallPath": "_m/d/n/v/n/jackson-ohio-wk/oak-hill-welsh-congreg-small.webp"
         },
         {
           "path": "_m/d/n/v/n/jackson-ohio-wk/lake-katharine.jpg",
@@ -126,7 +132,8 @@
             "Liberty Township, Jackson County, Ohio",
             "Self-published work",
             "Taken with Nikon Coolpix 990"
-          ]
+          ],
+          "smallPath": "_m/d/n/v/n/jackson-ohio-wk/lake-katharine-small.webp"
         },
         {
           "path": "_m/d/n/v/n/jackson-ohio-wk/front-eastern-end-jack.jpg",
@@ -149,7 +156,9 @@
             "Files with coordinates missing SDC location of creation",
             "Neoclassical architecture in Ohio",
             "Ohio State Route 93"
-          ]
+          ],
+          "mediumPath": "_m/d/n/v/n/jackson-ohio-wk/front-eastern-end-jack-medium.webp",
+          "smallPath": "_m/d/n/v/n/jackson-ohio-wk/front-eastern-end-jack-small.webp"
         },
         {
           "path": "_m/d/n/v/n/jackson-ohio-wk/northern-portal-byer-c.jpg",
@@ -164,7 +173,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Byer_Covered_Bridge_from_north.jpg",
           "sourceType": "core",
           "sourceArticleId": "jackson-ohio-wk",
-          "sourceGeohash4": "dnvn"
+          "sourceGeohash4": "dnvn",
+          "mediumPath": "_m/d/n/v/n/jackson-ohio-wk/northern-portal-byer-c-medium.webp",
+          "smallPath": "_m/d/n/v/n/jackson-ohio-wk/northern-portal-byer-c-small.webp"
         },
         {
           "path": "_m/d/n/v/n/jackson-ohio-wk/s-e-wellston-ohio-buck.jpg",
@@ -179,7 +190,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buckeye_Furnace_Covered_Bridge_(148747972).jpg",
           "sourceType": "core",
           "sourceArticleId": "jackson-ohio-wk",
-          "sourceGeohash4": "dnvn"
+          "sourceGeohash4": "dnvn",
+          "smallPath": "_m/d/n/v/n/jackson-ohio-wk/s-e-wellston-ohio-buck-small.webp"
         },
         {
           "path": "_m/d/n/v/n/jackson-ohio-wk/9-17-13-i-wanted-try-f.jpg",
@@ -194,7 +206,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hammertown_Lake_Sunset_(9793053164).jpg",
           "sourceType": "core",
           "sourceArticleId": "jackson-ohio-wk",
-          "sourceGeohash4": "dnvn"
+          "sourceGeohash4": "dnvn",
+          "mediumPath": "_m/d/n/v/n/jackson-ohio-wk/9-17-13-i-wanted-try-f-medium.webp",
+          "smallPath": "_m/d/n/v/n/jackson-ohio-wk/9-17-13-i-wanted-try-f-small.webp"
         },
         {
           "path": "_m/d/n/v/n/jackson-ohio-wp/jacksonohjuly2007.jpg",
@@ -463,7 +477,11 @@
         "_m/d/n/v/n/jackson-ohio-wk/dnvn-jackson-the-apple-festival.mp3",
         "_m/d/n/v/n/jackson-ohio-wk/dnvn-jackson-connections.mp3",
         "_m/d/n/v/n/jackson-ohio-wk/dnvn-jackson-what-stays.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/n/v/n/jackson-ohio-wk/dnvn-jackson-ohio-combined.mp3",
+      "combinedNarrationBytes": 2770826,
+      "combinedNarrationDuration": 216,
+      "combinedCover": "_m/d/n/v/n/jackson-ohio-wk/dnvn-jackson-ohio-combined-cover.jpg"
     }
   }
 }

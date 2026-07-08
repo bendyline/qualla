@@ -57,5 +57,26 @@
     "sourceGeohash4": "gcsu"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcsu-keppel-gate-flight-context.mp3",
+      "gcsu-keppel-gate-intro.mp3",
+      "gcsu-keppel-gate-crown-common-and-a-shepherds-cottage.mp3",
+      "gcsu-keppel-gate-how-the-road-got-there.mp3",
+      "gcsu-keppel-gate-why-the-bikes-came-this-way.mp3",
+      "gcsu-keppel-gate-bought-in-blood-bought-in-money.mp3",
+      "gcsu-keppel-gate-when-the-race-isnt-on.mp3"
+    ],
+    "durations": {
+      "gcsu-keppel-gate-flight-context.mp3": 57.6898333,
+      "gcsu-keppel-gate-intro.mp3": 46.348,
+      "gcsu-keppel-gate-crown-common-and-a-shepherds-cottage.mp3": 64.2597083,
+      "gcsu-keppel-gate-how-the-road-got-there.mp3": 58.8270416,
+      "gcsu-keppel-gate-why-the-bikes-came-this-way.mp3": 65.0291666,
+      "gcsu-keppel-gate-bought-in-blood-bought-in-money.mp3": 65.8740416,
+      "gcsu-keppel-gate-when-the-race-isnt-on.mp3": 66.1400416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

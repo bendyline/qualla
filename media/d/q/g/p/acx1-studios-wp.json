@@ -15,7 +15,9 @@
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:ACX1_Studios.jpg",
         "sourceType": "core",
         "sourceArticleId": "acx1-studios-wp",
-        "sourceGeohash4": "dqgp"
+        "sourceGeohash4": "dqgp",
+        "mediumPath": "_m/d/q/g/p/acx1-studios-wp/hero-medium.webp",
+        "smallPath": "_m/d/q/g/p/acx1-studios-wp/hero-small.webp"
       },
       "images": [
         {
@@ -69,7 +71,9 @@
             "Shopping malls in New Jersey",
             "Taken with HP PhotoSmart R927",
             "Tropicana Casino and Resort Atlantic City"
-          ]
+          ],
+          "mediumPath": "_m/d/q/g/p/acx1-studios-wp/beach-pier-shops-caesa-medium.webp",
+          "smallPath": "_m/d/q/g/p/acx1-studios-wp/beach-pier-shops-caesa-small.webp"
         },
         {
           "path": "_m/d/q/g/p/acx1-studios-wp/postcard-published-pos.png",
@@ -96,7 +100,8 @@
             "Postcards of Atlantic City, New Jersey",
             "Postcards of boardwalks in New Jersey",
             "Postcards of hotels in New Jersey"
-          ]
+          ],
+          "smallPath": "_m/d/q/g/p/acx1-studios-wp/postcard-published-pos-small.webp"
         },
         {
           "path": "_m/d/q/g/p/acx1-studios-wp/stores-once-took-place.jpg",
@@ -111,7 +116,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Looking_Down_Abandoned_East_Wing;_Playground_Pier_Shops;_Atlantic_City_NJ.jpg",
           "sourceType": "core",
           "sourceArticleId": "acx1-studios-wp",
-          "sourceGeohash4": "dqgp"
+          "sourceGeohash4": "dqgp",
+          "mediumPath": "_m/d/q/g/p/acx1-studios-wp/stores-once-took-place-medium.webp",
+          "smallPath": "_m/d/q/g/p/acx1-studios-wp/stores-once-took-place-small.webp"
         },
         {
           "path": "_m/d/q/g/p/acx1-studios-wp/former-apple-store-loc.jpg",
@@ -126,7 +133,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Former_Apple_Store;_Playground_Pier_Shops;_Atlantic_City_NJ.jpg",
           "sourceType": "core",
           "sourceArticleId": "acx1-studios-wp",
-          "sourceGeohash4": "dqgp"
+          "sourceGeohash4": "dqgp",
+          "mediumPath": "_m/d/q/g/p/acx1-studios-wp/former-apple-store-loc-medium.webp",
+          "smallPath": "_m/d/q/g/p/acx1-studios-wp/former-apple-store-loc-small.webp"
         },
         {
           "path": "_m/d/q/g/p/acx1-studios-wp/storefront-one-many-ab.jpg",
@@ -141,7 +150,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Former_A_X_Armani_Exchange;_Playground_Pier_Shops;_Atlantic_City_NJ.jpg",
           "sourceType": "core",
           "sourceArticleId": "acx1-studios-wp",
-          "sourceGeohash4": "dqgp"
+          "sourceGeohash4": "dqgp",
+          "mediumPath": "_m/d/q/g/p/acx1-studios-wp/storefront-one-many-ab-medium.webp",
+          "smallPath": "_m/d/q/g/p/acx1-studios-wp/storefront-one-many-ab-small.webp"
         },
         {
           "path": "_m/d/q/g/p/acx1-studios-wp/look-down-still-open-v.jpg",
@@ -156,7 +167,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Looking_Down_Westward,_on_Skybridge_Level,_Pier_Shops_at_Caesars.jpg",
           "sourceType": "core",
           "sourceArticleId": "acx1-studios-wp",
-          "sourceGeohash4": "dqgp"
+          "sourceGeohash4": "dqgp",
+          "mediumPath": "_m/d/q/g/p/acx1-studios-wp/look-down-still-open-v-medium.webp",
+          "smallPath": "_m/d/q/g/p/acx1-studios-wp/look-down-still-open-v-small.webp"
         }
       ],
       "narration": [
@@ -167,7 +180,11 @@
         "_m/d/q/g/p/acx1-studios-wp/dqgp-acx1-studios-ocean-one-the-ocean-liner.mp3",
         "_m/d/q/g/p/acx1-studios-wp/dqgp-acx1-studios-the-pier-shops-at-caesars.mp3",
         "_m/d/q/g/p/acx1-studios-wp/dqgp-acx1-studios-hollywood-of-the-east.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/q/g/p/acx1-studios-wp/dqgp-acx1-studios-combined.mp3",
+      "combinedNarrationBytes": 4758861,
+      "combinedNarrationDuration": 387,
+      "combinedCover": "_m/d/q/g/p/acx1-studios-wp/dqgp-acx1-studios-combined-cover.jpg"
     }
   }
 }

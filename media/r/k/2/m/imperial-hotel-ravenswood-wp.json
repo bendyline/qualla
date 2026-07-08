@@ -2,31 +2,6 @@
   "id": "imperial-hotel-ravenswood-wp",
   "patch": {
     "media": {
-      "hero": {
-        "path": "_m/r/k/2/m/imperial-hotel-ravenswood-wp/hero.jpg",
-        "filename": "Ornate bar and interior of the Imperial Hotel Ravenswood North Queensland, 1985.tif",
-        "caption": "Ornate bar and interior of the Imperial Hotel Ravenswood North Queensland, 1985",
-        "alt": "Ornate bar and interior of the Imperial Hotel Ravenswood North Queensland, 1985",
-        "width": 4000,
-        "height": 2974,
-        "mimeType": "image/tiff",
-        "license": "CC BY 3.0",
-        "artist": "Ron Gale",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ornate_bar_and_interior_of_the_Imperial_Hotel_Ravenswood_North_Queensland,_1985.tif",
-        "sourceType": "core",
-        "sourceArticleId": "imperial-hotel-ravenswood-wp",
-        "sourceGeohash4": "rk2m",
-        "categories": [
-          "1985 in Queensland",
-          "CC-BY-3.0",
-          "Files with coordinates missing SDC location of creation",
-          "Hotels photographed in 1985",
-          "Images from the State Library of Queensland",
-          "Imperial Hotel, Ravenswood",
-          "Interiors of pubs in Australia",
-          "People of Australia in 1985"
-        ]
-      },
       "images": [
         {
           "path": "_m/r/k/2/m/imperial-hotel-ravenswood-wp/statelibqld-1-139696-sign-on-t.jpg",
@@ -50,7 +25,8 @@
             "PD-Australia",
             "PD-old missing SDC copyright status",
             "Verandas on Queensland hotels"
-          ]
+          ],
+          "smallPath": "_m/r/k/2/m/imperial-hotel-ravenswood-wp/statelibqld-1-139696-sign-on-t-small.webp"
         },
         {
           "path": "_m/r/k/2/m/imperial-hotel-ravenswood-wp/cattle-on-a-street-near-the-im.jpg",
@@ -73,7 +49,9 @@
             "Hotels photographed in 1985",
             "Images from the State Library of Queensland",
             "Imperial Hotel, Ravenswood"
-          ]
+          ],
+          "mediumPath": "_m/r/k/2/m/imperial-hotel-ravenswood-wp/cattle-on-a-street-near-the-im-medium.webp",
+          "smallPath": "_m/r/k/2/m/imperial-hotel-ravenswood-wp/cattle-on-a-street-near-the-im-small.webp"
         }
       ]
     }

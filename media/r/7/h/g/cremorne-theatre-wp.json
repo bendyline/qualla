@@ -2,21 +2,6 @@
   "id": "cremorne-theatre-wp",
   "patch": {
     "media": {
-      "hero": {
-        "path": "_m/r/7/h/g/cremorne-theatre-wp/hero.jpg",
-        "filename": "Cremorne Theatre Brisbane.jpg",
-        "caption": "Cremorne Theatre side of the Queensland Performing Arts Centre (QPAC) theatre complex on the Brisbane River, South Bank, Brisbane.",
-        "alt": "Cremorne Theatre side of the Queensland Performing Arts Centre (QPAC) theatre complex on the Brisbane River, South Bank, Brisbane.",
-        "width": 3264,
-        "height": 2448,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Rod mcinnes",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cremorne_Theatre_Brisbane.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "cremorne-theatre-wp",
-        "sourceGeohash4": "r7hg"
-      },
       "images": [
         {
           "path": "_m/r/7/h/g/cremorne-theatre-wp/children-inside-cremor.jpg",
@@ -45,7 +30,8 @@
             "PD-Australia",
             "PD-old missing SDC copyright status",
             "Seating rows"
-          ]
+          ],
+          "smallPath": "_m/r/7/h/g/cremorne-theatre-wp/children-inside-cremor-small.webp"
         },
         {
           "path": "_m/r/7/h/g/cremorne-theatre-wp/chorus-dancer-old-crem.jpg",
@@ -72,7 +58,8 @@
             "Media lacking author information",
             "PD-Australia",
             "Women of Australia in 1942"
-          ]
+          ],
+          "smallPath": "_m/r/7/h/g/cremorne-theatre-wp/chorus-dancer-old-crem-small.webp"
         },
         {
           "path": "_m/r/7/h/g/cremorne-theatre-wp/cremorne-theatre-brisb.jpg",
@@ -96,7 +83,8 @@
             "PD-Australia",
             "PD-old missing SDC copyright status",
             "Template Unknown (author)"
-          ]
+          ],
+          "smallPath": "_m/r/7/h/g/cremorne-theatre-wp/cremorne-theatre-brisb-small.webp"
         },
         {
           "path": "_m/r/7/h/g/cremorne-theatre-wp/entrance-cremorne-thea.jpg",
@@ -111,7 +99,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cremorne_Theatre_Entrance_2016.jpg",
           "sourceType": "core",
           "sourceArticleId": "cremorne-theatre-wp",
-          "sourceGeohash4": "r7hg"
+          "sourceGeohash4": "r7hg",
+          "mediumPath": "_m/r/7/h/g/cremorne-theatre-wp/entrance-cremorne-thea-medium.webp",
+          "smallPath": "_m/r/7/h/g/cremorne-theatre-wp/entrance-cremorne-thea-small.webp"
         },
         {
           "path": "_m/r/7/h/g/cremorne-theatre-wp/wwii-poster-1944-publi.jpg",
@@ -126,7 +116,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cremorne_Theatre_WWII_Poster_1944.jpg",
           "sourceType": "core",
           "sourceArticleId": "cremorne-theatre-wp",
-          "sourceGeohash4": "r7hg"
+          "sourceGeohash4": "r7hg",
+          "mediumPath": "_m/r/7/h/g/cremorne-theatre-wp/wwii-poster-1944-publi-medium.webp",
+          "smallPath": "_m/r/7/h/g/cremorne-theatre-wp/wwii-poster-1944-publi-small.webp"
         },
         {
           "path": "_m/r/7/h/g/cremorne-theatre-wp/cremorne-theatre-galle.jpg",
@@ -141,7 +133,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cremorne_Theatre_Billboards.jpg",
           "sourceType": "core",
           "sourceArticleId": "cremorne-theatre-wp",
-          "sourceGeohash4": "r7hg"
+          "sourceGeohash4": "r7hg",
+          "mediumPath": "_m/r/7/h/g/cremorne-theatre-wp/cremorne-theatre-galle-medium.webp",
+          "smallPath": "_m/r/7/h/g/cremorne-theatre-wp/cremorne-theatre-galle-small.webp"
         },
         {
           "path": "_m/r/7/h/g/cremorne-theatre-wp/chorus-line-soubrettes.jpg",
@@ -156,7 +150,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chorus_line_the_Soubrettes_at_the_Cremorne_Theatre_South_Brisbane_ca_1944.tif",
           "sourceType": "core",
           "sourceArticleId": "cremorne-theatre-wp",
-          "sourceGeohash4": "r7hg"
+          "sourceGeohash4": "r7hg",
+          "mediumPath": "_m/r/7/h/g/cremorne-theatre-wp/chorus-line-soubrettes-medium.webp",
+          "smallPath": "_m/r/7/h/g/cremorne-theatre-wp/chorus-line-soubrettes-small.webp"
         }
       ]
     }

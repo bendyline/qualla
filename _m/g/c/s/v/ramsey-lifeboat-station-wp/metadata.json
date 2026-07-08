@@ -25,7 +25,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "ramsey-lifeboat-station-wp",
-    "sourceGeohash4": "gcsv"
+    "sourceGeohash4": "gcsv",
+    "smallPath": "_m/g/c/s/v/ramsey-lifeboat-station-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Shannon Lifeboat at Ramsey Lifeboat Station (geograph 7711905).jpg",
@@ -77,10 +78,30 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "ramsey-lifeboat-station-wp",
-      "sourceGeohash4": "gcsv"
+      "sourceGeohash4": "gcsv",
+      "smallPath": "_m/g/c/s/v/ramsey-lifeboat-station-wp/ann-james-ritchie-rams-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/s/v/ramsey-lifeboat-station-wp/ann-james-ritchie-rams.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcsv-ramsey-lifeboat-station-flight-context.mp3",
+      "gcsv-ramsey-lifeboat-station-intro.mp3",
+      "gcsv-ramsey-lifeboat-station-the-first-boat-and-a-quiet-collapse.mp3",
+      "gcsv-ramsey-lifeboat-station-two-sisters-many-lives.mp3",
+      "gcsv-ramsey-lifeboat-station-the-ritchies.mp3",
+      "gcsv-ramsey-lifeboat-station-the-people-who-go.mp3"
+    ],
+    "durations": {
+      "gcsv-ramsey-lifeboat-station-flight-context.mp3": 49.0559166,
+      "gcsv-ramsey-lifeboat-station-intro.mp3": 49.9395,
+      "gcsv-ramsey-lifeboat-station-the-first-boat-and-a-quiet-collapse.mp3": 77.1445416,
+      "gcsv-ramsey-lifeboat-station-two-sisters-many-lives.mp3": 66.8135,
+      "gcsv-ramsey-lifeboat-station-the-ritchies.mp3": 69.7735833,
+      "gcsv-ramsey-lifeboat-station-the-people-who-go.mp3": 56.1373333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

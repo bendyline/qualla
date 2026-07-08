@@ -22,7 +22,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "old-courthouse-cockermouth-wp",
-    "sourceGeohash4": "gctw"
+    "sourceGeohash4": "gctw",
+    "smallPath": "_m/g/c/t/w/old-courthouse-cockermouth-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "The Old Court House - geograph.org.uk - 2407191.jpg",
@@ -77,7 +78,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "old-courthouse-cockermouth-wp",
-      "sourceGeohash4": "gctw"
+      "sourceGeohash4": "gctw",
+      "smallPath": "_m/g/c/t/w/old-courthouse-cockermouth-wp/court-house-cockermouth-small.webp"
     },
     {
       "filename": "Historic building, Cockermouth - geograph.org.uk - 3450181.jpg",
@@ -99,7 +101,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "old-courthouse-cockermouth-wp",
-      "sourceGeohash4": "gctw"
+      "sourceGeohash4": "gctw",
+      "smallPath": "_m/g/c/t/w/old-courthouse-cockermouth-wp/historic-building-cockermouth--small.webp"
     },
     {
       "filename": "The Old Courthouse, 2 Main Street, Cockermouth (geograph 7535653).jpg",
@@ -122,7 +125,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "old-courthouse-cockermouth-wp",
-      "sourceGeohash4": "gctw"
+      "sourceGeohash4": "gctw",
+      "mediumPath": "_m/g/c/t/w/old-courthouse-cockermouth-wp/the-old-courthouse-2-main-stre-medium.webp",
+      "smallPath": "_m/g/c/t/w/old-courthouse-cockermouth-wp/the-old-courthouse-2-main-stre-small.webp"
     }
   ],
   "galleryPaths": [
@@ -130,5 +135,22 @@
     "_m/g/c/t/w/old-courthouse-cockermouth-wp/historic-building-cockermouth-.jpg",
     "_m/g/c/t/w/old-courthouse-cockermouth-wp/the-old-courthouse-2-main-stre.jpg"
   ],
-  "updatedAt": "2026-06-22T18:16:25.859Z"
+  "updatedAt": "2026-06-22T18:16:25.859Z",
+  "narration": {
+    "files": [
+      "gctw-old-courthouse-cockermouth-flight-context.mp3",
+      "gctw-old-courthouse-cockermouth-intro.mp3",
+      "gctw-old-courthouse-cockermouth-from-moot-hall-to-main-street.mp3",
+      "gctw-old-courthouse-cockermouth-a-town-hall-outgrown.mp3",
+      "gctw-old-courthouse-cockermouth-the-river-begins-to-win.mp3"
+    ],
+    "durations": {
+      "gctw-old-courthouse-cockermouth-flight-context.mp3": 46.8959583,
+      "gctw-old-courthouse-cockermouth-intro.mp3": 50.808,
+      "gctw-old-courthouse-cockermouth-from-moot-hall-to-main-street.mp3": 47.7955416,
+      "gctw-old-courthouse-cockermouth-a-town-hall-outgrown.mp3": 40.7797916,
+      "gctw-old-courthouse-cockermouth-the-river-begins-to-win.mp3": 69.680625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

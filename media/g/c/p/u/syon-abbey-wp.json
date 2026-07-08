@@ -24,7 +24,8 @@
           "PD-Art (PD-old-assumed-expired)",
           "PD Old (assumed) expired",
           "Pages with non-numeric formatnum arguments"
-        ]
+        ],
+        "smallPath": "_m/g/c/p/u/syon-abbey-wp/hero-small.webp"
       },
       "images": [
         {
@@ -54,7 +55,9 @@
             "Sheen Palace, Surrey",
             "Sheen Priory",
             "Syon Abbey, London"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/u/syon-abbey-wp/map-henry-v-s-king-s-g-medium.webp",
+          "smallPath": "_m/g/c/p/u/syon-abbey-wp/map-henry-v-s-king-s-g-small.webp"
         },
         {
           "path": "_m/g/c/p/u/syon-abbey-wp/syon-abbey-indenture-1530.jpg",
@@ -82,7 +85,9 @@
             "PD-old missing SDC copyright status",
             "Sheen Priory",
             "Syon Abbey, London"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/u/syon-abbey-wp/syon-abbey-indenture-1530-medium.webp",
+          "smallPath": "_m/g/c/p/u/syon-abbey-wp/syon-abbey-indenture-1530-small.webp"
         }
       ],
       "narration": [
@@ -92,7 +97,11 @@
         "_m/g/c/p/u/syon-abbey-wp/gcpu-syon-abbey-an-abbey-run-by-women.mp3",
         "_m/g/c/p/u/syon-abbey-wp/gcpu-syon-abbey-reynolds-at-tyburn.mp3",
         "_m/g/c/p/u/syon-abbey-wp/gcpu-syon-abbey-lisbon-devon-and-the-end.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/p/u/syon-abbey-wp/gcpu-syon-abbey-combined.mp3",
+      "combinedNarrationBytes": 4952076,
+      "combinedNarrationDuration": 401,
+      "combinedCover": "_m/g/c/p/u/syon-abbey-wp/gcpu-syon-abbey-combined-cover.jpg"
     }
   }
 }

@@ -21,7 +21,9 @@
           "Files with coordinates missing SDC location of creation",
           "Main streets",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/g/c/9/d/kiltimagh-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/9/d/kiltimagh-wp/hero-small.webp"
       },
       "images": [
         {
@@ -75,7 +77,8 @@
             "Information field template with formatting",
             "Kiltimagh",
             "Nature reserves in Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/d/kiltimagh-wp/bridge-in-a-nature-reserve-geo-small.webp"
         }
       ],
       "narration": [
@@ -86,7 +89,11 @@
         "_m/g/c/9/d/kiltimagh-wp/gc9d-kiltimagh-slieve-carn-and-bill-berry-cliff.mp3",
         "_m/g/c/9/d/kiltimagh-wp/gc9d-kiltimagh-velorail-on-the-old-track.mp3",
         "_m/g/c/9/d/kiltimagh-wp/gc9d-kiltimagh-tunneys-walshes-raftery.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/9/d/kiltimagh-wp/gc9d-kiltimagh-combined.mp3",
+      "combinedNarrationBytes": 4207209,
+      "combinedNarrationDuration": 341,
+      "combinedCover": "_m/g/c/9/d/kiltimagh-wp/gc9d-kiltimagh-combined-cover.jpg"
     }
   }
 }

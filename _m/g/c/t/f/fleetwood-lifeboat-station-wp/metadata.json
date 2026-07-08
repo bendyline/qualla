@@ -28,7 +28,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "fleetwood-lifeboat-station-wp",
-    "sourceGeohash4": "gctf"
+    "sourceGeohash4": "gctf",
+    "mediumPath": "_m/g/c/t/f/fleetwood-lifeboat-station-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/t/f/fleetwood-lifeboat-station-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "RNLI Fleetwood - DSC06593.JPG",
@@ -107,7 +109,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fleetwood-lifeboat-station-wp",
-      "sourceGeohash4": "gctf"
+      "sourceGeohash4": "gctf",
+      "smallPath": "_m/g/c/t/f/fleetwood-lifeboat-station-wp/fleetwood-lifeboat-station-rnl-small.webp"
     },
     {
       "filename": "Fleetwood Lifeboat Station - geograph.org.uk - 3513115.jpg",
@@ -129,7 +132,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fleetwood-lifeboat-station-wp",
-      "sourceGeohash4": "gctf"
+      "sourceGeohash4": "gctf",
+      "smallPath": "_m/g/c/t/f/fleetwood-lifeboat-station-wp/fleetwood-lifeboat-station-geo-small.webp"
     },
     {
       "filename": "RNLI Station, Fleetwood - geograph.org.uk - 3735224.jpg",
@@ -151,7 +155,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fleetwood-lifeboat-station-wp",
-      "sourceGeohash4": "gctf"
+      "sourceGeohash4": "gctf",
+      "mediumPath": "_m/g/c/t/f/fleetwood-lifeboat-station-wp/rnli-station-fleetwood-geograp-medium.webp",
+      "smallPath": "_m/g/c/t/f/fleetwood-lifeboat-station-wp/rnli-station-fleetwood-geograp-small.webp"
     },
     {
       "filename": "Front of Lifeboat Station, Fleetwood - geograph.org.uk - 3827005.jpg",
@@ -173,7 +179,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fleetwood-lifeboat-station-wp",
-      "sourceGeohash4": "gctf"
+      "sourceGeohash4": "gctf",
+      "smallPath": "_m/g/c/t/f/fleetwood-lifeboat-station-wp/front-of-lifeboat-station-flee-small.webp"
     },
     {
       "filename": "Lifeboat Station, Fleetwood - geograph.org.uk - 3827027.jpg",
@@ -195,7 +202,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fleetwood-lifeboat-station-wp",
-      "sourceGeohash4": "gctf"
+      "sourceGeohash4": "gctf",
+      "smallPath": "_m/g/c/t/f/fleetwood-lifeboat-station-wp/lifeboat-station-fleetwood-geo-small.webp"
     },
     {
       "filename": "Fleetwood Lifeboat Station ^ RNLI Shop - geograph.org.uk - 5964716.jpg",
@@ -217,7 +225,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fleetwood-lifeboat-station-wp",
-      "sourceGeohash4": "gctf"
+      "sourceGeohash4": "gctf",
+      "smallPath": "_m/g/c/t/f/fleetwood-lifeboat-station-wp/fleetwood-lifeboat-station-rnl-1-small.webp"
     },
     {
       "filename": "Fleetwood Lifeboat station - geograph.org.uk - 7425676.jpg",
@@ -239,7 +248,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "fleetwood-lifeboat-station-wp",
-      "sourceGeohash4": "gctf"
+      "sourceGeohash4": "gctf",
+      "smallPath": "_m/g/c/t/f/fleetwood-lifeboat-station-wp/fleetwood-lifeboat-station-geo-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -252,5 +262,26 @@
     "_m/g/c/t/f/fleetwood-lifeboat-station-wp/fleetwood-lifeboat-station-rnl-1.jpg",
     "_m/g/c/t/f/fleetwood-lifeboat-station-wp/fleetwood-lifeboat-station-geo-1.jpg"
   ],
-  "updatedAt": "2026-06-22T16:02:50.041Z"
+  "updatedAt": "2026-06-22T16:02:50.041Z",
+  "narration": {
+    "files": [
+      "gctf-fleetwood-lifeboat-station-flight-context.mp3",
+      "gctf-fleetwood-lifeboat-station-intro.mp3",
+      "gctf-fleetwood-lifeboat-station-a-letter-that-saved-lives.mp3",
+      "gctf-fleetwood-lifeboat-station-four-boathouses-and-a-storm.mp3",
+      "gctf-fleetwood-lifeboat-station-the-first-engine.mp3",
+      "gctf-fleetwood-lifeboat-station-kenneth-james-pierpoint.mp3",
+      "gctf-fleetwood-lifeboat-station-volunteers-still.mp3"
+    ],
+    "durations": {
+      "gctf-fleetwood-lifeboat-station-flight-context.mp3": 66.818875,
+      "gctf-fleetwood-lifeboat-station-intro.mp3": 54.6054166,
+      "gctf-fleetwood-lifeboat-station-a-letter-that-saved-lives.mp3": 64.974375,
+      "gctf-fleetwood-lifeboat-station-four-boathouses-and-a-storm.mp3": 63.905375,
+      "gctf-fleetwood-lifeboat-station-the-first-engine.mp3": 46.9274583,
+      "gctf-fleetwood-lifeboat-station-kenneth-james-pierpoint.mp3": 60.4169166,
+      "gctf-fleetwood-lifeboat-station-volunteers-still.mp3": 47.1414583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

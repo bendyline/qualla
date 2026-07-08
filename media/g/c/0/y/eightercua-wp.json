@@ -23,7 +23,9 @@
           "Files with coordinates missing SDC location of creation",
           "Flickr images reviewed by FlickreviewR 2",
           "Photographs by Robert Linsdell"
-        ]
+        ],
+        "mediumPath": "_m/g/c/0/y/eightercua-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/0/y/eightercua-wp/hero-small.webp"
       },
       "images": [
         {
@@ -48,7 +50,9 @@
             "Flickr images reviewed by FlickreviewR 2",
             "Photographs by Robert Linsdell",
             "Ring of Kerry"
-          ]
+          ],
+          "mediumPath": "_m/g/c/0/y/eightercua-wp/eightercua-stone-alignment-rin-medium.webp",
+          "smallPath": "_m/g/c/0/y/eightercua-wp/eightercua-stone-alignment-rin-small.webp"
         },
         {
           "path": "_m/g/c/0/y/eightercua-wp/eightercua-stone-monument-geog.jpg",
@@ -68,7 +72,8 @@
             "CC-BY-SA-2.0",
             "Eightercua",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/0/y/eightercua-wp/eightercua-stone-monument-geog-small.webp"
         }
       ],
       "narration": [
@@ -78,7 +83,11 @@
         "_m/g/c/0/y/eightercua-wp/gc0y-eightercua-the-queen-who-never-arrived.mp3",
         "_m/g/c/0/y/eightercua-wp/gc0y-eightercua-what-the-sun-knows.mp3",
         "_m/g/c/0/y/eightercua-wp/gc0y-eightercua-the-field-today.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/0/y/eightercua-wp/gc0y-eightercua-combined.mp3",
+      "combinedNarrationBytes": 2906940,
+      "combinedNarrationDuration": 234,
+      "combinedCover": "_m/g/c/0/y/eightercua-wp/gc0y-eightercua-combined-cover.jpg"
     }
   }
 }

@@ -15,7 +15,9 @@
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robertsport_Beach.png",
         "sourceType": "core",
         "sourceArticleId": "robertsport-wp",
-        "sourceGeohash4": "e9py"
+        "sourceGeohash4": "e9py",
+        "mediumPath": "_m/e/9/p/y/robertsport-wp/hero-medium.webp",
+        "smallPath": "_m/e/9/p/y/robertsport-wp/hero-small.webp"
       },
       "images": [
         {
@@ -46,7 +48,8 @@
             "PD-old missing SDC copyright status",
             "Robertsport",
             "Uploaded by the British Library"
-          ]
+          ],
+          "smallPath": "_m/e/9/p/y/robertsport-wp/imray-1884-p0575-liber-small.webp"
         },
         {
           "path": "_m/e/9/p/y/robertsport-wp/robertsport.jpg",
@@ -71,7 +74,8 @@
             "License migration redundant",
             "Robertsport",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/e/9/p/y/robertsport-wp/robertsport-small.webp"
         },
         {
           "path": "_m/e/9/p/y/robertsport-wp/hotel-in-robertsport.jpg",
@@ -95,7 +99,9 @@
             "Hotels in Liberia",
             "Robertsport",
             "Taken with Nikon D40x"
-          ]
+          ],
+          "mediumPath": "_m/e/9/p/y/robertsport-wp/hotel-in-robertsport-medium.webp",
+          "smallPath": "_m/e/9/p/y/robertsport-wp/hotel-in-robertsport-small.webp"
         },
         {
           "path": "_m/e/9/p/y/robertsport-wp/asc-leiden-f-van-der-kraaij-co.jpg",
@@ -110,7 +116,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_F._van_der_Kraaij_Collection_-_01_-_074_-_A_smiling_woman_with_a_headscarf_and_a_zinc_bucket_on_the_head_-_Robertsport,_Cape_Mount_County,_Liberia,_1976.tiff",
           "sourceType": "commons-category",
           "sourceArticleId": "robertsport-wp",
-          "sourceGeohash4": "e9py"
+          "sourceGeohash4": "e9py",
+          "mediumPath": "_m/e/9/p/y/robertsport-wp/asc-leiden-f-van-der-kraaij-co-medium.webp",
+          "smallPath": "_m/e/9/p/y/robertsport-wp/asc-leiden-f-van-der-kraaij-co-small.webp"
         },
         {
           "path": "_m/e/9/p/y/robertsport-wp/asc-leiden-f-van-der-kraaij-co-1.jpg",
@@ -125,7 +133,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_F._van_der_Kraaij_Collection_-_02_-_074_-_Moses._Portrait_of_a_sweating_man_with_embroided_collar_in_front_of_water_with_a_palm_-_Robertsport,_Grand_Cape_Mount_County,_Liberia,_1976.tiff",
           "sourceType": "commons-category",
           "sourceArticleId": "robertsport-wp",
-          "sourceGeohash4": "e9py"
+          "sourceGeohash4": "e9py",
+          "mediumPath": "_m/e/9/p/y/robertsport-wp/asc-leiden-f-van-der-kraaij-co-1-medium.webp",
+          "smallPath": "_m/e/9/p/y/robertsport-wp/asc-leiden-f-van-der-kraaij-co-1-small.webp"
         },
         {
           "path": "_m/e/9/p/y/robertsport-wp/robertsport-sedler-house.jpg",
@@ -140,7 +150,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robertsport_sedler_house.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "robertsport-wp",
-          "sourceGeohash4": "e9py"
+          "sourceGeohash4": "e9py",
+          "smallPath": "_m/e/9/p/y/robertsport-wp/robertsport-sedler-house-small.webp"
         },
         {
           "path": "_m/e/9/p/y/robertsport-wp/robertsport-beach-cape-mount-c.jpg",
@@ -155,7 +166,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robertsport_Beach,_Cape_Mount_County.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "robertsport-wp",
-          "sourceGeohash4": "e9py"
+          "sourceGeohash4": "e9py",
+          "smallPath": "_m/e/9/p/y/robertsport-wp/robertsport-beach-cape-mount-c-small.webp"
         }
       ],
       "narration": [
@@ -165,7 +177,11 @@
         "_m/e/9/p/y/robertsport-wp/e9py-robertsport-robertss-port.mp3",
         "_m/e/9/p/y/robertsport-wp/e9py-robertsport-the-waves-nobody-was-watching.mp3",
         "_m/e/9/p/y/robertsport-wp/e9py-robertsport-a-town-that-endured.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/e/9/p/y/robertsport-wp/e9py-robertsport-combined.mp3",
+      "combinedNarrationBytes": 3385447,
+      "combinedNarrationDuration": 272,
+      "combinedCover": "_m/e/9/p/y/robertsport-wp/e9py-robertsport-combined-cover.jpg"
     }
   }
 }

@@ -53,5 +53,24 @@
     "sourceGeohash4": "gctq"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gctq-whitehaven-lifeboat-station-flight-context.mp3",
+      "gctq-whitehaven-lifeboat-station-intro.mp3",
+      "gctq-whitehaven-lifeboat-station-the-first-test.mp3",
+      "gctq-whitehaven-lifeboat-station-miss-leicesters-gift.mp3",
+      "gctq-whitehaven-lifeboat-station-the-rescues.mp3",
+      "gctq-whitehaven-lifeboat-station-quiet-endings.mp3"
+    ],
+    "durations": {
+      "gctq-whitehaven-lifeboat-station-flight-context.mp3": 44.2903333,
+      "gctq-whitehaven-lifeboat-station-intro.mp3": 40.476875,
+      "gctq-whitehaven-lifeboat-station-the-first-test.mp3": 48.1909583,
+      "gctq-whitehaven-lifeboat-station-miss-leicesters-gift.mp3": 47.865,
+      "gctq-whitehaven-lifeboat-station-the-rescues.mp3": 50.3724166,
+      "gctq-whitehaven-lifeboat-station-quiet-endings.mp3": 47.3589583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

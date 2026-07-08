@@ -17,7 +17,9 @@
     "dateCreated": "2013-09-05 15:52",
     "sourceType": "core",
     "sourceArticleId": "glasgow-subway-wp",
-    "sourceGeohash4": "gcuv"
+    "sourceGeohash4": "gcuv",
+    "mediumPath": "_m/g/c/u/v/glasgow-subway-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/u/v/glasgow-subway-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "GLASGOW SUBWAY BUCHANAN STREET SCOTLAND SEP 2013 (9689698808).jpg",
@@ -67,7 +69,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "glasgow-subway-wp",
-      "sourceGeohash4": "gcuv"
+      "sourceGeohash4": "gcuv",
+      "smallPath": "_m/g/c/u/v/glasgow-subway-wp/electric-clockwork-ora-small.webp"
     },
     {
       "filename": "First 37199 on 56.JPG",
@@ -130,7 +133,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "glasgow-subway-wp",
-      "sourceGeohash4": "gcuv"
+      "sourceGeohash4": "gcuv",
+      "smallPath": "_m/g/c/u/v/glasgow-subway-wp/entrance-kelvinhall-su-small.webp"
     },
     {
       "filename": "Particksubway.jpg",
@@ -156,7 +160,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "glasgow-subway-wp",
-      "sourceGeohash4": "gcuv"
+      "sourceGeohash4": "gcuv",
+      "smallPath": "_m/g/c/u/v/glasgow-subway-wp/partick-subway-station-small.webp"
     },
     {
       "filename": "380101 at Glasgow Central.jpg",
@@ -194,7 +199,9 @@
       "dateCreated": "2012-03-02",
       "sourceType": "core",
       "sourceArticleId": "glasgow-subway-wp",
-      "sourceGeohash4": "gcuv"
+      "sourceGeohash4": "gcuv",
+      "mediumPath": "_m/g/c/u/v/glasgow-subway-wp/recreated-glasgow-subw-medium.webp",
+      "smallPath": "_m/g/c/u/v/glasgow-subway-wp/recreated-glasgow-subw-small.webp"
     },
     {
       "filename": "Glasgow Subway Stadler unit at West Street 160624 (53795597366).jpg",
@@ -213,7 +220,9 @@
       "dateCreated": "2024-06-16 12:11",
       "sourceType": "core",
       "sourceArticleId": "glasgow-subway-wp",
-      "sourceGeohash4": "gcuv"
+      "sourceGeohash4": "gcuv",
+      "mediumPath": "_m/g/c/u/v/glasgow-subway-wp/glasgow-subway-stadler-medium.webp",
+      "smallPath": "_m/g/c/u/v/glasgow-subway-wp/glasgow-subway-stadler-small.webp"
     },
     {
       "filename": "Glasgow Subway Stadler unit at West Street 160624 (53794657872).jpg",
@@ -244,5 +253,24 @@
     "_m/g/c/u/v/glasgow-subway-wp/recreated-glasgow-subw.jpg",
     "_m/g/c/u/v/glasgow-subway-wp/glasgow-subway-stadler.jpg",
     "_m/g/c/u/e/glasgow-prestwick-airport-wp/glasgow-subway-stadler.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcuv-glasgow-subway-flight-context.mp3",
+      "gcuv-glasgow-subway-intro.mp3",
+      "gcuv-glasgow-subway-built-for-one-loop.mp3",
+      "gcuv-glasgow-subway-cable-to-current.mp3",
+      "gcuv-glasgow-subway-modernisation-and-the-orange-years.mp3",
+      "gcuv-glasgow-subway-driverless-and-still-going.mp3"
+    ],
+    "durations": {
+      "gcuv-glasgow-subway-flight-context.mp3": 65.8712083,
+      "gcuv-glasgow-subway-intro.mp3": 53.737875,
+      "gcuv-glasgow-subway-built-for-one-loop.mp3": 66.4506666,
+      "gcuv-glasgow-subway-cable-to-current.mp3": 72.3504166,
+      "gcuv-glasgow-subway-modernisation-and-the-orange-years.mp3": 85.7360833,
+      "gcuv-glasgow-subway-driverless-and-still-going.mp3": 97.4540416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

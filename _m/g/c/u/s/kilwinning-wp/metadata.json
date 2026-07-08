@@ -24,7 +24,8 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "kilwinning-wp",
-      "sourceGeohash4": "gcus"
+      "sourceGeohash4": "gcus",
+      "smallPath": "_m/g/c/u/s/kilwinning-wp/kilwinning-abbey-2-april-2008-small.webp"
     },
     {
       "filename": "Aerial view of Eglinton, Ayrshire, Scotland..jpg",
@@ -47,7 +48,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "kilwinning-wp",
-      "sourceGeohash4": "gcus"
+      "sourceGeohash4": "gcus",
+      "mediumPath": "_m/g/c/u/s/kilwinning-wp/aerial-view-of-eglinton-ayrshi-medium.webp",
+      "smallPath": "_m/g/c/u/s/kilwinning-wp/aerial-view-of-eglinton-ayrshi-small.webp"
     },
     {
       "filename": "Kilwinning papingo170813 d.jpg",
@@ -70,7 +73,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "kilwinning-wp",
-      "sourceGeohash4": "gcus"
+      "sourceGeohash4": "gcus",
+      "mediumPath": "_m/g/c/u/s/kilwinning-wp/kilwinning-papingo170813-d-medium.webp",
+      "smallPath": "_m/g/c/u/s/kilwinning-wp/kilwinning-papingo170813-d-small.webp"
     }
   ],
   "galleryPaths": [
@@ -78,5 +83,26 @@
     "_m/g/c/u/s/kilwinning-wp/aerial-view-of-eglinton-ayrshi.jpg",
     "_m/g/c/u/s/kilwinning-wp/kilwinning-papingo170813-d.jpg"
   ],
-  "updatedAt": "2026-06-22T20:17:48.315Z"
+  "updatedAt": "2026-06-22T20:17:48.315Z",
+  "narration": {
+    "files": [
+      "gcus-kilwinning-flight-context.mp3",
+      "gcus-kilwinning-intro.mp3",
+      "gcus-kilwinning-the-saint-whose-name-nobody-can-agree-on.mp3",
+      "gcus-kilwinning-the-mother-lodge.mp3",
+      "gcus-kilwinning-eglintons-magnificent-mistake.mp3",
+      "gcus-kilwinning-iron-knitwear-and-what-came-after.mp3",
+      "gcus-kilwinning-the-people-who-left-and-the-people-who-stayed.mp3"
+    ],
+    "durations": {
+      "gcus-kilwinning-flight-context.mp3": 39.9218333,
+      "gcus-kilwinning-intro.mp3": 48.9490833,
+      "gcus-kilwinning-the-saint-whose-name-nobody-can-agree-on.mp3": 60.2704583,
+      "gcus-kilwinning-the-mother-lodge.mp3": 63.476125,
+      "gcus-kilwinning-eglintons-magnificent-mistake.mp3": 78.3269583,
+      "gcus-kilwinning-iron-knitwear-and-what-came-after.mp3": 66.748,
+      "gcus-kilwinning-the-people-who-left-and-the-people-who-stayed.mp3": 58.4435833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

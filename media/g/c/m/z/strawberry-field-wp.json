@@ -21,7 +21,8 @@
           "PD-user",
           "Scanned with Nikon Coolscan V ED",
           "Strawberry Fields Forever"
-        ]
+        ],
+        "smallPath": "_m/g/c/m/z/strawberry-field-wp/hero-small.webp"
       },
       "images": [
         {
@@ -46,7 +47,8 @@
             "Main gates of Strawberry Field",
             "Strawberry Fields Forever",
             "Taken with Canon Digital IXUS 330"
-          ]
+          ],
+          "smallPath": "_m/g/c/m/z/strawberry-field-wp/salvation-army-orphana-small.webp"
         },
         {
           "path": "_m/g/c/m/z/strawberry-field-wp/strawberry-field-01.jpg",
@@ -66,7 +68,8 @@
             "CC-BY-3.0",
             "Self-published work",
             "Strawberry Field"
-          ]
+          ],
+          "smallPath": "_m/g/c/m/z/strawberry-field-wp/strawberry-field-01-small.webp"
         },
         {
           "path": "_m/g/c/m/z/strawberry-field-wp/strawberry-field-liverpool-eng.jpg",
@@ -91,7 +94,9 @@
             "Signs in Liverpool",
             "Strawberry Field",
             "Taken with Canon PowerShot A2200"
-          ]
+          ],
+          "mediumPath": "_m/g/c/m/z/strawberry-field-wp/strawberry-field-liverpool-eng-medium.webp",
+          "smallPath": "_m/g/c/m/z/strawberry-field-wp/strawberry-field-liverpool-eng-small.webp"
         },
         {
           "path": "_m/g/c/m/z/strawberry-field-wp/strawberry-fields-liverpool.jpg",
@@ -112,7 +117,9 @@
             "Files with coordinates missing SDC location of creation (53° N, 3° W)",
             "Self-published work",
             "Strawberry Field"
-          ]
+          ],
+          "mediumPath": "_m/g/c/m/z/strawberry-field-wp/strawberry-fields-liverpool-medium.webp",
+          "smallPath": "_m/g/c/m/z/strawberry-field-wp/strawberry-fields-liverpool-small.webp"
         },
         {
           "path": "_m/g/c/m/z/strawberry-field-wp/strawberry-field-entrance.jpg",
@@ -132,7 +139,9 @@
             "CC-BY-SA-4.0",
             "Self-published work",
             "Strawberry Field"
-          ]
+          ],
+          "mediumPath": "_m/g/c/m/z/strawberry-field-wp/strawberry-field-entrance-medium.webp",
+          "smallPath": "_m/g/c/m/z/strawberry-field-wp/strawberry-field-entrance-small.webp"
         },
         {
           "path": "_m/g/c/m/z/strawberry-field-wp/bandstand-mural-geograph-org-u.jpg",
@@ -153,7 +162,8 @@
             "Images from Geograph Britain and Ireland",
             "Murals in Merseyside",
             "Strawberry Field"
-          ]
+          ],
+          "smallPath": "_m/g/c/m/z/strawberry-field-wp/bandstand-mural-geograph-org-u-small.webp"
         },
         {
           "path": "_m/g/c/m/z/strawberry-field-wp/strawberry-field-bandstand-geo.jpg",
@@ -174,7 +184,8 @@
             "Images from Geograph Britain and Ireland",
             "Murals in Merseburg",
             "Strawberry Field"
-          ]
+          ],
+          "smallPath": "_m/g/c/m/z/strawberry-field-wp/strawberry-field-bandstand-geo-small.webp"
         }
       ],
       "narration": [
@@ -185,7 +196,11 @@
         "_m/g/c/m/z/strawberry-field-wp/gcmz-strawberry-field-recording-an-impossible-song.mp3",
         "_m/g/c/m/z/strawberry-field-wp/gcmz-strawberry-field-the-gates-become-a-shrine.mp3",
         "_m/g/c/m/z/strawberry-field-wp/gcmz-strawberry-field-opening-to-the-public.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/m/z/strawberry-field-wp/gcmz-strawberry-field-combined.mp3",
+      "combinedNarrationBytes": 5300300,
+      "combinedNarrationDuration": 427,
+      "combinedCover": "_m/g/c/m/z/strawberry-field-wp/gcmz-strawberry-field-combined-cover.jpg"
     }
   }
 }

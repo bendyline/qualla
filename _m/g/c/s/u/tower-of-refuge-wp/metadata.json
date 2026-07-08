@@ -86,7 +86,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "tower-of-refuge-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "mediumPath": "_m/g/c/s/u/tower-of-refuge-wp/isle-man-steam-packet-medium.webp",
+      "smallPath": "_m/g/c/s/u/tower-of-refuge-wp/isle-man-steam-packet-small.webp"
     },
     {
       "filename": "The Thomas Parker, wrecked on St Mary's Isle..JPG",
@@ -113,7 +115,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "tower-of-refuge-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "mediumPath": "_m/g/c/s/u/tower-of-refuge-wp/dublin-sailing-ship-th-medium.webp",
+      "smallPath": "_m/g/c/s/u/tower-of-refuge-wp/dublin-sailing-ship-th-small.webp"
     },
     {
       "filename": "TowerofRefuge.jpg",
@@ -142,12 +146,33 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "tower-of-refuge-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "mediumPath": "_m/g/c/s/u/tower-of-refuge-wp/tower-refuge-conister-medium.webp",
+      "smallPath": "_m/g/c/s/u/tower-of-refuge-wp/tower-refuge-conister-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/s/u/tower-of-refuge-wp/isle-man-steam-packet.jpg",
     "_m/g/c/s/u/tower-of-refuge-wp/dublin-sailing-ship-th.jpg",
     "_m/g/c/s/u/tower-of-refuge-wp/tower-refuge-conister.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcsu-tower-of-refuge-flight-context.mp3",
+      "gcsu-tower-of-refuge-intro.mp3",
+      "gcsu-tower-of-refuge-a-rock-with-a-reputation.mp3",
+      "gcsu-tower-of-refuge-a-castle-for-the-shipwrecked.mp3",
+      "gcsu-tower-of-refuge-the-rock-keeps-its-habits.mp3",
+      "gcsu-tower-of-refuge-walks-and-custodianship.mp3"
+    ],
+    "durations": {
+      "gcsu-tower-of-refuge-flight-context.mp3": 43.6953333,
+      "gcsu-tower-of-refuge-intro.mp3": 36.5814166,
+      "gcsu-tower-of-refuge-a-rock-with-a-reputation.mp3": 60.561875,
+      "gcsu-tower-of-refuge-a-castle-for-the-shipwrecked.mp3": 55.4197083,
+      "gcsu-tower-of-refuge-the-rock-keeps-its-habits.mp3": 51.8872083,
+      "gcsu-tower-of-refuge-walks-and-custodianship.mp3": 50.4956666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

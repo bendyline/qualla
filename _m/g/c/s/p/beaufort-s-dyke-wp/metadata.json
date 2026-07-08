@@ -72,7 +72,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "beaufort-s-dyke-wp",
-      "sourceGeohash4": "gcsp"
+      "sourceGeohash4": "gcsp",
+      "mediumPath": "_m/g/c/s/p/beaufort-s-dyke-wp/nautical-chart-western-medium.webp",
+      "smallPath": "_m/g/c/s/p/beaufort-s-dyke-wp/nautical-chart-western-small.webp"
     },
     {
       "filename": "Beaufort's Dyke location.png",
@@ -99,7 +101,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "beaufort-s-dyke-wp",
-      "sourceGeohash4": "gcsp"
+      "sourceGeohash4": "gcsp",
+      "smallPath": "_m/g/c/s/p/beaufort-s-dyke-wp/map-showing-location-b-small.webp"
     },
     {
       "filename": "Admiralty Chart No 2198 North Channel southern part, Published 1969.jpg",
@@ -135,5 +138,24 @@
     "_m/g/c/s/p/beaufort-s-dyke-wp/map-showing-location-b.png",
     "_m/g/c/g/b/larne-wk/admiralty-chart-no-2198-north-.jpg"
   ],
-  "updatedAt": "2026-06-22T12:35:33.027Z"
+  "updatedAt": "2026-06-22T12:35:33.027Z",
+  "narration": {
+    "files": [
+      "gcsp-beauforts-dyke-flight-context.mp3",
+      "gcsp-beauforts-dyke-intro.mp3",
+      "gcsp-beauforts-dyke-a-tunnel-cut-by-ice.mp3",
+      "gcsp-beauforts-dyke-the-convenience-of-depth.mp3",
+      "gcsp-beauforts-dyke-what-washes-up.mp3",
+      "gcsp-beauforts-dyke-the-bridge-that-wasnt-built.mp3"
+    ],
+    "durations": {
+      "gcsp-beauforts-dyke-flight-context.mp3": 60.0378333,
+      "gcsp-beauforts-dyke-intro.mp3": 63.2380416,
+      "gcsp-beauforts-dyke-a-tunnel-cut-by-ice.mp3": 52.529375,
+      "gcsp-beauforts-dyke-the-convenience-of-depth.mp3": 51.5157916,
+      "gcsp-beauforts-dyke-what-washes-up.mp3": 57.2317916,
+      "gcsp-beauforts-dyke-the-bridge-that-wasnt-built.mp3": 59.501625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

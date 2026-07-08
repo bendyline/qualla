@@ -24,7 +24,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "jennings-brewery-wp",
-    "sourceGeohash4": "gctw"
+    "sourceGeohash4": "gctw",
+    "mediumPath": "_m/g/c/t/w/jennings-brewery-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/t/w/jennings-brewery-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Jennings brewery, Cockermouth.JPG",
@@ -53,5 +55,24 @@
     "sourceGeohash4": "gctw"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gctw-jennings-brewery-flight-context.mp3",
+      "gctw-jennings-brewery-intro.mp3",
+      "gctw-jennings-brewery-what-went-into-the-tank.mp3",
+      "gctw-jennings-brewery-cumberland-ale-and-cocker-hoop.mp3",
+      "gctw-jennings-brewery-sold-merged-closed.mp3",
+      "gctw-jennings-brewery-coda-an-auction-and-a-revival.mp3"
+    ],
+    "durations": {
+      "gctw-jennings-brewery-flight-context.mp3": 52.5922083,
+      "gctw-jennings-brewery-intro.mp3": 44.416375,
+      "gctw-jennings-brewery-what-went-into-the-tank.mp3": 51.1365833,
+      "gctw-jennings-brewery-cumberland-ale-and-cocker-hoop.mp3": 71.4057916,
+      "gctw-jennings-brewery-sold-merged-closed.mp3": 65.1514583,
+      "gctw-jennings-brewery-coda-an-auction-and-a-revival.mp3": 61.2299166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

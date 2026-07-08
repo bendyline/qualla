@@ -15,7 +15,9 @@
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oatlands_Palace_gateway,_Weybridge,_Surrey.jpg",
         "sourceType": "core",
         "sourceArticleId": "oatlands-palace-wp",
-        "sourceGeohash4": "gcps"
+        "sourceGeohash4": "gcps",
+        "mediumPath": "_m/g/c/p/s/oatlands-palace-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/p/s/oatlands-palace-wp/hero-small.webp"
       },
       "images": [
         {
@@ -72,7 +74,8 @@
             "Portrait paintings of women wearing feathered hats",
             "Portrait paintings of women with dogs",
             "Supportasse"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/s/oatlands-palace-wp/portrait-anne-danemark-small.webp"
         },
         {
           "path": "_m/g/c/p/s/oatlands-palace-wp/ornamental-gates-forma.jpg",
@@ -87,7 +90,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oatlands_House,_ornamental_gates,_Weybridge,_Surrey.jpg",
           "sourceType": "core",
           "sourceArticleId": "oatlands-palace-wp",
-          "sourceGeohash4": "gcps"
+          "sourceGeohash4": "gcps",
+          "mediumPath": "_m/g/c/p/s/oatlands-palace-wp/ornamental-gates-forma-medium.webp",
+          "smallPath": "_m/g/c/p/s/oatlands-palace-wp/ornamental-gates-forma-small.webp"
         },
         {
           "path": "_m/g/c/p/s/oatlands-palace-wp/palace-oatlands.jpg",
@@ -113,7 +118,8 @@
             "PD-Art (PD-old default)",
             "PD-Art missing SDC copyright status",
             "PD-old missing SDC copyright status"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/s/oatlands-palace-wp/palace-oatlands-small.webp"
         },
         {
           "path": "_m/g/c/p/s/oatlands-palace-wp/oatlands-palace-gateway-weybri.jpg",
@@ -128,7 +134,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oatlands_Palace_gateway,_Weybridge,_Surrey_2.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "oatlands-palace-wp",
-          "sourceGeohash4": "gcps"
+          "sourceGeohash4": "gcps",
+          "mediumPath": "_m/g/c/p/s/oatlands-palace-wp/oatlands-palace-gateway-weybri-medium.webp",
+          "smallPath": "_m/g/c/p/s/oatlands-palace-wp/oatlands-palace-gateway-weybri-small.webp"
         },
         {
           "path": "_m/g/c/p/s/oatlands-palace-wp/oatlands-palace-gateway-weybri-1.jpg",
@@ -143,7 +151,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oatlands_Palace_gateway,_Weybridge,_Surrey_3.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "oatlands-palace-wp",
-          "sourceGeohash4": "gcps"
+          "sourceGeohash4": "gcps",
+          "mediumPath": "_m/g/c/p/s/oatlands-palace-wp/oatlands-palace-gateway-weybri-1-medium.webp",
+          "smallPath": "_m/g/c/p/s/oatlands-palace-wp/oatlands-palace-gateway-weybri-1-small.webp"
         },
         {
           "path": "_m/g/c/p/s/weybridge-wp/mercedes-benz-world-2007.jpg",
@@ -199,7 +209,11 @@
         "_m/g/c/p/s/oatlands-palace-wp/gcps-oatlands-palace-henrietta-maria-and-a-smuggled-princess.mp3",
         "_m/g/c/p/s/oatlands-palace-wp/gcps-oatlands-palace-haydn-at-the-hunting-lodge.mp3",
         "_m/g/c/p/s/oatlands-palace-wp/gcps-oatlands-palace-from-the-air.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/p/s/oatlands-palace-wp/gcps-oatlands-palace-combined.mp3",
+      "combinedNarrationBytes": 4739721,
+      "combinedNarrationDuration": 380,
+      "combinedCover": "_m/g/c/p/s/oatlands-palace-wp/gcps-oatlands-palace-combined-cover.jpg"
     }
   }
 }

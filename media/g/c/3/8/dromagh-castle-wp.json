@@ -20,7 +20,8 @@
           "CC-BY-SA-2.0",
           "Dromagh Castle",
           "Images from Geograph Britain and Ireland"
-        ]
+        ],
+        "smallPath": "_m/g/c/3/8/dromagh-castle-wp/hero-small.webp"
       },
       "images": [
         {
@@ -41,7 +42,8 @@
             "CC-BY-SA-2.0",
             "Dromagh Castle",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/3/8/dromagh-castle-wp/castles-munster-dromag-small.webp"
         },
         {
           "path": "_m/g/c/3/8/dromagh-castle-wp/gate-photograph-taken.jpg",
@@ -61,7 +63,9 @@
             "CC-BY-SA-4.0",
             "Dromagh Castle",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/8/dromagh-castle-wp/gate-photograph-taken-medium.webp",
+          "smallPath": "_m/g/c/3/8/dromagh-castle-wp/gate-photograph-taken-small.webp"
         }
       ],
       "narration": [
@@ -73,7 +77,11 @@
         "_m/g/c/3/8/dromagh-castle-wp/gc38-dromagh-castle-the-pasteboard-castle.mp3",
         "_m/g/c/3/8/dromagh-castle-wp/gc38-dromagh-castle-one-hundred-men-in-disguises.mp3",
         "_m/g/c/3/8/dromagh-castle-wp/gc38-dromagh-castle-tunnels-and-inscriptions.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/3/8/dromagh-castle-wp/gc38-dromagh-castle-combined.mp3",
+      "combinedNarrationBytes": 6057598,
+      "combinedNarrationDuration": 494,
+      "combinedCover": "_m/g/c/3/8/dromagh-castle-wp/gc38-dromagh-castle-combined-cover.jpg"
     }
   }
 }

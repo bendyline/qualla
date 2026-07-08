@@ -22,7 +22,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "ardrossan-lifeboat-station-wp",
-    "sourceGeohash4": "gcus"
+    "sourceGeohash4": "gcus",
+    "mediumPath": "_m/g/c/u/s/ardrossan-lifeboat-station-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/u/s/ardrossan-lifeboat-station-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Lighthouse, Ardrossan - geograph.org.uk - 5820398.jpg",
@@ -78,5 +80,22 @@
   ],
   "galleryPaths": [
     "_m/g/c/u/k/brodick-castle-wp/relief-map-north-ayrsh.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcus-ardrossan-lifeboat-station-flight-context.mp3",
+      "gcus-ardrossan-lifeboat-station-intro.mp3",
+      "gcus-ardrossan-lifeboat-station-a-gift-from-the-earl.mp3",
+      "gcus-ardrossan-lifeboat-station-flags-bands-and-the-fair-maid-of-perth.mp3",
+      "gcus-ardrossan-lifeboat-station-the-last-boats-and-the-closure.mp3"
+    ],
+    "durations": {
+      "gcus-ardrossan-lifeboat-station-flight-context.mp3": 56.7944166,
+      "gcus-ardrossan-lifeboat-station-intro.mp3": 58.287625,
+      "gcus-ardrossan-lifeboat-station-a-gift-from-the-earl.mp3": 71.1585416,
+      "gcus-ardrossan-lifeboat-station-flags-bands-and-the-fair-maid-of-perth.mp3": 87.42675,
+      "gcus-ardrossan-lifeboat-station-the-last-boats-and-the-closure.mp3": 80.573875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

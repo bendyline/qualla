@@ -31,7 +31,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "battle-of-hieton-wp",
-    "sourceGeohash4": "gcvj"
+    "sourceGeohash4": "gcvj",
+    "smallPath": "_m/g/c/v/j/battle-of-hieton-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Battle of Hieton plaque.JPG",
@@ -67,5 +68,24 @@
     "sourceGeohash4": "gcvj"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcvj-battle-of-hieton-flight-context.mp3",
+      "gcvj-battle-of-hieton-intro.mp3",
+      "gcvj-battle-of-hieton-a-kingdom-divided-against-itself.mp3",
+      "gcvj-battle-of-hieton-the-high-town-above-the-burn.mp3",
+      "gcvj-battle-of-hieton-what-came-after.mp3",
+      "gcvj-battle-of-hieton-a-plaque-on-a-bridge.mp3"
+    ],
+    "durations": {
+      "gcvj-battle-of-hieton-flight-context.mp3": 59.00475,
+      "gcvj-battle-of-hieton-intro.mp3": 36.0263333,
+      "gcvj-battle-of-hieton-a-kingdom-divided-against-itself.mp3": 64.3805,
+      "gcvj-battle-of-hieton-the-high-town-above-the-burn.mp3": 52.773375,
+      "gcvj-battle-of-hieton-what-came-after.mp3": 51.4940416,
+      "gcvj-battle-of-hieton-a-plaque-on-a-bridge.mp3": 43.312
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

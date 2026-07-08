@@ -49,12 +49,35 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "north-queensferry-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "mediumPath": "_m/g/c/v/w/north-queensferry-wp/hospitium-of-the-grey-friars-i-medium.webp",
+      "smallPath": "_m/g/c/v/w/north-queensferry-wp/hospitium-of-the-grey-friars-i-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/v/w/north-queensferry-wp/north-queensferry-banner-forth.jpg",
     "_m/g/c/v/w/north-queensferry-wp/hospitium-of-the-grey-friars-i.jpg"
   ],
-  "updatedAt": "2026-06-23T01:52:01.340Z"
+  "updatedAt": "2026-06-23T01:52:01.340Z",
+  "narration": {
+    "files": [
+      "gcvw-north-queensferry-flight-context.mp3",
+      "gcvw-north-queensferry-intro.mp3",
+      "gcvw-north-queensferry-the-queens-ferry.mp3",
+      "gcvw-north-queensferry-the-narrowest-crossing.mp3",
+      "gcvw-north-queensferry-the-smallest-lighthouse-in-the-world.mp3",
+      "gcvw-north-queensferry-whinstone-and-wildlife.mp3",
+      "gcvw-north-queensferry-the-famous-and-the-forgotten.mp3"
+    ],
+    "durations": {
+      "gcvw-north-queensferry-flight-context.mp3": 60.7286666,
+      "gcvw-north-queensferry-intro.mp3": 38.6142916,
+      "gcvw-north-queensferry-the-queens-ferry.mp3": 46.2122083,
+      "gcvw-north-queensferry-the-narrowest-crossing.mp3": 52.5142916,
+      "gcvw-north-queensferry-the-smallest-lighthouse-in-the-world.mp3": 51.753375,
+      "gcvw-north-queensferry-whinstone-and-wildlife.mp3": 51.3247916,
+      "gcvw-north-queensferry-the-famous-and-the-forgotten.mp3": 52.436375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

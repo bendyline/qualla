@@ -23,7 +23,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "alhambra-theatre-morecambe-wp",
-    "sourceGeohash4": "gctg"
+    "sourceGeohash4": "gctg",
+    "mediumPath": "_m/g/c/t/g/alhambra-theatre-morecambe-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/t/g/alhambra-theatre-morecambe-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Alhambra Morecambe credit Other National Theatre.jpg",
@@ -74,11 +76,31 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "alhambra-theatre-morecambe-wp",
-      "sourceGeohash4": "gctg"
+      "sourceGeohash4": "gctg",
+      "smallPath": "_m/g/c/t/g/alhambra-theatre-morecambe-wp/morecambe-antiques-and-collect-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/t/g/alhambra-theatre-morecambe-wp/morecambe-antiques-and-collect.jpg"
   ],
-  "updatedAt": "2026-06-22T16:10:50.826Z"
+  "updatedAt": "2026-06-22T16:10:50.826Z",
+  "narration": {
+    "files": [
+      "gctg-alhambra-theatre-morecambe-flight-context.mp3",
+      "gctg-alhambra-theatre-morecambe-intro.mp3",
+      "gctg-alhambra-theatre-morecambe-a-local-project-built-for-the-west-end.mp3",
+      "gctg-alhambra-theatre-morecambe-olivier-variety-and-the-astoria.mp3",
+      "gctg-alhambra-theatre-morecambe-fire-carleton-northern-soul.mp3",
+      "gctg-alhambra-theatre-morecambe-volunteers-and-a-slow-return.mp3"
+    ],
+    "durations": {
+      "gctg-alhambra-theatre-morecambe-flight-context.mp3": 38.0159166,
+      "gctg-alhambra-theatre-morecambe-intro.mp3": 40.9859166,
+      "gctg-alhambra-theatre-morecambe-a-local-project-built-for-the-west-end.mp3": 56.8646666,
+      "gctg-alhambra-theatre-morecambe-olivier-variety-and-the-astoria.mp3": 52.7712916,
+      "gctg-alhambra-theatre-morecambe-fire-carleton-northern-soul.mp3": 63.308625,
+      "gctg-alhambra-theatre-morecambe-volunteers-and-a-slow-return.mp3": 77.16875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

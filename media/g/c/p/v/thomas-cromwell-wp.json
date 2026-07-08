@@ -85,7 +85,8 @@
             "PD-Art (PD-old-100-expired)",
             "PD-old-100-expired",
             "Template Unknown (source)"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/thomas-cromwell-wp/anne-cleves-hans-holbe-small.webp"
         },
         {
           "path": "_m/g/c/p/v/thomas-cromwell-wp/portrait-lady-probably.jpg",
@@ -100,7 +101,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Holbein,_Hans_(II)_-_Portrait_of_a_lady,_probably_of_the_Cromwell_Family_formerly_known_as_Catherine_Howard_-_WGA11565.jpg",
           "sourceType": "core",
           "sourceArticleId": "thomas-cromwell-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "smallPath": "_m/g/c/p/v/thomas-cromwell-wp/portrait-lady-probably-small.webp"
         },
         {
           "path": "_m/g/c/p/v/thomas-cromwell-wp/hans-holbein-younger-j.jpg",
@@ -114,7 +116,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_Jane_Seymour,_Queen_of_England_-_Google_Art_Project.jpg",
           "sourceType": "core",
           "sourceArticleId": "thomas-cromwell-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/g/c/p/v/thomas-cromwell-wp/hans-holbein-younger-j-medium.webp",
+          "smallPath": "_m/g/c/p/v/thomas-cromwell-wp/hans-holbein-younger-j-small.webp"
         },
         {
           "path": "_m/g/c/p/v/thomas-cromwell-wp/site-ancient-scaffold.jpg",
@@ -129,7 +133,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:London_01_2013_Tower_Hill_scaffold_5211.JPG",
           "sourceType": "core",
           "sourceArticleId": "thomas-cromwell-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/g/c/p/v/thomas-cromwell-wp/site-ancient-scaffold-medium.webp",
+          "smallPath": "_m/g/c/p/v/thomas-cromwell-wp/site-ancient-scaffold-small.webp"
         },
         {
           "path": "_m/g/c/p/v/thomas-cromwell-wp/portrait-medal-made-th.png",
@@ -144,7 +150,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thomas_Cromwell_medal,_1538_side_2.png",
           "sourceType": "core",
           "sourceArticleId": "thomas-cromwell-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "smallPath": "_m/g/c/p/v/thomas-cromwell-wp/portrait-medal-made-th-small.webp"
         },
         {
           "path": "_m/g/c/p/v/thomas-cromwell-wp/coat-augmentation-coat.png",
@@ -159,7 +166,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thomas_Cromwell,_Coat_of_Arms,_1537.png",
           "sourceType": "core",
           "sourceArticleId": "thomas-cromwell-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "smallPath": "_m/g/c/p/v/thomas-cromwell-wp/coat-augmentation-coat-small.webp"
         }
       ],
       "narration": [
@@ -171,7 +179,11 @@
         "_m/g/c/p/v/thomas-cromwell-wp/gcpv-thomas-cromwell-the-dissolution.mp3",
         "_m/g/c/p/v/thomas-cromwell-wp/gcpv-thomas-cromwell-anne-of-cleves.mp3",
         "_m/g/c/p/v/thomas-cromwell-wp/gcpv-thomas-cromwell-wolf-hall.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/p/v/thomas-cromwell-wp/gcpv-thomas-cromwell-combined.mp3",
+      "combinedNarrationBytes": 6023129,
+      "combinedNarrationDuration": 494,
+      "combinedCover": "_m/g/c/p/v/thomas-cromwell-wp/gcpv-thomas-cromwell-combined-cover.jpg"
     }
   }
 }

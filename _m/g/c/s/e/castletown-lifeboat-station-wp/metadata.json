@@ -26,7 +26,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "castletown-lifeboat-station-wp",
-    "sourceGeohash4": "gcse"
+    "sourceGeohash4": "gcse",
+    "smallPath": "_m/g/c/s/e/castletown-lifeboat-station-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Castletown Lifeboat House c.1900.jpg",
@@ -82,10 +83,32 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "castletown-lifeboat-station-wp",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "smallPath": "_m/g/c/s/e/castletown-lifeboat-station-wp/1896-former-rnli-lifeb-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/s/e/castletown-lifeboat-station-wp/1896-former-rnli-lifeb.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcse-castletown-lifeboat-station-flight-context.mp3",
+      "gcse-castletown-lifeboat-station-intro.mp3",
+      "gcse-castletown-lifeboat-station-sir-william-hillarys-appeal.mp3",
+      "gcse-castletown-lifeboat-station-volunteers-medals-wrecks.mp3",
+      "gcse-castletown-lifeboat-station-commercial-traveller-no-2.mp3",
+      "gcse-castletown-lifeboat-station-faith-hope-and-charity.mp3",
+      "gcse-castletown-lifeboat-station-the-station-closes.mp3"
+    ],
+    "durations": {
+      "gcse-castletown-lifeboat-station-flight-context.mp3": 51.6387083,
+      "gcse-castletown-lifeboat-station-intro.mp3": 47.3950416,
+      "gcse-castletown-lifeboat-station-sir-william-hillarys-appeal.mp3": 60.9273333,
+      "gcse-castletown-lifeboat-station-volunteers-medals-wrecks.mp3": 65.1560416,
+      "gcse-castletown-lifeboat-station-commercial-traveller-no-2.mp3": 58.6090833,
+      "gcse-castletown-lifeboat-station-faith-hope-and-charity.mp3": 68.388375,
+      "gcse-castletown-lifeboat-station-the-station-closes.mp3": 66.6580833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

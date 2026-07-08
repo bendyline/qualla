@@ -26,7 +26,8 @@
           "PD-user",
           "Taken with Kodak EasyShare Z650",
           "Transport in Chesapeake, Virginia"
-        ]
+        ],
+        "smallPath": "_m/d/q/9/c/chesapeake-virginia-wp/hero-small.webp"
       },
       "images": [
         {
@@ -50,7 +51,8 @@
             "Old maps of Norfolk, Virginia",
             "PD-old missing SDC copyright status",
             "PD Old"
-          ]
+          ],
+          "smallPath": "_m/d/q/9/c/chesapeake-virginia-wp/norfolk-small.webp"
         },
         {
           "path": "_m/d/q/9/c/chesapeake-virginia-wp/hero.png",
@@ -116,7 +118,8 @@
             "License migration completed",
             "Self-published work",
             "Taken with Panasonic PV-SD4090"
-          ]
+          ],
+          "smallPath": "_m/d/q/9/c/chesapeake-virginia-wp/taken-me-my-brother-ba-small.webp"
         },
         {
           "path": "_m/d/q/9/c/chesapeake-virginia-wp/maersk-53-container.jpg",
@@ -139,7 +142,8 @@
             "PD-author",
             "Shipping container semi-trailers in the United States",
             "Taken with Kodak EasyShare Z650"
-          ]
+          ],
+          "smallPath": "_m/d/q/9/c/chesapeake-virginia-wp/maersk-53-container-small.webp"
         },
         {
           "path": "_m/d/q/9/c/chesapeake-virginia-wp/belt-line-5260-at-berkley-on-n.jpg",
@@ -154,7 +158,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belt_Line_5260_at_Berkley_on_Nov.28,_2015_-_Dave_George_Photo_(2).jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "chesapeake-virginia-wp",
-          "sourceGeohash4": "dq9c"
+          "sourceGeohash4": "dq9c",
+          "mediumPath": "_m/d/q/9/c/chesapeake-virginia-wp/belt-line-5260-at-berkley-on-n-medium.webp",
+          "smallPath": "_m/d/q/9/c/chesapeake-virginia-wp/belt-line-5260-at-berkley-on-n-small.webp"
         },
         {
           "path": "_m/d/q/9/c/chesapeake-virginia-wp/jiansheng-chen-memorial.jpg",
@@ -169,7 +175,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jiansheng_Chen_memorial.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "chesapeake-virginia-wp",
-          "sourceGeohash4": "dq9c"
+          "sourceGeohash4": "dq9c",
+          "mediumPath": "_m/d/q/9/c/chesapeake-virginia-wp/jiansheng-chen-memorial-medium.webp",
+          "smallPath": "_m/d/q/9/c/chesapeake-virginia-wp/jiansheng-chen-memorial-small.webp"
         },
         {
           "path": "_m/d/q/9/c/chesapeake-virginia-wp/chesapeake-virginia-united-sta.jpg",
@@ -420,7 +428,11 @@
         "_m/d/q/9/c/chesapeake-virginia-wp/dq9c-chesapeake-virginia-the-dismal-swamp.mp3",
         "_m/d/q/9/c/chesapeake-virginia-wp/dq9c-chesapeake-virginia-water-from-the-northwest.mp3",
         "_m/d/q/9/c/chesapeake-virginia-wp/dq9c-chesapeake-virginia-what-the-city-carries.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/q/9/c/chesapeake-virginia-wp/dq9c-chesapeake-virginia-combined.mp3",
+      "combinedNarrationBytes": 4128103,
+      "combinedNarrationDuration": 335,
+      "combinedCover": "_m/d/q/9/c/chesapeake-virginia-wp/dq9c-chesapeake-virginia-combined-cover.jpg"
     }
   }
 }

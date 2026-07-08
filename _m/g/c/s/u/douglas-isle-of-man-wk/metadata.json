@@ -64,7 +64,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "douglas-isle-of-man-wk",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "smallPath": "_m/g/c/s/u/douglas-isle-of-man-wk/man-douglas-02-small.webp"
     },
     {
       "filename": "Man douglas 04.JPG",
@@ -92,7 +93,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "douglas-isle-of-man-wk",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "smallPath": "_m/g/c/s/u/douglas-isle-of-man-wk/man-douglas-04-small.webp"
     },
     {
       "filename": "IsleOfManDouglasBay Cropped.jpg",
@@ -111,7 +113,9 @@
       "dateCreated": "2016-10-19",
       "sourceType": "core",
       "sourceArticleId": "douglas-isle-of-man-wk",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "mediumPath": "_m/g/c/s/u/douglas-isle-of-man-wk/isleofmandouglasbay-cropped-medium.webp",
+      "smallPath": "_m/g/c/s/u/douglas-isle-of-man-wk/isleofmandouglasbay-cropped-small.webp"
     },
     {
       "filename": "Isle of Man Government Offices - geograph.org.uk - 2737180.jpg",
@@ -130,7 +134,8 @@
       "dateCreated": "2011-09-30",
       "sourceType": "core",
       "sourceArticleId": "douglas-isle-of-man-wk",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "smallPath": "_m/g/c/s/u/douglas-isle-of-man-wk/isle-of-man-government-offices-small.webp"
     }
   ],
   "galleryPaths": [
@@ -138,5 +143,26 @@
     "_m/g/c/s/u/douglas-isle-of-man-wp/man-douglas-04.jpg",
     "_m/g/c/s/u/douglas-isle-of-man-wp/isleofmandouglasbay-cropped.jpg",
     "_m/g/c/s/u/douglas-isle-of-man-wp/isle-of-man-government-offices.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcsu-douglas-flight-context.mp3",
+      "gcsu-douglas-intro.mp3",
+      "gcsu-douglas-from-smugglers-to-statehouse.mp3",
+      "gcsu-douglas-the-long-promenade.mp3",
+      "gcsu-douglas-trains-trams-and-the-tt.mp3",
+      "gcsu-douglas-manx-plates-and-manx-voices.mp3",
+      "gcsu-douglas-getting-around.mp3"
+    ],
+    "durations": {
+      "gcsu-douglas-flight-context.mp3": 49.5820833,
+      "gcsu-douglas-intro.mp3": 47.8195416,
+      "gcsu-douglas-from-smugglers-to-statehouse.mp3": 62.6911666,
+      "gcsu-douglas-the-long-promenade.mp3": 65.9140833,
+      "gcsu-douglas-trains-trams-and-the-tt.mp3": 58.0846666,
+      "gcsu-douglas-manx-plates-and-manx-voices.mp3": 58.704125,
+      "gcsu-douglas-getting-around.mp3": 39.3637916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

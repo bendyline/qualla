@@ -24,7 +24,8 @@
           "Moonville, Ohio",
           "Moonville Rail-Trail",
           "Self-published work"
-        ]
+        ],
+        "smallPath": "_m/d/n/v/r/moonville-ohio-wp/hero-small.webp"
       },
       "images": [
         {
@@ -49,7 +50,9 @@
             "Trail signs in Ohio",
             "Unusual road signs",
             "Warning crosses in the United States"
-          ]
+          ],
+          "mediumPath": "_m/d/n/v/r/moonville-ohio-wp/sign-denoting-entrance-medium.webp",
+          "smallPath": "_m/d/n/v/r/moonville-ohio-wp/sign-denoting-entrance-small.webp"
         },
         {
           "path": "_m/d/n/v/r/moonville-ohio-wp/moonville-tunnel-plaque.jpg",
@@ -72,7 +75,9 @@
             "Self-published work",
             "Vinton County, Ohio",
             "Zaleski State Forest"
-          ]
+          ],
+          "mediumPath": "_m/d/n/v/r/moonville-ohio-wp/moonville-tunnel-plaque-medium.webp",
+          "smallPath": "_m/d/n/v/r/moonville-ohio-wp/moonville-tunnel-plaque-small.webp"
         }
       ],
       "narration": [
@@ -82,7 +87,11 @@
         "_m/d/n/v/r/moonville-ohio-wp/dnvr-moonville-a-dangerous-way-home.mp3",
         "_m/d/n/v/r/moonville-ohio-wp/dnvr-moonville-four-ghosts.mp3",
         "_m/d/n/v/r/moonville-ohio-wp/dnvr-moonville-midnight-at-moonville.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/n/v/r/moonville-ohio-wp/dnvr-moonville-ohio-combined.mp3",
+      "combinedNarrationBytes": 3187602,
+      "combinedNarrationDuration": 251,
+      "combinedCover": "_m/d/n/v/r/moonville-ohio-wp/dnvr-moonville-ohio-combined-cover.jpg"
     }
   }
 }

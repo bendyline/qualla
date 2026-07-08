@@ -22,7 +22,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "crosshouse-wp",
-    "sourceGeohash4": "gcuu"
+    "sourceGeohash4": "gcuu",
+    "mediumPath": "_m/g/c/u/u/crosshouse-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/u/u/crosshouse-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Crosshouse Parish Church - geograph.org.uk - 2018244.jpg",
@@ -74,7 +76,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "crosshouse-wp",
-      "sourceGeohash4": "gcuu"
+      "sourceGeohash4": "gcuu",
+      "smallPath": "_m/g/c/u/u/crosshouse-wp/the-alpine-lodge-inn-crosshous-small.webp"
     },
     {
       "filename": "Bridge over the A71 - geograph.org.uk - 178483.jpg",
@@ -103,7 +106,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "crosshouse-wp",
-      "sourceGeohash4": "gcuu"
+      "sourceGeohash4": "gcuu",
+      "smallPath": "_m/g/c/u/u/crosshouse-wp/bridge-over-the-a71-geograph-o-small.webp"
     },
     {
       "filename": "Muirhouse Farm on a rainy day - geograph.org.uk - 481774.jpg",
@@ -129,7 +133,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "crosshouse-wp",
-      "sourceGeohash4": "gcuu"
+      "sourceGeohash4": "gcuu",
+      "smallPath": "_m/g/c/u/u/crosshouse-wp/muirhouse-farm-on-a-rainy-day--small.webp"
     },
     {
       "filename": "Kilmaursmilestone.jpg",
@@ -151,7 +156,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "crosshouse-wp",
-      "sourceGeohash4": "gcuu"
+      "sourceGeohash4": "gcuu",
+      "smallPath": "_m/g/c/u/u/crosshouse-wp/kilmaursmilestone-small.webp"
     }
   ],
   "galleryPaths": [
@@ -160,5 +166,24 @@
     "_m/g/c/u/u/crosshouse-wp/muirhouse-farm-on-a-rainy-day-.jpg",
     "_m/g/c/u/u/crosshouse-wp/kilmaursmilestone.jpg"
   ],
-  "updatedAt": "2026-06-22T21:04:21.212Z"
+  "updatedAt": "2026-06-22T21:04:21.212Z",
+  "narration": {
+    "files": [
+      "gcuu-crosshouse-flight-context.mp3",
+      "gcuu-crosshouse-intro.mp3",
+      "gcuu-crosshouse-a-village-at-a-cross-roads.mp3",
+      "gcuu-crosshouse-crosshouse-hospital.mp3",
+      "gcuu-crosshouse-trains-and-tracks.mp3",
+      "gcuu-crosshouse-the-primary-school-question.mp3"
+    ],
+    "durations": {
+      "gcuu-crosshouse-flight-context.mp3": 57.8310416,
+      "gcuu-crosshouse-intro.mp3": 39.3172083,
+      "gcuu-crosshouse-a-village-at-a-cross-roads.mp3": 51.584,
+      "gcuu-crosshouse-crosshouse-hospital.mp3": 47.4468333,
+      "gcuu-crosshouse-trains-and-tracks.mp3": 53.1256666,
+      "gcuu-crosshouse-the-primary-school-question.mp3": 68.895875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

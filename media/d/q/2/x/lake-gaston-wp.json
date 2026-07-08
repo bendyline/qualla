@@ -24,7 +24,9 @@
           "License migration completed",
           "Reservoirs in Virginia",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/d/q/2/x/lake-gaston-wp/hero-medium.webp",
+        "smallPath": "_m/d/q/2/x/lake-gaston-wp/hero-small.webp"
       },
       "images": [
         {
@@ -48,7 +50,8 @@
             "Lake Gaston",
             "License migration completed",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/d/q/2/x/lake-gaston-wp/lake-gaston-daytime-20-small.webp"
         },
         {
           "path": "_m/d/q/2/x/lake-gaston-wp/main-lake-view-mouth-h.jpg",
@@ -93,7 +96,8 @@
             "Lake Gaston",
             "License migration completed",
             "Pontoon boats in the United States"
-          ]
+          ],
+          "smallPath": "_m/d/q/2/x/lake-gaston-wp/pontoon-boat-small.webp"
         },
         {
           "path": "_m/d/q/2/x/lake-gaston-wp/water-skiing-tracy-birdwhistel.jpg",
@@ -116,7 +120,8 @@
             "License migration completed",
             "Self-published work",
             "Water skiing in the United States"
-          ]
+          ],
+          "smallPath": "_m/d/q/2/x/lake-gaston-wp/water-skiing-tracy-birdwhistel-small.webp"
         },
         {
           "path": "_m/d/q/2/x/lake-gaston-wp/cadmea-island.png",
@@ -137,7 +142,8 @@
             "Lake Gaston",
             "Micronations",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/d/q/2/x/lake-gaston-wp/cadmea-island-small.webp"
         }
       ],
       "narration": [
@@ -147,7 +153,11 @@
         "_m/d/q/2/x/lake-gaston-wp/dq2x-lake-gaston-two-states-one-lake.mp3",
         "_m/d/q/2/x/lake-gaston-wp/dq2x-lake-gaston-striper-country.mp3",
         "_m/d/q/2/x/lake-gaston-wp/dq2x-lake-gaston-the-pipeline-wars.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/q/2/x/lake-gaston-wp/dq2x-lake-gaston-combined.mp3",
+      "combinedNarrationBytes": 3099288,
+      "combinedNarrationDuration": 255,
+      "combinedCover": "_m/d/q/2/x/lake-gaston-wp/dq2x-lake-gaston-combined-cover.jpg"
     }
   }
 }

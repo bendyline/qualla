@@ -24,7 +24,8 @@
           "Information field template with formatting",
           "June 2015 in Merseyside",
           "Ships at West Float Dock"
-        ]
+        ],
+        "smallPath": "_m/g/c/m/z/hms-bronington-wp/hero-small.webp"
       },
       "narration": [
         "_m/g/c/m/z/hms-bronington-wp/gcmz-hms-bronington-flight-context.mp3",
@@ -34,7 +35,11 @@
         "_m/g/c/m/z/hms-bronington-wp/gcmz-hms-bronington-service-continues.mp3",
         "_m/g/c/m/z/hms-bronington-wp/gcmz-hms-bronington-a-museum-ship-at-birkenhead.mp3",
         "_m/g/c/m/z/hms-bronington-wp/gcmz-hms-bronington-sunk-at-her-moorings.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/m/z/hms-bronington-wp/gcmz-hms-bronington-combined.mp3",
+      "combinedNarrationBytes": 3792708,
+      "combinedNarrationDuration": 309,
+      "combinedCover": "_m/g/c/m/z/hms-bronington-wp/gcmz-hms-bronington-combined-cover.jpg"
     }
   }
 }

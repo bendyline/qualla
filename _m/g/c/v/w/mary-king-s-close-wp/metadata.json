@@ -88,7 +88,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "mary-king-s-close-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "smallPath": "_m/g/c/v/w/mary-king-s-close-wp/dr-george-rae-small.webp"
     },
     {
       "filename": "Mary King's Close tour (under Edinburgh)... (Blake Patterson) - Flickr.jpg",
@@ -112,7 +113,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "mary-king-s-close-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "mediumPath": "_m/g/c/v/w/mary-king-s-close-wp/mary-king-s-close-tour-under-e-medium.webp",
+      "smallPath": "_m/g/c/v/w/mary-king-s-close-wp/mary-king-s-close-tour-under-e-small.webp"
     },
     {
       "filename": "Mary King's Close (Mario RM) - Flickr.jpg",
@@ -138,7 +141,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "mary-king-s-close-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "mediumPath": "_m/g/c/v/w/mary-king-s-close-wp/mary-king-s-close-mario-rm-fli-medium.webp",
+      "smallPath": "_m/g/c/v/w/mary-king-s-close-wp/mary-king-s-close-mario-rm-fli-small.webp"
     }
   ],
   "galleryPaths": [
@@ -146,5 +151,24 @@
     "_m/g/c/v/w/mary-king-s-close-wp/mary-king-s-close-tour-under-e.jpg",
     "_m/g/c/v/w/mary-king-s-close-wp/mary-king-s-close-mario-rm-fli.jpg"
   ],
-  "updatedAt": "2026-06-23T03:11:30.392Z"
+  "updatedAt": "2026-06-23T03:11:30.392Z",
+  "narration": {
+    "files": [
+      "gcvw-mary-kings-close-flight-context.mp3",
+      "gcvw-mary-kings-close-intro.mp3",
+      "gcvw-mary-kings-close-a-merchant-woman-names-a-street.mp3",
+      "gcvw-mary-kings-close-the-city-builds-on-top.mp3",
+      "gcvw-mary-kings-close-plague-and-the-long-memory.mp3",
+      "gcvw-mary-kings-close-the-last-resident.mp3"
+    ],
+    "durations": {
+      "gcvw-mary-kings-close-flight-context.mp3": 47.2165416,
+      "gcvw-mary-kings-close-intro.mp3": 48.7398333,
+      "gcvw-mary-kings-close-a-merchant-woman-names-a-street.mp3": 60.4757916,
+      "gcvw-mary-kings-close-the-city-builds-on-top.mp3": 53.032875,
+      "gcvw-mary-kings-close-plague-and-the-long-memory.mp3": 63.8403333,
+      "gcvw-mary-kings-close-the-last-resident.mp3": 65.1629166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

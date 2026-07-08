@@ -28,7 +28,8 @@
           "Flickr images reviewed by FlickreviewR",
           "Images from the British Library",
           "Images from the British Library Mechanical Curator collection"
-        ]
+        ],
+        "smallPath": "_m/g/c/p/v/baynard-s-castle-wp/hero-small.webp"
       },
       "images": [
         {
@@ -54,7 +55,9 @@
             "Seals of medieval England",
             "Self-published work",
             "Taken with Canon EOS-1D Mark III"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/v/baynard-s-castle-wp/medieval-seal-british-medium.webp",
+          "smallPath": "_m/g/c/p/v/baynard-s-castle-wp/medieval-seal-british-small.webp"
         },
         {
           "path": "_m/g/c/p/v/baynard-s-castle-wp/panoramic-view-london.jpg",
@@ -69,7 +72,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:1647_Long_view_of_London_From_Bankside_-_Wenceslaus_Hollar_(cropped).jpg",
           "sourceType": "core",
           "sourceArticleId": "baynard-s-castle-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/g/c/p/v/baynard-s-castle-wp/panoramic-view-london-medium.webp",
+          "smallPath": "_m/g/c/p/v/baynard-s-castle-wp/panoramic-view-london-small.webp"
         }
       ],
       "narration": [
@@ -82,7 +87,11 @@
         "_m/g/c/p/v/baynard-s-castle-wp/gcpv-baynards-castle-the-pembrokes-and-two-queens.mp3",
         "_m/g/c/p/v/baynard-s-castle-wp/gcpv-baynards-castle-what-the-fire-took.mp3",
         "_m/g/c/p/v/baynard-s-castle-wp/gcpv-baynards-castle-standing-where-kings-stood.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/p/v/baynard-s-castle-wp/gcpv-baynard-s-castle-combined.mp3",
+      "combinedNarrationBytes": 5653566,
+      "combinedNarrationDuration": 458,
+      "combinedCover": "_m/g/c/p/v/baynard-s-castle-wp/gcpv-baynard-s-castle-combined-cover.jpg"
     }
   }
 }

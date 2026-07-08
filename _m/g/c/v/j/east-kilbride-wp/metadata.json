@@ -22,7 +22,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "east-kilbride-wp",
-      "sourceGeohash4": "gcvj"
+      "sourceGeohash4": "gcvj",
+      "mediumPath": "_m/g/c/v/j/east-kilbride-wp/dollan-baths-medium.webp",
+      "smallPath": "_m/g/c/v/j/east-kilbride-wp/dollan-baths-small.webp"
     },
     {
       "filename": "East Kilbride banner Dollan Baths.JPG",
@@ -46,7 +48,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "east-kilbride-wp",
-      "sourceGeohash4": "gcvj"
+      "sourceGeohash4": "gcvj",
+      "mediumPath": "_m/g/c/v/j/east-kilbride-wp/east-kilbride-banner-dollan-ba-medium.webp",
+      "smallPath": "_m/g/c/v/j/east-kilbride-wp/east-kilbride-banner-dollan-ba-small.webp"
     },
     {
       "filename": "National Museum of Rural Life (2) (geograph 2762459).jpg",
@@ -71,7 +75,8 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "east-kilbride-wp",
-      "sourceGeohash4": "gcvj"
+      "sourceGeohash4": "gcvj",
+      "smallPath": "_m/g/c/v/j/east-kilbride-wp/national-museum-of-rural-life--small.webp"
     },
     {
       "filename": "RAER's Unique Copper Stills at Jackton Distillery, East Kilbride.jpg",
@@ -104,7 +109,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "east-kilbride-wp",
-      "sourceGeohash4": "gcvj"
+      "sourceGeohash4": "gcvj",
+      "mediumPath": "_m/g/c/v/j/east-kilbride-wp/raer-s-unique-copper-stills-at-medium.webp",
+      "smallPath": "_m/g/c/v/j/east-kilbride-wp/raer-s-unique-copper-stills-at-small.webp"
     },
     {
       "filename": "The new East Kilbride railway station ticket office, East Kilbride. South Lanarkshire.jpg",
@@ -126,7 +133,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "east-kilbride-wp",
-      "sourceGeohash4": "gcvj"
+      "sourceGeohash4": "gcvj",
+      "mediumPath": "_m/g/c/v/j/east-kilbride-wp/the-new-east-kilbride-railway--medium.webp",
+      "smallPath": "_m/g/c/v/j/east-kilbride-wp/the-new-east-kilbride-railway--small.webp"
     },
     {
       "filename": "The new Hairmyres railway station, East Kilbride Line, East Renfrewshire. View towards Glasgow.jpg",
@@ -143,7 +152,9 @@
       "dateCreated": "2025-09-09 03:02:55",
       "sourceType": "poi",
       "sourceArticleId": "east-kilbride-wp",
-      "sourceGeohash4": "gcvj"
+      "sourceGeohash4": "gcvj",
+      "mediumPath": "_m/g/c/v/j/east-kilbride-wp/the-new-hairmyres-railway-stat-medium.webp",
+      "smallPath": "_m/g/c/v/j/east-kilbride-wp/the-new-hairmyres-railway-stat-small.webp"
     }
   ],
   "galleryPaths": [
@@ -154,5 +165,24 @@
     "_m/g/c/v/j/east-kilbride-wp/the-new-east-kilbride-railway-.jpg",
     "_m/g/c/v/j/east-kilbride-wp/the-new-hairmyres-railway-stat.jpg"
   ],
-  "updatedAt": "2026-06-22T20:50:27.725Z"
+  "updatedAt": "2026-06-22T20:50:27.725Z",
+  "narration": {
+    "files": [
+      "gcvj-east-kilbride-flight-context.mp3",
+      "gcvj-east-kilbride-intro.mp3",
+      "gcvj-east-kilbride-scotlands-first-new-town.mp3",
+      "gcvj-east-kilbride-st-brigid-without-the-bride.mp3",
+      "gcvj-east-kilbride-polo-mint-city.mp3",
+      "gcvj-east-kilbride-architecture-birthplaces-bog.mp3"
+    ],
+    "durations": {
+      "gcvj-east-kilbride-flight-context.mp3": 56.9130833,
+      "gcvj-east-kilbride-intro.mp3": 52.0115,
+      "gcvj-east-kilbride-scotlands-first-new-town.mp3": 68.9969583,
+      "gcvj-east-kilbride-st-brigid-without-the-bride.mp3": 64.44675,
+      "gcvj-east-kilbride-polo-mint-city.mp3": 66.1710416,
+      "gcvj-east-kilbride-architecture-birthplaces-bog.mp3": 83.506125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -24,7 +24,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "waleswood-colliery-wp",
-    "sourceGeohash4": "gcrp"
+    "sourceGeohash4": "gcrp",
+    "smallPath": "_m/g/c/r/p/waleswood-colliery-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Waleswood78 (2).jpg",
@@ -53,5 +54,24 @@
     "sourceGeohash4": "gcrp"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcrp-waleswood-colliery-flight-context.mp3",
+      "gcrp-waleswood-colliery-intro.mp3",
+      "gcrp-waleswood-colliery-coal-beneath-the-cornfields.mp3",
+      "gcrp-waleswood-colliery-pit-pump-industrial-estate.mp3",
+      "gcrp-waleswood-colliery-the-locomotive-that-outlived-the-pit.mp3",
+      "gcrp-waleswood-colliery-what-the-industrial-estate-remembers.mp3"
+    ],
+    "durations": {
+      "gcrp-waleswood-colliery-flight-context.mp3": 45.2940416,
+      "gcrp-waleswood-colliery-intro.mp3": 37.689125,
+      "gcrp-waleswood-colliery-coal-beneath-the-cornfields.mp3": 53.0949166,
+      "gcrp-waleswood-colliery-pit-pump-industrial-estate.mp3": 60.5132916,
+      "gcrp-waleswood-colliery-the-locomotive-that-outlived-the-pit.mp3": 70.2387916,
+      "gcrp-waleswood-colliery-what-the-industrial-estate-remembers.mp3": 52.5115416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

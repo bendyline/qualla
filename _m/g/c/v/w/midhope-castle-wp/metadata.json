@@ -25,7 +25,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "midhope-castle-wp",
-    "sourceGeohash4": "gcvw"
+    "sourceGeohash4": "gcvw",
+    "smallPath": "_m/g/c/v/w/midhope-castle-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Midhope Castle 08.JPG",
@@ -81,7 +82,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "midhope-castle-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "smallPath": "_m/g/c/v/w/midhope-castle-wp/midhope-castle-general-small.webp"
     },
     {
       "filename": "Midhope Castle 07.JPG",
@@ -108,7 +110,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "midhope-castle-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "smallPath": "_m/g/c/v/w/midhope-castle-wp/view-dovecot-midhope-c-small.webp"
     },
     {
       "filename": "Midhope tower - geograph.org.uk - 1298287.jpg",
@@ -133,7 +136,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "midhope-castle-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "smallPath": "_m/g/c/v/w/midhope-castle-wp/midhope-tower-geograph-org-uk--small.webp"
     },
     {
       "filename": "2018 07 07 Schottland (77 Midhope Castle - Lallybroch).jpg",
@@ -156,7 +160,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "midhope-castle-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "mediumPath": "_m/g/c/v/w/midhope-castle-wp/2018-07-07-schottland-77-midho-medium.webp",
+      "smallPath": "_m/g/c/v/w/midhope-castle-wp/2018-07-07-schottland-77-midho-small.webp"
     },
     {
       "filename": "West Lothian - Midhope Castle - 2025-09-26 02-40-05 001.JPG",
@@ -173,7 +179,9 @@
       "dateCreated": "2018-05-19",
       "sourceType": "commons-category",
       "sourceArticleId": "midhope-castle-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "mediumPath": "_m/g/c/v/w/midhope-castle-wp/west-lothian-midhope-castle-20-medium.webp",
+      "smallPath": "_m/g/c/v/w/midhope-castle-wp/west-lothian-midhope-castle-20-small.webp"
     }
   ],
   "galleryPaths": [
@@ -183,5 +191,24 @@
     "_m/g/c/v/w/midhope-castle-wp/2018-07-07-schottland-77-midho.jpg",
     "_m/g/c/v/w/midhope-castle-wp/west-lothian-midhope-castle-20.jpg"
   ],
-  "updatedAt": "2026-06-23T03:13:05.647Z"
+  "updatedAt": "2026-06-23T03:13:05.647Z",
+  "narration": {
+    "files": [
+      "gcvw-midhope-castle-flight-context.mp3",
+      "gcvw-midhope-castle-intro.mp3",
+      "gcvw-midhope-castle-the-martins-and-the-drummonds.mp3",
+      "gcvw-midhope-castle-a-servant-returns-the-queens-jewels.mp3",
+      "gcvw-midhope-castle-the-1678-facelift.mp3",
+      "gcvw-midhope-castle-becoming-lallybroch.mp3"
+    ],
+    "durations": {
+      "gcvw-midhope-castle-flight-context.mp3": 47.6622083,
+      "gcvw-midhope-castle-intro.mp3": 44.9942916,
+      "gcvw-midhope-castle-the-martins-and-the-drummonds.mp3": 64.42025,
+      "gcvw-midhope-castle-a-servant-returns-the-queens-jewels.mp3": 51.600625,
+      "gcvw-midhope-castle-the-1678-facelift.mp3": 51.457375,
+      "gcvw-midhope-castle-becoming-lallybroch.mp3": 64.552
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

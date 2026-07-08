@@ -26,7 +26,8 @@
           "November 2005 at London Heathrow Airport",
           "PD-user",
           "Taken with Olympus C-750UZ"
-        ]
+        ],
+        "smallPath": "_m/g/c/p/v/blue-peter-wp/hero-small.webp"
       },
       "images": [
         {
@@ -50,7 +51,9 @@
             "License migration redundant",
             "RNLI Historic Lifeboat Collection, Chatham",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/v/blue-peter-wp/blue-peter-iii-rnli-d-medium.webp",
+          "smallPath": "_m/g/c/p/v/blue-peter-wp/blue-peter-iii-rnli-d-small.webp"
         },
         {
           "path": "_m/g/c/p/v/blue-peter-wp/rory-cowlam-blue-peter.jpg",
@@ -71,7 +74,8 @@
             "CC-BY-SA-4.0",
             "Men of the United Kingdom",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/blue-peter-wp/rory-cowlam-blue-peter-small.webp"
         },
         {
           "path": "_m/g/c/p/v/blue-peter-wp/goonhilly-blue-peter-badge-124.jpg",
@@ -118,7 +122,9 @@
             "Girls in wheelchairs",
             "Self-published work",
             "WCMX"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/v/blue-peter-wp/summer-finlay-wcmx-adrenaline--medium.webp",
+          "smallPath": "_m/g/c/p/v/blue-peter-wp/summer-finlay-wcmx-adrenaline--small.webp"
         },
         {
           "path": "_m/g/c/p/v/blue-peter-wp/blue-peter-tv-show-badge-on-th.jpg",
@@ -139,7 +145,8 @@
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland",
             "Lock 37E, Huddersfield Narrow Canal"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/blue-peter-wp/blue-peter-tv-show-badge-on-th-small.webp"
         },
         {
           "path": "_m/g/c/p/v/blue-peter-wp/mediacityuk-blue-peter-geograp.jpg",
@@ -160,7 +167,8 @@
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland",
             "Quay House, Manchester"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/blue-peter-wp/mediacityuk-blue-peter-geograp-small.webp"
         }
       ],
       "narration": [
@@ -171,7 +179,11 @@
         "_m/g/c/p/v/blue-peter-wp/gcpv-blue-peter-lulu-petra-and-live-television.mp3",
         "_m/g/c/p/v/blue-peter-wp/gcpv-blue-peter-the-garden-the-badge-the-appeals.mp3",
         "_m/g/c/p/v/blue-peter-wp/gcpv-blue-peter-survival-in-the-streaming-age.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/p/v/blue-peter-wp/gcpv-blue-peter-combined.mp3",
+      "combinedNarrationBytes": 4195890,
+      "combinedNarrationDuration": 343,
+      "combinedCover": "_m/g/c/p/v/blue-peter-wp/gcpv-blue-peter-combined-cover.jpg"
     }
   }
 }

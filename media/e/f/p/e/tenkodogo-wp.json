@@ -21,7 +21,8 @@
           "Files with coordinates missing SDC location of creation",
           "Flickr images reviewed by FlickreviewR",
           "Tenkodogo"
-        ]
+        ],
+        "smallPath": "_m/e/f/p/e/tenkodogo-wp/hero-small.webp"
       },
       "images": [
         {
@@ -45,7 +46,8 @@
             "Locator maps of cities in Burkina Faso",
             "Media missing infobox template",
             "Tenkodogo"
-          ]
+          ],
+          "smallPath": "_m/e/f/p/e/tenkodogo-wp/burkinafaso-tenkodogo-small.webp"
         },
         {
           "path": "_m/e/f/p/e/tenkodogo-wp/eglisetenkodogo.png",
@@ -66,7 +68,9 @@
             "Churches in Burkina Faso",
             "Self-published work",
             "Tenkodogo"
-          ]
+          ],
+          "mediumPath": "_m/e/f/p/e/tenkodogo-wp/eglisetenkodogo-medium.webp",
+          "smallPath": "_m/e/f/p/e/tenkodogo-wp/eglisetenkodogo-small.webp"
         },
         {
           "path": "_m/e/f/p/e/tenkodogo-wp/asc-leiden-f-van-der-kraaij-co.jpg",
@@ -93,7 +97,9 @@
             "License migration redundant",
             "Self-published work",
             "Tenkodogo"
-          ]
+          ],
+          "mediumPath": "_m/e/f/p/e/tenkodogo-wp/asc-leiden-f-van-der-kraaij-co-medium.webp",
+          "smallPath": "_m/e/f/p/e/tenkodogo-wp/asc-leiden-f-van-der-kraaij-co-small.webp"
         },
         {
           "path": "_m/e/f/p/e/tenkodogo-wp/asc-leiden-f-van-der-kraaij-co-1.jpg",
@@ -120,7 +126,9 @@
             "License migration redundant",
             "Self-published work",
             "Tenkodogo"
-          ]
+          ],
+          "mediumPath": "_m/e/f/p/e/tenkodogo-wp/asc-leiden-f-van-der-kraaij-co-1-medium.webp",
+          "smallPath": "_m/e/f/p/e/tenkodogo-wp/asc-leiden-f-van-der-kraaij-co-1-small.webp"
         }
       ],
       "narration": [
@@ -130,7 +138,11 @@
         "_m/e/f/p/e/tenkodogo-wp/efpe-tenkodogo-the-na-yiri.mp3",
         "_m/e/f/p/e/tenkodogo-wp/efpe-tenkodogo-market-days.mp3",
         "_m/e/f/p/e/tenkodogo-wp/efpe-tenkodogo-an-ancient-land-building-new.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/e/f/p/e/tenkodogo-wp/efpe-tenkodogo-combined.mp3",
+      "combinedNarrationBytes": 3015223,
+      "combinedNarrationDuration": 243,
+      "combinedCover": "_m/e/f/p/e/tenkodogo-wp/efpe-tenkodogo-combined-cover.jpg"
     }
   }
 }

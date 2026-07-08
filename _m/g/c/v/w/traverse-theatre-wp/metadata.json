@@ -88,7 +88,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "traverse-theatre-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "mediumPath": "_m/g/c/v/w/traverse-theatre-wp/traverse-theatre-cambr-medium.webp",
+      "smallPath": "_m/g/c/v/w/traverse-theatre-wp/traverse-theatre-cambr-small.webp"
     },
     {
       "filename": "Scottish National Portrait Gallery (8852189552).jpg",
@@ -162,7 +164,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "traverse-theatre-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "smallPath": "_m/g/c/v/w/traverse-theatre-wp/p8211348-6165957893-small.webp"
     },
     {
       "filename": "Traverse Theatre in Cambridge Street - geograph.org.uk - 2355111.jpg",
@@ -184,7 +187,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "traverse-theatre-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "smallPath": "_m/g/c/v/w/traverse-theatre-wp/traverse-theatre-in-cambridge--small.webp"
     },
     {
       "filename": "Traverse Theatre lift shaft, Cambridge Street - geograph.org.uk - 2589512.jpg",
@@ -206,7 +210,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "traverse-theatre-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "smallPath": "_m/g/c/v/w/traverse-theatre-wp/traverse-theatre-lift-shaft-ca-small.webp"
     },
     {
       "filename": "Four Nights in Knaresborough by Paul Webb, Scottish Premiere, produced by Theatre Enigma, Traverse Theatre, 2004.jpg",
@@ -230,7 +235,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "traverse-theatre-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "smallPath": "_m/g/c/v/w/traverse-theatre-wp/four-nights-in-knaresborough-b-small.webp"
     },
     {
       "filename": "The Traverse Theatre, Cambridge Street - geograph.org.uk - 2984990.jpg",
@@ -252,7 +258,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "traverse-theatre-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "smallPath": "_m/g/c/v/w/traverse-theatre-wp/the-traverse-theatre-cambridge-small.webp"
     },
     {
       "filename": "Traverse Theatre and Usher Hall, Cambridge Street - geograph.org.uk - 2984995.jpg",
@@ -275,7 +282,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "traverse-theatre-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "smallPath": "_m/g/c/v/w/traverse-theatre-wp/traverse-theatre-and-usher-hal-small.webp"
     }
   ],
   "galleryPaths": [
@@ -289,5 +297,28 @@
     "_m/g/c/v/w/traverse-theatre-wp/the-traverse-theatre-cambridge.jpg",
     "_m/g/c/v/w/traverse-theatre-wp/traverse-theatre-and-usher-hal.jpg"
   ],
-  "updatedAt": "2026-06-23T04:17:09.833Z"
+  "updatedAt": "2026-06-23T04:17:09.833Z",
+  "narration": {
+    "files": [
+      "gcvw-traverse-theatre-flight-context.mp3",
+      "gcvw-traverse-theatre-intro.mp3",
+      "gcvw-traverse-theatre-eight-founders-one-mission.mp3",
+      "gcvw-traverse-theatre-an-accidental-stabbing.mp3",
+      "gcvw-traverse-theatre-from-sailmakers-loft-to-saltire-court.mp3",
+      "gcvw-traverse-theatre-the-names-that-launched-here.mp3",
+      "gcvw-traverse-theatre-filth-on-the-fringe.mp3",
+      "gcvw-traverse-theatre-still-the-engine.mp3"
+    ],
+    "durations": {
+      "gcvw-traverse-theatre-flight-context.mp3": 40.9609583,
+      "gcvw-traverse-theatre-intro.mp3": 48.6820833,
+      "gcvw-traverse-theatre-eight-founders-one-mission.mp3": 47.732625,
+      "gcvw-traverse-theatre-an-accidental-stabbing.mp3": 45.9996666,
+      "gcvw-traverse-theatre-from-sailmakers-loft-to-saltire-court.mp3": 58.5995,
+      "gcvw-traverse-theatre-the-names-that-launched-here.mp3": 61.4875833,
+      "gcvw-traverse-theatre-filth-on-the-fringe.mp3": 58.2984583,
+      "gcvw-traverse-theatre-still-the-engine.mp3": 51.0845833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

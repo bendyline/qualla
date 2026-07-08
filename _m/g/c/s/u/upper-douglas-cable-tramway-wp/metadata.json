@@ -25,7 +25,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "upper-douglas-cable-tramway-wp",
-    "sourceGeohash4": "gcsu"
+    "sourceGeohash4": "gcsu",
+    "smallPath": "_m/g/c/s/u/upper-douglas-cable-tramway-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Cable car on Douglas Promenade - geograph.org.uk - 1635247.jpg",
@@ -55,5 +56,24 @@
     "sourceGeohash4": "gcsu"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcsu-upper-douglas-cable-tramway-flight-context.mp3",
+      "gcsu-upper-douglas-cable-tramway-intro.mp3",
+      "gcsu-upper-douglas-cable-tramway-a-tram-for-the-steep-streets.mp3",
+      "gcsu-upper-douglas-cable-tramway-a-bank-collapses-a-section-closes.mp3",
+      "gcsu-upper-douglas-cable-tramway-the-curious-numbering.mp3",
+      "gcsu-upper-douglas-cable-tramway-bungalow-restoration-museum.mp3"
+    ],
+    "durations": {
+      "gcsu-upper-douglas-cable-tramway-flight-context.mp3": 47.7275,
+      "gcsu-upper-douglas-cable-tramway-intro.mp3": 48.7775,
+      "gcsu-upper-douglas-cable-tramway-a-tram-for-the-steep-streets.mp3": 59.915,
+      "gcsu-upper-douglas-cable-tramway-a-bank-collapses-a-section-closes.mp3": 65.3155416,
+      "gcsu-upper-douglas-cable-tramway-the-curious-numbering.mp3": 52.0870833,
+      "gcsu-upper-douglas-cable-tramway-bungalow-restoration-museum.mp3": 68.97475
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

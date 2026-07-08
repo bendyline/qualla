@@ -22,7 +22,8 @@
           "Kinsale",
           "PD-self",
           "Self-published work"
-        ]
+        ],
+        "smallPath": "_m/g/c/1/y/siege-of-kinsale-wp/hero-small.webp"
       },
       "images": [
         {
@@ -47,7 +48,8 @@
             "License migration redundant",
             "Red hand of Ulster",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/1/y/siege-of-kinsale-wp/arms-royal-o-neill-cla-small.webp"
         },
         {
           "path": "_m/g/c/1/y/siege-of-kinsale-wp/hugh-o-neill-earl-tyro.jpg",
@@ -73,7 +75,8 @@
             "PD-Art missing SDC copyright status",
             "PD-old-100-expired",
             "PD-old missing SDC copyright status"
-          ]
+          ],
+          "smallPath": "_m/g/c/1/y/siege-of-kinsale-wp/hugh-o-neill-earl-tyro-small.webp"
         },
         {
           "path": "_m/g/c/1/y/siege-of-kinsale-wp/siege-kinsale-map-paca.jpg",
@@ -87,7 +90,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Siege_of_Kinsale.jpg",
           "sourceType": "core",
           "sourceArticleId": "siege-of-kinsale-wp",
-          "sourceGeohash4": "gc1y"
+          "sourceGeohash4": "gc1y",
+          "mediumPath": "_m/g/c/1/y/siege-of-kinsale-wp/siege-kinsale-map-paca-medium.webp",
+          "smallPath": "_m/g/c/1/y/siege-of-kinsale-wp/siege-kinsale-map-paca-small.webp"
         },
         {
           "path": "_m/g/c/1/y/siege-of-kinsale-wp/the-battle-of-kinsale-geograph.jpg",
@@ -111,7 +116,8 @@
             "Plaques referencing 1601 in Ireland",
             "Siege of Kinsale",
             "Signs in County Cork"
-          ]
+          ],
+          "smallPath": "_m/g/c/1/y/siege-of-kinsale-wp/the-battle-of-kinsale-geograph-small.webp"
         }
       ],
       "narration": [
@@ -121,7 +127,11 @@
         "_m/g/c/1/y/siege-of-kinsale-wp/gc1y-siege-of-kinsale-the-300-mile-march.mp3",
         "_m/g/c/1/y/siege-of-kinsale-wp/gc1y-siege-of-kinsale-the-english-closing-in.mp3",
         "_m/g/c/1/y/siege-of-kinsale-wp/gc1y-siege-of-kinsale-the-battle-and-its-aftermath.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/1/y/siege-of-kinsale-wp/gc1y-siege-of-kinsale-combined.mp3",
+      "combinedNarrationBytes": 3755888,
+      "combinedNarrationDuration": 308,
+      "combinedCover": "_m/g/c/1/y/siege-of-kinsale-wp/gc1y-siege-of-kinsale-combined-cover.jpg"
     }
   }
 }

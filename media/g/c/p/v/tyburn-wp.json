@@ -24,7 +24,9 @@
           "PD-Art (PD-old-auto-expired)",
           "PD-old-100-expired",
           "The Idle 'Prentice Executed at Tyburn"
-        ]
+        ],
+        "mediumPath": "_m/g/c/p/v/tyburn-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/p/v/tyburn-wp/hero-small.webp"
       },
       "images": [
         {
@@ -61,7 +63,8 @@
             "Public domain",
             "Tyburn Tree",
             "Uploaded by the British Library"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/tyburn-wp/view-william-capon-sec-small.webp"
         },
         {
           "path": "_m/g/c/p/v/tyburn-wp/the-manner-of-execution-at-tyb.jpg",
@@ -83,7 +86,8 @@
             "PD-old-100-expired",
             "Template Unknown (author)",
             "Tyburn Tree"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/tyburn-wp/the-manner-of-execution-at-tyb-small.webp"
         },
         {
           "path": "_m/g/c/p/v/tyburn-wp/tyburn-1746.jpg",
@@ -104,7 +108,8 @@
             "PD-Art (PD-old-100)",
             "PD-Art missing SDC copyright status",
             "Tyburn Tree"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/tyburn-wp/tyburn-1746-small.webp"
         },
         {
           "path": "_m/g/c/p/v/tyburn-wp/london-oratorians-church-marty.jpg",
@@ -134,7 +139,9 @@
             "Thomas More",
             "Triptychs in England",
             "Tyburn Tree"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/v/tyburn-wp/london-oratorians-church-marty-medium.webp",
+          "smallPath": "_m/g/c/p/v/tyburn-wp/london-oratorians-church-marty-small.webp"
         },
         {
           "path": "_m/g/c/p/v/tyburn-wp/tyburn-tree-4372859400.jpg",
@@ -156,7 +163,9 @@
             "Flickr images reviewed by File Upload Bot (Magnus Manske)",
             "Taken with Sony DSC-H1",
             "Tyburn Tree"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/v/tyburn-wp/tyburn-tree-4372859400-medium.webp",
+          "smallPath": "_m/g/c/p/v/tyburn-wp/tyburn-tree-4372859400-small.webp"
         },
         {
           "path": "_m/g/c/p/v/tyburn-wp/image-taken-from-page-210-of-o.jpg",
@@ -173,7 +182,8 @@
           "categories": [
             "1750 in London",
             "Artworks with known accession number"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/tyburn-wp/image-taken-from-page-210-of-o-small.webp"
         },
         {
           "path": "_m/g/c/p/v/tyburn-wp/image-taken-from-page-211-of-o.jpg",
@@ -186,7 +196,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Image_taken_from_page_211_of_%27Old_and_New_London,_etc%27_(11186248394).jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "tyburn-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "smallPath": "_m/g/c/p/v/tyburn-wp/image-taken-from-page-211-of-o-small.webp"
         },
         {
           "path": "_m/g/c/p/v/tyburn-wp/execution-of-mclean.jpg",
@@ -201,7 +212,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Execution_of_McLean.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "tyburn-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "smallPath": "_m/g/c/p/v/tyburn-wp/execution-of-mclean-small.webp"
         },
         {
           "path": "_m/g/c/p/v/tyburn-wp/execution-uk-catholic-priests-.png",
@@ -216,7 +228,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Execution_UK_Catholic_Priests_1584.png",
           "sourceType": "commons-category",
           "sourceArticleId": "tyburn-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "smallPath": "_m/g/c/p/v/tyburn-wp/execution-uk-catholic-priests--small.webp"
         },
         {
           "path": "_m/g/c/p/v/tyburn-wp/the-site-of-tyburn-tree.jpg",
@@ -231,7 +244,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_site_of_Tyburn_Tree.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "tyburn-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/g/c/p/v/tyburn-wp/the-site-of-tyburn-tree-medium.webp",
+          "smallPath": "_m/g/c/p/v/tyburn-wp/the-site-of-tyburn-tree-small.webp"
         }
       ],
       "narration": [
@@ -242,7 +257,11 @@
         "_m/g/c/p/v/tyburn-wp/gcpv-tyburn-the-procession.mp3",
         "_m/g/c/p/v/tyburn-wp/gcpv-tyburn-the-spectacle.mp3",
         "_m/g/c/p/v/tyburn-wp/gcpv-tyburn-the-last-hanging-and-what-remains.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/p/v/tyburn-wp/gcpv-tyburn-combined.mp3",
+      "combinedNarrationBytes": 5687658,
+      "combinedNarrationDuration": 461,
+      "combinedCover": "_m/g/c/p/v/tyburn-wp/gcpv-tyburn-combined-cover.jpg"
     }
   }
 }

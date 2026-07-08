@@ -22,7 +22,8 @@
           "Images from Geograph Britain and Ireland",
           "Information field template with formatting",
           "Llys Rhosyr"
-        ]
+        ],
+        "smallPath": "_m/g/c/k/y/llys-rhosyr-wp/hero-small.webp"
       },
       "images": [
         {
@@ -113,7 +114,8 @@
             "Information field template with formatting",
             "Llys Rhosyr",
             "United Kingdom photographs taken on 2008-06-07"
-          ]
+          ],
+          "smallPath": "_m/g/c/k/y/llys-rhosyr-wp/a-southerly-view-across-the-si-small.webp"
         },
         {
           "path": "_m/g/c/k/y/llys-rhosyr-wp/view-across-the-foundations-of.jpg",
@@ -136,7 +138,8 @@
             "Information field template with formatting",
             "Llys Rhosyr",
             "United Kingdom photographs taken on 2008-06-07"
-          ]
+          ],
+          "smallPath": "_m/g/c/k/y/llys-rhosyr-wp/view-across-the-foundations-of-small.webp"
         },
         {
           "path": "_m/g/c/k/y/llys-rhosyr-wp/llys-rhosyr-newborough-anglese.jpg",
@@ -159,7 +162,9 @@
             "Llys Rhosyr",
             "Self-published work",
             "Taken with Panasonic Lumix DMC-FZ38"
-          ]
+          ],
+          "mediumPath": "_m/g/c/k/y/llys-rhosyr-wp/llys-rhosyr-newborough-anglese-medium.webp",
+          "smallPath": "_m/g/c/k/y/llys-rhosyr-wp/llys-rhosyr-newborough-anglese-small.webp"
         },
         {
           "path": "_m/g/c/k/y/llys-rhosyr-wp/llys-rhosyr-ac-eglwys-sant-ped.jpg",
@@ -181,7 +186,8 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "Llys Rhosyr"
-          ]
+          ],
+          "smallPath": "_m/g/c/k/y/llys-rhosyr-wp/llys-rhosyr-ac-eglwys-sant-ped-small.webp"
         },
         {
           "path": "_m/tpc/an/gl/es/ey/anglesey/eglwys-st-rhuddlad-st-rhuddlad.jpg",
@@ -251,7 +257,11 @@
         "_m/g/c/k/y/llys-rhosyr-wp/gcky-llys-rhosyr-stone-wood-and-silverware.mp3",
         "_m/g/c/k/y/llys-rhosyr-wp/gcky-llys-rhosyr-why-it-was-buried.mp3",
         "_m/g/c/k/y/llys-rhosyr-wp/gcky-llys-rhosyr-llys-llewelyn-rebuilt.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/k/y/llys-rhosyr-wp/gcky-llys-rhosyr-combined.mp3",
+      "combinedNarrationBytes": 3572172,
+      "combinedNarrationDuration": 288,
+      "combinedCover": "_m/g/c/k/y/llys-rhosyr-wp/gcky-llys-rhosyr-combined-cover.jpg"
     }
   }
 }

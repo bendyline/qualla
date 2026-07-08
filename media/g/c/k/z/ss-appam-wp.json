@@ -21,7 +21,9 @@
           "CC-PD-Mark",
           "PD-old missing SDC copyright status",
           "SMS Möve (ship, 1914)"
-        ]
+        ],
+        "mediumPath": "_m/g/c/k/z/ss-appam-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/k/z/ss-appam-wp/hero-small.webp"
       },
       "images": [
         {
@@ -46,7 +48,8 @@
             "PD-Bain",
             "Passenger ships facing left",
             "Watercraft photographed in 1915"
-          ]
+          ],
+          "smallPath": "_m/g/c/k/z/ss-appam-wp/s-s-appam-circa-1915-f-small.webp"
         }
       ],
       "narration": [
@@ -58,7 +61,11 @@
         "_m/g/c/k/z/ss-appam-wp/gckz-ss-appam-the-supreme-court-decides.mp3",
         "_m/g/c/k/z/ss-appam-wp/gckz-ss-appam-after-the-war.mp3",
         "_m/g/c/k/z/ss-appam-wp/gckz-ss-appam-flight-context-2.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/k/z/ss-appam-wp/gckz-ss-appam-combined.mp3",
+      "combinedNarrationBytes": 3893278,
+      "combinedNarrationDuration": 317,
+      "combinedCover": "_m/g/c/k/z/ss-appam-wp/gckz-ss-appam-combined-cover.jpg"
     }
   }
 }

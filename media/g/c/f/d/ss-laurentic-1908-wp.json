@@ -15,7 +15,9 @@
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Laurentic,_hq.jpg",
         "sourceType": "core",
         "sourceArticleId": "ss-laurentic-1908-wp",
-        "sourceGeohash4": "gcfd"
+        "sourceGeohash4": "gcfd",
+        "mediumPath": "_m/g/c/f/d/ss-laurentic-1908-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/f/d/ss-laurentic-1908-wp/hero-small.webp"
       },
       "images": [
         {
@@ -41,7 +43,8 @@
             "PD-Australia",
             "PD-old missing SDC copyright status",
             "Ships in Queensland"
-          ]
+          ],
+          "smallPath": "_m/g/c/f/d/ss-laurentic-1908-wp/laurentic-ship-small.webp"
         },
         {
           "path": "_m/g/c/f/d/ss-laurentic-1908-wp/st-muras-s-church-faha.png",
@@ -62,7 +65,9 @@
             "CC-BY-2.0",
             "Files with coordinates missing SDC location of creation",
             "Flickr images reviewed by FlickreviewR 2"
-          ]
+          ],
+          "mediumPath": "_m/g/c/f/d/ss-laurentic-1908-wp/st-muras-s-church-faha-medium.webp",
+          "smallPath": "_m/g/c/f/d/ss-laurentic-1908-wp/st-muras-s-church-faha-small.webp"
         },
         {
           "path": "_m/g/c/f/d/ss-laurentic-1908-wp/fanad-lighthouse-co-do.jpg",
@@ -86,7 +91,8 @@
             "Images with watermarks",
             "Lighthouses in Europe at night",
             "Night in County Donegal"
-          ]
+          ],
+          "smallPath": "_m/g/c/f/d/ss-laurentic-1908-wp/fanad-lighthouse-co-do-small.webp"
         },
         {
           "path": "_m/g/c/f/d/ss-laurentic-1908-wp/statelibqld-1-149967-laurentic.jpg",
@@ -110,7 +116,8 @@
             "PD-Australia",
             "PD-old missing SDC copyright status",
             "Ships in Queensland"
-          ]
+          ],
+          "smallPath": "_m/g/c/f/d/ss-laurentic-1908-wp/statelibqld-1-149967-laurentic-small.webp"
         },
         {
           "path": "_m/g/c/f/d/ss-laurentic-1908-wp/ss-laurentic-memorial-geograph.jpg",
@@ -133,7 +140,8 @@
             "Monuments and memorials in County Donegal",
             "Monuments featuring artillery in the Republic of Ireland",
             "QF 6 inch /40 naval gun"
-          ]
+          ],
+          "smallPath": "_m/g/c/f/d/ss-laurentic-1908-wp/ss-laurentic-memorial-geograph-small.webp"
         },
         {
           "path": "_m/g/c/f/d/ss-laurentic-1908-wp/gravestone-of-george-charles-d.jpg",
@@ -161,7 +169,9 @@
             "RMS Titanic crew",
             "Rodhullandemu images",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/f/d/ss-laurentic-1908-wp/gravestone-of-george-charles-d-medium.webp",
+          "smallPath": "_m/g/c/f/d/ss-laurentic-1908-wp/gravestone-of-george-charles-d-small.webp"
         },
         {
           "path": "_m/g/c/f/d/ss-laurentic-1908-wp/laurentic-in-1909.gif",
@@ -180,7 +190,8 @@
           "categories": [
             "August 1909 in water transport",
             "Black and white photographs of ships"
-          ]
+          ],
+          "smallPath": "_m/g/c/f/d/ss-laurentic-1908-wp/laurentic-in-1909-small.gif"
         }
       ],
       "narration": [
@@ -191,7 +202,11 @@
         "_m/g/c/f/d/ss-laurentic-1908-wp/gcfd-ss-laurentic-the-gold.mp3",
         "_m/g/c/f/d/ss-laurentic-1908-wp/gcfd-ss-laurentic-digging-by-hand.mp3",
         "_m/g/c/f/d/ss-laurentic-1908-wp/gcfd-ss-laurentic-what-remains.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/f/d/ss-laurentic-1908-wp/gcfd-ss-laurentic-1908-combined.mp3",
+      "combinedNarrationBytes": 4125298,
+      "combinedNarrationDuration": 336,
+      "combinedCover": "_m/g/c/f/d/ss-laurentic-1908-wp/gcfd-ss-laurentic-1908-combined-cover.jpg"
     }
   }
 }

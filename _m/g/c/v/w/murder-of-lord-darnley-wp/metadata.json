@@ -26,7 +26,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "murder-of-lord-darnley-wp",
-    "sourceGeohash4": "gcvw"
+    "sourceGeohash4": "gcvw",
+    "mediumPath": "_m/g/c/v/w/murder-of-lord-darnley-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/v/w/murder-of-lord-darnley-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Kirk o' Field contemporary sketch.jpg",
@@ -57,5 +59,24 @@
     "sourceGeohash4": "gcvw"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcvw-murder-of-lord-darnley-flight-context.mp3",
+      "gcvw-murder-of-lord-darnley-intro.mp3",
+      "gcvw-murder-of-lord-darnley-a-trapped-queen.mp3",
+      "gcvw-murder-of-lord-darnley-the-explosion-and-the-strangled-body.mp3",
+      "gcvw-murder-of-lord-darnley-the-earl-of-bothwell.mp3",
+      "gcvw-murder-of-lord-darnley-forced-to-abdicate.mp3"
+    ],
+    "durations": {
+      "gcvw-murder-of-lord-darnley-flight-context.mp3": 53.3700833,
+      "gcvw-murder-of-lord-darnley-intro.mp3": 56.4254166,
+      "gcvw-murder-of-lord-darnley-a-trapped-queen.mp3": 67.5629583,
+      "gcvw-murder-of-lord-darnley-the-explosion-and-the-strangled-body.mp3": 63.893125,
+      "gcvw-murder-of-lord-darnley-the-earl-of-bothwell.mp3": 62.2122083,
+      "gcvw-murder-of-lord-darnley-forced-to-abdicate.mp3": 82.9863333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

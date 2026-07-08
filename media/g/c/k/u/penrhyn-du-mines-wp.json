@@ -21,7 +21,8 @@
           "CC-BY-SA-4.0",
           "Postcards of Gwynedd",
           "Template Unknown (author)"
-        ]
+        ],
+        "smallPath": "_m/g/c/k/u/penrhyn-du-mines-wp/hero-small.webp"
       },
       "images": [
         {
@@ -43,7 +44,9 @@
             "CC-BY-SA-4.0",
             "Mining in Wales",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/k/u/penrhyn-du-mines-wp/new-day-level-passage-medium.webp",
+          "smallPath": "_m/g/c/k/u/penrhyn-du-mines-wp/new-day-level-passage-small.webp"
         },
         {
           "path": "_m/g/c/k/u/penrhyn-du-mines-wp/entrance-old-day-level.png",
@@ -64,7 +67,9 @@
             "CC-BY-SA-4.0",
             "Mining in Wales",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/k/u/penrhyn-du-mines-wp/entrance-old-day-level-medium.webp",
+          "smallPath": "_m/g/c/k/u/penrhyn-du-mines-wp/entrance-old-day-level-small.webp"
         }
       ],
       "narration": [
@@ -74,7 +79,11 @@
         "_m/g/c/k/u/penrhyn-du-mines-wp/gcku-penrhyn-du-mines-pennants-verdict.mp3",
         "_m/g/c/k/u/penrhyn-du-mines-wp/gcku-penrhyn-du-mines-the-cornish-era.mp3",
         "_m/g/c/k/u/penrhyn-du-mines-wp/gcku-penrhyn-du-mines-what-the-heather-hides.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/k/u/penrhyn-du-mines-wp/gcku-penrhyn-du-mines-combined.mp3",
+      "combinedNarrationBytes": 2978547,
+      "combinedNarrationDuration": 241,
+      "combinedCover": "_m/g/c/k/u/penrhyn-du-mines-wp/gcku-penrhyn-du-mines-combined-cover.jpg"
     }
   }
 }

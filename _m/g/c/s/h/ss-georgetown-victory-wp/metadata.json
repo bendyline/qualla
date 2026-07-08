@@ -49,5 +49,24 @@
     "sourceGeohash4": "gcsh"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcsh-ss-georgetown-victory-flight-context.mp3",
+      "gcsh-ss-georgetown-victory-intro.mp3",
+      "gcsh-ss-georgetown-victory-a-ship-built-in-a-hurry.mp3",
+      "gcsh-ss-georgetown-victory-the-last-voyage.mp3",
+      "gcsh-ss-georgetown-victory-constable-bownes.mp3",
+      "gcsh-ss-georgetown-victory-what-the-sea-kept.mp3"
+    ],
+    "durations": {
+      "gcsh-ss-georgetown-victory-flight-context.mp3": 63.0689166,
+      "gcsh-ss-georgetown-victory-intro.mp3": 50.3285,
+      "gcsh-ss-georgetown-victory-a-ship-built-in-a-hurry.mp3": 79.4397916,
+      "gcsh-ss-georgetown-victory-the-last-voyage.mp3": 74.12375,
+      "gcsh-ss-georgetown-victory-constable-bownes.mp3": 76.052125,
+      "gcsh-ss-georgetown-victory-what-the-sea-kept.mp3": 46.6777916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

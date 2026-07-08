@@ -17,7 +17,9 @@
     "dateCreated": "2010-07-09",
     "sourceType": "core",
     "sourceArticleId": "battle-of-inverkeithing-wp",
-    "sourceGeohash4": "gcvw"
+    "sourceGeohash4": "gcvw",
+    "mediumPath": "_m/g/c/v/w/battle-of-inverkeithing-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/v/w/battle-of-inverkeithing-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Battle of Inverkeithing memorial cairn - geograph.org.uk - 1955019.jpg",
@@ -98,7 +100,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "battle-of-inverkeithing-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "mediumPath": "_m/g/c/v/w/battle-of-inverkeithing-wp/official-listed-buildi-medium.webp",
+      "smallPath": "_m/g/c/v/w/battle-of-inverkeithing-wp/official-listed-buildi-small.webp"
     },
     {
       "filename": "The Scots Holding Their Young King's Nose To the Grindstone.jpg",
@@ -178,7 +182,9 @@
       "dateCreated": "1873-01-01",
       "sourceType": "core",
       "sourceArticleId": "battle-of-inverkeithing-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "mediumPath": "_m/g/c/v/w/battle-of-inverkeithing-wp/charge-sir-hector-macl-medium.webp",
+      "smallPath": "_m/g/c/v/w/battle-of-inverkeithing-wp/charge-sir-hector-macl-small.webp"
     },
     {
       "filename": "Memorial Cairn - geograph.org.uk - 107745.jpg",
@@ -207,7 +213,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-inverkeithing-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "smallPath": "_m/g/c/v/w/battle-of-inverkeithing-wp/memorial-cairn-geograph-org-uk-small.webp"
     },
     {
       "filename": "Battle of Inverkeithing memorial cairn.jpg",
@@ -233,7 +240,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-inverkeithing-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "smallPath": "_m/g/c/v/w/battle-of-inverkeithing-wp/battle-of-inverkeithing-memori-small.webp"
     },
     {
       "filename": "Battle of Inverkeithing motif.JPG",
@@ -258,7 +266,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-inverkeithing-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "mediumPath": "_m/g/c/v/w/battle-of-inverkeithing-wp/battle-of-inverkeithing-motif-medium.webp",
+      "smallPath": "_m/g/c/v/w/battle-of-inverkeithing-wp/battle-of-inverkeithing-motif-small.webp"
     },
     {
       "filename": "Sir Hector MacLean's charge.jpg",
@@ -286,7 +296,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-inverkeithing-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "mediumPath": "_m/g/c/v/w/battle-of-inverkeithing-wp/sir-hector-maclean-s-charge-medium.webp",
+      "smallPath": "_m/g/c/v/w/battle-of-inverkeithing-wp/sir-hector-maclean-s-charge-small.webp"
     }
   ],
   "galleryPaths": [
@@ -300,5 +312,24 @@
     "_m/g/c/v/w/battle-of-inverkeithing-wp/battle-of-inverkeithing-motif.jpg",
     "_m/g/c/v/w/battle-of-inverkeithing-wp/sir-hector-maclean-s-charge.jpg"
   ],
-  "updatedAt": "2026-06-23T01:51:04.747Z"
+  "updatedAt": "2026-06-23T01:51:04.747Z",
+  "narration": {
+    "files": [
+      "gcvw-battle-of-inverkeithing-flight-context.mp3",
+      "gcvw-battle-of-inverkeithing-intro.mp3",
+      "gcvw-battle-of-inverkeithing-why-the-forth-mattered.mp3",
+      "gcvw-battle-of-inverkeithing-the-armies-form.mp3",
+      "gcvw-battle-of-inverkeithing-thirty-minutes.mp3",
+      "gcvw-battle-of-inverkeithing-aftermath-the-end-of-the-scottish-war.mp3"
+    ],
+    "durations": {
+      "gcvw-battle-of-inverkeithing-flight-context.mp3": 55.5072083,
+      "gcvw-battle-of-inverkeithing-intro.mp3": 53.5008333,
+      "gcvw-battle-of-inverkeithing-why-the-forth-mattered.mp3": 63.928625,
+      "gcvw-battle-of-inverkeithing-the-armies-form.mp3": 55.5227083,
+      "gcvw-battle-of-inverkeithing-thirty-minutes.mp3": 68.7663333,
+      "gcvw-battle-of-inverkeithing-aftermath-the-end-of-the-scottish-war.mp3": 73.540625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

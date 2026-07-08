@@ -63,7 +63,8 @@
             "Files with no machine-readable source",
             "Media missing infobox template",
             "Slieve League"
-          ]
+          ],
+          "smallPath": "_m/g/c/d/f/border-region-wp/slieveleague-tonemappe-small.webp"
         },
         {
           "path": "_m/g/c/d/f/border-region-wp/lough-oughter-county-c.jpg",
@@ -87,7 +88,9 @@
             "Pictures by Sarah777",
             "Self-published work",
             "Taken with Canon PowerShot S60"
-          ]
+          ],
+          "mediumPath": "_m/g/c/d/f/border-region-wp/lough-oughter-county-c-medium.webp",
+          "smallPath": "_m/g/c/d/f/border-region-wp/lough-oughter-county-c-small.webp"
         },
         {
           "path": "_m/g/c/d/f/border-region-wp/mullaghmore-co-sligo.jpg",
@@ -148,7 +151,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Countyleitrimcows.jpg",
           "sourceType": "core",
           "sourceArticleId": "border-region-wp",
-          "sourceGeohash4": "gcdf"
+          "sourceGeohash4": "gcdf",
+          "mediumPath": "_m/g/c/d/f/border-region-wp/farmland-co-leitrim-medium.webp",
+          "smallPath": "_m/g/c/d/f/border-region-wp/farmland-co-leitrim-small.webp"
         },
         {
           "path": "_m/g/c/d/f/border-region-wp/new-2018-border-region.png",
@@ -163,7 +168,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Newborderregionboundary.png",
           "sourceType": "core",
           "sourceArticleId": "border-region-wp",
-          "sourceGeohash4": "gcdf"
+          "sourceGeohash4": "gcdf",
+          "smallPath": "_m/g/c/d/f/border-region-wp/new-2018-border-region-small.webp"
         },
         {
           "path": "_m/g/c/d/f/county-cavan-wp/shannon-pot-474383119.jpg",
@@ -381,7 +387,11 @@
         "_m/g/c/d/f/border-region-wp/gcdf-border-region-the-oldest-rocks-in-ireland.mp3",
         "_m/g/c/d/f/border-region-wp/gcdf-border-region-the-brexit-region.mp3",
         "_m/g/c/d/f/border-region-wp/gcdf-border-region-no-motorway-few-railways.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/d/f/border-region-wp/gcdf-border-region-combined.mp3",
+      "combinedNarrationBytes": 4786339,
+      "combinedNarrationDuration": 392,
+      "combinedCover": "_m/g/c/d/f/border-region-wp/gcdf-border-region-combined-cover.jpg"
     }
   }
 }

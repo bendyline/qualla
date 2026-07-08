@@ -25,7 +25,9 @@
           "Quality images of the Isle of Man",
           "Self-published work",
           "Uploaded via Campaign:wlm-gb-eng"
-        ]
+        ],
+        "mediumPath": "_m/g/c/s/u/tynwald-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/s/u/tynwald-wp/hero-small.webp"
       },
       "images": [
         {
@@ -49,7 +51,8 @@
             "Locator maps of the Isle of Man",
             "Maps of the Isle of Man",
             "Tynwald"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/u/tynwald-wp/tynwaldday-small.webp"
         },
         {
           "path": "_m/g/c/s/u/tynwald-wp/franz-hopfner-1840-1893-landsc.jpg",
@@ -73,7 +76,8 @@
             "PD-Art (PD-old-auto-expired)",
             "PD-old-100-expired",
             "Tynwald"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/u/tynwald-wp/franz-hopfner-1840-1893-landsc-small.webp"
         },
         {
           "path": "_m/g/c/s/u/tynwald-wp/robert-edward-morrison-1851-19.jpg",
@@ -98,7 +102,8 @@
             "PD-Art missing SDC copyright status",
             "PD-old-100-expired",
             "PD-old missing SDC copyright status"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/u/tynwald-wp/robert-edward-morrison-1851-19-small.webp"
         },
         {
           "path": "_m/g/c/s/u/tynwald-wp/franz-hopfner-1840-1893-landsc-1.jpg",
@@ -112,7 +117,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Franz_H%C3%B6pfner_(1840-1893)_-_Landscape_-_PCF80_-_Tynwald.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "tynwald-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "smallPath": "_m/g/c/s/u/tynwald-wp/franz-hopfner-1840-1893-landsc-1-small.webp"
         },
         {
           "path": "_m/g/c/s/u/tynwald-wp/franz-hopfner-1840-1893-baldwi.jpg",
@@ -126,7 +132,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Franz_H%C3%B6pfner_(1840-1893)_-_Baldwin_Mill_-_PCF82_-_Tynwald.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "tynwald-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "smallPath": "_m/g/c/s/u/tynwald-wp/franz-hopfner-1840-1893-baldwi-small.webp"
         },
         {
           "path": "_m/g/c/s/u/tynwald-wp/franz-hopfner-1840-1893-baldwi-1.jpg",
@@ -140,7 +147,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Franz_H%C3%B6pfner_(1840-1893)_-_Baldwin_Mill_-_PCF81_-_Tynwald.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "tynwald-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "smallPath": "_m/g/c/s/u/tynwald-wp/franz-hopfner-1840-1893-baldwi-1-small.webp"
         },
         {
           "path": "_m/g/c/s/u/tynwald-wp/robert-edward-morrison-1851-19-1.jpg",
@@ -154,7 +162,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robert_Edward_Morrison_(1851-1924)_-_Arthur_William_Moore_(1853%E2%80%931909),_Speaker_of_the_House_of_Keys_(1898%E2%80%931909)_-_PCF5_-_Tynwald.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "tynwald-wp",
-          "sourceGeohash4": "gcsu"
+          "sourceGeohash4": "gcsu",
+          "smallPath": "_m/g/c/s/u/tynwald-wp/robert-edward-morrison-1851-19-1-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/laxey-wheel-1.jpg",
@@ -284,7 +293,19 @@
           "sourceArticleId": "isle-of-man-wp",
           "sourceGeohash4": "gcsu"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/s/u/tynwald-wp/gcsu-tynwald-flight-context.mp3",
+        "_m/g/c/s/u/tynwald-wp/gcsu-tynwald-intro.mp3",
+        "_m/g/c/s/u/tynwald-wp/gcsu-tynwald-two-chambers-one-court.mp3",
+        "_m/g/c/s/u/tynwald-wp/gcsu-tynwald-how-old-exactly.mp3",
+        "_m/g/c/s/u/tynwald-wp/gcsu-tynwald-medieval-origins-modern-form.mp3",
+        "_m/g/c/s/u/tynwald-wp/gcsu-tynwald-crown-reform-and-suffrage.mp3"
+      ],
+      "combinedNarration": "_m/g/c/s/u/tynwald-wp/gcsu-tynwald-combined.mp3",
+      "combinedNarrationBytes": 3568275,
+      "combinedNarrationDuration": 290,
+      "combinedCover": "_m/g/c/s/u/tynwald-wp/gcsu-tynwald-combined-cover.jpg"
     }
   }
 }

@@ -23,7 +23,9 @@
           "License migration redundant",
           "Self-published work",
           "Taken with Fujifilm FinePix F10"
-        ]
+        ],
+        "mediumPath": "_m/g/c/v/w/dundas-castle-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/v/w/dundas-castle-wp/hero-small.webp"
       },
       "images": [
         {
@@ -41,7 +43,8 @@
           "sourceGeohash4": "gcvw",
           "categories": [
             "Artworks with known accession number"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/w/dundas-castle-wp/ma-1829-p-316-dundas-c-small.webp"
         },
         {
           "path": "_m/g/c/v/w/dundas-castle-wp/dundas-castle-south-front-with.jpg",
@@ -56,7 +59,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dundas_Castle_South_Front_with_Porch.jpg",
           "sourceType": "core",
           "sourceArticleId": "dundas-castle-wp",
-          "sourceGeohash4": "gcvw"
+          "sourceGeohash4": "gcvw",
+          "mediumPath": "_m/g/c/v/w/dundas-castle-wp/dundas-castle-south-front-with-medium.webp",
+          "smallPath": "_m/g/c/v/w/dundas-castle-wp/dundas-castle-south-front-with-small.webp"
         },
         {
           "path": "_m/g/c/v/w/dundas-castle-wp/dundas-castle.jpg",
@@ -82,7 +87,8 @@
             "Listed buildings in Scotland with known IDs",
             "Taken with Canon PowerShot A70",
             "United Kingdom photographs taken on 2007-09-02"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/w/dundas-castle-wp/dundas-castle-small.webp"
         },
         {
           "path": "_m/g/c/v/w/dundas-castle-wp/dundas-castle-entrance-and-gat.jpg",
@@ -106,7 +112,8 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "United Kingdom photographs taken on 2005-08-26"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/w/dundas-castle-wp/dundas-castle-entrance-and-gat-small.webp"
         },
         {
           "path": "_m/g/c/v/w/dundas-castle-wp/parkland-dundas-castle-geograp.jpg",
@@ -130,7 +137,8 @@
             "Images from Geograph Britain and Ireland missing SDC coordinates of the point of view",
             "Information field template with formatting",
             "United Kingdom photographs taken on 2005-08-28"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/w/dundas-castle-wp/parkland-dundas-castle-geograp-small.webp"
         },
         {
           "path": "_m/g/c/v/w/dundas-castle-wp/dundas-castle-geograph-org-uk-.jpg",
@@ -150,7 +158,8 @@
             "CC-BY-SA-2.0",
             "Dundas Castle",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/w/dundas-castle-wp/dundas-castle-geograph-org-uk--small.webp"
         },
         {
           "path": "_m/g/c/v/w/dundas-castle-wp/dundas-castle-geograph-5003983.jpg",
@@ -172,7 +181,8 @@
             "Images by Richard Webb",
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/w/dundas-castle-wp/dundas-castle-geograph-5003983-small.webp"
         },
         {
           "path": "_m/g/c/v/w/dundas-castle-wp/rhododendrons-dundas-castle-ge.jpg",
@@ -192,7 +202,8 @@
             "CC-BY-SA-2.0",
             "Dundas Castle",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/w/dundas-castle-wp/rhododendrons-dundas-castle-ge-small.webp"
         },
         {
           "path": "_m/g/c/v/w/dundas-castle-wp/dundas-castle-east-front.jpg",
@@ -212,7 +223,9 @@
             "CC-BY-SA-4.0",
             "Dundas Castle",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/v/w/dundas-castle-wp/dundas-castle-east-front-medium.webp",
+          "smallPath": "_m/g/c/v/w/dundas-castle-wp/dundas-castle-east-front-small.webp"
         },
         {
           "path": "_m/g/c/v/w/south-queensferry-wp/hopetoun01.jpg",
@@ -442,7 +455,19 @@
           "sourceArticleId": "south-queensferry-wp",
           "sourceGeohash4": "gcvw"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/v/w/dundas-castle-wp/gcvw-dundas-castle-flight-context.mp3",
+        "_m/g/c/v/w/dundas-castle-wp/gcvw-dundas-castle-intro.mp3",
+        "_m/g/c/v/w/dundas-castle-wp/gcvw-dundas-castle-eight-hundred-years-of-one-family.mp3",
+        "_m/g/c/v/w/dundas-castle-wp/gcvw-dundas-castle-cromwell-at-the-door.mp3",
+        "_m/g/c/v/w/dundas-castle-wp/gcvw-dundas-castle-defending-the-forth-bridge.mp3",
+        "_m/g/c/v/w/dundas-castle-wp/gcvw-dundas-castle-restoration-and-reuse.mp3"
+      ],
+      "combinedNarration": "_m/g/c/v/w/dundas-castle-wp/gcvw-dundas-castle-combined.mp3",
+      "combinedNarrationBytes": 3303398,
+      "combinedNarrationDuration": 263,
+      "combinedCover": "_m/g/c/v/w/dundas-castle-wp/gcvw-dundas-castle-combined-cover.jpg"
     }
   }
 }

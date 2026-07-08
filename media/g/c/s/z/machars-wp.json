@@ -23,7 +23,8 @@
           "License migration completed",
           "Self-published work",
           "St Ninian's Cave"
-        ]
+        ],
+        "smallPath": "_m/g/c/s/z/machars-wp/hero-small.webp"
       },
       "images": [
         {
@@ -45,7 +46,8 @@
             "Maps of Dumfries and Galloway",
             "Self-published work",
             "Wigtownshire"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/z/machars-wp/mapa-na-machrach-ghall-small.webp"
         },
         {
           "path": "_m/g/c/s/z/machars-wp/machars-coastline.jpg",
@@ -67,7 +69,8 @@
             "Scotland photographs taken on 2006-01-08",
             "Taken with Olympus C-1Z / D-150Z",
             "The Machars"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/z/machars-wp/machars-coastline-small.webp"
         },
         {
           "path": "_m/g/c/s/z/machars-wp/beach-on-the-machars-peninsula.jpg",
@@ -90,7 +93,8 @@
             "Scotland photographs taken on 2006-01-08",
             "Taken with Olympus C-1Z / D-150Z",
             "The Machars"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/z/machars-wp/beach-on-the-machars-peninsula-small.webp"
         },
         {
           "path": "_m/g/c/u/b/newton-stewart-wp/the-view-from-cairnharrow-cott.jpg",
@@ -116,7 +120,19 @@
             "Taken with Nikon D3000"
           ]
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/s/z/machars-wp/gcsz-machars-flight-context.mp3",
+        "_m/g/c/s/z/machars-wp/gcsz-machars-intro.mp3",
+        "_m/g/c/s/z/machars-wp/gcsz-machars-a-coastline-with-everything.mp3",
+        "_m/g/c/s/z/machars-wp/gcsz-machars-saint-ninians-quiet-claim.mp3",
+        "_m/g/c/s/z/machars-wp/gcsz-machars-two-halves-two-landscapes.mp3",
+        "_m/g/c/s/z/machars-wp/gcsz-machars-wartime-wigtown.mp3"
+      ],
+      "combinedNarration": "_m/g/c/s/z/machars-wp/gcsz-machars-combined.mp3",
+      "combinedNarrationBytes": 3181030,
+      "combinedNarrationDuration": 258,
+      "combinedCover": "_m/g/c/s/z/machars-wp/gcsz-machars-combined-cover.jpg"
     }
   }
 }

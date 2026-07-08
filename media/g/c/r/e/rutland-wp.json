@@ -26,7 +26,8 @@
           "Rutland Water",
           "Self-published work",
           "Taken with Kodak EasyShare Z740"
-        ]
+        ],
+        "smallPath": "_m/g/c/r/e/rutland-wp/hero-small.webp"
       },
       "images": [
         {
@@ -47,7 +48,9 @@
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland",
             "Normanton, Rutland"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/e/rutland-wp/normanton-church-medium.webp",
+          "smallPath": "_m/g/c/r/e/rutland-wp/normanton-church-small.webp"
         },
         {
           "path": "_m/g/c/r/e/rutland-wp/atlas-created-cartogra.jpg",
@@ -75,7 +78,9 @@
             "Saxton’s Atlas of England and Wales",
             "Taken with Phase One IQ150",
             "Uploaded by GLAM-E Lab"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/e/rutland-wp/atlas-created-cartogra-medium.webp",
+          "smallPath": "_m/g/c/r/e/rutland-wp/atlas-created-cartogra-small.webp"
         },
         {
           "path": "_m/g/c/r/e/rutland-wp/buttercross-left-spire.jpg",
@@ -96,7 +101,8 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "Oakham Buttercross"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/e/rutland-wp/buttercross-left-spire-small.webp"
         },
         {
           "path": "_m/g/c/r/e/rutland-wp/high-street-uppingham.jpg",
@@ -468,7 +474,11 @@
         "_m/g/c/r/e/rutland-wp/gcre-rutland-sundew-walks-to-corby.mp3",
         "_m/g/c/r/e/rutland-wp/gcre-rutland-the-happiest-county.mp3",
         "_m/g/c/r/e/rutland-wp/gcre-rutland-old-stones-new-maps.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/r/e/rutland-wp/gcre-rutland-combined.mp3",
+      "combinedNarrationBytes": 4406194,
+      "combinedNarrationDuration": 362,
+      "combinedCover": "_m/g/c/r/e/rutland-wp/gcre-rutland-combined-cover.jpg"
     }
   }
 }

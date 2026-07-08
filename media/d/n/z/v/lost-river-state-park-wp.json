@@ -20,7 +20,9 @@
           "CC-BY-SA-3.0",
           "Files with coordinates missing SDC location of creation",
           "Lost River State Park"
-        ]
+        ],
+        "mediumPath": "_m/d/n/z/v/lost-river-state-park-wp/hero-medium.webp",
+        "smallPath": "_m/d/n/z/v/lost-river-state-park-wp/hero-small.webp"
       },
       "images": [
         {
@@ -34,7 +36,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lost_River_State_Park-square.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "lost-river-state-park-wp",
-          "sourceGeohash4": "dnzv"
+          "sourceGeohash4": "dnzv",
+          "smallPath": "_m/d/n/z/v/lost-river-state-park-wp/lost-river-state-park-square-small.webp"
         }
       ],
       "narration": [
@@ -44,7 +47,11 @@
         "_m/d/n/z/v/lost-river-state-park-wp/dnzv-lost-river-state-park-twenty-six-cabins-and-a-pool.mp3",
         "_m/d/n/z/v/lost-river-state-park-wp/dnzv-lost-river-state-park-the-lighthorse-harry-lee-cabin.mp3",
         "_m/d/n/z/v/lost-river-state-park-wp/dnzv-lost-river-state-park-echoes-of-the-frontier-war.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/n/z/v/lost-river-state-park-wp/dnzv-lost-river-state-park-combined.mp3",
+      "combinedNarrationBytes": 3075847,
+      "combinedNarrationDuration": 242,
+      "combinedCover": "_m/d/n/z/v/lost-river-state-park-wp/dnzv-lost-river-state-park-combined-cover.jpg"
     }
   }
 }

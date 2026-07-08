@@ -53,5 +53,24 @@
     "sourceGeohash4": "gcvw"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcvw-battle-of-kinghorn-flight-context.mp3",
+      "gcvw-battle-of-kinghorn-intro.mp3",
+      "gcvw-battle-of-kinghorn-the-shameful-peace.mp3",
+      "gcvw-battle-of-kinghorn-catastrophe-of-timing.mp3",
+      "gcvw-battle-of-kinghorn-slaughter-on-the-beach.mp3",
+      "gcvw-battle-of-kinghorn-the-brief-kingship-of-edward-balliol.mp3"
+    ],
+    "durations": {
+      "gcvw-battle-of-kinghorn-flight-context.mp3": 53.3931666,
+      "gcvw-battle-of-kinghorn-intro.mp3": 47.59975,
+      "gcvw-battle-of-kinghorn-the-shameful-peace.mp3": 59.01275,
+      "gcvw-battle-of-kinghorn-catastrophe-of-timing.mp3": 55.519625,
+      "gcvw-battle-of-kinghorn-slaughter-on-the-beach.mp3": 78.5400416,
+      "gcvw-battle-of-kinghorn-the-brief-kingship-of-edward-balliol.mp3": 74.8210416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

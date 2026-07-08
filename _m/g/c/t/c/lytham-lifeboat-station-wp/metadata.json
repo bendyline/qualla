@@ -23,7 +23,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "lytham-lifeboat-station-wp",
-    "sourceGeohash4": "gctc"
+    "sourceGeohash4": "gctc",
+    "smallPath": "_m/g/c/t/c/lytham-lifeboat-station-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Old lifeboat station and windmill, Lytham - geograph.org.uk - 2916407.jpg",
@@ -80,5 +81,26 @@
   ],
   "galleryPaths": [
     "_m/g/c/t/b/siege-of-lathom-house-wp/relief-map-lancashire.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gctc-lytham-lifeboat-station-flight-context.mp3",
+      "gctc-lytham-lifeboat-station-intro.mp3",
+      "gctc-lytham-lifeboat-station-john-hayes-writes-a-letter.mp3",
+      "gctc-lytham-lifeboat-station-eleanor-cecily-and-president-lincoln.mp3",
+      "gctc-lytham-lifeboat-station-the-night-of-the-mexico.mp3",
+      "gctc-lytham-lifeboat-station-the-boats-that-followed.mp3",
+      "gctc-lytham-lifeboat-station-walking-the-sands-now.mp3"
+    ],
+    "durations": {
+      "gctc-lytham-lifeboat-station-flight-context.mp3": 47.3898333,
+      "gctc-lytham-lifeboat-station-intro.mp3": 58.6292916,
+      "gctc-lytham-lifeboat-station-john-hayes-writes-a-letter.mp3": 65.8148333,
+      "gctc-lytham-lifeboat-station-eleanor-cecily-and-president-lincoln.mp3": 58.122375,
+      "gctc-lytham-lifeboat-station-the-night-of-the-mexico.mp3": 69.3046666,
+      "gctc-lytham-lifeboat-station-the-boats-that-followed.mp3": 67.5155,
+      "gctc-lytham-lifeboat-station-walking-the-sands-now.mp3": 47.1955416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

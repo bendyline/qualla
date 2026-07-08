@@ -19,7 +19,9 @@
         "categories": [
           "Jack Lynch Tunnel",
           "PD-user"
-        ]
+        ],
+        "mediumPath": "_m/g/c/4/p/jack-lynch-tunnel-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/4/p/jack-lynch-tunnel-wp/hero-small.webp"
       },
       "images": [
         {
@@ -39,7 +41,9 @@
           "categories": [
             "Jack Lynch Tunnel",
             "PD-user"
-          ]
+          ],
+          "mediumPath": "_m/g/c/4/p/jack-lynch-tunnel-wp/interior-southbound-bo-medium.webp",
+          "smallPath": "_m/g/c/4/p/jack-lynch-tunnel-wp/interior-southbound-bo-small.webp"
         },
         {
           "path": "_m/g/c/4/p/jack-lynch-tunnel-wp/jack-lynch-tunnel-comm.jpg",
@@ -59,7 +63,9 @@
             "Jack Lynch Tunnel",
             "PD-user",
             "Plaques in County Cork"
-          ]
+          ],
+          "mediumPath": "_m/g/c/4/p/jack-lynch-tunnel-wp/jack-lynch-tunnel-comm-medium.webp",
+          "smallPath": "_m/g/c/4/p/jack-lynch-tunnel-wp/jack-lynch-tunnel-comm-small.webp"
         },
         {
           "path": "_m/g/c/4/p/jack-lynch-tunnel-wp/n25-southern-entry-exi.jpg",
@@ -80,7 +86,9 @@
             "PD-user",
             "Padlocks",
             "Spike topped fences"
-          ]
+          ],
+          "mediumPath": "_m/g/c/4/p/jack-lynch-tunnel-wp/n25-southern-entry-exi-medium.webp",
+          "smallPath": "_m/g/c/4/p/jack-lynch-tunnel-wp/n25-southern-entry-exi-small.webp"
         },
         {
           "path": "_m/g/c/4/p/jack-lynch-tunnel-wp/jack-lynch-tunnel-approach.jpg",
@@ -99,7 +107,9 @@
           "categories": [
             "Jack Lynch Tunnel",
             "PD-user"
-          ]
+          ],
+          "mediumPath": "_m/g/c/4/p/jack-lynch-tunnel-wp/jack-lynch-tunnel-approach-medium.webp",
+          "smallPath": "_m/g/c/4/p/jack-lynch-tunnel-wp/jack-lynch-tunnel-approach-small.webp"
         }
       ],
       "narration": [
@@ -110,7 +120,11 @@
         "_m/g/c/4/p/jack-lynch-tunnel-wp/gc4p-jack-lynch-tunnel-dredgers-with-names.mp3",
         "_m/g/c/4/p/jack-lynch-tunnel-wp/gc4p-jack-lynch-tunnel-open-at-last.mp3",
         "_m/g/c/4/p/jack-lynch-tunnel-wp/gc4p-jack-lynch-tunnel-jack-lynchs-name.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/4/p/jack-lynch-tunnel-wp/gc4p-jack-lynch-tunnel-combined.mp3",
+      "combinedNarrationBytes": 4542401,
+      "combinedNarrationDuration": 373,
+      "combinedCover": "_m/g/c/4/p/jack-lynch-tunnel-wp/gc4p-jack-lynch-tunnel-combined-cover.jpg"
     }
   }
 }

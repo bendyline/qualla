@@ -20,7 +20,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "siege-of-stirling-castle-1746-wp",
-    "sourceGeohash4": "gcvp"
+    "sourceGeohash4": "gcvp",
+    "smallPath": "_m/g/c/v/p/siege-of-stirling-castle-1746-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Stirling stninians tower.jpg",
@@ -72,5 +73,26 @@
   ],
   "galleryPaths": [
     "_m/g/c/v/p/stirling-castle-wp/stirlingcastle1900.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcvp-siege-of-stirling-castle-1746-flight-context.mp3",
+      "gcvp-siege-of-stirling-castle-1746-intro.mp3",
+      "gcvp-siege-of-stirling-castle-1746-the-strongest-place-in-scotland.mp3",
+      "gcvp-siege-of-stirling-castle-1746-an-army-without-siege-guns.mp3",
+      "gcvp-siege-of-stirling-castle-1746-falkirk-then-stalemate.mp3",
+      "gcvp-siege-of-stirling-castle-1746-the-st-ninians-explosion.mp3",
+      "gcvp-siege-of-stirling-castle-1746-after-the-withdrawal.mp3"
+    ],
+    "durations": {
+      "gcvp-siege-of-stirling-castle-1746-flight-context.mp3": 54.3355416,
+      "gcvp-siege-of-stirling-castle-1746-intro.mp3": 55.88525,
+      "gcvp-siege-of-stirling-castle-1746-the-strongest-place-in-scotland.mp3": 58.2235833,
+      "gcvp-siege-of-stirling-castle-1746-an-army-without-siege-guns.mp3": 61.4002916,
+      "gcvp-siege-of-stirling-castle-1746-falkirk-then-stalemate.mp3": 65.7404166,
+      "gcvp-siege-of-stirling-castle-1746-the-st-ninians-explosion.mp3": 84.7458333,
+      "gcvp-siege-of-stirling-castle-1746-after-the-withdrawal.mp3": 68.3352916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -24,7 +24,8 @@
           "RAF Brawdy",
           "UK Government artistic works",
           "World War II aerial photographs of the United Kingdom"
-        ]
+        ],
+        "smallPath": "_m/g/c/h/r/raf-brawdy-wp/hero-small.webp"
       },
       "images": [
         {
@@ -47,7 +48,9 @@
             "Aircraft with folded wings",
             "Hawker Sea Hawk WV908",
             "PD-user"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/r/raf-brawdy-wp/royal-navy-historic-fl-medium.webp",
+          "smallPath": "_m/g/c/h/r/raf-brawdy-wp/royal-navy-historic-fl-small.webp"
         },
         {
           "path": "_m/g/c/h/r/raf-brawdy-wp/percival-sea-prince-t.jpg",
@@ -68,7 +71,9 @@
             "RAF Brawdy",
             "Self-published work",
             "WF118 (aircraft)"
-          ]
+          ],
+          "mediumPath": "_m/g/c/h/r/raf-brawdy-wp/percival-sea-prince-t-medium.webp",
+          "smallPath": "_m/g/c/h/r/raf-brawdy-wp/percival-sea-prince-t-small.webp"
         },
         {
           "path": "_m/g/c/h/r/raf-brawdy-wp/royal-navy-hawker-sea.jpg",
@@ -91,7 +96,8 @@
             "Hawker Sea Hawk",
             "RAF Brawdy",
             "UK Government artistic works"
-          ]
+          ],
+          "smallPath": "_m/g/c/h/r/raf-brawdy-wp/royal-navy-hawker-sea-small.webp"
         },
         {
           "path": "_m/g/c/h/r/raf-brawdy-wp/raf-wyton-16-july-1983.jpg",
@@ -106,7 +112,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hunter_FGA9_79Sq_(19048090073).jpg",
           "sourceType": "core",
           "sourceArticleId": "raf-brawdy-wp",
-          "sourceGeohash4": "gchr"
+          "sourceGeohash4": "gchr",
+          "smallPath": "_m/g/c/h/r/raf-brawdy-wp/raf-wyton-16-july-1983-small.webp"
         },
         {
           "path": "_m/g/c/h/r/raf-brawdy-wp/fairey-gannet-aew-3-xl.jpg",
@@ -121,7 +128,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fairey_Gannet_AEW.3_XL450_BY-764_849_YVTN_07.70_edited-3.jpg",
           "sourceType": "core",
           "sourceArticleId": "raf-brawdy-wp",
-          "sourceGeohash4": "gchr"
+          "sourceGeohash4": "gchr",
+          "smallPath": "_m/g/c/h/r/raf-brawdy-wp/fairey-gannet-aew-3-xl-small.webp"
         },
         {
           "path": "_m/g/c/h/r/raf-brawdy-wp/hawk-xx315-at-manston-1986-520.jpg",
@@ -136,7 +144,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hawk_XX315_at_Manston_1986_(52095781434).jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "raf-brawdy-wp",
-          "sourceGeohash4": "gchr"
+          "sourceGeohash4": "gchr",
+          "smallPath": "_m/g/c/h/r/raf-brawdy-wp/hawk-xx315-at-manston-1986-520-small.webp"
         },
         {
           "path": "_m/g/c/h/r/st-davids-wp/stdavids-palace1.jpg",
@@ -314,7 +323,11 @@
         "_m/g/c/h/r/raf-brawdy-wp/gchr-raf-brawdy-hunters-in-the-sky.mp3",
         "_m/g/c/h/r/raf-brawdy-wp/gchr-raf-brawdy-the-cold-war-ends.mp3",
         "_m/g/c/h/r/raf-brawdy-wp/gchr-raf-brawdy-what-remains.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/h/r/raf-brawdy-wp/gchr-raf-brawdy-combined.mp3",
+      "combinedNarrationBytes": 4146387,
+      "combinedNarrationDuration": 337,
+      "combinedCover": "_m/g/c/h/r/raf-brawdy-wp/gchr-raf-brawdy-combined-cover.jpg"
     }
   }
 }

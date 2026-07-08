@@ -78,7 +78,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "port-erin-wp",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "mediumPath": "_m/g/c/s/e/port-erin-wp/cosy-nook-cafe-on-port-erin-be-medium.webp",
+      "smallPath": "_m/g/c/s/e/port-erin-wp/cosy-nook-cafe-on-port-erin-be-small.webp"
     }
   ],
   "galleryPaths": [
@@ -86,5 +88,26 @@
     "_m/g/c/s/e/port-erin-wp/port-erin-station-geograph-org.jpg",
     "_m/g/c/s/e/port-erin-wp/cosy-nook-cafe-on-port-erin-be.jpg"
   ],
-  "updatedAt": "2026-06-22T11:07:15.404Z"
+  "updatedAt": "2026-06-22T11:07:15.404Z",
+  "narration": {
+    "files": [
+      "gcse-port-erin-flight-context.mp3",
+      "gcse-port-erin-intro.mp3",
+      "gcse-port-erin-the-name-and-the-bay.mp3",
+      "gcse-port-erin-the-breakwater-that-failed.mp3",
+      "gcse-port-erin-hotels-resort-decline.mp3",
+      "gcse-port-erin-famous-residents.mp3",
+      "gcse-port-erin-the-village-today.mp3"
+    ],
+    "durations": {
+      "gcse-port-erin-flight-context.mp3": 52.5880833,
+      "gcse-port-erin-intro.mp3": 52.3797083,
+      "gcse-port-erin-the-name-and-the-bay.mp3": 65.6871666,
+      "gcse-port-erin-the-breakwater-that-failed.mp3": 71.8868333,
+      "gcse-port-erin-hotels-resort-decline.mp3": 59.7847916,
+      "gcse-port-erin-famous-residents.mp3": 62.7562083,
+      "gcse-port-erin-the-village-today.mp3": 58.10325
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

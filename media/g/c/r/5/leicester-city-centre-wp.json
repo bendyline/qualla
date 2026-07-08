@@ -15,7 +15,8 @@
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Highcross_Lane_at_the_Highcross_Shopping_Centre,_Leicester_-_geograph.org.uk_-_7661970.jpg",
         "sourceType": "core",
         "sourceArticleId": "leicester-city-centre-wp",
-        "sourceGeohash4": "gcr5"
+        "sourceGeohash4": "gcr5",
+        "smallPath": "_m/g/c/r/5/leicester-city-centre-wp/hero-small.webp"
       },
       "images": [
         {
@@ -39,7 +40,8 @@
             "March 2006 in Leicester",
             "PD-user",
             "Taken with Nikon D50"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/5/leicester-city-centre-wp/en-leicester-town-hall-small.webp"
         },
         {
           "path": "_m/g/c/r/5/leicester-city-centre-wp/west-side-en-magazine.jpg",
@@ -113,7 +115,9 @@
             "March 2010 in Leicester",
             "Self-published work",
             "Taken with Nikon D60"
-          ]
+          ],
+          "mediumPath": "_m/g/c/r/5/leicester-city-centre-wp/humberstone-gate-centr-medium.webp",
+          "smallPath": "_m/g/c/r/5/leicester-city-centre-wp/humberstone-gate-centr-small.webp"
         },
         {
           "path": "_m/g/c/r/5/leicester-city-centre-wp/st-margaret-s-church-l.jpg",
@@ -157,7 +161,8 @@
           "categories": [
             "CC-BY-SA-2.0",
             "Granby Street, Leicester"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/5/leicester-city-centre-wp/granby-street-leiceste-small.webp"
         },
         {
           "path": "_m/g/c/r/5/leicester-city-centre-wp/all-saints-church-leic.jpg",
@@ -497,7 +502,11 @@
         "_m/g/c/r/5/leicester-city-centre-wp/gcr5-leicester-city-centre-medieval-layers-and-a-newarke.mp3",
         "_m/g/c/r/5/leicester-city-centre-wp/gcr5-leicester-city-centre-victorian-pivot-eastward.mp3",
         "_m/g/c/r/5/leicester-city-centre-wp/gcr5-leicester-city-centre-modern-leicester.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/r/5/leicester-city-centre-wp/gcr5-leicester-city-centre-combined.mp3",
+      "combinedNarrationBytes": 4592689,
+      "combinedNarrationDuration": 372,
+      "combinedCover": "_m/g/c/r/5/leicester-city-centre-wp/gcr5-leicester-city-centre-combined-cover.jpg"
     }
   }
 }

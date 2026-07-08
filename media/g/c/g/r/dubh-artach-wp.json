@@ -25,7 +25,8 @@
           "PD-old missing SDC copyright status",
           "PD Old",
           "Template Unknown (author)"
-        ]
+        ],
+        "smallPath": "_m/g/c/g/r/dubh-artach-wp/hero-small.webp"
       },
       "images": [
         {
@@ -79,7 +80,8 @@
             "Paintings of lighthouses",
             "Samuel Bough",
             "Scotland in art"
-          ]
+          ],
+          "smallPath": "_m/g/c/g/r/dubh-artach-wp/dubh-artach-small.webp"
         },
         {
           "path": "_m/g/c/g/r/dubh-artach-wp/relief-map-argyll-bute.jpg",
@@ -124,7 +126,8 @@
             "License migration completed",
             "Locator maps of the Inner Hebrides",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/g/r/dubh-artach-wp/dubh-artach-scotland-location-small.webp"
         },
         {
           "path": "_m/g/c/g/r/dubh-artach-wp/admiralty-chart-no-2617-sound-.jpg",
@@ -150,7 +153,9 @@
             "Lighthouse maps",
             "Sound of Iona",
             "UK Government artistic works"
-          ]
+          ],
+          "mediumPath": "_m/g/c/g/r/dubh-artach-wp/admiralty-chart-no-2617-sound--medium.webp",
+          "smallPath": "_m/g/c/g/r/dubh-artach-wp/admiralty-chart-no-2617-sound--small.webp"
         },
         {
           "path": "_m/g/c/g/r/dubh-artach-wp/admiralty-chart-no-2724-approa.jpg",
@@ -178,7 +183,9 @@
             "North Channel",
             "Sound of Jura",
             "UK Government artistic works"
-          ]
+          ],
+          "mediumPath": "_m/g/c/g/r/dubh-artach-wp/admiralty-chart-no-2724-approa-medium.webp",
+          "smallPath": "_m/g/c/g/r/dubh-artach-wp/admiralty-chart-no-2724-approa-small.webp"
         },
         {
           "path": "_m/g/c/g/w/colonsay-wp/riasg-buidhe-cross.jpg",
@@ -348,7 +355,11 @@
         "_m/g/c/g/r/dubh-artach-wp/gcgr-dubh-artach-the-stevensons.mp3",
         "_m/g/c/g/r/dubh-artach-wp/gcgr-dubh-artach-the-roof-test.mp3",
         "_m/g/c/g/r/dubh-artach-wp/gcgr-dubh-artach-inside-the-light.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/g/r/dubh-artach-wp/gcgr-dubh-artach-combined.mp3",
+      "combinedNarrationBytes": 4271348,
+      "combinedNarrationDuration": 350,
+      "combinedCover": "_m/g/c/g/r/dubh-artach-wp/gcgr-dubh-artach-combined-cover.jpg"
     }
   }
 }

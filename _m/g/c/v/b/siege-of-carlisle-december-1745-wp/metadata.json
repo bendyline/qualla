@@ -87,7 +87,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "siege-of-carlisle-december-1745-wp",
-      "sourceGeohash4": "gcvb"
+      "sourceGeohash4": "gcvb",
+      "smallPath": "_m/g/c/v/b/siege-of-carlisle-december-1745-wp/my-photo-carlisle-own-small.webp"
     },
     {
       "filename": "Cannon at Berry Head.jpg",
@@ -117,7 +118,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "siege-of-carlisle-december-1745-wp",
-      "sourceGeohash4": "gcvb"
+      "sourceGeohash4": "gcvb",
+      "mediumPath": "_m/g/c/v/b/siege-of-carlisle-december-1745-wp/18-pounder-cannon-fort-medium.webp",
+      "smallPath": "_m/g/c/v/b/siege-of-carlisle-december-1745-wp/18-pounder-cannon-fort-small.webp"
     },
     {
       "filename": "Jacobite broadside - Squire Ketch in Horrors or The Sneering Apparitions.jpg",
@@ -148,12 +151,33 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "siege-of-carlisle-december-1745-wp",
-      "sourceGeohash4": "gcvb"
+      "sourceGeohash4": "gcvb",
+      "mediumPath": "_m/g/c/v/b/siege-of-carlisle-december-1745-wp/8-1-2x-9-1-2-coloured-medium.webp",
+      "smallPath": "_m/g/c/v/b/siege-of-carlisle-december-1745-wp/8-1-2x-9-1-2-coloured-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/v/b/siege-of-carlisle-december-1745-wp/my-photo-carlisle-own.jpg",
     "_m/g/c/v/b/siege-of-carlisle-december-1745-wp/18-pounder-cannon-fort.jpg",
     "_m/g/c/v/b/siege-of-carlisle-december-1745-wp/8-1-2x-9-1-2-coloured.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcvb-siege-of-carlisle-december-1745-flight-context.mp3",
+      "gcvb-siege-of-carlisle-december-1745-intro.mp3",
+      "gcvb-siege-of-carlisle-december-1745-the-long-retreat-from-derby.mp3",
+      "gcvb-siege-of-carlisle-december-1745-towneley-and-the-manchester-regiment.mp3",
+      "gcvb-siege-of-carlisle-december-1745-the-guns-arrive-from-whitehaven.mp3",
+      "gcvb-siege-of-carlisle-december-1745-kings-pleasure.mp3"
+    ],
+    "durations": {
+      "gcvb-siege-of-carlisle-december-1745-flight-context.mp3": 46.7084166,
+      "gcvb-siege-of-carlisle-december-1745-intro.mp3": 44.622875,
+      "gcvb-siege-of-carlisle-december-1745-the-long-retreat-from-derby.mp3": 59.4224166,
+      "gcvb-siege-of-carlisle-december-1745-towneley-and-the-manchester-regiment.mp3": 43.9569583,
+      "gcvb-siege-of-carlisle-december-1745-the-guns-arrive-from-whitehaven.mp3": 50.233375,
+      "gcvb-siege-of-carlisle-december-1745-kings-pleasure.mp3": 91.6010416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -23,7 +23,9 @@
           "License migration redundant",
           "Media lacking author information",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/g/c/8/g/blacksod-bay-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/8/g/blacksod-bay-wp/hero-small.webp"
       },
       "images": [
         {
@@ -46,7 +48,9 @@
             "PD-self",
             "Self-published work",
             "Taken with Fujifilm FinePix J50"
-          ]
+          ],
+          "mediumPath": "_m/g/c/8/g/blacksod-bay-wp/kiteboarding-claggan-b-medium.webp",
+          "smallPath": "_m/g/c/8/g/blacksod-bay-wp/kiteboarding-claggan-b-small.webp"
         },
         {
           "path": "_m/g/c/8/g/blacksod-bay-wp/relief-map-ireland-equ.png",
@@ -93,7 +97,9 @@
             "Large images",
             "Maps of County Mayo",
             "UK Government artistic works"
-          ]
+          ],
+          "mediumPath": "_m/g/c/8/g/blacksod-bay-wp/admiralty-chart-no-2419-downpa-medium.webp",
+          "smallPath": "_m/g/c/8/g/blacksod-bay-wp/admiralty-chart-no-2419-downpa-small.webp"
         },
         {
           "path": "_m/g/c/8/g/blacksod-bay-wp/sculpture-at-blacksod-point-ge.jpg",
@@ -114,7 +120,8 @@
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland",
             "Sculptures in County Mayo"
-          ]
+          ],
+          "smallPath": "_m/g/c/8/g/blacksod-bay-wp/sculpture-at-blacksod-point-ge-small.webp"
         },
         {
           "path": "_m/g/c/8/g/blacksod-bay-wp/blacksod-bay-geograph-org-uk-1.jpg",
@@ -134,7 +141,8 @@
             "Blacksod Bay",
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/8/g/blacksod-bay-wp/blacksod-bay-geograph-org-uk-1-small.webp"
         },
         {
           "path": "_m/g/c/8/g/blacksod-bay-wp/at-blacksod-point-geograph-org.jpg",
@@ -155,7 +163,8 @@
             "CC-BY-SA-2.0",
             "County Mayo",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/8/g/blacksod-bay-wp/at-blacksod-point-geograph-org-small.webp"
         },
         {
           "path": "_m/g/c/8/g/blacksod-bay-wp/admiralty-chart-no-2704-approa.jpg",
@@ -180,7 +189,9 @@
             "Richard Brydges Beechey",
             "UK Government artistic works",
             "William Frederick Maxwell"
-          ]
+          ],
+          "mediumPath": "_m/g/c/8/g/blacksod-bay-wp/admiralty-chart-no-2704-approa-medium.webp",
+          "smallPath": "_m/g/c/8/g/blacksod-bay-wp/admiralty-chart-no-2704-approa-small.webp"
         },
         {
           "path": "_m/g/c/9/6/county-mayo-wp/ashford-castle.jpg",
@@ -350,7 +361,11 @@
         "_m/g/c/8/g/blacksod-bay-wp/gc8g-blacksod-bay-three-lighthouses.mp3",
         "_m/g/c/8/g/blacksod-bay-wp/gc8g-blacksod-bay-the-forecast-that-delayed-d-day.mp3",
         "_m/g/c/8/g/blacksod-bay-wp/gc8g-blacksod-bay-what-the-bay-holds-now.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/8/g/blacksod-bay-wp/gc8g-blacksod-bay-combined.mp3",
+      "combinedNarrationBytes": 3244336,
+      "combinedNarrationDuration": 266,
+      "combinedCover": "_m/g/c/8/g/blacksod-bay-wp/gc8g-blacksod-bay-combined-cover.jpg"
     }
   }
 }

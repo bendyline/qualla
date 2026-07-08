@@ -23,7 +23,9 @@
           "PD-self",
           "Photographs taken on 2005-01-01",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/g/c/h/y/court-farm-pembrey-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/h/y/court-farm-pembrey-wp/hero-small.webp"
       },
       "images": [
         {
@@ -44,7 +46,8 @@
             "CC-BY-SA-2.0",
             "Court Farm, Pembrey",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/h/y/court-farm-pembrey-wp/court-farm-pembrey-geograph-or-small.webp"
         },
         {
           "path": "_m/g/c/h/y/court-farm-pembrey-wp/the-barn-at-court-farm-pembrey.jpg",
@@ -64,7 +67,8 @@
             "CC-BY-SA-2.0",
             "Court Farm, Pembrey",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/h/y/court-farm-pembrey-wp/the-barn-at-court-farm-pembrey-small.webp"
         }
       ],
       "narration": [
@@ -75,7 +79,11 @@
         "_m/g/c/h/y/court-farm-pembrey-wp/gchy-court-farm-pembrey-the-embattled-barn.mp3",
         "_m/g/c/h/y/court-farm-pembrey-wp/gchy-court-farm-pembrey-the-long-argument-over-demolition.mp3",
         "_m/g/c/h/y/court-farm-pembrey-wp/gchy-court-farm-pembrey-reasonably-plumb-and-stable.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/h/y/court-farm-pembrey-wp/gchy-court-farm-pembrey-combined.mp3",
+      "combinedNarrationBytes": 4605051,
+      "combinedNarrationDuration": 372,
+      "combinedCover": "_m/g/c/h/y/court-farm-pembrey-wp/gchy-court-farm-pembrey-combined-cover.jpg"
     }
   }
 }

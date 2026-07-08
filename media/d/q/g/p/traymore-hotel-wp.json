@@ -28,7 +28,9 @@
           "RCA advertisements",
           "Template Unknown (author)",
           "Traymore Hotel"
-        ]
+        ],
+        "mediumPath": "_m/d/q/g/p/traymore-hotel-wp/hero-medium.webp",
+        "smallPath": "_m/d/q/g/p/traymore-hotel-wp/hero-small.webp"
       },
       "images": [
         {
@@ -58,7 +60,8 @@
             "Postcards published by Post Card Distributing Co.",
             "Template Unknown (author)",
             "Traymore Hotel"
-          ]
+          ],
+          "smallPath": "_m/d/q/g/p/traymore-hotel-wp/night-view-boardwalk-h-small.webp"
         },
         {
           "path": "_m/d/q/g/p/traymore-hotel-wp/glossy-postcard-rollin.png",
@@ -85,7 +88,8 @@
             "Postcards of boardwalks in New Jersey",
             "Template Unknown (author)",
             "Traymore Hotel"
-          ]
+          ],
+          "smallPath": "_m/d/q/g/p/traymore-hotel-wp/glossy-postcard-rollin-small.webp"
         },
         {
           "path": "_m/d/q/g/p/traymore-hotel-wp/decorations-in-the-hotel-traym.jpg",
@@ -100,7 +104,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Decorations_in_the_Hotel_Traymore,_Atlantic_City,_by_George_Matthews_Harding_(1).jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "traymore-hotel-wp",
-          "sourceGeohash4": "dqgp"
+          "sourceGeohash4": "dqgp",
+          "smallPath": "_m/d/q/g/p/traymore-hotel-wp/decorations-in-the-hotel-traym-small.webp"
         },
         {
           "path": "_m/d/q/g/p/traymore-hotel-wp/decorations-in-the-hotel-traym-1.jpg",
@@ -115,7 +120,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Decorations_in_the_Hotel_Traymore,_Atlantic_City,_by_George_Matthews_Harding_(2).jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "traymore-hotel-wp",
-          "sourceGeohash4": "dqgp"
+          "sourceGeohash4": "dqgp",
+          "smallPath": "_m/d/q/g/p/traymore-hotel-wp/decorations-in-the-hotel-traym-1-small.webp"
         }
       ],
       "narration": [
@@ -126,7 +132,11 @@
         "_m/d/q/g/p/traymore-hotel-wp/dqgp-traymore-hotel-england-general.mp3",
         "_m/d/q/g/p/traymore-hotel-wp/dqgp-traymore-hotel-decline-by-air-conditioning.mp3",
         "_m/d/q/g/p/traymore-hotel-wp/dqgp-traymore-hotel-the-largest-implosion.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/q/g/p/traymore-hotel-wp/dqgp-traymore-hotel-combined.mp3",
+      "combinedNarrationBytes": 5247482,
+      "combinedNarrationDuration": 431,
+      "combinedCover": "_m/d/q/g/p/traymore-hotel-wp/dqgp-traymore-hotel-combined-cover.jpg"
     }
   }
 }

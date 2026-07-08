@@ -25,7 +25,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "battle-of-rullion-green-wp",
-    "sourceGeohash4": "gcvt"
+    "sourceGeohash4": "gcvt",
+    "mediumPath": "_m/g/c/v/t/battle-of-rullion-green-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/v/t/battle-of-rullion-green-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "The Dalry Covenanter Sculpture, The Burning Bush (geograph 3884568).jpg",
@@ -55,5 +57,26 @@
     "sourceGeohash4": "gcvt"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcvt-battle-of-rullion-green-flight-context.mp3",
+      "gcvt-battle-of-rullion-green-intro.mp3",
+      "gcvt-battle-of-rullion-green-why-they-marched.mp3",
+      "gcvt-battle-of-rullion-green-the-march-to-edinburgh.mp3",
+      "gcvt-battle-of-rullion-green-the-afternoon.mp3",
+      "gcvt-battle-of-rullion-green-what-was-done-to-them.mp3",
+      "gcvt-battle-of-rullion-green-the-killing-time.mp3"
+    ],
+    "durations": {
+      "gcvt-battle-of-rullion-green-flight-context.mp3": 50.692375,
+      "gcvt-battle-of-rullion-green-intro.mp3": 46.422375,
+      "gcvt-battle-of-rullion-green-why-they-marched.mp3": 60.59425,
+      "gcvt-battle-of-rullion-green-the-march-to-edinburgh.mp3": 59.5004583,
+      "gcvt-battle-of-rullion-green-the-afternoon.mp3": 65.1864166,
+      "gcvt-battle-of-rullion-green-what-was-done-to-them.mp3": 70.231875,
+      "gcvt-battle-of-rullion-green-the-killing-time.mp3": 64.9138333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

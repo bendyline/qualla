@@ -25,7 +25,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "port-erin-lifeboat-station-wp",
-    "sourceGeohash4": "gcse"
+    "sourceGeohash4": "gcse",
+    "smallPath": "_m/g/c/s/e/port-erin-lifeboat-station-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Port Erin Lifeboat Station - geograph.org.uk - 2385798.jpg",
@@ -80,7 +81,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "port-erin-lifeboat-station-wp",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "smallPath": "_m/g/c/s/e/port-erin-lifeboat-station-wp/the-lifeboat-station-at-port-e-small.webp"
     },
     {
       "filename": "\"New\" Port Erin Lifeboat Station (geograph 3935775).jpg",
@@ -105,7 +107,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "port-erin-lifeboat-station-wp",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "smallPath": "_m/g/c/s/e/port-erin-lifeboat-station-wp/new-port-erin-lifeboat-station-small.webp"
     },
     {
       "filename": "Port Erin lifeboat station - geograph.org.uk - 2740989.jpg",
@@ -127,7 +130,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "port-erin-lifeboat-station-wp",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "mediumPath": "_m/g/c/s/e/port-erin-lifeboat-station-wp/port-erin-lifeboat-station-geo-medium.webp",
+      "smallPath": "_m/g/c/s/e/port-erin-lifeboat-station-wp/port-erin-lifeboat-station-geo-small.webp"
     },
     {
       "filename": "Port Erin Lifeboat Station - geograph.org.uk - 4613199.jpg",
@@ -149,7 +154,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "port-erin-lifeboat-station-wp",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "smallPath": "_m/g/c/s/e/port-erin-lifeboat-station-wp/port-erin-lifeboat-station-geo-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -158,5 +164,24 @@
     "_m/g/c/s/e/port-erin-lifeboat-station-wp/port-erin-lifeboat-station-geo.jpg",
     "_m/g/c/s/e/port-erin-lifeboat-station-wp/port-erin-lifeboat-station-geo-1.jpg"
   ],
-  "updatedAt": "2026-06-22T11:40:31.897Z"
+  "updatedAt": "2026-06-22T11:40:31.897Z",
+  "narration": {
+    "files": [
+      "gcse-port-erin-lifeboat-station-flight-context.mp3",
+      "gcse-port-erin-lifeboat-station-intro.mp3",
+      "gcse-port-erin-lifeboat-station-the-first-boat-and-the-slipway-that-followed.mp3",
+      "gcse-port-erin-lifeboat-station-the-names-on-the-boats.mp3",
+      "gcse-port-erin-lifeboat-station-why-the-south-west-needs-a-lifeboat.mp3",
+      "gcse-port-erin-lifeboat-station-a-crew-in-a-small-village.mp3"
+    ],
+    "durations": {
+      "gcse-port-erin-lifeboat-station-flight-context.mp3": 45.2597916,
+      "gcse-port-erin-lifeboat-station-intro.mp3": 58.6349583,
+      "gcse-port-erin-lifeboat-station-the-first-boat-and-the-slipway-that-followed.mp3": 68.1762083,
+      "gcse-port-erin-lifeboat-station-the-names-on-the-boats.mp3": 65.66975,
+      "gcse-port-erin-lifeboat-station-why-the-south-west-needs-a-lifeboat.mp3": 58.355625,
+      "gcse-port-erin-lifeboat-station-a-crew-in-a-small-village.mp3": 46.858125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

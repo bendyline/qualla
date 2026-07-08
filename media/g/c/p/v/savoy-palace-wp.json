@@ -23,7 +23,8 @@
           "License migration completed",
           "Savoy Chapel (London)",
           "Self-published work"
-        ]
+        ],
+        "smallPath": "_m/g/c/p/v/savoy-palace-wp/hero-small.webp"
       },
       "narration": [
         "_m/g/c/p/v/savoy-palace-wp/gcpv-savoy-palace-flight-context.mp3",
@@ -33,7 +34,11 @@
         "_m/g/c/p/v/savoy-palace-wp/gcpv-savoy-palace-an-honourable-captivity.mp3",
         "_m/g/c/p/v/savoy-palace-wp/gcpv-savoy-palace-the-peasants-revolt.mp3",
         "_m/g/c/p/v/savoy-palace-wp/gcpv-savoy-palace-hospital-barracks-bridge-approach.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/p/v/savoy-palace-wp/gcpv-savoy-palace-combined.mp3",
+      "combinedNarrationBytes": 4583544,
+      "combinedNarrationDuration": 371,
+      "combinedCover": "_m/g/c/p/v/savoy-palace-wp/gcpv-savoy-palace-combined-cover.jpg"
     }
   }
 }

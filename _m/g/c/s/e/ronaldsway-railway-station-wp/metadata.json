@@ -73,7 +73,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "ronaldsway-railway-station-wp",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "mediumPath": "_m/g/c/s/e/ronaldsway-railway-station-wp/ronaldsway-halt-2008-s-medium.webp",
+      "smallPath": "_m/g/c/s/e/ronaldsway-railway-station-wp/ronaldsway-halt-2008-s-small.webp"
     },
     {
       "filename": "Ronaldsway Halt - geograph.org.uk - 3114375.jpg",
@@ -97,7 +99,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "ronaldsway-railway-station-wp",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "smallPath": "_m/g/c/s/e/ronaldsway-railway-station-wp/ronaldsway-halt-small.webp"
     },
     {
       "filename": "Ronaldsway Halt.png",
@@ -128,5 +131,26 @@
     "_m/g/c/s/e/ronaldsway-railway-station-wp/ronaldsway-halt.jpg",
     "_m/g/c/s/e/ronaldsway-railway-station-wp/ronaldsway-halt.png"
   ],
-  "updatedAt": "2026-06-22T11:52:18.418Z"
+  "updatedAt": "2026-06-22T11:52:18.418Z",
+  "narration": {
+    "files": [
+      "gcse-ronaldsway-railway-station-flight-context.mp3",
+      "gcse-ronaldsway-railway-station-intro.mp3",
+      "gcse-ronaldsway-railway-station-a-halt-made-for-air-travellers.mp3",
+      "gcse-ronaldsway-railway-station-the-field-of-the-battle.mp3",
+      "gcse-ronaldsway-railway-station-built-of-sleepers.mp3",
+      "gcse-ronaldsway-railway-station-names-and-the-seasons.mp3",
+      "gcse-ronaldsway-railway-station-walkers-and-quiet-days.mp3"
+    ],
+    "durations": {
+      "gcse-ronaldsway-railway-station-flight-context.mp3": 44.8937916,
+      "gcse-ronaldsway-railway-station-intro.mp3": 44.08875,
+      "gcse-ronaldsway-railway-station-a-halt-made-for-air-travellers.mp3": 58.6637916,
+      "gcse-ronaldsway-railway-station-the-field-of-the-battle.mp3": 66.52625,
+      "gcse-ronaldsway-railway-station-built-of-sleepers.mp3": 48.402375,
+      "gcse-ronaldsway-railway-station-names-and-the-seasons.mp3": 61.0690416,
+      "gcse-ronaldsway-railway-station-walkers-and-quiet-days.mp3": 46.06475
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

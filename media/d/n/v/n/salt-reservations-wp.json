@@ -26,7 +26,8 @@
           "PD-US missing SDC copyright status",
           "PD US",
           "Zanesville, Ohio"
-        ]
+        ],
+        "smallPath": "_m/d/n/v/n/salt-reservations-wp/hero-small.webp"
       },
       "images": [
         {
@@ -51,7 +52,8 @@
             "Ohio Lands",
             "PD US",
             "Salt Creek (Ohio)"
-          ]
+          ],
+          "smallPath": "_m/d/n/v/n/salt-reservations-wp/map-land-tract-ohio-as-small.webp"
         },
         {
           "path": "_m/d/n/v/n/salt-reservations-wp/map-land-tract-ohio-as-1.png",
@@ -73,7 +75,8 @@
             "Ohio Lands",
             "PD-US missing SDC copyright status",
             "PD US"
-          ]
+          ],
+          "smallPath": "_m/d/n/v/n/salt-reservations-wp/map-land-tract-ohio-as-1-small.webp"
         }
       ],
       "narration": [
@@ -83,7 +86,11 @@
         "_m/d/n/v/n/salt-reservations-wp/dnvn-salt-reservations-two-acts-of-1796.mp3",
         "_m/d/n/v/n/salt-reservations-wp/dnvn-salt-reservations-handed-to-ohio.mp3",
         "_m/d/n/v/n/salt-reservations-wp/dnvn-salt-reservations-the-town-of-jackson.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/n/v/n/salt-reservations-wp/dnvn-salt-reservations-combined.mp3",
+      "combinedNarrationBytes": 3332204,
+      "combinedNarrationDuration": 270,
+      "combinedCover": "_m/d/n/v/n/salt-reservations-wp/dnvn-salt-reservations-combined-cover.jpg"
     }
   }
 }

@@ -24,7 +24,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "diocese-of-lincoln-wp",
-    "sourceGeohash4": "gcrw"
+    "sourceGeohash4": "gcrw",
+    "smallPath": "_m/g/c/r/w/diocese-of-lincoln-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Lincoln Deaneries.png",
@@ -73,11 +74,34 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "diocese-of-lincoln-wp",
-      "sourceGeohash4": "gcrw"
+      "sourceGeohash4": "gcrw",
+      "mediumPath": "_m/g/c/r/w/diocese-of-lincoln-wp/ecclesiastical-england-at-the--medium.webp",
+      "smallPath": "_m/g/c/r/w/diocese-of-lincoln-wp/ecclesiastical-england-at-the--small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/r/w/diocese-of-lincoln-wp/ecclesiastical-england-at-the-.jpg"
   ],
-  "updatedAt": "2026-06-22T10:38:24.013Z"
+  "updatedAt": "2026-06-22T10:38:24.013Z",
+  "narration": {
+    "files": [
+      "gcrw-diocese-of-lincoln-flight-context.mp3",
+      "gcrw-diocese-of-lincoln-intro.mp3",
+      "gcrw-diocese-of-lincoln-roots-in-a-saxon-bishopric.mp3",
+      "gcrw-diocese-of-lincoln-the-long-reach-to-the-thames.mp3",
+      "gcrw-diocese-of-lincoln-the-slow-subdivision.mp3",
+      "gcrw-diocese-of-lincoln-twenty-two-deaneries.mp3",
+      "gcrw-diocese-of-lincoln-what-remains-what-survives.mp3"
+    ],
+    "durations": {
+      "gcrw-diocese-of-lincoln-flight-context.mp3": 84.0645833,
+      "gcrw-diocese-of-lincoln-intro.mp3": 61.8999166,
+      "gcrw-diocese-of-lincoln-roots-in-a-saxon-bishopric.mp3": 69.9342916,
+      "gcrw-diocese-of-lincoln-the-long-reach-to-the-thames.mp3": 69.0974583,
+      "gcrw-diocese-of-lincoln-the-slow-subdivision.mp3": 79.075125,
+      "gcrw-diocese-of-lincoln-twenty-two-deaneries.mp3": 78.9387916,
+      "gcrw-diocese-of-lincoln-what-remains-what-survives.mp3": 64.482125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

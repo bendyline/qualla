@@ -26,7 +26,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "campbeltown-wp",
-      "sourceGeohash4": "gcu5"
+      "sourceGeohash4": "gcu5",
+      "mediumPath": "_m/g/c/u/5/campbeltown-wp/campbeltown-banner-davaar-isla-medium.webp",
+      "smallPath": "_m/g/c/u/5/campbeltown-wp/campbeltown-banner-davaar-isla-small.webp"
     },
     {
       "filename": "Cave Painting on Davaar Island - geograph.org.uk - 1807479.jpg",
@@ -48,7 +50,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "campbeltown-wp",
-      "sourceGeohash4": "gcu5"
+      "sourceGeohash4": "gcu5",
+      "mediumPath": "_m/g/c/u/5/campbeltown-wp/cave-painting-on-davaar-island-medium.webp",
+      "smallPath": "_m/g/c/u/5/campbeltown-wp/cave-painting-on-davaar-island-small.webp"
     },
     {
       "filename": "Mull Of Kintyre Lighthouse - geograph.org.uk - 3042242.jpg",
@@ -73,7 +77,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "campbeltown-wp",
-      "sourceGeohash4": "gcu5"
+      "sourceGeohash4": "gcu5",
+      "mediumPath": "_m/g/c/u/5/campbeltown-wp/mull-of-kintyre-lighthouse-geo-medium.webp",
+      "smallPath": "_m/g/c/u/5/campbeltown-wp/mull-of-kintyre-lighthouse-geo-small.webp"
     }
   ],
   "galleryPaths": [
@@ -81,5 +87,26 @@
     "_m/g/c/u/5/campbeltown-wp/cave-painting-on-davaar-island.jpg",
     "_m/g/c/u/5/campbeltown-wp/mull-of-kintyre-lighthouse-geo.jpg"
   ],
-  "updatedAt": "2026-06-20T16:44:48.510Z"
+  "updatedAt": "2026-06-20T16:44:48.510Z",
+  "narration": {
+    "files": [
+      "gcu5-campbeltown-flight-context.mp3",
+      "gcu5-campbeltown-intro.mp3",
+      "gcu5-campbeltown-from-kinlochkilkerran-to-campbells-town.mp3",
+      "gcu5-campbeltown-the-distilleries-that-survived.mp3",
+      "gcu5-campbeltown-paul-mccartneys-farm.mp3",
+      "gcu5-campbeltown-other-local-lives.mp3",
+      "gcu5-campbeltown-westernmost-town.mp3"
+    ],
+    "durations": {
+      "gcu5-campbeltown-flight-context.mp3": 59.424375,
+      "gcu5-campbeltown-intro.mp3": 49.0541666,
+      "gcu5-campbeltown-from-kinlochkilkerran-to-campbells-town.mp3": 64.979625,
+      "gcu5-campbeltown-the-distilleries-that-survived.mp3": 53.842,
+      "gcu5-campbeltown-paul-mccartneys-farm.mp3": 51.1273333,
+      "gcu5-campbeltown-other-local-lives.mp3": 53.6025833,
+      "gcu5-campbeltown-westernmost-town.mp3": 62.0885833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

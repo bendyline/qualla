@@ -321,7 +321,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_Tower_(Tower_of_London).jpg",
           "sourceType": "core",
           "sourceArticleId": "tower-of-london-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/g/c/p/v/tower-of-london-wp/white-tower-tower-lond-1-medium.webp",
+          "smallPath": "_m/g/c/p/v/tower-of-london-wp/white-tower-tower-lond-1-small.webp"
         },
         {
           "path": "_m/g/c/p/v/tower-of-london-wp/king-s-house-tower-gre.jpg",
@@ -336,7 +338,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:King%27s_House_and_Tower_Green,_Tower_of_London.jpg",
           "sourceType": "core",
           "sourceArticleId": "tower-of-london-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/g/c/p/v/tower-of-london-wp/king-s-house-tower-gre-medium.webp",
+          "smallPath": "_m/g/c/p/v/tower-of-london-wp/king-s-house-tower-gre-small.webp"
         },
         {
           "path": "_m/g/c/p/v/tower-of-london-wp/007sfec-tower-of-london-200705.jpg",
@@ -538,7 +542,8 @@
             "CC-PD-Mark",
             "L’Homme et la Terre Tome 4",
             "Tower of London"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/tower-of-london-wp/d491-prison-de-la-princesse-el-small.webp"
         },
         {
           "path": "_m/g/c/p/v/tower-of-london-wp/city-at-night-12990993645.jpg",
@@ -691,7 +696,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Courtyard,_Tower_of_London_-_geograph.org.uk_-_2675938.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "tower-of-london-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "smallPath": "_m/g/c/p/v/tower-of-london-wp/courtyard-tower-of-london-geog-small.webp"
         },
         {
           "path": "_m/g/c/p/v/tower-of-london-wp/chapel-inside-tower-of-london-.jpg",
@@ -1984,7 +1990,11 @@
         "_m/g/c/p/v/tower-of-london-wp/gcpv-tower-of-london-prisoners.mp3",
         "_m/g/c/p/v/tower-of-london-wp/gcpv-tower-of-london-restoration-and-survival.mp3",
         "_m/g/c/p/v/tower-of-london-wp/gcpv-tower-of-london-the-yeomen-and-the-ravens.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/p/v/tower-of-london-wp/gcpv-tower-of-london-combined.mp3",
+      "combinedNarrationBytes": 4935643,
+      "combinedNarrationDuration": 402,
+      "combinedCover": "_m/g/c/p/v/tower-of-london-wp/gcpv-tower-of-london-combined-cover.jpg"
     }
   }
 }

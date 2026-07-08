@@ -23,7 +23,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "windscale-piles-wp",
-    "sourceGeohash4": "gctt"
+    "sourceGeohash4": "gctt",
+    "smallPath": "_m/g/c/t/t/windscale-piles-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "HD.15.003 (11824034284) (right crop).jpg",
@@ -73,7 +74,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "windscale-piles-wp",
-      "sourceGeohash4": "gctt"
+      "sourceGeohash4": "gctt",
+      "smallPath": "_m/g/c/t/t/windscale-piles-wp/windscale-reactor-small.webp"
     },
     {
       "filename": "HD.15.003 (11824034284).jpg",
@@ -124,7 +126,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "windscale-piles-wp",
-      "sourceGeohash4": "gctt"
+      "sourceGeohash4": "gctt",
+      "mediumPath": "_m/g/c/t/t/windscale-piles-wp/sellafield-calder-hall-power-s-medium.webp",
+      "smallPath": "_m/g/c/t/t/windscale-piles-wp/sellafield-calder-hall-power-s-small.webp"
     }
   ],
   "galleryPaths": [
@@ -132,5 +136,26 @@
     "_m/g/c/t/t/sellafield-wp/calder-hall-world-s-fi.jpg",
     "_m/g/c/t/t/windscale-piles-wp/sellafield-calder-hall-power-s.jpg"
   ],
-  "updatedAt": "2026-06-22T17:17:26.368Z"
+  "updatedAt": "2026-06-22T17:17:26.368Z",
+  "narration": {
+    "files": [
+      "gctt-windscale-piles-flight-context.mp3",
+      "gctt-windscale-piles-intro.mp3",
+      "gctt-windscale-piles-the-decision-to-build.mp3",
+      "gctt-windscale-piles-air-not-water.mp3",
+      "gctt-windscale-piles-cockcrofts-folly.mp3",
+      "gctt-windscale-piles-operations-and-tritium.mp3",
+      "gctt-windscale-piles-what-remains.mp3"
+    ],
+    "durations": {
+      "gctt-windscale-piles-flight-context.mp3": 50.7410416,
+      "gctt-windscale-piles-intro.mp3": 60.370625,
+      "gctt-windscale-piles-the-decision-to-build.mp3": 71.7137916,
+      "gctt-windscale-piles-air-not-water.mp3": 77.6258333,
+      "gctt-windscale-piles-cockcrofts-folly.mp3": 76.018375,
+      "gctt-windscale-piles-operations-and-tritium.mp3": 99.283125,
+      "gctt-windscale-piles-what-remains.mp3": 91.5131666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

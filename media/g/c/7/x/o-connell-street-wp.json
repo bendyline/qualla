@@ -15,7 +15,9 @@
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Postcard_scan_OConnell_Br_and_Street_(Sackville_St)_Dublin,_early_20th_century.jpg",
         "sourceType": "core",
         "sourceArticleId": "o-connell-street-wp",
-        "sourceGeohash4": "gc7x"
+        "sourceGeohash4": "gc7x",
+        "mediumPath": "_m/g/c/7/x/o-connell-street-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/7/x/o-connell-street-wp/hero-small.webp"
       },
       "images": [
         {
@@ -40,7 +42,8 @@
             "O'Connell Street, Dublin",
             "Oliver Grace (architect)",
             "PD US expired"
-          ]
+          ],
+          "smallPath": "_m/g/c/7/x/o-connell-street-wp/perspective-view-sackv-small.webp"
         },
         {
           "path": "_m/g/c/7/x/o-connell-street-wp/engraving-sackville-st.jpg",
@@ -82,7 +85,9 @@
           "categories": [
             "CC-BY-SA-4.0",
             "Files with coordinates missing SDC location of creation"
-          ]
+          ],
+          "mediumPath": "_m/g/c/7/x/o-connell-street-wp/front-view-eden-quay-t-medium.webp",
+          "smallPath": "_m/g/c/7/x/o-connell-street-wp/front-view-eden-quay-t-small.webp"
         },
         {
           "path": "_m/g/c/7/x/o-connell-street-wp/o-connell-street-dubli.jpg",
@@ -97,7 +102,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:O%27Connell_Street.jpg",
           "sourceType": "core",
           "sourceArticleId": "o-connell-street-wp",
-          "sourceGeohash4": "gc7x"
+          "sourceGeohash4": "gc7x",
+          "mediumPath": "_m/g/c/7/x/o-connell-street-wp/o-connell-street-dubli-medium.webp",
+          "smallPath": "_m/g/c/7/x/o-connell-street-wp/o-connell-street-dubli-small.webp"
         },
         {
           "path": "_m/g/c/7/x/o-connell-street-wp/wolf-of-o-connell-street.jpg",
@@ -119,7 +126,9 @@
             "O'Connell Street",
             "Self-published work",
             "Wolf (given name)"
-          ]
+          ],
+          "mediumPath": "_m/g/c/7/x/o-connell-street-wp/wolf-of-o-connell-street-medium.webp",
+          "smallPath": "_m/g/c/7/x/o-connell-street-wp/wolf-of-o-connell-street-small.webp"
         }
       ],
       "narration": [
@@ -130,7 +139,11 @@
         "_m/g/c/7/x/o-connell-street-wp/gc7x-oconnell-street-lockout-rising-civil-war.mp3",
         "_m/g/c/7/x/o-connell-street-wp/gc7x-oconnell-street-the-spire.mp3",
         "_m/g/c/7/x/o-connell-street-wp/gc7x-oconnell-street-the-twenty-first-century-street.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/7/x/o-connell-street-wp/gc7x-o-connell-street-combined.mp3",
+      "combinedNarrationBytes": 5202762,
+      "combinedNarrationDuration": 425,
+      "combinedCover": "_m/g/c/7/x/o-connell-street-wp/gc7x-o-connell-street-combined-cover.jpg"
     }
   }
 }

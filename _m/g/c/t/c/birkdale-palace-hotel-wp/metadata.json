@@ -26,7 +26,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "birkdale-palace-hotel-wp",
-    "sourceGeohash4": "gctc"
+    "sourceGeohash4": "gctc",
+    "mediumPath": "_m/g/c/t/c/birkdale-palace-hotel-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/t/c/birkdale-palace-hotel-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Fishermens Rest Pub Birkdale Southport.jpg",
@@ -80,10 +82,32 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "birkdale-palace-hotel-wp",
-      "sourceGeohash4": "gctc"
+      "sourceGeohash4": "gctc",
+      "smallPath": "_m/g/c/t/c/birkdale-palace-hotel-wp/image-taken-page-8-sum-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/t/c/birkdale-palace-hotel-wp/image-taken-page-8-sum.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gctc-birkdale-palace-hotel-flight-context.mp3",
+      "gctc-birkdale-palace-hotel-intro.mp3",
+      "gctc-birkdale-palace-hotel-the-architect-who-did-not-jump.mp3",
+      "gctc-birkdale-palace-hotel-hydropathy-sea-water-and-stars.mp3",
+      "gctc-birkdale-palace-hotel-bomber-crews-on-leave.mp3",
+      "gctc-birkdale-palace-hotel-fourteen-lifeboatmen.mp3",
+      "gctc-birkdale-palace-hotel-demolition-and-the-lift-that-would-not-stop.mp3"
+    ],
+    "durations": {
+      "gctc-birkdale-palace-hotel-flight-context.mp3": 48.0625833,
+      "gctc-birkdale-palace-hotel-intro.mp3": 58.968625,
+      "gctc-birkdale-palace-hotel-the-architect-who-did-not-jump.mp3": 51.39575,
+      "gctc-birkdale-palace-hotel-hydropathy-sea-water-and-stars.mp3": 60.8424166,
+      "gctc-birkdale-palace-hotel-bomber-crews-on-leave.mp3": 54.99125,
+      "gctc-birkdale-palace-hotel-fourteen-lifeboatmen.mp3": 61.5600416,
+      "gctc-birkdale-palace-hotel-demolition-and-the-lift-that-would-not-stop.mp3": 79.10775
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

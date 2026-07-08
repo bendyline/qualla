@@ -65,7 +65,8 @@
             "Alauna (Maryport)",
             "CC-Zero",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/x/alauna-maryport-wp/bs-alauna-carvetiorum-small.webp"
         },
         {
           "path": "_m/g/c/t/x/alauna-maryport-wp/chri-ro-stein-maryport.png",
@@ -86,7 +87,8 @@
             "CC-PD-Mark",
             "PD-old missing SDC copyright status",
             "PD Old"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/x/alauna-maryport-wp/chri-ro-stein-maryport-small.webp"
         },
         {
           "path": "_m/g/c/t/x/alauna-maryport-wp/bauinschrift-legio-ii-maryport.png",
@@ -108,7 +110,8 @@
             "PD-old missing SDC copyright status",
             "PD Old",
             "Template Unknown (author)"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/x/alauna-maryport-wp/bauinschrift-legio-ii-maryport-small.webp"
         },
         {
           "path": "_m/g/c/t/x/alauna-maryport-wp/befundskizze-mithraum-maryport.png",
@@ -128,7 +131,8 @@
             "Alauna (Maryport)",
             "CC-Zero",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/x/alauna-maryport-wp/befundskizze-mithraum-maryport-small.webp"
         },
         {
           "path": "_m/g/c/t/x/alauna-maryport-wp/senhouse-museum-maryport-uk-38.jpg",
@@ -151,7 +155,9 @@
             "Photographs by Carole Raddato",
             "Senhouse Museum",
             "United Kingdom photographs taken on 2017-07-05"
-          ]
+          ],
+          "mediumPath": "_m/g/c/t/x/alauna-maryport-wp/senhouse-museum-maryport-uk-38-medium.webp",
+          "smallPath": "_m/g/c/t/x/alauna-maryport-wp/senhouse-museum-maryport-uk-38-small.webp"
         },
         {
           "path": "_m/g/c/t/x/alauna-maryport-wp/senhouse-museum-maryport-uk-25.jpg",
@@ -175,7 +181,9 @@
             "Senhouse Museum",
             "United Kingdom photographs taken on 2017-07-05",
             "Viewpoints in Cumbria"
-          ]
+          ],
+          "mediumPath": "_m/g/c/t/x/alauna-maryport-wp/senhouse-museum-maryport-uk-25-medium.webp",
+          "smallPath": "_m/g/c/t/x/alauna-maryport-wp/senhouse-museum-maryport-uk-25-small.webp"
         },
         {
           "path": "_m/g/c/t/x/alauna-maryport-wp/maryport-alavna-roman-fort-geo.jpg",
@@ -195,7 +203,9 @@
             "Alauna (Maryport)",
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "mediumPath": "_m/g/c/t/x/alauna-maryport-wp/maryport-alavna-roman-fort-geo-medium.webp",
+          "smallPath": "_m/g/c/t/x/alauna-maryport-wp/maryport-alavna-roman-fort-geo-small.webp"
         },
         {
           "path": "_m/g/c/t/x/alauna-maryport-wp/maryport-alavna-roman-fort-geo-1.jpg",
@@ -215,9 +225,24 @@
             "Alauna (Maryport)",
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "mediumPath": "_m/g/c/t/x/alauna-maryport-wp/maryport-alavna-roman-fort-geo-1-medium.webp",
+          "smallPath": "_m/g/c/t/x/alauna-maryport-wp/maryport-alavna-roman-fort-geo-1-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/t/x/alauna-maryport-wp/gctx-alauna-maryport-flight-context.mp3",
+        "_m/g/c/t/x/alauna-maryport-wp/gctx-alauna-maryport-intro.mp3",
+        "_m/g/c/t/x/alauna-maryport-wp/gctx-alauna-maryport-a-name-from-a-single-source.mp3",
+        "_m/g/c/t/x/alauna-maryport-wp/gctx-alauna-maryport-reading-the-ground.mp3",
+        "_m/g/c/t/x/alauna-maryport-wp/gctx-alauna-maryport-voices-in-stone.mp3",
+        "_m/g/c/t/x/alauna-maryport-wp/gctx-alauna-maryport-why-the-altars-were-buried.mp3",
+        "_m/g/c/t/x/alauna-maryport-wp/gctx-alauna-maryport-the-senhouse-collection.mp3"
+      ],
+      "combinedNarration": "_m/g/c/t/x/alauna-maryport-wp/gctx-alauna-maryport-combined.mp3",
+      "combinedNarrationBytes": 3773021,
+      "combinedNarrationDuration": 307,
+      "combinedCover": "_m/g/c/t/x/alauna-maryport-wp/gctx-alauna-maryport-combined-cover.jpg"
     }
   }
 }

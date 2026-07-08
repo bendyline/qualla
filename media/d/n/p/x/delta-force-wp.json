@@ -21,7 +21,9 @@
           "Files with coordinates missing SDC location of creation",
           "Raeford, North Carolina",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/d/n/p/x/delta-force-wp/hero-medium.webp",
+        "smallPath": "_m/d/n/p/x/delta-force-wp/hero-small.webp"
       },
       "images": [
         {
@@ -50,7 +52,8 @@
             "Saddam Hussein in 2003",
             "Spider hole",
             "Template Unknown (author)"
-          ]
+          ],
+          "smallPath": "_m/d/n/p/x/delta-force-wp/saddamspiderhole-small.webp"
         },
         {
           "path": "_m/d/n/p/x/delta-force-wp/retired-delta-operator.jpg",
@@ -65,7 +68,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Retired_Delta_Operator.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "delta-force-wp",
-          "sourceGeohash4": "dnpx"
+          "sourceGeohash4": "dnpx",
+          "smallPath": "_m/d/n/p/x/delta-force-wp/retired-delta-operator-small.webp"
         },
         {
           "path": "_m/d/n/p/x/delta-force-wp/taking-aim.jpg",
@@ -80,7 +84,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taking_Aim.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "delta-force-wp",
-          "sourceGeohash4": "dnpx"
+          "sourceGeohash4": "dnpx",
+          "smallPath": "_m/d/n/p/x/delta-force-wp/taking-aim-small.webp"
         },
         {
           "path": "_m/d/n/p/x/delta-force-wp/1st-sfod-d-insignia.jpg",
@@ -95,7 +100,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:1st_SFOD-D_insignia.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "delta-force-wp",
-          "sourceGeohash4": "dnpx"
+          "sourceGeohash4": "dnpx",
+          "mediumPath": "_m/d/n/p/x/delta-force-wp/1st-sfod-d-insignia-medium.webp",
+          "smallPath": "_m/d/n/p/x/delta-force-wp/1st-sfod-d-insignia-small.webp"
         },
         {
           "path": "_m/d/n/p/x/delta-force-wp/delta-force-observers-at-waco.jpg",
@@ -140,7 +147,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:CAG_Operator_with_their_K9.webp",
           "sourceType": "commons-category",
           "sourceArticleId": "delta-force-wp",
-          "sourceGeohash4": "dnpx"
+          "sourceGeohash4": "dnpx",
+          "smallPath": "_m/d/n/p/x/delta-force-wp/cag-operator-with-their-k9-small.webp"
         }
       ],
       "narration": [
@@ -150,7 +158,11 @@
         "_m/d/n/p/x/delta-force-wp/dnpx-delta-force-desert-one.mp3",
         "_m/d/n/p/x/delta-force-wp/dnpx-delta-force-mogadishu-october-1993.mp3",
         "_m/d/n/p/x/delta-force-wp/dnpx-delta-force-what-the-unit-is-and-isnt.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/n/p/x/delta-force-wp/dnpx-delta-force-combined.mp3",
+      "combinedNarrationBytes": 4225233,
+      "combinedNarrationDuration": 345,
+      "combinedCover": "_m/d/n/p/x/delta-force-wp/dnpx-delta-force-combined-cover.jpg"
     }
   }
 }

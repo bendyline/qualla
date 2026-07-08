@@ -23,7 +23,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "murder-of-james-bulger-wp",
-    "sourceGeohash4": "gctb"
+    "sourceGeohash4": "gctb",
+    "mediumPath": "_m/g/c/t/b/murder-of-james-bulger-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/t/b/murder-of-james-bulger-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Red Bank youth detention centre.jpg",
@@ -81,5 +83,28 @@
   ],
   "galleryPaths": [
     "_m/9/t/s/p/las-cruces-bowling-alley-massacre-wp/hero.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gctb-murder-of-james-bulger-flight-context.mp3",
+      "gctb-murder-of-james-bulger-intro.mp3",
+      "gctb-murder-of-james-bulger-a-boy-from-kirkby.mp3",
+      "gctb-murder-of-james-bulger-12-february-1993.mp3",
+      "gctb-murder-of-james-bulger-the-two-days-after.mp3",
+      "gctb-murder-of-james-bulger-trial-and-aftermath.mp3",
+      "gctb-murder-of-james-bulger-what-jamess-family-carries.mp3",
+      "gctb-murder-of-james-bulger-flight-context-2.mp3"
+    ],
+    "durations": {
+      "gctb-murder-of-james-bulger-flight-context.mp3": 35.0079583,
+      "gctb-murder-of-james-bulger-intro.mp3": 44.3750833,
+      "gctb-murder-of-james-bulger-a-boy-from-kirkby.mp3": 47.113,
+      "gctb-murder-of-james-bulger-12-february-1993.mp3": 41.3277083,
+      "gctb-murder-of-james-bulger-the-two-days-after.mp3": 56.63725,
+      "gctb-murder-of-james-bulger-trial-and-aftermath.mp3": 66.3859166,
+      "gctb-murder-of-james-bulger-what-jamess-family-carries.mp3": 61.7465833,
+      "gctb-murder-of-james-bulger-flight-context-2.mp3": 47.4516666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

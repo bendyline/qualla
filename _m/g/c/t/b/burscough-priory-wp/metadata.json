@@ -23,7 +23,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "burscough-priory-wp",
-    "sourceGeohash4": "gctb"
+    "sourceGeohash4": "gctb",
+    "mediumPath": "_m/g/c/t/b/burscough-priory-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/t/b/burscough-priory-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Burscough Priory, August 2014.jpg",
@@ -73,7 +75,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "burscough-priory-wp",
-      "sourceGeohash4": "gctb"
+      "sourceGeohash4": "gctb",
+      "mediumPath": "_m/g/c/t/b/burscough-priory-wp/ruins-of-burscough-priory-medium.webp",
+      "smallPath": "_m/g/c/t/b/burscough-priory-wp/ruins-of-burscough-priory-small.webp"
     },
     {
       "filename": "Burscough Priory.jpg",
@@ -98,12 +102,32 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "burscough-priory-wp",
-      "sourceGeohash4": "gctb"
+      "sourceGeohash4": "gctb",
+      "smallPath": "_m/g/c/t/b/burscough-priory-wp/burscough-priory-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/t/b/burscough-priory-wp/ruins-of-burscough-priory.jpg",
     "_m/g/c/t/b/burscough-priory-wp/burscough-priory.jpg"
   ],
-  "updatedAt": "2026-06-22T15:00:13.261Z"
+  "updatedAt": "2026-06-22T15:00:13.261Z",
+  "narration": {
+    "files": [
+      "gctb-burscough-priory-flight-context.mp3",
+      "gctb-burscough-priory-intro.mp3",
+      "gctb-burscough-priory-founded-by-a-lord-endowed-generously.mp3",
+      "gctb-burscough-priory-the-stanleys-buried-here.mp3",
+      "gctb-burscough-priory-eight-bells-and-a-tudor-visit.mp3",
+      "gctb-burscough-priory-what-an-1886-survey-recorded.mp3"
+    ],
+    "durations": {
+      "gctb-burscough-priory-flight-context.mp3": 46.4517916,
+      "gctb-burscough-priory-intro.mp3": 34.2813333,
+      "gctb-burscough-priory-founded-by-a-lord-endowed-generously.mp3": 50.9290833,
+      "gctb-burscough-priory-the-stanleys-buried-here.mp3": 64.3299166,
+      "gctb-burscough-priory-eight-bells-and-a-tudor-visit.mp3": 57.0468333,
+      "gctb-burscough-priory-what-an-1886-survey-recorded.mp3": 74.516375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

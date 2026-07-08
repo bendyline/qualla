@@ -21,7 +21,9 @@
           "Camera obscuras in Scotland",
           "Dumfries Museum",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/g/c/v/3/dumfries-museum-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/v/3/dumfries-museum-wp/hero-small.webp"
       },
       "images": [
         {
@@ -44,7 +46,9 @@
             "Illuminated buildings in Scotland",
             "Illuminated windmills in the United Kingdom",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/v/3/dumfries-museum-wp/dumfries-museum-windmill-tower-medium.webp",
+          "smallPath": "_m/g/c/v/3/dumfries-museum-wp/dumfries-museum-windmill-tower-small.webp"
         },
         {
           "path": "_m/g/c/v/3/dumfries-museum-wp/dumfries-museum-old-windmill-t.jpg",
@@ -67,7 +71,9 @@
             "Images by Roger Griffith",
             "Self-published work",
             "Windmills in Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/c/v/3/dumfries-museum-wp/dumfries-museum-old-windmill-t-medium.webp",
+          "smallPath": "_m/g/c/v/3/dumfries-museum-wp/dumfries-museum-old-windmill-t-small.webp"
         },
         {
           "path": "_m/g/c/v/3/dumfries-museum-wp/dumfries-museum-old-cannon-dum.jpg",
@@ -88,7 +94,9 @@
             "Dumfries Museum",
             "Images by Roger Griffith",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/v/3/dumfries-museum-wp/dumfries-museum-old-cannon-dum-medium.webp",
+          "smallPath": "_m/g/c/v/3/dumfries-museum-wp/dumfries-museum-old-cannon-dum-small.webp"
         },
         {
           "path": "_m/g/c/v/3/dumfries-museum-wp/entrance-to-the-museum-from-pr.jpg",
@@ -108,7 +116,8 @@
             "CC-BY-SA-2.0",
             "Dumfries Museum",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/3/dumfries-museum-wp/entrance-to-the-museum-from-pr-small.webp"
         },
         {
           "path": "_m/g/c/v/3/dumfries-museum-wp/dumfries-museum-geograph-org-u.jpg",
@@ -128,7 +137,8 @@
             "CC-BY-SA-2.0",
             "Dumfries Museum",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/3/dumfries-museum-wp/dumfries-museum-geograph-org-u-small.webp"
         },
         {
           "path": "_m/g/c/v/3/dumfries-museum-wp/dumfries-from-the-museum-geogr.jpg",
@@ -148,7 +158,8 @@
             "CC-BY-SA-2.0",
             "Dumfries Museum",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/3/dumfries-museum-wp/dumfries-from-the-museum-geogr-small.webp"
         },
         {
           "path": "_m/g/c/v/2/caerlaverock-castle-wp/caerlaverock-castle.jpg",
@@ -392,7 +403,20 @@
           "sourceArticleId": "wigtownshire-wp",
           "sourceGeohash4": "gcv3"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/v/3/dumfries-museum-wp/gcv3-dumfries-museum-flight-context.mp3",
+        "_m/g/c/v/3/dumfries-museum-wp/gcv3-dumfries-museum-intro.mp3",
+        "_m/g/c/v/3/dumfries-museum-wp/gcv3-dumfries-museum-a-windmill-that-missed-halleys-comet.mp3",
+        "_m/g/c/v/3/dumfries-museum-wp/gcv3-dumfries-museum-the-main-hall.mp3",
+        "_m/g/c/v/3/dumfries-museum-wp/gcv3-dumfries-museum-the-cast-of-a-king.mp3",
+        "_m/g/c/v/3/dumfries-museum-wp/gcv3-dumfries-museum-fossil-footprints-and-a-refugees-lens.mp3",
+        "_m/g/c/v/3/dumfries-museum-wp/gcv3-dumfries-museum-how-the-light-gets-in.mp3"
+      ],
+      "combinedNarration": "_m/g/c/v/3/dumfries-museum-wp/gcv3-dumfries-museum-combined.mp3",
+      "combinedNarrationBytes": 4036322,
+      "combinedNarrationDuration": 333,
+      "combinedCover": "_m/g/c/v/3/dumfries-museum-wp/gcv3-dumfries-museum-combined-cover.jpg"
     }
   }
 }

@@ -25,7 +25,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "national-sports-centre-isle-of-man-wp",
-    "sourceGeohash4": "gcsu"
+    "sourceGeohash4": "gcsu",
+    "smallPath": "_m/g/c/s/u/national-sports-centre-isle-of-man-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "The National Sports Centre (geograph 3710042).jpg",
@@ -55,5 +56,24 @@
     "sourceGeohash4": "gcsu"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcsu-national-sports-centre-isle-of-man-flight-context.mp3",
+      "gcsu-national-sports-centre-isle-of-man-intro.mp3",
+      "gcsu-national-sports-centre-isle-of-man-from-park-to-national-venue.mp3",
+      "gcsu-national-sports-centre-isle-of-man-youth-games-and-a-commonwealth-stage.mp3",
+      "gcsu-national-sports-centre-isle-of-man-fire-flood-and-a-pool-that-came-back.mp3",
+      "gcsu-national-sports-centre-isle-of-man-whats-inside.mp3"
+    ],
+    "durations": {
+      "gcsu-national-sports-centre-isle-of-man-flight-context.mp3": 42.4258333,
+      "gcsu-national-sports-centre-isle-of-man-intro.mp3": 38.4767916,
+      "gcsu-national-sports-centre-isle-of-man-from-park-to-national-venue.mp3": 59.0502916,
+      "gcsu-national-sports-centre-isle-of-man-youth-games-and-a-commonwealth-stage.mp3": 52.05325,
+      "gcsu-national-sports-centre-isle-of-man-fire-flood-and-a-pool-that-came-back.mp3": 53.7292916,
+      "gcsu-national-sports-centre-isle-of-man-whats-inside.mp3": 66.322875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -21,7 +21,9 @@
           "Liverpool Castle",
           "PD-old-70-expired",
           "PD-old missing SDC copyright status"
-        ]
+        ],
+        "mediumPath": "_m/g/c/m/z/liverpool-castle-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/m/z/liverpool-castle-wp/hero-small.webp"
       },
       "images": [
         {
@@ -44,7 +46,8 @@
             "Plaques in Liverpool",
             "Self-published work",
             "Taken with Canon PowerShot A40"
-          ]
+          ],
+          "smallPath": "_m/g/c/m/z/liverpool-castle-wp/castle-liverpool-plaque-small.webp"
         },
         {
           "path": "_m/g/c/m/z/liverpool-wk/liverpool-pier-head.jpg",
@@ -1004,7 +1007,11 @@
         "_m/g/c/m/z/liverpool-castle-wp/gcmz-liverpool-castle-edward-prince-rupert-and-the-crows-nest.mp3",
         "_m/g/c/m/z/liverpool-castle-wp/gcmz-liverpool-castle-demolished-by-act-of-parliament.mp3",
         "_m/g/c/m/z/liverpool-castle-wp/gcmz-liverpool-castle-the-ghost-at-rivington.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/m/z/liverpool-castle-wp/gcmz-liverpool-castle-combined.mp3",
+      "combinedNarrationBytes": 5052723,
+      "combinedNarrationDuration": 414,
+      "combinedCover": "_m/g/c/m/z/liverpool-castle-wp/gcmz-liverpool-castle-combined-cover.jpg"
     }
   }
 }

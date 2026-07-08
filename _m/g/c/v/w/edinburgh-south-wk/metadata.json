@@ -26,7 +26,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "edinburgh-south-wk",
-    "sourceGeohash4": "gcvw"
+    "sourceGeohash4": "gcvw",
+    "mediumPath": "_m/g/c/v/w/edinburgh-south-wk/hero-medium.webp",
+    "smallPath": "_m/g/c/v/w/edinburgh-south-wk/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Pollock 1.jpg",
@@ -131,7 +133,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "edinburgh-south-wk",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "mediumPath": "_m/g/c/v/w/edinburgh-south-wk/summerhall-arts-hub-medium.webp",
+      "smallPath": "_m/g/c/v/w/edinburgh-south-wk/summerhall-arts-hub-small.webp"
     },
     {
       "filename": "Summer Crowd in the Meadows.JPG",
@@ -157,7 +161,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "edinburgh-south-wk",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "mediumPath": "_m/g/c/v/w/edinburgh-south-wk/summer-crowd-meadows-medium.webp",
+      "smallPath": "_m/g/c/v/w/edinburgh-south-wk/summer-crowd-meadows-small.webp"
     },
     {
       "filename": "Royal Commonwealth Pool, Edinburgh.JPG",
@@ -176,7 +182,9 @@
       "dateCreated": "2014-06-16 12:22:48",
       "sourceType": "core",
       "sourceArticleId": "edinburgh-south-wk",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "mediumPath": "_m/g/c/v/w/edinburgh-south-wk/view-west-end-royal-co-medium.webp",
+      "smallPath": "_m/g/c/v/w/edinburgh-south-wk/view-west-end-royal-co-small.webp"
     },
     {
       "filename": "Canny Man's pub sign, Morningside Road - geograph.org.uk - 3126833.jpg",
@@ -195,7 +203,8 @@
       "dateCreated": "2012-08-04",
       "sourceType": "core",
       "sourceArticleId": "edinburgh-south-wk",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "smallPath": "_m/g/c/v/w/edinburgh-south-wk/canny-man-s-pub-sign-m-small.webp"
     },
     {
       "filename": "Hillend Ski Centre - geograph.org.uk - 3343758.jpg",
@@ -214,7 +223,8 @@
       "dateCreated": "2013-02-22",
       "sourceType": "core",
       "sourceArticleId": "edinburgh-south-wk",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "smallPath": "_m/g/c/v/w/edinburgh-south-wk/hillend-ski-centre-small.webp"
     }
   ],
   "galleryPaths": [
@@ -225,5 +235,26 @@
     "_m/g/c/v/w/edinburgh-south-wk/view-west-end-royal-co.jpg",
     "_m/g/c/v/w/edinburgh-south-wk/canny-man-s-pub-sign-m.jpg",
     "_m/g/c/v/w/edinburgh-south-wk/hillend-ski-centre.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcvw-edinburgh-south-flight-context.mp3",
+      "gcvw-edinburgh-south-intro.mp3",
+      "gcvw-edinburgh-south-the-meadows.mp3",
+      "gcvw-edinburgh-south-the-quartermile-and-the-kidney.mp3",
+      "gcvw-edinburgh-south-stevenson-at-swanston.mp3",
+      "gcvw-edinburgh-south-the-caiy-stane.mp3",
+      "gcvw-edinburgh-south-wild-edges.mp3"
+    ],
+    "durations": {
+      "gcvw-edinburgh-south-flight-context.mp3": 70.6060833,
+      "gcvw-edinburgh-south-intro.mp3": 42.5480833,
+      "gcvw-edinburgh-south-the-meadows.mp3": 55.2783333,
+      "gcvw-edinburgh-south-the-quartermile-and-the-kidney.mp3": 53.8472083,
+      "gcvw-edinburgh-south-stevenson-at-swanston.mp3": 59.837,
+      "gcvw-edinburgh-south-the-caiy-stane.mp3": 48.3905,
+      "gcvw-edinburgh-south-wild-edges.mp3": 67.68625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

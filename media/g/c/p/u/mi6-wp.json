@@ -20,7 +20,9 @@
           "CC-BY-SA-2.0",
           "Flickr images reviewed by FlickreviewR",
           "Secret Intelligence Service Building"
-        ]
+        ],
+        "mediumPath": "_m/g/c/p/u/mi6-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/p/u/mi6-wp/hero-small.webp"
       },
       "images": [
         {
@@ -47,7 +49,8 @@
             "Photographs by Ernst Schäfer",
             "Silk clothing",
             "Yatung"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/u/mi6-wp/documentary-purposes-g-small.webp"
         },
         {
           "path": "_m/g/c/p/u/mi6-wp/documentary-purposes-g-1.jpg",
@@ -68,7 +71,8 @@
             "CC-BY-SA-3.0-DE",
             "Images from the German Federal Archive",
             "Photographs by Peter Heinz Junge"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/u/mi6-wp/documentary-purposes-g-1-small.webp"
         },
         {
           "path": "_m/g/c/p/u/mi6-wp/broadway-buildings-54.jpg",
@@ -91,7 +95,9 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/u/mi6-wp/broadway-buildings-54-medium.webp",
+          "smallPath": "_m/g/c/p/u/mi6-wp/broadway-buildings-54-small.webp"
         }
       ],
       "narration": [
@@ -103,7 +109,11 @@
         "_m/g/c/p/u/mi6-wp/gcpu-mi6-secret-intelligence-service-penkovsky-and-the-missiles.mp3",
         "_m/g/c/p/u/mi6-wp/gcpu-mi6-secret-intelligence-service-vauxhall-cross.mp3",
         "_m/g/c/p/u/mi6-wp/gcpu-mi6-secret-intelligence-service-the-c-and-what-the-c-does.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/p/u/mi6-wp/gcpu-mi6-combined.mp3",
+      "combinedNarrationBytes": 5340351,
+      "combinedNarrationDuration": 437,
+      "combinedCover": "_m/g/c/p/u/mi6-wp/gcpu-mi6-combined-cover.jpg"
     }
   }
 }

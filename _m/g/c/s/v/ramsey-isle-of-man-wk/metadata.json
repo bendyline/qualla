@@ -25,7 +25,8 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "ramsey-isle-of-man-wk",
-      "sourceGeohash4": "gcsv"
+      "sourceGeohash4": "gcsv",
+      "smallPath": "_m/g/c/s/v/ramsey-isle-of-man-wk/jurby-transport-museum-geograp-small.webp"
     },
     {
       "filename": "Ramsey (Isle of Man) Wikivoyage Banner.jpg",
@@ -55,12 +56,35 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "ramsey-isle-of-man-wk",
-      "sourceGeohash4": "gcsv"
+      "sourceGeohash4": "gcsv",
+      "mediumPath": "_m/g/c/s/v/ramsey-isle-of-man-wk/ramsey-isle-of-man-wikivoyage--medium.webp",
+      "smallPath": "_m/g/c/s/v/ramsey-isle-of-man-wk/ramsey-isle-of-man-wikivoyage--small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/s/v/ramsey-isle-of-man-wk/jurby-transport-museum-geograp.jpg",
     "_m/g/c/s/v/ramsey-isle-of-man-wk/ramsey-isle-of-man-wikivoyage-.jpg"
   ],
-  "updatedAt": "2026-06-22T13:24:06.905Z"
+  "updatedAt": "2026-06-22T13:24:06.905Z",
+  "narration": {
+    "files": [
+      "gcsv-ramsey-isle-of-man-flight-context.mp3",
+      "gcsv-ramsey-isle-of-man-intro.mp3",
+      "gcsv-ramsey-isle-of-man-the-town-that-victoria-didnt-visit.mp3",
+      "gcsv-ramsey-isle-of-man-harbour-pier-promenade.mp3",
+      "gcsv-ramsey-isle-of-man-trains-trams-and-the-mountain-above.mp3",
+      "gcsv-ramsey-isle-of-man-around-the-top-of-the-island.mp3",
+      "gcsv-ramsey-isle-of-man-eating-and-sleeping.mp3"
+    ],
+    "durations": {
+      "gcsv-ramsey-isle-of-man-flight-context.mp3": 49.190625,
+      "gcsv-ramsey-isle-of-man-intro.mp3": 38.4372916,
+      "gcsv-ramsey-isle-of-man-the-town-that-victoria-didnt-visit.mp3": 63.1696666,
+      "gcsv-ramsey-isle-of-man-harbour-pier-promenade.mp3": 80.71225,
+      "gcsv-ramsey-isle-of-man-trains-trams-and-the-mountain-above.mp3": 50.5182083,
+      "gcsv-ramsey-isle-of-man-around-the-top-of-the-island.mp3": 62.8028333,
+      "gcsv-ramsey-isle-of-man-eating-and-sleeping.mp3": 47.357625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

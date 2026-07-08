@@ -26,7 +26,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "john-of-gaunt-s-palace-lincoln-wp",
-    "sourceGeohash4": "gcrw"
+    "sourceGeohash4": "gcrw",
+    "smallPath": "_m/g/c/r/w/john-of-gaunt-s-palace-lincoln-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "John of Gaunt's Palace, Lincoln.png",
@@ -85,7 +86,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "john-of-gaunt-s-palace-lincoln-wp",
-      "sourceGeohash4": "gcrw"
+      "sourceGeohash4": "gcrw",
+      "smallPath": "_m/g/c/r/w/john-of-gaunt-s-palace-lincoln-wp/oriel-window-lincoln-c-small.webp"
     },
     {
       "filename": "Lincoln, part of the old house near St Peter at Gowts by Samuel Hieronymus Grimm 1784.jpg",
@@ -116,7 +118,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "john-of-gaunt-s-palace-lincoln-wp",
-      "sourceGeohash4": "gcrw"
+      "sourceGeohash4": "gcrw",
+      "smallPath": "_m/g/c/r/w/john-of-gaunt-s-palace-lincoln-wp/view-old-house-near-ch-small.webp"
     },
     {
       "filename": "Colonel Bromhead's House.png",
@@ -134,7 +137,8 @@
       "dateCreated": "1784-01-01",
       "sourceType": "core",
       "sourceArticleId": "john-of-gaunt-s-palace-lincoln-wp",
-      "sourceGeohash4": "gcrw"
+      "sourceGeohash4": "gcrw",
+      "smallPath": "_m/g/c/r/w/john-of-gaunt-s-palace-lincoln-wp/colonel-bromhead-s-hou-small.webp"
     },
     {
       "filename": "Window John of Gaunt's Palace.png",
@@ -159,7 +163,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "john-of-gaunt-s-palace-lincoln-wp",
-      "sourceGeohash4": "gcrw"
+      "sourceGeohash4": "gcrw",
+      "smallPath": "_m/g/c/r/w/john-of-gaunt-s-palace-lincoln-wp/window-john-of-gaunt-s-palace-small.webp"
     },
     {
       "filename": "The Old Hospital, Lincoln.png",
@@ -187,7 +192,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "john-of-gaunt-s-palace-lincoln-wp",
-      "sourceGeohash4": "gcrw"
+      "sourceGeohash4": "gcrw",
+      "smallPath": "_m/g/c/r/w/john-of-gaunt-s-palace-lincoln-wp/the-old-hospital-lincoln-small.webp"
     },
     {
       "filename": "St Andrews Hall, Wigford, Lincoln.png",
@@ -203,7 +209,8 @@
       "dateCreated": "1783-01-01",
       "sourceType": "commons-category",
       "sourceArticleId": "john-of-gaunt-s-palace-lincoln-wp",
-      "sourceGeohash4": "gcrw"
+      "sourceGeohash4": "gcrw",
+      "smallPath": "_m/g/c/r/w/john-of-gaunt-s-palace-lincoln-wp/st-andrews-hall-wigford-lincol-small.webp"
     }
   ],
   "galleryPaths": [
@@ -214,5 +221,24 @@
     "_m/g/c/r/w/john-of-gaunt-s-palace-lincoln-wp/the-old-hospital-lincoln.png",
     "_m/g/c/r/w/john-of-gaunt-s-palace-lincoln-wp/st-andrews-hall-wigford-lincol.png"
   ],
-  "updatedAt": "2026-06-22T10:47:51.535Z"
+  "updatedAt": "2026-06-22T10:47:51.535Z",
+  "narration": {
+    "files": [
+      "gcrw-john-of-gaunts-palace-lincoln-flight-context.mp3",
+      "gcrw-john-of-gaunts-palace-lincoln-intro.mp3",
+      "gcrw-john-of-gaunts-palace-lincoln-the-merchant-who-hosted-a-duke.mp3",
+      "gcrw-john-of-gaunts-palace-lincoln-a-building-dismantled-in-pieces.mp3",
+      "gcrw-john-of-gaunts-palace-lincoln-the-oriel-that-escaped.mp3",
+      "gcrw-john-of-gaunts-palace-lincoln-what-stood-nearby.mp3"
+    ],
+    "durations": {
+      "gcrw-john-of-gaunts-palace-lincoln-flight-context.mp3": 48.783875,
+      "gcrw-john-of-gaunts-palace-lincoln-intro.mp3": 49.9358333,
+      "gcrw-john-of-gaunts-palace-lincoln-the-merchant-who-hosted-a-duke.mp3": 60.168,
+      "gcrw-john-of-gaunts-palace-lincoln-a-building-dismantled-in-pieces.mp3": 72.0199583,
+      "gcrw-john-of-gaunts-palace-lincoln-the-oriel-that-escaped.mp3": 47.65,
+      "gcrw-john-of-gaunts-palace-lincoln-what-stood-nearby.mp3": 67.3993333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

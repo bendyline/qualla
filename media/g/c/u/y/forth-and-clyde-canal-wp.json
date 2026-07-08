@@ -24,7 +24,9 @@
           "License migration redundant",
           "Sea lock, Forth and Clyde Canal",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/g/c/u/y/forth-and-clyde-canal-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/u/y/forth-and-clyde-canal-wp/hero-small.webp"
       },
       "images": [
         {
@@ -71,7 +73,9 @@
             "GFDL",
             "License migration redundant",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/y/forth-and-clyde-canal-wp/dalmuir-drop-lock-fort-medium.webp",
+          "smallPath": "_m/g/c/u/y/forth-and-clyde-canal-wp/dalmuir-drop-lock-fort-small.webp"
         },
         {
           "path": "_m/g/c/u/y/forth-and-clyde-canal-wp/january-sunset-maryhil.jpg",
@@ -92,7 +96,8 @@
             "Files with coordinates missing SDC location of creation (55° N, 5° W)",
             "Maryhill Locks",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/y/forth-and-clyde-canal-wp/january-sunset-maryhil-small.webp"
         },
         {
           "path": "_m/g/c/u/y/forth-and-clyde-canal-wp/maryhill-locks.jpg",
@@ -114,7 +119,9 @@
             "Maryhill Locks",
             "Pages with invalid language codes",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/y/forth-and-clyde-canal-wp/maryhill-locks-medium.webp",
+          "smallPath": "_m/g/c/u/y/forth-and-clyde-canal-wp/maryhill-locks-small.webp"
         },
         {
           "path": "_m/g/c/u/y/forth-and-clyde-canal-wp/ftof02.jpg",
@@ -137,7 +144,8 @@
             "PD-self",
             "Self-published work",
             "Towpaths in Scotland"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/y/forth-and-clyde-canal-wp/ftof02-small.webp"
         },
         {
           "path": "_m/g/c/u/y/forth-and-clyde-canal-wp/ordnance-survey-one-inch-sheet.jpg",
@@ -169,7 +177,9 @@
             "River Carron, Forth",
             "UK Government artistic works",
             "Union Canal, Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/y/forth-and-clyde-canal-wp/ordnance-survey-one-inch-sheet-medium.webp",
+          "smallPath": "_m/g/c/u/y/forth-and-clyde-canal-wp/ordnance-survey-one-inch-sheet-small.webp"
         },
         {
           "path": "_m/g/c/u/y/forth-and-clyde-canal-wp/ordnance-survey-one-inch-sheet-1.jpg",
@@ -196,7 +206,9 @@
             "River Carron, Forth",
             "UK Government artistic works",
             "Union Canal, Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/y/forth-and-clyde-canal-wp/ordnance-survey-one-inch-sheet-1-medium.webp",
+          "smallPath": "_m/g/c/u/y/forth-and-clyde-canal-wp/ordnance-survey-one-inch-sheet-1-small.webp"
         },
         {
           "path": "_m/g/c/u/y/forth-and-clyde-canal-wp/admiralty-chart-no-2007-river-.jpg",
@@ -211,7 +223,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_2007_River_Clyde,_Published_1914.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "forth-and-clyde-canal-wp",
-          "sourceGeohash4": "gcuy"
+          "sourceGeohash4": "gcuy",
+          "mediumPath": "_m/g/c/u/y/forth-and-clyde-canal-wp/admiralty-chart-no-2007-river--medium.webp",
+          "smallPath": "_m/g/c/u/y/forth-and-clyde-canal-wp/admiralty-chart-no-2007-river--small.webp"
         },
         {
           "path": "_m/g/c/v/n/kilsyth-wp/antonine-wall-roman-forts.jpg",
@@ -266,7 +280,20 @@
             "Taken with Panasonic Lumix DMC-TZ5"
           ]
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/u/y/forth-and-clyde-canal-wp/gcuy-forth-and-clyde-canal-flight-context.mp3",
+        "_m/g/c/u/y/forth-and-clyde-canal-wp/gcuy-forth-and-clyde-canal-intro.mp3",
+        "_m/g/c/u/y/forth-and-clyde-canal-wp/gcuy-forth-and-clyde-canal-smeatons-line.mp3",
+        "_m/g/c/u/y/forth-and-clyde-canal-wp/gcuy-forth-and-clyde-canal-aqueducts-and-forty-three-bridges.mp3",
+        "_m/g/c/u/y/forth-and-clyde-canal-wp/gcuy-forth-and-clyde-canal-decline-and-backfill.mp3",
+        "_m/g/c/u/y/forth-and-clyde-canal-wp/gcuy-forth-and-clyde-canal-millennium-link.mp3",
+        "_m/g/c/u/y/forth-and-clyde-canal-wp/gcuy-forth-and-clyde-canal-walking-the-towpath.mp3"
+      ],
+      "combinedNarration": "_m/g/c/u/y/forth-and-clyde-canal-wp/gcuy-forth-and-clyde-canal-combined.mp3",
+      "combinedNarrationBytes": 4416283,
+      "combinedNarrationDuration": 362,
+      "combinedCover": "_m/g/c/u/y/forth-and-clyde-canal-wp/gcuy-forth-and-clyde-canal-combined-cover.jpg"
     }
   }
 }

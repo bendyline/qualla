@@ -29,7 +29,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "nottingham-playhouse-wp",
-    "sourceGeohash4": "gcrj"
+    "sourceGeohash4": "gcrj",
+    "smallPath": "_m/g/c/r/j/nottingham-playhouse-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Aladdin pantomime Nottingham Playhouse 2008.jpg",
@@ -85,7 +86,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "nottingham-playhouse-wp",
-      "sourceGeohash4": "gcrj"
+      "sourceGeohash4": "gcrj",
+      "smallPath": "_m/g/c/r/j/nottingham-playhouse-wp/nottingham-playhouse-small.webp"
     },
     {
       "filename": "Nottingham Playhouse at night.JPG",
@@ -111,7 +113,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "nottingham-playhouse-wp",
-      "sourceGeohash4": "gcrj"
+      "sourceGeohash4": "gcrj",
+      "smallPath": "_m/g/c/r/j/nottingham-playhouse-wp/nottingham-playhouse-at-night-small.webp"
     },
     {
       "filename": "Nottingham Playhouse, 1967 - geograph.org.uk - 1537550.jpg",
@@ -138,7 +141,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "nottingham-playhouse-wp",
-      "sourceGeohash4": "gcrj"
+      "sourceGeohash4": "gcrj",
+      "smallPath": "_m/g/c/r/j/nottingham-playhouse-wp/nottingham-playhouse-1967-geog-small.webp"
     },
     {
       "filename": "Nottingham Playhouse, 2009 - geograph.org.uk - 1592180.jpg",
@@ -164,7 +168,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "nottingham-playhouse-wp",
-      "sourceGeohash4": "gcrj"
+      "sourceGeohash4": "gcrj",
+      "smallPath": "_m/g/c/r/j/nottingham-playhouse-wp/nottingham-playhouse-2009-geog-small.webp"
     },
     {
       "filename": "Wellington Circus - geograph.org.uk - 1601344.jpg",
@@ -239,7 +244,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "nottingham-playhouse-wp",
-      "sourceGeohash4": "gcrj"
+      "sourceGeohash4": "gcrj",
+      "smallPath": "_m/g/c/r/j/nottingham-playhouse-wp/nottingham-playhouse-wellingto-small.webp"
     },
     {
       "filename": "Nottingham Playhouse 3.jpg",
@@ -256,7 +262,9 @@
       "dateCreated": "2026-05-09 15:19:37",
       "sourceType": "commons-category",
       "sourceArticleId": "nottingham-playhouse-wp",
-      "sourceGeohash4": "gcrj"
+      "sourceGeohash4": "gcrj",
+      "mediumPath": "_m/g/c/r/j/nottingham-playhouse-wp/nottingham-playhouse-3-medium.webp",
+      "smallPath": "_m/g/c/r/j/nottingham-playhouse-wp/nottingham-playhouse-3-small.webp"
     }
   ],
   "galleryPaths": [
@@ -269,5 +277,24 @@
     "_m/g/c/r/j/nottingham-playhouse-wp/nottingham-playhouse-wellingto.jpg",
     "_m/g/c/r/j/nottingham-playhouse-wp/nottingham-playhouse-3.jpg"
   ],
-  "updatedAt": "2026-06-22T09:29:58.727Z"
+  "updatedAt": "2026-06-22T09:29:58.727Z",
+  "narration": {
+    "files": [
+      "gcrj-nottingham-playhouse-flight-context.mp3",
+      "gcrj-nottingham-playhouse-intro.mp3",
+      "gcrj-nottingham-playhouse-the-cinema-and-the-vision.mp3",
+      "gcrj-nottingham-playhouse-the-sky-mirror-argument.mp3",
+      "gcrj-nottingham-playhouse-a-theatre-that-travels.mp3",
+      "gcrj-nottingham-playhouse-listed-and-loved.mp3"
+    ],
+    "durations": {
+      "gcrj-nottingham-playhouse-flight-context.mp3": 57.7923333,
+      "gcrj-nottingham-playhouse-intro.mp3": 44.591875,
+      "gcrj-nottingham-playhouse-the-cinema-and-the-vision.mp3": 63.8919166,
+      "gcrj-nottingham-playhouse-the-sky-mirror-argument.mp3": 57.3850416,
+      "gcrj-nottingham-playhouse-a-theatre-that-travels.mp3": 57.8498333,
+      "gcrj-nottingham-playhouse-listed-and-loved.mp3": 61.7392916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

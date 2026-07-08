@@ -2,38 +2,6 @@
   "id": "battle-of-san-cala-wp",
   "patch": {
     "media": {
-      "hero": {
-        "path": "_m/6/d/3/w/battle-of-san-cala-wp/hero.png",
-        "filename": "Batalla de San Cala.png",
-        "caption": "Batalla de San Cala - 1876 - Oleo sobre tela - 51 x 66 cm - Museo Histórico Nacional - Buenos Aires - Argentina",
-        "alt": "Batalla de San Cala - 1876 - Oleo sobre tela - 51 x 66 cm - Museo Histórico Nacional - Buenos Aires - Argentina",
-        "width": 3791,
-        "height": 3000,
-        "mimeType": "image/png",
-        "license": "Public domain",
-        "artist": "Juan Manuel Blanes",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Batalla_de_San_Cala.png",
-        "sourceType": "core",
-        "sourceArticleId": "battle-of-san-cala-wp",
-        "sourceGeohash4": "6d3w",
-        "categories": [
-          "1841 in Argentina",
-          "1876 paintings in Argentina",
-          "Artworks digital representation of 2D work",
-          "Artworks with Wikidata item",
-          "Artworks with Wikidata item missing genre",
-          "Battles in 1841",
-          "Battles involving Argentina",
-          "CC-PD-Mark",
-          "Córdoba Province, Argentina in the 19th century",
-          "History of Argentina from Independence to the Constitution of 1853",
-          "History of Córdoba Province, Argentina",
-          "PD-Art (PD-old-100-expired)",
-          "PD-old-100-expired",
-          "Paintings by Juan Manuel Blanes",
-          "People of Argentina in the 1840s"
-        ]
-      },
       "images": [
         {
           "path": "_m/6/d/3/w/battle-of-san-cala-wp/flag-argentine-adopted.png",
@@ -59,7 +27,8 @@
             "PNG flags of Argentina",
             "Template Unknown (author)",
             "Vector version available"
-          ]
+          ],
+          "smallPath": "_m/6/d/3/w/battle-of-san-cala-wp/flag-argentine-adopted-small.webp"
         }
       ],
       "narration": [
@@ -69,7 +38,11 @@
         "_m/6/d/3/w/battle-of-san-cala-wp/6d3w-battle-of-san-cala-the-corral-at-midnight.mp3",
         "_m/6/d/3/w/battle-of-san-cala-wp/6d3w-battle-of-san-cala-what-followed-the-killing.mp3",
         "_m/6/d/3/w/battle-of-san-cala-wp/6d3w-battle-of-san-cala-the-village-that-moved-away.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/6/d/3/w/battle-of-san-cala-wp/6d3w-battle-of-san-cala-combined.mp3",
+      "combinedNarrationBytes": 2975155,
+      "combinedNarrationDuration": 246,
+      "combinedCover": "_m/6/d/3/w/battle-of-san-cala-wp/6d3w-battle-of-san-cala-combined-cover.jpg"
     }
   }
 }

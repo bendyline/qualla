@@ -23,7 +23,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "markham-colliery-disaster-wp",
-    "sourceGeohash4": "gcrn"
+    "sourceGeohash4": "gcrn",
+    "smallPath": "_m/g/c/r/n/markham-colliery-disaster-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Walking Together at Markham Colliery.jpg",
@@ -51,5 +52,24 @@
     "sourceGeohash4": "gcrn"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcrn-markham-colliery-disaster-flight-context.mp3",
+      "gcrn-markham-colliery-disaster-intro.mp3",
+      "gcrn-markham-colliery-disaster-the-pit-at-staveley.mp3",
+      "gcrn-markham-colliery-disaster-1937-and-1938-explosions-underground.mp3",
+      "gcrn-markham-colliery-disaster-30-july-1973-the-cage.mp3",
+      "gcrn-markham-colliery-disaster-walking-together.mp3"
+    ],
+    "durations": {
+      "gcrn-markham-colliery-disaster-flight-context.mp3": 47.4037083,
+      "gcrn-markham-colliery-disaster-intro.mp3": 41.33,
+      "gcrn-markham-colliery-disaster-the-pit-at-staveley.mp3": 48.5738333,
+      "gcrn-markham-colliery-disaster-1937-and-1938-explosions-underground.mp3": 57.4697083,
+      "gcrn-markham-colliery-disaster-30-july-1973-the-cage.mp3": 80.087875,
+      "gcrn-markham-colliery-disaster-walking-together.mp3": 70.5762083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

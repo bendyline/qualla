@@ -23,7 +23,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "derwentwater-wp",
-    "sourceGeohash4": "gcty"
+    "sourceGeohash4": "gcty",
+    "mediumPath": "_m/g/c/t/y/derwentwater-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/t/y/derwentwater-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Derwentwater (DSCF8800).jpg",
@@ -72,7 +74,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "derwentwater-wp",
-      "sourceGeohash4": "gcty"
+      "sourceGeohash4": "gcty",
+      "mediumPath": "_m/g/c/t/y/derwentwater-wp/derwent-water-medium.webp",
+      "smallPath": "_m/g/c/t/y/derwentwater-wp/derwent-water-small.webp"
     },
     {
       "filename": "Derwent Water, Keswick - June 2009.jpg",
@@ -138,7 +142,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "derwentwater-wp",
-      "sourceGeohash4": "gcty"
+      "sourceGeohash4": "gcty",
+      "mediumPath": "_m/g/c/t/y/derwentwater-wp/panoramic-view-derwent-medium.webp",
+      "smallPath": "_m/g/c/t/y/derwentwater-wp/panoramic-view-derwent-small.webp"
     },
     {
       "filename": "Lake District National Park UK relief location map.png",
@@ -213,7 +219,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "derwentwater-wp",
-      "sourceGeohash4": "gcty"
+      "sourceGeohash4": "gcty",
+      "mediumPath": "_m/g/c/t/y/derwentwater-wp/derwent-water-lake-dis-medium.webp",
+      "smallPath": "_m/g/c/t/y/derwentwater-wp/derwent-water-lake-dis-small.webp"
     },
     {
       "filename": "Derwent Water from Cat Bells, Lake District.jpg",
@@ -238,7 +246,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "derwentwater-wp",
-      "sourceGeohash4": "gcty"
+      "sourceGeohash4": "gcty",
+      "smallPath": "_m/g/c/t/y/derwentwater-wp/derwent-water-cat-bell-small.webp"
     },
     {
       "filename": "Canoes at Derwent Water.jpg",
@@ -257,7 +266,9 @@
       "dateCreated": "2022-05-27",
       "sourceType": "core",
       "sourceArticleId": "derwentwater-wp",
-      "sourceGeohash4": "gcty"
+      "sourceGeohash4": "gcty",
+      "mediumPath": "_m/g/c/t/y/derwentwater-wp/photo-taken-keswick-ed-medium.webp",
+      "smallPath": "_m/g/c/t/y/derwentwater-wp/photo-taken-keswick-ed-small.webp"
     }
   ],
   "galleryPaths": [
@@ -269,5 +280,26 @@
     "_m/g/c/t/y/derwentwater-wp/derwent-water-lake-dis.jpg",
     "_m/g/c/t/y/derwentwater-wp/derwent-water-cat-bell.jpg",
     "_m/g/c/t/y/derwentwater-wp/photo-taken-keswick-ed.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcty-derwentwater-flight-context.mp3",
+      "gcty-derwentwater-intro.mp3",
+      "gcty-derwentwater-the-third-lake.mp3",
+      "gcty-derwentwater-seven-islands-and-a-hermit.mp3",
+      "gcty-derwentwater-vendace-and-pigmyweed.mp3",
+      "gcty-derwentwater-a-working-lake.mp3",
+      "gcty-derwentwater-names-and-stories.mp3"
+    ],
+    "durations": {
+      "gcty-derwentwater-flight-context.mp3": 66.2874583,
+      "gcty-derwentwater-intro.mp3": 51.2004583,
+      "gcty-derwentwater-the-third-lake.mp3": 59.6652916,
+      "gcty-derwentwater-seven-islands-and-a-hermit.mp3": 69.7442083,
+      "gcty-derwentwater-vendace-and-pigmyweed.mp3": 65.1779166,
+      "gcty-derwentwater-a-working-lake.mp3": 53.7065416,
+      "gcty-derwentwater-names-and-stories.mp3": 67.9399166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

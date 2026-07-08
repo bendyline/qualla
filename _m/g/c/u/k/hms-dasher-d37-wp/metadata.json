@@ -33,7 +33,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "hms-dasher-d37-wp",
-    "sourceGeohash4": "gcuk"
+    "sourceGeohash4": "gcuk",
+    "mediumPath": "_m/g/c/u/k/hms-dasher-d37-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/u/k/hms-dasher-d37-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "HMS Dasher memorial and plaque.JPG",
@@ -97,7 +99,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "hms-dasher-d37-wp",
-      "sourceGeohash4": "gcuk"
+      "sourceGeohash4": "gcuk",
+      "mediumPath": "_m/g/c/u/k/hms-dasher-d37-wp/hms-dasher-plaque-medium.webp",
+      "smallPath": "_m/g/c/u/k/hms-dasher-d37-wp/hms-dasher-plaque-small.webp"
     },
     {
       "filename": "HMS Dasher memorial, sunken garden, Ardrossan, North Ayrshire.jpg",
@@ -114,7 +118,9 @@
       "dateCreated": "2025-02-17 04:20:37",
       "sourceType": "commons-category",
       "sourceArticleId": "hms-dasher-d37-wp",
-      "sourceGeohash4": "gcuk"
+      "sourceGeohash4": "gcuk",
+      "mediumPath": "_m/g/c/u/k/hms-dasher-d37-wp/hms-dasher-memorial-sunken-gar-medium.webp",
+      "smallPath": "_m/g/c/u/k/hms-dasher-d37-wp/hms-dasher-memorial-sunken-gar-small.webp"
     },
     {
       "filename": "HMS Dasher memorial, sunken garden, Ardrossan, North Ayrshire. Plaques detail.jpg",
@@ -131,7 +137,9 @@
       "dateCreated": "2025-02-17 04:19:05",
       "sourceType": "commons-category",
       "sourceArticleId": "hms-dasher-d37-wp",
-      "sourceGeohash4": "gcuk"
+      "sourceGeohash4": "gcuk",
+      "mediumPath": "_m/g/c/u/k/hms-dasher-d37-wp/hms-dasher-memorial-sunken-gar-1-medium.webp",
+      "smallPath": "_m/g/c/u/k/hms-dasher-d37-wp/hms-dasher-memorial-sunken-gar-1-small.webp"
     },
     {
       "filename": "HMS Dasher memorial in the sunken garden, Ardrossan, North Ayrshire.jpg",
@@ -148,7 +156,9 @@
       "dateCreated": "2025-02-17 04:18:14",
       "sourceType": "commons-category",
       "sourceArticleId": "hms-dasher-d37-wp",
-      "sourceGeohash4": "gcuk"
+      "sourceGeohash4": "gcuk",
+      "mediumPath": "_m/g/c/u/k/hms-dasher-d37-wp/hms-dasher-memorial-in-the-sun-medium.webp",
+      "smallPath": "_m/g/c/u/k/hms-dasher-d37-wp/hms-dasher-memorial-in-the-sun-small.webp"
     }
   ],
   "galleryPaths": [
@@ -157,5 +167,26 @@
     "_m/g/c/u/k/hms-dasher-d37-wp/hms-dasher-memorial-sunken-gar-1.jpg",
     "_m/g/c/u/k/hms-dasher-d37-wp/hms-dasher-memorial-in-the-sun.jpg"
   ],
-  "updatedAt": "2026-06-22T19:44:33.272Z"
+  "updatedAt": "2026-06-22T19:44:33.272Z",
+  "narration": {
+    "files": [
+      "gcuk-hms-dasher-d37-flight-context.mp3",
+      "gcuk-hms-dasher-d37-intro.mp3",
+      "gcuk-hms-dasher-d37-an-american-hull-a-british-flag.mp3",
+      "gcuk-hms-dasher-d37-the-explosion-in-the-clyde.mp3",
+      "gcuk-hms-dasher-d37-what-the-censor-did.mp3",
+      "gcuk-hms-dasher-d37-the-man-who-never-was.mp3",
+      "gcuk-hms-dasher-d37-what-remains.mp3"
+    ],
+    "durations": {
+      "gcuk-hms-dasher-d37-flight-context.mp3": 51.0097083,
+      "gcuk-hms-dasher-d37-intro.mp3": 47.0374166,
+      "gcuk-hms-dasher-d37-an-american-hull-a-british-flag.mp3": 65.0228333,
+      "gcuk-hms-dasher-d37-the-explosion-in-the-clyde.mp3": 51.0265416,
+      "gcuk-hms-dasher-d37-what-the-censor-did.mp3": 66.8099583,
+      "gcuk-hms-dasher-d37-the-man-who-never-was.mp3": 66.6267083,
+      "gcuk-hms-dasher-d37-what-remains.mp3": 52.7204583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -32,7 +32,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "burns-howff-wp",
-    "sourceGeohash4": "gcuv"
+    "sourceGeohash4": "gcuv",
+    "smallPath": "_m/g/c/u/v/burns-howff-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "BurnsHowffExorian1982.JPG",
@@ -69,5 +70,24 @@
     "sourceGeohash4": "gcuv"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcuv-burns-howff-flight-context.mp3",
+      "gcuv-burns-howff-intro.mp3",
+      "gcuv-burns-howff-the-house-band-who-got-famous.mp3",
+      "gcuv-burns-howff-alex-harveys-audition-room.mp3",
+      "gcuv-burns-howff-studio-in-a-cupboard.mp3",
+      "gcuv-burns-howff-tuesday-night-theatre.mp3"
+    ],
+    "durations": {
+      "gcuv-burns-howff-flight-context.mp3": 49.821125,
+      "gcuv-burns-howff-intro.mp3": 38.985125,
+      "gcuv-burns-howff-the-house-band-who-got-famous.mp3": 60.9220833,
+      "gcuv-burns-howff-alex-harveys-audition-room.mp3": 71.02125,
+      "gcuv-burns-howff-studio-in-a-cupboard.mp3": 59.071875,
+      "gcuv-burns-howff-tuesday-night-theatre.mp3": 58.1404583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -25,7 +25,8 @@
           "Information field template with formatting",
           "Republic of Ireland photographs taken on 2012-06-28",
           "Roads in County Limerick"
-        ]
+        ],
+        "smallPath": "_m/g/c/3/f/croom-castle-wp/hero-small.webp"
       },
       "images": [
         {
@@ -46,7 +47,8 @@
             "CC-BY-SA-2.0",
             "Croom Castle",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/3/f/croom-castle-wp/castles-of-munster-croom-limer-small.webp"
         },
         {
           "path": "_m/g/c/3/f/croom-castle-wp/croom-castle-geograph-org-uk-5.jpg",
@@ -67,7 +69,9 @@
             "Croom Castle",
             "Images from Geograph Britain and Ireland",
             "Roads in County Limerick"
-          ]
+          ],
+          "mediumPath": "_m/g/c/3/f/croom-castle-wp/croom-castle-geograph-org-uk-5-medium.webp",
+          "smallPath": "_m/g/c/3/f/croom-castle-wp/croom-castle-geograph-org-uk-5-small.webp"
         }
       ],
       "narration": [
@@ -77,7 +81,11 @@
         "_m/g/c/3/f/croom-castle-wp/gc3f-croom-castle-fitzgerald-ground.mp3",
         "_m/g/c/3/f/croom-castle-wp/gc3f-croom-castle-crom-abu.mp3",
         "_m/g/c/3/f/croom-castle-wp/gc3f-croom-castle-what-remains.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/3/f/croom-castle-wp/gc3f-croom-castle-combined.mp3",
+      "combinedNarrationBytes": 3806060,
+      "combinedNarrationDuration": 305,
+      "combinedCover": "_m/g/c/3/f/croom-castle-wp/gc3f-croom-castle-combined-cover.jpg"
     }
   }
 }

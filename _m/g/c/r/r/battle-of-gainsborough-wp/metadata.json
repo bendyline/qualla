@@ -24,7 +24,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "battle-of-gainsborough-wp",
-    "sourceGeohash4": "gcrr"
+    "sourceGeohash4": "gcrr",
+    "smallPath": "_m/g/c/r/r/battle-of-gainsborough-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "View from Foxby Hill, Gainsborough looking west.jpg",
@@ -80,7 +81,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "battle-of-gainsborough-wp",
-      "sourceGeohash4": "gcrr"
+      "sourceGeohash4": "gcrr",
+      "smallPath": "_m/g/c/r/r/battle-of-gainsborough-wp/view-summit-foxby-hill-small.webp"
     },
     {
       "filename": "Battlefield Monument at Foxby Hill, Gainsborough.jpg",
@@ -110,7 +112,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "battle-of-gainsborough-wp",
-      "sourceGeohash4": "gcrr"
+      "sourceGeohash4": "gcrr",
+      "smallPath": "_m/g/c/r/r/battle-of-gainsborough-wp/battlefield-monument-f-small.webp"
     },
     {
       "filename": "Lincolnshire UK relief location map.jpg",
@@ -136,12 +139,33 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "battle-of-gainsborough-wp",
-      "sourceGeohash4": "gcrr"
+      "sourceGeohash4": "gcrr",
+      "mediumPath": "_m/g/c/r/r/battle-of-gainsborough-wp/relief-map-lincolnshir-medium.webp",
+      "smallPath": "_m/g/c/r/r/battle-of-gainsborough-wp/relief-map-lincolnshir-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/r/r/battle-of-gainsborough-wp/view-summit-foxby-hill.jpg",
     "_m/g/c/r/r/battle-of-gainsborough-wp/battlefield-monument-f.jpg",
     "_m/g/c/r/r/battle-of-gainsborough-wp/relief-map-lincolnshir.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcrr-battle-of-gainsborough-flight-context.mp3",
+      "gcrr-battle-of-gainsborough-intro.mp3",
+      "gcrr-battle-of-gainsborough-a-town-on-a-river-crossing.mp3",
+      "gcrr-battle-of-gainsborough-march-to-foxby-hill.mp3",
+      "gcrr-battle-of-gainsborough-the-reserve-the-marsh-and-a-sword-thrust.mp3",
+      "gcrr-battle-of-gainsborough-what-the-day-lost-and-what-it-made.mp3"
+    ],
+    "durations": {
+      "gcrr-battle-of-gainsborough-flight-context.mp3": 54.7989583,
+      "gcrr-battle-of-gainsborough-intro.mp3": 52.6402916,
+      "gcrr-battle-of-gainsborough-a-town-on-a-river-crossing.mp3": 73.9469583,
+      "gcrr-battle-of-gainsborough-march-to-foxby-hill.mp3": 61.13625,
+      "gcrr-battle-of-gainsborough-the-reserve-the-marsh-and-a-sword-thrust.mp3": 62.0122916,
+      "gcrr-battle-of-gainsborough-what-the-day-lost-and-what-it-made.mp3": 79.4222083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

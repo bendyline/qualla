@@ -24,7 +24,9 @@
           "PD US Navy",
           "Pacific War in October 1944",
           "USS Tills (DE-748)"
-        ]
+        ],
+        "mediumPath": "_m/d/q/d/6/uss-tills-wp/hero-medium.webp",
+        "smallPath": "_m/d/q/d/6/uss-tills-wp/hero-small.webp"
       },
       "images": [
         {
@@ -44,7 +46,8 @@
           "categories": [
             "PD US Military",
             "USS Tills (DE-748)"
-          ]
+          ],
+          "smallPath": "_m/d/q/d/6/uss-tills-wp/uss-tills-de-748-underway-c196-small.webp"
         },
         {
           "path": "_m/d/q/d/6/uss-tills-wp/uss-tills-de-748-in-guantanamo.jpg",
@@ -64,7 +67,8 @@
             "CC-PD-Mark",
             "PD US Navy",
             "USS Tills (DE-748)"
-          ]
+          ],
+          "smallPath": "_m/d/q/d/6/uss-tills-wp/uss-tills-de-748-in-guantanamo-small.webp"
         },
         {
           "path": "_m/d/q/d/6/uss-tills-wp/uss-tills-de-748-underway-in-t.jpg",
@@ -84,7 +88,8 @@
             "CC-PD-Mark",
             "PD US Navy",
             "USS Tills (DE-748)"
-          ]
+          ],
+          "smallPath": "_m/d/q/d/6/uss-tills-wp/uss-tills-de-748-underway-in-t-small.webp"
         }
       ],
       "narration": [
@@ -94,7 +99,11 @@
         "_m/d/q/d/6/uss-tills-wp/dqd6-uss-tills-okinawa.mp3",
         "_m/d/q/d/6/uss-tills-wp/dqd6-uss-tills-the-cold-war-trainer.mp3",
         "_m/d/q/d/6/uss-tills-wp/dqd6-uss-tills-last-cruises.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/q/d/6/uss-tills-wp/dqd6-uss-tills-combined.mp3",
+      "combinedNarrationBytes": 3507081,
+      "combinedNarrationDuration": 284,
+      "combinedCover": "_m/d/q/d/6/uss-tills-wp/dqd6-uss-tills-combined-cover.jpg"
     }
   }
 }

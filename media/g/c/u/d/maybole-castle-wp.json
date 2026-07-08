@@ -20,7 +20,8 @@
           "CC-BY-SA-2.0",
           "Images from Geograph Britain and Ireland",
           "Maybole (civil parish)"
-        ]
+        ],
+        "smallPath": "_m/g/c/u/d/maybole-castle-wp/hero-small.webp"
       },
       "images": [
         {
@@ -70,7 +71,8 @@
             "Maybole Castle",
             "Taken with Sony DSC-P92",
             "United Kingdom photographs taken on 2006-05-20"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/d/maybole-castle-wp/maybole-castle-geograph-org-uk-small.webp"
         },
         {
           "path": "_m/g/c/u/d/maybole-castle-wp/the-countess-s-window-geograph.jpg",
@@ -95,7 +97,8 @@
             "Oriel windows in the United Kingdom",
             "Taken with Nikon Coolpix 7600",
             "United Kingdom photographs taken on 2006-09-15"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/d/maybole-castle-wp/the-countess-s-window-geograph-small.webp"
         },
         {
           "path": "_m/g/c/u/d/maybole-castle-wp/maybole-castle-geograph-org-uk-1.jpg",
@@ -118,7 +121,8 @@
             "Information field template with formatting",
             "Maybole Castle",
             "Taken with Nikon Coolpix 7600"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/d/maybole-castle-wp/maybole-castle-geograph-org-uk-1-small.webp"
         },
         {
           "path": "_m/g/c/u/d/maybole-castle-wp/the-head-of-the-old-market-cro.jpg",
@@ -140,7 +144,9 @@
             "Market crosses in Scotland",
             "Maybole Castle",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/d/maybole-castle-wp/the-head-of-the-old-market-cro-medium.webp",
+          "smallPath": "_m/g/c/u/d/maybole-castle-wp/the-head-of-the-old-market-cro-small.webp"
         },
         {
           "path": "_m/g/c/u/d/maybole-castle-wp/maybole-castle-maybole-south-a.jpg",
@@ -162,7 +168,9 @@
             "Images by Roger Griffith",
             "Maybole Castle",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/d/maybole-castle-wp/maybole-castle-maybole-south-a-medium.webp",
+          "smallPath": "_m/g/c/u/d/maybole-castle-wp/maybole-castle-maybole-south-a-small.webp"
         },
         {
           "path": "_m/g/c/u/d/maybole-castle-wp/maybole-s-castle-maybole-south.jpg",
@@ -184,7 +192,9 @@
             "Images by Roger Griffith",
             "Maybole Castle",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/d/maybole-castle-wp/maybole-s-castle-maybole-south-medium.webp",
+          "smallPath": "_m/g/c/u/d/maybole-castle-wp/maybole-s-castle-maybole-south-small.webp"
         },
         {
           "path": "_m/g/c/u/d/maybole-castle-wp/maybole-old-town-cross-at-mayb.jpg",
@@ -207,7 +217,9 @@
             "Kennedy (Marquess of Ailsa) arms",
             "Maybole Castle",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/d/maybole-castle-wp/maybole-old-town-cross-at-mayb-medium.webp",
+          "smallPath": "_m/g/c/u/d/maybole-castle-wp/maybole-old-town-cross-at-mayb-small.webp"
         },
         {
           "path": "_m/tpc/so/ut/h-/ay/south-ayrshire/dean-castle.jpg",
@@ -361,7 +373,19 @@
           "sourceArticleId": "south-ayrshire",
           "sourceGeohash4": ""
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/u/d/maybole-castle-wp/gcud-maybole-castle-flight-context.mp3",
+        "_m/g/c/u/d/maybole-castle-wp/gcud-maybole-castle-intro.mp3",
+        "_m/g/c/u/d/maybole-castle-wp/gcud-maybole-castle-the-l-shape-on-high-street.mp3",
+        "_m/g/c/u/d/maybole-castle-wp/gcud-maybole-castle-feud-and-ambush.mp3",
+        "_m/g/c/u/d/maybole-castle-wp/gcud-maybole-castle-the-countess-and-the-gypsy.mp3",
+        "_m/g/c/u/d/maybole-castle-wp/gcud-maybole-castle-mackintoshs-notebook.mp3"
+      ],
+      "combinedNarration": "_m/g/c/u/d/maybole-castle-wp/gcud-maybole-castle-combined.mp3",
+      "combinedNarrationBytes": 3212611,
+      "combinedNarrationDuration": 259,
+      "combinedCover": "_m/g/c/u/d/maybole-castle-wp/gcud-maybole-castle-combined-cover.jpg"
     }
   }
 }

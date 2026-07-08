@@ -20,7 +20,8 @@
           "CC-BY-SA-3.0",
           "Self-published work",
           "Tidjikja"
-        ]
+        ],
+        "smallPath": "_m/e/e/r/c/tidjikja-wp/hero-small.webp"
       },
       "images": [
         {
@@ -47,7 +48,8 @@
             "PD Old",
             "Photographs by Agence Rol in the Bibliothèque nationale de France",
             "Tidjikja"
-          ]
+          ],
+          "smallPath": "_m/e/e/r/c/tidjikja-wp/tidjikdja-1908-small.webp"
         },
         {
           "path": "_m/e/e/r/c/tidjikja-wp/xavier-coppolani-tombe.jpg",
@@ -75,7 +77,8 @@
             "Photographs by Agence Rol in the Bibliothèque nationale de France",
             "Tidjikja",
             "Xavier Coppolani"
-          ]
+          ],
+          "smallPath": "_m/e/e/r/c/tidjikja-wp/xavier-coppolani-tombe-small.webp"
         },
         {
           "path": "_m/e/e/r/c/tidjikja-wp/tidjikja-khaima1.jpg",
@@ -96,7 +99,8 @@
             "Khaïmas in Mauritania",
             "Self-published work",
             "Tidjikja"
-          ]
+          ],
+          "smallPath": "_m/e/e/r/c/tidjikja-wp/tidjikja-khaima1-small.webp"
         },
         {
           "path": "_m/e/e/r/c/tidjikja-wp/tidjikja-rahla1.jpg",
@@ -118,7 +122,8 @@
             "Camels in Mauritania",
             "Self-published work",
             "Tidjikja"
-          ]
+          ],
+          "smallPath": "_m/e/e/r/c/tidjikja-wp/tidjikja-rahla1-small.webp"
         },
         {
           "path": "_m/e/e/r/c/tidjikja-wp/tidjikja-rahla2.jpg",
@@ -144,7 +149,8 @@
             "Furs in 2010",
             "Self-published work",
             "Tidjikja"
-          ]
+          ],
+          "smallPath": "_m/e/e/r/c/tidjikja-wp/tidjikja-rahla2-small.webp"
         },
         {
           "path": "_m/e/e/r/c/tidjikja-wp/tidjikja-colonial1.jpg",
@@ -166,7 +172,8 @@
             "French colonization in Africa",
             "Self-published work",
             "Tidjikja"
-          ]
+          ],
+          "smallPath": "_m/e/e/r/c/tidjikja-wp/tidjikja-colonial1-small.webp"
         },
         {
           "path": "_m/e/e/r/c/tidjikja-wp/tidjikja-hill1.jpg",
@@ -186,7 +193,8 @@
             "CC-BY-SA-3.0",
             "Self-published work",
             "Tidjikja"
-          ]
+          ],
+          "smallPath": "_m/e/e/r/c/tidjikja-wp/tidjikja-hill1-small.webp"
         },
         {
           "path": "_m/e/e/r/c/tidjikja-wp/tidjikja-wall-deco1.jpg",
@@ -204,7 +212,8 @@
           "sourceGeohash4": "eerc",
           "categories": [
             "CC-BY-SA-3.0"
-          ]
+          ],
+          "smallPath": "_m/e/e/r/c/tidjikja-wp/tidjikja-wall-deco1-small.webp"
         },
         {
           "path": "_m/e/e/r/c/tidjikja-wp/agriculteur.jpg",
@@ -219,7 +228,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agriculteur.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "tidjikja-wp",
-          "sourceGeohash4": "eerc"
+          "sourceGeohash4": "eerc",
+          "mediumPath": "_m/e/e/r/c/tidjikja-wp/agriculteur-medium.webp",
+          "smallPath": "_m/e/e/r/c/tidjikja-wp/agriculteur-small.webp"
         },
         {
           "path": "_m/e/e/r/c/tidjikja-wp/mauritanie-tidjikdja-vue-prise.jpg",
@@ -234,7 +245,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mauritanie,_Tidjikdja,_vue_prise_du_nord_-_btv1b69109237.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "tidjikja-wp",
-          "sourceGeohash4": "eerc"
+          "sourceGeohash4": "eerc",
+          "mediumPath": "_m/e/e/r/c/tidjikja-wp/mauritanie-tidjikdja-vue-prise-medium.webp",
+          "smallPath": "_m/e/e/r/c/tidjikja-wp/mauritanie-tidjikdja-vue-prise-small.webp"
         }
       ],
       "narration": [
@@ -243,7 +256,11 @@
         "_m/e/e/r/c/tidjikja-wp/eerc-tidjikja-where-the-caravans-met.mp3",
         "_m/e/e/r/c/tidjikja-wp/eerc-tidjikja-a-town-built-on-dates.mp3",
         "_m/e/e/r/c/tidjikja-wp/eerc-tidjikja-the-capital-of-tagant.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/e/e/r/c/tidjikja-wp/eerc-tidjikja-combined.mp3",
+      "combinedNarrationBytes": 2169336,
+      "combinedNarrationDuration": 174,
+      "combinedCover": "_m/e/e/r/c/tidjikja-wp/eerc-tidjikja-combined-cover.jpg"
     }
   }
 }

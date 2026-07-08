@@ -25,7 +25,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "siege-of-lathom-house-wp",
-    "sourceGeohash4": "gctb"
+    "sourceGeohash4": "gctb",
+    "mediumPath": "_m/g/c/t/b/siege-of-lathom-house-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/t/b/siege-of-lathom-house-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Cromwell's Stone.JPG",
@@ -79,10 +81,33 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "siege-of-lathom-house-wp",
-      "sourceGeohash4": "gctb"
+      "sourceGeohash4": "gctb",
+      "mediumPath": "_m/g/c/t/b/siege-of-lathom-house-wp/relief-map-lancashire-medium.webp",
+      "smallPath": "_m/g/c/t/b/siege-of-lathom-house-wp/relief-map-lancashire-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/t/b/siege-of-lathom-house-wp/relief-map-lancashire.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gctb-siege-of-lathom-house-flight-context.mp3",
+      "gctb-siege-of-lathom-house-intro.mp3",
+      "gctb-siege-of-lathom-house-the-last-royalist-house-in-lancashire.mp3",
+      "gctb-siege-of-lathom-house-what-she-built-to-hold.mp3",
+      "gctb-siege-of-lathom-house-the-countess-and-the-messengers.mp3",
+      "gctb-siege-of-lathom-house-the-second-siege-and-the-end.mp3",
+      "gctb-siege-of-lathom-house-what-remains-and-who-remembered.mp3"
+    ],
+    "durations": {
+      "gctb-siege-of-lathom-house-flight-context.mp3": 43.90525,
+      "gctb-siege-of-lathom-house-intro.mp3": 52.028875,
+      "gctb-siege-of-lathom-house-the-last-royalist-house-in-lancashire.mp3": 60.2512916,
+      "gctb-siege-of-lathom-house-what-she-built-to-hold.mp3": 61.8268333,
+      "gctb-siege-of-lathom-house-the-countess-and-the-messengers.mp3": 63.5583333,
+      "gctb-siege-of-lathom-house-the-second-siege-and-the-end.mp3": 72.4920833,
+      "gctb-siege-of-lathom-house-what-remains-and-who-remembered.mp3": 62.1044583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

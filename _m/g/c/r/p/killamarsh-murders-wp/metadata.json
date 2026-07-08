@@ -22,7 +22,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "killamarsh-murders-wp",
-    "sourceGeohash4": "gcrp"
+    "sourceGeohash4": "gcrp",
+    "mediumPath": "_m/g/c/r/p/killamarsh-murders-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/r/p/killamarsh-murders-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Killamarsh tributes.jpg",
@@ -49,5 +51,24 @@
     "sourceGeohash4": "gcrp"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcrp-killamarsh-murders-flight-context.mp3",
+      "gcrp-killamarsh-murders-intro.mp3",
+      "gcrp-killamarsh-murders-a-family-on-chandos-crescent.mp3",
+      "gcrp-killamarsh-murders-what-happened-that-night.mp3",
+      "gcrp-killamarsh-murders-the-failure-that-was-documented.mp3",
+      "gcrp-killamarsh-murders-what-stands-there-now.mp3"
+    ],
+    "durations": {
+      "gcrp-killamarsh-murders-flight-context.mp3": 44.472875,
+      "gcrp-killamarsh-murders-intro.mp3": 50.9026666,
+      "gcrp-killamarsh-murders-a-family-on-chandos-crescent.mp3": 57.5429583,
+      "gcrp-killamarsh-murders-what-happened-that-night.mp3": 53.096875,
+      "gcrp-killamarsh-murders-the-failure-that-was-documented.mp3": 73.3985416,
+      "gcrp-killamarsh-murders-what-stands-there-now.mp3": 74.0874166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -30,7 +30,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "battle-of-renfrew-wp",
-    "sourceGeohash4": "gcuv"
+    "sourceGeohash4": "gcuv",
+    "smallPath": "_m/g/c/u/v/battle-of-renfrew-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "GlasgowButeHallStKentigern.jpg",
@@ -94,7 +95,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "battle-of-renfrew-wp",
-      "sourceGeohash4": "gcuv"
+      "sourceGeohash4": "gcuv",
+      "smallPath": "_m/g/c/u/v/battle-of-renfrew-wp/illustration-viking-sh-small.webp"
     },
     {
       "filename": "Walter fitz Alan (map2).png",
@@ -119,7 +121,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "battle-of-renfrew-wp",
-      "sourceGeohash4": "gcuv"
+      "sourceGeohash4": "gcuv",
+      "smallPath": "_m/g/c/u/v/battle-of-renfrew-wp/map-wikipedia-article-small.webp"
     },
     {
       "filename": "Malcolm IV, King of Scotland, charter to Kelso Abbey, 1159, initial (crop).jpg",
@@ -147,7 +150,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "battle-of-renfrew-wp",
-      "sourceGeohash4": "gcuv"
+      "sourceGeohash4": "gcuv",
+      "smallPath": "_m/g/c/u/v/battle-of-renfrew-wp/detail-charter-malcolm-small.webp"
     },
     {
       "filename": "Walter fitz Alan (map3).png",
@@ -172,7 +176,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "battle-of-renfrew-wp",
-      "sourceGeohash4": "gcuv"
+      "sourceGeohash4": "gcuv",
+      "smallPath": "_m/g/c/u/v/battle-of-renfrew-wp/map-wikipedia-article-1-small.webp"
     },
     {
       "filename": "Battle of Renfrew.png",
@@ -197,7 +202,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "battle-of-renfrew-wp",
-      "sourceGeohash4": "gcuv"
+      "sourceGeohash4": "gcuv",
+      "smallPath": "_m/g/c/u/v/battle-of-renfrew-wp/map-showing-some-locat-small.webp"
     },
     {
       "filename": "Lewis chessmen 15 (crop).jpg",
@@ -216,7 +222,8 @@
       "dateCreated": "2010-08-10",
       "sourceType": "core",
       "sourceArticleId": "battle-of-renfrew-wp",
-      "sourceGeohash4": "gcuv"
+      "sourceGeohash4": "gcuv",
+      "smallPath": "_m/g/c/u/v/battle-of-renfrew-wp/one-lewis-chessmen-ima-small.webp"
     }
   ],
   "galleryPaths": [
@@ -226,5 +233,24 @@
     "_m/g/c/u/v/battle-of-renfrew-wp/map-wikipedia-article-1.png",
     "_m/g/c/u/v/battle-of-renfrew-wp/map-showing-some-locat.png",
     "_m/g/c/u/v/battle-of-renfrew-wp/one-lewis-chessmen-ima.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcuv-battle-of-renfrew-flight-context.mp3",
+      "gcuv-battle-of-renfrew-intro.mp3",
+      "gcuv-battle-of-renfrew-two-worlds-at-the-rivers-mouth.mp3",
+      "gcuv-battle-of-renfrew-why-he-came-when-he-did.mp3",
+      "gcuv-battle-of-renfrew-queen-blearies-stone.mp3",
+      "gcuv-battle-of-renfrew-what-the-river-decided.mp3"
+    ],
+    "durations": {
+      "gcuv-battle-of-renfrew-flight-context.mp3": 54.1591666,
+      "gcuv-battle-of-renfrew-intro.mp3": 38.4769166,
+      "gcuv-battle-of-renfrew-two-worlds-at-the-rivers-mouth.mp3": 59.5447083,
+      "gcuv-battle-of-renfrew-why-he-came-when-he-did.mp3": 65.967625,
+      "gcuv-battle-of-renfrew-queen-blearies-stone.mp3": 69.954,
+      "gcuv-battle-of-renfrew-what-the-river-decided.mp3": 48.7408333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

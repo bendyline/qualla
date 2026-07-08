@@ -22,7 +22,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "calder-abbey-wp",
-    "sourceGeohash4": "gctt"
+    "sourceGeohash4": "gctt",
+    "mediumPath": "_m/g/c/t/t/calder-abbey-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/t/t/calder-abbey-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "CalderAbbey.JPG",
@@ -77,7 +79,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "calder-abbey-wp",
-      "sourceGeohash4": "gctt"
+      "sourceGeohash4": "gctt",
+      "smallPath": "_m/g/c/t/t/calder-abbey-wp/calder-abbey-cumbria-small.webp"
     },
     {
       "filename": "Calder abbey.jpg",
@@ -100,7 +103,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "calder-abbey-wp",
-      "sourceGeohash4": "gctt"
+      "sourceGeohash4": "gctt",
+      "mediumPath": "_m/g/c/t/t/calder-abbey-wp/map-layout-buildings-c-medium.webp",
+      "smallPath": "_m/g/c/t/t/calder-abbey-wp/map-layout-buildings-c-small.webp"
     },
     {
       "filename": "CalderAbbey1.jpg",
@@ -124,7 +129,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "calder-abbey-wp",
-      "sourceGeohash4": "gctt"
+      "sourceGeohash4": "gctt",
+      "smallPath": "_m/g/c/t/t/calder-abbey-wp/calderabbey1-small.webp"
     },
     {
       "filename": "CalderAbbey2.jpg",
@@ -149,7 +155,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "calder-abbey-wp",
-      "sourceGeohash4": "gctt"
+      "sourceGeohash4": "gctt",
+      "smallPath": "_m/g/c/t/t/calder-abbey-wp/calderabbey2-small.webp"
     },
     {
       "filename": "Calder Abbey Hall.jpg",
@@ -174,7 +181,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "calder-abbey-wp",
-      "sourceGeohash4": "gctt"
+      "sourceGeohash4": "gctt",
+      "smallPath": "_m/g/c/t/t/calder-abbey-wp/calder-abbey-hall-small.webp"
     },
     {
       "filename": "Calder Abbey Ice House. - geograph.org.uk - 84174.jpg",
@@ -202,7 +210,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "calder-abbey-wp",
-      "sourceGeohash4": "gctt"
+      "sourceGeohash4": "gctt",
+      "smallPath": "_m/g/c/t/t/calder-abbey-wp/calder-abbey-ice-house-geograp-small.webp"
     },
     {
       "filename": "Ruins of Calder Abbey - geograph.org.uk - 1500462.jpg",
@@ -227,7 +236,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "calder-abbey-wp",
-      "sourceGeohash4": "gctt"
+      "sourceGeohash4": "gctt",
+      "smallPath": "_m/g/c/t/t/calder-abbey-wp/ruins-of-calder-abbey-geograph-small.webp"
     }
   ],
   "galleryPaths": [
@@ -239,5 +249,24 @@
     "_m/g/c/t/t/calder-abbey-wp/calder-abbey-ice-house-geograp.jpg",
     "_m/g/c/t/t/calder-abbey-wp/ruins-of-calder-abbey-geograph.jpg"
   ],
-  "updatedAt": "2026-06-22T16:45:36.195Z"
+  "updatedAt": "2026-06-22T16:45:36.195Z",
+  "narration": {
+    "files": [
+      "gctt-calder-abbey-flight-context.mp3",
+      "gctt-calder-abbey-intro.mp3",
+      "gctt-calder-abbey-driven-out-twice.mp3",
+      "gctt-calder-abbey-the-second-founding.mp3",
+      "gctt-calder-abbey-the-end-of-monasteries.mp3",
+      "gctt-calder-abbey-what-remains.mp3"
+    ],
+    "durations": {
+      "gctt-calder-abbey-flight-context.mp3": 52.8010416,
+      "gctt-calder-abbey-intro.mp3": 35.307375,
+      "gctt-calder-abbey-driven-out-twice.mp3": 70.8547916,
+      "gctt-calder-abbey-the-second-founding.mp3": 55.2956666,
+      "gctt-calder-abbey-the-end-of-monasteries.mp3": 60.0357083,
+      "gctt-calder-abbey-what-remains.mp3": 75.1994166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

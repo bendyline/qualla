@@ -25,7 +25,8 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "prestwick-wp",
-      "sourceGeohash4": "gcue"
+      "sourceGeohash4": "gcue",
+      "smallPath": "_m/g/c/u/e/prestwick-wp/elvis-presley-star-geograph-or-small.webp"
     },
     {
       "filename": "St Nicholas old kirk, Prestwick.JPG",
@@ -48,12 +49,33 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "prestwick-wp",
-      "sourceGeohash4": "gcue"
+      "sourceGeohash4": "gcue",
+      "mediumPath": "_m/g/c/u/e/prestwick-wp/st-nicholas-old-kirk-prestwick-medium.webp",
+      "smallPath": "_m/g/c/u/e/prestwick-wp/st-nicholas-old-kirk-prestwick-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/u/e/prestwick-wp/elvis-presley-star-geograph-or.jpg",
     "_m/g/c/u/e/prestwick-wp/st-nicholas-old-kirk-prestwick.jpg"
   ],
-  "updatedAt": "2026-06-22T19:18:44.856Z"
+  "updatedAt": "2026-06-22T19:18:44.856Z",
+  "narration": {
+    "files": [
+      "gcue-prestwick-flight-context.mp3",
+      "gcue-prestwick-intro.mp3",
+      "gcue-prestwick-priests-farm-by-the-firth.mp3",
+      "gcue-prestwick-the-first-open.mp3",
+      "gcue-prestwick-transatlantic-gateway.mp3",
+      "gcue-prestwick-the-crash-and-the-lido.mp3"
+    ],
+    "durations": {
+      "gcue-prestwick-flight-context.mp3": 49.7560833,
+      "gcue-prestwick-intro.mp3": 43.0115416,
+      "gcue-prestwick-priests-farm-by-the-firth.mp3": 62.1105416,
+      "gcue-prestwick-the-first-open.mp3": 60.1791666,
+      "gcue-prestwick-transatlantic-gateway.mp3": 63.8095833,
+      "gcue-prestwick-the-crash-and-the-lido.mp3": 75.1109583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

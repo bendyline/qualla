@@ -23,7 +23,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "battle-of-lincoln-1217-wp",
-    "sourceGeohash4": "gcrw"
+    "sourceGeohash4": "gcrw",
+    "mediumPath": "_m/g/c/r/w/battle-of-lincoln-1217-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/r/w/battle-of-lincoln-1217-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "MapOfFirstBaronsWar.png",
@@ -79,7 +81,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-lincoln-1217-wp",
-      "sourceGeohash4": "gcrw"
+      "sourceGeohash4": "gcrw",
+      "smallPath": "_m/g/c/r/w/battle-of-lincoln-1217-wp/bitvalincoln1217-small.webp"
     },
     {
       "filename": "BitvaLincoln1217ortho.jpg",
@@ -110,7 +113,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-lincoln-1217-wp",
-      "sourceGeohash4": "gcrw"
+      "sourceGeohash4": "gcrw",
+      "smallPath": "_m/g/c/r/w/battle-of-lincoln-1217-wp/bitvalincoln1217ortho-small.webp"
     },
     {
       "filename": "Richard Caton Woodville junior - After the Fair of Lincoln.jpg",
@@ -133,7 +137,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-lincoln-1217-wp",
-      "sourceGeohash4": "gcrw"
+      "sourceGeohash4": "gcrw",
+      "smallPath": "_m/g/c/r/w/battle-of-lincoln-1217-wp/richard-caton-woodville-junior-small.webp"
     }
   ],
   "galleryPaths": [
@@ -141,5 +146,26 @@
     "_m/g/c/r/w/battle-of-lincoln-1217-wp/bitvalincoln1217ortho.jpg",
     "_m/g/c/r/w/battle-of-lincoln-1217-wp/richard-caton-woodville-junior.jpg"
   ],
-  "updatedAt": "2026-06-22T10:38:02.869Z"
+  "updatedAt": "2026-06-22T10:38:02.869Z",
+  "narration": {
+    "files": [
+      "gcrw-battle-of-lincoln-1217-flight-context.mp3",
+      "gcrw-battle-of-lincoln-1217-intro.mp3",
+      "gcrw-battle-of-lincoln-1217-how-england-almost-became-french.mp3",
+      "gcrw-battle-of-lincoln-1217-why-lincoln-mattered.mp3",
+      "gcrw-battle-of-lincoln-1217-the-charge.mp3",
+      "gcrw-battle-of-lincoln-1217-the-lincoln-fair.mp3",
+      "gcrw-battle-of-lincoln-1217-what-marshal-saved.mp3"
+    ],
+    "durations": {
+      "gcrw-battle-of-lincoln-1217-flight-context.mp3": 71.137625,
+      "gcrw-battle-of-lincoln-1217-intro.mp3": 54.8950416,
+      "gcrw-battle-of-lincoln-1217-how-england-almost-became-french.mp3": 74.7165833,
+      "gcrw-battle-of-lincoln-1217-why-lincoln-mattered.mp3": 68.9315416,
+      "gcrw-battle-of-lincoln-1217-the-charge.mp3": 81.562125,
+      "gcrw-battle-of-lincoln-1217-the-lincoln-fair.mp3": 65.3525416,
+      "gcrw-battle-of-lincoln-1217-what-marshal-saved.mp3": 75.4532916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

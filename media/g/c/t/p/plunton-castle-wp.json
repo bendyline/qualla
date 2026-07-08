@@ -22,7 +22,9 @@
           "Images from Geograph Britain and Ireland",
           "Information field template with formatting",
           "Plunton Castle"
-        ]
+        ],
+        "mediumPath": "_m/g/c/t/p/plunton-castle-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/t/p/plunton-castle-wp/hero-small.webp"
       },
       "images": [
         {
@@ -68,7 +70,9 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "Plunton Castle"
-          ]
+          ],
+          "mediumPath": "_m/g/c/t/p/plunton-castle-wp/plunton-castle-medium.webp",
+          "smallPath": "_m/g/c/t/p/plunton-castle-wp/plunton-castle-small.webp"
         },
         {
           "path": "_m/g/c/t/p/plunton-castle-wp/detail-map-published-j.jpg",
@@ -90,7 +94,8 @@
             "CC-Zero",
             "Old maps of Kirkcudbrightshire",
             "Plunton Castle"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/p/plunton-castle-wp/detail-map-published-j-small.webp"
         },
         {
           "path": "_m/g/c/t/p/plunton-castle-wp/plunton-castle-geograph-org-uk.jpg",
@@ -113,7 +118,8 @@
             "Plunton Castle",
             "Taken with Olympus C-8080WZ",
             "United Kingdom photographs taken on 2007-07-05"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/p/plunton-castle-wp/plunton-castle-geograph-org-uk-small.webp"
         },
         {
           "path": "_m/g/c/t/p/plunton-castle-wp/plunton-castle-borgue-geograph.jpg",
@@ -133,7 +139,8 @@
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland",
             "Plunton Castle"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/p/plunton-castle-wp/plunton-castle-borgue-geograph-small.webp"
         },
         {
           "path": "_m/g/c/t/p/plunton-castle-wp/plunton-castle-geograph-org-uk-1.jpg",
@@ -153,7 +160,9 @@
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland",
             "Plunton Castle"
-          ]
+          ],
+          "mediumPath": "_m/g/c/t/p/plunton-castle-wp/plunton-castle-geograph-org-uk-1-medium.webp",
+          "smallPath": "_m/g/c/t/p/plunton-castle-wp/plunton-castle-geograph-org-uk-1-small.webp"
         },
         {
           "path": "_m/g/c/s/x/wigtownshire-wp/cree-bridge.jpg",
@@ -307,7 +316,20 @@
           "sourceArticleId": "wigtownshire-wp",
           "sourceGeohash4": "gcv3"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/t/p/plunton-castle-wp/gctp-plunton-castle-flight-context.mp3",
+        "_m/g/c/t/p/plunton-castle-wp/gctp-plunton-castle-intro.mp3",
+        "_m/g/c/t/p/plunton-castle-wp/gctp-plunton-castle-an-unusual-floor-plan.mp3",
+        "_m/g/c/t/p/plunton-castle-wp/gctp-plunton-castle-burns-ditches-marsh.mp3",
+        "_m/g/c/t/p/plunton-castle-wp/gctp-plunton-castle-the-great-hall-and-the-turrets.mp3",
+        "_m/g/c/t/p/plunton-castle-wp/gctp-plunton-castle-how-the-estate-came-together.mp3",
+        "_m/g/c/t/p/plunton-castle-wp/gctp-plunton-castle-devorgoil-and-the-future.mp3"
+      ],
+      "combinedNarration": "_m/g/c/t/p/plunton-castle-wp/gctp-plunton-castle-combined.mp3",
+      "combinedNarrationBytes": 3995013,
+      "combinedNarrationDuration": 323,
+      "combinedCover": "_m/g/c/t/p/plunton-castle-wp/gctp-plunton-castle-combined-cover.jpg"
     }
   }
 }

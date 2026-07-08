@@ -24,7 +24,9 @@
           "St Trinnean's School",
           "Taken with Panasonic Lumix DMC-FZ10",
           "United Kingdom photographs taken on 2005-08-05"
-        ]
+        ],
+        "mediumPath": "_m/g/c/v/w/edinburgh-south-wk/hero-medium.webp",
+        "smallPath": "_m/g/c/v/w/edinburgh-south-wk/hero-small.webp"
       },
       "images": [
         {
@@ -90,7 +92,9 @@
             "Royal Dick Veterinary College",
             "Self-published work",
             "United Kingdom photographs taken on 2013-08-23"
-          ]
+          ],
+          "mediumPath": "_m/g/c/v/w/edinburgh-south-wk/summerhall-arts-hub-medium.webp",
+          "smallPath": "_m/g/c/v/w/edinburgh-south-wk/summerhall-arts-hub-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-south-wk/summer-crowd-meadows.jpg",
@@ -112,7 +116,9 @@
             "Taken with Nikon D80",
             "The Meadows, Edinburgh",
             "Towers in Edinburgh"
-          ]
+          ],
+          "mediumPath": "_m/g/c/v/w/edinburgh-south-wk/summer-crowd-meadows-medium.webp",
+          "smallPath": "_m/g/c/v/w/edinburgh-south-wk/summer-crowd-meadows-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-south-wk/view-west-end-royal-co.jpg",
@@ -127,7 +133,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Commonwealth_Pool,_Edinburgh.JPG",
           "sourceType": "core",
           "sourceArticleId": "edinburgh-south-wk",
-          "sourceGeohash4": "gcvw"
+          "sourceGeohash4": "gcvw",
+          "mediumPath": "_m/g/c/v/w/edinburgh-south-wk/view-west-end-royal-co-medium.webp",
+          "smallPath": "_m/g/c/v/w/edinburgh-south-wk/view-west-end-royal-co-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-south-wk/canny-man-s-pub-sign-m.jpg",
@@ -142,7 +150,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canny_Man%27s_pub_sign,_Morningside_Road_-_geograph.org.uk_-_3126833.jpg",
           "sourceType": "core",
           "sourceArticleId": "edinburgh-south-wk",
-          "sourceGeohash4": "gcvw"
+          "sourceGeohash4": "gcvw",
+          "smallPath": "_m/g/c/v/w/edinburgh-south-wk/canny-man-s-pub-sign-m-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-south-wk/hillend-ski-centre.jpg",
@@ -157,7 +166,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hillend_Ski_Centre_-_geograph.org.uk_-_3343758.jpg",
           "sourceType": "core",
           "sourceArticleId": "edinburgh-south-wk",
-          "sourceGeohash4": "gcvw"
+          "sourceGeohash4": "gcvw",
+          "smallPath": "_m/g/c/v/w/edinburgh-south-wk/hillend-ski-centre-small.webp"
         },
         {
           "path": "_m/g/c/v/w/south-bridge-edinburgh-wp/a7-south-bridge-edinburgh-dsc0.jpg",
@@ -528,7 +538,20 @@
           "sourceArticleId": "penicuik-wk",
           "sourceGeohash4": "gcvt"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/v/w/edinburgh-south-wk/gcvw-edinburgh-south-flight-context.mp3",
+        "_m/g/c/v/w/edinburgh-south-wk/gcvw-edinburgh-south-intro.mp3",
+        "_m/g/c/v/w/edinburgh-south-wk/gcvw-edinburgh-south-the-meadows.mp3",
+        "_m/g/c/v/w/edinburgh-south-wk/gcvw-edinburgh-south-the-quartermile-and-the-kidney.mp3",
+        "_m/g/c/v/w/edinburgh-south-wk/gcvw-edinburgh-south-stevenson-at-swanston.mp3",
+        "_m/g/c/v/w/edinburgh-south-wk/gcvw-edinburgh-south-the-caiy-stane.mp3",
+        "_m/g/c/v/w/edinburgh-south-wk/gcvw-edinburgh-south-wild-edges.mp3"
+      ],
+      "combinedNarration": "_m/g/c/v/w/edinburgh-south-wk/gcvw-edinburgh-south-combined.mp3",
+      "combinedNarrationBytes": 4064216,
+      "combinedNarrationDuration": 328,
+      "combinedCover": "_m/g/c/v/w/edinburgh-south-wk/gcvw-edinburgh-south-combined-cover.jpg"
     }
   }
 }

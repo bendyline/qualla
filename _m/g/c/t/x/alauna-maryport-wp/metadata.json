@@ -96,7 +96,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "alauna-maryport-wp",
-      "sourceGeohash4": "gctx"
+      "sourceGeohash4": "gctx",
+      "smallPath": "_m/g/c/t/x/alauna-maryport-wp/bs-alauna-carvetiorum-small.webp"
     },
     {
       "filename": "Chri-Ro-Stein Maryport.png",
@@ -118,7 +119,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "alauna-maryport-wp",
-      "sourceGeohash4": "gctx"
+      "sourceGeohash4": "gctx",
+      "smallPath": "_m/g/c/t/x/alauna-maryport-wp/chri-ro-stein-maryport-small.webp"
     },
     {
       "filename": "Bauinschrift Legio II Maryport.png",
@@ -141,7 +143,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "alauna-maryport-wp",
-      "sourceGeohash4": "gctx"
+      "sourceGeohash4": "gctx",
+      "smallPath": "_m/g/c/t/x/alauna-maryport-wp/bauinschrift-legio-ii-maryport-small.webp"
     },
     {
       "filename": "Befundskizze Mithräum Maryport 1.png",
@@ -163,7 +166,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "alauna-maryport-wp",
-      "sourceGeohash4": "gctx"
+      "sourceGeohash4": "gctx",
+      "smallPath": "_m/g/c/t/x/alauna-maryport-wp/befundskizze-mithraum-maryport-small.webp"
     },
     {
       "filename": "Senhouse Museum, Maryport, UK (38440864335).jpg",
@@ -188,7 +192,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "alauna-maryport-wp",
-      "sourceGeohash4": "gctx"
+      "sourceGeohash4": "gctx",
+      "mediumPath": "_m/g/c/t/x/alauna-maryport-wp/senhouse-museum-maryport-uk-38-medium.webp",
+      "smallPath": "_m/g/c/t/x/alauna-maryport-wp/senhouse-museum-maryport-uk-38-small.webp"
     },
     {
       "filename": "Senhouse Museum, Maryport, UK (25449349818).jpg",
@@ -214,7 +220,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "alauna-maryport-wp",
-      "sourceGeohash4": "gctx"
+      "sourceGeohash4": "gctx",
+      "mediumPath": "_m/g/c/t/x/alauna-maryport-wp/senhouse-museum-maryport-uk-25-medium.webp",
+      "smallPath": "_m/g/c/t/x/alauna-maryport-wp/senhouse-museum-maryport-uk-25-small.webp"
     },
     {
       "filename": "Maryport (Alavna) Roman fort - geograph.org.uk - 7879035.jpg",
@@ -236,7 +244,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "alauna-maryport-wp",
-      "sourceGeohash4": "gctx"
+      "sourceGeohash4": "gctx",
+      "mediumPath": "_m/g/c/t/x/alauna-maryport-wp/maryport-alavna-roman-fort-geo-medium.webp",
+      "smallPath": "_m/g/c/t/x/alauna-maryport-wp/maryport-alavna-roman-fort-geo-small.webp"
     },
     {
       "filename": "Maryport (Alavna) Roman fort - geograph.org.uk - 7879042.jpg",
@@ -258,7 +268,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "alauna-maryport-wp",
-      "sourceGeohash4": "gctx"
+      "sourceGeohash4": "gctx",
+      "mediumPath": "_m/g/c/t/x/alauna-maryport-wp/maryport-alavna-roman-fort-geo-1-medium.webp",
+      "smallPath": "_m/g/c/t/x/alauna-maryport-wp/maryport-alavna-roman-fort-geo-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -272,5 +284,26 @@
     "_m/g/c/t/x/alauna-maryport-wp/maryport-alavna-roman-fort-geo.jpg",
     "_m/g/c/t/x/alauna-maryport-wp/maryport-alavna-roman-fort-geo-1.jpg"
   ],
-  "updatedAt": "2026-06-22T18:18:08.325Z"
+  "updatedAt": "2026-06-22T18:18:08.325Z",
+  "narration": {
+    "files": [
+      "gctx-alauna-maryport-flight-context.mp3",
+      "gctx-alauna-maryport-intro.mp3",
+      "gctx-alauna-maryport-a-name-from-a-single-source.mp3",
+      "gctx-alauna-maryport-reading-the-ground.mp3",
+      "gctx-alauna-maryport-voices-in-stone.mp3",
+      "gctx-alauna-maryport-why-the-altars-were-buried.mp3",
+      "gctx-alauna-maryport-the-senhouse-collection.mp3"
+    ],
+    "durations": {
+      "gctx-alauna-maryport-flight-context.mp3": 42.4262083,
+      "gctx-alauna-maryport-intro.mp3": 44.21825,
+      "gctx-alauna-maryport-a-name-from-a-single-source.mp3": 51.1378333,
+      "gctx-alauna-maryport-reading-the-ground.mp3": 58.61975,
+      "gctx-alauna-maryport-voices-in-stone.mp3": 48.9250833,
+      "gctx-alauna-maryport-why-the-altars-were-buried.mp3": 55.1222083,
+      "gctx-alauna-maryport-the-senhouse-collection.mp3": 49.292625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

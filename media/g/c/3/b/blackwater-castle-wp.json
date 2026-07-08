@@ -23,7 +23,8 @@
           "Images from Geograph Britain and Ireland",
           "Information field template with formatting",
           "Walls in County Cork"
-        ]
+        ],
+        "smallPath": "_m/g/c/3/b/blackwater-castle-wp/hero-small.webp"
       },
       "images": [
         {
@@ -46,7 +47,8 @@
             "Images by Mike Searle",
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting"
-          ]
+          ],
+          "smallPath": "_m/g/c/3/b/blackwater-castle-wp/castles-munster-castle-small.webp"
         },
         {
           "path": "_m/g/c/3/b/blackwater-castle-wp/castle-widenham.jpg",
@@ -68,7 +70,8 @@
             "Images by Jonathan Thacker",
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting"
-          ]
+          ],
+          "smallPath": "_m/g/c/3/b/blackwater-castle-wp/castle-widenham-small.webp"
         },
         {
           "path": "_m/g/c/3/b/blackwater-castle-wp/castles-of-munster-castle-wide.jpg",
@@ -88,7 +91,8 @@
             "Blackwater Castle",
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/3/b/blackwater-castle-wp/castles-of-munster-castle-wide-small.webp"
         }
       ],
       "narration": [
@@ -98,7 +102,11 @@
         "_m/g/c/3/b/blackwater-castle-wp/gc3b-blackwater-castle-roche-country.mp3",
         "_m/g/c/3/b/blackwater-castle-wp/gc3b-blackwater-castle-the-widenhams-move-in.mp3",
         "_m/g/c/3/b/blackwater-castle-wp/gc3b-blackwater-castle-self-sufficient-heritage.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/3/b/blackwater-castle-wp/gc3b-blackwater-castle-combined.mp3",
+      "combinedNarrationBytes": 3376526,
+      "combinedNarrationDuration": 268,
+      "combinedCover": "_m/g/c/3/b/blackwater-castle-wp/gc3b-blackwater-castle-combined-cover.jpg"
     }
   }
 }

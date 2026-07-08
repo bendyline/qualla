@@ -15,7 +15,8 @@
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:RAF_Carew_Cheriton-_control_tower_(geograph_5530406).jpg",
         "sourceType": "core",
         "sourceArticleId": "raf-carew-cheriton-wp",
-        "sourceGeohash4": "gchw"
+        "sourceGeohash4": "gchw",
+        "smallPath": "_m/g/c/h/w/raf-carew-cheriton-wp/hero-small.webp"
       },
       "images": [
         {
@@ -39,7 +40,8 @@
             "PD US",
             "SSZ class airship",
             "Template Unknown (author)"
-          ]
+          ],
+          "smallPath": "_m/g/c/h/w/raf-carew-cheriton-wp/british-ssz-class-blim-small.webp"
         },
         {
           "path": "_m/g/c/h/w/raf-carew-cheriton-wp/carew-control-tower.jpg",
@@ -54,7 +56,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carew_Control_Tower_-_geograph.org.uk_-_2736533.jpg",
           "sourceType": "core",
           "sourceArticleId": "raf-carew-cheriton-wp",
-          "sourceGeohash4": "gchw"
+          "sourceGeohash4": "gchw",
+          "smallPath": "_m/g/c/h/w/raf-carew-cheriton-wp/carew-control-tower-small.webp"
         },
         {
           "path": "_m/g/c/h/w/raf-carew-cheriton-wp/control-tower-raf-carew-cherit.jpg",
@@ -69,7 +72,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Control_tower_-_RAF_Carew_Cheriton_-_geograph.org.uk_-_5530411.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "raf-carew-cheriton-wp",
-          "sourceGeohash4": "gchw"
+          "sourceGeohash4": "gchw",
+          "smallPath": "_m/g/c/h/w/raf-carew-cheriton-wp/control-tower-raf-carew-cherit-small.webp"
         }
       ],
       "narration": [
@@ -80,7 +84,11 @@
         "_m/g/c/h/w/raf-carew-cheriton-wp/gchw-raf-carew-cheriton-radio-school.mp3",
         "_m/g/c/h/w/raf-carew-cheriton-wp/gchw-raf-carew-cheriton-the-5-000.mp3",
         "_m/g/c/h/w/raf-carew-cheriton-wp/gchw-raf-carew-cheriton-the-field-now.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/h/w/raf-carew-cheriton-wp/gchw-raf-carew-cheriton-combined.mp3",
+      "combinedNarrationBytes": 4842963,
+      "combinedNarrationDuration": 398,
+      "combinedCover": "_m/g/c/h/w/raf-carew-cheriton-wp/gchw-raf-carew-cheriton-combined-cover.jpg"
     }
   }
 }

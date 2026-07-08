@@ -142,7 +142,9 @@
       ],
       "sourceType": "sibling",
       "sourceArticleId": "strangford-wp",
-      "sourceGeohash4": "gcsj"
+      "sourceGeohash4": "gcsj",
+      "mediumPath": "_m/g/c/s/j/strangford-wp/strangford-01-august-2009-medium.webp",
+      "smallPath": "_m/g/c/s/j/strangford-wp/strangford-01-august-2009-small.webp"
     },
     {
       "filename": "Strangford (04), August 2009.JPG",
@@ -170,7 +172,9 @@
       ],
       "sourceType": "sibling",
       "sourceArticleId": "strangford-wp",
-      "sourceGeohash4": "gcsj"
+      "sourceGeohash4": "gcsj",
+      "mediumPath": "_m/g/c/s/j/strangford-wp/strangford-04-august-2009-medium.webp",
+      "smallPath": "_m/g/c/s/j/strangford-wp/strangford-04-august-2009-small.webp"
     },
     {
       "filename": "Strangford (07), August 2009.JPG",
@@ -200,7 +204,9 @@
       ],
       "sourceType": "sibling",
       "sourceArticleId": "strangford-wp",
-      "sourceGeohash4": "gcsj"
+      "sourceGeohash4": "gcsj",
+      "mediumPath": "_m/g/c/s/j/strangford-wp/strangford-07-august-2009-medium.webp",
+      "smallPath": "_m/g/c/s/j/strangford-wp/strangford-07-august-2009-small.webp"
     },
     {
       "filename": "Strangford Ferry (12), August 2009.JPG",
@@ -227,7 +233,9 @@
       ],
       "sourceType": "sibling",
       "sourceArticleId": "strangford-wp",
-      "sourceGeohash4": "gcsj"
+      "sourceGeohash4": "gcsj",
+      "mediumPath": "_m/g/c/s/j/strangford-wp/strangford-ferry-12-august-200-medium.webp",
+      "smallPath": "_m/g/c/s/j/strangford-wp/strangford-ferry-12-august-200-small.webp"
     },
     {
       "filename": "Strangford Castle (01), August 2009.JPG",
@@ -254,7 +262,9 @@
       ],
       "sourceType": "sibling",
       "sourceArticleId": "strangford-wp",
-      "sourceGeohash4": "gcsj"
+      "sourceGeohash4": "gcsj",
+      "mediumPath": "_m/g/c/s/j/strangford-wp/strangford-castle-01-august-20-medium.webp",
+      "smallPath": "_m/g/c/s/j/strangford-wp/strangford-castle-01-august-20-small.webp"
     },
     {
       "filename": "Strangford Ferry Terminal (13), August 2009.JPG",
@@ -278,7 +288,9 @@
       ],
       "sourceType": "sibling",
       "sourceArticleId": "strangford-wp",
-      "sourceGeohash4": "gcsj"
+      "sourceGeohash4": "gcsj",
+      "mediumPath": "_m/g/c/s/j/strangford-wp/strangford-ferry-terminal-13-a-medium.webp",
+      "smallPath": "_m/g/c/s/j/strangford-wp/strangford-ferry-terminal-13-a-small.webp"
     },
     {
       "filename": "The Square, Strangford, June 2011 (01).JPG",
@@ -295,7 +307,9 @@
       "dateCreated": "2011-06-10",
       "sourceType": "sibling",
       "sourceArticleId": "strangford-wp",
-      "sourceGeohash4": "gcsj"
+      "sourceGeohash4": "gcsj",
+      "mediumPath": "_m/g/c/s/j/strangford-wp/the-square-strangford-june-201-medium.webp",
+      "smallPath": "_m/g/c/s/j/strangford-wp/the-square-strangford-june-201-small.webp"
     }
   ],
   "galleryPaths": [
@@ -311,5 +325,24 @@
     "_m/g/c/s/j/strangford-wp/strangford-ferry-terminal-13-a.jpg",
     "_m/g/c/s/j/strangford-wp/the-square-strangford-june-201.jpg"
   ],
-  "updatedAt": "2026-06-22T12:19:14.179Z"
+  "updatedAt": "2026-06-22T12:19:14.179Z",
+  "narration": {
+    "files": [
+      "gcsj-strangford-flight-context.mp3",
+      "gcsj-strangford-intro.mp3",
+      "gcsj-strangford-patrick-and-the-monasteries.mp3",
+      "gcsj-strangford-the-norsemens-visits.mp3",
+      "gcsj-strangford-castles-within-walking-distance.mp3",
+      "gcsj-strangford-the-living-village.mp3"
+    ],
+    "durations": {
+      "gcsj-strangford-flight-context.mp3": 53.862625,
+      "gcsj-strangford-intro.mp3": 47.9414166,
+      "gcsj-strangford-patrick-and-the-monasteries.mp3": 56.7082916,
+      "gcsj-strangford-the-norsemens-visits.mp3": 58.9834166,
+      "gcsj-strangford-castles-within-walking-distance.mp3": 67.8286666,
+      "gcsj-strangford-the-living-village.mp3": 59.44175
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

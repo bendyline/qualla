@@ -83,7 +83,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "edinburgh-leith-wk",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "smallPath": "_m/g/c/v/w/edinburgh-leith-wk/wfm-ocean-terminal-leith-small.webp"
     },
     {
       "filename": "Semifinal Hearts vs. Hibernian.jpg",
@@ -107,7 +108,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "edinburgh-leith-wk",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "smallPath": "_m/g/c/v/w/edinburgh-leith-wk/semifinal-hearts-vs-hibernian-small.webp"
     },
     {
       "filename": "The Vaults (14766416622).jpg",
@@ -135,7 +137,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "edinburgh-leith-wk",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "mediumPath": "_m/g/c/v/w/edinburgh-leith-wk/the-vaults-14766416622-medium.webp",
+      "smallPath": "_m/g/c/v/w/edinburgh-leith-wk/the-vaults-14766416622-small.webp"
     },
     {
       "filename": "HMY Britannia (41349592671).jpg",
@@ -158,7 +162,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "edinburgh-leith-wk",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "mediumPath": "_m/g/c/v/w/edinburgh-leith-wk/hmy-britannia-41349592671-medium.webp",
+      "smallPath": "_m/g/c/v/w/edinburgh-leith-wk/hmy-britannia-41349592671-small.webp"
     },
     {
       "filename": "Water of Leith Walkway Stedfastgate plaque.jpg",
@@ -177,7 +183,9 @@
       "dateCreated": "2021-02-17 14:29:02",
       "sourceType": "core",
       "sourceArticleId": "edinburgh-leith-wk",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "mediumPath": "_m/g/c/v/w/edinburgh-leith-wk/water-of-leith-walkway-stedfas-medium.webp",
+      "smallPath": "_m/g/c/v/w/edinburgh-leith-wk/water-of-leith-walkway-stedfas-small.webp"
     },
     {
       "filename": "Easter Road - Edinburgh Derby.jpg",
@@ -196,7 +204,9 @@
       "dateCreated": "2026-04-26",
       "sourceType": "core",
       "sourceArticleId": "edinburgh-leith-wk",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "mediumPath": "_m/g/c/v/w/edinburgh-leith-wk/easter-road-edinburgh-derby-medium.webp",
+      "smallPath": "_m/g/c/v/w/edinburgh-leith-wk/easter-road-edinburgh-derby-small.webp"
     }
   ],
   "galleryPaths": [
@@ -206,5 +216,26 @@
     "_m/g/c/v/w/leith-wp/hmy-britannia-41349592671.jpg",
     "_m/g/c/v/w/leith-wp/water-of-leith-walkway-stedfas.jpg",
     "_m/g/c/v/w/leith-wp/easter-road-edinburgh-derby.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcvw-leith-flight-context.mp3",
+      "gcvw-leith-intro.mp3",
+      "gcvw-leith-the-port-and-its-trades.mp3",
+      "gcvw-leith-lime-juice-limeys-and-lauchlan-rose.mp3",
+      "gcvw-leith-leith-links-and-the-plague.mp3",
+      "gcvw-leith-trainspotting-and-tesco.mp3",
+      "gcvw-leith-trams-return.mp3"
+    ],
+    "durations": {
+      "gcvw-leith-flight-context.mp3": 66.8125833,
+      "gcvw-leith-intro.mp3": 41.0745416,
+      "gcvw-leith-the-port-and-its-trades.mp3": 67.0763333,
+      "gcvw-leith-lime-juice-limeys-and-lauchlan-rose.mp3": 55.571375,
+      "gcvw-leith-leith-links-and-the-plague.mp3": 59.4617916,
+      "gcvw-leith-trainspotting-and-tesco.mp3": 62.1945833,
+      "gcvw-leith-trams-return.mp3": 59.7584166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

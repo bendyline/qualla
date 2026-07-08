@@ -22,7 +22,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "culture-vannin-wp",
-    "sourceGeohash4": "gcss"
+    "sourceGeohash4": "gcss",
+    "smallPath": "_m/g/c/s/s/culture-vannin-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Culture Vannin - geograph.org.uk - 8116936.jpg",
@@ -49,5 +50,24 @@
     "sourceGeohash4": "gcss"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcss-culture-vannin-flight-context.mp3",
+      "gcss-culture-vannin-intro.mp3",
+      "gcss-culture-vannin-from-heritage-foundation-to-culture-vannin.mp3",
+      "gcss-culture-vannin-a-small-office-wide-mandate.mp3",
+      "gcss-culture-vannin-reih-bleeaney-vanannan.mp3",
+      "gcss-culture-vannin-tynwald-hill-next-door.mp3"
+    ],
+    "durations": {
+      "gcss-culture-vannin-flight-context.mp3": 46.666125,
+      "gcss-culture-vannin-intro.mp3": 53.1405833,
+      "gcss-culture-vannin-from-heritage-foundation-to-culture-vannin.mp3": 62.19975,
+      "gcss-culture-vannin-a-small-office-wide-mandate.mp3": 78.83525,
+      "gcss-culture-vannin-reih-bleeaney-vanannan.mp3": 59.3465833,
+      "gcss-culture-vannin-tynwald-hill-next-door.mp3": 60.9005
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -22,7 +22,9 @@
           "PD-old missing SDC copyright status",
           "PD Old",
           "Paintings by Juan Manuel Blanes"
-        ]
+        ],
+        "mediumPath": "_m/6/9/y/7/battle-of-caseros-wp/hero-medium.webp",
+        "smallPath": "_m/6/9/y/7/battle-of-caseros-wp/hero-small.webp"
       },
       "images": [
         {
@@ -75,7 +77,8 @@
             "PD-old missing SDC copyright status",
             "Paintings from Argentina",
             "Portraits of Justo José de Urquiza"
-          ]
+          ],
+          "smallPath": "_m/6/9/y/7/battle-of-caseros-wp/retrato-del-presidente-small.webp"
         },
         {
           "path": "_m/6/9/y/7/battle-of-caseros-wp/cuadro-evocativo-de-la.jpg",
@@ -100,7 +103,8 @@
             "PD-old-100-expired",
             "Paintings by Juan Manuel Blanes",
             "Palacio San José"
-          ]
+          ],
+          "smallPath": "_m/6/9/y/7/battle-of-caseros-wp/cuadro-evocativo-de-la-small.webp"
         },
         {
           "path": "_m/6/9/y/7/battle-of-caseros-wp/retrato-de-la-batalla.jpg",
@@ -123,7 +127,9 @@
             "PD-old-100-expired",
             "Paintings by Juan Manuel Blanes",
             "Palacio San José"
-          ]
+          ],
+          "mediumPath": "_m/6/9/y/7/battle-of-caseros-wp/retrato-de-la-batalla-medium.webp",
+          "smallPath": "_m/6/9/y/7/battle-of-caseros-wp/retrato-de-la-batalla-small.webp"
         },
         {
           "path": "_m/6/9/y/7/battle-of-caseros-wp/staff-headquarters-one.jpg",
@@ -138,7 +144,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inspecci%C3%B3n_de_uno_de_los_campamentos_del_ej%C3%A9rcito_de_Juan_Manuel_de_Rosas.jpg",
           "sourceType": "core",
           "sourceArticleId": "battle-of-caseros-wp",
-          "sourceGeohash4": "69y7"
+          "sourceGeohash4": "69y7",
+          "mediumPath": "_m/6/9/y/7/battle-of-caseros-wp/staff-headquarters-one-medium.webp",
+          "smallPath": "_m/6/9/y/7/battle-of-caseros-wp/staff-headquarters-one-small.webp"
         },
         {
           "path": "_m/6/9/y/7/battle-of-caseros-wp/batalla-de-caseros-3-febrero-1.jpg",
@@ -163,7 +171,8 @@
             "PD-old-100-expired",
             "PD-old missing SDC copyright status",
             "The Illustrated London News 1852"
-          ]
+          ],
+          "smallPath": "_m/6/9/y/7/battle-of-caseros-wp/batalla-de-caseros-3-febrero-1-small.webp"
         },
         {
           "path": "_m/6/9/y/7/battle-of-caseros-wp/batalla-de-caseros-palacio-san.jpg",
@@ -178,7 +187,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Batalla_de_Caseros_-_Palacio_San_Jos%C3%A9.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "battle-of-caseros-wp",
-          "sourceGeohash4": "69y7"
+          "sourceGeohash4": "69y7",
+          "mediumPath": "_m/6/9/y/7/battle-of-caseros-wp/batalla-de-caseros-palacio-san-medium.webp",
+          "smallPath": "_m/6/9/y/7/battle-of-caseros-wp/batalla-de-caseros-palacio-san-small.webp"
         },
         {
           "path": "_m/6/9/y/7/battle-of-caseros-wp/sport-1967-batalla-de-caseros.jpg",
@@ -193,7 +204,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sport_1967_batalla_de_caseros.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "battle-of-caseros-wp",
-          "sourceGeohash4": "69y7"
+          "sourceGeohash4": "69y7",
+          "smallPath": "_m/6/9/y/7/battle-of-caseros-wp/sport-1967-batalla-de-caseros-small.webp"
         }
       ],
       "narration": [
@@ -204,7 +216,11 @@
         "_m/6/9/y/7/battle-of-caseros-wp/69y7-battle-of-caseros-two-armies-on-the-plain.mp3",
         "_m/6/9/y/7/battle-of-caseros-wp/69y7-battle-of-caseros-six-hours-and-a-surrender.mp3",
         "_m/6/9/y/7/battle-of-caseros-wp/69y7-battle-of-caseros-the-reckoning-and-the-constitution.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/6/9/y/7/battle-of-caseros-wp/69y7-battle-of-caseros-combined.mp3",
+      "combinedNarrationBytes": 3693662,
+      "combinedNarrationDuration": 303,
+      "combinedCover": "_m/6/9/y/7/battle-of-caseros-wp/69y7-battle-of-caseros-combined-cover.jpg"
     }
   }
 }

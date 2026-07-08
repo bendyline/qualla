@@ -23,7 +23,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "kirtlebridge-rail-crash-wp",
-    "sourceGeohash4": "gcv9"
+    "sourceGeohash4": "gcv9",
+    "mediumPath": "_m/g/c/v/9/kirtlebridge-rail-crash-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/v/9/kirtlebridge-rail-crash-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Kirtlebridge collision plan.gif",
@@ -74,10 +76,30 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "kirtlebridge-rail-crash-wp",
-      "sourceGeohash4": "gcv9"
+      "sourceGeohash4": "gcv9",
+      "smallPath": "_m/g/c/v/9/kirtlebridge-rail-crash-wp/location-plan-railway-small.gif"
     }
   ],
   "galleryPaths": [
     "_m/g/c/v/9/kirtlebridge-rail-crash-wp/location-plan-railway.gif"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcv9-kirtlebridge-rail-crash-flight-context.mp3",
+      "gcv9-kirtlebridge-rail-crash-intro.mp3",
+      "gcv9-kirtlebridge-rail-crash-the-engine-driver-and-ten-passengers.mp3",
+      "gcv9-kirtlebridge-rail-crash-telescoped-coaches.mp3",
+      "gcv9-kirtlebridge-rail-crash-the-signals-that-were-not-there.mp3",
+      "gcv9-kirtlebridge-rail-crash-a-quiet-place-today.mp3"
+    ],
+    "durations": {
+      "gcv9-kirtlebridge-rail-crash-flight-context.mp3": 58.0752083,
+      "gcv9-kirtlebridge-rail-crash-intro.mp3": 58.2005,
+      "gcv9-kirtlebridge-rail-crash-the-engine-driver-and-ten-passengers.mp3": 61.044125,
+      "gcv9-kirtlebridge-rail-crash-telescoped-coaches.mp3": 53.5685416,
+      "gcv9-kirtlebridge-rail-crash-the-signals-that-were-not-there.mp3": 73.511,
+      "gcv9-kirtlebridge-rail-crash-a-quiet-place-today.mp3": 51.4175
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

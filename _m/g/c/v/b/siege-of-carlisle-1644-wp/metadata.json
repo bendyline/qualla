@@ -24,7 +24,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "siege-of-carlisle-1644-wp",
-    "sourceGeohash4": "gcvb"
+    "sourceGeohash4": "gcvb",
+    "smallPath": "_m/g/c/v/b/siege-of-carlisle-1644-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Northern England location map.PNG",
@@ -53,5 +54,24 @@
     "sourceGeohash4": "gcvb"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcvb-siege-of-carlisle-1644-flight-context.mp3",
+      "gcvb-siege-of-carlisle-1644-intro.mp3",
+      "gcvb-siege-of-carlisle-1644-a-border-fortress-left-behind.mp3",
+      "gcvb-siege-of-carlisle-1644-the-patience-of-alexander-leslie.mp3",
+      "gcvb-siege-of-carlisle-1644-the-tightening-ring.mp3",
+      "gcvb-siege-of-carlisle-1644-an-honorable-surrender.mp3"
+    ],
+    "durations": {
+      "gcvb-siege-of-carlisle-1644-flight-context.mp3": 52.5960416,
+      "gcvb-siege-of-carlisle-1644-intro.mp3": 41.615125,
+      "gcvb-siege-of-carlisle-1644-a-border-fortress-left-behind.mp3": 60.941,
+      "gcvb-siege-of-carlisle-1644-the-patience-of-alexander-leslie.mp3": 53.5865,
+      "gcvb-siege-of-carlisle-1644-the-tightening-ring.mp3": 52.6825833,
+      "gcvb-siege-of-carlisle-1644-an-honorable-surrender.mp3": 49.0307083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

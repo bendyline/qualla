@@ -24,7 +24,8 @@
           "Maps of the Raid on Cherbourg",
           "Naval battles involving England",
           "PD-old missing SDC copyright status"
-        ]
+        ],
+        "smallPath": "_m/g/b/y/f/cherbourg-raid-wp/hero-small.webp"
       },
       "narration": [
         "_m/g/b/y/f/cherbourg-raid-wp/gbyf-cherbourg-raid-flight-context.mp3",
@@ -33,7 +34,11 @@
         "_m/g/b/y/f/cherbourg-raid-wp/gbyf-cherbourg-raid-seven-days-ashore.mp3",
         "_m/g/b/y/f/cherbourg-raid-wp/gbyf-cherbourg-raid-the-sequel-that-failed.mp3",
         "_m/g/b/y/f/cherbourg-raid-wp/gbyf-cherbourg-raid-what-the-raid-built.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/b/y/f/cherbourg-raid-wp/gbyf-cherbourg-raid-combined.mp3",
+      "combinedNarrationBytes": 3513036,
+      "combinedNarrationDuration": 280,
+      "combinedCover": "_m/g/b/y/f/cherbourg-raid-wp/gbyf-cherbourg-raid-combined-cover.jpg"
     }
   }
 }

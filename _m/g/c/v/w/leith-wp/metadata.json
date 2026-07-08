@@ -75,7 +75,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "leith-wp",
-      "sourceGeohash4": "gcvw"
+      "sourceGeohash4": "gcvw",
+      "mediumPath": "_m/g/c/v/w/leith-wp/leithview-medium.webp",
+      "smallPath": "_m/g/c/v/w/leith-wp/leithview-small.webp"
     },
     {
       "filename": "The Vaults (14766416622).jpg",
@@ -168,5 +170,24 @@
     "_m/g/c/v/w/leith-wp/water-of-leith-walkway-stedfas.jpg",
     "_m/g/c/v/w/leith-wp/easter-road-edinburgh-derby.jpg"
   ],
-  "updatedAt": "2026-06-23T02:05:55.723Z"
+  "updatedAt": "2026-06-23T02:05:55.723Z",
+  "narration": {
+    "files": [
+      "gcvw-leith-flight-context.mp3",
+      "gcvw-leith-intro.mp3",
+      "gcvw-leith-mary-of-guise-and-the-french-garrison.mp3",
+      "gcvw-leith-plague-privateers-and-independence.mp3",
+      "gcvw-leith-industries-of-a-working-port.mp3",
+      "gcvw-leith-reinvention.mp3"
+    ],
+    "durations": {
+      "gcvw-leith-flight-context.mp3": 48.661875,
+      "gcvw-leith-intro.mp3": 59.4174166,
+      "gcvw-leith-mary-of-guise-and-the-french-garrison.mp3": 67.26725,
+      "gcvw-leith-plague-privateers-and-independence.mp3": 65.0148333,
+      "gcvw-leith-industries-of-a-working-port.mp3": 66.2714166,
+      "gcvw-leith-reinvention.mp3": 72.671
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

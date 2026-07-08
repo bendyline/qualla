@@ -27,7 +27,8 @@
           "Self-published work",
           "Taken with Sony Ericsson W800",
           "Theatre stills of the United Kingdom"
-        ]
+        ],
+        "smallPath": "_m/g/c/r/j/nottingham-playhouse-wp/hero-small.webp"
       },
       "images": [
         {
@@ -48,7 +49,8 @@
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland",
             "Nottingham"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/j/nottingham-playhouse-wp/nottingham-playhouse-small.webp"
         },
         {
           "path": "_m/g/c/r/j/nottingham-playhouse-wp/nottingham-playhouse-at-night.jpg",
@@ -72,7 +74,8 @@
             "Nottingham Playhouse",
             "Self-published work",
             "Taken with Sony Ericsson W800"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/j/nottingham-playhouse-wp/nottingham-playhouse-at-night-small.webp"
         },
         {
           "path": "_m/g/c/r/j/nottingham-playhouse-wp/nottingham-playhouse-1967-geog.jpg",
@@ -97,7 +100,8 @@
             "Information field template with formatting",
             "Nottingham Playhouse",
             "Wellington Circus, Nottingham"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/j/nottingham-playhouse-wp/nottingham-playhouse-1967-geog-small.webp"
         },
         {
           "path": "_m/g/c/r/j/nottingham-playhouse-wp/nottingham-playhouse-2009-geog.jpg",
@@ -121,7 +125,8 @@
             "Listed buildings in England with known IDs",
             "Nottingham Playhouse",
             "United Kingdom photographs taken on 2009-11-21"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/j/nottingham-playhouse-wp/nottingham-playhouse-2009-geog-small.webp"
         },
         {
           "path": "_m/g/c/r/j/nottingham-playhouse-wp/wellington-circus-geograph-org.jpg",
@@ -190,7 +195,8 @@
           "categories": [
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/j/nottingham-playhouse-wp/nottingham-playhouse-wellingto-small.webp"
         },
         {
           "path": "_m/g/c/r/j/nottingham-playhouse-wp/nottingham-playhouse-3.jpg",
@@ -205,7 +211,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nottingham_Playhouse_3.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "nottingham-playhouse-wp",
-          "sourceGeohash4": "gcrj"
+          "sourceGeohash4": "gcrj",
+          "mediumPath": "_m/g/c/r/j/nottingham-playhouse-wp/nottingham-playhouse-3-medium.webp",
+          "smallPath": "_m/g/c/r/j/nottingham-playhouse-wp/nottingham-playhouse-3-small.webp"
         },
         {
           "path": "_m/g/c/r/j/nottingham-wk/ye-old-trip-to-jerusalem-2005.jpg",
@@ -498,7 +506,19 @@
           "sourceArticleId": "nottingham-wk",
           "sourceGeohash4": "gcrj"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/r/j/nottingham-playhouse-wp/gcrj-nottingham-playhouse-flight-context.mp3",
+        "_m/g/c/r/j/nottingham-playhouse-wp/gcrj-nottingham-playhouse-intro.mp3",
+        "_m/g/c/r/j/nottingham-playhouse-wp/gcrj-nottingham-playhouse-the-cinema-and-the-vision.mp3",
+        "_m/g/c/r/j/nottingham-playhouse-wp/gcrj-nottingham-playhouse-the-sky-mirror-argument.mp3",
+        "_m/g/c/r/j/nottingham-playhouse-wp/gcrj-nottingham-playhouse-a-theatre-that-travels.mp3",
+        "_m/g/c/r/j/nottingham-playhouse-wp/gcrj-nottingham-playhouse-listed-and-loved.mp3"
+      ],
+      "combinedNarration": "_m/g/c/r/j/nottingham-playhouse-wp/gcrj-nottingham-playhouse-combined.mp3",
+      "combinedNarrationBytes": 3527767,
+      "combinedNarrationDuration": 285,
+      "combinedCover": "_m/g/c/r/j/nottingham-playhouse-wp/gcrj-nottingham-playhouse-combined-cover.jpg"
     }
   }
 }

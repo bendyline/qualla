@@ -76,7 +76,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-winceby-wp",
-      "sourceGeohash4": "gcry"
+      "sourceGeohash4": "gcry",
+      "smallPath": "_m/g/c/r/y/battle-of-winceby-wp/winceby-battlefield-geograph-o-small.webp"
     },
     {
       "filename": "Winceby Battlefield and Information Board - geograph.org.uk - 1938062.jpg",
@@ -98,12 +99,32 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "battle-of-winceby-wp",
-      "sourceGeohash4": "gcry"
+      "sourceGeohash4": "gcry",
+      "smallPath": "_m/g/c/r/y/battle-of-winceby-wp/winceby-battlefield-and-inform-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/r/y/battle-of-winceby-wp/winceby-battlefield-geograph-o.jpg",
     "_m/g/c/r/y/battle-of-winceby-wp/winceby-battlefield-and-inform.jpg"
   ],
-  "updatedAt": "2026-06-22T10:56:28.224Z"
+  "updatedAt": "2026-06-22T10:56:28.224Z",
+  "narration": {
+    "files": [
+      "gcry-battle-of-winceby-flight-context.mp3",
+      "gcry-battle-of-winceby-intro.mp3",
+      "gcry-battle-of-winceby-a-war-coming-north.mp3",
+      "gcry-battle-of-winceby-the-half-hour-battle.mp3",
+      "gcry-battle-of-winceby-slash-hollow.mp3",
+      "gcry-battle-of-winceby-cromwells-reputation-lincolnshires-recovery.mp3"
+    ],
+    "durations": {
+      "gcry-battle-of-winceby-flight-context.mp3": 53.314375,
+      "gcry-battle-of-winceby-intro.mp3": 63.026625,
+      "gcry-battle-of-winceby-a-war-coming-north.mp3": 63.61575,
+      "gcry-battle-of-winceby-the-half-hour-battle.mp3": 77.55525,
+      "gcry-battle-of-winceby-slash-hollow.mp3": 57.2199583,
+      "gcry-battle-of-winceby-cromwells-reputation-lincolnshires-recovery.mp3": 61.949
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

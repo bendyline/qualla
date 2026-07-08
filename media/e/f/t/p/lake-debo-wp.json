@@ -22,7 +22,8 @@
           "Media missing infobox template",
           "NASA World Wind",
           "PD World Wind"
-        ]
+        ],
+        "smallPath": "_m/e/f/t/p/lake-debo-wp/hero-small.webp"
       },
       "images": [
         {
@@ -69,7 +70,9 @@
             "Images by Fabienkhan",
             "Self-published work",
             "Taken with Pentax *ist DL"
-          ]
+          ],
+          "mediumPath": "_m/e/f/t/p/lake-debo-wp/pictures-taken-artis-z-medium.webp",
+          "smallPath": "_m/e/f/t/p/lake-debo-wp/pictures-taken-artis-z-small.webp"
         },
         {
           "path": "_m/e/f/t/p/lake-debo-wp/hero.jpg",
@@ -138,7 +141,9 @@
             "Self-published work",
             "Taken with Fujifilm FinePix F70EXR",
             "Uploaded via Campaign:wlafrica"
-          ]
+          ],
+          "mediumPath": "_m/e/f/t/p/lake-debo-wp/as-fresh-as-tasty-medium.webp",
+          "smallPath": "_m/e/f/t/p/lake-debo-wp/as-fresh-as-tasty-small.webp"
         },
         {
           "path": "_m/e/f/t/p/lake-debo-wp/entree-du-niger-dans-le-lac-dh.jpg",
@@ -162,7 +167,8 @@
             "PD-old missing SDC copyright status",
             "Postcards of Mali",
             "Postcards published by François-Edmond Fortier"
-          ]
+          ],
+          "smallPath": "_m/e/f/t/p/lake-debo-wp/entree-du-niger-dans-le-lac-dh-small.webp"
         },
         {
           "path": "_m/e/f/t/p/lake-debo-wp/village-de-sa-a-la-sortie-du-l.jpg",
@@ -181,7 +187,8 @@
           "categories": [
             "CC-PD-Mark",
             "Lake Débo"
-          ]
+          ],
+          "smallPath": "_m/e/f/t/p/lake-debo-wp/village-de-sa-a-la-sortie-du-l-small.webp"
         },
         {
           "path": "_m/e/f/t/p/lake-debo-wp/transport-en-commun-sur-le-lac.jpg",
@@ -196,7 +203,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Transport_en_commun_sur_le_lac_D%C3%A9bo.jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "lake-debo-wp",
-          "sourceGeohash4": "eftp"
+          "sourceGeohash4": "eftp",
+          "smallPath": "_m/e/f/t/p/lake-debo-wp/transport-en-commun-sur-le-lac-small.webp"
         }
       ],
       "narration": [
@@ -206,7 +214,11 @@
         "_m/e/f/t/p/lake-debo-wp/eftp-lake-d-bo-the-great-lake-of-old-maps.mp3",
         "_m/e/f/t/p/lake-debo-wp/eftp-lake-d-bo-a-crossroads-of-wings.mp3",
         "_m/e/f/t/p/lake-debo-wp/eftp-lake-d-bo-lives-on-the-waters-edge.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/e/f/t/p/lake-debo-wp/eftp-lake-debo-combined.mp3",
+      "combinedNarrationBytes": 2869885,
+      "combinedNarrationDuration": 225,
+      "combinedCover": "_m/e/f/t/p/lake-debo-wp/eftp-lake-debo-combined-cover.jpg"
     }
   }
 }

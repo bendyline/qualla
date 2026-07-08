@@ -25,7 +25,8 @@
           "Maps of Mali",
           "Maps of the Tuareg people",
           "Self-published work"
-        ]
+        ],
+        "smallPath": "_m/e/f/z/u/azawad-wp/hero-small.webp"
       },
       "images": [
         {
@@ -57,7 +58,9 @@
             "Maps of regions of Mali",
             "PNG that should use vector graphics",
             "Travel maps of Mali"
-          ]
+          ],
+          "mediumPath": "_m/e/f/z/u/azawad-wp/mali-regions-map-medium.webp",
+          "smallPath": "_m/e/f/z/u/azawad-wp/mali-regions-map-small.webp"
         },
         {
           "path": "_m/e/f/z/u/azawad-wp/touaregs-festival-au-d.jpg",
@@ -72,7 +75,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Touaregs_at_the_Festival_au_Desert_near_Timbuktu,_Mali_2012.jpg",
           "sourceType": "core",
           "sourceArticleId": "azawad-wp",
-          "sourceGeohash4": "efzu"
+          "sourceGeohash4": "efzu",
+          "mediumPath": "_m/e/f/z/u/azawad-wp/touaregs-festival-au-d-medium.webp",
+          "smallPath": "_m/e/f/z/u/azawad-wp/touaregs-festival-au-d-small.webp"
         },
         {
           "path": "_m/e/f/z/u/azawad-wp/une-guelta-pres-d-oubankort-da.jpg",
@@ -97,7 +102,8 @@
             "License migration completed",
             "Sahara",
             "Wetlands of Mali"
-          ]
+          ],
+          "smallPath": "_m/e/f/z/u/azawad-wp/une-guelta-pres-d-oubankort-da-small.webp"
         },
         {
           "path": "_m/tpc/az/aw/ad/__/azawad/gourma-rharous.jpg",
@@ -129,7 +135,11 @@
         "_m/e/f/z/u/azawad-wp/efzu-azawad-the-tuareg-aspiration.mp3",
         "_m/e/f/z/u/azawad-wp/efzu-azawad-a-state-declared.mp3",
         "_m/e/f/z/u/azawad-wp/efzu-azawad-hijacked-and-erased.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/e/f/z/u/azawad-wp/efzu-azawad-combined.mp3",
+      "combinedNarrationBytes": 2548746,
+      "combinedNarrationDuration": 208,
+      "combinedCover": "_m/e/f/z/u/azawad-wp/efzu-azawad-combined-cover.jpg"
     }
   }
 }

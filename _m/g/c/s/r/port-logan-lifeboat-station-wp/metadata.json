@@ -22,7 +22,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "port-logan-lifeboat-station-wp",
-    "sourceGeohash4": "gcsr"
+    "sourceGeohash4": "gcsr",
+    "mediumPath": "_m/g/c/s/r/port-logan-lifeboat-station-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/s/r/port-logan-lifeboat-station-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Port Logan Hall - geograph.org.uk - 2498639.jpg",
@@ -73,10 +75,31 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "port-logan-lifeboat-station-wp",
-      "sourceGeohash4": "gcsr"
+      "sourceGeohash4": "gcsr",
+      "mediumPath": "_m/g/c/s/r/port-logan-lifeboat-station-wp/relief-map-dumfries-ga-medium.webp",
+      "smallPath": "_m/g/c/s/r/port-logan-lifeboat-station-wp/relief-map-dumfries-ga-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/s/r/port-logan-lifeboat-station-wp/relief-map-dumfries-ga.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcsr-port-logan-lifeboat-station-flight-context.mp3",
+      "gcsr-port-logan-lifeboat-station-intro.mp3",
+      "gcsr-port-logan-lifeboat-station-a-boat-brought-south-by-four-railways.mp3",
+      "gcsr-port-logan-lifeboat-station-barques-brigantines-and-hurricanes.mp3",
+      "gcsr-port-logan-lifeboat-station-the-boats-by-name.mp3",
+      "gcsr-port-logan-lifeboat-station-a-coast-that-asked-this-much.mp3"
+    ],
+    "durations": {
+      "gcsr-port-logan-lifeboat-station-flight-context.mp3": 58.8858333,
+      "gcsr-port-logan-lifeboat-station-intro.mp3": 54.1314166,
+      "gcsr-port-logan-lifeboat-station-a-boat-brought-south-by-four-railways.mp3": 70.4512083,
+      "gcsr-port-logan-lifeboat-station-barques-brigantines-and-hurricanes.mp3": 81.1725416,
+      "gcsr-port-logan-lifeboat-station-the-boats-by-name.mp3": 78.160625,
+      "gcsr-port-logan-lifeboat-station-a-coast-that-asked-this-much.mp3": 53.329125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

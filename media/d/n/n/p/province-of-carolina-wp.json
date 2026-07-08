@@ -24,7 +24,8 @@
           "Maps by John Speed",
           "PD-old missing SDC copyright status",
           "Province of Carolina"
-        ]
+        ],
+        "smallPath": "_m/d/n/n/p/province-of-carolina-wp/hero-small.webp"
       },
       "images": [
         {
@@ -110,7 +111,8 @@
             "Maps of disputed territories in North America",
             "Maps of the Thirteen Colonies",
             "PD-user"
-          ]
+          ],
+          "smallPath": "_m/d/n/n/p/province-of-carolina-wp/locator-map-province-c-small.webp"
         },
         {
           "path": "_m/d/n/n/p/province-of-carolina-wp/historic-marker-o-22-north-car.jpg",
@@ -125,7 +127,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Historic_Marker_O-22_North_Carolina(8444336815).jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "province-of-carolina-wp",
-          "sourceGeohash4": "dnnp"
+          "sourceGeohash4": "dnnp",
+          "mediumPath": "_m/d/n/n/p/province-of-carolina-wp/historic-marker-o-22-north-car-medium.webp",
+          "smallPath": "_m/d/n/n/p/province-of-carolina-wp/historic-marker-o-22-north-car-small.webp"
         }
       ],
       "narration": [
@@ -135,7 +139,11 @@
         "_m/d/n/n/p/province-of-carolina-wp/dnnp-province-of-carolina-lockes-constitution.mp3",
         "_m/d/n/n/p/province-of-carolina-wp/dnnp-province-of-carolina-two-heads-of-one-body.mp3",
         "_m/d/n/n/p/province-of-carolina-wp/dnnp-province-of-carolina-splitting-and-dying.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/n/n/p/province-of-carolina-wp/dnnp-province-of-carolina-combined.mp3",
+      "combinedNarrationBytes": 3944820,
+      "combinedNarrationDuration": 317,
+      "combinedCover": "_m/d/n/n/p/province-of-carolina-wp/dnnp-province-of-carolina-combined-cover.jpg"
     }
   }
 }

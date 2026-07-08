@@ -77,7 +77,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "buittle-castle-wp",
-      "sourceGeohash4": "gcv2"
+      "sourceGeohash4": "gcv2",
+      "smallPath": "_m/g/c/v/2/buittle-castle-wp/painting-dervorguilla-small.webp"
     },
     {
       "filename": "Buittle Castle - geograph.org.uk - 718206.jpg",
@@ -102,7 +103,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "buittle-castle-wp",
-      "sourceGeohash4": "gcv2"
+      "sourceGeohash4": "gcv2",
+      "smallPath": "_m/g/c/v/2/buittle-castle-wp/buittle-castle-geograph-org-uk-small.webp"
     },
     {
       "filename": "The Remains of Buittle Castle - geograph.org.uk - 3089607.jpg",
@@ -124,7 +126,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "buittle-castle-wp",
-      "sourceGeohash4": "gcv2"
+      "sourceGeohash4": "gcv2",
+      "smallPath": "_m/g/c/v/2/buittle-castle-wp/the-remains-of-buittle-castle--small.webp"
     }
   ],
   "galleryPaths": [
@@ -132,5 +135,26 @@
     "_m/g/c/v/2/buittle-castle-wp/buittle-castle-geograph-org-uk.jpg",
     "_m/g/c/v/2/buittle-castle-wp/the-remains-of-buittle-castle-.jpg"
   ],
-  "updatedAt": "2026-06-22T23:23:02.039Z"
+  "updatedAt": "2026-06-22T23:23:02.039Z",
+  "narration": {
+    "files": [
+      "gcv2-buittle-castle-flight-context.mp3",
+      "gcv2-buittle-castle-intro.mp3",
+      "gcv2-buittle-castle-older-than-galloway-itself.mp3",
+      "gcv2-buittle-castle-lady-dervorguillas-statutes.mp3",
+      "gcv2-buittle-castle-bruce-balliol-bruce-again.mp3",
+      "gcv2-buittle-castle-the-burns-connection-and-the-quiet-years.mp3",
+      "gcv2-buittle-castle-what-you-find-there-now.mp3"
+    ],
+    "durations": {
+      "gcv2-buittle-castle-flight-context.mp3": 56.2952916,
+      "gcv2-buittle-castle-intro.mp3": 40.8885,
+      "gcv2-buittle-castle-older-than-galloway-itself.mp3": 61.640375,
+      "gcv2-buittle-castle-lady-dervorguillas-statutes.mp3": 71.6947083,
+      "gcv2-buittle-castle-bruce-balliol-bruce-again.mp3": 66.6210833,
+      "gcv2-buittle-castle-the-burns-connection-and-the-quiet-years.mp3": 71.86275,
+      "gcv2-buittle-castle-what-you-find-there-now.mp3": 43.7459583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

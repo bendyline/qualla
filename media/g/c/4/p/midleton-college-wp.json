@@ -15,7 +15,9 @@
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:TrevorWest.jpg",
         "sourceType": "core",
         "sourceArticleId": "midleton-college-wp",
-        "sourceGeohash4": "gc4p"
+        "sourceGeohash4": "gc4p",
+        "mediumPath": "_m/g/c/4/p/midleton-college-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/4/p/midleton-college-wp/hero-small.webp"
       },
       "images": [
         {
@@ -59,7 +61,8 @@
             "Portrait paintings of sitting men with right arm resting on table",
             "Portrait paintings of sitting men with right hand holding objects",
             "Scrolls in art"
-          ]
+          ],
+          "smallPath": "_m/g/c/4/p/midleton-college-wp/portrait-midleton-lord-small.webp"
         }
       ],
       "narration": [
@@ -70,7 +73,11 @@
         "_m/g/c/4/p/midleton-college-wp/gc4p-midleton-college-sparta-and-edmund-burke.mp3",
         "_m/g/c/4/p/midleton-college-wp/gc4p-midleton-college-coeducation-modern-curriculum.mp3",
         "_m/g/c/4/p/midleton-college-wp/gc4p-midleton-college-rugby-mostly-soccer-for-the-girls.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/4/p/midleton-college-wp/gc4p-midleton-college-combined.mp3",
+      "combinedNarrationBytes": 4486704,
+      "combinedNarrationDuration": 367,
+      "combinedCover": "_m/g/c/4/p/midleton-college-wp/gc4p-midleton-college-combined-cover.jpg"
     }
   }
 }

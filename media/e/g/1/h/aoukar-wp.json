@@ -21,7 +21,9 @@
           "Dunes",
           "Hodh El Gharbi",
           "Mauritania"
-        ]
+        ],
+        "mediumPath": "_m/e/g/1/h/aoukar-wp/hero-medium.webp",
+        "smallPath": "_m/e/g/1/h/aoukar-wp/hero-small.webp"
       },
       "images": [
         {
@@ -71,7 +73,8 @@
             "Files with coordinates missing SDC location of creation",
             "Flickr images missing SDC creator",
             "Flickr images reviewed by File Upload Bot (Magnus Manske)"
-          ]
+          ],
+          "smallPath": "_m/e/g/1/h/aoukar-wp/somewhere-south-ayoun-small.webp"
         },
         {
           "path": "_m/e/g/1/h/aoukar-wp/location-aoukar-basin.png",
@@ -93,7 +96,8 @@
             "Retouched pictures",
             "Self-published work",
             "Topographic maps of Mauritania"
-          ]
+          ],
+          "smallPath": "_m/e/g/1/h/aoukar-wp/location-aoukar-basin-small.webp"
         }
       ],
       "narration": [
@@ -103,7 +107,11 @@
         "_m/e/g/1/h/aoukar-wp/eg1h-aoukar-the-heartland-of-an-empire.mp3",
         "_m/e/g/1/h/aoukar-wp/eg1h-aoukar-a-border-drawn-on-a-whim.mp3",
         "_m/e/g/1/h/aoukar-wp/eg1h-aoukar-the-last-refuge.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/e/g/1/h/aoukar-wp/eg1h-aoukar-combined.mp3",
+      "combinedNarrationBytes": 3047928,
+      "combinedNarrationDuration": 249,
+      "combinedCover": "_m/e/g/1/h/aoukar-wp/eg1h-aoukar-combined-cover.jpg"
     }
   }
 }

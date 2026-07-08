@@ -49,7 +49,8 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "linlithgow-wp",
-      "sourceGeohash4": "gcvq"
+      "sourceGeohash4": "gcvq",
+      "smallPath": "_m/g/c/v/q/linlithgow-wp/the-house-of-the-binns-geograp-small.webp"
     },
     {
       "filename": "Scotland-2016-Aerial-Blackness Castle 02.jpg",
@@ -88,7 +89,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "linlithgow-wp",
-      "sourceGeohash4": "gcvq"
+      "sourceGeohash4": "gcvq",
+      "mediumPath": "_m/g/c/v/q/linlithgow-wp/scotland-2016-aerial-blackness-medium.webp",
+      "smallPath": "_m/g/c/v/q/linlithgow-wp/scotland-2016-aerial-blackness-small.webp"
     },
     {
       "filename": "Linlithgow banner Palace.jpg",
@@ -132,7 +135,9 @@
       "dateCreated": "2017-09-06 16:12:14",
       "sourceType": "poi",
       "sourceArticleId": "linlithgow-wp",
-      "sourceGeohash4": "gcvq"
+      "sourceGeohash4": "gcvq",
+      "mediumPath": "_m/g/c/v/q/linlithgow-wp/house-of-the-binns-tower-medium.webp",
+      "smallPath": "_m/g/c/v/q/linlithgow-wp/house-of-the-binns-tower-small.webp"
     },
     {
       "filename": "St Michael's Church, Linlithgow - geograph.org.uk - 2338845.jpg",
@@ -149,7 +154,9 @@
       "dateCreated": "2011-04-03",
       "sourceType": "poi",
       "sourceArticleId": "linlithgow-wp",
-      "sourceGeohash4": "gcvq"
+      "sourceGeohash4": "gcvq",
+      "mediumPath": "_m/g/c/v/q/linlithgow-wp/st-michael-s-church-linlithgow-medium.webp",
+      "smallPath": "_m/g/c/v/q/linlithgow-wp/st-michael-s-church-linlithgow-small.webp"
     }
   ],
   "galleryPaths": [
@@ -160,5 +167,24 @@
     "_m/g/c/v/q/linlithgow-wp/house-of-the-binns-tower.jpg",
     "_m/g/c/v/q/linlithgow-wp/st-michael-s-church-linlithgow.jpg"
   ],
-  "updatedAt": "2026-06-23T01:08:02.986Z"
+  "updatedAt": "2026-06-23T01:08:02.986Z",
+  "narration": {
+    "files": [
+      "gcvq-linlithgow-flight-context.mp3",
+      "gcvq-linlithgow-intro.mp3",
+      "gcvq-linlithgow-lake-in-the-moist-hollow.mp3",
+      "gcvq-linlithgow-the-black-bitch.mp3",
+      "gcvq-linlithgow-chloroform-and-the-black-hound.mp3",
+      "gcvq-linlithgow-the-future-of-engineering.mp3"
+    ],
+    "durations": {
+      "gcvq-linlithgow-flight-context.mp3": 46.3990833,
+      "gcvq-linlithgow-intro.mp3": 39.9655833,
+      "gcvq-linlithgow-lake-in-the-moist-hollow.mp3": 58.00125,
+      "gcvq-linlithgow-the-black-bitch.mp3": 63.9394166,
+      "gcvq-linlithgow-chloroform-and-the-black-hound.mp3": 59.876625,
+      "gcvq-linlithgow-the-future-of-engineering.mp3": 63.4986666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

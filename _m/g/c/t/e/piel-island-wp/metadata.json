@@ -22,7 +22,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "piel-island-wp",
-    "sourceGeohash4": "gcte"
+    "sourceGeohash4": "gcte",
+    "smallPath": "_m/g/c/t/e/piel-island-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Piel Island from Roa Island.jpg",
@@ -135,7 +136,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "piel-island-wp",
-      "sourceGeohash4": "gcte"
+      "sourceGeohash4": "gcte",
+      "smallPath": "_m/g/c/t/e/piel-island-wp/from-rampside-towards-piel-geo-small.webp"
     },
     {
       "filename": "Safely Ashore - geograph.org.uk - 267967.jpg",
@@ -161,7 +163,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "piel-island-wp",
-      "sourceGeohash4": "gcte"
+      "sourceGeohash4": "gcte",
+      "smallPath": "_m/g/c/t/e/piel-island-wp/safely-ashore-geograph-org-uk--small.webp"
     },
     {
       "filename": "A view from Piel Castle keep - geograph.org.uk - 5811262.jpg",
@@ -206,7 +209,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "piel-island-wp",
-      "sourceGeohash4": "gcte"
+      "sourceGeohash4": "gcte",
+      "smallPath": "_m/g/c/t/e/piel-island-wp/trinity-house-pilot-houses-pie-small.webp"
     },
     {
       "filename": "Former pilot houses on Piel Island - geograph.org.uk - 6301768.jpg",
@@ -223,7 +227,8 @@
       "dateCreated": "2019-10-19",
       "sourceType": "commons-category",
       "sourceArticleId": "piel-island-wp",
-      "sourceGeohash4": "gcte"
+      "sourceGeohash4": "gcte",
+      "smallPath": "_m/g/c/t/e/piel-island-wp/former-pilot-houses-on-piel-is-small.webp"
     }
   ],
   "galleryPaths": [
@@ -235,5 +240,26 @@
     "_m/g/c/t/e/piel-island-wp/trinity-house-pilot-houses-pie.jpg",
     "_m/g/c/t/e/piel-island-wp/former-pilot-houses-on-piel-is.jpg"
   ],
-  "updatedAt": "2026-06-22T15:50:09.321Z"
+  "updatedAt": "2026-06-22T15:50:09.321Z",
+  "narration": {
+    "files": [
+      "gcte-piel-island-flight-context.mp3",
+      "gcte-piel-island-intro.mp3",
+      "gcte-piel-island-fowdray-of-the-fodder.mp3",
+      "gcte-piel-island-pilots-painters-and-romantics.mp3",
+      "gcte-piel-island-the-ship-inn-and-the-king-of-piel.mp3",
+      "gcte-piel-island-getting-there-staying-there.mp3",
+      "gcte-piel-island-a-small-kingdom.mp3"
+    ],
+    "durations": {
+      "gcte-piel-island-flight-context.mp3": 58.475125,
+      "gcte-piel-island-intro.mp3": 36.4029166,
+      "gcte-piel-island-fowdray-of-the-fodder.mp3": 62.8498333,
+      "gcte-piel-island-pilots-painters-and-romantics.mp3": 62.0890833,
+      "gcte-piel-island-the-ship-inn-and-the-king-of-piel.mp3": 62.7255,
+      "gcte-piel-island-getting-there-staying-there.mp3": 49.5731666,
+      "gcte-piel-island-a-small-kingdom.mp3": 40.1774166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

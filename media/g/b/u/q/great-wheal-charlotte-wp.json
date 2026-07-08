@@ -21,7 +21,8 @@
           "Files with coordinates missing SDC location of creation",
           "Self-published work",
           "South West Coast Path in Cornwall"
-        ]
+        ],
+        "smallPath": "_m/g/b/u/q/great-wheal-charlotte-wp/hero-small.webp"
       },
       "images": [
         {
@@ -43,7 +44,9 @@
             "Files with coordinates missing SDC location of creation",
             "Self-published work",
             "South West Coast Path in Cornwall"
-          ]
+          ],
+          "mediumPath": "_m/g/b/u/q/great-wheal-charlotte-wp/mine-ruins-consisting-medium.webp",
+          "smallPath": "_m/g/b/u/q/great-wheal-charlotte-wp/mine-ruins-consisting-small.webp"
         },
         {
           "path": "_m/g/b/u/q/great-wheal-charlotte-wp/single-wall-all-remain.jpg",
@@ -64,7 +67,9 @@
             "Files with coordinates missing SDC location of creation",
             "Self-published work",
             "South West Coast Path in Cornwall"
-          ]
+          ],
+          "mediumPath": "_m/g/b/u/q/great-wheal-charlotte-wp/single-wall-all-remain-medium.webp",
+          "smallPath": "_m/g/b/u/q/great-wheal-charlotte-wp/single-wall-all-remain-small.webp"
         },
         {
           "path": "_m/g/b/u/q/great-wheal-charlotte-wp/south-west-coast-path.jpg",
@@ -85,7 +90,9 @@
             "Files with coordinates missing SDC location of creation",
             "Self-published work",
             "South West Coast Path in Cornwall"
-          ]
+          ],
+          "mediumPath": "_m/g/b/u/q/great-wheal-charlotte-wp/south-west-coast-path-medium.webp",
+          "smallPath": "_m/g/b/u/q/great-wheal-charlotte-wp/south-west-coast-path-small.webp"
         }
       ],
       "narration": [
@@ -95,7 +102,11 @@
         "_m/g/b/u/q/great-wheal-charlotte-wp/gbuq-great-wheal-charlotte-up-the-ladder.mp3",
         "_m/g/b/u/q/great-wheal-charlotte-wp/gbuq-great-wheal-charlotte-women-and-children-at-the-surface.mp3",
         "_m/g/b/u/q/great-wheal-charlotte-wp/gbuq-great-wheal-charlotte-stone-and-sterile-ground.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/b/u/q/great-wheal-charlotte-wp/gbuq-great-wheal-charlotte-combined.mp3",
+      "combinedNarrationBytes": 4052285,
+      "combinedNarrationDuration": 325,
+      "combinedCover": "_m/g/b/u/q/great-wheal-charlotte-wp/gbuq-great-wheal-charlotte-combined-cover.jpg"
     }
   }
 }

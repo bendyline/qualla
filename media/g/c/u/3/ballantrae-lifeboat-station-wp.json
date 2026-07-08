@@ -22,7 +22,9 @@
           "CC-BY-4.0",
           "Images by Roger Griffith",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/g/c/u/3/ballantrae-lifeboat-station-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/u/3/ballantrae-lifeboat-station-wp/hero-small.webp"
       },
       "images": [
         {
@@ -45,7 +47,9 @@
             "Maps of South Ayrshire",
             "Ordnance Survey Boundary Line maps",
             "Topographic maps of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/3/ballantrae-lifeboat-station-wp/relief-map-south-ayrsh-medium.webp",
+          "smallPath": "_m/g/c/u/3/ballantrae-lifeboat-station-wp/relief-map-south-ayrsh-small.webp"
         },
         {
           "path": "_m/g/c/u/3/ballantrae-lifeboat-station-wp/old-lifeboat-house-she.jpg",
@@ -68,7 +72,9 @@
             "Images by Roger Griffith",
             "October 2020 in Scotland",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/3/ballantrae-lifeboat-station-wp/old-lifeboat-house-she-medium.webp",
+          "smallPath": "_m/g/c/u/3/ballantrae-lifeboat-station-wp/old-lifeboat-house-she-small.webp"
         },
         {
           "path": "_m/g/c/u/d/girvan-wp/aeolus-at-girvan-geograph-org-.jpg",
@@ -184,7 +190,19 @@
             "WLM-UK 2018 unfiltered 09-30"
           ]
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/u/3/ballantrae-lifeboat-station-wp/gcu3-ballantrae-lifeboat-station-flight-context.mp3",
+        "_m/g/c/u/3/ballantrae-lifeboat-station-wp/gcu3-ballantrae-lifeboat-station-intro.mp3",
+        "_m/g/c/u/3/ballantrae-lifeboat-station-wp/gcu3-ballantrae-lifeboat-station-how-a-lifeboat-got-to-ballantrae.mp3",
+        "_m/g/c/u/3/ballantrae-lifeboat-station-wp/gcu3-ballantrae-lifeboat-station-the-s-s-deloraine-january-1909.mp3",
+        "_m/g/c/u/3/ballantrae-lifeboat-station-wp/gcu3-ballantrae-lifeboat-station-the-quiet-closure.mp3",
+        "_m/g/c/u/3/ballantrae-lifeboat-station-wp/gcu3-ballantrae-lifeboat-station-what-still-stands.mp3"
+      ],
+      "combinedNarration": "_m/g/c/u/3/ballantrae-lifeboat-station-wp/gcu3-ballantrae-lifeboat-station-combined.mp3",
+      "combinedNarrationBytes": 3523017,
+      "combinedNarrationDuration": 283,
+      "combinedCover": "_m/g/c/u/3/ballantrae-lifeboat-station-wp/gcu3-ballantrae-lifeboat-station-combined-cover.jpg"
     }
   }
 }

@@ -25,7 +25,8 @@
           "Images from the British Library Mechanical Curator collection",
           "PD-old-70-expired",
           "Uploaded by the British Library"
-        ]
+        ],
+        "smallPath": "_m/d/q/b/e/first-battle-of-rappahannock-station-wp/hero-small.webp"
       },
       "images": [
         {
@@ -49,7 +50,8 @@
             "Soldiers of the Union Army",
             "Template Unknown (author)",
             "Virginia in the American Civil War"
-          ]
+          ],
+          "smallPath": "_m/d/q/b/e/first-battle-of-rappahannock-station-wp/union-pickets-rappahan-small.webp"
         },
         {
           "path": "_m/d/q/b/e/first-battle-of-rappahannock-station-wp/photographic-history-c.jpg",
@@ -70,7 +72,9 @@
             "PD-US missing SDC copyright status",
             "PD US expired",
             "The Photographic History of The Civil War Volume 02"
-          ]
+          ],
+          "mediumPath": "_m/d/q/b/e/first-battle-of-rappahannock-station-wp/photographic-history-c-medium.webp",
+          "smallPath": "_m/d/q/b/e/first-battle-of-rappahannock-station-wp/photographic-history-c-small.webp"
         },
         {
           "path": "_m/d/q/b/e/first-battle-of-rappahannock-station-wp/the-photographic-history-of-th.jpg",
@@ -92,7 +96,9 @@
             "PD US expired",
             "Siege of Petersburg",
             "The Photographic History of The Civil War Volume 01"
-          ]
+          ],
+          "mediumPath": "_m/d/q/b/e/first-battle-of-rappahannock-station-wp/the-photographic-history-of-th-medium.webp",
+          "smallPath": "_m/d/q/b/e/first-battle-of-rappahannock-station-wp/the-photographic-history-of-th-small.webp"
         }
       ],
       "narration": [
@@ -103,7 +109,11 @@
         "_m/d/q/b/e/first-battle-of-rappahannock-station-wp/dqbe-first-battle-of-rappahannock-station-what-the-battle-set-up.mp3",
         "_m/d/q/b/e/first-battle-of-rappahannock-station-wp/dqbe-first-battle-of-rappahannock-station-the-artilleryman-from-new-orleans.mp3",
         "_m/d/q/b/e/first-battle-of-rappahannock-station-wp/dqbe-first-battle-of-rappahannock-station-what-survives-on-the-river.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/q/b/e/first-battle-of-rappahannock-station-wp/dqbe-first-battle-of-rappahannock-station-combined.mp3",
+      "combinedNarrationBytes": 4595764,
+      "combinedNarrationDuration": 372,
+      "combinedCover": "_m/d/q/b/e/first-battle-of-rappahannock-station-wp/dqbe-first-battle-of-rappahannock-station-combined-cover.jpg"
     }
   }
 }

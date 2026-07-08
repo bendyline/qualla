@@ -22,7 +22,9 @@
           "Files from Houses of the Oireachtas flickr stream",
           "Flickr images reviewed by FlickreviewR 2",
           "Republic of Ireland photographs taken on 2020-02-13"
-        ]
+        ],
+        "mediumPath": "_m/g/c/7/x/dail-eireann-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/7/x/dail-eireann-wp/hero-small.webp"
       },
       "images": [
         {
@@ -51,7 +53,9 @@
             "Self-published work",
             "Stone balustrades in Ireland",
             "Windows in Dublin"
-          ]
+          ],
+          "mediumPath": "_m/g/c/7/x/dail-eireann-wp/vue-de-leinster-house-medium.webp",
+          "smallPath": "_m/g/c/7/x/dail-eireann-wp/vue-de-leinster-house-small.webp"
         },
         {
           "path": "_m/g/c/7/x/dail-eireann-wp/31st-dail.png",
@@ -80,7 +84,8 @@
             "Pictures by O'Dea",
             "Representative-style election apportionment diagrams",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/7/x/dail-eireann-wp/31st-dail-small.webp"
         },
         {
           "path": "_m/g/c/7/x/dail-eireann-wp/dail-eireann-15072015.png",
@@ -109,7 +114,8 @@
             "Media needing categorization by organization (election apportionment diagrams)",
             "Media needing categorization by year (election apportionment diagrams)",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/7/x/dail-eireann-wp/dail-eireann-15072015-small.webp"
         },
         {
           "path": "_m/g/c/7/x/dail-eireann-wp/election-of-leas-cheann-comhai.jpg",
@@ -124,7 +130,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Election_of_Leas-Cheann_Comhairle_of_D%C3%A1il_%C3%89ireann_-_19_February_2025_(54337212532).jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "dail-eireann-wp",
-          "sourceGeohash4": "gc7x"
+          "sourceGeohash4": "gc7x",
+          "smallPath": "_m/g/c/7/x/dail-eireann-wp/election-of-leas-cheann-comhai-small.webp"
         },
         {
           "path": "_m/g/c/7/x/dail-eireann-wp/election-of-leas-cheann-comhai-1.jpg",
@@ -139,7 +146,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Election_of_Leas-Cheann_Comhairle_of_D%C3%A1il_%C3%89ireann_-_19_February_2025_(54337212462).jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "dail-eireann-wp",
-          "sourceGeohash4": "gc7x"
+          "sourceGeohash4": "gc7x",
+          "smallPath": "_m/g/c/7/x/dail-eireann-wp/election-of-leas-cheann-comhai-1-small.webp"
         }
       ],
       "narration": [
@@ -150,7 +158,11 @@
         "_m/g/c/7/x/dail-eireann-wp/gc7x-d-il-ireann-t-and-n-l.mp3",
         "_m/g/c/7/x/dail-eireann-wp/gc7x-d-il-ireann-the-single-transferable-vote.mp3",
         "_m/g/c/7/x/dail-eireann-wp/gc7x-d-il-ireann-an-old-lecture-theatre.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/7/x/dail-eireann-wp/gc7x-dail-eireann-combined.mp3",
+      "combinedNarrationBytes": 4848512,
+      "combinedNarrationDuration": 394,
+      "combinedCover": "_m/g/c/7/x/dail-eireann-wp/gc7x-dail-eireann-combined-cover.jpg"
     }
   }
 }

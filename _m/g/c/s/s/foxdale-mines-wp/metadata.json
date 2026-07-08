@@ -27,7 +27,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "foxdale-mines-wp",
-    "sourceGeohash4": "gcss"
+    "sourceGeohash4": "gcss",
+    "smallPath": "_m/g/c/s/s/foxdale-mines-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Foxdale Mines (circa 1880).jpg",
@@ -87,5 +88,26 @@
       }
     }
   ],
-  "updatedAt": "2026-06-22T12:54:08.788Z"
+  "updatedAt": "2026-06-22T12:54:08.788Z",
+  "narration": {
+    "files": [
+      "gcss-foxdale-mines-flight-context.mp3",
+      "gcss-foxdale-mines-intro.mp3",
+      "gcss-foxdale-mines-a-mineralised-stripe-across-the-island.mp3",
+      "gcss-foxdale-mines-silver-years.mp3",
+      "gcss-foxdale-mines-killed-by-geography-not-by-the-vein.mp3",
+      "gcss-foxdale-mines-the-spoil-that-outlasted-the-industry.mp3",
+      "gcss-foxdale-mines-walking-the-workings.mp3"
+    ],
+    "durations": {
+      "gcss-foxdale-mines-flight-context.mp3": 43.382125,
+      "gcss-foxdale-mines-intro.mp3": 40.0969583,
+      "gcss-foxdale-mines-a-mineralised-stripe-across-the-island.mp3": 50.1574166,
+      "gcss-foxdale-mines-silver-years.mp3": 65.6189166,
+      "gcss-foxdale-mines-killed-by-geography-not-by-the-vein.mp3": 60.3989583,
+      "gcss-foxdale-mines-the-spoil-that-outlasted-the-industry.mp3": 49.742125,
+      "gcss-foxdale-mines-walking-the-workings.mp3": 50.2739583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

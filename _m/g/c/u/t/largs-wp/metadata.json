@@ -21,7 +21,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "largs-wp",
-      "sourceGeohash4": "gcut"
+      "sourceGeohash4": "gcut",
+      "mediumPath": "_m/g/c/u/t/largs-wp/nardini-s-cafe-largs-1-6-2012-medium.webp",
+      "smallPath": "_m/g/c/u/t/largs-wp/nardini-s-cafe-largs-1-6-2012-small.webp"
     },
     {
       "filename": "Skelmorlie Aisle ceiling - Section 2 - west facing end.JPG",
@@ -47,7 +49,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "largs-wp",
-      "sourceGeohash4": "gcut"
+      "sourceGeohash4": "gcut",
+      "mediumPath": "_m/g/c/u/t/largs-wp/skelmorlie-aisle-ceiling-secti-medium.webp",
+      "smallPath": "_m/g/c/u/t/largs-wp/skelmorlie-aisle-ceiling-secti-small.webp"
     },
     {
       "filename": "'The Pencil' - Battle of Largs Monument.jpg",
@@ -80,7 +84,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "largs-wp",
-      "sourceGeohash4": "gcut"
+      "sourceGeohash4": "gcut",
+      "mediumPath": "_m/g/c/u/t/largs-wp/the-pencil-battle-of-largs-mon-medium.webp",
+      "smallPath": "_m/g/c/u/t/largs-wp/the-pencil-battle-of-largs-mon-small.webp"
     },
     {
       "filename": "Kelburn Castle - geograph.org.uk - 7012102.jpg",
@@ -102,7 +108,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "largs-wp",
-      "sourceGeohash4": "gcut"
+      "sourceGeohash4": "gcut",
+      "mediumPath": "_m/g/c/u/t/largs-wp/kelburn-castle-geograph-org-uk-medium.webp",
+      "smallPath": "_m/g/c/u/t/largs-wp/kelburn-castle-geograph-org-uk-small.webp"
     }
   ],
   "galleryPaths": [
@@ -111,5 +119,24 @@
     "_m/g/c/u/t/largs-wp/the-pencil-battle-of-largs-mon.jpg",
     "_m/g/c/u/t/largs-wp/kelburn-castle-geograph-org-uk.jpg"
   ],
-  "updatedAt": "2026-06-22T20:52:41.629Z"
+  "updatedAt": "2026-06-22T20:52:41.629Z",
+  "narration": {
+    "files": [
+      "gcut-largs-flight-context.mp3",
+      "gcut-largs-intro.mp3",
+      "gcut-largs-vikings-on-the-slopes.mp3",
+      "gcut-largs-pier-and-resort.mp3",
+      "gcut-largs-brisbane-mountbatten-and-mourinho.mp3",
+      "gcut-largs-stones-aisles-and-annual-returns.mp3"
+    ],
+    "durations": {
+      "gcut-largs-flight-context.mp3": 56.2865,
+      "gcut-largs-intro.mp3": 44.89325,
+      "gcut-largs-vikings-on-the-slopes.mp3": 74.8916666,
+      "gcut-largs-pier-and-resort.mp3": 79.409375,
+      "gcut-largs-brisbane-mountbatten-and-mourinho.mp3": 66.9112916,
+      "gcut-largs-stones-aisles-and-annual-returns.mp3": 66.708875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

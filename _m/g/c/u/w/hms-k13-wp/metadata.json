@@ -25,7 +25,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "hms-k13-wp",
-    "sourceGeohash4": "gcuw"
+    "sourceGeohash4": "gcuw",
+    "mediumPath": "_m/g/c/u/w/hms-k13-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/u/w/hms-k13-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Message capsule from hms k13.JPG",
@@ -79,7 +81,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "hms-k13-wp",
-      "sourceGeohash4": "gcuw"
+      "sourceGeohash4": "gcuw",
+      "mediumPath": "_m/g/c/u/w/hms-k13-wp/memorial-british-subma-medium.webp",
+      "smallPath": "_m/g/c/u/w/hms-k13-wp/memorial-british-subma-small.webp"
     },
     {
       "filename": "Sous-marin (HMS) K 22 (sous-marin britannique endommagé le 19 janvier 1921 au large de Plymouth) - btv1b530466570 (cropped).jpg",
@@ -111,11 +115,34 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "hms-k13-wp",
-      "sourceGeohash4": "gcuw"
+      "sourceGeohash4": "gcuw",
+      "mediumPath": "_m/g/c/u/w/hms-k13-wp/sujet-sous-marins-gran-medium.webp",
+      "smallPath": "_m/g/c/u/w/hms-k13-wp/sujet-sous-marins-gran-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/u/w/hms-k13-wp/memorial-british-subma.jpg",
     "_m/g/c/u/w/hms-k13-wp/sujet-sous-marins-gran.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcuw-hms-k13-flight-context.mp3",
+      "gcuw-hms-k13-intro.mp3",
+      "gcuw-hms-k13-a-submarine-with-two-funnels.mp3",
+      "gcuw-hms-k13-the-dive.mp3",
+      "gcuw-hms-k13-the-witnesses.mp3",
+      "gcuw-hms-k13-fifty-seven-hours.mp3",
+      "gcuw-hms-k13-the-memorials.mp3"
+    ],
+    "durations": {
+      "gcuw-hms-k13-flight-context.mp3": 45.6554583,
+      "gcuw-hms-k13-intro.mp3": 44.4074583,
+      "gcuw-hms-k13-a-submarine-with-two-funnels.mp3": 59.88025,
+      "gcuw-hms-k13-the-dive.mp3": 45.52475,
+      "gcuw-hms-k13-the-witnesses.mp3": 54.6645,
+      "gcuw-hms-k13-fifty-seven-hours.mp3": 52.7244583,
+      "gcuw-hms-k13-the-memorials.mp3": 75.013875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -22,7 +22,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "irvine-lifeboat-station-wp",
-    "sourceGeohash4": "gcus"
+    "sourceGeohash4": "gcus",
+    "smallPath": "_m/g/c/u/s/irvine-lifeboat-station-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Irvine Beach Park, North Ayrshire - geograph.org.uk - 6227391.jpg",
@@ -101,11 +102,32 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "irvine-lifeboat-station-wp",
-      "sourceGeohash4": "gcus"
+      "sourceGeohash4": "gcus",
+      "mediumPath": "_m/g/c/u/s/irvine-lifeboat-station-wp/jane-anne-lifeboat-irv-medium.webp",
+      "smallPath": "_m/g/c/u/s/irvine-lifeboat-station-wp/jane-anne-lifeboat-irv-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/u/k/brodick-castle-wp/relief-map-north-ayrsh.jpg",
     "_m/g/c/u/s/irvine-lifeboat-station-wp/jane-anne-lifeboat-irv.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcus-irvine-lifeboat-station-flight-context.mp3",
+      "gcus-irvine-lifeboat-station-intro.mp3",
+      "gcus-irvine-lifeboat-station-eighty-years-of-service.mp3",
+      "gcus-irvine-lifeboat-station-three-boats-three-donors.mp3",
+      "gcus-irvine-lifeboat-station-coxswain-david-sinclair-and-the-frey.mp3",
+      "gcus-irvine-lifeboat-station-the-jane-anne-found-in-somerset.mp3"
+    ],
+    "durations": {
+      "gcus-irvine-lifeboat-station-flight-context.mp3": 56.023375,
+      "gcus-irvine-lifeboat-station-intro.mp3": 53.6905833,
+      "gcus-irvine-lifeboat-station-eighty-years-of-service.mp3": 72.9365416,
+      "gcus-irvine-lifeboat-station-three-boats-three-donors.mp3": 97.6072083,
+      "gcus-irvine-lifeboat-station-coxswain-david-sinclair-and-the-frey.mp3": 75.793875,
+      "gcus-irvine-lifeboat-station-the-jane-anne-found-in-somerset.mp3": 67.319375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

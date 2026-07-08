@@ -22,7 +22,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "kildonan-lifeboat-station-wp",
-    "sourceGeohash4": "gcu7"
+    "sourceGeohash4": "gcu7",
+    "mediumPath": "_m/g/c/u/7/kildonan-lifeboat-station-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/u/7/kildonan-lifeboat-station-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Seal shore camping - geograph.org.uk - 2148090.jpg",
@@ -49,5 +51,24 @@
     "sourceGeohash4": "gcu7"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcu7-kildonan-lifeboat-station-flight-context.mp3",
+      "gcu7-kildonan-lifeboat-station-intro.mp3",
+      "gcu7-kildonan-lifeboat-station-a-donation-from-berkshire.mp3",
+      "gcu7-kildonan-lifeboat-station-the-names-of-the-boats.mp3",
+      "gcu7-kildonan-lifeboat-station-calls-into-the-dark.mp3",
+      "gcu7-kildonan-lifeboat-station-the-quiet-years.mp3"
+    ],
+    "durations": {
+      "gcu7-kildonan-lifeboat-station-flight-context.mp3": 38.5333333,
+      "gcu7-kildonan-lifeboat-station-intro.mp3": 45.7331666,
+      "gcu7-kildonan-lifeboat-station-a-donation-from-berkshire.mp3": 55.2215833,
+      "gcu7-kildonan-lifeboat-station-the-names-of-the-boats.mp3": 56.8365833,
+      "gcu7-kildonan-lifeboat-station-calls-into-the-dark.mp3": 58.9107916,
+      "gcu7-kildonan-lifeboat-station-the-quiet-years.mp3": 45.4526666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

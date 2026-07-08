@@ -165,7 +165,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "grantham-wp",
-      "sourceGeohash4": "gcrt"
+      "sourceGeohash4": "gcrt",
+      "mediumPath": "_m/g/c/r/t/grantham-wp/belvoir-castle-leicestershire-medium.webp",
+      "smallPath": "_m/g/c/r/t/grantham-wp/belvoir-castle-leicestershire-small.webp"
     },
     {
       "filename": "Grantham Museum - geograph.org.uk - 5286775.jpg",
@@ -182,7 +184,8 @@
       "dateCreated": "2017-02-15",
       "sourceType": "poi",
       "sourceArticleId": "grantham-wp",
-      "sourceGeohash4": "gcrt"
+      "sourceGeohash4": "gcrt",
+      "smallPath": "_m/g/c/r/t/grantham-wp/grantham-museum-geograph-org-u-small.webp"
     }
   ],
   "galleryPaths": [
@@ -195,5 +198,24 @@
     "_m/g/c/r/t/grantham-wp/belvoir-castle-leicestershire.jpg",
     "_m/g/c/r/t/grantham-wp/grantham-museum-geograph-org-u.jpg"
   ],
-  "updatedAt": "2026-06-22T09:42:21.485Z"
+  "updatedAt": "2026-06-22T09:42:21.485Z",
+  "narration": {
+    "files": [
+      "gcrt-grantham-flight-context.mp3",
+      "gcrt-grantham-intro.mp3",
+      "gcrt-grantham-the-grocers-daughter.mp3",
+      "gcrt-grantham-newton-paine-and-a-whetstone-biscuit.mp3",
+      "gcrt-grantham-engines-and-dambusters.mp3",
+      "gcrt-grantham-olympians-spires-and-a-living-sign.mp3"
+    ],
+    "durations": {
+      "gcrt-grantham-flight-context.mp3": 47.2197083,
+      "gcrt-grantham-intro.mp3": 51.8356666,
+      "gcrt-grantham-the-grocers-daughter.mp3": 59.5979583,
+      "gcrt-grantham-newton-paine-and-a-whetstone-biscuit.mp3": 66.69625,
+      "gcrt-grantham-engines-and-dambusters.mp3": 73.4719583,
+      "gcrt-grantham-olympians-spires-and-a-living-sign.mp3": 69.050375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

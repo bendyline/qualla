@@ -23,7 +23,8 @@
           "PD-old-70-expired",
           "PD-old missing SDC copyright status",
           "Screw-pile lighthouses"
-        ]
+        ],
+        "smallPath": "_m/g/b/g/7/bishop-rock-wp/hero-small.webp"
       },
       "images": [
         {
@@ -72,7 +73,9 @@
             "National Maritime Museum Cornwall",
             "Supported by Wikimedia UK",
             "Uploaded with VicuñaUploader"
-          ]
+          ],
+          "mediumPath": "_m/g/b/g/7/bishop-rock-wp/national-maritime-muse-medium.webp",
+          "smallPath": "_m/g/b/g/7/bishop-rock-wp/national-maritime-muse-small.webp"
         },
         {
           "path": "_m/g/b/g/7/bishop-rock-wp/bishop-rock-lighthouse.jpg",
@@ -93,7 +96,8 @@
             "CC-BY-SA-2.0",
             "Images by David Smith",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/b/g/7/bishop-rock-wp/bishop-rock-lighthouse-small.webp"
         },
         {
           "path": "_m/g/b/g/7/bishop-rock-wp/western-rocks-scilly-with-the-.jpg",
@@ -122,7 +126,8 @@
             "Outcrops in Cornwall",
             "Splashing water waves",
             "Taken with Panasonic Lumix DMC-FZ7"
-          ]
+          ],
+          "smallPath": "_m/g/b/g/7/bishop-rock-wp/western-rocks-scilly-with-the--small.webp"
         },
         {
           "path": "_m/g/b/g/7/bishop-rock-wp/bishop-rock-lighthouse-1972-ge.jpg",
@@ -142,7 +147,8 @@
             "Bishop Rock",
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/b/g/7/bishop-rock-wp/bishop-rock-lighthouse-1972-ge-small.webp"
         }
       ],
       "narration": [
@@ -153,7 +159,11 @@
         "_m/g/b/g/7/bishop-rock-wp/gbg7-bishop-rock-the-atlantic-tries-to-shake-it-down.mp3",
         "_m/g/b/g/7/bishop-rock-wp/gbg7-bishop-rock-two-towers-in-one-and-the-men-who-lived-there.mp3",
         "_m/g/b/g/7/bishop-rock-wp/gbg7-bishop-rock-king-of-the-lighthouses.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/b/g/7/bishop-rock-wp/gbg7-bishop-rock-combined.mp3",
+      "combinedNarrationBytes": 4829678,
+      "combinedNarrationDuration": 394,
+      "combinedCover": "_m/g/b/g/7/bishop-rock-wp/gbg7-bishop-rock-combined-cover.jpg"
     }
   }
 }

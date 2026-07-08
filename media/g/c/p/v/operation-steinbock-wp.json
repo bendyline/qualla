@@ -15,7 +15,8 @@
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pall_Mall_(22058955226).jpg",
         "sourceType": "core",
         "sourceArticleId": "operation-steinbock-wp",
-        "sourceGeohash4": "gcpv"
+        "sourceGeohash4": "gcpv",
+        "smallPath": "_m/g/c/p/v/operation-steinbock-wp/hero-small.webp"
       },
       "images": [
         {
@@ -37,7 +38,8 @@
             "Junkers Ju 188",
             "Kampfgeschwader 6",
             "Photographs by Bankhard, PK"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/operation-steinbock-wp/bundesarchiv-bild-101i-small.webp"
         },
         {
           "path": "_m/g/c/p/v/operation-steinbock-wp/documentary-purposes-g.jpg",
@@ -64,7 +66,8 @@
             "History of Wolfsschanze",
             "Images from the German Federal Archive",
             "Photographs by Heinrich Hoffmann"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/operation-steinbock-wp/documentary-purposes-g-small.webp"
         },
         {
           "path": "_m/g/c/p/v/operation-steinbock-wp/mosquito-nf-mark-xiii.jpg",
@@ -79,7 +82,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:De_Haviland_Mosquito_NF.XIII_with_Mk._VIII_radar_-_CH_14643.jpg",
           "sourceType": "core",
           "sourceArticleId": "operation-steinbock-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "smallPath": "_m/g/c/p/v/operation-steinbock-wp/mosquito-nf-mark-xiii-small.webp"
         }
       ],
       "narration": [
@@ -90,7 +94,11 @@
         "_m/g/c/p/v/operation-steinbock-wp/gcpv-operation-steinbock-what-killed-the-luftwaffes-bombers.mp3",
         "_m/g/c/p/v/operation-steinbock-wp/gcpv-operation-steinbock-steinbocks-last-card.mp3",
         "_m/g/c/p/v/operation-steinbock-wp/gcpv-operation-steinbock-how-london-remembered-the-baby-blitz.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/p/v/operation-steinbock-wp/gcpv-operation-steinbock-combined.mp3",
+      "combinedNarrationBytes": 5290094,
+      "combinedNarrationDuration": 427,
+      "combinedCover": "_m/g/c/p/v/operation-steinbock-wp/gcpv-operation-steinbock-combined-cover.jpg"
     }
   }
 }

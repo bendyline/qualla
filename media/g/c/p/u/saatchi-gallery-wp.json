@@ -22,7 +22,8 @@
           "Saatchi gallery, Duke of York's HQ",
           "Self-published work",
           "Taken with Nikon D700"
-        ]
+        ],
+        "smallPath": "_m/g/c/p/u/saatchi-gallery-wp/hero-small.webp"
       },
       "images": [
         {
@@ -48,7 +49,8 @@
             "License migration completed",
             "Media missing infobox template",
             "Photo booth strips and photographs"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/u/saatchi-gallery-wp/damien-hirst-1-2007-small.webp"
         },
         {
           "path": "_m/g/c/p/u/saatchi-gallery-wp/painting-canvas.jpg",
@@ -74,7 +76,9 @@
             "Self-published work",
             "Taken with Kodak EasyShare Z1285",
             "Tracey Emin"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/u/saatchi-gallery-wp/painting-canvas-medium.webp",
+          "smallPath": "_m/g/c/p/u/saatchi-gallery-wp/painting-canvas-small.webp"
         },
         {
           "path": "_m/g/c/p/u/saatchi-gallery-wp/felipe-pantone-at-beyond-the-s.jpg",
@@ -97,7 +101,9 @@
             "Op art",
             "Saatchi gallery",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/u/saatchi-gallery-wp/felipe-pantone-at-beyond-the-s-medium.webp",
+          "smallPath": "_m/g/c/p/u/saatchi-gallery-wp/felipe-pantone-at-beyond-the-s-small.webp"
         }
       ],
       "narration": [
@@ -107,7 +113,11 @@
         "_m/g/c/p/u/saatchi-gallery-wp/gcpu-saatchi-gallery-hirst-sharks-and-sensation.mp3",
         "_m/g/c/p/u/saatchi-gallery-wp/gcpu-saatchi-gallery-moving-house-twice.mp3",
         "_m/g/c/p/u/saatchi-gallery-wp/gcpu-saatchi-gallery-charity-reversal-and-the-long-view.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/p/u/saatchi-gallery-wp/gcpu-saatchi-gallery-combined.mp3",
+      "combinedNarrationBytes": 4083542,
+      "combinedNarrationDuration": 329,
+      "combinedCover": "_m/g/c/p/u/saatchi-gallery-wp/gcpu-saatchi-gallery-combined-cover.jpg"
     }
   }
 }

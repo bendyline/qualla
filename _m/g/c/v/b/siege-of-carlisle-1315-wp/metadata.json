@@ -75,7 +75,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "siege-of-carlisle-1315-wp",
-      "sourceGeohash4": "gcvb"
+      "sourceGeohash4": "gcvb",
+      "smallPath": "_m/g/c/v/b/siege-of-carlisle-1315-wp/copper-plate-engraving-small.webp"
     },
     {
       "filename": "Siege of Carlisle 1315.jpg",
@@ -107,11 +108,31 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "siege-of-carlisle-1315-wp",
-      "sourceGeohash4": "gcvb"
+      "sourceGeohash4": "gcvb",
+      "smallPath": "_m/g/c/v/b/siege-of-carlisle-1315-wp/initial-royal-charter-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/v/b/siege-of-carlisle-1315-wp/copper-plate-engraving.jpg",
     "_m/g/c/v/b/siege-of-carlisle-1315-wp/initial-royal-charter.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcvb-siege-of-carlisle-1315-flight-context.mp3",
+      "gcvb-siege-of-carlisle-1315-intro.mp3",
+      "gcvb-siege-of-carlisle-1315-a-king-without-a-siege-train.mp3",
+      "gcvb-siege-of-carlisle-1315-eleven-days-in-the-rain.mp3",
+      "gcvb-siege-of-carlisle-1315-james-douglas-goes-over-the-wall.mp3",
+      "gcvb-siege-of-carlisle-1315-the-rise-and-fall-of-andrew-harclay.mp3"
+    ],
+    "durations": {
+      "gcvb-siege-of-carlisle-1315-flight-context.mp3": 59.0640416,
+      "gcvb-siege-of-carlisle-1315-intro.mp3": 44.5080833,
+      "gcvb-siege-of-carlisle-1315-a-king-without-a-siege-train.mp3": 48.1492083,
+      "gcvb-siege-of-carlisle-1315-eleven-days-in-the-rain.mp3": 47.5385833,
+      "gcvb-siege-of-carlisle-1315-james-douglas-goes-over-the-wall.mp3": 51.3025416,
+      "gcvb-siege-of-carlisle-1315-the-rise-and-fall-of-andrew-harclay.mp3": 58.6879583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

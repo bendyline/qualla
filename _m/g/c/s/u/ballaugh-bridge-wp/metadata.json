@@ -27,7 +27,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "ballaugh-bridge-wp",
-    "sourceGeohash4": "gcsu"
+    "sourceGeohash4": "gcsu",
+    "smallPath": "_m/g/c/s/u/ballaugh-bridge-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Ballaugh bridge IMG 0111.JPG",
@@ -89,7 +90,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "ballaugh-bridge-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "smallPath": "_m/g/c/s/u/ballaugh-bridge-wp/hervegantner-touristtr-small.webp"
     },
     {
       "filename": "Ballaugh Bridge 2013 IMG B00017.jpg",
@@ -115,11 +117,31 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "ballaugh-bridge-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "smallPath": "_m/g/c/s/u/ballaugh-bridge-wp/ballaugh-bridge-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/s/u/ballaugh-bridge-wp/hervegantner-touristtr.jpg",
     "_m/g/c/s/u/ballaugh-bridge-wp/ballaugh-bridge.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcsu-ballaugh-bridge-flight-context.mp3",
+      "gcsu-ballaugh-bridge-intro.mp3",
+      "gcsu-ballaugh-bridge-before-the-motorcycles.mp3",
+      "gcsu-ballaugh-bridge-1911-and-the-mountain-course.mp3",
+      "gcsu-ballaugh-bridge-1953-and-the-last-humpback.mp3",
+      "gcsu-ballaugh-bridge-karl-galls-roadside.mp3"
+    ],
+    "durations": {
+      "gcsu-ballaugh-bridge-flight-context.mp3": 50.3337916,
+      "gcsu-ballaugh-bridge-intro.mp3": 51.4974583,
+      "gcsu-ballaugh-bridge-before-the-motorcycles.mp3": 60.9144166,
+      "gcsu-ballaugh-bridge-1911-and-the-mountain-course.mp3": 61.5074166,
+      "gcsu-ballaugh-bridge-1953-and-the-last-humpback.mp3": 50.6087916,
+      "gcsu-ballaugh-bridge-karl-galls-roadside.mp3": 60.8234166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

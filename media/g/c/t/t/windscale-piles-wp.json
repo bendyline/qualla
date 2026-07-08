@@ -22,7 +22,8 @@
           "PD US DOE",
           "Photographs by the U.S. Department of Energy",
           "Windscale Piles"
-        ]
+        ],
+        "smallPath": "_m/g/c/t/t/windscale-piles-wp/hero-small.webp"
       },
       "images": [
         {
@@ -46,7 +47,8 @@
             "Self-published work",
             "Vector version available",
             "Windscale Piles"
-          ]
+          ],
+          "smallPath": "_m/g/c/t/t/windscale-piles-wp/windscale-reactor-small.webp"
         },
         {
           "path": "_m/g/c/t/t/windscale-piles-wp/calder-hall-world-s-fi.jpg",
@@ -94,9 +96,24 @@
             "Calder Hall nuclear power station",
             "Images from Geograph Britain and Ireland",
             "Windscale Piles"
-          ]
+          ],
+          "mediumPath": "_m/g/c/t/t/windscale-piles-wp/sellafield-calder-hall-power-s-medium.webp",
+          "smallPath": "_m/g/c/t/t/windscale-piles-wp/sellafield-calder-hall-power-s-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/t/t/windscale-piles-wp/gctt-windscale-piles-flight-context.mp3",
+        "_m/g/c/t/t/windscale-piles-wp/gctt-windscale-piles-intro.mp3",
+        "_m/g/c/t/t/windscale-piles-wp/gctt-windscale-piles-the-decision-to-build.mp3",
+        "_m/g/c/t/t/windscale-piles-wp/gctt-windscale-piles-air-not-water.mp3",
+        "_m/g/c/t/t/windscale-piles-wp/gctt-windscale-piles-cockcrofts-folly.mp3",
+        "_m/g/c/t/t/windscale-piles-wp/gctt-windscale-piles-operations-and-tritium.mp3",
+        "_m/g/c/t/t/windscale-piles-wp/gctt-windscale-piles-what-remains.mp3"
+      ],
+      "combinedNarration": "_m/g/c/t/t/windscale-piles-wp/gctt-windscale-piles-combined.mp3",
+      "combinedNarrationBytes": 5798837,
+      "combinedNarrationDuration": 477,
+      "combinedCover": "_m/g/c/t/t/windscale-piles-wp/gctt-windscale-piles-combined-cover.jpg"
     }
   }
 }

@@ -22,7 +22,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "borrowdale-wp",
-      "sourceGeohash4": "gcty"
+      "sourceGeohash4": "gcty",
+      "mediumPath": "_m/g/c/t/y/borrowdale-wp/borrowdale-from-castle-crag-medium.webp",
+      "smallPath": "_m/g/c/t/y/borrowdale-wp/borrowdale-from-castle-crag-small.webp"
     },
     {
       "filename": "Ashness bridge.JPG",
@@ -45,7 +47,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "borrowdale-wp",
-      "sourceGeohash4": "gcty"
+      "sourceGeohash4": "gcty",
+      "mediumPath": "_m/g/c/t/y/borrowdale-wp/ashness-bridge-medium.webp",
+      "smallPath": "_m/g/c/t/y/borrowdale-wp/ashness-bridge-small.webp"
     },
     {
       "filename": "Galleny Force 2.JPG",
@@ -71,7 +75,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "borrowdale-wp",
-      "sourceGeohash4": "gcty"
+      "sourceGeohash4": "gcty",
+      "mediumPath": "_m/g/c/t/y/borrowdale-wp/galleny-force-2-medium.webp",
+      "smallPath": "_m/g/c/t/y/borrowdale-wp/galleny-force-2-small.webp"
     },
     {
       "filename": "Borrowdale banner Great Gable and Green Gable from Sty Head.jpg",
@@ -91,7 +97,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "borrowdale-wp",
-      "sourceGeohash4": "gcty"
+      "sourceGeohash4": "gcty",
+      "mediumPath": "_m/g/c/t/y/borrowdale-wp/borrowdale-banner-great-gable--medium.webp",
+      "smallPath": "_m/g/c/t/y/borrowdale-wp/borrowdale-banner-great-gable--small.webp"
     }
   ],
   "galleryPaths": [
@@ -100,5 +108,26 @@
     "_m/g/c/t/y/borrowdale-wp/galleny-force-2.jpg",
     "_m/g/c/t/y/borrowdale-wp/borrowdale-banner-great-gable-.jpg"
   ],
-  "updatedAt": "2026-06-22T16:50:13.853Z"
+  "updatedAt": "2026-06-22T16:50:13.853Z",
+  "narration": {
+    "files": [
+      "gcty-borrowdale-flight-context.mp3",
+      "gcty-borrowdale-intro.mp3",
+      "gcty-borrowdale-the-jaws-and-the-waters.mp3",
+      "gcty-borrowdale-pure-black-rock.mp3",
+      "gcty-borrowdale-the-quiet-population.mp3",
+      "gcty-borrowdale-walpoles-valley.mp3",
+      "gcty-borrowdale-what-the-light-does.mp3"
+    ],
+    "durations": {
+      "gcty-borrowdale-flight-context.mp3": 57.9421666,
+      "gcty-borrowdale-intro.mp3": 47.2004583,
+      "gcty-borrowdale-the-jaws-and-the-waters.mp3": 57.2025416,
+      "gcty-borrowdale-pure-black-rock.mp3": 66.6765416,
+      "gcty-borrowdale-the-quiet-population.mp3": 56.0007083,
+      "gcty-borrowdale-walpoles-valley.mp3": 57.52075,
+      "gcty-borrowdale-what-the-light-does.mp3": 52.6749166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

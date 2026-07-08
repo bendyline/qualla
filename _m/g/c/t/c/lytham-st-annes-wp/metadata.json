@@ -23,7 +23,8 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "lytham-st-annes-wp",
-      "sourceGeohash4": "gctc"
+      "sourceGeohash4": "gctc",
+      "smallPath": "_m/g/c/t/c/lytham-st-annes-wp/lytham-windmill-geograph-org-u-small.webp"
     },
     {
       "filename": "Windmill, Lytham - DSC07146.JPG",
@@ -51,7 +52,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "lytham-st-annes-wp",
-      "sourceGeohash4": "gctc"
+      "sourceGeohash4": "gctc",
+      "mediumPath": "_m/g/c/t/c/lytham-st-annes-wp/windmill-lytham-dsc07146-medium.webp",
+      "smallPath": "_m/g/c/t/c/lytham-st-annes-wp/windmill-lytham-dsc07146-small.webp"
     },
     {
       "filename": "Lytham St Annes banner St Annes pier.JPG",
@@ -81,7 +84,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "lytham-st-annes-wp",
-      "sourceGeohash4": "gctc"
+      "sourceGeohash4": "gctc",
+      "mediumPath": "_m/g/c/t/c/lytham-st-annes-wp/lytham-st-annes-banner-st-anne-medium.webp",
+      "smallPath": "_m/g/c/t/c/lytham-st-annes-wp/lytham-st-annes-banner-st-anne-small.webp"
     }
   ],
   "galleryPaths": [
@@ -89,5 +94,26 @@
     "_m/g/c/t/c/lytham-st-annes-wp/windmill-lytham-dsc07146.jpg",
     "_m/g/c/t/c/lytham-st-annes-wp/lytham-st-annes-banner-st-anne.jpg"
   ],
-  "updatedAt": "2026-06-22T15:33:35.922Z"
+  "updatedAt": "2026-06-22T15:33:35.922Z",
+  "narration": {
+    "files": [
+      "gctc-lytham-st-annes-flight-context.mp3",
+      "gctc-lytham-st-annes-intro.mp3",
+      "gctc-lytham-st-annes-slopes-by-the-sea.mp3",
+      "gctc-lytham-st-annes-a-resort-by-design.mp3",
+      "gctc-lytham-st-annes-ernie-and-the-premium-bonds.mp3",
+      "gctc-lytham-st-annes-the-lifeboatmans-watch.mp3",
+      "gctc-lytham-st-annes-ansdell-fairhaven-and-what-survives.mp3"
+    ],
+    "durations": {
+      "gctc-lytham-st-annes-flight-context.mp3": 54.4628333,
+      "gctc-lytham-st-annes-intro.mp3": 36.6445416,
+      "gctc-lytham-st-annes-slopes-by-the-sea.mp3": 54.4891666,
+      "gctc-lytham-st-annes-a-resort-by-design.mp3": 47.8740416,
+      "gctc-lytham-st-annes-ernie-and-the-premium-bonds.mp3": 56.223125,
+      "gctc-lytham-st-annes-the-lifeboatmans-watch.mp3": 61.2693333,
+      "gctc-lytham-st-annes-ansdell-fairhaven-and-what-survives.mp3": 64.5207916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

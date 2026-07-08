@@ -24,7 +24,8 @@
           "Interstate 96",
           "M-5 (Michigan highway)",
           "PD USGS"
-        ]
+        ],
+        "smallPath": "_m/d/n/h/0/spaghetti-junction-wp/hero-small.webp"
       },
       "images": [
         {
@@ -56,7 +57,8 @@
             "Road bridges in DeKalb County, Georgia",
             "Stack interchanges",
             "Things named after spaghetti"
-          ]
+          ],
+          "smallPath": "_m/d/n/h/0/spaghetti-junction-wp/spaghettijunctionga-small.webp"
         },
         {
           "path": "_m/d/n/h/0/spaghetti-junction-wp/overhead-photo-circle.jpg",
@@ -86,7 +88,9 @@
             "Taken with Fujifilm FinePix S7000",
             "UIC-Halsted (CTA)",
             "University of Illinois Chicago"
-          ]
+          ],
+          "mediumPath": "_m/d/n/h/0/spaghetti-junction-wp/overhead-photo-circle-medium.webp",
+          "smallPath": "_m/d/n/h/0/spaghetti-junction-wp/overhead-photo-circle-small.webp"
         }
       ],
       "narration": [
@@ -97,7 +101,11 @@
         "_m/d/n/h/0/spaghetti-junction-wp/dnh0-spaghetti-junction-atlantas-tangle.mp3",
         "_m/d/n/h/0/spaghetti-junction-wp/dnh0-spaghetti-junction-why-engineers-build-these.mp3",
         "_m/d/n/h/0/spaghetti-junction-wp/dnh0-spaghetti-junction-the-sub-editors-legacy.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/n/h/0/spaghetti-junction-wp/dnh0-spaghetti-junction-combined.mp3",
+      "combinedNarrationBytes": 3884420,
+      "combinedNarrationDuration": 311,
+      "combinedCover": "_m/d/n/h/0/spaghetti-junction-wp/dnh0-spaghetti-junction-combined-cover.jpg"
     }
   }
 }

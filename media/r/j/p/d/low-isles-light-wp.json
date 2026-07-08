@@ -2,28 +2,6 @@
   "id": "low-isles-light-wp",
   "patch": {
     "media": {
-      "hero": {
-        "path": "_m/r/j/p/d/low-isles-light-wp/hero.jpg",
-        "filename": "Low Isles Lighthouse.jpg",
-        "caption": "This lighthouse stands on the small island of Low Isle a few miles off of Port Douglas.",
-        "alt": "This lighthouse stands on the small island of Low Isle a few miles off of Port Douglas.",
-        "width": 1486,
-        "height": 2003,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 2.0",
-        "artist": "Steve Stringer from Billericay, UK",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Low_Isles_Lighthouse.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "low-isles-light-wp",
-        "sourceGeohash4": "rjpd",
-        "categories": [
-          "CC-BY-SA-2.0",
-          "Files with coordinates missing SDC location of creation",
-          "Flickr images reviewed by FlickreviewR",
-          "Low Isles Light",
-          "Taken with Canon EOS 40D"
-        ]
-      },
       "images": [
         {
           "path": "_m/r/j/p/d/low-isles-light-wp/low-isles-panorama.jpg",
@@ -47,7 +25,9 @@
             "License migration redundant",
             "Low Isles Light",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/r/j/p/d/low-isles-light-wp/low-isles-panorama-medium.webp",
+          "smallPath": "_m/r/j/p/d/low-isles-light-wp/low-isles-panorama-small.webp"
         },
         {
           "path": "_m/r/j/p/d/low-isles-light-wp/low-isles-lighthouse-coral-sea.jpg",
@@ -71,7 +51,9 @@
             "Low Isles Light",
             "Photographs by Christine Linsdell",
             "Queensland images uploaded by OceanAtoll"
-          ]
+          ],
+          "mediumPath": "_m/r/j/p/d/low-isles-light-wp/low-isles-lighthouse-coral-sea-medium.webp",
+          "smallPath": "_m/r/j/p/d/low-isles-light-wp/low-isles-lighthouse-coral-sea-small.webp"
         },
         {
           "path": "_m/r/j/p/d/low-isles-light-wp/coral-sea-queensland-483711-94.jpg",
@@ -97,7 +79,9 @@
             "Low Isles Light",
             "Photographs by Robert Linsdell",
             "Queensland images uploaded by OceanAtoll"
-          ]
+          ],
+          "mediumPath": "_m/r/j/p/d/low-isles-light-wp/coral-sea-queensland-483711-94-medium.webp",
+          "smallPath": "_m/r/j/p/d/low-isles-light-wp/coral-sea-queensland-483711-94-small.webp"
         },
         {
           "path": "_m/r/k/9/d/great-barrier-reef-wk/coral-turbinaria-mesen.jpg",

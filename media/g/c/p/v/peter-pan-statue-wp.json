@@ -27,7 +27,9 @@
           "London photographs taken on 2013-04-14",
           "Supported by Wikimedia UK",
           "Taken with Canon EOS 50D"
-        ]
+        ],
+        "mediumPath": "_m/g/c/p/v/peter-pan-statue-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/p/v/peter-pan-statue-wp/hero-small.webp"
       },
       "images": [
         {
@@ -53,7 +55,9 @@
             "Peter Pan statue in Kensington Gardens",
             "Self-published work",
             "Taken with Canon EOS 350D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/v/peter-pan-statue-wp/monument-peter-pan-ken-medium.webp",
+          "smallPath": "_m/g/c/p/v/peter-pan-statue-wp/monument-peter-pan-ken-small.webp"
         },
         {
           "path": "_m/g/c/p/v/peter-pan-statue-wp/general-view.jpg",
@@ -75,7 +79,9 @@
             "Peter Pan statue in Sefton Park, Liverpool",
             "Rodhullandemu images",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/v/peter-pan-statue-wp/general-view-medium.webp",
+          "smallPath": "_m/g/c/p/v/peter-pan-statue-wp/general-view-small.webp"
         },
         {
           "path": "_m/g/c/p/v/peter-pan-statue-wp/photo-statue-peter-pan.jpg",
@@ -99,7 +105,8 @@
             "License migration redundant",
             "Peter Pan statue in Queens Gardens, Perth",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/peter-pan-statue-wp/photo-statue-peter-pan-small.webp"
         },
         {
           "path": "_m/g/c/p/v/peter-pan-statue-wp/peter-pan-statue-bowri.jpg",
@@ -121,7 +128,9 @@
             "October 2017 in Newfoundland and Labrador",
             "Peter Pan statue in Bowring Park, St. John's, Newfoundland",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/v/peter-pan-statue-wp/peter-pan-statue-bowri-medium.webp",
+          "smallPath": "_m/g/c/p/v/peter-pan-statue-wp/peter-pan-statue-bowri-small.webp"
         },
         {
           "path": "_m/g/c/p/v/peter-pan-statue-wp/statue-peter-pan-stand.jpg",
@@ -139,7 +148,9 @@
           "sourceGeohash4": "gcpv",
           "categories": [
             "CC-BY-SA-4.0"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/v/peter-pan-statue-wp/statue-peter-pan-stand-medium.webp",
+          "smallPath": "_m/g/c/p/v/peter-pan-statue-wp/statue-peter-pan-stand-small.webp"
         },
         {
           "path": "_m/g/c/p/v/peter-pan-statue-wp/gallery-6.jpg",
@@ -154,7 +165,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peter_Pan,_Kensington_Gardens.jpg",
           "sourceType": "core",
           "sourceArticleId": "peter-pan-statue-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/g/c/p/v/peter-pan-statue-wp/gallery-6-medium.webp",
+          "smallPath": "_m/g/c/p/v/peter-pan-statue-wp/gallery-6-small.webp"
         },
         {
           "path": "_m/g/c/p/v/peter-pan-statue-wp/bronze-statue-peter-pa.jpg",
@@ -169,7 +182,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statue_of_Peter_Pan,_Hyde_Park,_London_(6)_(cropped).jpg",
           "sourceType": "core",
           "sourceArticleId": "peter-pan-statue-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "mediumPath": "_m/g/c/p/v/peter-pan-statue-wp/bronze-statue-peter-pa-medium.webp",
+          "smallPath": "_m/g/c/p/v/peter-pan-statue-wp/bronze-statue-peter-pa-small.webp"
         },
         {
           "path": "_m/g/c/p/v/peter-pan-statue-wp/brussel-belgien.jpg",
@@ -184,7 +199,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:BEL_Brussels,_Parc_d%27Egmont_001.jpg",
           "sourceType": "core",
           "sourceArticleId": "peter-pan-statue-wp",
-          "sourceGeohash4": "gcpv"
+          "sourceGeohash4": "gcpv",
+          "smallPath": "_m/g/c/p/v/peter-pan-statue-wp/brussel-belgien-small.webp"
         }
       ],
       "narration": [
@@ -195,7 +211,11 @@
         "_m/g/c/p/v/peter-pan-statue-wp/gcpv-peter-pan-statue-brussels-newfoundland-liverpool.mp3",
         "_m/g/c/p/v/peter-pan-statue-wp/gcpv-peter-pan-statue-perth-toronto-new-jersey.mp3",
         "_m/g/c/p/v/peter-pan-statue-wp/gcpv-peter-pan-statue-pipes-still-playing.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/p/v/peter-pan-statue-wp/gcpv-peter-pan-statue-combined.mp3",
+      "combinedNarrationBytes": 5166541,
+      "combinedNarrationDuration": 420,
+      "combinedCover": "_m/g/c/p/v/peter-pan-statue-wp/gcpv-peter-pan-statue-combined-cover.jpg"
     }
   }
 }

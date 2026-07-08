@@ -21,7 +21,8 @@
           "Flickr images uploaded by Flickr upload bot",
           "Kangaba",
           "Taken with Canon PowerShot A510"
-        ]
+        ],
+        "smallPath": "_m/e/f/4/5/kangaba-wp/hero-small.webp"
       },
       "images": [
         {
@@ -44,7 +45,9 @@
             "Flickr images reviewed by File Upload Bot (Magnus Manske)",
             "Masks of Malawi",
             "Taken with Nikon D7000"
-          ]
+          ],
+          "mediumPath": "_m/e/f/4/5/kangaba-wp/gule-wamkulu-mask-chew-medium.webp",
+          "smallPath": "_m/e/f/4/5/kangaba-wp/gule-wamkulu-mask-chew-small.webp"
         },
         {
           "path": "_m/e/f/4/5/kangaba-wp/road-to-the-niger-river-in-kan.jpg",
@@ -64,7 +67,9 @@
             "CC-BY-SA-2.0",
             "Flickr images uploaded by Flickr upload bot",
             "Kangaba"
-          ]
+          ],
+          "mediumPath": "_m/e/f/4/5/kangaba-wp/road-to-the-niger-river-in-kan-medium.webp",
+          "smallPath": "_m/e/f/4/5/kangaba-wp/road-to-the-niger-river-in-kan-small.webp"
         },
         {
           "path": "_m/e/f/4/5/kangaba-wp/landscape-of-kangaba.jpg",
@@ -85,7 +90,9 @@
             "Flickr images uploaded by Flickr upload bot",
             "Kangaba",
             "Taken with Canon Digital IXUS i5"
-          ]
+          ],
+          "mediumPath": "_m/e/f/4/5/kangaba-wp/landscape-of-kangaba-medium.webp",
+          "smallPath": "_m/e/f/4/5/kangaba-wp/landscape-of-kangaba-small.webp"
         },
         {
           "path": "_m/e/f/4/5/kangaba-wp/road-in-kangaba.jpg",
@@ -105,7 +112,9 @@
             "CC-BY-SA-2.0",
             "Flickr images uploaded by Flickr upload bot",
             "Kangaba"
-          ]
+          ],
+          "mediumPath": "_m/e/f/4/5/kangaba-wp/road-in-kangaba-medium.webp",
+          "smallPath": "_m/e/f/4/5/kangaba-wp/road-in-kangaba-small.webp"
         },
         {
           "path": "_m/e/f/4/5/kangaba-wp/kangaba-mali-2005.jpg",
@@ -125,7 +134,8 @@
             "CC-BY-SA-4.0",
             "Kangaba",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/e/f/4/5/kangaba-wp/kangaba-mali-2005-small.webp"
         },
         {
           "path": "_m/e/f/4/5/kangaba-wp/05-kangaba-bureau-poste.jpg",
@@ -145,7 +155,8 @@
             "CC-BY-SA-4.0",
             "Kangaba",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/e/f/4/5/kangaba-wp/05-kangaba-bureau-poste-small.webp"
         }
       ],
       "narration": [
@@ -155,7 +166,11 @@
         "_m/e/f/4/5/kangaba-wp/ef45-kangaba-older-than-the-empire.mp3",
         "_m/e/f/4/5/kangaba-wp/ef45-kangaba-the-field-where-the-charter-was-born.mp3",
         "_m/e/f/4/5/kangaba-wp/ef45-kangaba-legend-and-fact.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/e/f/4/5/kangaba-wp/ef45-kangaba-combined.mp3",
+      "combinedNarrationBytes": 2908735,
+      "combinedNarrationDuration": 233,
+      "combinedCover": "_m/e/f/4/5/kangaba-wp/ef45-kangaba-combined-cover.jpg"
     }
   }
 }

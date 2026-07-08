@@ -25,7 +25,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "siege-of-lincoln-wp",
-    "sourceGeohash4": "gcrw"
+    "sourceGeohash4": "gcrw",
+    "mediumPath": "_m/g/c/r/w/siege-of-lincoln-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/r/w/siege-of-lincoln-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Main front of Lincoln Cathedral, 2009.jpg",
@@ -82,7 +84,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "siege-of-lincoln-wp",
-      "sourceGeohash4": "gcrw"
+      "sourceGeohash4": "gcrw",
+      "smallPath": "_m/g/c/r/w/siege-of-lincoln-wp/entrance-lincoln-castl-small.webp"
     },
     {
       "filename": "Hon. Sir Francis Fane of Fulbeck, K.B., (c. 1611–1681?), by Cornelius Johnsen, circa 1630, black & white version.jpg",
@@ -106,11 +109,31 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "siege-of-lincoln-wp",
-      "sourceGeohash4": "gcrw"
+      "sourceGeohash4": "gcrw",
+      "smallPath": "_m/g/c/r/w/siege-of-lincoln-wp/1620-1630-portrait-hon-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/r/w/siege-of-lincoln-wp/entrance-lincoln-castl.jpg",
     "_m/g/c/r/w/siege-of-lincoln-wp/1620-1630-portrait-hon.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcrw-siege-of-lincoln-flight-context.mp3",
+      "gcrw-siege-of-lincoln-intro.mp3",
+      "gcrw-siege-of-lincoln-how-lincoln-became-a-prize.mp3",
+      "gcrw-siege-of-lincoln-up-the-hill-under-fire.mp3",
+      "gcrw-siege-of-lincoln-the-night-assault.mp3",
+      "gcrw-siege-of-lincoln-what-it-meant.mp3"
+    ],
+    "durations": {
+      "gcrw-siege-of-lincoln-flight-context.mp3": 53.987375,
+      "gcrw-siege-of-lincoln-intro.mp3": 48.1295416,
+      "gcrw-siege-of-lincoln-how-lincoln-became-a-prize.mp3": 60.1673333,
+      "gcrw-siege-of-lincoln-up-the-hill-under-fire.mp3": 62.854,
+      "gcrw-siege-of-lincoln-the-night-assault.mp3": 67.1624166,
+      "gcrw-siege-of-lincoln-what-it-meant.mp3": 69.31425
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

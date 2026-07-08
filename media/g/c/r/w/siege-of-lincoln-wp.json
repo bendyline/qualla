@@ -23,7 +23,9 @@
           "Taken with Fujifilm FinePix F200EXR",
           "Twin church towers in England",
           "West facade of Lincoln Cathedral"
-        ]
+        ],
+        "mediumPath": "_m/g/c/r/w/siege-of-lincoln-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/r/w/siege-of-lincoln-wp/hero-small.webp"
       },
       "images": [
         {
@@ -49,7 +51,8 @@
             "Lincoln Castle, Observatory Tower",
             "Rodhullandemu images",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/w/siege-of-lincoln-wp/entrance-lincoln-castl-small.webp"
         },
         {
           "path": "_m/g/c/r/w/siege-of-lincoln-wp/1620-1630-portrait-hon.jpg",
@@ -70,9 +73,22 @@
             "PD-Art (PD-US)",
             "PD-Art missing SDC copyright status",
             "PD-US missing SDC copyright status"
-          ]
+          ],
+          "smallPath": "_m/g/c/r/w/siege-of-lincoln-wp/1620-1630-portrait-hon-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/r/w/siege-of-lincoln-wp/gcrw-siege-of-lincoln-flight-context.mp3",
+        "_m/g/c/r/w/siege-of-lincoln-wp/gcrw-siege-of-lincoln-intro.mp3",
+        "_m/g/c/r/w/siege-of-lincoln-wp/gcrw-siege-of-lincoln-how-lincoln-became-a-prize.mp3",
+        "_m/g/c/r/w/siege-of-lincoln-wp/gcrw-siege-of-lincoln-up-the-hill-under-fire.mp3",
+        "_m/g/c/r/w/siege-of-lincoln-wp/gcrw-siege-of-lincoln-the-night-assault.mp3",
+        "_m/g/c/r/w/siege-of-lincoln-wp/gcrw-siege-of-lincoln-what-it-meant.mp3"
+      ],
+      "combinedNarration": "_m/g/c/r/w/siege-of-lincoln-wp/gcrw-siege-of-lincoln-combined.mp3",
+      "combinedNarrationBytes": 3811544,
+      "combinedNarrationDuration": 308,
+      "combinedCover": "_m/g/c/r/w/siege-of-lincoln-wp/gcrw-siege-of-lincoln-combined-cover.jpg"
     }
   }
 }

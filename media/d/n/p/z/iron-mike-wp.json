@@ -22,7 +22,9 @@
           "CC-BY-SA-4.0",
           "Files with coordinates missing SDC location of creation (49° N, 1° E)",
           "Plaques referencing 1944 in Manche"
-        ]
+        ],
+        "mediumPath": "_m/d/n/p/z/iron-mike-wp/hero-medium.webp",
+        "smallPath": "_m/d/n/p/z/iron-mike-wp/hero-small.webp"
       },
       "images": [
         {
@@ -54,7 +56,9 @@
             "Self-published work",
             "Statues in Virginia",
             "Taken with Canon Digital IXUS 300 HS"
-          ]
+          ],
+          "mediumPath": "_m/d/n/p/z/iron-mike-wp/crusading-right-1918-s-medium.webp",
+          "smallPath": "_m/d/n/p/z/iron-mike-wp/crusading-right-1918-s-small.webp"
         },
         {
           "path": "_m/d/n/p/z/iron-mike-wp/photo-showing-hiker-ir.jpg",
@@ -75,7 +79,8 @@
             "Files with coordinates missing SDC location of creation",
             "Iron Mike",
             "The Hiker (Kitson)"
-          ]
+          ],
+          "smallPath": "_m/d/n/p/z/iron-mike-wp/photo-showing-hiker-ir-small.webp"
         },
         {
           "path": "_m/d/n/p/z/iron-mike-wp/iron-mike-statue-comme.jpg",
@@ -123,7 +128,9 @@
             "Belleau Wood American Monument",
             "NoFoP-France",
             "PD US Marines"
-          ]
+          ],
+          "mediumPath": "_m/d/n/p/z/iron-mike-wp/marine-memorial-bellea-medium.webp",
+          "smallPath": "_m/d/n/p/z/iron-mike-wp/marine-memorial-bellea-small.webp"
         },
         {
           "path": "_m/d/n/p/z/iron-mike-wp/iron-mike-7993644116.jpg",
@@ -148,7 +155,9 @@
             "Iron Mike",
             "Photographs by Nicholas A. Tonelli",
             "United States photographs taken on 2012-09-15"
-          ]
+          ],
+          "mediumPath": "_m/d/n/p/z/iron-mike-wp/iron-mike-7993644116-medium.webp",
+          "smallPath": "_m/d/n/p/z/iron-mike-wp/iron-mike-7993644116-small.webp"
         },
         {
           "path": "_m/d/n/p/z/iron-mike-wp/crop-of-crusading-for-right-19.jpg",
@@ -176,7 +185,8 @@
             "Raphaël-Charles Peyre",
             "Self-published work",
             "Statues in Virginia"
-          ]
+          ],
+          "smallPath": "_m/d/n/p/z/iron-mike-wp/crop-of-crusading-for-right-19-small.webp"
         },
         {
           "path": "_m/d/n/p/z/iron-mike-wp/iron-mike-at-byrd-visitor-cent.jpg",
@@ -191,7 +201,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iron_Mike_at_Byrd_Visitor_Center_(52768431986).jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "iron-mike-wp",
-          "sourceGeohash4": "dnpz"
+          "sourceGeohash4": "dnpz",
+          "mediumPath": "_m/d/n/p/z/iron-mike-wp/iron-mike-at-byrd-visitor-cent-medium.webp",
+          "smallPath": "_m/d/n/p/z/iron-mike-wp/iron-mike-at-byrd-visitor-cent-small.webp"
         }
       ],
       "narration": [
@@ -201,7 +213,11 @@
         "_m/d/n/p/z/iron-mike-wp/dnpz-iron-mike-the-hiebert-trooper.mp3",
         "_m/d/n/p/z/iron-mike-wp/dnpz-iron-mike-two-mikes-two-homes.mp3",
         "_m/d/n/p/z/iron-mike-wp/dnpz-iron-mike-all-the-other-mikes.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/n/p/z/iron-mike-wp/dnpz-iron-mike-combined.mp3",
+      "combinedNarrationBytes": 4637663,
+      "combinedNarrationDuration": 381,
+      "combinedCover": "_m/d/n/p/z/iron-mike-wp/dnpz-iron-mike-combined-cover.jpg"
     }
   }
 }

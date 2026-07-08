@@ -23,7 +23,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "knowsley-hall-wp",
-    "sourceGeohash4": "gctb"
+    "sourceGeohash4": "gctb",
+    "smallPath": "_m/g/c/t/b/knowsley-hall-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Knowsleyhall.jpg",
@@ -78,7 +79,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "knowsley-hall-wp",
-      "sourceGeohash4": "gctb"
+      "sourceGeohash4": "gctb",
+      "smallPath": "_m/g/c/t/b/knowsley-hall-wp/armorial-achievement-e-small.webp"
     },
     {
       "filename": "Edward-Stanley-14th-Earl-of-Derby.jpg",
@@ -109,7 +111,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "knowsley-hall-wp",
-      "sourceGeohash4": "gctb"
+      "sourceGeohash4": "gctb",
+      "smallPath": "_m/g/c/t/b/knowsley-hall-wp/depicted-person-edward-small.webp"
     },
     {
       "filename": "Knowsley Hall Estate farm - geograph.org.uk - 83106.jpg",
@@ -136,7 +139,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "knowsley-hall-wp",
-      "sourceGeohash4": "gctb"
+      "sourceGeohash4": "gctb",
+      "smallPath": "_m/g/c/t/b/knowsley-hall-wp/knowsley-hall-estate-farm-geog-small.webp"
     },
     {
       "filename": "Lodge, Knowsley Hall - geograph.org.uk - 125395.jpg",
@@ -164,7 +168,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "knowsley-hall-wp",
-      "sourceGeohash4": "gctb"
+      "sourceGeohash4": "gctb",
+      "smallPath": "_m/g/c/t/b/knowsley-hall-wp/lodge-knowsley-hall-geograph-o-small.webp"
     },
     {
       "filename": "Prescot Lodge, Knowsley Hall (Safari Park entrance) - geograph.org.uk - 125401.jpg",
@@ -192,7 +197,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "knowsley-hall-wp",
-      "sourceGeohash4": "gctb"
+      "sourceGeohash4": "gctb",
+      "smallPath": "_m/g/c/t/b/knowsley-hall-wp/prescot-lodge-knowsley-hall-sa-small.webp"
     },
     {
       "filename": "The Lord's Way - geograph.org.uk - 137691.jpg",
@@ -218,7 +224,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "knowsley-hall-wp",
-      "sourceGeohash4": "gctb"
+      "sourceGeohash4": "gctb",
+      "smallPath": "_m/g/c/t/b/knowsley-hall-wp/the-lord-s-way-geograph-org-uk-small.webp"
     },
     {
       "filename": "Knowsley Hall Main Gate - geograph.org.uk - 280162.jpg",
@@ -244,7 +251,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "knowsley-hall-wp",
-      "sourceGeohash4": "gctb"
+      "sourceGeohash4": "gctb",
+      "smallPath": "_m/g/c/t/b/knowsley-hall-wp/knowsley-hall-main-gate-geogra-small.webp"
     },
     {
       "filename": "Knowsley Hall from the South - geograph.org.uk - 450930.jpg",
@@ -268,7 +276,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "knowsley-hall-wp",
-      "sourceGeohash4": "gctb"
+      "sourceGeohash4": "gctb",
+      "smallPath": "_m/g/c/t/b/knowsley-hall-wp/knowsley-hall-from-the-south-g-small.webp"
     },
     {
       "filename": "Across the meadow - geograph.org.uk - 881653.jpg",
@@ -285,7 +294,8 @@
       "dateCreated": "2008-07-13",
       "sourceType": "commons-category",
       "sourceArticleId": "knowsley-hall-wp",
-      "sourceGeohash4": "gctb"
+      "sourceGeohash4": "gctb",
+      "smallPath": "_m/g/c/t/b/knowsley-hall-wp/across-the-meadow-geograph-org-small.webp"
     }
   ],
   "galleryPaths": [
@@ -299,5 +309,26 @@
     "_m/g/c/t/b/knowsley-hall-wp/knowsley-hall-from-the-south-g.jpg",
     "_m/g/c/t/b/knowsley-hall-wp/across-the-meadow-geograph-org.jpg"
   ],
-  "updatedAt": "2026-06-22T15:10:45.960Z"
+  "updatedAt": "2026-06-22T15:10:45.960Z",
+  "narration": {
+    "files": [
+      "gctb-knowsley-hall-flight-context.mp3",
+      "gctb-knowsley-hall-intro.mp3",
+      "gctb-knowsley-hall-from-hunting-lodge-to-great-house.mp3",
+      "gctb-knowsley-hall-the-stanleys-across-five-centuries.mp3",
+      "gctb-knowsley-hall-capability-browns-lake.mp3",
+      "gctb-knowsley-hall-the-safari-and-the-hall-today.mp3",
+      "gctb-knowsley-hall-flight-context-2.mp3"
+    ],
+    "durations": {
+      "gctb-knowsley-hall-flight-context.mp3": 39.901875,
+      "gctb-knowsley-hall-intro.mp3": 47.3684583,
+      "gctb-knowsley-hall-from-hunting-lodge-to-great-house.mp3": 56.055375,
+      "gctb-knowsley-hall-the-stanleys-across-five-centuries.mp3": 59.7189583,
+      "gctb-knowsley-hall-capability-browns-lake.mp3": 58.235625,
+      "gctb-knowsley-hall-the-safari-and-the-hall-today.mp3": 56.091125,
+      "gctb-knowsley-hall-flight-context-2.mp3": 42.3403333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

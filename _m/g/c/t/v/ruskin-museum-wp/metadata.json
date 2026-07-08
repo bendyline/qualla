@@ -85,7 +85,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "ruskin-museum-wp",
-      "sourceGeohash4": "gctv"
+      "sourceGeohash4": "gctv",
+      "mediumPath": "_m/g/c/t/v/ruskin-museum-wp/het-ruskin-museum-te-c-medium.webp",
+      "smallPath": "_m/g/c/t/v/ruskin-museum-wp/het-ruskin-museum-te-c-small.webp"
     },
     {
       "filename": "Museum on main street - geograph.org.uk - 564938.jpg",
@@ -111,7 +113,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "ruskin-museum-wp",
-      "sourceGeohash4": "gctv"
+      "sourceGeohash4": "gctv",
+      "smallPath": "_m/g/c/t/v/ruskin-museum-wp/museum-on-main-street-geograph-small.webp"
     },
     {
       "filename": "Ruskin Museum Donald Campbell Bluebird K7 18-06-2015 14-20-27.jpg",
@@ -137,7 +140,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "ruskin-museum-wp",
-      "sourceGeohash4": "gctv"
+      "sourceGeohash4": "gctv",
+      "mediumPath": "_m/g/c/t/v/ruskin-museum-wp/ruskin-museum-donald-campbell--medium.webp",
+      "smallPath": "_m/g/c/t/v/ruskin-museum-wp/ruskin-museum-donald-campbell--small.webp"
     },
     {
       "filename": "Ruskin Museum 18-06-2015 14-28-21.JPG",
@@ -162,7 +167,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "ruskin-museum-wp",
-      "sourceGeohash4": "gctv"
+      "sourceGeohash4": "gctv",
+      "mediumPath": "_m/g/c/t/v/ruskin-museum-wp/ruskin-museum-18-06-2015-14-28-medium.webp",
+      "smallPath": "_m/g/c/t/v/ruskin-museum-wp/ruskin-museum-18-06-2015-14-28-small.webp"
     },
     {
       "filename": "The Ruskin Museum, Coniston - geograph.org.uk - 5934479.jpg",
@@ -184,7 +191,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "ruskin-museum-wp",
-      "sourceGeohash4": "gctv"
+      "sourceGeohash4": "gctv",
+      "smallPath": "_m/g/c/t/v/ruskin-museum-wp/the-ruskin-museum-coniston-geo-small.webp"
     },
     {
       "filename": "The Ruskin Museum, Coniston - geograph.org.uk - 6032461.jpg",
@@ -206,7 +214,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "ruskin-museum-wp",
-      "sourceGeohash4": "gctv"
+      "sourceGeohash4": "gctv",
+      "mediumPath": "_m/g/c/t/v/ruskin-museum-wp/the-ruskin-museum-coniston-geo-1-medium.webp",
+      "smallPath": "_m/g/c/t/v/ruskin-museum-wp/the-ruskin-museum-coniston-geo-1-small.webp"
     },
     {
       "filename": "Mr Whoppit Ruskin Museum.jpg",
@@ -230,7 +240,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "ruskin-museum-wp",
-      "sourceGeohash4": "gctv"
+      "sourceGeohash4": "gctv",
+      "mediumPath": "_m/g/c/t/v/ruskin-museum-wp/mr-whoppit-ruskin-museum-medium.webp",
+      "smallPath": "_m/g/c/t/v/ruskin-museum-wp/mr-whoppit-ruskin-museum-small.webp"
     }
   ],
   "galleryPaths": [
@@ -242,5 +254,24 @@
     "_m/g/c/t/v/ruskin-museum-wp/the-ruskin-museum-coniston-geo-1.jpg",
     "_m/g/c/t/v/ruskin-museum-wp/mr-whoppit-ruskin-museum.jpg"
   ],
-  "updatedAt": "2026-06-22T17:44:36.534Z"
+  "updatedAt": "2026-06-22T17:44:36.534Z",
+  "narration": {
+    "files": [
+      "gctv-ruskin-museum-flight-context.mp3",
+      "gctv-ruskin-museum-intro.mp3",
+      "gctv-ruskin-museum-a-memorial-built-by-a-friend.mp3",
+      "gctv-ruskin-museum-riverdales-miniature-village.mp3",
+      "gctv-ruskin-museum-the-long-wait-for-bluebird.mp3",
+      "gctv-ruskin-museum-court-custody-return.mp3"
+    ],
+    "durations": {
+      "gctv-ruskin-museum-flight-context.mp3": 52.2021666,
+      "gctv-ruskin-museum-intro.mp3": 47.906125,
+      "gctv-ruskin-museum-a-memorial-built-by-a-friend.mp3": 53.8549583,
+      "gctv-ruskin-museum-riverdales-miniature-village.mp3": 47.1000833,
+      "gctv-ruskin-museum-the-long-wait-for-bluebird.mp3": 55.446375,
+      "gctv-ruskin-museum-court-custody-return.mp3": 90.0561666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

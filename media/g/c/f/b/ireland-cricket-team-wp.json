@@ -30,7 +30,8 @@
           "License migration completed",
           "Self-published work",
           "Taken with Kodak EasyShare Z710"
-        ]
+        ],
+        "smallPath": "_m/g/c/f/b/ireland-cricket-team-wp/hero-small.webp"
       },
       "images": [
         {
@@ -55,7 +56,9 @@
             "Malahide Cricket Ground",
             "Taken with Canon EOS 60D",
             "William Porterfield"
-          ]
+          ],
+          "mediumPath": "_m/g/c/f/b/ireland-cricket-team-wp/william-porterfield-ba-medium.webp",
+          "smallPath": "_m/g/c/f/b/ireland-cricket-team-wp/william-porterfield-ba-small.webp"
         },
         {
           "path": "_m/g/c/f/b/ireland-cricket-team-wp/all-ireland-united-cri.jpg",
@@ -81,7 +84,8 @@
             "Men cricketers from unidentified countries",
             "PD-Australia",
             "Template Unknown (author)"
-          ]
+          ],
+          "smallPath": "_m/g/c/f/b/ireland-cricket-team-wp/all-ireland-united-cri-small.webp"
         }
       ],
       "narration": [
@@ -91,7 +95,11 @@
         "_m/g/c/f/b/ireland-cricket-team-wp/gcfb-ireland-cricket-team-the-day-at-sabina-park.mp3",
         "_m/g/c/f/b/ireland-cricket-team-wp/gcfb-ireland-cricket-team-kevin-obriens-fifty-balls.mp3",
         "_m/g/c/f/b/ireland-cricket-team-wp/gcfb-ireland-cricket-team-test-status.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/f/b/ireland-cricket-team-wp/gcfb-ireland-cricket-team-combined.mp3",
+      "combinedNarrationBytes": 4000026,
+      "combinedNarrationDuration": 325,
+      "combinedCover": "_m/g/c/f/b/ireland-cricket-team-wp/gcfb-ireland-cricket-team-combined-cover.jpg"
     }
   }
 }

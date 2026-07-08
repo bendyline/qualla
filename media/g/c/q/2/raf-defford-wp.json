@@ -20,7 +20,8 @@
           "Frazer-Nash gun turrets",
           "UK Government artistic works",
           "Village Inn (codename)"
-        ]
+        ],
+        "smallPath": "_m/g/c/q/2/raf-defford-wp/hero-small.webp"
       },
       "images": [
         {
@@ -46,7 +47,8 @@
             "Information field template with formatting",
             "RAF Defford",
             "Telecommunications Research Establishment"
-          ]
+          ],
+          "smallPath": "_m/g/c/q/2/raf-defford-wp/defford-airfield-from-2500-fee-small.webp"
         }
       ],
       "narration": [
@@ -57,7 +59,11 @@
         "_m/g/c/q/2/raf-defford-wp/gcq2-raf-defford-the-halifax-that-did-not-come-back.mp3",
         "_m/g/c/q/2/raf-defford-wp/gcq2-raf-defford-the-first-autoland.mp3",
         "_m/g/c/q/2/raf-defford-wp/gcq2-raf-defford-looking-at-satellites-now.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/q/2/raf-defford-wp/gcq2-raf-defford-combined.mp3",
+      "combinedNarrationBytes": 4616028,
+      "combinedNarrationDuration": 379,
+      "combinedCover": "_m/g/c/q/2/raf-defford-wp/gcq2-raf-defford-combined-cover.jpg"
     }
   }
 }

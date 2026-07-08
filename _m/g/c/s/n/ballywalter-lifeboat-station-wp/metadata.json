@@ -57,5 +57,24 @@
     "sourceGeohash4": "gcsn"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcsn-ballywalter-lifeboat-station-flight-context.mp3",
+      "gcsn-ballywalter-lifeboat-station-intro.mp3",
+      "gcsn-ballywalter-lifeboat-station-the-sheffield-and-the-coastguard-boat.mp3",
+      "gcsn-ballywalter-lifeboat-station-opening-day-1866.mp3",
+      "gcsn-ballywalter-lifeboat-station-the-euphemia-fullerton.mp3",
+      "gcsn-ballywalter-lifeboat-station-replacement-quiet-closure.mp3"
+    ],
+    "durations": {
+      "gcsn-ballywalter-lifeboat-station-flight-context.mp3": 47.3055,
+      "gcsn-ballywalter-lifeboat-station-intro.mp3": 55.4659166,
+      "gcsn-ballywalter-lifeboat-station-the-sheffield-and-the-coastguard-boat.mp3": 56.1397083,
+      "gcsn-ballywalter-lifeboat-station-opening-day-1866.mp3": 64.9714583,
+      "gcsn-ballywalter-lifeboat-station-the-euphemia-fullerton.mp3": 64.6817916,
+      "gcsn-ballywalter-lifeboat-station-replacement-quiet-closure.mp3": 69.51325
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

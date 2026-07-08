@@ -23,7 +23,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "hms-gannet-1971-shore-establishment-wp",
-    "sourceGeohash4": "gcue"
+    "sourceGeohash4": "gcue",
+    "smallPath": "_m/g/c/u/e/hms-gannet-1971-shore-establishment-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "ZH841-501 EH101 Merlin Royal Navy (21161819629).jpg",
@@ -133,12 +134,32 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "hms-gannet-1971-shore-establishment-wp",
-      "sourceGeohash4": "gcue"
+      "sourceGeohash4": "gcue",
+      "smallPath": "_m/g/c/u/e/hms-gannet-1971-shore-establishment-wp/royal-navy-seaking-za1-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/u/3/ballantrae-lifeboat-station-wp/relief-map-south-ayrsh.jpg",
     "_m/g/c/p/v/london-wp/united-kingdom-relief-location.jpg",
     "_m/g/c/u/e/hms-gannet-1971-shore-establishment-wp/royal-navy-seaking-za1.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcue-hms-gannet-flight-context.mp3",
+      "gcue-hms-gannet-intro.mp3",
+      "gcue-hms-gannet-ninth-of-the-name.mp3",
+      "gcue-hms-gannet-ninety-eight-thousand-square-miles.mp3",
+      "gcue-hms-gannet-the-wilkinson-sword.mp3",
+      "gcue-hms-gannet-final-year-final-record.mp3"
+    ],
+    "durations": {
+      "gcue-hms-gannet-flight-context.mp3": 40.8449583,
+      "gcue-hms-gannet-intro.mp3": 48.638625,
+      "gcue-hms-gannet-ninth-of-the-name.mp3": 58.8822916,
+      "gcue-hms-gannet-ninety-eight-thousand-square-miles.mp3": 62.1549166,
+      "gcue-hms-gannet-the-wilkinson-sword.mp3": 60.6492916,
+      "gcue-hms-gannet-final-year-final-record.mp3": 59.141
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

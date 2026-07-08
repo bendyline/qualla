@@ -23,7 +23,8 @@
           "Proposed entity map images that should use vector graphics",
           "Self-published work",
           "Westsylvania"
-        ]
+        ],
+        "smallPath": "_m/d/n/y/e/westsylvania-wp/hero-small.webp"
       },
       "narration": [
         "_m/d/n/y/e/westsylvania-wp/dnye-westsylvania-flight-context.mp3",
@@ -33,7 +34,11 @@
         "_m/d/n/y/e/westsylvania-wp/dnye-westsylvania-the-ghosts-of-vandalia.mp3",
         "_m/d/n/y/e/westsylvania-wp/dnye-westsylvania-the-treason-statute.mp3",
         "_m/d/n/y/e/westsylvania-wp/dnye-westsylvania-what-westsylvania-almost-was.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/n/y/e/westsylvania-wp/dnye-westsylvania-combined.mp3",
+      "combinedNarrationBytes": 4013777,
+      "combinedNarrationDuration": 323,
+      "combinedCover": "_m/d/n/y/e/westsylvania-wp/dnye-westsylvania-combined-cover.jpg"
     }
   }
 }

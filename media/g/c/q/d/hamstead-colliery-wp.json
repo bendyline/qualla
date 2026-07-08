@@ -22,7 +22,9 @@
           "Images by Andy Mabbett",
           "Self-published work",
           "Taken with Nikon D40"
-        ]
+        ],
+        "mediumPath": "_m/g/c/q/d/hamstead-colliery-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/q/d/hamstead-colliery-wp/hero-small.webp"
       },
       "images": [
         {
@@ -47,7 +49,8 @@
             "Public domain Ordnance Survey images",
             "Tame Valley Canal",
             "UK Government artistic works"
-          ]
+          ],
+          "smallPath": "_m/g/c/q/d/hamstead-colliery-wp/old-os-map-hamstead-co-small.webp"
         },
         {
           "path": "_m/g/c/q/d/hamstead-colliery-wp/brick-made-ncb-s-hamst.jpg",
@@ -78,7 +81,9 @@
             "Quality images of the West Midlands (county)",
             "Self-published work",
             "Taken with Nikon D3000"
-          ]
+          ],
+          "mediumPath": "_m/g/c/q/d/hamstead-colliery-wp/brick-made-ncb-s-hamst-medium.webp",
+          "smallPath": "_m/g/c/q/d/hamstead-colliery-wp/brick-made-ncb-s-hamst-small.webp"
         },
         {
           "path": "_m/g/c/q/d/hamstead-colliery-wp/handkerchief-napkin-co.jpg",
@@ -106,7 +111,9 @@
             "Self-published work",
             "Taken with OnePlus Nord",
             "United Kingdom photographs taken on 2023-07-04"
-          ]
+          ],
+          "mediumPath": "_m/g/c/q/d/hamstead-colliery-wp/handkerchief-napkin-co-medium.webp",
+          "smallPath": "_m/g/c/q/d/hamstead-colliery-wp/handkerchief-napkin-co-small.webp"
         }
       ],
       "narration": [
@@ -116,7 +123,11 @@
         "_m/g/c/q/d/hamstead-colliery-wp/gcqd-hamstead-colliery-fires-collapses-and-the-disaster-of-1908.mp3",
         "_m/g/c/q/d/hamstead-colliery-wp/gcqd-hamstead-colliery-modernisation-and-closure.mp3",
         "_m/g/c/q/d/hamstead-colliery-wp/gcqd-hamstead-colliery-the-memorial-at-the-junction.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/q/d/hamstead-colliery-wp/gcqd-hamstead-colliery-combined.mp3",
+      "combinedNarrationBytes": 4027596,
+      "combinedNarrationDuration": 326,
+      "combinedCover": "_m/g/c/q/d/hamstead-colliery-wp/gcqd-hamstead-colliery-combined-cover.jpg"
     }
   }
 }

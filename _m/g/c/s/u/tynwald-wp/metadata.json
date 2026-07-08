@@ -27,7 +27,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "tynwald-wp",
-    "sourceGeohash4": "gcsu"
+    "sourceGeohash4": "gcsu",
+    "mediumPath": "_m/g/c/s/u/tynwald-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/s/u/tynwald-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Douglas - legislative building - Tynwald - SE view.jpg",
@@ -82,7 +84,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "tynwald-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "smallPath": "_m/g/c/s/u/tynwald-wp/tynwaldday-small.webp"
     },
     {
       "filename": "Franz Höpfner (1840-1893) - Landscape - PCF79 - Tynwald.jpg",
@@ -107,7 +110,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "tynwald-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "smallPath": "_m/g/c/s/u/tynwald-wp/franz-hopfner-1840-1893-landsc-small.webp"
     },
     {
       "filename": "Robert Edward Morrison (1851-1924) - Dalrymple Maitland (1848–1919), Speaker of the House of Keys (1909–1919) - PCF3 - Tynwald.jpg",
@@ -133,7 +137,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "tynwald-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "smallPath": "_m/g/c/s/u/tynwald-wp/robert-edward-morrison-1851-19-small.webp"
     },
     {
       "filename": "Franz Höpfner (1840-1893) - Landscape - PCF80 - Tynwald.jpg",
@@ -148,7 +153,8 @@
       "dateCreated": "2025-04-30 10:06:38",
       "sourceType": "commons-category",
       "sourceArticleId": "tynwald-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "smallPath": "_m/g/c/s/u/tynwald-wp/franz-hopfner-1840-1893-landsc-1-small.webp"
     },
     {
       "filename": "Franz Höpfner (1840-1893) - Baldwin Mill - PCF82 - Tynwald.jpg",
@@ -163,7 +169,8 @@
       "dateCreated": "2025-05-03 11:28:06",
       "sourceType": "commons-category",
       "sourceArticleId": "tynwald-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "smallPath": "_m/g/c/s/u/tynwald-wp/franz-hopfner-1840-1893-baldwi-small.webp"
     },
     {
       "filename": "Franz Höpfner (1840-1893) - Baldwin Mill - PCF81 - Tynwald.jpg",
@@ -178,7 +185,8 @@
       "dateCreated": "2025-05-04 18:13:21",
       "sourceType": "commons-category",
       "sourceArticleId": "tynwald-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "smallPath": "_m/g/c/s/u/tynwald-wp/franz-hopfner-1840-1893-baldwi-1-small.webp"
     },
     {
       "filename": "Robert Edward Morrison (1851-1924) - Arthur William Moore (1853–1909), Speaker of the House of Keys (1898–1909) - PCF5 - Tynwald.jpg",
@@ -193,7 +201,8 @@
       "dateCreated": "2025-05-05 04:38:25",
       "sourceType": "commons-category",
       "sourceArticleId": "tynwald-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "smallPath": "_m/g/c/s/u/tynwald-wp/robert-edward-morrison-1851-19-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -205,5 +214,24 @@
     "_m/g/c/s/u/tynwald-wp/franz-hopfner-1840-1893-baldwi-1.jpg",
     "_m/g/c/s/u/tynwald-wp/robert-edward-morrison-1851-19-1.jpg"
   ],
-  "updatedAt": "2026-06-22T14:08:48.600Z"
+  "updatedAt": "2026-06-22T14:08:48.600Z",
+  "narration": {
+    "files": [
+      "gcsu-tynwald-flight-context.mp3",
+      "gcsu-tynwald-intro.mp3",
+      "gcsu-tynwald-two-chambers-one-court.mp3",
+      "gcsu-tynwald-how-old-exactly.mp3",
+      "gcsu-tynwald-medieval-origins-modern-form.mp3",
+      "gcsu-tynwald-crown-reform-and-suffrage.mp3"
+    ],
+    "durations": {
+      "gcsu-tynwald-flight-context.mp3": 45.4814583,
+      "gcsu-tynwald-intro.mp3": 34.738875,
+      "gcsu-tynwald-two-chambers-one-court.mp3": 59.381625,
+      "gcsu-tynwald-how-old-exactly.mp3": 70.174375,
+      "gcsu-tynwald-medieval-origins-modern-form.mp3": 57.5638333,
+      "gcsu-tynwald-crown-reform-and-suffrage.mp3": 68.1084166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -20,7 +20,9 @@
           "CC-BY-SA-2.0",
           "Images from Geograph Britain and Ireland",
           "Kirkmaiden"
-        ]
+        ],
+        "mediumPath": "_m/g/c/s/r/port-logan-lifeboat-station-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/s/r/port-logan-lifeboat-station-wp/hero-small.webp"
       },
       "images": [
         {
@@ -43,7 +45,9 @@
             "Maps of Dumfries and Galloway",
             "Ordnance Survey Boundary Line maps",
             "Topographic maps of Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/c/s/r/port-logan-lifeboat-station-wp/relief-map-dumfries-ga-medium.webp",
+          "smallPath": "_m/g/c/s/r/port-logan-lifeboat-station-wp/relief-map-dumfries-ga-small.webp"
         },
         {
           "path": "_m/g/c/u/2/stranraer-wp/stranraer-castle.jpg",
@@ -116,7 +120,19 @@
             "WLM-UK 2018 unfiltered 09-30"
           ]
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/s/r/port-logan-lifeboat-station-wp/gcsr-port-logan-lifeboat-station-flight-context.mp3",
+        "_m/g/c/s/r/port-logan-lifeboat-station-wp/gcsr-port-logan-lifeboat-station-intro.mp3",
+        "_m/g/c/s/r/port-logan-lifeboat-station-wp/gcsr-port-logan-lifeboat-station-a-boat-brought-south-by-four-railways.mp3",
+        "_m/g/c/s/r/port-logan-lifeboat-station-wp/gcsr-port-logan-lifeboat-station-barques-brigantines-and-hurricanes.mp3",
+        "_m/g/c/s/r/port-logan-lifeboat-station-wp/gcsr-port-logan-lifeboat-station-the-boats-by-name.mp3",
+        "_m/g/c/s/r/port-logan-lifeboat-station-wp/gcsr-port-logan-lifeboat-station-a-coast-that-asked-this-much.mp3"
+      ],
+      "combinedNarration": "_m/g/c/s/r/port-logan-lifeboat-station-wp/gcsr-port-logan-lifeboat-station-combined.mp3",
+      "combinedNarrationBytes": 4133654,
+      "combinedNarrationDuration": 337,
+      "combinedCover": "_m/g/c/s/r/port-logan-lifeboat-station-wp/gcsr-port-logan-lifeboat-station-combined-cover.jpg"
     }
   }
 }

@@ -22,7 +22,8 @@
           "Images by JThomas",
           "Images from Geograph Britain and Ireland",
           "Information field template with formatting"
-        ]
+        ],
+        "smallPath": "_m/g/c/v/q/battle-of-falkirk-muir-wp/hero-small.webp"
       },
       "images": [
         {
@@ -50,7 +51,9 @@
             "PD-old-100-expired",
             "PD-old missing SDC copyright status",
             "Robert Strange"
-          ]
+          ],
+          "mediumPath": "_m/g/c/v/q/battle-of-falkirk-muir-wp/lord-george-murray-medium.webp",
+          "smallPath": "_m/g/c/v/q/battle-of-falkirk-muir-wp/lord-george-murray-small.webp"
         },
         {
           "path": "_m/g/c/v/q/battle-of-falkirk-muir-wp/o-hanlon-anne-gabriel-meusnier.jpg",
@@ -77,9 +80,24 @@
             "PD-old-100-expired",
             "Prints from O'Hanlon Collection historique, ou mémoires at the Peace Palace Library",
             "Template Unknown (author)"
-          ]
+          ],
+          "mediumPath": "_m/g/c/v/q/battle-of-falkirk-muir-wp/o-hanlon-anne-gabriel-meusnier-medium.webp",
+          "smallPath": "_m/g/c/v/q/battle-of-falkirk-muir-wp/o-hanlon-anne-gabriel-meusnier-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/v/q/battle-of-falkirk-muir-wp/gcvq-battle-of-falkirk-muir-flight-context.mp3",
+        "_m/g/c/v/q/battle-of-falkirk-muir-wp/gcvq-battle-of-falkirk-muir-intro.mp3",
+        "_m/g/c/v/q/battle-of-falkirk-muir-wp/gcvq-battle-of-falkirk-muir-two-generals-two-misjudgements.mp3",
+        "_m/g/c/v/q/battle-of-falkirk-muir-wp/gcvq-battle-of-falkirk-muir-up-the-slope-in-a-storm.mp3",
+        "_m/g/c/v/q/battle-of-falkirk-muir-wp/gcvq-battle-of-falkirk-muir-the-shock-and-the-sacking.mp3",
+        "_m/g/c/v/q/battle-of-falkirk-muir-wp/gcvq-battle-of-falkirk-muir-both-sides-think-they-lost.mp3",
+        "_m/g/c/v/q/battle-of-falkirk-muir-wp/gcvq-battle-of-falkirk-muir-hollow-victory.mp3"
+      ],
+      "combinedNarration": "_m/g/c/v/q/battle-of-falkirk-muir-wp/gcvq-battle-of-falkirk-muir-combined.mp3",
+      "combinedNarrationBytes": 4914544,
+      "combinedNarrationDuration": 399,
+      "combinedCover": "_m/g/c/v/q/battle-of-falkirk-muir-wp/gcvq-battle-of-falkirk-muir-combined-cover.jpg"
     }
   }
 }

@@ -23,7 +23,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "ardgowan-castle-wp",
-    "sourceGeohash4": "gcuw"
+    "sourceGeohash4": "gcuw",
+    "mediumPath": "_m/g/c/u/w/ardgowan-castle-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/u/w/ardgowan-castle-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Ardgowan Castle atop south-east facing cliff.jpg",
@@ -75,7 +77,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "ardgowan-castle-wp",
-      "sourceGeohash4": "gcuw"
+      "sourceGeohash4": "gcuw",
+      "mediumPath": "_m/g/c/u/w/ardgowan-castle-wp/ardgowan-castle-15th-c-medium.webp",
+      "smallPath": "_m/g/c/u/w/ardgowan-castle-wp/ardgowan-castle-15th-c-small.webp"
     },
     {
       "filename": "Ardgowan Castle 19 May 2010.jpg",
@@ -100,7 +104,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "ardgowan-castle-wp",
-      "sourceGeohash4": "gcuw"
+      "sourceGeohash4": "gcuw",
+      "mediumPath": "_m/g/c/u/w/ardgowan-castle-wp/ardgowan-castle-15th-c-1-medium.webp",
+      "smallPath": "_m/g/c/u/w/ardgowan-castle-wp/ardgowan-castle-15th-c-1-small.webp"
     },
     {
       "filename": "Inverkip castle - geograph.org.uk - 324489.jpg",
@@ -127,7 +133,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "ardgowan-castle-wp",
-      "sourceGeohash4": "gcuw"
+      "sourceGeohash4": "gcuw",
+      "smallPath": "_m/g/c/u/w/ardgowan-castle-wp/inverkip-castle-geograph-org-u-small.webp"
     },
     {
       "filename": "Inverkip castle - geograph.org.uk - 324495.jpg",
@@ -154,7 +161,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "ardgowan-castle-wp",
-      "sourceGeohash4": "gcuw"
+      "sourceGeohash4": "gcuw",
+      "smallPath": "_m/g/c/u/w/ardgowan-castle-wp/inverkip-castle-geograph-org-u-1-small.webp"
     },
     {
       "filename": "Lunderston Bay sunset - geograph.org.uk - 8160807.jpg",
@@ -176,7 +184,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "ardgowan-castle-wp",
-      "sourceGeohash4": "gcuw"
+      "sourceGeohash4": "gcuw",
+      "smallPath": "_m/g/c/u/w/ardgowan-castle-wp/lunderston-bay-sunset-geograph-small.webp"
     },
     {
       "filename": "Arran sunset from Lunderston Bay - geograph.org.uk - 8198886.jpg",
@@ -193,7 +202,8 @@
       "dateCreated": "2025-09-21",
       "sourceType": "commons-category",
       "sourceArticleId": "ardgowan-castle-wp",
-      "sourceGeohash4": "gcuw"
+      "sourceGeohash4": "gcuw",
+      "smallPath": "_m/g/c/u/w/ardgowan-castle-wp/arran-sunset-from-lunderston-b-small.webp"
     }
   ],
   "galleryPaths": [
@@ -204,5 +214,26 @@
     "_m/g/c/u/w/ardgowan-castle-wp/lunderston-bay-sunset-geograph.jpg",
     "_m/g/c/u/w/ardgowan-castle-wp/arran-sunset-from-lunderston-b.jpg"
   ],
-  "updatedAt": "2026-06-22T22:46:08.816Z"
+  "updatedAt": "2026-06-22T22:46:08.816Z",
+  "narration": {
+    "files": [
+      "gcuw-ardgowan-castle-flight-context.mp3",
+      "gcuw-ardgowan-castle-intro.mp3",
+      "gcuw-ardgowan-castle-a-promontory-and-a-watchtower.mp3",
+      "gcuw-ardgowan-castle-inverkip-in-the-wars-of-scottish-independence.mp3",
+      "gcuw-ardgowan-castle-escape-by-sea.mp3",
+      "gcuw-ardgowan-castle-from-stewarts-to-shaw-stewarts.mp3",
+      "gcuw-ardgowan-castle-a-ruin-in-a-garden.mp3"
+    ],
+    "durations": {
+      "gcuw-ardgowan-castle-flight-context.mp3": 44.9009166,
+      "gcuw-ardgowan-castle-intro.mp3": 44.75475,
+      "gcuw-ardgowan-castle-a-promontory-and-a-watchtower.mp3": 47.2355416,
+      "gcuw-ardgowan-castle-inverkip-in-the-wars-of-scottish-independence.mp3": 63.6327083,
+      "gcuw-ardgowan-castle-escape-by-sea.mp3": 49.1895833,
+      "gcuw-ardgowan-castle-from-stewarts-to-shaw-stewarts.mp3": 56.6644166,
+      "gcuw-ardgowan-castle-a-ruin-in-a-garden.mp3": 43.9030833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

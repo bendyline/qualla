@@ -22,7 +22,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "kirkcudbright-lifeboat-station-wp",
-    "sourceGeohash4": "gctp"
+    "sourceGeohash4": "gctp",
+    "mediumPath": "_m/g/c/t/p/kirkcudbright-lifeboat-station-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/t/p/kirkcudbright-lifeboat-station-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "The Old Lifeboat House, Kirkcudbright - geograph.org.uk - 2008619.jpg",
@@ -101,7 +103,8 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "kirkcudbright-lifeboat-station-wp",
-      "sourceGeohash4": "gctp"
+      "sourceGeohash4": "gctp",
+      "smallPath": "_m/g/c/t/p/kirkcudbright-lifeboat-station-wp/priscilla-macbean-small.webp"
     },
     {
       "filename": "Kirkcudbright Lifeboat Station - geograph.org.uk - 324161.jpg",
@@ -126,7 +129,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "kirkcudbright-lifeboat-station-wp",
-      "sourceGeohash4": "gctp"
+      "sourceGeohash4": "gctp",
+      "smallPath": "_m/g/c/t/p/kirkcudbright-lifeboat-station-wp/kirkcudbright-lifeboat-station-small.webp"
     },
     {
       "filename": "Kirkcudbright Lifeboat Station - geograph.org.uk - 600127.jpg",
@@ -151,7 +155,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "kirkcudbright-lifeboat-station-wp",
-      "sourceGeohash4": "gctp"
+      "sourceGeohash4": "gctp",
+      "smallPath": "_m/g/c/t/p/kirkcudbright-lifeboat-station-wp/kirkcudbright-lifeboat-station-1-small.webp"
     }
   ],
   "galleryPaths": [
@@ -160,5 +165,26 @@
     "_m/g/c/t/p/kirkcudbright-lifeboat-station-wp/kirkcudbright-lifeboat-station.jpg",
     "_m/g/c/t/p/kirkcudbright-lifeboat-station-wp/kirkcudbright-lifeboat-station-1.jpg"
   ],
-  "updatedAt": "2026-06-22T16:23:47.937Z"
+  "updatedAt": "2026-06-22T16:23:47.937Z",
+  "narration": {
+    "files": [
+      "gctp-kirkcudbright-lifeboat-station-flight-context.mp3",
+      "gctp-kirkcudbright-lifeboat-station-intro.mp3",
+      "gctp-kirkcudbright-lifeboat-station-an-anonymous-gentleman-1861.mp3",
+      "gctp-kirkcudbright-lifeboat-station-the-schooner-william-henry.mp3",
+      "gctp-kirkcudbright-lifeboat-station-the-bottle-in-the-sand.mp3",
+      "gctp-kirkcudbright-lifeboat-station-honours-and-names.mp3",
+      "gctp-kirkcudbright-lifeboat-station-sheila-stenhouse.mp3"
+    ],
+    "durations": {
+      "gctp-kirkcudbright-lifeboat-station-flight-context.mp3": 55.8577083,
+      "gctp-kirkcudbright-lifeboat-station-intro.mp3": 51.7569166,
+      "gctp-kirkcudbright-lifeboat-station-an-anonymous-gentleman-1861.mp3": 54.0921666,
+      "gctp-kirkcudbright-lifeboat-station-the-schooner-william-henry.mp3": 48.3598333,
+      "gctp-kirkcudbright-lifeboat-station-the-bottle-in-the-sand.mp3": 53.24825,
+      "gctp-kirkcudbright-lifeboat-station-honours-and-names.mp3": 51.4676666,
+      "gctp-kirkcudbright-lifeboat-station-sheila-stenhouse.mp3": 42.0205416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

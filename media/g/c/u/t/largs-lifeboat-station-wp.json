@@ -23,7 +23,9 @@
           "Flickr images reviewed by FlickreviewR",
           "Images by Ronnie Macdonald",
           "Largs lifeboats"
-        ]
+        ],
+        "mediumPath": "_m/g/c/u/t/largs-lifeboat-station-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/u/t/largs-lifeboat-station-wp/hero-small.webp"
       },
       "images": [
         {
@@ -44,7 +46,8 @@
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland",
             "Largs Lifeboat Station"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/t/largs-lifeboat-station-wp/largs-lifeboat-station-small.webp"
         },
         {
           "path": "_m/g/c/u/t/largs-lifeboat-station-wp/lifeboathouse-largs-geograph-o.jpg",
@@ -69,7 +72,8 @@
             "Largs Lifeboat Station",
             "Largs lifeboats",
             "United Kingdom photographs taken on 2005-04-12"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/t/largs-lifeboat-station-wp/lifeboathouse-largs-geograph-o-small.webp"
         },
         {
           "path": "_m/g/c/u/t/largs-lifeboat-station-wp/largs-lifeboat-station-geograp.jpg",
@@ -91,7 +95,8 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "Largs Lifeboat Station"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/t/largs-lifeboat-station-wp/largs-lifeboat-station-geograp-small.webp"
         },
         {
           "path": "_m/g/c/u/t/largs-lifeboat-station-wp/largs-lifeboat-station-geograp-1.jpg",
@@ -111,7 +116,8 @@
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland",
             "Largs Lifeboat Station"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/t/largs-lifeboat-station-wp/largs-lifeboat-station-geograp-1-small.webp"
         },
         {
           "path": "_m/g/c/u/t/largs-lifeboat-station-wp/rnli-lifeboat-station-largs-ge.jpg",
@@ -131,7 +137,8 @@
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland",
             "Largs Lifeboat Station"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/t/largs-lifeboat-station-wp/rnli-lifeboat-station-largs-ge-small.webp"
         },
         {
           "path": "_m/g/c/u/t/largs-lifeboat-station-wp/largs-inshore-rescue-boat-stat.jpg",
@@ -152,7 +159,8 @@
             "Images from Geograph Britain and Ireland",
             "Largs (civil parish)",
             "Largs Lifeboat Station"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/t/largs-lifeboat-station-wp/largs-inshore-rescue-boat-stat-small.webp"
         },
         {
           "path": "_m/g/c/u/t/largs-lifeboat-station-wp/2025-at-largs-lifeboat-station.jpg",
@@ -178,7 +186,9 @@
             "Lifeboat photographs by Geof Sheppard",
             "Scotland photographs taken on 2025-06-08",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/t/largs-lifeboat-station-wp/2025-at-largs-lifeboat-station-medium.webp",
+          "smallPath": "_m/g/c/u/t/largs-lifeboat-station-wp/2025-at-largs-lifeboat-station-small.webp"
         },
         {
           "path": "_m/g/c/u/t/largs-lifeboat-station-wp/2025-at-largs-lifeboat-station-1.jpg",
@@ -204,7 +214,9 @@
             "Lifeboat photographs by Geof Sheppard",
             "Scotland photographs taken on 2025-06-08",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/t/largs-lifeboat-station-wp/2025-at-largs-lifeboat-station-1-medium.webp",
+          "smallPath": "_m/g/c/u/t/largs-lifeboat-station-wp/2025-at-largs-lifeboat-station-1-small.webp"
         },
         {
           "path": "_m/g/c/u/t/largs-wp/nardini-s-cafe-largs-1-6-2012.jpg",
@@ -473,7 +485,19 @@
           "sourceArticleId": "south-ayrshire",
           "sourceGeohash4": "gcus"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/u/t/largs-lifeboat-station-wp/gcut-largs-lifeboat-station-flight-context.mp3",
+        "_m/g/c/u/t/largs-lifeboat-station-wp/gcut-largs-lifeboat-station-intro.mp3",
+        "_m/g/c/u/t/largs-lifeboat-station-wp/gcut-largs-lifeboat-station-the-1983-rescue.mp3",
+        "_m/g/c/u/t/largs-lifeboat-station-wp/gcut-largs-lifeboat-station-why-an-inshore-boat.mp3",
+        "_m/g/c/u/t/largs-lifeboat-station-wp/gcut-largs-lifeboat-station-royal-openings-and-new-boats.mp3",
+        "_m/g/c/u/t/largs-lifeboat-station-wp/gcut-largs-lifeboat-station-standing-by.mp3"
+      ],
+      "combinedNarration": "_m/g/c/u/t/largs-lifeboat-station-wp/gcut-largs-lifeboat-station-combined.mp3",
+      "combinedNarrationBytes": 3157849,
+      "combinedNarrationDuration": 255,
+      "combinedCover": "_m/g/c/u/t/largs-lifeboat-station-wp/gcut-largs-lifeboat-station-combined-cover.jpg"
     }
   }
 }

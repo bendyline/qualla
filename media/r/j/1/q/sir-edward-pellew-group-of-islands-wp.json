@@ -2,27 +2,6 @@
   "id": "sir-edward-pellew-group-of-islands-wp",
   "patch": {
     "media": {
-      "hero": {
-        "path": "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/hero.jpg",
-        "filename": "SirEdwardPellewGroup.jpg",
-        "caption": "Rock formations on a small island within the Sir Edward Pellew Group",
-        "alt": "Rock formations on a small island within the Sir Edward Pellew Group",
-        "width": 7171,
-        "height": 3639,
-        "mimeType": "image/jpeg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Djambalawa",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:SirEdwardPellewGroup.jpg",
-        "sourceType": "core",
-        "sourceArticleId": "sir-edward-pellew-group-of-islands-wp",
-        "sourceGeohash4": "rj1q",
-        "categories": [
-          "CC-BY-SA-4.0",
-          "Photographs taken on 2015-04-26",
-          "Self-published work",
-          "Sir Edward Pellew Islands"
-        ]
-      },
       "images": [
         {
           "path": "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/natural-color-landsat.png",
@@ -45,7 +24,8 @@
             "PD NASA",
             "Satellite pictures of the Northern Territory",
             "Sir Edward Pellew Islands"
-          ]
+          ],
+          "smallPath": "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/natural-color-landsat-small.webp"
         },
         {
           "path": "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/william-westall-view-of-sir-ed.jpg",
@@ -72,7 +52,8 @@
             "Paintings without Wikidata item",
             "Sir Edward Pellew Islands",
             "William Westall"
-          ]
+          ],
+          "smallPath": "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/william-westall-view-of-sir-ed-small.webp"
         },
         {
           "path": "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/vanderlin-island-tepi.png",
@@ -92,7 +73,8 @@
             "Landsat images of Australia",
             "PD NASA",
             "Sir Edward Pellew Islands"
-          ]
+          ],
+          "smallPath": "_m/r/j/1/q/sir-edward-pellew-group-of-islands-wp/vanderlin-island-tepi-small.webp"
         }
       ]
     }

@@ -25,7 +25,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "chain-bridge-forge-spalding-wp",
-    "sourceGeohash4": "gcru"
+    "sourceGeohash4": "gcru",
+    "mediumPath": "_m/g/c/r/u/chain-bridge-forge-spalding-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/r/u/chain-bridge-forge-spalding-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Chain Bridge Forge, Spalding.jpg",
@@ -55,5 +57,24 @@
     "sourceGeohash4": "gcru"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcru-chain-bridge-forge-spalding-flight-context.mp3",
+      "gcru-chain-bridge-forge-spalding-intro.mp3",
+      "gcru-chain-bridge-forge-spalding-why-the-bridge-was-made-of-chains.mp3",
+      "gcru-chain-bridge-forge-spalding-three-generations-of-dodds.mp3",
+      "gcru-chain-bridge-forge-spalding-a-living-museum.mp3",
+      "gcru-chain-bridge-forge-spalding-iron-in-the-welland-country.mp3"
+    ],
+    "durations": {
+      "gcru-chain-bridge-forge-spalding-flight-context.mp3": 51.36825,
+      "gcru-chain-bridge-forge-spalding-intro.mp3": 74.6365,
+      "gcru-chain-bridge-forge-spalding-why-the-bridge-was-made-of-chains.mp3": 67.0835,
+      "gcru-chain-bridge-forge-spalding-three-generations-of-dodds.mp3": 63.476125,
+      "gcru-chain-bridge-forge-spalding-a-living-museum.mp3": 61.4277083,
+      "gcru-chain-bridge-forge-spalding-iron-in-the-welland-country.mp3": 64.36225
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

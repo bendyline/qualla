@@ -31,7 +31,9 @@
           "Images with extracted images",
           "Information field template with formatting",
           "Kufic funerary inscription"
-        ]
+        ],
+        "mediumPath": "_m/e/f/z/u/gao-saney-wp/hero-medium.webp",
+        "smallPath": "_m/e/f/z/u/gao-saney-wp/hero-small.webp"
       },
       "images": [
         {
@@ -69,7 +71,9 @@
             "Steles of Al-Andalus",
             "Template Unknown (artist)",
             "Trésors de l'Islam en Afrique, de Tombouctou à Zanzibar"
-          ]
+          ],
+          "mediumPath": "_m/e/f/z/u/gao-saney-wp/stele-almeria-gao-saney-mnm-r8-medium.webp",
+          "smallPath": "_m/e/f/z/u/gao-saney-wp/stele-almeria-gao-saney-mnm-r8-small.webp"
         }
       ],
       "narration": [
@@ -79,7 +83,11 @@
         "_m/e/f/z/u/gao-saney-wp/efzu-gao-saney-beads-from-baghdad-salt-from-the-mine.mp3",
         "_m/e/f/z/u/gao-saney-wp/efzu-gao-saney-the-road-of-chariots.mp3",
         "_m/e/f/z/u/gao-saney-wp/efzu-gao-saney-kings-in-stone.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/e/f/z/u/gao-saney-wp/efzu-gao-saney-combined.mp3",
+      "combinedNarrationBytes": 3101478,
+      "combinedNarrationDuration": 249,
+      "combinedCover": "_m/e/f/z/u/gao-saney-wp/efzu-gao-saney-combined-cover.jpg"
     }
   }
 }

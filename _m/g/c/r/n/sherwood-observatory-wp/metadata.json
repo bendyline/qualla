@@ -23,7 +23,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "sherwood-observatory-wp",
-    "sourceGeohash4": "gcrn"
+    "sourceGeohash4": "gcrn",
+    "mediumPath": "_m/g/c/r/n/sherwood-observatory-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/r/n/sherwood-observatory-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Sherwood Observatory.jpg",
@@ -104,11 +106,31 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "sherwood-observatory-wp",
-      "sourceGeohash4": "gcrn"
+      "sourceGeohash4": "gcrn",
+      "smallPath": "_m/g/c/r/n/sherwood-observatory-wp/sherwood-observatory-2-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/p/v/london-wp/united-kingdom-relief-location.jpg",
     "_m/g/c/r/n/sherwood-observatory-wp/sherwood-observatory-2.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcrn-sherwood-observatory-flight-context.mp3",
+      "gcrn-sherwood-observatory-intro.mp3",
+      "gcrn-sherwood-observatory-a-society-on-a-hill.mp3",
+      "gcrn-sherwood-observatory-grinding-the-mirror.mp3",
+      "gcrn-sherwood-observatory-the-telescope.mp3",
+      "gcrn-sherwood-observatory-the-planetarium-and-the-reservoir.mp3"
+    ],
+    "durations": {
+      "gcrn-sherwood-observatory-flight-context.mp3": 51.433875,
+      "gcrn-sherwood-observatory-intro.mp3": 42.2050416,
+      "gcrn-sherwood-observatory-a-society-on-a-hill.mp3": 53.33125,
+      "gcrn-sherwood-observatory-grinding-the-mirror.mp3": 58.878375,
+      "gcrn-sherwood-observatory-the-telescope.mp3": 48.6174583,
+      "gcrn-sherwood-observatory-the-planetarium-and-the-reservoir.mp3": 61.5765833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

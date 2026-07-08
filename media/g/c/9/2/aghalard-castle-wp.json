@@ -21,7 +21,9 @@
           "CC-BY-SA-2.0",
           "Images from Geograph Britain and Ireland",
           "Information field template with formatting"
-        ]
+        ],
+        "mediumPath": "_m/g/c/9/2/aghalard-castle-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/9/2/aghalard-castle-wp/hero-small.webp"
       },
       "images": [
         {
@@ -42,7 +44,8 @@
             "Aghalard Castle",
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/2/aghalard-castle-wp/castles-of-connacht-aghalahard-small.webp"
         }
       ],
       "narration": [
@@ -52,7 +55,11 @@
         "_m/g/c/9/2/aghalard-castle-wp/gc92-aghalard-castle-the-siege-of-1596.mp3",
         "_m/g/c/9/2/aghalard-castle-wp/gc92-aghalard-castle-the-stout-plan-of-a-tower-house.mp3",
         "_m/g/c/9/2/aghalard-castle-wp/gc92-aghalard-castle-from-mcdonnell-to-guinness.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/9/2/aghalard-castle-wp/gc92-aghalard-castle-combined.mp3",
+      "combinedNarrationBytes": 3279578,
+      "combinedNarrationDuration": 264,
+      "combinedCover": "_m/g/c/9/2/aghalard-castle-wp/gc92-aghalard-castle-combined-cover.jpg"
     }
   }
 }

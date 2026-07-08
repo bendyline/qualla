@@ -29,7 +29,8 @@
           "Ohio River in Ohio",
           "Ohio River in West Virginia",
           "Self-published work"
-        ]
+        ],
+        "smallPath": "_m/d/n/v/s/lake-tight-wp/hero-small.webp"
       },
       "images": [
         {
@@ -118,7 +119,8 @@
             "Pleistocene lakes in North America",
             "Proglacial lakes",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/d/n/v/s/lake-tight-wp/map-pleistocene-progla-small.webp"
         }
       ],
       "narration": [
@@ -128,7 +130,11 @@
         "_m/d/n/v/s/lake-tight-wp/dnvs-lake-tight-when-the-glacier-came.mp3",
         "_m/d/n/v/s/lake-tight-wp/dnvs-lake-tight-what-the-clays-remember.mp3",
         "_m/d/n/v/s/lake-tight-wp/dnvs-lake-tight-the-outflow-that-made-the-ohio.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/n/v/s/lake-tight-wp/dnvs-lake-tight-combined.mp3",
+      "combinedNarrationBytes": 3563388,
+      "combinedNarrationDuration": 291,
+      "combinedCover": "_m/d/n/v/s/lake-tight-wp/dnvs-lake-tight-combined-cover.jpg"
     }
   }
 }

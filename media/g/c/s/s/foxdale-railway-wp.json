@@ -25,7 +25,9 @@
           "PD-old-70-expired",
           "PD-old missing SDC copyright status",
           "Rail transport in the Isle of Man"
-        ]
+        ],
+        "mediumPath": "_m/g/c/s/s/foxdale-railway-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/s/s/foxdale-railway-wp/hero-small.webp"
       },
       "images": [
         {
@@ -50,7 +52,8 @@
             "Narrow gauge freight cars",
             "Photographs by Dr Neil Clifton",
             "St John's railway station, Isle of Man"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/s/foxdale-railway-wp/derelict-goods-wagons-small.webp"
         },
         {
           "path": "_m/g/c/s/s/foxdale-railway-wp/map-foxdale-railwaythi.png",
@@ -73,9 +76,23 @@
             "OpenStreetMap maps of the Isle of Man",
             "Rail transport maps of the Isle of Man",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/s/foxdale-railway-wp/map-foxdale-railwaythi-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/s/s/foxdale-railway-wp/gcss-foxdale-railway-flight-context.mp3",
+        "_m/g/c/s/s/foxdale-railway-wp/gcss-foxdale-railway-intro.mp3",
+        "_m/g/c/s/s/foxdale-railway-wp/gcss-foxdale-railway-built-for-one-cargo.mp3",
+        "_m/g/c/s/s/foxdale-railway-wp/gcss-foxdale-railway-caledonia-and-the-coach.mp3",
+        "_m/g/c/s/s/foxdale-railway-wp/gcss-foxdale-railway-lead-liquidation-and-a-new-owner.mp3",
+        "_m/g/c/s/s/foxdale-railway-wp/gcss-foxdale-railway-runways-bus-substitutes-and-the-last-train.mp3",
+        "_m/g/c/s/s/foxdale-railway-wp/gcss-foxdale-railway-walking-the-old-trackbed.mp3"
+      ],
+      "combinedNarration": "_m/g/c/s/s/foxdale-railway-wp/gcss-foxdale-railway-combined.mp3",
+      "combinedNarrationBytes": 3941291,
+      "combinedNarrationDuration": 319,
+      "combinedCover": "_m/g/c/s/s/foxdale-railway-wp/gcss-foxdale-railway-combined-cover.jpg"
     }
   }
 }

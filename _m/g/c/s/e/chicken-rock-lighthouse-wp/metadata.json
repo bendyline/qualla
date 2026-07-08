@@ -24,7 +24,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "chicken-rock-lighthouse-wp",
-    "sourceGeohash4": "gcse"
+    "sourceGeohash4": "gcse",
+    "mediumPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Chicken Rock Lighthouse - geograph.org.uk - 1971714.jpg",
@@ -77,7 +79,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "chicken-rock-lighthouse-wp",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "smallPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/chicken-rock-small.webp"
     },
     {
       "filename": "Caigher Point and the Chicken Rock - geograph.org.uk - 25534.jpg",
@@ -130,7 +133,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "chicken-rock-lighthouse-wp",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "smallPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/the-waters-between-the-calf-of-small.webp"
     },
     {
       "filename": "Calf of Man - geograph.org.uk - 725421.jpg",
@@ -178,7 +182,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "chicken-rock-lighthouse-wp",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "smallPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/chicken-rock-lighthouse-geogra-small.webp"
     },
     {
       "filename": "The Chicken Rock Lighthouse (geograph 3893536).jpg",
@@ -203,7 +208,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "chicken-rock-lighthouse-wp",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "smallPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/the-chicken-rock-lighthouse-ge-small.webp"
     },
     {
       "filename": "View To Chicken Rock - geograph.org.uk - 3414399.jpg",
@@ -225,7 +231,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "chicken-rock-lighthouse-wp",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "mediumPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/view-to-chicken-rock-geograph--medium.webp",
+      "smallPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/view-to-chicken-rock-geograph--small.webp"
     },
     {
       "filename": "Chicken Rock Lighthouse, looking towards the Calf of Man - geograph.org.uk - 7998060.jpg",
@@ -248,7 +256,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "chicken-rock-lighthouse-wp",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "smallPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/chicken-rock-lighthouse-lookin-small.webp"
     },
     {
       "filename": "Chicken Rock Lighthouse from incoming flight to Ronaldsway Airport - geograph.org.uk - 8238146.jpg",
@@ -265,7 +274,9 @@
       "dateCreated": "2025-03-15",
       "sourceType": "commons-category",
       "sourceArticleId": "chicken-rock-lighthouse-wp",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "mediumPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/chicken-rock-lighthouse-from-i-medium.webp",
+      "smallPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/chicken-rock-lighthouse-from-i-small.webp"
     },
     {
       "filename": "View towards Chicken Rock Lighthouse - geograph.org.uk - 8247182.jpg",
@@ -282,7 +293,8 @@
       "dateCreated": "2025-06-11",
       "sourceType": "commons-category",
       "sourceArticleId": "chicken-rock-lighthouse-wp",
-      "sourceGeohash4": "gcse"
+      "sourceGeohash4": "gcse",
+      "smallPath": "_m/g/c/s/e/chicken-rock-lighthouse-wp/view-towards-chicken-rock-ligh-small.webp"
     }
   ],
   "galleryPaths": [
@@ -297,5 +309,24 @@
     "_m/g/c/s/e/chicken-rock-lighthouse-wp/chicken-rock-lighthouse-from-i.jpg",
     "_m/g/c/s/e/chicken-rock-lighthouse-wp/view-towards-chicken-rock-ligh.jpg"
   ],
-  "updatedAt": "2026-06-22T11:19:51.855Z"
+  "updatedAt": "2026-06-22T11:19:51.855Z",
+  "narration": {
+    "files": [
+      "gcse-chicken-rock-lighthouse-flight-context.mp3",
+      "gcse-chicken-rock-lighthouse-intro.mp3",
+      "gcse-chicken-rock-lighthouse-why-the-light-was-needed.mp3",
+      "gcse-chicken-rock-lighthouse-life-on-the-rock.mp3",
+      "gcse-chicken-rock-lighthouse-23-december-1960.mp3",
+      "gcse-chicken-rock-lighthouse-the-light-today.mp3"
+    ],
+    "durations": {
+      "gcse-chicken-rock-lighthouse-flight-context.mp3": 48.8191666,
+      "gcse-chicken-rock-lighthouse-intro.mp3": 52.1715,
+      "gcse-chicken-rock-lighthouse-why-the-light-was-needed.mp3": 71.6732916,
+      "gcse-chicken-rock-lighthouse-life-on-the-rock.mp3": 54.2588333,
+      "gcse-chicken-rock-lighthouse-23-december-1960.mp3": 50.3137083,
+      "gcse-chicken-rock-lighthouse-the-light-today.mp3": 51.597125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

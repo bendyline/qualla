@@ -23,7 +23,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "old-firm-wp",
-    "sourceGeohash4": "gcvj"
+    "sourceGeohash4": "gcvj",
+    "smallPath": "_m/g/c/v/j/old-firm-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Old Firm pic.PNG",
@@ -73,10 +74,32 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "old-firm-wp",
-      "sourceGeohash4": "gcvj"
+      "sourceGeohash4": "gcvj",
+      "smallPath": "_m/g/c/v/j/old-firm-wp/celtic-rangers-clash-2-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/v/j/old-firm-wp/celtic-rangers-clash-2.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcvj-old-firm-flight-context.mp3",
+      "gcvj-old-firm-intro.mp3",
+      "gcvj-old-firm-why-old-firm.mp3",
+      "gcvj-old-firm-a-sectarian-inheritance.mp3",
+      "gcvj-old-firm-stadium-records-and-the-ibrox-disaster.mp3",
+      "gcvj-old-firm-dominance-and-the-2012-reset.mp3",
+      "gcvj-old-firm-a-disproportionate-shadow.mp3"
+    ],
+    "durations": {
+      "gcvj-old-firm-flight-context.mp3": 47.9879583,
+      "gcvj-old-firm-intro.mp3": 59.3124583,
+      "gcvj-old-firm-why-old-firm.mp3": 54.1453333,
+      "gcvj-old-firm-a-sectarian-inheritance.mp3": 57.9013333,
+      "gcvj-old-firm-stadium-records-and-the-ibrox-disaster.mp3": 65.3162916,
+      "gcvj-old-firm-dominance-and-the-2012-reset.mp3": 65.463,
+      "gcvj-old-firm-a-disproportionate-shadow.mp3": 59.4228333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

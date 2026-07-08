@@ -24,7 +24,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "siege-of-dumbarton-wp",
-    "sourceGeohash4": "gcuy"
+    "sourceGeohash4": "gcuy",
+    "mediumPath": "_m/g/c/u/y/siege-of-dumbarton-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/u/y/siege-of-dumbarton-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "West Dunbartonshire UK relief location map.jpg",
@@ -53,5 +55,26 @@
     "sourceGeohash4": "gcuy"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcuy-siege-of-dumbarton-flight-context.mp3",
+      "gcuy-siege-of-dumbarton-intro.mp3",
+      "gcuy-siege-of-dumbarton-the-kingdom-on-the-rock.mp3",
+      "gcuy-siege-of-dumbarton-why-dumbarton.mp3",
+      "gcuy-siege-of-dumbarton-four-months-on-the-craig.mp3",
+      "gcuy-siege-of-dumbarton-two-hundred-ships-to-dublin.mp3",
+      "gcuy-siege-of-dumbarton-what-the-siege-killed.mp3"
+    ],
+    "durations": {
+      "gcuy-siege-of-dumbarton-flight-context.mp3": 69.3130833,
+      "gcuy-siege-of-dumbarton-intro.mp3": 51.9116666,
+      "gcuy-siege-of-dumbarton-the-kingdom-on-the-rock.mp3": 48.5495833,
+      "gcuy-siege-of-dumbarton-why-dumbarton.mp3": 55.9028333,
+      "gcuy-siege-of-dumbarton-four-months-on-the-craig.mp3": 57.379,
+      "gcuy-siege-of-dumbarton-two-hundred-ships-to-dublin.mp3": 61.457125,
+      "gcuy-siege-of-dumbarton-what-the-siege-killed.mp3": 65.0674583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

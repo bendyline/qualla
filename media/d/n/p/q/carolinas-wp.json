@@ -148,7 +148,9 @@
             "PD-Art (PD-old-auto-expired)",
             "PD-old-100-expired",
             "The Carolinas"
-          ]
+          ],
+          "mediumPath": "_m/d/n/p/q/carolinas-wp/1715-homann-map-of-carolina-vi-medium.webp",
+          "smallPath": "_m/d/n/p/q/carolinas-wp/1715-homann-map-of-carolina-vi-small.webp"
         },
         {
           "path": "_m/d/n/p/q/carolinas-wp/virginia-marylandia-et-carolin.jpg",
@@ -175,7 +177,9 @@
             "NYPL maps",
             "Supported by Wikimedia UK",
             "The Carolinas"
-          ]
+          ],
+          "mediumPath": "_m/d/n/p/q/carolinas-wp/virginia-marylandia-et-carolin-medium.webp",
+          "smallPath": "_m/d/n/p/q/carolinas-wp/virginia-marylandia-et-carolin-small.webp"
         },
         {
           "path": "_m/d/n/p/q/carolinas-wp/locator-map-province-c.png",
@@ -215,7 +219,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chryse_Floods_compared_with_North_Carolina_and_South_Carolina_(4089948003).jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "carolinas-wp",
-          "sourceGeohash4": "dnpq"
+          "sourceGeohash4": "dnpq",
+          "mediumPath": "_m/d/n/p/q/carolinas-wp/chryse-floods-compared-with-no-medium.webp",
+          "smallPath": "_m/d/n/p/q/carolinas-wp/chryse-floods-compared-with-no-small.webp"
         },
         {
           "path": "_m/d/n/p/q/carolinas-wp/valles-marineris-compared-with.jpg",
@@ -230,7 +236,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Valles_Marineris_compared_with_North_Carolina_and_South_Carolina_(4089309139).jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "carolinas-wp",
-          "sourceGeohash4": "dnpq"
+          "sourceGeohash4": "dnpq",
+          "mediumPath": "_m/d/n/p/q/carolinas-wp/valles-marineris-compared-with-medium.webp",
+          "smallPath": "_m/d/n/p/q/carolinas-wp/valles-marineris-compared-with-small.webp"
         },
         {
           "path": "_m/d/n/p/q/carolinas-wp/the-carolinas-modis-2016-05-18.jpg",
@@ -245,7 +253,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Carolinas_(MODIS_2016-05-18).jpg",
           "sourceType": "commons-category",
           "sourceArticleId": "carolinas-wp",
-          "sourceGeohash4": "dnpq"
+          "sourceGeohash4": "dnpq",
+          "mediumPath": "_m/d/n/p/q/carolinas-wp/the-carolinas-modis-2016-05-18-medium.webp",
+          "smallPath": "_m/d/n/p/q/carolinas-wp/the-carolinas-modis-2016-05-18-small.webp"
         }
       ],
       "narration": [
@@ -256,7 +266,11 @@
         "_m/d/n/p/q/carolinas-wp/dnpq-carolinas-coast-sandhills-mountains.mp3",
         "_m/d/n/p/q/carolinas-wp/dnpq-carolinas-money-and-memory.mp3",
         "_m/d/n/p/q/carolinas-wp/dnpq-carolinas-the-quiet-south.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/n/p/q/carolinas-wp/dnpq-carolinas-combined.mp3",
+      "combinedNarrationBytes": 4025380,
+      "combinedNarrationDuration": 323,
+      "combinedCover": "_m/d/n/p/q/carolinas-wp/dnpq-carolinas-combined-cover.jpg"
     }
   }
 }

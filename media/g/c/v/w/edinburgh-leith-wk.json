@@ -52,7 +52,8 @@
             "Self-published work",
             "Shops in Edinburgh",
             "Taken with Sony DSC-S600"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/w/edinburgh-leith-wk/wfm-ocean-terminal-leith-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-leith-wk/semifinal-hearts-vs-hibernian.jpg",
@@ -73,7 +74,8 @@
             "Hibernian F.C.",
             "Media lacking a description",
             "PD-user"
-          ]
+          ],
+          "smallPath": "_m/g/c/v/w/edinburgh-leith-wk/semifinal-hearts-vs-hibernian-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-leith-wk/the-vaults-14766416622.jpg",
@@ -97,7 +99,9 @@
             "Plaques in Edinburgh",
             "Plaques referencing 1587 in Scotland",
             "Plaques referencing 1682 in Scotland"
-          ]
+          ],
+          "mediumPath": "_m/g/c/v/w/edinburgh-leith-wk/the-vaults-14766416622-medium.webp",
+          "smallPath": "_m/g/c/v/w/edinburgh-leith-wk/the-vaults-14766416622-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-leith-wk/hmy-britannia-41349592671.jpg",
@@ -116,7 +120,9 @@
           "categories": [
             "CC-BY-SA-2.0",
             "Files with coordinates missing SDC location of creation (50° N, 2° W)"
-          ]
+          ],
+          "mediumPath": "_m/g/c/v/w/edinburgh-leith-wk/hmy-britannia-41349592671-medium.webp",
+          "smallPath": "_m/g/c/v/w/edinburgh-leith-wk/hmy-britannia-41349592671-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-leith-wk/water-of-leith-walkway-stedfas.jpg",
@@ -131,7 +137,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Water_of_Leith_Walkway_Stedfastgate_plaque.jpg",
           "sourceType": "core",
           "sourceArticleId": "edinburgh-leith-wk",
-          "sourceGeohash4": "gcvw"
+          "sourceGeohash4": "gcvw",
+          "mediumPath": "_m/g/c/v/w/edinburgh-leith-wk/water-of-leith-walkway-stedfas-medium.webp",
+          "smallPath": "_m/g/c/v/w/edinburgh-leith-wk/water-of-leith-walkway-stedfas-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-leith-wk/easter-road-edinburgh-derby.jpg",
@@ -146,7 +154,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Easter_Road_-_Edinburgh_Derby.jpg",
           "sourceType": "core",
           "sourceArticleId": "edinburgh-leith-wk",
-          "sourceGeohash4": "gcvw"
+          "sourceGeohash4": "gcvw",
+          "mediumPath": "_m/g/c/v/w/edinburgh-leith-wk/easter-road-edinburgh-derby-medium.webp",
+          "smallPath": "_m/g/c/v/w/edinburgh-leith-wk/easter-road-edinburgh-derby-small.webp"
         },
         {
           "path": "_m/g/c/v/w/edinburgh-leith-and-newhaven-railway-wp/railway-junctions-edin.jpg",
@@ -845,7 +855,20 @@
             "Information field template with formatting"
           ]
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/v/w/edinburgh-leith-wk/gcvw-leith-flight-context.mp3",
+        "_m/g/c/v/w/edinburgh-leith-wk/gcvw-leith-intro.mp3",
+        "_m/g/c/v/w/edinburgh-leith-wk/gcvw-leith-the-port-and-its-trades.mp3",
+        "_m/g/c/v/w/edinburgh-leith-wk/gcvw-leith-lime-juice-limeys-and-lauchlan-rose.mp3",
+        "_m/g/c/v/w/edinburgh-leith-wk/gcvw-leith-leith-links-and-the-plague.mp3",
+        "_m/g/c/v/w/edinburgh-leith-wk/gcvw-leith-trainspotting-and-tesco.mp3",
+        "_m/g/c/v/w/edinburgh-leith-wk/gcvw-leith-trams-return.mp3"
+      ],
+      "combinedNarration": "_m/g/c/v/w/edinburgh-leith-wk/gcvw-edinburgh-leith-combined.mp3",
+      "combinedNarrationBytes": 4257604,
+      "combinedNarrationDuration": 345,
+      "combinedCover": "_m/g/c/v/w/edinburgh-leith-wk/gcvw-edinburgh-leith-combined-cover.jpg"
     }
   }
 }

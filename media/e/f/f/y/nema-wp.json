@@ -24,7 +24,8 @@
           "Media lacking author information",
           "Néma",
           "PD US Army"
-        ]
+        ],
+        "smallPath": "_m/e/f/f/y/nema-wp/hero-small.webp"
       },
       "images": [
         {
@@ -50,7 +51,9 @@
             "Néma",
             "Toyota Land Cruiser (J70)",
             "Uploaded with pattypan"
-          ]
+          ],
+          "mediumPath": "_m/e/f/f/y/nema-wp/asc-leiden-van-achterberg-coll-medium.webp",
+          "smallPath": "_m/e/f/f/y/nema-wp/asc-leiden-van-achterberg-coll-small.webp"
         },
         {
           "path": "_m/e/f/f/y/nema-wp/asc-leiden-van-achterberg-coll-1.jpg",
@@ -74,7 +77,9 @@
             "Items with VRTS permission confirmed",
             "Néma",
             "Uploaded with pattypan"
-          ]
+          ],
+          "mediumPath": "_m/e/f/f/y/nema-wp/asc-leiden-van-achterberg-coll-1-medium.webp",
+          "smallPath": "_m/e/f/f/y/nema-wp/asc-leiden-van-achterberg-coll-1-small.webp"
         }
       ],
       "narration": [
@@ -85,7 +90,11 @@
         "_m/e/f/f/y/nema-wp/effy-n-ma-brousse-and-the-nomads-memory.mp3",
         "_m/e/f/f/y/nema-wp/effy-n-ma-a-town-that-governs-a-region.mp3",
         "_m/e/f/f/y/nema-wp/effy-n-ma-living-on-the-edge.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/e/f/f/y/nema-wp/effy-nema-combined.mp3",
+      "combinedNarrationBytes": 3527328,
+      "combinedNarrationDuration": 286,
+      "combinedCover": "_m/e/f/f/y/nema-wp/effy-nema-combined-cover.jpg"
     }
   }
 }

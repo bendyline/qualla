@@ -27,11 +27,33 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "cockermouth-wp",
-      "sourceGeohash4": "gctw"
+      "sourceGeohash4": "gctw",
+      "smallPath": "_m/g/c/t/w/cockermouth-wp/wordsworth-house-cockermouth-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/t/w/cockermouth-wp/wordsworth-house-cockermouth.jpg"
   ],
-  "updatedAt": "2026-06-22T17:47:18.803Z"
+  "updatedAt": "2026-06-22T17:47:18.803Z",
+  "narration": {
+    "files": [
+      "gctw-cockermouth-flight-context.mp3",
+      "gctw-cockermouth-intro.mp3",
+      "gctw-cockermouth-layers-beneath-the-pavement.mp3",
+      "gctw-cockermouth-wordsworth-was-born-here.mp3",
+      "gctw-cockermouth-market-town-gem-town.mp3",
+      "gctw-cockermouth-the-november-that-drowned-the-town.mp3",
+      "gctw-cockermouth-cobblestones-and-carriage-rides.mp3"
+    ],
+    "durations": {
+      "gctw-cockermouth-flight-context.mp3": 49.28225,
+      "gctw-cockermouth-intro.mp3": 46.9183333,
+      "gctw-cockermouth-layers-beneath-the-pavement.mp3": 57.7562916,
+      "gctw-cockermouth-wordsworth-was-born-here.mp3": 58.9954583,
+      "gctw-cockermouth-market-town-gem-town.mp3": 57.729625,
+      "gctw-cockermouth-the-november-that-drowned-the-town.mp3": 63.4149166,
+      "gctw-cockermouth-cobblestones-and-carriage-rides.mp3": 69.7062916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

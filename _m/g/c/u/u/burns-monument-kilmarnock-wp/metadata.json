@@ -26,7 +26,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "burns-monument-kilmarnock-wp",
-    "sourceGeohash4": "gcuu"
+    "sourceGeohash4": "gcuu",
+    "smallPath": "_m/g/c/u/u/burns-monument-kilmarnock-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Burns Monument Centre, Kilmarnock (geograph 5067727).jpg",
@@ -106,7 +107,9 @@
       ],
       "sourceType": "core",
       "sourceArticleId": "burns-monument-kilmarnock-wp",
-      "sourceGeohash4": "gcuu"
+      "sourceGeohash4": "gcuu",
+      "mediumPath": "_m/g/c/u/u/burns-monument-kilmarnock-wp/burns-monument-centre-medium.webp",
+      "smallPath": "_m/g/c/u/u/burns-monument-kilmarnock-wp/burns-monument-centre-small.webp"
     },
     {
       "filename": "Burns Monument Centre, Kilmarnock (geograph 5067775).jpg",
@@ -132,7 +135,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "burns-monument-kilmarnock-wp",
-      "sourceGeohash4": "gcuu"
+      "sourceGeohash4": "gcuu",
+      "smallPath": "_m/g/c/u/u/burns-monument-kilmarnock-wp/burns-monument-centre-kilmarno-small.webp"
     },
     {
       "filename": "Burns Monument Centre, Kilmarnock (geograph 5067764).jpg",
@@ -158,7 +162,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "kilmarnock-wp",
-      "sourceGeohash4": "gcuu"
+      "sourceGeohash4": "gcuu",
+      "mediumPath": "_m/g/c/u/u/burns-monument-kilmarnock-wp/burns-monument-centre-kilmarno-medium.webp",
+      "smallPath": "_m/g/c/u/u/burns-monument-kilmarnock-wp/burns-monument-centre-kilmarno-small.webp"
     },
     {
       "filename": "Burns Monument Centre, Kay Park, Kilmarnock, East Ayrshire.jpg",
@@ -183,7 +189,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "burns-monument-kilmarnock-wp",
-      "sourceGeohash4": "gcuu"
+      "sourceGeohash4": "gcuu",
+      "smallPath": "_m/g/c/u/u/burns-monument-kilmarnock-wp/burns-monument-centre-kay-park-small.webp"
     },
     {
       "filename": "The Robert Burns Monument, Kay Park, Kilmarnock, East Ayrshire.jpg",
@@ -208,7 +215,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "burns-monument-kilmarnock-wp",
-      "sourceGeohash4": "gcuu"
+      "sourceGeohash4": "gcuu",
+      "mediumPath": "_m/g/c/u/u/burns-monument-kilmarnock-wp/the-robert-burns-monument-kay--medium.webp",
+      "smallPath": "_m/g/c/u/u/burns-monument-kilmarnock-wp/the-robert-burns-monument-kay--small.webp"
     }
   ],
   "galleryPaths": [
@@ -219,5 +228,24 @@
     "_m/g/c/u/u/burns-monument-kilmarnock-wp/burns-monument-centre-kay-park.jpg",
     "_m/g/c/u/u/burns-monument-kilmarnock-wp/the-robert-burns-monument-kay-.jpg"
   ],
-  "updatedAt": "2026-06-22T21:04:07.463Z"
+  "updatedAt": "2026-06-22T21:04:07.463Z",
+  "narration": {
+    "files": [
+      "gcuu-burns-monument-kilmarnock-flight-context.mp3",
+      "gcuu-burns-monument-kilmarnock-intro.mp3",
+      "gcuu-burns-monument-kilmarnock-subscriptions-and-a-stone.mp3",
+      "gcuu-burns-monument-kilmarnock-the-fire-of-2004.mp3",
+      "gcuu-burns-monument-kilmarnock-the-carbuncle-question.mp3",
+      "gcuu-burns-monument-kilmarnock-what-burns-would-have-made-of-it.mp3"
+    ],
+    "durations": {
+      "gcuu-burns-monument-kilmarnock-flight-context.mp3": 52.5957916,
+      "gcuu-burns-monument-kilmarnock-intro.mp3": 42.691,
+      "gcuu-burns-monument-kilmarnock-subscriptions-and-a-stone.mp3": 58.603125,
+      "gcuu-burns-monument-kilmarnock-the-fire-of-2004.mp3": 58.7684166,
+      "gcuu-burns-monument-kilmarnock-the-carbuncle-question.mp3": 56.4795833,
+      "gcuu-burns-monument-kilmarnock-what-burns-would-have-made-of-it.mp3": 59.5117083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

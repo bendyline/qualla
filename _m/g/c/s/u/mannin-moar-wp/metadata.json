@@ -24,7 +24,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "mannin-moar-wp",
-    "sourceGeohash4": "gcsu"
+    "sourceGeohash4": "gcsu",
+    "smallPath": "_m/g/c/s/u/mannin-moar-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Circuit-douglas-1933.png",
@@ -53,5 +54,24 @@
     "sourceGeohash4": "gcsu"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcsu-mannin-moar-flight-context.mp3",
+      "gcsu-mannin-moar-intro.mp3",
+      "gcsu-mannin-moar-the-loophole.mp3",
+      "gcsu-mannin-moar-riding-mechanics-reluctantly.mp3",
+      "gcsu-mannin-moar-faster-than-monaco.mp3",
+      "gcsu-mannin-moar-what-remained.mp3"
+    ],
+    "durations": {
+      "gcsu-mannin-moar-flight-context.mp3": 33.9325,
+      "gcsu-mannin-moar-intro.mp3": 39.4166666,
+      "gcsu-mannin-moar-the-loophole.mp3": 53.5713333,
+      "gcsu-mannin-moar-riding-mechanics-reluctantly.mp3": 41.3110833,
+      "gcsu-mannin-moar-faster-than-monaco.mp3": 60.162,
+      "gcsu-mannin-moar-what-remained.mp3": 56.5280416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

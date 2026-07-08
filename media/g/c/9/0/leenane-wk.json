@@ -23,7 +23,9 @@
           "Leenaun",
           "Photographs by Bert Kaufmann",
           "Taken with Canon EOS 400D"
-        ]
+        ],
+        "mediumPath": "_m/g/c/9/0/leenane-wk/hero-medium.webp",
+        "smallPath": "_m/g/c/9/0/leenane-wk/hero-small.webp"
       },
       "images": [
         {
@@ -48,7 +50,9 @@
             "Panoramas of Ireland",
             "Panoramas of fjords",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/0/leenane-wk/killary-harbour-16km-l-medium.webp",
+          "smallPath": "_m/g/c/9/0/leenane-wk/killary-harbour-16km-l-small.webp"
         },
         {
           "path": "_m/g/c/9/0/leenane-wk/mweelrea-se-spur-pt-47.jpg",
@@ -68,7 +72,8 @@
             "CC-BY-SA-4.0",
             "Mweelrea Mountains",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/0/leenane-wk/mweelrea-se-spur-pt-47-small.webp"
         },
         {
           "path": "_m/tpc/le/en/an/e_/leenane/leenaun-01.jpg",
@@ -645,7 +650,11 @@
         "_m/g/c/9/0/leenane-wk/gc90-leenane-the-field-and-the-cross.mp3",
         "_m/g/c/9/0/leenane-wk/gc90-leenane-maam-valley-and-mweelrea.mp3",
         "_m/g/c/9/0/leenane-wk/gc90-leenane-hamiltons-boats-and-the-western-way.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/9/0/leenane-wk/gc90-leenane-combined.mp3",
+      "combinedNarrationBytes": 3785468,
+      "combinedNarrationDuration": 305,
+      "combinedCover": "_m/g/c/9/0/leenane-wk/gc90-leenane-combined-cover.jpg"
     }
   }
 }

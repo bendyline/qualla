@@ -21,7 +21,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "raf-cark-wp",
-    "sourceGeohash4": "gctu"
+    "sourceGeohash4": "gctu",
+    "smallPath": "_m/g/c/t/u/raf-cark-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Miles M.25 Martinet TT MkI in flight.jpg",
@@ -47,5 +48,26 @@
     "sourceGeohash4": "gctu"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gctu-raf-cark-flight-context.mp3",
+      "gctu-raf-cark-intro.mp3",
+      "gctu-raf-cark-a-fighter-station-on-the-north-coast.mp3",
+      "gctu-raf-cark-from-fighting-to-training.mp3",
+      "gctu-raf-cark-a-crowded-logbook.mp3",
+      "gctu-raf-cark-wind-down-and-quiet-closure.mp3",
+      "gctu-raf-cark-silk-above-the-bay.mp3"
+    ],
+    "durations": {
+      "gctu-raf-cark-flight-context.mp3": 58.047125,
+      "gctu-raf-cark-intro.mp3": 30.874125,
+      "gctu-raf-cark-a-fighter-station-on-the-north-coast.mp3": 44.3833333,
+      "gctu-raf-cark-from-fighting-to-training.mp3": 55.5264583,
+      "gctu-raf-cark-a-crowded-logbook.mp3": 68.9725,
+      "gctu-raf-cark-wind-down-and-quiet-closure.mp3": 38.7842916,
+      "gctu-raf-cark-silk-above-the-bay.mp3": 56.5764583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

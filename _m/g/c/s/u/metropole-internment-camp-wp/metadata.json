@@ -25,7 +25,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "metropole-internment-camp-wp",
-    "sourceGeohash4": "gcsu"
+    "sourceGeohash4": "gcsu",
+    "smallPath": "_m/g/c/s/u/metropole-internment-camp-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "LocationDouglasIsleofMan.png",
@@ -79,11 +80,35 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "metropole-internment-camp-wp",
-      "sourceGeohash4": "gcsu"
+      "sourceGeohash4": "gcsu",
+      "smallPath": "_m/g/c/s/u/metropole-internment-camp-wp/metropole-mansions-queen-s-par-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/s/u/metropole-internment-camp-wp/metropole-mansions-queen-s-par.jpg"
   ],
-  "updatedAt": "2026-06-22T13:57:44.193Z"
+  "updatedAt": "2026-06-22T13:57:44.193Z",
+  "narration": {
+    "files": [
+      "gcsu-metropole-internment-camp-flight-context.mp3",
+      "gcsu-metropole-internment-camp-intro.mp3",
+      "gcsu-metropole-internment-camp-wire-around-the-promenade.mp3",
+      "gcsu-metropole-internment-camp-the-stable.mp3",
+      "gcsu-metropole-internment-camp-how-they-lived.mp3",
+      "gcsu-metropole-internment-camp-their-own-money.mp3",
+      "gcsu-metropole-internment-camp-escapes-mostly-pointless.mp3",
+      "gcsu-metropole-internment-camp-closed-but-not-forgotten.mp3"
+    ],
+    "durations": {
+      "gcsu-metropole-internment-camp-flight-context.mp3": 40.3509583,
+      "gcsu-metropole-internment-camp-intro.mp3": 36.8307083,
+      "gcsu-metropole-internment-camp-wire-around-the-promenade.mp3": 58.663125,
+      "gcsu-metropole-internment-camp-the-stable.mp3": 44.3293333,
+      "gcsu-metropole-internment-camp-how-they-lived.mp3": 67.6315,
+      "gcsu-metropole-internment-camp-their-own-money.mp3": 57.6200833,
+      "gcsu-metropole-internment-camp-escapes-mostly-pointless.mp3": 67.625875,
+      "gcsu-metropole-internment-camp-closed-but-not-forgotten.mp3": 68.4657083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -121,5 +121,26 @@
     "_m/g/c/t/p/kirkcudbright-wp/maclellan-s-castle-exterior-2-.jpg",
     "_m/g/c/t/p/kirkcudbright-wp/broughton-house-kirkcudbright.jpg"
   ],
-  "updatedAt": "2026-03-20T14:53:20.316Z"
+  "updatedAt": "2026-03-20T14:53:20.316Z",
+  "narration": {
+    "files": [
+      "gctp-kirkcudbright-flight-context.mp3",
+      "gctp-kirkcudbright-intro.mp3",
+      "gctp-kirkcudbright-the-chapel-of-cuthbert.mp3",
+      "gctp-kirkcudbright-royalty-in-flight.mp3",
+      "gctp-kirkcudbright-the-artists-arrive.mp3",
+      "gctp-kirkcudbright-tolbooth-town-hall-tarmac.mp3",
+      "gctp-kirkcudbright-on-screen-in-song-in-print.mp3"
+    ],
+    "durations": {
+      "gctp-kirkcudbright-flight-context.mp3": 51.901625,
+      "gctp-kirkcudbright-intro.mp3": 52.4309166,
+      "gctp-kirkcudbright-the-chapel-of-cuthbert.mp3": 48.303875,
+      "gctp-kirkcudbright-royalty-in-flight.mp3": 55.7981666,
+      "gctp-kirkcudbright-the-artists-arrive.mp3": 63.60425,
+      "gctp-kirkcudbright-tolbooth-town-hall-tarmac.mp3": 48.9571666,
+      "gctp-kirkcudbright-on-screen-in-song-in-print.mp3": 58.2799583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

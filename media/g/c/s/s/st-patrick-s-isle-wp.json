@@ -68,7 +68,8 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "St Patrick's Isle"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/s/st-patrick-s-isle-wp/northwest-coast-of-st-patrick--small.webp"
         },
         {
           "path": "_m/g/c/s/s/st-patrick-s-isle-wp/rock-formation-below-peel-cast.jpg",
@@ -90,7 +91,8 @@
             "Images from Geograph Britain and Ireland",
             "Information field template with formatting",
             "St Patrick's Isle"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/s/st-patrick-s-isle-wp/rock-formation-below-peel-cast-small.webp"
         },
         {
           "path": "_m/g/c/s/s/st-patrick-s-isle-wp/peel-2023-05-05-04.jpg",
@@ -113,7 +115,9 @@
             "St Patrick's Isle",
             "Uploaded with OpenRefine",
             "Uploaded with pattypan"
-          ]
+          ],
+          "mediumPath": "_m/g/c/s/s/st-patrick-s-isle-wp/peel-2023-05-05-04-medium.webp",
+          "smallPath": "_m/g/c/s/s/st-patrick-s-isle-wp/peel-2023-05-05-04-small.webp"
         },
         {
           "path": "_m/g/c/s/s/st-patrick-s-isle-wp/sea-caves-under-peel-castle-ge.jpg",
@@ -135,7 +139,8 @@
             "Peel Castle",
             "Sea caves of the United Kingdom",
             "St Patrick's Isle"
-          ]
+          ],
+          "smallPath": "_m/g/c/s/s/st-patrick-s-isle-wp/sea-caves-under-peel-castle-ge-small.webp"
         },
         {
           "path": "_m/g/c/s/u/isle-of-man-wp/laxey-wheel-1.jpg",
@@ -242,7 +247,18 @@
           "sourceArticleId": "isle-of-man-wp",
           "sourceGeohash4": "gcsu"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/s/s/st-patrick-s-isle-wp/gcss-st-patricks-isle-flight-context.mp3",
+        "_m/g/c/s/s/st-patrick-s-isle-wp/gcss-st-patricks-isle-intro.mp3",
+        "_m/g/c/s/s/st-patrick-s-isle-wp/gcss-st-patricks-isle-where-patrick-set-foot.mp3",
+        "_m/g/c/s/s/st-patrick-s-isle-wp/gcss-st-patricks-isle-cathedral-of-a-sea-bishopric.mp3",
+        "_m/g/c/s/s/st-patrick-s-isle-wp/gcss-st-patricks-isle-fortress-sanctuary-sealife-reserve.mp3"
+      ],
+      "combinedNarration": "_m/g/c/s/s/st-patrick-s-isle-wp/gcss-st-patrick-s-isle-combined.mp3",
+      "combinedNarrationBytes": 3388608,
+      "combinedNarrationDuration": 272,
+      "combinedCover": "_m/g/c/s/s/st-patrick-s-isle-wp/gcss-st-patrick-s-isle-combined-cover.jpg"
     }
   }
 }

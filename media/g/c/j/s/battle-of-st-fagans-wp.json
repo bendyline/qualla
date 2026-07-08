@@ -23,7 +23,9 @@
           "Images with extracted images",
           "Self-published work",
           "St Fagans National Museum of History"
-        ]
+        ],
+        "mediumPath": "_m/g/c/j/s/battle-of-st-fagans-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/j/s/battle-of-st-fagans-wp/hero-small.webp"
       },
       "images": [
         {
@@ -74,7 +76,8 @@
             "National Library of Wales Portrait Archive",
             "PD-old missing SDC copyright status",
             "Uploaded with pattypan"
-          ]
+          ],
+          "smallPath": "_m/g/c/j/s/battle-of-st-fagans-wp/portrait-welsh-portrai-small.webp"
         }
       ],
       "narration": [
@@ -86,7 +89,11 @@
         "_m/g/c/j/s/battle-of-st-fagans-wp/gcjs-battle-of-st-fagans-the-rout.mp3",
         "_m/g/c/j/s/battle-of-st-fagans-wp/gcjs-battle-of-st-fagans-cromwells-hard-spring.mp3",
         "_m/g/c/j/s/battle-of-st-fagans-wp/gcjs-battle-of-st-fagans-the-quiet-village-now.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/j/s/battle-of-st-fagans-wp/gcjs-battle-of-st-fagans-combined.mp3",
+      "combinedNarrationBytes": 5316238,
+      "combinedNarrationDuration": 426,
+      "combinedCover": "_m/g/c/j/s/battle-of-st-fagans-wp/gcjs-battle-of-st-fagans-combined-cover.jpg"
     }
   }
 }

@@ -42,12 +42,32 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "ardrossan-wp",
-      "sourceGeohash4": "gcus"
+      "sourceGeohash4": "gcus",
+      "smallPath": "_m/g/c/u/s/ardrossan-wp/montfode-castle-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/u/s/ardrossan-wp/ardrossancastle1.jpg",
     "_m/g/c/u/s/ardrossan-wp/montfode-castle.jpg"
   ],
-  "updatedAt": "2026-06-22T19:03:53.958Z"
+  "updatedAt": "2026-06-22T19:03:53.958Z",
+  "narration": {
+    "files": [
+      "gcus-ardrossan-flight-context.mp3",
+      "gcus-ardrossan-intro.mp3",
+      "gcus-ardrossan-cannon-hill-and-the-beginnings.mp3",
+      "gcus-ardrossan-coal-iron-and-a-failed-canal.mp3",
+      "gcus-ardrossan-the-three-towns.mp3",
+      "gcus-ardrossan-famous-sons-the-ferry-and-uncertain-futures.mp3"
+    ],
+    "durations": {
+      "gcus-ardrossan-flight-context.mp3": 55.3159166,
+      "gcus-ardrossan-intro.mp3": 47.7220833,
+      "gcus-ardrossan-cannon-hill-and-the-beginnings.mp3": 61.6628333,
+      "gcus-ardrossan-coal-iron-and-a-failed-canal.mp3": 78.2997916,
+      "gcus-ardrossan-the-three-towns.mp3": 72.0436666,
+      "gcus-ardrossan-famous-sons-the-ferry-and-uncertain-futures.mp3": 73.2171666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

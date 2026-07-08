@@ -22,7 +22,8 @@
           "License migration completed",
           "Self-published work",
           "Windmill Theatre"
-        ]
+        ],
+        "smallPath": "_m/g/c/p/v/windmill-theatre-wp/hero-small.webp"
       },
       "images": [
         {
@@ -45,7 +46,8 @@
             "License migration completed",
             "Self-published work",
             "Windmill Theatre"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/windmill-theatre-wp/windmill-club-small.webp"
         },
         {
           "path": "_m/g/c/p/v/windmill-theatre-wp/the-windmill-of-soho.jpg",
@@ -66,7 +68,9 @@
             "Self-published work",
             "Taken with Pentax Optio E40",
             "Windmill Theatre"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/v/windmill-theatre-wp/the-windmill-of-soho-medium.webp",
+          "smallPath": "_m/g/c/p/v/windmill-theatre-wp/the-windmill-of-soho-small.webp"
         },
         {
           "path": "_m/g/c/p/v/windmill-theatre-wp/great-windmill-street-in-soho.jpg",
@@ -90,7 +94,9 @@
             "Self-published work",
             "Soho, London in 2026",
             "Windmill Theatre"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/v/windmill-theatre-wp/great-windmill-street-in-soho-medium.webp",
+          "smallPath": "_m/g/c/p/v/windmill-theatre-wp/great-windmill-street-in-soho-small.webp"
         }
       ],
       "narration": [
@@ -101,7 +107,11 @@
         "_m/g/c/p/v/windmill-theatre-wp/gcpv-windmill-theatre-we-never-closed.mp3",
         "_m/g/c/p/v/windmill-theatre-wp/gcpv-windmill-theatre-a-comedians-academy.mp3",
         "_m/g/c/p/v/windmill-theatre-wp/gcpv-windmill-theatre-after-mrs-henderson.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/p/v/windmill-theatre-wp/gcpv-windmill-theatre-combined.mp3",
+      "combinedNarrationBytes": 4855690,
+      "combinedNarrationDuration": 396,
+      "combinedCover": "_m/g/c/p/v/windmill-theatre-wp/gcpv-windmill-theatre-combined-cover.jpg"
     }
   }
 }

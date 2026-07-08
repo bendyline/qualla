@@ -15,7 +15,9 @@
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fly_fishing,_River_Moy,_Ballina,_Mayo,_Ireland.jpg",
         "sourceType": "core",
         "sourceArticleId": "connacht-wp",
-        "sourceGeohash4": "gc99"
+        "sourceGeohash4": "gc99",
+        "mediumPath": "_m/g/c/9/9/connacht-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/9/9/connacht-wp/hero-small.webp"
       },
       "images": [
         {
@@ -42,7 +44,8 @@
             "Media missing infobox template",
             "PD-old missing SDC copyright status",
             "PD Old"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/9/connacht-wp/old-galway-small.webp"
         },
         {
           "path": "_m/g/c/9/9/connacht-wp/glencar-waterfall-2002.jpg",
@@ -63,7 +66,8 @@
             "Glencar Waterfall",
             "June 2002 in Ireland",
             "PD-author"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/9/connacht-wp/glencar-waterfall-2002-small.webp"
         },
         {
           "path": "_m/g/c/9/9/connacht-wp/castlebar-large-view-from-abov.jpg",
@@ -108,7 +112,8 @@
             "Maps of the history of Ireland",
             "PD-user",
             "Pages using ISBN magic links"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/9/connacht-wp/ireland-early-peoples-small.gif"
         },
         {
           "path": "_m/g/c/9/9/connacht-wp/stone-carving-rory-o-c.jpg",
@@ -152,7 +157,9 @@
             "Flickr images uploaded by Flickr upload bot",
             "Republic of Ireland photographs taken on 2008-09-24",
             "Taken with Canon EOS 400D"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/9/connacht-wp/family-names-coats-arm-medium.webp",
+          "smallPath": "_m/g/c/9/9/connacht-wp/family-names-coats-arm-small.webp"
         },
         {
           "path": "_m/g/c/9/9/connacht-wp/county-sligo-carrowmor.jpg",
@@ -167,7 +174,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:County_Sligo_-_Carrowmore_Passage_Tomb_-_20181022224551.jpg",
           "sourceType": "core",
           "sourceArticleId": "connacht-wp",
-          "sourceGeohash4": "gc99"
+          "sourceGeohash4": "gc99",
+          "smallPath": "_m/g/c/9/9/connacht-wp/county-sligo-carrowmor-small.webp"
         },
         {
           "path": "_m/g/c/9/9/connacht-wp/photo-sligo-harbour-lo.jpg",
@@ -182,7 +190,8 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sligo_Harbour_2020.jpg",
           "sourceType": "core",
           "sourceArticleId": "connacht-wp",
-          "sourceGeohash4": "gc99"
+          "sourceGeohash4": "gc99",
+          "smallPath": "_m/g/c/9/9/connacht-wp/photo-sligo-harbour-lo-small.webp"
         },
         {
           "path": "_m/g/c/9/9/connacht-wp/swconnacht.gif",
@@ -206,7 +215,8 @@
             "Partraige",
             "Self-published work",
             "Uploaded with en.wp upload wizard"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/9/connacht-wp/swconnacht-small.gif"
         },
         {
           "path": "_m/g/c/9/9/connacht-wp/sir-conyers-clifford.jpg",
@@ -235,7 +245,8 @@
             "PD US unpublished",
             "Pembroke, Pembrokeshire",
             "Template Unknown (author)"
-          ]
+          ],
+          "smallPath": "_m/g/c/9/9/connacht-wp/sir-conyers-clifford-small.webp"
         },
         {
           "path": "_m/g/c/9/9/connacht-wp/the-province-of-connaugh-with-.jpg",
@@ -260,7 +271,9 @@
             "PD-US missing SDC copyright status",
             "PD France",
             "PD US expired"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/9/connacht-wp/the-province-of-connaugh-with--medium.webp",
+          "smallPath": "_m/g/c/9/9/connacht-wp/the-province-of-connaugh-with--small.webp"
         },
         {
           "path": "_m/g/c/9/9/connacht-wp/the-province-of-connaugh-with--1.jpg",
@@ -285,7 +298,9 @@
             "PD-US missing SDC copyright status",
             "PD France",
             "PD US expired"
-          ]
+          ],
+          "mediumPath": "_m/g/c/9/9/connacht-wp/the-province-of-connaugh-with--1-medium.webp",
+          "smallPath": "_m/g/c/9/9/connacht-wp/the-province-of-connaugh-with--1-small.webp"
         },
         {
           "path": "_m/tpc/co/nn/ac/ht/connacht/ireland-cliffs-of-moher1.jpg",
@@ -794,7 +809,11 @@
         "_m/g/c/9/9/connacht-wp/gc99-connacht-the-famine-that-hit-hardest-here.mp3",
         "_m/g/c/9/9/connacht-wp/gc99-connacht-the-surviving-irish.mp3",
         "_m/g/c/9/9/connacht-wp/gc99-connacht-aughrim-and-after.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/9/9/connacht-wp/gc99-connacht-combined.mp3",
+      "combinedNarrationBytes": 4583071,
+      "combinedNarrationDuration": 374,
+      "combinedCover": "_m/g/c/9/9/connacht-wp/gc99-connacht-combined-cover.jpg"
     }
   }
 }

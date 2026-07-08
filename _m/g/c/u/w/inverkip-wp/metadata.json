@@ -47,11 +47,34 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "inverkip-wp",
-      "sourceGeohash4": "gcuw"
+      "sourceGeohash4": "gcuw",
+      "mediumPath": "_m/g/c/u/w/inverkip-wp/wemyss-bay-railway-station-con-medium.webp",
+      "smallPath": "_m/g/c/u/w/inverkip-wp/wemyss-bay-railway-station-con-small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/u/w/inverkip-wp/wemyss-bay-railway-station-con.jpg"
   ],
-  "updatedAt": "2026-06-22T22:46:49.109Z"
+  "updatedAt": "2026-06-22T22:46:49.109Z",
+  "narration": {
+    "files": [
+      "gcuw-inverkip-flight-context.mp3",
+      "gcuw-inverkip-intro.mp3",
+      "gcuw-inverkip-the-witch-hunts.mp3",
+      "gcuw-inverkip-smugglers-and-cholera.mp3",
+      "gcuw-inverkip-ardgowan-and-robert-the-bruce.mp3",
+      "gcuw-inverkip-the-cut-and-the-power-station.mp3",
+      "gcuw-inverkip-kip-marina-and-the-modern-village.mp3"
+    ],
+    "durations": {
+      "gcuw-inverkip-flight-context.mp3": 49.3235,
+      "gcuw-inverkip-intro.mp3": 41.6515833,
+      "gcuw-inverkip-the-witch-hunts.mp3": 69.5556666,
+      "gcuw-inverkip-smugglers-and-cholera.mp3": 53.6919583,
+      "gcuw-inverkip-ardgowan-and-robert-the-bruce.mp3": 63.47525,
+      "gcuw-inverkip-the-cut-and-the-power-station.mp3": 71.140875,
+      "gcuw-inverkip-kip-marina-and-the-modern-village.mp3": 67.3771666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -23,7 +23,9 @@
           "License migration redundant",
           "Self-published work",
           "Taken with Canon EOS 5D Mark III"
-        ]
+        ],
+        "mediumPath": "_m/g/c/u/w/hms-k13-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/u/w/hms-k13-wp/hero-small.webp"
       },
       "images": [
         {
@@ -46,7 +48,9 @@
             "HMS K22",
             "Self-published work",
             "Taken with Fujifilm FinePix S1000fd"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/w/hms-k13-wp/memorial-british-subma-medium.webp",
+          "smallPath": "_m/g/c/u/w/hms-k13-wp/memorial-british-subma-small.webp"
         },
         {
           "path": "_m/g/c/u/w/hms-k13-wp/sujet-sous-marins-gran.jpg",
@@ -75,9 +79,24 @@
             "PD France",
             "PD US expired",
             "Photographs by Agence Rol in the Bibliothèque nationale de France"
-          ]
+          ],
+          "mediumPath": "_m/g/c/u/w/hms-k13-wp/sujet-sous-marins-gran-medium.webp",
+          "smallPath": "_m/g/c/u/w/hms-k13-wp/sujet-sous-marins-gran-small.webp"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/u/w/hms-k13-wp/gcuw-hms-k13-flight-context.mp3",
+        "_m/g/c/u/w/hms-k13-wp/gcuw-hms-k13-intro.mp3",
+        "_m/g/c/u/w/hms-k13-wp/gcuw-hms-k13-a-submarine-with-two-funnels.mp3",
+        "_m/g/c/u/w/hms-k13-wp/gcuw-hms-k13-the-dive.mp3",
+        "_m/g/c/u/w/hms-k13-wp/gcuw-hms-k13-the-witnesses.mp3",
+        "_m/g/c/u/w/hms-k13-wp/gcuw-hms-k13-fifty-seven-hours.mp3",
+        "_m/g/c/u/w/hms-k13-wp/gcuw-hms-k13-the-memorials.mp3"
+      ],
+      "combinedNarration": "_m/g/c/u/w/hms-k13-wp/gcuw-hms-k13-combined.mp3",
+      "combinedNarrationBytes": 4033945,
+      "combinedNarrationDuration": 332,
+      "combinedCover": "_m/g/c/u/w/hms-k13-wp/gcuw-hms-k13-combined-cover.jpg"
     }
   }
 }

@@ -15,7 +15,9 @@
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:GLASGOW_SUBWAY_BUCHANAN_STREET_SCOTLAND_SEP_2013_(9689698808).jpg",
         "sourceType": "core",
         "sourceArticleId": "glasgow-subway-wp",
-        "sourceGeohash4": "gcuv"
+        "sourceGeohash4": "gcuv",
+        "mediumPath": "_m/g/c/u/v/glasgow-subway-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/u/v/glasgow-subway-wp/hero-small.webp"
       },
       "images": [
         {
@@ -42,7 +44,8 @@
             "Metro Cammell Glasgow Subway rolling stock in Strathclyde red livery",
             "United Kingdom photographs taken on 2004-05-07",
             "West Street subway station"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/v/glasgow-subway-wp/electric-clockwork-ora-small.webp"
         },
         {
           "path": "_m/g/c/u/v/glasgow-subway-wp/first-glasgow-volvo-b9.jpg",
@@ -98,7 +101,8 @@
             "Partick Cross, Glasgow",
             "Underground station entrances in the United Kingdom",
             "United Kingdom photographs taken on 2006-11-17"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/v/glasgow-subway-wp/entrance-kelvinhall-su-small.webp"
         },
         {
           "path": "_m/g/c/u/v/glasgow-subway-wp/partick-subway-station.jpg",
@@ -120,7 +124,8 @@
             "License migration completed",
             "Partick subway station",
             "Self-published work"
-          ]
+          ],
+          "smallPath": "_m/g/c/u/v/glasgow-subway-wp/partick-subway-station-small.webp"
         },
         {
           "path": "_m/g/c/u/v/glasgow-subway-wp/class-380-380101-platf.jpg",
@@ -150,7 +155,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Recreated_Glasgow_Subway_entrance_at_the_Riverside_Museum.JPG",
           "sourceType": "core",
           "sourceArticleId": "glasgow-subway-wp",
-          "sourceGeohash4": "gcuv"
+          "sourceGeohash4": "gcuv",
+          "mediumPath": "_m/g/c/u/v/glasgow-subway-wp/recreated-glasgow-subw-medium.webp",
+          "smallPath": "_m/g/c/u/v/glasgow-subway-wp/recreated-glasgow-subw-small.webp"
         },
         {
           "path": "_m/g/c/u/v/glasgow-subway-wp/glasgow-subway-stadler.jpg",
@@ -165,7 +172,9 @@
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glasgow_Subway_Stadler_unit_at_West_Street_160624_(53795597366).jpg",
           "sourceType": "core",
           "sourceArticleId": "glasgow-subway-wp",
-          "sourceGeohash4": "gcuv"
+          "sourceGeohash4": "gcuv",
+          "mediumPath": "_m/g/c/u/v/glasgow-subway-wp/glasgow-subway-stadler-medium.webp",
+          "smallPath": "_m/g/c/u/v/glasgow-subway-wp/glasgow-subway-stadler-small.webp"
         },
         {
           "path": "_m/g/c/u/v/glasgow-subway-wp/glasgow-subway-stadler.jpg",
@@ -1257,7 +1266,19 @@
           "sourceArticleId": "glasgow-wk",
           "sourceGeohash4": "gcuv"
         }
-      ]
+      ],
+      "narration": [
+        "_m/g/c/u/v/glasgow-subway-wp/gcuv-glasgow-subway-flight-context.mp3",
+        "_m/g/c/u/v/glasgow-subway-wp/gcuv-glasgow-subway-intro.mp3",
+        "_m/g/c/u/v/glasgow-subway-wp/gcuv-glasgow-subway-built-for-one-loop.mp3",
+        "_m/g/c/u/v/glasgow-subway-wp/gcuv-glasgow-subway-cable-to-current.mp3",
+        "_m/g/c/u/v/glasgow-subway-wp/gcuv-glasgow-subway-modernisation-and-the-orange-years.mp3",
+        "_m/g/c/u/v/glasgow-subway-wp/gcuv-glasgow-subway-driverless-and-still-going.mp3"
+      ],
+      "combinedNarration": "_m/g/c/u/v/glasgow-subway-wp/gcuv-glasgow-subway-combined.mp3",
+      "combinedNarrationBytes": 4584737,
+      "combinedNarrationDuration": 376,
+      "combinedCover": "_m/g/c/u/v/glasgow-subway-wp/gcuv-glasgow-subway-combined-cover.jpg"
     }
   }
 }

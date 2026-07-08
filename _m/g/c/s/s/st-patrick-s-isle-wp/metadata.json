@@ -103,7 +103,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "st-patrick-s-isle-wp",
-      "sourceGeohash4": "gcss"
+      "sourceGeohash4": "gcss",
+      "smallPath": "_m/g/c/s/s/st-patrick-s-isle-wp/northwest-coast-of-st-patrick--small.webp"
     },
     {
       "filename": "Rock formation below Peel Castle - geograph.org.uk - 1420177.jpg",
@@ -127,7 +128,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "st-patrick-s-isle-wp",
-      "sourceGeohash4": "gcss"
+      "sourceGeohash4": "gcss",
+      "smallPath": "_m/g/c/s/s/st-patrick-s-isle-wp/rock-formation-below-peel-cast-small.webp"
     },
     {
       "filename": "Peel (2023-05-05) 04.jpg",
@@ -152,7 +154,9 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "st-patrick-s-isle-wp",
-      "sourceGeohash4": "gcss"
+      "sourceGeohash4": "gcss",
+      "mediumPath": "_m/g/c/s/s/st-patrick-s-isle-wp/peel-2023-05-05-04-medium.webp",
+      "smallPath": "_m/g/c/s/s/st-patrick-s-isle-wp/peel-2023-05-05-04-small.webp"
     },
     {
       "filename": "Sea caves under Peel Castle - geograph.org.uk - 5100897.jpg",
@@ -176,7 +180,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "st-patrick-s-isle-wp",
-      "sourceGeohash4": "gcss"
+      "sourceGeohash4": "gcss",
+      "smallPath": "_m/g/c/s/s/st-patrick-s-isle-wp/sea-caves-under-peel-castle-ge-small.webp"
     }
   ],
   "galleryPaths": [
@@ -186,5 +191,22 @@
     "_m/g/c/s/s/st-patrick-s-isle-wp/peel-2023-05-05-04.jpg",
     "_m/g/c/s/s/st-patrick-s-isle-wp/sea-caves-under-peel-castle-ge.jpg"
   ],
-  "updatedAt": "2026-06-22T13:06:27.111Z"
+  "updatedAt": "2026-06-22T13:06:27.111Z",
+  "narration": {
+    "files": [
+      "gcss-st-patricks-isle-flight-context.mp3",
+      "gcss-st-patricks-isle-intro.mp3",
+      "gcss-st-patricks-isle-where-patrick-set-foot.mp3",
+      "gcss-st-patricks-isle-cathedral-of-a-sea-bishopric.mp3",
+      "gcss-st-patricks-isle-fortress-sanctuary-sealife-reserve.mp3"
+    ],
+    "durations": {
+      "gcss-st-patricks-isle-flight-context.mp3": 48.7252083,
+      "gcss-st-patricks-isle-intro.mp3": 53.6308333,
+      "gcss-st-patricks-isle-where-patrick-set-foot.mp3": 64.9541666,
+      "gcss-st-patricks-isle-cathedral-of-a-sea-bishopric.mp3": 76.1314583,
+      "gcss-st-patricks-isle-fortress-sanctuary-sealife-reserve.mp3": 77.417875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

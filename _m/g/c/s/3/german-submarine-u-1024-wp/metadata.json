@@ -47,5 +47,24 @@
     "sourceGeohash4": "gcs3"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcs3-german-submarine-u-1024-flight-context.mp3",
+      "gcs3-german-submarine-u-1024-intro.mp3",
+      "gcs3-german-submarine-u-1024-hamburg-1943-1944.mp3",
+      "gcs3-german-submarine-u-1024-the-last-patrol.mp3",
+      "gcs3-german-submarine-u-1024-forced-to-the-surface.mp3",
+      "gcs3-german-submarine-u-1024-lost-under-tow.mp3"
+    ],
+    "durations": {
+      "gcs3-german-submarine-u-1024-flight-context.mp3": 66.96425,
+      "gcs3-german-submarine-u-1024-intro.mp3": 44.8163333,
+      "gcs3-german-submarine-u-1024-hamburg-1943-1944.mp3": 57.2953333,
+      "gcs3-german-submarine-u-1024-the-last-patrol.mp3": 47.1851666,
+      "gcs3-german-submarine-u-1024-forced-to-the-surface.mp3": 48.6873333,
+      "gcs3-german-submarine-u-1024-lost-under-tow.mp3": 59.1750416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

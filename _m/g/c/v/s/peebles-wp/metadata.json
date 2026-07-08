@@ -26,7 +26,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "peebles-wp",
-      "sourceGeohash4": "gcvs"
+      "sourceGeohash4": "gcvs",
+      "mediumPath": "_m/g/c/v/s/peebles-wp/tweed-bridge-peebles-medium.webp",
+      "smallPath": "_m/g/c/v/s/peebles-wp/tweed-bridge-peebles-small.webp"
     },
     {
       "filename": "Traquair House courtyard with warrior.jpg",
@@ -58,12 +60,35 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "peebles-wp",
-      "sourceGeohash4": "gcvs"
+      "sourceGeohash4": "gcvs",
+      "mediumPath": "_m/g/c/v/s/peebles-wp/traquair-house-courtyard-with--medium.webp",
+      "smallPath": "_m/g/c/v/s/peebles-wp/traquair-house-courtyard-with--small.webp"
     }
   ],
   "galleryPaths": [
     "_m/g/c/v/s/peebles-wp/tweed-bridge-peebles.jpg",
     "_m/g/c/v/s/peebles-wp/traquair-house-courtyard-with-.jpg"
   ],
-  "updatedAt": "2026-06-23T01:19:57.598Z"
+  "updatedAt": "2026-06-23T01:19:57.598Z",
+  "narration": {
+    "files": [
+      "gcvs-peebles-flight-context.mp3",
+      "gcvs-peebles-intro.mp3",
+      "gcvs-peebles-a-confluence-and-a-word-for-tents.mp3",
+      "gcvs-peebles-the-church-the-soldiers-tore-down.mp3",
+      "gcvs-peebles-the-mills-and-the-hydropaths.mp3",
+      "gcvs-peebles-the-plaque-on-tweed-green.mp3",
+      "gcvs-peebles-what-the-town-holds-now.mp3"
+    ],
+    "durations": {
+      "gcvs-peebles-flight-context.mp3": 45.125875,
+      "gcvs-peebles-intro.mp3": 39.789,
+      "gcvs-peebles-a-confluence-and-a-word-for-tents.mp3": 60.544625,
+      "gcvs-peebles-the-church-the-soldiers-tore-down.mp3": 53.2869583,
+      "gcvs-peebles-the-mills-and-the-hydropaths.mp3": 59.3860416,
+      "gcvs-peebles-the-plaque-on-tweed-green.mp3": 57.9649583,
+      "gcvs-peebles-what-the-town-holds-now.mp3": 70.0072083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

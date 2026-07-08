@@ -25,7 +25,8 @@
           "PD-old missing SDC copyright status",
           "PD Old",
           "Textile printing"
-        ]
+        ],
+        "smallPath": "_m/g/c/p/u/merton-abbey-works-wp/hero-small.webp"
       },
       "images": [
         {
@@ -49,7 +50,8 @@
             "Public domain Ordnance Survey images",
             "Template Unknown (author)",
             "UK Government artistic works"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/u/merton-abbey-works-wp/merton-abbey-station-o-small.webp"
         },
         {
           "path": "_m/g/c/p/u/merton-abbey-works-wp/l-l-pocock-pond-at-merton-abbe.jpg",
@@ -77,7 +79,9 @@
             "PD-Art missing SDC copyright status",
             "PD-old-100-expired",
             "PD-old missing SDC copyright status"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/u/merton-abbey-works-wp/l-l-pocock-pond-at-merton-abbe-medium.webp",
+          "smallPath": "_m/g/c/p/u/merton-abbey-works-wp/l-l-pocock-pond-at-merton-abbe-small.webp"
         },
         {
           "path": "_m/g/c/p/u/merton-abbey-works-wp/morris-and-company-weaving-at-.jpg",
@@ -101,7 +105,8 @@
             "PD Old",
             "Power looms",
             "Textile mills in England"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/u/merton-abbey-works-wp/morris-and-company-weaving-at--small.webp"
         },
         {
           "path": "_m/g/c/p/u/merton-abbey-works-wp/illustratedexhibitor1852-merto.jpg",
@@ -123,7 +128,8 @@
             "Merton Abbey Works",
             "PD-1996",
             "Template Unknown (author)"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/u/merton-abbey-works-wp/illustratedexhibitor1852-merto-small.webp"
         }
       ],
       "narration": [
@@ -134,7 +140,11 @@
         "_m/g/c/p/u/merton-abbey-works-wp/gcpu-merton-abbey-works-indigo-discharge-and-wandle.mp3",
         "_m/g/c/p/u/merton-abbey-works-wp/gcpu-merton-abbey-works-toil-that-looked-like-pleasure.mp3",
         "_m/g/c/p/u/merton-abbey-works-wp/gcpu-merton-abbey-works-after-the-works.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/p/u/merton-abbey-works-wp/gcpu-merton-abbey-works-combined.mp3",
+      "combinedNarrationBytes": 4413792,
+      "combinedNarrationDuration": 359,
+      "combinedCover": "_m/g/c/p/u/merton-abbey-works-wp/gcpu-merton-abbey-works-combined-cover.jpg"
     }
   }
 }

@@ -22,7 +22,8 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "andreas-isle-of-man-wp",
-    "sourceGeohash4": "gcsv"
+    "sourceGeohash4": "gcsv",
+    "smallPath": "_m/g/c/s/v/andreas-isle-of-man-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Andreas & Jurby.jpg",
@@ -73,7 +74,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "andreas-isle-of-man-wp",
-      "sourceGeohash4": "gcsv"
+      "sourceGeohash4": "gcsv",
+      "smallPath": "_m/g/c/s/v/andreas-isle-of-man-wp/lane-to-andreas-church-geograp-small.webp"
     },
     {
       "filename": "The Grosvenor Inn - geograph.org.uk - 3406084.jpg",
@@ -95,7 +97,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "andreas-isle-of-man-wp",
-      "sourceGeohash4": "gcsv"
+      "sourceGeohash4": "gcsv",
+      "smallPath": "_m/g/c/s/v/andreas-isle-of-man-wp/the-grosvenor-inn-geograph-org-small.webp"
     },
     {
       "filename": "Field Gate ^ Kirk Andreas - geograph.org.uk - 3410280.jpg",
@@ -117,7 +120,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "andreas-isle-of-man-wp",
-      "sourceGeohash4": "gcsv"
+      "sourceGeohash4": "gcsv",
+      "smallPath": "_m/g/c/s/v/andreas-isle-of-man-wp/field-gate-kirk-andreas-geogra-small.webp"
     },
     {
       "filename": "A17 junction with A9 - geograph.org.uk - 4839041.jpg",
@@ -139,7 +143,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "andreas-isle-of-man-wp",
-      "sourceGeohash4": "gcsv"
+      "sourceGeohash4": "gcsv",
+      "smallPath": "_m/g/c/s/v/andreas-isle-of-man-wp/a17-junction-with-a9-geograph--small.webp"
     },
     {
       "filename": "Grosvenor Arms, Andreas - geograph.org.uk - 5060927.jpg",
@@ -161,7 +166,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "andreas-isle-of-man-wp",
-      "sourceGeohash4": "gcsv"
+      "sourceGeohash4": "gcsv",
+      "smallPath": "_m/g/c/s/v/andreas-isle-of-man-wp/grosvenor-arms-andreas-geograp-small.webp"
     },
     {
       "filename": "Clock, Andreas (6955905840).jpg",
@@ -184,7 +190,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "andreas-isle-of-man-wp",
-      "sourceGeohash4": "gcsv"
+      "sourceGeohash4": "gcsv",
+      "smallPath": "_m/g/c/s/v/andreas-isle-of-man-wp/clock-andreas-6955905840-small.webp"
     },
     {
       "filename": "Andreas School - geograph.org.uk - 7455830.jpg",
@@ -206,7 +213,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "andreas-isle-of-man-wp",
-      "sourceGeohash4": "gcsv"
+      "sourceGeohash4": "gcsv",
+      "smallPath": "_m/g/c/s/v/andreas-isle-of-man-wp/andreas-school-geograph-org-uk-small.webp"
     },
     {
       "filename": "Andreas Post Office - geograph.org.uk - 7455834.jpg",
@@ -228,7 +236,8 @@
       ],
       "sourceType": "commons-category",
       "sourceArticleId": "andreas-isle-of-man-wp",
-      "sourceGeohash4": "gcsv"
+      "sourceGeohash4": "gcsv",
+      "smallPath": "_m/g/c/s/v/andreas-isle-of-man-wp/andreas-post-office-geograph-o-small.webp"
     }
   ],
   "galleryPaths": [
@@ -241,5 +250,24 @@
     "_m/g/c/s/v/andreas-isle-of-man-wp/andreas-school-geograph-org-uk.jpg",
     "_m/g/c/s/v/andreas-isle-of-man-wp/andreas-post-office-geograph-o.jpg"
   ],
-  "updatedAt": "2026-06-22T14:14:04.329Z"
+  "updatedAt": "2026-06-22T14:14:04.329Z",
+  "narration": {
+    "files": [
+      "gcsv-andreas-isle-of-man-flight-context.mp3",
+      "gcsv-andreas-isle-of-man-intro.mp3",
+      "gcsv-andreas-isle-of-man-the-northern-plain.mp3",
+      "gcsv-andreas-isle-of-man-saint-andrews-stones.mp3",
+      "gcsv-andreas-isle-of-man-bell-tower-rectory-chapel.mp3",
+      "gcsv-andreas-isle-of-man-football-under-floodlights.mp3"
+    ],
+    "durations": {
+      "gcsv-andreas-isle-of-man-flight-context.mp3": 50.937125,
+      "gcsv-andreas-isle-of-man-intro.mp3": 42.1872916,
+      "gcsv-andreas-isle-of-man-the-northern-plain.mp3": 51.7686666,
+      "gcsv-andreas-isle-of-man-saint-andrews-stones.mp3": 67.2888333,
+      "gcsv-andreas-isle-of-man-bell-tower-rectory-chapel.mp3": 60.6395,
+      "gcsv-andreas-isle-of-man-football-under-floodlights.mp3": 67.044
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

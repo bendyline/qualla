@@ -21,7 +21,8 @@
           "Flickr images missing SDC published in",
           "Flickr images reviewed by FlickreviewR 2",
           "Scioto Trail State Park"
-        ]
+        ],
+        "smallPath": "_m/d/n/v/p/scioto-trail-state-park-wp/hero-small.webp"
       },
       "images": [
         {
@@ -50,7 +51,9 @@
             "Scioto Trail State Park",
             "Self-published work",
             "Volkswagen Jetta V"
-          ]
+          ],
+          "mediumPath": "_m/d/n/v/p/scioto-trail-state-park-wp/scenic-view-1-medium.webp",
+          "smallPath": "_m/d/n/v/p/scioto-trail-state-park-wp/scenic-view-1-small.webp"
         }
       ],
       "narration": [
@@ -60,7 +63,11 @@
         "_m/d/n/v/p/scioto-trail-state-park-wp/dnvp-scioto-trail-state-park-oaks-and-hemlocks.mp3",
         "_m/d/n/v/p/scioto-trail-state-park-wp/dnvp-scioto-trail-state-park-the-church-and-the-hermit.mp3",
         "_m/d/n/v/p/scioto-trail-state-park-wp/dnvp-scioto-trail-state-park-the-quiet-kind-of-ohio.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/d/n/v/p/scioto-trail-state-park-wp/dnvp-scioto-trail-state-park-combined.mp3",
+      "combinedNarrationBytes": 3118711,
+      "combinedNarrationDuration": 243,
+      "combinedCover": "_m/d/n/v/p/scioto-trail-state-park-wp/dnvp-scioto-trail-state-park-combined-cover.jpg"
     }
   }
 }

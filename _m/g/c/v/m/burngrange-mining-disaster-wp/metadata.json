@@ -22,7 +22,9 @@
     ],
     "sourceType": "core",
     "sourceArticleId": "burngrange-mining-disaster-wp",
-    "sourceGeohash4": "gcvm"
+    "sourceGeohash4": "gcvm",
+    "mediumPath": "_m/g/c/v/m/burngrange-mining-disaster-wp/hero-medium.webp",
+    "smallPath": "_m/g/c/v/m/burngrange-mining-disaster-wp/hero-small.webp"
   },
   "thumbnail": {
     "filename": "Memorial, West Calder.jpg",
@@ -49,5 +51,24 @@
     "sourceGeohash4": "gcvm"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcvm-burngrange-mining-disaster-flight-context.mp3",
+      "gcvm-burngrange-mining-disaster-intro.mp3",
+      "gcvm-burngrange-mining-disaster-the-mine-that-made-paraffin.mp3",
+      "gcvm-burngrange-mining-disaster-three-attempts-into-the-smoke.mp3",
+      "gcvm-burngrange-mining-disaster-what-brown-asked-for.mp3",
+      "gcvm-burngrange-mining-disaster-four-days.mp3"
+    ],
+    "durations": {
+      "gcvm-burngrange-mining-disaster-flight-context.mp3": 58.9467083,
+      "gcvm-burngrange-mining-disaster-intro.mp3": 70.8316666,
+      "gcvm-burngrange-mining-disaster-the-mine-that-made-paraffin.mp3": 64.0482083,
+      "gcvm-burngrange-mining-disaster-three-attempts-into-the-smoke.mp3": 61.3324166,
+      "gcvm-burngrange-mining-disaster-what-brown-asked-for.mp3": 59.9058333,
+      "gcvm-burngrange-mining-disaster-four-days.mp3": 67.9827916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

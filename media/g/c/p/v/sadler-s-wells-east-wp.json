@@ -24,7 +24,9 @@
           "Photographs by the wub",
           "Sadler's Wells East",
           "Self-published work"
-        ]
+        ],
+        "mediumPath": "_m/g/c/p/v/sadler-s-wells-east-wp/hero-medium.webp",
+        "smallPath": "_m/g/c/p/v/sadler-s-wells-east-wp/hero-small.webp"
       },
       "images": [
         {
@@ -46,7 +48,9 @@
             "Files with coordinates missing SDC location of creation (51° N, 1° W)",
             "Sadler's Wells East",
             "Self-published work"
-          ]
+          ],
+          "mediumPath": "_m/g/c/p/v/sadler-s-wells-east-wp/sadler-s-wells-east-medium.webp",
+          "smallPath": "_m/g/c/p/v/sadler-s-wells-east-wp/sadler-s-wells-east-small.webp"
         },
         {
           "path": "_m/g/c/p/v/sadler-s-wells-east-wp/sadler-s-wells-geograph-org-uk.jpg",
@@ -66,7 +70,8 @@
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland",
             "Sadler's Wells East"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/sadler-s-wells-east-wp/sadler-s-wells-geograph-org-uk-small.webp"
         },
         {
           "path": "_m/g/c/p/v/sadler-s-wells-east-wp/sadler-s-wells-geograph-org-uk-1.jpg",
@@ -86,7 +91,8 @@
             "CC-BY-SA-2.0",
             "Images from Geograph Britain and Ireland",
             "Sadler's Wells East"
-          ]
+          ],
+          "smallPath": "_m/g/c/p/v/sadler-s-wells-east-wp/sadler-s-wells-geograph-org-uk-1-small.webp"
         }
       ],
       "narration": [
@@ -96,7 +102,11 @@
         "_m/g/c/p/v/sadler-s-wells-east-wp/gcpv-sadlers-wells-east-opening-on-the-east-bank.mp3",
         "_m/g/c/p/v/sadler-s-wells-east-wp/gcpv-sadlers-wells-east-the-opening-programme.mp3",
         "_m/g/c/p/v/sadler-s-wells-east-wp/gcpv-sadlers-wells-east-an-extension-not-a-replacement.mp3"
-      ]
+      ],
+      "combinedNarration": "_m/g/c/p/v/sadler-s-wells-east-wp/gcpv-sadler-s-wells-east-combined.mp3",
+      "combinedNarrationBytes": 3385801,
+      "combinedNarrationDuration": 274,
+      "combinedCover": "_m/g/c/p/v/sadler-s-wells-east-wp/gcpv-sadler-s-wells-east-combined-cover.jpg"
     }
   }
 }

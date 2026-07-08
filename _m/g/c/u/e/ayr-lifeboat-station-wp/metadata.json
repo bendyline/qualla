@@ -53,5 +53,28 @@
     "sourceGeohash4": "gcue"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcue-ayr-lifeboat-station-flight-context.mp3",
+      "gcue-ayr-lifeboat-station-intro.mp3",
+      "gcue-ayr-lifeboat-station-first-boats-1803.mp3",
+      "gcue-ayr-lifeboat-station-the-rnli-arrives-1859.mp3",
+      "gcue-ayr-lifeboat-station-glasgow-workman.mp3",
+      "gcue-ayr-lifeboat-station-a-parade-for-a-boat.mp3",
+      "gcue-ayr-lifeboat-station-provost-steel-and-a-fisherman-named-murdoch.mp3",
+      "gcue-ayr-lifeboat-station-the-end-1932.mp3"
+    ],
+    "durations": {
+      "gcue-ayr-lifeboat-station-flight-context.mp3": 48.8731666,
+      "gcue-ayr-lifeboat-station-intro.mp3": 45.9162916,
+      "gcue-ayr-lifeboat-station-first-boats-1803.mp3": 44.352375,
+      "gcue-ayr-lifeboat-station-the-rnli-arrives-1859.mp3": 51.513375,
+      "gcue-ayr-lifeboat-station-glasgow-workman.mp3": 57.1325833,
+      "gcue-ayr-lifeboat-station-a-parade-for-a-boat.mp3": 69.0339166,
+      "gcue-ayr-lifeboat-station-provost-steel-and-a-fisherman-named-murdoch.mp3": 49.0974166,
+      "gcue-ayr-lifeboat-station-the-end-1932.mp3": 57.576
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

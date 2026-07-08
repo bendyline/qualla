@@ -26,7 +26,9 @@
       ],
       "sourceType": "poi",
       "sourceArticleId": "drummore-wp",
-      "sourceGeohash4": "gcsx"
+      "sourceGeohash4": "gcsx",
+      "mediumPath": "_m/g/c/s/x/drummore-wp/drummore-banner-mull-of-gallow-medium.webp",
+      "smallPath": "_m/g/c/s/x/drummore-wp/drummore-banner-mull-of-gallow-small.webp"
     },
     {
       "filename": "Logan Botanic Gardens (44359722754).jpg",
@@ -56,5 +58,26 @@
     "_m/g/c/s/x/drummore-wp/drummore-banner-mull-of-gallow.jpg",
     "_m/g/c/s/x/drummore-wp/logan-botanic-gardens-44359722.jpg"
   ],
-  "updatedAt": "2026-06-22T12:43:17.692Z"
+  "updatedAt": "2026-06-22T12:43:17.692Z",
+  "narration": {
+    "files": [
+      "gcsx-drummore-flight-context.mp3",
+      "gcsx-drummore-intro.mp3",
+      "gcsx-drummore-where-kildonan-meets-the-sea.mp3",
+      "gcsx-drummore-a-gravestone-for-ventidius.mp3",
+      "gcsx-drummore-the-disruption-and-two-kirks.mp3",
+      "gcsx-drummore-the-harbour-the-lime-built.mp3",
+      "gcsx-drummore-three-bakers-then-none.mp3"
+    ],
+    "durations": {
+      "gcsx-drummore-flight-context.mp3": 64.8539166,
+      "gcsx-drummore-intro.mp3": 51.030625,
+      "gcsx-drummore-where-kildonan-meets-the-sea.mp3": 53.5257083,
+      "gcsx-drummore-a-gravestone-for-ventidius.mp3": 64.0414166,
+      "gcsx-drummore-the-disruption-and-two-kirks.mp3": 60.6600416,
+      "gcsx-drummore-the-harbour-the-lime-built.mp3": 69.6620416,
+      "gcsx-drummore-three-bakers-then-none.mp3": 66.1198333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }
