@@ -62,5 +62,24 @@
     "sourceGeohash4": "u12g"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "u12g-raf-mousehold-heath-flight-context.mp3",
+      "u12g-raf-mousehold-heath-intro.mp3",
+      "u12g-raf-mousehold-heath-cavalry-to-aircraft.mp3",
+      "u12g-raf-mousehold-heath-norwichs-acceptance-park.mp3",
+      "u12g-raf-mousehold-heath-norwich-storage-park.mp3",
+      "u12g-raf-mousehold-heath-what-remains.mp3"
+    ],
+    "durations": {
+      "u12g-raf-mousehold-heath-flight-context.mp3": 58.9757916,
+      "u12g-raf-mousehold-heath-intro.mp3": 51.0155,
+      "u12g-raf-mousehold-heath-cavalry-to-aircraft.mp3": 68.8850416,
+      "u12g-raf-mousehold-heath-norwichs-acceptance-park.mp3": 74.9342083,
+      "u12g-raf-mousehold-heath-norwich-storage-park.mp3": 69.9181666,
+      "u12g-raf-mousehold-heath-what-remains.mp3": 69.016
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

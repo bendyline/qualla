@@ -571,5 +571,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-hali-bridge-flight-context.mp3",
+      "sxk9-hali-bridge-intro.mp3",
+      "sxk9-hali-bridge-where-neighborhoods-meet-water.mp3",
+      "sxk9-hali-bridge-engineering-across-continents.mp3",
+      "sxk9-hali-bridge-the-golden-horn-it-crosses.mp3",
+      "sxk9-hali-bridge-a-bridge-among-bridges.mp3",
+      "sxk9-hali-bridge-the-golden-horn-from-altitude.mp3"
+    ],
+    "durations": {
+      "sxk9-hali-bridge-flight-context.mp3": 39.5407916,
+      "sxk9-hali-bridge-intro.mp3": 37.4902916,
+      "sxk9-hali-bridge-where-neighborhoods-meet-water.mp3": 51.5153333,
+      "sxk9-hali-bridge-engineering-across-continents.mp3": 54.0949166,
+      "sxk9-hali-bridge-the-golden-horn-it-crosses.mp3": 57.8772083,
+      "sxk9-hali-bridge-a-bridge-among-bridges.mp3": 55.41575,
+      "sxk9-hali-bridge-the-golden-horn-from-altitude.mp3": 46.4843333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

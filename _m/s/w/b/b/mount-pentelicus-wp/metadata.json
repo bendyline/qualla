@@ -463,5 +463,24 @@
     "_m/s/w/b/b/mount-pentelicus-wp/mount-pentelicus-seen-from-pet.jpg",
     "_m/s/w/b/b/mount-pentelicus-wp/mount-pentelicus-seen-from-pet-1.jpg"
   ],
-  "updatedAt": "2026-06-24T19:22:43.278Z"
+  "updatedAt": "2026-06-24T19:22:43.278Z",
+  "narration": {
+    "files": [
+      "swbb-mount-pentelicus-flight-context.mp3",
+      "swbb-mount-pentelicus-intro.mp3",
+      "swbb-mount-pentelicus-the-stone-that-glows.mp3",
+      "swbb-mount-pentelicus-the-road-down-to-the-parthenon.mp3",
+      "swbb-mount-pentelicus-when-the-mountain-burned.mp3",
+      "swbb-mount-pentelicus-a-mountain-with-two-names.mp3"
+    ],
+    "durations": {
+      "swbb-mount-pentelicus-flight-context.mp3": 56.0614166,
+      "swbb-mount-pentelicus-intro.mp3": 44.0144166,
+      "swbb-mount-pentelicus-the-stone-that-glows.mp3": 51.589,
+      "swbb-mount-pentelicus-the-road-down-to-the-parthenon.mp3": 51.4582083,
+      "swbb-mount-pentelicus-when-the-mountain-burned.mp3": 62.3327916,
+      "swbb-mount-pentelicus-a-mountain-with-two-names.mp3": 50.314125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -50,5 +50,26 @@
     "sourceGeohash4": "sqys"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sqys-taphians-flight-context.mp3",
+      "sqys-taphians-intro.mp3",
+      "sqys-taphians-lords-of-the-ionian-islets.mp3",
+      "sqys-taphians-athenas-disguise-and-the-metal-trade.mp3",
+      "sqys-taphians-myth-and-dynasty-perseus-poseidon-and-heracles.mp3",
+      "sqys-taphians-pirates-in-their-own-time.mp3",
+      "sqys-taphians-flying-over-homers-sea.mp3"
+    ],
+    "durations": {
+      "sqys-taphians-flight-context.mp3": 46.5189166,
+      "sqys-taphians-intro.mp3": 38.2107916,
+      "sqys-taphians-lords-of-the-ionian-islets.mp3": 79.7512916,
+      "sqys-taphians-athenas-disguise-and-the-metal-trade.mp3": 73.489,
+      "sqys-taphians-myth-and-dynasty-perseus-poseidon-and-heracles.mp3": 83.805375,
+      "sqys-taphians-pirates-in-their-own-time.mp3": 68.0544583,
+      "sqys-taphians-flying-over-homers-sea.mp3": 48.996125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

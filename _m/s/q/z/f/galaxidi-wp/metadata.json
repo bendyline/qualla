@@ -606,5 +606,24 @@
     "_m/s/q/z/f/galaxidi-wp/2147.jpg",
     "_m/s/q/z/f/galaxidi-wp/2167.jpg"
   ],
-  "updatedAt": "2026-06-24T12:16:37.643Z"
+  "updatedAt": "2026-06-24T12:16:37.643Z",
+  "narration": {
+    "files": [
+      "sqzf-galaxidi-flight-context.mp3",
+      "sqzf-galaxidi-intro.mp3",
+      "sqzf-galaxidi-a-double-harbour-on-the-gulf.mp3",
+      "sqzf-galaxidi-captains-and-caiques.mp3",
+      "sqzf-galaxidi-raided-destroyed-rebuilt.mp3",
+      "sqzf-galaxidi-the-town-the-gulf-made.mp3"
+    ],
+    "durations": {
+      "sqzf-galaxidi-flight-context.mp3": 55.2154166,
+      "sqzf-galaxidi-intro.mp3": 44.6471666,
+      "sqzf-galaxidi-a-double-harbour-on-the-gulf.mp3": 75.2865833,
+      "sqzf-galaxidi-captains-and-caiques.mp3": 79.09675,
+      "sqzf-galaxidi-raided-destroyed-rebuilt.mp3": 70.181,
+      "sqzf-galaxidi-the-town-the-gulf-made.mp3": 63.409375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

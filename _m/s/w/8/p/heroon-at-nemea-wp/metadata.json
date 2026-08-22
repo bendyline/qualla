@@ -114,5 +114,24 @@
   "galleryPaths": [
     "_m/s/w/6/p/thera-eruption-wk/location-map-greece.jpg",
     "_m/s/w/8/p/heroon-at-nemea-wp/findings-hero-shrine-o.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sw8p-heroon-at-nemea-flight-context.mp3",
+      "sw8p-heroon-at-nemea-intro.mp3",
+      "sw8p-heroon-at-nemea-a-child-who-could-not-touch-the-ground.mp3",
+      "sw8p-heroon-at-nemea-before-the-hero-the-mound.mp3",
+      "sw8p-heroon-at-nemea-seven-lead-tablets.mp3",
+      "sw8p-heroon-at-nemea-between-two-stories.mp3"
+    ],
+    "durations": {
+      "sw8p-heroon-at-nemea-flight-context.mp3": 48.9427916,
+      "sw8p-heroon-at-nemea-intro.mp3": 43.991625,
+      "sw8p-heroon-at-nemea-a-child-who-could-not-touch-the-ground.mp3": 90.7729583,
+      "sw8p-heroon-at-nemea-before-the-hero-the-mound.mp3": 75.7765833,
+      "sw8p-heroon-at-nemea-seven-lead-tablets.mp3": 103.1095833,
+      "sw8p-heroon-at-nemea-between-two-stories.mp3": 53.8820416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -434,5 +434,24 @@
     "_m/u/1/2/t/blakeney-lifeboat-station-wp/old-blakeney-lifeboat-station-.jpg",
     "_m/u/1/2/t/blakeney-lifeboat-station-wp/blakeney-point-with-the-old-li.jpg"
   ],
-  "updatedAt": "2026-06-25T23:48:41.801Z"
+  "updatedAt": "2026-06-25T23:48:41.801Z",
+  "narration": {
+    "files": [
+      "u12t-blakeney-lifeboat-station-flight-context.mp3",
+      "u12t-blakeney-lifeboat-station-intro.mp3",
+      "u12t-blakeney-lifeboat-station-the-first-brightwell.mp3",
+      "u12t-blakeney-lifeboat-station-eight-rescues-in-six-years.mp3",
+      "u12t-blakeney-lifeboat-station-wartime-and-the-caroline.mp3",
+      "u12t-blakeney-lifeboat-station-closure.mp3"
+    ],
+    "durations": {
+      "u12t-blakeney-lifeboat-station-flight-context.mp3": 32.7175833,
+      "u12t-blakeney-lifeboat-station-intro.mp3": 38.7519166,
+      "u12t-blakeney-lifeboat-station-the-first-brightwell.mp3": 66.0805416,
+      "u12t-blakeney-lifeboat-station-eight-rescues-in-six-years.mp3": 64.7265,
+      "u12t-blakeney-lifeboat-station-wartime-and-the-caroline.mp3": 61.235,
+      "u12t-blakeney-lifeboat-station-closure.mp3": 56.026375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

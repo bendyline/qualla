@@ -442,5 +442,24 @@
     "_m/s/w/b/b/roman-agora-wp/tour-des-vents-agora-romaine.jpg",
     "_m/s/w/b/b/roman-agora-wp/agora-romaine-a-athenes.jpg"
   ],
-  "updatedAt": "2026-06-24T20:15:49.741Z"
+  "updatedAt": "2026-06-24T20:15:49.741Z",
+  "narration": {
+    "files": [
+      "swbb-roman-agora-flight-context.mp3",
+      "swbb-roman-agora-intro.mp3",
+      "swbb-roman-agora-a-promise-kept-in-stone.mp3",
+      "swbb-roman-agora-the-heart-of-the-market.mp3",
+      "swbb-roman-agora-the-tower-that-told-time.mp3",
+      "swbb-roman-agora-reading-the-walls.mp3"
+    ],
+    "durations": {
+      "swbb-roman-agora-flight-context.mp3": 51.0528333,
+      "swbb-roman-agora-intro.mp3": 39.6255,
+      "swbb-roman-agora-a-promise-kept-in-stone.mp3": 51.7719583,
+      "swbb-roman-agora-the-heart-of-the-market.mp3": 46.3577916,
+      "swbb-roman-agora-the-tower-that-told-time.mp3": 45.428875,
+      "swbb-roman-agora-reading-the-walls.mp3": 49.88225
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

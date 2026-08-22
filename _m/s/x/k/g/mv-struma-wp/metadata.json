@@ -141,5 +141,24 @@
     "_m/s/x/k/g/mv-struma-wp/strumadampfer-zchn.jpg",
     "_m/s/x/k/g/mv-struma-wp/memorial-plaque-to-struma-disa.jpg"
   ],
-  "updatedAt": "2026-06-25T08:01:13.101Z"
+  "updatedAt": "2026-06-25T08:01:13.101Z",
+  "narration": {
+    "files": [
+      "sxkg-mv-struma-flight-context.mp3",
+      "sxkg-mv-struma-intro.mp3",
+      "sxkg-mv-struma-the-people-who-boarded.mp3",
+      "sxkg-mv-struma-ten-weeks-in-the-harbor.mp3",
+      "sxkg-mv-struma-towed-out-and-cast-adrift.mp3",
+      "sxkg-mv-struma-accountability-and-memory.mp3"
+    ],
+    "durations": {
+      "sxkg-mv-struma-flight-context.mp3": 47.9161666,
+      "sxkg-mv-struma-intro.mp3": 39.3462916,
+      "sxkg-mv-struma-the-people-who-boarded.mp3": 77.9729166,
+      "sxkg-mv-struma-ten-weeks-in-the-harbor.mp3": 78.9440833,
+      "sxkg-mv-struma-towed-out-and-cast-adrift.mp3": 99.977625,
+      "sxkg-mv-struma-accountability-and-memory.mp3": 86.7820833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

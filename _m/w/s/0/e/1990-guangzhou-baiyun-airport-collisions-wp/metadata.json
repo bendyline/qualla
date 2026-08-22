@@ -110,5 +110,26 @@
   "galleryPaths": [
     "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png",
     "_m/w/s/0/e/1990-guangzhou-baiyun-airport-collisions-wp/caac-b-2510-may-1985.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "ws0e-1990-guangzhou-baiyun-airport-collisions-flight-context.mp3",
+      "ws0e-1990-guangzhou-baiyun-airport-collisions-intro.mp3",
+      "ws0e-1990-guangzhou-baiyun-airport-collisions-the-hijacking.mp3",
+      "ws0e-1990-guangzhou-baiyun-airport-collisions-collision-on-the-apron.mp3",
+      "ws0e-1990-guangzhou-baiyun-airport-collisions-128-people.mp3",
+      "ws0e-1990-guangzhou-baiyun-airport-collisions-aftermath-and-change.mp3",
+      "ws0e-1990-guangzhou-baiyun-airport-collisions-what-remains.mp3"
+    ],
+    "durations": {
+      "ws0e-1990-guangzhou-baiyun-airport-collisions-flight-context.mp3": 67.8555833,
+      "ws0e-1990-guangzhou-baiyun-airport-collisions-intro.mp3": 43.3864166,
+      "ws0e-1990-guangzhou-baiyun-airport-collisions-the-hijacking.mp3": 51.5940833,
+      "ws0e-1990-guangzhou-baiyun-airport-collisions-collision-on-the-apron.mp3": 71.827875,
+      "ws0e-1990-guangzhou-baiyun-airport-collisions-128-people.mp3": 60.4995,
+      "ws0e-1990-guangzhou-baiyun-airport-collisions-aftermath-and-change.mp3": 62.5175,
+      "ws0e-1990-guangzhou-baiyun-airport-collisions-what-remains.mp3": 56.0985
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

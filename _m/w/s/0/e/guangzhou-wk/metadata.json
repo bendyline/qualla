@@ -843,5 +843,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "ws0e-guangzhou-flight-context.mp3",
+      "ws0e-guangzhou-intro.mp3",
+      "ws0e-guangzhou-two-thousand-years-at-the-crossroads.mp3",
+      "ws0e-guangzhou-cantonese-and-canton-a-language-that-traveled.mp3",
+      "ws0e-guangzhou-shamian-island-and-the-colonial-shadow.mp3",
+      "ws0e-guangzhou-the-canton-tower-and-a-new-skyline.mp3",
+      "ws0e-guangzhou-the-fair-that-moved-the-world.mp3"
+    ],
+    "durations": {
+      "ws0e-guangzhou-flight-context.mp3": 64.5256666,
+      "ws0e-guangzhou-intro.mp3": 68.9769166,
+      "ws0e-guangzhou-two-thousand-years-at-the-crossroads.mp3": 86.0893333,
+      "ws0e-guangzhou-cantonese-and-canton-a-language-that-traveled.mp3": 83.0457083,
+      "ws0e-guangzhou-shamian-island-and-the-colonial-shadow.mp3": 65.4719166,
+      "ws0e-guangzhou-the-canton-tower-and-a-new-skyline.mp3": 72.3915416,
+      "ws0e-guangzhou-the-fair-that-moved-the-world.mp3": 68.0755416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

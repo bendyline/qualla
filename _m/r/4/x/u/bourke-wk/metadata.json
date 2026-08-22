@@ -61,5 +61,24 @@
     "sourceGeohash4": "r4xu"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "r4xu-bourke-flight-context.mp3",
+      "r4xu-bourke-intro.mp3",
+      "r4xu-bourke-where-the-bitumen-ends.mp3",
+      "r4xu-bourke-the-river-that-carried-a-fortune.mp3",
+      "r4xu-bourke-lawsons-long-walk.mp3",
+      "r4xu-bourke-what-the-river-left-behind.mp3"
+    ],
+    "durations": {
+      "r4xu-bourke-flight-context.mp3": 58.5662916,
+      "r4xu-bourke-intro.mp3": 45.128375,
+      "r4xu-bourke-where-the-bitumen-ends.mp3": 54.4970416,
+      "r4xu-bourke-the-river-that-carried-a-fortune.mp3": 52.3780416,
+      "r4xu-bourke-lawsons-long-walk.mp3": 63.6572916,
+      "r4xu-bourke-what-the-river-left-behind.mp3": 57.1305833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -121,5 +121,24 @@
   "galleryPaths": [
     "_m/s/w/6/p/thera-eruption-wk/location-map-greece.jpg",
     "_m/s/q/z/c/1861-eliki-earthquake-wp/map-gulf-corinth-showi.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sqzc-1861-eliki-earthquake-flight-context.mp3",
+      "sqzc-1861-eliki-earthquake-intro.mp3",
+      "sqzc-1861-eliki-earthquake-a-coast-that-moves.mp3",
+      "sqzc-1861-eliki-earthquake-what-the-shaking-left.mp3",
+      "sqzc-1861-eliki-earthquake-a-scientist-arrives.mp3",
+      "sqzc-1861-eliki-earthquake-living-with-the-fault.mp3"
+    ],
+    "durations": {
+      "sqzc-1861-eliki-earthquake-flight-context.mp3": 61.6145833,
+      "sqzc-1861-eliki-earthquake-intro.mp3": 41.990125,
+      "sqzc-1861-eliki-earthquake-a-coast-that-moves.mp3": 45.6343333,
+      "sqzc-1861-eliki-earthquake-what-the-shaking-left.mp3": 47.2059583,
+      "sqzc-1861-eliki-earthquake-a-scientist-arrives.mp3": 48.68675,
+      "sqzc-1861-eliki-earthquake-living-with-the-fault.mp3": 45.33875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

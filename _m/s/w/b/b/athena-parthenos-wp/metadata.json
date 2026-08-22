@@ -373,5 +373,26 @@
     "_m/s/w/b/b/athena-parthenos-wp/golden-statue-athena-c.jpg",
     "_m/s/w/b/b/acropolis-wk/hero.jpg",
     "_m/s/w/b/b/athena-parthenos-wp/parthenon-cross-sectio.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swbb-athena-parthenos-flight-context.mp3",
+      "swbb-athena-parthenos-intro.mp3",
+      "swbb-athena-parthenos-a-statue-built-like-a-ship.mp3",
+      "swbb-athena-parthenos-the-goddess-as-treasury.mp3",
+      "swbb-athena-parthenos-reading-the-surface.mp3",
+      "swbb-athena-parthenos-the-long-disappearance.mp3",
+      "swbb-athena-parthenos-what-we-build-to-remember.mp3"
+    ],
+    "durations": {
+      "swbb-athena-parthenos-flight-context.mp3": 46.7878333,
+      "swbb-athena-parthenos-intro.mp3": 42.4066666,
+      "swbb-athena-parthenos-a-statue-built-like-a-ship.mp3": 50.121125,
+      "swbb-athena-parthenos-the-goddess-as-treasury.mp3": 49.37375,
+      "swbb-athena-parthenos-reading-the-surface.mp3": 44.689625,
+      "swbb-athena-parthenos-the-long-disappearance.mp3": 48.4116666,
+      "swbb-athena-parthenos-what-we-build-to-remember.mp3": 58.6446666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

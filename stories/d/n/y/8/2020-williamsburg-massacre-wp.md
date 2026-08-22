@@ -8,7 +8,7 @@ On a December afternoon in 2020, five West Virginia children between the ages of
 
 ## Introduction
 
-Five children climbed off a school bus on a December afternoon in 2020 and walked into a house that should have been a refuge. By evening, all five were dead. The youngest was one year old. The oldest had just turned seven. In the rural quiet of Greenbrier County, where Williamsburg sits among the folded ridges of southeastern West Virginia, what happened on December 8 became the worst mass shooting in the state's history - and a case study in how a system designed to protect children can fail them entirely.
+Five children climbed off a school bus on a December afternoon in 2020 and walked into a house that should have been a refuge. By evening, all five were dead. The youngest was one year old. The oldest had just turned seven. In the rural quiet of Greenbrier County, where Williamsburg sits among the folded ridges of southeastern West Virginia, what happened on December 8 became the worst mass shooting in the state's history - and, through the lawsuit that followed, a flashpoint in West Virginia's long reckoning over how it protects children.
 
 ## The Children
 
@@ -16,7 +16,7 @@ Before they were a statistic, they were five small lives. Three were the biologi
 
 ## The Warnings
 
-The most haunting detail came later, in a hearing room. In August 2020, four months before the killings, a dentist examined one of the children and noticed something wrong. The child was visibly afraid of his father. There was a large bruise. The dentist also reported seeing the father verbally abusing the child outside. A call went in to Child Protective Services on August 10. The operator ended the call. The reporter was told there would be no investigation. The biological mother of two of the children would later sue the West Virginia Department of Health and Human Resources, alleging that multiple abuse reports had been filed and ignored. The lawsuit became part of a broader reckoning: in 2023, the West Virginia legislature voted to dissolve the DHHR and split it into three agencies, an admission that the system had grown too unwieldy to do the job it existed for.
+Whether there had been warning signs is disputed. The biological mother of two of the children later sued the West Virginia Department of Health and Human Resources, and it is from that lawsuit that the most haunting allegations come: that in August 2020, four months before the killings, a dentist examined one of the children, saw a large bruise and a child visibly afraid of his father, and reported the father for abuse; that a call to Child Protective Services on August 10 was ended by the operator with no investigation; and that multiple abuse reports had been filed and ignored. Investigators who worked the case reached a different conclusion. At the close of the investigation, officials said there had been no history of mistreatment of the children and no prior referrals to Child Protective Services. Those competing accounts have never been fully reconciled. What is not disputed is that the case became part of a broader reckoning: in 2023, the West Virginia legislature voted to dissolve the DHHR and split it into three agencies, amid years of criticism that the system had grown too unwieldy to do the job it existed for.
 
 ## Greenbrier County
 
@@ -49,6 +49,8 @@ Located at 37.99 degrees N, 80.51 degrees W in Greenbrier County, West Virginia.
   - West Virginia legislature voted in 2023 to dissolve DHHR
   - DHHR split into three agencies (Department of Health, Department of Human Services, Department of Health Facilities)
   - Split became official January 1, 2024
+- [Review — 2026-07-13](https://wvmetronews.com/2021/01/21/investigation-concludes-greenbrier-county-woman-murdered-5-children-before-taking-her-own-life/)
+  - Reframed the abuse and CPS-report claims as allegations from the mother's later lawsuit rather than fact, and added investigators' finding of no history of mistreatment and no prior CPS referrals; softened the DHHR-dissolution causation accordingly.
 
 ## Review Notes
 
@@ -60,8 +62,8 @@ All key facts verified: 5 children killed December 8 2020, Myers age 25, dentist
 
 **Strong opinions:**
 
-- Described as 'a case study in how a system designed to protect children can fail them entirely'
-- The DHHR dissolution framed as 'an admission that the system had grown too unwieldy to do the job it existed for'
+- Frames the case as 'a flashpoint in West Virginia's long reckoning over how it protects children' — while noting investigators found no history of mistreatment or prior CPS referrals
+- The DHHR dissolution framed as arriving 'amid years of criticism that the system had grown too unwieldy to do the job it existed for'
 - 'A massacre is not what places like this are for'
 
 ---

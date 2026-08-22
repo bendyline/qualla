@@ -189,5 +189,24 @@
     "_m/w/s/q/w/fulong-wk/fulong-beach.jpg",
     "_m/w/s/q/w/fulong-wk/footbridge-you-cross-g.jpg",
     "_m/w/s/q/w/fulong-wk/here-picture-fulong-be.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wsqw-fulong-flight-context.mp3",
+      "wsqw-fulong-intro.mp3",
+      "wsqw-fulong-the-beach-at-the-river-mouth.mp3",
+      "wsqw-fulong-hohaiyan-three-days-in-july.mp3",
+      "wsqw-fulong-through-the-mountain-darkness.mp3",
+      "wsqw-fulong-a-village-built-for-arrivals.mp3"
+    ],
+    "durations": {
+      "wsqw-fulong-flight-context.mp3": 62.7042916,
+      "wsqw-fulong-intro.mp3": 50.8750416,
+      "wsqw-fulong-the-beach-at-the-river-mouth.mp3": 47.4782916,
+      "wsqw-fulong-hohaiyan-three-days-in-july.mp3": 49.7004583,
+      "wsqw-fulong-through-the-mountain-darkness.mp3": 50.0535,
+      "wsqw-fulong-a-village-built-for-arrivals.mp3": 62.4278333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

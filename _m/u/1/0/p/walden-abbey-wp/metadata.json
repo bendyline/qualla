@@ -55,5 +55,26 @@
     "sourceGeohash4": "u10p"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "u10p-walden-abbey-flight-context.mp3",
+      "u10p-walden-abbey-intro.mp3",
+      "u10p-walden-abbey-a-founder-in-disgrace.mp3",
+      "u10p-walden-abbey-a-monastery-without-a-patron.mp3",
+      "u10p-walden-abbey-the-bohun-tombs.mp3",
+      "u10p-walden-abbey-the-audley-mansion.mp3",
+      "u10p-walden-abbey-charles-iis-white-elephant.mp3"
+    ],
+    "durations": {
+      "u10p-walden-abbey-flight-context.mp3": 59.6848333,
+      "u10p-walden-abbey-intro.mp3": 48.3544166,
+      "u10p-walden-abbey-a-founder-in-disgrace.mp3": 60.1945,
+      "u10p-walden-abbey-a-monastery-without-a-patron.mp3": 61.4002083,
+      "u10p-walden-abbey-the-bohun-tombs.mp3": 58.01275,
+      "u10p-walden-abbey-the-audley-mansion.mp3": 63.78225,
+      "u10p-walden-abbey-charles-iis-white-elephant.mp3": 58.0890416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

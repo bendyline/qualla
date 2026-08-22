@@ -81,5 +81,24 @@
   ],
   "galleryPaths": [
     "_m/g/c/y/n/siege-of-haddington-wp/st-mary-s-church-haddi.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcyn-siege-of-haddington-flight-context.mp3",
+      "gcyn-siege-of-haddington-intro.mp3",
+      "gcyn-siege-of-haddington-the-rough-wooing.mp3",
+      "gcyn-siege-of-haddington-an-international-garrison.mp3",
+      "gcyn-siege-of-haddington-a-queen-at-the-guns.mp3",
+      "gcyn-siege-of-haddington-plague-powder-and-withdrawal.mp3"
+    ],
+    "durations": {
+      "gcyn-siege-of-haddington-flight-context.mp3": 51.3649166,
+      "gcyn-siege-of-haddington-intro.mp3": 58.7839166,
+      "gcyn-siege-of-haddington-the-rough-wooing.mp3": 54.4067083,
+      "gcyn-siege-of-haddington-an-international-garrison.mp3": 63.791,
+      "gcyn-siege-of-haddington-a-queen-at-the-guns.mp3": 59.6449583,
+      "gcyn-siege-of-haddington-plague-powder-and-withdrawal.mp3": 71.7017916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

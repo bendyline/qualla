@@ -52,5 +52,24 @@
     "sourceGeohash4": "swbb"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "swbb-agios-panteleimonas-athens-flight-context.mp3",
+      "swbb-agios-panteleimonas-athens-intro.mp3",
+      "swbb-agios-panteleimonas-athens-the-great-church.mp3",
+      "swbb-agios-panteleimonas-athens-a-neighborhood-in-a-changing-city.mp3",
+      "swbb-agios-panteleimonas-athens-strain-and-its-costs.mp3",
+      "swbb-agios-panteleimonas-athens-everyday-life-goes-on.mp3"
+    ],
+    "durations": {
+      "swbb-agios-panteleimonas-athens-flight-context.mp3": 64.0108333,
+      "swbb-agios-panteleimonas-athens-intro.mp3": 51.025625,
+      "swbb-agios-panteleimonas-athens-the-great-church.mp3": 50.412125,
+      "swbb-agios-panteleimonas-athens-a-neighborhood-in-a-changing-city.mp3": 51.3137083,
+      "swbb-agios-panteleimonas-athens-strain-and-its-costs.mp3": 52.671625,
+      "swbb-agios-panteleimonas-athens-everyday-life-goes-on.mp3": 49.504375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

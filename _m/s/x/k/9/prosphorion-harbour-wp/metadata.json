@@ -85,5 +85,24 @@
   ],
   "galleryPaths": [
     "_m/tpc/cr/us/ad/es/crusades/byzantine-constantinople-en.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-prosphorion-harbour-flight-context.mp3",
+      "sxk9-prosphorion-harbour-intro.mp3",
+      "sxk9-prosphorion-harbour-the-citys-first-port.mp3",
+      "sxk9-prosphorion-harbour-gradual-displacement.mp3",
+      "sxk9-prosphorion-harbour-from-port-to-dockyard-to-palace-ground.mp3",
+      "sxk9-prosphorion-harbour-a-citys-deepest-layer.mp3"
+    ],
+    "durations": {
+      "sxk9-prosphorion-harbour-flight-context.mp3": 65.9304166,
+      "sxk9-prosphorion-harbour-intro.mp3": 52.513,
+      "sxk9-prosphorion-harbour-the-citys-first-port.mp3": 79.9364583,
+      "sxk9-prosphorion-harbour-gradual-displacement.mp3": 70.616625,
+      "sxk9-prosphorion-harbour-from-port-to-dockyard-to-palace-ground.mp3": 79.0145,
+      "sxk9-prosphorion-harbour-a-citys-deepest-layer.mp3": 67.807125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

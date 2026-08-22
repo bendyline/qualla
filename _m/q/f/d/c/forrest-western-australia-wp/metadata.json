@@ -120,5 +120,24 @@
     "_m/q/f/d/c/forrest-western-australia-wp/west-australian-airways-4.jpg",
     "_m/q/f/d/c/forrest-western-australia-wp/trans-australian-railway-fish-.jpg"
   ],
-  "updatedAt": "2026-06-27T23:35:01.208Z"
+  "updatedAt": "2026-06-27T23:35:01.208Z",
+  "narration": {
+    "files": [
+      "qfdc-forrest-flight-context.mp3",
+      "qfdc-forrest-intro.mp3",
+      "qfdc-forrest-born-of-a-railway.mp3",
+      "qfdc-forrest-the-refuelling-stop-in-the-sky.mp3",
+      "qfdc-forrest-reading-the-weather-for-the-nation.mp3",
+      "qfdc-forrest-the-big-wait.mp3"
+    ],
+    "durations": {
+      "qfdc-forrest-flight-context.mp3": 78.8722916,
+      "qfdc-forrest-intro.mp3": 43.02125,
+      "qfdc-forrest-born-of-a-railway.mp3": 42.212875,
+      "qfdc-forrest-the-refuelling-stop-in-the-sky.mp3": 52.26225,
+      "qfdc-forrest-reading-the-weather-for-the-nation.mp3": 59.2894166,
+      "qfdc-forrest-the-big-wait.mp3": 51.1311666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -749,5 +749,24 @@
     "_m/g/f/n/0/st-andrews-castle-wp/das-kleine-museum-im-besucherz-1.jpg",
     "_m/g/f/n/0/st-andrews-castle-wp/exploring-the-castle-geograph-.jpg"
   ],
-  "updatedAt": "2026-06-24T05:58:51.042Z"
+  "updatedAt": "2026-06-24T05:58:51.042Z",
+  "narration": {
+    "files": [
+      "gfn0-st-andrews-castle-flight-context.mp3",
+      "gfn0-st-andrews-castle-intro.mp3",
+      "gfn0-st-andrews-castle-built-and-rebuilt.mp3",
+      "gfn0-st-andrews-castle-the-bottle-dungeon.mp3",
+      "gfn0-st-andrews-castle-cardinal-beatons-kitchen.mp3",
+      "gfn0-st-andrews-castle-the-mine-and-the-mob.mp3"
+    ],
+    "durations": {
+      "gfn0-st-andrews-castle-flight-context.mp3": 47.129625,
+      "gfn0-st-andrews-castle-intro.mp3": 44.9092083,
+      "gfn0-st-andrews-castle-built-and-rebuilt.mp3": 67.0318333,
+      "gfn0-st-andrews-castle-the-bottle-dungeon.mp3": 68.091,
+      "gfn0-st-andrews-castle-cardinal-beatons-kitchen.mp3": 58.8334166,
+      "gfn0-st-andrews-castle-the-mine-and-the-mob.mp3": 87.17
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

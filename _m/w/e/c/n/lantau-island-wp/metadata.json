@@ -858,5 +858,26 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecn-lantau-island-flight-context.mp3",
+      "wecn-lantau-island-intro.mp3",
+      "wecn-lantau-island-older-than-any-dynasty.mp3",
+      "wecn-lantau-island-pirates-forts-and-the-opium-coast.mp3",
+      "wecn-lantau-island-the-big-buddha-and-the-fishing-village-that-refuse.mp3",
+      "wecn-lantau-island-pink-dolphins-and-a-green-interior.mp3",
+      "wecn-lantau-island-the-airport-that-changed-everything.mp3"
+    ],
+    "durations": {
+      "wecn-lantau-island-flight-context.mp3": 65.4855833,
+      "wecn-lantau-island-intro.mp3": 49.4143333,
+      "wecn-lantau-island-older-than-any-dynasty.mp3": 64.553625,
+      "wecn-lantau-island-pirates-forts-and-the-opium-coast.mp3": 68.9950833,
+      "wecn-lantau-island-the-big-buddha-and-the-fishing-village-that-refuse.mp3": 74.2830416,
+      "wecn-lantau-island-pink-dolphins-and-a-green-interior.mp3": 55.6860416,
+      "wecn-lantau-island-the-airport-that-changed-everything.mp3": 56.1315
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

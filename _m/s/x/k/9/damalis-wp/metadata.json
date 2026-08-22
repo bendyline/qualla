@@ -58,5 +58,24 @@
     "sourceGeohash4": "sxk9"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sxk9-damalis-flight-context.mp3",
+      "sxk9-damalis-intro.mp3",
+      "sxk9-damalis-the-myth-and-the-strait.mp3",
+      "sxk9-damalis-the-generals-wife.mp3",
+      "sxk9-damalis-where-damalis-stood.mp3",
+      "sxk9-damalis-names-that-outlast-their-reasons.mp3"
+    ],
+    "durations": {
+      "sxk9-damalis-flight-context.mp3": 62.360125,
+      "sxk9-damalis-intro.mp3": 34.7481666,
+      "sxk9-damalis-the-myth-and-the-strait.mp3": 52.6275416,
+      "sxk9-damalis-the-generals-wife.mp3": 59.2946666,
+      "sxk9-damalis-where-damalis-stood.mp3": 62.8245416,
+      "sxk9-damalis-names-that-outlast-their-reasons.mp3": 60.8770416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

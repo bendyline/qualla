@@ -658,5 +658,26 @@
     "_m/u/1/0/0/eastbourne-pier-wp/eastbourne-pier-1-14.jpg",
     "_m/u/1/0/0/eastbourne-pier-wp/eastbourne-pier-1-15.jpg"
   ],
-  "updatedAt": "2026-06-25T13:13:00.331Z"
+  "updatedAt": "2026-06-25T13:13:00.331Z",
+  "narration": {
+    "files": [
+      "u100-eastbourne-pier-flight-context.mp3",
+      "u100-eastbourne-pier-intro.mp3",
+      "u100-eastbourne-pier-built-on-cups.mp3",
+      "u100-eastbourne-pier-cameras-theatres-houdini.mp3",
+      "u100-eastbourne-pier-the-mine-and-the-medals.mp3",
+      "u100-eastbourne-pier-the-fire-and-the-recovery.mp3",
+      "u100-eastbourne-pier-pier-pressure.mp3"
+    ],
+    "durations": {
+      "u100-eastbourne-pier-flight-context.mp3": 55.2777916,
+      "u100-eastbourne-pier-intro.mp3": 54.1642916,
+      "u100-eastbourne-pier-built-on-cups.mp3": 68.8358333,
+      "u100-eastbourne-pier-cameras-theatres-houdini.mp3": 83.3606666,
+      "u100-eastbourne-pier-the-mine-and-the-medals.mp3": 68.507875,
+      "u100-eastbourne-pier-the-fire-and-the-recovery.mp3": 88.805375,
+      "u100-eastbourne-pier-pier-pressure.mp3": 70.0004583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

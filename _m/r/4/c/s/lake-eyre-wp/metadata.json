@@ -462,5 +462,24 @@
     "_m/q/g/p/h/oodnadatta-track-wk/trackbed-remaining-lif.jpg",
     "_m/r/4/c/s/lake-eyre-wp/aerial-view-of-lake-eyre.jpg"
   ],
-  "updatedAt": "2026-06-28T04:17:28.409Z"
+  "updatedAt": "2026-06-28T04:17:28.409Z",
+  "narration": {
+    "files": [
+      "r4cs-lake-eyre-flight-context.mp3",
+      "r4cs-lake-eyre-intro.mp3",
+      "r4cs-lake-eyre-the-patience-of-the-basin.mp3",
+      "r4cs-lake-eyre-when-the-birds-find-out.mp3",
+      "r4cs-lake-eyre-pink-water-and-the-sailing-sky.mp3",
+      "r4cs-lake-eyre-the-day-the-salt-flat-held-a-record.mp3"
+    ],
+    "durations": {
+      "r4cs-lake-eyre-flight-context.mp3": 83.516875,
+      "r4cs-lake-eyre-intro.mp3": 55.8875416,
+      "r4cs-lake-eyre-the-patience-of-the-basin.mp3": 57.6004166,
+      "r4cs-lake-eyre-when-the-birds-find-out.mp3": 64.6121666,
+      "r4cs-lake-eyre-pink-water-and-the-sailing-sky.mp3": 57.621625,
+      "r4cs-lake-eyre-the-day-the-salt-flat-held-a-record.mp3": 70.4194583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

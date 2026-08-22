@@ -525,5 +525,24 @@
     "_m/g/c/w/g/ripley-castle-wp/rear-of-ripley-castle-geograph.jpg",
     "_m/g/c/w/g/ripley-castle-wp/ripley-castle-temple-geograph-.jpg"
   ],
-  "updatedAt": "2026-06-23T09:21:06.453Z"
+  "updatedAt": "2026-06-23T09:21:06.453Z",
+  "narration": {
+    "files": [
+      "gcwg-ripley-castle-flight-context.mp3",
+      "gcwg-ripley-castle-intro.mp3",
+      "gcwg-ripley-castle-a-boar-a-knighthood-a-dynasty.mp3",
+      "gcwg-ripley-castle-the-gunpowder-plot-connection.mp3",
+      "gcwg-ripley-castle-the-eccentric-who-rebuilt-a-village.mp3",
+      "gcwg-ripley-castle-sale-after-seven-centuries.mp3"
+    ],
+    "durations": {
+      "gcwg-ripley-castle-flight-context.mp3": 59.91675,
+      "gcwg-ripley-castle-intro.mp3": 61.8317916,
+      "gcwg-ripley-castle-a-boar-a-knighthood-a-dynasty.mp3": 73.5562916,
+      "gcwg-ripley-castle-the-gunpowder-plot-connection.mp3": 60.258875,
+      "gcwg-ripley-castle-the-eccentric-who-rebuilt-a-village.mp3": 71.5110833,
+      "gcwg-ripley-castle-sale-after-seven-centuries.mp3": 83.431
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

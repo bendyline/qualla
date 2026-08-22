@@ -183,5 +183,24 @@
     "_m/tpc/va/t-/ph/ou/vat-phou/champasakpalace.jpg",
     "_m/tpc/va/t-/ph/ou/vat-phou/laos-marche-de-paksong-1.jpg",
     "_m/tpc/va/t-/ph/ou/vat-phou/main-path-lined-with-stone-pil.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w6ek-champasak-flight-context.mp3",
+      "w6ek-champasak-intro.mp3",
+      "w6ek-champasak-before-there-were-kingdoms.mp3",
+      "w6ek-champasak-the-champasak-cultural-landscape.mp3",
+      "w6ek-champasak-the-last-prince.mp3",
+      "w6ek-champasak-life-along-the-mekong.mp3"
+    ],
+    "durations": {
+      "w6ek-champasak-flight-context.mp3": 55.781125,
+      "w6ek-champasak-intro.mp3": 51.28975,
+      "w6ek-champasak-before-there-were-kingdoms.mp3": 71.5785833,
+      "w6ek-champasak-the-champasak-cultural-landscape.mp3": 61.67925,
+      "w6ek-champasak-the-last-prince.mp3": 72.4130416,
+      "w6ek-champasak-life-along-the-mekong.mp3": 68.6299166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

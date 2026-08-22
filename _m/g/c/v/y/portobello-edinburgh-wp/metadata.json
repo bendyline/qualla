@@ -625,5 +625,24 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcvy-portobello-edinburgh-flight-context.mp3",
+      "gcvy-portobello-edinburgh-intro.mp3",
+      "gcvy-portobello-edinburgh-from-figgate-muir-to-brick-town.mp3",
+      "gcvy-portobello-edinburgh-walter-scotts-three-days.mp3",
+      "gcvy-portobello-edinburgh-the-victorian-resort.mp3",
+      "gcvy-portobello-edinburgh-decline-and-reinvention.mp3"
+    ],
+    "durations": {
+      "gcvy-portobello-edinburgh-flight-context.mp3": 34.383875,
+      "gcvy-portobello-edinburgh-intro.mp3": 41.84525,
+      "gcvy-portobello-edinburgh-from-figgate-muir-to-brick-town.mp3": 60.3137083,
+      "gcvy-portobello-edinburgh-walter-scotts-three-days.mp3": 52.0735833,
+      "gcvy-portobello-edinburgh-the-victorian-resort.mp3": 57.8399166,
+      "gcvy-portobello-edinburgh-decline-and-reinvention.mp3": 65.7681666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

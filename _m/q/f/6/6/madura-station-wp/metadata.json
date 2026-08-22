@@ -122,5 +122,24 @@
   "galleryPaths": [
     "_m/q/f/e/8/nullarbor-plain-wp/nullabor-plain-viewed.jpg",
     "_m/q/f/e/8/nullarbor-plain-wp/nullabor-plain-with-trees.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qf66-madura-station-flight-context.mp3",
+      "qf66-madura-station-intro.mp3",
+      "qf66-madura-station-horses-for-an-empire.mp3",
+      "qf66-madura-station-a-country-that-fought-back.mp3",
+      "qf66-madura-station-lives-on-the-edge.mp3",
+      "qf66-madura-station-from-homestead-to-highway-stop.mp3"
+    ],
+    "durations": {
+      "qf66-madura-station-flight-context.mp3": 80.216125,
+      "qf66-madura-station-intro.mp3": 43.440125,
+      "qf66-madura-station-horses-for-an-empire.mp3": 49.1955,
+      "qf66-madura-station-a-country-that-fought-back.mp3": 48.258125,
+      "qf66-madura-station-lives-on-the-edge.mp3": 46.1090416,
+      "qf66-madura-station-from-homestead-to-highway-stop.mp3": 54.1167083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

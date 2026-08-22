@@ -545,5 +545,24 @@
     "_m/g/f/n/t/old-aberdeen-wp/dunbar-hospital-spalding.jpg",
     "_m/g/f/n/t/old-aberdeen-wp/aberdeen-hospitals-1200-1600.jpg"
   ],
-  "updatedAt": "2026-06-24T06:59:12.790Z"
+  "updatedAt": "2026-06-24T06:59:12.790Z",
+  "narration": {
+    "files": [
+      "gfnt-old-aberdeen-flight-context.mp3",
+      "gfnt-old-aberdeen-intro.mp3",
+      "gfnt-old-aberdeen-cathedral-ground.mp3",
+      "gfnt-old-aberdeen-the-old-town-house.mp3",
+      "gfnt-old-aberdeen-the-powis-gates.mp3",
+      "gfnt-old-aberdeen-bishops-wars-and-after.mp3"
+    ],
+    "durations": {
+      "gfnt-old-aberdeen-flight-context.mp3": 57.0253333,
+      "gfnt-old-aberdeen-intro.mp3": 66.792125,
+      "gfnt-old-aberdeen-cathedral-ground.mp3": 75.184125,
+      "gfnt-old-aberdeen-the-old-town-house.mp3": 60.5674583,
+      "gfnt-old-aberdeen-the-powis-gates.mp3": 71.1827916,
+      "gfnt-old-aberdeen-bishops-wars-and-after.mp3": 79.527125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

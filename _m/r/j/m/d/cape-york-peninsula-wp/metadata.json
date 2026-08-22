@@ -635,5 +635,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "rjmd-cape-york-peninsula-flight-context.mp3",
+      "rjmd-cape-york-peninsula-intro.mp3",
+      "rjmd-cape-york-peninsula-the-wet-and-the-dry.mp3",
+      "rjmd-cape-york-peninsula-many-nations-many-tongues.mp3",
+      "rjmd-cape-york-peninsula-a-gondwanan-ark.mp3",
+      "rjmd-cape-york-peninsula-land-returned.mp3",
+      "rjmd-cape-york-peninsula-getting-there-is-the-story.mp3"
+    ],
+    "durations": {
+      "rjmd-cape-york-peninsula-flight-context.mp3": 78.2893333,
+      "rjmd-cape-york-peninsula-intro.mp3": 47.5906666,
+      "rjmd-cape-york-peninsula-the-wet-and-the-dry.mp3": 49.72425,
+      "rjmd-cape-york-peninsula-many-nations-many-tongues.mp3": 49.79775,
+      "rjmd-cape-york-peninsula-a-gondwanan-ark.mp3": 54.0671666,
+      "rjmd-cape-york-peninsula-land-returned.mp3": 51.0889583,
+      "rjmd-cape-york-peninsula-getting-there-is-the-story.mp3": 50.2403333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

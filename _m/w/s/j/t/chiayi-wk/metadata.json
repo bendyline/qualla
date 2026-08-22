@@ -803,5 +803,24 @@
     "_m/w/s/j/t/chiayi-wk/chiayi-beimen-temple.png",
     "_m/w/s/j/t/chiayi-wk/chiayi-downtown-street.png"
   ],
-  "updatedAt": "2026-06-24T12:54:30.369Z"
+  "updatedAt": "2026-06-24T12:54:30.369Z",
+  "narration": {
+    "files": [
+      "wsjt-chiayi-flight-context.mp3",
+      "wsjt-chiayi-intro.mp3",
+      "wsjt-chiayi-the-gateway-and-the-mountain.mp3",
+      "wsjt-chiayi-turkey-rice-and-the-culture-road-night.mp3",
+      "wsjt-chiayi-the-1931-team.mp3",
+      "wsjt-chiayi-the-park-the-gardens-and-the-slow-morning.mp3"
+    ],
+    "durations": {
+      "wsjt-chiayi-flight-context.mp3": 49.3895,
+      "wsjt-chiayi-intro.mp3": 69.3847083,
+      "wsjt-chiayi-the-gateway-and-the-mountain.mp3": 74.3801666,
+      "wsjt-chiayi-turkey-rice-and-the-culture-road-night.mp3": 70.5815833,
+      "wsjt-chiayi-the-1931-team.mp3": 63.1689583,
+      "wsjt-chiayi-the-park-the-gardens-and-the-slow-morning.mp3": 72.3955833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

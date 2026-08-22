@@ -518,5 +518,22 @@
     "_m/u/1/2/g/norwich-castle-wp/path-around-norwich-castle-geo.jpg",
     "_m/u/1/2/g/norwich-castle-wp/tourist-signs-norwich-06.jpg"
   ],
-  "updatedAt": "2026-06-25T22:44:39.055Z"
+  "updatedAt": "2026-06-25T22:44:39.055Z",
+  "narration": {
+    "files": [
+      "u12g-norwich-castle-flight-context.mp3",
+      "u12g-norwich-castle-intro.mp3",
+      "u12g-norwich-castle-palace-to-prison.mp3",
+      "u12g-norwich-castle-the-rush-execution.mp3",
+      "u12g-norwich-castle-museum-theft-and-restoration.mp3"
+    ],
+    "durations": {
+      "u12g-norwich-castle-flight-context.mp3": 48.7639166,
+      "u12g-norwich-castle-intro.mp3": 40.3195833,
+      "u12g-norwich-castle-palace-to-prison.mp3": 75.093375,
+      "u12g-norwich-castle-the-rush-execution.mp3": 48.1898333,
+      "u12g-norwich-castle-museum-theft-and-restoration.mp3": 92.1167916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

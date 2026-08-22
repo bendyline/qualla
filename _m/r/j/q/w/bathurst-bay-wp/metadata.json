@@ -58,5 +58,24 @@
     "sourceGeohash4": "rjqw"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "rjqw-bathurst-bay-flight-context.mp3",
+      "rjqw-bathurst-bay-intro.mp3",
+      "rjqw-bathurst-bay-the-people-of-the-pearl.mp3",
+      "rjqw-bathurst-bay-the-wave.mp3",
+      "rjqw-bathurst-bay-those-the-sea-took-onshore.mp3",
+      "rjqw-bathurst-bay-what-the-bay-holds-now.mp3"
+    ],
+    "durations": {
+      "rjqw-bathurst-bay-flight-context.mp3": 75.45125,
+      "rjqw-bathurst-bay-intro.mp3": 44.0464583,
+      "rjqw-bathurst-bay-the-people-of-the-pearl.mp3": 58.1972916,
+      "rjqw-bathurst-bay-the-wave.mp3": 51.9313333,
+      "rjqw-bathurst-bay-those-the-sea-took-onshore.mp3": 63.2390416,
+      "rjqw-bathurst-bay-what-the-bay-holds-now.mp3": 44.8838333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

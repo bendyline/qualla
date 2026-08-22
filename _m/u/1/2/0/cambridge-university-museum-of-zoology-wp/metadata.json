@@ -593,5 +593,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u120-cambridge-university-museum-of-zoology-flight-context.mp3",
+      "u120-cambridge-university-museum-of-zoology-intro.mp3",
+      "u120-cambridge-university-museum-of-zoology-darwins-specimens-still-here.mp3",
+      "u120-cambridge-university-museum-of-zoology-the-lost-and-the-extinct.mp3",
+      "u120-cambridge-university-museum-of-zoology-a-building-transformed.mp3",
+      "u120-cambridge-university-museum-of-zoology-a-cast-of-scientists.mp3"
+    ],
+    "durations": {
+      "u120-cambridge-university-museum-of-zoology-flight-context.mp3": 47.5222916,
+      "u120-cambridge-university-museum-of-zoology-intro.mp3": 40.01025,
+      "u120-cambridge-university-museum-of-zoology-darwins-specimens-still-here.mp3": 56.1059583,
+      "u120-cambridge-university-museum-of-zoology-the-lost-and-the-extinct.mp3": 62.5362083,
+      "u120-cambridge-university-museum-of-zoology-a-building-transformed.mp3": 53.7084166,
+      "u120-cambridge-university-museum-of-zoology-a-cast-of-scientists.mp3": 54.2054166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

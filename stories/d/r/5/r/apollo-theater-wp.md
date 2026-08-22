@@ -34,6 +34,12 @@ The Apollo Theater (40.8100N, 73.9500W) sits on the north side of West 125th Str
 
 - [Apollo Theater](https://en.wikipedia.org/wiki/Apollo_Theater)
 
+## Review Notes
+
+**Reviewed:** 2026-02-23 · 12 facts verified · 0 corrections
+
+All key facts verified: theater opened 1913, George Keister architect, Ella Fitzgerald won Amateur Night Nov 21 1934 confirmed, switched from dancing to singing confirmed. Spiciness 2.
+
 ---
 
 *Word count: 780*

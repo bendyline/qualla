@@ -615,5 +615,26 @@
     "_m/s/w/b/b/kerameikos-wp/18-gr-ia10-0061.jpg",
     "_m/s/w/b/b/kerameikos-wp/17-gr-ia10-0061.jpg"
   ],
-  "updatedAt": "2026-06-24T19:01:06.242Z"
+  "updatedAt": "2026-06-24T19:01:06.242Z",
+  "narration": {
+    "files": [
+      "swbb-kerameikos-flight-context.mp3",
+      "swbb-kerameikos-intro.mp3",
+      "swbb-kerameikos-city-of-the-living-and-the-dead.mp3",
+      "swbb-kerameikos-the-street-of-tombs.mp3",
+      "swbb-kerameikos-two-roads-begin.mp3",
+      "swbb-kerameikos-a-pit-full-of-panic.mp3",
+      "swbb-kerameikos-beneath-the-modern-street.mp3"
+    ],
+    "durations": {
+      "swbb-kerameikos-flight-context.mp3": 49.9665833,
+      "swbb-kerameikos-intro.mp3": 38.118875,
+      "swbb-kerameikos-city-of-the-living-and-the-dead.mp3": 47.5289166,
+      "swbb-kerameikos-the-street-of-tombs.mp3": 54.7448333,
+      "swbb-kerameikos-two-roads-begin.mp3": 49.5259166,
+      "swbb-kerameikos-a-pit-full-of-panic.mp3": 54.3678333,
+      "swbb-kerameikos-beneath-the-modern-street.mp3": 49.5142083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

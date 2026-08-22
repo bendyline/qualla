@@ -606,5 +606,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecp-plover-cove-reservoir-flight-context.mp3",
+      "wecp-plover-cove-reservoir-intro.mp3",
+      "wecp-plover-cove-reservoir-the-problem-and-the-plan.mp3",
+      "wecp-plover-cove-reservoir-sealing-the-sea.mp3",
+      "wecp-plover-cove-reservoir-a-lake-where-the-sea-had-been.mp3",
+      "wecp-plover-cove-reservoir-a-citys-thirst-an-engineers-answer.mp3"
+    ],
+    "durations": {
+      "wecp-plover-cove-reservoir-flight-context.mp3": 58.5723333,
+      "wecp-plover-cove-reservoir-intro.mp3": 47.5089583,
+      "wecp-plover-cove-reservoir-the-problem-and-the-plan.mp3": 84.2930416,
+      "wecp-plover-cove-reservoir-sealing-the-sea.mp3": 64.86675,
+      "wecp-plover-cove-reservoir-a-lake-where-the-sea-had-been.mp3": 62.9209166,
+      "wecp-plover-cove-reservoir-a-citys-thirst-an-engineers-answer.mp3": 61.5624166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

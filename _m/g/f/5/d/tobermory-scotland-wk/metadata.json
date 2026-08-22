@@ -164,5 +164,24 @@
     "_m/g/f/5/9/mull-wk/tobermory-distillery-isle-of-m.jpg",
     "_m/g/f/5/d/tobermory-distillery-wp/tobermory-distillery.jpg",
     "_m/g/f/5/d/tobermory-scotland-wk/clock-tower-tobermory.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gf5d-tobermory-flight-context.mp3",
+      "gf5d-tobermory-intro.mp3",
+      "gf5d-tobermory-calmac-country.mp3",
+      "gf5d-tobermory-calve-island-and-the-stevensons.mp3",
+      "gf5d-tobermory-glengorm-and-the-volcano.mp3",
+      "gf5d-tobermory-bright-doors-and-patchy-signal.mp3"
+    ],
+    "durations": {
+      "gf5d-tobermory-flight-context.mp3": 57.4892916,
+      "gf5d-tobermory-intro.mp3": 53.4213333,
+      "gf5d-tobermory-calmac-country.mp3": 63.3330416,
+      "gf5d-tobermory-calve-island-and-the-stevensons.mp3": 53.17775,
+      "gf5d-tobermory-glengorm-and-the-volcano.mp3": 53.6545,
+      "gf5d-tobermory-bright-doors-and-patchy-signal.mp3": 61.959625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

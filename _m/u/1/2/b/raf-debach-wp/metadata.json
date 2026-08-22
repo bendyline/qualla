@@ -404,5 +404,24 @@
     "_m/u/1/2/b/raf-debach-wp/war-time-runway-geograph-org-u.jpg",
     "_m/u/1/2/b/raf-debach-wp/former-debach-airfield-geograp.jpg"
   ],
-  "updatedAt": "2026-06-25T21:55:43.075Z"
+  "updatedAt": "2026-06-25T21:55:43.075Z",
+  "narration": {
+    "files": [
+      "u12b-raf-debach-flight-context.mp3",
+      "u12b-raf-debach-intro.mp3",
+      "u12b-raf-debach-built-in-time-built-too-fast.mp3",
+      "u12b-raf-debach-the-targets-named.mp3",
+      "u12b-raf-debach-after-the-last-mission.mp3",
+      "u12b-raf-debach-what-remains-above-the-stubble.mp3"
+    ],
+    "durations": {
+      "u12b-raf-debach-flight-context.mp3": 58.173875,
+      "u12b-raf-debach-intro.mp3": 44.8366666,
+      "u12b-raf-debach-built-in-time-built-too-fast.mp3": 85.122125,
+      "u12b-raf-debach-the-targets-named.mp3": 77.875125,
+      "u12b-raf-debach-after-the-last-mission.mp3": 58.104375,
+      "u12b-raf-debach-what-remains-above-the-stubble.mp3": 66.8597916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

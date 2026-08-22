@@ -132,5 +132,24 @@
   "galleryPaths": [
     "_m/r/5/b/4/ruby-gap-nature-park-wp/headstone-fox-northern.jpg",
     "_m/r/5/b/4/ruby-gap-nature-park-wp/fox-s-grave-glen-annie.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r5b4-ruby-gap-nature-park-flight-context.mp3",
+      "r5b4-ruby-gap-nature-park-intro.mp3",
+      "r5b4-ruby-gap-nature-park-the-rush-that-wasnt.mp3",
+      "r5b4-ruby-gap-nature-park-garnets-not-rubies.mp3",
+      "r5b4-ruby-gap-nature-park-a-grave-by-the-river.mp3",
+      "r5b4-ruby-gap-nature-park-older-than-the-rush.mp3"
+    ],
+    "durations": {
+      "r5b4-ruby-gap-nature-park-flight-context.mp3": 56.681,
+      "r5b4-ruby-gap-nature-park-intro.mp3": 47.2074166,
+      "r5b4-ruby-gap-nature-park-the-rush-that-wasnt.mp3": 48.6219583,
+      "r5b4-ruby-gap-nature-park-garnets-not-rubies.mp3": 58.0782083,
+      "r5b4-ruby-gap-nature-park-a-grave-by-the-river.mp3": 54.2085833,
+      "r5b4-ruby-gap-nature-park-older-than-the-rush.mp3": 58.158125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

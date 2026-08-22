@@ -118,5 +118,24 @@
   "galleryPaths": [
     "_m/r/7/6/j/hornet-bank-massacre-wp/fraser-family-grave-si.jpg",
     "_m/r/7/6/j/hornet-bank-massacre-wp/fraser-family-grave-si-1.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r76j-hornet-bank-massacre-flight-context.mp3",
+      "r76j-hornet-bank-massacre-intro.mp3",
+      "r76j-hornet-bank-massacre-an-invasion-without-permission.mp3",
+      "r76j-hornet-bank-massacre-the-spark-and-the-night.mp3",
+      "r76j-hornet-bank-massacre-the-vengeance-without-end.mp3",
+      "r76j-hornet-bank-massacre-what-survived-and-what-returned.mp3"
+    ],
+    "durations": {
+      "r76j-hornet-bank-massacre-flight-context.mp3": 58.2748333,
+      "r76j-hornet-bank-massacre-intro.mp3": 52.2015,
+      "r76j-hornet-bank-massacre-an-invasion-without-permission.mp3": 60.01275,
+      "r76j-hornet-bank-massacre-the-spark-and-the-night.mp3": 61.4524166,
+      "r76j-hornet-bank-massacre-the-vengeance-without-end.mp3": 72.9213333,
+      "r76j-hornet-bank-massacre-what-survived-and-what-returned.mp3": 65.831
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

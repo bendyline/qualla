@@ -16,7 +16,7 @@ Behind the numbers were lives. The eight who died included two couples and a mot
 
 ## Two Minutes
 
-It happened fast. Investigators later concluded that the fire most likely began with the blowtorch used to heat the air that kept the balloon aloft. With flames spreading and the envelope failing, the pilot, who survived, tried to bring the balloon down low enough for the passengers to jump clear. Some made it out. As the basket lightened, the balloon lifted again, and those who remained could not escape. It came down in wooded ground roughly two kilometers from where it had launched. Around thirty military firefighters rushed to the scene with vehicles and an aircraft, but for eight people there was nothing left to do but recover them with care.
+It happened fast. Preliminary investigation indicated that the fire likely began with the blowtorch used to heat the air that kept the balloon aloft. With flames spreading and the envelope failing, the pilot, who survived, tried to bring the balloon down low enough for the passengers to jump clear. Some made it out. As the basket lightened, the balloon lifted again, and those who remained could not escape. It came down in wooded ground roughly two kilometers from where it had launched. Around thirty military firefighters rushed to the scene with vehicles and an aircraft, but for eight people there was nothing left to do but recover them with care.
 
 ## A Country in Mourning
 

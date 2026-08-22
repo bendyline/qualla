@@ -123,5 +123,24 @@
   "galleryPaths": [
     "_m/s/w/6/p/thera-eruption-wk/location-map-greece.jpg",
     "_m/s/w/f/d/bayrakli-mosque-chios-wp/inscription-bayrakli-m.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swfd-bayrakli-mosque-chios-flight-context.mp3",
+      "swfd-bayrakli-mosque-chios-intro.mp3",
+      "swfd-bayrakli-mosque-chios-built-by-a-sultans-order.mp3",
+      "swfd-bayrakli-mosque-chios-when-the-worshippers-left.mp3",
+      "swfd-bayrakli-mosque-chios-three-faiths-in-the-stone.mp3",
+      "swfd-bayrakli-mosque-chios-a-layered-heritage.mp3"
+    ],
+    "durations": {
+      "swfd-bayrakli-mosque-chios-flight-context.mp3": 58.722625,
+      "swfd-bayrakli-mosque-chios-intro.mp3": 44.068375,
+      "swfd-bayrakli-mosque-chios-built-by-a-sultans-order.mp3": 48.741,
+      "swfd-bayrakli-mosque-chios-when-the-worshippers-left.mp3": 51.2846666,
+      "swfd-bayrakli-mosque-chios-three-faiths-in-the-stone.mp3": 50.2193333,
+      "swfd-bayrakli-mosque-chios-a-layered-heritage.mp3": 47.982375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

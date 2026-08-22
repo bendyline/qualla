@@ -20,7 +20,7 @@ The full-scale fighting began on 24 July 2025. According to BBC correspondent Jo
 
 ## The Civilians Between
 
-For the people living along the border, the crisis was measured not in diplomatic communiques but in displacement, violence, and fear. Tens of thousands of Cambodian migrant workers in Thailand faced rising discrimination and harassment. After the initial ceasefire in August, Thai media reported traffic jams stretching eight kilometers at the Ban Laem border checkpoint as roughly 20,000 Cambodian nationals tried to return home. In November, an eighteen-year-old Cambodian migrant worker was reportedly raped by Thai paramilitary soldiers while traveling back to Cambodia, prompting condemnation from over two hundred Cambodian organizations. At least four other Cambodian workers were assaulted amid social media posts urging Thai citizens to demonstrate patriotism by attacking Cambodians. Cambodia closed the Poipet border crossing in October, stranding thousands of Thai citizens. The conflict's human toll extended well beyond the soldiers and diplomats negotiating in foreign capitals.
+For the people living along the border, the crisis was measured not in diplomatic communiques but in displacement, violence, and fear. Tens of thousands of Cambodian migrant workers in Thailand faced rising discrimination and harassment. After the initial ceasefire in August, Thai media reported traffic jams stretching eight kilometers at the Ban Laem border checkpoint as roughly 20,000 Cambodian nationals tried to return home. In November, an eighteen-year-old Cambodian migrant worker was reportedly raped by Thai paramilitary soldiers while traveling back to Cambodia, prompting condemnation from over two hundred Cambodian organizations; Thailand's foreign ministry rejected the allegation, saying its agencies had found no supporting evidence. At least four other Cambodian workers were assaulted amid social media posts urging Thai citizens to demonstrate patriotism by attacking Cambodians. Cambodia closed the Poipet border crossing in October, stranding thousands of Thai citizens. The conflict's human toll extended well beyond the soldiers and diplomats negotiating in foreign capitals.
 
 ## Peace Signed, Peace Broken
 
@@ -51,6 +51,8 @@ The Cambodia-Thailand border crisis zone (approximately 11.65N, 102.91E) stretch
   - December 8 fighting resumed confirmed
   - Thailand bombed casino complex near Trat Province border confirmed
   - Cambodia withdrew from 2025 SEA Games confirmed
+- [Review — 2026-07-13](https://thediplomat.com/2025/11/thailand-denies-claim-its-soldiers-gang-raped-cambodian-woman/)
+  - Added Thailand's denial of the November gang-rape allegation (Thai foreign ministry said its agencies found no supporting evidence) to the already-hedged "reportedly raped" account, for balance on a contested allegation.
 
 ## Review Notes
 

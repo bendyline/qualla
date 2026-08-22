@@ -673,5 +673,24 @@
     "_m/s/w/b/b/hellenic-parliament-wp/hellenic-parliament-07.jpg",
     "_m/s/w/b/b/hellenic-parliament-wp/hellenic-parliament-08.jpg"
   ],
-  "updatedAt": "2026-06-24T18:52:02.056Z"
+  "updatedAt": "2026-06-24T18:52:02.056Z",
+  "narration": {
+    "files": [
+      "swbb-hellenic-parliament-flight-context.mp3",
+      "swbb-hellenic-parliament-intro.mp3",
+      "swbb-hellenic-parliament-a-palace-for-a-borrowed-king.mp3",
+      "swbb-hellenic-parliament-from-throne-room-to-debating-floor.mp3",
+      "swbb-hellenic-parliament-the-soldier-with-no-name.mp3",
+      "swbb-hellenic-parliament-the-living-chamber.mp3"
+    ],
+    "durations": {
+      "swbb-hellenic-parliament-flight-context.mp3": 60.53725,
+      "swbb-hellenic-parliament-intro.mp3": 39.8551666,
+      "swbb-hellenic-parliament-a-palace-for-a-borrowed-king.mp3": 59.3592083,
+      "swbb-hellenic-parliament-from-throne-room-to-debating-floor.mp3": 53.6009166,
+      "swbb-hellenic-parliament-the-soldier-with-no-name.mp3": 54.5912083,
+      "swbb-hellenic-parliament-the-living-chamber.mp3": 47.2820833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

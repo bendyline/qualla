@@ -20,7 +20,7 @@ The helicopters touched down at 7:30 a.m. after a short artillery barrage. First
 
 ## The Helicopter Crew Who Said No
 
-Warrant Officer Hugh Thompson was flying reconnaissance above Son My when he began noticing bodies -- civilians, not combatants -- scattered across the village. He landed his helicopter beside a ditch full of wounded and dead villagers and asked a lieutenant if he could help evacuate the survivors. The response, as Thompson later testified, was that "a hand grenade was the only available means of evacuation." Thompson spotted a group of civilians being herded toward a bunker by ground troops. He landed again and told his crew chief, Glenn Andreotta, and door gunner, Lawrence Colburn, that if the soldiers fired on the villagers while he tried to get them out, they were to open fire on the American soldiers. Thompson then positioned himself between the troops and the civilians and called in helicopter gunships to evacuate the survivors. Andreotta climbed into a ditch and pulled out a bloodied but unharmed four-year-old girl. Thompson reported what he had seen using words like "murder" and "needless and unnecessary killings." He was initially awarded a Distinguished Flying Cross with a fabricated citation about rescuing civilians from "intense crossfire." He threw the medal away. Thirty years later, the Army replaced it with a Soldier's Medal -- this time with an honest citation.
+Warrant Officer Hugh Thompson was flying reconnaissance above Son My when he began noticing bodies -- civilians, not combatants -- scattered across the village. He landed his helicopter beside a ditch full of wounded and dead villagers and asked a lieutenant if he could help evacuate the survivors. The response, as Thompson later testified, was that a hand grenade was the only available means of evacuation. Thompson spotted a group of civilians being herded toward a bunker by ground troops. He landed again and told his crew chief, Glenn Andreotta, and door gunner, Lawrence Colburn, that if the soldiers fired on the villagers while he tried to get them out, they were to open fire on the American soldiers. Thompson then positioned himself between the troops and the civilians and called in helicopter gunships to evacuate the survivors. Andreotta climbed into a ditch and pulled out a bloodied but unharmed four-year-old girl. Thompson reported what he had seen using words like "murder" and "needless and unnecessary killings." He was initially awarded a Distinguished Flying Cross with a fabricated citation about rescuing civilians from "intense crossfire." He threw the medal away. Thirty years later, the Army replaced it with a Soldier's Medal -- this time with an honest citation.
 
 ## Eighteen Months of Silence
 
@@ -48,6 +48,8 @@ The My Lai massacre site is located at 15.178N, 108.869E in Quang Ngai Province,
   - Twenty-six soldiers charged; only Calley convicted
 - [William Calley - Wikipedia](https://en.wikipedia.org/wiki/William_Calley)
   - Calley served approximately three and a half years under house arrest before parole in November 1974
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/My_Lai_massacre)
+  - Converted a compressed/misattributed ditch quote to indirect speech (source renders it as Calley's reconstructed line).
 
 ## Review Notes
 

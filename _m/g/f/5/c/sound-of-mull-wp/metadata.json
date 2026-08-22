@@ -544,5 +544,22 @@
     "_m/g/f/5/c/lochaline-wp/at-sea-on-the-sound-of-mull-ge.jpg",
     "_m/g/f/5/c/sound-of-mull-wp/dike-above-the-shore-west-of-r.jpg"
   ],
-  "updatedAt": "2026-06-23T19:55:11.495Z"
+  "updatedAt": "2026-06-23T19:55:11.495Z",
+  "narration": {
+    "files": [
+      "gf5c-sound-of-mull-flight-context.mp3",
+      "gf5c-sound-of-mull-intro.mp3",
+      "gf5c-sound-of-mull-three-castles-facing-the-water.mp3",
+      "gf5c-sound-of-mull-lighthouses-by-the-stevenson-family.mp3",
+      "gf5c-sound-of-mull-the-wrecks-below.mp3"
+    ],
+    "durations": {
+      "gf5c-sound-of-mull-flight-context.mp3": 50.7762916,
+      "gf5c-sound-of-mull-intro.mp3": 44.3927916,
+      "gf5c-sound-of-mull-three-castles-facing-the-water.mp3": 54.5975,
+      "gf5c-sound-of-mull-lighthouses-by-the-stevenson-family.mp3": 54.2575833,
+      "gf5c-sound-of-mull-the-wrecks-below.mp3": 61.3132083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -516,5 +516,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swbb-2018-attica-wildfires-flight-context.mp3",
+      "swbb-2018-attica-wildfires-intro.mp3",
+      "swbb-2018-attica-wildfires-the-day-the-wind-turned.mp3",
+      "swbb-2018-attica-wildfires-trapped-between-flame-and-sea.mp3",
+      "swbb-2018-attica-wildfires-a-nation-in-mourning.mp3",
+      "swbb-2018-attica-wildfires-reckoning-and-unhealed-ground.mp3"
+    ],
+    "durations": {
+      "swbb-2018-attica-wildfires-flight-context.mp3": 49.2844166,
+      "swbb-2018-attica-wildfires-intro.mp3": 48.1372083,
+      "swbb-2018-attica-wildfires-the-day-the-wind-turned.mp3": 51.5057916,
+      "swbb-2018-attica-wildfires-trapped-between-flame-and-sea.mp3": 50.2860416,
+      "swbb-2018-attica-wildfires-a-nation-in-mourning.mp3": 48.46825,
+      "swbb-2018-attica-wildfires-reckoning-and-unhealed-ground.mp3": 64.8210416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

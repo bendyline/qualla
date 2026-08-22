@@ -69,5 +69,26 @@
     "sourceGeohash4": "sx5j"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sx5j-parium-flight-context.mp3",
+      "sx5j-parium-intro.mp3",
+      "sx5j-parium-toll-gate-of-the-ancient-world.mp3",
+      "sx5j-parium-passed-from-hand-to-hand.mp3",
+      "sx5j-parium-a-city-of-saints-and-bishops.mp3",
+      "sx5j-parium-what-the-excavators-found.mp3",
+      "sx5j-parium-ruins-on-the-cape.mp3"
+    ],
+    "durations": {
+      "sx5j-parium-flight-context.mp3": 59.75575,
+      "sx5j-parium-intro.mp3": 44.4122916,
+      "sx5j-parium-toll-gate-of-the-ancient-world.mp3": 61.836875,
+      "sx5j-parium-passed-from-hand-to-hand.mp3": 62.4822916,
+      "sx5j-parium-a-city-of-saints-and-bishops.mp3": 73.6891666,
+      "sx5j-parium-what-the-excavators-found.mp3": 66.72475,
+      "sx5j-parium-ruins-on-the-cape.mp3": 38.4340416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

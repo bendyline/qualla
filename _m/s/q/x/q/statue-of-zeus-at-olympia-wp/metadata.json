@@ -168,5 +168,24 @@
     "_m/s/q/x/q/statue-of-zeus-at-olympia-wp/zeus-olympia-feidias-s.jpg",
     "_m/s/q/x/q/statue-of-zeus-at-olympia-wp/bronze-statue-god-zeus.jpg",
     "_m/s/m/z/d/temple-of-zeus-cyrene-wp/olympia-museum-zeus.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sqxq-statue-of-zeus-at-olympia-flight-context.mp3",
+      "sqxq-statue-of-zeus-at-olympia-intro.mp3",
+      "sqxq-statue-of-zeus-at-olympia-what-phidias-built.mp3",
+      "sqxq-statue-of-zeus-at-olympia-the-sculptors-touch.mp3",
+      "sqxq-statue-of-zeus-at-olympia-caligulas-threat-and-worse.mp3",
+      "sqxq-statue-of-zeus-at-olympia-known-only-from-description.mp3"
+    ],
+    "durations": {
+      "sqxq-statue-of-zeus-at-olympia-flight-context.mp3": 63.044375,
+      "sqxq-statue-of-zeus-at-olympia-intro.mp3": 63.9880833,
+      "sqxq-statue-of-zeus-at-olympia-what-phidias-built.mp3": 109.687625,
+      "sqxq-statue-of-zeus-at-olympia-the-sculptors-touch.mp3": 97.89025,
+      "sqxq-statue-of-zeus-at-olympia-caligulas-threat-and-worse.mp3": 97.596125,
+      "sqxq-statue-of-zeus-at-olympia-known-only-from-description.mp3": 70.359
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

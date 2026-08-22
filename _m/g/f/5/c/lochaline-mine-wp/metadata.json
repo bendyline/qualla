@@ -50,5 +50,22 @@
     "sourceGeohash4": "gf5c"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gf5c-lochaline-mine-flight-context.mp3",
+      "gf5c-lochaline-mine-intro.mp3",
+      "gf5c-lochaline-mine-a-beach-beneath-a-volcano.mp3",
+      "gf5c-lochaline-mine-the-purest-glass-in-britain.mp3",
+      "gf5c-lochaline-mine-the-only-underground-sand-mine-in-europe.mp3"
+    ],
+    "durations": {
+      "gf5c-lochaline-mine-flight-context.mp3": 40.3626666,
+      "gf5c-lochaline-mine-intro.mp3": 45.4591666,
+      "gf5c-lochaline-mine-a-beach-beneath-a-volcano.mp3": 63.779,
+      "gf5c-lochaline-mine-the-purest-glass-in-britain.mp3": 61.2625416,
+      "gf5c-lochaline-mine-the-only-underground-sand-mine-in-europe.mp3": 60.8700416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

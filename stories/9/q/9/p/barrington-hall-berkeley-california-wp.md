@@ -8,7 +8,7 @@ A Berkeley student co-op that became the last outpost of sixties counterculture,
 
 ## Introduction
 
-"Welcome to Barrington, kids! Please keep your hands and arms inside the ride at all times." The mural greeting visitors inside the front door of 2315 Dwight Way was painted in a neo-psychedelic style with anime flourishes, a Disneyland parody for a place that was anything but wholesome. For more than half a century, Barrington Hall operated as a student housing cooperative two blocks from People's Park in Berkeley, California. The Ninth Circuit Court of Appeals described it in formal legal prose that reads like a fever dream: "If Berkeley was the last bastion of sixties counterculture, Barrington Hall was surely the last rampart." The East Bay Express preferred a painterly metaphor, calling it "the great Breughel painting of Berkeley campus counterculture." Both were trying to capture something that ultimately defied neat description: a four-story apartment building where every wall was covered in decades of murals and graffiti, where punk bands played at LSD-laced Wine Dinners, and where the devotion to cooperation in a nation committed to competition bore radical fruit for thirty-five years.
+"Welcome to Barrington, kids! Please keep your hands and arms inside the ride at all times." The mural greeting visitors inside the front door of 2315 Dwight Way was painted in a neo-psychedelic style with anime flourishes, a Disneyland parody for a place that was anything but wholesome. For more than half a century, Barrington Hall operated as a student housing cooperative two blocks from People's Park in Berkeley, California. The Ninth Circuit Court of Appeals described it in formal legal prose that reads like a fever dream: "If Berkeley ... was the last bastion of sixties counterculture, Barrington Hall ... was surely the last rampart." The East Bay Express preferred a painterly metaphor, calling it "the great Breughel painting of Berkeley campus counterculture." Both were trying to capture something that ultimately defied neat description: a four-story apartment building where every wall was covered in decades of murals and graffiti, where punk bands played at LSD-laced Wine Dinners, and where the devotion to cooperation in a nation committed to competition bore radical fruit for thirty-five years.
 
 ## From Fraternity House to Safe House
 
@@ -20,7 +20,7 @@ Every surface inside Barrington was layered with art. The tradition of murals be
 
 ## Wine Dinners and the Punk Underground
 
-The Wine Dinners were Barrington's signature ritual - themed dinners with names like Satan's Village Wine Dinner and the Cannibal Wine Dinner, the latter complete with body-part-shaped food. Before a 1984 legal arbitration restricted the hall to three amplified-music events per semester, Barrington was a launching pad for Bay Area punk. Black Flag, Dead Kennedys, Flipper, X, NOFX, and Operation Ivy all played there. Camper Van Beethoven performed at a Wine Dinner in 1988 under the anagram Vampire Can Mating Oven. Primus drew direct inspiration: their song "Frizzle Fry" and the theme of their album Tales From the Punchbowl were born from the LSD-laced punch served at these gatherings. Les Claypool later memorialized the place in a 2002 song: "Does anyone here remember Barrington Hall? They care not for wrong or right, they electrocute the night." The house band Acid Rain, later renamed Idiot Flesh, spawned members who went on to perform with Sleepytime Gorilla Museum and Faun Fables.
+The Wine Dinners were Barrington's signature ritual - themed dinners with names like Satan's Village Wine Dinner and the Cannibal Wine Dinner, the latter complete with body-part-shaped food. Before a 1984 legal arbitration restricted the hall to three amplified-music events per semester, Barrington was a launching pad for Bay Area punk. Black Flag, Dead Kennedys, Flipper, X, NOFX, and Operation Ivy all played there. Camper Van Beethoven performed at a Wine Dinner in 1988 under the anagram Vampire Can Mating Oven. Primus drew direct inspiration: their song "Frizzle Fry" and the theme of their album Tales From the Punchbowl were born from the LSD-laced punch served at these gatherings. Les Claypool later memorialized the place in a 2002 song simply titled "Barrington Hall," a surreal, nostalgic tribute to the house. The house band Acid Rain, later renamed Idiot Flesh, spawned members who went on to perform with Sleepytime Gorilla Museum and Faun Fables.
 
 ## A Spiral Beyond Control
 
@@ -51,6 +51,8 @@ Located at 37.8647N, 122.262W in the Southside neighborhood of Berkeley, two blo
   - March 1990 riot and 17 arrests
   - September 1990 final eviction
   - Steve Wozniak as former resident
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Barrington_Hall_(Berkeley,_California))
+  - Replaced a misquoted/contested Les Claypool song lyric with an indirect reference and marked a Ninth Circuit quote as condensed (ellipses).
 
 ## Review Notes
 

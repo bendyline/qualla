@@ -8,7 +8,7 @@ To supply Kitchener's army of conquest, Egyptian farmers conscripted from the Ni
 
 ## Introduction
 
-In 1896, a British officer named Horatio Kitchener insisted on a railway gauge. Not the cheap narrow one his political overseer Lord Cromer had approved, but the 3-foot 6-inch Cape gauge - the same width Cecil Rhodes was laying between Kimberley and Bulawayo. Kitchener had met Rhodes a few weeks earlier in Cairo, where Rhodes had come to buy donkeys for use in Rhodesia. The two men shared tools and track. What they also shared was a vision of empire built on rails - and in the Sudan, the rails were laid by people who had little choice in the matter.
+In 1896, a British officer named Horatio Kitchener insisted on a railway gauge. Not the cheap narrow one his political overseer Lord Cromer had approved, but the 3-foot 6-inch Cape gauge - the same width Cecil Rhodes was laying between Kimberley and Bulawayo. Kitchener had met Rhodes a few weeks earlier in Cairo, where Rhodes had come to buy donkeys for use in Rhodesia (now Zimbabwe). The two men shared tools and track. What they also shared was a vision of empire built on rails - and in the Sudan, the rails were laid by people who had little choice in the matter.
 
 ## An Eighteen-Day Journey in Twenty-Four Hours
 

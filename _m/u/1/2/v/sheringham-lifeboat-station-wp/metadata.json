@@ -567,5 +567,24 @@
     "_m/u/1/2/v/sheringham-lifeboat-station-wp/rnli-irb-station-geograph-org--1.jpg",
     "_m/u/1/2/v/sheringham-lifeboat-station-wp/norfolk-coast-path-050-geograp.jpg"
   ],
-  "updatedAt": "2026-06-26T00:24:43.410Z"
+  "updatedAt": "2026-06-26T00:24:43.410Z",
+  "narration": {
+    "files": [
+      "u12v-sheringham-lifeboat-station-flight-context.mp3",
+      "u12v-sheringham-lifeboat-station-intro.mp3",
+      "u12v-sheringham-lifeboat-station-the-upcher-gift.mp3",
+      "u12v-sheringham-lifeboat-station-four-boats-one-town.mp3",
+      "u12v-sheringham-lifeboat-station-no-harbour-no-ramp.mp3",
+      "u12v-sheringham-lifeboat-station-a-station-at-risk.mp3"
+    ],
+    "durations": {
+      "u12v-sheringham-lifeboat-station-flight-context.mp3": 45.9922916,
+      "u12v-sheringham-lifeboat-station-intro.mp3": 39.6350416,
+      "u12v-sheringham-lifeboat-station-the-upcher-gift.mp3": 68.4805416,
+      "u12v-sheringham-lifeboat-station-four-boats-one-town.mp3": 63.7710416,
+      "u12v-sheringham-lifeboat-station-no-harbour-no-ramp.mp3": 58.3594583,
+      "u12v-sheringham-lifeboat-station-a-station-at-risk.mp3": 62.29025
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

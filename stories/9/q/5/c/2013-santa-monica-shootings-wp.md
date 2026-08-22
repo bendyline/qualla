@@ -1,6 +1,6 @@
 # 2013 Santa Monica Shootings
 
-On June 7, 2013, 23-year-old John Zawahri killed six people across nine crime scenes in a 13-minute rampage through Santa Monica, beginning with his own family.
+On June 7, 2013, 23-year-old John Zawahri killed five people across nine crime scenes in a 13-minute rampage through Santa Monica, beginning with his own family.
 
 **Location:** 34.0188, -118.4700
 
@@ -8,13 +8,13 @@ On June 7, 2013, 23-year-old John Zawahri killed six people across nine crime sc
 
 ## Introduction
 
-The spree began at a house on Yorkshire Avenue, where John Zawahri shot his father and his brother before setting the home on fire. He was 23 years old and had been in crisis, in one form or another, for most of the previous decade. In the 13 minutes that followed — across nine separate crime scenes through a sun-drenched Los Angeles neighborhood — he would kill four more people, wound others, and end with his own death on the campus of Santa Monica College. President Obama was in the area that morning for a fundraiser.
+The spree began at a house on Yorkshire Avenue, where John Zawahri shot his father and his brother before setting the home on fire. He was 23 years old and had been in crisis, in one form or another, for most of the previous decade. In the 13 minutes that followed — across nine separate crime scenes through a sun-drenched Los Angeles neighborhood — he would kill three more people, wound others, and end with his own death on the campus of Santa Monica College. President Obama was in the area that morning for a fundraiser.
 
 ## The Path Through the City
 
-After the fire at the Yorkshire Avenue house, Zawahri carjacked a woman at gunpoint, forcing her to drive through the neighborhood as he fired at passing vehicles. He shot Debra Lynn Fine in another vehicle. He shot and killed Carlos Navarro Franco, 68, and his daughter Marcela Diaz Franco, 26, a Santa Monica College student, as they drove in a Ford Explorer. On Pico Boulevard, he killed Margarita Gomez, 68, who had been collecting aluminum cans. He shot at a Santa Monica city bus and fired at a passing SUV before arriving at the college campus, where he entered the library and continued shooting until officers confronted and killed him.
+After the fire at the Yorkshire Avenue house, Zawahri carjacked a woman at gunpoint, forcing her to drive through the neighborhood as he fired at passing vehicles. He shot and wounded Debra Lynn Fine, who survived. He shot and killed Carlos Navarro Franco, 68, and his daughter Marcela Diaz Franco, 26, a Santa Monica College student, as they drove in a Ford Explorer. On Pico Boulevard, he killed Margarita Gomez, 68, who had been collecting aluminum cans. He shot at a Santa Monica city bus and fired at a passing SUV before arriving at the college campus, where he entered the library and continued shooting until officers confronted and killed him.
 
-## Six Lives
+## Five Lives
 
 Samir Zawahri, 55, was John's father — a Lebanese immigrant who had raised his family in Santa Monica. Christopher Zawahri, 24, was his brother. Carlos Navarro Franco had come to Los Angeles from Mexico and worked as a groundskeeper. His daughter Marcela was studying at the community college where she would die. Margarita Gomez supplemented her income collecting recyclables in the neighborhood. Each had their own life, their own history, their own reasons to be on those particular streets that particular morning. The randomness of who was killed and who survived depended entirely on where each person happened to be when a young man with a rifle arrived.
 
@@ -37,12 +37,14 @@ Santa Monica is located at 34.0189°N, 118.4700°W on the Pacific coast west of 
 ## Sources
 
 - [2013 Santa Monica shootings - Wikipedia](https://en.wikipedia.org/wiki/2013_Santa_Monica_shootings)
-  - Six victims named: Samir Zawahri, Christopher Zawahri, Carlos Navarro Franco, Marcela Franco, Margarita Gomez, and Debra Lynn Fine verified
+  - Five killed: Samir Zawahri, Christopher Zawahri, Carlos Navarro Franco, Marcela Franco, Margarita Gomez. Debra Lynn Fine was wounded and survived. Six total deaths including the perpetrator.
   - Shooter John Zawahri, 23 verified
   - June 7, 2013 date verified
   - 13 minutes, 9 crime scenes verified
   - Corrected: Airport closure reference updated — KSMO is scheduled to close Dec 31, 2028, not already closed
   - Obama fundraiser in area at time of shooting verified
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2013_Santa_Monica_shootings)
+  - Corrected the death toll (six -> five killed) and clarified that Debra Lynn Fine survived.
 
 ## Review Notes
 

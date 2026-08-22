@@ -49,5 +49,24 @@
     "sourceGeohash4": "ws10"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "ws10-wuwang-club-fire-flight-context.mp3",
+      "ws10-wuwang-club-fire-intro.mp3",
+      "ws10-wuwang-club-fire-what-happened.mp3",
+      "ws10-wuwang-club-fire-a-building-without-a-license.mp3",
+      "ws10-wuwang-club-fire-the-people-inside.mp3",
+      "ws10-wuwang-club-fire-what-the-fire-left-behind.mp3"
+    ],
+    "durations": {
+      "ws10-wuwang-club-fire-flight-context.mp3": 46.4444583,
+      "ws10-wuwang-club-fire-intro.mp3": 41.989875,
+      "ws10-wuwang-club-fire-what-happened.mp3": 52.8474166,
+      "ws10-wuwang-club-fire-a-building-without-a-license.mp3": 50.5173333,
+      "ws10-wuwang-club-fire-the-people-inside.mp3": 59.7471666,
+      "ws10-wuwang-club-fire-what-the-fire-left-behind.mp3": 66.4634583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

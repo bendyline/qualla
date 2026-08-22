@@ -566,5 +566,24 @@
     "_m/s/w/b/b/pnyx-wp/pnyx-2019-02.jpg",
     "_m/s/w/b/b/pnyx-wp/pnyx-2019-01.jpg"
   ],
-  "updatedAt": "2026-06-24T20:10:57.571Z"
+  "updatedAt": "2026-06-24T20:10:57.571Z",
+  "narration": {
+    "files": [
+      "swbb-pnyx-flight-context.mp3",
+      "swbb-pnyx-intro.mp3",
+      "swbb-pnyx-where-the-people-gathered.mp3",
+      "swbb-pnyx-voices-on-the-stone.mp3",
+      "swbb-pnyx-built-and-rebuilt.mp3",
+      "swbb-pnyx-an-idea-interrupted.mp3"
+    ],
+    "durations": {
+      "swbb-pnyx-flight-context.mp3": 45.60525,
+      "swbb-pnyx-intro.mp3": 50.0001666,
+      "swbb-pnyx-where-the-people-gathered.mp3": 55.627125,
+      "swbb-pnyx-voices-on-the-stone.mp3": 61.5009583,
+      "swbb-pnyx-built-and-rebuilt.mp3": 49.55475,
+      "swbb-pnyx-an-idea-interrupted.mp3": 61.4449166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -20,7 +20,7 @@ What followed was less a war than a tragedy among comrades, for the men on both 
 
 ## The Hunt and the Desert
 
-The government declared martial law on 12 October 1914, and the suppression was swift and merciless to the cause if not always to the men. Maritz was defeated on 24 October and fled to the Germans. General Beyers escaped one battle only to drown in the Vaal River that December. De Wet was run down on a farm in Bechuanaland; "Thank God it was not an Englishman who captured me," he remarked. The cruelest blow fell on General Kemp's commando, which attempted to cross the Kalahari Desert to reach German territory. Over a month and 1,100 kilometers of waterless waste, 300 of his 800 men perished, along with most of their horses. The survivors surrendered in February 1915.
+The government declared martial law on 12 October 1914, and the suppression was swift and merciless to the cause if not always to the men. Maritz was defeated on 24 October and fled to the Germans. General Beyers escaped one battle only to drown in the Vaal River that December. De Wet was run down on a farm in Bechuanaland (now Botswana); "Thank God it was not an Englishman who captured me," he remarked. The cruelest blow fell on General Kemp's commando, which attempted to cross the Kalahari Desert to reach German territory. Over a month and 1,100 kilometers of waterless waste, 300 of his 800 men perished, along with most of their horses. The survivors surrendered in February 1915.
 
 ## The Seed of Fourie's Tree
 

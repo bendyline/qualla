@@ -97,5 +97,26 @@
   "galleryPaths": [
     "_m/g/f/m/v/john-o-groats-wp/castle-of-mey-caithness-scotla.jpg",
     "_m/g/f/m/v/john-o-groats-wp/mey-castle-2017-05-23-2.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gfmv-john-o-groats-flight-context.mp3",
+      "gfmv-john-o-groats-intro.mp3",
+      "gfmv-john-o-groats-the-signpost.mp3",
+      "gfmv-john-o-groats-not-the-most-northerly.mp3",
+      "gfmv-john-o-groats-lands-end-to-john-o-groats.mp3",
+      "gfmv-john-o-groats-across-the-firth.mp3",
+      "gfmv-john-o-groats-whats-around.mp3"
+    ],
+    "durations": {
+      "gfmv-john-o-groats-flight-context.mp3": 70.71175,
+      "gfmv-john-o-groats-intro.mp3": 47.19425,
+      "gfmv-john-o-groats-the-signpost.mp3": 48.9940416,
+      "gfmv-john-o-groats-not-the-most-northerly.mp3": 46.1287916,
+      "gfmv-john-o-groats-lands-end-to-john-o-groats.mp3": 55.908375,
+      "gfmv-john-o-groats-across-the-firth.mp3": 52.4635,
+      "gfmv-john-o-groats-whats-around.mp3": 43.5134166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

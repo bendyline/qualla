@@ -53,5 +53,24 @@
     "sourceGeohash4": "swfg"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "swfg-e-lenhoca-flight-context.mp3",
+      "swfg-e-lenhoca-intro.mp3",
+      "swfg-e-lenhoca-five-hundred-years-on-the-same-slope.mp3",
+      "swfg-e-lenhoca-houses-built-to-survive-the-earth.mp3",
+      "swfg-e-lenhoca-when-the-ground-shook.mp3",
+      "swfg-e-lenhoca-the-mosque-and-the-water.mp3"
+    ],
+    "durations": {
+      "swfg-e-lenhoca-flight-context.mp3": 44.3344166,
+      "swfg-e-lenhoca-intro.mp3": 44.5555,
+      "swfg-e-lenhoca-five-hundred-years-on-the-same-slope.mp3": 45.5798333,
+      "swfg-e-lenhoca-houses-built-to-survive-the-earth.mp3": 55.8284583,
+      "swfg-e-lenhoca-when-the-ground-shook.mp3": 53.9565,
+      "swfg-e-lenhoca-the-mosque-and-the-water.mp3": 58.4091666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

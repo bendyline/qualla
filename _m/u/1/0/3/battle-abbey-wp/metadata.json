@@ -549,5 +549,26 @@
     "_m/u/1/0/3/battle-abbey-wp/battle-abbey-13.jpg",
     "_m/u/1/0/3/battle-abbey-wp/battle-abbey-15.jpg"
   ],
-  "updatedAt": "2026-06-25T13:38:57.062Z"
+  "updatedAt": "2026-06-25T13:38:57.062Z",
+  "narration": {
+    "files": [
+      "u103-battle-abbey-flight-context.mp3",
+      "u103-battle-abbey-intro.mp3",
+      "u103-battle-abbey-the-founders-vow.mp3",
+      "u103-battle-abbey-privileges-of-the-battle-abbots.mp3",
+      "u103-battle-abbey-after-the-dissolution.mp3",
+      "u103-battle-abbey-walking-the-battlefield.mp3",
+      "u103-battle-abbey-headless-cross-and-other-echoes.mp3"
+    ],
+    "durations": {
+      "u103-battle-abbey-flight-context.mp3": 52.2627083,
+      "u103-battle-abbey-intro.mp3": 45.328125,
+      "u103-battle-abbey-the-founders-vow.mp3": 59.3935416,
+      "u103-battle-abbey-privileges-of-the-battle-abbots.mp3": 66.7134166,
+      "u103-battle-abbey-after-the-dissolution.mp3": 76.7256666,
+      "u103-battle-abbey-walking-the-battlefield.mp3": 63.8410416,
+      "u103-battle-abbey-headless-cross-and-other-echoes.mp3": 55.5428333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

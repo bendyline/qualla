@@ -93,5 +93,24 @@
   ],
   "galleryPaths": [
     "_m/r/5/y/s/bexley-station-queensland-wp/section-bexley-homeste.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r5ys-bexley-station-flight-context.mp3",
+      "r5ys-bexley-station-intro.mp3",
+      "r5ys-bexley-station-fire-at-the-beginning.mp3",
+      "r5ys-bexley-station-changing-hands-on-the-plains.mp3",
+      "r5ys-bexley-station-weather-that-makes-the-history.mp3",
+      "r5ys-bexley-station-still-a-working-run.mp3"
+    ],
+    "durations": {
+      "r5ys-bexley-station-flight-context.mp3": 68.84825,
+      "r5ys-bexley-station-intro.mp3": 36.4711666,
+      "r5ys-bexley-station-fire-at-the-beginning.mp3": 57.6596666,
+      "r5ys-bexley-station-changing-hands-on-the-plains.mp3": 47.6832083,
+      "r5ys-bexley-station-weather-that-makes-the-history.mp3": 48.6343333,
+      "r5ys-bexley-station-still-a-working-run.mp3": 41.0114166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -692,5 +692,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecn-hong-kong-zoological-and-botanical-gardens-flight-context.mp3",
+      "wecn-hong-kong-zoological-and-botanical-gardens-intro.mp3",
+      "wecn-hong-kong-zoological-and-botanical-gardens-stone-arches-and-bronze-kings.mp3",
+      "wecn-hong-kong-zoological-and-botanical-gardens-gardens-within-the-garden.mp3",
+      "wecn-hong-kong-zoological-and-botanical-gardens-primates-pelicans-and-a-jaguar.mp3",
+      "wecn-hong-kong-zoological-and-botanical-gardens-a-century-and-a-half-of-continuity.mp3"
+    ],
+    "durations": {
+      "wecn-hong-kong-zoological-and-botanical-gardens-flight-context.mp3": 58.271125,
+      "wecn-hong-kong-zoological-and-botanical-gardens-intro.mp3": 62.2397083,
+      "wecn-hong-kong-zoological-and-botanical-gardens-stone-arches-and-bronze-kings.mp3": 59.5112083,
+      "wecn-hong-kong-zoological-and-botanical-gardens-gardens-within-the-garden.mp3": 78.8100416,
+      "wecn-hong-kong-zoological-and-botanical-gardens-primates-pelicans-and-a-jaguar.mp3": 89.0642916,
+      "wecn-hong-kong-zoological-and-botanical-gardens-a-century-and-a-half-of-continuity.mp3": 67.826
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

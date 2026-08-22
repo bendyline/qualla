@@ -90,5 +90,24 @@
   ],
   "galleryPaths": [
     "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qfr1-ceduna-airport-flight-context.mp3",
+      "qfr1-ceduna-airport-intro.mp3",
+      "qfr1-ceduna-airport-a-stop-in-the-long-hop.mp3",
+      "qfr1-ceduna-airport-six-names-on-a-roadside-stone.mp3",
+      "qfr1-ceduna-airport-the-boy-who-flew-loops.mp3",
+      "qfr1-ceduna-airport-still-on-the-schedule.mp3"
+    ],
+    "durations": {
+      "qfr1-ceduna-airport-flight-context.mp3": 45.2419583,
+      "qfr1-ceduna-airport-intro.mp3": 33.52525,
+      "qfr1-ceduna-airport-a-stop-in-the-long-hop.mp3": 38.3784166,
+      "qfr1-ceduna-airport-six-names-on-a-roadside-stone.mp3": 48.56975,
+      "qfr1-ceduna-airport-the-boy-who-flew-loops.mp3": 42.0332083,
+      "qfr1-ceduna-airport-still-on-the-schedule.mp3": 37.2894166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

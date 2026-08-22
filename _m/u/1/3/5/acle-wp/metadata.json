@@ -520,5 +520,24 @@
     "_m/u/1/3/5/acle-wp/a-new-path-in-the-making-geogr.jpg",
     "_m/u/1/3/5/acle-wp/acle-library-geograph-org-uk-4.jpg"
   ],
-  "updatedAt": "2026-06-26T00:52:48.530Z"
+  "updatedAt": "2026-06-26T00:52:48.530Z",
+  "narration": {
+    "files": [
+      "u135-acle-flight-context.mp3",
+      "u135-acle-intro.mp3",
+      "u135-acle-port-at-the-head-of-an-estuary.mp3",
+      "u135-acle-the-turbary-right.mp3",
+      "u135-acle-st-edmunds-round-tower.mp3",
+      "u135-acle-the-damgate-kingfisher.mp3"
+    ],
+    "durations": {
+      "u135-acle-flight-context.mp3": 47.3624166,
+      "u135-acle-intro.mp3": 28.3947916,
+      "u135-acle-port-at-the-head-of-an-estuary.mp3": 49.0207916,
+      "u135-acle-the-turbary-right.mp3": 43.9452083,
+      "u135-acle-st-edmunds-round-tower.mp3": 62.914375,
+      "u135-acle-the-damgate-kingfisher.mp3": 55.467875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

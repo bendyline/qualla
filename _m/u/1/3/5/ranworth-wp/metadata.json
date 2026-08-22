@@ -529,5 +529,24 @@
     "_m/u/1/3/5/ranworth-wp/looking-inland-from-south-wals.jpg",
     "_m/u/1/3/5/ranworth-wp/marshland-between-upton-fen-an.jpg"
   ],
-  "updatedAt": "2026-06-26T01:04:35.305Z"
+  "updatedAt": "2026-06-26T01:04:35.305Z",
+  "narration": {
+    "files": [
+      "u135-ranworth-flight-context.mp3",
+      "u135-ranworth-intro.mp3",
+      "u135-ranworth-the-painted-screen.mp3",
+      "u135-ranworth-the-antiphoner.mp3",
+      "u135-ranworth-edge-of-the-marsh.mp3",
+      "u135-ranworth-why-climb-the-tower.mp3"
+    ],
+    "durations": {
+      "u135-ranworth-flight-context.mp3": 39.56025,
+      "u135-ranworth-intro.mp3": 40.027375,
+      "u135-ranworth-the-painted-screen.mp3": 49.947125,
+      "u135-ranworth-the-antiphoner.mp3": 35.7452916,
+      "u135-ranworth-edge-of-the-marsh.mp3": 40.922625,
+      "u135-ranworth-why-climb-the-tower.mp3": 39.5405416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

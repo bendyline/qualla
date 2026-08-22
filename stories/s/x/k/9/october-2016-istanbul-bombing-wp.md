@@ -20,7 +20,7 @@ Turkish authorities and security experts noted something about the timing that a
 
 ## Attribution and Aftermath
 
-Turkish authorities attributed the attack to the PKK (Kurdistan Workers' Party), which had been engaged in a renewed armed conflict with the Turkish state since 2015. No group formally claimed responsibility at the time. On the day of the attack, Turkish police detained six individuals suspected of involvement. The primary suspect, identified as Felek Gun, was arrested in Aksaray Province while traveling toward Syria, carrying a false identification document. Five others, including Ekrem Gun and Serdar Gun, were detained alongside him. The investigation moved quickly; the arrests came within hours of the detonation.
+Turkish authorities attributed the attack to the PKK (Kurdistan Workers' Party), which had been engaged in a renewed armed conflict with the Turkish state since 2015. No group formally claimed responsibility at the time. On the day of the attack, Turkish police detained six individuals suspected of involvement. The primary suspect was arrested in Aksaray Province while traveling toward Syria, carrying a false identification document. Five others were detained alongside him. The investigation moved quickly; the arrests came within hours of the detonation.
 
 ## A City Under Pressure
 
@@ -44,6 +44,8 @@ The Yenibosna neighborhood lies at approximately 40.9956°N, 28.8315°E in the B
 - [2016 Atatürk Airport attack - Wikipedia](https://en.wikipedia.org/wiki/2016_Atat%C3%BCrk_Airport_attack)
   - June 28 2016 attack killed 42 people (not 45 as originally written)
   - Approximately 238-239 wounded
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/October_2016_Istanbul_bombing)
+  - Removed the naming of three living individuals detained as suspects who were not recorded as convicted (BLP caution); the detention/false-ID facts and the attribution to Turkish authorities are unchanged.
 
 ## Review Notes
 

@@ -135,5 +135,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w6dw-wat-pah-nanachat-flight-context.mp3",
+      "w6dw-wat-pah-nanachat-intro.mp3",
+      "w6dw-wat-pah-nanachat-founded-for-foreigners.mp3",
+      "w6dw-wat-pah-nanachat-a-day-in-the-forest.mp3",
+      "w6dw-wat-pah-nanachat-the-practice-itself.mp3",
+      "w6dw-wat-pah-nanachat-seed-of-a-global-tradition.mp3"
+    ],
+    "durations": {
+      "w6dw-wat-pah-nanachat-flight-context.mp3": 47.8701666,
+      "w6dw-wat-pah-nanachat-intro.mp3": 41.8865416,
+      "w6dw-wat-pah-nanachat-founded-for-foreigners.mp3": 55.7034583,
+      "w6dw-wat-pah-nanachat-a-day-in-the-forest.mp3": 62.8853333,
+      "w6dw-wat-pah-nanachat-the-practice-itself.mp3": 50.73875,
+      "w6dw-wat-pah-nanachat-seed-of-a-global-tradition.mp3": 59.2305833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

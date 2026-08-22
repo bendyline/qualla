@@ -502,5 +502,24 @@
     "_m/g/f/k/b/alness-wp/alness-academy-geograph-org-uk.jpg",
     "_m/g/f/k/b/alness-wp/masonic-lodge-alness-geograph-.jpg"
   ],
-  "updatedAt": "2026-06-24T03:09:52.323Z"
+  "updatedAt": "2026-06-24T03:09:52.323Z",
+  "narration": {
+    "files": [
+      "gfkb-alness-flight-context.mp3",
+      "gfkb-alness-intro.mp3",
+      "gfkb-alness-the-town-on-the-river-averon.mp3",
+      "gfkb-alness-the-skirmish-and-the-folly.mp3",
+      "gfkb-alness-two-distilleries.mp3",
+      "gfkb-alness-the-catalinas-and-the-sunderlands.mp3"
+    ],
+    "durations": {
+      "gfkb-alness-flight-context.mp3": 49.4254166,
+      "gfkb-alness-intro.mp3": 39.5420833,
+      "gfkb-alness-the-town-on-the-river-averon.mp3": 69.3405833,
+      "gfkb-alness-the-skirmish-and-the-folly.mp3": 62.9211666,
+      "gfkb-alness-two-distilleries.mp3": 65.9262916,
+      "gfkb-alness-the-catalinas-and-the-sunderlands.mp3": 61.157875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

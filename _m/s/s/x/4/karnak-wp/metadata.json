@@ -279,5 +279,24 @@
     "_m/s/s/x/4/karnak-wp/karnak-temple-wv-banner.jpg",
     "_m/s/s/x/4/karnak-wp/luxor-winter-palace-r01.jpg"
   ],
-  "updatedAt": "2026-02-20T11:05:14.807Z"
+  "updatedAt": "2026-02-20T11:05:14.807Z",
+  "narration": {
+    "files": [
+      "ssx4-karnak-flight-context.mp3",
+      "ssx4-karnak-intro.mp3",
+      "ssx4-karnak-a-forest-of-stone.mp3",
+      "ssx4-karnak-the-hidden-god.mp3",
+      "ssx4-karnak-the-heretics-erasure.mp3",
+      "ssx4-karnak-many-gods-many-faiths.mp3"
+    ],
+    "durations": {
+      "ssx4-karnak-flight-context.mp3": 64.566,
+      "ssx4-karnak-intro.mp3": 61.1124166,
+      "ssx4-karnak-a-forest-of-stone.mp3": 72.0515,
+      "ssx4-karnak-the-hidden-god.mp3": 63.726,
+      "ssx4-karnak-the-heretics-erasure.mp3": 54.6972916,
+      "ssx4-karnak-many-gods-many-faiths.mp3": 55.9644583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

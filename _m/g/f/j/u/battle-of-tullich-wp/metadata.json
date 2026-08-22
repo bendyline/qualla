@@ -95,5 +95,24 @@
   ],
   "galleryPaths": [
     "_m/g/c/v/w/edinburgh-wp/scotland-relief-location-map.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gfju-battle-of-tullich-flight-context.mp3",
+      "gfju-battle-of-tullich-intro.mp3",
+      "gfju-battle-of-tullich-after-worcester.mp3",
+      "gfju-battle-of-tullich-ewen-cameron-of-lochiel.mp3",
+      "gfju-battle-of-tullich-holding-the-pass.mp3",
+      "gfju-battle-of-tullich-deliverer-of-the-highland-army.mp3"
+    ],
+    "durations": {
+      "gfju-battle-of-tullich-flight-context.mp3": 64.1330833,
+      "gfju-battle-of-tullich-intro.mp3": 54.0259166,
+      "gfju-battle-of-tullich-after-worcester.mp3": 57.6855833,
+      "gfju-battle-of-tullich-ewen-cameron-of-lochiel.mp3": 48.9129166,
+      "gfju-battle-of-tullich-holding-the-pass.mp3": 61.2981666,
+      "gfju-battle-of-tullich-deliverer-of-the-highland-army.mp3": 72.8273333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

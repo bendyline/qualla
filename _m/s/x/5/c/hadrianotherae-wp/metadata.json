@@ -58,5 +58,24 @@
     "sourceGeohash4": "sx5c"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sx5c-hadrianotherae-flight-context.mp3",
+      "sx5c-hadrianotherae-intro.mp3",
+      "sx5c-hadrianotherae-the-emperor-who-traveled.mp3",
+      "sx5c-hadrianotherae-coins-that-tell-the-story.mp3",
+      "sx5c-hadrianotherae-a-bishops-seat.mp3",
+      "sx5c-hadrianotherae-the-invisible-city.mp3"
+    ],
+    "durations": {
+      "sx5c-hadrianotherae-flight-context.mp3": 61.3950833,
+      "sx5c-hadrianotherae-intro.mp3": 52.931,
+      "sx5c-hadrianotherae-the-emperor-who-traveled.mp3": 58.1703333,
+      "sx5c-hadrianotherae-coins-that-tell-the-story.mp3": 49.7853333,
+      "sx5c-hadrianotherae-a-bishops-seat.mp3": 56.7684583,
+      "sx5c-hadrianotherae-the-invisible-city.mp3": 62.5050416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

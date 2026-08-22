@@ -272,5 +272,24 @@
     "_m/s/w/b/b/antenor-kore-wp/antenor-kore.jpg",
     "_m/s/w/b/b/antenor-kore-wp/antenor-kore-2.jpg"
   ],
-  "updatedAt": "2026-06-24T17:35:47.406Z"
+  "updatedAt": "2026-06-24T17:35:47.406Z",
+  "narration": {
+    "files": [
+      "swbb-antenor-kore-flight-context.mp3",
+      "swbb-antenor-kore-intro.mp3",
+      "swbb-antenor-kore-a-gift-to-athena.mp3",
+      "swbb-antenor-kore-how-a-maiden-was-made.mp3",
+      "swbb-antenor-kore-smashed-and-saved.mp3",
+      "swbb-antenor-kore-reassembled-from-the-rubble.mp3"
+    ],
+    "durations": {
+      "swbb-antenor-kore-flight-context.mp3": 44.0035416,
+      "swbb-antenor-kore-intro.mp3": 42.3875416,
+      "swbb-antenor-kore-a-gift-to-athena.mp3": 56.2074166,
+      "swbb-antenor-kore-how-a-maiden-was-made.mp3": 55.6174583,
+      "swbb-antenor-kore-smashed-and-saved.mp3": 44.105875,
+      "swbb-antenor-kore-reassembled-from-the-rubble.mp3": 57.5002916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

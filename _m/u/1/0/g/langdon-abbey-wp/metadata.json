@@ -147,5 +147,26 @@
     "_m/g/c/x/h/battle-of-old-byland-wp/hero.jpg",
     "_m/u/1/0/g/langdon-abbey-wp/praemonstratenser-holl.jpg",
     "_m/u/1/0/g/langdon-abbey-wp/carved-stone-corbel-mo.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u10g-langdon-abbey-flight-context.mp3",
+      "u10g-langdon-abbey-intro.mp3",
+      "u10g-langdon-abbey-founded-by-a-crusaders-son-in-law.mp3",
+      "u10g-langdon-abbey-the-premonstratensian-order.mp3",
+      "u10g-langdon-abbey-an-ailing-king-and-a-license-to-crenellate.mp3",
+      "u10g-langdon-abbey-cromwells-first-target.mp3",
+      "u10g-langdon-abbey-the-cellars-that-remain.mp3"
+    ],
+    "durations": {
+      "u10g-langdon-abbey-flight-context.mp3": 48.9029166,
+      "u10g-langdon-abbey-intro.mp3": 47.54425,
+      "u10g-langdon-abbey-founded-by-a-crusaders-son-in-law.mp3": 58.1895416,
+      "u10g-langdon-abbey-the-premonstratensian-order.mp3": 52.60175,
+      "u10g-langdon-abbey-an-ailing-king-and-a-license-to-crenellate.mp3": 63.5647916,
+      "u10g-langdon-abbey-cromwells-first-target.mp3": 55.3950416,
+      "u10g-langdon-abbey-the-cellars-that-remain.mp3": 75.6823333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

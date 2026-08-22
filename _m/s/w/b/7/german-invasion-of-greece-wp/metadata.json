@@ -638,5 +638,26 @@
         "aerialBonus": 15
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swb7-german-invasion-of-greece-flight-context.mp3",
+      "swb7-german-invasion-of-greece-intro.mp3",
+      "swb7-german-invasion-of-greece-the-campaign-compressed.mp3",
+      "swb7-german-invasion-of-greece-the-soldiers-who-refused-to-surrender-to-italy.mp3",
+      "swb7-german-invasion-of-greece-three-flags-over-one-country.mp3",
+      "swb7-german-invasion-of-greece-atrocities-and-resistance.mp3",
+      "swb7-german-invasion-of-greece-the-flag-that-came-down-from-the-acropolis.mp3"
+    ],
+    "durations": {
+      "swb7-german-invasion-of-greece-flight-context.mp3": 85.5434583,
+      "swb7-german-invasion-of-greece-intro.mp3": 62.69975,
+      "swb7-german-invasion-of-greece-the-campaign-compressed.mp3": 97.1325416,
+      "swb7-german-invasion-of-greece-the-soldiers-who-refused-to-surrender-to-italy.mp3": 75.5189583,
+      "swb7-german-invasion-of-greece-three-flags-over-one-country.mp3": 100.1630416,
+      "swb7-german-invasion-of-greece-atrocities-and-resistance.mp3": 97.4744166,
+      "swb7-german-invasion-of-greece-the-flag-that-came-down-from-the-acropolis.mp3": 82.7216666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

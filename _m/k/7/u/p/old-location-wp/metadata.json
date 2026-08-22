@@ -55,5 +55,24 @@
     "sourceGeohash4": "k7up"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "k7up-old-location-flight-context.mp3",
+      "k7up-old-location-intro.mp3",
+      "k7up-old-location-a-neighborhood-made-by-decree.mp3",
+      "k7up-old-location-the-insult-of-the-move.mp3",
+      "k7up-old-location-the-tenth-of-december.mp3",
+      "k7up-old-location-the-spark-that-did-not-die.mp3"
+    ],
+    "durations": {
+      "k7up-old-location-flight-context.mp3": 56.7830416,
+      "k7up-old-location-intro.mp3": 44.6370833,
+      "k7up-old-location-a-neighborhood-made-by-decree.mp3": 53.4344583,
+      "k7up-old-location-the-insult-of-the-move.mp3": 53.7268333,
+      "k7up-old-location-the-tenth-of-december.mp3": 51.63525,
+      "k7up-old-location-the-spark-that-did-not-die.mp3": 58.7602916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

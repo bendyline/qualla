@@ -520,5 +520,24 @@
     "_m/s/q/y/9/de-bosset-bridge-wp/0560.jpg",
     "_m/s/q/y/9/de-bosset-bridge-wp/0308.jpg"
   ],
-  "updatedAt": "2026-06-24T10:20:00.843Z"
+  "updatedAt": "2026-06-24T10:20:00.843Z",
+  "narration": {
+    "files": [
+      "sqy9-de-bosset-bridge-flight-context.mp3",
+      "sqy9-de-bosset-bridge-intro.mp3",
+      "sqy9-de-bosset-bridge-the-man-who-built-it.mp3",
+      "sqy9-de-bosset-bridge-wood-first-then-stone.mp3",
+      "sqy9-de-bosset-bridge-the-earthquake-and-what-it-left.mp3",
+      "sqy9-de-bosset-bridge-a-bridge-transformed.mp3"
+    ],
+    "durations": {
+      "sqy9-de-bosset-bridge-flight-context.mp3": 52.2953333,
+      "sqy9-de-bosset-bridge-intro.mp3": 44.8555,
+      "sqy9-de-bosset-bridge-the-man-who-built-it.mp3": 57.2617916,
+      "sqy9-de-bosset-bridge-wood-first-then-stone.mp3": 61.6787083,
+      "sqy9-de-bosset-bridge-the-earthquake-and-what-it-left.mp3": 67.1839166,
+      "sqy9-de-bosset-bridge-a-bridge-transformed.mp3": 56.641
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

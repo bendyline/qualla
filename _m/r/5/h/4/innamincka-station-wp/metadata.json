@@ -63,5 +63,24 @@
     "sourceGeohash4": "r5h4"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "r5h4-innamincka-station-flight-context.mp3",
+      "r5h4-innamincka-station-intro.mp3",
+      "r5h4-innamincka-station-a-station-the-size-of-a-country.mp3",
+      "r5h4-innamincka-station-flood-drought-repeat.mp3",
+      "r5h4-innamincka-station-an-ocean-of-gas-beneath-the-dust.mp3",
+      "r5h4-innamincka-station-wildflowers-after-the-rain.mp3"
+    ],
+    "durations": {
+      "r5h4-innamincka-station-flight-context.mp3": 65.6785416,
+      "r5h4-innamincka-station-intro.mp3": 47.5783333,
+      "r5h4-innamincka-station-a-station-the-size-of-a-country.mp3": 52.2697916,
+      "r5h4-innamincka-station-flood-drought-repeat.mp3": 54.4852916,
+      "r5h4-innamincka-station-an-ocean-of-gas-beneath-the-dust.mp3": 48.3865416,
+      "r5h4-innamincka-station-wildflowers-after-the-rain.mp3": 54.793125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

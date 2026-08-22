@@ -234,5 +234,24 @@
     "_m/r/3/g/x/sydney-opera-house-wp/1-anzac-memorial-hyde-park.jpg",
     "_m/r/3/g/x/sydney-opera-house-wp/entry-point-2.jpg"
   ],
-  "updatedAt": "2026-06-28T04:06:43.744Z"
+  "updatedAt": "2026-06-28T04:06:43.744Z",
+  "narration": {
+    "files": [
+      "r3gx-sydney-opera-house-flight-context.mp3",
+      "r3gx-sydney-opera-house-intro.mp3",
+      "r3gx-sydney-opera-house-an-unknown-dane-and-a-single-sketch.mp3",
+      "r3gx-sydney-opera-house-the-geometry-of-a-sphere.mp3",
+      "r3gx-sydney-opera-house-the-break.mp3",
+      "r3gx-sydney-opera-house-reconciliation-and-recognition.mp3"
+    ],
+    "durations": {
+      "r3gx-sydney-opera-house-flight-context.mp3": 71.5785,
+      "r3gx-sydney-opera-house-intro.mp3": 43.0286666,
+      "r3gx-sydney-opera-house-an-unknown-dane-and-a-single-sketch.mp3": 57.5777916,
+      "r3gx-sydney-opera-house-the-geometry-of-a-sphere.mp3": 60.6172916,
+      "r3gx-sydney-opera-house-the-break.mp3": 55.2924166,
+      "r3gx-sydney-opera-house-reconciliation-and-recognition.mp3": 60.038375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -75,5 +75,24 @@
       }
     }
   ],
-  "updatedAt": "2026-06-25T00:18:01.042Z"
+  "updatedAt": "2026-06-25T00:18:01.042Z",
+  "narration": {
+    "files": [
+      "sxk9-2003-istanbul-bombings-flight-context.mp3",
+      "sxk9-2003-istanbul-bombings-intro.mp3",
+      "sxk9-2003-istanbul-bombings-the-first-day-two-synagogues.mp3",
+      "sxk9-2003-istanbul-bombings-five-days-later-the-consulate-and-hsbc.mp3",
+      "sxk9-2003-istanbul-bombings-the-toll.mp3",
+      "sxk9-2003-istanbul-bombings-investigation-and-convictions.mp3"
+    ],
+    "durations": {
+      "sxk9-2003-istanbul-bombings-flight-context.mp3": 55.105,
+      "sxk9-2003-istanbul-bombings-intro.mp3": 48.566375,
+      "sxk9-2003-istanbul-bombings-the-first-day-two-synagogues.mp3": 76.323875,
+      "sxk9-2003-istanbul-bombings-five-days-later-the-consulate-and-hsbc.mp3": 95.1769583,
+      "sxk9-2003-istanbul-bombings-the-toll.mp3": 72.448875,
+      "sxk9-2003-istanbul-bombings-investigation-and-convictions.mp3": 54.00825
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

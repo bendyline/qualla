@@ -118,5 +118,24 @@
   "galleryPaths": [
     "_m/r/j/u/f/janszoon-voyage-of-1605-1606-wp/map-digitised-copy-mad.jpg",
     "_m/r/j/u/f/janszoon-voyage-of-1605-1606-wp/part-1622-map-pacific.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "rjuf-janszoon-voyage-of-1605-1606-flight-context.mp3",
+      "rjuf-janszoon-voyage-of-1605-1606-intro.mp3",
+      "rjuf-janszoon-voyage-of-1605-1606-the-little-dove.mp3",
+      "rjuf-janszoon-voyage-of-1605-1606-a-river-with-no-name.mp3",
+      "rjuf-janszoon-voyage-of-1605-1606-cape-keerweer.mp3",
+      "rjuf-janszoon-voyage-of-1605-1606-the-strait-that-stayed-hidden.mp3"
+    ],
+    "durations": {
+      "rjuf-janszoon-voyage-of-1605-1606-flight-context.mp3": 59.74375,
+      "rjuf-janszoon-voyage-of-1605-1606-intro.mp3": 49.2442083,
+      "rjuf-janszoon-voyage-of-1605-1606-the-little-dove.mp3": 54.144375,
+      "rjuf-janszoon-voyage-of-1605-1606-a-river-with-no-name.mp3": 48.758,
+      "rjuf-janszoon-voyage-of-1605-1606-cape-keerweer.mp3": 56.2738333,
+      "rjuf-janszoon-voyage-of-1605-1606-the-strait-that-stayed-hidden.mp3": 55.6528333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

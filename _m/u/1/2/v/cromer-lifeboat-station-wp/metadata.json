@@ -672,5 +672,22 @@
     "_m/u/1/2/v/cromer-lifeboat-station-wp/cromer-lifeboat-illustration-g.jpg",
     "_m/u/1/2/v/cromer-lifeboat-station-wp/66714-cromer-lifeboat-north-no.jpg"
   ],
-  "updatedAt": "2026-06-26T00:15:21.233Z"
+  "updatedAt": "2026-06-26T00:15:21.233Z",
+  "narration": {
+    "files": [
+      "u12v-cromer-lifeboat-station-flight-context.mp3",
+      "u12v-cromer-lifeboat-station-intro.mp3",
+      "u12v-cromer-lifeboat-station-two-centuries-of-service.mp3",
+      "u12v-cromer-lifeboat-station-the-legacy-of-henry-blogg.mp3",
+      "u12v-cromer-lifeboat-station-the-station-today.mp3"
+    ],
+    "durations": {
+      "u12v-cromer-lifeboat-station-flight-context.mp3": 38.9680416,
+      "u12v-cromer-lifeboat-station-intro.mp3": 42.2780833,
+      "u12v-cromer-lifeboat-station-two-centuries-of-service.mp3": 72.632875,
+      "u12v-cromer-lifeboat-station-the-legacy-of-henry-blogg.mp3": 66.7112916,
+      "u12v-cromer-lifeboat-station-the-station-today.mp3": 68.301
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -57,5 +57,22 @@
     "sourceGeohash4": "qf39"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qf39-hampton-tableland-flight-context.mp3",
+      "qf39-hampton-tableland-intro.mp3",
+      "qf39-hampton-tableland-a-coastline-without-an-ocean.mp3",
+      "qf39-hampton-tableland-two-steps-down-to-the-water.mp3",
+      "qf39-hampton-tableland-the-plain-that-isnt-empty.mp3"
+    ],
+    "durations": {
+      "qf39-hampton-tableland-flight-context.mp3": 53.7065416,
+      "qf39-hampton-tableland-intro.mp3": 33.4734166,
+      "qf39-hampton-tableland-a-coastline-without-an-ocean.mp3": 51.5685833,
+      "qf39-hampton-tableland-two-steps-down-to-the-water.mp3": 43.0904166,
+      "qf39-hampton-tableland-the-plain-that-isnt-empty.mp3": 49.6140833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

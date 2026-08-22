@@ -59,5 +59,24 @@
     "sourceGeohash4": "gf4x"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gf4x-spaceport-1-flight-context.mp3",
+      "gf4x-spaceport-1-intro.mp3",
+      "gf4x-spaceport-1-the-site-at-scolpaig.mp3",
+      "gf4x-spaceport-1-the-long-road-to-approval.mp3",
+      "gf4x-spaceport-1-neighbours-in-the-sky.mp3",
+      "gf4x-spaceport-1-what-gets-lost-what-gets-gained.mp3"
+    ],
+    "durations": {
+      "gf4x-spaceport-1-flight-context.mp3": 39.8174583,
+      "gf4x-spaceport-1-intro.mp3": 27.460375,
+      "gf4x-spaceport-1-the-site-at-scolpaig.mp3": 56.2553333,
+      "gf4x-spaceport-1-the-long-road-to-approval.mp3": 64.1420833,
+      "gf4x-spaceport-1-neighbours-in-the-sky.mp3": 52.8162083,
+      "gf4x-spaceport-1-what-gets-lost-what-gets-gained.mp3": 51.9735833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

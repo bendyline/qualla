@@ -61,5 +61,26 @@
     "sourceGeohash4": "u10k"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "u10k-gillingham-bus-disaster-flight-context.mp3",
+      "u10k-gillingham-bus-disaster-intro.mp3",
+      "u10k-gillingham-bus-disaster-the-boys.mp3",
+      "u10k-gillingham-bus-disaster-dock-road-5-58-pm.mp3",
+      "u10k-gillingham-bus-disaster-what-samson-felt.mp3",
+      "u10k-gillingham-bus-disaster-the-inquest.mp3",
+      "u10k-gillingham-bus-disaster-what-changed.mp3"
+    ],
+    "durations": {
+      "u10k-gillingham-bus-disaster-flight-context.mp3": 43.143625,
+      "u10k-gillingham-bus-disaster-intro.mp3": 57.0569166,
+      "u10k-gillingham-bus-disaster-the-boys.mp3": 72.4842916,
+      "u10k-gillingham-bus-disaster-dock-road-5-58-pm.mp3": 77.8829583,
+      "u10k-gillingham-bus-disaster-what-samson-felt.mp3": 77.7165833,
+      "u10k-gillingham-bus-disaster-the-inquest.mp3": 69.69175,
+      "u10k-gillingham-bus-disaster-what-changed.mp3": 104.163125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

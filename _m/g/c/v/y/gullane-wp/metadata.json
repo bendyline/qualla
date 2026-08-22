@@ -581,5 +581,26 @@
     "_m/g/c/v/y/gullane-wp/cleared-area-gullane-bents-geo.jpg",
     "_m/g/c/v/y/gullane-wp/evening-sunrays-geograph-org-u.jpg"
   ],
-  "updatedAt": "2026-06-23T04:39:50.551Z"
+  "updatedAt": "2026-06-23T04:39:50.551Z",
+  "narration": {
+    "files": [
+      "gcvy-gullane-flight-context.mp3",
+      "gcvy-gullane-intro.mp3",
+      "gcvy-gullane-golyn.mp3",
+      "gcvy-gullane-st-andrews-kirk.mp3",
+      "gcvy-gullane-lutyens-and-jekyll.mp3",
+      "gcvy-gullane-three-courses-on-a-volcanic-plug.mp3",
+      "gcvy-gullane-fly-past.mp3"
+    ],
+    "durations": {
+      "gcvy-gullane-flight-context.mp3": 53.588125,
+      "gcvy-gullane-intro.mp3": 53.845,
+      "gcvy-gullane-golyn.mp3": 68.2153333,
+      "gcvy-gullane-st-andrews-kirk.mp3": 62.1159583,
+      "gcvy-gullane-lutyens-and-jekyll.mp3": 61.5282916,
+      "gcvy-gullane-three-courses-on-a-volcanic-plug.mp3": 63.6942916,
+      "gcvy-gullane-fly-past.mp3": 67.896625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

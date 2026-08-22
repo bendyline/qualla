@@ -55,5 +55,24 @@
     "sourceGeohash4": "r50m"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "r50m-alberga-river-flight-context.mp3",
+      "r50m-alberga-river-intro.mp3",
+      "r50m-alberga-river-a-river-that-waits.mp3",
+      "r50m-alberga-river-boom-and-bust-on-the-plains.mp3",
+      "r50m-alberga-river-life-on-a-boom-and-bust-clock.mp3",
+      "r50m-alberga-river-where-the-wire-crossed-the-continent.mp3"
+    ],
+    "durations": {
+      "r50m-alberga-river-flight-context.mp3": 59.005875,
+      "r50m-alberga-river-intro.mp3": 41.6785416,
+      "r50m-alberga-river-a-river-that-waits.mp3": 61.9389166,
+      "r50m-alberga-river-boom-and-bust-on-the-plains.mp3": 46.2682916,
+      "r50m-alberga-river-life-on-a-boom-and-bust-clock.mp3": 55.5372083,
+      "r50m-alberga-river-where-the-wire-crossed-the-continent.mp3": 51.706375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

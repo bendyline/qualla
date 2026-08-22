@@ -92,5 +92,26 @@
   ],
   "galleryPaths": [
     "_m/s/x/k/9/basilica-cistern-wp/imperial-district-byza.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-augustaion-flight-context.mp3",
+      "sxk9-augustaion-intro.mp3",
+      "sxk9-augustaion-before-the-emperors.mp3",
+      "sxk9-augustaion-constantines-transformation.mp3",
+      "sxk9-augustaion-monuments-and-messages.mp3",
+      "sxk9-augustaion-the-edges-of-power.mp3",
+      "sxk9-augustaion-traces-and-absence.mp3"
+    ],
+    "durations": {
+      "sxk9-augustaion-flight-context.mp3": 65.7317083,
+      "sxk9-augustaion-intro.mp3": 46.80275,
+      "sxk9-augustaion-before-the-emperors.mp3": 53.598375,
+      "sxk9-augustaion-constantines-transformation.mp3": 69.066125,
+      "sxk9-augustaion-monuments-and-messages.mp3": 59.7311666,
+      "sxk9-augustaion-the-edges-of-power.mp3": 52.096,
+      "sxk9-augustaion-traces-and-absence.mp3": 59.319375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

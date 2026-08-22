@@ -16,7 +16,7 @@ Guy Edward Bartkus was 25 years old, from Twentynine Palms, and had grown up par
 
 ## The Co-Conspirator
 
-The investigation quickly identified a second person: Daniel Park, a man from Kent, Washington, who shared Bartkus's ideology and had been in contact with him for months. Park had shipped approximately 270 pounds of ammonium nitrate to Bartkus in multiple purchases between October 2022 and May 2025 — 180 pounds in January, then another 90 pounds days before the bombing. Investigators found an explosive recipe in Park's Kent home that they described as similar to the one used in the 1995 Oklahoma City bombing. Park had fled to Warsaw four days after the bombing, on May 21. He was extradited back to the United States on May 30. On June 24, 2025, Park died at the Metropolitan Detention Center in Los Angeles, having jumped from an upper level of the facility.
+The investigation quickly identified a second person: Daniel Park, a man from Kent, Washington, who shared Bartkus's ideology and had been in contact with him for months. Park had shipped approximately 270 pounds of ammonium nitrate to Bartkus in multiple purchases between October 2022 and May 2025 — 180 pounds in January, then another 90 pounds days before the bombing. Investigators found an explosive recipe in Park's Kent home that they described as similar to the one used in the 1995 Oklahoma City bombing. Park had fled to Warsaw four days after the bombing, on May 21. He was extradited back to the United States and arrested at JFK Airport in New York on June 3. On June 24, 2025, Park died at the Metropolitan Detention Center in Los Angeles; authorities said he had jumped from an upper level of the facility.
 
 ## The Ideology Behind the Attack
 
@@ -24,7 +24,7 @@ Antinatalism — the philosophical position that procreation causes harm and tha
 
 ## What Survived
 
-The clinic's essential medical operations — which for a fertility clinic means embryos in storage, ongoing IVF cycles, biological material that represents for many patients years of hope and significant expense — were not disrupted. The bombing occurred outside business hours, as Bartkus apparently intended it to, though the manifesto made clear that ideology rather than minimizing casualties was the primary motivation. The building was damaged; the operations continued. The desert community of Palm Springs, which has absorbed historical weight from different directions over the decades, absorbed this one too.
+The clinic's essential medical operations — which for a fertility clinic means embryos in storage, ongoing IVF cycles, biological material that represents for many patients years of hope and significant expense — came close to being lost. The blast knocked out power to the lab where embryos were stored, and the building's backup generators failed; a Palm Springs deputy fire chief went into the still-damaged structure to check on the embryo storage before firefighters, police and the bomb squad worked together to restore electricity in time. The bombing occurred outside business hours, as Bartkus apparently intended it to, though the manifesto made clear that ideology rather than minimizing casualties was the primary motivation. The building was damaged; the embryos survived. The desert community of Palm Springs, which has absorbed historical weight from different directions over the decades, absorbed this one too.
 
 ## Flight Context
 
@@ -33,6 +33,29 @@ Located at 33.84°N, 116.55°W, in downtown Palm Springs near Desert Regional Me
 ## Sources
 
 - [2025 Palm Springs fertility clinic bombing - Wikipedia](https://en.wikipedia.org/?curid=79993622)
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2025_Palm_Springs_fertility_clinic_bombing)
+  - Attributed co-conspirator Daniel Park's in-custody death to authorities ('authorities said he had jumped') rather than stating it as fact, matching the source's hedged 'according to authorities' phrasing.
+- [Final review — 2026-08-05](https://en.wikipedia.org/?curid=79993622)
+  - Bombing occurred May 17, 2025 (Saturday), outside American Reproductive Centers at 1199 North Indian Canyon Drive, Palm Springs; clinic closed weekends, no staff inside
+  - One fatality (bomber Guy Edward Bartkus); four others injured, all released from hospital
+  - FBI declared the blast an act of terrorism and called it one of the largest bombing investigations in Southern California since the 2018 Aliso Viejo package bombing
+  - Bartkus: 25, Twentynine Palms, childhood ties to Waterbury, Connecticut; former computer technician and special-needs school bus monitor; father's 'computer prodigy since age nine' description confirmed
+  - Bartkus manifesto quote 'Basically, it just comes down to I'm angry that I exist' and pro-mortalist/antinatalist framing confirmed via multiple outlets
+  - Daniel Park: Kent, Washington; shipped ~270 lbs ammonium nitrate to Bartkus (180 lbs in January, 90 lbs days before the bombing) between October 2022 and May 2025; explosive recipe found in his Kent home compared to the 1995 Oklahoma City bombing recipe
+  - Corrected: Park fled to Warsaw on May 21, but was extradited and arrested at JFK Airport on June 3, 2025, not May 30 as the story previously stated
+  - Park died June 24, 2025 at the Metropolitan Detention Center in Los Angeles after jumping from an upper level; reported as apparent suicide, attributed to authorities per prior review
+  - Brian Levin (Center for the Study of Hate and Extremism) 'growing group of radicalized lone wolves influenced by dark websites' quote confirmed; Reddit's ~10,000-member antinatalist subreddit ban confirmed
+  - Corrected: 'What Survived' section overstated clinic continuity — power to the embryo lab was actually cut and backup generators failed; a deputy fire chief and emergency crews restored power in time to save the stored embryos, per CNN reporting on the incident
+  - American Reproductive Centers confirmed as the only full-service fertility/IVF clinic in the Coachella Valley, operating since 2006
+  - No living named suspects remain — both Bartkus and Park are deceased; no indication of further prosecutions as of the most recent available reporting
+
+## Review Notes
+
+**Reviewed:** 2026-08-05 · 12 facts verified · 2 corrections
+
+Verified core facts (date, location, casualty count 1 dead/4 injured, FBI terrorism designation, Bartkus and Park bios, ammonium nitrate amounts, Reddit ban, Levin quote) against Wikipedia and wire reporting. Corrected Park's extradition/arrest date (May 30 -> June 3, 2025, per DOJ/CBS/NBC reporting on JFK arrest) and corrected the 'What Survived' section, which had inaccurately claimed clinic operations 'were not disrupted' -- per CNN reporting, power to the embryo lab was actually cut and backup generators failed, requiring an emergency intervention by a deputy fire chief and crews to save the embryos. No empathy/dignity issues found; casualty figures precise and non-sensationalized; perpetrator quotes properly attributed as his own words, not narrator claims. Both perpetrators deceased, no ongoing prosecution found.
+
+**Spiciness:** 2/5
 
 ---
 

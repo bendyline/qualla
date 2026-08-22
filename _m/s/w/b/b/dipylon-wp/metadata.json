@@ -497,5 +497,26 @@
     "_m/s/w/b/b/dipylon-wp/the-remains-of-the-dipylon-gat.jpg",
     "_m/s/w/b/b/dipylon-wp/dipylon-vaas-02.jpg"
   ],
-  "updatedAt": "2026-06-24T18:15:59.711Z"
+  "updatedAt": "2026-06-24T18:15:59.711Z",
+  "narration": {
+    "files": [
+      "swbb-dipylon-flight-context.mp3",
+      "swbb-dipylon-intro.mp3",
+      "swbb-dipylon-two-gates-one-threshold.mp3",
+      "swbb-dipylon-built-from-the-dead.mp3",
+      "swbb-dipylon-the-wine-jug-that-speaks.mp3",
+      "swbb-dipylon-sieges-and-survival.mp3",
+      "swbb-dipylon-unearthed-again.mp3"
+    ],
+    "durations": {
+      "swbb-dipylon-flight-context.mp3": 37.53675,
+      "swbb-dipylon-intro.mp3": 36.182625,
+      "swbb-dipylon-two-gates-one-threshold.mp3": 54.6899166,
+      "swbb-dipylon-built-from-the-dead.mp3": 50.985,
+      "swbb-dipylon-the-wine-jug-that-speaks.mp3": 51.452875,
+      "swbb-dipylon-sieges-and-survival.mp3": 60.617,
+      "swbb-dipylon-unearthed-again.mp3": 60.1232083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

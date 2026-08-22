@@ -53,5 +53,24 @@
     "sourceGeohash4": "kek4"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "kek4-boksburg-explosion-flight-context.mp3",
+      "kek4-boksburg-explosion-intro.mp3",
+      "kek4-boksburg-explosion-the-hospital-next-door.mp3",
+      "kek4-boksburg-explosion-of-the-forty-one.mp3",
+      "kek4-boksburg-explosion-the-response.mp3",
+      "kek4-boksburg-explosion-no-one-to-blame-no-one-accountable.mp3"
+    ],
+    "durations": {
+      "kek4-boksburg-explosion-flight-context.mp3": 67.777375,
+      "kek4-boksburg-explosion-intro.mp3": 48.85325,
+      "kek4-boksburg-explosion-the-hospital-next-door.mp3": 53.0455,
+      "kek4-boksburg-explosion-of-the-forty-one.mp3": 46.6702916,
+      "kek4-boksburg-explosion-the-response.mp3": 58.3042083,
+      "kek4-boksburg-explosion-no-one-to-blame-no-one-accountable.mp3": 60.6001666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

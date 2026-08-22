@@ -640,5 +640,26 @@
     "_m/s/w/d/4/filoti-wp/cimetiere-de-filoti-1.jpg",
     "_m/s/w/d/4/filoti-wp/cimetiere-de-filoti-3.jpg"
   ],
-  "updatedAt": "2026-06-24T22:12:30.897Z"
+  "updatedAt": "2026-06-24T22:12:30.897Z",
+  "narration": {
+    "files": [
+      "swd4-filoti-flight-context.mp3",
+      "swd4-filoti-intro.mp3",
+      "swd4-filoti-the-mountain-of-zeus.mp3",
+      "swd4-filoti-pirates-and-the-flight-to-the-hills.mp3",
+      "swd4-filoti-the-tower-and-the-long-resentment.mp3",
+      "swd4-filoti-panagia-filotitissa.mp3",
+      "swd4-filoti-a-working-village-still.mp3"
+    ],
+    "durations": {
+      "swd4-filoti-flight-context.mp3": 48.034125,
+      "swd4-filoti-intro.mp3": 36.5279166,
+      "swd4-filoti-the-mountain-of-zeus.mp3": 50.524375,
+      "swd4-filoti-pirates-and-the-flight-to-the-hills.mp3": 53.3137916,
+      "swd4-filoti-the-tower-and-the-long-resentment.mp3": 60.5122083,
+      "swd4-filoti-panagia-filotitissa.mp3": 49.234,
+      "swd4-filoti-a-working-village-still.mp3": 54.893375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

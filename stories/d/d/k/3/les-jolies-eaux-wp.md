@@ -20,7 +20,7 @@ Inside Les Jolies Eaux, Messel's theatrical instincts showed in every detail. De
 
 ## Paradise and Paparazzi
 
-Margaret visited Les Jolies Eaux regularly, entertaining a rotating cast of aristocratic and Hollywood friends. It was here, through the Tennants, that she met Roddy Llewellyn, a landscape gardener 17 years her junior. Their affair, which began at the villa, became tabloid dynamite in 1976 when paparazzi captured photographs of the pair on Mustique. Anne Tennant, who had introduced them, later told biographers: "Heavens, what have I done?" The scandal contributed to Margaret's divorce from Lord Snowdon and fueled a British press narrative that cast her as a "royal parasite" -- a princess lounging in Caribbean luxury while the country struggled economically. The criticism was not entirely fair, but the optics of a private island villa did little to counter it. Margaret herself once said of Mustique, "this island is the only square inch in the world I own." For someone born into palaces she could occupy but never possess, the distinction clearly mattered.
+Margaret visited Les Jolies Eaux regularly, entertaining a rotating cast of aristocratic and Hollywood friends. It was here, through the Tennants, that she met Roddy Llewellyn, a landscape gardener 17 years her junior. Their affair, which began at the villa, became tabloid dynamite in 1976 when paparazzi captured photographs of the pair on Mustique. Anne Tennant, who had introduced them, later told biographers: "Heavens, what have I done?" The scandal contributed to Margaret's divorce from Lord Snowdon and fueled a British press narrative that cast her as a "royal parasite" -- a princess lounging in Caribbean luxury while the country struggled economically. The criticism was not entirely fair, but the optics of a private island villa did little to counter it. Margaret herself once said Mustique was "the only square inch in the world I own." For someone born into palaces she could occupy but never possess, the distinction clearly mattered.
 
 ## Sold, Rented, and Recreated on Screen
 
@@ -40,6 +40,9 @@ Les Jolies Eaux sits at 12.86N, 61.19W on the southern headland of Mustique Isla
   - 5 bedrooms, accommodation for 10 guests
   - Sold by David Linley in 1999 for reported £2.4 million
   - Corrected: 1,250-acre → 1,400-acre island size
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Les_Jolies_Eaux)
+  - Corrected Princess Margaret quote to verbatim form: "the only square inch in the world I own" (removed non-verbatim words that had been placed inside the quotation marks)
+  - Confirmed "Heavens, what have I done?" is attributed to Anne Tennant and the Colin Tennant/Messel quote is verbatim
 
 ## Review Notes
 

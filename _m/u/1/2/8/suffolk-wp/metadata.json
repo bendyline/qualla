@@ -184,5 +184,26 @@
     "_m/u/1/2/8/suffolk-wp/high-street-debenham-geograph-.jpg",
     "_m/u/1/2/8/suffolk-wp/clear-sky-afternoon-on-the-ips.jpg"
   ],
-  "updatedAt": "2026-06-25T18:21:43.079Z"
+  "updatedAt": "2026-06-25T18:21:43.079Z",
+  "narration": {
+    "files": [
+      "u128-suffolk-flight-context.mp3",
+      "u128-suffolk-intro.mp3",
+      "u128-suffolk-where-the-land-slows.mp3",
+      "u128-suffolk-raedwalds-ship.mp3",
+      "u128-suffolk-the-pink-villages.mp3",
+      "u128-suffolk-cloth-sugar-beer-horses.mp3",
+      "u128-suffolk-coast-and-sky.mp3"
+    ],
+    "durations": {
+      "u128-suffolk-flight-context.mp3": 58.4849166,
+      "u128-suffolk-intro.mp3": 44.4757083,
+      "u128-suffolk-where-the-land-slows.mp3": 61.4677916,
+      "u128-suffolk-raedwalds-ship.mp3": 58.2664166,
+      "u128-suffolk-the-pink-villages.mp3": 54.93625,
+      "u128-suffolk-cloth-sugar-beer-horses.mp3": 64.0613333,
+      "u128-suffolk-coast-and-sky.mp3": 52.352375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

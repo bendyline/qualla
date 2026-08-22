@@ -50,5 +50,24 @@
     "sourceGeohash4": "gcz4"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcz4-hms-unity-n66-flight-context.mp3",
+      "gcz4-hms-unity-n66-intro.mp3",
+      "gcz4-hms-unity-n66-a-small-boat-for-a-big-war.mp3",
+      "gcz4-hms-unity-n66-rescue-and-near-loss.mp3",
+      "gcz4-hms-unity-n66-the-collision-off-blyth.mp3",
+      "gcz4-hms-unity-n66-what-the-wreck-holds.mp3"
+    ],
+    "durations": {
+      "gcz4-hms-unity-n66-flight-context.mp3": 56.7215416,
+      "gcz4-hms-unity-n66-intro.mp3": 45.6752083,
+      "gcz4-hms-unity-n66-a-small-boat-for-a-big-war.mp3": 53.9095833,
+      "gcz4-hms-unity-n66-rescue-and-near-loss.mp3": 57.739125,
+      "gcz4-hms-unity-n66-the-collision-off-blyth.mp3": 56.481375,
+      "gcz4-hms-unity-n66-what-the-wreck-holds.mp3": 53.9643333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -880,5 +880,24 @@
     "_m/u/1/2/3/newmarket-suffolk-wp/a14-westbound-towards-cambridg.jpg",
     "_m/u/1/2/3/newmarket-suffolk-wp/a1304-high-street-newmarket-ge.jpg"
   ],
-  "updatedAt": "2026-06-25T20:39:08.283Z"
+  "updatedAt": "2026-06-25T20:39:08.283Z",
+  "narration": {
+    "files": [
+      "u123-newmarket-suffolk-flight-context.mp3",
+      "u123-newmarket-suffolk-intro.mp3",
+      "u123-newmarket-suffolk-racing-since-1174.mp3",
+      "u123-newmarket-suffolk-the-training-grounds.mp3",
+      "u123-newmarket-suffolk-royal-connections-and-civil-war.mp3",
+      "u123-newmarket-suffolk-a-town-of-horses.mp3"
+    ],
+    "durations": {
+      "u123-newmarket-suffolk-flight-context.mp3": 38.2433333,
+      "u123-newmarket-suffolk-intro.mp3": 63.9082083,
+      "u123-newmarket-suffolk-racing-since-1174.mp3": 60.3352083,
+      "u123-newmarket-suffolk-the-training-grounds.mp3": 67.939125,
+      "u123-newmarket-suffolk-royal-connections-and-civil-war.mp3": 61.6802916,
+      "u123-newmarket-suffolk-a-town-of-horses.mp3": 60.48625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

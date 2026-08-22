@@ -98,5 +98,24 @@
   ],
   "galleryPaths": [
     "_m/s/w/6/p/thera-eruption-wk/location-map-greece.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sqxc-monastery-of-panayia-yiatrissa-flight-context.mp3",
+      "sqxc-monastery-of-panayia-yiatrissa-intro.mp3",
+      "sqxc-monastery-of-panayia-yiatrissa-from-athena-to-mary.mp3",
+      "sqxc-monastery-of-panayia-yiatrissa-the-mountain-between-two-worlds.mp3",
+      "sqxc-monastery-of-panayia-yiatrissa-the-healers-name.mp3",
+      "sqxc-monastery-of-panayia-yiatrissa-on-the-e4-path.mp3"
+    ],
+    "durations": {
+      "sqxc-monastery-of-panayia-yiatrissa-flight-context.mp3": 47.807375,
+      "sqxc-monastery-of-panayia-yiatrissa-intro.mp3": 59.50425,
+      "sqxc-monastery-of-panayia-yiatrissa-from-athena-to-mary.mp3": 71.619625,
+      "sqxc-monastery-of-panayia-yiatrissa-the-mountain-between-two-worlds.mp3": 61.857375,
+      "sqxc-monastery-of-panayia-yiatrissa-the-healers-name.mp3": 65.484625,
+      "sqxc-monastery-of-panayia-yiatrissa-on-the-e4-path.mp3": 40.765
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

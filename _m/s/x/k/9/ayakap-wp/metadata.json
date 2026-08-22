@@ -123,5 +123,24 @@
   "galleryPaths": [
     "_m/s/x/k/9/ayakap-wp/gul-camii-former-byzan.jpg",
     "_m/s/x/k/9/ayakap-wp/holy-gate-ayakap-gatew.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-ayakap-flight-context.mp3",
+      "sxk9-ayakap-intro.mp3",
+      "sxk9-ayakap-what-the-byzantines-called-it.mp3",
+      "sxk9-ayakap-the-mosque-that-used-to-be-something-else.mp3",
+      "sxk9-ayakap-sinans-bath.mp3",
+      "sxk9-ayakap-layers-on-the-golden-horn.mp3"
+    ],
+    "durations": {
+      "sxk9-ayakap-flight-context.mp3": 52.3202083,
+      "sxk9-ayakap-intro.mp3": 40.4750833,
+      "sxk9-ayakap-what-the-byzantines-called-it.mp3": 76.1842083,
+      "sxk9-ayakap-the-mosque-that-used-to-be-something-else.mp3": 72.2489583,
+      "sxk9-ayakap-sinans-bath.mp3": 65.2034583,
+      "sxk9-ayakap-layers-on-the-golden-horn.mp3": 59.050375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

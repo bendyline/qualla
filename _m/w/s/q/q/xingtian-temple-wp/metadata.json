@@ -586,5 +586,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wsqq-xingtian-temple-flight-context.mp3",
+      "wsqq-xingtian-temple-intro.mp3",
+      "wsqq-xingtian-temple-the-god-who-watches-over-commerce.mp3",
+      "wsqq-xingtian-temple-built-in-1967-covering-seven-thousand-square-meter.mp3",
+      "wsqq-xingtian-temple-the-first-temple-in-taiwan-to-ban-incense.mp3",
+      "wsqq-xingtian-temple-prayer-without-smoke.mp3",
+      "wsqq-xingtian-temple-a-corner-in-zhongshan.mp3"
+    ],
+    "durations": {
+      "wsqq-xingtian-temple-flight-context.mp3": 57.3582916,
+      "wsqq-xingtian-temple-intro.mp3": 46.6364583,
+      "wsqq-xingtian-temple-the-god-who-watches-over-commerce.mp3": 60.9937083,
+      "wsqq-xingtian-temple-built-in-1967-covering-seven-thousand-square-meter.mp3": 58.5528333,
+      "wsqq-xingtian-temple-the-first-temple-in-taiwan-to-ban-incense.mp3": 60.202625,
+      "wsqq-xingtian-temple-prayer-without-smoke.mp3": 52.2772083,
+      "wsqq-xingtian-temple-a-corner-in-zhongshan.mp3": 48.17275
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

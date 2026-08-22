@@ -33,6 +33,19 @@ Queulat National Park lies in Chile's Aysén Region at roughly 44.40 degrees sou
 ## Sources
 
 - [Queulat National Park - Wikivoyage](https://en.wikivoyage.org/?curid=204315)
+- [Queulat National Park - Wikipedia](https://en.wikipedia.org/wiki/Queulat_National_Park)
+  - Founded October 13, 1983
+  - Area of 154,093 hectares ("more than 150,000 hectares")
+  - Ice cap centered near 1,889-1,900 meters elevation
+  - Location in Aysén Region on the Carretera Austral
+
+## Review Notes
+
+**Reviewed:** 2026-07-14 · 3 facts verified · 0 corrections
+
+Verified founding date (1983), park area (154,093 ha), and hanging glacier ice cap elevation (~1,889m) against Wikipedia/official sources. All facts accurate. Spiciness 2.
+
+**Spiciness:** 2/5
 
 ---
 

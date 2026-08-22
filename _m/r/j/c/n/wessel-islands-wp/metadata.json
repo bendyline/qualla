@@ -55,5 +55,24 @@
     "sourceGeohash4": "rjcn"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "rjcn-wessel-islands-flight-context.mp3",
+      "rjcn-wessel-islands-intro.mp3",
+      "rjcn-wessel-islands-a-string-across-the-sea.mp3",
+      "rjcn-wessel-islands-the-coins-that-should-not-be-there.mp3",
+      "rjcn-wessel-islands-mapped-by-a-doomed-voyage.mp3",
+      "rjcn-wessel-islands-wealth-loss-and-wild-country.mp3"
+    ],
+    "durations": {
+      "rjcn-wessel-islands-flight-context.mp3": 54.4304583,
+      "rjcn-wessel-islands-intro.mp3": 43.4076666,
+      "rjcn-wessel-islands-a-string-across-the-sea.mp3": 55.81025,
+      "rjcn-wessel-islands-the-coins-that-should-not-be-there.mp3": 60.1610416,
+      "rjcn-wessel-islands-mapped-by-a-doomed-voyage.mp3": 51.6829166,
+      "rjcn-wessel-islands-wealth-loss-and-wild-country.mp3": 53.6599166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

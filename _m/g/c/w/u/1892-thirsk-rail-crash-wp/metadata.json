@@ -52,5 +52,24 @@
     "sourceGeohash4": "gcwu"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcwu-1892-thirsk-rail-crash-flight-context.mp3",
+      "gcwu-1892-thirsk-rail-crash-intro.mp3",
+      "gcwu-1892-thirsk-rail-crash-manor-house-signal-box.mp3",
+      "gcwu-1892-thirsk-rail-crash-thirteen-minutes.mp3",
+      "gcwu-1892-thirsk-rail-crash-the-dead.mp3",
+      "gcwu-1892-thirsk-rail-crash-the-inquiry.mp3"
+    ],
+    "durations": {
+      "gcwu-1892-thirsk-rail-crash-flight-context.mp3": 53.7365833,
+      "gcwu-1892-thirsk-rail-crash-intro.mp3": 50.6874583,
+      "gcwu-1892-thirsk-rail-crash-manor-house-signal-box.mp3": 52.8711666,
+      "gcwu-1892-thirsk-rail-crash-thirteen-minutes.mp3": 47.6022916,
+      "gcwu-1892-thirsk-rail-crash-the-dead.mp3": 66.174625,
+      "gcwu-1892-thirsk-rail-crash-the-inquiry.mp3": 78.0377083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

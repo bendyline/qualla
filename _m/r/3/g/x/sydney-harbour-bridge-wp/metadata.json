@@ -940,5 +940,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r3gx-sydney-harbour-bridge-flight-context.mp3",
+      "r3gx-sydney-harbour-bridge-intro.mp3",
+      "r3gx-sydney-harbour-bridge-a-bridge-a-century-in-the-making.mp3",
+      "r3gx-sydney-harbour-bridge-riveted-not-welded.mp3",
+      "r3gx-sydney-harbour-bridge-the-men-on-the-steel.mp3",
+      "r3gx-sydney-harbour-bridge-an-icon-above-the-harbour.mp3"
+    ],
+    "durations": {
+      "r3gx-sydney-harbour-bridge-flight-context.mp3": 67.8253333,
+      "r3gx-sydney-harbour-bridge-intro.mp3": 47.2610833,
+      "r3gx-sydney-harbour-bridge-a-bridge-a-century-in-the-making.mp3": 58.64175,
+      "r3gx-sydney-harbour-bridge-riveted-not-welded.mp3": 57.7913333,
+      "r3gx-sydney-harbour-bridge-the-men-on-the-steel.mp3": 58.9978333,
+      "r3gx-sydney-harbour-bridge-an-icon-above-the-harbour.mp3": 60.8699583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

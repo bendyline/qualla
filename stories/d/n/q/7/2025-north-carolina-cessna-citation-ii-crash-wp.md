@@ -24,11 +24,11 @@ On the way back to the airport, the captain reported problems with the Garmin's 
 
 ## The People Aboard
 
-The investigation will run for another year, maybe two. The NTSB found no evidence of structural failure. The engines remained attached to the airframe. Fan-blade damage was consistent with the engines turning at impact, not seized. What the agency has documented so far is a sequence of small malfunctions and confused responses inside the cockpit during an approach to a non-towered field in low visibility. None of this brings back the family aboard. Greg Biffle won 19 Cup Series races over his NASCAR career; he was 55 when he died. His wife Cristina and their children Emma and Ryder were with him. Dennis Dutton was the pilot. His son Jack was with him. Craig Wadsworth was the seventh. Seven people, one airplane, the last twenty minutes of a flight that ended a thousand feet short of the runway it was trying to reach.
+The investigation will run for another year, maybe two. The NTSB found no evidence of structural failure. The engines remained attached to the airframe. Fan-blade damage was consistent with the engines turning at impact, not seized. What the agency has documented so far, without yet determining a cause, is a sequence of small electrical malfunctions and the crew's attempts to diagnose them during an approach to a non-towered field in low visibility. None of this brings back the family aboard. Greg Biffle won 19 Cup Series races over his NASCAR career; he was 55 when he died. His wife Cristina and their children Emma and Ryder were with him. Dennis Dutton was the pilot. His son Jack was with him. Craig Wadsworth was the seventh. Seven people, one airplane, the last twenty minutes of a flight that ended a thousand feet short of the runway it was trying to reach.
 
 ## Flight Context
 
-Crash site at approximately 35.764 N, 80.939 W, in the runway overrun area at Statesville Regional Airport (KSVH). Field elevation 967 feet. KSVH is a non-towered general aviation airport with a single 7,003-foot runway (10/28). Located about 45 miles north of Charlotte (KCLT), 35 miles east of Hickory (KHKY). The accident is a sobering case study in cockpit electrical anomalies, crew-coordination breakdowns during instrument approach, and the higher accident exposure of pilot-flying / pilot-monitoring operations in single-pilot-certified business jets when the second seat is occupied by a pilot-passenger rather than a fully briefed crewmember.
+Crash site at approximately 35.764 N, 80.939 W, in the runway overrun area at Statesville Regional Airport (KSVH). Field elevation 967 feet. KSVH is a non-towered general aviation airport with a single 7,003-foot runway (10/28). Located about 45 miles north of Charlotte (KCLT), 35 miles east of Hickory (KHKY). The accident has raised questions about cockpit electrical anomalies, crew coordination during instrument approach, and the accident exposure of pilot-flying / pilot-monitoring operations in single-pilot-certified business jets when the second seat is occupied by a pilot-passenger rather than a fully briefed crewmember - issues the NTSB's continuing investigation has yet to resolve.
 
 ## Sources
 
@@ -50,6 +50,8 @@ Crash site at approximately 35.764 N, 80.939 W, in the runway overrun area at St
   - Runway 10/28, 7,003 ft asphalt
   - Field elevation 967 ft MSL
   - Non-towered airport confirmed
+- [Review — 2026-07-13](https://www.wfae.org/charlotte-area/2026-02-02/ntsb-releases-preliminary-report-on-statesville-plane-crash)
+  - Softened characterization of the deceased crew ('confused responses' / 'crew-coordination breakdowns') to preliminary, unresolved findings, since the NTSB preliminary report determines no probable cause and the final report is pending.
 
 ## Review Notes
 

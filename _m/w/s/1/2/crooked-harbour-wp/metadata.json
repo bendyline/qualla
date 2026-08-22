@@ -100,5 +100,24 @@
   "galleryPaths": [
     "_m/w/s/1/2/crooked-harbour-wp/cockle-picking-in-kat-o-hoi-67.jpg"
   ],
-  "updatedAt": "2026-06-29T17:22:54.882Z"
+  "updatedAt": "2026-06-29T17:22:54.882Z",
+  "narration": {
+    "files": [
+      "ws12-crooked-harbour-flight-context.mp3",
+      "ws12-crooked-harbour-intro.mp3",
+      "ws12-crooked-harbour-a-harbour-of-many-islands.mp3",
+      "ws12-crooked-harbour-stone-shelves-at-the-waters-edge.mp3",
+      "ws12-crooked-harbour-the-eelgrass-and-the-shrimp.mp3",
+      "ws12-crooked-harbour-at-the-edge-of-two-worlds.mp3"
+    ],
+    "durations": {
+      "ws12-crooked-harbour-flight-context.mp3": 48.313375,
+      "ws12-crooked-harbour-intro.mp3": 33.733,
+      "ws12-crooked-harbour-a-harbour-of-many-islands.mp3": 55.259125,
+      "ws12-crooked-harbour-stone-shelves-at-the-waters-edge.mp3": 52.4957083,
+      "ws12-crooked-harbour-the-eelgrass-and-the-shrimp.mp3": 48.86225,
+      "ws12-crooked-harbour-at-the-edge-of-two-worlds.mp3": 55.192625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

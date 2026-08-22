@@ -24,7 +24,7 @@ The grounds around the school are a teaching tool in themselves. The Kinoith Wal
 
 ## Difficult Truths
 
-The institution has not been without serious controversy, and an honest account requires saying so. In 2003, Tim Allen - Darina's husband and a co-founder of the cookery school - was convicted in a Cork court of possessing nearly a thousand pornographic images of children, some as young as five, recovered from his home and from computers at the school. He received a suspended sentence. Many regular customers boycotted Ballymaloe afterwards. The family stated their abhorrence of the material and their regret for any harm done; Tim Allen continued to teach at the school, a decision that has been criticised by Irish media in the years since. In 2018, a grandson, Joshua Allen, was convicted of a cannabis-trafficking offence connected to a package intercepted at the cookery school address. In 2021, the school was investigated for running an in-person course during a COVID-19 Level 5 lockdown. The school remains commercially successful - its 2023 profits exceeded 2.8 million euros - but the controversies are part of any honest account of its history.
+The institution has not been without serious controversy, and an honest account requires saying so. In 2003, Tim Allen - Darina's husband and a co-founder of the cookery school - was convicted in a Cork court of possessing nearly a thousand pornographic images of children, some as young as five, recovered from his home and from computers at the school. He received a suspended sentence, and announced that he would cease all connection and involvement with the cookery school, Ballymaloe House and the family's other businesses. In 2018, a grandson, Joshua Allen, was convicted of a cannabis-trafficking offence connected to a package intercepted at the cookery school address. In 2021, the school was investigated for running an in-person course during a COVID-19 Level 5 lockdown. The school remains commercially successful - its 2023 profits exceeded 2.8 million euros - but the controversies are part of any honest account of its history.
 
 ## Legacy in Irish Food
 
@@ -46,6 +46,8 @@ Located at 51.86 degrees N, 8.03 degrees W, on the Kinoith farm at Shanagarry in
   - Tim Allen conviction 2003 confirmed
   - Joshua Allen cannabis conviction confirmed
   - School's influence on Irish food confirmed
+- [Review — 2026-07-13](https://www.rte.ie/news/2003/0119/34216-allen/)
+  - Removed the inaccurate claim that Tim Allen "continued to teach" (RTE, 19 Jan 2003: he ceased all involvement with the school and related businesses) and dropped unverified boycott/family-statement lines.
 
 ## Review Notes
 

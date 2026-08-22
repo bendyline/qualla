@@ -232,5 +232,24 @@
     "_m/w/6/m/s/song-cau-wp/ap1510-sogny-marien-annam-song.jpg",
     "_m/w/6/m/s/song-cau-wp/ap1511-sogny-marien-annam-song.jpg"
   ],
-  "updatedAt": "2026-06-26T03:27:31.471Z"
+  "updatedAt": "2026-06-26T03:27:31.471Z",
+  "narration": {
+    "files": [
+      "w6ms-s-ng-c-u-flight-context.mp3",
+      "w6ms-s-ng-c-u-intro.mp3",
+      "w6ms-s-ng-c-u-a-coast-that-faces-east.mp3",
+      "w6ms-s-ng-c-u-reorganized-again-and-again.mp3",
+      "w6ms-s-ng-c-u-the-town-today.mp3",
+      "w6ms-s-ng-c-u-between-two-provinces.mp3"
+    ],
+    "durations": {
+      "w6ms-s-ng-c-u-flight-context.mp3": 52.7399166,
+      "w6ms-s-ng-c-u-intro.mp3": 39.9517083,
+      "w6ms-s-ng-c-u-a-coast-that-faces-east.mp3": 51.3460416,
+      "w6ms-s-ng-c-u-reorganized-again-and-again.mp3": 56.0780416,
+      "w6ms-s-ng-c-u-the-town-today.mp3": 50.8538333,
+      "w6ms-s-ng-c-u-between-two-provinces.mp3": 49.8145
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

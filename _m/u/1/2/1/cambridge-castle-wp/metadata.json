@@ -608,5 +608,24 @@
     "_m/u/1/2/1/cambridge-castle-wp/cambridge-castle-geograph-org--1.jpg",
     "_m/u/1/2/1/cambridge-castle-wp/castle-hill-cambridge-geograph.jpg"
   ],
-  "updatedAt": "2026-06-25T19:44:35.730Z"
+  "updatedAt": "2026-06-25T19:44:35.730Z",
+  "narration": {
+    "files": [
+      "u121-cambridge-castle-flight-context.mp3",
+      "u121-cambridge-castle-intro.mp3",
+      "u121-cambridge-castle-wars-and-sieges.mp3",
+      "u121-cambridge-castle-the-slow-dismantling.mp3",
+      "u121-cambridge-castle-oliver-cromwells-emergency-repairs.mp3",
+      "u121-cambridge-castle-what-remains.mp3"
+    ],
+    "durations": {
+      "u121-cambridge-castle-flight-context.mp3": 48.8605833,
+      "u121-cambridge-castle-intro.mp3": 39.804125,
+      "u121-cambridge-castle-wars-and-sieges.mp3": 56.0725833,
+      "u121-cambridge-castle-the-slow-dismantling.mp3": 49.2969166,
+      "u121-cambridge-castle-oliver-cromwells-emergency-repairs.mp3": 58.1649166,
+      "u121-cambridge-castle-what-remains.mp3": 50.2600833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

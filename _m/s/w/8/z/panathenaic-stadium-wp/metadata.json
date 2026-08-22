@@ -749,5 +749,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sw8z-panathenaic-stadium-flight-context.mp3",
+      "sw8z-panathenaic-stadium-intro.mp3",
+      "sw8z-panathenaic-stadium-the-marble-that-endures.mp3",
+      "sw8z-panathenaic-stadium-centuries-of-ruin-and-revival.mp3",
+      "sw8z-panathenaic-stadium-opening-day-1896.mp3",
+      "sw8z-panathenaic-stadium-the-living-stadium.mp3",
+      "sw8z-panathenaic-stadium-ghosts-of-the-track.mp3"
+    ],
+    "durations": {
+      "sw8z-panathenaic-stadium-flight-context.mp3": 50.802,
+      "sw8z-panathenaic-stadium-intro.mp3": 57.8147083,
+      "sw8z-panathenaic-stadium-the-marble-that-endures.mp3": 75.728125,
+      "sw8z-panathenaic-stadium-centuries-of-ruin-and-revival.mp3": 80.1437083,
+      "sw8z-panathenaic-stadium-opening-day-1896.mp3": 70.3494583,
+      "sw8z-panathenaic-stadium-the-living-stadium.mp3": 74.9991666,
+      "sw8z-panathenaic-stadium-ghosts-of-the-track.mp3": 47.206125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

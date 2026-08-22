@@ -67,5 +67,24 @@
     "sourceGeohash4": "w6v1"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "w6v1-operation-colorado-flight-context.mp3",
+      "w6v1-operation-colorado-intro.mp3",
+      "w6v1-operation-colorado-planning-in-the-hi-p-c-valleys.mp3",
+      "w6v1-operation-colorado-the-fight-at-thach-thuong.mp3",
+      "w6v1-operation-colorado-the-rainstorm-fight.mp3",
+      "w6v1-operation-colorado-costs-and-conclusions.mp3"
+    ],
+    "durations": {
+      "w6v1-operation-colorado-flight-context.mp3": 56.567125,
+      "w6v1-operation-colorado-intro.mp3": 41.3207083,
+      "w6v1-operation-colorado-planning-in-the-hi-p-c-valleys.mp3": 63.2019583,
+      "w6v1-operation-colorado-the-fight-at-thach-thuong.mp3": 67.2645833,
+      "w6v1-operation-colorado-the-rainstorm-fight.mp3": 69.8700833,
+      "w6v1-operation-colorado-costs-and-conclusions.mp3": 68.7062083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

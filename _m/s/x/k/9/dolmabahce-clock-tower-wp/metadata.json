@@ -526,5 +526,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-dolmabah-e-clock-tower-flight-context.mp3",
+      "sxk9-dolmabah-e-clock-tower-intro.mp3",
+      "sxk9-dolmabah-e-clock-tower-the-sultan-who-commissioned-it.mp3",
+      "sxk9-dolmabah-e-clock-tower-a-tower-designed-for-the-waterfront.mp3",
+      "sxk9-dolmabah-e-clock-tower-french-craft-german-hands.mp3",
+      "sxk9-dolmabah-e-clock-tower-old-mechanism-new-current.mp3",
+      "sxk9-dolmabah-e-clock-tower-along-the-palace-shore.mp3"
+    ],
+    "durations": {
+      "sxk9-dolmabah-e-clock-tower-flight-context.mp3": 59.15925,
+      "sxk9-dolmabah-e-clock-tower-intro.mp3": 47.2745416,
+      "sxk9-dolmabah-e-clock-tower-the-sultan-who-commissioned-it.mp3": 49.7127083,
+      "sxk9-dolmabah-e-clock-tower-a-tower-designed-for-the-waterfront.mp3": 55.1912083,
+      "sxk9-dolmabah-e-clock-tower-french-craft-german-hands.mp3": 62.3636666,
+      "sxk9-dolmabah-e-clock-tower-old-mechanism-new-current.mp3": 53.3550416,
+      "sxk9-dolmabah-e-clock-tower-along-the-palace-shore.mp3": 50.3405416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

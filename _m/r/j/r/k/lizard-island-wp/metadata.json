@@ -438,5 +438,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "rjrk-lizard-island-flight-context.mp3",
+      "rjrk-lizard-island-intro.mp3",
+      "rjrk-lizard-island-jiigurru-body-of-the-stingray.mp3",
+      "rjrk-lizard-island-cooks-look.mp3",
+      "rjrk-lizard-island-the-watsons-and-a-sacred-ground.mp3",
+      "rjrk-lizard-island-retribution-and-memory.mp3",
+      "rjrk-lizard-island-research-station-and-resort.mp3"
+    ],
+    "durations": {
+      "rjrk-lizard-island-flight-context.mp3": 69.0454583,
+      "rjrk-lizard-island-intro.mp3": 45.378625,
+      "rjrk-lizard-island-jiigurru-body-of-the-stingray.mp3": 60.4722083,
+      "rjrk-lizard-island-cooks-look.mp3": 46.1965,
+      "rjrk-lizard-island-the-watsons-and-a-sacred-ground.mp3": 59.4057916,
+      "rjrk-lizard-island-retribution-and-memory.mp3": 45.1966666,
+      "rjrk-lizard-island-research-station-and-resort.mp3": 50.4535
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

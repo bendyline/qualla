@@ -440,5 +440,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcw2-manchester-arena-bombing-flight-context.mp3",
+      "gcw2-manchester-arena-bombing-intro.mp3",
+      "gcw2-manchester-arena-bombing-the-concert.mp3",
+      "gcw2-manchester-arena-bombing-those-who-were-lost.mp3",
+      "gcw2-manchester-arena-bombing-the-response.mp3",
+      "gcw2-manchester-arena-bombing-st-anns-square.mp3",
+      "gcw2-manchester-arena-bombing-the-glade-of-light.mp3"
+    ],
+    "durations": {
+      "gcw2-manchester-arena-bombing-flight-context.mp3": 60.16525,
+      "gcw2-manchester-arena-bombing-intro.mp3": 44.0980833,
+      "gcw2-manchester-arena-bombing-the-concert.mp3": 57.640125,
+      "gcw2-manchester-arena-bombing-those-who-were-lost.mp3": 63.911875,
+      "gcw2-manchester-arena-bombing-the-response.mp3": 58.3017916,
+      "gcw2-manchester-arena-bombing-st-anns-square.mp3": 59.6353333,
+      "gcw2-manchester-arena-bombing-the-glade-of-light.mp3": 63.7327083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

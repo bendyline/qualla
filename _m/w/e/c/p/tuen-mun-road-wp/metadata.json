@@ -649,5 +649,26 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecp-tuen-mun-road-flight-context.mp3",
+      "wecp-tuen-mun-road-intro.mp3",
+      "wecp-tuen-mun-road-built-along-the-coastline.mp3",
+      "wecp-tuen-mun-road-the-weight-of-heavy-use.mp3",
+      "wecp-tuen-mun-road-ting-kau-10-july-2003.mp3",
+      "wecp-tuen-mun-road-small-disasters-and-long-jams.mp3",
+      "wecp-tuen-mun-road-a-road-still-being-fixed.mp3"
+    ],
+    "durations": {
+      "wecp-tuen-mun-road-flight-context.mp3": 60.1091666,
+      "wecp-tuen-mun-road-intro.mp3": 30.1574583,
+      "wecp-tuen-mun-road-built-along-the-coastline.mp3": 78.47075,
+      "wecp-tuen-mun-road-the-weight-of-heavy-use.mp3": 52.7634583,
+      "wecp-tuen-mun-road-ting-kau-10-july-2003.mp3": 86.9871666,
+      "wecp-tuen-mun-road-small-disasters-and-long-jams.mp3": 61.1365,
+      "wecp-tuen-mun-road-a-road-still-being-fixed.mp3": 44.5579166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

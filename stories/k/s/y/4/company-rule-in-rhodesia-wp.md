@@ -12,7 +12,7 @@ Cecil Rhodes once sketched a telegraph line on a map of Africa, running from Cap
 
 ## The Charter and the Column
 
-The Company's royal charter, granted in October 1889, gave it sweeping powers: the right to make treaties, promulgate laws, maintain a police force, and exploit mineral resources across an area whose boundaries were deliberately left vague. Rhodes envisioned a corridor of British influence from the Cape to Cairo, and the charter was his instrument. The Pioneer Column departed from Bechuanaland in June 1890, guided by the hunter Frederick Selous along a route skirting Matabeleland to avoid provoking King Lobengula's warriors. On 12 September 1890, they hoisted their flag at a kopje they called Fort Salisbury -- the site of present-day Harare. Each pioneer had been promised mining claims and a farm of over 3,000 acres, payment in land for a journey into the unknown.
+The Company's royal charter, granted in October 1889, gave it sweeping powers: the right to make treaties, promulgate laws, maintain a police force, and exploit mineral resources across an area whose boundaries were deliberately left vague. Rhodes envisioned a corridor of British influence from the Cape to Cairo, and the charter was his instrument. The Pioneer Column departed from Bechuanaland (now Botswana) in June 1890, guided by the hunter Frederick Selous along a route skirting Matabeleland to avoid provoking King Lobengula's warriors. On 12 September 1890, they hoisted their flag at a kopje they called Fort Salisbury -- the site of present-day Harare. Each pioneer had been promised mining claims and a farm of over 3,000 acres, payment in land for a journey into the unknown.
 
 ## Wars That Sealed the Conquest
 
@@ -20,7 +20,7 @@ Peace with the Ndebele did not last. In 1893, after a border dispute escalated i
 
 ## Two Rhodesias, One Company
 
-By the turn of the century, the Company's territory had been formally divided. Southern Rhodesia, south of the Zambezi, attracted most white immigrants and developed the fastest, gaining a legislative council in 1899 in which settlers held the majority of elected seats. North of the river, the Company administered North-Western and North-Eastern Rhodesia separately -- territories eventually joined in 1911 to form Northern Rhodesia. Within this vast northern expanse lay Barotseland, where King Lewanika had signed the Lochner Concession in 1890, granting the Company mining and trading rights. Company police north of the Zambezi spent their early years suppressing the Arab slave trade and establishing the rudiments of colonial order in landscapes that most European maps still left blank.
+By the turn of the century, the Company's territory had been formally divided. Southern Rhodesia (now Zimbabwe), south of the Zambezi, attracted most white immigrants and developed the fastest, gaining a legislative council in 1899 in which settlers held the majority of elected seats. North of the river, the Company administered North-Western and North-Eastern Rhodesia separately -- territories eventually joined in 1911 to form Northern Rhodesia. Within this vast northern expanse lay Barotseland, where King Lewanika had signed the Lochner Concession in 1890, granting the Company mining and trading rights. Company police north of the Zambezi spent their early years suppressing the Arab slave trade and establishing the rudiments of colonial order in landscapes that most European maps still left blank.
 
 ## Profits, Promises, and Reckoning
 

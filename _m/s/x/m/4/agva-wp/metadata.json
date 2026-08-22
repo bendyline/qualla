@@ -488,5 +488,24 @@
     "_m/s/x/m/4/agva-wp/wineport-lodge-agva-otel-02.jpg",
     "_m/s/x/m/4/agva-wp/wineport-lodge-agva-otel-03.jpg"
   ],
-  "updatedAt": "2026-06-25T08:08:47.052Z"
+  "updatedAt": "2026-06-25T08:08:47.052Z",
+  "narration": {
+    "files": [
+      "sxm4-a-va-flight-context.mp3",
+      "sxm4-a-va-intro.mp3",
+      "sxm4-a-va-where-the-rivers-meet-the-sea.mp3",
+      "sxm4-a-va-from-charcoal-to-sunburn.mp3",
+      "sxm4-a-va-summers-temporary-city.mp3",
+      "sxm4-a-va-the-cloth-that-endures.mp3"
+    ],
+    "durations": {
+      "sxm4-a-va-flight-context.mp3": 57.1840416,
+      "sxm4-a-va-intro.mp3": 41.8914583,
+      "sxm4-a-va-where-the-rivers-meet-the-sea.mp3": 58.0115,
+      "sxm4-a-va-from-charcoal-to-sunburn.mp3": 61.7804583,
+      "sxm4-a-va-summers-temporary-city.mp3": 52.962875,
+      "sxm4-a-va-the-cloth-that-endures.mp3": 52.6446666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

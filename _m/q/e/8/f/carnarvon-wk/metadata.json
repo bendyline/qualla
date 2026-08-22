@@ -91,5 +91,24 @@
   ],
   "galleryPaths": [
     "_m/tpc/ga/sc/oy/ne/gascoyne/carnarvon-jetty-western-austra.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qe8f-carnarvon-flight-context.mp3",
+      "qe8f-carnarvon-intro.mp3",
+      "qe8f-carnarvon-neck-of-water.mp3",
+      "qe8f-carnarvon-bananas-mangoes-and-the-long-jetty.mp3",
+      "qe8f-carnarvon-the-town-that-touched-the-moon.mp3",
+      "qe8f-carnarvon-edges-of-the-map.mp3"
+    ],
+    "durations": {
+      "qe8f-carnarvon-flight-context.mp3": 61.99975,
+      "qe8f-carnarvon-intro.mp3": 43.2371666,
+      "qe8f-carnarvon-neck-of-water.mp3": 55.7048333,
+      "qe8f-carnarvon-bananas-mangoes-and-the-long-jetty.mp3": 58.7995833,
+      "qe8f-carnarvon-the-town-that-touched-the-moon.mp3": 62.8149583,
+      "qe8f-carnarvon-edges-of-the-map.mp3": 54.8244166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

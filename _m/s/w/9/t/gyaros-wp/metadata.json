@@ -172,5 +172,26 @@
     "_m/s/w/9/t/gyaros-wp/gyaros-map.png",
     "_m/s/w/9/t/gyaros-wp/gyaros-luftbild-01-cropped.jpg"
   ],
-  "updatedAt": "2026-06-24T16:09:33.353Z"
+  "updatedAt": "2026-06-24T16:09:33.353Z",
+  "narration": {
+    "files": [
+      "sw9t-gyaros-flight-context.mp3",
+      "sw9t-gyaros-intro.mp3",
+      "sw9t-gyaros-what-rome-considered-too-harsh.mp3",
+      "sw9t-gyaros-the-red-brick-prison.mp3",
+      "sw9t-gyaros-the-juntas-island.mp3",
+      "sw9t-gyaros-what-remains.mp3",
+      "sw9t-gyaros-a-myth-at-the-margins.mp3"
+    ],
+    "durations": {
+      "sw9t-gyaros-flight-context.mp3": 57.3575416,
+      "sw9t-gyaros-intro.mp3": 49.09575,
+      "sw9t-gyaros-what-rome-considered-too-harsh.mp3": 70.20675,
+      "sw9t-gyaros-the-red-brick-prison.mp3": 55.8965416,
+      "sw9t-gyaros-the-juntas-island.mp3": 58.0570833,
+      "sw9t-gyaros-what-remains.mp3": 61.4470416,
+      "sw9t-gyaros-a-myth-at-the-margins.mp3": 61.0815
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

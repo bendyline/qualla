@@ -934,5 +934,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-yeni-valide-mosque-flight-context.mp3",
+      "sxk9-yeni-valide-mosque-intro.mp3",
+      "sxk9-yeni-valide-mosque-the-son-who-built-it.mp3",
+      "sxk9-yeni-valide-mosque-architecture-at-the-waters-edge.mp3",
+      "sxk9-yeni-valide-mosque-a-tomb-like-a-bird-cage.mp3",
+      "sxk9-yeni-valide-mosque-the-calligraphy-and-the-fountain.mp3",
+      "sxk9-yeni-valide-mosque-what-g-ln-built-in-her-name.mp3"
+    ],
+    "durations": {
+      "sxk9-yeni-valide-mosque-flight-context.mp3": 56.122625,
+      "sxk9-yeni-valide-mosque-intro.mp3": 55.6049583,
+      "sxk9-yeni-valide-mosque-the-son-who-built-it.mp3": 59.49625,
+      "sxk9-yeni-valide-mosque-architecture-at-the-waters-edge.mp3": 69.2303333,
+      "sxk9-yeni-valide-mosque-a-tomb-like-a-bird-cage.mp3": 62.7226666,
+      "sxk9-yeni-valide-mosque-the-calligraphy-and-the-fountain.mp3": 64.6775,
+      "sxk9-yeni-valide-mosque-what-g-ln-built-in-her-name.mp3": 64.162375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -20,7 +20,7 @@ Odighizuwa, who had failed out of the school, came to campus that morning and me
 
 ## The Trial and the Sentence
 
-Odighizuwa was initially found mentally incompetent to stand trial. He received psychiatric care, and in February 2004 was found competent and pleaded guilty to all charges to avoid the death penalty. The court sentenced him to six consecutive life terms plus twenty-eight years, with no possibility of parole. He is serving his sentence at Red Onion State Prison, a supermax facility in nearby Wise County. His sons - born long before the shooting - went on to play in the NFL. Owa Odighizuwa was a third-round draft pick by the New York Giants in 2015. Osa Odighizuwa was a third-round pick by the Dallas Cowboys in 2021. Their lives were shaped, before they were old enough to understand it, by what their father had done. They were, in the truest sense, also victims.
+Odighizuwa was initially found mentally incompetent to stand trial. He received psychiatric care, and in February 2004 was found competent and pleaded guilty to all charges to avoid the death penalty. The court sentenced him to six consecutive life terms plus twenty-eight years, with no possibility of parole. He is serving his sentence at Red Onion State Prison, a supermax facility in nearby Wise County.
 
 ## What Was Built In Their Names
 
@@ -47,10 +47,8 @@ The Appalachian School of Law campus sits at 37.28 degrees north, 82.09 degrees 
   - six consecutive life terms plus 28 years confirmed
   - no possibility of parole confirmed
   - Red Onion State Prison, Wise County confirmed
-- [Owa Odighizuwa - Wikipedia](https://en.wikipedia.org/wiki/Owa_Odighizuwa)
-  - Owa Odighizuwa third-round pick by New York Giants in 2015 confirmed (74th overall pick)
-- [Osa Odighizuwa - Wikipedia](https://en.wikipedia.org/wiki/Osa_Odighizuwa)
-  - Osa Odighizuwa third-round pick by Dallas Cowboys in 2021 confirmed (75th overall pick)
+- [Review — 2026-07-13](https://www.washingtonpost.com/archive/local/2004/02/28/law-school-shooter-pleads-guilty/d79defe3-b4f5-4c9e-b041-f7c878e69287/)
+  - Removed the naming of the perpetrator's living, uninvolved adult sons (privacy/fairness). Guilty-plea date retained as February 2004 per the contemporaneous Washington Post report (archive permalink dated 2004-02-28), which is more reliable here than Wikipedia's '2005'.
 - [Harvard Law School Alum Killed in Shooting - The Harvard Crimson](https://www.thecrimson.com/article/2002/1/18/harvard-law-school-alum-killed-in/)
   - Anthony Sutin served as acting assistant attorney general for legislative affairs under Clinton confirmed
 
@@ -65,7 +63,6 @@ Corrected guilty plea year from 2005 to February 2004 (per Washington Post). Ver
 **Strong opinions:**
 
 - 'It is, as of this writing, one of only a handful of mass shootings in American history to take place at a law school - a small, fierce wound on a small, fierce school'
-- 'They were, in the truest sense, also victims' (referring to Odighizuwa's sons)
 
 ---
 

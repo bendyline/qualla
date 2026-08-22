@@ -41,5 +41,26 @@
   "galleryPaths": [
     "_m/s/w/9/u/delos-wp/temple-of-isis-delos-01.jpg"
   ],
-  "updatedAt": "2026-05-11T13:17:04.121Z"
+  "updatedAt": "2026-05-11T13:17:04.121Z",
+  "narration": {
+    "files": [
+      "sw9u-delos-flight-context.mp3",
+      "sw9u-delos-intro.mp3",
+      "sw9u-delos-island-at-the-center-of-everything.mp3",
+      "sw9u-delos-the-purifications.mp3",
+      "sw9u-delos-crossroads-of-the-ancient-world.mp3",
+      "sw9u-delos-the-terrace-of-the-lions.mp3",
+      "sw9u-delos-what-remains.mp3"
+    ],
+    "durations": {
+      "sw9u-delos-flight-context.mp3": 49.2379583,
+      "sw9u-delos-intro.mp3": 31.5974583,
+      "sw9u-delos-island-at-the-center-of-everything.mp3": 76.5024166,
+      "sw9u-delos-the-purifications.mp3": 58.3684166,
+      "sw9u-delos-crossroads-of-the-ancient-world.mp3": 71.9035833,
+      "sw9u-delos-the-terrace-of-the-lions.mp3": 88.8788333,
+      "sw9u-delos-what-remains.mp3": 61.3162083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -61,5 +61,24 @@
     "sourceGeohash4": "qeje"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qeje-cosmos-nickel-mine-flight-context.mp3",
+      "qeje-cosmos-nickel-mine-intro.mp3",
+      "qeje-cosmos-nickel-mine-an-accidental-fortune.mp3",
+      "qeje-cosmos-nickel-mine-billions-then-a-bust.mp3",
+      "qeje-cosmos-nickel-mine-the-odysseus-gamble.mp3",
+      "qeje-cosmos-nickel-mine-older-than-the-ore.mp3"
+    ],
+    "durations": {
+      "qeje-cosmos-nickel-mine-flight-context.mp3": 66.475875,
+      "qeje-cosmos-nickel-mine-intro.mp3": 48.3199583,
+      "qeje-cosmos-nickel-mine-an-accidental-fortune.mp3": 57.5100833,
+      "qeje-cosmos-nickel-mine-billions-then-a-bust.mp3": 64.0625,
+      "qeje-cosmos-nickel-mine-the-odysseus-gamble.mp3": 65.7708333,
+      "qeje-cosmos-nickel-mine-older-than-the-ore.mp3": 57.6681666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

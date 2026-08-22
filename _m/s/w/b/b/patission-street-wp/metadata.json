@@ -532,5 +532,24 @@
     "_m/s/w/b/b/patission-street-wp/patision-5.jpg",
     "_m/s/w/b/b/patission-street-wp/stavrakos-film-school.jpg"
   ],
-  "updatedAt": "2026-06-24T19:58:56.398Z"
+  "updatedAt": "2026-06-24T19:58:56.398Z",
+  "narration": {
+    "files": [
+      "swbb-patission-street-flight-context.mp3",
+      "swbb-patission-street-intro.mp3",
+      "swbb-patission-street-the-avenue-of-defiance.mp3",
+      "swbb-patission-street-plots-along-the-pavement.mp3",
+      "swbb-patission-street-a-bourgeois-boulevard.mp3",
+      "swbb-patission-street-the-diva-and-the-strongman.mp3"
+    ],
+    "durations": {
+      "swbb-patission-street-flight-context.mp3": 40.317625,
+      "swbb-patission-street-intro.mp3": 41.0027916,
+      "swbb-patission-street-the-avenue-of-defiance.mp3": 54.4910833,
+      "swbb-patission-street-plots-along-the-pavement.mp3": 47.9295,
+      "swbb-patission-street-a-bourgeois-boulevard.mp3": 47.445375,
+      "swbb-patission-street-the-diva-and-the-strongman.mp3": 46.7576666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

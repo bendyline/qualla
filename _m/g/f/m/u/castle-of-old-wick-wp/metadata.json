@@ -308,5 +308,22 @@
     "_m/g/f/m/u/castle-of-old-wick-wp/20250501-canon-r5-castle-of-ol.jpg",
     "_m/g/f/m/u/castle-of-old-wick-wp/20250501-canon-r5-castle-of-ol-1.jpg"
   ],
-  "updatedAt": "2026-06-24T04:50:55.891Z"
+  "updatedAt": "2026-06-24T04:50:55.891Z",
+  "narration": {
+    "files": [
+      "gfmu-castle-of-old-wick-flight-context.mp3",
+      "gfmu-castle-of-old-wick-intro.mp3",
+      "gfmu-castle-of-old-wick-a-peninsula-made-for-war.mp3",
+      "gfmu-castle-of-old-wick-an-obscure-history.mp3",
+      "gfmu-castle-of-old-wick-what-the-wind-does.mp3"
+    ],
+    "durations": {
+      "gfmu-castle-of-old-wick-flight-context.mp3": 44.0684583,
+      "gfmu-castle-of-old-wick-intro.mp3": 41.3890416,
+      "gfmu-castle-of-old-wick-a-peninsula-made-for-war.mp3": 64.613625,
+      "gfmu-castle-of-old-wick-an-obscure-history.mp3": 63.552125,
+      "gfmu-castle-of-old-wick-what-the-wind-does.mp3": 50.8447916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

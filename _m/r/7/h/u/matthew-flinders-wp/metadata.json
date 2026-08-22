@@ -728,5 +728,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r7hu-matthew-flinders-flight-context.mp3",
+      "r7hu-matthew-flinders-intro.mp3",
+      "r7hu-matthew-flinders-six-days-into-moreton-bay.mp3",
+      "r7hu-matthew-flinders-all-the-way-around.mp3",
+      "r7hu-matthew-flinders-a-name-for-a-continent.mp3",
+      "r7hu-matthew-flinders-the-prisoner-of-mauritius.mp3"
+    ],
+    "durations": {
+      "r7hu-matthew-flinders-flight-context.mp3": 66.6299583,
+      "r7hu-matthew-flinders-intro.mp3": 39.656625,
+      "r7hu-matthew-flinders-six-days-into-moreton-bay.mp3": 58.67275,
+      "r7hu-matthew-flinders-all-the-way-around.mp3": 59.23425,
+      "r7hu-matthew-flinders-a-name-for-a-continent.mp3": 55.9913333,
+      "r7hu-matthew-flinders-the-prisoner-of-mauritius.mp3": 69.7846666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

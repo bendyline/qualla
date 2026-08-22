@@ -71,5 +71,22 @@
     "sourceGeohash4": "sw8h"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sw8h-lepida-gorge-flight-context.mp3",
+      "sw8h-lepida-gorge-intro.mp3",
+      "sw8h-lepida-gorge-water-from-the-plateau.mp3",
+      "sw8h-lepida-gorge-the-canyoners-season.mp3",
+      "sw8h-lepida-gorge-parnons-hidden-interior.mp3"
+    ],
+    "durations": {
+      "sw8h-lepida-gorge-flight-context.mp3": 59.3700833,
+      "sw8h-lepida-gorge-intro.mp3": 43.4185,
+      "sw8h-lepida-gorge-water-from-the-plateau.mp3": 63.35175,
+      "sw8h-lepida-gorge-the-canyoners-season.mp3": 58.6995416,
+      "sw8h-lepida-gorge-parnons-hidden-interior.mp3": 68.14775
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

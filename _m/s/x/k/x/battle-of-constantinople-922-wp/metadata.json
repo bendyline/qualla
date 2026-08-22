@@ -91,5 +91,24 @@
   ],
   "galleryPaths": [
     "_m/tpc/cr/us/ad/es/crusades/byzantine-constantinople-en.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxkx-battle-of-constantinople-922-flight-context.mp3",
+      "sxkx-battle-of-constantinople-922-intro.mp3",
+      "sxkx-battle-of-constantinople-922-the-decade-that-led-here.mp3",
+      "sxkx-battle-of-constantinople-922-the-secret-alliance.mp3",
+      "sxkx-battle-of-constantinople-922-the-battle-and-its-cost.mp3",
+      "sxkx-battle-of-constantinople-922-the-wall-he-could-not-climb.mp3"
+    ],
+    "durations": {
+      "sxkx-battle-of-constantinople-922-flight-context.mp3": 53.848125,
+      "sxkx-battle-of-constantinople-922-intro.mp3": 51.6809166,
+      "sxkx-battle-of-constantinople-922-the-decade-that-led-here.mp3": 76.484875,
+      "sxkx-battle-of-constantinople-922-the-secret-alliance.mp3": 75.8417083,
+      "sxkx-battle-of-constantinople-922-the-battle-and-its-cost.mp3": 71.6710833,
+      "sxkx-battle-of-constantinople-922-the-wall-he-could-not-climb.mp3": 79.2761666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

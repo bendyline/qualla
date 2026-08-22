@@ -12,7 +12,7 @@ When Amsterdam's merchants grew rich in the seventeenth century, they wanted som
 
 ## The River of Country Houses
 
-The Vecht was a working river long before it was a fashionable one. It carried trade between Amsterdam and Utrecht, and that commercial importance is exactly why the estates went up where they did, on land close to the city but blessedly out of it. The Dutch have a word for these places, buitenplaats, a country seat where a wealthy family could play at rural life within easy reach of business. Dozens of them dot the entire course of the river, from grand castle-like piles to elegant villas with gardens running down to the water. The village of 's-Graveland holds an especially dense cluster, built by Amsterdam traders along an old canal that linked the city to Hilversum. Much of that property is now owned and protected by Natuurmonumenten, the Dutch nature conservation society, which fittingly keeps its headquarters there among the estates it guards.
+The Vecht was a working river long before it was a fashionable one. It carried trade between Amsterdam and Utrecht, and that commercial importance is exactly why the estates went up where they did, on land close to the city but blessedly out of it. The Dutch have a word for these places, buitenplaats, a country seat where a wealthy family could play at rural life within easy reach of business. Dozens of them dot the entire course of the river, from grand castle-like piles to elegant villas with gardens running down to the water. The village of 's-Graveland holds an especially dense cluster, built by Amsterdam traders along an old canal that linked the city to Hilversum. Much of that property is now owned and protected by Natuurmonumenten, the Dutch nature conservation society, which fittingly kept its national headquarters there among the estates it guarded for over four decades, before relocating to Amersfoort in 2020.
 
 ## A Landscape Dug Out by Hand
 
@@ -37,6 +37,19 @@ The Vechtstreek lies at roughly 52.17°N, 5.00°E in the flat country between Am
 ## Sources
 
 - [Vechtstreek - Wikivoyage](https://en.wikivoyage.org/?curid=39300)
+- [Hoofdkantoor Natuurmonumenten vertrekt uit 's-Graveland - Hilversums Nieuws](https://www.hilversumsnieuws.nl/natuur-milieu/natuur-milieu/160483/hoofdkantoor-natuurmonumenten-vertrekt-uit-s-graveland)
+  - 's-Gravelandse Buitenplaatsen estates developed from 1625 by wealthy Amsterdam merchants
+  - Natuurmonumenten owns and protects the 's-Graveland estates
+  - Corrected: Natuurmonumenten's national headquarters was at Schaep en Burgh, 's-Graveland from 1975 but relocated to Amersfoort in autumn 2020 - story wrongly claimed it as a current fact
+  - Breukelen's name was carried to New York by Dutch settlers and became Brooklyn
+
+## Review Notes
+
+**Reviewed:** 2026-07-14 · 4 facts verified · 1 correction
+
+Verified 's-Gravelandse estates history, Breukelen/Brooklyn name origin, peat-cutting formation of lakes. Corrected: story claimed Natuurmonumenten 'keeps its headquarters' in 's-Graveland in present tense, but the HQ relocated to Amersfoort in autumn 2020 - stale current-tense claim fixed to past tense with relocation noted.
+
+**Spiciness:** 2/5
 
 ---
 

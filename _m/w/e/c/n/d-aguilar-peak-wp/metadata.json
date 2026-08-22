@@ -202,5 +202,24 @@
     "_m/w/e/c/n/d-aguilar-peak-wp/d-aguilar-peak.jpg",
     "_m/w/e/c/n/d-aguilar-peak-wp/big-wave-bay-hong-kong-island.jpg"
   ],
-  "updatedAt": "2026-06-26T09:00:30.486Z"
+  "updatedAt": "2026-06-26T09:00:30.486Z",
+  "narration": {
+    "files": [
+      "wecn-daguilar-peak-flight-context.mp3",
+      "wecn-daguilar-peak-intro.mp3",
+      "wecn-daguilar-peak-the-view-from-dragons-back.mp3",
+      "wecn-daguilar-peak-getting-there.mp3",
+      "wecn-daguilar-peak-protected-ground.mp3",
+      "wecn-daguilar-peak-at-the-edge-of-hong-kong.mp3"
+    ],
+    "durations": {
+      "wecn-daguilar-peak-flight-context.mp3": 61.948,
+      "wecn-daguilar-peak-intro.mp3": 45.837,
+      "wecn-daguilar-peak-the-view-from-dragons-back.mp3": 42.0404583,
+      "wecn-daguilar-peak-getting-there.mp3": 56.2235,
+      "wecn-daguilar-peak-protected-ground.mp3": 50.2904166,
+      "wecn-daguilar-peak-at-the-edge-of-hong-kong.mp3": 49.9522916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

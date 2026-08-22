@@ -536,5 +536,22 @@
     "_m/s/w/f/d/cesme-museum-wp/cesme-muzesi-izmir-2020-19.jpg",
     "_m/s/w/f/d/cesme-museum-wp/cesme-muzesi-izmir-2020-20.jpg"
   ],
-  "updatedAt": "2026-06-24T22:45:00.122Z"
+  "updatedAt": "2026-06-24T22:45:00.122Z",
+  "narration": {
+    "files": [
+      "swfd-e-me-museum-flight-context.mp3",
+      "swfd-e-me-museum-intro.mp3",
+      "swfd-e-me-museum-a-museum-in-a-fortress.mp3",
+      "swfd-e-me-museum-erythrae-and-the-ancient-coast.mp3",
+      "swfd-e-me-museum-relics-of-the-battle.mp3"
+    ],
+    "durations": {
+      "swfd-e-me-museum-flight-context.mp3": 56.90525,
+      "swfd-e-me-museum-intro.mp3": 36.336875,
+      "swfd-e-me-museum-a-museum-in-a-fortress.mp3": 39.014,
+      "swfd-e-me-museum-erythrae-and-the-ancient-coast.mp3": 48.5459166,
+      "swfd-e-me-museum-relics-of-the-battle.mp3": 45.3266666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

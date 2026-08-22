@@ -47,5 +47,24 @@
     "sourceGeohash4": "r4rm"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "r4rm-mount-grenfell-flight-context.mp3",
+      "r4rm-mount-grenfell-intro.mp3",
+      "r4rm-mount-grenfell-the-people-of-this-country.mp3",
+      "r4rm-mount-grenfell-reading-the-walls.mp3",
+      "r4rm-mount-grenfell-handed-back.mp3",
+      "r4rm-mount-grenfell-approaching-with-respect.mp3"
+    ],
+    "durations": {
+      "r4rm-mount-grenfell-flight-context.mp3": 62.0680416,
+      "r4rm-mount-grenfell-intro.mp3": 39.53075,
+      "r4rm-mount-grenfell-the-people-of-this-country.mp3": 50.1125833,
+      "r4rm-mount-grenfell-reading-the-walls.mp3": 56.4614583,
+      "r4rm-mount-grenfell-handed-back.mp3": 46.1900833,
+      "r4rm-mount-grenfell-approaching-with-respect.mp3": 55.9822916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

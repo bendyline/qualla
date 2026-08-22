@@ -90,5 +90,24 @@
   ],
   "galleryPaths": [
     "_m/g/c/w/f/battle-of-leeds-wp/bust-sir-william-savil.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcwf-battle-of-leeds-flight-context.mp3",
+      "gcwf-battle-of-leeds-intro.mp3",
+      "gcwf-battle-of-leeds-why-the-wool-towns-mattered.mp3",
+      "gcwf-battle-of-leeds-the-plan.mp3",
+      "gcwf-battle-of-leeds-two-hours-in-the-snow.mp3",
+      "gcwf-battle-of-leeds-the-beginning-of-a-career.mp3"
+    ],
+    "durations": {
+      "gcwf-battle-of-leeds-flight-context.mp3": 48.0839583,
+      "gcwf-battle-of-leeds-intro.mp3": 52.5945416,
+      "gcwf-battle-of-leeds-why-the-wool-towns-mattered.mp3": 58.3560416,
+      "gcwf-battle-of-leeds-the-plan.mp3": 53.9057916,
+      "gcwf-battle-of-leeds-two-hours-in-the-snow.mp3": 60.0325,
+      "gcwf-battle-of-leeds-the-beginning-of-a-career.mp3": 65.7211666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -63,5 +63,24 @@
     "sourceGeohash4": "sqxt"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sqxt-lykaia-flight-context.mp3",
+      "sqxt-lykaia-intro.mp3",
+      "sqxt-lykaia-zeus-lykaios-and-the-founding-myth.mp3",
+      "sqxt-lykaia-rumors-rites-and-the-werewolf-tradition.mp3",
+      "sqxt-lykaia-the-precinct-where-no-shadows-fell.mp3",
+      "sqxt-lykaia-the-modern-lykaia.mp3"
+    ],
+    "durations": {
+      "sqxt-lykaia-flight-context.mp3": 55.4109583,
+      "sqxt-lykaia-intro.mp3": 45.5104583,
+      "sqxt-lykaia-zeus-lykaios-and-the-founding-myth.mp3": 56.3289166,
+      "sqxt-lykaia-rumors-rites-and-the-werewolf-tradition.mp3": 67.3776666,
+      "sqxt-lykaia-the-precinct-where-no-shadows-fell.mp3": 67.4052916,
+      "sqxt-lykaia-the-modern-lykaia.mp3": 65.7229166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

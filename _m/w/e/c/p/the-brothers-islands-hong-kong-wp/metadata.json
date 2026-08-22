@@ -114,5 +114,22 @@
   "galleryPaths": [
     "_m/w/e/c/p/the-brothers-islands-hong-kong-wp/photo-tai-mo.jpg",
     "_m/w/e/c/p/the-brothers-islands-hong-kong-wp/photo-siu-mo.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecp-the-brothers-islands-hong-kong-flight-context.mp3",
+      "wecp-the-brothers-islands-hong-kong-intro.mp3",
+      "wecp-the-brothers-islands-hong-kong-islands-that-gave-way-to-the-sky.mp3",
+      "wecp-the-brothers-islands-hong-kong-what-the-leveling-left-behind.mp3",
+      "wecp-the-brothers-islands-hong-kong-navigation-markers-in-an-unusual-form.mp3"
+    ],
+    "durations": {
+      "wecp-the-brothers-islands-hong-kong-flight-context.mp3": 52.0507916,
+      "wecp-the-brothers-islands-hong-kong-intro.mp3": 45.3085416,
+      "wecp-the-brothers-islands-hong-kong-islands-that-gave-way-to-the-sky.mp3": 65.7357083,
+      "wecp-the-brothers-islands-hong-kong-what-the-leveling-left-behind.mp3": 58.262375,
+      "wecp-the-brothers-islands-hong-kong-navigation-markers-in-an-unusual-form.mp3": 62.8471666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

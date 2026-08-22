@@ -110,5 +110,24 @@
   "galleryPaths": [
     "_m/g/c/w/2/factory-records-wp/picture-taken-monday-1.jpg",
     "_m/g/c/w/2/factory-records-wp/southern-cemetery-manc.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcw2-factory-records-flight-context.mp3",
+      "gcw2-factory-records-intro.mp3",
+      "gcw2-factory-records-a-club-called-the-factory.mp3",
+      "gcw2-factory-records-ian-curtis-and-what-came-next.mp3",
+      "gcw2-factory-records-the-ha-ienda.mp3",
+      "gcw2-factory-records-afterlife.mp3"
+    ],
+    "durations": {
+      "gcw2-factory-records-flight-context.mp3": 50.5914583,
+      "gcw2-factory-records-intro.mp3": 48.8207083,
+      "gcw2-factory-records-a-club-called-the-factory.mp3": 63.6214166,
+      "gcw2-factory-records-ian-curtis-and-what-came-next.mp3": 56.674,
+      "gcw2-factory-records-the-ha-ienda.mp3": 69.4089166,
+      "gcw2-factory-records-afterlife.mp3": 54.9322916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

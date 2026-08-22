@@ -704,5 +704,24 @@
     "_m/g/c/x/9/humber-bridge-wp/rms-vindava-passing-the-humber.jpg",
     "_m/g/c/x/9/humber-bridge-wp/crossing-the-humber-by-bike-ge.jpg"
   ],
-  "updatedAt": "2026-06-23T12:08:48.106Z"
+  "updatedAt": "2026-06-23T12:08:48.106Z",
+  "narration": {
+    "files": [
+      "gcx9-humber-bridge-flight-context.mp3",
+      "gcx9-humber-bridge-intro.mp3",
+      "gcx9-humber-bridge-the-bridge-politics-built.mp3",
+      "gcx9-humber-bridge-a-concrete-catenary.mp3",
+      "gcx9-humber-bridge-the-crossing.mp3",
+      "gcx9-humber-bridge-tolls-and-endings.mp3"
+    ],
+    "durations": {
+      "gcx9-humber-bridge-flight-context.mp3": 50.349375,
+      "gcx9-humber-bridge-intro.mp3": 45.74425,
+      "gcx9-humber-bridge-the-bridge-politics-built.mp3": 62.421,
+      "gcx9-humber-bridge-a-concrete-catenary.mp3": 69.6663333,
+      "gcx9-humber-bridge-the-crossing.mp3": 66.7895,
+      "gcx9-humber-bridge-tolls-and-endings.mp3": 65.2474166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

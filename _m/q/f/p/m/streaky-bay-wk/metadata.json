@@ -34,5 +34,24 @@
   "galleryPaths": [
     "_m/q/f/p/m/streaky-bay-wk/streaky-bay-hotel-2017-01.jpg"
   ],
-  "updatedAt": "2026-06-27T23:38:56.430Z"
+  "updatedAt": "2026-06-27T23:38:56.430Z",
+  "narration": {
+    "files": [
+      "qfpm-streaky-bay-flight-context.mp3",
+      "qfpm-streaky-bay-intro.mp3",
+      "qfpm-streaky-bay-the-shark-in-the-servo.mp3",
+      "qfpm-streaky-bay-oysters-off-the-lease.mp3",
+      "qfpm-streaky-bay-the-cape-bauer-loop.mp3",
+      "qfpm-streaky-bay-foreshore-time.mp3"
+    ],
+    "durations": {
+      "qfpm-streaky-bay-flight-context.mp3": 64.3056666,
+      "qfpm-streaky-bay-intro.mp3": 52.0602083,
+      "qfpm-streaky-bay-the-shark-in-the-servo.mp3": 54.4889166,
+      "qfpm-streaky-bay-oysters-off-the-lease.mp3": 45.0147083,
+      "qfpm-streaky-bay-the-cape-bauer-loop.mp3": 47.898,
+      "qfpm-streaky-bay-foreshore-time.mp3": 51.249625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

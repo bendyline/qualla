@@ -351,5 +351,24 @@
     "_m/w/s/1/2/ap-chau-wp/01.jpg",
     "_m/w/s/1/2/ap-chau-wp/02.jpg"
   ],
-  "updatedAt": "2026-06-29T17:20:26.224Z"
+  "updatedAt": "2026-06-29T17:20:26.224Z",
+  "narration": {
+    "files": [
+      "ws12-ap-chau-flight-context.mp3",
+      "ws12-ap-chau-intro.mp3",
+      "ws12-ap-chau-the-fishermen-who-came-first.mp3",
+      "ws12-ap-chau-the-village-built-on-faith-and-foreign-aid.mp3",
+      "ws12-ap-chau-the-ducks-eye.mp3",
+      "ws12-ap-chau-getting-there.mp3"
+    ],
+    "durations": {
+      "ws12-ap-chau-flight-context.mp3": 48.0995833,
+      "ws12-ap-chau-intro.mp3": 37.2714166,
+      "ws12-ap-chau-the-fishermen-who-came-first.mp3": 58.2945833,
+      "ws12-ap-chau-the-village-built-on-faith-and-foreign-aid.mp3": 50.7672083,
+      "ws12-ap-chau-the-ducks-eye.mp3": 54.4976666,
+      "ws12-ap-chau-getting-there.mp3": 55.5816666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

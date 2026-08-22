@@ -84,5 +84,24 @@
   ],
   "galleryPaths": [
     "_m/s/r/n/1/old-fortress-corfu-wp/frangokastello-sfakia.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swbx-skiathos-castle-flight-context.mp3",
+      "swbx-skiathos-castle-intro.mp3",
+      "swbx-skiathos-castle-a-town-on-a-knife-edge.mp3",
+      "swbx-skiathos-castle-conquerors-at-the-gate.mp3",
+      "swbx-skiathos-castle-the-last-raid-and-the-long-silence.mp3",
+      "swbx-skiathos-castle-what-the-cliffs-kept.mp3"
+    ],
+    "durations": {
+      "swbx-skiathos-castle-flight-context.mp3": 53.304625,
+      "swbx-skiathos-castle-intro.mp3": 36.7273333,
+      "swbx-skiathos-castle-a-town-on-a-knife-edge.mp3": 49.19175,
+      "swbx-skiathos-castle-conquerors-at-the-gate.mp3": 57.8657916,
+      "swbx-skiathos-castle-the-last-raid-and-the-long-silence.mp3": 49.083625,
+      "swbx-skiathos-castle-what-the-cliffs-kept.mp3": 48.3709166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

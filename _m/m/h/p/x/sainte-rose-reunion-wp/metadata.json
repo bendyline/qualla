@@ -84,5 +84,24 @@
   "galleryPaths": [
     "_m/m/h/p/x/sainte-rose-reunion-wp/reunion-sainte-rose.png"
   ],
-  "updatedAt": "2026-06-27T22:13:49.142Z"
+  "updatedAt": "2026-06-27T22:13:49.142Z",
+  "narration": {
+    "files": [
+      "mhpx-sainte-rose-r-union-flight-context.mp3",
+      "mhpx-sainte-rose-r-union-intro.mp3",
+      "mhpx-sainte-rose-r-union-the-church-and-the-flow.mp3",
+      "mhpx-sainte-rose-r-union-the-wettest-edge-of-france.mp3",
+      "mhpx-sainte-rose-r-union-where-france-ends.mp3",
+      "mhpx-sainte-rose-r-union-lava-wind-and-power.mp3"
+    ],
+    "durations": {
+      "mhpx-sainte-rose-r-union-flight-context.mp3": 58.5789166,
+      "mhpx-sainte-rose-r-union-intro.mp3": 44.7545833,
+      "mhpx-sainte-rose-r-union-the-church-and-the-flow.mp3": 50.6804583,
+      "mhpx-sainte-rose-r-union-the-wettest-edge-of-france.mp3": 43.8247083,
+      "mhpx-sainte-rose-r-union-where-france-ends.mp3": 33.642875,
+      "mhpx-sainte-rose-r-union-lava-wind-and-power.mp3": 33.64975
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

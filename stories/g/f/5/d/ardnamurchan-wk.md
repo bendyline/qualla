@@ -37,6 +37,21 @@ Ardnamurchan reaches its westernmost point at roughly 56.73°N, 5.98°W. From al
 ## Sources
 
 - [Ardnamurchan - Wikivoyage](https://en.wikivoyage.org/?curid=34428)
+- [Ardnamurchan ring complex - Geological Society of London](https://www.geolsoc.org.uk/science-and-policy/100-great-geosites/landscape/ardnamurchan-ring-complex/)
+  - Ardnamurchan ring dyke complex formed ~60 million years ago, regarded as finest nested ring dyke example on Earth
+  - Strontium (as strontianite) discovered near Strontian in 1790
+  - Corrachadh Mòr is the westernmost point of mainland Britain, just south of Ardnamurchan Point/lighthouse
+  - Castle Tioram burned by Clanranald chief in the 1715 Jacobite uprising
+  - Bourblaige's seven families evicted in 1828 during the Highland Clearances
+  - The Swan warship sank in the Sound of Mull in a storm in 1653
+
+## Review Notes
+
+**Reviewed:** 2026-07-14 · 6 facts verified · 0 corrections
+
+Verified ring dyke complex age/status, Strontian strontium discovery (1790), Corrachadh Mòr as Britain's westernmost mainland point, Castle Tioram 1715 burning, Bourblaige 1828 clearance, and Swan wreck (1653). All facts accurate. Spiciness 2.
+
+**Spiciness:** 2/5
 
 ---
 

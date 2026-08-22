@@ -513,5 +513,22 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gf5d-ardnamurchan-lighthouse-flight-context.mp3",
+      "gf5d-ardnamurchan-lighthouse-intro.mp3",
+      "gf5d-ardnamurchan-lighthouse-pink-granite-from-the-sea.mp3",
+      "gf5d-ardnamurchan-lighthouse-the-kingdom-of-light.mp3",
+      "gf5d-ardnamurchan-lighthouse-sherlock-holmes-and-top-gear.mp3"
+    ],
+    "durations": {
+      "gf5d-ardnamurchan-lighthouse-flight-context.mp3": 44.1760833,
+      "gf5d-ardnamurchan-lighthouse-intro.mp3": 43.773,
+      "gf5d-ardnamurchan-lighthouse-pink-granite-from-the-sea.mp3": 55.41,
+      "gf5d-ardnamurchan-lighthouse-the-kingdom-of-light.mp3": 57.20375,
+      "gf5d-ardnamurchan-lighthouse-sherlock-holmes-and-top-gear.mp3": 61.971625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

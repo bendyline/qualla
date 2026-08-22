@@ -518,5 +518,24 @@
     "_m/g/c/y/k/coldstream-wp/35-high-street-coldstream.jpg",
     "_m/g/c/y/k/coldstream-wp/31-high-street-coldstream.jpg"
   ],
-  "updatedAt": "2026-06-23T16:32:47.272Z"
+  "updatedAt": "2026-06-23T16:32:47.272Z",
+  "narration": {
+    "files": [
+      "gcyk-coldstream-flight-context.mp3",
+      "gcyk-coldstream-intro.mp3",
+      "gcyk-coldstream-a-town-on-a-wading-place.mp3",
+      "gcyk-coldstream-the-regiment-that-marched-south.mp3",
+      "gcyk-coldstream-runaway-marriages-and-the-marriage-house.mp3",
+      "gcyk-coldstream-the-priory-and-the-battle-of-flodden.mp3"
+    ],
+    "durations": {
+      "gcyk-coldstream-flight-context.mp3": 51.742375,
+      "gcyk-coldstream-intro.mp3": 50.0480833,
+      "gcyk-coldstream-a-town-on-a-wading-place.mp3": 56.3987916,
+      "gcyk-coldstream-the-regiment-that-marched-south.mp3": 59.3687916,
+      "gcyk-coldstream-runaway-marriages-and-the-marriage-house.mp3": 57.226125,
+      "gcyk-coldstream-the-priory-and-the-battle-of-flodden.mp3": 68.108625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

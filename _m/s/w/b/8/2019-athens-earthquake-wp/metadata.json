@@ -92,5 +92,22 @@
   ],
   "galleryPaths": [
     "_m/s/w/6/p/thera-eruption-wk/location-map-greece.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swb8-2019-athens-earthquake-flight-context.mp3",
+      "swb8-2019-athens-earthquake-intro.mp3",
+      "swb8-2019-athens-earthquake-a-friday-afternoon-in-july.mp3",
+      "swb8-2019-athens-earthquake-the-seismic-context.mp3",
+      "swb8-2019-athens-earthquake-athens-and-its-fault-lines.mp3"
+    ],
+    "durations": {
+      "swb8-2019-athens-earthquake-flight-context.mp3": 58.0641666,
+      "swb8-2019-athens-earthquake-intro.mp3": 38.0685,
+      "swb8-2019-athens-earthquake-a-friday-afternoon-in-july.mp3": 83.0510416,
+      "swb8-2019-athens-earthquake-the-seismic-context.mp3": 72.127875,
+      "swb8-2019-athens-earthquake-athens-and-its-fault-lines.mp3": 72.605
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

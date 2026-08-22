@@ -712,5 +712,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "mjfb-montagne-dambre-national-park-flight-context.mp3",
+      "mjfb-montagne-dambre-national-park-intro.mp3",
+      "mjfb-montagne-dambre-national-park-an-island-of-rain.mp3",
+      "mjfb-montagne-dambre-national-park-waterfalls-and-crater-lakes.mp3",
+      "mjfb-montagne-dambre-national-park-the-smallest-and-the-many.mp3",
+      "mjfb-montagne-dambre-national-park-a-door-into-the-wild-north.mp3"
+    ],
+    "durations": {
+      "mjfb-montagne-dambre-national-park-flight-context.mp3": 70.3875833,
+      "mjfb-montagne-dambre-national-park-intro.mp3": 38.8968333,
+      "mjfb-montagne-dambre-national-park-an-island-of-rain.mp3": 49.45775,
+      "mjfb-montagne-dambre-national-park-waterfalls-and-crater-lakes.mp3": 46.1699583,
+      "mjfb-montagne-dambre-national-park-the-smallest-and-the-many.mp3": 51.058625,
+      "mjfb-montagne-dambre-national-park-a-door-into-the-wild-north.mp3": 43.7215
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

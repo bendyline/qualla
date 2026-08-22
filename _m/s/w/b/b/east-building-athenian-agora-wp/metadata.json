@@ -83,5 +83,24 @@
   ],
   "galleryPaths": [
     "_m/s/w/b/b/ancient-agora-of-athens-wp/temple-hephaistos-3-20.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swbb-east-building-athenian-agora-flight-context.mp3",
+      "swbb-east-building-athenian-agora-intro.mp3",
+      "swbb-east-building-athenian-agora-a-door-between-two-worlds.mp3",
+      "swbb-east-building-athenian-agora-the-lottery-of-justice.mp3",
+      "swbb-east-building-athenian-agora-sacked-repurposed-erased.mp3",
+      "swbb-east-building-athenian-agora-found-again-renamed.mp3"
+    ],
+    "durations": {
+      "swbb-east-building-athenian-agora-flight-context.mp3": 49.694625,
+      "swbb-east-building-athenian-agora-intro.mp3": 34.3752083,
+      "swbb-east-building-athenian-agora-a-door-between-two-worlds.mp3": 46.57875,
+      "swbb-east-building-athenian-agora-the-lottery-of-justice.mp3": 54.540375,
+      "swbb-east-building-athenian-agora-sacked-repurposed-erased.mp3": 53.8447083,
+      "swbb-east-building-athenian-agora-found-again-renamed.mp3": 55.3831666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

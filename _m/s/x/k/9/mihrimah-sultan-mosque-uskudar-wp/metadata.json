@@ -985,5 +985,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-mihrimah-sultan-mosque-sk-dar-flight-context.mp3",
+      "sxk9-mihrimah-sultan-mosque-sk-dar-intro.mp3",
+      "sxk9-mihrimah-sultan-mosque-sk-dar-a-princess-commissions-two-mosques.mp3",
+      "sxk9-mihrimah-sultan-mosque-sk-dar-raised-above-the-shore.mp3",
+      "sxk9-mihrimah-sultan-mosque-sk-dar-stone-marble-and-sundials.mp3",
+      "sxk9-mihrimah-sultan-mosque-sk-dar-a-landmark-that-holds-its-ground.mp3"
+    ],
+    "durations": {
+      "sxk9-mihrimah-sultan-mosque-sk-dar-flight-context.mp3": 53.2895416,
+      "sxk9-mihrimah-sultan-mosque-sk-dar-intro.mp3": 46.6615833,
+      "sxk9-mihrimah-sultan-mosque-sk-dar-a-princess-commissions-two-mosques.mp3": 44.564875,
+      "sxk9-mihrimah-sultan-mosque-sk-dar-raised-above-the-shore.mp3": 57.53525,
+      "sxk9-mihrimah-sultan-mosque-sk-dar-stone-marble-and-sundials.mp3": 45.1806666,
+      "sxk9-mihrimah-sultan-mosque-sk-dar-a-landmark-that-holds-its-ground.mp3": 53.2594166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

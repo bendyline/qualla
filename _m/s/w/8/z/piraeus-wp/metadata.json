@@ -151,5 +151,26 @@
     "_m/s/w/8/z/piraeus-wp/peiraias-marina-zea-4.jpg",
     "_m/s/w/8/z/piraeus-wp/peiraias-teatr.jpg"
   ],
-  "updatedAt": "2026-05-11T14:29:54.128Z"
+  "updatedAt": "2026-05-11T14:29:54.128Z",
+  "narration": {
+    "files": [
+      "sw8z-piraeus-flight-context.mp3",
+      "sw8z-piraeus-intro.mp3",
+      "sw8z-piraeus-from-salt-field-to-sea-power.mp3",
+      "sw8z-piraeus-fifteen-centuries-of-silence.mp3",
+      "sw8z-piraeus-the-arrivals-of-1922.mp3",
+      "sw8z-piraeus-the-port-today.mp3",
+      "sw8z-piraeus-city-harbour-neighbourhood.mp3"
+    ],
+    "durations": {
+      "sw8z-piraeus-flight-context.mp3": 56.208625,
+      "sw8z-piraeus-intro.mp3": 72.9245833,
+      "sw8z-piraeus-from-salt-field-to-sea-power.mp3": 82.1181666,
+      "sw8z-piraeus-fifteen-centuries-of-silence.mp3": 99.0085,
+      "sw8z-piraeus-the-arrivals-of-1922.mp3": 111.7454166,
+      "sw8z-piraeus-the-port-today.mp3": 76.2187916,
+      "sw8z-piraeus-city-harbour-neighbourhood.mp3": 90.8484166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

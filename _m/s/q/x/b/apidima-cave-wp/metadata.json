@@ -96,5 +96,24 @@
   ],
   "galleryPaths": [
     "_m/s/w/6/p/thera-eruption-wk/location-map-greece.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sqxb-apidima-cave-flight-context.mp3",
+      "sqxb-apidima-cave-intro.mp3",
+      "sqxb-apidima-cave-what-the-cliff-holds.mp3",
+      "sqxb-apidima-cave-two-skulls-two-stories.mp3",
+      "sqxb-apidima-cave-what-it-would-mean-and-what-we-dont-know.mp3",
+      "sqxb-apidima-cave-the-cliff-today.mp3"
+    ],
+    "durations": {
+      "sqxb-apidima-cave-flight-context.mp3": 58.7210416,
+      "sqxb-apidima-cave-intro.mp3": 42.681625,
+      "sqxb-apidima-cave-what-the-cliff-holds.mp3": 90.673625,
+      "sqxb-apidima-cave-two-skulls-two-stories.mp3": 105.6965,
+      "sqxb-apidima-cave-what-it-would-mean-and-what-we-dont-know.mp3": 125.2236666,
+      "sqxb-apidima-cave-the-cliff-today.mp3": 43.1973333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

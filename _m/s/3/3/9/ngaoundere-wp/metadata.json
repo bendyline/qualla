@@ -575,5 +575,24 @@
     "_m/s/3/3/9/ngaoundere-wp/landscape-around-ngaoundere-1.jpg",
     "_m/s/3/3/9/ngaoundere-wp/landscape-around-ngaoundere-3.jpg"
   ],
-  "updatedAt": "2026-06-28T18:01:40.920Z"
+  "updatedAt": "2026-06-28T18:01:40.920Z",
+  "narration": {
+    "files": [
+      "s339-ngaound-r-flight-context.mp3",
+      "s339-ngaound-r-intro.mp3",
+      "s339-ngaound-r-end-of-the-line.mp3",
+      "s339-ngaound-r-the-lamidos-court.mp3",
+      "s339-ngaound-r-two-peoples-two-markets.mp3",
+      "s339-ngaound-r-a-refuge-on-the-plateau.mp3"
+    ],
+    "durations": {
+      "s339-ngaound-r-flight-context.mp3": 56.1059583,
+      "s339-ngaound-r-intro.mp3": 35.231375,
+      "s339-ngaound-r-end-of-the-line.mp3": 49.799125,
+      "s339-ngaound-r-the-lamidos-court.mp3": 63.680125,
+      "s339-ngaound-r-two-peoples-two-markets.mp3": 63.3905,
+      "s339-ngaound-r-a-refuge-on-the-plateau.mp3": 46.6037916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -118,5 +118,24 @@
   "galleryPaths": [
     "_m/tpc/cr/us/ad/es/crusades/byzantine-constantinople-en.png",
     "_m/s/x/k/9/kontoskalion-wp/particular-marmara-reg.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-kontoskalion-flight-context.mp3",
+      "sxk9-kontoskalion-intro.mp3",
+      "sxk9-kontoskalion-the-problem-with-the-south-shore.mp3",
+      "sxk9-kontoskalion-three-hundred-galleys.mp3",
+      "sxk9-kontoskalion-the-ottoman-harbor-and-its-decline.mp3",
+      "sxk9-kontoskalion-presence-in-absence.mp3"
+    ],
+    "durations": {
+      "sxk9-kontoskalion-flight-context.mp3": 54.4045416,
+      "sxk9-kontoskalion-intro.mp3": 40.007625,
+      "sxk9-kontoskalion-the-problem-with-the-south-shore.mp3": 68.9659166,
+      "sxk9-kontoskalion-three-hundred-galleys.mp3": 72.4394583,
+      "sxk9-kontoskalion-the-ottoman-harbor-and-its-decline.mp3": 78.150625,
+      "sxk9-kontoskalion-presence-in-absence.mp3": 71.834625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

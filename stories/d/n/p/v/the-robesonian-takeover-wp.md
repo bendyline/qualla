@@ -24,7 +24,7 @@ Governor James G. Martin refused to speak directly with the hostage-takers — f
 
 ## What the Investigation Found
 
-Governor Martin assembled a three-person task force. Hatcher and Jacobs met with it once. Then, after the task force refused to grant them immunity, they stopped cooperating. The investigation concluded there was no evidence of wrongdoing in the sheriff's office. Eighteen days after the takeover, the North Carolina Commission of Indian Affairs released a report — initiated after the 1986 Cummings shooting — concluding that Native Americans in Robeson were arrested and incarcerated at significantly higher rates than whites and that the community lacked trust in county law enforcement. Five hundred Robeson residents came to its presentation in Pembroke. In March 1988, Lumbee judicial candidate Julian Pierce was murdered under circumstances the official version of which his community has never accepted. In federal court, Hatcher and Jacobs were acquitted of every charge — the first two people ever charged under the 1984 Act to Combat International Terrorism. The local jury that heard them found their argument credible. The state of North Carolina indicted them anyway on second-degree kidnapping. Hatcher fled, was caught, served prison time, contracted HIV, was paroled in 1995, and died in prison in 2009. Jacobs pled guilty and served six years.
+Governor Martin assembled a three-person task force. Hatcher and Jacobs met with it once. Then, after the task force refused to grant them immunity, they stopped cooperating. The investigation concluded there was no evidence of wrongdoing in the sheriff's office. Eighteen days after the takeover, the North Carolina Commission of Indian Affairs released a report — initiated after the 1986 Cummings shooting — concluding that Native Americans in Robeson were arrested and incarcerated at significantly higher rates than whites and that the community lacked trust in county law enforcement. Five hundred Robeson residents came to its presentation in Pembroke. In March 1988, Lumbee judicial candidate Julian Pierce was murdered under circumstances the official version of which his community has never accepted. In federal court, Hatcher and Jacobs were acquitted of every charge — the first two people ever charged under the 1984 Act to Combat International Terrorism. The local jury that heard them found their argument credible. The state of North Carolina indicted them anyway on second-degree kidnapping. Hatcher fled, was caught, served prison time, contracted HIV, was paroled in 1995, and died in prison in 2009. Jacobs pled guilty; sentenced to six years, he served fourteen months.
 
 ## The Vindication That Came Later
 
@@ -49,6 +49,8 @@ The Robesonian building site is in downtown Lumberton, North Carolina, near the 
 - [He occupied an NC newspaper 35 years ago to protest corruption — BorderBelt Independent](https://borderbelt.org/robeson-county-newspaper-takeover-35-years-later/)
   - Timothy Jacobs confirmed Tuscarora, not Lumbee
   - Jacobs and Hatcher both members of Tuscarora tribe
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/The_Robesonian_takeover)
+  - Corrected Timothy Jacobs's time served: sentenced to six years, served about 14 months.
 
 ## Review Notes
 

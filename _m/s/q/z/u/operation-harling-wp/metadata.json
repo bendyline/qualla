@@ -108,5 +108,24 @@
   "galleryPaths": [
     "_m/s/w/b/6/boeotia-wp/gorgopotamos-bridge-1.jpg",
     "_m/s/q/z/u/operation-harling-wp/armies-greece-second-w.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sqzu-operation-harling-flight-context.mp3",
+      "sqzu-operation-harling-intro.mp3",
+      "sqzu-operation-harling-why-this-bridge-in-this-gorge.mp3",
+      "sqzu-operation-harling-the-drop-and-the-long-weeks-in-hiding.mp3",
+      "sqzu-operation-harling-the-night-of-25-november.mp3",
+      "sqzu-operation-harling-what-the-mission-left-behind.mp3"
+    ],
+    "durations": {
+      "sqzu-operation-harling-flight-context.mp3": 62.651375,
+      "sqzu-operation-harling-intro.mp3": 52.8289166,
+      "sqzu-operation-harling-why-this-bridge-in-this-gorge.mp3": 64.5025,
+      "sqzu-operation-harling-the-drop-and-the-long-weeks-in-hiding.mp3": 90.751125,
+      "sqzu-operation-harling-the-night-of-25-november.mp3": 79.2320416,
+      "sqzu-operation-harling-what-the-mission-left-behind.mp3": 71.1963333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

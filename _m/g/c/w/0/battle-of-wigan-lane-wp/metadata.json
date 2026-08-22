@@ -89,5 +89,24 @@
   ],
   "galleryPaths": [
     "_m/g/c/w/0/battle-of-wigan-lane-wp/relief-map-greater-man.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcw0-battle-of-wigan-lane-flight-context.mp3",
+      "gcw0-battle-of-wigan-lane-intro.mp3",
+      "gcw0-battle-of-wigan-lane-the-kings-last-gamble.mp3",
+      "gcw0-battle-of-wigan-lane-hedgerows-and-confusion.mp3",
+      "gcw0-battle-of-wigan-lane-three-charges.mp3",
+      "gcw0-battle-of-wigan-lane-the-cost.mp3"
+    ],
+    "durations": {
+      "gcw0-battle-of-wigan-lane-flight-context.mp3": 36.837125,
+      "gcw0-battle-of-wigan-lane-intro.mp3": 49.9887083,
+      "gcw0-battle-of-wigan-lane-the-kings-last-gamble.mp3": 67.0129583,
+      "gcw0-battle-of-wigan-lane-hedgerows-and-confusion.mp3": 64.7398333,
+      "gcw0-battle-of-wigan-lane-three-charges.mp3": 80.2594166,
+      "gcw0-battle-of-wigan-lane-the-cost.mp3": 76.9349166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

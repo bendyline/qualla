@@ -553,5 +553,24 @@
     "_m/g/f/m/w/dwarfie-stane-wp/dwarfie-stane-exterior.jpg",
     "_m/g/f/m/w/dwarfie-stane-wp/dwarfie-stane-facing-entrance.jpg"
   ],
-  "updatedAt": "2026-06-24T04:58:19.202Z"
+  "updatedAt": "2026-06-24T04:58:19.202Z",
+  "narration": {
+    "files": [
+      "gfmw-dwarfie-stane-flight-context.mp3",
+      "gfmw-dwarfie-stane-intro.mp3",
+      "gfmw-dwarfie-stane-a-boulder-on-the-moor.mp3",
+      "gfmw-dwarfie-stane-the-question-of-why.mp3",
+      "gfmw-dwarfie-stane-the-hole-in-the-roof.mp3",
+      "gfmw-dwarfie-stane-major-mounseys-inscription.mp3"
+    ],
+    "durations": {
+      "gfmw-dwarfie-stane-flight-context.mp3": 75.9605833,
+      "gfmw-dwarfie-stane-intro.mp3": 52.607125,
+      "gfmw-dwarfie-stane-a-boulder-on-the-moor.mp3": 55.9899166,
+      "gfmw-dwarfie-stane-the-question-of-why.mp3": 53.576625,
+      "gfmw-dwarfie-stane-the-hole-in-the-roof.mp3": 45.4405416,
+      "gfmw-dwarfie-stane-major-mounseys-inscription.mp3": 48.7371666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

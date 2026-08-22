@@ -549,5 +549,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "webv-hac-sa-beach-flight-context.mp3",
+      "webv-hac-sa-beach-intro.mp3",
+      "webv-hac-sa-beach-the-color-of-minerals.mp3",
+      "webv-hac-sa-beach-coloanes-last-open-shore.mp3",
+      "webv-hac-sa-beach-a-beach-rebuilt.mp3",
+      "webv-hac-sa-beach-between-park-and-sea.mp3"
+    ],
+    "durations": {
+      "webv-hac-sa-beach-flight-context.mp3": 50.7002083,
+      "webv-hac-sa-beach-intro.mp3": 45.795625,
+      "webv-hac-sa-beach-the-color-of-minerals.mp3": 58.9051666,
+      "webv-hac-sa-beach-coloanes-last-open-shore.mp3": 52.816375,
+      "webv-hac-sa-beach-a-beach-rebuilt.mp3": 55.5596666,
+      "webv-hac-sa-beach-between-park-and-sea.mp3": 57.4320416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -161,5 +161,24 @@
     "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png",
     "_m/r/h/7/f/cloncurry-airport-wp/qantas-biplane-cloncur.jpg",
     "_m/r/h/7/f/cloncurry-airport-wp/map-cloncurry-aerodrom.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "rh7f-cloncurry-airport-flight-context.mp3",
+      "rh7f-cloncurry-airport-intro.mp3",
+      "rh7f-cloncurry-airport-where-qantas-found-its-feet.mp3",
+      "rh7f-cloncurry-airport-the-mantle-of-safety.mp3",
+      "rh7f-cloncurry-airport-a-crossroads-of-the-air.mp3",
+      "rh7f-cloncurry-airport-frontline-of-42.mp3"
+    ],
+    "durations": {
+      "rh7f-cloncurry-airport-flight-context.mp3": 68.5061666,
+      "rh7f-cloncurry-airport-intro.mp3": 41.4477083,
+      "rh7f-cloncurry-airport-where-qantas-found-its-feet.mp3": 63.6994166,
+      "rh7f-cloncurry-airport-the-mantle-of-safety.mp3": 55.76575,
+      "rh7f-cloncurry-airport-a-crossroads-of-the-air.mp3": 72.2041666,
+      "rh7f-cloncurry-airport-frontline-of-42.mp3": 55.639
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

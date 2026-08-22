@@ -122,5 +122,24 @@
   "galleryPaths": [
     "_m/r/5/7/h/birdsville-courthouse-wp/police-station-court-h.jpg",
     "_m/r/5/7/h/birdsville-courthouse-wp/police-constable-willi.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r57h-birdsville-courthouse-flight-context.mp3",
+      "r57h-birdsville-courthouse-intro.mp3",
+      "r57h-birdsville-courthouse-a-border-post-at-the-end-of-the-map.mp3",
+      "r57h-birdsville-courthouse-justice-by-camel.mp3",
+      "r57h-birdsville-courthouse-the-trackers.mp3",
+      "r57h-birdsville-courthouse-still-holding-court.mp3"
+    ],
+    "durations": {
+      "r57h-birdsville-courthouse-flight-context.mp3": 57.8432916,
+      "r57h-birdsville-courthouse-intro.mp3": 35.896625,
+      "r57h-birdsville-courthouse-a-border-post-at-the-end-of-the-map.mp3": 58.4012083,
+      "r57h-birdsville-courthouse-justice-by-camel.mp3": 46.076375,
+      "r57h-birdsville-courthouse-the-trackers.mp3": 56.9549166,
+      "r57h-birdsville-courthouse-still-holding-court.mp3": 52.6102916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -50,5 +50,24 @@
     "sourceGeohash4": "wecp"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "wecp-battle-of-sincouwaan-flight-context.mp3",
+      "wecp-battle-of-sincouwaan-intro.mp3",
+      "wecp-battle-of-sincouwaan-the-wreckage-that-came-before.mp3",
+      "wecp-battle-of-sincouwaan-fourteen-days-at-anchor.mp3",
+      "wecp-battle-of-sincouwaan-the-run-for-open-water.mp3",
+      "wecp-battle-of-sincouwaan-what-the-battle-changed.mp3"
+    ],
+    "durations": {
+      "wecp-battle-of-sincouwaan-flight-context.mp3": 55.4786666,
+      "wecp-battle-of-sincouwaan-intro.mp3": 50.9834166,
+      "wecp-battle-of-sincouwaan-the-wreckage-that-came-before.mp3": 78.0524166,
+      "wecp-battle-of-sincouwaan-fourteen-days-at-anchor.mp3": 76.2365833,
+      "wecp-battle-of-sincouwaan-the-run-for-open-water.mp3": 88.7436666,
+      "wecp-battle-of-sincouwaan-what-the-battle-changed.mp3": 77.3440833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

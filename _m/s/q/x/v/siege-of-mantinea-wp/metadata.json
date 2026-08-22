@@ -90,5 +90,24 @@
   ],
   "galleryPaths": [
     "_m/s/q/x/v/siege-of-mantinea-wp/epaminondas-saves-life.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sqxv-siege-of-mantinea-flight-context.mp3",
+      "sqxv-siege-of-mantinea-intro.mp3",
+      "sqxv-siege-of-mantinea-the-pretext-and-the-plan.mp3",
+      "sqxv-siege-of-mantinea-water-as-a-weapon.mp3",
+      "sqxv-siege-of-mantinea-the-young-men-who-would-change-everything.mp3",
+      "sqxv-siege-of-mantinea-the-city-that-refused-to-stay-dead.mp3"
+    ],
+    "durations": {
+      "sqxv-siege-of-mantinea-flight-context.mp3": 47.2915416,
+      "sqxv-siege-of-mantinea-intro.mp3": 35.3940833,
+      "sqxv-siege-of-mantinea-the-pretext-and-the-plan.mp3": 64.72825,
+      "sqxv-siege-of-mantinea-water-as-a-weapon.mp3": 72.83975,
+      "sqxv-siege-of-mantinea-the-young-men-who-would-change-everything.mp3": 69.0683333,
+      "sqxv-siege-of-mantinea-the-city-that-refused-to-stay-dead.mp3": 78.8069583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

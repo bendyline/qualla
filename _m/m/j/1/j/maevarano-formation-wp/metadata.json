@@ -174,5 +174,24 @@
     "_m/m/j/1/j/maevarano-formation-wp/skull-cast-mahajangasu.jpg",
     "_m/m/j/1/j/maevarano-formation-wp/majungasaurus-size-cha.png",
     "_m/m/j/1/j/maevarano-formation-wp/restoration-falcatakel.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "mj1j-maevarano-formation-flight-context.mp3",
+      "mj1j-maevarano-formation-intro.mp3",
+      "mj1j-maevarano-formation-a-cannibal-in-the-floodplain.mp3",
+      "mj1j-maevarano-formation-the-frog-from-hell.mp3",
+      "mj1j-maevarano-formation-an-island-already-apart.mp3",
+      "mj1j-maevarano-formation-reading-the-bones.mp3"
+    ],
+    "durations": {
+      "mj1j-maevarano-formation-flight-context.mp3": 56.639375,
+      "mj1j-maevarano-formation-intro.mp3": 52.25025,
+      "mj1j-maevarano-formation-a-cannibal-in-the-floodplain.mp3": 59.552625,
+      "mj1j-maevarano-formation-the-frog-from-hell.mp3": 55.8602083,
+      "mj1j-maevarano-formation-an-island-already-apart.mp3": 55.3538333,
+      "mj1j-maevarano-formation-reading-the-bones.mp3": 49.8417916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

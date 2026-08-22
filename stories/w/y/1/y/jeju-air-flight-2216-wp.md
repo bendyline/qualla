@@ -35,7 +35,7 @@ Located at 34.98°N, 126.38°E at Muan International Airport (RKJB) in South Jeo
 - [Jeju Air Flight 2216 - Wikipedia](https://en.wikipedia.org/?curid=78748114)
   - December 29, 2024 crash at Muan International Airport
   - 175 passengers and 6 crew aboard; 179 died, 2 survived
-  - Two surviving crew members were Lee Ji-won and Koo Jeong-won (both female flight attendants)
+  - Two surviving crew members were female flight attendants
   - Boeing 737-800 belly-landed after bird strike disabled landing gear
   - Aircraft struck concrete localizer berm approximately 250 meters beyond runway end
   - Deadliest aviation disaster in South Korean history

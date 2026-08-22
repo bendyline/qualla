@@ -60,5 +60,24 @@
     "sourceGeohash4": "rjrs"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "rjrs-cod-hole-flight-context.mp3",
+      "rjrs-cod-hole-intro.mp3",
+      "rjrs-cod-hole-ribbon-reef-number-ten.mp3",
+      "rjrs-cod-hole-the-giants.mp3",
+      "rjrs-cod-hole-famous-and-fragile.mp3",
+      "rjrs-cod-hole-a-reef-under-pressure.mp3"
+    ],
+    "durations": {
+      "rjrs-cod-hole-flight-context.mp3": 66.4068333,
+      "rjrs-cod-hole-intro.mp3": 34.566875,
+      "rjrs-cod-hole-ribbon-reef-number-ten.mp3": 56.4729166,
+      "rjrs-cod-hole-the-giants.mp3": 61.6178333,
+      "rjrs-cod-hole-famous-and-fragile.mp3": 46.311375,
+      "rjrs-cod-hole-a-reef-under-pressure.mp3": 48.5894583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

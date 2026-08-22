@@ -37,5 +37,24 @@
   "galleryPaths": [
     "_m/s/q/y/x/parga-wp/parga-with-island.jpg"
   ],
-  "updatedAt": "2026-06-24T10:34:38.829Z"
+  "updatedAt": "2026-06-24T10:34:38.829Z",
+  "narration": {
+    "files": [
+      "sqyx-parga-flight-context.mp3",
+      "sqyx-parga-intro.mp3",
+      "sqyx-parga-four-centuries-of-venetian-protection.mp3",
+      "sqyx-parga-the-selling-of-a-town.mp3",
+      "sqyx-parga-the-town-beneath-the-castle.mp3",
+      "sqyx-parga-a-return-and-what-followed.mp3"
+    ],
+    "durations": {
+      "sqyx-parga-flight-context.mp3": 51.323,
+      "sqyx-parga-intro.mp3": 47.8145,
+      "sqyx-parga-four-centuries-of-venetian-protection.mp3": 83.3197916,
+      "sqyx-parga-the-selling-of-a-town.mp3": 91.3545833,
+      "sqyx-parga-the-town-beneath-the-castle.mp3": 70.1604166,
+      "sqyx-parga-a-return-and-what-followed.mp3": 88.153625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

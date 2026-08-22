@@ -83,5 +83,24 @@
   ],
   "galleryPaths": [
     "_m/g/c/v/w/edinburgh-wp/scotland-relief-location-map.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gfn4-battle-of-dun-nechtain-flight-context.mp3",
+      "gfn4-battle-of-dun-nechtain-intro.mp3",
+      "gfn4-battle-of-dun-nechtain-the-edge-of-empire.mp3",
+      "gfn4-battle-of-dun-nechtain-against-all-advice.mp3",
+      "gfn4-battle-of-dun-nechtain-a-lake-called-crane.mp3",
+      "gfn4-battle-of-dun-nechtain-the-border-holds.mp3"
+    ],
+    "durations": {
+      "gfn4-battle-of-dun-nechtain-flight-context.mp3": 58.5202916,
+      "gfn4-battle-of-dun-nechtain-intro.mp3": 46.80775,
+      "gfn4-battle-of-dun-nechtain-the-edge-of-empire.mp3": 60.29125,
+      "gfn4-battle-of-dun-nechtain-against-all-advice.mp3": 49.7756666,
+      "gfn4-battle-of-dun-nechtain-a-lake-called-crane.mp3": 61.19175,
+      "gfn4-battle-of-dun-nechtain-the-border-holds.mp3": 51.6433333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

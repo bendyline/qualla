@@ -16,7 +16,7 @@ The Last Exit arrived at a moment when Seattle's coffee scene barely existed. Th
 
 ## A Chess Haven on Brooklyn Avenue
 
-The chess players made the Last Exit legendary. Peter Biyiasas, a Canadian grandmaster, called it "a chess haven where an unlikely bunch of unusual people congregates to do battle." Yasser Seirawan, who would become one of America's top grandmasters, practically grew up there. Interviewed by Sports Illustrated in 1981, Seirawan described the scene: "Scrabble players, backgammon players, chess and game hustling... This became my home. This was to become my family." Go players claimed their own tables. The games ran from opening to closing and sometimes beyond. Cisski could have filled those tables with paying customers, but he chose not to. The chess and Go players drew other curious visitors, who ordered coffee and stayed to watch, and the whole ecosystem sustained itself through a combination of modest spending and genuine community. Few coffeehouses have produced a grandmaster. The Last Exit helped produce several.
+The chess players made the Last Exit legendary. Yasser Seirawan, who would become one of America's top grandmasters, practically grew up there and later called it "a chess haven where an unlikely bunch of unusual people congregates to do battle." Interviewed by Sports Illustrated in 1981, he described the scene: "Scrabble players, backgammon players, chess and game hustling... This became my home. This was to become my family." Go players claimed their own tables. The games ran from opening to closing and sometimes beyond. Cisski could have filled those tables with paying customers, but he chose not to. The chess and Go players drew other curious visitors, who ordered coffee and stayed to watch, and the whole ecosystem sustained itself through a combination of modest spending and genuine community. Few coffeehouses have produced a grandmaster. The Last Exit helped produce several.
 
 ## Bohemia Near the University
 
@@ -42,6 +42,8 @@ Located at 47.655N, 122.314W in Seattle's University District, near the Universi
   - Verified: Cisski died August 25, 1992 confirmed
   - Verified: University of Washington ended lease 1993 confirmed
   - Verified: Cafe relocated to upper University Way before eventual closure confirmed
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Last_Exit_on_Brooklyn)
+  - Re-attributed a quotation from Peter Biyiasas to its actual author, Yasser Seirawan (Play Winning Chess, 2003).
 
 ## Review Notes
 

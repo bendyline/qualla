@@ -52,5 +52,26 @@
     "sourceGeohash4": "w6t3"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "w6t3-firebase-bird-flight-context.mp3",
+      "w6t3-firebase-bird-intro.mp3",
+      "w6t3-firebase-bird-a-firebase-in-the-valley.mp3",
+      "w6t3-firebase-bird-the-morning-of-december-27.mp3",
+      "w6t3-firebase-bird-beehive-at-point-blank.mp3",
+      "w6t3-firebase-bird-valor-recognized.mp3",
+      "w6t3-firebase-bird-returned-to-jungle.mp3"
+    ],
+    "durations": {
+      "w6t3-firebase-bird-flight-context.mp3": 71.4685416,
+      "w6t3-firebase-bird-intro.mp3": 45.2547083,
+      "w6t3-firebase-bird-a-firebase-in-the-valley.mp3": 62.41,
+      "w6t3-firebase-bird-the-morning-of-december-27.mp3": 51.2421666,
+      "w6t3-firebase-bird-beehive-at-point-blank.mp3": 68.0319583,
+      "w6t3-firebase-bird-valor-recognized.mp3": 60.9673333,
+      "w6t3-firebase-bird-returned-to-jungle.mp3": 51.48575
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

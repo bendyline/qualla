@@ -414,5 +414,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-a-iyan-asri-cemetery-flight-context.mp3",
+      "sxk9-a-iyan-asri-cemetery-intro.mp3",
+      "sxk9-a-iyan-asri-cemetery-a-hill-above-the-strait.mp3",
+      "sxk9-a-iyan-asri-cemetery-poets-in-the-ground.mp3",
+      "sxk9-a-iyan-asri-cemetery-beyond-literature.mp3",
+      "sxk9-a-iyan-asri-cemetery-into-the-twenty-first-century.mp3",
+      "sxk9-a-iyan-asri-cemetery-a-quiet-continuity.mp3"
+    ],
+    "durations": {
+      "sxk9-a-iyan-asri-cemetery-flight-context.mp3": 69.7992916,
+      "sxk9-a-iyan-asri-cemetery-intro.mp3": 34.3735833,
+      "sxk9-a-iyan-asri-cemetery-a-hill-above-the-strait.mp3": 54.473375,
+      "sxk9-a-iyan-asri-cemetery-poets-in-the-ground.mp3": 71.45375,
+      "sxk9-a-iyan-asri-cemetery-beyond-literature.mp3": 77.4744166,
+      "sxk9-a-iyan-asri-cemetery-into-the-twenty-first-century.mp3": 72.0445416,
+      "sxk9-a-iyan-asri-cemetery-a-quiet-continuity.mp3": 66.14375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

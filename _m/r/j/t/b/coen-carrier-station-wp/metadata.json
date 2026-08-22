@@ -54,5 +54,24 @@
     "sourceGeohash4": "rjtb"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "rjtb-coen-carrier-station-flight-context.mp3",
+      "rjtb-coen-carrier-station-intro.mp3",
+      "rjtb-coen-carrier-station-the-wire-up-the-cape.mp3",
+      "rjtb-coen-carrier-station-a-war-comes-north.mp3",
+      "rjtb-coen-carrier-station-built-by-an-army.mp3",
+      "rjtb-coen-carrier-station-what-the-iron-remembers.mp3"
+    ],
+    "durations": {
+      "rjtb-coen-carrier-station-flight-context.mp3": 63.4007916,
+      "rjtb-coen-carrier-station-intro.mp3": 44.5141666,
+      "rjtb-coen-carrier-station-the-wire-up-the-cape.mp3": 49.9544583,
+      "rjtb-coen-carrier-station-a-war-comes-north.mp3": 46.979,
+      "rjtb-coen-carrier-station-built-by-an-army.mp3": 65.8775833,
+      "rjtb-coen-carrier-station-what-the-iron-remembers.mp3": 68.15725
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

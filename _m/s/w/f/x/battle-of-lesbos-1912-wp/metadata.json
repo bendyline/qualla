@@ -65,5 +65,24 @@
     "sourceGeohash4": "swfx"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "swfx-battle-of-lesbos-1912-flight-context.mp3",
+      "swfx-battle-of-lesbos-1912-intro.mp3",
+      "swfx-battle-of-lesbos-1912-the-fleet-arrives.mp3",
+      "swfx-battle-of-lesbos-1912-village-by-village.mp3",
+      "swfx-battle-of-lesbos-1912-surrender-at-filia.mp3",
+      "swfx-battle-of-lesbos-1912-the-long-diplomatic-tail.mp3"
+    ],
+    "durations": {
+      "swfx-battle-of-lesbos-1912-flight-context.mp3": 50.0467916,
+      "swfx-battle-of-lesbos-1912-intro.mp3": 42.2756666,
+      "swfx-battle-of-lesbos-1912-the-fleet-arrives.mp3": 56.1816666,
+      "swfx-battle-of-lesbos-1912-village-by-village.mp3": 64.0705416,
+      "swfx-battle-of-lesbos-1912-surrender-at-filia.mp3": 59.4479166,
+      "swfx-battle-of-lesbos-1912-the-long-diplomatic-tail.mp3": 59.2193333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

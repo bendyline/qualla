@@ -37,6 +37,19 @@ The Inner Hebrides scatter across roughly 56.5°N, 6.0°W along Scotland's west 
 ## Sources
 
 - [Inner Hebrides - Wikivoyage](https://en.wikivoyage.org/?curid=15639)
+- [Iona Abbey - Wikipedia](https://en.wikipedia.org/wiki/Iona_Abbey)
+  - Columba landed on Iona in 563 with twelve companions and founded a monastery
+  - Book of Kells produced by Iona monks in the years leading up to 800
+  - 806 Viking raid killed dozens (68) of monks; survivors' beach named Martyrs' Bay
+  - Mendelssohn visited Fingal's Cave on Staffa in 1829, inspiring the Hebrides Overture
+
+## Review Notes
+
+**Reviewed:** 2026-07-14 · 4 facts verified · 0 corrections
+
+Verified Columba/Iona founding (563), Book of Kells (~800), 806 Viking raid/Martyrs' Bay, and Mendelssohn's 1829 Fingal's Cave visit/Hebrides Overture. All facts accurate. Spiciness 2.
+
+**Spiciness:** 2/5
 
 ---
 

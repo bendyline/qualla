@@ -195,5 +195,24 @@
     "_m/s/w/b/r/dimini-wp/dimini-culture-vase-fr-1.jpg",
     "_m/s/w/b/r/dimini-wp/dimini-culture-vase-fr-2.jpg",
     "_m/s/w/b/r/dimini-wp/national-museum-archae.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swbr-dimini-flight-context.mp3",
+      "swbr-dimini-intro.mp3",
+      "swbr-dimini-the-rings-of-the-world.mp3",
+      "swbr-dimini-painted-in-spirals.mp3",
+      "swbr-dimini-was-this-iolcos.mp3",
+      "swbr-dimini-neighbors-not-conquerors.mp3"
+    ],
+    "durations": {
+      "swbr-dimini-flight-context.mp3": 47.9799166,
+      "swbr-dimini-intro.mp3": 47.2579166,
+      "swbr-dimini-the-rings-of-the-world.mp3": 53.6875416,
+      "swbr-dimini-painted-in-spirals.mp3": 50.6225416,
+      "swbr-dimini-was-this-iolcos.mp3": 51.5140416,
+      "swbr-dimini-neighbors-not-conquerors.mp3": 56.31225
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

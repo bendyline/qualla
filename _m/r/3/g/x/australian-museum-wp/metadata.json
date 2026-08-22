@@ -750,5 +750,24 @@
     "_m/r/3/g/x/australian-museum-wp/australian-museum-20.jpg",
     "_m/r/3/g/x/australian-museum-wp/australian-museum-23.jpg"
   ],
-  "updatedAt": "2026-06-28T03:28:41.272Z"
+  "updatedAt": "2026-06-28T03:28:41.272Z",
+  "narration": {
+    "files": [
+      "r3gx-australian-museum-flight-context.mp3",
+      "r3gx-australian-museum-intro.mp3",
+      "r3gx-australian-museum-from-curiosity-cabinet-to-encyclopedia.mp3",
+      "r3gx-australian-museum-dinosaurs-a-mummy-and-a-cape-for-cook.mp3",
+      "r3gx-australian-museum-telling-first-nations-stories.mp3",
+      "r3gx-australian-museum-science-beyond-the-galleries.mp3"
+    ],
+    "durations": {
+      "r3gx-australian-museum-flight-context.mp3": 59.8420833,
+      "r3gx-australian-museum-intro.mp3": 57.864375,
+      "r3gx-australian-museum-from-curiosity-cabinet-to-encyclopedia.mp3": 66.7904166,
+      "r3gx-australian-museum-dinosaurs-a-mummy-and-a-cape-for-cook.mp3": 60.3364583,
+      "r3gx-australian-museum-telling-first-nations-stories.mp3": 61.6410833,
+      "r3gx-australian-museum-science-beyond-the-galleries.mp3": 64.4127083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

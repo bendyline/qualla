@@ -597,5 +597,24 @@
     "_m/r/6/u/y/mount-warning-wp/nsw-banner-16.jpg",
     "_m/r/6/u/y/mount-warning-wp/277-mt-warning-nov-79-52160484.jpg"
   ],
-  "updatedAt": "2026-06-28T08:55:13.214Z"
+  "updatedAt": "2026-06-28T08:55:13.214Z",
+  "narration": {
+    "files": [
+      "r6uy-mount-warning-flight-context.mp3",
+      "r6uy-mount-warning-intro.mp3",
+      "r6uy-mount-warning-the-heart-of-a-volcano.mp3",
+      "r6uy-mount-warning-a-place-of-lore.mp3",
+      "r6uy-mount-warning-first-light-and-a-sailors-warning.mp3",
+      "r6uy-mount-warning-world-heritage-wilderness.mp3"
+    ],
+    "durations": {
+      "r6uy-mount-warning-flight-context.mp3": 75.0120416,
+      "r6uy-mount-warning-intro.mp3": 45.2950833,
+      "r6uy-mount-warning-the-heart-of-a-volcano.mp3": 57.717625,
+      "r6uy-mount-warning-a-place-of-lore.mp3": 52.3386666,
+      "r6uy-mount-warning-first-light-and-a-sailors-warning.mp3": 50.3173333,
+      "r6uy-mount-warning-world-heritage-wilderness.mp3": 49.818
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

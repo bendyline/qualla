@@ -58,5 +58,24 @@
     "sourceGeohash4": "wecn"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "wecn-cheung-sha-flight-context.mp3",
+      "wecn-cheung-sha-intro.mp3",
+      "wecn-cheung-sha-sand-and-a-rocky-divide.mp3",
+      "wecn-cheung-sha-two-villages-one-road-centuries-of-settlement.mp3",
+      "wecn-cheung-sha-the-proposal-that-never-rested.mp3",
+      "wecn-cheung-sha-the-pace-of-the-south-coast.mp3"
+    ],
+    "durations": {
+      "wecn-cheung-sha-flight-context.mp3": 51.409375,
+      "wecn-cheung-sha-intro.mp3": 25.9530833,
+      "wecn-cheung-sha-sand-and-a-rocky-divide.mp3": 57.5091666,
+      "wecn-cheung-sha-two-villages-one-road-centuries-of-settlement.mp3": 56.6310416,
+      "wecn-cheung-sha-the-proposal-that-never-rested.mp3": 60.2508333,
+      "wecn-cheung-sha-the-pace-of-the-south-coast.mp3": 47.202
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

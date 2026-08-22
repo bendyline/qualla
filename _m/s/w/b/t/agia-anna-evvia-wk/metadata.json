@@ -118,5 +118,24 @@
   "galleryPaths": [
     "_m/s/w/b/t/agia-anna-evvia-wk/agkali-village-euboea.jpg",
     "_m/s/w/b/t/agia-anna-evvia-wk/drymonas-waterfalls-ev.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swbt-agia-anna-evvia-flight-context.mp3",
+      "swbt-agia-anna-evvia-intro.mp3",
+      "swbt-agia-anna-evvia-the-beach-and-its-villages.mp3",
+      "swbt-agia-anna-evvia-deep-time-under-the-sand.mp3",
+      "swbt-agia-anna-evvia-towers-in-the-bushes.mp3",
+      "swbt-agia-anna-evvia-getting-your-bearings.mp3"
+    ],
+    "durations": {
+      "swbt-agia-anna-evvia-flight-context.mp3": 54.8224166,
+      "swbt-agia-anna-evvia-intro.mp3": 38.185375,
+      "swbt-agia-anna-evvia-the-beach-and-its-villages.mp3": 52.2655416,
+      "swbt-agia-anna-evvia-deep-time-under-the-sand.mp3": 47.5532916,
+      "swbt-agia-anna-evvia-towers-in-the-bushes.mp3": 44.8402916,
+      "swbt-agia-anna-evvia-getting-your-bearings.mp3": 45.0787083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

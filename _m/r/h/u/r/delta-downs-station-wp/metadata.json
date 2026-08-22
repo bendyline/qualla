@@ -60,5 +60,24 @@
     "sourceGeohash4": "rhur"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "rhur-delta-downs-station-flight-context.mp3",
+      "rhur-delta-downs-station-intro.mp3",
+      "rhur-delta-downs-station-country-held-by-others.mp3",
+      "rhur-delta-downs-station-morr-morr.mp3",
+      "rhur-delta-downs-station-making-it-work.mp3",
+      "rhur-delta-downs-station-drought-debt-and-endurance.mp3"
+    ],
+    "durations": {
+      "rhur-delta-downs-station-flight-context.mp3": 52.6875833,
+      "rhur-delta-downs-station-intro.mp3": 41.2144166,
+      "rhur-delta-downs-station-country-held-by-others.mp3": 47.8782916,
+      "rhur-delta-downs-station-morr-morr.mp3": 39.7917916,
+      "rhur-delta-downs-station-making-it-work.mp3": 45.1515,
+      "rhur-delta-downs-station-drought-debt-and-endurance.mp3": 51.8187916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

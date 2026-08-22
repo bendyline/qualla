@@ -360,7 +360,8 @@
       "dateCreated": "2025-09-28 14:07:30",
       "sourceType": "commons-category",
       "sourceArticleId": "picnic-point-toowoomba-wp",
-      "sourceGeohash4": "r7h5"
+      "sourceGeohash4": "r7h5",
+      "mediumPath": "_m/r/7/h/5/picnic-point-toowoomba-wp/view-of-the-lockyer-valley-202-medium.webp"
     }
   ],
   "galleryPaths": [
@@ -379,5 +380,24 @@
     "_m/r/7/h/5/picnic-point-toowoomba-wp/view-from-picnic-point-lookout.jpg",
     "_m/r/7/h/5/picnic-point-toowoomba-wp/view-of-the-lockyer-valley-202.jpg"
   ],
-  "updatedAt": "2026-06-28T10:35:12.873Z"
+  "updatedAt": "2026-06-28T10:35:12.873Z",
+  "narration": {
+    "files": [
+      "r7h5-picnic-point-toowoomba-flight-context.mp3",
+      "r7h5-picnic-point-toowoomba-intro.mp3",
+      "r7h5-picnic-point-toowoomba-the-man-who-chose-the-view.mp3",
+      "r7h5-picnic-point-toowoomba-cliff-edge-and-camera.mp3",
+      "r7h5-picnic-point-toowoomba-tobruk-drive-and-the-quiet-bush.mp3",
+      "r7h5-picnic-point-toowoomba-a-place-people-defend.mp3"
+    ],
+    "durations": {
+      "r7h5-picnic-point-toowoomba-flight-context.mp3": 65.4673333,
+      "r7h5-picnic-point-toowoomba-intro.mp3": 39.316125,
+      "r7h5-picnic-point-toowoomba-the-man-who-chose-the-view.mp3": 57.1429166,
+      "r7h5-picnic-point-toowoomba-cliff-edge-and-camera.mp3": 65.4197916,
+      "r7h5-picnic-point-toowoomba-tobruk-drive-and-the-quiet-bush.mp3": 53.1837083,
+      "r7h5-picnic-point-toowoomba-a-place-people-defend.mp3": 54.579625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

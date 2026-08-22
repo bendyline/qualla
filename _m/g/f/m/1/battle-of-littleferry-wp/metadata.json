@@ -90,5 +90,26 @@
   ],
   "galleryPaths": [
     "_m/g/f/m/1/battle-of-littleferry-wp/memorial-battle-little.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gfm1-battle-of-littleferry-flight-context.mp3",
+      "gfm1-battle-of-littleferry-intro.mp3",
+      "gfm1-battle-of-littleferry-the-wrong-direction.mp3",
+      "gfm1-battle-of-littleferry-three-sutherland-companies.mp3",
+      "gfm1-battle-of-littleferry-on-the-sands.mp3",
+      "gfm1-battle-of-littleferry-the-tribunal.mp3",
+      "gfm1-battle-of-littleferry-remembered-eventually.mp3"
+    ],
+    "durations": {
+      "gfm1-battle-of-littleferry-flight-context.mp3": 55.2955,
+      "gfm1-battle-of-littleferry-intro.mp3": 48.188625,
+      "gfm1-battle-of-littleferry-the-wrong-direction.mp3": 50.6807916,
+      "gfm1-battle-of-littleferry-three-sutherland-companies.mp3": 60.549875,
+      "gfm1-battle-of-littleferry-on-the-sands.mp3": 49.6977083,
+      "gfm1-battle-of-littleferry-the-tribunal.mp3": 57.4314583,
+      "gfm1-battle-of-littleferry-remembered-eventually.mp3": 47.7412083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

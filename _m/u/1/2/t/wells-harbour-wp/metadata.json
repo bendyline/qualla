@@ -172,5 +172,22 @@
     "_m/u/1/2/t/wells-harbour-wp/port-wells-service-veh.jpg",
     "_m/u/1/2/t/wells-harbour-wp/port-wells-patrol-vehi.jpg",
     "_m/u/1/2/t/wells-harbour-wp/port-wells-office-buil.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u12t-wells-harbour-flight-context.mp3",
+      "u12t-wells-harbour-intro.mp3",
+      "u12t-wells-harbour-six-hundred-years-at-the-quay.mp3",
+      "u12t-wells-harbour-the-commissioners-and-the-port-of-wells.mp3",
+      "u12t-wells-harbour-reading-the-channel.mp3"
+    ],
+    "durations": {
+      "u12t-wells-harbour-flight-context.mp3": 40.2221666,
+      "u12t-wells-harbour-intro.mp3": 32.11125,
+      "u12t-wells-harbour-six-hundred-years-at-the-quay.mp3": 74.38675,
+      "u12t-wells-harbour-the-commissioners-and-the-port-of-wells.mp3": 77.18425,
+      "u12t-wells-harbour-reading-the-channel.mp3": 51.2904583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

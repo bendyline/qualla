@@ -139,5 +139,24 @@
     "_m/w/e/c/p/walled-villages-of-hong-kong-wp/gallery-9.jpg",
     "_m/w/e/c/p/walled-villages-of-hong-kong-wp/gallery-10.jpg",
     "_m/w/e/c/r/historic-churches-of-sai-kung-peninsula-wp/tai-po-pak-sha-o-immac.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecr-pak-sha-o-flight-context.mp3",
+      "wecr-pak-sha-o-intro.mp3",
+      "wecr-pak-sha-o-white-sands-old-valleys.mp3",
+      "wecr-pak-sha-o-the-chapel-that-changed-everything.mp3",
+      "wecr-pak-sha-o-the-mansions-on-the-lane.mp3",
+      "wecr-pak-sha-o-what-the-reservoir-took.mp3"
+    ],
+    "durations": {
+      "wecr-pak-sha-o-flight-context.mp3": 62.5121666,
+      "wecr-pak-sha-o-intro.mp3": 49.5410833,
+      "wecr-pak-sha-o-white-sands-old-valleys.mp3": 60.341,
+      "wecr-pak-sha-o-the-chapel-that-changed-everything.mp3": 70.0099583,
+      "wecr-pak-sha-o-the-mansions-on-the-lane.mp3": 65.485125,
+      "wecr-pak-sha-o-what-the-reservoir-took.mp3": 77.2262083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

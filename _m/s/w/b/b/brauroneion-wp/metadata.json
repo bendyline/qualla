@@ -53,5 +53,24 @@
     "sourceGeohash4": "swbb"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "swbb-brauroneion-flight-context.mp3",
+      "swbb-brauroneion-intro.mp3",
+      "swbb-brauroneion-the-goddess-in-saffron.mp3",
+      "swbb-brauroneion-playing-the-bear.mp3",
+      "swbb-brauroneion-a-sanctuary-without-a-temple.mp3",
+      "swbb-brauroneion-what-pausanias-saw.mp3"
+    ],
+    "durations": {
+      "swbb-brauroneion-flight-context.mp3": 42.361375,
+      "swbb-brauroneion-intro.mp3": 38.1813333,
+      "swbb-brauroneion-the-goddess-in-saffron.mp3": 54.8231666,
+      "swbb-brauroneion-playing-the-bear.mp3": 57.820625,
+      "swbb-brauroneion-a-sanctuary-without-a-temple.mp3": 51.9096666,
+      "swbb-brauroneion-what-pausanias-saw.mp3": 59.3620833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

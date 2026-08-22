@@ -658,5 +658,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecp-tai-po-flight-context.mp3",
+      "wecp-tai-po-intro.mp3",
+      "wecp-tai-po-pearls-clams-and-the-deep-past.mp3",
+      "wecp-tai-po-two-markets-one-town.mp3",
+      "wecp-tai-po-colonial-institutions-on-a-new-landscape.mp3",
+      "wecp-tai-po-new-town-new-sea.mp3",
+      "wecp-tai-po-tai-po-today.mp3"
+    ],
+    "durations": {
+      "wecp-tai-po-flight-context.mp3": 60.5635416,
+      "wecp-tai-po-intro.mp3": 45.1936666,
+      "wecp-tai-po-pearls-clams-and-the-deep-past.mp3": 57.842875,
+      "wecp-tai-po-two-markets-one-town.mp3": 69.268,
+      "wecp-tai-po-colonial-institutions-on-a-new-landscape.mp3": 66.107875,
+      "wecp-tai-po-new-town-new-sea.mp3": 61.2592083,
+      "wecp-tai-po-tai-po-today.mp3": 52.1145
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

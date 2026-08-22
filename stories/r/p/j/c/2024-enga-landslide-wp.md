@@ -24,7 +24,7 @@ On 26 May, Papua New Guinea made a formal request for international assistance. 
 
 ## Convoys Through a Dangerous Country
 
-Getting help to the site meant more than negotiating landslides. Humanitarian convoys leaving the provincial capital of Wabag had to pass through Tambitanis, where intertribal clashes had killed eight people and burned 35 homes and businesses earlier that year. The Defence Force escorted the trucks. Enga had been on edge for months: in February 2024, sixty-nine people had died in a massacre at Akom, which Prime Minister Marape described as an act of domestic terrorism and the country's worst single loss of life since the Bougainville conflict. The landslide fell on communities already displaced and already mourning. CARE estimated that 4,000 people needed humanitarian aid - a count that included families driven from their villages by the earlier violence.
+Getting help to the site meant more than negotiating landslides. Humanitarian convoys leaving the provincial capital of Wabag had to pass through Tambitanis, where intertribal clashes had killed eight people and burned 35 homes and businesses earlier that year. The Defence Force escorted the trucks. Enga had been on edge for months: in February 2024, dozens of people were killed in a tribal-conflict massacre in the province's Wapenamanda District, an attack that Prime Minister Marape and police likened to domestic terrorism. The landslide fell on communities already displaced and already mourning. CARE estimated that 4,000 people needed humanitarian aid - a count that included families driven from their villages by the earlier violence.
 
 ## When the Digging Stops
 
@@ -46,7 +46,9 @@ Kaokalam and the landslide debris field sit near 5.374 degrees south, 143.389 de
   - New Zealand committed NZ$1.5 million (verified)
   - Recovery operations halted 5 June due to unstable ground (verified)
   - PM Marape pledged 20 million kina on 31 May (verified)
-  - February 2024 Akom massacre killed 69 people (verified)
+  - February 2024 massacre in Wapenamanda District, Enga (verified; reported tolls ranged from 26 to 64)
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/February_2024_Enga_Province_massacre)
+  - Corrected the February 2024 massacre reference: location Wapenamanda District (not Akom); toll softened to "dozens" (reports ranged 26 to 64, not 69); attributed the "domestic terrorism" framing to Marape and police; dropped the unverified "worst since Bougainville" claim.
 
 ## Review Notes
 

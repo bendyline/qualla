@@ -55,5 +55,24 @@
     "sourceGeohash4": "gcw2"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcw2-murder-of-stephen-oake-flight-context.mp3",
+      "gcw2-murder-of-stephen-oake-intro.mp3",
+      "gcw2-murder-of-stephen-oake-the-crumpsall-flat.mp3",
+      "gcw2-murder-of-stephen-oake-a-familys-loss.mp3",
+      "gcw2-murder-of-stephen-oake-forgiveness.mp3",
+      "gcw2-murder-of-stephen-oake-remembering-dc-oake.mp3"
+    ],
+    "durations": {
+      "gcw2-murder-of-stephen-oake-flight-context.mp3": 44.406125,
+      "gcw2-murder-of-stephen-oake-intro.mp3": 50.169375,
+      "gcw2-murder-of-stephen-oake-the-crumpsall-flat.mp3": 65.3138333,
+      "gcw2-murder-of-stephen-oake-a-familys-loss.mp3": 65.143375,
+      "gcw2-murder-of-stephen-oake-forgiveness.mp3": 61.2821666,
+      "gcw2-murder-of-stephen-oake-remembering-dc-oake.mp3": 48.1359166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

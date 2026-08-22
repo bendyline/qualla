@@ -59,5 +59,24 @@
     "sourceGeohash4": "swbm"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "swbm-oreus-flight-context.mp3",
+      "swbm-oreus-intro.mp3",
+      "swbm-oreus-rich-in-grapes.mp3",
+      "swbm-oreus-the-city-that-changed-its-name.mp3",
+      "swbm-oreus-a-prize-in-every-war.mp3",
+      "swbm-oreus-the-fortress-on-the-strait.mp3"
+    ],
+    "durations": {
+      "swbm-oreus-flight-context.mp3": 45.91675,
+      "swbm-oreus-intro.mp3": 44.9167916,
+      "swbm-oreus-rich-in-grapes.mp3": 54.320125,
+      "swbm-oreus-the-city-that-changed-its-name.mp3": 57.344,
+      "swbm-oreus-a-prize-in-every-war.mp3": 52.4099166,
+      "swbm-oreus-the-fortress-on-the-strait.mp3": 53.5077083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

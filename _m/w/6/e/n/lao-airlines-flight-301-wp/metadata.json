@@ -121,5 +121,24 @@
   "galleryPaths": [
     "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png",
     "_m/w/6/e/n/lao-airlines-flight-301-wp/route-flight-lao-airli.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w6en-lao-airlines-flight-301-flight-context.mp3",
+      "w6en-lao-airlines-flight-301-intro.mp3",
+      "w6en-lao-airlines-flight-301-forty-nine-lives-eleven-nations.mp3",
+      "w6en-lao-airlines-flight-301-what-the-flight-recorders-revealed.mp3",
+      "w6en-lao-airlines-flight-301-the-river-that-held-its-secrets.mp3",
+      "w6en-lao-airlines-flight-301-a-marker-in-lao-aviation-history.mp3"
+    ],
+    "durations": {
+      "w6en-lao-airlines-flight-301-flight-context.mp3": 53.6115416,
+      "w6en-lao-airlines-flight-301-intro.mp3": 53.8544583,
+      "w6en-lao-airlines-flight-301-forty-nine-lives-eleven-nations.mp3": 64.6350833,
+      "w6en-lao-airlines-flight-301-what-the-flight-recorders-revealed.mp3": 67.240875,
+      "w6en-lao-airlines-flight-301-the-river-that-held-its-secrets.mp3": 49.190375,
+      "w6en-lao-airlines-flight-301-a-marker-in-lao-aviation-history.mp3": 60.5149166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

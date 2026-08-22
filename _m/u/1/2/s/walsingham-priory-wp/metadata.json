@@ -546,5 +546,24 @@
     "_m/u/1/2/s/walsingham-priory-wp/ruins-of-walsingham-priory-geo.jpg",
     "_m/u/1/2/s/walsingham-priory-wp/snowdrops-on-the-banks-of-the-.jpg"
   ],
-  "updatedAt": "2026-06-25T23:42:31.864Z"
+  "updatedAt": "2026-06-25T23:42:31.864Z",
+  "narration": {
+    "files": [
+      "u12s-walsingham-priory-flight-context.mp3",
+      "u12s-walsingham-priory-intro.mp3",
+      "u12s-walsingham-priory-a-vision-and-its-consequences.mp3",
+      "u12s-walsingham-priory-the-pilgrim-kings.mp3",
+      "u12s-walsingham-priory-the-dissolution.mp3",
+      "u12s-walsingham-priory-what-remains.mp3"
+    ],
+    "durations": {
+      "u12s-walsingham-priory-flight-context.mp3": 29.7620416,
+      "u12s-walsingham-priory-intro.mp3": 39.87225,
+      "u12s-walsingham-priory-a-vision-and-its-consequences.mp3": 69.367875,
+      "u12s-walsingham-priory-the-pilgrim-kings.mp3": 70.3027083,
+      "u12s-walsingham-priory-the-dissolution.mp3": 79.6874583,
+      "u12s-walsingham-priory-what-remains.mp3": 48.398625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

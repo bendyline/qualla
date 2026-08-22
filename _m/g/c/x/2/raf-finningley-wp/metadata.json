@@ -573,5 +573,24 @@
     "_m/g/c/x/2/raf-finningley-wp/air-view-marshall-clark-sits-i.jpg",
     "_m/g/c/x/2/raf-finningley-wp/concorde-g-boac-at-raf-finning.jpg"
   ],
-  "updatedAt": "2026-06-23T11:06:31.864Z"
+  "updatedAt": "2026-06-23T11:06:31.864Z",
+  "narration": {
+    "files": [
+      "gcx2-raf-finningley-flight-context.mp3",
+      "gcx2-raf-finningley-intro.mp3",
+      "gcx2-raf-finningley-from-zeppelin-hunters-to-hampdens.mp3",
+      "gcx2-raf-finningley-operational-training-units.mp3",
+      "gcx2-raf-finningley-v-force.mp3",
+      "gcx2-raf-finningley-search-and-rescue-and-after.mp3"
+    ],
+    "durations": {
+      "gcx2-raf-finningley-flight-context.mp3": 67.4939166,
+      "gcx2-raf-finningley-intro.mp3": 51.17675,
+      "gcx2-raf-finningley-from-zeppelin-hunters-to-hampdens.mp3": 68.3065833,
+      "gcx2-raf-finningley-operational-training-units.mp3": 66.0058333,
+      "gcx2-raf-finningley-v-force.mp3": 67.1357083,
+      "gcx2-raf-finningley-search-and-rescue-and-after.mp3": 85.185625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

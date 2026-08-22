@@ -111,5 +111,22 @@
   "galleryPaths": [
     "_m/g/c/w/r/upper-teesdale-wp/hero.jpg",
     "_m/g/c/w/y/battle-of-piercebridge-wp/members-sealed-knot-de.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcwy-battle-of-piercebridge-flight-context.mp3",
+      "gcwy-battle-of-piercebridge-intro.mp3",
+      "gcwy-battle-of-piercebridge-a-county-divided.mp3",
+      "gcwy-battle-of-piercebridge-three-hours-at-the-bridge.mp3",
+      "gcwy-battle-of-piercebridge-what-the-crossing-bought.mp3"
+    ],
+    "durations": {
+      "gcwy-battle-of-piercebridge-flight-context.mp3": 56.542,
+      "gcwy-battle-of-piercebridge-intro.mp3": 48.0629583,
+      "gcwy-battle-of-piercebridge-a-county-divided.mp3": 75.52,
+      "gcwy-battle-of-piercebridge-three-hours-at-the-bridge.mp3": 109.1880833,
+      "gcwy-battle-of-piercebridge-what-the-crossing-bought.mp3": 93.186
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

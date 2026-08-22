@@ -196,5 +196,24 @@
     "_m/tpc/la/os/__/__/laos/champasak-palace.jpg",
     "_m/tpc/la/os/__/__/laos/khammouane-thakhek2-tango7174.jpg",
     "_m/tpc/la/os/__/__/laos/champasak-donkhone-liphi1-tang.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w6gk-southern-laos-flight-context.mp3",
+      "w6gk-southern-laos-intro.mp3",
+      "w6gk-southern-laos-the-shape-of-the-land.mp3",
+      "w6gk-southern-laos-three-peoples-many-languages.mp3",
+      "w6gk-southern-laos-ancient-stones-and-living-rivers.mp3",
+      "w6gk-southern-laos-corridors-and-crossings.mp3"
+    ],
+    "durations": {
+      "w6gk-southern-laos-flight-context.mp3": 60.093375,
+      "w6gk-southern-laos-intro.mp3": 59.62375,
+      "w6gk-southern-laos-the-shape-of-the-land.mp3": 68.0183333,
+      "w6gk-southern-laos-three-peoples-many-languages.mp3": 65.098625,
+      "w6gk-southern-laos-ancient-stones-and-living-rivers.mp3": 60.0721666,
+      "w6gk-southern-laos-corridors-and-crossings.mp3": 63.1159166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

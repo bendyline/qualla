@@ -579,5 +579,24 @@
     "_m/w/e/c/p/tolo-harbour-wp/providence-bay.jpg",
     "_m/w/e/c/p/ma-liu-shui-wp/hong-kong-science-park.jpg"
   ],
-  "updatedAt": "2026-06-29T11:19:13.835Z"
+  "updatedAt": "2026-06-29T11:19:13.835Z",
+  "narration": {
+    "files": [
+      "wecp-tolo-harbour-flight-context.mp3",
+      "wecp-tolo-harbour-intro.mp3",
+      "wecp-tolo-harbour-the-pearl-coast-that-was.mp3",
+      "wecp-tolo-harbour-shape-of-the-harbour.mp3",
+      "wecp-tolo-harbour-rail-road-and-the-rhythm-of-the-shore.mp3",
+      "wecp-tolo-harbour-water-that-changed-everything.mp3"
+    ],
+    "durations": {
+      "wecp-tolo-harbour-flight-context.mp3": 68.189375,
+      "wecp-tolo-harbour-intro.mp3": 54.3764166,
+      "wecp-tolo-harbour-the-pearl-coast-that-was.mp3": 57.9305,
+      "wecp-tolo-harbour-shape-of-the-harbour.mp3": 63.0027083,
+      "wecp-tolo-harbour-rail-road-and-the-rhythm-of-the-shore.mp3": 64.6886666,
+      "wecp-tolo-harbour-water-that-changed-everything.mp3": 62.7765833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

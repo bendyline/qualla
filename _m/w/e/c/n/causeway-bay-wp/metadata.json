@@ -628,5 +628,24 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecn-causeway-bay-flight-context.mp3",
+      "wecn-causeway-bay-intro.mp3",
+      "wecn-causeway-bay-the-bay-that-became-a-park.mp3",
+      "wecn-causeway-bay-little-ginza-and-the-rise-of-the-shopping-district.mp3",
+      "wecn-causeway-bay-more-than-malls.mp3",
+      "wecn-causeway-bay-navigating-an-area-that-outgrew-its-name.mp3"
+    ],
+    "durations": {
+      "wecn-causeway-bay-flight-context.mp3": 65.7570416,
+      "wecn-causeway-bay-intro.mp3": 56.0369583,
+      "wecn-causeway-bay-the-bay-that-became-a-park.mp3": 56.1016666,
+      "wecn-causeway-bay-little-ginza-and-the-rise-of-the-shopping-district.mp3": 66.9160833,
+      "wecn-causeway-bay-more-than-malls.mp3": 57.446875,
+      "wecn-causeway-bay-navigating-an-area-that-outgrew-its-name.mp3": 57.3094583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

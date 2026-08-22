@@ -53,5 +53,24 @@
     "sourceGeohash4": "swbb"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "swbb-sanctuary-of-pandion-flight-context.mp3",
+      "swbb-sanctuary-of-pandion-intro.mp3",
+      "swbb-sanctuary-of-pandion-the-hero-in-the-name.mp3",
+      "swbb-sanctuary-of-pandion-buried-witnesses.mp3",
+      "swbb-sanctuary-of-pandion-building-iv.mp3",
+      "swbb-sanctuary-of-pandion-an-argument-without-end.mp3"
+    ],
+    "durations": {
+      "swbb-sanctuary-of-pandion-flight-context.mp3": 59.877875,
+      "swbb-sanctuary-of-pandion-intro.mp3": 41.20875,
+      "swbb-sanctuary-of-pandion-the-hero-in-the-name.mp3": 45.7424166,
+      "swbb-sanctuary-of-pandion-buried-witnesses.mp3": 40.8632083,
+      "swbb-sanctuary-of-pandion-building-iv.mp3": 47.5337916,
+      "swbb-sanctuary-of-pandion-an-argument-without-end.mp3": 52.3199583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

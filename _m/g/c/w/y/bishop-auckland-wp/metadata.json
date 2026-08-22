@@ -135,5 +135,22 @@
     "_m/g/c/w/y/bishop-auckland-wp/vinovia-vinovium-binchester-ro.png",
     "_m/g/c/w/y/bishop-auckland-wp/st-john-s-church-escomb.jpg"
   ],
-  "updatedAt": "2026-06-23T10:25:32.074Z"
+  "updatedAt": "2026-06-23T10:25:32.074Z",
+  "narration": {
+    "files": [
+      "gcwy-bishop-auckland-flight-context.mp3",
+      "gcwy-bishop-auckland-intro.mp3",
+      "gcwy-bishop-auckland-the-prince-bishops-town.mp3",
+      "gcwy-bishop-auckland-coal-then-no-coal.mp3",
+      "gcwy-bishop-auckland-the-auckland-project.mp3"
+    ],
+    "durations": {
+      "gcwy-bishop-auckland-flight-context.mp3": 66.426375,
+      "gcwy-bishop-auckland-intro.mp3": 47.3020416,
+      "gcwy-bishop-auckland-the-prince-bishops-town.mp3": 98.7495,
+      "gcwy-bishop-auckland-coal-then-no-coal.mp3": 95.9456666,
+      "gcwy-bishop-auckland-the-auckland-project.mp3": 115.4993333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

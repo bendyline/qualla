@@ -58,5 +58,24 @@
     "sourceGeohash4": "r5gb"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "r5gb-coorabulka-flight-context.mp3",
+      "r5gb-coorabulka-intro.mp3",
+      "r5gb-coorabulka-the-light-that-will-not-be-caught.mp3",
+      "r5gb-coorabulka-between-two-rivers.mp3",
+      "r5gb-coorabulka-water-from-far-below.mp3",
+      "r5gb-coorabulka-up-to-the-roof.mp3"
+    ],
+    "durations": {
+      "r5gb-coorabulka-flight-context.mp3": 61.3609166,
+      "r5gb-coorabulka-intro.mp3": 45.9672083,
+      "r5gb-coorabulka-the-light-that-will-not-be-caught.mp3": 63.998875,
+      "r5gb-coorabulka-between-two-rivers.mp3": 58.39875,
+      "r5gb-coorabulka-water-from-far-below.mp3": 63.1292916,
+      "r5gb-coorabulka-up-to-the-roof.mp3": 57.5864166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

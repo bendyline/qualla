@@ -719,5 +719,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecn-hong-kong-garrison-flight-context.mp3",
+      "wecn-hong-kong-garrison-intro.mp3",
+      "wecn-hong-kong-garrison-the-symbolic-and-the-combat-ready.mp3",
+      "wecn-hong-kong-garrison-barracks-built-by-another-army.mp3",
+      "wecn-hong-kong-garrison-the-secret-on-the-mountain.mp3",
+      "wecn-hong-kong-garrison-right-hand-drive-and-the-zg-plates.mp3",
+      "wecn-hong-kong-garrison-command-commissars-and-continuity.mp3"
+    ],
+    "durations": {
+      "wecn-hong-kong-garrison-flight-context.mp3": 56.907,
+      "wecn-hong-kong-garrison-intro.mp3": 41.0397083,
+      "wecn-hong-kong-garrison-the-symbolic-and-the-combat-ready.mp3": 69.6287083,
+      "wecn-hong-kong-garrison-barracks-built-by-another-army.mp3": 67.5834166,
+      "wecn-hong-kong-garrison-the-secret-on-the-mountain.mp3": 58.2635416,
+      "wecn-hong-kong-garrison-right-hand-drive-and-the-zg-plates.mp3": 51.0953333,
+      "wecn-hong-kong-garrison-command-commissars-and-continuity.mp3": 66.8650416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

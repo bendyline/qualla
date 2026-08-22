@@ -532,5 +532,24 @@
     "_m/k/e/7/f/gold-reef-city-wp/joburg-panorama.jpg",
     "_m/k/e/7/f/gold-reef-city-wp/robertsham.jpg"
   ],
-  "updatedAt": "2026-06-27T18:22:53.209Z"
+  "updatedAt": "2026-06-27T18:22:53.209Z",
+  "narration": {
+    "files": [
+      "ke7f-gold-reef-city-flight-context.mp3",
+      "ke7f-gold-reef-city-intro.mp3",
+      "ke7f-gold-reef-city-the-reef-that-made-a-city.mp3",
+      "ke7f-gold-reef-city-rides-over-the-abyss.mp3",
+      "ke7f-gold-reef-city-what-lies-beneath.mp3",
+      "ke7f-gold-reef-city-the-museum-at-the-gate.mp3"
+    ],
+    "durations": {
+      "ke7f-gold-reef-city-flight-context.mp3": 62.5395833,
+      "ke7f-gold-reef-city-intro.mp3": 37.569,
+      "ke7f-gold-reef-city-the-reef-that-made-a-city.mp3": 79.4495416,
+      "ke7f-gold-reef-city-rides-over-the-abyss.mp3": 52.3700833,
+      "ke7f-gold-reef-city-what-lies-beneath.mp3": 48.5091666,
+      "ke7f-gold-reef-city-the-museum-at-the-gate.mp3": 66.018
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

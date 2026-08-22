@@ -151,5 +151,26 @@
     "_m/u/1/0/t/prittlewell-royal-anglo-saxon-burial-wp/relief-map-essex-uk-eq.jpg",
     "_m/u/1/0/x/siege-of-colchester-wp/old-siege-house-colche.jpg",
     "_m/u/1/0/x/siege-of-colchester-wp/st-mary-s-art-centre-f.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u10x-siege-of-colchester-flight-context.mp3",
+      "u10x-siege-of-colchester-intro.mp3",
+      "u10x-siege-of-colchester-how-an-army-ended-up-behind-a-wall.mp3",
+      "u10x-siege-of-colchester-the-ring-of-forts.mp3",
+      "u10x-siege-of-colchester-the-town-inside.mp3",
+      "u10x-siege-of-colchester-lucas-and-lisle.mp3",
+      "u10x-siege-of-colchester-humpty-dumpty-and-the-long-echo.mp3"
+    ],
+    "durations": {
+      "u10x-siege-of-colchester-flight-context.mp3": 52.3319583,
+      "u10x-siege-of-colchester-intro.mp3": 58.5835833,
+      "u10x-siege-of-colchester-how-an-army-ended-up-behind-a-wall.mp3": 83.424125,
+      "u10x-siege-of-colchester-the-ring-of-forts.mp3": 67.4879166,
+      "u10x-siege-of-colchester-the-town-inside.mp3": 66.5569583,
+      "u10x-siege-of-colchester-lucas-and-lisle.mp3": 84.4525833,
+      "u10x-siege-of-colchester-humpty-dumpty-and-the-long-echo.mp3": 71.6622916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

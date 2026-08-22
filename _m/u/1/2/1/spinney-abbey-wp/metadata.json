@@ -53,5 +53,26 @@
     "sourceGeohash4": "u121"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "u121-spinney-abbey-flight-context.mp3",
+      "u121-spinney-abbey-intro.mp3",
+      "u121-spinney-abbey-a-priory-on-the-fen-edge.mp3",
+      "u121-spinney-abbey-isaac-barrows-childhood.mp3",
+      "u121-spinney-abbey-the-lord-deputys-retirement.mp3",
+      "u121-spinney-abbey-the-house-above-the-cellar.mp3",
+      "u121-spinney-abbey-champion-cider-curious-names.mp3"
+    ],
+    "durations": {
+      "u121-spinney-abbey-flight-context.mp3": 49.2016666,
+      "u121-spinney-abbey-intro.mp3": 36.0230416,
+      "u121-spinney-abbey-a-priory-on-the-fen-edge.mp3": 68.6580833,
+      "u121-spinney-abbey-isaac-barrows-childhood.mp3": 57.5326666,
+      "u121-spinney-abbey-the-lord-deputys-retirement.mp3": 56.8092083,
+      "u121-spinney-abbey-the-house-above-the-cellar.mp3": 65.2728333,
+      "u121-spinney-abbey-champion-cider-curious-names.mp3": 56.7022083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

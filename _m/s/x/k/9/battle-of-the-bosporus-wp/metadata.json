@@ -56,5 +56,24 @@
     "sourceGeohash4": "sxk9"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sxk9-battle-of-the-bosporus-flight-context.mp3",
+      "sxk9-battle-of-the-bosporus-intro.mp3",
+      "sxk9-battle-of-the-bosporus-the-colony-that-swallowed-its-host.mp3",
+      "sxk9-battle-of-the-bosporus-the-fleets-converge.mp3",
+      "sxk9-battle-of-the-bosporus-carnage-in-the-dark.mp3",
+      "sxk9-battle-of-the-bosporus-the-price-of-victory.mp3"
+    ],
+    "durations": {
+      "sxk9-battle-of-the-bosporus-flight-context.mp3": 66.1497083,
+      "sxk9-battle-of-the-bosporus-intro.mp3": 45.171,
+      "sxk9-battle-of-the-bosporus-the-colony-that-swallowed-its-host.mp3": 71.4514166,
+      "sxk9-battle-of-the-bosporus-the-fleets-converge.mp3": 66.3082083,
+      "sxk9-battle-of-the-bosporus-carnage-in-the-dark.mp3": 73.5997916,
+      "sxk9-battle-of-the-bosporus-the-price-of-victory.mp3": 76.239625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

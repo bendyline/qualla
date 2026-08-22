@@ -709,5 +709,24 @@
     "_m/s/w/8/z/ivlia-ship-wp/ivlia-itaka-set.jpg",
     "_m/s/w/8/z/ivlia-ship-wp/146-genova.jpg"
   ],
-  "updatedAt": "2026-06-24T15:04:50.296Z"
+  "updatedAt": "2026-06-24T15:04:50.296Z",
+  "narration": {
+    "files": [
+      "sw8z-ivlia-ship-flight-context.mp3",
+      "sw8z-ivlia-ship-intro.mp3",
+      "sw8z-ivlia-ship-why-a-bireme.mp3",
+      "sw8z-ivlia-ship-into-the-black-sea-and-beyond.mp3",
+      "sw8z-ivlia-ship-what-the-sea-taught.mp3",
+      "sw8z-ivlia-ship-the-boars-head-ram-and-the-fire.mp3"
+    ],
+    "durations": {
+      "sw8z-ivlia-ship-flight-context.mp3": 75.0915833,
+      "sw8z-ivlia-ship-intro.mp3": 34.9772083,
+      "sw8z-ivlia-ship-why-a-bireme.mp3": 60.6767083,
+      "sw8z-ivlia-ship-into-the-black-sea-and-beyond.mp3": 61.5608333,
+      "sw8z-ivlia-ship-what-the-sea-taught.mp3": 69.8182083,
+      "sw8z-ivlia-ship-the-boars-head-ram-and-the-fire.mp3": 60.3474583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

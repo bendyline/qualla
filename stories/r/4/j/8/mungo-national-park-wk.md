@@ -33,6 +33,33 @@ Mungo National Park sits in the Willandra Lakes World Heritage Area of far weste
 ## Sources
 
 - [Mungo National Park - Wikivoyage](https://en.wikivoyage.org/?curid=188261)
+- [Mungo Lady | National Museum of Australia](https://www.nma.gov.au/defining-moments/resources/mungo-lady)
+  - Mungo Lady found by Jim Bowler in 1968
+  - Mungo Lady died 40,000-42,000 years ago
+  - oldest known ritual cremation
+  - Mungo Man found 1974, buried with red ochre
+- [Lake Mungo remains - Wikipedia](https://en.wikipedia.org/wiki/Lake_Mungo_remains)
+  - Mungo Man was approximately 50 years old at death
+  - Mungo Man held at ANU until returned to Country in November 2017
+  - Mungo Man and Mungo Lady reburied 24 May 2022, opposed by some traditional owners
+- [The long way: fire and smoke for Mungo Man and the ancestors on their road home - Canberra Times](https://www.canberratimes.com.au/story/5064898/the-long-way-fire-and-smoke-for-mungo-man-and-the-ancestors-on-their-road-home/)
+  - 2017 hearse convoy held Welcome to Country smoking ceremonies in Wagga Wagga, Hay, Balranald and Mildura
+- [Mungo National Park | NSW National Parks](https://www.nationalparks.nsw.gov.au/things-to-do/driving-routes/mungo-self-guided-drive-tour)
+  - 70km Mungo Track loop runs anticlockwise from the visitor centre
+  - Gol Gol lunette sediments built up over more than 120,000 years
+
+## Review Notes
+
+**Reviewed:** 2026-07-14 · 12 facts verified · 0 corrections
+
+Verified Mungo Lady (1968, Bowler, 40-42k yrs, oldest cremation) and Mungo Man (1974, ~50yo, ochre, ANU until 2017, reburied 2022 amid dissent) facts, 70km loop track, 120k-yr sediment, and 2017 convoy route towns. All facts confirmed accurate, no corrections needed. Added sources and editorial (spiciness 3).
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Endorses the guide-only rule for entering the dunes as correct ('and rightly so')
+- Frames the 2022 reburial as 'painful and contested' and insists dissenting traditional owners' grief 'deserve to be heard'
 
 ---
 

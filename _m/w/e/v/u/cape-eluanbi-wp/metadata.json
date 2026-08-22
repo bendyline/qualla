@@ -141,5 +141,24 @@
     "_m/w/e/v/u/cape-eluanbi-wp/eluanbi-lighthouse-ken.jpg",
     "_m/w/e/v/u/cape-eluanbi-wp/wegweiser-zum-sudlichs.jpg",
     "_m/w/e/v/u/cape-eluanbi-wp/hengchun-township-taiw.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wevu-cape-eluanbi-flight-context.mp3",
+      "wevu-cape-eluanbi-intro.mp3",
+      "wevu-cape-eluanbi-where-the-seas-divide.mp3",
+      "wevu-cape-eluanbi-a-fortified-lighthouse.mp3",
+      "wevu-cape-eluanbi-war-demolition-and-rebuilding.mp3",
+      "wevu-cape-eluanbi-land-crabs-and-living-seas.mp3"
+    ],
+    "durations": {
+      "wevu-cape-eluanbi-flight-context.mp3": 60.424625,
+      "wevu-cape-eluanbi-intro.mp3": 48.4243333,
+      "wevu-cape-eluanbi-where-the-seas-divide.mp3": 59.5320833,
+      "wevu-cape-eluanbi-a-fortified-lighthouse.mp3": 59.4918333,
+      "wevu-cape-eluanbi-war-demolition-and-rebuilding.mp3": 59.0489583,
+      "wevu-cape-eluanbi-land-crabs-and-living-seas.mp3": 60.65325
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

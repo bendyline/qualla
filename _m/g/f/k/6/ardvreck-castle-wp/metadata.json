@@ -695,5 +695,24 @@
     "_m/g/f/k/6/ardvreck-castle-wp/ardvreck-geograph-org-uk-18177.jpg",
     "_m/g/f/k/6/ardvreck-castle-wp/2011-sutherland-loch-assynt-me.jpg"
   ],
-  "updatedAt": "2026-06-24T02:57:04.762Z"
+  "updatedAt": "2026-06-24T02:57:04.762Z",
+  "narration": {
+    "files": [
+      "gfk6-ardvreck-castle-flight-context.mp3",
+      "gfk6-ardvreck-castle-intro.mp3",
+      "gfk6-ardvreck-castle-built-for-a-clan.mp3",
+      "gfk6-ardvreck-castle-the-capture-of-montrose.mp3",
+      "gfk6-ardvreck-castle-the-1672-end.mp3",
+      "gfk6-ardvreck-castle-what-remains.mp3"
+    ],
+    "durations": {
+      "gfk6-ardvreck-castle-flight-context.mp3": 45.3621666,
+      "gfk6-ardvreck-castle-intro.mp3": 51.15725,
+      "gfk6-ardvreck-castle-built-for-a-clan.mp3": 44.941375,
+      "gfk6-ardvreck-castle-the-capture-of-montrose.mp3": 48.045125,
+      "gfk6-ardvreck-castle-the-1672-end.mp3": 48.24425,
+      "gfk6-ardvreck-castle-what-remains.mp3": 57.4386666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

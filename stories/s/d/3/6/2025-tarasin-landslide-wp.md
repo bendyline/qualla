@@ -20,7 +20,7 @@ The Sudanese Ministry of Minerals blamed the heavy rains of late August, which s
 
 ## The Scale They Couldn't Reach
 
-The SLM appealed to the United Nations and to every international organization it could reach, pleading for help simply to recover the dead. Accusations flew: SLM officials blamed elements of the former al-Bashir regime, embedded in the rival SAF-aligned government in Port Sudan, of spreading disinformation to minimize the disaster. Later the SLM would revise its potential death toll down to "scores," for reasons it did not explain. An inter-agency assessment team, including UN personnel, finally reached the area on 8 September, eight days after the mountain fell. In a functional country, helicopters would have come within hours. Here, amid the world's largest displacement crisis, it took more than a week to walk in.
+The SLM appealed to the United Nations and to every international organization it could reach, pleading for help simply to recover the dead. Accusations flew: SLM officials blamed elements of the former al-Bashir regime, embedded in the rival SAF-aligned government in Port Sudan, of spreading disinformation to minimize the disaster. Later the United Nations would revise its potential death toll down to "scores," for reasons it did not explain. An inter-agency assessment team, including UN personnel, finally reached the area on 8 September, eight days after the mountain fell. In a functional country, helicopters would have come within hours. Here, amid the world's largest displacement crisis, it took more than a week to walk in.
 
 ## A Ceasefire No One Honored
 
@@ -45,6 +45,8 @@ Tarasin lies at approximately 13.04°N, 24.39°E in the Marrah Mountains of Cent
   - UN inter-agency team reached area 8 September, eight days after landslide
   - Ministry of Minerals attributed cause to heavy August rains saturating mountain slopes
   - Adre border crossing with Chad kept open per SAF-aligned government
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2025_Tarasin_landslide)
+  - Corrected attribution of the downward "scores" death-toll revision from the SLM to the United Nations — Wikipedia (citing The Washington Post, "Sudan landslide may have killed scores, U.N. says", 2 September 2025) attributes the lowered "scores" estimate to the UN, while the SLM maintained its preliminary ~1,000 figure.
 
 ## Review Notes
 

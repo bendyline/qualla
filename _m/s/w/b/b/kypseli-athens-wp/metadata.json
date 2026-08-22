@@ -681,5 +681,24 @@
     "_m/s/w/b/b/kypseli-athens-wp/agora.jpg",
     "_m/s/w/b/b/kypseli-athens-wp/plateia-kypseli.jpg"
   ],
-  "updatedAt": "2026-06-24T19:09:55.707Z"
+  "updatedAt": "2026-06-24T19:09:55.707Z",
+  "narration": {
+    "files": [
+      "swbb-kypseli-flight-context.mp3",
+      "swbb-kypseli-intro.mp3",
+      "swbb-kypseli-from-country-estates-to-apartment-blocks.mp3",
+      "swbb-kypseli-the-architecture-of-ambition.mp3",
+      "swbb-kypseli-decline-and-reinvention.mp3",
+      "swbb-kypseli-life-along-fokionos-negri.mp3"
+    ],
+    "durations": {
+      "swbb-kypseli-flight-context.mp3": 51.9840833,
+      "swbb-kypseli-intro.mp3": 35.4474583,
+      "swbb-kypseli-from-country-estates-to-apartment-blocks.mp3": 52.9620416,
+      "swbb-kypseli-the-architecture-of-ambition.mp3": 53.111125,
+      "swbb-kypseli-decline-and-reinvention.mp3": 46.648,
+      "swbb-kypseli-life-along-fokionos-negri.mp3": 52.3137916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

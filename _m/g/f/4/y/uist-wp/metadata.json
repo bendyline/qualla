@@ -162,5 +162,24 @@
     "_m/g/f/6/e/flannan-isles-wk/relief-map-outer-hebri.jpg",
     "_m/g/f/4/y/benbecula-wp/uist-topographic-map.png",
     "_m/g/f/4/y/uist-wp/crowded-beach-benbecul.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gf4y-uist-flight-context.mp3",
+      "gf4y-uist-intro.mp3",
+      "gf4y-uist-a-country-cut-by-the-sea.mp3",
+      "gf4y-uist-hounds-and-hidden-anchorages.mp3",
+      "gf4y-uist-floras-crossing.mp3",
+      "gf4y-uist-a-living-place.mp3"
+    ],
+    "durations": {
+      "gf4y-uist-flight-context.mp3": 44.2334583,
+      "gf4y-uist-intro.mp3": 41.327125,
+      "gf4y-uist-a-country-cut-by-the-sea.mp3": 47.0962916,
+      "gf4y-uist-hounds-and-hidden-anchorages.mp3": 47.3080833,
+      "gf4y-uist-floras-crossing.mp3": 45.14475,
+      "gf4y-uist-a-living-place.mp3": 49.2937916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -835,5 +835,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk8-b-y-kada-flight-context.mp3",
+      "sxk8-b-y-kada-intro.mp3",
+      "sxk8-b-y-kada-an-island-that-has-always-been-a-destination-for-t.mp3",
+      "sxk8-b-y-kada-trotsky-the-pope-and-the-art-of-waiting.mp3",
+      "sxk8-b-y-kada-the-bell-and-the-bell-tower-sacred-architecture-of.mp3",
+      "sxk8-b-y-kada-the-great-wooden-ruin.mp3",
+      "sxk8-b-y-kada-the-end-of-the-horses-the-beginning-of-something-e.mp3"
+    ],
+    "durations": {
+      "sxk8-b-y-kada-flight-context.mp3": 70.2641666,
+      "sxk8-b-y-kada-intro.mp3": 45.879875,
+      "sxk8-b-y-kada-an-island-that-has-always-been-a-destination-for-t.mp3": 70.8595416,
+      "sxk8-b-y-kada-trotsky-the-pope-and-the-art-of-waiting.mp3": 62.1035,
+      "sxk8-b-y-kada-the-bell-and-the-bell-tower-sacred-architecture-of.mp3": 68.89125,
+      "sxk8-b-y-kada-the-great-wooden-ruin.mp3": 58.1434583,
+      "sxk8-b-y-kada-the-end-of-the-horses-the-beginning-of-something-e.mp3": 62.7505833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

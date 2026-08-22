@@ -61,5 +61,24 @@
     "sourceGeohash4": "swbb"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "swbb-greek-military-police-flight-context.mp3",
+      "swbb-greek-military-police-intro.mp3",
+      "swbb-greek-military-police-a-force-chosen-for-its-hatred.mp3",
+      "swbb-greek-military-police-the-cells-at-eat-esa.mp3",
+      "swbb-greek-military-police-a-reckoning-incomplete.mp3",
+      "swbb-greek-military-police-what-the-park-remembers.mp3"
+    ],
+    "durations": {
+      "swbb-greek-military-police-flight-context.mp3": 39.518375,
+      "swbb-greek-military-police-intro.mp3": 39.104375,
+      "swbb-greek-military-police-a-force-chosen-for-its-hatred.mp3": 49.8139583,
+      "swbb-greek-military-police-the-cells-at-eat-esa.mp3": 64.3389166,
+      "swbb-greek-military-police-a-reckoning-incomplete.mp3": 50.5469166,
+      "swbb-greek-military-police-what-the-park-remembers.mp3": 47.7159583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

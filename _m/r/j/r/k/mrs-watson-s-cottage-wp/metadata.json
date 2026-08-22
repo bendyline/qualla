@@ -111,5 +111,26 @@
   "galleryPaths": [
     "_m/r/j/r/k/lizard-island-wp/her-death-1881.jpg",
     "_m/r/j/r/k/mrs-watson-s-cottage-wp/stone-ruin-lizard-isla.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "rjrk-mrs-watsons-cottage-flight-context.mp3",
+      "rjrk-mrs-watsons-cottage-intro.mp3",
+      "rjrk-mrs-watsons-cottage-boiling-the-sea.mp3",
+      "rjrk-mrs-watsons-cottage-mary.mp3",
+      "rjrk-mrs-watsons-cottage-september-1881.mp3",
+      "rjrk-mrs-watsons-cottage-the-tank.mp3",
+      "rjrk-mrs-watsons-cottage-what-the-ruin-holds.mp3"
+    ],
+    "durations": {
+      "rjrk-mrs-watsons-cottage-flight-context.mp3": 69.6495,
+      "rjrk-mrs-watsons-cottage-intro.mp3": 39.8885,
+      "rjrk-mrs-watsons-cottage-boiling-the-sea.mp3": 53.7005833,
+      "rjrk-mrs-watsons-cottage-mary.mp3": 53.3121666,
+      "rjrk-mrs-watsons-cottage-september-1881.mp3": 55.19475,
+      "rjrk-mrs-watsons-cottage-the-tank.mp3": 55.5472916,
+      "rjrk-mrs-watsons-cottage-what-the-ruin-holds.mp3": 53.547375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

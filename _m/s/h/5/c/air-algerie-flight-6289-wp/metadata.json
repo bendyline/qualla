@@ -53,5 +53,24 @@
     "sourceGeohash4": "sh5c"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sh5c-air-alg-rie-flight-6289-flight-context.mp3",
+      "sh5c-air-alg-rie-flight-6289-intro.mp3",
+      "sh5c-air-alg-rie-flight-6289-sixteen-seconds.mp3",
+      "sh5c-air-alg-rie-flight-6289-one-hundred-and-two.mp3",
+      "sh5c-air-alg-rie-flight-6289-the-man-in-the-last-row.mp3",
+      "sh5c-air-alg-rie-flight-6289-what-the-inquiry-found.mp3"
+    ],
+    "durations": {
+      "sh5c-air-alg-rie-flight-6289-flight-context.mp3": 48.833125,
+      "sh5c-air-alg-rie-flight-6289-intro.mp3": 46.8059583,
+      "sh5c-air-alg-rie-flight-6289-sixteen-seconds.mp3": 58.5919166,
+      "sh5c-air-alg-rie-flight-6289-one-hundred-and-two.mp3": 48.55625,
+      "sh5c-air-alg-rie-flight-6289-the-man-in-the-last-row.mp3": 49.2325,
+      "sh5c-air-alg-rie-flight-6289-what-the-inquiry-found.mp3": 53.2289166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

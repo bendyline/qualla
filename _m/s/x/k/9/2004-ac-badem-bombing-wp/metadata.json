@@ -51,5 +51,22 @@
     "sourceGeohash4": "sxk9"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sxk9-2004-ac-badem-bombing-flight-context.mp3",
+      "sxk9-2004-ac-badem-bombing-intro.mp3",
+      "sxk9-2004-ac-badem-bombing-the-attack-and-its-context.mp3",
+      "sxk9-2004-ac-badem-bombing-investigation-and-arrests.mp3",
+      "sxk9-2004-ac-badem-bombing-a-city-on-alert.mp3"
+    ],
+    "durations": {
+      "sxk9-2004-ac-badem-bombing-flight-context.mp3": 52.8927083,
+      "sxk9-2004-ac-badem-bombing-intro.mp3": 35.2997083,
+      "sxk9-2004-ac-badem-bombing-the-attack-and-its-context.mp3": 60.5642916,
+      "sxk9-2004-ac-badem-bombing-investigation-and-arrests.mp3": 57.7229583,
+      "sxk9-2004-ac-badem-bombing-a-city-on-alert.mp3": 74.4890833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

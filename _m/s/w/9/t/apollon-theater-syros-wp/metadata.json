@@ -160,5 +160,24 @@
     "_m/s/w/9/t/apollon-theater-syros-wp/apollon-theater.jpg",
     "_m/s/w/9/t/apollon-theater-syros-wp/apollon-theater-front-view.jpg"
   ],
-  "updatedAt": "2026-06-24T16:06:45.791Z"
+  "updatedAt": "2026-06-24T16:06:45.791Z",
+  "narration": {
+    "files": [
+      "sw9t-apollon-theater-syros-flight-context.mp3",
+      "sw9t-apollon-theater-syros-intro.mp3",
+      "sw9t-apollon-theater-syros-a-city-that-wanted-a-theatre.mp3",
+      "sw9t-apollon-theater-syros-a-miniature-of-la-scala.mp3",
+      "sw9t-apollon-theater-syros-rigoletto-to-kotopouli.mp3",
+      "sw9t-apollon-theater-syros-restoration-and-return.mp3"
+    ],
+    "durations": {
+      "sw9t-apollon-theater-syros-flight-context.mp3": 62.5311666,
+      "sw9t-apollon-theater-syros-intro.mp3": 52.5311666,
+      "sw9t-apollon-theater-syros-a-city-that-wanted-a-theatre.mp3": 56.256375,
+      "sw9t-apollon-theater-syros-a-miniature-of-la-scala.mp3": 91.644,
+      "sw9t-apollon-theater-syros-rigoletto-to-kotopouli.mp3": 70.998125,
+      "sw9t-apollon-theater-syros-restoration-and-return.mp3": 85.4490416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

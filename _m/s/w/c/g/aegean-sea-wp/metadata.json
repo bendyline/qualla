@@ -717,5 +717,24 @@
     "_m/s/w/c/g/aegean-sea-wp/altinkum-in-the-evening.jpg",
     "_m/s/w/c/g/aegean-sea-wp/aegean-sea-kolymbia.jpg"
   ],
-  "updatedAt": "2026-06-24T21:53:23.296Z"
+  "updatedAt": "2026-06-24T21:53:23.296Z",
+  "narration": {
+    "files": [
+      "swcg-aegean-sea-flight-context.mp3",
+      "swcg-aegean-sea-intro.mp3",
+      "swcg-aegean-sea-a-sea-of-two-thousand-islands.mp3",
+      "swcg-aegean-sea-the-cradle.mp3",
+      "swcg-aegean-sea-empires-on-the-water.mp3",
+      "swcg-aegean-sea-light-salt-and-dispute.mp3"
+    ],
+    "durations": {
+      "swcg-aegean-sea-flight-context.mp3": 58.8511666,
+      "swcg-aegean-sea-intro.mp3": 43.7416666,
+      "swcg-aegean-sea-a-sea-of-two-thousand-islands.mp3": 57.53625,
+      "swcg-aegean-sea-the-cradle.mp3": 51.408375,
+      "swcg-aegean-sea-empires-on-the-water.mp3": 55.814375,
+      "swcg-aegean-sea-light-salt-and-dispute.mp3": 59.86275
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

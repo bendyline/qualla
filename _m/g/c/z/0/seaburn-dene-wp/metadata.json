@@ -50,5 +50,24 @@
     "sourceGeohash4": "gcz0"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcz0-seaburn-dene-flight-context.mp3",
+      "gcz0-seaburn-dene-intro.mp3",
+      "gcz0-seaburn-dene-the-first-streets.mp3",
+      "gcz0-seaburn-dene-the-square-and-the-mansions.mp3",
+      "gcz0-seaburn-dene-schools-and-buses.mp3",
+      "gcz0-seaburn-dene-a-quiet-corner-of-sunderland.mp3"
+    ],
+    "durations": {
+      "gcz0-seaburn-dene-flight-context.mp3": 50.808875,
+      "gcz0-seaburn-dene-intro.mp3": 41.7535,
+      "gcz0-seaburn-dene-the-first-streets.mp3": 45.3012083,
+      "gcz0-seaburn-dene-the-square-and-the-mansions.mp3": 56.2684583,
+      "gcz0-seaburn-dene-schools-and-buses.mp3": 54.7427083,
+      "gcz0-seaburn-dene-a-quiet-corner-of-sunderland.mp3": 49.2448333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -55,5 +55,24 @@
     "sourceGeohash4": "gf4s"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gf4s-barra-island-lifeboat-station-flight-context.mp3",
+      "gf4s-barra-island-lifeboat-station-intro.mp3",
+      "gf4s-barra-island-lifeboat-station-a-station-born-of-wrecks.mp3",
+      "gf4s-barra-island-lifeboat-station-lloyds-cubbin-edna-windsor.mp3",
+      "gf4s-barra-island-lifeboat-station-the-urlana-service.mp3",
+      "gf4s-barra-island-lifeboat-station-what-the-station-stands-for.mp3"
+    ],
+    "durations": {
+      "gf4s-barra-island-lifeboat-station-flight-context.mp3": 48.0067083,
+      "gf4s-barra-island-lifeboat-station-intro.mp3": 43.3639583,
+      "gf4s-barra-island-lifeboat-station-a-station-born-of-wrecks.mp3": 61.831625,
+      "gf4s-barra-island-lifeboat-station-lloyds-cubbin-edna-windsor.mp3": 64.62825,
+      "gf4s-barra-island-lifeboat-station-the-urlana-service.mp3": 57.1325,
+      "gf4s-barra-island-lifeboat-station-what-the-station-stands-for.mp3": 54.0122916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

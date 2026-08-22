@@ -65,5 +65,24 @@
     "sourceGeohash4": "swb0"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "swb0-kryoneri-observatory-flight-context.mp3",
+      "swb0-kryoneri-observatory-intro.mp3",
+      "swb0-kryoneri-observatory-a-bequest-three-wars-and-fifty-five-years.mp3",
+      "swb0-kryoneri-observatory-the-mountain-and-the-mirror.mp3",
+      "swb0-kryoneri-observatory-watching-the-moon-for-asteroid-impacts.mp3",
+      "swb0-kryoneri-observatory-satellites-space-debris-and-deep-space-lasers.mp3"
+    ],
+    "durations": {
+      "swb0-kryoneri-observatory-flight-context.mp3": 52.1474583,
+      "swb0-kryoneri-observatory-intro.mp3": 55.70575,
+      "swb0-kryoneri-observatory-a-bequest-three-wars-and-fifty-five-years.mp3": 88.258,
+      "swb0-kryoneri-observatory-the-mountain-and-the-mirror.mp3": 72.8432916,
+      "swb0-kryoneri-observatory-watching-the-moon-for-asteroid-impacts.mp3": 68.6210416,
+      "swb0-kryoneri-observatory-satellites-space-debris-and-deep-space-lasers.mp3": 73.824375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

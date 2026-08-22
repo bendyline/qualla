@@ -532,5 +532,24 @@
     "_m/g/f/m/m/dounreay-wp/dounreay-fast-reactor-geograph.jpg",
     "_m/g/f/m/m/dounreay-wp/dounreay-nuclear-reactor-1975-.jpg"
   ],
-  "updatedAt": "2026-06-24T04:40:00.396Z"
+  "updatedAt": "2026-06-24T04:40:00.396Z",
+  "narration": {
+    "files": [
+      "gfmm-dounreay-flight-context.mp3",
+      "gfmm-dounreay-intro.mp3",
+      "gfmm-dounreay-why-here.mp3",
+      "gfmm-dounreay-the-fast-breeder-dream.mp3",
+      "gfmm-dounreay-the-shaft.mp3",
+      "gfmm-dounreay-decommissioning-in-centuries.mp3"
+    ],
+    "durations": {
+      "gfmm-dounreay-flight-context.mp3": 57.9494583,
+      "gfmm-dounreay-intro.mp3": 47.47425,
+      "gfmm-dounreay-why-here.mp3": 78.6605,
+      "gfmm-dounreay-the-fast-breeder-dream.mp3": 76.189,
+      "gfmm-dounreay-the-shaft.mp3": 76.0151666,
+      "gfmm-dounreay-decommissioning-in-centuries.mp3": 77.1739583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

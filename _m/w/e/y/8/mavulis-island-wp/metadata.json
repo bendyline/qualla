@@ -115,5 +115,24 @@
   "galleryPaths": [
     "_m/w/e/y/8/mavulis-island-wp/satellite-image-y-ami.jpg",
     "_m/w/e/y/8/mavulis-island-wp/tawian-ams-topographic.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wey8-mavulis-island-flight-context.mp3",
+      "wey8-mavulis-island-intro.mp3",
+      "wey8-mavulis-island-an-island-of-many-names.mp3",
+      "wey8-mavulis-island-rocky-coasts-and-coconut-crabs.mp3",
+      "wey8-mavulis-island-a-sentinel-in-the-strait.mp3",
+      "wey8-mavulis-island-watching-the-strait.mp3"
+    ],
+    "durations": {
+      "wey8-mavulis-island-flight-context.mp3": 59.0398333,
+      "wey8-mavulis-island-intro.mp3": 44.5771666,
+      "wey8-mavulis-island-an-island-of-many-names.mp3": 63.4065416,
+      "wey8-mavulis-island-rocky-coasts-and-coconut-crabs.mp3": 65.4587916,
+      "wey8-mavulis-island-a-sentinel-in-the-strait.mp3": 71.37025,
+      "wey8-mavulis-island-watching-the-strait.mp3": 52.854125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

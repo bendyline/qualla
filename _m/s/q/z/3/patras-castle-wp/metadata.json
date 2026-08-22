@@ -801,5 +801,24 @@
     "_m/s/q/z/3/patras-castle-wp/arpi3.jpg",
     "_m/s/q/z/3/patras-castle-wp/arpi4.jpg"
   ],
-  "updatedAt": "2026-06-24T11:20:08.515Z"
+  "updatedAt": "2026-06-24T11:20:08.515Z",
+  "narration": {
+    "files": [
+      "sqz3-patras-castle-flight-context.mp3",
+      "sqz3-patras-castle-intro.mp3",
+      "sqz3-patras-castle-justinians-foundation.mp3",
+      "sqz3-patras-castle-the-siege-that-shaped-a-legend.mp3",
+      "sqz3-patras-castle-from-constantinoples-last-emperor-to-ottoman-garri.mp3",
+      "sqz3-patras-castle-open-to-the-city-now.mp3"
+    ],
+    "durations": {
+      "sqz3-patras-castle-flight-context.mp3": 52.684875,
+      "sqz3-patras-castle-intro.mp3": 50.0339583,
+      "sqz3-patras-castle-justinians-foundation.mp3": 61.46625,
+      "sqz3-patras-castle-the-siege-that-shaped-a-legend.mp3": 76.2133333,
+      "sqz3-patras-castle-from-constantinoples-last-emperor-to-ottoman-garri.mp3": 53.9243333,
+      "sqz3-patras-castle-open-to-the-city-now.mp3": 58.5069583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

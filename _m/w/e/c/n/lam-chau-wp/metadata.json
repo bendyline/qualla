@@ -65,5 +65,24 @@
     "sourceGeohash4": "wecn"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "wecn-lam-chau-flight-context.mp3",
+      "wecn-lam-chau-intro.mp3",
+      "wecn-lam-chau-a-small-island-in-the-western-approaches.mp3",
+      "wecn-lam-chau-the-reclamation-that-remade-the-coastline.mp3",
+      "wecn-lam-chau-where-the-island-was.mp3",
+      "wecn-lam-chau-a-ghost-in-the-runway.mp3"
+    ],
+    "durations": {
+      "wecn-lam-chau-flight-context.mp3": 48.093625,
+      "wecn-lam-chau-intro.mp3": 48.8710833,
+      "wecn-lam-chau-a-small-island-in-the-western-approaches.mp3": 55.7335833,
+      "wecn-lam-chau-the-reclamation-that-remade-the-coastline.mp3": 63.03375,
+      "wecn-lam-chau-where-the-island-was.mp3": 62.5315833,
+      "wecn-lam-chau-a-ghost-in-the-runway.mp3": 52.384125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

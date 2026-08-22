@@ -51,5 +51,26 @@
     "sourceGeohash4": "sqxs"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sqxs-vastas-flight-context.mp3",
+      "sqxs-vastas-intro.mp3",
+      "sqxs-vastas-a-woman-who-refused-the-rules.mp3",
+      "sqxs-vastas-what-the-radar-revealed.mp3",
+      "sqxs-vastas-the-three-wonders-of-vasta.mp3",
+      "sqxs-vastas-the-village-above-the-valley.mp3",
+      "sqxs-vastas-vastas-from-the-air.mp3"
+    ],
+    "durations": {
+      "sqxs-vastas-flight-context.mp3": 37.2142083,
+      "sqxs-vastas-intro.mp3": 31.262125,
+      "sqxs-vastas-a-woman-who-refused-the-rules.mp3": 70.410125,
+      "sqxs-vastas-what-the-radar-revealed.mp3": 77.28875,
+      "sqxs-vastas-the-three-wonders-of-vasta.mp3": 79.336375,
+      "sqxs-vastas-the-village-above-the-valley.mp3": 66.9167916,
+      "sqxs-vastas-vastas-from-the-air.mp3": 57.8802916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

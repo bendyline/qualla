@@ -82,5 +82,24 @@
   ],
   "galleryPaths": [
     "_m/s/w/b/5/davleia-wp/greece-davleia-train-s.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swb5-davleia-flight-context.mp3",
+      "swb5-davleia-intro.mp3",
+      "swb5-davleia-the-long-thread-of-the-name.mp3",
+      "swb5-davleia-revolution-and-reprisal.mp3",
+      "swb5-davleia-where-myth-intersects-the-road.mp3",
+      "swb5-davleia-a-functioning-place.mp3"
+    ],
+    "durations": {
+      "swb5-davleia-flight-context.mp3": 53.393375,
+      "swb5-davleia-intro.mp3": 39.0581666,
+      "swb5-davleia-the-long-thread-of-the-name.mp3": 62.64175,
+      "swb5-davleia-revolution-and-reprisal.mp3": 67.1170416,
+      "swb5-davleia-where-myth-intersects-the-road.mp3": 70.7002916,
+      "swb5-davleia-a-functioning-place.mp3": 61.1131666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

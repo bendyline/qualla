@@ -112,5 +112,26 @@
   "galleryPaths": [
     "_m/s/w/9/f/ms-express-samina-wp/le-car-ferry-corse-dan.jpg",
     "_m/s/w/9/f/ms-express-samina-wp/cgt-s-car-ferry-corse.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sw9f-ms-express-samina-flight-context.mp3",
+      "sw9f-ms-express-samina-intro.mp3",
+      "sw9f-ms-express-samina-the-people-on-board.mp3",
+      "sw9f-ms-express-samina-what-the-investigation-found.mp3",
+      "sw9f-ms-express-samina-the-sinking-minute-by-minute.mp3",
+      "sw9f-ms-express-samina-the-trial-and-its-findings.mp3",
+      "sw9f-ms-express-samina-the-ship-and-its-history.mp3"
+    ],
+    "durations": {
+      "sw9f-ms-express-samina-flight-context.mp3": 61.0456666,
+      "sw9f-ms-express-samina-intro.mp3": 40.1611666,
+      "sw9f-ms-express-samina-the-people-on-board.mp3": 79.5810416,
+      "sw9f-ms-express-samina-what-the-investigation-found.mp3": 89.16275,
+      "sw9f-ms-express-samina-the-sinking-minute-by-minute.mp3": 71.087,
+      "sw9f-ms-express-samina-the-trial-and-its-findings.mp3": 89.6919583,
+      "sw9f-ms-express-samina-the-ship-and-its-history.mp3": 54.627125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

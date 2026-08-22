@@ -191,5 +191,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "ws0m-qingyuan-maglev-tourist-line-flight-context.mp3",
+      "ws0m-qingyuan-maglev-tourist-line-intro.mp3",
+      "ws0m-qingyuan-maglev-tourist-line-how-a-maglev-works-and-why-its-quiet.mp3",
+      "ws0m-qingyuan-maglev-tourist-line-the-route-theme-park-to-intercity-rail.mp3",
+      "ws0m-qingyuan-maglev-tourist-line-qingyuans-gamble-on-the-future.mp3",
+      "ws0m-qingyuan-maglev-tourist-line-a-glimpse-of-the-schedule.mp3"
+    ],
+    "durations": {
+      "ws0m-qingyuan-maglev-tourist-line-flight-context.mp3": 61.01725,
+      "ws0m-qingyuan-maglev-tourist-line-intro.mp3": 54.0904583,
+      "ws0m-qingyuan-maglev-tourist-line-how-a-maglev-works-and-why-its-quiet.mp3": 57.99225,
+      "ws0m-qingyuan-maglev-tourist-line-the-route-theme-park-to-intercity-rail.mp3": 63.50425,
+      "ws0m-qingyuan-maglev-tourist-line-qingyuans-gamble-on-the-future.mp3": 59.4717083,
+      "ws0m-qingyuan-maglev-tourist-line-a-glimpse-of-the-schedule.mp3": 46.2093333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

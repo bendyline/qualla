@@ -89,5 +89,24 @@
   ],
   "galleryPaths": [
     "_m/g/c/v/b/siege-of-carlisle-1644-wp/hero.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcz0-wearside-flight-context.mp3",
+      "gcz0-wearside-intro.mp3",
+      "gcz0-wearside-water-first-towns-later.mp3",
+      "gcz0-wearside-coal-and-keel.mp3",
+      "gcz0-wearside-sub-divisions-on-paper-identities-on-the-ground.mp3",
+      "gcz0-wearside-after-the-pit-the-press-the-yard.mp3"
+    ],
+    "durations": {
+      "gcz0-wearside-flight-context.mp3": 50.6905,
+      "gcz0-wearside-intro.mp3": 34.9732916,
+      "gcz0-wearside-water-first-towns-later.mp3": 47.945125,
+      "gcz0-wearside-coal-and-keel.mp3": 58.0524166,
+      "gcz0-wearside-sub-divisions-on-paper-identities-on-the-ground.mp3": 58.9304583,
+      "gcz0-wearside-after-the-pit-the-press-the-yard.mp3": 51.2148333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

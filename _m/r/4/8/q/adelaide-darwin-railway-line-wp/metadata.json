@@ -199,5 +199,24 @@
     "_m/r/4/8/q/adelaide-darwin-railway-line-wp/map-scale-but-routes-s.png",
     "_m/r/4/8/q/adelaide-darwin-railway-line-wp/route-map-adelaide-dar.png",
     "_m/r/4/8/q/adelaide-darwin-railway-line-wp/route-map-inter-capita.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r48q-adelaide-darwin-railway-line-flight-context.mp3",
+      "r48q-adelaide-darwin-railway-line-intro.mp3",
+      "r48q-adelaide-darwin-railway-line-the-ghan-and-its-ghosts.mp3",
+      "r48q-adelaide-darwin-railway-line-half-finished-for-generations.mp3",
+      "r48q-adelaide-darwin-railway-line-the-last-frontier-conquered.mp3",
+      "r48q-adelaide-darwin-railway-line-what-the-trains-carry-now.mp3"
+    ],
+    "durations": {
+      "r48q-adelaide-darwin-railway-line-flight-context.mp3": 75.11025,
+      "r48q-adelaide-darwin-railway-line-intro.mp3": 43.5871666,
+      "r48q-adelaide-darwin-railway-line-the-ghan-and-its-ghosts.mp3": 51.729,
+      "r48q-adelaide-darwin-railway-line-half-finished-for-generations.mp3": 53.264375,
+      "r48q-adelaide-darwin-railway-line-the-last-frontier-conquered.mp3": 54.09175,
+      "r48q-adelaide-darwin-railway-line-what-the-trains-carry-now.mp3": 56.010125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

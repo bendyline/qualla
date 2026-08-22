@@ -650,5 +650,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecn-hong-kong-police-headquarters-flight-context.mp3",
+      "wecn-hong-kong-police-headquarters-intro.mp3",
+      "wecn-hong-kong-police-headquarters-from-hollywood-road-to-arsenal-street.mp3",
+      "wecn-hong-kong-police-headquarters-the-long-redevelopment.mp3",
+      "wecn-hong-kong-police-headquarters-the-tower-that-resulted.mp3",
+      "wecn-hong-kong-police-headquarters-names-and-what-they-carry.mp3"
+    ],
+    "durations": {
+      "wecn-hong-kong-police-headquarters-flight-context.mp3": 51.4505,
+      "wecn-hong-kong-police-headquarters-intro.mp3": 39.7222916,
+      "wecn-hong-kong-police-headquarters-from-hollywood-road-to-arsenal-street.mp3": 54.7093333,
+      "wecn-hong-kong-police-headquarters-the-long-redevelopment.mp3": 63.8651666,
+      "wecn-hong-kong-police-headquarters-the-tower-that-resulted.mp3": 50.3268333,
+      "wecn-hong-kong-police-headquarters-names-and-what-they-carry.mp3": 52.6769583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

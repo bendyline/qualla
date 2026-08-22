@@ -387,5 +387,26 @@
     "_m/w/s/q/e/suao-wk/gallery-11.jpg",
     "_m/w/s/q/e/suao-wk/gallery-12.jpg",
     "_m/w/s/q/e/suao-wk/tofu-cape-su-ao-townsh.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wsqe-suao-flight-context.mp3",
+      "wsqe-suao-intro.mp3",
+      "wsqe-suao-the-railway-at-the-end-of-the-line.mp3",
+      "wsqe-suao-fizzing-water-and-how-to-find-it.mp3",
+      "wsqe-suao-the-port-and-what-it-brings-in.mp3",
+      "wsqe-suao-what-suao-is-and-isnt.mp3",
+      "wsqe-suao-gateway-to-the-coast-beyond.mp3"
+    ],
+    "durations": {
+      "wsqe-suao-flight-context.mp3": 46.3726666,
+      "wsqe-suao-intro.mp3": 47.659,
+      "wsqe-suao-the-railway-at-the-end-of-the-line.mp3": 48.134875,
+      "wsqe-suao-fizzing-water-and-how-to-find-it.mp3": 57.4880833,
+      "wsqe-suao-the-port-and-what-it-brings-in.mp3": 44.9379583,
+      "wsqe-suao-what-suao-is-and-isnt.mp3": 47.624,
+      "wsqe-suao-gateway-to-the-coast-beyond.mp3": 51.8278333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

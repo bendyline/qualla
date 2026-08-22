@@ -707,5 +707,24 @@
     "_m/g/f/n/0/crail-wp/1-to-4-castle-terrace-crail-ge.jpg",
     "_m/g/f/n/0/crail-wp/70-and-72-nethergate-crail-geo.jpg"
   ],
-  "updatedAt": "2026-06-24T05:55:17.633Z"
+  "updatedAt": "2026-06-24T05:55:17.633Z",
+  "narration": {
+    "files": [
+      "gfn0-crail-flight-context.mp3",
+      "gfn0-crail-intro.mp3",
+      "gfn0-crail-cair-the-fort.mp3",
+      "gfn0-crail-the-marketgate-and-the-mercat-cross.mp3",
+      "gfn0-crail-joan-clarkes-quiet-shore.mp3",
+      "gfn0-crail-the-carboniferous-beach.mp3"
+    ],
+    "durations": {
+      "gfn0-crail-flight-context.mp3": 46.6436666,
+      "gfn0-crail-intro.mp3": 37.619125,
+      "gfn0-crail-cair-the-fort.mp3": 59.9366666,
+      "gfn0-crail-the-marketgate-and-the-mercat-cross.mp3": 55.37425,
+      "gfn0-crail-joan-clarkes-quiet-shore.mp3": 57.46425,
+      "gfn0-crail-the-carboniferous-beach.mp3": 70.0453333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

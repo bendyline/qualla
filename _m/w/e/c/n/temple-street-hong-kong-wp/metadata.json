@@ -627,5 +627,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecn-temple-street-night-market-flight-context.mp3",
+      "wecn-temple-street-night-market-intro.mp3",
+      "wecn-temple-street-night-market-the-market-after-dark.mp3",
+      "wecn-temple-street-night-market-old-masters-and-street-kitchens.mp3",
+      "wecn-temple-street-night-market-the-street-that-cinema-loved.mp3",
+      "wecn-temple-street-night-market-the-goddess-at-the-center.mp3"
+    ],
+    "durations": {
+      "wecn-temple-street-night-market-flight-context.mp3": 58.3880416,
+      "wecn-temple-street-night-market-intro.mp3": 49.535875,
+      "wecn-temple-street-night-market-the-market-after-dark.mp3": 58.1717083,
+      "wecn-temple-street-night-market-old-masters-and-street-kitchens.mp3": 56.946625,
+      "wecn-temple-street-night-market-the-street-that-cinema-loved.mp3": 61.6247083,
+      "wecn-temple-street-night-market-the-goddess-at-the-center.mp3": 44.1604583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -231,5 +231,24 @@
     "_m/s/w/c/5/euboea-wp/image-13.jpg",
     "_m/s/w/c/5/euboea-wp/nea-styra-docks-with-3-ferries.jpg",
     "_m/s/w/c/5/euboea-wp/eretria.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swc5-evvia-flight-context.mp3",
+      "swc5-evvia-intro.mp3",
+      "swc5-evvia-getting-on-and-why-it-matters-where.mp3",
+      "swc5-evvia-three-islands-in-one.mp3",
+      "swc5-evvia-the-table-and-the-wild-camp.mp3",
+      "swc5-evvia-read-the-road-mind-the-rest.mp3"
+    ],
+    "durations": {
+      "swc5-evvia-flight-context.mp3": 51.4167083,
+      "swc5-evvia-intro.mp3": 35.523125,
+      "swc5-evvia-getting-on-and-why-it-matters-where.mp3": 48.6757916,
+      "swc5-evvia-three-islands-in-one.mp3": 47.8744166,
+      "swc5-evvia-the-table-and-the-wild-camp.mp3": 43.8724166,
+      "swc5-evvia-read-the-road-mind-the-rest.mp3": 51.930125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

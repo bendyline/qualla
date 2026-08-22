@@ -137,5 +137,24 @@
     "_m/s/u/g/6/al-naslaa-wp/worldmap-landandpoliti.jpg",
     "_m/c/4/h/w/spatsizi-plateau-wilderness-wk/hero.png",
     "_m/9/q/5/c/la-brea-tar-pits-wk/pleuroceras-solare-ama.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sug6-al-naslaa-flight-context.mp3",
+      "sug6-al-naslaa-intro.mp3",
+      "sug6-al-naslaa-just-a-joint.mp3",
+      "sug6-al-naslaa-carved-by-wind.mp3",
+      "sug6-al-naslaa-older-hands.mp3",
+      "sug6-al-naslaa-the-pull-of-mystery.mp3"
+    ],
+    "durations": {
+      "sug6-al-naslaa-flight-context.mp3": 60.7255,
+      "sug6-al-naslaa-intro.mp3": 52.3982083,
+      "sug6-al-naslaa-just-a-joint.mp3": 46.9842083,
+      "sug6-al-naslaa-carved-by-wind.mp3": 51.0307083,
+      "sug6-al-naslaa-older-hands.mp3": 44.42275,
+      "sug6-al-naslaa-the-pull-of-mystery.mp3": 44.2312083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

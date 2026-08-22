@@ -574,5 +574,24 @@
     "_m/g/c/y/q/st-abbs-lifeboat-station-wp/the-lifeboat-station-at-st-abb.jpg",
     "_m/g/c/y/q/st-abbs-lifeboat-station-wp/lifeboat-station-st-abbs-geogr-1.jpg"
   ],
-  "updatedAt": "2026-06-23T17:26:00.638Z"
+  "updatedAt": "2026-06-23T17:26:00.638Z",
+  "narration": {
+    "files": [
+      "gcyq-st-abbs-lifeboat-station-flight-context.mp3",
+      "gcyq-st-abbs-lifeboat-station-intro.mp3",
+      "gcyq-st-abbs-lifeboat-station-jane-hays-campaign.mp3",
+      "gcyq-st-abbs-lifeboat-station-from-all-weather-to-inshore.mp3",
+      "gcyq-st-abbs-lifeboat-station-the-closure.mp3",
+      "gcyq-st-abbs-lifeboat-station-thomas-tunnock.mp3"
+    ],
+    "durations": {
+      "gcyq-st-abbs-lifeboat-station-flight-context.mp3": 53.9165833,
+      "gcyq-st-abbs-lifeboat-station-intro.mp3": 50.240625,
+      "gcyq-st-abbs-lifeboat-station-jane-hays-campaign.mp3": 68.5344583,
+      "gcyq-st-abbs-lifeboat-station-from-all-weather-to-inshore.mp3": 72.837875,
+      "gcyq-st-abbs-lifeboat-station-the-closure.mp3": 70.206,
+      "gcyq-st-abbs-lifeboat-station-thomas-tunnock.mp3": 70.7720416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

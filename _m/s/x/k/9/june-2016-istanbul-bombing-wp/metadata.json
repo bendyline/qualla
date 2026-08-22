@@ -111,5 +111,24 @@
   "galleryPaths": [
     "_m/s/x/k/3/istanbul-aviation-museum-wp/location-map-istanbul.png",
     "_m/s/x/k/3/2016-ataturk-airport-attack-wp/suruc-bombing-forensic.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-june-2016-istanbul-bombing-flight-context.mp3",
+      "sxk9-june-2016-istanbul-bombing-intro.mp3",
+      "sxk9-june-2016-istanbul-bombing-the-people-lost.mp3",
+      "sxk9-june-2016-istanbul-bombing-a-city-already-bleeding.mp3",
+      "sxk9-june-2016-istanbul-bombing-responsibility-and-its-complexities.mp3",
+      "sxk9-june-2016-istanbul-bombing-aftermath-and-memory.mp3"
+    ],
+    "durations": {
+      "sxk9-june-2016-istanbul-bombing-flight-context.mp3": 54.4331666,
+      "sxk9-june-2016-istanbul-bombing-intro.mp3": 47.862375,
+      "sxk9-june-2016-istanbul-bombing-the-people-lost.mp3": 52.9812916,
+      "sxk9-june-2016-istanbul-bombing-a-city-already-bleeding.mp3": 46.4825416,
+      "sxk9-june-2016-istanbul-bombing-responsibility-and-its-complexities.mp3": 58.4874166,
+      "sxk9-june-2016-istanbul-bombing-aftermath-and-memory.mp3": 53.4209166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

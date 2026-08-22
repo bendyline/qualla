@@ -50,5 +50,24 @@
     "sourceGeohash4": "sw8z"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sw8z-basileiades-flight-context.mp3",
+      "sw8z-basileiades-intro.mp3",
+      "sw8z-basileiades-the-machine-that-built-a-port-city.mp3",
+      "sw8z-basileiades-steel-hulls-and-one-extraordinary-locomotive.mp3",
+      "sw8z-basileiades-the-largest-shipyard-in-greece.mp3",
+      "sw8z-basileiades-what-the-waterfront-remembers.mp3"
+    ],
+    "durations": {
+      "sw8z-basileiades-flight-context.mp3": 71.5618333,
+      "sw8z-basileiades-intro.mp3": 48.8115833,
+      "sw8z-basileiades-the-machine-that-built-a-port-city.mp3": 60.7297916,
+      "sw8z-basileiades-steel-hulls-and-one-extraordinary-locomotive.mp3": 69.7817083,
+      "sw8z-basileiades-the-largest-shipyard-in-greece.mp3": 57.128375,
+      "sw8z-basileiades-what-the-waterfront-remembers.mp3": 62.1325416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

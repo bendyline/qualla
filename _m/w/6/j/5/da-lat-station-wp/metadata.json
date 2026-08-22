@@ -578,5 +578,24 @@
     "_m/w/6/j/5/da-lat-station-wp/ga-da-lat-1345.jpg",
     "_m/w/6/j/5/da-lat-station-wp/ga-da-lat-1346.jpg"
   ],
-  "updatedAt": "2026-06-26T02:27:40.003Z"
+  "updatedAt": "2026-06-26T02:27:40.003Z",
+  "narration": {
+    "files": [
+      "w6j5-da-lat-station-flight-context.mp3",
+      "w6j5-da-lat-station-intro.mp3",
+      "w6j5-da-lat-station-art-deco-meets-the-central-highlands.mp3",
+      "w6j5-da-lat-station-war-and-silence.mp3",
+      "w6j5-da-lat-station-seven-kilometers-back-to-life.mp3",
+      "w6j5-da-lat-station-a-building-that-outlasted-its-purpose.mp3"
+    ],
+    "durations": {
+      "w6j5-da-lat-station-flight-context.mp3": 58.4010416,
+      "w6j5-da-lat-station-intro.mp3": 38.817625,
+      "w6j5-da-lat-station-art-deco-meets-the-central-highlands.mp3": 57.0473333,
+      "w6j5-da-lat-station-war-and-silence.mp3": 47.46625,
+      "w6j5-da-lat-station-seven-kilometers-back-to-life.mp3": 51.8655,
+      "w6j5-da-lat-station-a-building-that-outlasted-its-purpose.mp3": 55.9535833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

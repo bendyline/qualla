@@ -116,5 +116,24 @@
   "galleryPaths": [
     "_m/r/7/g/j/canal-creek-air-crash-wp/canal-creek-war-memori.jpg",
     "_m/r/7/g/j/canal-creek-air-crash-wp/service-photograph-2nd.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r7gj-canal-creek-air-crash-flight-context.mp3",
+      "r7gj-canal-creek-air-crash-intro.mp3",
+      "r7gj-canal-creek-air-crash-the-men-in-the-cabin.mp3",
+      "r7gj-canal-creek-air-crash-the-pilot.mp3",
+      "r7gj-canal-creek-air-crash-a-disaster-kept-quiet.mp3",
+      "r7gj-canal-creek-air-crash-bringing-them-back.mp3"
+    ],
+    "durations": {
+      "r7gj-canal-creek-air-crash-flight-context.mp3": 47.5165416,
+      "r7gj-canal-creek-air-crash-intro.mp3": 42.131,
+      "r7gj-canal-creek-air-crash-the-men-in-the-cabin.mp3": 47.2944166,
+      "r7gj-canal-creek-air-crash-the-pilot.mp3": 67.11125,
+      "r7gj-canal-creek-air-crash-a-disaster-kept-quiet.mp3": 48.0996666,
+      "r7gj-canal-creek-air-crash-bringing-them-back.mp3": 48.3372916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -33,6 +33,20 @@ Santa Teresa National Park sits at roughly 34.00 degrees south, 53.55 degrees we
 ## Sources
 
 - [Santa Teresa National Park - Wikivoyage](https://en.wikivoyage.org/?curid=210080)
+- [Santa Teresa National Park - Wikipedia](https://en.wikipedia.org/wiki/Santa_Teresa_National_Park)
+  - Historian Horacio Arredondo planted forest to stabilize dunes threatening the fort
+  - 3,000 total hectares, 1,400 forested, more than 2 million trees
+  - Run by the Park Service of the Army of Uruguay
+  - Beaches run 12+ km from Punta del Diablo to Cerro Verde
+  - Playa la Moza rated among Uruguay's best surfing waves
+
+## Review Notes
+
+**Reviewed:** 2026-07-14 · 4 facts verified · 0 corrections
+
+Verified Horacio Arredondo reforestation history, park area (3,000 ha/1,400 forested/2M trees), Army Park Service management, beach length and Playa la Moza surf reputation. All facts accurate. Spiciness 1.
+
+**Spiciness:** 1/5
 
 ---
 

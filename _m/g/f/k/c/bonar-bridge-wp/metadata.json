@@ -502,5 +502,24 @@
     "_m/g/f/k/c/bonar-bridge-wp/information-board-bonar-bridge.jpg",
     "_m/g/f/k/c/bonar-bridge-wp/kyle-of-sutherland-geograph-or.jpg"
   ],
-  "updatedAt": "2026-06-24T03:17:52.099Z"
+  "updatedAt": "2026-06-24T03:17:52.099Z",
+  "narration": {
+    "files": [
+      "gfkc-bonar-bridge-flight-context.mp3",
+      "gfkc-bonar-bridge-intro.mp3",
+      "gfkc-bonar-bridge-the-fair-ford.mp3",
+      "gfkc-bonar-bridge-telfords-iron-arch.mp3",
+      "gfkc-bonar-bridge-where-the-rivers-meet-the-sea.mp3",
+      "gfkc-bonar-bridge-quiet-now-mostly.mp3"
+    ],
+    "durations": {
+      "gfkc-bonar-bridge-flight-context.mp3": 49.2302916,
+      "gfkc-bonar-bridge-intro.mp3": 38.3871666,
+      "gfkc-bonar-bridge-the-fair-ford.mp3": 59.1559166,
+      "gfkc-bonar-bridge-telfords-iron-arch.mp3": 77.619,
+      "gfkc-bonar-bridge-where-the-rivers-meet-the-sea.mp3": 59.5465416,
+      "gfkc-bonar-bridge-quiet-now-mostly.mp3": 54.9516666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

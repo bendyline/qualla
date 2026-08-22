@@ -50,5 +50,26 @@
     "sourceGeohash4": "gcys"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcys-holy-island-lifeboat-station-flight-context.mp3",
+      "gcys-holy-island-lifeboat-station-intro.mp3",
+      "gcys-holy-island-lifeboat-station-the-crewe-trustees.mp3",
+      "gcys-holy-island-lifeboat-station-the-gallant-master-joy.mp3",
+      "gcys-holy-island-lifeboat-station-grace-darling.mp3",
+      "gcys-holy-island-lifeboat-station-storm-of-1890.mp3",
+      "gcys-holy-island-lifeboat-station-what-remains.mp3"
+    ],
+    "durations": {
+      "gcys-holy-island-lifeboat-station-flight-context.mp3": 59.5242083,
+      "gcys-holy-island-lifeboat-station-intro.mp3": 39.9480416,
+      "gcys-holy-island-lifeboat-station-the-crewe-trustees.mp3": 44.04475,
+      "gcys-holy-island-lifeboat-station-the-gallant-master-joy.mp3": 67.705875,
+      "gcys-holy-island-lifeboat-station-grace-darling.mp3": 51.7611666,
+      "gcys-holy-island-lifeboat-station-storm-of-1890.mp3": 48.1645,
+      "gcys-holy-island-lifeboat-station-what-remains.mp3": 50.5067916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

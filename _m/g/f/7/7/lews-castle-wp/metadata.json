@@ -515,5 +515,24 @@
     "_m/g/f/7/7/stornoway-wp/lews-castle-stornoway-40768472.jpg",
     "_m/g/f/7/7/lews-castle-wp/lews-castle-stornoway-33857853.jpg"
   ],
-  "updatedAt": "2026-06-23T21:56:57.729Z"
+  "updatedAt": "2026-06-23T21:56:57.729Z",
+  "narration": {
+    "files": [
+      "gf77-lews-castle-flight-context.mp3",
+      "gf77-lews-castle-intro.mp3",
+      "gf77-lews-castle-the-matheson-decades.mp3",
+      "gf77-lews-castle-from-matheson-to-leverhulme.mp3",
+      "gf77-lews-castle-walrus-aircraft-and-a-long-sleep.mp3",
+      "gf77-lews-castle-the-museum-years.mp3"
+    ],
+    "durations": {
+      "gf77-lews-castle-flight-context.mp3": 46.7442083,
+      "gf77-lews-castle-intro.mp3": 60.135125,
+      "gf77-lews-castle-the-matheson-decades.mp3": 68.016125,
+      "gf77-lews-castle-from-matheson-to-leverhulme.mp3": 69.485625,
+      "gf77-lews-castle-walrus-aircraft-and-a-long-sleep.mp3": 56.1924166,
+      "gf77-lews-castle-the-museum-years.mp3": 70.657125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

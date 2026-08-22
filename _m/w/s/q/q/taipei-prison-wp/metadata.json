@@ -67,5 +67,24 @@
     "sourceGeohash4": "wsqq"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "wsqq-taipei-prison-flight-context.mp3",
+      "wsqq-taipei-prison-intro.mp3",
+      "wsqq-taipei-prison-origins-under-two-empires.mp3",
+      "wsqq-taipei-prison-the-weight-of-june-1945.mp3",
+      "wsqq-taipei-prison-from-colony-to-republic.mp3",
+      "wsqq-taipei-prison-guishan-the-prison-in-the-present.mp3"
+    ],
+    "durations": {
+      "wsqq-taipei-prison-flight-context.mp3": 57.1226666,
+      "wsqq-taipei-prison-intro.mp3": 45.5925833,
+      "wsqq-taipei-prison-origins-under-two-empires.mp3": 53.6482916,
+      "wsqq-taipei-prison-the-weight-of-june-1945.mp3": 64.866375,
+      "wsqq-taipei-prison-from-colony-to-republic.mp3": 56.336125,
+      "wsqq-taipei-prison-guishan-the-prison-in-the-present.mp3": 61.9529583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

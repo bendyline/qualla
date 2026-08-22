@@ -199,5 +199,24 @@
     "_m/r/2/2/u/theatre-royal-hobart-wp/campbell-street-hobart-tasmani.jpg",
     "_m/r/2/2/u/theatre-royal-hobart-wp/the-hedberg-performing-arts-pr.jpg"
   ],
-  "updatedAt": "2026-06-28T02:15:23.298Z"
+  "updatedAt": "2026-06-28T02:15:23.298Z",
+  "narration": {
+    "files": [
+      "r22u-theatre-royal-hobart-flight-context.mp3",
+      "r22u-theatre-royal-hobart-intro.mp3",
+      "r22u-theatre-royal-hobart-the-shades-and-the-cockfights.mp3",
+      "r22u-theatre-royal-hobart-gilding-the-old-lady.mp3",
+      "r22u-theatre-royal-hobart-the-fire-of-1984.mp3",
+      "r22u-theatre-royal-hobart-fred-and-the-long-encore.mp3"
+    ],
+    "durations": {
+      "r22u-theatre-royal-hobart-flight-context.mp3": 61.4434166,
+      "r22u-theatre-royal-hobart-intro.mp3": 53.9326666,
+      "r22u-theatre-royal-hobart-the-shades-and-the-cockfights.mp3": 61.5682916,
+      "r22u-theatre-royal-hobart-gilding-the-old-lady.mp3": 66.6235416,
+      "r22u-theatre-royal-hobart-the-fire-of-1984.mp3": 67.605125,
+      "r22u-theatre-royal-hobart-fred-and-the-long-encore.mp3": 58.802
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -69,5 +69,26 @@
     "sourceGeohash4": "wsjs"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "wsjs-guanzihling-flight-context.mp3",
+      "wsjs-guanzihling-intro.mp3",
+      "wsjs-guanzihling-two-villages-one-valley.mp3",
+      "wsjs-guanzihling-the-mud-itself.mp3",
+      "wsjs-guanzihling-getting-there-and-getting-around.mp3",
+      "wsjs-guanzihling-old-springs-new-interest.mp3",
+      "wsjs-guanzihling-a-rarity-in-the-foothills.mp3"
+    ],
+    "durations": {
+      "wsjs-guanzihling-flight-context.mp3": 50.659375,
+      "wsjs-guanzihling-intro.mp3": 44.2526666,
+      "wsjs-guanzihling-two-villages-one-valley.mp3": 52.2487916,
+      "wsjs-guanzihling-the-mud-itself.mp3": 65.1026666,
+      "wsjs-guanzihling-getting-there-and-getting-around.mp3": 48.2685,
+      "wsjs-guanzihling-old-springs-new-interest.mp3": 40.4170833,
+      "wsjs-guanzihling-a-rarity-in-the-foothills.mp3": 52.2758333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -57,5 +57,26 @@
     "sourceGeohash4": "gcyb"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcyb-raf-usworth-flight-context.mp3",
+      "gcyb-raf-usworth-intro.mp3",
+      "gcyb-raf-usworth-born-of-zeppelins.mp3",
+      "gcyb-raf-usworth-weekend-warriors.mp3",
+      "gcyb-raf-usworth-the-1940-sky.mp3",
+      "gcyb-raf-usworth-the-quiet-decade.mp3",
+      "gcyb-raf-usworth-cars-where-hurricanes-stood.mp3"
+    ],
+    "durations": {
+      "gcyb-raf-usworth-flight-context.mp3": 44.336125,
+      "gcyb-raf-usworth-intro.mp3": 42.3547916,
+      "gcyb-raf-usworth-born-of-zeppelins.mp3": 53.225875,
+      "gcyb-raf-usworth-weekend-warriors.mp3": 63.5708333,
+      "gcyb-raf-usworth-the-1940-sky.mp3": 62.8568333,
+      "gcyb-raf-usworth-the-quiet-decade.mp3": 46.8485833,
+      "gcyb-raf-usworth-cars-where-hurricanes-stood.mp3": 50.3205
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

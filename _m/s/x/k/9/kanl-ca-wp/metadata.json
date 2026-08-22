@@ -695,5 +695,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-kanl-ca-flight-context.mp3",
+      "sxk9-kanl-ca-intro.mp3",
+      "sxk9-kanl-ca-a-village-on-the-strait.mp3",
+      "sxk9-kanl-ca-the-mansions-of-the-bosphorus.mp3",
+      "sxk9-kanl-ca-the-yogurt.mp3",
+      "sxk9-kanl-ca-a-cemetery-by-the-water.mp3"
+    ],
+    "durations": {
+      "sxk9-kanl-ca-flight-context.mp3": 54.9487083,
+      "sxk9-kanl-ca-intro.mp3": 41.1755416,
+      "sxk9-kanl-ca-a-village-on-the-strait.mp3": 51.2315416,
+      "sxk9-kanl-ca-the-mansions-of-the-bosphorus.mp3": 62.5192916,
+      "sxk9-kanl-ca-the-yogurt.mp3": 50.962,
+      "sxk9-kanl-ca-a-cemetery-by-the-water.mp3": 46.5030833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

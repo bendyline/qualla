@@ -191,5 +191,24 @@
     "_m/4/q/u/j/cuernos-del-paine-wp/the-matterhorn-as-seen-from-ze.png",
     "_m/r/6/v/j/mount-nardi-wp/bushfire-slope-tuntabl.jpg",
     "_m/r/6/v/j/mount-nardi-wp/radio-digital-tv-tower.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r6vj-mount-nardi-flight-context.mp3",
+      "r6vj-mount-nardi-intro.mp3",
+      "r6vj-mount-nardi-built-from-lava.mp3",
+      "r6vj-mount-nardi-the-big-scrub-and-the-cedar-getters.mp3",
+      "r6vj-mount-nardi-a-crown-of-antennas.mp3",
+      "r6vj-mount-nardi-the-view-from-the-top.mp3"
+    ],
+    "durations": {
+      "r6vj-mount-nardi-flight-context.mp3": 61.0036666,
+      "r6vj-mount-nardi-intro.mp3": 45.124,
+      "r6vj-mount-nardi-built-from-lava.mp3": 42.5859583,
+      "r6vj-mount-nardi-the-big-scrub-and-the-cedar-getters.mp3": 47.2222916,
+      "r6vj-mount-nardi-a-crown-of-antennas.mp3": 71.2031666,
+      "r6vj-mount-nardi-the-view-from-the-top.mp3": 57.8061666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

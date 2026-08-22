@@ -455,5 +455,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wsmc-national-taichung-theater-flight-context.mp3",
+      "wsmc-national-taichung-theater-intro.mp3",
+      "wsmc-national-taichung-theater-twenty-four-years-from-idea-to-opening.mp3",
+      "wsmc-national-taichung-theater-toyo-itos-curved-tubes.mp3",
+      "wsmc-national-taichung-theater-what-the-building-contains.mp3",
+      "wsmc-national-taichung-theater-a-new-center-for-a-growing-city.mp3"
+    ],
+    "durations": {
+      "wsmc-national-taichung-theater-flight-context.mp3": 47.331875,
+      "wsmc-national-taichung-theater-intro.mp3": 50.9350416,
+      "wsmc-national-taichung-theater-twenty-four-years-from-idea-to-opening.mp3": 67.96625,
+      "wsmc-national-taichung-theater-toyo-itos-curved-tubes.mp3": 56.2811666,
+      "wsmc-national-taichung-theater-what-the-building-contains.mp3": 47.7085,
+      "wsmc-national-taichung-theater-a-new-center-for-a-growing-city.mp3": 55.8184166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

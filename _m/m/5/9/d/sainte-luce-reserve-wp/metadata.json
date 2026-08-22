@@ -87,5 +87,24 @@
   "galleryPaths": [
     "_m/m/5/9/d/sainte-luce-reserve-wp/avahi-meridionalis-001.jpg"
   ],
-  "updatedAt": "2026-06-27T21:44:05.164Z"
+  "updatedAt": "2026-06-27T21:44:05.164Z",
+  "narration": {
+    "files": [
+      "m59d-sainte-luce-reserve-flight-context.mp3",
+      "m59d-sainte-luce-reserve-intro.mp3",
+      "m59d-sainte-luce-reserve-the-forest-on-white-sand.mp3",
+      "m59d-sainte-luce-reserve-lemurs-found-nowhere-else.mp3",
+      "m59d-sainte-luce-reserve-the-palm-and-the-mine.mp3",
+      "m59d-sainte-luce-reserve-a-reserve-run-on-hope.mp3"
+    ],
+    "durations": {
+      "m59d-sainte-luce-reserve-flight-context.mp3": 59.09475,
+      "m59d-sainte-luce-reserve-intro.mp3": 46.7285833,
+      "m59d-sainte-luce-reserve-the-forest-on-white-sand.mp3": 52.2280833,
+      "m59d-sainte-luce-reserve-lemurs-found-nowhere-else.mp3": 54.0485416,
+      "m59d-sainte-luce-reserve-the-palm-and-the-mine.mp3": 51.3475416,
+      "m59d-sainte-luce-reserve-a-reserve-run-on-hope.mp3": 49.06825
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

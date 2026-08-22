@@ -732,5 +732,24 @@
     "_m/w/e/c/n/shanghai-street-wp/hk-ytm-yau-ma-tei-public-squar.jpg",
     "_m/w/e/c/n/shanghai-street-wp/hk-ytm-yau-ma-tei-public-squar-1.jpg"
   ],
-  "updatedAt": "2026-06-29T01:00:24.785Z"
+  "updatedAt": "2026-06-29T01:00:24.785Z",
+  "narration": {
+    "files": [
+      "wecn-shanghai-street-flight-context.mp3",
+      "wecn-shanghai-street-intro.mp3",
+      "wecn-shanghai-street-the-street-before-nathan-road.mp3",
+      "wecn-shanghai-street-the-red-brick-house.mp3",
+      "wecn-shanghai-street-the-ten-shophouses.mp3",
+      "wecn-shanghai-street-conservation-at-scale.mp3"
+    ],
+    "durations": {
+      "wecn-shanghai-street-flight-context.mp3": 66.9557083,
+      "wecn-shanghai-street-intro.mp3": 36.6393333,
+      "wecn-shanghai-street-the-street-before-nathan-road.mp3": 93.63875,
+      "wecn-shanghai-street-the-red-brick-house.mp3": 83.3891666,
+      "wecn-shanghai-street-the-ten-shophouses.mp3": 72.232375,
+      "wecn-shanghai-street-conservation-at-scale.mp3": 95.0391666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

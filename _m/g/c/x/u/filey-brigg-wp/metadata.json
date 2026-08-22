@@ -522,5 +522,24 @@
     "_m/g/c/x/u/filey-brigg-wp/filey-brigg-geograph-org-uk-25-1.jpg",
     "_m/g/c/x/u/filey-brigg-wp/filey-brigg-geograph-org-uk-27.jpg"
   ],
-  "updatedAt": "2026-06-23T14:07:53.194Z"
+  "updatedAt": "2026-06-23T14:07:53.194Z",
+  "narration": {
+    "files": [
+      "gcxu-filey-brigg-flight-context.mp3",
+      "gcxu-filey-brigg-intro.mp3",
+      "gcxu-filey-brigg-a-finger-of-stone.mp3",
+      "gcxu-filey-brigg-the-roman-signal-station.mp3",
+      "gcxu-filey-brigg-erosion-in-progress.mp3",
+      "gcxu-filey-brigg-the-dragon-and-the-parkin.mp3"
+    ],
+    "durations": {
+      "gcxu-filey-brigg-flight-context.mp3": 66.615375,
+      "gcxu-filey-brigg-intro.mp3": 43.2859166,
+      "gcxu-filey-brigg-a-finger-of-stone.mp3": 60.894375,
+      "gcxu-filey-brigg-the-roman-signal-station.mp3": 65.3587083,
+      "gcxu-filey-brigg-erosion-in-progress.mp3": 53.3879166,
+      "gcxu-filey-brigg-the-dragon-and-the-parkin.mp3": 51.658375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -90,5 +90,22 @@
   "galleryPaths": [
     "_m/s/w/b/f/aulis-ancient-greece-wp/rottmann-aulis-1847.jpg"
   ],
-  "updatedAt": "2026-06-24T21:14:50.678Z"
+  "updatedAt": "2026-06-24T21:14:50.678Z",
+  "narration": {
+    "files": [
+      "swbf-aulis-ancient-greece-flight-context.mp3",
+      "swbf-aulis-ancient-greece-intro.mp3",
+      "swbf-aulis-ancient-greece-rocky-aulis.mp3",
+      "swbf-aulis-ancient-greece-the-price-of-a-wind.mp3",
+      "swbf-aulis-ancient-greece-where-legend-touches-ground.mp3"
+    ],
+    "durations": {
+      "swbf-aulis-ancient-greece-flight-context.mp3": 44.45725,
+      "swbf-aulis-ancient-greece-intro.mp3": 51.5165416,
+      "swbf-aulis-ancient-greece-rocky-aulis.mp3": 52.8930833,
+      "swbf-aulis-ancient-greece-the-price-of-a-wind.mp3": 57.940875,
+      "swbf-aulis-ancient-greece-where-legend-touches-ground.mp3": 52.8991666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

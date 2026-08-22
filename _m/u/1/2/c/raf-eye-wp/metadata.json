@@ -106,5 +106,24 @@
     "_m/u/1/2/c/raf-eye-wp/eyeairfield-jan47.png",
     "_m/u/1/2/c/raf-eye-wp/490bg-b17.jpg"
   ],
-  "updatedAt": "2026-06-25T22:13:26.766Z"
+  "updatedAt": "2026-06-25T22:13:26.766Z",
+  "narration": {
+    "files": [
+      "u12c-raf-eye-flight-context.mp3",
+      "u12c-raf-eye-intro.mp3",
+      "u12c-raf-eye-built-in-a-hurry-built-to-standard.mp3",
+      "u12c-raf-eye-the-490th-and-its-missions.mp3",
+      "u12c-raf-eye-after-v-e-day.mp3",
+      "u12c-raf-eye-chicken-litter-and-concrete.mp3"
+    ],
+    "durations": {
+      "u12c-raf-eye-flight-context.mp3": 58.3867916,
+      "u12c-raf-eye-intro.mp3": 61.5762916,
+      "u12c-raf-eye-built-in-a-hurry-built-to-standard.mp3": 77.435375,
+      "u12c-raf-eye-the-490th-and-its-missions.mp3": 79.3870416,
+      "u12c-raf-eye-after-v-e-day.mp3": 60.7009166,
+      "u12c-raf-eye-chicken-litter-and-concrete.mp3": 86.8260833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

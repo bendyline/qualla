@@ -31,7 +31,18 @@
           "Tasman map",
           "Voyage de découvertes aux terres australes"
         ]
-      }
+      },
+      "narration": [
+        "_m/q/f/n/z/st-francis-island-wp/qfnz-st-francis-island-flight-context.mp3",
+        "_m/q/f/n/z/st-francis-island-wp/qfnz-st-francis-island-intro.mp3",
+        "_m/q/f/n/z/st-francis-island-wp/qfnz-st-francis-island-the-accidental-chart.mp3",
+        "_m/q/f/n/z/st-francis-island-wp/qfnz-st-francis-island-the-island-of-birds.mp3",
+        "_m/q/f/n/z/st-francis-island-wp/qfnz-st-francis-island-from-sheep-run-to-sanctuary.mp3",
+        "_m/q/f/n/z/st-francis-island-wp/qfnz-st-francis-island-an-archipelago-of-refuges.mp3"
+      ],
+      "combinedNarration": "_m/q/f/n/z/st-francis-island-wp/qfnz-st-francis-island-combined.mp3",
+      "combinedNarrationBytes": 3299849,
+      "combinedNarrationDuration": 275
     }
   }
 }

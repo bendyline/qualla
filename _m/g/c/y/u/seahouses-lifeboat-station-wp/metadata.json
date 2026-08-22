@@ -325,5 +325,24 @@
     "_m/g/c/y/u/seahouses-lifeboat-station-wp/lifeboat-station-seahouses-geo.jpg",
     "_m/g/c/y/u/seahouses-lifeboat-station-wp/seahouses-lifeboat-station.jpg"
   ],
-  "updatedAt": "2026-06-23T17:54:11.275Z"
+  "updatedAt": "2026-06-23T17:54:11.275Z",
+  "narration": {
+    "files": [
+      "gcyu-seahouses-lifeboat-station-flight-context.mp3",
+      "gcyu-seahouses-lifeboat-station-intro.mp3",
+      "gcyu-seahouses-lifeboat-station-two-villages-one-station.mp3",
+      "gcyu-seahouses-lifeboat-station-the-morning-of-7-september-1838.mp3",
+      "gcyu-seahouses-lifeboat-station-from-oars-to-petrol-engines.mp3",
+      "gcyu-seahouses-lifeboat-station-modern-service.mp3"
+    ],
+    "durations": {
+      "gcyu-seahouses-lifeboat-station-flight-context.mp3": 49.6465,
+      "gcyu-seahouses-lifeboat-station-intro.mp3": 38.7493333,
+      "gcyu-seahouses-lifeboat-station-two-villages-one-station.mp3": 51.8169166,
+      "gcyu-seahouses-lifeboat-station-the-morning-of-7-september-1838.mp3": 61.498125,
+      "gcyu-seahouses-lifeboat-station-from-oars-to-petrol-engines.mp3": 59.6012083,
+      "gcyu-seahouses-lifeboat-station-modern-service.mp3": 72.4066666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

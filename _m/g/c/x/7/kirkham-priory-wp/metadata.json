@@ -323,5 +323,24 @@
     "_m/g/c/x/7/kirkham-priory-wp/derwentside-priory-kirkham-nor.jpg",
     "_m/g/c/x/7/kirkham-priory-wp/car-park-at-kirkham-priory-geo.jpg"
   ],
-  "updatedAt": "2026-06-23T12:04:53.888Z"
+  "updatedAt": "2026-06-23T12:04:53.888Z",
+  "narration": {
+    "files": [
+      "gcx7-kirkham-priory-flight-context.mp3",
+      "gcx7-kirkham-priory-intro.mp3",
+      "gcx7-kirkham-priory-a-boar-in-the-forest.mp3",
+      "gcx7-kirkham-priory-the-gatehouse-bestiary.mp3",
+      "gcx7-kirkham-priory-tanks-in-the-cloister.mp3",
+      "gcx7-kirkham-priory-what-remains.mp3"
+    ],
+    "durations": {
+      "gcx7-kirkham-priory-flight-context.mp3": 45.3794583,
+      "gcx7-kirkham-priory-intro.mp3": 43.54425,
+      "gcx7-kirkham-priory-a-boar-in-the-forest.mp3": 57.9794166,
+      "gcx7-kirkham-priory-the-gatehouse-bestiary.mp3": 57.5569583,
+      "gcx7-kirkham-priory-tanks-in-the-cloister.mp3": 56.174625,
+      "gcx7-kirkham-priory-what-remains.mp3": 48.100375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

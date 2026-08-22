@@ -619,5 +619,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "ketf-pilgrims-rest-flight-context.mp3",
+      "ketf-pilgrims-rest-intro.mp3",
+      "ketf-pilgrims-rest-wheelbarrow-and-the-rush.mp3",
+      "ketf-pilgrims-rest-the-town-that-stayed.mp3",
+      "ketf-pilgrims-rest-uptown-downtown.mp3",
+      "ketf-pilgrims-rest-living-museum-on-the-escarpment.mp3"
+    ],
+    "durations": {
+      "ketf-pilgrims-rest-flight-context.mp3": 60.0624583,
+      "ketf-pilgrims-rest-intro.mp3": 39.030625,
+      "ketf-pilgrims-rest-wheelbarrow-and-the-rush.mp3": 50.77975,
+      "ketf-pilgrims-rest-the-town-that-stayed.mp3": 50.2847916,
+      "ketf-pilgrims-rest-uptown-downtown.mp3": 56.5650416,
+      "ketf-pilgrims-rest-living-museum-on-the-escarpment.mp3": 51.6788333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

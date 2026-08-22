@@ -533,5 +533,24 @@
     "_m/w/e/c/q/clear-water-bay-wp/clear-water-bay-bay-05.jpg",
     "_m/w/e/c/q/clear-water-bay-wp/clear-water-bay-bay-06.jpg"
   ],
-  "updatedAt": "2026-06-29T12:20:25.078Z"
+  "updatedAt": "2026-06-29T12:20:25.078Z",
+  "narration": {
+    "files": [
+      "wecq-clear-water-bay-flight-context.mp3",
+      "wecq-clear-water-bay-intro.mp3",
+      "wecq-clear-water-bay-two-beaches-one-hundred-steps.mp3",
+      "wecq-clear-water-bay-a-peninsula-of-layers.mp3",
+      "wecq-clear-water-bay-dream-factory-on-the-hillside.mp3",
+      "wecq-clear-water-bay-science-and-skyline.mp3"
+    ],
+    "durations": {
+      "wecq-clear-water-bay-flight-context.mp3": 54.551875,
+      "wecq-clear-water-bay-intro.mp3": 34.9175416,
+      "wecq-clear-water-bay-two-beaches-one-hundred-steps.mp3": 67.209125,
+      "wecq-clear-water-bay-a-peninsula-of-layers.mp3": 57.8246666,
+      "wecq-clear-water-bay-dream-factory-on-the-hillside.mp3": 61.0614583,
+      "wecq-clear-water-bay-science-and-skyline.mp3": 55.3903333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

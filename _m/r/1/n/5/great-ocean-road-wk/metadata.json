@@ -909,5 +909,24 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r1n5-great-ocean-road-flight-context.mp3",
+      "r1n5-great-ocean-road-intro.mp3",
+      "r1n5-great-ocean-road-built-by-hand-for-the-fallen.mp3",
+      "r1n5-great-ocean-road-where-the-road-meets-the-sea.mp3",
+      "r1n5-great-ocean-road-the-twelve-apostles.mp3",
+      "r1n5-great-ocean-road-a-coast-that-keeps-changing.mp3"
+    ],
+    "durations": {
+      "r1n5-great-ocean-road-flight-context.mp3": 66.9075833,
+      "r1n5-great-ocean-road-intro.mp3": 45.31875,
+      "r1n5-great-ocean-road-built-by-hand-for-the-fallen.mp3": 54.6165416,
+      "r1n5-great-ocean-road-where-the-road-meets-the-sea.mp3": 47.2077083,
+      "r1n5-great-ocean-road-the-twelve-apostles.mp3": 50.029375,
+      "r1n5-great-ocean-road-a-coast-that-keeps-changing.mp3": 46.8158333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

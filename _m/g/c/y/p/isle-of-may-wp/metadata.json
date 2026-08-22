@@ -632,5 +632,24 @@
     "_m/g/c/y/p/isle-of-may-wp/a-sandy-isle-of-may-geograph-o.jpg",
     "_m/g/c/y/p/isle-of-may-wp/altarstanes-landing-isle-of-ma.jpg"
   ],
-  "updatedAt": "2026-06-23T17:20:40.076Z"
+  "updatedAt": "2026-06-23T17:20:40.076Z",
+  "narration": {
+    "files": [
+      "gcyp-isle-of-may-flight-context.mp3",
+      "gcyp-isle-of-may-intro.mp3",
+      "gcyp-isle-of-may-the-coal-beacon.mp3",
+      "gcyp-isle-of-may-stevensons-castle-on-a-rock.mp3",
+      "gcyp-isle-of-may-pilgrims-plague-and-pups.mp3",
+      "gcyp-isle-of-may-the-seabird-city.mp3"
+    ],
+    "durations": {
+      "gcyp-isle-of-may-flight-context.mp3": 55.2111666,
+      "gcyp-isle-of-may-intro.mp3": 56.1544166,
+      "gcyp-isle-of-may-the-coal-beacon.mp3": 72.13675,
+      "gcyp-isle-of-may-stevensons-castle-on-a-rock.mp3": 67.7867916,
+      "gcyp-isle-of-may-pilgrims-plague-and-pups.mp3": 63.8259166,
+      "gcyp-isle-of-may-the-seabird-city.mp3": 71.2487083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

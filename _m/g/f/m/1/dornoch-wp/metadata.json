@@ -527,5 +527,24 @@
     "_m/g/f/m/1/dornoch-wp/cemetery-dornoch-geograph-org-.jpg",
     "_m/g/f/m/1/dornoch-wp/beach-and-dunes-dornoch-geogra.jpg"
   ],
-  "updatedAt": "2026-06-24T04:07:29.470Z"
+  "updatedAt": "2026-06-24T04:07:29.470Z",
+  "narration": {
+    "files": [
+      "gfm1-dornoch-flight-context.mp3",
+      "gfm1-dornoch-intro.mp3",
+      "gfm1-dornoch-the-pebbly-place.mp3",
+      "gfm1-dornoch-janet-horne.mp3",
+      "gfm1-dornoch-royal-dornoch.mp3",
+      "gfm1-dornoch-madonna-and-the-cathedral.mp3"
+    ],
+    "durations": {
+      "gfm1-dornoch-flight-context.mp3": 55.161125,
+      "gfm1-dornoch-intro.mp3": 51.3561666,
+      "gfm1-dornoch-the-pebbly-place.mp3": 52.347625,
+      "gfm1-dornoch-janet-horne.mp3": 65.381875,
+      "gfm1-dornoch-royal-dornoch.mp3": 54.9820833,
+      "gfm1-dornoch-madonna-and-the-cathedral.mp3": 71.649
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

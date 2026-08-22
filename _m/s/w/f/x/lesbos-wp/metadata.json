@@ -671,5 +671,26 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swfx-lesbos-flight-context.mp3",
+      "swfx-lesbos-intro.mp3",
+      "swfx-lesbos-the-island-of-the-poets.mp3",
+      "swfx-lesbos-castles-lords-and-empires.mp3",
+      "swfx-lesbos-stone-trees-and-hot-springs.mp3",
+      "swfx-lesbos-olive-oil-and-ouzo.mp3",
+      "swfx-lesbos-the-frontline-of-a-crisis.mp3"
+    ],
+    "durations": {
+      "swfx-lesbos-flight-context.mp3": 65.4512916,
+      "swfx-lesbos-intro.mp3": 55.8590416,
+      "swfx-lesbos-the-island-of-the-poets.mp3": 70.6737083,
+      "swfx-lesbos-castles-lords-and-empires.mp3": 79.6723333,
+      "swfx-lesbos-stone-trees-and-hot-springs.mp3": 68.8802083,
+      "swfx-lesbos-olive-oil-and-ouzo.mp3": 65.0527083,
+      "swfx-lesbos-the-frontline-of-a-crisis.mp3": 72.36075
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

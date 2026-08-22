@@ -101,5 +101,26 @@
   "galleryPaths": [
     "_m/g/f/5/q/dunvegan-castle-wp/relief-map-isle-skye-u.jpg",
     "_m/s/t/k/x/second-battle-of-el-alamein-wp/mine-explodes-close-br.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gf5w-sorley-maclean-flight-context.mp3",
+      "gf5w-sorley-maclean-intro.mp3",
+      "gf5w-sorley-maclean-a-raasay-childhood.mp3",
+      "gf5w-sorley-maclean-the-poet-and-the-war.mp3",
+      "gf5w-sorley-maclean-hallaig.mp3",
+      "gf5w-sorley-maclean-saving-a-language.mp3",
+      "gf5w-sorley-maclean-walking-the-wood.mp3"
+    ],
+    "durations": {
+      "gf5w-sorley-maclean-flight-context.mp3": 61.9290833,
+      "gf5w-sorley-maclean-intro.mp3": 40.42475,
+      "gf5w-sorley-maclean-a-raasay-childhood.mp3": 62.6788333,
+      "gf5w-sorley-maclean-the-poet-and-the-war.mp3": 66.078125,
+      "gf5w-sorley-maclean-hallaig.mp3": 60.6257916,
+      "gf5w-sorley-maclean-saving-a-language.mp3": 54.80875,
+      "gf5w-sorley-maclean-walking-the-wood.mp3": 46.1089583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

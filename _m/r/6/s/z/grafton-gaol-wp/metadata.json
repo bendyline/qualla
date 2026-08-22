@@ -55,5 +55,24 @@
     "sourceGeohash4": "r6sz"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "r6sz-grafton-gaol-flight-context.mp3",
+      "r6sz-grafton-gaol-intro.mp3",
+      "r6sz-grafton-gaol-the-third-gaol.mp3",
+      "r6sz-grafton-gaol-the-place-for-the-intractables.mp3",
+      "r6sz-grafton-gaol-a-judge-names-it.mp3",
+      "r6sz-grafton-gaol-after-the-walls.mp3"
+    ],
+    "durations": {
+      "r6sz-grafton-gaol-flight-context.mp3": 47.6654583,
+      "r6sz-grafton-gaol-intro.mp3": 38.1974583,
+      "r6sz-grafton-gaol-the-third-gaol.mp3": 64.6200416,
+      "r6sz-grafton-gaol-the-place-for-the-intractables.mp3": 56.1879583,
+      "r6sz-grafton-gaol-a-judge-names-it.mp3": 55.4757916,
+      "r6sz-grafton-gaol-after-the-walls.mp3": 54.6549166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

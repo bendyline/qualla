@@ -380,5 +380,24 @@
     "_m/q/e/r/m/gunbarrel-highway-wk/victory-downs-sign-northern-te.jpg",
     "_m/q/e/r/m/gunbarrel-highway-wk/gunbarrel-hwy-gibson-desert-na.jpg"
   ],
-  "updatedAt": "2026-06-27T23:25:02.774Z"
+  "updatedAt": "2026-06-27T23:25:02.774Z",
+  "narration": {
+    "files": [
+      "qerm-gunbarrel-highway-flight-context.mp3",
+      "qerm-gunbarrel-highway-intro.mp3",
+      "qerm-gunbarrel-highway-a-road-for-the-bomb.mp3",
+      "qerm-gunbarrel-highway-the-last-great-explorer.mp3",
+      "qerm-gunbarrel-highway-the-hardest-miles.mp3",
+      "qerm-gunbarrel-highway-crossing-country-that-belongs-to-others.mp3"
+    ],
+    "durations": {
+      "qerm-gunbarrel-highway-flight-context.mp3": 81.5464583,
+      "qerm-gunbarrel-highway-intro.mp3": 33.2777083,
+      "qerm-gunbarrel-highway-a-road-for-the-bomb.mp3": 46.7635833,
+      "qerm-gunbarrel-highway-the-last-great-explorer.mp3": 49.3555,
+      "qerm-gunbarrel-highway-the-hardest-miles.mp3": 49.6852916,
+      "qerm-gunbarrel-highway-crossing-country-that-belongs-to-others.mp3": 53.3015833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

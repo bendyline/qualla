@@ -484,5 +484,24 @@
     "_m/w/6/j/e/cam-ranh-wp/ga-nga-ba.jpg",
     "_m/w/6/j/e/cam-ranh-wp/ga-nga-ba-o-xa-cam-phuoc-ong.jpg"
   ],
-  "updatedAt": "2026-06-26T03:03:48.228Z"
+  "updatedAt": "2026-06-26T03:03:48.228Z",
+  "narration": {
+    "files": [
+      "w6je-cam-ranh-flight-context.mp3",
+      "w6je-cam-ranh-intro.mp3",
+      "w6je-cam-ranh-the-champa-legacy.mp3",
+      "w6je-cam-ranh-layers-of-fortification.mp3",
+      "w6je-cam-ranh-after-the-war.mp3",
+      "w6je-cam-ranh-a-city-on-the-bay.mp3"
+    ],
+    "durations": {
+      "w6je-cam-ranh-flight-context.mp3": 53.642375,
+      "w6je-cam-ranh-intro.mp3": 58.200375,
+      "w6je-cam-ranh-the-champa-legacy.mp3": 60.1036666,
+      "w6je-cam-ranh-layers-of-fortification.mp3": 61.4428333,
+      "w6je-cam-ranh-after-the-war.mp3": 54.37425,
+      "w6je-cam-ranh-a-city-on-the-bay.mp3": 63.7856666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

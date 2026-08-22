@@ -151,5 +151,26 @@
     "_m/k/k/b/0/mv-dunedin-star-wp/cruisers-hms-edinburgh.jpg",
     "_m/k/k/b/0/mv-dunedin-star-wp/lockheed-pv-1-ventura.jpg",
     "_m/k/6/g/w/bom-jesus-ship-wp/hero.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kkb0-mv-dunedin-star-flight-context.mp3",
+      "kkb0-mv-dunedin-star-intro.mp3",
+      "kkb0-mv-dunedin-star-a-meat-ship-goes-to-war.mp3",
+      "kkb0-mv-dunedin-star-aground-on-a-killing-shore.mp3",
+      "kkb0-mv-dunedin-star-the-rescue-that-devoured-its-rescuers.mp3",
+      "kkb0-mv-dunedin-star-everyone-home-at-a-price.mp3",
+      "kkb0-mv-dunedin-star-the-coast-that-keeps-its-wrecks.mp3"
+    ],
+    "durations": {
+      "kkb0-mv-dunedin-star-flight-context.mp3": 60.1750833,
+      "kkb0-mv-dunedin-star-intro.mp3": 44.3976666,
+      "kkb0-mv-dunedin-star-a-meat-ship-goes-to-war.mp3": 49.8869583,
+      "kkb0-mv-dunedin-star-aground-on-a-killing-shore.mp3": 53.8415,
+      "kkb0-mv-dunedin-star-the-rescue-that-devoured-its-rescuers.mp3": 59.5968333,
+      "kkb0-mv-dunedin-star-everyone-home-at-a-price.mp3": 47.8453333,
+      "kkb0-mv-dunedin-star-the-coast-that-keeps-its-wrecks.mp3": 47.2839166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

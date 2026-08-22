@@ -61,5 +61,24 @@
     "sourceGeohash4": "qe2u"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qe2u-faure-island-flight-context.mp3",
+      "qe2u-faure-island-intro.mp3",
+      "qe2u-faure-island-a-geographers-island.mp3",
+      "qe2u-faure-island-sheep-cats-and-a-clean-slate.mp3",
+      "qe2u-faure-island-bringing-the-lost-home.mp3",
+      "qe2u-faure-island-an-island-of-birds.mp3"
+    ],
+    "durations": {
+      "qe2u-faure-island-flight-context.mp3": 62.8124583,
+      "qe2u-faure-island-intro.mp3": 56.3219583,
+      "qe2u-faure-island-a-geographers-island.mp3": 60.6471666,
+      "qe2u-faure-island-sheep-cats-and-a-clean-slate.mp3": 59.417625,
+      "qe2u-faure-island-bringing-the-lost-home.mp3": 62.4182916,
+      "qe2u-faure-island-an-island-of-birds.mp3": 61.844375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

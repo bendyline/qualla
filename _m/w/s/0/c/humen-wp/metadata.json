@@ -331,5 +331,26 @@
     "_m/w/s/0/c/humen-wp/a-survey-of-the-tigris-from-ca.jpg",
     "_m/w/s/0/c/humen-wp/ekeberg-utsigt-af-sundet-boucc.jpg"
   ],
-  "updatedAt": "2026-06-29T14:13:53.833Z"
+  "updatedAt": "2026-06-29T14:13:53.833Z",
+  "narration": {
+    "files": [
+      "ws0c-humen-flight-context.mp3",
+      "ws0c-humen-intro.mp3",
+      "ws0c-humen-the-gate-the-world-had-to-pass.mp3",
+      "ws0c-humen-the-destruction-of-the-opium.mp3",
+      "ws0c-humen-the-wars-at-the-gate.mp3",
+      "ws0c-humen-the-port-that-grew-from-the-gate.mp3",
+      "ws0c-humen-the-bridge-across-the-tigers-mouth.mp3"
+    ],
+    "durations": {
+      "ws0c-humen-flight-context.mp3": 69.6558333,
+      "ws0c-humen-intro.mp3": 53.3567083,
+      "ws0c-humen-the-gate-the-world-had-to-pass.mp3": 59.5554166,
+      "ws0c-humen-the-destruction-of-the-opium.mp3": 74.7289583,
+      "ws0c-humen-the-wars-at-the-gate.mp3": 62.2133333,
+      "ws0c-humen-the-port-that-grew-from-the-gate.mp3": 63.57225,
+      "ws0c-humen-the-bridge-across-the-tigers-mouth.mp3": 53.1574583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

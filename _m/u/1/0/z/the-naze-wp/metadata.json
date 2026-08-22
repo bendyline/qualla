@@ -105,5 +105,24 @@
   "galleryPaths": [
     "_m/u/1/0/z/the-naze-wp/naze-tower-photo-sanns.jpg",
     "_m/u/1/0/z/the-naze-wp/naze-air.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u10z-the-naze-flight-context.mp3",
+      "u10z-the-naze-intro.mp3",
+      "u10z-the-naze-the-tower-on-the-cliff.mp3",
+      "u10z-the-naze-wings-on-the-wind.mp3",
+      "u10z-the-naze-two-metres-a-year.mp3",
+      "u10z-the-naze-what-remains.mp3"
+    ],
+    "durations": {
+      "u10z-the-naze-flight-context.mp3": 49.43425,
+      "u10z-the-naze-intro.mp3": 45.8087083,
+      "u10z-the-naze-the-tower-on-the-cliff.mp3": 52.1327916,
+      "u10z-the-naze-wings-on-the-wind.mp3": 41.914875,
+      "u10z-the-naze-two-metres-a-year.mp3": 49.2539583,
+      "u10z-the-naze-what-remains.mp3": 47.8855833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

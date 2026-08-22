@@ -107,5 +107,24 @@
     "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png",
     "_m/tpc/bi/rd/sv/il/birdsville-track/birdsville-overhead.jpg"
   ],
-  "updatedAt": "2026-06-28T06:30:28.792Z"
+  "updatedAt": "2026-06-28T06:30:28.792Z",
+  "narration": {
+    "files": [
+      "r57h-birdsville-airport-flight-context.mp3",
+      "r57h-birdsville-airport-intro.mp3",
+      "r57h-birdsville-airport-the-strip-in-the-gibber.mp3",
+      "r57h-birdsville-airport-the-worlds-longest-mail-run.mp3",
+      "r57h-birdsville-airport-wings-over-an-inland-sea.mp3",
+      "r57h-birdsville-airport-when-the-sky-fills-up.mp3"
+    ],
+    "durations": {
+      "r57h-birdsville-airport-flight-context.mp3": 82.2519583,
+      "r57h-birdsville-airport-intro.mp3": 40.7785416,
+      "r57h-birdsville-airport-the-strip-in-the-gibber.mp3": 58.408375,
+      "r57h-birdsville-airport-the-worlds-longest-mail-run.mp3": 52.9323333,
+      "r57h-birdsville-airport-wings-over-an-inland-sea.mp3": 54.7765833,
+      "r57h-birdsville-airport-when-the-sky-fills-up.mp3": 56.3483333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

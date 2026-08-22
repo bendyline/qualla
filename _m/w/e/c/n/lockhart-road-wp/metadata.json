@@ -555,5 +555,26 @@
     "_m/w/e/c/n/lockhart-road-wp/ascot-mansion.jpg",
     "_m/w/e/c/n/lockhart-road-wp/red-minibus-stop-outside-ascot.jpg"
   ],
-  "updatedAt": "2026-06-26T12:38:21.220Z"
+  "updatedAt": "2026-06-26T12:38:21.220Z",
+  "narration": {
+    "files": [
+      "wecn-lockhart-road-flight-context.mp3",
+      "wecn-lockhart-road-intro.mp3",
+      "wecn-lockhart-road-the-full-length-of-wan-chai.mp3",
+      "wecn-lockhart-road-suzie-wongs-street.mp3",
+      "wecn-lockhart-road-from-red-light-to-mixed-district.mp3",
+      "wecn-lockhart-road-december-2005.mp3",
+      "wecn-lockhart-road-the-name-that-stuck.mp3"
+    ],
+    "durations": {
+      "wecn-lockhart-road-flight-context.mp3": 54.2053333,
+      "wecn-lockhart-road-intro.mp3": 39.5639166,
+      "wecn-lockhart-road-the-full-length-of-wan-chai.mp3": 51.2295,
+      "wecn-lockhart-road-suzie-wongs-street.mp3": 46.4447083,
+      "wecn-lockhart-road-from-red-light-to-mixed-district.mp3": 50.303625,
+      "wecn-lockhart-road-december-2005.mp3": 50.8290416,
+      "wecn-lockhart-road-the-name-that-stuck.mp3": 47.1446666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -67,5 +67,24 @@
     "sourceGeohash4": "wecn"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "wecn-north-point-camp-flight-context.mp3",
+      "wecn-north-point-camp-intro.mp3",
+      "wecn-north-point-camp-before-the-war-a-refugee-camp.mp3",
+      "wecn-north-point-camp-the-prisoners-arrive.mp3",
+      "wecn-north-point-camp-hunger-and-disease.mp3",
+      "wecn-north-point-camp-forgotten-ground.mp3"
+    ],
+    "durations": {
+      "wecn-north-point-camp-flight-context.mp3": 51.265,
+      "wecn-north-point-camp-intro.mp3": 35.2578333,
+      "wecn-north-point-camp-before-the-war-a-refugee-camp.mp3": 46.3620833,
+      "wecn-north-point-camp-the-prisoners-arrive.mp3": 63.2336666,
+      "wecn-north-point-camp-hunger-and-disease.mp3": 54.731375,
+      "wecn-north-point-camp-forgotten-ground.mp3": 56.9709166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

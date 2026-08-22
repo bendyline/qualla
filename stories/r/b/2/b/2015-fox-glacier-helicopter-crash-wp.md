@@ -24,7 +24,7 @@ The Transport Accident Investigation Commission released its report on 23 May 20
 
 ## Accountability and Its Limits
 
-Days before the crash, the CAA had received a complaint about the lack of landing markers on the glacier. In May 2016, the CAA suspended the air operator's certificate of Alpine Adventures owner James Patrick Scott. He and his operations manager Barry Waterland were charged under health and safety legislation. Both pleaded not guilty. The legal proceedings stretched across years -- adjournments, body recoveries, report delays -- before concluding in May 2019 with a $64,000 fine. Scott also paid $125,000 to each of the victims' families. The judge noted that the health and safety failings did not directly cause the crash. In Cambridge, England, Addenbrooke's Hospital named a Radiosurgery Suite after one of the victims -- a quieter form of memorial than courtroom proceedings, but perhaps a more lasting one.
+Days before the crash, the CAA had received a complaint about the lack of landing markers on the glacier. In May 2016, the CAA suspended the air operator's certificate of Alpine Adventures owner James Patrick Scott. He and Aviation Manual Development, the quality-assurance company owned by his operations manager Barry Waterland, were charged under health and safety legislation. Both pleaded guilty. The legal proceedings stretched across years -- adjournments, body recoveries, report delays -- before concluding in May 2019: Scott was fined $64,000, while Waterland's company was found to have no assets and avoided a fine. Scott also paid $125,000 to each of the victims' families. Scott's lawyer argued that the health and safety failings had not directly caused the crash. In Cambridge, England, Addenbrooke's Hospital named a Radiosurgery Suite after one of the victims -- a quieter form of memorial than courtroom proceedings, but perhaps a more lasting one.
 
 ## Flight Context
 
@@ -44,6 +44,8 @@ Located at 43.51S, 170.10E on Fox Glacier's upper reaches in Westland Tai Poutin
   - CAA had identified non-compliances before crash and did not intervene verified
   - $64,000 fine and $125,000 to each victims' family verified
   - Addenbrooke's Hospital Radiosurgery Suite named after victim verified
+- [Review — 2026-07-13](https://www.rnz.co.nz/news/national/389460/fines-handed-down-over-helicopter-crash-that-killed-seven)
+  - Corrected the prosecution account: both defendants (James Scott and Aviation Manual Development Ltd, owned by Barry Waterland) pleaded guilty rather than not guilty; only Scott was fined while Waterland’s company had no assets; and the statement that the failings did not cause the crash was defence counsel’s argument, not the judge’s.
 
 ## Review Notes
 

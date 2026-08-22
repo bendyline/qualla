@@ -160,5 +160,24 @@
     "_m/r/5/h/4/strzelecki-track-wp/d96-wv-banner.jpg",
     "_m/r/5/h/4/strzelecki-track-wk/rusted-car-strezlecki-track.jpg"
   ],
-  "updatedAt": "2026-06-28T06:42:20.079Z"
+  "updatedAt": "2026-06-28T06:42:20.079Z",
+  "narration": {
+    "files": [
+      "r5h4-strzelecki-track-flight-context.mp3",
+      "r5h4-strzelecki-track-intro.mp3",
+      "r5h4-strzelecki-track-the-drivers-reality.mp3",
+      "r5h4-strzelecki-track-moomba-a-town-that-isnt-quite-a-town.mp3",
+      "r5h4-strzelecki-track-cooper-creek-and-the-dig-tree.mp3",
+      "r5h4-strzelecki-track-where-the-track-connects.mp3"
+    ],
+    "durations": {
+      "r5h4-strzelecki-track-flight-context.mp3": 61.0359583,
+      "r5h4-strzelecki-track-intro.mp3": 42.5727083,
+      "r5h4-strzelecki-track-the-drivers-reality.mp3": 63.0221666,
+      "r5h4-strzelecki-track-moomba-a-town-that-isnt-quite-a-town.mp3": 50.865125,
+      "r5h4-strzelecki-track-cooper-creek-and-the-dig-tree.mp3": 53.068125,
+      "r5h4-strzelecki-track-where-the-track-connects.mp3": 47.3728333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

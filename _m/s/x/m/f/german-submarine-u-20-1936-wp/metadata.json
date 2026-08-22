@@ -49,5 +49,26 @@
     "sourceGeohash4": "sxmf"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sxmf-german-submarine-u-20-1936-flight-context.mp3",
+      "sxmf-german-submarine-u-20-1936-intro.mp3",
+      "sxmf-german-submarine-u-20-1936-a-boat-built-for-coastal-waters.mp3",
+      "sxmf-german-submarine-u-20-1936-the-north-sea-years.mp3",
+      "sxmf-german-submarine-u-20-1936-down-the-danube-in-pieces.mp3",
+      "sxmf-german-submarine-u-20-1936-patrols-between-constan-a-and-sevastopol.mp3",
+      "sxmf-german-submarine-u-20-1936-scuttled-and-found.mp3"
+    ],
+    "durations": {
+      "sxmf-german-submarine-u-20-1936-flight-context.mp3": 54.2086666,
+      "sxmf-german-submarine-u-20-1936-intro.mp3": 44.04825,
+      "sxmf-german-submarine-u-20-1936-a-boat-built-for-coastal-waters.mp3": 64.5239166,
+      "sxmf-german-submarine-u-20-1936-the-north-sea-years.mp3": 57.9535416,
+      "sxmf-german-submarine-u-20-1936-down-the-danube-in-pieces.mp3": 53.3598333,
+      "sxmf-german-submarine-u-20-1936-patrols-between-constan-a-and-sevastopol.mp3": 70.634375,
+      "sxmf-german-submarine-u-20-1936-scuttled-and-found.mp3": 63.3358333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

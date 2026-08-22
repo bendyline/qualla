@@ -223,5 +223,24 @@
     "_m/s/w/b/b/attica-wp/1946.jpg",
     "_m/s/w/b/b/attica-wp/athens-greece-banner-erechthei.jpg"
   ],
-  "updatedAt": "2026-05-11T13:19:05.412Z"
+  "updatedAt": "2026-05-11T13:19:05.412Z",
+  "narration": {
+    "files": [
+      "swbb-attica-flight-context.mp3",
+      "swbb-attica-intro.mp3",
+      "swbb-attica-a-triangle-in-the-aegean.mp3",
+      "swbb-attica-silver-in-the-south.mp3",
+      "swbb-attica-the-shape-of-democracy.mp3",
+      "swbb-attica-gods-in-every-grove.mp3"
+    ],
+    "durations": {
+      "swbb-attica-flight-context.mp3": 51.1777083,
+      "swbb-attica-intro.mp3": 36.9642083,
+      "swbb-attica-a-triangle-in-the-aegean.mp3": 50.1496666,
+      "swbb-attica-silver-in-the-south.mp3": 44.71775,
+      "swbb-attica-the-shape-of-democracy.mp3": 51.131125,
+      "swbb-attica-gods-in-every-grove.mp3": 58.3043333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

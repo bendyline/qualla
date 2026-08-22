@@ -59,5 +59,24 @@
     "sourceGeohash4": "wecn"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "wecn-battle-of-kowloon-flight-context.mp3",
+      "wecn-battle-of-kowloon-intro.mp3",
+      "wecn-battle-of-kowloon-a-death-an-embargo-and-a-stalemate.mp3",
+      "wecn-battle-of-kowloon-interpreter-between-two-ultimatums.mp3",
+      "wecn-battle-of-kowloon-104-rounds-and-a-stalemate.mp3",
+      "wecn-battle-of-kowloon-the-first-shot-and-what-it-started.mp3"
+    ],
+    "durations": {
+      "wecn-battle-of-kowloon-flight-context.mp3": 57.6451666,
+      "wecn-battle-of-kowloon-intro.mp3": 54.07325,
+      "wecn-battle-of-kowloon-a-death-an-embargo-and-a-stalemate.mp3": 86.9072083,
+      "wecn-battle-of-kowloon-interpreter-between-two-ultimatums.mp3": 84.8625416,
+      "wecn-battle-of-kowloon-104-rounds-and-a-stalemate.mp3": 65.72825,
+      "wecn-battle-of-kowloon-the-first-shot-and-what-it-started.mp3": 78.956
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

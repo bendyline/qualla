@@ -83,5 +83,24 @@
   "galleryPaths": [
     "_m/w/6/s/9/operation-macarthur-wp/uh-1d-operation-macarthur-viet.jpg"
   ],
-  "updatedAt": "2026-06-26T03:32:05.154Z"
+  "updatedAt": "2026-06-26T03:32:05.154Z",
+  "narration": {
+    "files": [
+      "w6s9-operation-macarthur-flight-context.mp3",
+      "w6s9-operation-macarthur-intro.mp3",
+      "w6s9-operation-macarthur-the-b3-front.mp3",
+      "w6s9-operation-macarthur-dak-to-the-november-crisis.mp3",
+      "w6s9-operation-macarthur-the-long-middle.mp3",
+      "w6s9-operation-macarthur-deeper-into-the-highlands.mp3"
+    ],
+    "durations": {
+      "w6s9-operation-macarthur-flight-context.mp3": 60.0387916,
+      "w6s9-operation-macarthur-intro.mp3": 37.326375,
+      "w6s9-operation-macarthur-the-b3-front.mp3": 71.5801666,
+      "w6s9-operation-macarthur-dak-to-the-november-crisis.mp3": 87.71825,
+      "w6s9-operation-macarthur-the-long-middle.mp3": 76.352125,
+      "w6s9-operation-macarthur-deeper-into-the-highlands.mp3": 83.25475
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

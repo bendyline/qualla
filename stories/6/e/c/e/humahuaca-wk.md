@@ -8,7 +8,7 @@ A high-desert town named for the people who lived here long before Argentina, wh
 
 ## Introduction
 
-The town gave the whole canyon its name, and the canyon gave the town its character. Humahuaca sits at roughly 2,939 meters in the far north of Argentina, a ranching center of just over ten thousand people, ringed by cactus and mountains so vividly striped they look painted. The whitewashed adobe, the dust, the dry brilliant light - travelers from the American Southwest say it reminds them of Arizona or New Mexico, and they are not wrong. But the name carries something older than any frontier town. Humahuaca is named for the Omaguaca, the people who lived in this valley for centuries before a Spaniard ever set foot in it.
+The town gave the whole canyon its name, and the canyon gave the town its character. Humahuaca sits at roughly 2,939 meters in the far north of Argentina, a ranching center of nearly sixteen thousand people, ringed by cactus and mountains so vividly striped they look painted. The whitewashed adobe, the dust, the dry brilliant light - travelers from the American Southwest say it reminds them of Arizona or New Mexico, and they are not wrong. But the name carries something older than any frontier town. Humahuaca is named for the Omaguaca, the people who lived in this valley for centuries before a Spaniard ever set foot in it.
 
 ## The People Behind the Name
 
@@ -37,6 +37,19 @@ Humahuaca lies at 23.21°S, 65.35°W, near the northern end of the Quebrada de H
 ## Sources
 
 - [Humahuaca - Wikivoyage](https://en.wikivoyage.org/?curid=15201)
+- [Humahuaca (Humahuaca, Jujuy, Argentina) - Population Statistics](https://citypopulation.de/en/argentina/jujuy/humahuaca/38028040__humahuaca/)
+  - Corrected: population updated from stale 2001 census figure ("just over ten thousand") to 2022 census figure of 15,992 ("nearly sixteen thousand")
+  - Monument to the Heroes of Independence: nine-meter bronze figure by Ernesto Soto Avendaño, inaugurated 1950
+  - Town named for the Omaguaca people
+  - Elevation approximately 2,939-3,000 meters
+
+## Review Notes
+
+**Reviewed:** 2026-07-14 · 4 facts verified · 1 correction
+
+Corrected stale population figure: 'just over ten thousand' (2001 census, 11,369) updated to 'nearly sixteen thousand' (2022 census, 15,992). Verified monument details (9m bronze, Ernesto Soto Avendaño, 1950), Omaguaca naming, and elevation. Spiciness 2.
+
+**Spiciness:** 2/5
 
 ---
 

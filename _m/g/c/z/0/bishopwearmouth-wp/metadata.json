@@ -57,5 +57,24 @@
     "sourceGeohash4": "gcz0"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcz0-bishopwearmouth-flight-context.mp3",
+      "gcz0-bishopwearmouth-intro.mp3",
+      "gcz0-bishopwearmouth-the-bishops-land.mp3",
+      "gcz0-bishopwearmouth-the-rectory-and-the-door.mp3",
+      "gcz0-bishopwearmouth-three-children-of-the-village.mp3",
+      "gcz0-bishopwearmouth-sunderland-minster.mp3"
+    ],
+    "durations": {
+      "gcz0-bishopwearmouth-flight-context.mp3": 41.8962083,
+      "gcz0-bishopwearmouth-intro.mp3": 48.3054166,
+      "gcz0-bishopwearmouth-the-bishops-land.mp3": 51.8232083,
+      "gcz0-bishopwearmouth-the-rectory-and-the-door.mp3": 53.6778333,
+      "gcz0-bishopwearmouth-three-children-of-the-village.mp3": 57.2492916,
+      "gcz0-bishopwearmouth-sunderland-minster.mp3": 47.6938333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

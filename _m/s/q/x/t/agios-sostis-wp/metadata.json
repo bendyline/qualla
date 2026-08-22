@@ -96,5 +96,26 @@
   ],
   "galleryPaths": [
     "_m/s/q/x/t/agios-sostis-wp/church-agiannis-agios.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sqxt-agios-sostis-flight-context.mp3",
+      "sqxt-agios-sostis-intro.mp3",
+      "sqxt-agios-sostis-where-three-regions-meet.mp3",
+      "sqxt-agios-sostis-the-monastery-beneath-the-church.mp3",
+      "sqxt-agios-sostis-a-feast-that-holds-the-region-together.mp3",
+      "sqxt-agios-sostis-shadow-of-mount-lykaion.mp3",
+      "sqxt-agios-sostis-agios-sostis-from-the-air.mp3"
+    ],
+    "durations": {
+      "sqxt-agios-sostis-flight-context.mp3": 37.1953333,
+      "sqxt-agios-sostis-intro.mp3": 38.3755,
+      "sqxt-agios-sostis-where-three-regions-meet.mp3": 77.5365833,
+      "sqxt-agios-sostis-the-monastery-beneath-the-church.mp3": 62.9146666,
+      "sqxt-agios-sostis-a-feast-that-holds-the-region-together.mp3": 63.73775,
+      "sqxt-agios-sostis-shadow-of-mount-lykaion.mp3": 63.10325,
+      "sqxt-agios-sostis-agios-sostis-from-the-air.mp3": 56.3842916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

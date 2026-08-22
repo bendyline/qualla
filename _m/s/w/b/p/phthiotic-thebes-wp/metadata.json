@@ -56,5 +56,26 @@
     "sourceGeohash4": "swbp"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "swbp-phthiotic-thebes-flight-context.mp3",
+      "swbp-phthiotic-thebes-intro.mp3",
+      "swbp-phthiotic-thebes-a-city-of-the-crocus-field.mp3",
+      "swbp-phthiotic-thebes-walls-and-cyclopean-stone.mp3",
+      "swbp-phthiotic-thebes-conquered-restored-renamed-again.mp3",
+      "swbp-phthiotic-thebes-nine-basilicas.mp3",
+      "swbp-phthiotic-thebes-the-fire-and-the-long-silence.mp3"
+    ],
+    "durations": {
+      "swbp-phthiotic-thebes-flight-context.mp3": 44.1868333,
+      "swbp-phthiotic-thebes-intro.mp3": 44.564,
+      "swbp-phthiotic-thebes-a-city-of-the-crocus-field.mp3": 48.1015,
+      "swbp-phthiotic-thebes-walls-and-cyclopean-stone.mp3": 54.512125,
+      "swbp-phthiotic-thebes-conquered-restored-renamed-again.mp3": 54.862375,
+      "swbp-phthiotic-thebes-nine-basilicas.mp3": 60.41275,
+      "swbp-phthiotic-thebes-the-fire-and-the-long-silence.mp3": 58.605125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

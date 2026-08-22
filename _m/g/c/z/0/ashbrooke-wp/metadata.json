@@ -60,5 +60,24 @@
     "sourceGeohash4": "gcz0"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcz0-ashbrooke-flight-context.mp3",
+      "gcz0-ashbrooke-intro.mp3",
+      "gcz0-ashbrooke-sunderlands-first-suburb.mp3",
+      "gcz0-ashbrooke-ashbrooke-launderette.mp3",
+      "gcz0-ashbrooke-sport-on-the-green.mp3",
+      "gcz0-ashbrooke-view-from-the-air.mp3"
+    ],
+    "durations": {
+      "gcz0-ashbrooke-flight-context.mp3": 40.326375,
+      "gcz0-ashbrooke-intro.mp3": 47.9765833,
+      "gcz0-ashbrooke-sunderlands-first-suburb.mp3": 52.3146666,
+      "gcz0-ashbrooke-ashbrooke-launderette.mp3": 47.7592083,
+      "gcz0-ashbrooke-sport-on-the-green.mp3": 53.7560416,
+      "gcz0-ashbrooke-view-from-the-air.mp3": 38.17725
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

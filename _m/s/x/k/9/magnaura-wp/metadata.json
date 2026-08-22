@@ -81,5 +81,24 @@
   ],
   "galleryPaths": [
     "_m/s/x/k/9/basilica-cistern-wp/imperial-district-byza.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-magnaura-flight-context.mp3",
+      "sxk9-magnaura-intro.mp3",
+      "sxk9-magnaura-the-great-hall-of-empire.mp3",
+      "sxk9-magnaura-the-automata-and-the-theater-of-power.mp3",
+      "sxk9-magnaura-learning-in-the-shadow-of-the-throne.mp3",
+      "sxk9-magnaura-what-remains.mp3"
+    ],
+    "durations": {
+      "sxk9-magnaura-flight-context.mp3": 62.22175,
+      "sxk9-magnaura-intro.mp3": 64.0337083,
+      "sxk9-magnaura-the-great-hall-of-empire.mp3": 68.5176666,
+      "sxk9-magnaura-the-automata-and-the-theater-of-power.mp3": 85.40625,
+      "sxk9-magnaura-learning-in-the-shadow-of-the-throne.mp3": 63.2512083,
+      "sxk9-magnaura-what-remains.mp3": 61.678875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

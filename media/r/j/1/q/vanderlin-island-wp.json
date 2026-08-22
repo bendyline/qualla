@@ -31,7 +31,18 @@
           "Tasman map",
           "Voyage de découvertes aux terres australes"
         ]
-      }
+      },
+      "narration": [
+        "_m/r/j/1/q/vanderlin-island-wp/rj1q-vanderlin-island-flight-context.mp3",
+        "_m/r/j/1/q/vanderlin-island-wp/rj1q-vanderlin-island-intro.mp3",
+        "_m/r/j/1/q/vanderlin-island-wp/rj1q-vanderlin-island-an-island-of-deep-time.mp3",
+        "_m/r/j/1/q/vanderlin-island-wp/rj1q-vanderlin-island-trade-winds-and-tamarind-trees.mp3",
+        "_m/r/j/1/q/vanderlin-island-wp/rj1q-vanderlin-island-four-outstations-on-the-west-coast.mp3",
+        "_m/r/j/1/q/vanderlin-island-wp/rj1q-vanderlin-island-the-sea-that-made-it-home.mp3"
+      ],
+      "combinedNarration": "_m/r/j/1/q/vanderlin-island-wp/rj1q-vanderlin-island-combined.mp3",
+      "combinedNarrationBytes": 3112973,
+      "combinedNarrationDuration": 259
     }
   }
 }

@@ -28,7 +28,7 @@ On 2 October 1904, von Trotha put the policy into words. His extermination order
 
 ## What Is Remembered Here
 
-Samuel Maharero and about a thousand followers fought their way across the Kalahari into British-held Bechuanaland and survived in exile. The battlefield now lies inside Waterberg Plateau Park, a place of antelope and birdsong. Two memorials stand near each other in uneasy company: a graveyard for the German soldiers who fell, and a stone raised to the Ovaherero who died here and in the desert beyond. In 2021 the German government acknowledged the killings as genocide and pledged development aid, while many Ovaherero and Nama descendants rejected the deal for excluding them from the table and avoiding the word reparations. The reckoning, more than a century on, is not finished. The springs still run. The land remembers what was done to the people who came here for water.
+Samuel Maharero and about a thousand followers fought their way across the Kalahari into British-held Bechuanaland (now Botswana) and survived in exile. The battlefield now lies inside Waterberg Plateau Park, a place of antelope and birdsong. Two memorials stand near each other in uneasy company: a graveyard for the German soldiers who fell, and a stone raised to the Ovaherero who died here and in the desert beyond. In 2021 the German government acknowledged the killings as genocide and pledged development aid, while many Ovaherero and Nama descendants rejected the deal for excluding them from the table and avoiding the word reparations. The reckoning, more than a century on, is not finished. The springs still run. The land remembers what was done to the people who came here for water.
 
 ## Flight Context
 

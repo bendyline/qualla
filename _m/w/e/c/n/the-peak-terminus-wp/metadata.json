@@ -631,5 +631,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecn-the-peak-terminus-flight-context.mp3",
+      "wecn-the-peak-terminus-intro.mp3",
+      "wecn-the-peak-terminus-the-tram-that-changed-the-peak.mp3",
+      "wecn-the-peak-terminus-a-station-inside-a-wok.mp3",
+      "wecn-the-peak-terminus-the-view-that-earns-its-reputation.mp3",
+      "wecn-the-peak-terminus-neighbours-at-the-gap.mp3"
+    ],
+    "durations": {
+      "wecn-the-peak-terminus-flight-context.mp3": 56.2,
+      "wecn-the-peak-terminus-intro.mp3": 40.7064583,
+      "wecn-the-peak-terminus-the-tram-that-changed-the-peak.mp3": 58.1794166,
+      "wecn-the-peak-terminus-a-station-inside-a-wok.mp3": 52.533375,
+      "wecn-the-peak-terminus-the-view-that-earns-its-reputation.mp3": 58.5305,
+      "wecn-the-peak-terminus-neighbours-at-the-gap.mp3": 51.4040833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

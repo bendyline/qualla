@@ -661,5 +661,24 @@
     "_m/w/s/1/0/window-of-the-world-wp/scale-model-of-the-leaning-tow.jpg",
     "_m/w/s/1/0/window-of-the-world-wp/scale-model-of-the-palace-of-v.jpg"
   ],
-  "updatedAt": "2026-06-29T17:16:06.751Z"
+  "updatedAt": "2026-06-29T17:16:06.751Z",
+  "narration": {
+    "files": [
+      "ws10-window-of-the-world-flight-context.mp3",
+      "ws10-window-of-the-world-intro.mp3",
+      "ws10-window-of-the-world-the-world-in-48-hectares.mp3",
+      "ws10-window-of-the-world-from-pyramids-to-the-pacific-northwest.mp3",
+      "ws10-window-of-the-world-shenzhens-particular-ambition.mp3",
+      "ws10-window-of-the-world-what-the-reproductions-reveal.mp3"
+    ],
+    "durations": {
+      "ws10-window-of-the-world-flight-context.mp3": 51.2585416,
+      "ws10-window-of-the-world-intro.mp3": 40.4635416,
+      "ws10-window-of-the-world-the-world-in-48-hectares.mp3": 63.2245,
+      "ws10-window-of-the-world-from-pyramids-to-the-pacific-northwest.mp3": 74.4005833,
+      "ws10-window-of-the-world-shenzhens-particular-ambition.mp3": 61.1209583,
+      "ws10-window-of-the-world-what-the-reproductions-reveal.mp3": 61.9982916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

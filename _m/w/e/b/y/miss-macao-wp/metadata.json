@@ -53,5 +53,24 @@
     "sourceGeohash4": "weby"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "weby-miss-macao-flight-context.mp3",
+      "weby-miss-macao-intro.mp3",
+      "weby-miss-macao-a-gang-with-a-plan-and-a-pilot-who-refused.mp3",
+      "weby-miss-macao-the-twenty-five.mp3",
+      "weby-miss-macao-the-jurisdictional-void.mp3",
+      "weby-miss-macao-first-of-a-kind.mp3"
+    ],
+    "durations": {
+      "weby-miss-macao-flight-context.mp3": 52.6452083,
+      "weby-miss-macao-intro.mp3": 39.9685,
+      "weby-miss-macao-a-gang-with-a-plan-and-a-pilot-who-refused.mp3": 65.1487083,
+      "weby-miss-macao-the-twenty-five.mp3": 62.915625,
+      "weby-miss-macao-the-jurisdictional-void.mp3": 60.87475,
+      "weby-miss-macao-first-of-a-kind.mp3": 56.7799583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

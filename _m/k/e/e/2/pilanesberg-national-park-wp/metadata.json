@@ -674,5 +674,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kee2-pilanesberg-national-park-flight-context.mp3",
+      "kee2-pilanesberg-national-park-intro.mp3",
+      "kee2-pilanesberg-national-park-the-bones-of-a-mountain.mp3",
+      "kee2-pilanesberg-national-park-operation-genesis.mp3",
+      "kee2-pilanesberg-national-park-a-land-two-worlds-wide.mp3",
+      "kee2-pilanesberg-national-park-the-people-who-named-it.mp3"
+    ],
+    "durations": {
+      "kee2-pilanesberg-national-park-flight-context.mp3": 57.4472916,
+      "kee2-pilanesberg-national-park-intro.mp3": 50.053125,
+      "kee2-pilanesberg-national-park-the-bones-of-a-mountain.mp3": 52.5734583,
+      "kee2-pilanesberg-national-park-operation-genesis.mp3": 57.5882083,
+      "kee2-pilanesberg-national-park-a-land-two-worlds-wide.mp3": 74.006,
+      "kee2-pilanesberg-national-park-the-people-who-named-it.mp3": 45.9507916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

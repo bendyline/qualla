@@ -664,5 +664,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "webw-macau-tower-flight-context.mp3",
+      "webw-macau-tower-intro.mp3",
+      "webw-macau-tower-a-new-zealand-idea-in-a-chinese-city.mp3",
+      "webw-macau-tower-the-outer-rim.mp3",
+      "webw-macau-tower-cameras-and-celebrity.mp3",
+      "webw-macau-tower-what-it-means-to-the-skyline.mp3"
+    ],
+    "durations": {
+      "webw-macau-tower-flight-context.mp3": 72.4020416,
+      "webw-macau-tower-intro.mp3": 54.1315416,
+      "webw-macau-tower-a-new-zealand-idea-in-a-chinese-city.mp3": 53.6151666,
+      "webw-macau-tower-the-outer-rim.mp3": 57.208,
+      "webw-macau-tower-cameras-and-celebrity.mp3": 61.0418333,
+      "webw-macau-tower-what-it-means-to-the-skyline.mp3": 67.2120833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

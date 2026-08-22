@@ -63,5 +63,24 @@
     "sourceGeohash4": "r523"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "r523-dalhousie-station-flight-context.mp3",
+      "r523-dalhousie-station-intro.mp3",
+      "r523-dalhousie-station-a-surveyors-reward.mp3",
+      "r523-dalhousie-station-living-on-the-edge-of-the-desert.mp3",
+      "r523-dalhousie-station-the-palms-that-stayed.mp3",
+      "r523-dalhousie-station-what-the-stone-remembers.mp3"
+    ],
+    "durations": {
+      "r523-dalhousie-station-flight-context.mp3": 62.3695,
+      "r523-dalhousie-station-intro.mp3": 44.589125,
+      "r523-dalhousie-station-a-surveyors-reward.mp3": 53.708625,
+      "r523-dalhousie-station-living-on-the-edge-of-the-desert.mp3": 62.2143333,
+      "r523-dalhousie-station-the-palms-that-stayed.mp3": 49.603875,
+      "r523-dalhousie-station-what-the-stone-remembers.mp3": 52.750375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -55,5 +55,24 @@
     "sourceGeohash4": "gfm0"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gfm0-hilton-of-cadboll-chapel-flight-context.mp3",
+      "gfm0-hilton-of-cadboll-chapel-intro.mp3",
+      "gfm0-hilton-of-cadboll-chapel-a-layered-holy-place.mp3",
+      "gfm0-hilton-of-cadboll-chapel-the-enclosures.mp3",
+      "gfm0-hilton-of-cadboll-chapel-children-buried-in-order.mp3",
+      "gfm0-hilton-of-cadboll-chapel-where-the-stone-stood.mp3"
+    ],
+    "durations": {
+      "gfm0-hilton-of-cadboll-chapel-flight-context.mp3": 49.3067916,
+      "gfm0-hilton-of-cadboll-chapel-intro.mp3": 40.2432916,
+      "gfm0-hilton-of-cadboll-chapel-a-layered-holy-place.mp3": 55.3515,
+      "gfm0-hilton-of-cadboll-chapel-the-enclosures.mp3": 49.41075,
+      "gfm0-hilton-of-cadboll-chapel-children-buried-in-order.mp3": 47.0945833,
+      "gfm0-hilton-of-cadboll-chapel-where-the-stone-stood.mp3": 62.8090833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

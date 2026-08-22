@@ -118,5 +118,24 @@
   "galleryPaths": [
     "_m/r/j/p/r/cooktown-museum-wp/hero.jpg",
     "_m/tpc/ja/me/s-/co/james-cook/captain-cook-statue.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "rjr2-cooktown-flight-context.mp3",
+      "rjr2-cooktown-intro.mp3",
+      "rjr2-cooktown-gold-then-silence.mp3",
+      "rjr2-cooktown-the-view-from-grassy-hill.mp3",
+      "rjr2-cooktown-two-stories-one-june.mp3",
+      "rjr2-cooktown-crocodiles-and-mango-trees.mp3"
+    ],
+    "durations": {
+      "rjr2-cooktown-flight-context.mp3": 54.4120833,
+      "rjr2-cooktown-intro.mp3": 35.8789166,
+      "rjr2-cooktown-gold-then-silence.mp3": 50.8376666,
+      "rjr2-cooktown-the-view-from-grassy-hill.mp3": 48.40725,
+      "rjr2-cooktown-two-stories-one-june.mp3": 43.8648333,
+      "rjr2-cooktown-crocodiles-and-mango-trees.mp3": 46.1012916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

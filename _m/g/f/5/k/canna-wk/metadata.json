@@ -61,5 +61,26 @@
     "sourceGeohash4": "gf5k"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gf5k-canna-flight-context.mp3",
+      "gf5k-canna-intro.mp3",
+      "gf5k-canna-the-westernmost-small-isle.mp3",
+      "gf5k-canna-compass-hill.mp3",
+      "gf5k-canna-john-lorne-campbells-canna.mp3",
+      "gf5k-canna-the-rocket-church-and-the-celtic-cross.mp3",
+      "gf5k-canna-rat-free-since-2008.mp3"
+    ],
+    "durations": {
+      "gf5k-canna-flight-context.mp3": 65.6442083,
+      "gf5k-canna-intro.mp3": 43.6352083,
+      "gf5k-canna-the-westernmost-small-isle.mp3": 54.8200416,
+      "gf5k-canna-compass-hill.mp3": 43.7330833,
+      "gf5k-canna-john-lorne-campbells-canna.mp3": 53.3868333,
+      "gf5k-canna-the-rocket-church-and-the-celtic-cross.mp3": 57.1372916,
+      "gf5k-canna-rat-free-since-2008.mp3": 43.7349583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -56,5 +56,26 @@
     "sourceGeohash4": "swb7"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "swb7-kalapodi-flight-context.mp3",
+      "swb7-kalapodi-intro.mp3",
+      "swb7-kalapodi-the-crossroads-at-the-heart-of-phocis.mp3",
+      "swb7-kalapodi-layer-upon-layer-the-archaeological-riddle.mp3",
+      "swb7-kalapodi-the-oracle-riddle.mp3",
+      "swb7-kalapodi-what-the-excavations-revealed.mp3",
+      "swb7-kalapodi-a-village-above-its-own-past.mp3"
+    ],
+    "durations": {
+      "swb7-kalapodi-flight-context.mp3": 53.5242916,
+      "swb7-kalapodi-intro.mp3": 42.2665833,
+      "swb7-kalapodi-the-crossroads-at-the-heart-of-phocis.mp3": 78.6524583,
+      "swb7-kalapodi-layer-upon-layer-the-archaeological-riddle.mp3": 95.2789583,
+      "swb7-kalapodi-the-oracle-riddle.mp3": 79.2155833,
+      "swb7-kalapodi-what-the-excavations-revealed.mp3": 88.8257916,
+      "swb7-kalapodi-a-village-above-its-own-past.mp3": 46.7103333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -201,5 +201,24 @@
     "_m/s/w/b/4/mount-helicon-wp/plataia-acropolis-se-wall-01.jpg",
     "_m/s/w/b/4/mount-helicon-wp/forest-in-elikonas.jpg"
   ],
-  "updatedAt": "2026-06-24T16:41:09.928Z"
+  "updatedAt": "2026-06-24T16:41:09.928Z",
+  "narration": {
+    "files": [
+      "swb4-mount-helicon-flight-context.mp3",
+      "swb4-mount-helicon-intro.mp3",
+      "swb4-mount-helicon-where-pegasus-struck-the-rock.mp3",
+      "swb4-mount-helicon-the-valley-of-the-muses.mp3",
+      "swb4-mount-helicon-poetry-written-in-stone-and-water.mp3",
+      "swb4-mount-helicon-monks-musicians-and-milton.mp3"
+    ],
+    "durations": {
+      "swb4-mount-helicon-flight-context.mp3": 58.8825,
+      "swb4-mount-helicon-intro.mp3": 47.60575,
+      "swb4-mount-helicon-where-pegasus-struck-the-rock.mp3": 73.4495,
+      "swb4-mount-helicon-the-valley-of-the-muses.mp3": 66.1375833,
+      "swb4-mount-helicon-poetry-written-in-stone-and-water.mp3": 70.3672916,
+      "swb4-mount-helicon-monks-musicians-and-milton.mp3": 75.6097083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -937,5 +937,24 @@
     "_m/g/c/w/f/bradford-industrial-museum-wp/bradford-industrial-museum-geo.jpg",
     "_m/g/c/w/f/bradford-industrial-museum-wp/bradford-industrial-museum-ste.jpg"
   ],
-  "updatedAt": "2026-06-23T08:21:30.462Z"
+  "updatedAt": "2026-06-23T08:21:30.462Z",
+  "narration": {
+    "files": [
+      "gcwf-bradford-industrial-museum-flight-context.mp3",
+      "gcwf-bradford-industrial-museum-intro.mp3",
+      "gcwf-bradford-industrial-museum-a-worsted-mill-turned-museum.mp3",
+      "gcwf-bradford-industrial-museum-wheels-and-wires.mp3",
+      "gcwf-bradford-industrial-museum-domestic-looms.mp3",
+      "gcwf-bradford-industrial-museum-living-history.mp3"
+    ],
+    "durations": {
+      "gcwf-bradford-industrial-museum-flight-context.mp3": 46.685375,
+      "gcwf-bradford-industrial-museum-intro.mp3": 49.6720416,
+      "gcwf-bradford-industrial-museum-a-worsted-mill-turned-museum.mp3": 55.8952083,
+      "gcwf-bradford-industrial-museum-wheels-and-wires.mp3": 55.7468333,
+      "gcwf-bradford-industrial-museum-domestic-looms.mp3": 49.686625,
+      "gcwf-bradford-industrial-museum-living-history.mp3": 62.7594166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

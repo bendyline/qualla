@@ -65,5 +65,26 @@
     "sourceGeohash4": "sw86"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sw86-ss-slamat-flight-context.mp3",
+      "sw86-ss-slamat-intro.mp3",
+      "sw86-ss-slamat-born-on-the-scheldt.mp3",
+      "sw86-ss-slamat-dove-grey-to-wartime-grey.mp3",
+      "sw86-ss-slamat-the-long-detour.mp3",
+      "sw86-ss-slamat-the-last-night-at-anchor.mp3",
+      "sw86-ss-slamat-what-remained.mp3"
+    ],
+    "durations": {
+      "sw86-ss-slamat-flight-context.mp3": 53.6628333,
+      "sw86-ss-slamat-intro.mp3": 48.3659583,
+      "sw86-ss-slamat-born-on-the-scheldt.mp3": 56.030375,
+      "sw86-ss-slamat-dove-grey-to-wartime-grey.mp3": 91.4647916,
+      "sw86-ss-slamat-the-long-detour.mp3": 73.064375,
+      "sw86-ss-slamat-the-last-night-at-anchor.mp3": 70.7230833,
+      "sw86-ss-slamat-what-remained.mp3": 68.742375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

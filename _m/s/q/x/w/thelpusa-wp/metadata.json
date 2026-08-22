@@ -61,5 +61,24 @@
     "sourceGeohash4": "sqxw"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sqxw-thelpusa-flight-context.mp3",
+      "sqxw-thelpusa-intro.mp3",
+      "sqxw-thelpusa-a-city-named-for-a-nymph.mp3",
+      "sqxw-thelpusa-demeter-erinys-and-the-temple-below.mp3",
+      "sqxw-thelpusa-ruins-on-a-hillside.mp3",
+      "sqxw-thelpusa-what-remains.mp3"
+    ],
+    "durations": {
+      "sqxw-thelpusa-flight-context.mp3": 47.7460833,
+      "sqxw-thelpusa-intro.mp3": 52.5199583,
+      "sqxw-thelpusa-a-city-named-for-a-nymph.mp3": 87.7971666,
+      "sqxw-thelpusa-demeter-erinys-and-the-temple-below.mp3": 100.32825,
+      "sqxw-thelpusa-ruins-on-a-hillside.mp3": 97.7526666,
+      "sqxw-thelpusa-what-remains.mp3": 68.899625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

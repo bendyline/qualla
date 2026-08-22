@@ -575,5 +575,24 @@
     "_m/g/f/j/s/lochnagar-wp/cornice-remains-on-the-plateau.jpg",
     "_m/g/f/j/s/lochnagar-wp/lochnagar-from-culardoch-geogr.jpg"
   ],
-  "updatedAt": "2026-06-24T01:59:29.744Z"
+  "updatedAt": "2026-06-24T01:59:29.744Z",
+  "narration": {
+    "files": [
+      "gfjs-lochnagar-flight-context.mp3",
+      "gfjs-lochnagar-intro.mp3",
+      "gfjs-lochnagar-a-mountain-with-three-names.mp3",
+      "gfjs-lochnagar-the-corrie-and-the-cliffs.mp3",
+      "gfjs-lochnagar-royal-climbs-and-wild-birds.mp3",
+      "gfjs-lochnagar-alpine-weather-at-56-degrees-north.mp3"
+    ],
+    "durations": {
+      "gfjs-lochnagar-flight-context.mp3": 83.4447916,
+      "gfjs-lochnagar-intro.mp3": 40.17625,
+      "gfjs-lochnagar-a-mountain-with-three-names.mp3": 63.2047916,
+      "gfjs-lochnagar-the-corrie-and-the-cliffs.mp3": 53.1465833,
+      "gfjs-lochnagar-royal-climbs-and-wild-birds.mp3": 50.978375,
+      "gfjs-lochnagar-alpine-weather-at-56-degrees-north.mp3": 56.945
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -667,5 +667,24 @@
     "_m/w/6/t/q/operation-bold-mariner-wp/uh-34-sea-horse-helicopters-19.jpg",
     "_m/w/6/t/q/operation-bold-mariner-wp/bed-of-straw-operation-bold-ma.jpg"
   ],
-  "updatedAt": "2026-06-26T03:41:40.275Z"
+  "updatedAt": "2026-06-26T03:41:40.275Z",
+  "narration": {
+    "files": [
+      "w6tq-operation-bold-mariner-flight-context.mp3",
+      "w6tq-operation-bold-mariner-intro.mp3",
+      "w6tq-operation-bold-mariner-the-stronghold-that-wouldnt-fall.mp3",
+      "w6tq-operation-bold-mariner-the-landing.mp3",
+      "w6tq-operation-bold-mariner-11-900-people.mp3",
+      "w6tq-operation-bold-mariner-aftermath-and-return.mp3"
+    ],
+    "durations": {
+      "w6tq-operation-bold-mariner-flight-context.mp3": 58.6180833,
+      "w6tq-operation-bold-mariner-intro.mp3": 40.0590416,
+      "w6tq-operation-bold-mariner-the-stronghold-that-wouldnt-fall.mp3": 77.20675,
+      "w6tq-operation-bold-mariner-the-landing.mp3": 67.3458333,
+      "w6tq-operation-bold-mariner-11-900-people.mp3": 88.1165,
+      "w6tq-operation-bold-mariner-aftermath-and-return.mp3": 80.4217916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -624,5 +624,26 @@
     "_m/u/1/0/z/harwich-wp/beach-below-beacon-hill-harwic.jpg",
     "_m/u/1/0/z/harwich-wp/beach-huts-and-low-lighthouse-.jpg"
   ],
-  "updatedAt": "2026-06-25T18:39:42.572Z"
+  "updatedAt": "2026-06-25T18:39:42.572Z",
+  "narration": {
+    "files": [
+      "u10z-harwich-flight-context.mp3",
+      "u10z-harwich-intro.mp3",
+      "u10z-harwich-military-settlement.mp3",
+      "u10z-harwich-the-mayflower-captain.mp3",
+      "u10z-harwich-fortifications-and-phrases.mp3",
+      "u10z-harwich-architecture-in-miniature.mp3",
+      "u10z-harwich-the-continent-still.mp3"
+    ],
+    "durations": {
+      "u10z-harwich-flight-context.mp3": 50.1129166,
+      "u10z-harwich-intro.mp3": 45.7482916,
+      "u10z-harwich-military-settlement.mp3": 51.57425,
+      "u10z-harwich-the-mayflower-captain.mp3": 57.463375,
+      "u10z-harwich-fortifications-and-phrases.mp3": 58.365875,
+      "u10z-harwich-architecture-in-miniature.mp3": 62.388,
+      "u10z-harwich-the-continent-still.mp3": 43.5181666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

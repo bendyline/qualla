@@ -129,5 +129,24 @@
   "galleryPaths": [
     "_m/w/e/c/r/hong-kong-unesco-global-geopark-wp/photo-double-haven.jpg"
   ],
-  "updatedAt": "2026-06-29T17:26:55.185Z"
+  "updatedAt": "2026-06-29T17:26:55.185Z",
+  "narration": {
+    "files": [
+      "ws12-double-haven-flight-context.mp3",
+      "ws12-double-haven-intro.mp3",
+      "ws12-double-haven-red-rocks-and-deep-time.mp3",
+      "ws12-double-haven-what-mangroves-and-seagrass-do.mp3",
+      "ws12-double-haven-islands-of-the-haven.mp3",
+      "ws12-double-haven-on-the-edge-of-two-territories.mp3"
+    ],
+    "durations": {
+      "ws12-double-haven-flight-context.mp3": 60.6062916,
+      "ws12-double-haven-intro.mp3": 35.327375,
+      "ws12-double-haven-red-rocks-and-deep-time.mp3": 62.482625,
+      "ws12-double-haven-what-mangroves-and-seagrass-do.mp3": 64.1694583,
+      "ws12-double-haven-islands-of-the-haven.mp3": 61.8072083,
+      "ws12-double-haven-on-the-edge-of-two-territories.mp3": 57.9860833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

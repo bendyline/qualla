@@ -61,5 +61,24 @@
     "sourceGeohash4": "r44b"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "r44b-redruth-gaol-flight-context.mp3",
+      "r44b-redruth-gaol-intro.mp3",
+      "r44b-redruth-gaol-a-prison-for-the-copper-country.mp3",
+      "r44b-redruth-gaol-a-home-for-wayward-girls.mp3",
+      "r44b-redruth-gaol-lights-camera-court-martial.mp3",
+      "r44b-redruth-gaol-what-remains.mp3"
+    ],
+    "durations": {
+      "r44b-redruth-gaol-flight-context.mp3": 53.3315416,
+      "r44b-redruth-gaol-intro.mp3": 41.4234166,
+      "r44b-redruth-gaol-a-prison-for-the-copper-country.mp3": 61.194625,
+      "r44b-redruth-gaol-a-home-for-wayward-girls.mp3": 67.7313333,
+      "r44b-redruth-gaol-lights-camera-court-martial.mp3": 47.0067916,
+      "r44b-redruth-gaol-what-remains.mp3": 56.0604583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

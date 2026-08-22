@@ -121,5 +121,24 @@
   "galleryPaths": [
     "_m/r/h/g/n/bentinck-island-queensland-wp/bentinck-island-albini.jpg",
     "_m/r/h/g/n/bentinck-island-queensland-wp/locator-map-bentinck-i.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "rhgn-bentinck-island-flight-context.mp3",
+      "rhgn-bentinck-island-intro.mp3",
+      "rhgn-bentinck-island-a-name-from-a-distant-empire.mp3",
+      "rhgn-bentinck-island-the-killing-on-the-beach.mp3",
+      "rhgn-bentinck-island-the-emptying-of-the-island.mp3",
+      "rhgn-bentinck-island-the-country-painted-home.mp3"
+    ],
+    "durations": {
+      "rhgn-bentinck-island-flight-context.mp3": 63.9150416,
+      "rhgn-bentinck-island-intro.mp3": 46.479125,
+      "rhgn-bentinck-island-a-name-from-a-distant-empire.mp3": 51.8425416,
+      "rhgn-bentinck-island-the-killing-on-the-beach.mp3": 53.7429166,
+      "rhgn-bentinck-island-the-emptying-of-the-island.mp3": 56.4567083,
+      "rhgn-bentinck-island-the-country-painted-home.mp3": 75.2379166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

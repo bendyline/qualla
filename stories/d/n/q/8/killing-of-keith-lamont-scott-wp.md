@@ -16,7 +16,7 @@ Keith Lamont Scott was born February 3, 1973. He was married to Rakeyia Scott. T
 
 ## What the Family Said
 
-Rakeyia Scott was on the scene. She filmed part of what happened on her cell phone. "He better not be fucking dead," she shouted at the officers in the footage. "He better not be fucking dead." She would later say, in a statement to the press: "He had no gun. He was not a threat. He was just not a threat, period. He didn't have a gun, he wasn't a threat. What is your purpose? What was your reasoning?" The family said Keith was holding a book. The police said he was holding a gun. The official report eventually concluded the gun was real and loaded. The book was never produced as evidence. Two truths in tension - one from the wife who watched him die, one from the institution that killed him - and a family who had to bury him while both versions argued in public.
+Rakeyia Scott was on the scene. She filmed part of what happened on her cell phone. "He better not be fucking dead," she shouted at the officers in the footage. "He better not be fucking dead." She would later say, in a statement to the press: "He had no gun. He was not a threat. He was just not a threat, period. He didn't have a gun, he wasn't a threat. What is your purpose? What was your reasoning?" The family said Keith was holding a book. The police said he was holding a gun. The official report eventually concluded the gun was real and loaded. The book was never produced as evidence. Two truths in tension - one from the wife who watched him die, one from the police department - and a family who had to bury him while both versions argued in public.
 
 ## The Protests
 
@@ -48,6 +48,8 @@ The Village at College Downs apartment complex - where Keith Lamont Scott was ki
   - Corrected: 'roughly thirty years' → 'roughly 25 years (276 to 344 months)' — actual sentence was 276–344 months (23–28.6 years) for second-degree murder plus consecutive time for firearm possession
   - Justin Carr shot and killed during Uptown protests on second night
   - Rayquan Borum convicted of second-degree murder
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Killing_of_Keith_Lamont_Scott)
+  - Softened editorial framing ("institution that killed him" -> "police department") toward a living, uncharged officer, keeping the balanced factual account.
 
 ## Review Notes
 
@@ -59,9 +61,7 @@ Corrected Rayquan Borum sentence from 'roughly thirty years' to 'roughly 25 year
 
 **Strong opinions:**
 
-- The story frames the two competing accounts (book vs. gun) as 'Two truths in tension — one from the wife who watched him die, one from the institution that killed him'
-- Refers to the police as 'the institution that killed him', taking clear moral stance
-- Closes by asking whether the 'next family at the next apartment complex' has been treated differently — an open critical challenge to ongoing systemic change
+- Closes by asking whether the 'next family at the next apartment complex' has been treated differently
 
 ---
 

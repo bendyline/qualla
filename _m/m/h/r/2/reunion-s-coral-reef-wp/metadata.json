@@ -114,5 +114,24 @@
   "galleryPaths": [
     "_m/m/h/r/2/reunion-s-coral-reef-wp/photo-prise-par-nerijp.jpg",
     "_m/m/h/r/2/reunion-s-coral-reef-wp/acropora-cytherea-la-r.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "mhr2-r-unions-coral-reef-flight-context.mp3",
+      "mhr2-r-unions-coral-reef-intro.mp3",
+      "mhr2-r-unions-coral-reef-a-wall-built-by-animals.mp3",
+      "mhr2-r-unions-coral-reef-the-lagoon-and-its-reserve.mp3",
+      "mhr2-r-unions-coral-reef-a-reef-under-pressure.mp3",
+      "mhr2-r-unions-coral-reef-the-shadow-beyond-the-breakers.mp3"
+    ],
+    "durations": {
+      "mhr2-r-unions-coral-reef-flight-context.mp3": 60.8426666,
+      "mhr2-r-unions-coral-reef-intro.mp3": 51.8695833,
+      "mhr2-r-unions-coral-reef-a-wall-built-by-animals.mp3": 54.21775,
+      "mhr2-r-unions-coral-reef-the-lagoon-and-its-reserve.mp3": 49.7342083,
+      "mhr2-r-unions-coral-reef-a-reef-under-pressure.mp3": 52.749375,
+      "mhr2-r-unions-coral-reef-the-shadow-beyond-the-breakers.mp3": 70.368625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

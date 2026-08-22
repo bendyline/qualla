@@ -778,5 +778,26 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecn-discovery-bay-flight-context.mp3",
+      "wecn-discovery-bay-intro.mp3",
+      "wecn-discovery-bay-the-slow-lane-in-fast-hong-kong.mp3",
+      "wecn-discovery-bay-thirty-minutes-to-central.mp3",
+      "wecn-discovery-bay-schools-villages-and-the-international-mosaic.mp3",
+      "wecn-discovery-bay-the-marina-that-divided-a-community.mp3",
+      "wecn-discovery-bay-green-ambitions-on-a-hillside.mp3"
+    ],
+    "durations": {
+      "wecn-discovery-bay-flight-context.mp3": 49.9410416,
+      "wecn-discovery-bay-intro.mp3": 43.3520416,
+      "wecn-discovery-bay-the-slow-lane-in-fast-hong-kong.mp3": 56.3079583,
+      "wecn-discovery-bay-thirty-minutes-to-central.mp3": 49.520125,
+      "wecn-discovery-bay-schools-villages-and-the-international-mosaic.mp3": 55.5534583,
+      "wecn-discovery-bay-the-marina-that-divided-a-community.mp3": 58.5253333,
+      "wecn-discovery-bay-green-ambitions-on-a-hillside.mp3": 48.6932083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

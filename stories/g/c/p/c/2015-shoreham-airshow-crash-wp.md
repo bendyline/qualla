@@ -16,7 +16,7 @@ The Hunter had been the opening act of the afternoon display session at the two-
 
 ## The Long Aftermath
 
-A de Havilland Sea Vixen, already airborne for the next display, instead flew overhead at altitude and departed. An Avro Vulcan, due thirty minutes later, performed a solemn tribute flypast before the show was closed. The second day was cancelled. Within hours, the Civil Aviation Authority grounded every civilian-registered Hawker Hunter in Britain and banned aerobatic manoeuvres by vintage jet aircraft over land, restricting them to high-level flypasts only. The investigation by the Air Accidents Investigation Branch concluded that the crash resulted from pilot error: Hill had failed to recognise the aircraft was too low to complete the loop. He was charged with eleven counts of manslaughter by gross negligence, but was acquitted by a jury at the Old Bailey in March 2019. Seven years later, in December 2022, a coroner ruled the victims had been unlawfully killed, describing Hill's flying as "exceptionally bad" and the airshow's safety plan as "not fit for purpose."
+A de Havilland Sea Vixen, already airborne for the next display, instead flew overhead at altitude and departed. An Avro Vulcan, due thirty minutes later, performed a solemn tribute flypast before the show was closed. The second day was cancelled. Within hours, the Civil Aviation Authority grounded every civilian-registered Hawker Hunter in Britain and banned aerobatic manoeuvres by vintage jet aircraft over land, restricting them to high-level flypasts only. The investigation by the Air Accidents Investigation Branch concluded that the crash resulted from pilot error: Hill had failed to recognise the aircraft was too low to complete the loop. He was charged with eleven counts of manslaughter by gross negligence, but was acquitted by a jury at the Old Bailey in March 2019. A separate inquest, concluding in December 2022, found that the victims had been unlawfully killed -- a determination reached on the civil standard of proof (lower than the criminal test), which does not overturn the earlier acquittal.
 
 ## Eleven Lives
 
@@ -42,6 +42,8 @@ Located at 50.84N, 0.29W near Shoreham Airport (EGKA). The crash site is on the 
 - [Aircraft Accident Report AAR 1/2017 - G-BXFI - GOV.UK](https://www.gov.uk/aaib-reports/aircraft-accident-report-aar-1-2017-g-bxfi-22-august-2015)
   - Pilot error conclusion confirmed
   - Loop manoeuvre begun too low confirmed
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2015_Shoreham_Airshow_crash)
+  - Removed two quotes ('exceptionally bad' / 'not fit for purpose') that trace only to Private Eye; retained the BBC-reported December 2022 inquest conclusion of unlawful killing and clarified it is a civil-standard finding that does not overturn pilot Andrew Hill's 2019 criminal acquittal.
 
 ## Review Notes
 
@@ -54,7 +56,6 @@ Verified all key facts: 11 killed confirmed, Hawker Hunter T7 confirmed, Andy Hi
 **Strong opinions:**
 
 - The eleven people who lost their lives on a summer afternoon in West Sussex remain the unanswerable argument at the centre of that conversation
-- The airshow's safety plan as 'not fit for purpose' (coroner's ruling quoted)
 
 ---
 

@@ -63,5 +63,24 @@
     "sourceGeohash4": "qf3p"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qf3p-rawlinna-station-flight-context.mp3",
+      "qf3p-rawlinna-station-intro.mp3",
+      "qf3p-rawlinna-station-a-wall-against-the-dingoes.mp3",
+      "qf3p-rawlinna-station-ten-thousand-years-before-the-fence.mp3",
+      "qf3p-rawlinna-station-the-work-of-the-wool.mp3",
+      "qf3p-rawlinna-station-a-giant-changes-hands.mp3"
+    ],
+    "durations": {
+      "qf3p-rawlinna-station-flight-context.mp3": 64.1553333,
+      "qf3p-rawlinna-station-intro.mp3": 37.4830416,
+      "qf3p-rawlinna-station-a-wall-against-the-dingoes.mp3": 51.9521666,
+      "qf3p-rawlinna-station-ten-thousand-years-before-the-fence.mp3": 51.1146666,
+      "qf3p-rawlinna-station-the-work-of-the-wool.mp3": 48.39875,
+      "qf3p-rawlinna-station-a-giant-changes-hands.mp3": 52.3355416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

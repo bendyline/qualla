@@ -47,5 +47,24 @@
     "sourceGeohash4": "gczh"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gczh-german-submarine-u-1274-flight-context.mp3",
+      "gczh-german-submarine-u-1274-intro.mp3",
+      "gczh-german-submarine-u-1274-from-a-bremen-yard-to-a-bremen-crew.mp3",
+      "gczh-german-submarine-u-1274-training-then-active-service.mp3",
+      "gczh-german-submarine-u-1274-sixteen-april.mp3",
+      "gczh-german-submarine-u-1274-two-wars-two-lives.mp3"
+    ],
+    "durations": {
+      "gczh-german-submarine-u-1274-flight-context.mp3": 60.45325,
+      "gczh-german-submarine-u-1274-intro.mp3": 53.0828333,
+      "gczh-german-submarine-u-1274-from-a-bremen-yard-to-a-bremen-crew.mp3": 71.1616666,
+      "gczh-german-submarine-u-1274-training-then-active-service.mp3": 53.6570416,
+      "gczh-german-submarine-u-1274-sixteen-april.mp3": 52.5092916,
+      "gczh-german-submarine-u-1274-two-wars-two-lives.mp3": 51.7520416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

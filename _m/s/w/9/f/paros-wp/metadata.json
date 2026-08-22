@@ -170,5 +170,26 @@
     "_m/s/w/9/f/paros-wp/church-on-paros-island.jpg",
     "_m/s/w/9/f/paros-wp/ekatontapyliani-16.jpg"
   ],
-  "updatedAt": "2026-06-19T14:48:20.312Z"
+  "updatedAt": "2026-06-19T14:48:20.312Z",
+  "narration": {
+    "files": [
+      "sw9f-paros-flight-context.mp3",
+      "sw9f-paros-intro.mp3",
+      "sw9f-paros-the-stone-that-built-the-ancient-world.mp3",
+      "sw9f-paros-between-empires.mp3",
+      "sw9f-paros-resistance-under-occupation.mp3",
+      "sw9f-paros-parikia-and-naoussa-the-two-faces-of-the-island.mp3",
+      "sw9f-paros-still-a-working-island.mp3"
+    ],
+    "durations": {
+      "sw9f-paros-flight-context.mp3": 65.3299166,
+      "sw9f-paros-intro.mp3": 70.8625,
+      "sw9f-paros-the-stone-that-built-the-ancient-world.mp3": 60.485375,
+      "sw9f-paros-between-empires.mp3": 72.841875,
+      "sw9f-paros-resistance-under-occupation.mp3": 61.7285833,
+      "sw9f-paros-parikia-and-naoussa-the-two-faces-of-the-island.mp3": 73.3215,
+      "sw9f-paros-still-a-working-island.mp3": 63.0333333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

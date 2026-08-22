@@ -304,5 +304,24 @@
     "_m/s/w/9/7/serifos-wk/serifos-2025.jpg",
     "_m/s/w/9/7/serifos-wk/serifos-beach-livadakia.jpg"
   ],
-  "updatedAt": "2026-06-24T08:15:19.342Z"
+  "updatedAt": "2026-06-24T08:15:19.342Z",
+  "narration": {
+    "files": [
+      "sw97-serifos-flight-context.mp3",
+      "sw97-serifos-intro.mp3",
+      "sw97-serifos-iron-in-the-bones-of-the-island.mp3",
+      "sw97-serifos-two-towns-one-island.mp3",
+      "sw97-serifos-perseuss-island.mp3",
+      "sw97-serifos-the-sherry-wine-and-the-beach.mp3"
+    ],
+    "durations": {
+      "sw97-serifos-flight-context.mp3": 61.5241666,
+      "sw97-serifos-intro.mp3": 42.4079583,
+      "sw97-serifos-iron-in-the-bones-of-the-island.mp3": 82.4517916,
+      "sw97-serifos-two-towns-one-island.mp3": 95.026,
+      "sw97-serifos-perseuss-island.mp3": 78.5632916,
+      "sw97-serifos-the-sherry-wine-and-the-beach.mp3": 69.4540833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

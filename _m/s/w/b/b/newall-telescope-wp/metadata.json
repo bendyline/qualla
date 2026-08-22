@@ -89,5 +89,24 @@
   ],
   "galleryPaths": [
     "_m/s/w/6/p/thera-eruption-wk/location-map-greece.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swbb-newall-telescope-flight-context.mp3",
+      "swbb-newall-telescope-intro.mp3",
+      "swbb-newall-telescope-a-giant-in-the-wrong-place.mp3",
+      "swbb-newall-telescope-the-long-journey-south.mp3",
+      "swbb-newall-telescope-marble-and-machinery.mp3",
+      "swbb-newall-telescope-a-teacher-not-a-researcher.mp3"
+    ],
+    "durations": {
+      "swbb-newall-telescope-flight-context.mp3": 48.2887083,
+      "swbb-newall-telescope-intro.mp3": 42.7659166,
+      "swbb-newall-telescope-a-giant-in-the-wrong-place.mp3": 49.799875,
+      "swbb-newall-telescope-the-long-journey-south.mp3": 41.2784583,
+      "swbb-newall-telescope-marble-and-machinery.mp3": 50.018125,
+      "swbb-newall-telescope-a-teacher-not-a-researcher.mp3": 44.6419583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

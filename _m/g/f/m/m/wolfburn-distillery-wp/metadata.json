@@ -50,5 +50,24 @@
     "sourceGeohash4": "gfmm"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gfmm-wolfburn-distillery-flight-context.mp3",
+      "gfmm-wolfburn-distillery-intro.mp3",
+      "gfmm-wolfburn-distillery-the-stream-that-names-it.mp3",
+      "gfmm-wolfburn-distillery-the-long-silence.mp3",
+      "gfmm-wolfburn-distillery-the-revival.mp3",
+      "gfmm-wolfburn-distillery-coming-of-age.mp3"
+    ],
+    "durations": {
+      "gfmm-wolfburn-distillery-flight-context.mp3": 58.4717083,
+      "gfmm-wolfburn-distillery-intro.mp3": 53.8660416,
+      "gfmm-wolfburn-distillery-the-stream-that-names-it.mp3": 59.339625,
+      "gfmm-wolfburn-distillery-the-long-silence.mp3": 54.417,
+      "gfmm-wolfburn-distillery-the-revival.mp3": 64.0787916,
+      "gfmm-wolfburn-distillery-coming-of-age.mp3": 72.0574166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

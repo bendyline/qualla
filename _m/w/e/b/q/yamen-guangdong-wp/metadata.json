@@ -53,5 +53,22 @@
     "sourceGeohash4": "webq"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "webq-yamen-guangdong-flight-context.mp3",
+      "webq-yamen-guangdong-intro.mp3",
+      "webq-yamen-guangdong-where-the-bay-holds-its-memory.mp3",
+      "webq-yamen-guangdong-seven-hundred-years-of-remembrance.mp3",
+      "webq-yamen-guangdong-a-place-between-past-and-present.mp3"
+    ],
+    "durations": {
+      "webq-yamen-guangdong-flight-context.mp3": 56.0354166,
+      "webq-yamen-guangdong-intro.mp3": 62.9681666,
+      "webq-yamen-guangdong-where-the-bay-holds-its-memory.mp3": 64.7294583,
+      "webq-yamen-guangdong-seven-hundred-years-of-remembrance.mp3": 65.9605,
+      "webq-yamen-guangdong-a-place-between-past-and-present.mp3": 58.13675
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

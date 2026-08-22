@@ -111,5 +111,24 @@
   "galleryPaths": [
     "_m/s/w/8/z/nordic-library-at-athens-wp/hero.jpg",
     "_m/s/w/b/b/museum-of-the-center-for-the-acropolis-studies-wp/vue-d-athenes-aux-alen.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swbb-museum-of-the-center-for-the-acropolis-studies-flight-context.mp3",
+      "swbb-museum-of-the-center-for-the-acropolis-studies-intro.mp3",
+      "swbb-museum-of-the-center-for-the-acropolis-studies-the-weiler-building.mp3",
+      "swbb-museum-of-the-center-for-the-acropolis-studies-the-marbles-in-plaster.mp3",
+      "swbb-museum-of-the-center-for-the-acropolis-studies-building-the-acropolis-in-miniature.mp3",
+      "swbb-museum-of-the-center-for-the-acropolis-studies-a-quiet-companion-to-the-rock.mp3"
+    ],
+    "durations": {
+      "swbb-museum-of-the-center-for-the-acropolis-studies-flight-context.mp3": 57.3162916,
+      "swbb-museum-of-the-center-for-the-acropolis-studies-intro.mp3": 48.0694166,
+      "swbb-museum-of-the-center-for-the-acropolis-studies-the-weiler-building.mp3": 53.7136666,
+      "swbb-museum-of-the-center-for-the-acropolis-studies-the-marbles-in-plaster.mp3": 45.5449583,
+      "swbb-museum-of-the-center-for-the-acropolis-studies-building-the-acropolis-in-miniature.mp3": 47.330625,
+      "swbb-museum-of-the-center-for-the-acropolis-studies-a-quiet-companion-to-the-rock.mp3": 47.99325
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

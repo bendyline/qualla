@@ -1180,5 +1180,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-sk-dar-flight-context.mp3",
+      "sxk9-sk-dar-intro.mp3",
+      "sxk9-sk-dar-the-mosque-dense-shore.mp3",
+      "sxk9-sk-dar-sufi-lodges-and-the-world-they-held.mp3",
+      "sxk9-sk-dar-florence-nightingale-and-the-barracks-hospital.mp3",
+      "sxk9-sk-dar-a-shore-of-many-communities.mp3"
+    ],
+    "durations": {
+      "sxk9-sk-dar-flight-context.mp3": 48.765,
+      "sxk9-sk-dar-intro.mp3": 54.4862083,
+      "sxk9-sk-dar-the-mosque-dense-shore.mp3": 71.1061666,
+      "sxk9-sk-dar-sufi-lodges-and-the-world-they-held.mp3": 72.91125,
+      "sxk9-sk-dar-florence-nightingale-and-the-barracks-hospital.mp3": 68.9067083,
+      "sxk9-sk-dar-a-shore-of-many-communities.mp3": 74.0297083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

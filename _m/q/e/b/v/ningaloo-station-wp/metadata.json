@@ -56,5 +56,24 @@
     "sourceGeohash4": "qebv"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qebv-ningaloo-station-flight-context.mp3",
+      "qebv-ningaloo-station-intro.mp3",
+      "qebv-ningaloo-station-between-the-range-and-the-reef.mp3",
+      "qebv-ningaloo-station-the-record-clip.mp3",
+      "qebv-ningaloo-station-twenty-five-days-to-carnarvon.mp3",
+      "qebv-ningaloo-station-the-rally-on-the-beach.mp3"
+    ],
+    "durations": {
+      "qebv-ningaloo-station-flight-context.mp3": 79.9434583,
+      "qebv-ningaloo-station-intro.mp3": 50.2771666,
+      "qebv-ningaloo-station-between-the-range-and-the-reef.mp3": 50.3559583,
+      "qebv-ningaloo-station-the-record-clip.mp3": 46.8874583,
+      "qebv-ningaloo-station-twenty-five-days-to-carnarvon.mp3": 55.1485833,
+      "qebv-ningaloo-station-the-rally-on-the-beach.mp3": 59.84175
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

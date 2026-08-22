@@ -768,5 +768,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kesz-2010-fifa-world-cup-flight-context.mp3",
+      "kesz-2010-fifa-world-cup-intro.mp3",
+      "kesz-2010-fifa-world-cup-mandelas-bid.mp3",
+      "kesz-2010-fifa-world-cup-proving-the-doubters-wrong.mp3",
+      "kesz-2010-fifa-world-cup-tshabalalas-goal.mp3",
+      "kesz-2010-fifa-world-cup-a-final-and-a-farewell.mp3"
+    ],
+    "durations": {
+      "kesz-2010-fifa-world-cup-flight-context.mp3": 55.347875,
+      "kesz-2010-fifa-world-cup-intro.mp3": 43.4733333,
+      "kesz-2010-fifa-world-cup-mandelas-bid.mp3": 50.8495,
+      "kesz-2010-fifa-world-cup-proving-the-doubters-wrong.mp3": 56.4253333,
+      "kesz-2010-fifa-world-cup-tshabalalas-goal.mp3": 56.0511666,
+      "kesz-2010-fifa-world-cup-a-final-and-a-farewell.mp3": 62.1834583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

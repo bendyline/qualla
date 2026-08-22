@@ -468,5 +468,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecn-golden-bauhinia-square-flight-context.mp3",
+      "wecn-golden-bauhinia-square-intro.mp3",
+      "wecn-golden-bauhinia-square-a-flower-that-belongs-only-to-hong-kong.mp3",
+      "wecn-golden-bauhinia-square-the-night-of-july-1-1997.mp3",
+      "wecn-golden-bauhinia-square-daily-ceremony-monthly-variations.mp3",
+      "wecn-golden-bauhinia-square-the-golden-pak-choi.mp3"
+    ],
+    "durations": {
+      "wecn-golden-bauhinia-square-flight-context.mp3": 57.7325,
+      "wecn-golden-bauhinia-square-intro.mp3": 39.898625,
+      "wecn-golden-bauhinia-square-a-flower-that-belongs-only-to-hong-kong.mp3": 64.9287083,
+      "wecn-golden-bauhinia-square-the-night-of-july-1-1997.mp3": 56.4096666,
+      "wecn-golden-bauhinia-square-daily-ceremony-monthly-variations.mp3": 54.4295833,
+      "wecn-golden-bauhinia-square-the-golden-pak-choi.mp3": 48.4617916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

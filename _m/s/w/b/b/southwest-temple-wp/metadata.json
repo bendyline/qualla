@@ -115,5 +115,24 @@
   "galleryPaths": [
     "_m/s/w/b/b/ancient-agora-of-athens-wp/temple-hephaistos-3-20.jpg",
     "_m/s/w/b/b/southwest-temple-wp/athens-agora-doric-col.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swbb-southwest-temple-flight-context.mp3",
+      "swbb-southwest-temple-intro.mp3",
+      "swbb-southwest-temple-a-temple-of-recycled-stone.mp3",
+      "swbb-southwest-temple-reading-the-masons-marks.mp3",
+      "swbb-southwest-temple-whose-house-was-it.mp3",
+      "swbb-southwest-temple-pulled-apart-again.mp3"
+    ],
+    "durations": {
+      "swbb-southwest-temple-flight-context.mp3": 40.0116666,
+      "swbb-southwest-temple-intro.mp3": 36.6925,
+      "swbb-southwest-temple-a-temple-of-recycled-stone.mp3": 60.6411666,
+      "swbb-southwest-temple-reading-the-masons-marks.mp3": 55.97225,
+      "swbb-southwest-temple-whose-house-was-it.mp3": 49.2247916,
+      "swbb-southwest-temple-pulled-apart-again.mp3": 64.8235
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

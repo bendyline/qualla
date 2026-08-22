@@ -538,5 +538,24 @@
     "_m/w/e/c/p/kwai-chung-wp/central-industrial-building.jpg",
     "_m/w/e/c/p/kwai-chung-wp/kwai-hing-industrial-building.jpg"
   ],
-  "updatedAt": "2026-06-29T07:43:23.903Z"
+  "updatedAt": "2026-06-29T07:43:23.903Z",
+  "narration": {
+    "files": [
+      "wecp-kwai-chung-flight-context.mp3",
+      "wecp-kwai-chung-intro.mp3",
+      "wecp-kwai-chung-upper-and-lower-north-and-south.mp3",
+      "wecp-kwai-chung-where-the-containers-come-from.mp3",
+      "wecp-kwai-chung-education-in-an-industrial-district.mp3",
+      "wecp-kwai-chung-a-district-that-disappeared-into-its-own-success.mp3"
+    ],
+    "durations": {
+      "wecp-kwai-chung-flight-context.mp3": 55.5985833,
+      "wecp-kwai-chung-intro.mp3": 38.4594583,
+      "wecp-kwai-chung-upper-and-lower-north-and-south.mp3": 61.7060833,
+      "wecp-kwai-chung-where-the-containers-come-from.mp3": 59.9817083,
+      "wecp-kwai-chung-education-in-an-industrial-district.mp3": 51.1028333,
+      "wecp-kwai-chung-a-district-that-disappeared-into-its-own-success.mp3": 55.3931666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

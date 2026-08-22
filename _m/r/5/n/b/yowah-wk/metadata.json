@@ -516,5 +516,24 @@
     "_m/r/5/n/b/yowah-wk/yowah-general-store.jpg",
     "_m/r/5/n/b/yowah-wk/map-of-yowah.jpg"
   ],
-  "updatedAt": "2026-06-28T06:55:07.781Z"
+  "updatedAt": "2026-06-28T06:55:07.781Z",
+  "narration": {
+    "files": [
+      "r5nb-yowah-flight-context.mp3",
+      "r5nb-yowah-intro.mp3",
+      "r5nb-yowah-the-nut-that-made-the-town.mp3",
+      "r5nb-yowah-a-town-the-size-of-a-footnote.mp3",
+      "r5nb-yowah-getting-in-and-the-dummy-fireman.mp3",
+      "r5nb-yowah-why-anyone-stays.mp3"
+    ],
+    "durations": {
+      "r5nb-yowah-flight-context.mp3": 59.263625,
+      "r5nb-yowah-intro.mp3": 45.067875,
+      "r5nb-yowah-the-nut-that-made-the-town.mp3": 57.9229583,
+      "r5nb-yowah-a-town-the-size-of-a-footnote.mp3": 61.6626666,
+      "r5nb-yowah-getting-in-and-the-dummy-fireman.mp3": 58.215375,
+      "r5nb-yowah-why-anyone-stays.mp3": 51.3527916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

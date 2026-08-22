@@ -20,7 +20,7 @@ The first four episodes of Eden aired from 18 July to 8 August 2016. They drew l
 
 ## Paradise Lost
 
-On 23 March 2017 Channel 4 announced that Eden had finished. Then in July 2017 they reversed course and confirmed five more episodes would air. On 7 August 2017 Eden: Paradise Lost premiered, and the Guardian critic Phil Harrison described what came across the screen: 'The group remained in their wilderness, arguing, longing for food and going quietly cuckoo. And suddenly, Eden is back, oddly compelling in its attritional grimness.' Of the original 23, the show's records list at least eight who left during the year: Tara Zieleman, Ben Johnston, Tom Wah, Ali, Lloyd Morgan, Robert P, Rachel, and the group of three (Jenna Rae Carr, Jasmine, Sam Brown) who departed together. Raphael Meade, the 55-year-old carpenter, was voted out. Some who left took to social media to argue the edited footage had not captured what the experience really felt like.
+On 23 March 2017 Channel 4 announced that Eden had finished. Then in July 2017 they reversed course and confirmed five more episodes would air. On 7 August 2017 Eden: Paradise Lost premiered, and the Guardian critic Phil Harrison described what came across the screen: 'The group remained in their wilderness, arguing, longing for food and going quietly cuckoo. And suddenly, Eden is back ... oddly compelling in its attritional grimness.' Of the original 23, the show's records list at least eight who left during the year: Tara Zieleman, Ben Johnston, Tom Wah, Ali, Lloyd Morgan, Robert P, Rachel, and the group of three (Jenna Rae Carr, Jasmine, Sam Brown) who departed together. Raphael Meade, the 55-year-old carpenter, was voted out. Some who left took to social media to argue the edited footage had not captured what the experience really felt like.
 
 ## What Ardnamurchan Knew
 
@@ -42,6 +42,8 @@ The Eden filming site at Cul na Croise sits on the Ardnamurchan peninsula in wes
   - Section 11 Land Reform Act 2003 used confirmed
   - Eden: Paradise Lost premiered 7 August 2017 confirmed
   - Corrected: 'Inverailort' changed to 'Cul na Croise' as the filming site on the Ardnamurchan Estate
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Eden_(2016_TV_series))
+  - Restored an ellipsis in the quoted Guardian (Phil Harrison) review of Eden: Paradise Lost - the story had joined two non-adjacent fragments ('Eden is back ... oddly compelling') as continuous verbatim text; corrected to mark the omitted words, verified against the cited Wikipedia reproduction of the quote
 
 ## Review Notes
 

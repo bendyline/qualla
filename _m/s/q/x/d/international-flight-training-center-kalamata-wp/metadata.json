@@ -116,5 +116,24 @@
   "galleryPaths": [
     "_m/s/q/x/d/international-flight-training-center-kalamata-wp/hellenic-air-force-t-6.jpg",
     "_m/s/q/x/d/international-flight-training-center-kalamata-wp/leonardo-t-346a-master.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sqxd-international-flight-training-center-kalamata-flight-context.mp3",
+      "sqxd-international-flight-training-center-kalamata-intro.mp3",
+      "sqxd-international-flight-training-center-kalamata-a-22-year-partnership-takes-shape.mp3",
+      "sqxd-international-flight-training-center-kalamata-what-happens-inside.mp3",
+      "sqxd-international-flight-training-center-kalamata-natos-training-network-expands-south.mp3",
+      "sqxd-international-flight-training-center-kalamata-controversy-and-context.mp3"
+    ],
+    "durations": {
+      "sqxd-international-flight-training-center-kalamata-flight-context.mp3": 57.3573333,
+      "sqxd-international-flight-training-center-kalamata-intro.mp3": 36.284875,
+      "sqxd-international-flight-training-center-kalamata-a-22-year-partnership-takes-shape.mp3": 56.1439583,
+      "sqxd-international-flight-training-center-kalamata-what-happens-inside.mp3": 55.37825,
+      "sqxd-international-flight-training-center-kalamata-natos-training-network-expands-south.mp3": 51.77725,
+      "sqxd-international-flight-training-center-kalamata-controversy-and-context.mp3": 49.0387916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -813,5 +813,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-bebek-be-ikta-flight-context.mp3",
+      "sxk9-bebek-be-ikta-intro.mp3",
+      "sxk9-bebek-be-ikta-the-apple-of-the-bosphoruss-eye.mp3",
+      "sxk9-bebek-be-ikta-royal-summers-and-a-consulate-on-the-water.mp3",
+      "sxk9-bebek-be-ikta-a-college-founded-at-the-edge-of-empire.mp3",
+      "sxk9-bebek-be-ikta-old-wood-and-the-passage-of-time.mp3",
+      "sxk9-bebek-be-ikta-life-on-the-bay.mp3"
+    ],
+    "durations": {
+      "sxk9-bebek-be-ikta-flight-context.mp3": 57.0440833,
+      "sxk9-bebek-be-ikta-intro.mp3": 29.186375,
+      "sxk9-bebek-be-ikta-the-apple-of-the-bosphoruss-eye.mp3": 69.382375,
+      "sxk9-bebek-be-ikta-royal-summers-and-a-consulate-on-the-water.mp3": 65.555125,
+      "sxk9-bebek-be-ikta-a-college-founded-at-the-edge-of-empire.mp3": 65.941,
+      "sxk9-bebek-be-ikta-old-wood-and-the-passage-of-time.mp3": 55.7051666,
+      "sxk9-bebek-be-ikta-life-on-the-bay.mp3": 63.422625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

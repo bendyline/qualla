@@ -976,5 +976,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "webp-kaiping-flight-context.mp3",
+      "webp-kaiping-intro.mp3",
+      "webp-kaiping-towers-between-two-worlds.mp3",
+      "webp-kaiping-the-villages-the-cities-left-behind.mp3",
+      "webp-kaiping-clay-pot-rice-and-country-roads.mp3",
+      "webp-kaiping-chow-yun-fat-and-the-film-that-used-the-towers.mp3"
+    ],
+    "durations": {
+      "webp-kaiping-flight-context.mp3": 56.3942916,
+      "webp-kaiping-intro.mp3": 59.215125,
+      "webp-kaiping-towers-between-two-worlds.mp3": 80.0979583,
+      "webp-kaiping-the-villages-the-cities-left-behind.mp3": 68.6154583,
+      "webp-kaiping-clay-pot-rice-and-country-roads.mp3": 72.135125,
+      "webp-kaiping-chow-yun-fat-and-the-film-that-used-the-towers.mp3": 48.5003333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

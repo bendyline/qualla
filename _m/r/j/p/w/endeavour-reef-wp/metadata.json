@@ -87,5 +87,22 @@
   ],
   "galleryPaths": [
     "_m/r/j/p/w/endeavour-reef-wp/nasa-worldwind-image-e.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "rjpw-endeavour-reef-flight-context.mp3",
+      "rjpw-endeavour-reef-intro.mp3",
+      "rjpw-endeavour-reef-the-night-on-the-reef.mp3",
+      "rjpw-endeavour-reef-a-reef-in-a-field-of-reefs.mp3",
+      "rjpw-endeavour-reef-the-cannons-come-home.mp3"
+    ],
+    "durations": {
+      "rjpw-endeavour-reef-flight-context.mp3": 59.8855,
+      "rjpw-endeavour-reef-intro.mp3": 50.3707083,
+      "rjpw-endeavour-reef-the-night-on-the-reef.mp3": 78.0253333,
+      "rjpw-endeavour-reef-a-reef-in-a-field-of-reefs.mp3": 50.6225416,
+      "rjpw-endeavour-reef-the-cannons-come-home.mp3": 64.1294166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -582,5 +582,26 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r3dp-parliament-house-canberra-flight-context.mp3",
+      "r3dp-parliament-house-canberra-intro.mp3",
+      "r3dp-parliament-house-canberra-the-compromise-on-the-hill.mp3",
+      "r3dp-parliament-house-canberra-sixty-one-years-of-temporary.mp3",
+      "r3dp-parliament-house-canberra-a-flag-the-size-of-a-bus.mp3",
+      "r3dp-parliament-house-canberra-tracks-toward-the-centre.mp3",
+      "r3dp-parliament-house-canberra-the-building-that-argues-with-itself.mp3"
+    ],
+    "durations": {
+      "r3dp-parliament-house-canberra-flight-context.mp3": 56.860375,
+      "r3dp-parliament-house-canberra-intro.mp3": 48.714,
+      "r3dp-parliament-house-canberra-the-compromise-on-the-hill.mp3": 55.646375,
+      "r3dp-parliament-house-canberra-sixty-one-years-of-temporary.mp3": 60.0825,
+      "r3dp-parliament-house-canberra-a-flag-the-size-of-a-bus.mp3": 55.1654583,
+      "r3dp-parliament-house-canberra-tracks-toward-the-centre.mp3": 56.9814166,
+      "r3dp-parliament-house-canberra-the-building-that-argues-with-itself.mp3": 62.422125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

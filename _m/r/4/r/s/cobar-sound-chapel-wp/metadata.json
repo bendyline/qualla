@@ -161,5 +161,24 @@
     "_m/r/4/r/s/cobar-sound-chapel-wp/interior-view-cobar-so.jpg",
     "_m/r/4/r/s/cobar-sound-chapel-wp/william-blake-inscript.png",
     "_m/r/4/r/s/cobar-sound-chapel-wp/western-window-cobar-s.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r4rs-cobar-sound-chapel-flight-context.mp3",
+      "r4rs-cobar-sound-chapel-intro.mp3",
+      "r4rs-cobar-sound-chapel-twenty-years-in-the-making.mp3",
+      "r4rs-cobar-sound-chapel-the-endless-quartet.mp3",
+      "r4rs-cobar-sound-chapel-many-hands-many-voices.mp3",
+      "r4rs-cobar-sound-chapel-a-chapel-with-no-religion.mp3"
+    ],
+    "durations": {
+      "r4rs-cobar-sound-chapel-flight-context.mp3": 66.6645,
+      "r4rs-cobar-sound-chapel-intro.mp3": 43.77425,
+      "r4rs-cobar-sound-chapel-twenty-years-in-the-making.mp3": 52.1107916,
+      "r4rs-cobar-sound-chapel-the-endless-quartet.mp3": 51.2105,
+      "r4rs-cobar-sound-chapel-many-hands-many-voices.mp3": 49.3545416,
+      "r4rs-cobar-sound-chapel-a-chapel-with-no-religion.mp3": 51.3947916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

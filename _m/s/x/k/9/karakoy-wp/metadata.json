@@ -831,5 +831,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-karak-y-flight-context.mp3",
+      "sxk9-karak-y-intro.mp3",
+      "sxk9-karak-y-the-genoese-foundation.mp3",
+      "sxk9-karak-y-a-city-of-arrivals.mp3",
+      "sxk9-karak-y-the-stairs-the-synagogues-the-street.mp3",
+      "sxk9-karak-y-the-port-that-never-stopped.mp3"
+    ],
+    "durations": {
+      "sxk9-karak-y-flight-context.mp3": 45.5423333,
+      "sxk9-karak-y-intro.mp3": 39.7742916,
+      "sxk9-karak-y-the-genoese-foundation.mp3": 86.74575,
+      "sxk9-karak-y-a-city-of-arrivals.mp3": 95.4141666,
+      "sxk9-karak-y-the-stairs-the-synagogues-the-street.mp3": 82.5040833,
+      "sxk9-karak-y-the-port-that-never-stopped.mp3": 73.461875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

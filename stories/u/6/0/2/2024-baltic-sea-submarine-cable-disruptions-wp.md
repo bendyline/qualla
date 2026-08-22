@@ -8,7 +8,7 @@ A Chinese cargo ship anchored in the Kattegat became the center of an internatio
 
 ## Introduction
 
-On a November morning in 2024, a fault alarm lit up in Vilnius. Seconds later, one-third of Lithuania's internet capacity went dark. Miles away, off the Swedish island of Oland, a second cable connecting Finland to Germany had also gone silent. Two severed cables, two crime scenes, and one freighter whose anchor had traced a suspiciously straight line across the seabed for a hundred miles.
+On a November morning in 2024, a fault alarm lit up in Vilnius. Seconds later, one-third of Lithuania's internet capacity went dark. Miles away, off the Swedish island of Oland, a second cable connecting Finland to Germany had also gone silent. Two severed cables, two damage sites, and one freighter whose anchor had traced a suspiciously straight line across the seabed for a hundred miles.
 
 ## The Invisible Arteries
 
@@ -20,11 +20,11 @@ The Yi Peng 3 had departed Russia's Ust-Luga port on November 15 carrying fertil
 
 ## Echoes of Cold War Tactics
 
-German Defense Minister Boris Pistorius called it sabotage. The Kremlin called the accusation 'absurd.' Western intelligence officials came to believe that Russian intelligence had persuaded the ship's captain to drag his anchor deliberately, referencing encrypted communications intercepted between Yi Peng 3 and Russian vessels. The detention marked the first enforcement action under the Convention for the Protection of Submarine Telegraph Cables since 1959. A year earlier, another Chinese vessel, the Newnew Polar Bear, had similarly dragged its anchor across Baltic infrastructure in what investigators called the Balticconnector incident.
+German Defense Minister Boris Pistorius called it sabotage. The Kremlin called the accusation 'absurd.' Some Western officials suspected the anchor-dragging had been deliberate, but the evidence stayed contested: when Sweden's Accident Investigation Authority reported in April 2025, it concluded that it could not be determined with certainty whether the ship had damaged the cables intentionally, noting it had been allowed aboard only weeks after the incident and given no access to the vessel's electronic data. The detention marked the first enforcement action under the Convention for the Protection of Submarine Telegraph Cables since 1959. A year earlier, another Chinese vessel, the Newnew Polar Bear, had similarly dragged its anchor across Baltic infrastructure in what investigators called the Balticconnector incident.
 
 ## A Diplomatic Maze
 
-Maritime law created an impossible puzzle. Under the flag state principle, only China could authorize a full investigation of its own vessel. After weeks of negotiations, investigators from four nations finally boarded Yi Peng 3 on December 19 for a five-hour Chinese-led inspection. Swedish prosecutors were denied access. 'We had the possibility to see what we wanted to see,' said Jonas Backstrand of Sweden's accident investigation authority, though the statement carried careful diplomatic ambiguity. Two days later, the ship weighed anchor and continued toward Egypt. Both cables were restored by November 28, but the questions lingered.
+Maritime law created an impossible puzzle. Under the flag state principle, only China could authorize a full investigation of its own vessel. After weeks of negotiations, investigators from four nations finally boarded Yi Peng 3 on December 19 for a five-hour Chinese-led inspection. Swedish prosecutors were denied access. 'We have had the possibility to do and see what we wanted,' said Jonas Backstrand of Sweden's accident investigation authority, who described the inspection as having produced a clearer picture of what may have happened. Two days later, the ship weighed anchor and continued toward Egypt. Both cables were restored by November 28, but the questions lingered.
 
 ## The Shadow War Beneath the Waves
 
@@ -50,6 +50,8 @@ Located at 56.41N, 11.65E in the Kattegat strait between Denmark and Sweden. Fro
   - C-Lion1 operational since 2016
   - First direct cable link Finland to Germany
   - Owned by Cinia
+- [Review — 2026-07-13](https://www.thelocal.se/20250415/swedish-probe-finds-no-conclusive-evidence-chinese-ship-cut-cables-deliberately)
+  - Added the April 2025 Swedish Accident Investigation Authority finding that it "cannot be determined with certainty" whether the ship damaged the cables intentionally; softened the deliberate-sabotage framing to attributed suspicion, removed an unsubstantiated "intercepted communications" claim, and corrected Jonas Bäckstrand’s quote to his documented wording.
 
 ## Review Notes
 

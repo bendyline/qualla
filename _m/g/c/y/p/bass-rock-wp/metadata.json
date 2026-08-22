@@ -669,5 +669,26 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcyp-bass-rock-flight-context.mp3",
+      "gcyp-bass-rock-intro.mp3",
+      "gcyp-bass-rock-geology-first.mp3",
+      "gcyp-bass-rock-saint-baldreds-cell.mp3",
+      "gcyp-bass-rock-the-patmos-of-scotland.mp3",
+      "gcyp-bass-rock-the-jacobite-holdout.mp3",
+      "gcyp-bass-rock-the-gannetry.mp3"
+    ],
+    "durations": {
+      "gcyp-bass-rock-flight-context.mp3": 54.5012083,
+      "gcyp-bass-rock-intro.mp3": 43.918125,
+      "gcyp-bass-rock-geology-first.mp3": 50.9025416,
+      "gcyp-bass-rock-saint-baldreds-cell.mp3": 59.552,
+      "gcyp-bass-rock-the-patmos-of-scotland.mp3": 75.4767083,
+      "gcyp-bass-rock-the-jacobite-holdout.mp3": 66.5735833,
+      "gcyp-bass-rock-the-gannetry.mp3": 72.7585416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

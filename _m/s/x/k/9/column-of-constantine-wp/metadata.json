@@ -543,5 +543,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-column-of-constantine-flight-context.mp3",
+      "sxk9-column-of-constantine-intro.mp3",
+      "sxk9-column-of-constantine-the-stone-that-only-emperors-could-use.mp3",
+      "sxk9-column-of-constantine-the-heart-of-nova-roma.mp3",
+      "sxk9-column-of-constantine-fourteen-centuries-of-trouble.mp3",
+      "sxk9-column-of-constantine-what-survived-the-fire.mp3",
+      "sxk9-column-of-constantine-the-column-beside-the-tram-stop.mp3"
+    ],
+    "durations": {
+      "sxk9-column-of-constantine-flight-context.mp3": 62.3939166,
+      "sxk9-column-of-constantine-intro.mp3": 59.9461666,
+      "sxk9-column-of-constantine-the-stone-that-only-emperors-could-use.mp3": 72.2358333,
+      "sxk9-column-of-constantine-the-heart-of-nova-roma.mp3": 55.3226666,
+      "sxk9-column-of-constantine-fourteen-centuries-of-trouble.mp3": 77.609125,
+      "sxk9-column-of-constantine-what-survived-the-fire.mp3": 68.6599583,
+      "sxk9-column-of-constantine-the-column-beside-the-tram-stop.mp3": 65.247625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -20,7 +20,7 @@ The students who moved the sculpture that night in 1997 were acting without the 
 
 ## A Decision in the Night
 
-In October 2021, the University of Hong Kong formally requested that the Pillar be removed. The university was represented in the matter by law firm Mayer Brown, which subsequently withdrew from the case following pressure from 28 civil society groups and overseas intellectuals — though it retained the university as a client. No specific legal reason was cited in the removal request. The university's statement referred to the Hong Kong Alliance — the organisation that had maintained the sculpture — as "an external organisation" that had "publicly announced its disbandment." The Alliance had in fact dissolved under pressure from Hong Kong's National Security Law, enacted in 2020. Galschiøt urged the university to allow the statue to remain and expressed his hope to transport it out of Hong Kong "under orderly conditions." On 22 December 2021, the university blockaded the Pillar and the surrounding area. Near midnight, security guards and workers arrived with trucks and cranes. Journalists were blocked from approaching. By daylight on 23 December, the sculpture was gone. Within two days, the Chinese University of Hong Kong and Lingnan University had removed their own June 4th memorials.
+In October 2021, the University of Hong Kong formally requested that the Pillar be removed. The university was represented in the matter by law firm Mayer Brown, which subsequently withdrew from the case following pressure from 28 civil society groups and overseas intellectuals — though it retained the university as a client. No specific legal reason was cited in the removal request. The university's statement referred to the Hong Kong Alliance — the organisation that had maintained the sculpture — as "an external organisation" that had publicly announced its disbandment. The Alliance had in fact dissolved under pressure from Hong Kong's National Security Law, enacted in 2020. Galschiøt urged the university to allow the statue to remain and expressed his hope to transport it out of Hong Kong "under orderly conditions." On 22 December 2021, the university blockaded the Pillar and the surrounding area. Near midnight, security guards and workers arrived with trucks and cranes. Journalists were blocked from approaching. By daylight on 23 December, the sculpture was gone. Within two days, the Chinese University of Hong Kong and Lingnan University had removed their own June 4th memorials.
 
 ## Storage, Seizure, and What Remains
 
@@ -49,6 +49,8 @@ The Pillar of Shame stood at the Haking Wong Building podium on the University o
 - [Pillar of Shame sculpture seized by police in Hong Kong - The Art Newspaper](https://www.theartnewspaper.com/2023/05/08/pillar-shame-sculpture-hong-kong-tiananmen-square-seized)
   - National Security Department seized sculpture from Kadoorie Centre storage in May 2023
   - replica installed at University of Oslo May 2022
+- [Review — 2026-07-13](https://hongkongfp.com/2021/10/08/breaking-university-of-hong-kong-orders-removal-of-tiananmen-massacre-statue-after-24-years/)
+  - HKU statement wording verified: 'an external organisation' is verbatim, but the follow-on phrase is a paraphrase — reputable outlets render HKU's words as 'publicly announced that it was in the process of disbanding' / 'publicly announced their disbandment'. Removed the quotation marks around 'publicly announced its disbandment' so it now reads as indirect speech rather than a verbatim quote.
 
 ## Review Notes
 

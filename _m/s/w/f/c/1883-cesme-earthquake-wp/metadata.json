@@ -92,5 +92,24 @@
   ],
   "galleryPaths": [
     "_m/s/w/6/p/thera-eruption-wk/location-map-greece.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swfc-1883-e-me-earthquake-flight-context.mp3",
+      "swfc-1883-e-me-earthquake-intro.mp3",
+      "swfc-1883-e-me-earthquake-an-afternoon-of-ruin.mp3",
+      "swfc-1883-e-me-earthquake-a-fault-that-keeps-moving.mp3",
+      "swfc-1883-e-me-earthquake-the-response.mp3",
+      "swfc-1883-e-me-earthquake-what-the-numbers-leave-out.mp3"
+    ],
+    "durations": {
+      "swfc-1883-e-me-earthquake-flight-context.mp3": 50.7281666,
+      "swfc-1883-e-me-earthquake-intro.mp3": 37.77,
+      "swfc-1883-e-me-earthquake-an-afternoon-of-ruin.mp3": 48.27775,
+      "swfc-1883-e-me-earthquake-a-fault-that-keeps-moving.mp3": 49.5385833,
+      "swfc-1883-e-me-earthquake-the-response.mp3": 46.0974166,
+      "swfc-1883-e-me-earthquake-what-the-numbers-leave-out.mp3": 49.7816666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

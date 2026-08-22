@@ -918,5 +918,24 @@
     "_m/s/w/b/b/line-1-athens-metro-wp/athens-metro-line-1-in-kallith-1.jpg",
     "_m/s/w/b/b/line-1-athens-metro-wp/zug-in-athen.jpg"
   ],
-  "updatedAt": "2026-06-24T19:16:16.380Z"
+  "updatedAt": "2026-06-24T19:16:16.380Z",
+  "narration": {
+    "files": [
+      "swbb-line-1-athens-metro-flight-context.mp3",
+      "swbb-line-1-athens-metro-intro.mp3",
+      "swbb-line-1-athens-metro-a-beast-and-a-promise.mp3",
+      "swbb-line-1-athens-metro-the-electric-arrives.mp3",
+      "swbb-line-1-athens-metro-becoming-line-1.mp3",
+      "swbb-line-1-athens-metro-still-climbing-north.mp3"
+    ],
+    "durations": {
+      "swbb-line-1-athens-metro-flight-context.mp3": 70.4135833,
+      "swbb-line-1-athens-metro-intro.mp3": 42.5308333,
+      "swbb-line-1-athens-metro-a-beast-and-a-promise.mp3": 57.2362083,
+      "swbb-line-1-athens-metro-the-electric-arrives.mp3": 67.2105833,
+      "swbb-line-1-athens-metro-becoming-line-1.mp3": 52.6325833,
+      "swbb-line-1-athens-metro-still-climbing-north.mp3": 51.1982916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

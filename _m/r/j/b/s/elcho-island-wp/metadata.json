@@ -82,5 +82,26 @@
   ],
   "galleryPaths": [
     "_m/r/j/b/s/elcho-island-wp/geocover-2000-sat-imag.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "rjbs-elcho-island-flight-context.mp3",
+      "rjbs-elcho-island-intro.mp3",
+      "rjbs-elcho-island-saltwater-country.mp3",
+      "rjbs-elcho-island-the-mission-and-the-adjustment.mp3",
+      "rjbs-elcho-island-voice-of-the-island.mp3",
+      "rjbs-elcho-island-both-ways.mp3",
+      "rjbs-elcho-island-echoes-from-the-sea.mp3"
+    ],
+    "durations": {
+      "rjbs-elcho-island-flight-context.mp3": 65.22625,
+      "rjbs-elcho-island-intro.mp3": 45.9919166,
+      "rjbs-elcho-island-saltwater-country.mp3": 58.322125,
+      "rjbs-elcho-island-the-mission-and-the-adjustment.mp3": 58.1170416,
+      "rjbs-elcho-island-voice-of-the-island.mp3": 49.6395833,
+      "rjbs-elcho-island-both-ways.mp3": 52.60775,
+      "rjbs-elcho-island-echoes-from-the-sea.mp3": 48.7895
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

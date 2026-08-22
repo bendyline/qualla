@@ -52,5 +52,26 @@
     "sourceGeohash4": "w6uf"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "w6uf-cam-ne-incident-flight-context.mp3",
+      "w6uf-cam-ne-incident-intro.mp3",
+      "w6uf-cam-ne-incident-the-village-before-the-fire.mp3",
+      "w6uf-cam-ne-incident-what-the-camera-saw.mp3",
+      "w6uf-cam-ne-incident-the-reaction-in-washington.mp3",
+      "w6uf-cam-ne-incident-the-village-after.mp3",
+      "w6uf-cam-ne-incident-what-cam-ne-meant.mp3"
+    ],
+    "durations": {
+      "w6uf-cam-ne-incident-flight-context.mp3": 60.0518333,
+      "w6uf-cam-ne-incident-intro.mp3": 56.0275,
+      "w6uf-cam-ne-incident-the-village-before-the-fire.mp3": 70.3327083,
+      "w6uf-cam-ne-incident-what-the-camera-saw.mp3": 63.3707916,
+      "w6uf-cam-ne-incident-the-reaction-in-washington.mp3": 64.8070833,
+      "w6uf-cam-ne-incident-the-village-after.mp3": 65.459875,
+      "w6uf-cam-ne-incident-what-cam-ne-meant.mp3": 60.7492916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

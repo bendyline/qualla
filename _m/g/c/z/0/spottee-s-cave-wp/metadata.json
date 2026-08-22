@@ -53,5 +53,24 @@
     "sourceGeohash4": "gcz0"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcz0-spottees-cave-flight-context.mp3",
+      "gcz0-spottees-cave-intro.mp3",
+      "gcz0-spottees-cave-cannonballs-in-the-cliffs.mp3",
+      "gcz0-spottees-cave-the-sailor-who-could-not-be-understood.mp3",
+      "gcz0-spottees-cave-the-boggle-bo-of-sunderland.mp3",
+      "gcz0-spottees-cave-closed-but-not-forgotten.mp3"
+    ],
+    "durations": {
+      "gcz0-spottees-cave-flight-context.mp3": 51.3397083,
+      "gcz0-spottees-cave-intro.mp3": 36.2441666,
+      "gcz0-spottees-cave-cannonballs-in-the-cliffs.mp3": 50.5727916,
+      "gcz0-spottees-cave-the-sailor-who-could-not-be-understood.mp3": 53.3003333,
+      "gcz0-spottees-cave-the-boggle-bo-of-sunderland.mp3": 51.8808333,
+      "gcz0-spottees-cave-closed-but-not-forgotten.mp3": 51.0467916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

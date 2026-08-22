@@ -144,5 +144,24 @@
     "_m/g/c/v/w/edinburgh-wp/scotland-relief-location-map.jpg",
     "_m/g/f/n/0/siege-of-st-andrews-castle-wp/gun-loop-st-andrews-ca.jpg",
     "_m/g/f/j/b/old-course-at-st-andrews-wp/relief-map-fife-uk-equ.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gfn0-siege-of-st-andrews-castle-flight-context.mp3",
+      "gfn0-siege-of-st-andrews-castle-intro.mp3",
+      "gfn0-siege-of-st-andrews-castle-the-assassins-inside.mp3",
+      "gfn0-siege-of-st-andrews-castle-the-castilians-and-the-mine.mp3",
+      "gfn0-siege-of-st-andrews-castle-knox-walks-in.mp3",
+      "gfn0-siege-of-st-andrews-castle-the-french-fleet-and-the-end.mp3"
+    ],
+    "durations": {
+      "gfn0-siege-of-st-andrews-castle-flight-context.mp3": 49.88525,
+      "gfn0-siege-of-st-andrews-castle-intro.mp3": 46.8607083,
+      "gfn0-siege-of-st-andrews-castle-the-assassins-inside.mp3": 64.454125,
+      "gfn0-siege-of-st-andrews-castle-the-castilians-and-the-mine.mp3": 67.967,
+      "gfn0-siege-of-st-andrews-castle-knox-walks-in.mp3": 58.9762916,
+      "gfn0-siege-of-st-andrews-castle-the-french-fleet-and-the-end.mp3": 107.3022916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -709,5 +709,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecn-happy-valley-racecourse-flight-context.mp3",
+      "wecn-happy-valley-racecourse-intro.mp3",
+      "wecn-happy-valley-racecourse-draining-the-swamp.mp3",
+      "wecn-happy-valley-racecourse-the-shadow-of-1918.mp3",
+      "wecn-happy-valley-racecourse-wednesday-nights-and-the-world.mp3",
+      "wecn-happy-valley-racecourse-inside-the-oval.mp3"
+    ],
+    "durations": {
+      "wecn-happy-valley-racecourse-flight-context.mp3": 46.8699166,
+      "wecn-happy-valley-racecourse-intro.mp3": 41.1073333,
+      "wecn-happy-valley-racecourse-draining-the-swamp.mp3": 56.2522916,
+      "wecn-happy-valley-racecourse-the-shadow-of-1918.mp3": 62.7768333,
+      "wecn-happy-valley-racecourse-wednesday-nights-and-the-world.mp3": 50.9567083,
+      "wecn-happy-valley-racecourse-inside-the-oval.mp3": 55.5343333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

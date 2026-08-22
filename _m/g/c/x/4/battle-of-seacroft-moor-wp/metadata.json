@@ -86,5 +86,26 @@
   ],
   "galleryPaths": [
     "_m/g/c/w/c/battle-of-adwalton-moor-wp/relief-map-west-yorksh.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcx4-battle-of-seacroft-moor-flight-context.mp3",
+      "gcx4-battle-of-seacroft-moor-intro.mp3",
+      "gcx4-battle-of-seacroft-moor-the-diversion.mp3",
+      "gcx4-battle-of-seacroft-moor-countrymen-in-arms.mp3",
+      "gcx4-battle-of-seacroft-moor-the-charge-on-whinmoor.mp3",
+      "gcx4-battle-of-seacroft-moor-the-wives-of-leeds.mp3",
+      "gcx4-battle-of-seacroft-moor-suburb-over-soldiers.mp3"
+    ],
+    "durations": {
+      "gcx4-battle-of-seacroft-moor-flight-context.mp3": 52.7115,
+      "gcx4-battle-of-seacroft-moor-intro.mp3": 40.2735416,
+      "gcx4-battle-of-seacroft-moor-the-diversion.mp3": 60.3929166,
+      "gcx4-battle-of-seacroft-moor-countrymen-in-arms.mp3": 48.787125,
+      "gcx4-battle-of-seacroft-moor-the-charge-on-whinmoor.mp3": 49.7780416,
+      "gcx4-battle-of-seacroft-moor-the-wives-of-leeds.mp3": 49.0895416,
+      "gcx4-battle-of-seacroft-moor-suburb-over-soldiers.mp3": 41.47425
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

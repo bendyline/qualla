@@ -544,5 +544,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-engelk-y-flight-context.mp3",
+      "sxk9-engelk-y-intro.mp3",
+      "sxk9-engelk-y-sophianai-the-name-before-the-name.mp3",
+      "sxk9-engelk-y-what-the-hook-means.mp3",
+      "sxk9-engelk-y-the-cucumbers.mp3",
+      "sxk9-engelk-y-ottoman-mansions-and-a-presidential-pavilion.mp3"
+    ],
+    "durations": {
+      "sxk9-engelk-y-flight-context.mp3": 50.439,
+      "sxk9-engelk-y-intro.mp3": 44.7192916,
+      "sxk9-engelk-y-sophianai-the-name-before-the-name.mp3": 54.648875,
+      "sxk9-engelk-y-what-the-hook-means.mp3": 60.758125,
+      "sxk9-engelk-y-the-cucumbers.mp3": 59.4600416,
+      "sxk9-engelk-y-ottoman-mansions-and-a-presidential-pavilion.mp3": 70.44675
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

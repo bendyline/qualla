@@ -242,5 +242,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-kas-mpa-a-beyo-lu-flight-context.mp3",
+      "sxk9-kas-mpa-a-beyo-lu-intro.mp3",
+      "sxk9-kas-mpa-a-beyo-lu-ships-dragged-over-land.mp3",
+      "sxk9-kas-mpa-a-beyo-lu-when-the-third-navy-in-the-world-declined.mp3",
+      "sxk9-kas-mpa-a-beyo-lu-fire-pogrom-and-transformation.mp3",
+      "sxk9-kas-mpa-a-beyo-lu-a-shore-being-remade.mp3"
+    ],
+    "durations": {
+      "sxk9-kas-mpa-a-beyo-lu-flight-context.mp3": 46.2142083,
+      "sxk9-kas-mpa-a-beyo-lu-intro.mp3": 46.8255416,
+      "sxk9-kas-mpa-a-beyo-lu-ships-dragged-over-land.mp3": 84.875,
+      "sxk9-kas-mpa-a-beyo-lu-when-the-third-navy-in-the-world-declined.mp3": 102.4112083,
+      "sxk9-kas-mpa-a-beyo-lu-fire-pogrom-and-transformation.mp3": 76.649875,
+      "sxk9-kas-mpa-a-beyo-lu-a-shore-being-remade.mp3": 79.8912083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

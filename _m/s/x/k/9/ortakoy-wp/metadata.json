@@ -567,5 +567,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-ortak-y-flight-context.mp3",
+      "sxk9-ortak-y-intro.mp3",
+      "sxk9-ortak-y-the-waterfront-that-has-everything.mp3",
+      "sxk9-ortak-y-exiles-and-observers.mp3",
+      "sxk9-ortak-y-palaces-along-the-shore.mp3",
+      "sxk9-ortak-y-a-village-that-keeps-reinventing-itself.mp3"
+    ],
+    "durations": {
+      "sxk9-ortak-y-flight-context.mp3": 46.8200416,
+      "sxk9-ortak-y-intro.mp3": 42.6082083,
+      "sxk9-ortak-y-the-waterfront-that-has-everything.mp3": 58.1019583,
+      "sxk9-ortak-y-exiles-and-observers.mp3": 58.5394166,
+      "sxk9-ortak-y-palaces-along-the-shore.mp3": 65.6435416,
+      "sxk9-ortak-y-a-village-that-keeps-reinventing-itself.mp3": 58.099125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

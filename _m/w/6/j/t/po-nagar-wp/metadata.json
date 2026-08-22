@@ -582,5 +582,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w6jt-po-nagar-flight-context.mp3",
+      "w6jt-po-nagar-intro.mp3",
+      "w6jt-po-nagar-the-goddess-of-the-country.mp3",
+      "w6jt-po-nagar-raids-gifts-and-the-khmer.mp3",
+      "w6jt-po-nagar-what-the-towers-hold.mp3",
+      "w6jt-po-nagar-sacred-ground-across-centuries.mp3"
+    ],
+    "durations": {
+      "w6jt-po-nagar-flight-context.mp3": 53.243125,
+      "w6jt-po-nagar-intro.mp3": 33.4945833,
+      "w6jt-po-nagar-the-goddess-of-the-country.mp3": 62.8995833,
+      "w6jt-po-nagar-raids-gifts-and-the-khmer.mp3": 59.1522083,
+      "w6jt-po-nagar-what-the-towers-hold.mp3": 60.8160833,
+      "w6jt-po-nagar-sacred-ground-across-centuries.mp3": 61.7572916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

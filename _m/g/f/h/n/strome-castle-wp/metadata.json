@@ -439,5 +439,24 @@
     "_m/g/f/h/n/strome-castle-wp/castle-bay-loch-charron-geogra.jpg",
     "_m/g/f/h/n/strome-castle-wp/view-of-loch-carron-from-strom.jpg"
   ],
-  "updatedAt": "2026-06-23T23:34:51.820Z"
+  "updatedAt": "2026-06-23T23:34:51.820Z",
+  "narration": {
+    "files": [
+      "gfhn-strome-castle-flight-context.mp3",
+      "gfhn-strome-castle-intro.mp3",
+      "gfhn-strome-castle-built-by-the-lord-of-the-isles.mp3",
+      "gfhn-strome-castle-granted-seized-disputed.mp3",
+      "gfhn-strome-castle-demolished-on-purpose.mp3",
+      "gfhn-strome-castle-what-the-sea-has-left.mp3"
+    ],
+    "durations": {
+      "gfhn-strome-castle-flight-context.mp3": 90.1922083,
+      "gfhn-strome-castle-intro.mp3": 41.05625,
+      "gfhn-strome-castle-built-by-the-lord-of-the-isles.mp3": 58.2749583,
+      "gfhn-strome-castle-granted-seized-disputed.mp3": 56.9852916,
+      "gfhn-strome-castle-demolished-on-purpose.mp3": 58.0494166,
+      "gfhn-strome-castle-what-the-sea-has-left.mp3": 59.96225
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -20,7 +20,7 @@ On the morning of 16 November 1632 (Gregorian calendar; Sweden, still using the 
 
 ## Where the King Fell
 
-Somewhere in this confusion, Gustavus Adolphus and his small entourage of staff officers got separated from the Swedish line and rode into a unit of Imperial cuirassiers. He was nearsighted; he had refused to wear armor that day because of an old wound. He was shot in the arm, then the back, then the head. His horse bolted. His men found his body hours later under other dead. By the time the news began to spread along the Swedish line, his deputies had already taken control: the German general Bernhard of Saxe-Weimar pressed the attack on the Imperial left, and Knyphausen reorganized the broken brigades and brought them forward again. By four in the afternoon they had taken the village of Lutzen and the Imperial battery on the windmill hill. Wallenstein, with his own troops in equally bad shape, ordered the retreat at dusk and abandoned his guns and supply wagons. Pappenheim's infantry, arriving on the field after dark, asked permission to counter-attack. Wallenstein told them no. The Swedish army held the field, but at a terrible cost: about 6,000 men killed or wounded, including their king. The Imperial losses were slightly lower, perhaps 5,160.
+Somewhere in this confusion, Gustavus Adolphus and his small entourage of staff officers got separated from the Swedish line and rode into a unit of Imperial cuirassiers. He was nearsighted; he had refused to wear armor that day because of an old wound. He was shot in the arm, then the back, then the head. His horse bolted. His men found his body hours later under other dead. By the time the news began to spread along the Swedish line, his deputies had already taken control: the German general Bernhard of Saxe-Weimar pressed the attack on the Imperial left, and Knyphausen reorganized the broken brigades and brought them forward again. By four in the afternoon they had taken the village of Lutzen and the Imperial battery on the windmill hill. Wallenstein, with his own troops in equally bad shape, ordered the retreat at dusk and abandoned his guns and supply wagons. Pappenheim's infantry, arriving on the field after dark, asked permission to counter-attack. Wallenstein told them no. The Swedish army held the field, but at a terrible cost: about 6,000 of its soldiers killed or wounded, including their king. Perhaps 5,160 men on the Imperial side were killed or wounded too - Bohemians, Croats, Italians, Walloons and Germans fighting for pay and for a cause most of them had not chosen, and lying in the same mud when the fog lifted.
 
 ## The Aftermath
 
@@ -37,8 +37,31 @@ Located at 51.27N, 12.16E in Saxony-Anhalt, central Germany, about 25km southwes
 ## Sources
 
 - [Battle of Lützen (1632) - Wikipedia](https://en.wikipedia.org/?curid=101666)
+  - Battle date 16 November 1632 Gregorian / 6 November 1632 Julian (confirmed)
+  - Swedish army about 19,000 with 60 guns; Imperial casualties 5,160 killed/wounded/captured plus 24 guns lost; Swedish casualties about 6,000 (confirmed)
+  - Gustavus Adolphus shot multiple times including a fatal shot, separated from his troops in fog and smoke; body found under a heap of corpses (confirmed)
+  - Pappenheim mortally wounded leading his cavalry charge, died in a coach (confirmed)
+  - Wallenstein assassinated by his own officers, February 1634 (confirmed)
+  - 2011 mass grave: 47 skeletons, average age 28, over half showing gunshot wounds (confirmed)
+- [Gustavus Adolphus of Sweden - Wikipedia](https://en.wikipedia.org/wiki/Gustavus_Adolphus)
+  - Born 9 December 1594 Julian / 19 December 1594 Gregorian, making him 37 at Lützen (confirmed)
+  - Wounded in the neck by a Polish soldier in 1627; doctors could not remove the bullet, so afterward he wore a buff-coat rather than a plate cuirass - explains the story's 'refused to wear armor because of an old wound' (confirmed)
+  - Rode astray behind enemy lines in the fog/smoke, sustained multiple wounds including a final fatal shot (confirmed)
+
+## Review Notes
+
+**Reviewed:** 2026-08-05 · 15 facts verified · 0 corrections
+
+Verified battle date (16 Nov 1632 Gregorian/6 Nov Julian), army sizes and casualties (Swedish ~19,000/~6,000 casualties, Imperial 5,160), Gustavus Adolphus's death circumstances, age (37, confirmed via birth date 19 Dec 1594), the 1627 neck wound explaining his lack of armor, Pappenheim's death, Wallenstein's Feb 1634 assassination, and the 2011 mass grave (47 skeletons, avg age 28, majority gunshot deaths) via Wikipedia curid=101666 and Gustavus Adolphus's own Wikipedia page. All facts confirmed, no corrections needed. Spiciness 2.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Nobody in Sweden quite knew how to feel about a victory that left their king dead in a German ditch
+- They could not quite let go of the day
 
 ---
 
-*Word count: 870*
+*Word count: 1,120*
 *Read time: 5 minutes*

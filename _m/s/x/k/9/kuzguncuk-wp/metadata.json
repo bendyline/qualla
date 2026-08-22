@@ -720,5 +720,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-kuzguncuk-flight-context.mp3",
+      "sxk9-kuzguncuk-intro.mp3",
+      "sxk9-kuzguncuk-before-living-memory-gilded-tiles-and-a-generals-c.mp3",
+      "sxk9-kuzguncuk-the-arriving-communities.mp3",
+      "sxk9-kuzguncuk-the-fractures-of-the-twentieth-century.mp3",
+      "sxk9-kuzguncuk-what-remains.mp3",
+      "sxk9-kuzguncuk-quiet-streets-wooden-houses-plane-trees.mp3"
+    ],
+    "durations": {
+      "sxk9-kuzguncuk-flight-context.mp3": 61.076,
+      "sxk9-kuzguncuk-intro.mp3": 55.6094583,
+      "sxk9-kuzguncuk-before-living-memory-gilded-tiles-and-a-generals-c.mp3": 65.3109583,
+      "sxk9-kuzguncuk-the-arriving-communities.mp3": 88.2135833,
+      "sxk9-kuzguncuk-the-fractures-of-the-twentieth-century.mp3": 85.1825833,
+      "sxk9-kuzguncuk-what-remains.mp3": 67.0642083,
+      "sxk9-kuzguncuk-quiet-streets-wooden-houses-plane-trees.mp3": 70.2884166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

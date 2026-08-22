@@ -535,5 +535,24 @@
     "_m/s/w/d/4/cave-of-zas-naxos-wp/cave-zas-naxz23.jpg",
     "_m/s/w/d/4/cave-of-zas-naxos-wp/cave-zas-naxz26.jpg"
   ],
-  "updatedAt": "2026-06-24T22:06:53.709Z"
+  "updatedAt": "2026-06-24T22:06:53.709Z",
+  "narration": {
+    "files": [
+      "swd4-cave-of-zas-flight-context.mp3",
+      "swd4-cave-of-zas-intro.mp3",
+      "swd4-cave-of-zas-where-zeus-was-raised.mp3",
+      "swd4-cave-of-zas-older-than-the-gods.mp3",
+      "swd4-cave-of-zas-reading-the-floor.mp3",
+      "swd4-cave-of-zas-into-the-dark.mp3"
+    ],
+    "durations": {
+      "swd4-cave-of-zas-flight-context.mp3": 44.7778333,
+      "swd4-cave-of-zas-intro.mp3": 41.6347083,
+      "swd4-cave-of-zas-where-zeus-was-raised.mp3": 35.9235833,
+      "swd4-cave-of-zas-older-than-the-gods.mp3": 32.006875,
+      "swd4-cave-of-zas-reading-the-floor.mp3": 37.31875,
+      "swd4-cave-of-zas-into-the-dark.mp3": 37.7839166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

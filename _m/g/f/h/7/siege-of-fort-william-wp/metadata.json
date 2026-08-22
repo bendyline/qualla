@@ -121,5 +121,24 @@
   "galleryPaths": [
     "_m/g/f/h/7/siege-of-fort-william-wp/model-granado-bomb-ves.jpg",
     "_m/g/c/v/w/edinburgh-wp/scotland-relief-location-map.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gfh7-siege-of-fort-william-flight-context.mp3",
+      "gfh7-siege-of-fort-william-intro.mp3",
+      "gfh7-siege-of-fort-william-the-last-fort-in-the-great-glen.mp3",
+      "gfh7-siege-of-fort-william-a-modern-bastion.mp3",
+      "gfh7-siege-of-fort-william-two-weeks-of-bombardment.mp3",
+      "gfh7-siege-of-fort-william-withdrawal-toward-culloden.mp3"
+    ],
+    "durations": {
+      "gfh7-siege-of-fort-william-flight-context.mp3": 55.811375,
+      "gfh7-siege-of-fort-william-intro.mp3": 56.7684166,
+      "gfh7-siege-of-fort-william-the-last-fort-in-the-great-glen.mp3": 46.216375,
+      "gfh7-siege-of-fort-william-a-modern-bastion.mp3": 58.4197083,
+      "gfh7-siege-of-fort-william-two-weeks-of-bombardment.mp3": 63.72,
+      "gfh7-siege-of-fort-william-withdrawal-toward-culloden.mp3": 58.0932083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

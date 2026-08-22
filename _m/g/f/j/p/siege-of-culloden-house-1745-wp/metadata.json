@@ -51,5 +51,22 @@
     "sourceGeohash4": "gfjp"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gfjp-siege-of-culloden-house-1745-flight-context.mp3",
+      "gfjp-siege-of-culloden-house-1745-intro.mp3",
+      "gfjp-siege-of-culloden-house-1745-lovats-long-game.mp3",
+      "gfjp-siege-of-culloden-house-1745-the-night-raid.mp3",
+      "gfjp-siege-of-culloden-house-1745-aftermath.mp3"
+    ],
+    "durations": {
+      "gfjp-siege-of-culloden-house-1745-flight-context.mp3": 74.8845416,
+      "gfjp-siege-of-culloden-house-1745-intro.mp3": 65.8578333,
+      "gfjp-siege-of-culloden-house-1745-lovats-long-game.mp3": 67.2189583,
+      "gfjp-siege-of-culloden-house-1745-the-night-raid.mp3": 63.0562916,
+      "gfjp-siege-of-culloden-house-1745-aftermath.mp3": 96.517125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

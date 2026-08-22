@@ -60,5 +60,24 @@
     "sourceGeohash4": "qegw"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qegw-mount-tom-price-mine-flight-context.mp3",
+      "qegw-mount-tom-price-mine-intro.mp3",
+      "qegw-mount-tom-price-mine-where-the-boom-began.mp3",
+      "qegw-mount-tom-price-mine-the-top-town-in-the-state.mp3",
+      "qegw-mount-tom-price-mine-from-pit-to-port.mp3",
+      "qegw-mount-tom-price-mine-an-old-mine-a-new-grid.mp3"
+    ],
+    "durations": {
+      "qegw-mount-tom-price-mine-flight-context.mp3": 65.3913333,
+      "qegw-mount-tom-price-mine-intro.mp3": 44.408375,
+      "qegw-mount-tom-price-mine-where-the-boom-began.mp3": 56.3829166,
+      "qegw-mount-tom-price-mine-the-top-town-in-the-state.mp3": 51.6245833,
+      "qegw-mount-tom-price-mine-from-pit-to-port.mp3": 56.060125,
+      "qegw-mount-tom-price-mine-an-old-mine-a-new-grid.mp3": 54.6378333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

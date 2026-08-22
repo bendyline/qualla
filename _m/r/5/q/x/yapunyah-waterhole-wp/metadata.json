@@ -106,5 +106,24 @@
   "galleryPaths": [
     "_m/r/n/j/5/green-hill-fort-wp/hero.jpg",
     "_m/q/d/6/6/perth-wp/australia-relief-map.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r5qx-yapunyah-waterhole-flight-context.mp3",
+      "r5qx-yapunyah-waterhole-intro.mp3",
+      "r5qx-yapunyah-waterhole-a-refuge-that-outlasts-the-drought.mp3",
+      "r5qx-yapunyah-waterhole-the-turtle-found-nowhere-else.mp3",
+      "r5qx-yapunyah-waterhole-wallabies-on-the-rock-ledges.mp3",
+      "r5qx-yapunyah-waterhole-guarded-by-distance-and-goodwill.mp3"
+    ],
+    "durations": {
+      "r5qx-yapunyah-waterhole-flight-context.mp3": 68.4632083,
+      "r5qx-yapunyah-waterhole-intro.mp3": 39.5895416,
+      "r5qx-yapunyah-waterhole-a-refuge-that-outlasts-the-drought.mp3": 55.3041666,
+      "r5qx-yapunyah-waterhole-the-turtle-found-nowhere-else.mp3": 47.58225,
+      "r5qx-yapunyah-waterhole-wallabies-on-the-rock-ledges.mp3": 47.5849166,
+      "r5qx-yapunyah-waterhole-guarded-by-distance-and-goodwill.mp3": 53.2717083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

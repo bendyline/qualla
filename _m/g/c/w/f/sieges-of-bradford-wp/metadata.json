@@ -116,5 +116,24 @@
   "galleryPaths": [
     "_m/g/c/w/c/battle-of-adwalton-moor-wp/relief-map-west-yorksh.jpg",
     "_m/g/c/w/f/sieges-of-bradford-wp/silver-tinted-postcard.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcwf-sieges-of-bradford-flight-context.mp3",
+      "gcwf-sieges-of-bradford-intro.mp3",
+      "gcwf-sieges-of-bradford-wool-sacks-against-cannonballs.mp3",
+      "gcwf-sieges-of-bradford-the-apparition-at-bolling-hall.mp3",
+      "gcwf-sieges-of-bradford-the-long-aftermath.mp3",
+      "gcwf-sieges-of-bradford-walking-the-battlefield-today.mp3"
+    ],
+    "durations": {
+      "gcwf-sieges-of-bradford-flight-context.mp3": 49.5161666,
+      "gcwf-sieges-of-bradford-intro.mp3": 51.434875,
+      "gcwf-sieges-of-bradford-wool-sacks-against-cannonballs.mp3": 63.89275,
+      "gcwf-sieges-of-bradford-the-apparition-at-bolling-hall.mp3": 63.3164166,
+      "gcwf-sieges-of-bradford-the-long-aftermath.mp3": 68.2026666,
+      "gcwf-sieges-of-bradford-walking-the-battlefield-today.mp3": 50.850125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

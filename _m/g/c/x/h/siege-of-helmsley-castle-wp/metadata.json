@@ -82,5 +82,24 @@
   ],
   "galleryPaths": [
     "_m/g/c/x/4/battle-of-marston-moor-wp/relief-map-north-yorks.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcxh-siege-of-helmsley-castle-flight-context.mp3",
+      "gcxh-siege-of-helmsley-castle-intro.mp3",
+      "gcxh-siege-of-helmsley-castle-after-marston-moor.mp3",
+      "gcxh-siege-of-helmsley-castle-the-shoulder-that-nearly-ended-it.mp3",
+      "gcxh-siege-of-helmsley-castle-crosslands-surprising-demand.mp3",
+      "gcxh-siege-of-helmsley-castle-relief-failure-surrender.mp3"
+    ],
+    "durations": {
+      "gcxh-siege-of-helmsley-castle-flight-context.mp3": 47.4931666,
+      "gcxh-siege-of-helmsley-castle-intro.mp3": 35.60475,
+      "gcxh-siege-of-helmsley-castle-after-marston-moor.mp3": 55.6257083,
+      "gcxh-siege-of-helmsley-castle-the-shoulder-that-nearly-ended-it.mp3": 62.635,
+      "gcxh-siege-of-helmsley-castle-crosslands-surprising-demand.mp3": 61.3002916,
+      "gcxh-siege-of-helmsley-castle-relief-failure-surrender.mp3": 66.7777916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

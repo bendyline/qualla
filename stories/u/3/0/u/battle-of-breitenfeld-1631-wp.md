@@ -8,7 +8,7 @@ On 17 September 1631, on a field of crossroads ten kilometres north of Leipzig, 
 
 ## Introduction
 
-Imagine the wind in your face. The Swedish musketeers at Breitenfeld stood with the south-westerly blowing dust and gunpowder smoke straight into their eyes for two hours of artillery cannonade, watching their lighter, more dispersed lines absorb the iron hail of Tilly's tercios. They held; the tercios bled. Then, at two o'clock in the afternoon on 17 September 1631, Field Marshal Pappenheim's cuirassiers charged the Swedish right wing without orders and were repulsed seven times in quick succession. By six in the evening, the Imperial-Catholic League army that had been the master of central Germany for a decade lay broken on a Saxon field. The casualties on the Catholic side ran to between seven and eight thousand killed and another six thousand captured, two-thirds of Tilly's army gone in a single afternoon. The Thirty Years' War still had seventeen years left to run, but the Protestant cause now had a champion who could win pitched battles, and the war's terrible balance had tipped.
+The wind blew from the south-west that afternoon, and it carried dust and powder smoke straight into Swedish faces for two hours while the guns worked. Gustavus Adolphus's musketeers stood in it and did not break. Across the shallow rise ten kilometres north of Leipzig, Tilly's tercios stood in the same smoke and took far worse, because they were packed shoulder to shoulder and the Swedes were not. At two o'clock, Field Marshal Pappenheim's cuirassiers charged the Swedish right wing without orders and were thrown back seven times. By six that evening, 17 September 1631, the Imperial-Catholic League army that had been master of central Germany for a decade had ceased to exist as a fighting force. Some seven and a half thousand of Tilly's soldiers were killed or wounded and six thousand more taken prisoner - two-thirds of an army, in an afternoon. The Thirty Years' War still had seventeen years to run. But the Protestant cause now had a commander who could win a pitched battle, and every court in Europe understood what that meant.
 
 ## A king from the north
 
@@ -24,7 +24,7 @@ The first crisis was Saxon. Half an hour after Pappenheim's first charge, Imperi
 
 ## What it cost
 
-By six in the evening Banér's cavalry had finally broken Pappenheim and Gustavus had personally led a charge that captured Tilly's artillery on the Galgenberg ridge. The captured guns were turned around and used to fire into the surviving tercios. Tilly was wounded three times by musket bullets, struck twice more in the head with a sword, and was saved only by Imperial Colonel Rudolf Maximilian von Sachsen-Lauenburg shooting down the German officer trying to capture him. Pappenheim formed a last rear-guard with the remnants of four regiments at the Linkelwald forest and bought time for the Imperial flight. Of the four thousand one hundred men in those regiments at dawn, six hundred were left at sunset. The Swedish army lost around three thousand five hundred and fifty; the Saxons two to three thousand more. Tilly's army lost two-thirds of its strength in a few hours. Imperial prisoners were absorbed into Swedish ranks. One hundred and twenty captured banners were sent home to be hung in the Riddarholmen Church in Stockholm, where some of them still hang. Gustavus would die fifteen months later at Lützen. The war he had reshaped would grind on until 1648.
+By six in the evening Banér's cavalry had broken Pappenheim, and Gustavus had led a charge that took Tilly's artillery on the Galgenberg ridge. The captured guns were turned around and fired into the surviving tercios. Tilly himself was hit three times by musket balls and struck twice more in the head with a sword; he survived only because an Imperial colonel, Rudolf Maximilian von Sachsen-Lauenburg, shot down the officer trying to take him prisoner. Pappenheim held the Linkelwald with the remnants of four regiments to cover the retreat. Those regiments had gone into the morning with four thousand one hundred men. Six hundred of them were still standing at sunset. Around three thousand five hundred and fifty Swedish soldiers and two to three thousand Saxons died or were wounded; the Imperial prisoners were absorbed into the Swedish ranks, which is how a professional soldier of that century usually survived a defeat. One hundred and twenty captured banners went home to Stockholm and were hung in the Riddarholmen Church, where some of them still hang. Gustavus had fifteen months left to live. He was killed at Lützen, a short ride south-west of this field, and the war he had reshaped ground on until 1648.
 
 ## Flight Context
 
@@ -33,8 +33,24 @@ The battlefield lies at 51.40°N, 12.33°E about ten kilometres north of Leipzig
 ## Sources
 
 - [Battle of Breitenfeld (1631) - Wikipedia](https://en.wikipedia.org/?curid=602871)
+- [Battle of Breitenfeld (1631) - Wikipedia](https://en.wikipedia.org/?curid=602871)
+  - Battle date 17 September 1631; Swedish-Saxon army ~40,150 with 66 guns vs Imperial-League ~31,400 with 27 guns (story's 'around forty thousand' / 'roughly thirty-one thousand' confirmed)
+  - Casualties: Imperial-League ~7,600 killed/wounded plus 6,000 captured; Swedish-Saxon ~5,550 killed/wounded (consistent with story's breakdown of ~3,550 Swedes + 2,000-3,000 Saxons)
+  - Gustavus Adolphus landed Pomerania June 1630 with ~18,000 troops; Sack of Magdeburg May 1631; 120 captured banners sent to Riddarholmen Church, Stockholm (confirmed)
+  - Tilly wounded: three musket balls plus two sword blows to the head, saved by Colonel Rudolf Maximilian von Sachsen-Lauenburg shooting down his would-be captor (confirmed)
+  - Pappenheim's cuirassiers charged the Swedish right without orders and were repulsed seven times before Gustavus's counter-charge broke them (confirmed)
+  - Colonel John Hepburn's Scottish brigades reinforced Gustav Horn's left flank with alternating-rank platoon volley fire (confirmed)
+  - Pappenheim's rearguard at Linkelwald: four regiments totaling ~4,100 men reduced to ~600 by nightfall (confirmed)
+
+## Review Notes
+
+**Reviewed:** 2026-08-05 · 14 facts verified · 0 corrections
+
+Verified army sizes, casualties, prisoner/banner counts, Tilly's wounds and rescue, Pappenheim's seven repulsed charges, Hepburn's reinforcement, and the Linkelwald rearguard figures via EN Wikipedia. All granular tactical details confirmed accurate. No empathy/dignity issues (historical military narrative, no dehumanizing language). Spiciness 2 (mild).
+
+**Spiciness:** 2/5
 
 ---
 
-*Word count: 850*
+*Word count: 836*
 *Read time: 4 minutes*

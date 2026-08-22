@@ -560,5 +560,24 @@
     "_m/s/q/z/u/mount-oeta-wp/22.jpg",
     "_m/s/q/z/u/mount-oeta-wp/24.jpg"
   ],
-  "updatedAt": "2026-06-24T12:42:36.030Z"
+  "updatedAt": "2026-06-24T12:42:36.030Z",
+  "narration": {
+    "files": [
+      "sqzu-mount-oeta-flight-context.mp3",
+      "sqzu-mount-oeta-intro.mp3",
+      "sqzu-mount-oeta-a-mountain-of-gorges-and-water.mp3",
+      "sqzu-mount-oeta-the-mountain-of-flowers.mp3",
+      "sqzu-mount-oeta-sorceresses-emperors-and-catalans.mp3",
+      "sqzu-mount-oeta-the-night-the-bridge-came-down.mp3"
+    ],
+    "durations": {
+      "sqzu-mount-oeta-flight-context.mp3": 69.3375,
+      "sqzu-mount-oeta-intro.mp3": 56.0983333,
+      "sqzu-mount-oeta-a-mountain-of-gorges-and-water.mp3": 74.28575,
+      "sqzu-mount-oeta-the-mountain-of-flowers.mp3": 81.818,
+      "sqzu-mount-oeta-sorceresses-emperors-and-catalans.mp3": 73.503625,
+      "sqzu-mount-oeta-the-night-the-bridge-came-down.mp3": 79.384
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

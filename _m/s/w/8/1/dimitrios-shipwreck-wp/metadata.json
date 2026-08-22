@@ -523,5 +523,24 @@
     "_m/s/w/8/1/dimitrios-shipwreck-wp/category-18.jpg",
     "_m/s/w/8/1/dimitrios-shipwreck-wp/category-19.jpg"
   ],
-  "updatedAt": "2026-06-24T13:04:56.957Z"
+  "updatedAt": "2026-06-24T13:04:56.957Z",
+  "narration": {
+    "files": [
+      "sw81-dimitrios-shipwreck-flight-context.mp3",
+      "sw81-dimitrios-shipwreck-intro.mp3",
+      "sw81-dimitrios-shipwreck-a-modest-ship-with-a-complicated-past.mp3",
+      "sw81-dimitrios-shipwreck-from-port-to-beach.mp3",
+      "sw81-dimitrios-shipwreck-the-stories-people-tell.mp3",
+      "sw81-dimitrios-shipwreck-rust-and-light.mp3"
+    ],
+    "durations": {
+      "sw81-dimitrios-shipwreck-flight-context.mp3": 62.25425,
+      "sw81-dimitrios-shipwreck-intro.mp3": 40.15075,
+      "sw81-dimitrios-shipwreck-a-modest-ship-with-a-complicated-past.mp3": 75.4746666,
+      "sw81-dimitrios-shipwreck-from-port-to-beach.mp3": 50.77625,
+      "sw81-dimitrios-shipwreck-the-stories-people-tell.mp3": 66.936625,
+      "sw81-dimitrios-shipwreck-rust-and-light.mp3": 71.1230833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

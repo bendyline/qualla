@@ -79,5 +79,24 @@
   ],
   "galleryPaths": [
     "_m/r/0/r/g/lake-pedder-wp/relief-map-tasmania.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r0x8-mount-lyell-tasmania-flight-context.mp3",
+      "r0x8-mount-lyell-tasmania-intro.mp3",
+      "r0x8-mount-lyell-tasmania-a-mountain-made-of-money.mp3",
+      "r0x8-mount-lyell-tasmania-the-fire-of-1912.mp3",
+      "r0x8-mount-lyell-tasmania-the-scarred-slopes.mp3",
+      "r0x8-mount-lyell-tasmania-what-the-rivers-remember.mp3"
+    ],
+    "durations": {
+      "r0x8-mount-lyell-tasmania-flight-context.mp3": 65.0819166,
+      "r0x8-mount-lyell-tasmania-intro.mp3": 53.1394166,
+      "r0x8-mount-lyell-tasmania-a-mountain-made-of-money.mp3": 59.378125,
+      "r0x8-mount-lyell-tasmania-the-fire-of-1912.mp3": 59.9049583,
+      "r0x8-mount-lyell-tasmania-the-scarred-slopes.mp3": 55.1336666,
+      "r0x8-mount-lyell-tasmania-what-the-rivers-remember.mp3": 51.1439583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

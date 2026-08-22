@@ -430,5 +430,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-basketmakers-kiosk-flight-context.mp3",
+      "sxk9-basketmakers-kiosk-intro.mp3",
+      "sxk9-basketmakers-kiosk-a-palace-born-of-three-sultans.mp3",
+      "sxk9-basketmakers-kiosk-the-last-one-standing.mp3",
+      "sxk9-basketmakers-kiosk-where-admirals-said-farewell.mp3",
+      "sxk9-basketmakers-kiosk-what-the-windows-show.mp3",
+      "sxk9-basketmakers-kiosk-name-that-outlasted-everything-else.mp3"
+    ],
+    "durations": {
+      "sxk9-basketmakers-kiosk-flight-context.mp3": 71.2075833,
+      "sxk9-basketmakers-kiosk-intro.mp3": 35.4959166,
+      "sxk9-basketmakers-kiosk-a-palace-born-of-three-sultans.mp3": 58.6248333,
+      "sxk9-basketmakers-kiosk-the-last-one-standing.mp3": 52.030125,
+      "sxk9-basketmakers-kiosk-where-admirals-said-farewell.mp3": 44.63625,
+      "sxk9-basketmakers-kiosk-what-the-windows-show.mp3": 47.7548333,
+      "sxk9-basketmakers-kiosk-name-that-outlasted-everything-else.mp3": 38.8119166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

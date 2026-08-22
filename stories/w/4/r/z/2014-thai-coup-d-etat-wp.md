@@ -12,7 +12,7 @@ Thailand's twelfth coup since 1932 saw General Prayut Chan-o-cha seize power fro
 
 ## A Democracy That Keeps Resetting
 
-The roots of the 2014 coup reach back at least to 2006, when the military overthrew Prime Minister Thaksin Shinawatra after months of street protests. Thaksin had been the first Thai prime minister to complete a full term, and his populist policies had won deep loyalty in the rural north and northeast. His removal did not end his influence. From self-imposed exile, Thaksin continued to shape Thai politics through proxy parties -- first the People's Power Party, then the Pheu Thai Party. In 2011, his younger sister Yingluck Shinawatra won a landslide election and became prime minister, a victory that enraged the Bangkok establishment. By November 2013, former Democrat Party secretary general Suthep Thaugsuban was leading mass anti-government protests through the capital, demanding an unelected "people's council" to supervise political reforms. Suthep later claimed he had been in talks with General Prayut since 2010 about how to exclude the Shinawatra family from power.
+The roots of the 2014 coup reach back at least to 2006, when the military overthrew Prime Minister Thaksin Shinawatra after months of street protests. Thaksin had been the first Thai prime minister to complete a full term, and his populist policies had won deep loyalty in the rural north and northeast. His removal did not end his influence. From self-imposed exile, Thaksin continued to shape Thai politics through proxy parties -- first the People's Power Party, then the Pheu Thai Party. In 2011, his younger sister Yingluck Shinawatra won a landslide election and became prime minister, a victory that enraged the Bangkok establishment. By November 2013, former Democrat Party secretary general Suthep Thaugsuban was leading mass anti-government protests through the capital, demanding an unelected "people's council" to supervise political reforms. Suthep later claimed he had been in talks with General Prayut since 2010 about how to exclude Thaksin from power -- an assertion Prayut denied.
 
 ## Two Days of Theater
 
@@ -52,6 +52,8 @@ Centered on Bangkok, Thailand at approximately 14.0N, 101.0E. Key landmarks visi
   - 2006 coup against Thaksin - confirmed
 - [Wikipedia - National Council for Peace and Order](https://en.wikipedia.org/wiki/National_Council_for_Peace_and_Order)
   - NCPO governed Thailand and Prayut installed as prime minister - confirmed
+- [Review — 2026-07-13](https://www.bangkokpost.com/thailand/politics/416810/suthep-in-talks-with-prayuth-since-2010)
+  - Narrowed Suthep Thaugsuban's claim from "exclude the Shinawatra family" to "exclude Thaksin" to match the reported wording, and added that Gen. Prayut denied ever having such talks.
 
 ## Review Notes
 

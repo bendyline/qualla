@@ -8,7 +8,7 @@ Founded at NASA Ames to harness exponential technology, Singularity University b
 
 ## Introduction
 
-It called itself a university but granted no degrees. It promised to solve humanity's grandest challenges but faced allegations of sexual harassment, embezzlement, and discrimination. It hosted a conference during a pandemic that became a superspreader event, then its co-founder tried to sell attendees unproven COVID treatments. Singularity Group -- originally Singularity University -- is one of Silicon Valley's most ambitious ideas and one of its most instructive failures.
+It called itself a university but granted no degrees. It promised to solve humanity's grandest challenges but faced allegations of sexual harassment, embezzlement, and discrimination. It hosted a conference during a pandemic that became a superspreader event, and, according to MIT Technology Review, its co-founder afterward tried to sell attendees unproven COVID treatments. Singularity Group -- originally Singularity University -- is one of Silicon Valley's most ambitious ideas and one of its most instructive failures.
 
 ## The Pitch
 
@@ -42,6 +42,8 @@ Singularity Group's original headquarters was at NASA Ames Research Park, 37.415
   - Move from NASA Ames to Santa Clara confirmed
 - [Singularity University Officially Launches At NASA Ames - SingularityHub](https://singularityhub.com/2009/02/03/singularity-university-officially-launches-at-nasa-ames/)
   - Program originally described as nine-week (article says ten-week; duration varied by cohort year — both have been used)
+- [Review — 2026-07-13](https://www.technologyreview.com/2021/03/11/1020725/diamandis-fraudulent-covid-treatment-peptides-amniotic-fluid/)
+  - Attributed the intro claim about the co-founder selling unproven COVID treatments to MIT Technology Review (matching the body); the 'quackery' characterization is a Stanford professor of law and medicine, per that report.
 
 ## Review Notes
 

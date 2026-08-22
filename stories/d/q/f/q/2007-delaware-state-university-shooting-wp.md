@@ -24,7 +24,7 @@ Shalita Middleton was a young woman who had been on her college campus for less 
 
 ## What Happened After
 
-Delaware State University responded to the shooting by accelerating its safety infrastructure. The university implemented a text-message alert system, hired additional campus police, and built better lighting around residential areas. Within a few years of the shooting, DSU was operating one of the more comprehensive campus-safety programs among HBCUs of its size. The university also added counseling resources for students traumatized by the events of September 2007. The aftermath of the case raised broader questions about prosecutorial misconduct - the withholding of evidence that led to the dismissal of charges against Braden has been studied in Delaware bar association reviews as an example of what can go wrong when a high-pressure case meets weak evidence. Braden later filed a civil suit against the State of Delaware for his pretrial detention; the case was settled out of court. The DSU campus continues to teach, graduate, and produce students; the shooting is part of the institutional memory but does not define the day-to-day life of the campus.
+Delaware State University responded to the shooting by accelerating its safety infrastructure. The university implemented a text-message alert system, hired additional campus police, and built better lighting around residential areas. Within a few years of the shooting, DSU was operating one of the more comprehensive campus-safety programs among HBCUs of its size. The university also added counseling resources for students traumatized by the events of September 2007. The aftermath of the case raised broader questions about prosecutorial misconduct - the withholding of evidence that led to the dismissal of charges against Braden has been studied in Delaware bar association reviews as an example of what can go wrong when a high-pressure case meets weak evidence. The DSU campus continues to teach, graduate, and produce students; the shooting is part of the institutional memory but does not define the day-to-day life of the campus.
 
 ## Delaware State University
 
@@ -48,6 +48,8 @@ Delaware State University sits at 39.19 degrees north, 75.54 degrees west, on th
   - One of 17 original 1890 land-grant HBCUs under Second Morrill Act — confirmed
   - $20 million gift from MacKenzie Scott in December 2020 — confirmed
   - Corrected: Wesley College acquisition completed July 1, 2021 — not 2022 as originally stated
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2007_Delaware_State_University_shooting)
+  - Removed an unsourced claim that Braden filed a civil suit against Delaware that 'settled out of court' (not supported by the primary source); the dismissal of charges and the wrongful-detention record are retained.
 
 ## Review Notes
 

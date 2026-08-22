@@ -12,7 +12,7 @@ There were once two villages here, and the sea took one of them. West-Vlieland h
 
 ## The Island the Sea Made
 
-Vlieland was not always an island. In 1287 a catastrophic flood tore it loose from the Frisian mainland and carved out the Waddenzee in the process, leaving this strip of sand stranded between Texel to the west and Terschelling to the east. It is the second of the five inhabited West Frisian Islands, and one of the smallest communities among them, with only about 1,100 year-round residents. Walking it end to end takes under three hours: roughly twelve kilometres from the harbour in the east to the wild western tip. The whole island is a study in scale and emptiness, a place defined as much by what is absent as by what is there.
+Vlieland was not always an island. In 1287 a catastrophic flood tore it loose from the Frisian mainland and carved out the Waddenzee in the process, leaving this strip of sand stranded between Texel to the west and Terschelling to the east. It is the second of the five inhabited West Frisian Islands, and one of the smallest communities among them, with only about 1,200 year-round residents. Walking it end to end takes under three hours: roughly twelve kilometres from the harbour in the east to the wild western tip. The whole island is a study in scale and emptiness, a place defined as much by what is absent as by what is there.
 
 ## No Cars, By Choice
 
@@ -28,7 +28,7 @@ Above Oost-Vlieland rises the Vuurduin, a red lighthouse perched on the island's
 
 ## Island Time
 
-Getting to Vlieland is part of what keeps it quiet. There is no bridge and no road; the only way across is the ferry from Harlingen, run by Rederij Doeksen, and even the fast service takes fifty minutes while the regular boat takes ninety-five. That crossing is a kind of decompression, the mainland's hurry falling away with every nautical mile. Once ashore, life narrows to the harbour, the long Dorpsstraat lined with hotels and cafes, the bike paths, and the single bus line that loops out toward the Vliehors on an unhurried, irregular schedule. People do not come to Vlieland to do much. They come to walk the beaches, watch the birds, feel the wind, and let the tides set the pace, the way islanders here always have.
+Getting to Vlieland is part of what keeps it quiet. There is no bridge and no road; the only way across is the ferry from Harlingen, run by Rederij Doeksen, and even the fast service takes forty-five minutes while the regular boat takes ninety-five. That crossing is a kind of decompression, the mainland's hurry falling away with every nautical mile. Once ashore, life narrows to the harbour, the long Dorpsstraat lined with hotels and cafes, the bike paths, and the single bus line that loops out toward the Vliehors on an unhurried, irregular schedule. People do not come to Vlieland to do much. They come to walk the beaches, watch the birds, feel the wind, and let the tides set the pace, the way islanders here always have.
 
 ## Flight Context
 
@@ -37,6 +37,19 @@ Vlieland lies at 53.26 degrees N, 4.96 degrees E, a long thin island of dunes or
 ## Sources
 
 - [Vlieland - Wikivoyage](https://en.wikivoyage.org/?curid=38149)
+- [Rederij Doeksen timetable - more information](https://www.rederij-doeksen.nl/en/timetable/more-information)
+  - 1287 flood separated Vlieland from the Frisian mainland
+  - West-Vlieland had 2,000-2,500 residents around 1670, only two houses by 1736, site 27m underwater by 1857
+  - Corrected: fast ferry crossing is 45 minutes, not 50 (regular ferry confirmed at ~95 minutes)
+  - Corrected: current population is approximately 1,200 (CBS estimates 1,194-1,291 for 2021-2025), not 1,100
+
+## Review Notes
+
+**Reviewed:** 2026-07-14 · 6 facts verified · 2 corrections
+
+Verified 1287 flood, West-Vlieland population/decline timeline (1670/1736/1857), car-free status. Corrected: fast ferry crossing is 45 min not 50 min (per Rederij Doeksen official timetable); current population is ~1,200 not 1,100 per recent CBS estimates (1,194-1,291 for 2021-2025).
+
+**Spiciness:** 2/5
 
 ---
 

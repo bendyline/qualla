@@ -55,5 +55,24 @@
     "sourceGeohash4": "wecn"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "wecn-kowloon-peninsula-flight-context.mp3",
+      "wecn-kowloon-peninsula-intro.mp3",
+      "wecn-kowloon-peninsula-granite-and-reclaimed-ground.mp3",
+      "wecn-kowloon-peninsula-where-empires-drew-their-lines.mp3",
+      "wecn-kowloon-peninsula-refuge-and-reinvention.mp3",
+      "wecn-kowloon-peninsula-the-lions-and-the-harbour.mp3"
+    ],
+    "durations": {
+      "wecn-kowloon-peninsula-flight-context.mp3": 51.2695833,
+      "wecn-kowloon-peninsula-intro.mp3": 51.4872916,
+      "wecn-kowloon-peninsula-granite-and-reclaimed-ground.mp3": 70.5272083,
+      "wecn-kowloon-peninsula-where-empires-drew-their-lines.mp3": 64.8580833,
+      "wecn-kowloon-peninsula-refuge-and-reinvention.mp3": 58.569375,
+      "wecn-kowloon-peninsula-the-lions-and-the-harbour.mp3": 63.9544583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

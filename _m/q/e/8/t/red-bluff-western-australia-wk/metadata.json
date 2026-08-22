@@ -128,5 +128,24 @@
   ],
   "galleryPaths": [
     "_m/q/e/8/t/quobba-wp/sign-quobba-station-wa.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qe8t-red-bluff-flight-context.mp3",
+      "qe8t-red-bluff-intro.mp3",
+      "qe8t-red-bluff-the-wave.mp3",
+      "qe8t-red-bluff-a-surfer-saved-by-surfers.mp3",
+      "qe8t-red-bluff-living-off-the-grid.mp3",
+      "qe8t-red-bluff-whales-goannas-and-a-sky-full-of-stars.mp3"
+    ],
+    "durations": {
+      "qe8t-red-bluff-flight-context.mp3": 57.5572083,
+      "qe8t-red-bluff-intro.mp3": 34.6787083,
+      "qe8t-red-bluff-the-wave.mp3": 53.04875,
+      "qe8t-red-bluff-a-surfer-saved-by-surfers.mp3": 46.0213333,
+      "qe8t-red-bluff-living-off-the-grid.mp3": 55.1263333,
+      "qe8t-red-bluff-whales-goannas-and-a-sky-full-of-stars.mp3": 60.339375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

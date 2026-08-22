@@ -425,5 +425,24 @@
     "_m/w/e/c/n/morrison-hill-wp/hong-kong-2.jpg",
     "_m/w/e/c/n/morrison-hill-wp/hk-wan-chai-hennessy-road-play.jpg"
   ],
-  "updatedAt": "2026-06-28T22:28:24.411Z"
+  "updatedAt": "2026-06-28T22:28:24.411Z",
+  "narration": {
+    "files": [
+      "wecn-morrison-hill-flight-context.mp3",
+      "wecn-morrison-hill-intro.mp3",
+      "wecn-morrison-hill-the-man-behind-the-name.mp3",
+      "wecn-morrison-hill-a-hill-that-built-a-city.mp3",
+      "wecn-morrison-hill-what-replaced-the-hill.mp3",
+      "wecn-morrison-hill-a-neighbourhoods-quiet-plurality.mp3"
+    ],
+    "durations": {
+      "wecn-morrison-hill-flight-context.mp3": 46.5780833,
+      "wecn-morrison-hill-intro.mp3": 30.05475,
+      "wecn-morrison-hill-the-man-behind-the-name.mp3": 51.7144166,
+      "wecn-morrison-hill-a-hill-that-built-a-city.mp3": 69.0167916,
+      "wecn-morrison-hill-what-replaced-the-hill.mp3": 50.891875,
+      "wecn-morrison-hill-a-neighbourhoods-quiet-plurality.mp3": 47.2118333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

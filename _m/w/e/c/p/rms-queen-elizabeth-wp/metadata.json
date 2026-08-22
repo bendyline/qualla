@@ -360,5 +360,26 @@
     "_m/w/e/c/p/rms-queen-elizabeth-wp/queen-elizabeth-1967-s-2.jpg",
     "_m/g/c/u/v/riverside-museum-wp/model-trans-atlantic-p.jpg",
     "_m/w/e/c/p/rms-queen-elizabeth-wp/queen-elizabeth-fire-s.gif"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecp-rms-queen-elizabeth-flight-context.mp3",
+      "wecp-rms-queen-elizabeth-intro.mp3",
+      "wecp-rms-queen-elizabeth-born-on-the-clyde.mp3",
+      "wecp-rms-queen-elizabeth-a-secret-wartime-crossing.mp3",
+      "wecp-rms-queen-elizabeth-the-golden-decade-then-the-decline.mp3",
+      "wecp-rms-queen-elizabeth-fire-in-the-harbour.mp3",
+      "wecp-rms-queen-elizabeth-what-remained.mp3"
+    ],
+    "durations": {
+      "wecp-rms-queen-elizabeth-flight-context.mp3": 53.5597916,
+      "wecp-rms-queen-elizabeth-intro.mp3": 51.5725833,
+      "wecp-rms-queen-elizabeth-born-on-the-clyde.mp3": 63.3331666,
+      "wecp-rms-queen-elizabeth-a-secret-wartime-crossing.mp3": 64.406875,
+      "wecp-rms-queen-elizabeth-the-golden-decade-then-the-decline.mp3": 69.3697916,
+      "wecp-rms-queen-elizabeth-fire-in-the-harbour.mp3": 71.6889166,
+      "wecp-rms-queen-elizabeth-what-remained.mp3": 57.17875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

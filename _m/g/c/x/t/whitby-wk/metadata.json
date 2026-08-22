@@ -22,5 +22,24 @@
   "galleryPaths": [
     "_m/g/c/x/t/whitby-wk/whitby-museum.jpg"
   ],
-  "updatedAt": "2026-06-23T13:13:09.653Z"
+  "updatedAt": "2026-06-23T13:13:09.653Z",
+  "narration": {
+    "files": [
+      "gcxt-whitby-flight-context.mp3",
+      "gcxt-whitby-intro.mp3",
+      "gcxt-whitby-streoneshalh-then-hvitabyr.mp3",
+      "gcxt-whitby-the-apprentice-cook.mp3",
+      "gcxt-whitby-199-steps-and-the-goths.mp3",
+      "gcxt-whitby-the-working-harbour.mp3"
+    ],
+    "durations": {
+      "gcxt-whitby-flight-context.mp3": 62.476375,
+      "gcxt-whitby-intro.mp3": 53.8424166,
+      "gcxt-whitby-streoneshalh-then-hvitabyr.mp3": 66.6695,
+      "gcxt-whitby-the-apprentice-cook.mp3": 50.1964583,
+      "gcxt-whitby-199-steps-and-the-goths.mp3": 59.5532916,
+      "gcxt-whitby-the-working-harbour.mp3": 62.1012916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

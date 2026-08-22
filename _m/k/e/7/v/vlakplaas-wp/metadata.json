@@ -63,5 +63,24 @@
     "sourceGeohash4": "ke7v"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "ke7v-vlakplaas-flight-context.mp3",
+      "ke7v-vlakplaas-intro.mp3",
+      "ke7v-vlakplaas-the-quiet-farm.mp3",
+      "ke7v-vlakplaas-the-people-they-killed.mp3",
+      "ke7v-vlakplaas-the-cruelty-of-the-system.mp3",
+      "ke7v-vlakplaas-reckoning-and-remembrance.mp3"
+    ],
+    "durations": {
+      "ke7v-vlakplaas-flight-context.mp3": 50.803625,
+      "ke7v-vlakplaas-intro.mp3": 41.8997916,
+      "ke7v-vlakplaas-the-quiet-farm.mp3": 58.6740416,
+      "ke7v-vlakplaas-the-people-they-killed.mp3": 48.4364583,
+      "ke7v-vlakplaas-the-cruelty-of-the-system.mp3": 49.2779583,
+      "ke7v-vlakplaas-reckoning-and-remembrance.mp3": 59.0195833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1279,5 +1279,24 @@
     "_m/g/c/x/c/hull-minster-wp/holy-trinity-church-over-rooft.jpg",
     "_m/g/c/x/c/hull-minster-wp/a63-feb23-castle-street.jpg"
   ],
-  "updatedAt": "2026-06-23T12:20:22.671Z"
+  "updatedAt": "2026-06-23T12:20:22.671Z",
+  "narration": {
+    "files": [
+      "gcxc-hull-minster-flight-context.mp3",
+      "gcxc-hull-minster-intro.mp3",
+      "gcxc-hull-minster-brick-not-stone.mp3",
+      "gcxc-hull-minster-wilberforce-at-the-font.mp3",
+      "gcxc-hull-minster-the-blitz-that-missed.mp3",
+      "gcxc-hull-minster-twenty-five-bells.mp3"
+    ],
+    "durations": {
+      "gcxc-hull-minster-flight-context.mp3": 49.799125,
+      "gcxc-hull-minster-intro.mp3": 48.1929583,
+      "gcxc-hull-minster-brick-not-stone.mp3": 62.2918333,
+      "gcxc-hull-minster-wilberforce-at-the-font.mp3": 55.0505,
+      "gcxc-hull-minster-the-blitz-that-missed.mp3": 55.214125,
+      "gcxc-hull-minster-twenty-five-bells.mp3": 66.657125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

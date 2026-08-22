@@ -539,5 +539,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-atat-rk-bridge-flight-context.mp3",
+      "sxk9-atat-rk-bridge-intro.mp3",
+      "sxk9-atat-rk-bridge-the-reformist-sultans-bridge.mp3",
+      "sxk9-atat-rk-bridge-iron-then-another-bridge.mp3",
+      "sxk9-atat-rk-bridge-the-current-span.mp3",
+      "sxk9-atat-rk-bridge-the-golden-horn-it-crosses.mp3",
+      "sxk9-atat-rk-bridge-a-tram-extension-and-continuing-use.mp3"
+    ],
+    "durations": {
+      "sxk9-atat-rk-bridge-flight-context.mp3": 66.8599583,
+      "sxk9-atat-rk-bridge-intro.mp3": 36.8950833,
+      "sxk9-atat-rk-bridge-the-reformist-sultans-bridge.mp3": 67.249375,
+      "sxk9-atat-rk-bridge-iron-then-another-bridge.mp3": 56.6382083,
+      "sxk9-atat-rk-bridge-the-current-span.mp3": 55.0700833,
+      "sxk9-atat-rk-bridge-the-golden-horn-it-crosses.mp3": 51.3385416,
+      "sxk9-atat-rk-bridge-a-tram-extension-and-continuing-use.mp3": 63.4960833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

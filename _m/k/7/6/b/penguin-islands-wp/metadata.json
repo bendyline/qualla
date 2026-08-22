@@ -59,5 +59,24 @@
     "sourceGeohash4": "k76b"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "k76b-penguin-islands-flight-context.mp3",
+      "k76b-penguin-islands-intro.mp3",
+      "k76b-penguin-islands-white-gold.mp3",
+      "k76b-penguin-islands-the-great-guano-war.mp3",
+      "k76b-penguin-islands-pawns-of-empire.mp3",
+      "k76b-penguin-islands-drawing-the-last-line.mp3"
+    ],
+    "durations": {
+      "k76b-penguin-islands-flight-context.mp3": 71.92475,
+      "k76b-penguin-islands-intro.mp3": 44.72975,
+      "k76b-penguin-islands-white-gold.mp3": 52.6855,
+      "k76b-penguin-islands-the-great-guano-war.mp3": 58.478125,
+      "k76b-penguin-islands-pawns-of-empire.mp3": 54.155875,
+      "k76b-penguin-islands-drawing-the-last-line.mp3": 56.792875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

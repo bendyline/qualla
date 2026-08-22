@@ -37,6 +37,20 @@ Located at 6.04°S, 77.13°W in the eastern foothills of the northern Peruvian A
 ## Sources
 
 - [1990–91 Alto Mayo earthquakes - Wikipedia](https://en.wikipedia.org/?curid=69653824)
+- [1990–91 Alto Mayo earthquakes - Wikipedia](https://en.wikipedia.org/wiki/1990%E2%80%9391_Alto_Mayo_earthquakes)
+  - May 30, 1990 earthquake magnitude 6.5, 135 deaths, Pucatambo Fault rupture
+  - At least 9,277 homes severely damaged in 1990 event
+  - April 4, 1991 M6.4 foreshock injured 15; April 5, 1991 M6.9 mainshock on Angaisa Fault killed ~53, injured 252
+  - Total at least 189 deaths, 15,000 homeless across the sequence
+  - President Alan García dispatched two air force aircraft with 126 tons of relief supplies
+
+## Review Notes
+
+**Reviewed:** 2026-07-14 · 5 facts verified · 0 corrections
+
+Verified all magnitudes, dates, death tolls (135 in 1990, ~53 in 1991, 189+ total), fault names (Pucatambo, Angaisa), and relief response figures against Wikipedia/USGS sources. All facts accurate. Spiciness 1.
+
+**Spiciness:** 1/5
 
 ---
 

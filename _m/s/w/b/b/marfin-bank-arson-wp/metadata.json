@@ -54,5 +54,26 @@
     "sourceGeohash4": "swbb"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "swbb-marfin-bank-arson-flight-context.mp3",
+      "swbb-marfin-bank-arson-intro.mp3",
+      "swbb-marfin-bank-arson-a-country-at-the-breaking-point.mp3",
+      "swbb-marfin-bank-arson-the-fire.mp3",
+      "swbb-marfin-bank-arson-the-people-in-the-building.mp3",
+      "swbb-marfin-bank-arson-justice-slowly.mp3",
+      "swbb-marfin-bank-arson-what-remains-on-stadiou-street.mp3"
+    ],
+    "durations": {
+      "swbb-marfin-bank-arson-flight-context.mp3": 41.2085,
+      "swbb-marfin-bank-arson-intro.mp3": 46.6508333,
+      "swbb-marfin-bank-arson-a-country-at-the-breaking-point.mp3": 48.6445,
+      "swbb-marfin-bank-arson-the-fire.mp3": 49.2165,
+      "swbb-marfin-bank-arson-the-people-in-the-building.mp3": 48.7695833,
+      "swbb-marfin-bank-arson-justice-slowly.mp3": 46.5670833,
+      "swbb-marfin-bank-arson-what-remains-on-stadiou-street.mp3": 40.0600833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

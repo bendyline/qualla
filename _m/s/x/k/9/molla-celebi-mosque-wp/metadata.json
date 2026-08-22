@@ -288,5 +288,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-molla-elebi-mosque-flight-context.mp3",
+      "sxk9-molla-elebi-mosque-intro.mp3",
+      "sxk9-molla-elebi-mosque-sinan-on-a-difficult-shore.mp3",
+      "sxk9-molla-elebi-mosque-the-hazelnut-on-meclisi-mebusan.mp3",
+      "sxk9-molla-elebi-mosque-color-on-stone.mp3",
+      "sxk9-molla-elebi-mosque-between-the-funicular-and-the-ferry.mp3"
+    ],
+    "durations": {
+      "sxk9-molla-elebi-mosque-flight-context.mp3": 54.9364166,
+      "sxk9-molla-elebi-mosque-intro.mp3": 46.6330833,
+      "sxk9-molla-elebi-mosque-sinan-on-a-difficult-shore.mp3": 56.731,
+      "sxk9-molla-elebi-mosque-the-hazelnut-on-meclisi-mebusan.mp3": 51.2450833,
+      "sxk9-molla-elebi-mosque-color-on-stone.mp3": 49.0345833,
+      "sxk9-molla-elebi-mosque-between-the-funicular-and-the-ferry.mp3": 44.7635
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

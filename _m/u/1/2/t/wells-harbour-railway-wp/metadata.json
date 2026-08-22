@@ -575,5 +575,22 @@
     "_m/u/1/2/t/wells-harbour-railway-wp/wells-beach-light-railway-leve-1.jpg",
     "_m/u/1/2/t/wells-harbour-railway-wp/former-track-bed-from-the-well.jpg"
   ],
-  "updatedAt": "2026-06-25T23:59:24.660Z"
+  "updatedAt": "2026-06-25T23:59:24.660Z",
+  "narration": {
+    "files": [
+      "u12t-wells-harbour-railway-flight-context.mp3",
+      "u12t-wells-harbour-railway-intro.mp3",
+      "u12t-wells-harbour-railway-a-railway-for-a-beach-town.mp3",
+      "u12t-wells-harbour-railway-engines-and-carriages.mp3",
+      "u12t-wells-harbour-railway-the-end-of-the-line.mp3"
+    ],
+    "durations": {
+      "u12t-wells-harbour-railway-flight-context.mp3": 36.9625,
+      "u12t-wells-harbour-railway-intro.mp3": 37.85625,
+      "u12t-wells-harbour-railway-a-railway-for-a-beach-town.mp3": 58.4782083,
+      "u12t-wells-harbour-railway-engines-and-carriages.mp3": 54.5218333,
+      "u12t-wells-harbour-railway-the-end-of-the-line.mp3": 67.2890416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

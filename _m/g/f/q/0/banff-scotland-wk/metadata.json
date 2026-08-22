@@ -123,5 +123,26 @@
   "galleryPaths": [
     "_m/g/f/q/0/banff-scotland-wk/duff-house-banff-aberd.jpg",
     "_m/g/f/q/0/banff-scotland-wk/duff-house-banff-aberd-1.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gfq0-banff-scotland-flight-context.mp3",
+      "gfq0-banff-scotland-intro.mp3",
+      "gfq0-banff-scotland-across-the-estuary-from-macduff.mp3",
+      "gfq0-banff-scotland-the-duff-house-inheritance.mp3",
+      "gfq0-banff-scotland-the-other-banff.mp3",
+      "gfq0-banff-scotland-the-plainstones-and-the-cannon.mp3",
+      "gfq0-banff-scotland-coastline-and-coves.mp3"
+    ],
+    "durations": {
+      "gfq0-banff-scotland-flight-context.mp3": 52.3731666,
+      "gfq0-banff-scotland-intro.mp3": 38.4910833,
+      "gfq0-banff-scotland-across-the-estuary-from-macduff.mp3": 49.5495,
+      "gfq0-banff-scotland-the-duff-house-inheritance.mp3": 38.6236666,
+      "gfq0-banff-scotland-the-other-banff.mp3": 45.055375,
+      "gfq0-banff-scotland-the-plainstones-and-the-cannon.mp3": 44.1342916,
+      "gfq0-banff-scotland-coastline-and-coves.mp3": 48.4215833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

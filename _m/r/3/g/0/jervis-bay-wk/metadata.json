@@ -602,5 +602,24 @@
     "_m/r/3/g/0/jervis-bay-wk/aerial-view-of-jervis-bay.jpg",
     "_m/r/3/g/0/jervis-bay-wk/callala-beach-jervis-bay.jpg"
   ],
-  "updatedAt": "2026-06-28T03:07:02.071Z"
+  "updatedAt": "2026-06-28T03:07:02.071Z",
+  "narration": {
+    "files": [
+      "r3g0-jervis-bay-flight-context.mp3",
+      "r3g0-jervis-bay-intro.mp3",
+      "r3g0-jervis-bay-booderee-the-bay-of-plenty.mp3",
+      "r3g0-jervis-bay-the-power-plant-that-never-was.mp3",
+      "r3g0-jervis-bay-two-towns-and-a-tide-of-summer.mp3",
+      "r3g0-jervis-bay-beyond-the-beaches.mp3"
+    ],
+    "durations": {
+      "r3g0-jervis-bay-flight-context.mp3": 66.2475,
+      "r3g0-jervis-bay-intro.mp3": 46.3536666,
+      "r3g0-jervis-bay-booderee-the-bay-of-plenty.mp3": 58.2144166,
+      "r3g0-jervis-bay-the-power-plant-that-never-was.mp3": 55.3449583,
+      "r3g0-jervis-bay-two-towns-and-a-tide-of-summer.mp3": 51.47025,
+      "r3g0-jervis-bay-beyond-the-beaches.mp3": 55.44225
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -33,6 +33,29 @@ Located at 33.91°N, 116.55°W, on Interstate 10 near Palm Springs, California. 
 ## Sources
 
 - [2016 I-10 tour bus crash - Wikipedia](https://en.wikipedia.org/?curid=52078492)
+- [2016 I-10 tour bus crash - Wikipedia](https://en.wikipedia.org/?curid=52078492)
+  - Crash occurred October 23, 2016, ~5:17 a.m. PDT on I-10 near Palm Springs
+  - 42 adult passengers aboard; 13 killed (driver Teodulo Elias Vides plus 12 passengers); 30 injured
+  - Truck driver Bruce Guilford physically unharmed
+  - Trailer penetrated approximately 15 feet into the bus
+  - Bus had two substandard tires and no seat belts
+  - Guilford arrested October 2017, extradited from Georgia in November 2017, charged with 13 counts of felony vehicular manslaughter and related offenses, held on $500,000 bail
+  - Guilford pleaded guilty in August 2019
+- [NTSB findings on 2016 I-10 tour bus crash - ABC7 Los Angeles / Commercial Carrier Journal](https://www.ccjdigital.com/business/article/14935989/ntsb-discusses-factors-in-deadly-2016-truck-bus-crash)
+  - NTSB found both drivers severely fatigued: Guilford had falsified logs and fallen asleep after a traffic break; Vides was an undiagnosed diabetic who had slept very little
+
+## Review Notes
+
+**Reviewed:** 2026-08-05 · 11 facts verified · 0 corrections
+
+Verified date/time, casualty/injury counts, driver names, NTSB fatigue findings (falsified logs, undiagnosed diabetes), bus equipment issues, and legal timeline (arrest, extradition, charges, bail, guilty plea) against Wikipedia and contemporaneous news coverage (ABC News, NBC, CCJ Digital). All facts confirmed accurate, no corrections needed. No empathy/dignity issues found; tone already respectful. Spiciness 3 (medium) - implicit systemic-failure critique.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- "each element had been knowable before the crash. None of them had been caught." — implicit critique of regulatory/oversight failure
+- "drivers working hours that invited the kind of fatigue that safety regulations exist to prevent" — critical framing of the casino shuttle economy's operating practices
 
 ---
 

@@ -702,5 +702,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "rjdc-gulf-of-carpentaria-flight-context.mp3",
+      "rjdc-gulf-of-carpentaria-intro.mp3",
+      "rjdc-gulf-of-carpentaria-the-scale-of-the-water.mp3",
+      "rjdc-gulf-of-carpentaria-the-cloud-that-surfers-chase.mp3",
+      "rjdc-gulf-of-carpentaria-old-names-old-waters.mp3",
+      "rjdc-gulf-of-carpentaria-a-working-sea.mp3"
+    ],
+    "durations": {
+      "rjdc-gulf-of-carpentaria-flight-context.mp3": 58.4549583,
+      "rjdc-gulf-of-carpentaria-intro.mp3": 38.630125,
+      "rjdc-gulf-of-carpentaria-the-scale-of-the-water.mp3": 59.8565833,
+      "rjdc-gulf-of-carpentaria-the-cloud-that-surfers-chase.mp3": 47.1124583,
+      "rjdc-gulf-of-carpentaria-old-names-old-waters.mp3": 59.4347083,
+      "rjdc-gulf-of-carpentaria-a-working-sea.mp3": 66.5611666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

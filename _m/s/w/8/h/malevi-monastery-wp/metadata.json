@@ -53,5 +53,24 @@
     "sourceGeohash4": "sw8h"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sw8h-malevi-monastery-flight-context.mp3",
+      "sw8h-malevi-monastery-intro.mp3",
+      "sw8h-malevi-monastery-founded-lost-and-refounded.mp3",
+      "sw8h-malevi-monastery-burned-and-bombed-still-standing.mp3",
+      "sw8h-malevi-monastery-the-icon-at-the-center.mp3",
+      "sw8h-malevi-monastery-nine-hundred-meters-above-the-plain.mp3"
+    ],
+    "durations": {
+      "sw8h-malevi-monastery-flight-context.mp3": 56.4154166,
+      "sw8h-malevi-monastery-intro.mp3": 43.142625,
+      "sw8h-malevi-monastery-founded-lost-and-refounded.mp3": 74.9787916,
+      "sw8h-malevi-monastery-burned-and-bombed-still-standing.mp3": 69.883625,
+      "sw8h-malevi-monastery-the-icon-at-the-center.mp3": 67.1290416,
+      "sw8h-malevi-monastery-nine-hundred-meters-above-the-plain.mp3": 61.8304583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

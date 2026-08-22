@@ -243,5 +243,24 @@
     "_m/u/1/2/5/elgood-s-brewery-wp/elgoods-brewery-geograph-org-u.jpg",
     "_m/u/1/2/5/elgood-s-brewery-wp/wisbech-elgood-and-sons-brewer.jpg"
   ],
-  "updatedAt": "2026-06-25T20:55:28.080Z"
+  "updatedAt": "2026-06-25T20:55:28.080Z",
+  "narration": {
+    "files": [
+      "u125-elgoods-brewery-flight-context.mp3",
+      "u125-elgoods-brewery-intro.mp3",
+      "u125-elgoods-brewery-two-centuries-on-the-nene.mp3",
+      "u125-elgoods-brewery-under-fire.mp3",
+      "u125-elgoods-brewery-the-garden-and-its-secrets.mp3",
+      "u125-elgoods-brewery-a-range-for-every-season.mp3"
+    ],
+    "durations": {
+      "u125-elgoods-brewery-flight-context.mp3": 37.5914166,
+      "u125-elgoods-brewery-intro.mp3": 45.0742083,
+      "u125-elgoods-brewery-two-centuries-on-the-nene.mp3": 55.3773333,
+      "u125-elgoods-brewery-under-fire.mp3": 45.520125,
+      "u125-elgoods-brewery-the-garden-and-its-secrets.mp3": 47.8873333,
+      "u125-elgoods-brewery-a-range-for-every-season.mp3": 49.1262916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

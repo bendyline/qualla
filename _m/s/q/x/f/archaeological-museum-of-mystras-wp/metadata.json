@@ -244,5 +244,24 @@
     "_m/s/q/x/f/archaeological-museum-of-mystras-wp/archaeological-museum.jpg",
     "_m/s/q/x/f/archaeological-museum-of-mystras-wp/museum-of-mystras-dress-of-the.jpg"
   ],
-  "updatedAt": "2026-06-24T09:01:28.316Z"
+  "updatedAt": "2026-06-24T09:01:28.316Z",
+  "narration": {
+    "files": [
+      "sqxf-archaeological-museum-of-mystras-flight-context.mp3",
+      "sqxf-archaeological-museum-of-mystras-intro.mp3",
+      "sqxf-archaeological-museum-of-mystras-a-museum-within-a-monument.mp3",
+      "sqxf-archaeological-museum-of-mystras-what-the-stones-remember.mp3",
+      "sqxf-archaeological-museum-of-mystras-the-mummy-of-mystras.mp3",
+      "sqxf-archaeological-museum-of-mystras-reading-the-collection.mp3"
+    ],
+    "durations": {
+      "sqxf-archaeological-museum-of-mystras-flight-context.mp3": 52.5735833,
+      "sqxf-archaeological-museum-of-mystras-intro.mp3": 43.0605416,
+      "sqxf-archaeological-museum-of-mystras-a-museum-within-a-monument.mp3": 64.29775,
+      "sqxf-archaeological-museum-of-mystras-what-the-stones-remember.mp3": 55.3344166,
+      "sqxf-archaeological-museum-of-mystras-the-mummy-of-mystras.mp3": 53.5954166,
+      "sqxf-archaeological-museum-of-mystras-reading-the-collection.mp3": 49.3518333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

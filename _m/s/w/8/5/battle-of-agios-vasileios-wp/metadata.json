@@ -128,5 +128,26 @@
   "galleryPaths": [
     "_m/s/w/6/p/thera-eruption-wk/location-map-greece.jpg",
     "_m/s/w/8/5/battle-of-agios-vasileios-wp/picture-natura-2000-pr.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sw85-battle-of-agios-vasileios-flight-context.mp3",
+      "sw85-battle-of-agios-vasileios-intro.mp3",
+      "sw85-battle-of-agios-vasileios-a-mountain-under-siege.mp3",
+      "sw85-battle-of-agios-vasileios-forged-orders-falling-snow.mp3",
+      "sw85-battle-of-agios-vasileios-the-village-square-at-dawn.mp3",
+      "sw85-battle-of-agios-vasileios-prisoners-who-did-not-return.mp3",
+      "sw85-battle-of-agios-vasileios-scapegoat-on-the-mountain.mp3"
+    ],
+    "durations": {
+      "sw85-battle-of-agios-vasileios-flight-context.mp3": 55.7365,
+      "sw85-battle-of-agios-vasileios-intro.mp3": 38.1574166,
+      "sw85-battle-of-agios-vasileios-a-mountain-under-siege.mp3": 84.5050833,
+      "sw85-battle-of-agios-vasileios-forged-orders-falling-snow.mp3": 70.4021666,
+      "sw85-battle-of-agios-vasileios-the-village-square-at-dawn.mp3": 94.127375,
+      "sw85-battle-of-agios-vasileios-prisoners-who-did-not-return.mp3": 56.8784583,
+      "sw85-battle-of-agios-vasileios-scapegoat-on-the-mountain.mp3": 85.378875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

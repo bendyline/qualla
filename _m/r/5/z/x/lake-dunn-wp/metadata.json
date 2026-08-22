@@ -125,5 +125,24 @@
   "galleryPaths": [
     "_m/r/n/j/5/green-hill-fort-wp/hero.jpg",
     "_m/r/5/z/x/lake-dunn-wp/view-queensland-taken.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r5zx-lake-dunn-flight-context.mp3",
+      "r5zx-lake-dunn-intro.mp3",
+      "r5zx-lake-dunn-the-lake-that-stays.mp3",
+      "r5zx-lake-dunn-a-magnet-for-birds.mp3",
+      "r5zx-lake-dunn-forty-sculptures-in-the-scrub.mp3",
+      "r5zx-lake-dunn-captain-starlights-country.mp3"
+    ],
+    "durations": {
+      "r5zx-lake-dunn-flight-context.mp3": 66.11225,
+      "r5zx-lake-dunn-intro.mp3": 41.9765416,
+      "r5zx-lake-dunn-the-lake-that-stays.mp3": 45.3215416,
+      "r5zx-lake-dunn-a-magnet-for-birds.mp3": 47.4992916,
+      "r5zx-lake-dunn-forty-sculptures-in-the-scrub.mp3": 50.617375,
+      "r5zx-lake-dunn-captain-starlights-country.mp3": 61.4525
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

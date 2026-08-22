@@ -1681,5 +1681,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u10h-woolwich-flight-context.mp3",
+      "u10h-woolwich-intro.mp3",
+      "u10h-woolwich-older-than-the-wool-trade-that-named-it.mp3",
+      "u10h-woolwich-the-great-harry-and-the-arsenal.mp3",
+      "u10h-woolwich-a-garrison-town-and-its-heritage.mp3",
+      "u10h-woolwich-decline-and-the-slow-return.mp3",
+      "u10h-woolwich-what-still-stands.mp3"
+    ],
+    "durations": {
+      "u10h-woolwich-flight-context.mp3": 38.224,
+      "u10h-woolwich-intro.mp3": 43.947125,
+      "u10h-woolwich-older-than-the-wool-trade-that-named-it.mp3": 54.266625,
+      "u10h-woolwich-the-great-harry-and-the-arsenal.mp3": 83.565375,
+      "u10h-woolwich-a-garrison-town-and-its-heritage.mp3": 61.3952916,
+      "u10h-woolwich-decline-and-the-slow-return.mp3": 59.59975,
+      "u10h-woolwich-what-still-stands.mp3": 60.79525
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

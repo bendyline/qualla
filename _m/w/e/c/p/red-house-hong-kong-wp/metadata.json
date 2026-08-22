@@ -570,5 +570,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecp-red-house-hong-kong-flight-context.mp3",
+      "wecp-red-house-hong-kong-intro.mp3",
+      "wecp-red-house-hong-kong-a-farmhouse-built-for-revolution.mp3",
+      "wecp-red-house-hong-kong-li-ki-tong-and-the-secret-base.mp3",
+      "wecp-red-house-hong-kong-decades-of-neglect-and-bureaucratic-caution.mp3",
+      "wecp-red-house-hong-kong-sale-protest-and-political-pressure.mp3",
+      "wecp-red-house-hong-kong-the-present-standoff.mp3"
+    ],
+    "durations": {
+      "wecp-red-house-hong-kong-flight-context.mp3": 58.6169583,
+      "wecp-red-house-hong-kong-intro.mp3": 62.092125,
+      "wecp-red-house-hong-kong-a-farmhouse-built-for-revolution.mp3": 47.264125,
+      "wecp-red-house-hong-kong-li-ki-tong-and-the-secret-base.mp3": 74.287625,
+      "wecp-red-house-hong-kong-decades-of-neglect-and-bureaucratic-caution.mp3": 67.954875,
+      "wecp-red-house-hong-kong-sale-protest-and-political-pressure.mp3": 66.2175,
+      "wecp-red-house-hong-kong-the-present-standoff.mp3": 57.731125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

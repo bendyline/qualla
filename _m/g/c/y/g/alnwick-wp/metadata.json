@@ -197,5 +197,24 @@
     "_m/g/c/y/g/alnwick-wp/the-alnwick-garden-geograph-or.jpg",
     "_m/g/c/y/g/alnwick-wp/brinkburn-priory-arch-of-north.jpg"
   ],
-  "updatedAt": "2026-03-20T17:16:02.994Z"
+  "updatedAt": "2026-03-20T17:16:02.994Z",
+  "narration": {
+    "files": [
+      "gcyg-alnwick-flight-context.mp3",
+      "gcyg-alnwick-intro.mp3",
+      "gcyg-alnwick-castle-town.mp3",
+      "gcyg-alnwick-battles-with-scotland.mp3",
+      "gcyg-alnwick-hogwarts-and-capability-brown.mp3",
+      "gcyg-alnwick-town-and-centre.mp3"
+    ],
+    "durations": {
+      "gcyg-alnwick-flight-context.mp3": 53.5455416,
+      "gcyg-alnwick-intro.mp3": 50.596625,
+      "gcyg-alnwick-castle-town.mp3": 64.884,
+      "gcyg-alnwick-battles-with-scotland.mp3": 63.8197916,
+      "gcyg-alnwick-hogwarts-and-capability-brown.mp3": 54.9872916,
+      "gcyg-alnwick-town-and-centre.mp3": 53.1600833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

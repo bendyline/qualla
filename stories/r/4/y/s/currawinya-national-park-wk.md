@@ -33,6 +33,23 @@ Currawinya National Park spreads across southwestern outback Queensland near the
 ## Sources
 
 - [Currawinya National Park - Wikivoyage](https://en.wikivoyage.org/?curid=8764)
+- [Currawinya National Park - Wikipedia](https://en.wikipedia.org/wiki/Currawinya_National_Park)
+  - Lake Numalla is freshwater, Lake Wyara is saline and slightly larger
+  - both lakes are Ramsar-listed wetlands of international importance
+  - bilby predator-exclusion fence covers 25 sq km and opened in 2001
+  - fence damaged by flooding, allowing feral cats to breach it, later repaired
+- [Budjiti Country - Budjiti Aboriginal Corporation RNTBC](http://www.budjiti.com.au/budjiti-country/)
+  - Budjiti people are the traditional owners and native title holders of the Currawinya area
+- [Paroo catchment - Murray-Darling Basin Authority](https://www.mdba.gov.au/basin/catchments/northern-basin-catchments/paroo-catchment)
+  - Paroo River is the last free-flowing/unregulated river of the Murray-Darling Basin
+
+## Review Notes
+
+**Reviewed:** 2026-07-14 · 8 facts verified · 0 corrections
+
+Verified park size (largest QLD parks), Lake Numalla/Wyara fresh/salt details, Ramsar listing, bilby fence (2001, 25 sq km, Save the Bilby Fund, flood/cat breach history), Budjiti traditional ownership, Paroo River unregulated status, and Eulo general store bilby-toy detail (confirmed present in primary Wikivoyage source). All facts accurate, no corrections needed.
+
+**Spiciness:** 2/5
 
 ---
 

@@ -270,5 +270,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kekm-premier-mine-flight-context.mp3",
+      "kekm-premier-mine-intro.mp3",
+      "kekm-premier-mine-a-pipe-of-fire.mp3",
+      "kekm-premier-mine-the-great-star-of-africa.mp3",
+      "kekm-premier-mine-a-roll-call-of-giants.mp3",
+      "kekm-premier-mine-a-mine-a-town-a-legacy.mp3"
+    ],
+    "durations": {
+      "kekm-premier-mine-flight-context.mp3": 62.34625,
+      "kekm-premier-mine-intro.mp3": 35.4309166,
+      "kekm-premier-mine-a-pipe-of-fire.mp3": 53.976,
+      "kekm-premier-mine-the-great-star-of-africa.mp3": 58.781125,
+      "kekm-premier-mine-a-roll-call-of-giants.mp3": 64.8103333,
+      "kekm-premier-mine-a-mine-a-town-a-legacy.mp3": 55.1665
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

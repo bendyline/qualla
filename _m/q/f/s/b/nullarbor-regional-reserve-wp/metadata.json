@@ -55,5 +55,24 @@
     "sourceGeohash4": "qfsb"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qfsb-nullarbor-regional-reserve-flight-context.mp3",
+      "qfsb-nullarbor-regional-reserve-intro.mp3",
+      "qfsb-nullarbor-regional-reserve-the-hollow-plain.mp3",
+      "qfsb-nullarbor-regional-reserve-a-line-drawn-by-engineers.mp3",
+      "qfsb-nullarbor-regional-reserve-life-on-the-surface.mp3",
+      "qfsb-nullarbor-regional-reserve-a-land-of-many-claims.mp3"
+    ],
+    "durations": {
+      "qfsb-nullarbor-regional-reserve-flight-context.mp3": 72.3432083,
+      "qfsb-nullarbor-regional-reserve-intro.mp3": 49.9494583,
+      "qfsb-nullarbor-regional-reserve-the-hollow-plain.mp3": 55.6960833,
+      "qfsb-nullarbor-regional-reserve-a-line-drawn-by-engineers.mp3": 51.3547916,
+      "qfsb-nullarbor-regional-reserve-life-on-the-surface.mp3": 51.82275,
+      "qfsb-nullarbor-regional-reserve-a-land-of-many-claims.mp3": 54.763375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

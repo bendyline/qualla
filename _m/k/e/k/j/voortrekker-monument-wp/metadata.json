@@ -734,5 +734,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "kekj-voortrekker-monument-flight-context.mp3",
+      "kekj-voortrekker-monument-intro.mp3",
+      "kekj-voortrekker-monument-a-hill-a-vow-and-a-building.mp3",
+      "kekj-voortrekker-monument-the-largest-marble-frieze-on-earth.mp3",
+      "kekj-voortrekker-monument-light-stone-and-strange-symbolism.mp3",
+      "kekj-voortrekker-monument-two-sides-of-the-same-story.mp3",
+      "kekj-voortrekker-monument-what-the-monument-means-now.mp3"
+    ],
+    "durations": {
+      "kekj-voortrekker-monument-flight-context.mp3": 69.8480833,
+      "kekj-voortrekker-monument-intro.mp3": 55.4012083,
+      "kekj-voortrekker-monument-a-hill-a-vow-and-a-building.mp3": 60.6105416,
+      "kekj-voortrekker-monument-the-largest-marble-frieze-on-earth.mp3": 64.4626666,
+      "kekj-voortrekker-monument-light-stone-and-strange-symbolism.mp3": 66.8703333,
+      "kekj-voortrekker-monument-two-sides-of-the-same-story.mp3": 62.488125,
+      "kekj-voortrekker-monument-what-the-monument-means-now.mp3": 60.73375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

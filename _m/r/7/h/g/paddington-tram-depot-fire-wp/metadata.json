@@ -115,5 +115,24 @@
   "galleryPaths": [
     "_m/r/7/h/g/paddington-tram-depot-fire-wp/phoenix-emblem-decals.jpg",
     "_m/r/7/h/g/paddington-tram-depot-fire-wp/phoenix-exhibition-tra.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r7hg-paddington-tram-depot-fire-flight-context.mp3",
+      "r7hg-paddington-tram-depot-fire-intro.mp3",
+      "r7hg-paddington-tram-depot-fire-a-shed-built-to-burn.mp3",
+      "r7hg-paddington-tram-depot-fire-the-night-the-sky-glowed.mp3",
+      "r7hg-paddington-tram-depot-fire-the-excuse-the-city-needed.mp3",
+      "r7hg-paddington-tram-depot-fire-risen-from-the-ashes.mp3"
+    ],
+    "durations": {
+      "r7hg-paddington-tram-depot-fire-flight-context.mp3": 64.5729583,
+      "r7hg-paddington-tram-depot-fire-intro.mp3": 48.6270416,
+      "r7hg-paddington-tram-depot-fire-a-shed-built-to-burn.mp3": 55.7105833,
+      "r7hg-paddington-tram-depot-fire-the-night-the-sky-glowed.mp3": 56.7865,
+      "r7hg-paddington-tram-depot-fire-the-excuse-the-city-needed.mp3": 58.603,
+      "r7hg-paddington-tram-depot-fire-risen-from-the-ashes.mp3": 51.6262083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

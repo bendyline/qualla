@@ -524,5 +524,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcw3-helmshore-mills-textile-museum-flight-context.mp3",
+      "gcw3-helmshore-mills-textile-museum-intro.mp3",
+      "gcw3-helmshore-mills-textile-museum-the-turner-family.mp3",
+      "gcw3-helmshore-mills-textile-museum-how-they-cleaned-wool.mp3",
+      "gcw3-helmshore-mills-textile-museum-the-shoddy-trade.mp3",
+      "gcw3-helmshore-mills-textile-museum-museum-closed-reopened.mp3"
+    ],
+    "durations": {
+      "gcw3-helmshore-mills-textile-museum-flight-context.mp3": 37.6628333,
+      "gcw3-helmshore-mills-textile-museum-intro.mp3": 46.5256666,
+      "gcw3-helmshore-mills-textile-museum-the-turner-family.mp3": 63.9970416,
+      "gcw3-helmshore-mills-textile-museum-how-they-cleaned-wool.mp3": 56.0015833,
+      "gcw3-helmshore-mills-textile-museum-the-shoddy-trade.mp3": 48.0235,
+      "gcw3-helmshore-mills-textile-museum-museum-closed-reopened.mp3": 58.3115
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

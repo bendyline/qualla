@@ -54,5 +54,24 @@
     "sourceGeohash4": "gcy8"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcy8-battle-of-hexham-flight-context.mp3",
+      "gcy8-battle-of-hexham-intro.mp3",
+      "gcy8-battle-of-hexham-what-was-left-of-the-lancastrians.mp3",
+      "gcy8-battle-of-hexham-the-yorkist-charge.mp3",
+      "gcy8-battle-of-hexham-thirty-executions-in-an-evening.mp3",
+      "gcy8-battle-of-hexham-henry-vi-on-the-run.mp3"
+    ],
+    "durations": {
+      "gcy8-battle-of-hexham-flight-context.mp3": 55.3215833,
+      "gcy8-battle-of-hexham-intro.mp3": 47.7644583,
+      "gcy8-battle-of-hexham-what-was-left-of-the-lancastrians.mp3": 54.8149166,
+      "gcy8-battle-of-hexham-the-yorkist-charge.mp3": 53.513875,
+      "gcy8-battle-of-hexham-thirty-executions-in-an-evening.mp3": 46.8931666,
+      "gcy8-battle-of-hexham-henry-vi-on-the-run.mp3": 60.530125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

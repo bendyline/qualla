@@ -53,5 +53,24 @@
     "sourceGeohash4": "qebg"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qebg-warroora-flight-context.mp3",
+      "qebg-warroora-intro.mp3",
+      "qebg-warroora-a-coast-you-carry-in-and-out.mp3",
+      "qebg-warroora-the-bush-that-saved-the-sheep.mp3",
+      "qebg-warroora-water-from-far-below.mp3",
+      "qebg-warroora-beauty-with-teeth.mp3"
+    ],
+    "durations": {
+      "qebg-warroora-flight-context.mp3": 75.8160833,
+      "qebg-warroora-intro.mp3": 44.63775,
+      "qebg-warroora-a-coast-you-carry-in-and-out.mp3": 57.3825416,
+      "qebg-warroora-the-bush-that-saved-the-sheep.mp3": 52.939875,
+      "qebg-warroora-water-from-far-below.mp3": 56.6354583,
+      "qebg-warroora-beauty-with-teeth.mp3": 50.9487916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

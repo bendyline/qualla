@@ -407,5 +407,24 @@
     "_m/g/f/h/z/tulloch-castle-wp/tulloch-castle-turret-geograph.jpg",
     "_m/g/f/h/z/tulloch-castle-wp/tulloch-castle-dingwall-geogra-1.jpg"
   ],
-  "updatedAt": "2026-06-24T00:07:40.176Z"
+  "updatedAt": "2026-06-24T00:07:40.176Z",
+  "narration": {
+    "files": [
+      "gfhz-tulloch-castle-flight-context.mp3",
+      "gfhz-tulloch-castle-intro.mp3",
+      "gfhz-tulloch-castle-born-in-the-tower.mp3",
+      "gfhz-tulloch-castle-the-davidsons.mp3",
+      "gfhz-tulloch-castle-dunkirk-and-after.mp3",
+      "gfhz-tulloch-castle-tunnel-and-folly.mp3"
+    ],
+    "durations": {
+      "gfhz-tulloch-castle-flight-context.mp3": 44.314125,
+      "gfhz-tulloch-castle-intro.mp3": 38.7190416,
+      "gfhz-tulloch-castle-born-in-the-tower.mp3": 42.9904583,
+      "gfhz-tulloch-castle-the-davidsons.mp3": 49.0332083,
+      "gfhz-tulloch-castle-dunkirk-and-after.mp3": 47.0780416,
+      "gfhz-tulloch-castle-tunnel-and-folly.mp3": 53.843375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

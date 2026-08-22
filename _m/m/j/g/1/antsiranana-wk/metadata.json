@@ -521,5 +521,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "mjg1-antsiranana-flight-context.mp3",
+      "mjg1-antsiranana-intro.mp3",
+      "mjg1-antsiranana-a-harbour-carved-by-the-sea.mp3",
+      "mjg1-antsiranana-the-prize-everyone-wanted.mp3",
+      "mjg1-antsiranana-life-on-the-northern-tip.mp3",
+      "mjg1-antsiranana-the-end-of-the-road.mp3"
+    ],
+    "durations": {
+      "mjg1-antsiranana-flight-context.mp3": 68.212,
+      "mjg1-antsiranana-intro.mp3": 33.9721666,
+      "mjg1-antsiranana-a-harbour-carved-by-the-sea.mp3": 48.5395416,
+      "mjg1-antsiranana-the-prize-everyone-wanted.mp3": 49.72175,
+      "mjg1-antsiranana-life-on-the-northern-tip.mp3": 40.9000833,
+      "mjg1-antsiranana-the-end-of-the-road.mp3": 41.12175
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

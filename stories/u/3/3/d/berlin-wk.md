@@ -1,78 +1,69 @@
 # Berlin
 
-A city that became the symbol of a divided world - where a wall split families for 28 years, where bombs erased 90% of central districts, and where reinvention became the only constant.
+Germany's capital is named after a swamp, was rebuilt by refugees, flattened, split in two, and remains — almost uniquely — poorer than the country it governs.
 
 **Location:** 52.5179, 13.3887
 
-**Categories:** germany, european, historic, cold-war, wwii, reunification
+**Categories:** germany, berlin, cities, european, historic, cold-war
 
 ## Introduction
 
-On November 9, 1989, government spokesman Gunter Schabowski announced at a press conference that every citizen of East Germany would be allowed to travel to the West, effective immediately. Within hours, crowds had overwhelmed the checkpoints, sledgehammers were striking concrete, and the wall that had divided Berlin for 28 years was breached. More than 100 people had died trying to cross that wall - shot by guards in the 'death strip' between its two parallel barriers, or killed in desperate escape attempts. Now strangers were climbing on top of it, dancing, crying, passing champagne bottles to people they had never been allowed to meet. The Cold War's most visible scar was opening. The city that had been severed, bombed, occupied, and divided would have to learn, once again, how to become one thing.
+The bear on Berlin's coat of arms is a mistake. Medieval German speakers heard the city's name, assumed it came from Bär — bear — and put one on the shield, where it has stayed ever since. The likelier origin is a Slavic word for swamp. Germany's capital is named after wet ground, and it was built on wet ground, by two small trading towns facing each other across the River Spree: Berlin on one bank, Cölln on the other. Eight centuries later, the settlement in the marsh has been the seat of a kingdom, an empire, a republic, a dictatorship and, for four decades, two hostile states at once.
 
-## The Scar Across the City
+## Two Towns in the Marsh
 
-The Berlin Wall was not one wall but two - 155 kilometers of concrete and wire encircling West Berlin completely, cutting it off from East Germany. The barriers stood four meters high, separated by a 'death strip' under constant surveillance by armed guards authorized to shoot anyone attempting escape. Between 1949 and 1961, some 2.5 million East Germans had fled westward, a hemorrhage of skilled workers and professionals that threatened to destroy the East German economy. The wall was the brutal solution: seal the border, trap the population, turn a city into a prison.
+The archaeology keeps getting older. Excavations in Mitte in 2012 turned up wooden houses dated to 1174 and a wooden rod from around 1192; Spandau appears in writing in 1197, Köpenick in 1209. Cölln, the town that occupied what is now Museum Island, was first recorded in 1237, which is why Berlin threw itself a 750th birthday party in 1987.
 
-For 28 years, families lived separated by concrete. The wall ran through streets, through apartment buildings, through the heart of a capital that had been unified for centuries. Checkpoint Charlie became famous as a crossing point for foreigners; for Germans, it was a reminder of what they couldn't cross. The wall fell in hours; the division it created lasted decades longer. Even now, the line where the wall stood runs visibly through Berlin's texture - cobblestones set in pavement marking the path of something no longer there but impossible to forget.
+It nearly did not survive its adolescence. Roughly half the population died as a consequence of the Thirty Years' War, and the Hohenzollern answer to an empty city was to import one. The Great Elector, Frederick William, opened Brandenburg-Prussia to religious refugees — Huguenots expelled from France, Jews expelled from Austria — and the policy stuck. Berlin became the capital of Prussia in 1701, and in 1710 several separate towns were merged into it — which is why the city still has no single centre but a scatter of them.
 
-## The Bombed City
+## Third Largest City on Earth
 
-Before the wall, there was ruin. Allied bombers flew 310 raids on Berlin during World War II, dropping over 67,000 tons of bombs. By war's end, 50,000 Berliners had been killed and every building in the city was damaged. In the central districts of Mitte and Kreuzberg, up to 90% of structures were destroyed. The city lost 300,000 houses. Only 29 of its 234 hospitals survived.
+When the German Empire was declared in 1871, Berlin became its capital and grew at a rate that alarmed people. The population went from one million in 1877 to 1.9 million by 1900, and after the 1920 annexations that created Greater Berlin it reached four million — the third largest city on Earth after New York and London, and second only to Los Angeles in area.
 
-What remained became politically contested rubble. The original Berlin Palace, a baroque masterpiece dating to 1443, survived the bombing damaged but repairable. The East German government demolished it anyway in 1950, claiming the site for socialist mass demonstrations. The Reichstag, seat of parliament since 1894, stood half-ruined for decades while vegetables grew in its shadow. The Nazi buildings that hadn't been bombed were deliberately destroyed - nobody wanted to preserve the 'most feared address in Germany.' Berlin was rebuilt four times in a century: by emperors, by Nazis, by occupying powers on both sides of a Cold War. The city you see today is an archaeological site of ideologies.
+The Weimar years were the peak of both its importance and its reputation. Nearly every politician, scientist and painter of the period lived and worked here. The theatres, cabarets and cinemas produced a cultural frenzy mythologised ever since, alongside severe inequality and a housing shortage the 1929 crash made brutal. In 1933 it stopped: artists and intellectuals fled, were imprisoned or were silenced, and the relatively open gay scene that had run for years despite the law was crushed.
 
-## The Reunited Wound
+## Raisin Bombers
 
-German reunification formally occurred on October 3, 1990, but reuniting Berlin took longer. Between 1990 and 2000, approximately 1.5 trillion euros was transferred from West to East Germany for reconstruction and economic support. The disparities persist: eastern Berlin still shows higher unemployment, lower wages, different voting patterns than the western half. The wall came down in days; the division it created will take generations to heal.
+Berlin ended the war as rubble and was divided into four occupation sectors. When the Soviets cut the land routes in 1948, the Allies supplied the western sectors entirely by air. Pilots dropped small packets of sweets on makeshift parachutes, which is how the aircraft got the name Rosinenbomber — raisin bombers — but that cargo was a rounding error. By tonnage the airlift was mostly coal, the sectors having been cut off from eastern power lines; the Allies also flew in an entire power plant and then the fuel to run it.
 
-The architectural evidence of division remains everywhere. East Berlin has its Soviet-style apartment blocks, its Karl-Marx-Allee parade boulevard, its reconstructed buildings following socialist ideals. West Berlin has its modernist towers, its consumer culture, its deliberate contrast to everything across the wall. Where they meet, the seams show. The Reichstag was rebuilt with a transparent glass dome - a symbol of democratic openness atop a building that had seen empire, republic, dictatorship, and division. Whether the symbol matches the reality is a question Berlin keeps asking itself.
+The West Berlin that followed was a strange political object. It never legally belonged to West Germany, sent non-voting delegates to the Bundestag, and exempted residents from conscription, which made it a magnet for students, radicals and young men avoiding the draft. The revolts of 1967 and 1968 largely happened here, ignited when police shot Benno Ohnesorg at a protest against the visiting Shah of Iran.
 
-## The City of Movements
+## Poor But Sexy
 
-The Monday demonstrations in Leipzig that helped bring down the wall drew their power from an old slogan: 'Wir sind das Volk' - 'We are the people.' As reunification approached, the chant shifted: 'Wir sind ein Volk' - 'We are one people.' This transformation from protest to unity happened in weeks, driven by crowds who sensed that history had cracked open and could be pushed through.
+Berlin today holds about 3.7 million people and almost no industry. What survived the war either left the western half or was nationalised in the east and went bankrupt around 1990. The result is a capital slightly less well off than its own country's average — close to unique in Europe — and for decades that made Berlin cheap. Cheap rent bought space, and space bought experiment: studios, start-ups, clubs in buildings nobody had a use for. A former mayor summarised it as arm aber sexy, poor but sexy, and the phrase has proved impossible to shake.
 
-Berlin has always been a city of movements. The Weimar Republic's fevered creativity, the Nazi horror, the Cold War standoff, the techno clubs that colonized abandoned buildings after the wall fell - each era brought people who saw Berlin as a place where the normal rules might not apply. The city's perpetual incompleteness attracted artists, anarchists, entrepreneurs, and refugees from more stable places. Rent was cheap because bombs had destroyed most housing stock and politics had frozen development. Possibility filled the gaps. Even now, as Berlin gentrifies and normalizes, the reputation persists: this is where you come when you want to become something else.
+The bargain is closing. Rents are catching up, and the rent question now dominates Berlin politics: a state rent-control law struck down in the courts, a campaign to expropriate the largest private landlords. Meanwhile the city keeps refilling from elsewhere, as it always has — a Jewish community growing again with arrivals from the former Soviet Union and young Israelis, tens of thousands of Syrians who came in the 2010s, Turkish and Arab Neukölln. A born-and-raised Berliner is rare.
 
-## The Memory Palace
+## Currywurst and the Colour of the Street Lights
 
-Berlin cannot forget its history because Berlin built its history into concrete. The Holocaust Memorial near the Brandenburg Gate covers an entire city block with 2,711 concrete slabs of varying heights - an abstract field meant to produce unease, disorientation, the impossibility of comprehending what happened. The Topography of Terror documents the SS and Gestapo on the very ground where their headquarters stood. Stolpersteine, small brass plaques, are embedded in sidewalks throughout the city marking where Jewish residents were taken for deportation.
+The everyday version of all this history is cheerfully unpretentious. Currywurst — a sausage under ketchup and curry powder — costs a few euros at stands like Konnopke's Imbiss under the elevated tracks at Eberswalder Strasse, or Curry 36 opposite Mehringdamm in Kreuzberg. Berliners are famous among Germans for a directness visitors sometimes mistake for rudeness, and for complaining about their own city's administration at length — an activity guests are not invited to join.
 
-The wall itself became a memorial before it was fully demolished. Sections were preserved, sold to collectors, displayed in museums worldwide. The East Side Gallery covers a 1.3-kilometer stretch with murals - including the famous image of East German leader Erich Honecker and Soviet leader Leonid Brezhnev kissing. Memory in Berlin is not optional; it's infrastructure. The city that hosted twentieth-century Europe's greatest crimes and greatest liberation insists that visitors confront both. It's uncomfortable. It's meant to be.
+On summer weekends the Tiergarten fills with barbecue smoke, the Mauerpark holds its Bearpit Karaoke every second Sunday, and half the city goes swimming at Wannsee. The clubs — around two hundred, techno still dominant — open late and some do not close until Monday. And the border is still legible if you know where to look: cobblestones set into the road where the Wall ran, the absence of trams in the western districts, and, at dusk, the colour of the street lights changing as you cross a line that no longer exists.
 
 ## Flight Context
 
-Berlin (52.52°N, 13.39°E) spreads across the North German Plain at the confluence of the Spree and Havel rivers. The city covers 891 sq km - roughly nine times the area of Paris - making it one of Europe's most spacious capitals with extensive parks and forests within city limits. Two airports currently serve Berlin: Berlin Brandenburg (EDDB/BER) opened in 2020, 18km southeast of central Berlin, consolidating all commercial traffic with two parallel runways. The former Tempelhof Airport (closed 2008) is now a massive public park visible from altitude as a distinctive oval in the urban grid. From the air, the Tiergarten park is clearly visible west of the Brandenburg Gate, and the path of the former Berlin Wall can still be traced through changes in urban texture. The Reichstag's glass dome is a landmark near the Spree's bend. The TV Tower (Fernsehturm) at Alexanderplatz, standing 368m, is the tallest structure and most visible landmark. Eastern districts show notably different architecture than western ones - a visible legacy of 45 years of division. Weather is continental - cold winters with occasional snow, warm summers. The flat terrain means fog can be an issue in autumn and winter.
+Berlin lies at 52.52° N, 13.39° E on the flat North German Plain, at the confluence of the Spree and Havel, roughly 110 ft above sea level. The city covers 891 km², an unusually spacious footprint that includes lakes and forest inside the boundary — Müggelsee in the southeast and the Grunewald and Wannsee in the southwest are all obvious from altitude. Recommended sightseeing altitude is 2,000–3,000 ft AGL. The single best visual anchor is the Fernsehturm at Alexanderplatz: at 368 m (about 1,320 ft MSL) it is the tallest structure in Germany and visible from every approach. Working outward from it, the green rectangle of the Tiergarten sits 3 km west with the Brandenburg Gate at its eastern end, Potsdamer Platz's glass cluster just south of that, and the closed Tempelhof airfield — now a public park — reads as a clean oval further south. Berlin Brandenburg (EDDB/BER) is 18 km southeast and handles all commercial traffic; Tegel (EDDT) closed in 2020 but its hexagonal terminal is still unmistakable northwest of the centre. The inner city sits under controlled airspace with restrictions over the government quarter. Climate is transitional between oceanic and continental: cold winters with frequent low stratus and fog, mild summers, and enough wind that turbulence over the built-up centre is routine.
 
 ## Sources
 
-- [Berlin - Wikipedia](https://en.wikipedia.org/?curid=3354)
-- [Berlin Wall - Wikipedia](https://en.wikipedia.org/wiki/Berlin_Wall)
-  - 155km length
-  - built August 13 1961
-  - fell November 9 1989
-  - over 100 deaths
-  - 2.5 million fled before wall
-- [Bombing of Berlin in World War II - Wikipedia](https://en.wikipedia.org/wiki/Bombing_of_Berlin_in_World_War_II)
-  - 310 raids
-  - 67,000 tons bombs
-  - 50,000 killed
-  - 90% Mitte/Kreuzberg destroyed
-- [Fall of the Berlin Wall - Wikipedia](https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall)
-  - Schabowski announcement
-  - reunification October 3 1990
-  - 1.5 trillion euros reconstruction
+- [Berlin — Wikivoyage](https://en.wikivoyage.org/wiki/Berlin)
+- [Berlin — Wikivoyage](https://en.wikivoyage.org/?curid=3512)
+  - Berlin population about 3.7 million (2022); slightly less well-off than the German national average, unlike virtually all other capitals
+  - 'Poor but sexy' attributed to a former mayor; West Berlin residents were exempt from conscription; Benno Ohnesorg shot during a 1967 protest against the Shah of Iran ignited the 1967-68 student revolts
 
 ## Review Notes
+
+**Reviewed:** 2026-08-06 · 5 facts verified · 0 corrections
+
+Verified population figure, 'poorer than national average' claim, 'poor but sexy' attribution, conscription exemption, and Benno Ohnesorg/1967 protest details via Wikivoyage source. All confirmed. Added verification source and editorial field (spiciness 3).
 
 **Spiciness:** 3/5
 
 **Strong opinions:**
 
-- A city that became the symbol of a divided world
-- Memory in Berlin is not optional; it's infrastructure
+- "A born-and-raised Berliner is rare" and "arm aber sexy" — distinct authorial voice with opinions on the city's character and gentrification ('The bargain is closing')
 
 ---
 
-*Word count: 1,200*
-*Read time: 6 minutes*
+*Word count: 908*
+*Read time: 5 minutes*

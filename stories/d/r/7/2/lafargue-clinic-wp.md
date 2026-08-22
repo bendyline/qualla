@@ -16,7 +16,7 @@ Wright described the crisis plainly in a 1946 article for Free World magazine ti
 
 ## Two Rooms in a Basement
 
-Ellison brought the idea to Sheldon Hale Bishop, the reverend at St. Philip's Episcopal Church, who offered two rooms in the parish house basement. The clinic opened on March 8, 1946, named after Paul Lafargue, a French Marxist physician. The staff was interracial and mostly professionally accredited -- psychiatrists, psychiatric nurses, social workers, psychologists, teachers, and psychology students. Demand was immediate and overwhelming. According to medical historian Dennis Doyle, the waiting list was still full in the clinic's final years. Wertham's philosophy was uncompromising: "We're not here to make a study of the Negro. We're simply here to treat them like other human beings." The clinic also functioned as a de facto social welfare office, connecting patients to public housing and welfare services and hosting a desegregated chapter of Alcoholics Anonymous.
+Ellison brought the idea to Sheldon Hale Bishop, the reverend at St. Philip's Episcopal Church, who offered two rooms in the parish house basement. The clinic opened on March 8, 1946, named after Paul Lafargue, a French Marxist physician. The staff was interracial and mostly professionally accredited -- psychiatrists, psychiatric nurses, social workers, psychologists, teachers, and psychology students. Demand was immediate and overwhelming. According to medical historian Dennis Doyle, the waiting list was still full in the clinic's final years. Wertham's philosophy was uncompromising: "We're not here to make a study of the Negro... We're simply here to treat them like other human beings." The clinic also functioned as a de facto social welfare office, connecting patients to public housing and welfare services and hosting a desegregated chapter of Alcoholics Anonymous.
 
 ## Making Segregation a Public Health Issue
 
@@ -51,6 +51,8 @@ Located at 40.81N, 73.95W in Harlem, Manhattan, near the site of St. Philip's Ep
   - Thurgood Marshall letter to Wertham confirmed
   - Clinic closed November 1, 1958 confirmed
   - Seduction of the Innocent published 1954 confirmed
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Lafargue_Clinic)
+  - Restored an ellipsis marking an omission inside a Wertham quote.
 
 ## Review Notes
 

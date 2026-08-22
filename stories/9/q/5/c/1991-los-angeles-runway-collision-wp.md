@@ -8,7 +8,7 @@ On February 1, 1991, a USAir Boeing 737 landed on top of a SkyWest commuter plan
 
 ## Introduction
 
-At 6:04 in the afternoon on February 1, 1991, LAX controller Duane Wascher cleared a SkyWest Fairchild Metroliner to hold position on runway 24L while awaiting takeoff clearance. Then he cleared a USAir Boeing 737 to land on the same runway. Both planes were there at once. The 737 touched down at 170 miles per hour and struck the commuter aircraft from behind, killing all 12 people aboard the SkyWest plane and 23 of the 89 passengers and crew on the Boeing. It was the worst runway collision in LAX history — and it exposed a chain of failures that had been building for years.
+At 6:04 in the afternoon on February 1, 1991, LAX controller Robin Lee Wascher cleared a SkyWest Fairchild Metroliner to hold position on runway 24L while awaiting takeoff clearance. Then he cleared a USAir Boeing 737 to land on the same runway. Both planes were there at once. The 737 touched down at 170 miles per hour and struck the commuter aircraft from behind, killing all 12 people aboard the SkyWest plane and 23 of the 89 passengers and crew on the Boeing. It was the worst runway collision in LAX history — and it exposed a chain of failures that had been building for years.
 
 ## The Sequence of Failures
 
@@ -36,8 +36,10 @@ Located at Los Angeles International Airport (KLAX), 33.9494°N, 118.4090°W. Ru
   - Corrected: Total deaths were 35 (not 34) — all 12 aboard SkyWest + 23 of 89 aboard USAir 737 — summary updated to 35
   - Corrected: 23 USAir passengers died (not 22); 66 survived from USAir aircraft
   - Collision date February 1, 1991 verified
-  - Controller Duane Wascher cleared both aircraft to same runway verified
-  - Engineer Robert Sanchez had phenobarbital in blood verified
+  - Controller Robin Lee Wascher cleared both aircraft to same runway verified
+  - Captain Colin Shaw had phenobarbital in blood verified
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/1991_Los_Angeles_runway_collision)
+  - Corrected controller name from "Duane Wascher" to Robin Lee Wascher (female), and the phenobarbital attribution to Capt. Colin Shaw.
 
 ## Review Notes
 

@@ -625,5 +625,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sqy9-melissani-cave-flight-context.mp3",
+      "sqy9-melissani-cave-intro.mp3",
+      "sqy9-melissani-cave-the-cave-the-earthquake-revealed.mp3",
+      "sqy9-melissani-cave-an-islands-hidden-plumbing.mp3",
+      "sqy9-melissani-cave-the-cave-of-the-nymphs.mp3",
+      "sqy9-melissani-cave-light-and-time.mp3"
+    ],
+    "durations": {
+      "sqy9-melissani-cave-flight-context.mp3": 49.0484166,
+      "sqy9-melissani-cave-intro.mp3": 48.7965416,
+      "sqy9-melissani-cave-the-cave-the-earthquake-revealed.mp3": 68.6104583,
+      "sqy9-melissani-cave-an-islands-hidden-plumbing.mp3": 66.3528333,
+      "sqy9-melissani-cave-the-cave-of-the-nymphs.mp3": 62.1927916,
+      "sqy9-melissani-cave-light-and-time.mp3": 53.0989166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

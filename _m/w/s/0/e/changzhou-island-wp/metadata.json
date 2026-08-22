@@ -504,5 +504,24 @@
     "_m/w/s/0/e/changzhou-island-wp/shenjing-pen-pagoda-park.jpg",
     "_m/w/s/0/e/changzhou-island-wp/20251224-5252.jpg"
   ],
-  "updatedAt": "2026-06-29T14:31:03.981Z"
+  "updatedAt": "2026-06-29T14:31:03.981Z",
+  "narration": {
+    "files": [
+      "ws0e-changzhou-island-flight-context.mp3",
+      "ws0e-changzhou-island-intro.mp3",
+      "ws0e-changzhou-island-the-foreign-cemetery-by-the-river.mp3",
+      "ws0e-changzhou-island-the-whampoa-military-academy.mp3",
+      "ws0e-changzhou-island-the-zhongshan-incident.mp3",
+      "ws0e-changzhou-island-changzhou-today.mp3"
+    ],
+    "durations": {
+      "ws0e-changzhou-island-flight-context.mp3": 51.6888333,
+      "ws0e-changzhou-island-intro.mp3": 45.8542916,
+      "ws0e-changzhou-island-the-foreign-cemetery-by-the-river.mp3": 62.1154583,
+      "ws0e-changzhou-island-the-whampoa-military-academy.mp3": 66.0220833,
+      "ws0e-changzhou-island-the-zhongshan-incident.mp3": 76.4515,
+      "ws0e-changzhou-island-changzhou-today.mp3": 57.4668333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

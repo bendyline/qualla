@@ -16,7 +16,7 @@ Cooladdi was not always Cooladdi. The settlement began life as Yarronvale, named
 
 ## The Slow Emptying
 
-The boom did not last. As the rail network shifted and motor transport spread, the same line that had created Cooladdi began draining it. The town's long decline set in, residents drifting away decade by decade. A Cooladdi State School opened in 1970 in a hopeful gesture, but it was abandoned just four years later, in 1974 - a small monument to a community that could no longer sustain even a classroom. The railway station fell into disuse. House by house, the town hollowed out, until what remained could be counted on one hand. This is the arc of so many outback rail towns: built fast by the railway, emptied slowly once the railway no longer needed them.
+The boom did not last. As the rail network shifted and motor transport spread, the same line that had created Cooladdi began draining it. The town's long decline set in, residents drifting away decade by decade. The Cooladdi State School, which had opened back in 1926, was finally abandoned in 1974 after decades of dwindling enrolment - a small monument to a community that could no longer sustain even a classroom. The railway station fell into disuse. House by house, the town hollowed out, until what remained could be counted on one hand. This is the arc of so many outback rail towns: built fast by the railway, emptied slowly once the railway no longer needed them.
 
 ## The Foxtrap and the Famous Few
 
@@ -33,6 +33,29 @@ Cooladdi lies at 26.64°S, 145.46°E, on the Charleville-Quilpie corridor in sou
 ## Sources
 
 - [Cooladdi - Wikivoyage](https://en.wikivoyage.org/?curid=129776)
+- [Cooladdi - Wikipedia](https://en.wikipedia.org/wiki/Cooladdi)
+  - renamed from Yarronvale to Cooladdi in 1913, Aboriginal word for black duck
+  - Cooladdi State School opened 1926 as Provisional School, closed 3 May 1974 (corrected from erroneous 1970 opening date)
+  - peak population approximately 270 with school, butcher, post office, store and police station
+  - town lies 88.9 km southwest of Charleville
+- [Tiny Australian town of Cooladdi for sale as owners call time at Foxtrap Roadhouse - RNZ News](https://www.rnz.co.nz/news/world/591764/tiny-australian-town-of-cooladdi-for-sale-as-owners-call-time-at-foxtrap-roadhouse)
+  - Foxtrap Roadhouse remains operational as of April 2026 (up for sale, but still serving as motel/pub/store/post office)
+  - Cooladdi retains postcode 4479 and reputation as smallest town in Australia with its own postcode
+- [SCHOOL FOR COOLADDI - The Charleville Times, 27 Jan 1933 (Trove)](https://trove.nla.gov.au/newspaper/article/76387538)
+  - Cooladdi to Cheepie rail section opened 22 July 1914
+
+## Review Notes
+
+**Reviewed:** 2026-07-14 · 7 facts verified · 1 correction
+
+Fixed factual error: story claimed the Cooladdi State School 'opened in 1970... abandoned just four years later, in 1974' but multiple sources (Wikipedia, Kiddle, Trove 1933 newspaper) confirm it opened in 1926 as a Provisional School and closed in 1974 after ~48 years. Corrected the opening date and removed the false 'four years later' framing. Verified renaming from Yarronvale (1913), Cooladdi-Cheepie rail section (July 1914), peak population 270, distance to Charleville (89km), and confirmed Foxtrap Roadhouse still operating as of April 2026 (per recent news of it being for sale).
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- Frames the town's near-emptiness as 'quietly magnificent' rather than simply a decline
+- Self-rates the roadhouse restaurant as 'four-star' with wry, self-aware humor
 
 ---
 

@@ -52,5 +52,26 @@
     "sourceGeohash4": "gcx4"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcx4-battle-of-york-867-flight-context.mp3",
+      "gcx4-battle-of-york-867-intro.mp3",
+      "gcx4-battle-of-york-867-two-kings-one-throne.mp3",
+      "gcx4-battle-of-york-867-inside-the-walls.mp3",
+      "gcx4-battle-of-york-867-the-blood-eagle.mp3",
+      "gcx4-battle-of-york-867-the-birth-of-jorvik.mp3",
+      "gcx4-battle-of-york-867-beneath-the-modern-city.mp3"
+    ],
+    "durations": {
+      "gcx4-battle-of-york-867-flight-context.mp3": 55.36125,
+      "gcx4-battle-of-york-867-intro.mp3": 46.9849166,
+      "gcx4-battle-of-york-867-two-kings-one-throne.mp3": 52.6232083,
+      "gcx4-battle-of-york-867-inside-the-walls.mp3": 54.1625833,
+      "gcx4-battle-of-york-867-the-blood-eagle.mp3": 53.6332916,
+      "gcx4-battle-of-york-867-the-birth-of-jorvik.mp3": 57.679875,
+      "gcx4-battle-of-york-867-beneath-the-modern-city.mp3": 46.039625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

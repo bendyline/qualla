@@ -55,5 +55,24 @@
     "sourceGeohash4": "gcwv"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcwv-catterick-bridge-explosion-flight-context.mp3",
+      "gcwv-catterick-bridge-explosion-intro.mp3",
+      "gcwv-catterick-bridge-explosion-the-wartime-branch-line.mp3",
+      "gcwv-catterick-bridge-explosion-four-oclock.mp3",
+      "gcwv-catterick-bridge-explosion-quiet-heroism.mp3",
+      "gcwv-catterick-bridge-explosion-the-censored-disaster.mp3"
+    ],
+    "durations": {
+      "gcwv-catterick-bridge-explosion-flight-context.mp3": 59.0338333,
+      "gcwv-catterick-bridge-explosion-intro.mp3": 47.259125,
+      "gcwv-catterick-bridge-explosion-the-wartime-branch-line.mp3": 60.4381666,
+      "gcwv-catterick-bridge-explosion-four-oclock.mp3": 62.6063333,
+      "gcwv-catterick-bridge-explosion-quiet-heroism.mp3": 70.55425,
+      "gcwv-catterick-bridge-explosion-the-censored-disaster.mp3": 61.8495833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

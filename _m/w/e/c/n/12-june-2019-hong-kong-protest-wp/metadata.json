@@ -612,5 +612,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecn-12-june-2019-hong-kong-protest-flight-context.mp3",
+      "wecn-12-june-2019-hong-kong-protest-intro.mp3",
+      "wecn-12-june-2019-hong-kong-protest-the-picnic-that-wasnt.mp3",
+      "wecn-12-june-2019-hong-kong-protest-tear-gas-and-contested-ground.mp3",
+      "wecn-12-june-2019-hong-kong-protest-the-missing-numbers.mp3",
+      "wecn-12-june-2019-hong-kong-protest-what-june-12-became.mp3"
+    ],
+    "durations": {
+      "wecn-12-june-2019-hong-kong-protest-flight-context.mp3": 59.7504166,
+      "wecn-12-june-2019-hong-kong-protest-intro.mp3": 43.710625,
+      "wecn-12-june-2019-hong-kong-protest-the-picnic-that-wasnt.mp3": 46.1585416,
+      "wecn-12-june-2019-hong-kong-protest-tear-gas-and-contested-ground.mp3": 57.733875,
+      "wecn-12-june-2019-hong-kong-protest-the-missing-numbers.mp3": 57.171,
+      "wecn-12-june-2019-hong-kong-protest-what-june-12-became.mp3": 54.9449166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

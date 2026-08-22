@@ -88,5 +88,22 @@
   ],
   "galleryPaths": [
     "_m/r/n/j/5/green-hill-fort-wp/hero.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r5rc-langlo-river-flight-context.mp3",
+      "r5rc-langlo-river-intro.mp3",
+      "r5rc-langlo-river-out-of-the-edinburgh-range.mp3",
+      "r5rc-langlo-river-the-logic-of-braided-country.mp3",
+      "r5rc-langlo-river-a-thread-in-a-greater-web.mp3"
+    ],
+    "durations": {
+      "r5rc-langlo-river-flight-context.mp3": 71.5940416,
+      "r5rc-langlo-river-intro.mp3": 38.8200833,
+      "r5rc-langlo-river-out-of-the-edinburgh-range.mp3": 47.0504166,
+      "r5rc-langlo-river-the-logic-of-braided-country.mp3": 47.9362083,
+      "r5rc-langlo-river-a-thread-in-a-greater-web.mp3": 52.561875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

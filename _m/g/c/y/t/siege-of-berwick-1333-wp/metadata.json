@@ -154,5 +154,26 @@
     "_m/g/c/v/w/edinburgh-wp/scotland-relief-location-map.jpg",
     "_m/g/c/y/t/siege-of-berwick-1333-wp/ms-thott-290-2-fencing.jpg",
     "_m/g/f/j/2/battle-of-dupplin-moor-wp/hero.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcyt-siege-of-berwick-1333-flight-context.mp3",
+      "gcyt-siege-of-berwick-1333-intro.mp3",
+      "gcyt-siege-of-berwick-1333-why-berwick.mp3",
+      "gcyt-siege-of-berwick-1333-the-pretext.mp3",
+      "gcyt-siege-of-berwick-1333-the-siege.mp3",
+      "gcyt-siege-of-berwick-1333-the-hanging.mp3",
+      "gcyt-siege-of-berwick-1333-halidon-hill.mp3"
+    ],
+    "durations": {
+      "gcyt-siege-of-berwick-1333-flight-context.mp3": 60.3694166,
+      "gcyt-siege-of-berwick-1333-intro.mp3": 49.724,
+      "gcyt-siege-of-berwick-1333-why-berwick.mp3": 64.0137916,
+      "gcyt-siege-of-berwick-1333-the-pretext.mp3": 56.9635416,
+      "gcyt-siege-of-berwick-1333-the-siege.mp3": 62.3636666,
+      "gcyt-siege-of-berwick-1333-the-hanging.mp3": 59.1365833,
+      "gcyt-siege-of-berwick-1333-halidon-hill.mp3": 87.2034583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

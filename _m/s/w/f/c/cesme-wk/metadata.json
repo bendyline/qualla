@@ -428,5 +428,26 @@
     "_m/s/w/f/c/cesme-wk/cesme.jpg",
     "_m/s/w/f/c/cesme-wk/cesme-2014.jpg"
   ],
-  "updatedAt": "2026-06-24T22:41:21.130Z"
+  "updatedAt": "2026-06-24T22:41:21.130Z",
+  "narration": {
+    "files": [
+      "swfc-e-me-flight-context.mp3",
+      "swfc-e-me-intro.mp3",
+      "swfc-e-me-the-castle-and-the-lion.mp3",
+      "swfc-e-me-the-battle-in-the-bay.mp3",
+      "swfc-e-me-springs-sand-and-wind.mp3",
+      "swfc-e-me-a-church-turned-gallery.mp3",
+      "swfc-e-me-where-to-go-next.mp3"
+    ],
+    "durations": {
+      "swfc-e-me-flight-context.mp3": 56.475125,
+      "swfc-e-me-intro.mp3": 35.3719583,
+      "swfc-e-me-the-castle-and-the-lion.mp3": 50.736,
+      "swfc-e-me-the-battle-in-the-bay.mp3": 52.6814166,
+      "swfc-e-me-springs-sand-and-wind.mp3": 45.3973333,
+      "swfc-e-me-a-church-turned-gallery.mp3": 45.68025,
+      "swfc-e-me-where-to-go-next.mp3": 45.3884166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

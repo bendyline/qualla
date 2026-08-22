@@ -24,7 +24,7 @@ General Joseph Graham's 1825 account of the battle preserves scenes of heartbrea
 
 ## The Bitter Aftermath
 
-Between 50 and 70 men lay dead on each side, with another 100 wounded per side -- staggering numbers for a fight between neighbors. Wives, mothers, and children climbed the hill to bury their dead where they had fallen. When General Rutherford finally arrived with his main force, the surviving Loyalists sent a white flag requesting a truce. Rutherford demanded unconditional surrender instead. While negotiations dragged on, most remaining Loyalists slipped away; only about 50 were taken prisoner. The consequences rippled for years. Loyalist properties were seized. Abraham Keener was summoned six years later to build a road as punishment for his role, though some accounts suggest he eventually switched allegiance. Loyalist James Karr wrote to his old friend Rutherford seeking reconciliation. Rutherford's response was cold: "As an Honest Neighbor you desarve my countenance, but as an open enemy you must know that you desarve none."
+Between 50 and 70 men lay dead on each side, with another 100 wounded per side -- staggering numbers for a fight between neighbors. Wives, mothers, and children climbed the hill to bury their dead where they had fallen. When General Rutherford finally arrived with his main force, the surviving Loyalists sent a white flag requesting a truce. Rutherford demanded unconditional surrender instead. While negotiations dragged on, most remaining Loyalists slipped away; only about 50 were taken prisoner. The consequences rippled for years. Loyalist properties were seized. Abraham Keener was summoned six years later to build a road as punishment for his role, though some accounts suggest he eventually switched allegiance. Loyalist James Karr wrote to his old friend Rutherford seeking reconciliation. Rutherford's response was cold: "As to your General Conduct an Honest Neighbor you have cause to think you desarve my countenance, but as an open enemy you must know that you desarve none."
 
 ## What Remains
 
@@ -47,6 +47,8 @@ Located at 35.48°N, 81.26°W near Lincolnton, North Carolina. The battlefield s
   - neither side wore uniforms
   - casualty estimates 50-70 dead per side
   - Loyalist morale shattered across Carolina backcountry
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Battle_of_Ramsour%27s_Mill)
+  - Corrected a compressed Rutherford quote to the source wording.
 
 ## Review Notes
 

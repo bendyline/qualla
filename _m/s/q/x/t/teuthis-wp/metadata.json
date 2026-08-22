@@ -63,5 +63,24 @@
     "sourceGeohash4": "sqxt"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sqxt-teuthis-flight-context.mp3",
+      "sqxt-teuthis-intro.mp3",
+      "sqxt-teuthis-the-city-that-stayed-home.mp3",
+      "sqxt-teuthis-a-disagreement-among-scholars.mp3",
+      "sqxt-teuthis-reading-pausanias-carefully.mp3",
+      "sqxt-teuthis-a-name-that-survived.mp3"
+    ],
+    "durations": {
+      "sqxt-teuthis-flight-context.mp3": 55.597875,
+      "sqxt-teuthis-intro.mp3": 61.842375,
+      "sqxt-teuthis-the-city-that-stayed-home.mp3": 68.1987083,
+      "sqxt-teuthis-a-disagreement-among-scholars.mp3": 65.5085416,
+      "sqxt-teuthis-reading-pausanias-carefully.mp3": 69.1927916,
+      "sqxt-teuthis-a-name-that-survived.mp3": 64.5373333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

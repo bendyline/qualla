@@ -12,7 +12,7 @@ Christmas came to the villages of Bokkos and Barkin Ladi in 2023 with gunfire an
 
 ## A Conflict with Deep Roots
 
-The violence that exploded at Christmas had been building for years. Since 2011, clashes between semi-nomadic Fulani herders and settled farming communities -- primarily Hausa and other ethnic groups -- have intensified across Nigeria's central states. The core dispute is deceptively simple: herders need grazing land for their cattle, and farmers need cropland to feed their families. Climate change has squeezed both sides. As rainfall patterns shift and the Sahara creeps southward, pastoralists push further into farming territory. Population pressure compounds the problem: with a fertility rate of around 4.5 as of 2023, Nigeria's youth population far outstrips available employment, leaving young men vulnerable to recruitment by armed groups. Previous attacks had struck the same region in April 2022 and May 2023, each one a warning that went unheeded.
+The violence that exploded at Christmas had been building for years. Since 2011, clashes between semi-nomadic Fulani herders and settled farming communities -- predominantly Berom and other Middle Belt Christian groups -- have intensified across Nigeria's central states. The core dispute is deceptively simple: herders need grazing land for their cattle, and farmers need cropland to feed their families. Climate change has squeezed both sides. As rainfall patterns shift and the Sahara creeps southward, pastoralists push further into farming territory. Population pressure compounds the problem: with a fertility rate of around 4.5 as of 2023, Nigeria's youth population far outstrips available employment, leaving young men vulnerable to recruitment by armed groups. Previous attacks had struck the same region in April 2022 and May 2023, each one a warning that went unheeded.
 
 ## Black Christmas
 
@@ -43,6 +43,8 @@ Located at 9.57N, 8.92E in Plateau State, central Nigeria. The Jos Plateau rises
   - Corrected: Nigeria fertility rate 5.3 → ~4.5 (World Bank 2023 data: 4.48)
 - [Nigeria Fertility Rate - World Bank / Macrotrends](https://www.macrotrends.net/global-metrics/countries/nga/nigeria/fertility-rate)
   - Nigeria fertility rate 2023 is approximately 4.48 births per woman, not 5.3
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2023_Plateau_State_massacres)
+  - Corrected the settled farming communities from "primarily Hausa" to the documented Berom and other Middle Belt Christian groups.
 
 ## Review Notes
 

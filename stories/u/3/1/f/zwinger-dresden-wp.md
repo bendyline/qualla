@@ -8,11 +8,11 @@ Augustus the Strong's late-baroque pleasure palace in Dresden, built for orange 
 
 ## Introduction
 
-Augustus the Strong came home from Versailles in 1689 with an idea that would have struck most rulers as impractical and struck Augustus as obviously necessary. He would build a forecourt — just a forecourt, mind, not yet the palace itself — large enough to display every orange tree, every fountain, every sculpted pavilion that an Elector of Saxony and king-elect of Poland could possibly require for a really good party. The palace behind it was never built. The forecourt is the Zwinger, and three centuries later it is still throwing the party.
+Augustus the Strong came home in 1689 from a grand tour of France and Italy - Louis XIV's new court at Versailles very much included - with an idea that would have struck most rulers as impractical and struck Augustus as obviously necessary. He would build a forecourt — just a forecourt, mind, not yet the palace itself — large enough to display every orange tree, every fountain, every sculpted pavilion that an Elector of Saxony and king-elect of Poland could possibly require for a really good party. The palace behind it was never built. The forecourt is the Zwinger, and three centuries later it is still throwing the party.
 
 ## A Word From the Walls
 
-The name is older than the building and originally meant something quite different. In medieval German, a Zwinger was the killing ground between the inner and outer walls of a fortress, a narrow strip of land where attackers who breached the outer defenses found themselves trapped and exposed. Dresden's first city walls went up in the late 12th century, and by 1427, during the Hussite Wars, a second outer wall enclosed the Zwingergarten, a kitchen garden tucked between the fortifications. By the time Augustus the Strong started building in 1709, the walls were obsolete and the garden was about to become something nobody had ever attempted before: a palace whose entire purpose was joy. The name stuck anyway. A killing ground turned into a place for orange trees.
+The name is older than the building and originally meant something quite different. In medieval German, a Zwinger was the killing ground between the inner and outer walls of a fortress, a narrow strip of land where attackers who breached the outer defenses found themselves trapped and exposed. Dresden's first city walls went up in the late 12th century, and by 1427, during the Hussite Wars, a second outer wall enclosed the Zwingergarten, a kitchen garden tucked between the fortifications. By the time Augustus the Strong started building in 1710, the walls were obsolete and the garden was about to become something nobody had ever attempted before: a palace whose entire purpose was joy. The name stuck anyway. A killing ground turned into a place for orange trees.
 
 ## Pöppelmann and Permoser
 
@@ -28,7 +28,7 @@ On the nights of February 13 and 14, 1945, RAF Bomber Command and the US Eighth 
 
 ## The Party Continues
 
-Augustus the Strong's accounts were notoriously expensive. His Polish-Saxon court ran on borrowed money, and the people of Saxony paid for it in taxes for generations after his death. It would be wrong to look at the Zwinger and not notice that — the curling rocailles and the gold-tipped finials were not free, and they were not paid for by the man whose name is on them. They were paid for by everyone else. But the building survived its patron and his debts and the bombs and the long Soviet aftermath, and it sits today on a square in the heart of Dresden where music still plays and the Sistine Madonna still looks down from her wall in the Sempergalerie, and the orange trees, in summer, still come out into the courtyard. Joy, as a building program, has its critics. It also has its defenders.
+Augustus the Strong's court was notoriously expensive. His Polish-Saxon establishment ran on borrowed money, and the people of Saxony paid for it in taxes for generations after his death. It would be wrong to look at the Zwinger and not notice that — the curling rocailles and the gold-tipped finials were not free, and they were not paid for by the man whose name is on them. They were paid for by everyone else. But the building survived its patron and his debts and the bombs and the long Soviet aftermath, and it sits today on a square in the heart of Dresden where music still plays and the Sistine Madonna still looks down from her wall in the Sempergalerie, and the orange trees, in summer, still come out into the courtyard. Joy, as a building program, has its critics. It also has its defenders.
 
 ## Flight Context
 
@@ -37,8 +37,29 @@ The Zwinger sits at 51.053°N, 13.734°E in the heart of Dresden's Innere Altsta
 ## Sources
 
 - [Zwinger (Dresden) - Wikipedia](https://en.wikipedia.org/?curid=38860)
+- [Zwinger (Dresden) - Wikipedia](https://en.wikipedia.org/?curid=38860)
+  - Construction started 1710, ran to 1728; architect Pöppelmann, sculptor Permoser
+  - Corrected: intro said building started in 1709, but the construction-start date is 1710 (matches the later section's own timeline)
+  - 1719 inauguration for wedding of electoral prince Frederick August to Maria Josepha
+  - Sempergalerie by Gottfried Semper opened 1855
+  - 1427 Hussite Wars outer wall enclosed the Zwingergarten
+- [Augustus II the Strong - Wikipedia](https://en.wikipedia.org/wiki/Augustus_II_the_Strong)
+  - Grand tour of France and Italy 1687-1689, returned 1689, visited Versailles
+
+## Review Notes
+
+**Reviewed:** 2026-08-05 · 10 facts verified · 1 correction
+
+Verified construction dates, architects, 1719 wedding, Sempergalerie 1855, and Augustus's 1687-1689 grand tour via Wikipedia. Fixed internal inconsistency: intro said construction started in 1709, but the article's own later section and Wikipedia agree on 1710; corrected to 1710. No empathy issues. Spiciness 3 (explicit critique that Saxon taxpayers funded Augustus's extravagance).
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- The Zwinger's ornamentation was funded by Saxon taxpayers, not by Augustus personally: "They were paid for by everyone else"
+- "Joy, as a building program, has its critics. It also has its defenders."
 
 ---
 
-*Word count: 845*
+*Word count: 834*
 *Read time: 4 minutes*

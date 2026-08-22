@@ -55,5 +55,24 @@
     "sourceGeohash4": "r52p"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "r52p-old-andado-flight-context.mp3",
+      "r52p-old-andado-intro.mp3",
+      "r52p-old-andado-the-easternmost-light.mp3",
+      "r52p-old-andado-mollys-half-century.mp3",
+      "r52p-old-andado-a-house-kept-as-it-was.mp3",
+      "r52p-old-andado-the-tree-that-outlives-everyone.mp3"
+    ],
+    "durations": {
+      "r52p-old-andado-flight-context.mp3": 62.3281666,
+      "r52p-old-andado-intro.mp3": 37.0434583,
+      "r52p-old-andado-the-easternmost-light.mp3": 48.5768333,
+      "r52p-old-andado-mollys-half-century.mp3": 53.08575,
+      "r52p-old-andado-a-house-kept-as-it-was.mp3": 50.0849583,
+      "r52p-old-andado-the-tree-that-outlives-everyone.mp3": 61.9153333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -83,5 +83,24 @@
   "galleryPaths": [
     "_m/s/s/9/p/lady-be-good-aircraft-wp/376bg-ladybgood.jpg"
   ],
-  "updatedAt": "2026-06-28T19:11:42.543Z"
+  "updatedAt": "2026-06-28T19:11:42.543Z",
+  "narration": {
+    "files": [
+      "ss9p-lady-be-good-aircraft-flight-context.mp3",
+      "ss9p-lady-be-good-aircraft-intro.mp3",
+      "ss9p-lady-be-good-aircraft-the-first-mission.mp3",
+      "ss9p-lady-be-good-aircraft-past-the-coast-into-the-dark.mp3",
+      "ss9p-lady-be-good-aircraft-the-long-walk-north.mp3",
+      "ss9p-lady-be-good-aircraft-found-one-by-one.mp3"
+    ],
+    "durations": {
+      "ss9p-lady-be-good-aircraft-flight-context.mp3": 86.0194583,
+      "ss9p-lady-be-good-aircraft-intro.mp3": 46.0091666,
+      "ss9p-lady-be-good-aircraft-the-first-mission.mp3": 70.634,
+      "ss9p-lady-be-good-aircraft-past-the-coast-into-the-dark.mp3": 63.09225,
+      "ss9p-lady-be-good-aircraft-the-long-walk-north.mp3": 65.878625,
+      "ss9p-lady-be-good-aircraft-found-one-by-one.mp3": 67.0474166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

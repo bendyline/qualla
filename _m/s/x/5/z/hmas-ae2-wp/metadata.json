@@ -144,5 +144,24 @@
     "_m/s/x/5/z/hmas-ae2-wp/ae2-tower-port.jpg",
     "_m/s/x/5/z/hmas-ae2-wp/plaque-for-hmas-ae2-at-western.jpg"
   ],
-  "updatedAt": "2026-06-24T23:44:16.705Z"
+  "updatedAt": "2026-06-24T23:44:16.705Z",
+  "narration": {
+    "files": [
+      "sx5z-hmas-ae2-flight-context.mp3",
+      "sx5z-hmas-ae2-intro.mp3",
+      "sx5z-hmas-ae2-a-long-road-to-the-strait.mp3",
+      "sx5z-hmas-ae2-through-the-narrows.mp3",
+      "sx5z-hmas-ae2-scuttled-in-the-marmara.mp3",
+      "sx5z-hmas-ae2-resting-place.mp3"
+    ],
+    "durations": {
+      "sx5z-hmas-ae2-flight-context.mp3": 59.6666666,
+      "sx5z-hmas-ae2-intro.mp3": 36.9921666,
+      "sx5z-hmas-ae2-a-long-road-to-the-strait.mp3": 62.935875,
+      "sx5z-hmas-ae2-through-the-narrows.mp3": 62.7664166,
+      "sx5z-hmas-ae2-scuttled-in-the-marmara.mp3": 51.862,
+      "sx5z-hmas-ae2-resting-place.mp3": 69.5339166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

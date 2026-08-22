@@ -85,5 +85,24 @@
   ],
   "galleryPaths": [
     "_m/s/w/b/b/pan-s-cave-haidari-wp/entrance-pan-s-cave-ha.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swbb-pans-cave-haidari-flight-context.mp3",
+      "swbb-pans-cave-haidari-intro.mp3",
+      "swbb-pans-cave-haidari-a-hollow-shaped-for-a-god.mp3",
+      "swbb-pans-cave-haidari-what-the-earth-held.mp3",
+      "swbb-pans-cave-haidari-a-brief-bright-window.mp3",
+      "swbb-pans-cave-haidari-second-lives.mp3"
+    ],
+    "durations": {
+      "swbb-pans-cave-haidari-flight-context.mp3": 60.6380833,
+      "swbb-pans-cave-haidari-intro.mp3": 44.1230833,
+      "swbb-pans-cave-haidari-a-hollow-shaped-for-a-god.mp3": 50.502625,
+      "swbb-pans-cave-haidari-what-the-earth-held.mp3": 59.0419166,
+      "swbb-pans-cave-haidari-a-brief-bright-window.mp3": 48.4774583,
+      "swbb-pans-cave-haidari-second-lives.mp3": 51.9602916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

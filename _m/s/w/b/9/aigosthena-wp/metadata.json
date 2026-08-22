@@ -669,5 +669,24 @@
     "_m/s/w/b/9/aigosthena-wp/inside-the-castle-of-aigosthen.jpg",
     "_m/s/w/b/9/aigosthena-wp/view-of-the-corinthian-gulf-fr.jpg"
   ],
-  "updatedAt": "2026-06-24T17:21:05.258Z"
+  "updatedAt": "2026-06-24T17:21:05.258Z",
+  "narration": {
+    "files": [
+      "swb9-aigosthena-flight-context.mp3",
+      "swb9-aigosthena-intro.mp3",
+      "swb9-aigosthena-at-the-edge-of-the-megarid.mp3",
+      "swb9-aigosthena-the-fortress-that-remains.mp3",
+      "swb9-aigosthena-towers-that-still-stand.mp3",
+      "swb9-aigosthena-league-cities-and-beach-visitors.mp3"
+    ],
+    "durations": {
+      "swb9-aigosthena-flight-context.mp3": 51.7292083,
+      "swb9-aigosthena-intro.mp3": 46.4961666,
+      "swb9-aigosthena-at-the-edge-of-the-megarid.mp3": 46.8412083,
+      "swb9-aigosthena-the-fortress-that-remains.mp3": 59.6434583,
+      "swb9-aigosthena-towers-that-still-stand.mp3": 59.893625,
+      "swb9-aigosthena-league-cities-and-beach-visitors.mp3": 52.6749583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

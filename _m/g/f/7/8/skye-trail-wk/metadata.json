@@ -106,5 +106,26 @@
   "galleryPaths": [
     "_m/g/f/7/8/skye-trail-wk/view-broadford-isle-sk.jpg",
     "_m/g/f/7/8/skye-trail-wk/isle-skye-t-eilean-sgi.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gf78-skye-trail-flight-context.mp3",
+      "gf78-skye-trail-intro.mp3",
+      "gf78-skye-trail-an-unofficial-spine.mp3",
+      "gf78-skye-trail-trotternish.mp3",
+      "gf78-skye-trail-sligachan-and-the-cuillin.mp3",
+      "gf78-skye-trail-boreraig-and-suisnish.mp3",
+      "gf78-skye-trail-when-to-go-and-what-to-bring.mp3"
+    ],
+    "durations": {
+      "gf78-skye-trail-flight-context.mp3": 59.145375,
+      "gf78-skye-trail-intro.mp3": 46.8551666,
+      "gf78-skye-trail-an-unofficial-spine.mp3": 48.5675416,
+      "gf78-skye-trail-trotternish.mp3": 52.0473333,
+      "gf78-skye-trail-sligachan-and-the-cuillin.mp3": 59.5284166,
+      "gf78-skye-trail-boreraig-and-suisnish.mp3": 50.4809583,
+      "gf78-skye-trail-when-to-go-and-what-to-bring.mp3": 52.7414166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

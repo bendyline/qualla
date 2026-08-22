@@ -437,5 +437,26 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u102-royal-sovereign-lighthouse-flight-context.mp3",
+      "u102-royal-sovereign-lighthouse-intro.mp3",
+      "u102-royal-sovereign-lighthouse-replacing-a-lightship.mp3",
+      "u102-royal-sovereign-lighthouse-life-on-the-pillar.mp3",
+      "u102-royal-sovereign-lighthouse-concrete-cancer.mp3",
+      "u102-royal-sovereign-lighthouse-the-long-goodbye.mp3",
+      "u102-royal-sovereign-lighthouse-eastbournes-beacon.mp3"
+    ],
+    "durations": {
+      "u102-royal-sovereign-lighthouse-flight-context.mp3": 59.426875,
+      "u102-royal-sovereign-lighthouse-intro.mp3": 46.558625,
+      "u102-royal-sovereign-lighthouse-replacing-a-lightship.mp3": 75.5414583,
+      "u102-royal-sovereign-lighthouse-life-on-the-pillar.mp3": 70.0236666,
+      "u102-royal-sovereign-lighthouse-concrete-cancer.mp3": 61.9130833,
+      "u102-royal-sovereign-lighthouse-the-long-goodbye.mp3": 63.5228333,
+      "u102-royal-sovereign-lighthouse-eastbournes-beacon.mp3": 67.8845416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -357,5 +357,24 @@
     "_m/g/f/5/u/mallaig-wp/mallaig-vessels.png",
     "_m/g/f/5/u/mallaig-wp/mallaig-tonnage.png"
   ],
-  "updatedAt": "2026-06-23T20:40:58.355Z"
+  "updatedAt": "2026-06-23T20:40:58.355Z",
+  "narration": {
+    "files": [
+      "gf5u-mallaig-flight-context.mp3",
+      "gf5u-mallaig-intro.mp3",
+      "gf5u-mallaig-the-last-stop-west.mp3",
+      "gf5u-mallaig-ferries-in-four-directions.mp3",
+      "gf5u-mallaig-the-hogwarts-express.mp3",
+      "gf5u-mallaig-children-of-the-small-isles.mp3"
+    ],
+    "durations": {
+      "gf5u-mallaig-flight-context.mp3": 55.9250416,
+      "gf5u-mallaig-intro.mp3": 39.959375,
+      "gf5u-mallaig-the-last-stop-west.mp3": 59.3228333,
+      "gf5u-mallaig-ferries-in-four-directions.mp3": 52.4646666,
+      "gf5u-mallaig-the-hogwarts-express.mp3": 49.6338333,
+      "gf5u-mallaig-children-of-the-small-isles.mp3": 48.5735416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

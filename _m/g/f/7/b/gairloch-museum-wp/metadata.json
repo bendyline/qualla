@@ -121,5 +121,24 @@
   "galleryPaths": [
     "_m/g/f/7/b/gairloch-museum-wp/gairloch-stone-pictish.jpg",
     "_m/g/f/7/b/gairloch-museum-wp/gairloch-heritage-muse.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gf7b-gairloch-museum-flight-context.mp3",
+      "gf7b-gairloch-museum-intro.mp3",
+      "gf7b-gairloch-museum-started-in-a-farm-steading.mp3",
+      "gf7b-gairloch-museum-the-bunker-conversion.mp3",
+      "gf7b-gairloch-museum-what-is-inside.mp3",
+      "gf7b-gairloch-museum-museum-of-the-year.mp3"
+    ],
+    "durations": {
+      "gf7b-gairloch-museum-flight-context.mp3": 53.9937083,
+      "gf7b-gairloch-museum-intro.mp3": 51.7115416,
+      "gf7b-gairloch-museum-started-in-a-farm-steading.mp3": 58.54625,
+      "gf7b-gairloch-museum-the-bunker-conversion.mp3": 63.0770416,
+      "gf7b-gairloch-museum-what-is-inside.mp3": 50.9843333,
+      "gf7b-gairloch-museum-museum-of-the-year.mp3": 53.9984166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

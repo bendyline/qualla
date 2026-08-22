@@ -356,5 +356,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-anadoluhisar-beykoz-flight-context.mp3",
+      "sxk9-anadoluhisar-beykoz-intro.mp3",
+      "sxk9-anadoluhisar-beykoz-where-two-streams-meet-the-strait.mp3",
+      "sxk9-anadoluhisar-beykoz-the-k-ksu-pavilion-and-its-fountain.mp3",
+      "sxk9-anadoluhisar-beykoz-old-houses-along-old-lanes.mp3",
+      "sxk9-anadoluhisar-beykoz-living-on-the-asian-shore.mp3"
+    ],
+    "durations": {
+      "sxk9-anadoluhisar-beykoz-flight-context.mp3": 52.23775,
+      "sxk9-anadoluhisar-beykoz-intro.mp3": 54.1957083,
+      "sxk9-anadoluhisar-beykoz-where-two-streams-meet-the-strait.mp3": 59.83525,
+      "sxk9-anadoluhisar-beykoz-the-k-ksu-pavilion-and-its-fountain.mp3": 60.688625,
+      "sxk9-anadoluhisar-beykoz-old-houses-along-old-lanes.mp3": 56.3979583,
+      "sxk9-anadoluhisar-beykoz-living-on-the-asian-shore.mp3": 54.0030416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

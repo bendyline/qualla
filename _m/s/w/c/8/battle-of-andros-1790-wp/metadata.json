@@ -55,5 +55,24 @@
     "sourceGeohash4": "swc8"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "swc8-battle-of-andros-1790-flight-context.mp3",
+      "swc8-battle-of-andros-1790-intro.mp3",
+      "swc8-battle-of-andros-1790-a-greek-under-the-russian-flag.mp3",
+      "swc8-battle-of-andros-1790-the-trap-in-the-straits.mp3",
+      "swc8-battle-of-andros-1790-fire-and-escape.mp3",
+      "swc8-battle-of-andros-1790-the-man-who-would-not-stop.mp3"
+    ],
+    "durations": {
+      "swc8-battle-of-andros-1790-flight-context.mp3": 53.6350416,
+      "swc8-battle-of-andros-1790-intro.mp3": 46.635,
+      "swc8-battle-of-andros-1790-a-greek-under-the-russian-flag.mp3": 60.5796666,
+      "swc8-battle-of-andros-1790-the-trap-in-the-straits.mp3": 47.7824583,
+      "swc8-battle-of-andros-1790-fire-and-escape.mp3": 53.3767083,
+      "swc8-battle-of-andros-1790-the-man-who-would-not-stop.mp3": 43.675375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

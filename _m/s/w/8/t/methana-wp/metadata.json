@@ -455,5 +455,24 @@
     "_m/s/w/8/t/methana-wp/the-town-of-methana-on-august-.jpg",
     "_m/s/w/8/t/methana-wp/the-town-of-methana-on-20-sept.jpg"
   ],
-  "updatedAt": "2026-06-24T14:24:46.596Z"
+  "updatedAt": "2026-06-24T14:24:46.596Z",
+  "narration": {
+    "files": [
+      "sw8t-methana-flight-context.mp3",
+      "sw8t-methana-intro.mp3",
+      "sw8t-methana-where-the-peloponnese-breathes-fire.mp3",
+      "sw8t-methana-older-than-its-name.mp3",
+      "sw8t-methana-arsinoe-and-the-ptolemies.mp3",
+      "sw8t-methana-the-sulphur-baths.mp3"
+    ],
+    "durations": {
+      "sw8t-methana-flight-context.mp3": 58.3230416,
+      "sw8t-methana-intro.mp3": 46.2270416,
+      "sw8t-methana-where-the-peloponnese-breathes-fire.mp3": 69.9855416,
+      "sw8t-methana-older-than-its-name.mp3": 73.0835,
+      "sw8t-methana-arsinoe-and-the-ptolemies.mp3": 63.7370833,
+      "sw8t-methana-the-sulphur-baths.mp3": 71.6585416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

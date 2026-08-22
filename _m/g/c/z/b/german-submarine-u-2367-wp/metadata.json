@@ -50,5 +50,24 @@
     "sourceGeohash4": "gczb"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gczb-german-submarine-u-2367-flight-context.mp3",
+      "gczb-german-submarine-u-2367-intro.mp3",
+      "gczb-german-submarine-u-2367-type-xxiii.mp3",
+      "gczb-german-submarine-u-2367-hamburg-to-commissioning-in-six-months.mp3",
+      "gczb-german-submarine-u-2367-collision-off-schleimuende.mp3",
+      "gczb-german-submarine-u-2367-raised-renamed-sailed-again.mp3"
+    ],
+    "durations": {
+      "gczb-german-submarine-u-2367-flight-context.mp3": 66.8260833,
+      "gczb-german-submarine-u-2367-intro.mp3": 53.395625,
+      "gczb-german-submarine-u-2367-type-xxiii.mp3": 63.76175,
+      "gczb-german-submarine-u-2367-hamburg-to-commissioning-in-six-months.mp3": 57.623,
+      "gczb-german-submarine-u-2367-collision-off-schleimuende.mp3": 56.106125,
+      "gczb-german-submarine-u-2367-raised-renamed-sailed-again.mp3": 59.0502083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

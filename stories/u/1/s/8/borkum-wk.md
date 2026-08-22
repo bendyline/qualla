@@ -37,6 +37,20 @@ Borkum sits at 53.59 degrees N, 6.67 degrees E, the westernmost of the East Fris
 ## Sources
 
 - [Borkum - Wikivoyage](https://en.wikivoyage.org/?curid=147715)
+- [Borkum - Wikipedia](https://en.wikipedia.org/wiki/Borkum)
+  - Borkum is ~31 sq km, largest of the seven East Frisian Islands
+  - Westland and Ostland fused into one island by 1863; Tuskendor marks the old seam
+  - Opened as bathing resort 1850 with 252 visitors; grew to over 16,000 by 1900
+  - Roelof Gerritsz Meyer, whaling captain, died 1798
+  - Borkum and Norderney are the only two East Frisian Islands that permit motor vehicles
+
+## Review Notes
+
+**Reviewed:** 2026-07-14 · 5 facts verified · 0 corrections
+
+Verified island area (~31 sq km, largest East Frisian island), 1863 Westland/Ostland unification, bathing resort visitor growth 1850-1900, Roelof Gerritsz Meyer death date, Borkum/Norderney as the only two East Frisian islands permitting cars. All facts checked out accurate, no corrections needed.
+
+**Spiciness:** 2/5
 
 ---
 

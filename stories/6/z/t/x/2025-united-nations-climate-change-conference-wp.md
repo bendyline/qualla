@@ -37,6 +37,28 @@ Val-de-Cans International Airport (SBBE) sits just north of downtown Belem at 1.
 ## Sources
 
 - [2025 United Nations Climate Change Conference - Wikipedia](https://en.wikipedia.org/?curid=75227876)
+- [COP30 closes with agreement to step up support for developing countries - United Nations](https://www.un.org/en/climatechange/cop30)
+  - COP30 held 10-21 November 2025 in Belém, 56,118 registered delegates
+  - Law 15.251 temporarily transferred Brazil's capital to Belém for the conference
+  - Final text omitted fossil fuel phase-out language after opposition from Saudi Arabia, UAE and others
+  - Accommodation price gouging: Airbnb listings up to $9,320/night, one Booking.com listing at $15,266/night
+  - Tropical Forest Forever Facility targets $125 billion in blended finance
+  - US sent no official delegation; Gavin Newsom led an alternate delegation
+  - Türkiye to host COP31 in Antalya with Australia presiding over negotiations
+
+## Review Notes
+
+**Reviewed:** 2026-07-14 · 7 facts verified · 0 corrections
+
+Verified COP30 dates, delegate count (56,118), capital-transfer law, fossil-fuel language omission, accommodation price-gouging figures, TFFF fund size, US absence/Newsom delegation, and COP31 Turkey/Australia arrangement. All facts accurate. Spiciness 3 (editorializing phrases like 'climate circus moved on').
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- The gesture was legal theater, and Lula knew it. The point was the image.
+- the climate circus moved on
+- Civil society and vulnerable nations called the outcome weak
 
 ---
 

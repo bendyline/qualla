@@ -65,5 +65,24 @@
     "sourceGeohash4": "wecp"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "wecp-yan-fook-church-flight-context.mp3",
+      "wecp-yan-fook-church-intro.mp3",
+      "wecp-yan-fook-church-from-overflow-to-institution.mp3",
+      "wecp-yan-fook-church-structure-for-a-city-scale-congregation.mp3",
+      "wecp-yan-fook-church-a-seminary-in-the-city.mp3",
+      "wecp-yan-fook-church-controversy-and-the-public-square.mp3"
+    ],
+    "durations": {
+      "wecp-yan-fook-church-flight-context.mp3": 53.9868333,
+      "wecp-yan-fook-church-intro.mp3": 47.9197916,
+      "wecp-yan-fook-church-from-overflow-to-institution.mp3": 54.3827083,
+      "wecp-yan-fook-church-structure-for-a-city-scale-congregation.mp3": 61.4254583,
+      "wecp-yan-fook-church-a-seminary-in-the-city.mp3": 57.9819166,
+      "wecp-yan-fook-church-controversy-and-the-public-square.mp3": 69.408625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

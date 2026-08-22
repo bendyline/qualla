@@ -85,5 +85,26 @@
     "sourceGeohash4": "sqx3"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sqx3-battle-of-sapienza-flight-context.mp3",
+      "sqx3-battle-of-sapienza-intro.mp3",
+      "sqx3-battle-of-sapienza-a-war-fought-across-half-the-mediterranean.mp3",
+      "sqx3-battle-of-sapienza-the-trap-that-became-a-cage.mp3",
+      "sqx3-battle-of-sapienza-doria-breaks-the-gate.mp3",
+      "sqx3-battle-of-sapienza-the-scapegoat-returns-to-venice.mp3",
+      "sqx3-battle-of-sapienza-the-island-offshore.mp3"
+    ],
+    "durations": {
+      "sqx3-battle-of-sapienza-flight-context.mp3": 53.6409583,
+      "sqx3-battle-of-sapienza-intro.mp3": 38.4832083,
+      "sqx3-battle-of-sapienza-a-war-fought-across-half-the-mediterranean.mp3": 53.4223333,
+      "sqx3-battle-of-sapienza-the-trap-that-became-a-cage.mp3": 60.715625,
+      "sqx3-battle-of-sapienza-doria-breaks-the-gate.mp3": 62.9835416,
+      "sqx3-battle-of-sapienza-the-scapegoat-returns-to-venice.mp3": 51.7299583,
+      "sqx3-battle-of-sapienza-the-island-offshore.mp3": 45.846625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

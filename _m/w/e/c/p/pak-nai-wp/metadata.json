@@ -332,5 +332,24 @@
     "_m/w/e/c/p/pak-nai-wp/pak-nai-3-07-07-2020.jpg",
     "_m/w/e/c/p/pak-nai-wp/nim-wan-road-in-december-2020.jpg"
   ],
-  "updatedAt": "2026-06-29T09:18:54.047Z"
+  "updatedAt": "2026-06-29T09:18:54.047Z",
+  "narration": {
+    "files": [
+      "wecp-pak-nai-flight-context.mp3",
+      "wecp-pak-nai-intro.mp3",
+      "wecp-pak-nai-mud-mangrove-and-living-fossils.mp3",
+      "wecp-pak-nai-sand-dunes-stone-stoves-and-revolution.mp3",
+      "wecp-pak-nai-the-hour-before-dark.mp3",
+      "wecp-pak-nai-pressure-and-preservation.mp3"
+    ],
+    "durations": {
+      "wecp-pak-nai-flight-context.mp3": 56.8463333,
+      "wecp-pak-nai-intro.mp3": 56.2574583,
+      "wecp-pak-nai-mud-mangrove-and-living-fossils.mp3": 73.559875,
+      "wecp-pak-nai-sand-dunes-stone-stoves-and-revolution.mp3": 81.0465833,
+      "wecp-pak-nai-the-hour-before-dark.mp3": 70.2173333,
+      "wecp-pak-nai-pressure-and-preservation.mp3": 63.71575
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

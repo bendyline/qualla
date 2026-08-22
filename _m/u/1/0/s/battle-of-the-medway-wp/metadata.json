@@ -60,5 +60,26 @@
     "sourceGeohash4": "u10s"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "u10s-battle-of-the-medway-flight-context.mp3",
+      "u10s-battle-of-the-medway-intro.mp3",
+      "u10s-battle-of-the-medway-why-claudius-came.mp3",
+      "u10s-battle-of-the-medway-the-land-they-defended.mp3",
+      "u10s-battle-of-the-medway-the-crossing.mp3",
+      "u10s-battle-of-the-medway-getas-day.mp3",
+      "u10s-battle-of-the-medway-where-the-river-met-empire.mp3"
+    ],
+    "durations": {
+      "u10s-battle-of-the-medway-flight-context.mp3": 61.4504583,
+      "u10s-battle-of-the-medway-intro.mp3": 47.1503333,
+      "u10s-battle-of-the-medway-why-claudius-came.mp3": 60.076,
+      "u10s-battle-of-the-medway-the-land-they-defended.mp3": 64.0987916,
+      "u10s-battle-of-the-medway-the-crossing.mp3": 58.8289583,
+      "u10s-battle-of-the-medway-getas-day.mp3": 66.9511666,
+      "u10s-battle-of-the-medway-where-the-river-met-empire.mp3": 59.2060416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

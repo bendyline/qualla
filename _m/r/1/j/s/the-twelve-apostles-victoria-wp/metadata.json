@@ -608,5 +608,24 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r1js-the-twelve-apostles-flight-context.mp3",
+      "r1js-the-twelve-apostles-intro.mp3",
+      "r1js-the-twelve-apostles-how-the-sea-carves-a-cathedral.mp3",
+      "r1js-the-twelve-apostles-when-one-falls.mp3",
+      "r1js-the-twelve-apostles-country-returned.mp3",
+      "r1js-the-twelve-apostles-the-coast-around-the-corner.mp3"
+    ],
+    "durations": {
+      "r1js-the-twelve-apostles-flight-context.mp3": 60.3106666,
+      "r1js-the-twelve-apostles-intro.mp3": 40.1738333,
+      "r1js-the-twelve-apostles-how-the-sea-carves-a-cathedral.mp3": 67.9199166,
+      "r1js-the-twelve-apostles-when-one-falls.mp3": 43.926125,
+      "r1js-the-twelve-apostles-country-returned.mp3": 42.4029583,
+      "r1js-the-twelve-apostles-the-coast-around-the-corner.mp3": 59.402
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

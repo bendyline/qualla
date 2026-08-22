@@ -685,5 +685,24 @@
     "_m/k/7/7/8/aus-namibia-wp/aus-banner.jpg",
     "_m/k/7/7/8/aus-namibia-wp/gedenkstein-funkenstation-farm.jpg"
   ],
-  "updatedAt": "2026-06-27T17:31:35.168Z"
+  "updatedAt": "2026-06-27T17:31:35.168Z",
+  "narration": {
+    "files": [
+      "k778-aus-namibia-flight-context.mp3",
+      "k778-aus-namibia-intro.mp3",
+      "k778-aus-namibia-the-camp-in-the-sand.mp3",
+      "k778-aus-namibia-horses-from-nowhere.mp3",
+      "k778-aus-namibia-living-on-almost-nothing.mp3",
+      "k778-aus-namibia-a-frontier-parish.mp3"
+    ],
+    "durations": {
+      "k778-aus-namibia-flight-context.mp3": 69.0810416,
+      "k778-aus-namibia-intro.mp3": 44.932125,
+      "k778-aus-namibia-the-camp-in-the-sand.mp3": 56.954,
+      "k778-aus-namibia-horses-from-nowhere.mp3": 54.8387083,
+      "k778-aus-namibia-living-on-almost-nothing.mp3": 49.2709166,
+      "k778-aus-namibia-a-frontier-parish.mp3": 62.9434583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

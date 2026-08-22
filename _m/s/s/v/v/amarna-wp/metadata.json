@@ -728,5 +728,24 @@
     "_m/s/s/v/v/amarna-wp/amarna-auteldesert2.jpg",
     "_m/s/s/v/v/amarna-wp/amarna-auteldesert5.jpg"
   ],
-  "updatedAt": "2026-06-28T19:40:04.557Z"
+  "updatedAt": "2026-06-28T19:40:04.557Z",
+  "narration": {
+    "files": [
+      "ssvv-amarna-flight-context.mp3",
+      "ssvv-amarna-intro.mp3",
+      "ssvv-amarna-a-kings-revolution.mp3",
+      "ssvv-amarna-the-woman-in-the-workshop.mp3",
+      "ssvv-amarna-letters-in-clay.mp3",
+      "ssvv-amarna-erased-and-rediscovered.mp3"
+    ],
+    "durations": {
+      "ssvv-amarna-flight-context.mp3": 72.0199166,
+      "ssvv-amarna-intro.mp3": 42.6353333,
+      "ssvv-amarna-a-kings-revolution.mp3": 54.668,
+      "ssvv-amarna-the-woman-in-the-workshop.mp3": 60.4535,
+      "ssvv-amarna-letters-in-clay.mp3": 58.466,
+      "ssvv-amarna-erased-and-rediscovered.mp3": 64.002
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

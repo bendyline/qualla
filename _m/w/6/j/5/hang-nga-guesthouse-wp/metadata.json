@@ -652,5 +652,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w6j5-h-ng-nga-guesthouse-flight-context.mp3",
+      "w6j5-h-ng-nga-guesthouse-intro.mp3",
+      "w6j5-h-ng-nga-guesthouse-the-architect-and-her-influences.mp3",
+      "w6j5-h-ng-nga-guesthouse-what-the-building-is.mp3",
+      "w6j5-h-ng-nga-guesthouse-recognition-and-controversy.mp3",
+      "w6j5-h-ng-nga-guesthouse-da-lats-other-architecture.mp3"
+    ],
+    "durations": {
+      "w6j5-h-ng-nga-guesthouse-flight-context.mp3": 58.1192916,
+      "w6j5-h-ng-nga-guesthouse-intro.mp3": 44.60625,
+      "w6j5-h-ng-nga-guesthouse-the-architect-and-her-influences.mp3": 62.1183333,
+      "w6j5-h-ng-nga-guesthouse-what-the-building-is.mp3": 58.9799583,
+      "w6j5-h-ng-nga-guesthouse-recognition-and-controversy.mp3": 63.1202083,
+      "w6j5-h-ng-nga-guesthouse-da-lats-other-architecture.mp3": 56.9907083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

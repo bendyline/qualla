@@ -540,5 +540,24 @@
     "_m/g/c/w/j/kendal-castle-wp/evening-light-kendal-castle-ge.jpg",
     "_m/g/c/w/j/kendal-castle-wp/evening-light-kendal-castle-wi.jpg"
   ],
-  "updatedAt": "2026-06-23T09:38:16.445Z"
+  "updatedAt": "2026-06-23T09:38:16.445Z",
+  "narration": {
+    "files": [
+      "gcwj-kendal-castle-flight-context.mp3",
+      "gcwj-kendal-castle-intro.mp3",
+      "gcwj-kendal-castle-two-castles-one-town.mp3",
+      "gcwj-kendal-castle-the-parr-inheritance.mp3",
+      "gcwj-kendal-castle-keats-on-the-walls.mp3",
+      "gcwj-kendal-castle-excavation-and-survival.mp3"
+    ],
+    "durations": {
+      "gcwj-kendal-castle-flight-context.mp3": 50.1017916,
+      "gcwj-kendal-castle-intro.mp3": 64.0843333,
+      "gcwj-kendal-castle-two-castles-one-town.mp3": 60.5379166,
+      "gcwj-kendal-castle-the-parr-inheritance.mp3": 64.2236666,
+      "gcwj-kendal-castle-keats-on-the-walls.mp3": 50.4549166,
+      "gcwj-kendal-castle-excavation-and-survival.mp3": 63.6661666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

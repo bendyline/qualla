@@ -145,5 +145,24 @@
     "_m/r/6/v/m/cape-byron-wp/most-easterly-point-au.jpg",
     "_m/r/6/v/m/cape-byron-light-wp/byron-bay-leuchtturm.jpg",
     "_m/r/6/v/j/byron-bay-wp/a175-cape-byron-new-south-wale.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r6vm-cape-byron-flight-context.mp3",
+      "r6vm-cape-byron-intro.mp3",
+      "r6vm-cape-byron-named-for-foulweather-jack.mp3",
+      "r6vm-cape-byron-the-walk-around-the-edge.mp3",
+      "r6vm-cape-byron-whales-off-the-corner.mp3",
+      "r6vm-cape-byron-one-corner-of-a-continent.mp3"
+    ],
+    "durations": {
+      "r6vm-cape-byron-flight-context.mp3": 59.038,
+      "r6vm-cape-byron-intro.mp3": 45.3989166,
+      "r6vm-cape-byron-named-for-foulweather-jack.mp3": 50.2001666,
+      "r6vm-cape-byron-the-walk-around-the-edge.mp3": 48.3231666,
+      "r6vm-cape-byron-whales-off-the-corner.mp3": 53.2312916,
+      "r6vm-cape-byron-one-corner-of-a-continent.mp3": 54.4619166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

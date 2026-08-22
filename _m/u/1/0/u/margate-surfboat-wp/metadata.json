@@ -52,5 +52,24 @@
     "sourceGeohash4": "u10u"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "u10u-margate-surfboat-flight-context.mp3",
+      "u10u-margate-surfboat-intro.mp3",
+      "u10u-margate-surfboat-boatmen-of-margate.mp3",
+      "u10u-margate-surfboat-the-first-boat.mp3",
+      "u10u-margate-surfboat-the-1897-disaster.mp3",
+      "u10u-margate-surfboat-the-third-boat-and-a-luftwaffe-prisoners-last-voya.mp3"
+    ],
+    "durations": {
+      "u10u-margate-surfboat-flight-context.mp3": 39.591,
+      "u10u-margate-surfboat-intro.mp3": 73.1257916,
+      "u10u-margate-surfboat-boatmen-of-margate.mp3": 61.8435833,
+      "u10u-margate-surfboat-the-first-boat.mp3": 57.5204166,
+      "u10u-margate-surfboat-the-1897-disaster.mp3": 77.5625,
+      "u10u-margate-surfboat-the-third-boat-and-a-luftwaffe-prisoners-last-voya.mp3": 82.8422916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

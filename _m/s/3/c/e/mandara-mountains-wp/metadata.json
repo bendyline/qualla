@@ -585,5 +585,24 @@
     "_m/s/3/c/e/mandara-mountains-wp/lezard-un-rocher-dans-le-massi.jpg",
     "_m/s/3/c/e/mandara-mountains-wp/rochers-dans-le-massif-de-mora.jpg"
   ],
-  "updatedAt": "2026-06-28T18:04:39.566Z"
+  "updatedAt": "2026-06-28T18:04:39.566Z",
+  "narration": {
+    "files": [
+      "s3ce-mandara-mountains-flight-context.mp3",
+      "s3ce-mandara-mountains-intro.mp3",
+      "s3ce-mandara-mountains-the-bones-of-old-volcanoes.mp3",
+      "s3ce-mandara-mountains-terraces-built-by-hand.mp3",
+      "s3ce-mandara-mountains-life-among-the-spires.mp3",
+      "s3ce-mandara-mountains-mysteries-in-stone.mp3"
+    ],
+    "durations": {
+      "s3ce-mandara-mountains-flight-context.mp3": 60.2220833,
+      "s3ce-mandara-mountains-intro.mp3": 34.2120833,
+      "s3ce-mandara-mountains-the-bones-of-old-volcanoes.mp3": 51.1512083,
+      "s3ce-mandara-mountains-terraces-built-by-hand.mp3": 59.4287916,
+      "s3ce-mandara-mountains-life-among-the-spires.mp3": 64.2644583,
+      "s3ce-mandara-mountains-mysteries-in-stone.mp3": 52.9299583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

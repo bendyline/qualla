@@ -120,5 +120,24 @@
   "galleryPaths": [
     "_m/w/6/g/y/lao-bao-wp/sepon-lao-vietnam-bord.jpg",
     "_m/w/6/g/y/lao-bao-wp/cua-khau-quoc-te-lao-b.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w6gy-lao-b-o-flight-context.mp3",
+      "w6gy-lao-b-o-intro.mp3",
+      "w6gy-lao-b-o-the-french-built-the-road.mp3",
+      "w6gy-lao-b-o-when-the-trail-ran-through-here.mp3",
+      "w6gy-lao-b-o-the-crossing-today.mp3",
+      "w6gy-lao-b-o-one-road-four-countries.mp3"
+    ],
+    "durations": {
+      "w6gy-lao-b-o-flight-context.mp3": 51.2982916,
+      "w6gy-lao-b-o-intro.mp3": 34.4196666,
+      "w6gy-lao-b-o-the-french-built-the-road.mp3": 59.2797083,
+      "w6gy-lao-b-o-when-the-trail-ran-through-here.mp3": 61.5742916,
+      "w6gy-lao-b-o-the-crossing-today.mp3": 59.3595,
+      "w6gy-lao-b-o-one-road-four-countries.mp3": 56.5367083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

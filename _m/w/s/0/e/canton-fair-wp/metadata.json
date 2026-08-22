@@ -364,5 +364,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "ws0e-canton-fair-flight-context.mp3",
+      "ws0e-canton-fair-intro.mp3",
+      "ws0e-canton-fair-seven-decades-of-buying-and-selling.mp3",
+      "ws0e-canton-fair-inside-the-exhibition-halls.mp3",
+      "ws0e-canton-fair-the-city-that-trade-built.mp3",
+      "ws0e-canton-fair-spring-and-autumn-rhythms.mp3"
+    ],
+    "durations": {
+      "ws0e-canton-fair-flight-context.mp3": 42.6902083,
+      "ws0e-canton-fair-intro.mp3": 44.4591666,
+      "ws0e-canton-fair-seven-decades-of-buying-and-selling.mp3": 66.5279583,
+      "ws0e-canton-fair-inside-the-exhibition-halls.mp3": 75.636,
+      "ws0e-canton-fair-the-city-that-trade-built.mp3": 62.7045,
+      "ws0e-canton-fair-spring-and-autumn-rhythms.mp3": 59.3875833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

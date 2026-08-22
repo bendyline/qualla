@@ -12,11 +12,11 @@ In the reception area of the Khartoum Hilton Hotel, someone tore down a portrait
 
 ## Sharia and Hunger
 
-Two years earlier, in 1983, Nimeiry had declared all of Sudan an Islamic state under Sharia law - including the non-Muslim southern majority. The Southern Sudan Autonomous Region was abolished on 5 June 1983, ending the Addis Ababa Agreement of 1972 and restarting the civil war that would eventually produce South Sudan. Nimeiry, Sudanese interviewed by the New York Times said, had 'begun to alienate almost every sector of Sudanese society.' Non-Muslims were alienated by Sharia. Professionals were alienated by economic austerity imposed under U.S. and IMF pressure. Urban workers were alienated by rising food prices. Southern Sudan was back at war. For the president, it was Sharia; for Sudanese, it was the daily cost of bread, gasoline, and transport.
+Two years earlier, in 1983, Nimeiry had declared all of Sudan an Islamic state under Sharia law - including the non-Muslim southern majority. The Southern Sudan Autonomous Region was abolished on 5 June 1983, ending the Addis Ababa Agreement of 1972 and restarting the civil war that would eventually produce South Sudan. Nimeiry, Sudanese interviewed by the New York Times said, had begun to alienate almost every sector of Sudanese society. Non-Muslims were alienated by Sharia. Professionals were alienated by economic austerity imposed under U.S. and IMF pressure. Urban workers were alienated by rising food prices. Southern Sudan was back at war. For the president, it was Sharia; for Sudanese, it was the daily cost of bread, gasoline, and transport.
 
 ## Eight Associations
 
-On 3 April 1985, eight professional associations - doctors, lawyers, university lecturers - called for a protest and a 'general political strike until the abolition of the current regime.' The call worked. Massive demonstrations erupted in Khartoum and around Sudan. The general strike ran from 3 to 6 April, with extraordinary effectiveness. Hospitals kept emergency services running, but the rest of the country's governance simply stopped functioning. Banks closed. Courts closed. Offices emptied. Trains stopped running. Streets filled with protesters. It was a pattern Sudanese had used once before, in 1964, when Lt. General Ibrahim Abboud's military regime was brought down by the October Revolution of that year. What Sudanese call the 1985 Revolution - the civil disobedience that preceded the coup - followed in that earlier tradition.
+On 3 April 1985, eight professional associations - doctors, lawyers, university lecturers - called for a protest and a general political strike until the abolition of the current regime. The call worked. Massive demonstrations erupted in Khartoum and around Sudan. The general strike ran from 3 to 6 April, with extraordinary effectiveness. Hospitals kept emergency services running, but the rest of the country's governance simply stopped functioning. Banks closed. Courts closed. Offices emptied. Trains stopped running. Streets filled with protesters. It was a pattern Sudanese had used once before, in 1964, when Lt. General Ibrahim Abboud's military regime was brought down by the October Revolution of that year. What Sudanese call the 1985 Revolution - the civil disobedience that preceded the coup - followed in that earlier tradition.
 
 ## April 6
 
@@ -47,6 +47,8 @@ Coordinates: 15.50°N, 32.56°E (central Khartoum). Recommended viewing altitude
 - [Wikipedia - Abdel Rahman Swar al-Dahab](https://en.wikipedia.org/wiki/Sowar_al-Dahab)
   - Swar al-Dahab served as Defense Minister and Armed Forces Commander-in-Chief
   - Kept promise to hold elections within one year
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/1985_Sudanese_coup_d%27%C3%A9tat)
+  - Converted two quotations that were presented as verbatim — the New York Times-attributed characterization that Nimeiry had begun to alienate almost every sector of Sudanese society, and the professional syndicates' call for a general political strike until the abolition of the regime — to indirect speech, since neither is verbatim in the cited source, whose own narrative corroborates the substance.
 
 ## Review Notes
 

@@ -88,5 +88,24 @@
   ],
   "galleryPaths": [
     "_m/w/6/t/d/battle-of-tam-quan-wp/battle-tam-quan-1967-s.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w6td-battle-of-tam-quan-flight-context.mp3",
+      "w6td-battle-of-tam-quan-intro.mp3",
+      "w6td-battle-of-tam-quan-an-enemy-that-knew-the-ground.mp3",
+      "w6td-battle-of-tam-quan-three-days-at-the-bunker-line.mp3",
+      "w6td-battle-of-tam-quan-the-long-pursuit.mp3",
+      "w6td-battle-of-tam-quan-the-cost.mp3"
+    ],
+    "durations": {
+      "w6td-battle-of-tam-quan-flight-context.mp3": 56.2202083,
+      "w6td-battle-of-tam-quan-intro.mp3": 45.4287916,
+      "w6td-battle-of-tam-quan-an-enemy-that-knew-the-ground.mp3": 57.936,
+      "w6td-battle-of-tam-quan-three-days-at-the-bunker-line.mp3": 52.3863333,
+      "w6td-battle-of-tam-quan-the-long-pursuit.mp3": 68.4744583,
+      "w6td-battle-of-tam-quan-the-cost.mp3": 61.059125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

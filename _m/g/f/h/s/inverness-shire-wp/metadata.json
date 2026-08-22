@@ -372,5 +372,26 @@
     "_m/g/f/h/s/inverness-shire-wp/inverness-shire-map.png",
     "_m/g/f/h/s/inverness-shire-wp/huge-teddy-2-at-ardersier-rive.jpg"
   ],
-  "updatedAt": "2026-06-23T23:44:45.169Z"
+  "updatedAt": "2026-06-23T23:44:45.169Z",
+  "narration": {
+    "files": [
+      "gfhs-inverness-shire-flight-context.mp3",
+      "gfhs-inverness-shire-intro.mp3",
+      "gfhs-inverness-shire-the-province-that-was-almost-a-kingdom.mp3",
+      "gfhs-inverness-shire-mountains-lochs-and-ben-nevis.mp3",
+      "gfhs-inverness-shire-the-islands-out-west.mp3",
+      "gfhs-inverness-shire-an-administrative-memory.mp3",
+      "gfhs-inverness-shire-where-the-land-runs-out.mp3"
+    ],
+    "durations": {
+      "gfhs-inverness-shire-flight-context.mp3": 53.3627916,
+      "gfhs-inverness-shire-intro.mp3": 51.7954166,
+      "gfhs-inverness-shire-the-province-that-was-almost-a-kingdom.mp3": 50.295,
+      "gfhs-inverness-shire-mountains-lochs-and-ben-nevis.mp3": 57.228875,
+      "gfhs-inverness-shire-the-islands-out-west.mp3": 49.103125,
+      "gfhs-inverness-shire-an-administrative-memory.mp3": 50.78375,
+      "gfhs-inverness-shire-where-the-land-runs-out.mp3": 47.47
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

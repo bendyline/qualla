@@ -58,5 +58,24 @@
     "sourceGeohash4": "gcz0"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcz0-seaham-hall-flight-context.mp3",
+      "gcz0-seaham-hall-intro.mp3",
+      "gcz0-seaham-hall-byrons-brief-stay.mp3",
+      "gcz0-seaham-hall-the-londonderry-years.mp3",
+      "gcz0-seaham-hall-hospital-and-decline.mp3",
+      "gcz0-seaham-hall-five-stars-on-the-cliffs.mp3"
+    ],
+    "durations": {
+      "gcz0-seaham-hall-flight-context.mp3": 53.2160416,
+      "gcz0-seaham-hall-intro.mp3": 37.5251666,
+      "gcz0-seaham-hall-byrons-brief-stay.mp3": 45.729375,
+      "gcz0-seaham-hall-the-londonderry-years.mp3": 60.6981666,
+      "gcz0-seaham-hall-hospital-and-decline.mp3": 44.4755833,
+      "gcz0-seaham-hall-five-stars-on-the-cliffs.mp3": 52.652125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

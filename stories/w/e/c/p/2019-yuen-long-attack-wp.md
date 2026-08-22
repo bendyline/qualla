@@ -60,9 +60,7 @@ All key facts verified: date 21 July 2019, 45 injured confirmed, 39-minute polic
 
 **Strong opinions:**
 
-- Framing of police inaction as complicity ('two uniformed officers arrived at 10:52 pm, assessed the scene, and left')
 - Characterisation of IPCC's 'gang fight' account as 'a rewriting of history' (attributed to democratic councillors)
-- Implicit indictment of police collusion through sequencing of facts (mob departed one minute before 30 officers arrived)
 
 ---
 

@@ -50,5 +50,22 @@
     "sourceGeohash4": "gf75"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gf75-callanish-x-flight-context.mp3",
+      "gf75-callanish-x-intro.mp3",
+      "gf75-callanish-x-the-ring-that-fell.mp3",
+      "gf75-callanish-x-several-hundred-years.mp3",
+      "gf75-callanish-x-what-the-failure-reveals.mp3"
+    ],
+    "durations": {
+      "gf75-callanish-x-flight-context.mp3": 52.4061666,
+      "gf75-callanish-x-intro.mp3": 39.4734166,
+      "gf75-callanish-x-the-ring-that-fell.mp3": 64.892125,
+      "gf75-callanish-x-several-hundred-years.mp3": 54.6087916,
+      "gf75-callanish-x-what-the-failure-reveals.mp3": 58.383625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -125,5 +125,24 @@
   "galleryPaths": [
     "_m/s/q/x/d/nichoria-wp/mycenaean-archaeologic.jpg",
     "_m/s/q/x/d/nichoria-wp/entrance-tholos-tomb-m.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sqxd-nichoria-flight-context.mp3",
+      "sqxd-nichoria-intro.mp3",
+      "sqxd-nichoria-province-of-an-empire.mp3",
+      "sqxd-nichoria-the-tholos-and-its-dead.mp3",
+      "sqxd-nichoria-surviving-the-dark.mp3",
+      "sqxd-nichoria-what-the-excavators-found.mp3"
+    ],
+    "durations": {
+      "sqxd-nichoria-flight-context.mp3": 44.324125,
+      "sqxd-nichoria-intro.mp3": 39.6419166,
+      "sqxd-nichoria-province-of-an-empire.mp3": 65.9100833,
+      "sqxd-nichoria-the-tholos-and-its-dead.mp3": 70.9755833,
+      "sqxd-nichoria-surviving-the-dark.mp3": 80.6932083,
+      "sqxd-nichoria-what-the-excavators-found.mp3": 57.53425
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

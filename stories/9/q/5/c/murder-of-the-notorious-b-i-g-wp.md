@@ -24,7 +24,7 @@ The investigation has spawned what the New York Times called 'a cottage industry
 
 ## A Mother's Crusade
 
-Wallace's mother, Voletta Wallace, spent decades fighting for answers. In 2002, she filed a wrongful death claim against the city of Los Angeles, alleging the LAPD had sufficient evidence to arrest the gunman but failed to act. The lawsuit named two officers connected to the Rampart police corruption scandal. In 2005, a mistrial was declared after new evidence emerged. The case was refiled and ultimately dismissed in 2010, described by the New York Times as 'one of the longest running and most contentious celebrity cases in history.' Voletta died on February 21, 2025, never seeing her son's killer brought to justice. The case remains officially unsolved. The rapper Nas once said that the deaths of Wallace and Shakur were 'nearly the end of rap' - a generation of talent silenced on the streets of two American cities.
+Wallace's mother, Voletta Wallace, spent decades fighting for answers. In 2002, she filed a wrongful death claim against the city of Los Angeles, alleging the LAPD had sufficient evidence to arrest the gunman but failed to act. The lawsuit named two officers connected to the Rampart police corruption scandal. In 2005, a mistrial was declared after new evidence emerged. The case was refiled and ultimately dismissed in 2010, described by the New York Times as 'one of the longest running and most contentious celebrity cases in history.' Voletta died on February 21, 2025, never seeing her son's killer brought to justice. The case remains officially unsolved. The rapper Nas once said that when Wallace and Shakur died, he 'thought it was the end of rap' - a generation of talent silenced on the streets of two American cities.
 
 ## Flight Context
 
@@ -50,6 +50,8 @@ Located at 34.06N, 118.36W in the Mid-Wilshire district of Los Angeles. The Pete
 - [Sean Combs: The Reckoning - Netflix](https://www.netflix.com/tudum/articles/sean-combs-the-reckoning-diddy-documentary-release-date-news)
   - 50 Cent executive produced documentary
   - Released December 2025 on Netflix
+- [Review — 2026-07-13](https://allhiphop.com/headlines/nas-2pac-notorious-big-jayz-zane-lowe-feud-relentess-ultra-soundchain/)
+  - Corrected Nas quote: story rendered his remark as 'nearly the end of rap' (a headline paraphrase); his verbatim words in the Zane Lowe / Relentless Ultra Soundchain interview were 'I thought it was the end of rap' — quote fixed to the verbatim 'thought it was the end of rap'
 
 ## Review Notes
 
@@ -62,7 +64,7 @@ All facts verified. March 9 1997 date confirmed. Voletta Wallace death Feb 21 20
 **Strong opinions:**
 
 - Case described as 'cottage industry of criminal speculation'
-- Nas quote about deaths being 'nearly the end of rap'
+- Nas quote about the deaths being what he 'thought was the end of rap'
 
 ---
 

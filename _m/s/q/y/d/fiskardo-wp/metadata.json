@@ -36,5 +36,26 @@
   "galleryPaths": [
     "_m/s/q/y/d/fiskardo-wp/fiscardo-banner.jpg"
   ],
-  "updatedAt": "2026-06-24T10:23:29.844Z"
+  "updatedAt": "2026-06-24T10:23:29.844Z",
+  "narration": {
+    "files": [
+      "sqyd-fiskardo-flight-context.mp3",
+      "sqyd-fiskardo-intro.mp3",
+      "sqyd-fiskardo-the-village-the-earthquake-spared.mp3",
+      "sqyd-fiskardo-deep-under-the-harbour.mp3",
+      "sqyd-fiskardo-a-warlords-legacy.mp3",
+      "sqyd-fiskardo-the-poet-and-the-port.mp3",
+      "sqyd-fiskardo-the-village-today.mp3"
+    ],
+    "durations": {
+      "sqyd-fiskardo-flight-context.mp3": 46.138375,
+      "sqyd-fiskardo-intro.mp3": 39.3095833,
+      "sqyd-fiskardo-the-village-the-earthquake-spared.mp3": 52.8833333,
+      "sqyd-fiskardo-deep-under-the-harbour.mp3": 71.966125,
+      "sqyd-fiskardo-a-warlords-legacy.mp3": 52.7328333,
+      "sqyd-fiskardo-the-poet-and-the-port.mp3": 55.982875,
+      "sqyd-fiskardo-the-village-today.mp3": 52.9518333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

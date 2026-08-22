@@ -20,7 +20,7 @@ The fighting in January moved through Loikaw's neighborhoods like a slow fire. O
 
 ## Bodies in the Wards
 
-On 21 January, residents discovered thirteen bodies in Myung Ward. An NGO reported that the area remained an active combat zone, making recovery dangerous. Throughout Loikaw Township, the violence touched civilians who had nothing to do with the fighting. On 29 January, a family of six was killed in one village, a lone man in another, and two more bodies were found in a junta-controlled section of the city. Many of the dead had been bound before being killed -- some were discovered in toilets. A resident who survived junta occupation recalled soldiers announcing that "neighborhoods would be cleared," and suggested that more bodies remained undiscovered. On 9 February, three children were killed in a junta bombing of the village of Le Thu. Each death was someone's entire world collapsing.
+On 21 January, residents discovered thirteen bodies in Myung Ward. An NGO reported that the area remained an active combat zone, making recovery dangerous. Throughout Loikaw Township, the violence touched civilians who had nothing to do with the fighting. On 29 January, a family of six was killed in one village, a lone man in another, and two more bodies were found in a junta-controlled section of the city. By residents' accounts, many of the dead had been bound before being killed, and some were discovered in toilets. A resident who survived junta occupation recalled soldiers announcing that "neighborhoods would be cleared," and suggested that more bodies remained undiscovered. On 9 February, three children were killed in a junta bombing of the village of Le Thu. Each death was someone's entire world collapsing.
 
 ## A City That Empties
 

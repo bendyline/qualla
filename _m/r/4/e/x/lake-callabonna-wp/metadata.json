@@ -55,5 +55,24 @@
     "sourceGeohash4": "r4ex"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "r4ex-lake-callabonna-flight-context.mp3",
+      "r4ex-lake-callabonna-intro.mp3",
+      "r4ex-lake-callabonna-the-bone-bearers-of-diprotodon.mp3",
+      "r4ex-lake-callabonna-a-stockmans-discovery.mp3",
+      "r4ex-lake-callabonna-completing-an-ancient-puzzle.mp3",
+      "r4ex-lake-callabonna-closed-ground.mp3"
+    ],
+    "durations": {
+      "r4ex-lake-callabonna-flight-context.mp3": 67.4065,
+      "r4ex-lake-callabonna-intro.mp3": 48.988,
+      "r4ex-lake-callabonna-the-bone-bearers-of-diprotodon.mp3": 59.5672916,
+      "r4ex-lake-callabonna-a-stockmans-discovery.mp3": 51.2624583,
+      "r4ex-lake-callabonna-completing-an-ancient-puzzle.mp3": 48.645375,
+      "r4ex-lake-callabonna-closed-ground.mp3": 66.774375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

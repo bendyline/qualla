@@ -112,5 +112,24 @@
   "galleryPaths": [
     "_m/s/w/d/t/ikaria-wp/fourni-nisi.jpg",
     "_m/s/w/d/v/fourni-wk/insel-thymena-mit-kisi.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swdv-fourni-flight-context.mp3",
+      "swdv-fourni-intro.mp3",
+      "swdv-fourni-a-corsairs-coastline.mp3",
+      "swdv-fourni-the-graveyard-beneath-the-waves.mp3",
+      "swdv-fourni-scattered-antiquity.mp3",
+      "swdv-fourni-island-time.mp3"
+    ],
+    "durations": {
+      "swdv-fourni-flight-context.mp3": 48.2599166,
+      "swdv-fourni-intro.mp3": 34.474375,
+      "swdv-fourni-a-corsairs-coastline.mp3": 52.0818333,
+      "swdv-fourni-the-graveyard-beneath-the-waves.mp3": 50.2641666,
+      "swdv-fourni-scattered-antiquity.mp3": 65.4599166,
+      "swdv-fourni-island-time.mp3": 50.6615416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

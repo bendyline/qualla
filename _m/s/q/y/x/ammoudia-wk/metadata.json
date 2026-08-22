@@ -51,5 +51,22 @@
     "sourceGeohash4": "sqyx"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sqyx-ammoudia-flight-context.mp3",
+      "sqyx-ammoudia-intro.mp3",
+      "sqyx-ammoudia-where-the-river-becomes-legend.mp3",
+      "sqyx-ammoudia-a-village-at-the-edge-of-two-worlds.mp3",
+      "sqyx-ammoudia-what-the-river-offers-now.mp3"
+    ],
+    "durations": {
+      "sqyx-ammoudia-flight-context.mp3": 60.5933333,
+      "sqyx-ammoudia-intro.mp3": 54.0632083,
+      "sqyx-ammoudia-where-the-river-becomes-legend.mp3": 70.7870416,
+      "sqyx-ammoudia-a-village-at-the-edge-of-two-worlds.mp3": 71.677,
+      "sqyx-ammoudia-what-the-river-offers-now.mp3": 70.87875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

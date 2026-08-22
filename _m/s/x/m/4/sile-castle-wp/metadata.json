@@ -30,5 +30,24 @@
   "galleryPaths": [
     "_m/s/x/m/4/sile-castle-wp/sile-kalesi-3.jpg"
   ],
-  "updatedAt": "2026-06-25T08:08:57.824Z"
+  "updatedAt": "2026-06-25T08:08:57.824Z",
+  "narration": {
+    "files": [
+      "sxm4-ile-castle-flight-context.mp3",
+      "sxm4-ile-castle-intro.mp3",
+      "sxm4-ile-castle-a-rock-in-the-sea.mp3",
+      "sxm4-ile-castle-genoese-byzantine-or-both.mp3",
+      "sxm4-ile-castle-the-ottoman-conquest-of-1396.mp3",
+      "sxm4-ile-castle-restoration-and-its-discontents.mp3"
+    ],
+    "durations": {
+      "sxm4-ile-castle-flight-context.mp3": 64.352875,
+      "sxm4-ile-castle-intro.mp3": 55.251625,
+      "sxm4-ile-castle-a-rock-in-the-sea.mp3": 48.752125,
+      "sxm4-ile-castle-genoese-byzantine-or-both.mp3": 59.5820416,
+      "sxm4-ile-castle-the-ottoman-conquest-of-1396.mp3": 51.249375,
+      "sxm4-ile-castle-restoration-and-its-discontents.mp3": 71.721875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

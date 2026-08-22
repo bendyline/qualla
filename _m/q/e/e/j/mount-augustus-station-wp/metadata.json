@@ -63,5 +63,24 @@
     "sourceGeohash4": "qeej"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qeej-mount-augustus-station-flight-context.mp3",
+      "qeej-mount-augustus-station-intro.mp3",
+      "qeej-mount-augustus-station-two-brothers-and-a-frontier.mp3",
+      "qeej-mount-augustus-station-the-duffer-rush.mp3",
+      "qeej-mount-augustus-station-boom-bust-and-better-rains.mp3",
+      "qeej-mount-augustus-station-from-cattle-to-travellers.mp3"
+    ],
+    "durations": {
+      "qeej-mount-augustus-station-flight-context.mp3": 60.77575,
+      "qeej-mount-augustus-station-intro.mp3": 40.3267083,
+      "qeej-mount-augustus-station-two-brothers-and-a-frontier.mp3": 56.47925,
+      "qeej-mount-augustus-station-the-duffer-rush.mp3": 58.8544583,
+      "qeej-mount-augustus-station-boom-bust-and-better-rains.mp3": 48.596125,
+      "qeej-mount-augustus-station-from-cattle-to-travellers.mp3": 46.35775
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

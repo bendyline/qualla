@@ -114,5 +114,24 @@
   "galleryPaths": [
     "_m/q/g/w/q/finke-river-wp/map-lake-eyre-drainage.png",
     "_m/r/1/f/9/adelaide-wp/australia-south-australia-reli.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r4g3-strzelecki-creek-flight-context.mp3",
+      "r4g3-strzelecki-creek-intro.mp3",
+      "r4g3-strzelecki-creek-an-overflow-that-runs-backward-in-time.mp3",
+      "r4g3-strzelecki-creek-a-polish-name-on-an-australian-map.mp3",
+      "r4g3-strzelecki-creek-the-track-that-bears-its-name.mp3",
+      "r4g3-strzelecki-creek-life-along-a-sometimes-river.mp3"
+    ],
+    "durations": {
+      "r4g3-strzelecki-creek-flight-context.mp3": 79.4522083,
+      "r4g3-strzelecki-creek-intro.mp3": 49.5250416,
+      "r4g3-strzelecki-creek-an-overflow-that-runs-backward-in-time.mp3": 50.93525,
+      "r4g3-strzelecki-creek-a-polish-name-on-an-australian-map.mp3": 44.3063333,
+      "r4g3-strzelecki-creek-the-track-that-bears-its-name.mp3": 46.0006666,
+      "r4g3-strzelecki-creek-life-along-a-sometimes-river.mp3": 64.3219583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

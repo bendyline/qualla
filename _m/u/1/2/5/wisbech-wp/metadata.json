@@ -37,5 +37,24 @@
   "galleryPaths": [
     "_m/u/1/2/5/wisbech-wp/peckover-house-wisbech.jpg"
   ],
-  "updatedAt": "2026-06-25T20:54:25.380Z"
+  "updatedAt": "2026-06-25T20:54:25.380Z",
+  "narration": {
+    "files": [
+      "u125-wisbech-flight-context.mp3",
+      "u125-wisbech-intro.mp3",
+      "u125-wisbech-built-on-water.mp3",
+      "u125-wisbech-the-georgian-town.mp3",
+      "u125-wisbech-the-people-who-left-their-names.mp3",
+      "u125-wisbech-a-town-in-motion.mp3"
+    ],
+    "durations": {
+      "u125-wisbech-flight-context.mp3": 40.1073333,
+      "u125-wisbech-intro.mp3": 43.5683333,
+      "u125-wisbech-built-on-water.mp3": 51.4755,
+      "u125-wisbech-the-georgian-town.mp3": 63.3447083,
+      "u125-wisbech-the-people-who-left-their-names.mp3": 74.6264583,
+      "u125-wisbech-a-town-in-motion.mp3": 57.8942916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

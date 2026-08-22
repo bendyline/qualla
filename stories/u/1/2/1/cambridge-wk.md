@@ -37,6 +37,21 @@ Cambridge sits at roughly 52.20°N, 0.12°E in the flat fenland of eastern Engla
 ## Sources
 
 - [Cambridge - Wikivoyage](https://en.wikivoyage.org/?curid=5677)
+- [University of Cambridge - Wikipedia](https://en.wikipedia.org/wiki/University_of_Cambridge)
+  - University founded 1209 by scholars fleeing a town-gown dispute at Oxford
+  - King's College Chapel: first stone laid by Henry VI 25 July 1446; fan vault built 1512-1515, largest in the world
+  - Watson and Crick announced the DNA double helix at the Eagle pub on 28 February 1953
+  - 126 Cambridge affiliates have won Nobel Prizes, more than any other institution (per University of Cambridge)
+  - Trinity College has 34 Nobel laureates, fewer than France's 71-76 - the 'more than France' claim is false as stated in the story
+  - Rupert Brooke lodged at the Orchard, Grantchester, from 1909; wrote 'The Old Vicarage, Grantchester' in Berlin in 1912; died 1915
+
+## Review Notes
+
+**Reviewed:** 2026-07-14 · 6 facts verified · 0 corrections
+
+Verified university founding 1209, King's College Chapel dates/fan vault, DNA discovery date/location, Nobel Prize count claim (matches Cambridge's own official claim), Trinity/France Nobel rumor (confirmed false as story states), Rupert Brooke/Grantchester dates. All facts checked out accurate, no corrections needed.
+
+**Spiciness:** 2/5
 
 ---
 

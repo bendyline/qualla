@@ -551,5 +551,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-kuleli-military-high-school-flight-context.mp3",
+      "sxk9-kuleli-military-high-school-intro.mp3",
+      "sxk9-kuleli-military-high-school-built-before-its-purpose-arrived.mp3",
+      "sxk9-kuleli-military-high-school-a-school-that-kept-becoming-a-hospital.mp3",
+      "sxk9-kuleli-military-high-school-the-names-in-the-roster.mp3",
+      "sxk9-kuleli-military-high-school-closure-and-aftermath.mp3",
+      "sxk9-kuleli-military-high-school-a-landmark-on-the-strait.mp3"
+    ],
+    "durations": {
+      "sxk9-kuleli-military-high-school-flight-context.mp3": 62.9422916,
+      "sxk9-kuleli-military-high-school-intro.mp3": 49.7367083,
+      "sxk9-kuleli-military-high-school-built-before-its-purpose-arrived.mp3": 73.3143333,
+      "sxk9-kuleli-military-high-school-a-school-that-kept-becoming-a-hospital.mp3": 77.46125,
+      "sxk9-kuleli-military-high-school-the-names-in-the-roster.mp3": 64.10275,
+      "sxk9-kuleli-military-high-school-closure-and-aftermath.mp3": 56.14425,
+      "sxk9-kuleli-military-high-school-a-landmark-on-the-strait.mp3": 56.6290416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

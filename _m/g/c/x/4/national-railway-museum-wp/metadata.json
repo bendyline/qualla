@@ -475,5 +475,26 @@
     "_m/g/c/x/4/national-railway-museum-wp/entrance-national-rail.jpg",
     "_m/g/c/x/4/national-railway-museum-wp/station-hall-national.jpg",
     "_m/g/c/x/4/national-railway-museum-wp/view-across-warehouse.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcx4-national-railway-museum-flight-context.mp3",
+      "gcx4-national-railway-museum-intro.mp3",
+      "gcx4-national-railway-museum-roundhouse-reborn.mp3",
+      "gcx4-national-railway-museum-the-record-breakers.mp3",
+      "gcx4-national-railway-museum-the-bullet-train-and-other-strangers.mp3",
+      "gcx4-national-railway-museum-the-archive-nobody-sees.mp3",
+      "gcx4-national-railway-museum-a-city-built-around-trains.mp3"
+    ],
+    "durations": {
+      "gcx4-national-railway-museum-flight-context.mp3": 41.1587916,
+      "gcx4-national-railway-museum-intro.mp3": 30.899875,
+      "gcx4-national-railway-museum-roundhouse-reborn.mp3": 60.41175,
+      "gcx4-national-railway-museum-the-record-breakers.mp3": 56.7508333,
+      "gcx4-national-railway-museum-the-bullet-train-and-other-strangers.mp3": 60.2111666,
+      "gcx4-national-railway-museum-the-archive-nobody-sees.mp3": 47.5695,
+      "gcx4-national-railway-museum-a-city-built-around-trains.mp3": 45.2910833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -61,5 +61,24 @@
     "sourceGeohash4": "u188"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "u188-silver-pit-flight-context.mp3",
+      "u188-silver-pit-intro.mp3",
+      "u188-silver-pit-how-the-pit-was-cut.mp3",
+      "u188-silver-pit-the-victorian-trawlermen.mp3",
+      "u188-silver-pit-the-crater-that-wasnt-and-was-and-maybe-isnt.mp3",
+      "u188-silver-pit-doggerlands-edge.mp3"
+    ],
+    "durations": {
+      "u188-silver-pit-flight-context.mp3": 49.8605416,
+      "u188-silver-pit-intro.mp3": 53.36775,
+      "u188-silver-pit-how-the-pit-was-cut.mp3": 67.051625,
+      "u188-silver-pit-the-victorian-trawlermen.mp3": 57.1450833,
+      "u188-silver-pit-the-crater-that-wasnt-and-was-and-maybe-isnt.mp3": 69.7392916,
+      "u188-silver-pit-doggerlands-edge.mp3": 61.7162916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

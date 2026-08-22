@@ -71,5 +71,24 @@
   ],
   "galleryPaths": [
     "_m/c/4/h/w/spatsizi-plateau-wilderness-wk/hero.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r55w-sturt-stony-desert-flight-context.mp3",
+      "r55w-sturt-stony-desert-intro.mp3",
+      "r55w-sturt-stony-desert-a-sea-of-stone.mp3",
+      "r55w-sturt-stony-desert-the-year-the-expedition-stopped.mp3",
+      "r55w-sturt-stony-desert-life-on-the-anvil.mp3",
+      "r55w-sturt-stony-desert-crossing-it-today.mp3"
+    ],
+    "durations": {
+      "r55w-sturt-stony-desert-flight-context.mp3": 68.2661666,
+      "r55w-sturt-stony-desert-intro.mp3": 41.3505833,
+      "r55w-sturt-stony-desert-a-sea-of-stone.mp3": 62.6911666,
+      "r55w-sturt-stony-desert-the-year-the-expedition-stopped.mp3": 60.2819166,
+      "r55w-sturt-stony-desert-life-on-the-anvil.mp3": 62.8045833,
+      "r55w-sturt-stony-desert-crossing-it-today.mp3": 57.5643333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

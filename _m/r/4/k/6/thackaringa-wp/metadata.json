@@ -52,5 +52,24 @@
     "sourceGeohash4": "r4k6"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "r4k6-thackaringa-flight-context.mp3",
+      "r4k6-thackaringa-intro.mp3",
+      "r4k6-thackaringa-where-the-rush-began.mp3",
+      "r4k6-thackaringa-two-hundred-souls-in-the-scrub.mp3",
+      "r4k6-thackaringa-the-line-through-nothing.mp3",
+      "r4k6-thackaringa-what-the-rocks-still-hold.mp3"
+    ],
+    "durations": {
+      "r4k6-thackaringa-flight-context.mp3": 60.519375,
+      "r4k6-thackaringa-intro.mp3": 50.5095,
+      "r4k6-thackaringa-where-the-rush-began.mp3": 55.3752083,
+      "r4k6-thackaringa-two-hundred-souls-in-the-scrub.mp3": 60.9481666,
+      "r4k6-thackaringa-the-line-through-nothing.mp3": 49.2631666,
+      "r4k6-thackaringa-what-the-rocks-still-hold.mp3": 51.7139583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

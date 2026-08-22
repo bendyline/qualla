@@ -53,5 +53,24 @@
     "sourceGeohash4": "ws08"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "ws08-kweilin-incident-flight-context.mp3",
+      "ws08-kweilin-incident-intro.mp3",
+      "ws08-kweilin-incident-the-passengers-and-crew.mp3",
+      "ws08-kweilin-incident-a-shadow-theory.mp3",
+      "ws08-kweilin-incident-first-of-its-kind.mp3",
+      "ws08-kweilin-incident-the-plane-that-came-back.mp3"
+    ],
+    "durations": {
+      "ws08-kweilin-incident-flight-context.mp3": 58.0320833,
+      "ws08-kweilin-incident-intro.mp3": 52.9387083,
+      "ws08-kweilin-incident-the-passengers-and-crew.mp3": 75.41725,
+      "ws08-kweilin-incident-a-shadow-theory.mp3": 67.3652916,
+      "ws08-kweilin-incident-first-of-its-kind.mp3": 54.511875,
+      "ws08-kweilin-incident-the-plane-that-came-back.mp3": 67.6552083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

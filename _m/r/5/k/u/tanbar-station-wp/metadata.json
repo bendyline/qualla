@@ -95,5 +95,24 @@
   "galleryPaths": [
     "_m/r/5/k/u/tanbar-station-wp/statelibqld-1-137296-tanbar-st.jpg"
   ],
-  "updatedAt": "2026-06-28T06:49:19.876Z"
+  "updatedAt": "2026-06-28T06:49:19.876Z",
+  "narration": {
+    "files": [
+      "r5ku-tanbar-station-flight-context.mp3",
+      "r5ku-tanbar-station-intro.mp3",
+      "r5ku-tanbar-station-a-long-line-of-owners.mp3",
+      "r5ku-tanbar-station-a-speck-on-the-cooper.mp3",
+      "r5ku-tanbar-station-living-by-the-flood.mp3",
+      "r5ku-tanbar-station-an-operation-at-continental-scale.mp3"
+    ],
+    "durations": {
+      "r5ku-tanbar-station-flight-context.mp3": 74.5375,
+      "r5ku-tanbar-station-intro.mp3": 43.6843333,
+      "r5ku-tanbar-station-a-long-line-of-owners.mp3": 60.5840833,
+      "r5ku-tanbar-station-a-speck-on-the-cooper.mp3": 56.7489583,
+      "r5ku-tanbar-station-living-by-the-flood.mp3": 50.605625,
+      "r5ku-tanbar-station-an-operation-at-continental-scale.mp3": 56.5910416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

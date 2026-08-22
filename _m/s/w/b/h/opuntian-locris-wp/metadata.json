@@ -66,5 +66,26 @@
     "sourceGeohash4": "swbh"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "swbh-opuntian-locris-flight-context.mp3",
+      "swbh-opuntian-locris-intro.mp3",
+      "swbh-opuntian-locris-a-sliver-of-coast.mp3",
+      "swbh-opuntian-locris-the-city-of-opus.mp3",
+      "swbh-opuntian-locris-ajax-the-lesser.mp3",
+      "swbh-opuntian-locris-beside-leonidas.mp3",
+      "swbh-opuntian-locris-reading-the-land-today.mp3"
+    ],
+    "durations": {
+      "swbh-opuntian-locris-flight-context.mp3": 57.1664166,
+      "swbh-opuntian-locris-intro.mp3": 38.4285,
+      "swbh-opuntian-locris-a-sliver-of-coast.mp3": 49.2549583,
+      "swbh-opuntian-locris-the-city-of-opus.mp3": 47.5038333,
+      "swbh-opuntian-locris-ajax-the-lesser.mp3": 48.5098333,
+      "swbh-opuntian-locris-beside-leonidas.mp3": 43.7386666,
+      "swbh-opuntian-locris-reading-the-land-today.mp3": 55.3930833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

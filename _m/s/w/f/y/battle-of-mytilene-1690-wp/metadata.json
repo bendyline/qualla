@@ -144,5 +144,24 @@
   "galleryPaths": [
     "_m/s/w/6/p/thera-eruption-wk/location-map-greece.jpg",
     "_m/s/n/c/h/battle-of-formentera-wp/flag-regency-algiers.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swfy-battle-of-mytilene-1690-flight-context.mp3",
+      "swfy-battle-of-mytilene-1690-intro.mp3",
+      "swfy-battle-of-mytilene-1690-the-raid-into-the-aegean.mp3",
+      "swfy-battle-of-mytilene-1690-cannon-range.mp3",
+      "swfy-battle-of-mytilene-1690-an-angry-sultan.mp3",
+      "swfy-battle-of-mytilene-1690-a-navy-remade.mp3"
+    ],
+    "durations": {
+      "swfy-battle-of-mytilene-1690-flight-context.mp3": 50.695625,
+      "swfy-battle-of-mytilene-1690-intro.mp3": 43.9470416,
+      "swfy-battle-of-mytilene-1690-the-raid-into-the-aegean.mp3": 50.9360833,
+      "swfy-battle-of-mytilene-1690-cannon-range.mp3": 60.14575,
+      "swfy-battle-of-mytilene-1690-an-angry-sultan.mp3": 45.1603333,
+      "swfy-battle-of-mytilene-1690-a-navy-remade.mp3": 51.3385416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

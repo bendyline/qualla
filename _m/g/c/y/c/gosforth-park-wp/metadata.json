@@ -50,5 +50,22 @@
     "sourceGeohash4": "gcyc"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcyc-gosforth-park-flight-context.mp3",
+      "gcyc-gosforth-park-intro.mp3",
+      "gcyc-gosforth-park-brandlings-pleasure-ground.mp3",
+      "gcyc-gosforth-park-the-racecourse-and-the-hotel.mp3",
+      "gcyc-gosforth-park-wild-things-in-a-tame-park.mp3"
+    ],
+    "durations": {
+      "gcyc-gosforth-park-flight-context.mp3": 48.298125,
+      "gcyc-gosforth-park-intro.mp3": 54.4454166,
+      "gcyc-gosforth-park-brandlings-pleasure-ground.mp3": 67.289875,
+      "gcyc-gosforth-park-the-racecourse-and-the-hotel.mp3": 58.79725,
+      "gcyc-gosforth-park-wild-things-in-a-tame-park.mp3": 77.4735416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

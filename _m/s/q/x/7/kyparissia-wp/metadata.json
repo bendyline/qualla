@@ -464,5 +464,24 @@
     "_m/s/q/x/7/kyparissia-wp/5105.jpg",
     "_m/s/q/x/7/kyparissia-wp/5108.jpg"
   ],
-  "updatedAt": "2026-06-24T08:50:52.665Z"
+  "updatedAt": "2026-06-24T08:50:52.665Z",
+  "narration": {
+    "files": [
+      "sqx7-kyparissia-flight-context.mp3",
+      "sqx7-kyparissia-intro.mp3",
+      "sqx7-kyparissia-temples-harbours-and-a-name-that-keeps-changing.mp3",
+      "sqx7-kyparissia-arcadia-by-the-sea.mp3",
+      "sqx7-kyparissia-fire-ruin-and-the-name-restored.mp3",
+      "sqx7-kyparissia-a-coast-where-turtles-nest.mp3"
+    ],
+    "durations": {
+      "sqx7-kyparissia-flight-context.mp3": 50.9817083,
+      "sqx7-kyparissia-intro.mp3": 50.362125,
+      "sqx7-kyparissia-temples-harbours-and-a-name-that-keeps-changing.mp3": 58.4920833,
+      "sqx7-kyparissia-arcadia-by-the-sea.mp3": 62.5315416,
+      "sqx7-kyparissia-fire-ruin-and-the-name-restored.mp3": 61.21475,
+      "sqx7-kyparissia-a-coast-where-turtles-nest.mp3": 66.9002916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -160,5 +160,24 @@
     "_m/s/w/b/w/skiathos-wp/maratha-beach-panorama-skiatho.jpg",
     "_m/s/w/b/w/skiathos-wp/evangelistria-monastery-05.jpg"
   ],
-  "updatedAt": "2026-06-24T08:18:28.623Z"
+  "updatedAt": "2026-06-24T08:18:28.623Z",
+  "narration": {
+    "files": [
+      "swbw-skiathos-flight-context.mp3",
+      "swbw-skiathos-intro.mp3",
+      "swbw-skiathos-pines-to-the-waters-edge.mp3",
+      "swbw-skiathos-the-island-that-made-a-writer.mp3",
+      "swbw-skiathos-layers-of-conquest.mp3",
+      "swbw-skiathos-plane-spotting-and-mamma-mia.mp3"
+    ],
+    "durations": {
+      "swbw-skiathos-flight-context.mp3": 56.4021666,
+      "swbw-skiathos-intro.mp3": 39.65225,
+      "swbw-skiathos-pines-to-the-waters-edge.mp3": 54.0009583,
+      "swbw-skiathos-the-island-that-made-a-writer.mp3": 50.0775833,
+      "swbw-skiathos-layers-of-conquest.mp3": 55.289,
+      "swbw-skiathos-plane-spotting-and-mamma-mia.mp3": 51.9605833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -51,5 +51,24 @@
     "sourceGeohash4": "sus5"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sus5-mustatil-flight-context.mp3",
+      "sus5-mustatil-intro.mp3",
+      "sus5-mustatil-a-shape-repeated-a-thousand-times.mp3",
+      "sus5-mustatil-the-cattle-cult.mp3",
+      "sus5-mustatil-older-than-the-pyramids.mp3",
+      "sus5-mustatil-a-greener-arabia.mp3"
+    ],
+    "durations": {
+      "sus5-mustatil-flight-context.mp3": 50.9911666,
+      "sus5-mustatil-intro.mp3": 53.0484166,
+      "sus5-mustatil-a-shape-repeated-a-thousand-times.mp3": 55.9945,
+      "sus5-mustatil-the-cattle-cult.mp3": 51.9686666,
+      "sus5-mustatil-older-than-the-pyramids.mp3": 51.5884166,
+      "sus5-mustatil-a-greener-arabia.mp3": 44.6727916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -568,5 +568,26 @@
     "_m/s/w/b/b/badminton-theater-wp/badminton-theater-show-2.jpg",
     "_m/s/w/b/b/badminton-theater-wp/badminton-theater-meeting-hall.jpg"
   ],
-  "updatedAt": "2026-06-24T17:56:54.053Z"
+  "updatedAt": "2026-06-24T17:56:54.053Z",
+  "narration": {
+    "files": [
+      "swbb-badminton-theater-flight-context.mp3",
+      "swbb-badminton-theater-intro.mp3",
+      "swbb-badminton-theater-an-olympic-afterlife.mp3",
+      "swbb-badminton-theater-the-rebuild.mp3",
+      "swbb-badminton-theater-engineered-for-sound.mp3",
+      "swbb-badminton-theater-the-stage-comes-alive.mp3",
+      "swbb-badminton-theater-more-than-a-stage.mp3"
+    ],
+    "durations": {
+      "swbb-badminton-theater-flight-context.mp3": 49.2605416,
+      "swbb-badminton-theater-intro.mp3": 39.1256666,
+      "swbb-badminton-theater-an-olympic-afterlife.mp3": 40.5854166,
+      "swbb-badminton-theater-the-rebuild.mp3": 41.3274583,
+      "swbb-badminton-theater-engineered-for-sound.mp3": 37.8567916,
+      "swbb-badminton-theater-the-stage-comes-alive.mp3": 62.9017916,
+      "swbb-badminton-theater-more-than-a-stage.mp3": 47.41975
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

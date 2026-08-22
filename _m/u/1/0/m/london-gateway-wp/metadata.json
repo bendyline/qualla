@@ -523,5 +523,26 @@
     "_m/u/1/0/m/london-gateway-wp/london-gateway-geograph-org-uk-1.jpg",
     "_m/u/1/0/m/london-gateway-wp/containers-on-the-quayside-at-.jpg"
   ],
-  "updatedAt": "2026-06-25T17:31:57.659Z"
+  "updatedAt": "2026-06-25T17:31:57.659Z",
+  "narration": {
+    "files": [
+      "u10m-london-gateway-flight-context.mp3",
+      "u10m-london-gateway-intro.mp3",
+      "u10m-london-gateway-from-shell-haven-to-container-port.mp3",
+      "u10m-london-gateway-dredging-an-ocean-lane.mp3",
+      "u10m-london-gateway-robots-on-the-quayside.mp3",
+      "u10m-london-gateway-the-breakthrough-year.mp3",
+      "u10m-london-gateway-the-future-on-the-estuary.mp3"
+    ],
+    "durations": {
+      "u10m-london-gateway-flight-context.mp3": 54.8477916,
+      "u10m-london-gateway-intro.mp3": 39.8486666,
+      "u10m-london-gateway-from-shell-haven-to-container-port.mp3": 63.963375,
+      "u10m-london-gateway-dredging-an-ocean-lane.mp3": 54.3971666,
+      "u10m-london-gateway-robots-on-the-quayside.mp3": 64.7045833,
+      "u10m-london-gateway-the-breakthrough-year.mp3": 68.9250416,
+      "u10m-london-gateway-the-future-on-the-estuary.mp3": 62.2871666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

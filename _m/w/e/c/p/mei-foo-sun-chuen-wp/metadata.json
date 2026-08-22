@@ -728,5 +728,24 @@
     "_m/w/e/c/p/mei-foo-sun-chuen-wp/kmb-kz4678-086.jpg",
     "_m/w/e/c/p/mei-foo-sun-chuen-wp/kmb-py3244-037.jpg"
   ],
-  "updatedAt": "2026-06-29T08:41:36.306Z"
+  "updatedAt": "2026-06-29T08:41:36.306Z",
+  "narration": {
+    "files": [
+      "wecp-mei-foo-sun-chuen-flight-context.mp3",
+      "wecp-mei-foo-sun-chuen-intro.mp3",
+      "wecp-mei-foo-sun-chuen-the-scale-of-the-thing.mp3",
+      "wecp-mei-foo-sun-chuen-water-then-land.mp3",
+      "wecp-mei-foo-sun-chuen-connected-to-everything.mp3",
+      "wecp-mei-foo-sun-chuen-governing-yourself.mp3"
+    ],
+    "durations": {
+      "wecp-mei-foo-sun-chuen-flight-context.mp3": 62.1890416,
+      "wecp-mei-foo-sun-chuen-intro.mp3": 43.9889583,
+      "wecp-mei-foo-sun-chuen-the-scale-of-the-thing.mp3": 74.2160833,
+      "wecp-mei-foo-sun-chuen-water-then-land.mp3": 68.085625,
+      "wecp-mei-foo-sun-chuen-connected-to-everything.mp3": 59.7796666,
+      "wecp-mei-foo-sun-chuen-governing-yourself.mp3": 62.60775
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

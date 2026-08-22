@@ -656,5 +656,24 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r7hg-story-bridge-flight-context.mp3",
+      "r7hg-story-bridge-intro.mp3",
+      "r7hg-story-bridge-the-man-who-bridged-two-cities.mp3",
+      "r7hg-story-bridge-a-century-of-wanting.mp3",
+      "r7hg-story-bridge-the-price-in-lives.mp3",
+      "r7hg-story-bridge-the-citys-stage.mp3"
+    ],
+    "durations": {
+      "r7hg-story-bridge-flight-context.mp3": 56.9799166,
+      "r7hg-story-bridge-intro.mp3": 39.5115,
+      "r7hg-story-bridge-the-man-who-bridged-two-cities.mp3": 52.993625,
+      "r7hg-story-bridge-a-century-of-wanting.mp3": 51.748625,
+      "r7hg-story-bridge-the-price-in-lives.mp3": 56.0588333,
+      "r7hg-story-bridge-the-citys-stage.mp3": 57.0157916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

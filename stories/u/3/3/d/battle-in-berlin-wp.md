@@ -8,7 +8,7 @@ Once the Red Army crossed Berlin's outer ring on 23 April 1945, the war became a
 
 ## Introduction
 
-On 23 April 1945, Soviet ground forces pushed through the outer suburbs and the war crossed Berlin's last imaginary line. The Battle of Berlin, the strategic operation, had effectively been decided days earlier on the Seelow Heights and in the encirclement at Halbe. What was left was the Battle in Berlin, the battle inside the city: nine days of close-quarters fighting through streets that the soldiers from the steppes had never seen and the residents could no longer recognise. By 27 April, Berlin was completely cut off. By 30 April, Hitler was dead in his bunker. By 2 May, General Helmuth Weidling had surrendered the Berlin Defence Area to Vasily Chuikov, commander of the Soviet 8th Guards Army. In between, an entire generation of conscripts and adolescents fought a battle most of them knew was already lost.
+On 23 April 1945, Soviet ground forces pushed through the outer suburbs and the war crossed Berlin's last imaginary line. The Battle of Berlin, the strategic operation, had effectively been decided days earlier on the Seelow Heights and in the encirclement at Halbe. What was left was the Battle in Berlin, the battle inside the city: nine days of close-quarters fighting through streets that the soldiers from the steppes had never seen and the residents could no longer recognise. Berlin was completely cut off from the outside world by 27 April, and three days later Hitler was dead in his bunker. On 2 May, General Helmuth Weidling surrendered the Berlin Defence Area to Vasily Chuikov, commander of the Soviet 8th Guards Army. In between, an entire generation of conscripts and adolescents fought a battle most of them knew was already lost.
 
 ## Boys with Panzerfausts
 
@@ -33,8 +33,28 @@ The Battle in Berlin centred on Mitte at 52.519°N, 13.376°E, with the Reichsta
 ## Sources
 
 - [Battle in Berlin - Wikipedia](https://en.wikipedia.org/?curid=10069214)
+- [Battle in Berlin - Wikipedia](https://en.wikipedia.org/?curid=10069214)
+  - Soviet forces penetrated Berlin's outer suburbs 23 April 1945; city completely cut off by 27 April
+  - General Helmuth Weidling surrendered the Berlin Defence Area to Lieutenant-General Vasily Chuikov, 8th Guards Army, on 2 May 1945
+  - Berlin civilian dead during the battle estimated around 125,000
+- [Rape during the occupation of Germany - Wikipedia](https://en.wikipedia.org/wiki/Rape_during_the_occupation_of_Germany)
+  - At least 100,000 women believed raped in Berlin, based on hospital reports and abortion-rate surges - consistent with the story's 'tens of thousands to over a hundred thousand' range
+
+## Review Notes
+
+**Reviewed:** 2026-08-06 · 6 facts verified · 0 corrections
+
+Verified timeline (23 April suburbs, 27 April cut off, 2 May surrender to Chuikov), civilian death toll (~125,000), and rape estimates (100,000+ in Berlin, consistent with Beevor scholarship) against Wikipedia. Empathy framing already strong: Hitler Youth child soldiers and rape survivors both explicitly framed as victims of adult/state decisions, no dehumanizing language. No factual errors found. Spiciness 4 (frank, unflinching treatment of Nazi child-soldier use and mass sexual violence).
+
+**Spiciness:** 4/5
+
+**Strong opinions:**
+
+- "To frame them as combatants in any meaningful sense is to grant the Nazi state a moral legitimacy it never had. They were children put in front of tanks by adults who knew the war was over."
+- "There is no honest way to write about the days after the surrender without naming what happened."
+- "The survivors, like the children pushed into the streets to face tanks, were victims of decisions they had no part in making."
 
 ---
 
-*Word count: 770*
+*Word count: 751*
 *Read time: 4 minutes*

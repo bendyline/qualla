@@ -87,5 +87,26 @@
   "galleryPaths": [
     "_m/u/1/2/z/hms-cobra-wp/the-cobra-inquiry-scenes-at-th.jpg"
   ],
-  "updatedAt": "2026-06-26T00:26:20.264Z"
+  "updatedAt": "2026-06-26T00:26:20.264Z",
+  "narration": {
+    "files": [
+      "u12z-hms-cobra-flight-context.mp3",
+      "u12z-hms-cobra-intro.mp3",
+      "u12z-hms-cobra-built-on-speculation.mp3",
+      "u12z-hms-cobra-a-storm-out-of-newcastle.mp3",
+      "u12z-hms-cobra-cloud-of-steam-then-two-halves.mp3",
+      "u12z-hms-cobra-one-for-many.mp3",
+      "u12z-hms-cobra-the-inquiry-that-was-kept-secret.mp3"
+    ],
+    "durations": {
+      "u12z-hms-cobra-flight-context.mp3": 41.3623333,
+      "u12z-hms-cobra-intro.mp3": 60.5832083,
+      "u12z-hms-cobra-built-on-speculation.mp3": 59.4454583,
+      "u12z-hms-cobra-a-storm-out-of-newcastle.mp3": 52.7297916,
+      "u12z-hms-cobra-cloud-of-steam-then-two-halves.mp3": 57.162625,
+      "u12z-hms-cobra-one-for-many.mp3": 54.5011666,
+      "u12z-hms-cobra-the-inquiry-that-was-kept-secret.mp3": 61.095
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

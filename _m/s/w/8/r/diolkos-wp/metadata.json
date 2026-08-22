@@ -593,5 +593,24 @@
     "_m/s/w/8/r/diolkos-wp/diolkos-near-poseidonia-08.jpg",
     "_m/s/w/8/r/diolkos-wp/diolkos-near-poseidonia-09.jpg"
   ],
-  "updatedAt": "2026-06-24T14:12:58.165Z"
+  "updatedAt": "2026-06-24T14:12:58.165Z",
+  "narration": {
+    "files": [
+      "sw8r-diolkos-flight-context.mp3",
+      "sw8r-diolkos-intro.mp3",
+      "sw8r-diolkos-the-road-that-moved-ships.mp3",
+      "sw8r-diolkos-how-you-move-a-warship-overland.mp3",
+      "sw8r-diolkos-war-and-commerce-on-the-trackway.mp3",
+      "sw8r-diolkos-what-remains.mp3"
+    ],
+    "durations": {
+      "sw8r-diolkos-flight-context.mp3": 64.406,
+      "sw8r-diolkos-intro.mp3": 45.83975,
+      "sw8r-diolkos-the-road-that-moved-ships.mp3": 65.076,
+      "sw8r-diolkos-how-you-move-a-warship-overland.mp3": 66.6062916,
+      "sw8r-diolkos-war-and-commerce-on-the-trackway.mp3": 73.3462083,
+      "sw8r-diolkos-what-remains.mp3": 76.6583333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

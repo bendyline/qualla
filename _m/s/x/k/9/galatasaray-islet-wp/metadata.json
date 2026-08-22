@@ -343,5 +343,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-galatasaray-islet-flight-context.mp3",
+      "sxk9-galatasaray-islet-intro.mp3",
+      "sxk9-galatasaray-islet-a-gift-from-a-sultan.mp3",
+      "sxk9-galatasaray-islet-aivazovsky-on-the-bosphorus.mp3",
+      "sxk9-galatasaray-islet-from-private-estate-to-sports-club.mp3",
+      "sxk9-galatasaray-islet-fire-on-the-water.mp3",
+      "sxk9-galatasaray-islet-a-closed-island-on-an-open-strait.mp3"
+    ],
+    "durations": {
+      "sxk9-galatasaray-islet-flight-context.mp3": 65.8802916,
+      "sxk9-galatasaray-islet-intro.mp3": 51.643875,
+      "sxk9-galatasaray-islet-a-gift-from-a-sultan.mp3": 56.221375,
+      "sxk9-galatasaray-islet-aivazovsky-on-the-bosphorus.mp3": 55.48525,
+      "sxk9-galatasaray-islet-from-private-estate-to-sports-club.mp3": 55.8409166,
+      "sxk9-galatasaray-islet-fire-on-the-water.mp3": 47.7683333,
+      "sxk9-galatasaray-islet-a-closed-island-on-an-open-strait.mp3": 56.3803333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

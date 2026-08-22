@@ -58,5 +58,24 @@
     "sourceGeohash4": "w6me"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "w6me-loan-lagoon-flight-context.mp3",
+      "w6me-loan-lagoon-intro.mp3",
+      "w6me-loan-lagoon-separated-by-a-thread-of-sand.mp3",
+      "w6me-loan-lagoon-what-the-water-holds.mp3",
+      "w6me-loan-lagoon-yellow-flowers-on-the-green-grass.mp3",
+      "w6me-loan-lagoon-time-on-the-water.mp3"
+    ],
+    "durations": {
+      "w6me-loan-lagoon-flight-context.mp3": 54.675375,
+      "w6me-loan-lagoon-intro.mp3": 46.749375,
+      "w6me-loan-lagoon-separated-by-a-thread-of-sand.mp3": 50.929125,
+      "w6me-loan-lagoon-what-the-water-holds.mp3": 49.09375,
+      "w6me-loan-lagoon-yellow-flowers-on-the-green-grass.mp3": 51.3546666,
+      "w6me-loan-lagoon-time-on-the-water.mp3": 49.52875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

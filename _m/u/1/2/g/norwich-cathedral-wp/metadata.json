@@ -552,5 +552,24 @@
     "_m/u/1/2/g/norwich-cathedral-wp/tourist-signs-norwich-21.jpg",
     "_m/u/1/2/g/norwich-cathedral-wp/norwich-cathedral-100-52.jpg"
   ],
-  "updatedAt": "2026-06-25T22:47:34.735Z"
+  "updatedAt": "2026-06-25T22:47:34.735Z",
+  "narration": {
+    "files": [
+      "u12g-norwich-cathedral-flight-context.mp3",
+      "u12g-norwich-cathedral-intro.mp3",
+      "u12g-norwich-cathedral-cream-stone-and-norman-scale.mp3",
+      "u12g-norwich-cathedral-the-bosses.mp3",
+      "u12g-norwich-cathedral-the-close-and-its-graves.mp3",
+      "u12g-norwich-cathedral-music-chocolate-and-ongoing-life.mp3"
+    ],
+    "durations": {
+      "u12g-norwich-cathedral-flight-context.mp3": 50.1276666,
+      "u12g-norwich-cathedral-intro.mp3": 49.5842916,
+      "u12g-norwich-cathedral-cream-stone-and-norman-scale.mp3": 71.8306666,
+      "u12g-norwich-cathedral-the-bosses.mp3": 65.3224583,
+      "u12g-norwich-cathedral-the-close-and-its-graves.mp3": 60.8388333,
+      "u12g-norwich-cathedral-music-chocolate-and-ongoing-life.mp3": 51.5788333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

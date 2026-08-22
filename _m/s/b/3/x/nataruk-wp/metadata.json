@@ -49,5 +49,24 @@
     "sourceGeohash4": "sb3x"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sb3x-nataruk-flight-context.mp3",
+      "sb3x-nataruk-intro.mp3",
+      "sb3x-nataruk-the-people-of-the-lakeshore.mp3",
+      "sb3x-nataruk-what-the-bones-record.mp3",
+      "sb3x-nataruk-massacre-or-something-else.mp3",
+      "sb3x-nataruk-how-old-is-war.mp3"
+    ],
+    "durations": {
+      "sb3x-nataruk-flight-context.mp3": 61.019875,
+      "sb3x-nataruk-intro.mp3": 41.94025,
+      "sb3x-nataruk-the-people-of-the-lakeshore.mp3": 48.7752916,
+      "sb3x-nataruk-what-the-bones-record.mp3": 56.25475,
+      "sb3x-nataruk-massacre-or-something-else.mp3": 60.0445833,
+      "sb3x-nataruk-how-old-is-war.mp3": 65.189125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

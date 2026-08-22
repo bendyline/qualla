@@ -299,5 +299,24 @@
     "_m/tpc/mo/un/t-/ko/mount-kosciuszko/seaman-s-hut.jpg",
     "_m/tpc/mo/un/t-/ko/mount-kosciuszko/eagle-s-nest-restaurant-thredb.jpg",
     "_m/tpc/mo/un/t-/ko/mount-kosciuszko/main-range-track-banner.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r392-mount-kosciuszko-summit-trails-flight-context.mp3",
+      "r392-mount-kosciuszko-summit-trails-intro.mp3",
+      "r392-mount-kosciuszko-summit-trails-remote-without-really-being-remote.mp3",
+      "r392-mount-kosciuszko-summit-trails-the-walk-from-the-top-station.mp3",
+      "r392-mount-kosciuszko-summit-trails-a-lake-at-the-edge-of-the-sky.mp3",
+      "r392-mount-kosciuszko-summit-trails-names-and-memory-on-the-range.mp3"
+    ],
+    "durations": {
+      "r392-mount-kosciuszko-summit-trails-flight-context.mp3": 61.194125,
+      "r392-mount-kosciuszko-summit-trails-intro.mp3": 48.8091666,
+      "r392-mount-kosciuszko-summit-trails-remote-without-really-being-remote.mp3": 59.6787083,
+      "r392-mount-kosciuszko-summit-trails-the-walk-from-the-top-station.mp3": 53.9487083,
+      "r392-mount-kosciuszko-summit-trails-a-lake-at-the-edge-of-the-sky.mp3": 49.54525,
+      "r392-mount-kosciuszko-summit-trails-names-and-memory-on-the-range.mp3": 58.0360416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

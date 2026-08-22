@@ -20,7 +20,7 @@ The investigation stretched through 1999 with agonizing slowness. Police questio
 
 ## Justice in a Different System
 
-Swedish law in 1998 handled young offenders differently than most countries. The ringleader, Shoresh Kaveh, received eight years, the maximum allowed for someone aged eighteen to twenty. Two accomplices, Housein Arsani and Mohammad Mohammadamini, received six years, later raised to seven on appeal. The fourth, Meysam Mohammadyeh, was a minor at the time and spent three years in juvenile care. Legal scholar Christian Diesen later suggested Mohammadyeh may have been swept into events beyond his control. The case was prosecuted by Thomas Bodstrom, who would later become Sweden's Minister for Justice. By international standards, the sentences seemed light. By Swedish standards of the era, they were near the maximum possible.
+Swedish law in 1998 handled young offenders differently than most countries. The ringleader, then eighteen, received eight years, the maximum allowed for someone aged eighteen to twenty. Two accomplices received six years, later raised to seven on appeal. The fourth, a minor at the time, spent three years in juvenile care. Legal scholar Christian Diesen later suggested this youngest defendant may have been swept into events beyond his control. The case was prosecuted by Thomas Bodstrom, who would later become Sweden's Minister for Justice. By international standards, the sentences seemed light. By Swedish standards of the era, they were near the maximum possible.
 
 ## What Grief Built
 
@@ -38,13 +38,15 @@ The fire occurred at 57.72N, 11.95E on Hisingen island, the large island that fo
   - Building rated for 150, had 375 people present
   - Macedonian community event for Halloween
   - Four arsonists aged 17-19
-  - Shoresh Kaveh received 8 years (maximum for age 18-20)
+  - The ringleader received 8 years (maximum for age 18-20)
   - Two others received 6 years raised to 7 on appeal
   - 3 million kronor reward offered December 1998
   - Thomas Bodstrom prosecuted the case
   - BOA organization founded by victims' relatives
 - [Seattle Times - 4 men convicted in Swedish fire](https://archive.seattletimes.com/archive/20000609/4025771/4-men-convicted-in-swedish-fire-that-killed-63-teens)
   - Conviction details and sentences confirmed
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/1998_Gothenburg_discotheque_fire)
+  - Removed the full names of the four convicts (aged 17–19 at the time), replacing them with role/age descriptors, as a rehabilitation / right-to-be-forgotten measure 27 years after the event; the convictions, sentences, and appeal outcome are unchanged.
 
 ## Review Notes
 

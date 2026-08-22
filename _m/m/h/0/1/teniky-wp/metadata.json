@@ -106,5 +106,24 @@
       }
     }
   ],
-  "updatedAt": "2026-06-27T21:50:50.884Z"
+  "updatedAt": "2026-06-27T21:50:50.884Z",
+  "narration": {
+    "files": [
+      "mh01-teniky-flight-context.mp3",
+      "mh01-teniky-intro.mp3",
+      "mh01-teniky-the-stones-that-dont-belong.mp3",
+      "mh01-teniky-a-thousand-year-old-puzzle.mp3",
+      "mh01-teniky-the-persian-hypothesis.mp3",
+      "mh01-teniky-what-the-bara-remember.mp3"
+    ],
+    "durations": {
+      "mh01-teniky-flight-context.mp3": 65.950375,
+      "mh01-teniky-intro.mp3": 50.6355833,
+      "mh01-teniky-the-stones-that-dont-belong.mp3": 51.0999583,
+      "mh01-teniky-a-thousand-year-old-puzzle.mp3": 53.3365416,
+      "mh01-teniky-the-persian-hypothesis.mp3": 59.925125,
+      "mh01-teniky-what-the-bara-remember.mp3": 62.5687916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

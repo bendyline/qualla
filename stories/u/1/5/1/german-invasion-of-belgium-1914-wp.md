@@ -8,7 +8,7 @@ In August 1914, a small neutral country chose to fight rather than be marched th
 
 ## Introduction
 
-The ultimatum arrived in Brussels on August 2, 1914, with twelve hours to reply. Germany demanded passage through Belgium for an army of more than a million men, promising compensation if the country complied and devastation if it refused. King Albert and his cabinet met through the night. Belgium had been neutral by treaty since 1839, guaranteed by all the great powers - including Germany. The army had perhaps 117,000 trained soldiers against a force ten times larger. The rational answer was yes. They said no. "A small country has rights as well as a great country," Albert told the German envoy. On the morning of August 4, German troops crossed the frontier and marched on Liege. The British declared war that night, citing the violation of Belgian neutrality. The Belgian refusal had not stopped the German army - nothing could have - but it had pulled the British Empire into the war and put a name to what was happening on a small country's soil.
+The ultimatum arrived in Brussels on August 2, 1914, with twelve hours to reply. Germany demanded passage through Belgium for an army of more than a million men, promising compensation if the country complied and devastation if it refused. King Albert and his cabinet met through the night. Belgium had been neutral by treaty since 1839, guaranteed by all the great powers - including Germany. The army had perhaps 117,000 trained soldiers against a force ten times larger. The rational answer was yes. They said no. A small country, Albert held, had rights as surely as a great one. On the morning of August 4, German troops crossed the frontier and marched on Liege. The British declared war that night, citing the violation of Belgian neutrality. The Belgian refusal had not stopped the German army - nothing could have - but it had pulled the British Empire into the war and put a name to what was happening on a small country's soil.
 
 ## Liege Holds
 
@@ -51,6 +51,8 @@ The 1914 invasion swept across the entire eastern half of Belgium. Key sites vis
 - [KU Leuven founding history](https://stories.kuleuven.be/en/stories/the-story-behind-the-foundation-bull)
   - University of Leuven founded by papal bull December 9, 1425 (Pope Martin V) - confirmed
   - Corrected: 'university library, founded in 1425' → 'part of the institution founded in 1425' (the physical library building dated from 1636; the university was founded in 1425)
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/German_invasion_of_Belgium_(1914))
+  - Converted an unverifiable King Albert I quote to indirect speech (his documented reply is "Belgium is a country, not a road").
 
 ## Review Notes
 

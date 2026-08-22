@@ -35,5 +35,24 @@
   "galleryPaths": [
     "_m/r/0/x/8/queenstown-tasmania-wk/orr-street-queenstown.jpg"
   ],
-  "updatedAt": "2026-06-28T00:01:14.479Z"
+  "updatedAt": "2026-06-28T00:01:14.479Z",
+  "narration": {
+    "files": [
+      "r0x8-queenstown-tasmania-flight-context.mp3",
+      "r0x8-queenstown-tasmania-intro.mp3",
+      "r0x8-queenstown-tasmania-how-the-hills-turned-bare.mp3",
+      "r0x8-queenstown-tasmania-the-gravel-oval.mp3",
+      "r0x8-queenstown-tasmania-the-train-out-of-the-valley.mp3",
+      "r0x8-queenstown-tasmania-cut-off-and-carrying-on.mp3"
+    ],
+    "durations": {
+      "r0x8-queenstown-tasmania-flight-context.mp3": 67.7255833,
+      "r0x8-queenstown-tasmania-intro.mp3": 46.5374166,
+      "r0x8-queenstown-tasmania-how-the-hills-turned-bare.mp3": 56.0315,
+      "r0x8-queenstown-tasmania-the-gravel-oval.mp3": 48.3827083,
+      "r0x8-queenstown-tasmania-the-train-out-of-the-valley.mp3": 49.7972083,
+      "r0x8-queenstown-tasmania-cut-off-and-carrying-on.mp3": 54.3336666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

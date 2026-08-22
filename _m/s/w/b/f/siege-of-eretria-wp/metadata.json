@@ -65,5 +65,26 @@
     "sourceGeohash4": "swbf"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "swbf-siege-of-eretria-flight-context.mp3",
+      "swbf-siege-of-eretria-intro.mp3",
+      "swbf-siege-of-eretria-a-kings-grudge.mp3",
+      "swbf-siege-of-eretria-the-fleet-arrives.mp3",
+      "swbf-siege-of-eretria-six-days-and-a-betrayal.mp3",
+      "swbf-siege-of-eretria-carried-into-exile.mp3",
+      "swbf-siege-of-eretria-what-the-fall-set-in-motion.mp3"
+    ],
+    "durations": {
+      "swbf-siege-of-eretria-flight-context.mp3": 43.1745,
+      "swbf-siege-of-eretria-intro.mp3": 29.9405,
+      "swbf-siege-of-eretria-a-kings-grudge.mp3": 56.7547083,
+      "swbf-siege-of-eretria-the-fleet-arrives.mp3": 56.6579166,
+      "swbf-siege-of-eretria-six-days-and-a-betrayal.mp3": 50.82825,
+      "swbf-siege-of-eretria-carried-into-exile.mp3": 53.2790833,
+      "swbf-siege-of-eretria-what-the-fall-set-in-motion.mp3": 42.6209583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

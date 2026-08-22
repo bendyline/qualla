@@ -70,5 +70,24 @@
     "sourceGeohash4": "gcx0"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcx0-lundhill-colliery-explosion-flight-context.mp3",
+      "gcx0-lundhill-colliery-explosion-intro.mp3",
+      "gcx0-lundhill-colliery-explosion-the-village-that-the-pit-built.mp3",
+      "gcx0-lundhill-colliery-explosion-firedamp.mp3",
+      "gcx0-lundhill-colliery-explosion-the-rescue.mp3",
+      "gcx0-lundhill-colliery-explosion-what-remains.mp3"
+    ],
+    "durations": {
+      "gcx0-lundhill-colliery-explosion-flight-context.mp3": 49.1137083,
+      "gcx0-lundhill-colliery-explosion-intro.mp3": 45.3522916,
+      "gcx0-lundhill-colliery-explosion-the-village-that-the-pit-built.mp3": 64.1177083,
+      "gcx0-lundhill-colliery-explosion-firedamp.mp3": 52.1827083,
+      "gcx0-lundhill-colliery-explosion-the-rescue.mp3": 66.0485,
+      "gcx0-lundhill-colliery-explosion-what-remains.mp3": 60.695
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -153,5 +153,24 @@
     "_m/s/w/8/t/methana-volcano-wp/agios-konstantinos-methana-12.jpg",
     "_m/s/w/8/t/methana-volcano-wp/kameno-vuono.jpg"
   ],
-  "updatedAt": "2026-06-24T14:24:14.919Z"
+  "updatedAt": "2026-06-24T14:24:14.919Z",
+  "narration": {
+    "files": [
+      "sw8t-methana-volcano-flight-context.mp3",
+      "sw8t-methana-volcano-intro.mp3",
+      "sw8t-methana-volcano-thirty-two-mouths-of-the-earth.mp3",
+      "sw8t-methana-volcano-the-historic-eruption-at-kameni-chora.mp3",
+      "sw8t-methana-volcano-ten-thousand-years-of-people.mp3",
+      "sw8t-methana-volcano-a-landscape-still-breathing.mp3"
+    ],
+    "durations": {
+      "sw8t-methana-volcano-flight-context.mp3": 60.3381666,
+      "sw8t-methana-volcano-intro.mp3": 46.2420416,
+      "sw8t-methana-volcano-thirty-two-mouths-of-the-earth.mp3": 71.1628333,
+      "sw8t-methana-volcano-the-historic-eruption-at-kameni-chora.mp3": 71.6083333,
+      "sw8t-methana-volcano-ten-thousand-years-of-people.mp3": 59.5635,
+      "sw8t-methana-volcano-a-landscape-still-breathing.mp3": 66.6493333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -213,5 +213,24 @@
     "_m/tpc/is/le/-o/f-/isle-of-skye/old-man-of-storr-148017623.jpg",
     "_m/tpc/is/le/-o/f-/isle-of-skye/scotland-isle-of-skye-sconser-.jpg",
     "_m/tpc/is/le/-o/f-/isle-of-skye/uig-bay-and-loch-snizort-geogr.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gf5w-skye-flight-context.mp3",
+      "gf5w-skye-intro.mp3",
+      "gf5w-skye-the-cuillin-the-cleared.mp3",
+      "gf5w-skye-trotternish-the-landslip.mp3",
+      "gf5w-skye-bonnie-prince-charlie-and-flora-macdonald.mp3",
+      "gf5w-skye-getting-there-and-getting-around.mp3"
+    ],
+    "durations": {
+      "gf5w-skye-flight-context.mp3": 62.91175,
+      "gf5w-skye-intro.mp3": 47.3037916,
+      "gf5w-skye-the-cuillin-the-cleared.mp3": 70.480875,
+      "gf5w-skye-trotternish-the-landslip.mp3": 60.86775,
+      "gf5w-skye-bonnie-prince-charlie-and-flora-macdonald.mp3": 73.343875,
+      "gf5w-skye-getting-there-and-getting-around.mp3": 64.244875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

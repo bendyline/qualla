@@ -31,7 +31,18 @@
           "Tasman map",
           "Voyage de découvertes aux terres australes"
         ]
-      }
+      },
+      "narration": [
+        "_m/r/j/b/h/crocodile-islands-wp/rjbh-crocodile-islands-flight-context.mp3",
+        "_m/r/j/b/h/crocodile-islands-wp/rjbh-crocodile-islands-intro.mp3",
+        "_m/r/j/b/h/crocodile-islands-wp/rjbh-crocodile-islands-the-saltwater-people.mp3",
+        "_m/r/j/b/h/crocodile-islands-wp/rjbh-crocodile-islands-a-lake-full-of-crocodiles.mp3",
+        "_m/r/j/b/h/crocodile-islands-wp/rjbh-crocodile-islands-the-woman-who-saved-a-language.mp3",
+        "_m/r/j/b/h/crocodile-islands-wp/rjbh-crocodile-islands-their-own-country-recognised-at-last.mp3"
+      ],
+      "combinedNarration": "_m/r/j/b/h/crocodile-islands-wp/rjbh-crocodile-islands-combined.mp3",
+      "combinedNarrationBytes": 3356079,
+      "combinedNarrationDuration": 279
     }
   }
 }

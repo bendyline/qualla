@@ -529,5 +529,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "weby-hong-kong-zhuhai-macau-bridge-flight-context.mp3",
+      "weby-hong-kong-zhuhai-macau-bridge-intro.mp3",
+      "weby-hong-kong-zhuhai-macau-bridge-the-scale-of-the-thing.mp3",
+      "weby-hong-kong-zhuhai-macau-bridge-built-at-a-price-beyond-the-budget-line.mp3",
+      "weby-hong-kong-zhuhai-macau-bridge-opened-slow-grown-fast.mp3",
+      "weby-hong-kong-zhuhai-macau-bridge-the-dolphins-that-paid-the-cost.mp3"
+    ],
+    "durations": {
+      "weby-hong-kong-zhuhai-macau-bridge-flight-context.mp3": 63.1282916,
+      "weby-hong-kong-zhuhai-macau-bridge-intro.mp3": 49.1300416,
+      "weby-hong-kong-zhuhai-macau-bridge-the-scale-of-the-thing.mp3": 76.3815833,
+      "weby-hong-kong-zhuhai-macau-bridge-built-at-a-price-beyond-the-budget-line.mp3": 67.3085833,
+      "weby-hong-kong-zhuhai-macau-bridge-opened-slow-grown-fast.mp3": 61.6243333,
+      "weby-hong-kong-zhuhai-macau-bridge-the-dolphins-that-paid-the-cost.mp3": 53.32375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

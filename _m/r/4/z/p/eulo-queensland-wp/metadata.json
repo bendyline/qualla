@@ -525,5 +525,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r4zp-eulo-flight-context.mp3",
+      "r4zp-eulo-intro.mp3",
+      "r4zp-eulo-the-eulo-queen.mp3",
+      "r4zp-eulo-a-hero-named-destructo.mp3",
+      "r4zp-eulo-mud-from-the-deep.mp3",
+      "r4zp-eulo-old-country-long-memory.mp3"
+    ],
+    "durations": {
+      "r4zp-eulo-flight-context.mp3": 65.7064583,
+      "r4zp-eulo-intro.mp3": 55.6410833,
+      "r4zp-eulo-the-eulo-queen.mp3": 68.0057083,
+      "r4zp-eulo-a-hero-named-destructo.mp3": 73.8805833,
+      "r4zp-eulo-mud-from-the-deep.mp3": 52.33625,
+      "r4zp-eulo-old-country-long-memory.mp3": 67.955125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

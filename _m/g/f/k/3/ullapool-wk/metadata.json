@@ -505,5 +505,24 @@
     "_m/g/f/k/3/ullapool-wk/argyle-street-geograph-org-uk-.jpg",
     "_m/g/f/k/3/ullapool-wk/captain-s-cabin-geograph-org-u.jpg"
   ],
-  "updatedAt": "2026-06-24T02:42:37.839Z"
+  "updatedAt": "2026-06-24T02:42:37.839Z",
+  "narration": {
+    "files": [
+      "gfk3-ullapool-flight-context.mp3",
+      "gfk3-ullapool-intro.mp3",
+      "gfk3-ullapool-a-village-by-design.mp3",
+      "gfk3-ullapool-what-to-climb-what-to-see.mp3",
+      "gfk3-ullapool-the-quiet-town-that-sings.mp3",
+      "gfk3-ullapool-what-lies-north-and-west.mp3"
+    ],
+    "durations": {
+      "gfk3-ullapool-flight-context.mp3": 44.8844166,
+      "gfk3-ullapool-intro.mp3": 50.4883333,
+      "gfk3-ullapool-a-village-by-design.mp3": 61.61575,
+      "gfk3-ullapool-what-to-climb-what-to-see.mp3": 68.6120833,
+      "gfk3-ullapool-the-quiet-town-that-sings.mp3": 61.3357916,
+      "gfk3-ullapool-what-lies-north-and-west.mp3": 65.78175
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

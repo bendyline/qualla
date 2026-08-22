@@ -24,7 +24,7 @@ After World War II, Belgium launched an ambitious ten-year development plan emph
 
 ## Dipenda
 
-Events moved faster than anyone in Brussels expected. Ghana's independence in 1957 and Charles de Gaulle's 1958 visit to Brazzaville -- where he offered France's African colonies a choice between association and full independence -- electrified the Congo. In October 1958, Patrice Lumumba helped establish the Mouvement National Congolais as a party advocating a unified, centralized nation. On January 4, 1959, a prohibited political demonstration in Leopoldville erupted into rioting that left several hundred dead. Nine days later, King Baudouin addressed the nation by radio, declaring Belgium would work toward "full independence without delay." A round-table conference in Brussels in January 1960 set the date: June 30. Belgium calculated, cynically, that the weakness of Congolese elites -- only a handful held university degrees -- would allow Belgian interests to remain in control. They called this strategy Le Pari Congolais, the Congolese bet. Lumumba became prime minister, Joseph Kasa-Vubu became president, and within a week of independence, the Force Publique mutinied against its Belgian officers. The Congo Crisis that followed lasted five years. Lumumba was assassinated in 1961 with Belgian complicity. Belgium officially apologized in 2002, four decades after the fact.
+Events moved faster than anyone in Brussels expected. Ghana's independence in 1957 and Charles de Gaulle's 1958 visit to Brazzaville -- where he offered France's African colonies a choice between association and full independence -- electrified the Congo. In October 1958, Patrice Lumumba helped establish the Mouvement National Congolais as a party advocating a unified, centralized nation. On January 4, 1959, a prohibited political demonstration in Leopoldville erupted into rioting that left several hundred dead. Nine days later, King Baudouin addressed the nation by radio, declaring Belgium would work toward the full independence of the Congo "without delay, but also without irresponsible rashness." A round-table conference in Brussels in January 1960 set the date: June 30. Belgium calculated, cynically, that the weakness of Congolese elites -- only a handful held university degrees -- would allow Belgian interests to remain in control. They called this strategy Le Pari Congolais, the Congolese bet. Lumumba became prime minister, Joseph Kasa-Vubu became president, and within a week of independence, the Force Publique mutinied against its Belgian officers. The Congo Crisis that followed lasted five years. Lumumba was assassinated in 1961 with Belgian complicity. Belgium officially apologized in 2002, four decades after the fact.
 
 ## Flight Context
 
@@ -42,6 +42,8 @@ Located at 4.32S, 15.32E, centered on Kinshasa (formerly Leopoldville), capital 
   - Lumumba became prime minister at independence
   - Mouvement National Congolais established October 1958
   - Assassination in 1961 with Belgian complicity confirmed
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/King_Baudouin_speech_(13_January_1959))
+  - Corrected a stitched Baudouin (1959) quote to verbatim ("...without delay, but also without irresponsible rashness").
 
 ## Review Notes
 

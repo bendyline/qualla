@@ -76,5 +76,24 @@
   ],
   "galleryPaths": [
     "_m/s/x/k/9/galata-wp/genoese-palace-italian.webp"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-genoese-palace-flight-context.mp3",
+      "sxk9-genoese-palace-intro.mp3",
+      "sxk9-genoese-palace-the-republic-of-genoa-in-galata.mp3",
+      "sxk9-genoese-palace-the-galata-tower-in-the-background.mp3",
+      "sxk9-genoese-palace-the-tramway-and-the-demolition.mp3",
+      "sxk9-genoese-palace-a-medieval-building-in-an-uncertain-present.mp3"
+    ],
+    "durations": {
+      "sxk9-genoese-palace-flight-context.mp3": 59.4004583,
+      "sxk9-genoese-palace-intro.mp3": 43.8625833,
+      "sxk9-genoese-palace-the-republic-of-genoa-in-galata.mp3": 73.904,
+      "sxk9-genoese-palace-the-galata-tower-in-the-background.mp3": 55.9607083,
+      "sxk9-genoese-palace-the-tramway-and-the-demolition.mp3": 60.631375,
+      "sxk9-genoese-palace-a-medieval-building-in-an-uncertain-present.mp3": 64.0243333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -827,5 +827,24 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecn-stanley-hong-kong-flight-context.mp3",
+      "wecn-stanley-hong-kong-intro.mp3",
+      "wecn-stanley-hong-kong-red-pillar-first-capital.mp3",
+      "wecn-stanley-hong-kong-the-weight-of-december-1941.mp3",
+      "wecn-stanley-hong-kong-a-town-of-contrasts.mp3",
+      "wecn-stanley-hong-kong-prisons-beaches-hiking-trails.mp3"
+    ],
+    "durations": {
+      "wecn-stanley-hong-kong-flight-context.mp3": 52.0600416,
+      "wecn-stanley-hong-kong-intro.mp3": 64.997125,
+      "wecn-stanley-hong-kong-red-pillar-first-capital.mp3": 66.980875,
+      "wecn-stanley-hong-kong-the-weight-of-december-1941.mp3": 78.6112083,
+      "wecn-stanley-hong-kong-a-town-of-contrasts.mp3": 69.6202083,
+      "wecn-stanley-hong-kong-prisons-beaches-hiking-trails.mp3": 77.1852083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

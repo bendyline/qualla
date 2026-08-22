@@ -549,5 +549,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sb0r-sipi-falls-flight-context.mp3",
+      "sb0r-sipi-falls-intro.mp3",
+      "sb0r-sipi-falls-three-falls-one-river.mp3",
+      "sb0r-sipi-falls-born-of-a-volcano.mp3",
+      "sb0r-sipi-falls-coffee-country.mp3",
+      "sb0r-sipi-falls-what-the-name-remembers.mp3"
+    ],
+    "durations": {
+      "sb0r-sipi-falls-flight-context.mp3": 52.1484583,
+      "sb0r-sipi-falls-intro.mp3": 46.556875,
+      "sb0r-sipi-falls-three-falls-one-river.mp3": 48.415125,
+      "sb0r-sipi-falls-born-of-a-volcano.mp3": 44.3797083,
+      "sb0r-sipi-falls-coffee-country.mp3": 43.1574166,
+      "sb0r-sipi-falls-what-the-name-remembers.mp3": 51.1200833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

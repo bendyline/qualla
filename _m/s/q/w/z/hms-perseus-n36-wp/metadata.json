@@ -59,5 +59,24 @@
     "sourceGeohash4": "sqwz"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sqwz-hms-perseus-n36-flight-context.mp3",
+      "sqwz-hms-perseus-n36-intro.mp3",
+      "sqwz-hms-perseus-n36-the-men-and-the-mission.mp3",
+      "sqwz-hms-perseus-n36-from-the-seabed-to-the-shore.mp3",
+      "sqwz-hms-perseus-n36-doubt-and-discovery.mp3",
+      "sqwz-hms-perseus-n36-remembrance.mp3"
+    ],
+    "durations": {
+      "sqwz-hms-perseus-n36-flight-context.mp3": 56.0548333,
+      "sqwz-hms-perseus-n36-intro.mp3": 42.8830416,
+      "sqwz-hms-perseus-n36-the-men-and-the-mission.mp3": 67.0677916,
+      "sqwz-hms-perseus-n36-from-the-seabed-to-the-shore.mp3": 63.3532916,
+      "sqwz-hms-perseus-n36-doubt-and-discovery.mp3": 64.3975416,
+      "sqwz-hms-perseus-n36-remembrance.mp3": 52.4975416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

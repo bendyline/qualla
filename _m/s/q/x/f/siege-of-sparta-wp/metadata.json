@@ -119,5 +119,26 @@
     "_m/s/q/x/f/siege-of-sparta-wp/map-southern-pelopones.gif",
     "_m/s/q/x/f/siege-of-sparta-wp/repulse-of-pyrrhus-from-sparta.jpg"
   ],
-  "updatedAt": "2026-06-24T09:03:09.809Z"
+  "updatedAt": "2026-06-24T09:03:09.809Z",
+  "narration": {
+    "files": [
+      "sqxf-siege-of-sparta-flight-context.mp3",
+      "sqxf-siege-of-sparta-intro.mp3",
+      "sqxf-siege-of-sparta-a-grudge-a-throne-and-an-invitation.mp3",
+      "sqxf-siege-of-sparta-the-trench-and-the-women.mp3",
+      "sqxf-siege-of-sparta-two-days-of-fighting.mp3",
+      "sqxf-siege-of-sparta-reinforcements-and-retreat.mp3",
+      "sqxf-siege-of-sparta-the-end-in-argos.mp3"
+    ],
+    "durations": {
+      "sqxf-siege-of-sparta-flight-context.mp3": 56.6460416,
+      "sqxf-siege-of-sparta-intro.mp3": 45.0291666,
+      "sqxf-siege-of-sparta-a-grudge-a-throne-and-an-invitation.mp3": 83.6104166,
+      "sqxf-siege-of-sparta-the-trench-and-the-women.mp3": 76.4195,
+      "sqxf-siege-of-sparta-two-days-of-fighting.mp3": 79.0049583,
+      "sqxf-siege-of-sparta-reinforcements-and-retreat.mp3": 69.124125,
+      "sqxf-siege-of-sparta-the-end-in-argos.mp3": 77.13425
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

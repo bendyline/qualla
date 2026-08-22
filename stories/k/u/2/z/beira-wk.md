@@ -12,7 +12,7 @@ Ninety percent of a city destroyed in a single night. That was Beira in March 20
 
 ## A Playground Between Empires
 
-Beira's story is inseparable from the ambitions of colonial powers. Capital of Sofala Province and gateway to the interior, the city grew as a port linking landlocked Rhodesia to the sea. Portugal held Mozambique as a colony, and during the 1950s and 1960s, Beira became a playground for wealthy white Rhodesians -- a place where the UN embargo against Ian Smith's regime simply did not apply. Hotels filled, the beaches at Macuti drew holiday crowds from Salisbury, and money flowed through the harbor. The Grande Hotel, an extravagant Art Deco monument, opened in 1955 as a symbol of colonial aspiration, though it never turned a profit. When Mozambique gained independence in 1975, the world that sustained Beira's colonial economy vanished almost overnight.
+Beira's story is inseparable from the ambitions of colonial powers. Capital of Sofala Province and gateway to the interior, the city grew as a port linking landlocked Rhodesia (now Zimbabwe) to the sea. Portugal held Mozambique as a colony, and during the 1950s and 1960s, Beira became a playground for wealthy white Rhodesians -- a place where the UN embargo against Ian Smith's regime simply did not apply. Hotels filled, the beaches at Macuti drew holiday crowds from Salisbury, and money flowed through the harbor. The Grande Hotel, an extravagant Art Deco monument, opened in 1955 as a symbol of colonial aspiration, though it never turned a profit. When Mozambique gained independence in 1975, the world that sustained Beira's colonial economy vanished almost overnight.
 
 ## Scars and Resilience
 

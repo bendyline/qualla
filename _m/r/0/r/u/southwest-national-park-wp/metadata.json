@@ -559,5 +559,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r0ru-southwest-national-park-flight-context.mp3",
+      "r0ru-southwest-national-park-intro.mp3",
+      "r0ru-southwest-national-park-forty-thousand-years-of-quiet.mp3",
+      "r0ru-southwest-national-park-the-last-country-on-the-map.mp3",
+      "r0ru-southwest-national-park-the-lake-that-was-lost.mp3",
+      "r0ru-southwest-national-park-where-the-parrots-still-fly.mp3"
+    ],
+    "durations": {
+      "r0ru-southwest-national-park-flight-context.mp3": 76.6608333,
+      "r0ru-southwest-national-park-intro.mp3": 47.9732916,
+      "r0ru-southwest-national-park-forty-thousand-years-of-quiet.mp3": 56.8247916,
+      "r0ru-southwest-national-park-the-last-country-on-the-map.mp3": 63.866,
+      "r0ru-southwest-national-park-the-lake-that-was-lost.mp3": 56.7393333,
+      "r0ru-southwest-national-park-where-the-parrots-still-fly.mp3": 69.326625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

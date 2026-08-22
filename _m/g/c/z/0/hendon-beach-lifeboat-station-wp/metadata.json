@@ -53,5 +53,22 @@
     "sourceGeohash4": "gcz0"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcz0-hendon-beach-lifeboat-station-flight-context.mp3",
+      "gcz0-hendon-beach-lifeboat-station-intro.mp3",
+      "gcz0-hendon-beach-lifeboat-station-a-coxswains-warning-ignored.mp3",
+      "gcz0-hendon-beach-lifeboat-station-the-boathouse-on-halfway-house-lane.mp3",
+      "gcz0-hendon-beach-lifeboat-station-one-service-then-silence.mp3"
+    ],
+    "durations": {
+      "gcz0-hendon-beach-lifeboat-station-flight-context.mp3": 53.7384166,
+      "gcz0-hendon-beach-lifeboat-station-intro.mp3": 37.4291666,
+      "gcz0-hendon-beach-lifeboat-station-a-coxswains-warning-ignored.mp3": 51.1027083,
+      "gcz0-hendon-beach-lifeboat-station-the-boathouse-on-halfway-house-lane.mp3": 48.8989583,
+      "gcz0-hendon-beach-lifeboat-station-one-service-then-silence.mp3": 58.3799583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -85,5 +85,24 @@
     "_m/s/w/b/f/chalcis-wp/castle-of-chalcis.jpg",
     "_m/s/w/b/f/chalcis-wp/bridge-of-chalcis-euboea-3.jpg"
   ],
-  "updatedAt": "2026-06-24T17:05:30.985Z"
+  "updatedAt": "2026-06-24T17:05:30.985Z",
+  "narration": {
+    "files": [
+      "swbf-chalcis-flight-context.mp3",
+      "swbf-chalcis-intro.mp3",
+      "swbf-chalcis-the-sea-that-changes-its-mind.mp3",
+      "swbf-chalcis-forge-of-colonists.mp3",
+      "swbf-chalcis-negroponte-and-the-long-contest.mp3",
+      "swbf-chalcis-bridges-over-the-riddle.mp3"
+    ],
+    "durations": {
+      "swbf-chalcis-flight-context.mp3": 43.454875,
+      "swbf-chalcis-intro.mp3": 56.004,
+      "swbf-chalcis-the-sea-that-changes-its-mind.mp3": 52.3133333,
+      "swbf-chalcis-forge-of-colonists.mp3": 50.8198333,
+      "swbf-chalcis-negroponte-and-the-long-contest.mp3": 53.9999583,
+      "swbf-chalcis-bridges-over-the-riddle.mp3": 51.86675
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

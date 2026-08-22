@@ -284,5 +284,24 @@
     "_m/s/b/d/9/chalbi-desert-wp/chalbi-desert.jpg",
     "_m/s/b/d/9/chalbi-desert-wp/expedition-kenya-2025.jpg"
   ],
-  "updatedAt": "2026-06-28T18:42:38.183Z"
+  "updatedAt": "2026-06-28T18:42:38.183Z",
+  "narration": {
+    "files": [
+      "sbd9-chalbi-desert-flight-context.mp3",
+      "sbd9-chalbi-desert-intro.mp3",
+      "sbd9-chalbi-desert-the-lake-that-left.mp3",
+      "sbd9-chalbi-desert-rain-in-a-rain-shadow.mp3",
+      "sbd9-chalbi-desert-life-at-the-margins.mp3",
+      "sbd9-chalbi-desert-the-gabbra-and-the-long-walk.mp3"
+    ],
+    "durations": {
+      "sbd9-chalbi-desert-flight-context.mp3": 55.6084583,
+      "sbd9-chalbi-desert-intro.mp3": 52.5297916,
+      "sbd9-chalbi-desert-the-lake-that-left.mp3": 57.0645,
+      "sbd9-chalbi-desert-rain-in-a-rain-shadow.mp3": 54.0346666,
+      "sbd9-chalbi-desert-life-at-the-margins.mp3": 53.2265,
+      "sbd9-chalbi-desert-the-gabbra-and-the-long-walk.mp3": 54.1230416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

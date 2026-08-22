@@ -650,7 +650,20 @@
             "aerialBonus": 30
           }
         }
-      ]
+      ],
+      "narration": [
+        "_m/s/w/f/x/lesbos-wp/swfx-lesbos-flight-context.mp3",
+        "_m/s/w/f/x/lesbos-wp/swfx-lesbos-intro.mp3",
+        "_m/s/w/f/x/lesbos-wp/swfx-lesbos-the-island-of-the-poets.mp3",
+        "_m/s/w/f/x/lesbos-wp/swfx-lesbos-castles-lords-and-empires.mp3",
+        "_m/s/w/f/x/lesbos-wp/swfx-lesbos-stone-trees-and-hot-springs.mp3",
+        "_m/s/w/f/x/lesbos-wp/swfx-lesbos-olive-oil-and-ouzo.mp3",
+        "_m/s/w/f/x/lesbos-wp/swfx-lesbos-the-frontline-of-a-crisis.mp3"
+      ],
+      "combinedNarration": "_m/s/w/f/x/lesbos-wp/swfx-lesbos-combined.mp3",
+      "combinedNarrationBytes": 5096627,
+      "combinedNarrationDuration": 412,
+      "combinedCover": "_m/s/w/f/x/lesbos-wp/swfx-lesbos-combined-cover.jpg"
     }
   }
 }

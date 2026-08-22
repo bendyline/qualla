@@ -61,5 +61,22 @@
     "sourceGeohash4": "gfhg"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gfhg-battle-of-dalnaspidal-flight-context.mp3",
+      "gfhg-battle-of-dalnaspidal-intro.mp3",
+      "gfhg-battle-of-dalnaspidal-the-glencairn-rising.mp3",
+      "gfhg-battle-of-dalnaspidal-the-ambush-at-loch-garry.mp3",
+      "gfhg-battle-of-dalnaspidal-aftermath-and-pardon.mp3"
+    ],
+    "durations": {
+      "gfhg-battle-of-dalnaspidal-flight-context.mp3": 71.2455,
+      "gfhg-battle-of-dalnaspidal-intro.mp3": 54.906125,
+      "gfhg-battle-of-dalnaspidal-the-glencairn-rising.mp3": 75.854375,
+      "gfhg-battle-of-dalnaspidal-the-ambush-at-loch-garry.mp3": 74.84275,
+      "gfhg-battle-of-dalnaspidal-aftermath-and-pardon.mp3": 74.8805416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

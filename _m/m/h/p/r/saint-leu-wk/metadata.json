@@ -104,5 +104,24 @@
   ],
   "galleryPaths": [
     "_m/m/h/p/r/saint-leu-wk/vue-du-port-de-saint-l.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "mhpr-saint-leu-flight-context.mp3",
+      "mhpr-saint-leu-intro.mp3",
+      "mhpr-saint-leu-the-revolt-of-1811.mp3",
+      "mhpr-saint-leu-a-promise-carved-into-the-hillside.mp3",
+      "mhpr-saint-leu-coffee-salt-and-sea-turtles.mp3",
+      "mhpr-saint-leu-living-on-the-leeward-side.mp3"
+    ],
+    "durations": {
+      "mhpr-saint-leu-flight-context.mp3": 48.2340416,
+      "mhpr-saint-leu-intro.mp3": 35.4954166,
+      "mhpr-saint-leu-the-revolt-of-1811.mp3": 64.5534166,
+      "mhpr-saint-leu-a-promise-carved-into-the-hillside.mp3": 51.5288333,
+      "mhpr-saint-leu-coffee-salt-and-sea-turtles.mp3": 42.69625,
+      "mhpr-saint-leu-living-on-the-leeward-side.mp3": 39.325
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

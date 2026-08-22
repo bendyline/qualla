@@ -62,5 +62,24 @@
     "sourceGeohash4": "mhpr"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "mhpr-grand-raid-flight-context.mp3",
+      "mhpr-grand-raid-intro.mp3",
+      "mhpr-grand-raid-the-numbers-that-break-people.mp3",
+      "mhpr-grand-raid-a-cross-section-of-the-island.mp3",
+      "mhpr-grand-raid-from-a-mountain-walk-to-a-myth.mp3",
+      "mhpr-grand-raid-the-cost-of-the-mountains.mp3"
+    ],
+    "durations": {
+      "mhpr-grand-raid-flight-context.mp3": 59.2918333,
+      "mhpr-grand-raid-intro.mp3": 38.627125,
+      "mhpr-grand-raid-the-numbers-that-break-people.mp3": 46.4980833,
+      "mhpr-grand-raid-a-cross-section-of-the-island.mp3": 51.6604166,
+      "mhpr-grand-raid-from-a-mountain-walk-to-a-myth.mp3": 34.5793333,
+      "mhpr-grand-raid-the-cost-of-the-mountains.mp3": 42.909125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

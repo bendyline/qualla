@@ -83,5 +83,24 @@
   "galleryPaths": [
     "_m/w/s/0/e/tianzi-wharf-wp/tianzimatou.jpg"
   ],
-  "updatedAt": "2026-06-29T15:44:41.547Z"
+  "updatedAt": "2026-06-29T15:44:41.547Z",
+  "narration": {
+    "files": [
+      "ws0e-tianzi-wharf-flight-context.mp3",
+      "ws0e-tianzi-wharf-intro.mp3",
+      "ws0e-tianzi-wharf-reserved-for-the-emperors-men.mp3",
+      "ws0e-tianzi-wharf-a-revolutionarys-last-boat.mp3",
+      "ws0e-tianzi-wharf-the-pearl-river-at-night.mp3",
+      "ws0e-tianzi-wharf-stone-and-memory-at-beijing-road.mp3"
+    ],
+    "durations": {
+      "ws0e-tianzi-wharf-flight-context.mp3": 57.3279583,
+      "ws0e-tianzi-wharf-intro.mp3": 35.2935,
+      "ws0e-tianzi-wharf-reserved-for-the-emperors-men.mp3": 91.522625,
+      "ws0e-tianzi-wharf-a-revolutionarys-last-boat.mp3": 55.503625,
+      "ws0e-tianzi-wharf-the-pearl-river-at-night.mp3": 60.2310833,
+      "ws0e-tianzi-wharf-stone-and-memory-at-beijing-road.mp3": 60.0671666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

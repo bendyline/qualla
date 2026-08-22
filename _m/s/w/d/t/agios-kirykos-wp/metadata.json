@@ -280,5 +280,24 @@
     "_m/s/w/d/t/agios-kirykos-wp/ikari-agios-kirykos.jpg",
     "_m/s/w/d/t/agios-kirykos-wp/statue-of-ioannis-malahias-in--1.jpg"
   ],
-  "updatedAt": "2026-06-24T22:33:53.609Z"
+  "updatedAt": "2026-06-24T22:33:53.609Z",
+  "narration": {
+    "files": [
+      "swdt-agios-kirykos-flight-context.mp3",
+      "swdt-agios-kirykos-intro.mp3",
+      "swdt-agios-kirykos-capital-of-ikaria.mp3",
+      "swdt-agios-kirykos-the-radioactive-waters.mp3",
+      "swdt-agios-kirykos-two-faces-of-the-sea.mp3",
+      "swdt-agios-kirykos-late-nights-and-long-history.mp3"
+    ],
+    "durations": {
+      "swdt-agios-kirykos-flight-context.mp3": 48.1076666,
+      "swdt-agios-kirykos-intro.mp3": 35.6655,
+      "swdt-agios-kirykos-capital-of-ikaria.mp3": 44.7748333,
+      "swdt-agios-kirykos-the-radioactive-waters.mp3": 43.2035416,
+      "swdt-agios-kirykos-two-faces-of-the-sea.mp3": 46.5729583,
+      "swdt-agios-kirykos-late-nights-and-long-history.mp3": 49.2485833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

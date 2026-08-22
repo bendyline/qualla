@@ -234,5 +234,24 @@
     "_m/q/e/8/t/quobba-wp/at-sea-off-red-bluff-western-a.jpg",
     "_m/q/e/8/t/quobba-wp/the-red-bluff-knoll.jpg"
   ],
-  "updatedAt": "2026-06-27T23:07:38.416Z"
+  "updatedAt": "2026-06-27T23:07:38.416Z",
+  "narration": {
+    "files": [
+      "qe8t-quobba-flight-context.mp3",
+      "qe8t-quobba-intro.mp3",
+      "qe8t-quobba-where-the-ocean-breathes.mp3",
+      "qe8t-quobba-the-most-westerly-run.mp3",
+      "qe8t-quobba-when-the-war-washed-ashore.mp3",
+      "qe8t-quobba-surf-sharks-and-self-reliance.mp3"
+    ],
+    "durations": {
+      "qe8t-quobba-flight-context.mp3": 53.9416666,
+      "qe8t-quobba-intro.mp3": 33.7085,
+      "qe8t-quobba-where-the-ocean-breathes.mp3": 58.6654166,
+      "qe8t-quobba-the-most-westerly-run.mp3": 56.4390416,
+      "qe8t-quobba-when-the-war-washed-ashore.mp3": 70.7645833,
+      "qe8t-quobba-surf-sharks-and-self-reliance.mp3": 46.5664583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

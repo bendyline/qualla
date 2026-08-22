@@ -348,5 +348,24 @@
     "_m/w/e/c/q/basalt-island-wp/high-island-hong-kong-southwes-1.jpg",
     "_m/w/e/c/q/basalt-island-wp/clear-water-bay-park-510628801.jpg"
   ],
-  "updatedAt": "2026-06-29T12:14:57.240Z"
+  "updatedAt": "2026-06-29T12:14:57.240Z",
+  "narration": {
+    "files": [
+      "wecq-basalt-island-flight-context.mp3",
+      "wecq-basalt-island-intro.mp3",
+      "wecq-basalt-island-a-name-that-doesnt-fit.mp3",
+      "wecq-basalt-island-flight-xt-104.mp3",
+      "wecq-basalt-island-lives-cut-short.mp3",
+      "wecq-basalt-island-the-geopark-world.mp3"
+    ],
+    "durations": {
+      "wecq-basalt-island-flight-context.mp3": 65.3272083,
+      "wecq-basalt-island-intro.mp3": 37.6402916,
+      "wecq-basalt-island-a-name-that-doesnt-fit.mp3": 65.6217916,
+      "wecq-basalt-island-flight-xt-104.mp3": 63.8195,
+      "wecq-basalt-island-lives-cut-short.mp3": 53.83625,
+      "wecq-basalt-island-the-geopark-world.mp3": 57.6400833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -1,6 +1,6 @@
 # Outeniqua Transport Museum
 
-A railway museum in George, South Africa, where locomotives dating to 1889 share space with a coach that once sat at the center of the Victoria Falls Bridge during Rhodesian peace talks.
+A railway museum in George, South Africa, where locomotives dating to 1889 share space with a coach that once sat at the center of the Victoria Falls Bridge during Rhodesian (now Zimbabwe) peace talks.
 
 **Location:** -33.9632, 22.4744
 

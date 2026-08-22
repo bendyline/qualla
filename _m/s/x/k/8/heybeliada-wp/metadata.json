@@ -574,5 +574,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk8-heybeliada-flight-context.mp3",
+      "sxk8-heybeliada-intro.mp3",
+      "sxk8-heybeliada-copper-conquest-and-the-long-byzantine-inheritance.mp3",
+      "sxk8-heybeliada-a-navy-a-band-and-the-rhythms-of-island-life.mp3",
+      "sxk8-heybeliada-the-seminary-that-history-cannot-quite-settle.mp3",
+      "sxk8-heybeliada-writers-presidents-and-a-congregation-of-notable-r.mp3",
+      "sxk8-heybeliada-an-island-that-wears-its-layers-lightly.mp3"
+    ],
+    "durations": {
+      "sxk8-heybeliada-flight-context.mp3": 71.195,
+      "sxk8-heybeliada-intro.mp3": 48.4553333,
+      "sxk8-heybeliada-copper-conquest-and-the-long-byzantine-inheritance.mp3": 72.8634166,
+      "sxk8-heybeliada-a-navy-a-band-and-the-rhythms-of-island-life.mp3": 63.1174583,
+      "sxk8-heybeliada-the-seminary-that-history-cannot-quite-settle.mp3": 87.0075416,
+      "sxk8-heybeliada-writers-presidents-and-a-congregation-of-notable-r.mp3": 64.6750416,
+      "sxk8-heybeliada-an-island-that-wears-its-layers-lightly.mp3": 61.1451666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

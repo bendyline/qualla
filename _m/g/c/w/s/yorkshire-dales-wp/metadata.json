@@ -149,5 +149,24 @@
     "_m/g/c/w/s/yorkshire-dales-wp/clapham-village.jpg",
     "_m/g/c/w/s/yorkshire-dales-wp/keld-bunk-barn-and-yurts-geogr.jpg"
   ],
-  "updatedAt": "2026-06-23T08:13:33.581Z"
+  "updatedAt": "2026-06-23T08:13:33.581Z",
+  "narration": {
+    "files": [
+      "gcws-yorkshire-dales-flight-context.mp3",
+      "gcws-yorkshire-dales-intro.mp3",
+      "gcws-yorkshire-dales-seven-rivers-one-limestone.mp3",
+      "gcws-yorkshire-dales-the-lay-of-the-valleys.mp3",
+      "gcws-yorkshire-dales-walls-sheep-and-smoke.mp3",
+      "gcws-yorkshire-dales-the-dales-today.mp3"
+    ],
+    "durations": {
+      "gcws-yorkshire-dales-flight-context.mp3": 54.9145,
+      "gcws-yorkshire-dales-intro.mp3": 43.95275,
+      "gcws-yorkshire-dales-seven-rivers-one-limestone.mp3": 62.6137916,
+      "gcws-yorkshire-dales-the-lay-of-the-valleys.mp3": 71.7505,
+      "gcws-yorkshire-dales-walls-sheep-and-smoke.mp3": 68.6029166,
+      "gcws-yorkshire-dales-the-dales-today.mp3": 68.2901666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

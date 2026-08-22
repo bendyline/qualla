@@ -87,5 +87,24 @@
   ],
   "galleryPaths": [
     "_m/s/w/8/j/argos-wk/burg-argos.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sw8j-argos-flight-context.mp3",
+      "sw8j-argos-intro.mp3",
+      "sw8j-argos-the-plain-and-the-citadel.mp3",
+      "sw8j-argos-layers-of-living-history.mp3",
+      "sw8j-argos-life-in-the-squares.mp3",
+      "sw8j-argos-nearest-neighbours-oldest-rivals.mp3"
+    ],
+    "durations": {
+      "sw8j-argos-flight-context.mp3": 63.884875,
+      "sw8j-argos-intro.mp3": 43.9665416,
+      "sw8j-argos-the-plain-and-the-citadel.mp3": 58.430625,
+      "sw8j-argos-layers-of-living-history.mp3": 64.6480833,
+      "sw8j-argos-life-in-the-squares.mp3": 57.6638333,
+      "sw8j-argos-nearest-neighbours-oldest-rivals.mp3": 65.714125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

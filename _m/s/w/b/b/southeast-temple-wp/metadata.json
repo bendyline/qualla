@@ -222,5 +222,24 @@
     "_m/s/w/b/b/southeast-temple-wp/fragmentary-cult-statu.jpg",
     "_m/s/w/b/b/southeast-temple-wp/base-cult-statue-south.jpg",
     "_m/s/w/b/b/southeast-temple-wp/ionic-capital-made-tem.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swbb-southeast-temple-flight-context.mp3",
+      "swbb-southeast-temple-intro.mp3",
+      "swbb-southeast-temple-temples-that-traveled.mp3",
+      "swbb-southeast-temple-commanding-the-sacred-road.mp3",
+      "swbb-southeast-temple-the-colossal-figure-inside.mp3",
+      "swbb-southeast-temple-sacked-and-salvaged-once-more.mp3"
+    ],
+    "durations": {
+      "swbb-southeast-temple-flight-context.mp3": 51.8943333,
+      "swbb-southeast-temple-intro.mp3": 53.8097916,
+      "swbb-southeast-temple-temples-that-traveled.mp3": 51.0822916,
+      "swbb-southeast-temple-commanding-the-sacred-road.mp3": 57.587125,
+      "swbb-southeast-temple-the-colossal-figure-inside.mp3": 59.2642083,
+      "swbb-southeast-temple-sacked-and-salvaged-once-more.mp3": 61.7679166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

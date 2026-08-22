@@ -625,5 +625,24 @@
     "_m/s/w/c/2/karystos-wp/7745.jpg",
     "_m/s/w/c/2/karystos-wp/7768.jpg"
   ],
-  "updatedAt": "2026-06-24T21:48:07.012Z"
+  "updatedAt": "2026-06-24T21:48:07.012Z",
+  "narration": {
+    "files": [
+      "swc2-karystos-flight-context.mp3",
+      "swc2-karystos-intro.mp3",
+      "swc2-karystos-the-emperors-green-marble.mp3",
+      "swc2-karystos-the-red-castle-on-the-hill.mp3",
+      "swc2-karystos-houses-built-for-dragons.mp3",
+      "swc2-karystos-a-town-of-quiet-layers.mp3"
+    ],
+    "durations": {
+      "swc2-karystos-flight-context.mp3": 46.0745,
+      "swc2-karystos-intro.mp3": 36.96125,
+      "swc2-karystos-the-emperors-green-marble.mp3": 61.21575,
+      "swc2-karystos-the-red-castle-on-the-hill.mp3": 57.1188333,
+      "swc2-karystos-houses-built-for-dragons.mp3": 58.9606666,
+      "swc2-karystos-a-town-of-quiet-layers.mp3": 51.4701666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

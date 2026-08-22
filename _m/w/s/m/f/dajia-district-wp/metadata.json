@@ -605,5 +605,24 @@
     "_m/w/s/m/f/dajia-district-wp/old-building-in-dajia-02.jpg",
     "_m/w/s/m/f/dajia-district-wp/street-in-dajia-03.jpg"
   ],
-  "updatedAt": "2026-06-29T21:24:54.475Z"
+  "updatedAt": "2026-06-29T21:24:54.475Z",
+  "narration": {
+    "files": [
+      "wsmf-dajia-district-flight-context.mp3",
+      "wsmf-dajia-district-intro.mp3",
+      "wsmf-dajia-district-before-the-han-arrived.mp3",
+      "wsmf-dajia-district-the-great-pilgrimage.mp3",
+      "wsmf-dajia-district-what-else-dajia-makes.mp3",
+      "wsmf-dajia-district-the-town-itself.mp3"
+    ],
+    "durations": {
+      "wsmf-dajia-district-flight-context.mp3": 55.0815833,
+      "wsmf-dajia-district-intro.mp3": 49.7734583,
+      "wsmf-dajia-district-before-the-han-arrived.mp3": 64.3247916,
+      "wsmf-dajia-district-the-great-pilgrimage.mp3": 80.0968333,
+      "wsmf-dajia-district-what-else-dajia-makes.mp3": 62.3909583,
+      "wsmf-dajia-district-the-town-itself.mp3": 66.6939166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

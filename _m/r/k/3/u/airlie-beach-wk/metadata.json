@@ -92,5 +92,24 @@
   ],
   "galleryPaths": [
     "_m/r/k/3/e/proserpine-wk/hero.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "rk3u-airlie-beach-flight-context.mp3",
+      "rk3u-airlie-beach-intro.mp3",
+      "rk3u-airlie-beach-the-gateway.mp3",
+      "rk3u-airlie-beach-backpacker-boomtown.mp3",
+      "rk3u-airlie-beach-cast-off.mp3",
+      "rk3u-airlie-beach-up-to-the-lookout.mp3"
+    ],
+    "durations": {
+      "rk3u-airlie-beach-flight-context.mp3": 59.195125,
+      "rk3u-airlie-beach-intro.mp3": 47.960625,
+      "rk3u-airlie-beach-the-gateway.mp3": 42.9085,
+      "rk3u-airlie-beach-backpacker-boomtown.mp3": 45.209625,
+      "rk3u-airlie-beach-cast-off.mp3": 51.5234583,
+      "rk3u-airlie-beach-up-to-the-lookout.mp3": 42.4801666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

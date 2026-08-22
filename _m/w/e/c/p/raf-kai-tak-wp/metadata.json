@@ -122,5 +122,26 @@
   "galleryPaths": [
     "_m/w/e/c/p/raf-kai-tak-wp/royal-air-force-westla.jpg",
     "_m/w/e/c/p/raf-kai-tak-wp/caritas-family-crisis.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecp-raf-kai-tak-flight-context.mp3",
+      "wecp-raf-kai-tak-intro.mp3",
+      "wecp-raf-kai-tak-seaplanes-and-the-garrison-mentality.mp3",
+      "wecp-raf-kai-tak-after-the-war-monabs-dakotas-flying-boats.mp3",
+      "wecp-raf-kai-tak-the-long-twilight.mp3",
+      "wecp-raf-kai-tak-what-the-buildings-remember.mp3",
+      "wecp-raf-kai-tak-the-airport-that-swallowed-the-station.mp3"
+    ],
+    "durations": {
+      "wecp-raf-kai-tak-flight-context.mp3": 65.982125,
+      "wecp-raf-kai-tak-intro.mp3": 46.495125,
+      "wecp-raf-kai-tak-seaplanes-and-the-garrison-mentality.mp3": 51.59625,
+      "wecp-raf-kai-tak-after-the-war-monabs-dakotas-flying-boats.mp3": 71.0614583,
+      "wecp-raf-kai-tak-the-long-twilight.mp3": 60.365,
+      "wecp-raf-kai-tak-what-the-buildings-remember.mp3": 68.3716666,
+      "wecp-raf-kai-tak-the-airport-that-swallowed-the-station.mp3": 60.8827916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

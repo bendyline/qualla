@@ -511,5 +511,24 @@
     "_m/w/s/q/q/evergreen-maritime-museum-wp/5997.jpg",
     "_m/w/s/q/q/evergreen-maritime-museum-wp/evergreen-maritime-museum-dec2.jpg"
   ],
-  "updatedAt": "2026-06-29T23:08:09.346Z"
+  "updatedAt": "2026-06-29T23:08:09.346Z",
+  "narration": {
+    "files": [
+      "wsqq-evergreen-maritime-museum-flight-context.mp3",
+      "wsqq-evergreen-maritime-museum-intro.mp3",
+      "wsqq-evergreen-maritime-museum-the-art-of-the-scale-model.mp3",
+      "wsqq-evergreen-maritime-museum-taiwan-and-the-sea.mp3",
+      "wsqq-evergreen-maritime-museum-the-titanic-section.mp3",
+      "wsqq-evergreen-maritime-museum-built-for-exploration.mp3"
+    ],
+    "durations": {
+      "wsqq-evergreen-maritime-museum-flight-context.mp3": 53.3745,
+      "wsqq-evergreen-maritime-museum-intro.mp3": 52.0158333,
+      "wsqq-evergreen-maritime-museum-the-art-of-the-scale-model.mp3": 67.2161666,
+      "wsqq-evergreen-maritime-museum-taiwan-and-the-sea.mp3": 49.409625,
+      "wsqq-evergreen-maritime-museum-the-titanic-section.mp3": 54.033375,
+      "wsqq-evergreen-maritime-museum-built-for-exploration.mp3": 59.276875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -20,7 +20,7 @@ At Sokol Air Base on Sakhalin, Major Gennadi Osipovich received orders to pursue
 
 ## A Cold War Flashpoint
 
-General Secretary Yuri Andropov's government initially denied any involvement, reporting only that an unidentified aircraft had been intercepted and continued flying toward the Sea of Japan. President Reagan called the shootdown a "crime against humanity" and the "Korean airline massacre." At the United Nations, U.S. Ambassador Jeane Kirkpatrick played audio recordings of the Soviet pilots' radio transmissions -- an unprecedented disclosure of intelligence capabilities that reduced the effectiveness of American monitoring of Soviet communications by sixty percent. The Soviet Union blocked a UN resolution condemning the attack and blamed the CIA for a "criminal, provocative act." The incident galvanized Western support for deploying Pershing II missiles in Europe and deepened the paranoia that would culminate in the nuclear false alarm of September 26, 1983, just three weeks later.
+General Secretary Yuri Andropov's government initially denied any involvement, reporting only that an unidentified aircraft had been intercepted and continued flying toward the Sea of Japan. President Reagan called the shootdown a "crime against humanity" and the "Korean airline massacre." At the United Nations, U.S. Ambassador Jeane Kirkpatrick played audio recordings of the Soviet pilots' radio transmissions -- an unprecedented disclosure of intelligence capabilities that reduced the effectiveness of American monitoring of Soviet communications by sixty percent. The Soviet Union blocked a UN resolution condemning the attack and blamed US intelligence services, casting the flight as a deliberate espionage provocation staged by the United States. The incident galvanized Western support for deploying Pershing II missiles in Europe and deepened the paranoia that would culminate in the nuclear false alarm of September 26, 1983, just three weeks later.
 
 ## Secrets from the Seabed
 
@@ -45,6 +45,9 @@ Located at 46.57°N, 141.28°E, near Moneron Island off the southwest coast of S
   - Soviet government recovered flight data recorder and cockpit voice recorder by October 1983, disclosed by Yeltsin in 1992
   - GPS opened to civilian aviation as a direct result of this incident
   - Flight number 007 permanently retired by Korean Air
+- [Review — 2026-07-13](https://nsarchive.gwu.edu/briefing-book/aa83/2018-11-05/soviet-side-1983-war-scare)
+  - Reagan's 'crime against humanity' and 'Korean airline massacre' confirmed verbatim in his September 5, 1983 Address to the Nation (UCSB American Presidency Project transcript)
+  - Replaced the unverifiable verbatim quote 'criminal, provocative act' attributed to the USSR blaming the CIA with indirect speech: Soviet statements blamed US special/intelligence services for an espionage 'provocation' (Politburo memo, TASS Sept 12, Andropov Sept 28 1983); no source supports the exact quoted phrase or attribution specifically to the CIA
 
 ## Review Notes
 
@@ -57,7 +60,7 @@ All key facts confirmed: 269 killed, September 1 1983 shootdown, Major Gennadi O
 **Strong opinions:**
 
 - Reagan called it a 'crime against humanity' and 'Korean airline massacre'
-- Soviet Union blocked UN resolution and blamed CIA for 'criminal, provocative act'
+- Soviet Union blocked UN resolution and blamed US intelligence services for staging a deliberate espionage provocation
 
 ---
 

@@ -33,6 +33,19 @@ Antsiranana (Diego Suarez) sits at the far northern tip of Madagascar at approxi
 ## Sources
 
 - [Antsiranana - Wikivoyage](https://en.wikivoyage.org/?curid=163293)
+- [Battle of Madagascar - Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Madagascar)
+  - Bay of Antsiranana widely cited as the world's second-largest natural harbour after Rio de Janeiro, ~250 sq km
+  - Operation Ironclad: British amphibious assault seized Diego-Suarez from Vichy French forces beginning 5 May 1942, first major Allied amphibious landing of WWII
+  - Antsiranana is the fifth-largest city in Madagascar, population ~115,000
+  - Road distance from Antananarivo to Antsiranana approximately 1,108 km
+
+## Review Notes
+
+**Reviewed:** 2026-07-14 · 4 facts verified · 0 corrections
+
+Verified bay's status as world's second-largest natural harbour, Operation Ironclad (May 1942), city's rank/population (5th-largest, ~115,000), and road distance to Antananarivo (1,108 km). All facts accurate. Spiciness 1.
+
+**Spiciness:** 1/5
 
 ---
 

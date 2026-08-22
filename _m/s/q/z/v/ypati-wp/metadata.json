@@ -242,5 +242,24 @@
     "_m/s/q/z/u/mount-oeta-wp/ancient-akropolis-hypa.jpg",
     "_m/s/q/z/v/ypati-wp/ypati-banner.jpg"
   ],
-  "updatedAt": "2026-06-24T12:50:00.341Z"
+  "updatedAt": "2026-06-24T12:50:00.341Z",
+  "narration": {
+    "files": [
+      "sqzv-ypati-flight-context.mp3",
+      "sqzv-ypati-intro.mp3",
+      "sqzv-ypati-from-city-state-to-the-edges-of-empire.mp3",
+      "sqzv-ypati-the-witches-of-hypata.mp3",
+      "sqzv-ypati-castle-church-and-centuries-of-siege.mp3",
+      "sqzv-ypati-living-on-the-mountains-hem.mp3"
+    ],
+    "durations": {
+      "sqzv-ypati-flight-context.mp3": 50.503375,
+      "sqzv-ypati-intro.mp3": 46.586875,
+      "sqzv-ypati-from-city-state-to-the-edges-of-empire.mp3": 67.2920416,
+      "sqzv-ypati-the-witches-of-hypata.mp3": 66.527625,
+      "sqzv-ypati-castle-church-and-centuries-of-siege.mp3": 81.372125,
+      "sqzv-ypati-living-on-the-mountains-hem.mp3": 73.4630416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

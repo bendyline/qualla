@@ -59,5 +59,24 @@
     "sourceGeohash4": "sqyx"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sqyx-cichyrus-flight-context.mp3",
+      "sqyx-cichyrus-intro.mp3",
+      "sqyx-cichyrus-a-city-with-two-names.mp3",
+      "sqyx-cichyrus-the-oracle-of-the-dead.mp3",
+      "sqyx-cichyrus-bronze-age-to-hellenistic-period.mp3",
+      "sqyx-cichyrus-the-myths-the-city-collected.mp3"
+    ],
+    "durations": {
+      "sqyx-cichyrus-flight-context.mp3": 61.1665416,
+      "sqyx-cichyrus-intro.mp3": 41.9914583,
+      "sqyx-cichyrus-a-city-with-two-names.mp3": 64.1963333,
+      "sqyx-cichyrus-the-oracle-of-the-dead.mp3": 65.4781666,
+      "sqyx-cichyrus-bronze-age-to-hellenistic-period.mp3": 62.1642916,
+      "sqyx-cichyrus-the-myths-the-city-collected.mp3": 65.7684166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

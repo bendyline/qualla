@@ -557,5 +557,24 @@
     "_m/g/c/w/d/ilkley-moor-wp/cairn-1-3932592930.jpg",
     "_m/g/c/w/d/ilkley-moor-wp/cairn-2-3932589446.jpg"
   ],
-  "updatedAt": "2026-06-23T08:01:35.110Z"
+  "updatedAt": "2026-06-23T08:01:35.110Z",
+  "narration": {
+    "files": [
+      "gcwd-ilkley-moor-flight-context.mp3",
+      "gcwd-ilkley-moor-intro.mp3",
+      "gcwd-ilkley-moor-how-a-moor-becomes-itself.mp3",
+      "gcwd-ilkley-moor-the-cow-and-calf.mp3",
+      "gcwd-ilkley-moor-the-carved-stones.mp3",
+      "gcwd-ilkley-moor-modern-stewardship.mp3"
+    ],
+    "durations": {
+      "gcwd-ilkley-moor-flight-context.mp3": 50.4508333,
+      "gcwd-ilkley-moor-intro.mp3": 45.160875,
+      "gcwd-ilkley-moor-how-a-moor-becomes-itself.mp3": 47.9272083,
+      "gcwd-ilkley-moor-the-cow-and-calf.mp3": 56.0789583,
+      "gcwd-ilkley-moor-the-carved-stones.mp3": 58.696375,
+      "gcwd-ilkley-moor-modern-stewardship.mp3": 59.92675
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

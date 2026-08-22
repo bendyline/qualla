@@ -667,5 +667,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r1r1-melbourne-cup-flight-context.mp3",
+      "r1r1-melbourne-cup-intro.mp3",
+      "r1r1-melbourne-cup-a-sydney-outsider-and-a-race-is-born.mp3",
+      "r1r1-melbourne-cup-briseis-phar-lap-and-the-mare-who-won-three.mp3",
+      "r1r1-melbourne-cup-fascinators-fortunes-and-the-whole-country-betting.mp3",
+      "r1r1-melbourne-cup-the-race-that-divides-a-nation.mp3",
+      "r1r1-melbourne-cup-three-minutes-that-still-hold-the-country.mp3"
+    ],
+    "durations": {
+      "r1r1-melbourne-cup-flight-context.mp3": 72.3568333,
+      "r1r1-melbourne-cup-intro.mp3": 51.1819583,
+      "r1r1-melbourne-cup-a-sydney-outsider-and-a-race-is-born.mp3": 52.15825,
+      "r1r1-melbourne-cup-briseis-phar-lap-and-the-mare-who-won-three.mp3": 55.37125,
+      "r1r1-melbourne-cup-fascinators-fortunes-and-the-whole-country-betting.mp3": 53.3489166,
+      "r1r1-melbourne-cup-the-race-that-divides-a-nation.mp3": 62.8869166,
+      "r1r1-melbourne-cup-three-minutes-that-still-hold-the-country.mp3": 50.177625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

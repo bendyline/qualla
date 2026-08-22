@@ -121,5 +121,24 @@
   "galleryPaths": [
     "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png",
     "_m/r/n/j/5/green-hill-fort-wp/hero.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "rjv0-raaf-base-scherger-flight-context.mp3",
+      "rjv0-raaf-base-scherger-intro.mp3",
+      "rjv0-raaf-base-scherger-building-the-impossible.mp3",
+      "rjv0-raaf-base-scherger-a-base-that-waits.mp3",
+      "rjv0-raaf-base-scherger-guarding-the-northern-door.mp3",
+      "rjv0-raaf-base-scherger-an-unexpected-chapter.mp3"
+    ],
+    "durations": {
+      "rjv0-raaf-base-scherger-flight-context.mp3": 60.1994166,
+      "rjv0-raaf-base-scherger-intro.mp3": 50.834,
+      "rjv0-raaf-base-scherger-building-the-impossible.mp3": 53.1394166,
+      "rjv0-raaf-base-scherger-a-base-that-waits.mp3": 47.4130833,
+      "rjv0-raaf-base-scherger-guarding-the-northern-door.mp3": 60.4701666,
+      "rjv0-raaf-base-scherger-an-unexpected-chapter.mp3": 48.1329166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -61,5 +61,24 @@
     "sourceGeohash4": "gf5f"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gf5f-eden-2016-tv-series-flight-context.mp3",
+      "gf5f-eden-2016-tv-series-intro.mp3",
+      "gf5f-eden-2016-tv-series-the-setup.mp3",
+      "gf5f-eden-2016-tv-series-quietly-cancelled.mp3",
+      "gf5f-eden-2016-tv-series-paradise-lost.mp3",
+      "gf5f-eden-2016-tv-series-what-ardnamurchan-knew.mp3"
+    ],
+    "durations": {
+      "gf5f-eden-2016-tv-series-flight-context.mp3": 50.4945416,
+      "gf5f-eden-2016-tv-series-intro.mp3": 49.6492083,
+      "gf5f-eden-2016-tv-series-the-setup.mp3": 63.9304166,
+      "gf5f-eden-2016-tv-series-quietly-cancelled.mp3": 66.2120416,
+      "gf5f-eden-2016-tv-series-paradise-lost.mp3": 67.2939166,
+      "gf5f-eden-2016-tv-series-what-ardnamurchan-knew.mp3": 66.635125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

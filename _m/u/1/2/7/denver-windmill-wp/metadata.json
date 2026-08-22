@@ -501,5 +501,24 @@
     "_m/u/1/2/7/denver-windmill-wp/denver-mill-geograph-org-uk-30.jpg",
     "_m/u/1/2/7/denver-windmill-wp/bevel-gears-in-the-cap-of-denv.jpg"
   ],
-  "updatedAt": "2026-06-25T21:04:32.087Z"
+  "updatedAt": "2026-06-25T21:04:32.087Z",
+  "narration": {
+    "files": [
+      "u127-denver-windmill-flight-context.mp3",
+      "u127-denver-windmill-intro.mp3",
+      "u127-denver-windmill-built-for-john-porter.mp3",
+      "u127-denver-windmill-a-century-of-millers.mp3",
+      "u127-denver-windmill-a-million-pounds-to-grind-again.mp3",
+      "u127-denver-windmill-screen-time-and-stone-ground.mp3"
+    ],
+    "durations": {
+      "u127-denver-windmill-flight-context.mp3": 42.0865416,
+      "u127-denver-windmill-intro.mp3": 42.0095,
+      "u127-denver-windmill-built-for-john-porter.mp3": 49.0515416,
+      "u127-denver-windmill-a-century-of-millers.mp3": 61.6119166,
+      "u127-denver-windmill-a-million-pounds-to-grind-again.mp3": 58.238125,
+      "u127-denver-windmill-screen-time-and-stone-ground.mp3": 63.5262083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

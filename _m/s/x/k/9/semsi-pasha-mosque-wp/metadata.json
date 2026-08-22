@@ -818,5 +818,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-emsi-pasha-mosque-flight-context.mp3",
+      "sxk9-emsi-pasha-mosque-intro.mp3",
+      "sxk9-emsi-pasha-mosque-a-site-that-demanded-ingenuity.mp3",
+      "sxk9-emsi-pasha-mosque-the-mosque-and-the-tomb.mp3",
+      "sxk9-emsi-pasha-mosque-inside-the-prayer-hall.mp3",
+      "sxk9-emsi-pasha-mosque-sinans-gift-to-the-shoreline.mp3"
+    ],
+    "durations": {
+      "sxk9-emsi-pasha-mosque-flight-context.mp3": 52.4969166,
+      "sxk9-emsi-pasha-mosque-intro.mp3": 55.296625,
+      "sxk9-emsi-pasha-mosque-a-site-that-demanded-ingenuity.mp3": 67.1046666,
+      "sxk9-emsi-pasha-mosque-the-mosque-and-the-tomb.mp3": 69.9167083,
+      "sxk9-emsi-pasha-mosque-inside-the-prayer-hall.mp3": 65.1176666,
+      "sxk9-emsi-pasha-mosque-sinans-gift-to-the-shoreline.mp3": 80.282
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

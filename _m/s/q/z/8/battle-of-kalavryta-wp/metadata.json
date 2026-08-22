@@ -128,5 +128,26 @@
   "galleryPaths": [
     "_m/s/w/6/p/thera-eruption-wk/location-map-greece.jpg",
     "_m/s/q/z/8/agia-lavra-wp/agia-lavra-monastery-s.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sqz8-battle-of-kalavryta-flight-context.mp3",
+      "sqz8-battle-of-kalavryta-intro.mp3",
+      "sqz8-battle-of-kalavryta-a-town-worth-taking.mp3",
+      "sqz8-battle-of-kalavryta-a-plan-built-on-intelligence.mp3",
+      "sqz8-battle-of-kalavryta-thirty-hours-of-fighting.mp3",
+      "sqz8-battle-of-kalavryta-victory-and-its-limits.mp3",
+      "sqz8-battle-of-kalavryta-the-larger-war.mp3"
+    ],
+    "durations": {
+      "sqz8-battle-of-kalavryta-flight-context.mp3": 48.3012083,
+      "sqz8-battle-of-kalavryta-intro.mp3": 39.6336666,
+      "sqz8-battle-of-kalavryta-a-town-worth-taking.mp3": 59.6749166,
+      "sqz8-battle-of-kalavryta-a-plan-built-on-intelligence.mp3": 64.6578333,
+      "sqz8-battle-of-kalavryta-thirty-hours-of-fighting.mp3": 71.8115,
+      "sqz8-battle-of-kalavryta-victory-and-its-limits.mp3": 71.9055833,
+      "sqz8-battle-of-kalavryta-the-larger-war.mp3": 65.22775
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

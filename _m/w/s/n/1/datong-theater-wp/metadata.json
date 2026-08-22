@@ -141,5 +141,24 @@
     "_m/w/s/n/1/datong-theater-wp/category-1.jpg",
     "_m/w/s/n/1/datong-theater-wp/category-2.jpg"
   ],
-  "updatedAt": "2026-06-29T21:56:23.355Z"
+  "updatedAt": "2026-06-29T21:56:23.355Z",
+  "narration": {
+    "files": [
+      "wsn1-datong-theater-flight-context.mp3",
+      "wsn1-datong-theater-intro.mp3",
+      "wsn1-datong-theater-a-neighborhoods-living-room.mp3",
+      "wsn1-datong-theater-when-the-screens-went-dark-around-it.mp3",
+      "wsn1-datong-theater-the-night-of-17-august-2009.mp3",
+      "wsn1-datong-theater-what-the-theater-leaves-behind.mp3"
+    ],
+    "durations": {
+      "wsn1-datong-theater-flight-context.mp3": 52.0175,
+      "wsn1-datong-theater-intro.mp3": 35.231875,
+      "wsn1-datong-theater-a-neighborhoods-living-room.mp3": 51.4249166,
+      "wsn1-datong-theater-when-the-screens-went-dark-around-it.mp3": 57.0130416,
+      "wsn1-datong-theater-the-night-of-17-august-2009.mp3": 60.26325,
+      "wsn1-datong-theater-what-the-theater-leaves-behind.mp3": 56.52475
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

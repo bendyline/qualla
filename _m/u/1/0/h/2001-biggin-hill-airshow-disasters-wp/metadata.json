@@ -56,5 +56,24 @@
     "sourceGeohash4": "u10h"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "u10h-2001-biggin-hill-airshow-disasters-flight-context.mp3",
+      "u10h-2001-biggin-hill-airshow-disasters-intro.mp3",
+      "u10h-2001-biggin-hill-airshow-disasters-the-saturday-vampire.mp3",
+      "u10h-2001-biggin-hill-airshow-disasters-the-sunday-kingcobra.mp3",
+      "u10h-2001-biggin-hill-airshow-disasters-what-could-not-be-stopped.mp3",
+      "u10h-2001-biggin-hill-airshow-disasters-the-aftermath.mp3"
+    ],
+    "durations": {
+      "u10h-2001-biggin-hill-airshow-disasters-flight-context.mp3": 66.3155,
+      "u10h-2001-biggin-hill-airshow-disasters-intro.mp3": 42.5214166,
+      "u10h-2001-biggin-hill-airshow-disasters-the-saturday-vampire.mp3": 95.9201666,
+      "u10h-2001-biggin-hill-airshow-disasters-the-sunday-kingcobra.mp3": 77.4550833,
+      "u10h-2001-biggin-hill-airshow-disasters-what-could-not-be-stopped.mp3": 49.30125,
+      "u10h-2001-biggin-hill-airshow-disasters-the-aftermath.mp3": 87.0445833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

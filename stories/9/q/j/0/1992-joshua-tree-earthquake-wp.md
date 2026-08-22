@@ -28,11 +28,32 @@ The mountains where the 1992 Joshua Tree earthquake occurred frame the northern 
 
 ## Flight Context
 
-Located at 33.91°N, 116.49°W, beneath the Little San Bernardino Mountains near the town of Joshua Tree, California. From the air, the mountain range forms a visible barrier between the high Mojave Desert to the north and the Coachella Valley to the south. The Coachella Valley floor — with Palm Springs, Rancho Mirage, and the resort corridor — is visible to the south. Palm Springs International Airport (PSP) is approximately 20 miles to the southwest.
+Located at 33.91°N, 116.49°W, beneath the Little San Bernardino Mountains near the town of Joshua Tree, California. From the air, the mountain range forms a visible barrier between the high Mojave Desert to the north and the Coachella Valley to the south. The Coachella Valley floor — with Palm Springs, Rancho Mirage, and the resort corridor — is visible to the south. Palm Springs International Airport (PSP) is approximately 6 miles to the south.
 
 ## Sources
 
 - [1992 Joshua Tree earthquake - Wikipedia](https://en.wikipedia.org/?curid=72192495)
+- [1992 Joshua Tree earthquake - Wikipedia](https://en.wikipedia.org/?curid=72192495)
+  - Magnitude 6.2 Mw, April 22, 1992, 9:50:25 p.m. PDT
+  - Epicenter beneath the Little San Bernardino Mountains near Joshua Tree (33.91N, 116.49W)
+  - 32 people injured; minor bridge and school damage, supermarket damaged
+  - More than 6,000 aftershocks; largest aftershock magnitude 4.8
+  - Magnitude 4.6 foreshock roughly two hours before the mainshock
+  - Rupture ~20 km south of the Mount Pinto fault, previously unmapped fault
+- [The 1992 Landers Earthquake Sequence: Seismological Observations - Southern California Earthquake Center](https://www.scec.org/publication/54)
+  - Landers earthquake struck June 28, 1992, magnitude 7.3
+  - Big Bear earthquake, magnitude 6.5, struck the same day about three hours later
+  - Joshua Tree sequence recognized as linked precursor to the Landers rupture
+- [Palm Springs International Airport - Wikipedia](https://en.wikipedia.org/wiki/Palm_Springs_International_Airport)
+  - Corrected: PSP is approximately 6 miles south of the earthquake's stated coordinates, not 20 miles to the southwest (PSP at 33.8297N, 116.5067W)
+
+## Review Notes
+
+**Reviewed:** 2026-08-05 · 12 facts verified · 1 correction
+
+Verified date/magnitude/injuries/aftershocks/foreshock against Wikipedia infobox and USGS/SCEC; verified Landers/Big Bear follow-on quake magnitudes and timing; verified 'overdue' Coachella Valley segment claim against 2026 stress-study coverage. Corrected flightContext: PSP distance from epicenter was wrong (stated 20mi SW, actually ~6mi S per Haversine calc using confirmed PSP coords vs story's own stated epicenter coords). No empathy/dignity issues found. Spiciness 2 (mild).
+
+**Spiciness:** 2/5
 
 ---
 

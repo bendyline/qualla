@@ -51,5 +51,24 @@
     "sourceGeohash4": "wecp"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "wecp-sham-shui-po-barracks-flight-context.mp3",
+      "wecp-sham-shui-po-barracks-intro.mp3",
+      "wecp-sham-shui-po-barracks-garrison-years.mp3",
+      "wecp-sham-shui-po-barracks-the-prisoners.mp3",
+      "wecp-sham-shui-po-barracks-liberation-and-aftermath.mp3",
+      "wecp-sham-shui-po-barracks-what-remains.mp3"
+    ],
+    "durations": {
+      "wecp-sham-shui-po-barracks-flight-context.mp3": 60.9472916,
+      "wecp-sham-shui-po-barracks-intro.mp3": 38.5209166,
+      "wecp-sham-shui-po-barracks-garrison-years.mp3": 55.79475,
+      "wecp-sham-shui-po-barracks-the-prisoners.mp3": 89.3488333,
+      "wecp-sham-shui-po-barracks-liberation-and-aftermath.mp3": 65.5647916,
+      "wecp-sham-shui-po-barracks-what-remains.mp3": 58.1508333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -549,5 +549,24 @@
     "_m/g/c/x/3/howden-wp/blue-cedar-gardens-geograph-or.jpg",
     "_m/g/c/x/3/howden-wp/between-the-cemetery-and-the-m.jpg"
   ],
-  "updatedAt": "2026-06-23T11:12:13.280Z"
+  "updatedAt": "2026-06-23T11:12:13.280Z",
+  "narration": {
+    "files": [
+      "gcx3-howden-flight-context.mp3",
+      "gcx3-howden-intro.mp3",
+      "gcx3-howden-royal-connections.mp3",
+      "gcx3-howden-the-minsters-town.mp3",
+      "gcx3-howden-the-airship-years.mp3",
+      "gcx3-howden-what-came-after.mp3"
+    ],
+    "durations": {
+      "gcx3-howden-flight-context.mp3": 65.6563333,
+      "gcx3-howden-intro.mp3": 49.5472083,
+      "gcx3-howden-royal-connections.mp3": 59.2237083,
+      "gcx3-howden-the-minsters-town.mp3": 65.2195416,
+      "gcx3-howden-the-airship-years.mp3": 74.6379166,
+      "gcx3-howden-what-came-after.mp3": 81.3375416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

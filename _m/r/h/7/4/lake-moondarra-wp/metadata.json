@@ -104,5 +104,24 @@
   "galleryPaths": [
     "_m/r/n/j/5/green-hill-fort-wp/hero.jpg",
     "_m/r/h/7/4/lake-moondarra-wp/panorama-lake-moondarr.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "rh74-lake-moondarra-flight-context.mp3",
+      "rh74-lake-moondarra-intro.mp3",
+      "rh74-lake-moondarra-water-for-a-thirsty-city.mp3",
+      "rh74-lake-moondarra-older-than-the-dam.mp3",
+      "rh74-lake-moondarra-a-beach-in-the-desert.mp3",
+      "rh74-lake-moondarra-the-weevil-and-the-weed.mp3"
+    ],
+    "durations": {
+      "rh74-lake-moondarra-flight-context.mp3": 55.5948333,
+      "rh74-lake-moondarra-intro.mp3": 34.333,
+      "rh74-lake-moondarra-water-for-a-thirsty-city.mp3": 45.8553333,
+      "rh74-lake-moondarra-older-than-the-dam.mp3": 41.665375,
+      "rh74-lake-moondarra-a-beach-in-the-desert.mp3": 50.0035833,
+      "rh74-lake-moondarra-the-weevil-and-the-weed.mp3": 46.1911666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

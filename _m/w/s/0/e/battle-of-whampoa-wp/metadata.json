@@ -63,5 +63,24 @@
     "sourceGeohash4": "ws0e"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "ws0e-battle-of-whampoa-flight-context.mp3",
+      "ws0e-battle-of-whampoa-intro.mp3",
+      "ws0e-battle-of-whampoa-the-anchorage-and-its-significance.mp3",
+      "ws0e-battle-of-whampoa-the-hidden-battery.mp3",
+      "ws0e-battle-of-whampoa-transfer-of-command.mp3",
+      "ws0e-battle-of-whampoa-pazhou-today.mp3"
+    ],
+    "durations": {
+      "ws0e-battle-of-whampoa-flight-context.mp3": 45.495125,
+      "ws0e-battle-of-whampoa-intro.mp3": 47.6675,
+      "ws0e-battle-of-whampoa-the-anchorage-and-its-significance.mp3": 63.8853333,
+      "ws0e-battle-of-whampoa-the-hidden-battery.mp3": 69.9165833,
+      "ws0e-battle-of-whampoa-transfer-of-command.mp3": 52.592875,
+      "ws0e-battle-of-whampoa-pazhou-today.mp3": 58.2851666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

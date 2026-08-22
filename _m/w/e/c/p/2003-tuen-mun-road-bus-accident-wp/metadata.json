@@ -55,5 +55,24 @@
     "sourceGeohash4": "wecp"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "wecp-2003-tuen-mun-road-bus-accident-flight-context.mp3",
+      "wecp-2003-tuen-mun-road-bus-accident-intro.mp3",
+      "wecp-2003-tuen-mun-road-bus-accident-thirty-five-meters-down.mp3",
+      "wecp-2003-tuen-mun-road-bus-accident-reaching-the-unreachable.mp3",
+      "wecp-2003-tuen-mun-road-bus-accident-lives-behind-the-numbers.mp3",
+      "wecp-2003-tuen-mun-road-bus-accident-what-the-accident-changed.mp3"
+    ],
+    "durations": {
+      "wecp-2003-tuen-mun-road-bus-accident-flight-context.mp3": 46.941375,
+      "wecp-2003-tuen-mun-road-bus-accident-intro.mp3": 46.524375,
+      "wecp-2003-tuen-mun-road-bus-accident-thirty-five-meters-down.mp3": 61.1870416,
+      "wecp-2003-tuen-mun-road-bus-accident-reaching-the-unreachable.mp3": 71.5374583,
+      "wecp-2003-tuen-mun-road-bus-accident-lives-behind-the-numbers.mp3": 55.6109166,
+      "wecp-2003-tuen-mun-road-bus-accident-what-the-accident-changed.mp3": 50.4962083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

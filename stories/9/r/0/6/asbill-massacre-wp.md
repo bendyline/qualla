@@ -12,7 +12,7 @@ Pierce Asbill saw movement in the tall grass. The Missouri explorer had been sea
 
 ## The Policy of Extinction
 
-California in the 1850s operated under explicit instructions. In 1851, the state's civilian governor declared that "a war of extermination will continue to be waged, until the Indian race becomes extinct." This was not rhetoric; it was law. An 1851 legislative measure gave settlers the right to organize armed groups to kill Native Americans and submit their expenses to the government for reimbursement. By 1852, California had authorized over one million dollars in such claims. The Gold Rush had flooded the region with 300,000 newcomers in barely a decade, colliding with roughly the same number of Native Americans who had lived there for millennia. Round Valley's isolation—difficult terrain, no easy routes—had briefly protected the Yuki who called it home.
+California in the 1850s operated under explicit instructions. In 1851, the state's civilian governor declared that "a war of extermination will continue to be waged between the two races until the Indian race becomes extinct." This was not rhetoric; it was law. An 1851 legislative measure gave settlers the right to organize armed groups to kill Native Americans and submit their expenses to the government for reimbursement. By 1852, California had authorized over one million dollars in such claims. The Gold Rush had flooded the region with 300,000 newcomers in barely a decade, colliding with roughly the same number of Native Americans who had lived there for millennia. Round Valley's isolation—difficult terrain, no easy routes—had briefly protected the Yuki who called it home.
 
 ## Murder by Meadow Light
 
@@ -47,6 +47,8 @@ Round Valley is located at 39.778N, 123.229W in Mendocino County, California, in
   - 1851 extermination declaration
   - First civilian governor of California
   - War of extermination quote accurate
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Peter_Hardeman_Burnett)
+  - Restored Burnett's 1851 quote to the verbatim wording 'a war of extermination will continue to be waged between the two races until the Indian race becomes extinct' (previously dropped 'between the two races' mid-quote)
 - [Wikipedia - California genocide](https://en.wikipedia.org/wiki/California_genocide)
   - 1851 legislative measure for militia funding
   - Over one million dollars authorized by 1852

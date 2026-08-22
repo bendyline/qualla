@@ -86,5 +86,24 @@
   ],
   "galleryPaths": [
     "_m/tpc/cr/us/ad/es/crusades/byzantine-constantinople-en.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-neorion-harbour-flight-context.mp3",
+      "sxk9-neorion-harbour-intro.mp3",
+      "sxk9-neorion-harbour-where-byzantium-began-to-trade.mp3",
+      "sxk9-neorion-harbour-ships-oars-and-fire.mp3",
+      "sxk9-neorion-harbour-centuries-of-use.mp3",
+      "sxk9-neorion-harbour-what-the-water-remembers.mp3"
+    ],
+    "durations": {
+      "sxk9-neorion-harbour-flight-context.mp3": 55.46725,
+      "sxk9-neorion-harbour-intro.mp3": 36.1609583,
+      "sxk9-neorion-harbour-where-byzantium-began-to-trade.mp3": 67.7399583,
+      "sxk9-neorion-harbour-ships-oars-and-fire.mp3": 80.9875,
+      "sxk9-neorion-harbour-centuries-of-use.mp3": 64.1631666,
+      "sxk9-neorion-harbour-what-the-water-remembers.mp3": 64.5322916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

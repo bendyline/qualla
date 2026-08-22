@@ -55,5 +55,24 @@
     "sourceGeohash4": "u127"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "u127-narborough-bone-mill-flight-context.mp3",
+      "u127-narborough-bone-mill-intro.mp3",
+      "u127-narborough-bone-mill-a-mill-built-for-grim-work.mp3",
+      "u127-narborough-bone-mill-the-making-of-bone-dust.mp3",
+      "u127-narborough-bone-mill-cut-off-by-a-drainage-board.mp3",
+      "u127-narborough-bone-mill-what-remains.mp3"
+    ],
+    "durations": {
+      "u127-narborough-bone-mill-flight-context.mp3": 42.9585833,
+      "u127-narborough-bone-mill-intro.mp3": 34.064625,
+      "u127-narborough-bone-mill-a-mill-built-for-grim-work.mp3": 50.015,
+      "u127-narborough-bone-mill-the-making-of-bone-dust.mp3": 62.0083333,
+      "u127-narborough-bone-mill-cut-off-by-a-drainage-board.mp3": 47.4676666,
+      "u127-narborough-bone-mill-what-remains.mp3": 46.6553333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

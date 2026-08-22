@@ -100,5 +100,24 @@
     "sourceGeohash4": "ke0c"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "ke0c-boesmansgat-flight-context.mp3",
+      "ke0c-boesmansgat-intro.mp3",
+      "ke0c-boesmansgat-the-long-way-down.mp3",
+      "ke0c-boesmansgat-the-diver-in-the-dark.mp3",
+      "ke0c-boesmansgat-dave-not-coming-back.mp3",
+      "ke0c-boesmansgat-still-pushing-the-limit.mp3"
+    ],
+    "durations": {
+      "ke0c-boesmansgat-flight-context.mp3": 54.6347083,
+      "ke0c-boesmansgat-intro.mp3": 55.4185,
+      "ke0c-boesmansgat-the-long-way-down.mp3": 64.7046666,
+      "ke0c-boesmansgat-the-diver-in-the-dark.mp3": 43.1922916,
+      "ke0c-boesmansgat-dave-not-coming-back.mp3": 55.789375,
+      "ke0c-boesmansgat-still-pushing-the-limit.mp3": 59.6525
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

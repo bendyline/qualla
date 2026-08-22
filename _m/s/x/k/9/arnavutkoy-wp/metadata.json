@@ -827,5 +827,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-arnavutk-y-flight-context.mp3",
+      "sxk9-arnavutk-y-intro.mp3",
+      "sxk9-arnavutk-y-along-the-shore-what-the-waterfront-holds.mp3",
+      "sxk9-arnavutk-y-wood-and-art-nouveau-the-architecture-of-persisten.mp3",
+      "sxk9-arnavutk-y-the-oldest-american-school-outside-america.mp3",
+      "sxk9-arnavutk-y-strawberries-seasons-and-slower-time.mp3",
+      "sxk9-arnavutk-y-a-village-inside-a-city.mp3"
+    ],
+    "durations": {
+      "sxk9-arnavutk-y-flight-context.mp3": 57.3288333,
+      "sxk9-arnavutk-y-intro.mp3": 62.014625,
+      "sxk9-arnavutk-y-along-the-shore-what-the-waterfront-holds.mp3": 55.8371666,
+      "sxk9-arnavutk-y-wood-and-art-nouveau-the-architecture-of-persisten.mp3": 66.4095416,
+      "sxk9-arnavutk-y-the-oldest-american-school-outside-america.mp3": 71.0951666,
+      "sxk9-arnavutk-y-strawberries-seasons-and-slower-time.mp3": 60.974,
+      "sxk9-arnavutk-y-a-village-inside-a-city.mp3": 59.4111666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

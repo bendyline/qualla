@@ -233,5 +233,26 @@
     "_m/g/c/v/y/edinburgh-east-wp/sheep-heid-inn-duddingston.jpg",
     "_m/g/c/v/y/edinburgh-east-wp/innocent-railway-tunnel-207050.jpg",
     "_m/g/c/v/y/edinburgh-east-wp/amusement-arcade-portobello-ge.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcvy-edinburgh-east-flight-context.mp3",
+      "gcvy-edinburgh-east-intro.mp3",
+      "gcvy-edinburgh-east-portobello.mp3",
+      "gcvy-edinburgh-east-the-skating-minister.mp3",
+      "gcvy-edinburgh-east-the-innocent-railway.mp3",
+      "gcvy-edinburgh-east-edge-of-the-city.mp3",
+      "gcvy-edinburgh-east-fly-past.mp3"
+    ],
+    "durations": {
+      "gcvy-edinburgh-east-flight-context.mp3": 53.9662083,
+      "gcvy-edinburgh-east-intro.mp3": 47.377375,
+      "gcvy-edinburgh-east-portobello.mp3": 65.0916666,
+      "gcvy-edinburgh-east-the-skating-minister.mp3": 87.527125,
+      "gcvy-edinburgh-east-the-innocent-railway.mp3": 58.5094583,
+      "gcvy-edinburgh-east-edge-of-the-city.mp3": 67.8849166,
+      "gcvy-edinburgh-east-fly-past.mp3": 61.63425
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

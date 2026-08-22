@@ -85,5 +85,24 @@
   ],
   "galleryPaths": [
     "_m/s/w/b/h/battle-of-thermopylae-191-bc-wp/map-roman-syrian-war-1.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swfb-battle-of-corycus-flight-context.mp3",
+      "swfb-battle-of-corycus-intro.mp3",
+      "swfb-battle-of-corycus-the-war-behind-the-battle.mp3",
+      "swfb-battle-of-corycus-the-fleets-and-the-cape.mp3",
+      "swfb-battle-of-corycus-hooks-and-marines.mp3",
+      "swfb-battle-of-corycus-what-the-victory-bought.mp3"
+    ],
+    "durations": {
+      "swfb-battle-of-corycus-flight-context.mp3": 51.3955833,
+      "swfb-battle-of-corycus-intro.mp3": 36.082,
+      "swfb-battle-of-corycus-the-war-behind-the-battle.mp3": 46.45975,
+      "swfb-battle-of-corycus-the-fleets-and-the-cape.mp3": 50.411125,
+      "swfb-battle-of-corycus-hooks-and-marines.mp3": 45.317,
+      "swfb-battle-of-corycus-what-the-victory-bought.mp3": 50.5794583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

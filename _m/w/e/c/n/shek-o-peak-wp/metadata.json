@@ -156,5 +156,22 @@
     "_m/w/e/c/n/aberdeen-country-park-wp/location-hk-island-hon.png",
     "_m/w/e/c/n/lantau-island-wp/lantau-montane-grassland.jpg",
     "_m/w/e/c/n/d-aguilar-peak-wp/gallery-1.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecn-shek-o-peak-flight-context.mp3",
+      "wecn-shek-o-peak-intro.mp3",
+      "wecn-shek-o-peak-the-spine-of-the-island.mp3",
+      "wecn-shek-o-peak-thirty-minutes-from-the-bus-stop.mp3",
+      "wecn-shek-o-peak-between-two-worlds.mp3"
+    ],
+    "durations": {
+      "wecn-shek-o-peak-flight-context.mp3": 52.613,
+      "wecn-shek-o-peak-intro.mp3": 33.50525,
+      "wecn-shek-o-peak-the-spine-of-the-island.mp3": 59.57425,
+      "wecn-shek-o-peak-thirty-minutes-from-the-bus-stop.mp3": 51.5592916,
+      "wecn-shek-o-peak-between-two-worlds.mp3": 57.83575
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

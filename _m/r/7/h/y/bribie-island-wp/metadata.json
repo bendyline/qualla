@@ -622,5 +622,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r7hy-bribie-island-flight-context.mp3",
+      "r7hy-bribie-island-intro.mp3",
+      "r7hy-bribie-island-yarun-the-sand-island.mp3",
+      "r7hy-bribie-island-the-skirmish.mp3",
+      "r7hy-bribie-island-guns-in-the-dunes.mp3",
+      "r7hy-bribie-island-the-quiet-life.mp3"
+    ],
+    "durations": {
+      "r7hy-bribie-island-flight-context.mp3": 70.3669166,
+      "r7hy-bribie-island-intro.mp3": 46.7933333,
+      "r7hy-bribie-island-yarun-the-sand-island.mp3": 54.7695416,
+      "r7hy-bribie-island-the-skirmish.mp3": 52.614875,
+      "r7hy-bribie-island-guns-in-the-dunes.mp3": 57.614625,
+      "r7hy-bribie-island-the-quiet-life.mp3": 51.9025
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

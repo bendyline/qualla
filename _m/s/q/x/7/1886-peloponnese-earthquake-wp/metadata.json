@@ -92,5 +92,24 @@
   ],
   "galleryPaths": [
     "_m/s/w/6/p/thera-eruption-wk/location-map-greece.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sqx7-1886-peloponnese-earthquake-flight-context.mp3",
+      "sqx7-1886-peloponnese-earthquake-intro.mp3",
+      "sqx7-1886-peloponnese-earthquake-a-coast-built-on-fault-lines.mp3",
+      "sqx7-1886-peloponnese-earthquake-towns-reduced-to-rubble.mp3",
+      "sqx7-1886-peloponnese-earthquake-fire-on-the-water.mp3",
+      "sqx7-1886-peloponnese-earthquake-numbers-that-resist-certainty.mp3"
+    ],
+    "durations": {
+      "sqx7-1886-peloponnese-earthquake-flight-context.mp3": 59.8081666,
+      "sqx7-1886-peloponnese-earthquake-intro.mp3": 51.6637916,
+      "sqx7-1886-peloponnese-earthquake-a-coast-built-on-fault-lines.mp3": 64.5506666,
+      "sqx7-1886-peloponnese-earthquake-towns-reduced-to-rubble.mp3": 64.7735416,
+      "sqx7-1886-peloponnese-earthquake-fire-on-the-water.mp3": 69.8410416,
+      "sqx7-1886-peloponnese-earthquake-numbers-that-resist-certainty.mp3": 56.8037916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

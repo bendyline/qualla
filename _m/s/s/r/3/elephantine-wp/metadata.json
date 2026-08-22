@@ -633,5 +633,26 @@
     "_m/s/s/r/3/elephantine-wp/conrad-1859-p135-eiland-elepha.jpg",
     "_m/s/s/r/3/elephantine-wp/animalia-at-elephantine-island.jpg"
   ],
-  "updatedAt": "2026-06-28T19:25:33.474Z"
+  "updatedAt": "2026-06-28T19:25:33.474Z",
+  "narration": {
+    "files": [
+      "ssr3-elephantine-flight-context.mp3",
+      "ssr3-elephantine-intro.mp3",
+      "ssr3-elephantine-the-island-of-ivory.mp3",
+      "ssr3-elephantine-an-exodus-in-reverse.mp3",
+      "ssr3-elephantine-the-temple-that-burned.mp3",
+      "ssr3-elephantine-gods-of-the-cataract.mp3",
+      "ssr3-elephantine-living-among-ruins.mp3"
+    ],
+    "durations": {
+      "ssr3-elephantine-flight-context.mp3": 61.8758333,
+      "ssr3-elephantine-intro.mp3": 50.5389583,
+      "ssr3-elephantine-the-island-of-ivory.mp3": 45.97375,
+      "ssr3-elephantine-an-exodus-in-reverse.mp3": 52.1012083,
+      "ssr3-elephantine-the-temple-that-burned.mp3": 52.14875,
+      "ssr3-elephantine-gods-of-the-cataract.mp3": 48.3066666,
+      "ssr3-elephantine-living-among-ruins.mp3": 46.953875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

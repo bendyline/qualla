@@ -113,5 +113,24 @@
   "galleryPaths": [
     "_m/r/5/z/6/barcaldine-shire-hall-wp/town-hall-barcaldine-c.jpg",
     "_m/r/5/z/6/barcaldine-shire-hall-wp/barcaldine-shire-hall.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r5z6-barcaldine-shire-hall-flight-context.mp3",
+      "r5z6-barcaldine-shire-hall-intro.mp3",
+      "r5z6-barcaldine-shire-hall-the-towns-living-room.mp3",
+      "r5z6-barcaldine-shire-hall-a-tower-that-is-no-longer-there.mp3",
+      "r5z6-barcaldine-shire-hall-gates-that-remember.mp3",
+      "r5z6-barcaldine-shire-hall-the-administration-precinct.mp3"
+    ],
+    "durations": {
+      "r5z6-barcaldine-shire-hall-flight-context.mp3": 54.8553333,
+      "r5z6-barcaldine-shire-hall-intro.mp3": 48.7493333,
+      "r5z6-barcaldine-shire-hall-the-towns-living-room.mp3": 49.5602083,
+      "r5z6-barcaldine-shire-hall-a-tower-that-is-no-longer-there.mp3": 52.8895416,
+      "r5z6-barcaldine-shire-hall-gates-that-remember.mp3": 45.1151666,
+      "r5z6-barcaldine-shire-hall-the-administration-precinct.mp3": 45.8476666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

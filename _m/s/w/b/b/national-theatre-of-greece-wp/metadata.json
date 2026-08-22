@@ -114,5 +114,24 @@
   "galleryPaths": [
     "_m/s/w/b/b/national-theatre-of-greece-wp/national-theatre-athen.jpg",
     "_m/s/w/b/b/athens-wk/building-national-thea.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swbb-national-theatre-of-greece-flight-context.mp3",
+      "swbb-national-theatre-of-greece-intro.mp3",
+      "swbb-national-theatre-of-greece-a-house-for-the-drama.mp3",
+      "swbb-national-theatre-of-greece-the-language-war-on-stage.mp3",
+      "swbb-national-theatre-of-greece-decline-and-rebirth.mp3",
+      "swbb-national-theatre-of-greece-roots-that-spread.mp3"
+    ],
+    "durations": {
+      "swbb-national-theatre-of-greece-flight-context.mp3": 42.7186666,
+      "swbb-national-theatre-of-greece-intro.mp3": 41.0177916,
+      "swbb-national-theatre-of-greece-a-house-for-the-drama.mp3": 46.5610833,
+      "swbb-national-theatre-of-greece-the-language-war-on-stage.mp3": 46.291,
+      "swbb-national-theatre-of-greece-decline-and-rebirth.mp3": 50.5228333,
+      "swbb-national-theatre-of-greece-roots-that-spread.mp3": 50.3220833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

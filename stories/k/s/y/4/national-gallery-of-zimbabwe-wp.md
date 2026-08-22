@@ -8,7 +8,7 @@ Opened by the Queen Mother in 1957, Zimbabwe's national gallery survived the tra
 
 ## Introduction
 
-The building was supposed to represent three countries that no longer exist. When the National Gallery of Rhodesia opened its doors in Salisbury on 16 July 1957, it was conceived as a shared institution for Southern Rhodesia, Northern Rhodesia, and Nyasaland -- three territories governed as a single federation. Queen Elizabeth the Queen Mother performed the opening ceremony. Six years later the federation dissolved, and within two decades Salisbury had become Harare, Rhodesia had become Zimbabwe, and the gallery had been reborn as something its colonial founders never imagined: a platform for African contemporary art that would help launch an entire artistic movement onto the world stage.
+The building was supposed to represent three countries that no longer exist. When the National Gallery of Rhodesia opened its doors in Salisbury on 16 July 1957, it was conceived as a shared institution for Southern Rhodesia, Northern Rhodesia, and Nyasaland (now Malawi) -- three territories governed as a single federation. Queen Elizabeth the Queen Mother performed the opening ceremony. Six years later the federation dissolved, and within two decades Salisbury had become Harare, Rhodesia had become Zimbabwe, and the gallery had been reborn as something its colonial founders never imagined: a platform for African contemporary art that would help launch an entire artistic movement onto the world stage.
 
 ## A Bequest and a Vision
 

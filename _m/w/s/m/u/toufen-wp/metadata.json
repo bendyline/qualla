@@ -164,5 +164,26 @@
     "_m/w/s/m/u/toufen-wp/image-6.jpg",
     "_m/w/s/m/u/toufen-wp/image-7.jpg"
   ],
-  "updatedAt": "2026-06-24T13:00:19.503Z"
+  "updatedAt": "2026-06-24T13:00:19.503Z",
+  "narration": {
+    "files": [
+      "wsmu-toufen-flight-context.mp3",
+      "wsmu-toufen-intro.mp3",
+      "wsmu-toufen-the-hakka-majority.mp3",
+      "wsmu-toufen-foothill-geography.mp3",
+      "wsmu-toufen-revitalization-and-remembrance.mp3",
+      "wsmu-toufen-elevated-to-city.mp3",
+      "wsmu-toufen-getting-there-getting-around.mp3"
+    ],
+    "durations": {
+      "wsmu-toufen-flight-context.mp3": 42.7839166,
+      "wsmu-toufen-intro.mp3": 40.4461666,
+      "wsmu-toufen-the-hakka-majority.mp3": 49.0122083,
+      "wsmu-toufen-foothill-geography.mp3": 46.85925,
+      "wsmu-toufen-revitalization-and-remembrance.mp3": 43.7336666,
+      "wsmu-toufen-elevated-to-city.mp3": 42.2926666,
+      "wsmu-toufen-getting-there-getting-around.mp3": 48.16575
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

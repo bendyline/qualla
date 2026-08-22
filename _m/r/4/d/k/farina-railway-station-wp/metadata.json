@@ -55,5 +55,24 @@
     "sourceGeohash4": "r4dk"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "r4dk-farina-railway-station-flight-context.mp3",
+      "r4dk-farina-railway-station-intro.mp3",
+      "r4dk-farina-railway-station-the-line-to-nowhere-in-particular.mp3",
+      "r4dk-farina-railway-station-the-promise-of-flour.mp3",
+      "r4dk-farina-railway-station-the-slow-emptying.mp3",
+      "r4dk-farina-railway-station-bread-in-a-ghost-town.mp3"
+    ],
+    "durations": {
+      "r4dk-farina-railway-station-flight-context.mp3": 70.7195,
+      "r4dk-farina-railway-station-intro.mp3": 40.5392916,
+      "r4dk-farina-railway-station-the-line-to-nowhere-in-particular.mp3": 59.5986666,
+      "r4dk-farina-railway-station-the-promise-of-flour.mp3": 43.1482083,
+      "r4dk-farina-railway-station-the-slow-emptying.mp3": 49.802,
+      "r4dk-farina-railway-station-bread-in-a-ghost-town.mp3": 50.1667916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

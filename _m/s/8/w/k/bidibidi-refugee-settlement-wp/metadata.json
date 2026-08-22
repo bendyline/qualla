@@ -621,5 +621,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "s8wk-bidibidi-refugee-settlement-flight-context.mp3",
+      "s8wk-bidibidi-refugee-settlement-intro.mp3",
+      "s8wk-bidibidi-refugee-settlement-the-people-who-arrived.mp3",
+      "s8wk-bidibidi-refugee-settlement-building-a-town-from-nothing.mp3",
+      "s8wk-bidibidi-refugee-settlement-making-a-living-on-hard-ground.mp3",
+      "s8wk-bidibidi-refugee-settlement-voices-and-a-stage.mp3"
+    ],
+    "durations": {
+      "s8wk-bidibidi-refugee-settlement-flight-context.mp3": 55.6265416,
+      "s8wk-bidibidi-refugee-settlement-intro.mp3": 51.1879583,
+      "s8wk-bidibidi-refugee-settlement-the-people-who-arrived.mp3": 57.5557083,
+      "s8wk-bidibidi-refugee-settlement-building-a-town-from-nothing.mp3": 49.682,
+      "s8wk-bidibidi-refugee-settlement-making-a-living-on-hard-ground.mp3": 59.02425,
+      "s8wk-bidibidi-refugee-settlement-voices-and-a-stage.mp3": 56.5049583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

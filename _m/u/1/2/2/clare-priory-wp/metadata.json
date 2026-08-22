@@ -594,5 +594,24 @@
     "_m/u/1/2/2/clare-priory-wp/clare-priory-6-geograph-org-uk.jpg",
     "_m/u/1/2/2/clare-priory-wp/clare-priory-7-geograph-org-uk.jpg"
   ],
-  "updatedAt": "2026-06-25T20:30:08.530Z"
+  "updatedAt": "2026-06-25T20:30:08.530Z",
+  "narration": {
+    "files": [
+      "u122-clare-priory-flight-context.mp3",
+      "u122-clare-priory-intro.mp3",
+      "u122-clare-priory-first-house.mp3",
+      "u122-clare-priory-royal-graves.mp3",
+      "u122-clare-priory-dissolution.mp3",
+      "u122-clare-priory-return.mp3"
+    ],
+    "durations": {
+      "u122-clare-priory-flight-context.mp3": 46.1697916,
+      "u122-clare-priory-intro.mp3": 53.4073333,
+      "u122-clare-priory-first-house.mp3": 47.4695416,
+      "u122-clare-priory-royal-graves.mp3": 56.9155,
+      "u122-clare-priory-dissolution.mp3": 45.49075,
+      "u122-clare-priory-return.mp3": 54.9530833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -579,5 +579,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-istanbul-modern-flight-context.mp3",
+      "sxk9-istanbul-modern-intro.mp3",
+      "sxk9-istanbul-modern-a-familys-long-bet-on-culture.mp3",
+      "sxk9-istanbul-modern-what-turkish-art-looks-like.mp3",
+      "sxk9-istanbul-modern-the-renzo-piano-building.mp3",
+      "sxk9-istanbul-modern-art-in-a-city-of-monuments.mp3"
+    ],
+    "durations": {
+      "sxk9-istanbul-modern-flight-context.mp3": 50.8704166,
+      "sxk9-istanbul-modern-intro.mp3": 41.3120833,
+      "sxk9-istanbul-modern-a-familys-long-bet-on-culture.mp3": 73.774125,
+      "sxk9-istanbul-modern-what-turkish-art-looks-like.mp3": 63.6701666,
+      "sxk9-istanbul-modern-the-renzo-piano-building.mp3": 58.6716666,
+      "sxk9-istanbul-modern-art-in-a-city-of-monuments.mp3": 66.4837083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

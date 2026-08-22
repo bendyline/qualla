@@ -101,5 +101,24 @@
   ],
   "galleryPaths": [
     "_m/tpc/cr/us/ad/es/crusades/byzantine-constantinople-en.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-hodegon-monastery-flight-context.mp3",
+      "sxk9-hodegon-monastery-intro.mp3",
+      "sxk9-hodegon-monastery-a-princesss-foundation.mp3",
+      "sxk9-hodegon-monastery-the-icon-that-showed-the-way.mp3",
+      "sxk9-hodegon-monastery-rebuilt-revered-and-lost.mp3",
+      "sxk9-hodegon-monastery-what-remains.mp3"
+    ],
+    "durations": {
+      "sxk9-hodegon-monastery-flight-context.mp3": 48.5290833,
+      "sxk9-hodegon-monastery-intro.mp3": 35.6919166,
+      "sxk9-hodegon-monastery-a-princesss-foundation.mp3": 67.6138333,
+      "sxk9-hodegon-monastery-the-icon-that-showed-the-way.mp3": 54.3642083,
+      "sxk9-hodegon-monastery-rebuilt-revered-and-lost.mp3": 65.628375,
+      "sxk9-hodegon-monastery-what-remains.mp3": 53.119125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

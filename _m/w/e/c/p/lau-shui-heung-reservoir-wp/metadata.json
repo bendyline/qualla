@@ -513,5 +513,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecp-lau-shui-heung-reservoir-flight-context.mp3",
+      "wecp-lau-shui-heung-reservoir-intro.mp3",
+      "wecp-lau-shui-heung-reservoir-built-to-move-water.mp3",
+      "wecp-lau-shui-heung-reservoir-mirror-of-the-sky.mp3",
+      "wecp-lau-shui-heung-reservoir-the-year-the-mirror-cracked.mp3",
+      "wecp-lau-shui-heung-reservoir-the-country-park-setting.mp3",
+      "wecp-lau-shui-heung-reservoir-water-in-a-crowded-place.mp3"
+    ],
+    "durations": {
+      "wecp-lau-shui-heung-reservoir-flight-context.mp3": 60.951375,
+      "wecp-lau-shui-heung-reservoir-intro.mp3": 46.876375,
+      "wecp-lau-shui-heung-reservoir-built-to-move-water.mp3": 71.084375,
+      "wecp-lau-shui-heung-reservoir-mirror-of-the-sky.mp3": 69.5825833,
+      "wecp-lau-shui-heung-reservoir-the-year-the-mirror-cracked.mp3": 73.6859583,
+      "wecp-lau-shui-heung-reservoir-the-country-park-setting.mp3": 61.601375,
+      "wecp-lau-shui-heung-reservoir-water-in-a-crowded-place.mp3": 55.0024583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -51,5 +51,24 @@
     "sourceGeohash4": "gcyp"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcyp-battle-of-may-island-flight-context.mp3",
+      "gcyp-battle-of-may-island-intro.mp3",
+      "gcyp-battle-of-may-island-the-k-class.mp3",
+      "gcyp-battle-of-may-island-seventy-five-minutes.mp3",
+      "gcyp-battle-of-may-island-the-men-in-the-water.mp3",
+      "gcyp-battle-of-may-island-the-silence-and-the-service.mp3"
+    ],
+    "durations": {
+      "gcyp-battle-of-may-island-flight-context.mp3": 51.2902916,
+      "gcyp-battle-of-may-island-intro.mp3": 46.3715416,
+      "gcyp-battle-of-may-island-the-k-class.mp3": 52.9593333,
+      "gcyp-battle-of-may-island-seventy-five-minutes.mp3": 78.6863333,
+      "gcyp-battle-of-may-island-the-men-in-the-water.mp3": 59.6780416,
+      "gcyp-battle-of-may-island-the-silence-and-the-service.mp3": 51.258375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

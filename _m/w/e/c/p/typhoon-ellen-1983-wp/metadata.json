@@ -111,5 +111,26 @@
   ],
   "galleryPaths": [
     "_m/w/e/c/p/typhoon-ellen-1983-wp/track-map-typhoon-elle.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecp-typhoon-ellen-1983-flight-context.mp3",
+      "wecp-typhoon-ellen-1983-intro.mp3",
+      "wecp-typhoon-ellen-1983-the-storms-path.mp3",
+      "wecp-typhoon-ellen-1983-what-the-storm-cost-hong-kong.mp3",
+      "wecp-typhoon-ellen-1983-the-yacht-osprey-and-the-fishermen.mp3",
+      "wecp-typhoon-ellen-1983-a-tornado-in-the-typhoon.mp3",
+      "wecp-typhoon-ellen-1983-ellen-in-memory.mp3"
+    ],
+    "durations": {
+      "wecp-typhoon-ellen-1983-flight-context.mp3": 61.2462916,
+      "wecp-typhoon-ellen-1983-intro.mp3": 45.6291666,
+      "wecp-typhoon-ellen-1983-the-storms-path.mp3": 61.668625,
+      "wecp-typhoon-ellen-1983-what-the-storm-cost-hong-kong.mp3": 53.758875,
+      "wecp-typhoon-ellen-1983-the-yacht-osprey-and-the-fishermen.mp3": 63.8042916,
+      "wecp-typhoon-ellen-1983-a-tornado-in-the-typhoon.mp3": 58.7928333,
+      "wecp-typhoon-ellen-1983-ellen-in-memory.mp3": 56.3417916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

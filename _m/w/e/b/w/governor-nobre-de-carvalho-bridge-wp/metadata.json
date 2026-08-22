@@ -400,5 +400,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "webw-governor-nobre-de-carvalho-bridge-flight-context.mp3",
+      "webw-governor-nobre-de-carvalho-bridge-intro.mp3",
+      "webw-governor-nobre-de-carvalho-bridge-the-governor-with-a-plan.mp3",
+      "webw-governor-nobre-de-carvalho-bridge-a-dragon-spanning-the-harbor.mp3",
+      "webw-governor-nobre-de-carvalho-bridge-fifty-years-of-traffic-and-change.mp3",
+      "webw-governor-nobre-de-carvalho-bridge-the-old-bridge-in-a-new-city.mp3"
+    ],
+    "durations": {
+      "webw-governor-nobre-de-carvalho-bridge-flight-context.mp3": 60.6532083,
+      "webw-governor-nobre-de-carvalho-bridge-intro.mp3": 47.890375,
+      "webw-governor-nobre-de-carvalho-bridge-the-governor-with-a-plan.mp3": 48.5892916,
+      "webw-governor-nobre-de-carvalho-bridge-a-dragon-spanning-the-harbor.mp3": 47.6275833,
+      "webw-governor-nobre-de-carvalho-bridge-fifty-years-of-traffic-and-change.mp3": 55.5244166,
+      "webw-governor-nobre-de-carvalho-bridge-the-old-bridge-in-a-new-city.mp3": 54.3484583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

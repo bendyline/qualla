@@ -651,5 +651,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-sirkeci-railway-station-flight-context.mp3",
+      "sxk9-sirkeci-railway-station-intro.mp3",
+      "sxk9-sirkeci-railway-station-a-barons-railroad-and-a-sultans-permission.mp3",
+      "sxk9-sirkeci-railway-station-august-jasmunds-arabesque-gateway.mp3",
+      "sxk9-sirkeci-railway-station-eight-decades-on-track-then-silence.mp3",
+      "sxk9-sirkeci-railway-station-under-the-bosphorus-and-back-again.mp3",
+      "sxk9-sirkeci-railway-station-where-europe-runs-out-of-land.mp3"
+    ],
+    "durations": {
+      "sxk9-sirkeci-railway-station-flight-context.mp3": 60.7115833,
+      "sxk9-sirkeci-railway-station-intro.mp3": 49.657,
+      "sxk9-sirkeci-railway-station-a-barons-railroad-and-a-sultans-permission.mp3": 83.3769166,
+      "sxk9-sirkeci-railway-station-august-jasmunds-arabesque-gateway.mp3": 67.866625,
+      "sxk9-sirkeci-railway-station-eight-decades-on-track-then-silence.mp3": 67.8538333,
+      "sxk9-sirkeci-railway-station-under-the-bosphorus-and-back-again.mp3": 68.9355833,
+      "sxk9-sirkeci-railway-station-where-europe-runs-out-of-land.mp3": 63.432875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -88,5 +88,26 @@
   ],
   "galleryPaths": [
     "_m/s/q/x/f/siege-of-sparta-wp/map-southern-pelopones.gif"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sw81-siege-of-gythium-flight-context.mp3",
+      "sw81-siege-of-gythium-intro.mp3",
+      "sw81-siege-of-gythium-a-weakened-sparta-and-a-dangerous-tyrant.mp3",
+      "sw81-siege-of-gythium-the-siege-bombardment-betrayal-and-a-commanders-mu.mp3",
+      "sw81-siege-of-gythium-the-aftermath-a-port-lost-a-tyrant-diminished.mp3",
+      "sw81-siege-of-gythium-what-the-siege-reveals.mp3",
+      "sw81-siege-of-gythium-from-the-air.mp3"
+    ],
+    "durations": {
+      "sw81-siege-of-gythium-flight-context.mp3": 36.4725,
+      "sw81-siege-of-gythium-intro.mp3": 50.0422916,
+      "sw81-siege-of-gythium-a-weakened-sparta-and-a-dangerous-tyrant.mp3": 89.6079583,
+      "sw81-siege-of-gythium-the-siege-bombardment-betrayal-and-a-commanders-mu.mp3": 83.2227916,
+      "sw81-siege-of-gythium-the-aftermath-a-port-lost-a-tyrant-diminished.mp3": 78.1112083,
+      "sw81-siege-of-gythium-what-the-siege-reveals.mp3": 46.2415833,
+      "sw81-siege-of-gythium-from-the-air.mp3": 37.309625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

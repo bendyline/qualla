@@ -634,5 +634,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecn-po-lin-monastery-flight-context.mp3",
+      "wecn-po-lin-monastery-intro.mp3",
+      "wecn-po-lin-monastery-the-big-hut-becomes-a-monastery.mp3",
+      "wecn-po-lin-monastery-the-giant-buddha-arrives.mp3",
+      "wecn-po-lin-monastery-the-nunnery-on-the-lower-hill.mp3",
+      "wecn-po-lin-monastery-a-monastery-in-the-flow-of-tourism.mp3"
+    ],
+    "durations": {
+      "wecn-po-lin-monastery-flight-context.mp3": 57.3075,
+      "wecn-po-lin-monastery-intro.mp3": 49.4524166,
+      "wecn-po-lin-monastery-the-big-hut-becomes-a-monastery.mp3": 66.2653333,
+      "wecn-po-lin-monastery-the-giant-buddha-arrives.mp3": 64.8804166,
+      "wecn-po-lin-monastery-the-nunnery-on-the-lower-hill.mp3": 60.3460833,
+      "wecn-po-lin-monastery-a-monastery-in-the-flow-of-tourism.mp3": 63.5744166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

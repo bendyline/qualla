@@ -16,7 +16,7 @@ The name comes from the patience involved. Tiger kidnappers stalk their target f
 
 ## The Morning of 27 February
 
-Travers reported to work as normal. The gang had drilled him on what to do. He accessed cash holdings at the College Green centre and removed the money. The bank's own internal procedures had not been followed - the Garda Síochána, Ireland's police force, were not informed at any point until after the cash had left the building. The minister for justice at the time, Dermot Ahern, was publicly furious afterwards, describing the failure to alert Garda as a breakdown in 'established protocols' and questioning how a single junior employee could have access to such a vast sum. The bank's chief executive Richie Boucher, who had been appointed only two days earlier, wrote to all staff the following day to remind them of the procedures and to make clear that staff safety came first. The system, in other words, had worked exactly as the gang intended: a young man, terrified for the people he loved, did precisely the thing the rules existed to prevent.
+Travers reported to work as normal. The gang had drilled him on what to do. He accessed cash holdings at the College Green centre and removed the money. The bank's own internal procedures had not been followed - the Garda Síochána, Ireland's police force, were not informed at any point until after the cash had left the building. The minister for justice at the time, Dermot Ahern, was publicly furious afterwards, describing the failure to alert Garda as a breakdown in 'proper procedures' and questioning how a single junior employee could have access to such a vast sum. The bank's chief executive Richie Boucher, who had been appointed only two days earlier, wrote to all staff the following day to remind them of the procedures and to make clear that staff safety came first. The system, in other words, had worked exactly as the gang intended: a young man, terrified for the people he loved, did precisely the thing the rules existed to prevent.
 
 ## The Recovery and the Inside Job
 
@@ -41,6 +41,8 @@ The College Green cash centre of Bank of Ireland sits at approximately 53.3448 d
   - 1.8 million euro recovered 28 February confirmed
   - Phibsboro raid confirmed
   - One man received five-year sentence confirmed
+- [Review — 2026-07-13](https://www.irishcentral.com/bank-heist-crooks-nabbed)
+  - Corrected Justice Minister Dermot Ahern's quoted phrase from 'established protocols' to his documented wording 'proper procedures' (criticising that gardaí were not contacted before the money left the bank); verified against IrishCentral and the cited Wikipedia article
 
 ## Review Notes
 

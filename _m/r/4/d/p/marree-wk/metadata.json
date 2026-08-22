@@ -53,5 +53,24 @@
     "sourceGeohash4": "r4dp"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "r4dp-marree-flight-context.mp3",
+      "r4dp-marree-intro.mp3",
+      "r4dp-marree-the-cameleers-town.mp3",
+      "r4dp-marree-when-the-trains-stopped.mp3",
+      "r4dp-marree-country-of-the-arabana-and-dieri.mp3",
+      "r4dp-marree-gateway-to-the-strange-and-vast.mp3"
+    ],
+    "durations": {
+      "r4dp-marree-flight-context.mp3": 59.4976666,
+      "r4dp-marree-intro.mp3": 44.1437916,
+      "r4dp-marree-the-cameleers-town.mp3": 61.3566666,
+      "r4dp-marree-when-the-trains-stopped.mp3": 49.3905416,
+      "r4dp-marree-country-of-the-arabana-and-dieri.mp3": 50.299375,
+      "r4dp-marree-gateway-to-the-strange-and-vast.mp3": 50.7608333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

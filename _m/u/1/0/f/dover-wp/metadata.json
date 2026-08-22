@@ -762,5 +762,24 @@
     "_m/u/1/0/f/dover-wp/bascule-bridge-dover-geograph-.jpg",
     "_m/u/1/0/f/dover-wp/clock-tower-square-dover-geogr.jpg"
   ],
-  "updatedAt": "2026-06-25T15:13:31.413Z"
+  "updatedAt": "2026-06-25T15:13:31.413Z",
+  "narration": {
+    "files": [
+      "u10f-dover-flight-context.mp3",
+      "u10f-dover-intro.mp3",
+      "u10f-dover-portus-dubris.mp3",
+      "u10f-dover-the-key-of-england.mp3",
+      "u10f-dover-bluebirds-and-ferries.mp3",
+      "u10f-dover-shakespeare-arnold-and-the-cliffs.mp3"
+    ],
+    "durations": {
+      "u10f-dover-flight-context.mp3": 58.2585416,
+      "u10f-dover-intro.mp3": 46.447,
+      "u10f-dover-portus-dubris.mp3": 67.9691666,
+      "u10f-dover-the-key-of-england.mp3": 81.9934166,
+      "u10f-dover-bluebirds-and-ferries.mp3": 86.7829583,
+      "u10f-dover-shakespeare-arnold-and-the-cliffs.mp3": 87.3095416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

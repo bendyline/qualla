@@ -114,5 +114,26 @@
   "galleryPaths": [
     "_m/g/c/x/4/siege-of-york-wp/southern-entrance-york.jpg",
     "_m/g/c/x/4/battle-of-marston-moor-wp/relief-map-north-yorks.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcx4-siege-of-york-flight-context.mp3",
+      "gcx4-siege-of-york-intro.mp3",
+      "gcx4-siege-of-york-the-second-city.mp3",
+      "gcx4-siege-of-york-three-armies-at-the-gates.mp3",
+      "gcx4-siege-of-york-mines-and-cannon.mp3",
+      "gcx4-siege-of-york-marston-moor-and-the-end.mp3",
+      "gcx4-siege-of-york-the-man-who-saved-the-minster.mp3"
+    ],
+    "durations": {
+      "gcx4-siege-of-york-flight-context.mp3": 45.3770833,
+      "gcx4-siege-of-york-intro.mp3": 41.973375,
+      "gcx4-siege-of-york-the-second-city.mp3": 56.1747916,
+      "gcx4-siege-of-york-three-armies-at-the-gates.mp3": 60.6192083,
+      "gcx4-siege-of-york-mines-and-cannon.mp3": 53.82925,
+      "gcx4-siege-of-york-marston-moor-and-the-end.mp3": 63.2143333,
+      "gcx4-siege-of-york-the-man-who-saved-the-minster.mp3": 67.0905
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

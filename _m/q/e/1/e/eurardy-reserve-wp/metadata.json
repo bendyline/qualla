@@ -49,5 +49,24 @@
     "sourceGeohash4": "qe1e"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qe1e-eurardy-reserve-flight-context.mp3",
+      "qe1e-eurardy-reserve-intro.mp3",
+      "qe1e-eurardy-reserve-on-the-edge-of-a-hotspot.mp3",
+      "qe1e-eurardy-reserve-the-spring-reckoning.mp3",
+      "qe1e-eurardy-reserve-bringing-the-country-back.mp3",
+      "qe1e-eurardy-reserve-ghosts-in-the-scrub.mp3"
+    ],
+    "durations": {
+      "qe1e-eurardy-reserve-flight-context.mp3": 80.6027916,
+      "qe1e-eurardy-reserve-intro.mp3": 39.175375,
+      "qe1e-eurardy-reserve-on-the-edge-of-a-hotspot.mp3": 49.5553333,
+      "qe1e-eurardy-reserve-the-spring-reckoning.mp3": 51.629,
+      "qe1e-eurardy-reserve-bringing-the-country-back.mp3": 48.6062916,
+      "qe1e-eurardy-reserve-ghosts-in-the-scrub.mp3": 81.3648333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

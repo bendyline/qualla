@@ -108,5 +108,24 @@
   "galleryPaths": [
     "_m/r/7/9/3/carnarvon-gorge-wp/livistona-nitida-carna.jpg",
     "_m/r/7/9/3/carnarvon-gorge-wp/hill-carnarvon-nationa.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r793-carnarvon-gorge-flight-context.mp3",
+      "r793-carnarvon-gorge-intro.mp3",
+      "r793-carnarvon-gorge-carved-by-patient-water.mp3",
+      "r793-carnarvon-gorge-a-refuge-of-living-fossils.mp3",
+      "r793-carnarvon-gorge-galleries-of-ochre-and-stone.mp3",
+      "r793-carnarvon-gorge-conflict-loss-and-protection.mp3"
+    ],
+    "durations": {
+      "r793-carnarvon-gorge-flight-context.mp3": 66.2527916,
+      "r793-carnarvon-gorge-intro.mp3": 48.5795,
+      "r793-carnarvon-gorge-carved-by-patient-water.mp3": 57.206125,
+      "r793-carnarvon-gorge-a-refuge-of-living-fossils.mp3": 59.3097083,
+      "r793-carnarvon-gorge-galleries-of-ochre-and-stone.mp3": 59.146,
+      "r793-carnarvon-gorge-conflict-loss-and-protection.mp3": 69.6174166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

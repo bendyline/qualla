@@ -73,5 +73,24 @@
   ],
   "galleryPaths": [
     "_m/c/4/h/w/spatsizi-plateau-wilderness-wk/hero.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qe1j-zuytdorp-cliffs-flight-context.mp3",
+      "qe1j-zuytdorp-cliffs-intro.mp3",
+      "qe1j-zuytdorp-cliffs-a-wall-against-the-ocean.mp3",
+      "qe1j-zuytdorp-cliffs-dunes-turned-to-stone.mp3",
+      "qe1j-zuytdorp-cliffs-the-survivors.mp3",
+      "qe1j-zuytdorp-cliffs-first-contact-far-from-home.mp3"
+    ],
+    "durations": {
+      "qe1j-zuytdorp-cliffs-flight-context.mp3": 89.0787083,
+      "qe1j-zuytdorp-cliffs-intro.mp3": 43.8715833,
+      "qe1j-zuytdorp-cliffs-a-wall-against-the-ocean.mp3": 54.412875,
+      "qe1j-zuytdorp-cliffs-dunes-turned-to-stone.mp3": 50.776,
+      "qe1j-zuytdorp-cliffs-the-survivors.mp3": 53.23975,
+      "qe1j-zuytdorp-cliffs-first-contact-far-from-home.mp3": 61.0715416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

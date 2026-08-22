@@ -203,5 +203,24 @@
     "_m/w/s/j/6/tainan-canal-wp/01.jpg",
     "_m/w/s/j/6/tainan-canal-wp/02.jpg"
   ],
-  "updatedAt": "2026-06-29T18:04:58.064Z"
+  "updatedAt": "2026-06-29T18:04:58.064Z",
+  "narration": {
+    "files": [
+      "wsj6-tainan-canal-flight-context.mp3",
+      "wsj6-tainan-canal-intro.mp3",
+      "wsj6-tainan-canal-two-canals-two-eras.mp3",
+      "wsj6-tainan-canal-the-canal-goes-quiet.mp3",
+      "wsj6-tainan-canal-dragon-boats-and-tourist-routes.mp3",
+      "wsj6-tainan-canal-the-star-diamond-project.mp3"
+    ],
+    "durations": {
+      "wsj6-tainan-canal-flight-context.mp3": 55.5779166,
+      "wsj6-tainan-canal-intro.mp3": 41.6977083,
+      "wsj6-tainan-canal-two-canals-two-eras.mp3": 73.7797083,
+      "wsj6-tainan-canal-the-canal-goes-quiet.mp3": 45.38125,
+      "wsj6-tainan-canal-dragon-boats-and-tourist-routes.mp3": 64.4255,
+      "wsj6-tainan-canal-the-star-diamond-project.mp3": 53.9055416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

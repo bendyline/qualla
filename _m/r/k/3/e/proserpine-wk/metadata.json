@@ -124,5 +124,26 @@
   "galleryPaths": [
     "_m/r/k/3/e/proserpine-wk/prince-wales-hotel-pro.jpg",
     "_m/r/k/3/e/proserpine-wk/view-wilson-s-beach-ea.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "rk3e-proserpine-flight-context.mp3",
+      "rk3e-proserpine-intro.mp3",
+      "rk3e-proserpine-a-name-from-the-underworld.mp3",
+      "rk3e-proserpine-built-on-cane.mp3",
+      "rk3e-proserpine-the-gateway.mp3",
+      "rk3e-proserpine-crocodile-country.mp3",
+      "rk3e-proserpine-beyond-the-town.mp3"
+    ],
+    "durations": {
+      "rk3e-proserpine-flight-context.mp3": 55.1375,
+      "rk3e-proserpine-intro.mp3": 41.4665833,
+      "rk3e-proserpine-a-name-from-the-underworld.mp3": 49.4280416,
+      "rk3e-proserpine-built-on-cane.mp3": 41.8423333,
+      "rk3e-proserpine-the-gateway.mp3": 36.242,
+      "rk3e-proserpine-crocodile-country.mp3": 45.7626666,
+      "rk3e-proserpine-beyond-the-town.mp3": 39.355
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

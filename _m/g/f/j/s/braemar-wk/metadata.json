@@ -534,5 +534,24 @@
     "_m/g/f/j/s/braemar-wk/a-row-of-terraced-cottages-geo.jpg",
     "_m/g/f/j/s/braemar-wk/the-invercauld-arms-hotel-geog.jpg"
   ],
-  "updatedAt": "2026-06-24T01:56:59.556Z"
+  "updatedAt": "2026-06-24T01:56:59.556Z",
+  "narration": {
+    "files": [
+      "gfjs-braemar-flight-context.mp3",
+      "gfjs-braemar-intro.mp3",
+      "gfjs-braemar-the-eastern-gateway-to-cairngorms.mp3",
+      "gfjs-braemar-where-the-dee-begins-to-roar.mp3",
+      "gfjs-braemar-the-games-on-the-first-saturday.mp3",
+      "gfjs-braemar-a-village-that-closes-early.mp3"
+    ],
+    "durations": {
+      "gfjs-braemar-flight-context.mp3": 89.418875,
+      "gfjs-braemar-intro.mp3": 39.43925,
+      "gfjs-braemar-the-eastern-gateway-to-cairngorms.mp3": 56.998875,
+      "gfjs-braemar-where-the-dee-begins-to-roar.mp3": 59.793875,
+      "gfjs-braemar-the-games-on-the-first-saturday.mp3": 59.5470416,
+      "gfjs-braemar-a-village-that-closes-early.mp3": 53.58425
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -8,7 +8,7 @@ On the night of December 10, 2025, a Myanmar military jet dropped two bombs on t
 
 ## Introduction
 
-The date was not accidental. On December 10, 2025, just hours before the bombs fell, the European Union, the United Kingdom, Canada, Norway, and Australia had issued statements marking Human Rights Day by denouncing Myanmar's record of human rights violations. That same night, a Myanmar military jet flew over Mrauk U Township in western Rakhine State and dropped at least two bombs on the town's general hospital, a civilian facility known across the region for being well-equipped, full of patients, staffed by caregivers who had stayed through years of civil war.
+On December 10, 2025, just hours before the bombs fell, the European Union, the United Kingdom, Canada, Norway, and Australia had issued statements marking Human Rights Day by denouncing Myanmar's record of human rights violations. That same night, a Myanmar military jet flew over Mrauk U Township in western Rakhine State and dropped at least two bombs on the town's general hospital, a civilian facility known across the region for being well-equipped, full of patients, staffed by caregivers who had stayed through years of civil war.
 
 ## A Town Already Changed by War
 
@@ -24,7 +24,7 @@ More than 33 people died. Arakan Army spokesperson Khaing Thu Kha reported that 
 
 ## A World Responds
 
-The condemnation was swift and broad. The European Union declared the attack a violation of international humanitarian law. Doctors Without Borders, which had long operated in Rakhine State, issued a statement of horror. The World Health Organization's Director-General, Tedros Adhanom Ghebreyesus, condemned the strike publicly. Myanmar's own National Unity Government, the opposition body in exile, denounced the junta. Bangladesh's Foreign Ministry added its voice. ASEAN issued a formal condemnation. Multiple organizations and governments used the same word: war crime. The military junta, for its part, later claimed the hospital had been used as a base by armed groups, a claim contradicted by the civilian nature of the casualties and the hospital's documented role as a medical facility.
+The condemnation was swift and broad. The European Union declared the attack a violation of international humanitarian law. Doctors Without Borders, which had long operated in Rakhine State, issued a statement of horror. The World Health Organization's Director-General, Tedros Adhanom Ghebreyesus, condemned the strike publicly. Myanmar's own National Unity Government, the opposition body in exile, denounced the junta. Bangladesh's Foreign Ministry added its voice. ASEAN issued a formal condemnation. Multiple organizations and governments used the same word: war crime. The military junta, for its part, later claimed the hospital had been used as a base by armed groups -- an assertion rejected by U.N. and humanitarian officials, who pointed to the civilian casualties and the hospital's documented role as a medical facility.
 
 ## What Came After
 
@@ -47,6 +47,8 @@ The site of the former Mrauk U general hospital is located at approximately 20.5
 - [At least 33 killed in Myanmar military gov't air strike on hospital - Al Jazeera](https://www.aljazeera.com/news/2025/12/11/dozens-killed-as-myanmar-military-govt-launches-air-strike-on-hospital)
   - Arakan Army captured Mrauk U in February 2024
   - International community including EU, MSF, NUG, Bangladesh condemned the attack
+- [Review — 2026-07-13](https://www.aljazeera.com/news/2025/12/11/dozens-killed-as-myanmar-military-govt-launches-air-strike-on-hospital)
+  - Removed the unsupported assertion of deliberate malicious timing ("The date was not accidental") — sources present the Human Rights Day statements as concurrent, not as evidence of intent — and attributed the rebuttal of the junta's "military base" claim to U.N. and humanitarian officials rather than stating it in our own voice.
 
 ## Review Notes
 

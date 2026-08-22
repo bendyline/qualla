@@ -129,5 +129,24 @@
     "_m/r/0/x/g/overland-track-wp/day-1-overland-track-w.jpg",
     "_m/r/0/x/g/overland-track-wp/waterfalls-accessible.jpg",
     "_m/r/0/x/g/overland-track-wp/beautiful-scorparia-ov.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r0xg-overland-track-flight-context.mp3",
+      "r0xg-overland-track-intro.mp3",
+      "r0xg-overland-track-six-days-on-foot.mp3",
+      "r0xg-overland-track-side-trips-to-the-summits.mp3",
+      "r0xg-overland-track-an-older-country.mp3",
+      "r0xg-overland-track-the-mountains-terms.mp3"
+    ],
+    "durations": {
+      "r0xg-overland-track-flight-context.mp3": 82.8251666,
+      "r0xg-overland-track-intro.mp3": 49.9750833,
+      "r0xg-overland-track-six-days-on-foot.mp3": 48.9924166,
+      "r0xg-overland-track-side-trips-to-the-summits.mp3": 52.2484583,
+      "r0xg-overland-track-an-older-country.mp3": 50.9160416,
+      "r0xg-overland-track-the-mountains-terms.mp3": 57.326375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

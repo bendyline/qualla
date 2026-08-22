@@ -560,5 +560,24 @@
     "_m/w/e/c/n/wan-chai-district-wp/hk-tram-46-view-wan-chai-johns.jpg",
     "_m/w/e/c/n/wan-chai-district-wp/dish-of-thai-food.jpg"
   ],
-  "updatedAt": "2026-06-29T04:40:08.039Z"
+  "updatedAt": "2026-06-29T04:40:08.039Z",
+  "narration": {
+    "files": [
+      "wecn-wan-chai-district-flight-context.mp3",
+      "wecn-wan-chai-district-intro.mp3",
+      "wecn-wan-chai-district-a-shore-that-kept-moving.mp3",
+      "wecn-wan-chai-district-1997-and-what-happened-here.mp3",
+      "wecn-wan-chai-district-the-district-behind-the-headline.mp3",
+      "wecn-wan-chai-district-layers-within-layers.mp3"
+    ],
+    "durations": {
+      "wecn-wan-chai-district-flight-context.mp3": 45.1750833,
+      "wecn-wan-chai-district-intro.mp3": 48.5431666,
+      "wecn-wan-chai-district-a-shore-that-kept-moving.mp3": 72.4086666,
+      "wecn-wan-chai-district-1997-and-what-happened-here.mp3": 53.2480416,
+      "wecn-wan-chai-district-the-district-behind-the-headline.mp3": 62.4115,
+      "wecn-wan-chai-district-layers-within-layers.mp3": 61.606625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

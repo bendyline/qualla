@@ -52,5 +52,26 @@
     "sourceGeohash4": "swbb"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "swbb-double-headed-eagles-derby-flight-context.mp3",
+      "swbb-double-headed-eagles-derby-intro.mp3",
+      "swbb-double-headed-eagles-derby-a-city-left-behind.mp3",
+      "swbb-double-headed-eagles-derby-two-eagles-one-origin.mp3",
+      "swbb-double-headed-eagles-derby-brothers-on-the-pitch.mp3",
+      "swbb-double-headed-eagles-derby-a-family-tree-of-transfers.mp3",
+      "swbb-double-headed-eagles-derby-when-warmth-turned-sharp.mp3"
+    ],
+    "durations": {
+      "swbb-double-headed-eagles-derby-flight-context.mp3": 46.421375,
+      "swbb-double-headed-eagles-derby-intro.mp3": 41.021625,
+      "swbb-double-headed-eagles-derby-a-city-left-behind.mp3": 53.2707083,
+      "swbb-double-headed-eagles-derby-two-eagles-one-origin.mp3": 50.4485416,
+      "swbb-double-headed-eagles-derby-brothers-on-the-pitch.mp3": 48.8615,
+      "swbb-double-headed-eagles-derby-a-family-tree-of-transfers.mp3": 47.07775,
+      "swbb-double-headed-eagles-derby-when-warmth-turned-sharp.mp3": 52.765
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

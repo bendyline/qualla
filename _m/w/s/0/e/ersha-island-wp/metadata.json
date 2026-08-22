@@ -500,5 +500,24 @@
     "_m/w/s/0/e/ersha-island-wp/eastbound-platform-ersha-islan.jpg",
     "_m/w/s/0/e/ersha-island-wp/category-20.jpg"
   ],
-  "updatedAt": "2026-06-29T14:37:35.214Z"
+  "updatedAt": "2026-06-29T14:37:35.214Z",
+  "narration": {
+    "files": [
+      "ws0e-ersha-island-flight-context.mp3",
+      "ws0e-ersha-island-intro.mp3",
+      "ws0e-ersha-island-named-for-a-man-who-never-quite-arrived.mp3",
+      "ws0e-ersha-island-two-opium-wars-one-island.mp3",
+      "ws0e-ersha-island-the-river-reshapes-what-it-touches.mp3",
+      "ws0e-ersha-island-a-school-island-too.mp3"
+    ],
+    "durations": {
+      "ws0e-ersha-island-flight-context.mp3": 45.5408333,
+      "ws0e-ersha-island-intro.mp3": 42.7859166,
+      "ws0e-ersha-island-named-for-a-man-who-never-quite-arrived.mp3": 54.6299583,
+      "ws0e-ersha-island-two-opium-wars-one-island.mp3": 62.104125,
+      "ws0e-ersha-island-the-river-reshapes-what-it-touches.mp3": 59.32525,
+      "ws0e-ersha-island-a-school-island-too.mp3": 54.620875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

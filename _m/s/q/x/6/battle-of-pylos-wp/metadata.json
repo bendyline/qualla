@@ -65,5 +65,26 @@
     "sourceGeohash4": "sqx6"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sqx6-battle-of-pylos-flight-context.mp3",
+      "sqx6-battle-of-pylos-intro.mp3",
+      "sqx6-battle-of-pylos-an-accidental-foothold.mp3",
+      "sqx6-battle-of-pylos-spartas-alarm.mp3",
+      "sqx6-battle-of-pylos-a-day-and-a-half-of-assault.mp3",
+      "sqx6-battle-of-pylos-the-tables-turn.mp3",
+      "sqx6-battle-of-pylos-a-shield-hung-in-athens.mp3"
+    ],
+    "durations": {
+      "sqx6-battle-of-pylos-flight-context.mp3": 56.6132916,
+      "sqx6-battle-of-pylos-intro.mp3": 57.9689583,
+      "sqx6-battle-of-pylos-an-accidental-foothold.mp3": 61.931875,
+      "sqx6-battle-of-pylos-spartas-alarm.mp3": 54.1970833,
+      "sqx6-battle-of-pylos-a-day-and-a-half-of-assault.mp3": 57.0267083,
+      "sqx6-battle-of-pylos-the-tables-turn.mp3": 65.068875,
+      "sqx6-battle-of-pylos-a-shield-hung-in-athens.mp3": 55.8550416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -954,5 +954,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "mh00-isalo-national-park-flight-context.mp3",
+      "mh00-isalo-national-park-intro.mp3",
+      "mh00-isalo-national-park-stone-laid-down-by-lost-rivers.mp3",
+      "mh00-isalo-national-park-life-in-the-cracks.mp3",
+      "mh00-isalo-national-park-a-sacred-land-of-the-bara.mp3",
+      "mh00-isalo-national-park-fire-and-the-fragile-balance.mp3"
+    ],
+    "durations": {
+      "mh00-isalo-national-park-flight-context.mp3": 67.1875416,
+      "mh00-isalo-national-park-intro.mp3": 48.6417916,
+      "mh00-isalo-national-park-stone-laid-down-by-lost-rivers.mp3": 52.5797083,
+      "mh00-isalo-national-park-life-in-the-cracks.mp3": 64.4205,
+      "mh00-isalo-national-park-a-sacred-land-of-the-bara.mp3": 49.8897083,
+      "mh00-isalo-national-park-fire-and-the-fragile-balance.mp3": 58.722
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

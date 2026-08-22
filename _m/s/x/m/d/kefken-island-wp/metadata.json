@@ -157,5 +157,24 @@
     "_m/s/x/m/d/kefken-island-wp/kefken-adas-1.jpg",
     "_m/s/x/m/d/kefken-island-wp/kefken-adas-4.jpg"
   ],
-  "updatedAt": "2026-06-25T08:12:54.485Z"
+  "updatedAt": "2026-06-25T08:12:54.485Z",
+  "narration": {
+    "files": [
+      "sxmd-kefken-island-flight-context.mp3",
+      "sxmd-kefken-island-intro.mp3",
+      "sxmd-kefken-island-an-island-of-many-names.mp3",
+      "sxmd-kefken-island-a-bishopric-on-the-margins.mp3",
+      "sxmd-kefken-island-the-moment-constantinople-changed.mp3",
+      "sxmd-kefken-island-fortress-walls-and-the-lighthouse.mp3"
+    ],
+    "durations": {
+      "sxmd-kefken-island-flight-context.mp3": 52.2960833,
+      "sxmd-kefken-island-intro.mp3": 43.0419583,
+      "sxmd-kefken-island-an-island-of-many-names.mp3": 56.680875,
+      "sxmd-kefken-island-a-bishopric-on-the-margins.mp3": 60.2480833,
+      "sxmd-kefken-island-the-moment-constantinople-changed.mp3": 62.1004583,
+      "sxmd-kefken-island-fortress-walls-and-the-lighthouse.mp3": 54.9915
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

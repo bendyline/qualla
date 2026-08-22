@@ -52,5 +52,24 @@
     "sourceGeohash4": "swb8"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "swb8-nea-peramos-flight-context.mp3",
+      "swb8-nea-peramos-intro.mp3",
+      "swb8-nea-peramos-the-shore-between-two-cities.mp3",
+      "swb8-nea-peramos-expelled-from-peramos-1922.mp3",
+      "swb8-nea-peramos-pigeon-flyers-and-the-sardine-night.mp3",
+      "swb8-nea-peramos-the-old-road-and-the-new-name.mp3"
+    ],
+    "durations": {
+      "swb8-nea-peramos-flight-context.mp3": 57.2285,
+      "swb8-nea-peramos-intro.mp3": 48.99875,
+      "swb8-nea-peramos-the-shore-between-two-cities.mp3": 75.1706666,
+      "swb8-nea-peramos-expelled-from-peramos-1922.mp3": 78.93925,
+      "swb8-nea-peramos-pigeon-flyers-and-the-sardine-night.mp3": 74.591625,
+      "swb8-nea-peramos-the-old-road-and-the-new-name.mp3": 65.0829583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

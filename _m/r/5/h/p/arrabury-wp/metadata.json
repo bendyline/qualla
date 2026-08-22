@@ -60,5 +60,24 @@
     "sourceGeohash4": "r5hp"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "r5hp-arrabury-flight-context.mp3",
+      "r5hp-arrabury-intro.mp3",
+      "r5hp-arrabury-a-property-the-size-of-a-county.mp3",
+      "r5hp-arrabury-wool-fire-and-the-melbourne-market.mp3",
+      "r5hp-arrabury-the-rhythm-of-drought-and-flood.mp3",
+      "r5hp-arrabury-where-the-rivers-spread-out.mp3"
+    ],
+    "durations": {
+      "r5hp-arrabury-flight-context.mp3": 61.3804166,
+      "r5hp-arrabury-intro.mp3": 42.6710833,
+      "r5hp-arrabury-a-property-the-size-of-a-county.mp3": 54.4429583,
+      "r5hp-arrabury-wool-fire-and-the-melbourne-market.mp3": 55.280625,
+      "r5hp-arrabury-the-rhythm-of-drought-and-flood.mp3": 54.5112083,
+      "r5hp-arrabury-where-the-rivers-spread-out.mp3": 66.5342083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

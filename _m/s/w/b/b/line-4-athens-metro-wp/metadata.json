@@ -423,5 +423,24 @@
     "_m/s/w/b/b/line-4-athens-metro-wp/ilissia-metro-station.jpg",
     "_m/s/w/b/b/line-4-athens-metro-wp/goudi-metro-station-co.jpg",
     "_m/s/w/b/b/line-4-athens-metro-wp/katechaki-tbm-shaft.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swbb-line-4-athens-metro-flight-context.mp3",
+      "swbb-line-4-athens-metro-intro.mp3",
+      "swbb-line-4-athens-metro-a-line-made-from-two.mp3",
+      "swbb-line-4-athens-metro-the-square-that-fought-back.mp3",
+      "swbb-line-4-athens-metro-digging-deep.mp3",
+      "swbb-line-4-athens-metro-what-comes-next.mp3"
+    ],
+    "durations": {
+      "swbb-line-4-athens-metro-flight-context.mp3": 73.4109166,
+      "swbb-line-4-athens-metro-intro.mp3": 45.8022916,
+      "swbb-line-4-athens-metro-a-line-made-from-two.mp3": 61.3023333,
+      "swbb-line-4-athens-metro-the-square-that-fought-back.mp3": 54.661625,
+      "swbb-line-4-athens-metro-digging-deep.mp3": 62.0782083,
+      "swbb-line-4-athens-metro-what-comes-next.mp3": 57.8960416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

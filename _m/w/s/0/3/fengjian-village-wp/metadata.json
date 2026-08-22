@@ -51,5 +51,24 @@
     "sourceGeohash4": "ws03"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "ws03-fengjian-village-flight-context.mp3",
+      "ws03-fengjian-village-intro.mp3",
+      "ws03-fengjian-village-two-thousand-years-of-habitation.mp3",
+      "ws03-fengjian-village-bridges-archways-and-ancestral-halls.mp3",
+      "ws03-fengjian-village-an-emperors-gift-and-a-flowering-tree.mp3",
+      "ws03-fengjian-village-water-town-living-place.mp3"
+    ],
+    "durations": {
+      "ws03-fengjian-village-flight-context.mp3": 68.9430416,
+      "ws03-fengjian-village-intro.mp3": 50.775875,
+      "ws03-fengjian-village-two-thousand-years-of-habitation.mp3": 57.8969583,
+      "ws03-fengjian-village-bridges-archways-and-ancestral-halls.mp3": 68.7814583,
+      "ws03-fengjian-village-an-emperors-gift-and-a-flowering-tree.mp3": 67.5284166,
+      "ws03-fengjian-village-water-town-living-place.mp3": 64.9210416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

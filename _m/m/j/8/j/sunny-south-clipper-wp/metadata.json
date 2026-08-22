@@ -51,5 +51,24 @@
     "sourceGeohash4": "mj8j"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "mj8j-sunny-south-clipper-flight-context.mp3",
+      "mj8j-sunny-south-clipper-intro.mp3",
+      "mj8j-sunny-south-clipper-greyhound-of-the-sea.mp3",
+      "mj8j-sunny-south-clipper-the-emanuela.mp3",
+      "mj8j-sunny-south-clipper-what-the-boarding-party-found.mp3",
+      "mj8j-sunny-south-clipper-wrecked-at-mayotte.mp3"
+    ],
+    "durations": {
+      "mj8j-sunny-south-clipper-flight-context.mp3": 56.8258333,
+      "mj8j-sunny-south-clipper-intro.mp3": 52.0107083,
+      "mj8j-sunny-south-clipper-greyhound-of-the-sea.mp3": 58.555625,
+      "mj8j-sunny-south-clipper-the-emanuela.mp3": 58.145,
+      "mj8j-sunny-south-clipper-what-the-boarding-party-found.mp3": 61.7301666,
+      "mj8j-sunny-south-clipper-wrecked-at-mayotte.mp3": 60.5640416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

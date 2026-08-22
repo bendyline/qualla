@@ -61,5 +61,26 @@
     "sourceGeohash4": "gfh0"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gfh0-battle-of-lagganmore-flight-context.mp3",
+      "gfh0-battle-of-lagganmore-intro.mp3",
+      "gfh0-battle-of-lagganmore-a-war-inside-a-war.mp3",
+      "gfh0-battle-of-lagganmore-mac-colla-and-the-irish-soldiers.mp3",
+      "gfh0-battle-of-lagganmore-the-battle-in-glen-euchar.mp3",
+      "gfh0-battle-of-lagganmore-the-barn-of-bones.mp3",
+      "gfh0-battle-of-lagganmore-what-the-glen-remembers.mp3"
+    ],
+    "durations": {
+      "gfh0-battle-of-lagganmore-flight-context.mp3": 59.3077916,
+      "gfh0-battle-of-lagganmore-intro.mp3": 47.03575,
+      "gfh0-battle-of-lagganmore-a-war-inside-a-war.mp3": 53.0674166,
+      "gfh0-battle-of-lagganmore-mac-colla-and-the-irish-soldiers.mp3": 59.891375,
+      "gfh0-battle-of-lagganmore-the-battle-in-glen-euchar.mp3": 55.8020416,
+      "gfh0-battle-of-lagganmore-the-barn-of-bones.mp3": 55.9972083,
+      "gfh0-battle-of-lagganmore-what-the-glen-remembers.mp3": 49.90775
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

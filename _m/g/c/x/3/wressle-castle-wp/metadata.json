@@ -532,5 +532,24 @@
     "_m/g/c/x/3/wressle-castle-wp/person-walks-near-the-wressle-.jpg",
     "_m/g/c/x/3/wressle-castle-wp/towards-wressle-castle-geograp.jpg"
   ],
-  "updatedAt": "2026-06-23T11:14:35.086Z"
+  "updatedAt": "2026-06-23T11:14:35.086Z",
+  "narration": {
+    "files": [
+      "gcx3-wressle-castle-flight-context.mp3",
+      "gcx3-wressle-castle-intro.mp3",
+      "gcx3-wressle-castle-a-quadrangular-castle.mp3",
+      "gcx3-wressle-castle-the-percys-return.mp3",
+      "gcx3-wressle-castle-slighted.mp3",
+      "gcx3-wressle-castle-the-bats-and-the-bowling-alley.mp3"
+    ],
+    "durations": {
+      "gcx3-wressle-castle-flight-context.mp3": 56.6485833,
+      "gcx3-wressle-castle-intro.mp3": 56.0083333,
+      "gcx3-wressle-castle-a-quadrangular-castle.mp3": 67.0397083,
+      "gcx3-wressle-castle-the-percys-return.mp3": 68.6313333,
+      "gcx3-wressle-castle-slighted.mp3": 60.3545,
+      "gcx3-wressle-castle-the-bats-and-the-bowling-alley.mp3": 78.5613333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

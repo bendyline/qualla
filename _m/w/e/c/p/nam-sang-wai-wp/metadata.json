@@ -373,5 +373,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecp-nam-sang-wai-flight-context.mp3",
+      "wecp-nam-sang-wai-intro.mp3",
+      "wecp-nam-sang-wai-a-wetland-holding-its-own.mp3",
+      "wecp-nam-sang-wai-decades-of-contested-ground.mp3",
+      "wecp-nam-sang-wai-fire-watchfulness-and-the-question-of-intent.mp3",
+      "wecp-nam-sang-wai-what-remains.mp3"
+    ],
+    "durations": {
+      "wecp-nam-sang-wai-flight-context.mp3": 57.1565833,
+      "wecp-nam-sang-wai-intro.mp3": 41.2365416,
+      "wecp-nam-sang-wai-a-wetland-holding-its-own.mp3": 56.2427083,
+      "wecp-nam-sang-wai-decades-of-contested-ground.mp3": 66.8391666,
+      "wecp-nam-sang-wai-fire-watchfulness-and-the-question-of-intent.mp3": 64.0009166,
+      "wecp-nam-sang-wai-what-remains.mp3": 62.4191666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

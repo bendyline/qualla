@@ -83,5 +83,26 @@
   "galleryPaths": [
     "_m/s/q/z/d/battle-of-naupactus-wp/battle-of-naupactus.png"
   ],
-  "updatedAt": "2026-06-24T12:02:01.970Z"
+  "updatedAt": "2026-06-24T12:02:01.970Z",
+  "narration": {
+    "files": [
+      "sqzd-battle-of-naupactus-flight-context.mp3",
+      "sqzd-battle-of-naupactus-intro.mp3",
+      "sqzd-battle-of-naupactus-the-weight-of-the-odds.mp3",
+      "sqzd-battle-of-naupactus-into-the-gulf.mp3",
+      "sqzd-battle-of-naupactus-collapse-then-reversal.mp3",
+      "sqzd-battle-of-naupactus-what-the-victory-cost-and-secured.mp3",
+      "sqzd-battle-of-naupactus-phormios-waters-today.mp3"
+    ],
+    "durations": {
+      "sqzd-battle-of-naupactus-flight-context.mp3": 64.8358333,
+      "sqzd-battle-of-naupactus-intro.mp3": 39.3005,
+      "sqzd-battle-of-naupactus-the-weight-of-the-odds.mp3": 51.2400416,
+      "sqzd-battle-of-naupactus-into-the-gulf.mp3": 50.2892916,
+      "sqzd-battle-of-naupactus-collapse-then-reversal.mp3": 53.0615,
+      "sqzd-battle-of-naupactus-what-the-victory-cost-and-secured.mp3": 70.3394583,
+      "sqzd-battle-of-naupactus-phormios-waters-today.mp3": 50.2755
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

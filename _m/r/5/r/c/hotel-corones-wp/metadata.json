@@ -471,5 +471,24 @@
     "_m/r/5/r/c/hotel-corones-wp/foyer-hotel-corones-charlevill-1.jpg",
     "_m/r/5/r/c/hotel-corones-wp/hotel-corones-charleville-quee-1.jpg"
   ],
-  "updatedAt": "2026-06-28T07:00:27.608Z"
+  "updatedAt": "2026-06-28T07:00:27.608Z",
+  "narration": {
+    "files": [
+      "r5rc-hotel-corones-flight-context.mp3",
+      "r5rc-hotel-corones-intro.mp3",
+      "r5rc-hotel-corones-from-kythera-to-the-mulga.mp3",
+      "r5rc-hotel-corones-a-palace-on-wills-street.mp3",
+      "r5rc-hotel-corones-poppas-place.mp3",
+      "r5rc-hotel-corones-what-endures.mp3"
+    ],
+    "durations": {
+      "r5rc-hotel-corones-flight-context.mp3": 64.3078333,
+      "r5rc-hotel-corones-intro.mp3": 36.77675,
+      "r5rc-hotel-corones-from-kythera-to-the-mulga.mp3": 50.8735833,
+      "r5rc-hotel-corones-a-palace-on-wills-street.mp3": 61.2794166,
+      "r5rc-hotel-corones-poppas-place.mp3": 52.7522916,
+      "r5rc-hotel-corones-what-endures.mp3": 51.9635833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

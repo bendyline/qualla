@@ -12,7 +12,7 @@ On the morning of 4 May 2025, a Houthi ballistic missile hit near Ben Gurion Air
 
 ## Opening Salvoes
 
-On 5 May, more than thirty Israeli aircraft dropped approximately fifty munitions on nine targets, including the al-Imran cement factory east of Hudaydah. Houthi-linked media reported four people killed and forty-two wounded at the factory. On 6 May, Israeli forces hit Sanaa International Airport - the runway, al-Dailami Air Base, the departure hall, and three civilian planes belonging to Yemenia, the national airline. The IDF said the airport was being used to transfer weapons and operatives. Three people died and thirty-eight were wounded. By the end of May, Israel had returned again to destroy Yemenia's last remaining plane, which the airline said had been scheduled to carry Muslim pilgrims to the hajj in Saudi Arabia. Civilian air travel for a country of thirty-plus million people effectively ceased.
+On 5 May, more than thirty Israeli aircraft dropped approximately fifty munitions on nine targets, including the al-Imran cement factory east of Hudaydah. Houthi-linked media reported four people killed and forty-two wounded at the factory. On 6 May, Israeli forces hit Sanaa International Airport - the runway, al-Dailami Air Base, the departure hall, and three civilian planes belonging to Yemenia, the national airline. The IDF said the airport was being used to transfer weapons and operatives. Three people died and thirty-eight were wounded, according to Houthi-run media. By the end of May, Israel had returned again to destroy Yemenia's last remaining plane, which the airline said had been scheduled to carry Muslim pilgrims to the hajj in Saudi Arabia. Civilian air travel for a country of thirty-plus million people effectively ceased.
 
 ## The Navy Joins
 
@@ -28,7 +28,7 @@ On 28 August 2025, the Israeli Air Force hit a gathering of senior Houthi offici
 
 ## September's Cost
 
-On 10 September, the IDF struck Sanaa and several locations across Yemen as part of what Defense Minister Israel Katz named Operation Ringing Bells. Targets included a government complex, military camps, public information offices, and fuel storage in al-Hazm, al-Jawf Governorate. A spokesman for the Houthi-run health ministry reported 35 people killed and 131 others injured. Advance notice had been given for evacuations; the number of Yemeni civilians killed still reached dozens. On 25 September, dozens of IDF aircraft hit targets in Sanaa's Ma'ain and Sabain districts, including the Dhahaban power station, killing 8 and injuring 142. Each strike generated its own list of names and addresses, most of them civilians whose homes and workplaces were collateral to larger strategic objectives.
+On 10 September, the IDF struck Sanaa and several locations across Yemen as part of what Defense Minister Israel Katz named Operation Ringing Bells. Targets included a government complex, military camps, public information offices, and fuel storage in al-Hazm, al-Jawf Governorate. A spokesman for the Houthi-run health ministry reported 35 people killed and 131 others injured. Advance notice had been given for evacuations; the number of Yemeni civilians killed still reached dozens. On 25 September, dozens of IDF aircraft hit targets in Sanaa's Ma'ain and Sabain districts, including the Dhahaban power station, killing 8 and injuring 142, according to Houthi health authorities. Each strike generated its own list of names and addresses, most of them civilians whose homes and workplaces were collateral to larger strategic objectives.
 
 ## The Ceasefire
 
@@ -46,6 +46,8 @@ Coordinates: 14.841°N, 42.930°E. This entry covers a campaign rather than a si
   - Houthi PM Ahmed al-Rahawi killed 28 August confirmed
   - Gaza ceasefire October 2025 context verified
   - Yemenia fleet destroyed on ground confirmed
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2025_Israeli_attacks_in_Yemen)
+  - Attributed two casualty figures (6 May Sanaa airport; 25 September Sanaa strikes) to Houthi-run media / health authorities rather than stating them as bare fact, matching the source.
 
 ## Review Notes
 

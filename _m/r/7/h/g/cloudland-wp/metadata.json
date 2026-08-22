@@ -133,5 +133,24 @@
     "_m/r/7/h/g/cloudland-wp/cloudland.jpg",
     "_m/r/7/h/g/cloudland-wp/cloudland-1939.jpg"
   ],
-  "updatedAt": "2026-06-28T11:12:01.465Z"
+  "updatedAt": "2026-06-28T11:12:01.465Z",
+  "narration": {
+    "files": [
+      "r7hg-cloudland-flight-context.mp3",
+      "r7hg-cloudland-intro.mp3",
+      "r7hg-cloudland-the-floor-that-moved.mp3",
+      "r7hg-cloudland-a-stage-for-everyone.mp3",
+      "r7hg-cloudland-the-midnight-demolition.mp3",
+      "r7hg-cloudland-what-the-hill-remembers.mp3"
+    ],
+    "durations": {
+      "r7hg-cloudland-flight-context.mp3": 53.12875,
+      "r7hg-cloudland-intro.mp3": 39.1132916,
+      "r7hg-cloudland-the-floor-that-moved.mp3": 51.070875,
+      "r7hg-cloudland-a-stage-for-everyone.mp3": 64.5792083,
+      "r7hg-cloudland-the-midnight-demolition.mp3": 55.46875,
+      "r7hg-cloudland-what-the-hill-remembers.mp3": 51.61325
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

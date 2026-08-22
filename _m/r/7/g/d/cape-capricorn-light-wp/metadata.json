@@ -128,5 +128,24 @@
   "galleryPaths": [
     "_m/r/7/g/d/cape-capricorn-light-wp/lighthouse-houses-wate.jpg",
     "_m/r/7/g/d/cape-capricorn-light-wp/cape-capricorn-lightst.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r7gd-cape-capricorn-light-flight-context.mp3",
+      "r7gd-cape-capricorn-light-intro.mp3",
+      "r7gd-cape-capricorn-light-a-light-for-a-new-colony.mp3",
+      "r7gd-cape-capricorn-light-the-hardest-part-was-getting-there.mp3",
+      "r7gd-cape-capricorn-light-three-towers-one-headland.mp3",
+      "r7gd-cape-capricorn-light-island-time.mp3"
+    ],
+    "durations": {
+      "r7gd-cape-capricorn-light-flight-context.mp3": 51.166125,
+      "r7gd-cape-capricorn-light-intro.mp3": 48.9304583,
+      "r7gd-cape-capricorn-light-a-light-for-a-new-colony.mp3": 69.379875,
+      "r7gd-cape-capricorn-light-the-hardest-part-was-getting-there.mp3": 45.9090833,
+      "r7gd-cape-capricorn-light-three-towers-one-headland.mp3": 48.3185833,
+      "r7gd-cape-capricorn-light-island-time.mp3": 41.0500416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -58,5 +58,24 @@
     "sourceGeohash4": "ws0e"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "ws0e-the-canton-hospital-flight-context.mp3",
+      "ws0e-the-canton-hospital-intro.mp3",
+      "ws0e-the-canton-hospital-why-canton-and-why-eyes.mp3",
+      "ws0e-the-canton-hospital-from-eye-infirmary-to-general-hospital.mp3",
+      "ws0e-the-canton-hospital-the-opium-war-and-the-interrupted-hospital.mp3",
+      "ws0e-the-canton-hospital-the-student-who-changed-everything.mp3"
+    ],
+    "durations": {
+      "ws0e-the-canton-hospital-flight-context.mp3": 46.9825,
+      "ws0e-the-canton-hospital-intro.mp3": 52.9150833,
+      "ws0e-the-canton-hospital-why-canton-and-why-eyes.mp3": 65.2097916,
+      "ws0e-the-canton-hospital-from-eye-infirmary-to-general-hospital.mp3": 75.2334166,
+      "ws0e-the-canton-hospital-the-opium-war-and-the-interrupted-hospital.mp3": 61.7565416,
+      "ws0e-the-canton-hospital-the-student-who-changed-everything.mp3": 76.8189583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

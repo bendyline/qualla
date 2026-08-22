@@ -24,7 +24,7 @@ Within days, the IRA Army Council issued a statement saying that the Harrods car
 
 ## The Store That Reopened
 
-Harrods reopened three days later. The chairman, Aleck Craddock, declared that the store would not be "defeated by acts of terrorism." It was a small statement made into a large one by Christmas, by London, by the photographs of the shattered fronts of the cars still being cleared from Hans Crescent. Denis Thatcher, the Prime Minister's husband, was equally direct: "No damned Irishman will stop me," he told reporters as he went shopping at the store himself. Hundreds of extra police were drafted into the West End. Mobile bomb squads patrolled the shopping districts through Christmas week.
+Harrods reopened three days later. The chairman, Aleck Craddock, declared that the store would not be "defeated by acts of terrorism." It was a small statement made into a large one by Christmas, by London, by the photographs of the shattered fronts of the cars still being cleared from Hans Crescent. Denis Thatcher, the Prime Minister's husband, was equally direct: "No damned Irishman is going to stop me going there," he told reporters as he went shopping at the store himself. Hundreds of extra police were drafted into the West End. Mobile bomb squads patrolled the shopping districts through Christmas week.
 
 ## A Memorial and a Lecture
 

@@ -765,5 +765,26 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcyb-penshaw-monument-flight-context.mp3",
+      "gcyb-penshaw-monument-intro.mp3",
+      "gcyb-penshaw-monument-a-temple-to-a-forgotten-earl.mp3",
+      "gcyb-penshaw-monument-the-spiral-staircase.mp3",
+      "gcyb-penshaw-monument-the-lambton-worm-and-the-football-crest.mp3",
+      "gcyb-penshaw-monument-visible-from-fifty-miles.mp3",
+      "gcyb-penshaw-monument-flight-context-2.mp3"
+    ],
+    "durations": {
+      "gcyb-penshaw-monument-flight-context.mp3": 36.2346666,
+      "gcyb-penshaw-monument-intro.mp3": 39.0615833,
+      "gcyb-penshaw-monument-a-temple-to-a-forgotten-earl.mp3": 68.046375,
+      "gcyb-penshaw-monument-the-spiral-staircase.mp3": 61.7347916,
+      "gcyb-penshaw-monument-the-lambton-worm-and-the-football-crest.mp3": 63.048625,
+      "gcyb-penshaw-monument-visible-from-fifty-miles.mp3": 52.5062916,
+      "gcyb-penshaw-monument-flight-context-2.mp3": 45.0005416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

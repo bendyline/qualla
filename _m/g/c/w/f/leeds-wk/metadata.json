@@ -724,5 +724,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcwf-leeds-flight-context.mp3",
+      "gcwf-leeds-intro.mp3",
+      "gcwf-leeds-cloth-and-coal.mp3",
+      "gcwf-leeds-the-first-moving-pictures.mp3",
+      "gcwf-leeds-the-arcades-and-the-markets.mp3",
+      "gcwf-leeds-the-cosmopolitan-city.mp3",
+      "gcwf-leeds-park-edges-and-river-banks.mp3"
+    ],
+    "durations": {
+      "gcwf-leeds-flight-context.mp3": 67.6214583,
+      "gcwf-leeds-intro.mp3": 60.0955833,
+      "gcwf-leeds-cloth-and-coal.mp3": 63.9320416,
+      "gcwf-leeds-the-first-moving-pictures.mp3": 53.9354166,
+      "gcwf-leeds-the-arcades-and-the-markets.mp3": 62.2087083,
+      "gcwf-leeds-the-cosmopolitan-city.mp3": 52.0300833,
+      "gcwf-leeds-park-edges-and-river-banks.mp3": 56.085625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

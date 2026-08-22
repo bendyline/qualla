@@ -50,5 +50,24 @@
     "sourceGeohash4": "gcyf"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcyf-hauxley-lifeboat-station-flight-context.mp3",
+      "gcyf-hauxley-lifeboat-station-intro.mp3",
+      "gcyf-hauxley-lifeboat-station-a-duke-pays-for-a-boat.mp3",
+      "gcyf-hauxley-lifeboat-station-the-five-day-storm.mp3",
+      "gcyf-hauxley-lifeboat-station-replacements-and-routine.mp3",
+      "gcyf-hauxley-lifeboat-station-the-end-at-hauxley.mp3"
+    ],
+    "durations": {
+      "gcyf-hauxley-lifeboat-station-flight-context.mp3": 47.9152916,
+      "gcyf-hauxley-lifeboat-station-intro.mp3": 43.548,
+      "gcyf-hauxley-lifeboat-station-a-duke-pays-for-a-boat.mp3": 60.0927916,
+      "gcyf-hauxley-lifeboat-station-the-five-day-storm.mp3": 55.99425,
+      "gcyf-hauxley-lifeboat-station-replacements-and-routine.mp3": 59.7412916,
+      "gcyf-hauxley-lifeboat-station-the-end-at-hauxley.mp3": 50.8655
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

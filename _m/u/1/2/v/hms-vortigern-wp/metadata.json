@@ -87,5 +87,26 @@
   "galleryPaths": [
     "_m/u/1/2/v/hms-vortigern-wp/guerre-civile-a-dublin-le-navi.jpg"
   ],
-  "updatedAt": "2026-06-26T00:21:30.186Z"
+  "updatedAt": "2026-06-26T00:21:30.186Z",
+  "narration": {
+    "files": [
+      "u12v-hms-vortigern-flight-context.mp3",
+      "u12v-hms-vortigern-intro.mp3",
+      "u12v-hms-vortigern-built-for-the-last-war.mp3",
+      "u12v-hms-vortigern-reserve-and-recall.mp3",
+      "u12v-hms-vortigern-gibraltar-mers-el-kebir-and-home.mp3",
+      "u12v-hms-vortigern-the-last-convoy.mp3",
+      "u12v-hms-vortigern-a-protected-wreck.mp3"
+    ],
+    "durations": {
+      "u12v-hms-vortigern-flight-context.mp3": 40.36475,
+      "u12v-hms-vortigern-intro.mp3": 48.803625,
+      "u12v-hms-vortigern-built-for-the-last-war.mp3": 50.7391666,
+      "u12v-hms-vortigern-reserve-and-recall.mp3": 49.4975,
+      "u12v-hms-vortigern-gibraltar-mers-el-kebir-and-home.mp3": 53.1640833,
+      "u12v-hms-vortigern-the-last-convoy.mp3": 54.869,
+      "u12v-hms-vortigern-a-protected-wreck.mp3": 50.5535416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -68,5 +68,24 @@
     "sourceGeohash4": "r5zm"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "r5zm-aramac-station-flight-context.mp3",
+      "r5zm-aramac-station-intro.mp3",
+      "r5zm-aramac-station-the-people-whose-country-this-was.mp3",
+      "r5zm-aramac-station-a-run-on-the-frontier.mp3",
+      "r5zm-aramac-station-sheep-by-the-hundred-thousand.mp3",
+      "r5zm-aramac-station-fire-hardship-and-the-carve-up.mp3"
+    ],
+    "durations": {
+      "r5zm-aramac-station-flight-context.mp3": 58.4190416,
+      "r5zm-aramac-station-intro.mp3": 41.1390416,
+      "r5zm-aramac-station-the-people-whose-country-this-was.mp3": 43.22375,
+      "r5zm-aramac-station-a-run-on-the-frontier.mp3": 57.07275,
+      "r5zm-aramac-station-sheep-by-the-hundred-thousand.mp3": 60.9853333,
+      "r5zm-aramac-station-fire-hardship-and-the-carve-up.mp3": 58.860875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

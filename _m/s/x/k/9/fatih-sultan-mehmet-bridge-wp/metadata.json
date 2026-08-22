@@ -598,5 +598,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-fatih-sultan-mehmet-bridge-flight-context.mp3",
+      "sxk9-fatih-sultan-mehmet-bridge-intro.mp3",
+      "sxk9-fatih-sultan-mehmet-bridge-engineering-a-crossing.mp3",
+      "sxk9-fatih-sultan-mehmet-bridge-two-shores-one-name.mp3",
+      "sxk9-fatih-sultan-mehmet-bridge-the-conquerors-shadow.mp3",
+      "sxk9-fatih-sultan-mehmet-bridge-from-above-the-strait.mp3"
+    ],
+    "durations": {
+      "sxk9-fatih-sultan-mehmet-bridge-flight-context.mp3": 55.6022083,
+      "sxk9-fatih-sultan-mehmet-bridge-intro.mp3": 50.3787083,
+      "sxk9-fatih-sultan-mehmet-bridge-engineering-a-crossing.mp3": 72.2935416,
+      "sxk9-fatih-sultan-mehmet-bridge-two-shores-one-name.mp3": 58.412,
+      "sxk9-fatih-sultan-mehmet-bridge-the-conquerors-shadow.mp3": 56.535375,
+      "sxk9-fatih-sultan-mehmet-bridge-from-above-the-strait.mp3": 51.6754583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

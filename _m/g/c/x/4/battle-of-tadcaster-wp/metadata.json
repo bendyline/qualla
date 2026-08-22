@@ -93,5 +93,26 @@
   ],
   "galleryPaths": [
     "_m/g/c/x/4/battle-of-marston-moor-wp/relief-map-north-yorks.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcx4-battle-of-tadcaster-flight-context.mp3",
+      "gcx4-battle-of-tadcaster-intro.mp3",
+      "gcx4-battle-of-tadcaster-newcastles-march.mp3",
+      "gcx4-battle-of-tadcaster-the-bridge-and-the-redoubt.mp3",
+      "gcx4-battle-of-tadcaster-six-hours-of-smoke.mp3",
+      "gcx4-battle-of-tadcaster-the-powder-runs-out.mp3",
+      "gcx4-battle-of-tadcaster-the-bridge-today.mp3"
+    ],
+    "durations": {
+      "gcx4-battle-of-tadcaster-flight-context.mp3": 56.2621666,
+      "gcx4-battle-of-tadcaster-intro.mp3": 43.41425,
+      "gcx4-battle-of-tadcaster-newcastles-march.mp3": 45.079375,
+      "gcx4-battle-of-tadcaster-the-bridge-and-the-redoubt.mp3": 41.2971666,
+      "gcx4-battle-of-tadcaster-six-hours-of-smoke.mp3": 67.9220833,
+      "gcx4-battle-of-tadcaster-the-powder-runs-out.mp3": 58.8170833,
+      "gcx4-battle-of-tadcaster-the-bridge-today.mp3": 47.5537083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

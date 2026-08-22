@@ -578,5 +578,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecp-wang-fuk-court-fire-flight-context.mp3",
+      "wecp-wang-fuk-court-fire-intro.mp3",
+      "wecp-wang-fuk-court-fire-the-building-and-the-renovation.mp3",
+      "wecp-wang-fuk-court-fire-the-day-of-the-fire.mp3",
+      "wecp-wang-fuk-court-fire-a-night-of-rising-alarms.mp3",
+      "wecp-wang-fuk-court-fire-the-people-who-were-lost.mp3",
+      "wecp-wang-fuk-court-fire-inquiry-response-and-what-remains.mp3"
+    ],
+    "durations": {
+      "wecp-wang-fuk-court-fire-flight-context.mp3": 45.4365,
+      "wecp-wang-fuk-court-fire-intro.mp3": 67.6932083,
+      "wecp-wang-fuk-court-fire-the-building-and-the-renovation.mp3": 73.2793333,
+      "wecp-wang-fuk-court-fire-the-day-of-the-fire.mp3": 74.6381666,
+      "wecp-wang-fuk-court-fire-a-night-of-rising-alarms.mp3": 79.0922916,
+      "wecp-wang-fuk-court-fire-the-people-who-were-lost.mp3": 78.0044583,
+      "wecp-wang-fuk-court-fire-inquiry-response-and-what-remains.mp3": 94.585625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

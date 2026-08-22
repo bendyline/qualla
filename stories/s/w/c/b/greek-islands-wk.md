@@ -37,6 +37,25 @@ The Greek islands spread across the Aegean and Ionian seas, centered roughly on 
 ## Sources
 
 - [Greek Islands - Wikivoyage](https://en.wikivoyage.org/?curid=13355)
+- [Delos - UNESCO World Heritage Centre](https://whc.unesco.org/en/list/530/)
+  - Leto gave birth to Apollo and Artemis on Delos
+  - no mortals were permitted to be born or die on the sacred island
+- [Fortifications of Rhodes - Wikipedia](https://en.wikipedia.org/wiki/Fortifications_of_Rhodes)
+  - Knights Hospitaller of St John built Rhodes' medieval walls starting 1309
+- [Cave of the Apocalypse - Wikipedia](https://en.wikipedia.org/wiki/Cave_of_the_Apocalypse)
+  - tradition holds John wrote the Book of Revelation in a cave on Patmos
+- [Nisyros Volcano, Greece - VolcanoDiscovery](https://www.volcanodiscovery.com/nisyros.html)
+  - Nisyros' Stefanos crater is an active, walkable, steaming volcanic crater
+- [Chora - Wikipedia](https://en.wikipedia.org/wiki/Chora)
+  - 'Hora'/'Chora' means 'the place'/main town and is used locally regardless of the town's official island-derived name
+
+## Review Notes
+
+**Reviewed:** 2026-07-14 · 6 facts verified · 0 corrections
+
+Verified Delos birth-myth and no-birth/no-death rule, Rhodes Knights Hospitaller walls (1309), Santorini Bronze Age eruption/caldera collapse, Patmos Cave of the Apocalypse tradition, Nisyros active walkable crater, and Hora/Chora naming convention. All facts accurate, no corrections needed.
+
+**Spiciness:** 2/5
 
 ---
 

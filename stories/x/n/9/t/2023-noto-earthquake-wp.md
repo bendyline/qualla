@@ -20,7 +20,7 @@ Thirty-eight houses collapsed outright. Another 263 were partially destroyed. A 
 
 ## A City That Refused Help
 
-Around 1,600 people were evacuated across the affected area, with 250 taking shelter in evacuation centers in Ishikawa Prefecture. The Japan Meteorological Agency warned that strong aftershocks could continue for at least a week, and more than 50 hit on the first day alone, ranging from magnitude 2 to 5, including a magnitude 5.6 aftershock at 9:58 p.m. and a magnitude 4.5 at 11:18 p.m. Over 120 homes lost water supply. Prime Minister Fumio Kishida announced that additional measures would be taken. But the mayor of Suzu, after issuing an earthquake emergency advisory and ordering evacuations, made a notable decision: the city would not request assistance from the Japan Self-Defense Forces. The damage, he judged, could be managed locally. It was a decision rooted in civic pride -- and perhaps in the assumption that the worst was over.
+Around 1,600 people were evacuated across the affected area, with 250 taking shelter in evacuation centers in Ishikawa Prefecture. The Japan Meteorological Agency warned that strong aftershocks could continue for at least a week, and more than 50 hit on the first day alone, ranging from magnitude 2 to 5, including a magnitude 5.6 aftershock at 9:58 p.m. and a magnitude 4.5 at 11:18 p.m. Over 120 homes lost water supply. Prime Minister Fumio Kishida announced that additional measures would be taken. But the mayor of Suzu, after issuing an earthquake emergency advisory and ordering evacuations, made a notable decision: the city would not request assistance from the Japan Self-Defense Forces. The damage, he judged, could be managed locally.
 
 ## The Quake That Came Next
 
@@ -40,6 +40,8 @@ Epicenter located at 37.55N, 137.30E, off the northeastern coast of the Noto Pen
   - Mitsukejima (30m rock formation) partially collapsed
   - Around 1,600 people evacuated
   - 2024 follow-on quake magnitude 7.5, death toll 703 confirmed
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2023_Noto_earthquake)
+  - Removed unsupported speculation about the Suzu mayors motive for declining Self-Defense Forces assistance (civic pride / assumption the worst was over); the documented decision and his stated judgment that damage could be managed locally are retained.
 
 ## Review Notes
 

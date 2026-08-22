@@ -480,5 +480,24 @@
     "_m/g/c/x/t/whitby-museum-wp/andrew-morton-1802-1845-abel-c.jpg",
     "_m/g/c/x/t/whitby-museum-wp/john-james-syer-1844-1912-st-m.jpg"
   ],
-  "updatedAt": "2026-06-23T14:02:10.025Z"
+  "updatedAt": "2026-06-23T14:02:10.025Z",
+  "narration": {
+    "files": [
+      "gcxt-whitby-museum-flight-context.mp3",
+      "gcxt-whitby-museum-intro.mp3",
+      "gcxt-whitby-museum-marine-monsters-in-jet.mp3",
+      "gcxt-whitby-museum-cook-and-the-endeavour.mp3",
+      "gcxt-whitby-museum-sutcliffes-whitby.mp3",
+      "gcxt-whitby-museum-an-egyptian-briefly.mp3"
+    ],
+    "durations": {
+      "gcxt-whitby-museum-flight-context.mp3": 51.8610416,
+      "gcxt-whitby-museum-intro.mp3": 54.575,
+      "gcxt-whitby-museum-marine-monsters-in-jet.mp3": 56.656375,
+      "gcxt-whitby-museum-cook-and-the-endeavour.mp3": 48.57625,
+      "gcxt-whitby-museum-sutcliffes-whitby.mp3": 49.5067083,
+      "gcxt-whitby-museum-an-egyptian-briefly.mp3": 65.3883333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -688,5 +688,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r1pm-phillip-island-flight-context.mp3",
+      "r1pm-phillip-island-intro.mp3",
+      "r1pm-phillip-island-the-parade-at-dusk.mp3",
+      "r1pm-phillip-island-a-coast-full-of-wildlife.mp3",
+      "r1pm-phillip-island-the-island-that-roars.mp3",
+      "r1pm-phillip-island-bridges-beaches-and-hollywood.mp3"
+    ],
+    "durations": {
+      "r1pm-phillip-island-flight-context.mp3": 67.1970833,
+      "r1pm-phillip-island-intro.mp3": 40.606,
+      "r1pm-phillip-island-the-parade-at-dusk.mp3": 56.9589583,
+      "r1pm-phillip-island-a-coast-full-of-wildlife.mp3": 58.3129166,
+      "r1pm-phillip-island-the-island-that-roars.mp3": 61.8641666,
+      "r1pm-phillip-island-bridges-beaches-and-hollywood.mp3": 61.5643333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

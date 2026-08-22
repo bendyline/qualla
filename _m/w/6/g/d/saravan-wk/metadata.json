@@ -99,5 +99,24 @@
     "sourceGeohash4": "w6gd"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "w6gd-saravan-flight-context.mp3",
+      "w6gd-saravan-intro.mp3",
+      "w6gd-saravan-where-the-plateau-begins.mp3",
+      "w6gd-saravan-layers-of-community.mp3",
+      "w6gd-saravan-the-weight-of-the-civil-war.mp3",
+      "w6gd-saravan-the-bolaven-loop.mp3"
+    ],
+    "durations": {
+      "w6gd-saravan-flight-context.mp3": 59.1461666,
+      "w6gd-saravan-intro.mp3": 51.4453333,
+      "w6gd-saravan-where-the-plateau-begins.mp3": 62.9337083,
+      "w6gd-saravan-layers-of-community.mp3": 72.007125,
+      "w6gd-saravan-the-weight-of-the-civil-war.mp3": 61.2400833,
+      "w6gd-saravan-the-bolaven-loop.mp3": 57.0187916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

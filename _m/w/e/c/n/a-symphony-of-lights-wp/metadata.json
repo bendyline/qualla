@@ -652,5 +652,24 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecn-a-symphony-of-lights-flight-context.mp3",
+      "wecn-a-symphony-of-lights-intro.mp3",
+      "wecn-a-symphony-of-lights-ten-minutes-five-movements.mp3",
+      "wecn-a-symphony-of-lights-where-to-watch.mp3",
+      "wecn-a-symphony-of-lights-new-years-eve-on-the-harbour.mp3",
+      "wecn-a-symphony-of-lights-a-skyline-that-performs.mp3"
+    ],
+    "durations": {
+      "wecn-a-symphony-of-lights-flight-context.mp3": 64.1615416,
+      "wecn-a-symphony-of-lights-intro.mp3": 53.4295833,
+      "wecn-a-symphony-of-lights-ten-minutes-five-movements.mp3": 81.7925,
+      "wecn-a-symphony-of-lights-where-to-watch.mp3": 69.235625,
+      "wecn-a-symphony-of-lights-new-years-eve-on-the-harbour.mp3": 69.58125,
+      "wecn-a-symphony-of-lights-a-skyline-that-performs.mp3": 65.3802083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

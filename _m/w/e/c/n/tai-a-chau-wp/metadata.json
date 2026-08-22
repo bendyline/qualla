@@ -109,5 +109,24 @@
   "galleryPaths": [
     "_m/w/e/c/n/tai-a-chau-wp/tin-hau-temple-tai-cha.jpg",
     "_m/w/e/c/n/soko-islands-wp/site-tai-chau-detentio.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecn-tai-a-chau-flight-context.mp3",
+      "wecn-tai-a-chau-intro.mp3",
+      "wecn-tai-a-chau-the-island-before.mp3",
+      "wecn-tai-a-chau-a-camp-at-the-edge-of-the-territory.mp3",
+      "wecn-tai-a-chau-september-1996-ten-days-of-ferries.mp3",
+      "wecn-tai-a-chau-what-remains.mp3"
+    ],
+    "durations": {
+      "wecn-tai-a-chau-flight-context.mp3": 61.862,
+      "wecn-tai-a-chau-intro.mp3": 48.7060416,
+      "wecn-tai-a-chau-the-island-before.mp3": 56.5465416,
+      "wecn-tai-a-chau-a-camp-at-the-edge-of-the-territory.mp3": 67.0829583,
+      "wecn-tai-a-chau-september-1996-ten-days-of-ferries.mp3": 73.699375,
+      "wecn-tai-a-chau-what-remains.mp3": 57.6240416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

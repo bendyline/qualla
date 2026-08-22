@@ -731,5 +731,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecn-victoria-harbour-flight-context.mp3",
+      "wecn-victoria-harbour-intro.mp3",
+      "wecn-victoria-harbour-why-the-harbour-made-hong-kong.mp3",
+      "wecn-victoria-harbour-water-sports-rebellion-and-pollution.mp3",
+      "wecn-victoria-harbour-reclamation-and-what-it-cost.mp3",
+      "wecn-victoria-harbour-the-view-everyone-knows.mp3",
+      "wecn-victoria-harbour-a-working-port.mp3"
+    ],
+    "durations": {
+      "wecn-victoria-harbour-flight-context.mp3": 60.2578333,
+      "wecn-victoria-harbour-intro.mp3": 41.9420416,
+      "wecn-victoria-harbour-why-the-harbour-made-hong-kong.mp3": 55.3114583,
+      "wecn-victoria-harbour-water-sports-rebellion-and-pollution.mp3": 57.911625,
+      "wecn-victoria-harbour-reclamation-and-what-it-cost.mp3": 64.3535,
+      "wecn-victoria-harbour-the-view-everyone-knows.mp3": 63.8105416,
+      "wecn-victoria-harbour-a-working-port.mp3": 54.179625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

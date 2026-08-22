@@ -498,5 +498,24 @@
     "_m/g/f/q/0/portsoy-wk/banff-road-geograph-org-uk-794-1.jpg",
     "_m/g/f/q/0/portsoy-wk/derelict-warehouse-window-deta.jpg"
   ],
-  "updatedAt": "2026-06-24T07:22:25.351Z"
+  "updatedAt": "2026-06-24T07:22:25.351Z",
+  "narration": {
+    "files": [
+      "gfq0-portsoy-flight-context.mp3",
+      "gfq0-portsoy-intro.mp3",
+      "gfq0-portsoy-the-oldest-harbour-on-the-moray-firth.mp3",
+      "gfq0-portsoy-green-stone-from-the-shore.mp3",
+      "gfq0-portsoy-the-wandering-singer.mp3",
+      "gfq0-portsoy-the-boat-festival.mp3"
+    ],
+    "durations": {
+      "gfq0-portsoy-flight-context.mp3": 58.333375,
+      "gfq0-portsoy-intro.mp3": 39.7977916,
+      "gfq0-portsoy-the-oldest-harbour-on-the-moray-firth.mp3": 50.1779583,
+      "gfq0-portsoy-green-stone-from-the-shore.mp3": 56.617375,
+      "gfq0-portsoy-the-wandering-singer.mp3": 54.3941666,
+      "gfq0-portsoy-the-boat-festival.mp3": 59.1055
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

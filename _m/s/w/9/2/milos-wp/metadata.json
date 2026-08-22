@@ -35,5 +35,24 @@
   "galleryPaths": [
     "_m/s/w/9/2/milos-wp/adamas-milos.jpg"
   ],
-  "updatedAt": "2026-05-11T13:21:59.583Z"
+  "updatedAt": "2026-05-11T13:21:59.583Z",
+  "narration": {
+    "files": [
+      "sw92-milos-flight-context.mp3",
+      "sw92-milos-intro.mp3",
+      "sw92-milos-born-from-fire.mp3",
+      "sw92-milos-the-black-glass-that-moved-the-world.mp3",
+      "sw92-milos-the-dialogue-and-its-silence.mp3",
+      "sw92-milos-syrmata-and-catacombs.mp3"
+    ],
+    "durations": {
+      "sw92-milos-flight-context.mp3": 65.536375,
+      "sw92-milos-intro.mp3": 37.5902916,
+      "sw92-milos-born-from-fire.mp3": 63.2142083,
+      "sw92-milos-the-black-glass-that-moved-the-world.mp3": 89.665,
+      "sw92-milos-the-dialogue-and-its-silence.mp3": 92.7590833,
+      "sw92-milos-syrmata-and-catacombs.mp3": 81.8013333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

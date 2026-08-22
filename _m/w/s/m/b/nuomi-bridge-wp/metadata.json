@@ -157,5 +157,24 @@
     "_m/w/s/m/b/nuomi-bridge-wp/category-1.jpg",
     "_m/w/s/m/b/nuomi-bridge-wp/category-2.jpg"
   ],
-  "updatedAt": "2026-06-29T20:30:15.245Z"
+  "updatedAt": "2026-06-29T20:30:15.245Z",
+  "narration": {
+    "files": [
+      "wsmb-nuomi-bridge-flight-context.mp3",
+      "wsmb-nuomi-bridge-intro.mp3",
+      "wsmb-nuomi-bridge-a-military-road-a-missing-bridge.mp3",
+      "wsmb-nuomi-bridge-rice-and-stone.mp3",
+      "wsmb-nuomi-bridge-what-floods-and-earthquakes-left-standing.mp3",
+      "wsmb-nuomi-bridge-a-small-bridge-a-long-story.mp3"
+    ],
+    "durations": {
+      "wsmb-nuomi-bridge-flight-context.mp3": 66.2765416,
+      "wsmb-nuomi-bridge-intro.mp3": 48.6579166,
+      "wsmb-nuomi-bridge-a-military-road-a-missing-bridge.mp3": 62.78825,
+      "wsmb-nuomi-bridge-rice-and-stone.mp3": 63.2490416,
+      "wsmb-nuomi-bridge-what-floods-and-earthquakes-left-standing.mp3": 70.1265416,
+      "wsmb-nuomi-bridge-a-small-bridge-a-long-story.mp3": 57.2477916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

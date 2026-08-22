@@ -541,5 +541,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w6uw-perfume-river-flight-context.mp3",
+      "w6uw-perfume-river-intro.mp3",
+      "w6uw-perfume-river-born-in-the-mountains.mp3",
+      "w6uw-perfume-river-the-river-the-dynasty-chose.mp3",
+      "w6uw-perfume-river-where-it-ends.mp3",
+      "w6uw-perfume-river-the-living-river.mp3"
+    ],
+    "durations": {
+      "w6uw-perfume-river-flight-context.mp3": 62.316875,
+      "w6uw-perfume-river-intro.mp3": 37.5533333,
+      "w6uw-perfume-river-born-in-the-mountains.mp3": 63.610875,
+      "w6uw-perfume-river-the-river-the-dynasty-chose.mp3": 72.4353333,
+      "w6uw-perfume-river-where-it-ends.mp3": 58.641125,
+      "w6uw-perfume-river-the-living-river.mp3": 48.472
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

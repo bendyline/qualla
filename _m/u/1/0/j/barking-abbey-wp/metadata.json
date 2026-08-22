@@ -381,5 +381,26 @@
     "_m/u/1/0/j/barking-abbey-wp/ruins-of-barking-abbey-northea.jpg",
     "_m/u/1/0/j/barking-abbey-wp/ruins-of-barking-abbey-east-fa.jpg"
   ],
-  "updatedAt": "2026-06-25T16:46:26.520Z"
+  "updatedAt": "2026-06-25T16:46:26.520Z",
+  "narration": {
+    "files": [
+      "u10j-barking-abbey-flight-context.mp3",
+      "u10j-barking-abbey-intro.mp3",
+      "u10j-barking-abbey-a-brother-and-sister-build-two-monasteries.mp3",
+      "u10j-barking-abbey-where-the-conqueror-stayed.mp3",
+      "u10j-barking-abbey-royal-daughters-and-the-three-saints.mp3",
+      "u10j-barking-abbey-where-two-future-kings-grew-up.mp3",
+      "u10j-barking-abbey-dissolution-and-the-surviving-tower.mp3"
+    ],
+    "durations": {
+      "u10j-barking-abbey-flight-context.mp3": 37.6498333,
+      "u10j-barking-abbey-intro.mp3": 47.8041666,
+      "u10j-barking-abbey-a-brother-and-sister-build-two-monasteries.mp3": 63.845375,
+      "u10j-barking-abbey-where-the-conqueror-stayed.mp3": 52.6769583,
+      "u10j-barking-abbey-royal-daughters-and-the-three-saints.mp3": 63.8964583,
+      "u10j-barking-abbey-where-two-future-kings-grew-up.mp3": 55.18975,
+      "u10j-barking-abbey-dissolution-and-the-surviving-tower.mp3": 78.50775
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -552,5 +552,24 @@
     "_m/w/e/c/q/tung-lung-fort-wp/tung-lung-fort-17.jpg",
     "_m/w/e/c/q/tung-lung-fort-wp/tung-lung-fort-18.jpg"
   ],
-  "updatedAt": "2026-06-29T12:36:08.950Z"
+  "updatedAt": "2026-06-29T12:36:08.950Z",
+  "narration": {
+    "files": [
+      "wecq-tung-lung-fort-flight-context.mp3",
+      "wecq-tung-lung-fort-intro.mp3",
+      "wecq-tung-lung-fort-built-against-pirates.mp3",
+      "wecq-tung-lung-fort-the-pirates-who-came-anyway.mp3",
+      "wecq-tung-lung-fort-abandoned-and-declared.mp3",
+      "wecq-tung-lung-fort-what-remains.mp3"
+    ],
+    "durations": {
+      "wecq-tung-lung-fort-flight-context.mp3": 63.562,
+      "wecq-tung-lung-fort-intro.mp3": 43.5595,
+      "wecq-tung-lung-fort-built-against-pirates.mp3": 52.8290833,
+      "wecq-tung-lung-fort-the-pirates-who-came-anyway.mp3": 56.8029166,
+      "wecq-tung-lung-fort-abandoned-and-declared.mp3": 58.4920416,
+      "wecq-tung-lung-fort-what-remains.mp3": 54.8825416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -67,5 +67,24 @@
     "sourceGeohash4": "wsmg"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "wsmg-miaoli-ceramics-museum-flight-context.mp3",
+      "wsmg-miaoli-ceramics-museum-intro.mp3",
+      "wsmg-miaoli-ceramics-museum-clay-country-what-the-hills-provided.mp3",
+      "wsmg-miaoli-ceramics-museum-two-floors-inside-a-larger-welcome.mp3",
+      "wsmg-miaoli-ceramics-museum-urns-tiles-and-the-weight-of-everyday-things.mp3",
+      "wsmg-miaoli-ceramics-museum-south-from-tongluo-station.mp3"
+    ],
+    "durations": {
+      "wsmg-miaoli-ceramics-museum-flight-context.mp3": 50.5997083,
+      "wsmg-miaoli-ceramics-museum-intro.mp3": 41.7359583,
+      "wsmg-miaoli-ceramics-museum-clay-country-what-the-hills-provided.mp3": 79.3513333,
+      "wsmg-miaoli-ceramics-museum-two-floors-inside-a-larger-welcome.mp3": 66.620875,
+      "wsmg-miaoli-ceramics-museum-urns-tiles-and-the-weight-of-everyday-things.mp3": 58.634625,
+      "wsmg-miaoli-ceramics-museum-south-from-tongluo-station.mp3": 55.29175
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

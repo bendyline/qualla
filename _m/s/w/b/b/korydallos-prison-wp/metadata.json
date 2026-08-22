@@ -51,5 +51,24 @@
     "sourceGeohash4": "swbb"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "swbb-korydallos-prison-flight-context.mp3",
+      "swbb-korydallos-prison-intro.mp3",
+      "swbb-korydallos-prison-the-junta-on-trial.mp3",
+      "swbb-korydallos-prison-a-roster-of-the-notorious.mp3",
+      "swbb-korydallos-prison-escapes-and-standoffs.mp3",
+      "swbb-korydallos-prison-the-question-of-conditions.mp3"
+    ],
+    "durations": {
+      "swbb-korydallos-prison-flight-context.mp3": 53.0546666,
+      "swbb-korydallos-prison-intro.mp3": 41.0793333,
+      "swbb-korydallos-prison-the-junta-on-trial.mp3": 52.0543333,
+      "swbb-korydallos-prison-a-roster-of-the-notorious.mp3": 58.0989166,
+      "swbb-korydallos-prison-escapes-and-standoffs.mp3": 52.1174166,
+      "swbb-korydallos-prison-the-question-of-conditions.mp3": 53.9606666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

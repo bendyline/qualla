@@ -776,5 +776,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u1s8-borkum-flight-context.mp3",
+      "u1s8-borkum-intro.mp3",
+      "u1s8-borkum-once-two-islands.mp3",
+      "u1s8-borkum-the-cure-in-the-air.mp3",
+      "u1s8-borkum-the-odd-one-out.mp3",
+      "u1s8-borkum-a-refuge-with-rules.mp3",
+      "u1s8-borkum-guarding-the-mouth-of-the-ems.mp3"
+    ],
+    "durations": {
+      "u1s8-borkum-flight-context.mp3": 81.75775,
+      "u1s8-borkum-intro.mp3": 46.9745833,
+      "u1s8-borkum-once-two-islands.mp3": 52.775625,
+      "u1s8-borkum-the-cure-in-the-air.mp3": 50.7267083,
+      "u1s8-borkum-the-odd-one-out.mp3": 42.6439166,
+      "u1s8-borkum-a-refuge-with-rules.mp3": 48.3045416,
+      "u1s8-borkum-guarding-the-mouth-of-the-ems.mp3": 56.417375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -161,5 +161,24 @@
     "_m/s/q/x/d/ntempriz-bridge-wp/ntempriz-bridge-detail-1.jpg",
     "_m/s/q/x/d/ntempriz-bridge-wp/ntempriz-bridge-roadwa.jpg",
     "_m/s/q/x/d/ntempriz-bridge-wp/ntempriz-bridge-detail-2.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sqxd-ntempriz-bridge-flight-context.mp3",
+      "sqxd-ntempriz-bridge-intro.mp3",
+      "sqxd-ntempriz-bridge-a-bridge-in-the-time-of-the-franks.mp3",
+      "sqxd-ntempriz-bridge-stone-and-water.mp3",
+      "sqxd-ntempriz-bridge-castle-on-the-hill.mp3",
+      "sqxd-ntempriz-bridge-crossing-time.mp3"
+    ],
+    "durations": {
+      "sqxd-ntempriz-bridge-flight-context.mp3": 49.2330833,
+      "sqxd-ntempriz-bridge-intro.mp3": 39.0984166,
+      "sqxd-ntempriz-bridge-a-bridge-in-the-time-of-the-franks.mp3": 52.482,
+      "sqxd-ntempriz-bridge-stone-and-water.mp3": 53.1047083,
+      "sqxd-ntempriz-bridge-castle-on-the-hill.mp3": 51.0868333,
+      "sqxd-ntempriz-bridge-crossing-time.mp3": 43.363125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

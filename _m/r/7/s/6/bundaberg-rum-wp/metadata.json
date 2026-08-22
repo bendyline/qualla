@@ -450,5 +450,24 @@
     "_m/r/7/s/6/1936-bundaberg-distillery-fire-wp/fire-rages-millaquin-d.jpg",
     "_m/r/7/s/6/bundaberg-rum-wp/bundaberg-distilling-co-barrel.jpg"
   ],
-  "updatedAt": "2026-06-28T13:58:56.909Z"
+  "updatedAt": "2026-06-28T13:58:56.909Z",
+  "narration": {
+    "files": [
+      "r7s6-bundaberg-rum-flight-context.mp3",
+      "r7s6-bundaberg-rum-intro.mp3",
+      "r7s6-bundaberg-rum-a-problem-worth-drinking.mp3",
+      "r7s6-bundaberg-rum-fire-on-the-river.mp3",
+      "r7s6-bundaberg-rum-the-bear-in-the-heat.mp3",
+      "r7s6-bundaberg-rum-bottled-somewhere-else.mp3"
+    ],
+    "durations": {
+      "r7s6-bundaberg-rum-flight-context.mp3": 55.7407083,
+      "r7s6-bundaberg-rum-intro.mp3": 42.9452083,
+      "r7s6-bundaberg-rum-a-problem-worth-drinking.mp3": 59.674875,
+      "r7s6-bundaberg-rum-fire-on-the-river.mp3": 53.2514583,
+      "r7s6-bundaberg-rum-the-bear-in-the-heat.mp3": 50.320375,
+      "r7s6-bundaberg-rum-bottled-somewhere-else.mp3": 49.3017916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

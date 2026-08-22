@@ -53,5 +53,24 @@
     "sourceGeohash4": "gcz0"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcz0-donnison-school-flight-context.mp3",
+      "gcz0-donnison-school-intro.mp3",
+      "gcz0-donnison-school-the-bequest.mp3",
+      "gcz0-donnison-school-a-schoolmistress-cottage.mp3",
+      "gcz0-donnison-school-the-heritage-centre.mp3",
+      "gcz0-donnison-school-above-old-sunderland.mp3"
+    ],
+    "durations": {
+      "gcz0-donnison-school-flight-context.mp3": 41.539375,
+      "gcz0-donnison-school-intro.mp3": 53.727875,
+      "gcz0-donnison-school-the-bequest.mp3": 50.0345416,
+      "gcz0-donnison-school-a-schoolmistress-cottage.mp3": 51.7595833,
+      "gcz0-donnison-school-the-heritage-centre.mp3": 54.595,
+      "gcz0-donnison-school-above-old-sunderland.mp3": 53.3662916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

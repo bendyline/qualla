@@ -53,5 +53,24 @@
     "sourceGeohash4": "wecp"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "wecp-caac-flight-301-flight-context.mp3",
+      "wecp-caac-flight-301-intro.mp3",
+      "wecp-caac-flight-301-the-approach-that-could-not-recover.mp3",
+      "wecp-caac-flight-301-into-the-bay.mp3",
+      "wecp-caac-flight-301-who-was-lost-who-survived.mp3",
+      "wecp-caac-flight-301-what-the-report-found.mp3"
+    ],
+    "durations": {
+      "wecp-caac-flight-301-flight-context.mp3": 69.5365,
+      "wecp-caac-flight-301-intro.mp3": 52.340625,
+      "wecp-caac-flight-301-the-approach-that-could-not-recover.mp3": 66.2314583,
+      "wecp-caac-flight-301-into-the-bay.mp3": 53.3152083,
+      "wecp-caac-flight-301-who-was-lost-who-survived.mp3": 60.304625,
+      "wecp-caac-flight-301-what-the-report-found.mp3": 70.1660833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

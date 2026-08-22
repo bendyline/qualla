@@ -519,5 +519,24 @@
     "_m/g/c/y/b/metrocentre-wp/metrocentre-car-parking-geogra.jpg",
     "_m/g/c/y/b/metrocentre-wp/metro-retail-park-access-road-.jpg"
   ],
-  "updatedAt": "2026-06-23T15:09:02.506Z"
+  "updatedAt": "2026-06-23T15:09:02.506Z",
+  "narration": {
+    "files": [
+      "gcyb-metrocentre-flight-context.mp3",
+      "gcyb-metrocentre-intro.mp3",
+      "gcyb-metrocentre-from-power-station-to-retail-cathedral.mp3",
+      "gcyb-metrocentre-metroland.mp3",
+      "gcyb-metrocentre-the-long-reinvention.mp3",
+      "gcyb-metrocentre-flight-context-2.mp3"
+    ],
+    "durations": {
+      "gcyb-metrocentre-flight-context.mp3": 35.2652916,
+      "gcyb-metrocentre-intro.mp3": 42.608375,
+      "gcyb-metrocentre-from-power-station-to-retail-cathedral.mp3": 54.233625,
+      "gcyb-metrocentre-metroland.mp3": 59.1012916,
+      "gcyb-metrocentre-the-long-reinvention.mp3": 75.3375833,
+      "gcyb-metrocentre-flight-context-2.mp3": 37.4235
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

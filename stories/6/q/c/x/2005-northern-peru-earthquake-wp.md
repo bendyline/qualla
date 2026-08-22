@@ -38,6 +38,12 @@ Located at 5.68°S, 76.40°W in the Department of Loreto in northern Peru, where
 
 - [2005 Northern Peru earthquake - Wikipedia](https://en.wikipedia.org/?curid=2765206)
 
+## Review Notes
+
+**Reviewed:** 2026-07-14 · 4 facts verified · 1 correction
+
+Corrected geographic error: the story attributed Lamas town to the 'Department of Loreto' (copied from an error in the source Wikipedia article); multiple independent sources (Wikipedia's own Lamas/Lamas Province pages, Wikidata, GADM) confirm Lamas is in the San Martín Region. Fixed in intro. Verified magnitude, depth, casualty and damage figures otherwise accurate. Spiciness 1.
+
 ---
 
 *Word count: 770*

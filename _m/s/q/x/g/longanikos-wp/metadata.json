@@ -58,5 +58,24 @@
     "sourceGeohash4": "sqxg"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sqxg-longanikos-flight-context.mp3",
+      "sqxg-longanikos-intro.mp3",
+      "sqxg-longanikos-a-position-that-commands-everything.mp3",
+      "sqxg-longanikos-the-olive-oil-that-isnt-italian.mp3",
+      "sqxg-longanikos-the-golden-greek-of-lynn-massachusetts.mp3",
+      "sqxg-longanikos-fir-slopes-above-the-valley.mp3"
+    ],
+    "durations": {
+      "sqxg-longanikos-flight-context.mp3": 43.4039166,
+      "sqxg-longanikos-intro.mp3": 44.2818333,
+      "sqxg-longanikos-a-position-that-commands-everything.mp3": 71.822875,
+      "sqxg-longanikos-the-olive-oil-that-isnt-italian.mp3": 61.1165,
+      "sqxg-longanikos-the-golden-greek-of-lynn-massachusetts.mp3": 57.828875,
+      "sqxg-longanikos-fir-slopes-above-the-valley.mp3": 58.6744166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

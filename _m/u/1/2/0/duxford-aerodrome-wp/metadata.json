@@ -572,5 +572,24 @@
     "_m/u/1/2/0/duxford-aerodrome-wp/iwm-duxford.jpg",
     "_m/u/1/2/0/duxford-aerodrome-wp/no-311-squadron-raf-no-312-squ.jpg"
   ],
-  "updatedAt": "2026-06-25T18:55:08.289Z"
+  "updatedAt": "2026-06-25T18:55:08.289Z",
+  "narration": {
+    "files": [
+      "u120-duxford-aerodrome-flight-context.mp3",
+      "u120-duxford-aerodrome-intro.mp3",
+      "u120-duxford-aerodrome-before-the-battle.mp3",
+      "u120-duxford-aerodrome-the-battle-of-britain.mp3",
+      "u120-duxford-aerodrome-the-americans-arrive.mp3",
+      "u120-duxford-aerodrome-museum-of-the-air.mp3"
+    ],
+    "durations": {
+      "u120-duxford-aerodrome-flight-context.mp3": 50.6217916,
+      "u120-duxford-aerodrome-intro.mp3": 50.4245833,
+      "u120-duxford-aerodrome-before-the-battle.mp3": 62.430125,
+      "u120-duxford-aerodrome-the-battle-of-britain.mp3": 57.082,
+      "u120-duxford-aerodrome-the-americans-arrive.mp3": 58.0277916,
+      "u120-duxford-aerodrome-museum-of-the-air.mp3": 64.6714583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

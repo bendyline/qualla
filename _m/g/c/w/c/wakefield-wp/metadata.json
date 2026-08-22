@@ -771,5 +771,24 @@
     "_m/g/c/w/c/wakefield-wp/barnsley-road-geograph-org-uk-.jpg",
     "_m/g/c/w/c/wakefield-wp/bench-mark-registry-office-wal.jpg"
   ],
-  "updatedAt": "2026-06-23T07:54:30.162Z"
+  "updatedAt": "2026-06-23T07:54:30.162Z",
+  "narration": {
+    "files": [
+      "gcwc-wakefield-flight-context.mp3",
+      "gcwc-wakefield-intro.mp3",
+      "gcwc-wakefield-wacas-field.mp3",
+      "gcwc-wakefield-market-battle-and-bridge.mp3",
+      "gcwc-wakefield-the-coal-capital-and-the-county-town.mp3",
+      "gcwc-wakefield-hepworth-and-rhubarb.mp3"
+    ],
+    "durations": {
+      "gcwc-wakefield-flight-context.mp3": 46.8231666,
+      "gcwc-wakefield-intro.mp3": 41.5158333,
+      "gcwc-wakefield-wacas-field.mp3": 71.9404583,
+      "gcwc-wakefield-market-battle-and-bridge.mp3": 66.975375,
+      "gcwc-wakefield-the-coal-capital-and-the-county-town.mp3": 96.0379166,
+      "gcwc-wakefield-hepworth-and-rhubarb.mp3": 90.8377916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

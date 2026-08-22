@@ -567,5 +567,22 @@
     "_m/u/1/2/u/raf-coltishall-wp/lightning-3213550924.jpg",
     "_m/u/1/2/u/raf-coltishall-wp/54-squadron-crest-on-jaguar-gr.jpg"
   ],
-  "updatedAt": "2026-06-26T00:10:02.029Z"
+  "updatedAt": "2026-06-26T00:10:02.029Z",
+  "narration": {
+    "files": [
+      "u12u-raf-coltishall-flight-context.mp3",
+      "u12u-raf-coltishall-intro.mp3",
+      "u12u-raf-coltishall-hurricanes-and-a-legend.mp3",
+      "u12u-raf-coltishall-cold-war-and-the-jaguars.mp3",
+      "u12u-raf-coltishall-after-the-jaguars.mp3"
+    ],
+    "durations": {
+      "u12u-raf-coltishall-flight-context.mp3": 44.954625,
+      "u12u-raf-coltishall-intro.mp3": 43.8070833,
+      "u12u-raf-coltishall-hurricanes-and-a-legend.mp3": 63.1345416,
+      "u12u-raf-coltishall-cold-war-and-the-jaguars.mp3": 73.9267083,
+      "u12u-raf-coltishall-after-the-jaguars.mp3": 77.7547916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

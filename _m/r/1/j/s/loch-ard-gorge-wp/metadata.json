@@ -603,5 +603,26 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r1js-loch-ard-gorge-flight-context.mp3",
+      "r1js-loch-ard-gorge-intro.mp3",
+      "r1js-loch-ard-gorge-the-last-night.mp3",
+      "r1js-loch-ard-gorge-two-who-lived.mp3",
+      "r1js-loch-ard-gorge-the-hero-and-the-aftermath.mp3",
+      "r1js-loch-ard-gorge-tom-and-eva.mp3",
+      "r1js-loch-ard-gorge-walking-the-gorge.mp3"
+    ],
+    "durations": {
+      "r1js-loch-ard-gorge-flight-context.mp3": 67.3370833,
+      "r1js-loch-ard-gorge-intro.mp3": 49.6747083,
+      "r1js-loch-ard-gorge-the-last-night.mp3": 49.5310416,
+      "r1js-loch-ard-gorge-two-who-lived.mp3": 48.7582083,
+      "r1js-loch-ard-gorge-the-hero-and-the-aftermath.mp3": 52.899875,
+      "r1js-loch-ard-gorge-tom-and-eva.mp3": 47.3973333,
+      "r1js-loch-ard-gorge-walking-the-gorge.mp3": 49.1653333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

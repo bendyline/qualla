@@ -432,5 +432,24 @@
     "_m/w/e/c/n/wan-chai-pier-wp/wan-chai-ferry-pier-ro.jpg",
     "_m/w/e/c/n/wan-chai-pier-wp/dsc-2519-flickr-lwtt93.jpg"
   ],
-  "updatedAt": "2026-06-29T04:45:17.975Z"
+  "updatedAt": "2026-06-29T04:45:17.975Z",
+  "narration": {
+    "files": [
+      "wecn-wan-chai-pier-flight-context.mp3",
+      "wecn-wan-chai-pier-intro.mp3",
+      "wecn-wan-chai-pier-first-generation-1929-to-1968.mp3",
+      "wecn-wan-chai-pier-second-generation-1968-to-2014.mp3",
+      "wecn-wan-chai-pier-third-generation-2014-and-after.mp3",
+      "wecn-wan-chai-pier-what-the-crossing-means.mp3"
+    ],
+    "durations": {
+      "wecn-wan-chai-pier-flight-context.mp3": 47.05075,
+      "wecn-wan-chai-pier-intro.mp3": 55.6042083,
+      "wecn-wan-chai-pier-first-generation-1929-to-1968.mp3": 64.402,
+      "wecn-wan-chai-pier-second-generation-1968-to-2014.mp3": 72.9842083,
+      "wecn-wan-chai-pier-third-generation-2014-and-after.mp3": 57.15975,
+      "wecn-wan-chai-pier-what-the-crossing-means.mp3": 56.5054166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -440,5 +440,26 @@
     "_m/u/1/0/3/hastings-lifeboat-station-wp/rnli-hastings-lifeboat-station.jpg",
     "_m/u/1/0/3/hastings-lifeboat-station-wp/rnli-lifeboat-station-and-fish.jpg"
   ],
-  "updatedAt": "2026-06-25T13:53:01.141Z"
+  "updatedAt": "2026-06-25T13:53:01.141Z",
+  "narration": {
+    "files": [
+      "u103-hastings-lifeboat-station-flight-context.mp3",
+      "u103-hastings-lifeboat-station-intro.mp3",
+      "u103-hastings-lifeboat-station-the-first-boat.mp3",
+      "u103-hastings-lifeboat-station-pulling-sailing-steaming.mp3",
+      "u103-hastings-lifeboat-station-the-inshore-lifeboat-revolution.mp3",
+      "u103-hastings-lifeboat-station-the-sealink-endeavour-and-after.mp3",
+      "u103-hastings-lifeboat-station-strategic-review.mp3"
+    ],
+    "durations": {
+      "u103-hastings-lifeboat-station-flight-context.mp3": 53.8494166,
+      "u103-hastings-lifeboat-station-intro.mp3": 63.1256666,
+      "u103-hastings-lifeboat-station-the-first-boat.mp3": 67.1767916,
+      "u103-hastings-lifeboat-station-pulling-sailing-steaming.mp3": 80.857625,
+      "u103-hastings-lifeboat-station-the-inshore-lifeboat-revolution.mp3": 67.041625,
+      "u103-hastings-lifeboat-station-the-sealink-endeavour-and-after.mp3": 74.9049166,
+      "u103-hastings-lifeboat-station-strategic-review.mp3": 65.2736666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

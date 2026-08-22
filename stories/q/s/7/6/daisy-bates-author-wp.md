@@ -20,7 +20,7 @@ Ooldea was a meeting point. Aboriginal people from surrounding areas came to its
 
 ## The Contradictions She Lived
 
-Daisy Bates is difficult to hold whole. She advocated that Aboriginal people be shielded from contact with non-Aboriginal Australians — which sounds protective and reflects genuine care, and also reflects a belief that the two populations should remain permanently separate. She claimed that various Aboriginal peoples practiced cannibalism, and published these claims widely. She wrote in 1921 that 'the only good half-caste is a dead one' — a statement that sits permanently in the record. Yet the people she worked alongside over decades gave her names that acknowledged her presence. The Pitjantjatjara at Ooldea called her Kabbarli. Whether that name was given in affection, respect, or simply a kind of sociable management of an odd elder who lived in a tent and handed out food is not fully knowable.
+Daisy Bates is difficult to hold whole. She advocated that Aboriginal people be shielded from contact with non-Aboriginal Australians — which sounds protective and reflects genuine care, and also reflects a belief that the two populations should remain permanently separate. She claimed that various Aboriginal peoples practiced cannibalism, and published these claims widely — allegations that anthropologists have since rejected as unsubstantiated and grossly exaggerated. She wrote in 1921 that 'the only good half-caste is a dead one' — a statement that sits permanently in the record. Yet the people she worked alongside over decades gave her names that acknowledged her presence. The Pitjantjatjara at Ooldea called her Kabbarli. Whether that name was given in affection, respect, or simply a kind of sociable management of an odd elder who lived in a tent and handed out food is not fully knowable.
 
 ## Recognition and the End
 
@@ -50,6 +50,8 @@ Daisy Bates is associated with the Pilbara coast near Cossack at approximately 2
   - Controversy over claims of Aboriginal cannibalism confirmed
   - paternalistic views confirmed as documented and historically accurate
   - language dignity: story appropriately frames harmful views without adopting them
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Daisy_Bates_(author))
+  - Added that her cannibalism allegations were later rejected by anthropologists as unsubstantiated and grossly exaggerated.
 
 ## Review Notes
 

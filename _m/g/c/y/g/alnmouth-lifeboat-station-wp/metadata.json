@@ -87,5 +87,24 @@
   ],
   "galleryPaths": [
     "_m/g/c/y/g/alnmouth-lifeboat-station-wp/service-board-former-a.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcyg-alnmouth-lifeboat-station-flight-context.mp3",
+      "gcyg-alnmouth-lifeboat-station-intro.mp3",
+      "gcyg-alnmouth-lifeboat-station-the-dukes-competition.mp3",
+      "gcyg-alnmouth-lifeboat-station-ann-of-blyth.mp3",
+      "gcyg-alnmouth-lifeboat-station-the-captain-who-would-not-leave.mp3",
+      "gcyg-alnmouth-lifeboat-station-what-remains.mp3"
+    ],
+    "durations": {
+      "gcyg-alnmouth-lifeboat-station-flight-context.mp3": 45.972,
+      "gcyg-alnmouth-lifeboat-station-intro.mp3": 47.0909583,
+      "gcyg-alnmouth-lifeboat-station-the-dukes-competition.mp3": 67.3045833,
+      "gcyg-alnmouth-lifeboat-station-ann-of-blyth.mp3": 54.8847083,
+      "gcyg-alnmouth-lifeboat-station-the-captain-who-would-not-leave.mp3": 58.2345833,
+      "gcyg-alnmouth-lifeboat-station-what-remains.mp3": 42.6507083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -85,5 +85,24 @@
   ],
   "galleryPaths": [
     "_m/r/7/h/g/la-boite-theatre-building-wp/la-boite-theatre-2003.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r7hg-la-boite-theatre-building-flight-context.mp3",
+      "r7hg-la-boite-theatre-building-intro.mp3",
+      "r7hg-la-boite-theatre-building-a-first-for-australia.mp3",
+      "r7hg-la-boite-theatre-building-the-architect-and-the-box.mp3",
+      "r7hg-la-boite-theatre-building-inside-the-ring.mp3",
+      "r7hg-la-boite-theatre-building-the-company-that-took-the-name.mp3"
+    ],
+    "durations": {
+      "r7hg-la-boite-theatre-building-flight-context.mp3": 59.7756666,
+      "r7hg-la-boite-theatre-building-intro.mp3": 44.0430416,
+      "r7hg-la-boite-theatre-building-a-first-for-australia.mp3": 44.0005833,
+      "r7hg-la-boite-theatre-building-the-architect-and-the-box.mp3": 51.8073333,
+      "r7hg-la-boite-theatre-building-inside-the-ring.mp3": 56.7485833,
+      "r7hg-la-boite-theatre-building-the-company-that-took-the-name.mp3": 44.557375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

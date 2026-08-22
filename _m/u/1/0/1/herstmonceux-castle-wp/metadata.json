@@ -616,5 +616,26 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u101-herstmonceux-castle-flight-context.mp3",
+      "u101-herstmonceux-castle-intro.mp3",
+      "u101-herstmonceux-castle-bricks-from-flanders.mp3",
+      "u101-herstmonceux-castle-a-ruin-by-choice.mp3",
+      "u101-herstmonceux-castle-stars-over-sussex.mp3",
+      "u101-herstmonceux-castle-a-canadian-castle.mp3",
+      "u101-herstmonceux-castle-lilies-and-other-quiet-triumphs.mp3"
+    ],
+    "durations": {
+      "u101-herstmonceux-castle-flight-context.mp3": 46.8024583,
+      "u101-herstmonceux-castle-intro.mp3": 50.07525,
+      "u101-herstmonceux-castle-bricks-from-flanders.mp3": 67.278,
+      "u101-herstmonceux-castle-a-ruin-by-choice.mp3": 70.7272916,
+      "u101-herstmonceux-castle-stars-over-sussex.mp3": 66.6795416,
+      "u101-herstmonceux-castle-a-canadian-castle.mp3": 52.7804583,
+      "u101-herstmonceux-castle-lilies-and-other-quiet-triumphs.mp3": 51.9115416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

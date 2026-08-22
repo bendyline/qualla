@@ -345,5 +345,24 @@
     "_m/m/h/p/r/piton-des-neiges-wp/geothermie-piton-des-neiges.jpg",
     "_m/m/h/p/r/piton-des-neiges-wp/natrolite-ile-reunion.jpg"
   ],
-  "updatedAt": "2026-06-27T22:12:12.705Z"
+  "updatedAt": "2026-06-27T22:12:12.705Z",
+  "narration": {
+    "files": [
+      "mhpr-piton-des-neiges-flight-context.mp3",
+      "mhpr-piton-des-neiges-intro.mp3",
+      "mhpr-piton-des-neiges-an-island-built-from-the-deep.mp3",
+      "mhpr-piton-des-neiges-the-mountain-that-fell-in.mp3",
+      "mhpr-piton-des-neiges-a-refuge-for-the-rare.mp3",
+      "mhpr-piton-des-neiges-the-walk-to-the-roof.mp3"
+    ],
+    "durations": {
+      "mhpr-piton-des-neiges-flight-context.mp3": 56.9156666,
+      "mhpr-piton-des-neiges-intro.mp3": 34.4432083,
+      "mhpr-piton-des-neiges-an-island-built-from-the-deep.mp3": 45.7522083,
+      "mhpr-piton-des-neiges-the-mountain-that-fell-in.mp3": 50.1412916,
+      "mhpr-piton-des-neiges-a-refuge-for-the-rare.mp3": 37.0415,
+      "mhpr-piton-des-neiges-the-walk-to-the-roof.mp3": 47.0496666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

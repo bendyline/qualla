@@ -718,5 +718,26 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u101-pevensey-castle-flight-context.mp3",
+      "u101-pevensey-castle-intro.mp3",
+      "u101-pevensey-castle-a-fort-to-defend-rome-from-itself.mp3",
+      "u101-pevensey-castle-walls-that-outlasted-an-empire.mp3",
+      "u101-pevensey-castle-the-conquerors-first-night.mp3",
+      "u101-pevensey-castle-sieges-starvation-stones.mp3",
+      "u101-pevensey-castle-1940.mp3"
+    ],
+    "durations": {
+      "u101-pevensey-castle-flight-context.mp3": 58.8630833,
+      "u101-pevensey-castle-intro.mp3": 47.7799166,
+      "u101-pevensey-castle-a-fort-to-defend-rome-from-itself.mp3": 75.9249583,
+      "u101-pevensey-castle-walls-that-outlasted-an-empire.mp3": 63.7373333,
+      "u101-pevensey-castle-the-conquerors-first-night.mp3": 80.484,
+      "u101-pevensey-castle-sieges-starvation-stones.mp3": 84.2957916,
+      "u101-pevensey-castle-1940.mp3": 66.9035416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

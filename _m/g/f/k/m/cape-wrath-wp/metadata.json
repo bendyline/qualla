@@ -533,5 +533,22 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gfkm-cape-wrath-flight-context.mp3",
+      "gfkm-cape-wrath-intro.mp3",
+      "gfkm-cape-wrath-where-the-birds-outnumber-the-people.mp3",
+      "gfkm-cape-wrath-the-firing-range-at-the-edge-of-britain.mp3",
+      "gfkm-cape-wrath-getting-there-is-half-the-point.mp3"
+    ],
+    "durations": {
+      "gfkm-cape-wrath-flight-context.mp3": 55.00575,
+      "gfkm-cape-wrath-intro.mp3": 42.651625,
+      "gfkm-cape-wrath-where-the-birds-outnumber-the-people.mp3": 58.288875,
+      "gfkm-cape-wrath-the-firing-range-at-the-edge-of-britain.mp3": 54.7985416,
+      "gfkm-cape-wrath-getting-there-is-half-the-point.mp3": 60.7287916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

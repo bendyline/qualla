@@ -20,7 +20,7 @@ The Sacramento County Coroner identified the victims: Johntaya Alexander, 21; Me
 
 ## Gangs and the Gun
 
-On April 6, Sacramento police confirmed that the shooting was gang-related, with one side tied to the Crips and the other to the rival Bloods. Three suspects -- Smiley Martin, his brother Dandrae Martin, and Mtula Payton -- were each charged with three counts of murder. The details that emerged were damning. Hours before the shooting, Dandrae Martin had streamed himself on Facebook Live brandishing a handgun. Smiley Martin had been sentenced to ten years in prison in 2018 for domestic violence but was released in February 2022 -- just six weeks before the shooting. Among the weapons recovered at the scene was a Glock 19 fitted with a device that converted it to fully automatic fire. Police recovered 114 shell casings in total. Gang violence was not new to Sacramento; a wave of shootings in 2017 had prompted the city council to direct millions of dollars toward neighborhood violence prevention programs. The K Street shooting made clear how far those efforts still had to go. Payton was arrested in Las Vegas on May 28. Smiley Martin died in jail on June 8, 2024, of an accidental drug overdose.
+On April 6, Sacramento police confirmed that the shooting was gang-related, with one side tied to the Crips and the other to the rival Bloods. Three suspects -- Smiley Martin, his brother Dandrae Martin, and Mtula Payton -- were each charged with three counts of murder. Hours before the shooting, Dandrae Martin had streamed himself on Facebook Live brandishing a handgun. Smiley Martin had been sentenced to ten years in prison in 2018 for domestic violence but was released in February 2022 -- just six weeks before the shooting. Among the weapons recovered at the scene was a Glock 19 fitted with a device that converted it to fully automatic fire. Police recovered 114 shell casings in total. Gang violence was not new to Sacramento; a wave of shootings in 2017 had prompted the city council to direct millions of dollars toward neighborhood violence prevention programs. The K Street shooting made clear how far those efforts still had to go. Payton was arrested in Las Vegas on May 28. Smiley Martin died in jail on June 8, 2024, of an accidental drug overdose. As of mid-2026, Dandrae Martin and Mtula Payton were on trial for murder in Sacramento; following closing arguments in June, the case went to the jury, and no verdict had yet been reached. Both have denied the charges.
 
 ## Vigils and a Moment of Silence
 
@@ -43,6 +43,8 @@ Located at 38.58N, 121.49W in downtown Sacramento at the intersection of 10th an
   - April 3, 2022 date verified
   - Glock 19 with auto-conversion device recovered verified
   - 114 shell casings recovered verified
+- [Review — 2026-07-13](https://fox40.com/news/local-news/sacramento/k-street-shooting-case-juror-deliberations/)
+  - Removed "damning" editorializing and added a neutral note that the defendants' murder trial was ongoing (jury deliberating, no verdict).
 
 ## Review Notes
 

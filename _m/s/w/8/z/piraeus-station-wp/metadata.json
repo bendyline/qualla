@@ -605,5 +605,26 @@
     "_m/s/w/8/z/piraeus-station-wp/piraeus-isap-terminus-interior.jpg",
     "_m/s/w/8/z/piraeus-station-wp/piraeus-isap-terminus-electric.jpg"
   ],
-  "updatedAt": "2026-06-24T15:16:53.909Z"
+  "updatedAt": "2026-06-24T15:16:53.909Z",
+  "narration": {
+    "files": [
+      "sw8z-piraeus-station-flight-context.mp3",
+      "sw8z-piraeus-station-intro.mp3",
+      "sw8z-piraeus-station-greeces-first-railway.mp3",
+      "sw8z-piraeus-station-occupation-damage-recovery.mp3",
+      "sw8z-piraeus-station-the-lines-that-converge-here.mp3",
+      "sw8z-piraeus-station-the-museum-in-the-station.mp3",
+      "sw8z-piraeus-station-a-terminus-at-the-edge-of-the-sea.mp3"
+    ],
+    "durations": {
+      "sw8z-piraeus-station-flight-context.mp3": 45.7261666,
+      "sw8z-piraeus-station-intro.mp3": 63.814125,
+      "sw8z-piraeus-station-greeces-first-railway.mp3": 64.75,
+      "sw8z-piraeus-station-occupation-damage-recovery.mp3": 75.2719166,
+      "sw8z-piraeus-station-the-lines-that-converge-here.mp3": 56.3205,
+      "sw8z-piraeus-station-the-museum-in-the-station.mp3": 56.7637083,
+      "sw8z-piraeus-station-a-terminus-at-the-edge-of-the-sea.mp3": 52.8680833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

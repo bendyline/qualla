@@ -541,5 +541,24 @@
     "_m/g/c/w/q/brough-castle-wp/brough-castle-6-geograph-org-u.jpg",
     "_m/g/c/w/q/brough-castle-wp/the-entrance-to-brough-castle-.jpg"
   ],
-  "updatedAt": "2026-06-23T10:01:19.240Z"
+  "updatedAt": "2026-06-23T10:01:19.240Z",
+  "narration": {
+    "files": [
+      "gcwq-brough-castle-flight-context.mp3",
+      "gcwq-brough-castle-intro.mp3",
+      "gcwq-brough-castle-built-on-roman-bones.mp3",
+      "gcwq-brough-castle-the-scots-come-south.mp3",
+      "gcwq-brough-castle-the-clifford-centuries.mp3",
+      "gcwq-brough-castle-lady-annes-long-memory.mp3"
+    ],
+    "durations": {
+      "gcwq-brough-castle-flight-context.mp3": 45.066625,
+      "gcwq-brough-castle-intro.mp3": 31.8125833,
+      "gcwq-brough-castle-built-on-roman-bones.mp3": 54.1557916,
+      "gcwq-brough-castle-the-scots-come-south.mp3": 63.692125,
+      "gcwq-brough-castle-the-clifford-centuries.mp3": 53.9662916,
+      "gcwq-brough-castle-lady-annes-long-memory.mp3": 86.4076666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

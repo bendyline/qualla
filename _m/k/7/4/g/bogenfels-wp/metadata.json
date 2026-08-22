@@ -52,5 +52,24 @@
     "sourceGeohash4": "k74g"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "k74g-bogenfels-flight-context.mp3",
+      "k74g-bogenfels-intro.mp3",
+      "k74g-bogenfels-a-doorway-of-dolomite.mp3",
+      "k74g-bogenfels-diamonds-in-the-sand.mp3",
+      "k74g-bogenfels-the-ghost-at-pomona.mp3",
+      "k74g-bogenfels-permission-to-enter.mp3"
+    ],
+    "durations": {
+      "k74g-bogenfels-flight-context.mp3": 65.3753333,
+      "k74g-bogenfels-intro.mp3": 42.7,
+      "k74g-bogenfels-a-doorway-of-dolomite.mp3": 54.9826666,
+      "k74g-bogenfels-diamonds-in-the-sand.mp3": 46.8400416,
+      "k74g-bogenfels-the-ghost-at-pomona.mp3": 56.0727916,
+      "k74g-bogenfels-permission-to-enter.mp3": 44.5829166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

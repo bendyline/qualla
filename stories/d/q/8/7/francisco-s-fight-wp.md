@@ -20,7 +20,7 @@ The only documented primary sources for what happened next come from Francisco h
 
 ## The Legend Grows Taller
 
-Later retellings inflated the story far beyond Francisco's own words. Henry Howe's 1852 account introduced dramatic details absent from the original letters: the tavernkeeper treacherously handing a musket to a British soldier, a misfire at point-blank range, and Francisco bellowing invented commands -- 'Come on, my brave boys! We will soon dispatch these few, and then attack the main body!' -- to bluff Tarleton's nearby troop of four hundred men into thinking reinforcements were arriving. The embellished version added a colorful coda: the treacherous tavernkeeper, given Francisco's captured horses to hide, demanded two as payment for his trouble. Francisco took six and left, planning to return for revenge. Providence, as the tale would have it, intervened first -- the man broke his neck falling from one of the very horses he had extorted. An 1814 engraving depicting the scene cemented the dramatic version in popular memory, though its details come from storytelling rather than documentary evidence.
+Later retellings inflated the story far beyond Francisco's own words. Henry Howe's 1852 account introduced dramatic details absent from the original letters: the tavernkeeper treacherously handing a musket to a British soldier, a misfire at point-blank range, and Francisco bellowing invented commands -- 'Come on, my brave boys; now's your time; we will soon dispatch these few, and then attack the main body!' -- to bluff Tarleton's nearby troop of four hundred men into thinking reinforcements were arriving. The embellished version added a colorful coda: the treacherous tavernkeeper, given Francisco's captured horses to hide, demanded two as payment for his trouble. Francisco took six and left, planning to return for revenge. Providence, as the tale would have it, intervened first -- the man broke his neck falling from one of the very horses he had extorted. An 1814 engraving depicting the scene cemented the dramatic version in popular memory, though its details come from storytelling rather than documentary evidence.
 
 ## What Remains at Jennings Ordinary
 
@@ -42,6 +42,8 @@ Located at 37.14N, 78.05W in Nottoway County, Virginia. The site lies along U.S.
   - Francisco reportedly from the Azores abandoned at City Point Virginia as a boy confirmed
   - fought nine dragoons and seized horses per his own accounts
   - 1820 letter to Virginia Assembly and 1829 Congress petition documented
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Francisco%27s_Fight)
+  - Corrected Henry Howe 1852 quote to verbatim wording ('Come on, my brave boys; now's your time; we will soon dispatch these few, and then attack the main body!'); the phrase 'now's your time' had been omitted
 
 ## Review Notes
 

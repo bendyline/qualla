@@ -64,5 +64,24 @@
     "sourceGeohash4": "sw80"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sw80-las-greece-flight-context.mp3",
+      "sw80-las-greece-intro.mp3",
+      "sw80-las-greece-between-three-mountains.mp3",
+      "sw80-las-greece-between-sparta-and-freedom.mp3",
+      "sw80-las-greece-the-castle-they-called-passavant.mp3",
+      "sw80-las-greece-what-leake-found.mp3"
+    ],
+    "durations": {
+      "sw80-las-greece-flight-context.mp3": 58.672375,
+      "sw80-las-greece-intro.mp3": 48.0056666,
+      "sw80-las-greece-between-three-mountains.mp3": 82.1898333,
+      "sw80-las-greece-between-sparta-and-freedom.mp3": 84.7273333,
+      "sw80-las-greece-the-castle-they-called-passavant.mp3": 98.9631666,
+      "sw80-las-greece-what-leake-found.mp3": 83.301625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

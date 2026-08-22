@@ -58,5 +58,24 @@
     "sourceGeohash4": "qfwy"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qfwy-challenger-mine-flight-context.mp3",
+      "qfwy-challenger-mine-intro.mp3",
+      "qfwy-challenger-mine-gold-in-the-crust.mp3",
+      "qfwy-challenger-mine-nearly-three-billion-years-down.mp3",
+      "qfwy-challenger-mine-a-mine-inside-a-weapons-range.mp3",
+      "qfwy-challenger-mine-the-gold-runs-out-the-rock-endures.mp3"
+    ],
+    "durations": {
+      "qfwy-challenger-mine-flight-context.mp3": 62.2314583,
+      "qfwy-challenger-mine-intro.mp3": 39.3740833,
+      "qfwy-challenger-mine-gold-in-the-crust.mp3": 48.5330833,
+      "qfwy-challenger-mine-nearly-three-billion-years-down.mp3": 58.2454166,
+      "qfwy-challenger-mine-a-mine-inside-a-weapons-range.mp3": 58.8854166,
+      "qfwy-challenger-mine-the-gold-runs-out-the-rock-endures.mp3": 57.558125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

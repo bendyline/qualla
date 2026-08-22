@@ -61,5 +61,24 @@
     "sourceGeohash4": "w6d0"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "w6d0-anlong-veng-flight-context.mp3",
+      "w6d0-anlong-veng-intro.mp3",
+      "w6d0-anlong-veng-the-last-refuge.mp3",
+      "w6d0-anlong-veng-ta-moks-lake.mp3",
+      "w6d0-anlong-veng-a-crossroads-transformed.mp3",
+      "w6d0-anlong-veng-what-memory-requires.mp3"
+    ],
+    "durations": {
+      "w6d0-anlong-veng-flight-context.mp3": 59.3760833,
+      "w6d0-anlong-veng-intro.mp3": 42.043,
+      "w6d0-anlong-veng-the-last-refuge.mp3": 75.9380833,
+      "w6d0-anlong-veng-ta-moks-lake.mp3": 59.575625,
+      "w6d0-anlong-veng-a-crossroads-transformed.mp3": 59.263375,
+      "w6d0-anlong-veng-what-memory-requires.mp3": 62.9640416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

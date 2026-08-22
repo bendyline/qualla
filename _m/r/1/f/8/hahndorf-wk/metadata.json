@@ -288,5 +288,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r1f8-hahndorf-flight-context.mp3",
+      "r1f8-hahndorf-intro.mp3",
+      "r1f8-hahndorf-a-captains-kindness.mp3",
+      "r1f8-hahndorf-the-land-before.mp3",
+      "r1f8-hahndorf-heysens-light.mp3",
+      "r1f8-hahndorf-strawberries-and-cellar-doors.mp3"
+    ],
+    "durations": {
+      "r1f8-hahndorf-flight-context.mp3": 54.453125,
+      "r1f8-hahndorf-intro.mp3": 43.8986666,
+      "r1f8-hahndorf-a-captains-kindness.mp3": 48.6935416,
+      "r1f8-hahndorf-the-land-before.mp3": 46.228375,
+      "r1f8-hahndorf-heysens-light.mp3": 45.7215416,
+      "r1f8-hahndorf-strawberries-and-cellar-doors.mp3": 53.129875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

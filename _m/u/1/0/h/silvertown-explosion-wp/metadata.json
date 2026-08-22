@@ -58,5 +58,26 @@
     "sourceGeohash4": "u10h"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "u10h-silvertown-explosion-flight-context.mp3",
+      "u10h-silvertown-explosion-intro.mp3",
+      "u10h-silvertown-explosion-why-the-plant-was-there.mp3",
+      "u10h-silvertown-explosion-the-fire-in-the-melt-pot-room.mp3",
+      "u10h-silvertown-explosion-the-people-who-died.mp3",
+      "u10h-silvertown-explosion-the-inquiry-and-the-houses.mp3",
+      "u10h-silvertown-explosion-the-memorial-in-royal-wharf.mp3"
+    ],
+    "durations": {
+      "u10h-silvertown-explosion-flight-context.mp3": 38.5017916,
+      "u10h-silvertown-explosion-intro.mp3": 60.14075,
+      "u10h-silvertown-explosion-why-the-plant-was-there.mp3": 74.215875,
+      "u10h-silvertown-explosion-the-fire-in-the-melt-pot-room.mp3": 64.069875,
+      "u10h-silvertown-explosion-the-people-who-died.mp3": 72.1850416,
+      "u10h-silvertown-explosion-the-inquiry-and-the-houses.mp3": 79.1711666,
+      "u10h-silvertown-explosion-the-memorial-in-royal-wharf.mp3": 71.4355416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

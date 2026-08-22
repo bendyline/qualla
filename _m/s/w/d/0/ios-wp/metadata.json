@@ -110,5 +110,26 @@
     "_m/s/w/d/0/ios-wp/mylopotas.jpg",
     "_m/s/w/d/0/ios-wp/view-of-the-port-from-the-chor.jpg"
   ],
-  "updatedAt": "2026-06-24T15:31:09.664Z"
+  "updatedAt": "2026-06-24T15:31:09.664Z",
+  "narration": {
+    "files": [
+      "swd0-ios-flight-context.mp3",
+      "swd0-ios-intro.mp3",
+      "swd0-ios-the-poets-hill.mp3",
+      "swd0-ios-white-village-on-the-hill.mp3",
+      "swd0-ios-sleeping-bags-on-mylopotas.mp3",
+      "swd0-ios-layers-beneath-the-beat.mp3",
+      "swd0-ios-the-island-between.mp3"
+    ],
+    "durations": {
+      "swd0-ios-flight-context.mp3": 57.454125,
+      "swd0-ios-intro.mp3": 45.2648333,
+      "swd0-ios-the-poets-hill.mp3": 48.1282083,
+      "swd0-ios-white-village-on-the-hill.mp3": 51.8897083,
+      "swd0-ios-sleeping-bags-on-mylopotas.mp3": 48.0208333,
+      "swd0-ios-layers-beneath-the-beat.mp3": 49.9946666,
+      "swd0-ios-the-island-between.mp3": 52.834875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

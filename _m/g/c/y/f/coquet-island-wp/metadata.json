@@ -631,5 +631,24 @@
     "_m/g/c/y/f/coquet-island-wp/between-the-rocks-at-birling-c.jpg",
     "_m/g/c/y/f/coquet-island-wp/a-distant-view-of-coquet-islan.jpg"
   ],
-  "updatedAt": "2026-06-23T16:05:27.986Z"
+  "updatedAt": "2026-06-23T16:05:27.986Z",
+  "narration": {
+    "files": [
+      "gcyf-coquet-island-flight-context.mp3",
+      "gcyf-coquet-island-intro.mp3",
+      "gcyf-coquet-island-the-dane-and-the-monastery.mp3",
+      "gcyf-coquet-island-the-lighthouse.mp3",
+      "gcyf-coquet-island-the-roseate-tern-colony.mp3",
+      "gcyf-coquet-island-looking-not-landing.mp3"
+    ],
+    "durations": {
+      "gcyf-coquet-island-flight-context.mp3": 51.5074166,
+      "gcyf-coquet-island-intro.mp3": 39.4074583,
+      "gcyf-coquet-island-the-dane-and-the-monastery.mp3": 45.84825,
+      "gcyf-coquet-island-the-lighthouse.mp3": 62.813375,
+      "gcyf-coquet-island-the-roseate-tern-colony.mp3": 60.81625,
+      "gcyf-coquet-island-looking-not-landing.mp3": 49.6361666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

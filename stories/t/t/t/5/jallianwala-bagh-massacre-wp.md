@@ -20,7 +20,7 @@ April 13 was Baisakhi, the spring harvest festival. Thousands of people had gath
 
 ## The Reckoning That Wasn't
 
-Official British figures counted 379 dead, including 41 boys and a six-week-old baby. Indian estimates ran as high as 1,500. Over 1,200 people were wounded. Dyer imposed a curfew that prevented the injured from being moved, and many bled to death where they fell during the night. He offered no medical assistance. "It was not my job," he told the inquiry. "Hospitals were open and they could have gone there." The Hunter Commission, appointed months later, found that Dyer had overstepped his authority and that no conspiracy to overthrow British rule had existed. Yet no criminal charges were brought. Dyer was relieved of his command but never prosecuted, and a public subscription in Britain raised 26,000 pounds in his support. Winston Churchill called the massacre "unutterably monstrous." Former Prime Minister Asquith called it "one of the worst outrages in the whole of our history." Parliament voted 247 to 37 against Dyer, but many Britons still regarded him as a hero.
+Official British figures counted 379 dead, including 41 boys and a six-week-old baby. Indian estimates ran as high as 1,500. Over 1,200 people were wounded. Dyer imposed a curfew that prevented the injured from being moved, and many bled to death where they fell during the night. He offered no medical assistance. "It was not my job," he told the inquiry. "Hospitals were open and they could have gone there." The Hunter Commission, appointed months later, found that Dyer had overstepped his authority and that no conspiracy to overthrow British rule had existed. Yet no criminal charges were brought. Dyer was relieved of his command but never prosecuted, and a public subscription in Britain raised 26,000 pounds in his support. Winston Churchill called the massacre "unutterably monstrous." Former Prime Minister Asquith called it "one of the worst, most dreadful, outrages in the whole of our history." Parliament voted 247 to 37 against Dyer, but many Britons still regarded him as a hero.
 
 ## The Slow Burn of Consequence
 
@@ -54,6 +54,8 @@ Jallianwala Bagh is located in central Amritsar at 31.6206N, 74.8806E, adjacent 
   - Singh hanged July 1940 confirmed
   - Memorial inaugurated April 13 1961 by President Rajendra Prasad confirmed
   - Benjamin Polk designed memorial confirmed
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Jallianwala_Bagh_massacre)
+  - Restored dropped words in an Asquith quote ("one of the worst, most dreadful, outrages in the whole of our history").
 
 ## Review Notes
 

@@ -754,5 +754,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcvy-arthurs-seat-flight-context.mp3",
+      "gcvy-arthurs-seat-intro.mp3",
+      "gcvy-arthurs-seat-the-volcano-in-the-city.mp3",
+      "gcvy-arthurs-seat-huttons-section.mp3",
+      "gcvy-arthurs-seat-hill-forts-and-bonfires.mp3",
+      "gcvy-arthurs-seat-pilgrimage-and-dew.mp3",
+      "gcvy-arthurs-seat-fly-past.mp3"
+    ],
+    "durations": {
+      "gcvy-arthurs-seat-flight-context.mp3": 55.3267083,
+      "gcvy-arthurs-seat-intro.mp3": 60.4342083,
+      "gcvy-arthurs-seat-the-volcano-in-the-city.mp3": 67.7874166,
+      "gcvy-arthurs-seat-huttons-section.mp3": 66.3929166,
+      "gcvy-arthurs-seat-hill-forts-and-bonfires.mp3": 77.88425,
+      "gcvy-arthurs-seat-pilgrimage-and-dew.mp3": 70.4455,
+      "gcvy-arthurs-seat-fly-past.mp3": 65.3550416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

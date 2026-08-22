@@ -59,5 +59,24 @@
     "sourceGeohash4": "webq"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "webq-battle-of-yamen-flight-context.mp3",
+      "webq-battle-of-yamen-intro.mp3",
+      "webq-battle-of-yamen-a-dynasty-in-flight.mp3",
+      "webq-battle-of-yamen-the-chained-fleet.mp3",
+      "webq-battle-of-yamen-the-afternoon-of-march-19.mp3",
+      "webq-battle-of-yamen-what-the-water-gave-back.mp3"
+    ],
+    "durations": {
+      "webq-battle-of-yamen-flight-context.mp3": 53.4617083,
+      "webq-battle-of-yamen-intro.mp3": 57.0282083,
+      "webq-battle-of-yamen-a-dynasty-in-flight.mp3": 69.2550833,
+      "webq-battle-of-yamen-the-chained-fleet.mp3": 71.80775,
+      "webq-battle-of-yamen-the-afternoon-of-march-19.mp3": 74.2162916,
+      "webq-battle-of-yamen-what-the-water-gave-back.mp3": 80.0259583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

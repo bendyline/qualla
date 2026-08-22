@@ -540,5 +540,24 @@
     "_m/s/w/f/d/cesme-castle-wp/izmir-cesme-kalesi.jpg",
     "_m/s/w/f/d/cesme-castle-wp/cesme-castle-1.jpg"
   ],
-  "updatedAt": "2026-06-24T22:44:07.982Z"
+  "updatedAt": "2026-06-24T22:44:07.982Z",
+  "narration": {
+    "files": [
+      "swfd-e-me-castle-flight-context.mp3",
+      "swfd-e-me-castle-intro.mp3",
+      "swfd-e-me-castle-built-for-the-venetians.mp3",
+      "swfd-e-me-castle-the-bay-that-burned.mp3",
+      "swfd-e-me-castle-when-the-sea-withdrew.mp3",
+      "swfd-e-me-castle-a-fortress-at-festival.mp3"
+    ],
+    "durations": {
+      "swfd-e-me-castle-flight-context.mp3": 54.5589583,
+      "swfd-e-me-castle-intro.mp3": 29.5002916,
+      "swfd-e-me-castle-built-for-the-venetians.mp3": 54.9242916,
+      "swfd-e-me-castle-the-bay-that-burned.mp3": 50.8779166,
+      "swfd-e-me-castle-when-the-sea-withdrew.mp3": 42.3424166,
+      "swfd-e-me-castle-a-fortress-at-festival.mp3": 49.467625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -167,5 +167,24 @@
     "_m/w/s/m/c/central-bookstore-wp/building-of-central-bookstore-.jpg",
     "_m/w/s/m/c/central-bookstore-wp/central-bookstore-taichung.jpg"
   ],
-  "updatedAt": "2026-06-29T20:36:39.668Z"
+  "updatedAt": "2026-06-29T20:36:39.668Z",
+  "narration": {
+    "files": [
+      "wsmc-central-bookstore-flight-context.mp3",
+      "wsmc-central-bookstore-intro.mp3",
+      "wsmc-central-bookstore-a-shop-that-dared.mp3",
+      "wsmc-central-bookstore-a-long-interruption.mp3",
+      "wsmc-central-bookstore-the-renovation-and-return.mp3",
+      "wsmc-central-bookstore-what-a-bookstore-holds.mp3"
+    ],
+    "durations": {
+      "wsmc-central-bookstore-flight-context.mp3": 40.763375,
+      "wsmc-central-bookstore-intro.mp3": 44.389125,
+      "wsmc-central-bookstore-a-shop-that-dared.mp3": 61.622375,
+      "wsmc-central-bookstore-a-long-interruption.mp3": 53.811875,
+      "wsmc-central-bookstore-the-renovation-and-return.mp3": 60.9196666,
+      "wsmc-central-bookstore-what-a-bookstore-holds.mp3": 51.917875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

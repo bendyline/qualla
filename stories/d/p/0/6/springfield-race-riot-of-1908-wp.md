@@ -28,7 +28,7 @@ Despite more than 100 riot-related indictments in the months that followed, only
 
 ## A Monument to Memory
 
-For decades, Springfield largely avoided confronting what had happened. The riot's death toll was misreported for years, with early accounts inflating white deaths and minimizing Black casualties. Near the 100th anniversary in 2008, the city erected historical markers and a memorial statue. An NPR report that year described the riot as "a proxy for the story of race in America," noting that its occurrence in a Northern state shattered any illusion that racial violence was a Southern problem alone. On August 16, 2024, the 116th anniversary of the violence, President Biden designated part of the riot's location as the Springfield 1908 Race Riot National Monument, administered by the National Park Service. The site stands as a reminder that history demands more than commemoration. It demands honesty about what happened and why.
+For decades, Springfield largely avoided confronting what had happened. The riot's death toll was misreported for years, with early accounts inflating white deaths and minimizing Black casualties. Near the 100th anniversary in 2008, the city erected historical markers and a memorial statue. An NPR report that year described the riot as a proxy for the story of race in America, noting that its occurrence in a Northern state shattered any illusion that racial violence was a Southern problem alone. On August 16, 2024, the 116th anniversary of the violence, President Biden designated part of the riot's location as the Springfield 1908 Race Riot National Monument, administered by the National Park Service. The site stands as a reminder that history demands more than commemoration. It demands honesty about what happened and why.
 
 ## Flight Context
 
@@ -46,6 +46,8 @@ The site of the Springfield 1908 Race Riot is in downtown Springfield, Illinois,
 - [Biden designates Springfield 1908 Race Riot National Monument - NPR](https://www.npr.org/2024/08/16/nx-s1-5078360/springfield-race-riot-biden-national-monument-illinois)
   - Biden designation August 16 2024 confirmed as 116th anniversary
   - National Monument administered by National Park Service confirmed
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Springfield_race_riot_of_1908)
+  - Converted a Wikipedia paraphrase ("a proxy for the story of race in America") from a verbatim NPR quote to indirect speech.
 
 ## Review Notes
 

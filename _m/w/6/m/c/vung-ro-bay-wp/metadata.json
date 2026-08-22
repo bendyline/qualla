@@ -494,5 +494,24 @@
     "_m/w/6/m/c/vung-ro-bay-wp/harbour-on-the-coast-of-cochin-1.jpg",
     "_m/w/6/m/c/vung-ro-bay-wp/admiralty-chart-no-1010-port-o.jpg"
   ],
-  "updatedAt": "2026-06-26T03:16:12.881Z"
+  "updatedAt": "2026-06-26T03:16:12.881Z",
+  "narration": {
+    "files": [
+      "w6mc-v-ng-r-bay-flight-context.mp3",
+      "w6mc-v-ng-r-bay-intro.mp3",
+      "w6mc-v-ng-r-bay-geography-of-shelter.mp3",
+      "w6mc-v-ng-r-bay-the-war-years.mp3",
+      "w6mc-v-ng-r-bay-port-lane.mp3",
+      "w6mc-v-ng-r-bay-after-the-war.mp3"
+    ],
+    "durations": {
+      "w6mc-v-ng-r-bay-flight-context.mp3": 62.6536666,
+      "w6mc-v-ng-r-bay-intro.mp3": 40.6845416,
+      "w6mc-v-ng-r-bay-geography-of-shelter.mp3": 52.835,
+      "w6mc-v-ng-r-bay-the-war-years.mp3": 63.54575,
+      "w6mc-v-ng-r-bay-port-lane.mp3": 56.9756666,
+      "w6mc-v-ng-r-bay-after-the-war.mp3": 52.5945833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

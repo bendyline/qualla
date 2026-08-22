@@ -641,5 +641,24 @@
     "_m/w/e/c/n/monster-building-wp/yick-cheong-building-510620845.jpg",
     "_m/w/e/c/n/monster-building-wp/interior-of-the-yick-cheong-bu.jpg"
   ],
-  "updatedAt": "2026-06-28T22:27:59.439Z"
+  "updatedAt": "2026-06-28T22:27:59.439Z",
+  "narration": {
+    "files": [
+      "wecn-monster-building-flight-context.mp3",
+      "wecn-monster-building-intro.mp3",
+      "wecn-monster-building-five-blocks-one-courtyard.mp3",
+      "wecn-monster-building-the-photograph-that-changed-everything.mp3",
+      "wecn-monster-building-hollywood-and-the-vertical-city.mp3",
+      "wecn-monster-building-quarry-bay-behind-the-lens.mp3"
+    ],
+    "durations": {
+      "wecn-monster-building-flight-context.mp3": 51.4748333,
+      "wecn-monster-building-intro.mp3": 32.266625,
+      "wecn-monster-building-five-blocks-one-courtyard.mp3": 61.752625,
+      "wecn-monster-building-the-photograph-that-changed-everything.mp3": 56.3872916,
+      "wecn-monster-building-hollywood-and-the-vertical-city.mp3": 53.45375,
+      "wecn-monster-building-quarry-bay-behind-the-lens.mp3": 52.651875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

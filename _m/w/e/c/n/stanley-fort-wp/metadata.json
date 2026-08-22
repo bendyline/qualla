@@ -61,5 +61,24 @@
     "sourceGeohash4": "wecn"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "wecn-stanley-fort-flight-context.mp3",
+      "wecn-stanley-fort-intro.mp3",
+      "wecn-stanley-fort-three-empires-one-headland.mp3",
+      "wecn-stanley-fort-christmas-day-1941.mp3",
+      "wecn-stanley-fort-the-long-peace-after.mp3",
+      "wecn-stanley-fort-what-remains.mp3"
+    ],
+    "durations": {
+      "wecn-stanley-fort-flight-context.mp3": 52.6337083,
+      "wecn-stanley-fort-intro.mp3": 44.92775,
+      "wecn-stanley-fort-three-empires-one-headland.mp3": 68.39,
+      "wecn-stanley-fort-christmas-day-1941.mp3": 62.2679583,
+      "wecn-stanley-fort-the-long-peace-after.mp3": 72.7133333,
+      "wecn-stanley-fort-what-remains.mp3": 65.5419583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

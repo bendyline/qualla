@@ -542,5 +542,24 @@
     "_m/w/e/v/x/donglong-temple-wp/20250310.jpg",
     "_m/w/e/v/x/donglong-temple-wp/01-20250310.jpg"
   ],
-  "updatedAt": "2026-06-29T13:30:26.325Z"
+  "updatedAt": "2026-06-29T13:30:26.325Z",
+  "narration": {
+    "files": [
+      "wevx-donglong-temple-flight-context.mp3",
+      "wevx-donglong-temple-intro.mp3",
+      "wevx-donglong-temple-three-centuries-of-flood-and-faith.mp3",
+      "wevx-donglong-temple-lord-wen-and-the-wang-ye-tradition.mp3",
+      "wevx-donglong-temple-eight-days-one-fire.mp3",
+      "wevx-donglong-temple-a-living-landmark.mp3"
+    ],
+    "durations": {
+      "wevx-donglong-temple-flight-context.mp3": 49.769375,
+      "wevx-donglong-temple-intro.mp3": 36.9038333,
+      "wevx-donglong-temple-three-centuries-of-flood-and-faith.mp3": 60.8072916,
+      "wevx-donglong-temple-lord-wen-and-the-wang-ye-tradition.mp3": 67.7873333,
+      "wevx-donglong-temple-eight-days-one-fire.mp3": 70.909,
+      "wevx-donglong-temple-a-living-landmark.mp3": 59.120375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

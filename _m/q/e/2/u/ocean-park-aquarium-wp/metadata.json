@@ -65,5 +65,24 @@
     "sourceGeohash4": "qe2u"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qe2u-ocean-park-aquarium-flight-context.mp3",
+      "qe2u-ocean-park-aquarium-intro.mp3",
+      "qe2u-ocean-park-aquarium-the-shark-lagoon.mp3",
+      "qe2u-ocean-park-aquarium-a-window-on-the-bay.mp3",
+      "qe2u-ocean-park-aquarium-a-hospital-for-turtles.mp3",
+      "qe2u-ocean-park-aquarium-the-view-from-the-point.mp3"
+    ],
+    "durations": {
+      "qe2u-ocean-park-aquarium-flight-context.mp3": 58.81075,
+      "qe2u-ocean-park-aquarium-intro.mp3": 49.1505416,
+      "qe2u-ocean-park-aquarium-the-shark-lagoon.mp3": 47.6858333,
+      "qe2u-ocean-park-aquarium-a-window-on-the-bay.mp3": 57.1784583,
+      "qe2u-ocean-park-aquarium-a-hospital-for-turtles.mp3": 50.01175,
+      "qe2u-ocean-park-aquarium-the-view-from-the-point.mp3": 47.8882083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

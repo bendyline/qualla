@@ -574,5 +574,24 @@
     "_m/s/w/f/5/psara-wp/despoina-kanaris.png",
     "_m/s/w/f/5/psara-wp/psara-festive-folk-costume.jpg"
   ],
-  "updatedAt": "2026-06-24T22:39:03.630Z"
+  "updatedAt": "2026-06-24T22:39:03.630Z",
+  "narration": {
+    "files": [
+      "swf5-psara-flight-context.mp3",
+      "swf5-psara-intro.mp3",
+      "swf5-psara-living-from-the-sea.mp3",
+      "swf5-psara-the-third-fleet.mp3",
+      "swf5-psara-the-year-everything-ended.mp3",
+      "swf5-psara-sons-and-daughters.mp3"
+    ],
+    "durations": {
+      "swf5-psara-flight-context.mp3": 50.9915,
+      "swf5-psara-intro.mp3": 33.9334583,
+      "swf5-psara-living-from-the-sea.mp3": 47.51275,
+      "swf5-psara-the-third-fleet.mp3": 47.6417916,
+      "swf5-psara-the-year-everything-ended.mp3": 45.5647083,
+      "swf5-psara-sons-and-daughters.mp3": 47.6029166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -657,5 +657,24 @@
     "_m/g/f/n/t/aberdeen-harbour-wp/aberdeen-banner-harbour.jpg",
     "_m/g/f/n/t/aberdeen-harbour-wp/a-danish-trawler-entering-port.jpg"
   ],
-  "updatedAt": "2026-06-24T06:49:46.316Z"
+  "updatedAt": "2026-06-24T06:49:46.316Z",
+  "narration": {
+    "files": [
+      "gfnt-aberdeen-harbour-flight-context.mp3",
+      "gfnt-aberdeen-harbour-intro.mp3",
+      "gfnt-aberdeen-harbour-the-bishops-port.mp3",
+      "gfnt-aberdeen-harbour-telford-trawlers-and-tall-ships.mp3",
+      "gfnt-aberdeen-harbour-oil-comes-ashore.mp3",
+      "gfnt-aberdeen-harbour-south-harbour.mp3"
+    ],
+    "durations": {
+      "gfnt-aberdeen-harbour-flight-context.mp3": 63.3329583,
+      "gfnt-aberdeen-harbour-intro.mp3": 60.5705,
+      "gfnt-aberdeen-harbour-the-bishops-port.mp3": 74.63475,
+      "gfnt-aberdeen-harbour-telford-trawlers-and-tall-ships.mp3": 77.4215,
+      "gfnt-aberdeen-harbour-oil-comes-ashore.mp3": 63.5020416,
+      "gfnt-aberdeen-harbour-south-harbour.mp3": 69.5882083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

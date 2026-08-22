@@ -529,5 +529,24 @@
     "_m/u/1/3/4/bungay-castle-wp/bungay-castle-outer-bailey-geo-1.jpg",
     "_m/u/1/3/4/bungay-castle-wp/james-moore-bungay-castle-b197.jpg"
   ],
-  "updatedAt": "2026-06-26T00:50:14.445Z"
+  "updatedAt": "2026-06-26T00:50:14.445Z",
+  "narration": {
+    "files": [
+      "u134-bungay-castle-flight-context.mp3",
+      "u134-bungay-castle-intro.mp3",
+      "u134-bungay-castle-roger-bigods-river-bend.mp3",
+      "u134-bungay-castle-the-tunnel-under-the-keep.mp3",
+      "u134-bungay-castle-roger-bigod-fifth-earl-builds-again.mp3",
+      "u134-bungay-castle-quarried-for-road-stone.mp3"
+    ],
+    "durations": {
+      "u134-bungay-castle-flight-context.mp3": 44.815,
+      "u134-bungay-castle-intro.mp3": 34.5384166,
+      "u134-bungay-castle-roger-bigods-river-bend.mp3": 64.1962916,
+      "u134-bungay-castle-the-tunnel-under-the-keep.mp3": 71.2064583,
+      "u134-bungay-castle-roger-bigod-fifth-earl-builds-again.mp3": 53.008,
+      "u134-bungay-castle-quarried-for-road-stone.mp3": 53.6795
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

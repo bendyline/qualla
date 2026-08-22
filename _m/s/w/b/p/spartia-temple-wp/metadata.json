@@ -51,5 +51,24 @@
     "sourceGeohash4": "swbp"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "swbp-spartia-temple-flight-context.mp3",
+      "swbp-spartia-temple-intro.mp3",
+      "swbp-spartia-temple-an-offering-found-by-accident.mp3",
+      "swbp-spartia-temple-reading-the-ground-by-the-rails.mp3",
+      "swbp-spartia-temple-heracles-and-his-mortal-mother.mp3",
+      "swbp-spartia-temple-what-the-hill-still-holds.mp3"
+    ],
+    "durations": {
+      "swbp-spartia-temple-flight-context.mp3": 42.5947083,
+      "swbp-spartia-temple-intro.mp3": 41.9252916,
+      "swbp-spartia-temple-an-offering-found-by-accident.mp3": 48.8515833,
+      "swbp-spartia-temple-reading-the-ground-by-the-rails.mp3": 44.1990833,
+      "swbp-spartia-temple-heracles-and-his-mortal-mother.mp3": 43.7927083,
+      "swbp-spartia-temple-what-the-hill-still-holds.mp3": 45.4870833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

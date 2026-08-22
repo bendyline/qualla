@@ -31,5 +31,24 @@
   "galleryPaths": [
     "_m/s/w/8/m/epidaurus-wp/07epidaurus-theater07.jpg"
   ],
-  "updatedAt": "2026-05-11T13:46:08.332Z"
+  "updatedAt": "2026-05-11T13:46:08.332Z",
+  "narration": {
+    "files": [
+      "sw8m-epidaurus-flight-context.mp3",
+      "sw8m-epidaurus-intro.mp3",
+      "sw8m-epidaurus-a-city-named-for-a-hero.mp3",
+      "sw8m-epidaurus-where-the-sick-came-to-dream.mp3",
+      "sw8m-epidaurus-sacked-revived-enduring.mp3",
+      "sw8m-epidaurus-the-theatre-that-outlived-everything.mp3"
+    ],
+    "durations": {
+      "sw8m-epidaurus-flight-context.mp3": 53.3315,
+      "sw8m-epidaurus-intro.mp3": 48.2358333,
+      "sw8m-epidaurus-a-city-named-for-a-hero.mp3": 88.051875,
+      "sw8m-epidaurus-where-the-sick-came-to-dream.mp3": 87.9869166,
+      "sw8m-epidaurus-sacked-revived-enduring.mp3": 69.6481666,
+      "sw8m-epidaurus-the-theatre-that-outlived-everything.mp3": 82.6705833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

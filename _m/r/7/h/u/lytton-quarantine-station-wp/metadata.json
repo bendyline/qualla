@@ -197,5 +197,24 @@
     "_m/r/7/h/u/lytton-quarantine-station-wp/doctor-s-quarters.jpg",
     "_m/r/7/h/u/lytton-quarantine-station-wp/launchmen-s-cottages.jpg",
     "_m/r/7/h/u/lytton-quarantine-station-wp/bath-house-lytton-quar.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r7hu-lytton-quarantine-station-flight-context.mp3",
+      "r7hu-lytton-quarantine-station-intro.mp3",
+      "r7hu-lytton-quarantine-station-the-long-watch-on-moreton-bay.mp3",
+      "r7hu-lytton-quarantine-station-steam-cyanide-and-class.mp3",
+      "r7hu-lytton-quarantine-station-holding-back-the-plague.mp3",
+      "r7hu-lytton-quarantine-station-what-the-grass-keeps.mp3"
+    ],
+    "durations": {
+      "r7hu-lytton-quarantine-station-flight-context.mp3": 61.1454583,
+      "r7hu-lytton-quarantine-station-intro.mp3": 47.3595833,
+      "r7hu-lytton-quarantine-station-the-long-watch-on-moreton-bay.mp3": 53.948,
+      "r7hu-lytton-quarantine-station-steam-cyanide-and-class.mp3": 60.1305833,
+      "r7hu-lytton-quarantine-station-holding-back-the-plague.mp3": 51.5405,
+      "r7hu-lytton-quarantine-station-what-the-grass-keeps.mp3": 54.0986666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

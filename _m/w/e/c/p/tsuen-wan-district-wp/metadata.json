@@ -605,5 +605,24 @@
     "_m/w/e/c/p/tsuen-wan-district-wp/summer-lotus-159207621.jpg",
     "_m/w/e/c/p/tsuen-wan-district-wp/pano-159160951.jpg"
   ],
-  "updatedAt": "2026-06-29T11:28:54.681Z"
+  "updatedAt": "2026-06-29T11:28:54.681Z",
+  "narration": {
+    "files": [
+      "wecp-tsuen-wan-district-flight-context.mp3",
+      "wecp-tsuen-wan-district-intro.mp3",
+      "wecp-tsuen-wan-district-an-unlikely-shape.mp3",
+      "wecp-tsuen-wan-district-behind-the-dam.mp3",
+      "wecp-tsuen-wan-district-the-village-that-survived.mp3",
+      "wecp-tsuen-wan-district-moving-through-the-district.mp3"
+    ],
+    "durations": {
+      "wecp-tsuen-wan-district-flight-context.mp3": 63.7828333,
+      "wecp-tsuen-wan-district-intro.mp3": 44.2374166,
+      "wecp-tsuen-wan-district-an-unlikely-shape.mp3": 58.7160416,
+      "wecp-tsuen-wan-district-behind-the-dam.mp3": 54.078625,
+      "wecp-tsuen-wan-district-the-village-that-survived.mp3": 50.8346666,
+      "wecp-tsuen-wan-district-moving-through-the-district.mp3": 42.1563333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

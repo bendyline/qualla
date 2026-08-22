@@ -160,5 +160,24 @@
     "_m/r/4/c/y/cooper-creek-wp/cooper-creek-crossing.jpg",
     "_m/r/5/5/f/strzelecki-desert-wp/strzelecki-desert.jpg"
   ],
-  "updatedAt": "2026-06-28T06:19:08.741Z"
+  "updatedAt": "2026-06-28T06:19:08.741Z",
+  "narration": {
+    "files": [
+      "r55f-strzelecki-desert-flight-context.mp3",
+      "r55f-strzelecki-desert-intro.mp3",
+      "r55f-strzelecki-desert-a-sea-of-dunes.mp3",
+      "r55f-strzelecki-desert-the-tracks-across-the-sand.mp3",
+      "r55f-strzelecki-desert-life-among-the-knolls.mp3",
+      "r55f-strzelecki-desert-in-the-explorers-wake.mp3"
+    ],
+    "durations": {
+      "r55f-strzelecki-desert-flight-context.mp3": 60.70325,
+      "r55f-strzelecki-desert-intro.mp3": 43.4605,
+      "r55f-strzelecki-desert-a-sea-of-dunes.mp3": 49.8757916,
+      "r55f-strzelecki-desert-the-tracks-across-the-sand.mp3": 47.4945833,
+      "r55f-strzelecki-desert-life-among-the-knolls.mp3": 51.4929166,
+      "r55f-strzelecki-desert-in-the-explorers-wake.mp3": 47.9066666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

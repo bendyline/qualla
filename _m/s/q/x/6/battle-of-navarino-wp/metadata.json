@@ -470,5 +470,26 @@
     "_m/s/q/x/6/battle-of-navarino-wp/commemorative-medal-of-the-bat.png",
     "_m/s/q/x/6/battle-of-navarino-wp/naval-general-service-medal-na.jpg"
   ],
-  "updatedAt": "2026-06-24T08:35:55.206Z"
+  "updatedAt": "2026-06-24T08:35:55.206Z",
+  "narration": {
+    "files": [
+      "sqx6-battle-of-navarino-flight-context.mp3",
+      "sqx6-battle-of-navarino-intro.mp3",
+      "sqx6-battle-of-navarino-a-revolution-on-the-brink.mp3",
+      "sqx6-battle-of-navarino-the-treaty-that-set-the-stage.mp3",
+      "sqx6-battle-of-navarino-inside-the-horseshoe.mp3",
+      "sqx6-battle-of-navarino-four-hours-of-fire.mp3",
+      "sqx6-battle-of-navarino-victory-no-one-wanted-to-own.mp3"
+    ],
+    "durations": {
+      "sqx6-battle-of-navarino-flight-context.mp3": 61.46025,
+      "sqx6-battle-of-navarino-intro.mp3": 65.9417916,
+      "sqx6-battle-of-navarino-a-revolution-on-the-brink.mp3": 60.9775,
+      "sqx6-battle-of-navarino-the-treaty-that-set-the-stage.mp3": 75.1060416,
+      "sqx6-battle-of-navarino-inside-the-horseshoe.mp3": 71.1694166,
+      "sqx6-battle-of-navarino-four-hours-of-fire.mp3": 77.2406666,
+      "sqx6-battle-of-navarino-victory-no-one-wanted-to-own.mp3": 81.2505
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

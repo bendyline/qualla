@@ -83,5 +83,26 @@
     "_m/s/w/f/d/chios-wp/nea-moni-buildings.jpg",
     "_m/s/w/f/d/chios-wp/gios-anavatos-2005.jpg"
   ],
-  "updatedAt": "2026-06-24T22:39:40.139Z"
+  "updatedAt": "2026-06-24T22:39:40.139Z",
+  "narration": {
+    "files": [
+      "swfd-chios-flight-context.mp3",
+      "swfd-chios-intro.mp3",
+      "swfd-chios-the-mastic-villages.mp3",
+      "swfd-chios-homers-island.mp3",
+      "swfd-chios-the-genoese-centuries.mp3",
+      "swfd-chios-the-great-destruction.mp3",
+      "swfd-chios-out-of-the-ashes.mp3"
+    ],
+    "durations": {
+      "swfd-chios-flight-context.mp3": 47.843,
+      "swfd-chios-intro.mp3": 43.0989166,
+      "swfd-chios-the-mastic-villages.mp3": 59.9535833,
+      "swfd-chios-homers-island.mp3": 55.0517916,
+      "swfd-chios-the-genoese-centuries.mp3": 60.4027916,
+      "swfd-chios-the-great-destruction.mp3": 58.9285416,
+      "swfd-chios-out-of-the-ashes.mp3": 52.6017083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

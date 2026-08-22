@@ -662,5 +662,24 @@
     "_m/u/1/0/u/herne-bay-pier-wp/herne-bay-pier-019.jpg",
     "_m/u/1/0/u/herne-bay-pier-wp/herne-bay-pier-020.jpg"
   ],
-  "updatedAt": "2026-06-25T18:10:13.608Z"
+  "updatedAt": "2026-06-25T18:10:13.608Z",
+  "narration": {
+    "files": [
+      "u10u-herne-bay-pier-flight-context.mp3",
+      "u10u-herne-bay-pier-intro.mp3",
+      "u10u-herne-bay-pier-thomas-telfords-assistant.mp3",
+      "u10u-herne-bay-pier-shipworm-and-iron.mp3",
+      "u10u-herne-bay-pier-bailey-bridges-and-frozen-sea.mp3",
+      "u10u-herne-bay-pier-ken-russells-backdrop.mp3"
+    ],
+    "durations": {
+      "u10u-herne-bay-pier-flight-context.mp3": 45.8493333,
+      "u10u-herne-bay-pier-intro.mp3": 55.5156666,
+      "u10u-herne-bay-pier-thomas-telfords-assistant.mp3": 74.8055833,
+      "u10u-herne-bay-pier-shipworm-and-iron.mp3": 67.9157083,
+      "u10u-herne-bay-pier-bailey-bridges-and-frozen-sea.mp3": 69.486875,
+      "u10u-herne-bay-pier-ken-russells-backdrop.mp3": 78.5158333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

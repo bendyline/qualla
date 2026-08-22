@@ -327,5 +327,26 @@
     "_m/s/q/x/g/vergadeika-wp/house-vergadeika.jpg",
     "_m/s/q/x/g/vergadeika-wp/southern-part-village.jpg",
     "_m/s/q/x/f/sparta-laconia-wp/family-in-vergadeika.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sqxg-vergadeika-flight-context.mp3",
+      "sqxg-vergadeika-intro.mp3",
+      "sqxg-vergadeika-between-the-mountains-and-the-valley.mp3",
+      "sqxg-vergadeika-the-long-migration.mp3",
+      "sqxg-vergadeika-layers-beneath-the-surface.mp3",
+      "sqxg-vergadeika-names-and-origins.mp3",
+      "sqxg-vergadeika-fire-on-the-mountain.mp3"
+    ],
+    "durations": {
+      "sqxg-vergadeika-flight-context.mp3": 60.4285,
+      "sqxg-vergadeika-intro.mp3": 50.4967916,
+      "sqxg-vergadeika-between-the-mountains-and-the-valley.mp3": 63.4097916,
+      "sqxg-vergadeika-the-long-migration.mp3": 60.1062916,
+      "sqxg-vergadeika-layers-beneath-the-surface.mp3": 76.316875,
+      "sqxg-vergadeika-names-and-origins.mp3": 53.5726666,
+      "sqxg-vergadeika-fire-on-the-mountain.mp3": 59.8002916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

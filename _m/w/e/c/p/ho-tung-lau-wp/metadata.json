@@ -51,5 +51,24 @@
     "sourceGeohash4": "wecp"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "wecp-ho-tung-lau-flight-context.mp3",
+      "wecp-ho-tung-lau-intro.mp3",
+      "wecp-ho-tung-lau-a-mansion-conceived-for-summer.mp3",
+      "wecp-ho-tung-lau-the-raf-takes-over.mp3",
+      "wecp-ho-tung-lau-ferries-and-fifty-cents.mp3",
+      "wecp-ho-tung-lau-what-remains-under-new-names.mp3"
+    ],
+    "durations": {
+      "wecp-ho-tung-lau-flight-context.mp3": 55.1074583,
+      "wecp-ho-tung-lau-intro.mp3": 48.0872083,
+      "wecp-ho-tung-lau-a-mansion-conceived-for-summer.mp3": 56.7487916,
+      "wecp-ho-tung-lau-the-raf-takes-over.mp3": 53.330875,
+      "wecp-ho-tung-lau-ferries-and-fifty-cents.mp3": 75.0639583,
+      "wecp-ho-tung-lau-what-remains-under-new-names.mp3": 61.6137916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

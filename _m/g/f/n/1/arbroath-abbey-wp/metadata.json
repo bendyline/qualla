@@ -563,5 +563,24 @@
     "_m/g/f/n/1/arbroath-abbey-wp/arbroath-abbey-23063161539.jpg",
     "_m/g/f/n/1/arbroath-abbey-wp/arbroath-abbey-23063167029.jpg"
   ],
-  "updatedAt": "2026-06-24T06:08:02.731Z"
+  "updatedAt": "2026-06-24T06:08:02.731Z",
+  "narration": {
+    "files": [
+      "gfn1-arbroath-abbey-flight-context.mp3",
+      "gfn1-arbroath-abbey-intro.mp3",
+      "gfn1-arbroath-abbey-king-williams-penance.mp3",
+      "gfn1-arbroath-abbey-the-round-o.mp3",
+      "gfn1-arbroath-abbey-ruin-and-robbery.mp3",
+      "gfn1-arbroath-abbey-the-stone-returns.mp3"
+    ],
+    "durations": {
+      "gfn1-arbroath-abbey-flight-context.mp3": 52.6885833,
+      "gfn1-arbroath-abbey-intro.mp3": 54.8582916,
+      "gfn1-arbroath-abbey-king-williams-penance.mp3": 56.5870833,
+      "gfn1-arbroath-abbey-the-round-o.mp3": 56.16375,
+      "gfn1-arbroath-abbey-ruin-and-robbery.mp3": 44.2858333,
+      "gfn1-arbroath-abbey-the-stone-returns.mp3": 58.18025
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

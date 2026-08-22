@@ -663,5 +663,24 @@
     "_m/g/c/x/1/nostell-priory-wp/front-of-the-house-nostell-pri.jpg",
     "_m/g/c/x/1/nostell-priory-wp/coat-of-arms-at-nostell-priory.jpg"
   ],
-  "updatedAt": "2026-06-23T11:01:24.323Z"
+  "updatedAt": "2026-06-23T11:01:24.323Z",
+  "narration": {
+    "files": [
+      "gcx1-nostell-priory-flight-context.mp3",
+      "gcx1-nostell-priory-intro.mp3",
+      "gcx1-nostell-priory-what-lies-beneath.mp3",
+      "gcx1-nostell-priory-sabines-chippendales.mp3",
+      "gcx1-nostell-priory-coal-iron-and-the-air-ambulance.mp3",
+      "gcx1-nostell-priory-walking-the-park.mp3"
+    ],
+    "durations": {
+      "gcx1-nostell-priory-flight-context.mp3": 58.7640833,
+      "gcx1-nostell-priory-intro.mp3": 41.5785,
+      "gcx1-nostell-priory-what-lies-beneath.mp3": 59.9605833,
+      "gcx1-nostell-priory-sabines-chippendales.mp3": 59.4490833,
+      "gcx1-nostell-priory-coal-iron-and-the-air-ambulance.mp3": 53.7862083,
+      "gcx1-nostell-priory-walking-the-park.mp3": 56.97325
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

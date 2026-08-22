@@ -59,5 +59,24 @@
     "sourceGeohash4": "gf5g"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gf5g-moidart-flight-context.mp3",
+      "gf5g-moidart-intro.mp3",
+      "gf5g-moidart-the-almost-island.mp3",
+      "gf5g-moidart-mud-mud-loch.mp3",
+      "gf5g-moidart-castle-tioram-and-the-macrorys.mp3",
+      "gf5g-moidart-jacobites-and-the-two-family-battery.mp3"
+    ],
+    "durations": {
+      "gf5g-moidart-flight-context.mp3": 63.06975,
+      "gf5g-moidart-intro.mp3": 58.950125,
+      "gf5g-moidart-the-almost-island.mp3": 55.8010833,
+      "gf5g-moidart-mud-mud-loch.mp3": 52.6515833,
+      "gf5g-moidart-castle-tioram-and-the-macrorys.mp3": 67.5343333,
+      "gf5g-moidart-jacobites-and-the-two-family-battery.mp3": 80.1979583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

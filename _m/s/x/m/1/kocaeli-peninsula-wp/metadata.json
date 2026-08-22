@@ -55,5 +55,26 @@
     "sourceGeohash4": "sxm1"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sxm1-kocaeli-peninsula-flight-context.mp3",
+      "sxm1-kocaeli-peninsula-intro.mp3",
+      "sxm1-kocaeli-peninsula-between-two-seas.mp3",
+      "sxm1-kocaeli-peninsula-the-kingdom-of-bithynia.mp3",
+      "sxm1-kocaeli-peninsula-where-hannibal-died.mp3",
+      "sxm1-kocaeli-peninsula-the-industrial-shore.mp3",
+      "sxm1-kocaeli-peninsula-still-a-crossing.mp3"
+    ],
+    "durations": {
+      "sxm1-kocaeli-peninsula-flight-context.mp3": 61.4004583,
+      "sxm1-kocaeli-peninsula-intro.mp3": 37.313,
+      "sxm1-kocaeli-peninsula-between-two-seas.mp3": 55.113625,
+      "sxm1-kocaeli-peninsula-the-kingdom-of-bithynia.mp3": 64.9305833,
+      "sxm1-kocaeli-peninsula-where-hannibal-died.mp3": 52.4704583,
+      "sxm1-kocaeli-peninsula-the-industrial-shore.mp3": 55.975875,
+      "sxm1-kocaeli-peninsula-still-a-crossing.mp3": 53.4304583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

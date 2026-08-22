@@ -693,5 +693,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-haydarpa-a-railway-station-flight-context.mp3",
+      "sxk9-haydarpa-a-railway-station-intro.mp3",
+      "sxk9-haydarpa-a-railway-station-the-gate-to-anatolia.mp3",
+      "sxk9-haydarpa-a-railway-station-express-trains-and-epic-distances.mp3",
+      "sxk9-haydarpa-a-railway-station-war-occupation-and-what-the-station-saw.mp3",
+      "sxk9-haydarpa-a-railway-station-under-the-station-under-the-sea.mp3"
+    ],
+    "durations": {
+      "sxk9-haydarpa-a-railway-station-flight-context.mp3": 60.1380833,
+      "sxk9-haydarpa-a-railway-station-intro.mp3": 53.765625,
+      "sxk9-haydarpa-a-railway-station-the-gate-to-anatolia.mp3": 58.4612083,
+      "sxk9-haydarpa-a-railway-station-express-trains-and-epic-distances.mp3": 76.0438333,
+      "sxk9-haydarpa-a-railway-station-war-occupation-and-what-the-station-saw.mp3": 73.60075,
+      "sxk9-haydarpa-a-railway-station-under-the-station-under-the-sea.mp3": 88.18175
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

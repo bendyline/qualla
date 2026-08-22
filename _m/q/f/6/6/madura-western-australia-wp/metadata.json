@@ -118,5 +118,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qf66-madura-western-australia-flight-context.mp3",
+      "qf66-madura-western-australia-intro.mp3",
+      "qf66-madura-western-australia-a-quarter-hour-of-its-own.mp3",
+      "qf66-madura-western-australia-the-drop-off-the-tableland.mp3",
+      "qf66-madura-western-australia-born-to-breed-horses.mp3",
+      "qf66-madura-western-australia-oil-beneath-the-emptiness.mp3"
+    ],
+    "durations": {
+      "qf66-madura-western-australia-flight-context.mp3": 80.300125,
+      "qf66-madura-western-australia-intro.mp3": 46.3435,
+      "qf66-madura-western-australia-a-quarter-hour-of-its-own.mp3": 47.8412083,
+      "qf66-madura-western-australia-the-drop-off-the-tableland.mp3": 48.7999166,
+      "qf66-madura-western-australia-born-to-breed-horses.mp3": 55.8949166,
+      "qf66-madura-western-australia-oil-beneath-the-emptiness.mp3": 47.727375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

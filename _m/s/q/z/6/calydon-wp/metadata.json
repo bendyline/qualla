@@ -389,5 +389,24 @@
     "_m/s/q/z/6/calydon-wp/calydon-plan-porte-nord.jpg",
     "_m/s/q/z/6/calydon-wp/vue-aerienne-d-une-tour.jpg"
   ],
-  "updatedAt": "2026-06-24T11:38:19.844Z"
+  "updatedAt": "2026-06-24T11:38:19.844Z",
+  "narration": {
+    "files": [
+      "sqz6-calydon-flight-context.mp3",
+      "sqz6-calydon-intro.mp3",
+      "sqz6-calydon-the-city-of-meleager-and-the-boar.mp3",
+      "sqz6-calydon-a-contested-city-in-a-contested-land.mp3",
+      "sqz6-calydon-artemis-laphria-and-what-augustus-took.mp3",
+      "sqz6-calydon-what-the-excavations-found.mp3"
+    ],
+    "durations": {
+      "sqz6-calydon-flight-context.mp3": 48.2160416,
+      "sqz6-calydon-intro.mp3": 37.1124583,
+      "sqz6-calydon-the-city-of-meleager-and-the-boar.mp3": 79.3995833,
+      "sqz6-calydon-a-contested-city-in-a-contested-land.mp3": 79.8978333,
+      "sqz6-calydon-artemis-laphria-and-what-augustus-took.mp3": 65.035,
+      "sqz6-calydon-what-the-excavations-found.mp3": 83.4373333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

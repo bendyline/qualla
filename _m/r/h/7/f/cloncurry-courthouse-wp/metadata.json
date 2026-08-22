@@ -113,5 +113,24 @@
   "galleryPaths": [
     "_m/r/h/7/f/cloncurry-courthouse-wp/cloncurry-court-house.jpg",
     "_m/r/h/7/f/cloncurry-courthouse-wp/cloncurry-court-house-1.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "rh7f-cloncurry-courthouse-flight-context.mp3",
+      "rh7f-cloncurry-courthouse-intro.mp3",
+      "rh7f-cloncurry-courthouse-law-by-slab-hut-and-visiting-magistrate.mp3",
+      "rh7f-cloncurry-courthouse-built-to-grow.mp3",
+      "rh7f-cloncurry-courthouse-sixty-four-years-of-additions.mp3",
+      "rh7f-cloncurry-courthouse-still-sitting.mp3"
+    ],
+    "durations": {
+      "rh7f-cloncurry-courthouse-flight-context.mp3": 61.9885416,
+      "rh7f-cloncurry-courthouse-intro.mp3": 40.1338333,
+      "rh7f-cloncurry-courthouse-law-by-slab-hut-and-visiting-magistrate.mp3": 74.3620416,
+      "rh7f-cloncurry-courthouse-built-to-grow.mp3": 44.25225,
+      "rh7f-cloncurry-courthouse-sixty-four-years-of-additions.mp3": 64.8636666,
+      "rh7f-cloncurry-courthouse-still-sitting.mp3": 50.5272916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

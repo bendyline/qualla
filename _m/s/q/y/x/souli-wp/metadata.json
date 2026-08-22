@@ -306,5 +306,24 @@
     "_m/s/q/y/x/acheron-gorge-wk/image-4.jpg",
     "_m/s/q/y/x/souli-wp/mountains-of-souli-from-polyvr.jpg"
   ],
-  "updatedAt": "2026-06-24T10:55:36.978Z"
+  "updatedAt": "2026-06-24T10:55:36.978Z",
+  "narration": {
+    "files": [
+      "sqyx-souli-flight-context.mp3",
+      "sqyx-souli-intro.mp3",
+      "sqyx-souli-mountain-stronghold.mp3",
+      "sqyx-souli-the-defeat-and-the-exodus-of-1803.mp3",
+      "sqyx-souli-a-landscape-of-abandoned-villages.mp3",
+      "sqyx-souli-memory-and-legacy.mp3"
+    ],
+    "durations": {
+      "sqyx-souli-flight-context.mp3": 49.9890833,
+      "sqyx-souli-intro.mp3": 37.78275,
+      "sqyx-souli-mountain-stronghold.mp3": 95.1564583,
+      "sqyx-souli-the-defeat-and-the-exodus-of-1803.mp3": 95.8869583,
+      "sqyx-souli-a-landscape-of-abandoned-villages.mp3": 65.1385416,
+      "sqyx-souli-memory-and-legacy.mp3": 63.311125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

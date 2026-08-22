@@ -502,5 +502,24 @@
     "_m/w/s/0/c/humen-bridge-wp/humen-bridge-0712edit2.jpg",
     "_m/w/s/0/c/humen-bridge-wp/humen-bridge-01.jpg"
   ],
-  "updatedAt": "2026-06-29T14:10:29.158Z"
+  "updatedAt": "2026-06-29T14:10:29.158Z",
+  "narration": {
+    "files": [
+      "ws0c-humen-bridge-flight-context.mp3",
+      "ws0c-humen-bridge-intro.mp3",
+      "ws0c-humen-bridge-the-tigers-mouth-crossing.mp3",
+      "ws0c-humen-bridge-two-spans-one-structure.mp3",
+      "ws0c-humen-bridge-when-the-bridge-shook.mp3",
+      "ws0c-humen-bridge-companion-and-competition.mp3"
+    ],
+    "durations": {
+      "ws0c-humen-bridge-flight-context.mp3": 76.9727083,
+      "ws0c-humen-bridge-intro.mp3": 52.2400416,
+      "ws0c-humen-bridge-the-tigers-mouth-crossing.mp3": 66.4589166,
+      "ws0c-humen-bridge-two-spans-one-structure.mp3": 64.163,
+      "ws0c-humen-bridge-when-the-bridge-shook.mp3": 65.0752916,
+      "ws0c-humen-bridge-companion-and-competition.mp3": 57.3054583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

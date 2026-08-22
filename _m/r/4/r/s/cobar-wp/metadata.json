@@ -699,5 +699,24 @@
     "_m/r/4/r/s/cobar-wp/cobar-mining-sign-cobar.jpg",
     "_m/r/4/r/s/cobar-wp/cobar-miners-heritage-park-cob.jpg"
   ],
-  "updatedAt": "2026-06-28T04:51:03.367Z"
+  "updatedAt": "2026-06-28T04:51:03.367Z",
+  "narration": {
+    "files": [
+      "r4rs-cobar-flight-context.mp3",
+      "r4rs-cobar-intro.mp3",
+      "r4rs-cobar-a-town-the-ore-built.mp3",
+      "r4rs-cobar-living-in-the-heat.mp3",
+      "r4rs-cobar-the-cobar-quid.mp3",
+      "r4rs-cobar-still-a-mining-town.mp3"
+    ],
+    "durations": {
+      "r4rs-cobar-flight-context.mp3": 60.145625,
+      "r4rs-cobar-intro.mp3": 42.8237916,
+      "r4rs-cobar-a-town-the-ore-built.mp3": 47.9805416,
+      "r4rs-cobar-living-in-the-heat.mp3": 55.8327916,
+      "r4rs-cobar-the-cobar-quid.mp3": 42.9328333,
+      "r4rs-cobar-still-a-mining-town.mp3": 50.3920833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

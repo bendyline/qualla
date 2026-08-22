@@ -94,5 +94,24 @@
   ],
   "galleryPaths": [
     "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "rk4p-bakers-creek-air-crash-flight-context.mp3",
+      "rk4p-bakers-creek-air-crash-intro.mp3",
+      "rk4p-bakers-creek-air-crash-miss-every-morning-fixin.mp3",
+      "rk4p-bakers-creek-air-crash-forty-men-going-home.mp3",
+      "rk4p-bakers-creek-air-crash-the-man-who-lived.mp3",
+      "rk4p-bakers-creek-air-crash-a-secret-kept-too-long.mp3"
+    ],
+    "durations": {
+      "rk4p-bakers-creek-air-crash-flight-context.mp3": 59.0209583,
+      "rk4p-bakers-creek-air-crash-intro.mp3": 47.13375,
+      "rk4p-bakers-creek-air-crash-miss-every-morning-fixin.mp3": 58.0854166,
+      "rk4p-bakers-creek-air-crash-forty-men-going-home.mp3": 49.9705416,
+      "rk4p-bakers-creek-air-crash-the-man-who-lived.mp3": 49.247625,
+      "rk4p-bakers-creek-air-crash-a-secret-kept-too-long.mp3": 62.6376666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

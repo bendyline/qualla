@@ -57,5 +57,24 @@
     "sourceGeohash4": "gf4e"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gf4e-vatersay-causeway-flight-context.mp3",
+      "gf4e-vatersay-causeway-intro.mp3",
+      "gf4e-vatersay-causeway-the-last-hebridean-island-without-a-link.mp3",
+      "gf4e-vatersay-causeway-the-sound-of-vatersay.mp3",
+      "gf4e-vatersay-causeway-funding-and-construction.mp3",
+      "gf4e-vatersay-causeway-connected-at-last.mp3"
+    ],
+    "durations": {
+      "gf4e-vatersay-causeway-flight-context.mp3": 50.6987916,
+      "gf4e-vatersay-causeway-intro.mp3": 34.1142083,
+      "gf4e-vatersay-causeway-the-last-hebridean-island-without-a-link.mp3": 53.2368333,
+      "gf4e-vatersay-causeway-the-sound-of-vatersay.mp3": 48.8688333,
+      "gf4e-vatersay-causeway-funding-and-construction.mp3": 53.6804166,
+      "gf4e-vatersay-causeway-connected-at-last.mp3": 50.889375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -703,5 +703,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecn-sai-wan-ho-flight-context.mp3",
+      "wecn-sai-wan-ho-intro.mp3",
+      "wecn-sai-wan-ho-the-dockyard-that-made-the-neighborhood.mp3",
+      "wecn-sai-wan-ho-tai-on-building-a-landmark-in-stages.mp3",
+      "wecn-sai-wan-ho-reclamation-rewrites-the-shore.mp3",
+      "wecn-sai-wan-ho-what-the-waterfront-became.mp3"
+    ],
+    "durations": {
+      "wecn-sai-wan-ho-flight-context.mp3": 63.5919583,
+      "wecn-sai-wan-ho-intro.mp3": 47.5379166,
+      "wecn-sai-wan-ho-the-dockyard-that-made-the-neighborhood.mp3": 57.436125,
+      "wecn-sai-wan-ho-tai-on-building-a-landmark-in-stages.mp3": 63.3518333,
+      "wecn-sai-wan-ho-reclamation-rewrites-the-shore.mp3": 53.10125,
+      "wecn-sai-wan-ho-what-the-waterfront-became.mp3": 61.7885833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

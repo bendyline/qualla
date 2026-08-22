@@ -53,5 +53,24 @@
     "sourceGeohash4": "r56u"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "r56u-big-red-bash-flight-context.mp3",
+      "r56u-big-red-bash-intro.mp3",
+      "r56u-big-red-bash-from-500-to-a-sea-of-tents.mp3",
+      "r56u-big-red-bash-a-stage-beneath-big-red.mp3",
+      "r56u-big-red-bash-the-nutbush-in-the-desert.mp3",
+      "r56u-big-red-bash-the-desert-sets-the-terms.mp3"
+    ],
+    "durations": {
+      "r56u-big-red-bash-flight-context.mp3": 68.1588333,
+      "r56u-big-red-bash-intro.mp3": 42.0001666,
+      "r56u-big-red-bash-from-500-to-a-sea-of-tents.mp3": 50.580875,
+      "r56u-big-red-bash-a-stage-beneath-big-red.mp3": 48.0760833,
+      "r56u-big-red-bash-the-nutbush-in-the-desert.mp3": 48.9774166,
+      "r56u-big-red-bash-the-desert-sets-the-terms.mp3": 51.1279583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

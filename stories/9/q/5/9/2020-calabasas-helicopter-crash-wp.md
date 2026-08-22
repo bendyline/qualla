@@ -20,7 +20,7 @@ Air traffic controllers first contacted Zobayan at 9:40 a.m. and warned him that
 
 ## What Followed
 
-TMZ confirmed Bryant's death at 11:24 a.m., less than two hours after impact. The news hit the country like a physical event. That afternoon, the FAA imposed a five-mile no-fly zone around the crash site at the request of Bryant's wife Vanessa, to protect the victims' privacy and prevent souvenir hunters from entering the area. Within days, reports emerged that Los Angeles County sheriff's deputies had taken and shared unauthorized photographs of the crash scene. California subsequently passed legislation making that kind of unauthorized photography by first responders a misdemeanor. The legal proceedings that followed stretched for years. A 2022 jury awarded Vanessa Bryant $16 million and co-plaintiff Chris Chester — whose wife and daughter were also killed — $15 million in damages from the county, citing invasion of privacy and infliction of emotional distress. During that trial, testimony alleged that a deputy had referred to Bryant's body as a 'pile of meat.'
+TMZ confirmed Bryant's death at 11:24 a.m., less than two hours after impact. The news hit the country like a physical event. That afternoon, the FAA imposed a five-mile no-fly zone around the crash site at the request of Bryant's wife Vanessa, to protect the victims' privacy and prevent souvenir hunters from entering the area. Within days, reports emerged that Los Angeles County sheriff's deputies had taken and shared unauthorized photographs of the crash scene. California subsequently passed legislation making that kind of unauthorized photography by first responders a misdemeanor. The legal proceedings that followed stretched for years. A 2022 jury awarded Vanessa Bryant $16 million and co-plaintiff Chris Chester — whose wife and daughter were also killed — $15 million in damages from the county, citing invasion of privacy and infliction of emotional distress. During that trial, testimony described deputies sharing and joking about graphic photographs of the victims' remains.
 
 ## The Aircraft's History
 
@@ -33,6 +33,8 @@ The crash site sits at approximately 34.137°N, 118.692°W in the Santa Monica M
 ## Sources
 
 - [2020 Calabasas helicopter crash - Wikipedia](https://en.wikipedia.org/?curid=62938434)
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2020_Calabasas_helicopter_crash)
+  - Replaced a graphic verbatim trial quote with a summary of the same testimony, out of consideration for the victims' living family.
 
 ## Review Notes
 

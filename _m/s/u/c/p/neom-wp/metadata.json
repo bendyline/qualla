@@ -211,5 +211,24 @@
     "_m/s/u/c/p/neom-wp/iss067-e-149937-view-of-earth.jpg",
     "_m/s/u/c/p/neom-wp/trojena-lage-ar.png"
   ],
-  "updatedAt": "2026-06-28T21:24:59.657Z"
+  "updatedAt": "2026-06-28T21:24:59.657Z",
+  "narration": {
+    "files": [
+      "sucp-neom-flight-context.mp3",
+      "sucp-neom-intro.mp3",
+      "sucp-neom-a-city-the-size-of-a-country.mp3",
+      "sucp-neom-the-people-who-were-already-there.mp3",
+      "sucp-neom-the-cost-of-the-dream.mp3",
+      "sucp-neom-mirage-on-the-gulf.mp3"
+    ],
+    "durations": {
+      "sucp-neom-flight-context.mp3": 56.58425,
+      "sucp-neom-intro.mp3": 48.3552083,
+      "sucp-neom-a-city-the-size-of-a-country.mp3": 62.8559166,
+      "sucp-neom-the-people-who-were-already-there.mp3": 59.3045416,
+      "sucp-neom-the-cost-of-the-dream.mp3": 60.3968333,
+      "sucp-neom-mirage-on-the-gulf.mp3": 55.1552916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

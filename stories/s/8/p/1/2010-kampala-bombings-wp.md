@@ -20,7 +20,7 @@ Al-Shabaab, the Islamist militia waging an insurgency in Somalia, claimed respon
 
 ## Justice, Slowly
 
-The investigation that followed was sprawling and multinational. Twenty people were initially arrested, including several Pakistani nationals. Interpol published facial reconstructions of two suspected bombers. Three Kenyans -- Hussein Hassan Agad, Mohamed Adan Abdow, and Idris Magondu -- were charged with 76 counts of murder. In 2011, Edris Nsubuga, a 31-year-old Ugandan, was sentenced to three concurrent 25-year terms after expressing regret and testifying that he had participated under threat of decapitation. He was spared the death penalty. Muhamoud Mugisha received five years for conspiracy to commit terrorism. Both men later provided critical evidence in the broader trial of 13 suspects -- seven Kenyans, five Ugandans, and one Tanzanian -- that finally began at the High Court of Uganda in March 2015, five years after the attacks. The delay owed partly to legal challenges from the accused, who alleged torture and illegal rendition by Ugandan security agencies.
+The investigation that followed was sprawling and multinational. Twenty people were initially arrested, including several Pakistani nationals. Interpol published facial reconstructions of two suspected bombers. Three Kenyans -- Hussein Hassan Agad, Mohamed Adan Abdow, and Idris Magondu -- were charged with 76 counts of murder, though the case against Abdow was later withdrawn and he was discharged in September 2011. In 2011, Edris Nsubuga, a 31-year-old Ugandan, was sentenced to three concurrent 25-year terms after expressing regret and testifying that he had participated under threat of decapitation. He was spared the death penalty. Muhamoud Mugisha received five years for conspiracy to commit terrorism. Both men later provided critical evidence in the broader trial of 13 suspects -- seven Kenyans, five Ugandans, and one Tanzanian -- that finally began at the High Court of Uganda in March 2015, five years after the attacks. The delay owed partly to legal challenges from the accused, who alleged torture and illegal rendition by Ugandan security agencies.
 
 ## What Remains
 
@@ -44,6 +44,8 @@ Located at 0.31N, 32.58E in Kampala, Uganda's capital. The Kabalagala neighborho
   - AMISOM retaliation motive confirmed
   - 20 initially arrested confirmed
   - Edris Nsubuga sentenced 2011 confirmed
+- [Review — 2026-07-13](https://kenyalaw.org/akn/ke/judgment/kehc/2019/10949)
+  - Added that the case against Mohamed Adan Abdow was withdrawn (nolle prosequi) and he was discharged on 12 September 2011, so he is not left grouped with those later convicted.
 
 ## Review Notes
 

@@ -534,5 +534,24 @@
     "_m/s/x/5/v/erdek-wk/edincik-zeytinlik.jpg",
     "_m/s/x/5/v/erdek-wk/edincik-zeytinlik-2.jpg"
   ],
-  "updatedAt": "2026-06-24T23:15:10.519Z"
+  "updatedAt": "2026-06-24T23:15:10.519Z",
+  "narration": {
+    "files": [
+      "sx5v-erdek-flight-context.mp3",
+      "sx5v-erdek-intro.mp3",
+      "sx5v-erdek-a-peninsula-that-was-once-an-island.mp3",
+      "sx5v-erdek-greeks-deportations-and-turkish-independence.mp3",
+      "sx5v-erdek-the-town-today.mp3",
+      "sx5v-erdek-the-ruins-at-the-edge-of-town.mp3"
+    ],
+    "durations": {
+      "sx5v-erdek-flight-context.mp3": 53.935625,
+      "sx5v-erdek-intro.mp3": 57.4741666,
+      "sx5v-erdek-a-peninsula-that-was-once-an-island.mp3": 78.2859583,
+      "sx5v-erdek-greeks-deportations-and-turkish-independence.mp3": 66.7139166,
+      "sx5v-erdek-the-town-today.mp3": 74.8591666,
+      "sx5v-erdek-the-ruins-at-the-edge-of-town.mp3": 74.0373333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

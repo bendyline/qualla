@@ -510,5 +510,26 @@
     "_m/u/1/8/0/donna-nook-lifeboat-station-wp/hero.jpg",
     "_m/u/1/8/0/donna-nook-wp/a-old-barn-at-donna-nook-geogr.jpg"
   ],
-  "updatedAt": "2026-06-26T01:18:10.364Z"
+  "updatedAt": "2026-06-26T01:18:10.364Z",
+  "narration": {
+    "files": [
+      "u180-donna-nook-flight-context.mp3",
+      "u180-donna-nook-intro.mp3",
+      "u180-donna-nook-pupping-season.mp3",
+      "u180-donna-nook-the-bombing-range.mp3",
+      "u180-donna-nook-the-spanish-armada-legend.mp3",
+      "u180-donna-nook-crowd-control.mp3",
+      "u180-donna-nook-coronation-coast.mp3"
+    ],
+    "durations": {
+      "u180-donna-nook-flight-context.mp3": 50.133125,
+      "u180-donna-nook-intro.mp3": 41.8399583,
+      "u180-donna-nook-pupping-season.mp3": 52.612125,
+      "u180-donna-nook-the-bombing-range.mp3": 50.4115416,
+      "u180-donna-nook-the-spanish-armada-legend.mp3": 52.4427916,
+      "u180-donna-nook-crowd-control.mp3": 48.2503333,
+      "u180-donna-nook-coronation-coast.mp3": 50.745125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

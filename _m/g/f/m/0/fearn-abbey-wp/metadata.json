@@ -522,5 +522,24 @@
     "_m/g/f/m/0/fearn-abbey-wp/fearn-abbey-church-2.jpg",
     "_m/g/f/m/0/fearn-abbey-wp/fearn-abbey-church-1.jpg"
   ],
-  "updatedAt": "2026-06-24T03:47:49.398Z"
+  "updatedAt": "2026-06-24T03:47:49.398Z",
+  "narration": {
+    "files": [
+      "gfm0-fearn-abbey-flight-context.mp3",
+      "gfm0-fearn-abbey-intro.mp3",
+      "gfm0-fearn-abbey-the-white-canons-come-north.mp3",
+      "gfm0-fearn-abbey-a-simple-strong-building.mp3",
+      "gfm0-fearn-abbey-reformation-and-disaster.mp3",
+      "gfm0-fearn-abbey-rebuilt-restored-continuing.mp3"
+    ],
+    "durations": {
+      "gfm0-fearn-abbey-flight-context.mp3": 45.360875,
+      "gfm0-fearn-abbey-intro.mp3": 37.4925416,
+      "gfm0-fearn-abbey-the-white-canons-come-north.mp3": 46.394,
+      "gfm0-fearn-abbey-a-simple-strong-building.mp3": 58.5725416,
+      "gfm0-fearn-abbey-reformation-and-disaster.mp3": 51.36425,
+      "gfm0-fearn-abbey-rebuilt-restored-continuing.mp3": 63.6517916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

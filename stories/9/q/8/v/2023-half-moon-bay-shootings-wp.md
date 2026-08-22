@@ -16,7 +16,7 @@ At 2:22 p.m., first responders received reports of a shooting at Mountain Mushro
 
 ## The Man at the Substation
 
-At approximately 4:40 p.m., the suspect drove to the San Mateo County Sheriff's Office substation at 557 Kelly Avenue in downtown Half Moon Bay and parked in the lot. Chunli Zhao, 66 years old and originally from China, was found sitting in his vehicle with a Glock-17 semiautomatic pistol. He was taken into custody without incident. Zhao had lived and worked at Mountain Mushroom Farm, sharing housing with 34 other employees. In a jailhouse interview, he described grievances that had accumulated over time: bullying, long hours, and a demand from his supervisor that he pay $100 for a forklift repair after a workplace collision. He expressed regret for what he had done. Five of the seven people he killed were Chinese citizens.
+At approximately 4:40 p.m., the suspect drove to the San Mateo County Sheriff's Office substation at 557 Kelly Avenue in downtown Half Moon Bay and parked in the lot. Chunli Zhao, 66 years old and originally from China, was found sitting in his vehicle with a Glock-17 semiautomatic pistol. He was taken into custody without incident. Zhao had lived and worked at Mountain Mushroom Farm, sharing housing with 34 other employees. In a jailhouse interview, he described grievances that had accumulated over time: bullying, long hours, and a demand from his supervisor that he pay $100 for a forklift repair after a workplace collision. He expressed regret for what he had done. Five of the seven people killed were Chinese citizens.
 
 ## Lives in Shipping Containers
 

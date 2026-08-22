@@ -599,5 +599,24 @@
     "_m/u/1/2/1/denny-abbey-wp/allotment-farmland-museum-denn.jpg",
     "_m/u/1/2/1/denny-abbey-wp/outer-buildings-at-denny-abbey.jpg"
   ],
-  "updatedAt": "2026-06-25T19:54:21.740Z"
+  "updatedAt": "2026-06-25T19:54:21.740Z",
+  "narration": {
+    "files": [
+      "u121-denny-abbey-flight-context.mp3",
+      "u121-denny-abbey-intro.mp3",
+      "u121-denny-abbey-three-orders-one-place.mp3",
+      "u121-denny-abbey-marie-de-st-pols-vision.mp3",
+      "u121-denny-abbey-the-last-abbess-took-the-door.mp3",
+      "u121-denny-abbey-the-farmland-museum.mp3"
+    ],
+    "durations": {
+      "u121-denny-abbey-flight-context.mp3": 45.860125,
+      "u121-denny-abbey-intro.mp3": 48.3820416,
+      "u121-denny-abbey-three-orders-one-place.mp3": 55.0672916,
+      "u121-denny-abbey-marie-de-st-pols-vision.mp3": 65.5351666,
+      "u121-denny-abbey-the-last-abbess-took-the-door.mp3": 45.6929166,
+      "u121-denny-abbey-the-farmland-museum.mp3": 50.8437916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

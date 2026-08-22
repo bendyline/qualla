@@ -846,5 +846,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-bosporus-flight-context.mp3",
+      "sxk9-bosporus-intro.mp3",
+      "sxk9-bosporus-the-strait-that-made-empires.mp3",
+      "sxk9-bosporus-myth-and-name.mp3",
+      "sxk9-bosporus-a-waterway-alive-with-risk.mp3",
+      "sxk9-bosporus-villages-mansions-and-summer-courts.mp3",
+      "sxk9-bosporus-three-bridges-and-a-new-century.mp3"
+    ],
+    "durations": {
+      "sxk9-bosporus-flight-context.mp3": 65.6051666,
+      "sxk9-bosporus-intro.mp3": 62.1255833,
+      "sxk9-bosporus-the-strait-that-made-empires.mp3": 74.06675,
+      "sxk9-bosporus-myth-and-name.mp3": 70.2555416,
+      "sxk9-bosporus-a-waterway-alive-with-risk.mp3": 67.1827083,
+      "sxk9-bosporus-villages-mansions-and-summer-courts.mp3": 76.5077083,
+      "sxk9-bosporus-three-bridges-and-a-new-century.mp3": 70.9392083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -16,7 +16,7 @@ When the lorry struck the bus, the impact drove it sideways into the viaduct par
 
 ## Reaching the Unreachable
 
-Rescuers had to carry injured passengers down a steep hillside, on foot, through terrain that offered no vehicle access. The sheer number of severely wounded people compounded the difficulty — triage, treatment, and evacuation all had to happen simultaneously in a narrow space. Several of the passengers worked as teachers in Tin Shui Wai schools, and the Hong Kong Professional Teachers' Union launched a city-wide fundraising drive the day after the accident. That campaign ran for four years, closing in September 2007. The bus itself was eventually lifted back onto the road and transported to a vehicle compound, where it was written off. The lorry driver, Li Chau-wing, who was 53 at the time and had three prior traffic violations, was found guilty of causing death by dangerous driving. He was sentenced to 18 months in prison.
+Rescuers had to carry injured passengers down a steep hillside, on foot, through terrain that offered no vehicle access. The sheer number of severely wounded people compounded the difficulty — triage, treatment, and evacuation all had to happen simultaneously in a narrow space. Several of the passengers worked as teachers in Tin Shui Wai schools, and the Hong Kong Professional Teachers' Union launched a city-wide fundraising drive the day after the accident. That campaign ran for four years, closing in September 2007. The bus itself was eventually lifted back onto the road and transported to a vehicle compound, where it was written off. The lorry driver, Li Chau-wing, who was 53 at the time and had three prior traffic violations, was found guilty of causing death by dangerous driving and sentenced to 18 months in prison. He successfully appealed: after tests showed the vehicle was defective -- it tended to veer to one side under braking -- the conviction was reduced to the lesser charge of careless driving, and his sentence cut to five months and a two-year driving ban.
 
 ## Lives Behind the Numbers
 
@@ -41,6 +41,8 @@ The Ting Kau section of Tuen Mun Road sits at approximately 22.37°N, 114.08°E 
   - Route from Lai Yiu Estate, Kwai Chung to Tin Heng Estate, Tin Shui Wai
   - Lorry driver Li Chau-wing (age 53) sentenced to 18 months for causing death by dangerous driving
   - Hong Kong Professional Teachers' Union fundraising drive ran 4 years, closing September 2007
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2003_Tuen_Mun_Road_bus_accident)
+  - Added the appeal outcome for the living driver: his dangerous-driving conviction (18 months) was overturned after tests showed the vehicle was defective, and reduced to careless driving with a five-month sentence and two-year driving ban.
 
 ## Review Notes
 

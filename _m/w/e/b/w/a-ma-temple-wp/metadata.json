@@ -767,5 +767,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "webw-a-ma-temple-flight-context.mp3",
+      "webw-a-ma-temple-intro.mp3",
+      "webw-a-ma-temple-the-goddess-who-names-the-sea.mp3",
+      "webw-a-ma-temple-six-halls-on-a-hillside.mp3",
+      "webw-a-ma-temple-a-misunderstanding-frozen-in-maps.mp3",
+      "webw-a-ma-temple-heritage-and-the-weight-of-recognition.mp3"
+    ],
+    "durations": {
+      "webw-a-ma-temple-flight-context.mp3": 53.7685,
+      "webw-a-ma-temple-intro.mp3": 34.0035416,
+      "webw-a-ma-temple-the-goddess-who-names-the-sea.mp3": 45.5786666,
+      "webw-a-ma-temple-six-halls-on-a-hillside.mp3": 51.0620833,
+      "webw-a-ma-temple-a-misunderstanding-frozen-in-maps.mp3": 55.66125,
+      "webw-a-ma-temple-heritage-and-the-weight-of-recognition.mp3": 52.89725
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

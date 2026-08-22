@@ -1169,5 +1169,24 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r1q6-ballarat-flight-context.mp3",
+      "r1q6-ballarat-intro.mp3",
+      "r1q6-ballarat-the-golden-city.mp3",
+      "r1q6-ballarat-a-fortune-cast-in-stone.mp3",
+      "r1q6-ballarat-honour-and-hardship.mp3",
+      "r1q6-ballarat-sovereign-hill-and-the-living-past.mp3"
+    ],
+    "durations": {
+      "r1q6-ballarat-flight-context.mp3": 67.9165833,
+      "r1q6-ballarat-intro.mp3": 39.9065416,
+      "r1q6-ballarat-the-golden-city.mp3": 58.0270833,
+      "r1q6-ballarat-a-fortune-cast-in-stone.mp3": 61.0232916,
+      "r1q6-ballarat-honour-and-hardship.mp3": 59.76225,
+      "r1q6-ballarat-sovereign-hill-and-the-living-past.mp3": 61.49625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

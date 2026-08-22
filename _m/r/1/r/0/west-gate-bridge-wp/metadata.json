@@ -439,5 +439,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r1r0-west-gate-bridge-flight-context.mp3",
+      "r1r0-west-gate-bridge-intro.mp3",
+      "r1r0-west-gate-bridge-a-crossing-a-century-in-the-making.mp3",
+      "r1r0-west-gate-bridge-the-morning-the-span-fell.mp3",
+      "r1r0-west-gate-bridge-how-it-failed.mp3",
+      "r1r0-west-gate-bridge-remembering-the-thirty-five.mp3",
+      "r1r0-west-gate-bridge-the-bridge-today-and-its-other-sorrow.mp3"
+    ],
+    "durations": {
+      "r1r0-west-gate-bridge-flight-context.mp3": 82.6426666,
+      "r1r0-west-gate-bridge-intro.mp3": 50.1579166,
+      "r1r0-west-gate-bridge-a-crossing-a-century-in-the-making.mp3": 53.0340416,
+      "r1r0-west-gate-bridge-the-morning-the-span-fell.mp3": 58.8523333,
+      "r1r0-west-gate-bridge-how-it-failed.mp3": 58.8688333,
+      "r1r0-west-gate-bridge-remembering-the-thirty-five.mp3": 59.6638333,
+      "r1r0-west-gate-bridge-the-bridge-today-and-its-other-sorrow.mp3": 64.6632083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

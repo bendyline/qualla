@@ -882,5 +882,24 @@
     "_m/g/c/z/0/river-wear-wp/downstream-from-stanhope-bridg.jpg",
     "_m/g/c/z/0/river-wear-wp/downstream-along-the-river-wea.jpg"
   ],
-  "updatedAt": "2026-06-23T18:15:13.084Z"
+  "updatedAt": "2026-06-23T18:15:13.084Z",
+  "narration": {
+    "files": [
+      "gcz0-river-wear-flight-context.mp3",
+      "gcz0-river-wear-intro.mp3",
+      "gcz0-river-wear-from-the-roof-of-england.mp3",
+      "gcz0-river-wear-the-loop-that-built-durham.mp3",
+      "gcz0-river-wear-coal-ships-and-the-long-goodbye.mp3",
+      "gcz0-river-wear-where-the-wear-becomes-the-sea.mp3"
+    ],
+    "durations": {
+      "gcz0-river-wear-flight-context.mp3": 48.0584166,
+      "gcz0-river-wear-intro.mp3": 37.448125,
+      "gcz0-river-wear-from-the-roof-of-england.mp3": 47.0009166,
+      "gcz0-river-wear-the-loop-that-built-durham.mp3": 50.4594166,
+      "gcz0-river-wear-coal-ships-and-the-long-goodbye.mp3": 52.0125,
+      "gcz0-river-wear-where-the-wear-becomes-the-sea.mp3": 47.084625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -52,5 +52,26 @@
     "sourceGeohash4": "gfh1"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gfh1-scottish-association-for-marine-science-flight-context.mp3",
+      "gfh1-scottish-association-for-marine-science-intro.mp3",
+      "gfh1-scottish-association-for-marine-science-born-from-the-challenger.mp3",
+      "gfh1-scottish-association-for-marine-science-moving-to-the-open-water.mp3",
+      "gfh1-scottish-association-for-marine-science-the-dark-oxygen-problem.mp3",
+      "gfh1-scottish-association-for-marine-science-algae-robots-and-the-arctic.mp3",
+      "gfh1-scottish-association-for-marine-science-marine-science-with-a-view.mp3"
+    ],
+    "durations": {
+      "gfh1-scottish-association-for-marine-science-flight-context.mp3": 63.1807083,
+      "gfh1-scottish-association-for-marine-science-intro.mp3": 46.6725833,
+      "gfh1-scottish-association-for-marine-science-born-from-the-challenger.mp3": 60.1088333,
+      "gfh1-scottish-association-for-marine-science-moving-to-the-open-water.mp3": 55.55425,
+      "gfh1-scottish-association-for-marine-science-the-dark-oxygen-problem.mp3": 62.2000416,
+      "gfh1-scottish-association-for-marine-science-algae-robots-and-the-arctic.mp3": 65.8250416,
+      "gfh1-scottish-association-for-marine-science-marine-science-with-a-view.mp3": 52.3115416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

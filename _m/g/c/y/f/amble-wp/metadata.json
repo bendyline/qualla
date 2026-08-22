@@ -631,5 +631,24 @@
     "_m/g/c/y/f/amble-wp/amble-cemetery-geograph-org-uk.jpg",
     "_m/g/c/y/f/amble-wp/amble-cemetery-geograph-org-uk-1.jpg"
   ],
-  "updatedAt": "2026-06-23T16:03:57.036Z"
+  "updatedAt": "2026-06-23T16:03:57.036Z",
+  "narration": {
+    "files": [
+      "gcyf-amble-flight-context.mp3",
+      "gcyf-amble-intro.mp3",
+      "gcyf-amble-the-smallest-coal-port.mp3",
+      "gcyf-amble-cobles-and-catastrophes.mp3",
+      "gcyf-amble-after-the-coal.mp3",
+      "gcyf-amble-puffins-and-the-marina.mp3"
+    ],
+    "durations": {
+      "gcyf-amble-flight-context.mp3": 49.3291666,
+      "gcyf-amble-intro.mp3": 42.2666666,
+      "gcyf-amble-the-smallest-coal-port.mp3": 56.1944166,
+      "gcyf-amble-cobles-and-catastrophes.mp3": 58.8994583,
+      "gcyf-amble-after-the-coal.mp3": 56.1920833,
+      "gcyf-amble-puffins-and-the-marina.mp3": 53.1585416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

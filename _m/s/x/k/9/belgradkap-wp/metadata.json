@@ -84,5 +84,26 @@
   ],
   "galleryPaths": [
     "_m/s/x/k/9/belgradkap-wp/theodosian-walls-const.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-belgradkap-flight-context.mp3",
+      "sxk9-belgradkap-intro.mp3",
+      "sxk9-belgradkap-a-conquerors-geography.mp3",
+      "sxk9-belgradkap-the-gate-and-the-walls.mp3",
+      "sxk9-belgradkap-the-church-with-disputed-icons.mp3",
+      "sxk9-belgradkap-icons-scholarship-and-loss.mp3",
+      "sxk9-belgradkap-memory-in-mortar.mp3"
+    ],
+    "durations": {
+      "sxk9-belgradkap-flight-context.mp3": 50.8941666,
+      "sxk9-belgradkap-intro.mp3": 38.5585,
+      "sxk9-belgradkap-a-conquerors-geography.mp3": 66.491875,
+      "sxk9-belgradkap-the-gate-and-the-walls.mp3": 52.0890833,
+      "sxk9-belgradkap-the-church-with-disputed-icons.mp3": 63.071375,
+      "sxk9-belgradkap-icons-scholarship-and-loss.mp3": 84.9531666,
+      "sxk9-belgradkap-memory-in-mortar.mp3": 52.8416666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

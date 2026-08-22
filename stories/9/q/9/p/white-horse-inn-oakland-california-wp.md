@@ -16,7 +16,7 @@ The White Horse sat at the convergence of several worlds. Factory workers and lo
 
 ## The Raids and the Reckoning
 
-Starting in the 1950s, police raids on gay and lesbian bars intensified across the San Francisco Bay Area. Officers wielded a patchwork of "public morals" and sexual perversion ordinances to shut down establishments and arrest their patrons. The political climate was hostile -- postwar anxieties had fused anti-Communist fervor with anti-gay prejudice, and the authorities treated gay bars as threats to public order. In 1961 and 1962, police shut down nearly half of all gay bars in San Francisco. The White Horse, across the Bay in Oakland, was not immune to this pressure but managed to endure. Its low-key atmosphere and mixed clientele may have offered some insulation. Then, in September 1970, the bar faced a different kind of confrontation -- not from the police, but from its own community. Activists staged a sit-in and boycott because the White Horse refused to distribute Gay Sunshine, a gay liberation newspaper, and still enforced its old no-touching policy. For the new generation of activists, the bar's cautious discretion was no longer protective. It was complicit. They called places like the White Horse "symbols of oppression, rather than safe harbors."
+Starting in the 1950s, police raids on gay and lesbian bars intensified across the San Francisco Bay Area. Officers wielded a patchwork of "public morals" and sexual perversion ordinances to shut down establishments and arrest their patrons. The political climate was hostile -- postwar anxieties had fused anti-Communist fervor with anti-gay prejudice, and the authorities treated gay bars as threats to public order. In 1961 and 1962, police shut down nearly half of all gay bars in San Francisco. The White Horse, across the Bay in Oakland, was not immune to this pressure but managed to endure. Its low-key atmosphere and mixed clientele may have offered some insulation. Then, in September 1970, the bar faced a different kind of confrontation -- not from the police, but from its own community. Activists staged a sit-in and boycott because the White Horse refused to distribute Gay Sunshine, a gay liberation newspaper, and still enforced its old no-touching policy. For the new generation of activists, the bar's cautious discretion was no longer protective. It was complicit. They called places like the White Horse "symbols of oppression, rather than as safe harbors."
 
 ## Part of the Basic Survival Kit
 
@@ -41,6 +41,8 @@ Located at 37.852°N, 122.266°W on Telegraph Avenue in Oakland's Bushrod Park n
   - Prop 8 2008 gathering point confirmed
   - HBO Looking filming 2014 confirmed
   - National Park Service LGBTQ sites initiative 2014 confirmed
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/White_Horse_Inn_(Oakland,_California))
+  - Restored the dropped word "as" in a quotation ("...rather than as safe harbors").
 
 ## Review Notes
 

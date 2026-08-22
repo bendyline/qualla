@@ -570,5 +570,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "webw-senado-square-flight-context.mp3",
+      "webw-senado-square-intro.mp3",
+      "webw-senado-square-the-pavement-itself-is-the-monument.mp3",
+      "webw-senado-square-a-statue-raised-then-pulled-down.mp3",
+      "webw-senado-square-where-the-colonial-film-crews-came.mp3",
+      "webw-senado-square-still-the-center-of-everything.mp3"
+    ],
+    "durations": {
+      "webw-senado-square-flight-context.mp3": 63.7883333,
+      "webw-senado-square-intro.mp3": 49.2139583,
+      "webw-senado-square-the-pavement-itself-is-the-monument.mp3": 65.4534583,
+      "webw-senado-square-a-statue-raised-then-pulled-down.mp3": 77.8709583,
+      "webw-senado-square-where-the-colonial-film-crews-came.mp3": 51.6406666,
+      "webw-senado-square-still-the-center-of-everything.mp3": 54.988
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

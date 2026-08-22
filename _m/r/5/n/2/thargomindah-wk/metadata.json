@@ -550,5 +550,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r5n2-thargomindah-flight-context.mp3",
+      "r5n2-thargomindah-intro.mp3",
+      "r5n2-thargomindah-water-that-made-light.mp3",
+      "r5n2-thargomindah-a-grand-plan-in-the-dust.mp3",
+      "r5n2-thargomindah-cobb-co-and-kidman-country.mp3",
+      "r5n2-thargomindah-the-long-road-west.mp3",
+      "r5n2-thargomindah-staying-in-thargo.mp3"
+    ],
+    "durations": {
+      "r5n2-thargomindah-flight-context.mp3": 61.5182083,
+      "r5n2-thargomindah-intro.mp3": 46.1420833,
+      "r5n2-thargomindah-water-that-made-light.mp3": 53.0688333,
+      "r5n2-thargomindah-a-grand-plan-in-the-dust.mp3": 48.6070416,
+      "r5n2-thargomindah-cobb-co-and-kidman-country.mp3": 45.603375,
+      "r5n2-thargomindah-the-long-road-west.mp3": 43.4557083,
+      "r5n2-thargomindah-staying-in-thargo.mp3": 44.867875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

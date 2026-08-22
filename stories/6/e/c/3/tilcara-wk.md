@@ -33,6 +33,23 @@ Tilcara lies at roughly 23.58 degrees south, 65.39 degrees west, in Jujuy Provin
 ## Sources
 
 - [Tilcara - Wikivoyage](https://en.wikivoyage.org/?curid=36023)
+- [Quebrada de Humahuaca - UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1116/)
+  - Quebrada de Humahuaca declared UNESCO World Heritage Site (Cultural Landscape) in 2003
+  - Pucará de Tilcara is a pre-Inca fortress built by ancestors of the Omaguaca, reconstructed in the 1940s
+  - Tilcara elevation approximately 2,400-2,465 meters
+  - Population predominantly Kolla, with original language possibly Cacan
+
+## Review Notes
+
+**Reviewed:** 2026-07-14 · 4 facts verified · 0 corrections
+
+Verified UNESCO 2003 designation, Pucará de Tilcara pre-Inca/Omaguaca origin and reconstruction, Kolla population and Cacan language claim, elevation. All facts accurate. Spiciness 2.
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- Andean cooking here bears little resemblance to the beef-and-malbec cuisine most associate with Argentina
 
 ---
 

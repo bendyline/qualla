@@ -61,5 +61,24 @@
     "sourceGeohash4": "wecp"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "wecp-argyle-street-camp-flight-context.mp3",
+      "wecp-argyle-street-camp-intro.mp3",
+      "wecp-argyle-street-camp-the-fall-and-what-followed.mp3",
+      "wecp-argyle-street-camp-the-officers-camp.mp3",
+      "wecp-argyle-street-camp-after-the-war-new-arrivals-same-walls.mp3",
+      "wecp-argyle-street-camp-the-absence-of-memory.mp3"
+    ],
+    "durations": {
+      "wecp-argyle-street-camp-flight-context.mp3": 45.0469583,
+      "wecp-argyle-street-camp-intro.mp3": 47.764375,
+      "wecp-argyle-street-camp-the-fall-and-what-followed.mp3": 59.1005416,
+      "wecp-argyle-street-camp-the-officers-camp.mp3": 70.2059583,
+      "wecp-argyle-street-camp-after-the-war-new-arrivals-same-walls.mp3": 70.0330416,
+      "wecp-argyle-street-camp-the-absence-of-memory.mp3": 66.7590833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

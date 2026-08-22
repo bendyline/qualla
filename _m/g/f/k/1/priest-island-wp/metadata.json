@@ -591,5 +591,22 @@
     "_m/g/f/k/1/priest-island-wp/natural-arch-priest-island-geo.jpg",
     "_m/g/f/k/1/priest-island-wp/natural-arch-priest-island-geo-1.jpg"
   ],
-  "updatedAt": "2026-06-24T02:33:08.794Z"
+  "updatedAt": "2026-06-24T02:33:08.794Z",
+  "narration": {
+    "files": [
+      "gfk1-priest-island-flight-context.mp3",
+      "gfk1-priest-island-intro.mp3",
+      "gfk1-priest-island-the-vanishing-circle.mp3",
+      "gfk1-priest-island-the-hermit-and-the-naturalist.mp3",
+      "gfk1-priest-island-the-birds-took-over.mp3"
+    ],
+    "durations": {
+      "gfk1-priest-island-flight-context.mp3": 43.405,
+      "gfk1-priest-island-intro.mp3": 43.249,
+      "gfk1-priest-island-the-vanishing-circle.mp3": 74.4652916,
+      "gfk1-priest-island-the-hermit-and-the-naturalist.mp3": 53.1233333,
+      "gfk1-priest-island-the-birds-took-over.mp3": 68.2745
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

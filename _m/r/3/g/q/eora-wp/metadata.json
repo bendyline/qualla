@@ -113,5 +113,24 @@
   "galleryPaths": [
     "_m/r/3/g/q/eora-wp/map-interim-biogeograp.png",
     "_m/r/3/g/q/eora-wp/undated-portrait-thoug.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r3gq-eora-flight-context.mp3",
+      "r3gq-eora-intro.mp3",
+      "r3gq-eora-the-saltwater-country.mp3",
+      "r3gq-eora-ghosts-on-the-shore.mp3",
+      "r3gq-eora-the-coming-of-gai-galla.mp3",
+      "r3gq-eora-the-ones-who-endured.mp3"
+    ],
+    "durations": {
+      "r3gq-eora-flight-context.mp3": 59.1734166,
+      "r3gq-eora-intro.mp3": 44.059375,
+      "r3gq-eora-the-saltwater-country.mp3": 55.8949583,
+      "r3gq-eora-ghosts-on-the-shore.mp3": 56.2570833,
+      "r3gq-eora-the-coming-of-gai-galla.mp3": 58.066625,
+      "r3gq-eora-the-ones-who-endured.mp3": 69.124125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

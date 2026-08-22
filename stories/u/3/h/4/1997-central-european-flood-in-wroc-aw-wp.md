@@ -33,6 +33,26 @@ Wrocław sits at 51.11°N, 17.02°E in southwestern Poland, on the broad plain o
 ## Sources
 
 - [1997 Central European flood in Wrocław - Wikipedia](https://en.wikipedia.org/?curid=80154005)
+- [1997 Central European flood in Wrocław - Wikipedia](https://en.wikipedia.org/?curid=80154005)
+  - Flood reached Wrocław 12 July 1997, receded by 6 August; ~40% of city underwater
+  - 56 deaths and ~$3.5 billion damages across Poland; 2,583 residential buildings damaged/inundated
+  - 300,000-480,000 sandbags laid, per City Office estimates; sand from stockpiles and children's sandboxes
+  - Łany village standoff: residents blocked sappers from breaching embankment night of 11 July; deputy voivode called it off citing a 'mistake'
+  - 132 million złoty spent repairing 44 km of road and 21 bridges/viaducts
+  - Wielka woda (High Water), 2022 Netflix series directed by Jan Holoubek and Bartłomiej Ignaciuk, dramatized the flood
+
+## Review Notes
+
+**Reviewed:** 2026-07-14 · 6 facts verified · 0 corrections
+
+Verified flood date/scope (12 Jul 1997, ~40% of city), 56 deaths/$3.5B damages across Poland, 2,583 buildings damaged, 300k-480k sandbags, Łany embankment standoff, 132M PLN repair cost, and Netflix 'Wielka woda' details. All facts confirmed accurate, no corrections needed. Spiciness 3 (literary/opinionated framing, no factual issues).
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- 'There is no clean moral here, only a small village asked, at midnight, to drown itself for a city it could not see.'
+- 'the documentary footage from that July is more affecting' than the Netflix dramatization
 
 ---
 

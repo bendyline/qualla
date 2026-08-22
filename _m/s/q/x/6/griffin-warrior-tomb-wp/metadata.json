@@ -65,5 +65,26 @@
     "sourceGeohash4": "sqx6"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sqx6-griffin-warrior-tomb-flight-context.mp3",
+      "sqx6-griffin-warrior-tomb-intro.mp3",
+      "sqx6-griffin-warrior-tomb-a-world-before-the-palaces.mp3",
+      "sqx6-griffin-warrior-tomb-three-thousand-five-hundred-objects.mp3",
+      "sqx6-griffin-warrior-tomb-the-agate-that-stopped-the-scholars.mp3",
+      "sqx6-griffin-warrior-tomb-blegens-hill-davis-and-stockers-discovery.mp3",
+      "sqx6-griffin-warrior-tomb-what-the-grave-asks.mp3"
+    ],
+    "durations": {
+      "sqx6-griffin-warrior-tomb-flight-context.mp3": 62.462375,
+      "sqx6-griffin-warrior-tomb-intro.mp3": 57.5022083,
+      "sqx6-griffin-warrior-tomb-a-world-before-the-palaces.mp3": 61.3747083,
+      "sqx6-griffin-warrior-tomb-three-thousand-five-hundred-objects.mp3": 53.2163333,
+      "sqx6-griffin-warrior-tomb-the-agate-that-stopped-the-scholars.mp3": 57.9025,
+      "sqx6-griffin-warrior-tomb-blegens-hill-davis-and-stockers-discovery.mp3": 57.6078333,
+      "sqx6-griffin-warrior-tomb-what-the-grave-asks.mp3": 55.802625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

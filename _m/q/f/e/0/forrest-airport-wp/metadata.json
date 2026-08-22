@@ -88,5 +88,24 @@
   ],
   "galleryPaths": [
     "_m/c/3/p/u/drumheller-dinosaur-valley-wk/hero.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qfe0-forrest-airport-flight-context.mp3",
+      "qfe0-forrest-airport-intro.mp3",
+      "qfe0-forrest-airport-the-mail-had-to-get-through.mp3",
+      "qfe0-forrest-airport-a-speck-beside-the-longest-straight.mp3",
+      "qfe0-forrest-airport-war-and-the-long-quiet-after.mp3",
+      "qfe0-forrest-airport-still-open-still-essential.mp3"
+    ],
+    "durations": {
+      "qfe0-forrest-airport-flight-context.mp3": 65.2700833,
+      "qfe0-forrest-airport-intro.mp3": 39.56225,
+      "qfe0-forrest-airport-the-mail-had-to-get-through.mp3": 57.2310416,
+      "qfe0-forrest-airport-a-speck-beside-the-longest-straight.mp3": 53.6097083,
+      "qfe0-forrest-airport-war-and-the-long-quiet-after.mp3": 47.5864166,
+      "qfe0-forrest-airport-still-open-still-essential.mp3": 52.2599583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

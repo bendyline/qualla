@@ -773,5 +773,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wsmc-taichung-flight-context.mp3",
+      "wsmc-taichung-intro.mp3",
+      "wsmc-taichung-a-city-that-has-always-been-becoming.mp3",
+      "wsmc-taichung-the-bones-of-the-japanese-city.mp3",
+      "wsmc-taichung-weather-air-and-the-california-comparison.mp3",
+      "wsmc-taichung-night-markets-and-the-art-of-the-snack.mp3",
+      "wsmc-taichung-getting-into-the-city-getting-around-it.mp3"
+    ],
+    "durations": {
+      "wsmc-taichung-flight-context.mp3": 64.1718333,
+      "wsmc-taichung-intro.mp3": 37.3755416,
+      "wsmc-taichung-a-city-that-has-always-been-becoming.mp3": 75.88225,
+      "wsmc-taichung-the-bones-of-the-japanese-city.mp3": 61.5969166,
+      "wsmc-taichung-weather-air-and-the-california-comparison.mp3": 57.2686666,
+      "wsmc-taichung-night-markets-and-the-art-of-the-snack.mp3": 50.3074166,
+      "wsmc-taichung-getting-into-the-city-getting-around-it.mp3": 63.0184166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

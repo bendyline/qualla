@@ -1613,5 +1613,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u120-university-of-cambridge-flight-context.mp3",
+      "u120-university-of-cambridge-intro.mp3",
+      "u120-university-of-cambridge-eight-centuries-accumulated.mp3",
+      "u120-university-of-cambridge-where-ideas-were-born.mp3",
+      "u120-university-of-cambridge-the-punishing-and-the-playful.mp3",
+      "u120-university-of-cambridge-town-and-gown-still.mp3",
+      "u120-university-of-cambridge-126-nobel-prizes.mp3"
+    ],
+    "durations": {
+      "u120-university-of-cambridge-flight-context.mp3": 51.4081666,
+      "u120-university-of-cambridge-intro.mp3": 43.1775,
+      "u120-university-of-cambridge-eight-centuries-accumulated.mp3": 65.2333333,
+      "u120-university-of-cambridge-where-ideas-were-born.mp3": 55.6181666,
+      "u120-university-of-cambridge-the-punishing-and-the-playful.mp3": 58.6668333,
+      "u120-university-of-cambridge-town-and-gown-still.mp3": 59.013625,
+      "u120-university-of-cambridge-126-nobel-prizes.mp3": 60.9022916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -122,5 +122,26 @@
   "galleryPaths": [
     "_m/r/6/v/5/ballina-naval-maritime-museum-wp/1973-las-balsas-expedi.jpg",
     "_m/r/6/v/5/ballina-naval-maritime-museum-wp/ballina-maritime-museu.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r6v5-ballina-naval-maritime-museum-flight-context.mp3",
+      "r6v5-ballina-naval-maritime-museum-intro.mp3",
+      "r6v5-ballina-naval-maritime-museum-twelve-men-three-rafts-one-ocean.mp3",
+      "r6v5-ballina-naval-maritime-museum-twice-the-kon-tiki.mp3",
+      "r6v5-ballina-naval-maritime-museum-what-the-sea-left-behind.mp3",
+      "r6v5-ballina-naval-maritime-museum-the-war-came-to-this-coast.mp3",
+      "r6v5-ballina-naval-maritime-museum-more-than-one-raft.mp3"
+    ],
+    "durations": {
+      "r6v5-ballina-naval-maritime-museum-flight-context.mp3": 53.4268333,
+      "r6v5-ballina-naval-maritime-museum-intro.mp3": 43.5315,
+      "r6v5-ballina-naval-maritime-museum-twelve-men-three-rafts-one-ocean.mp3": 45.5316666,
+      "r6v5-ballina-naval-maritime-museum-twice-the-kon-tiki.mp3": 54.514,
+      "r6v5-ballina-naval-maritime-museum-what-the-sea-left-behind.mp3": 43.3082916,
+      "r6v5-ballina-naval-maritime-museum-the-war-came-to-this-coast.mp3": 54.6489166,
+      "r6v5-ballina-naval-maritime-museum-more-than-one-raft.mp3": 43.0570416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

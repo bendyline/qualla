@@ -526,5 +526,24 @@
     "_m/w/e/c/p/boundary-street-wp/boundary-street-2016-02.jpg",
     "_m/w/e/c/p/boundary-street-wp/boundary-street-2016-03.jpg"
   ],
-  "updatedAt": "2026-06-29T05:49:41.483Z"
+  "updatedAt": "2026-06-29T05:49:41.483Z",
+  "narration": {
+    "files": [
+      "wecp-boundary-street-flight-context.mp3",
+      "wecp-boundary-street-intro.mp3",
+      "wecp-boundary-street-how-an-empire-drew-the-line.mp3",
+      "wecp-boundary-street-the-bamboo-fence-that-held-two-worlds-apart.mp3",
+      "wecp-boundary-street-the-road-that-arrived-thirty-years-late.mp3",
+      "wecp-boundary-street-one-line-two-sovereignties-one-handover.mp3"
+    ],
+    "durations": {
+      "wecp-boundary-street-flight-context.mp3": 49.802625,
+      "wecp-boundary-street-intro.mp3": 41.4767083,
+      "wecp-boundary-street-how-an-empire-drew-the-line.mp3": 58.387,
+      "wecp-boundary-street-the-bamboo-fence-that-held-two-worlds-apart.mp3": 57.4604583,
+      "wecp-boundary-street-the-road-that-arrived-thirty-years-late.mp3": 49.1008333,
+      "wecp-boundary-street-one-line-two-sovereignties-one-handover.mp3": 57.44225
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

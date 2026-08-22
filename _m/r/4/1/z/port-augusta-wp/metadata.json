@@ -536,5 +536,26 @@
     "_m/r/4/1/z/port-augusta-wp/group-of-ostriches-ostrich-far.jpg",
     "_m/r/4/1/z/port-augusta-wp/port-augusta-aerial-picture-of.jpg"
   ],
-  "updatedAt": "2026-06-28T04:08:37.738Z"
+  "updatedAt": "2026-06-28T04:08:37.738Z",
+  "narration": {
+    "files": [
+      "r41z-port-augusta-flight-context.mp3",
+      "r41z-port-augusta-intro.mp3",
+      "r41z-port-augusta-the-needles-eye.mp3",
+      "r41z-port-augusta-goordnada.mp3",
+      "r41z-port-augusta-rails-across-a-continent.mp3",
+      "r41z-port-augusta-from-coal-to-sun.mp3",
+      "r41z-port-augusta-gateway-to-the-outback.mp3"
+    ],
+    "durations": {
+      "r41z-port-augusta-flight-context.mp3": 66.25475,
+      "r41z-port-augusta-intro.mp3": 39.730375,
+      "r41z-port-augusta-the-needles-eye.mp3": 45.4255,
+      "r41z-port-augusta-goordnada.mp3": 57.3580416,
+      "r41z-port-augusta-rails-across-a-continent.mp3": 53.4005,
+      "r41z-port-augusta-from-coal-to-sun.mp3": 59.88525,
+      "r41z-port-augusta-gateway-to-the-outback.mp3": 48.1057916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

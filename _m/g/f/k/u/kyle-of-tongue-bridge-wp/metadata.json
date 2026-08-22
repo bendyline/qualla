@@ -89,5 +89,22 @@
   ],
   "galleryPaths": [
     "_m/g/f/k/6/loch-assynt-wp/relief-map-sutherland.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gfku-kyle-of-tongue-bridge-flight-context.mp3",
+      "gfku-kyle-of-tongue-bridge-intro.mp3",
+      "gfku-kyle-of-tongue-bridge-eighteen-spans-across-a-sea-loch.mp3",
+      "gfku-kyle-of-tongue-bridge-the-ferry-that-never-returned.mp3",
+      "gfku-kyle-of-tongue-bridge-the-view-from-the-causeway.mp3"
+    ],
+    "durations": {
+      "gfku-kyle-of-tongue-bridge-flight-context.mp3": 57.01625,
+      "gfku-kyle-of-tongue-bridge-intro.mp3": 38.663625,
+      "gfku-kyle-of-tongue-bridge-eighteen-spans-across-a-sea-loch.mp3": 59.4095,
+      "gfku-kyle-of-tongue-bridge-the-ferry-that-never-returned.mp3": 52.639125,
+      "gfku-kyle-of-tongue-bridge-the-view-from-the-causeway.mp3": 62.0397916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

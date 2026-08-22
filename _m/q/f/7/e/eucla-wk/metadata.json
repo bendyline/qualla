@@ -127,5 +127,26 @@
   "galleryPaths": [
     "_m/tpc/bo/rd/er/-v/border-village/eucla-telegraph-station-dsc045.jpg",
     "_m/tpc/bo/rd/er/-v/border-village/rooey-ii-border-village-2017-0.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "qf7e-eucla-flight-context.mp3",
+      "qf7e-eucla-intro.mp3",
+      "qf7e-eucla-the-halfway-roadhouse.mp3",
+      "qf7e-eucla-the-forty-five-minute-anomaly.mp3",
+      "qf7e-eucla-walking-to-the-buried-station.mp3",
+      "qf7e-eucla-the-cross-for-those-who-stayed.mp3",
+      "qf7e-eucla-crossing-the-line.mp3"
+    ],
+    "durations": {
+      "qf7e-eucla-flight-context.mp3": 60.9892916,
+      "qf7e-eucla-intro.mp3": 36.3364583,
+      "qf7e-eucla-the-halfway-roadhouse.mp3": 43.870875,
+      "qf7e-eucla-the-forty-five-minute-anomaly.mp3": 44.2635416,
+      "qf7e-eucla-walking-to-the-buried-station.mp3": 49.9915416,
+      "qf7e-eucla-the-cross-for-those-who-stayed.mp3": 47.066,
+      "qf7e-eucla-crossing-the-line.mp3": 45.5795833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

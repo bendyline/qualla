@@ -16,7 +16,7 @@ The Joint Security Area at Panmunjom sits within the Korean Demilitarized Zone, 
 
 ## Dessert Diplomacy
 
-Summits between nations at war are choreographed down to the menu, and every detail carries meaning. The banquet featured a mango mousse dessert labeled 'Dokdo,' the Korean name for a disputed island group that Japan calls Takeshima. The Japanese Foreign Ministry formally protested, calling the dessert 'very unnecessary.' Foreign Minister Taro Kono reiterated Japan's territorial claims. The desserts were served anyway. Kim and Moon cracked them open with small mallets, a gesture meant to symbolize breaking through to a new relationship. The culinary controversy was a reminder that even in a moment of historic reconciliation between the two Koreas, the region's overlapping territorial grievances were never far from the table.
+Summits between nations at war are choreographed down to the menu, and every detail carries meaning. The banquet featured a mango mousse dessert labeled 'Dokdo,' the Korean name for a disputed island group that Japan calls Takeshima. The Japanese Foreign Ministry formally protested, calling the dessert 'extremely regrettable.' Foreign Minister Taro Kono reiterated Japan's territorial claims. The desserts were served anyway. Kim and Moon cracked them open with small mallets, a gesture meant to symbolize breaking through to a new relationship. The culinary controversy was a reminder that even in a moment of historic reconciliation between the two Koreas, the region's overlapping territorial grievances were never far from the table.
 
 ## Promises on Paper
 
@@ -46,6 +46,8 @@ The Joint Security Area at Panmunjom is located at 37.956N, 126.677E within the 
   - North Korea adjusted time zone May 5 to match South confirmed
   - May surprise summit and September Pyongyang summit confirmed
   - Hanoi summit February 2019 collapsed without agreement confirmed
+- [Review — 2026-07-13](https://www.cbsnews.com/news/south-north-korea-summit-kim-jong-un-moon-jae-dessert-japan-doesnt-like/)
+  - Corrected the Japanese Foreign Ministry's quoted objection to the summit 'Dokdo' dessert from 'very unnecessary' to 'extremely regrettable' — a Foreign Ministry spokeswoman said 'It is extremely regrettable' and asked that the dessert not be served (CBS News; corroborated by Reuters).
 
 ## Review Notes
 

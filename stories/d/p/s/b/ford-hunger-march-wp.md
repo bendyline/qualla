@@ -20,7 +20,7 @@ The march's organizers, Albert Goetz of the Detroit Unemployed Council and John 
 
 ## Ink and Outrage
 
-The New York Times reported that "Dearborn streets were stained with blood, streets were littered with broken glass and the wreckage of bullet-riddled automobiles." The next day, Detroit's newspapers initially parroted police versions of events, blaming communists for the violence. The Detroit Free Press declared communists "morally guilty of the assaults and killings." But within days, as reporters gathered more facts, the tone shifted. The Detroit Times conceded that "someone blundered" and called the killing of unarmed workmen "a blow directed at the very heart of American institutions." The Detroit Federation of Labor declared the killings "an outrageous murdering of workers" that "cast a stain on this community." All seriously wounded marchers were arrested. Police chained some to their hospital beds. No officer or Ford guard faced charges, despite evidence that all gunfire had come from their side.
+The New York Times reported that "Dearborn streets were stained with blood, streets were littered with broken glass and the wreckage of bullet-riddled automobiles." The next day, Detroit's newspapers initially parroted police versions of events, blaming communists for the violence. The Detroit Times declared communists "morally guilty of the assaults and killings." But within days, as reporters gathered more facts, the tone shifted. The Detroit Times conceded that "someone blundered" and called the killing of unarmed workmen "a blow directed at the very heart of American institutions." The Detroit Federation of Labor declared the killings "an outrageous murdering of workers" that "cast a stain on this community." All seriously wounded marchers were arrested. Police chained some to their hospital beds. No officer or Ford guard faced charges, despite evidence that all gunfire had come from their side.
 
 ## Buried Side by Side
 
@@ -47,6 +47,8 @@ Located at 42.31°N, 83.16°W in Dearborn, Michigan, near the Ford River Rouge C
 - [Ford Hunger March - Zinn Education Project](https://www.zinnedproject.org/news/tdih/hunger-march-ford/)
   - March drew 3,000-5,000 unemployed workers confirmed
   - Harry Bennett fired pistol into retreating crowd confirmed
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Ford_Hunger_March)
+  - Corrected a quote misattribution: "morally guilty of the assaults and killings" is the Detroit Times, not the Detroit Free Press.
 
 ## Review Notes
 

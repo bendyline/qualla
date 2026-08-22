@@ -162,5 +162,24 @@
     "_m/9/z/x/j/effigy-mounds-wk/scharrbild-kreideunter.jpg",
     "_m/r/4/c/b/marree-man-wp/dreamtime-land.jpg"
   ],
-  "updatedAt": "2026-06-28T04:16:38.490Z"
+  "updatedAt": "2026-06-28T04:16:38.490Z",
+  "narration": {
+    "files": [
+      "r4cb-marree-man-flight-context.mp3",
+      "r4cb-marree-man-intro.mp3",
+      "r4cb-marree-man-a-whodunit-written-in-sand.mp3",
+      "r4cb-marree-man-the-american-red-herrings.mp3",
+      "r4cb-marree-man-an-image-made-without-asking.mp3",
+      "r4cb-marree-man-the-giant-refuses-to-fade.mp3"
+    ],
+    "durations": {
+      "r4cb-marree-man-flight-context.mp3": 78.6064583,
+      "r4cb-marree-man-intro.mp3": 62.383875,
+      "r4cb-marree-man-a-whodunit-written-in-sand.mp3": 64.804,
+      "r4cb-marree-man-the-american-red-herrings.mp3": 69.3944583,
+      "r4cb-marree-man-an-image-made-without-asking.mp3": 66.9699583,
+      "r4cb-marree-man-the-giant-refuses-to-fade.mp3": 65.4685416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

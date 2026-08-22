@@ -150,5 +150,26 @@
     "_m/s/w/9/f/cyclades-wk/andros-town-chora.jpg",
     "_m/s/w/9/x/andros-wk/batsi.jpg",
     "_m/s/w/9/x/andros-wk/photograph-bus-timetab.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sw9x-andros-flight-context.mp3",
+      "sw9x-andros-intro.mp3",
+      "sw9x-andros-chora-neoclassical-on-a-promontory.mp3",
+      "sw9x-andros-the-name-before-the-name.mp3",
+      "sw9x-andros-monasteries-springs-and-the-inland-roads.mp3",
+      "sw9x-andros-the-shipowners-and-their-legacy.mp3",
+      "sw9x-andros-island-food-and-the-dairy-tradition.mp3"
+    ],
+    "durations": {
+      "sw9x-andros-flight-context.mp3": 58.140125,
+      "sw9x-andros-intro.mp3": 56.103625,
+      "sw9x-andros-chora-neoclassical-on-a-promontory.mp3": 61.326625,
+      "sw9x-andros-the-name-before-the-name.mp3": 66.906625,
+      "sw9x-andros-monasteries-springs-and-the-inland-roads.mp3": 69.8175,
+      "sw9x-andros-the-shipowners-and-their-legacy.mp3": 59.9639166,
+      "sw9x-andros-island-food-and-the-dairy-tradition.mp3": 59.3557916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

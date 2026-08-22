@@ -583,5 +583,26 @@
     "_m/u/1/0/x/east-bergholt-wp/a12-layby-near-lattinford-hill.jpg",
     "_m/u/1/0/x/east-bergholt-wp/a12-westbound-geograph-org-uk--1.jpg"
   ],
-  "updatedAt": "2026-06-25T18:20:26.223Z"
+  "updatedAt": "2026-06-25T18:20:26.223Z",
+  "narration": {
+    "files": [
+      "u10x-east-bergholt-flight-context.mp3",
+      "u10x-east-bergholt-intro.mp3",
+      "u10x-east-bergholt-where-constable-was-born.mp3",
+      "u10x-east-bergholt-the-bell-cage.mp3",
+      "u10x-east-bergholt-protestant-radicals-and-quiet-lanes.mp3",
+      "u10x-east-bergholt-the-postcode-anomaly.mp3",
+      "u10x-east-bergholt-constables-country-still.mp3"
+    ],
+    "durations": {
+      "u10x-east-bergholt-flight-context.mp3": 55.84925,
+      "u10x-east-bergholt-intro.mp3": 44.0244583,
+      "u10x-east-bergholt-where-constable-was-born.mp3": 47.6320833,
+      "u10x-east-bergholt-the-bell-cage.mp3": 60.0243333,
+      "u10x-east-bergholt-protestant-radicals-and-quiet-lanes.mp3": 55.4295416,
+      "u10x-east-bergholt-the-postcode-anomaly.mp3": 43.3179166,
+      "u10x-east-bergholt-constables-country-still.mp3": 42.6009166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

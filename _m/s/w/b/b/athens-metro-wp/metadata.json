@@ -366,5 +366,24 @@
     "_m/s/w/b/b/athens-metro-wp/athen-metro-track.jpg",
     "_m/s/w/b/b/athens-metro-wp/athensm1.png"
   ],
-  "updatedAt": "2026-06-24T17:47:57.704Z"
+  "updatedAt": "2026-06-24T17:47:57.704Z",
+  "narration": {
+    "files": [
+      "swbb-athens-metro-flight-context.mp3",
+      "swbb-athens-metro-intro.mp3",
+      "swbb-athens-metro-archaeology-ahead-of-the-drill.mp3",
+      "swbb-athens-metro-the-stations-as-display-cases.mp3",
+      "swbb-athens-metro-old-line-new-lines.mp3",
+      "swbb-athens-metro-still-growing-downward.mp3"
+    ],
+    "durations": {
+      "swbb-athens-metro-flight-context.mp3": 61.2744583,
+      "swbb-athens-metro-intro.mp3": 41.6599583,
+      "swbb-athens-metro-archaeology-ahead-of-the-drill.mp3": 49.5294583,
+      "swbb-athens-metro-the-stations-as-display-cases.mp3": 58.431375,
+      "swbb-athens-metro-old-line-new-lines.mp3": 43.9865833,
+      "swbb-athens-metro-still-growing-downward.mp3": 40.384875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

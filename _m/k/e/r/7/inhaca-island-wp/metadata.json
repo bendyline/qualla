@@ -333,5 +333,24 @@
     "_m/k/e/r/7/inhaca-island-wp/museum-at-the-marine-biologica.jpg",
     "_m/k/e/r/7/inhaca-island-wp/land-rover-at-inhaca-marine-st.jpg"
   ],
-  "updatedAt": "2026-06-27T20:21:02.864Z"
+  "updatedAt": "2026-06-27T20:21:02.864Z",
+  "narration": {
+    "files": [
+      "ker7-inhaca-island-flight-context.mp3",
+      "ker7-inhaca-island-intro.mp3",
+      "ker7-inhaca-island-an-island-between-two-waters.mp3",
+      "ker7-inhaca-island-the-slave-coast-and-the-treaty.mp3",
+      "ker7-inhaca-island-a-living-laboratory.mp3",
+      "ker7-inhaca-island-wings-over-the-mudflats.mp3"
+    ],
+    "durations": {
+      "ker7-inhaca-island-flight-context.mp3": 52.0850833,
+      "ker7-inhaca-island-intro.mp3": 41.35775,
+      "ker7-inhaca-island-an-island-between-two-waters.mp3": 50.692375,
+      "ker7-inhaca-island-the-slave-coast-and-the-treaty.mp3": 65.1007083,
+      "ker7-inhaca-island-a-living-laboratory.mp3": 75.8662083,
+      "ker7-inhaca-island-wings-over-the-mudflats.mp3": 55.130875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -505,5 +505,24 @@
     "_m/g/f/n/t/castlegate-aberdeen-wp/castle-street-aberdeen-by-unkn.jpg",
     "_m/g/f/n/t/castlegate-aberdeen-wp/the-castlegate-aberdeen-last-a.jpg"
   ],
-  "updatedAt": "2026-06-24T06:52:16.956Z"
+  "updatedAt": "2026-06-24T06:52:16.956Z",
+  "narration": {
+    "files": [
+      "gfnt-castlegate-aberdeen-flight-context.mp3",
+      "gfnt-castlegate-aberdeen-intro.mp3",
+      "gfnt-castlegate-aberdeen-the-vanished-castle.mp3",
+      "gfnt-castlegate-aberdeen-the-mercat-cross.mp3",
+      "gfnt-castlegate-aberdeen-the-gallowgate.mp3",
+      "gfnt-castlegate-aberdeen-end-of-the-line.mp3"
+    ],
+    "durations": {
+      "gfnt-castlegate-aberdeen-flight-context.mp3": 50.4838333,
+      "gfnt-castlegate-aberdeen-intro.mp3": 56.173,
+      "gfnt-castlegate-aberdeen-the-vanished-castle.mp3": 64.2595833,
+      "gfnt-castlegate-aberdeen-the-mercat-cross.mp3": 62.4180416,
+      "gfnt-castlegate-aberdeen-the-gallowgate.mp3": 61.3810416,
+      "gfnt-castlegate-aberdeen-end-of-the-line.mp3": 63.1551666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

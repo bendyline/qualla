@@ -55,5 +55,24 @@
     "sourceGeohash4": "gcwr"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcwr-upper-teesdale-flight-context.mp3",
+      "gcwr-upper-teesdale-intro.mp3",
+      "gcwr-upper-teesdale-where-the-tees-begins.mp3",
+      "gcwr-upper-teesdale-the-teesdale-assemblage.mp3",
+      "gcwr-upper-teesdale-sugar-limestone.mp3",
+      "gcwr-upper-teesdale-birds-and-borders.mp3"
+    ],
+    "durations": {
+      "gcwr-upper-teesdale-flight-context.mp3": 45.710875,
+      "gcwr-upper-teesdale-intro.mp3": 34.6405833,
+      "gcwr-upper-teesdale-where-the-tees-begins.mp3": 47.5191666,
+      "gcwr-upper-teesdale-the-teesdale-assemblage.mp3": 62.4004583,
+      "gcwr-upper-teesdale-sugar-limestone.mp3": 57.2575,
+      "gcwr-upper-teesdale-birds-and-borders.mp3": 70.3945416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -859,5 +859,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "w6j5-tr-c-l-m-monastery-of-l-t-flight-context.mp3",
+      "w6j5-tr-c-l-m-monastery-of-l-t-intro.mp3",
+      "w6j5-tr-c-l-m-monastery-of-l-t-the-emperor-who-walked-away.mp3",
+      "w6j5-tr-c-l-m-monastery-of-l-t-222-steps-and-a-pine-scented-ascent.mp3",
+      "w6j5-tr-c-l-m-monastery-of-l-t-a-living-community.mp3",
+      "w6j5-tr-c-l-m-monastery-of-l-t-architecture-between-forest-and-water.mp3",
+      "w6j5-tr-c-l-m-monastery-of-l-t-l-ts-contemplative-edge.mp3"
+    ],
+    "durations": {
+      "w6j5-tr-c-l-m-monastery-of-l-t-flight-context.mp3": 50.8394583,
+      "w6j5-tr-c-l-m-monastery-of-l-t-intro.mp3": 41.7280833,
+      "w6j5-tr-c-l-m-monastery-of-l-t-the-emperor-who-walked-away.mp3": 65.15425,
+      "w6j5-tr-c-l-m-monastery-of-l-t-222-steps-and-a-pine-scented-ascent.mp3": 58.899125,
+      "w6j5-tr-c-l-m-monastery-of-l-t-a-living-community.mp3": 54.991,
+      "w6j5-tr-c-l-m-monastery-of-l-t-architecture-between-forest-and-water.mp3": 51.56375,
+      "w6j5-tr-c-l-m-monastery-of-l-t-l-ts-contemplative-edge.mp3": 51.8945
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

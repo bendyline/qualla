@@ -407,5 +407,24 @@
     "_m/s/w/f/r/sigri-village-wp/252-gr4110010-spa-tikri-06-les.jpg",
     "_m/s/w/f/r/sigri-village-wp/admiralty-chart-no-1668-anchor.jpg"
   ],
-  "updatedAt": "2026-06-24T22:48:01.819Z"
+  "updatedAt": "2026-06-24T22:48:01.819Z",
+  "narration": {
+    "files": [
+      "swfr-sigri-village-flight-context.mp3",
+      "swfr-sigri-village-intro.mp3",
+      "swfr-sigri-village-a-harbour-worth-a-name.mp3",
+      "swfr-sigri-village-a-forest-turned-to-stone.mp3",
+      "swfr-sigri-village-where-deep-time-is-on-display.mp3",
+      "swfr-sigri-village-the-quiet-edge-of-the-island.mp3"
+    ],
+    "durations": {
+      "swfr-sigri-village-flight-context.mp3": 51.816625,
+      "swfr-sigri-village-intro.mp3": 47.4017083,
+      "swfr-sigri-village-a-harbour-worth-a-name.mp3": 59.9554583,
+      "swfr-sigri-village-a-forest-turned-to-stone.mp3": 64.1726666,
+      "swfr-sigri-village-where-deep-time-is-on-display.mp3": 65.077375,
+      "swfr-sigri-village-the-quiet-edge-of-the-island.mp3": 55.4509166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

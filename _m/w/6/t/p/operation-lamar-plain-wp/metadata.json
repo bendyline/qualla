@@ -71,5 +71,26 @@
     "sourceGeohash4": "w6tp"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "w6tp-operation-lamar-plain-flight-context.mp3",
+      "w6tp-operation-lamar-plain-intro.mp3",
+      "w6tp-operation-lamar-plain-a-brigade-moves-south.mp3",
+      "w6tp-operation-lamar-plain-the-shape-of-the-fighting.mp3",
+      "w6tp-operation-lamar-plain-small-things-found-small-things-lost.mp3",
+      "w6tp-operation-lamar-plain-the-final-count.mp3",
+      "w6tp-operation-lamar-plain-the-ground-now.mp3"
+    ],
+    "durations": {
+      "w6tp-operation-lamar-plain-flight-context.mp3": 51.7501666,
+      "w6tp-operation-lamar-plain-intro.mp3": 44.6105,
+      "w6tp-operation-lamar-plain-a-brigade-moves-south.mp3": 65.310375,
+      "w6tp-operation-lamar-plain-the-shape-of-the-fighting.mp3": 73.5325833,
+      "w6tp-operation-lamar-plain-small-things-found-small-things-lost.mp3": 72.6243333,
+      "w6tp-operation-lamar-plain-the-final-count.mp3": 73.4725,
+      "w6tp-operation-lamar-plain-the-ground-now.mp3": 42.711
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -587,5 +587,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wsmd-gaomei-wetlands-flight-context.mp3",
+      "wsmd-gaomei-wetlands-intro.mp3",
+      "wsmd-gaomei-wetlands-ten-percent-of-something-much-larger.mp3",
+      "wsmd-gaomei-wetlands-wind-over-water.mp3",
+      "wsmd-gaomei-wetlands-infrastructure-on-a-fragile-coast.mp3",
+      "wsmd-gaomei-wetlands-the-hour-before-dark.mp3"
+    ],
+    "durations": {
+      "wsmd-gaomei-wetlands-flight-context.mp3": 48.1542083,
+      "wsmd-gaomei-wetlands-intro.mp3": 33.892125,
+      "wsmd-gaomei-wetlands-ten-percent-of-something-much-larger.mp3": 72.2897916,
+      "wsmd-gaomei-wetlands-wind-over-water.mp3": 59.8000416,
+      "wsmd-gaomei-wetlands-infrastructure-on-a-fragile-coast.mp3": 51.5750416,
+      "wsmd-gaomei-wetlands-the-hour-before-dark.mp3": 55.1642083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

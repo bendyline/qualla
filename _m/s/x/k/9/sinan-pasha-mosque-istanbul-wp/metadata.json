@@ -567,5 +567,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-sinan-pasha-mosque-istanbul-flight-context.mp3",
+      "sxk9-sinan-pasha-mosque-istanbul-intro.mp3",
+      "sxk9-sinan-pasha-mosque-istanbul-the-admiral-and-his-architect.mp3",
+      "sxk9-sinan-pasha-mosque-istanbul-six-arches-and-a-12-meter-dome.mp3",
+      "sxk9-sinan-pasha-mosque-istanbul-courtyard-fountain-and-a-changed-portico.mp3",
+      "sxk9-sinan-pasha-mosque-istanbul-be-ikta-and-the-memory-of-the-fleet.mp3"
+    ],
+    "durations": {
+      "sxk9-sinan-pasha-mosque-istanbul-flight-context.mp3": 64.2871666,
+      "sxk9-sinan-pasha-mosque-istanbul-intro.mp3": 59.9848333,
+      "sxk9-sinan-pasha-mosque-istanbul-the-admiral-and-his-architect.mp3": 56.057,
+      "sxk9-sinan-pasha-mosque-istanbul-six-arches-and-a-12-meter-dome.mp3": 61.0455,
+      "sxk9-sinan-pasha-mosque-istanbul-courtyard-fountain-and-a-changed-portico.mp3": 66.7025416,
+      "sxk9-sinan-pasha-mosque-istanbul-be-ikta-and-the-memory-of-the-fleet.mp3": 59.8020416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

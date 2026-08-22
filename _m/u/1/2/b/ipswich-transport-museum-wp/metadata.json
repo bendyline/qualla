@@ -539,5 +539,24 @@
     "_m/u/1/2/b/ipswich-transport-museum-wp/1965-bristol-fs-lodekka.jpg",
     "_m/u/1/2/b/ipswich-transport-museum-wp/1960-bsa-bantam-d7.jpg"
   ],
-  "updatedAt": "2026-06-25T21:52:31.412Z"
+  "updatedAt": "2026-06-25T21:52:31.412Z",
+  "narration": {
+    "files": [
+      "u12b-ipswich-transport-museum-flight-context.mp3",
+      "u12b-ipswich-transport-museum-intro.mp3",
+      "u12b-ipswich-transport-museum-machines-with-second-lives.mp3",
+      "u12b-ipswich-transport-museum-the-horse-tram-that-traveled-england.mp3",
+      "u12b-ipswich-transport-museum-ransomes-and-the-engineering-heritage.mp3",
+      "u12b-ipswich-transport-museum-where-the-vehicles-go-after.mp3"
+    ],
+    "durations": {
+      "u12b-ipswich-transport-museum-flight-context.mp3": 38.9035833,
+      "u12b-ipswich-transport-museum-intro.mp3": 42.4142083,
+      "u12b-ipswich-transport-museum-machines-with-second-lives.mp3": 68.3827916,
+      "u12b-ipswich-transport-museum-the-horse-tram-that-traveled-england.mp3": 71.6917916,
+      "u12b-ipswich-transport-museum-ransomes-and-the-engineering-heritage.mp3": 58.5855416,
+      "u12b-ipswich-transport-museum-where-the-vehicles-go-after.mp3": 60.8105833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -771,5 +771,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r7sb-kgari-flight-context.mp3",
+      "r7sb-kgari-intro.mp3",
+      "r7sb-kgari-the-name-returned.mp3",
+      "r7sb-kgari-lakes-like-held-breath.mp3",
+      "r7sb-kgari-seventy-five-mile-highway.mp3",
+      "r7sb-kgari-living-with-wongari.mp3",
+      "r7sb-kgari-still-recovering.mp3"
+    ],
+    "durations": {
+      "r7sb-kgari-flight-context.mp3": 65.7554583,
+      "r7sb-kgari-intro.mp3": 54.6421666,
+      "r7sb-kgari-the-name-returned.mp3": 54.6895416,
+      "r7sb-kgari-lakes-like-held-breath.mp3": 59.20175,
+      "r7sb-kgari-seventy-five-mile-highway.mp3": 57.9218333,
+      "r7sb-kgari-living-with-wongari.mp3": 52.7551666,
+      "r7sb-kgari-still-recovering.mp3": 51.5615833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

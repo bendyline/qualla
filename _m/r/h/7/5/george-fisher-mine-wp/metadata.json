@@ -63,5 +63,24 @@
     "sourceGeohash4": "rh75"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "rh75-george-fisher-mine-flight-context.mp3",
+      "rh75-george-fisher-mine-intro.mp3",
+      "rh75-george-fisher-mine-the-patient-conquest-of-hilton.mp3",
+      "rh75-george-fisher-mine-a-chairmans-name-on-the-rock.mp3",
+      "rh75-george-fisher-mine-a-kilometer-down.mp3",
+      "rh75-george-fisher-mine-the-future-of-the-field.mp3"
+    ],
+    "durations": {
+      "rh75-george-fisher-mine-flight-context.mp3": 64.8875416,
+      "rh75-george-fisher-mine-intro.mp3": 48.4662916,
+      "rh75-george-fisher-mine-the-patient-conquest-of-hilton.mp3": 56.25,
+      "rh75-george-fisher-mine-a-chairmans-name-on-the-rock.mp3": 51.97825,
+      "rh75-george-fisher-mine-a-kilometer-down.mp3": 66.2626666,
+      "rh75-george-fisher-mine-the-future-of-the-field.mp3": 43.224375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

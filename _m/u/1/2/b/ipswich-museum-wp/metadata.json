@@ -361,5 +361,24 @@
     "_m/u/1/2/b/ipswich-museum-wp/ipswich-museum-c-1850.jpg",
     "_m/u/1/2/b/ipswich-museum-wp/ipswich-museum-geograph-org-uk.jpg"
   ],
-  "updatedAt": "2026-06-25T21:50:50.711Z"
+  "updatedAt": "2026-06-25T21:50:50.711Z",
+  "narration": {
+    "files": [
+      "u12b-ipswich-museum-flight-context.mp3",
+      "u12b-ipswich-museum-intro.mp3",
+      "u12b-ipswich-museum-a-museum-built-for-everyone.mp3",
+      "u12b-ipswich-museum-rescued-by-a-vote.mp3",
+      "u12b-ipswich-museum-the-man-who-found-the-ship.mp3",
+      "u12b-ipswich-museum-closed-refurbishing-returning.mp3"
+    ],
+    "durations": {
+      "u12b-ipswich-museum-flight-context.mp3": 41.3455,
+      "u12b-ipswich-museum-intro.mp3": 38.533875,
+      "u12b-ipswich-museum-a-museum-built-for-everyone.mp3": 80.5700833,
+      "u12b-ipswich-museum-rescued-by-a-vote.mp3": 77.432625,
+      "u12b-ipswich-museum-the-man-who-found-the-ship.mp3": 76.692625,
+      "u12b-ipswich-museum-closed-refurbishing-returning.mp3": 65.038
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

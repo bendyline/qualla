@@ -109,5 +109,24 @@
   "galleryPaths": [
     "_m/s/m/8/m/nafusa-mountains-wp/physical-location-cart.jpg",
     "_m/s/h/r/m/takarkori-wp/potamogeton-natans-prz.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "shrm-takarkori-flight-context.mp3",
+      "shrm-takarkori-intro.mp3",
+      "shrm-takarkori-a-shelter-beside-a-vanished-lake.mp3",
+      "shrm-takarkori-what-the-desert-kept.mp3",
+      "shrm-takarkori-milk-cattle-and-a-new-way-to-live.mp3",
+      "shrm-takarkori-a-lineage-hidden-for-fifty-thousand-years.mp3"
+    ],
+    "durations": {
+      "shrm-takarkori-flight-context.mp3": 62.1327083,
+      "shrm-takarkori-intro.mp3": 46.109625,
+      "shrm-takarkori-a-shelter-beside-a-vanished-lake.mp3": 60.8874166,
+      "shrm-takarkori-what-the-desert-kept.mp3": 58.3909166,
+      "shrm-takarkori-milk-cattle-and-a-new-way-to-live.mp3": 49.5112083,
+      "shrm-takarkori-a-lineage-hidden-for-fifty-thousand-years.mp3": 82.8667083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -150,5 +150,26 @@
     "_m/s/w/9/t/syros-wp/theatron-apollon-in-syros-isla.jpg",
     "_m/s/w/9/t/syros-wp/room-3-in-the-archaeological-m.jpg"
   ],
-  "updatedAt": "2026-06-19T14:52:50.717Z"
+  "updatedAt": "2026-06-19T14:52:50.717Z",
+  "narration": {
+    "files": [
+      "sw9t-syros-flight-context.mp3",
+      "sw9t-syros-intro.mp3",
+      "sw9t-syros-the-island-before-the-rush.mp3",
+      "sw9t-syros-the-city-the-refugees-built.mp3",
+      "sw9t-syros-marble-and-steam.mp3",
+      "sw9t-syros-two-faiths-one-island.mp3",
+      "sw9t-syros-syros-today.mp3"
+    ],
+    "durations": {
+      "sw9t-syros-flight-context.mp3": 71.3183333,
+      "sw9t-syros-intro.mp3": 58.7507916,
+      "sw9t-syros-the-island-before-the-rush.mp3": 67.9749583,
+      "sw9t-syros-the-city-the-refugees-built.mp3": 69.0684166,
+      "sw9t-syros-marble-and-steam.mp3": 66.5890833,
+      "sw9t-syros-two-faiths-one-island.mp3": 61.2988333,
+      "sw9t-syros-syros-today.mp3": 75.7857916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -37,6 +37,18 @@ Berlin Cathedral sits at 52.519°N, 13.401°E on Museum Island in central Berlin
 ## Sources
 
 - [Berlin Cathedral - Wikipedia](https://en.wikipedia.org/?curid=494808)
+- [Berliner Dom - Wikipedia (German)](https://de.wikipedia.org/wiki/Berliner_Dom)
+  - Built 1894-1905 by Julius Raschdorff for Wilhelm II; current dome height 98 m, reduced by 16 m from the original 114 m during postwar reconstruction, which confirms the 98 m figure used in the story
+  - Hohenzollern burial site since 1545; Sauer organ built 1905 with 113 stops
+  - 24 May 1944 incendiary bomb destroyed the lantern and dome; Denkmalskirche demolished 1975 for 800,000 marks with a 50,000-mark cheap restoration; nave rededicated 6 June 1993 with Helmut Kohl attending
+
+## Review Notes
+
+**Reviewed:** 2026-08-06 · 7 facts verified · 0 corrections
+
+Verified construction dates, 98m dome height (confirmed current post-WWII-simplified height via German Wikipedia), organ specs, 1944 fire, Denkmalskirche demolition, and 1993 rededication. Added verification source and editorial field (spiciness 2).
+
+**Spiciness:** 2/5
 
 ---
 

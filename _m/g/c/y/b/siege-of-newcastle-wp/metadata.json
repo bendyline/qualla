@@ -80,5 +80,24 @@
   ],
   "galleryPaths": [
     "_m/g/c/y/b/battle-of-boldon-hill-wp/hero.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcyb-siege-of-newcastle-flight-context.mp3",
+      "gcyb-siege-of-newcastle-intro.mp3",
+      "gcyb-siege-of-newcastle-a-northern-quarrel.mp3",
+      "gcyb-siege-of-newcastle-eight-months-of-waiting.mp3",
+      "gcyb-siege-of-newcastle-mines-and-surrender.mp3",
+      "gcyb-siege-of-newcastle-the-coal-trade-changes-hands.mp3"
+    ],
+    "durations": {
+      "gcyb-siege-of-newcastle-flight-context.mp3": 46.0002916,
+      "gcyb-siege-of-newcastle-intro.mp3": 50.7705416,
+      "gcyb-siege-of-newcastle-a-northern-quarrel.mp3": 53.6760833,
+      "gcyb-siege-of-newcastle-eight-months-of-waiting.mp3": 51.2793333,
+      "gcyb-siege-of-newcastle-mines-and-surrender.mp3": 54.3639583,
+      "gcyb-siege-of-newcastle-the-coal-trade-changes-hands.mp3": 55.923
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

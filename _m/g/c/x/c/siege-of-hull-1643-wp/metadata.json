@@ -79,5 +79,24 @@
   ],
   "galleryPaths": [
     "_m/g/c/x/c/siege-of-hull-1643-wp/relief-map-east-riding.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcxc-siege-of-hull-1643-flight-context.mp3",
+      "gcxc-siege-of-hull-1643-intro.mp3",
+      "gcxc-siege-of-hull-1643-yorkshire-collapses.mp3",
+      "gcxc-siege-of-hull-1643-beverley-falls-hull-holds.mp3",
+      "gcxc-siege-of-hull-1643-reinforcement-by-water.mp3",
+      "gcxc-siege-of-hull-1643-the-turning.mp3"
+    ],
+    "durations": {
+      "gcxc-siege-of-hull-1643-flight-context.mp3": 61.515375,
+      "gcxc-siege-of-hull-1643-intro.mp3": 49.6689583,
+      "gcxc-siege-of-hull-1643-yorkshire-collapses.mp3": 56.3029166,
+      "gcxc-siege-of-hull-1643-beverley-falls-hull-holds.mp3": 55.8484166,
+      "gcxc-siege-of-hull-1643-reinforcement-by-water.mp3": 62.7055416,
+      "gcxc-siege-of-hull-1643-the-turning.mp3": 59.5340833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

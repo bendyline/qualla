@@ -110,5 +110,24 @@
   "galleryPaths": [
     "_m/k/e/4/y/2014-orkney-earthquake-wp/usgs-seismicity-map-so.jpg",
     "_m/k/e/4/y/2014-orkney-earthquake-wp/usgs-shakemap-earthqua.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "ke4y-2014-orkney-earthquake-flight-context.mp3",
+      "ke4y-2014-orkney-earthquake-intro.mp3",
+      "ke4y-2014-orkney-earthquake-the-ground-that-mining-made.mp3",
+      "ke4y-2014-orkney-earthquake-warnings-in-the-rock.mp3",
+      "ke4y-2014-orkney-earthquake-one-life-many-losses.mp3",
+      "ke4y-2014-orkney-earthquake-after-the-shaking.mp3"
+    ],
+    "durations": {
+      "ke4y-2014-orkney-earthquake-flight-context.mp3": 65.05475,
+      "ke4y-2014-orkney-earthquake-intro.mp3": 52.5705833,
+      "ke4y-2014-orkney-earthquake-the-ground-that-mining-made.mp3": 58.7353333,
+      "ke4y-2014-orkney-earthquake-warnings-in-the-rock.mp3": 50.322625,
+      "ke4y-2014-orkney-earthquake-one-life-many-losses.mp3": 57.09225,
+      "ke4y-2014-orkney-earthquake-after-the-shaking.mp3": 54.289
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

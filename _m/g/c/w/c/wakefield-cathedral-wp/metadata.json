@@ -654,5 +654,24 @@
     "_m/g/c/w/c/wakefield-cathedral-wp/cathedral-pinnacle-geograph-or.jpg",
     "_m/g/c/w/c/wakefield-cathedral-wp/german-christmas-market-1-geog.jpg"
   ],
-  "updatedAt": "2026-06-23T07:50:59.320Z"
+  "updatedAt": "2026-06-23T07:50:59.320Z",
+  "narration": {
+    "files": [
+      "gcwc-wakefield-cathedral-flight-context.mp3",
+      "gcwc-wakefield-cathedral-intro.mp3",
+      "gcwc-wakefield-cathedral-from-saxon-to-norman.mp3",
+      "gcwc-wakefield-cathedral-cathedral-status.mp3",
+      "gcwc-wakefield-cathedral-bells-rood-and-mouseman.mp3",
+      "gcwc-wakefield-cathedral-peregrines-and-choristers.mp3"
+    ],
+    "durations": {
+      "gcwc-wakefield-cathedral-flight-context.mp3": 40.1912083,
+      "gcwc-wakefield-cathedral-intro.mp3": 37.893875,
+      "gcwc-wakefield-cathedral-from-saxon-to-norman.mp3": 78.591,
+      "gcwc-wakefield-cathedral-cathedral-status.mp3": 81.6245,
+      "gcwc-wakefield-cathedral-bells-rood-and-mouseman.mp3": 74.7025,
+      "gcwc-wakefield-cathedral-peregrines-and-choristers.mp3": 75.6183333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -150,5 +150,26 @@
     "_m/s/q/x/t/mount-lykaion-wp/hero.jpg",
     "_m/s/q/x/q/ancient-elis-wp/map-regions-ancient-pe.png",
     "_m/s/q/x/v/arcadia-region-wp/typical-landscape-vege.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sqxv-arcadia-region-flight-context.mp3",
+      "sqxv-arcadia-region-intro.mp3",
+      "sqxv-arcadia-region-mountains-all-the-way-down.mp3",
+      "sqxv-arcadia-region-the-last-people-before-the-greeks.mp3",
+      "sqxv-arcadia-region-independence-alliance-subjugation.mp3",
+      "sqxv-arcadia-region-the-secrets-of-despoina.mp3",
+      "sqxv-arcadia-region-the-pastoral-dream.mp3"
+    ],
+    "durations": {
+      "sqxv-arcadia-region-flight-context.mp3": 60.552,
+      "sqxv-arcadia-region-intro.mp3": 50.62325,
+      "sqxv-arcadia-region-mountains-all-the-way-down.mp3": 63.727,
+      "sqxv-arcadia-region-the-last-people-before-the-greeks.mp3": 65.0312916,
+      "sqxv-arcadia-region-independence-alliance-subjugation.mp3": 63.4632916,
+      "sqxv-arcadia-region-the-secrets-of-despoina.mp3": 51.2610833,
+      "sqxv-arcadia-region-the-pastoral-dream.mp3": 60.7951666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

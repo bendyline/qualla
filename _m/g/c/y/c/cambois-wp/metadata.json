@@ -495,5 +495,22 @@
     "_m/g/c/y/c/cambois-wp/cambois-water-tower-geograph-o.jpg",
     "_m/g/c/y/c/cambois-wp/caller-crag-geograph-org-uk-10.jpg"
   ],
-  "updatedAt": "2026-06-23T15:46:44.627Z"
+  "updatedAt": "2026-06-23T15:46:44.627Z",
+  "narration": {
+    "files": [
+      "gcyc-cambois-flight-context.mp3",
+      "gcyc-cambois-intro.mp3",
+      "gcyc-cambois-cambas-becomes-cambois.mp3",
+      "gcyc-cambois-the-tute.mp3",
+      "gcyc-cambois-the-gigafactory-that-wasnt.mp3"
+    ],
+    "durations": {
+      "gcyc-cambois-flight-context.mp3": 50.5912083,
+      "gcyc-cambois-intro.mp3": 43.550625,
+      "gcyc-cambois-cambas-becomes-cambois.mp3": 68.3194166,
+      "gcyc-cambois-the-tute.mp3": 79.5739583,
+      "gcyc-cambois-the-gigafactory-that-wasnt.mp3": 97.6407083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

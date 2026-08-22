@@ -16,7 +16,7 @@ On 31 March 1885, Lieutenant Colonel Sir Charles Warren marched roughly 4,000 im
 
 ## The Chiefs Who Crossed an Ocean
 
-Britain expected to hand the protectorate over to Cecil Rhodes's British South Africa Company, then carving out Rhodesia to the north. The Tswana rulers had other plans. In 1895, three dikgosi - Khama III of the Bangwato, Sebele I of the Bakwena, and Bathoen I of the Bangwaketse - sailed to England to appeal directly to Queen Victoria and Colonial Secretary Joseph Chamberlain. They toured town halls and chapels, allied themselves with temperance and anti-slavery campaigners, and argued, in person, that their people should not be sold to a chartered company. They won. The land stayed under the Crown. Within months, the disastrous Jameson Raid - launched from Bechuanaland soil at the end of 1895 - shattered Rhodes's reputation and confirmed the wisdom of the chiefs' resistance.
+Britain expected to hand the protectorate over to Cecil Rhodes's British South Africa Company, then carving out Rhodesia (now Zimbabwe) to the north. The Tswana rulers had other plans. In 1895, three dikgosi - Khama III of the Bangwato, Sebele I of the Bakwena, and Bathoen I of the Bangwaketse - sailed to England to appeal directly to Queen Victoria and Colonial Secretary Joseph Chamberlain. They toured town halls and chapels, allied themselves with temperance and anti-slavery campaigners, and argued, in person, that their people should not be sold to a chartered company. They won. The land stayed under the Crown. Within months, the disastrous Jameson Raid - launched from Bechuanaland soil at the end of 1895 - shattered Rhodes's reputation and confirmed the wisdom of the chiefs' resistance.
 
 ## An Infant Heir and a Marriage That Shook a Nation
 

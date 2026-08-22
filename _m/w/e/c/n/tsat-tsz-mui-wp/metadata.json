@@ -53,5 +53,26 @@
     "sourceGeohash4": "wecn"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "wecn-tsat-tsz-mui-flight-context.mp3",
+      "wecn-tsat-tsz-mui-intro.mp3",
+      "wecn-tsat-tsz-mui-the-earliest-settlement.mp3",
+      "wecn-tsat-tsz-mui-seven-sisters-and-a-british-engineer.mp3",
+      "wecn-tsat-tsz-mui-erasure-by-reclamation.mp3",
+      "wecn-tsat-tsz-mui-the-december-landing.mp3",
+      "wecn-tsat-tsz-mui-what-the-name-holds.mp3"
+    ],
+    "durations": {
+      "wecn-tsat-tsz-mui-flight-context.mp3": 50.0649166,
+      "wecn-tsat-tsz-mui-intro.mp3": 52.4562083,
+      "wecn-tsat-tsz-mui-the-earliest-settlement.mp3": 54.9017916,
+      "wecn-tsat-tsz-mui-seven-sisters-and-a-british-engineer.mp3": 49.7907083,
+      "wecn-tsat-tsz-mui-erasure-by-reclamation.mp3": 53.6251666,
+      "wecn-tsat-tsz-mui-the-december-landing.mp3": 59.7119166,
+      "wecn-tsat-tsz-mui-what-the-name-holds.mp3": 48.655
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

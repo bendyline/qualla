@@ -182,5 +182,26 @@
     "_m/g/c/v/b/siege-of-carlisle-1644-wp/hero.png",
     "_m/g/c/x/c/siege-of-hull-1642-wp/line-engraving-sir-joh.png",
     "_m/g/c/x/c/siege-of-hull-1642-wp/joseph-parrocel-1646-1.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcxc-siege-of-hull-1642-flight-context.mp3",
+      "gcxc-siege-of-hull-1642-intro.mp3",
+      "gcxc-siege-of-hull-1642-the-town-and-its-arsenal.mp3",
+      "gcxc-siege-of-hull-1642-two-governors-one-town.mp3",
+      "gcxc-siege-of-hull-1642-beverley-gate.mp3",
+      "gcxc-siege-of-hull-1642-the-siege.mp3",
+      "gcxc-siege-of-hull-1642-what-it-cost-the-hothams.mp3"
+    ],
+    "durations": {
+      "gcxc-siege-of-hull-1642-flight-context.mp3": 62.798625,
+      "gcxc-siege-of-hull-1642-intro.mp3": 55.536875,
+      "gcxc-siege-of-hull-1642-the-town-and-its-arsenal.mp3": 65.0522916,
+      "gcxc-siege-of-hull-1642-two-governors-one-town.mp3": 53.6510833,
+      "gcxc-siege-of-hull-1642-beverley-gate.mp3": 59.9129583,
+      "gcxc-siege-of-hull-1642-the-siege.mp3": 73.8229583,
+      "gcxc-siege-of-hull-1642-what-it-cost-the-hothams.mp3": 77.56125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

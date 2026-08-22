@@ -571,5 +571,24 @@
     "_m/s/q/z/3/rio-castle-wp/le-general-maison-recoit-la-re.jpg",
     "_m/s/q/z/3/rio-castle-wp/golfo-de-patras-03.jpg"
   ],
-  "updatedAt": "2026-06-24T11:22:10.123Z"
+  "updatedAt": "2026-06-24T11:22:10.123Z",
+  "narration": {
+    "files": [
+      "sqz3-rio-castle-flight-context.mp3",
+      "sqz3-rio-castle-intro.mp3",
+      "sqz3-rio-castle-a-temple-beneath-the-stones.mp3",
+      "sqz3-rio-castle-the-little-dardanelles.mp3",
+      "sqz3-rio-castle-lepantos-shadow.mp3",
+      "sqz3-rio-castle-prison-walls-and-concert-nights.mp3"
+    ],
+    "durations": {
+      "sqz3-rio-castle-flight-context.mp3": 64.8380416,
+      "sqz3-rio-castle-intro.mp3": 48.6267916,
+      "sqz3-rio-castle-a-temple-beneath-the-stones.mp3": 58.362875,
+      "sqz3-rio-castle-the-little-dardanelles.mp3": 72.91525,
+      "sqz3-rio-castle-lepantos-shadow.mp3": 58.648,
+      "sqz3-rio-castle-prison-walls-and-concert-nights.mp3": 61.1959583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

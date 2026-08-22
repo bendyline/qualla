@@ -797,5 +797,22 @@
     "_m/g/c/w/y/auckland-castle-wp/the-gardens-of-england-in-the-.jpg",
     "_m/g/c/w/y/auckland-castle-wp/auckland-castle-walled-garden-.jpg"
   ],
-  "updatedAt": "2026-06-23T10:30:24.545Z"
+  "updatedAt": "2026-06-23T10:30:24.545Z",
+  "narration": {
+    "files": [
+      "gcwy-auckland-castle-flight-context.mp3",
+      "gcwy-auckland-castle-intro.mp3",
+      "gcwy-auckland-castle-eight-hundred-years-of-bishops.mp3",
+      "gcwy-auckland-castle-jacob-and-his-twelve-sons.mp3",
+      "gcwy-auckland-castle-the-auckland-project.mp3"
+    ],
+    "durations": {
+      "gcwy-auckland-castle-flight-context.mp3": 61.57,
+      "gcwy-auckland-castle-intro.mp3": 47.01175,
+      "gcwy-auckland-castle-eight-hundred-years-of-bishops.mp3": 81.4342083,
+      "gcwy-auckland-castle-jacob-and-his-twelve-sons.mp3": 79.8209166,
+      "gcwy-auckland-castle-the-auckland-project.mp3": 90.9804583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

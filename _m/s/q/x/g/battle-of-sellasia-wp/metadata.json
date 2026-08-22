@@ -82,5 +82,26 @@
   ],
   "galleryPaths": [
     "_m/s/q/x/f/siege-of-sparta-wp/map-southern-pelopones.gif"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sqxg-battle-of-sellasia-flight-context.mp3",
+      "sqxg-battle-of-sellasia-intro.mp3",
+      "sqxg-battle-of-sellasia-a-revolution-in-arms.mp3",
+      "sqxg-battle-of-sellasia-the-hemming-in.mp3",
+      "sqxg-battle-of-sellasia-two-hills-two-phalanxes.mp3",
+      "sqxg-battle-of-sellasia-the-reckoning.mp3",
+      "sqxg-battle-of-sellasia-a-pass-between-mountains.mp3"
+    ],
+    "durations": {
+      "sqxg-battle-of-sellasia-flight-context.mp3": 46.053,
+      "sqxg-battle-of-sellasia-intro.mp3": 49.6727916,
+      "sqxg-battle-of-sellasia-a-revolution-in-arms.mp3": 74.2003333,
+      "sqxg-battle-of-sellasia-the-hemming-in.mp3": 75.6114166,
+      "sqxg-battle-of-sellasia-two-hills-two-phalanxes.mp3": 80.5093333,
+      "sqxg-battle-of-sellasia-the-reckoning.mp3": 67.27,
+      "sqxg-battle-of-sellasia-a-pass-between-mountains.mp3": 58.8765
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

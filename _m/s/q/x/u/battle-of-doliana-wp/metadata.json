@@ -61,5 +61,24 @@
     "sourceGeohash4": "sqxu"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sqxu-battle-of-doliana-flight-context.mp3",
+      "sqxu-battle-of-doliana-intro.mp3",
+      "sqxu-battle-of-doliana-the-strategic-situation.mp3",
+      "sqxu-battle-of-doliana-the-gorge-at-doliana.mp3",
+      "sqxu-battle-of-doliana-retreat-and-pursuit.mp3",
+      "sqxu-battle-of-doliana-what-the-battle-changed.mp3"
+    ],
+    "durations": {
+      "sqxu-battle-of-doliana-flight-context.mp3": 47.0484166,
+      "sqxu-battle-of-doliana-intro.mp3": 40.330125,
+      "sqxu-battle-of-doliana-the-strategic-situation.mp3": 59.0804166,
+      "sqxu-battle-of-doliana-the-gorge-at-doliana.mp3": 71.6794166,
+      "sqxu-battle-of-doliana-retreat-and-pursuit.mp3": 63.7383333,
+      "sqxu-battle-of-doliana-what-the-battle-changed.mp3": 66.6045
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

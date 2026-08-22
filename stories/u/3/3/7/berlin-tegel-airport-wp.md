@@ -12,7 +12,7 @@ On 5 August 1948, French engineers broke ground in a forest northwest of Berlin.
 
 ## Before the Runway
 
-The site was a Hohenzollern hunting ground in the Jungfernheide forest, then a Prussian artillery range in the nineteenth century, then a base for the Royal Prussian Airship Battalion in 1906 — Zeppelins were tested overhead. After Versailles banned German military aviation, the field served other purposes. On 27 September 1930, Rudolf Nebel set up an experimental rocket research station here called the Raketenschießplatz Tegel, and a young engineer named Wernher von Braun spent his earliest professional years working on the test stands. In 1937 the rocket team moved to a new secret army facility on the Baltic coast called Peenemünde. The runways that von Braun's V-2s were aimed at would, twelve years later, include London, Antwerp, and the Allied bases that flew the Berlin Airlift home from.
+The site was a Hohenzollern hunting ground in the Jungfernheide forest, then a Prussian artillery range in the nineteenth century, then a base for the Royal Prussian Airship Battalion in 1906 — Zeppelins were tested overhead. After Versailles banned German military aviation, the field served other purposes. On 27 September 1930, Rudolf Nebel set up an experimental rocket research station here called the Raketenschießplatz Tegel, and a young engineer named Wernher von Braun spent his earliest professional years working on the test stands. In 1937 the rocket team moved to a new secret army facility on the Baltic coast called Peenemünde. What that work eventually produced, the V-2, was assembled from 1944 in tunnels near Nordhausen by prisoners of the Mittelbau-Dora concentration camp, where around 20,000 of the 60,000 people sent there died. The first rocket built in those tunnels was launched at London on 8 September 1944 - four years before Allied transports began landing on this same patch of Berlin sand to keep the city alive.
 
 ## The Hexagon
 
@@ -37,8 +37,34 @@ Tegel sits at 52.554°N, 13.292°E in the Reinickendorf district of northwest Be
 ## Sources
 
 - [Berlin Tegel Airport - Wikipedia](https://en.wikipedia.org/?curid=271834)
+- [Berlin Tegel Airport - Wikipedia](https://en.wikipedia.org/?curid=271834)
+  - groundbreaking 5 August 1948, first landing 5 November 1948 by USAF C-54, longest runway in Europe at the time
+  - Nebel's Raketenschießplatz Tegel opened 27 September 1930, von Braun worked there, team moved to Peenemünde 1937
+  - hexagonal terminal by gmp (von Gerkan, Marg) opened 1 November 1974
+  - first commercial Airbus A320 service (Air France, Paris-Berlin via Düsseldorf) 8 April 1988
+  - Lufthansa's first flight 28 October 1990, bought Pan Am's Internal German Services for $150 million
+  - 2017 referendum passed 56.1% to keep Tegel open but was overridden
+  - BER opened 31 October 2020, Tegel's final flight 8 November 2020, decommissioned 4 May 2021
+  - 24 million+ annual passengers pre-closure
+  - Ukraine refugee shelter from March 2022, ~4,000-5,000 residents by June 2024
+- [Mittelbau-Dora - Wikipedia](https://en.wikipedia.org/wiki/Mittelbau-Dora)
+  - confirmed over 20,000 deaths of the roughly 60,000 prisoners sent to the Mittelbau-Dora camp complex
+- [V-2 rocket - Wikipedia](https://en.wikipedia.org/wiki/V-2_rocket)
+  - first V-2 attack on London occurred 8 September 1944
+
+## Review Notes
+
+**Reviewed:** 2026-08-06 · 13 facts verified · 0 corrections
+
+Verified construction/opening dates, von Braun/Peenemünde rocket history, Mittelbau-Dora death toll (20,000/60,000), first V-2 London attack date, hexagon terminal architects, Allied airline era, 2017 referendum result, and closure/reuse timeline against English Wikipedia and dedicated Mittelbau-Dora/V-2 rocket articles. No factual errors found.
+
+**Spiciness:** 3/5
+
+**Strong opinions:**
+
+- The new airport [BER] became a national joke about German construction
 
 ---
 
-*Word count: 820*
+*Word count: 838*
 *Read time: 5 minutes*

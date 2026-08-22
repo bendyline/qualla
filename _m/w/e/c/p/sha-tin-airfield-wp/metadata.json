@@ -56,5 +56,24 @@
     "sourceGeohash4": "wecp"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "wecp-sha-tin-airfield-flight-context.mp3",
+      "wecp-sha-tin-airfield-intro.mp3",
+      "wecp-sha-tin-airfield-a-belgian-over-tide-cove.mp3",
+      "wecp-sha-tin-airfield-the-observation-post-flights.mp3",
+      "wecp-sha-tin-airfield-typhoon-wandas-end.mp3",
+      "wecp-sha-tin-airfield-buried-under-a-new-town.mp3"
+    ],
+    "durations": {
+      "wecp-sha-tin-airfield-flight-context.mp3": 69.3308333,
+      "wecp-sha-tin-airfield-intro.mp3": 44.5165,
+      "wecp-sha-tin-airfield-a-belgian-over-tide-cove.mp3": 48.36025,
+      "wecp-sha-tin-airfield-the-observation-post-flights.mp3": 83.4864583,
+      "wecp-sha-tin-airfield-typhoon-wandas-end.mp3": 50.8310833,
+      "wecp-sha-tin-airfield-buried-under-a-new-town.mp3": 63.7250416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

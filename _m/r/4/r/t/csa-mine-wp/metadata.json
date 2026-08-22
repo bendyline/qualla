@@ -53,5 +53,24 @@
     "sourceGeohash4": "r4rt"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "r4rt-csa-mine-flight-context.mp3",
+      "r4rt-csa-mine-intro.mp3",
+      "r4rt-csa-mine-three-nationalities-one-outcrop.mp3",
+      "r4rt-csa-mine-fire-and-abandonment.mp3",
+      "r4rt-csa-mine-the-long-second-life.mp3",
+      "r4rt-csa-mine-two-kilometres-down.mp3"
+    ],
+    "durations": {
+      "r4rt-csa-mine-flight-context.mp3": 70.0447916,
+      "r4rt-csa-mine-intro.mp3": 43.2572916,
+      "r4rt-csa-mine-three-nationalities-one-outcrop.mp3": 48.8378333,
+      "r4rt-csa-mine-fire-and-abandonment.mp3": 44.833375,
+      "r4rt-csa-mine-the-long-second-life.mp3": 72.1926666,
+      "r4rt-csa-mine-two-kilometres-down.mp3": 47.2495833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

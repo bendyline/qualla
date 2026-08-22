@@ -64,5 +64,24 @@
     "sourceGeohash4": "r5s8"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "r5s8-currawilla-flight-context.mp3",
+      "r5s8-currawilla-intro.mp3",
+      "r5s8-currawilla-a-borrowed-name-on-borrowed-country.mp3",
+      "r5s8-currawilla-floods-and-fortunes.mp3",
+      "r5s8-currawilla-the-patient-plains.mp3",
+      "r5s8-currawilla-where-the-travellers-stop.mp3"
+    ],
+    "durations": {
+      "r5s8-currawilla-flight-context.mp3": 59.078375,
+      "r5s8-currawilla-intro.mp3": 28.7137083,
+      "r5s8-currawilla-a-borrowed-name-on-borrowed-country.mp3": 48.66225,
+      "r5s8-currawilla-floods-and-fortunes.mp3": 52.314125,
+      "r5s8-currawilla-the-patient-plains.mp3": 51.3638333,
+      "r5s8-currawilla-where-the-travellers-stop.mp3": 60.2266666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

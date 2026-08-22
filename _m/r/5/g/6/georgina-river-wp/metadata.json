@@ -208,5 +208,24 @@
     "_m/tpc/be/do/ur/ie/bedourie/georgina-river-flooding-near-b.jpg",
     "_m/r/5/g/6/georgina-river-wp/driving-across-georgin.jpg",
     "_m/r/5/g/6/georgina-river-wp/dry-river-bed-georgina.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r5g6-georgina-river-flight-context.mp3",
+      "r5g6-georgina-river-intro.mp3",
+      "r5g6-georgina-river-a-river-named-twice.mp3",
+      "r5g6-georgina-river-the-arithmetic-of-drought.mp3",
+      "r5g6-georgina-river-when-the-water-comes.mp3",
+      "r5g6-georgina-river-the-camping-ground-of-the-rainbow-serpent.mp3"
+    ],
+    "durations": {
+      "r5g6-georgina-river-flight-context.mp3": 68.6053333,
+      "r5g6-georgina-river-intro.mp3": 43.199,
+      "r5g6-georgina-river-a-river-named-twice.mp3": 54.11,
+      "r5g6-georgina-river-the-arithmetic-of-drought.mp3": 74.556,
+      "r5g6-georgina-river-when-the-water-comes.mp3": 68.4025416,
+      "r5g6-georgina-river-the-camping-ground-of-the-rainbow-serpent.mp3": 57.169375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

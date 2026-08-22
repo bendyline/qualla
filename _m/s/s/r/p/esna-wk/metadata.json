@@ -541,5 +541,26 @@
     "_m/s/s/r/p/esna-wk/esna-40.jpg",
     "_m/s/s/r/p/esna-wk/esna-41.jpg"
   ],
-  "updatedAt": "2026-06-28T19:27:00.479Z"
+  "updatedAt": "2026-06-28T19:27:00.479Z",
+  "narration": {
+    "files": [
+      "ssrp-esna-flight-context.mp3",
+      "ssrp-esna-intro.mp3",
+      "ssrp-esna-a-heaven-rediscovered.mp3",
+      "ssrp-esna-the-god-of-the-potters-wheel.mp3",
+      "ssrp-esna-layers-of-a-living-town.mp3",
+      "ssrp-esna-city-of-martyrs.mp3",
+      "ssrp-esna-where-the-river-pauses.mp3"
+    ],
+    "durations": {
+      "ssrp-esna-flight-context.mp3": 61.593,
+      "ssrp-esna-intro.mp3": 49.3600833,
+      "ssrp-esna-a-heaven-rediscovered.mp3": 62.569625,
+      "ssrp-esna-the-god-of-the-potters-wheel.mp3": 49.824125,
+      "ssrp-esna-layers-of-a-living-town.mp3": 58.886,
+      "ssrp-esna-city-of-martyrs.mp3": 51.1155416,
+      "ssrp-esna-where-the-river-pauses.mp3": 49.0287083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

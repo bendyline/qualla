@@ -12,7 +12,7 @@ The Wampanoag called it something like natocke or nantican -- the meaning uncert
 
 ## Two Beaver Hats and a Deal
 
-European settlement began with a transaction that sounds like folklore but sits in the historical record. In 1659, Thomas Mayhew sold nine-tenths of his interest in the island to a group of investors led by Tristram Coffin "for the sum of thirty pounds, also two beaver hats, one for myself, and one for my wife." Nine original purchasers arrived, then took on partners, dividing the island into twenty-seven shares among thirty-one owners by 1667. They needed tradesmen -- weavers, millers, builders -- and offered half-shares to anyone who would live on Nantucket and practice their craft for at least three years. The first settlers tried farming and sheep, but overgrazing made the sandy soil even less productive. The islanders turned to the sea. Before long, the Wampanoag, who outnumbered the colonists well into the 1720s, made up half or more of whaling ship crews. Author Nathaniel Philbrick notes that "without the native population, the island would never have become a successful whaling port."
+European settlement began with a transaction that sounds like folklore but sits in the historical record. In 1659, Thomas Mayhew sold nine-tenths of his interest in the island to a group of investors led by Tristram Coffin "for the sum of thirty pounds, also two beaver hats, one for myself, and one for my wife." Nine original purchasers arrived, then took on partners, dividing the island into twenty-seven shares among thirty-one owners by 1667. They needed tradesmen -- weavers, millers, builders -- and offered half-shares to anyone who would live on Nantucket and practice their craft for at least three years. The first settlers tried farming and sheep, but overgrazing made the sandy soil even less productive. The islanders turned to the sea. Before long, the Wampanoag, who outnumbered the colonists well into the 1720s, made up half or more of whaling ship crews. Author Nathaniel Philbrick notes that "without the native population ... the island would never have become a successful whaling port."
 
 ## Empire Built on Whale Oil
 
@@ -20,7 +20,7 @@ Whaling on Nantucket started small -- seven-meter boats launched from shore, tow
 
 ## The Little Grey Lady's Many Peoples
 
-Nantucket's nickname -- "The Little Grey Lady of the Sea" -- comes from how the island appears from the ocean when wrapped in fog. But behind that monochrome image lies a remarkably diverse history. The Wampanoag maintained their community through the colonial period, though a devastating 1763 epidemic of unknown origin killed 222 of their 358 remaining members while leaving colonists unaffected. Freed African Americans established the neighborhood of New Guinea on the southwest outskirts of town in the early 18th century, building shops, churches, a school, and a dance hall. The predominantly Quaker island became part of the Underground Railroad, sheltering African Americans escaping slavery. New Guinea was also home to Hawaiian Islanders who crewed whaling ships and Wampanoag who had married into the community. Azorean Portuguese sailors arrived on what they called a "bridge of whale ships," establishing a community that thrives in the region to this day.
+Nantucket's nickname -- "The Little Grey Lady of the Sea" -- comes from how the island appears from the ocean when wrapped in fog. But behind that monochrome image lies a remarkably diverse history. The Wampanoag maintained their community through the colonial period, though a devastating 1763 epidemic of unknown origin killed 222 of their 358 remaining members while leaving colonists unaffected. Freed African Americans established the neighborhood of New Guinea on the southwest outskirts of town in the early 18th century, building shops, churches, a school, and a dance hall. The predominantly Quaker island became part of the Underground Railroad, sheltering African Americans escaping slavery. New Guinea was also home to Hawaiian Islanders who crewed whaling ships and Wampanoag who had married into the community. Azorean Portuguese sailors arrived aboard whaling ships, establishing a community that thrives in the region to this day.
 
 ## Frozen in Time
 
@@ -42,6 +42,8 @@ Nantucket Island sits at 41.2828N, 70.0994W, roughly 30 nm south of Cape Cod. Th
   - Great Fire July 13 1846 confirmed
   - Mayhew sold island to Coffin 1659 for thirty pounds plus two beaver hats confirmed
   - Andrea Doria collision 1956 51 killed confirmed
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Nantucket)
+  - Added an ellipsis to a compressed Philbrick quote and converted an unverifiable "bridge of whale ships" phrase to indirect speech.
 
 ## Review Notes
 

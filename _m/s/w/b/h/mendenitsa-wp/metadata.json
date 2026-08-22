@@ -53,5 +53,26 @@
     "sourceGeohash4": "swbh"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "swbh-mendenitsa-flight-context.mp3",
+      "swbh-mendenitsa-intro.mp3",
+      "swbh-mendenitsa-a-castle-on-the-gate.mp3",
+      "swbh-mendenitsa-a-bishop-flees-the-coast.mp3",
+      "swbh-mendenitsa-two-centuries-of-borrowed-time.mp3",
+      "swbh-mendenitsa-the-siege-that-ended-it.mp3",
+      "swbh-mendenitsa-what-the-hill-holds.mp3"
+    ],
+    "durations": {
+      "swbh-mendenitsa-flight-context.mp3": 57.4744583,
+      "swbh-mendenitsa-intro.mp3": 49.4542083,
+      "swbh-mendenitsa-a-castle-on-the-gate.mp3": 51.547875,
+      "swbh-mendenitsa-a-bishop-flees-the-coast.mp3": 51.574,
+      "swbh-mendenitsa-two-centuries-of-borrowed-time.mp3": 57.1479583,
+      "swbh-mendenitsa-the-siege-that-ended-it.mp3": 54.2795,
+      "swbh-mendenitsa-what-the-hill-holds.mp3": 52.0885833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

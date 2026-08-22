@@ -57,5 +57,24 @@
     "sourceGeohash4": "gcvy"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcvy-seton-palace-flight-context.mp3",
+      "gcvy-seton-palace-intro.mp3",
+      "gcvy-seton-palace-a-dainty-seat-placed-by-sea.mp3",
+      "gcvy-seton-palace-marys-refuge.mp3",
+      "gcvy-seton-palace-hall-of-heraldry.mp3",
+      "gcvy-seton-palace-lost-after-1715.mp3"
+    ],
+    "durations": {
+      "gcvy-seton-palace-flight-context.mp3": 42.1626666,
+      "gcvy-seton-palace-intro.mp3": 37.4180833,
+      "gcvy-seton-palace-a-dainty-seat-placed-by-sea.mp3": 64.406625,
+      "gcvy-seton-palace-marys-refuge.mp3": 77.8942916,
+      "gcvy-seton-palace-hall-of-heraldry.mp3": 76.8900833,
+      "gcvy-seton-palace-lost-after-1715.mp3": 74.4650833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

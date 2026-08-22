@@ -726,5 +726,24 @@
     "_m/w/e/c/q/junk-bay-wp/tko-south-view-201802.jpg",
     "_m/w/e/c/q/junk-bay-wp/tko-2006.jpg"
   ],
-  "updatedAt": "2026-06-29T12:26:09.951Z"
+  "updatedAt": "2026-06-29T12:26:09.951Z",
+  "narration": {
+    "files": [
+      "wecq-junk-bay-flight-context.mp3",
+      "wecq-junk-bay-intro.mp3",
+      "wecq-junk-bay-fishing-villages-to-market-town.mp3",
+      "wecq-junk-bay-the-long-work-of-filling-a-bay.mp3",
+      "wecq-junk-bay-a-city-built-for-living.mp3",
+      "wecq-junk-bay-what-the-name-carries.mp3"
+    ],
+    "durations": {
+      "wecq-junk-bay-flight-context.mp3": 47.556375,
+      "wecq-junk-bay-intro.mp3": 48.5412916,
+      "wecq-junk-bay-fishing-villages-to-market-town.mp3": 74.2147083,
+      "wecq-junk-bay-the-long-work-of-filling-a-bay.mp3": 85.8904166,
+      "wecq-junk-bay-a-city-built-for-living.mp3": 76.44375,
+      "wecq-junk-bay-what-the-name-carries.mp3": 56.384125
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

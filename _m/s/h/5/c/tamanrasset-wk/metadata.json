@@ -557,5 +557,24 @@
     "_m/s/h/5/c/tamanrasset-wk/all-shaded-but-one-tamanrasset.jpg",
     "_m/s/h/5/c/tamanrasset-wk/rocky-mountains-tamanrasset.jpg"
   ],
-  "updatedAt": "2026-06-28T18:52:47.412Z"
+  "updatedAt": "2026-06-28T18:52:47.412Z",
+  "narration": {
+    "files": [
+      "sh5c-tamanrasset-flight-context.mp3",
+      "sh5c-tamanrasset-intro.mp3",
+      "sh5c-tamanrasset-capital-of-the-hoggar.mp3",
+      "sh5c-tamanrasset-a-river-that-vanished.mp3",
+      "sh5c-tamanrasset-the-hermit-of-the-hoggar.mp3",
+      "sh5c-tamanrasset-gateway-and-threshold.mp3"
+    ],
+    "durations": {
+      "sh5c-tamanrasset-flight-context.mp3": 52.6428333,
+      "sh5c-tamanrasset-intro.mp3": 50.098125,
+      "sh5c-tamanrasset-capital-of-the-hoggar.mp3": 56.6106666,
+      "sh5c-tamanrasset-a-river-that-vanished.mp3": 48.742875,
+      "sh5c-tamanrasset-the-hermit-of-the-hoggar.mp3": 56.07675,
+      "sh5c-tamanrasset-gateway-and-threshold.mp3": 51.6107916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

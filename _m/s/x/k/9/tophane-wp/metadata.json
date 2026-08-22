@@ -546,5 +546,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-tophane-flight-context.mp3",
+      "sxk9-tophane-intro.mp3",
+      "sxk9-tophane-the-foundry-that-built-an-empire.mp3",
+      "sxk9-tophane-mosques-fountains-and-a-baroque-mosque.mp3",
+      "sxk9-tophane-a-neighborhood-of-layers.mp3",
+      "sxk9-tophane-galataport-and-what-comes-next.mp3"
+    ],
+    "durations": {
+      "sxk9-tophane-flight-context.mp3": 43.6120833,
+      "sxk9-tophane-intro.mp3": 43.4879166,
+      "sxk9-tophane-the-foundry-that-built-an-empire.mp3": 65.9085,
+      "sxk9-tophane-mosques-fountains-and-a-baroque-mosque.mp3": 77.5639166,
+      "sxk9-tophane-a-neighborhood-of-layers.mp3": 59.0051666,
+      "sxk9-tophane-galataport-and-what-comes-next.mp3": 56.7818333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -118,5 +118,24 @@
     "_m/r/n/j/5/green-hill-fort-wp/hero.jpg",
     "_m/r/j/p/k/thornton-peak-wp/thornton-peak-and-lakes.jpg"
   ],
-  "updatedAt": "2026-06-28T16:02:35.772Z"
+  "updatedAt": "2026-06-28T16:02:35.772Z",
+  "narration": {
+    "files": [
+      "rjpk-thornton-peak-flight-context.mp3",
+      "rjpk-thornton-peak-intro.mp3",
+      "rjpk-thornton-peak-wundu-the-watcher.mp3",
+      "rjpk-thornton-peak-an-island-in-the-sky.mp3",
+      "rjpk-thornton-peak-a-refuge-running-out-of-up.mp3",
+      "rjpk-thornton-peak-what-the-mountain-keeps.mp3"
+    ],
+    "durations": {
+      "rjpk-thornton-peak-flight-context.mp3": 70.80025,
+      "rjpk-thornton-peak-intro.mp3": 44.6294583,
+      "rjpk-thornton-peak-wundu-the-watcher.mp3": 62.1043333,
+      "rjpk-thornton-peak-an-island-in-the-sky.mp3": 49.3512916,
+      "rjpk-thornton-peak-a-refuge-running-out-of-up.mp3": 51.8067916,
+      "rjpk-thornton-peak-what-the-mountain-keeps.mp3": 47.12875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -73,5 +73,24 @@
     "sourceGeohash4": "rhu7"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "rhu7-normanton-flight-context.mp3",
+      "rhu7-normanton-intro.mp3",
+      "rhu7-normanton-one-shot-krys.mp3",
+      "rhu7-normanton-the-purple-pub-and-the-painted-town.mp3",
+      "rhu7-normanton-a-train-from-nowhere-to-nowhere.mp3",
+      "rhu7-normanton-the-far-north-they-reached.mp3"
+    ],
+    "durations": {
+      "rhu7-normanton-flight-context.mp3": 77.0495416,
+      "rhu7-normanton-intro.mp3": 46.8933333,
+      "rhu7-normanton-one-shot-krys.mp3": 58.0465833,
+      "rhu7-normanton-the-purple-pub-and-the-painted-town.mp3": 64.5611666,
+      "rhu7-normanton-a-train-from-nowhere-to-nowhere.mp3": 59.968375,
+      "rhu7-normanton-the-far-north-they-reached.mp3": 67.0194166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

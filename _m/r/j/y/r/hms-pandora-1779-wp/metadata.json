@@ -115,5 +115,24 @@
     "_m/r/j/y/r/hms-pandora-1779-wp/slnsw-ms-dsm999-77d1-187.jpg",
     "_m/r/j/y/r/hms-pandora-1779-wp/heywood-manuscript-newberry-li.jpg"
   ],
-  "updatedAt": "2026-06-28T16:21:14.920Z"
+  "updatedAt": "2026-06-28T16:21:14.920Z",
+  "narration": {
+    "files": [
+      "rjyr-hms-pandora-1779-flight-context.mp3",
+      "rjyr-hms-pandora-1779-intro.mp3",
+      "rjyr-hms-pandora-1779-the-hunt-for-the-bounty.mp3",
+      "rjyr-hms-pandora-1779-the-men-in-the-box.mp3",
+      "rjyr-hms-pandora-1779-the-reef-in-the-dark.mp3",
+      "rjyr-hms-pandora-1779-what-the-sea-kept.mp3"
+    ],
+    "durations": {
+      "rjyr-hms-pandora-1779-flight-context.mp3": 68.9142083,
+      "rjyr-hms-pandora-1779-intro.mp3": 46.035375,
+      "rjyr-hms-pandora-1779-the-hunt-for-the-bounty.mp3": 57.7842083,
+      "rjyr-hms-pandora-1779-the-men-in-the-box.mp3": 61.0612916,
+      "rjyr-hms-pandora-1779-the-reef-in-the-dark.mp3": 64.263375,
+      "rjyr-hms-pandora-1779-what-the-sea-kept.mp3": 74.6202916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

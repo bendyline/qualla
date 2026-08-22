@@ -267,5 +267,24 @@
     "_m/s/w/b/b/tavros-wp/train-in-tavros-athens.jpg",
     "_m/s/w/b/b/tavros-wp/fostiras-vs-apollon-smynis-202.jpg"
   ],
-  "updatedAt": "2026-06-24T20:33:00.681Z"
+  "updatedAt": "2026-06-24T20:33:00.681Z",
+  "narration": {
+    "files": [
+      "swbb-tavros-flight-context.mp3",
+      "swbb-tavros-intro.mp3",
+      "swbb-tavros-olives-and-vegetable-gardens.mp3",
+      "swbb-tavros-refugees-who-built-a-town.mp3",
+      "swbb-tavros-the-saints-they-carried.mp3",
+      "swbb-tavros-the-industrial-turn.mp3"
+    ],
+    "durations": {
+      "swbb-tavros-flight-context.mp3": 51.7661666,
+      "swbb-tavros-intro.mp3": 35.655375,
+      "swbb-tavros-olives-and-vegetable-gardens.mp3": 49.8391666,
+      "swbb-tavros-refugees-who-built-a-town.mp3": 53.866,
+      "swbb-tavros-the-saints-they-carried.mp3": 48.2709583,
+      "swbb-tavros-the-industrial-turn.mp3": 50.9545
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

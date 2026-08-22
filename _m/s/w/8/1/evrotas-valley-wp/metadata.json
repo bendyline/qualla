@@ -94,5 +94,24 @@
   ],
   "galleryPaths": [
     "_m/s/q/x/f/sparta-laconia-wp/hero.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sw81-evrotas-valley-flight-context.mp3",
+      "sw81-evrotas-valley-intro.mp3",
+      "sw81-evrotas-valley-the-river-that-made-sparta.mp3",
+      "sw81-evrotas-valley-sparta-mystras-and-the-shifting-center.mp3",
+      "sw81-evrotas-valley-oranges-olives-and-cotton.mp3",
+      "sw81-evrotas-valley-the-valley-of-fire.mp3"
+    ],
+    "durations": {
+      "sw81-evrotas-valley-flight-context.mp3": 62.96125,
+      "sw81-evrotas-valley-intro.mp3": 41.9993333,
+      "sw81-evrotas-valley-the-river-that-made-sparta.mp3": 70.511875,
+      "sw81-evrotas-valley-sparta-mystras-and-the-shifting-center.mp3": 98.8107916,
+      "sw81-evrotas-valley-oranges-olives-and-cotton.mp3": 46.18125,
+      "sw81-evrotas-valley-the-valley-of-fire.mp3": 87.017625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

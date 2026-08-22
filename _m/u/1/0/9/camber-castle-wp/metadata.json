@@ -559,5 +559,26 @@
     "_m/u/1/0/9/camber-castle-wp/boundary-stone-north-west-of-c.jpg",
     "_m/u/1/0/9/camber-castle-wp/1234738-i-camber-castle-sea-ro.jpg"
   ],
-  "updatedAt": "2026-06-25T14:54:28.662Z"
+  "updatedAt": "2026-06-25T14:54:28.662Z",
+  "narration": {
+    "files": [
+      "u109-camber-castle-flight-context.mp3",
+      "u109-camber-castle-intro.mp3",
+      "u109-camber-castle-the-kings-fortress-network.mp3",
+      "u109-camber-castle-the-sea-walks-away.mp3",
+      "u109-camber-castle-an-idea-that-did-not-happen.mp3",
+      "u109-camber-castle-the-pasture-and-the-pit.mp3",
+      "u109-camber-castle-open-again-at-last.mp3"
+    ],
+    "durations": {
+      "u109-camber-castle-flight-context.mp3": 44.7591666,
+      "u109-camber-castle-intro.mp3": 44.5488333,
+      "u109-camber-castle-the-kings-fortress-network.mp3": 70.3151666,
+      "u109-camber-castle-the-sea-walks-away.mp3": 65.54575,
+      "u109-camber-castle-an-idea-that-did-not-happen.mp3": 55.3661666,
+      "u109-camber-castle-the-pasture-and-the-pit.mp3": 52.3010416,
+      "u109-camber-castle-open-again-at-last.mp3": 62.132625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

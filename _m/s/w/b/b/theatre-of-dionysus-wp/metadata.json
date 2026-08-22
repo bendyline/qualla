@@ -659,5 +659,24 @@
     "_m/s/w/b/b/theatre-of-dionysus-wp/athens-064.jpg",
     "_m/s/w/b/b/theatre-of-dionysus-wp/atenas-teatro-de-dionisos-1.jpg"
   ],
-  "updatedAt": "2026-06-24T20:37:51.635Z"
+  "updatedAt": "2026-06-24T20:37:51.635Z",
+  "narration": {
+    "files": [
+      "swbb-theatre-of-dionysus-flight-context.mp3",
+      "swbb-theatre-of-dionysus-intro.mp3",
+      "swbb-theatre-of-dionysus-where-the-god-was-watching.mp3",
+      "swbb-theatre-of-dionysus-the-golden-age.mp3",
+      "swbb-theatre-of-dionysus-built-in-stone.mp3",
+      "swbb-theatre-of-dionysus-rome-ruin-and-rediscovery.mp3"
+    ],
+    "durations": {
+      "swbb-theatre-of-dionysus-flight-context.mp3": 39.5299583,
+      "swbb-theatre-of-dionysus-intro.mp3": 34.8474583,
+      "swbb-theatre-of-dionysus-where-the-god-was-watching.mp3": 57.0355833,
+      "swbb-theatre-of-dionysus-the-golden-age.mp3": 51.0787083,
+      "swbb-theatre-of-dionysus-built-in-stone.mp3": 45.411375,
+      "swbb-theatre-of-dionysus-rome-ruin-and-rediscovery.mp3": 50.6359166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

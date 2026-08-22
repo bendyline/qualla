@@ -59,5 +59,24 @@
     "sourceGeohash4": "wsj8"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "wsj8-fengbitou-flight-context.mp3",
+      "wsj8-fengbitou-intro.mp3",
+      "wsj8-fengbitou-a-name-that-marks-the-edge.mp3",
+      "wsj8-fengbitou-layers-beneath-the-village.mp3",
+      "wsj8-fengbitou-the-living-village-and-the-ferry-to-liuqiu.mp3",
+      "wsj8-fengbitou-five-thousand-years-in-a-corner-of-kaohsiung.mp3"
+    ],
+    "durations": {
+      "wsj8-fengbitou-flight-context.mp3": 50.3063333,
+      "wsj8-fengbitou-intro.mp3": 42.9834583,
+      "wsj8-fengbitou-a-name-that-marks-the-edge.mp3": 62.1939166,
+      "wsj8-fengbitou-layers-beneath-the-village.mp3": 68.632875,
+      "wsj8-fengbitou-the-living-village-and-the-ferry-to-liuqiu.mp3": 77.2392916,
+      "wsj8-fengbitou-five-thousand-years-in-a-corner-of-kaohsiung.mp3": 59.4135833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

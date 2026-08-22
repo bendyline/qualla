@@ -368,5 +368,24 @@
     "_m/g/c/y/j/yester-castle-wp/yester-castle-04.jpg",
     "_m/g/c/y/j/yester-castle-wp/yester-castle-05.jpg"
   ],
-  "updatedAt": "2026-06-23T16:29:14.340Z"
+  "updatedAt": "2026-06-23T16:29:14.340Z",
+  "narration": {
+    "files": [
+      "gcyj-yester-castle-flight-context.mp3",
+      "gcyj-yester-castle-intro.mp3",
+      "gcyj-yester-castle-the-wizard-of-yester.mp3",
+      "gcyj-yester-castle-the-goblin-ha.mp3",
+      "gcyj-yester-castle-the-colstoun-pear.mp3",
+      "gcyj-yester-castle-falkirk-flodden-the-rough-wooing.mp3"
+    ],
+    "durations": {
+      "gcyj-yester-castle-flight-context.mp3": 53.78925,
+      "gcyj-yester-castle-intro.mp3": 45.2379166,
+      "gcyj-yester-castle-the-wizard-of-yester.mp3": 69.2670416,
+      "gcyj-yester-castle-the-goblin-ha.mp3": 69.5595,
+      "gcyj-yester-castle-the-colstoun-pear.mp3": 69.65875,
+      "gcyj-yester-castle-falkirk-flodden-the-rough-wooing.mp3": 79.97975
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

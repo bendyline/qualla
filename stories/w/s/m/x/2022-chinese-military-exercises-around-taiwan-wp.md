@@ -28,7 +28,7 @@ China's Eastern Theater Command announced the exercises' conclusion on 10 August
 
 ## The Strait Under Pressure
 
-Japanese Foreign Minister Yoshimasa Hayashi called for the exercises to stop, warning of their 'serious impact on the peace and stability of the region.' North Korea backed China's 'righteous stand.' Russia declared that Pelosi's visit had provoked the tensions. The G7 issued a collective condemnation. In one week of military exercises, the alignment of global powers around the Taiwan question became sharply visible. The Taiwan Strait, 180 kilometers of shallow water connecting the South China Sea to the East China Sea, had once again demonstrated its capacity to concentrate the world's attention. For the people of Taiwan, the message was difficult to miss: the missiles flew over their homes.
+Japanese Foreign Minister Yoshimasa Hayashi called for the exercises to stop, warning of their 'serious impact on the peace and stability of the region.' North Korea backed China's 'righteous stand.' Russia declared that Pelosi's visit had provoked the tensions. The G7 issued a collective condemnation. In one week of military exercises, the alignment of global powers around the Taiwan question became sharply visible. The Taiwan Strait, 180 kilometers of shallow water connecting the South China Sea to the East China Sea, had once again demonstrated its capacity to concentrate the world's attention. For the people of Taiwan, the message was difficult to miss: some of those missiles had reportedly flown over the island itself.
 
 ## Flight Context
 
@@ -49,6 +49,8 @@ The exercises occurred in seven zones encircling Taiwan, centered approximately 
   - Taiwan Strait ~180km wide confirmed
   - Pelosi highest-ranking US official in 25 years confirmed
   - Third Taiwan Strait Crisis 1995-96 reference confirmed
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2022_Chinese_military_exercises_around_Taiwan)
+  - Restored the "reportedly" hedge on the closing line about missiles flying over Taiwan, matching the body's own hedged phrasing (the missile-overflight claim is attributed, not confirmed).
 
 ## Review Notes
 

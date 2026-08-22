@@ -594,5 +594,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wsmf-dongshi-district-flight-context.mp3",
+      "wsmf-dongshi-district-intro.mp3",
+      "wsmf-dongshi-district-wedged-against-the-mountains.mp3",
+      "wsmf-dongshi-district-the-hakka-enclave.mp3",
+      "wsmf-dongshi-district-pears-and-orchards.mp3",
+      "wsmf-dongshi-district-the-bicycle-greenway.mp3",
+      "wsmf-dongshi-district-a-third-largest-district-quietly-its-own.mp3"
+    ],
+    "durations": {
+      "wsmf-dongshi-district-flight-context.mp3": 51.494,
+      "wsmf-dongshi-district-intro.mp3": 33.1821666,
+      "wsmf-dongshi-district-wedged-against-the-mountains.mp3": 62.7028333,
+      "wsmf-dongshi-district-the-hakka-enclave.mp3": 68.1989166,
+      "wsmf-dongshi-district-pears-and-orchards.mp3": 61.5242083,
+      "wsmf-dongshi-district-the-bicycle-greenway.mp3": 59.7562916,
+      "wsmf-dongshi-district-a-third-largest-district-quietly-its-own.mp3": 60.5625416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

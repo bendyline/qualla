@@ -29,5 +29,26 @@
   "galleryPaths": [
     "_m/s/w/b/n/almyros-wp/archaeological-museum-of-almyr.jpg"
   ],
-  "updatedAt": "2026-06-24T08:17:44.803Z"
+  "updatedAt": "2026-06-24T08:17:44.803Z",
+  "narration": {
+    "files": [
+      "swbn-almyros-flight-context.mp3",
+      "swbn-almyros-intro.mp3",
+      "swbn-almyros-the-ghost-of-halos.mp3",
+      "swbn-almyros-the-two-halmyroi.mp3",
+      "swbn-almyros-fleets-and-merchants.mp3",
+      "swbn-almyros-oaks-swans-and-a-mountain-monastery.mp3",
+      "swbn-almyros-a-town-among-its-fields.mp3"
+    ],
+    "durations": {
+      "swbn-almyros-flight-context.mp3": 46.2836666,
+      "swbn-almyros-intro.mp3": 40.776125,
+      "swbn-almyros-the-ghost-of-halos.mp3": 50.0372916,
+      "swbn-almyros-the-two-halmyroi.mp3": 48.10275,
+      "swbn-almyros-fleets-and-merchants.mp3": 57.6760416,
+      "swbn-almyros-oaks-swans-and-a-mountain-monastery.mp3": 61.140875,
+      "swbn-almyros-a-town-among-its-fields.mp3": 59.0229166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

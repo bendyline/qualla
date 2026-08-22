@@ -90,5 +90,24 @@
   ],
   "galleryPaths": [
     "_m/s/x/k/9/battle-of-pegae-wp/hagiasma-st-mary-sourc.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-battle-of-pegae-flight-context.mp3",
+      "sxk9-battle-of-pegae-intro.mp3",
+      "sxk9-battle-of-pegae-the-ambitions-of-simeon-i.mp3",
+      "sxk9-battle-of-pegae-a-campaign-without-a-winner.mp3",
+      "sxk9-battle-of-pegae-the-first-blow-and-the-flight.mp3",
+      "sxk9-battle-of-pegae-after-the-spring.mp3"
+    ],
+    "durations": {
+      "sxk9-battle-of-pegae-flight-context.mp3": 55.3555,
+      "sxk9-battle-of-pegae-intro.mp3": 37.2704583,
+      "sxk9-battle-of-pegae-the-ambitions-of-simeon-i.mp3": 57.979375,
+      "sxk9-battle-of-pegae-a-campaign-without-a-winner.mp3": 60.0638333,
+      "sxk9-battle-of-pegae-the-first-blow-and-the-flight.mp3": 59.9497083,
+      "sxk9-battle-of-pegae-after-the-spring.mp3": 67.955
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

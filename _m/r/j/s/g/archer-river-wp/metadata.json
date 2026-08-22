@@ -88,5 +88,24 @@
   ],
   "galleryPaths": [
     "_m/r/n/j/5/green-hill-fort-wp/hero.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "rjsg-archer-river-flight-context.mp3",
+      "rjsg-archer-river-intro.mp3",
+      "rjsg-archer-river-from-range-to-gulf.mp3",
+      "rjsg-archer-river-a-river-full-of-life.mp3",
+      "rjsg-archer-river-the-crossing.mp3",
+      "rjsg-archer-river-whose-river-it-is.mp3"
+    ],
+    "durations": {
+      "rjsg-archer-river-flight-context.mp3": 65.1132083,
+      "rjsg-archer-river-intro.mp3": 51.140125,
+      "rjsg-archer-river-from-range-to-gulf.mp3": 59.3180416,
+      "rjsg-archer-river-a-river-full-of-life.mp3": 48.673125,
+      "rjsg-archer-river-the-crossing.mp3": 53.1465,
+      "rjsg-archer-river-whose-river-it-is.mp3": 45.6488333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

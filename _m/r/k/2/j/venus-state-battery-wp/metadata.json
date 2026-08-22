@@ -147,5 +147,24 @@
     "_m/r/k/2/j/venus-state-battery-wp/venus-crushing-works-c.jpg",
     "_m/r/k/2/j/venus-state-battery-wp/old-gold-mill-charters.jpg",
     "_m/r/k/2/j/venus-state-battery-wp/venus-state-battery-20.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "rk2j-venus-state-battery-flight-context.mp3",
+      "rk2j-venus-state-battery-intro.mp3",
+      "rk2j-venus-state-battery-crushing-the-worlds-gold.mp3",
+      "rk2j-venus-state-battery-the-peoples-mill.mp3",
+      "rk2j-venus-state-battery-frozen-at-the-moment-it-stopped.mp3",
+      "rk2j-venus-state-battery-walking-the-crushing-floor.mp3"
+    ],
+    "durations": {
+      "rk2j-venus-state-battery-flight-context.mp3": 60.0702916,
+      "rk2j-venus-state-battery-intro.mp3": 55.37,
+      "rk2j-venus-state-battery-crushing-the-worlds-gold.mp3": 65.6087916,
+      "rk2j-venus-state-battery-the-peoples-mill.mp3": 68.4230416,
+      "rk2j-venus-state-battery-frozen-at-the-moment-it-stopped.mp3": 64.5705416,
+      "rk2j-venus-state-battery-walking-the-crushing-floor.mp3": 61.8099166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

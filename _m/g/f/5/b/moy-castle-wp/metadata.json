@@ -730,5 +730,24 @@
     "_m/g/f/5/b/moy-castle-wp/moy-castle-geograph-org-uk-710.jpg",
     "_m/g/f/5/b/moy-castle-wp/loch-buie-mull-geograph-org-uk.jpg"
   ],
-  "updatedAt": "2026-06-23T19:45:05.427Z"
+  "updatedAt": "2026-06-23T19:45:05.427Z",
+  "narration": {
+    "files": [
+      "gf5b-moy-castle-flight-context.mp3",
+      "gf5b-moy-castle-intro.mp3",
+      "gf5b-moy-castle-the-charter-and-the-brothers.mp3",
+      "gf5b-moy-castle-tower-house-architecture.mp3",
+      "gf5b-moy-castle-captured-and-returned.mp3",
+      "gf5b-moy-castle-i-know-where-im-going.mp3"
+    ],
+    "durations": {
+      "gf5b-moy-castle-flight-context.mp3": 47.734125,
+      "gf5b-moy-castle-intro.mp3": 53.5959166,
+      "gf5b-moy-castle-the-charter-and-the-brothers.mp3": 65.539125,
+      "gf5b-moy-castle-tower-house-architecture.mp3": 58.1822916,
+      "gf5b-moy-castle-captured-and-returned.mp3": 62.218625,
+      "gf5b-moy-castle-i-know-where-im-going.mp3": 60.8937083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

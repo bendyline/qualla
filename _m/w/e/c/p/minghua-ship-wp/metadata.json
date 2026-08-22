@@ -57,5 +57,26 @@
     "sourceGeohash4": "wecp"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "wecp-minghua-ship-flight-context.mp3",
+      "wecp-minghua-ship-intro.mp3",
+      "wecp-minghua-ship-born-in-saint-nazaire-built-for-the-sea.mp3",
+      "wecp-minghua-ship-a-different-world-a-new-name.mp3",
+      "wecp-minghua-ship-the-friendship-years-down-under.mp3",
+      "wecp-minghua-ship-landlocked-in-shekou.mp3",
+      "wecp-minghua-ship-a-life-written-in-ports.mp3"
+    ],
+    "durations": {
+      "wecp-minghua-ship-flight-context.mp3": 53.4602083,
+      "wecp-minghua-ship-intro.mp3": 41.0047083,
+      "wecp-minghua-ship-born-in-saint-nazaire-built-for-the-sea.mp3": 69.3109166,
+      "wecp-minghua-ship-a-different-world-a-new-name.mp3": 72.7160833,
+      "wecp-minghua-ship-the-friendship-years-down-under.mp3": 71.9424166,
+      "wecp-minghua-ship-landlocked-in-shekou.mp3": 69.019125,
+      "wecp-minghua-ship-a-life-written-in-ports.mp3": 55.8310833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -47,5 +47,22 @@
     "sourceGeohash4": "gfks"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gfks-german-submarine-u-1109-flight-context.mp3",
+      "gfks-german-submarine-u-1109-intro.mp3",
+      "gfks-german-submarine-u-1109-engineered-to-disappear.mp3",
+      "gfks-german-submarine-u-1109-two-patrols-zero-kills.mp3",
+      "gfks-german-submarine-u-1109-operation-deadlight.mp3"
+    ],
+    "durations": {
+      "gfks-german-submarine-u-1109-flight-context.mp3": 56.9806666,
+      "gfks-german-submarine-u-1109-intro.mp3": 43.9532083,
+      "gfks-german-submarine-u-1109-engineered-to-disappear.mp3": 72.2063333,
+      "gfks-german-submarine-u-1109-two-patrols-zero-kills.mp3": 66.10025,
+      "gfks-german-submarine-u-1109-operation-deadlight.mp3": 58.0954583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

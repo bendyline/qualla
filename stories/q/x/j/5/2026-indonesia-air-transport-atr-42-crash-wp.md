@@ -24,7 +24,7 @@ Local residents near the park reported an explosion and a column of smoke rising
 
 ## Controlled Flight Into Terrain
 
-Indonesia's National Transportation Safety Committee, known by its Indonesian acronym KNKT, classified the accident as Controlled Flight Into Terrain - CFIT. The designation means the aircraft was intact and under the crew's control when it struck the mountain, a finding that points to navigational or procedural failure rather than mechanical breakdown. Sources reported that the aircraft was not on the correct flight path during its approach. Both flight recorders - the cockpit voice recorder and the flight data recorder - were recovered from the wreckage on 21 January and sent to the KNKT laboratory in Jakarta for analysis. Indonesia has a long and painful history with CFIT accidents in its mountainous terrain. In 2015, Trigana Air Flight 267, another ATR 42, crashed into a mountain in Papua, killing all 54 people aboard under similar circumstances.
+Early accounts characterized the crash as a likely Controlled Flight Into Terrain - CFIT - the scenario in which an intact aircraft under the crew's control strikes the ground, which would point to a navigational or procedural cause rather than mechanical breakdown. But Indonesia's National Transportation Safety Committee (KNKT) had not issued any final classification; its investigation remained open. Some reports said the aircraft was not on the correct flight path during its approach. Both flight recorders - the cockpit voice recorder and the flight data recorder - were recovered from the wreckage on 21 January and sent to the KNKT laboratory in Jakarta for analysis. Indonesia has a long and painful history with CFIT accidents in its mountainous terrain. In 2015, Trigana Air Flight 267, another ATR 42, crashed into a mountain in Papua, killing all 54 people aboard under similar circumstances.
 
 ## Ten Lives, One Flight
 
@@ -42,12 +42,14 @@ Crash site located at approximately 4.95S, 119.72E on Mount Bulusaraung in Banti
   - All 10 aboard killed (7 crew, 3 government passengers)
   - Operated for Directorate General of Marine and Fisheries Resources Surveillance
   - Flight from Adisutjipto Airport Yogyakarta to Sultan Hasanuddin Makassar
-  - Classified CFIT by KNKT
+  - Reported as a likely CFIT accident; KNKT investigation ongoing
   - Bantimurung-Bulusaraung National Park is ~44,000 hectares with 286 caves
   - Maros-Pangkep karst is second largest of its kind in the world
 - [Fatal ATR 42 Crash in Indonesia: CFIT Classification - AeroPeep](https://aeropeep.com/fatal-atr-42-crash-indonesia-cfit-investigation-2026/)
   - Aircraft was not on correct approach path
   - Both flight recorders recovered January 21 and sent to KNKT lab
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2026_Indonesia_Air_Transport_ATR_42_crash)
+  - Softened the CFIT / crew-fault framing to reflect that the KNKT investigation is ongoing and no final classification had been issued.
 
 ## Review Notes
 

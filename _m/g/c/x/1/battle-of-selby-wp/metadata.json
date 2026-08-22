@@ -53,5 +53,24 @@
     "sourceGeohash4": "gcx1"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "gcx1-battle-of-selby-flight-context.mp3",
+      "gcx1-battle-of-selby-intro.mp3",
+      "gcx1-battle-of-selby-winter-raids.mp3",
+      "gcx1-battle-of-selby-fairfax-and-son.mp3",
+      "gcx1-battle-of-selby-an-hour-and-a-half-on-three-roads.mp3",
+      "gcx1-battle-of-selby-the-road-to-marston-moor.mp3"
+    ],
+    "durations": {
+      "gcx1-battle-of-selby-flight-context.mp3": 54.6519166,
+      "gcx1-battle-of-selby-intro.mp3": 35.5375416,
+      "gcx1-battle-of-selby-winter-raids.mp3": 47.6042083,
+      "gcx1-battle-of-selby-fairfax-and-son.mp3": 55.947625,
+      "gcx1-battle-of-selby-an-hour-and-a-half-on-three-roads.mp3": 59.2944166,
+      "gcx1-battle-of-selby-the-road-to-marston-moor.mp3": 62.612625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

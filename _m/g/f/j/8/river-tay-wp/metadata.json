@@ -777,5 +777,26 @@
         "aerialBonus": 15
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gfj8-river-tay-flight-context.mp3",
+      "gfj8-river-tay-intro.mp3",
+      "gfj8-river-tay-five-names-before-loch-tay.mp3",
+      "gfj8-river-tay-a-river-of-salmon-and-pearls.mp3",
+      "gfj8-river-tay-the-beavers-came-back.mp3",
+      "gfj8-river-tay-the-tay-bridge-disaster.mp3",
+      "gfj8-river-tay-from-the-ferries-to-the-bridges.mp3"
+    ],
+    "durations": {
+      "gfj8-river-tay-flight-context.mp3": 49.4294583,
+      "gfj8-river-tay-intro.mp3": 48.0482916,
+      "gfj8-river-tay-five-names-before-loch-tay.mp3": 47.40125,
+      "gfj8-river-tay-a-river-of-salmon-and-pearls.mp3": 60.728625,
+      "gfj8-river-tay-the-beavers-came-back.mp3": 61.7176666,
+      "gfj8-river-tay-the-tay-bridge-disaster.mp3": 64.2858333,
+      "gfj8-river-tay-from-the-ferries-to-the-bridges.mp3": 54.451375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -113,5 +113,24 @@
   "galleryPaths": [
     "_m/s/w/6/p/thera-eruption-wk/location-map-greece.jpg",
     "_m/s/w/b/b/penteli-observatory-wp/xpol-mobile-weather-ra.png"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "swbb-penteli-observatory-flight-context.mp3",
+      "swbb-penteli-observatory-intro.mp3",
+      "swbb-penteli-observatory-fleeing-the-city-lights.mp3",
+      "swbb-penteli-observatory-the-largest-telescope-in-the-world.mp3",
+      "swbb-penteli-observatory-when-the-sky-got-too-bright.mp3",
+      "swbb-penteli-observatory-saved-by-meters.mp3"
+    ],
+    "durations": {
+      "swbb-penteli-observatory-flight-context.mp3": 48.0047083,
+      "swbb-penteli-observatory-intro.mp3": 44.9652916,
+      "swbb-penteli-observatory-fleeing-the-city-lights.mp3": 54.8608333,
+      "swbb-penteli-observatory-the-largest-telescope-in-the-world.mp3": 58.6487083,
+      "swbb-penteli-observatory-when-the-sky-got-too-bright.mp3": 58.2472083,
+      "swbb-penteli-observatory-saved-by-meters.mp3": 47.198375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

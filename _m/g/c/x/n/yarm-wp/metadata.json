@@ -743,5 +743,24 @@
     "_m/g/c/x/n/yarm-wp/davenport-road-yarm-geograph-o.jpg",
     "_m/g/c/x/n/yarm-wp/access-to-the-railway-the-mead.jpg"
   ],
-  "updatedAt": "2026-06-23T13:26:52.515Z"
+  "updatedAt": "2026-06-23T13:26:52.515Z",
+  "narration": {
+    "files": [
+      "gcxn-yarm-flight-context.mp3",
+      "gcxn-yarm-intro.mp3",
+      "gcxn-yarm-the-place-of-the-fish-pools.mp3",
+      "gcxn-yarm-bishop-skirlaws-bridge-and-the-civil-war.mp3",
+      "gcxn-yarm-the-viaduct-and-the-funfair.mp3",
+      "gcxn-yarm-tom-brown-and-the-last-battlefield-knight.mp3"
+    ],
+    "durations": {
+      "gcxn-yarm-flight-context.mp3": 53.6694583,
+      "gcxn-yarm-intro.mp3": 58.5141666,
+      "gcxn-yarm-the-place-of-the-fish-pools.mp3": 67.7835416,
+      "gcxn-yarm-bishop-skirlaws-bridge-and-the-civil-war.mp3": 57.0034583,
+      "gcxn-yarm-the-viaduct-and-the-funfair.mp3": 68.37325,
+      "gcxn-yarm-tom-brown-and-the-last-battlefield-knight.mp3": 66.475625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -617,5 +617,26 @@
         "aerialBonus": 30
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u103-de-la-warr-pavilion-flight-context.mp3",
+      "u103-de-la-warr-pavilion-intro.mp3",
+      "u103-de-la-warr-pavilion-an-earl-with-modernist-sympathies.mp3",
+      "u103-de-la-warr-pavilion-welded-steel-and-concrete.mp3",
+      "u103-de-la-warr-pavilion-wartime-and-spike-milligan.mp3",
+      "u103-de-la-warr-pavilion-restoration-as-arts-centre.mp3",
+      "u103-de-la-warr-pavilion-storm-eunice-and-survival.mp3"
+    ],
+    "durations": {
+      "u103-de-la-warr-pavilion-flight-context.mp3": 56.1286666,
+      "u103-de-la-warr-pavilion-intro.mp3": 49.4817083,
+      "u103-de-la-warr-pavilion-an-earl-with-modernist-sympathies.mp3": 74.5456666,
+      "u103-de-la-warr-pavilion-welded-steel-and-concrete.mp3": 73.2978333,
+      "u103-de-la-warr-pavilion-wartime-and-spike-milligan.mp3": 59.1872083,
+      "u103-de-la-warr-pavilion-restoration-as-arts-centre.mp3": 60.141,
+      "u103-de-la-warr-pavilion-storm-eunice-and-survival.mp3": 69.9312083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

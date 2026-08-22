@@ -86,5 +86,24 @@
   "galleryPaths": [
     "_m/r/j/q/m/princess-charlotte-bay-wp/admiralty-chart-no-2355-lizard.jpg"
   ],
-  "updatedAt": "2026-06-28T16:09:13.637Z"
+  "updatedAt": "2026-06-28T16:09:13.637Z",
+  "narration": {
+    "files": [
+      "rjqm-princess-charlotte-bay-flight-context.mp3",
+      "rjqm-princess-charlotte-bay-intro.mp3",
+      "rjqm-princess-charlotte-bay-the-underwater-pasture.mp3",
+      "rjqm-princess-charlotte-bay-sea-country.mp3",
+      "rjqm-princess-charlotte-bay-reef-and-river.mp3",
+      "rjqm-princess-charlotte-bay-the-quiet-at-the-end-of-the-road.mp3"
+    ],
+    "durations": {
+      "rjqm-princess-charlotte-bay-flight-context.mp3": 70.344875,
+      "rjqm-princess-charlotte-bay-intro.mp3": 41.522,
+      "rjqm-princess-charlotte-bay-the-underwater-pasture.mp3": 66.8755416,
+      "rjqm-princess-charlotte-bay-sea-country.mp3": 46.0575,
+      "rjqm-princess-charlotte-bay-reef-and-river.mp3": 53.394125,
+      "rjqm-princess-charlotte-bay-the-quiet-at-the-end-of-the-road.mp3": 39.9352083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

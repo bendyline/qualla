@@ -48,5 +48,24 @@
     "sourceGeohash4": "rhfv"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "rhfv-little-eva-flight-context.mp3",
+      "rhfv-little-eva-intro.mp3",
+      "rhfv-little-eva-the-storm-that-took-the-radio.mp3",
+      "rhfv-little-eva-two-who-walked-east.mp3",
+      "rhfv-little-eva-the-long-walk-west.mp3",
+      "rhfv-little-eva-five-months-alone.mp3"
+    ],
+    "durations": {
+      "rhfv-little-eva-flight-context.mp3": 56.15625,
+      "rhfv-little-eva-intro.mp3": 37.3127083,
+      "rhfv-little-eva-the-storm-that-took-the-radio.mp3": 49.4876666,
+      "rhfv-little-eva-two-who-walked-east.mp3": 48.602375,
+      "rhfv-little-eva-the-long-walk-west.mp3": 52.278125,
+      "rhfv-little-eva-five-months-alone.mp3": 60.1339166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

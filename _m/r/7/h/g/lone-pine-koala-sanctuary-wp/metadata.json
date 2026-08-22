@@ -321,5 +321,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "r7hg-lone-pine-koala-sanctuary-flight-context.mp3",
+      "r7hg-lone-pine-koala-sanctuary-intro.mp3",
+      "r7hg-lone-pine-koala-sanctuary-the-lone-pine.mp3",
+      "r7hg-lone-pine-koala-sanctuary-a-sanctuary-grows.mp3",
+      "r7hg-lone-pine-koala-sanctuary-the-question-of-holding.mp3",
+      "r7hg-lone-pine-koala-sanctuary-science-beneath-the-eucalyptus.mp3"
+    ],
+    "durations": {
+      "r7hg-lone-pine-koala-sanctuary-flight-context.mp3": 58.7652083,
+      "r7hg-lone-pine-koala-sanctuary-intro.mp3": 51.0645416,
+      "r7hg-lone-pine-koala-sanctuary-the-lone-pine.mp3": 42.2904166,
+      "r7hg-lone-pine-koala-sanctuary-a-sanctuary-grows.mp3": 66.5415416,
+      "r7hg-lone-pine-koala-sanctuary-the-question-of-holding.mp3": 54.0936666,
+      "r7hg-lone-pine-koala-sanctuary-science-beneath-the-eucalyptus.mp3": 53.165375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

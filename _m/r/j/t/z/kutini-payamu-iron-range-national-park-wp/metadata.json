@@ -248,5 +248,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "rjtz-kutini-payamu-iron-range-national-park-flight-context.mp3",
+      "rjtz-kutini-payamu-iron-range-national-park-intro.mp3",
+      "rjtz-kutini-payamu-iron-range-national-park-a-fragment-of-new-guinea.mp3",
+      "rjtz-kutini-payamu-iron-range-national-park-kutini-and-payamu.mp3",
+      "rjtz-kutini-payamu-iron-range-national-park-runways-in-the-jungle.mp3",
+      "rjtz-kutini-payamu-iron-range-national-park-birds-at-the-edge-of-the-map.mp3"
+    ],
+    "durations": {
+      "rjtz-kutini-payamu-iron-range-national-park-flight-context.mp3": 64.7904166,
+      "rjtz-kutini-payamu-iron-range-national-park-intro.mp3": 51.3290416,
+      "rjtz-kutini-payamu-iron-range-national-park-a-fragment-of-new-guinea.mp3": 55.408875,
+      "rjtz-kutini-payamu-iron-range-national-park-kutini-and-payamu.mp3": 44.6794166,
+      "rjtz-kutini-payamu-iron-range-national-park-runways-in-the-jungle.mp3": 51.6087916,
+      "rjtz-kutini-payamu-iron-range-national-park-birds-at-the-edge-of-the-map.mp3": 48.5594166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

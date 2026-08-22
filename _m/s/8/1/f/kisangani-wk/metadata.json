@@ -777,5 +777,24 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "s81f-kisangani-flight-context.mp3",
+      "s81f-kisangani-intro.mp3",
+      "s81f-kisangani-the-men-on-the-tripods.mp3",
+      "s81f-kisangani-stanleys-falls.mp3",
+      "s81f-kisangani-years-of-fire.mp3",
+      "s81f-kisangani-the-quiet-after.mp3"
+    ],
+    "durations": {
+      "s81f-kisangani-flight-context.mp3": 61.422,
+      "s81f-kisangani-intro.mp3": 50.7184166,
+      "s81f-kisangani-the-men-on-the-tripods.mp3": 56.2954166,
+      "s81f-kisangani-stanleys-falls.mp3": 58.5613333,
+      "s81f-kisangani-years-of-fire.mp3": 72.7915833,
+      "s81f-kisangani-the-quiet-after.mp3": 55.1907083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

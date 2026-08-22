@@ -657,5 +657,24 @@
     "_m/g/c/x/p/seaham-wp/a-wet-morning-at-seaham-geogra.jpg",
     "_m/g/c/x/p/seaham-wp/a182-eastbound-nears-dawdon-ge.jpg"
   ],
-  "updatedAt": "2026-06-23T13:28:33.972Z"
+  "updatedAt": "2026-06-23T13:28:33.972Z",
+  "narration": {
+    "files": [
+      "gcxp-seaham-flight-context.mp3",
+      "gcxp-seaham-intro.mp3",
+      "gcxp-seaham-byrons-winter-and-adas-beginning.mp3",
+      "gcxp-seaham-the-marquess-and-the-harbour.mp3",
+      "gcxp-seaham-sea-glass-and-the-pits.mp3",
+      "gcxp-seaham-tommy-on-the-seafront.mp3"
+    ],
+    "durations": {
+      "gcxp-seaham-flight-context.mp3": 54.2944166,
+      "gcxp-seaham-intro.mp3": 49.5935833,
+      "gcxp-seaham-byrons-winter-and-adas-beginning.mp3": 74.7637916,
+      "gcxp-seaham-the-marquess-and-the-harbour.mp3": 66.4937083,
+      "gcxp-seaham-sea-glass-and-the-pits.mp3": 83.321625,
+      "gcxp-seaham-tommy-on-the-seafront.mp3": 81.070375
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

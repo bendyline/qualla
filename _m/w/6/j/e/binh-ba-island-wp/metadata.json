@@ -53,5 +53,24 @@
     "sourceGeohash4": "w6je"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "w6je-b-nh-ba-island-flight-context.mp3",
+      "w6je-b-nh-ba-island-intro.mp3",
+      "w6je-b-nh-ba-island-an-island-in-the-bay.mp3",
+      "w6je-b-nh-ba-island-the-lobster-island.mp3",
+      "w6je-b-nh-ba-island-settlers-from-the-north.mp3",
+      "w6je-b-nh-ba-island-waters-edge.mp3"
+    ],
+    "durations": {
+      "w6je-b-nh-ba-island-flight-context.mp3": 46.836625,
+      "w6je-b-nh-ba-island-intro.mp3": 45.1088333,
+      "w6je-b-nh-ba-island-an-island-in-the-bay.mp3": 68.756625,
+      "w6je-b-nh-ba-island-the-lobster-island.mp3": 52.781625,
+      "w6je-b-nh-ba-island-settlers-from-the-north.mp3": 51.3770833,
+      "w6je-b-nh-ba-island-waters-edge.mp3": 54.7489583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -110,5 +110,24 @@
   "galleryPaths": [
     "_m/s/x/5/q/sarkoy-district-wk/sarkoy-zeytini.jpg",
     "_m/s/x/5/q/sarkoy-district-wk/kutman-wine-museum-kut.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sx5q-ark-y-district-flight-context.mp3",
+      "sx5q-ark-y-district-intro.mp3",
+      "sx5q-ark-y-district-the-shape-of-the-coast.mp3",
+      "sx5q-ark-y-district-layers-of-settlement.mp3",
+      "sx5q-ark-y-district-wine-country-turkish-style.mp3",
+      "sx5q-ark-y-district-life-along-the-shore.mp3"
+    ],
+    "durations": {
+      "sx5q-ark-y-district-flight-context.mp3": 55.5984583,
+      "sx5q-ark-y-district-intro.mp3": 44.982125,
+      "sx5q-ark-y-district-the-shape-of-the-coast.mp3": 68.583625,
+      "sx5q-ark-y-district-layers-of-settlement.mp3": 74.927625,
+      "sx5q-ark-y-district-wine-country-turkish-style.mp3": 73.9170416,
+      "sx5q-ark-y-district-life-along-the-shore.mp3": 75.619875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

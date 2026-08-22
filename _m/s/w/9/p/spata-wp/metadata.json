@@ -529,5 +529,24 @@
     "_m/s/w/9/p/spata-wp/gymnasio-spaton.jpg",
     "_m/s/w/9/p/spata-wp/wellspatasquare.jpg"
   ],
-  "updatedAt": "2026-06-24T16:04:07.874Z"
+  "updatedAt": "2026-06-24T16:04:07.874Z",
+  "narration": {
+    "files": [
+      "sw9p-spata-flight-context.mp3",
+      "sw9p-spata-intro.mp3",
+      "sw9p-spata-the-mesogeia-plain.mp3",
+      "sw9p-spata-deep-time-the-mycenaean-past.mp3",
+      "sw9p-spata-an-albanian-clan-and-a-byzantine-feast.mp3",
+      "sw9p-spata-the-airport-and-the-new-spata.mp3"
+    ],
+    "durations": {
+      "sw9p-spata-flight-context.mp3": 51.9535833,
+      "sw9p-spata-intro.mp3": 37.4604583,
+      "sw9p-spata-the-mesogeia-plain.mp3": 59.0963333,
+      "sw9p-spata-deep-time-the-mycenaean-past.mp3": 61.152,
+      "sw9p-spata-an-albanian-clan-and-a-byzantine-feast.mp3": 57.7232083,
+      "sw9p-spata-the-airport-and-the-new-spata.mp3": 60.3445833
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

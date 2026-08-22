@@ -51,5 +51,24 @@
     "sourceGeohash4": "qf0v"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "qf0v-baxter-cliffs-flight-context.mp3",
+      "qf0v-baxter-cliffs-intro.mp3",
+      "qf0v-baxter-cliffs-the-edge-of-the-bight.mp3",
+      "qf0v-baxter-cliffs-a-name-carried-from-the-crossing.mp3",
+      "qf0v-baxter-cliffs-the-two-who-walked-on.mp3",
+      "qf0v-baxter-cliffs-reading-the-country-today.mp3"
+    ],
+    "durations": {
+      "qf0v-baxter-cliffs-flight-context.mp3": 66.3962916,
+      "qf0v-baxter-cliffs-intro.mp3": 47.3552083,
+      "qf0v-baxter-cliffs-the-edge-of-the-bight.mp3": 54.2699583,
+      "qf0v-baxter-cliffs-a-name-carried-from-the-crossing.mp3": 45.54625,
+      "qf0v-baxter-cliffs-the-two-who-walked-on.mp3": 55.86975,
+      "qf0v-baxter-cliffs-reading-the-country-today.mp3": 44.7130416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

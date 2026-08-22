@@ -112,5 +112,26 @@
     "_m/s/w/6/p/thera-eruption-wk/location-map-greece.jpg",
     "_m/s/w/b/7/abae-wp/abae-location.jpg"
   ],
-  "updatedAt": "2026-06-24T16:59:48.345Z"
+  "updatedAt": "2026-06-24T16:59:48.345Z",
+  "narration": {
+    "files": [
+      "swb7-abae-flight-context.mp3",
+      "swb7-abae-intro.mp3",
+      "swb7-abae-a-sanctuary-before-history.mp3",
+      "swb7-abae-the-persian-burning.mp3",
+      "swb7-abae-burned-again.mp3",
+      "swb7-abae-the-rediscovery-at-kalapodi.mp3",
+      "swb7-abae-what-the-oracle-was.mp3"
+    ],
+    "durations": {
+      "swb7-abae-flight-context.mp3": 51.8139166,
+      "swb7-abae-intro.mp3": 55.0193333,
+      "swb7-abae-a-sanctuary-before-history.mp3": 60.3196666,
+      "swb7-abae-the-persian-burning.mp3": 49.3611666,
+      "swb7-abae-burned-again.mp3": 60.0325833,
+      "swb7-abae-the-rediscovery-at-kalapodi.mp3": 67.356625,
+      "swb7-abae-what-the-oracle-was.mp3": 66.1569583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

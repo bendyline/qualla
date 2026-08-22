@@ -64,5 +64,24 @@
     "sourceGeohash4": "u180"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "u180-humber-forts-flight-context.mp3",
+      "u180-humber-forts-intro.mp3",
+      "u180-humber-forts-built-against-an-invisible-enemy.mp3",
+      "u180-humber-forts-the-war-that-came-later.mp3",
+      "u180-humber-forts-for-sale-one-sea-fort.mp3",
+      "u180-humber-forts-what-remains.mp3"
+    ],
+    "durations": {
+      "u180-humber-forts-flight-context.mp3": 51.6415833,
+      "u180-humber-forts-intro.mp3": 40.0505833,
+      "u180-humber-forts-built-against-an-invisible-enemy.mp3": 61.5920416,
+      "u180-humber-forts-the-war-that-came-later.mp3": 46.2873333,
+      "u180-humber-forts-for-sale-one-sea-fort.mp3": 54.3090833,
+      "u180-humber-forts-what-remains.mp3": 51.825875
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

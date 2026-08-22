@@ -544,5 +544,24 @@
     "_m/u/1/2/m/brancaster-wp/a149-at-brancaster-geograph-or.jpg",
     "_m/u/1/2/m/brancaster-wp/a149-brancaster-geograph-org-u-1.jpg"
   ],
-  "updatedAt": "2026-06-25T23:25:51.172Z"
+  "updatedAt": "2026-06-25T23:25:51.172Z",
+  "narration": {
+    "files": [
+      "u12m-brancaster-flight-context.mp3",
+      "u12m-brancaster-intro.mp3",
+      "u12m-brancaster-branodunum-on-the-saxon-shore.mp3",
+      "u12m-brancaster-the-tidal-course.mp3",
+      "u12m-brancaster-coast-path-and-petrified-forest.mp3",
+      "u12m-brancaster-holkham-sands-and-boltons-nephews.mp3"
+    ],
+    "durations": {
+      "u12m-brancaster-flight-context.mp3": 48.5767083,
+      "u12m-brancaster-intro.mp3": 37.552375,
+      "u12m-brancaster-branodunum-on-the-saxon-shore.mp3": 56.9976666,
+      "u12m-brancaster-the-tidal-course.mp3": 58.6767916,
+      "u12m-brancaster-coast-path-and-petrified-forest.mp3": 52.1752916,
+      "u12m-brancaster-holkham-sands-and-boltons-nephews.mp3": 62.3982916
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

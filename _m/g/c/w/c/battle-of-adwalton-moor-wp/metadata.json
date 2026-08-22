@@ -92,5 +92,26 @@
   ],
   "galleryPaths": [
     "_m/g/c/w/c/battle-of-adwalton-moor-wp/relief-map-west-yorksh.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "gcwc-battle-of-adwalton-moor-flight-context.mp3",
+      "gcwc-battle-of-adwalton-moor-intro.mp3",
+      "gcwc-battle-of-adwalton-moor-the-yorkshire-campaign.mp3",
+      "gcwc-battle-of-adwalton-moor-the-battle-on-the-old-roman-road.mp3",
+      "gcwc-battle-of-adwalton-moor-the-dead-and-the-captured.mp3",
+      "gcwc-battle-of-adwalton-moor-the-long-consequence.mp3",
+      "gcwc-battle-of-adwalton-moor-what-remains-at-adwalton.mp3"
+    ],
+    "durations": {
+      "gcwc-battle-of-adwalton-moor-flight-context.mp3": 51.3900833,
+      "gcwc-battle-of-adwalton-moor-intro.mp3": 43.7635833,
+      "gcwc-battle-of-adwalton-moor-the-yorkshire-campaign.mp3": 56.9739166,
+      "gcwc-battle-of-adwalton-moor-the-battle-on-the-old-roman-road.mp3": 62.89725,
+      "gcwc-battle-of-adwalton-moor-the-dead-and-the-captured.mp3": 54.394125,
+      "gcwc-battle-of-adwalton-moor-the-long-consequence.mp3": 62.1869166,
+      "gcwc-battle-of-adwalton-moor-what-remains-at-adwalton.mp3": 57.8314166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

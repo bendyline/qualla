@@ -61,5 +61,24 @@
     "sourceGeohash4": "sxmc"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sxmc-battle-of-mount-scorobas-flight-context.mp3",
+      "sxmc-battle-of-mount-scorobas-intro.mp3",
+      "sxmc-battle-of-mount-scorobas-a-war-built-on-grievance.mp3",
+      "sxmc-battle-of-mount-scorobas-flight-and-capture.mp3",
+      "sxmc-battle-of-mount-scorobas-death-in-the-theater-of-dionysus.mp3",
+      "sxmc-battle-of-mount-scorobas-a-hillside-forgotten-a-story-that-lasted.mp3"
+    ],
+    "durations": {
+      "sxmc-battle-of-mount-scorobas-flight-context.mp3": 50.3792916,
+      "sxmc-battle-of-mount-scorobas-intro.mp3": 35.4367916,
+      "sxmc-battle-of-mount-scorobas-a-war-built-on-grievance.mp3": 59.2324583,
+      "sxmc-battle-of-mount-scorobas-flight-and-capture.mp3": 47.7562083,
+      "sxmc-battle-of-mount-scorobas-death-in-the-theater-of-dionysus.mp3": 62.0975416,
+      "sxmc-battle-of-mount-scorobas-a-hillside-forgotten-a-story-that-lasted.mp3": 58.3769166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

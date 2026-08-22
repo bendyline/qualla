@@ -1,6 +1,6 @@
 # Vitória School Attack
 
-A planned massacre at a Vitória middle school on August 19, 2022, stopped cold by staff who chose to confront the attacker.
+A planned attack on a Vitória middle school on August 19, 2022, stopped cold by staff who chose to confront the attacker.
 
 **Location:** -20.2815, -40.2965
 
@@ -24,7 +24,7 @@ Trad had been working on this day for three years. He began planning in 2019 aft
 
 ## The Courts, the Connections
 
-Trad was arrested for attempted murder. In May 2023, one attempted murder charge was downgraded to unlawful restraint after Trad claimed during proceedings that his true intent had been to provoke police into killing him - a scenario known as suicide by cop - rather than actually murder anyone. Court-appointed psychiatrists found him criminally sane, aware of the consequences of his actions. His father was separately charged with procedural fraud after he destroyed Trad's cell phone in front of a police station hours after the attack. As of late 2025, Trad had not yet been tried. He was being held at the Rodrigo Figueiredo da Rosa Penitentiary Complex, facing a possible sentence of more than 50 years if convicted. One month after his failed attack, a 14-year-old named only by his initials I.S.C. attacked a school in Barreiras, Bahia, killing one girl before being shot and wounded by police. Investigators later discovered I.S.C. and Trad had been talking on Discord for a year.
+Trad was arrested for attempted murder. In May 2023, one attempted murder charge was downgraded to unlawful restraint after Trad claimed during proceedings that his true intent had been to provoke police into killing him - a scenario known as suicide by cop - rather than actually murder anyone. Court-appointed psychiatrists found him criminally sane, aware of the consequences of his actions. His father was separately charged with procedural fraud after he destroyed Trad's cell phone in front of a police station hours after the attack, though prosecutors in Espírito Santo did not pursue the complaint, citing insufficient evidence for a conviction. As of late 2025, Trad had not yet been tried. He was being held at the Rodrigo Figueiredo da Rosa Penitentiary Complex, facing a possible sentence of more than 50 years if convicted. One month after his failed attack, a 14-year-old named only by his initials I.S.C. attacked a school in Barreiras, Bahia, killing one girl before being shot and wounded by police. Investigators later discovered I.S.C. and Trad had been talking on Discord for a year.
 
 ## A Pattern, Not an Isolated Event
 
@@ -49,6 +49,8 @@ The school attack site is in Jardim da Penha, a neighborhood on Vitória island 
 - [Suzano Massacre - Wikipedia](https://en.wikipedia.org/wiki/Suzano_massacre)
   - Suzano massacre occurred March 13 2019 confirmed
   - Seven killed at the school (5 students + 2 staff) confirmed
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/Vit%C3%B3ria_school_attack)
+  - Added that prosecutors did not pursue the father's fraud charge (insufficient evidence); softened "planned massacre" to "planned attack" for the untried defendant.
 
 ## Review Notes
 

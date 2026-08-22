@@ -544,5 +544,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "wecn-british-hong-kong-flight-context.mp3",
+      "wecn-british-hong-kong-intro.mp3",
+      "wecn-british-hong-kong-opium-treaties-and-the-island-nobody-wanted.mp3",
+      "wecn-british-hong-kong-the-city-built-by-the-people-the-colony-exploited.mp3",
+      "wecn-british-hong-kong-black-christmas-and-the-occupation-that-changed-ev.mp3",
+      "wecn-british-hong-kong-east-meets-west-and-neither-fully-wins.mp3",
+      "wecn-british-hong-kong-the-handover-and-the-fifty-year-wager.mp3"
+    ],
+    "durations": {
+      "wecn-british-hong-kong-flight-context.mp3": 58.3537916,
+      "wecn-british-hong-kong-intro.mp3": 56.3876666,
+      "wecn-british-hong-kong-opium-treaties-and-the-island-nobody-wanted.mp3": 75.4460416,
+      "wecn-british-hong-kong-the-city-built-by-the-people-the-colony-exploited.mp3": 71.083125,
+      "wecn-british-hong-kong-black-christmas-and-the-occupation-that-changed-ev.mp3": 81.484125,
+      "wecn-british-hong-kong-east-meets-west-and-neither-fully-wins.mp3": 78.4925833,
+      "wecn-british-hong-kong-the-handover-and-the-fifty-year-wager.mp3": 61.1411666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

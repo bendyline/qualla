@@ -65,5 +65,24 @@
     "sourceGeohash4": "ws0e"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "ws0e-battle-of-canton-1856-flight-context.mp3",
+      "ws0e-battle-of-canton-1856-intro.mp3",
+      "ws0e-battle-of-canton-1856-the-pretexts-of-empire.mp3",
+      "ws0e-battle-of-canton-1856-ships-on-the-pearl-river.mp3",
+      "ws0e-battle-of-canton-1856-the-city-under-bombardment.mp3",
+      "ws0e-battle-of-canton-1856-the-opening-of-a-longer-war.mp3"
+    ],
+    "durations": {
+      "ws0e-battle-of-canton-1856-flight-context.mp3": 51.0151666,
+      "ws0e-battle-of-canton-1856-intro.mp3": 27.4273333,
+      "ws0e-battle-of-canton-1856-the-pretexts-of-empire.mp3": 55.0026666,
+      "ws0e-battle-of-canton-1856-ships-on-the-pearl-river.mp3": 69.2274166,
+      "ws0e-battle-of-canton-1856-the-city-under-bombardment.mp3": 58.55275,
+      "ws0e-battle-of-canton-1856-the-opening-of-a-longer-war.mp3": 65.486
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

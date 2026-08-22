@@ -84,5 +84,24 @@
   "galleryPaths": [
     "_m/s/w/c/1/helios-airways-flight-522-wp/helios522.png"
   ],
-  "updatedAt": "2026-06-24T21:45:52.593Z"
+  "updatedAt": "2026-06-24T21:45:52.593Z",
+  "narration": {
+    "files": [
+      "swc1-helios-airways-flight-522-flight-context.mp3",
+      "swc1-helios-airways-flight-522-intro.mp3",
+      "swc1-helios-airways-flight-522-the-people-aboard.mp3",
+      "swc1-helios-airways-flight-522-the-switch-and-the-silence.mp3",
+      "swc1-helios-airways-flight-522-the-man-who-tried.mp3",
+      "swc1-helios-airways-flight-522-what-was-left-behind.mp3"
+    ],
+    "durations": {
+      "swc1-helios-airways-flight-522-flight-context.mp3": 43.7314166,
+      "swc1-helios-airways-flight-522-intro.mp3": 49.3440833,
+      "swc1-helios-airways-flight-522-the-people-aboard.mp3": 57.514875,
+      "swc1-helios-airways-flight-522-the-switch-and-the-silence.mp3": 62.5785833,
+      "swc1-helios-airways-flight-522-the-man-who-tried.mp3": 54.5413333,
+      "swc1-helios-airways-flight-522-what-was-left-behind.mp3": 52.5381666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

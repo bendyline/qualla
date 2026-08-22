@@ -522,5 +522,24 @@
     "_m/g/c/w/c/sandal-castle-wp/sandal-castle-14-geograph-org-.jpg",
     "_m/g/c/w/c/sandal-castle-wp/sandal-castle-15-geograph-org-.jpg"
   ],
-  "updatedAt": "2026-06-23T07:45:32.548Z"
+  "updatedAt": "2026-06-23T07:45:32.548Z",
+  "narration": {
+    "files": [
+      "gcwc-sandal-castle-flight-context.mp3",
+      "gcwc-sandal-castle-intro.mp3",
+      "gcwc-sandal-castle-the-warennes-stone.mp3",
+      "gcwc-sandal-castle-battle-of-wakefield.mp3",
+      "gcwc-sandal-castle-richard-iii-and-the-civil-war.mp3",
+      "gcwc-sandal-castle-walking-the-motte.mp3"
+    ],
+    "durations": {
+      "gcwc-sandal-castle-flight-context.mp3": 44.767125,
+      "gcwc-sandal-castle-intro.mp3": 42.033875,
+      "gcwc-sandal-castle-the-warennes-stone.mp3": 78.120125,
+      "gcwc-sandal-castle-battle-of-wakefield.mp3": 82.801375,
+      "gcwc-sandal-castle-richard-iii-and-the-civil-war.mp3": 79.139625,
+      "gcwc-sandal-castle-walking-the-motte.mp3": 91.770625
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -24,7 +24,7 @@ The aftermath moved swiftly. Twenty-seven people were arrested in the immediate 
 
 ## Beneath the Surface
 
-The government commissioned a Committee of Inquiry to investigate the riot, but the questions it raised extended far beyond a single night of violence. Singapore depends heavily on foreign labour. Hundreds of thousands of workers from India, Bangladesh, and other South Asian countries build the city-state's towers, lay its roads, and maintain its infrastructure, often living in crowded dormitories on the island's periphery. The riot forced a public conversation about working conditions, income inequality, and the social isolation of the migrant workforce. One moment from the night offered a counterpoint to the destruction: video footage captured a man stepping into the chaos and urging rioters to stop. Thangaval Govindarasu, a 38-year-old worker from Tamil Nadu, came forward after media appeals to identify him, a reminder that courage and decency existed alongside the anger.
+The government commissioned a Committee of Inquiry to investigate the riot, but the questions it raised extended far beyond a single night of violence. Singapore depends heavily on foreign labour. Hundreds of thousands of workers from India, Bangladesh, and other South Asian countries build the city-state's towers, lay its roads, and maintain its infrastructure, often living in crowded dormitories on the island's periphery. The riot forced a public conversation about working conditions, income inequality, and the social isolation of the migrant workforce. One moment from the night offered a counterpoint to the destruction: video footage captured a man stepping into the chaos and urging rioters to stop -- a reminder that courage and decency existed alongside the anger. The man was never identified; a worker who came forward after media appeals later acknowledged he was not the person in the footage.
 
 ## A Scar on the Street Corner
 
@@ -48,6 +48,8 @@ Located at 1.308N, 103.851E in Singapore's Little India district, on the north s
   - Liquor Control Act 2015 banning public alcohol after 10:30PM confirmed
   - Rum raisin ice cream provision lifted 2019 confirmed
   - Gurkha Contingent deployed confirmed
+- [Review — 2026-07-13](https://en.wikipedia.org/wiki/2013_Little_India_riot)
+  - Removed the false attribution of the on-camera "urging rioters to stop" moment to a named living worker (Thangaval Govindarasu), who came forward but later acknowledged he was not the man in the footage; the man was never identified.
 
 ## Review Notes
 

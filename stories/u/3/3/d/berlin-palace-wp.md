@@ -37,6 +37,22 @@ The reconstructed palace stands at 52.518°N, 13.403°E on the eastern end of Mu
 ## Sources
 
 - [Berlin Palace - Wikipedia](https://en.wikipedia.org/?curid=433175)
+- [Berlin Palace - Wikipedia](https://en.wikipedia.org/?curid=433175)
+  - 1950 demolition ordered by Walter Ulbricht took 4 months and 19 tons of dynamite; foundations date to 1443 under Frederick II 'Irontooth'
+  - Palace of the Republic built 1973-1976 under Honecker, demolished after 2003 parliamentary vote over asbestos
+  - Franco Stella's €590 million reconstruction ran 2013-2020; cross installed on the dome 29 May 2020; last of 19 balustrade statues installed June 2025
+
+## Review Notes
+
+**Reviewed:** 2026-08-06 · 6 facts verified · 0 corrections
+
+Verified 1950 demolition figures, 1443 foundation date, Palace of the Republic construction/demolition, and 2013-2020 reconstruction cost/dates including 2025 statue completion via Wikipedia. All confirmed. Added verification source and editorial field (spiciness 2).
+
+**Spiciness:** 2/5
+
+**Strong opinions:**
+
+- "Critics called it a Disney pastiche; advocates argued that the historic ensemble of Museum Island made no sense without the palace's mass to balance it" — presents the reconstruction controversy without taking a side
 
 ---
 

@@ -59,5 +59,24 @@
     "sourceGeohash4": "rjv3"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "rjv3-moreton-telegraph-station-flight-context.mp3",
+      "rjv3-moreton-telegraph-station-intro.mp3",
+      "rjv3-moreton-telegraph-station-the-singing-wire.mp3",
+      "rjv3-moreton-telegraph-station-the-end-of-the-line.mp3",
+      "rjv3-moreton-telegraph-station-a-fortress-on-the-wenlock.mp3",
+      "rjv3-moreton-telegraph-station-silence-on-the-line.mp3"
+    ],
+    "durations": {
+      "rjv3-moreton-telegraph-station-flight-context.mp3": 57.727875,
+      "rjv3-moreton-telegraph-station-intro.mp3": 49.9405416,
+      "rjv3-moreton-telegraph-station-the-singing-wire.mp3": 48.5090833,
+      "rjv3-moreton-telegraph-station-the-end-of-the-line.mp3": 54.0530416,
+      "rjv3-moreton-telegraph-station-a-fortress-on-the-wenlock.mp3": 49.7325416,
+      "rjv3-moreton-telegraph-station-silence-on-the-line.mp3": 47.1216666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -150,5 +150,26 @@
     "_m/u/1/0/q/battle-of-maldon-wp/byrhtnoth-statue-maldo.jpg",
     "_m/u/1/0/q/battle-of-maldon-wp/northey-island.jpg",
     "_m/g/c/p/v/london-wp/england-relief-location-map.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "u10q-battle-of-maldon-flight-context.mp3",
+      "u10q-battle-of-maldon-intro.mp3",
+      "u10q-battle-of-maldon-the-causeway-at-northey-island.mp3",
+      "u10q-battle-of-maldon-the-bridge-and-the-three-defenders.mp3",
+      "u10q-battle-of-maldon-the-battle-and-the-betrayal.mp3",
+      "u10q-battle-of-maldon-the-lost-manuscript.mp3",
+      "u10q-battle-of-maldon-what-maldon-means.mp3"
+    ],
+    "durations": {
+      "u10q-battle-of-maldon-flight-context.mp3": 58.8662916,
+      "u10q-battle-of-maldon-intro.mp3": 55.6713333,
+      "u10q-battle-of-maldon-the-causeway-at-northey-island.mp3": 54.5621666,
+      "u10q-battle-of-maldon-the-bridge-and-the-three-defenders.mp3": 78.6776666,
+      "u10q-battle-of-maldon-the-battle-and-the-betrayal.mp3": 61.4775833,
+      "u10q-battle-of-maldon-the-lost-manuscript.mp3": 70.4582916,
+      "u10q-battle-of-maldon-what-maldon-means.mp3": 66.2994583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

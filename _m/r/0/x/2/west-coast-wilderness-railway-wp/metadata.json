@@ -529,5 +529,24 @@
     "_m/r/0/x/2/west-coast-wilderness-railway-wp/fallen-iron-bridge-on-abt-rail.jpg",
     "_m/r/0/x/2/west-coast-wilderness-railway-wp/baclonny-carriage-views.jpg"
   ],
-  "updatedAt": "2026-06-28T00:02:37.998Z"
+  "updatedAt": "2026-06-28T00:02:37.998Z",
+  "narration": {
+    "files": [
+      "r0x2-west-coast-wilderness-railway-flight-context.mp3",
+      "r0x2-west-coast-wilderness-railway-intro.mp3",
+      "r0x2-west-coast-wilderness-railway-copper-made-the-line.mp3",
+      "r0x2-west-coast-wilderness-railway-the-king-river-gorge.mp3",
+      "r0x2-west-coast-wilderness-railway-closure-and-rebirth.mp3",
+      "r0x2-west-coast-wilderness-railway-riding-the-rebuilt-line.mp3"
+    ],
+    "durations": {
+      "r0x2-west-coast-wilderness-railway-flight-context.mp3": 67.1944166,
+      "r0x2-west-coast-wilderness-railway-intro.mp3": 51.7135833,
+      "r0x2-west-coast-wilderness-railway-copper-made-the-line.mp3": 49.437375,
+      "r0x2-west-coast-wilderness-railway-the-king-river-gorge.mp3": 53.0155,
+      "r0x2-west-coast-wilderness-railway-closure-and-rebirth.mp3": 52.4778333,
+      "r0x2-west-coast-wilderness-railway-riding-the-rebuilt-line.mp3": 57.6989166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

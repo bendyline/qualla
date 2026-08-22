@@ -159,5 +159,24 @@
     "_m/e/d/e/e/dakar-wp/africa-relief-location-map.jpg",
     "_m/k/e/q/1/lobamba-wp/his-majesty-king-mswat.jpg",
     "_m/k/e/q/1/lobamba-wp/mlilwane-wildlife-sanc.jpg"
-  ]
+  ],
+  "narration": {
+    "files": [
+      "keq1-lobamba-flight-context.mp3",
+      "keq1-lobamba-intro.mp3",
+      "keq1-lobamba-the-valley-of-heaven.mp3",
+      "keq1-lobamba-where-the-crown-resides.mp3",
+      "keq1-lobamba-reed-dance-and-kingship.mp3",
+      "keq1-lobamba-a-kings-memory.mp3"
+    ],
+    "durations": {
+      "keq1-lobamba-flight-context.mp3": 57.7205833,
+      "keq1-lobamba-intro.mp3": 36.0580833,
+      "keq1-lobamba-the-valley-of-heaven.mp3": 56.653,
+      "keq1-lobamba-where-the-crown-resides.mp3": 51.593375,
+      "keq1-lobamba-reed-dance-and-kingship.mp3": 64.817125,
+      "keq1-lobamba-a-kings-memory.mp3": 51.6165416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

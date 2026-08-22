@@ -169,5 +169,24 @@
     "_m/g/c/w/2/worsley-wp/salford-rc-cathedral.jpg",
     "_m/g/c/w/2/worsley-wp/salford-banner.jpg"
   ],
-  "updatedAt": "2026-06-23T05:04:26.141Z"
+  "updatedAt": "2026-06-23T05:04:26.141Z",
+  "narration": {
+    "files": [
+      "gcw2-worsley-flight-context.mp3",
+      "gcw2-worsley-intro.mp3",
+      "gcw2-worsley-the-dukes-idea.mp3",
+      "gcw2-worsley-the-bridgewater-canal.mp3",
+      "gcw2-worsley-halls-and-royalty.mp3",
+      "gcw2-worsley-modern-worsley.mp3"
+    ],
+    "durations": {
+      "gcw2-worsley-flight-context.mp3": 41.49875,
+      "gcw2-worsley-intro.mp3": 38.491125,
+      "gcw2-worsley-the-dukes-idea.mp3": 53.3727916,
+      "gcw2-worsley-the-bridgewater-canal.mp3": 50.588,
+      "gcw2-worsley-halls-and-royalty.mp3": 59.8187083,
+      "gcw2-worsley-modern-worsley.mp3": 50.8344166
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

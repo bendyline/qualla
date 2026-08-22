@@ -470,5 +470,22 @@
     "_m/u/1/2/c/eye-castle-wp/eye-castle-keep-geograph-org-u-1.jpg",
     "_m/u/1/2/c/eye-castle-wp/the-parish-church-of-st-peter-.jpg"
   ],
-  "updatedAt": "2026-06-25T22:08:02.198Z"
+  "updatedAt": "2026-06-25T22:08:02.198Z",
+  "narration": {
+    "files": [
+      "u12c-eye-castle-flight-context.mp3",
+      "u12c-eye-castle-intro.mp3",
+      "u12c-eye-castle-norman-foundation.mp3",
+      "u12c-eye-castle-fought-over-confiscated-rebuilt.mp3",
+      "u12c-eye-castle-kerrisons-folly.mp3"
+    ],
+    "durations": {
+      "u12c-eye-castle-flight-context.mp3": 45.3410833,
+      "u12c-eye-castle-intro.mp3": 55.2366666,
+      "u12c-eye-castle-norman-foundation.mp3": 57.4529583,
+      "u12c-eye-castle-fought-over-confiscated-rebuilt.mp3": 71.1879166,
+      "u12c-eye-castle-kerrisons-folly.mp3": 66.5394583
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

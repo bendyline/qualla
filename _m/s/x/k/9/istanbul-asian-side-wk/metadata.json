@@ -1919,5 +1919,26 @@
         "aerialBonus": 0
       }
     }
-  ]
+  ],
+  "narration": {
+    "files": [
+      "sxk9-istanbul-asian-side-flight-context.mp3",
+      "sxk9-istanbul-asian-side-intro.mp3",
+      "sxk9-istanbul-asian-side-older-than-istanbul-itself.mp3",
+      "sxk9-istanbul-asian-side-the-ferry-as-way-of-life.mp3",
+      "sxk9-istanbul-asian-side-kad-k-y-the-bohemian-shore.mp3",
+      "sxk9-istanbul-asian-side-towers-and-palaces-on-the-bosphorus.mp3",
+      "sxk9-istanbul-asian-side-markets-music-and-the-ends-of-the-city.mp3"
+    ],
+    "durations": {
+      "sxk9-istanbul-asian-side-flight-context.mp3": 55.2078333,
+      "sxk9-istanbul-asian-side-intro.mp3": 45.3561666,
+      "sxk9-istanbul-asian-side-older-than-istanbul-itself.mp3": 86.0571666,
+      "sxk9-istanbul-asian-side-the-ferry-as-way-of-life.mp3": 67.97675,
+      "sxk9-istanbul-asian-side-kad-k-y-the-bohemian-shore.mp3": 79.08525,
+      "sxk9-istanbul-asian-side-towers-and-palaces-on-the-bosphorus.mp3": 85.4534583,
+      "sxk9-istanbul-asian-side-markets-music-and-the-ends-of-the-city.mp3": 105.2493333
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

@@ -84,5 +84,24 @@
   "galleryPaths": [
     "_m/r/j/r/2/cape-bedford-mission-wp/cape-bedford-mission-station.jpg"
   ],
-  "updatedAt": "2026-06-28T16:10:23.439Z"
+  "updatedAt": "2026-06-28T16:10:23.439Z",
+  "narration": {
+    "files": [
+      "rjr2-cape-bedford-mission-flight-context.mp3",
+      "rjr2-cape-bedford-mission-intro.mp3",
+      "rjr2-cape-bedford-mission-the-first-mission-on-the-cape.mp3",
+      "rjr2-cape-bedford-mission-an-officially-pampered-hun.mp3",
+      "rjr2-cape-bedford-mission-the-removal.mp3",
+      "rjr2-cape-bedford-mission-a-return-to-hope.mp3"
+    ],
+    "durations": {
+      "rjr2-cape-bedford-mission-flight-context.mp3": 51.5495833,
+      "rjr2-cape-bedford-mission-intro.mp3": 39.72,
+      "rjr2-cape-bedford-mission-the-first-mission-on-the-cape.mp3": 54.133625,
+      "rjr2-cape-bedford-mission-an-officially-pampered-hun.mp3": 42.110375,
+      "rjr2-cape-bedford-mission-the-removal.mp3": 58.3166666,
+      "rjr2-cape-bedford-mission-a-return-to-hope.mp3": 46.6842083
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

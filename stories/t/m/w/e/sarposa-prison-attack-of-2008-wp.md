@@ -20,7 +20,7 @@ Canadian troops stationed at Kandahar Airfield deployed immediately to secure wh
 
 ## A Government Shaken
 
-The scale of the prison break humiliated the Afghan government. President Hamid Karzai, furious at the security failure, fired both the provincial police chief and the governor of Kandahar. He replaced the governor with Tooryalai Wesa, a member of the Barakzai tribe with close ties to the Karzai family -- a move that prioritized loyalty over local credibility. Karzai went further, publicly threatening to send Afghan troops across the border into Pakistan to pursue Taliban leaders sheltering there, rhetoric that strained an already fractured relationship between Kabul and Islamabad. The threat was never carried out, but it signaled how deeply the prison break had rattled the Afghan leadership.
+The scale of the prison break humiliated the Afghan government. President Hamid Karzai, furious at the security failure, fired both the provincial police chief and the governor of Kandahar. He replaced the governor with Tooryalai Wesa, a member of the Barakzai tribe with close ties to the Karzai family. Karzai went further, publicly threatening to send Afghan troops across the border into Pakistan to pursue Taliban leaders sheltering there, rhetoric that strained an already fractured relationship between Kabul and Islamabad. The threat was never carried out, but it signaled how deeply the prison break had rattled the Afghan leadership.
 
 ## Reinforcements and Reckoning
 
@@ -47,6 +47,8 @@ Sarposa Prison is located at 31.62N, 65.67E, on the northeast edge of Kandahar c
   - President Karzai fired the provincial police chief and governor of Kandahar
   - Tooryalai Wesa appointed new governor confirmed
   - 2011 tunnel escape: ~500 inmates through 320-meter tunnel confirmed
+- [Review — 2026-07-13](https://en.wikipedia.org/?curid=17932058)
+  - Removed an unsourced editorial characterization of former President Karzai's motive for the governor appointment ('a move that prioritized loyalty over local credibility'); the appointment and the documented Barakzai / Karzai-family ties are retained.
 
 ## Review Notes
 

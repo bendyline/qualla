@@ -507,5 +507,24 @@
     "_m/u/1/0/f/sandgate-castle-wp/sandgate-castle-sandgate-kent.jpg",
     "_m/u/1/0/f/sandgate-castle-wp/sandgate-castle-sandgate-geogr.jpg"
   ],
-  "updatedAt": "2026-06-25T15:22:18.327Z"
+  "updatedAt": "2026-06-25T15:22:18.327Z",
+  "narration": {
+    "files": [
+      "u10f-sandgate-castle-flight-context.mp3",
+      "u10f-sandgate-castle-intro.mp3",
+      "u10f-sandgate-castle-the-kings-device.mp3",
+      "u10f-sandgate-castle-civil-war-and-mary-grey.mp3",
+      "u10f-sandgate-castle-becoming-a-martello-tower.mp3",
+      "u10f-sandgate-castle-the-sea-wins.mp3"
+    ],
+    "durations": {
+      "u10f-sandgate-castle-flight-context.mp3": 54.7655,
+      "u10f-sandgate-castle-intro.mp3": 67.0089166,
+      "u10f-sandgate-castle-the-kings-device.mp3": 86.1212916,
+      "u10f-sandgate-castle-civil-war-and-mary-grey.mp3": 79.7238333,
+      "u10f-sandgate-castle-becoming-a-martello-tower.mp3": 76.7484583,
+      "u10f-sandgate-castle-the-sea-wins.mp3": 79.1771666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

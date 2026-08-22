@@ -56,5 +56,26 @@
     "sourceGeohash4": "sqxz"
   },
   "gallery": [],
-  "galleryPaths": []
+  "galleryPaths": [],
+  "narration": {
+    "files": [
+      "sqxz-pheneus-flight-context.mp3",
+      "sqxz-pheneus-intro.mp3",
+      "sqxz-pheneus-shut-in-on-every-side.mp3",
+      "sqxz-pheneus-a-city-famous-for-its-myths.mp3",
+      "sqxz-pheneus-roads-in-every-direction.mp3",
+      "sqxz-pheneus-what-the-yellow-line-means.mp3",
+      "sqxz-pheneus-the-modern-village-on-the-ancient-hill.mp3"
+    ],
+    "durations": {
+      "sqxz-pheneus-flight-context.mp3": 59.1849583,
+      "sqxz-pheneus-intro.mp3": 72.0604166,
+      "sqxz-pheneus-shut-in-on-every-side.mp3": 61.921625,
+      "sqxz-pheneus-a-city-famous-for-its-myths.mp3": 80.593375,
+      "sqxz-pheneus-roads-in-every-direction.mp3": 69.781875,
+      "sqxz-pheneus-what-the-yellow-line-means.mp3": 76.509,
+      "sqxz-pheneus-the-modern-village-on-the-ancient-hill.mp3": 62.1095416
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }

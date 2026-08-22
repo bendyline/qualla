@@ -112,5 +112,24 @@
     "_m/r/k/8/6/castle-hill-townsville-wp/robert-towns-monument.jpg",
     "_m/r/k/8/6/robert-towns-wp/robert-towns-statue.jpg"
   ],
-  "updatedAt": "2026-06-28T17:40:31.008Z"
+  "updatedAt": "2026-06-28T17:40:31.008Z",
+  "narration": {
+    "files": [
+      "rk86-robert-towns-flight-context.mp3",
+      "rk86-robert-towns-intro.mp3",
+      "rk86-robert-towns-a-merchant-of-the-southern-seas.mp3",
+      "rk86-robert-towns-the-search-for-cheap-labour.mp3",
+      "rk86-robert-towns-townsvale-and-the-first-voyage.mp3",
+      "rk86-robert-towns-the-people-behind-the-numbers.mp3"
+    ],
+    "durations": {
+      "rk86-robert-towns-flight-context.mp3": 47.3084583,
+      "rk86-robert-towns-intro.mp3": 44.8565416,
+      "rk86-robert-towns-a-merchant-of-the-southern-seas.mp3": 59.8745,
+      "rk86-robert-towns-the-search-for-cheap-labour.mp3": 48.6187916,
+      "rk86-robert-towns-townsvale-and-the-first-voyage.mp3": 57.2800833,
+      "rk86-robert-towns-the-people-behind-the-numbers.mp3": 67.4406666
+    },
+    "voice": "en-US-Ava3:DragonHDLatestNeural"
+  }
 }
